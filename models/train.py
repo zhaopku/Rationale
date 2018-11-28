@@ -182,7 +182,7 @@ class Train:
 			trainBatches = self.textData.train_batches
 
 			for idx, nextBatch in enumerate(tqdm(trainBatches)):
-				self.model.step(nextBatch, test=False, eager=self.args.eager)
+				self.model.step(nextBatch, test=True, eager=self.args.eager)
 				self.model.buildNetwork()
 
 				print()
@@ -212,7 +212,7 @@ class Train:
 			all_predictions = []
 			all_labels = []
 
-
+			all_masks = []
 			for idx, nextBatch in enumerate(tqdm(trainBatches)):
 
 				cnt += 1
@@ -221,34 +221,28 @@ class Train:
 				# print(idx)
 
 				ops, feed_dict, labels = self.model.step(nextBatch, test=False)
-				_, loss, predictions, corrects, mask = sess.run(ops, feed_dict)
+				_, loss, predictions, corrects, mask_per_sample, true_mask = sess.run(ops, feed_dict)
+				all_masks.extend(mask_per_sample)
 				all_predictions.extend(predictions)
 				all_labels.extend(labels)
 				total_corrects += corrects
 				totalTrainLoss += loss
 
 				self.summaryWriter.add_summary(utils.makeSummary({"train_loss": loss}), self.globalStep)
-				break
+
 			trainAcc = total_corrects * 1.0 / total_samples
+			train_avg_read = np.average(all_masks)
+			print('\nepoch = {}, Train, loss = {}, acc = {}, avg_read = {}'.
+				  format(e, totalTrainLoss, trainAcc, train_avg_read))
 
-			print('\nepoch = {}, Train, loss = {}, acc = {}'.
-				  format(e, totalTrainLoss, trainAcc))
-
-			out.write('\nepoch = {}, loss = {}, acc = {}\n'.
-					  format(e, totalTrainLoss, trainAcc))
+			out.write('\nepoch = {}, Train, loss = {}, acc = {}, avg_read = {}\n'.
+					  format(e, totalTrainLoss, trainAcc, train_avg_read))
 
 			out.flush()
-			continue
+
 			# calculate f1 score for val (weighted/unweighted)
-			valAcc, valLoss = self.test(sess, tag='val')
-			testAcc, testLoss = self.test(sess, tag='test')
-
-
-			print('\tVal, loss = {}, acc = {}'.format(valLoss, valAcc))
-			out.write('\tVal, loss = {}, acc = {}'.format(valLoss, valAcc))
-
-			print('\tTest, loss = {}, acc = {}'.format(testLoss, valAcc))
-			out.write('\tTest, loss = {}, acc = {}'.format(testLoss, valAcc))
+			valAcc, valLoss, val_avg_read = self.test(sess, tag='val', out=out)
+			testAcc, testLoss, test_avg_read = self.test(sess, tag='test', out=out)
 
 			out.flush()
 
@@ -258,6 +252,9 @@ class Train:
 
 			self.summaryWriter.add_summary(utils.makeSummary({"val_loss": valLoss}), e)
 			self.summaryWriter.add_summary(utils.makeSummary({'test_loss':testLoss}), e)
+			self.summaryWriter.add_summary(utils.makeSummary({'train_avg_read':train_avg_read}), e)
+			self.summaryWriter.add_summary(utils.makeSummary({'val_avg_read':val_avg_read}), e)
+			self.summaryWriter.add_summary(utils.makeSummary({'test_avg_read':test_avg_read}), e)
 
 			if valAcc > current_valAcc:
 				current_valAcc = valAcc
@@ -270,21 +267,12 @@ class Train:
 		out.close()
 
 
-	def write_predictions(self, predictions, tag='weighted'):
-		test_file = self.testFile + '_' + tag
-		with open(test_file, 'w') as file:
-			file.write('id\tturn1\tturn2\tturn3\tlabel\n')
-			idx2label = {v: k for k, v in self.textData.label2idx.items()}
-			for idx, sample in enumerate(self.textData.test_samples):
-				assert idx == sample.id
+	def write_predictions(self, predictions):
+		# TODO
+		#   add prediction code
+		pass
 
-				file.write(str(idx)+'\t')
-				for ind, sent in enumerate(sample.sents):
-					file.write(' '.join(sent[:sample.length[ind]]).encode('ascii', 'ignore').decode('ascii')+'\t')
-				file.write(idx2label[predictions[idx]]+'\n')
-		return test_file
-
-	def test(self, sess, tag='val'):
+	def test(self, sess, tag='val', out=None):
 		if tag == 'val':
 			print('Validating\n')
 			batches = self.textData.val_batches
@@ -299,21 +287,24 @@ class Train:
 		total_loss = 0.0
 		all_predictions = []
 		all_labels = []
+		all_masks = []
 		for idx, nextBatch in enumerate(tqdm(batches)):
 			cnt += 1
 
 			total_samples += nextBatch.batch_size
 			ops, feed_dict, labels = self.model.step(nextBatch, test=True)
 
-			loss, predictions, corrects, mask = sess.run(ops, feed_dict)
+			loss, predictions, corrects, mask_per_sample, true_mask = sess.run(ops, feed_dict)
+			all_masks.extend(mask_per_sample)
 			all_predictions.extend(predictions)
 			all_labels.extend(labels)
 			total_loss += loss
 			total_corrects += corrects
 
 		acc = total_corrects * 1.0 / total_samples
+		avg_read = np.average(all_masks)
 
-		if tag == 'test':
-			return all_predictions
-		else:
-			return acc, total_loss
+		print('\t{}, loss = {}, acc = {}, avg_read = {}'.format(tag, total_loss, acc, avg_read))
+		out.write('\t{}, loss = {}, acc = {}, avg_read = {}\n'.format(tag, total_loss, acc, avg_read))
+
+		return acc, total_loss, avg_read

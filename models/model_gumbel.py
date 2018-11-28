@@ -97,7 +97,7 @@ class ModelGumbel:
 					},
 					signature="tokens",
 					as_dict=True)['elmo']
-				self.embedded = tf.reshape(self.embedded, shape=[self.batch_size, self.args.nTurn, self.args.maxSteps, ELMOSIZE], name='elmo_embedded')
+				self.embedded = tf.reshape(self.embedded, shape=[self.batch_size, self.args.maxSteps, ELMOSIZE], name='elmo_embedded')
 			# [batch_size, n_turn, max_steps, embedding_size]
 			self.embedded = tf.nn.dropout(self.embedded, self.dropOutRate, name='embedding_dropout')
 
@@ -136,9 +136,10 @@ class ModelGumbel:
 			# punish selections, [batch_size]
 			valid_masks = tf.sequence_mask(self.length, maxlen=self.args.maxSteps, dtype=tf.float32)
 			mask = mask * valid_masks
-
+			self.true_mask = mask
+			# [batch_size]
 			mask_per_sample = tf.reduce_sum(mask, axis=-1) / tf.cast(self.length, tf.float32)
-
+			self.mask_per_sample = mask_per_sample
 			# discourages transitions
 
 			# [batch_size, max_steps-1]
@@ -332,11 +333,11 @@ class ModelGumbel:
 
 		if not test:
 			feed_dict[self.dropOutRate] = self.args.dropOut
-			ops = (self.optOp, self.loss, self.predictions, self.corrects, self.mask)
+			ops = (self.optOp, self.loss, self.predictions, self.corrects, self.mask_per_sample, self.true_mask)
 		else:
 			# during test, do not use drop out!!!!
 			feed_dict[self.dropOutRate] = 1.0
-			ops = (self.loss, self.predictions, self.corrects, self.mask)
+			ops = (self.loss, self.predictions, self.corrects, self.mask_per_sample, self.true_mask)
 
 		return ops, feed_dict, labels
 
