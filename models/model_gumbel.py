@@ -33,7 +33,7 @@ class ModelGumbel:
 		else:
 			self.embedding_size = self.args.embeddingSize
 
-
+		self.mask = None
 		self.v0 = None
 		self.v1 = None
 		self.v2 = None
@@ -110,6 +110,7 @@ class ModelGumbel:
 		with tf.name_scope('generator'):
 			# [batch_size, max_steps]
 			mask = self.generator()
+			self.mask = mask
 
 		with tf.name_scope('encoder'):
 			outputs = self.encoder(mask)
@@ -132,7 +133,27 @@ class ModelGumbel:
 			# [batch_size]
 			loss = tf.nn.sparse_softmax_cross_entropy_with_logits(logits=logits, labels=self.labels, name='loss')
 
-			self.loss = tf.reduce_mean(loss)
+			# punish selections, [batch_size]
+			valid_masks = tf.sequence_mask(self.length, maxlen=self.args.maxSteps, dtype=tf.float32)
+			mask = mask * valid_masks
+
+			mask_per_sample = tf.reduce_sum(mask, axis=-1) / tf.cast(self.length, tf.float32)
+
+			# discourages transitions
+
+			# [batch_size, max_steps-1]
+			mask_shift_right = tf.slice(mask, begin=[0, 0], size = [-1, self.args.maxSteps-1])
+			pad = tf.expand_dims(mask[:, 0], -1)
+			mask_shift_right = tf.concat([pad, mask_shift_right], axis=-1, name='mask_shift_right')
+
+			transitions = tf.abs(mask - mask_shift_right)
+			transitions = transitions * valid_masks
+
+			transitions_per_sample = tf.reduce_sum(transitions, axis=-1) / tf.cast(self.length, tf.float32)
+
+			additional_loss = self.args.theta * mask_per_sample + self.args.gamma * transitions_per_sample
+
+			self.loss = tf.reduce_mean(loss+additional_loss)
 
 		if self.args.eager:
 			return
@@ -148,7 +169,6 @@ class ModelGumbel:
 			opt = tf.train.AdamOptimizer(learning_rate=self.args.learningRate, beta1=0.9, beta2=0.999,
 											   epsilon=1e-08)
 			self.optOp = opt.minimize(self.loss)
-
 
 	def encoder(self, mask):
 		"""
@@ -312,11 +332,11 @@ class ModelGumbel:
 
 		if not test:
 			feed_dict[self.dropOutRate] = self.args.dropOut
-			ops = (self.optOp, self.loss, self.predictions, self.corrects)
+			ops = (self.optOp, self.loss, self.predictions, self.corrects, self.mask)
 		else:
 			# during test, do not use drop out!!!!
 			feed_dict[self.dropOutRate] = 1.0
-			ops = (self.loss, self.predictions, self.corrects)
+			ops = (self.loss, self.predictions, self.corrects, self.mask)
 
 		return ops, feed_dict, labels
 

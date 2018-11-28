@@ -221,14 +221,14 @@ class Train:
 				# print(idx)
 
 				ops, feed_dict, labels = self.model.step(nextBatch, test=False)
-				_, loss, predictions, corrects = sess.run(ops, feed_dict)
+				_, loss, predictions, corrects, mask = sess.run(ops, feed_dict)
 				all_predictions.extend(predictions)
 				all_labels.extend(labels)
 				total_corrects += corrects
 				totalTrainLoss += loss
 
 				self.summaryWriter.add_summary(utils.makeSummary({"train_loss": loss}), self.globalStep)
-
+				break
 			trainAcc = total_corrects * 1.0 / total_samples
 
 			print('\nepoch = {}, Train, loss = {}, acc = {}'.
@@ -238,7 +238,7 @@ class Train:
 					  format(e, totalTrainLoss, trainAcc))
 
 			out.flush()
-
+			continue
 			# calculate f1 score for val (weighted/unweighted)
 			valAcc, valLoss = self.test(sess, tag='val')
 			testAcc, testLoss = self.test(sess, tag='test')
@@ -299,17 +299,15 @@ class Train:
 		total_loss = 0.0
 		all_predictions = []
 		all_labels = []
-		all_sample_weights = []
 		for idx, nextBatch in enumerate(tqdm(batches)):
 			cnt += 1
 
 			total_samples += nextBatch.batch_size
-			ops, feed_dict, labels, sample_weights = self.model.step(nextBatch, test=True)
+			ops, feed_dict, labels = self.model.step(nextBatch, test=True)
 
-			loss, predictions, corrects = sess.run(ops, feed_dict)
+			loss, predictions, corrects, mask = sess.run(ops, feed_dict)
 			all_predictions.extend(predictions)
 			all_labels.extend(labels)
-			all_sample_weights.extend(sample_weights)
 			total_loss += loss
 			total_corrects += corrects
 
