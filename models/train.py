@@ -9,6 +9,7 @@ from sklearn.metrics import f1_score, precision_recall_fscore_support
 from models.model_gumbel import ModelGumbel
 import numpy as np
 import matplotlib.pyplot as plt
+import csv
 
 class Train:
 	def __init__(self):
@@ -77,6 +78,7 @@ class Train:
 		trainingArgs.add_argument('--gamma', type=float, default=0.1, help='for continuity')
 		trainingArgs.add_argument('--temperature', type=float, default=0.5, help='gumbel softmax temperature')
 		trainingArgs.add_argument('--threshold', type=float, default=0.5, help='threshold for producing hard mask')
+		trainingArgs.add_argument('--testModel', action='store_true')
 
 		return parser.parse_args(args)
 
@@ -165,6 +167,9 @@ class Train:
 
 				self.saver.restore(sess=self.sess, save_path=self.model_name)
 				print('Variables loaded from disk {}'.format(self.model_name))
+				if self.args.testModel:
+					self.test_model()
+					exit(0)
 			else:
 				init = tf.global_variables_initializer()
 				# initialize all global variables
@@ -172,6 +177,34 @@ class Train:
 				print('All variables initialized')
 
 			self.train(self.sess)
+
+	def test_model(self):
+		# init = tf.global_variables_initializer()
+		# self.sess.run(init)
+		acc, total_loss, avg_read, all_masks, all_predictions = self.test(self.sess, tag='test', mode='test')
+		test_samples = self.textData.test_samples
+		correct = 0
+		with open('out.csv', 'w') as csvfile:
+			writer = csv.writer(csvfile)
+			all_reads = []
+			for idx, sample in enumerate(test_samples):
+				masks = all_masks[idx]
+
+				row = sample.sentence[:sample.length]
+				row.append(str(all_predictions[idx]))
+				row.append(str(sample.label))
+				if sample.label == all_predictions[idx]:
+					correct += 1
+					row.append('correct')
+				else:
+					row.append('wrong')
+				writer.writerow(row)
+				writer.writerow(masks[:sample.length])
+				all_reads.extend(masks[:sample.length])
+
+			csvfile.write('correct = {}\n'.format(correct/len(test_samples)))
+			csvfile.write('reads = {}\n'.format(np.sum(all_reads)/len(all_reads)))
+
 
 	def train_eager(self):
 		"""
@@ -199,8 +232,8 @@ class Train:
 		current_valAcc = 0.0
 		for e in range(self.args.epochs):
 			# training
-			#trainBatches = self.textData.get_batches(tag='train')
-			trainBatches = self.textData.train_batches
+			trainBatches = self.textData.get_batches(tag='train')
+			#trainBatches = self.textData.train_batches
 			totalTrainLoss = 0.0
 
 			# cnt of batches
@@ -272,7 +305,7 @@ class Train:
 		#   add prediction code
 		pass
 
-	def test(self, sess, tag='val', out=None):
+	def test(self, sess, tag='val', out=None, mode=None):
 		if tag == 'val':
 			print('Validating\n')
 			batches = self.textData.val_batches
@@ -288,6 +321,7 @@ class Train:
 		all_predictions = []
 		all_labels = []
 		all_masks = []
+		all_true_masks = []
 		for idx, nextBatch in enumerate(tqdm(batches)):
 			cnt += 1
 
@@ -296,13 +330,19 @@ class Train:
 
 			loss, predictions, corrects, mask_per_sample, true_mask = sess.run(ops, feed_dict)
 			all_masks.extend(mask_per_sample)
+			all_true_masks.extend(true_mask)
 			all_predictions.extend(predictions)
 			all_labels.extend(labels)
 			total_loss += loss
 			total_corrects += corrects
+			# if idx == 2:
+			# 	break
 
 		acc = total_corrects * 1.0 / total_samples
 		avg_read = np.average(all_masks)
+
+		if mode == 'test':
+			return acc, total_loss, avg_read, all_true_masks, all_predictions
 
 		print('\t{}, loss = {}, acc = {}, avg_read = {}'.format(tag, total_loss, acc, avg_read))
 		out.write('\t{}, loss = {}, acc = {}, avg_read = {}\n'.format(tag, total_loss, acc, avg_read))
