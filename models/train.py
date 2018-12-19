@@ -82,8 +82,6 @@ class Train:
 
 		return parser.parse_args(args)
 
-
-
 	def main(self, args=None):
 		print('TensorFlow version {}'.format(tf.VERSION))
 

@@ -160,8 +160,12 @@ class ModelGumbel:
 			return
 
 		with tf.name_scope('backpropagation'):
-			# trainable_params = tf.trainable_variables()
-			# gradients = tf.gradients(self.loss, trainable_params)
+			trainable_params = tf.trainable_variables()
+
+			m = tf.reduce_mean(self.args.theta * mask_per_sample)
+			t = tf.reduce_mean(self.args.gamma * transitions_per_sample)
+			gradients_m = tf.gradients(m, trainable_params)
+			gradients_t = tf.gradients(t, trainable_params)
 			#
 			# opt = tf.train.AdamOptimizer(learning_rate=self.args.learningRate, beta1=0.9, beta2=0.999,
 			#                              epsilon=1e-08)
