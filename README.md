@@ -15,4 +15,4 @@ Using Gumbel Softmax instead of REINFORCE.
     1. Currently using Rotten Tomatoes; planning to extend to other datasets.
 
 ## Result
-    See `out.csv` for selected rationales (labeled with 1).
+    See out.csv for selected rationales (labeled with 1).
