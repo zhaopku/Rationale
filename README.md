@@ -12,4 +12,7 @@ Using Gumbel Softmax instead of REINFORCE.
     See models/train.py for details of commandline options.
 
 ## Dataset
-    Currently using Rotten Tomatoes; planning to extend to other datasets.
+    1. Currently using Rotten Tomatoes; planning to extend to other datasets.
+
+## Result
+    See out.csv for selected rationales (labeled with 1).
