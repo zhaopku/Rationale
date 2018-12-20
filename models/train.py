@@ -10,6 +10,7 @@ from models.model_gumbel import ModelGumbel
 import numpy as np
 import matplotlib.pyplot as plt
 import csv
+from models.congress_data import CongressData
 
 class Train:
 	def __init__(self):
@@ -41,13 +42,16 @@ class Train:
 		dataArgs.add_argument('--summaryDir', type=str, default='summaries')
 		dataArgs.add_argument('--datasetName', type=str, default='dataset', help='a TextData object')
 
+		dataArgs.add_argument('--dataset', type=str, default='congress')
+
 		dataArgs.add_argument('--dataDir', type=str, default='data', help='dataset directory, save pkl here')
-		dataArgs.add_argument('--dataset', type=str, default='rotten')
 		dataArgs.add_argument('--trainFile', type=str, default='train.txt')
 		dataArgs.add_argument('--valFile', type=str, default='val.txt')
 		dataArgs.add_argument('--testFile', type=str, default='test.txt')
 		dataArgs.add_argument('--embeddingFile', type=str, default='glove.840B.300d.txt')
 		dataArgs.add_argument('--vocabSize', type=int, default=-1, help='vocab size, use the most frequent words')
+
+		dataArgs.add_argument('--congress_dir', type=str, default='/Users/mengzhao/congress_data/gpo/H')
 
 
 		# neural network options
@@ -55,7 +59,7 @@ class Train:
 		nnArgs.add_argument('--embeddingSize', type=int, default=300)
 		nnArgs.add_argument('--hiddenSize', type=int, default=300)
 		nnArgs.add_argument('--rnnLayers', type=int, default=1)
-		nnArgs.add_argument('--maxSteps', type=int, default=30)
+		nnArgs.add_argument('--maxSteps', type=int, default=500)
 		nnArgs.add_argument('--nClasses', type=int, default=2)
 		nnArgs.add_argument('--dependent', action='store_true', help='two kinds of rationales, only independent is supported at the moment')
 		nnArgs.add_argument('--rUnit', type=str, default='lstm', choices=['lstm', 'rcnn'], help='only support lstm at the moment')
@@ -70,7 +74,7 @@ class Train:
 		trainingArgs.add_argument('--trainElmo', action='store_true')
 		trainingArgs.add_argument('--dropOut', type=float, default=1.0, help='dropout rate for RNN (keep prob)')
 		trainingArgs.add_argument('--learningRate', type=float, default=0.001, help='learning rate')
-		trainingArgs.add_argument('--batchSize', type=int, default=100, help='batch size')
+		trainingArgs.add_argument('--batchSize', type=int, default=20, help='batch size')
 		trainingArgs.add_argument('--epochs', type=int, default=200, help='most training epochs')
 		trainingArgs.add_argument('--device', type=str, default='/gpu:0', help='use the first GPU as default')
 		trainingArgs.add_argument('--loadModel', action='store_true', help='whether or not to use old models')
@@ -112,7 +116,14 @@ class Train:
 			os.makedirs(self.summaryDir)
 
 		if not os.path.exists(datasetFileName):
-			self.textData = TextData(self.args)
+			if self.args.dataset == 'rotten':
+				self.textData = TextData(self.args)
+			elif self.args.dataset == 'congress':
+				self.textData = CongressData(self.args)
+			else:
+				print('Cannot recognize {}'.format(self.args.dataset))
+				raise NotImplementedError
+
 			with open(datasetFileName, 'wb') as datasetFile:
 				p.dump(self.textData, datasetFile)
 			print('dataset created and saved to {}, exiting ...'.format(datasetFileName))
@@ -260,7 +271,7 @@ class Train:
 				totalTrainLoss += loss
 
 				self.summaryWriter.add_summary(utils.makeSummary({"train_loss": loss}), self.globalStep)
-
+				break
 			trainAcc = total_corrects * 1.0 / total_samples
 			train_avg_read = np.average(all_masks)
 			print('\nepoch = {}, Train, loss = {}, acc = {}, avg_read = {}'.
@@ -270,7 +281,7 @@ class Train:
 					  format(e, totalTrainLoss, trainAcc, train_avg_read))
 
 			out.flush()
-
+			#continue
 			# calculate f1 score for val (weighted/unweighted)
 			valAcc, valLoss, val_avg_read = self.test(sess, tag='val', out=out)
 			testAcc, testLoss, test_avg_read = self.test(sess, tag='test', out=out)

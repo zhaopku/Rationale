@@ -357,9 +357,9 @@ class ModelGumbel:
 		for sample in batch.samples:
 			labels.append(sample.label)
 			if self.args.elmo:
-				data.append(sample.sentence)
+				data.append(sample.words)
 			else:
-				data.append(sample.input_)
+				data.append(sample.word_ids)
 			length.append(sample.length)
 
 		data = np.asarray(data)
