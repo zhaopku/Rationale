@@ -271,7 +271,7 @@ class Train:
 				totalTrainLoss += loss
 
 				self.summaryWriter.add_summary(utils.makeSummary({"train_loss": loss}), self.globalStep)
-				break
+				#break
 			trainAcc = total_corrects * 1.0 / total_samples
 			train_avg_read = np.average(all_masks)
 			print('\nepoch = {}, Train, loss = {}, acc = {}, avg_read = {}'.
