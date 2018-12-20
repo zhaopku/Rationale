@@ -3,8 +3,8 @@ LEONHARD = True
 hiddensizes = [100]
 lrs = [0.001]
 dropouts = [0.8]
-thetas = [0.01, 0.1, 1.0, 10.0]
-gammas = [0.01, 0.1, 1.0, 10.0]
+thetas = [0.01, 0.1, 1.0]
+gammas = [0.01, 0.1, 1.0]
 
 cnt = 0
 # --skimloss
@@ -16,8 +16,8 @@ for theta in thetas:
 					if cnt == 0:
 						print('module load python_gpu/3.6.4 &&')
 						print('module load cuda/9.0.176 cudnn/7.3 &&')
-					print('bsub -n 3 -R  "select[gpu_model1==GeForceGTX1080Ti] rusage[mem=2048,ngpus_excl_p=1]" python main.py --hiddenSize {}'
-					      ' --maxSteps 30 --dropOut {} --batchSize 100 --preEmbedding --elmo --learningRate {} --epochs 100 --theta {} --gamma {} &&'
+					print('bsub -W 48:00 -n 3 -R  "select[gpu_model1==GeForceGTX1080Ti] rusage[mem=4096,ngpus_excl_p=1]" python main.py --hiddenSize {}'
+					      ' --maxSteps 500 --dropOut {} --batchSize 20 --preEmbedding --learningRate {} --epochs 100 --theta {} --gamma {} &&'
 					      .format(h, d, lr, theta, gamma))
 					cnt += 1
 					if cnt % 13 == 0:
