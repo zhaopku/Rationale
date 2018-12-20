@@ -1,6 +1,9 @@
 import pickle as p
 from tqdm import tqdm
 
+all_length = []
+import matplotlib.pyplot as plt
+
 with open('data/congress/congress--1-20-500.pkl', 'rb') as file:
 	data = p.load(file)
 	d = 0
@@ -8,6 +11,7 @@ with open('data/congress/congress--1-20-500.pkl', 'rb') as file:
 	n_samples = len(data.train_samples)
 
 	for sample in tqdm(data.train_samples):
+		all_length.append(sample.length)
 		if sample.label == 0:
 			d += 1
 		elif sample.label == 1:
@@ -19,6 +23,8 @@ with open('data/congress/congress--1-20-500.pkl', 'rb') as file:
 	print('Democrats = {}, {}'.format(d, d/n_samples))
 	print('Republican = {}, {}'.format(r, r/n_samples))
 
+plt.hist(all_length)
+plt.show()
 
 """
 in training set:
