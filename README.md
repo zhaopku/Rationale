@@ -12,7 +12,9 @@ Using Gumbel Softmax instead of REINFORCE.
     See models/train.py for details of commandline options.
 
 ## Dataset
-    1. Currently using Rotten Tomatoes; planning to extend to other datasets.
+    1. Rotten Tomatoes;
+    2. Congress Dataset (ETH internal only);
+    3. BeerReview Dataset (TODO).
 
 ## Result
     See out.csv for selected rationales (labeled with 1).
