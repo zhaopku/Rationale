@@ -17,4 +17,4 @@ Using Gumbel Softmax instead of REINFORCE.
     3. BeerReview Dataset (TODO).
 
 ## Result
-    See out.csv for selected rationales (labeled with 1).
+    See out.csv (Rotten Tomatoes) or case_studies (Congress Dataset) for selected rationales (labeled with 1).
