@@ -1,0 +1,6 @@
+wrong
+If(0.0) 
+the(0.0) gentleman(1.0) will(1.0) yield(0.0) further(0.0) ,(0.0) in(1.0) Connecticut(1.0) we(1.0) are(0.0) given(0.0) from(0.0) the(0.0) Federal(0.0) Government(1.0) in(0.0) Medicare(0.0) $(1.0) 2.5(0.0) billion(0.0) 
+,(0.0) and(0.0) it(0.0) goes(0.0) up(0.0) to(0.0) $(0.0) 3.6(0.0) billion(1.0) .(0.0) That(0.0) is(0.0) a(0.0) 40(0.0) percent(0.0) increase(0.0) .(0.0) We(0.0) are(1.0) equal(0.0) 
+.(0.0) Per(1.0) beneficiary(0.0) it(1.0) is(0.0) $(0.0) 5,135(0.0) ,(1.0) and(1.0) that(1.0) will(0.0) go(1.0) up(0.0) to(1.0) $(1.0) 6,782(0.0) per(0.0) beneficiary(0.0) ,(1.0) per(1.0) 
+beneficiary(0.0) .(0.0) 

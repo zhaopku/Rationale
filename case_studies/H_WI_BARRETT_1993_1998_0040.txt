@@ -1,0 +1,5 @@
+correct
+Speaker(1.0) 
+,(0.0) if(0.0) you(0.0) would(1.0) be(1.0) kind(0.0) enough(1.0) to(0.0) explain(0.0) the(0.0) procedure(0.0) ,(1.0) we(1.0) have(1.0) an(1.0) amendment(1.0) here(1.0) and(0.0) we(1.0) have(0.0) 
+an(0.0) underlying(0.0) rule(0.0) .(0.0) Is(1.0) it(1.0) permissible(0.0) under(1.0) the(0.0) rules(1.0) to(0.0) move(0.0) the(0.0) previous(0.0) question(1.0) on(0.0) both(0.0) the(1.0) amendment(0.0) and(0.0) 
+the(1.0) underlying(0.0) rule(0.0) ?(0.0) 

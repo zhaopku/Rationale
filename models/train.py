@@ -174,10 +174,12 @@ class Train:
 					print(self.model_path)
 					exit(-1)
 
-				self.saver.restore(sess=self.sess, save_path=self.model_name)
+				# self.saver.restore(sess=self.sess, save_path=self.model_name)
+				init = tf.global_variables_initializer()
+				self.sess.run(init)
 				print('Variables loaded from disk {}'.format(self.model_name))
 				if self.args.testModel:
-					self.test_model()
+					self.test_model_congress()
 					exit(0)
 			else:
 				init = tf.global_variables_initializer()
@@ -186,6 +188,31 @@ class Train:
 				print('All variables initialized')
 
 			self.train(self.sess)
+
+	def test_model_congress(self):
+		acc, total_loss, avg_read, all_masks, all_predictions = self.test(self.sess, tag='test', mode='test')
+		test_samples = self.textData.test_samples
+
+		out_dir = 'case_studies'
+
+		for idx, sample in enumerate(test_samples):
+			if not os.path.exists(out_dir):
+				os.makedirs(out_dir)
+
+			with open(os.path.join(out_dir, sample.id), 'w') as file:
+				masks = all_masks[idx]
+
+				if sample.label == all_predictions[idx]:
+					file.write('correct\n')
+				else:
+					file.write('wrong\n')
+
+				for i , word in enumerate(sample.words[:sample.length]):
+					file.write('{}({}) '.format(word, masks[i]))
+					if i % 20 == 0:
+						file.write('\n')
+
+
 
 	def test_model(self):
 		# init = tf.global_variables_initializer()
@@ -314,13 +341,16 @@ class Train:
 		#   add prediction code
 		pass
 
-	def test(self, sess, tag='val', out=None, mode=None):
+	def test(self, sess, tag='val', out=None, mode=None, n_batches=2):
 		if tag == 'val':
 			print('Validating\n')
 			batches = self.textData.val_batches
 		else:
 			print('Testing\n')
 			batches = self.textData.test_batches
+
+		if mode == 'test':
+			batches = batches[:n_batches]
 
 		cnt = 0
 
