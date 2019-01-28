@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) just(0.0) heard(0.0) a(0.0) term(0.0) used(0.0) here(0.0) ,(0.0) ``(0.0) legislative(0.0) malpractice(1.0) .(0.0) ''(0.0) It(0.0) 's(0.0) an(0.0) interesting(0.0) term(0.0) because(0.0) I(0.0) believe(0.0) 
+it(0.0) applies(0.0) so(0.0) succinctly(0.0) to(0.0) the(0.0) process(0.0) that(0.0) gave(0.0) us(0.0) the(0.0) Affordable(1.0) Care(1.0) Act(0.0) .(0.0) Many(0.0) people(0.0) now(0.0) do(0.0) n't(0.0) 
+even(0.0) remember(0.0) December(0.0) 21(0.0) ,(0.0) 2009(0.0) .(0.0) It(0.0) is(0.0) but(0.0) a(0.0) distant(0.0) and(0.0) dim(0.0) memory(0.0) ;(0.0) but(0.0) on(0.0) that(0.0) very(0.0) 
+night(0.0) ,(0.0) on(0.0) the(0.0) longest(0.0) and(0.0) the(0.0) darkest(0.0) evening(0.0) of(0.0) the(0.0) year(0.0) ,(0.0) the(0.0) Senate(1.0) held(0.0) a(0.0) cloture(1.0) vote(0.0) to(0.0) 
+allow(0.0) the(0.0) Affordable(1.0) Care(0.0) Act(0.0) to(0.0) proceed(0.0) to(0.0) a(0.0) vote(0.0) in(0.0) the(0.0) full(0.0) Senate(0.0) .(0.0) It(0.0) passed(0.0) the(0.0) 60-vote(1.0) margin(0.0) 
+.(0.0) On(0.0) Christmas(0.0) Eve(0.0) ,(0.0) the(0.0) Affordable(1.0) Care(0.0) Act(0.0) passed(0.0) by(0.0) that(0.0) same(0.0) 60-vote(1.0) margin(1.0) ,(0.0) right(0.0) ahead(0.0) of(0.0) a(0.0) 
+big(0.0) snowstorm(0.0) because(0.0) all(0.0) of(0.0) the(0.0) Senators(1.0) wanted(0.0) to(0.0) get(0.0) out(0.0) of(0.0) town(0.0) .(0.0) Let(0.0) 's(0.0) think(0.0) about(0.0) this(0.0) for(0.0) 
+a(0.0) minute(0.0) .(0.0) Were(0.0) there(0.0) hearings(1.0) on(0.0) H.R(0.0) .(0.0) 3590(0.0) in(0.0) the(0.0) House(0.0) of(0.0) Representatives(0.0) ?(1.0) No(0.0) ,(0.0) there(0.0) were(0.0) 
+not(0.0) .(0.0) There(0.0) were(0.0) health(1.0) care(0.0) hearings(1.0) ,(0.0) to(0.0) be(0.0) sure(0.0) .(0.0) Those(0.0) led(0.0) to(0.0) a(0.0) big(0.0) ,(0.0) explosive(0.0) growth(1.0) 
+in(0.0) attendance(0.0) at(0.0) our(0.0) town(0.0) halls(0.0) in(0.0) the(0.0) summer(0.0) of(0.0) 2009(0.0) ,(0.0) but(0.0) there(0.0) was(0.0) never(0.0) a(0.0) hearing(0.0) on(0.0) H.R(0.0) 
+.(0.0) 3590(0.0) ,(0.0) save(0.0) the(0.0) hearing(0.0) in(0.0) the(0.0) Rules(0.0) Committee(0.0) the(0.0) night(0.0) before(0.0) it(0.0) came(0.0) to(0.0) the(0.0) floor(0.0) of(0.0) the(0.0) 
+House(0.0) in(0.0) March(0.0) of(0.0) 2010(0.0) .(0.0) The(0.0) hearings(1.0) on(0.0) H.R(0.0) .(0.0) 3200(0.0) were(0.0) vastly(0.0) different(0.0) from(0.0) the(0.0) law(1.0) as(0.0) written(0.0) 
+in(0.0) H.R(0.0) .(0.0) 3590(0.0) .(0.0) And(0.0) here(0.0) 's(0.0) the(0.0) real(0.0) crux(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) .(0.0) Here(0.0) 's(0.0) what(0.0) 's(0.0) really(0.0) 
+wrong(0.0) and(0.0) why(0.0) Washington(1.0) is(0.0) in(0.0) such(0.0) a(0.0) lather(0.0) right(0.0) now(0.0) :(0.0) The(0.0) Affordable(1.0) Care(0.0) Act(0.0) was(0.0) never(0.0) intended(0.0) to(0.0) 
+become(0.0) law(1.0) .(0.0) It(0.0) was(0.0) a(0.0) vehicle(0.0) to(0.0) get(0.0) the(0.0) Senators(1.0) home(0.0) on(0.0) Christmas(0.0) Eve(0.0) before(0.0) the(0.0) snowstorm(1.0) .(0.0) It(0.0) 
+was(0.0) never(0.0) intended(0.0) to(0.0) be(0.0) law(1.0) .(0.0) The(0.0) law(1.0) that(0.0) was(0.0) passed(0.0) by(0.0) the(0.0) Senate(0.0) was(0.0) a(0.0) rough(0.0) draft(0.0) .(0.0) 
+It's(0.0) equivalent(0.0) to(0.0) saying(0.0) the(0.0) dog(0.0) ate(0.0) my(0.0) homework(0.0) so(0.0) I(0.0) turned(0.0) in(0.0) the(0.0) rough(0.0) draft(0.0) ;(0.0) and(0.0) ,(0.0) unfortunately(0.0) 
+,(0.0) the(0.0) rough(0.0) draft(0.0) got(0.0) signed(0.0) into(0.0) law(1.0) the(0.0) following(0.0) March(0.0) ,(0.0) and(0.0) that(0.0) 's(0.0) why(0.0) there(0.0) 's(0.0) so(0.0) much(0.0) 
+difficulty(0.0) with(0.0) this(0.0) .(0.0) You(0.0) know(0.0) ,(0.0) HR(0.0) directors(0.0) across(0.0) this(0.0) country(1.0) ,(0.0) labor(1.0) lawyers(1.0) across(0.0) this(0.0) country(1.0) are(0.0) just(0.0) 
+literally(0.0) pulling(0.0) their(0.0) hair(0.0) out(0.0) trying(0.0) to(0.0) make(0.0) heads(0.0) or(0.0) tails(0.0) of(0.0) what(0.0) they(0.0) are(0.0) required(0.0) to(0.0) do(0.0) under(0.0) the(0.0) 
+law(1.0) .(0.0) They(0.0) get(0.0) conflicting(0.0) information(0.0) from(0.0) people(0.0) at(0.0) the(0.0) Federal(1.0) agencies(1.0) .(0.0) Goodness(0.0) knows(0.0) ,(0.0) in(0.0) our(0.0) committee(0.0) hearings(0.0) 
+on(0.0) Energy(0.0) and(0.0) Commerce(0.0) ,(0.0) we(0.0) have(0.0) yet(0.0) to(0.0) have(0.0) an(0.0) administration(1.0) person(0.0) come(0.0) in(0.0) and(0.0) really(0.0) be(0.0) prepared(0.0) to(0.0) 
+answer(0.0) our(0.0) questions(0.0) .(0.0) What(0.0) they(0.0) are(0.0) prepared(0.0) to(0.0) do(0.0) is(0.0) to(0.0) try(0.0) to(0.0) mislead(0.0) us(0.0) and(0.0) try(0.0) to(0.0) fill(0.0) 
+the(0.0) time(0.0) and(0.0) try(0.0) to(0.0) filibuster(1.0) and(0.0) live(0.0) through(0.0) the(0.0) hearing(0.0) of(0.0) the(0.0) day(0.0) and(0.0) then(0.0) get(0.0) on(0.0) to(0.0) whatever(0.0) 
+it(0.0) is(0.0) they(0.0) do(0.0) .(0.0) I(0.0) asked(0.0) the(0.0) Director(0.0) of(0.0) the(0.0) Center(0.0) for(0.0) Consumer(0.0) Information(0.0) and(0.0) Insurance(0.0) Oversight(0.0) just(0.0) 
+
+
+----- below are rationale words -----
+
+malpractice	
+Affordable	Care	
+
+Senate	cloture	
+Affordable	60-vote	
+Affordable	60-vote	margin	
+Senators	
+hearings	?	
+health	hearings	growth	
+
+
+hearings	law	
+Speaker	
+Washington	Affordable	
+law	Senators	snowstorm	
+law	law	
+
+law	
+country	labor	lawyers	country	
+
+law	Federal	agencies	
+administration	
+
+filibuster	
+
+
+reads % = 0.072

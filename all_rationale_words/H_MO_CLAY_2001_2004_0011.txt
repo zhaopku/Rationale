@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) as(0.0) a(0.0) member(0.0) of(0.0) the(0.0) House(0.0) Committee(0.0) on(0.0) Government(0.0) Reform(0.0) ,(0.0) I(0.0) am(0.0) pleased(0.0) to(0.0) join(0.0) my(0.0) colleague(0.0) 
+in(0.0) the(0.0) consideration(0.0) of(0.0) H.R(0.0) .(0.0) 4427(0.0) ,(0.0) legislation(0.0) designating(1.0) the(0.0) postal(0.0) facility(0.0) in(0.0) Montauk(1.0) ,(0.0) New(0.0) York(1.0) ,(0.0) after(0.0) 
+Perry(0.0) Duryea(1.0) .(0.0) This(0.0) measure(0.0) which(0.0) was(0.0) introduced(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) York(1.0) ((0.0) Mr.(0.0) Bishop(1.0) )(0.0) on(0.0) May(0.0) 
+20(0.0) ,(0.0) 2004(0.0) ,(0.0) was(0.0) unanimously(0.0) reported(0.0) by(0.0) our(0.0) committee(0.0) on(0.0) June(0.0) 24(0.0) ,(0.0) 2004(0.0) .(0.0) H.R(0.0) .(0.0) 4427(0.0) enjoys(0.0) 
+the(0.0) support(0.0) and(0.0) cosponsorship(1.0) of(0.0) the(0.0) entire(0.0) New(0.0) York(1.0) delegation(0.0) .(0.0) Perry(0.0) Duryea(1.0) ,(0.0) a(0.0) lifelong(0.0) resident(0.0) of(0.0) Montauk(1.0) ,(0.0) 
+New(0.0) York(1.0) ,(0.0) was(0.0) a(0.0) political(0.0) legend(0.0) .(0.0) For(0.0) 18(0.0) years(0.0) ,(0.0) from(0.0) 1960(0.0) to(0.0) 1978(0.0) ,(0.0) Mr.(0.0) Duryea(1.0) served(0.0) 
+as(0.0) the(0.0) Republican(0.0) Assemblyman(1.0) from(1.0) the(1.0) First(0.0) District(0.0) .(0.0) While(0.0) serving(0.0) in(0.0) the(0.0) State(0.0) Legislature(0.0) ,(0.0) Mr.(0.0) Duryea(1.0) served(0.0) as(0.0) 
+Minority(0.0) Leader(0.0) and(0.0) Speaker(0.0) of(0.0) the(0.0) Assembly(0.0) .(0.0) Mr.(0.0) Duryea(1.0) was(0.0) known(0.0) for(0.0) being(0.0) bipartisan(1.0) and(0.0) recognized(0.0) as(0.0) a(0.0) community(0.0) 
+leader(0.0) .(0.0) He(0.0) worked(0.0) tirelessly(0.0) for(0.0) the(0.0) people(0.0) of(0.0) New(1.0) York(1.0) State(0.0) and(0.0) Long(0.0) Island(0.0) .(0.0) Sadly(0.0) ,(0.0) he(0.0) passed(0.0) 
+away(0.0) in(0.0) January(0.0) of(0.0) this(0.0) year(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) commend(0.0) my(0.0) colleague(0.0) for(0.0) seeking(0.0) to(0.0) honor(0.0) the(0.0) legacy(1.0) 
+of(0.0) Perry(1.0) Duryea(1.0) ,(0.0) and(0.0) I(0.0) urge(0.0) the(0.0) swift(1.0) passage(1.0) of(0.0) this(0.0) bill(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) have(0.0) no(0.0) 
+further(0.0) requests(0.0) for(0.0) time(0.0) ,(0.0) and(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	
+designating	Montauk	York	
+Duryea	York	Bishop	
+
+cosponsorship	York	Duryea	Montauk	
+York	Duryea	
+Assemblyman	from	the	Duryea	
+Duryea	bipartisan	
+New	York	
+Speaker	legacy	
+Perry	Duryea	swift	passage	bill	Speaker	
+
+
+reads % = 0.1228813559322034

@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) join(0.0) my(0.0) colleagues(0.0) in(0.0) honor(0.0) of(0.0) Chairman(0.0) Bill(0.0) Goodling(1.0) .(0.0) For(0.0) the(0.0) last(0.0) ten(0.0) years(0.0) ,(0.0) 
+I(0.0) 've(0.0) had(0.0) the(0.0) privilege(1.0) of(0.0) working(0.0) with(0.0) Bill(1.0) Goodling(1.0) on(0.0) the(0.0) Education(0.0) and(0.0) Workforce(0.0) Committee(0.0) to(0.0) promote(0.0) fairness(0.0) in(0.0) 
+labor(1.0) as(0.0) well(0.0) as(0.0) education(0.0) policy(0.0) .(0.0) Those(0.0) that(0.0) are(0.0) closest(0.0) to(0.0) my(0.0) heart(0.0) are(0.0) policies(1.0) particularly(0.0) affecting(0.0) our(0.0) nation(1.0) 
+'s(0.0) rural(1.0) children(0.0) .(0.0) Our(0.0) nation(1.0) 's(0.0) children(0.0) are(0.0) fortunate(0.0) to(0.0) have(0.0) had(0.0) someone(0.0) as(0.0) dedicated(0.0) and(0.0) experienced(0.0) at(0.0) the(0.0) 
+helm(0.0) of(0.0) the(0.0) committee(0.0) charged(0.0) with(0.0) creating(0.0) and(0.0) refining(0.0) education(1.0) policy(1.0) .(0.0) Through(0.0) his(0.0) steadfast(0.0) commitment(0.0) to(0.0) promoting(1.0) children(0.0) 's(0.0) 
+issues(0.0) like(0.0) literacy(1.0) ,(0.0) technology(0.0) ,(0.0) quality(0.0) teachers(0.0) ,(0.0) and(0.0) IDEA(1.0) funding(1.0) --(0.0) Bill(0.0) Goodling(1.0) has(0.0) truly(0.0) been(0.0) a(0.0) champion(0.0) 
+for(0.0) children(0.0) across(0.0) this(0.0) country(1.0) .(0.0) At(0.0) the(0.0) end(0.0) of(0.0) this(0.0) session(0.0) ,(0.0) Bill(0.0) Goodling(1.0) and(0.0) I(0.0) will(0.0) both(0.0) be(0.0) 
+stepping(0.0) down(0.0) and(0.0) moving(0.0) on(0.0) to(0.0) new(0.0) challenges(0.0) in(0.0) private(0.0) life(0.0) .(0.0) But(0.0) no(0.0) matter(0.0) what(0.0) the(0.0) future(0.0) has(0.0) in(0.0) 
+store(0.0) for(0.0) Bill(1.0) Goodling(1.0) ,(0.0) I(0.0) know(0.0) his(0.0) commitment(0.0) to(0.0) our(0.0) nation(1.0) 's(0.0) children(0.0) will(0.0) continue(0.0) and(0.0) that(0.0) our(0.0) country(1.0) 
+is(0.0) a(0.0) better(0.0) place(0.0) because(0.0) of(0.0) his(0.0) service(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Goodling	
+privilege	Bill	Goodling	
+labor	policies	nation	
+rural	nation	
+education	policy	promoting	
+literacy	IDEA	funding	Goodling	
+country	Goodling	
+
+Bill	Goodling	nation	country	
+
+
+reads % = 0.11578947368421053

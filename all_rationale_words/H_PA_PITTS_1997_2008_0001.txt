@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) over(0.0) the(0.0) break(0.0) I(0.0) had(0.0) the(0.0) opportunity(0.0) to(0.0) travel(0.0) to(0.0) Iraq(1.0) to(0.0) meet(0.0) with(0.0) our(0.0) troops(1.0) and(0.0) military(0.0) 
+commanders(0.0) on(0.0) the(0.0) ground(0.0) there(0.0) .(0.0) Two(0.0) observations(0.0) :(0.0) the(0.0) morale(1.0) of(0.0) our(0.0) troops(1.0) is(0.0) high(0.0) ,(0.0) and(0.0) the(0.0) surge(1.0) 
+is(0.0) working(0.0) .(0.0) General(0.0) Petraeus(1.0) has(0.0) crafted(0.0) a(0.0) highly(0.0) sophisticated(0.0) counterinsurgency(1.0) strategy(0.0) that(0.0) has(0.0) put(0.0) the(0.0) terrorists(1.0) on(0.0) the(0.0) defensive(1.0) 
+and(0.0) brought(0.0) some(0.0) level(0.0) of(0.0) security(0.0) to(0.0) many(0.0) Iraqi(1.0) communities(0.0) where(0.0) there(0.0) had(0.0) been(0.0) none(0.0) before(0.0) .(0.0) Now(0.0) I(0.0) know(0.0) 
+it(0.0) 's(0.0) hard(0.0) to(0.0) admit(0.0) when(0.0) you(0.0) are(0.0) wrong(0.0) ,(0.0) but(0.0) there(0.0) are(0.0) many(0.0) in(0.0) this(0.0) Chamber(0.0) who(0.0) came(0.0) to(0.0) 
+this(0.0) floor(0.0) and(0.0) opposed(1.0) the(0.0) surge(1.0) saying(0.0) it(0.0) would(0.0) be(0.0) a(0.0) failure(0.0) .(0.0) Well(0.0) ,(0.0) it(0.0) has(0.0) n't(0.0) been(0.0) .(0.0) 
+It(0.0) has(0.0) been(0.0) a(0.0) success(0.0) .(0.0) In(0.0) fact(0.0) ,(0.0) even(0.0) the(0.0) United(0.0) Nations(0.0) is(0.0) recognizing(0.0) the(0.0) success(0.0) of(0.0) the(0.0) Petraeus(1.0) 
+strategy(0.0) .(0.0) The(0.0) U.N.(1.0) 's(0.0) top(0.0) envoy(0.0) in(0.0) Iraq(1.0) acknowledged(0.0) the(0.0) improvements(0.0) in(0.0) security(0.0) and(0.0) even(0.0) tentative(0.0) steps(0.0) towards(0.0) national(1.0) 
+reconciliation(1.0) this(0.0) week(0.0) .(0.0) Even(0.0) for(0.0) the(0.0) war(1.0) 's(0.0) opponents(1.0) ,(0.0) it(0.0) is(0.0) now(0.0) time(0.0) to(0.0) admit(0.0) the(0.0) success(0.0) of(0.0) 
+the(0.0) surge(1.0) strategy(1.0) in(0.0) Iraq(1.0) .(0.0) But(0.0) ,(0.0) instead(0.0) of(0.0) honoring(1.0) the(0.0) great(0.0) work(0.0) of(0.0) our(0.0) troops(1.0) ,(0.0) all(0.0) I(0.0) 
+hear(0.0) is(0.0) silence(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Iraq	troops	
+morale	troops	surge	
+Petraeus	counterinsurgency	terrorists	defensive	
+Iraqi	
+
+opposed	surge	
+Petraeus	
+U.N.	Iraq	national	
+reconciliation	war	opponents	
+surge	strategy	Iraq	honoring	troops	
+
+
+reads % = 0.11707317073170732

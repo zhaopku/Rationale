@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) would(0.0) just(0.0) observe(0.0) that(0.0) the(0.0) estate(0.0) tax(0.0) level(0.0) last(0.0) year(0.0) was(0.0) $(0.0) 2(0.0) million(0.0) ,(0.0) this(0.0) year(0.0) $(0.0) 
+3.5(0.0) million(0.0) ,(0.0) a(0.0) 75(0.0) percent(0.0) increase(1.0) in(0.0) the(0.0) exclusion(1.0) .(0.0) Now(0.0) ,(0.0) that(0.0) is(0.0) quite(0.0) an(0.0) index(0.0) by(0.0) anybody's(0.0) 
+measure(1.0) .(0.0) I(0.0) yield(0.0) 2(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Massachusetts(1.0) ((0.0) Mr.(0.0) Neal(1.0) )(0.0) ,(0.0) a(0.0) member(0.0) of(0.0) the(0.0) 
+Ways(0.0) and(0.0) Means(0.0) Committee(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+increase	exclusion	
+measure	Massachusetts	Neal	
+
+
+reads % = 0.07575757575757576

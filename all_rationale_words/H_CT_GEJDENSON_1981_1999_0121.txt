@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) this(0.0) is(0.0) a(0.0) particularly(0.0) ill-advised(1.0) amendment(1.0) .(0.0) What(0.0) it(0.0) would(0.0) do(0.0) would(0.0) handcuff(0.0) the(0.0) administration(1.0) in(0.0) dealing(0.0) with(0.0) the(0.0) 
+most(0.0) populous(1.0) democracy(1.0) on(0.0) this(0.0) planet(1.0) .(0.0) Some(0.0) time(0.0) in(0.0) the(0.0) last(0.0) month(0.0) or(0.0) this(0.0) month(0.0) ,(0.0) this(0.0) world(0.0) becomes(0.0) 
+a(0.0) 6(0.0) billion(1.0) person(0.0) planet(0.0) .(0.0) We(0.0) are(0.0) talking(0.0) about(0.0) a(0.0) country(0.0) that(0.0) has(0.0) 1(0.0) billion(1.0) people(0.0) .(0.0) We(0.0) are(0.0) 
+talking(0.0) about(0.0) American(0.0) national(1.0) interests(0.0) ,(0.0) and(0.0) when(0.0) we(0.0) look(0.0) at(0.0) the(0.0) United(0.0) Nations(0.0) most(0.0) of(0.0) what(0.0) happens(0.0) is(0.0) by(0.0) 
+consensus(1.0) .(0.0) Do(0.0) not(0.0) hamstring(0.0) this(0.0) or(0.0) future(0.0) administrations(1.0) by(0.0) a(0.0) standard(0.0) that(0.0) really(0.0) does(0.0) not(0.0) measure(0.0) cooperation(0.0) .(0.0) In(0.0) 
+the(0.0) United(0.0) Nations(0.0) ,(0.0) most(0.0) of(0.0) what(0.0) happens(0.0) is(0.0) by(0.0) consensus(0.0) .(0.0) This(0.0) is(0.0) a(0.0) bad(0.0) amendment(1.0) that(0.0) would(0.0) harm(1.0) 
+the(0.0) relationship(0.0) we(0.0) have(0.0) with(0.0) the(0.0) most(0.0) populous(1.0) democracy(1.0) on(0.0) this(0.0) planet(0.0) .(0.0) Think(0.0) of(0.0) a(0.0) challenge(0.0) of(0.0) running(0.0) a(0.0) 
+democratic(1.0) government(1.0) with(0.0) a(0.0) billion(1.0) people(0.0) on(0.0) it(0.0) .(0.0) It(0.0) is(0.0) a(0.0) bad(0.0) amendment(0.0) .(0.0) It(0.0) ought(1.0) to(0.0) be(0.0) defeated(0.0) 
+.(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) join(0.0) those(0.0) of(0.0) us(0.0) who(0.0) recognize(0.0) the(0.0) folly(1.0) in(0.0) this(0.0) amendment(1.0) to(0.0) reject(1.0) it(0.0) 
+and(0.0) reject(1.0) it(0.0) strongly(0.0) .(0.0) I(0.0) commend(0.0) those(0.0) who(0.0) have(0.0) spoken(0.0) against(0.0) it(0.0) .(0.0) Chairman(0.0) ,(0.0) I(0.0) yield(0.0) to(0.0) the(0.0) 
+gentleman(0.0) from(0.0) New(0.0) York(1.0) ((0.0) Mr.(0.0) Gilman(1.0) )(0.0) ,(0.0) the(0.0) chairman(0.0) of(0.0) the(0.0) committee(0.0) .(0.0) ((0.0) Mr.(0.0) GILMAN(1.0) asked(0.0) and(0.0) 
+was(0.0) given(0.0) permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) )(0.0) 
+
+
+----- below are rationale words -----
+
+ill-advised	amendment	administration	
+populous	democracy	planet	
+billion	billion	
+national	
+consensus	administrations	
+amendment	harm	
+populous	democracy	
+democratic	government	billion	ought	
+folly	amendment	reject	
+reject	
+York	Gilman	GILMAN	
+
+
+reads % = 0.11206896551724138

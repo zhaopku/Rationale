@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+This(0.0) is(0.0) Leader(0.0) Pelosi(1.0) 's(0.0) 30-something(1.0) Working(1.0) Group(0.0) ,(0.0) <(0.0) a(0.0) href=(0.0) ''(0.0) http(0.0) :(0.0) //www(0.0) .(0.0) ``(0.0) >(0.0) www.(0.0) <(0.0) 
+/a(0.0) >(0.0) HouseDemocrats.gov/30something(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Pelosi	30-something	Working	
+
+
+reads % = 0.12

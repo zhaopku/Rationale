@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) nobody(1.0) in(0.0) the(0.0) House(0.0) knows(0.0) more(0.0) about(0.0) guns(0.0) than(0.0) the(0.0) Dean(1.0) of(0.0) the(0.0) Congress(0.0) ,(0.0) the(0.0) 110th(1.0) Congress(1.0) ,(0.0) 
+the(0.0) gentleman(0.0) from(0.0) Michigan(1.0) ,(0.0) chairman(1.0) of(0.0) a(0.0) major(0.0) committee(0.0) ,(0.0) John(1.0) Dingell(1.0) .(0.0) I(0.0) yield(0.0) him(0.0) as(0.0) much(0.0) time(0.0) 
+as(0.0) he(0.0) may(0.0) consume(0.0) ,(0.0) not(1.0) to(0.0) exceed(1.0) 2(0.0) minutes(1.0) .(0.0) ((0.0) Mr.(0.0) DINGELL(1.0) asked(1.0) and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) 
+revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) )(0.0) 
+
+
+----- below are rationale words -----
+
+nobody	Dean	110th	Congress	
+Michigan	chairman	John	Dingell	
+not	exceed	minutes	DINGELL	asked	
+
+
+reads % = 0.19117647058823528

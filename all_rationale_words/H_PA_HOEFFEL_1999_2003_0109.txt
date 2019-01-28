@@ -1,0 +1,20 @@
+This is from a Democrat
+----- below is the original text -----
+He(0.0) has(0.0) done(0.0) a(0.0) magnificent(0.0) job(0.0) with(0.0) this(0.0) fiscal(1.0) analysis(0.0) of(0.0) the(0.0) requested(0.0) money(0.0) for(0.0) reconstruction(1.0) in(0.0) Iraq(1.0) .(0.0) It(0.0) is(0.0) 
+a(0.0) fascinating(0.0) comparison(0.0) that(0.0) I(0.0) think(0.0) all(0.0) of(0.0) America(1.0) needs(0.0) to(0.0) pay(1.0) attention(0.0) to(0.0) .(0.0) You(0.0) made(0.0) a(0.0) reference(0.0) to(0.0) 
+wanting(0.0) to(0.0) ask(0.0) Paul(0.0) Bremer(1.0) these(0.0) questions(0.0) directly(0.0) .(0.0) I(0.0) know(0.0) the(0.0) gentleman(0.0) from(0.0) Massachusetts(1.0) ((0.0) Mr.(0.0) Delahunt(1.0) )(0.0) and(0.0) 
+I(0.0) will(0.0) have(0.0) an(0.0) opportunity(0.0) on(0.0) Thursday(0.0) when(0.0) he(0.0) appears(0.0) before(0.0) the(0.0) Committee(0.0) on(0.0) International(0.0) Relations(0.0) ,(0.0) and(0.0) maybe(0.0) we(0.0) 
+will(0.0) have(0.0) a(0.0) chance(0.0) to(0.0) use(0.0) some(0.0) of(0.0) your(0.0) material(0.0) ,(0.0) and(0.0) we(0.0) will(0.0) credit(0.0) you(0.0) and(0.0) ask(0.0) the(0.0) appropriate(0.0) 
+questions(0.0) .(0.0) Let(0.0) me(0.0) now(0.0) yield(0.0) to(0.0) our(0.0) colleague(0.0) the(0.0) gentleman(0.0) from(0.0) Washington(1.0) ((0.0) Mr.(0.0) Inslee(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+fiscal	reconstruction	Iraq	
+America	pay	
+Bremer	Massachusetts	Delahunt	
+
+
+Washington	Inslee	
+
+reads % = 0.08403361344537816

@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) would(0.0) conclude(0.0) by(0.0) just(0.0) saying(0.0) to(0.0) my(0.0) friend(0.0) on(0.0) the(0.0) Medicare(1.0) Trustee(0.0) issue(0.0) ,(0.0) that(0.0) the(0.0) Medicare(1.0) trustees(0.0) 
+have(0.0) said(0.0) that(0.0) the(0.0) proposal(1.0) by(0.0) the(0.0) Republicans(1.0) will(1.0) not(1.0) extend(1.0) the(1.0) life(1.0) of(1.0) Medicare(1.0) by(1.0) one(1.0) day(1.0) ,(1.0) because(1.0) 
+that(1.0) money(1.0) is(1.0) going(1.0) into(1.0) a(1.0) special(0.0) fund(1.0) for(0.0) tax(1.0) cuts(1.0) that(1.0) are(1.0) going(1.0) primarily(1.0) to(1.0) the(0.0) wealthiest(1.0) individuals(1.0) and(0.0) 
+the(0.0) wealthiest(1.0) corporations(1.0) in(0.0) America(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Medicare	Medicare	
+proposal	Republicans	will	not	extend	the	life	of	Medicare	by	one	day	,	because	
+that	money	is	going	into	a	fund	tax	cuts	that	are	going	primarily	to	wealthiest	individuals	
+wealthiest	corporations	America	
+
+reads % = 0.5223880597014925

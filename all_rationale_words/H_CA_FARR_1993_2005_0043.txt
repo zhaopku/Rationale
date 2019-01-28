@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) would(0.0) like(0.0) to(0.0) thank(0.0) the(0.0) chairman(0.0) and(0.0) the(0.0) ranking(0.0) member(0.0) for(0.0) their(0.0) efforts(0.0) to(0.0) put(0.0) together(0.0) a(0.0) balanced(0.0) Science(0.0) ,(0.0) 
+State(1.0) ,(0.0) Justice(0.0) ,(0.0) Commerce(0.0) bill(0.0) ;(0.0) especially(0.0) working(0.0) with(0.0) such(0.0) limited(0.0) resources(0.0) .(0.0) However(0.0) ,(0.0) I(0.0) would(0.0) like(0.0) to(0.0) 
+point(0.0) out(0.0) the(0.0) shortfall(1.0) in(0.0) funding(1.0) to(0.0) the(0.0) ocean(0.0) ,(0.0) or(0.0) wet(0.0) ,(0.0) side(0.0) of(0.0) the(0.0) National(0.0) Oceanic(0.0) and(0.0) Atmospheric(0.0) 
+Administration(0.0) ((0.0) NOAA(1.0) )(0.0) in(0.0) this(0.0) bill(0.0) .(0.0) It(0.0) is(0.0) distressing(0.0) to(0.0) see(0.0) NOAA(1.0) ,(0.0) our(0.0) primary(1.0) domestic(1.0) ocean(0.0) agency(0.0) 
+,(0.0) take(0.0) a(0.0) $(0.0) 500(0.0) million(0.0) cut(1.0) from(0.0) FY(1.0) 05(1.0) levels(1.0) less(0.0) than(0.0) a(0.0) year(0.0) after(0.0) the(0.0) U.S.(0.0) Commission(0.0) on(0.0) 
+Ocean(0.0) Policy(0.0) issued(0.0) its(0.0) final(0.0) report(0.0) calling(0.0) for(0.0) an(0.0) increase(0.0) of(0.0) $(0.0) 1.5(0.0) billion(1.0) in(0.0) ocean(1.0) funding(1.0) during(0.0) the(0.0) first(0.0) 
+year(0.0) after(0.0) the(0.0) report(0.0) .(0.0) The(0.0) U.S.(0.0) Commission(0.0) on(0.0) Ocean(0.0) Policy(0.0) was(0.0) established(0.0) by(0.0) the(0.0) Oceans(0.0) Act(0.0) of(0.0) 2000(0.0) and(0.0) 
+appointed(0.0) by(0.0) President(0.0) Bush(1.0) to(0.0) study(0.0) our(0.0) oceans(1.0) and(0.0) make(0.0) recommendations(0.0) for(0.0) a(0.0) coordinated(0.0) and(0.0) comprehensive(0.0) national(1.0) ocean(0.0) policy(1.0) .(0.0) 
+The(0.0) Oceans(1.0) Commission(0.0) spent(0.0) four(0.0) years(0.0) studying(0.0) our(0.0) oceans(1.0) and(0.0) made(0.0) over(0.0) 200(0.0) recommendations(0.0) ,(0.0) and(0.0) it(0.0) spent(0.0) $(0.0) 9.5(0.0) 
+million(0.0) figuring(0.0) out(0.0) how(0.0) to(0.0) better(0.0) manage(0.0) our(0.0) oceans(1.0) .(0.0) We(0.0) are(0.0) now(0.0) ignoring(0.0) the(0.0) clear(0.0) ,(0.0) loud(0.0) message(0.0) that(0.0) 
+we(0.0) need(0.0) to(0.0) invest(1.0) more(0.0) in(0.0) our(0.0) oceans(1.0) .(0.0) To(0.0) put(0.0) it(0.0) another(0.0) way(0.0) ,(0.0) we(0.0) are(0.0) cutting(1.0) more(0.0) than(0.0) 
+a(0.0) million(0.0) dollars(1.0) in(0.0) ocean(1.0) programs(1.0) in(0.0) our(0.0) primary(1.0) ocean(1.0) agency(0.0) for(0.0) each(0.0) page(0.0) in(0.0) the(0.0) U.S.(0.0) Commission(0.0) on(0.0) Ocean(0.0) 
+Policy(0.0) final(0.0) report(0.0) .(0.0) With(0.0) the(0.0) atmospheric(0.0) ,(0.0) or(0.0) dry(0.0) ,(0.0) side(0.0) of(0.0) NOAA(1.0) seeing(0.0) a(0.0) 9(0.0) %(0.0) increase(1.0) for(0.0) 
+the(0.0) National(0.0) Weather(0.0) Service(0.0) and(0.0) a(0.0) 7(0.0) %(0.0) increase(0.0) for(0.0) the(0.0) National(0.0) Environmental(0.0) Satellite(0.0) ,(0.0) Data(0.0) and(0.0) Information(0.0) Service(0.0) ,(0.0) 
+the(0.0) cuts(1.0) to(0.0) the(0.0) wet(0.0) side(0.0) of(0.0) NOAA(1.0) are(0.0) even(0.0) deeper(0.0) than(0.0) they(0.0) first(0.0) appear(0.0) .(0.0) The(0.0) National(0.0) Ocean(0.0) Service(0.0) 
+will(0.0) receive(0.0) a(0.0) 40(0.0) %(0.0) cut(0.0) and(0.0) the(0.0) National(0.0) Marine(0.0) Fisheries(0.0) Service(0.0) will(0.0) receive(0.0) a(0.0) 20(0.0) %(0.0) cut(0.0) .(0.0) To(0.0) 
+no(0.0) one(0.0) 's(0.0) surprise(0.0) ,(0.0) Americans(1.0) love(0.0) the(0.0) oceans(1.0) ,(0.0) but(0.0) what(0.0) many(0.0) Americans(1.0) probably(0.0) do(0.0) not(0.0) know(0.0) is(0.0) how(0.0) 
+much(0.0) our(0.0) economy(1.0) relies(0.0) on(0.0) the(0.0) oceans(1.0) .(0.0) The(0.0) ocean(1.0) economy(1.0) --(0.0) the(0.0) portion(0.0) of(0.0) the(0.0) economy(1.0) that(0.0) relies(0.0) directly(0.0) 
+on(0.0) ocean(0.0) attributes(0.0) --(0.0) contributes(0.0) well(0.0) over(0.0) $(0.0) 100(0.0) billion(1.0) to(0.0) American(0.0) prosperity(1.0) .(0.0) About(0.0) one(0.0) tenth(0.0) of(0.0) the(0.0) nation(1.0) 
+'s(0.0) annual(0.0) gross(0.0) domestic(1.0) product(0.0) ((0.0) GDP(1.0) )(0.0) is(0.0) generated(0.0) in(0.0) nearshore(1.0) areas(0.0) ,(0.0) the(0.0) relatively(0.0) narrow(0.0) strip(0.0) of(0.0) land(0.0) 
+immediately(0.0) adjacent(0.0) to(0.0) the(0.0) coast(0.0) .(0.0) Coastal(0.0) watershed(1.0) counties(1.0) ,(0.0) representing(0.0) about(0.0) one(0.0) quarter(0.0) of(0.0) the(0.0) nation(1.0) 's(0.0) land(0.0) area(0.0) 
+,(0.0) contribute(0.0) about(0.0) half(0.0) of(0.0) the(0.0) nation(1.0) 's(0.0) GDP(1.0) .(0.0) NOAA(1.0) funding(1.0) is(0.0) not(0.0) only(0.0) an(0.0) investment(1.0) in(0.0) the(0.0) protection(1.0) 
+,(0.0) wise(0.0) management(0.0) ,(0.0) and(0.0) productivity(0.0) of(0.0) our(0.0) oceans(1.0) and(0.0) coasts(0.0) ;(0.0) it(0.0) is(0.0) an(0.0) investment(1.0) in(0.0) the(0.0) well(0.0) being(0.0) 
+of(0.0) our(0.0) coastal(1.0) cities(0.0) and(0.0) communities(1.0) .(0.0) Cuts(0.0) to(0.0) NOAA(1.0) threaten(1.0) the(0.0) wise(0.0) management(0.0) of(0.0) our(0.0) oceans(1.0) and(0.0) will(0.0) have(0.0) 
+far(0.0) reaching(0.0) ramifications(1.0) such(0.0) as(0.0) on(0.0) the(0.0) tourism(1.0) industry(0.0) in(0.0) my(0.0) district(0.0) and(0.0) tourism(1.0) in(0.0) coastal(1.0) districts(1.0) around(0.0) the(0.0) 
+
+
+----- below are rationale words -----
+
+
+State	
+shortfall	funding	
+NOAA	NOAA	primary	domestic	
+cut	FY	05	levels	
+billion	ocean	funding	
+
+Bush	oceans	national	policy	
+Oceans	oceans	
+oceans	
+invest	oceans	cutting	
+dollars	ocean	programs	primary	ocean	
+NOAA	increase	
+
+cuts	NOAA	
+
+Americans	oceans	Americans	
+economy	oceans	ocean	economy	economy	
+billion	prosperity	nation	
+domestic	GDP	nearshore	
+watershed	counties	nation	
+nation	GDP	NOAA	funding	investment	protection	
+oceans	investment	
+coastal	communities	NOAA	threaten	oceans	
+ramifications	tourism	tourism	coastal	districts	
+
+reads % = 0.136

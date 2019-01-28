@@ -1,0 +1,24 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) to(0.0) reluctantly(0.0) voice(0.0) my(0.0) opposition(1.0) to(0.0) H.R(0.0) .(0.0) 2028(0.0) ,(0.0) the(0.0) Pledge(1.0) Protection(1.0) Act(1.0) .(0.0) As(0.0) 
+a(0.0) cosponsor(1.0) of(0.0) the(0.0) original(0.0) legislation(0.0) ,(0.0) I(0.0) am(0.0) disheartened(0.0) to(0.0) see(0.0) changes(0.0) that(0.0) have(0.0) removed(0.0) necessary(0.0) civil(1.0) rights(1.0) protections(1.0) 
+.(0.0) In(0.0) the(0.0) course(0.0) of(0.0) a(0.0) Committee(0.0) mark(0.0) up(0.0) ,(0.0) the(0.0) original(0.0) Pledge(1.0) Protection(1.0) Act(0.0) was(0.0) stripped(0.0) and(0.0) rewritten(0.0) to(0.0) 
+exclude(1.0) the(0.0) Supreme(1.0) Court(0.0) from(0.0) jurisdiction(1.0) from(0.0) hearing(0.0) cases(0.0) surrounding(0.0) the(0.0) Pledge(1.0) of(0.0) Allegiance(1.0) .(0.0) I(0.0) strongly(0.0) believe(0.0) that(0.0) if(0.0) 
+a(0.0) citizen(1.0) of(0.0) the(0.0) United(0.0) States(0.0) has(0.0) a(0.0) grievance(0.0) of(0.0) a(0.0) federal(1.0) nature(0.0) ,(0.0) that(0.0) individual(0.0) deserves(1.0) his(0.0) or(0.0) her(0.0) 
+day(0.0) in(0.0) federal(1.0) court(1.0) .(0.0) By(0.0) removing(0.0) the(0.0) Supreme(1.0) Court(0.0) from(0.0) jurisdiction(0.0) to(0.0) hear(0.0) Pledge(1.0) cases(0.0) ,(0.0) the(0.0) Pledge(1.0) Protection(1.0) 
+Act(0.0) effectively(0.0) removed(0.0) a(0.0) citizen(0.0) 's(0.0) day(0.0) in(0.0) federal(1.0) court(1.0) .(0.0) As(0.0) such(0.0) ,(0.0) I(0.0) can(0.0) not(0.0) support(0.0) this(0.0) legislation(1.0) 
+in(0.0) its(0.0) current(0.0) form(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+opposition	Pledge	Protection	Act	
+cosponsor	civil	rights	protections	
+Pledge	Protection	
+exclude	Supreme	jurisdiction	Pledge	Allegiance	
+citizen	federal	deserves	
+federal	court	Supreme	Pledge	Pledge	Protection	
+federal	court	legislation	
+
+
+reads % = 0.18493150684931506

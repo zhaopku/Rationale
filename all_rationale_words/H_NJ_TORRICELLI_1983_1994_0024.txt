@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) ((0.0) Mr.(0.0) TORRICELLI(1.0) asked(0.0) and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) 
+revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) )(0.0) Speaker(0.0) ,(0.0) this(0.0) resolution(1.0) was(0.0) adopted(0.0) by(0.0) the(0.0) Senate(1.0) by(0.0) voice(0.0) vote(1.0) on(0.0) 
+July(0.0) 15(0.0) and(0.0) agreed(0.0) to(0.0) by(0.0) the(0.0) Committee(0.0) on(0.0) Foreign(0.0) Affairs(0.0) last(0.0) Wednesday(0.0) .(0.0) Senate(0.0) Joint(0.0) Resolution(1.0) 204(0.0) is(0.0) straightforward(0.0) 
+.(0.0) It(0.0) commemorates(1.0) the(0.0) 100th(0.0) anniversary(0.0) of(0.0) the(0.0) founding(0.0) of(0.0) the(0.0) American(0.0) Academy(0.0) in(0.0) Rome(0.0) .(0.0) The(0.0) academy(0.0) currently(0.0) serve(0.0) 
+thousands(0.0) of(0.0) people(0.0) in(0.0) a(0.0) variety(0.0) of(0.0) programs(1.0) ,(0.0) ranging(0.0) from(0.0) fellowships(1.0) and(0.0) residency(0.0) programs(0.0) to(0.0) concerts(0.0) ,(0.0) lectures(0.0) ,(0.0) 
+symposia(0.0) ,(0.0) and(0.0) other(0.0) exhibits(0.0) .(0.0) The(0.0) academy(0.0) is(0.0) also(0.0) the(0.0) site(0.0) of(0.0) one(0.0) of(0.0) the(0.0) most(0.0) extensive(0.0) collections(0.0) of(0.0) 
+literature(0.0) on(0.0) Roman(0.0) topography(0.0) and(0.0) archaeology(0.0) ,(0.0) as(0.0) well(0.0) as(0.0) rare(0.0) books(0.0) ,(0.0) periodicals(0.0) ,(0.0) and(0.0) works(0.0) on(0.0) Italian(0.0) art(0.0) 
+and(0.0) architecture(0.0) .(0.0) The(0.0) American(0.0) Academy(0.0) is(0.0) an(0.0) enduring(0.0) symbol(0.0) of(0.0) the(0.0) long(0.0) and(0.0) productive(0.0) relationship(0.0) between(0.0) our(0.0) Government(0.0) and(0.0) 
+the(0.0) Government(0.0) of(0.0) Italy(0.0) ,(0.0) as(0.0) well(0.0) as(0.0) between(0.0) the(0.0) American(0.0) and(0.0) the(0.0) Italian(0.0) people(0.0) .(0.0) The(0.0) academy(0.0) has(0.0) also(0.0) 
+played(0.0) an(0.0) important(0.0) role(0.0) in(0.0) promoting(0.0) international(0.0) cultural(1.0) relations(0.0) for(0.0) the(0.0) last(0.0) century(0.0) ,(0.0) and(0.0) this(0.0) resolution(1.0) rightfully(1.0) recognizes(0.0) the(0.0) 
+importance(0.0) of(0.0) its(0.0) contributions(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) urge(0.0) members(0.0) to(0.0) support(0.0) the(0.0) Senate(1.0) joint(0.0) resolution(1.0) .(0.0) Mr.(0.0) Speaker(1.0) 
+I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+TORRICELLI	
+resolution	Senate	vote	
+Resolution	
+commemorates	
+programs	fellowships	
+
+
+
+
+cultural	resolution	rightfully	
+contributions	Speaker	Senate	resolution	Speaker	
+
+
+reads % = 0.06986899563318777

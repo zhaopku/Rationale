@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) tonight(0.0) I(0.0) rise(0.0) to(0.0) amplify(0.0) the(0.0) voices(0.0) of(0.0) my(0.0) constituents(1.0) in(0.0) two(0.0) ways(0.0) .(0.0) First(0.0) of(0.0) all(0.0) ,(0.0) I(0.0) 
+am(0.0) delivering(0.0) 10,783(1.0) petitions(0.0) gathered(0.0) by(0.0) community(0.0) leaders(0.0) in(0.0) my(0.0) district(0.0) in(0.0) opposition(1.0) to(0.0) the(0.0) Republican(1.0) Medicare(1.0) legislation(1.0) .(1.0) These(1.0) 
+petitions(1.0) say(1.0) yes(1.0) to(1.0) Medicare(1.0) and(1.0) no(1.0) to(1.0) the(0.0) $(0.0) 270(0.0) billion(1.0) Republican(0.0) cut(1.0) in(1.0) the(1.0) Medicare(1.0) Program(1.0) in(1.0) order(1.0) 
+to(1.0) pay(1.0) for(1.0) tax(1.0) cuts(1.0) for(1.0) corporations(1.0) and(1.0) the(1.0) wealthiest(1.0) of(1.0) Americans(1.0) .(1.0) In(1.0) addition(1.0) to(0.0) that(1.0) ,(0.0) Mr.(0.0) Speaker(1.0) 
+,(0.0) I(0.0) have(0.0) a(0.0) letter(0.0) from(0.0) one(0.0) of(0.0) my(0.0) constituents(1.0) who(0.0) is(0.0) a(0.0) physician(0.0) who(0.0) very(0.0) eloquently(0.0) and(0.0) clearly(0.0) presents(0.0) 
+the(0.0) case(0.0) for(0.0) many(0.0) physicians(0.0) who(0.0) oppose(0.0) the(0.0) actions(1.0) of(0.0) the(0.0) AMA(0.0) .(0.0) I(0.0) have(0.0) had(0.0) serious(0.0) objections(0.0) to(0.0) the(0.0) 
+substance(1.0) of(0.0) the(0.0) Republican(1.0) proposal(1.0) and(1.0) the(1.0) process(1.0) .(0.0) By(0.0) blanking(1.0) out(0.0) statements(0.0) from(0.0) my(0.0) constituents(1.0) and(0.0) giving(0.0) access(0.0) to(0.0) 
+the(0.0) AMA(0.0) I(0.0) think(0.0) a(0.0) disservice(0.0) was(0.0) paid(0.0) to(0.0) the(0.0) Americans(1.0) who(0.0) depend(0.0) on(0.0) Medicare(1.0) .(0.0) I(0.0) was(0.0) particularly(0.0) appalled(0.0) 
+by(0.0) the(0.0) waltzing(0.0) in(0.0) of(0.0) the(0.0) AMA(0.0) and(0.0) the(0.0) golden(0.0) handshake(0.0) they(0.0) received(0.0) as(0.0) opposed(0.0) to(0.0) the(0.0) handcuffs(1.0) the(0.0) senior(0.0) 
+citizens(0.0) received(0.0) when(0.0) they(0.0) tried(0.0) to(0.0) make(0.0) their(0.0) concerns(0.0) known(0.0) .(0.0) My(0.0) constituents(1.0) ,(0.0) Dr.(0.0) Levine(1.0) ,(0.0) says(0.0) as(0.0) follows(0.0) 
+,(0.0) and(0.0) in(0.0) the(0.0) interests(0.0) of(0.0) time(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) will(0.0) place(0.0) this(0.0) entire(0.0) letter(0.0) in(0.0) the(0.0) Record(0.0) 
+.(0.0) The(0.0) letter(0.0) referred(0.0) to(0.0) is(0.0) as(0.0) follows(0.0) :(0.0) September(0.0) 27(0.0) ,(0.0) 1995(0.0) .(0.0) FAX(0.0) memo(0.0) to(0.0) :(0.0) Congressperson(1.0) Nancy(1.0) 
+Pelosi(1.0) .(0.0) Re(0.0) Medicare(1.0) ``(0.0) reform(0.0) ''(0.0) legislation(0.0) .(0.0) Dear(0.0) Congressperson(1.0) Pelosi(1.0) .(0.0) I(0.0) am(0.0) extremely(0.0) concerned(0.0) as(0.0) the(0.0) current(0.0) 
+Republican-initiated(0.0) Medicare(1.0) reform(1.0) package(0.0) goes(0.0) through(0.0) Congress(0.0) ,(0.0) and(0.0) I(0.0) wanted(0.0) to(0.0) send(0.0) you(0.0) this(0.0) letter(0.0) in(0.0) order(0.0) to(0.0) give(0.0) 
+you(0.0) my(0.0) perspective(0.0) on(0.0) the(0.0) proposed(1.0) legislation(1.0) as(0.0) a(0.0) practicing(0.0) physician(0.0) in(0.0) your(0.0) district(0.0) .(0.0) I(0.0) have(0.0) received(0.0) literature(0.0) recently(0.0) 
+from(0.0) the(0.0) AMA(0.0) urging(0.0) my(0.0) support(0.0) of(0.0) the(0.0) package(0.0) ,(0.0) because(0.0) they(0.0) believe(0.0) it(0.0) to(0.0) be(0.0) ``(0.0) doctor(0.0) friendly(0.0) .(0.0) 
+''(0.0) Certainly(0.0) ,(0.0) certain(0.0) portions(0.0) of(0.0) the(0.0) proposed(1.0) legislation(1.0) ,(0.0) such(0.0) as(0.0) long-overdue(1.0) antitrust(1.0) reforms(1.0) ,(0.0) etc.(0.0) ,(0.0) appear(0.0) to(0.0) 
+be(0.0) doctor-friendly(0.0) .(0.0) But(0.0) I(0.0) believe(0.0) that(0.0) these(0.0) colleagues(0.0) of(0.0) mine(0.0) in(0.0) organized(1.0) medicine(1.0) are(0.0) fundamentally(1.0) in(0.0) error(0.0) .(0.0) Their(0.0) 
+error(0.0) derives(0.0) from(0.0) the(0.0) relative(0.0) lack(0.0) of(0.0) many(0.0) officials(0.0) in(0.0) organized(0.0) Medicine(0.0) with(0.0) actual(0.0) experience(0.0) with(0.0) for-profit(1.0) managed(0.0) care(0.0) .(0.0) 
+If(0.0) these(0.0) colleagues(0.0) of(0.0) mine(0.0) were(0.0) sufficiently(0.0) so(0.0) experienced(0.0) ,(0.0) they(0.0) would(0.0) see(0.0) the(0.0) Republican(1.0) proposals(1.0) for(1.0) what(1.0) they(1.0) really(1.0) 
+are(0.0) --(0.0) a(0.0) scheme(0.0) for(0.0) forcing(1.0) virtually(0.0) all(0.0) Medicare(1.0) recipients(1.0) into(0.0) managed(0.0) care(0.0) .(0.0) I(0.0) am(0.0) not(0.0) saying(0.0) that(0.0) managed(0.0) 
+care(0.0) in(0.0) principle(1.0) is(0.0) bad(0.0) :(0.0) I(0.0) would(0.0) be(0.0) the(0.0) first(0.0) to(0.0) agree(0.0) that(0.0) many(0.0) of(0.0) its(0.0) goals(0.0) in(0.0) principle(1.0) 
+are(0.0) wonderful(0.0) .(0.0) But(0.0) let(0.0) me(0.0) share(0.0) with(0.0) you(0.0) the(0.0) reality(0.0) of(0.0) managed(0.0) care(0.0) in(0.0) actual(0.0) practice(0.0) .(0.0) First(0.0) ,(0.0) 
+insurance(1.0) companies(1.0) in(0.0) California(1.0) have(0.0) been(0.0) making(0.0) a(0.0) transition(0.0) to(0.0) for-(0.0) profit(0.0) managed(0.0) care(0.0) plans(0.0) .(0.0) This(0.0) is(0.0) because(0.0) the(0.0) 
+profits(1.0) they(0.0) derive(0.0) from(0.0) these(0.0) products(0.0) are(0.0) enormous(1.0) .(0.0) Basically(0.0) ,(0.0) what(0.0) managed(0.0) care(0.0) boils(0.0) down(0.0) to(0.0) in(0.0) practice(0.0) 
+
+
+----- below are rationale words -----
+
+constituents	
+10,783	opposition	Republican	Medicare	legislation	.	These	
+petitions	say	yes	to	Medicare	and	no	to	billion	cut	in	the	Medicare	Program	in	order	
+to	pay	for	tax	cuts	for	corporations	and	the	wealthiest	of	Americans	.	In	addition	that	Speaker	
+constituents	
+actions	
+substance	Republican	proposal	and	the	process	blanking	constituents	
+Americans	Medicare	
+handcuffs	
+constituents	Levine	
+Speaker	
+Congressperson	Nancy	
+Pelosi	Medicare	Congressperson	Pelosi	
+Medicare	reform	
+proposed	legislation	
+
+proposed	legislation	long-overdue	antitrust	reforms	
+organized	medicine	fundamentally	
+for-profit	
+Republican	proposals	for	what	they	really	
+forcing	Medicare	recipients	
+principle	principle	
+
+insurance	companies	California	
+profits	enormous	
+
+reads % = 0.184

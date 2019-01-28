@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) want(0.0) to(0.0) say(0.0) that(0.0) if(0.0) rhetoric(1.0) turned(0.0) turbines(0.0) ,(0.0) we(0.0) would(0.0) have(0.0) enough(0.0) electricity(1.0) for(0.0) the(0.0) next(0.0) 
+100(0.0) years(0.0) just(0.0) listening(0.0) to(0.0) the(0.0) Democrats(1.0) today(0.0) .(0.0) But(0.0) the(0.0) truth(0.0) is(0.0) ,(0.0) we(0.0) have(0.0) got(0.0) to(0.0) move(0.0) on(0.0) 
+.(0.0) We(0.0) do(0.0) not(0.0) have(0.0) an(0.0) energy(1.0) policy(1.0) .(0.0) Let(0.0) me(0.0) give(0.0) you(0.0) a(0.0) quote(0.0) from(0.0) Clinton(1.0) 's(0.0) Energy(0.0) Secretary(1.0) 
+Bill(1.0) Richardson(1.0) :(1.0) ``(0.0) It(0.0) is(0.0) obvious(0.0) that(0.0) the(0.0) Federal(1.0) Government(1.0) was(0.0) not(0.0) prepared(0.0) .(0.0) We(0.0) were(0.0) caught(0.0) napping(0.0) .(0.0) 
+We(0.0) got(0.0) complacent(1.0) .(0.0) ''(0.0) February(0.0) 16(0.0) of(0.0) last(0.0) year(0.0) .(0.0) I(0.0) applaud(0.0) the(0.0) Bush(1.0) Administration(1.0) for(0.0) taking(0.0) the(0.0) brave(0.0) 
+steps(0.0) to(0.0) say(0.0) we(0.0) have(0.0) got(0.0) to(0.0) look(0.0) ahead(0.0) .(0.0) We(0.0) have(0.0) a(0.0) neglected(0.0) energy(0.0) infrastructure(1.0) .(0.0) Think(0.0) about(0.0) this(0.0) 
+:(0.0) the(0.0) last(0.0) refinery(1.0) for(0.0) gasoline(1.0) was(0.0) built(0.0) in(0.0) Garyville(1.0) ,(0.0) Louisiana(1.0) ,(0.0) in(0.0) 1976(1.0) .(0.0) We(0.0) are(0.0) dependent(0.0) on(0.0) 
+foreign(1.0) oil(1.0) .(0.0) Today(0.0) 57(0.0) percent(0.0) of(0.0) our(0.0) oil(1.0) comes(0.0) from(0.0) other(0.0) countries(1.0) .(0.0) Now(0.0) ,(0.0) compare(0.0) that(0.0) to(0.0) 1973(1.0) 
+during(0.0) the(0.0) infamous(1.0) OPEC(1.0) oil(1.0) embargo(1.0) ,(0.0) when(0.0) only(0.0) 35(0.0) percent(0.0) of(0.0) our(0.0) oil(1.0) came(0.0) from(0.0) foreign(1.0) countries(0.0) .(0.0) Today(0.0) 
+,(0.0) it(0.0) is(0.0) 57(0.0) percent(0.0) .(0.0) Our(0.0) national(1.0) security(0.0) is(0.0) vulnerable(0.0) to(0.0) the(0.0) whims(1.0) of(0.0) foreign(1.0) nations(1.0) .(0.0) Let(0.0) us(0.0) 
+look(0.0) at(0.0) the(0.0) demand(1.0) .(0.0) Since(0.0) 1980(1.0) ,(0.0) the(0.0) supply(1.0) has(0.0) only(0.0) increased(0.0) by(0.0) 18(0.0) percent(0.0) ,(0.0) but(0.0) the(0.0) demand(1.0) 
+has(0.0) increased(0.0) by(0.0) 24(0.0) percent(0.0) .(0.0) Think(0.0) about(0.0) the(0.0) number(0.0) of(0.0) cars(0.0) that(0.0) are(0.0) on(0.0) the(0.0) road(0.0) today(0.0) .(0.0) In(0.0) 
+1940(1.0) we(0.0) had(0.0) 5(0.0) million(0.0) cars(1.0) on(0.0) the(0.0) road(0.0) .(0.0) Today(0.0) we(0.0) have(0.0) 130(0.0) million(0.0) cars(1.0) driving(0.0) .(0.0) There(0.0) is(0.0) 
+a(0.0) huge(0.0) increase(0.0) in(0.0) demand(1.0) .(0.0) Think(0.0) about(0.0) the(0.0) environmental(1.0) question(0.0) .(0.0) Everybody(0.0) wants(0.0) clean(1.0) air(0.0) ,(0.0) everybody(0.0) .(0.0) I(0.0) 
+do(0.0) not(0.0) know(0.0) anybody(0.0) who(0.0) does(0.0) not(0.0) .(0.0) We(0.0) are(0.0) united(1.0) on(0.0) that(0.0) .(0.0) But(0.0) the(0.0) reality(0.0) is(0.0) radical(1.0) environmental(1.0) 
+politics(1.0) have(0.0) become(0.0) the(0.0) rule(1.0) of(0.0) the(0.0) land(0.0) .(0.0) Today(0.0) there(0.0) are(0.0) 8,000(0.0) environmental(1.0) organizations(1.0) .(0.0) It(0.0) is(0.0) a(0.0) $(0.0) 
+3.5(0.0) billion(1.0) industry(1.0) .(0.0) Greenpeace(1.0) in(0.0) Washington(1.0) ,(0.0) D.C.(1.0) alone(0.0) pays(0.0) $(0.0) 46,000(0.0) a(0.0) month(0.0) just(0.0) in(0.0) rent(0.0) .(0.0) It(0.0) 
+is(0.0) a(0.0) big(0.0) business(0.0) .(0.0) They(0.0) want(0.0) to(0.0) have(0.0) everybody(0.0) in(0.0) America(1.0) convinced(0.0) the(0.0) sky(0.0) is(0.0) falling(0.0) if(0.0) a(0.0) bill(1.0) 
+passes(1.0) .(0.0) But(0.0) ,(0.0) fortunately(0.0) ,(0.0) mainstream(0.0) America(1.0) sees(0.0) that(0.0) there(0.0) are(0.0) a(0.0) lot(0.0) of(0.0) solutions(0.0) out(0.0) there(0.0) .(0.0) We(0.0) 
+can(0.0) and(0.0) we(0.0) will(0.0) improve(0.0) our(0.0) energy(1.0) infrastructure(1.0) .(0.0) We(0.0) will(0.0) continue(0.0) to(0.0) promote(1.0) conservation(1.0) .(0.0) This(0.0) bill(1.0) alone(1.0) funds(1.0) 
+$(0.0) 940(0.0) million(0.0) in(0.0) conservation(1.0) .(0.0) Think(0.0) about(0.0) the(0.0) new(0.0) hybrid(0.0) car(0.0) that(0.0) Honda(0.0) is(0.0) developing(0.0) ,(0.0) 68(0.0) miles(0.0) a(0.0) 
+gallon(0.0) ,(0.0) and(0.0) think(0.0) about(0.0) the(0.0) fuel(1.0) cell(0.0) technology(0.0) which(0.0) the(0.0) Republicans(1.0) are(1.0) pushing(1.0) so(1.0) strongly(1.0) .(1.0) This(1.0) is(1.0) a(0.0) 
+battery(0.0) that(0.0) ,(0.0) in(0.0) essence(1.0) ,(0.0) does(0.0) not(0.0) give(0.0) out(0.0) .(0.0) Think(0.0) of(0.0) all(0.0) the(0.0) alternative(1.0) sources(0.0) of(0.0) energy(1.0) we(0.0) 
+support(0.0) in(0.0) this(0.0) Congress(1.0) ,(0.0) and(0.0) on(0.0) the(0.0) Committee(0.0) on(0.0) Appropriations(0.0) ,(0.0) $(0.0) 440(0.0) million(0.0) will(0.0) be(0.0) spent(0.0) on(0.0) research(0.0) 
+and(0.0) development(0.0) for(0.0) hydroelectric(1.0) power(0.0) ,(0.0) solar(1.0) power(0.0) ,(0.0) wind(0.0) power(0.0) ,(0.0) geothermal(1.0) ,(0.0) and(0.0) biomass(1.0) .(0.0) These(0.0) are(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	rhetoric	electricity	
+Democrats	
+energy	policy	Clinton	Secretary	
+Bill	Richardson	:	Federal	Government	
+complacent	Bush	Administration	
+infrastructure	
+refinery	gasoline	Garyville	Louisiana	1976	
+foreign	oil	oil	countries	1973	
+infamous	OPEC	oil	embargo	oil	foreign	
+national	whims	foreign	nations	
+demand	1980	supply	demand	
+
+1940	cars	cars	
+demand	environmental	clean	
+united	radical	environmental	
+politics	rule	environmental	organizations	
+billion	industry	Greenpeace	Washington	D.C.	
+America	bill	
+passes	America	
+energy	infrastructure	promote	conservation	bill	alone	funds	
+conservation	
+fuel	Republicans	are	pushing	so	strongly	.	This	is	
+essence	alternative	energy	
+Congress	
+hydroelectric	solar	geothermal	biomass	
+
+reads % = 0.176

@@ -1,0 +1,20 @@
+This is from a Republican
+----- below is the original text -----
+549(0.0) on(0.0) the(0.0) Democrat(1.0) Motion(1.0) to(0.0) Recommit(1.0) on(0.0) H.R(0.0) .(0.0) 5759(0.0) I(0.0) intended(0.0) to(0.0) vote(1.0) ``(0.0) no(0.0) ''(0.0) ;(0.0) on(0.0) rollcall(1.0) 
+vote(1.0) No(1.0) .(0.0) 550(0.0) on(0.0) H.R(0.0) .(0.0) 5759(0.0) --(0.0) Executive(0.0) Amnesty(1.0) Prevention(1.0) Act(0.0) of(0.0) 2014(0.0) I(0.0) intended(0.0) to(0.0) vote(1.0) ``(1.0) 
+aye(0.0) ''(0.0) ;(0.0) on(0.0) rollcall(1.0) vote(1.0) No(1.0) .(0.0) 551(0.0) on(0.0) the(0.0) passage(1.0) of(0.0) H.R(0.0) .(0.0) 3979(0.0) --(0.0) Carl(0.0) Levin(1.0) and(0.0) 
+Howard(1.0) P.(0.0) `(0.0) Buck(0.0) '(0.0) MCKeon(0.0) National(0.0) Defense(0.0) Authorization(0.0) Act(0.0) for(0.0) Fiscal(0.0) Year(0.0) 2015(0.0) --(0.0) Concur(0.0) in(0.0) the(0.0) Senate(0.0) Amendment(0.0) 
+with(0.0) a(0.0) House(0.0) Amendment(0.0) I(0.0) intended(0.0) to(0.0) vote(1.0) ``(0.0) aye(0.0) ''(0.0) --(0.0) I(0.0) was(0.0) away(0.0) from(0.0) the(0.0) floor(0.0) due(0.0) to(0.0) 
+a(0.0) family(0.0) emergency(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Democrat	Motion	Recommit	vote	rollcall	
+vote	No	Amnesty	Prevention	vote	``	
+rollcall	vote	No	passage	Levin	
+Howard	
+vote	
+
+
+reads % = 0.17142857142857143

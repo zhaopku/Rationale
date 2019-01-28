@@ -1,0 +1,36 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) too(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) 
+this(0.0) resolution(1.0) .(0.0) As(0.0) has(0.0) been(0.0) pointed(0.0) out(0.0) ,(0.0) concrete(0.0) is(0.0) ubiquitous(0.0) in(0.0) terms(0.0) of(0.0) our(0.0) daily(0.0) life(0.0) .(0.0) Life(0.0) 
+as(0.0) we(0.0) experience(0.0) it(0.0) in(0.0) the(0.0) United(0.0) States(0.0) ,(0.0) and(0.0) ,(0.0) indeed(0.0) ,(0.0) increasingly(0.0) in(0.0) any(0.0) developed(0.0) country(1.0) would(0.0) be(0.0) 
+impossible(0.0) without(0.0) the(0.0) use(0.0) of(0.0) this(0.0) product(0.0) .(0.0) It(0.0) does(0.0) ,(0.0) in(0.0) fact(0.0) ,(0.0) touch(0.0) every(0.0) community(0.0) .(0.0) It(0.0) is(0.0) 
+a(0.0) backbone(0.0) in(0.0) terms(0.0) of(0.0) economic(1.0) development(0.0) for(0.0) organized(0.0) labor(1.0) ,(0.0) for(0.0) skilled(0.0) building(0.0) trades(0.0) .(0.0) It(0.0) touches(0.0) a(0.0) wide(0.0) 
+array(0.0) of(0.0) people(0.0) who(0.0) are(0.0) actually(0.0) making(0.0) the(0.0) built(0.0) environment(0.0) .(0.0) The(0.0) work(0.0) that(0.0) has(0.0) been(0.0) done(0.0) by(0.0) the(0.0) Concrete(0.0) 
+Institute(0.0) is(0.0) critical(0.0) .(0.0) We(0.0) have(0.0) seen(0.0) across(0.0) the(0.0) world(0.0) examples(0.0) of(0.0) what(0.0) happens(0.0) when(0.0) we(0.0) rely(0.0) on(0.0) concrete(1.0) that(0.0) 
+is(0.0) not(0.0) properly(0.0) made(0.0) ,(0.0) where(0.0) the(0.0) standards(1.0) are(0.0) not(0.0) observed(0.0) .(0.0) It(0.0) is(0.0) a(0.0) serious(0.0) matter(0.0) in(0.0) terms(0.0) of(0.0) 
+destruction(1.0) where(0.0) in(0.0) the(0.0) case(0.0) of(0.0) an(0.0) earthquake(1.0) or(0.0) other(0.0) natural(0.0) disaster(1.0) we(0.0) have(0.0) seen(0.0) lives(0.0) lost(0.0) and(0.0) commerce(1.0) disrupted(1.0) 
+.(0.0) Here(0.0) in(0.0) this(0.0) country(1.0) ,(0.0) as(0.0) a(0.0) result(0.0) of(0.0) the(0.0) work(0.0) of(0.0) the(0.0) institute(0.0) and(0.0) the(0.0) thousands(0.0) of(0.0) companies(1.0) 
+and(0.0) professionals(0.0) who(0.0) are(0.0) associated(0.0) with(0.0) it(0.0) ,(0.0) we(0.0) have(0.0) been(0.0) able(0.0) to(0.0) extend(0.0) the(0.0) use(0.0) of(0.0) concrete(1.0) in(0.0) creative(0.0) 
+and(0.0) innovative(0.0) ways(0.0) ,(0.0) protecting(1.0) the(0.0) environment(0.0) ,(0.0) enhancing(1.0) the(0.0) built(0.0) environment(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) congratulate(0.0) the(0.0) American(0.0) 
+Concrete(1.0) Institute(0.0) as(0.0) it(0.0) celebrates(0.0) its(0.0) 100th(0.0) anniversary(0.0) ,(0.0) advancing(1.0) the(0.0) technology(0.0) of(0.0) concrete(1.0) for(0.0) educational(1.0) and(0.0) scientific(0.0) purposes(0.0) in(0.0) 
+order(0.0) to(0.0) increase(1.0) the(0.0) knowledge(0.0) ,(0.0) understanding(0.0) of(0.0) the(0.0) materials(0.0) ,(0.0) and(0.0) the(0.0) safety(0.0) of(0.0) our(0.0) communities(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	
+resolution	
+country	
+
+economic	labor	
+
+concrete	
+standards	
+destruction	earthquake	disaster	commerce	disrupted	
+country	companies	
+concrete	
+protecting	enhancing	Speaker	
+Concrete	advancing	concrete	educational	
+increase	communities	
+
+reads % = 0.08602150537634409

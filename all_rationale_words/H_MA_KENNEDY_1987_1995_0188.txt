@@ -1,0 +1,48 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) this(0.0) is(0.0) one(0.0) of(0.0) the(0.0) clearest(1.0) cut(1.0) ,(0.0) so(0.0) to(0.0) speak(0.0) ,(0.0) examples(0.0) of(0.0) corporate(1.0) welfare(1.0) that(0.0) we(0.0) see(0.0) 
+padded(0.0) in(0.0) our(0.0) Federal(1.0) budget(1.0) .(0.0) What(0.0) we(0.0) have(0.0) here(0.0) is(0.0) plain(0.0) and(0.0) simple(0.0) ,(0.0) a(0.0) recognition(0.0) that(0.0) while(0.0) this(0.0) 
+bill(1.0) goes(1.0) about(0.0) cutting(1.0) a(0.0) program(1.0) to(0.0) provide(0.0) low-income(1.0) people(0.0) and(0.0) moderate-income(1.0) people(0.0) weatherization(1.0) funds(1.0) which(0.0) are(0.0) cut(1.0) by(0.0) 47(0.0) 
+percent(1.0) ,(0.0) in(0.0) the(0.0) same(0.0) bill(1.0) we(0.0) go(0.0) back(0.0) in(0.0) and(0.0) provide(0.0) subsidies(1.0) to(0.0) the(0.0) biggest(1.0) lumber(0.0) companies(0.0) in(0.0) this(0.0) 
+country(1.0) ,(0.0) of(0.0) hundreds(0.0) of(0.0) millions(1.0) of(0.0) dollars(1.0) to(0.0) go(0.0) in(0.0) so(0.0) that(0.0) they(0.0) can(0.0) cut(1.0) down(0.0) virgin(1.0) trees(0.0) in(0.0) 
+our(0.0) most(0.0) pristine(0.0) areas(0.0) of(0.0) our(0.0) national(1.0) forests(0.0) .(0.0) We(0.0) use(0.0) Forest(0.0) Service(0.0) employees(0.0) to(0.0) go(0.0) in(0.0) and(0.0) identify(0.0) trees(0.0) 
+,(0.0) that(0.0) then(0.0) the(0.0) big(0.0) companies(1.0) come(0.0) in(0.0) cut(1.0) the(0.0) trees(0.0) down(0.0) ,(0.0) take(0.0) the(0.0) trees(0.0) over(0.0) to(0.0) Japan(0.0) ,(0.0) 
+they(0.0) mulch(0.0) them(0.0) up(0.0) into(0.0) fiberboard(1.0) ,(0.0) we(0.0) bring(0.0) them(0.0) back(0.0) ,(0.0) buy(0.0) them(0.0) in(0.0) the(0.0) United(0.0) States(0.0) ,(0.0) build(0.0) 
+our(0.0) homes(0.0) with(0.0) Japanese-supported(0.0) improvements(0.0) on(0.0) our(0.0) own(0.0) trees(0.0) ,(0.0) and(0.0) then(0.0) what(0.0) we(0.0) do(0.0) is(0.0) send(0.0) the(0.0) bill(1.0) to(1.0) 
+the(0.0) American(0.0) taxpayer(1.0) .(0.0) We(0.0) sit(0.0) here(0.0) on(0.0) the(0.0) House(0.0) floor(0.0) and(0.0) watch(0.0) time(0.0) and(0.0) time(0.0) again(0.0) while(0.0) the(0.0) Republican(1.0) 
+Party(1.0) stands(1.0) up(1.0) and(1.0) condemns(1.0) black(1.0) women(1.0) on(1.0) welfare(1.0) ,(1.0) and(1.0) yet(1.0) when(1.0) it(1.0) comes(1.0) to(0.0) corporate(1.0) welfare(1.0) ,(0.0) all(1.0) 
+of(0.0) a(0.0) sudden(0.0) they(0.0) lose(0.0) their(0.0) tongues(0.0) .(0.0) It(0.0) is(0.0) time(0.0) for(0.0) this(0.0) country(1.0) to(0.0) come(0.0) to(0.0) grips(0.0) with(0.0) where(0.0) 
+the(0.0) money(1.0) goes(0.0) in(0.0) the(0.0) Federal(1.0) budget(1.0) ,(0.0) whether(0.0) or(0.0) not(0.0) we(0.0) are(0.0) willing(0.0) to(0.0) stand(0.0) up(0.0) to(0.0) those(0.0) that(0.0) 
+have(0.0) and(0.0) want(0.0) more(0.0) ,(0.0) or(0.0) whether(0.0) or(0.0) not(0.0) we(0.0) want(0.0) to(0.0) provide(0.0) a(0.0) meager(0.0) opportunity(0.0) to(0.0) those(0.0) that(0.0) are(0.0) 
+struggling(0.0) to(0.0) put(0.0) their(0.0) house(0.0) in(0.0) order(0.0) and(0.0) to(0.0) try(0.0) to(0.0) be(0.0) part(0.0) of(0.0) the(0.0) American(0.0) dream(0.0) .(0.0) I(0.0) think(0.0) 
+that(0.0) this(0.0) bill(1.0) demonstrates(1.0) when(0.0) we(0.0) start(0.0) throwing(0.0) hundreds(0.0) of(0.0) millions(1.0) of(0.0) dollars(1.0) at(0.0) the(0.0) Tongass(1.0) ,(0.0) the(0.0) Tongass(1.0) ,(0.0) 
+the(0.0) most(0.0) pristine(0.0) and(0.0) most(0.0) beautiful(0.0) place(0.0) that(0.0) I(0.0) have(0.0) ever(0.0) been(0.0) in(0.0) the(0.0) United(0.0) States(0.0) of(0.0) America(0.0) ,(0.0) and(0.0) 
+we(0.0) are(0.0) extending(0.0) the(0.0) amount(0.0) of(0.0) land(0.0) that(0.0) the(0.0) Tongass(1.0) has(0.0) to(0.0) be(0.0) allowed(0.0) to(0.0) be(0.0) cut(0.0) down(0.0) by(0.0) our(0.0) 
+lumber(1.0) companies(1.0) by(0.0) a(0.0) third(0.0) in(0.0) this(0.0) bill(1.0) .(0.0) Why(0.0) would(0.0) we(0.0) possibly(0.0) destroy(0.0) America(1.0) 's(0.0) forests(0.0) and(0.0) not(0.0) come(0.0) 
+to(0.0) grips(0.0) with(0.0) the(0.0) cost(1.0) to(0.0) the(0.0) American(0.0) taxpayer(1.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+clearest	cut	corporate	welfare	
+Federal	budget	
+bill	goes	cutting	program	low-income	moderate-income	weatherization	funds	cut	
+percent	bill	subsidies	biggest	
+country	millions	dollars	cut	virgin	
+national	
+companies	cut	
+fiberboard	
+bill	to	
+taxpayer	Republican	
+Party	stands	up	and	condemns	black	women	on	welfare	,	and	yet	when	it	comes	corporate	welfare	all	
+country	
+money	Federal	budget	
+
+
+bill	demonstrates	millions	dollars	Tongass	Tongass	
+
+Tongass	
+lumber	companies	bill	America	
+cost	taxpayer	
+
+reads % = 0.17135549872122763

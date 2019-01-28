@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) National(0.0) Missing(1.0) Children(0.0) 's(0.0) Day(0.0) is(0.0) coming(0.0) up(0.0) on(0.0) May(0.0) 25(0.0) .(0.0) I(0.0) want(0.0) to(0.0) remind(0.0) my(0.0) colleagues(0.0) about(0.0) 
+what(0.0) we(0.0) can(0.0) do(0.0) in(0.0) our(0.0) offices(0.0) to(0.0) help(0.0) find(0.0) missing(0.0) children(0.0) .(0.0) According(0.0) to(0.0) the(0.0) FBI(1.0) 's(0.0) National(0.0) Crime(0.0) 
+Information(0.0) Center(0.0) ,(0.0) nearly(0.0) 2,000(0.0) children(0.0) are(0.0) reported(0.0) missing(0.0) every(0.0) day(0.0) in(0.0) our(0.0) Nation(1.0) .(0.0) One(0.0) in(0.0) 6(0.0) children(0.0) is(0.0) 
+recovered(0.0) as(0.0) a(0.0) result(0.0) of(0.0) their(0.0) picture(0.0) being(0.0) distributed(0.0) ,(0.0) and(0.0) it(0.0) is(0.0) vital(0.0) that(0.0) we(0.0) do(0.0) more(0.0) to(0.0) bring(0.0) 
+missing(0.0) children(0.0) home(0.0) and(0.0) safeguard(1.0) our(0.0) youth(1.0) .(0.0) Printing(0.0) the(0.0) pictures(0.0) of(0.0) missing(0.0) children(0.0) on(0.0) our(0.0) envelopes(0.0) is(0.0) a(0.0) simple(0.0) 
+way(0.0) we(0.0) can(0.0) get(0.0) involved(0.0) and(0.0) help(0.0) take(0.0) a(0.0) stand(0.0) against(0.0) child(0.0) abduction(1.0) and(0.0) victimization(1.0) ,(0.0) making(0.0) our(0.0) districts(1.0) safer(1.0) 
+for(0.0) our(0.0) constituents(1.0) .(0.0) It(0.0) is(0.0) simple(0.0) .(0.0) For(0.0) more(0.0) information(0.0) on(0.0) how(0.0) to(0.0) get(0.0) pictures(0.0) printed(0.0) on(0.0) your(0.0) envelopes(0.0) 
+,(0.0) contact(0.0) the(0.0) National(0.0) Center(0.0) for(0.0) Missing(0.0) and(0.0) Exploited(1.0) Children(0.0) at(0.0) 703-274-3900(0.0) ,(0.0) and(0.0) ask(0.0) to(0.0) speak(0.0) to(0.0) the(0.0) Public(0.0) 
+Affairs(0.0) Department(0.0) .(0.0) By(0.0) adding(0.0) pictures(0.0) to(0.0) our(0.0) office(0.0) envelopes(0.0) ,(0.0) we(0.0) can(0.0) help(0.0) picture(0.0) them(0.0) home(0.0) .(0.0) Please(0.0) ,(0.0) 
+I(0.0) say(0.0) to(0.0) my(0.0) colleagues(0.0) ,(0.0) let(0.0) us(0.0) not(0.0) forget(0.0) Ludwig(0.0) Koons(1.0) .(0.0) He(0.0) is(0.0) being(0.0) held(0.0) in(0.0) a(0.0) compound(0.0) 
+in(0.0) Italy(0.0) where(0.0) there(0.0) is(0.0) pornography(1.0) and(0.0) prostitution(1.0) .(0.0) We(0.0) need(0.0) to(0.0) bring(0.0) our(0.0) children(0.0) home(0.0) ,(0.0) and(0.0) we(0.0) need(0.0) 
+help(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Missing	
+FBI	
+Nation	
+
+safeguard	youth	
+abduction	victimization	districts	safer	
+constituents	
+Exploited	
+
+Koons	
+pornography	prostitution	
+
+
+reads % = 0.06278026905829596

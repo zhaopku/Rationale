@@ -1,0 +1,36 @@
+This is from a Republican
+----- below is the original text -----
+The(0.0) gentleman(0.0) would(0.0) probably(0.0) be(0.0) interested(0.0) in(0.0) knowing(0.0) that(0.0) the(0.0) day(0.0) after(0.0) Scharansky(0.0) met(0.0) with(0.0) Ronald(1.0) Reagan(1.0) ,(0.0) I(0.0) was(0.0) in(0.0) 
+the(0.0) Israeli(1.0) Embassy(0.0) at(0.0) a(0.0) reception(0.0) honoring(0.0) Scharansky(0.0) ,(0.0) and(0.0) through(0.0) the(0.0) crowed(1.0) ,(0.0) he(0.0) was(0.0) the(0.0) honored(0.0) guest(0.0) ,(0.0) 
+he(0.0) walked(0.0) straight(0.0) toward(0.0) me(0.0) and(0.0) he(0.0) came(0.0) up(0.0) to(0.0) me(0.0) and(0.0) he(0.0) said(0.0) ,(0.0) I(0.0) understand(0.0) that(0.0) you(0.0) write(0.0) 
+Ronald(1.0) Reagan's(0.0) speeches(1.0) and(0.0) I(0.0) said(0.0) yes(0.0) ,(0.0) that(0.0) is(0.0) true(0.0) ,(0.0) and(0.0) he(0.0) said(0.0) ,(0.0) I(0.0) have(0.0) often(0.0) wondered(0.0) 
+who(0.0) you(0.0) are(0.0) .(0.0) Well(0.0) ,(0.0) he(0.0) knew(0.0) that(0.0) some(0.0) people(0.0) were(0.0) behind(0.0) Ronald(1.0) Reagan(1.0) and(0.0) working(0.0) with(0.0) him(0.0) to(0.0) 
+try(0.0) to(0.0) make(0.0) sure(0.0) that(0.0) we(0.0) took(0.0) these(0.0) bold(0.0) stands(0.0) and(0.0) beat(0.0) back(0.0) the(0.0) bureaucracy(1.0) and(0.0) the(0.0) elitists(1.0) in(0.0) every(0.0) 
+country(1.0) that(0.0) would(0.0) say(0.0) ,(0.0) oh(0.0) ,(0.0) do(0.0) not(0.0) make(0.0) moral(1.0) stands(0.0) ,(0.0) do(0.0) not(0.0) make(0.0) a(0.0) stand(0.0) of(0.0) morality(1.0) 
+and(0.0) a(0.0) stand(0.0) for(0.0) freedom(1.0) because(0.0) it(0.0) will(0.0) rock(0.0) the(0.0) boat(0.0) .(0.0) But(0.0) he(0.0) knew(0.0) ,(0.0) ever(0.0) as(0.0) a(0.0) prisoner(0.0) 
+in(0.0) the(0.0) gulag(1.0) ,(0.0) that(0.0) I(0.0) was(0.0) there(0.0) and(0.0) other(0.0) people(0.0) were(0.0) there(0.0) .(0.0) Today(0.0) it(0.0) is(0.0) the(0.0) same(0.0) thing(0.0) 
+.(0.0) Although(0.0) they(0.0) do(0.0) not(0.0) know(0.0) us(0.0) by(0.0) name(0.0) ,(0.0) they(0.0) know(0.0) that(0.0) there(0.0) are(0.0) American(0.0) people(0.0) everywhere(0.0) throughout(0.0) our(0.0) 
+country(1.0) who(0.0) believe(0.0) in(0.0) the(0.0) cause(0.0) that(0.0) George(1.0) Washington(1.0) talked(0.0) about(0.0) on(0.0) the(0.0) 4th(0.0) of(0.0) July(0.0) ,(0.0) believe(0.0) in(0.0) what(0.0) 
+Thomas(0.0) Jefferson(1.0) was(0.0) talking(0.0) about(0.0) and(0.0) James(0.0) Madison(1.0) and(0.0) our(0.0) Founding(1.0) Fathers(0.0) when(0.0) they(0.0) started(0.0) a(0.0) country(0.0) on(0.0) a(0.0) Declaration(1.0) 
+of(0.0) Independence(1.0) and(0.0) a(0.0) declaration(0.0) that(0.0) talked(0.0) about(0.0) the(0.0) individual(0.0) rights(1.0) that(0.0) are(0.0) a(0.0) gift(0.0) of(0.0) God(0.0) to(0.0) all(0.0) people(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+Ronald	Reagan	
+Israeli	crowed	
+
+Ronald	speeches	
+Ronald	Reagan	
+bureaucracy	elitists	
+country	moral	morality	
+freedom	
+gulag	
+
+country	George	Washington	
+Jefferson	Madison	Founding	Declaration	
+Independence	rights	
+
+
+reads % = 0.0916030534351145

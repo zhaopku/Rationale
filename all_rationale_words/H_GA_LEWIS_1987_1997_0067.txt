@@ -1,0 +1,42 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) my(0.0) friend(0.0) and(0.0) colleague(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) York(1.0) [(0.0) Mr.(0.0) Nadler(1.0) ](0.0) ,(0.0) 
+for(0.0) yielding(0.0) me(0.0) this(0.0) time(0.0) .(0.0) I(0.0) thank(0.0) the(0.0) chairman(0.0) for(0.0) all(0.0) of(0.0) his(0.0) help(0.0) and(0.0) all(0.0) of(0.0) his(0.0) support(0.0) 
+,(0.0) the(0.0) gentleman(0.0) from(0.0) Pennsylvania(1.0) .(0.0) I(0.0) am(0.0) here(0.0) to(0.0) lend(0.0) my(0.0) strong(0.0) support(0.0) for(0.0) these(0.0) three(0.0) tri-State(0.0) water(0.0) compacts(1.0) 
+.(0.0) It(0.0) was(0.0) not(0.0) easy(0.0) ,(0.0) but(0.0) the(0.0) States(0.0) of(0.0) Georgia(1.0) ,(0.0) Florida(1.0) ,(0.0) and(0.0) Alabama(1.0) had(0.0) come(0.0) together(0.0) with(0.0) 
+the(0.0) Federal(1.0) Government(1.0) behind(0.0) a(0.0) proposal(0.0) that(0.0) we(0.0) all(0.0) can(0.0) agree(0.0) on(0.0) .(0.0) This(0.0) legislation(1.0) will(0.0) protect(1.0) the(0.0) environment(0.0) ,(0.0) 
+the(0.0) water(1.0) supplies(0.0) ,(0.0) and(0.0) the(0.0) interests(1.0) of(0.0) everyone(0.0) involved(0.0) .(0.0) A(0.0) lot(0.0) of(0.0) dedicated(0.0) people(0.0) spent(0.0) a(0.0) lot(0.0) of(0.0) 
+time(0.0) working(0.0) on(0.0) this(0.0) legislation(1.0) .(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) my(0.0) colleagues(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Georgia(0.0) [(0.0) Mr.(0.0) Barr(1.0) 
+](0.0) and(1.0) the(0.0) gentleman(0.0) from(0.0) Georgia(0.0) [(0.0) Mr.(0.0) Gingrich(1.0) ](0.0) ,(1.0) for(1.0) their(1.0) work(0.0) on(0.0) this(0.0) project(0.0) .(0.0) I(0.0) also(0.0) 
+want(0.0) to(0.0) thank(0.0) Rob(0.0) Hood(1.0) with(0.0) the(0.0) Speaker's(0.0) office(0.0) and(0.0) Bob(0.0) Herriott(1.0) with(0.0) the(0.0) office(0.0) of(0.0) the(0.0) gentleman(0.0) from(0.0) Georgia(1.0) 
+[(0.0) Mr.(0.0) Barr(1.0) ](0.0) ,(0.0) Spinner(0.0) Findley(1.0) with(0.0) the(0.0) Department(0.0) of(0.0) Justice(0.0) ,(0.0) Philip(0.0) Mancusi-Ungaro(0.0) with(0.0) the(0.0) EPA(0.0) ,(0.0) Joe(0.0) 
+Tanner(1.0) with(0.0) the(0.0) State(0.0) of(0.0) Georgia(0.0) ,(0.0) and(0.0) State(0.0) Representative(0.0) Bob(1.0) Kerr(1.0) ,(0.0) who(0.0) deserve(0.0) recognition(0.0) for(0.0) their(0.0) contribution(0.0) .(0.0) 
+In(0.0) addition(0.0) ,(0.0) I(0.0) thank(0.0) Sally(0.0) Bethea(1.0) with(0.0) the(0.0) Upper(0.0) Chattahoochee(0.0) River(0.0) people(0.0) for(0.0) her(0.0) work(0.0) to(0.0) ensure(0.0) that(0.0) these(0.0) 
+compacts(0.0) adequately(0.0) protect(0.0) the(0.0) environment(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) lastly(0.0) ,(0.0) I(0.0) thank(0.0) Harold(0.0) Reheis(1.0) ,(0.0) head(0.0) of(0.0) the(0.0) Georgia(0.0) 
+Environmental(0.0) Protection(0.0) Division(0.0) .(0.0) More(0.0) than(0.0) any(0.0) other(0.0) individual(0.0) ,(0.0) Harry(0.0) Reheis(1.0) deserves(1.0) recognition(0.0) for(0.0) bringing(0.0) us(0.0) to(0.0) where(0.0) we(0.0) 
+are(0.0) today(0.0) .(0.0) Through(0.0) his(0.0) leadership(0.0) and(0.0) dedication(0.0) ,(0.0) we(0.0) have(0.0) managed(0.0) to(0.0) resolve(0.0) all(0.0) of(0.0) the(0.0) differences(0.0) and(0.0) overcome(0.0) 
+all(0.0) of(0.0) the(0.0) problems(0.0) confronting(1.0) this(0.0) project(0.0) .(0.0) So(0.0) I(0.0) thank(0.0) Mr.(0.0) Reheis(1.0) for(0.0) all(0.0) his(0.0) work(0.0) on(0.0) this(0.0) project(0.0) 
+.(0.0) Again(0.0) ,(0.0) I(0.0) express(0.0) my(0.0) strong(0.0) support(0.0) for(0.0) these(0.0) compacts(1.0) and(0.0) ask(0.0) my(0.0) colleagues(0.0) for(0.0) their(0.0) support(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+York	Nadler	
+
+Pennsylvania	compacts	
+Georgia	Florida	Alabama	
+Federal	Government	legislation	protect	
+water	interests	
+legislation	Barr	
+and	Gingrich	,	for	their	
+Hood	Herriott	Georgia	
+Barr	Findley	
+Tanner	Bob	Kerr	
+Bethea	
+Speaker	Reheis	
+Reheis	deserves	
+
+confronting	Reheis	
+compacts	
+
+reads % = 0.10588235294117647

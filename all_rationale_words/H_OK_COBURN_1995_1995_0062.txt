@@ -1,0 +1,24 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) think(0.0) the(0.0) important(0.0) thing(0.0) ,(0.0) everybody(0.0) that(0.0) has(0.0) a(0.0) credit(0.0) card(0.0) ,(0.0) whether(0.0) it(0.0) is(0.0) a(0.0) BankAmericard(0.0) or(0.0) Visa(0.0) card(0.0) 
+,(0.0) when(0.0) they(0.0) use(0.0) that(0.0) today(0.0) their(0.0) bank(0.0) knows(0.0) it(0.0) tonight(0.0) .(0.0) If(0.0) they(0.0) use(0.0) it(0.0) in(0.0) Japan(1.0) ,(0.0) they(0.0) 
+know(0.0) it(0.0) tonight(0.0) .(0.0) If(0.0) they(0.0) use(0.0) it(0.0) in(0.0) South(1.0) America(0.0) ,(0.0) they(0.0) know(0.0) it(0.0) tonight(0.0) .(0.0) Our(0.0) Medicare(1.0) computer(0.0) 
+system(0.0) ,(0.0) we(0.0) do(0.0) not(0.0) know(0.0) it(0.0) and(0.0) we(0.0) will(0.0) never(0.0) know(0.0) it(0.0) if(0.0) it(0.0) is(0.0) between(0.0) two(0.0) different(0.0) divisions(0.0) 
+.(0.0) It(0.0) will(0.0) never(0.0) be(0.0) tracked(0.0) together(0.0) ,(0.0) so(0.0) in(0.0) fact(0.0) ,(0.0) we(0.0) have(0.0) in(0.0) the(0.0) past(0.0) ,(0.0) through(0.0) this(0.0) 
+bureaucracy(1.0) ,(0.0) not(0.0) even(0.0) kept(0.0) up(0.0) the(0.0) pace(0.0) with(0.0) 1970(1.0) 's(0.0) computer(0.0) knowledge(0.0) and(0.0) placement(0.0) .(0.0) We(0.0) have(0.0) spent(0.0) the(0.0) 
+last(0.0) 9(0.0) years(0.0) trying(0.0) to(0.0) get(0.0) a(0.0) tracking(0.0) system(0.0) that(0.0) will(0.0) not(0.0) be(0.0) available(0.0) for(0.0) 3(0.0) or(0.0) 4(0.0) more(0.0) years(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+
+Japan	
+South	Medicare	
+
+
+bureaucracy	1970	
+
+
+
+reads % = 0.035211267605633804

@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) compelled(0.0) to(0.0) speak(0.0) out(0.0) about(0.0) the(0.0) murder(1.0) of(0.0) 21-year-old(0.0) Matthew(0.0) Shepard(1.0) .(0.0) This(0.0) college(1.0) freshman(0.0) was(0.0) 
+kidnapped(0.0) ,(0.0) robbed(0.0) ,(0.0) savagely(0.0) beaten(0.0) and(0.0) then(0.0) tied(0.0) to(0.0) a(0.0) fence(0.0) in(0.0) near-(0.0) freezing(0.0) temperatures(0.0) ,(0.0) left(0.0) to(0.0) die(0.0) 
+.(0.0) And(0.0) why(0.0) ?(0.0) Because(0.0) of(0.0) his(0.0) sexual(0.0) orientation(0.0) .(0.0) Unfortunately(0.0) ,(0.0) Matthew(0.0) is(0.0) not(0.0) alone(0.0) .(0.0) FBI(1.0) statistics(0.0) reveal(0.0) 
+that(0.0) sexual(1.0) orientation(0.0) played(0.0) a(0.0) role(0.0) in(0.0) over(0.0) 1,000(0.0) hate(1.0) crimes(1.0) recorded(0.0) in(0.0) 1996(1.0) .(0.0) This(0.0) behavior(0.0) can(0.0) not(0.0) be(0.0) 
+tolerated(0.0) .(0.0) Legislation(1.0) must(0.0) be(0.0) passed(0.0) to(0.0) increase(1.0) the(0.0) penalty(1.0) for(0.0) crimes(1.0) committed(1.0) because(0.0) of(0.0) sexual(1.0) orientation(0.0) .(0.0) Today(0.0) ,(0.0) 
+I(0.0) join(0.0) my(0.0) voice(0.0) with(0.0) thousands(0.0) of(0.0) Americans(1.0) who(0.0) are(0.0) outraged(1.0) and(0.0) who(0.0) are(0.0) calling(0.0) for(0.0) their(0.0) elected(0.0) leadership(0.0) to(0.0) 
+do(0.0) just(0.0) that(0.0) ,(0.0) just(0.0) lead(0.0) .(0.0) As(0.0) a(0.0) cosponsor(1.0) of(0.0) the(0.0) Hate(1.0) Crimes(1.0) Prevention(1.0) Act(0.0) of(0.0) 1998(0.0) ,(0.0) I(0.0) 
+know(0.0) that(0.0) we(0.0) have(0.0) legislation(1.0) that(0.0) addresses(0.0) this(0.0) issue(0.0) .(0.0) We(0.0) have(0.0) a(0.0) responsibility(0.0) to(0.0) pass(0.0) this(0.0) legislation(1.0) .(0.0) How(0.0) 
+can(0.0) we(0.0) do(0.0) anything(0.0) less(0.0) ?(0.0) Pass(0.0) the(0.0) bill(1.0) and(0.0) pass(0.0) the(0.0) bill(1.0) now(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+murder	Shepard	college	
+
+FBI	
+sexual	hate	crimes	1996	
+Legislation	increase	penalty	crimes	committed	sexual	
+Americans	outraged	
+cosponsor	Hate	Crimes	Prevention	
+legislation	legislation	
+bill	bill	
+
+reads % = 0.13636363636363635

@@ -1,0 +1,24 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) first(0.0) of(0.0) all(0.0) ,(0.0) it(0.0) should(0.0) be(0.0) noted(0.0) again(0.0) ,(0.0) having(0.0) looked(0.0) at(0.0) all(0.0) this(0.0) paperwork(1.0) and(0.0) posters(0.0) 
+that(0.0) were(0.0) put(0.0) up(0.0) ,(0.0) that(0.0) there(0.0) is(0.0) no(0.0) paperwork(0.0) reduction(0.0) even(0.0) contemplated(0.0) in(0.0) H.R(0.0) .(0.0) 3310(0.0) as(0.0) it(0.0) is(0.0) 
+currently(0.0) constructed(0.0) .(0.0) The(0.0) only(0.0) people(0.0) that(0.0) will(0.0) now(0.0) have(0.0) to(0.0) file(0.0) less(0.0) paperwork(0.0) under(0.0) this(0.0) bill(1.0) are(0.0) people(0.0) that(0.0) 
+said(0.0) they(0.0) want(0.0) to(0.0) be(0.0) violating(1.0) the(0.0) law(1.0) .(0.0) Law-abiding(1.0) businesses(1.0) are(0.0) still(0.0) going(0.0) to(0.0) have(0.0) to(0.0) file(0.0) every(0.0) piece(0.0) 
+of(0.0) paper(0.0) they(0.0) ever(0.0) filed(0.0) ,(0.0) so(0.0) that(0.0) is(0.0) not(0.0) the(0.0) issue(0.0) .(0.0) The(0.0) issue(0.0) is(0.0) whether(0.0) or(0.0) not(0.0) there(0.0) 
+will(0.0) be(0.0) a(0.0) disincentive(1.0) to(0.0) file(0.0) ,(0.0) and(0.0) whether(0.0) or(0.0) not(0.0) some(0.0) businesses(1.0) ,(0.0) law-abiding(1.0) businesses(1.0) ,(0.0) will(0.0) be(0.0) put(0.0) 
+at(0.0) a(0.0) disadvantage(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) yield(0.0) 3(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Illinois(1.0) ((0.0) Mr.(0.0) Davis(1.0) )(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	paperwork	
+
+bill	
+violating	law	Law-abiding	businesses	
+
+disincentive	businesses	law-abiding	businesses	
+Chairman	Illinois	Davis	
+
+
+reads % = 0.09859154929577464

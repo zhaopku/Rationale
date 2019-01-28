@@ -1,0 +1,56 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) one(0.0) of(0.0) the(0.0) things(0.0) I(0.0) admire(0.0) the(0.0) most(0.0) about(0.0) our(0.0) country(1.0) is(0.0) our(0.0) commitment(1.0) and(0.0) our(0.0) love(0.0) for(0.0) democracy(1.0) 
+.(0.0) We(0.0) were(0.0) founded(0.0) on(0.0) the(0.0) ideal(0.0) that(0.0) it(0.0) is(0.0) the(0.0) people(0.0) who(0.0) choose(0.0) their(0.0) government(1.0) .(0.0) We(0.0) believe(0.0) in(0.0) 
+the(0.0) principle(1.0) of(0.0) one(0.0) person(0.0) ,(0.0) one(0.0) vote(1.0) ;(0.0) not(0.0) $(0.0) 10,000(0.0) or(0.0) $(0.0) 100,000(0.0) a(0.0) vote(0.0) .(0.0) We(0.0) believe(0.0) 
+in(0.0) the(0.0) free(0.0) exchange(0.0) of(0.0) ideas(0.0) to(0.0) be(0.0) able(0.0) to(0.0) decide(0.0) which(0.0) candidates(0.0) deserve(1.0) our(0.0) votes(1.0) .(0.0) But(0.0) money(1.0) ,(0.0) 
+and(0.0) lots(0.0) of(0.0) money(1.0) ,(0.0) heaps(0.0) of(0.0) money(1.0) from(0.0) undisclosed(1.0) sources(0.0) ,(0.0) are(0.0) having(0.0) a(0.0) corrosive(0.0) influence(0.0) on(0.0) our(0.0) political(1.0) 
+campaigns(1.0) .(0.0) Money(0.0) distorts(1.0) the(0.0) voice(0.0) of(0.0) a(0.0) particular(0.0) point(0.0) of(0.0) view(0.0) ,(0.0) making(0.0) that(0.0) voice(0.0) seem(0.0) louder(0.0) ,(0.0) making(0.0) 
+it(0.0) seem(0.0) more(0.0) influential(1.0) ,(0.0) or(0.0) making(0.0) it(0.0) seem(0.0) more(0.0) persuasive(0.0) than(0.0) it(0.0) actually(0.0) is(0.0) .(0.0) We(0.0) do(0.0) n't(0.0) know(0.0) 
+who(0.0) is(0.0) saying(0.0) what(0.0) to(0.0) whom(0.0) .(0.0) Is(0.0) it(0.0) Big(0.0) Oil(1.0) ?(0.0) Is(0.0) it(0.0) polluters(1.0) ?(0.0) Is(0.0) it(0.0) the(0.0) insurance(1.0) 
+industry(1.0) ?(0.0) Is(0.0) it(0.0) the(0.0) tobacco(1.0) industry(1.0) ?(0.0) All(0.0) too(0.0) often(0.0) these(0.0) distorted(1.0) views(0.0) come(0.0) from(0.0) corporate(1.0) interests(0.0) ,(0.0) and(0.0) 
+they(0.0) try(0.0) to(0.0) undermine(1.0) the(0.0) public(1.0) interest(0.0) through(0.0) campaign(1.0) expenditures(1.0) .(0.0) These(0.0) corporate(1.0) interests(1.0) can(0.0) buy(0.0) elections(1.0) by(0.0) throwing(0.0) hundreds(0.0) 
+of(0.0) thousands(1.0) of(0.0) dollars(1.0) into(0.0) a(0.0) race(1.0) for(0.0) a(0.0) particular(0.0) candidate(0.0) with(0.0) attack(0.0) ads(0.0) against(0.0) another(0.0) .(0.0) Last(0.0) year(0.0) ,(0.0) 
+sadly(0.0) ,(0.0) the(0.0) Supreme(1.0) Court(0.0) overturned(0.0) landmark(0.0) law(1.0) and(0.0) other(0.0) centuries-old(1.0) precedents(1.0) aimed(0.0) at(0.0) limiting(0.0) the(0.0) influence(0.0) of(0.0) corporations(1.0) in(0.0) 
+our(0.0) elections(1.0) .(0.0) Now(0.0) ,(0.0) today(0.0) ,(0.0) we(0.0) have(0.0) stealth(1.0) organizations(1.0) formed(0.0) for(0.0) the(0.0) sole(0.0) purpose(0.0) of(0.0) running(0.0) attack(0.0) ads(0.0) 
+,(0.0) and(0.0) the(0.0) American(0.0) people(0.0) do(0.0) n't(0.0) have(0.0) a(0.0) clue(0.0) who(0.0) is(0.0) footing(0.0) the(0.0) bills(1.0) .(0.0) The(0.0) American(0.0) people(0.0) have(0.0) 
+a(0.0) right(0.0) to(0.0) know(0.0) who(0.0) is(0.0) trying(0.0) to(0.0) influence(0.0) them(0.0) ,(0.0) and(0.0) if(0.0) corporations(1.0) want(0.0) to(0.0) try(0.0) to(0.0) persuade(0.0) voters(1.0) 
+about(0.0) their(0.0) point(0.0) of(0.0) view(0.0) ,(0.0) then(0.0) they(0.0) should(0.0) stand(0.0) behind(0.0) their(0.0) words(0.0) .(0.0) Let(0.0) voters(1.0) judge(0.0) the(0.0) facts(0.0) for(0.0) 
+themselves(0.0) .(0.0) Voters(0.0) are(0.0) smart(0.0) .(0.0) Let(0.0) them(0.0) make(0.0) up(0.0) their(0.0) own(0.0) minds(0.0) on(0.0) election(1.0) day(0.0) ,(0.0) as(0.0) long(0.0) as(0.0) 
+they(0.0) have(0.0) full(0.0) and(0.0) accurate(0.0) information(0.0) about(0.0) the(0.0) interests(1.0) that(0.0) are(0.0) at(0.0) stake(0.0) .(0.0) So(0.0) my(0.0) amendment(1.0) is(0.0) a(0.0) commonsense(1.0) 
+solution(0.0) to(0.0) a(0.0) difficult(0.0) political(1.0) problem(0.0) .(0.0) It(0.0) requires(0.0) that(0.0) any(0.0) company(0.0) that(0.0) does(0.0) business(0.0) with(0.0) the(0.0) Federal(1.0) Government(1.0) disclose(0.0) 
+their(0.0) political(1.0) contributions(1.0) .(0.0) Period(0.0) .(0.0) It(0.0) is(0.0) simple(0.0) ,(0.0) it(0.0) is(0.0) clear(0.0) ,(0.0) it(0.0) is(0.0) fair(1.0) ,(0.0) and(0.0) it(0.0) 
+is(0.0) called(0.0) disclosure(0.0) .(0.0) This(0.0) amendment(1.0) says(1.0) if(0.0) you(0.0) are(0.0) a(0.0) Federal(1.0) vendor(0.0) receiving(0.0) taxpayer(1.0) dollars(1.0) ,(0.0) you(0.0) are(0.0) required(0.0) 
+to(0.0) disclose(1.0) how(0.0) much(0.0) you(0.0) spend(1.0) to(0.0) influence(0.0) the(0.0) political(1.0) system(1.0) .(0.0) Why(0.0) ?(0.0) Because(0.0) with(0.0) public(1.0) funds(1.0) come(0.0) public(1.0) 
+responsibilities(0.0) .(0.0) My(0.0) amendment(1.0) honors(1.0) the(0.0) First(0.0) Amendment(1.0) and(0.0) it(0.0) places(0.0) no(0.0) limitation(0.0) on(0.0) political(1.0) speech(0.0) .(0.0) It(0.0) simply(0.0) requires(0.0) 
+transparency(1.0) .(0.0) I(0.0) yield(0.0) back(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+country	commitment	democracy	
+government	
+principle	vote	
+deserve	votes	money	
+money	money	undisclosed	political	
+campaigns	distorts	
+influential	
+Oil	polluters	insurance	
+industry	tobacco	industry	distorted	corporate	
+undermine	public	campaign	expenditures	corporate	interests	elections	
+thousands	dollars	race	
+Supreme	law	centuries-old	precedents	corporations	
+elections	stealth	organizations	
+bills	
+corporations	voters	
+voters	
+election	
+interests	amendment	commonsense	
+political	Federal	Government	
+political	contributions	fair	
+amendment	says	Federal	taxpayer	dollars	
+disclose	spend	political	system	public	funds	public	
+amendment	honors	Amendment	political	
+transparency	
+
+reads % = 0.15565031982942432

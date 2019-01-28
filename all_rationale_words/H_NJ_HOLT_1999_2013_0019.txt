@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) in(0.0) closing(0.0) ,(0.0) I(0.0) thank(0.0) my(0.0) good(0.0) friend(0.0) from(0.0) Virginia(1.0) ,(0.0) and(0.0) would(0.0) reiterate(0.0) what(0.0) he(0.0) has(0.0) said(0.0) .(0.0) 
+In(0.0) fact(0.0) ,(0.0) the(0.0) original(0.0) legislation(1.0) ,(0.0) which(0.0) we(0.0) are(0.0) reauthorizing(1.0) and(0.0) extending(0.0) through(0.0) this(0.0) bill(1.0) ,(0.0) grew(0.0) out(0.0) of(0.0) 
+Virginia(1.0) .(0.0) It(0.0) was(0.0) because(0.0) of(0.0) the(0.0) critical(0.0) battlefields(0.0) in(0.0) Virginia(1.0) that(0.0) were(0.0) at(0.0) risk(0.0) of(0.0) being(0.0) lost(0.0) that(0.0) this(0.0) 
+battlefield(1.0) protection(1.0) legislation(1.0) was(0.0) developed(0.0) ,(0.0) but(0.0) it(0.0) will(0.0) be(0.0) beneficial(0.0) across(0.0) many(0.0) States(0.0) .(0.0) If(0.0) you(0.0) look(0.0) where(0.0) the(0.0) 
+War(1.0) of(0.0) 1812(1.0) was(0.0) fought(0.0) --(0.0) in(0.0) the(0.0) Deep(0.0) South(0.0) and(0.0) around(0.0) the(0.0) Great(0.0) Lakes(0.0) --(0.0) and(0.0) where(0.0) the(0.0) Revolutionary(1.0) 
+War(0.0) was(0.0) fought(0.0) ,(0.0) which(0.0) was(0.0) up(0.0) and(0.0) down(0.0) the(0.0) Thirteen(0.0) Colonies(0.0) ,(0.0) this(0.0) is(0.0) something(0.0) that(0.0) is(0.0) of(0.0) great(0.0) 
+national(1.0) importance(0.0) ;(0.0) and(0.0) because(0.0) the(0.0) authorization(0.0) is(0.0) about(0.0) to(0.0) expire(1.0) ,(0.0) it(0.0) is(0.0) needed(0.0) ;(0.0) and(0.0) because(0.0) so(0.0) many(0.0) 
+of(0.0) these(0.0) battlefields(1.0) are(0.0) at(0.0) great(0.0) risk(0.0) of(0.0) being(0.0) overrun(0.0) by(0.0) sprawl(1.0) and(0.0) development(0.0) ,(0.0) it(0.0) is(0.0) at(0.0) the(0.0) greatest(0.0) 
+need(0.0) now(0.0) .(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) it(0.0) ,(0.0) and(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+Virginia	
+legislation	reauthorizing	bill	
+Virginia	Virginia	
+battlefield	protection	legislation	
+War	1812	Revolutionary	
+
+national	expire	
+battlefields	sprawl	
+
+
+
+reads % = 0.08791208791208792

@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) we(0.0) all(0.0) agree(0.0) that(0.0) No(0.0) Child(0.0) Left(1.0) Behind(1.0) is(0.0) outdated(1.0) .(0.0) A(0.0) diverse(0.0) coalition(1.0) of(0.0) education(1.0) ,(0.0) of(0.0) business(0.0) 
+,(0.0) and(0.0) of(0.0) civil(1.0) rights(1.0) leaders(0.0) also(0.0) agree(0.0) that(0.0) H.R(0.0) .(0.0) 5(0.0) is(0.0) not(0.0) the(0.0) right(0.0) answer(0.0) .(0.0) H.R(0.0) .(0.0) 
+5(0.0) fails(0.0) on(0.0) all(0.0) measures(1.0) to(0.0) promote(0.0) educational(1.0) equity(1.0) ,(0.0) provide(0.0) a(0.0) well-rounded(0.0) education(1.0) ,(0.0) and(0.0) help(0.0) struggling(0.0) schools(1.0) succeed(0.0) 
+.(0.0) It(0.0) fails(0.0) our(0.0) hardworking(1.0) teachers(0.0) by(0.0) creating(0.0) evaluation(0.0) systems(0.0) without(0.0) providing(0.0) professional(0.0) development(0.0) .(0.0) It(0.0) fails(0.0) to(0.0) make(0.0) the(0.0) 
+right(0.0) investments(1.0) by(0.0) block(0.0) granting(1.0) critical(0.0) programs(0.0) and(0.0) locking(0.0) in(0.0) across-the-board(1.0) cuts(1.0) .(0.0) What(0.0) kind(0.0) of(0.0) a(0.0) message(0.0) does(0.0) this(0.0) 
+bill(1.0) send(1.0) to(0.0) our(0.0) future(0.0) leaders(0.0) ,(0.0) to(0.0) our(0.0) scientists(0.0) ,(0.0) our(0.0) teachers(0.0) and(0.0) innovators(1.0) ?(0.0) Investing(1.0) in(0.0) education(1.0) ,(0.0) 
+well(0.0) ,(0.0) it(0.0) 's(0.0) not(0.0) just(0.0) good(0.0) for(0.0) our(0.0) economy(1.0) and(0.0) our(0.0) competitiveness(1.0) .(0.0) It(0.0) is(0.0) key(0.0) to(0.0) our(0.0) national(1.0) 
+security(0.0) ,(0.0) as(0.0) generals(0.0) and(0.0) admirals(0.0) have(0.0) expressed(0.0) to(0.0) me(0.0) through(0.0) my(0.0) work(0.0) as(0.0) ranking(0.0) member(0.0) of(0.0) the(0.0) Armed(0.0) Services(0.0) 
+Personnel(0.0) Subcommittee(0.0) .(0.0) So(0.0) now(0.0) ,(0.0) more(0.0) than(0.0) ever(0.0) ,(0.0) we(0.0) ca(0.0) n't(0.0) afford(0.0) to(0.0) let(0.0) our(0.0) kids(0.0) down(0.0) .(0.0) 
+I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) say(0.0) ``(0.0) no(0.0) ''(0.0) to(0.0) H.R(0.0) .(0.0) 5(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Left	Behind	outdated	coalition	education	
+civil	rights	
+measures	educational	equity	education	schools	
+hardworking	
+investments	granting	across-the-board	cuts	
+bill	send	innovators	Investing	education	
+economy	competitiveness	national	
+
+
+
+
+reads % = 0.1282051282051282

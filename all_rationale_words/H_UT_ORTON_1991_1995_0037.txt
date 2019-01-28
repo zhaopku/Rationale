@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) minority(1.0) leader(0.0) for(0.0) submitting(0.0) our(0.0) budget(1.0) resolution(1.0) to(0.0) the(0.0) committee(0.0) when(0.0) the(0.0) Committee(0.0) on(0.0) Rules(0.0) refused(0.0) 
+to(0.0) make(0.0) it(0.0) in(0.0) order(0.0) and(0.0) allow(0.0) us(0.0) to(0.0) bring(0.0) it(0.0) to(0.0) the(0.0) floor(0.0) .(0.0) So(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) 
+for(0.0) doing(0.0) that(0.0) ,(0.0) Mr.(0.0) Chairman(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) yield(0.0) 2(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) [(0.0) 
+Mr.(0.0) Condit(1.0) ](0.0) .(0.0) ((0.0) Mr.(0.0) CONDIT(1.0) asked(0.0) and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) )(0.0) 
+
+
+
+----- below are rationale words -----
+
+minority	budget	resolution	
+
+Chairman	Chairman	
+Condit	CONDIT	
+
+
+reads % = 0.08641975308641975

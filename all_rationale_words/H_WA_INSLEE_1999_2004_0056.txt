@@ -1,0 +1,36 @@
+This is from a Democrat
+----- below is the original text -----
+Prince(0.0) Bandar(0.0) ,(0.0) who(0.0) learned(0.0) about(0.0) it(0.0) before(0.0) our(0.0) Secretary(1.0) of(0.0) State(0.0) .(0.0) So(0.0) the(0.0) fact(0.0) that(0.0) we(0.0) told(0.0) the(0.0) Saudis(1.0) 
+,(0.0) the(0.0) President(1.0) of(0.0) the(0.0) United(0.0) States(0.0) shared(0.0) with(0.0) the(0.0) Saudi(0.0) Government(0.0) ,(0.0) a(0.0) foreign(0.0) government(0.0) ,(0.0) our(0.0) war(1.0) plan(1.0) 
+,(0.0) that(0.0) the(0.0) war(1.0) was(0.0) going(0.0) to(0.0) start(0.0) before(0.0) he(0.0) told(0.0) the(0.0) Secretary(1.0) of(0.0) State(0.0) ,(0.0) the(0.0) Iraqis(1.0) should(0.0) not(0.0) 
+feel(0.0) too(0.0) bad(0.0) if(0.0) we(0.0) do(0.0) not(0.0) clue(0.0) them(0.0) to(0.0) who(0.0) the(0.0) next(0.0) government(1.0) will(0.0) be(0.0) that(0.0) we(0.0) choose(0.0) .(0.0) 
+Let(0.0) us(0.0) be(0.0) honest(0.0) about(0.0) this(0.0) .(0.0) This(0.0) is(0.0) what(0.0) we(0.0) are(0.0) asking(0.0) and(0.0) suggesting(0.0) to(0.0) the(0.0) President(1.0) in(0.0) a(0.0) 
+very(0.0) ,(0.0) very(0.0) difficult(0.0) situation(0.0) .(0.0) And(0.0) I(0.0) do(0.0) not(0.0) envy(0.0) that(0.0) position(0.0) of(0.0) dealing(0.0) with(0.0) Iraq(1.0) as(0.0) President(0.0) of(0.0) 
+the(0.0) United(0.0) States(0.0) .(0.0) But(0.0) the(0.0) first(0.0) order(0.0) of(0.0) business(0.0) ought(1.0) to(0.0) be(0.0) truth(0.0) .(0.0) And(0.0) this(0.0) operation(0.0) from(0.0) day(0.0) 
+one(0.0) has(0.0) been(0.0) built(0.0) on(0.0) the(0.0) shifting(0.0) sands(1.0) of(0.0) deception(1.0) ,(0.0) exaggeration(1.0) ,(0.0) failure(0.0) ,(0.0) and(0.0) simply(0.0) not(0.0) shooting(0.0) straight(0.0) 
+.(0.0) Now(0.0) he(0.0) needs(0.0) to(0.0) be(0.0) straight(0.0) with(0.0) the(0.0) world(0.0) and(0.0) the(0.0) Iraqis(1.0) .(0.0) What(0.0) happens(0.0) on(0.0) June(0.0) 30(0.0) is(0.0) 
+not(0.0) going(0.0) to(0.0) be(0.0) a(0.0) sovereign(1.0) government(1.0) .(0.0) And(0.0) the(0.0) reason(0.0) it(0.0) is(0.0) not(0.0) going(0.0) to(0.0) be(0.0) a(0.0) sovereign(0.0) government(1.0) 
+is(0.0) because(0.0) the(0.0) only(0.0) force(0.0) capable(0.0) of(0.0) doing(0.0) anything(0.0) in(0.0) Iraq(1.0) is(0.0) the(0.0) United(0.0) States(0.0) military(0.0) .(0.0) And(0.0) he(0.0) is(0.0) 
+fooling(0.0) himself(0.0) if(0.0) he(0.0) thinks(0.0) that(0.0) is(0.0) going(0.0) to(0.0) fool(0.0) the(0.0) American(0.0) people(0.0) or(0.0) the(0.0) Iraqi(1.0) people(0.0) or(0.0) the(0.0) world(0.0) 
+.(0.0) And(0.0) we(0.0) need(0.0) to(0.0) be(0.0) straight(0.0) about(0.0) this(0.0) that(0.0) this(0.0) is(0.0) a(0.0) multi-year(0.0) situation(0.0) the(0.0) mess(1.0) we(0.0) are(0.0) about(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+Secretary	Saudis	
+President	war	plan	
+war	Secretary	Iraqis	
+government	
+President	
+Iraq	
+ought	
+sands	deception	exaggeration	
+Iraqis	
+sovereign	government	government	
+Iraq	
+Iraqi	
+mess	
+
+
+reads % = 0.08396946564885496

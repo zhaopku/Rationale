@@ -1,0 +1,24 @@
+This is from a Republican
+----- below is the original text -----
+Will(1.0) the(0.0) gentleman(0.0) yield(0.0) further(0.0) ?(0.0) happen(0.0) under(0.0) the(0.0) circumstances(0.0) we(0.0) currently(0.0) have(0.0) in(0.0) this(0.0) bill(1.0) because(0.0) ,(0.0) if(0.0) it(0.0) got(0.0) 
+that(0.0) close(0.0) together(0.0) ,(0.0) $(0.0) 1(0.0) ,(0.0) or(0.0) even(0.0) $(0.0) 1,000(0.0) ,(0.0) or(0.0) $(0.0) 5,000(0.0) ,(0.0) the(0.0) way(0.0) the(0.0) bill(1.0) 
+is(0.0) written(0.0) they(0.0) will(0.0) close(0.0) that(0.0) up(0.0) .(0.0) They(0.0) will(0.0) not(0.0) go(0.0) to(0.0) court(0.0) over(0.0) a(0.0) difference(0.0) of(0.0) a(0.0) few(0.0) 
+dollars(0.0) .(0.0) But(0.0) in(0.0) the(0.0) gentleman(0.0) 's(0.0) case(0.0) they(0.0) are(0.0) between(0.0) $(0.0) 50,000(0.0) and(0.0) $(0.0) 100,000(0.0) ,(0.0) and(0.0) they(0.0) will(0.0) 
+often(0.0) decide(0.0) that(0.0) it(0.0) is(0.0) not(0.0) fair(0.0) to(0.0) go(0.0) to(0.0) court(0.0) .(0.0) It(0.0) will(0.0) put(0.0) more(0.0) pressure(0.0) on(0.0) them(0.0) to(0.0) 
+settle(0.0) because(0.0) of(0.0) that(0.0) razor(0.0) sharp(0.0) limitation(1.0) ,(0.0) but(0.0) in(0.0) the(0.0) end(0.0) the(0.0) decision(1.0) will(0.0) be(0.0) made(0.0) based(0.0) on(0.0) the(0.0) 
+difference(0.0) of(0.0) $(0.0) 1(0.0) ,(0.0) and(0.0) that(0.0) is(0.0) the(0.0) hesitation(0.0) I(0.0) have(0.0) with(0.0) that(0.0) --(0.0) --(0.0) Chairman(0.0) ,(0.0) will(0.0) the(0.0) 
+gentleman(0.0) yield(0.0) further(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+bill	
+bill	
+
+
+
+limitation	decision	
+
+
+
+reads % = 0.027586206896551724

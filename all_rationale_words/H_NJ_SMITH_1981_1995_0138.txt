@@ -1,0 +1,38 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) pass(0.0) the(0.0) bill(0.0) ((1.0) H.R(1.0) .(0.0) 2070(0.0) )(0.0) to(0.0) provide(0.0) for(0.0) the(0.0) 
+distribution(0.0) within(0.0) the(0.0) United(0.0) States(0.0) of(0.0) the(0.0) U.S.(0.0) Information(0.0) Agency(0.0) film(0.0) entitled(0.0) ``(0.0) Fragile(0.0) Ring(0.0) of(0.0) Life(0.0) .(0.0) ''(0.0) The(0.0) 
+Clerk(0.0) read(0.0) as(0.0) follows(0.0) :(0.0) H.R(0.0) .(0.0) 2070(0.0) Be(0.0) it(0.0) enacted(0.0) by(0.0) the(0.0) Senate(0.0) and(0.0) House(0.0) of(0.0) Representatives(0.0) of(0.0) the(0.0) 
+United(0.0) States(0.0) of(0.0) America(0.0) in(0.0) Congress(0.0) assembled(0.0) ,(0.0) SECTION(0.0) 1(0.0) .(0.0) DISTRIBUTION(0.0) WITHIN(0.0) THE(0.0) UNITED(0.0) STATES(0.0) OF(0.0) THE(0.0) UNITED(0.0) STATES(0.0) 
+INFORMATION(0.0) AGENCY(0.0) FILM(0.0) ENTITLED(0.0) ``(0.0) FRAGILE(0.0) RING(0.0) OF(0.0) LIFE(0.0) ''(0.0) .(0.0) Notwithstanding(0.0) section(0.0) 208(0.0) of(0.0) the(0.0) Foreign(0.0) Relations(0.0) Authorization(0.0) Act(0.0) 
+,(0.0) Fiscal(0.0) Years(0.0) 1986(0.0) and(0.0) 1987(0.0) ((0.0) 22(0.0) U.S.C(0.0) .(0.0) 1461-1(0.0) ((0.0) a(0.0) )(0.0) )(0.0) and(0.0) the(0.0) second(0.0) sentence(0.0) of(0.0) 
+section(0.0) 501(0.0) of(0.0) the(0.0) United(0.0) States(0.0) Information(0.0) and(0.0) Education(0.0) Exchange(0.0) Act(0.0) of(0.0) 1948(0.0) ((0.0) 22(0.0) U.S.C(0.0) .(0.0) 1461(0.0) )(0.0) --(0.0) 
+((0.0) 1(0.0) )(0.0) the(0.0) Director(0.0) of(0.0) the(0.0) United(0.0) States(0.0) Information(0.0) Agency(0.0) shall(0.0) make(0.0) available(0.0) to(0.0) the(0.0) Archivist(0.0) of(0.0) the(0.0) United(0.0) 
+States(0.0) a(0.0) master(0.0) copy(0.0) of(0.0) the(0.0) film(0.0) entitled(0.0) ``(0.0) Fragile(0.0) Ring(0.0) of(0.0) Life(0.0) ''(0.0) ;(0.0) and(0.0) ((0.0) 2(0.0) )(0.0) upon(0.0) 
+evidence(0.0) that(0.0) necessary(0.0) United(0.0) States(0.0) rights(1.0) and(0.0) licenses(0.0) have(0.0) been(0.0) secured(0.0) and(0.0) paid(0.0) for(0.0) by(0.0) the(0.0) person(0.0) seeking(0.0) domestic(0.0) release(0.0) 
+of(0.0) the(0.0) film(0.0) ,(0.0) the(0.0) Archivist(0.0) shall(0.0) --(0.0) ((0.0) A(0.0) )(0.0) reimburse(0.0) the(0.0) Director(0.0) for(0.0) any(0.0) expenses(0.0) of(0.0) the(0.0) Agency(0.0) 
+in(0.0) making(0.0) that(0.0) master(0.0) copy(0.0) available(0.0) ;(0.0) ((0.0) B(0.0) )(0.0) deposit(0.0) that(0.0) film(0.0) in(0.0) the(0.0) National(0.0) Archives(0.0) of(0.0) the(0.0) United(0.0) 
+States(0.0) ;(0.0) and(0.0) ((0.0) C(0.0) )(0.0) make(0.0) copies(0.0) of(0.0) that(0.0) film(0.0) available(0.0) for(0.0) purchase(0.0) and(0.0) public(0.0) viewing(0.0) within(0.0) the(0.0) United(0.0) 
+States(0.0) .(0.0) Any(0.0) reimbursement(0.0) to(0.0) the(0.0) Director(0.0) pursuant(0.0) to(0.0) this(0.0) section(0.0) shall(0.0) be(0.0) credited(0.0) to(0.0) the(0.0) applicable(0.0) appropriation(0.0) of(0.0) the(0.0) 
+United(0.0) States(0.0) Information(0.0) Agency(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+(	H.R	
+
+
+
+
+
+
+
+
+rights	
+
+
+
+
+
+
+reads % = 0.01048951048951049

@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(1.0) ,(0.0) if(0.0) the(0.0) gentleman(0.0) will(0.0) yield(0.0) ,(0.0) the(0.0) original(0.0) law(1.0) did(0.0) not(1.0) apply(0.0) to(0.0) the(0.0) transfer(1.0) of(0.0) any(1.0) funds(0.0) .(0.0) 
+It(0.0) was(0.0) simply(0.0) a(0.0) law(1.0) making(0.0) it(0.0) illegal(1.0) for(0.0) any(1.0) city(1.0) to(0.0) restrict(1.0) the(0.0) flow(0.0) of(0.0) information(0.0) to(0.0) or(0.0) from(0.0) 
+the(0.0) Department(0.0) of(0.0) the(0.0) Immigration(1.0) and(0.0) Naturalization(1.0) Service(0.0) ,(0.0) actually(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+law	not	transfer	any	
+law	illegal	any	city	restrict	
+Immigration	Naturalization	actually	
+
+reads % = 0.23076923076923078

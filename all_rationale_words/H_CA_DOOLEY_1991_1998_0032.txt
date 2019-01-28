@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) just(0.0) to(0.0) bring(0.0) my(0.0) comments(0.0) to(0.0) a(0.0) close(0.0) on(0.0) my(0.0) own(0.0) time(0.0) ,(0.0) it(0.0) is(0.0) clear(0.0) that(0.0) this(0.0) amendment(1.0) 
+would(1.0) work(0.0) against(0.0) the(0.0) interests(1.0) of(0.0) the(0.0) working(0.0) men(0.0) and(0.0) women(0.0) of(0.0) this(0.0) country(1.0) .(0.0) When(0.0) people(0.0) talk(0.0) about(0.0) the(0.0) 
+standard(0.0) of(0.0) the(0.0) working(0.0) men(0.0) and(0.0) women(0.0) in(0.0) this(0.0) country(1.0) declining(1.0) ,(0.0) that(0.0) is(0.0) wrong(0.0) .(0.0) When(0.0) we(0.0) start(0.0) evaluating(0.0) 
+in(0.0) terms(1.0) of(0.0) how(0.0) many(0.0) hours(0.0) an(0.0) average(0.0) worker(1.0) has(0.0) to(0.0) spend(1.0) in(0.0) order(0.0) to(0.0) afford(1.0) a(0.0) house(0.0) ,(0.0) to(0.0) 
+afford(0.0) a(0.0) car(0.0) ,(0.0) to(0.0) afford(1.0) a(0.0) college(0.0) education(1.0) ,(0.0) it(0.0) is(0.0) much(0.0) less(0.0) today(0.0) than(0.0) it(0.0) has(0.0) ever(0.0) been(0.0) 
+in(0.0) the(0.0) history(0.0) of(0.0) this(0.0) country(1.0) .(0.0) In(0.0) part(0.0) it(0.0) is(0.0) because(0.0) of(0.0) our(0.0) ability(0.0) to(0.0) access(0.0) international(0.0) markets(1.0) .(0.0) 
+This(0.0) measure(1.0) ,(0.0) if(0.0) it(0.0) is(0.0) successful(0.0) in(0.0) passing(0.0) ,(0.0) will(0.0) reduce(1.0) our(0.0) ability(0.0) to(0.0) ensure(0.0) that(0.0) U.S.(0.0) workers(1.0) have(0.0) 
+the(0.0) ability(0.0) to(0.0) be(0.0) as(0.0) competitive(0.0) as(0.0) possible(0.0) in(0.0) the(0.0) international(0.0) marketplace(0.0) ,(0.0) because(0.0) it(0.0) will(0.0) allow(0.0) this(0.0) country(1.0) the(0.0) 
+tools(0.0) to(0.0) maintain(0.0) currency(1.0) values(0.0) ,(0.0) which(0.0) is(0.0) absolutely(0.0) critical(0.0) to(0.0) our(0.0) economic(1.0) interest(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+amendment	
+would	interests	country	
+country	declining	
+terms	worker	spend	afford	
+afford	education	
+country	markets	
+measure	reduce	workers	
+country	
+currency	economic	
+
+reads % = 0.11363636363636363

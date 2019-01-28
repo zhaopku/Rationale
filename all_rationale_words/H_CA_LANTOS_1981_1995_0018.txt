@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) many(0.0) of(0.0) my(0.0) colleagues(0.0) have(0.0) described(0.0) the(0.0) fundamental(1.0) flaws(0.0) of(0.0) this(0.0) disastrous(1.0) bill(1.0) --(1.0) this(0.0) bill(1.0) makes(1.0) huge(0.0) cuts(1.0) 
+in(1.0) Medicare(1.0) ,(0.0) Medicaid(1.0) ,(0.0) and(0.0) other(0.0) programs(1.0) for(0.0) low-(0.0) and(0.0) middle-income(1.0) Americans(1.0) in(0.0) order(0.0) to(0.0) finance(1.0) tax(1.0) breaks(1.0) for(1.0) 
+the(1.0) wealthy(1.0) .(1.0) More(1.0) than(0.0) half(0.0) of(0.0) the(0.0) $(0.0) 245(0.0) billion(1.0) in(0.0) Republican(1.0) tax(1.0) cuts(1.0) will(1.0) go(1.0) to(1.0) those(1.0) who(1.0) 
+earn(1.0) over(1.0) $(1.0) 100,000(1.0) per(1.0) year(1.0) ,(1.0) and(0.0) at(0.0) the(0.0) same(0.0) time(0.0) almost(0.0) seven-eighths(1.0) of(0.0) middle-income(1.0) families(0.0) will(0.0) actually(0.0) pay(1.0) 
+more(0.0) in(0.0) taxes(1.0) or(0.0) will(0.0) see(0.0) no(0.0) benefit(0.0) at(0.0) all(0.0) from(0.0) this(0.0) disastrous(1.0) plan(1.0) .(0.0) The(0.0) $(0.0) 270(0.0) billion(1.0) cut(1.0) 
+in(1.0) Medicare(1.0) ,(1.0) which(1.0) is(0.0) included(0.0) in(0.0) this(0.0) bill(1.0) ,(0.0) is(1.0) three(0.0) times(0.0) greater(0.0) than(0.0) the(0.0) amount(0.0) recommended(0.0) by(0.0) the(0.0) 
+Medicare(1.0) trustees(1.0) --(0.0) and(0.0) this(0.0) provision(1.0) will(0.0) force(0.0) American(0.0) seniors(1.0) to(0.0) pay(1.0) more(0.0) ,(0.0) limit(1.0) their(0.0) choice(0.0) of(0.0) doctors(1.0) ,(0.0) 
+and(0.0) lead(0.0) to(0.0) a(0.0) reduction(0.0) in(0.0) health(1.0) care(1.0) quality(0.0) .(0.0) This(0.0) legislation(1.0) abolishes(1.0) minimum(1.0) quality(0.0) standards(1.0) for(0.0) nursing(1.0) homes(0.0) .(0.0) 
+Another(0.0) provision(1.0) of(0.0) this(0.0) calamitous(1.0) legislation(1.0) allows(1.0) corporations(1.0) to(0.0) take(0.0) $(0.0) 40(0.0) billion(1.0) out(0.0) of(0.0) worker(1.0) pension(1.0) funds(1.0) and(0.0) use(0.0) 
+them(0.0) for(0.0) any(0.0) purpose(0.0) those(0.0) corporations(1.0) choose(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) as(0.0) I(0.0) have(0.0) just(0.0) enumerated(0.0) briefly(0.0) ,(0.0) there(0.0) are(0.0) 
+a(0.0) whole(0.0) host(0.0) of(0.0) fatal(1.0) flaws(0.0) in(0.0) this(0.0) ill-conceived(1.0) piece(0.0) of(0.0) legislation(1.0) .(0.0) But(0.0) in(0.0) the(0.0) interest(0.0) of(0.0) time(0.0) ,(0.0) 
+I(0.0) would(0.0) like(0.0) to(0.0) concentrate(0.0) on(0.0) a(0.0) single(0.0) problem(0.0) in(0.0) the(0.0) bill(1.0) .(0.0) This(0.0) one(0.0) problem(0.0) is(0.0) only(0.0) a(0.0) single(0.0) 
+small(0.0) example(0.0) of(0.0) the(0.0) horrendous(1.0) fundamental(1.0) defects(0.0) of(0.0) this(0.0) legislation(1.0) .(0.0) The(0.0) problem(0.0) I(0.0) am(0.0) talking(0.0) about(0.0) is(0.0) the(0.0) great(0.0) 
+pension(1.0) fund(1.0) raid(0.0) of(0.0) 1995(0.0) .(0.0) Sometimes(0.0) ,(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) the(0.0) Congress(0.0) makes(0.0) a(0.0) decision(0.0) which(0.0) shows(0.0) remarkable(0.0) long-term(0.0) 
+foresight(0.0) and(0.0) wisdom(0.0) .(0.0) Sometimes(0.0) ,(0.0) however(0.0) ,(0.0) it(0.0) makes(0.0) a(0.0) decision(0.0) which(0.0) shows(0.0) awesome(0.0) short-term(1.0) irresponsibility(1.0) .(0.0) Today(0.0) ,(0.0) 
+we(0.0) are(0.0) about(0.0) to(0.0) witness(0.0) such(0.0) short-term(0.0) irresponsibility(1.0) .(0.0) The(0.0) Republican(1.0) majority(1.0) --(1.0) first(1.0) on(1.0) the(1.0) House(1.0) Ways(1.0) and(1.0) Means(1.0) 
+Committee(0.0) and(1.0) now(1.0) in(0.0) the(1.0) full(0.0) House(0.0) of(0.0) Representatives(0.0) --(1.0) is(0.0) marching(1.0) in(0.0) lock-step(1.0) to(1.0) approve(1.0) a(0.0) provision(1.0) which(0.0) clearly(0.0) 
+qualifies(1.0) as(0.0) one(0.0) of(0.0) the(0.0) most(0.0) mind-(0.0) boggling(0.0) examples(0.0) of(0.0) shortsightedness(1.0) I(0.0) have(0.0) seen(0.0) since(0.0) I(0.0) have(0.0) served(0.0) in(0.0) the(0.0) 
+Congress(0.0) .(0.0) The(0.0) Republican(1.0) 's(1.0) self-imposed(1.0) deadline(1.0) to(1.0) balance(1.0) the(1.0) Federal(1.0) budget(1.0) by(1.0) the(1.0) year(1.0) 2002(1.0) has(1.0) run(1.0) into(0.0) the(1.0) 
+brick(1.0) wall(0.0) of(1.0) no(1.0) new(1.0) taxes(1.0) and(0.0) constituent(0.0) support(0.0) for(0.0) continuing(1.0) existing(0.0) Federal(1.0) programs(1.0) .(0.0) Now(0.0) ,(0.0) the(0.0) Republicans(1.0) are(1.0) 
+desperately(1.0) searching(1.0) for(1.0) the(1.0) magic(1.0) bullet(1.0) that(1.0) will(1.0) balance(1.0) the(1.0) budget(1.0) without(1.0) cutting(1.0) Government(1.0) programs(1.0) .(1.0) In(1.0) this(0.0) atmosphere(0.0) ,(0.0) 
+some(0.0) Republicans(0.0) think(1.0) they(1.0) have(1.0) found(1.0) such(1.0) a(1.0) magic(1.0) bullet(1.0) .(1.0) They(1.0) have(0.0) proposed(1.0) a(0.0) change(1.0) in(0.0) pension(1.0) reserves(1.0) that(0.0) 
+will(0.0) raise(1.0) an(0.0) estimated(1.0) $(0.0) 9.5(0.0) billion(1.0) in(0.0) tax(1.0) revenue(1.0) .(0.0) The(0.0) proposal(1.0) does(1.0) indeed(0.0) sound(0.0) too(0.0) good(0.0) to(0.0) be(0.0) 
+true(0.0) .(0.0) Companies(0.0) which(0.0) maintain(0.0) their(0.0) own(0.0) pension(1.0) programs(1.0) are(0.0) required(0.0) to(0.0) fund(1.0) the(0.0) programs(1.0) at(0.0) 150(0.0) percent(0.0) of(0.0) current(0.0) 
+liabilities(1.0) .(0.0) The(0.0) Republican(1.0) proposal(1.0) would(1.0) allow(1.0) them(1.0) to(1.0) fund(1.0) their(1.0) programs(1.0) at(0.0) only(1.0) 125(1.0) percent(0.0) of(0.0) current(1.0) liabilities(1.0) 
+
+
+----- below are rationale words -----
+
+fundamental	disastrous	bill	--	bill	makes	cuts	
+in	Medicare	Medicaid	programs	middle-income	Americans	finance	tax	breaks	for	
+the	wealthy	.	More	billion	Republican	tax	cuts	will	go	to	those	who	
+earn	over	$	100,000	per	year	,	seven-eighths	middle-income	pay	
+taxes	disastrous	plan	billion	cut	
+in	Medicare	,	which	bill	is	
+Medicare	trustees	provision	seniors	pay	limit	doctors	
+health	care	legislation	abolishes	minimum	standards	nursing	
+provision	calamitous	legislation	allows	corporations	billion	worker	pension	funds	
+corporations	Chairman	
+fatal	ill-conceived	legislation	
+bill	
+horrendous	fundamental	legislation	
+pension	fund	Chairman	
+short-term	irresponsibility	
+irresponsibility	Republican	majority	--	first	on	the	House	Ways	and	Means	
+and	now	the	--	marching	lock-step	to	approve	provision	
+qualifies	shortsightedness	
+Republican	's	self-imposed	deadline	to	balance	the	Federal	budget	by	the	year	2002	has	run	the	
+brick	of	no	new	taxes	continuing	Federal	programs	Republicans	are	
+desperately	searching	for	the	magic	bullet	that	will	balance	the	budget	without	cutting	Government	programs	.	In	
+think	they	have	found	such	a	magic	bullet	.	They	proposed	change	pension	reserves	
+raise	estimated	billion	tax	revenue	proposal	does	
+pension	programs	fund	programs	
+liabilities	Republican	proposal	would	allow	them	to	fund	their	programs	only	125	current	liabilities	
+
+reads % = 0.384

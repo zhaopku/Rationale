@@ -1,0 +1,20 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) the(0.0) bill(0.0) would(0.0) decrease(1.0) funding(1.0) for(0.0) disadvantaged(1.0) children(0.0) in(0.0) low(0.0) income(1.0) schools(1.0) by(0.0) $(0.0) 115.2(0.0) million(0.0) from(0.0) FY(1.0) 2005(0.0) 
+levels(0.0) .(0.0) The(0.0) bill(1.0) also(1.0) included(0.0) $(0.0) 258.5(0.0) million(0.0) less(0.0) for(0.0) the(0.0) Bureau(0.0) of(0.0) Health(1.0) Professions(0.0) in(0.0) the(0.0) Health(0.0) Resources(0.0) 
+and(0.0) Services(0.0) Administration(0.0) that(0.0) administers(1.0) important(0.0) health(1.0) professions(0.0) training(0.0) ,(0.0) scholarship(1.0) ,(0.0) and(0.0) loan(0.0) repayment(0.0) programs(0.0) ,(0.0) including(0.0) programs(0.0) encouraging(0.0) 
+diversity(1.0) in(0.0) the(0.0) health(1.0) workforce(1.0) .(0.0) The(0.0) legislation(1.0) included(0.0) $(0.0) 84.6(0.0) million(0.0) less(0.0) for(0.0) rural(1.0) health(1.0) programs(1.0) than(0.0) was(0.0) provided(0.0) 
+in(0.0) FY(1.0) 2005(0.0) .(0.0) Because(0.0) I(0.0) believe(0.0) this(0.0) bill(1.0) would(1.0) have(0.0) inadequately(0.0) funded(1.0) important(0.0) education(1.0) and(0.0) health(1.0) programs(1.0) ,(0.0) I(0.0) 
+would(0.0) have(0.0) voted(1.0) against(0.0) the(0.0) legislation(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+decrease	funding	disadvantaged	income	schools	FY	
+bill	also	Health	
+administers	health	scholarship	
+diversity	health	workforce	legislation	rural	health	programs	
+FY	bill	would	funded	education	health	programs	
+voted	legislation	
+
+reads % = 0.25925925925925924

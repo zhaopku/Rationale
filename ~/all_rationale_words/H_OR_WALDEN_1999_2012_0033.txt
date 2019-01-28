@@ -1,0 +1,16 @@
+This is from a Republican
+----- below is the original text -----
+May(0.0) I(0.0) inquire(1.0) as(0.0) to(0.0) the(0.0) time(0.0) remaining(1.0) on(0.0) each(0.0) side(0.0) ?(0.0) The(0.0) Acting(0.0) CHAIR(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) Oregon(1.0) has(0.0) 
+3\3/4\(1.0) minutes(1.0) remaining(1.0) ,(0.0) and(0.0) the(0.0) gentlewoman(0.0) from(0.0) California(0.0) has(0.0) 9\1/2\(1.0) minutes(1.0) remaining(1.0) .(0.0) I(0.0) yield(0.0) 2(0.0) minutes(1.0) to(0.0) the(0.0) 
+gentleman(0.0) from(0.0) Texas(0.0) ,(0.0) the(0.0) distinguished(0.0) former(0.0) chairman(1.0) of(0.0) the(0.0) committee(0.0) ,(0.0) my(0.0) friend(1.0) ,(0.0) Mr.(0.0) Barton(1.0) .(0.0) ((0.0) Mr.(0.0) 
+BARTON(1.0) asked(0.0) and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) )(0.0) 
+
+
+----- below are rationale words -----
+
+inquire	remaining	Oregon	
+3\3/4\	minutes	remaining	9\1/2\	minutes	remaining	minutes	
+chairman	friend	Barton	
+BARTON	
+
+reads % = 0.18666666666666668

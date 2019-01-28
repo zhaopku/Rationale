@@ -1,0 +1,34 @@
+This is from a Republican
+----- below is the original text -----
+The(0.0) Acting(0.0) CHAIR(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) New(0.0) Jersey(1.0) is(0.0) recognized(0.0) for(0.0) 5(0.0) minutes(0.0) .(0.0) Our(0.0) bill(1.0) funds(1.0) a(0.0) truly(0.0) all-of-the-above(1.0) 
+research(0.0) approach(0.0) for(0.0) addressing(1.0) future(0.0) high(0.0) gas(1.0) prices(1.0) by(0.0) reducing(1.0) oil(1.0) imports(1.0) ,(0.0) developing(1.0) fuel(1.0) alternatives(1.0) ,(0.0) and(0.0) reducing(1.0) what(0.0) 
+Americans(1.0) pay(1.0) at(0.0) the(0.0) pump(1.0) .(0.0) The(0.0) amendment(1.0) would(0.0) eliminate(1.0) ,(0.0) as(0.0) we(0.0) 've(0.0) heard(0.0) ,(0.0) $(0.0) 25(0.0) million(0.0) in(0.0) 
+our(0.0) bill(1.0) for(0.0) an(0.0) oil(1.0) shale(1.0) research(0.0) program(1.0) ,(0.0) an(0.0) important(0.0) component(0.0) of(0.0) our(0.0) comprehensive(1.0) approach(0.0) .(0.0) The(0.0) United(0.0) States(0.0) 
+has(0.0) an(0.0) estimate(0.0) of(0.0) 2(0.0) trillion(1.0) barrels(1.0) of(0.0) resources(1.0) in(0.0) oil(1.0) shale(1.0) deposits(1.0) .(0.0) For(0.0) some(0.0) perspective(0.0) ,(0.0) that(0.0) 's(0.0) 
+more(0.0) than(0.0) 10(0.0) times(0.0) larger(0.0) than(0.0) the(0.0) United(0.0) States(0.0) '(0.0) estimated(0.0) proven(0.0) and(0.0) unproven(1.0) oil(0.0) reserves(1.0) ,(0.0) and(0.0) roughly(0.0) as(0.0) 
+large(0.0) as(0.0) the(0.0) entire(0.0) world(0.0) 's(0.0) proven(0.0) oil(1.0) reserves(1.0) .(0.0) But(0.0) shale(1.0) oil(1.0) resources(1.0) have(0.0) been(0.0) barely(0.0) tapped(0.0) worldwide(0.0) because(0.0) 
+substantial(1.0) environmental(1.0) and(0.0) technological(1.0) hurdles(1.0) prevent(0.0) their(0.0) extraction(1.0) ,(0.0) and(0.0) the(0.0) fluctuating(0.0) world(0.0) oil(1.0) prices(1.0) prevent(1.0) the(0.0) sustained(1.0) research(0.0) needed(0.0) 
+to(0.0) bring(0.0) this(0.0) resource(1.0) to(0.0) market(0.0) .(0.0) Our(0.0) bill(1.0) provides(0.0) $(0.0) 25(0.0) million(0.0) for(0.0) an(0.0) oil(1.0) shale(1.0) research(1.0) program(1.0) to(0.0) 
+develop(0.0) the(0.0) technologies(1.0) that(0.0) can(0.0) make(0.0) our(0.0) vast(1.0) reserves(1.0) competitive(0.0) and(0.0) environmentally(1.0) sustainable(1.0) for(0.0) decades(1.0) or(0.0) centuries(0.0) .(0.0) If(0.0) successful(0.0) 
+,(0.0) the(0.0) program(1.0) could(0.0) change(0.0) the(0.0) game(0.0) completely(0.0) .(0.0) It(0.0) could(0.0) prevent(0.0) future(0.0) high(0.0) gas(1.0) prices(1.0) and(0.0) substantially(0.0) reduce(1.0) our(0.0) 
+reliance(1.0) on(0.0) foreign(1.0) oil(1.0) .(0.0) For(0.0) these(0.0) and(0.0) many(0.0) other(0.0) reasons(0.0) ,(0.0) I(0.0) oppose(1.0) the(0.0) gentleman(0.0) 's(0.0) amendment(1.0) .(0.0) I(0.0) 
+yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Jersey	bill	funds	all-of-the-above	
+addressing	gas	prices	reducing	oil	imports	developing	fuel	alternatives	reducing	
+Americans	pay	pump	amendment	eliminate	
+bill	oil	shale	program	comprehensive	
+trillion	barrels	resources	oil	shale	deposits	
+unproven	reserves	
+oil	reserves	shale	oil	resources	
+substantial	environmental	technological	hurdles	extraction	oil	prices	prevent	sustained	
+resource	bill	oil	shale	research	program	
+technologies	vast	reserves	environmentally	sustainable	decades	
+program	gas	prices	reduce	
+reliance	foreign	oil	oppose	amendment	
+
+
+reads % = 0.26907630522088355

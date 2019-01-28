@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) ask(0.0) unanimous(1.0) consent(0.0) that(0.0) all(0.0) Members(0.0) may(0.0) have(0.0) 5(0.0) legislative(0.0) days(0.0) in(0.0) which(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) their(0.0) 
+remarks(0.0) on(0.0) the(0.0) bill(0.0) ((1.0) H.R(1.0) .(0.0) 4649(0.0) )(0.0) making(0.0) appropriations(0.0) for(0.0) the(0.0) government(0.0) of(0.0) the(0.0) District(0.0) of(0.0) Columbia(0.0) and(0.0) 
+other(0.0) activities(0.0) chargeable(0.0) in(0.0) whole(0.0) or(0.0) in(0.0) part(0.0) against(0.0) the(0.0) revenues(0.0) of(0.0) said(0.0) District(0.0) for(0.0) the(0.0) fiscal(0.0) year(0.0) ending(0.0) September(0.0) 
+30(0.0) ,(0.0) 1995(0.0) ,(0.0) and(0.0) for(0.0) other(0.0) purposes(0.0) ,(0.0) and(0.0) that(0.0) I(0.0) be(0.0) permitted(0.0) to(0.0) include(0.0) tables(0.0) ,(0.0) charts(0.0) ,(0.0) 
+and(0.0) other(0.0) extraneous(0.0) material(0.0) .(0.0) The(0.0) SPEAKER(0.0) pro(0.0) tempore(0.0) ((1.0) Mr.(0.0) Montgomery(1.0) )(0.0) .(0.0) Is(0.0) there(0.0) objection(0.0) to(0.0) the(0.0) request(0.0) 
+of(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) ?(0.0) There(0.0) was(0.0) no(0.0) objection(0.0) .(0.0) Speaker(0.0) ,(0.0) I(0.0) move(0.0) that(0.0) the(0.0) House(0.0) resolve(1.0) itself(0.0) 
+into(0.0) the(0.0) Committee(0.0) of(0.0) the(0.0) Whole(0.0) House(0.0) on(0.0) the(0.0) State(0.0) of(0.0) the(0.0) Union(0.0) for(0.0) the(0.0) consideration(0.0) of(0.0) the(0.0) bill(0.0) ((1.0) 
+H.R(0.0) .(0.0) 4649(0.0) )(0.0) making(0.0) appropriations(0.0) for(0.0) the(0.0) government(0.0) of(0.0) the(0.0) District(0.0) of(0.0) Columbia(0.0) and(0.0) other(0.0) activities(0.0) chargeable(0.0) in(0.0) whole(0.0) 
+or(0.0) in(0.0) part(0.0) against(0.0) the(0.0) revenues(0.0) of(0.0) said(0.0) District(0.0) for(0.0) the(0.0) fiscal(0.0) year(0.0) ending(0.0) September(0.0) 30(0.0) ,(0.0) 1995(0.0) ,(0.0) and(0.0) 
+for(0.0) other(0.0) purposes(0.0) ;(0.0) and(0.0) pending(0.0) that(0.0) motion(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) ask(0.0) unanimous(1.0) consent(0.0) that(0.0) general(0.0) debate(1.0) be(0.0) 
+limited(0.0) to(0.0) not(0.0) to(0.0) exceed(0.0) 1(0.0) hour(0.0) ,(0.0) the(0.0) time(0.0) to(0.0) be(0.0) equally(0.0) divided(0.0) and(0.0) controlled(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) 
+New(0.0) York(1.0) [(0.0) Mr.(0.0) Walsh(1.0) ](0.0) and(0.0) myself(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+unanimous	
+(	H.R	
+
+
+(	Montgomery	
+resolve	
+(	
+
+
+Speaker	unanimous	debate	
+
+York	Walsh	
+
+reads % = 0.05217391304347826

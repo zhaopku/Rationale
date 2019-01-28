@@ -1,0 +1,40 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(1.0) on(0.0) this(0.0) first(0.0) day(0.0) of(0.0) our(0.0) 2014(1.0) session(0.0) to(0.0) pay(0.0) tribute(1.0) to(0.0) a(0.0) husband(0.0) ,(0.0) a(0.0) father(0.0) 
+,(0.0) a(0.0) son(0.0) ,(0.0) and(0.0) a(0.0) San(1.0) Antonian(1.0) .(0.0) Bobby(1.0) Deckard(1.0) was(0.0) a(0.0) San(1.0) Antonio(1.0) police(1.0) officer(0.0) who(0.0) died(0.0) on(0.0) 
+Friday(0.0) ,(0.0) December(1.0) 20(0.0) .(0.0) He(0.0) had(0.0) come(0.0) in(0.0) on(0.0) his(0.0) day(0.0) off(0.0) to(0.0) substitute(1.0) for(0.0) a(0.0) colleague(0.0) .(0.0) He(0.0) 
+was(0.0) shot(0.0) in(0.0) the(0.0) line(0.0) of(0.0) duty(1.0) .(0.0) He(0.0) was(0.0) only(0.0) 31(1.0) years(0.0) of(0.0) age(1.0) .(0.0) This(1.0) past(0.0) Saturday(0.0) ,(0.0) 
+San(1.0) Antonio(1.0) and(0.0) its(0.0) citizens(1.0) came(1.0) together(0.0) to(0.0) honor(1.0) Bobby(1.0) 's(1.0) life(0.0) and(0.0) bid(0.0) him(0.0) a(0.0) final(0.0) farewell(1.0) .(0.0) Thousands(0.0) 
+of(0.0) people(0.0) lined(0.0) the(0.0) streets(1.0) ,(0.0) and(0.0) thousands(0.0) of(0.0) police(1.0) officers(1.0) from(0.0) throughout(0.0) the(0.0) country(1.0) were(0.0) present(1.0) as(0.0) police(1.0) helicopters(1.0) 
+flew(0.0) in(0.0) formation(1.0) above(0.0) the(0.0) burial(1.0) service(0.0) ,(0.0) in(0.0) remembrance(0.0) of(0.0) someone(0.0) who(0.0) spent(0.0) 7(0.0) years(0.0) of(0.0) his(0.0) life(0.0) helping(1.0) 
+the(0.0) citizens(1.0) of(0.0) San(1.0) Antonio(1.0) .(0.0) During(1.0) the(0.0) ceremony(0.0) ,(0.0) San(1.0) Antonio(1.0) Police(1.0) Chief(1.0) William(0.0) MCManus(1.0) instructed(1.0) police(1.0) dispatchers(1.0) to(0.0) 
+retire(1.0) Bobby(1.0) 's(0.0) badge(0.0) number(0.0) ,(0.0) 0582(1.0) ,(0.0) and(0.0) every(0.0) officer(0.0) throughout(0.0) the(0.0) city(1.0) heard(1.0) the(0.0) retirement(1.0) of(0.0) that(0.0) badge(0.0) 
+number(0.0) .(0.0) In(0.0) a(0.0) November(0.0) email(0.0) ,(0.0) ironically(1.0) ,(0.0) Bobby(1.0) Deckard(1.0) had(1.0) aspired(1.0) to(0.0) join(1.0) the(0.0) honor(1.0) guard(1.0) ,(0.0) the(0.0) 
+honor(1.0) guard(1.0) that(0.0) ,(0.0) in(0.0) fact(1.0) ,(0.0) escorted(1.0) his(0.0) flag-(1.0) draped(1.0) coffin(1.0) .(0.0) In(0.0) an(0.0) email(0.0) to(0.0) his(0.0) supervisor(1.0) ,(0.0) 
+he(0.0) wrote(1.0) that(0.0) was(0.0) the(0.0) highest(1.0) position(0.0) of(0.0) honor(1.0) inside(0.0) the(0.0) department(1.0) .(0.0) That(0.0) tells(1.0) us(0.0) so(1.0) much(0.0) about(0.0) him(0.0) 
+,(0.0) so(1.0) much(0.0) about(0.0) him(0.0) even(0.0) as(0.0) we(0.0) mourn(0.0) his(0.0) loss(0.0) .(0.0) He(0.0) had(0.0) a(0.0) positive(0.0) outlook(1.0) and(0.0) a(0.0) great(0.0) 
+personality(1.0) .(0.0) His(0.0) humor(1.0) could(0.0) win(0.0) anybody(0.0) over(0.0) .(0.0) Mr.(0.0) Speaker(1.0) and(0.0) Members(0.0) ,(0.0) I(0.0) ask(1.0) that(0.0) we(0.0) all(0.0) take(0.0) 
+a(0.0) moment(0.0) to(0.0) remember(0.0) Bobby(1.0) Deckard(1.0) ,(0.0) police(1.0) officer(0.0) from(0.0) San(1.0) Antonio(1.0) ,(0.0) Texas(0.0) ,(0.0) whose(0.0) name(1.0) will(0.0) now(0.0) be(0.0) 
+added(0.0) to(0.0) the(0.0) National(0.0) Law(1.0) Enforcement(0.0) Memorial(0.0) ,(0.0) the(0.0) only(0.0) memorial(1.0) in(0.0) Washington(1.0) that(0.0) has(0.0) never(0.0) been(0.0) completed(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+rise	2014	tribute	
+San	Antonian	Bobby	Deckard	San	Antonio	police	
+December	substitute	
+duty	31	age	This	
+San	Antonio	citizens	came	honor	Bobby	's	farewell	
+streets	police	officers	country	present	police	helicopters	
+formation	burial	helping	
+citizens	San	Antonio	During	San	Antonio	Police	Chief	MCManus	instructed	police	dispatchers	
+retire	Bobby	0582	city	heard	retirement	
+ironically	Bobby	Deckard	had	aspired	join	honor	guard	
+honor	guard	fact	escorted	flag-	draped	coffin	supervisor	
+wrote	highest	honor	department	tells	so	
+so	outlook	
+personality	humor	Speaker	ask	
+Bobby	Deckard	police	San	Antonio	name	
+Law	memorial	Washington	
+
+reads % = 0.278125

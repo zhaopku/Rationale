@@ -1,0 +1,42 @@
+This is from a Republican
+----- below is the original text -----
+A(0.0) pilot(0.0) is(0.0) not(0.0) going(0.0) to(0.0) take(0.0) ,(0.0) generally(0.0) ,(0.0) I(0.0) would(0.0) say(0.0) 99\9/10\(0.0) of(0.0) the(0.0) time(0.0) ,(0.0) a(0.0) pilot(0.0) ,(0.0) 
+Air(0.0) Force(0.0) ,(0.0) Navy(1.0) ,(0.0) Marine(0.0) Corps(0.0) ,(0.0) Army(0.0) ,(0.0) is(0.0) not(0.0) going(0.0) to(0.0) take(0.0) an(0.0) airplane(0.0) they(0.0) feel(0.0) is(0.0) 
+unsafe(0.0) .(0.0) The(0.0) airplane(1.0) is(0.0) going(0.0) to(0.0) have(0.0) to(0.0) be(0.0) up(0.0) .(0.0) It(0.0) may(0.0) not(0.0) have(0.0) some(0.0) of(0.0) the(0.0) systems(0.0) 
+working(0.0) .(0.0) You(0.0) may(0.0) fly(0.0) that(0.0) airplane(0.0) without(0.0) enough(0.0) radar(0.0) ,(0.0) which(0.0) determines(0.0) the(0.0) amount(0.0) and(0.0) type(0.0) of(0.0) training(0.0) that(0.0) 
+you(0.0) can(0.0) receive(0.0) .(0.0) But(0.0) if(0.0) there(0.0) is(0.0) a(0.0) doubt(0.0) in(0.0) their(0.0) mind(0.0) that(0.0) that(0.0) airplane(0.0) is(0.0) not(0.0) up(0.0) to(0.0) 
+speed(0.0) mechanically(0.0) ,(0.0) they(0.0) are(0.0) not(0.0) going(0.0) to(0.0) take(0.0) it(0.0) .(0.0) I(0.0) have(0.0) seen(0.0) that(0.0) as(0.0) an(0.0) exception(0.0) ,(0.0) but(0.0) 
+we(0.0) try(0.0) and(0.0) do(0.0) away(0.0) with(0.0) that(0.0) .(0.0) The(0.0) second(0.0) phase(0.0) is(0.0) that(0.0) the(0.0) more(0.0) you(0.0) fly(0.0) an(0.0) airplane(0.0) ,(0.0) 
+the(0.0) safer(1.0) that(0.0) airplane(0.0) actually(0.0) is(0.0) because(0.0) you(0.0) are(0.0) exercising(0.0) it(0.0) .(0.0) With(0.0) the(0.0) training(0.0) cutback(1.0) and(0.0) the(0.0) funding(1.0) cutback(1.0) 
+,(0.0) that(0.0) becomes(0.0) deficit(1.0) also(0.0) ,(0.0) so(0.0) your(0.0) pilots(1.0) are(0.0) not(0.0) getting(0.0) trained(0.0) as(0.0) much(0.0) .(0.0) But(0.0) the(0.0) morale(1.0) ,(0.0) 
+knowing(0.0) that(0.0) you(0.0) do(0.0) not(0.0) have(0.0) the(0.0) up(0.0) airplanes(0.0) ,(0.0) like(0.0) a(0.0) Navy(1.0) squadron(0.0) on(0.0) a(0.0) carrier(0.0) is(0.0) likely(0.0) to(0.0) 
+have(0.0) 12(0.0) to(0.0) 13(0.0) airplanes(0.0) ,(0.0) with(0.0) F-18(1.0) 's(0.0) ,(0.0) F-14(0.0) 's(0.0) ,(0.0) A-6(0.0) 's(0.0) ,(0.0) A-7(0.0) 's(0.0) ,(0.0) but(0.0) 
+generally(0.0) 10(0.0) to(0.0) 12(0.0) airplanes(0.0) .(0.0) If(0.0) you(0.0) have(0.0) eight(0.0) of(0.0) those(0.0) airplanes(0.0) that(0.0) are(0.0) down(0.0) because(0.0) you(0.0) can(0.0) not(0.0) 
+fix(0.0) them(0.0) ,(0.0) the(0.0) pilots(0.0) will(0.0) take(0.0) the(0.0) two(0.0) ,(0.0) but(0.0) what(0.0) does(0.0) that(0.0) mean(0.0) for(0.0) the(0.0) other(0.0) 20(0.0) pilots(0.0) 
+in(0.0) that(0.0) squadron(0.0) that(0.0) can(0.0) not(0.0) fly(0.0) because(0.0) those(0.0) airplanes(0.0) are(0.0) down(0.0) ?(0.0) That(0.0) morale(1.0) ,(0.0) I(0.0) sat(0.0) on(0.0) the(0.0) 
+Indian(0.0) Ocean(0.0) because(0.0) we(0.0) did(0.0) not(0.0) have(0.0) Optar(0.0) money(1.0) to(0.0) fly(0.0) ,(0.0) and(0.0) plus(0.0) our(0.0) machines(0.0) were(0.0) down(0.0) .(0.0) We(0.0) 
+were(0.0) operating(0.0) with(0.0) 20-year-old(0.0) Phantoms(0.0) .(0.0) That(0.0) is(0.0) like(0.0) flying(0.0) a(0.0) World(0.0) War(0.0) I(0.0) airplane(0.0) in(0.0) World(0.0) War(0.0) II(0.0) .(0.0) 
+And(0.0) the(0.0) morale(1.0) was(0.0) terrible(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Navy	
+airplane	
+
+
+
+
+safer	cutback	funding	cutback	
+deficit	pilots	morale	
+Navy	
+F-18	
+
+
+morale	
+money	
+
+morale	
+
+reads % = 0.04281345565749235

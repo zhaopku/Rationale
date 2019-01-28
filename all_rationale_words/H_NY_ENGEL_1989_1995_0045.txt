@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) strike(1.0) the(0.0) requisite(0.0) number(0.0) of(0.0) words(0.0) .(0.0) ((0.0) Mr.(0.0) ENGEL(1.0) asked(0.0) and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) 
+revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) )(0.0) Chairman(0.0) ,(0.0) we(0.0) are(0.0) actually(0.0) debating(0.0) three(0.0) amendments(1.0) ,(0.0) and(0.0) I(0.0) would(0.0) like(0.0) 
+to(0.0) speak(0.0) on(0.0) all(0.0) three(0.0) .(0.0) First(0.0) of(0.0) all(0.0) ,(0.0) with(0.0) regard(0.0) to(0.0) the(0.0) Burton(0.0) amendment(1.0) to(0.0) cut(0.0) AID(1.0) ,(0.0) 
+I(0.0) strongly(0.0) ,(0.0) strongly(0.0) oppose(1.0) it(0.0) .(0.0) Cutting(0.0) AID(1.0) any(0.0) further(0.0) ,(0.0) and(0.0) we(0.0) are(0.0) cutting(1.0) it(0.0) enough(0.0) in(0.0) this(0.0) 
+bill(1.0) ,(0.0) would(0.0) in(0.0) my(0.0) opinion(0.0) render(0.0) AID(1.0) much(0.0) less(0.0) effective(0.0) .(0.0) It(0.0) would(0.0) be(0.0) simply(0.0) a(0.0) matter(0.0) of(0.0) being(0.0) 
+penny(1.0) wise(0.0) and(0.0) pound(0.0) foolish(1.0) .(0.0) If(0.0) we(0.0) are(0.0) going(0.0) to(0.0) lead(0.0) in(0.0) the(0.0) world(0.0) ,(0.0) then(0.0) we(0.0) have(0.0) to(0.0) 
+have(0.0) a(0.0) strong(0.0) AID(0.0) program(1.0) .(0.0) So(0.0) I(0.0) oppose(1.0) the(0.0) gentleman(0.0) from(0.0) Indiana(0.0) [(0.0) Mr.(0.0) Burton(1.0) ](0.0) .(0.0) The(0.0) chairman(0.0) 
+'s(0.0) amendment(0.0) ,(0.0) the(0.0) manager(0.0) 's(0.0) amendment(0.0) ,(0.0) I(0.0) oppose(0.0) that(0.0) as(0.0) well(0.0) ,(0.0) primarily(0.0) because(0.0) in(0.0) the(0.0) amendment(1.0) we(0.0) 
+are(0.0) withdrawing(1.0) from(0.0) the(0.0) Inter-Parliamentary(1.0) Union(0.0) .(0.0) Let(0.0) me(0.0) tell(0.0) Members(0.0) what(0.0) that(0.0) means(0.0) .(0.0) I(0.0) want(0.0) to(0.0) read(0.0) the(0.0) 
+amendment(1.0) of(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) York(1.0) [(0.0) Mr.(0.0) Gilman(1.0) ](0.0) with(1.0) regard(1.0) to(0.0) the(0.0) Inter-Parliamentary(0.0) Union(0.0) .(0.0) It(0.0) says(0.0) 
+the(0.0) act(0.0) entitled(0.0) An(0.0) Act(0.0) to(0.0) Authorize(0.0) Participation(0.0) by(0.0) the(0.0) United(0.0) States(0.0) in(0.0) the(0.0) Inter-Parliamentary(0.0) Union(0.0) approved(0.0) June(0.0) 28(0.0) ,(0.0) 
+1935(0.0) is(0.0) repealed(0.0) .(0.0) Now(0.0) ,(0.0) we(0.0) have(0.0) participated(0.0) in(0.0) the(0.0) Inter-Parliamentary(0.0) Union(0.0) for(0.0) 60(0.0) years(0.0) .(0.0) The(0.0) Inter-Parliamentary(1.0) Union(0.0) 
+is(0.0) a(0.0) group(0.0) of(0.0) parliaments(0.0) from(0.0) all(0.0) over(0.0) the(0.0) world(0.0) ,(0.0) 135(0.0) countries(0.0) ,(0.0) which(0.0) get(0.0) together(0.0) to(0.0) discuss(0.0) parliamentary(1.0) 
+democracy(1.0) and(0.0) other(0.0) concerns(0.0) around(0.0) the(0.0) world(0.0) .(0.0) Is(0.0) this(0.0) the(0.0) time(0.0) that(0.0) we(0.0) ought(1.0) to(0.0) be(0.0) withdrawing(0.0) from(0.0) such(0.0) 
+an(0.0) organization(1.0) ?(0.0) To(0.0) me(0.0) ,(0.0) as(0.0) so(0.0) much(0.0) else(0.0) in(0.0) this(0.0) bill(1.0) ,(0.0) this(0.0) amendment(1.0) is(0.0) yet(0.0) another(0.0) indication(0.0) 
+of(0.0) the(0.0) dangerous(1.0) and(0.0) growing(0.0) isolationist(1.0) wave(0.0) engulfing(1.0) the(0.0) Republican(1.0) Party(1.0) .(1.0) The(1.0) United(1.0) States(1.0) is(1.0) the(1.0) leader(1.0) of(1.0) the(1.0) 
+Free(1.0) World(0.0) and(0.0) we(0.0) ought(1.0) to(0.0) lead(0.0) .(0.0) The(0.0) IPU(0.0) is(0.0) the(0.0) only(0.0) global(1.0) international(0.0) parliamentary(0.0) organization(0.0) to(0.0) which(0.0) the(0.0) 
+U.S.(0.0) Congress(0.0) belongs(0.0) .(0.0) We(0.0) have(0.0) forums(0.0) who(0.0) meet(0.0) on(0.0) NATO(1.0) and(0.0) CSCE(0.0) ,(0.0) colleagues(0.0) ,(0.0) but(0.0) the(0.0) IPU(0.0) is(0.0) 
+the(0.0) only(0.0) parliamentary(0.0) organization(0.0) in(0.0) which(0.0) we(0.0) have(0.0) a(0.0) chance(0.0) to(0.0) meet(0.0) with(0.0) members(0.0) of(0.0) the(0.0) Middle(0.0) East(0.0) ,(0.0) including(0.0) 
+Israel(0.0) ,(0.0) Asia(0.0) ,(0.0) Africa(0.0) ,(0.0) and(0.0) Latin(1.0) America(0.0) .(0.0) And(0.0) like(0.0) most(0.0) international(0.0) parliamentary(0.0) organizations(0.0) ,(0.0) the(0.0) great(0.0) utility(0.0) 
+of(0.0) the(0.0) IPU(0.0) lies(0.0) not(0.0) in(0.0) its(0.0) resolutions(1.0) or(0.0) debates(1.0) but(0.0) in(0.0) the(0.0) forum(0.0) it(0.0) provides(0.0) for(0.0) Members(0.0) of(0.0) Congress(0.0) 
+to(0.0) interact(0.0) and(0.0) make(0.0) direct(0.0) world(0.0) .(0.0) From(0.0) personal(0.0) experience(0.0) ,(0.0) I(0.0) have(0.0) been(0.0) to(0.0) IPU(0.0) meetings(0.0) ,(0.0) and(0.0) what(0.0) 
+we(0.0) get(0.0) in(0.0) interchange(1.0) of(0.0) ideas(0.0) and(0.0) talking(0.0) is(0.0) certainly(0.0) an(0.0) enhancement(0.0) of(0.0) democracy(1.0) .(0.0) This(0.0) summer(0.0) the(0.0) United(0.0) Nations(1.0) 
+is(0.0) celebrating(0.0) its(0.0) 50th(0.0) anniversary(0.0) ,(0.0) and(0.0) in(0.0) New(1.0) York(1.0) City(1.0) there(0.0) will(0.0) be(0.0) commemorations(1.0) and(0.0) celebrations(0.0) ,(0.0) and(0.0) the(0.0) 
+IPU(0.0) is(0.0) taking(0.0) the(0.0) lead(0.0) .(0.0) Is(0.0) this(0.0) the(0.0) year(0.0) the(0.0) United(0.0) States(0.0) ought(1.0) to(0.0) withdraw(0.0) from(0.0) the(0.0) Inter-Parliamentary(1.0) 
+
+
+----- below are rationale words -----
+
+strike	ENGEL	
+amendments	
+amendment	AID	
+oppose	AID	cutting	
+bill	AID	
+penny	foolish	
+program	oppose	Burton	
+amendment	
+withdrawing	Inter-Parliamentary	
+amendment	York	Gilman	with	regard	
+
+Inter-Parliamentary	
+parliamentary	
+democracy	ought	
+organization	bill	amendment	
+dangerous	isolationist	engulfing	Republican	Party	.	The	United	States	is	the	leader	of	the	
+Free	ought	global	
+NATO	
+
+Latin	
+resolutions	debates	
+
+interchange	democracy	Nations	
+New	York	City	commemorations	
+ought	Inter-Parliamentary	
+
+reads % = 0.12

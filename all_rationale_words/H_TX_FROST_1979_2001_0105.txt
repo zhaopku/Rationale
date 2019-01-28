@@ -1,0 +1,36 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) 1(0.0) minute(1.0) to(0.0) the(0.0) gentlewoman(0.0) from(0.0) Connecticut(0.0) ((0.0) Ms.(1.0) DeLauro(1.0) )(0.0) .(0.0) Ms.(1.0) DeLAURO(1.0) .(0.0) Mr.(1.0) Speaker(1.0) 
+,(0.0) today(1.0) we(0.0) have(0.0) a(0.0) historic(1.0) opportunity(0.0) to(0.0) enact(1.0) meaningful(1.0) campaign(0.0) finance(1.0) reform(0.0) .(0.0) The(0.0) Senate(1.0) completed(0.0) its(0.0) work(0.0) and(0.0) 
+passed(0.0) a(0.0) bill(0.0) .(0.0) The(0.0) bipartisan(0.0) Shays-Meehan(1.0) measure(1.0) has(0.0) been(0.0) twice(0.0) passed(0.0) by(0.0) this(0.0) House(0.0) in(0.0) previous(0.0) Congresses(0.0) .(0.0) We(0.0) 
+are(0.0) on(0.0) the(0.0) threshold(0.0) of(0.0) bringing(1.0) real(0.0) reform(0.0) to(0.0) a(0.0) system(0.0) that(0.0) is(0.0) out(1.0) of(0.0) control(1.0) and(0.0) overrun(1.0) by(0.0) big-monied(1.0) 
+interest(1.0) .(0.0) Yet(1.0) here(0.0) we(0.0) are(0.0) debating(0.0) the(0.0) merits(0.0) of(0.0) a(0.0) procedural(0.0) rule(1.0) that(0.0) can(1.0) only(0.0) be(0.0) characterized(1.0) as(0.0) guaranteed(0.0) 
+to(0.0) fail(0.0) .(0.0) It(0.0) does(0.0) not(0.0) allow(0.0) the(0.0) Shays-Meehan(1.0) bill(0.0) to(0.0) be(0.0) considered(0.0) as(0.0) a(0.0) coherent(1.0) whole(0.0) .(0.0) It(0.0) is(0.0) 
+disingenuous(1.0) and(0.0) unfair(1.0) .(0.0) This(0.0) rule(0.0) allows(0.0) for(0.0) 22(1.0) amendments(1.0) designed(0.0) to(0.0) eviscerate(1.0) the(0.0) Shays-(1.0) Meehan(1.0) legislation(0.0) ;(0.0) designed(0.0) to(0.0) 
+kill(1.0) the(0.0) bill(0.0) .(0.0) Until(1.0) we(0.0) can(0.0) get(0.0) a(0.0) clean(1.0) up(0.0) or(1.0) down(1.0) vote(1.0) ,(0.0) we(0.0) might(0.0) as(0.0) well(0.0) tack(1.0) 
+up(0.0) a(0.0) ``(0.0) for(0.0) sale(1.0) ''(0.0) sign(1.0) on(0.0) all(0.0) of(0.0) our(0.0) office(0.0) doors(0.0) .(0.0) We(0.0) need(0.0) to(0.0) question(0.0) the(0.0) overall(0.0) 
+strategy(1.0) behind(0.0) this(0.0) rule(0.0) .(0.0) If(1.0) Shays-(1.0) Meehan(1.0) does(0.0) not(1.0) get(0.0) defeated(0.0) on(0.0) the(0.0) floor(0.0) ,(0.0) then(0.0) the(0.0) opponents(1.0) have(0.0) 
+paved(0.0) the(0.0) way(1.0) for(0.0) it(0.0) to(0.0) die(0.0) in(0.0) conference(0.0) with(0.0) the(0.0) Senate(1.0) .(0.0) I(0.0) urge(1.0) my(0.0) colleagues(1.0) to(0.0) support(0.0) genuine(0.0) 
+reform(1.0) ;(0.0) that(0.0) they(0.0) not(0.0) be(0.0) afraid(1.0) of(0.0) real(1.0) action(1.0) .(0.0) Restore(1.0) integrity(0.0) to(0.0) our(0.0) political(1.0) process(1.0) ,(0.0) restore(1.0) America(0.0) 
+'s(0.0) faith(0.0) in(0.0) its(0.0) political(1.0) process(1.0) .(0.0) Defeat(0.0) this(0.0) rule(0.0) .(0.0) Support(1.0) a(0.0) clean(1.0) vote(1.0) on(0.0) campaign(1.0) finance(1.0) reform(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+minute	Ms.	DeLauro	Ms.	DeLAURO	Mr.	Speaker	
+today	historic	enact	meaningful	finance	Senate	
+Shays-Meehan	measure	
+bringing	out	control	overrun	big-monied	
+interest	Yet	rule	can	characterized	
+Shays-Meehan	coherent	
+disingenuous	unfair	22	amendments	eviscerate	Shays-	Meehan	
+kill	Until	clean	or	down	vote	tack	
+sale	sign	
+strategy	If	Shays-	Meehan	not	opponents	
+way	Senate	urge	colleagues	
+reform	afraid	real	action	Restore	political	process	restore	
+political	process	Support	clean	vote	campaign	finance	
+
+
+reads % = 0.26053639846743293

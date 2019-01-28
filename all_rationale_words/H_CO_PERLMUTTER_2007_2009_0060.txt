@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) House(0.0) Resolution(1.0) 306(0.0) provides(0.0) for(0.0) consideration(0.0) of(0.0) H.R(0.0) .(0.0) 1664(0.0) to(0.0) amend(0.0) the(0.0) executive(0.0) compensation(0.0) provisions(0.0) of(0.0) the(0.0) 
+Emergency(0.0) Economic(0.0) Stabilization(0.0) Act(0.0) of(0.0) 2008(0.0) to(0.0) prohibit(0.0) unreasonable(0.0) and(0.0) excessive(0.0) compensation(0.0) and(0.0) compensation(0.0) not(0.0) based(0.0) on(0.0) performance(0.0) standards(0.0) .(0.0) 
+This(0.0) is(0.0) under(0.0) a(0.0) structured(0.0) rule(0.0) .(0.0) The(0.0) rule(0.0) provides(0.0) for(0.0) 1(0.0) hour(0.0) of(0.0) general(0.0) debate(0.0) controlled(0.0) by(0.0) the(0.0) Committee(0.0) 
+on(0.0) Financial(0.0) Services(0.0) .(0.0) The(0.0) rule(0.0) makes(0.0) in(0.0) order(0.0) seven(0.0) amendments(0.0) which(0.0) are(0.0) listed(0.0) in(0.0) the(0.0) Rules(0.0) Committee(0.0) report(0.0) accompanying(0.0) 
+the(0.0) resolution(0.0) .(0.0) Each(0.0) amendment(1.0) is(0.0) debatable(0.0) for(0.0) 10(0.0) minutes(0.0) except(0.0) the(0.0) manager(0.0) 's(0.0) amendment(1.0) ,(0.0) which(0.0) is(0.0) debatable(0.0) for(0.0) 
+20(0.0) minutes(0.0) .(0.0) The(0.0) rule(0.0) also(0.0) provides(0.0) for(0.0) one(0.0) motion(0.0) to(0.0) recommit(1.0) with(0.0) or(0.0) without(0.0) instructions(0.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) 
+the(0.0) American(0.0) people(0.0) rightfully(0.0) demand(0.0) that(0.0) the(0.0) taxpayer(1.0) dollars(1.0) they(0.0) put(0.0) in(0.0) to(0.0) help(0.0) stabilize(1.0) the(0.0) banking(1.0) system(0.0) be(0.0) spent(0.0) 
+wisely(0.0) by(0.0) the(0.0) banks(1.0) and(0.0) by(0.0) the(0.0) institutions(1.0) that(0.0) borrow(1.0) under(0.0) what(0.0) is(0.0) called(0.0) the(0.0) Troubled(1.0) Asset(0.0) Relief(0.0) Program(0.0) ,(0.0) 
+or(0.0) TARP(1.0) .(0.0) Recently(0.0) ,(0.0) when(0.0) information(0.0) came(0.0) to(0.0) light(0.0) showing(0.0) AIG(1.0) gave(0.0) ,(0.0) roughly(0.0) ,(0.0) $(0.0) 165(0.0) million(0.0) in(0.0) 
+retention(1.0) bonuses(1.0) to(0.0) senior(0.0) executives(1.0) ,(0.0) hardworking(1.0) Americans(1.0) all(0.0) across(0.0) the(0.0) country(1.0) quickly(0.0) asked(0.0) ,(0.0) How(0.0) as(0.0) a(0.0) Nation(0.0) can(0.0) 
+we(0.0) recover(0.0) this(0.0) money(1.0) ?(0.0) Now(0.0) the(0.0) House(0.0) considers(1.0) a(0.0) similar(0.0) question(0.0) :(0.0) How(0.0) do(0.0) we(0.0) reasonably(0.0) prevent(0.0) this(0.0) from(0.0) 
+happening(0.0) again(0.0) ?(0.0) The(0.0) grounds(0.0) for(0.0) this(0.0) action(1.0) are(0.0) simple(0.0) .(0.0) As(0.0) the(0.0) lender(0.0) to(0.0) AIG(1.0) and(0.0) to(0.0) a(0.0) number(0.0) 
+of(0.0) other(0.0) institutions(1.0) ,(0.0) the(0.0) United(0.0) States(0.0) has(0.0) the(0.0) authority(0.0) to(0.0) define(0.0) the(0.0) terms(0.0) by(0.0) which(0.0) we(0.0) are(0.0) lending(1.0) money(0.0) 
+.(0.0) This(0.0) is(0.0) a(0.0) standard(0.0) in(0.0) business(0.0) practice(0.0) ,(0.0) as(0.0) lenders(0.0) from(0.0) time(0.0) to(0.0) time(0.0) put(0.0) limits(1.0) on(0.0) executive(0.0) compensation(1.0) 
+,(0.0) as(0.0) do(0.0) their(0.0) shareholders(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) Georgia(1.0) ((0.0) Mr.(0.0) Marshall(1.0) )(0.0) recently(1.0) related(0.0) to(0.0) me(0.0) that(0.0) you(0.0) 
+have(0.0) to(0.0) be(0.0) just(0.0) before(0.0) you(0.0) are(0.0) generous(0.0) ,(0.0) that(0.0) you(0.0) have(0.0) to(0.0) take(0.0) care(1.0) of(0.0) your(0.0) creditors(1.0) before(0.0) you(0.0) 
+can(0.0) pass(0.0) out(0.0) gifts(0.0) .(0.0) In(0.0) this(0.0) case(0.0) ,(0.0) generosity(0.0) ,(0.0) or(0.0) generous(0.0) ,(0.0) is(0.0) taken(0.0) to(0.0) a(0.0) whole(0.0) new(0.0) 
+level(0.0) with(0.0) the(0.0) retention(0.0) bonuses(1.0) that(0.0) we(0.0) saw(0.0) recently(0.0) .(0.0) We(0.0) as(0.0) Members(0.0) of(0.0) Congress(0.0) must(0.0) assert(1.0) our(0.0) rights(1.0) to(0.0) 
+protect(0.0) our(0.0) constituents(1.0) and(0.0) the(0.0) people(0.0) of(0.0) this(0.0) country(1.0) from(0.0) any(0.0) further(0.0) losses(1.0) .(0.0) I(0.0) want(0.0) to(0.0) make(0.0) clear(0.0) several(0.0) 
+things(0.0) about(0.0) this(0.0) bill(1.0) :(1.0) First(0.0) ,(0.0) it(0.0) only(0.0) applies(0.0) to(0.0) financial(1.0) institutions(1.0) that(0.0) have(0.0) received(0.0) a(0.0) capital(0.0) infusion(0.0) under(0.0) 
+the(0.0) TARP(1.0) program(0.0) .(0.0) An(0.0) amendment(1.0) by(0.0) Representative(1.0) Bilirakis(1.0) will(1.0) clarify(1.0) this(1.0) point(0.0) ,(0.0) and(0.0) an(0.0) amendment(1.0) by(0.0) Representative(1.0) Cardoza(1.0) 
+would(1.0) exempt(1.0) smaller(0.0) community(1.0) banks(1.0) which(0.0) receive(0.0) TARP(1.0) funds(1.0) .(0.0) Second(0.0) ,(0.0) it(0.0) only(0.0) prohibits(1.0) compensation(1.0) that(0.0) is(0.0) unreasonable(1.0) or(0.0) 
+excessive(0.0) or(0.0) prohibits(1.0) any(0.0) bonus(0.0) or(0.0) other(0.0) supplemental(1.0) payment(0.0) that(0.0) is(0.0) not(0.0) performance-based(0.0) .(0.0) Guidelines(0.0) are(0.0) established(0.0) by(0.0) the(0.0) Treasury(1.0) 
+Department(0.0) within(0.0) which(0.0) to(0.0) determine(0.0) what(0.0) is(0.0) unreasonable(0.0) or(0.0) excessive(0.0) .(0.0) Third(0.0) ,(0.0) the(0.0) bill(1.0) only(0.0) applies(0.0) while(0.0) the(0.0) TARP(1.0) 
+capital(1.0) remains(0.0) outstanding(0.0) .(0.0) Once(0.0) the(0.0) institution(0.0) has(0.0) paid(0.0) the(0.0) taxpayers(1.0) back(0.0) ,(0.0) they(0.0) may(0.0) meet(0.0) any(0.0) contractual(0.0) obligations(0.0) 
+
+
+----- below are rationale words -----
+
+Resolution	
+
+
+
+amendment	amendment	
+recommit	Speaker	
+taxpayer	dollars	stabilize	banking	
+banks	institutions	borrow	Troubled	
+TARP	AIG	
+retention	bonuses	executives	hardworking	Americans	country	
+money	considers	
+action	AIG	
+institutions	lending	
+limits	compensation	
+Georgia	Marshall	recently	
+care	creditors	
+
+bonuses	assert	rights	
+constituents	country	losses	
+bill	:	financial	institutions	
+TARP	amendment	Representative	Bilirakis	will	clarify	this	amendment	Representative	Cardoza	
+would	exempt	community	banks	TARP	funds	prohibits	compensation	unreasonable	
+prohibits	supplemental	Treasury	
+bill	TARP	
+capital	taxpayers	
+
+reads % = 0.14

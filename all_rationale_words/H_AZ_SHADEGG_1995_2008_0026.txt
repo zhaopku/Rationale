@@ -1,0 +1,16 @@
+This is from a Republican
+----- below is the original text -----
+But(0.0) instead(0.0) ,(0.0) the(0.0) Rules(0.0) Committee(0.0) said(0.0) absolutely(0.0) no(0.0) ,(0.0) we(0.0) want(0.0) no(0.0) limits(0.0) on(0.0) litigation(1.0) .(0.0) Not(0.0) only(0.0) are(0.0) there(0.0) 
+lawsuits(1.0) filed(0.0) by(0.0) environmental(1.0) groups(0.0) against(0.0) every(0.0) existing(0.0) lease(1.0) in(0.0) Alaska(1.0) and(0.0) the(0.0) lower(0.0) 48(0.0) ,(0.0) they(0.0) filed(0.0) a(0.0) lawsuit(0.0) 
+against(0.0) all(0.0) future(0.0) oil(1.0) leases(1.0) .(0.0) Any(0.0) American(0.0) who(0.0) believes(0.0) this(0.0) bill(1.0) will(1.0) produce(0.0) one(0.0) drop(0.0) of(0.0) oil(1.0) is(0.0) being(0.0) 
+deceived(0.0) by(0.0) the(0.0) lawyers(1.0) that(0.0) will(0.0) sue(1.0) and(0.0) sue(1.0) and(0.0) sue(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+litigation	
+lawsuits	environmental	lease	Alaska	
+oil	leases	bill	will	oil	
+lawyers	sue	sue	sue	
+
+reads % = 0.1917808219178082

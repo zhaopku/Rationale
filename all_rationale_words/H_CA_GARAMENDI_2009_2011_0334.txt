@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+If(0.0) I(0.0) might(0.0) ,(0.0) my(0.0) good(0.0) colleague(0.0) from(0.0) Virginia(1.0) ,(0.0) on(0.0) the(0.0) floor(0.0) today(0.0) it(0.0) was(0.0) perfectly(0.0) clear(0.0) that(0.0) the(0.0) Republicans(1.0) 
+are(1.0) refusing(1.0) to(1.0) even(1.0) consider(1.0) any(1.0) increases(1.0) in(1.0) taxes(1.0) or(1.0) the(1.0) elimination(1.0) of(1.0) tax(1.0) breaks(1.0) ,(1.0) on(1.0) oil(1.0) ,(1.0) on(1.0) 
+corporations(1.0) that(1.0) send(1.0) jobs(1.0) overseas(1.0) ,(1.0) it(1.0) 's(1.0) no(1.0) .(1.0) On(1.0) the(0.0) high(0.0) end(0.0) ,(0.0) the(0.0) hedge(1.0) fund(1.0) managers(1.0) that(0.0) 
+have(0.0) a(0.0) billion(1.0) dollars(1.0) of(0.0) income(1.0) ,(0.0) no(0.0) ,(0.0) they(0.0) 're(0.0) going(0.0) to(0.0) keep(0.0) those(0.0) tax(1.0) breaks(1.0) .(1.0) 
+
+
+----- below are rationale words -----
+
+Virginia	Republicans	
+are	refusing	to	even	consider	any	increases	in	taxes	or	the	elimination	of	tax	breaks	,	on	oil	,	on	
+corporations	that	send	jobs	overseas	,	it	's	no	.	On	hedge	fund	managers	
+billion	dollars	income	tax	breaks	.	
+
+reads % = 0.5316455696202531

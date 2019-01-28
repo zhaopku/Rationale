@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) am(0.0) pleased(0.0) to(0.0) yield(0.0) 3(0.0) minutes(0.0) to(0.0) the(0.0) distinguished(0.0) gentlewoman(0.0) from(0.0) New(0.0) Jersey(1.0) ((0.0) Mrs.(0.0) Roukema(1.0) )(0.0) ,(0.0) 
+also(0.0) a(0.0) member(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Education(0.0) and(0.0) the(0.0) Workforce(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Jersey	Roukema	
+
+
+reads % = 0.06060606060606061

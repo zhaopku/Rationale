@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) ask(1.0) unanimous(0.0) consent(0.0) that(0.0) the(0.0) Committee(0.0) on(0.0) Financial(0.0) Services(0.0) be(0.0) discharged(1.0) from(0.0) further(1.0) consideration(0.0) of(0.0) the(0.0) bill(0.0) 
+((0.0) H.R(0.0) .(0.0) 6162(1.0) )(0.0) to(0.0) provide(0.0) research(0.0) and(0.0) development(0.0) authority(0.0) for(0.0) alternative(0.0) coinage(0.0) materials(1.0) to(0.0) the(0.0) Secretary(1.0) of(0.0) the(0.0) 
+Treasury(0.0) ,(0.0) increase(1.0) congressional(1.0) oversight(0.0) over(0.0) coin(0.0) production(0.0) ,(0.0) and(0.0) ensure(0.0) the(0.0) continuity(1.0) of(0.0) certain(1.0) numismatic(1.0) items(0.0) ,(0.0) and(0.0) ask(0.0) 
+for(0.0) its(0.0) immediate(0.0) consideration(0.0) in(0.0) the(0.0) House(0.0) .(0.0) The(0.0) Clerk(1.0) read(1.0) the(0.0) title(0.0) of(0.0) the(0.0) bill(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+ask	discharged	further	
+6162	materials	Secretary	
+increase	congressional	continuity	certain	numismatic	
+Clerk	read	
+
+reads % = 0.16666666666666666

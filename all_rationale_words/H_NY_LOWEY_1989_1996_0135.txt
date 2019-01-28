@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) this(0.0) evening(0.0) to(0.0) pay(1.0) tribute(0.0) to(0.0) a(0.0) dubious(0.0) anniversary(0.0) .(0.0) As(0.0) we(0.0) sit(0.0) here(0.0) ,(0.0) after(0.0) 22(0.0) 
+years(0.0) of(0.0) Turkish(0.0) occupation(0.0) of(0.0) Cyprus(0.0) ,(0.0) it(0.0) is(0.0) especially(0.0) appropriate(0.0) to(0.0) recognize(0.0) the(0.0) struggle(1.0) for(0.0) the(0.0) freedom(1.0) of(0.0) all(0.0) 
+Cypriots(1.0) that(0.0) has(0.0) been(0.0) waged(1.0) for(0.0) more(0.0) than(0.0) two(0.0) decades(1.0) .(0.0) It(0.0) was(0.0) over(0.0) two(0.0) decades(1.0) ago(0.0) that(0.0) 6,000(0.0) Turkish(0.0) 
+troops(0.0) and(0.0) 40(0.0) tanks(0.0) landed(0.0) on(0.0) the(0.0) north(0.0) coast(0.0) of(0.0) Cyprus(0.0) ,(0.0) and(0.0) more(0.0) than(0.0) 200,000(0.0) Cypriots(1.0) were(0.0) driven(0.0) from(0.0) 
+their(0.0) homes(0.0) and(0.0) forced(1.0) to(0.0) live(0.0) under(0.0) foreign(1.0) occupation(1.0) .(0.0) Over(0.0) two(0.0) decades(1.0) ago(0.0) ,(0.0) and(0.0) still(0.0) Turkey(0.0) has(0.0) more(0.0) 
+than(0.0) 35,000(0.0) troops(1.0) on(0.0) the(0.0) island(0.0) .(0.0) Over(0.0) two(0.0) decades(1.0) ago(0.0) ,(0.0) and(0.0) we(0.0) still(0.0) do(0.0) n't(0.0) know(0.0) what(0.0) became(0.0) 
+of(0.0) the(0.0) 1,614(1.0) Greek(0.0) Cypriot(1.0) and(0.0) 5(0.0) American(0.0) citizens(1.0) missing(0.0) since(0.0) the(0.0) Turkish(0.0) invasion(0.0) .(0.0) That(0.0) is(0.0) why(0.0) I(0.0) 'm(0.0) 
+pleased(0.0) that(0.0) we(0.0) have(0.0) this(0.0) opportunity(0.0) today(0.0) .(0.0) Today(0.0) we(0.0) remember(0.0) what(0.0) happened(0.0) in(0.0) Cyprus(1.0) 22(0.0) years(0.0) ago(0.0) and(0.0) we(0.0) 
+pledge(1.0) to(0.0) fight(1.0) to(0.0) end(0.0) the(0.0) occupation(1.0) .(0.0) We(0.0) must(0.0) continue(0.0) to(0.0) fight(1.0) against(0.0) injustice(1.0) in(0.0) Cyprus(1.0) .(0.0) We(0.0) must(0.0) 
+continue(0.0) to(0.0) provide(0.0) aid(1.0) to(0.0) Cyprus(0.0) to(0.0) help(0.0) that(0.0) country(1.0) deal(0.0) with(0.0) the(0.0) terrible(0.0) problems(0.0) caused(0.0) by(0.0) more(0.0) than(0.0) two(0.0) 
+decades(1.0) of(0.0) Turkish(1.0) occupation(1.0) .(0.0) And(0.0) ,(0.0) above(0.0) all(0.0) ,(0.0) we(0.0) must(0.0) continue(0.0) to(0.0) keep(0.0) the(0.0) plight(1.0) of(0.0) the(0.0) Cypriots(1.0) 
+on(0.0) the(0.0) minds(1.0) of(0.0) everyone(0.0) around(0.0) the(0.0) world(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+pay	
+struggle	freedom	
+Cypriots	waged	decades	decades	
+Cypriots	
+forced	foreign	occupation	decades	
+troops	decades	
+1,614	Cypriot	citizens	
+Cyprus	
+pledge	fight	occupation	fight	injustice	Cyprus	
+aid	country	
+decades	Turkish	occupation	plight	Cypriots	
+minds	
+
+reads % = 0.1391304347826087

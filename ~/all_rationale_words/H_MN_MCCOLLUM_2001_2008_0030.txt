@@ -1,0 +1,56 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(1.0) to(0.0) suspend(0.0) the(0.0) rules(1.0) and(0.0) agree(1.0) to(0.0) the(0.0) resolution(0.0) ((0.0) H.(1.0) Res(0.0) .(0.0) 1356(1.0) )(0.0) celebrating(1.0) the(0.0) 
+221st(1.0) anniversary(1.0) of(0.0) the(0.0) signing(1.0) of(0.0) the(0.0) Constitution(0.0) of(0.0) the(0.0) United(0.0) States(0.0) of(0.0) America(0.0) ,(0.0) and(0.0) for(0.0) other(0.0) purposes(0.0) .(0.0) 
+The(0.0) Clerk(1.0) read(1.0) the(0.0) title(0.0) of(0.0) the(0.0) resolution(0.0) .(0.0) The(0.0) text(0.0) of(0.0) the(0.0) resolution(0.0) is(0.0) as(0.0) follows(1.0) :(0.0) H.(0.0) Res(0.0) 
+.(0.0) 1356(1.0) Whereas(1.0) the(0.0) Constitution(0.0) of(0.0) the(0.0) United(0.0) States(0.0) of(0.0) America(0.0) was(0.0) formally(1.0) signed(0.0) on(0.0) September(0.0) 17(0.0) ,(0.0) 1787(1.0) ,(0.0) 
+by(0.0) 39(1.0) delegates(1.0) from(0.0) 12(1.0) States(0.0) ;(0.0) Whereas(1.0) the(0.0) Constitution(0.0) of(0.0) the(0.0) United(0.0) States(0.0) was(0.0) subsequently(0.0) ratified(1.0) by(0.0) each(0.0) of(0.0) 
+the(0.0) original(0.0) 13(1.0) States(0.0) ;(0.0) Whereas(1.0) the(0.0) Constitution(0.0) of(0.0) the(0.0) United(0.0) States(0.0) was(0.0) drafted(1.0) in(0.0) order(0.0) to(0.0) form(1.0) a(0.0) more(0.0) 
+perfect(0.0) union(0.0) ,(0.0) establish(1.0) justice(0.0) ,(0.0) ensure(0.0) domestic(0.0) tranquility(0.0) ,(0.0) provide(0.0) for(0.0) the(0.0) common(0.0) defense(1.0) ,(0.0) promote(0.0) the(0.0) general(0.0) welfare(1.0) 
+,(0.0) and(0.0) secure(0.0) the(0.0) blessings(1.0) of(0.0) liberty(1.0) for(0.0) citizens(1.0) of(0.0) our(0.0) Nation(0.0) ;(0.0) Whereas(1.0) the(0.0) liberties(1.0) enjoyed(0.0) by(0.0) the(0.0) citizens(1.0) 
+of(0.0) the(0.0) United(0.0) States(0.0) today(0.0) are(0.0) rooted(0.0) in(0.0) this(0.0) cherished(1.0) document(0.0) that(0.0) gave(0.0) birth(0.0) to(0.0) our(0.0) Nation(0.0) ;(0.0) Whereas(1.0) the(0.0) 
+Constitution(0.0) of(0.0) the(0.0) United(0.0) States(0.0) serves(0.0) as(0.0) the(0.0) foundation(0.0) for(0.0) citizens(1.0) of(0.0) the(0.0) United(0.0) States(0.0) to(0.0) accomplish(0.0) a(0.0) level(0.0) of(0.0) 
+prosperity(1.0) ,(0.0) security(0.0) ,(0.0) justice(1.0) ,(0.0) and(0.0) freedom(1.0) unsurpassed(0.0) by(0.0) any(1.0) other(0.0) country(1.0) ;(0.0) Whereas(1.0) the(0.0) Constitution(0.0) of(0.0) the(0.0) United(0.0) 
+States(0.0) is(0.0) a(0.0) model(0.0) for(0.0) establishing(1.0) freedom(1.0) in(0.0) other(0.0) countries(0.0) ;(0.0) Whereas(1.0) the(0.0) Members(0.0) of(0.0) the(0.0) House(0.0) of(0.0) Representatives(0.0) take(0.0) 
+an(0.0) oath(1.0) to(0.0) support(0.0) and(0.0) defend(1.0) the(0.0) Constitution(1.0) of(0.0) the(0.0) United(0.0) States(0.0) ;(0.0) and(0.0) Whereas(0.0) September(0.0) 17(0.0) ,(0.0) 2008(1.0) ,(0.0) 
+is(0.0) the(0.0) 221st(1.0) anniversary(1.0) of(0.0) the(0.0) signing(1.0) of(0.0) the(0.0) Constitution(0.0) of(0.0) the(0.0) United(0.0) States(0.0) :(0.0) Now(0.0) ,(0.0) therefore(1.0) ,(0.0) be(0.0) 
+it(0.0) Resolved(1.0) ,(0.0) That(0.0) the(0.0) House(0.0) of(0.0) Representatives(0.0) --(0.0) ((0.0) 1(1.0) )(0.0) celebrates(1.0) the(0.0) 221st(1.0) anniversary(0.0) of(0.0) the(0.0) signing(1.0) of(0.0) 
+the(0.0) Constitution(0.0) of(0.0) the(0.0) United(0.0) States(0.0) of(0.0) America(0.0) ;(0.0) ((0.0) 2(0.0) )(0.0) honors(1.0) the(0.0) efforts(1.0) of(0.0) the(0.0) 42(1.0) delegates(1.0) who(0.0) 
+attended(1.0) the(0.0) majority(1.0) of(0.0) the(0.0) Constitutional(1.0) Convention(0.0) meetings(0.0) and(0.0) the(0.0) 39(1.0) signers(1.0) of(0.0) the(0.0) Constitution(0.0) of(0.0) the(0.0) United(0.0) States(0.0) ;(0.0) 
+((0.0) 3(0.0) )(0.0) acknowledges(1.0) the(0.0) significance(0.0) of(0.0) the(0.0) ideals(0.0) established(1.0) by(0.0) the(0.0) Constitution(0.0) of(0.0) the(0.0) United(0.0) States(0.0) ,(0.0) including(1.0) the(0.0) 
+principle(0.0) of(0.0) a(0.0) limited(0.0) Federal(1.0) Government(1.0) with(0.0) a(0.0) system(0.0) of(0.0) checks(0.0) and(0.0) balances(0.0) between(0.0) the(0.0) 3(0.0) branches(1.0) ;(0.0) ((0.0) 4(1.0) 
+)(0.0) recognizes(0.0) the(0.0) Constitution(0.0) of(0.0) the(0.0) United(0.0) States(0.0) as(0.0) the(0.0) source(1.0) responsible(1.0) for(0.0) our(0.0) Nation(0.0) 's(0.0) ability(0.0) to(0.0) withstand(0.0) calamity(1.0) 
+and(0.0) preserve(0.0) national(0.0) stability(0.0) ,(0.0) or(1.0) as(0.0) Thomas(1.0) Jefferson(1.0) wrote(1.0) ,(0.0) ``(1.0) Our(0.0) peculiar(1.0) security(1.0) is(0.0) in(0.0) the(0.0) possession(0.0) of(0.0) 
+a(0.0) written(0.0) Constitution(0.0) ''(0.0) ;(0.0) and(1.0) ((0.0) 5(0.0) )(0.0) encourages(1.0) the(0.0) citizens(1.0) of(0.0) the(0.0) United(0.0) States(0.0) of(0.0) America(0.0) ,(0.0) who(0.0) 
+have(0.0) the(0.0) privilege(1.0) to(0.0) share(0.0) in(0.0) the(0.0) freedoms(1.0) recognized(0.0) in(0.0) the(0.0) Constitution(0.0) of(0.0) the(0.0) United(0.0) States(0.0) ,(0.0) to(0.0) join(1.0) with(0.0) 
+the(0.0) House(0.0) of(0.0) Representatives(0.0) in(0.0) this(0.0) historic(1.0) celebration(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+move	rules	agree	H.	1356	celebrating	
+221st	anniversary	signing	
+Clerk	read	follows	
+1356	Whereas	formally	1787	
+39	delegates	12	Whereas	ratified	
+13	Whereas	drafted	form	
+establish	defense	welfare	
+blessings	liberty	citizens	Whereas	liberties	citizens	
+cherished	Whereas	
+citizens	
+prosperity	justice	freedom	any	country	Whereas	
+establishing	freedom	Whereas	
+oath	defend	Constitution	2008	
+221st	anniversary	signing	therefore	
+Resolved	1	celebrates	221st	signing	
+honors	efforts	42	delegates	
+attended	majority	Constitutional	39	signers	
+acknowledges	established	including	
+Federal	Government	branches	4	
+source	responsible	calamity	
+or	Thomas	Jefferson	wrote	``	peculiar	security	
+and	encourages	citizens	
+privilege	freedoms	join	
+historic	celebration	
+
+reads % = 0.19787234042553192

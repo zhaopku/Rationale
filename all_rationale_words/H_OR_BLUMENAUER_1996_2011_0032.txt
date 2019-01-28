@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) yield(0.0) 1\1/2\(0.0) minutes(0.0) to(0.0) my(0.0) friend(0.0) and(0.0) colleague(0.0) ,(0.0) Congressman(1.0) Kind(1.0) ,(0.0) who(0.0) has(0.0) been(0.0) a(0.0) tireless(0.0) champion(0.0) 
+of(0.0) agricultural(1.0) reform(0.0) ,(0.0) coming(0.0) as(0.0) he(0.0) does(0.0) from(0.0) farm(0.0) country(0.0) in(0.0) the(0.0) upper(0.0) Midwest(0.0) .(0.0) ((0.0) Mr.(0.0) KIND(1.0) asked(0.0) 
+and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) )(0.0) 
+
+
+----- below are rationale words -----
+
+Congressman	Kind	
+agricultural	KIND	
+
+
+reads % = 0.07547169811320754

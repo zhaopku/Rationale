@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) ask(0.0) unanimous(1.0) consent(0.0) to(0.0) take(0.0) the(0.0) 5(0.0) minutes(0.0) in(0.0) opposition(1.0) to(0.0) the(0.0) amendment(1.0) ,(0.0) although(0.0) I(0.0) will(0.0) not(0.0) 
+oppose(1.0) the(0.0) amendment(1.0) .(0.0) The(0.0) Acting(0.0) CHAIRMAN(0.0) .(0.0) Without(0.0) objection(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Michigan(1.0) is(0.0) recognized(0.0) for(0.0) 5(0.0) minutes(0.0) 
+.(0.0) There(0.0) was(0.0) no(0.0) objection(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) support(0.0) the(0.0) amendment(1.0) .(0.0) I(0.0) appreciate(0.0) the(0.0) efforts(1.0) of(0.0) the(0.0) 
+distinguished(0.0) former(0.0) ranking(0.0) member(0.0) of(0.0) the(0.0) committee(0.0) to(0.0) call(0.0) attention(0.0) to(0.0) the(0.0) importance(0.0) of(0.0) the(0.0) aerospace(0.0) industrial(0.0) base(0.0) ,(0.0) which(0.0) 
+is(0.0) critical(0.0) to(0.0) our(0.0) intelligence(0.0) efforts(0.0) .(0.0) I(0.0) applaud(0.0) her(0.0) work(0.0) with(0.0) my(0.0) colleague(0.0) from(0.0) Michigan(1.0) ((0.0) Mr.(0.0) Ehlers(1.0) )(0.0) 
+in(1.0) bringing(0.0) this(0.0) amendment(1.0) forward(0.0) .(0.0) This(0.0) amendment(1.0) also(0.0) further(0.0) highlights(0.0) the(0.0) need(0.0) for(0.0) a(0.0) comprehensive(0.0) strategy(0.0) for(0.0) our(0.0) Nation(1.0) 
+'s(0.0) intelligence(0.0) overhead(0.0) architecture(0.0) .(0.0) Unfortunately(0.0) ,(0.0) I(0.0) do(0.0) not(0.0) believe(0.0) a(0.0) sufficient(0.0) strategy(0.0) is(0.0) yet(0.0) in(0.0) place(0.0) ,(0.0) and(0.0) 
+I(0.0) am(0.0) concerned(0.0) that(0.0) the(0.0) intelligence(0.0) community(0.0) is(0.0) still(0.0) not(0.0) moving(0.0) with(0.0) urgency(1.0) to(0.0) solve(0.0) this(0.0) problem(0.0) .(0.0) We(0.0) must(0.0) 
+address(0.0) these(0.0) issues(0.0) in(0.0) the(0.0) interest(0.0) of(0.0) our(0.0) national(1.0) security(0.0) ,(0.0) and(0.0) just(0.0) as(0.0) importantly(0.0) ,(0.0) to(0.0) protect(0.0) and(0.0) maintain(0.0) 
+our(0.0) industrial(1.0) base(0.0) as(0.0) highlighted(0.0) in(0.0) this(0.0) amendment(1.0) .(0.0) With(0.0) that(0.0) ,(0.0) I(0.0) would(0.0) yield(0.0) back(0.0) the(0.0) remainder(0.0) of(0.0) my(0.0) 
+1(0.0) minute(0.0) and(0.0) yield(0.0) the(0.0) remaining(0.0) 4(0.0) minutes(0.0) to(0.0) my(0.0) colleague(0.0) from(0.0) Michigan(1.0) ((0.0) Mr.(0.0) Ehlers(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+unanimous	opposition	amendment	
+oppose	amendment	Michigan	
+Chairman	amendment	efforts	
+
+Michigan	Ehlers	
+in	amendment	amendment	Nation	
+
+urgency	
+national	
+industrial	amendment	
+Michigan	Ehlers	
+
+reads % = 0.0958904109589041

@@ -1,0 +1,48 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) will(0.0) speak(1.0) in(0.0) support(0.0) of(0.0) 
+the(0.0) bill(0.0) ,(0.0) S.(1.0) 1312(1.0) ,(0.0) as(0.0) passed(0.0) by(0.0) the(0.0) Senate(1.0) on(0.0) October(0.0) 28(1.0) ,(0.0) 1993(0.0) .(0.0) The(0.0) legislation(0.0) is(0.0) 
+bipartisan(0.0) and(0.0) noncontroversial(1.0) .(0.0) The(0.0) bill(0.0) addresses(0.0) a(0.0) problem(0.0) under(0.0) the(0.0) current(0.0) pension(1.0) law(1.0) ,(0.0) wherein(1.0) former(0.0) pension(1.0) plan(1.0) participants(0.0) 
+may(0.0) be(0.0) denied(1.0) appropriate(1.0) relief(0.0) to(0.0) remedy(1.0) certain(1.0) fiduciary(1.0) breaches(1.0) .(0.0) In(0.0) particular(0.0) ,(0.0) S.(1.0) 1312(1.0) would(0.0) amend(1.0) the(0.0) Employee(1.0) 
+Retirement(1.0) Income(0.0) Security(1.0) Act(0.0) of(0.0) 1974(1.0) [(0.0) ERISA(1.0) ](0.0) to(0.0) allow(0.0) the(0.0) Secretary(1.0) of(0.0) Labor(1.0) and(0.0) former(0.0) pension(1.0) participants(0.0) to(0.0) 
+seek(0.0) appropriate(1.0) relief(0.0) ,(0.0) when(0.0) ERISA(1.0) violations(1.0) involving(1.0) the(0.0) purchase(0.0) of(0.0) annuities(1.0) occur(0.0) in(0.0) connection(0.0) with(0.0) the(0.0) termination(1.0) of(0.0) a(0.0) 
+pension(1.0) plan(1.0) ,(0.0) or(1.0) an(0.0) individual(0.0) 's(0.0) status(0.0) as(0.0) a(0.0) participant(0.0) .(0.0) In(0.0) July(0.0) of(0.0) 1993(0.0) ,(0.0) the(0.0) Subcommittee(0.0) on(0.0) 
+Labor-Management(1.0) Relations(1.0) held(0.0) an(0.0) oversight(0.0) hearing(0.0) on(0.0) this(0.0) annuity(1.0) issue(0.0) ,(0.0) among(0.0) other(0.0) ERISA(1.0) enforcement(0.0) issues(0.0) .(0.0) During(1.0) the(0.0) hearing(0.0) 
+,(0.0) concern(1.0) was(0.0) raised(0.0) that(0.0) ,(0.0) after(1.0) the(0.0) decision(0.0) by(0.0) the(0.0) Supreme(0.0) Court(0.0) in(0.0) Mertens(1.0) versus(1.0) Hewitt(1.0) ,(0.0) current(0.0) law(1.0) 
+could(0.0) be(0.0) read(1.0) as(0.0) narrowing(1.0) the(0.0) remedies(1.0) under(0.0) ERISA(1.0) upon(0.0) which(0.0) participants(0.0) and(0.0) beneficiaries(0.0) have(0.0) previously(0.0) relied(0.0) ,(0.0) to(0.0) fully(0.0) 
+restore(0.0) denied(1.0) pension(1.0) plan(1.0) benefits(1.0) .(0.0) Specifically(1.0) ,(0.0) there(0.0) was(0.0) concern(0.0) that(0.0) the(0.0) case(0.0) could(0.0) undermine(1.0) the(0.0) efforts(0.0) of(0.0) the(0.0) 
+Department(0.0) of(0.0) Labor(1.0) to(0.0) recover(0.0) the(0.0) reduction(1.0) of(0.0) annuity(1.0) payments(0.0) for(0.0) former(0.0) pension(1.0) plan(1.0) participants(0.0) .(0.0) In(0.0) the(0.0) case(0.0) of(0.0) 
+Kayes(1.0) versus(1.0) Pacific(1.0) Lumber(1.0) ,(0.0) which(0.0) was(0.0) cited(1.0) in(0.0) the(0.0) Mertens(1.0) case(0.0) ,(0.0) the(0.0) U.S.(0.0) District(0.0) Court(0.0) for(0.0) the(0.0) Northern(1.0) 
+District(1.0) of(0.0) California(0.0) held(0.0) that(0.0) former(0.0) participants(0.0) and(0.0) beneficiaries(0.0) who(0.0) were(0.0) given(0.0) executive(1.0) life(0.0) annuities(1.0) ,(0.0) do(0.0) not(1.0) have(0.0) standing(0.0) 
+to(0.0) sue(1.0) under(0.0) Title(1.0) I(0.0) of(0.0) ERISA(1.0) .(0.0) S.(1.0) 1312(1.0) would(0.0) clarify(0.0) that(0.0) ERISA(1.0) does(0.0) give(0.0) standing(0.0) to(0.0) former(0.0) participants(0.0) 
+and(0.0) beneficiaries(0.0) ,(0.0) if(0.0) they(0.0) seek(0.0) relief(0.0) in(0.0) connection(0.0) with(0.0) a(0.0) fiduciary(1.0) breach(1.0) involving(1.0) the(0.0) purchase(0.0) of(0.0) insurance(1.0) contracts(1.0) or(0.0) 
+annuities(1.0) .(0.0) Under(1.0) S.(1.0) 1312(1.0) ,(0.0) this(0.0) standing(0.0) would(1.0) be(0.0) retroactive(0.0) in(0.0) connection(0.0) with(0.0) legal(0.0) proceedings(1.0) pending(1.0) ,(0.0) or(1.0) brought(0.0) 
+,(0.0) on(0.0) or(1.0) after(0.0) May(0.0) 31(1.0) ,(0.0) 1993(0.0) .(0.0) My(0.0) understanding(0.0) is(0.0) that(0.0) there(0.0) are(0.0) a(0.0) number(0.0) of(0.0) cases(1.0) wherein(1.0) 
+the(0.0) pension(1.0) rights(0.0) of(0.0) former(0.0) participants(0.0) could(0.0) be(0.0) in(0.0) jeopardy(1.0) .(0.0) Therefore(1.0) ,(0.0) I(0.0) urge(1.0) my(0.0) colleagues(1.0) to(0.0) expedite(1.0) the(0.0) 
+passage(0.0) of(0.0) this(0.0) bill(0.0) clarifying(0.0) the(0.0) extent(1.0) of(0.0) ERISA(1.0) civil(1.0) remedies(1.0) for(0.0) pension(1.0) plan(1.0) participants(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	speak	
+S.	1312	Senate	28	
+noncontroversial	pension	law	wherein	pension	plan	
+denied	appropriate	remedy	certain	fiduciary	breaches	S.	1312	amend	Employee	
+Retirement	Security	1974	ERISA	Secretary	Labor	pension	
+appropriate	ERISA	violations	involving	annuities	termination	
+pension	plan	or	
+Labor-Management	Relations	annuity	ERISA	During	
+concern	after	Mertens	versus	Hewitt	law	
+read	narrowing	remedies	ERISA	
+denied	pension	plan	benefits	Specifically	undermine	
+Labor	reduction	annuity	pension	plan	
+Kayes	versus	Pacific	Lumber	cited	Mertens	Northern	
+District	executive	annuities	not	
+sue	Title	ERISA	S.	1312	ERISA	
+fiduciary	breach	involving	insurance	contracts	
+annuities	Under	S.	1312	would	proceedings	pending	or	
+or	31	cases	wherein	
+pension	jeopardy	Therefore	urge	colleagues	expedite	
+extent	ERISA	civil	remedies	pension	plan	
+
+reads % = 0.2770780856423174

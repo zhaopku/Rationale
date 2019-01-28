@@ -1,0 +1,10 @@
+This is from a Democrat
+----- below is the original text -----
+Young(1.0) ](0.0) and(1.0) have(0.0) no(0.0) problems(0.0) with(0.0) the(0.0) amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+and	amendment	
+
+reads % = 0.2

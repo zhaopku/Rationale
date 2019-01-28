@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) the(0.0) situation(0.0) in(0.0) Syria(1.0) is(0.0) that(0.0) of(0.0) a(0.0) national(0.0) civil(1.0) war(1.0) .(0.0) It(0.0) 's(0.0) a(0.0) sectarian(1.0) and(0.0) ethnic(1.0) conflict(0.0) 
+between(0.0) two(0.0) warring(1.0) factions(0.0) .(0.0) This(0.0) is(0.0) not(0.0) about(0.0) democracy(1.0) and(0.0) freedom(1.0) .(0.0) There(0.0) is(0.0) no(0.0) social(0.0) contract(0.0) .(0.0) There(0.0) 
+is(0.0) no(0.0) constitution(0.0) .(0.0) There(0.0) is(0.0) no(0.0) preamble(0.0) .(0.0) There(0.0) is(0.0) no(0.0) unifying(0.0) vision(0.0) as(0.0) to(0.0) what(0.0) Syria(1.0) wants(0.0) to(0.0) 
+become(0.0) .(0.0) This(0.0) is(0.0) a(0.0) brutal(1.0) battle(0.0) between(0.0) two(0.0) bad(0.0) sides(0.0) for(0.0) control(0.0) .(0.0) Assad(1.0) is(0.0) a(0.0) brutal(0.0) dictator(1.0) ,(0.0) 
+for(0.0) certain(0.0) ;(0.0) but(0.0) the(0.0) opposition(1.0) 's(0.0) best(0.0) fighters(1.0) are(0.0) al(0.0) Qaeda(0.0) and(0.0) Islamic(0.0) extremists(1.0) bent(0.0) on(0.0) creating(0.0) an(0.0) Islamic(1.0) 
+state(0.0) in(0.0) Syria(1.0) .(0.0) In(0.0) the(0.0) international(0.0) community(0.0) ,(0.0) 194(0.0) countries(1.0) have(0.0) said(0.0) --(0.0) but(0.0) for(0.0) Turkey(0.0) and(0.0) France(0.0) --(0.0) 
+yes(0.0) ,(0.0) the(0.0) United(0.0) States(0.0) ,(0.0) go(0.0) get(0.0) them(0.0) ;(0.0) just(0.0) do(0.0) n't(0.0) ask(0.0) us(0.0) to(0.0) participate(0.0) .(0.0) So(0.0) the(0.0) 
+American(0.0) people(0.0) will(0.0) find(0.0) themselves(0.0) ,(0.0) once(0.0) again(0.0) ,(0.0) for(0.0) the(0.0) third(0.0) time(0.0) in(0.0) a(0.0) decade(0.0) ,(0.0) in(0.0) a(0.0) region(0.0) 
+of(0.0) the(0.0) Middle(0.0) East(0.0) in(0.0) South(1.0) Asia(0.0) in(0.0) another(0.0) civil(1.0) war(1.0) ,(0.0) essentially(0.0) alone(0.0) again(0.0) .(0.0) The(0.0) American(0.0) people(0.0) want(0.0) 
+nation-building(1.0) .(0.0) But(0.0) they(0.0) want(0.0) it(0.0) right(0.0) here(0.0) at(0.0) home(0.0) ,(0.0) in(0.0) America(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Syria	civil	war	sectarian	ethnic	
+warring	democracy	freedom	
+Syria	
+brutal	Assad	dictator	
+opposition	fighters	extremists	Islamic	
+Syria	countries	
+
+
+South	civil	war	
+nation-building	America	
+
+reads % = 0.11794871794871795

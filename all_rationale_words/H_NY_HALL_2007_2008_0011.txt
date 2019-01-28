@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) just(0.0) moments(0.0) ago(0.0) ,(0.0) this(0.0) body(0.0) voted(1.0) to(0.0) pay(1.0) an(0.0) appropriate(0.0) tribute(0.0) to(0.0) a(0.0) dedicated(0.0) public(0.0) servant(0.0) in(0.0) 
+New(0.0) York(1.0) 's(0.0) 19th(0.0) Congressional(0.0) District(1.0) .(0.0) On(0.0) April(0.0) 10(0.0) ,(0.0) 2007(0.0) ,(0.0) the(0.0) Hudson(1.0) Valley(0.0) lost(0.0) one(0.0) of(0.0) its(0.0) 
+most(0.0) involved(0.0) leaders(0.0) when(0.0) E.(0.0) Arthur(0.0) Gray(1.0) ,(0.0) a(0.0) former(0.0) five-term(1.0) mayor(1.0) of(0.0) Port(0.0) Jervis(1.0) and(0.0) New(1.0) York(1.0) State(0.0) Senator(0.0) 
+,(0.0) passed(0.0) away(0.0) at(0.0) the(0.0) age(0.0) of(0.0) 82(0.0) years(0.0) old(0.0) .(0.0) He(0.0) left(0.0) behind(0.0) a(0.0) legacy(0.0) of(0.0) friendship(0.0) ,(0.0) involvement(0.0) 
+and(0.0) service(0.0) that(0.0) earned(0.0) him(0.0) a(0.0) permanent(0.0) place(0.0) in(0.0) the(0.0) heart(0.0) of(0.0) Port(0.0) Jervis(0.0) and(0.0) serves(0.0) as(0.0) an(0.0) example(0.0) of(0.0) 
+what(0.0) it(0.0) means(0.0) to(0.0) work(0.0) for(0.0) the(0.0) betterment(1.0) of(0.0) your(0.0) community(0.0) .(0.0) By(0.0) voting(1.0) to(0.0) pass(0.0) legislation(1.0) that(0.0) would(0.0) redesignate(1.0) 
+the(0.0) post(0.0) office(0.0) in(0.0) Port(0.0) Jervis(1.0) ,(0.0) New(1.0) York(1.0) ,(0.0) as(0.0) the(0.0) E.(0.0) Arthur(0.0) Gray(1.0) Post(0.0) Office(0.0) Building(0.0) ,(0.0) the(0.0) 
+House(0.0) has(0.0) acknowledged(0.0) the(0.0) contributions(0.0) of(0.0) an(0.0) individual(0.0) who(0.0) loved(0.0) his(0.0) hometown(0.0) and(0.0) who(0.0) ,(0.0) as(0.0) a(0.0) businessman(0.0) ,(0.0) government(0.0) 
+official(0.0) and(0.0) family(0.0) man(0.0) ,(0.0) dedicated(0.0) a(0.0) significant(0.0) portion(0.0) of(0.0) his(0.0) time(0.0) and(0.0) energy(0.0) to(0.0) its(0.0) civic(0.0) life(0.0) .(0.0) Simply(0.0) 
+put(0.0) ,(0.0) Arthur(0.0) Gray(1.0) was(0.0) a(0.0) Port(0.0) Jervis(0.0) resident(0.0) to(0.0) the(0.0) core(0.0) :(0.0) born(0.0) February(0.0) 28(0.0) ,(0.0) 1925(0.0) ,(0.0) in(0.0) 
+Port(0.0) Jervis(0.0) ,(0.0) a(0.0) graduate(0.0) of(0.0) Port(0.0) Jervis(0.0) High(0.0) School(0.0) before(0.0) leaving(0.0) briefly(0.0) for(0.0) college(0.0) ,(0.0) only(0.0) to(0.0) return(0.0) as(0.0) 
+president(0.0) and(0.0) co-owner(0.0) of(0.0) the(0.0) Gray-Parker(0.0) Funeral(0.0) Home(0.0) in(0.0) his(0.0) native(0.0) Port(0.0) Jervis(1.0) .(0.0) Art(0.0) Gray(1.0) 's(0.0) participation(0.0) in(0.0) public(0.0) 
+life(0.0) extended(0.0) to(0.0) government(0.0) service(0.0) .(0.0) He(0.0) was(0.0) mayor(0.0) of(0.0) Port(0.0) Jervis(0.0) from(0.0) 1978(0.0) to(0.0) 1988(0.0) .(0.0) A(0.0) lifetime(0.0) resident(0.0) 
+of(0.0) Port(0.0) Jervis(0.0) ,(0.0) Gray(0.0) gave(0.0) his(0.0) undivided(0.0) attention(0.0) to(0.0) issues(0.0) ,(0.0) both(0.0) large(0.0) and(0.0) small(0.0) ,(0.0) and(0.0) was(0.0) widely(0.0) 
+known(0.0) for(0.0) his(0.0) open-door(0.0) policy(0.0) .(0.0) Art(0.0) Gray(1.0) remains(0.0) the(0.0) longest-serving(0.0) mayor(0.0) in(0.0) the(0.0) history(0.0) of(0.0) Port(0.0) Jervis(0.0) .(0.0) During(0.0) 
+his(0.0) tenure(0.0) he(0.0) was(0.0) able(0.0) to(0.0) reinvigorate(1.0) the(0.0) downtown(1.0) area(0.0) and(0.0) greatly(0.0) improve(0.0) the(0.0) city(0.0) 's(0.0) economic(1.0) development(0.0) plan(0.0) .(0.0) 
+Citizens(0.0) of(0.0) the(0.0) local(0.0) area(0.0) remember(0.0) Art(0.0) as(0.0) a(0.0) man(0.0) who(0.0) was(0.0) generous(0.0) in(0.0) nature(0.0) and(0.0) willing(0.0) to(0.0) help(0.0) those(0.0) 
+in(0.0) need(0.0) .(0.0) After(0.0) finishing(0.0) his(0.0) service(0.0) as(0.0) mayor(0.0) ,(0.0) Art(0.0) Gray(1.0) maintained(0.0) his(0.0) commitment(0.0) to(0.0) public(0.0) service(0.0) by(0.0) successfully(0.0) 
+running(0.0) for(0.0) a(0.0) seat(0.0) in(0.0) the(0.0) New(1.0) York(1.0) State(0.0) senate(0.0) in(0.0) 1988(0.0) .(0.0) He(0.0) represented(0.0) the(0.0) 39th(0.0) Senatorial(0.0) District(1.0) in(0.0) 
+that(0.0) capacity(0.0) until(0.0) 1990(0.0) .(0.0) But(0.0) E.(0.0) Arthur(0.0) Gray(1.0) 's(0.0) contributions(0.0) to(0.0) his(0.0) city(0.0) and(0.0) his(0.0) country(0.0) were(0.0) not(0.0) limited(0.0) 
+to(0.0) business(0.0) and(0.0) politics(0.0) .(0.0) He(0.0) served(0.0) as(0.0) a(0.0) lieutenant(0.0) in(0.0) the(0.0) U.S(0.0) .(0.0) Naval(0.0) Reserve(0.0) during(0.0) World(0.0) War(0.0) II(0.0) 
+.(0.0) He(0.0) was(0.0) also(0.0) deeply(0.0) involved(0.0) in(0.0) community(0.0) life(0.0) ,(0.0) and(0.0) the(0.0) list(0.0) of(0.0) organizations(0.0) that(0.0) count(0.0) him(0.0) as(0.0) a(0.0) 
+member(0.0) is(0.0) astounding(0.0) .(0.0) At(0.0) one(0.0) time(0.0) or(0.0) another(0.0) ,(0.0) Art(0.0) Gray(1.0) was(0.0) a(0.0) member(0.0) of(0.0) the(0.0) Port(0.0) Jervis(0.0) Community(0.0) 
+Development(0.0) Agency(0.0) ,(0.0) the(0.0) Orange(1.0) County(0.0) Economic(0.0) Development(0.0) Agency(0.0) ,(0.0) the(0.0) National(0.0) League(0.0) of(0.0) Small(0.0) Cities(0.0) Advisory(0.0) Council(0.0) ,(0.0) St.(1.0) 
+Mary(0.0) 's(0.0) Roman(0.0) Catholic(0.0) Church(0.0) ,(0.0) Bon(0.0) Secours(1.0) Community(0.0) Hospital(0.0) Advisory(0.0) Board(0.0) ,(0.0) Knights(0.0) of(0.0) Columbus(0.0) Council(0.0) No(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+voted	pay	
+York	District	Hudson	
+Gray	five-term	mayor	Jervis	New	York	
+
+
+betterment	voting	legislation	redesignate	
+Jervis	New	York	Gray	
+
+
+Gray	
+
+Jervis	Gray	
+
+
+Gray	
+reinvigorate	downtown	economic	
+
+Gray	
+New	York	District	
+Gray	
+
+
+Gray	
+Orange	St.	
+Secours	
+
+reads % = 0.07

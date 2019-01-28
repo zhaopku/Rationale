@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) vote(1.0) ``(0.0) no(0.0) ''(0.0) and(0.0) defeat(1.0) the(0.0) previous(0.0) question(0.0) so(0.0) we(0.0) can(0.0) debate(1.0) and(0.0) pass(0.0) a(0.0) 
+bill(0.0) that(0.0) actually(0.0) does(0.0) something(0.0) useful(0.0) ,(0.0) and(0.0) that(0.0) is(0.0) deal(0.0) with(0.0) the(0.0) pay(1.0) of(0.0) the(0.0) President(1.0) and(0.0) the(0.0) Congress(0.0) 
+and(0.0) actually(0.0) has(0.0) a(0.0) chance(0.0) ,(0.0) because(0.0) it(0.0) has(0.0) already(0.0) passed(0.0) the(0.0) Senate(0.0) ,(0.0) of(0.0) being(0.0) enacted(1.0) into(0.0) law(1.0) .(0.0) 
+I(0.0) urge(0.0) a(0.0) ``(0.0) no(0.0) ''(0.0) vote(1.0) on(0.0) the(0.0) rule(1.0) .(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+vote	defeat	debate	
+pay	President	
+enacted	law	
+vote	rule	
+
+
+reads % = 0.1111111111111111

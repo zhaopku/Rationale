@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) pass(0.0) the(0.0) Senate(0.0) bill(0.0) ((1.0) S.(0.0) 931(1.0) )(0.0) to(0.0) designate(0.0) the(0.0) Marjory(0.0) 
+Stoneman(1.0) Douglas(1.0) Wilderness(0.0) and(0.0) the(0.0) Ernest(0.0) F.(0.0) Coe(0.0) Visitor(0.0) Center(0.0) .(0.0) The(0.0) Clerk(0.0) read(0.0) as(0.0) follows(0.0) :(0.0) S.(0.0) 931(0.0) Be(0.0) 
+it(0.0) enacted(0.0) by(0.0) the(0.0) Senate(0.0) and(0.0) House(0.0) of(0.0) Representatives(0.0) of(0.0) the(0.0) United(0.0) States(0.0) of(0.0) America(0.0) in(0.0) Congress(0.0) assembled(0.0) ,(0.0) SECTION(0.0) 
+1(0.0) .(0.0) SHORT(0.0) TITLE(0.0) .(0.0) This(0.0) Act(0.0) may(0.0) be(0.0) cited(0.0) as(0.0) the(0.0) ``(0.0) Marjory(0.0) Stoneman(1.0) Douglas(1.0) Wilderness(0.0) and(0.0) Ernest(0.0) F.(0.0) 
+Coe(0.0) Visitor(0.0) Center(0.0) Designation(0.0) Act(0.0) ''(0.0) .(0.0) SEC(0.0) .(0.0) 2(0.0) .(0.0) FINDINGS(0.0) AND(0.0) PURPOSE(0.0) .(0.0) ((0.0) a(0.0) )(0.0) Findings.(0.0) --(0.0) 
+Congress(0.0) finds(0.0) that(0.0) --(0.0) ((0.0) 1(0.0) )(0.0) ((0.0) A(0.0) )(0.0) Marjory(0.0) Stoneman(1.0) Douglas(1.0) ,(0.0) through(0.0) her(0.0) book(0.0) ,(0.0) ``(0.0) The(0.0) 
+Everglades(0.0) :(0.0) River(0.0) of(0.0) Grass(0.0) ''(0.0) ((0.0) published(0.0) in(0.0) 1947(0.0) )(0.0) ,(0.0) defined(0.0) the(0.0) Everglades(0.0) for(0.0) the(0.0) people(0.0) of(0.0) the(0.0) 
+United(0.0) States(0.0) and(0.0) the(0.0) world(0.0) ;(0.0) ((0.0) B(0.0) )(0.0) Mrs.(0.0) Douglas(1.0) 's(0.0) book(0.0) was(0.0) the(0.0) first(0.0) to(0.0) stimulate(0.0) widespread(0.0) understanding(0.0) 
+of(0.0) the(0.0) Everglades(0.0) ecosystem(1.0) and(0.0) ultimately(0.0) served(0.0) to(0.0) awaken(0.0) the(0.0) desire(0.0) of(0.0) the(0.0) people(0.0) of(0.0) the(0.0) United(0.0) States(0.0) to(0.0) restore(0.0) 
+the(0.0) ecosystem(1.0) 's(0.0) health(1.0) ;(0.0) ((0.0) C(0.0) )(0.0) in(0.0) her(0.0) 107th(0.0) year(0.0) ,(0.0) Mrs.(0.0) Douglas(1.0) is(0.0) the(0.0) sole(0.0) surviving(0.0) member(0.0) 
+of(0.0) the(0.0) original(0.0) group(0.0) of(0.0) people(0.0) who(0.0) devoted(0.0) decades(0.0) of(0.0) selfless(0.0) effort(0.0) to(0.0) establish(0.0) the(0.0) Everglades(1.0) National(0.0) Park(0.0) ;(0.0) ((0.0) 
+D(0.0) )(0.0) when(0.0) the(0.0) water(0.0) supply(0.0) and(0.0) ecology(0.0) of(0.0) the(0.0) Everglades(0.0) ,(0.0) both(0.0) within(0.0) and(0.0) outside(0.0) the(0.0) park(0.0) became(0.0) threatened(0.0) 
+by(0.0) drainage(0.0) and(0.0) development(0.0) ,(0.0) Mrs.(0.0) Douglas(1.0) dedicated(0.0) the(0.0) balance(0.0) of(0.0) her(0.0) life(0.0) to(0.0) the(0.0) defense(1.0) of(0.0) the(0.0) Everglades(1.0) through(0.0) 
+extraordinary(0.0) personal(0.0) effort(0.0) and(0.0) by(0.0) inspiring(0.0) countless(0.0) other(0.0) people(0.0) to(0.0) take(0.0) action(0.0) ;(0.0) ((0.0) E(0.0) )(0.0) for(0.0) these(0.0) and(0.0) many(0.0) 
+other(0.0) accomplishments(0.0) ,(0.0) the(0.0) President(1.0) awarded(0.0) Mrs.(0.0) Douglas(1.0) the(0.0) Medal(0.0) of(0.0) Freedom(1.0) on(0.0) Earth(0.0) Day(0.0) ,(0.0) 1994(0.0) ;(0.0) and(0.0) ((0.0) 
+2(0.0) )(0.0) ((0.0) A(0.0) )(0.0) Ernest(0.0) F.(0.0) Coe(0.0) ((0.0) 1886-1951(0.0) )(0.0) was(0.0) a(0.0) leader(0.0) in(0.0) the(0.0) creation(0.0) of(0.0) Everglades(0.0) National(0.0) 
+Park(0.0) ;(0.0) ((0.0) B(0.0) )(0.0) Mr.(0.0) Coe(1.0) organized(0.0) the(0.0) Tropic(0.0) Everglades(0.0) National(0.0) Park(0.0) Association(0.0) in(0.0) 1928(0.0) and(0.0) was(0.0) widely(0.0) regarded(0.0) 
+as(0.0) the(0.0) father(0.0) of(0.0) Everglades(0.0) National(0.0) Park(0.0) ;(0.0) ((0.0) C(0.0) )(0.0) as(0.0) a(0.0) landscape(0.0) architect(0.0) ,(0.0) Mr.(0.0) Coe(1.0) 's(0.0) vision(0.0) 
+for(0.0) the(0.0) park(0.0) recognized(0.0) the(0.0) need(0.0) to(0.0) protect(0.0) south(0.0) Florida(0.0) 's(0.0) diverse(0.0) wildlife(0.0) and(0.0) habitats(0.0) for(0.0) future(0.0) generations(0.0) ;(0.0) ((0.0) 
+D(1.0) )(0.0) Mr.(0.0) Coe(1.0) 's(0.0) original(0.0) park(0.0) proposal(0.0) included(0.0) lands(0.0) and(0.0) waters(0.0) subsequently(0.0) protected(0.0) within(0.0) the(0.0) Everglades(0.0) National(0.0) Park(0.0) ,(0.0) 
+the(0.0) Big(0.0) Cypress(0.0) National(0.0) Preserve(0.0) ,(0.0) and(0.0) the(0.0) Florida(0.0) Keys(0.0) National(0.0) Marine(0.0) Sanctuary(0.0) ;(0.0) and(0.0) ((0.0) E(0.0) )(0.0) ((0.0) i(0.0) 
+)(0.0) Mr.(0.0) Coe(1.0) 's(0.0) leadership(0.0) ,(0.0) selfless(0.0) devotion(0.0) ,(0.0) and(0.0) commitment(0.0) to(0.0) achieving(0.0) his(0.0) vision(0.0) culminated(0.0) in(0.0) the(0.0) authorization(0.0) of(0.0) 
+the(0.0) Everglades(0.0) National(0.0) Park(0.0) by(0.0) Congress(0.0) in(0.0) 1934(0.0) ;(0.0) ((0.0) ii(0.0) )(0.0) after(0.0) authorization(0.0) of(0.0) the(0.0) park(0.0) ,(0.0) Mr.(0.0) Coe(1.0) 
+fought(1.0) tirelessly(1.0) and(0.0) lobbied(0.0) strenuously(1.0) for(0.0) establishment(0.0) of(0.0) the(0.0) park(0.0) ,(0.0) finally(0.0) realizing(0.0) his(0.0) dream(0.0) in(0.0) 1947(1.0) ;(0.0) and(0.0) ((0.0) 
+iii(0.0) )(0.0) Mr.(0.0) Coe(1.0) accomplished(1.0) much(0.0) of(0.0) the(0.0) work(0.0) described(0.0) in(0.0) this(0.0) paragraph(0.0) at(0.0) his(0.0) own(0.0) expense(0.0) ,(0.0) which(0.0) 
+
+
+----- below are rationale words -----
+
+(	931	
+Stoneman	Douglas	
+
+Stoneman	Douglas	
+
+Stoneman	Douglas	
+
+Douglas	
+ecosystem	
+ecosystem	health	Douglas	
+Everglades	
+
+Douglas	defense	Everglades	
+
+President	Douglas	Freedom	
+
+Coe	
+Coe	
+
+D	Coe	
+
+Coe	
+Coe	
+fought	tirelessly	strenuously	1947	
+Coe	accomplished	
+
+reads % = 0.064

@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) oppose(1.0) legalizing(1.0) marijuana(1.0) ,(0.0) but(0.0) I(0.0) support(0.0) this(0.0) amendment(1.0) .(0.0) Just(0.0) like(0.0) the(0.0) other(0.0) voters(1.0) in(0.0) California(1.0) ,(0.0) 
+I(0.0) do(0.0) not(0.0) see(0.0) why(0.0) we(0.0) should(0.0) prohibit(1.0) doctors(1.0) from(0.0) providing(0.0) for(0.0) pain(0.0) relief(1.0) for(0.0) their(0.0) patients(0.0) .(0.0) I(0.0) will(0.0) 
+talk(0.0) to(0.0) you(0.0) about(0.0) someone(0.0) I(0.0) knew(0.0) .(0.0) I(0.0) will(0.0) call(0.0) him(0.0) Mr.(0.0) X(1.0) .(0.0) He(0.0) had(0.0) terminal(0.0) cancer(0.0) ,(0.0) 
+and(0.0) he(0.0) could(0.0) not(0.0) eat(0.0) ,(0.0) and(0.0) the(0.0) only(0.0) thing(0.0) that(0.0) could(0.0) get(0.0) him(0.0) an(0.0) appetite(0.0) was(0.0) marijuana(1.0) .(0.0) Mr.(0.0) 
+X(1.0) ,(0.0) who(0.0) was(0.0) my(0.0) age(0.0) ,(0.0) had(0.0) to(0.0) go(0.0) out(0.0) and(0.0) buy(0.0) marijuana(1.0) illegally(1.0) .(0.0) It(0.0) was(0.0) so(0.0) horrible(0.0) 
+for(0.0) him(0.0) .(0.0) Why(0.0) should(0.0) we(0.0) force(0.0) the(0.0) indignity(1.0) on(0.0) terminal(0.0) cancer(1.0) patients(0.0) of(0.0) having(0.0) to(0.0) do(0.0) that(0.0) ?(0.0) That(0.0) 
+is(0.0) why(0.0) my(0.0) State(1.0) voted(0.0) to(0.0) allow(0.0) doctors(0.0) to(0.0) prescribe(0.0) marijuana(1.0) ,(0.0) so(0.0) that(0.0) cancer(1.0) patients(0.0) who(0.0) can(0.0) not(0.0) eat(0.0) 
+have(0.0) the(0.0) chance(0.0) to(0.0) get(0.0) some(0.0) nutrition(1.0) .(0.0) For(0.0) the(0.0) life(0.0) of(0.0) me(0.0) ,(0.0) I(0.0) can(0.0) not(0.0) understand(0.0) why(0.0) we(0.0) 
+would(0.0) interfere(0.0) with(0.0) that(0.0) ,(0.0) and(0.0) I(0.0) strongly(0.0) ,(0.0) strongly(0.0) urge(0.0) ,(0.0) on(0.0) behalf(1.0) of(0.0) all(0.0) cancer(1.0) patients(0.0) ,(0.0) please(0.0) 
+support(0.0) this(0.0) amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+oppose	legalizing	marijuana	amendment	voters	California	
+prohibit	doctors	relief	
+X	
+marijuana	
+X	marijuana	illegally	
+indignity	cancer	
+State	marijuana	cancer	
+nutrition	
+behalf	cancer	
+amendment	
+
+reads % = 0.12432432432432433

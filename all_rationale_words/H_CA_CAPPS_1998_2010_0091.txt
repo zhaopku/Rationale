@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) support(0.0) of(0.0) the(0.0) President's(0.0) executive(0.0) order(0.0) establishing(0.0) a(0.0) comprehensive(0.0) national(1.0) ocean(0.0) policy(0.0) .(0.0) Now(0.0) ,(0.0) 
+more(0.0) than(0.0) ever(0.0) ,(0.0) we(0.0) need(0.0) a(0.0) coordinated(0.0) approach(0.0) for(0.0) the(0.0) management(0.0) of(0.0) our(0.0) ocean(1.0) and(0.0) coastal(0.0) resources(0.0) .(0.0) The(0.0) 
+tragedy(1.0) in(0.0) the(0.0) gulf(1.0) is(0.0) a(0.0) wake-up(1.0) call(0.0) .(0.0) We(0.0) would(0.0) have(0.0) been(0.0) much(0.0) better(0.0) prepared(0.0) to(0.0) deal(0.0) with(0.0) this(0.0) 
+disaster(1.0) had(0.0) a(0.0) national(0.0) ocean(0.0) policy(0.0) been(0.0) in(0.0) place(0.0) before(0.0) the(0.0) spill(1.0) .(0.0) But(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) oil(0.0) spills(1.0) are(1.0) 
+just(0.0) one(0.0) threat(1.0) .(0.0) Overfishing(1.0) and(0.0) ocean(0.0) acidification(1.0) are(0.0) also(0.0) evidence(0.0) of(0.0) the(0.0) urgent(1.0) need(0.0) to(0.0) ensure(0.0) wise(0.0) stewardship(1.0) of(0.0) 
+our(0.0) coasts(1.0) ,(0.0) our(0.0) oceans(1.0) ,(0.0) and(0.0) the(0.0) Great(0.0) Lakes(0.0) .(0.0) In(0.0) the(0.0) gulf(1.0) and(0.0) around(0.0) the(0.0) country(1.0) ,(0.0) our(0.0) 
+communities(1.0) are(0.0) intimately(0.0) linked(0.0) to(0.0) healthy(1.0) coastal(1.0) oceanic(1.0) ecosystems(1.0) .(0.0) A(0.0) national(1.0) ocean(0.0) policy(1.0) will(0.0) make(0.0) our(0.0) oceans(1.0) healthier(1.0) and(0.0) 
+our(0.0) coastal(1.0) economy(1.0) stronger(0.0) .(0.0) It(0.0) will(0.0) strengthen(1.0) ocean(1.0) governance(1.0) and(0.0) coordination(1.0) .(0.0) It(0.0) will(0.0) bring(0.0) a(0.0) science-based(1.0) approach(0.0) to(0.0) 
+ocean(0.0) conservation(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) applaud(0.0) the(0.0) President(1.0) for(0.0) taking(0.0) this(0.0) historic(1.0) step(0.0) .(0.0) This(0.0) vision(0.0) of(0.0) healthy(1.0) 
+,(0.0) resilient(0.0) oceans(1.0) will(0.0) ensure(0.0) that(0.0) future(0.0) generations(0.0) can(0.0) share(0.0) in(0.0) the(0.0) wonders(0.0) of(0.0) our(0.0) cherished(1.0) seas(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+national	
+ocean	
+tragedy	gulf	wake-up	
+disaster	spill	Speaker	spills	are	
+threat	Overfishing	acidification	urgent	stewardship	
+coasts	oceans	gulf	country	
+communities	healthy	coastal	oceanic	ecosystems	national	policy	oceans	healthier	
+coastal	economy	strengthen	ocean	governance	coordination	science-based	
+conservation	Speaker	President	historic	healthy	
+oceans	cherished	seas	
+
+reads % = 0.21608040201005024

@@ -1,0 +1,40 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) this(0.0) conference(0.0) report(0.0) .(0.0) We(0.0) all(0.0) should(0.0) be(0.0) proud(0.0) of(0.0) the(0.0) bipartisan(1.0) ,(0.0) bicameral(1.0) 
+product(1.0) .(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) Chairman(0.0) Reyes(1.0) and(0.0) also(0.0) Ranking(0.0) Member(0.0) Hoekstra(1.0) for(0.0) your(0.0) leadership(0.0) in(0.0) helping(0.0) us(0.0) put(0.0) 
+this(0.0) together(0.0) .(0.0) It(0.0) 's(0.0) very(0.0) important(0.0) for(0.0) our(0.0) country(1.0) and(0.0) our(0.0) national(1.0) security(0.0) .(0.0) It(0.0) has(0.0) been(0.0) 3(0.0) years(0.0) 
+since(0.0) an(0.0) intelligence(0.0) authorization(0.0) bill(0.0) has(0.0) been(0.0) in(0.0) front(0.0) of(0.0) the(0.0) President(1.0) for(0.0) signature(0.0) .(0.0) We(0.0) worked(0.0) across(0.0) the(0.0) aisle(0.0) 
+with(0.0) our(0.0) Republican(1.0) counterparts(1.0) to(1.0) put(1.0) America(1.0) first(1.0) .(1.0) We(1.0) must(1.0) pass(1.0) this(1.0) conference(1.0) report(1.0) .(1.0) We(0.0) are(0.0) the(0.0) most(0.0) 
+powerful(0.0) country(1.0) in(0.0) the(0.0) world(0.0) because(0.0) we(0.0) control(0.0) the(0.0) skies(0.0) .(0.0) Our(0.0) country(1.0) faces(0.0) serious(0.0) threat(1.0) from(0.0) China(1.0) and(0.0) Russia(0.0) 
+.(0.0) These(0.0) countries(1.0) are(0.0) working(0.0) continuously(0.0) to(0.0) outpace(1.0) our(0.0) security(0.0) efforts(0.0) ,(0.0) particularly(0.0) in(0.0) space(0.0) .(0.0) This(0.0) intelligence(0.0) authorization(0.0) addresses(0.0) 
+those(0.0) ,(0.0) as(0.0) well(0.0) as(0.0) other(0.0) critical(0.0) national(1.0) security(0.0) issues(0.0) .(0.0) This(0.0) past(0.0) year(0.0) ,(0.0) we(0.0) have(0.0) scrutinized(0.0) all(0.0) aspects(0.0) 
+of(0.0) the(0.0) intelligence(0.0) community(0.0) and(0.0) insisted(0.0) upon(0.0) accountability(1.0) and(0.0) results(0.0) .(0.0) My(0.0) congressional(1.0) district(1.0) includes(0.0) the(0.0) National(0.0) Security(0.0) Agency(0.0) .(0.0) 
+The(0.0) men(0.0) and(0.0) women(0.0) of(0.0) the(0.0) NSA(0.0) work(0.0) tirelessly(0.0) to(0.0) keep(0.0) our(0.0) soldiers(0.0) and(0.0) our(0.0) civilians(1.0) on(0.0) the(0.0) the(0.0) front(0.0) 
+lines(0.0) safe(0.0) .(0.0) They(0.0) 're(0.0) fighting(1.0) the(0.0) war(1.0) on(0.0) terrorism(1.0) 24(0.0) hours(0.0) a(0.0) day(0.0) all(0.0) over(0.0) the(0.0) globe(0.0) .(0.0) I(0.0) 
+'m(0.0) proud(0.0) that(0.0) this(0.0) conference(0.0) report(0.0) gives(0.0) NSA(1.0) the(0.0) infrastructure(1.0) and(0.0) tools(0.0) they(0.0) need(0.0) to(0.0) protect(0.0) our(0.0) country(1.0) .(0.0) This(0.0) 
+conference(0.0) report(0.0) also(0.0) addresses(0.0) some(0.0) critical(0.0) satellite(0.0) issues(0.0) .(0.0) I(0.0) assure(0.0) you(0.0) this(0.0) Congress(1.0) is(0.0) looking(0.0) into(0.0) the(0.0) problems(0.0) associated(0.0) 
+with(0.0) the(0.0) space(0.0) industry(1.0) .(0.0) We(0.0) have(0.0) made(0.0) hard(0.0) decisions(0.0) .(0.0) We(0.0) 've(0.0) recommended(0.0) changes(0.0) ,(0.0) and(0.0) we(0.0) look(0.0) to(0.0) 
+hold(0.0) the(0.0) administration(1.0) accountable(1.0) in(0.0) the(0.0) days(0.0) ahead(0.0) .(0.0) I(0.0) support(0.0) this(0.0) conference(0.0) report(0.0) ,(0.0) and(0.0) I(0.0) recommend(0.0) its(0.0) passage(1.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+bipartisan	bicameral	
+product	Reyes	Hoekstra	
+country	national	
+President	
+Republican	counterparts	to	put	America	first	.	We	must	pass	this	conference	report	.	
+country	country	threat	China	
+countries	outpace	
+national	
+accountability	congressional	district	
+civilians	
+fighting	war	terrorism	
+NSA	infrastructure	country	
+Congress	
+industry	
+administration	accountable	passage	
+
+
+reads % = 0.1456953642384106

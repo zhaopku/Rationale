@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) life-saving(1.0) new(0.0) drugs(1.0) do(0.0) take(0.0) too(0.0) long(0.0) to(0.0) reach(0.0) the(0.0) people(0.0) who(0.0) need(0.0) them(0.0) .(0.0) From(0.0) my(0.0) district(0.0) 
+in(0.0) Montgomery(1.0) County(1.0) ,(0.0) PA(1.0) ,(0.0) I(0.0) have(0.0) heard(0.0) many(0.0) a(0.0) compelling(0.0) story(0.0) from(0.0) constituents(1.0) with(0.0) cancer(1.0) ,(0.0) A.L.S.(1.0) ,(0.0) 
+Lou(1.0) Gehrig(1.0) 's(0.0) disease(0.0) ,(0.0) epilepsy(0.0) ,(0.0) or(0.0) AIDS(1.0) ,(0.0) who(0.0) speak(0.0) of(0.0) the(0.0) difficulties(0.0) in(0.0) obtaining(0.0) these(0.0) life-saving(1.0) ,(0.0) 
+life-extending(1.0) drugs(1.0) .(0.0) They(0.0) need(0.0) them(0.0) because(0.0) the(0.0) approval(1.0) process(0.0) in(0.0) our(0.0) country(1.0) is(0.0) so(0.0) prolonged(0.0) and(0.0) ,(0.0) in(0.0) effect(1.0) 
+,(0.0) they(0.0) have(0.0) to(0.0) turn(0.0) to(0.0) other(0.0) countries(0.0) where(0.0) the(0.0) products(0.0) are(0.0) available(0.0) .(0.0) Is(0.0) it(0.0) not(0.0) ironic(0.0) that(0.0) most(0.0) 
+of(0.0) the(0.0) life-saving(1.0) drugs(1.0) that(0.0) are(0.0) produced(0.0) in(0.0) the(0.0) world(0.0) are(0.0) produced(0.0) here(0.0) in(0.0) the(0.0) United(0.0) Stats(0.0) ,(0.0) but(0.0) our(0.0) 
+patients(0.0) and(0.0) our(0.0) constituents(1.0) are(0.0) the(0.0) last(0.0) to(0.0) receive(0.0) them(0.0) because(0.0) of(0.0) over-regulation(1.0) and(0.0) delays(1.0) in(0.0) the(0.0) system(0.0) which(0.0) can(0.0) 
+be(0.0) cleared(0.0) up(0.0) .(0.0) Do(0.0) not(0.0) get(0.0) me(0.0) wrong(0.0) .(0.0) The(0.0) Food(1.0) and(0.0) Drug(1.0) Administration(1.0) serves(0.0) a(0.0) valuable(0.0) purpose(0.0) in(0.0) 
+maintaining(0.0) high(0.0) safety(0.0) and(0.0) efficacy(0.0) standards(0.0) .(0.0) However(0.0) ,(0.0) it(0.0) is(0.0) important(0.0) to(0.0) note(0.0) that(0.0) the(0.0) FDA(1.0) 's(0.0) actions(0.0) directly(0.0) 
+affect(0.0) the(0.0) lives(0.0) of(0.0) patients(0.0) and(0.0) the(0.0) ability(0.0) of(0.0) physicians(1.0) to(0.0) provide(0.0) state-(0.0) of-the-art(1.0) care(0.0) for(0.0) their(0.0) patients(0.0) .(0.0) What(0.0) 
+we(0.0) need(0.0) to(0.0) have(0.0) is(0.0) a(0.0) speeded(0.0) up(0.0) process(0.0) to(0.0) approve(1.0) or(0.0) disapprove(0.0) drugs(1.0) so(0.0) that(0.0) the(0.0) investments(1.0) made(0.0) by(0.0) 
+biotech(1.0) and(0.0) pharmaceutical(1.0) companies(1.0) can(0.0) result(0.0) in(0.0) having(0.0) saved(0.0) lives(0.0) and(0.0) the(0.0) quality(0.0) of(0.0) those(0.0) lives(0.0) extended(0.0) for(0.0) many(0.0) years(0.0) 
+to(0.0) come(0.0) .(0.0) In(0.0) addition(0.0) ,(0.0) the(0.0) FDA(1.0) regulates(1.0) businesses(1.0) that(0.0) produce(0.0) 25(0.0) percent(0.0) of(0.0) America(1.0) 's(0.0) gross(0.0) national(1.0) product(0.0) 
+,(0.0) so(0.0) the(0.0) agency(0.0) 's(0.0) actions(0.0) also(0.0) impact(0.0) on(0.0) our(0.0) country(1.0) 's(0.0) economic(1.0) well-being(0.0) .(0.0) The(0.0) United(0.0) States(0.0) is(0.0) far(0.0) 
+and(0.0) away(0.0) the(0.0) world(0.0) leader(0.0) in(0.0) pharmaceutical(1.0) and(0.0) biotech(1.0) discovery(0.0) ,(0.0) but(0.0) many(0.0) firms(1.0) are(0.0) moving(0.0) clinical(0.0) trials(0.0) overseas(0.0) because(0.0) 
+of(0.0) needless(1.0) trends(1.0) that(0.0) do(0.0) not(0.0) bode(0.0) well(0.0) for(0.0) the(0.0) economic(1.0) future(0.0) of(0.0) the(0.0) United(0.0) States(0.0) .(0.0) This(0.0) can(0.0) all(0.0) 
+be(0.0) changed(0.0) by(0.0) legislation(1.0) ;(0.0) by(0.0) making(0.0) sure(0.0) that(0.0) we(0.0) speed(0.0) up(0.0) the(0.0) process(0.0) of(0.0) FDA(1.0) approval(0.0) so(0.0) that(0.0) our(0.0) 
+constituents(1.0) will(0.0) have(0.0) the(0.0) benefit(1.0) of(0.0) these(0.0) life-extending(1.0) and(0.0) live-saving(1.0) drugs(1.0) .(0.0) In(0.0) my(0.0) 13th(0.0) Congressional(0.0) District(1.0) of(0.0) Pennsylvania(1.0) alone(0.0) 
+,(0.0) we(0.0) have(0.0) 10(0.0) facilities(0.0) of(0.0) 4(0.0) major(0.0) pharmaceutical(1.0) companies(1.0) that(0.0) employ(0.0) 11,000(0.0) people(0.0) .(0.0) Here(0.0) they(0.0) are(0.0) at(0.0) work(0.0) 
+very(0.0) hard(0.0) every(0.0) day(0.0) to(0.0) make(0.0) sure(0.0) that(0.0) we(0.0) save(0.0) lives(0.0) and(0.0) improve(0.0) those(0.0) lives(0.0) .(0.0) I(0.0) would(0.0) not(0.0) want(0.0) 
+to(0.0) see(0.0) any(0.0) of(0.0) those(0.0) companies(0.0) or(0.0) constituents(0.0) lost(0.0) their(0.0) jobs(0.0) because(0.0) FDA(1.0) regulation(1.0) is(0.0) so(0.0) overburdened(1.0) and(0.0) so(0.0) over-regulated(1.0) 
+that(0.0) we(0.0) delay(0.0) ,(0.0) in(0.0) fact(0.0) ,(0.0) the(0.0) service(0.0) and(0.0) the(0.0) medical(0.0) care(0.0) for(0.0) our(0.0) constituents(1.0) .(0.0) Americans(1.0) want(0.0) safe(0.0) 
+medicines(1.0) .(0.0) They(0.0) want(0.0) a(0.0) strong(0.0) FDA(0.0) that(0.0) will(0.0) keep(0.0) unsafe(1.0) products(0.0) off(0.0) the(0.0) market(0.0) .(0.0) But(0.0) they(0.0) also(0.0) want(0.0) 
+to(0.0) see(0.0) more(0.0) emphasis(0.0) on(0.0) quicker(0.0) access(0.0) to(0.0) medicines(1.0) ,(0.0) faster(0.0) clinical(0.0) trials(0.0) ,(0.0) and(0.0) the(0.0) delivery(0.0) of(0.0) those(0.0) services(0.0) 
+and(0.0) devices(0.0) to(0.0) them(0.0) .(0.0) That(0.0) is(0.0) why(0.0) I(0.0) am(0.0) introducing(0.0) ,(0.0) working(0.0) with(0.0) colleagues(0.0) on(0.0) both(0.0) sides(0.0) of(0.0) 
+
+
+----- below are rationale words -----
+
+life-saving	drugs	
+Montgomery	County	PA	constituents	cancer	A.L.S.	
+Lou	Gehrig	AIDS	life-saving	
+life-extending	drugs	approval	country	effect	
+
+life-saving	drugs	
+constituents	over-regulation	delays	
+Food	Drug	Administration	
+FDA	
+physicians	of-the-art	
+approve	drugs	investments	
+biotech	pharmaceutical	companies	
+FDA	regulates	businesses	America	national	
+country	economic	
+pharmaceutical	biotech	firms	
+needless	trends	economic	
+legislation	FDA	
+constituents	benefit	life-extending	live-saving	drugs	District	Pennsylvania	
+pharmaceutical	companies	
+
+FDA	regulation	overburdened	over-regulated	
+constituents	Americans	
+medicines	unsafe	
+medicines	
+
+
+reads % = 0.134

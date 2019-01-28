@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) this(0.0) week(0.0) has(0.0) seen(0.0) only(0.0) fragmented(0.0) progress(0.0) toward(0.0) ending(1.0) the(0.0) war(1.0) in(0.0) Chechnya(1.0) .(0.0) It(0.0) is(0.0) my(0.0) hope(0.0) when(0.0) 
+President(0.0) Yeltsin(1.0) gives(0.0) his(0.0) State(0.0) of(0.0) the(0.0) Union(0.0) Address(0.0) tomorrow(0.0) ,(0.0) he(0.0) will(0.0) define(0.0) a(0.0) clear(0.0) strategy(0.0) to(0.0) end(0.0) the(0.0) 
+Chechen(1.0) conflict(0.0) .(0.0) We(0.0) must(0.0) do(0.0) all(0.0) we(0.0) can(0.0) to(0.0) pressure(0.0) President(0.0) Yeltsin(1.0) to(0.0) end(0.0) this(0.0) costly(1.0) and(0.0) potentially(0.0) protracted(1.0) 
+guerrilla(1.0) war(1.0) .(0.0) We(0.0) have(0.0) invested(0.0) a(0.0) great(0.0) deal(0.0) in(0.0) promoting(1.0) democracy(1.0) in(0.0) Russia(1.0) ,(0.0) and(0.0) as(0.0) long(0.0) as(0.0) the(0.0) 
+U.S.(0.0) continues(0.0) to(0.0) provide(0.0) aid(1.0) to(0.0) Russia(1.0) ,(0.0) we(0.0) have(0.0) an(0.0) obligation(1.0) to(0.0) ensure(0.0) that(0.0) Russia(0.0) continues(0.0) along(0.0) this(0.0) course(0.0) 
+of(0.0) reform(1.0) .(0.0) The(0.0) war(1.0) in(0.0) Chechnya(1.0) certainly(0.0) undermines(1.0) these(0.0) efforts(1.0) ,(0.0) as(0.0) the(0.0) Russians(1.0) have(0.0) spent(0.0) over(0.0) $(0.0) 2(0.0) 
+billion(1.0) in(0.0) 8(0.0) weeks(0.0) .(0.0) Future(0.0) IMF(1.0) loans(1.0) seem(0.0) unlikely(0.0) .(0.0) Please(0.0) join(0.0) me(0.0) and(0.0) Representative(1.0) Wolf(1.0) in(0.0) sending(0.0) a(0.0) 
+letter(0.0) to(0.0) President(0.0) Clinton(1.0) urging(1.0) him(0.0) not(0.0) to(0.0) attend(0.0) the(0.0) Moscow(0.0) summit(0.0) in(0.0) May(0.0) unless(0.0) the(0.0) Chechen(1.0) war(0.0) is(0.0) ended(0.0) 
+.(0.0) Over(0.0) 56(0.0) Representatives(0.0) have(0.0) already(0.0) signed(0.0) this(0.0) letter(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+ending	war	Chechnya	
+Yeltsin	
+Chechen	Yeltsin	costly	protracted	
+guerrilla	war	promoting	democracy	Russia	
+aid	Russia	obligation	
+reform	war	Chechnya	undermines	efforts	Russians	
+billion	IMF	loans	Representative	Wolf	
+Clinton	urging	Chechen	
+
+
+reads % = 0.17543859649122806

@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+We(0.0) 're(0.0) going(0.0) to(0.0) be(0.0) running(0.0) out(0.0) of(0.0) time(0.0) and(0.0) I(0.0) 'm(0.0) going(0.0) to(0.0) give(0.0) you(0.0) a(0.0) brief(0.0) response(0.0) to(0.0) that(0.0) 
+.(0.0) When(0.0) I(0.0) was(0.0) in(0.0) the(0.0) Navy(1.0) ,(0.0) I(0.0) had(0.0) a(0.0) friend(0.0) who(0.0) was(0.0) an(0.0) OB-GYN(0.0) who(0.0) specifically(0.0) refused(0.0) to(0.0) 
+do(0.0) abortions(1.0) .(0.0) He(0.0) said(0.0) it(0.0) was(0.0) against(0.0) his(0.0) conscience(1.0) .(0.0) He(0.0) retired(0.0) and(0.0) went(0.0) into(0.0) the(0.0) local(0.0) town(0.0) nearby(0.0) 
+to(0.0) go(0.0) into(0.0) practice(0.0) and(0.0) his(0.0) practice(0.0) began(0.0) a(0.0) little(0.0) slow(0.0) and(0.0) soon(0.0) within(0.0) months(0.0) he(0.0) became(0.0) the(0.0) most(0.0) prolific(0.0) 
+abortionist(1.0) in(0.0) town(0.0) .(0.0) So(0.0) in(0.0) answer(0.0) to(0.0) your(0.0) question(0.0) ,(0.0) the(0.0) reason(0.0) why(0.0) so(0.0) many(0.0) people(0.0) ,(0.0) or(0.0) those(0.0) 
+who(0.0) have(0.0) done(0.0) it(0.0) in(0.0) the(0.0) past(0.0) have(0.0) done(0.0) it(0.0) ,(0.0) it(0.0) 's(0.0) obvious(0.0) .(0.0) It's(0.0) money(0.0) .(0.0) It(0.0) 's(0.0) 
+a(0.0) very(0.0) lucrative(0.0) trade(1.0) .(0.0) But(0.0) on(0.0) the(0.0) other(0.0) hand(0.0) in(0.0) the(0.0) medical(0.0) communities(0.0) ,(0.0) in(0.0) the(0.0) communities(1.0) at(0.0) large(0.0) 
+,(0.0) there(0.0) 's(0.0) been(0.0) tremendous(0.0) social(0.0) pressure(0.0) against(0.0) that(0.0) .(0.0) As(0.0) a(0.0) result(0.0) ,(0.0) I(0.0) think(0.0) many(0.0) have(0.0) decided(0.0) it(0.0) 
+is(0.0) n't(0.0) worth(0.0) the(0.0) money(1.0) .(0.0) This(0.0) has(0.0) been(0.0) a(0.0) wonderful(0.0) hour(0.0) .(0.0) I(0.0) do(0.0) thank(0.0) my(0.0) colleagues(0.0) for(0.0) visiting(0.0) 
+and(0.0) adding(0.0) so(0.0) many(0.0) wonderful(0.0) comments(0.0) .(0.0) We(0.0) could(0.0) spend(1.0) another(0.0) couple(0.0) of(0.0) hours(0.0) on(0.0) this(0.0) .(0.0) With(0.0) that(0.0) ,(0.0) 
+I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Navy	
+abortions	conscience	
+
+abortionist	
+
+trade	communities	
+
+money	
+spend	
+
+
+reads % = 0.0380952380952381

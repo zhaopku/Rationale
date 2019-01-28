@@ -1,0 +1,24 @@
+This is from a Democrat
+----- below is the original text -----
+The(0.0) strength(0.0) of(0.0) our(0.0) Nation(1.0) ,(0.0) a(0.0) nation(1.0) built(0.0) on(0.0) immigrants(1.0) ,(0.0) is(0.0) that(0.0) the(0.0) best(0.0) ,(0.0) brightest(0.0) ,(0.0) and(0.0) hardest(0.0) 
+working(0.0) from(0.0) across(0.0) the(0.0) world(0.0) want(0.0) to(0.0) move(0.0) here(0.0) .(0.0) The(0.0) countries(0.0) that(0.0) have(0.0) a(0.0) bigger(0.0) problem(0.0) today(0.0) are(0.0) those(0.0) 
+that(0.0) are(0.0) losing(0.0) those(0.0) people(0.0) --(0.0) not(0.0) us(0.0) ,(0.0) the(0.0) country(1.0) that(0.0) stands(0.0) to(0.0) gain(0.0) some(0.0) of(0.0) the(0.0) best(0.0) ,(0.0) 
+most(0.0) highly(0.0) motivated(0.0) and(0.0) talented(0.0) people(0.0) from(0.0) across(0.0) the(0.0) world(0.0) ,(0.0) just(0.0) as(0.0) my(0.0) great-grandparents(0.0) came(0.0) to(0.0) these(0.0) shores(0.0) to(0.0) 
+make(0.0) our(0.0) country(1.0) stronger(0.0) .(0.0) I(0.0) know(0.0) that(0.0) ,(0.0) by(0.0) working(0.0) together(0.0) ,(0.0) we(0.0) can(0.0) accomplish(0.0) that(0.0) .(0.0) Have(0.0) you(0.0) 
+ever(0.0) seen(0.0) the(0.0) unprecedented(1.0) degree(0.0) of(0.0) coalition(1.0) behind(0.0) immigration(1.0) reform(1.0) ?(0.0) Have(0.0) you(0.0) ever(0.0) seen(0.0) agriculture(1.0) ,(0.0) the(0.0) faith-based(1.0) community(0.0) 
+,(0.0) and(0.0) the(0.0) business(0.0) community(0.0) --(0.0) and(0.0) labor(1.0) and(0.0) business(0.0) together(0.0) --(0.0) on(0.0) an(0.0) issue(0.0) in(0.0) your(0.0) time(0.0) in(0.0) public(1.0) 
+service(0.0) or(0.0) before(0.0) ?(0.0) Have(0.0) you(0.0) ever(0.0) seen(0.0) that(0.0) on(0.0) an(0.0) issue(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+Nation	nation	immigrants	
+
+country	
+
+country	
+unprecedented	coalition	immigration	reform	agriculture	faith-based	
+labor	public	
+
+
+reads % = 0.08441558441558442

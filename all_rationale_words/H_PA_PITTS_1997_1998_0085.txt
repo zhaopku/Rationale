@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) for(0.0) 7(0.0) months(0.0) ,(0.0) Americans(0.0) have(0.0) been(0.0) wondering(0.0) why(0.0) there(0.0) is(0.0) a(0.0) deafening(0.0) silence(0.0) from(0.0) the(0.0) feminist(1.0) organizations(1.0) in(0.0) 
+Washington(1.0) .(0.0) Despite(0.0) their(0.0) loud(0.0) and(0.0) organized(0.0) opposition(1.0) to(0.0) the(0.0) allegations(1.0) against(0.0) Justice(1.0) Clarence(0.0) Thomas(0.0) ,(0.0) their(0.0) outrage(1.0) at(0.0) Senator(0.0) 
+Packwood(1.0) ,(0.0) nary(0.0) a(0.0) word(0.0) was(0.0) said(0.0) about(0.0) activity(0.0) in(0.0) the(0.0) White(1.0) House(0.0) .(0.0) But(0.0) look(0.0) at(0.0) the(0.0) headlines(0.0) .(0.0) 
+The(0.0) feminists(1.0) have(0.0) finally(0.0) found(0.0) their(0.0) tongues(0.0) and(0.0) they(0.0) support(0.0) the(0.0) President(1.0) .(0.0) In(0.0) fact(0.0) ,(0.0) they(0.0) are(0.0) proud(0.0) of(0.0) 
+him(0.0) .(0.0) Barbara(0.0) Laden(1.0) ,(0.0) of(0.0) the(0.0) Independent(0.0) Women(1.0) 's(0.0) Forum(0.0) ,(0.0) charges(0.0) that(0.0) the(0.0) left-(0.0) wing(0.0) feminist(1.0) groups(0.0) are(0.0) 
+,(0.0) ``(0.0) willing(0.0) to(0.0) sell(0.0) out(0.0) the(0.0) real(0.0) interest(0.0) of(0.0) women(1.0) to(0.0) play(0.0) partisan(1.0) politics(1.0) .(0.0) It(0.0) is(0.0) an(0.0) embarrassment(1.0) 
+.(0.0) They're(0.0) actually(0.0) betraying(0.0) feminism(1.0) ,(0.0) ''(0.0) she(0.0) says(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) misbehavior(0.0) ,(0.0) whether(0.0) by(0.0) the(0.0) left(0.0) or(0.0) 
+right(0.0) ,(0.0) is(0.0) wrong(0.0) .(0.0) I(0.0) am(0.0) sorry(0.0) to(0.0) see(0.0) that(0.0) so-called(1.0) feminist(1.0) leaders(0.0) can(0.0) not(0.0) find(0.0) their(0.0) moral(1.0) outrage(1.0) 
+when(0.0) the(0.0) offense(1.0) is(0.0) on(0.0) the(0.0) left(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+feminist	organizations	
+Washington	opposition	allegations	Justice	outrage	
+Packwood	White	
+feminists	President	
+Laden	Women	feminist	
+women	partisan	politics	embarrassment	
+feminism	Speaker	
+so-called	feminist	moral	outrage	
+offense	
+
+reads % = 0.14792899408284024

@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) today(0.0) is(0.0) a(0.0) sad(0.0) day(0.0) in(0.0) the(0.0) United(0.0) States(0.0) Capitol(0.0) .(0.0) The(0.0) murder(1.0) of(0.0) two(0.0) U.S.(0.0) Capitol(0.0) Policemen(1.0) last(0.0) 
+Friday(0.0) was(0.0) a(0.0) tragedy(0.0) that(0.0) words(0.0) can(0.0) not(0.0) convey(0.0) .(0.0) As(0.0) legislators(0.0) in(0.0) the(0.0) U.S.(0.0) Congress(0.0) ,(0.0) we(0.0) are(0.0) committed(1.0) 
+to(0.0) making(0.0) laws(1.0) to(0.0) protect(1.0) the(0.0) people(0.0) and(0.0) create(0.0) a(0.0) more(0.0) peaceful(0.0) society(1.0) for(0.0) all(0.0) Americans(1.0) .(0.0) Today(0.0) we(0.0) gather(0.0) 
+in(0.0) this(0.0) Chamber(0.0) to(0.0) recognize(0.0) the(0.0) supreme(0.0) sacrifice(0.0) that(0.0) those(0.0) who(0.0) are(0.0) sworn(0.0) to(0.0) protect(0.0) this(0.0) institution(1.0) may(0.0) be(0.0) called(0.0) 
+upon(0.0) to(0.0) make(0.0) .(0.0) Officer(0.0) Jacob(0.0) Chestnut(1.0) and(0.0) Special(0.0) Agent(0.0) John(0.0) Gibson(1.0) are(0.0) heroes(0.0) who(0.0) gave(0.0) their(0.0) lives(0.0) to(0.0) protect(0.0) 
+this(0.0) institution(1.0) .(0.0) I(0.0) join(0.0) my(0.0) colleagues(0.0) in(0.0) saluting(1.0) these(0.0) fallen(0.0) officers(0.0) --(0.0) history(0.0) will(0.0) forever(0.0) record(0.0) the(0.0) last(0.0) acts(0.0) 
+of(0.0) heroism(1.0) to(0.0) two(0.0) of(0.0) the(0.0) Capitol(0.0) 's(0.0) Finest(1.0) .(0.0) My(0.0) thoughts(0.0) and(0.0) prayers(0.0) are(0.0) with(0.0) the(0.0) families(0.0) of(0.0) Officer(0.0) 
+Chestnut(0.0) and(0.0) Agent(0.0) Gibson(0.0) .(0.0) May(0.0) time(0.0) ease(0.0) the(0.0) burden(1.0) of(0.0) their(0.0) loss(0.0) and(0.0) bring(0.0) peace(1.0) and(0.0) understanding(0.0) to(0.0) all(0.0) 
+who(0.0) have(0.0) shared(0.0) the(0.0) sorrow(0.0) of(0.0) their(0.0) untimely(0.0) passing(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+murder	Policemen	
+committed	
+laws	protect	society	Americans	
+institution	
+Chestnut	Gibson	
+institution	saluting	
+heroism	Finest	
+burden	peace	
+
+
+reads % = 0.0935672514619883

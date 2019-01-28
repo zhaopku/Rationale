@@ -1,0 +1,10 @@
+This is from a Democrat
+----- below is the original text -----
+Let(0.0) me(0.0) now(0.0) yield(0.0) 2(0.0) minutes(1.0) to(0.0) the(0.0) gentlewoman(0.0) from(0.0) Texas(0.0) ((0.0) Ms.(1.0) Jackson(1.0) Lee(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+minutes	Ms.	Jackson	Lee	
+
+reads % = 0.23529411764705882

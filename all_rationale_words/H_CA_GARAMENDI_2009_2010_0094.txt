@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+A(0.0) moment(0.0) ago(0.0) ,(0.0) I(0.0) asked(0.0) ,(0.0) Madam(0.0) Speaker(1.0) ,(0.0) if(0.0) we(0.0) could(0.0) focus(0.0) on(0.0) the(0.0) issue(0.0) before(0.0) us(0.0) ,(0.0) which(0.0) 
+is(0.0) certainly(0.0) a(0.0) meritorious(0.0) issue(0.0) .(0.0) But(0.0) apparently(0.0) our(0.0) colleagues(0.0) from(0.0) the(0.0) Republican(1.0) Party(1.0) want(1.0) to(1.0) debate(1.0) health(1.0) care(1.0) so(1.0) 
+,(1.0) okay(1.0) ,(1.0) guys(1.0) ,(1.0) let(1.0) 's(1.0) debate(1.0) health(1.0) care(1.0) .(1.0) A(1.0) moment(1.0) ago(1.0) ,(1.0) the(0.0) speaker(0.0) from(0.0) wherever(0.0) you(0.0) 
+were(0.0) from(0.0) spoke(0.0) about(0.0) somehow(0.0) limiting(0.0) the(0.0) MRIs(1.0) .(0.0) You(0.0) are(0.0) absolutely(0.0) right(0.0) .(0.0) The(0.0) legislation(1.0) does(0.0) limit(1.0) MRIs(1.0) that(0.0) 
+are(0.0) ordered(0.0) by(0.0) a(0.0) doctor(0.0) that(0.0) owns(0.0) the(0.0) MRI(0.0) machine(0.0) .(0.0) There(0.0) is(0.0) blatant(1.0) fraud(1.0) going(0.0) on(0.0) ,(0.0) and(0.0) there(0.0) 
+'s(0.0) blatant(1.0) overuse(1.0) and(0.0) payments(1.0) by(0.0) the(0.0) taxpayers(1.0) to(0.0) the(0.0) Medicare(1.0) and(0.0) Medicaid(1.0) program(1.0) as(0.0) a(0.0) result(0.0) of(0.0) physician-owned(1.0) practices(0.0) 
+,(0.0) pharmaceuticals(1.0) ,(0.0) pharmacies(1.0) ,(0.0) as(0.0) well(0.0) as(0.0) the(0.0) MRIs(1.0) and(0.0) hospitals(1.0) ,(0.0) and(0.0) this(0.0) legislation(1.0) does(0.0) limit(1.0) it(0.0) .(0.0) 
+You(0.0) 're(0.0) quite(0.0) right(0.0) .(0.0) We(0.0) must(0.0) limit(1.0) that(0.0) kind(0.0) of(0.0) overuse(1.0) .(0.0) I(0.0) 've(0.0) been(0.0) at(0.0) this(0.0) a(0.0) long(0.0) 
+time(0.0) .(0.0) I(0.0) was(0.0) the(0.0) chairman(0.0) of(0.0) the(0.0) health(1.0) committee(0.0) in(0.0) California(1.0) in(0.0) the(0.0) 1980s(1.0) when(0.0) we(0.0) limited(0.0) it(0.0) .(0.0) 
+I(0.0) was(0.0) the(0.0) insurance(1.0) commissioner(0.0) .(0.0) I(0.0) 've(0.0) seen(0.0) these(0.0) pernicious(1.0) practices(1.0) over(0.0) and(0.0) over(0.0) .(0.0) Announcement(0.0) by(0.0) the(0.0) Speaker(0.0) 
+Pro(0.0) Tempore(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	
+Republican	Party	want	to	debate	health	care	so	
+,	okay	,	guys	,	let	's	debate	health	care	.	A	moment	ago	,	
+MRIs	legislation	limit	MRIs	
+blatant	fraud	
+blatant	overuse	payments	taxpayers	Medicare	Medicaid	program	physician-owned	
+pharmaceuticals	pharmacies	MRIs	hospitals	legislation	limit	
+limit	overuse	
+health	California	1980s	
+insurance	pernicious	practices	
+
+
+reads % = 0.2561576354679803

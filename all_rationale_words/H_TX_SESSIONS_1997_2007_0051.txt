@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) do(0.0) recognize(0.0) that(0.0) from(0.0) time(0.0) to(0.0) time(0.0) as(0.0) we(0.0) do(0.0) these(0.0) rules(1.0) that(0.0) people(0.0) do(0.0) come(0.0) down(0.0) .(0.0) The(0.0) gentleman(0.0) 
+who(0.0) is(0.0) asking(0.0) to(0.0) speak(0.0) is(0.0) a(0.0) member(0.0) of(0.0) the(0.0) Rules(0.0) Committee(0.0) ,(0.0) and(0.0) based(0.0) upon(0.0) that(0.0) request(0.0) ,(0.0) I(0.0) 
+consent(0.0) and(0.0) agree(0.0) ,(0.0) and(0.0) I(0.0) welcome(0.0) the(0.0) gentleman(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+rules	
+
+
+
+reads % = 0.0196078431372549

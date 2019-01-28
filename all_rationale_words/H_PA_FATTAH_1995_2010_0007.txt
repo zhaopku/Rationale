@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Some(0.0) 34(0.0) of(0.0) our(0.0) States(0.0) have(0.0) seen(0.0) job(0.0) increases(0.0) .(0.0) The(0.0) American(0.0) economy(1.0) is(0.0) on(0.0) the(0.0) move(0.0) .(0.0) We(0.0) saw(0.0) in(0.0) 
+last(0.0) month(0.0) 's(0.0) job(0.0) numbers(0.0) some(0.0) 290,000(0.0) additional(0.0) jobs(0.0) added(0.0) to(0.0) our(0.0) economy(1.0) ,(0.0) in(0.0) part(0.0) because(0.0) of(0.0) the(0.0) work(0.0) 
+of(0.0) the(0.0) majority(1.0) here(0.0) in(0.0) the(0.0) House(0.0) .(0.0) Unfortunately(0.0) ,(0.0) with(0.0) not(0.0) one(0.0) Republican(0.0) vote(1.0) ,(1.0) we(1.0) passed(1.0) important(1.0) programs(1.0) 
+like(0.0) the(0.0) Energy(0.0) Efficiency(1.0) Block(1.0) Grants(1.0) --(1.0) some(0.0) $(0.0) 3.2(0.0) billion(1.0) toward(0.0) an(0.0) effort(1.0) that(0.0) has(0.0) over(0.0) 1,000(0.0) of(0.0) our(0.0) 
+communities(1.0) retrofitting(1.0) public(0.0) buildings(0.0) and(0.0) installing(0.0) energy-efficient(1.0) light(0.0) bulbs(0.0) .(0.0) We're(0.0) doing(0.0) the(0.0) work(0.0) that(0.0) needs(0.0) to(0.0) be(0.0) done(0.0) to(0.0) 
+cut(1.0) our(0.0) dependence(1.0) on(0.0) foreign(1.0) sources(0.0) of(0.0) energy(1.0) ,(0.0) and(0.0) we(0.0) 're(0.0) also(0.0) doing(0.0) the(0.0) work(0.0) that(0.0) America(1.0) needs(0.0) done(0.0) 
+.(0.0) So(0.0) this(0.0) economic(1.0) recovery(1.0) ,(0.0) even(0.0) as(0.0) others(0.0) seem(0.0) to(0.0) root(0.0) against(0.0) our(0.0) economy(1.0) ,(0.0) is(0.0) moving(0.0) forward(0.0) .(0.0) 
+The(0.0) gross(1.0) domestic(1.0) product(0.0) has(0.0) seen(0.0) an(0.0) almost(0.0) 12-point(0.0) reversal(1.0) from(0.0) a(0.0) 6-point(0.0) decline(1.0) to(0.0) a(0.0) 6(0.0) percent(0.0) increase(1.0) and(0.0) 
+,(0.0) in(0.0) the(0.0) last(0.0) quarter(0.0) ,(0.0) a(0.0) 3.9(0.0) percent(0.0) increase(1.0) ,(0.0) and(0.0) purchasing(0.0) is(0.0) up(0.0) .(0.0) We(0.0) are(0.0) on(0.0) the(0.0) 
+move(0.0) ,(0.0) and(0.0) Americans(1.0) all(0.0) across(0.0) our(0.0) country(1.0) can(0.0) be(0.0) grateful(0.0) that(0.0) there(0.0) are(0.0) people(0.0) in(0.0) this(0.0) Congress(0.0) who(0.0) would(0.0) 
+rather(0.0) light(0.0) a(0.0) candle(0.0) than(0.0) continue(0.0) to(0.0) curse(0.0) the(0.0) darkness(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+economy	
+economy	
+majority	vote	,	we	passed	important	programs	
+Efficiency	Block	Grants	--	billion	effort	
+communities	retrofitting	energy-efficient	
+cut	dependence	foreign	energy	America	
+economic	recovery	economy	
+gross	domestic	reversal	decline	increase	
+increase	
+Americans	country	
+
+
+reads % = 0.16037735849056603

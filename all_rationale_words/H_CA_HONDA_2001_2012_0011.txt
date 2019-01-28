@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) yield(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) to(0.0) our(0.0) closer(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Arizona(0.0) ,(0.0) the(0.0) great(0.0) Raul(0.0) Grijalva(1.0) .(0.0) 
+The(0.0) Acting(0.0) CHAIR(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) Arizona(1.0) is(0.0) recognized(0.0) for(0.0) 2\1/4\(0.0) minutes(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Grijalva	
+Arizona	
+
+reads % = 0.05714285714285714

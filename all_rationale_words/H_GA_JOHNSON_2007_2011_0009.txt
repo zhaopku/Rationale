@@ -1,0 +1,44 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) appreciate(0.0) the(0.0) historical(0.0) account(0.0) that(0.0) was(0.0) just(0.0) delivered(0.0) by(0.0) my(0.0) colleague(0.0) on(0.0) the(0.0) Judiciary(1.0) Committee(0.0) ,(0.0) former(0.0) Chairman(0.0) 
+Sensenbrenner(1.0) ,(0.0) and(0.0) I(0.0) have(0.0) abundant(0.0) respect(0.0) and(0.0) admiration(0.0) for(0.0) him(0.0) and(0.0) his(0.0) motives(0.0) and(0.0) his(0.0) desire(0.0) to(0.0) protect(0.0) the(0.0) 
+civil(1.0) rights(1.0) that(0.0) we(0.0) all(0.0) hold(0.0) dear(0.0) .(0.0) But(0.0) I(0.0) find(0.0) it(0.0) disturbing(0.0) that(0.0) today(0.0) we(0.0) 're(0.0) going(0.0) to(0.0) start(0.0) 
+out(0.0) on(0.0) a(0.0) 9\1/2\-hour(0.0) debate(1.0) on(0.0) a(0.0) meaningless(0.0) ,(0.0) redundant(0.0) measure(1.0) that(0.0) simply(0.0) instructs(0.0) Congress(0.0) and(0.0) its(0.0) committees(0.0) to(0.0) review(0.0) 
+regulations(0.0) and(0.0) we(0.0) could(0.0) be(0.0) spending(1.0) that(0.0) time(0.0) dealing(0.0) with(0.0) such(0.0) a(0.0) very(0.0) important(0.0) ,(0.0) serious(0.0) issue(0.0) such(0.0) as(0.0) reauthorization(1.0) 
+of(0.0) this(0.0) so-(0.0) called(0.0) Patriot(1.0) Act(1.0) .(0.0) This(0.0) bill(1.0) is(0.0) too(0.0) serious(0.0) ,(0.0) it(0.0) 's(0.0) too(0.0) important(0.0) ,(0.0) to(0.0) be(0.0) 
+reauthorized(1.0) without(0.0) any(0.0) hearings(1.0) ,(0.0) no(0.0) markups(1.0) ,(0.0) no(0.0) opportunity(0.0) for(0.0) amendments(1.0) .(0.0) I(0.0) was(0.0) glad(0.0) to(0.0) be(0.0) one(0.0) of(0.0) 
+the(0.0) true(0.0) patriots(1.0) to(0.0) vote(1.0) against(0.0) this(0.0) measure(1.0) when(0.0) it(0.0) was(0.0) brought(0.0) to(0.0) the(0.0) floor(0.0) yesterday(0.0) on(0.0) a(0.0) suspension(0.0) of(0.0) 
+the(0.0) rules(0.0) without(0.0) due(0.0) consideration(0.0) by(0.0) our(0.0) Judiciary(1.0) Committee(0.0) .(0.0) There(0.0) is(0.0) bipartisan(1.0) consensus(1.0) that(0.0) these(0.0) provisions(1.0) need(0.0) some(0.0) improvement(0.0) 
+--(0.0) roving(0.0) wiretaps(1.0) ,(0.0) the(0.0) lone(0.0) wolf(0.0) provisions(0.0) ,(0.0) especially(0.0) business(0.0) records(0.0) .(0.0) While(0.0) the(0.0) threat(1.0) of(0.0) terrorism(1.0) is(0.0) real(0.0) 
+and(0.0) law(1.0) enforcement(1.0) must(0.0) have(0.0) the(0.0) right(0.0) tools(0.0) to(0.0) protect(0.0) Americans(1.0) ,(0.0) any(0.0) counterterrorism(1.0) measure(0.0) must(0.0) have(0.0) a(0.0) solid(0.0) constitutional(1.0) 
+footing(1.0) and(0.0) respect(0.0) the(0.0) privacy(1.0) and(0.0) civil(1.0) liberties(1.0) of(0.0) the(0.0) American(0.0) people(0.0) .(0.0) If(0.0) Congress(0.0) reauthorizes(1.0) these(0.0) provisions(1.0) with(0.0) no(0.0) 
+changes(0.0) ,(0.0) Americans(1.0) will(0.0) remain(0.0) subject(0.0) to(0.0) warrantless(1.0) intrusions(1.0) into(0.0) their(0.0) personal(0.0) affairs(0.0) and(0.0) a(0.0) gross(0.0) overreach(1.0) of(0.0) Federal(1.0) investigative(1.0) 
+authority(0.0) that(0.0) could(0.0) be(0.0) and(0.0) has(0.0) been(0.0) abused(0.0) .(0.0) It(0.0) 's(0.0) just(0.0) not(0.0) how(0.0) we(0.0) do(0.0) things(0.0) in(0.0) this(0.0) country(1.0) 
+,(0.0) ladies(1.0) and(0.0) gentlemen(0.0) .(0.0) Rather(0.0) than(0.0) taking(0.0) the(0.0) time(0.0) to(0.0) craft(0.0) reforms(1.0) that(0.0) will(0.0) better(0.0) protect(1.0) private(0.0) citizens(1.0) '(0.0) 
+communications(0.0) and(0.0) privacy(0.0) from(0.0) overbroad(1.0) government(1.0) surveillance(1.0) ,(0.0) the(0.0) Republican(1.0) Party(1.0) simply(1.0) wants(1.0) to(1.0) ram(1.0) this(1.0) bill(1.0) through(1.0) without(1.0) providing(1.0) 
+any(1.0) opportunity(1.0) for(1.0) anybody(1.0) to(1.0) offer(1.0) amendments(1.0) that(1.0) would(1.0) improve(1.0) the(0.0) bill(1.0) .(1.0) The(1.0) SPEAKER(0.0) pro(0.0) tempore(0.0) ((1.0) Mr.(0.0) Kingston(1.0) 
+)(0.0) .(0.0) The(0.0) time(0.0) of(0.0) the(0.0) gentleman(0.0) has(0.0) expired(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Judiciary	
+Sensenbrenner	
+civil	rights	
+debate	measure	
+spending	reauthorization	
+Patriot	Act	bill	
+reauthorized	hearings	markups	amendments	
+patriots	vote	measure	
+Judiciary	bipartisan	consensus	provisions	
+wiretaps	threat	terrorism	
+law	enforcement	Americans	counterterrorism	constitutional	
+footing	privacy	civil	liberties	reauthorizes	provisions	
+Americans	warrantless	intrusions	overreach	Federal	investigative	
+country	
+ladies	reforms	protect	citizens	
+overbroad	government	surveillance	Republican	Party	simply	wants	to	ram	this	bill	through	without	providing	
+any	opportunity	for	anybody	to	offer	amendments	that	would	improve	bill	.	The	(	Kingston	
+
+
+reads % = 0.21652421652421652

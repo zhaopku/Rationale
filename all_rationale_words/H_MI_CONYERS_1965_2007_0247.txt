@@ -1,0 +1,36 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) merely(0.0) want(0.0) to(0.0) close(0.0) by(0.0) thanking(0.0) the(0.0) distinguished(0.0) ranking(0.0) member(0.0) on(0.0) the(0.0) Crime(0.0) Subcommittee(0.0) ,(0.0) Randy(0.0) Forbes(1.0) ,(0.0) 
+for(0.0) the(0.0) excellent(0.0) work(0.0) that(0.0) he(0.0) performs(0.0) all(0.0) the(0.0) time(0.0) ,(0.0) but(0.0) especially(0.0) on(0.0) this(0.0) bill(1.0) .(0.0) I(0.0) want(0.0) no(0.0) 
+misunderstanding(0.0) about(0.0) our(0.0) appreciation(0.0) of(0.0) this(0.0) bill(1.0) being(0.0) about(0.0) prohibiting(1.0) deceptive(1.0) practices(1.0) against(0.0) eligible(1.0) voters(0.0) .(0.0) This(0.0) is(0.0) not(0.0) a(0.0) 
+measure(0.0) that(0.0) deals(0.0) with(0.0) prosecuting(1.0) ineligible(1.0) voters(0.0) unless(0.0) they(0.0) try(0.0) to(0.0) deceive(0.0) eligible(1.0) voters(0.0) .(0.0) The(0.0) issue(0.0) of(0.0) voter(1.0) fraud(1.0) 
+is(0.0) a(0.0) very(0.0) serious(0.0) one(0.0) ,(0.0) well(0.0) publicized(1.0) ,(0.0) and(0.0) it(0.0) is(0.0) the(0.0) intention(0.0) of(0.0) the(0.0) Chair(0.0) of(0.0) the(0.0) committee(0.0) 
+that(0.0) the(0.0) Subcommittee(0.0) on(0.0) Crime(0.0) hold(0.0) hearings(0.0) on(0.0) this(0.0) subject(0.0) because(0.0) we(0.0) think(0.0) it(0.0) is(0.0) an(0.0) important(0.0) one(0.0) that(0.0) needs(0.0) 
+to(0.0) be(0.0) examined(0.0) very(0.0) clearly(0.0) .(0.0) But(0.0) today(0.0) ,(0.0) we(0.0) move(0.0) forward(0.0) from(0.0) the(0.0) 15th(0.0) amendment(1.0) in(0.0) the(0.0) Constitution(1.0) ,(0.0) 
+we(0.0) move(0.0) forward(0.0) from(0.0) the(0.0) Voter(1.0) Rights(1.0) Act(0.0) of(0.0) 1965(0.0) that(0.0) has(0.0) been(0.0) amended(0.0) several(0.0) times(0.0) ,(0.0) and(0.0) we(0.0) now(0.0) 
+come(0.0) to(0.0) a(0.0) specific(0.0) set(0.0) of(0.0) practices(1.0) that(0.0) have(0.0) been(0.0) very(0.0) detrimental(0.0) in(0.0) coercing(1.0) and(0.0) intimidating(0.0) and(0.0) confusing(0.0) many(0.0) voters(0.0) 
+.(0.0) I(0.0) am(0.0) so(0.0) pleased(0.0) that(0.0) this(0.0) committee(0.0) at(0.0) this(0.0) day(0.0) and(0.0) time(0.0) is(0.0) prepared(0.0) to(0.0) deal(0.0) with(0.0) preventing(1.0) voters(1.0) 
+from(0.0) being(0.0) disenfranchised(1.0) by(0.0) being(0.0) misled(0.0) on(0.0) their(0.0) way(0.0) to(0.0) polling(1.0) .(0.0) It(0.0) has(0.0) been(0.0) documented(0.0) and(0.0) we(0.0) are(0.0) directly(0.0) 
+prohibiting(1.0) these(0.0) kinds(0.0) of(0.0) tactics(1.0) and(0.0) we(0.0) are(0.0) turning(0.0) many(0.0) of(0.0) them(0.0) from(0.0) a(0.0) misdemeanor(1.0) into(0.0) a(0.0) felony(1.0) .(0.0) I(0.0) 
+congratulate(0.0) all(0.0) the(0.0) members(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) the(0.0) Judiciary(0.0) and(0.0) particularly(0.0) the(0.0) sponsors(0.0) of(0.0) this(0.0) piece(0.0) of(0.0) legislation(0.0) ,(0.0) 
+and(0.0) urge(0.0) support(0.0) of(0.0) the(0.0) bill(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Forbes	
+bill	
+bill	prohibiting	deceptive	practices	eligible	
+prosecuting	ineligible	eligible	voter	fraud	
+publicized	
+
+amendment	Constitution	
+Voter	Rights	
+practices	coercing	
+preventing	voters	
+disenfranchised	polling	
+prohibiting	tactics	misdemeanor	felony	
+
+bill	
+
+reads % = 0.1044776119402985

@@ -1,0 +1,34 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) for(0.0) fairness(1.0) ,(0.0) for(0.0) equality(1.0) ,(0.0) and(0.0) to(0.0) simply(0.0) stand(0.0) up(0.0) for(0.0) what(0.0) is(0.0) right(0.0) .(0.0) 
+I(0.0) support(0.0) a(0.0) tax(1.0) cut(1.0) for(1.0) our(0.0) Nation(1.0) 's(0.0) working(0.0) families(0.0) and(0.0) middle(1.0) income(1.0) community(0.0) .(0.0) In(0.0) my(0.0) district(0.0) ,(0.0) 
+that(0.0) includes(0.0) 98(0.0) percent(0.0) of(0.0) taxpayers(1.0) ,(0.0) over(0.0) 342,000(1.0) individuals(0.0) .(0.0) What(0.0) I(0.0) do(0.0) not(0.0) support(0.0) ,(0.0) and(0.0) what(0.0) our(0.0) 
+Nation(1.0) simply(0.0) can(0.0) not(0.0) afford(1.0) ,(0.0) is(0.0) a(0.0) tax(0.0) cut(1.0) for(1.0) millionaires(1.0) and(1.0) billionaires(1.0) .(1.0) In(0.0) fact(1.0) ,(0.0) Republicans(0.0) are(1.0) 
+holding(1.0) hostage(1.0) the(1.0) extension(1.0) of(0.0) unemployment(1.0) benefits(1.0) at(0.0) the(0.0) expense(1.0) of(0.0) tax(1.0) cuts(1.0) .(1.0) Six(1.0) thousand(0.0) eight(0.0) hundred(0.0) individuals(0.0) in(0.0) 
+my(0.0) district(0.0) make(0.0) over(0.0) $(0.0) 250,000(0.0) a(0.0) year(0.0) .(0.0) Conversely(0.0) ,(0.0) 6,400(0.0) individuals(0.0) in(0.0) my(0.0) district(0.0) will(0.0) lose(0.0) their(0.0) unemployment(1.0) 
+benefits(1.0) at(0.0) the(0.0) end(0.0) of(0.0) this(0.0) month(0.0) .(0.0) The(0.0) choice(0.0) --(0.0) 6,800(0.0) billionaires(1.0) and(0.0) millionaires(1.0) ,(0.0) or(0.0) 6,400(1.0) hardworking(1.0) families(0.0) 
+that(0.0) will(0.0) not(0.0) be(0.0) able(0.0) to(0.0) pay(1.0) their(0.0) bills(1.0) ,(0.0) put(0.0) food(1.0) on(0.0) their(0.0) table(0.0) ,(0.0) or(0.0) heat(0.0) their(0.0) homes(0.0) 
+on(0.0) a(0.0) cold(0.0) winter(0.0) 's(0.0) night(0.0) .(0.0) I(0.0) stand(0.0) with(0.0) the(0.0) middle(1.0) income(1.0) and(0.0) working(0.0) families(0.0) of(0.0) my(0.0) district(0.0) .(0.0) 
+And(0.0) what(0.0) happens(0.0) to(0.0) the(0.0) local(0.0) economy(0.0) ?(0.0) If(0.0) we(0.0) do(0.0) not(0.0) extend(0.0) unemployment(1.0) benefits(1.0) ,(0.0) my(0.0) district(0.0) alone(0.0) could(0.0) 
+see(0.0) the(0.0) loss(0.0) of(0.0) tens(1.0) of(0.0) millions(1.0) of(0.0) dollars(1.0) in(0.0) economic(1.0) benefits(1.0) ,(0.0) including(0.0) small(0.0) business(0.0) losses(0.0) each(0.0) and(0.0) every(0.0) 
+month(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) the(0.0) moral(1.0) and(0.0) economic(1.0) choice(0.0) is(0.0) clear(0.0) .(0.0) I(0.0) stand(0.0) with(0.0) our(0.0) working(0.0) families(0.0) and(0.0) 
+our(0.0) middle(1.0) income(1.0) community(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+fairness	equality	
+tax	cut	for	Nation	middle	income	
+taxpayers	342,000	
+Nation	afford	cut	for	millionaires	and	billionaires	.	fact	are	
+holding	hostage	the	extension	unemployment	benefits	expense	tax	cuts	.	Six	
+unemployment	
+benefits	billionaires	millionaires	6,400	hardworking	
+pay	bills	food	
+middle	income	
+unemployment	benefits	
+tens	millions	dollars	economic	benefits	
+Speaker	moral	economic	
+middle	income	
+
+reads % = 0.21951219512195122

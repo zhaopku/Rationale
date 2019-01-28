@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) favor(1.0) tax(1.0) cuts(1.0) which(1.0) put(1.0) small(1.0) businesses(1.0) on(1.0) the(1.0) same(1.0) footing(1.0) with(0.0) large(0.0) corporations(1.0) .(0.0) I(0.0) favor(1.0) pension(1.0) reform(1.0) .(0.0) 
+And(0.0) I(0.0) favor(1.0) Medicare(1.0) adjustments(1.0) to(0.0) keep(0.0) small(0.0) hospitals(1.0) open(0.0) .(0.0) But(0.0) I(0.0) am(0.0) going(0.0) to(0.0) oppose(1.0) this(0.0) bill(1.0) because(1.0) 
+of(0.0) the(0.0) cynical(1.0) inclusion(1.0) of(0.0) a(0.0) provision(1.0) which(0.0) specifically(0.0) overturns(1.0) Oregon(1.0) 's(0.0) death-with-dignity(0.0) law(1.0) .(0.0) This(0.0) was(0.0) voted(0.0) on(0.0) by(0.0) 
+the(0.0) people(0.0) of(0.0) Oregon(1.0) ,(0.0) not(0.0) once(0.0) ,(0.0) but(0.0) twice(0.0) .(0.0) What(0.0) will(0.0) happen(0.0) if(0.0) this(0.0) bill(1.0) passes(1.0) is(0.0) that(0.0) 
+things(0.0) will(0.0) not(0.0) play(0.0) out(0.0) in(0.0) grand(1.0) chambers(0.0) like(0.0) this(0.0) .(0.0) Things(0.0) will(0.0) not(0.0) play(0.0) out(0.0) in(0.0) the(0.0) hospitals(1.0) that(0.0) 
+we(0.0) are(0.0) trying(0.0) to(0.0) keep(0.0) open(0.0) .(0.0) There(0.0) will(0.0) be(0.0) little(0.0) rooms(0.0) across(0.0) this(0.0) country(1.0) ,(0.0) in(0.0) Oregon(1.0) ,(0.0) where(0.0) 
+the(0.0) scenes(0.0) will(0.0) be(0.0) played(0.0) out(0.0) in(0.0) small(0.0) rooms(0.0) filled(0.0) with(0.0) pain(0.0) .(0.0) If(0.0) my(0.0) colleagues(0.0) want(0.0) that(0.0) pain(0.0) to(0.0) 
+occur(0.0) ,(0.0) then(0.0) vote(1.0) for(0.0) this(0.0) bill(1.0) .(0.0) If(0.0) my(0.0) colleagues(0.0) want(0.0) to(0.0) prevent(0.0) that(0.0) pain(0.0) from(0.0) occurring(0.0) ,(0.0) if(0.0) 
+they(0.0) want(0.0) real(0.0) tax(1.0) relief(1.0) ,(0.0) then(0.0) vote(1.0) against(0.0) this(0.0) bill(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+favor	tax	cuts	which	put	small	businesses	on	the	same	footing	corporations	favor	pension	reform	
+favor	Medicare	adjustments	hospitals	oppose	bill	because	
+cynical	inclusion	provision	overturns	Oregon	law	
+Oregon	bill	passes	
+grand	hospitals	
+country	Oregon	
+
+vote	bill	
+tax	relief	vote	bill	
+
+reads % = 0.23699421965317918

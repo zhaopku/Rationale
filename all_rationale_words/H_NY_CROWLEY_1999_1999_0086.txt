@@ -1,0 +1,34 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) this(0.0) morning(0.0) I(0.0) proudly(0.0) join(0.0) my(0.0) colleagues(0.0) in(0.0) signing(0.0) the(0.0) discharge(0.0) petition(0.0) H.R(0.0) .(0.0) 1660(0.0) ,(0.0) the(0.0) School(0.0) Modernization(0.0) 
+Construction(0.0) Act(0.0) .(0.0) As(0.0) a(0.0) member(0.0) of(0.0) the(0.0) freshman(0.0) class(0.0) ,(0.0) I(0.0) have(0.0) organized(0.0) numerous(0.0) 1(0.0) minutes(0.0) and(0.0) Special(0.0) Orders(0.0) 
+to(0.0) allow(0.0) us(0.0) to(0.0) share(0.0) with(0.0) our(0.0) Republican(1.0) colleagues(1.0) the(1.0) stories(1.0) from(1.0) our(1.0) own(1.0) districts(1.0) :(1.0) the(1.0) overcrowding(1.0) ,(1.0) the(1.0) 
+crumbling(1.0) buildings(1.0) ,(1.0) the(1.0) rapid(1.0) school-age(1.0) population(1.0) growth(1.0) .(1.0) Whether(1.0) they(1.0) are(0.0) urban(1.0) ,(0.0) rural(1.0) ,(0.0) or(0.0) suburban(1.0) ,(0.0) schools(1.0) 
+across(0.0) our(0.0) Nation(1.0) need(0.0) the(0.0) help(0.0) of(0.0) Congress(0.0) in(0.0) addressing(1.0) the(0.0) infrastructure(1.0) problems(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) can(0.0) not(0.0) 
+accept(0.0) that(0.0) the(0.0) only(0.0) action(0.0) taken(0.0) by(0.0) Congress(0.0) this(0.0) year(0.0) to(0.0) help(0.0) our(0.0) schools(1.0) is(0.0) a(0.0) small(0.0) arbitrage(0.0) provision(1.0) contained(0.0) 
+within(0.0) the(0.0) recently(0.0) passed(0.0) tax(1.0) bill(1.0) .(1.0) This(0.0) provision(1.0) will(0.0) not(0.0) provide(0.0) assistance(0.0) to(0.0) our(0.0) beleaguered(1.0) school(1.0) system(0.0) and(0.0) could(0.0) 
+result(0.0) in(0.0) delays(1.0) in(0.0) school(1.0) construction(1.0) and(0.0) modernization(1.0) projects(0.0) for(0.0) more(0.0) than(0.0) 2(0.0) years(0.0) .(0.0) We(0.0) can(0.0) fix(0.0) our(0.0) highways(1.0) 
+.(0.0) We(0.0) can(0.0) rebuild(1.0) our(0.0) bridges(1.0) .(0.0) Why(0.0) do(0.0) we(0.0) sit(0.0) by(0.0) and(0.0) do(0.0) nothing(0.0) about(0.0) the(0.0) infrastructure(1.0) that(0.0) houses(0.0) 
+our(0.0) Nation's(0.0) greatest(0.0) assets(0.0) ,(0.0) its(0.0) children(0.0) .(0.0) We(0.0) need(0.0) to(0.0) help(0.0) our(0.0) school(1.0) districts(1.0) by(0.0) providing(0.0) them(0.0) with(0.0) interest-(0.0) 
+free(0.0) bonds(1.0) to(0.0) build(0.0) new(0.0) facilities(0.0) and(0.0) to(0.0) improve(0.0) the(0.0) existing(0.0) structures(0.0) now(0.0) ,(0.0) not(0.0) 2(0.0) years(0.0) from(0.0) now(0.0) .(0.0) 
+Mr.(0.0) Speaker(1.0) ,(0.0) before(0.0) ,(0.0) one(0.0) of(0.0) our(0.0) colleagues(0.0) said(0.0) who(0.0) pays(0.0) the(0.0) taxes(1.0) .(0.0) I(0.0) forgot(0.0) ,(0.0) our(0.0) children(0.0) 
+in(0.0) public(1.0) schools(1.0) do(0.0) not(0.0) pay(0.0) taxes(1.0) .(0.0) But(0.0) their(0.0) families(0.0) do(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+Republican	colleagues	the	stories	from	our	own	districts	:	the	overcrowding	,	the	
+crumbling	buildings	,	the	rapid	school-age	population	growth	.	Whether	they	urban	rural	suburban	schools	
+Nation	addressing	infrastructure	Speaker	
+schools	provision	
+tax	bill	.	provision	beleaguered	school	
+delays	school	construction	modernization	highways	
+rebuild	bridges	infrastructure	
+school	districts	
+bonds	
+Speaker	taxes	
+public	schools	taxes	
+
+reads % = 0.2204724409448819

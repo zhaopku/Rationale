@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) during(0.0) the(0.0) Presidential(1.0) campaign(1.0) ,(0.0) Senator(1.0) Obama(1.0) ran(0.0) an(0.0) ad(0.0) attacking(0.0) Senator(0.0) Clinton(1.0) because(0.0) her(0.0) ``(0.0) health(1.0) care(0.0) plan(1.0) 
+forces(0.0) everyone(0.0) to(0.0) buy(0.0) insurance(1.0) and(0.0) you(0.0) pay(1.0) a(0.0) penalty(0.0) if(0.0) you(0.0) do(0.0) n't(0.0) .(0.0) ''(0.0) If(0.0) that(0.0) sounds(0.0) familiar(0.0) 
+,(0.0) it(0.0) should(0.0) .(0.0) That(0.0) 's(0.0) exactly(0.0) what(0.0) the(0.0) Obama(1.0) administration(1.0) is(0.0) now(0.0) forcing(1.0) on(0.0) the(0.0) American(0.0) people(0.0) .(0.0) What(0.0) 
+Senator(1.0) Obama(1.0) once(0.0) criticized(0.0) ,(0.0) President(0.0) Obama(1.0) now(0.0) embraces(0.0) .(0.0) Democrats(0.0) '(0.0) health(1.0) care(1.0) bills(1.0) penalize(1.0) people(0.0) who(0.0) do(0.0) n't(0.0) 
+buy(0.0) the(0.0) government(1.0) 's(0.0) designated(0.0) kind(0.0) of(0.0) health(1.0) insurance(1.0) ,(0.0) and(0.0) the(0.0) fine(0.0) or(0.0) tax(1.0) can(1.0) be(0.0) close(0.0) to(0.0) $(0.0) 
+2,000(0.0) per(0.0) person(0.0) .(0.0) Just(0.0) as(0.0) bad(0.0) ,(0.0) most(0.0) people(0.0) who(0.0) do(0.0) buy(0.0) health(1.0) insurance(1.0) will(0.0) pay(1.0) higher(0.0) premiums(1.0) ,(0.0) 
+and(0.0) seniors(1.0) ,(0.0) especially(0.0) ,(0.0) will(0.0) see(0.0) their(0.0) benefits(1.0) cut(1.0) according(1.0) to(0.0) the(0.0) nonpartisan(1.0) Congressional(0.0) Budget(1.0) Office(1.0) .(0.0) Senator(0.0) Obama(1.0) 
+was(0.0) right(0.0) .(0.0) President(0.0) Obama(1.0) is(0.0) wrong(0.0) .(0.0) Why(0.0) have(0.0) so(0.0) few(0.0) in(0.0) the(0.0) national(1.0) media(0.0) pointed(0.0) out(0.0) the(0.0) about-face(1.0) 
+,(0.0) flip-flop(1.0) ,(0.0) backtrack(1.0) ,(0.0) and(0.0) 180(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+Presidential	campaign	Senator	Obama	Clinton	health	plan	
+insurance	pay	
+Obama	administration	forcing	
+Senator	Obama	Obama	health	care	bills	penalize	
+government	health	insurance	tax	can	
+health	insurance	pay	premiums	
+seniors	benefits	cut	according	nonpartisan	Budget	Office	Obama	
+Obama	national	about-face	
+flip-flop	backtrack	
+
+reads % = 0.24260355029585798

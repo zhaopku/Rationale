@@ -1,0 +1,16 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) what(0.0) has(0.0) not(0.0) been(0.0) mentioned(0.0) is(0.0) this(0.0) takes(0.0) $(0.0) 6(0.0) million(0.0) away(0.0) from(0.0) the(0.0) Advanced(0.0) Concepts(0.0) Initiative(1.0) ,(0.0) 
+one(0.0) of(0.0) our(0.0) few(0.0) remaining(0.0) weapon(0.0) systems(0.0) with(0.0) designers(0.0) with(0.0) actual(0.0) test(0.0) experience(0.0) left(0.0) .(0.0) Keeping(0.0) this(0.0) money(1.0) in(0.0) there(0.0) 
+will(0.0) give(0.0) them(0.0) time(0.0) to(0.0) train(0.0) a(0.0) new(0.0) generation(1.0) of(0.0) designers(0.0) before(0.0) they(0.0) retire(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) yield(0.0) 
+the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) ((0.0) Mr.(0.0) Thornberry(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	Initiative	
+money	
+generation	Chairman	
+Thornberry	
+
+reads % = 0.07894736842105263

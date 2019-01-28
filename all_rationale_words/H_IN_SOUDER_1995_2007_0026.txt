@@ -1,0 +1,48 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) believe(0.0) that(0.0) what(0.0) the(0.0) chairman(0.0) was(0.0) referring(0.0) to(0.0) was(0.0) a(0.0) general(0.0) account(0.0) of(0.0) the(0.0) things(0.0) that(0.0) I(0.0) 
+referred(0.0) to(0.0) which(0.0) were(0.0) inside(0.0) the(0.0) general(0.0) account(0.0) .(0.0) I(0.0) am(0.0) not(0.0) trying(0.0) to(0.0) cut(1.0) funding(1.0) for(0.0) personnel(0.0) .(0.0) There(0.0) 
+is(0.0) $(0.0) 8(0.0) million(0.0) in(0.0) the(0.0) bill(1.0) for(0.0) alteration(1.0) of(0.0) bridges(1.0) .(0.0) The(0.0) report(0.0) language(0.0) says(0.0) the(0.0) committee(0.0) denies(1.0) the(0.0) 
+request(0.0) to(0.0) transfer(0.0) personnel(0.0) devoted(0.0) to(0.0) maintaining(0.0) safe(0.0) passage(0.0) of(0.0) marine(0.0) traffic(0.0) .(0.0) That(0.0) means(0.0) that(0.0) the(0.0) Coast(1.0) Guard(0.0) had(0.0) 
+requested(0.0) to(0.0) the(0.0) committee(0.0) that(0.0) they(0.0) did(0.0) n't(0.0) want(0.0) these(0.0) funds(1.0) .(0.0) The(0.0) reason(0.0) they(0.0) do(0.0) n't(0.0) want(0.0) the(0.0) funds(1.0) 
+is(0.0) they(0.0) do(0.0) n't(0.0) have(0.0) personnel(0.0) that(0.0) does(0.0) bridges(1.0) .(0.0) They(0.0) said(0.0) this(0.0) should(0.0) be(0.0) ,(0.0) according(0.0) to(0.0) your(0.0) report(0.0) 
+language(0.0) ,(0.0) within(0.0) the(0.0) Department(0.0) of(0.0) Transportation(0.0) 's(0.0) Maritime(0.0) Division(0.0) to(0.0) do(0.0) bridges(1.0) .(0.0) I(0.0) do(0.0) n't(0.0) know(0.0) what(0.0) kind(0.0) 
+of(0.0) fight(1.0) is(0.0) occurring(0.0) between(0.0) Transportation(1.0) and(0.0) Coast(0.0) Guard(0.0) here(0.0) ,(0.0) but(0.0) basically(0.0) the(0.0) Coast(1.0) Guard(0.0) wants(0.0) the(0.0) money(0.0) to(0.0) 
+do(0.0) their(0.0) mission(1.0) ,(0.0) not(0.0) to(0.0) do(0.0) bridges(1.0) ,(0.0) and(0.0) this(0.0) amendment(1.0) tries(1.0) to(0.0) address(0.0) this(0.0) .(0.0) Then(0.0) also(0.0) in(0.0) 
+the(0.0) airborne(0.0) use(0.0) of(0.0) force(0.0) ,(0.0) there(0.0) is(0.0) a(0.0) discussion(0.0) about(0.0) the(0.0) $(0.0) 21.5(0.0) million(0.0) ,(0.0) which(0.0) just(0.0) happens(0.0) to(0.0) 
+be(0.0) the(0.0) amount(0.0) that(0.0) the(0.0) lobbying(1.0) firm(0.0) is(0.0) seeking(0.0) to(0.0) continue(0.0) the(0.0) MH-68(0.0) HITRON(0.0) helicopter(0.0) ,(0.0) which(0.0) is(0.0) a(0.0) great(0.0) 
+helicopter(0.0) ,(0.0) I(0.0) have(0.0) been(0.0) in(0.0) it(0.0) ,(0.0) but(0.0) it(0.0) is(0.0) not(0.0) armed(0.0) .(0.0) It(0.0) is(0.0) outdated(0.0) and(0.0) they(0.0) are(0.0) 
+moving(0.0) to(0.0) the(0.0) M-65s(0.0) .(0.0) They(0.0) have(0.0) the(0.0) M-65s(0.0) on(0.0) line(0.0) or(0.0) in(0.0) production(0.0) ,(0.0) the(0.0) ones(0.0) that(0.0) you(0.0) said(0.0) 
+that(0.0) are(0.0) off-the-shelf(0.0) helicopters(0.0) that(0.0) they(0.0) are(0.0) now(0.0) adapting(0.0) ,(0.0) of(0.0) which(0.0) they(0.0) had(0.0) eight(0.0) and(0.0) they(0.0) wanted(0.0) four(0.0) more(0.0) 
+and(0.0) you(0.0) gave(0.0) them(0.0) two(0.0) more(0.0) .(0.0) The(0.0) money(1.0) for(0.0) the(0.0) account(0.0) that(0.0) they(0.0) do(0.0) n't(0.0) want(0.0) and(0.0) do(0.0) n't(0.0) 
+have(0.0) people(0.0) to(0.0) do(0.0) and(0.0) the(0.0) 21.5(0.0) for(0.0) a(0.0) contract(0.0) they(0.0) do(0.0) n't(0.0) want(0.0) would(0.0) buy(0.0) the(0.0) additional(0.0) helicopter(0.0) that(0.0) 
+they(0.0) do(0.0) want(0.0) that(0.0) 's(0.0) off(0.0) the(0.0) shelf(0.0) and(0.0) merely(0.0) would(0.0) need(0.0) to(0.0) be(0.0) added(0.0) to(0.0) .(0.0) I(0.0) would(0.0) ask(0.0) 
+the(0.0) chairman(0.0) respectfully(1.0) ,(0.0) can(0.0) you(0.0) identify(0.0) who(0.0) is(0.0) requesting(0.0) this(0.0) ,(0.0) because(0.0) we(0.0) have(0.0) n't(0.0) been(0.0) able(0.0) to(0.0) figure(0.0) 
+out(0.0) who's(0.0) pushing(0.0) this(0.0) MH-68(0.0) contract(1.0) of(0.0) which(0.0) the(0.0) amount(0.0) of(0.0) money(1.0) is(0.0) the(0.0) exact(0.0) amount(0.0) of(0.0) money(1.0) .(0.0) And(0.0) 
+the(0.0) lobbyist(1.0) is(1.0) all(0.0) over(0.0) the(0.0) Hill(0.0) saying(0.0) that(0.0) that(0.0) 's(0.0) what(0.0) this(0.0) is(0.0) for(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	
+cut	funding	
+bill	alteration	bridges	denies	
+Coast	
+funds	funds	
+bridges	
+bridges	
+fight	Transportation	Coast	
+mission	bridges	amendment	tries	
+
+lobbying	
+
+
+
+money	
+
+
+respectfully	
+contract	money	money	
+lobbyist	is	
+
+reads % = 0.06801007556675064

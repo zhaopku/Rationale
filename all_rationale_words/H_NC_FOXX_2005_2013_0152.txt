@@ -1,0 +1,20 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) Republicans(0.0) do(1.0) agree(1.0) that(0.0) schools(1.0) should(0.0) be(0.0) safe(0.0) places(0.0) for(0.0) all(0.0) students(0.0) to(0.0) learn(0.0) .(0.0) However(0.0) ,(0.0) as(0.0) my(0.0) 
+friends(0.0) and(0.0) colleagues(0.0) know(0.0) ,(0.0) the(0.0) amendment(1.0) to(0.0) which(0.0) they(0.0) have(0.0) been(0.0) referring(0.0) had(0.0) several(0.0) parliamentary(0.0) problems(0.0) when(0.0) it(0.0) was(0.0) 
+introduced(0.0) .(0.0) To(0.0) begin(0.0) with(0.0) ,(0.0) it(0.0) was(0.0) not(0.0) germane(0.0) to(0.0) the(0.0) underlying(0.0) bill(1.0) .(0.0) Additionally(0.0) ,(0.0) it(0.0) violated(1.0) CutGo(0.0) 
+provisions(1.0) in(0.0) House(0.0) rules(1.0) .(0.0) My(0.0) understanding(0.0) is(0.0) that(0.0) although(0.0) the(0.0) CutGo(0.0) issues(0.0) were(0.0) ultimately(0.0) resolved(0.0) ,(0.0) the(0.0) amendment(1.0) was(0.0) 
+not(0.0) redrafted(1.0) to(0.0) fix(1.0) the(0.0) germaneness(1.0) problem(0.0) .(0.0) For(0.0) these(0.0) reasons(0.0) ,(0.0) the(0.0) amendment(1.0) was(0.0) not(0.0) made(0.0) in(0.0) order(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+do	agree	schools	
+amendment	
+bill	violated	
+provisions	rules	amendment	
+redrafted	fix	germaneness	amendment	
+
+
+reads % = 0.12871287128712872

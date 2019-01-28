@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) come(0.0) to(0.0) the(0.0) floor(0.0) tonight(0.0) to(0.0) talk(0.0) about(0.0) health(1.0) care(1.0) ,(0.0) but(0.0) I(0.0) have(0.0) to(0.0) spend(0.0) just(0.0) 
+a(0.0) minute(0.0) or(0.0) two(0.0) addressing(1.0) some(0.0) of(0.0) the(0.0) things(0.0) that(0.0) we(0.0) just(0.0) heard(0.0) in(0.0) the(0.0) previous(0.0) hour(0.0) .(0.0) There(0.0) has(0.0) 
+been(0.0) a(0.0) lot(0.0) of(0.0) discussion(0.0) about(0.0) the(0.0) Jobs(0.0) and(0.0) Growth(1.0) Act(0.0) that(0.0) was(0.0) passed(0.0) in(0.0) 2003(0.0) ,(0.0) in(0.0) fact(0.0) in(0.0) 
+May(0.0) of(0.0) 2003(0.0) ,(0.0) a(0.0) reinvestment(1.0) of(0.0) $(0.0) 80(0.0) billion(1.0) back(0.0) into(0.0) the(0.0) American(0.0) economy(1.0) ,(0.0) back(0.0) into(0.0) the(0.0) productive(1.0) 
+sector(1.0) of(0.0) the(0.0) American(0.0) economy(1.0) .(0.0) The(0.0) American(0.0) people(0.0) rewarded(0.0) the(0.0) United(0.0) States(0.0) Treasury(0.0) with(0.0) an(0.0) increase(1.0) in(0.0) collections(0.0) to(0.0) 
+the(0.0) Treasury(1.0) the(0.0) next(0.0) year(0.0) with(0.0) $(0.0) 260(0.0) billion(1.0) that(0.0) were(0.0) not(0.0) anticipated(0.0) .(0.0) Investment(0.0) in(0.0) the(0.0) productive(1.0) sector(1.0) of(0.0) 
+the(0.0) American(0.0) economy(1.0) works(0.0) every(0.0) time(0.0) it(0.0) is(0.0) tried(0.0) ,(0.0) and(0.0) I(0.0) am(0.0) grateful(0.0) to(0.0) be(0.0) part(0.0) of(0.0) the(0.0) Congress(0.0) 
+in(0.0) 2003(1.0) that(0.0) provided(0.0) that(0.0) reinvestment(1.0) opportunity(0.0) for(0.0) the(0.0) American(0.0) people(0.0) .(0.0) There(0.0) has(0.0) been(0.0) a(0.0) lot(0.0) of(0.0) discussion(0.0) this(0.0) 
+past(0.0) couple(0.0) of(0.0) weeks(0.0) about(0.0) gas(1.0) prices(1.0) .(0.0) We(0.0) passed(0.0) an(0.0) energy(1.0) bill(1.0) at(0.0) the(0.0) end(0.0) of(0.0) July(0.0) last(0.0) year(0.0) 
+.(0.0) Part(0.0) of(0.0) the(0.0) deal(0.0) on(0.0) that(0.0) energy(1.0) bill(1.0) was(0.0) that(0.0) there(0.0) was(0.0) going(0.0) to(0.0) be(0.0) no(0.0) liability(0.0) protection(0.0) for(0.0) 
+a(0.0) compound(0.0) called(0.0) MTBE(1.0) ,(0.0) a(0.0) federally(1.0) mandated(1.0) oxygenate(1.0) in(0.0) gasoline(1.0) that(0.0) is(0.0) sold(0.0) in(0.0) this(0.0) country(1.0) in(0.0) order(0.0) to(0.0) 
+comply(0.0) with(0.0) clean(0.0) air(1.0) restrictions(1.0) .(0.0) Without(0.0) MTBE(1.0) ,(0.0) we(0.0) are(0.0) left(0.0) with(0.0) only(0.0) ethanol(1.0) as(0.0) the(0.0) only(0.0) oxygenate(1.0) available(0.0) 
+for(0.0) the(0.0) mixture(0.0) of(0.0) gasoline(1.0) that(0.0) is(0.0) required(0.0) to(0.0) be(0.0) sold(0.0) in(0.0) States(1.0) that(0.0) have(0.0) clean(0.0) air(0.0) issues(0.0) .(0.0) We(0.0) 
+removed(0.0) the(0.0) MTBE(1.0) because(0.0) it(0.0) was(0.0) placed(0.0) in(0.0) legal(1.0) peril(1.0) .(0.0) We(0.0) had(0.0) an(0.0) opportunity(0.0) in(0.0) October(0.0) after(0.0) the(0.0) hurricanes(1.0) 
+hit(0.0) ,(0.0) after(0.0) we(0.0) knew(0.0) there(0.0) was(0.0) going(0.0) to(0.0) be(0.0) trouble(0.0) ,(0.0) we(0.0) had(0.0) an(0.0) opportunity(0.0) to(0.0) address(0.0) the(0.0) oxygenate(1.0) 
+requirements(0.0) in(0.0) the(0.0) blended(0.0) fuels(1.0) that(0.0) are(0.0) going(0.0) to(0.0) be(0.0) blended(0.0) and(0.0) sold(0.0) for(0.0) this(0.0) summer(0.0) 's(0.0) driving(0.0) season(0.0) ,(0.0) 
+precisely(0.0) the(0.0) time(0.0) we(0.0) are(0.0) up(0.0) against(0.0) right(0.0) now(0.0) .(0.0) This(0.0) House(0.0) passed(0.0) that(0.0) bill(1.0) which(1.0) would(0.0) have(0.0) allowed(0.0) for(0.0) 
+that(0.0) relaxation(0.0) of(0.0) oxygenation(1.0) requirements(0.0) .(0.0) We(0.0) passed(0.0) it(0.0) with(0.0) no(0.0) Democratic(0.0) votes(0.0) .(0.0) It(0.0) was(0.0) only(0.0) Republican(0.0) votes(1.0) that(1.0) 
+passed(1.0) the(0.0) bill(1.0) ,(0.0) and(1.0) it(0.0) has(0.0) never(0.0) been(0.0) taken(0.0) up(0.0) by(0.0) the(0.0) Senate(0.0) .(0.0) The(0.0) consequences(1.0) are(0.0) quite(0.0) predictable(0.0) 
+.(0.0) Now(0.0) ,(0.0) we(0.0) were(0.0) told(0.0) during(0.0) the(0.0) hearings(1.0) on(0.0) the(0.0) energy(1.0) bill(0.0) the(0.0) prior(0.0) year(0.0) by(0.0) individuals(0.0) from(0.0) ,(0.0) 
+and(0.0) you(0.0) talk(0.0) about(0.0) a(0.0) special(0.0) interest(0.0) group(0.0) ,(0.0) that(0.0) is(0.0) the(0.0) ethanol(1.0) lobby(1.0) ;(0.0) we(0.0) were(0.0) told(0.0) that(0.0) the(0.0) 
+ethanol(1.0) manufacturers(1.0) in(0.0) this(0.0) country(1.0) had(0.0) unbelievable(0.0) success(0.0) and(0.0) they(0.0) were(0.0) able(0.0) to(0.0) produce(0.0) ethanol(1.0) that(0.0) exceeded(0.0) their(0.0) wildest(0.0) expectations(0.0) 
+.(0.0) Well(0.0) ,(0.0) they(0.0) were(0.0) wrong(0.0) and(0.0) they(0.0) have(0.0) not(0.0) been(0.0) able(0.0) to(0.0) produce(0.0) the(0.0) quantity(0.0) they(0.0) said(0.0) ,(0.0) and(0.0) 
+it(0.0) is(0.0) time(0.0) for(0.0) this(0.0) country(1.0) to(0.0) look(0.0) at(0.0) the(0.0) tariff(1.0) that(0.0) we(0.0) place(0.0) on(0.0) foreign(1.0) imported(0.0) ethanol(1.0) .(0.0) If(0.0) 
+we(0.0) are(0.0) going(0.0) to(0.0) require(0.0) foreign(1.0) imported(0.0) ethanol(1.0) to(0.0) be(0.0) part(0.0) of(0.0) our(0.0) gasoline(1.0) oxygenate(1.0) system(0.0) ,(0.0) we(0.0) are(0.0) 
+
+
+----- below are rationale words -----
+
+health	care	
+addressing	
+Growth	
+reinvestment	billion	economy	productive	
+sector	economy	increase	
+Treasury	billion	productive	sector	
+economy	
+2003	reinvestment	
+gas	prices	energy	bill	
+energy	bill	
+MTBE	federally	mandated	oxygenate	gasoline	country	
+air	restrictions	MTBE	ethanol	oxygenate	
+gasoline	States	
+MTBE	legal	peril	hurricanes	
+oxygenate	
+fuels	
+bill	which	
+oxygenation	votes	that	
+passed	bill	and	consequences	
+hearings	energy	
+ethanol	lobby	
+ethanol	manufacturers	country	ethanol	
+
+country	tariff	foreign	ethanol	
+foreign	ethanol	gasoline	oxygenate	
+
+reads % = 0.136

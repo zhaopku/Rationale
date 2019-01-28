@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) am(0.0) happy(0.0) to(0.0) yield(0.0) 2(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Ohio(1.0) ((0.0) Mr.(0.0) Stivers(1.0) )(0.0) ,(0.0) a(0.0) veteran(0.0) of(0.0) Operation(0.0) 
+Iraqi(0.0) Freedom(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Ohio	Stivers	
+
+
+reads % = 0.08333333333333333

@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) North(0.0) Carolina(0.0) [(0.0) Mr.(0.0) Burr(1.0) ](0.0) for(1.0) yielding(1.0) this(0.0) time(0.0) to(0.0) me(0.0) .(0.0) I(0.0) 
+compliment(0.0) the(0.0) gentleman(0.0) from(0.0) North(0.0) Carolina(0.0) [(0.0) Mr.(0.0) Burr(1.0) ](0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Virginia(0.0) [(0.0) Mr.(0.0) Bliley(1.0) ](0.0) ,(0.0) 
+the(0.0) gentleman(0.0) from(0.0) Illinois(0.0) [(0.0) Mr.(0.0) Ewing(1.0) ](0.0) ,(0.0) and(0.0) the(0.0) gentlewoman(0.0) from(0.0) Missouri(1.0) [(0.0) Ms.(1.0) Danner(1.0) ](0.0) for(1.0) their(1.0) 
+hard(1.0) work(0.0) on(0.0) this(0.0) bill(1.0) ,(0.0) and(0.0) I(0.0) rise(0.0) in(0.0) strong(0.0) support(0.0) of(0.0) H.R(0.0) .(0.0) 436(0.0) ,(0.0) the(0.0) Edible(1.0) Oil(1.0) 
+Regulatory(1.0) Reform(1.0) Act(1.0) .(0.0) This(0.0) commonsense(1.0) ,(0.0) risk-based(1.0) approach(0.0) to(0.0) regulation(1.0) embodies(1.0) what(0.0) the(0.0) Speaker(0.0) had(0.0) in(0.0) mind(0.0) when(0.0) he(0.0) 
+established(0.0) the(0.0) Corrections(0.0) Day(0.0) Calendar(0.0) .(0.0) This(0.0) well-crafted(0.0) ,(0.0) noncontroversial(1.0) bill(1.0) simply(1.0) requires(0.0) Federal(1.0) agencies(1.0) to(0.0) differentiate(0.0) between(0.0) animal(0.0) fats(0.0) 
+and(0.0) vegetable(0.0) oils(0.0) on(0.0) the(0.0) one(0.0) hand(0.0) and(0.0) petroleum-based(1.0) on(0.0) the(0.0) other(0.0) .(0.0) The(0.0) Clean(1.0) Water(1.0) Act(0.0) and(0.0) the(0.0) Oil(0.0) 
+Pollution(1.0) Act(0.0) of(0.0) 1990(0.0) are(0.0) the(0.0) two(0.0) primary(0.0) statutes(0.0) addressing(0.0) discharge(0.0) of(0.0) oil(1.0) into(0.0) the(0.0) Nation(0.0) 's(0.0) waters(0.0) impacted(0.0) by(0.0) 
+this(0.0) bill(1.0) and(0.0) to(0.0) a(0.0) lesser(0.0) extent(0.0) the(0.0) Hazardous(1.0) Materials(0.0) Transportation(0.0) Act(0.0) .(0.0) Due(0.0) to(0.0) these(0.0) statutes(1.0) '(0.0) broad(0.0) definitions(0.0) 
+of(0.0) oil(1.0) and(0.0) the(0.0) lack(0.0) of(0.0) explicit(1.0) guidance(0.0) from(0.0) Congress(0.0) ,(0.0) the(0.0) regulatory(1.0) agencies(1.0) have(0.0) not(0.0) adequately(0.0) differentiated(0.0) between(0.0) animal(0.0) 
+fats(0.0) and(0.0) vegetable(0.0) oils(0.0) and(0.0) other(0.0) oils(0.0) ,(0.0) including(0.0) petroleum(1.0) .(0.0) Regulations(0.0) that(0.0) do(0.0) not(0.0) make(0.0) these(0.0) commonsense(1.0) differentiations(0.0) could(0.0) 
+impose(1.0) costly(1.0) ,(0.0) unnecessary(1.0) burdens(1.0) on(0.0) handlers(0.0) ,(0.0) transporters(1.0) ,(0.0) and(0.0) others(0.0) involved(0.0) in(0.0) the(0.0) edible(0.0) oil(1.0) industry(1.0) .(0.0) The(0.0) 
+animal(1.0) fat(0.0) and(0.0) vegetable(0.0) oil(0.0) industry(1.0) handles(0.0) ,(0.0) ships(0.0) ,(0.0) and(0.0) stores(0.0) over(0.0) 25(0.0) billion(0.0) pounds(0.0) of(0.0) product(0.0) annually(1.0) in(0.0) 
+the(0.0) United(0.0) States(0.0) .(0.0) These(0.0) agricultural(1.0) substances(0.0) are(0.0) essential(0.0) components(0.0) to(0.0) our(0.0) Nation's(0.0) economy(1.0) and(0.0) diet(0.0) .(0.0) The(0.0) record(0.0) is(0.0) 
+filled(0.0) with(0.0) documented(0.0) examples(0.0) and(0.0) justifications(1.0) for(0.0) treating(0.0) animal(0.0) fat(0.0) and(0.0) vegetable(0.0) oil(1.0) differently(0.0) from(0.0) other(0.0) types(0.0) of(0.0) oil(1.0) .(0.0) 
+For(0.0) example(0.0) ,(0.0) these(0.0) edible(0.0) oils(0.0) simply(0.0) do(0.0) not(0.0) present(0.0) the(0.0) same(0.0) type(0.0) of(0.0) risk(0.0) to(0.0) the(0.0) environment(0.0) that(0.0) other(0.0) 
+oils(0.0) do(0.0) .(0.0) When(0.0) Congress(0.0) enacted(1.0) the(0.0) Oil(1.0) Pollution(1.0) Act(1.0) of(0.0) 1990(0.0) ,(0.0) it(0.0) did(0.0) not(0.0) intend(0.0) to(0.0) apply(0.0) the(0.0) 
+same(0.0) response(0.0) planning(0.0) ,(0.0) liability(1.0) ,(0.0) financial(1.0) responsibility(0.0) ,(0.0) and(0.0) cleanup(1.0) requirements(1.0) to(0.0) edible(1.0) oils(0.0) to(0.0) the(0.0) same(0.0) extent(0.0) as(0.0) 
+to(0.0) crude(1.0) oil(1.0) and(0.0) petroleum-based(1.0) substances(1.0) .(0.0) Comparable(0.0) versions(0.0) of(0.0) H.R(0.0) .(0.0) 436(0.0) have(0.0) already(0.0) passed(0.0) the(0.0) House(0.0) in(0.0) two(0.0) 
+bills(0.0) this(0.0) year(0.0) :(0.0) H.R(0.0) .(0.0) 1361(0.0) ,(0.0) the(0.0) Coast(1.0) Guard(0.0) authorization(0.0) bill(0.0) for(0.0) fiscal(0.0) year(0.0) 1996(0.0) and(0.0) H.R(0.0) .(0.0) 
+961(0.0) ,(0.0) the(0.0) clean(0.0) water(0.0) amendments(0.0) of(0.0) 1995(0.0) .(0.0) Both(0.0) versions(0.0) moved(0.0) through(0.0) the(0.0) Transportation(0.0) and(0.0) Infrastructure(0.0) Committee(0.0) ,(0.0) the(0.0) 
+committee(0.0) on(0.0) which(0.0) I(0.0) served(0.0) which(0.0) the(0.0) gentleman(0.0) from(0.0) Pennsylvania(1.0) [(0.0) Mr.(0.0) Shuster(1.0) ](0.0) chairs(1.0) ,(0.0) the(0.0) committee(0.0) with(0.0) jurisdiction(0.0) 
+over(0.0) the(0.0) Oil(0.0) Pollution(0.0) Act(0.0) and(0.0) the(0.0) Clean(1.0) Water(0.0) Act(0.0) .(0.0) The(0.0) committee(0.0) has(0.0) an(0.0) extensive(0.0) record(0.0) of(0.0) testimony(0.0) and(0.0) 
+other(0.0) data(0.0) affirming(0.0) the(0.0) need(0.0) for(0.0) the(0.0) legislation(0.0) .(0.0) The(0.0) bill(0.0) before(0.0) us(0.0) combines(0.0) the(0.0) views(0.0) of(0.0) the(0.0) three(0.0) committees(0.0) 
+involved(0.0) :(0.0) the(0.0) Committee(0.0) on(0.0) Commerce(0.0) ,(0.0) the(0.0) Committee(0.0) on(0.0) Agriculture(0.0) ,(0.0) and(0.0) the(0.0) Committee(0.0) on(0.0) Transportation(0.0) and(0.0) Infrastructure(0.0) 
+
+
+----- below are rationale words -----
+
+Burr	for	yielding	
+Burr	Bliley	
+Ewing	Missouri	Ms.	Danner	for	their	
+hard	bill	Edible	Oil	
+Regulatory	Reform	Act	commonsense	risk-based	regulation	embodies	
+noncontroversial	bill	simply	Federal	agencies	
+petroleum-based	Clean	Water	
+Pollution	oil	
+bill	Hazardous	statutes	
+oil	explicit	regulatory	agencies	
+petroleum	commonsense	
+impose	costly	unnecessary	burdens	transporters	oil	industry	
+animal	industry	annually	
+agricultural	economy	
+justifications	oil	oil	
+
+enacted	Oil	Pollution	Act	
+liability	financial	cleanup	requirements	edible	
+crude	oil	petroleum-based	substances	
+Coast	
+
+Pennsylvania	Shuster	chairs	
+Clean	
+
+
+
+reads % = 0.148

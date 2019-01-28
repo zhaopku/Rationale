@@ -1,0 +1,10 @@
+This is from a Republican
+----- below is the original text -----
+Martini(1.0) ](0.0) would(1.0) be(1.0) glad(1.0) to(0.0) add(0.0) your(0.0) name(0.0) to(0.0) the(0.0) amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+would	be	glad	amendment	
+
+reads % = 0.3076923076923077

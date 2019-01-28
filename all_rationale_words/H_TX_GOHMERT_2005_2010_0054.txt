@@ -1,0 +1,10 @@
+This is from a Republican
+----- below is the original text -----
+Well(0.0) ,(0.0) it(0.0) seems(0.0) like(0.0) maybe(0.0) they(0.0) do(0.0) sell(0.0) some(0.0) supplemental(1.0) medical(1.0) insurance(0.0) .(0.0) So(0.0) by(0.0) golly(0.0) --(0.0) --(0.0) 
+
+
+----- below are rationale words -----
+
+supplemental	medical	
+
+reads % = 0.10526315789473684

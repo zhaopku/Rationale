@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) tomorrow(0.0) the(0.0) House(0.0) is(0.0) scheduled(0.0) to(0.0) revoke(0.0) or(0.0) to(0.0) condition(0.0) China(0.0) 's(0.0) trading(0.0) status(0.0) which(0.0) we(0.0) have(0.0) with(0.0) 
+them(0.0) ,(0.0) that(0.0) is(0.0) ,(0.0) the(0.0) United(0.0) States(0.0) '(0.0) trading(0.0) status(0.0) with(0.0) China(0.0) under(0.0) most-(0.0) favored-nation(0.0) law(1.0) .(0.0) I(0.0) rise(0.0) 
+this(0.0) evening(0.0) to(0.0) oppose(1.0) both(0.0) H.R(0.0) .(0.0) 4950(0.0) ,(0.0) offered(0.0) by(0.0) the(0.0) gentlewoman(0.0) from(0.0) California(0.0) [(0.0) Ms.(1.0) Pelosi(1.0) ](0.0) ,(1.0) 
+and(0.0) House(0.0) Joint(0.0) Resolution(0.0) 373(0.0) ,(0.0) offered(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) York(1.0) [(0.0) Mr.(0.0) Solomon(1.0) ](0.0) .(0.0) Madam(0.0) Speaker(0.0) 
+,(0.0) this(0.0) is(0.0) a(0.0) highly(0.0) emotional(0.0) issue(0.0) ,(0.0) with(0.0) legitimate(1.0) arguments(0.0) on(0.0) both(0.0) sides(0.0) .(0.0) I(0.0) hope(0.0) that(0.0) in(0.0) its(0.0) 
+deliberation(0.0) tomorrow(0.0) the(0.0) House(0.0) will(0.0) deal(0.0) with(0.0) the(0.0) facts(0.0) .(0.0) I(0.0) want(0.0) to(0.0) take(0.0) this(0.0) opportunity(0.0) this(0.0) evening(0.0) to(0.0) clarify(0.0) 
+and(0.0) refute(0.0) in(0.0) some(0.0) instances(0.0) some(0.0) of(0.0) the(0.0) claims(0.0) made(0.0) by(0.0) proponents(1.0) of(0.0) the(0.0) legislation(1.0) .(0.0) First(0.0) ,(0.0) the(0.0) claim(0.0) 
+has(0.0) been(0.0) made(0.0) that(0.0) most-favored-nation(1.0) trading(0.0) status(0.0) is(0.0) preferential(1.0) access(0.0) to(0.0) the(0.0) U.S.(0.0) market(0.0) .(0.0) This(0.0) is(0.0) absolutely(0.0) false(0.0) .(0.0) 
+MFN(1.0) ,(0.0) as(0.0) we(0.0) all(0.0) know(0.0) ,(0.0) is(0.0) actually(0.0) a(0.0) misnomer(0.0) .(0.0) What(0.0) it(0.0) means(0.0) in(0.0) fact(0.0) is(0.0) whether(0.0) we(0.0) 
+grant(1.0) normal(0.0) trading(0.0) status(0.0) to(0.0) a(0.0) nation(0.0) such(0.0) as(0.0) China(0.0) .(0.0) Only(0.0) eight(0.0) nations(1.0) do(0.0) not(0.0) have(0.0) MFN(1.0) status(0.0) from(0.0) 
+the(0.0) United(0.0) States(0.0) ,(0.0) nations(1.0) such(0.0) as(0.0) Iran(0.0) ,(0.0) Iraq(1.0) ,(0.0) and(0.0) Libya(1.0) .(0.0) I(0.0) might(0.0) add(0.0) that(0.0) the(0.0) greatest(0.0) 
+policy(1.0) factor(0.0) in(0.0) not(0.0) granting(1.0) MFN(1.0) to(0.0) these(0.0) nations(1.0) ,(0.0) the(0.0) eight(0.0) nations(1.0) ,(0.0) is(0.0) primarily(0.0) because(0.0) of(0.0) national(1.0) security(0.0) 
+reasons(0.0) .(0.0) The(0.0) second(0.0) erroneous(0.0) claim(0.0) is(0.0) that(0.0) China(1.0) does(0.0) not(0.0) grant(1.0) MFN(1.0) status(0.0) to(0.0) the(0.0) United(0.0) States(0.0) .(0.0) This(0.0) 
+claim(0.0) is(0.0) also(0.0) false(0.0) .(0.0) Just(0.0) last(0.0) week(0.0) during(0.0) a(0.0) hearing(0.0) in(0.0) the(0.0) Ways(1.0) and(0.0) Means(0.0) I(0.0) asked(0.0) the(0.0) administration(1.0) 
+this(0.0) question(0.0) ,(0.0) and(0.0) they(0.0) responded(0.0) that(0.0) ,(0.0) ``(0.0) yes(0.0) ,(0.0) ''(0.0) China(0.0) does(0.0) grant(1.0) MFN(1.0) status(0.0) to(0.0) the(0.0) United(0.0) 
+States(0.0) .(0.0) So(0.0) at(0.0) this(0.0) point(0.0) it(0.0) is(0.0) reciprocal(0.0) .(0.0) The(0.0) third(0.0) claim(0.0) is(0.0) that(0.0) China(1.0) is(0.0) not(0.0) helping(0.0) the(0.0) 
+United(0.0) States(0.0) in(0.0) its(0.0) efforts(1.0) to(0.0) keep(0.0) North(0.0) Korea(0.0) from(0.0) obtaining(0.0) nuclear(1.0) weapons(0.0) .(0.0) As(0.0) one(0.0) who(0.0) is(0.0) heavily(0.0) involved(0.0) 
+in(0.0) arms(0.0) control(0.0) and(0.0) that(0.0) issue(0.0) ,(0.0) I(0.0) know(0.0) that(0.0) this(0.0) is(0.0) false(0.0) ,(0.0) personally(0.0) .(0.0) The(0.0) administration(1.0) confirmed(0.0) in(0.0) 
+last(0.0) week(0.0) 's(0.0) Ways(0.0) and(0.0) Means(0.0) Committee(0.0) hearing(0.0) that(0.0) they(0.0) have(0.0) been(0.0) a(0.0) willing(0.0) and(0.0) able(0.0) partner(0.0) with(0.0) us(0.0) .(0.0) 
+The(0.0) United(0.0) States(0.0) negotiator(1.0) toward(0.0) North(0.0) Korea(0.0) ,(0.0) Mr.(0.0) Bob(1.0) Gallucci(1.0) ,(0.0) was(0.0) in(0.0) Beijing(0.0) to(0.0) consult(0.0) with(0.0) the(0.0) Chinese(0.0) 
+prior(0.0) to(0.0) the(0.0) most(0.0) recent(0.0) negotiations(0.0) with(0.0) North(0.0) Korea(0.0) .(0.0) China(0.0) ,(0.0) by(0.0) virtue(1.0) of(0.0) its(0.0) relations(0.0) with(0.0) North(0.0) Korea(0.0) 
+,(0.0) has(0.0) certain(0.0) avenues(0.0) for(0.0) diplomatic(0.0) pressures(0.0) unavailable(0.0) to(0.0) the(0.0) United(0.0) States(0.0) .(0.0) Were(0.0) the(0.0) United(0.0) States(0.0) to(0.0) condition(0.0) MFN(1.0) 
+with(0.0) China(0.0) ,(0.0) thus(0.0) poisoning(0.0) our(0.0) relations(1.0) ,(0.0) China(0.0) would(0.0) certainly(0.0) not(0.0) be(0.0) as(0.0) willing(0.0) to(0.0) cooperate(0.0) with(0.0) the(0.0) United(0.0) 
+States(0.0) at(0.0) this(0.0) crucial(0.0) time(0.0) .(0.0) Another(0.0) claim(0.0) is(0.0) that(0.0) H.R(0.0) .(0.0) 4590(0.0) will(0.0) only(0.0) affect(0.0) $(0.0) 5(0.0) billion(1.0) of(0.0) 
+Chinese(0.0) exports(1.0) to(0.0) the(0.0) United(0.0) States(0.0) .(0.0) This(0.0) is(0.0) false(0.0) .(0.0) The(0.0) number(0.0) is(0.0) actually(0.0) about(0.0) $(0.0) 17(0.0) billion(1.0) 
+
+
+----- below are rationale words -----
+
+
+law	
+oppose	Ms.	Pelosi	,	
+York	Solomon	
+legitimate	
+
+proponents	legislation	
+most-favored-nation	preferential	
+MFN	
+grant	nations	MFN	
+nations	Iraq	Libya	
+policy	granting	MFN	nations	nations	national	
+China	grant	MFN	
+Ways	administration	
+grant	MFN	
+China	
+efforts	nuclear	
+administration	
+
+negotiator	Bob	Gallucci	
+virtue	
+MFN	
+relations	
+billion	
+exports	billion	
+
+reads % = 0.09

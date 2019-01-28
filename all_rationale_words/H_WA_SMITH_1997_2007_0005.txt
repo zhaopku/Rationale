@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) would(0.0) just(0.0) first(0.0) observe(0.0) that(0.0) none(0.0) of(0.0) these(0.0) soldiers(0.0) who(0.0) died(0.0) in(0.0) Iraq(1.0) ,(0.0) no(0.0) matter(0.0) what(0.0) 
+happens(0.0) from(0.0) this(0.0) point(0.0) forward(0.0) ,(0.0) died(0.0) in(0.0) vain(0.0) .(0.0) No(0.0) soldier(0.0) who(0.0) dies(0.0) fighting(0.0) for(0.0) his(0.0) country(0.0) and(0.0) his(0.0) 
+comrades(0.0) dies(0.0) in(0.0) vain(0.0) ,(0.0) regardless(0.0) of(0.0) the(0.0) politics(1.0) .(0.0) I(0.0) hope(0.0) we(0.0) would(0.0) all(0.0) understand(0.0) that(0.0) .(0.0) Madam(0.0) Speaker(1.0) 
+,(0.0) I(0.0) yield(0.0) 5(0.0) minutes(0.0) to(0.0) the(0.0) gentlewoman(0.0) from(0.0) New(0.0) York(1.0) ((0.0) Mrs.(0.0) Maloney(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Iraq	
+
+politics	Speaker	
+York	Maloney	
+
+reads % = 0.06493506493506493

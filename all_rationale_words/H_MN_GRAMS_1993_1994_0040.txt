@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) imagine(0.0) if(0.0) every(0.0) time(0.0) consumers(0.0) went(0.0) to(0.0) the(0.0) doctor(0.0) they(0.0) had(0.0) to(0.0) write(0.0) three(0.0) checks(0.0) to(0.0) pay(1.0) the(0.0) bill(1.0) 
+,(0.0) one(0.0) to(0.0) the(0.0) physician(0.0) ,(0.0) and(0.0) then(0.0) one(0.0) to(0.0) the(0.0) lawyer(1.0) ,(0.0) and(0.0) one(0.0) to(0.0) the(0.0) liability(1.0) insurance(0.0) company(0.0) 
+.(0.0) Do(0.0) you(0.0) think(0.0) consumers(1.0) would(0.0) tolerate(0.0) this(0.0) if(0.0) they(0.0) knew(0.0) the(0.0) costs(1.0) ?(0.0) They(0.0) certainly(0.0) would(0.0) not(0.0) .(0.0) If(0.0) 
+you(0.0) told(0.0) those(0.0) same(0.0) consumers(1.0) that(0.0) serious(0.0) medical(1.0) malpractice(1.0) reform(1.0) would(0.0) save(0.0) them(0.0) $(0.0) 500(0.0) per(0.0) hospital(0.0) stay(0.0) ,(0.0) they(0.0) 
+would(0.0) wonder(0.0) what(0.0) is(0.0) taking(0.0) us(0.0) so(0.0) long(0.0) to(0.0) correct(0.0) this(0.0) problem(0.0) .(0.0) Medical(0.0) malpractice(1.0) reform(1.0) ,(0.0) would(0.0) bring(0.0) down(0.0) 
+the(0.0) costs(1.0) of(0.0) hospital(0.0) stays(0.0) ,(0.0) reduce(1.0) the(0.0) cost(1.0) of(0.0) medical(1.0) liability(1.0) insurance(0.0) ,(0.0) and(0.0) reduce(1.0) the(0.0) rate(0.0) of(0.0) defensive(1.0) 
+medicine(1.0) .(0.0) But(0.0) ,(0.0) amazingly(0.0) enough(0.0) ,(0.0) there(0.0) is(0.0) no(0.0) real(0.0) medical(0.0) malpractice(1.0) reform(1.0) in(0.0) any(0.0) of(0.0) the(0.0) health(1.0) care(0.0) 
+reform(1.0) bills(1.0) reported(0.0) by(0.0) the(0.0) House(0.0) committees(1.0) .(0.0) That(0.0) is(0.0) why(0.0) I(0.0) am(0.0) going(0.0) to(0.0) introduce(0.0) the(0.0) Medical(0.0) Malpractice(0.0) Fairness(1.0) 
+Act(1.0) of(0.0) 1994(0.0) later(0.0) this(0.0) week(0.0) .(0.0) In(0.0) fact(0.0) ,(0.0) former(0.0) Vice(0.0) President(1.0) Dan(1.0) Quayle(1.0) has(1.0) strongly(0.0) endorsed(1.0) this(0.0) legislation(1.0) 
+and(0.0) urged(0.0) its(0.0) passage(1.0) this(0.0) year(0.0) because(0.0) unlike(0.0) other(0.0) proposals(1.0) before(0.0) Congress(0.0) ,(0.0) this(0.0) legislation(1.0) is(0.0) true(0.0) reform(1.0) that(0.0) Americans(1.0) 
+want(0.0) ,(0.0) need(0.0) ,(0.0) and(0.0) demand(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) strongly(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) become(0.0) original(0.0) cosponsors(1.0) of(0.0) 
+the(0.0) Medical(0.0) Malpractice(0.0) Fairness(1.0) Act(0.0) of(0.0) 1994(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+pay	bill	
+lawyer	liability	
+consumers	costs	
+consumers	medical	malpractice	reform	
+malpractice	reform	
+costs	reduce	cost	medical	liability	reduce	defensive	
+medicine	malpractice	reform	health	
+reform	bills	committees	Fairness	
+Act	President	Dan	Quayle	has	endorsed	legislation	
+passage	proposals	legislation	reform	Americans	
+Speaker	cosponsors	
+Fairness	1994	
+
+reads % = 0.18777292576419213

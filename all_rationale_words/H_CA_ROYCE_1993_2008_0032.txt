@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) reserve(0.0) the(0.0) right(0.0) to(0.0) object(0.0) ,(0.0) although(0.0) I(0.0) do(0.0) not(0.0) intend(0.0) to(0.0) object(0.0) .(0.0) I(0.0) do(0.0) so(0.0) 
+here(0.0) for(0.0) the(0.0) purpose(0.0) of(0.0) debate(1.0) only(0.0) .(0.0) I(0.0) thank(0.0) the(0.0) gentlewoman(0.0) for(0.0) her(0.0) request(0.0) ,(0.0) and(0.0) I(0.0) rise(0.0) in(0.0) 
+support(0.0) of(0.0) this(0.0) measure(1.0) ,(0.0) H.R(0.0) .(0.0) 5690(0.0) .(0.0) I(0.0) concur(0.0) in(0.0) my(0.0) colleague(0.0) 's(0.0) request(0.0) for(0.0) unanimous(1.0) consent(0.0) to(0.0) 
+pass(0.0) this(0.0) measure(1.0) as(0.0) amended(0.0) by(0.0) the(0.0) Senate(0.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) this(0.0) bill(1.0) corrects(1.0) a(0.0) longstanding(1.0) error(0.0) on(0.0) U.S.(0.0) 
+policy(0.0) towards(0.0) South(0.0) Africa(0.0) .(0.0) The(0.0) House(0.0) passed(0.0) the(0.0) bill(0.0) on(0.0) May(0.0) 8(0.0) of(0.0) this(0.0) year(0.0) ,(0.0) and(0.0) the(0.0) Senate(0.0) 
+passed(0.0) the(0.0) bill(0.0) by(0.0) unanimous(1.0) consent(0.0) just(0.0) a(0.0) few(0.0) moments(0.0) ago(0.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) I(0.0) am(0.0) honored(0.0) to(0.0) participate(0.0) 
+in(0.0) the(0.0) process(0.0) of(0.0) updating(0.0) U.S.(0.0) immigration(1.0) law(1.0) as(0.0) it(0.0) applies(0.0) to(0.0) visits(0.0) to(0.0) the(0.0) United(0.0) States(0.0) by(0.0) South(1.0) African(0.0) 
+officials(0.0) ,(0.0) such(0.0) as(0.0) former(0.0) President(0.0) Nelson(1.0) Mandela(1.0) ,(0.0) to(0.0) reflect(0.0) the(0.0) appropriate(0.0) status(0.0) of(0.0) the(0.0) African(0.0) National(0.0) Congress(0.0) ,(0.0) 
+and(0.0) I(0.0) look(0.0) forward(0.0) to(0.0) personally(0.0) sharing(0.0) news(0.0) of(0.0) passage(1.0) of(0.0) this(0.0) bill(1.0) with(0.0) Mr.(0.0) Mandela(1.0) and(0.0) the(0.0) South(0.0) African(0.0) 
+government(0.0) when(0.0) I(0.0) visit(0.0) South(1.0) Africa(0.0) next(0.0) week(0.0) with(0.0) Chairman(0.0) Berman(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+debate	
+measure	unanimous	
+measure	Speaker	bill	corrects	longstanding	
+
+unanimous	Speaker	
+immigration	law	South	
+Nelson	Mandela	
+passage	bill	Mandela	
+South	Berman	
+
+reads % = 0.10362694300518134

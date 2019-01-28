@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Without(0.0) bold(1.0) action(0.0) ,(0.0) our(0.0) budget(0.0) situation(0.0) will(0.0) get(0.0) worse(1.0) ,(0.0) not(1.0) better(0.0) .(0.0) We(0.0) also(1.0) face(0.0) a(0.0) severe(1.0) economic(1.0) recession(1.0) 
+.(0.0) The(0.0) current(0.0) national(0.0) unemployment(1.0) rate(0.0) is(0.0) 9.0(0.0) percent(1.0) ,(0.0) and(0.0) it(0.0) has(0.0) been(0.0) as(0.0) high(0.0) as(0.0) 10.1(0.0) percent(1.0) back(0.0) 
+in(0.0) April(0.0) of(0.0) 2009(1.0) .(0.0) With(1.0) so(0.0) many(0.0) Americans(0.0) out(0.0) of(0.0) work(0.0) ,(0.0) the(0.0) Federal(1.0) Government(0.0) should(0.0) be(0.0) doing(0.0) everything(0.0) 
+in(0.0) its(0.0) power(1.0) to(0.0) encourage(1.0) economic(0.0) growth(1.0) --(0.0) not(1.0) discourage(1.0) it(0.0) .(0.0) Cutting(1.0) spending(1.0) is(0.0) critical(1.0) to(0.0) creating(0.0) a(0.0) pro-growth(1.0) 
+environment(0.0) .(0.0) Cutting(1.0) spending(1.0) is(0.0) essential(1.0) to(0.0) free(1.0) market(0.0) job(1.0) creation(0.0) .(0.0) House(0.0) Republicans(1.0) are(0.0) the(0.0) only(0.0) group(0.0) in(0.0) Washington(1.0) 
+showing(1.0) leadership(1.0) on(0.0) this(0.0) issue(0.0) .(0.0) We(0.0) have(0.0) voted(1.0) repeatedly(1.0) to(0.0) cut(1.0) spending(1.0) in(0.0) the(0.0) short(0.0) term(0.0) ,(0.0) and(0.0) we(0.0) 
+have(0.0) passed(0.0) a(0.0) budget(0.0) that(0.0) would(1.0) reduce(1.0) spending(1.0) by(0.0) $(0.0) 6.2(0.0) trillion(1.0) over(0.0) 10(0.0) years(0.0) .(0.0) By(1.0) contrast(1.0) ,(0.0) it(0.0) 
+has(0.0) been(0.0) more(0.0) than(0.0) 750(0.0) days(0.0) since(0.0) Senate(1.0) Democrats(1.0) have(0.0) even(0.0) passed(0.0) a(0.0) budget(0.0) .(0.0) Recently(1.0) ,(0.0) Senator(1.0) Reid(1.0) said(1.0) 
+:(1.0) ``(0.0) There(0.0) 's(0.0) no(0.0) need(1.0) to(0.0) have(0.0) a(0.0) Democratic(1.0) budget(0.0) ,(0.0) in(0.0) my(0.0) opinion(1.0) .(0.0) It(0.0) would(0.0) be(0.0) foolish(1.0) 
+for(0.0) us(0.0) to(0.0) do(0.0) a(0.0) budget(0.0) at(0.0) this(0.0) stage(0.0) .(0.0) ''(0.0) That(0.0) is(0.0) a(0.0) breathtaking(1.0) statement(0.0) for(0.0) two(0.0) important(0.0) reasons(0.0) 
+:(1.0) First(1.0) ,(0.0) the(0.0) Senate(1.0) is(0.0) required(0.0) by(0.0) law(1.0) under(0.0) the(0.0) Congressional(1.0) Budget(1.0) Act(0.0) to(0.0) pass(1.0) a(0.0) budget(0.0) .(0.0) Second(0.0) 
+,(0.0) working(0.0) families(0.0) all(0.0) across(0.0) America(0.0) live(0.0) within(1.0) their(0.0) means(1.0) every(0.0) single(1.0) day(0.0) by(0.0) following(0.0) a(0.0) family(0.0) budget(0.0) .(0.0) It(0.0) 
+'s(0.0) simple(0.0) .(0.0) They(0.0) do(0.0) n't(0.0) spend(1.0) what(0.0) they(0.0) do(0.0) n't(0.0) have(0.0) .(0.0) So(1.0) I(0.0) ask(1.0) :(1.0) Why(0.0) shouldn't(0.0) Democrats(1.0) 
+in(0.0) the(0.0) Senate(1.0) live(0.0) by(0.0) the(0.0) same(1.0) rule(0.0) ?(1.0) Now(0.0) the(0.0) White(0.0) House(0.0) is(0.0) asking(0.0) us(0.0) to(0.0) raise(1.0) the(0.0) debt(0.0) 
+limit(0.0) and(0.0) Secretary(1.0) Geithner(1.0) wrote(1.0) ,(0.0) ``(1.0) Never(0.0) in(0.0) our(0.0) history(0.0) has(0.0) Congress(0.0) failed(0.0) to(0.0) increase(0.0) the(0.0) debt(1.0) limit(0.0) when(0.0) 
+necessary(0.0) .(0.0) ''(0.0) The(0.0) White(0.0) House(0.0) wants(1.0) a(0.0) clean(1.0) increase(1.0) in(0.0) the(0.0) debt(1.0) limit(0.0) .(0.0) That(0.0) means(1.0) they(0.0) want(1.0) Congress(0.0) 
+to(0.0) approve(1.0) more(0.0) debt(1.0) without(0.0) cutting(0.0) back(0.0) on(0.0) any(1.0) spending(1.0) .(0.0) That(0.0) is(0.0) a(0.0) failed(0.0) policy(0.0) .(0.0) The(0.0) vote(1.0) we(0.0) 
+took(1.0) tonight(0.0) is(0.0) a(0.0) clear(0.0) indicator(0.0) that(0.0) House(0.0) Republicans(1.0) reject(1.0) that(0.0) approach(0.0) .(0.0) Our(0.0) message(0.0) is(0.0) clear(0.0) .(0.0) We(0.0) will(0.0) 
+not(1.0) vote(1.0) to(0.0) raise(1.0) the(0.0) debt(1.0) limit(0.0) without(0.0) significant(0.0) reforms(1.0) to(0.0) change(1.0) the(0.0) culture(1.0) of(0.0) spending(1.0) in(0.0) Washington(1.0) .(0.0) If(1.0) 
+the(0.0) White(0.0) House(0.0) wants(1.0) us(0.0) to(0.0) consider(0.0) raising(1.0) the(0.0) debt(1.0) limit(0.0) ,(0.0) they(0.0) should(0.0) be(0.0) at(0.0) the(0.0) table(0.0) proposing(0.0) significant(0.0) 
+reforms(1.0) that(0.0) yield(0.0) trillions(1.0) ,(0.0) not(1.0) billions(1.0) ,(0.0) in(0.0) savings(1.0) to(0.0) the(0.0) American(0.0) people(0.0) .(0.0) So(1.0) far(0.0) ,(0.0) that(0.0) has(0.0) 
+not(1.0) happened(1.0) .(0.0) Tomorrow(0.0) ,(0.0) the(0.0) President(1.0) has(0.0) invited(1.0) House(0.0) Republicans(1.0) to(0.0) the(0.0) White(0.0) House(0.0) to(0.0) discuss(0.0) the(0.0) debt(1.0) ceiling(1.0) 
+.(0.0) His(0.0) request(1.0) for(0.0) a(0.0) clean(1.0) increase(1.0) in(0.0) the(0.0) debt(1.0) limit(0.0) was(0.0) rejected(1.0) tonight(0.0) .(0.0) I(0.0) hope(0.0) that(0.0) tomorrow(1.0) the(0.0) 
+President(1.0) will(0.0) offer(0.0) serious(0.0) proposals(1.0) to(0.0) cure(0.0) Washington(1.0) 's(0.0) addiction(0.0) to(0.0) spending(1.0) .(0.0) No(0.0) lip(0.0) service(0.0) .(0.0) No(0.0) gimmicks(1.0) .(0.0) 
+No(0.0) smoke(0.0) and(0.0) mirrors(1.0) .(0.0) The(0.0) American(0.0) people(0.0) do(0.0) n't(0.0) want(1.0) more(0.0) political(1.0) posturing(1.0) .(0.0) Real(1.0) spending(1.0) cuts(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+bold	worse	not	also	severe	economic	recession	
+unemployment	percent	percent	
+2009	With	Federal	
+power	encourage	growth	not	discourage	Cutting	spending	critical	pro-growth	
+Cutting	spending	essential	free	job	Republicans	Washington	
+showing	leadership	voted	repeatedly	cut	spending	
+would	reduce	spending	trillion	By	contrast	
+Senate	Democrats	Recently	Senator	Reid	said	
+:	need	Democratic	opinion	foolish	
+breathtaking	
+:	First	Senate	law	Congressional	Budget	pass	
+within	means	single	
+spend	So	ask	:	Democrats	
+Senate	same	?	raise	
+Secretary	Geithner	wrote	``	debt	
+wants	clean	increase	debt	means	want	
+approve	debt	any	spending	vote	
+took	Republicans	reject	
+not	vote	raise	debt	reforms	change	culture	spending	Washington	If	
+wants	raising	debt	
+reforms	trillions	not	billions	savings	So	
+not	happened	President	invited	Republicans	debt	ceiling	
+request	clean	increase	debt	rejected	tomorrow	
+President	proposals	Washington	spending	gimmicks	
+mirrors	want	political	posturing	Real	spending	cuts	
+
+reads % = 0.27

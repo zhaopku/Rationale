@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) the(0.0) citizens(1.0) of(0.0) this(0.0) country(1.0) deserve(0.0) to(0.0) know(0.0) what(0.0) is(0.0) really(0.0) at(0.0) stake(0.0) when(0.0) it(0.0) comes(0.0) to(0.0) the(0.0) balanced(0.0) 
+budget(1.0) .(0.0) Everybody(0.0) agrees(0.0) we(0.0) have(0.0) to(0.0) reduce(1.0) and(0.0) ultimately(0.0) eliminate(1.0) the(0.0) Federal(1.0) budget(1.0) deficit(1.0) ,(0.0) but(0.0) what(0.0) will(0.0) it(0.0) 
+really(0.0) take(0.0) to(0.0) get(0.0) a(0.0) balanced(0.0) budget(1.0) in(0.0) 7(0.0) years(0.0) without(0.0) touching(0.0) the(0.0) amount(0.0) of(0.0) money(1.0) we(0.0) now(0.0) spend(0.0) on(0.0) 
+defense(1.0) as(0.0) the(0.0) Republican(1.0) majority(1.0) proposes(1.0) ,(1.0) while(1.0) at(1.0) the(1.0) same(1.0) time(1.0) offering(1.0) a(1.0) big(1.0) cut(1.0) in(1.0) income(1.0) taxes(1.0) ?(1.0) 
+The(1.0) Republican(1.0) leadership(1.0) is(1.0) doing(1.0) a(1.0) real(1.0) disservice(1.0) to(1.0) the(1.0) American(1.0) people(1.0) by(1.0) refusing(1.0) to(1.0) disclose(1.0) what(1.0) kinds(1.0) of(1.0) middle(1.0) 
+class(1.0) programs(1.0) we(1.0) will(1.0) probably(1.0) have(1.0) to(1.0) get(1.0) rid(1.0) of(1.0) in(0.0) order(1.0) to(0.0) have(0.0) to(0.0) balance(0.0) the(0.0) budget(1.0) by(0.0) 2002(0.0) 
+.(0.0) Just(0.0) a(0.0) few(0.0) minutes(0.0) ago(0.0) in(0.0) the(0.0) Committee(0.0) on(0.0) the(0.0) Judiciary(0.0) the(0.0) Republican(0.0) from(1.0) cuts(1.0) to(1.0) balance(1.0) the(1.0) budget(1.0) 
+.(1.0) What(1.0) about(1.0) student(0.0) assistance(1.0) ?(0.0) Probably(0.0) kiss(0.0) it(0.0) goodbye(0.0) .(0.0) Unemployment(1.0) insurance(1.0) ?(0.0) Major(0.0) cuts(1.0) .(0.0) Medicare(0.0) programs(1.0) ?(0.0) 
+Devastating(0.0) cuts(1.0) .(0.0) What(0.0) about(0.0) cures(1.0) for(0.0) cancer(1.0) ?(0.0) Our(0.0) research(0.0) institutions(1.0) are(0.0) facing(0.0) massive(1.0) cuts(1.0) if(1.0) this(0.0) budget(1.0) amendment(1.0) 
+passes(1.0) .(0.0) These(0.0) are(0.0) just(0.0) a(0.0) few(0.0) examples(0.0) of(0.0) the(0.0) kinds(0.0) of(0.0) massive(1.0) program(1.0) cuts(1.0) that(0.0) will(0.0) occur(0.0) .(0.0) It(0.0) 
+is(0.0) time(0.0) for(0.0) this(0.0) open(0.0) Congress(0.0) to(0.0) be(0.0) truly(0.0) open(0.0) and(0.0) tell(0.0) the(0.0) people(0.0) how(0.0) it(0.0) will(0.0) balance(0.0) the(0.0) budget(1.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+citizens	country	
+budget	reduce	eliminate	Federal	budget	deficit	
+budget	money	
+defense	Republican	majority	proposes	,	while	at	the	same	time	offering	a	big	cut	in	income	taxes	?	
+The	Republican	leadership	is	doing	a	real	disservice	to	the	American	people	by	refusing	to	disclose	what	kinds	of	middle	
+class	programs	we	will	probably	have	to	get	rid	of	order	budget	
+from	cuts	to	balance	the	budget	
+.	What	about	assistance	Unemployment	insurance	cuts	programs	
+cuts	cures	cancer	institutions	massive	cuts	if	budget	amendment	
+passes	massive	program	cuts	
+budget	
+
+
+reads % = 0.3963963963963964

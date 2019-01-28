@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+Despite(1.0) ardent(1.0) promises(1.0) from(0.0) Republicans(1.0) that(1.0) all(1.0) bills(1.0) would(1.0) be(1.0) considered(1.0) under(1.0) regular(1.0) order(1.0) ,(1.0) this(1.0) resolution(1.0) has(1.0) neither(1.0) been(1.0) debated(1.0) 
+nor(1.0) voted(1.0) on(0.0) by(1.0) a(0.0) single(0.0) committee(0.0) of(0.0) jurisdiction(1.0) .(0.0) Additionally(0.0) ,(0.0) the(0.0) recently(0.0) passed(0.0) Republican(0.0) rules(1.0) package(1.0) requires(1.0) that(1.0) 
+all(1.0) legislation(1.0) be(1.0) fully(0.0) paid(0.0) for(0.0) --(1.0) and(0.0) yet(0.0) the(0.0) Republican(1.0) leadership(1.0) has(1.0) already(1.0) publicly(1.0) declared(1.0) that(1.0) they(1.0) have(1.0) no(1.0) 
+intention(1.0) of(1.0) paying(1.0) for(1.0) what(1.0) is(1.0) estimated(1.0) to(1.0) be(1.0) a(1.0) $(0.0) 230(0.0) billion(1.0) increase(1.0) in(1.0) the(1.0) deficit(1.0) that(1.0) the(1.0) repeal(1.0) 
+of(1.0) health(1.0) reform(1.0) would(1.0) create(1.0) by(1.0) 2021(1.0) ,(1.0) according(1.0) to(0.0) the(0.0) Congressional(1.0) Budget(1.0) Office(1.0) .(0.0) Worse(1.0) than(0.0) the(0.0) Republicans(1.0) '(1.0) 
+already(1.0) broken(1.0) promises(1.0) are(1.0) what(1.0) this(1.0) rule(1.0) and(1.0) the(1.0) underlying(1.0) resolution(1.0) would(1.0) do(1.0) to(1.0) children(1.0) ,(1.0) to(0.0) seniors(1.0) ,(0.0) and(1.0) 
+to(0.0) all(0.0) Americans(1.0) who(0.0) are(0.0) suffering(0.0) from(0.0) illnesses(1.0) .(0.0) I(0.0) strongly(0.0) oppose(1.0) this(0.0) rule(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+ardent	promises	Republicans	that	all	bills	would	be	considered	under	regular	order	,	this	resolution	has	neither	been	debated	
+nor	voted	by	jurisdiction	rules	package	requires	that	
+all	legislation	be	--	Republican	leadership	has	already	publicly	declared	that	they	have	no	
+intention	of	paying	for	what	is	estimated	to	be	a	billion	increase	in	the	deficit	that	the	repeal	
+of	health	reform	would	create	by	2021	,	according	Congressional	Budget	Office	Worse	Republicans	'	
+already	broken	promises	are	what	this	rule	and	the	underlying	resolution	would	do	to	children	,	seniors	and	
+Americans	illnesses	oppose	rule	
+
+reads % = 0.7058823529411765

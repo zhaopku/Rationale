@@ -1,0 +1,22 @@
+This is from a Republican
+----- below is the original text -----
+2828(1.0) ,(0.0) the(0.0) California(0.0) Water(0.0) Bill(0.0) because(0.0) it(0.0) preauthorizes(0.0) wasteful(1.0) projects(1.0) .(0.0) It(0.0) forces(0.0) federal(1.0) taxpayers(1.0) to(0.0) pick(0.0) up(0.0) more(0.0) than(0.0) 
+a(0.0) $(0.0) 1.5(0.0) billion(1.0) tab(0.0) for(0.0) a(0.0) California-only(0.0) project(0.0) .(0.0) It(0.0) would(0.0) not(0.0) prevent(0.0) taxpayers(1.0) from(0.0) getting(0.0) stuck(0.0) with(0.0) the(0.0) 
+cost(1.0) for(0.0) large(0.0) water(0.0) projects(0.0) ,(0.0) and(0.0) would(0.0) open(0.0) the(0.0) Federal(1.0) treasury(1.0) to(0.0) raids(1.0) by(0.0) disingenuous(1.0) water(1.0) users(0.0) .(0.0) H.R(0.0) 
+.(0.0) 2828(0.0) would(0.0) ``(0.0) preauthorize(0.0) ''(0.0) major(0.0) water(0.0) projects(0.0) .(0.0) A(0.0) ``(0.0) yes(0.0) ''(0.0) vote(1.0) on(0.0) H.R(0.0) .(0.0) 2828(0.0) would(0.0) 
+mean(0.0) Congress(0.0) gives(0.0) up(0.0) its(0.0) long-standing(1.0) right(0.0) to(0.0) have(0.0) a(0.0) say(0.0) over(0.0) taxpayer(1.0) funded(1.0) projects(0.0) .(0.0) Why(0.0) should(0.0) the(0.0) rest(0.0) 
+of(0.0) the(0.0) country(1.0) pay(0.0) for(0.0) California(1.0) 's(0.0) water(1.0) problem(0.0) ?(0.0) They(0.0) have(0.0) 35(0.0) million(0.0) taxpayers(1.0) to(0.0) pay(1.0) for(0.0) it(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+wasteful	projects	federal	taxpayers	
+billion	taxpayers	
+cost	Federal	treasury	raids	disingenuous	water	
+vote	
+long-standing	taxpayer	funded	
+country	California	water	taxpayers	pay	
+
+
+reads % = 0.17355371900826447

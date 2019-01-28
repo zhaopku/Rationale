@@ -1,0 +1,42 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) would(0.0) like(0.0) to(0.0) thank(0.0) my(0.0) colleague(0.0) ,(0.0) the(0.0) distinguished(0.0) chairman(0.0) of(0.0) the(0.0) Judiciary(0.0) Committee(0.0) ((0.0) Mr.(0.0) Smith(1.0) of(0.0) Texas(0.0) )(0.0) 
+for(0.0) yielding(0.0) the(0.0) time(0.0) .(0.0) He(0.0) explained(0.0) it(0.0) much(0.0) better(0.0) than(0.0) I(0.0) can(0.0) ,(0.0) but(0.0) I(0.0) 'll(0.0) take(0.0) a(0.0) stab(0.0) 
+at(0.0) it(0.0) myself(0.0) .(0.0) H.R(0.0) .(0.0) 4086(0.0) is(0.0) really(0.0) a(0.0) straightforward(0.0) bill(0.0) which(0.0) would(0.0) better(0.0) clarify(0.0) the(0.0) relationship(0.0) between(0.0) the(0.0) 
+Immunity(0.0) from(0.0) Seizure(1.0) Act(0.0) and(0.0) the(0.0) Foreign(0.0) Sovereign(0.0) Immunities(0.0) Act(0.0) .(0.0) Since(0.0) 1965(0.0) ,(0.0) the(0.0) Immunity(0.0) from(0.0) Seizure(0.0) Act(0.0) has(0.0) 
+provided(0.0) the(0.0) executive(0.0) branch(0.0) with(0.0) authority(0.0) to(0.0) grant(0.0) foreign(0.0) artwork(0.0) and(0.0) other(0.0) objects(0.0) of(0.0) cultural(1.0) significance(0.0) immunity(0.0) from(0.0) seizure(0.0) by(0.0) 
+U.S.(0.0) courts(0.0) .(0.0) The(0.0) purpose(0.0) of(0.0) this(0.0) was(0.0) to(0.0) encourage(0.0) loaning(1.0) and(0.0) sharing(0.0) exhibitions(0.0) between(0.0) U.S.(0.0) and(0.0) foreign(0.0) museums(0.0) .(0.0) 
+However(0.0) ,(0.0) there(0.0) is(0.0) now(0.0) a(0.0) conflict(0.0) between(0.0) the(0.0) Immunity(0.0) from(0.0) Seizure(1.0) Act(0.0) and(0.0) the(0.0) Foreign(0.0) Sovereign(0.0) Immunities(0.0) Act(0.0) that(0.0) 
+has(0.0) interrupted(0.0) this(0.0) friendly(0.0) exchange(0.0) .(0.0) Essentially(0.0) ,(0.0) a(0.0) provision(1.0) of(0.0) the(0.0) Foreign(0.0) Sovereign(0.0) Immunities(0.0) Act(0.0) allows(0.0) U.S.(0.0) courts(0.0) to(0.0) 
+have(0.0) jurisdiction(0.0) over(0.0) foreign(0.0) governments(0.0) when(0.0) their(0.0) artwork(0.0) is(0.0) temporarily(0.0) imported(0.0) into(0.0) the(0.0) U.S.(0.0) ,(0.0) putting(0.0) foreign(1.0) artwork(0.0) and(0.0) artifacts(0.0) 
+at(0.0) risk(0.0) of(0.0) seizure(0.0) .(0.0) Unfortunately(0.0) ,(0.0) this(0.0) has(0.0) led(0.0) ,(0.0) in(0.0) many(0.0) instances(0.0) ,(0.0) to(0.0) foreign(1.0) governments(1.0) declining(1.0) to(0.0) 
+import(1.0) into(0.0) our(0.0) country(1.0) artwork(0.0) and(0.0) cultural(1.0) objects(0.0) for(0.0) temporary(1.0) exhibitions(0.0) .(0.0) In(0.0) order(0.0) to(0.0) maintain(0.0) the(0.0) exchange(0.0) of(0.0) government-owned(1.0) 
+artwork(0.0) and(0.0) artifacts(0.0) ,(0.0) Congress(0.0) should(0.0) clarify(0.0) the(0.0) relationship(0.0) between(0.0) these(0.0) two(0.0) acts(0.0) in(0.0) question(0.0) .(0.0) This(0.0) bill(1.0) would(1.0) do(1.0) 
+just(0.0) that(0.0) ,(0.0) ensuring(0.0) that(0.0) American(0.0) museums(1.0) like(0.0) the(0.0) Cincinnati(1.0) Museum(0.0) Center(0.0) and(0.0) the(0.0) Cincinnati(1.0) Art(0.0) Museum(0.0) ,(0.0) two(0.0) in(0.0) 
+my(0.0) district(0.0) ,(0.0) can(0.0) continue(0.0) to(0.0) enjoy(0.0) international(0.0) artwork(0.0) and(0.0) cultural(1.0) artifacts(0.0) .(0.0) Enacting(1.0) this(0.0) legislation(1.0) will(0.0) remove(0.0) a(0.0) major(0.0) 
+obstacle(0.0) to(0.0) foreign(1.0) loans(1.0) and(0.0) exchanges(0.0) to(0.0) American(0.0) museums(0.0) .(0.0) I(0.0) urge(1.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) H.R(0.0) .(0.0) 4086(0.0) ,(0.0) 
+and(0.0) I(0.0) would(0.0) also(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) ((0.0) Mr.(0.0) Berman(1.0) )(0.0) and(0.0) the(0.0) gentleman(0.0) from(0.0) Michigan(0.0) ((0.0) Mr.(0.0) 
+Conyers(1.0) )(0.0) for(1.0) their(0.0) leadership(0.0) and(0.0) their(0.0) support(0.0) in(0.0) this(0.0) effort(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Smith	
+
+
+Seizure	
+cultural	
+loaning	
+Seizure	
+provision	
+foreign	
+foreign	governments	declining	
+import	country	cultural	temporary	government-owned	
+bill	would	do	
+museums	Cincinnati	Cincinnati	
+cultural	Enacting	legislation	
+foreign	loans	urge	
+Berman	
+Conyers	for	
+
+reads % = 0.09009009009009009

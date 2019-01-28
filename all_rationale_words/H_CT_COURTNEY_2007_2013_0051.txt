@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) at(0.0) this(0.0) time(0.0) I(0.0) 'd(1.0) like(0.0) to(0.0) yield(0.0) to(0.0) the(0.0) gentlewoman(0.0) from(0.0) Ohio(1.0) ((0.0) Ms.(1.0) Kaptur(1.0) )(0.0) for(0.0) the(0.0) 
+purpose(0.0) of(0.0) a(0.0) unanimous(0.0) consent(0.0) request(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+'d	Ohio	Ms.	Kaptur	
+
+
+reads % = 0.14285714285714285

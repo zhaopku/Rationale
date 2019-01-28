@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) have(0.0) a(0.0) Special(0.0) Order(0.0) for(0.0) tonight(0.0) I(0.0) am(0.0) taking(0.0) out(0.0) with(0.0) Mr.(0.0) Scott(1.0) and(0.0) Mr.(0.0) Bishop(1.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+Scott	Bishop	
+
+
+reads % = 0.09523809523809523

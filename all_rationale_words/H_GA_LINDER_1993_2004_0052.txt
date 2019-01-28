@@ -1,0 +1,24 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) the(0.0) 23(0.0) percent(0.0) was(0.0) calculated(0.0) in(0.0) 1995(0.0) ,(0.0) and(0.0) since(0.0) we(0.0) have(0.0) had(0.0) significant(0.0) tax(0.0) cuts(1.0) since(1.0) then(0.0) ,(0.0) 
+it(0.0) may(0.0) be(0.0) less(0.0) than(0.0) 23(0.0) percent(0.0) .(0.0) We(0.0) have(0.0) to(0.0) go(0.0) back(0.0) to(0.0) the(0.0) committees(0.0) that(0.0) the(0.0) gentleman(0.0) deals(0.0) 
+with(0.0) on(0.0) the(0.0) Committee(0.0) on(0.0) Ways(0.0) and(0.0) Means(0.0) to(0.0) have(0.0) new(0.0) studies(0.0) done(0.0) on(0.0) that(0.0) .(0.0) But(0.0) in(0.0) 1995(1.0) it(0.0) 
+was(0.0) revenue(0.0) neutral(0.0) ,(0.0) which(0.0) means(0.0) it(0.0) brings(0.0) in(0.0) exactly(0.0) the(0.0) same(0.0) amount(0.0) of(0.0) money(1.0) as(0.0) the(0.0) current(0.0) system(0.0) does(0.0) 
+.(0.0) But(0.0) let(0.0) us(0.0) point(0.0) out(0.0) that(0.0) the(0.0) average(0.0) income-earner(0.0) today(0.0) spends(1.0) 28(0.0) percent(0.0) of(0.0) their(0.0) income(1.0) to(0.0) the(0.0) withholding(1.0) 
+of(0.0) the(0.0) IRS(1.0) ,(0.0) of(0.0) the(0.0) Tax(1.0) Code(0.0) ,(0.0) and(0.0) another(0.0) 8(0.0) percent(0.0) roughly(0.0) for(0.0) their(0.0) Social(0.0) Security(0.0) and(0.0) Medicare(1.0) 
+.(0.0) So(0.0) as(0.0) an(0.0) individual(0.0) spending(1.0) ,(0.0) I(0.0) would(0.0) rather(0.0) give(0.0) up(0.0) 23(0.0) percent(0.0) of(0.0) what(0.0) I(0.0) spend(0.0) than(0.0) 34(0.0) 
+percent(0.0) of(0.0) what(0.0) I(0.0) earn(0.0) .(0.0) It(0.0) will(0.0) encourage(0.0) great(0.0) earnings(0.0) and(0.0) great(0.0) savings(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+cuts	since	
+
+1995	
+money	
+spends	income	withholding	
+IRS	Tax	Medicare	
+spending	
+savings	
+
+reads % = 0.07692307692307693

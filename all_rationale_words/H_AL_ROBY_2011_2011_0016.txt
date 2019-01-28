@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+The(0.0) motion(0.0) was(0.0) agreed(0.0) to(0.0) ;(0.0) accordingly(0.0) ((1.0) at(0.0) 9(0.0) o'clock(0.0) and(0.0) 59(0.0) minutes(0.0) p.m.(0.0) )(0.0) ,(0.0) under(0.0) its(0.0) previous(0.0) order(0.0) 
+,(0.0) the(0.0) House(0.0) adjourned(0.0) until(0.0) tomorrow(0.0) ,(0.0) Wednesday(0.0) ,(0.0) June(0.0) 1(0.0) ,(0.0) 2011(0.0) ,(0.0) at(0.0) 10(0.0) a.m.(0.0) for(0.0) morning-hour(0.0) debate(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+(	
+
+
+
+reads % = 0.023809523809523808

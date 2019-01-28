@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) ,(0.0) and(0.0) if(0.0) my(0.0) colleague(0.0) is(0.0) ready(0.0) ,(0.0) to(0.0) close(0.0) then(0.0) .(0.0) The(0.0) Acting(0.0) 
+CHAIR(0.0) .(0.0) The(0.0) gentlewoman(0.0) from(0.0) South(0.0) Dakota(1.0) ,(0.0) a(0.0) member(0.0) of(0.0) the(0.0) committee(0.0) ,(0.0) has(0.0) the(0.0) right(0.0) to(0.0) close(0.0) .(0.0) 
+The(0.0) gentleman(0.0) from(0.0) Pennsylvania(1.0) is(0.0) recognized(0.0) for(0.0) 2(0.0) minutes(0.0) .(0.0) I'm(0.0) against(0.0) the(0.0) use(0.0) of(0.0) taxpayer(1.0) dollars(1.0) going(0.0) to(0.0) not-for-profit(1.0) 
+organizations(0.0) to(0.0) promote(1.0) the(0.0) use(0.0) of(0.0) biofuels(1.0) .(0.0) There(0.0) is(0.0) not(0.0) one(0.0) vehicle(0.0) that(0.0) runs(0.0) 100(0.0) percent(0.0) on(0.0) biofuel(1.0) that(0.0) 
+I(0.0) know(0.0) of(0.0) at(0.0) this(0.0) point(0.0) .(0.0) And(0.0) it(0.0) does(0.0) save(0.0) money(1.0) .(0.0) If(0.0) this(0.0) program(1.0) is(0.0) eliminated(0.0) of(0.0) hundreds(0.0) 
+of(0.0) thousands(1.0) of(0.0) dollars(1.0) and(0.0) millions(1.0) of(0.0) dollars(1.0) per(0.0) year(0.0) ,(0.0) then(0.0) that(0.0) money(1.0) should(0.0) go(0.0) back(0.0) into(0.0) the(0.0) taxpayers(1.0) 
+'(0.0) pockets(0.0) ,(0.0) or(0.0) at(0.0) least(0.0) pay(0.0) the(0.0) debt(1.0) down(0.0) .(0.0) We(0.0) should(0.0) use(0.0) taxpayer(1.0) dollars(1.0) to(0.0) create(0.0) jobs(1.0) like(0.0) 
+building(0.0) the(0.0) Keystone(1.0) XL(1.0) pipeline(1.0) and(0.0) like(0.0) developing(0.0) natural(1.0) gas(1.0) exploration(1.0) that(0.0) we(0.0) have(0.0) an(0.0) abundant(0.0) supply(0.0) of(0.0) .(0.0) So(0.0) 
+let(0.0) 's(0.0) stop(0.0) borrowing(1.0) money(1.0) to(0.0) promote(1.0) a(0.0) product(0.0) where(0.0) we(0.0) pick(0.0) the(0.0) winners(0.0) and(0.0) losers(1.0) .(0.0) As(0.0) I(0.0) said(0.0) 
+earlier(0.0) ,(0.0) that(0.0) 's(0.0) up(0.0) to(0.0) the(0.0) consumer(1.0) .(0.0) They(0.0) can(0.0) choose(0.0) what(0.0) best(0.0) product(0.0) to(0.0) use(0.0) .(0.0) But(0.0) I(0.0) 
+just(0.0) oppose(1.0) the(0.0) fact(0.0) that(0.0) hardworking(0.0) ,(0.0) middle(0.0) class(1.0) taxpayer(1.0) dollars(1.0) are(0.0) going(0.0) for(0.0) propaganda(1.0) and(0.0) advertising(1.0) .(0.0) I(0.0) yield(0.0) 
+back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Dakota	
+Pennsylvania	taxpayer	dollars	not-for-profit	
+promote	biofuels	biofuel	
+money	program	
+thousands	dollars	millions	dollars	money	taxpayers	
+debt	taxpayer	dollars	jobs	
+Keystone	XL	pipeline	natural	gas	exploration	
+borrowing	money	promote	losers	
+consumer	
+oppose	class	taxpayer	dollars	propaganda	advertising	
+
+
+reads % = 0.16228070175438597

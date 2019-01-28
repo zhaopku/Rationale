@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) there(0.0) is(0.0) an(0.0) ongoing(1.0) debate(1.0) that(0.0) I(0.0) find(0.0) somewhat(0.0) ironic(0.0) .(0.0) There(0.0) is(0.0) ,(0.0) on(0.0) behalf(0.0) of(0.0) some(0.0) 
+of(0.0) my(0.0) colleagues(0.0) ,(0.0) an(0.0) almost(0.0) theological(0.0) belief(0.0) that(0.0) the(0.0) United(0.0) States(0.0) should(0.0) be(0.0) the(0.0) only(0.0) industrialized(1.0) country(1.0) in(0.0) the(0.0) 
+world(0.0) that(0.0) does(0.0) not(0.0) have(0.0) subsidized(1.0) passenger(0.0) rail(1.0) service(0.0) ,(0.0) that(0.0) it(0.0) is(0.0) not(0.0) an(0.0) integral(0.0) part(0.0) of(0.0) our(0.0) transportation(1.0) 
+system(0.0) .(0.0) We(0.0) have(0.0) Amtrak(1.0) today(0.0) because(0.0) the(0.0) private(0.0) sector(0.0) that(0.0) had(0.0) rail(1.0) passenger(0.0) service(0.0) from(0.0) the(0.0) 1830s(1.0) until(0.0) 1970(0.0) 
+and(0.0) was(0.0) mammothly(0.0) subsidized(1.0) by(0.0) the(0.0) Federal(1.0) Government(1.0) to(0.0) do(0.0) so(0.0) ,(0.0) reached(0.0) the(0.0) point(0.0) where(0.0) it(0.0) was(0.0) not(0.0) particularly(0.0) 
+profitable(0.0) for(0.0) them(0.0) to(0.0) do(0.0) it(0.0) .(0.0) Then(0.0) the(0.0) private(0.0) rail(0.0) roads(1.0) with(0.0) Congress(0.0) and(0.0) the(0.0) Nixon(1.0) administration(1.0) ,(0.0) created(0.0) 
+Amtrak(1.0) so(0.0) that(0.0) there(0.0) would(0.0) be(0.0) a(0.0) rail(0.0) passenger(0.0) alternative(1.0) .(0.0) Some(0.0) people(0.0) now(0.0) think(0.0) that(0.0) somehow(0.0) the(0.0) private(0.0) sector(0.0) 
+is(0.0) going(0.0) to(0.0) step(0.0) in(0.0) and(0.0) run(0.0) a(0.0) national(1.0) system(0.0) so(0.0) that(0.0) we(0.0) would(0.0) not(0.0) be(0.0) actually(0.0) the(0.0) only(0.0) country(1.0) 
+without(0.0) passenger(0.0) rail(1.0) .(0.0) Even(0.0) most(0.0) Third(1.0) World(0.0) countries(0.0) have(0.0) rail(1.0) passenger(0.0) service(0.0) as(0.0) well(0.0) as(0.0) all(0.0) the(0.0) developed(0.0) countries(0.0) 
+that(0.0) surpasses(0.0) the(0.0) United(0.0) States(0.0) .(0.0) I(0.0) find(0.0) that(0.0) somewhat(0.0) ironic(0.0) because(0.0) this(0.0) Congress(1.0) year(0.0) after(0.0) year(0.0) after(0.0) year(0.0) puts(0.0) 
+billions(1.0) of(0.0) dollars(1.0) into(0.0) the(0.0) air(0.0) passenger(0.0) service(0.0) which(0.0) in(0.0) its(0.0) long(0.0) illustrious(0.0) history(0.0) of(0.0) being(0.0) force(0.0) fed(0.0) by(0.0) Federal(1.0) 
+subsidies(1.0) ,(0.0) starting(0.0) with(0.0) airmail(0.0) ,(0.0) dealing(0.0) with(0.0) air(0.0) traffic(0.0) control(0.0) and(0.0) the(0.0) construction(0.0) of(0.0) airports(1.0) ,(0.0) in(0.0) its(0.0) entire(0.0) 
+history(0.0) has(0.0) a(0.0) net(0.0) profit(0.0) of(0.0) zero(1.0) .(0.0) And(0.0) we(0.0) continue(0.0) ,(0.0) appropriately(0.0) ,(0.0) to(0.0) put(0.0) billions(1.0) of(0.0) dollars(1.0) into(0.0) 
+it(0.0) because(0.0) it(0.0) is(0.0) an(0.0) important(0.0) part(0.0) of(0.0) the(0.0) Federal(1.0) transportation(1.0) infrastructure(1.0) .(0.0) Now(0.0) there(0.0) are(0.0) those(0.0) that(0.0) want(0.0) to(0.0) 
+pull(0.0) the(0.0) plug(0.0) on(0.0) Amtrak(1.0) .(0.0) We(0.0) passed(0.0) out(0.0) of(0.0) our(0.0) Rail(1.0) Subcommittee(0.0) and(0.0) then(0.0) our(0.0) Transportation(1.0) and(0.0) Infrastructure(0.0) Committee(0.0) 
+a(0.0) year(0.0) ago(0.0) with(0.0) broad(0.0) bipartisan(1.0) support(0.0) ,(0.0) there(0.0) may(0.0) have(0.0) been(0.0) one(0.0) or(0.0) two(0.0) people(0.0) who(0.0) voted(0.0) against(0.0) it(0.0) 
+,(0.0) in(0.0) the(0.0) largest(0.0) committee(0.0) in(0.0) Congress(0.0) ,(0.0) maybe(0.0) one(0.0) or(0.0) two(0.0) ,(0.0) but(0.0) I(0.0) can(0.0) not(0.0) remember(0.0) them(0.0) ,(0.0) 
+that(0.0) bill(1.0) has(0.0) been(0.0) languishing(0.0) for(0.0) 1(0.0) year(0.0) because(0.0) the(0.0) Republican(1.0) leadership(1.0) can(1.0) not(1.0) somehow(1.0) bring(1.0) it(1.0) to(1.0) the(1.0) floor(1.0) 
+and(1.0) allow(1.0) the(1.0) will(1.0) of(1.0) Congress(0.0) to(1.0) be(1.0) worked(0.0) .(0.0) So(0.0) we(0.0) have(0.0) this(0.0) travesty(1.0) today(0.0) where(0.0) we(0.0) have(0.0) a(0.0) 
+program(0.0) that(0.0) is(0.0) not(0.0) authorized(0.0) despite(0.0) the(0.0) fact(0.0) that(0.0) the(0.0) authorizing(1.0) committee(0.0) did(0.0) its(0.0) work(0.0) a(0.0) year(0.0) ago(0.0) .(0.0) This(0.0) 
+embarrassing(1.0) charade(1.0) ,(0.0) and(0.0) I(0.0) am(0.0) embarrassed(0.0) for(0.0) the(0.0) majority(1.0) party(0.0) that(0.0) we(0.0) are(0.0) going(0.0) through(0.0) this(0.0) ,(0.0) is(0.0) not(0.0) 
+going(0.0) to(0.0) be(0.0) sustained(0.0) .(0.0) As(0.0) George(0.0) Will(1.0) pointed(0.0) out(0.0) in(0.0) his(0.0) column(0.0) of(0.0) June(0.0) 2003(0.0) when(0.0) we(0.0) were(0.0) going(0.0) 
+through(0.0) the(0.0) last(0.0) shutdown(1.0) charade(1.0) ,(0.0) that(0.0) support(0.0) for(0.0) Amtrak(1.0) is(0.0) strong(0.0) enough(0.0) among(0.0) all(0.0) regions(0.0) ,(0.0) ages(0.0) ,(0.0) education(1.0) 
+levels(0.0) ,(0.0) and(0.0) income(1.0) groups(0.0) .(0.0) A(0.0) CNN/Gallup/USA(0.0) Today(0.0) poll(0.0) put(0.0) it(0.0) ,(0.0) at(0.0) the(0.0) height(0.0) of(0.0) last(0.0) year(0.0) 's(0.0) 
+funding(1.0) crisis(1.0) ,(0.0) at(0.0) 70(0.0) percent(0.0) American(0.0) public(1.0) support(0.0) .(0.0) No(0.0) indication(0.0) of(0.0) anything(0.0) that(0.0) that(0.0) is(0.0) not(0.0) even(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	ongoing	debate	
+industrialized	country	
+subsidized	rail	transportation	
+Amtrak	rail	1830s	
+subsidized	Federal	Government	
+roads	Nixon	administration	
+Amtrak	alternative	
+national	country	
+rail	Third	rail	
+Congress	
+billions	dollars	Federal	
+subsidies	airports	
+zero	billions	dollars	
+Federal	transportation	infrastructure	
+Amtrak	Rail	Transportation	
+bipartisan	
+
+bill	Republican	leadership	can	not	somehow	bring	it	to	the	floor	
+and	allow	the	will	of	to	be	travesty	
+authorizing	
+embarrassing	charade	majority	
+Will	
+shutdown	charade	Amtrak	education	
+income	
+funding	crisis	public	
+
+reads % = 0.144

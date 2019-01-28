@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(1.0) Speaker(0.0) ,(0.0) for(0.0) the(0.0) purpose(0.0) of(0.0) debate(1.0) only(0.0) ,(0.0) I(0.0) yield(0.0) the(0.0) customary(1.0) 30(0.0) minutes(1.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Washington(1.0) 
+,(0.0) Representative(1.0) Hastings(1.0) .(0.0) All(0.0) time(0.0) yielded(1.0) during(0.0) consideration(0.0) of(0.0) the(0.0) rule(0.0) is(0.0) for(0.0) the(0.0) purposes(1.0) of(0.0) debate(1.0) only(0.0) .(0.0) 
+General(1.0) Leave(1.0) Madam(0.0) Speaker(1.0) ,(0.0) I(0.0) ask(1.0) unanimous(0.0) consent(0.0) that(0.0) all(0.0) Members(0.0) have(0.0) 5(0.0) legislative(1.0) days(0.0) within(1.0) which(0.0) to(0.0) revise(0.0) 
+and(0.0) extend(0.0) their(0.0) remarks(0.0) and(0.0) insert(0.0) extraneous(0.0) material(0.0) into(1.0) the(0.0) Record(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+debate	customary	minutes	Washington	
+Representative	Hastings	yielded	purposes	debate	
+General	Leave	Speaker	ask	legislative	within	
+into	Record	
+
+reads % = 0.2328767123287671

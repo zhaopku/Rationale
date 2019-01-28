@@ -1,0 +1,18 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) my(0.0) concern(1.0) is(1.0) about(0.0) the(0.0) Folklife(0.0) Center(0.0) ,(0.0) which(0.0) I(0.0) know(1.0) through(0.0) personal(1.0) experience(0.0) to(0.0) be(0.0) a(0.0) most(1.0) 
+useful(0.0) entity(0.0) and(0.0) function(0.0) of(0.0) the(0.0) Library(1.0) of(0.0) Congress(0.0) .(0.0) I(0.0) visited(1.0) with(0.0) Chairman(1.0) Clinger(1.0) and(0.0) Chairman(1.0) Packard(0.0) about(0.0) this(0.0) 
+issue(0.0) ,(0.0) and(0.0) they(0.0) have(0.0) assured(0.0) me(0.0) ,(0.0) and(0.0) I(0.0) would(1.0) like(0.0) to(0.0) engage(1.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) in(0.0) a(0.0) 
+brief(1.0) colloquy(0.0) ,(0.0) that(0.0) this(0.0) function(0.0) will(0.0) not(1.0) be(0.0) decimated(1.0) ,(0.0) that(0.0) it(0.0) will(0.0) simply(0.0) be(0.0) rearranged(1.0) .(0.0) Am(1.0) I(0.0) 
+correct(1.0) in(0.0) that(0.0) understanding(0.0) ?(1.0) 
+
+
+----- below are rationale words -----
+
+Chairman	concern	is	know	personal	most	
+Library	visited	Chairman	Clinger	Chairman	
+would	engage	
+brief	not	decimated	rearranged	Am	
+correct	?	
+
+reads % = 0.23255813953488372

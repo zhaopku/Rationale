@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(1.0) ,(0.0) I(0.0) rise(1.0) to(0.0) express(1.0) my(0.0) support(0.0) for(0.0) campaign(1.0) finance(1.0) reform(1.0) and(0.0) my(0.0) disappointment(1.0) that(0.0) ,(0.0) once(1.0) again(0.0) ,(0.0) partisanship(1.0) 
+has(0.0) colored(0.0) this(0.0) debate(1.0) --(0.0) to(0.0) the(0.0) disadvantage(1.0) of(0.0) the(0.0) American(0.0) people(0.0) and(0.0) our(0.0) political(1.0) system(0.0) .(0.0) It(0.0) 's(0.0) a(0.0) 
+shame(0.0) that(0.0) campaign(1.0) finance(1.0) reform(1.0) --(0.0) reform(0.0) supported(1.0) by(0.0) an(0.0) overwhelming(0.0) majority(1.0) of(0.0) the(0.0) American(0.0) people(0.0) --(0.0) is(0.0) being(0.0) portrayed(1.0) 
+today(1.0) as(0.0) a(0.0) partisan(1.0) fight(1.0) .(0.0) In(0.0) fact(1.0) ,(0.0) campaign(1.0) finance(1.0) reform(0.0) is(0.0) not(1.0) partisan(1.0) --(0.0) and(0.0) if(0.0) the(0.0) process(1.0) 
+by(0.0) which(0.0) we(0.0) are(0.0) considering(1.0) amendments(1.0) had(0.0) been(0.0) open(0.0) ,(0.0) we(0.0) could(0.0) have(0.0) proved(0.0) it(0.0) .(0.0) Unfortunately(1.0) ,(0.0) we(0.0) are(0.0) 
+prevented(1.0) from(0.0) offering(0.0) amendments(0.0) ,(0.0) prevented(1.0) from(0.0) considering(1.0) the(0.0) Smith-Meehan-Shays(1.0) bill(0.0) ,(0.0) and(0.0) prevented(1.0) from(0.0) making(0.0) improvements(1.0) to(0.0) both(0.0) of(0.0) 
+the(0.0) alternatives(1.0) brought(0.0) before(1.0) us(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) in(0.0) my(0.0) view(1.0) ,(0.0) limiting(1.0) campaign(0.0) expenditures(1.0) is(0.0) not(1.0) partisan(1.0) .(0.0) 
+Limiting(1.0) the(0.0) influence(0.0) of(0.0) special(0.0) interests(1.0) ,(0.0) limiting(1.0) a(0.0) candidate(1.0) 's(0.0) ability(0.0) to(0.0) self-finance(1.0) a(0.0) campaign(1.0) ,(0.0) and(0.0) limiting(1.0) soft(0.0) 
+money(0.0) are(0.0) not(1.0) partisan(1.0) positions(1.0) .(0.0) They(0.0) are(0.0) sensible(1.0) improvements(0.0) designed(0.0) to(0.0) restore(0.0) credibility(0.0) and(0.0) integrity(0.0) to(0.0) our(0.0) campaign(0.0) financing(1.0) 
+system(0.0) .(0.0) Yet(1.0) we(0.0) are(0.0) forced(0.0) to(0.0) choose(0.0) between(0.0) two(0.0) competing(1.0) bills(0.0) in(0.0) an(0.0) environment(0.0) highly(0.0) charged(1.0) by(0.0) partisanship(1.0) and(0.0) 
+acrimony(0.0) .(0.0) Once(1.0) again(0.0) ,(0.0) the(0.0) leadership(1.0) 's(0.0) efforts(0.0) to(0.0) drive(1.0) wedges(1.0) between(0.0) the(0.0) Members(0.0) of(0.0) this(0.0) body(0.0) will(0.0) prevent(0.0) 
+us(0.0) from(0.0) securing(1.0) the(0.0) best(0.0) result(0.0) for(0.0) the(0.0) American(0.0) people(0.0) and(0.0) for(0.0) the(0.0) American(0.0) political(1.0) process(1.0) .(0.0) While(1.0) I(0.0) want(1.0) 
+to(0.0) commend(1.0) Bill(1.0) Thomas(1.0) for(0.0) including(1.0) in(0.0) the(0.0) House(0.0) leadership(1.0) bill(0.0) several(0.0) significant(1.0) reforms(1.0) ,(0.0) specifically(1.0) the(0.0) aggregate(1.0) contribution(1.0) limit(0.0) 
+on(0.0) individuals(0.0) ,(0.0) PAC(1.0) 's(0.0) and(0.0) parties(0.0) ,(0.0) the(0.0) Thomas(1.0) bill(1.0) is(0.0) far(0.0) too(1.0) timid(1.0) of(0.0) the(0.0) choices(1.0) available(1.0) .(0.0) 
+I(0.0) choose(0.0) the(0.0) Farr(1.0) substitute(1.0) .(0.0) Though(1.0) not(0.0) perfect(0.0) ,(0.0) the(0.0) Farr(1.0) substitute(1.0) contains(0.0) far(0.0) more(0.0) of(0.0) the(0.0) kinds(0.0) of(0.0) 
+reforms(1.0) that(0.0) I(0.0) think(1.0) are(0.0) necessary(1.0) .(0.0) The(0.0) Farr(1.0) substitute(1.0) establishes(1.0) an(0.0) overall(0.0) voluntary(1.0) spending(1.0) limit(0.0) of(0.0) $(0.0) 600,000(0.0) on(0.0) 
+congressional(1.0) campaigns(1.0) .(0.0) In(0.0) exchange(1.0) for(0.0) adhering(1.0) to(0.0) voluntary(1.0) limits(0.0) ,(0.0) it(0.0) provides(0.0) candidates(1.0) with(0.0) discounted(0.0) broadcast(0.0) and(0.0) mail(1.0) rates(0.0) 
+.(0.0) The(0.0) substitute(1.0) limits(0.0) contributions(1.0) from(0.0) PAC(1.0) 's(0.0) and(0.0) eliminates(1.0) leadership(1.0) PAC(1.0) 's(0.0) altogether(0.0) .(0.0) It(0.0) also(1.0) limits(0.0) the(0.0) amount(0.0) 
+large(0.0) donors(1.0) can(0.0) contribute(0.0) .(0.0) And(0.0) ,(0.0) most(1.0) important(0.0) ,(0.0) it(0.0) limits(0.0) the(0.0) amount(0.0) individuals(0.0) can(0.0) contribute(0.0) or(0.0) loan(0.0) to(0.0) 
+their(0.0) own(0.0) campaigns(1.0) .(0.0) In(0.0) contrast(1.0) ,(0.0) the(0.0) Thomas(1.0) bill(0.0) only(0.0) takes(1.0) off(0.0) restrictions(1.0) if(0.0) an(0.0) individual(0.0) self-finances(1.0) above(0.0) a(0.0) 
+certain(1.0) dollar(0.0) threshold(0.0) .(0.0) Another(1.0) important(0.0) reform(0.0) which(0.0) the(0.0) Farr(1.0) substitute(1.0) makes(0.0) is(0.0) a(0.0) clear(0.0) definition(1.0) of(0.0) what(1.0) constitutes(1.0) an(0.0) 
+independent(0.0) expenditure(1.0) .(0.0) It(0.0) is(0.0) my(0.0) hope(0.0) that(0.0) the(0.0) Farr(1.0) substitute(1.0) will(0.0) marshal(1.0) majority(0.0) support(0.0) in(0.0) this(0.0) Chamber(0.0) .(0.0) If(1.0) 
+it(0.0) does(0.0) not(0.0) ,(0.0) public(0.0) cynicism(1.0) about(0.0) Congress(0.0) and(0.0) the(0.0) electoral(1.0) process(1.0) are(0.0) likely(0.0) to(0.0) increase(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) 
+we(0.0) need(0.0) reform(0.0) .(0.0) And(0.0) if(0.0) afforded(0.0) the(0.0) opportunity(0.0) to(0.0) consider(0.0) in(0.0) an(0.0) open(0.0) fashion(1.0) the(0.0) reform(0.0) proposals(0.0) made(0.0) by(0.0) 
+some(0.0) of(0.0) our(0.0) colleagues(1.0) ,(0.0) including(1.0) the(0.0) proposal(0.0) put(0.0) forward(0.0) by(0.0) the(0.0) gentlelady(1.0) from(0.0) Washington(1.0) [(0.0) Mrs.(1.0) Smith(1.0) ](0.0) 
+
+
+----- below are rationale words -----
+
+rise	express	campaign	finance	reform	disappointment	once	partisanship	
+debate	disadvantage	political	
+campaign	finance	reform	supported	majority	portrayed	
+today	partisan	fight	fact	campaign	finance	not	partisan	process	
+considering	amendments	Unfortunately	
+prevented	prevented	considering	Smith-Meehan-Shays	prevented	improvements	
+alternatives	before	Chairman	view	limiting	expenditures	not	partisan	
+Limiting	interests	limiting	candidate	self-finance	campaign	limiting	
+not	partisan	positions	sensible	financing	
+Yet	competing	charged	partisanship	
+Once	leadership	drive	wedges	
+securing	political	process	While	want	
+commend	Bill	Thomas	including	leadership	significant	reforms	specifically	aggregate	contribution	
+PAC	Thomas	bill	too	timid	choices	available	
+Farr	substitute	Though	Farr	substitute	
+reforms	think	necessary	Farr	substitute	establishes	voluntary	spending	
+congressional	campaigns	exchange	adhering	voluntary	candidates	mail	
+substitute	contributions	PAC	eliminates	leadership	PAC	also	
+donors	most	
+campaigns	contrast	Thomas	takes	restrictions	self-finances	
+certain	Another	Farr	substitute	definition	what	constitutes	
+expenditure	Farr	substitute	marshal	If	
+cynicism	electoral	process	increase	Chairman	
+fashion	
+colleagues	including	gentlelady	Washington	Mrs.	Smith	
+
+reads % = 0.288

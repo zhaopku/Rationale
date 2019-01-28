@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) strong(0.0) support(0.0) of(0.0) the(0.0) Crapo(1.0) lockbox(1.0) amendment(1.0) .(0.0) As(0.0) we(0.0) all(0.0) know(0.0) ,(0.0) getting(0.0) a(0.0) 
+majority(0.0) of(0.0) this(0.0) House(0.0) to(0.0) vote(1.0) for(0.0) a(0.0) cut(0.0) in(0.0) Federal(1.0) spending(1.0) is(0.0) not(0.0) easy(0.0) .(0.0) Then(0.0) ,(0.0) it(0.0) becomes(0.0) 
+even(0.0) more(0.0) frustrating(0.0) when(0.0) that(0.0) so-called(1.0) cut(0.0) is(0.0) later(0.0) spent(0.0) on(0.0) another(0.0) program(1.0) in(0.0) an(0.0) appropriations(1.0) bill(1.0) .(0.0) This(0.0) amendment(1.0) 
+would(1.0) make(0.0) our(0.0) cuts(1.0) count(0.0) by(0.0) directing(0.0) these(0.0) savings(1.0) to(0.0) deficit(1.0) reduction(1.0) --(0.0) not(0.0) additional(0.0) spending(1.0) .(0.0) I(0.0) consider(0.0) this(0.0) 
+one(0.0) of(0.0) the(0.0) most(0.0) substantive(1.0) changes(0.0) to(0.0) how(0.0) Congress(0.0) manages(0.0) its(0.0) money(1.0) in(0.0) decades(1.0) .(0.0) This(0.0) House(0.0) voted(1.0) more(0.0) than(0.0) 
+six(0.0) to(0.0) one(0.0) last(0.0) fall(0.0) to(0.0) accept(0.0) the(0.0) lockbox(1.0) .(0.0) Let(0.0) us(0.0) be(0.0) honest(0.0) ,(0.0) and(0.0) make(0.0) sure(0.0) that(0.0) a(0.0) 
+cut(0.0) is(0.0) really(0.0) a(0.0) cut(0.0) .(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) vote(1.0) for(0.0) the(0.0) Crapo(1.0) lockbox(1.0) amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Crapo	lockbox	amendment	
+vote	Federal	spending	
+so-called	program	appropriations	bill	amendment	
+would	cuts	savings	deficit	reduction	spending	
+substantive	money	decades	voted	
+lockbox	
+vote	Crapo	lockbox	amendment	
+
+reads % = 0.18705035971223022

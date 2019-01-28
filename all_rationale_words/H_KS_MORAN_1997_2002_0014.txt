@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) pass(0.0) the(0.0) bill(0.0) ((1.0) H.R(1.0) .(0.0) 3645(0.0) )(0.0) to(0.0) amend(0.0) title(0.0) 38(0.0) 
+,(0.0) United(0.0) States(0.0) Code(0.0) ,(0.0) to(0.0) provide(0.0) for(0.0) improved(0.0) procurement(0.0) practices(0.0) by(0.0) the(0.0) Department(0.0) of(0.0) Veterans(0.0) Affairs(0.0) in(0.0) procuring(0.0) health-care(0.0) 
+items(0.0) ,(0.0) as(0.0) amended(0.0) .(0.0) The(0.0) Clerk(0.0) read(0.0) as(0.0) follows(0.0) :(0.0) H.R(0.0) .(0.0) 3645(0.0) Be(0.0) it(0.0) enacted(0.0) by(0.0) the(0.0) Senate(0.0) 
+and(0.0) House(0.0) of(0.0) Representatives(0.0) of(0.0) the(0.0) United(0.0) States(0.0) of(0.0) America(0.0) in(0.0) Congress(0.0) assembled(0.0) ,(0.0) SECTION(0.0) 1(0.0) .(0.0) SHORT(0.0) TITLE(0.0) ;(0.0) 
+TABLE(0.0) OF(0.0) CONTENTS(0.0) .(0.0) ((0.0) a(0.0) )(0.0) Short(0.0) Title.(0.0) --(0.0) This(0.0) Act(0.0) may(0.0) be(0.0) cited(0.0) as(0.0) the(0.0) ``(0.0) Veterans(0.0) Health(0.0) 
+Care(0.0) and(0.0) Procurement(0.0) Improvement(0.0) Act(0.0) of(0.0) 2002(0.0) ''(0.0) .(0.0) ((0.0) b(0.0) )(0.0) Table(0.0) of(0.0) Contents.(0.0) --(0.0) The(0.0) table(0.0) of(0.0) contents(0.0) 
+for(0.0) this(0.0) Act(0.0) is(0.0) as(0.0) follows(0.0) :(0.0) Sec(0.0) .(0.0) 1(0.0) .(0.0) Short(0.0) title(0.0) ;(0.0) table(0.0) of(0.0) contents(0.0) .(0.0) Sec(0.0) .(0.0) 
+2(0.0) .(0.0) References(0.0) to(0.0) title(0.0) 38(0.0) ,(0.0) United(0.0) States(0.0) Code(0.0) .(0.0) Sec(0.0) .(0.0) 3(0.0) .(0.0) Limitation(0.0) on(0.0) use(0.0) of(0.0) local(0.0) 
+contracts(0.0) for(0.0) Department(0.0) of(0.0) Veterans(0.0) Affairs(0.0) procurement(0.0) of(0.0) health-care(0.0) items(0.0) .(0.0) Sec(0.0) .(0.0) 4(0.0) .(0.0) Enhancements(0.0) to(0.0) enhanced-use(0.0) lease(0.0) authority(0.0) 
+.(0.0) Sec(0.0) .(0.0) 5(0.0) .(0.0) Eligibility(0.0) for(0.0) Department(0.0) of(0.0) Veterans(0.0) Affairs(0.0) health(0.0) care(0.0) of(0.0) certain(0.0) additional(0.0) Filipino(0.0) World(0.0) War(0.0) II(0.0) 
+veterans(0.0) residing(0.0) in(0.0) the(0.0) United(0.0) States(0.0) .(0.0) Sec(0.0) .(0.0) 6(0.0) .(0.0) Outpatient(0.0) dental(0.0) care(0.0) for(0.0) all(0.0) former(0.0) prisoners(0.0) of(0.0) war(0.0) 
+.(0.0) Sec(0.0) .(0.0) 7(0.0) .(0.0) Improved(0.0) accountability(0.0) of(0.0) research(0.0) corporations(0.0) established(0.0) at(0.0) Department(0.0) of(0.0) Veterans(0.0) Affairs(0.0) medical(0.0) centers(0.0) .(0.0) Sec(0.0) 
+.(0.0) 8(0.0) .(0.0) Department(0.0) of(0.0) Defense(0.0) participation(0.0) in(0.0) Revolving(0.0) Supply(0.0) Fund(0.0) purchases(0.0) .(0.0) Sec(0.0) .(0.0) 9(0.0) .(0.0) Name(0.0) of(0.0) Department(0.0) 
+of(0.0) Veterans(0.0) Affairs(0.0) outpatient(0.0) clinic(0.0) ,(0.0) New(1.0) London(0.0) ,(0.0) Connecticut(1.0) .(0.0) SEC(0.0) .(0.0) 2(0.0) .(0.0) REFERENCES(0.0) TO(0.0) TITLE(0.0) 38(0.0) ,(0.0) 
+UNITED(0.0) STATES(0.0) CODE(0.0) .(0.0) Except(0.0) as(0.0) otherwise(0.0) expressly(0.0) provided(0.0) ,(0.0) whenever(0.0) in(0.0) this(0.0) Act(0.0) an(0.0) amendment(0.0) or(0.0) repeal(0.0) is(0.0) expressed(0.0) 
+in(0.0) terms(0.0) of(0.0) an(0.0) amendment(0.0) to(0.0) ,(0.0) or(0.0) repeal(0.0) of(0.0) ,(0.0) a(0.0) section(0.0) or(0.0) other(0.0) provision(0.0) ,(0.0) the(0.0) reference(0.0) shall(0.0) 
+be(0.0) considered(0.0) to(0.0) be(0.0) made(0.0) to(0.0) a(0.0) section(0.0) or(0.0) other(0.0) provision(0.0) of(0.0) title(0.0) 38(0.0) ,(0.0) United(0.0) States(0.0) Code(0.0) .(0.0) SEC(0.0) 
+.(0.0) 3(0.0) .(0.0) LIMITATION(0.0) ON(0.0) USE(0.0) OF(0.0) LOCAL(0.0) CONTRACTS(0.0) FOR(0.0) DEPARTMENT(0.0) OF(0.0) VETERANS(0.0) AFFAIRS(0.0) PROCUREMENT(0.0) OF(0.0) HEALTH-CARE(0.0) ITEMS(0.0) .(0.0) ((0.0) 
+a(0.0) )(0.0) In(0.0) General.(0.0) --(0.0) Section(0.0) 8125(0.0) is(0.0) amended(0.0) to(0.0) read(0.0) as(0.0) follows(0.0) :(0.0) ``(0.0) Sec(0.0) .(0.0) 8125(0.0) .(0.0) Procurement(0.0) 
+of(0.0) health-care(0.0) items(0.0) ``(0.0) ((0.0) a(0.0) )(0.0) Except(0.0) as(0.0) provided(0.0) in(0.0) subsection(0.0) ((0.0) b(0.0) )(0.0) ,(0.0) any(0.0) procurement(0.0) of(0.0) a(0.0) 
+health-care(0.0) item(0.0) by(0.0) the(0.0) Department(0.0) shall(0.0) be(0.0) made(0.0) through(0.0) the(0.0) use(0.0) of(0.0) a(0.0) Federal(0.0) Supply(0.0) Schedule(0.0) contract(0.0) ,(0.0) or(0.0) a(0.0) 
+national(0.0) contract(0.0) ,(0.0) that(0.0) meets(0.0) the(0.0) requirements(0.0) of(0.0) subsection(0.0) ((0.0) d(0.0) )(0.0) .(0.0) ``(0.0) ((0.0) b(0.0) )(0.0) ((0.0) 1(0.0) )(0.0) 
+Subsection(0.0) ((0.0) a(0.0) )(0.0) does(0.0) not(0.0) apply(0.0) to(0.0) a(0.0) procurement(0.0) of(0.0) a(0.0) health-care(0.0) item(0.0) in(0.0) any(0.0) of(0.0) the(0.0) following(0.0) cases(0.0) 
+:(0.0) ``(0.0) ((0.0) A(0.0) )(0.0) A(0.0) procurement(0.0) that(0.0) is(0.0) necessary(0.0) to(0.0) meet(0.0) a(0.0) current(0.0) or(0.0) near-term(0.0) medical(0.0) emergency(0.0) at(0.0) a(0.0) 
+medical(0.0) center(0.0) .(0.0) ``(0.0) ((0.0) B(0.0) )(0.0) A(0.0) procurement(0.0) that(0.0) is(0.0) for(0.0) a(0.0) health-care(0.0) item(0.0) that(0.0) is(0.0) not(0.0) listed(0.0) 
+
+
+----- below are rationale words -----
+
+(	H.R	
+
+
+
+
+
+
+
+
+
+
+
+
+New	Connecticut	
+
+
+
+
+
+
+
+
+
+
+
+
+reads % = 0.008

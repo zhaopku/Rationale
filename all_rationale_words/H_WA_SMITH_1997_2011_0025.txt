@@ -1,0 +1,36 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Chair(0.0) ,(0.0) just(0.0) to(0.0) close(0.0) ,(0.0) I(0.0) agree(0.0) with(0.0) the(0.0) gentleman(0.0) 's(0.0) remarks(0.0) .(0.0) Let(0.0) me(0.0) just(0.0) say(0.0) if(0.0) I(0.0) 
+thought(0.0) that(0.0) there(0.0) was(0.0) the(0.0) tiniest(0.0) little(0.0) bit(0.0) possibility(0.0) that(0.0) this(0.0) amendment(1.0) would(1.0) prevent(0.0) the(0.0) type(0.0) of(0.0) tragedy(1.0) that(0.0) happened(0.0) 
+at(0.0) Fort(0.0) Hood(0.0) ,(0.0) I(0.0) would(0.0) support(0.0) it(0.0) unquestionably(0.0) ,(0.0) but(0.0) I(0.0) don't(0.0) believe(0.0) it(0.0) will(0.0) .(0.0) The(0.0) concerns(1.0) ,(0.0) 
+the(0.0) back(0.0) and(0.0) forth(0.0) about(0.0) whether(0.0) or(0.0) not(0.0) to(0.0) report(0.0) something(0.0) that(0.0) is(0.0) concerning(0.0) ,(0.0) they(0.0) exist(0.0) ,(0.0) they(0.0) need(0.0) 
+to(0.0) be(0.0) dealt(0.0) with(0.0) .(0.0) They(0.0) will(0.0) exist(0.0) whether(0.0) or(0.0) not(0.0) this(0.0) amendment(1.0) is(0.0) passed(0.0) .(0.0) We(0.0) need(0.0) to(0.0) work(0.0) 
+to(0.0) educate(0.0) people(0.0) to(0.0) report(0.0) threats(1.0) ,(0.0) but(0.0) making(0.0) it(0.0) ideologically(1.0) based(0.0) ,(0.0) I(0.0) think(0.0) ,(0.0) opens(0.0) up(0.0) more(0.0) problems(0.0) 
+and(0.0) shifts(0.0) the(0.0) focus(0.0) away(0.0) from(0.0) what(0.0) we(0.0) need(0.0) .(0.0) And(0.0) what(0.0) we(0.0) need(0.0) is(0.0) whether(0.0) the(0.0) threat(1.0) is(0.0) ideological(1.0) 
+or(0.0) whatever(0.0) the(0.0) cause(0.0) ,(0.0) we(0.0) need(0.0) to(0.0) encourage(0.0) people(0.0) to(0.0) go(0.0) to(0.0) their(0.0) superiors(0.0) ,(0.0) report(0.0) it(0.0) ,(0.0) and(0.0) 
+make(0.0) sure(0.0) that(0.0) they(0.0) are(0.0) better(0.0) safe(0.0) than(0.0) sorry(0.0) .(0.0) I(0.0) would(0.0) encourage(0.0) that(0.0) ,(0.0) but(0.0) I(0.0) do(0.0) n't(0.0) think(0.0) 
+this(0.0) amendment(1.0) does(0.0) that(0.0) .(0.0) Again(0.0) ,(0.0) I(0.0) would(0.0) urge(0.0) a(0.0) ``(0.0) no(0.0) ''(0.0) vote(1.0) .(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) 
+balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) The(0.0) Acting(0.0) CHAIR(0.0) .(0.0) The(0.0) question(0.0) is(0.0) on(0.0) the(0.0) amendment(1.0) offered(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) 
+Texas(0.0) ((0.0) Mr.(0.0) Carter(1.0) )(0.0) .(0.0) The(0.0) amendment(0.0) was(0.0) agreed(0.0) to(0.0) .(0.0) Amendment(1.0) No(0.0) .(0.0) 12(0.0) Offered(0.0) by(0.0) Mr.(0.0) Hunter(1.0) 
+The(0.0) Acting(0.0) CHAIR(0.0) .(0.0) It(0.0) is(0.0) now(0.0) in(0.0) order(0.0) to(0.0) consider(0.0) amendment(1.0) No(1.0) .(0.0) 12(0.0) printed(0.0) in(0.0) House(0.0) Report(1.0) 112-88(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+
+amendment	would	tragedy	
+concerns	
+
+amendment	
+threats	ideologically	
+threat	ideological	
+
+
+amendment	vote	
+amendment	
+Carter	Amendment	Hunter	
+amendment	No	Report	
+
+
+reads % = 0.06870229007633588

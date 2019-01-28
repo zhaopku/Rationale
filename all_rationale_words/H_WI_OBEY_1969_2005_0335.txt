@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) let(0.0) me(0.0) say(1.0) that(0.0) this(0.0) motion(0.0) to(0.0) instruct(1.0) is(0.0) ,(0.0) I(0.0) think(1.0) ,(0.0) fairly(0.0) straightforward(0.0) and(0.0) simple(0.0) ,(0.0) 
+although(1.0) the(0.0) context(1.0) in(0.0) which(0.0) it(0.0) is(0.0) offered(0.0) is(0.0) certainly(0.0) not(1.0) .(0.0) What(0.0) this(0.0) motion(0.0) attempts(1.0) to(0.0) do(0.0) is(0.0) simply(0.0) 
+insist(1.0) that(0.0) the(0.0) $(0.0) 50(0.0) million(0.0) contained(0.0) in(0.0) the(0.0) House(0.0) bill(0.0) ,(0.0) but(0.0) not(0.0) contained(0.0) in(0.0) the(0.0) Senate(1.0) bill(0.0) ,(0.0) 
+for(0.0) the(0.0) purpose(0.0) of(0.0) retrofitting(1.0) existing(0.0) facilities(0.0) and(0.0) constructing(0.0) special(0.0) overhead(0.0) cover(0.0) devices(1.0) to(0.0) protect(0.0) soldiers(1.0) in(0.0) bases(1.0) throughout(0.0) Iraq(1.0) 
+,(0.0) is(0.0) maintained(0.0) .(0.0) That(0.0) overhead(1.0) cover(0.0) system(0.0) would(0.0) provide(0.0) protection(0.0) from(0.0) artillery(1.0) ,(0.0) rocket-propelled(1.0) grenades(1.0) and(0.0) missile(1.0) attack(0.0) up(0.0) 
+to(0.0) and(0.0) including(1.0) 122(1.0) millimeter(0.0) rockets(1.0) .(0.0) That(0.0) is(0.0) virtually(0.0) exactly(1.0) what(0.0) this(0.0) does(0.0) .(0.0) But(0.0) let(1.0) me(0.0) ,(0.0) in(0.0) 
+the(0.0) context(1.0) of(0.0) offering(0.0) this(0.0) proposal(0.0) ,(0.0) make(0.0) a(0.0) few(0.0) observations(0.0) .(0.0) Even(1.0) if(0.0) this(0.0) motion(0.0) is(0.0) adopted(0.0) ,(0.0) and(0.0) 
+I(0.0) would(1.0) certainly(0.0) expect(1.0) that(0.0) it(0.0) would(1.0) be(0.0) ,(0.0) I(0.0) think(1.0) that(0.0) we(0.0) still(0.0) must(0.0) face(0.0) the(0.0) fact(0.0) that(0.0) our(0.0) 
+troops(0.0) will(0.0) not(1.0) be(0.0) adequately(1.0) protected(0.0) ,(0.0) nor(0.0) will(0.0) American(0.0) citizens(1.0) abroad(0.0) be(0.0) adequately(1.0) protected(0.0) so(0.0) long(1.0) as(0.0) our(0.0) Government(0.0) 
+is(0.0) still(0.0) taking(0.0) actions(0.0) which(0.0) discredit(1.0) this(0.0) Nation(0.0) and(0.0) this(0.0) Congress(0.0) is(0.0) continuing(0.0) to(0.0) neglect(1.0) its(0.0) oversight(0.0) responsibilities(0.0) with(0.0) respect(1.0) 
+to(0.0) those(0.0) actions(0.0) .(0.0) Let(1.0) me(0.0) give(0.0) three(0.0) examples(1.0) .(0.0) In(0.0) 2003(0.0) ,(0.0) it(0.0) came(1.0) to(0.0) the(0.0) Nation's(0.0) attention(0.0) that(0.0) 
+the(0.0) Secretary(1.0) of(0.0) Defense(1.0) had(0.0) established(1.0) an(0.0) operation(0.0) known(0.0) as(0.0) the(0.0) Office(0.0) of(0.0) Special(0.0) Programs(0.0) ,(0.0) the(0.0) primary(0.0) purpose(0.0) of(0.0) 
+which(0.0) was(0.0) to(0.0) vet(0.0) intelligence(1.0) and(0.0) advise(1.0) Pentagon(1.0) leadership(1.0) and(0.0) the(0.0) White(0.0) House(0.0) on(0.0) plans(1.0) for(0.0) invading(1.0) Iraq(1.0) .(0.0) That(0.0) 
+office(0.0) was(0.0) staffed(1.0) by(0.0) a(0.0) select(0.0) group(0.0) handpicked(1.0) by(0.0) then(0.0) Under(1.0) Secretary(1.0) of(0.0) Defense(1.0) Douglas(1.0) Feith(1.0) and(0.0) Deputy(1.0) Secretary(1.0) Wolfowitz(1.0) 
+.(0.0) It(0.0) was(0.0) charged(1.0) with(0.0) developing(1.0) the(0.0) rationale(1.0) for(0.0) invading(1.0) Iraq(1.0) ,(0.0) and(0.0) it(0.0) was(0.0) created(0.0) out(1.0) of(0.0) a(0.0) frustration(0.0) 
+on(0.0) the(0.0) part(0.0) of(0.0) the(0.0) Vice(1.0) President(0.0) and(0.0) the(0.0) Secretary(1.0) of(0.0) Defense(1.0) and(0.0) their(0.0) allies(1.0) within(1.0) the(0.0) administration(0.0) ,(0.0) their(0.0) 
+frustration(0.0) that(0.0) the(0.0) normal(0.0) intelligence(1.0) operations(1.0) in(0.0) our(0.0) Government(0.0) were(0.0) not(1.0) being(0.0) ``(0.0) sufficiently(0.0) forward(0.0) leaning(1.0) ,(0.0) ''(0.0) as(0.0) the(0.0) 
+Secretary(1.0) of(0.0) Defense(1.0) put(0.0) it(0.0) ,(0.0) in(0.0) finding(0.0) weapons(1.0) of(0.0) mass(0.0) destruction(1.0) and(0.0) in(0.0) building(0.0) a(0.0) case(0.0) for(0.0) going(0.0) to(0.0) 
+war(1.0) in(0.0) Iraq(1.0) .(0.0) The(0.0) problem(0.0) is(0.0) that(0.0) that(0.0) office(1.0) was(0.0) established(1.0) to(0.0) provide(0.0) information(0.0) outside(0.0) of(0.0) the(0.0) normal(0.0) channels(0.0) 
+,(0.0) and(0.0) it(0.0) was(0.0) even(0.0) designed(0.0) to(0.0) go(0.0) around(0.0) the(0.0) Department(0.0) of(0.0) Defense(1.0) 's(0.0) own(0.0) intelligence(1.0) operation(0.0) unit(1.0) .(0.0) The(0.0) 
+problem(0.0) with(0.0) that(0.0) Office(0.0) of(0.0) Special(0.0) Programs(0.0) is(0.0) that(0.0) it(0.0) relied(1.0) on(0.0) so-called(1.0) intelligence(0.0) from(0.0) like-minded(1.0) true(1.0) believers(1.0) ,(0.0) primarily(1.0) 
+Ahmad(1.0) Chalabi(1.0) and(0.0) his(0.0) allies(1.0) in(0.0) Iraq(1.0) .(0.0) At(0.0) the(0.0) time(0.0) ,(0.0) we(0.0) asked(0.0) that(0.0) the(0.0) Surveys(1.0) and(0.0) Investigations(0.0) staff(0.0) 
+of(0.0) the(0.0) Appropriations(0.0) Committee(0.0) look(1.0) into(0.0) this(0.0) matter(0.0) and(0.0) determine(1.0) what(0.0) the(0.0) facts(1.0) were(0.0) surrounding(1.0) the(0.0) creation(0.0) of(0.0) this(0.0) operation(0.0) 
+.(0.0) We(0.0) obtained(1.0) some(0.0) support(0.0) from(0.0) the(0.0) majority(1.0) party(1.0) but(0.0) not(1.0) sufficient(0.0) support(0.0) under(0.0) the(0.0) rules(1.0) of(0.0) the(0.0) House(0.0) in(0.0) 
+order(0.0) to(0.0) allow(0.0) that(0.0) surveys(1.0) and(0.0) investigation(0.0) study(0.0) to(0.0) proceed(0.0) ,(0.0) and(0.0) so(0.0) it(0.0) never(0.0) took(1.0) place(0.0) .(0.0) Second(0.0) 
+
+
+----- below are rationale words -----
+
+say	instruct	think	
+although	context	not	attempts	
+insist	Senate	
+retrofitting	devices	soldiers	bases	Iraq	
+overhead	artillery	rocket-propelled	grenades	missile	
+including	122	rockets	exactly	let	
+context	Even	
+would	expect	would	think	
+not	adequately	citizens	adequately	long	
+discredit	neglect	respect	
+Let	examples	came	
+Secretary	Defense	established	
+intelligence	advise	Pentagon	leadership	plans	invading	Iraq	
+staffed	handpicked	Under	Secretary	Defense	Douglas	Feith	Deputy	Secretary	Wolfowitz	
+charged	developing	rationale	invading	Iraq	out	
+Vice	Secretary	Defense	allies	within	
+intelligence	operations	not	leaning	
+Secretary	Defense	weapons	destruction	
+war	Iraq	office	established	
+Defense	intelligence	unit	
+relied	so-called	like-minded	true	believers	primarily	
+Ahmad	Chalabi	allies	Iraq	Surveys	
+look	determine	facts	surrounding	
+obtained	majority	party	not	rules	
+surveys	took	
+
+reads % = 0.218

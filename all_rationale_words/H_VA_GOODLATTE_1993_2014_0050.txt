@@ -1,0 +1,10 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) support(0.0) his(0.0) commonsense(1.0) amendment(1.0) and(0.0) urge(1.0) my(0.0) colleagues(1.0) to(0.0) join(1.0) in(0.0) making(0.0) it(0.0) unanimous(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+commonsense	amendment	urge	colleagues	join	
+
+reads % = 0.3125

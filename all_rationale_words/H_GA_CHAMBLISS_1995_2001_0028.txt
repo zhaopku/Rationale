@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) chairman(0.0) for(0.0) his(0.0) work(0.0) that(0.0) he(0.0) has(0.0) done(0.0) on(0.0) this(0.0) bill(1.0) ,(0.0) and(0.0) to(0.0) our(0.0) ranking(0.0) 
+member(0.0) ,(0.0) the(0.0) gentlewoman(0.0) from(0.0) California(0.0) ((0.0) Ms.(1.0) Pelosi(1.0) )(0.0) .(0.0) It(0.0) has(0.0) been(0.0) a(0.0) great(0.0) bipartisan(1.0) effort(0.0) .(0.0) I(0.0) 
+rise(0.0) in(0.0) support(0.0) of(0.0) H.R(0.0) .(0.0) 2883(0.0) ,(0.0) the(0.0) Intelligence(0.0) Authorization(0.0) Act(0.0) for(0.0) Fiscal(0.0) Year(0.0) 2002(0.0) .(0.0) As(0.0) chairman(0.0) of(0.0) 
+the(0.0) committee(0.0) 's(0.0) new(0.0) Working(0.0) Group(0.0) on(0.0) Terrorism(0.0) and(0.0) Homeland(0.0) Security(0.0) ,(0.0) and(0.0) as(0.0) a(0.0) former(0.0) firefighter(0.0) ,(0.0) I(0.0) have(0.0) 
+had(0.0) a(0.0) particular(0.0) interest(0.0) in(0.0) ensuring(0.0) the(0.0) swift(1.0) passage(0.0) of(0.0) this(0.0) critically(0.0) important(0.0) bill(1.0) before(0.0) us(0.0) today(0.0) .(0.0) There(0.0) is(0.0) 
+much(0.0) in(0.0) this(0.0) bill(1.0) that(0.0) enhances(0.0) our(0.0) Nation(1.0) 's(0.0) counterterrorism(1.0) capabilities(0.0) ,(0.0) and(0.0) I(0.0) will(0.0) address(0.0) some(0.0) of(0.0) these(0.0) provisions(1.0) 
+in(0.0) just(0.0) a(0.0) moment(0.0) .(0.0) In(0.0) the(0.0) aftermath(1.0) of(0.0) the(0.0) tragic(1.0) terrorist(1.0) attacks(1.0) on(0.0) September(0.0) 11(0.0) ,(0.0) 2001(0.0) ,(0.0) the(0.0) 
+President(1.0) came(0.0) here(0.0) and(0.0) told(0.0) us(0.0) that(0.0) America(0.0) is(0.0) at(0.0) war(1.0) .(0.0) He(0.0) mentioned(0.0) the(0.0) new(0.0) battlefield(0.0) we(0.0) have(0.0) now(0.0) 
+to(0.0) navigate(0.0) as(0.0) a(0.0) Nation(0.0) .(0.0) It(0.0) is(0.0) a(0.0) battlefield(0.0) that(0.0) is(0.0) not(0.0) clearly(0.0) defined(0.0) and(0.0) that(0.0) will(0.0) often(0.0) be(0.0) 
+devoid(0.0) of(0.0) clear(0.0) targets(0.0) .(0.0) It(0.0) is(0.0) a(0.0) battlefield(0.0) that(0.0) stretches(0.0) across(0.0) the(0.0) globe(0.0) and(0.0) involves(0.0) a(0.0) complex(0.0) support(0.0) network(0.0) 
+,(0.0) false(0.0) documents(0.0) ,(0.0) illicit(1.0) financial(1.0) transactions(0.0) ,(0.0) and(0.0) fanatical(1.0) individuals(0.0) who(0.0) are(0.0) willing(0.0) to(0.0) commit(0.0) suicide(1.0) to(0.0) further(0.0) their(0.0) 
+twisted(1.0) causes(0.0) ,(0.0) whatever(0.0) they(0.0) may(0.0) be(0.0) .(0.0) On(0.0) this(0.0) new(0.0) battlefield(1.0) ,(0.0) conventional(1.0) weapons(1.0) and(0.0) conventional(0.0) thinking(0.0) will(0.0) not(0.0) 
+be(0.0) sufficient(0.0) ,(0.0) nor(0.0) will(0.0) a(0.0) fortress(0.0) mentality(0.0) ensure(0.0) adequate(1.0) protection(1.0) for(0.0) our(0.0) citizens(1.0) both(0.0) here(0.0) and(0.0) abroad(0.0) .(0.0) We(0.0) 
+can(0.0) better(0.0) secure(0.0) our(0.0) embassies(1.0) and(0.0) our(0.0) military(0.0) bases(0.0) ,(0.0) and(0.0) we(0.0) have(0.0) been(0.0) and(0.0) should(0.0) continue(0.0) to(0.0) do(0.0) this(0.0) 
+.(0.0) But(0.0) as(0.0) we(0.0) saw(0.0) on(0.0) September(0.0) 11(0.0) ,(0.0) the(0.0) terrorists(1.0) will(0.0) always(0.0) search(0.0) for(0.0) and(0.0) find(0.0) that(0.0) weak(0.0) spot(0.0) 
+,(0.0) that(0.0) chink(1.0) in(0.0) our(0.0) armor(0.0) that(0.0) makes(0.0) us(0.0) vulnerable(0.0) ;(0.0) and(0.0) in(0.0) a(0.0) free(0.0) society(1.0) ,(0.0) there(0.0) will(0.0) necessarily(0.0) 
+be(0.0) weak(0.0) spots(0.0) .(0.0) Therefore(0.0) ,(0.0) we(0.0) need(0.0) to(0.0) recognize(0.0) what(0.0) the(0.0) Permanent(0.0) Select(0.0) Committee(0.0) on(0.0) Intelligence(0.0) has(0.0) recognized(0.0) for(0.0) 
+some(0.0) time(0.0) ,(0.0) and(0.0) that(0.0) is(0.0) that(0.0) intelligence(0.0) rules(1.0) this(0.0) battlefield(1.0) like(0.0) never(0.0) before(0.0) .(0.0) Intelligence(0.0) is(0.0) the(0.0) only(0.0) way(0.0) 
+in(0.0) which(0.0) we(0.0) will(0.0) get(0.0) at(0.0) this(0.0) problem(0.0) .(0.0) It(0.0) is(0.0) the(0.0) only(0.0) way(0.0) in(0.0) which(0.0) we(0.0) can(0.0) discover(0.0) the(0.0) 
+plans(1.0) and(0.0) intentions(0.0) of(0.0) the(0.0) enemy(1.0) ,(0.0) thwart(1.0) his(0.0) efforts(1.0) to(0.0) attack(1.0) us(0.0) ,(0.0) and(0.0) locate(0.0) him(0.0) so(0.0) that(0.0) we(0.0) 
+can(0.0) punish(1.0) him(0.0) swiftly(0.0) and(0.0) decisively(0.0) when(0.0) he(0.0) manages(0.0) to(0.0) get(0.0) through(0.0) our(0.0) defenses(1.0) .(0.0) H.R(0.0) .(0.0) 2883(0.0) addresses(0.0) a(0.0) 
+number(0.0) of(0.0) key(0.0) shortfalls(1.0) in(0.0) the(0.0) capability(0.0) of(0.0) our(0.0) intelligence(0.0) and(0.0) law(1.0) enforcement(1.0) communities(1.0) to(0.0) combat(0.0) terrorism(1.0) .(0.0) The(0.0) bill(1.0) 
+substantially(1.0) increases(1.0) investments(1.0) for(0.0) FBI(1.0) counterterrorism(1.0) capabilities(0.0) .(0.0) It(0.0) increases(1.0) funding(1.0) for(0.0) language(0.0) training(0.0) across(0.0) the(0.0) intelligence(0.0) community(0.0) .(0.0) A(0.0) 
+lack(0.0) of(0.0) linguists(0.0) with(0.0) fluency(0.0) in(0.0) languages(0.0) spoken(0.0) by(0.0) most(0.0) terrorists(1.0) has(0.0) plagued(0.0) the(0.0) intelligence(0.0) and(0.0) law(1.0) enforcement(1.0) communities(0.0) and(0.0) 
+must(0.0) be(0.0) addressed(0.0) more(0.0) decisively(0.0) than(0.0) ever(0.0) before(0.0) .(0.0) H.R(0.0) .(0.0) 2883(0.0) also(0.0) promotes(1.0) a(0.0) more(0.0) focused(0.0) analytical(0.0) effort(0.0) 
+
+
+----- below are rationale words -----
+
+bill	
+Ms.	Pelosi	bipartisan	
+
+
+swift	bill	
+bill	Nation	counterterrorism	provisions	
+aftermath	tragic	terrorist	attacks	
+President	war	
+
+
+illicit	financial	fanatical	suicide	
+twisted	battlefield	conventional	weapons	
+adequate	protection	citizens	
+embassies	
+terrorists	
+chink	society	
+
+rules	battlefield	
+
+plans	enemy	thwart	efforts	attack	
+punish	defenses	
+shortfalls	law	enforcement	communities	terrorism	bill	
+substantially	increases	investments	FBI	counterterrorism	increases	funding	
+terrorists	law	enforcement	
+promotes	
+
+reads % = 0.114

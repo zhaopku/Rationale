@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) 1(0.0) minute(0.0) to(0.0) the(0.0) leader(0.0) of(0.0) our(0.0) Democratic(1.0) caucus(1.0) ,(0.0) indeed(0.0) ,(0.0) a(0.0) leader(0.0) in(0.0) the(0.0) Congress(0.0) 
+,(0.0) the(0.0) gentleman(0.0) from(0.0) Connecticut(1.0) ((0.0) Mr.(0.0) Larson(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Democratic	caucus	
+Connecticut	Larson	
+
+reads % = 0.12903225806451613

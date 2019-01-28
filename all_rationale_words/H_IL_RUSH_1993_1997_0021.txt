@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) to(0.0) oppose(1.0) the(0.0) balanced(0.0) budget(1.0) agreement(0.0) .(0.0) This(0.0) deal(0.0) is(0.0) praised(0.0) as(0.0) a(0.0) bipartisan(1.0) victory(0.0) --(0.0) 
+that(0.0) we(0.0) have(0.0) balanced(0.0) the(0.0) budget(1.0) and(0.0) increased(0.0) spending(1.0) for(0.0) some(0.0) social(1.0) programs(1.0) .(0.0) Nothing(0.0) is(0.0) further(0.0) from(0.0) the(0.0) truth(0.0) 
+.(0.0) This(0.0) balanced(0.0) budget(1.0) deal(0.0) was(0.0) achieved(0.0) primarily(0.0) by(0.0) drastic(1.0) cuts(1.0) --(0.0) $(0.0) 115(0.0) billion(1.0) from(0.0) Medicare(1.0) --(0.0) the(0.0) major(0.0) 
+health(1.0) program(1.0) for(0.0) the(0.0) elderly(1.0) ,(0.0) and(0.0) $(0.0) 13(0.0) billion(1.0) in(0.0) savings(1.0) from(0.0) Medicaid(1.0) --(0.0) the(0.0) major(1.0) Federal(1.0) program(1.0) providing(0.0) 
+health(1.0) care(1.0) for(0.0) poor(1.0) people(0.0) .(0.0) The(0.0) budget(1.0) gets(0.0) balanced(0.0) by(0.0) cutting(1.0) Medicare(1.0) payments(1.0) to(0.0) doctors(1.0) ,(0.0) hospitals(1.0) ,(0.0) and(0.0) 
+other(0.0) health(1.0) care(1.0) providers(1.0) .(0.0) The(0.0) budget(1.0) deal(1.0) freezes(0.0) Medicare(1.0) payments(1.0) to(0.0) hospitals(1.0) at(0.0) the(0.0) fiscal(1.0) year(0.0) 1997(1.0) level(0.0) --(0.0) 
+even(0.0) though(0.0) we(0.0) all(0.0) know(0.0) that(0.0) the(0.0) demand(1.0) and(0.0) costs(1.0) are(0.0) rising(0.0) .(0.0) And(0.0) this(0.0) deal(0.0) reduces(1.0) Medicare(1.0) and(0.0) Medicaid(1.0) 
+payments(1.0) for(0.0) hospitals(1.0) that(0.0) serve(0.0) a(0.0) disproportionate(1.0) number(0.0) of(0.0) low-income(1.0) patients(0.0) --(0.0) the(0.0) very(0.0) poor(1.0) --(0.0) the(0.0) uninsured(1.0) .(0.0) These(0.0) 
+include(0.0) public(0.0) hospitals(1.0) like(0.0) Cook(0.0) County(1.0) Hospital(0.0) in(0.0) Chicago(1.0) and(0.0) the(0.0) University(0.0) of(0.0) Chicago(1.0) Hospital(0.0) in(0.0) the(0.0) First(0.0) Congressional(0.0) District(1.0) 
+.(0.0) And(0.0) the(0.0) cuts(0.0) also(0.0) hurt(0.0) those(0.0) whose(0.0) very(0.0) breath(0.0) depends(0.0) on(0.0) home(0.0) oxygen(0.0) .(0.0) The(0.0) budget(1.0) cuts(1.0) payments(1.0) for(0.0) 
+oxygen(1.0) and(0.0) oxygen(0.0) equipment(0.0) .(0.0) This(0.0) budget(1.0) deal(1.0) was(0.0) paid(0.0) for(0.0) with(0.0) another(0.0) deal(0.0) --(0.0) generous(0.0) tax(1.0) cuts(1.0) that(1.0) favor(1.0) 
+those(1.0) who(1.0) are(0.0) better(0.0) off(0.0) .(0.0) Only(0.0) a(0.0) quarter(0.0) of(0.0) these(0.0) cuts(1.0) go(0.0) to(0.0) people(0.0) making(0.0) less(0.0) than(0.0) $(0.0) 100,000(0.0) 
+a(0.0) year(0.0) .(0.0) Thirty-six(0.0) percent(0.0) of(0.0) these(0.0) cuts(1.0) go(0.0) to(0.0) the(0.0) top(0.0) 1(0.0) percent(0.0) of(0.0) income(1.0) earners(1.0) .(0.0) With(0.0) due(0.0) 
+respect(0.0) to(0.0) the(0.0) President(1.0) ,(0.0) and(0.0) my(0.0) colleagues(0.0) on(0.0) both(0.0) sides(0.0) of(0.0) the(0.0) aisle(0.0) --(0.0) this(0.0) budget(1.0) does(0.0) contain(0.0) some(0.0) 
+hard-won(1.0) provisions(1.0) --(0.0) but(0.0) let's(0.0) not(0.0) forget(0.0) they(0.0) were(0.0) fought(0.0) for(0.0) and(0.0) won(0.0) --(0.0) by(0.0) poor(1.0) people(0.0) ,(0.0) working(0.0) people(0.0) 
+,(0.0) and(0.0) advocates(1.0) for(0.0) children(0.0) and(0.0) immigrants(1.0) .(0.0) This(0.0) bill(1.0) does(1.0) include(0.0) expanded(0.0) health(1.0) insurance(1.0) for(0.0) poor(1.0) children(1.0) .(0.0) The(0.0) 
+bill(1.0) restores(1.0) benefits(1.0) to(0.0) legal(1.0) immigrants(1.0) who(0.0) become(0.0) disabled(0.0) and(0.0) it(0.0) guarantees(0.0) minimum(0.0) wage(1.0) and(0.0) workplace(1.0) protections(1.0) to(0.0) workfare(1.0) participants(0.0) 
+.(0.0) But(0.0) 5(0.0) million(0.0) children(1.0) who(0.0) need(0.0) health(1.0) insurance(1.0) will(0.0) not(0.0) be(0.0) covered(0.0) .(0.0) Legal(1.0) immigrants(1.0) will(0.0) not(0.0) receive(0.0) food(1.0) 
+stamps(0.0) .(0.0) And(0.0) our(0.0) Nation(1.0) 's(0.0) schools(1.0) that(0.0) need(0.0) serious(0.0) rebuilding(1.0) so(0.0) they(0.0) can(0.0) move(0.0) our(0.0) children(0.0) into(0.0) the(0.0) 21st(1.0) 
+century(0.0) and(0.0) get(0.0) connected(0.0) to(0.0) the(0.0) information(0.0) superhighway(1.0) do(0.0) not(0.0) have(0.0) the(0.0) funds(1.0) they(0.0) need(0.0) .(0.0) Last(0.0) spring(0.0) ,(0.0) I(0.0) 
+cast(0.0) my(0.0) vote(1.0) for(0.0) the(0.0) Congressional(1.0) Black(1.0) Caucus(1.0) [(0.0) CBC(1.0) ](1.0) Budget(1.0) .(1.0) I(0.0) was(0.0) proud(0.0) to(0.0) vote(1.0) for(0.0) that(0.0) 
+budget(1.0) .(0.0) That(0.0) budget(1.0) both(0.0) balanced(0.0) and(0.0) fully(0.0) funded(1.0) vital(1.0) safety(0.0) net(0.0) programs(1.0) like(0.0) WIC(1.0) and(0.0) Head(0.0) Start(0.0) .(0.0) The(0.0) 
+CBC(0.0) budget(1.0) protected(1.0) the(0.0) constituents(1.0) of(0.0) the(0.0) First(0.0) Congressional(0.0) District(1.0) .(0.0) I(0.0) represent(0.0) a(0.0) district(0.0) where(0.0) 20(0.0) percent(0.0) of(0.0) my(0.0) 
+constituents(1.0) live(0.0) in(0.0) poverty(1.0) .(0.0) Thirty-six(0.0) percent(0.0) of(0.0) the(0.0) children(0.0) under(0.0) 18(0.0) in(0.0) my(0.0) district(0.0) live(0.0) in(0.0) poverty(1.0) .(0.0) How(0.0) 
+could(0.0) I(0.0) vote(1.0) for(0.0) a(0.0) budget(1.0) deal(1.0) like(0.0) this(0.0) when(0.0) mothers(1.0) in(0.0) my(0.0) district(0.0) like(0.0) Grand(0.0) Boulevard(0.0) watch(0.0) their(0.0) 
+
+
+----- below are rationale words -----
+
+oppose	budget	bipartisan	
+budget	spending	social	programs	
+budget	drastic	cuts	billion	Medicare	
+health	program	elderly	billion	savings	Medicaid	major	Federal	program	
+health	care	poor	budget	cutting	Medicare	payments	doctors	hospitals	
+health	care	providers	budget	deal	Medicare	payments	hospitals	fiscal	1997	
+demand	costs	reduces	Medicare	Medicaid	
+payments	hospitals	disproportionate	low-income	poor	uninsured	
+hospitals	County	Chicago	Chicago	District	
+budget	cuts	payments	
+oxygen	budget	deal	tax	cuts	that	favor	
+those	who	cuts	
+cuts	income	earners	
+President	budget	
+hard-won	provisions	poor	
+advocates	immigrants	bill	does	health	insurance	poor	children	
+bill	restores	benefits	legal	immigrants	wage	workplace	protections	workfare	
+children	health	insurance	Legal	immigrants	food	
+Nation	schools	rebuilding	21st	
+superhighway	funds	
+vote	Congressional	Black	Caucus	CBC	]	Budget	.	vote	
+budget	budget	funded	vital	programs	WIC	
+budget	protected	constituents	District	
+constituents	poverty	poverty	
+vote	budget	deal	mothers	
+
+reads % = 0.264

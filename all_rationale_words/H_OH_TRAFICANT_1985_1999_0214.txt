@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+The(0.0) Clerk(0.0) read(0.0) as(0.0) follows(0.0) :(0.0) Amendment(0.0) offered(0.0) by(0.0) Mr.(0.0) Traficant(1.0) :(1.0) At(1.0) the(0.0) end(0.0) of(0.0) the(0.0) bill(0.0) ,(0.0) insert(0.0) after(0.0) 
+the(0.0) last(0.0) section(0.0) ((0.0) preceding(0.0) the(0.0) short(0.0) title(0.0) )(0.0) the(0.0) following(0.0) :(0.0) TITLE(0.0) VIII(0.0) --(0.0) ADDITIONAL(0.0) GENERAL(0.0) PROVISIONS(0.0) Sec(0.0) .(0.0) 
+801(0.0) .(0.0) None(0.0) of(0.0) the(0.0) funds(0.0) made(0.0) available(0.0) to(0.0) the(0.0) Department(0.0) of(0.0) Justice(0.0) in(0.0) this(0.0) Act(0.0) may(0.0) be(0.0) used(0.0) for(0.0) 
+the(0.0) purpose(0.0) of(0.0) transporting(0.0) an(0.0) individual(0.0) who(0.0) is(0.0) a(0.0) prisoner(0.0) pursuant(0.0) to(0.0) conviction(0.0) for(0.0) crime(0.0) under(0.0) State(0.0) or(0.0) Federal(0.0) law(0.0) 
+and(0.0) is(0.0) classified(0.0) as(0.0) a(0.0) maximum(0.0) or(0.0) high(0.0) security(0.0) prisoner(0.0) ,(0.0) other(0.0) than(0.0) to(0.0) a(0.0) prison(0.0) or(0.0) other(0.0) facility(0.0) certified(0.0) 
+by(0.0) BOP(0.0) as(0.0) appropriately(0.0) secure(0.0) for(0.0) housing(0.0) such(0.0) a(0.0) prisoner(0.0) .(0.0) Mr.(0.0) TRAFICANT(1.0) ((0.0) during(0.0) the(0.0) reading(0.0) )(0.0) .(0.0) Mr.(0.0) 
+Chairman(1.0) ,(0.0) I(0.0) ask(0.0) unanimous(1.0) consent(0.0) that(0.0) the(0.0) amendment(1.0) be(0.0) considered(0.0) as(0.0) read(0.0) and(0.0) printed(0.0) in(0.0) the(0.0) Record(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Traficant	:	At	
+
+
+
+
+TRAFICANT	
+Chairman	unanimous	amendment	
+
+reads % = 0.05

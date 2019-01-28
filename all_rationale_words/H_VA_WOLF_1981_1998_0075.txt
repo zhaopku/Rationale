@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) would(0.0) tell(0.0) the(0.0) gentlewoman(0.0) ,(0.0) I(0.0) think(0.0) it(0.0) is(0.0) a(0.0) great(0.0) amendment(1.0) ,(0.0) and(0.0) I(0.0) accept(0.0) it(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+amendment	
+
+
+reads % = 0.047619047619047616

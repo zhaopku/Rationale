@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) appreciate(1.0) the(0.0) gentleman(0.0) yielding(0.0) ,(0.0) because(1.0) in(0.0) the(0.0) discussion(0.0) about(0.0) what(0.0) 's(0.0) linguistically(1.0) appropriate(1.0) ,(0.0) and(0.0) the(0.0) discussion(0.0) about(0.0) how(0.0) 
+political(1.0) ,(0.0) supposedly(1.0) ,(0.0) it(0.0) is(0.0) ,(0.0) how(1.0) politically(1.0) inappropriate(0.0) to(0.0) have(0.0) a(0.0) chart(1.0) that(0.0) lists(0.0) all(0.0) the(0.0) levels(0.0) of(0.0) 
+bureaucracy(1.0) that(0.0) the(0.0) new(1.0) bill(0.0) is(0.0) going(0.0) to(0.0) propose(1.0) and(0.0) how(0.0) they(0.0) think(1.0) it(0.0) may(0.0) be(0.0) a(0.0) bit(1.0) too(1.0) political(1.0) 
+to(0.0) say(1.0) that(0.0) it(0.0) 's(0.0) government-run(1.0) health(1.0) care(0.0) .(0.0) But(0.0) I(0.0) just(1.0) went(0.0) and(0.0) printed(1.0) this(0.0) off(0.0) Speaker(0.0) Pelosi(1.0) 's(0.0) 
+own(0.0) Web(0.0) site(0.0) ,(0.0) and(0.0) I(0.0) apparently(0.0) need(1.0) help(0.0) with(0.0) what(0.0) 's(0.0) linguistically(1.0) appropriate(1.0) .(0.0) This(0.0) is(0.0) on(0.0) the(0.0) official(1.0) 
+Speaker's(1.0) Web(0.0) site(0.0) under(0.0) the(0.0) title(0.0) ,(0.0) ``(1.0) Honest(1.0) Leadership(0.0) and(0.0) Open(0.0) Government(0.0) .(0.0) ''(1.0) The(0.0) first(0.0) sentence(1.0) is(0.0) ,(0.0) 
+the(0.0) culture(1.0) of(0.0) corruption(1.0) practiced(1.0) under(0.0) the(0.0) Republican-controlled(1.0) Congress(0.0) was(0.0) an(0.0) affront(1.0) to(0.0) the(0.0) idea(0.0) of(0.0) a(0.0) representative(1.0) democracy(1.0) ,(0.0) 
+and(0.0) its(0.0) consequences(0.0) were(0.0) devastating(1.0) .(0.0) Now(0.0) ,(0.0) I(0.0) have(0.0) a(0.0) little(0.0) trouble(0.0) ,(0.0) and(0.0) I(0.0) 'm(0.0) glad(0.0) I(0.0) 'm(0.0) 
+here(0.0) with(0.0) such(0.0) bright(0.0) minds(1.0) ,(0.0) including(1.0) our(0.0) wonderful(0.0) chairman(1.0) of(0.0) our(0.0) conference(0.0) .(0.0) But(0.0) how(1.0) is(0.0) it(0.0) a(0.0) little(0.0) 
+bit(1.0) too(1.0) political(1.0) to(0.0) use(1.0) government(1.0) resources(0.0) to(0.0) say(1.0) the(0.0) words(0.0) government-run(1.0) health(1.0) care(0.0) ,(0.0) but(0.0) it(0.0) is(0.0) entirely(1.0) appropriate(1.0) 
+for(0.0) the(0.0) Speaker(0.0) of(0.0) the(0.0) House(0.0) to(0.0) say(1.0) the(0.0) culture(1.0) of(0.0) corruption(1.0) practiced(1.0) under(0.0) the(0.0) Republican-controlled(1.0) Congress(0.0) was(0.0) an(0.0) affront(1.0) 
+to(0.0) the(0.0) idea(0.0) of(0.0) representative(1.0) democracy(1.0) ,(0.0) and(0.0) its(0.0) consequences(0.0) ?(0.0) But(0.0) that(0.0) 's(1.0) not(0.0) all(0.0) .(0.0) Led(1.0) by(0.0) the(0.0) 
+House(0.0) Democrats(1.0) on(0.0) the(0.0) other(0.0) hand(0.0) ,(0.0) and(0.0) apparently(0.0) this(0.0) is(0.0) not(1.0) considered(0.0) political(1.0) ,(0.0) this(0.0) statement(0.0) ,(0.0) House(0.0) Democrats(1.0) 
+have(0.0) acted(1.0) to(0.0) make(0.0) this(0.0) Congress(0.0) the(0.0) most(1.0) honest(1.0) and(0.0) open(0.0) Congress(0.0) in(0.0) history(0.0) .(0.0) Well(0.0) ,(0.0) besides(0.0) being(0.0) factually(1.0) 
+wrong(0.0) ,(0.0) that(0.0) 's(0.0) --(0.0) --(0.0) With(1.0) honest(1.0) leadership(1.0) and(0.0) open(0.0) government(1.0) ,(0.0) America(0.0) 's(0.0) leaders(1.0) can(0.0) ,(0.0) once(1.0) again(0.0) 
+,(0.0) focus(1.0) on(0.0) the(0.0) needs(0.0) of(0.0) the(0.0) American(0.0) people(0.0) .(0.0) So(1.0) that(0.0) 's(0.0) as(0.0) political(1.0) ,(0.0) it(0.0) seems(0.0) to(0.0) me(0.0) 
+,(0.0) as(0.0) could(0.0) be(0.0) .(0.0) I(0.0) 'm(0.0) still(0.0) perplexed(1.0) .(0.0) Since(0.0) Republicans(1.0) are(0.0) not(1.0) allowed(0.0) to(0.0) comment(0.0) on(0.0) anything(0.0) that(0.0) 
+'s(1.0) a(0.0) governmental(1.0) resource(0.0) ,(0.0) and(0.0) so(0.0) I(0.0) am(0.0) wondering(0.0) ,(0.0) if(0.0) we(0.0) phrase(1.0) in(0.0) any(1.0) mail-out(1.0) or(0.0) on(0.0) any(1.0) 
+Web(0.0) site(0.0) ,(0.0) if(0.0) we(0.0) say(1.0) that(0.0) the(0.0) Democrat-(1.0) controlled(1.0) Congress(0.0) is(0.0) taking(1.0) the(0.0) Nation(0.0) in(0.0) the(0.0) wrong(0.0) direction(0.0) and(0.0) 
+that(0.0) too(1.0) many(0.0) Americans(0.0) are(0.0) paying(0.0) a(0.0) heavy(0.0) price(0.0) for(0.0) those(0.0) wrong(0.0) choices(0.0) ,(0.0) including(1.0) paying(1.0) record(1.0) costs(0.0) for(0.0) health(1.0) 
+care(0.0) ,(0.0) I(0.0) 'm(0.0) wondering(0.0) if(0.0) that(0.0) would(1.0) be(0.0) something(0.0) that(0.0) would(1.0) also(1.0) be(0.0) found(0.0) objectionable(1.0) for(0.0) its(0.0) being(0.0) a(0.0) 
+little(0.0) too(0.0) political(1.0) .(1.0) I(0.0) 'll(1.0) yield(0.0) to(0.0) find(0.0) out(0.0) what(0.0) you(0.0) think(0.0) .(0.0) If(1.0) the(0.0) gentleman(0.0) would(1.0) yield(0.0) ,(0.0) 
+let(0.0) me(0.0) just(1.0) say(1.0) that(0.0) that(0.0) 's(0.0) on(0.0) the(0.0) Speaker(0.0) 's(0.0) Web(0.0) site(0.0) in(0.0) the(0.0) reverse(1.0) ,(0.0) meaning(0.0) the(0.0) Republicans(1.0) 
+took(1.0) the(0.0) Nation(0.0) in(0.0) the(0.0) wrong(0.0) direction(0.0) ,(0.0) and(0.0) too(0.0) many(0.0) Americans(0.0) are(0.0) paying(0.0) a(0.0) heavy(0.0) price(0.0) .(0.0) So(1.0) ,(0.0) 
+anyway(0.0) ,(0.0) it(0.0) sounds(0.0) like(0.0) ,(0.0) if(0.0) Republicans(1.0) said(1.0) that(0.0) about(0.0) Democrats(1.0) ,(0.0) as(0.0) my(0.0) friend(0.0) says(1.0) ,(0.0) it(0.0) 
+
+
+----- below are rationale words -----
+
+appreciate	because	linguistically	appropriate	
+political	supposedly	how	politically	chart	
+bureaucracy	new	propose	think	bit	too	political	
+say	government-run	health	just	printed	Pelosi	
+need	linguistically	appropriate	official	
+Speaker's	``	Honest	''	sentence	
+culture	corruption	practiced	Republican-controlled	affront	representative	democracy	
+devastating	
+minds	including	chairman	how	
+bit	too	political	use	government	say	government-run	health	entirely	appropriate	
+say	culture	corruption	practiced	Republican-controlled	affront	
+representative	democracy	's	Led	
+Democrats	not	political	Democrats	
+acted	most	honest	factually	
+With	honest	leadership	government	leaders	once	
+focus	So	political	
+perplexed	Republicans	not	
+'s	governmental	phrase	any	mail-out	any	
+say	Democrat-	controlled	taking	
+too	including	paying	record	health	
+would	would	also	objectionable	
+political	.	'll	If	would	
+just	say	reverse	Republicans	
+took	So	
+Republicans	said	Democrats	says	
+
+reads % = 0.234

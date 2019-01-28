@@ -1,0 +1,38 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) will(0.0) the(0.0) gentlewoman(0.0) yield(0.0) ?(0.0) Ms.(0.0) JACKSON-LEE(0.0) of(0.0) Texas(0.0) .(0.0) I(0.0) yield(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Illinois(1.0) .(0.0) Chairman(0.0) 
+,(0.0) we(0.0) would(0.0) certainly(0.0) be(0.0) more(0.0) than(0.0) willing(0.0) to(0.0) work(0.0) with(0.0) the(0.0) gentlewoman(0.0) .(0.0) I(0.0) do(0.0) not(0.0) know(0.0) the(0.0) mechanism(0.0) 
+by(0.0) which(0.0) CDC(0.0) designates(0.0) the(0.0) places(0.0) where(0.0) the(0.0) program(0.0) is(0.0) to(0.0) be(0.0) conducted(0.0) ,(0.0) but(0.0) I(0.0) certainly(0.0) am(0.0) willing(0.0) to(0.0) 
+work(0.0) with(0.0) the(0.0) gentlewoman(0.0) .(0.0) The(0.0) CHAIRMAN(0.0) pro(0.0) tempore(0.0) .(0.0) The(0.0) time(0.0) of(0.0) the(0.0) gentlewoman(0.0) from(0.0) Texas(0.0) [(0.0) Ms.(1.0) Jackson-Lee(1.0) 
+](0.0) has(1.0) expired(0.0) .(0.0) ((0.0) By(0.0) unanimous(1.0) consent(0.0) ,(0.0) Ms.(1.0) Jackson-Lee(1.0) of(0.0) Texas(0.0) was(0.0) allowed(0.0) to(0.0) proceed(0.0) for(0.0) 1(0.0) additional(0.0) 
+minute(0.0) .(0.0) )(0.0) Chairman(0.0) ,(0.0) if(0.0) the(0.0) gentlewoman(0.0) will(0.0) continue(0.0) to(0.0) yield(0.0) ,(0.0) I(0.0) would(0.0) certainly(0.0) be(0.0) willing(0.0) to(0.0) work(0.0) 
+with(0.0) the(0.0) gentlewoman(0.0) and(0.0) with(0.0) the(0.0) CDC(0.0) to(0.0) see(0.0) that(0.0) we(0.0) can(0.0) address(0.0) this(0.0) need(0.0) in(0.0) the(0.0) gentlewoman's(0.0) community(0.0) .(0.0) 
+Ms.(0.0) JACKSON-LEE(0.0) of(0.0) Texas(0.0) .(0.0) Reclaiming(1.0) my(0.0) time(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) and(0.0) thank(0.0) the(0.0) ranking(0.0) member(0.0) ,(0.0) Mr.(0.0) 
+Chairman(1.0) .(0.0) In(0.0) conclusion(0.0) ,(0.0) I(0.0) might(0.0) note(0.0) that(0.0) the(0.0) different(0.0) locations(0.0) are(0.0) west(0.0) and(0.0) east(0.0) ,(0.0) and(0.0) in(0.0) the(0.0) 
+State(0.0) of(0.0) Texas(1.0) we(0.0) only(0.0) have(0.0) one(0.0) ,(0.0) and(0.0) in(0.0) the(0.0) fourth(0.0) largest(0.0) city(0.0) in(0.0) the(0.0) Nation(1.0) we(0.0) do(0.0) not(0.0) 
+have(0.0) such(0.0) a(0.0) program(0.0) .(0.0) I(0.0) would(0.0) look(0.0) forward(0.0) to(0.0) working(0.0) with(0.0) the(0.0) gentleman(0.0) from(0.0) Wisconsin(1.0) [(0.0) Mr.(0.0) Obey(1.0) ](0.0) 
+and(1.0) appreciate(0.0) both(0.0) his(0.0) kindness(0.0) and(0.0) his(0.0) very(0.0) hard(0.0) work(0.0) on(0.0) this(0.0) legislation(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) in(0.0) the(0.0) spirit(0.0) 
+of(0.0) working(0.0) with(0.0) the(0.0) ranking(0.0) member(0.0) and(0.0) compromising(0.0) on(0.0) this(0.0) issue(0.0) ,(0.0) I(0.0) ask(0.0) unanimous(1.0) consent(0.0) to(0.0) withdraw(0.0) my(0.0) amendment(1.0) 
+.(0.0) The(0.0) CHAIRMAN(0.0) pro(0.0) tempore(0.0) .(1.0) Is(0.0) there(0.0) objection(0.0) to(0.0) the(0.0) request(0.0) of(0.0) the(0.0) gentlewoman(0.0) from(0.0) Texas(0.0) ?(0.0) There(0.0) was(0.0) 
+no(0.0) objection(0.0) .(0.0) The(0.0) CHAIRMAN(0.0) pro(0.0) tempore(0.0) .(0.0) The(0.0) amendment(0.0) is(0.0) withdrawn(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Illinois	
+
+
+Ms.	Jackson-Lee	
+has	unanimous	Ms.	Jackson-Lee	
+
+
+Reclaiming	
+Chairman	
+Texas	Nation	
+Wisconsin	Obey	
+and	legislation	Chairman	
+unanimous	amendment	
+.	
+
+
+reads % = 0.06462585034013606

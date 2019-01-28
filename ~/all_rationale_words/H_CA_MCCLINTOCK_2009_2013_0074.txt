@@ -1,0 +1,44 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(1.0) to(0.0) suspend(0.0) the(0.0) rules(1.0) and(0.0) pass(1.0) the(0.0) bill(0.0) ((0.0) H.R(0.0) .(0.0) 1241(1.0) )(0.0) to(0.0) facilitate(0.0) a(0.0) land(0.0) 
+exchange(1.0) involving(0.0) certain(1.0) National(0.0) Forest(1.0) System(0.0) lands(0.0) in(0.0) the(0.0) Inyo(1.0) National(0.0) Forest(1.0) ,(0.0) and(0.0) for(0.0) other(0.0) purposes(0.0) .(0.0) The(0.0) Clerk(0.0) 
+read(1.0) the(0.0) title(0.0) of(0.0) the(0.0) bill(0.0) .(0.0) The(0.0) text(0.0) of(0.0) the(0.0) bill(0.0) is(0.0) as(0.0) follows(1.0) :(0.0) H.R(0.0) .(0.0) 1241(1.0) Be(0.0) 
+it(0.0) enacted(1.0) by(0.0) the(0.0) Senate(1.0) and(0.0) House(0.0) of(0.0) Representatives(0.0) of(0.0) the(0.0) United(0.0) States(0.0) of(0.0) America(0.0) in(0.0) Congress(0.0) assembled(1.0) ,(0.0) SECTION(1.0) 
+1(0.0) .(0.0) SPECIAL(1.0) RULES(1.0) FOR(1.0) INYO(1.0) NATIONAL(1.0) FOREST(1.0) LAND(1.0) EXCHANGE(1.0) .(0.0) ((0.0) a(0.0) )(0.0) Authority(0.0) To(0.0) Accept(0.0) Lands(0.0) Outside(0.0) Boundaries(0.0) 
+of(0.0) Inyo(1.0) National(0.0) Forest.(1.0) --(0.0) In(0.0) any(1.0) land(0.0) exchange(1.0) involving(0.0) the(0.0) conveyance(1.0) of(0.0) certain(1.0) National(0.0) Forest(1.0) System(0.0) land(0.0) located(1.0) within(1.0) 
+the(0.0) boundaries(0.0) of(0.0) Inyo(1.0) National(0.0) Forest(1.0) in(0.0) California(0.0) ,(0.0) as(0.0) shown(0.0) on(0.0) the(0.0) map(1.0) titled(0.0) ``(0.0) Federal(1.0) Parcel(1.0) ''(0.0) and(0.0) 
+dated(0.0) June(0.0) 2011(0.0) ,(0.0) the(0.0) Secretary(1.0) of(0.0) Agriculture(0.0) may(0.0) accept(1.0) for(0.0) acquisition(0.0) in(0.0) the(0.0) exchange(1.0) certain(0.0) non-Federal(1.0) lands(0.0) in(0.0) California(0.0) 
+lying(0.0) outside(0.0) the(0.0) boundaries(0.0) of(0.0) Inyo(1.0) National(0.0) Forest(1.0) ,(0.0) as(0.0) shown(0.0) on(0.0) the(0.0) maps(1.0) titled(0.0) ``(0.0) DWP(0.0) Parcel(0.0) -(0.0) Interagency(0.0) 
+Visitor(0.0) Center(0.0) Parcel(1.0) ''(0.0) and(0.0) ``(0.0) DWP(1.0) Parcel(0.0) -(0.0) Town(1.0) of(0.0) Bishop(1.0) Parcel(1.0) ''(0.0) and(0.0) dated(0.0) June(0.0) 2011(0.0) ,(0.0) if(0.0) 
+the(0.0) Secretary(1.0) determines(1.0) that(0.0) acquisition(0.0) of(0.0) the(0.0) non-Federal(1.0) lands(0.0) is(0.0) desirable(1.0) for(0.0) National(0.0) Forest(1.0) System(0.0) purposes(1.0) .(0.0) ((0.0) b(1.0) )(0.0) 
+Cash(1.0) Equalization(0.0) Payment(0.0) ;(0.0) Use.(1.0) --(0.0) In(0.0) an(0.0) exchange(0.0) described(0.0) in(0.0) subsection(1.0) ((0.0) a(0.0) )(0.0) ,(0.0) the(0.0) Secretary(1.0) of(0.0) Agriculture(0.0) 
+may(0.0) accept(1.0) a(0.0) cash(1.0) equalization(1.0) payment(0.0) in(0.0) excess(1.0) of(0.0) 25(0.0) percent(1.0) .(0.0) Any(0.0) such(0.0) cash(1.0) equalization(1.0) payment(0.0) shall(1.0) be(0.0) deposited(1.0) 
+into(0.0) the(0.0) account(0.0) in(0.0) the(0.0) Treasury(0.0) of(0.0) the(0.0) United(0.0) States(0.0) established(1.0) by(0.0) Public(0.0) Law(1.0) 90-171(1.0) ((0.0) commonly(1.0) known(0.0) as(0.0) the(0.0) 
+Sisk(1.0) Act(0.0) ;(0.0) 16(0.0) U.S.C(1.0) .(0.0) 484a(1.0) )(0.0) and(0.0) shall(0.0) be(0.0) made(0.0) available(1.0) to(0.0) the(0.0) Secretary(1.0) for(0.0) the(0.0) acquisition(0.0) of(0.0) 
+land(0.0) for(0.0) addition(0.0) to(0.0) the(0.0) National(0.0) Forest(1.0) System(0.0) .(0.0) ((0.0) c(0.0) )(0.0) Rule(0.0) of(0.0) Construction.(1.0) --(0.0) Nothing(0.0) in(0.0) this(0.0) section(0.0) 
+shall(0.0) be(0.0) construed(1.0) to(0.0) grant(0.0) the(0.0) Secretary(1.0) of(0.0) Agriculture(0.0) new(1.0) land(0.0) exchange(1.0) authority(0.0) .(0.0) This(0.0) section(0.0) modifies(1.0) the(0.0) use(1.0) of(0.0) 
+land(0.0) exchange(0.0) authorities(0.0) already(0.0) available(1.0) to(0.0) the(0.0) Secretary(1.0) as(0.0) of(0.0) the(0.0) date(0.0) of(0.0) the(0.0) enactment(1.0) of(0.0) this(0.0) Act(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+move	rules	pass	1241	
+exchange	certain	Forest	Inyo	Forest	
+read	follows	1241	
+enacted	Senate	assembled	SECTION	
+SPECIAL	RULES	FOR	INYO	NATIONAL	FOREST	LAND	EXCHANGE	
+Inyo	Forest.	any	exchange	conveyance	certain	Forest	located	within	
+Inyo	Forest	map	Federal	Parcel	
+Secretary	accept	exchange	non-Federal	
+Inyo	Forest	maps	
+Parcel	DWP	Town	Bishop	Parcel	
+Secretary	determines	non-Federal	desirable	Forest	purposes	b	
+Cash	Use.	subsection	Secretary	
+accept	cash	equalization	excess	percent	cash	equalization	shall	deposited	
+established	Law	90-171	commonly	
+Sisk	U.S.C	484a	available	Secretary	
+Forest	Construction.	
+construed	Secretary	new	exchange	modifies	use	
+available	Secretary	enactment	
+
+reads % = 0.25

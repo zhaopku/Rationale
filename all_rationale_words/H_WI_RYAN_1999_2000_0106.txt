@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) S.(1.0) 1198(0.0) is(0.0) Truth(1.0) in(0.0) Regulating(1.0) 
+Act(0.0) of(0.0) 2000(0.0) .(0.0) It(0.0) is(0.0) a(0.0) bipartisan(0.0) good(0.0) government(1.0) bill(0.0) .(0.0) It(1.0) establishes(1.0) a(0.0) regulatory(1.0) analysis(1.0) function(0.0) with(0.0) the(0.0) 
+General(1.0) Accounting(0.0) Office(0.0) .(0.0) This(0.0) function(0.0) is(0.0) intended(1.0) to(0.0) enhance(1.0) congressional(1.0) responsibility(0.0) for(0.0) regulatory(1.0) decisions(0.0) developed(0.0) under(0.0) the(0.0) laws(1.0) Congress(0.0) 
+enacts(1.0) .(0.0) It(0.0) is(0.0) the(0.0) product(0.0) of(0.0) the(0.0) leadership(1.0) over(0.0) the(0.0) past(0.0) few(0.0) years(0.0) of(0.0) the(0.0) gentlewoman(0.0) from(0.0) New(0.0) York(0.0) 
+((0.0) Mrs.(1.0) Kelly(1.0) )(0.0) ,(0.0) the(0.0) chairwoman(1.0) of(0.0) the(0.0) Subcommittee(0.0) on(0.0) Regulatory(1.0) Reform(0.0) and(0.0) Paperwork(0.0) Reduction(0.0) ,(0.0) who(0.0) will(0.0) be(0.0) 
+joining(1.0) us(0.0) here(0.0) in(0.0) a(0.0) few(0.0) minutes(1.0) .(0.0) The(0.0) most(1.0) basic(1.0) reason(0.0) for(0.0) supporting(1.0) this(0.0) bill(0.0) is(0.0) constitutional(1.0) ,(0.0) as(0.0) 
+Congress(0.0) needs(0.0) a(0.0) Congressional(1.0) Budget(1.0) Office(0.0) to(0.0) check(0.0) and(0.0) balance(0.0) the(0.0) executive(1.0) branch(0.0) in(0.0) the(0.0) budget(0.0) office(0.0) ,(0.0) so(1.0) too(1.0) 
+does(0.0) it(0.0) need(1.0) an(0.0) analytic(1.0) capability(0.0) to(0.0) check(0.0) and(0.0) balance(0.0) the(0.0) executive(1.0) branch(0.0) in(0.0) the(1.0) regulatory(1.0) process(0.0) .(0.0) GAO(1.0) is(0.0) 
+a(0.0) logical(1.0) location(1.0) since(0.0) it(0.0) already(0.0) has(0.0) some(0.0) regulatory(1.0) review(0.0) responsibilities(0.0) under(0.0) the(0.0) Congressional(1.0) Review(1.0) Act(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) 
+article(1.0) 1(0.0) ,(0.0) section(0.0) 1(0.0) of(0.0) the(0.0) U.S.(0.0) Constitution(0.0) vests(0.0) all(0.0) legislative(1.0) powers(1.0) in(0.0) the(0.0) U.S.(0.0) Congress(0.0) .(0.0) While(1.0) Congress(0.0) 
+may(0.0) not(1.0) delegate(0.0) its(0.0) legislative(1.0) functions(1.0) ,(0.0) it(0.0) routinely(1.0) authorizes(0.0) executive(1.0) branch(1.0) agencies(0.0) to(0.0) issue(0.0) rules(1.0) that(0.0) implement(0.0) laws(1.0) passed(0.0) 
+by(0.0) Congress(0.0) .(0.0) Congress(1.0) has(0.0) become(0.0) increasingly(0.0) concerned(0.0) about(0.0) its(0.0) responsibility(0.0) to(0.0) oversee(1.0) agency(0.0) rulemaking(1.0) ,(0.0) especially(1.0) due(0.0) to(0.0) the(0.0) 
+extensive(1.0) costs(0.0) and(0.0) impacts(1.0) of(0.0) Federal(1.0) Rules(1.0) .(0.0) During(1.0) the(0.0) 105th(0.0) Congress(0.0) ,(0.0) the(0.0) House(0.0) Government(1.0) Reform(1.0) Subcommittee(0.0) on(0.0) National(0.0) 
+Economic(1.0) Growth(1.0) ,(0.0) Natural(1.0) Resources(0.0) and(0.0) Regulatory(0.0) Affairs(0.0) chaired(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) Indiana(0.0) ((0.0) Mr.(0.0) MCIntosh(1.0) )(0.0) held(0.0) a(0.0) 
+hearing(0.0) on(0.0) the(0.0) earlier(0.0) Kelly(0.0) regulatory(1.0) analysis(1.0) bill(0.0) ,(0.0) H.R(0.0) .(0.0) 1704(1.0) .(0.0) This(0.0) bill(0.0) sought(1.0) to(0.0) establish(1.0) a(0.0) new(1.0) 
+,(0.0) freestanding(1.0) congressional(1.0) agency(1.0) .(0.0) The(0.0) subcommittee(0.0) then(0.0) marked(0.0) up(0.0) and(0.0) reported(0.0) her(0.0) bill(0.0) ,(0.0) H.R(0.0) .(0.0) 1704(1.0) ,(0.0) and(0.0) 
+called(0.0) for(0.0) the(0.0) establishment(1.0) of(0.0) a(0.0) new(0.0) legislative(1.0) branch(1.0) ,(0.0) Congressional(1.0) Office(0.0) of(0.0) Regulatory(1.0) Analysis(0.0) commonly(0.0) referred(1.0) to(0.0) as(0.0) CORA(1.0) 
+,(0.0) to(0.0) analyze(1.0) all(0.0) major(0.0) rules(0.0) and(0.0) report(0.0) to(0.0) Congress(0.0) on(0.0) potential(0.0) costs(0.0) ,(0.0) benefits(1.0) ,(0.0) and(0.0) alternative(0.0) approaches(0.0) that(0.0) 
+could(1.0) achieve(0.0) the(0.0) same(1.0) regulatory(1.0) goals(0.0) at(0.0) lower(1.0) costs(0.0) .(0.0) This(0.0) agency(1.0) was(0.0) intended(1.0) to(0.0) aid(1.0) Congress(0.0) in(0.0) analyzing(1.0) Federal(1.0) 
+regulations(1.0) .(0.0) The(0.0) committee(0.0) report(1.0) stated(1.0) Congress(0.0) needs(0.0) the(0.0) expertise(0.0) that(0.0) CORA(1.0) would(0.0) provide(0.0) to(0.0) carry(0.0) out(0.0) its(0.0) duty(1.0) under(0.0) 
+the(0.0) CRA(1.0) .(0.0) Currently(1.0) Congress(0.0) does(0.0) not(0.0) have(0.0) the(0.0) information(0.0) it(0.0) needs(0.0) to(0.0) carefully(0.0) evaluate(0.0) regulations(1.0) .(0.0) The(0.0) only(0.0) analyses(0.0) 
+it(0.0) has(0.0) to(0.0) rely(1.0) on(0.0) are(0.0) those(0.0) provided(0.0) by(0.0) the(0.0) agencies(0.0) which(0.0) promulgate(1.0) the(0.0) rules(1.0) .(0.0) There(0.0) is(0.0) no(0.0) official(1.0) 
+,(0.0) third-party(1.0) analysis(1.0) of(0.0) new(1.0) regulations(1.0) .(0.0) Unfortunately(1.0) ,(0.0) CORA(1.0) supporters(1.0) in(0.0) the(0.0) 105th(0.0) Congress(0.0) could(1.0) not(1.0) overcome(0.0) the(0.0) resistance(0.0) 
+of(0.0) the(0.0) defenders(1.0) of(0.0) the(0.0) regulatory(1.0) status(0.0) quo(1.0) .(0.0) Opponents(1.0) argued(0.0) that(0.0) creating(0.0) a(0.0) new(1.0) congressional(1.0) agency(1.0) would(0.0) be(0.0) fiscally(1.0) 
+irresponsible(1.0) .(0.0) But(0.0) by(0.0) this(0.0) logic(1.0) ,(0.0) Congress(0.0) ought(1.0) to(0.0) abolish(1.0) CBO(1.0) ,(0.0) as(0.0) an(0.0) even(0.0) more(0.0) heroic(1.0) demonstration(1.0) 
+
+
+----- below are rationale words -----
+
+Speaker	S.	Truth	Regulating	
+government	It	establishes	regulatory	analysis	
+General	intended	enhance	congressional	regulatory	laws	
+enacts	leadership	
+Mrs.	Kelly	chairwoman	Regulatory	
+joining	minutes	most	basic	supporting	constitutional	
+Congressional	Budget	executive	so	too	
+need	analytic	executive	the	regulatory	GAO	
+logical	location	regulatory	Congressional	Review	Speaker	
+article	legislative	powers	While	
+not	legislative	functions	routinely	executive	branch	rules	laws	
+Congress	oversee	rulemaking	especially	
+extensive	impacts	Federal	Rules	During	Government	Reform	
+Economic	Growth	Natural	MCIntosh	
+regulatory	analysis	1704	sought	establish	new	
+freestanding	congressional	agency	1704	
+establishment	legislative	branch	Congressional	Regulatory	referred	CORA	
+analyze	benefits	
+could	same	regulatory	lower	agency	intended	aid	analyzing	Federal	
+regulations	report	stated	CORA	duty	
+CRA	Currently	regulations	
+rely	promulgate	rules	official	
+third-party	analysis	new	regulations	Unfortunately	CORA	supporters	could	not	
+defenders	regulatory	quo	Opponents	new	congressional	agency	fiscally	
+irresponsible	logic	ought	abolish	CBO	heroic	demonstration	
+
+reads % = 0.27

@@ -1,0 +1,36 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentlewoman(0.0) for(0.0) yielding(0.0) me(0.0) the(0.0) time(0.0) .(0.0) First(0.0) of(0.0) all(0.0) ,(0.0) let(0.0) me(0.0) just(0.0) say(0.0) there(0.0) 
+is(0.0) a(0.0) lot(0.0) of(0.0) good(0.0) things(0.0) in(0.0) this(0.0) bill(1.0) for(0.0) agriculture(1.0) .(0.0) I(0.0) commend(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) Mexico(1.0) ((0.0) 
+Chairman(0.0) Skeen(1.0) )(0.0) and(0.0) the(0.0) gentlewoman(0.0) from(0.0) Ohio(1.0) ((0.0) Ms.(1.0) Kaptur(1.0) )(0.0) for(1.0) their(1.0) hard(0.0) work(0.0) in(0.0) the(0.0) committee(0.0) .(0.0) 
+Second(0.0) of(0.0) all(0.0) ,(0.0) I(0.0) would(0.0) like(0.0) to(0.0) say(0.0) that(0.0) the(0.0) reimportation(1.0) issue(0.0) that(0.0) we(0.0) have(0.0) worked(0.0) on(0.0) is(0.0) not(0.0) 
+a(0.0) long-term(0.0) solution(0.0) to(0.0) the(0.0) problem(0.0) but(0.0) it(0.0) certainly(0.0) moves(0.0) forward(0.0) .(0.0) It(0.0) is(0.0) not(0.0) perfect(0.0) but(0.0) it(0.0) certainly(0.0) is(0.0) 
+going(0.0) to(0.0) enhance(0.0) the(0.0) ability(0.0) of(0.0) Americans(1.0) and(0.0) Maineards(0.0) to(0.0) be(0.0) accessing(0.0) low-(0.0) cost(0.0) ,(0.0) affordable(1.0) prescription(1.0) medicine(1.0) .(0.0) Now(0.0) 
+,(0.0) maybe(0.0) there(0.0) is(0.0) a(0.0) better(0.0) way(0.0) to(0.0) do(0.0) it(0.0) .(0.0) Maybe(0.0) there(0.0) is(0.0) an(0.0) easier(0.0) way(0.0) to(0.0) do(0.0) it(0.0) 
+.(0.0) And(0.0) that(0.0) probably(0.0) is(0.0) by(0.0) being(0.0) able(0.0) to(0.0) amend(1.0) Medicare(1.0) to(0.0) be(0.0) able(0.0) to(0.0) have(0.0) this(0.0) part(0.0) of(0.0) the(0.0) 
+program(0.0) universally(0.0) offered(0.0) .(0.0) But(0.0) that(0.0) is(0.0) not(0.0) the(0.0) issue(0.0) we(0.0) have(0.0) before(0.0) us(0.0) .(0.0) Our(0.0) seniors(1.0) need(0.0) relief(1.0) .(0.0) 
+I(0.0) want(0.0) to(0.0) commend(0.0) the(0.0) gentlewoman(0.0) for(0.0) working(0.0) together(0.0) on(0.0) this(0.0) issue(0.0) ,(0.0) recognizing(0.0) that(0.0) there(0.0) have(0.0) been(0.0) differences(0.0) and(0.0) 
+it(0.0) is(0.0) not(0.0) a(0.0) perfect(0.0) piece(0.0) of(0.0) legislation(1.0) .(0.0) But(0.0) I(0.0) do(0.0) think(0.0) it(0.0) is(0.0) going(0.0) to(0.0) go(0.0) a(0.0) long(0.0) 
+way(0.0) .(0.0) We(0.0) have(0.0) 325,000(0.0) seniors(1.0) in(0.0) Maine(1.0) that(0.0) do(0.0) not(0.0) have(0.0) access(0.0) to(0.0) low-cost(1.0) ,(0.0) affordable(1.0) prescription(1.0) medicine(1.0) or(0.0) 
+insurance(0.0) .(0.0) This(0.0) will(0.0) afford(1.0) the(0.0) State(0.0) an(0.0) opportunity(0.0) to(0.0) negotiate(0.0) to(0.0) be(0.0) able(0.0) to(0.0) have(0.0) access(0.0) to(0.0) this(0.0) pricing(0.0) 
+so(0.0) we(0.0) can(0.0) do(0.0) better(0.0) for(0.0) its(0.0) seniors(1.0) ,(0.0) and(0.0) that(0.0) is(0.0) something(0.0) that(0.0) we(0.0) should(0.0) be(0.0) supporting(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+bill	agriculture	Mexico	
+Skeen	Ohio	Ms.	Kaptur	for	their	
+reimportation	
+
+Americans	affordable	prescription	medicine	
+
+amend	Medicare	
+seniors	relief	
+
+legislation	
+seniors	Maine	low-cost	affordable	prescription	medicine	
+afford	
+seniors	
+
+reads % = 0.09642857142857143

@@ -1,0 +1,20 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) just(0.0) want(0.0) to(0.0) put(0.0) in(0.0) the(0.0) facts(0.0) on(0.0) the(0.0) Sixth(0.0) District(0.0) where(0.0) my(0.0) friend(0.0) Mr.(0.0) Upton(1.0) comes(1.0) from(0.0) ,(0.0) the(0.0) 
+Sixth(0.0) District(0.0) of(0.0) Michigan(1.0) :(0.0) 6,700(0.0) young(0.0) adults(0.0) in(0.0) the(0.0) district(0.0) now(0.0) have(0.0) health(1.0) insurance(0.0) through(0.0) their(0.0) parents(0.0) '(0.0) plan(0.0) 
+;(0.0) 9,100(0.0) seniors(0.0) have(0.0) received(0.0) prescription(0.0) drug(0.0) discounts(0.0) ;(0.0) 131,000(0.0) seniors(1.0) in(0.0) the(0.0) district(0.0) are(0.0) now(0.0) eligible(0.0) for(0.0) preventive(1.0) services(0.0) 
+without(0.0) paying(0.0) ;(0.0) 197,000(0.0) individuals(0.0) now(0.0) have(0.0) health(1.0) insurance(1.0) that(0.0) covers(0.0) preventive(1.0) services(0.0) ;(0.0) Up(0.0) to(0.0) 41,000(0.0) children(0.0) in(0.0) the(0.0) 
+district(0.0) with(0.0) preexisting(1.0) health(1.0) conditions(0.0) can(0.0) no(0.0) longer(0.0) be(0.0) denied(1.0) coverage(0.0) by(0.0) health(1.0) insurers(1.0) .(0.0) I(0.0) now(0.0) yield(0.0) 2(0.0) minutes(0.0) 
+to(0.0) a(0.0) member(0.0) of(0.0) our(0.0) committee(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Wisconsin(1.0) ((0.0) Mr.(0.0) Kind(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Upton	comes	
+Michigan	health	
+seniors	preventive	
+health	insurance	preventive	
+preexisting	health	denied	health	insurers	
+Wisconsin	Kind	
+
+reads % = 0.13675213675213677

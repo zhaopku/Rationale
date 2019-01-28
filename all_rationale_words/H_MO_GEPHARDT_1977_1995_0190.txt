@@ -1,0 +1,10 @@
+This is from a Democrat
+----- below is the original text -----
+Could(1.0) you(0.0) also(0.0) advise(0.0) us(0.0) what(0.0) rule(1.0) he(0.0) would(0.0) expect(0.0) on(0.0) the(0.0) American(0.0) Overseas(0.0) Interest(0.0) Act(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+rule	
+
+reads % = 0.058823529411764705

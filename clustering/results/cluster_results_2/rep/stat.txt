@@ -1,0 +1,2 @@
+cluster 0 has 20293 words, 54.30001070320026 % of 37372
+cluster 1 has 17079 words, 45.69998929679974 % of 37372

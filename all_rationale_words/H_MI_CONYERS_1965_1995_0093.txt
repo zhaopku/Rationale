@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) this(0.0) amendment(1.0) is(0.0) offered(0.0) by(0.0) myself(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Missouri(1.0) [(0.0) Mr.(0.0) Volkmer(1.0) ](0.0) ,(0.0) and(0.0) the(0.0) gentleman(0.0) 
+from(0.0) Michigan(1.0) [(0.0) Mr.(0.0) Dingell(1.0) ](0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+amendment	Missouri	Volkmer	
+Michigan	Dingell	
+
+reads % = 0.17857142857142858

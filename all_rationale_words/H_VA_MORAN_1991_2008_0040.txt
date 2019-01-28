@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+More(0.0) importantly(0.0) ,(0.0) American(0.0) consumers(1.0) ,(0.0) who(0.0) are(0.0) the(0.0) real(0.0) drivers(0.0) of(0.0) this(0.0) economy(1.0) ,(0.0) will(0.0) be(0.0) back(0.0) in(0.0) the(0.0) drivers(0.0) 
+seat(0.0) ,(0.0) able(0.0) to(0.0) borrow(0.0) loans(1.0) on(0.0) businesses(1.0) ,(0.0) cars(0.0) ,(0.0) college(1.0) and(0.0) ,(0.0) most(0.0) importantly(0.0) ,(0.0) their(0.0) homes(0.0) .(0.0) 
+That(0.0) is(0.0) why(0.0) we(0.0) need(0.0) to(0.0) pass(0.0) this(0.0) bill(1.0) now(0.0) .(0.0) Greed(1.0) is(0.0) the(0.0) accelerator(0.0) in(0.0) a(0.0) capitalist(1.0) economy(1.0) ,(0.0) 
+but(0.0) unless(0.0) we(0.0) 're(0.0) willing(0.0) to(0.0) tap(0.0) on(0.0) the(0.0) regulatory(1.0) brakes(0.0) once(0.0) in(0.0) a(0.0) while(0.0) ,(0.0) the(0.0) economy(1.0) is(0.0) going(0.0) 
+to(0.0) crash(0.0) .(0.0) We(0.0) learned(0.0) that(0.0) 75(0.0) years(0.0) ago(0.0) .(0.0) Let(0.0) us(0.0) not(0.0) repeat(0.0) that(0.0) mistake(0.0) again(0.0) .(0.0) We(0.0) need(0.0) 
+to(0.0) put(0.0) some(0.0) fundamental(1.0) disciplines(0.0) into(0.0) this(0.0) market(0.0) to(0.0) turn(0.0) us(0.0) back(0.0) in(0.0) the(0.0) right(0.0) direction(0.0) so(0.0) that(0.0) we(0.0) can(0.0) 
+continue(0.0) to(0.0) be(0.0) the(0.0) most(0.0) prosperous(1.0) country(0.0) in(0.0) the(0.0) world(0.0) .(0.0) But(0.0) right(0.0) now(0.0) what(0.0) we(0.0) have(0.0) to(0.0) do(0.0) is(0.0) 
+to(0.0) steer(0.0) this(0.0) economy(1.0) from(0.0) the(0.0) edge(0.0) of(0.0) the(0.0) abyss(0.0) .(0.0) That(0.0) 's(0.0) what(0.0) this(0.0) bill(1.0) does(1.0) and(0.0) that(0.0) 's(0.0) 
+why(0.0) we(0.0) need(0.0) to(0.0) pass(0.0) it(0.0) today(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+consumers	economy	
+loans	businesses	college	
+bill	Greed	capitalist	economy	
+regulatory	economy	
+
+fundamental	
+prosperous	
+economy	bill	does	
+
+
+reads % = 0.09467455621301775

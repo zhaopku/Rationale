@@ -1,0 +1,36 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) listened(0.0) to(0.0) Ohioans(1.0) in(0.0) the(0.0) 13th(0.0) Congressional(0.0) District(1.0) in(0.0) a(0.0) town(0.0) meeting(0.0) in(0.0) Newton(0.0) Falls(0.0) ,(0.0) at(0.0) county(1.0) 
+fairs(0.0) in(0.0) Medina(1.0) County(1.0) ,(0.0) Portage(1.0) County(1.0) ,(0.0) at(0.0) a(0.0) supermarket(0.0) in(0.0) Sheffield(0.0) Lake(0.0) .(0.0) People(0.0) could(0.0) not(0.0) believe(0.0) the(0.0) 
+Republicans(1.0) '(1.0) plan(1.0) to(1.0) cut(1.0) $(1.0) 270(1.0) million(1.0) in(1.0) Medicare(1.0) and(1.0) at(1.0) the(1.0) same(1.0) time(1.0) turn(1.0) around(0.0) and(0.0) give(0.0) tax(1.0) 
+breaks(1.0) to(1.0) the(1.0) wealthiest(1.0) Americans(1.0) of(1.0) the(0.0) same(1.0) amount(1.0) .(0.0) I(0.0) say(0.0) to(0.0) my(0.0) colleagues(0.0) ,(0.0) if(0.0) you(0.0) make(0.0) $(0.0) 
+300,000(0.0) a(0.0) year(0.0) ,(0.0) you(0.0) save(0.0) $(0.0) 20,000(0.0) a(0.0) year(0.0) of(0.0) your(0.0) taxes(1.0) under(0.0) the(0.0) Republican(1.0) plan(1.0) ,(1.0) while(1.0) ,(1.0) 
+as(1.0) a(1.0) Medicare(1.0) beneficiary(1.0) ,(0.0) it(0.0) will(0.0) cost(1.0) you(0.0) $(0.0) 1,000(0.0) a(0.0) year(0.0) .(0.0) If(0.0) you(0.0) are(0.0) paying(1.0) right(0.0) now(0.0) 
+as(0.0) a(0.0) Medicare(1.0) beneficiary(1.0) a(0.0) premium(0.0) of(0.0) about(0.0) $(0.0) 46(0.0) a(0.0) month(0.0) ,(0.0) under(0.0) the(0.0) Republican(1.0) plan(1.0) you(1.0) will(1.0) pay(1.0) 
+somewhere(1.0) in(1.0) the(1.0) vicinity(1.0) of(1.0) $(0.0) 110(0.0) a(0.0) month(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) that(0.0) extra(0.0) $(0.0) 60(0.0) or(0.0) $(0.0) 70(0.0) 
+may(0.0) not(0.0) sound(0.0) like(0.0) much(0.0) per(0.0) month(0.0) to(0.0) a(0.0) Member(0.0) of(0.0) Congress(0.0) .(0.0) But(0.0) if(0.0) my(0.0) colleagues(0.0) are(0.0) making(0.0) $(0.0) 
+10,000(0.0) or(0.0) $(0.0) 12,000(0.0) a(0.0) year(0.0) ,(0.0) and(0.0) they(0.0) are(0.0) retired(0.0) ,(0.0) on(0.0) Social(0.0) Security(0.0) ,(0.0) paying(1.0) that(0.0) extra(0.0) several(0.0) 
+hundred(0.0) dollars(0.0) ,(0.0) $(0.0) 700(0.0) or(0.0) $(0.0) 800(0.0) a(0.0) year(0.0) ,(0.0) for(0.0) medical(1.0) care(0.0) is(0.0) an(0.0) absolute(0.0) back(0.0) breaker(0.0) ,(0.0) 
+and(0.0) it(0.0) does(0.0) not(0.0) make(0.0) sense(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) to(0.0) make(0.0) Medicare(1.0) beneficiaries(1.0) pay(0.0) a(0.0) thousand(0.0) dollars(1.0) more(0.0) a(0.0) 
+year(0.0) ,(0.0) all(0.0) so(0.0) they(0.0) can(0.0) give(0.0) tax(1.0) breaks(1.0) to(1.0) the(1.0) wealthy(1.0) .(1.0) Mr.(0.0) Speaker(1.0) ,(0.0) it(0.0) does(0.0) not(0.0) make(0.0) 
+sense(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Ohioans	District	county	
+Medina	County	Portage	County	
+Republicans	'	plan	to	cut	$	270	million	in	Medicare	and	at	the	same	time	turn	tax	
+breaks	to	the	wealthiest	Americans	of	same	amount	
+taxes	Republican	plan	,	while	,	
+as	a	Medicare	beneficiary	cost	paying	
+Medicare	beneficiary	Republican	plan	you	will	pay	
+somewhere	in	the	vicinity	of	Speaker	
+
+paying	
+medical	
+Speaker	Medicare	beneficiaries	dollars	
+tax	breaks	to	the	wealthy	.	Speaker	
+
+
+reads % = 0.2661596958174905

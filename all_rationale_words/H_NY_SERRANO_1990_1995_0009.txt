@@ -1,0 +1,20 @@
+This is from a Democrat
+----- below is the original text -----
+With(0.0) all(0.0) due(0.0) respect(0.0) to(0.0) the(0.0) gentleman(0.0) ,(0.0) the(0.0) reason(0.0) for(0.0) the(0.0) protection(0.0) that(0.0) I(0.0) try(0.0) to(0.0) put(0.0) forth(0.0) ,(0.0) a(0.0) 
+reason(0.0) that(0.0) the(0.0) gentleman(0.0) may(0.0) probably(0.0) never(0.0) experience(0.0) or(0.0) has(0.0) ever(0.0) experienced(0.0) in(0.0) his(0.0) life(0.0) ,(0.0) is(0.0) the(0.0) fact(0.0) that(0.0) 
+there(0.0) are(0.0) some(0.0) Federal(1.0) authorities(1.0) that(0.0) upon(0.0) looking(0.0) at(0.0) some(0.0) American(0.0) citizens(1.0) determine(0.0) ,(0.0) assume(0.0) that(0.0) that(0.0) person(0.0) does(0.0) not(0.0) 
+belong(0.0) in(0.0) this(0.0) country(1.0) ,(0.0) simply(0.0) by(0.0) the(0.0) way(0.0) they(0.0) look(0.0) ,(0.0) simply(0.0) by(0.0) their(0.0) first(0.0) name(0.0) or(0.0) their(0.0) last(0.0) 
+name(0.0) or(0.0) the(0.0) fact(0.0) that(0.0) they(0.0) may(0.0) not(0.0) have(0.0) fully(0.0) mastered(0.0) the(0.0) English(0.0) language(0.0) .(0.0) This(0.0) simply(0.0) says(0.0) give(0.0) me(0.0) 
+the(0.0) protection(1.0) that(0.0) I(0.0) deserve(1.0) as(0.0) an(0.0) American(0.0) citizen(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+Federal	authorities	citizens	
+country	
+
+protection	deserve	citizen	
+
+reads % = 0.06306306306306306

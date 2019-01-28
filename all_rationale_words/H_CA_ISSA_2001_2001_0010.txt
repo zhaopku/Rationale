@@ -1,0 +1,20 @@
+This is from a Republican
+----- below is the original text -----
+There(0.0) are(0.0) cases(0.0) on(0.0) the(0.0) American(0.0) books(0.0) where(0.0) a(0.0) lathe(0.0) maker(0.0) who(0.0) made(0.0) products(0.0) in(0.0) the(0.0) 1930s(1.0) had(0.0) to(0.0) pay(0.0) for(0.0) 
+damages(1.0) caused(0.0) to(0.0) a(0.0) worker(0.0) in(0.0) the(0.0) 1980s(1.0) .(0.0) That(0.0) is(0.0) not(0.0) always(0.0) considered(0.0) fair(0.0) ,(0.0) but(0.0) corporations(1.0) understand(0.0) that(0.0) 
+one(0.0) of(0.0) the(0.0) advantages(0.0) they(0.0) get(0.0) for(0.0) that(0.0) pride(0.0) of(0.0) having(0.0) a(0.0) plaque(0.0) that(0.0) says(0.0) 50(0.0) years(0.0) or(0.0) even(0.0) 100(0.0) 
+years(0.0) in(0.0) business(0.0) is(0.0) in(0.0) fact(0.0) that(0.0) they(0.0) have(0.0) to(0.0) have(0.0) paid(0.0) off(0.0) all(0.0) of(0.0) their(0.0) debts(1.0) ,(0.0) including(0.0) the(0.0) 
+ones(0.0) that(0.0) have(0.0) not(0.0) yet(0.0) arisen(0.0) .(0.0) That(0.0) kind(0.0) of(0.0) obligation(1.0) is(0.0) understood(0.0) here(0.0) in(0.0) America(1.0) and(0.0) very(0.0) much(0.0) understood(0.0) 
+in(0.0) Japan(1.0) .(0.0) As(0.0) a(0.0) matter(0.0) of(0.0) fact(0.0) ,(0.0) it(0.0) is(0.0) probably(0.0) more(0.0) understood(0.0) in(0.0) Japan(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+1930s	
+damages	1980s	corporations	
+
+debts	
+obligation	America	
+Japan	
+
+reads % = 0.06779661016949153

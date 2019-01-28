@@ -1,0 +1,36 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) just(0.0) want(0.0) to(0.0) go(0.0) back(0.0) to(0.0) this(0.0) point(0.0) because(0.0) this(0.0) is(0.0) a(0.0) very(0.0) important(0.0) point(0.0) .(0.0) We(0.0) 
+have(0.0) created(0.0) an(0.0) environment(0.0) ,(0.0) created(0.0) a(0.0) tax(1.0) environment(1.0) in(0.0) which(0.0) the(0.0) economy(1.0) can(0.0) grow(0.0) more(0.0) rapidly(0.0) and(0.0) it(0.0) is(0.0) 
+growing(0.0) more(0.0) rapidly(0.0) .(0.0) We(0.0) have(0.0) both(0.0) CBO(1.0) projections(1.0) and(0.0) the(0.0) House(0.0) budget(1.0) resolution(1.0) both(0.0) forecast(0.0) Federal(1.0) receipts(1.0) at(0.0) $(0.0) 
+35(0.0) billion(1.0) more(0.0) this(0.0) year(0.0) than(0.0) last(0.0) year(0.0) ,(0.0) despite(0.0) the(0.0) fact(0.0) that(0.0) we(0.0) cut(1.0) taxes(1.0) last(0.0) year(0.0) ;(0.0) and(0.0) 
+now(0.0) the(0.0) monthly(0.0) Treasury(0.0) data(0.0) that(0.0) is(0.0) coming(0.0) in(0.0) this(0.0) year(0.0) shows(0.0) ,(0.0) and(0.0) I(0.0) do(0.0) not(0.0) think(0.0) anybody(0.0) is(0.0) 
+disputing(1.0) this(0.0) ,(0.0) that(0.0) ,(0.0) in(0.0) fact(0.0) ,(0.0) we(0.0) probably(0.0) low-(0.0) balled(0.0) that(0.0) .(0.0) The(0.0) revenue(1.0) was(0.0) coming(0.0) in(0.0) at(0.0) 
+an(0.0) even(0.0) faster(0.0) clip(0.0) than(0.0) the(0.0) amount(0.0) by(0.0) which(0.0) we(0.0) thought(0.0) it(0.0) would(0.0) exceed(0.0) last(0.0) year(0.0) .(0.0) So(0.0) the(0.0) fact(0.0) 
+is(0.0) we(0.0) have(0.0) got(0.0) a(0.0) deficit(1.0) that(0.0) is(0.0) too(0.0) big(0.0) .(0.0) We(0.0) all(0.0) acknowledge(0.0) that(0.0) .(0.0) It(0.0) is(0.0) getting(0.0) smaller(0.0) 
+.(0.0) The(0.0) revenue(1.0) is(0.0) coming(0.0) in(0.0) faster(0.0) because(0.0) the(0.0) economy(1.0) is(0.0) growing(0.0) .(0.0) And(0.0) if(0.0) we(0.0) get(0.0) spending(1.0) under(0.0) control(0.0) 
+,(0.0) we(0.0) can(0.0) solve(0.0) this(0.0) problem(0.0) .(0.0) But(0.0) the(0.0) right(0.0) way(0.0) to(0.0) do(0.0) it(0.0) is(0.0) not(0.0) to(0.0) raise(1.0) taxes(1.0) .(0.0) 
+I(0.0) know(0.0) the(0.0) gentleman(0.0) from(0.0) Kansas(1.0) ((0.0) Mr.(0.0) Moore(1.0) )(0.0) does(1.0) not(1.0) like(1.0) the(0.0) characterization(1.0) of(0.0) this(0.0) .(0.0) But(0.0) the(0.0) 
+fact(0.0) is(0.0) we(0.0) have(0.0) got(0.0) provisions(1.0) in(0.0) law(1.0) that(0.0) will(0.0) result(1.0) in(0.0) a(0.0) tax(1.0) increase(1.0) if(0.0) we(0.0) do(0.0) not(0.0) do(0.0) 
+something(0.0) about(0.0) it(0.0) ,(0.0) and(0.0) what(0.0) your(0.0) provision(1.0) would(0.0) do(0.0) would(0.0) prevent(0.0) us(0.0) from(0.0) solving(0.0) that(0.0) problem(0.0) that(0.0) results(0.0) in(0.0) 
+a(0.0) tax(1.0) increase(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	
+tax	environment	economy	
+CBO	projections	budget	resolution	Federal	receipts	
+billion	cut	taxes	
+
+disputing	revenue	
+
+deficit	
+revenue	economy	spending	
+raise	taxes	
+Kansas	Moore	does	not	like	characterization	
+provisions	law	result	tax	increase	
+provision	
+tax	increase	Speaker	
+
+reads % = 0.13043478260869565

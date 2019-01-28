@@ -1,0 +1,10 @@
+This is from a Republican
+----- below is the original text -----
+This(0.0) just(0.0) incorporates(0.0) those(0.0) amendments(1.0) which(0.0) were(0.0) adopted(0.0) in(0.0) the(0.0) committee(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+amendments	
+
+reads % = 0.08333333333333333

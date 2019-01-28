@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+1797(0.0) ,(0.0) legislation(0.0) that(0.0) would(0.0) throw(0.0) doctors(0.0) in(0.0) jail(1.0) for(0.0) providing(0.0) constitutionally(1.0) protected(0.0) health(1.0) care(0.0) .(0.0) Many(0.0) of(0.0) my(0.0) colleagues(0.0) talk(0.0) 
+about(0.0) less(0.0) government(1.0) .(0.0) Well(0.0) ,(0.0) here(0.0) 's(0.0) a(0.0) place(0.0) where(0.0) I(0.0) agree(0.0) .(0.0) This(0.0) bill(1.0) takes(1.0) away(0.0) the(0.0) ability(0.0) 
+of(0.0) women(1.0) to(0.0) make(0.0) their(0.0) own(0.0) health(1.0) care(1.0) decisions(1.0) and(0.0) attempts(0.0) to(0.0) replace(1.0) the(0.0) informed(0.0) judgment(0.0) of(0.0) doctors(0.0) with(0.0) the(0.0) 
+opinions(0.0) of(0.0) politicians(1.0) .(0.0) Often(0.0) ,(0.0) there(0.0) are(0.0) unexpected(0.0) complications(0.0) .(0.0) Danielle(0.0) Deaver(0.0) 's(0.0) amniotic(0.0) fluid(0.0) ruptured(1.0) at(0.0) 22(0.0) weeks(0.0) 
+,(0.0) leaving(0.0) the(0.0) pregnancy(0.0) without(0.0) adequate(0.0) fluid(0.0) to(0.0) continue(0.0) to(0.0) develop(0.0) .(0.0) Jennifer(0.0) Peterson(1.0) was(0.0) pregnant(0.0) when(0.0) she(0.0) was(0.0) diagnosed(0.0) 
+with(0.0) invasive(0.0) breast(0.0) cancer(1.0) .(0.0) Danielle(0.0) ,(0.0) Jennifer(0.0) ,(0.0) and(0.0) women(1.0) like(0.0) them(0.0) should(0.0) be(0.0) able(0.0) to(0.0) face(0.0) these(0.0) difficult(0.0) 
+situations(0.0) by(0.0) consulting(0.0) with(0.0) their(0.0) doctors(0.0) .(0.0) They(0.0) should(0.0) not(0.0) have(0.0) to(0.0) worry(0.0) about(0.0) whether(0.0) they(0.0) 're(0.0) violating(1.0) an(0.0) unconstitutional(1.0) 
+law(1.0) .(0.0) When(0.0) abortion(1.0) is(0.0) made(0.0) illegal(1.0) ,(0.0) it(0.0) does(0.0) not(0.0) go(0.0) away(0.0) ;(0.0) it(0.0) becomes(0.0) unsafe(1.0) .(0.0) Let(0.0) 's(0.0) 
+not(0.0) play(0.0) politics(1.0) with(0.0) women(1.0) 's(0.0) health(1.0) care(0.0) .(0.0) Let(0.0) 's(0.0) focus(0.0) on(0.0) prevention(1.0) and(0.0) making(0.0) sure(0.0) that(0.0) women(1.0) have(0.0) 
+access(0.0) to(0.0) safe(0.0) and(0.0) legal(1.0) abortions(1.0) .(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) vote(1.0) ``(0.0) no(0.0) ''(0.0) on(0.0) this(0.0) unconstitutional(1.0) bill(1.0) 
+.(1.0) 
+
+
+----- below are rationale words -----
+
+jail	constitutionally	health	
+government	bill	takes	
+women	health	care	decisions	replace	
+politicians	ruptured	
+Peterson	
+cancer	women	
+violating	unconstitutional	
+law	abortion	illegal	unsafe	
+politics	women	health	prevention	women	
+legal	abortions	vote	unconstitutional	bill	
+.	
+
+reads % = 0.16336633663366337

@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) we(0.0) are(0.0) here(0.0) today(0.0) because(0.0) my(0.0) Republican(1.0) colleagues(1.0) want(1.0) to(1.0) destroy(1.0) Medicare(1.0) ,(1.0) and(1.0) their(1.0) premise(1.0) is(1.0) that(1.0) Medicare(1.0) 
+will(1.0) be(1.0) bankrupt(1.0) in(1.0) 7(1.0) years(1.0) .(1.0) What(1.0) I(0.0) have(0.0) here(0.0) is(0.0) a(0.0) chart(0.0) that(0.0) points(0.0) out(0.0) a(0.0) fact(0.0) ,(0.0) 
+which(0.0) is(0.0) that(0.0) in(0.0) the(0.0) 30(0.0) years(0.0) of(0.0) Medicare(1.0) 's(0.0) existence(0.0) ,(0.0) the(0.0) actuarial(1.0) life(0.0) of(0.0) Medicare(1.0) was(0.0) less(0.0) than(0.0) 
+7(0.0) years(0.0) .(0.0) This(0.0) is(0.0) not(0.0) unprecedented(0.0) .(0.0) It(0.0) is(0.0) a(0.0) flatout(0.0) lie(0.0) that(0.0) my(0.0) Republican(1.0) colleagues(1.0) have(1.0) been(1.0) stating(1.0) 
+about(1.0) the(1.0) unprecedented(1.0) nature(1.0) of(1.0) the(1.0) 7-year(1.0) actuarial(1.0) life(1.0) .(1.0) The(1.0) $(0.0) 270(0.0) billion(1.0) in(1.0) cuts(1.0) ,(1.0) as(1.0) my(0.0) Republican(1.0) 
+colleagues(1.0) have(1.0) been(1.0) talking(1.0) about(1.0) ,(1.0) is(1.0) also(1.0) a(1.0) flatout(1.0) lie(1.0) .(1.0) The(1.0) trustee(1.0) report(0.0) calls(0.0) for(0.0) a(0.0) far(0.0) less(0.0) 
+number(0.0) in(0.0) terms(1.0) of(0.0) what(0.0) would(0.0) make(0.0) actuarial(1.0) sense(0.0) for(0.0) the(0.0) Medicare(1.0) system(0.0) .(0.0) The(0.0) choice(0.0) that(0.0) my(0.0) Republican(1.0) colleagues(1.0) 
+have(1.0) been(1.0) talking(1.0) about(1.0) is(1.0) a(1.0) false(1.0) choice(1.0) .(1.0) Everyone(1.0) in(1.0) this(1.0) Chamber(1.0) ,(1.0) everyone(0.0) in(0.0) America(1.0) knows(1.0) what(0.0) the(0.0) 
+agenda(1.0) is(0.0) .(0.0) The(0.0) agenda(1.0) is(0.0) to(0.0) force(1.0) people(0.0) into(0.0) substandard(1.0) HMO's(0.0) because(0.0) the(0.0) reimbursement(1.0) level(0.0) in(0.0) a(0.0) traditional(0.0) Medicare(1.0) 
+will(0.0) be(0.0) so(0.0) low(0.0) .(0.0) Just(0.0) because(0.0) people(0.0) are(0.0) old(0.0) in(0.0) this(0.0) country(1.0) does(0.0) not(0.0) mean(0.0) they(0.0) are(0.0) stupid(1.0) .(0.0) 
+The(0.0) American(0.0) people(0.0) will(0.0) not(0.0) believe(0.0) what(0.0) the(0.0) Republicans(1.0) are(1.0) doing(1.0) .(1.0) 
+
+
+----- below are rationale words -----
+
+Republican	colleagues	want	to	destroy	Medicare	,	and	their	premise	is	that	Medicare	
+will	be	bankrupt	in	7	years	.	What	
+Medicare	actuarial	Medicare	
+Republican	colleagues	have	been	stating	
+about	the	unprecedented	nature	of	the	7-year	actuarial	life	.	The	billion	in	cuts	,	as	Republican	
+colleagues	have	been	talking	about	,	is	also	a	flatout	lie	.	The	trustee	
+terms	actuarial	Medicare	Republican	colleagues	
+have	been	talking	about	is	a	false	choice	.	Everyone	in	this	Chamber	,	America	knows	
+agenda	agenda	force	substandard	reimbursement	Medicare	
+country	stupid	
+Republicans	are	doing	.	
+
+reads % = 0.43661971830985913

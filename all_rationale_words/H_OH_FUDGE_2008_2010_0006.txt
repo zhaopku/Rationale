@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) agree(0.0) to(0.0) the(0.0) resolution(1.0) ((0.0) H.(0.0) Res(1.0) .(0.0) 901(0.0) )(0.0) recognizing(0.0) November(0.0) 
+14(0.0) ,(0.0) 2009(0.0) ,(0.0) as(0.0) the(0.0) 49th(0.0) anniversary(0.0) of(0.0) the(0.0) first(0.0) day(0.0) of(0.0) integrated(0.0) schools(0.0) in(0.0) New(0.0) Orleans(1.0) ,(0.0) Louisiana(1.0) 
+,(0.0) as(0.0) amended(0.0) .(0.0) The(0.0) Clerk(0.0) read(0.0) the(0.0) title(0.0) of(0.0) the(0.0) resolution(0.0) .(0.0) The(0.0) text(0.0) of(0.0) the(0.0) resolution(0.0) is(0.0) as(0.0) 
+follows(0.0) :(0.0) H.(0.0) Res(0.0) .(0.0) 901(0.0) Whereas(0.0) ,(0.0) in(0.0) 1954(0.0) ,(0.0) the(0.0) Supreme(0.0) Court(0.0) ruled(0.0) that(0.0) segregated(0.0) schools(0.0) violated(0.0) the(0.0) 
+Equal(0.0) Protection(0.0) Clause(0.0) of(0.0) the(0.0) 14th(0.0) amendment(0.0) to(0.0) the(0.0) Constitution(0.0) ;(0.0) Whereas(0.0) Judge(0.0) J.(1.0) Skelly(1.0) Wright(1.0) ,(0.0) of(0.0) the(0.0) United(0.0) 
+States(0.0) District(0.0) Court(0.0) for(0.0) the(0.0) Eastern(0.0) District(0.0) of(0.0) Louisiana(1.0) ,(0.0) ordered(0.0) the(0.0) Orleans(1.0) Parish(0.0) School(0.0) Board(0.0) to(0.0) develop(0.0) a(0.0) school(0.0) 
+desegregation(0.0) plan(0.0) in(0.0) 1956(0.0) and(0.0) ,(0.0) after(0.0) years(0.0) of(0.0) delay(0.0) ,(0.0) in(0.0) 1960(0.0) ,(0.0) ordered(0.0) the(0.0) Orleans(1.0) Parish(0.0) School(0.0) Board(0.0) 
+to(0.0) carry(0.0) out(0.0) a(0.0) plan(0.0) designed(0.0) by(0.0) the(0.0) United(0.0) States(0.0) District(0.0) Court(0.0) for(0.0) the(0.0) Eastern(0.0) District(0.0) of(0.0) Louisiana(1.0) ;(0.0) Whereas(0.0) 
+6(0.0) years(0.0) after(0.0) the(0.0) Brown(0.0) v.(0.0) Board(0.0) of(0.0) Education(0.0) ((0.0) 347(0.0) U.S.(0.0) 483(0.0) )(0.0) decision(0.0) ,(0.0) on(0.0) November(0.0) 14(0.0) ,(0.0) 
+1960(0.0) ,(0.0) Ruby(0.0) Bridges(0.0) ,(0.0) at(0.0) the(0.0) age(0.0) of(0.0) 6(0.0) ,(0.0) became(0.0) the(0.0) first(0.0) African-American(0.0) student(0.0) to(0.0) attend(0.0) the(0.0) all-white(0.0) 
+William(0.0) Frantz(1.0) Elementary(0.0) School(0.0) in(0.0) New(0.0) Orleans(1.0) ,(0.0) Louisiana(1.0) ;(0.0) Whereas(0.0) Ruby(0.0) Bridges(1.0) had(0.0) the(0.0) courage(0.0) to(0.0) attend(0.0) the(0.0) William(0.0) 
+Frantz(1.0) Elementary(0.0) School(0.0) every(0.0) day(0.0) during(0.0) the(0.0) 1960-61(0.0) school(0.0) year(0.0) despite(0.0) ongoing(0.0) riots(1.0) and(0.0) protests(0.0) in(0.0) New(1.0) Orleans(1.0) ,(0.0) having(0.0) 
+to(0.0) be(0.0) escorted(0.0) to(0.0) school(0.0) by(0.0) Federal(0.0) marshals(0.0) ,(0.0) and(0.0) having(0.0) no(0.0) other(0.0) students(0.0) in(0.0) her(0.0) classroom(0.0) ;(0.0) Whereas(0.0) Ruby(0.0) 
+Bridges(1.0) was(0.0) also(0.0) supported(0.0) by(0.0) her(0.0) white(0.0) first-(0.0) grade(0.0) school(0.0) teacher(0.0) ,(0.0) Ms.(1.0) Barbara(1.0) Henry(1.0) ,(0.0) whose(0.0) lessons(0.0) remain(0.0) with(0.0) 
+Ruby(0.0) Bridges(0.0) to(0.0) this(0.0) day(0.0) ;(0.0) Whereas(0.0) Ms.(1.0) Henry(1.0) faced(1.0) retaliation(1.0) for(0.0) teaching(0.0) Ruby(0.0) Bridges(0.0) by(0.0) not(0.0) being(0.0) invited(0.0) to(0.0) 
+come(0.0) back(0.0) and(0.0) teach(0.0) at(0.0) William(0.0) Frantz(1.0) School(0.0) following(0.0) the(0.0) 1960-61(0.0) school(0.0) year(0.0) ;(0.0) Whereas(0.0) ,(0.0) in(0.0) 1995(0.0) ,(0.0) Ruby(0.0) 
+Bridges(1.0) contributed(1.0) to(0.0) ``(0.0) The(0.0) Story(0.0) of(0.0) Ruby(0.0) Bridges(0.0) ''(0.0) ,(0.0) a(0.0) book(0.0) for(0.0) children(0.0) ,(0.0) and(0.0) ,(0.0) in(0.0) 1999(0.0) 
+,(0.0) wrote(0.0) ``(0.0) Through(0.0) My(0.0) Eyes(0.0) ''(0.0) to(0.0) help(0.0) educate(0.0) children(0.0) and(0.0) people(0.0) of(0.0) all(0.0) ages(0.0) about(0.0) her(0.0) experiences(0.0) and(0.0) 
+the(0.0) importance(0.0) of(0.0) tolerance(0.0) ;(0.0) Whereas(0.0) Ruby(0.0) Bridges(1.0) established(0.0) the(0.0) Ruby(0.0) Bridges(0.0) Foundation(0.0) in(0.0) 1999(0.0) to(0.0) help(0.0) eliminate(0.0) racism(1.0) and(0.0) 
+improve(0.0) society(1.0) by(0.0) educating(1.0) students(0.0) about(0.0) the(0.0) experiences(0.0) of(0.0) Ruby(0.0) Bridges(0.0) ,(0.0) discuss(0.0) ongoing(0.0) efforts(1.0) to(0.0) promote(1.0) diversity(1.0) ,(0.0) and(0.0) 
+provide(0.0) lessons(0.0) students(0.0) can(0.0) take(0.0) back(0.0) to(0.0) their(0.0) own(0.0) communities(1.0) ;(0.0) and(0.0) Whereas(0.0) ,(0.0) in(0.0) 2002(0.0) ,(0.0) the(0.0) Ruby(0.0) Bridges(0.0) 
+Foundation(0.0) ,(0.0) along(0.0) with(0.0) the(0.0) Simon(0.0) Wiesenthal(1.0) Center(0.0) 's(0.0) Museum(0.0) for(0.0) Tolerance(0.0) in(0.0) Los(1.0) Angeles(1.0) ,(0.0) launched(0.0) The(0.0) Ruby(0.0) 's(0.0) 
+Bridges(0.0) Project(0.0) ,(0.0) a(0.0) program(0.0) that(0.0) brought(0.0) together(0.0) students(0.0) from(0.0) diverse(0.0) backgrounds(0.0) to(0.0) develop(0.0) relationship-building(0.0) skills(0.0) and(0.0) promote(0.0) an(0.0) appreciation(0.0) 
+of(0.0) one(0.0) another(0.0) :(0.0) Now(0.0) ,(0.0) therefore(0.0) ,(0.0) be(0.0) it(0.0) Resolved(0.0) ,(0.0) That(0.0) the(0.0) House(0.0) of(0.0) Representatives(0.0) --(0.0) ((0.0) 1(0.0) 
+)(0.0) recognizes(0.0) the(0.0) 49th(0.0) anniversary(0.0) of(0.0) the(0.0) first(0.0) day(0.0) of(0.0) integrated(0.0) schools(0.0) in(0.0) New(1.0) Orleans(1.0) ,(0.0) Louisiana(1.0) ;(0.0) ((0.0) 
+
+
+----- below are rationale words -----
+
+resolution	Res	
+Orleans	Louisiana	
+
+
+J.	Skelly	Wright	
+Louisiana	Orleans	
+Orleans	
+Louisiana	
+
+
+Frantz	Orleans	Louisiana	Bridges	
+Frantz	riots	New	Orleans	
+
+Bridges	Ms.	Barbara	Henry	
+Ms.	Henry	faced	retaliation	
+Frantz	
+Bridges	contributed	
+
+Bridges	racism	
+society	educating	efforts	promote	diversity	
+communities	
+Wiesenthal	Los	Angeles	
+
+
+New	Orleans	Louisiana	
+
+reads % = 0.088

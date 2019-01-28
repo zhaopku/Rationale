@@ -1,0 +1,24 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(1.0) today(0.0) to(0.0) address(0.0) the(0.0) House(0.0) of(0.0) Representatives(0.0) as(0.0) the(0.0) daughter(1.0) of(0.0) a(0.0) World(0.0) War(0.0) II(0.0) veteran(1.0) ,(0.0) 
+a(0.0) veteran(1.0) who(0.0) was(0.0) disabled(1.0) ,(0.0) a(0.0) veteran(1.0) who(0.0) watched(0.0) very(0.0) carefully(0.0) what(0.0) his(0.0) government(1.0) ,(0.0) what(1.0) this(0.0) august(0.0) body(0.0) 
+and(0.0) the(0.0) Senate(1.0) and(0.0) the(0.0) President(1.0) signed(0.0) into(0.0) law(1.0) that(0.0) would(1.0) affect(0.0) his(0.0) benefits(1.0) ,(0.0) our(0.0) family(0.0) 's(0.0) benefits(1.0) .(0.0) 
+And(0.0) I(0.0) rise(1.0) today(0.0) to(0.0) oppose(1.0) this(0.0) new(1.0) Republican(1.0) scheme(1.0) .(0.0) Selecting(1.0) random(0.0) government(1.0) agencies(0.0) ,(0.0) programs(1.0) ,(0.0) and(0.0) museums(1.0) 
+to(0.0) fund(1.0) while(0.0) the(0.0) rest(0.0) of(0.0) the(0.0) Federal(1.0) Government(0.0) languishes(1.0) in(0.0) a(0.0) shutdown(1.0) is(0.0) simply(0.0) irresponsible(1.0) .(0.0) The(0.0) majority(1.0) is(0.0) 
+making(0.0) a(0.0) desperate(0.0) attempt(0.0) to(0.0) create(0.0) distractions(1.0) so(1.0) that(0.0) they(0.0) 're(0.0) not(0.0) held(0.0) accountable(0.0) for(0.0) their(0.0) actions(0.0) .(0.0) Congress(1.0) needs(0.0) 
+to(0.0) fund(1.0) the(0.0) entire(1.0) Federal(1.0) Government(0.0) with(0.0) a(0.0) clean(1.0) continuing(1.0) resolution(0.0) and(0.0) end(0.0) this(0.0) reckless(1.0) and(0.0) unnecessary(1.0) GOP(1.0) --(0.0) or(1.0) 
+,(0.0) should(0.0) I(0.0) say(1.0) ,(0.0) ``(1.0) Grand(0.0) Old(0.0) Party(1.0) ''(0.0) --(0.0) shutdown(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+rise	daughter	veteran	
+veteran	disabled	veteran	government	what	
+Senate	President	law	would	benefits	benefits	
+rise	oppose	new	Republican	scheme	Selecting	government	programs	museums	
+fund	Federal	languishes	shutdown	irresponsible	majority	
+distractions	so	Congress	
+fund	entire	Federal	clean	continuing	reckless	unnecessary	GOP	or	
+say	``	Party	shutdown	
+
+reads % = 0.2922077922077922

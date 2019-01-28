@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) the(0.0) budget(0.0) that(0.0) President(1.0) Obama(1.0) submitted(1.0) to(0.0) Congress(0.0) last(1.0) week(1.0) calls(0.0) for(0.0) the(0.0) reinstatement(1.0) of(0.0) the(0.0) ``(0.0) polluter(1.0) 
+pays(0.0) ''(0.0) principle(0.0) for(0.0) the(0.0) Superfund(1.0) program(0.0) .(0.0) As(0.0) someone(0.0) who(0.0) has(0.0) been(0.0) dealing(0.0) with(0.0) a(0.0) Superfund(1.0) site(0.0) in(0.0) my(0.0) 
+district(1.0) for(0.0) over(0.0) 20(0.0) years(0.0) ,(0.0) I(0.0) am(1.0) pleased(1.0) that(0.0) the(0.0) President(1.0) has(0.0) added(0.0) his(0.0) important(0.0) voice(0.0) to(0.0) this(0.0) cause(1.0) 
+.(0.0) I(0.0) have(0.0) introduced(0.0) H.R(0.0) .(0.0) 564(1.0) ,(0.0) the(0.0) Superfund(1.0) Reinvestment(1.0) Act(0.0) ,(0.0) which(0.0) would(0.0) implement(0.0) his(0.0) recommendations(0.0) .(0.0) I(0.0) 
+urge(1.0) my(0.0) colleagues(1.0) to(0.0) cosponsor(1.0) it(0.0) .(0.0) The(0.0) Superfund(1.0) program(0.0) was(0.0) created(0.0) in(0.0) 1980(1.0) to(0.0) provide(0.0) money(0.0) to(0.0) clean(1.0) up(0.0) 
+the(0.0) Nation(0.0) 's(0.0) worst(1.0) hazard(0.0) sites(0.0) where(0.0) the(0.0) party(1.0) responsible(1.0) for(0.0) polluting(1.0) was(0.0) out(1.0) of(0.0) business(1.0) or(1.0) could(0.0) not(1.0) be(0.0) 
+identified(1.0) .(0.0) Superfund(1.0) sites(1.0) contain(0.0) toxic(1.0) contaminants(0.0) that(0.0) have(0.0) been(0.0) detected(0.0) in(0.0) drinking(0.0) water(0.0) wells(0.0) ,(0.0) creeks(1.0) and(0.0) rivers(1.0) ,(0.0) 
+backyards(1.0) and(0.0) playgrounds(1.0) all(0.0) across(0.0) America(0.0) .(0.0) Indeed(1.0) ,(0.0) about(0.0) 1(0.0) in(0.0) 4(0.0) Americans(1.0) lives(0.0) within(1.0) 4(0.0) miles(0.0) of(0.0) a(0.0) 
+Superfund(1.0) site(0.0) .(0.0) Communities(1.0) impacted(0.0) by(0.0) these(0.0) sites(1.0) can(0.0) face(0.0) restrictions(1.0) on(0.0) water(0.0) use(0.0) and(0.0) recreational(1.0) activities(0.0) as(0.0) well(0.0) as(0.0) 
+economic(0.0) losses(0.0) as(0.0) property(0.0) values(1.0) decline(0.0) due(0.0) to(0.0) contaminated(1.0) land(0.0) .(0.0) In(0.0) the(0.0) worst(1.0) cases(0.0) ,(0.0) residents(1.0) of(0.0) the(0.0) community(1.0) 
+can(0.0) face(0.0) serious(0.0) health(1.0) problems(0.0) such(0.0) as(0.0) cardiac(0.0) impact(0.0) ,(0.0) infertility(1.0) ,(0.0) low(1.0) birth(0.0) rates(0.0) ,(0.0) birth(0.0) defects(0.0) ,(0.0) leukemia(1.0) 
+,(0.0) and(0.0) other(0.0) cancers(1.0) and(0.0) respiratory(0.0) difficulties(0.0) .(0.0) Approximately(1.0) 30(0.0) percent(1.0) of(0.0) these(0.0) sites(1.0) are(0.0) considered(0.0) ``(0.0) orphan(0.0) ''(0.0) sites(1.0) 
+where(0.0) a(0.0) responsible(1.0) party(1.0) can(0.0) not(0.0) be(0.0) found(0.0) ,(0.0) can(1.0) not(0.0) pay(0.0) or(0.0) refuses(1.0) to(0.0) pay(1.0) .(0.0) In(0.0) these(0.0) cases(1.0) 
+,(0.0) the(0.0) Superfund(1.0) trust(0.0) fund(1.0) is(0.0) tapped(1.0) to(0.0) help(0.0) pay(1.0) for(0.0) the(0.0) cleanup(0.0) .(0.0) That(0.0) Superfund(1.0) program(0.0) has(0.0) contributed(1.0) to(0.0) 
+the(0.0) cleanup(0.0) of(0.0) over(0.0) 1,000(1.0) sites(1.0) across(0.0) America(0.0) .(0.0) Before(0.0) the(0.0) tax(1.0) expired(1.0) in(0.0) 1995(1.0) ,(0.0) the(0.0) money(1.0) for(0.0) the(0.0) 
+Superfund(1.0) trust(0.0) fund(1.0) came(0.0) mainly(0.0) from(0.0) taxes(1.0) on(0.0) the(0.0) polluters(1.0) ,(0.0) themselves(0.0) --(0.0) the(0.0) oil(1.0) and(0.0) chemical(0.0) companies(1.0) --(0.0) that(0.0) 
+profited(1.0) from(0.0) the(0.0) sale(1.0) or(0.0) use(0.0) of(0.0) the(0.0) chemicals(1.0) being(0.0) cleaned(0.0) up(0.0) .(0.0) Because(0.0) Congress(0.0) in(0.0) the(0.0) past(0.0) has(0.0) not(1.0) 
+reauthorized(0.0) the(0.0) taxes(1.0) ,(0.0) the(0.0) rate(0.0) of(0.0) cleanup(0.0) for(0.0) Superfund(0.0) sites(1.0) has(0.0) declined(1.0) ,(0.0) and(0.0) the(0.0) burden(0.0) for(0.0) funding(1.0) the(0.0) 
+cleanup(0.0) of(0.0) these(0.0) toxic(1.0) waste(0.0) sites(1.0) now(0.0) falls(1.0) on(0.0) the(0.0) shoulders(1.0) of(0.0) all(0.0) tax-paying(1.0) Americans(0.0) ,(0.0) not(1.0) those(0.0) who(0.0) were(0.0) 
+responsible(1.0) for(0.0) it(0.0) .(0.0) By(1.0) 2003(0.0) ,(0.0) the(0.0) balance(0.0) in(0.0) the(0.0) Superfund(1.0) trust(0.0) fund(1.0) had(0.0) dwindled(1.0) to(0.0) zero(1.0) ,(0.0) delaying(1.0) 
+29(0.0) sites(1.0) around(0.0) the(0.0) country(1.0) .(0.0) Today(0.0) ,(0.0) the(0.0) Superfund(1.0) relies(0.0) heavily(1.0) on(0.0) scarce(1.0) general(0.0) fund(1.0) revenues(0.0) ,(0.0) increasing(0.0) the(0.0) 
+burden(0.0) on(0.0) American(0.0) taxpayers(1.0) at(0.0) a(0.0) time(0.0) when(0.0) cleanup(0.0) costs(0.0) are(0.0) increasing(0.0) .(0.0) The(0.0) lack(0.0) of(0.0) funding(1.0) also(1.0) reduces(0.0) the(0.0) 
+EPA(1.0) 's(0.0) leverage(0.0) in(0.0) forcing(1.0) companies(1.0) to(0.0) clean(1.0) up(0.0) after(0.0) their(0.0) own(0.0) sites(1.0) .(0.0) The(0.0) delay(1.0) has(0.0) resulted(0.0) in(0.0) greater(0.0) 
+health(1.0) risks(0.0) to(0.0) people(0.0) living(1.0) near(1.0) Superfund(1.0) sites(1.0) .(0.0) It(0.0) has(0.0) resulted(0.0) in(0.0) increased(0.0) damage(0.0) to(0.0) local(0.0) communities(0.0) as(0.0) sites(1.0) 
+remain(0.0) a(0.0) drain(1.0) on(0.0) the(0.0) local(1.0) tax(1.0) base(1.0) ,(0.0) and(0.0) in(0.0) the(0.0) long(1.0) run(0.0) ,(0.0) it(0.0) results(0.0) in(0.0) higher(0.0) 
+
+
+----- below are rationale words -----
+
+President	Obama	submitted	last	week	reinstatement	polluter	
+Superfund	Superfund	
+district	am	pleased	President	cause	
+564	Superfund	Reinvestment	
+urge	colleagues	cosponsor	Superfund	1980	clean	
+worst	party	responsible	polluting	out	business	or	not	
+identified	Superfund	sites	toxic	creeks	rivers	
+backyards	playgrounds	Indeed	Americans	within	
+Superfund	Communities	sites	restrictions	recreational	
+values	contaminated	worst	residents	community	
+health	infertility	low	leukemia	
+cancers	Approximately	percent	sites	sites	
+responsible	party	can	refuses	pay	cases	
+Superfund	fund	tapped	pay	Superfund	contributed	
+1,000	sites	tax	expired	1995	money	
+Superfund	fund	taxes	polluters	oil	companies	
+profited	sale	chemicals	not	
+taxes	sites	declined	funding	
+toxic	sites	falls	shoulders	tax-paying	not	
+responsible	By	Superfund	fund	dwindled	zero	delaying	
+sites	country	Superfund	heavily	scarce	fund	
+taxpayers	funding	also	
+EPA	forcing	companies	clean	sites	delay	
+health	living	near	Superfund	sites	sites	
+drain	local	tax	base	long	
+
+reads % = 0.264

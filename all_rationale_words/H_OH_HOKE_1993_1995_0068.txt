@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) our(0.0) Contract(1.0) With(0.0) America(1.0) states(1.0) the(0.0) following(0.0) :(0.0) On(0.0) the(0.0) first(0.0) day(0.0) of(0.0) Congress(0.0) ,(0.0) a(0.0) Republican(0.0) House(1.0) will(1.0) 
+require(1.0) Congress(1.0) to(1.0) live(1.0) under(0.0) the(0.0) same(0.0) laws(1.0) as(0.0) everyone(0.0) else(0.0) ,(0.0) cut(0.0) one-(0.0) third(1.0) of(0.0) committee(0.0) staff(0.0) ,(0.0) cut(0.0) 
+the(0.0) congressional(1.0) budget(1.0) .(0.0) We(0.0) have(0.0) done(0.0) that(0.0) .(0.0) It(0.0) goes(0.0) on(0.0) to(0.0) state(1.0) that(0.0) in(0.0) the(0.0) first(0.0) 100(0.0) days(0.0) 
+we(0.0) will(0.0) vote(1.0) on(0.0) the(0.0) following(0.0) items(0.0) :(0.0) A(0.0) balanced(0.0) budget(1.0) amendment(1.0) ;(0.0) we(0.0) have(0.0) done(0.0) this(0.0) and(0.0) passed(0.0) it(0.0) 
+;(0.0) unfunded(1.0) mandates(1.0) legislation(1.0) ,(0.0) line-item(1.0) veto(1.0) ,(0.0) a(0.0) new(0.0) crime(1.0) bill(1.0) to(1.0) stop(1.0) violent(1.0) criminals(1.0) ,(0.0) welfare(1.0) reform(1.0) to(0.0) 
+encourage(1.0) work(0.0) ,(0.0) not(0.0) dependence(1.0) ,(0.0) family(0.0) reinforcement(0.0) to(0.0) crack(1.0) down(0.0) on(0.0) deadbeat(1.0) dads(1.0) to(0.0) protect(0.0) our(0.0) children(0.0) ,(0.0) tax(1.0) 
+cuts(1.0) for(1.0) families(1.0) to(0.0) lift(1.0) Government(1.0) 's(0.0) burden(1.0) from(0.0) middle-class(1.0) ,(0.0) middle-income(1.0) Americans(1.0) ,(0.0) national(1.0) security(1.0) restoration(1.0) to(0.0) restore(1.0) our(0.0) 
+freedoms(1.0) ,(0.0) Senior(0.0) Citizens(1.0) '(0.0) Equity(0.0) Act(0.0) to(0.0) allow(0.0) our(0.0) seniors(1.0) to(0.0) work(0.0) without(0.0) Government(1.0) penalty(1.0) ,(0.0) Government(1.0) regulation(1.0) and(0.0) 
+unfunded(1.0) mandate(1.0) reforms(1.0) ,(0.0) commonsense(1.0) legal(1.0) reforms(1.0) to(0.0) end(1.0) frivolous(1.0) lawsuits(1.0) ,(0.0) and(0.0) congressional(1.0) term(1.0) limits(1.0) to(0.0) make(0.0) Congress(0.0) a(0.0) 
+citizen(1.0) legislation(1.0) .(0.0) This(0.0) is(0.0) our(0.0) Contract(1.0) With(0.0) America(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Contract	America	states	House	will	
+require	Congress	to	live	laws	third	
+congressional	budget	state	
+vote	budget	amendment	
+unfunded	mandates	legislation	line-item	veto	crime	bill	to	stop	violent	criminals	welfare	reform	
+encourage	dependence	crack	deadbeat	dads	tax	
+cuts	for	families	lift	Government	burden	middle-class	middle-income	Americans	national	security	restoration	restore	
+freedoms	Citizens	seniors	Government	penalty	Government	regulation	
+unfunded	mandate	reforms	commonsense	legal	reforms	end	frivolous	lawsuits	congressional	term	limits	
+citizen	legislation	Contract	America	
+
+reads % = 0.3769633507853403

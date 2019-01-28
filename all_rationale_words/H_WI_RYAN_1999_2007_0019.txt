@@ -1,0 +1,10 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) on(0.0) that(0.0) I(0.0) demand(0.0) the(0.0) yeas(0.0) and(0.0) nays(0.0) .(0.0) The(0.0) yeas(0.0) and(0.0) nays(0.0) were(0.0) ordered(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+reads % = 0.0

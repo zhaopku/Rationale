@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) am(0.0) so(1.0) happy(1.0) to(0.0) be(0.0) able(0.0) to(0.0) speak(0.0) affirmatively(1.0) about(0.0) this(0.0) legislation(0.0) .(0.0) I(0.0) 'm(0.0) really(1.0) impressed(0.0) with(0.0) the(0.0) storied(1.0) 
+history(0.0) of(0.0) the(0.0) Lions(0.0) and(0.0) their(0.0) dynamic(0.0) history(0.0) ,(0.0) where(0.0) they(0.0) serve(0.0) in(0.0) more(0.0) than(0.0) 200(1.0) countries(0.0) and(0.0) geographic(0.0) areas(0.0) 
+.(0.0) I(0.0) am(1.0) particularly(1.0) struck(1.0) by(0.0) their(0.0) service(0.0) and(0.0) stewardship(1.0) to(0.0) our(0.0) young(0.0) people(0.0) across(0.0) the(0.0) world(0.0) ,(0.0) and(0.0) I(0.0) 
+'m(0.0) so(1.0) proud(1.0) to(0.0) be(0.0) a(0.0) cosponsor(1.0) of(0.0) this(0.0) legislation(0.0) .(0.0) I(0.0) would(1.0) urge(1.0) all(0.0) Members(0.0) to(0.0) support(0.0) this(0.0) resolution(0.0) 
+.(0.0) With(1.0) that(0.0) ,(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+so	happy	affirmatively	really	storied	
+200	
+am	particularly	struck	stewardship	
+so	proud	cosponsor	would	urge	
+With	time	
+
+reads % = 0.18085106382978725

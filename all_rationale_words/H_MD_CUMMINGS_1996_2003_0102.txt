@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) opposition(1.0) to(0.0) the(0.0) School(0.0) Readiness(0.0) Act(0.0) ,(0.0) H.R(0.0) .(0.0) 2210(0.0) ,(0.0) and(0.0) I(0.0) implore(0.0) my(0.0) 
+colleagues(0.0) to(0.0) vote(1.0) against(0.0) it(0.0) as(0.0) this(0.0) bill(1.0) is(0.0) a(0.0) blatant(1.0) attempt(1.0) to(0.0) dismantle(1.0) the(0.0) Head(0.0) Start(0.0) program(1.0) .(0.0) Mr.(0.0) 
+Chairman(1.0) ,(0.0) Head(0.0) Start(0.0) is(0.0) a(0.0) very(0.0) successful(0.0) Federal(1.0) program(1.0) run(0.0) at(0.0) the(0.0) local(0.0) level(0.0) .(0.0) As(0.0) we(0.0) are(0.0) all(0.0) 
+well(0.0) aware(0.0) the(0.0) program(1.0) provides(0.0) education(1.0) ,(0.0) health(1.0) care(1.0) ,(0.0) nutrition(1.0) and(0.0) parent(0.0) involvement(0.0) programs(1.0) to(0.0) nearly(0.0) 1(0.0) million(0.0) low-income(1.0) 
+preschool(1.0) children(1.0) and(0.0) their(0.0) families(0.0) .(0.0) The(0.0) language(0.0) in(0.0) the(0.0) bill(0.0) we(0.0) are(0.0) considering(0.0) right(0.0) now(0.0) will(0.0) weaken(1.0) Head(0.0) Start(0.0) 
+and(0.0) jeopardize(1.0) the(0.0) comprehensive(1.0) educational(1.0) and(0.0) social(1.0) services(0.0) Head(0.0) Start(0.0) now(0.0) provides(0.0) to(0.0) hundreds(0.0) of(0.0) thousands(1.0) of(0.0) families(1.0) .(0.0) On(0.0) 
+July(0.0) 15(0.0) ,(0.0) I(0.0) released(0.0) a(0.0) report(0.0) ,(0.0) prepared(0.0) at(0.0) my(0.0) request(0.0) by(0.0) the(0.0) House(0.0) Government(1.0) Reform(0.0) Committee(0.0) ,(0.0) entitled(1.0) 
+``(0.0) Proposed(0.0) Overhaul(1.0) of(0.0) Head(0.0) Start(0.0) Could(0.0) Affect(0.0) Thousands(0.0) of(0.0) Children(0.0) in(0.0) Maryland(1.0) 's(0.0) 7th(0.0) Congressional(0.0) District(1.0) .(0.0) ''(0.0) If(0.0) 
+the(0.0) administration(1.0) 's(0.0) changes(0.0) are(0.0) implemented(0.0) in(0.0) Maryland(1.0) ,(0.0) the(0.0) report(0.0) indicates(0.0) that(0.0) almost(0.0) 3,000(0.0) children(0.0) in(0.0) Baltimore(1.0) City(0.0) ,(0.0) 
+Baltimore(1.0) County(1.0) ,(0.0) and(0.0) Howard(1.0) County(1.0) would(0.0) be(0.0) adversely(0.0) affected(0.0) in(0.0) the(0.0) following(0.0) way(0.0) :(0.0) 2,742(0.0) children(0.0) would(0.0) not(0.0) be(0.0) 
+guaranteed(0.0) dental(0.0) care(0.0) ;(0.0) 2,433(0.0) families(0.0) may(0.0) be(0.0) left(0.0) out(0.0) of(0.0) participating(0.0) in(0.0) their(0.0) child's(0.0) education(1.0) ;(0.0) 472(0.0) children(1.0) may(0.0) 
+not(0.0) receive(0.0) mental(0.0) health(1.0) care(0.0) that(0.0) they(0.0) currently(0.0) get(0.0) in(0.0) Head(0.0) Start(0.0) ;(0.0) 444(0.0) children(0.0) would(0.0) be(0.0) at(0.0) risk(0.0) for(0.0) 
+not(0.0) getting(0.0) treatment(0.0) for(0.0) asthma(0.0) ,(0.0) anemia(1.0) and(0.0) vision(0.0) problems(0.0) ;(0.0) and(0.0) 341(0.0) children(0.0) could(0.0) possibly(0.0) lose(0.0) guaranteed(0.0) access(0.0) to(0.0) 
+disability(1.0) services(0.0) .(0.0) What(0.0) we(0.0) may(0.0) not(0.0) be(0.0) aware(0.0) of(0.0) is(0.0) that(0.0) by(0.0) block(0.0) granting(1.0) ,(0.0) we(0.0) are(0.0) cutting(1.0) the(0.0) 
+number(0.0) of(0.0) children(0.0) currently(0.0) served(0.0) and(0.0) leaving(0.0) millions(1.0) of(0.0) eligible(1.0) low-income(1.0) children(0.0) without(0.0) the(0.0) needed(0.0) resources(0.0) in(0.0) advance(1.0) is(0.0) not(0.0) 
+wise(0.0) .(0.0) Many(0.0) Head(0.0) Start(0.0) advocates(1.0) are(0.0) concerned(0.0) that(0.0) states(1.0) that(0.0) accept(0.0) block(0.0) grants(1.0) will(0.0) weaken(1.0) educational(1.0) standards(1.0) .(0.0) And(0.0) 
+let(0.0) me(0.0) tell(0.0) you(0.0) how(0.0) ,(0.0) because(0.0) I(0.0) think(0.0) it(0.0) is(0.0) a(0.0) nuance(0.0) that(0.0) many(0.0) of(0.0) my(0.0) compassionate(1.0) conservative(1.0) colleagues(0.0) 
+miss(0.0) .(0.0) This(0.0) bill(1.0) allows(1.0) a(0.0) demonstration(0.0) project(0.0) in(0.0) eight(0.0) states(1.0) which(0.0) essentially(0.0) allows(0.0) these(0.0) States(0.0) to(0.0) take(0.0) their(0.0) Head(0.0) 
+Start(0.0) monies(1.0) and(0.0) use(0.0) them(0.0) as(0.0) they(0.0) see(0.0) fit(0.0) for(0.0) early(0.0) childhood(0.0) education(1.0) programs(1.0) .(0.0) In(0.0) a(0.0) phrase(0.0) blockgranting(0.0) .(0.0) 
+We(0.0) know(0.0) block(0.0) granting(1.0) does(0.0) not(0.0) work(0.0) because(0.0) in(0.0) tough(1.0) economic(1.0) times(0.0) with(0.0) a(0.0) record(0.0) $(0.0) 544(0.0) billion(1.0) national(1.0) deficit(1.0) 
+,(0.0) states(1.0) make(0.0) tough(0.0) budget(1.0) choices(0.0) and(0.0) programs(1.0) like(0.0) Head(0.0) Start(0.0) get(0.0) shortchanged(1.0) .(0.0) Block(0.0) grants(1.0) are(0.0) a(0.0) veiled(0.0) way(0.0) 
+to(0.0) kill(0.0) the(0.0) Head(0.0) Start(0.0) program(1.0) as(0.0) we(0.0) know(0.0) it(0.0) .(0.0) Blockgranting(0.0) makes(0.0) it(0.0) easier(0.0) to(0.0) cut(1.0) programs(1.0) and(0.0) as(0.0) 
+a(0.0) result(0.0) more(0.0) programs(1.0) begin(0.0) to(0.0) dwindle(0.0) .(0.0) Eventually(0.0) ,(0.0) Head(0.0) Start(0.0) will(0.0) not(0.0) exist(0.0) .(0.0) The(0.0) comprehensive(1.0) nature(0.0) of(0.0) 
+the(0.0) program(0.0) supports(0.0) the(0.0) notion(1.0) that(0.0) success(0.0) inside(0.0) the(0.0) classroom(0.0) requires(0.0) that(0.0) children(0.0) be(0.0) physically(0.0) and(0.0) mentally(0.0) healthy(0.0) ,(0.0) with(0.0) 
+a(0.0) stable(0.0) home(0.0) life(0.0) .(0.0) Head(0.0) Start(0.0) works(0.0) and(0.0) is(0.0) highly(0.0) successful(0.0) .(0.0) The(0.0) broad(0.0) nature(0.0) of(0.0) the(0.0) program(0.0) 
+
+
+----- below are rationale words -----
+
+opposition	
+vote	bill	blatant	attempt	dismantle	program	
+Chairman	Federal	program	
+program	education	health	care	nutrition	programs	low-income	
+preschool	children	weaken	
+jeopardize	comprehensive	educational	social	thousands	families	
+Government	entitled	
+Overhaul	Maryland	District	
+administration	Maryland	Baltimore	
+Baltimore	County	Howard	County	
+education	children	
+health	
+anemia	
+disability	granting	cutting	
+millions	eligible	low-income	advance	
+advocates	states	grants	weaken	educational	standards	
+compassionate	conservative	
+bill	allows	states	
+monies	education	programs	
+granting	tough	economic	billion	national	deficit	
+states	budget	programs	shortchanged	grants	
+program	cut	programs	
+programs	comprehensive	
+notion	
+
+
+reads % = 0.16

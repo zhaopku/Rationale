@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) to(0.0) speak(0.0) out(0.0) in(0.0) opposition(1.0) to(0.0) this(0.0) Democratic(1.0) initiative(1.0) to(0.0) ban(1.0) the(0.0) Boy(0.0) Scouts(0.0) from(0.0) enjoying(0.0) the(0.0) 
+rights(1.0) that(0.0) they(0.0) have(0.0) enjoyed(0.0) since(0.0) their(0.0) existence(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+opposition	Democratic	initiative	ban	
+rights	
+
+reads % = 0.16666666666666666

@@ -1,0 +1,40 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) this(0.0) bill(1.0) is(0.0) aimed(1.0) at(0.0) making(0.0) the(0.0) Federal(1.0) Government(1.0) more(0.0) friendly(0.0) and(0.0) responsive(0.0) to(0.0) citizens(1.0) who(0.0) interact(0.0) with(0.0) the(0.0) 
+government(1.0) .(0.0) How(0.0) sad(0.0) that(0.0) we(0.0) are(0.0) not(0.0) responding(0.0) to(0.0) what(0.0) Americans(1.0) are(0.0) asking(0.0) for(0.0) right(0.0) now(0.0) and(0.0) what(0.0) is(0.0) 
+most(0.0) on(0.0) their(0.0) mind(0.0) .(0.0) And(0.0) I'm(0.0) quoting(0.0) a(0.0) Fox(0.0) News/Opinion(1.0) Dynamics(0.0) poll(0.0) released(0.0) last(0.0) week(0.0) revealed(0.0) that(0.0) 75(0.0) percent(0.0) 
+of(0.0) Americans(1.0) and(0.0) 66(0.0) percent(0.0) of(0.0) Democrats(1.0) support(0.0) immediate(0.0) oil(1.0) and(0.0) gas(1.0) exploration(1.0) here(0.0) at(0.0) home(0.0) .(0.0) According(0.0) to(0.0) a(0.0) 
+CNN(0.0) poll(0.0) ,(0.0) 73(0.0) percent(0.0) of(0.0) Americans(1.0) favor(1.0) more(0.0) exploration(1.0) of(0.0) deep(0.0) ocean(0.0) energy(1.0) resources(1.0) far(0.0) off(0.0) American(0.0) shores(0.0) .(0.0) 
+A(0.0) Reuters/Zogby(1.0) poll(0.0) conducted(0.0) in(0.0) June(0.0) shows(0.0) that(0.0) 75(0.0) percent(0.0) of(0.0) Americans(1.0) support(0.0) drilling(1.0) for(0.0) oil(1.0) offshore(1.0) ,(0.0) and(0.0) 59(0.0) 
+percent(0.0) support(1.0) drilling(1.0) in(0.0) ANWR(1.0) .(0.0) A(0.0) Rasmussen(0.0) survey(0.0) from(0.0) June(0.0) showed(0.0) 67(0.0) percent(0.0) of(0.0) Americans(1.0) support(0.0) deepwater(1.0) energy(1.0) exploration(1.0) 
+,(0.0) with(0.0) 64(0.0) percent(0.0) expecting(0.0) it(0.0) will(0.0) lower(0.0) gas(1.0) prices(1.0) .(0.0) And(0.0) a(0.0) recent(0.0) IBD/TIPP(1.0) poll(0.0) shows(0.0) 64(0.0) percent(0.0) of(0.0) 
+Americans(1.0) surveyed(0.0) support(0.0) offshore(1.0) drilling(1.0) ,(0.0) 65(0.0) percent(0.0) support(0.0) oil(1.0) shale(1.0) development(1.0) .(0.0) We(0.0) could(0.0) bring(0.0) down(0.0) the(0.0) price(0.0) of(0.0) 
+gas(1.0) by(0.0) voting(0.0) to(0.0) create(0.0) more(0.0) oil(1.0) supply(1.0) ,(0.0) but(0.0) the(0.0) Speaker(0.0) ,(0.0) Senator(0.0) Reid(1.0) ,(0.0) and(0.0) Senator(1.0) Obama(1.0) are(0.0) 
+blocking(0.0) such(0.0) votes(0.0) .(0.0) It(0.0) 's(0.0) a(0.0) shame(0.0) that(0.0) very(0.0) wealthy(1.0) people(0.0) who(0.0) are(0.0) out(0.0) of(0.0) touch(0.0) with(0.0) average(0.0) Americans(1.0) 
+are(0.0) blocking(0.0) the(0.0) ability(0.0) to(0.0) bring(0.0) down(0.0) the(0.0) price(0.0) of(0.0) gas(1.0) .(0.0) I(0.0) 'm(0.0) in(0.0) favor(1.0) of(0.0) doing(0.0) everything(0.0) we(0.0) 
+can(0.0) to(0.0) make(0.0) the(0.0) Federal(1.0) Government(1.0) more(0.0) responsive(0.0) to(0.0) our(0.0) citizens(1.0) ,(0.0) including(0.0) this(0.0) bill(1.0) ,(0.0) and(0.0) I(0.0) certainly(0.0) do(0.0) 
+support(0.0) it(0.0) ,(0.0) but(0.0) I(0.0) think(0.0) we(0.0) need(0.0) to(0.0) do(0.0) more(0.0) .(0.0) We(0.0) need(0.0) to(0.0) vote(1.0) to(0.0) drill(0.0) and(0.0) to(0.0) 
+create(0.0) more(0.0) energy(1.0) and(0.0) help(0.0) the(0.0) American(0.0) public(1.0) .(0.0) With(0.0) that(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) 
+of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+bill	aimed	Federal	Government	citizens	
+government	Americans	
+News/Opinion	
+Americans	Democrats	oil	gas	exploration	
+Americans	favor	exploration	energy	resources	
+Reuters/Zogby	Americans	drilling	oil	offshore	
+support	drilling	ANWR	Americans	deepwater	energy	exploration	
+gas	prices	IBD/TIPP	
+Americans	offshore	drilling	oil	shale	development	
+gas	oil	supply	Reid	Senator	Obama	
+wealthy	Americans	
+gas	favor	
+Federal	Government	citizens	bill	
+vote	
+energy	public	Speaker	
+
+
+reads % = 0.18688524590163935

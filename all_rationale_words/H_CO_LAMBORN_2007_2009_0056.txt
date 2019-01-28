@@ -1,0 +1,50 @@
+This is from a Republican
+----- below is the original text -----
+Representative(1.0) Coffman(1.0) ,(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) you(0.0) for(0.0) your(0.0) leadership(1.0) and(0.0) for(0.0) taking(0.0) the(0.0) time(0.0) to(0.0) speak(0.0) on(0.0) this(0.0) important(0.0) 
+issue(0.0) of(0.0) the(0.0) economic(1.0) impact(0.0) of(0.0) H.R(0.0) .(0.0) 3200(0.0) ,(0.0) the(0.0) Democrats(1.0) '(0.0) health(0.0) care(0.0) proposal(1.0) ,(0.0) here(0.0) in(0.0) the(0.0) 
+House(0.0) .(0.0) It(0.0) 's(0.0) a(0.0) little(0.0) different(0.0) from(0.0) the(0.0) one(0.0) in(0.0) the(0.0) Senate(0.0) ,(0.0) but(0.0) there(0.0) is(0.0) an(0.0) impact(0.0) that(0.0) 
+it(0.0) will(0.0) have(0.0) on(0.0) small(0.0) business(0.0) .(0.0) I(0.0) remember(0.0) very(0.0) fondly(0.0) ,(0.0) Representative(1.0) Coffman(1.0) ,(0.0) when(0.0) you(0.0) and(0.0) I(0.0) served(0.0) 
+in(0.0) the(0.0) Colorado(1.0) legislature(0.0) together(0.0) .(0.0) It(0.0) was(0.0) before(0.0) you(0.0) were(0.0) either(0.0) the(0.0) State(0.0) treasurer(0.0) or(0.0) the(0.0) Secretary(0.0) of(0.0) State(0.0) 
+in(0.0) Colorado(1.0) .(0.0) I(0.0) really(0.0) knew(0.0) at(0.0) that(0.0) time(0.0) ,(0.0) as(0.0) I(0.0) think(0.0) you(0.0) knew(0.0) with(0.0) me(0.0) ,(0.0) that(0.0) we(0.0) 
+were(0.0) proponents(1.0) of(0.0) small(0.0) business(0.0) and(0.0) that(0.0) we(0.0) wanted(0.0) to(0.0) have(0.0) lower(0.0) taxes(1.0) and(0.0) a(0.0) more(0.0) favorable(0.0) economic(1.0) environment(0.0) and(0.0) 
+climate(1.0) for(0.0) the(0.0) State(0.0) of(0.0) Colorado(1.0) so(0.0) that(0.0) young(0.0) people(0.0) would(0.0) have(0.0) jobs(0.0) when(0.0) they(0.0) graduated(0.0) from(0.0) high(0.0) school(1.0) and(0.0) 
+college(1.0) ,(0.0) so(0.0) that(0.0) we(0.0) would(0.0) have(0.0) a(0.0) strong(0.0) economy(1.0) and(0.0) ,(0.0) I(0.0) think(0.0) ,(0.0) as(0.0) a(0.0) result(0.0) of(0.0) that(0.0) 
+,(0.0) so(0.0) that(0.0) we(0.0) would(0.0) have(0.0) a(0.0) better(0.0) quality(0.0) of(0.0) life(0.0) .(0.0) Sure(0.0) enough(0.0) ,(0.0) with(0.0) some(0.0) other(0.0) tax-saving(1.0) kinds(0.0) 
+of(0.0) measures(1.0) the(0.0) State(0.0) voters(0.0) passed(0.0) ,(0.0) like(0.0) TABOR(1.0) ,(0.0) Colorado(1.0) had(0.0) the(0.0) best(0.0) business(0.0) environment(0.0) in(0.0) the(0.0) United(0.0) States(0.0) 
+.(0.0) Now(0.0) it(0.0) has(0.0) slipped(0.0) a(0.0) little(0.0) bit(0.0) ,(0.0) but(0.0) we(0.0) 're(0.0) still(0.0) ,(0.0) in(0.0) the(0.0) latest(0.0) ranking(0.0) I(0.0) 've(0.0) 
+seen(0.0) ,(0.0) No(0.0) .(0.0) 4(0.0) in(0.0) the(0.0) country(1.0) .(0.0) That(0.0) 's(0.0) an(0.0) excellent(0.0) thing(0.0) .(0.0) It(0.0) 's(0.0) because(0.0) of(0.0) trying(0.0) 
+to(0.0) hold(0.0) the(0.0) line(0.0) on(0.0) taxes(1.0) .(0.0) So(0.0) I(0.0) 'm(0.0) concerned(0.0) that(0.0) ,(0.0) when(0.0) we(0.0) talk(0.0) about(0.0) H.R(0.0) .(0.0) 3200(0.0) 
+,(0.0) the(0.0) Waxman(1.0) bill(1.0) for(0.0) health(1.0) care(1.0) which(0.0) my(0.0) colleagues(0.0) on(0.0) the(0.0) other(0.0) side(0.0) of(0.0) the(0.0) aisle(0.0) are(0.0) promoting(1.0) ,(0.0) 
+it(0.0) is(0.0) going(0.0) to(0.0) have(0.0) a(0.0) negative(0.0) impact(0.0) .(0.0) For(0.0) instance(0.0) ,(0.0) House(0.0) Democrats(1.0) pay(1.0) for(0.0) a(0.0) portion(0.0) of(0.0) their(0.0) 
+health(1.0) care(1.0) in(0.0) this(0.0) bill(1.0) by(1.0) imposing(1.0) a(0.0) 2(0.0) percent(0.0) surtax(1.0) on(0.0) individuals(0.0) with(0.0) more(0.0) than(0.0) $(0.0) 280,000(0.0) in(0.0) income(1.0) 
+,(0.0) or(0.0) $(0.0) 350,000(0.0) for(0.0) a(0.0) couple(0.0) .(0.0) That(0.0) 's(0.0) a(0.0) lot(0.0) of(0.0) money(1.0) .(0.0) Keep(0.0) in(0.0) mind(0.0) that(0.0) many(0.0) 
+small(0.0) businesses(1.0) file(0.0) as(0.0) individuals(0.0) .(0.0) They(0.0) use(0.0) the(0.0) subchapter(1.0) S(0.0) type(0.0) of(0.0) status(0.0) for(0.0) their(0.0) tax(1.0) returns(0.0) .(0.0) So(0.0) 
+this(0.0) is(0.0) actually(0.0) the(0.0) income(1.0) that(0.0) a(0.0) small(0.0) business(0.0) can(0.0) have(0.0) when(0.0) it(0.0) 's(0.0) hit(0.0) with(0.0) a(0.0) 2(0.0) percent(0.0) surcharge(1.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+Coffman	leadership	
+economic	Democrats	proposal	
+
+Representative	Coffman	
+Colorado	
+Colorado	
+proponents	taxes	economic	
+climate	Colorado	school	
+college	economy	
+tax-saving	
+measures	TABOR	Colorado	
+
+country	
+taxes	
+Waxman	bill	health	care	promoting	
+Democrats	pay	
+health	care	bill	by	imposing	surtax	income	
+money	
+businesses	subchapter	tax	
+income	surcharge	
+
+
+reads % = 0.10696517412935323

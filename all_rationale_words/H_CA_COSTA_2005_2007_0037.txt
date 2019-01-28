@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) when(0.0) the(0.0) Democratic(1.0) Congress(1.0) was(0.0) elected(0.0) last(0.0) November(0.0) ,(0.0) we(0.0) pledged(1.0) to(0.0) enact(1.0) measures(1.0) to(0.0) protect(1.0) and(0.0) support(0.0) 
+our(0.0) military(1.0) troops(0.0) and(0.0) veterans(1.0) .(0.0) Since(0.0) taking(0.0) office(0.0) ,(0.0) we(0.0) have(0.0) honored(0.0) that(0.0) promise(0.0) by(0.0) passing(0.0) important(0.0) legislation(1.0) .(0.0) 
+This(0.0) year(0.0) ,(0.0) the(0.0) House(0.0) has(0.0) passed(0.0) the(0.0) largest(1.0) increase(1.0) for(0.0) veterans(1.0) health(1.0) care(0.0) in(0.0) the(0.0) history(0.0) of(0.0) the(0.0) Veterans(1.0) 
+Administration(0.0) ,(0.0) has(0.0) made(0.0) major(0.0) improvements(0.0) in(0.0) equipment(0.0) and(0.0) training(0.0) ,(0.0) including(0.0) protecting(1.0) the(0.0) mine(0.0) resistant(0.0) ambush(0.0) protected(0.0) vehicles(0.0) that(0.0) 
+reduce(1.0) the(0.0) strain(0.0) on(0.0) our(0.0) servicemen(1.0) and(0.0) women(1.0) and(0.0) protect(0.0) them(0.0) in(0.0) Iraq(1.0) and(0.0) Afghanistan(1.0) .(0.0) Today(0.0) ,(0.0) we(0.0) continue(0.0) 
+that(0.0) commitment(1.0) by(0.0) passing(0.0) the(0.0) Defense(1.0) authorization(0.0) conference(0.0) report(0.0) ,(0.0) which(0.0) includes(0.0) a(0.0) much-needed(0.0) 3.5(0.0) percent(0.0) pay(1.0) increase(1.0) for(0.0) our(0.0) 
+troops(1.0) ,(0.0) improves(0.0) military(1.0) health(1.0) care(0.0) ,(0.0) and(0.0) requires(0.0) a(0.0) report(0.0) on(0.0) the(0.0) current(0.0) state(1.0) of(0.0) readiness(1.0) for(0.0) our(0.0) forces(1.0) 
+,(0.0) which(0.0) are(0.0) stretched(0.0) very(0.0) thin(0.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) this(0.0) Congress(0.0) has(0.0) a(0.0) proud(0.0) record(0.0) this(0.0) year(0.0) of(0.0) supporting(0.0) 
+our(0.0) troops(1.0) and(0.0) veterans(1.0) .(0.0) I(0.0) hope(0.0) all(0.0) of(0.0) our(0.0) colleagues(0.0) will(0.0) join(0.0) in(0.0) continuing(1.0) these(0.0) efforts(1.0) by(0.0) supporting(0.0) the(0.0) 
+Department(0.0) of(0.0) Defense(0.0) authorization(0.0) conference(0.0) report(0.0) .(0.0) On(0.0) Veterans(1.0) Day(0.0) and(0.0) Memorial(0.0) Day(0.0) ,(0.0) we(0.0) honor(0.0) those(0.0) who(0.0) have(0.0) served(0.0) 
+and(0.0) given(0.0) their(0.0) lives(0.0) .(0.0) This(0.0) vote(1.0) today(0.0) honors(0.0) those(0.0) who(0.0) serve(0.0) us(0.0) every(0.0) day(0.0) .(0.0) I(0.0) urge(0.0) the(0.0) President(1.0) 
+to(0.0) sign(0.0) this(0.0) legislation(1.0) once(0.0) it(0.0) has(0.0) passed(0.0) the(0.0) Congress(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Democratic	Congress	pledged	enact	measures	protect	
+military	veterans	legislation	
+largest	increase	veterans	health	Veterans	
+protecting	
+reduce	servicemen	women	Iraq	Afghanistan	
+commitment	Defense	pay	increase	
+troops	military	health	state	readiness	forces	
+Speaker	
+troops	veterans	continuing	efforts	
+Veterans	
+vote	President	
+legislation	
+
+reads % = 0.16810344827586207

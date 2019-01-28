@@ -1,0 +1,56 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) agree(0.0) to(0.0) the(0.0) resolution(1.0) ((0.0) H.(0.0) Res(1.0) .(0.0) 455(0.0) )(0.0) supporting(0.0) the(0.0) 
+goals(0.0) and(0.0) ideals(1.0) of(0.0) National(0.0) Internet(0.0) Safety(0.0) Month(0.0) ,(0.0) as(0.0) amended(0.0) .(0.0) The(0.0) Clerk(0.0) read(0.0) the(0.0) title(0.0) of(0.0) the(0.0) resolution(0.0) 
+.(0.0) The(0.0) text(0.0) of(0.0) the(0.0) resolution(0.0) is(0.0) as(0.0) follows(0.0) :(0.0) H.(0.0) Res(1.0) .(0.0) 455(0.0) Whereas(0.0) ,(0.0) on(0.0) May(0.0) 16(0.0) ,(0.0) 
+2007(0.0) ,(0.0) the(0.0) United(0.0) States(0.0) Senate(0.0) passed(0.0) a(0.0) resolution(0.0) designating(0.0) June(0.0) 2007(0.0) as(0.0) ``(0.0) National(0.0) Internet(0.0) Safety(0.0) Month(0.0) ''(0.0) ;(0.0) 
+Whereas(0.0) there(0.0) are(0.0) more(0.0) than(0.0) 1,000,000,000(0.0) Internet(0.0) users(0.0) worldwide(0.0) ;(0.0) Whereas(0.0) ,(0.0) in(0.0) the(0.0) United(0.0) States(0.0) ,(0.0) 35,000,000(0.0) children(0.0) in(0.0) 
+kindergarten(0.0) through(0.0) grade(0.0) 12(0.0) have(0.0) Internet(0.0) access(0.0) ;(0.0) Whereas(0.0) approximately(0.0) 80(0.0) percent(0.0) of(0.0) the(0.0) children(0.0) of(0.0) the(0.0) United(0.0) States(0.0) in(0.0) 
+grades(0.0) 5(0.0) through(0.0) 12(0.0) are(0.0) online(0.0) for(0.0) at(0.0) least(0.0) 1(0.0) hour(0.0) per(0.0) week(0.0) ;(0.0) Whereas(0.0) approximately(0.0) 41(0.0) percent(0.0) of(0.0) students(0.0) 
+in(0.0) grades(0.0) 5(0.0) through(0.0) 12(0.0) do(0.0) not(0.0) share(0.0) with(0.0) their(0.0) parents(0.0) what(0.0) they(0.0) do(0.0) on(0.0) the(0.0) Internet(0.0) ;(0.0) Whereas(0.0) approximately(0.0) 
+24(0.0) percent(0.0) of(0.0) students(0.0) in(0.0) grades(0.0) 5(0.0) through(0.0) 12(0.0) have(0.0) hidden(0.0) their(0.0) online(0.0) activities(0.0) from(0.0) their(0.0) parents(0.0) ;(0.0) Whereas(0.0) approximately(0.0) 
+31(0.0) percent(0.0) of(0.0) the(0.0) students(0.0) in(0.0) grades(0.0) 5(0.0) through(0.0) 12(0.0) have(0.0) the(0.0) skill(0.0) to(0.0) circumvent(0.0) Internet(0.0) filter(0.0) software(0.0) ;(0.0) Whereas(0.0) 
+61(0.0) percent(0.0) of(0.0) the(0.0) students(0.0) admit(0.0) to(0.0) using(0.0) the(0.0) Internet(0.0) unsafely(0.0) or(0.0) inappropriately(0.0) ;(0.0) Whereas(0.0) 20(0.0) percent(0.0) of(0.0) middle(0.0) school(0.0) 
+and(0.0) high(0.0) school(0.0) students(0.0) have(0.0) met(0.0) face-to-face(0.0) with(0.0) someone(0.0) they(0.0) first(0.0) met(0.0) online(0.0) ;(0.0) Whereas(0.0) 23(0.0) percent(0.0) of(0.0) students(0.0) know(0.0) 
+someone(0.0) who(0.0) has(0.0) been(0.0) bullied(0.0) online(0.0) ;(0.0) Whereas(0.0) 56(0.0) percent(0.0) of(0.0) parents(0.0) feel(0.0) that(0.0) online(0.0) bullying(1.0) of(0.0) children(0.0) is(0.0) an(0.0) 
+issue(0.0) that(0.0) needs(0.0) to(0.0) be(0.0) addressed(0.0) ;(0.0) Whereas(0.0) 47(0.0) percent(0.0) of(0.0) parents(0.0) feel(0.0) that(0.0) their(0.0) ability(0.0) to(0.0) monitor(0.0) and(0.0) shelter(1.0) 
+their(0.0) children(0.0) from(0.0) inappropriate(1.0) material(0.0) on(0.0) the(0.0) Internet(0.0) is(0.0) limited(0.0) ;(0.0) and(0.0) Whereas(1.0) 61(0.0) percent(0.0) of(0.0) parents(0.0) want(0.0) to(0.0) be(0.0) 
+more(0.0) personally(0.0) involved(0.0) with(0.0) Internet(0.0) safety(0.0) :(0.0) Now(0.0) ,(0.0) therefore(0.0) ,(0.0) be(0.0) it(0.0) Resolved(0.0) ,(0.0) That(0.0) the(0.0) House(0.0) of(0.0) Representatives(0.0) 
+--(0.0) ((0.0) 1(0.0) )(0.0) supports(0.0) the(0.0) goals(0.0) and(0.0) ideals(1.0) of(0.0) recognizing(1.0) National(0.0) Internet(0.0) Safety(0.0) Month(0.0) ;(0.0) ((0.0) 2(0.0) )(0.0) recognizes(0.0) 
+that(0.0) National(0.0) Internet(0.0) Safety(0.0) Month(0.0) provides(0.0) the(0.0) citizens(0.0) of(0.0) the(0.0) United(0.0) States(0.0) with(0.0) an(0.0) opportunity(0.0) to(0.0) learn(0.0) more(0.0) about(0.0) --(0.0) 
+((0.0) A(0.0) )(0.0) the(0.0) dangers(0.0) of(0.0) the(0.0) Internet(0.0) ;(0.0) and(0.0) ((0.0) B(0.0) )(0.0) the(0.0) importance(0.0) of(0.0) being(0.0) safe(0.0) and(0.0) responsible(0.0) 
+online(0.0) ;(0.0) ((0.0) 3(0.0) )(0.0) commends(0.0) and(0.0) recognizes(0.0) national(0.0) and(0.0) community(0.0) organizations(0.0) for(0.0) --(0.0) ((0.0) A(0.0) )(0.0) promoting(0.0) awareness(0.0) of(0.0) 
+the(0.0) dangers(0.0) of(0.0) the(0.0) Internet(0.0) ;(0.0) and(0.0) ((0.0) B(0.0) )(0.0) providing(0.0) information(0.0) and(0.0) training(0.0) that(0.0) develops(0.0) critical(0.0) thinking(0.0) and(0.0) decision-making(0.0) 
+skills(0.0) that(0.0) are(0.0) needed(0.0) to(0.0) use(0.0) the(0.0) Internet(0.0) safely(0.0) ;(0.0) and(0.0) ((0.0) 4(0.0) )(0.0) calls(0.0) on(0.0) parents(0.0) ,(0.0) educators(0.0) ,(0.0) 
+Internet(0.0) safety(0.0) organizations(0.0) ,(0.0) law(0.0) enforcement(0.0) ,(0.0) community(0.0) leaders(0.0) ,(0.0) and(0.0) volunteers(0.0) to(0.0) increase(0.0) their(0.0) efforts(0.0) to(0.0) raise(0.0) the(0.0) level(0.0) 
+of(0.0) awareness(0.0) for(0.0) the(0.0) need(0.0) for(0.0) online(0.0) safety(0.0) in(0.0) the(0.0) United(0.0) States(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+resolution	Res	
+ideals	
+Res	
+
+
+
+
+
+
+
+
+
+bullying	
+shelter	
+inappropriate	Whereas	
+
+ideals	recognizing	
+
+
+
+
+
+
+
+
+reads % = 0.02109704641350211

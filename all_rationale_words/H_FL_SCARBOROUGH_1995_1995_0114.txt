@@ -1,0 +1,34 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Rhode(1.0) Island(1.0) ,(0.0) and(0.0) I(0.0) also(0.0) thank(0.0) him(0.0) for(0.0) his(0.0) leadership(0.0) on(0.0) the(0.0) National(0.0) Security(0.0) Committee(0.0) 
+,(0.0) and(0.0) certainly(0.0) I(0.0) have(0.0) been(0.0) with(0.0) him(0.0) when(0.0) he(0.0) has(0.0) asked(0.0) some(0.0) very(0.0) tough(0.0) questions(0.0) to(0.0) our(0.0) policy(1.0) leaders(0.0) 
+and(0.0) questioned(0.0) those(0.0) who(0.0) would(0.0) simply(0.0) say(0.0) that(0.0) we(0.0) would(0.0) put(0.0) Americans(1.0) in(0.0) harms(1.0) 's(0.0) way(0.0) simply(0.0) to(0.0) protect(0.0) our(0.0) 
+standing(0.0) in(0.0) NATO(1.0) .(0.0) I(0.0) think(0.0) we(0.0) have(0.0) to(0.0) have(0.0) a(0.0) more(0.0) hard-nosed(1.0) approach(0.0) than(0.0) simply(0.0) worry(0.0) about(0.0) how(0.0) we(0.0) 
+are(0.0) going(0.0) to(0.0) look(0.0) at(0.0) NATO(1.0) ,(0.0) and(0.0) have(0.0) to(0.0) ask(0.0) what(0.0) America's(0.0) role(0.0) is(0.0) and(0.0) what(0.0) America(1.0) 's(0.0) vital(0.0) 
+interest(0.0) is(0.0) in(0.0) that(0.0) conflict(1.0) .(0.0) Certainly(0.0) there(0.0) have(0.0) been(0.0) horrors(1.0) .(0.0) I(0.0) saw(0.0) a(0.0) picture(0.0) of(0.0) a(0.0) 7-year-old(0.0) who(0.0) 
+was(0.0) blown(0.0) off(0.0) his(0.0) bike(0.0) by(0.0) a(0.0) Serbian(0.0) mortar(0.0) shell(0.0) ,(0.0) and(0.0) the(0.0) ABC(0.0) cameras(0.0) followed(0.0) him(0.0) and(0.0) he(0.0) was(0.0) 
+crying(0.0) to(0.0) his(0.0) parents(0.0) ,(0.0) ``(0.0) Please(0.0) don't(0.0) cut(1.0) off(0.0) my(0.0) leg(0.0) ;(0.0) please(0.0) do(0.0) n't(0.0) cut(0.0) off(0.0) my(0.0) leg(0.0) 
+.(0.0) ''(0.0) And(0.0) the(0.0) news(0.0) reporter(0.0) said(0.0) they(0.0) did(0.0) not(0.0) cut(0.0) off(0.0) his(0.0) leg(0.0) .(0.0) But(0.0) ,(0.0) unfortunately(0.0) ,(0.0) the(0.0) 
+young(0.0) boy(0.0) died(0.0) a(0.0) few(0.0) hours(0.0) later(0.0) .(0.0) The(0.0) horrors(1.0) are(0.0) absolutely(0.0) indefensible(1.0) ,(0.0) and(0.0) I(0.0) would(0.0) gladly(0.0) sign(0.0) on(0.0) 
+to(0.0) your(0.0) resolution(1.0) ,(0.0) and(0.0) I(0.0) thank(0.0) you(0.0) for(0.0) bringing(0.0) that(0.0) up(0.0) .(0.0) Congress(0.0) has(0.0) made(0.0) some(0.0) controversial(1.0) decisions(0.0) on(0.0) 
+the(0.0) Bosnian(1.0) conflict(0.0) over(0.0) the(0.0) past(0.0) week(0.0) or(0.0) two(0.0) ,(0.0) but(0.0) that(0.0) is(0.0) certainly(0.0) something(0.0) I(0.0) would(0.0) hope(0.0) all(0.0) Republicans(0.0) 
+and(0.0) Democrats(1.0) alike(0.0) could(0.0) come(0.0) together(0.0) .(0.0) I(0.0) yield(0.0) back(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Minnesota(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Rhode	Island	
+policy	
+Americans	harms	
+NATO	hard-nosed	
+NATO	America	
+conflict	horrors	
+
+cut	
+
+horrors	indefensible	
+resolution	controversial	
+Bosnian	
+Democrats	Minnesota	
+
+reads % = 0.07392996108949416

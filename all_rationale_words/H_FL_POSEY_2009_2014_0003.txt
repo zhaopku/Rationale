@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) when(0.0) the(0.0) health(1.0) care(1.0) law(1.0) was(0.0) passed(0.0) on(0.0) a(0.0) party(0.0) line(0.0) vote(0.0) people(0.0) were(0.0) assured(0.0) they(0.0) could(0.0) keep(0.0) their(0.0) 
+current(0.0) doctors(0.0) and(0.0) insurance(0.0) plans(0.0) ,(0.0) it(0.0) would(0.0) cost(1.0) them(0.0) less(0.0) ,(0.0) it(0.0) was(0.0) not(0.0) a(0.0) tax(0.0) ,(0.0) and(0.0) there(0.0) 
+would(0.0) be(0.0) no(0.0) rationing(1.0) of(0.0) medical(1.0) care(0.0) .(0.0) Those(0.0) are(0.0) not(0.0) my(0.0) words(0.0) .(0.0) They(0.0) are(0.0) the(0.0) words(0.0) from(0.0) the(0.0) 
+supporters(1.0) of(0.0) the(0.0) bill(1.0) in(0.0) the(0.0) Congress(0.0) and(0.0) the(0.0) Obama(1.0) Administration(1.0) .(0.0) The(0.0) stark(1.0) reality(1.0) is(0.0) very(0.0) different(0.0) for(0.0) many(0.0) 
+of(0.0) my(0.0) constituents(1.0) and(0.0) hundreds(0.0) of(0.0) them(0.0) have(0.0) shared(0.0) with(0.0) me(0.0) how(0.0) this(0.0) health(1.0) care(1.0) law(1.0) has(0.0) adversely(0.0) impacted(0.0) them(0.0) 
+.(0.0) I(0.0) 'd(0.0) like(0.0) to(0.0) share(0.0) just(0.0) a(0.0) few(0.0) of(0.0) these(0.0) comments(0.0) with(0.0) you(0.0) .(0.0) They(0.0) are(0.0) from(0.0) real(0.0) people(0.0) 
+,(0.0) hardworking(0.0) Americans(1.0) who(0.0) I(0.0) have(0.0) the(0.0) privilege(1.0) of(0.0) representing(1.0) and(0.0) they(0.0) are(0.0) begging(1.0) for(0.0) relief(1.0) :(0.0) ``(0.0) My(0.0) group(0.0) 
+rate(0.0) insurance(0.0) increased(0.0) 100(0.0) %(0.0) and(0.0) my(0.0) deductible(1.0) went(0.0) from(0.0) $(0.0) 2,500(0.0) to(0.0) $(0.0) 7,500(0.0) ''(0.0) wrote(0.0) Preston(0.0) in(0.0) Brevard(1.0) 
+,(0.0) and(0.0) Margaret(0.0) says(0.0) her(0.0) ``(0.0) insurances(0.0) costs(0.0) jumped(0.0) 300(0.0) %(0.0) .(0.0) ''(0.0) Paul(0.0) in(0.0) Brevard(1.0) writes(0.0) ,(0.0) ``(0.0) It(0.0) 
+has(0.0) created(0.0) a(0.0) situation(0.0) where(0.0) I(0.0) can't(0.0) retire(0.0) safely(0.0) .(0.0) ''(0.0) Norma(0.0) in(0.0) Indian(0.0) River(0.0) County(1.0) says(1.0) her(0.0) ``(0.0) premiums(0.0) 
+increased(0.0) $(0.0) 600(0.0) per(0.0) year(0.0) .(0.0) That(0.0) 's(0.0) a(0.0) lot(0.0) for(0.0) someone(0.0) on(0.0) a(0.0) fixed(0.0) income(0.0) .(0.0) ''(0.0) Tom(0.0) in(0.0) 
+south(0.0) Brevard(0.0) wrote(0.0) that(0.0) the(0.0) law(1.0) ``(0.0) increased(0.0) premiums(0.0) and(0.0) inserted(0.0) unneeded(1.0) benefits(1.0) into(0.0) our(0.0) policy(1.0) .(0.0) ''(0.0) Rob(0.0) in(0.0) 
+Melbourne(0.0) fears(0.0) for(0.0) his(0.0) kids(0.0) ,(0.0) writing(0.0) :(0.0) ``(0.0) My(0.0) kids(0.0) can(0.0) not(0.0) find(0.0) a(0.0) job(0.0) and(0.0) the(0.0) cost(1.0) of(0.0) 
+healthcare(1.0) is(0.0) three(0.0) times(0.0) more(0.0) for(0.0) them(0.0) than(0.0) it(0.0) was(0.0) previously(0.0) .(0.0) ''(0.0) And(0.0) another(0.0) constituent(0.0) wrote(0.0) :(0.0) ``(0.0) My(0.0) 
+grandchildren(0.0) lost(0.0) their(0.0) insurance(0.0) due(0.0) to(0.0) the(0.0) exorbitant(1.0) increase(0.0) in(0.0) monthly(0.0) premiums(1.0) by(0.0) their(0.0) employer(1.0) .(0.0) ''(0.0) A(0.0) friend(0.0) wrote(0.0) 
+:(0.0) ``(0.0) My(0.0) best(0.0) friend(0.0) 's(0.0) hours(0.0) got(0.0) cut(0.0) so(0.0) the(0.0) company(0.0) would(0.0) not(0.0) have(0.0) to(0.0) provide(0.0) healthcare(1.0) for(0.0) him(0.0) 
+and(0.0) his(0.0) family(0.0) .(0.0) ''(0.0) And(0.0) ,(0.0) Ed(0.0) in(0.0) Titusville(1.0) wrote(0.0) of(0.0) the(0.0) impact(0.0) on(0.0) his(0.0) daughters(0.0) :(0.0) ``(0.0) Both(0.0) 
+of(0.0) my(0.0) daughters(0.0) have(0.0) had(0.0) their(0.0) work(0.0) hours(0.0) cut(0.0) [(0.0) so(0.0) their(0.0) employers(1.0) could(0.0) avoid(0.0) providing(0.0) health(1.0) insurance(1.0) ](0.0) .(0.0) 
+''(0.0) Christine(1.0) in(0.0) Vero(1.0) shared(0.0) :(0.0) ``(0.0) With(0.0) no(0.0) change(0.0) in(0.0) my(0.0) health(1.0) ,(0.0) my(0.0) premiums(1.0) went(0.0) up(0.0) 21(0.0) %(0.0) 
+with(0.0) a(0.0) $(0.0) 2500(0.0) deductible(0.0) .(0.0) ''(0.0) Rob(0.0) in(0.0) Melbourne(0.0) says(0.0) his(0.0) insurance(0.0) costs(0.0) ``(0.0) doubled(0.0) ''(0.0) .(0.0) Ralph(0.0) in(0.0) 
+Brevard(1.0) says(0.0) ``(0.0) I(0.0) lost(0.0) my(0.0) doctor(0.0) and(0.0) am(0.0) paying(0.0) for(0.0) things(0.0) I(0.0) do(0.0) n't(0.0) need(0.0) .(0.0) ''(0.0) Chris(0.0) in(0.0) 
+Palm(0.0) Bay(0.0) says(0.0) he(0.0) ``(0.0) lost(0.0) his(0.0) job(0.0) and(0.0) was(0.0) forced(0.0) to(0.0) move(0.0) and(0.0) pay(0.0) higher(0.0) insurance(1.0) costs(1.0) .(0.0) ''(0.0) 
+Paul(0.0) in(0.0) Palm(0.0) Bay(0.0) says(0.0) :(0.0) ``(0.0) The(0.0) policy(1.0) increased(0.0) from(0.0) $(0.0) 50(0.0) a(0.0) month(0.0) to(0.0) $(0.0) 350(0.0) a(0.0) month(0.0) 
+.(0.0) ''(0.0) Terri(0.0) shares(0.0) that(0.0) her(0.0) doctors(0.0) wo(0.0) n't(0.0) take(0.0) her(0.0) private(0.0) insurance(0.0) .(0.0) Dave(0.0) in(0.0) central(0.0) Brevard(1.0) shared(0.0) that(0.0) 
+:(0.0) ``(0.0) It(0.0) has(0.0) DOUBLED(0.0) my(0.0) premiums(1.0) !(0.0) !(0.0) I(0.0) am(0.0) very(0.0) upset(0.0) about(0.0) Obamacare(1.0) !(0.0) FIX(0.0) IT(0.0) !(0.0) 
+
+
+----- below are rationale words -----
+
+health	care	law	
+cost	
+rationing	medical	
+supporters	bill	Obama	Administration	stark	reality	
+constituents	health	care	law	
+
+Americans	privilege	representing	begging	relief	
+deductible	Brevard	
+Brevard	
+County	says	
+
+law	unneeded	benefits	policy	
+cost	
+healthcare	
+exorbitant	premiums	employer	
+healthcare	
+Titusville	
+employers	health	insurance	
+Christine	Vero	health	premiums	
+
+Brevard	
+insurance	costs	
+policy	
+Brevard	
+premiums	Obamacare	
+
+reads % = 0.102

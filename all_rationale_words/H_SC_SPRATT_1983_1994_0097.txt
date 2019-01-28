@@ -1,0 +1,36 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Chairman(0.0) ,(0.0) I(0.0) yield(0.0) 2(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Minnesota(1.0) [(0.0) Mr.(0.0) Sabo(1.0) ](0.0) ,(0.0) the(0.0) distinguished(0.0) chairman(0.0) of(0.0) 
+the(0.0) Committee(0.0) on(0.0) the(0.0) Budget(0.0) .(0.0) Mr.(0.0) SABO(1.0) Madam(0.0) Chairman(0.0) ,(0.0) I(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) the(0.0) Spratt(1.0) amendment(1.0) .(0.0) 
+If(0.0) you(0.0) wanted(0.0) the(0.0) most(0.0) complete(0.0) ,(0.0) total(0.0) information(0.0) available(0.0) using(0.0) a(0.0) variety(0.0) of(0.0) options(0.0) ,(0.0) you(0.0) support(0.0) Spratt(1.0) .(0.0) 
+You(0.0) compare(0.0) it(0.0) to(0.0) last(0.0) year(0.0) ,(0.0) you(0.0) compare(0.0) it(0.0) to(0.0) existing(0.0) law(1.0) ,(0.0) you(0.0) compare(0.0) it(0.0) to(0.0) the(0.0) existence(0.0) 
+of(0.0) inflation(1.0) .(0.0) To(0.0) the(0.0) last(0.0) speaker(0.0) ,(0.0) I(0.0) would(0.0) only(0.0) say(0.0) when(0.0) he(0.0) plans(0.0) for(0.0) the(0.0) future(0.0) and(0.0) having(0.0) 
+resources(0.0) available(0.0) to(0.0) educate(1.0) his(0.0) kids(0.0) ,(0.0) I(0.0) hope(0.0) he(0.0) considers(0.0) the(0.0) long-term(1.0) impact(0.0) of(0.0) inflation(1.0) .(0.0) Most(0.0) Americans(1.0) do(0.0) 
+.(0.0) When(0.0) Americans(1.0) plan(1.0) for(0.0) their(0.0) retirement(1.0) ,(0.0) they(0.0) consider(0.0) the(0.0) impact(0.0) of(0.0) inflation(1.0) .(0.0) We(0.0) should(0.0) too(0.0) .(0.0) When(0.0) 
+we(0.0) look(0.0) at(0.0) what(0.0) has(0.0) historically(0.0) happened(0.0) in(0.0) our(0.0) country(1.0) ,(0.0) we(0.0) need(0.0) to(0.0) know(0.0) how(0.0) programs(1.0) have(0.0) changed(0.0) ,(0.0) 
+dollar(0.0) for(0.0) dollar(1.0) .(0.0) But(0.0) we(0.0) also(0.0) need(0.0) to(0.0) know(0.0) how(0.0) it(0.0) has(0.0) been(0.0) impacted(0.0) by(0.0) inflation(1.0) .(0.0) When(0.0) we(0.0) 
+measure(1.0) the(0.0) wage(1.0) base(0.0) of(0.0) the(0.0) American(0.0) public(1.0) and(0.0) how(0.0) ,(0.0) frankly(0.0) ,(0.0) it(0.0) has(0.0) declined(0.0) for(0.0) millions(1.0) of(0.0) Americans(1.0) 
+over(0.0) the(0.0) last(0.0) 20(0.0) years(0.0) ,(0.0) we(0.0) use(0.0) inflation(1.0) to(0.0) understand(0.0) that(0.0) change(0.0) and(0.0) what(0.0) is(0.0) happening(0.0) to(0.0) millions(1.0) of(0.0) 
+working(0.0) Americans(1.0) .(0.0) So(0.0) ,(0.0) Madam(0.0) Chairman(1.0) ,(0.0) if(0.0) we(0.0) want(0.0) to(0.0) preserve(1.0) the(0.0) most(0.0) options(0.0) and(0.0) understand(0.0) what(0.0) is(0.0) 
+happening(0.0) with(0.0) Federal(1.0) budget(1.0) policy(1.0) ,(0.0) rather(0.0) than(0.0) fitting(0.0) some(0.0) little(0.0) dogma(1.0) ,(0.0) we(0.0) vote(1.0) for(0.0) the(0.0) Spratt(1.0) amendment(1.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+Minnesota	Sabo	
+SABO	Spratt	amendment	
+Spratt	
+law	
+inflation	
+educate	long-term	inflation	Americans	
+Americans	plan	retirement	inflation	
+country	programs	
+dollar	inflation	
+measure	wage	public	millions	Americans	
+inflation	millions	
+Americans	Chairman	preserve	
+Federal	budget	policy	dogma	vote	Spratt	amendment	
+
+
+reads % = 0.1417624521072797

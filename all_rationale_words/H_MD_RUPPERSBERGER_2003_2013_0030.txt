@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+633(0.0) I(0.0) was(0.0) at(0.0) a(0.0) medical(0.0) appointment(0.0) in(0.0) Baltimore(1.0) ,(0.0) MD(0.0) and(0.0) unable(0.0) to(0.0) vote(1.0) .(0.0) Had(0.0) I(0.0) been(0.0) present(0.0) ,(0.0) 
+I(0.0) would(0.0) have(0.0) voted(0.0) ``(0.0) yes(0.0) .(0.0) ''(0.0) 
+
+
+----- below are rationale words -----
+
+Baltimore	vote	
+
+
+reads % = 0.06896551724137931

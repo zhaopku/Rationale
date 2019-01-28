@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) 3(0.0) minutes(0.0) to(0.0) the(0.0) distinguished(0.0) gentleman(0.0) from(0.0) New(0.0) York(1.0) ((0.0) Mr.(0.0) Boehlert(1.0) )(0.0) ,(0.0) chairman(0.0) of(0.0) the(0.0) 
+Committee(0.0) on(0.0) Science(0.0) .(0.0) ((0.0) Mr.(0.0) BOEHLERT(1.0) asked(0.0) and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) )(0.0) 
+
+
+
+----- below are rationale words -----
+
+York	Boehlert	
+BOEHLERT	
+
+
+reads % = 0.07317073170731707

@@ -1,0 +1,54 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) support(0.0) of(0.0) the(0.0) bipartisan(1.0) compromise(1.0) continuing(1.0) resolution(1.0) that(1.0) will(1.0) fully(1.0) restore(1.0) Federal(1.0) Government(1.0) operations(1.0) and(0.0) 
+commit(1.0) the(0.0) President(1.0) and(0.0) this(0.0) Congress(0.0) to(0.0) a(0.0) balanced(0.0) budget(1.0) by(0.0) 2002(0.0) using(0.0) Congressional(0.0) Budget(1.0) Office(0.0) [(0.0) CBO(1.0) ](0.0) numbers(1.0) 
+.(0.0) One(0.0) year(0.0) ago(0.0) we(0.0) made(0.0) a(0.0) promise(0.0) to(0.0) our(0.0) constituents(1.0) that(0.0) we(0.0) would(0.0) bring(0.0) fiscal(1.0) responsibility(0.0) to(0.0) the(0.0) Federal(1.0) 
+Government(1.0) .(0.0) Today(0.0) ,(0.0) we(0.0) are(0.0) keeping(0.0) that(0.0) promise(0.0) .(0.0) This(0.0) agreement(0.0) reflects(0.0) a(0.0) long(0.0) awaited(0.0) realization(0.0) from(0.0) the(0.0) President(1.0) 
+that(0.0) we(0.0) must(0.0) be(0.0) serious(0.0) about(0.0) putting(0.0) our(0.0) fiscal(1.0) house(0.0) in(0.0) order(0.0) .(0.0) Now(0.0) that(0.0) the(0.0) President(1.0) and(0.0) Congress(0.0) appear(0.0) 
+to(0.0) be(0.0) on(0.0) the(0.0) same(0.0) page(0.0) I(0.0) am(0.0) hopeful(0.0) that(0.0) we(0.0) can(0.0) finally(0.0) accomplish(0.0) the(0.0) task(0.0) at(0.0) hand(0.0) .(0.0) Many(0.0) 
+will(0.0) try(0.0) to(0.0) define(0.0) the(0.0) Federal(1.0) Government(1.0) shutdown(1.0) and(0.0) this(0.0) compromise(1.0) in(0.0) terms(1.0) of(0.0) winners(0.0) and(0.0) losers(1.0) .(0.0) In(0.0) my(0.0) 
+opinion(0.0) ,(0.0) the(0.0) only(0.0) winner(0.0) is(0.0) the(0.0) American(0.0) people(0.0) and(0.0) our(0.0) Nation(1.0) 's(0.0) children(0.0) .(0.0) With(0.0) the(0.0) national(1.0) debt(1.0) soaring(0.0) 
+towards(0.0) $(0.0) 5(0.0) trillion(1.0) ,(0.0) its(0.0) good(0.0) to(0.0) see(0.0) that(0.0) Congress(0.0) and(0.0) the(0.0) President(1.0) are(0.0) finally(0.0) able(0.0) to(0.0) summon(0.0) the(0.0) 
+political(1.0) courage(0.0) to(0.0) make(0.0) the(0.0) difficult(0.0) choices(0.0) and(0.0) balance(0.0) the(0.0) budget(1.0) .(0.0) For(0.0) too(0.0) many(0.0) years(0.0) Congress(0.0) has(0.0) made(0.0) broken(0.0) 
+promises(1.0) and(0.0) half(0.0) hearted(0.0) attempts(0.0) to(0.0) balance(0.0) the(0.0) Federal(1.0) budget(1.0) .(0.0) Time(0.0) after(0.0) time(0.0) these(0.0) attempts(0.0) have(0.0) failed(0.0) because(0.0) many(0.0) 
+have(0.0) lacked(0.0) the(0.0) moral(1.0) fortitude(0.0) and(0.0) dedication(0.0) required(0.0) to(0.0) make(0.0) the(0.0) tough(0.0) decisions(0.0) .(0.0) We(0.0) can(0.0) not(0.0) continue(0.0) to(0.0) mortgage(1.0) 
+our(0.0) country(1.0) 's(0.0) future(0.0) anymore(0.0) .(0.0) I(0.0) am(0.0) committed(0.0) to(0.0) staying(0.0) the(0.0) course(0.0) for(0.0) the(0.0) sake(0.0) of(0.0) our(0.0) children(0.0) and(0.0) 
+for(0.0) America(1.0) 's(0.0) future(0.0) .(0.0) During(0.0) the(0.0) next(0.0) few(0.0) weeks(0.0) ,(0.0) we(0.0) will(0.0) negotiate(1.0) in(0.0) good(0.0) faith(0.0) with(0.0) the(0.0) administration(1.0) 
+in(0.0) an(0.0) effort(0.0) to(0.0) balance(0.0) the(0.0) budget(1.0) .(0.0) The(0.0) challenge(0.0) before(0.0) us(0.0) is(0.0) monumental(1.0) ,(0.0) but(0.0) I(0.0) am(0.0) confident(0.0) that(0.0) 
+we(0.0) will(0.0) overcome(0.0) the(0.0) obstacles(1.0) and(0.0) produce(0.0) a(0.0) responsible(0.0) fiscal(1.0) agreement(1.0) .(0.0) For(0.0) the(0.0) past(0.0) year(0.0) ,(0.0) I(0.0) have(0.0) worked(0.0) 
+hard(0.0) to(0.0) restore(1.0) an(0.0) attitude(0.0) of(0.0) fiscal(1.0) fitness(0.0) in(0.0) the(0.0) Congress(0.0) .(0.0) I(0.0) am(0.0) pleased(0.0) that(0.0) our(0.0) resolve(0.0) to(0.0) have(0.0) 
+a(0.0) judicious(0.0) balanced(0.0) budget(1.0) time-line(0.0) with(0.0) specific(0.0) CBO(1.0) numbers(0.0) has(0.0) finally(0.0) brought(0.0) everyone(0.0) under(0.0) the(0.0) same(0.0) tent(0.0) .(0.0) I(0.0) am(0.0) 
+looking(0.0) forward(0.0) to(0.0) the(0.0) negotiations(1.0) and(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) the(0.0) resolution(1.0) .(0.0) The(0.0) SPEAKER(0.0) pro(0.0) tempore(0.0) ((1.0) Mr.(0.0) 
+Ewing(1.0) )(0.0) .(0.0) All(0.0) time(0.0) has(0.0) expired(0.0) .(0.0) Pursuant(0.0) to(0.0) the(0.0) order(0.0) of(0.0) the(0.0) House(0.0) of(0.0) today(0.0) ,(0.0) the(0.0) previous(0.0) 
+question(0.0) is(0.0) ordered(0.0) .(0.0) The(0.0) question(0.0) is(0.0) on(0.0) the(0.0) motion(0.0) offered(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) Louisiana(1.0) [(0.0) Mr.(0.0) Livingston(1.0) ](0.0) 
+.(0.0) The(0.0) question(0.0) was(0.0) taken(0.0) ;(0.0) and(0.0) the(0.0) Speaker(0.0) pro(0.0) tempore(0.0) announced(1.0) that(0.0) the(0.0) ayes(1.0) appeared(0.0) to(0.0) have(0.0) it(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+bipartisan	compromise	continuing	resolution	that	will	fully	restore	Federal	Government	operations	
+commit	President	budget	Budget	CBO	numbers	
+constituents	fiscal	Federal	
+Government	President	
+fiscal	President	
+
+Federal	Government	shutdown	compromise	terms	losers	
+Nation	national	debt	
+trillion	President	
+political	budget	
+promises	Federal	budget	
+moral	mortgage	
+country	
+America	negotiate	administration	
+budget	monumental	
+obstacles	fiscal	agreement	
+restore	fiscal	
+budget	CBO	
+negotiations	resolution	(	
+Ewing	
+Louisiana	Livingston	
+announced	ayes	
+
+
+reads % = 0.14285714285714285

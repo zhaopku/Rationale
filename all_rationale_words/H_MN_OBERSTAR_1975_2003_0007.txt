@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) those(0.0) kinds(0.0) words(0.0) and(0.0) his(0.0) leadership(0.0) in(0.0) initiating(0.0) this(0.0) Special(0.0) Order(0.0) tonight(0.0) to(0.0) 
+focus(0.0) on(0.0) transportation(1.0) security(0.0) ,(0.0) homeland(1.0) security(0.0) .(0.0) We(0.0) have(0.0) made(0.0) a(0.0) great(0.0) deal(0.0) of(0.0) progress(0.0) on(0.0) aviation(1.0) security(0.0) ,(0.0) 
+thanks(0.0) to(0.0) the(0.0) tough(0.0) law(1.0) with(0.0) strong(0.0) deadlines(0.0) that(0.0) this(0.0) Congress(0.0) passed(0.0) ,(0.0) largely(0.0) initiated(1.0) by(0.0) the(0.0) Democratic(1.0) Caucus(1.0) on(0.0) 
+the(0.0) Committee(0.0) on(0.0) Transportation(0.0) and(0.0) Infrastructure(0.0) ;(0.0) but(0.0) we(0.0) have(0.0) made(0.0) little(0.0) progress(0.0) in(0.0) other(0.0) modes(0.0) by(0.0) comparison(0.0) .(0.0) The(0.0) 
+administration(1.0) has(0.0) been(0.0) unconscionably(1.0) slow(0.0) in(0.0) proposing(1.0) security(0.0) measures(0.0) and(0.0) requesting(0.0) the(0.0) necessary(0.0) funding(1.0) to(0.0) initiate(0.0) and(0.0) implement(0.0) those(0.0) measures(1.0) 
+.(0.0) Case(0.0) in(0.0) point(0.0) is(0.0) maritime(1.0) transportation(1.0) .(0.0) EPA(1.0) has(0.0) identified(0.0) 123(0.0) chemical(1.0) manufacturing(1.0) facilities(0.0) in(0.0) the(0.0) U.S.(0.0) where(0.0) toxic(1.0) 
+gases(1.0) released(0.0) by(0.0) a(0.0) terrorist(1.0) attack(0.0) could(0.0) kill(0.0) or(0.0) injure(0.0) more(0.0) than(0.0) 1(0.0) million(0.0) people(0.0) and(0.0) 700(0.0) other(0.0) chemical(1.0) facilities(0.0) 
+where(0.0) an(0.0) attack(0.0) could(0.0) kill(0.0) or(0.0) injure(0.0) 100,000(0.0) people(0.0) .(0.0) Most(0.0) of(0.0) those(0.0) 823(0.0) facilities(0.0) are(0.0) along(0.0) the(0.0) navigable(1.0) waterways(1.0) 
+of(0.0) the(0.0) United(0.0) States(0.0) .(0.0) The(0.0) Maritime(1.0) Transportation(0.0) Security(0.0) Act(0.0) ,(0.0) otherwise(0.0) known(0.0) as(0.0) the(0.0) port(0.0) security(0.0) bill(0.0) ,(0.0) requires(0.0) 
+the(0.0) Coast(0.0) Guard(0.0) to(0.0) undertake(0.0) a(0.0) vulnerability(0.0) assessment(0.0) of(0.0) each(0.0) of(0.0) those(0.0) facilities(0.0) and(0.0) requires(0.0) the(0.0) owner(0.0) to(0.0) have(0.0) the(0.0) 
+security(0.0) plan(0.0) approved(0.0) by(0.0) the(0.0) Coast(0.0) Guard(0.0) and(0.0) implemented(0.0) by(0.0) July(0.0) 1(0.0) of(0.0) next(0.0) year(0.0) .(0.0) Good(0.0) idea(0.0) ,(0.0) good(0.0) 
+plan(0.0) .(0.0) Implementation(0.0) in(0.0) serious(0.0) doubt(0.0) .(0.0) We(0.0) have(0.0) yet(0.0) to(0.0) see(0.0) any(0.0) plan(0.0) from(0.0) the(0.0) administration(1.0) for(0.0) conducting(0.0) vulnerability(0.0) 
+assessments(0.0) of(0.0) these(0.0) chemical(1.0) facilities(0.0) ,(0.0) let(0.0) alone(0.0) a(0.0) process(0.0) to(0.0) review(0.0) and(0.0) approve(0.0) the(0.0) security(0.0) plans(0.0) for(0.0) these(0.0) chemical(1.0) 
+time(0.0) bombs(1.0) .(0.0) The(0.0) Port(0.0) Security(0.0) Act(0.0) also(0.0) requires(0.0) the(0.0) Federal(1.0) Government(1.0) to(0.0) undertake(0.0) vulnerability(0.0) assessments(0.0) of(0.0) every(0.0) vessel(0.0) ,(0.0) 
+port(0.0) and(0.0) facility(0.0) to(0.0) assess(0.0) security(0.0) weaknesses(0.0) .(0.0) By(0.0) July(0.0) 1(0.0) of(0.0) next(0.0) year(0.0) ,(0.0) the(0.0) Coast(0.0) Guard(0.0) is(0.0) required(0.0) 
+to(0.0) review(0.0) and(0.0) approve(0.0) a(0.0) security(0.0) plan(0.0) for(0.0) each(0.0) port(0.0) ,(0.0) facility(0.0) and(0.0) vessel(0.0) .(0.0) If(0.0) it(0.0) does(0.0) not(0.0) have(0.0) 
+a(0.0) security(0.0) plan(0.0) ,(0.0) it(0.0) can(0.0) not(0.0) operate(0.0) .(0.0) Again(0.0) ,(0.0) slow(0.0) implementation(0.0) .(0.0) Only(0.0) in(0.0) the(0.0) past(0.0) week(0.0) has(0.0) 
+Secretary(1.0) Ridge(0.0) agreed(0.0) to(0.0) accelerate(0.0) the(0.0) rate(0.0) of(0.0) port(0.0) vulnerability(0.0) assessments(0.0) to(0.0) ensure(0.0) that(0.0) assessment(0.0) will(0.0) be(0.0) done(0.0) at(0.0) the(0.0) 
+Nation(1.0) 's(0.0) 55(0.0) largest(0.0) ports(0.0) by(0.0) the(0.0) end(0.0) of(0.0) next(0.0) year(0.0) .(0.0) There(0.0) are(0.0) 361(0.0) ports(0.0) in(0.0) the(0.0) United(0.0) States(0.0) 
+.(0.0) When(0.0) are(0.0) they(0.0) going(0.0) to(0.0) get(0.0) serious(0.0) about(0.0) this(0.0) ?(0.0) Then(0.0) we(0.0) have(0.0) the(0.0) Vessel(1.0) Security(0.0) Provisions(1.0) Maritime(0.0) Transportation(0.0) 
+Security(0.0) Act(0.0) .(0.0) In(0.0) the(0.0) December(0.0) 30(0.0) ,(0.0) 2002(0.0) ,(0.0) Federal(0.0) Register(0.0) ,(0.0) the(0.0) Coast(0.0) Guard(0.0) stated(0.0) it(0.0) was(0.0) going(0.0) 
+to(0.0) accept(0.0) the(0.0) security(0.0) certification(0.0) ,(0.0) pay(0.0) attention(0.0) to(0.0) this(0.0) ,(0.0) issued(0.0) by(0.0) the(0.0) foreign(0.0) government(1.0) where(0.0) the(0.0) vessel(0.0) is(0.0) 
+documented(0.0) .(0.0) That(0.0) means(0.0) the(0.0) U.S.(0.0) Coast(0.0) Guard(0.0) will(0.0) accept(0.0) security(0.0) certification(0.0) by(0.0) countries(1.0) such(0.0) as(0.0) Liberia(1.0) ,(0.0) Panama(1.0) ,(0.0) 
+Malta(0.0) ,(0.0) Cyprus(0.0) .(0.0) We(0.0) did(0.0) not(0.0) intend(0.0) the(0.0) security(0.0) of(0.0) the(0.0) Nation(1.0) to(0.0) be(0.0) placed(0.0) in(0.0) the(0.0) hands(0.0) of(0.0) 
+the(0.0) country(1.0) that(0.0) runs(0.0) those(0.0) flags(0.0) of(0.0) convenience(0.0) registers(0.0) .(0.0) We(0.0) expect(0.0) the(0.0) Coast(0.0) Guard(0.0) to(0.0) review(0.0) the(0.0) plans(0.0) 
+
+
+----- below are rationale words -----
+
+
+transportation	homeland	aviation	
+law	initiated	Democratic	Caucus	
+
+administration	unconscionably	proposing	funding	measures	
+maritime	transportation	EPA	chemical	manufacturing	toxic	
+gases	terrorist	chemical	
+navigable	waterways	
+Maritime	
+
+
+administration	
+chemical	chemical	
+bombs	Federal	Government	
+
+
+
+Secretary	
+Nation	
+Vessel	Provisions	
+
+government	
+countries	Liberia	Panama	
+Nation	
+country	
+
+reads % = 0.08

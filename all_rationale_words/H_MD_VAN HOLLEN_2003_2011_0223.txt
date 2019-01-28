@@ -1,0 +1,10 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) yield(0.0) 1(0.0) minute(1.0) to(0.0) the(0.0) gentlewoman(0.0) from(0.0) California(0.0) ((0.0) Mrs.(1.0) Davis(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+minute	Mrs.	Davis	
+
+reads % = 0.21428571428571427

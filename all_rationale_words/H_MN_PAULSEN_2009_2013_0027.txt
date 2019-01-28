@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) from(0.0) the(0.0) beginning(0.0) ,(0.0) it(0.0) was(0.0) clear(0.0) to(0.0) many(0.0) Americans(1.0) that(0.0) ObamaCare(1.0) was(0.0) far(0.0) too(0.0) burdensome(1.0) ,(0.0) far(0.0) too(0.0) 
+complex(0.0) ,(0.0) and(0.0) far(0.0) too(0.0) bureaucratic(1.0) to(0.0) be(0.0) successfully(0.0) implemented(0.0) .(0.0) And(0.0) now(0.0) it(0.0) appears(0.0) the(0.0) Obama(1.0) administration(1.0) agrees(0.0) .(0.0) 
+Just(0.0) a(0.0) few(0.0) weeks(0.0) ago(0.0) ,(0.0) the(0.0) administration(1.0) announces(0.0) on(0.0) a(0.0) blog(0.0) post(0.0) a(0.0) 1-year(0.0) delay(0.0) of(0.0) the(0.0) employer(0.0) mandate(1.0) 
+,(0.0) admitting(1.0) that(0.0) it(0.0) is(0.0) unworkable(1.0) .(0.0) Now(0.0) ,(0.0) I(0.0) 've(0.0) advised(0.0) hundreds(0.0) of(0.0) businesses(1.0) in(0.0) Minnesota(1.0) and(0.0) have(0.0) heard(0.0) 
+loud(0.0) and(0.0) clear(0.0) the(0.0) concerns(1.0) that(0.0) Obama(1.0) 's(0.0) mandates(1.0) and(0.0) rules(0.0) mean(0.0) increased(1.0) costs(1.0) ,(0.0) higher(1.0) taxes(1.0) ,(0.0) fewer(1.0) hours(0.0) 
+for(0.0) workers(1.0) ,(0.0) lost(0.0) jobs(1.0) and(0.0) layoffs(1.0) .(0.0) But(0.0) it(0.0) 's(0.0) not(0.0) fair(0.0) that(0.0) the(0.0) administration(1.0) is(0.0) choosing(0.0) to(0.0) let(0.0) 
+the(0.0) individual(0.0) mandate(1.0) take(0.0) effect(0.0) ,(0.0) letting(0.0) millions(1.0) of(0.0) average(0.0) Americans(1.0) be(0.0) hit(0.0) with(0.0) a(0.0) mandate(1.0) and(0.0) new(0.0) financial(1.0) penalties(1.0) 
+.(0.0) Why(0.0) is(0.0) the(0.0) administration(1.0) only(0.0) concerned(0.0) about(0.0) protecting(1.0) business(0.0) ,(0.0) but(0.0) not(0.0) hardworking(0.0) American(0.0) taxpayers(1.0) ?(0.0) Today(0.0) we(0.0) have(0.0) 
+an(0.0) opportunity(0.0) to(0.0) also(0.0) delay(0.0) the(0.0) individual(0.0) mandate(1.0) in(0.0) order(0.0) to(0.0) protect(1.0) all(0.0) Americans(1.0) .(0.0) This(0.0) is(0.0) an(0.0) issue(0.0) of(0.0) 
+fairness(1.0) .(0.0) Average(0.0) Americans(1.0) are(0.0) struggling(0.0) under(0.0) this(0.0) law(1.0) and(0.0) they(0.0) need(0.0) relief(1.0) .(0.0) They(0.0) need(0.0) protection(1.0) ,(0.0) and(0.0) they(0.0) 
+need(0.0) real(0.0) health(1.0) care(1.0) reform(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Americans	ObamaCare	burdensome	
+bureaucratic	Obama	administration	
+administration	mandate	
+admitting	unworkable	businesses	Minnesota	
+concerns	Obama	mandates	increased	costs	higher	taxes	fewer	
+workers	jobs	layoffs	administration	
+mandate	millions	Americans	mandate	financial	penalties	
+administration	protecting	taxpayers	
+mandate	protect	Americans	
+fairness	Americans	law	relief	protection	
+health	care	reform	
+
+reads % = 0.21256038647342995

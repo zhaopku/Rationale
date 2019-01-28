@@ -1,0 +1,36 @@
+This is from a Democrat
+----- below is the original text -----
+For(0.0) too(0.0) long(0.0) the(0.0) arts(1.0) have(0.0) been(0.0) the(0.0) first(0.0) target(0.0) for(0.0) spending(1.0) cuts(1.0) in(0.0) our(0.0) public(1.0) schools(1.0) here(0.0) at(0.0) the(0.0) Federal(1.0) 
+level(0.0) .(0.0) It(0.0) is(0.0) at(0.0) our(0.0) own(0.0) economic(1.0) peril(0.0) that(0.0) we(0.0) continue(0.0) to(0.0) deprive(1.0) our(0.0) youth(1.0) and(0.0) our(0.0) community(0.0) of(0.0) 
+their(0.0) connection(0.0) to(0.0) the(0.0) arts(1.0) .(0.0) I(0.0) have(0.0) seen(0.0) on(0.0) so(0.0) many(0.0) occasions(0.0) the(0.0) power(0.0) of(0.0) music(0.0) and(0.0) dance(0.0) and(0.0) 
+theater(1.0) to(0.0) ignite(1.0) the(0.0) imagination(0.0) of(0.0) a(0.0) young(0.0) person(0.0) ,(0.0) that(0.0) causes(0.0) them(0.0) to(0.0) stay(0.0) in(0.0) school(1.0) ,(0.0) to(0.0) follow(0.0) 
+their(0.0) passion(0.0) ,(0.0) and(0.0) ultimately(0.0) to(0.0) realize(0.0) their(0.0) dreams(0.0) .(0.0) Today(0.0) 's(0.0) global(1.0) economy(1.0) demands(1.0) an(0.0) even(0.0) greater(0.0) level(0.0) of(0.0) 
+creativity(0.0) ,(0.0) innovative(0.0) thinking(0.0) ,(0.0) and(0.0) entrepreneurship(1.0) ,(0.0) a(0.0) 21st(0.0) century(0.0) skill(0.0) set(0.0) that(0.0) is(0.0) enhanced(0.0) by(0.0) exposure(0.0) to(0.0) the(0.0) 
+arts(1.0) in(0.0) learning(0.0) and(0.0) in(0.0) daily(0.0) life(0.0) .(0.0) I(0.0) participated(0.0) in(0.0) an(0.0) arts(1.0) education(1.0) roundtable(1.0) with(0.0) CEOs(1.0) from(0.0) all(0.0) across(0.0) 
+the(0.0) country(1.0) who(0.0) said(0.0) that(0.0) those(0.0) skills(0.0) of(0.0) creative(0.0) problem(0.0) solving(0.0) ,(0.0) of(0.0) innovation(1.0) ,(0.0) of(0.0) entrepreneurship(1.0) were(0.0) skills(0.0) they(0.0) 
+were(0.0) looking(0.0) for(0.0) in(0.0) the(0.0) workers(1.0) of(0.0) the(0.0) 21st(0.0) century(0.0) .(0.0) And(0.0) the(0.0) arts(1.0) nourishes(0.0) and(0.0) enhances(0.0) those(0.0) skills(0.0) .(0.0) 
+We(0.0) can(0.0) not(0.0) underestimate(0.0) the(0.0) importance(0.0) of(0.0) maintaining(0.0) critical(0.0) Federal(1.0) funding(1.0) for(0.0) our(0.0) arts(1.0) to(0.0) fuel(1.0) our(0.0) national(1.0) economic(1.0) recovery(0.0) 
+,(0.0) to(0.0) grow(0.0) our(0.0) local(0.0) economies(1.0) ,(0.0) to(0.0) teach(0.0) our(0.0) children(0.0) ,(0.0) and(0.0) to(0.0) expand(1.0) our(0.0) civic(1.0) discourse(0.0) during(0.0) these(0.0) 
+trying(0.0) economic(1.0) times(0.0) .(0.0) I(0.0) strongly(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) reject(1.0) further(0.0) reductions(1.0) to(0.0) the(0.0) National(0.0) Endowment(0.0) for(0.0) the(0.0) Arts(0.0) 
+because(0.0) now(0.0) ,(0.0) more(0.0) than(0.0) ever(0.0) ,(0.0) we(0.0) need(0.0) the(0.0) National(0.0) Endowment(1.0) for(0.0) the(0.0) reawakening(1.0) ,(0.0) quickening(1.0) ,(0.0) and(0.0) unstunted(0.0) 
+growth(0.0) of(0.0) not(0.0) only(0.0) our(0.0) cultural(1.0) vitality(1.0) but(0.0) of(0.0) our(0.0) economic(1.0) prosperity(1.0) as(0.0) well(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+arts	spending	cuts	public	schools	Federal	
+economic	deprive	youth	
+arts	
+theater	ignite	school	
+global	economy	demands	
+entrepreneurship	
+arts	arts	education	roundtable	CEOs	
+country	innovation	entrepreneurship	
+workers	arts	
+Federal	funding	arts	fuel	national	economic	
+economies	expand	civic	
+economic	reject	reductions	
+Endowment	reawakening	quickening	
+cultural	vitality	economic	prosperity	
+
+reads % = 0.16666666666666666

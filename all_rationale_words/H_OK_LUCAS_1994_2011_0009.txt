@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) now(0.0) yield(0.0) 3(0.0) minutes(0.0) to(0.0) one(0.0) of(0.0) the(0.0) senior(0.0) members(0.0) of(0.0) the(0.0) House(0.0) Agriculture(0.0) Committee(0.0) and(0.0) one(0.0) 
+of(0.0) our(0.0) subcommittee(0.0) chairmen(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Illinois(1.0) ((0.0) Mr.(0.0) Johnson(1.0) )(0.0) .(0.0) Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) now(0.0) yield(0.0) 
+1(0.0) minute(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) York(1.0) ((0.0) Mr.(0.0) Gibson(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Illinois	Johnson	
+York	Gibson	
+
+reads % = 0.07407407407407407

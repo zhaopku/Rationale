@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) the(0.0) American(0.0) people(0.0) continue(0.0) to(0.0) struggle(1.0) in(0.0) this(0.0) difficult(0.0) economy(1.0) .(0.0) One(0.0) of(0.0) the(0.0) counties(1.0) in(0.0) my(0.0) North(0.0) 
+Carolina(0.0) district(0.0) is(0.0) now(0.0) suffering(0.0) with(0.0) the(0.0) State(0.0) 's(0.0) highest(0.0) unemployment(1.0) rate(1.0) .(0.0) Yes(0.0) ,(0.0) people(0.0) are(0.0) hurting(0.0) and(0.0) need(0.0) 
+to(0.0) be(0.0) put(0.0) back(0.0) to(0.0) work(0.0) .(0.0) The(0.0) transformation(0.0) of(0.0) our(0.0) Nation(1.0) 's(0.0) health(1.0) care(0.0) system(0.0) represents(0.0) an(0.0) enormous(1.0) opportunity(0.0) 
+to(0.0) create(0.0) jobs(0.0) and(0.0) fuel(1.0) economic(1.0) growth(1.0) .(0.0) Each(0.0) year(0.0) ,(0.0) our(0.0) health(1.0) care(1.0) reform(1.0) plan(1.0) will(0.0) create(0.0) 250,000(1.0) to(0.0) 
+400,000(1.0) jobs(1.0) .(0.0) These(0.0) reforms(1.0) will(0.0) also(0.0) allow(0.0) small(0.0) business(0.0) to(0.0) add(0.0) an(0.0) estimated(0.0) 80,000(0.0) jobs(1.0) .(0.0) Without(0.0) these(0.0) reforms(1.0) 
+,(0.0) the(0.0) health(1.0) care(1.0) premiums(1.0) paid(0.0) by(0.0) businesses(1.0) in(0.0) coming(0.0) years(0.0) will(0.0) more(0.0) than(0.0) double(0.0) .(0.0) Money(1.0) needlessly(1.0) spent(0.0) on(0.0) 
+health(1.0) care(1.0) premiums(1.0) by(0.0) small(0.0) businesses(1.0) is(0.0) really(0.0) needed(0.0) to(0.0) hire(0.0) workers(1.0) ,(0.0) increase(1.0) salaries(1.0) ,(0.0) and(0.0) refuel(1.0) the(0.0) economy(1.0) 
+.(0.0) Madam(0.0) Speaker(1.0) ,(0.0) Americans(1.0) can(0.0) not(0.0) afford(1.0) the(0.0) status(1.0) quo(0.0) .(0.0) Doing(0.0) nothing(0.0) is(0.0) not(0.0) an(0.0) option(0.0) .(0.0) I(0.0) 
+urge(0.0) my(0.0) colleagues(0.0) to(0.0) join(0.0) us(0.0) in(0.0) improving(0.0) the(0.0) health(1.0) care(0.0) delivery(0.0) system(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+struggle	economy	counties	
+unemployment	rate	
+Nation	health	enormous	
+fuel	economic	growth	health	care	reform	plan	250,000	
+400,000	jobs	reforms	jobs	reforms	
+health	care	premiums	businesses	Money	needlessly	
+health	care	premiums	businesses	workers	increase	salaries	refuel	economy	
+Speaker	Americans	afford	status	
+health	
+
+reads % = 0.2342857142857143

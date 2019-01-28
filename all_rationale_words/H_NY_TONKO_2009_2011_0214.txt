@@ -1,0 +1,46 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) think(0.0) the(0.0) people(0.0) feel(0.0) at(0.0) risk(0.0) when(0.0) they(0.0) believe(0.0) that(0.0) those(0.0) who(0.0) have(0.0) this(0.0) highest(0.0) concentration(0.0) of(0.0) wealth(1.0) have(0.0) just(0.0) 
+so(0.0) much(0.0) influence(0.0) on(0.0) the(0.0) outcome(0.0) in(0.0) Washington(1.0) that(0.0) it(0.0) 's(0.0) unacceptable(1.0) .(0.0) And(0.0) they(0.0) now(0.0) know(0.0) who(0.0) 's(0.0) paid(0.0) 
+the(0.0) price(0.0) .(0.0) You(0.0) know(0.0) ,(0.0) the(0.0) middle(1.0) class(0.0) ,(0.0) when(0.0) given(0.0) the(0.0) opportunity(0.0) ,(0.0) remains(0.0) silent(1.0) ,(0.0) or(0.0) at(0.0) 
+least(0.0) mildly(0.0) content(0.0) .(0.0) When(0.0) you(0.0) take(0.0) that(0.0) away(0.0) and(0.0) you(0.0) then(0.0) involve(0.0) this(0.0) unjust(1.0) outcome(0.0) to(0.0) impact(0.0) them(0.0) ,(0.0) 
+then(0.0) they(0.0) get(0.0) angry(0.0) .(0.0) So(0.0) the(0.0) outburst(1.0) here(0.0) is(0.0) we(0.0) need(0.0) the(0.0) investing(1.0) .(0.0) We(0.0) want(0.0) our(0.0) children(0.0) to(0.0) 
+have(0.0) the(0.0) opportunity(0.0) to(0.0) reach(0.0) for(0.0) the(0.0) American(0.0) Dream(0.0) .(0.0) It(0.0) has(0.0) always(0.0) been(0.0) the(0.0) passion(0.0) that(0.0) drives(0.0) this(0.0) country(1.0) 
+.(0.0) And(0.0) when(0.0) you(0.0) talked(0.0) about(0.0) the(0.0) global(1.0) race(0.0) on(0.0) space(0.0) during(0.0) the(0.0) JFK(1.0) years(0.0) ,(0.0) President(0.0) Kennedy(1.0) acknowledged(1.0) up(0.0) 
+front(0.0) we(0.0) 're(0.0) going(0.0) to(0.0) do(0.0) this(0.0) ,(0.0) not(0.0) because(0.0) it(0.0) 's(0.0) easy(0.0) ,(0.0) but(0.0) because(0.0) it(0.0) 's(0.0) hard(0.0) .(0.0) 
+People(0.0) know(0.0) that(0.0) these(0.0) are(0.0) tough(0.0) decisions(1.0) ,(0.0) but(0.0) they(0.0) also(0.0) want(0.0) to(0.0) hear(0.0) the(0.0) commitment(1.0) .(0.0) They(0.0) want(0.0) to(0.0) 
+hear(0.0) conviction(1.0) .(0.0) Are(0.0) we(0.0) going(0.0) to(0.0) support(0.0) ,(0.0) are(0.0) we(0.0) going(0.0) to(0.0) be(0.0) the(0.0) underpinnings(1.0) of(0.0) human(1.0) infrastructure(1.0) ,(0.0) 
+the(0.0) development(0.0) of(0.0) a(0.0) workforce(1.0) ,(0.0) training(0.0) ,(0.0) retraining(1.0) ,(0.0) education(1.0) ,(0.0) higher(0.0) education(1.0) ;(0.0) incentives(1.0) that(0.0) provide(0.0) for(0.0) research(0.0) 
+so(0.0) you(0.0) can(0.0) be(0.0) a(0.0) land(0.0) of(0.0) discovery(0.0) ,(0.0) a(0.0) land(0.0) of(0.0) creating(0.0) product(0.0) line(0.0) ,(0.0) of(0.0) traveling(0.0) into(0.0) new(0.0) 
+spheres(0.0) of(0.0) influence(1.0) that(0.0) can(0.0) just(0.0) express(0.0) the(0.0) magnanimous(1.0) quality(0.0) of(0.0) America(1.0) and(0.0) all(0.0) she(0.0) offers(0.0) ?(0.0) When(0.0) you(0.0) suffocate(0.0) 
+those(0.0) areas(0.0) of(0.0) potential(0.0) ,(0.0) you(0.0) 're(0.0) denying(1.0) the(0.0) middle(1.0) class(1.0) its(0.0) chance(0.0) at(0.0) the(0.0) American(0.0) Dream(0.0) .(0.0) And(0.0) that(0.0) 
+'s(0.0) what(0.0) this(0.0) is(0.0) about(0.0) .(0.0) People(0.0) see(0.0) undue(1.0) influence(0.0) coming(0.0) from(0.0) a(0.0) very(0.0) few(0.0) and(0.0) denying(1.0) the(0.0) vast(0.0) majority(1.0) 
+their(0.0) chance(0.0) at(0.0) the(0.0) American(0.0) Dream(0.0) .(0.0) And(0.0) that(0.0) 's(0.0) what(0.0) this(0.0) Nation(1.0) has(0.0) always(0.0) been(0.0) about(0.0) .(0.0) It(0.0) 's(0.0) 
+been(0.0) there(0.0) as(0.0) an(0.0) ideal(0.0) .(0.0) It's(0.0) been(0.0) a(0.0) beacon(0.0) of(0.0) hope(0.0) .(0.0) It(0.0) 's(0.0) seen(0.0) as(0.0) a(0.0) garden(0.0) of(0.0) 
+opportunity(0.0) ,(0.0) and(0.0) we(0.0) need(0.0) to(0.0) culture(1.0) ,(0.0) move(0.0) that(0.0) culture(1.0) forward(0.0) in(0.0) a(0.0) way(0.0) that(0.0) is(0.0) driven(0.0) by(0.0) sound(0.0) 
+programs(1.0) ,(0.0) sound(0.0) projects(0.0) ,(0.0) sound(0.0) policy(1.0) .(0.0) It(0.0) 's(0.0) about(0.0) the(0.0) programs(1.0) ,(0.0) projects(0.0) ,(0.0) and(0.0) policies(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+wealth	
+Washington	unacceptable	
+middle	silent	
+unjust	
+outburst	investing	
+country	
+global	JFK	Kennedy	acknowledged	
+
+decisions	commitment	
+conviction	underpinnings	human	infrastructure	
+workforce	retraining	education	education	incentives	
+
+influence	magnanimous	America	
+denying	middle	class	
+undue	denying	majority	
+Nation	
+
+culture	culture	
+programs	policy	programs	policies	
+
+reads % = 0.10526315789473684

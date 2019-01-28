@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) just(0.0) want(0.0) to(0.0) say(0.0) that(0.0) further(0.0) investing(1.0) in(0.0) water(1.0) recycling(1.0) is(0.0) sound(0.0) public(1.0) policy(1.0) .(0.0) This(0.0) bill(1.0) would(1.0) 
+allow(1.0) the(0.0) Bay(1.0) Area(0.0) to(0.0) reuse(0.0) water(0.0) .(0.0) This(0.0) legislation(1.0) would(1.0) not(0.0) mandate(1.0) additional(0.0) water(0.0) transfers(0.0) or(0.0) adversely(0.0) affect(0.0) California(1.0) 
+'s(0.0) Central(0.0) Valley(0.0) in(0.0) any(0.0) way(0.0) .(0.0) H.R(0.0) .(0.0) 2442(0.0) is(0.0) a(0.0) proactive(0.0) step(0.0) taken(0.0) by(0.0) our(0.0) delegation(1.0) to(0.0) address(0.0) 
+California(0.0) 's(0.0) water(0.0) situation(0.0) in(0.0) a(0.0) positive(0.0) way(0.0) .(0.0) I(0.0) 'd(0.0) like(0.0) to(0.0) yield(0.0) 2\1/2\(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) 
+Oregon(1.0) ((0.0) Mr.(0.0) Blumenauer(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+investing	water	recycling	public	policy	bill	would	
+allow	Bay	legislation	would	mandate	California	
+delegation	
+
+Oregon	Blumenauer	
+
+reads % = 0.1839080459770115

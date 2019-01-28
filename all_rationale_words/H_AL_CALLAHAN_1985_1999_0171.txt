@@ -1,0 +1,36 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) still(0.0) reserving(0.0) my(0.0) point(0.0) of(0.0) order(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) I(0.0) would(0.0) 
+like(0.0) to(0.0) enter(0.0) into(0.0) a(0.0) colloquy(0.0) with(0.0) the(0.0) gentleman(0.0) from(0.0) Florida(0.0) ((0.0) Mr.(0.0) Stearns(1.0) )(0.0) about(1.0) his(0.0) concerns(1.0) in(0.0) Kosovo(1.0) 
+and(0.0) mindless(0.0) killing(1.0) of(0.0) innocent(1.0) Serbian(1.0) citizens(0.0) who(0.0) are(0.0) trying(0.0) to(0.0) do(0.0) the(0.0) same(0.0) thing(0.0) that(0.0) the(0.0) Kosovars(1.0) were(0.0) doing(0.0) 
+when(0.0) they(0.0) actually(0.0) did(0.0) Kosovar(1.0) into(0.0) Albania(1.0) .(0.0) We(0.0) are(0.0) not(0.0) going(0.0) to(0.0) tolerate(0.0) that(0.0) .(0.0) With(0.0) respect(0.0) to(0.0) the(0.0) 
+gentleman(0.0) 's(0.0) concern(0.0) about(0.0) reconstruction(1.0) in(0.0) Kosovo(1.0) ,(0.0) as(0.0) subcommittee(0.0) chairman(0.0) ,(0.0) along(0.0) with(0.0) the(0.0) full(0.0) committee(0.0) chairman(0.0) ,(0.0) we(0.0) 
+have(0.0) a(0.0) full(0.0) hold(0.0) on(0.0) all(0.0) money(1.0) going(0.0) to(0.0) Kosovo(1.0) until(0.0) such(0.0) time(0.0) as(0.0) the(0.0) administration(1.0) proves(0.0) to(0.0) us(0.0) that(0.0) 
+the(0.0) money(1.0) is(0.0) going(0.0) to(0.0) be(0.0) spent(0.0) for(0.0) the(0.0) intended(0.0) purpose(0.0) of(0.0) refugee(1.0) assistance(0.0) .(0.0) The(0.0) United(0.0) States(0.0) can(0.0) not(0.0) 
+tolerate(0.0) the(0.0) slaughter(1.0) of(0.0) Serbs(1.0) .(0.0) They(0.0) are(0.0) faced(1.0) with(0.0) the(0.0) same(0.0) problem(0.0) ,(0.0) the(0.0) same(0.0) philosophical(0.0) differences(0.0) ,(0.0) but(0.0) 
+in(0.0) the(0.0) reverse(0.0) of(0.0) the(0.0) Kosovars(1.0) ;(0.0) and(0.0) we(0.0) can(0.0) not(0.0) tolerate(0.0) that(0.0) ,(0.0) and(0.0) we(0.0) must(0.0) insist(0.0) with(0.0) the(0.0) 
+administration(1.0) at(0.0) some(0.0) point(0.0) ,(0.0) which(0.0) I(0.0) think(0.0) I(0.0) can(0.0) do(0.0) that(0.0) as(0.0) chairman(0.0) of(0.0) this(0.0) subcommittee(0.0) ,(0.0) of(0.0) accountability(1.0) 
+.(0.0) Give(0.0) us(0.0) the(0.0) accountability(1.0) of(0.0) what(0.0) is(0.0) taking(0.0) place(0.0) there(0.0) .(0.0) How(0.0) can(0.0) we(0.0) continue(0.0) to(0.0) tolerate(0.0) this(0.0) ?(0.0) 
+Or(0.0) how(0.0) can(0.0) we(0.0) continue(0.0) not(0.0) to(0.0) speak(0.0) out(0.0) so(0.0) openly(0.0) against(0.0) the(0.0) same(0.0) atrocities(1.0) that(0.0) led(0.0) this(0.0) Congress(0.0) to(0.0) 
+appropriate(0.0) the(0.0) millions(1.0) of(0.0) dollars(1.0) that(0.0) we(0.0) sent(0.0) to(0.0) Kosovo(1.0) and(0.0) the(0.0) front-line(1.0) states(0.0) .(0.0) So(0.0) I(0.0) share(0.0) my(0.0) colleagues(0.0) 
+'(0.0) concerns(0.0) ,(0.0) but(0.0) I(0.0) still(0.0) reserve(0.0) my(0.0) point(0.0) of(0.0) order(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Stearns	about	concerns	Kosovo	
+killing	innocent	Serbian	Kosovars	
+Kosovar	Albania	
+reconstruction	Kosovo	
+money	Kosovo	administration	
+money	refugee	
+slaughter	Serbs	faced	
+Kosovars	
+administration	accountability	
+accountability	
+atrocities	
+millions	dollars	Kosovo	front-line	
+
+
+reads % = 0.10622710622710622

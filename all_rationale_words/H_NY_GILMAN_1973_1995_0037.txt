@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) yield(0.0) 5(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) [(0.0) Mr.(0.0) Combest(1.0) ](0.0) ,(0.0) the(0.0) chairman(0.0) of(0.0) the(0.0) Permanent(0.0) 
+Select(0.0) Committee(0.0) on(0.0) Intelligence(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Combest	
+
+
+reads % = 0.038461538461538464

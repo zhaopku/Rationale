@@ -1,0 +1,36 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) H.R(1.0) .(0.0) 700(0.0) would(0.0) remove(0.0) a(0.0) revenue(0.0) distribution(0.0) restriction(1.0) created(0.0) in(0.0) Public(1.0) Law(1.0) 86-339(0.0) ,(0.0) a(0.0) 1959(0.0) statute(0.0) 
+which(0.0) related(0.0) in(0.0) part(0.0) to(0.0) the(0.0) distribution(0.0) of(0.0) certain(0.0) revenues(0.0) to(0.0) certain(0.0) members(0.0) of(0.0) the(0.0) Agua(0.0) Caliente(0.0) Band(0.0) of(0.0) Cahuilla(0.0) 
+Indians(0.0) .(0.0) This(0.0) bill(0.0) is(0.0) an(0.0) amended(0.0) version(0.0) of(0.0) H.R(0.0) .(0.0) 700(0.0) which(0.0) we(0.0) passed(0.0) last(0.0) year(0.0) .(0.0) Since(0.0) we(0.0) 
+passed(0.0) H.R(0.0) .(0.0) 700(0.0) last(0.0) year(0.0) ,(0.0) the(0.0) Bureau(0.0) of(0.0) Indian(0.0) Affairs(0.0) and(0.0) the(0.0) Agua(0.0) Caliente(0.0) Band(0.0) have(0.0) discovered(0.0) that(0.0) 
+a(0.0) different(0.0) piece(0.0) of(0.0) legislation(0.0) is(0.0) needed(0.0) .(0.0) H.R(0.0) .(0.0) 700(0.0) ,(0.0) as(0.0) amended(0.0) ,(0.0) reflects(0.0) the(0.0) changes(0.0) which(0.0) the(0.0) 
+Senate(0.0) Committee(0.0) on(0.0) Indian(0.0) Affairs(0.0) has(0.0) made(0.0) to(0.0) the(0.0) bill(0.0) which(0.0) we(0.0) passed(0.0) last(0.0) year(0.0) .(0.0) I(0.0) agree(0.0) with(0.0) those(0.0) 
+amendments(1.0) .(0.0) H.R(0.0) .(0.0) 700(0.0) ,(0.0) as(0.0) amended(0.0) ,(0.0) finds(0.0) that(0.0) equalization(1.0) allotments(0.0) on(0.0) the(0.0) Agua(0.0) Caliente(0.0) Reservation(0.0) have(0.0) been(0.0) 
+completed(0.0) and(0.0) that(0.0) the(0.0) regulations(1.0) governing(1.0) the(0.0) equalization(1.0) allotments(0.0) under(0.0) the(0.0) 1959(0.0) Agua(0.0) Caliente(0.0) Equalization(0.0) Act(0.0) were(0.0) rescinded(0.0) in(0.0) 1983(0.0) 
+.(0.0) H.R(0.0) .(0.0) 700(0.0) ,(0.0) as(0.0) amended(0.0) ,(0.0) provides(0.0) that(0.0) the(0.0) special(0.0) entitlements(1.0) of(0.0) certain(0.0) members(0.0) of(0.0) the(0.0) Band(0.0) have(0.0) 
+expired(0.0) and(0.0) ,(0.0) thus(0.0) ,(0.0) that(0.0) any(0.0) per(0.0) capita(1.0) distribution(0.0) of(0.0) tribal(1.0) revenues(0.0) of(0.0) the(0.0) Band(0.0) shall(0.0) be(0.0) made(0.0) to(0.0) 
+all(0.0) members(0.0) of(0.0) the(0.0) Band(0.0) in(0.0) equal(0.0) amounts(0.0) .(0.0) This(0.0) is(0.0) a(0.0) fair(0.0) and(0.0) equitable(1.0) bill(0.0) .(0.0) It(0.0) will(0.0) have(0.0) 
+no(0.0) impact(0.0) on(0.0) the(0.0) Federal(1.0) budget(1.0) ,(0.0) contains(0.0) no(0.0) intergovernmental(1.0) or(0.0) private(0.0) sector(0.0) mandates(1.0) ,(0.0) and(0.0) would(0.0) impose(1.0) no(0.0) costs(0.0) 
+on(0.0) state(1.0) ,(0.0) local(1.0) or(0.0) tribal(0.0) governments(1.0) .(0.0) I(0.0) recommend(0.0) that(0.0) H.R(0.0) .(0.0) 700(0.0) be(0.0) adopted(1.0) by(0.0) this(0.0) body(0.0) .(0.0) 
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	H.R	restriction	Public	Law	
+
+
+
+
+
+amendments	equalization	
+regulations	governing	equalization	
+entitlements	
+capita	tribal	
+equitable	
+Federal	budget	intergovernmental	mandates	impose	
+state	local	governments	adopted	
+Speaker	
+
+reads % = 0.08823529411764706

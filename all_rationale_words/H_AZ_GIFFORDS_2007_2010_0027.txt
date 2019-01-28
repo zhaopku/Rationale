@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+When(0.0) the(0.0) National(0.0) Guard(0.0) was(0.0) blindly(0.0) deployed(0.0) early(0.0) this(0.0) month(0.0) --(0.0) which(0.0) took(0.0) a(0.0) lot(0.0) of(0.0) work(0.0) from(0.0) many(0.0) of(0.0) us(0.0) 
+to(0.0) have(0.0) the(0.0) National(0.0) Guard(0.0) back(0.0) on(0.0) the(0.0) border(0.0) --(0.0) they(0.0) were(0.0) designed(0.0) to(0.0) be(0.0) deployed(0.0) not(0.0) in(0.0) a(0.0) vacuum(0.0) 
+.(0.0) They(0.0) were(0.0) designed(0.0) to(0.0) have(0.0) members(0.0) of(0.0) our(0.0) Border(1.0) Patrol(0.0) trained(0.0) up(0.0) so(0.0) that(0.0) the(0.0) Guard(0.0) would(0.0) n't(0.0) have(0.0) 
+to(0.0) be(0.0) there(0.0) forever(0.0) and(0.0) that(0.0) we(0.0) would(0.0) have(0.0) increased(0.0) forward(0.0) operating(0.0) bases(0.0) ,(0.0) that(0.0) we(0.0) would(0.0) have(0.0) an(0.0) increased(0.0) 
+aerial(0.0) surveillance(1.0) system(0.0) ,(0.0) that(0.0) we(0.0) would(0.0) have(0.0) a(0.0) beefing(0.0) up(0.0) at(0.0) the(0.0) ports(0.0) of(0.0) entry(0.0) .(0.0) This(0.0) was(0.0) all(0.0) 
+designed(0.0) with(0.0) this(0.0) emergency(1.0) supplemental(0.0) funding(1.0) in(0.0) mind(0.0) ,(0.0) and(0.0) the(0.0) Senate(1.0) blew(0.0) it(0.0) again(0.0) .(0.0) This(0.0) is(0.0) not(0.0) a(0.0) 
+partisan(1.0) issue(0.0) .(0.0) This(0.0) is(0.0) something(0.0) that(0.0) Democrats(0.0) and(0.0) Republicans(0.0) can(1.0) do(1.0) to(1.0) fight(1.0) for(1.0) what's(1.0) right(1.0) for(1.0) the(1.0) people(1.0) 
+of(1.0) America(1.0) .(1.0) Madam(0.0) Speaker(1.0) ,(1.0) I(1.0) serve(1.0) on(0.0) the(0.0) House(0.0) Armed(1.0) Services(1.0) Committee(0.0) .(0.0) We(0.0) pass(0.0) very(0.0) large(0.0) budgets(1.0) 
+securing(1.0) America(1.0) 's(0.0) interests(1.0) ,(0.0) and(0.0) it(0.0) is(0.0) critical(0.0) that(0.0) we(0.0) get(0.0) this(0.0) job(0.0) done(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+Border	
+
+surveillance	
+emergency	funding	Senate	
+partisan	can	do	to	fight	for	what's	right	for	the	people	
+of	America	.	Speaker	,	I	serve	Armed	Services	budgets	
+securing	America	interests	
+
+reads % = 0.1638418079096045

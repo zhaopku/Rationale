@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) in(0.0) Texas(1.0) ,(0.0) and(0.0) I(0.0) will(0.0) take(0.0) the(0.0) opportunity(0.0) ,(0.0) in(0.0) fact(0.0) ,(0.0) to(0.0) ask(0.0) my(0.0) good(0.0) friend(0.0) ,(0.0) 
+the(0.0) State(1.0) Senator(0.0) ,(0.0) John(0.0) Whitmire(1.0) ,(0.0) who(0.0) led(0.0) the(0.0) effort(0.0) to(0.0) reform(1.0) the(0.0) penal(1.0) code(0.0) in(0.0) Texas(1.0) ,(0.0) to(0.0) 
+come(0.0) up(0.0) here(0.0) and(0.0) talk(0.0) to(0.0) Members(0.0) of(0.0) the(0.0) House(0.0) about(0.0) what(0.0) we(0.0) have(0.0) done(0.0) in(0.0) Texas(1.0) to(0.0) ensure(0.0) that(0.0) 
+in(0.0) Texas(1.0) ,(0.0) if(0.0) you(0.0) do(0.0) the(0.0) crime(1.0) ,(0.0) you(0.0) serve(0.0) the(0.0) time(0.0) .(0.0) I(0.0) will(0.0) bring(0.0) him(0.0) up(0.0) ,(0.0) 
+so(0.0) we(0.0) are(0.0) trying(0.0) to(0.0) make(0.0) this(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Texas	
+State	Whitmire	reform	penal	Texas	
+Texas	
+Texas	crime	
+
+
+reads % = 0.10112359550561797

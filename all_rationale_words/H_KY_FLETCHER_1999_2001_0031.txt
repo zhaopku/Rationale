@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) House(0.0) Concurrent(1.0) Resolution(0.0) 204(0.0) ,(0.0) expressing(0.0) the(0.0) sense(0.0) of(0.0) Congress(0.0) regarding(0.0) the(0.0) establishment(0.0) 
+of(0.0) National(0.0) Character(0.0) Counts(0.0) Week(0.0) and(0.0) would(0.0) like(0.0) to(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) ((0.0) Mr.(0.0) Smith(1.0) )(0.0) and(0.0) the(0.0) 
+gentleman(0.0) from(0.0) Virginia(0.0) ((0.0) Mr.(0.0) Scott(1.0) )(0.0) for(1.0) introducing(1.0) this(0.0) resolution(1.0) and(0.0) in(0.0) their(0.0) efforts(1.0) regarding(0.0) character(0.0) education(1.0) .(0.0) With(0.0) 
+the(0.0) growing(0.0) concern(0.0) for(0.0) the(0.0) safety(0.0) of(0.0) students(0.0) and(0.0) teachers(0.0) ,(0.0) many(0.0) have(0.0) looked(0.0) to(0.0) character(0.0) education(1.0) in(0.0) the(0.0) schools(1.0) 
+as(0.0) a(0.0) solution(0.0) .(0.0) Making(0.0) appropriate(0.0) and(0.0) good(0.0) choices(0.0) in(0.0) life(0.0) relies(0.0) upon(0.0) strong(0.0) character(0.0) ,(0.0) yet(0.0) some(0.0) children(0.0) do(0.0) 
+not(0.0) get(0.0) much(0.0) guidance(0.0) or(0.0) support(0.0) for(0.0) character(0.0) development(0.0) .(0.0) Supporting(0.0) the(0.0) ethical(1.0) ,(0.0) social(0.0) and(0.0) emotional(0.0) development(0.0) of(0.0) children(0.0) 
+will(0.0) help(0.0) to(0.0) create(0.0) better(0.0) schools(1.0) and(0.0) a(0.0) more(0.0) compassionate(1.0) and(0.0) responsible(0.0) society(1.0) .(0.0) In(0.0) the(0.0) past(0.0) ,(0.0) those(0.0) who(0.0) 
+have(0.0) helped(0.0) parents(0.0) reinforce(0.0) the(0.0) values(0.0) of(0.0) their(0.0) children(0.0) ,(0.0) neighbors(0.0) ,(0.0) coaches(0.0) ,(0.0) teachers(0.0) ,(0.0) guidance(0.0) counselors(0.0) ,(0.0) and(0.0) 
+many(0.0) others(0.0) would(0.0) not(0.0) necessarily(0.0) have(0.0) recognized(0.0) their(0.0) role(0.0) as(0.0) a(0.0) character(0.0) educator(0.0) .(0.0) It(0.0) was(0.0) just(0.0) something(0.0) that(0.0) friends(0.0) 
+and(0.0) family(0.0) did(0.0) to(0.0) foster(1.0) a(0.0) sense(0.0) of(0.0) community(0.0) among(0.0) its(0.0) youngest(0.0) members(0.0) .(0.0) Unfortunately(0.0) ,(0.0) in(0.0) an(0.0) increasingly(0.0) transient(0.0) 
+society(1.0) ,(0.0) where(0.0) both(0.0) parents(0.0) often(0.0) work(0.0) ,(0.0) this(0.0) traditional(0.0) model(0.0) has(0.0) been(0.0) abandoned(0.0) .(0.0) As(0.0) a(0.0) result(0.0) ,(0.0) it(0.0) 
+now(0.0) seems(0.0) that(0.0) some(0.0) children(0.0) lack(1.0) the(0.0) basic(0.0) values(0.0) that(0.0) would(0.0) not(0.0) only(0.0) help(0.0) them(0.0) avoid(0.0) such(0.0) things(0.0) as(0.0) unwanted(0.0) 
+pregnancies(0.0) ,(0.0) drugs(1.0) ,(0.0) school(1.0) violence(1.0) ,(0.0) and(0.0) alcohol(1.0) problems(0.0) ,(0.0) but(0.0) also(0.0) teach(0.0) them(0.0) the(0.0) importance(0.0) of(0.0) being(0.0) respectful(0.0) 
+and(0.0) honest(0.0) .(0.0) Today(0.0) ,(0.0) every(0.0) teacher(0.0) and(0.0) every(0.0) student(0.0) can(0.0) articulate(0.0) the(0.0) consequences(1.0) of(0.0) this(0.0) neglect(1.0) .(0.0) The(0.0) recent(0.0) 
+rash(0.0) of(0.0) school(0.0) shootings(1.0) is(0.0) one(0.0) example(0.0) ,(0.0) but(0.0) so(0.0) is(0.0) the(0.0) low(0.0) voter(1.0) turnout(1.0) among(0.0) young(1.0) people(0.0) and(0.0) their(0.0) 
+lack(0.0) of(0.0) involvement(1.0) in(0.0) community(1.0) organizations(1.0) .(0.0) As(0.0) a(0.0) result(0.0) ,(0.0) many(0.0) Americans(1.0) are(0.0) looking(0.0) to(0.0) character(0.0) education(1.0) as(0.0) one(0.0) 
+possible(0.0) solution(0.0) to(0.0) the(0.0) problems(0.0) that(0.0) plague(1.0) our(0.0) classrooms(1.0) and(0.0) our(0.0) communities(1.0) .(0.0) Research(0.0) indicates(0.0) that(0.0) character(0.0) education(1.0) can(0.0) help(0.0) 
+improve(0.0) behavior(0.0) as(0.0) well(0.0) as(0.0) academic(0.0) achievement(0.0) .(0.0) A(0.0) University(0.0) of(0.0) Illinois(1.0) study(0.0) of(0.0) four(0.0) schools(0.0) using(0.0) the(0.0) ``(0.0) Positive(0.0) 
+Action(0.0) ''(0.0) character(0.0) development(0.0) program(0.0) found(0.0) that(0.0) the(0.0) average(0.0) number(0.0) of(0.0) incidents(0.0) requiring(0.0) disciplinary(0.0) referral(0.0) dropped(0.0) by(0.0) 74(0.0) percent(0.0) after(0.0) 
+one(0.0) year(0.0) ,(0.0) and(0.0) achievement(0.0) scores(0.0) improved(0.0) by(0.0) an(0.0) average(0.0) of(0.0) 28(0.0) percentage(0.0) points(0.0) .(0.0) Standardized(0.0) test(0.0) scores(0.0) of(0.0) students(0.0) 
+exposed(0.0) to(0.0) the(0.0) ``(0.0) Responsive(0.0) Classroom(0.0) ''(0.0) program(0.0) ,(0.0) which(0.0) emphasizes(1.0) good(0.0) character(0.0) ,(0.0) increased(0.0) 22(0.0) percent(0.0) on(0.0) average(0.0) ,(0.0) 
+versus(0.0) just(0.0) three(0.0) percent(0.0) for(0.0) students(0.0) not(0.0) participating(0.0) in(0.0) the(0.0) program(0.0) .(0.0) A(0.0) 1997(0.0) study(0.0) demonstrated(0.0) that(0.0) students(0.0) trained(0.0) in(0.0) 
+``(0.0) Second(0.0) Step(0.0) ,(0.0) ''(0.0) a(0.0) character-based(0.0) violence(0.0) prevention(1.0) program(1.0) ,(0.0) used(0.0) less(0.0) physical(0.0) aggression(0.0) and(0.0) engaged(0.0) in(0.0) more(0.0) pro-social(1.0) 
+interactions(0.0) than(0.0) peers(0.0) who(0.0) were(0.0) not(0.0) exposed(0.0) to(0.0) the(0.0) character(0.0) curriculum(0.0) .(0.0) I(0.0) applaud(0.0) the(0.0) efforts(1.0) of(0.0) President(1.0) Bush(1.0) to(0.0) 
+improve(0.0) the(0.0) academic(0.0) achievement(0.0) of(0.0) our(0.0) Nation(1.0) 's(0.0) youth(1.0) and(0.0) his(0.0) plan(0.0) or(0.0) improving(0.0) our(0.0) students(0.0) '(0.0) character(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	Concurrent	
+Smith	
+Scott	for	introducing	resolution	efforts	education	
+education	schools	
+
+ethical	
+schools	compassionate	society	
+
+
+foster	
+society	
+lack	
+drugs	school	violence	alcohol	
+consequences	neglect	
+shootings	voter	turnout	young	
+involvement	community	organizations	Americans	education	
+plague	classrooms	communities	education	
+Illinois	
+
+
+emphasizes	
+
+prevention	program	pro-social	
+efforts	President	Bush	
+Nation	youth	
+
+reads % = 0.094

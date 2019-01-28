@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) simply(0.0) would(0.0) like(0.0) to(0.0) say(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Georgia(1.0) ,(0.0) we(0.0) are(0.0) going(0.0) to(0.0) be(0.0) giving(0.0) everyone(0.0) 
+an(0.0) opportunity(0.0) to(0.0) let(0.0) people(0.0) know(0.0) where(0.0) the(0.0) money(1.0) comes(0.0) from(0.0) and(0.0) where(0.0) it(0.0) goes(0.0) with(0.0) the(0.0) motion(1.0) to(0.0) recommit(1.0) 
+.(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) yield(0.0) 2(0.0) minutes(0.0) to(0.0) the(0.0) gentlewoman(0.0) from(0.0) Missouri(1.0) [(0.0) Ms.(1.0) MCCarthy(0.0) ](0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Georgia	
+money	motion	recommit	
+Chairman	Missouri	Ms.	
+
+reads % = 0.11864406779661017

@@ -1,0 +1,40 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) rise(0.0) to(0.0) support(0.0) the(0.0) amendment(1.0) with(0.0) the(0.0) gentleman(0.0) from(0.0) Ohio(1.0) .(0.0) Having(0.0) had(0.0) the(0.0) accommodation(0.0) that(0.0) 
+he(0.0) granted(0.0) a(0.0) moment(0.0) ago(0.0) in(0.0) the(0.0) modification(0.0) ,(0.0) I(0.0) think(0.0) the(0.0) gentleman(0.0) has(0.0) been(0.0) gracious(0.0) about(0.0) that(0.0) .(0.0) In(0.0) 
+principle(1.0) I(0.0) have(0.0) agreed(0.0) with(0.0) him(0.0) all(0.0) along(0.0) ,(0.0) that(0.0) the(0.0) idea(0.0) of(0.0) a(0.0) child(0.0) ,(0.0) a(0.0) youngster(0.0) ,(0.0) losing(0.0) 
+their(0.0) driving(0.0) privileges(1.0) is(0.0) an(0.0) extraordinary(0.0) incentive(1.0) .(0.0) That(0.0) is(0.0) probably(0.0) the(0.0) best(0.0) disciplinary(0.0) tool(0.0) we(0.0) have(0.0) got(0.0) for(0.0) a(0.0) 
+teenager(0.0) ,(0.0) and(0.0) I(0.0) think(0.0) that(0.0) it(0.0) does(0.0) work(0.0) .(0.0) The(0.0) only(0.0) question(0.0) I(0.0) ever(0.0) had(0.0) was(0.0) the(0.0) attachment(0.0) as(0.0) 
+a(0.0) condition(0.0) that(0.0) perhaps(0.0) in(0.0) some(0.0) larger(0.0) States(0.0) in(0.0) the(0.0) Nation(1.0) ,(0.0) cost(1.0) the(0.0) money(1.0) in(0.0) this(0.0) bill(1.0) if(1.0) their(0.0) 
+legislatures(1.0) did(0.0) not(0.0) go(0.0) along(0.0) ,(0.0) which(0.0) they(0.0) might(0.0) well(0.0) not(0.0) ,(0.0) and(0.0) the(0.0) money(1.0) ,(0.0) being(0.0) money(1.0) in(0.0) this(0.0) 
+base(0.0) bill(1.0) that(0.0) goes(0.0) to(0.0) improvement(0.0) of(0.0) the(0.0) juvenile(1.0) justice(1.0) systems(0.0) and(0.0) the(0.0) States(0.0) for(0.0) more(0.0) juvenile(1.0) judges(0.0) ,(0.0) probation(1.0) 
+officers(0.0) and(0.0) so(0.0) forth(0.0) ,(0.0) that(0.0) is(0.0) extraordinarily(0.0) important(0.0) .(0.0) The(0.0) only(0.0) restriction(1.0) in(0.0) the(0.0) bill(1.0) other(0.0) than(0.0) this(0.0) one(0.0) 
+that(0.0) exists(0.0) is(0.0) the(0.0) one(0.0) on(0.0) requiring(1.0) States(0.0) to(0.0) demonstrate(0.0) graduated(0.0) sanctions(1.0) punishing(0.0) the(0.0) first(0.0) time(0.0) offender(1.0) ,(0.0) which(0.0) is(0.0) 
+not(0.0) happening(0.0) right(0.0) now(0.0) ,(0.0) and(0.0) we(0.0) are(0.0) worried(0.0) about(0.0) putting(0.0) consequences(1.0) ,(0.0) and(0.0) ,(0.0) as(0.0) the(0.0) gentleman(0.0) knows(0.0) ,(0.0) 
+and(0.0) accountability(1.0) into(0.0) the(0.0) law(1.0) now(0.0) making(0.0) sure(0.0) that(0.0) from(0.0) the(0.0) very(0.0) first(0.0) early(0.0) delinquent(0.0) act(0.0) a(0.0) child(0.0) receives(0.0) some(0.0) 
+kind(0.0) of(0.0) sanction(1.0) .(0.0) So(0.0) I(0.0) understand(0.0) the(0.0) gentleman(0.0) has(0.0) been(0.0) sympathetic(0.0) to(0.0) my(0.0) concerns(0.0) ,(0.0) I(0.0) am(0.0) sympathetic(0.0) to(0.0) 
+his(0.0) ,(0.0) and(0.0) with(0.0) the(0.0) reduction(1.0) of(0.0) the(0.0) amount(0.0) of(0.0) loss(0.0) of(0.0) money(1.0) for(0.0) failing(1.0) to(0.0) do(0.0) this(0.0) to(0.0) a(0.0) 
+State(0.0) down(0.0) to(0.0) 10(0.0) percent(0.0) as(0.0) the(0.0) condition(0.0) ,(0.0) I(0.0) support(0.0) the(0.0) gentleman(0.0) 's(0.0) amendment(1.0) ,(0.0) and(0.0) I(0.0) appreciate(0.0) his(0.0) 
+accommodation(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+amendment	Ohio	
+
+principle	
+privileges	incentive	
+
+Nation	cost	money	bill	if	
+legislatures	money	money	
+bill	juvenile	justice	juvenile	probation	
+restriction	bill	
+requiring	sanctions	offender	
+consequences	
+accountability	law	
+sanction	
+reduction	money	failing	
+amendment	
+
+
+reads % = 0.10231023102310231

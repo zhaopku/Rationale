@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) to(0.0) speak(0.0) about(0.0) the(0.0) troubled(0.0) state(1.0) of(0.0) our(0.0) world(0.0) 's(0.0) oceans(1.0) .(0.0) Last(0.0) month(0.0) ,(0.0) 
+I(0.0) attended(0.0) an(0.0) ocean(0.0) science(0.0) summit(0.0) in(0.0) Monterey(1.0) ,(0.0) California(1.0) .(0.0) Also(0.0) there(0.0) were(0.0) State(0.0) and(0.0) Federal(1.0) policymakers(1.0) and(0.0) scientists(0.0) 
+concerned(0.0) about(0.0) our(0.0) oceans(1.0) and(0.0) the(0.0) lack(0.0) of(0.0) attention(0.0) our(0.0) Federal(1.0) Government(1.0) has(0.0) given(0.0) them(0.0) .(0.0) This(0.0) year(0.0) 's(0.0) summit(0.0) 
+marked(0.0) the(0.0) 10-year(1.0) anniversary(0.0) of(0.0) the(0.0) Year(0.0) of(0.0) the(0.0) Ocean(0.0) and(0.0) the(0.0) oceans(1.0) conference(0.0) in(0.0) Monterey(1.0) attended(0.0) by(0.0) President(0.0) Clinton(1.0) 
+and(0.0) Vice(0.0) President(0.0) Gore(1.0) .(0.0) In(0.0) the(0.0) intervening(0.0) 10(0.0) years(0.0) ,(0.0) the(0.0) Federal(1.0) Government(1.0) has(0.0) done(0.0) little(0.0) to(0.0) address(0.0) the(0.0) 
+oceans(1.0) '(0.0) growing(0.0) problems(0.0) ,(0.0) ranging(0.0) from(0.0) overfishing(1.0) to(0.0) pollution(1.0) to(0.0) coastal(1.0) development(0.0) and(0.0) global(1.0) warming(1.0) .(0.0) California(0.0) and(0.0) Massachusetts(1.0) 
+have(0.0) had(0.0) to(0.0) step(0.0) into(0.0) the(0.0) breach(1.0) ,(0.0) but(0.0) problems(0.0) as(0.0) big(0.0) as(0.0) our(0.0) oceans(1.0) ca(0.0) n't(0.0) be(0.0) addressed(0.0) by(0.0) 
+a(0.0) few(0.0) States(0.0) .(0.0) Fortunately(0.0) ,(0.0) there(0.0) is(0.0) a(0.0) solution(0.0) .(0.0) Oceans(1.0) 21(0.0) ,(0.0) introduced(0.0) by(0.0) Representative(1.0) Farr(1.0) and(0.0) moving(0.0) 
+through(0.0) the(0.0) Natural(0.0) Resources(0.0) Committee(0.0) now(0.0) ,(0.0) establishes(0.0) a(0.0) national(0.0) oceans(0.0) policy(0.0) and(0.0) a(0.0) framework(0.0) for(0.0) national(0.0) and(0.0) regional(0.0) management(0.0) 
+of(0.0) our(0.0) shared(0.0) ocean(0.0) resources(0.0) .(0.0) I(0.0) strongly(0.0) urge(1.0) my(0.0) colleagues(0.0) to(0.0) sponsor(0.0) Oceans(1.0) 21(0.0) .(0.0) Join(0.0) us(0.0) ,(0.0) and(0.0) 
+help(0.0) provide(0.0) stewardship(1.0) for(0.0) this(0.0) vast(1.0) resource(1.0) and(0.0) protect(0.0) it(0.0) for(0.0) future(0.0) generations(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+state	oceans	
+Monterey	California	Federal	policymakers	
+oceans	Federal	Government	
+10-year	oceans	Monterey	Clinton	
+Gore	Federal	Government	
+oceans	overfishing	pollution	coastal	global	warming	Massachusetts	
+breach	oceans	
+Oceans	Representative	Farr	
+
+urge	Oceans	
+stewardship	vast	resource	
+
+reads % = 0.15348837209302327

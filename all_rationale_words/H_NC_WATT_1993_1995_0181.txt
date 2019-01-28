@@ -1,0 +1,50 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) will(0.0) the(0.0) gentleman(0.0) yield(0.0) ?(0.0) Mr.(0.0) DeLAY(1.0) .(0.0) I(0.0) yield(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) North(0.0) Carolina(0.0) .(0.0) I(0.0) wanted(0.0) 
+to(0.0) go(0.0) back(0.0) to(0.0) the(0.0) issue(0.0) of(0.0) the(0.0) cost(0.0) of(0.0) what(0.0) we(0.0) are(0.0) doing(0.0) here(0.0) ,(0.0) and(0.0) I(0.0) understand(0.0) the(0.0) 
+gentleman(0.0) ,(0.0) as(0.0) the(0.0) majority(1.0) whip(0.0) ,(0.0) is(0.0) familiar(0.0) with(0.0) the(0.0) pay-as-you-go(1.0) rules(0.0) and(0.0) the(0.0) budgetary(1.0) rules(0.0) under(0.0) which(0.0) we(0.0) 
+operate(0.0) here(0.0) .(0.0) There(0.0) is(0.0) a(0.0) provision(1.0) ,(0.0) language(0.0) ,(0.0) on(0.0) page(0.0) 21(0.0) of(0.0) the(0.0) analysis(0.0) of(0.0) the(0.0) CBO(1.0) which(0.0) 
+says(0.0) ,(0.0) ``(0.0) Enactment(1.0) of(0.0) title(0.0) I(0.0) ,(0.0) ''(0.0) and(0.0) we(0.0) are(0.0) talking(0.0) about(0.0) title(0.0) I(0.0) now(0.0) ,(0.0) not(0.0) title(0.0) 
+II(0.0) ,(0.0) ``(0.0) of(0.0) H.R(0.0) .(0.0) 926(0.0) could(0.0) result(0.0) in(0.0) additional(0.0) lawsuits(1.0) against(0.0) the(0.0) Federal(1.0) Government(1.0) requesting(0.0) judicial(1.0) review(0.0) of(0.0) 
+Federal(1.0) agency(1.0) compliance(0.0) with(0.0) the(0.0) requirements(0.0) of(0.0) the(0.0) Regulatory(0.0) Flexibility(0.0) Act(0.0) .(0.0) To(0.0) the(0.0) extent(0.0) the(0.0) additional(0.0) lawsuits(1.0) were(0.0) successful(0.0) 
+and(0.0) the(0.0) plaintiffs(1.0) were(0.0) awarded(0.0) attorneys(0.0) '(0.0) fees(0.0) ,(0.0) enactment(1.0) of(0.0) H.R(0.0) .(0.0) 926(0.0) could(0.0) result(0.0) in(0.0) additional(0.0) direct(0.0) spending(0.0) 
+because(0.0) these(0.0) fees(0.0) are(0.0) paid(0.0) from(0.0) the(0.0) claims(0.0) ,(0.0) judgment(1.0) ,(0.0) and(0.0) relief(1.0) acts(0.0) account(0.0) .(0.0) ''(0.0) Now(0.0) ,(0.0) the(0.0) 
+question(0.0) I(0.0) want(0.0) to(0.0) pose(0.0) to(0.0) you(0.0) ,(0.0) I(0.0) heard(0.0) the(0.0) gentleman(0.0) say(0.0) that(0.0) we(0.0) get(0.0) into(0.0) the(0.0) cost(0.0) considerations(0.0) 
+of(0.0) this(0.0) bill(1.0) under(0.0) title(0.0) II(0.0) .(0.0) It(0.0) seems(0.0) to(0.0) me(0.0) that(0.0) that(0.0) puts(0.0) us(0.0) into(0.0) the(0.0) cost(1.0) considerations(0.0) ,(0.0) 
+and(0.0) the(0.0) pay-as-you-go(1.0) rules(0.0) ,(0.0) as(0.0) I(0.0) understand(0.0) them(0.0) ,(0.0) not(0.0) under(0.0) title(0.0) II(0.0) ,(0.0) but(0.0) under(0.0) title(0.0) I(0.0) .(0.0) 
+Has(0.0) that(0.0) issue(0.0) been(0.0) addressed(0.0) ?(0.0) Was(0.0) there(0.0) a(0.0) waiver(1.0) of(0.0) the(0.0) rules(0.0) to(0.0) bring(0.0) that(0.0) issue(0.0) ,(0.0) this(0.0) bill(1.0) 
+,(0.0) to(0.0) the(0.0) floor(0.0) in(0.0) light(0.0) of(0.0) that(0.0) provision(1.0) ?(0.0) [(0.0) Mr.(0.0) DeLay(1.0) ](0.0) has(1.0) again(1.0) expired(1.0) .(0.0) ((0.0) At(0.0) 
+the(0.0) request(0.0) of(0.0) Mr.(0.0) Watt(1.0) of(0.0) North(0.0) Carolina(0.0) and(0.0) by(0.0) unanimous(1.0) consent(0.0) ,(0.0) Mr.(0.0) DeLay(1.0) was(0.0) allowed(1.0) to(0.0) proceed(0.0) for(0.0) 
+2(0.0) additional(0.0) minutes(0.0) .(0.0) )(0.0) Mr.(0.0) DeLAY(1.0) .(0.0) I(0.0) appreciate(0.0) it(0.0) ,(0.0) and(0.0) I(0.0) will(0.0) yield(0.0) to(0.0) the(0.0) chairman(0.0) .(0.0) 
+I(0.0) just(0.0) want(0.0) to(0.0) know(0.0) ,(0.0) I(0.0) know(0.0) the(0.0) gentleman(0.0) wants(0.0) to(0.0) protect(0.0) the(0.0) Federal(1.0) Government(1.0) from(0.0) being(0.0) sued(1.0) by(0.0) 
+American(0.0) citizens(1.0) .(0.0) Mr.(0.0) DeLAY(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) will(0.0) respond(0.0) to(0.0) the(0.0) gentleman(0.0) 's(0.0) statement(0.0) .(0.0) I(0.0) know(0.0) 
+the(0.0) gentleman(0.0) wants(0.0) to(0.0) protect(0.0) the(0.0) Federal(1.0) Government(1.0) from(0.0) being(0.0) sued(1.0) by(0.0) small(0.0) businesses(1.0) and(0.0) American(0.0) citizens(1.0) .(0.0) I(0.0) do(0.0) 
+not(0.0) .(0.0) I(0.0) want(0.0) the(0.0) American(0.0) citizens(1.0) to(0.0) have(0.0) the(0.0) opportunity(0.0) to(0.0) sue(1.0) the(0.0) Federal(1.0) Government(1.0) when(0.0) they(0.0) are(0.0) imposing(1.0) 
+regulations(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+DeLAY	
+
+majority	pay-as-you-go	budgetary	
+provision	CBO	
+Enactment	
+lawsuits	Federal	Government	judicial	
+Federal	agency	lawsuits	
+plaintiffs	enactment	
+judgment	relief	
+
+bill	cost	
+pay-as-you-go	
+waiver	bill	
+provision	DeLay	has	again	expired	
+Watt	unanimous	DeLay	allowed	
+DeLAY	
+Federal	Government	sued	
+citizens	DeLAY	Chairman	
+Federal	Government	sued	businesses	citizens	
+citizens	sue	Federal	Government	imposing	
+regulations	
+
+reads % = 0.12406947890818859

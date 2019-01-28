@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) have(0.0) five(0.0) children(0.0) ,(0.0) two(0.0) of(0.0) them(0.0) are(0.0) 3-(0.0) year-olds(0.0) who(0.0) were(0.0) born(0.0) prematurely(0.0) .(0.0) They(0.0) were(0.0) 
+in(0.0) the(0.0) hospital(0.0) for(0.0) a(0.0) long(0.0) time(0.0) .(0.0) They(0.0) were(0.0) on(0.0) respirators(1.0) for(0.0) a(0.0) long(0.0) time(0.0) .(0.0) They(0.0) were(0.0) on(0.0) 
+24-hour(1.0) monitoring(0.0) for(0.0) a(0.0) very(0.0) ,(0.0) very(0.0) long(0.0) time(0.0) .(0.0) If(0.0) a(0.0) doctor(0.0) had(0.0) come(0.0) to(0.0) me(0.0) and(0.0) said(0.0) to(0.0) 
+me(0.0) ,(0.0) Mr.(0.0) Grayson(1.0) ,(0.0) we(0.0) can(0.0) save(0.0) your(0.0) children(0.0) but(0.0) it(0.0) will(0.0) cost(1.0) a(0.0) million(0.0) dollars(1.0) ,(0.0) I(0.0) would(0.0) 
+have(0.0) said(0.0) okay(0.0) .(0.0) If(0.0) a(0.0) doctor(0.0) had(0.0) said(0.0) ,(0.0) Mr.(0.0) Grayson(1.0) ,(0.0) we(0.0) can(0.0) save(0.0) your(0.0) children(0.0) ,(0.0) but(0.0) 
+it(0.0) is(0.0) going(0.0) to(0.0) cost(0.0) your(0.0) right(0.0) arm(0.0) ,(0.0) I(0.0) would(0.0) have(0.0) said(0.0) okay(0.0) because(0.0) the(0.0) life(0.0) of(0.0) a(0.0) child(0.0) 
+is(0.0) more(0.0) important(0.0) than(0.0) money(1.0) .(0.0) And(0.0) yet(0.0) in(0.0) America(1.0) we(0.0) have(0.0) 25,000(0.0) children(0.0) who(0.0) die(0.0) every(0.0) year(0.0) without(0.0) reaching(0.0) 
+their(0.0) first(0.0) birthday(0.0) .(0.0) This(0.0) bill(1.0) will(1.0) cover(0.0) 4(0.0) million(0.0) children(0.0) with(0.0) health(1.0) care(1.0) who(0.0) otherwise(0.0) wo(0.0) n't(0.0) have(0.0) it(0.0) 
+.(0.0) I(0.0) turn(0.0) to(0.0) the(0.0) other(0.0) side(0.0) of(0.0) the(0.0) aisle(0.0) and(0.0) I(0.0) say(0.0) :(0.0) Let(0.0) 's(0.0) save(0.0) those(0.0) lives(0.0) ,(0.0) 
+let(0.0) 's(0.0) choose(0.0) life(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+respirators	
+24-hour	
+Grayson	cost	dollars	
+Grayson	
+
+money	America	
+bill	will	health	care	
+
+
+
+reads % = 0.06451612903225806

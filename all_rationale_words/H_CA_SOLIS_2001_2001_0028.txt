@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) today(0.0) we(0.0) have(0.0) a(0.0) very(0.0) important(0.0) issue(0.0) before(0.0) us(0.0) :(0.0) campaign(1.0) finance(1.0) reform(1.0) .(0.0) I(0.0) want(0.0) to(0.0) talk(0.0) about(0.0) 
+two(0.0) amendments(1.0) that(0.0) are(0.0) going(0.0) to(0.0) be(0.0) coming(0.0) up(0.0) before(0.0) us(0.0) .(0.0) One(0.0) is(0.0) known(0.0) as(0.0) the(0.0) Linder-Schrock(0.0) amendment(1.0) ,(0.0) 
+and(0.0) it(0.0) bans(1.0) the(0.0) use(0.0) of(0.0) funds(1.0) that(0.0) unions(1.0) and(0.0) corporations(1.0) would(0.0) give(0.0) to(0.0) communicate(0.0) with(0.0) their(0.0) members(0.0) and(0.0) stockholders(0.0) 
+.(0.0) How(0.0) ridiculous(1.0) .(0.0) In(0.0) California(1.0) we(0.0) had(0.0) a(0.0) similar(0.0) proposition(1.0) ,(0.0) and(0.0) it(0.0) failed(0.0) miserably(0.0) ;(0.0) and(0.0) that(0.0) proposition(1.0) 
+was(0.0) known(0.0) as(0.0) Prop(0.0) 226(0.0) .(0.0) I(0.0) am(0.0) glad(0.0) to(0.0) say(0.0) that(0.0) the(0.0) residents(1.0) and(0.0) those(0.0) that(0.0) voted(1.0) in(0.0) that(0.0) 
+election(1.0) defeated(1.0) that(0.0) overwhelmingly(1.0) .(0.0) Let(0.0) us(0.0) make(0.0) sure(0.0) that(0.0) we(0.0) defeat(1.0) that(0.0) amendment(1.0) here(0.0) also(0.0) .(0.0) Another(0.0) amendment(1.0) that(0.0) 
+I(0.0) believe(0.0) is(0.0) egregious(1.0) would(0.0) also(0.0) restrict(1.0) and(0.0) limit(1.0) legal(1.0) immigrants(1.0) from(0.0) making(0.0) contributions(1.0) to(0.0) Federal(1.0) candidates(1.0) .(0.0) Again(0.0) ,(0.0) 
+we(0.0) are(0.0) limiting(1.0) their(0.0) ability(0.0) to(0.0) voice(0.0) their(0.0) opinions(0.0) .(0.0) This(0.0) is(0.0) known(0.0) as(0.0) the(0.0) Bereuter-Wicker(0.0) amendment(1.0) ,(0.0) which(0.0) would(1.0) 
+preclude(1.0) individuals(0.0) from(0.0) communicating(0.0) with(0.0) people(0.0) and(0.0) ideals(1.0) that(0.0) they(0.0) support(0.0) .(0.0) If(0.0) this(0.0) is(0.0) truly(0.0) America(1.0) ,(0.0) then(0.0) we(0.0) 
+have(0.0) to(0.0) stand(0.0) up(0.0) for(0.0) all(0.0) legal(1.0) immigrants(1.0) that(0.0) are(0.0) tax-paying(1.0) ,(0.0) that(0.0) serve(0.0) our(0.0) country(1.0) ,(0.0) that(0.0) are(0.0) playing(0.0) 
+by(0.0) the(0.0) rules(1.0) ,(0.0) and(0.0) that(0.0) are(0.0) maybe(0.0) one(0.0) step(0.0) away(0.0) of(0.0) becoming(0.0) citizens(1.0) .(0.0) Let(0.0) us(0.0) do(0.0) the(0.0) right(0.0) 
+thing(0.0) and(0.0) defeat(1.0) these(0.0) two(0.0) amendments(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+campaign	finance	reform	
+amendments	amendment	
+bans	funds	unions	corporations	
+ridiculous	California	proposition	proposition	
+residents	voted	
+election	defeated	overwhelmingly	defeat	amendment	amendment	
+egregious	restrict	limit	legal	immigrants	contributions	Federal	candidates	
+limiting	amendment	would	
+preclude	ideals	America	
+legal	immigrants	tax-paying	country	
+rules	citizens	
+defeat	amendments	
+
+reads % = 0.18859649122807018

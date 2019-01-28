@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) it(0.0) is(0.0) my(0.0) privilege(1.0) to(0.0) yield(0.0) 2(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) ((0.0) Mr.(0.0) Berman(1.0) )(0.0) ,(0.0) a(0.0) 
+senior(0.0) member(0.0) of(0.0) the(0.0) committee(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+privilege	Berman	
+
+
+reads % = 0.07407407407407407

@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) yield(0.0) 45(0.0) seconds(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) ((0.0) Mr.(0.0) Riggs(1.0) )(0.0) .(0.0) Madam(0.0) Speaker(0.0) ,(0.0) at(0.0) 
+the(0.0) beginning(0.0) of(0.0) this(0.0) debate(0.0) ,(0.0) I(0.0) said(0.0) there(0.0) were(0.0) two(0.0) great(0.0) beneficiaries(1.0) of(0.0) school(0.0) choice(0.0) .(0.0) The(0.0) first(0.0) institutional(0.0) 
+beneficiary(0.0) is(0.0) public(0.0) schools(0.0) ,(0.0) because(0.0) it(0.0) is(0.0) because(0.0) of(0.0) school(1.0) choice(0.0) that(0.0) public(1.0) schools(1.0) find(0.0) the(0.0) incentive(1.0) to(0.0) improve(0.0) 
+themselves(0.0) .(0.0) We(0.0) know(0.0) that(0.0) works(0.0) .(0.0) We(0.0) saw(0.0) it(0.0) work(0.0) in(0.0) Albany(1.0) ,(0.0) New(1.0) York(1.0) ,(0.0) when(0.0) Virginia(1.0) Gilder(1.0) 
+,(0.0) the(0.0) philanthropist(1.0) ,(0.0) found(0.0) the(0.0) worst(0.0) school(0.0) in(0.0) the(0.0) city(0.0) ,(0.0) offered(0.0) $(0.0) 2,000(0.0) scholarships(1.0) to(0.0) the(0.0) parents(0.0) of(0.0) 
+each(0.0) child(0.0) to(0.0) move(0.0) their(0.0) child(0.0) to(0.0) a(0.0) school(0.0) of(0.0) their(0.0) choice(0.0) .(0.0) One-sixth(0.0) of(0.0) the(0.0) parents(0.0) took(0.0) that(0.0) offer(0.0) 
+up(0.0) .(0.0) They(0.0) moved(0.0) their(0.0) children(0.0) .(0.0) It(0.0) so(0.0) startled(0.0) the(0.0) school(0.0) district(0.0) that(0.0) ,(0.0) as(0.0) The(0.0) Washington(1.0) Post(1.0) reported(0.0) 
+,(0.0) the(0.0) school(0.0) board(0.0) ousted(0.0) the(0.0) principal(0.0) ,(0.0) brought(0.0) in(0.0) nine(0.0) new(0.0) teachers(0.0) ,(0.0) added(0.0) two(0.0) assistant(0.0) principals(0.0) ,(0.0) invested(0.0) 
+in(0.0) books(0.0) ,(0.0) equipment(0.0) ,(0.0) and(0.0) teacher(0.0) training(0.0) after(0.0) years(0.0) of(0.0) neglect(0.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) competition(1.0) works(0.0) .(0.0) We(0.0) 
+all(0.0) agreed(0.0) we(0.0) should(0.0) break(0.0) up(0.0) AT(0.0) &(0.0) T(0.0) because(0.0) if(0.0) there(0.0) were(0.0) a(0.0) monopoly(1.0) on(0.0) the(0.0) block(0.0) it(0.0) would(0.0) 
+not(0.0) be(0.0) innovative(0.0) or(0.0) responsive(0.0) ,(0.0) it(0.0) would(0.0) not(0.0) meet(0.0) the(0.0) needs(0.0) of(0.0) the(0.0) consumers(1.0) .(0.0) Why(0.0) would(0.0) Members(0.0) think(0.0) 
+a(0.0) public(0.0) monopoly(1.0) is(0.0) any(0.0) more(0.0) benevolent(1.0) than(0.0) a(0.0) private(0.0) monopoly(0.0) ?(0.0) We(0.0) are(0.0) breaking(0.0) up(0.0) the(0.0) monopoly(1.0) so(0.0) they(0.0) 
+can(0.0) have(0.0) the(0.0) incentive(1.0) to(0.0) compete(0.0) .(0.0) But(0.0) that(0.0) is(0.0) not(0.0) where(0.0) the(0.0) heart(0.0) lies(0.0) .(0.0) The(0.0) heart(0.0) lies(0.0) with(0.0) 
+the(0.0) children(0.0) .(0.0) And(0.0) let(0.0) me(0.0) tell(0.0) my(0.0) colleagues(0.0) ,(0.0) I(0.0) know(0.0) these(0.0) kids(0.0) ,(0.0) I(0.0) spend(0.0) time(0.0) with(0.0) these(0.0) 
+kids(0.0) .(0.0) This(0.0) is(0.0) not(0.0) an(0.0) abstraction(0.0) with(0.0) me(0.0) .(0.0) I(0.0) think(0.0) of(0.0) poor(1.0) little(0.0) David(0.0) ,(0.0) 9(0.0) years(0.0) old(0.0) 
+.(0.0) His(0.0) mother(0.0) is(0.0) on(0.0) drugs(1.0) .(0.0) His(0.0) father(0.0) only(0.0) shows(0.0) up(0.0) once(0.0) and(0.0) a(0.0) while(0.0) to(0.0) use(0.0) the(0.0) little(0.0) 
+guy(0.0) .(0.0) He(0.0) found(0.0) himself(0.0) with(0.0) an(0.0) opportunity(0.0) to(0.0) attend(0.0) one(0.0) of(0.0) these(0.0) schools(1.0) by(0.0) a(0.0) scholarship(0.0) through(0.0) the(0.0) Washington(1.0) 
+Scholarship(0.0) Fund(0.0) ,(0.0) and(0.0) he(0.0) gets(0.0) his(0.0) own(0.0) little(0.0) 9-year-old(0.0) self(0.0) up(0.0) out(0.0) of(0.0) bed(0.0) every(0.0) day(0.0) and(0.0) gets(0.0) himself(0.0) 
+to(0.0) school(1.0) because(0.0) at(0.0) school(0.0) he(0.0) is(0.0) loved(0.0) and(0.0) he(0.0) learns(0.0) .(0.0) David(0.0) was(0.0) not(0.0) the(0.0) cream(0.0) of(0.0) the(0.0) crop(0.0) 
+.(0.0) He(0.0) tested(0.0) below(0.0) grade(0.0) level(0.0) ,(0.0) and(0.0) the(0.0) school(0.0) reached(0.0) out(0.0) and(0.0) took(0.0) him(0.0) ,(0.0) as(0.0) they(0.0) did(0.0) five(0.0) 
+children(0.0) in(0.0) Anacostia(1.0) that(0.0) we(0.0) know(0.0) .(0.0) All(0.0) tested(0.0) below(0.0) grade(0.0) level(0.0) .(0.0) But(0.0) the(0.0) schools(1.0) took(0.0) them(0.0) ,(0.0) nurtured(0.0) 
+them(0.0) ,(0.0) taught(0.0) them(0.0) ,(0.0) and(0.0) they(0.0) are(0.0) all(0.0) doing(0.0) just(0.0) fine(0.0) now(0.0) .(0.0) We(0.0) have(0.0) got(0.0) little(0.0) William(0.0) who(0.0) 
+is(0.0) now(0.0) a(0.0) freshman(0.0) who(0.0) has(0.0) turned(0.0) his(0.0) entire(0.0) life(0.0) around(0.0) .(0.0) This(0.0) boy(0.0) was(0.0) headed(0.0) for(0.0) big(0.0) trouble(0.0) .(0.0) 
+But(0.0) he(0.0) got(0.0) out(0.0) of(0.0) the(0.0) school(0.0) in(0.0) which(0.0) he(0.0) felt(0.0) trapped(0.0) ,(0.0) that(0.0) expected(0.0) so(0.0) little(0.0) of(0.0) him(0.0) that(0.0) 
+he(0.0) gave(0.0) so(0.0) little(0.0) to(0.0) himself(0.0) ,(0.0) and(0.0) now(0.0) he(0.0) has(0.0) turned(0.0) his(0.0) little(0.0) life(0.0) around(0.0) .(0.0) And(0.0) then(0.0) 
+
+
+----- below are rationale words -----
+
+Riggs	
+beneficiaries	
+school	public	schools	incentive	
+Albany	New	York	Virginia	Gilder	
+philanthropist	scholarships	
+
+Washington	Post	
+
+Speaker	competition	
+monopoly	
+consumers	
+monopoly	benevolent	monopoly	
+incentive	
+
+poor	
+drugs	
+schools	Washington	
+
+school	
+
+Anacostia	schools	
+
+
+
+
+
+reads % = 0.06

@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) ask(1.0) unanimous(0.0) consent(0.0) to(0.0) remove(1.0) as(0.0) a(0.0) cosponsor(1.0) Representative(1.0) Rick(1.0) Boucher(1.0) of(0.0) Virginia(1.0) from(0.0) H.R(0.0) .(0.0) 4341(1.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+ask	remove	cosponsor	Representative	Rick	Boucher	Virginia	4341	
+
+
+reads % = 0.38095238095238093

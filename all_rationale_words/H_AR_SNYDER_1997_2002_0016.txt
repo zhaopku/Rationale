@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) me(0.0) this(0.0) time(0.0) .(0.0) Those(0.0) of(0.0) us(0.0) that(0.0) support(0.0) this(0.0) amendment(1.0) do(1.0) not(0.0) 
+believe(0.0) that(0.0) we(0.0) are(0.0) undercutting(1.0) the(0.0) President(1.0) or(0.0) somehow(0.0) placing(0.0) handcuffs(1.0) on(0.0) him(0.0) .(0.0) What(0.0) ,(0.0) in(0.0) fact(0.0) ,(0.0) we(0.0) 
+believe(0.0) we(0.0) are(0.0) doing(0.0) is(0.0) responding(0.0) to(0.0) the(0.0) great(0.0) common(0.0) sense(0.0) of(0.0) the(0.0) American(0.0) people(0.0) ,(0.0) the(0.0) kind(0.0) of(0.0) discussions(0.0) 
+we(0.0) all(0.0) have(0.0) at(0.0) home(0.0) and(0.0) Americans(1.0) are(0.0) having(0.0) all(0.0) over(0.0) the(0.0) country(1.0) in(0.0) which(0.0) they(0.0) see(0.0) a(0.0) difference(0.0) in(0.0) 
+the(0.0) factual(0.0) situations(0.0) between(0.0) America(1.0) going(0.0) in(0.0) as(0.0) an(0.0) international(0.0) body(0.0) in(0.0) cooperation(1.0) with(0.0) the(0.0) United(0.0) Nations(0.0) versus(0.0) America(1.0) having(0.0) 
+to(0.0) go(0.0) it(0.0) alone(0.0) because(0.0) the(0.0) international(1.0) community(0.0) does(0.0) not(0.0) want(0.0) to(0.0) be(0.0) with(0.0) us(0.0) .(0.0) There(0.0) are(0.0) differences(0.0) in(0.0) 
+those(0.0) two(0.0) scenarios(0.0) ,(0.0) and(0.0) the(0.0) differences(0.0) have(0.0) different(0.0) ramifications(1.0) for(0.0) the(0.0) future(0.0) of(0.0) America(1.0) 's(0.0) national(1.0) security(0.0) .(0.0) In(0.0) 
+fact(0.0) ,(0.0) what(0.0) the(0.0) Spratt(1.0) amendment(1.0) does(0.0) is(0.0) give(0.0) additional(0.0) powers(1.0) to(0.0) the(0.0) President(1.0) not(0.0) in(0.0) the(0.0) Constitution(1.0) .(0.0) It(0.0) 
+gives(0.0) him(0.0) the(0.0) power(0.0) to(0.0) schedule(0.0) this(0.0) vote(1.0) through(0.0) an(0.0) expedited(1.0) process(0.0) .(0.0) I(0.0) think(0.0) the(0.0) Spratt(1.0) amendment(1.0) in(0.0) fact(0.0) 
+is(0.0) the(0.0) kind(0.0) of(0.0) approach(0.0) that(0.0) the(0.0) American(0.0) people(0.0) want(0.0) us(0.0) to(0.0) take(0.0) ,(0.0) to(0.0) act(0.0) in(0.0) concert(0.0) with(0.0) the(0.0) 
+international(0.0) community(0.0) and(0.0) ,(0.0) if(0.0) that(0.0) is(0.0) not(0.0) successful(0.0) ,(0.0) to(0.0) come(0.0) back(0.0) and(0.0) expedite(0.0) a(0.0) way(0.0) for(0.0) a(0.0) reevaluation(1.0) 
+by(0.0) their(0.0) elected(1.0) representatives(0.0) as(0.0) expected(0.0) by(0.0) the(0.0) Constitution(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+amendment	do	
+undercutting	President	handcuffs	
+
+Americans	country	
+America	cooperation	America	
+international	
+ramifications	America	national	
+Spratt	amendment	powers	President	Constitution	
+vote	expedited	Spratt	amendment	
+
+reevaluation	
+elected	Constitution	
+
+reads % = 0.11255411255411256

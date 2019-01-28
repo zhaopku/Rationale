@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) Ronald(0.0) Reagan(1.0) exemplified(1.0) honor(0.0) and(0.0) dignity(1.0) while(0.0) serving(1.0) his(0.0) country(0.0) and(0.0) restored(0.0) stability(0.0) to(0.0) an(0.0) unstable(0.0) nation(1.0) .(0.0) The(0.0) 
+United(0.0) States(0.0) will(0.0) be(0.0) forever(0.0) indebted(0.0) to(0.0) this(0.0) exceptional(0.0) man(0.0) .(0.0) I(0.0) am(0.0) proud(0.0) and(0.0) humbled(0.0) to(0.0) honor(0.0) our(0.0) 40th(0.0) 
+President(0.0) ,(0.0) Mr.(0.0) Ronald(1.0) Reagan(1.0) ,(0.0) on(0.0) his(0.0) 90th(0.0) birthday(0.0) .(0.0) President(0.0) Reagan(1.0) focused(0.0) on(0.0) rebuilding(1.0) our(0.0) country(1.0) 's(0.0) military(0.0) 
+forces(0.0) and(0.0) developing(0.0) a(0.0) defense(0.0) system(0.0) to(0.0) protect(0.0) our(0.0) shores(0.0) .(0.0) On(0.0) May(0.0) 15(0.0) ,(0.0) 1993(0.0) ,(0.0) Mr.(0.0) Reagan(1.0) delivered(0.0) 
+the(0.0) Commencement(0.0) Speech(0.0) at(0.0) The(0.0) Citadel(0.0) .(0.0) This(0.0) remarkable(0.0) address(0.0) highlighted(0.0) his(0.0) continued(0.0) support(0.0) of(0.0) our(0.0) military(0.0) and(0.0) the(0.0) need(0.0) 
+for(0.0) military(0.0) readiness(0.0) ,(0.0) an(0.0) issue(0.0) clearly(0.0) facing(0.0) us(0.0) today(0.0) .(0.0) It(0.0) is(0.0) with(0.0) honor(0.0) and(0.0) humility(0.0) that(0.0) I(0.0) read(0.0) 
+to(0.0) you(0.0) a(0.0) part(0.0) of(0.0) his(0.0) address(0.0) :(0.0) ``(0.0) It(0.0) is(0.0) said(0.0) that(0.0) the(0.0) price(0.0) of(0.0) freedom(1.0) is(0.0) eternal(0.0) vigilance(0.0) 
+.(0.0) And(0.0) I'd(0.0) like(0.0) to(0.0) offer(0.0) several(0.0) reasons(0.0) why(0.0) we(0.0) must(0.0) stay(0.0) strong(0.0) militarily(1.0) :(0.0) ``(0.0) First(0.0) ,(0.0) despite(0.0) the(0.0) 
+spread(0.0) of(0.0) democracy(1.0) and(0.0) capitalism(1.0) ,(0.0) human(1.0) nature(0.0) has(0.0) not(0.0) changed(0.0) .(0.0) It(0.0) is(0.0) still(0.0) an(0.0) unpredictable(0.0) mixture(0.0) of(0.0) good(0.0) 
+and(0.0) evil(1.0) .(0.0) Our(0.0) enemies(1.0) may(0.0) be(0.0) irrational(1.0) ,(0.0) even(0.0) outright(1.0) insane(1.0) --(0.0) driven(0.0) by(0.0) nationalism(1.0) ,(0.0) religion(1.0) ,(0.0) ethnicity(1.0) 
+or(0.0) ideology(1.0) .(0.0) They(0.0) do(0.0) not(0.0) fear(0.0) the(0.0) United(0.0) States(0.0) for(0.0) its(0.0) diplomatic(1.0) skills(0.0) or(0.0) the(0.0) number(0.0) of(0.0) automobiles(1.0) and(0.0) 
+software(0.0) programs(0.0) it(0.0) produces(0.0) .(0.0) They(0.0) respect(0.0) only(0.0) the(0.0) firepower(1.0) of(0.0) our(0.0) tanks(1.0) ,(0.0) planes(0.0) and(0.0) helicopter(0.0) gun(0.0) ships(1.0) .(0.0) 
+``(0.0) Second(0.0) ,(0.0) the(0.0) Soviet(0.0) Union(0.0) may(0.0) be(0.0) gone(0.0) ,(0.0) but(0.0) even(0.0) small(0.0) powers(0.0) can(0.0) destroy(1.0) global(1.0) peace(1.0) and(0.0) security(0.0) 
+.(0.0) The(0.0) modern(0.0) world(0.0) is(0.0) filled(0.0) with(0.0) vulnerable(0.0) ``(0.0) choke-points(0.0) ''(0.0) --(0.0) military(0.0) ,(0.0) geographic(0.0) ,(0.0) political(1.0) and(0.0) economic(1.0) .(0.0) 
+.(0.0) .(0.0) ``(0.0) Third(0.0) ,(0.0) technology(0.0) --(0.0) for(0.0) all(0.0) its(0.0) blessings(0.0) --(0.0) can(0.0) enable(0.0) new(0.0) enemies(1.0) to(0.0) rise(1.0) up(0.0) overnight(0.0) 
+.(0.0) Scientific(0.0) information(0.0) flows(0.0) to(0.0) ambitious(1.0) dictators(1.0) faster(0.0) than(0.0) ever(0.0) .(0.0) .(0.0) .(0.0) who(0.0) can(0.0) predict(0.0) what(0.0) will(0.0) be(0.0) the(0.0) 
+`(0.0) blitzkriegs'(0.0) of(0.0) tomorrow(0.0) ?(0.0) ''(0.0) President(0.0) Ronald(1.0) Reagan(1.0) advised(0.0) against(0.0) weakening(1.0) the(0.0) military(0.0) in(0.0) peacetime(1.0) ,(0.0) and(0.0) ,(0.0) in(0.0) 
+turn(0.0) ,(0.0) honored(0.0) the(0.0) young(0.0) men(0.0) willfully(0.0) seeking(0.0) the(0.0) opportunity(0.0) to(0.0) serve(0.0) our(0.0) nation(1.0) .(0.0) He(0.0) further(0.0) commented(0.0) ,(0.0) ``(0.0) 
+In(0.0) my(0.0) eighty-(0.0) two(0.0) years(0.0) ,(0.0) I(0.0) 've(0.0) seen(0.0) America(0.0) drop(0.0) her(0.0) guard(0.0) time(0.0) and(0.0) time(0.0) again(0.0) --(0.0) and(0.0) each(0.0) 
+time(0.0) with(0.0) tragic(0.0) consequences(1.0) .(0.0) .(0.0) .(0.0) Today(0.0) ,(0.0) the(0.0) United(0.0) States(0.0) dominates(1.0) the(0.0) world(0.0) arena(0.0) .(0.0) Once(0.0) again(0.0) ,(0.0) 
+our(0.0) noble(0.0) first(0.0) instinct(0.0) is(0.0) to(0.0) seek(1.0) peace(1.0) .(0.0) And(0.0) that(0.0) 's(0.0) why(0.0) America(1.0) needs(0.0) the(0.0) brave(0.0) and(0.0) skilled(0.0) soldiers(0.0) 
+of(0.0) The(0.0) Citadel(0.0) more(0.0) than(0.0) ever(0.0) .(0.0) ''(0.0) I(0.0) share(0.0) many(0.0) of(0.0) President(0.0) Reagan(1.0) 's(0.0) views(0.0) on(0.0) military(0.0) readiness(0.0) .(0.0) 
+I(0.0) am(0.0) happy(0.0) and(0.0) proud(0.0) to(0.0) add(0.0) that(0.0) we(0.0) share(0.0) one(0.0) more(0.0) thing(0.0) --(0.0) we(0.0) both(0.0) received(0.0) Honorary(0.0) Doctorates(0.0) from(0.0) 
+The(0.0) Citadel(0.0) .(0.0) Happy(0.0) Birthday(0.0) ,(0.0) Mr.(0.0) President(1.0) .(0.0) Ms.(0.0) JACKSON-LEE(0.0) of(0.0) Texas(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) rise(0.0) today(0.0) 
+to(0.0) in(0.0) support(0.0) for(0.0) the(0.0) purpose(0.0) of(0.0) recognizing(1.0) Ronald(1.0) Reagan(1.0) 's(0.0) 90th(0.0) Birthday(0.0) ((0.0) H.J(1.0) .(0.0) Res(0.0) .(0.0) 7(0.0) 
+
+
+----- below are rationale words -----
+
+Reagan	exemplified	dignity	serving	nation	
+
+Ronald	Reagan	Reagan	rebuilding	country	
+Reagan	
+
+
+freedom	
+militarily	
+democracy	capitalism	human	
+evil	enemies	irrational	outright	insane	nationalism	religion	ethnicity	
+ideology	diplomatic	automobiles	
+firepower	tanks	ships	
+destroy	global	peace	
+political	economic	
+enemies	rise	
+ambitious	dictators	
+Ronald	Reagan	weakening	peacetime	
+nation	
+
+consequences	dominates	
+seek	peace	America	
+Reagan	
+
+President	Speaker	
+recognizing	Ronald	Reagan	H.J	
+
+reads % = 0.112

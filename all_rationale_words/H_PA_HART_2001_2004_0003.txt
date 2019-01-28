@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) me(0.0) this(0.0) time(0.0) .(0.0) I(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) the(0.0) rule(1.0) and(0.0) in(0.0) 
+support(0.0) of(0.0) the(0.0) underlying(0.0) bill(1.0) and(0.0) ,(0.0) along(0.0) with(0.0) some(0.0) of(0.0) my(0.0) colleagues(0.0) ,(0.0) with(0.0) a(0.0) little(0.0) bit(0.0) of(0.0) mystification(1.0) 
+as(0.0) to(0.0) the(0.0) reaction(0.0) of(0.0) those(0.0) who(0.0) oppose(0.0) the(0.0) rule(1.0) and(0.0) the(0.0) underlying(0.0) bill(1.0) .(0.0) It(0.0) appears(0.0) as(0.0) though(0.0) we(0.0) 
+have(0.0) some(0.0) ignorance(1.0) of(0.0) facts(0.0) going(0.0) on(0.0) here(0.0) .(0.0) Some(0.0) of(0.0) the(0.0) Members(0.0) and(0.0) many(0.0) of(0.0) the(0.0) Members(0.0) remember(0.0) the(0.0) 
+case(0.0) of(0.0) Laci(1.0) Peterson(1.0) .(0.0) In(0.0) fact(0.0) ,(0.0) it(0.0) is(0.0) being(0.0) adjudicated(0.0) right(0.0) now(0.0) in(0.0) the(0.0) State(1.0) of(0.0) California(1.0) .(0.0) 
+Laci(0.0) Peterson(1.0) 's(0.0) mother(0.0) ,(0.0) Sharon(0.0) Rocha(1.0) ,(0.0) called(0.0) me(0.0) ,(0.0) the(0.0) prime(0.0) sponsor(0.0) of(0.0) the(0.0) Unborn(1.0) Victims(0.0) of(0.0) Violence(1.0) 
+Act(0.0) ,(0.0) and(0.0) Senator(1.0) DeWine(1.0) ,(0.0) who(0.0) is(0.0) the(0.0) sponsor(0.0) of(0.0) the(0.0) legislation(0.0) in(0.0) the(0.0) Senate(0.0) ,(0.0) and(0.0) requested(0.0) that(0.0) 
+we(0.0) name(0.0) the(0.0) bill(0.0) in(0.0) honor(0.0) of(0.0) her(0.0) daughter(0.0) Laci(0.0) and(0.0) her(0.0) unborn(0.0) grandson(0.0) Conner(1.0) .(0.0) We(0.0) did(0.0) so(0.0) without(0.0) 
+hesitation(0.0) .(0.0) It(0.0) was(0.0) very(0.0) simple(0.0) to(0.0) understand(0.0) and(0.0) do(0.0) so(0.0) as(0.0) a(0.0) result(0.0) of(0.0) her(0.0) request(0.0) and(0.0) also(0.0) understand(0.0) 
+the(0.0) grief(0.0) that(0.0) she(0.0) and(0.0) her(0.0) family(0.0) felt(0.0) as(0.0) a(0.0) result(0.0) of(0.0) the(0.0) murder(1.0) of(0.0) her(0.0) daughter(0.0) and(0.0) her(0.0) unborn(1.0) 
+grandson(0.0) .(0.0) She(0.0) said(0.0) ,(0.0) ``(0.0) Please(0.0) understand(0.0) how(0.0) adoption(1.0) of(0.0) a(0.0) single-victim(0.0) proposal(1.0) ,(0.0) ''(0.0) one(0.0) that(0.0) will(0.0) be(0.0) 
+offered(0.0) in(0.0) opposition(1.0) to(0.0) the(0.0) underlying(0.0) bill(1.0) ,(0.0) ``(0.0) would(0.0) be(0.0) a(0.0) painful(0.0) blow(0.0) ''(0.0) to(0.0) the(0.0) victims(1.0) '(0.0) family(0.0) 
+,(0.0) a(0.0) family(0.0) like(0.0) Ms.(0.0) Rocha(1.0) 's(0.0) ,(0.0) ``(0.0) who(0.0) are(0.0) left(0.0) to(0.0) grieve(0.0) after(0.0) a(0.0) two-victim(0.0) crime(0.0) because(0.0) Congress(0.0) 
+would(0.0) be(0.0) saying(0.0) that(0.0) Conner(1.0) and(0.0) other(0.0) innocent(1.0) victims(1.0) like(0.0) him(0.0) are(0.0) not(0.0) really(0.0) victims(0.0) ,(0.0) that(0.0) ,(0.0) indeed(0.0) ,(0.0) 
+they(0.0) never(0.0) really(0.0) existed(0.0) at(0.0) all(0.0) .(0.0) But(0.0) our(0.0) grandson(0.0) did(0.0) live(0.0) ,(0.0) ''(0.0) she(0.0) says(0.0) .(0.0) ``(0.0) He(0.0) had(0.0) 
+a(0.0) name(0.0) ,(0.0) he(0.0) was(0.0) loved(0.0) ,(0.0) and(0.0) his(0.0) life(0.0) was(0.0) violently(0.0) taken(0.0) from(0.0) him(0.0) before(0.0) he(0.0) ever(0.0) saw(0.0) the(0.0) 
+sun(0.0) .(0.0) ''(0.0) Unfortunately(0.0) ,(0.0) the(0.0) Peterson(1.0) case(0.0) is(0.0) not(0.0) the(0.0) only(0.0) case(0.0) like(0.0) this(0.0) ;(0.0) more(0.0) recently(0.0) the(0.0) family(0.0) 
+in(0.0) Kentucky(1.0) that(0.0) just(0.0) helped(0.0) the(0.0) Kentucky(1.0) Legislature(0.0) pass(0.0) legislation(0.0) similar(0.0) to(0.0) this(0.0) in(0.0) the(0.0) Kentucky(1.0) State(0.0) Legislature(0.0) .(0.0) We(0.0) 
+need(0.0) to(0.0) pass(0.0) a(0.0) bill(0.0) that(0.0) recognizes(0.0) two(0.0) victims(1.0) .(0.0) There(0.0) are(0.0) two(0.0) victims(1.0) .(0.0) In(0.0) fact(0.0) ,(0.0) our(0.0) bill(1.0) 
+specifically(1.0) separates(0.0) abortion(1.0) from(0.0) an(0.0) act(1.0) of(0.0) violence(1.0) against(0.0) the(0.0) mother(0.0) .(0.0) We(0.0) are(0.0) talking(0.0) about(0.0) a(0.0) mother(0.0) and(0.0) a(0.0) 
+family(0.0) who(0.0) have(0.0) chosen(0.0) to(0.0) bear(0.0) a(0.0) child(0.0) .(0.0) That(0.0) family(0.0) is(0.0) preparing(0.0) for(0.0) that(0.0) child(0.0) 's(0.0) birth(1.0) .(0.0) That(0.0) 
+family(0.0) has(0.0) often(0.0) named(0.0) that(0.0) child(0.0) .(0.0) That(0.0) child(0.0) is(0.0) actively(0.0) now(0.0) a(0.0) member(0.0) of(0.0) that(0.0) family(0.0) .(0.0) But(0.0) ,(0.0) 
+unfortunately(0.0) ,(0.0) facts(0.0) in(0.0) this(0.0) world(0.0) make(0.0) some(0.0) pretty(0.0) ugly(0.0) figures(0.0) .(0.0) We(0.0) see(0.0) that(0.0) where(0.0) statistics(0.0) were(0.0) kept(0.0) about(0.0) 
+the(0.0) cause(0.0) of(0.0) death(1.0) to(0.0) pregnant(1.0) women(1.0) in(0.0) Maryland(1.0) ,(0.0) Illinois(1.0) ,(0.0) and(0.0) New(1.0) York(1.0) ,(0.0) that(0.0) fully(0.0) more(0.0) than(0.0) 
+one-quarter(1.0) of(0.0) the(0.0) pregnant(0.0) women(1.0) who(0.0) died(0.0) died(0.0) at(0.0) the(0.0) hands(0.0) of(0.0) a(0.0) criminal(1.0) .(0.0) They(0.0) were(0.0) victims(0.0) of(0.0) 
+
+
+----- below are rationale words -----
+
+rule	
+bill	mystification	
+rule	bill	
+ignorance	
+Laci	Peterson	State	California	
+Peterson	Rocha	Unborn	Violence	
+Senator	DeWine	
+Conner	
+
+murder	unborn	
+adoption	proposal	
+opposition	bill	victims	
+Rocha	
+Conner	innocent	victims	
+
+
+Peterson	
+Kentucky	Kentucky	Kentucky	
+victims	victims	bill	
+specifically	abortion	act	violence	
+birth	
+
+
+death	pregnant	women	Maryland	Illinois	New	York	
+one-quarter	women	criminal	
+
+reads % = 0.1

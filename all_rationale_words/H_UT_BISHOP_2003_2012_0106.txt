@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) pass(0.0) the(0.0) bill(0.0) ((1.0) H.R(1.0) .(0.0) 3874(0.0) )(0.0) to(0.0) provide(0.0) for(0.0) the(0.0) 
+conveyance(0.0) of(0.0) eight(0.0) cemeteries(0.0) that(0.0) are(0.0) located(0.0) on(0.0) National(0.0) Forest(0.0) System(0.0) land(0.0) in(0.0) Black(1.0) Hills(0.0) National(0.0) Forest(0.0) ,(0.0) South(0.0) Dakota(1.0) 
+,(0.0) as(0.0) amended(0.0) .(0.0) The(0.0) Clerk(0.0) read(0.0) the(0.0) title(0.0) of(0.0) the(0.0) bill(0.0) .(0.0) The(0.0) text(0.0) of(0.0) the(0.0) bill(0.0) is(0.0) as(0.0) 
+follows(0.0) :(0.0) H.R(0.0) .(0.0) 3874(0.0) Be(0.0) it(0.0) enacted(0.0) by(0.0) the(0.0) Senate(0.0) and(0.0) House(0.0) of(0.0) Representatives(0.0) of(0.0) the(0.0) United(0.0) States(0.0) of(0.0) 
+America(0.0) in(0.0) Congress(0.0) assembled(0.0) ,(0.0) SECTION(0.0) 1(0.0) .(0.0) SHORT(0.0) TITLE(0.0) .(0.0) This(0.0) Act(0.0) may(0.0) be(0.0) cited(0.0) as(0.0) the(0.0) ``(0.0) Black(0.0) 
+Hills(0.0) Cemetery(0.0) Act(0.0) ''(0.0) .(0.0) SEC(0.0) .(0.0) 2(0.0) .(0.0) LAND(0.0) CONVEYANCES(0.0) ,(0.0) CERTAIN(0.0) CEMETERIES(0.0) LOCATED(0.0) IN(0.0) BLACK(0.0) HILLS(0.0) NATIONAL(0.0) FOREST(0.0) 
+,(0.0) SOUTH(0.0) DAKOTA(0.0) .(0.0) ((0.0) a(0.0) )(0.0) Cemetery(0.0) Conveyances(0.0) Required.(0.0) --(0.0) The(0.0) Secretary(0.0) of(0.0) Agriculture(0.0) shall(0.0) convey(0.0) ,(0.0) without(0.0) consideration(0.0) 
+,(0.0) to(0.0) the(0.0) local(0.0) communities(0.0) in(0.0) South(0.0) Dakota(0.0) that(0.0) are(0.0) currently(0.0) managing(0.0) and(0.0) maintaining(0.0) certain(0.0) community(0.0) cemeteries(1.0) ((0.0) as(0.0) specified(0.0) 
+in(0.0) subsection(0.0) ((0.0) b(0.0) )(0.0) )(0.0) all(0.0) right(0.0) ,(0.0) title(0.0) ,(0.0) and(0.0) interest(0.0) of(0.0) the(0.0) United(0.0) States(0.0) in(0.0) and(0.0) to(0.0) 
+--(0.0) ((0.0) 1(0.0) )(0.0) the(0.0) parcels(0.0) of(0.0) National(0.0) Forest(0.0) System(0.0) land(0.0) containing(0.0) such(0.0) cemeteries(0.0) ;(0.0) and(0.0) ((0.0) 2(0.0) )(0.0) up(0.0) 
+to(0.0) an(0.0) additional(0.0) two(0.0) acres(0.0) adjoining(0.0) each(0.0) cemetery(0.0) in(0.0) order(0.0) to(0.0) ensure(0.0) the(0.0) conveyances(0.0) include(0.0) unmarked(0.0) gravesites(0.0) and(0.0) allow(0.0) for(0.0) 
+expansion(0.0) of(0.0) the(0.0) cemeteries(0.0) .(0.0) ((0.0) b(0.0) )(0.0) Property(0.0) and(0.0) Recipients.(0.0) --(0.0) The(0.0) properties(0.0) to(0.0) be(0.0) conveyed(0.0) under(0.0) subsection(0.0) ((0.0) 
+a(0.0) )(0.0) ,(0.0) and(0.0) the(0.0) recipients(0.0) of(0.0) each(0.0) property(0.0) ,(0.0) are(0.0) as(0.0) follows(0.0) :(0.0) ((0.0) 1(0.0) )(0.0) The(0.0) Silver(0.0) City(0.0) 
+Cemetery(0.0) to(0.0) the(0.0) Silver(0.0) City(0.0) Volunteer(0.0) Fire(0.0) Department(0.0) .(0.0) ((0.0) 2(0.0) )(0.0) The(0.0) Hayward(0.0) Cemetery(0.0) to(0.0) the(0.0) Hayward(0.0) Volunteer(0.0) Fire(0.0) 
+Department(0.0) .(0.0) ((0.0) 3(0.0) )(0.0) The(0.0) encumbered(0.0) land(0.0) adjacent(0.0) to(0.0) the(0.0) Englewood(0.0) Cemetery(0.0) ((0.0) encompassing(0.0) the(0.0) cemetery(0.0) entrance(0.0) portal(0.0) ,(0.0) 
+access(0.0) road(0.0) ,(0.0) fences(0.0) ,(0.0) 2,500(0.0) gallon(0.0) reservoir(0.0) and(0.0) building(0.0) housing(0.0) such(0.0) reservoir(0.0) ,(0.0) and(0.0) piping(0.0) to(0.0) provide(0.0) sprinkling(0.0) system(0.0) 
+to(0.0) the(0.0) cemetery(0.0) )(0.0) to(0.0) the(0.0) City(0.0) of(0.0) Lead(0.0) .(0.0) ((0.0) 4(0.0) )(0.0) The(0.0) land(0.0) adjacent(0.0) to(0.0) the(0.0) Mountain(0.0) Meadow(0.0) 
+Cemetery(0.0) to(0.0) the(0.0) Mountain(0.0) Meadow(0.0) Cemetery(0.0) Association(0.0) .(0.0) ((0.0) 5(0.0) )(0.0) The(0.0) Roubaix(0.0) Cemetery(0.0) to(0.0) the(0.0) Roubaix(0.0) Cemetery(0.0) Association(0.0) .(0.0) 
+((0.0) 6(0.0) )(0.0) The(0.0) Nemo(0.0) Cemetery(0.0) to(0.0) the(0.0) Nemo(0.0) Cemetery(0.0) Association(0.0) .(0.0) ((0.0) 7(0.0) )(0.0) The(0.0) Galena(0.0) Cemetery(0.0) to(0.0) the(0.0) 
+Galena(0.0) Historical(0.0) Society(0.0) .(0.0) ((0.0) 8(0.0) )(0.0) The(0.0) Rockerville(0.0) Cemetery(0.0) to(0.0) the(0.0) Rockerville(0.0) Community(0.0) Club(0.0) .(0.0) ((0.0) 9(0.0) )(0.0) The(0.0) 
+Cold(0.0) Springs(0.0) Cemetery(0.0) ((0.0) including(0.0) adjacent(0.0) school(0.0) yard(0.0) and(0.0) log(0.0) building(0.0) )(0.0) to(0.0) the(0.0) Cold(0.0) Springs(0.0) Historical(0.0) Society(0.0) .(0.0) ((0.0) 
+c(0.0) )(0.0) Condition(0.0) of(0.0) Conveyance.(0.0) --(0.0) Each(0.0) conveyance(0.0) under(0.0) subsection(0.0) ((0.0) a(0.0) )(0.0) shall(0.0) be(0.0) subject(0.0) to(0.0) the(0.0) condition(0.0) that(0.0) 
+the(0.0) recipient(0.0) accept(0.0) the(0.0) conveyed(0.0) real(0.0) property(0.0) in(0.0) its(0.0) condition(0.0) at(0.0) the(0.0) time(0.0) of(0.0) the(0.0) conveyance(0.0) .(0.0) ((0.0) d(0.0) )(0.0) 
+Use(0.0) of(0.0) Land(0.0) Conveyed.(0.0) --(0.0) The(0.0) lands(0.0) conveyed(0.0) under(0.0) subsection(0.0) ((0.0) a(0.0) )(0.0) shall(0.0) continue(0.0) to(0.0) be(0.0) used(0.0) in(0.0) the(0.0) 
+same(0.0) manner(0.0) and(0.0) for(0.0) the(0.0) same(0.0) purposes(0.0) as(0.0) they(0.0) were(0.0) immediately(0.0) prior(0.0) to(0.0) their(0.0) conveyance(0.0) under(0.0) this(0.0) Act(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+(	H.R	
+Black	Dakota	
+
+
+
+
+
+cemeteries	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+reads % = 0.01

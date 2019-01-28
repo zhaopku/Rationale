@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+The(0.0) wetlands(0.0) issue(0.0) ,(0.0) as(0.0) you(0.0) mentioned(0.0) ,(0.0) is(0.0) a(0.0) classic(0.0) example(0.0) of(0.0) overregulation(1.0) by(0.0) the(0.0) Federal(1.0) Government(1.0) .(0.0) Right(0.0) now(0.0) 
+if(0.0) you(0.0) have(0.0) a(0.0) wetlands(0.0) problem(0.0) in(0.0) a(0.0) particular(0.0) area(0.0) in(0.0) any(0.0) county(1.0) in(0.0) the(0.0) United(0.0) States(0.0) ,(0.0) any(0.0) one(0.0) 
+of(0.0) four(0.0) agencies(1.0) ,(0.0) the(0.0) EPA(1.0) ,(0.0) the(0.0) USDA(1.0) ,(0.0) Fish(1.0) and(0.0) Wildlife(0.0) ,(0.0) can(0.0) come(0.0) in(0.0) ,(0.0) and(0.0) the(0.0) 
+Corps(0.0) of(0.0) Engineers(0.0) can(0.0) come(0.0) in(0.0) ,(0.0) and(0.0) make(0.0) a(0.0) determination(0.0) on(0.0) that(0.0) as(0.0) to(0.0) whether(0.0) or(0.0) not(0.0) it(0.0) is(0.0) 
+a(0.0) wetlands(0.0) ,(0.0) and(0.0) what(0.0) you(0.0) have(0.0) to(0.0) do(0.0) about(0.0) it(0.0) .(0.0) Why(0.0) should(0.0) you(0.0) have(0.0) four(0.0) Federal(1.0) agencies(1.0) involved(0.0) 
+in(0.0) one(0.0) issue(0.0) like(0.0) that(0.0) ?(0.0) The(0.0) sad(0.0) part(0.0) about(0.0) it(0.0) is(0.0) that(0.0) you(0.0) may(0.0) get(0.0) four(0.0) different(0.0) answers(0.0) from(0.0) 
+all(0.0) four(0.0) of(0.0) those(0.0) agencies(1.0) .(0.0) I(0.0) had(0.0) one(0.0) gentleman(0.0) at(0.0) one(0.0) of(0.0) my(0.0) town(0.0) hall(0.0) meetings(0.0) who(0.0) gave(0.0) me(0.0) 
+a(0.0) personal(0.0) experience(0.0) of(0.0) exactly(0.0) that(0.0) ,(0.0) that(0.0) he(0.0) had(0.0) all(0.0) four(0.0) agencies(1.0) involved(0.0) in(0.0) his(0.0) particular(0.0) wetlands(1.0) issue(0.0) ,(0.0) 
+and(0.0) he(0.0) got(0.0) three(0.0) different(0.0) --(0.0) he(0.0) did(0.0) n't(0.0) get(0.0) four(0.0) ,(0.0) but(0.0) he(0.0) got(0.0) three(0.0) different(0.0) answers(0.0) to(0.0) a(0.0) 
+question(0.0) that(0.0) he(0.0) had(0.0) about(0.0) his(0.0) wetlands(1.0) problem(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+overregulation	Federal	Government	
+county	
+agencies	EPA	USDA	Fish	
+
+Federal	agencies	
+
+agencies	
+agencies	wetlands	
+
+wetlands	
+
+reads % = 0.07368421052631578

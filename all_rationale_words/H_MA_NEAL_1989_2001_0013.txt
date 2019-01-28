@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) 2(0.0) minutes(1.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Vermont(1.0) ((0.0) Mr.(0.0) Sanders(1.0) )(0.0) whose(0.0) pitched(0.0) battle(0.0) with(0.0) IBM(1.0) is(0.0) 
+on(0.0) the(0.0) cutting(0.0) edge(0.0) of(0.0) what(1.0) the(0.0) gentleman(0.0) from(0.0) Minnesota(0.0) ((0.0) Mr.(0.0) Gutknecht(1.0) )(0.0) just(1.0) pointed(0.0) out(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+minutes	Vermont	Sanders	IBM	
+what	Gutknecht	just	out	
+
+reads % = 0.20512820512820512

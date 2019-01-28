@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+1947(0.0) ,(0.0) the(0.0) 2013(0.0) FARRM(0.0) Bill(0.0) .(0.0) Agriculture(0.0) is(0.0) an(0.0) inherently(0.0) risky(0.0) venture(0.0) .(0.0) But(0.0) even(0.0) in(0.0) tough(0.0) times(0.0) ,(0.0) agriculture(1.0) 
+remains(0.0) a(0.0) bright(0.0) spot(0.0) in(0.0) our(0.0) economy(1.0) ,(0.0) and(0.0) we(0.0) can(0.0) not(0.0) afford(0.0) to(0.0) undermine(1.0) this(0.0) success(0.0) .(0.0) We(0.0) should(0.0) 
+not(0.0) use(0.0) the(0.0) notion(1.0) of(0.0) ag(1.0) producers(1.0) growing(0.0) more(0.0) and(0.0) wasting(1.0) less(0.0) as(0.0) an(0.0) excuse(1.0) to(0.0) chip(0.0) away(0.0) at(0.0) crop(0.0) 
+insurance(1.0) .(0.0) Thanks(0.0) to(0.0) crop(0.0) insurance(1.0) design(0.0) ,(0.0) last(0.0) year(0.0) 's(0.0) losses(0.0) ,(0.0) a(0.0) result(0.0) of(0.0) the(0.0) worst(0.0) drought(1.0) in(0.0) 
+decades(1.0) ,(0.0) were(0.0) not(0.0) completely(0.0) borne(0.0) by(0.0) taxpayers(1.0) .(0.0) Further(0.0) cuts(0.0) to(0.0) this(0.0) program(1.0) could(0.0) mean(0.0) increased(0.0) costs(1.0) to(0.0) consumers(1.0) 
+.(0.0) This(0.0) farm(0.0) bill(0.0) also(1.0) provides(0.0) disaster(1.0) assistance(1.0) to(0.0) livestock(1.0) producers(1.0) impacted(1.0) by(0.0) severe(0.0) drought(1.0) ;(0.0) continues(0.0) investment(1.0) into(0.0) agriculture(1.0) 
+research(0.0) ,(0.0) a(0.0) crucial(0.0) component(0.0) of(0.0) food(1.0) safety(0.0) ;(0.0) and(0.0) builds(0.0) upon(0.0) conservation(1.0) efforts(1.0) already(0.0) undertaken(0.0) by(0.0) landowners(1.0) across(0.0) America(1.0) 
+.(0.0) While(0.0) this(0.0) is(0.0) not(0.0) a(0.0) perfect(0.0) bill(1.0) ,(0.0) we(0.0) are(0.0) here(0.0) to(0.0) allow(0.0) the(0.0) legislative(1.0) process(0.0) to(0.0) work(0.0) .(0.0) 
+I(0.0) 'm(0.0) hopeful(0.0) we(0.0) can(0.0) pass(0.0) this(0.0) bill(1.0) ,(0.0) go(0.0) to(0.0) conference(0.0) with(0.0) the(0.0) Senate(0.0) ,(0.0) and(0.0) ensure(0.0) producers(1.0) have(0.0) 
+the(0.0) opportunity(0.0) they(0.0) need(0.0) to(0.0) continue(0.0) to(0.0) feed(0.0) the(0.0) world(0.0) .(0.0) The(0.0) Acting(0.0) CHAIR(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) Oklahoma(1.0) has(0.0) 
+1(0.0) minute(0.0) remaining(0.0) ,(0.0) and(0.0) the(0.0) gentleman(0.0) from(0.0) Minnesota(1.0) has(0.0) 5\1/2\(0.0) minutes(0.0) remaining(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+agriculture	
+economy	undermine	
+notion	ag	producers	wasting	excuse	
+insurance	insurance	drought	
+decades	taxpayers	program	costs	consumers	
+also	disaster	assistance	livestock	producers	impacted	drought	investment	agriculture	
+food	conservation	efforts	landowners	America	
+bill	legislative	
+bill	producers	
+Oklahoma	
+Minnesota	
+
+reads % = 0.16744186046511628

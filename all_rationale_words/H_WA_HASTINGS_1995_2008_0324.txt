@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Would(1.0) the(0.0) gentleman(0.0) yield(0.0) on(0.0) that(0.0) point(0.0) just(0.0) for(0.0) clarification(0.0) ?(0.0) Is(0.0) the(0.0) gentleman(0.0) denying(0.0) that(0.0) this(0.0) is(0.0) not(0.0) a(0.0) photograph(0.0) 
+of(0.0) the(0.0) Taunton(1.0) River(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+
+Taunton	
+
+reads % = 0.038461538461538464

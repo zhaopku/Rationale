@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) me(0.0) this(0.0) time(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) very(0.0) simply(0.0) ,(0.0) today(0.0) 's(0.0) Post(0.0) 
+carries(0.0) a(0.0) story(0.0) about(0.0) 40,000(0.0) people(0.0) being(0.0) laid(0.0) off(0.0) by(0.0) AT(0.0) &(0.0) T(0.0) .(0.0) The(0.0) other(0.0) day(0.0) it(0.0) was(0.0) reported(0.0) 
+3(0.0) million(0.0) jobs(0.0) have(0.0) been(0.0) lost(0.0) through(0.0) downsizing(1.0) .(0.0) That(0.0) is(0.0) the(0.0) reason(0.0) this(0.0) bill(1.0) is(0.0) extremely(0.0) important(0.0) .(0.0) We(0.0) 
+need(0.0) to(0.0) expand(0.0) our(0.0) exports(1.0) ,(0.0) open(0.0) up(0.0) the(0.0) markets(1.0) so(0.0) that(0.0) there(0.0) will(0.0) be(0.0) new(0.0) jobs(1.0) for(0.0) the(0.0) 3(0.0) 
+million(0.0) people(0.0) that(0.0) have(0.0) been(0.0) downsized(0.0) in(0.0) the(0.0) name(0.0) of(0.0) efficiency(1.0) .(0.0) What(0.0) is(0.0) in(0.0) this(0.0) bill(1.0) that(1.0) would(0.0) affect(0.0) 
+that(0.0) ?(0.0) No(0.0) .(0.0) 1(0.0) ,(0.0) this(0.0) cripples(1.0) the(0.0) embassies(1.0) if(0.0) we(0.0) do(0.0) not(0.0) override(0.0) this(0.0) veto(1.0) .(0.0) It(0.0) cripples(0.0) 
+our(0.0) security(0.0) .(0.0) It(0.0) cripples(1.0) our(0.0) communications(0.0) .(0.0) It(0.0) makes(0.0) them(0.0) difficult(0.0) to(0.0) represent(0.0) the(0.0) United(0.0) States(0.0) around(0.0) the(0.0) world(0.0) 
+and(0.0) to(0.0) encourage(0.0) the(0.0) growth(1.0) in(0.0) exports(1.0) .(0.0) Second(0.0) ,(0.0) the(0.0) International(0.0) Trade(0.0) Agency(0.0) is(0.0) crippled(1.0) ,(0.0) and(0.0) it(0.0) is(0.0) 
+the(0.0) protector(0.0) of(0.0) our(0.0) industries(1.0) against(0.0) unfair(1.0) dumping(1.0) ,(0.0) against(1.0) unfair(1.0) practices(1.0) that(0.0) make(0.0) it(0.0) difficult(0.0) for(0.0) them(0.0) to(0.0) compete(0.0) 
+.(0.0) Third(0.0) ,(0.0) it(0.0) cripples(1.0) the(0.0) manufacturing(1.0) extension(0.0) assistance(1.0) ,(0.0) which(0.0) helps(0.0) small(0.0) and(0.0) medium(0.0) businesses(1.0) to(0.0) be(0.0) competitive(0.0) in(0.0) 
+the(0.0) marketplace(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	
+
+downsizing	bill	
+exports	markets	jobs	
+efficiency	bill	that	
+cripples	embassies	veto	
+cripples	
+growth	exports	crippled	
+industries	unfair	dumping	against	unfair	practices	
+cripples	manufacturing	assistance	businesses	
+
+
+reads % = 0.12745098039215685

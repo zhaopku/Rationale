@@ -1,0 +1,22 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) will(0.0) the(0.0) gentleman(0.0) yield(0.0) ?(0.0) Chairman(0.0) ,(0.0) I(0.0) thank(0.0) my(0.0) friend(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) ,(0.0) for(0.0) yielding(0.0) 
+to(0.0) me(0.0) .(0.0) As(0.0) a(0.0) Member(0.0) who(0.0) has(0.0) not(0.0) been(0.0) intimately(0.0) acquainted(0.0) with(0.0) the(0.0) details(0.0) of(0.0) the(0.0) Catellus(1.0) provisions(0.0) ,(0.0) 
+I(0.0) have(0.0) a(0.0) few(0.0) basic(0.0) questions(0.0) .(0.0) I(0.0) am(0.0) trying(0.0) to(0.0) sort(0.0) this(0.0) out(0.0) as(0.0) we(0.0) go(0.0) through(0.0) the(0.0) debate(1.0) 
+.(0.0) My(0.0) friend(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) [(0.0) Mr.(0.0) Miller(1.0) ](0.0) ,(0.0) described(0.0) the(0.0) Catellus(1.0) investment(0.0) as(0.0) being(0.0) basically(0.0) 
+retirees(0.0) in(0.0) the(0.0) California(0.0) retirement(0.0) system(0.0) .(0.0) But(0.0) as(0.0) I(0.0) understand(0.0) it(0.0) now(0.0) ,(0.0) as(0.0) to(0.0) Catellus(1.0) ,(0.0) it(0.0) is(0.0) 
+a(0.0) little(0.0) deeper(0.0) than(0.0) that(0.0) ,(0.0) in(0.0) that(0.0) the(0.0) Catellus(1.0) Corp.(0.0) is(0.0) a(0.0) landholding(1.0) corporation(0.0) for(0.0) the(0.0) Santa(0.0) Fe(0.0) Railroad(1.0) 
+.(0.0) Is(0.0) that(0.0) right(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+
+Catellus	
+debate	
+Miller	Catellus	
+Catellus	
+Catellus	landholding	Railroad	
+
+
+reads % = 0.06349206349206349

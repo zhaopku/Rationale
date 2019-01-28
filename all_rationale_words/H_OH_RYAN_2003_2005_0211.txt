@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+They(0.0) do(0.0) not(0.0) want(0.0) us(0.0) to(0.0) sit(0.0) here(0.0) and(0.0) be(0.0) partisan(1.0) .(0.0) The(0.0) fact(0.0) of(0.0) the(0.0) matter(0.0) is(0.0) this(0.0) .(0.0) These(0.0) 
+are(0.0) facts(0.0) .(0.0) The(0.0) Democrats(1.0) are(0.0) not(0.0) in(0.0) power(0.0) .(0.0) It(0.0) hurts(0.0) me(0.0) to(0.0) say(0.0) it(0.0) .(0.0) I(0.0) do(0.0) not(0.0) 
+like(0.0) saying(0.0) it(0.0) ,(0.0) but(0.0) when(0.0) you(0.0) are(0.0) analyzing(0.0) the(0.0) direction(0.0) of(0.0) the(0.0) country(1.0) and(0.0) both(0.0) Chambers(0.0) and(0.0) the(0.0) executive(0.0) 
+branch(0.0) are(0.0) all(0.0) run(0.0) by(0.0) one(0.0) party(0.0) ,(0.0) and(0.0) they(0.0) come(0.0) out(0.0) with(0.0) privatization(1.0) schemes(1.0) ,(0.0) tax(1.0) cuts(1.0) ,(1.0) primarily(1.0) 
+for(1.0) people(1.0) who(0.0) make(0.0) over(0.0) $(0.0) 400,000(0.0) a(0.0) year(0.0) ,(0.0) corporate(1.0) tax(1.0) rates(1.0) are(0.0) the(0.0) lowest(1.0) they(0.0) have(0.0) been(0.0) in(0.0) 
+the(0.0) history(0.0) of(0.0) the(0.0) country(1.0) ,(0.0) all(0.0) of(0.0) these(0.0) things(0.0) ,(0.0) and(0.0) then(0.0) we(0.0) are(0.0) here(0.0) trying(0.0) to(0.0) say(0.0) ,(0.0) 
+well(0.0) ,(0.0) wait(0.0) a(0.0) minute(0.0) .(0.0) You(0.0) are(0.0) not(0.0) funding(1.0) veterans(1.0) .(0.0) Wait(0.0) a(0.0) minute(0.0) .(0.0) The(0.0) American(0.0) people(0.0) do(0.0) 
+not(0.0) want(0.0) to(0.0) privatize(1.0) Social(0.0) Security(0.0) .(0.0) In(0.0) fact(0.0) ,(0.0) we(0.0) have(0.0) the(0.0) poll(1.0) here(0.0) of(0.0) the(0.0) rural(1.0) voters(0.0) :(0.0) 
+Are(0.0) President(0.0) Bush(1.0) 's(0.0) proposed(0.0) changes(0.0) to(0.0) Social(1.0) Security(0.0) mainly(0.0) consistent(0.0) with(0.0) the(0.0) values(0.0) of(0.0) the(0.0) people(0.0) in(0.0) your(0.0) community(0.0) 
+or(0.0) out(0.0) of(0.0) step(0.0) ?(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) 61(0.0) percent(0.0) of(0.0) rural(1.0) voters(0.0) say(0.0) that(0.0) the(0.0) privatization(1.0) scheme(1.0) is(0.0) out(0.0) 
+of(0.0) step(0.0) with(0.0) their(0.0) values(0.0) ,(0.0) because(0.0) we(0.0) have(0.0) guaranteed(0.0) benefits(1.0) .(0.0) We(0.0) have(0.0) a(0.0) system(0.0) that(0.0) works(0.0) ,(0.0) has(0.0) 
+worked(0.0) ,(0.0) will(0.0) continue(0.0) to(0.0) work(0.0) with(0.0) minor(0.0) adjustments(0.0) ,(0.0) not(0.0) a(0.0) privatization(1.0) scheme(0.0) .(0.0) That(0.0) is(0.0) not(0.0) the(0.0) right(0.0) 
+way(0.0) to(0.0) go(0.0) .(0.0) If(0.0) you(0.0) look(0.0) at(0.0) the(0.0) decisions(0.0) that(0.0) have(0.0) been(0.0) made(0.0) over(0.0) the(0.0) past(0.0) few(0.0) years(0.0) ,(0.0) 
+they(0.0) have(0.0) not(0.0) been(0.0) good(0.0) for(0.0) the(0.0) country(1.0) :(0.0) losing(0.0) hundreds(0.0) of(0.0) thousands(1.0) of(0.0) jobs(1.0) in(0.0) Ohio(1.0) alone(0.0) ,(0.0) millions(1.0) 
+of(0.0) jobs(1.0) throughout(0.0) the(0.0) country(1.0) ,(0.0) and(0.0) the(0.0) jobs(0.0) replacing(0.0) the(0.0) jobs(1.0) that(0.0) are(0.0) leaving(0.0) are(0.0) $(0.0) 10,000(0.0) less(0.0) ,(0.0) 
+$(0.0) 11,000(0.0) less(0.0) a(0.0) year(0.0) ,(0.0) without(0.0) health(1.0) care(1.0) benefits(1.0) .(0.0) Wal-Mart(0.0) is(0.0) basically(0.0) getting(0.0) corporate(1.0) welfare(1.0) because(0.0) so(0.0) many(0.0) 
+of(0.0) their(0.0) employees(0.0) are(0.0) on(0.0) Medicaid(1.0) .(0.0) So(0.0) they(0.0) think(0.0) ,(0.0) why(0.0) should(0.0) we(0.0) give(0.0) our(0.0) people(0.0) health(1.0) care(1.0) ,(0.0) 
+they(0.0) could(0.0) go(0.0) on(0.0) Medicaid(1.0) .(0.0) Who(0.0) pays(0.0) for(0.0) Medicaid(1.0) ?(0.0) We(0.0) pay(0.0) for(0.0) Medicaid(1.0) .(0.0) The(0.0) country(1.0) .(0.0) The(0.0) 
+public(1.0) pays(0.0) for(0.0) Medicaid(1.0) .(0.0) Why(0.0) is(0.0) the(0.0) public(1.0) subsidizing(1.0) the(0.0) wealthiest(1.0) company(0.0) in(0.0) the(0.0) country(1.0) ?(0.0) It(0.0) just(0.0) does(0.0) 
+not(0.0) make(0.0) any(0.0) sense(0.0) .(0.0) And(0.0) the(0.0) decisions(1.0) that(0.0) are(0.0) being(0.0) made(0.0) ,(0.0) the(0.0) lack(0.0) of(0.0) attention(0.0) to(0.0) the(0.0) issue(0.0) 
+of(0.0) China(1.0) and(0.0) what(0.0) is(0.0) going(0.0) on(0.0) with(0.0) the(0.0) manipulation(1.0) of(0.0) their(0.0) currency(0.0) and(0.0) the(0.0) lack(0.0) of(0.0) trying(0.0) to(0.0) implement(1.0) 
+democratic(1.0) reforms(1.0) in(0.0) China(1.0) ,(0.0) all(0.0) of(0.0) these(0.0) things(0.0) add(0.0) up(0.0) to(0.0) say(0.0) ,(0.0) we(0.0) are(0.0) going(0.0) in(0.0) the(0.0) wrong(0.0) 
+direction(0.0) .(0.0) Now(0.0) ,(0.0) I(0.0) would(0.0) like(0.0) to(0.0) bring(0.0) up(0.0) one(0.0) point(0.0) ,(0.0) I(0.0) say(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Florida(0.0) 
+,(0.0) if(0.0) I(0.0) can(0.0) ,(0.0) because(0.0) we(0.0) started(0.0) talking(0.0) a(0.0) little(0.0) bit(0.0) about(0.0) the(0.0) veterans(1.0) .(0.0) I(0.0) just(0.0) want(0.0) to(0.0) 
+kind(0.0) of(0.0) lay(0.0) out(0.0) ,(0.0) and(0.0) the(0.0) gentleman(0.0) knows(0.0) I(0.0) like(0.0) my(0.0) charts(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+partisan	
+Democrats	
+country	
+privatization	schemes	tax	cuts	,	primarily	
+for	people	corporate	tax	rates	lowest	
+country	
+funding	veterans	
+privatize	poll	rural	
+Bush	Social	
+Speaker	rural	privatization	scheme	
+benefits	
+privatization	
+
+country	thousands	jobs	Ohio	millions	
+jobs	country	jobs	
+health	care	benefits	corporate	welfare	
+Medicaid	health	care	
+Medicaid	Medicaid	Medicaid	country	
+public	Medicaid	public	subsidizing	wealthiest	country	
+decisions	
+China	manipulation	implement	
+democratic	reforms	China	
+
+veterans	
+
+
+reads % = 0.12727272727272726

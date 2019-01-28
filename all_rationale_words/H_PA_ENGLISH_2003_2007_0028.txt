@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) today(0.0) the(0.0) House(0.0) is(0.0) considering(0.0) legislation(1.0) 
+that(0.0) ,(0.0) in(0.0) my(0.0) view(0.0) ,(0.0) represents(0.0) the(0.0) first(0.0) brick(0.0) in(0.0) a(0.0) Chinese(0.0) wall(0.0) of(0.0) tax(1.0) increases(1.0) .(0.0) Generating(0.0) revenue(1.0) 
+by(0.0) assuming(0.0) that(0.0) Americans(1.0) with(0.0) more(0.0) than(0.0) $(0.0) 5(0.0) million(0.0) in(0.0) income(1.0) will(0.0) increase(1.0) their(0.0) annual(0.0) withholding(1.0) by(0.0) one-tenth(0.0) of(0.0) 
+1(0.0) percent(0.0) simply(0.0) makes(0.0) a(0.0) mockery(1.0) of(0.0) PAYGO(1.0) .(0.0) The(0.0) majority(1.0) is(0.0) exploiting(1.0) a(0.0) statistical(0.0) quirk(0.0) in(0.0) the(0.0) way(0.0) that(0.0) 
+the(0.0) Joint(0.0) Tax(0.0) Committee(0.0) does(0.0) its(0.0) revenue(1.0) estimates(0.0) ,(0.0) and(0.0) will(0.0) have(0.0) accountants(0.0) ,(0.0) not(0.0) normally(0.0) known(0.0) for(0.0) their(0.0) high(0.0) 
+spirits(0.0) and(0.0) good(0.0) humor(0.0) ,(0.0) roaring(0.0) with(0.0) laughter(0.0) all(0.0) over(0.0) the(0.0) country(1.0) .(0.0) Perhaps(0.0) ,(0.0) in(0.0) the(0.0) aggregate(0.0) ,(0.0) there(0.0) 
+are(0.0) enough(0.0) people(0.0) in(0.0) America(1.0) making(0.0) more(0.0) than(0.0) $(0.0) 5(0.0) million(0.0) who(0.0) will(0.0) pay(1.0) an(0.0) extra(0.0) $(0.0) 2,000(0.0) in(0.0) estimated(1.0) 
+taxes(1.0) to(0.0) raise(1.0) revenues(1.0) as(0.0) much(0.0) as(0.0) anticipated(0.0) ,(0.0) but(0.0) this(0.0) seems(0.0) more(0.0) likely(0.0) to(0.0) be(0.0) an(0.0) instance(0.0) where(0.0) the(0.0) 
+Joint(0.0) Tax(1.0) Committee(0.0) 's(0.0) scoring(0.0) rules(0.0) and(0.0) common(0.0) sense(0.0) have(0.0) dramatically(0.0) parted(0.0) ways(0.0) .(0.0) If(0.0) the(0.0) Judiciary(1.0) Committee(0.0) thinks(0.0) the(0.0) 
+companion(0.0) bill(0.0) to(0.0) create(0.0) a(0.0) new(0.0) Member(0.0) from(0.0) Utah(1.0) and(0.0) add(0.0) voting(1.0) rights(1.0) to(0.0) a(0.0) Member(0.0) from(0.0) the(0.0) District(0.0) of(0.0) 
+Columbia(0.0) is(0.0) such(0.0) a(0.0) good(0.0) idea(0.0) ,(0.0) surely(0.0) they(0.0) could(0.0) have(0.0) found(0.0) some(0.0) program(1.0) within(0.0) their(0.0) jurisdiction(1.0) to(0.0) trim(0.0) by(0.0) 
+an(0.0) offsetting(1.0) amount(0.0) .(0.0) And(0.0) they(0.0) did(0.0) n't(0.0) find(0.0) a(0.0) user(0.0) fee(0.0) in(0.0) their(0.0) jurisdiction(1.0) to(0.0) increase(0.0) by(0.0) just(0.0) a(0.0) 
+few(0.0) dollars(0.0) .(0.0) In(0.0) fact(0.0) ,(0.0) despite(0.0) the(0.0) fact(0.0) the(0.0) Democratic(1.0) majority(1.0) created(0.0) a(0.0) budget(1.0) that(0.0) includes(0.0) more(0.0) than(0.0) $(0.0) 
+2(0.0) trillion(1.0) in(0.0) spending(1.0) ,(0.0) they(0.0) could(0.0) not(0.0) even(0.0) trim(0.0) $(0.0) 3(0.0) million(0.0) from(0.0) that(0.0) total(0.0) to(0.0) pay(1.0) for(0.0) this(0.0) 
+rather(0.0) modest(0.0) initiative(1.0) .(0.0) To(0.0) put(0.0) this(0.0) in(0.0) perspective(0.0) ,(0.0) the(0.0) majority(1.0) could(0.0) have(0.0) offset(1.0) this(0.0) bill(1.0) by(0.0) reducing(1.0) entitlement(1.0) 
+spending(1.0) by(0.0) just(0.0) two(0.0) ten-thousandths(1.0) of(0.0) a(0.0) percent(0.0) .(0.0) By(0.0) not(0.0) going(0.0) down(0.0) that(0.0) route(0.0) ,(0.0) this(0.0) bill(1.0) confirms(1.0) what(0.0) 
+we(0.0) have(0.0) all(0.0) suspected(0.0) :(0.0) the(0.0) Tax(1.0) Code(1.0) is(0.0) going(0.0) to(0.0) be(0.0) the(0.0) ATM(0.0) machine(0.0) that(0.0) pays(0.0) for(0.0) all(0.0) of(0.0) 
+the(0.0) new(0.0) majority(0.0) 's(0.0) fondest(0.0) initiatives(1.0) .(0.0) The(0.0) bill(1.0) today(0.0) may(0.0) be(0.0) cheap(0.0) in(0.0) total(0.0) dollar(1.0) terms(0.0) ,(0.0) but(0.0) we(0.0) 
+will(0.0) not(0.0) be(0.0) so(0.0) lucky(0.0) the(0.0) next(0.0) time(0.0) around(0.0) .(0.0) In(0.0) fact(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) in(0.0) my(0.0) view(0.0) ,(0.0) 
+H.R(0.0) .(0.0) 1906(0.0) represents(1.0) what(0.0) will(0.0) be(0.0) the(0.0) first(0.0) of(0.0) a(0.0) series(0.0) of(0.0) bizarre(1.0) revenue(1.0) raisers(1.0) ,(0.0) Rube(1.0) Goldberg(1.0) devices(0.0) 
+,(0.0) and(0.0) tax(0.0) gimmicks(1.0) to(0.0) be(0.0) trotted(0.0) out(0.0) to(0.0) pay(1.0) ,(0.0) first(0.0) for(0.0) small(0.0) things(0.0) ,(0.0) and(0.0) then(0.0) pay(1.0) for(0.0) 
+the(0.0) demands(1.0) of(0.0) the(0.0) majority(1.0) 's(0.0) budget(1.0) ,(0.0) which(0.0) includes(0.0) the(0.0) largest(0.0) tax(1.0) increase(1.0) in(0.0) American(0.0) history(0.0) ,(0.0) nearly(0.0) $(0.0) 
+4(0.0) billion(1.0) over(0.0) 5(0.0) years(0.0) .(0.0) It(0.0) also(0.0) demonstrates(0.0) that(0.0) the(0.0) majority(1.0) 's(0.0) PAYGO(1.0) promise(0.0) that(0.0) new(0.0) entitlement(1.0) spending(1.0) could(0.0) 
+be(0.0) offset(1.0) with(0.0) entitlement(1.0) spending(1.0) cuts(1.0) is(0.0) hollow(0.0) and(0.0) cynical(1.0) .(0.0) If(0.0) they(0.0) ca(0.0) n't(0.0) even(0.0) find(0.0) $(0.0) 3(0.0) million(0.0) 
+of(0.0) entitlement(1.0) savings(1.0) for(0.0) this(0.0) bill(1.0) ,(0.0) can(0.0) we(0.0) expect(0.0) them(0.0) to(0.0) pay(1.0) for(0.0) their(0.0) new(0.0) programs(1.0) with(0.0) anything(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	legislation	
+tax	increases	revenue	
+Americans	income	increase	withholding	
+mockery	PAYGO	majority	exploiting	
+revenue	
+country	
+America	pay	estimated	
+taxes	raise	revenues	
+Tax	Judiciary	
+Utah	voting	rights	
+program	jurisdiction	
+offsetting	jurisdiction	
+Democratic	majority	budget	
+trillion	spending	pay	
+initiative	majority	offset	bill	reducing	entitlement	
+spending	ten-thousandths	bill	confirms	
+Tax	Code	
+initiatives	bill	dollar	
+Speaker	
+represents	bizarre	revenue	raisers	Rube	Goldberg	
+gimmicks	pay	pay	
+demands	majority	budget	tax	increase	
+billion	majority	PAYGO	entitlement	spending	
+offset	entitlement	spending	cuts	cynical	
+entitlement	savings	bill	pay	programs	
+
+reads % = 0.162

@@ -1,0 +1,40 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) would(0.0) like(0.0) to(0.0) thank(0.0) Chairman(0.0) MCKeon(0.0) for(0.0) his(0.0) leadership(0.0) on(0.0) the(0.0) National(0.0) Defense(0.0) Authorization(0.0) Act(0.0) ,(0.0) and(0.0) also(0.0) 
+recognize(0.0) Ranking(0.0) Member(0.0) Smith(1.0) for(0.0) his(0.0) efforts(0.0) on(0.0) what(0.0) I(0.0) believe(0.0) is(0.0) an(0.0) extraordinarily(0.0) good(0.0) bill(1.0) .(0.0) I(0.0) am(0.0) pleased(0.0) 
+today(0.0) to(0.0) support(0.0) H.R(0.0) .(0.0) 1540(0.0) .(0.0) It(0.0) recognizes(1.0) the(0.0) need(0.0) for(0.0) fiscal(1.0) constraint(0.0) while(0.0) at(0.0) the(0.0) same(0.0) time(0.0) ensuring(0.0) 
+our(0.0) Nation(1.0) 's(0.0) security(0.0) and(0.0) fulfills(0.0) our(0.0) sacred(1.0) obligations(1.0) to(0.0) our(0.0) brave(0.0) men(0.0) and(0.0) women(0.0) in(0.0) uniform(1.0) .(0.0) The(0.0) bill(1.0) 
+also(0.0) strengthens(0.0) protections(1.0) against(0.0) ill-considered(1.0) efforts(1.0) to(0.0) release(0.0) detainees(1.0) held(0.0) at(0.0) the(0.0) Guantanamo(1.0) Bay(1.0) detention(0.0) facility(0.0) .(0.0) In(0.0) December(0.0) ,(0.0) 
+the(0.0) Director(0.0) of(0.0) National(0.0) Intelligence(0.0) reported(0.0) that(0.0) 25(0.0) percent(0.0) of(0.0) those(0.0) formerly(0.0) held(0.0) at(0.0) Gitmo(1.0) were(0.0) confirmed(0.0) or(0.0) suspected(0.0) of(0.0) 
+returning(0.0) to(0.0) the(0.0) fight(0.0) against(0.0) us(0.0) and(0.0) our(0.0) allies(1.0) .(0.0) This(0.0) rate(0.0) is(0.0) alarming(0.0) and(0.0) unacceptable(1.0) .(0.0) I(0.0) am(0.0) concerned(0.0) 
+that(0.0) the(0.0) government(1.0) did(0.0) not(0.0) conduct(0.0) significant(0.0) due(0.0) diligence(0.0) when(0.0) identifying(0.0) detainees(1.0) for(0.0) release(0.0) and(0.0) that(0.0) this(0.0) failure(1.0) has(0.0) potentially(0.0) 
+grave(0.0) ramifications(1.0) for(0.0) our(0.0) troops(1.0) serving(0.0) on(0.0) the(0.0) battlefield(0.0) .(0.0) H.R(0.0) .(0.0) 1540(0.0) strengthens(0.0) our(0.0) protections(1.0) in(0.0) several(0.0) important(0.0) ways(0.0) 
+.(0.0) First(0.0) ,(0.0) it(0.0) prohibits(1.0) transfers(1.0) to(0.0) foreign(1.0) countries(0.0) where(0.0) there(0.0) are(0.0) known(0.0) cases(0.0) of(0.0) re-engagement(1.0) ;(0.0) it(0.0) requires(0.0) careful(0.0) 
+consideration(1.0) of(0.0) established(0.0) criteria(0.0) before(0.0) other(0.0) transfers(0.0) are(0.0) accomplished(0.0) ;(0.0) and(0.0) it(0.0) mandates(1.0) that(0.0) government(1.0) agencies(1.0) provide(0.0) Congress(0.0) the(0.0) information(0.0) 
+we(0.0) need(0.0) to(0.0) properly(0.0) assess(0.0) the(0.0) threats(1.0) our(0.0) Nation(1.0) and(0.0) our(0.0) troops(1.0) face(0.0) from(0.0) detainees(1.0) who(0.0) have(0.0) rejoined(0.0) the(0.0) fight(1.0) 
+and(0.0) continue(0.0) to(0.0) commit(0.0) terrorist(1.0) acts(0.0) .(0.0) H.R(0.0) .(0.0) 1540(0.0) also(0.0) ensures(0.0) continued(0.0) oversight(1.0) of(0.0) Arlington(0.0) National(0.0) Cemetery(0.0) .(0.0) It(0.0) 
+directs(0.0) the(0.0) timely(0.0) establishment(0.0) of(0.0) the(0.0) Oversight(0.0) Council(0.0) and(0.0) creates(0.0) a(0.0) date(0.0) certain(0.0) for(0.0) record(0.0) digitization(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) 
+I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) H.R(0.0) .(0.0) 1540(0.0) .(0.0) I(0.0) would(0.0) like(0.0) to(0.0) end(0.0) with(0.0) thanking(0.0) the(0.0) staff(0.0) ,(0.0) 
+including(0.0) Michelle(1.0) Pearce(1.0) ,(0.0) for(0.0) their(0.0) great(0.0) work(0.0) on(0.0) the(0.0) Oversight(0.0) and(0.0) Investigations(0.0) Subcommittee(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Smith	bill	
+recognizes	fiscal	
+Nation	sacred	obligations	uniform	bill	
+protections	ill-considered	efforts	detainees	Guantanamo	Bay	
+Gitmo	
+allies	unacceptable	
+government	detainees	failure	
+ramifications	troops	protections	
+prohibits	transfers	foreign	re-engagement	
+consideration	mandates	government	agencies	
+threats	Nation	troops	detainees	fight	
+terrorist	oversight	
+digitization	Chairman	
+
+Michelle	Pearce	
+
+reads % = 0.1360759493670886

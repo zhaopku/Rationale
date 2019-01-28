@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) let(0.0) us(0.0) see(0.0) if(0.0) this(0.0) makes(0.0) any(1.0) sense(0.0) :(1.0) Congress(0.0) borrows(1.0) money(0.0) from(0.0) Japan(1.0) and(0.0) Germany(1.0) ;(0.0) then(0.0) Congress(0.0) 
+gives(1.0) the(0.0) borrowed(0.0) money(0.0) to(0.0) Russia(0.0) ;(0.0) then(1.0) Russia(0.0) takes(1.0) the(0.0) American(0.0) cash(1.0) and(0.0) bribes(0.0) our(0.0) CIA(1.0) and(0.0) buys(1.0) our(0.0) 
+secrets(0.0) .(0.0) Most(0.0) recently(0.0) ,(0.0) Rick(1.0) and(0.0) Mary(1.0) Ames(1.0) ,(0.0) think(1.0) about(0.0) it(0.0) ,(0.0) American(0.0) cash(1.0) is(0.0) used(0.0) to(0.0) spy(1.0) 
+on(0.0) America(0.0) .(0.0) We(0.0) are(0.0) supposed(0.0) to(0.0) be(0.0) helping(1.0) Russia(0.0) find(1.0) democracy(1.0) and(0.0) freedom(1.0) .(0.0) They(0.0) are(0.0) using(0.0) our(0.0) cash(0.0) 
+to(0.0) undermine(1.0) and(0.0) endanger(1.0) our(0.0) freedom(1.0) .(0.0) Beam(1.0) me(0.0) ,(0.0) Mr.(1.0) Speaker(1.0) .(0.0) We(0.0) have(0.0) got(1.0) kids(0.0) sleeping(0.0) on(0.0) steel(1.0) 
+grates(1.0) ,(0.0) kids(0.0) killing(0.0) kids(0.0) ,(0.0) mom(1.0) and(0.0) dad(1.0) without(0.0) jobs(1.0) ,(0.0) and(0.0) we(0.0) are(0.0) giving(0.0) our(0.0) borrowed(0.0) money(0.0) to(0.0) 
+Russia(0.0) ,(0.0) who(0.0) spies(1.0) on(0.0) us(0.0) .(0.0) I(0.0) say(1.0) enough(0.0) is(0.0) enough(0.0) ;(0.0) no(1.0) more(0.0) cash(1.0) to(0.0) Russia(0.0) .(0.0) Charity(1.0) 
+starts(0.0) at(0.0) home(0.0) .(0.0) One(1.0) last(0.0) thing(0.0) :(0.0) I(0.0) heard(1.0) it(0.0) was(0.0) still(0.0) referred(0.0) to(0.0) as(0.0) ``(0.0) Uncle(1.0) Sam(1.0) ,(0.0) 
+''(0.0) not(1.0) ``(0.0) Uncle(1.0) Sucker(0.0) .(0.0) ''(0.0) Maybe(1.0) Congress(0.0) ought(1.0) to(0.0) leave(1.0) it(0.0) that(0.0) way(1.0) ,(0.0) 
+
+
+----- below are rationale words -----
+
+any	:	borrows	Japan	Germany	
+gives	then	takes	cash	CIA	buys	
+Rick	Mary	Ames	think	cash	spy	
+helping	find	democracy	freedom	
+undermine	endanger	freedom	Beam	Mr.	Speaker	got	steel	
+grates	mom	dad	jobs	
+spies	say	no	cash	Charity	
+One	heard	Uncle	Sam	
+not	Uncle	Maybe	ought	leave	way	
+
+reads % = 0.2711864406779661

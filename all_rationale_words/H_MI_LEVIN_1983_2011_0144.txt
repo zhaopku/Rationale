@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+There(0.0) is(0.0) nothing(0.0) in(0.0) that(0.0) decision(0.0) ,(0.0) nothing(0.0) in(0.0) that(0.0) action(0.0) that(0.0) paid(0.0) for(0.0) a(0.0) continuing(0.0) resolution(1.0) that(0.0) will(0.0) take(0.0) away(0.0) 
+jobs(0.0) from(0.0) the(0.0) businesses(1.0) and(0.0) workers(1.0) of(0.0) the(0.0) United(0.0) States(0.0) of(0.0) America(1.0) ,(0.0) purely(0.0) and(0.0) simply(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+resolution	
+businesses	workers	America	
+
+reads % = 0.10526315789473684

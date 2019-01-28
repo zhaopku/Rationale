@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) the(0.0) government(1.0) should(0.0) stay(0.0) open(0.0) .(0.0) I(0.0) support(0.0) the(0.0) legislation(0.0) ,(0.0) but(1.0) it(0.0) can(1.0) be(0.0) improved(0.0) .(0.0) All(0.0) 
+employees(1.0) who(0.0) work(0.0) without(0.0) pay(0.0) should(0.0) be(0.0) paid(0.0) on(0.0) time(0.0) ,(0.0) including(1.0) ,(0.0) for(0.0) example(0.0) ,(0.0) the(0.0) CIA(1.0) .(0.0) I(0.0) 
+went(0.0) to(0.0) the(0.0) memorial(1.0) service(0.0) where(0.0) the(0.0) CIA(1.0) employees(1.0) were(0.0) killed(1.0) in(0.0) Khost(1.0) ;(0.0) and(0.0) they(0.0) 're(0.0) side(0.0) by(0.0) side(0.0) 
+with(0.0) the(0.0) American(0.0) military(1.0) .(0.0) The(0.0) FBI(1.0) ,(0.0) who(0.0) is(0.0) on(0.0) the(0.0) scene(1.0) in(0.0) Kenya(0.0) now(0.0) ,(0.0) investigating(0.0) al-Shabab(1.0) and(0.0) 
+the(0.0) attack(0.0) ;(0.0) DEA(1.0) ,(0.0) Customs(0.0) and(0.0) Border(0.0) Patrol(1.0) agents(1.0) ,(0.0) prison(1.0) guards(1.0) ,(0.0) doctors(0.0) and(0.0) nurses(0.0) at(0.0) VA(0.0) hospitals(1.0) 
+,(0.0) air(0.0) traffic(1.0) controllers(0.0) ,(0.0) and(0.0) Federal(1.0) firefighters(1.0) ,(0.0) many(0.0) who(0.0) gave(0.0) their(0.0) lives(0.0) fighting(1.0) wildfires(1.0) around(0.0) the(0.0) country(1.0) .(0.0) 
+Otherwise(0.0) ,(0.0) they(0.0) would(1.0) be(0.0) working(0.0) without(0.0) pay(0.0) if(0.0) the(0.0) government(1.0) closes(0.0) .(0.0) I(0.0) believe(1.0) that(0.0) all(0.0) Federal(1.0) employees(1.0) should(0.0) 
+be(0.0) paid(0.0) .(0.0) We(0.0) should(0.0) not(1.0) forget(0.0) that(0.0) several(0.0) Federal(1.0) employees(1.0) were(0.0) killed(1.0) at(0.0) the(0.0) Navy(1.0) Yard(1.0) .(0.0) I(0.0) went(1.0) 
+to(0.0) the(0.0) memorial(1.0) service(0.0) and(0.0) saw(0.0) the(0.0) pain(0.0) of(0.0) their(0.0) families(0.0) .(0.0) And(0.0) the(0.0) CNO(1.0) ,(0.0) who(0.0) spoke(0.0) ,(0.0) said(1.0) 
+they(0.0) were(0.0) supporting(1.0) the(0.0) fleet(1.0) .(0.0) So(0.0) in(0.0) closing(1.0) ,(0.0) I(0.0) am(0.0) going(1.0) to(0.0) support(0.0) this(0.0) amendment(1.0) ;(0.0) but(0.0) Federal(1.0) 
+employees(1.0) and(0.0) their(0.0) families(0.0) should(0.0) not(1.0) be(0.0) punished(1.0) because(0.0) the(0.0) administration(0.0) and(0.0) the(0.0) Congress(0.0) can(1.0) not(0.0) agree(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	government	but	can	
+employees	including	CIA	
+memorial	CIA	employees	killed	Khost	
+military	FBI	scene	al-Shabab	
+DEA	Patrol	agents	prison	guards	hospitals	
+traffic	Federal	firefighters	fighting	wildfires	country	
+would	government	believe	Federal	employees	
+not	Federal	employees	killed	Navy	Yard	went	
+memorial	CNO	said	
+supporting	fleet	closing	going	amendment	Federal	
+employees	not	punished	can	agree	
+
+reads % = 0.2465753424657534

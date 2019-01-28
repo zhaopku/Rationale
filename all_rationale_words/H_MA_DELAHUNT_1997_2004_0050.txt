@@ -1,0 +1,34 @@
+This is from a Democrat
+----- below is the original text -----
+Clearly(1.0) it(0.0) is(0.0) an(0.0) issue(0.0) that(0.0) has(0.0) grabbed(0.0) the(0.0) attention(0.0) of(0.0) the(0.0) American(0.0) people(0.0) .(0.0) But(0.0) there(0.0) is(0.0) another(0.0) aspect(0.0) of(0.0) 
+our(0.0) economic(1.0) picture(0.0) that(0.0) I(0.0) think(0.0) should(0.0) disturb(0.0) all(0.0) of(0.0) us(0.0) on(0.0) both(0.0) sides(0.0) of(0.0) the(0.0) aisle(0.0) ,(0.0) and(0.0) I(0.0) 
+hear(0.0) nothing(0.0) coming(0.0) from(0.0) this(0.0) White(1.0) House(0.0) addressing(0.0) it(0.0) .(0.0) We(0.0) all(0.0) agree(0.0) that(0.0) there(0.0) has(0.0) been(0.0) a(0.0) net(0.0) loss(0.0) 
+of(0.0) jobs(0.0) .(0.0) In(0.0) other(0.0) words(0.0) ,(0.0) jobs(0.0) have(0.0) been(0.0) created(0.0) ,(0.0) but(0.0) millions(1.0) of(0.0) more(0.0) jobs(0.0) have(0.0) been(0.0) lost(0.0) 
+than(0.0) have(0.0) been(0.0) created(0.0) .(0.0) But(0.0) what(0.0) is(0.0) untold(1.0) here(0.0) ,(0.0) what(0.0) has(0.0) not(0.0) been(0.0) said(0.0) ,(0.0) and(0.0) I(0.0) think(0.0) 
+we(0.0) all(0.0) owe(1.0) an(0.0) obligation(1.0) to(0.0) tell(0.0) this(0.0) to(0.0) the(0.0) American(0.0) people(0.0) and(0.0) we(0.0) should(0.0) start(0.0) here(0.0) tonight(0.0) ,(0.0) is(0.0) 
+that(0.0) while(0.0) we(0.0) have(0.0) a(0.0) jobless(0.0) recovery(0.0) ,(0.0) we(0.0) have(0.0) a(0.0) wage(1.0) recession(1.0) .(0.0) We(0.0) have(0.0) a(0.0) wage(1.0) recession(1.0) .(0.0) 
+The(0.0) new(0.0) jobs(1.0) that(0.0) are(0.0) replacing(0.0) the(0.0) old(0.0) jobs(0.0) are(0.0) at(0.0) wage(1.0) scales(0.0) that(0.0) are(0.0) 21(0.0) percent(0.0) less(0.0) than(0.0) the(0.0) 
+jobs(0.0) that(0.0) they(0.0) replaced(0.0) .(0.0) Now(0.0) ,(0.0) that(0.0) is(0.0) like(0.0) if(0.0) you(0.0) are(0.0) unemployed(1.0) and(0.0) you(0.0) find(0.0) a(0.0) job(0.0) after(0.0) 
+your(0.0) unemployment(1.0) runs(0.0) out(0.0) ,(0.0) because(0.0) we(0.0) do(0.0) not(0.0) count(0.0) those(0.0) folks(0.0) anymore(0.0) ,(0.0) we(0.0) call(0.0) them(0.0) discouraged(0.0) workers(1.0) ,(0.0) 
+but(0.0) if(0.0) you(0.0) are(0.0) lucky(0.0) enough(0.0) to(0.0) find(0.0) a(0.0) job(0.0) you(0.0) are(0.0) taking(0.0) a(0.0) 21(0.0) percent(0.0) pay(1.0) cut(1.0) .(0.0) What(0.0) 
+does(0.0) that(0.0) do(0.0) in(0.0) terms(1.0) of(0.0) the(0.0) hopes(1.0) and(0.0) dreams(0.0) and(0.0) the(0.0) living(0.0) standards(1.0) that(0.0) you(0.0) have(0.0) for(0.0) yourself(0.0) and(0.0) 
+your(0.0) families(1.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+
+economic	
+White	
+millions	
+untold	
+owe	obligation	
+wage	recession	wage	recession	
+jobs	wage	
+unemployed	
+unemployment	workers	
+pay	cut	
+terms	hopes	standards	
+families	
+
+reads % = 0.0860655737704918

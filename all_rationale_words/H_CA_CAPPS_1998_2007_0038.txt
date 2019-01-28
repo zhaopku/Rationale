@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) strong(0.0) support(0.0) of(0.0) this(0.0) bill(1.0) to(0.0) finally(0.0) end(1.0) this(0.0) disastrous(1.0) war(1.0) .(0.0) President(0.0) Bush(1.0) 's(0.0) 
+war(1.0) in(0.0) Iraq(1.0) has(0.0) been(0.0) the(0.0) biggest(1.0) foreign(1.0) policy(1.0) catastrophe(1.0) in(0.0) our(0.0) Nation(1.0) 's(0.0) history(0.0) .(0.0) We(0.0) have(0.0) been(0.0) distracted(0.0) 
+from(0.0) doing(0.0) the(0.0) job(0.0) in(0.0) Afghanistan(1.0) ,(0.0) the(0.0) Nation(1.0) that(0.0) harbored(1.0) al(0.0) Qaeda(0.0) .(0.0) Hundreds(0.0) of(0.0) billions(1.0) of(0.0) dollars(1.0) have(0.0) 
+evaporated(0.0) into(0.0) the(0.0) sands(1.0) of(0.0) Iraq(1.0) while(0.0) vital(1.0) needs(0.0) have(0.0) gone(0.0) unmet(1.0) at(0.0) home(0.0) .(0.0) Our(0.0) international(1.0) reputation(0.0) has(0.0) been(0.0) 
+battered(0.0) and(0.0) bruised(0.0) .(0.0) Our(0.0) Army(1.0) has(0.0) been(0.0) hollowed(0.0) out(0.0) .(0.0) The(0.0) war(1.0) has(0.0) cut(0.0) short(0.0) the(0.0) lives(0.0) of(0.0) more(0.0) 
+than(0.0) 3,600(0.0) of(0.0) our(0.0) bravest(0.0) citizens(1.0) ,(0.0) injured(0.0) tens(1.0) of(0.0) thousands(1.0) more(0.0) .(0.0) Yet(0.0) this(0.0) President(1.0) continues(0.0) to(0.0) insist(1.0) that(0.0) 
+we(0.0) remain(0.0) in(0.0) Iraq(1.0) .(0.0) Today(0.0) we(0.0) must(0.0) tell(0.0) this(0.0) President(1.0) he(0.0) is(0.0) wrong(0.0) .(0.0) We(0.0) must(0.0) take(0.0) a(0.0) stand(0.0) 
+against(0.0) this(0.0) tragic(1.0) war(1.0) ,(0.0) begin(0.0) the(0.0) hard(0.0) work(0.0) of(0.0) repairing(1.0) our(0.0) foreign(1.0) policy(1.0) .(0.0) We(0.0) must(0.0) listen(0.0) to(0.0) the(0.0) 
+American(0.0) people(0.0) and(0.0) vote(1.0) to(0.0) end(0.0) this(0.0) war(1.0) .(0.0) Let(0.0) us(0.0) truly(0.0) support(0.0) our(0.0) troops(1.0) and(0.0) vote(1.0) to(1.0) bring(0.0) them(0.0) 
+home(0.0) .(0.0) Ms.(0.0) ROS-LEHTINEN(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) 3(0.0) minutes(0.0) to(0.0) Mr.(0.0) Price(1.0) of(0.0) Georgia(1.0) .(0.0) ((0.0) Mr.(0.0) 
+PRICE(1.0) of(0.0) Georgia(1.0) asked(0.0) and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) )(0.0) 
+
+
+----- below are rationale words -----
+
+bill	end	disastrous	war	Bush	
+war	Iraq	biggest	foreign	policy	catastrophe	Nation	
+Afghanistan	Nation	harbored	billions	dollars	
+sands	Iraq	vital	unmet	international	
+Army	war	
+citizens	tens	thousands	President	insist	
+Iraq	President	
+tragic	war	repairing	foreign	policy	
+vote	war	troops	vote	to	
+ROS-LEHTINEN	Speaker	Price	Georgia	
+PRICE	Georgia	
+
+reads % = 0.21658986175115208

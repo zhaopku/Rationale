@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) let(0.0) me(0.0) thank(0.0) Chairman(1.0) Ackerman(1.0) ,(0.0) our(0.0) full(0.0) committee(0.0) ranking(1.0) member(0.0) ,(0.0) Mr.(0.0) Gilman(1.0) ,(0.0) as(0.0) well(0.0) as(0.0) Representative(1.0) 
+Rohrabacher(1.0) for(0.0) their(0.0) leadership(1.0) in(0.0) supporting(1.0) this(0.0) very(0.0) timely(1.0) and(0.0) important(0.0) resolution(0.0) on(0.0) Burma(1.0) .(0.0) All(0.0) Members(0.0) are(0.0) of(0.0) course(0.0) 
+familiar(0.0) with(0.0) the(0.0) tragic(1.0) circumstance(0.0) afflicting(1.0) Burma(1.0) today(0.0) .(0.0) The(0.0) Burmese(1.0) people(0.0) continue(0.0) to(0.0) be(0.0) ruled(1.0) by(0.0) a(0.0) military(1.0) dictatorship(1.0) 
+--(0.0) appropriately(0.0) known(0.0) by(0.0) the(0.0) sinister(1.0) acronym(1.0) SLORC(1.0) --(0.0) that(0.0) is(0.0) one(0.0) of(0.0) the(0.0) worst(1.0) human(0.0) rights(0.0) abusers(0.0) in(0.0) the(0.0) 
+whole(0.0) of(0.0) East(0.0) Asia(1.0) ,(0.0) if(0.0) not(1.0) the(0.0) world(0.0) .(0.0) Particularly(0.0) distressing(1.0) is(0.0) the(0.0) continuing(1.0) house(0.0) arrest(1.0) of(0.0) Nobel(1.0) Prize(0.0) 
+Laureate(1.0) Aung(1.0) San(1.0) Suu(1.0) Kyi(1.0) ,(0.0) the(0.0) negation(1.0) of(0.0) the(0.0) results(0.0) of(0.0) the(0.0) May(0.0) ,(0.0) 1990(1.0) ,(0.0) elections(1.0) ,(0.0) and(0.0) 
+the(0.0) ruling(1.0) junta(1.0) 's(0.0) efforts(0.0) to(0.0) manipulate(0.0) a(0.0) constitutional(1.0) convention(1.0) in(0.0) order(0.0) to(0.0) ensconce(1.0) and(0.0) legitimize(1.0) continuing(0.0) military(1.0) rule(0.0) .(0.0) 
+Meanwhile(1.0) ,(0.0) very(0.0) credible(1.0) allegations(0.0) of(0.0) grave(1.0) human(0.0) rights(0.0) abuses(1.0) continue(0.0) :(1.0) including(1.0) torture(1.0) ,(0.0) forced(0.0) labor(0.0) ,(0.0) abuse(1.0) of(0.0) 
+women(0.0) ,(0.0) lack(0.0) of(0.0) fundamental(1.0) freedoms(1.0) ,(0.0) and(0.0) oppressive(1.0) measures(1.0) against(0.0) ethnic(1.0) and(0.0) religious(0.0) minorities(1.0) .(0.0) While(1.0) limited(0.0) measures(1.0) have(0.0) 
+been(0.0) taken(0.0) by(0.0) the(0.0) SLORC(1.0) since(0.0) April(0.0) ,(0.0) 1992(0.0) ,(0.0) to(0.0) address(0.0) the(0.0) grave(1.0) human(0.0) rights(0.0) concerns(0.0) of(0.0) the(0.0) Burmese(1.0) 
+people(0.0) and(0.0) the(0.0) international(0.0) community(1.0) ,(0.0) they(0.0) have(0.0) been(0.0) clearly(1.0) insufficient(1.0) to(0.0) date(0.0) to(0.0) demonstrate(0.0) that(0.0) change(1.0) is(0.0) real(1.0) and(0.0) 
+not(0.0) merely(0.0) cosmetic(1.0) .(0.0) At(0.0) a(0.0) minimum(1.0) ,(0.0) the(0.0) SLORC(1.0) needs(0.0) to(0.0) immediately(0.0) begin(0.0) a(0.0) genuine(0.0) dialog(1.0) with(0.0) Aung(1.0) San(1.0) 
+Suu(1.0) Kyi(1.0) .(0.0) From(0.0) a(0.0) congressional(1.0) perspective(0.0) ,(0.0) the(0.0) challenge(1.0) facing(0.0) the(0.0) United(0.0) States(0.0) in(0.0) advancing(1.0) our(0.0) democratic(1.0) ,(0.0) humanitarian(1.0) 
+,(0.0) and(0.0) counter-narcotics(1.0) objectives(0.0) in(0.0) Burma(1.0) is(0.0) to(0.0) maximize(0.0) our(0.0) limited(0.0) leverage(0.0) to(0.0) promote(0.0) progressive(1.0) change(1.0) .(0.0) Herein(1.0) lies(0.0) a(0.0) 
+vexing(1.0) policy(1.0) dilemma(1.0) .(0.0) The(0.0) instinct(1.0) of(0.0) many(0.0) at(0.0) home(0.0) and(0.0) abroad(0.0) is(0.0) for(0.0) Washington(1.0) to(0.0) take(0.0) the(0.0) lead(0.0) in(0.0) 
+heightening(1.0) the(0.0) economic(0.0) and(0.0) political(1.0) isolation(1.0) of(0.0) the(0.0) Burmese(1.0) regime(1.0) ,(0.0) multilaterally(1.0) if(0.0) possible(0.0) but(0.0) unilaterally(1.0) if(0.0) necessary(1.0) .(0.0) But(0.0) 
+the(0.0) strong(0.0) instinct(1.0) of(0.0) the(0.0) parties(0.0) with(0.0) the(0.0) greatest(0.0) influence(0.0) on(0.0) Buma(1.0) --(0.0) ASEAN(1.0) ,(0.0) China(1.0) ,(0.0) and(0.0) Japan(1.0) --(0.0) 
+has(0.0) been(0.0) to(0.0) downplay(1.0) public(0.0) criticism(1.0) of(0.0) the(0.0) regime(1.0) while(0.0) to(0.0) some(0.0) degree(0.0) urging(1.0) Rangoon(1.0) to(0.0) moderate(0.0) its(0.0) behavior(0.0) and(0.0) 
+open(0.0) up(0.0) to(0.0) the(0.0) outside(0.0) world(0.0) .(0.0) And(0.0) the(0.0) stark(1.0) political(1.0) reality(1.0) with(0.0) which(0.0) we(0.0) must(0.0) contend(1.0) is(0.0) that(0.0) there(0.0) 
+is(0.0) virtually(0.0) no(0.0) international(0.0) support(0.0) for(0.0) imposing(1.0) additional(0.0) economic(0.0) sanctions(0.0) against(0.0) Burma(1.0) --(0.0) certainly(0.0) none(0.0) in(0.0) East(0.0) Asia(1.0) .(0.0) Even(1.0) 
+our(0.0) ally(1.0) Australia(0.0) ,(0.0) which(0.0) itself(1.0) has(0.0) a(0.0) strong(0.0) record(1.0) of(0.0) promoting(0.0) human(0.0) rights(0.0) ,(0.0) is(0.0) rethinking(1.0) the(0.0) wisdom(0.0) of(0.0) 
+a(0.0) purely(1.0) punitive(1.0) policy(0.0) for(0.0) dealing(0.0) with(0.0) Rangoon(1.0) .(0.0) In(0.0) this(0.0) regard(1.0) ,(0.0) it(0.0) would(1.0) appear(0.0) that(0.0) the(0.0) administration(0.0) has(0.0) 
+had(0.0) some(0.0) difficulty(0.0) in(0.0) reconciling(0.0) a(0.0) unilateral(1.0) policy(1.0) of(0.0) isolation(0.0) with(0.0) other(0.0) and(0.0) possibly(0.0) more(0.0) nuanced(1.0) alternatives(1.0) .(0.0) With(0.0) great(0.0) 
+fanfare(1.0) ,(0.0) President(1.0) Clinton(1.0) announced(1.0) last(1.0) May(0.0) a(0.0) comprehensive(1.0) review(0.0) of(0.0) United(0.0) States(0.0) policy(0.0) toward(0.0) Burma(1.0) .(0.0) Some(1.0) 10(0.0) months(1.0) 
+later(0.0) ,(0.0) in(0.0) March(0.0) ,(0.0) 1994(1.0) ,(0.0) the(0.0) review(0.0) was(0.0) only(0.0) nominally(1.0) complete(0.0) .(0.0) Overarching(1.0) and(0.0) common-sensical(1.0) U.S.(0.0) policy(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	Ackerman	ranking	Gilman	Representative	
+Rohrabacher	leadership	supporting	timely	Burma	
+tragic	afflicting	Burma	Burmese	ruled	military	dictatorship	
+sinister	acronym	SLORC	worst	
+Asia	not	distressing	continuing	arrest	Nobel	
+Laureate	Aung	San	Suu	Kyi	negation	1990	elections	
+ruling	junta	constitutional	convention	ensconce	legitimize	military	
+Meanwhile	credible	grave	abuses	:	including	torture	abuse	
+fundamental	freedoms	oppressive	measures	ethnic	minorities	While	measures	
+SLORC	grave	Burmese	
+community	clearly	insufficient	change	real	
+cosmetic	minimum	SLORC	dialog	Aung	San	
+Suu	Kyi	congressional	challenge	advancing	democratic	humanitarian	
+counter-narcotics	Burma	progressive	change	Herein	
+vexing	policy	dilemma	instinct	Washington	
+heightening	political	isolation	Burmese	regime	multilaterally	unilaterally	necessary	
+instinct	Buma	ASEAN	China	Japan	
+downplay	criticism	regime	urging	Rangoon	
+stark	political	reality	contend	
+imposing	Burma	Asia	Even	
+ally	itself	record	rethinking	
+purely	punitive	Rangoon	regard	would	
+unilateral	policy	nuanced	alternatives	
+fanfare	President	Clinton	announced	last	comprehensive	Burma	Some	months	
+1994	nominally	Overarching	common-sensical	
+
+reads % = 0.282

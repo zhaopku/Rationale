@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) reclaiming(1.0) my(0.0) time(0.0) ,(0.0) keep(0.0) in(0.0) mind(0.0) that(0.0) other(0.0) body(0.0) called(0.0) the(0.0) Senate(1.0) moves(0.0) in(0.0) a(0.0) separate(0.0) orbit(0.0) from(0.0) 
+this(0.0) body(0.0) ,(0.0) and(0.0) somebody(0.0) over(0.0) there(0.0) is(0.0) going(0.0) to(0.0) have(0.0) a(0.0) different(0.0) idea(0.0) ,(0.0) and(0.0) there(0.0) is(0.0) going(0.0) to(0.0) 
+be(0.0) an(0.0) entry(0.0) under(0.0) a(0.0) different(0.0) program(1.0) .(0.0) When(0.0) we(0.0) go(0.0) to(0.0) conference(0.0) ,(0.0) the(0.0) conferees(1.0) are(0.0) going(0.0) to(0.0) have(0.0) 
+a(0.0) different(0.0) idea(0.0) ,(0.0) and(0.0) the(0.0) bookkeepers(0.0) around(0.0) here(0.0) are(0.0) going(0.0) to(0.0) be(0.0) switching(0.0) credits(1.0) from(0.0) account(0.0) to(0.0) account(0.0) ,(0.0) 
+taking(0.0) back(0.0) credits(1.0) as(0.0) the(0.0) money(1.0) that(0.0) was(0.0) saved(0.0) is(0.0) now(0.0) spent(0.0) .(0.0) The(0.0) project(0.0) that(0.0) was(0.0) going(0.0) to(0.0) be(0.0) 
+killed(0.0) or(0.0) cut(0.0) is(0.0) now(0.0) restored(0.0) ,(0.0) and(0.0) it(0.0) becomes(0.0) a(0.0) nightmare(0.0) .(0.0) That(0.0) is(0.0) why(0.0) this(0.0) idea(0.0) has(0.0) had(0.0) 
+all(0.0) of(0.0) the(0.0) longevity(0.0) of(0.0) a(0.0) lead(0.0) balloon(0.0) .(0.0) It(0.0) has(0.0) never(0.0) gotten(0.0) off(0.0) the(0.0) ground(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+reclaiming	Senate	
+
+program	conferees	
+credits	
+credits	money	
+
+
+
+reads % = 0.050724637681159424

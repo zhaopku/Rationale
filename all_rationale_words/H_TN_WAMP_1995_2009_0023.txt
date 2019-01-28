@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Chair(0.0) ,(0.0) may(0.0) I(0.0) inquire(0.0) as(0.0) to(0.0) the(0.0) time(0.0) remaining(0.0) on(0.0) each(0.0) side(0.0) .(0.0) The(0.0) CHAIR(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) 
+Tennessee(1.0) controls(0.0) 6\1/4\(0.0) minutes(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) Texas(0.0) controls(0.0) 7\1/2\(0.0) minutes(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Tennessee	
+
+reads % = 0.029411764705882353

@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(1.0) ,(0.0) I(0.0) thank(0.0) the(0.0) esteemed(0.0) gentleman(0.0) from(0.0) Texas(0.0) [(0.0) Mr.(0.0) Hall(1.0) ](0.0) ,(0.0) ranking(1.0) member(0.0) ,(0.0) as(0.0) well(0.0) as(0.0) the(0.0) 
+gentleman(0.0) from(0.0) Colorado(0.0) [(0.0) Mr.(0.0) Dan(1.0) Schaefer(1.0) ](0.0) ,(0.0) and(0.0) the(0.0) gentleman(0.0) from(0.0) Michigan(1.0) [(0.0) Mr.(0.0) Upton(1.0) ](0.0) ,(0.0) the(0.0) 
+sponsor(0.0) of(0.0) H.R(0.0) .(0.0) 1270(1.0) .(0.0) They(0.0) have(0.0) all(0.0) been(0.0) helpful(0.0) and(0.0) supportive(1.0) in(0.0) working(0.0) with(0.0) me(0.0) to(0.0) help(0.0) clarify(0.0) 
+an(0.0) issue(0.0) related(1.0) to(0.0) rail(1.0) transportation(1.0) that(0.0) is(0.0) incorporated(1.0) in(0.0) the(0.0) bill(0.0) before(0.0) us(0.0) .(0.0) Mr.(1.0) Chairman(1.0) ,(0.0) it(0.0) is(0.0) 
+an(0.0) issue(0.0) which(0.0) is(0.0) critical(1.0) to(0.0) the(0.0) constituents(1.0) in(0.0) my(0.0) district(1.0) and(0.0) the(0.0) citizens(1.0) of(0.0) Missouri(1.0) .(0.0) While(1.0) no(0.0) specific(1.0) 
+routes(0.0) for(0.0) rail(1.0) shipments(0.0) have(0.0) been(0.0) determined(0.0) ,(0.0) approximately(0.0) 1,400(1.0) rail(0.0) shipments(0.0) of(0.0) waste(0.0) projected(1.0) over(0.0) the(0.0) next(0.0) 30(0.0) years(0.0) 
+,(0.0) possibly(0.0) a(0.0) third(0.0) of(0.0) these(0.0) wastes(1.0) would(0.0) be(0.0) transported(0.0) through(0.0) Missouri(1.0) .(0.0) There(1.0) currently(1.0) are(0.0) no(0.0) Federal(1.0) regulations(1.0) related(1.0) 
+to(0.0) determining(0.0) preferred(0.0) rail(1.0) routes(1.0) for(0.0) transportation(1.0) of(0.0) this(0.0) material(0.0) .(0.0) My(0.0) language(1.0) in(0.0) this(0.0) manager(0.0) 's(0.0) amendment(1.0) establishes(1.0) this(0.0) 
+process(0.0) to(0.0) safeguard(1.0) rail(1.0) transportation(1.0) and(0.0) ensure(0.0) that(0.0) the(0.0) appropriate(1.0) State(0.0) and(0.0) tribal(1.0) authorities(0.0) are(0.0) involved(0.0) in(0.0) the(0.0) decision-making(1.0) process(0.0) 
+.(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) this(0.0) type(0.0) of(0.0) consultative(0.0) relationship(0.0) and(0.0) route(0.0) planning(1.0) is(0.0) essential(1.0) to(0.0) ensuring(0.0) the(0.0) highest(0.0) levels(0.0) of(0.0) 
+safety(0.0) to(0.0) our(0.0) communities(0.0) .(0.0) There(1.0) are(0.0) other(0.0) important(0.0) clarifications(0.0) in(0.0) the(0.0) manager's(1.0) amendment(1.0) that(0.0) further(1.0) advance(0.0) safety(0.0) and(0.0) transportation(1.0) 
+portions(1.0) of(0.0) this(0.0) bill(0.0) .(0.0) I(0.0) thank(1.0) the(0.0) managers(1.0) and(0.0) urge(1.0) support(0.0) of(0.0) this(0.0) amendment(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) 
+would(1.0) like(0.0) to(0.0) thank(0.0) my(0.0) esteemed(1.0) ranking(1.0) member(0.0) ,(0.0) Mr.(0.0) Hall(1.0) ,(0.0) as(0.0) well(0.0) as(0.0) the(0.0) gentleman(0.0) from(0.0) Colorado(0.0) ,(0.0) 
+Chairman(1.0) Schaefer(1.0) ,(0.0) and(0.0) the(0.0) gentleman(0.0) from(0.0) Michigan(1.0) [(0.0) Mr.(0.0) Upton(1.0) ](0.0) ,(0.0) sponsor(0.0) of(0.0) H.R(0.0) .(0.0) 1270(1.0) ,(0.0) who(0.0) 
+have(0.0) all(0.0) been(0.0) very(0.0) helpful(0.0) and(0.0) supportive(1.0) in(0.0) working(0.0) with(0.0) me(0.0) on(0.0) clarifying(0.0) an(0.0) important(0.0) issue(0.0) related(1.0) to(0.0) rail(1.0) transportation(1.0) 
+that(0.0) is(0.0) incorporated(1.0) in(0.0) the(0.0) manager(0.0) 's(0.0) amendment(1.0) before(1.0) us(0.0) .(0.0) This(0.0) is(0.0) an(0.0) issue(0.0) that(0.0) is(0.0) critically(1.0) important(0.0) to(0.0) 
+the(0.0) constituents(1.0) in(0.0) my(0.0) district(1.0) of(0.0) Greater(1.0) Kansas(1.0) City(0.0) ,(0.0) the(0.0) second(0.0) largest(0.0) rail(1.0) hub(0.0) in(0.0) the(0.0) nation(1.0) ,(0.0) and(0.0) 
+the(0.0) citizens(1.0) of(0.0) Missouri(1.0) ,(0.0) which(0.0) contains(0.0) the(0.0) 3rd(1.0) largest(0.0) rail(1.0) hub(0.0) in(0.0) St.(1.0) Louis(1.0) .(0.0) While(1.0) no(0.0) specific(1.0) routes(0.0) 
+for(0.0) rail(1.0) shipments(0.0) have(0.0) been(0.0) determined(0.0) ,(0.0) approximately(0.0) 1,400(1.0) rail(0.0) shipments(0.0) of(0.0) waste(0.0) are(0.0) projected(1.0) over(0.0) thirty(1.0) years(0.0) .(0.0) Existing(1.0) 
+rail(0.0) line(0.0) options(1.0) are(0.0) limited(0.0) for(0.0) east-west(1.0) transit(1.0) and(0.0) lead(0.0) us(0.0) to(0.0) the(0.0) realization(0.0) that(0.0) a(0.0) significant(0.0) percentage(0.0) of(0.0) shipments(1.0) 
+,(0.0) possibly(0.0) a(0.0) third(0.0) if(0.0) distributed(0.0) across(0.0) all(0.0) options(1.0) ,(0.0) would(1.0) be(0.0) transported(0.0) through(0.0) Missouri(1.0) .(0.0) Current(1.0) Hazardous(0.0) Materials(0.0) [(0.0) 
+HazMat(1.0) ](0.0) law(1.0) established(1.0) a(0.0) process(1.0) ,(0.0) which(0.0) this(0.0) legislation(0.0) builds(0.0) upon(0.0) ,(0.0) for(0.0) highway(1.0) routing(1.0) decisions(0.0) related(1.0) to(0.0) transportation(1.0) 
+of(0.0) spent(1.0) nuclear(1.0) fuel(1.0) .(0.0) There(0.0) currently(1.0) are(0.0) no(1.0) federal(1.0) regulations(1.0) related(1.0) to(0.0) determining(0.0) preferred(0.0) rail(1.0) routes(1.0) for(0.0) the(0.0) transportation(1.0) 
+of(0.0) this(0.0) material(0.0) .(0.0) My(0.0) language(1.0) in(0.0) the(0.0) Manager(1.0) 's(0.0) amendment(1.0) establishes(1.0) this(0.0) process(0.0) to(0.0) safeguard(1.0) rail(0.0) transportation(1.0) and(0.0) ensure(0.0) 
+that(0.0) the(0.0) appropriate(1.0) state(0.0) and(0.0) tribal(1.0) authorities(0.0) are(0.0) involved(0.0) in(0.0) the(0.0) decisionmaking(1.0) process(0.0) .(0.0) This(0.0) type(0.0) of(0.0) consultative(1.0) relationship(0.0) 
+
+
+----- below are rationale words -----
+
+Hall	ranking	
+Dan	Schaefer	Michigan	Upton	
+1270	supportive	
+related	rail	transportation	incorporated	Mr.	Chairman	
+critical	constituents	district	citizens	Missouri	While	specific	
+rail	1,400	projected	
+wastes	Missouri	There	currently	Federal	regulations	related	
+rail	routes	transportation	language	amendment	establishes	
+safeguard	rail	transportation	appropriate	tribal	decision-making	
+Chairman	planning	essential	
+There	manager's	amendment	further	transportation	
+portions	thank	managers	urge	amendment	Chairman	
+would	esteemed	ranking	Hall	
+Chairman	Schaefer	Michigan	Upton	1270	
+supportive	related	rail	transportation	
+incorporated	amendment	before	critically	
+constituents	district	Greater	Kansas	rail	nation	
+citizens	Missouri	3rd	rail	St.	Louis	While	specific	
+rail	1,400	projected	thirty	Existing	
+options	east-west	transit	shipments	
+options	would	Missouri	Current	
+HazMat	law	established	process	highway	routing	related	transportation	
+spent	nuclear	fuel	currently	no	federal	regulations	related	rail	routes	transportation	
+language	Manager	amendment	establishes	safeguard	transportation	
+appropriate	tribal	decisionmaking	consultative	
+
+reads % = 0.26

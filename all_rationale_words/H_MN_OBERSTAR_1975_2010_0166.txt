@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+Summarizing(0.0) it(0.0) very(0.0) simply(0.0) ,(0.0) the(0.0) City(0.0) of(0.0) Marquette(1.0) and(0.0) the(0.0) Coast(0.0) Guard(0.0) entered(0.0) into(0.0) an(0.0) agreement(0.0) .(0.0) The(0.0) City(0.0) of(0.0) 
+Marquette(1.0) kept(0.0) its(0.0) part(0.0) of(0.0) the(0.0) agreement(0.0) ,(0.0) conveyed(0.0) property(0.0) to(0.0) the(0.0) Coast(0.0) Guard(0.0) for(0.0) $(0.0) 1(0.0) ,(0.0) and(0.0) now(0.0) 
+is(0.0) going(0.0) to(0.0) be(0.0) stuck(0.0) with(0.0) the(0.0) bill(1.0) .(0.0) The(0.0) problem(0.0) is(0.0) that(0.0) the(0.0) way(0.0) the(0.0) transfer(0.0) worked(0.0) out(0.0) ,(0.0) 
+the(0.0) statutory(1.0) PAYGO(1.0) rules(1.0) preclude(1.0) inclusion(1.0) of(0.0) past(0.0) conveyance(0.0) in(0.0) calculating(0.0) the(0.0) cost(1.0) of(0.0) the(0.0) bill(1.0) .(0.0) We(0.0) simply(0.0) got(0.0) 
+hung(0.0) up(0.0) with(0.0) our(0.0) own(0.0) legislation(1.0) ,(0.0) our(0.0) own(0.0) PAYGO(1.0) rules(1.0) to(0.0) reduce(1.0) the(0.0) cost(1.0) of(0.0) government(1.0) ,(0.0) but(0.0) now(0.0) 
+we(0.0) are(0.0) in(0.0) the(0.0) position(0.0) of(0.0) possibly(0.0) increasing(1.0) the(0.0) cost(1.0) of(0.0) government(1.0) to(0.0) a(0.0) local(0.0) unit(0.0) of(0.0) government(1.0) ,(0.0) the(0.0) 
+City(1.0) of(0.0) Marquette(1.0) .(0.0) The(0.0) city(1.0) 's(0.0) contribution(0.0) to(0.0) the(0.0) Coast(0.0) Guard(0.0) can(0.0) not(0.0) therefore(0.0) be(0.0) calculated(0.0) into(0.0) the(0.0) cost(0.0) 
+of(0.0) this(0.0) bill(1.0) .(0.0) I(0.0) look(0.0) forward(0.0) to(0.0) the(0.0) day(0.0) when(0.0) we(0.0) will(0.0) be(0.0) able(0.0) to(0.0) work(0.0) this(0.0) out(0.0) in(0.0) 
+a(0.0) different(0.0) setting(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Marquette	
+Marquette	
+bill	
+statutory	PAYGO	rules	preclude	inclusion	cost	bill	
+legislation	PAYGO	rules	reduce	cost	government	
+increasing	cost	government	government	
+City	Marquette	city	
+bill	
+
+
+reads % = 0.14545454545454545

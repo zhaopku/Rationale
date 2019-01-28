@@ -1,0 +1,24 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) thank(0.0) the(0.0) gentleman(0.0) ,(0.0) and(0.0) I(0.0) want(0.0) to(0.0) agree(0.0) with(0.0) you(0.0) ,(0.0) Mr.(0.0) Dicks(1.0) ,(0.0) on(0.0) the(0.0) salmon(1.0) implications(0.0) of(0.0) 
+this(0.0) ,(0.0) and(0.0) also(0.0) Mr.(0.0) Walden(1.0) ,(0.0) who(0.0) talked(0.0) about(0.0) the(0.0) agricultural(0.0) implications(0.0) of(0.0) not(0.0) having(0.0) a(0.0) solution(0.0) .(0.0) This(0.0) 
+has(0.0) been(0.0) an(0.0) absolute(0.0) mess(0.0) for(0.0) decades(1.0) ,(0.0) and(0.0) we(0.0) 've(0.0) seen(0.0) the(0.0) fruits(0.0) of(0.0) that(0.0) disaster(1.0) bear(0.0) out(0.0) in(0.0) 
+the(0.0) salmon(1.0) industry(1.0) crashing(0.0) and(0.0) agricultural(1.0) problems(0.0) that(0.0) we(0.0) have(0.0) .(0.0) And(0.0) for(0.0) the(0.0) first(0.0) time(0.0) in(0.0) decades(1.0) ,(0.0) first(0.0) 
+time(0.0) ever(0.0) ,(0.0) we(0.0) have(0.0) had(0.0) all(0.0) the(0.0) stakeholders(0.0) come(0.0) together(0.0) .(0.0) These(0.0) are(0.0) people(0.0) who(0.0) you(0.0) could(0.0) n't(0.0) get(0.0) 
+in(0.0) the(0.0) same(0.0) town(0.0) with(0.0) before(0.0) who(0.0) are(0.0) sitting(0.0) around(0.0) the(0.0) same(0.0) table(0.0) .(0.0) They(0.0) are(0.0) working(0.0) out(0.0) solutions(0.0) .(0.0) 
+They(0.0) have(0.0) come(0.0) to(0.0) some(0.0) agreements(1.0) .(0.0) And(0.0) this(0.0) study(0.0) has(0.0) to(0.0) be(0.0) made(0.0) ,(0.0) and(0.0) ,(0.0) Mr.(0.0) Dicks(1.0) ,(0.0) 
+you(0.0) are(0.0) absolutely(0.0) right(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Dicks	salmon	
+Walden	
+decades	disaster	
+salmon	industry	agricultural	decades	
+
+
+agreements	Dicks	
+
+
+reads % = 0.07534246575342465

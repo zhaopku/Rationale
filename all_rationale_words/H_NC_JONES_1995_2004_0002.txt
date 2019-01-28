@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) North(0.0) Carolina(0.0) ((0.0) Mr.(0.0) Hayes(1.0) )(0.0) ,(0.0) my(0.0) colleague(0.0) ,(0.0) for(0.0) yielding(0.0) me(0.0) this(0.0) 
+time(0.0) ,(0.0) and(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) him(0.0) for(0.0) introducing(0.0) this(0.0) resolution(1.0) 598(0.0) .(0.0) Again(0.0) ,(0.0) I(0.0) appreciate(0.0) the(0.0) fact(0.0) 
+that(0.0) we(0.0) will(0.0) come(0.0) together(0.0) and(0.0) vote(1.0) on(0.0) this(0.0) resolution(1.0) today(0.0) as(0.0) both(0.0) Republicans(0.0) and(1.0) Democrats(1.0) ,(1.0) because(1.0) these(0.0) schools(1.0) 
+,(0.0) these(0.0) DOD(1.0) schools(1.0) are(0.0) exceptional(0.0) in(0.0) many(0.0) ways(0.0) .(0.0) I(0.0) want(0.0) to(0.0) just(0.0) touch(0.0) on(0.0) my(0.0) personal(0.0) experience(0.0) down(0.0) 
+at(0.0) Camp(0.0) Lejeune(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) have(0.0) the(0.0) privilege(1.0) ,(0.0) as(0.0) the(0.0) gentleman(0.0) from(0.0) North(0.0) Carolina(0.0) ((0.0) Mr.(0.0) 
+Hayes(1.0) )(0.0) said(1.0) ,(0.0) to(0.0) have(0.0) Camp(0.0) Lejeune(0.0) ,(0.0) Cherry(0.0) Point(0.0) ,(0.0) Seymour(0.0) Johnson(1.0) Air(0.0) Force(0.0) Base(0.0) in(0.0) my(0.0) district(0.0) 
+.(0.0) In(0.0) Camp(0.0) Lejeune(0.0) ,(0.0) for(0.0) the(0.0) 10(0.0) years(0.0) I(0.0) have(0.0) been(0.0) in(0.0) office(0.0) ,(0.0) I(0.0) have(0.0) had(0.0) many(0.0) occasions(0.0) 
+to(0.0) go(0.0) visit(0.0) the(0.0) schools(1.0) at(0.0) Camp(0.0) Lejeune(0.0) ,(0.0) both(0.0) elementary(0.0) schools(1.0) and(0.0) senior(0.0) high(0.0) schools(1.0) .(0.0) As(0.0) fate(0.0) would(0.0) 
+have(0.0) it(0.0) ,(0.0) shortly(0.0) after(0.0) the(0.0) decision(0.0) to(0.0) go(0.0) into(0.0) Iraq(1.0) ,(0.0) I(0.0) had(0.0) the(0.0) opportunity(0.0) to(0.0) speak(0.0) to(0.0) the(0.0) 
+seniors(1.0) in(0.0) the(0.0) auditorium(0.0) ,(0.0) and(0.0) I(0.0) could(0.0) tell(0.0) that(0.0) some(0.0) of(0.0) those(0.0) young(0.0) people(0.0) ,(0.0) their(0.0) faces(0.0) ,(0.0) you(0.0) 
+could(0.0) tell(0.0) that(0.0) they(0.0) had(0.0) parents(0.0) who(0.0) had(0.0) already(0.0) been(0.0) deployed(0.0) overseas(0.0) ,(0.0) and(0.0) I(0.0) spoke(0.0) to(0.0) them(0.0) and(0.0) tried(0.0) 
+to(0.0) encourage(0.0) them(0.0) to(0.0) tell(0.0) them(0.0) how(0.0) much(0.0) we(0.0) in(0.0) Congress(1.0) on(0.0) both(0.0) sides(0.0) of(0.0) the(0.0) aisle(0.0) appreciate(0.0) the(0.0) commitment(1.0) 
+their(0.0) parents(0.0) have(0.0) made(0.0) to(0.0) this(0.0) great(0.0) Nation(1.0) .(0.0) I(0.0) mention(0.0) that(0.0) for(0.0) this(0.0) reason(0.0) :(0.0) I(0.0) found(0.0) when(0.0) I(0.0) 
+was(0.0) there(0.0) that(0.0) day(0.0) that(0.0) there(0.0) is(0.0) a(0.0) special(0.0) bonding(0.0) among(0.0) the(0.0) teachers(0.0) and(0.0) the(0.0) administration(1.0) and(0.0) the(0.0) students(0.0) at(0.0) 
+these(0.0) DOD(1.0) schools(1.0) ,(0.0) this(0.0) one(0.0) in(0.0) particular(0.0) at(0.0) Camp(0.0) Lejeune(1.0) ,(0.0) that(0.0) there(0.0) is(0.0) an(0.0) environment(0.0) there(0.0) that(0.0) is(0.0) 
+cohesive(0.0) to(0.0) the(0.0) situation(0.0) that(0.0) these(0.0) young(0.0) people(0.0) are(0.0) finding(0.0) themselves(0.0) in(0.0) because(0.0) their(0.0) parents(0.0) have(0.0) been(0.0) deployed(0.0) .(0.0) One(0.0) 
+parent(0.0) ,(0.0) in(0.0) some(0.0) cases(0.0) ,(0.0) it(0.0) was(0.0) 2(0.0) parents(0.0) ,(0.0) quite(0.0) frankly(0.0) ,(0.0) who(0.0) had(0.0) been(0.0) overseas(0.0) defending(0.0) freedom(1.0) 
+in(0.0) Iraq(1.0) and(0.0) also(0.0) for(0.0) the(0.0) American(0.0) people(0.0) .(0.0) There(0.0) is(0.0) one(0.0) thing(0.0) that(0.0) I(0.0) always(0.0) wonder(0.0) ,(0.0) is(0.0) why(0.0) 
+,(0.0) when(0.0) something(0.0) is(0.0) working(0.0) so(0.0) well(0.0) ,(0.0) why(0.0) the(0.0) Federal(1.0) agency(1.0) ,(0.0) in(0.0) this(0.0) case(0.0) ,(0.0) the(0.0) Department(0.0) of(0.0) 
+Defense(0.0) ,(0.0) wants(0.0) ,(0.0) to(0.0) study(0.0) and(0.0) see(0.0) what(0.0) the(0.0) future(0.0) of(0.0) the(0.0) schools(1.0) needs(0.0) to(0.0) be(0.0) ?(0.0) That(0.0) is(0.0) 
+why(0.0) I(0.0) was(0.0) so(0.0) pleased(0.0) that(0.0) the(0.0) gentleman(0.0) from(0.0) North(0.0) Carolina(0.0) ((0.0) Mr.(0.0) Hayes(1.0) )(0.0) introduced(1.0) this(1.0) resolution(1.0) ,(0.0) and(0.0) 
+again(0.0) ,(0.0) both(0.0) sides(0.0) are(0.0) supporting(0.0) the(0.0) resolution(1.0) .(0.0) These(0.0) schools(1.0) are(0.0) exceptional(0.0) .(0.0) These(0.0) young(0.0) people(0.0) ,(0.0) time(0.0) after(0.0) 
+time(0.0) ,(0.0) when(0.0) they(0.0) take(0.0) national(1.0) tests(0.0) ,(0.0) the(0.0) students(0.0) at(0.0) the(0.0) DOD(1.0) schools(1.0) are(0.0) really(0.0) doing(0.0) as(0.0) well(0.0) ,(0.0) 
+if(0.0) not(0.0) better(0.0) ,(0.0) in(0.0) most(0.0) cases(0.0) ,(0.0) than(0.0) even(0.0) the(0.0) public(1.0) schools(1.0) .(0.0) I(0.0) am(0.0) not(0.0) here(0.0) to(0.0) compare(0.0) 
+one(0.0) school(0.0) to(0.0) another(0.0) school(0.0) ,(0.0) but(0.0) the(0.0) record(0.0) speaks(0.0) for(0.0) itself(0.0) .(0.0) These(0.0) young(0.0) kids(0.0) at(0.0) the(0.0) DOD(1.0) 
+
+
+----- below are rationale words -----
+
+Hayes	
+resolution	
+vote	resolution	and	Democrats	,	because	schools	
+DOD	schools	
+Lejeune	Speaker	privilege	
+Hayes	said	Johnson	
+
+schools	schools	schools	
+Iraq	
+seniors	
+
+Congress	commitment	
+Nation	
+administration	
+DOD	schools	Lejeune	
+
+freedom	
+Iraq	
+Federal	agency	
+schools	
+Hayes	introduced	this	resolution	
+resolution	schools	
+national	DOD	schools	
+public	schools	
+DOD	
+
+reads % = 0.092

@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) make(0.0) a(0.0) point(0.0) of(0.0) order(0.0) that(0.0) the(0.0) gentleman(0.0) 's(0.0) motion(0.0) to(0.0) recommit(1.0) includes(0.0) provisions(1.0) within(0.0) the(0.0) jurisdiction(1.0) of(0.0) other(0.0) committees(0.0) 
+,(0.0) and(0.0) ,(0.0) as(0.0) such(0.0) ,(0.0) is(0.0) a(0.0) violation(0.0) of(0.0) clause(1.0) 7(0.0) of(0.0) rule(0.0) XVI(0.0) ,(0.0) the(0.0) germaneness(1.0) rule(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+recommit	provisions	jurisdiction	
+clause	germaneness	
+
+
+reads % = 0.12195121951219512

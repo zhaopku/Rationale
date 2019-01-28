@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) do(0.0) not(1.0) think(0.0) there(0.0) are(0.0) any(1.0) telephone(1.0) numbers(0.0) in(0.0) there(0.0) of(0.0) the(0.0) previous(0.0) staffers(1.0) ,(0.0) as(0.0) there(0.0) was(0.0) 
+in(0.0) the(0.0) Democratic(1.0) budget(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) 1(0.0) minute(1.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Minnesota(0.0) [(0.0) Mr.(0.0) Ramstad(1.0) 
+](0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+not	any	telephone	staffers	
+Democratic	Speaker	minute	Ramstad	
+
+
+reads % = 0.18604651162790697

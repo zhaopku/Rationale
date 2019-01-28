@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) would(0.0) like(0.0) to(0.0) also(0.0) voice(0.0) my(0.0) strong(0.0) opposition(1.0) to(0.0) this(0.0) bill(1.0) ,(0.0) H.R(0.0) .(0.0) 1115(0.0) .(0.0) This(0.0) 
+bill(1.0) is(0.0) worse(0.0) than(0.0) what(0.0) we(0.0) saw(0.0) last(0.0) year(0.0) ,(0.0) and(0.0) it(0.0) would(0.0) be(0.0) applied(0.0) retroactively(1.0) to(0.0) pending(0.0) cases(0.0) ,(0.0) 
+including(0.0) those(0.0) brought(0.0) by(0.0) employees(0.0) at(0.0) Enron(1.0) for(0.0) financial(1.0) fraud(1.0) ,(0.0) Dow(1.0) Chemical(0.0) for(0.0) environmental(1.0) charges(1.0) ,(0.0) and(0.0) Wal-Mart(1.0) for(0.0) 
+employment(1.0) discrimination(1.0) against(0.0) women(1.0) .(0.0) In(0.0) midstream(1.0) the(0.0) bill(1.0) would(1.0) strip(0.0) the(0.0) rights(1.0) of(0.0) plaintiffs(1.0) in(0.0) these(0.0) cases(0.0) ,(0.0) causing(0.0) 
+expensive(1.0) and(0.0) wasteful(1.0) interruption(1.0) of(0.0) their(0.0) pursuit(1.0) for(0.0) justice(1.0) and(0.0) equal(0.0) treatment(0.0) under(0.0) the(0.0) law(1.0) .(0.0) In(0.0) the(0.0) wake(1.0) of(0.0) 
+corporate(1.0) scandals(1.0) ,(0.0) workers(1.0) in(0.0) our(0.0) country(1.0) have(0.0) lost(0.0) well(0.0) over(0.0) $(0.0) 175(0.0) billion(1.0) in(0.0) retirement(1.0) savings(1.0) .(0.0) Let(0.0) us(0.0) 
+look(0.0) at(0.0) the(0.0) real(0.0) facts(0.0) here(0.0) .(0.0) In(0.0) California(1.0) alone(0.0) ,(0.0) workers(1.0) have(0.0) lost(0.0) over(0.0) $(0.0) 18(0.0) billion(1.0) in(0.0) retirement(1.0) 
+savings(1.0) .(0.0) At(0.0) a(0.0) time(0.0) when(0.0) we(0.0) should(0.0) be(0.0) holding(0.0) corporations(1.0) more(0.0) accountable(1.0) ,(0.0) not(0.0) less(0.0) ,(0.0) their(0.0) bill(1.0) sends(1.0) 
+the(0.0) wrong(0.0) message(0.0) .(0.0) Congress(0.0) should(0.0) stand(0.0) up(0.0) and(0.0) protect(1.0) consumers(1.0) ,(0.0) employees(1.0) ,(0.0) pensioners(1.0) ,(0.0) and(0.0) not(0.0) corporate(1.0) wrongdoers(1.0) 
+.(0.0) They(0.0) call(0.0) this(0.0) the(0.0) Class(0.0) Action(0.0) Fairness(1.0) bill(1.0) ?(1.0) I(0.0) am(0.0) sorry(0.0) .(0.0) In(0.0) my(0.0) language(0.0) it(0.0) is(0.0) a(0.0) 
+mentiras(0.0) .(0.0) That(0.0) means(0.0) it(0.0) is(0.0) a(0.0) lie(0.0) .(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) please(0.0) vote(1.0) for(0.0) the(0.0) Sandlin-Conners(0.0) substitute(1.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	opposition	bill	
+bill	retroactively	
+Enron	financial	fraud	Dow	environmental	charges	Wal-Mart	
+employment	discrimination	women	midstream	bill	would	rights	plaintiffs	
+expensive	wasteful	interruption	pursuit	justice	law	wake	
+corporate	scandals	workers	country	billion	retirement	savings	
+California	workers	billion	retirement	
+savings	corporations	accountable	bill	sends	
+protect	consumers	employees	pensioners	corporate	wrongdoers	
+Fairness	bill	?	
+vote	substitute	
+
+
+reads % = 0.24324324324324326

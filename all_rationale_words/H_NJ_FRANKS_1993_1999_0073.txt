@@ -1,0 +1,44 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(1.0) to(0.0) suspend(0.0) the(0.0) rules(1.0) and(0.0) agree(1.0) to(0.0) the(0.0) concurrent(1.0) resolution(0.0) ((0.0) H.(1.0) Con(0.0) .(0.0) Res(1.0) .(1.0) 167(1.0) 
+)(0.0) authorizing(0.0) the(0.0) Architect(0.0) of(0.0) the(0.0) Capitol(1.0) to(0.0) permit(1.0) temporary(1.0) construction(0.0) and(0.0) other(0.0) work(0.0) on(0.0) the(0.0) Capitol(1.0) Grounds(1.0) that(0.0) may(0.0) 
+be(0.0) necessary(1.0) for(0.0) construction(1.0) of(0.0) a(0.0) building(0.0) on(0.0) Constitution(0.0) Avenue(1.0) Northwest(1.0) ,(0.0) between(0.0) 2nd(0.0) Street(0.0) Northwest(1.0) and(0.0) Louisiana(0.0) Avenue(1.0) Northwest(0.0) 
+.(0.0) The(0.0) Clerk(1.0) read(1.0) as(0.0) follows(1.0) :(0.0) H.(0.0) Con(0.0) .(0.0) Res(1.0) .(0.0) 167(1.0) Resolved(0.0) by(0.0) the(0.0) House(0.0) of(0.0) Representatives(0.0) ((0.0) 
+the(0.0) Senate(1.0) concurring(1.0) )(0.0) ,(0.0) SECTION(1.0) 1(0.0) .(0.0) USE(1.0) OF(1.0) CAPITOL(1.0) GROUNDS(1.0) .(0.0) The(0.0) Architect(0.0) of(0.0) the(0.0) Capitol(1.0) may(0.0) permit(1.0) 
+temporary(1.0) construction(1.0) and(0.0) other(0.0) work(0.0) on(0.0) the(0.0) Capitol(1.0) Grounds(1.0) that(0.0) may(0.0) be(0.0) necessary(1.0) for(0.0) construction(1.0) of(0.0) a(0.0) building(0.0) on(0.0) Constitution(0.0) 
+Avenue(1.0) Northwest(1.0) ,(0.0) between(0.0) 2nd(0.0) Street(0.0) Northwest(1.0) and(0.0) Louisiana(0.0) Avenue(1.0) Northwest(0.0) .(0.0) Such(1.0) work(0.0) may(0.0) include(0.0) activities(0.0) resulting(1.0) in(0.0) temporary(1.0) 
+obstruction(0.0) of(0.0) a(0.0) curbside(1.0) parking(0.0) lane(1.0) on(0.0) Louisiana(0.0) Avenue(1.0) Northwest(1.0) and(0.0) on(0.0) Constitution(0.0) Avenue(1.0) Northwest(1.0) ,(0.0) between(0.0) 2nd(0.0) Street(0.0) Northwest(1.0) 
+and(0.0) Louisiana(0.0) Avenue(1.0) Northwest(0.0) .(0.0) SEC(0.0) .(0.0) 2(0.0) .(0.0) PERIOD(1.0) OF(1.0) USE(0.0) .(0.0) Work(1.0) on(0.0) the(0.0) Capitol(1.0) Grounds(1.0) under(0.0) section(0.0) 
+1(0.0) is(0.0) authorized(1.0) during(0.0) the(0.0) period(0.0) beginning(1.0) August(0.0) 6(0.0) ,(0.0) 1999(0.0) ,(0.0) and(0.0) ending(0.0) October(0.0) 31(1.0) ,(0.0) 2001(0.0) ,(0.0) or(1.0) 
+such(0.0) longer(0.0) period(0.0) as(0.0) the(0.0) Architect(0.0) of(0.0) the(0.0) Capitol(1.0) determines(1.0) necessary(0.0) .(0.0) SEC(0.0) .(0.0) 3(0.0) .(0.0) TERMS(1.0) AND(1.0) CONDITIONS(1.0) .(0.0) 
+((0.0) a(0.0) )(0.0) In(0.0) General.(1.0) --(0.0) Work(1.0) on(0.0) the(0.0) Capitol(1.0) Grounds(1.0) under(0.0) section(0.0) 1(0.0) may(0.0) not(1.0) begin(0.0) until(0.0) the(0.0) Architect(0.0) 
+of(0.0) the(0.0) Capitol(1.0) receives(1.0) such(0.0) assurances(1.0) as(0.0) the(0.0) Architect(0.0) may(0.0) require(1.0) to(0.0) ensure(0.0) that(0.0) --(0.0) ((0.0) 1(1.0) )(0.0) all(0.0) areas(0.0) 
+of(0.0) the(0.0) Capitol(1.0) Grounds(1.0) that(0.0) are(0.0) disturbed(0.0) by(0.0) reason(0.0) of(0.0) such(0.0) work(0.0) will(0.0) be(0.0) restored(1.0) to(0.0) their(0.0) original(0.0) condition(0.0) without(0.0) 
+expense(1.0) to(0.0) the(0.0) United(0.0) States(0.0) ;(0.0) and(0.0) ((0.0) 2(0.0) )(0.0) such(0.0) work(0.0) will(0.0) be(0.0) carried(1.0) out(0.0) so(0.0) as(0.0) not(1.0) to(0.0) 
+interfere(1.0) with(0.0) the(0.0) needs(0.0) of(0.0) Congress(0.0) ,(0.0) under(0.0) conditions(0.0) to(0.0) be(0.0) prescribed(1.0) by(0.0) the(0.0) Architect(0.0) of(0.0) the(0.0) Capitol(1.0) .(0.0) ((0.0) 
+b(1.0) )(0.0) Expenses(1.0) and(0.0) Liabilities.(1.0) --(0.0) The(0.0) United(0.0) States(0.0) shall(0.0) not(0.0) incur(0.0) any(1.0) expense(0.0) or(1.0) liability(1.0) incident(0.0) to(0.0) any(1.0) activity(0.0) 
+associated(1.0) with(0.0) work(0.0) on(0.0) the(0.0) Capitol(1.0) Grounds(1.0) under(0.0) section(0.0) 1(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+move	rules	agree	concurrent	H.	Res	.	167	
+Capitol	permit	temporary	Capitol	Grounds	
+necessary	construction	Avenue	Northwest	Northwest	Avenue	
+Clerk	read	follows	Res	167	
+Senate	concurring	SECTION	USE	OF	CAPITOL	GROUNDS	Capitol	permit	
+temporary	construction	Capitol	Grounds	necessary	construction	
+Avenue	Northwest	Northwest	Avenue	Such	resulting	temporary	
+curbside	lane	Avenue	Northwest	Avenue	Northwest	Northwest	
+Avenue	PERIOD	OF	Work	Capitol	Grounds	
+authorized	beginning	31	or	
+Capitol	determines	TERMS	AND	CONDITIONS	
+General.	Work	Capitol	Grounds	not	
+Capitol	receives	assurances	require	1	
+Capitol	Grounds	restored	
+expense	carried	not	
+interfere	prescribed	Capitol	
+b	Expenses	Liabilities.	any	or	liability	any	
+associated	Capitol	Grounds	
+
+reads % = 0.2755681818181818

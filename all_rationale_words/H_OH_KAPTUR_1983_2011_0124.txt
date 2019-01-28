@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Another(0.0) phony(1.0) crisis(1.0) ,(1.0) courtesy(1.0) of(1.0) the(0.0) extremist(1.0) bah-humbug(1.0) House(1.0) Republicans(1.0) .(1.0) House(1.0) Republicans(1.0) have(1.0) never(1.0) met(1.0) a(1.0) deal(1.0) they(1.0) could(1.0) 
+n't(1.0) find(1.0) a(1.0) reason(1.0) to(0.0) dislike(1.0) .(0.0) Now(0.0) they(0.0) 've(0.0) resorted(0.0) to(0.0) fighting(1.0) their(0.0) colleagues(0.0) in(0.0) the(0.0) other(0.0) body(0.0) to(0.0) 
+avoid(0.0) doing(0.0) something(0.0) positive(0.0) for(0.0) our(0.0) country(1.0) .(0.0) Right(0.0) now(0.0) ,(0.0) we(0.0) could(0.0) be(0.0) cutting(0.0) the(0.0) payroll(1.0) tax(1.0) ,(0.0) we(0.0) 
+could(0.0) be(0.0) extending(0.0) jobless(1.0) benefits(1.0) ,(0.0) and(0.0) approving(1.0) a(0.0) Medicare(1.0) fix(1.0) for(0.0) our(0.0) doctors(1.0) .(0.0) The(0.0) average(0.0) American(0.0) family(0.0) in(0.0) 
+Cleveland(1.0) ,(0.0) Lorain(1.0) ,(0.0) Sandusky(1.0) ,(0.0) and(0.0) Toledo(1.0) now(0.0) faces(0.0) a(0.0) $(0.0) 1,000(0.0) tax(1.0) hike(1.0) because(0.0) of(0.0) the(0.0) Republican(1.0) game(1.0) 
+of(1.0) chicken(1.0) .(1.0) American(1.0) middle(1.0) class(1.0) families(1.0) want(1.0) the(1.0) payroll(1.0) tax(1.0) cut(1.0) or(1.0) their(1.0) taxes(1.0) will(1.0) go(1.0) up(1.0) on(1.0) average(1.0) 
+about(1.0) $(1.0) 1,000(1.0) .(1.0) Millions(1.0) of(1.0) Americans(1.0) need(1.0) unemployment(1.0) benefits(1.0) ,(0.0) but(1.0) House(0.0) Republicans(1.0) need(1.0) to(1.0) pick(1.0) a(1.0) fight(1.0) .(1.0) 
+And(1.0) it(0.0) does(1.0) n't(0.0) matter(0.0) with(0.0) whom(0.0) .(0.0) If(0.0) they(0.0) ca(0.0) n't(0.0) fight(1.0) with(0.0) Democrats(1.0) ,(0.0) who(0.0) are(0.0) standing(0.0) up(0.0) 
+for(0.0) the(0.0) middle(1.0) class(1.0) ,(0.0) they(0.0) will(0.0) fight(1.0) with(0.0) their(0.0) colleagues(0.0) in(0.0) the(0.0) other(0.0) body(0.0) .(0.0) Here(0.0) 's(0.0) what(0.0) I(0.0) 
+want(0.0) for(0.0) Christmas(0.0) :(0.0) I(0.0) want(0.0) the(0.0) Republicans(1.0) to(1.0) care(1.0) half(1.0) as(1.0) much(1.0) about(1.0) manufacturing(1.0) jobs(1.0) in(1.0) America(1.0) as(1.0) they(1.0) 
+care(1.0) about(1.0) manufacturing(1.0) crises(1.0) .(1.0) Now(0.0) would(1.0) n't(0.0) that(0.0) be(0.0) a(0.0) holiday(0.0) present(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+phony	crisis	,	courtesy	of	extremist	bah-humbug	House	Republicans	.	House	Republicans	have	never	met	a	deal	they	could	
+n't	find	a	reason	dislike	fighting	
+country	payroll	tax	
+jobless	benefits	approving	Medicare	fix	doctors	
+Cleveland	Lorain	Sandusky	Toledo	tax	hike	Republican	game	
+of	chicken	.	American	middle	class	families	want	the	payroll	tax	cut	or	their	taxes	will	go	up	on	average	
+about	$	1,000	.	Millions	of	Americans	need	unemployment	benefits	but	Republicans	need	to	pick	a	fight	.	
+And	does	fight	Democrats	
+middle	class	fight	
+Republicans	to	care	half	as	much	about	manufacturing	jobs	in	America	as	they	
+care	about	manufacturing	crises	.	would	
+
+reads % = 0.4930232558139535

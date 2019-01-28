@@ -1,0 +1,10 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) we(0.0) got(0.0) just(0.0) under(0.0) half(0.0) the(0.0) Republican(1.0) caucus(1.0) on(1.0) it(1.0) ,(1.0) about(1.0) 100(1.0) ,(1.0) maybe(1.0) 110(1.0) .(1.0) 
+
+
+----- below are rationale words -----
+
+Republican	caucus	on	it	,	about	100	,	maybe	110	.	
+
+reads % = 0.5789473684210527

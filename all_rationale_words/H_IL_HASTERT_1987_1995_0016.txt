@@ -1,0 +1,20 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) ask(1.0) unanimous(0.0) consent(0.0) that(0.0) the(0.0) following(0.0) committees(1.0) and(0.0) their(0.0) subcommittees(0.0) be(0.0) permitted(1.0) to(0.0) sit(1.0) tomorrow(0.0) while(0.0) the(0.0) House(0.0) 
+is(0.0) meeting(0.0) in(0.0) the(0.0) Committee(0.0) of(0.0) the(0.0) Whole(0.0) House(0.0) under(0.0) the(0.0) 5-(0.0) minute(1.0) rule(0.0) .(0.0) The(0.0) Committee(0.0) on(0.0) Banking(1.0) and(0.0) 
+Financial(0.0) Services(0.0) ;(0.0) the(0.0) Committee(0.0) on(0.0) Economic(1.0) and(0.0) Educational(0.0) Opportunities(1.0) ;(0.0) the(0.0) Committee(0.0) on(0.0) Government(0.0) Reform(1.0) and(0.0) Oversight(0.0) ;(0.0) the(1.0) 
+Committee(0.0) on(0.0) House(0.0) Oversight(0.0) ;(0.0) the(1.0) Committee(0.0) on(0.0) International(0.0) Relations(1.0) ;(0.0) the(0.0) Committee(0.0) on(0.0) National(0.0) Security(1.0) ;(0.0) and(0.0) the(0.0) Committee(0.0) 
+on(0.0) Transportation(0.0) and(0.0) Infrastructure(1.0) .(0.0) It(0.0) is(0.0) my(0.0) understanding(0.0) that(0.0) the(0.0) minority(0.0) has(0.0) been(0.0) consulted(0.0) and(0.0) that(0.0) there(0.0) is(0.0) no(0.0) 
+objection(1.0) to(0.0) these(0.0) requests(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+ask	committees	permitted	sit	
+minute	Banking	
+Economic	Opportunities	Reform	the	
+the	Relations	Security	
+Infrastructure	
+objection	
+
+reads % = 0.14150943396226415

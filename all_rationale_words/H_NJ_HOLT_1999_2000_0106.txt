@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Arizona(0.0) has(0.0) given(0.0) an(0.0) eloquent(0.0) and(0.0) articulate(0.0) statement(0.0) of(0.0) the(0.0) need(0.0) for(0.0) this(0.0) memorial(1.0) tribute(0.0) 
+,(0.0) and(0.0) I(0.0) thank(0.0) him(0.0) for(0.0) that(0.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) 4(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Mississippi(1.0) 
+((0.0) Mr.(0.0) Shows(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+memorial	
+Speaker	Mississippi	
+Shows	
+
+reads % = 0.08695652173913043

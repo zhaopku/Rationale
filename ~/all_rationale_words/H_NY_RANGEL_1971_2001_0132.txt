@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+Mr(1.0) BRADY(1.0) of(0.0) Texas(0.0) .(0.0) Mr.(1.0) Speaker(1.0) ,(0.0) the(0.0) principles(1.0) of(0.0) this(0.0) bill(0.0) --(0.0) --(0.0) Speaker(1.0) ,(0.0) I(0.0) advise(1.0) the(0.0) gentleman(0.0) 
+,(0.0) be(0.0) careful(0.0) what(0.0) word(0.0) he(0.0) uses(1.0) ,(0.0) because(1.0) he(0.0) has(0.0) got(1.0) the(0.0) Speaker(0.0) here(0.0) .(0.0) Do(1.0) not(0.0) talk(0.0) about(0.0) 
+the(0.0) other(0.0) body(0.0) now(0.0) ,(0.0) but(0.0) go(0.0) ahead(0.0) .(0.0) Be(0.0) careful(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+BRADY	Mr.	Speaker	principles	Speaker	advise	
+uses	because	got	Do	
+
+
+reads % = 0.18867924528301888

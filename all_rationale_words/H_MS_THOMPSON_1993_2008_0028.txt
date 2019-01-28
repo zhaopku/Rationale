@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) pass(0.0) the(0.0) bill(0.0) ((1.0) H.R(1.0) .(0.0) 4179(0.0) )(0.0) to(0.0) amend(0.0) the(0.0) Homeland(0.0) 
+Security(0.0) Act(0.0) of(0.0) 2002(0.0) to(0.0) establish(0.0) an(0.0) appeal(0.0) and(0.0) redress(0.0) process(0.0) for(0.0) individuals(0.0) wrongly(0.0) delayed(0.0) or(0.0) prohibited(0.0) from(0.0) boarding(0.0) a(0.0) 
+flight(0.0) ,(0.0) and(0.0) for(0.0) other(0.0) purposes(0.0) ,(0.0) as(0.0) amended(0.0) .(0.0) ===========================(0.0) NOTE(0.0) ===========================(0.0) June(0.0) 18(0.0) ,(0.0) 2008(0.0) --(0.0) On(0.0) Page(0.0) 
+H5491(0.0) the(0.0) following(0.0) appeared(0.0) :(0.0) Mr.(0.0) THOMPSON(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) The(0.0) online(0.0) version(0.0) should(0.0) be(0.0) corrected(0.0) to(0.0) read(0.0) :(0.0) 
+Mr.(0.0) THOMPSON(1.0) of(0.0) Mississippi(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) =========================(0.0) END(0.0) NOTE(0.0) =========================(0.0) The(0.0) Clerk(0.0) read(0.0) the(0.0) title(0.0) of(0.0) the(0.0) bill(0.0) 
+.(0.0) The(0.0) text(0.0) of(0.0) the(0.0) bill(0.0) is(0.0) as(0.0) follows(0.0) :(0.0) H.R(0.0) .(0.0) 4179(0.0) Be(0.0) it(0.0) enacted(0.0) by(0.0) the(0.0) Senate(0.0) and(0.0) 
+House(0.0) of(0.0) Representatives(0.0) of(0.0) the(0.0) United(0.0) States(0.0) of(0.0) America(0.0) in(0.0) Congress(0.0) assembled(0.0) ,(0.0) SECTION(0.0) 1(0.0) .(0.0) SHORT(0.0) TITLE(0.0) .(0.0) This(0.0) 
+Act(0.0) may(0.0) be(0.0) cited(0.0) as(0.0) the(0.0) ``(0.0) Fair(0.0) ,(0.0) Accurate(0.0) ,(0.0) Secure(0.0) ,(0.0) and(0.0) Timely(0.0) Redress(0.0) Act(0.0) of(0.0) 2008(0.0) ''(0.0) 
+or(0.0) the(0.0) ``(0.0) FAST(0.0) Redress(0.0) Act(0.0) of(0.0) 2008(0.0) ''(0.0) .(0.0) SEC(0.0) .(0.0) 2(0.0) .(0.0) ESTABLISHMENT(0.0) OF(0.0) APPEAL(0.0) AND(0.0) REDRESS(0.0) PROCESS(0.0) 
+FOR(0.0) INDIVIDUALS(0.0) WRONGLY(0.0) DELAYED(0.0) OR(0.0) PROHIBITED(0.0) FROM(0.0) BOARDING(0.0) A(0.0) FLIGHT(0.0) ,(0.0) OR(0.0) DENIED(0.0) A(0.0) RIGHT(0.0) ,(0.0) BENEFIT(0.0) ,(0.0) OR(0.0) PRIVILEGE(0.0) 
+.(0.0) ((0.0) a(0.0) )(0.0) In(0.0) General.(0.0) --(0.0) Subtitle(0.0) H(0.0) of(0.0) title(0.0) VIII(0.0) of(0.0) the(0.0) Homeland(0.0) Security(0.0) Act(0.0) of(0.0) 2002(0.0) ((0.0) 
+6(0.0) U.S.C(0.0) .(0.0) 451(0.0) et(0.0) seq(0.0) .(0.0) )(0.0) is(0.0) amended(0.0) by(0.0) adding(0.0) at(0.0) the(0.0) end(0.0) the(0.0) following(0.0) new(0.0) section(0.0) :(0.0) 
+``(0.0) SEC(0.0) .(0.0) 890A(0.0) .(0.0) APPEAL(0.0) AND(0.0) REDRESS(0.0) PROCESS(0.0) FOR(0.0) PASSENGERS(0.0) WRONGLY(0.0) DELAYED(0.0) OR(0.0) PROHIBITED(0.0) FROM(0.0) BOARDING(0.0) A(0.0) FLIGHT(0.0) ,(0.0) 
+OR(0.0) DENIED(0.0) A(0.0) RIGHT(0.0) ,(0.0) BENEFIT(0.0) ,(0.0) OR(0.0) PRIVILEGE(0.0) .(0.0) ``(0.0) ((0.0) a(0.0) )(0.0) Establishment.(0.0) --(0.0) Not(0.0) later(0.0) than(0.0) 30(0.0) 
+days(0.0) after(0.0) the(0.0) date(0.0) of(0.0) the(0.0) enactment(0.0) of(0.0) this(0.0) section(0.0) ,(0.0) the(0.0) Secretary(0.0) shall(0.0) establish(0.0) a(0.0) timely(0.0) and(0.0) fair(0.0) process(0.0) 
+for(0.0) individuals(0.0) who(0.0) believe(0.0) they(0.0) were(0.0) delayed(0.0) or(0.0) prohibited(0.0) from(0.0) boarding(0.0) a(0.0) commercial(0.0) aircraft(0.0) or(0.0) denied(0.0) a(0.0) right(0.0) ,(0.0) benefit(0.0) 
+,(0.0) or(0.0) privilege(0.0) because(0.0) they(0.0) were(0.0) wrongly(0.0) identified(0.0) as(0.0) a(0.0) threat(0.0) when(0.0) screened(0.0) against(0.0) any(0.0) terrorist(1.0) watchlist(0.0) or(0.0) database(0.0) used(0.0) 
+by(0.0) the(0.0) Transportation(0.0) Security(0.0) Administration(0.0) ((0.0) TSA(1.0) )(0.0) or(0.0) any(0.0) office(0.0) or(0.0) component(0.0) of(0.0) the(0.0) Department(0.0) .(0.0) ``(0.0) ((0.0) b(0.0) 
+)(0.0) Office(0.0) of(0.0) Appeals(0.0) and(0.0) Redress.(0.0) --(0.0) ``(0.0) ((0.0) 1(0.0) )(0.0) Establishment.(0.0) --(0.0) The(0.0) Secretary(0.0) shall(0.0) establish(0.0) in(0.0) the(0.0) Department(0.0) 
+an(0.0) Office(0.0) of(0.0) Appeals(0.0) and(0.0) Redress(0.0) to(0.0) implement(0.0) ,(0.0) coordinate(0.0) ,(0.0) and(0.0) execute(0.0) the(0.0) process(0.0) established(0.0) by(0.0) the(0.0) Secretary(0.0) pursuant(0.0) 
+to(0.0) subsection(0.0) ((0.0) a(0.0) )(0.0) .(0.0) The(0.0) Office(0.0) shall(0.0) include(0.0) representatives(0.0) from(0.0) the(0.0) TSA(0.0) and(0.0) such(0.0) other(0.0) offices(0.0) and(0.0) components(0.0) 
+of(0.0) the(0.0) Department(0.0) as(0.0) the(0.0) Secretary(0.0) determines(0.0) appropriate(0.0) .(0.0) ``(0.0) ((0.0) 2(0.0) )(0.0) Comprehensive(0.0) cleared(0.0) list.(0.0) --(0.0) The(0.0) process(0.0) established(0.0) 
+by(0.0) the(0.0) Secretary(0.0) pursuant(0.0) to(0.0) subsection(0.0) ((0.0) a(0.0) )(0.0) shall(0.0) include(0.0) the(0.0) establishment(0.0) of(0.0) a(0.0) method(0.0) by(0.0) which(0.0) the(0.0) Office(0.0) 
+,(0.0) under(0.0) the(0.0) direction(0.0) of(0.0) the(0.0) Secretary(0.0) ,(0.0) will(0.0) maintain(0.0) and(0.0) appropriately(0.0) disseminate(0.0) a(0.0) comprehensive(0.0) list(0.0) ,(0.0) to(0.0) be(0.0) known(0.0) 
+as(0.0) the(0.0) `(0.0) Comprehensive(0.0) Cleared(0.0) List(0.0) '(0.0) ,(0.0) of(0.0) individuals(0.0) who(0.0) --(0.0) ``(0.0) ((0.0) A(0.0) )(0.0) were(0.0) misidentified(0.0) as(0.0) 
+
+
+----- below are rationale words -----
+
+(	H.R	
+
+
+THOMPSON	Speaker	
+THOMPSON	Speaker	
+
+
+
+
+
+
+
+
+
+
+
+terrorist	
+TSA	
+
+
+
+
+
+
+
+
+reads % = 0.016

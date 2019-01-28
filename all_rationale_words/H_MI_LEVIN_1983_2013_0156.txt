@@ -1,0 +1,36 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) we(0.0) should(0.0) not(0.0) be(0.0) debating(0.0) a(0.0) bill(1.0) that(0.0) 's(0.0) going(0.0) nowhere(0.0) .(0.0) We(0.0) should(0.0) be(0.0) debating(1.0) a(0.0) bill(1.0) that(0.0) 
+will(0.0) end(0.0) this(0.0) shutdown(1.0) .(0.0) Yesterday(0.0) ,(0.0) the(0.0) Speaker(0.0) said(0.0) this(0.0) :(0.0) There(0.0) are(0.0) not(0.0) enough(0.0) votes(0.0) in(0.0) the(0.0) House(0.0) 
+to(0.0) pass(0.0) a(0.0) clean(0.0) bill(0.0) to(1.0) fund(1.0) the(0.0) government(1.0) and(0.0) end(0.0) the(0.0) shutdown(1.0) .(0.0) The(0.0) truth(0.0) of(0.0) the(0.0) matter(0.0) is(0.0) 
+,(0.0) if(0.0) the(0.0) bill(1.0) will(1.0) come(0.0) up(0.0) ,(0.0) it(0.0) will(0.0) pass(0.0) .(0.0) On(0.0) Saturday(0.0) ,(0.0) 195(0.0) Democrats(1.0) wrote(0.0) to(0.0) the(0.0) 
+Speaker(0.0) and(0.0) said(0.0) ,(0.0) Bring(0.0) up(0.0) the(0.0) bill(1.0) .(0.0) Informed(0.0) reports(0.0) say(0.0) there(0.0) are(0.0) 22(0.0) Republicans(0.0) who(1.0) will(1.0) also(1.0) vote(1.0) 
+``(1.0) yes(1.0) .(1.0) ''(0.0) That(0.0) is(0.0) a(0.0) majority(0.0) of(0.0) the(0.0) House(0.0) .(0.0) I(0.0) say(0.0) to(0.0) the(0.0) Speaker(0.0) :(0.0) Let(0.0) all(0.0) 
+of(0.0) us(0.0) speak(0.0) .(0.0) The(0.0) President(1.0) today(0.0) said(0.0) this(0.0) :(0.0) The(0.0) truth(0.0) of(0.0) the(0.0) matter(0.0) is(0.0) there(0.0) are(0.0) enough(0.0) Republican(0.0) 
+and(1.0) Democratic(1.0) votes(1.0) in(0.0) the(0.0) House(0.0) of(0.0) Representatives(0.0) right(0.0) now(0.0) to(0.0) end(0.0) this(0.0) shutdown(1.0) immediately(0.0) ,(0.0) with(0.0) no(0.0) partisan(0.0) strings(0.0) 
+attached(0.0) .(0.0) The(0.0) House(0.0) should(0.0) hold(0.0) that(0.0) vote(1.0) today(0.0) .(0.0) If(0.0) Republicans(0.0) and(1.0) Speaker(0.0) Boehner(1.0) are(1.0) saying(1.0) there(1.0) are(1.0) not(1.0) 
+enough(1.0) votes(1.0) ,(1.0) then(1.0) they(1.0) should(1.0) prove(1.0) it(1.0) .(1.0) Let(0.0) the(0.0) bill(1.0) go(1.0) to(1.0) the(0.0) floor(0.0) ,(0.0) and(0.0) let(0.0) 's(0.0) 
+see(0.0) what(0.0) happens(0.0) .(0.0) Just(0.0) vote(1.0) .(0.0) Then(0.0) he(0.0) continued(0.0) :(0.0) There(0.0) 's(0.0) no(0.0) reason(0.0) that(0.0) there(0.0) has(0.0) to(0.0) be(0.0) 
+a(0.0) shutdown(0.0) in(0.0) order(0.0) for(0.0) the(0.0) kind(0.0) of(0.0) negotiations(1.0) Speaker(0.0) Boehner(1.0) says(1.0) he(1.0) wants(1.0) to(1.0) proceed(1.0) .(1.0) Hold(1.0) a(1.0) vote(1.0) 
+.(1.0) Call(1.0) a(1.0) vote(1.0) right(1.0) now(1.0) ,(1.0) and(1.0) let(0.0) 's(0.0) see(0.0) what(0.0) happens(0.0) .(0.0) We(0.0) say(0.0) to(0.0) the(0.0) Speaker(0.0) :(0.0) 
+Let(0.0) democracy(1.0) prevail(0.0) .(0.0) Bring(0.0) the(0.0) Senate(0.0) bill(0.0) up(0.0) for(0.0) a(0.0) vote(0.0) now(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+bill	debating	bill	
+shutdown	
+to	fund	government	shutdown	
+bill	will	Democrats	
+bill	who	will	also	vote	
+``	yes	.	
+President	
+and	Democratic	votes	shutdown	
+vote	and	Boehner	are	saying	there	are	not	
+enough	votes	,	then	they	should	prove	it	.	bill	go	to	
+vote	
+negotiations	Boehner	says	he	wants	to	proceed	.	Hold	a	vote	
+.	Call	a	vote	right	now	,	and	
+democracy	
+
+reads % = 0.23636363636363636

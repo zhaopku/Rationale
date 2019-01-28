@@ -1,0 +1,10 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) have(0.0) no(1.0) further(1.0) requests(0.0) for(0.0) time(0.0) ,(0.0) and(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+no	further	time	
+
+reads % = 0.15

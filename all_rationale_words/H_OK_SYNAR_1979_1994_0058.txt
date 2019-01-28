@@ -1,0 +1,52 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) chairman(0.0) of(0.0) the(0.0) committee(0.0) for(0.0) yielding(0.0) this(0.0) time(0.0) to(0.0) me(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) our(0.0) bankruptcy(1.0) 
+laws(1.0) have(0.0) developed(0.0) since(0.0) the(0.0) early(0.0) 1800(0.0) 's(0.0) to(0.0) embody(0.0) two(0.0) key(0.0) principles(1.0) which(0.0) are(0.0) respected(0.0) in(0.0) H.R(0.0) .(0.0) 5116(0.0) 
+,(0.0) today(0.0) 's(0.0) bankruptcy(1.0) reform(1.0) bill(1.0) .(0.0) First(0.0) ,(0.0) our(0.0) bankruptcy(1.0) laws(1.0) must(0.0) continue(0.0) to(0.0) encourage(0.0) economic(1.0) expansion(1.0) by(0.0) offering(0.0) 
+creditors(1.0) the(0.0) privately(0.0) enforced(0.0) protection(0.0) they(0.0) need(0.0) to(0.0) feel(0.0) secure(0.0) in(0.0) lending(1.0) the(0.0) capital(1.0) that(0.0) fuels(1.0) economic(1.0) growth(0.0) .(0.0) The(0.0) 
+reforms(1.0) we(0.0) offer(0.0) today(0.0) will(0.0) continue(0.0) the(0.0) bankruptcy(1.0) code's(0.0) tradition(0.0) of(0.0) keeping(0.0) private(0.0) losses(0.0) private(0.0) .(0.0) My(0.0) colleagues(0.0) should(0.0) remember(0.0) 
+that(0.0) there(0.0) is(0.0) no(0.0) taxpayer(1.0) backup(0.0) in(0.0) bankruptcy(1.0) ;(0.0) no(0.0) FDIC(1.0) to(0.0) make(0.0) up(0.0) losses(0.0) if(0.0) a(0.0) company(0.0) or(0.0) an(0.0) 
+individual(0.0) becomes(0.0) insolvent(1.0) .(0.0) Instead(0.0) ,(0.0) the(0.0) code(0.0) provides(0.0) a(0.0) system(0.0) which(0.0) allows(0.0) debtors(1.0) and(0.0) creditors(0.0) to(0.0) resolve(0.0) the(0.0) differences(0.0) 
+in(0.0) their(0.0) ledgers(0.0) with(0.0) Government(0.0) intrusion(0.0) or(0.0) involvement(0.0) .(0.0) And(0.0) second(0.0) ,(0.0) we(0.0) must(0.0) ensure(0.0) that(0.0) our(0.0) bankruptcy(1.0) laws(1.0) protect(1.0) 
+debtors(1.0) as(0.0) well(0.0) as(0.0) creditors(0.0) .(0.0) We(0.0) must(0.0) truly(0.0) give(0.0) debtors(1.0) a(0.0) fresh(0.0) start(0.0) because(0.0) our(0.0) Nation(1.0) is(0.0) a(0.0) nation(0.0) 
+of(0.0) failures(1.0) and(0.0) has(0.0) been(0.0) since(0.0) its(0.0) earliest(0.0) days(0.0) .(0.0) Capitalism(1.0) demands(0.0) that(0.0) for(0.0) every(0.0) winner(0.0) there(0.0) are(0.0) losers(1.0) and(0.0) 
+the(0.0) economic(1.0) liberty(1.0) that(0.0) has(0.0) brought(0.0) generations(0.0) of(0.0) immigrants(1.0) to(0.0) our(0.0) Nation(1.0) has(0.0) always(0.0) embodied(0.0) the(0.0) freedom(1.0) to(0.0) fail(1.0) as(0.0) 
+well(0.0) as(0.0) the(0.0) chance(0.0) to(0.0) succeed(0.0) .(0.0) H.R(0.0) .(0.0) 5116(0.0) embodies(1.0) both(0.0) of(0.0) these(0.0) principles(1.0) and(0.0) deserves(0.0) our(0.0) support(0.0) today(0.0) 
+.(0.0) The(0.0) bill(1.0) helps(1.0) individual(0.0) debtors(1.0) by(0.0) raising(0.0) the(0.0) Chapter(0.0) 13(0.0) debt(1.0) limits(1.0) to(0.0) a(0.0) new(0.0) total(0.0) of(0.0) $(0.0) 1(0.0) 
+million(0.0) ,(0.0) by(0.0) establishing(1.0) new(0.0) civil(1.0) penalties(1.0) bankruptcy(1.0) petition(0.0) preparers(1.0) who(0.0) negligently(0.0) or(0.0) fraudulently(0.0) prepare(0.0) bankruptcy(0.0) petitions(0.0) and(0.0) by(0.0) allowing(0.0) 
+Chapter(0.0) 13(0.0) debtors(0.0) to(0.0) cure(0.0) foreclosure(0.0) judgments(0.0) at(0.0) least(0.0) through(0.0) the(0.0) time(0.0) of(0.0) foreclosure(1.0) on(0.0) the(0.0) property(0.0) .(0.0) Crecitors(0.0) also(0.0) 
+benefit(0.0) from(0.0) today(0.0) 's(0.0) bill(0.0) .(0.0) Specifically(0.0) ,(0.0) provisions(0.0) designed(0.0) to(0.0) curtail(1.0) bankruptcy(1.0) fraud(1.0) and(0.0) abuse(0.0) and(0.0) reduce(0.0) the(0.0) unnecessary(1.0) 
+costs(1.0) and(0.0) delays(1.0) of(0.0) the(0.0) bankruptcy(1.0) process(0.0) will(0.0) benefit(1.0) all(0.0) those(0.0) who(0.0) rely(0.0) on(0.0) the(0.0) bankruptcy(1.0) code(0.0) for(0.0) settling(0.0) accounts(0.0) 
+.(0.0) Commercial(0.0) creditors(0.0) should(0.0) also(0.0) find(0.0) comfort(0.0) in(0.0) a(0.0) number(0.0) of(0.0) reforms(1.0) contained(0.0) in(0.0) the(0.0) legislation(1.0) with(0.0) regard(0.0) to(0.0) bankruptcy(1.0) 
+trustees(0.0) and(0.0) new(0.0) rights(1.0) for(0.0) creditors(0.0) in(0.0) certain(0.0) bankruptcy(1.0) situations(0.0) .(0.0) Finally(0.0) ,(0.0) I(0.0) would(0.0) like(0.0) to(0.0) extend(0.0) my(0.0) warm(0.0) 
+and(0.0) heartfelt(0.0) thanks(0.0) to(0.0) Chairman(0.0) Brooks(1.0) for(0.0) his(0.0) consideration(0.0) of(0.0) this(0.0) legislation(1.0) and(0.0) to(0.0) the(0.0) entire(0.0) Economic(1.0) and(0.0) Commercial(0.0) Law(0.0) 
+Subcommittee(0.0) staff(0.0) for(0.0) their(0.0) long(0.0) hours(0.0) of(0.0) work(0.0) on(0.0) this(0.0) legislation(0.0) .(0.0) Their(0.0) dedication(0.0) to(0.0) commonsense(1.0) reform(1.0) of(0.0) the(0.0) code(0.0) 
+follows(0.0) a(0.0) fine(0.0) tradition(0.0) on(0.0) the(0.0) committee(0.0) and(0.0) they(0.0) are(0.0) to(0.0) be(0.0) commended(0.0) for(0.0) their(0.0) efforts(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	bankruptcy	
+laws	principles	
+bankruptcy	reform	bill	bankruptcy	laws	economic	expansion	
+creditors	lending	capital	fuels	economic	
+reforms	bankruptcy	
+taxpayer	bankruptcy	FDIC	
+insolvent	debtors	
+bankruptcy	laws	protect	
+debtors	debtors	Nation	
+failures	Capitalism	losers	
+economic	liberty	immigrants	Nation	freedom	fail	
+embodies	principles	
+bill	helps	debtors	debt	limits	
+establishing	civil	penalties	bankruptcy	preparers	
+foreclosure	
+curtail	bankruptcy	fraud	unnecessary	
+costs	delays	bankruptcy	benefit	bankruptcy	
+reforms	legislation	bankruptcy	
+rights	bankruptcy	
+Brooks	legislation	Economic	
+commonsense	reform	
+efforts	
+
+reads % = 0.16210045662100456

@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+If(0.0) the(0.0) gentleman(0.0) from(0.0) Oklahoma(0.0) ((0.0) Mr.(0.0) Istook(1.0) )(0.0) in(1.0) the(0.0) next(0.0) 5(0.0) hours(0.0) is(0.0) successful(0.0) in(0.0) beginning(0.0) the(0.0) process(0.0) to(0.0) 
+amend(0.0) the(0.0) Bill(0.0) of(0.0) Rights(0.0) for(0.0) the(0.0) first(0.0) time(0.0) in(0.0) our(0.0) Nation(1.0) 's(0.0) history(0.0) ,(0.0) public(1.0) schools(1.0) across(0.0) America(0.0) will(0.0) 
+begin(0.0) to(0.0) look(0.0) like(0.0) public(1.0) airports(1.0) ,(0.0) where(0.0) religious(1.0) groups(0.0) ,(0.0) cults(0.0) and(0.0) fanatics(0.0) can(0.0) go(0.0) to(0.0) our(0.0) public(1.0) school(0.0) 
+grounds(0.0) and(0.0) try(0.0) to(0.0) convert(0.0) small(0.0) children(0.0) to(0.0) their(0.0) particular(0.0) religious(1.0) beliefs(0.0) .(0.0) I(0.0) do(0.0) not(0.0) think(0.0) the(0.0) parents(0.0) of(0.0) 
+America(1.0) want(0.0) to(0.0) send(0.0) their(0.0) children(0.0) to(0.0) school(1.0) to(0.0) be(0.0) proselytized(1.0) .(0.0) They(0.0) send(0.0) their(0.0) children(0.0) to(0.0) school(1.0) to(0.0) be(0.0) 
+educated(0.0) .(0.0) I(0.0) am(0.0) grateful(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) that(0.0) just(0.0) outside(0.0) the(0.0) halls(0.0) of(0.0) this(0.0) historic(1.0) Chamber(0.0) ,(0.0) religious(1.0) 
+leaders(0.0) of(0.0) great(0.0) faith(0.0) from(0.0) all(0.0) over(0.0) this(0.0) country(1.0) ,(0.0) Baptists(1.0) ,(0.0) Methodists(1.0) ,(0.0) Jews(1.0) ,(0.0) Episcopalians(1.0) and(0.0) many(0.0) other(0.0) 
+faiths(1.0) will(0.0) speak(0.0) out(0.0) against(0.0) the(0.0) Istook(1.0) amendment(1.0) ,(0.0) because(0.0) they(0.0) believe(0.0) as(0.0) Jefferson(1.0) and(0.0) Madison(1.0) did(0.0) that(0.0) the(0.0) best(0.0) 
+way(0.0) to(0.0) ruin(0.0) religion(1.0) is(0.0) to(0.0) politicize(1.0) it(0.0) .(0.0) That(0.0) is(0.0) what(0.0) the(0.0) Istook(1.0) amendment(1.0) will(0.0) do(0.0) .(0.0) I(0.0) urge(0.0) 
+parents(0.0) ,(0.0) people(0.0) and(0.0) Members(0.0) across(0.0) this(0.0) body(0.0) and(0.0) America(0.0) to(0.0) oppose(1.0) the(0.0) Istook(1.0) amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Istook	in	
+Nation	public	schools	
+public	airports	religious	public	
+religious	
+America	school	proselytized	school	
+Speaker	historic	religious	
+country	Baptists	Methodists	Jews	Episcopalians	
+faiths	Istook	amendment	Jefferson	Madison	
+religion	politicize	Istook	amendment	
+oppose	Istook	amendment	
+
+reads % = 0.17258883248730963

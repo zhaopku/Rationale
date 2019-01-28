@@ -1,0 +1,16 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) 15(0.0) seconds(0.0) to(0.0) just(0.0) point(0.0) out(0.0) the(0.0) chart(0.0) in(0.0) the(0.0) front(0.0) shows(0.0) that(0.0) those(0.0) people(0.0) below(0.0) 
+$(0.0) 75,000(0.0) get(0.0) 74(0.0) percent(0.0) of(0.0) the(0.0) family(0.0) tax(1.0) credit(1.0) .(0.0) The(0.0) figures(0.0) ,(0.0) frankly(0.0) ,(0.0) speak(0.0) for(0.0) themselves(0.0) .(0.0) 
+Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) yield(0.0) such(0.0) time(0.0) as(0.0) she(0.0) may(0.0) consume(0.0) to(0.0) the(0.0) gentlewoman(0.0) from(0.0) Connecticut(1.0) [(0.0) Mrs.(1.0) Johnson(1.0) ](0.0) 
+.(0.0) ((0.0) Mrs.(0.0) JOHNSON(1.0) of(0.0) Connecticut(0.0) asked(0.0) and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) her(0.0) remarks(0.0) .(0.0) )(0.0) 
+
+
+----- below are rationale words -----
+
+
+tax	credit	
+Chairman	Connecticut	Mrs.	Johnson	
+JOHNSON	
+
+reads % = 0.0875

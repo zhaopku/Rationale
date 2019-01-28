@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) first(0.0) of(0.0) all(0.0) ,(0.0) let(0.0) me(0.0) 
+say(0.0) that(0.0) lowering(0.0) class(0.0) size(0.0) is(0.0) a(0.0) bipartisan(1.0) issue(0.0) .(0.0) We(0.0) feel(0.0) just(0.0) as(0.0) strongly(0.0) on(0.0) either(0.0) side(0.0) that(0.0) that(0.0) 
+comes(0.0) about(0.0) third(0.0) .(0.0) Parents(0.0) first(0.0) ,(0.0) and(0.0) then(0.0) a(0.0) qualified(0.0) teacher(0.0) in(0.0) the(0.0) classroom(0.0) ,(0.0) and(0.0) then(0.0) class(0.0) size(0.0) 
+.(0.0) What(0.0) is(0.0) the(0.0) difference(0.0) whether(0.0) there(0.0) are(0.0) 19(0.0) or(0.0) 20(0.0) or(0.0) 21(0.0) or(0.0) 22(0.0) ,(0.0) if(0.0) as(0.0) a(0.0) matter(0.0) 
+of(0.0) fact(0.0) there(0.0) is(0.0) no(0.0) quality(0.0) in(0.0) front(0.0) of(0.0) that(0.0) classroom(0.0) ?(0.0) So(0.0) reducing(1.0) class(0.0) size(0.0) ,(0.0) of(0.0) course(0.0) ,(0.0) 
+is(0.0) a(0.0) bipartisan(1.0) effort(1.0) .(0.0) We(0.0) discovered(0.0) in(0.0) California(1.0) they(0.0) could(0.0) not(0.0) do(0.0) it(0.0) ;(0.0) they(0.0) could(0.0) not(0.0) put(0.0) quality(0.0) 
+in(0.0) the(0.0) classroom(0.0) ,(0.0) and(0.0) that(0.0) is(0.0) a(0.0) tragedy(0.0) because(0.0) now(0.0) we(0.0) have(0.0) reduced(0.0) the(0.0) class(0.0) size(0.0) ,(0.0) but(0.0) what(0.0) 
+we(0.0) have(0.0) given(0.0) them(0.0) instead(0.0) of(0.0) the(0.0) teacher(0.0) they(0.0) had(0.0) who(0.0) had(0.0) some(0.0) quality(0.0) to(0.0) provide(0.0) education(1.0) to(0.0) 20(0.0) ,(0.0) 
+21(0.0) ,(0.0) 22(0.0) ,(0.0) 23(0.0) children(0.0) ,(0.0) they(0.0) now(0.0) have(0.0) someone(0.0) providing(0.0) anything(0.0) but(0.0) quality(0.0) .(0.0) So(0.0) ,(0.0) Mr.(0.0) Chairman(1.0) 
+,(0.0) we(0.0) have(0.0) heard(0.0) over(0.0) and(0.0) over(0.0) again(0.0) on(0.0) both(0.0) sides(0.0) of(0.0) the(0.0) aisle(0.0) ,(0.0) what(0.0) have(0.0) we(0.0) gotten(0.0) for(0.0) 
+$(0.0) 120(0.0) billion(1.0) in(0.0) Title(1.0) I(0.0) ?(0.0) The(0.0) way(0.0) it(0.0) has(0.0) been(0.0) phrased(0.0) each(0.0) time(0.0) I(0.0) have(0.0) heard(0.0) it(0.0) is(0.0) 
+,(0.0) what(0.0) have(0.0) the(0.0) taxpayers(1.0) gotten(0.0) for(0.0) $(0.0) 120(0.0) billion(1.0) in(0.0) Title(1.0) I(0.0) ?(0.0) I(0.0) always(0.0) change(0.0) that(0.0) by(0.0) saying(0.0) 
+:(0.0) What(0.0) did(0.0) the(0.0) child(0.0) get(0.0) ?(0.0) Because(0.0) that(0.0) is(0.0) the(0.0) important(0.0) issue(0.0) .(0.0) Both(0.0) are(0.0) important(0.0) issues(0.0) ,(0.0) but(0.0) 
+the(0.0) child(0.0) is(0.0) very(0.0) important(0.0) .(0.0) So(0.0) ,(0.0) as(0.0) we(0.0) reauthorize(1.0) for(0.0) the(0.0) first(0.0) time(0.0) in(0.0) the(0.0) history(0.0) of(0.0) these(0.0) 
+programs(1.0) ,(0.0) we(0.0) are(0.0) looking(0.0) to(0.0) see(0.0) what(0.0) did(0.0) the(0.0) children(0.0) get(0.0) for(0.0) the(0.0) taxpayers(1.0) '(0.0) dollars(0.0) that(0.0) were(0.0) spent(0.0) 
+.(0.0) And(0.0) then(0.0) we(0.0) hear(0.0) people(0.0) say(0.0) :(0.0) Well(0.0) ,(0.0) what(0.0) did(0.0) the(0.0) taxpayer(1.0) get(0.0) for(0.0) $(0.0) 177(0.0) billion(1.0) spent(0.0) 
+on(0.0) the(0.0) Elementary(0.0) Secondary(0.0) Education(0.0) Act(0.0) ?(0.0) I(0.0) again(0.0) say(0.0) :(0.0) What(0.0) did(0.0) the(0.0) children(0.0) get(0.0) ?(0.0) And(0.0) we(0.0) are(0.0) 
+looking(0.0) at(0.0) every(0.0) issue(0.0) making(0.0) sure(0.0) that(0.0) the(0.0) children(0.0) are(0.0) number(0.0) one(0.0) ,(0.0) and(0.0) we(0.0) want(0.0) to(0.0) make(0.0) sure(0.0) that(0.0) 
+they(0.0) are(0.0) quality(0.0) programs(1.0) ;(0.0) and(0.0) in(0.0) order(0.0) to(0.0) do(0.0) that(0.0) there(0.0) has(0.0) to(0.0) be(0.0) a(0.0) quality(0.0) teacher(0.0) in(0.0) the(0.0) 
+classroom(0.0) .(0.0) We(0.0) give(0.0) them(0.0) that(0.0) opportunity(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) we(0.0) just(0.0) read(0.0) where(0.0) they(0.0) are(0.0) laying(0.0) off(0.0) ,(0.0) 
+firing(0.0) ,(0.0) 250(0.0) teachers(0.0) in(0.0) Baltimore(1.0) City(1.0) .(0.0) They(0.0) say(0.0) they(0.0) want(0.0) to(0.0) get(0.0) excellence(0.0) ,(0.0) and(0.0) so(0.0) they(0.0) are(0.0) 
+firing(0.0) them(0.0) .(0.0) One(0.0) of(0.0) my(0.0) major(0.0) concerns(1.0) is(0.0) ,(0.0) and(0.0) I(0.0) went(0.0) through(0.0) this(0.0) when(0.0) the(0.0) baby(0.0) boomers(1.0) came(0.0) 
+and(0.0) the(0.0) teachers(0.0) I(0.0) had(0.0) to(0.0) employ(0.0) were(0.0) not(0.0) those(0.0) that(0.0) I(0.0) would(0.0) have(0.0) liked(0.0) to(0.0) have(0.0) employed(0.0) ,(0.0) but(0.0) 
+they(0.0) probably(0.0) could(0.0) have(0.0) taken(0.0) some(0.0) of(0.0) this(0.0) money(1.0) and(0.0) at(0.0) least(0.0) taken(0.0) 100(0.0) of(0.0) those(0.0) teachers(0.0) that(0.0) they(0.0) are(0.0) 
+going(0.0) to(0.0) fire(0.0) and(0.0) made(0.0) them(0.0) far(0.0) better(0.0) classroom(0.0) teachers(0.0) than(0.0) they(0.0) are(0.0) ever(0.0) going(0.0) to(0.0) get(0.0) if(0.0) they(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	
+bipartisan	
+
+
+reducing	
+bipartisan	effort	California	
+
+education	
+Chairman	
+
+billion	Title	
+taxpayers	billion	Title	
+
+reauthorize	
+programs	taxpayers	
+taxpayer	billion	
+
+
+programs	
+Speaker	
+Baltimore	City	
+concerns	boomers	
+
+money	
+
+
+reads % = 0.05

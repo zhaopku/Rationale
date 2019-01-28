@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+4061(1.0) ,(0.0) the(0.0) Cybersecurity(1.0) Enhancement(0.0) Act(0.0) of(0.0) 2009(0.0) .(0.0) I(0.0) am(0.0) a(0.0) proud(0.0) cosponsor(1.0) of(0.0) this(0.0) bill(1.0) ,(0.0) and(0.0) I(0.0) commend(0.0) 
+Congressman(1.0) Lipinski(1.0) for(0.0) his(0.0) work(0.0) on(0.0) this(0.0) legislation(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) more(0.0) and(0.0) more(0.0) Americans(1.0) rely(0.0) on(0.0) the(0.0) Internet(0.0) 
+every(0.0) day(0.0) .(0.0) Businesses(0.0) depend(0.0) on(0.0) it(0.0) for(0.0) commerce(1.0) .(0.0) Consumers(1.0) depend(0.0) on(0.0) it(0.0) to(0.0) be(0.0) able(0.0) to(0.0) engage(0.0) in(0.0) 
+transactions(0.0) to(0.0) support(0.0) small(0.0) business(0.0) all(0.0) across(0.0) this(0.0) country(1.0) .(0.0) People(0.0) network(0.0) in(0.0) hopes(1.0) of(0.0) finding(0.0) a(0.0) job(0.0) or(0.0) connecting(0.0) 
+with(0.0) friends(0.0) ,(0.0) exploring(0.0) opportunities(0.0) to(0.0) find(0.0) the(0.0) financial(1.0) means(0.0) necessary(0.0) to(0.0) go(0.0) to(0.0) college(1.0) .(0.0) This(0.0) means(0.0) that(0.0) every(0.0) 
+day(0.0) more(0.0) people(0.0) rely(0.0) on(0.0) secure(0.0) networks(0.0) to(0.0) keep(0.0) their(0.0) personal(0.0) information(0.0) safe(0.0) to(0.0) make(0.0) sure(0.0) that(0.0) people(0.0) are(0.0) n't(0.0) 
+taking(0.0) advantage(0.0) of(0.0) their(0.0) privacy(1.0) and(0.0) exploiting(1.0) them(0.0) ,(0.0) exposing(1.0) businesses(1.0) to(0.0) attacks(0.0) ,(0.0) costing(1.0) taxpayers(1.0) thousands(0.0) and(0.0) thousands(0.0) of(0.0) 
+dollars(1.0) ,(0.0) growing(0.0) to(0.0) millions(1.0) and(0.0) millions(1.0) of(0.0) dollars(1.0) ,(0.0) with(0.0) attacks(1.0) every(0.0) day(0.0) .(0.0) We(0.0) know(0.0) that(0.0) this(0.0) costs(1.0) 
+the(0.0) Federal(1.0) Government(1.0) money(1.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) as(0.0) more(0.0) and(0.0) more(0.0) countries(1.0) are(0.0) looking(0.0) to(0.0) engage(0.0) and(0.0) find(0.0) vulnerabilities(0.0) 
+in(0.0) these(0.0) networks(0.0) just(0.0) to(0.0) do(0.0) harm(0.0) ,(0.0) to(0.0) cost(1.0) the(0.0) American(0.0) taxpayers(1.0) more(0.0) and(0.0) more(0.0) money(1.0) .(0.0) We(0.0) need(0.0) 
+to(0.0) make(0.0) sure(0.0) that(0.0) we(0.0) are(0.0) truly(0.0) investing(1.0) and(0.0) providing(0.0) educational(1.0) opportunities(0.0) to(0.0) young(0.0) people(0.0) ,(0.0) bringing(0.0) in(0.0) those(0.0) who(0.0) 
+have(0.0) some(0.0) skill(0.0) sets(0.0) to(0.0) teach(0.0) them(0.0) how(0.0) to(0.0) defend(1.0) our(0.0) country(1.0) and(0.0) defend(1.0) business(0.0) from(0.0) all(0.0) these(0.0) cyber(1.0) attacks(0.0) 
+that(0.0) are(0.0) costing(1.0) us(0.0) millions(1.0) and(0.0) millions(1.0) of(0.0) dollars(1.0) every(0.0) day(0.0) .(0.0) Because(0.0) of(0.0) our(0.0) increasing(1.0) dependence(1.0) on(0.0) technology(0.0) ,(0.0) 
+we(0.0) must(0.0) teach(0.0) these(0.0) students(0.0) these(0.0) important(0.0) skills(0.0) .(0.0) One(0.0) provision(1.0) of(0.0) this(0.0) legislation(1.0) we(0.0) are(0.0) debating(1.0) today(0.0) will(0.0) help(0.0) 
+train(0.0) the(0.0) force(1.0) by(0.0) establishing(1.0) the(0.0) Federal(1.0) Cyber(1.0) Scholarship(0.0) for(0.0) Service(0.0) program(0.0) .(0.0) During(0.0) committee(0.0) markup(0.0) ,(0.0) I(0.0) successfully(0.0) included(0.0) 
+an(0.0) amendment(1.0) to(0.0) address(0.0) any(0.0) regional(0.0) disparities(1.0) that(0.0) may(0.0) exist(0.0) to(0.0) make(0.0) sure(0.0) that(0.0) we(0.0) are(0.0) truly(0.0) looking(0.0) across(0.0) the(0.0) 
+country(1.0) ,(0.0) in(0.0) small(0.0) communities(1.0) and(0.0) rural(1.0) America(0.0) ,(0.0) to(0.0) find(0.0) these(0.0) experts(0.0) that(0.0) can(0.0) help(0.0) us(0.0) protect(1.0) our(0.0) country(1.0) 
+to(0.0) make(0.0) sure(0.0) that(0.0) small(0.0) businesses(1.0) are(0.0) n't(0.0) subject(0.0) to(0.0) those(0.0) attacks(0.0) .(0.0) My(0.0) district(0.0) in(0.0) New(1.0) Mexico(1.0) is(0.0) home(0.0) 
+to(0.0) 17(0.0) different(0.0) tribes(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) .(0.0) New(0.0) Mexico(1.0) has(0.0) 22(0.0) .(0.0) We(0.0) need(0.0) to(0.0) make(0.0) sure(0.0) as(0.0) they(0.0) 
+are(0.0) developing(0.0) their(0.0) infrastructure(1.0) that(0.0) we(0.0) provide(0.0) them(0.0) the(0.0) opportunity(0.0) to(0.0) make(0.0) sure(0.0) they(0.0) have(0.0) these(0.0) skill(0.0) sets(0.0) as(0.0) well(0.0) 
+.(0.0) We(0.0) need(0.0) to(0.0) make(0.0) sure(0.0) that(0.0) we(0.0) are(0.0) helping(0.0) keep(0.0) a(0.0) vulnerable(0.0) population(0.0) engaged(0.0) ,(0.0) that(0.0) we(0.0) are(0.0) looking(0.0) 
+to(0.0) create(0.0) educational(1.0) opportunities(0.0) .(0.0) But(0.0) more(0.0) importantly(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) that(0.0) we(0.0) are(0.0) standing(0.0) up(0.0) to(0.0) those(0.0) nations(1.0) 
+,(0.0) to(0.0) those(0.0) people(0.0) around(0.0) the(0.0) world(0.0) that(0.0) continue(0.0) to(0.0) try(0.0) to(0.0) find(0.0) ways(0.0) to(0.0) attack(1.0) this(0.0) Nation(1.0) .(0.0) They(0.0) 
+found(0.0) a(0.0) way(0.0) through(0.0) cybersecurity(1.0) .(0.0) They(0.0) are(0.0) finding(0.0) ways(0.0) to(0.0) be(0.0) able(0.0) to(0.0) cost(1.0) commerce(1.0) money(0.0) ,(0.0) to(0.0) prevent(0.0) 
+business(0.0) from(0.0) happening(0.0) ,(0.0) to(0.0) stifle(1.0) small(0.0) business(0.0) from(0.0) growing(0.0) .(0.0) We(0.0) as(0.0) a(0.0) Congress(0.0) need(0.0) to(0.0) make(0.0) sure(0.0) 
+
+
+----- below are rationale words -----
+
+Cybersecurity	cosponsor	bill	
+Congressman	Lipinski	legislation	Speaker	Americans	
+commerce	Consumers	
+country	hopes	
+financial	college	
+
+privacy	exploiting	exposing	businesses	costing	taxpayers	
+dollars	millions	millions	dollars	attacks	costs	
+Federal	Government	money	Speaker	countries	
+cost	taxpayers	money	
+investing	educational	
+defend	country	defend	cyber	
+costing	millions	millions	dollars	increasing	dependence	
+provision	legislation	debating	
+force	establishing	Federal	Cyber	
+amendment	disparities	
+country	communities	rural	protect	country	
+businesses	New	Mexico	
+Speaker	Mexico	
+infrastructure	
+
+educational	Speaker	nations	
+attack	Nation	
+cybersecurity	cost	commerce	
+stifle	
+
+reads % = 0.15

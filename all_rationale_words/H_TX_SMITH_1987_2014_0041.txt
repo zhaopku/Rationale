@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) congratulations(0.0) to(0.0) the(0.0) San(1.0) Antonio(1.0) Spurs(1.0) on(0.0) winning(0.0) the(0.0) 2014(0.0) NBA(0.0) championship(0.0) over(0.0) the(0.0) Miami(1.0) Heat(0.0) .(0.0) This(0.0) is(0.0) 
+the(0.0) fifth(0.0) NBA(0.0) championship(0.0) for(0.0) the(0.0) Spurs(0.0) under(0.0) Coach(0.0) Greg(0.0) Popovich(1.0) .(0.0) Coach(0.0) Popovich(1.0) was(0.0) also(0.0) named(0.0) this(0.0) season(0.0) 's(0.0) 
+NBA(0.0) Coach(0.0) of(0.0) the(0.0) Year(0.0) .(0.0) The(0.0) entire(0.0) Spurs(0.0) team(0.0) ,(0.0) led(0.0) by(0.0) captains(0.0) Tim(0.0) Duncan(1.0) and(0.0) Tony(0.0) Parker(1.0) ,(0.0) 
+played(0.0) with(0.0) determination(0.0) to(0.0) bring(0.0) the(0.0) championship(0.0) trophy(0.0) back(0.0) to(0.0) San(1.0) Antonio(0.0) .(0.0) The(0.0) Spurs(0.0) also(0.0) clinched(0.0) the(0.0) best(0.0) record(0.0) 
+in(0.0) the(0.0) NBA(0.0) this(0.0) season(0.0) with(0.0) 26(0.0) wins(0.0) and(0.0) 20(0.0) losses(0.0) .(0.0) Also(0.0) ,(0.0) congratulations(0.0) to(0.0) Kawhi(1.0) Leonard(1.0) ,(0.0) who(0.0) 
+was(0.0) named(0.0) the(0.0) NBA(0.0) Finals(0.0) Most(0.0) Valuable(0.0) Player(0.0) .(0.0) Leonard(0.0) averaged(0.0) over(0.0) 17(0.0) points(0.0) and(0.0) six(0.0) rebounds(0.0) in(0.0) the(0.0) championship(0.0) 
+series(0.0) ,(0.0) with(0.0) three(0.0) consecutive(0.0) 20-point(0.0) performances(0.0) .(0.0) Leonard(0.0) also(0.0) had(0.0) the(0.0) help(0.0) of(0.0) the(0.0) Spurs(0.0) ``(0.0) Big(0.0) 3(0.0) ,(0.0) 
+''(0.0) made(0.0) up(0.0) of(0.0) Tim(0.0) Duncan(1.0) ,(0.0) Manu(0.0) Ginobili(0.0) ,(0.0) and(0.0) Tony(0.0) Parker(1.0) .(0.0) The(0.0) ``(0.0) Big(0.0) 3(0.0) ''(0.0) now(0.0) 
+has(0.0) the(0.0) most(0.0) playoff(0.0) wins(0.0) of(0.0) any(0.0) trio(0.0) in(0.0) NBA(0.0) history(0.0) .(0.0) A(0.0) well-deserved(0.0) congratulations(0.0) to(0.0) the(0.0) Spurs(0.0) for(0.0) bringing(0.0) 
+the(0.0) trophy(0.0) back(0.0) to(0.0) the(0.0) Alamo(0.0) City(0.0) .(0.0) As(0.0) we(0.0) say(0.0) in(0.0) San(1.0) Antonio(1.0) :(0.0) Go(0.0) ,(0.0) Spurs(0.0) ,(0.0) go(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+San	Antonio	Spurs	Miami	
+Popovich	Popovich	
+Duncan	Parker	
+San	
+Kawhi	Leonard	
+
+
+Duncan	Parker	
+
+San	Antonio	
+
+
+reads % = 0.07425742574257425

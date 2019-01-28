@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) 
+Jersey(1.0) ((0.0) Mr.(0.0) Smith(1.0) )(0.0) for(1.0) his(0.0) leadership(0.0) and(0.0) for(0.0) the(0.0) gentleman(0.0) 's(0.0) work(0.0) on(0.0) the(0.0) previous(0.0) resolution(0.0) on(0.0) Vietnam(0.0) 
+human(0.0) rights(0.0) today(0.0) ,(0.0) and(0.0) also(0.0) those(0.0) people(0.0) who(0.0) fought(0.0) in(0.0) the(0.0) past(0.0) for(0.0) our(0.0) freedoms(1.0) that(0.0) we(0.0) have(0.0) today(0.0) 
+.(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) 3(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) ((0.0) Mr.(0.0) Rodriguez(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	
+Jersey	Smith	for	
+freedoms	
+Speaker	Rodriguez	
+
+reads % = 0.08860759493670886

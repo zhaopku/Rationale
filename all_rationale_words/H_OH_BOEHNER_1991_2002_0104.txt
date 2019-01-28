@@ -1,0 +1,50 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) me(0.0) this(0.0) time(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) over(0.0) the(0.0) course(0.0) of(0.0) this(0.0) past(0.0) 
+year(0.0) ,(0.0) we(0.0) have(0.0) watched(0.0) employees(0.0) of(0.0) Enron(1.0) and(0.0) WorldCom(0.0) and(0.0) other(0.0) companies(0.0) watch(0.0) their(0.0) retirement(1.0) savings(0.0) dwindle(0.0) to(0.0) almost(0.0) 
+nothing(0.0) .(0.0) The(0.0) House(0.0) in(0.0) a(0.0) bipartisan(1.0) way(0.0) came(0.0) together(0.0) on(0.0) April(0.0) 11(0.0) ,(0.0) 160(0.0) days(0.0) ago(0.0) ,(0.0) to(0.0) pass(0.0) 
+the(0.0) Pension(1.0) Protection(1.0) Act(0.0) which(0.0) will(0.0) in(0.0) fact(0.0) help(0.0) protect(0.0) all(0.0) pensions(1.0) in(0.0) America(1.0) .(0.0) Yet(0.0) the(0.0) Senate(1.0) has(0.0) not(0.0) 
+acted(0.0) .(0.0) Now(0.0) the(0.0) Senate(1.0) did(0.0) in(0.0) fact(0.0) act(0.0) along(0.0) with(0.0) the(0.0) House(0.0) when(0.0) we(0.0) passed(0.0) the(0.0) Corporate(0.0) Accountability(1.0) bill(0.0) 
+to(1.0) put(0.0) those(0.0) corporate(1.0) insiders(1.0) who(1.0) have(0.0) abused(0.0) their(0.0) shareholders(0.0) and(0.0) abused(1.0) the(0.0) law(1.0) and(0.0) put(0.0) them(0.0) in(0.0) jail(1.0) .(0.0) 
+In(0.0) that(0.0) bill(1.0) ,(0.0) I(0.0) might(0.0) add(0.0) ,(0.0) there(0.0) were(0.0) two(0.0) provisions(1.0) from(0.0) the(0.0) Pension(1.0) Security(0.0) Act(0.0) actually(0.0) signed(0.0) into(0.0) 
+law(1.0) .(0.0) One(0.0) ,(0.0) a(0.0) provision(1.0) that(0.0) would(0.0) bar(0.0) company(0.0) insiders(0.0) from(0.0) selling(0.0) their(0.0) stock(0.0) during(0.0) a(0.0) blackout(0.0) period(0.0) where(0.0) 
+the(0.0) plan(1.0) administrator(0.0) is(0.0) changing(0.0) .(0.0) Secondly(0.0) ,(0.0) in(0.0) the(0.0) Corporate(0.0) Accountability(1.0) bill(0.0) ,(0.0) we(0.0) do(0.0) require(0.0) that(0.0) pension(1.0) plan(1.0) 
+administrators(0.0) notify(0.0) their(0.0) employees(0.0) 30(0.0) days(0.0) in(0.0) advance(0.0) of(0.0) any(0.0) blackout(0.0) period(0.0) .(0.0) But(0.0) we(0.0) all(0.0) know(0.0) there(0.0) is(0.0) a(0.0) 
+lot(0.0) more(0.0) that(0.0) needs(0.0) to(0.0) be(0.0) done(0.0) .(0.0) We(0.0) need(0.0) to(0.0) give(0.0) workers(1.0) more(0.0) freedom(1.0) to(0.0) diversify(1.0) their(0.0) 401(1.0) ((0.0) 
+k(0.0) )(0.0) accounts(0.0) .(0.0) We(0.0) need(0.0) to(0.0) make(0.0) sure(0.0) that(0.0) workers(1.0) have(0.0) access(0.0) to(0.0) high-(0.0) quality(0.0) investment(0.0) advice(0.0) .(0.0) But(0.0) 
+the(0.0) House(0.0) can(0.0) not(0.0) do(0.0) it(0.0) alone(0.0) .(0.0) We(0.0) all(0.0) know(0.0) under(0.0) the(0.0) Constitution(1.0) that(0.0) before(0.0) a(0.0) bill(1.0) can(0.0) become(0.0) 
+law(1.0) and(0.0) go(0.0) to(0.0) the(0.0) President(1.0) 's(0.0) desk(0.0) ,(0.0) it(0.0) has(0.0) to(0.0) be(0.0) acted(0.0) on(0.0) by(0.0) the(0.0) House(0.0) ;(0.0) it(0.0) 
+has(0.0) to(0.0) be(0.0) acted(0.0) on(0.0) by(0.0) the(0.0) other(0.0) body(0.0) .(0.0) Any(0.0) differences(0.0) have(0.0) to(0.0) be(0.0) resolved(0.0) before(0.0) the(0.0) bill(1.0) goes(0.0) 
+to(0.0) the(0.0) President(1.0) .(0.0) The(0.0) House(0.0) has(0.0) acted(0.0) .(0.0) The(0.0) Senate(0.0) has(0.0) yet(0.0) to(0.0) take(0.0) up(0.0) pension(1.0) legislation(1.0) ,(0.0) and(0.0) 
+I(0.0) believe(0.0) this(0.0) issue(0.0) is(0.0) one(0.0) thing(0.0) that(0.0) needs(0.0) to(0.0) be(0.0) done(0.0) .(0.0) We(0.0) have(0.0) to(0.0) remember(0.0) that(0.0) this(0.0) bill(1.0) 
+,(0.0) the(0.0) Pension(1.0) Security(0.0) Act(0.0) ,(0.0) passed(0.0) the(0.0) House(0.0) with(0.0) 46(0.0) Democrat(1.0) members(0.0) voting(1.0) for(0.0) it(0.0) .(0.0) We(0.0) worked(0.0) in(0.0) 
+a(0.0) bipartisan(1.0) way(0.0) to(0.0) make(0.0) responsible(0.0) reforms(1.0) that(0.0) really(0.0) would(0.0) in(0.0) fact(0.0) protect(0.0) the(0.0) pension(1.0) assets(1.0) of(0.0) many(0.0) of(0.0) our(0.0) 
+employees(0.0) .(0.0) But(0.0) we(0.0) can(0.0) not(0.0) get(0.0) this(0.0) bill(1.0) to(1.0) the(0.0) President(0.0) 's(0.0) desk(0.0) until(0.0) we(0.0) have(0.0) action(0.0) .(0.0) That(0.0) 
+action(0.0) needs(0.0) to(0.0) occur(0.0) ,(0.0) and(0.0) it(0.0) needs(0.0) to(0.0) occur(0.0) now(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	
+Enron	retirement	
+bipartisan	
+Pension	Protection	pensions	America	Senate	
+Senate	Accountability	
+to	corporate	insiders	who	abused	law	jail	
+bill	provisions	Pension	
+law	provision	
+plan	Accountability	pension	plan	
+
+workers	freedom	diversify	401	
+workers	
+Constitution	bill	
+law	President	
+bill	
+President	pension	legislation	
+bill	
+Pension	Democrat	voting	
+bipartisan	reforms	pension	assets	
+bill	to	
+
+
+reads % = 0.12106537530266344

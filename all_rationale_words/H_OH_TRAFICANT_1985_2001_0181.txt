@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) it(0.0) is(0.0) not(0.0) popular(0.0) to(0.0) say(0.0) ,(0.0) but(0.0) I(0.0) believe(0.0) America(1.0) 's(0.0) intelligence(0.0) network(0.0) is(0.0) very(0.0) poor(0.0) .(0.0) Americans(1.0) 
+are(0.0) now(0.0) being(0.0) killed(0.0) by(0.0) the(0.0) thousands(0.0) ,(0.0) and(0.0) money(1.0) alone(0.0) is(0.0) not(0.0) going(0.0) to(0.0) solve(0.0) it(0.0) .(0.0) I(0.0) think(0.0) 
+Congress(0.0) must(0.0) address(0.0) our(0.0) Mideast(1.0) policy(1.0) .(0.0) I(0.0) think(0.0) we(0.0) can(0.0) and(0.0) should(0.0) support(0.0) Israel(0.0) ,(0.0) but(0.0) we(0.0) must(0.0) be(0.0) 
+more(0.0) objective(0.0) in(0.0) dealing(0.0) with(0.0) Arab(1.0) nations(1.0) .(0.0) I(0.0) believe(0.0) the(0.0) Palestinian(1.0) issue(0.0) must(0.0) be(0.0) resolved(0.0) and(0.0) the(0.0) Palestinian(1.0) people(0.0) 
+deserve(1.0) a(0.0) homeland(1.0) ,(0.0) and(0.0) that(0.0) is(0.0) not(0.0) popular(0.0) to(0.0) say(0.0) .(0.0) But(0.0) ,(0.0) ladies(0.0) and(0.0) gentlemen(0.0) ,(0.0) Americans(0.0) are(0.0) 
+now(0.0) being(0.0) killed(0.0) by(0.0) the(0.0) thousands(0.0) ,(0.0) and(0.0) we(0.0) have(0.0) exported(0.0) through(0.0) our(0.0) policies(1.0) the(0.0) terrorism(1.0) in(0.0) the(0.0) Mideast(1.0) to(0.0) 
+the(0.0) United(0.0) States(0.0) of(0.0) America(0.0) .(0.0) I(0.0) think(0.0) it(0.0) is(0.0) time(0.0) to(0.0) tell(0.0) it(0.0) like(0.0) it(0.0) is(0.0) ,(0.0) stop(0.0) addressing(1.0) 
+the(0.0) symptoms(0.0) and(0.0) look(0.0) at(0.0) the(0.0) root(0.0) causations(1.0) .(0.0) We(0.0) can(0.0) maintain(0.0) our(0.0) friendships(0.0) and(0.0) strong(0.0) alliance(1.0) with(0.0) Israel(0.0) ,(0.0) 
+but(0.0) by(0.0) God(0.0) we(0.0) have(0.0) to(0.0) show(0.0) objectivity(0.0) in(0.0) the(0.0) Mideast(1.0) or(0.0) there(0.0) will(0.0) be(0.0) more(0.0) bin(0.0) Ladens(1.0) and(0.0) more(0.0) 
+terrorist(1.0) attacks(0.0) on(0.0) the(0.0) United(0.0) States(0.0) of(0.0) America(0.0) .(0.0) Finally(0.0) ,(0.0) our(0.0) borders(1.0) are(0.0) wide(0.0) open(0.0) .(0.0) Congress(0.0) better(0.0) look(0.0) 
+at(0.0) that(0.0) issue(0.0) ,(0.0) because(0.0) we(0.0) have(0.0) exposed(0.0) a(0.0) very(0.0) vulnerable(0.0) ,(0.0) soft(0.0) underbelly(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+America	Americans	
+money	
+Mideast	policy	
+Arab	nations	Palestinian	Palestinian	
+deserve	homeland	
+policies	terrorism	Mideast	
+addressing	
+causations	alliance	
+Mideast	Ladens	
+terrorist	borders	
+underbelly	
+
+reads % = 0.10185185185185185

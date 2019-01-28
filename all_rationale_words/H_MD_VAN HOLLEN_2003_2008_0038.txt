@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+That(0.0) level(0.0) was(0.0) never(0.0) fully(0.0) funded(1.0) ,(0.0) and(0.0) since(0.0) then(0.0) ,(0.0) this(0.0) funding(1.0) has(0.0) been(0.0) cut(0.0) .(0.0) Because(0.0) Federal(1.0) funding(1.0) for(0.0) 
+pediatric(1.0) research(0.0) continues(0.0) to(0.0) drop(0.0) ,(0.0) many(0.0) critical(1.0) trials(0.0) have(0.0) been(0.0) put(0.0) at(0.0) risk(0.0) .(0.0) As(0.0) many(0.0) as(0.0) 20(0.0) studies(0.0) 
+has(0.0) been(0.0) put(0.0) on(0.0) hold(0.0) and(0.0) enrollment(1.0) in(0.0) new(0.0) clinical(0.0) trials(0.0) has(0.0) decreased(0.0) by(0.0) more(0.0) than(0.0) 400(0.0) children(0.0) .(0.0) This(0.0) 
+is(0.0) taking(0.0) us(0.0) in(0.0) the(0.0) wrong(0.0) direction(0.0) .(0.0) This(0.0) act(1.0) will(0.0) enhance(0.0) and(0.0) expand(0.0) pediatric(1.0) cancer(1.0) research(0.0) activities(0.0) at(0.0) the(0.0) 
+NIH(1.0) ,(0.0) establish(0.0) a(0.0) pediatric(0.0) cancer(1.0) registry(0.0) ,(0.0) and(0.0) increase(1.0) educational(1.0) informational(0.0) and(0.0) support(0.0) services(0.0) to(0.0) patients(0.0) and(0.0) families(0.0) affected(0.0) 
+by(0.0) childhood(0.0) cancer(1.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) we(0.0) can(0.0) do(0.0) better(0.0) in(0.0) our(0.0) fight(1.0) against(0.0) pediatric(1.0) cancer(1.0) .(0.0) Let(0.0) 's(0.0) 
+help(0.0) give(0.0) our(0.0) children(0.0) and(0.0) their(0.0) families(0.0) the(0.0) future(0.0) they(0.0) so(0.0) deserve(1.0) by(0.0) passing(0.0) this(0.0) bill(1.0) .(0.0) I(0.0) urge(0.0) my(0.0) 
+colleagues(0.0) ,(0.0) and(0.0) once(0.0) again(0.0) ,(0.0) thank(0.0) our(0.0) colleague(0.0) ,(0.0) Deborah(0.0) Pryce(1.0) ,(0.0) for(0.0) leading(0.0) by(0.0) example(0.0) in(0.0) this(0.0) very(0.0) 
+important(0.0) area(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+funded	funding	Federal	funding	
+pediatric	critical	
+enrollment	
+act	pediatric	cancer	
+NIH	cancer	increase	educational	
+cancer	Speaker	fight	pediatric	cancer	
+deserve	bill	
+Pryce	
+
+
+reads % = 0.13414634146341464

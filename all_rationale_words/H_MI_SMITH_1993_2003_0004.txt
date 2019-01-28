@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) this(0.0) afternoon(0.0) the(0.0) Committee(0.0) on(0.0) the(0.0) Budget(0.0) is(0.0) planning(0.0) to(0.0) mark(0.0) up(0.0) our(0.0) budget(1.0) resolution(1.0) .(0.0) That(0.0) budget(1.0) resolution(1.0) 
+is(0.0) important(0.0) to(0.0) our(0.0) future(0.0) and(0.0) our(0.0) economy(1.0) .(0.0) What(0.0) I(0.0) am(0.0) particularly(0.0) concerned(0.0) with(0.0) is(0.0) the(0.0) increase(1.0) in(0.0) deficit(1.0) 
+spending(1.0) .(0.0) The(0.0) deficit(1.0) as(0.0) projected(0.0) by(0.0) the(0.0) CBO(1.0) is(0.0) now(0.0) approaching(0.0) $(0.0) 435(0.0) billion(1.0) for(0.0) this(0.0) next(0.0) fiscal(1.0) year(0.0) 
+.(0.0) That(0.0) does(0.0) not(0.0) include(0.0) supplementals(1.0) .(0.0) It(0.0) does(0.0) not(0.0) include(0.0) any(0.0) possible(0.0) war(1.0) .(0.0) If(0.0) we(0.0) are(0.0) concerned(0.0) at(0.0) 
+all(0.0) about(0.0) the(0.0) negative(0.0) impact(0.0) of(0.0) increased(1.0) spending(1.0) ,(0.0) if(0.0) we(0.0) are(0.0) concerned(0.0) at(0.0) all(0.0) about(0.0) the(0.0) debt(1.0) obligation(1.0) that(0.0) 
+we(0.0) are(0.0) passing(0.0) on(0.0) to(0.0) our(0.0) kids(0.0) and(0.0) our(0.0) grandkids(1.0) then(0.0) we(0.0) need(0.0) to(0.0) cut(1.0) .(0.0) We(0.0) pretend(0.0) that(0.0) our(0.0) 
+problems(0.0) today(0.0) are(0.0) more(0.0) important(0.0) than(0.0) problems(0.0) are(0.0) 20(0.0) ,(0.0) 30(0.0) years(0.0) from(0.0) now(0.0) and(0.0) asking(0.0) them(0.0) to(0.0) pay(1.0) back(0.0) 
+the(0.0) debt(1.0) of(0.0) our(0.0) overspending(1.0) .(0.0) I(0.0) think(0.0) it(0.0) is(0.0) unconscionable(1.0) and(0.0) I(0.0) think(0.0) it(0.0) is(0.0) bad(0.0) for(0.0) the(0.0) economy(1.0) 
+,(0.0) because(0.0) we(0.0) are(0.0) going(0.0) to(0.0) end(0.0) up(0.0) bidding(0.0) in(0.0) the(0.0) marketplace(0.0) for(0.0) available(0.0) money(1.0) and(0.0) ,(0.0) therefore(0.0) ,(0.0) drive(0.0) 
+up(0.0) interest(0.0) rates(0.0) ,(0.0) which(0.0) is(0.0) bad(0.0) for(0.0) the(0.0) economy(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+budget	resolution	budget	resolution	
+economy	increase	deficit	
+spending	deficit	CBO	billion	fiscal	
+supplementals	war	
+increased	spending	debt	obligation	
+grandkids	cut	
+pay	
+debt	overspending	unconscionable	economy	
+money	
+economy	
+
+reads % = 0.140625

@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(1.0) ,(0.0) I(0.0) ask(1.0) unanimous(0.0) consent(0.0) that(0.0) all(0.0) debate(1.0) on(0.0) the(0.0) bill(0.0) and(0.0) amendments(0.0) thereto(1.0) be(0.0) limited(0.0) to(0.0) 20(0.0) minutes(1.0) ,(0.0) 
+divided(1.0) equally(1.0) between(0.0) myself(0.0) and(0.0) the(0.0) gentleman(0.0) from(0.0) Missouri(1.0) ((0.0) Mr.(0.0) Clay(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+ask	debate	thereto	minutes	
+divided	equally	Missouri	Clay	
+
+reads % = 0.22857142857142856

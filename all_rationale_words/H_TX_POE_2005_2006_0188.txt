@@ -1,0 +1,50 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) today(0.0) ,(0.0) I(0.0) am(0.0) here(0.0) to(0.0) recognize(0.0) the(0.0) government(1.0) and(0.0) the(0.0) people(0.0) of(0.0) Peru(1.0) as(0.0) we(0.0) extend(0.0) our(0.0) 
+warmest(0.0) congratulations(0.0) to(0.0) them(0.0) as(0.0) they(0.0) celebrate(0.0) their(0.0) 185th(1.0) year(0.0) as(0.0) an(0.0) independent(0.0) nation(1.0) .(0.0) Since(0.0) independence(1.0) ,(0.0) the(0.0) people(0.0) 
+of(0.0) Peru(1.0) have(0.0) faced(0.0) many(0.0) problems(0.0) ,(0.0) including(0.0) economic(1.0) despair(0.0) ,(0.0) an(0.0) authoritarian(1.0) regime(1.0) ,(0.0) and(0.0) a(0.0) violent(0.0) insurgency(1.0) .(0.0) 
+During(0.0) the(0.0) 1980s(1.0) ,(0.0) notorious(1.0) terrorist(1.0) groups(0.0) such(0.0) as(0.0) Shining(0.0) Path(0.0) and(0.0) MRTA(0.0) destabilized(1.0) Peru(0.0) and(0.0) the(0.0) entire(0.0) region(0.0) and(0.0) 
+spread(0.0) fear(0.0) among(0.0) the(0.0) people(0.0) .(0.0) Financed(1.0) in(0.0) part(0.0) by(0.0) elicit(0.0) narcotics(1.0) ,(0.0) these(0.0) terrorist(1.0) groups(0.0) reduced(0.0) Peru(0.0) to(0.0) the(0.0) 
+position(0.0) of(0.0) the(0.0) world(0.0) 's(0.0) second(0.0) largest(0.0) producer(0.0) of(0.0) cocoa(0.0) ,(0.0) dimming(0.0) Peru(0.0) 's(0.0) prosperous(0.0) future(0.0) .(0.0) However(0.0) ,(0.0) despite(0.0) 
+years(0.0) of(0.0) political(1.0) turmoil(1.0) and(0.0) violent(1.0) internal(0.0) conflict(1.0) and(0.0) through(0.0) the(0.0) perseverance(0.0) of(0.0) its(0.0) people(0.0) ,(0.0) Peru(0.0) was(0.0) able(0.0) to(0.0) 
+escape(0.0) the(0.0) stranglehold(1.0) on(0.0) its(0.0) democracy(1.0) and(0.0) has(0.0) recently(0.0) blossomed(0.0) into(0.0) a(0.0) vibrant(0.0) free(0.0) state(0.0) .(0.0) This(0.0) is(0.0) evidenced(0.0) by(0.0) 
+the(0.0) success(0.0) of(0.0) the(0.0) recent(0.0) elections(1.0) in(0.0) 2001(1.0) and(0.0) 2006(0.0) and(0.0) a(0.0) growing(0.0) economy(1.0) .(0.0) Today(0.0) ,(0.0) Peru(0.0) shares(0.0) our(0.0) 
+Nation(1.0) 's(0.0) most(0.0) treasured(0.0) ideals(1.0) and(0.0) standards(0.0) ,(0.0) a(0.0) success(0.0) story(0.0) that(0.0) demonstrates(0.0) the(0.0) power(0.0) of(0.0) a(0.0) democracy(1.0) .(0.0) Peru(0.0) 
+has(0.0) played(0.0) a(0.0) key(0.0) role(0.0) as(0.0) a(0.0) force(0.0) for(0.0) stabilization(1.0) and(0.0) peace(1.0) throughout(0.0) the(0.0) Western(0.0) Hemisphere(0.0) ,(0.0) as(0.0) well(0.0) as(0.0) 
+the(0.0) rest(0.0) of(0.0) the(0.0) world(0.0) .(0.0) Along(0.0) with(0.0) providing(0.0) over(0.0) 200(0.0) troops(0.0) to(0.0) the(0.0) United(0.0) Nations(0.0) mission(0.0) in(0.0) Haiti(1.0) ,(0.0) 
+Peru(1.0) has(0.0) been(0.0) a(0.0) staunch(0.0) supporter(0.0) in(0.0) the(0.0) global(1.0) war(1.0) on(0.0) terror(1.0) and(0.0) the(0.0) fight(1.0) against(0.0) drug(1.0) trafficking(1.0) and(0.0) production(0.0) 
+.(0.0) Today(0.0) ,(0.0) farmers(1.0) from(0.0) Peru(1.0) are(0.0) beginning(0.0) to(0.0) cast(0.0) off(0.0) the(0.0) specter(1.0) of(0.0) a(0.0) narco-economy(0.0) by(0.0) cooperation(0.0) with(0.0) the(0.0) 
+United(0.0) States(0.0) on(0.0) alternative(0.0) development(0.0) crops(0.0) ,(0.0) such(0.0) as(0.0) Peruvian(1.0) oranges(0.0) and(0.0) bananas(0.0) .(0.0) Peru(0.0) has(0.0) proven(0.0) to(0.0) be(0.0) an(0.0) 
+invaluable(0.0) ally(1.0) and(0.0) a(0.0) role(0.0) model(0.0) for(0.0) freedom(1.0) in(0.0) South(1.0) America(0.0) as(0.0) well(0.0) as(0.0) the(0.0) rest(0.0) of(0.0) the(0.0) world(0.0) .(0.0) 
+The(0.0) United(0.0) States(0.0) stands(0.0) with(0.0) them(0.0) on(0.0) the(0.0) continued(0.0) progress(0.0) and(0.0) development(0.0) of(0.0) both(0.0) democracy(1.0) and(0.0) as(0.0) a(0.0) nation(0.0) .(0.0) 
+With(0.0) my(0.0) best(0.0) wishes(0.0) to(0.0) the(0.0) people(0.0) of(0.0) Peru(1.0) and(0.0) most(0.0) sincere(0.0) congratulations(0.0) on(0.0) the(0.0) 185th(1.0) anniversary(0.0) of(0.0) their(0.0) nation's(0.0) 
+independence(1.0) ,(0.0) I(0.0) fully(0.0) support(0.0) H.(0.0) Res(1.0) .(0.0) 940(0.0) .(0.0) I(0.0) urge(0.0) all(0.0) colleagues(0.0) to(0.0) join(0.0) me(0.0) in(0.0) recognizing(1.0) the(0.0) 
+shining(0.0) model(0.0) of(0.0) democracy(1.0) ,(0.0) a(0.0) dedicated(0.0) ally(0.0) on(0.0) the(0.0) global(1.0) war(1.0) on(0.0) terror(1.0) ,(0.0) and(0.0) one(0.0) of(0.0) the(0.0) United(0.0) 
+States(0.0) closest(0.0) friends(0.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+government	Peru	
+185th	nation	independence	
+Peru	economic	authoritarian	regime	insurgency	
+1980s	notorious	terrorist	destabilized	
+Financed	narcotics	terrorist	
+
+political	turmoil	violent	conflict	
+stranglehold	democracy	
+elections	2001	economy	
+Nation	ideals	democracy	
+stabilization	peace	
+Haiti	
+Peru	global	war	terror	fight	drug	trafficking	
+farmers	Peru	specter	
+Peruvian	
+ally	freedom	South	
+democracy	
+Peru	185th	
+independence	Res	recognizing	
+democracy	global	war	terror	
+Speaker	
+
+reads % = 0.13701923076923078

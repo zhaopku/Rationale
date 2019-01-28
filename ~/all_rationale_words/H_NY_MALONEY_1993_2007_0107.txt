@@ -1,0 +1,46 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(1.0) ,(0.0) I(0.0) rise(1.0) today(1.0) in(0.0) strong(0.0) support(0.0) of(0.0) H.R(0.0) .(0.0) 928(1.0) ,(0.0) the(0.0) ``(0.0) Improving(0.0) Government(0.0) Accountability(1.0) Act(0.0) .(0.0) ''(0.0) 
+I(0.0) commend(1.0) Chairman(1.0) Waxman(1.0) for(0.0) his(0.0) leadership(1.0) on(0.0) the(0.0) Oversight(0.0) and(0.0) Government(0.0) Reform(1.0) Committee(0.0) ,(0.0) of(0.0) which(0.0) I(0.0) am(0.0) a(0.0) 
+member(0.0) ,(0.0) and(0.0) for(0.0) his(0.0) efforts(0.0) to(0.0) ensure(0.0) that(0.0) the(0.0) government(1.0) is(0.0) working(0.0) for(0.0) the(0.0) American(0.0) people(0.0) .(0.0) This(0.0) legislation(0.0) 
+includes(0.0) provisions(0.0) of(0.0) a(0.0) bill(0.0) that(0.0) I(0.0) introduced(1.0) earlier(0.0) this(0.0) year(0.0) which(0.0) will(0.0) provide(0.0) for(0.0) the(0.0) enhanced(1.0) protection(0.0) of(0.0) the(0.0) 
+Internal(0.0) Revenue(1.0) Service(0.0) and(0.0) its(0.0) employees(1.0) .(0.0) In(0.0) 1998(0.0) ,(0.0) Congress(1.0) passed(0.0) the(0.0) Internal(0.0) Revenue(1.0) Service(0.0) Restructuring(1.0) and(0.0) Reform(0.0) Act(0.0) 
+,(0.0) which(0.0) created(0.0) the(0.0) Treasury(0.0) Inspector(0.0) General(1.0) for(0.0) Tax(1.0) Administration(0.0) ((0.0) TIGTA(1.0) )(0.0) .(0.0) The(0.0) legislation(0.0) gave(0.0) TIGTA(1.0) the(0.0) responsibility(0.0) 
+for(0.0) protecting(0.0) the(0.0) Internal(0.0) Revenue(1.0) Service(0.0) ((0.0) IRS(1.0) )(0.0) against(0.0) external(0.0) attempts(1.0) to(0.0) corrupt(1.0) or(1.0) threaten(1.0) IRS(1.0) employees(1.0) .(0.0) At(0.0) 
+the(0.0) same(1.0) time(0.0) ,(0.0) it(0.0) excluded(1.0) the(0.0) provision(0.0) of(0.0) providing(0.0) ``(0.0) physical(0.0) security(0.0) ''(0.0) from(0.0) TIGTA's(1.0) responsibilities(1.0) .(0.0) Prior(1.0) to(0.0) 
+the(0.0) enactment(1.0) of(0.0) this(0.0) law(1.0) ,(0.0) the(0.0) former(0.0) IRS(1.0) Inspection(1.0) Service(0.0) had(0.0) been(0.0) responsible(1.0) for(0.0) protecting(0.0) the(0.0) IRS(1.0) against(0.0) external(0.0) 
+attempts(1.0) to(0.0) corrupt(1.0) or(1.0) threaten(1.0) IRS(1.0) employees(1.0) .(0.0) The(0.0) IRS(1.0) Inspection(1.0) Service(0.0) was(0.0) responsible(1.0) for(0.0) providing(0.0) armed(0.0) escorts(1.0) for(0.0) IRS(1.0) 
+employees(1.0) who(0.0) were(0.0) specifically(1.0) threatened(1.0) or(0.0) who(0.0) were(0.0) contacting(0.0) individuals(0.0) designated(1.0) as(0.0) ``(0.0) Potentially(0.0) Dangerous(0.0) Taxpayers(1.0) .(0.0) ''(0.0) The(0.0) law(1.0) 
+transferred(1.0) most(1.0) of(0.0) those(0.0) duties(1.0) to(0.0) the(0.0) new(1.0) Treasury(0.0) Inspector(1.0) General(1.0) for(0.0) Tax(1.0) Administration(0.0) .(0.0) Inexplicably(1.0) ,(0.0) ``(0.0) physical(0.0) security(0.0) 
+''(0.0) was(0.0) excluded(1.0) from(0.0) TIGTA(1.0) 's(0.0) statutory(1.0) responsibilities(0.0) .(0.0) In(0.0) its(0.0) current(0.0) statutory(1.0) mission(1.0) ,(0.0) TIGTA(1.0) investigates(0.0) all(0.0) allegations(0.0) of(0.0) 
+threats(0.0) or(1.0) assaults(1.0) involving(1.0) IRS(1.0) employees(1.0) and(0.0) assists(1.0) U.S(1.0) .(0.0) Attorneys(1.0) '(0.0) offices(1.0) with(0.0) appropriate(1.0) prosecutions(1.0) .(0.0) However(0.0) ,(0.0) if(0.0) 
+TIGTA(1.0) determines(0.0) that(0.0) any(1.0) of(0.0) the(0.0) threats(0.0) or(1.0) assaults(1.0) it(0.0) investigates(1.0) call(0.0) for(0.0) the(0.0) provision(0.0) of(0.0) physical(1.0) security(0.0) ,(0.0) the(0.0) 
+language(0.0) of(0.0) the(0.0) 1998(0.0) law(1.0) precludes(1.0) TIGTA(1.0) from(0.0) taking(1.0) action(0.0) .(0.0) Authorizing(1.0) TIGTA(1.0) to(0.0) have(0.0) armed(0.0) escort(0.0) authority(0.0) would(0.0) be(0.0) 
+both(0.0) more(0.0) efficient(0.0) and(0.0) more(0.0) effective(0.0) in(0.0) advancing(0.0) tax(1.0) administration(1.0) and(0.0) ensuring(0.0) the(0.0) safety(0.0) of(0.0) IRS(1.0) employees(1.0) .(0.0) I(0.0) want(1.0) 
+to(0.0) thank(0.0) Chairman(1.0) Waxman(1.0) and(0.0) Ranking(1.0) Member(0.0) Davis(1.0) for(0.0) their(0.0) support(0.0) of(0.0) this(0.0) provision(0.0) ,(0.0) and(0.0) I(0.0) urge(1.0) my(0.0) colleagues(1.0) 
+to(0.0) support(0.0) H.R(0.0) .(0.0) 928(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+rise	today	928	Accountability	
+commend	Chairman	Waxman	leadership	Reform	
+government	
+introduced	enhanced	
+Revenue	employees	Congress	Revenue	Restructuring	
+General	Tax	TIGTA	TIGTA	
+Revenue	IRS	attempts	corrupt	or	threaten	IRS	employees	
+same	excluded	TIGTA's	responsibilities	Prior	
+enactment	law	IRS	Inspection	responsible	IRS	
+attempts	corrupt	or	threaten	IRS	employees	IRS	Inspection	responsible	escorts	IRS	
+employees	specifically	threatened	designated	Taxpayers	law	
+transferred	most	duties	new	Inspector	General	Tax	Inexplicably	
+excluded	TIGTA	statutory	statutory	mission	TIGTA	
+or	assaults	involving	IRS	employees	assists	U.S	Attorneys	offices	appropriate	prosecutions	
+TIGTA	any	or	assaults	investigates	physical	
+law	precludes	TIGTA	taking	Authorizing	TIGTA	
+tax	administration	IRS	employees	want	
+Chairman	Waxman	Ranking	Davis	urge	colleagues	
+928	
+
+reads % = 0.2888283378746594

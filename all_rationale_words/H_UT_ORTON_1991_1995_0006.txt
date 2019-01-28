@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+The(0.0) CHAIRMAN(0.0) pro(0.0) tempore(0.0) .(0.0) The(0.0) Clerk(0.0) will(0.0) designate(0.0) the(0.0) amendment(0.0) .(0.0) The(0.0) text(0.0) of(0.0) the(0.0) amendment(0.0) is(0.0) as(0.0) follows(0.0) :(0.0) 
+Amendment(0.0) offered(0.0) by(0.0) Mr.(0.0) Orton(1.0) :(1.0) At(1.0) the(0.0) end(0.0) of(0.0) section(0.0) 4(0.0) ,(0.0) add(0.0) the(0.0) following(0.0) new(0.0) paragraph(0.0) :(0.0) ((0.0) 
+5(0.0) )(0.0) The(0.0) term(0.0) ``(0.0) discretionary(0.0) budget(0.0) authority(0.0) ''(0.0) includes(0.0) authority(0.0) to(0.0) enter(0.0) into(0.0) contracts(0.0) under(0.0) which(0.0) the(0.0) United(0.0) States(0.0) 
+is(0.0) obligated(0.0) to(0.0) make(0.0) outlays(0.0) ,(0.0) the(0.0) budget(0.0) authority(0.0) for(0.0) which(0.0) is(0.0) not(0.0) provided(0.0) in(0.0) advance(0.0) by(0.0) appropriations(0.0) Acts(0.0) .(0.0) 
+The(0.0) CHAIRMAN(0.0) pro(0.0) tempore(0.0) .(0.0) Pursuant(0.0) to(0.0) the(0.0) unanimous(0.0) consent(0.0) request(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Utah(1.0) [(0.0) Mr.(0.0) Orton(1.0) ](0.0) 
+will(1.0) be(0.0) recognized(0.0) for(0.0) 30(0.0) minutes(0.0) and(0.0) a(0.0) Member(0.0) opposed(0.0) will(0.0) be(0.0) recognized(0.0) for(0.0) 30(0.0) minutes(0.0) .(0.0) The(0.0) Chair(0.0) recognizes(0.0) 
+the(0.0) gentleman(0.0) from(0.0) Utah(1.0) [(0.0) Mr.(0.0) Orton(1.0) ](0.0) .(0.0) parliamentary(0.0) inquiry(0.0) 
+
+
+----- below are rationale words -----
+
+
+Orton	:	At	
+
+
+Utah	Orton	
+will	
+Utah	Orton	
+
+reads % = 0.06060606060606061

@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Res(0.0) .(0.0) 257(1.0) I(0.0) was(0.0) unavoidably(1.0) detained(1.0) .(1.0) Had(0.0) I(0.0) been(0.0) present(1.0) ,(1.0) I(0.0) would(1.0) have(0.0) voted(1.0) ``(0.0) yea(0.0) .(0.0) ''(0.0) 
+
+
+
+----- below are rationale words -----
+
+257	unavoidably	detained	.	present	,	would	voted	
+
+
+reads % = 0.38095238095238093

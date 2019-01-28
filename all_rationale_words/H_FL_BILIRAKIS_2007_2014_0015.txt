@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) to(0.0) ask(0.0) for(0.0) the(0.0) collective(1.0) prayers(0.0) of(0.0) this(0.0) Chamber(0.0) to(0.0) help(0.0) bring(0.0) my(0.0) constituents(1.0) back(0.0) home(0.0) to(0.0) 
+Tarpon(1.0) Springs(0.0) ,(0.0) Florida(1.0) .(0.0) Robert(0.0) Mayne(1.0) ,(0.0) James(0.0) Kelly(1.0) Garrett(1.0) ,(0.0) Devon(0.0) Butler(0.0) ,(0.0) Nick(0.0) Cook(0.0) ,(0.0) Steve(0.0) Matanich(0.0) 
+,(0.0) and(0.0) Michael(0.0) Mayne(1.0) are(0.0) the(0.0) crew(0.0) of(0.0) the(0.0) Aqua(0.0) Quest(0.0) ,(0.0) a(0.0) boat(0.0) company(0.0) hired(0.0) to(0.0) teach(0.0) locals(0.0) in(0.0) 
+Honduras(1.0) how(0.0) to(0.0) safely(0.0) scuba(0.0) dive(0.0) .(0.0) On(0.0) a(0.0) quest(0.0) to(0.0) do(0.0) good(0.0) ,(0.0) these(0.0) men(0.0) have(0.0) been(0.0) illegally(0.0) detained(0.0) 
+without(0.0) benefit(0.0) of(0.0) due(0.0) process(0.0) for(0.0) 44(0.0) days(0.0) and(0.0) have(0.0) spent(0.0) several(0.0) ,(0.0) as(0.0) I(0.0) said(0.0) ,(0.0) several(0.0) weeks(0.0) in(0.0) 
+a(0.0) dilapidated(0.0) Honduran(0.0) jail(1.0) living(0.0) in(0.0) unacceptable(1.0) conditions(0.0) .(0.0) Together(0.0) with(0.0) my(0.0) colleague(0.0) ,(0.0) Congressman(1.0) Mike(1.0) Fitzpatrick(1.0) ,(0.0) we(0.0) have(0.0) 
+urged(0.0) the(0.0) State(0.0) Department(0.0) and(0.0) Honduran(0.0) officials(0.0) to(0.0) work(0.0) towards(0.0) a(0.0) quick(0.0) resolution(0.0) to(0.0) free(0.0) these(0.0) men(0.0) so(0.0) that(0.0) they(0.0) 
+may(0.0) return(0.0) to(0.0) the(0.0) loving(0.0) arms(0.0) of(0.0) their(0.0) families(0.0) .(0.0) Your(0.0) prayers(0.0) are(0.0) appreciated(0.0) ,(0.0) and(0.0) I(0.0) have(0.0) confidence(0.0) that(0.0) 
+we(0.0) will(0.0) bring(0.0) them(0.0) home(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+collective	constituents	
+Tarpon	Florida	Mayne	Kelly	Garrett	
+Mayne	
+Honduras	
+
+jail	unacceptable	Congressman	Mike	Fitzpatrick	
+
+
+
+
+reads % = 0.08383233532934131

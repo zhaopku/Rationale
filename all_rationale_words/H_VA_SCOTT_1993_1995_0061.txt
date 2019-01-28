@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) strike(1.0) the(0.0) requisite(0.0) number(0.0) of(0.0) words(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) want(0.0) to(0.0) add(0.0) just(0.0) one(0.0) 
+other(0.0) point(0.0) to(0.0) this(0.0) very(0.0) briefly(0.0) and(0.0) that(0.0) is(0.0) that(0.0) you(0.0) could(0.0) go(0.0) through(0.0) all(0.0) of(0.0) that(0.0) what(0.0) the(0.0) gentleman(0.0) 
+from(0.0) North(0.0) Carolina(0.0) said(0.0) ,(0.0) and(0.0) in(0.0) fact(0.0) you(0.0) could(0.0) have(0.0) a(0.0) winning(0.0) lawsuit(1.0) and(0.0) still(0.0) be(0.0) forced(0.0) to(0.0) pay(1.0) 
+opposing(1.0) attornerys(0.0) '(0.0) fees(0.0) if(0.0) you(0.0) come(0.0) in(0.0) under(0.0) an(0.0) offer(0.0) made(0.0) sometime(0.0) during(0.0) the(0.0) middle(1.0) of(0.0) trial(0.0) .(0.0) Mr.(0.0) 
+Chairman(1.0) ,(0.0) the(0.0) reason(0.0) that(0.0) we(0.0) have(0.0) attorneys(1.0) '(0.0) fees(0.0) provided(0.0) in(0.0) these(0.0) kinds(0.0) of(0.0) cases(0.0) is(0.0) that(0.0) the(0.0) damage(0.0) 
+,(0.0) the(0.0) financial(1.0) damage(0.0) is(0.0) ususally(0.0) so(0.0) small(0.0) that(0.0) you(0.0) have(0.0) an(0.0) empty(0.0) promise(0.0) in(0.0) discrimination(1.0) laws(1.0) if(0.0) this(0.0) amendment(1.0) 
+is(0.0) not(0.0) passed(0.0) .(0.0) The(0.0) empty(0.0) promise(1.0) without(0.0) attorneys'(0.0) fees(0.0) is(0.0) you(0.0) go(0.0) to(0.0) court(0.0) and(0.0) you(0.0) will(0.0) pay(1.0) more(0.0) 
+than(0.0) you(0.0) could(0.0) possibly(0.0) get(0.0) .(0.0) I(0.0) would(0.0) hope(0.0) that(0.0) this(0.0) amendment(1.0) would(1.0) pass(0.0) ,(0.0) would(0.0) keep(0.0) the(0.0) law(1.0) as(0.0) 
+it(0.0) is(0.0) ,(0.0) and(0.0) that(0.0) people(0.0) who(0.0) are(0.0) discriminated(1.0) against(0.0) be(0.0) vindicated(1.0) and(0.0) have(0.0) those(0.0) rights(1.0) vindicated(0.0) in(0.0) court(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+strike	Chairman	
+
+lawsuit	pay	
+opposing	middle	
+Chairman	attorneys	
+financial	discrimination	laws	amendment	
+promise	pay	
+amendment	would	law	
+discriminated	vindicated	rights	
+
+
+reads % = 0.11049723756906077

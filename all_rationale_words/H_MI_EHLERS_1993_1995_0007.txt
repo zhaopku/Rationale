@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) 12(0.0) years(0.0) ago(0.0) this(0.0) month(0.0) I(0.0) was(0.0) elected(0.0) to(0.0) the(0.0) State(0.0) legislature(0.0) in(0.0) Michigan(1.0) and(0.0) entered(0.0) politics(0.0) full(0.0) time(0.0) 
+for(0.0) the(0.0) first(0.0) time(0.0) in(0.0) my(0.0) life(0.0) .(0.0) At(0.0) that(0.0) time(0.0) I(0.0) opposed(0.0) the(0.0) Federal(1.0) balanced(0.0) budget(1.0) amendment(1.0) .(0.0) Today(0.0) 
+I(0.0) will(0.0) be(0.0) voting(0.0) for(0.0) the(0.0) balanced(0.0) budget(1.0) amendment(1.0) .(0.0) Why(0.0) did(0.0) I(0.0) have(0.0) that(0.0) change(0.0) of(0.0) heart(0.0) ?(0.0) It(0.0) 
+is(0.0) because(0.0) of(0.0) my(0.0) experience(0.0) at(0.0) the(0.0) State(0.0) level(0.0) ,(0.0) working(0.0) with(0.0) a(0.0) balanced(0.0) budget(1.0) amendment(1.0) and(0.0) a(0.0) line-item(1.0) veto(1.0) 
+,(0.0) and(0.0) seeing(0.0) that(0.0) it(0.0) works(0.0) .(0.0) Furthermore(0.0) ,(0.0) it(0.0) came(0.0) from(0.0) observing(0.0) that(0.0) over(0.0) the(0.0) past(0.0) half(0.0) century(1.0) Congress(0.0) 
+has(0.0) not(0.0) demonstrated(0.0) that(0.0) it(0.0) has(0.0) the(0.0) collective(1.0) self-discipline(0.0) to(0.0) balance(0.0) the(0.0) budget(1.0) .(0.0) It(0.0) needs(0.0) some(0.0) outside(0.0) impetus(1.0) to(0.0) 
+require(0.0) it(0.0) .(0.0) I(0.0) have(0.0) seen(0.0) it(0.0) work(0.0) at(0.0) the(0.0) State(0.0) level(0.0) .(0.0) The(0.0) fact(0.0) that(0.0) it(0.0) exists(0.0) forces(0.0) the(0.0) 
+State(0.0) legislatures(0.0) to(0.0) balance(0.0) their(0.0) budgets(1.0) .(0.0) If(0.0) we(0.0) have(0.0) a(0.0) Federal(1.0) balanced(1.0) budget(1.0) amendment(1.0) ,(0.0) that(0.0) will(0.0) force(1.0) our(0.0) 
+Congress(1.0) to(0.0) balance(1.0) the(0.0) budget(1.0) that(0.0) they(0.0) submit(0.0) to(0.0) the(0.0) President(1.0) each(0.0) year(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) let(0.0) us(0.0) not(0.0) 
+forget(0.0) our(0.0) children(0.0) and(0.0) grandchildren(0.0) and(0.0) our(0.0) obligation(1.0) to(0.0) them(0.0) .(0.0) Let(0.0) us(0.0) join(0.0) in(0.0) supporting(1.0) the(0.0) balanced(0.0) budget(1.0) amendment(1.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+Michigan	
+Federal	budget	amendment	
+budget	amendment	
+budget	amendment	line-item	veto	
+century	
+collective	budget	impetus	
+
+budgets	Federal	balanced	budget	amendment	force	
+Congress	balance	budget	President	Speaker	
+obligation	supporting	budget	amendment	
+
+
+reads % = 0.14356435643564355

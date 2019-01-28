@@ -1,0 +1,24 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) will(0.0) not(0.0) concede(0.0) the(0.0) issue(0.0) of(0.0) relief(1.0) being(0.0) necessary(0.0) for(0.0) the(0.0) domestic(1.0) steel(0.0) industry(1.0) .(0.0) I(0.0) would(0.0) 
+concede(0.0) that(0.0) the(0.0) amendment(1.0) that(0.0) was(0.0) offered(0.0) here(0.0) today(0.0) is(0.0) violative(1.0) of(0.0) the(0.0) rule(1.0) we(0.0) are(0.0) operating(0.0) under(0.0) .(0.0) I(0.0) 
+would(0.0) simply(0.0) want(0.0) to(0.0) withdraw(0.0) that(0.0) amendment(1.0) .(0.0) Before(0.0) I(0.0) do(0.0) that(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) sincerely(0.0) thank(0.0) the(0.0) chairman(0.0) 
+of(0.0) the(0.0) full(0.0) committee(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Florida(0.0) ((0.0) Mr.(0.0) Young(1.0) )(0.0) ;(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) my(0.0) chairman(0.0) 
+on(0.0) the(0.0) Subcommittee(0.0) on(0.0) Defense(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) ((0.0) Mr.(0.0) Lewis(1.0) )(0.0) ;(0.0) as(0.0) well(0.0) as(0.0) the(0.0) gentleman(0.0) 
+from(0.0) Kentucky(0.0) ((0.0) Mr.(0.0) Rogers(1.0) )(0.0) ,(0.0) who(0.0) managed(0.0) the(0.0) time(0.0) ,(0.0) for(0.0) the(0.0) courtesy(0.0) in(0.0) allowing(0.0) us(0.0) to(0.0) keep(0.0) 
+this(0.0) very(0.0) important(0.0) issue(0.0) before(0.0) this(0.0) institution(0.0) and(0.0) the(0.0) American(0.0) people(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) ask(0.0) unanimous(1.0) consent(0.0) to(0.0) 
+withdraw(0.0) my(0.0) amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	relief	domestic	industry	
+amendment	violative	rule	
+amendment	
+Young	
+Lewis	
+Rogers	
+Chairman	unanimous	
+amendment	
+
+reads % = 0.09655172413793103

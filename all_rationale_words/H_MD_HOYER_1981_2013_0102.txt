@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) once(0.0) again(0.0) to(0.0) call(0.0) on(0.0) Congress(0.0) to(0.0) replace(1.0) the(0.0) dangerous(1.0) and(0.0) irrational(1.0) sequester(1.0) with(0.0) a(0.0) big(0.0) and(0.0) 
+balanced(0.0) deficit(1.0) solution(0.0) .(0.0) Ten(0.0) weeks(0.0) after(0.0) the(0.0) dysfunction(1.0) of(0.0) this(0.0) Congress(0.0) led(0.0) to(0.0) the(0.0) sequester(1.0) taking(0.0) effect(0.0) ,(0.0) our(0.0) 
+economy(1.0) and(0.0) the(0.0) most(0.0) vulnerable(0.0) in(0.0) our(0.0) society(1.0) are(0.0) continuing(0.0) to(0.0) experience(0.0) its(0.0) effects(0.0) .(0.0) On(0.0) a(0.0) macro(0.0) level(0.0) ,(0.0) 
+the(0.0) sequester(1.0) has(0.0) added(0.0) to(0.0) the(0.0) uncertainty(0.0) businesses(1.0) and(0.0) markets(0.0) were(0.0) already(0.0) facing(0.0) ,(0.0) making(0.0) it(0.0) even(0.0) more(0.0) difficult(0.0) to(0.0) 
+plan(1.0) for(0.0) the(0.0) future(0.0) and(0.0) discouraging(1.0) private(0.0) sector(0.0) investment(1.0) and(0.0) development(0.0) that(0.0) creates(0.0) jobs(1.0) .(0.0) Just(0.0) this(0.0) past(0.0) Wednesday(0.0) ,(0.0) 
+the(0.0) Federal(1.0) Reserve(0.0) issued(0.0) a(0.0) statement(0.0) that(0.0) ``(0.0) fiscal(0.0) policy(1.0) is(0.0) restraining(0.0) economic(1.0) growth(1.0) .(0.0) ''(0.0) But(0.0) the(0.0) ill-effects(1.0) of(0.0) 
+the(0.0) Republican(1.0) sequester(1.0) policy(1.0) have(1.0) been(1.0) most(1.0) devastating(1.0) to(1.0) those(1.0) who(1.0) are(1.0) in(1.0) the(1.0) greatest(1.0) need(1.0) and(1.0) rely(1.0) on(1.0) Federal(1.0) 
+assistance(1.0) .(1.0) 70,000(1.0) children(1.0) who(1.0) will(0.0) be(0.0) 3(0.0) once(0.0) and(0.0) 4(0.0) once(0.0) will(0.0) be(0.0) kicked(0.0) out(0.0) of(0.0) Head(0.0) Start(0.0) .(0.0) 
+$(0.0) 115(0.0) million(0.0) in(0.0) subsidies(1.0) that(0.0) help(0.0) low-(0.0) income(1.0) parents(0.0) access(0.0) child(0.0) care(0.0) while(0.0) they(0.0) work(0.0) will(0.0) be(0.0) eliminated(0.0) .(0.0) 
+Over(0.0) half(0.0) a(0.0) billion(1.0) dollars(1.0) is(0.0) being(0.0) taken(0.0) away(0.0) from(0.0) children(0.0) and(0.0) family(0.0) service(0.0) programs(1.0) .(0.0) Because(0.0) of(0.0) the(0.0) sequester(1.0) 
+,(0.0) our(0.0) most(0.0) vulnerable(0.0) children(0.0) are(0.0) at(0.0) risk(0.0) of(0.0) losing(1.0) their(0.0) shot(0.0) at(0.0) the(0.0) American(0.0) Dream(0.0) .(0.0) It(0.0) 's(0.0) not(0.0) 
+only(0.0) our(0.0) youngest(0.0) citizens(1.0) who(0.0) are(0.0) being(0.0) hurt(0.0) by(0.0) sequestration(1.0) .(0.0) Low-income(1.0) seniors(1.0) will(0.0) see(0.0) 4(0.0) million(0.0) fewer(1.0) Meals(1.0) on(0.0) 
+Wheels(0.0) deliveries(0.0) this(0.0) year(0.0) ,(0.0) putting(0.0) at(0.0) risk(0.0) seniors(1.0) who(0.0) are(0.0) sick(0.0) and(0.0) homebound(1.0) .(0.0) The(0.0) National(0.0) Institutes(0.0) of(0.0) Health(0.0) 
+will(0.0) have(0.0) to(0.0) reduce(0.0) life-saving(1.0) medical(0.0) research(0.0) ,(0.0) and(0.0) 600,000(0.0) women(1.0) ,(0.0) infants(0.0) ,(0.0) and(0.0) children(0.0) could(0.0) be(0.0) dropped(0.0) from(0.0) 
+the(0.0) U.S.(0.0) Department(0.0) of(0.0) Agriculture(0.0) 's(0.0) nutrition(1.0) program(0.0) .(0.0) What(0.0) an(0.0) extraordinarily(0.0) perverse(1.0) version(0.0) of(0.0) ``(0.0) women(0.0) and(0.0) children(0.0) first(0.0) 
+''(0.0) --(0.0) an(0.0) admonition(0.0) to(0.0) save(0.0) first(0.0) ,(0.0) not(0.0) abandon(1.0) first(0.0) .(0.0) Congress(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) must(0.0) act(1.0) to(0.0) 
+replace(1.0) this(0.0) stupid(1.0) sequester(1.0) .(0.0) I(0.0) tell(0.0) people(0.0) that(0.0) sequester(1.0) starts(0.0) with(0.0) ``(0.0) s(0.0) ,(0.0) ''(0.0) which(0.0) stands(0.0) for(0.0) stupid(1.0) 
+.(0.0) Congress(0.0) needs(0.0) to(0.0) replace(0.0) it(0.0) with(0.0) a(0.0) big(0.0) ,(0.0) balanced(0.0) agreement(1.0) that(0.0) every(0.0) bipartisan(1.0) commission(1.0) that(0.0) has(0.0) looked(0.0) at(0.0) 
+our(0.0) fiscal(1.0) challenge(0.0) has(0.0) recommended(0.0) .(0.0) Restoring(1.0) financial(1.0) discipline(0.0) sets(0.0) America(1.0) on(0.0) a(0.0) fiscally(1.0) sustainable(1.0) path(0.0) and(0.0) enables(0.0) us(0.0) to(0.0) 
+invest(1.0) in(0.0) education(1.0) ,(0.0) innovation(1.0) ,(0.0) and(0.0) infrastructure(1.0) that(0.0) will(0.0) grow(0.0) our(0.0) economy(1.0) ,(0.0) create(0.0) jobs(1.0) and(0.0) keep(0.0) millions(1.0) out(0.0) 
+of(0.0) poverty(1.0) and(0.0) lift(0.0) millions(1.0) of(0.0) others(0.0) from(0.0) poverty(1.0) .(0.0) In(0.0) order(0.0) for(0.0) that(0.0) to(0.0) happen(0.0) ,(0.0) of(0.0) course(0.0) ,(0.0) 
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) think(0.0) you(0.0) should(0.0) appoint(0.0) budget(1.0) conferees(1.0) so(0.0) that(0.0) negotiations(1.0) on(0.0) such(0.0) a(0.0) rational(0.0) solution(0.0) can(0.0) begin(0.0) 
+in(0.0) earnest(1.0) .(0.0) Sadly(0.0) ,(0.0) it(0.0) 's(0.0) becoming(0.0) increasingly(0.0) clear(0.0) that(0.0) Republicans(0.0) are(0.0) in(0.0) no(0.0) hurry(0.0) to(0.0) complete(0.0) the(0.0) work(0.0) 
+on(0.0) a(0.0) budget(1.0) as(0.0) a(0.0) result(0.0) of(0.0) the(0.0) draconian(1.0) ,(0.0) unrealistic(1.0) ,(0.0) and(0.0) damaging(1.0) spending(1.0) levels(0.0) they(0.0) set(0.0) forth(0.0) under(0.0) 
+the(0.0) sequester(1.0) .(0.0) Simply(0.0) put(0.0) ,(0.0) they(0.0) can(0.0) not(0.0) implement(0.0) the(0.0) budget(1.0) they(0.0) adopted(1.0) ,(0.0) neither(0.0) through(0.0) the(0.0) appropriations(1.0) 
+
+
+----- below are rationale words -----
+
+replace	dangerous	irrational	sequester	
+deficit	dysfunction	sequester	
+economy	society	
+sequester	businesses	
+plan	discouraging	investment	jobs	
+Federal	policy	economic	growth	ill-effects	
+Republican	sequester	policy	have	been	most	devastating	to	those	who	are	in	the	greatest	need	and	rely	on	Federal	
+assistance	.	70,000	children	who	
+subsidies	income	
+billion	dollars	programs	sequester	
+losing	
+citizens	sequestration	Low-income	seniors	fewer	Meals	
+seniors	homebound	
+life-saving	women	
+nutrition	perverse	
+abandon	Speaker	act	
+replace	stupid	sequester	sequester	stupid	
+agreement	bipartisan	commission	
+fiscal	Restoring	financial	America	fiscally	sustainable	
+invest	education	innovation	infrastructure	economy	jobs	millions	
+poverty	millions	poverty	
+Speaker	budget	conferees	negotiations	
+earnest	
+budget	draconian	unrealistic	damaging	spending	
+sequester	budget	adopted	appropriations	
+
+reads % = 0.208

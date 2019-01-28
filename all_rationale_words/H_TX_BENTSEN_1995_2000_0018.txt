@@ -1,0 +1,54 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) rise(0.0) in(0.0) reluctant(0.0) opposition(1.0) to(0.0) this(0.0) bill(1.0) .(0.0) I(0.0) want(0.0) to(0.0) commend(0.0) the(0.0) gentleman(0.0) from(0.0) Iowa(1.0) and(0.0) the(0.0) 
+gentleman(0.0) from(0.0) Maryland(1.0) for(0.0) their(0.0) work(0.0) on(0.0) it(0.0) ,(0.0) but(0.0) I(0.0) do(0.0) not(0.0) think(0.0) this(0.0) bill(1.0) is(0.0) fully(0.0) done(0.0) .(0.0) 
+I(0.0) have(0.0) to(0.0) say(0.0) ,(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) that(0.0) we(0.0) can(0.0) come(0.0) up(0.0) with(0.0) any(0.0) budget(1.0) process(0.0) we(0.0) want(0.0) ,(0.0) 
+but(0.0) if(0.0) the(0.0) Members(0.0) are(0.0) not(0.0) going(0.0) to(0.0) abide(0.0) by(0.0) it(0.0) ,(0.0) it(0.0) will(0.0) not(0.0) make(0.0) any(0.0) difference(0.0) in(0.0) the(0.0) 
+world(0.0) .(0.0) We(0.0) could(0.0) be(0.0) back(0.0) here(0.0) ,(0.0) and(0.0) probably(0.0) it(0.0) will(0.0) not(0.0) be(0.0) any(0.0) of(0.0) us(0.0) ,(0.0) but(0.0) someone(0.0) 
+will(0.0) be(0.0) back(0.0) in(0.0) 10(0.0) years(0.0) ,(0.0) if(0.0) we(0.0) enact(1.0) this(0.0) ,(0.0) saying(0.0) ,(0.0) boy(0.0) ,(0.0) the(0.0) budget(1.0) process(0.0) is(0.0) 
+broken(0.0) ,(0.0) we(0.0) have(0.0) to(0.0) change(0.0) it(0.0) again(0.0) .(0.0) It(0.0) ultimately(0.0) comes(0.0) down(0.0) to(0.0) the(0.0) Members(0.0) of(0.0) the(0.0) House(0.0) and(0.0) 
+the(0.0) Senate(0.0) being(0.0) willing(0.0) to(0.0) abide(0.0) by(0.0) it(0.0) .(0.0) If(0.0) we(0.0) look(0.0) at(0.0) the(0.0) reforms(1.0) that(0.0) were(0.0) enacted(0.0) in(0.0) 1990(1.0) 
+,(0.0) the(0.0) pay-go(1.0) and(0.0) caps(0.0) ,(0.0) when(0.0) those(0.0) were(0.0) put(0.0) into(0.0) law(1.0) ,(0.0) Congress(0.0) actually(0.0) abided(1.0) by(0.0) those(0.0) for(0.0) a(0.0) 
+number(0.0) of(0.0) years(0.0) ,(0.0) until(0.0) the(0.0) Congress(0.0) decided(0.0) it(0.0) did(0.0) not(0.0) want(0.0) to(0.0) .(0.0) It(0.0) was(0.0) not(0.0) a(0.0) single(0.0) party(0.0) 
+,(0.0) it(0.0) was(0.0) a(0.0) bipartisan(1.0) effort(0.0) that(0.0) led(0.0) the(0.0) way(0.0) .(0.0) So(0.0) whatever(0.0) change(0.0) is(0.0) not(0.0) going(0.0) to(0.0) make(0.0) a(0.0) 
+good(0.0) deal(0.0) of(0.0) difference(0.0) .(0.0) Now(0.0) ,(0.0) there(0.0) are(0.0) some(0.0) good(0.0) things(0.0) in(0.0) here(0.0) dealing(0.0) with(0.0) emergency(1.0) spending(1.0) ,(0.0) although(0.0) 
+some(0.0) of(0.0) the(0.0) language(0.0) was(0.0) changed(0.0) ,(0.0) which(0.0) I(0.0) will(0.0) talk(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Iowa(1.0) ((0.0) Mr.(0.0) Nussle(1.0) )(0.0) 
+about(1.0) later(0.0) ,(0.0) I(0.0) think(0.0) the(0.0) accrual(0.0) funding(1.0) is(0.0) good(0.0) ,(0.0) but(0.0) I(0.0) do(0.0) think(0.0) this(0.0) idea(0.0) of(0.0) moving(0.0) the(0.0) 
+goalpost(1.0) ,(0.0) which(0.0) is(0.0) in(0.0) effect(1.0) what(0.0) we(0.0) have(0.0) done(0.0) ,(0.0) we(0.0) have(0.0) decided(0.0) we(0.0) are(0.0) going(0.0) to(0.0) move(0.0) the(0.0) 
+goalpost(1.0) back(0.0) up(0.0) the(0.0) field(0.0) 50(0.0) yards(0.0) rather(0.0) than(0.0) having(0.0) it(0.0) at(0.0) the(0.0) back(0.0) ,(0.0) by(0.0) having(0.0) the(0.0) fight(1.0) with(0.0) 
+the(0.0) President(1.0) early(0.0) on(0.0) rather(0.0) than(0.0) later(0.0) .(0.0) The(0.0) problem(0.0) with(0.0) that(0.0) is(0.0) ,(0.0) I(0.0) think(0.0) ,(0.0) that(0.0) they(0.0) might(0.0) 
+push(0.0) the(0.0) fight(1.0) to(0.0) the(0.0) very(0.0) end(0.0) of(0.0) the(0.0) year(0.0) and(0.0) make(0.0) it(0.0) much(0.0) more(0.0) difficult(0.0) .(0.0) It(0.0) may(0.0) work(0.0) 
+,(0.0) it(0.0) may(0.0) not(0.0) ,(0.0) but(0.0) I(0.0) do(0.0) not(0.0) think(0.0) it(0.0) solves(0.0) the(0.0) problems(0.0) that(0.0) our(0.0) colleagues(0.0) are(0.0) trying(0.0) to(0.0) 
+solve(0.0) .(0.0) I(0.0) think(0.0) they(0.0) made(0.0) an(0.0) honest(0.0) attempt(0.0) .(0.0) I(0.0) do(0.0) not(0.0) think(0.0) this(0.0) bill(1.0) is(0.0) fully(0.0) done(0.0) yet(0.0) 
+.(0.0) And(0.0) ,(0.0) again(0.0) ,(0.0) this(0.0) is(0.0) a(0.0) matter(0.0) of(0.0) human(0.0) nature(0.0) .(0.0) Nothing(0.0) that(0.0) we(0.0) change(0.0) in(0.0) the(0.0) process(0.0) 
+will(0.0) make(0.0) that(0.0) much(0.0) difference(0.0) .(0.0) So(0.0) I(0.0) think(0.0) we(0.0) should(0.0) send(0.0) this(0.0) bill(1.0) back(0.0) to(0.0) committee(0.0) and(0.0) work(0.0) on(0.0) 
+it(0.0) some(0.0) more(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+opposition	bill	Iowa	
+Maryland	bill	
+Chairman	budget	
+
+
+enact	budget	
+
+reforms	1990	
+pay-go	law	abided	
+
+bipartisan	
+emergency	spending	
+Iowa	Nussle	
+about	funding	
+goalpost	effect	
+goalpost	fight	
+President	
+fight	
+
+bill	
+
+bill	
+
+
+reads % = 0.0651685393258427

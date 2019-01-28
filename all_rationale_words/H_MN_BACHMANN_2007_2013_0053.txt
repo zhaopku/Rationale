@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) it(0.0) is(0.0) a(0.0) privilege(1.0) to(0.0) be(0.0) able(0.0) to(0.0) stand(0.0) in(0.0) the(0.0) greatest(0.0) deliberative(1.0) body(0.0) in(0.0) the(0.0) world(0.0) and(0.0) in(0.0) 
+the(0.0) well(0.0) of(0.0) the(0.0) House(0.0) of(0.0) Representatives(0.0) .(0.0) It(0.0) is(0.0) especially(0.0) poignant(0.0) that(0.0) we(0.0) are(0.0) here(0.0) today(0.0) as(0.0) Members(0.0) of(0.0) 
+this(0.0) body(0.0) ,(0.0) because(0.0) we(0.0) are(0.0) looking(0.0) at(0.0) an(0.0) historic(1.0) shift(0.0) in(0.0) United(1.0) States(0.0) history(0.0) .(0.0) Next(0.0) week(0.0) ,(0.0) Mr.(0.0) 
+Speaker(1.0) ,(0.0) not(0.0) one(0.0) American(0.0) will(0.0) escape(0.0) the(0.0) new(0.0) rules(1.0) and(0.0) regulatory(1.0) burden(1.0) of(0.0) ObamaCare(1.0) .(0.0) We(0.0) are(0.0) going(0.0) to(0.0) 
+face(0.0) something(0.0) that(0.0) 's(0.0) unprecedented(1.0) in(0.0) the(0.0) history(0.0) of(0.0) the(0.0) country(1.0) ,(0.0) and(0.0) we(0.0) already(0.0) know(0.0) what(0.0) some(0.0) of(0.0) those(0.0) 
+results(0.0) will(0.0) be(0.0) .(0.0) We(0.0) have(0.0) a(0.0) law(1.0) that(0.0) 's(0.0) absolutely(0.0) unaffordable(1.0) .(0.0) Our(0.0) President(1.0) told(0.0) us(0.0) that(0.0) we(0.0) had(0.0) 
+to(0.0) hurry(0.0) ,(0.0) hurry(0.0) ,(0.0) hurry(0.0) --(0.0) not(0.0) even(0.0) take(0.0) time(0.0) to(0.0) read(0.0) the(0.0) bill(1.0) --(0.0) because(0.0) we(0.0) were(0.0) going(0.0) 
+to(0.0) be(0.0) saving(0.0) $(0.0) 2,500(0.0) per(0.0) American(0.0) household(0.0) if(0.0) we(0.0) passed(0.0) this(0.0) bill(1.0) .(0.0) Mr.(0.0) President(1.0) ,(0.0) we(0.0) are(0.0) already(0.0) 
+told(0.0) that(0.0) the(0.0) average(0.0) increase(1.0) is(0.0) about(0.0) $(0.0) 3,000(0.0) per(0.0) household(0.0) --(0.0) well(0.0) over(0.0) a(0.0) $(0.0) 5,000(0.0) difference(0.0) from(0.0) what(0.0) 
+you(0.0) promised(1.0) us(0.0) .(0.0) It(0.0) 's(0.0) unaffordable(1.0) ,(0.0) Mr.(0.0) President(1.0) .(0.0) Now(0.0) we(0.0) also(0.0) know(0.0) it's(0.0) completely(0.0) unworkable(1.0) .(0.0) How(0.0) 
+do(0.0) we(0.0) know(0.0) that(0.0) ?(0.0) Because(0.0) ,(0.0) Mr.(0.0) President(1.0) ,(0.0) we(0.0) already(0.0) know(0.0) that(0.0) you(0.0) have(0.0) granted(0.0) 19(0.0) different(0.0) waivers(1.0) 
+,(0.0) blockages(0.0) ,(0.0) repeals(1.0) of(0.0) ObamaCare(1.0) .(0.0) Even(0.0) your(0.0) administration(1.0) --(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) we(0.0) would(0.0) say(0.0) to(0.0) the(0.0) President(1.0) 
+--(0.0) has(0.0) admitted(0.0) it(0.0) 's(0.0) completely(0.0) unworkable(1.0) .(0.0) And(0.0) it(0.0) 's(0.0) unfair(1.0) .(0.0) I(0.0) think(0.0) this(0.0) is(0.0) what(0.0) galls(0.0) the(0.0) 
+American(0.0) people(0.0) more(0.0) than(0.0) anything(0.0) .(0.0) How(0.0) do(0.0) we(0.0) know(0.0) it(0.0) 's(0.0) unfair(1.0) ?(0.0) Take(0.0) a(0.0) look(0.0) at(0.0) the(0.0) leader(0.0) 
+of(0.0) one(0.0) of(0.0) the(0.0) largest(0.0) unions(1.0) in(0.0) the(0.0) United(0.0) States(0.0) ,(0.0) one(0.0) of(0.0) the(0.0) advocates(1.0) for(0.0) the(0.0) Unaffordable(1.0) Care(1.0) Act(1.0) 
+,(0.0) as(0.0) many(0.0) have(0.0) called(0.0) it(0.0) .(0.0) James(0.0) Hoffa(1.0) ,(0.0) the(0.0) head(0.0) of(0.0) the(0.0) Teamsters(1.0) Union(0.0) ,(0.0) calls(0.0) ObamaCare(1.0) a(0.0) 
+nightmare(0.0) ,(0.0) and(0.0) he(0.0) has(0.0) begged(0.0) and(0.0) pleaded(1.0) the(0.0) President(1.0) of(0.0) the(0.0) United(0.0) States(0.0) to(0.0) back(0.0) off(0.0) of(0.0) ObamaCare(1.0) because(0.0) 
+he(0.0) said(0.0) ,(0.0) in(0.0) his(0.0) words(0.0) ,(0.0) that(0.0) it(0.0) is(0.0) taking(0.0) away(0.0) the(0.0) American(0.0) Dream(1.0) --(0.0) what(0.0) unions(1.0) have(0.0) worked(0.0) 
+for(0.0) ,(0.0) to(0.0) build(0.0) up(0.0) a(0.0) 40-hour(1.0) workweek(1.0) .(0.0) We(0.0) are(0.0) now(0.0) becoming(0.0) a(0.0) part-time(0.0) Nation(0.0) so(0.0) that(0.0) employers(1.0) today(0.0) 
+are(0.0) looking(0.0) for(0.0) employees(0.0) who(0.0) will(0.0) work(0.0) no(0.0) more(0.0) than(0.0) 29-and-a-half(0.0) hours(0.0) a(0.0) week(0.0) .(0.0) That(0.0) 's(0.0) a(0.0) 25(0.0) percent(0.0) 
+reduction(1.0) in(0.0) hours(0.0) for(0.0) the(0.0) average(0.0) American(0.0) worker(1.0) ,(0.0) let(0.0) alone(0.0) the(0.0) multiple(0.0) tens(1.0) of(0.0) thousands(1.0) of(0.0) employees(0.0) who(0.0) have(0.0) 
+already(0.0) been(0.0) thrown(0.0) off(0.0) of(0.0) their(0.0) health(1.0) insurance(0.0) .(0.0) That(0.0) 's(0.0) unfair(1.0) .(0.0) Finally(0.0) ,(0.0) it(0.0) 's(0.0) unpopular(1.0) .(0.0) Never(0.0) 
+has(0.0) ObamaCare(1.0) enjoyed(0.0) any(0.0) popularity(0.0) ,(0.0) and(0.0) the(0.0) President(1.0) of(0.0) the(0.0) United(0.0) States(0.0) promised(1.0) his(0.0) side(0.0) of(0.0) the(0.0) aisle(0.0) ,(0.0) 
+Do(0.0) n't(0.0) worry(0.0) .(0.0) Just(0.0) pass(0.0) it(0.0) .(0.0) In(0.0) other(0.0) words(0.0) ,(0.0) build(0.0) it(0.0) ,(0.0) and(0.0) they(0.0) will(0.0) come(0.0) .(0.0) 
+The(0.0) bill(1.0) was(0.0) passed(0.0) ,(0.0) and(0.0) today(0.0) --(0.0) just(0.0) literally(0.0) days(0.0) before(0.0) this(0.0) bill(1.0) goes(1.0) into(0.0) effect(1.0) --(0.0) it(0.0) 
+
+
+----- below are rationale words -----
+
+privilege	deliberative	
+
+historic	United	
+Speaker	rules	regulatory	burden	ObamaCare	
+unprecedented	country	
+law	unaffordable	President	
+bill	
+bill	President	
+increase	
+promised	unaffordable	President	unworkable	
+President	waivers	
+repeals	ObamaCare	administration	Speaker	President	
+unworkable	unfair	
+unfair	
+unions	advocates	Unaffordable	Care	Act	
+Hoffa	Teamsters	ObamaCare	
+pleaded	President	ObamaCare	
+Dream	unions	
+40-hour	workweek	employers	
+
+reduction	worker	tens	thousands	
+health	unfair	unpopular	
+ObamaCare	President	promised	
+
+bill	bill	goes	effect	
+
+reads % = 0.124

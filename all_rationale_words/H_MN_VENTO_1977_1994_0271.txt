@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+My(0.0) point(0.0) is(0.0) there(0.0) has(0.0) been(0.0) the(0.0) proper(0.0) evolution(0.0) ,(0.0) I(0.0) do(0.0) not(0.0) think(0.0) ,(0.0) in(0.0) terms(0.0) of(0.0) policy(1.0) with(0.0) regard(0.0) 
+to(0.0) housing(1.0) of(0.0) park(0.0) employees(0.0) ,(0.0) or(0.0) not(0.0) housing(1.0) them(0.0) .(0.0) It(0.0) is(0.0) a(0.0) sensitive(0.0) issue(0.0) to(0.0) me(0.0) ,(0.0) and(0.0) 
+I(0.0) think(0.0) it(0.0) will(0.0) be(0.0) to(0.0) the(0.0) Members(0.0) here(0.0) .(0.0) In(0.0) some(0.0) cases(0.0) we(0.0) simply(0.0) do(0.0) not(0.0) need(0.0) that(0.0) housing(1.0) 
+.(0.0) There(0.0) is(0.0) a(0.0) lot(0.0) of(0.0) resonance(0.0) in(0.0) terms(0.0) of(0.0) building(0.0) and(0.0) doing(0.0) things(0.0) ,(0.0) but(0.0) it(0.0) does(0.0) not(0.0) necessarily(0.0) 
+serve(0.0) the(0.0) purposes(0.0) of(0.0) the(0.0) park(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+policy	
+housing	housing	
+housing	
+
+
+
+reads % = 0.045454545454545456

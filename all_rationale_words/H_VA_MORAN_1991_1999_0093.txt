@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) will(0.0) the(0.0) gentlewoman(0.0) yield(0.0) ?(0.0) Chairman(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentlewoman(0.0) from(0.0) the(0.0) District(0.0) of(0.0) Columbia(0.0) ((0.0) Ms.(1.0) Norton(1.0) 
+)(0.0) ,(0.0) for(0.0) yielding(0.0) to(0.0) me(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) would(0.0) like(0.0) to(0.0) begin(0.0) as(0.0) I(0.0) did(0.0) in(0.0) the(0.0) 
+Appropriations(0.0) Committee(0.0) by(0.0) thanking(0.0) Chairman(0.0) Istook(1.0) for(0.0) the(0.0) way(0.0) he(0.0) has(0.0) chaired(0.0) the(0.0) D.C.(1.0) Subcommittee(0.0) and(0.0) prepared(0.0) today(0.0) 's(0.0) legislation(0.0) 
+.(0.0) He(0.0) has(0.0) made(0.0) a(0.0) sincere(0.0) effort(0.0) to(0.0) familiarize(0.0) himself(0.0) with(0.0) the(0.0) affairs(0.0) of(0.0) the(0.0) District(0.0) of(0.0) Columbia(0.0) by(0.0) walking(0.0) 
+the(0.0) city(0.0) 's(0.0) streets(0.0) ,(0.0) meeting(0.0) with(0.0) Mayor(0.0) Williams(1.0) and(0.0) the(0.0) City(0.0) Council(0.0) on(0.0) several(0.0) occasions(0.0) ,(0.0) and(0.0) touring(0.0) the(0.0) 
+District(0.0) 's(0.0) schools(0.0) ,(0.0) its(0.0) low(0.0) income(0.0) housing(0.0) ,(0.0) the(0.0) courts(0.0) and(0.0) the(0.0) administrative(0.0) offices(0.0) .(0.0) I(0.0) know(0.0) he(0.0) shares(0.0) 
+my(0.0) observation(0.0) that(0.0) many(0.0) of(0.0) the(0.0) challenges(0.0) and(0.0) issues(0.0) confronting(0.0) the(0.0) District(0.0) are(0.0) identical(0.0) to(0.0) those(0.0) confronting(1.0) most(0.0) older(0.0) urban(1.0) 
+communities(1.0) .(0.0) At(0.0) the(0.0) same(0.0) time(0.0) ,(0.0) there(0.0) are(0.0) a(0.0) number(0.0) of(0.0) circumstances(0.0) that(0.0) make(0.0) the(0.0) District(0.0) unique(0.0) :(0.0) it(0.0) 
+'s(0.0) a(0.0) creation(0.0) by(0.0) Congress(0.0) under(0.0) Article(0.0) I(0.0) of(0.0) the(0.0) U.S.(0.0) Constitution(0.0) and(0.0) the(0.0) seat(0.0) of(0.0) the(0.0) federal(1.0) government(1.0) ,(0.0) 
+it(0.0) has(0.0) a(0.0) large(0.0) amount(0.0) of(0.0) federal(1.0) property(0.0) within(0.0) its(0.0) boundaries(0.0) ,(0.0) and(0.0) its(0.0) local(0.0) laws(0.0) and(0.0) budget(1.0) may(0.0) be(0.0) 
+subject(0.0) to(0.0) congressional(1.0) review(0.0) and(0.0) approval(0.0) .(0.0) The(0.0) fact(0.0) that(0.0) we(0.0) are(0.0) considering(0.0) the(0.0) District(0.0) of(0.0) Columbia(1.0) Appropriations(0.0) Act(0.0) for(0.0) 
+fiscal(0.0) Year(0.0) 2000(0.0) reflects(0.0) the(0.0) District(0.0) 's(0.0) unique(0.0) status(0.0) .(0.0) In(0.0) reviewing(0.0) this(0.0) legislation(1.0) ,(0.0) let(0.0) me(0.0) begin(0.0) by(0.0) highlighting(0.0) 
+some(0.0) of(0.0) its(0.0) positive(0.0) aspects(0.0) :(0.0) it(0.0) fully(0.0) funds(1.0) the(0.0) consensus(1.0) budget(1.0) both(0.0) the(0.0) spending(1.0) priorities(1.0) and(0.0) the(0.0) tax(1.0) cuts(1.0) 
+;(1.0) it(1.0) provides(0.0) the(0.0) federal(1.0) funding(1.0) level(0.0) requested(0.0) by(0.0) the(0.0) administration(1.0) ;(0.0) in(0.0) fact(0.0) ,(0.0) it(0.0) brings(0.0) additional(0.0) federal(1.0) money(1.0) 
+to(0.0) the(0.0) District(0.0) 's(0.0) aid(0.0) ,(0.0) providing(0.0) $(0.0) 8.5(0.0) million(0.0) for(0.0) adoption(1.0) incentives(1.0) for(0.0) foster(1.0) children(1.0) ;(0.0) $(0.0) 20(0.0) million(0.0) 
+for(0.0) severance(1.0) pay(1.0) for(0.0) the(0.0) Mayor(1.0) 's(0.0) management(0.0) initiative(1.0) ;(0.0) more(0.0) than(0.0) $(0.0) 13(0.0) million(0.0) for(0.0) expanded(0.0) drug(1.0) treatment(0.0) programs(1.0) 
+;(0.0) $(0.0) 17(0.0) million(0.0) to(0.0) fund(1.0) the(0.0) in-state(1.0) tuition(1.0) benefits(0.0) initiative(1.0) and(0.0) close(0.0) to(0.0) $(0.0) 20(0.0) million(0.0) to(0.0) help(0.0) the(0.0) 
+Office(0.0) of(0.0) Offender(1.0) Supervision(0.0) tackle(0.0) the(0.0) very(0.0) serious(0.0) crime(1.0) problems(0.0) caused(0.0) by(0.0) repeat(0.0) offenders(1.0) ;(0.0) and(0.0) it(0.0) helps(0.0) address(0.0) a(0.0) 
+number(0.0) of(0.0) city(1.0) concerns(0.0) from(0.0) the(0.0) operation(0.0) of(0.0) the(0.0) District(0.0) 's(0.0) courts(0.0) to(0.0) the(0.0) hospitals(1.0) .(0.0) On(0.0) the(0.0) whole(0.0) ,(0.0) 
+this(0.0) legislation(1.0) is(0.0) an(0.0) improvement(0.0) over(0.0) the(0.0) bill(1.0) that(0.0) came(0.0) before(0.0) us(0.0) last(0.0) year(0.0) .(0.0) With(0.0) all(0.0) that(0.0) said(0.0) ,(0.0) 
+I(0.0) must(0.0) still(0.0) object(0.0) to(0.0) a(0.0) number(0.0) of(0.0) provisions(1.0) that(0.0) are(0.0) in(0.0) this(0.0) legislation(1.0) .(0.0) These(0.0) provisions(1.0) ,(0.0) known(0.0) collectively(0.0) 
+as(0.0) ``(0.0) riders(0.0) ,(0.0) ''(0.0) prohibit(1.0) or(0.0) tie(0.0) the(0.0) hands(0.0) of(0.0) District(0.0) officials(0.0) and(0.0) its(0.0) citizens(1.0) to(0.0) carry(0.0) out(0.0) and(0.0) 
+implement(0.0) their(0.0) own(0.0) prerogatives(1.0) .(0.0) Perhaps(0.0) when(0.0) there(0.0) was(0.0) a(0.0) large(0.0) direct(0.0) federal(1.0) payment(1.0) to(0.0) the(0.0) District(0.0) 's(0.0) general(0.0) funds(0.0) 
+,(0.0) some(0.0) could(0.0) justify(1.0) prohibiting(1.0) the(0.0) District's(0.0) needle(0.0) exchange(0.0) program(0.0) ,(0.0) its(0.0) domestic(1.0) partners(0.0) '(0.0) law(0.0) ,(0.0) or(0.0) even(0.0) the(0.0) 
+counting(0.0) of(0.0) ballots(1.0) on(0.0) its(0.0) medical(0.0) marijuana(0.0) initiative(1.0) .(0.0) The(0.0) last(0.0) direct(0.0) payment(0.0) in(0.0) the(0.0) fiscal(1.0) 1999(0.0) appropriations(0.0) act(0.0) 
+
+
+----- below are rationale words -----
+
+Ms.	Norton	
+Chairman	
+Istook	D.C.	
+
+Williams	
+
+confronting	urban	
+communities	
+federal	government	
+federal	budget	
+congressional	Columbia	
+legislation	
+funds	consensus	budget	spending	priorities	tax	cuts	
+;	it	federal	funding	administration	federal	money	
+adoption	incentives	foster	children	
+severance	pay	Mayor	initiative	drug	programs	
+fund	in-state	tuition	initiative	
+Offender	crime	offenders	
+city	hospitals	
+legislation	bill	
+provisions	legislation	provisions	
+prohibit	citizens	
+prerogatives	federal	payment	
+justify	prohibiting	domestic	
+ballots	initiative	fiscal	
+
+reads % = 0.13

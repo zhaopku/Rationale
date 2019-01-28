@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) campaign(1.0) finance(1.0) reform(1.0) does(1.0) not(1.0) have(0.0) to(0.0) be(0.0) a(0.0) partisan(1.0) affair(0.0) .(0.0) It(0.0) can(0.0) be(0.0) a(0.0) bipartisan(1.0) affair(0.0) .(0.0) 
+In(0.0) fact(0.0) ,(0.0) the(0.0) freshmen(1.0) of(0.0) this(0.0) Congress(0.0) ,(0.0) six(0.0) Republicans(1.0) and(1.0) six(1.0) Democrats(1.0) ,(1.0) worked(0.0) on(0.0) a(0.0) task(0.0) force(0.0) 
+and(0.0) developed(0.0) the(0.0) Bipartisan(1.0) Campaign(1.0) Integrity(1.0) Act(1.0) of(1.0) 1997(0.0) .(0.0) It(0.0) takes(0.0) the(0.0) biggest(0.0) of(0.0) the(0.0) big(0.0) money(0.0) out(0.0) of(0.0) 
+politics(1.0) and(0.0) it(0.0) does(0.0) something(0.0) else(0.0) :(0.0) It(0.0) takes(0.0) the(0.0) contentious(1.0) issues(0.0) off(0.0) the(0.0) table(0.0) .(0.0) There(0.0) are(0.0) those(0.0) on(0.0) 
+the(0.0) Republican(1.0) side(1.0) who(1.0) simply(1.0) want(1.0) to(1.0) do(1.0) something(1.0) about(1.0) labor(1.0) unions(1.0) .(1.0) But(1.0) they(1.0) know(1.0) that(1.0) is(1.0) a(1.0) deal(1.0) 
+breaker(1.0) .(1.0) There(1.0) are(0.0) those(0.0) on(0.0) the(0.0) Democratic(1.0) side(0.0) who(0.0) want(0.0) to(0.0) do(0.0) something(0.0) about(0.0) candidate(0.0) spending(1.0) limits(1.0) ,(0.0) but(0.0) 
+those(0.0) over(0.0) here(0.0) think(0.0) that(0.0) is(0.0) a(0.0) deal(0.0) breaker(0.0) .(0.0) The(0.0) fact(0.0) is(0.0) ,(0.0) we(0.0) can(0.0) take(0.0) the(0.0) biggest(0.0) of(0.0) 
+the(0.0) big(0.0) money(1.0) out(0.0) of(0.0) politics(1.0) .(0.0) We(0.0) need(0.0) to(0.0) support(0.0) the(0.0) Bipartisan(1.0) Integrity(1.0) Act(1.0) of(0.0) 1997(0.0) ,(0.0) the(0.0) freshman(1.0) 
+task(0.0) force(0.0) bill(1.0) .(0.0) In(0.0) this(0.0) Congress(0.0) we(0.0) should(0.0) legislate(1.0) ,(0.0) not(0.0) just(0.0) investigate(0.0) .(0.0) I(0.0) urge(0.0) all(0.0) my(0.0) colleagues(0.0) 
+,(0.0) especially(0.0) those(0.0) on(0.0) the(0.0) Republican(1.0) side(1.0) ,(1.0) to(1.0) join(1.0) the(1.0) 11(1.0) Republicans(1.0) and(1.0) many(1.0) Democrats(1.0) who(1.0) support(1.0) this(1.0) bill(1.0) 
+.(1.0) 
+
+
+----- below are rationale words -----
+
+campaign	finance	reform	does	not	partisan	bipartisan	
+freshmen	Republicans	and	six	Democrats	,	
+Bipartisan	Campaign	Integrity	Act	of	
+politics	contentious	
+Republican	side	who	simply	want	to	do	something	about	labor	unions	.	But	they	know	that	is	a	deal	
+breaker	.	There	Democratic	spending	limits	
+
+money	politics	Bipartisan	Integrity	Act	freshman	
+bill	legislate	
+Republican	side	,	to	join	the	11	Republicans	and	many	Democrats	who	support	this	bill	
+.	
+
+reads % = 0.3415841584158416

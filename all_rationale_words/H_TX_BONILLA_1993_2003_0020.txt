@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) yield(0.0) 5(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) ((0.0) Mr.(0.0) Stenholm(1.0) )(0.0) as(0.0) a(0.0) demonstration(0.0) of(0.0) strong(0.0) bipartisan(1.0) 
+support(0.0) in(0.0) opposition(1.0) to(0.0) this(0.0) amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Stenholm	bipartisan	
+opposition	amendment	
+
+reads % = 0.14285714285714285

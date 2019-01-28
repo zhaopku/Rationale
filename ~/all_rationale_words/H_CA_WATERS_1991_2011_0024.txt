@@ -1,0 +1,42 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Chair(1.0) ,(0.0) I(0.0) rise(1.0) to(0.0) support(0.0) the(0.0) amendment(1.0) .(0.0) I(0.0) 'm(0.0) opposed(1.0) to(0.0) the(0.0) point(0.0) of(0.0) order(0.0) .(0.0) I(0.0) think(1.0) 
+it(0.0) is(0.0) absolutely(1.0) germane(1.0) .(0.0) Not(0.0) only(0.0) do(0.0) we(0.0) have(0.0) a(0.0) bill(0.0) before(0.0) us(0.0) that(0.0) will(0.0) eliminate(1.0) taxpayers(1.0) '(0.0) ability(0.0) 
+to(0.0) have(0.0) their(0.0) homes(1.0) that(0.0) are(0.0) underwater(0.0) refinanced(1.0) ;(0.0) this(0.0) also(1.0) impacts(1.0) their(0.0) taxes(1.0) .(0.0) They(0.0) will(0.0) continue(0.0) to(0.0) have(0.0) 
+to(0.0) be(0.0) taxed(1.0) on(0.0) those(0.0) homes(1.0) at(0.0) the(0.0) same(1.0) rate(0.0) .(0.0) And(0.0) so(1.0) here(0.0) we(0.0) have(0.0) before(1.0) us(0.0) the(0.0) Universal(1.0) 
+Homeowner(1.0) Tax(1.0) Relief(0.0) Act(0.0) that(0.0) would(1.0) impact(0.0) 30(0.0) million(0.0) Americans(0.0) nationwide(0.0) .(0.0) And(0.0) I(0.0) must(1.0) add(1.0) that(0.0) if(0.0) we(0.0) can(0.0) 
+,(0.0) in(0.0) this(0.0) House(0.0) and(0.0) in(0.0) this(0.0) Congress(0.0) ,(0.0) give(0.0) tax(1.0) breaks(1.0) to(0.0) the(0.0) richest(1.0) 1(0.0) percent(1.0) of(0.0) Americans(0.0) in(0.0) 
+the(0.0) way(1.0) that(0.0) we(0.0) have(0.0) done(0.0) ,(0.0) certainly(1.0) we(0.0) can(0.0) support(0.0) these(0.0) homeowners(1.0) who(0.0) are(0.0) underwater(0.0) ,(0.0) these(0.0) homeowners(1.0) who(0.0) 
+have(0.0) been(0.0) tricked(0.0) into(0.0) mortgages(1.0) that(0.0) they(0.0) did(0.0) n't(0.0) understand(0.0) ,(0.0) these(0.0) homeowners(1.0) who(0.0) are(0.0) the(0.0) victims(1.0) of(0.0) fraud(1.0) .(0.0) 
+And(0.0) I(0.0) think(1.0) this(0.0) is(0.0) germane(1.0) .(0.0) The(0.0) Acting(0.0) CHAIR(0.0) .(0.0) The(0.0) gentlewoman(0.0) from(0.0) California(0.0) must(1.0) confine(1.0) her(0.0) remarks(0.0) to(0.0) 
+the(0.0) point(0.0) of(0.0) order(0.0) .(0.0) Does(0.0) any(1.0) other(0.0) Member(0.0) wish(0.0) to(0.0) speak(0.0) to(0.0) the(0.0) point(0.0) of(0.0) order(0.0) .(0.0) If(1.0) not(1.0) 
+,(0.0) the(0.0) Chair(1.0) is(0.0) prepared(1.0) to(0.0) rule(0.0) .(0.0) The(0.0) gentlewoman(0.0) from(0.0) Illinois(1.0) makes(0.0) the(0.0) point(0.0) of(0.0) order(0.0) that(0.0) the(0.0) amendment(1.0) 
+offered(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) Jersey(0.0) is(0.0) not(1.0) germane(1.0) .(0.0) The(0.0) bill(0.0) addresses(1.0) repeal(1.0) of(0.0) a(0.0) Federal(1.0) Housing(1.0) Administration(0.0) 
+program(0.0) that(0.0) provides(0.0) for(0.0) refinancing(1.0) of(0.0) a(0.0) specified(0.0) set(0.0) of(0.0) mortgages(1.0) .(0.0) One(1.0) of(0.0) the(0.0) fundamental(1.0) principles(1.0) of(0.0) germaneness(1.0) is(0.0) 
+that(0.0) the(0.0) amendment(1.0) must(0.0) confine(1.0) itself(0.0) to(0.0) the(0.0) jurisdiction(1.0) of(0.0) the(0.0) committees(1.0) represented(1.0) in(0.0) the(0.0) underlying(0.0) bill(0.0) .(0.0) The(0.0) bill(0.0) 
+was(0.0) referred(0.0) to(0.0) and(0.0) reported(0.0) by(0.0) the(0.0) Committee(0.0) on(0.0) Financial(0.0) Services(0.0) .(0.0) The(0.0) amendment(1.0) proposes(1.0) a(0.0) direct(0.0) amendment(1.0) to(0.0) the(0.0) 
+Internal(0.0) Revenue(1.0) Code(0.0) ,(0.0) a(0.0) matter(0.0) within(1.0) the(0.0) jurisdiction(1.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Ways(0.0) and(0.0) Means(0.0) .(0.0) The(0.0) amendment(1.0) is(0.0) 
+therefore(1.0) not(0.0) germane(1.0) .(0.0) The(0.0) point(0.0) of(0.0) order(0.0) is(0.0) sustained(0.0) .(0.0) Amendment(1.0) No(0.0) .(0.0) 7(0.0) Offered(1.0) by(0.0) Mr.(0.0) Garamendi(1.0) 
+
+
+----- below are rationale words -----
+
+Chair	rise	amendment	opposed	think	
+absolutely	germane	eliminate	taxpayers	
+homes	refinanced	also	impacts	taxes	
+taxed	homes	same	so	before	Universal	
+Homeowner	Tax	would	must	add	
+tax	breaks	richest	percent	
+way	certainly	homeowners	homeowners	
+mortgages	homeowners	victims	fraud	
+think	germane	must	confine	
+any	If	not	
+Chair	prepared	Illinois	amendment	
+not	germane	addresses	repeal	Federal	Housing	
+refinancing	mortgages	One	fundamental	principles	germaneness	
+amendment	confine	jurisdiction	committees	represented	
+amendment	proposes	amendment	
+Revenue	within	jurisdiction	amendment	
+therefore	germane	Amendment	Offered	Garamendi	
+
+reads % = 0.22647058823529412

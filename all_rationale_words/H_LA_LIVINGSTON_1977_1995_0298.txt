@@ -1,0 +1,16 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) we(0.0) are(0.0) dealing(0.0) with(0.0) agency(0.0) versus(0.0) contract(1.0) for(0.0) hire(0.0) ,(0.0) contract(0.0) for(0.0) products(0.0) .(0.0) There(0.0) is(0.0) a(0.0) real(0.0) distinction(0.0) 
+,(0.0) and(0.0) to(0.0) say(0.0) to(0.0) anybody(0.0) who(0.0) is(0.0) a(0.0) contractor(0.0) who(0.0) deals(0.0) with(0.0) the(0.0) Federal(1.0) Government(1.0) that(0.0) you(0.0) can(0.0) not(0.0) 
+lobby(0.0) is(0.0) in(0.0) essence(0.0) ,(0.0) frankly(0.0) ,(0.0) to(0.0) deny(1.0) their(0.0) rights(1.0) under(0.0) the(0.0) first(0.0) amendment(1.0) of(0.0) the(0.0) Constitution(1.0) of(0.0) the(0.0) 
+United(0.0) States(0.0) and(0.0) totally(0.0) flies(0.0) in(0.0) the(0.0) face(0.0) of(0.0) any(0.0) constitutional(1.0) principles(1.0) that(0.0) I(0.0) know(0.0) of(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+contract	
+Federal	Government	
+deny	rights	amendment	Constitution	
+constitutional	principles	
+
+reads % = 0.11538461538461539

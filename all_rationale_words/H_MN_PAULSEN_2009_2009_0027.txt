@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) nuclear(1.0) power(0.0) is(0.0) an(0.0) environmentally(1.0) friendly(0.0) way(0.0) to(0.0) meet(0.0) our(0.0) energy(1.0) needs(0.0) .(0.0) Fortunately(0.0) ,(0.0) we(0.0) have(0.0) a(0.0) 
+safe(0.0) and(0.0) ready(0.0) option(0.0) for(0.0) permanent(0.0) storage(0.0) for(0.0) the(0.0) waste(1.0) generated(0.0) by(0.0) this(0.0) clean(1.0) power(0.0) at(0.0) Yucca(1.0) Mountain(0.0) in(0.0) Nevada(1.0) 
+.(0.0) But(0.0) despite(0.0) the(0.0) fact(0.0) that(0.0) energy(1.0) ratepayers(1.0) in(0.0) my(0.0) State(1.0) have(0.0) contributed(0.0) over(0.0) $(0.0) 375(0.0) million(0.0) to(0.0) the(0.0) Nuclear(1.0) 
+Waste(0.0) Fund(0.0) ,(0.0) the(0.0) Federal(1.0) Government(1.0) has(0.0) refused(0.0) to(0.0) keep(0.0) its(0.0) end(0.0) of(0.0) the(0.0) bargain(1.0) and(0.0) store(0.0) the(0.0) nuclear(1.0) waste(0.0) 
+.(0.0) Nationwide(0.0) ,(0.0) this(0.0) fund(1.0) has(0.0) now(0.0) collected(0.0) over(0.0) $(0.0) 350(0.0) billion(1.0) in(0.0) fees(1.0) and(0.0) interest(0.0) since(0.0) its(0.0) inception(1.0) .(0.0) 
+Minnesotans(1.0) and(0.0) all(0.0) Americans(1.0) should(0.0) not(0.0) have(0.0) to(0.0) pay(1.0) for(0.0) government(1.0) inaction(1.0) .(0.0) I(0.0) have(0.0) introduced(0.0) legislation(1.0) that(0.0) would(0.0) require(0.0) 
+the(0.0) President(1.0) to(0.0) certify(0.0) Yucca(1.0) Mountain(0.0) as(0.0) a(0.0) permanent(0.0) nuclear(0.0) waste(0.0) depository(0.0) ;(0.0) and(0.0) if(0.0) it(0.0) 's(0.0) not(0.0) certified(0.0) ,(0.0) 
+the(0.0) bill(1.0) would(1.0) return(0.0) billions(1.0) of(0.0) dollars(1.0) from(0.0) the(0.0) Nuclear(1.0) Waste(0.0) Fund(0.0) to(0.0) ratepayers(1.0) across(0.0) the(0.0) country(1.0) .(0.0) Madam(0.0) Speaker(1.0) 
+,(0.0) let(0.0) 's(0.0) quickly(0.0) pass(0.0) the(0.0) Rebating(1.0) America(1.0) 's(0.0) Deposits(0.0) Act(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+nuclear	environmentally	energy	
+waste	clean	Yucca	Nevada	
+energy	ratepayers	State	Nuclear	
+Federal	Government	bargain	nuclear	
+fund	billion	fees	inception	
+Minnesotans	Americans	pay	government	inaction	legislation	
+President	Yucca	
+bill	would	billions	dollars	Nuclear	ratepayers	country	Speaker	
+Rebating	America	
+
+reads % = 0.2138728323699422

@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Reclaiming(1.0) my(0.0) time(0.0) ,(0.0) ``(0.0) reclaiming(1.0) my(0.0) time(0.0) ''(0.0) is(0.0) not(0.0) something(0.0) I(0.0) am(0.0) asking(0.0) permission(0.0) for(0.0) .(0.0) Announcement(0.0) by(0.0) the(0.0) 
+Speaker(0.0) Pro(0.0) Tempore(0.0) 
+
+
+----- below are rationale words -----
+
+reclaiming	
+
+
+reads % = 0.041666666666666664

@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Chairman(1.0) ,(0.0) because(1.0) I(0.0) was(0.0) unavoidably(1.0) detained(1.0) in(0.0) the(0.0) 15th(0.0) Congressional(0.0) District(1.0) ,(0.0) I(0.0) missed(1.0) several(0.0) roll(0.0) call(0.0) votes(1.0) .(0.0) 
+Had(1.0) I(0.0) been(0.0) present(1.0) ,(0.0) I(0.0) would(1.0) have(0.0) voted(1.0) Nay(0.0) on(0.0) roll(0.0) call(0.0) number(0.0) 142(0.0) ,(0.0) Aye(1.0) on(0.0) roll(0.0) call(0.0) 
+vote(1.0) number(0.0) 143(1.0) ,(0.0) and(0.0) Aye(1.0) on(0.0) roll(0.0) call(0.0) number(0.0) 144(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	because	unavoidably	detained	District	missed	votes	
+Had	present	would	voted	Aye	
+vote	143	Aye	
+
+reads % = 0.2830188679245283

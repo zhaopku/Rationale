@@ -1,0 +1,36 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) want(1.0) to(0.0) first(0.0) of(0.0) all(0.0) commend(1.0) and(0.0) congratulate(0.0) the(0.0) gentleman(0.0) from(0.0) Florida(1.0) ((0.0) Mr.(0.0) Bilirakis(1.0) )(0.0) and(0.0) the(0.0) 
+gentleman(0.0) from(0.0) Ohio(1.0) ((0.0) Mr.(0.0) Brown(1.0) )(0.0) for(0.0) their(0.0) outstanding(0.0) leadership(1.0) on(0.0) health(1.0) issues(0.0) ,(0.0) and(0.0) I(0.0) also(1.0) want(1.0) to(0.0) 
+commend(1.0) the(0.0) gentleman(0.0) from(0.0) Louisiana(1.0) ((0.0) Mr.(0.0) Tauzin(1.0) )(0.0) and(0.0) the(0.0) gentleman(0.0) from(0.0) Michigan(1.0) ((0.0) Mr.(0.0) Dingell(1.0) )(0.0) for(0.0) the(0.0) 
+leadership(1.0) that(0.0) they(0.0) provide(0.0) .(0.0) I(0.0) could(1.0) not(1.0) let(0.0) this(0.0) opportunity(0.0) go(0.0) by(0.0) without(0.0) coming(0.0) over(0.0) to(0.0) congratulate(0.0) and(0.0) commend(1.0) 
+the(0.0) gentlewoman(0.0) from(0.0) California(0.0) ((0.0) Mrs.(1.0) Capps(1.0) )(0.0) for(0.0) the(0.0) outstanding(0.0) leadership(1.0) she(0.0) has(0.0) provided(0.0) on(0.0) this(0.0) issue(0.0) as(0.0) well(0.0) 
+as(0.0) so(1.0) many(0.0) others(0.0) .(0.0) I(0.0) was(0.0) listening(0.0) to(0.0) the(0.0) debate(1.0) and(0.0) was(0.0) thinking(0.0) of(0.0) Loyola(1.0) University(1.0) ,(0.0) Rush-Presbyterian(1.0) St.(1.0) 
+Luke(1.0) 's(0.0) ,(0.0) University(0.0) of(0.0) Illinois(1.0) ,(0.0) Cook(1.0) County(1.0) Hospital(1.0) ,(0.0) Mount(0.0) Sinai(1.0) Hospital(0.0) ,(0.0) Westside(1.0) Veterans(1.0) Administration(0.0) ,(0.0) Heinz(1.0) 
+,(0.0) Northwestern(1.0) ,(0.0) Mercy(0.0) Hospital(0.0) ,(0.0) Malcolm(1.0) X(1.0) College(0.0) ,(0.0) the(0.0) Chicago(1.0) Rehabilitation(0.0) Institute(0.0) ,(0.0) all(0.0) of(0.0) which(0.0) have(0.0) nursing(0.0) 
+schools(1.0) and(0.0) nursing(0.0) programs(1.0) in(0.0) my(0.0) congressional(1.0) district(1.0) ,(0.0) all(0.0) who(0.0) lament(1.0) the(0.0) fact(0.0) that(0.0) we(0.0) do(0.0) not(1.0) have(0.0) enough(0.0) 
+nurses(0.0) ,(0.0) in(0.0) many(0.0) instances(0.0) ,(0.0) to(0.0) fill(1.0) some(0.0) of(0.0) the(0.0) classes(1.0) .(0.0) This(0.0) deal(1.0) will(0.0) create(0.0) an(0.0) opportunity(0.0) for(0.0) 
+many(0.0) institutions(1.0) not(0.0) to(0.0) find(0.0) it(0.0) necessary(1.0) to(0.0) import(1.0) nurses(0.0) .(0.0) There(0.0) is(0.0) a(0.0) wealth(0.0) of(0.0) talent(0.0) ,(0.0) individuals(0.0) around(0.0) 
+who(0.0) with(0.0) a(0.0) little(0.0) nudging(0.0) and(0.0) a(0.0) little(0.0) help(0.0) will(0.0) choose(0.0) nursing(0.0) as(0.0) a(0.0) career(0.0) .(0.0) This(0.0) is(0.0) an(0.0) opportunity(0.0) 
+.(0.0) It(0.0) is(0.0) a(0.0) great(0.0) one(0.0) .(0.0) Again(1.0) ,(0.0) I(0.0) commend(1.0) the(0.0) gentlewoman(0.0) from(0.0) California(0.0) ((0.0) Mrs.(1.0) Capps(1.0) )(0.0) and(0.0) 
+all(0.0) of(0.0) those(0.0) who(0.0) have(0.0) made(0.0) it(0.0) happen(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+want	commend	Florida	Bilirakis	
+Ohio	Brown	leadership	health	also	want	
+commend	Louisiana	Tauzin	Michigan	Dingell	
+leadership	could	not	commend	
+Mrs.	Capps	leadership	
+so	debate	Loyola	University	Rush-Presbyterian	St.	
+Luke	Illinois	Cook	County	Hospital	Sinai	Westside	Veterans	Heinz	
+Northwestern	Malcolm	X	Chicago	
+schools	programs	congressional	district	lament	not	
+fill	classes	deal	
+institutions	necessary	import	
+
+Again	commend	Mrs.	Capps	
+
+
+reads % = 0.2111111111111111

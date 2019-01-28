@@ -1,0 +1,24 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) ,(0.0) and(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Maryland(1.0) for(0.0) 
+his(0.0) kind(0.0) words(0.0) and(0.0) his(0.0) bipartisanship(1.0) on(0.0) this(0.0) issue(0.0) .(0.0) It(0.0) truly(0.0) is(0.0) bigger(0.0) than(0.0) any(0.0) one(0.0) party(1.0) .(0.0) Also(0.0) 
+,(0.0) I(0.0) want(0.0) to(0.0) again(0.0) thank(0.0) the(0.0) chairman(0.0) for(0.0) coming(0.0) out(0.0) to(0.0) Arizona(1.0) and(0.0) seeing(0.0) it(0.0) firsthand(0.0) ,(0.0) and(0.0) I(0.0) 
+will(0.0) end(0.0) with(0.0) this(0.0) message(0.0) :(0.0) What(0.0) alcohol(1.0) did(0.0) to(0.0) our(0.0) Native(1.0) Americans(1.0) in(0.0) the(0.0) late(0.0) 1800s(1.0) is(0.0) now(0.0) what(0.0) 
+is(0.0) occurring(0.0) with(0.0) the(0.0) methamphetamine(1.0) pandemic(1.0) across(0.0) Indian(0.0) country(0.0) in(0.0) our(0.0) Nation(1.0) .(0.0) These(0.0) gentlemen(0.0) and(0.0) their(0.0) committees(0.0) stand(0.0) in(0.0) 
+the(0.0) gap(0.0) to(0.0) stop(0.0) that(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) The(0.0) Acting(0.0) 
+CHAIRMAN(0.0) .(0.0) The(0.0) question(0.0) is(0.0) on(0.0) the(0.0) amendment(1.0) offered(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) Arizona(0.0) ((0.0) Mr.(0.0) Renzi(1.0) )(0.0) .(0.0) The(0.0) 
+amendment(0.0) was(0.0) agreed(0.0) to(0.0) .(0.0) Amendment(1.0) No(0.0) .(0.0) 15(0.0) Offered(0.0) by(0.0) Mr.(0.0) Souder(1.0) 
+
+
+----- below are rationale words -----
+
+Maryland	
+bipartisanship	party	
+Arizona	
+alcohol	Native	Americans	1800s	
+methamphetamine	pandemic	Nation	
+Chairman	
+amendment	Renzi	
+Amendment	Souder	
+
+reads % = 0.1038961038961039

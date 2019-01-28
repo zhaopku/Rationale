@@ -1,0 +1,20 @@
+This is from a Republican
+----- below is the original text -----
+Reclaiming(1.0) my(0.0) time(0.0) ,(0.0) let(0.0) me(0.0) make(0.0) correct(0.0) the(0.0) terminology(0.0) to(0.0) the(0.0) degree(0.0) that(0.0) we(0.0) are(0.0) not(0.0) taking(0.0) money(1.0) out(0.0) of(0.0) 
+that(0.0) .(0.0) What(0.0) that(0.0) $(0.0) 270(0.0) billion(1.0) figure(0.0) represents(0.0) is(0.0) the(0.0) projected(1.0) growth(1.0) at(0.0) the(0.0) 11-percent(1.0) inflation(1.0) rate(1.0) range(0.0) ,(0.0) 
+and(0.0) for(0.0) us(0.0) to(0.0) have(0.0) private(0.0) sector(0.0) inflation(1.0) rate(1.0) in(0.0) the(0.0) 4-percent(1.0) range(0.0) and(0.0) public(1.0) Federal(1.0) health(1.0) care(1.0) and(0.0) Medicare(1.0) 
+at(0.0) 11-percent(1.0) range(0.0) is(0.0) totally(0.0) inefficient(1.0) .(0.0) What(0.0) we(0.0) want(0.0) to(0.0) do(0.0) ,(0.0) as(0.0) a(0.0) way(0.0) to(0.0) reduce(1.0) that(0.0) growth(1.0) 
+rate(1.0) ,(0.0) is(0.0) to(0.0) increase(1.0) the(0.0) competition(0.0) and(0.0) replace(0.0) that(0.0) 1964(1.0) model(0.0) with(0.0) a(0.0) 1995(0.0) model(0.0) which(0.0) will(0.0) save(0.0) and(0.0) 
+protect(1.0) and(0.0) preserve(1.0) Medicare(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+money	
+billion	projected	growth	11-percent	inflation	rate	
+inflation	rate	4-percent	public	Federal	health	care	Medicare	
+11-percent	inefficient	reduce	growth	
+rate	increase	1964	
+protect	preserve	Medicare	
+
+reads % = 0.2358490566037736

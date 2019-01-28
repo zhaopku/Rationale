@@ -1,0 +1,38 @@
+This is from a Democrat
+----- below is the original text -----
+Chair(1.0) ,(0.0) I(0.0) rise(0.0) today(0.0) to(0.0) oppose(1.0) yet(0.0) another(0.0) attempt(0.0) at(0.0) rolling(0.0) back(0.0) workers(1.0) '(0.0) rights(1.0) ,(0.0) H.R(0.0) .(0.0) 3094(0.0) ,(0.0) 
+the(0.0) Election(1.0) Prevention(1.0) Act(0.0) .(0.0) This(0.0) assault(1.0) on(0.0) union(1.0) employees(1.0) is(0.0) anti-democratic(1.0) and(0.0) harmful(1.0) to(0.0) the(0.0) American(0.0) middle(1.0) class(1.0) .(0.0) 
+Instead(0.0) of(0.0) legislation(1.0) to(0.0) create(0.0) jobs(1.0) and(0.0) to(0.0) grow(0.0) the(0.0) American(0.0) workforce(1.0) ,(0.0) the(0.0) House(0.0) Majority(1.0) is(1.0) attempting(1.0) to(0.0) undermine(1.0) 
+worker(1.0) protections(1.0) and(0.0) put(0.0) workers(1.0) at(0.0) risk(0.0) .(0.0) It(0.0) is(0.0) a(0.0) strength(0.0) of(0.0) our(0.0) democracy(1.0) that(0.0) employees(0.0) have(0.0) the(0.0) freedom(1.0) 
+and(0.0) the(0.0) federal(1.0) statutory(1.0) right(0.0) to(0.0) choose(0.0) whether(0.0) or(0.0) not(0.0) to(0.0) be(0.0) represented(0.0) by(0.0) a(0.0) union(1.0) .(0.0) However(0.0) ,(0.0) this(0.0) 
+legislation(1.0) would(1.0) effectively(0.0) end(0.0) collective(1.0) bargaining(1.0) rights(1.0) by(0.0) putting(0.0) power(0.0) exclusively(0.0) in(0.0) the(0.0) hands(0.0) of(0.0) employers(1.0) .(0.0) It(0.0) gives(0.0) employers(1.0) 
+the(0.0) ability(0.0) to(0.0) delay(1.0) indefinitely(0.0) a(0.0) union(1.0) election(0.0) ,(0.0) allowing(0.0) for(0.0) intimidation(1.0) and(0.0) harassment(1.0) of(0.0) employees(1.0) .(0.0) It(0.0) does(0.0) nothing(0.0) 
+to(0.0) protect(0.0) workers(1.0) who(0.0) are(0.0) fired(0.0) ,(0.0) threatened(1.0) ,(0.0) or(0.0) interrogated(0.0) for(0.0) exercising(0.0) their(0.0) right(0.0) to(0.0) form(0.0) a(0.0) union(1.0) .(0.0) 
+It(0.0) also(0.0) prevents(0.0) individuals(0.0) to(0.0) choose(0.0) the(0.0) coworkers(0.0) with(0.0) whom(0.0) they(0.0) wish(0.0) to(0.0) seek(0.0) representation(1.0) .(0.0) Furthermore(0.0) ,(0.0) this(0.0) legislation(1.0) 
+incentivizes(1.0) wasteful(1.0) litigation(1.0) prior(0.0) to(0.0) union(1.0) elections(1.0) and(0.0) would(0.0) increase(1.0) taxpayer(1.0) costs(1.0) by(0.0) creating(0.0) a(0.0) backlog(1.0) of(0.0) required(0.0) findings(0.0) on(0.0) 
+superfluous(1.0) issues(0.0) .(0.0) Unions(1.0) have(0.0) helped(0.0) to(0.0) improve(0.0) the(0.0) wages(1.0) and(0.0) working(0.0) conditions(0.0) of(0.0) all(0.0) Americans(1.0) and(0.0) to(0.0) grow(0.0) the(0.0) 
+American(0.0) middle(1.0) class(1.0) .(0.0) This(0.0) war(1.0) on(0.0) union(1.0) employees(1.0) that(0.0) is(0.0) being(0.0) waged(1.0) in(0.0) states(1.0) across(0.0) the(0.0) country(1.0) and(0.0) here(0.0) 
+on(0.0) Capitol(1.0) Hill(1.0) must(0.0) not(0.0) continue(0.0) .(0.0) It(0.0) is(0.0) time(0.0) for(0.0) us(0.0) to(0.0) turn(0.0) our(0.0) efforts(1.0) to(0.0) strengthening(1.0) protections(1.0) for(0.0) 
+American(0.0) working(0.0) men(0.0) and(0.0) women(0.0) as(0.0) well(0.0) as(0.0) to(0.0) helping(0.0) those(0.0) outside(0.0) the(0.0) workforce(1.0) to(0.0) find(0.0) good(0.0) jobs(0.0) .(0.0) I(0.0) 
+urge(0.0) my(0.0) colleagues(0.0) to(0.0) vote(1.0) ``(0.0) no(0.0) .(0.0) ''(0.0) 
+
+
+----- below are rationale words -----
+
+oppose	workers	rights	
+Election	Prevention	assault	union	employees	anti-democratic	harmful	middle	class	
+legislation	jobs	workforce	Majority	is	attempting	undermine	
+worker	protections	workers	democracy	freedom	
+federal	statutory	union	
+legislation	would	collective	bargaining	rights	employers	employers	
+delay	union	intimidation	harassment	employees	
+workers	threatened	union	
+representation	legislation	
+incentivizes	wasteful	litigation	union	elections	increase	taxpayer	costs	backlog	
+superfluous	Unions	wages	Americans	
+middle	class	war	union	employees	waged	states	country	
+Capitol	Hill	efforts	strengthening	protections	
+workforce	
+vote	
+
+reads % = 0.2482758620689655

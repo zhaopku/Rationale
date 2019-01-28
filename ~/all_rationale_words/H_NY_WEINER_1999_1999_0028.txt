@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(1.0) ,(0.0) as(0.0) much(0.0) as(0.0) some(0.0) of(0.0) my(0.0) colleagues(1.0) would(0.0) like(0.0) this(0.0) to(0.0) be(0.0) a(0.0) debate(1.0) about(0.0) the(0.0) history(0.0) of(0.0) the(0.0) 
+second(0.0) amendment(1.0) ,(0.0) about(0.0) whether(0.0) or(1.0) not(0.0) we(0.0) should(0.0) govern(1.0) clubs(0.0) and(0.0) sticks(0.0) as(0.0) well(0.0) as(0.0) guns(0.0) ,(0.0) this(0.0) is(0.0) 
+a(0.0) very(0.0) simple(0.0) and(0.0) narrow(0.0) proposition(1.0) that(0.0) we(0.0) are(0.0) considering(1.0) today(0.0) ;(0.0) and(0.0) that(0.0) is(0.0) ,(0.0) if(0.0) a(0.0) person(0.0) walks(0.0) 
+into(0.0) a(0.0) shop(1.0) where(0.0) guns(0.0) are(0.0) sold(0.0) on(0.0) a(0.0) Friday(0.0) before(1.0) a(0.0) long(1.0) weekend(0.0) ,(0.0) and(0.0) they(0.0) want(1.0) to(0.0) purchase(0.0) 
+a(0.0) gun(0.0) ,(0.0) almost(0.0) instantly(0.0) 75(0.0) percent(1.0) of(0.0) those(0.0) people(0.0) that(0.0) walk(1.0) in(0.0) there(0.0) can(0.0) walk(0.0) out(0.0) with(0.0) that(0.0) gun(1.0) 
+with(0.0) no(1.0) problem(0.0) at(0.0) all(0.0) .(0.0) But(0.0) if(0.0) that(0.0) same(1.0) exact(1.0) person(0.0) walks(0.0) into(0.0) a(0.0) gun(0.0) show(1.0) ,(0.0) they(0.0) could(0.0) 
+also(1.0) walk(0.0) out(0.0) instantly(0.0) ,(0.0) 75(0.0) percent(1.0) of(0.0) them(0.0) .(0.0) It(0.0) is(0.0) what(1.0) happens(0.0) to(0.0) that(0.0) other(0.0) 30(0.0) percent(1.0) ,(0.0) 
+the(0.0) ones(1.0) where(0.0) a(0.0) flag(0.0) comes(0.0) up(0.0) on(0.0) that(0.0) Friday(0.0) and(0.0) we(0.0) are(0.0) unable(1.0) to(0.0) determine(1.0) why(0.0) it(0.0) is(0.0) that(0.0) 
+that(0.0) person(0.0) has(0.0) a(0.0) flag(0.0) .(0.0) Just(1.0) so(0.0) we(0.0) understand(0.0) here(0.0) ,(0.0) over(0.0) 300,000(0.0) people(0.0) have(0.0) walked(0.0) into(0.0) shops(0.0) and(0.0) 
+tried(0.0) to(0.0) buy(0.0) guns(0.0) that(0.0) were(0.0) not(1.0) entitled(1.0) to(0.0) have(0.0) them(0.0) ,(0.0) criminals(1.0) ,(0.0) people(0.0) that(0.0) were(0.0) going(0.0) to(0.0) do(0.0) 
+wrong(0.0) with(0.0) them(0.0) ,(0.0) people(0.0) that(0.0) I(0.0) am(0.0) sure(1.0) our(0.0) Founding(1.0) Fathers(0.0) would(0.0) have(0.0) said(1.0) it(0.0) is(0.0) absurd(1.0) to(0.0) say(1.0) 
+that(0.0) someone(0.0) who(0.0) is(0.0) a(0.0) batterer(1.0) ,(0.0) someone(0.0) who(0.0) is(0.0) rapist(0.0) should(0.0) be(0.0) able(0.0) to(0.0) get(0.0) that(0.0) gun(0.0) .(0.0) I(1.0) 
+think(1.0) my(0.0) colleagues(1.0) on(0.0) the(0.0) other(0.0) side(0.0) of(0.0) the(0.0) aisle(1.0) understand(0.0) that(0.0) .(0.0) I(0.0) think(1.0) they(0.0) see(0.0) the(0.0) value(0.0) of(0.0) 
+that(0.0) .(0.0) All(0.0) that(0.0) we(0.0) are(0.0) saying(0.0) today(0.0) with(0.0) the(0.0) MCCarthy(1.0) amendment(1.0) ,(0.0) all(0.0) we(0.0) are(0.0) saying(0.0) today(0.0) in(0.0) rejecting(1.0) 
+the(0.0) Hyde(1.0) amendment(1.0) and(0.0) rejecting(1.0) the(0.0) Dingell(1.0) amendment(1.0) is(0.0) make(0.0) it(0.0) exactly(1.0) the(0.0) same(1.0) for(0.0) a(0.0) customer(1.0) walking(0.0) into(0.0) a(0.0) 
+gun(0.0) show(1.0) .(0.0) Just(1.0) make(0.0) the(0.0) rules(0.0) consistent(0.0) .(0.0) Let(1.0) us(0.0) take(0.0) that(0.0) 30(0.0) percent(1.0) or(1.0) so(0.0) and(0.0) say(1.0) ,(0.0) 
+``(1.0) Do(0.0) you(0.0) know(1.0) what(0.0) ,(0.0) let(0.0) us(0.0) wait(0.0) and(0.0) find(1.0) out(0.0) why(0.0) you(0.0) have(0.0) a(0.0) flag(0.0) .(0.0) ''(0.0) What(0.0) 
+is(0.0) the(0.0) harm(0.0) in(0.0) leveling(1.0) that(0.0) playing(0.0) field(0.0) ?(1.0) That(0.0) is(0.0) all(0.0) we(0.0) are(0.0) asking(0.0) today(0.0) .(0.0) For(0.0) those(0.0) of(0.0) 
+my(0.0) friends(1.0) who(0.0) are(0.0) avid(0.0) gun(1.0) users(0.0) who(0.0) represent(1.0) districts(0.0) where(0.0) guns(0.0) are(0.0) purchased(0.0) heavily(1.0) ,(0.0) I(0.0) would(1.0) ask(0.0) them(0.0) 
+to(0.0) ask(0.0) their(0.0) gun(0.0) shop(1.0) owners(0.0) why(0.0) it(0.0) is(0.0) they(0.0) would(1.0) be(0.0) dealt(0.0) with(0.0) a(0.0) different(1.0) playing(0.0) field(0.0) than(0.0) those(0.0) 
+who(1.0) are(0.0) in(0.0) the(0.0) gun(0.0) show(1.0) .(0.0) What(0.0) is(0.0) the(0.0) rationale(1.0) ?(0.0) The(0.0) rationale(1.0) is(0.0) plain(0.0) and(0.0) simple(0.0) ,(0.0) I(0.0) 
+would(1.0) say(1.0) to(0.0) the(0.0) opponents(1.0) of(0.0) the(0.0) MCCarthy(1.0) amendment(1.0) .(0.0) The(0.0) National(0.0) Rifle(0.0) Association(0.0) says(0.0) they(0.0) do(0.0) not(1.0) want(1.0) it(0.0) 
+;(0.0) therefore(1.0) ,(0.0) we(0.0) are(0.0) not(1.0) going(0.0) to(0.0) do(0.0) it(0.0) here(0.0) .(0.0) That(0.0) does(0.0) not(0.0) make(0.0) sense(0.0) .(0.0) Over(0.0) 300,000(1.0) 
+criminals(0.0) have(0.0) been(0.0) prevented(1.0) from(0.0) getting(0.0) guns(0.0) at(0.0) shops(1.0) .(0.0) Let(1.0) us(0.0) stop(0.0) them(0.0) at(0.0) gun(0.0) shows(1.0) as(0.0) well(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+colleagues	debate	
+amendment	or	govern	
+proposition	considering	
+shop	before	long	want	
+percent	walk	gun	
+no	same	exact	show	
+also	percent	what	percent	
+ones	unable	determine	
+Just	
+not	entitled	criminals	
+sure	Founding	said	absurd	say	
+batterer	I	
+think	colleagues	aisle	think	
+MCCarthy	amendment	rejecting	
+Hyde	amendment	rejecting	Dingell	amendment	exactly	same	customer	
+show	Just	Let	percent	or	say	
+``	know	find	
+leveling	?	
+friends	gun	represent	heavily	would	
+shop	would	different	
+who	show	rationale	rationale	
+would	say	opponents	MCCarthy	amendment	not	want	
+therefore	not	300,000	
+prevented	shops	Let	shows	
+
+
+reads % = 0.18295218295218296

@@ -1,0 +1,10 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) ask(0.0) unanimous(1.0) consent(0.0) that(0.0) I(0.0) be(0.0) recognized(0.0) ahead(0.0) of(0.0) Ms.(0.0) Jackson-Lee(1.0) for(1.0) 5(0.0) minutes(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+unanimous	Jackson-Lee	for	
+
+reads % = 0.16666666666666666

@@ -1,0 +1,34 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) to(0.0) salute(0.0) the(0.0) great(0.0) work(0.0) done(0.0) by(0.0) the(0.0) Alameda(1.0) County(0.0) Family(0.0) Justice(0.0) Center(0.0) ,(0.0) a(0.0) nonprofit(1.0) 
+organization(0.0) in(0.0) California(1.0) 's(0.0) East(0.0) Bay(0.0) ,(0.0) which(0.0) represents(0.0) my(0.0) district(0.0) .(0.0) I(0.0) was(0.0) an(0.0) Alameda(1.0) County(1.0) prosecutor(0.0) ,(0.0) and(0.0) 
+it(0.0) was(0.0) during(0.0) my(0.0) tenure(0.0) that(0.0) the(0.0) Justice(1.0) Center(0.0) was(0.0) founded(0.0) by(0.0) my(0.0) former(0.0) boss(0.0) ,(0.0) Alameda(1.0) County(1.0) District(0.0) Attorney(1.0) 
+Nancy(1.0) O'Malley(1.0) .(0.0) Prior(0.0) to(0.0) its(0.0) existence(0.0) ,(0.0) people(0.0) in(0.0) my(0.0) area(0.0) subjected(0.0) to(0.0) domestic(0.0) violence(0.0) ,(0.0) human(0.0) trafficking(1.0) ,(0.0) 
+or(0.0) sexual(0.0) assault(0.0) had(0.0) to(0.0) navigate(0.0) a(0.0) complicated(0.0) bureaucracy(1.0) and(0.0) go(0.0) to(0.0) many(0.0) different(0.0) places(0.0) to(0.0) obtain(0.0) much-needed(1.0) services(0.0) .(0.0) 
+The(0.0) Justice(1.0) Center(0.0) changed(0.0) that(0.0) by(0.0) coordinating(0.0) and(0.0) centralizing(1.0) critical(0.0) programs(1.0) in(0.0) just(0.0) one(0.0) place(0.0) .(0.0) It(0.0) operates(0.0) as(0.0) a(0.0) 
+one-place(1.0) location(0.0) for(0.0) victims(1.0) of(0.0) domestic(1.0) violence(1.0) ,(0.0) sexual(1.0) assault(1.0) ,(0.0) and(0.0) human(0.0) trafficking(1.0) ,(0.0) offering(0.0) services(0.0) like(0.0) counseling(1.0) ,(0.0) 
+job(0.0) training(0.0) ,(0.0) and(0.0) housing(1.0) .(0.0) Those(0.0) suffering(0.0) at(0.0) the(0.0) hands(0.0) of(0.0) abusers(1.0) now(0.0) have(0.0) a(0.0) place(0.0) to(0.0) rest(0.0) ,(0.0) 
+recover(0.0) ,(0.0) and(0.0) restore(1.0) their(0.0) lives(0.0) .(0.0) As(0.0) a(0.0) prosecutor(0.0) ,(0.0) I(0.0) saw(0.0) the(0.0) horrible(0.0) damage(0.0) that(0.0) these(0.0) crimes(1.0) cause(0.0) 
+,(0.0) and(0.0) I(0.0) am(0.0) grateful(0.0) that(0.0) the(0.0) traumatized(0.0) victims(1.0) of(0.0) the(0.0) East(0.0) Bay(0.0) have(0.0) the(0.0) Justice(0.0) Center(0.0) to(0.0) which(0.0) they(0.0) 
+can(0.0) turn(0.0) .(0.0) In(0.0) a(0.0) few(0.0) days(0.0) it(0.0) 's(0.0) holding(0.0) its(0.0) sixth(0.0) annual(0.0) fundraising(0.0) gala(0.0) called(0.0) One(0.0) .(0.0) I(0.0) want(0.0) 
+to(0.0) take(0.0) this(0.0) opportunity(0.0) to(0.0) wish(0.0) everyone(0.0) involved(0.0) good(0.0) luck(0.0) with(0.0) the(0.0) event(0.0) and(0.0) continued(0.0) success(0.0) in(0.0) helping(0.0) all(0.0) victims(1.0) 
+of(0.0) the(0.0) East(0.0) Bay(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Alameda	nonprofit	
+California	Alameda	County	
+Justice	Alameda	County	Attorney	
+Nancy	O'Malley	trafficking	
+bureaucracy	much-needed	
+Justice	centralizing	programs	
+one-place	victims	domestic	violence	sexual	assault	trafficking	counseling	
+housing	abusers	
+restore	crimes	
+victims	
+
+victims	
+
+
+reads % = 0.12601626016260162

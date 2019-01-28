@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) before(0.0) the(0.0) end(0.0) of(0.0) the(0.0) 106th(0.0) Congress(0.0) ,(0.0) I(0.0) am(0.0) hopeful(0.0) to(0.0) be(0.0) able(0.0) to(0.0) pass(0.0) a(0.0) comprehensive(0.0) pipeline(1.0) 
+safety(1.0) bill(1.0) .(0.0) On(0.0) September(0.0) 7(0.0) ,(0.0) the(0.0) Senate(0.0) unanimously(0.0) passed(0.0) the(0.0) Pipeline(1.0) Safety(0.0) Improvement(0.0) Act(0.0) of(0.0) 2000(0.0) .(0.0) This(0.0) 
+bill(1.0) is(0.0) tough(0.0) and(0.0) has(0.0) many(0.0) public(1.0) safety(0.0) provisions(0.0) .(0.0) For(0.0) example(0.0) ,(0.0) the(0.0) daily(0.0) penalty(0.0) for(0.0) a(0.0) violation(1.0) of(0.0) 
+regulations(1.0) increases(1.0) from(0.0) $(0.0) 25,000(0.0) a(0.0) day(0.0) to(0.0) $(0.0) 500,000(0.0) a(0.0) day(0.0) .(0.0) In(0.0) addition(0.0) ,(0.0) pipeline(1.0) companies(1.0) must(0.0) now(0.0) 
+report(0.0) spills(1.0) in(0.0) excess(1.0) of(0.0) five(0.0) gallons(1.0) as(0.0) opposed(1.0) to(0.0) 50(0.0) barrels(1.0) or(0.0) 2,100(0.0) gallons(1.0) under(0.0) current(0.0) law(1.0) .(0.0) Other(0.0) 
+provisions(1.0) in(0.0) this(0.0) bill(1.0) require(1.0) pipeline(1.0) companies(1.0) to(0.0) have(0.0) a(0.0) detailed(0.0) pipeline(1.0) integrity(0.0) plan(1.0) as(0.0) well(0.0) as(0.0) mandating(1.0) stronger(0.0) training(0.0) 
+and(0.0) qualification(0.0) requirements(0.0) .(0.0) The(0.0) bill(1.0) also(0.0) strengthens(0.0) the(0.0) public's(0.0) right(0.0) to(0.0) know(0.0) and(0.0) provides(0.0) whistle-blower(1.0) protections(1.0) for(0.0) pipeline(1.0) employees(1.0) 
+.(0.0) I(0.0) believe(0.0) this(0.0) bill(1.0) is(0.0) a(0.0) good(0.0) start(0.0) .(0.0) Although(0.0) I(0.0) would(0.0) still(0.0) like(0.0) to(0.0) include(0.0) other(0.0) public(1.0) safety(0.0) 
+protections(1.0) ,(0.0) I(0.0) understand(0.0) the(0.0) need(0.0) for(0.0) a(0.0) pipeline(1.0) safety(0.0) bill(1.0) this(0.0) year(0.0) .(0.0) I(0.0) look(0.0) forward(0.0) to(0.0) working(0.0) with(0.0) 
+my(0.0) colleagues(0.0) on(0.0) the(0.0) Committee(0.0) on(0.0) Commerce(0.0) that(0.0) I(0.0) serve(0.0) on(0.0) but(0.0) also(0.0) in(0.0) the(0.0) Committee(0.0) on(0.0) Transportation(0.0) and(0.0) Infrastructure(0.0) 
+if(0.0) necessary(0.0) to(0.0) move(0.0) even(0.0) more(0.0) legislation(1.0) ,(0.0) stronger(0.0) legislation(1.0) next(0.0) year(0.0) .(0.0) Pipelines(1.0) have(0.0) been(0.0) shown(0.0) to(0.0) be(0.0) a(0.0) 
+much(0.0) safer(0.0) way(0.0) to(0.0) transport(0.0) products(0.0) than(0.0) trucks(0.0) or(0.0) other(0.0) methods(0.0) and(0.0) the(0.0) current(0.0) bill(1.0) increases(1.0) that(0.0) safety(0.0) factor(0.0) .(0.0) 
+I(0.0) have(0.0) also(0.0) been(0.0) working(0.0) with(0.0) several(0.0) of(0.0) my(0.0) Texas(1.0) colleagues(0.0) and(0.0) colleagues(0.0) in(0.0) the(0.0) southwestern(1.0) United(0.0) States(0.0) to(0.0) secure(0.0) 
+Federal(1.0) approval(0.0) of(0.0) a(0.0) project(0.0) called(0.0) the(0.0) Longhorn(0.0) Pipeline(0.0) .(0.0) The(0.0) Longhorn(0.0) Pipeline(0.0) begins(0.0) at(0.0) Galena(0.0) Park(0.0) ,(0.0) Texas(1.0) ,(0.0) 
+in(0.0) east(0.0) Harris(0.0) County(1.0) in(0.0) the(0.0) district(0.0) I(0.0) represent(0.0) and(0.0) goes(0.0) across(0.0) Texas(1.0) for(0.0) approximately(0.0) 700(0.0) miles(0.0) to(0.0) El(0.0) Paso(0.0) 
+,(0.0) Texas(1.0) .(0.0) This(0.0) pipeline(1.0) is(0.0) intended(0.0) to(0.0) carry(0.0) refined(0.0) petroleum(1.0) production(0.0) from(0.0) Houston(1.0) to(0.0) southwest(1.0) markets(1.0) of(0.0) the(0.0) United(0.0) 
+States(0.0) in(0.0) El(0.0) Paso(1.0) and(0.0) Midland/Odessa(1.0) and(0.0) hopefully(0.0) beyond(0.0) .(0.0) After(0.0) much(0.0) delay(0.0) ,(0.0) the(0.0) Federal(1.0) Government(1.0) now(0.0) seems(0.0) to(0.0) 
+be(0.0) willing(0.0) to(0.0) move(0.0) forward(0.0) in(0.0) the(0.0) process(0.0) .(0.0) George(0.0) Frampton(1.0) ,(0.0) chair(0.0) of(0.0) the(0.0) Council(0.0) on(0.0) Environmental(0.0) Quality(0.0) ,(0.0) 
+has(0.0) recommended(0.0) the(0.0) EPA(1.0) and(0.0) the(0.0) Department(0.0) of(0.0) Transportation(0.0) to(0.0) include(0.0) the(0.0) analysis(0.0) of(0.0) the(0.0) Longhorn(0.0) Pipeline(0.0) project(0.0) by(0.0) finishing(0.0) 
+the(0.0) environmental(1.0) assessment(0.0) .(0.0) The(0.0) many(0.0) studies(0.0) and(0.0) analyses(0.0) conducted(0.0) by(0.0) the(0.0) Federal(1.0) Government(1.0) indicate(0.0) that(0.0) the(0.0) extensive(0.0) mitigation(1.0) plan(0.0) 
+supports(0.0) this(0.0) action(1.0) .(0.0) The(0.0) Longhorn(1.0) Mitigation(1.0) Plan(0.0) protects(0.0) the(0.0) environment(0.0) and(0.0) all(0.0) the(0.0) people(0.0) along(0.0) the(0.0) pipeline(1.0) route(0.0) and(0.0) 
+is(0.0) of(0.0) a(0.0) scope(0.0) and(0.0) rigor(0.0) unprecedented(1.0) in(0.0) the(0.0) pipeline(1.0) industry(1.0) .(0.0) It(0.0) includes(0.0) measures(1.0) designed(0.0) to(0.0) reduce(1.0) the(0.0) probability(0.0) 
+of(0.0) a(0.0) spill(1.0) as(0.0) well(0.0) as(0.0) measures(0.0) designed(0.0) to(0.0) provide(0.0) greater(0.0) protection(1.0) to(0.0) the(0.0) more(0.0) sensitive(0.0) areas(0.0) ,(0.0) including(0.0) areas(0.0) 
+where(0.0) communities(1.0) and(0.0) drinking(0.0) water(1.0) could(0.0) be(0.0) affected(0.0) .(0.0) The(0.0) Longhorn(1.0) Pipeline(0.0) meets(0.0) or(0.0) exceeds(0.0) current(0.0) statutory(1.0) ,(0.0) regulatory(1.0) and(0.0) 
+industry(0.0) standards(1.0) .(0.0) The(0.0) pipeline(1.0) would(0.0) be(0.0) the(0.0) safest(0.0) in(0.0) the(0.0) history(0.0) of(0.0) the(0.0) United(0.0) States(0.0) .(0.0) I(0.0) do(0.0) 
+
+
+----- below are rationale words -----
+
+pipeline	
+safety	bill	Pipeline	
+bill	public	violation	
+regulations	increases	pipeline	companies	
+spills	excess	gallons	opposed	barrels	gallons	law	
+provisions	bill	require	pipeline	companies	pipeline	plan	mandating	
+bill	whistle-blower	protections	pipeline	employees	
+bill	public	
+protections	pipeline	bill	
+
+legislation	legislation	Pipelines	
+bill	increases	
+Texas	southwestern	
+Federal	Texas	
+County	Texas	
+Texas	pipeline	petroleum	Houston	southwest	markets	
+Paso	Midland/Odessa	Federal	Government	
+Frampton	
+EPA	
+environmental	Federal	Government	mitigation	
+action	Longhorn	Mitigation	pipeline	
+unprecedented	pipeline	industry	measures	reduce	
+spill	protection	
+communities	water	Longhorn	statutory	regulatory	
+standards	pipeline	
+
+reads % = 0.162

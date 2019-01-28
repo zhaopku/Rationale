@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) this(0.0) Democratic(1.0) motion(1.0) to(0.0) recommit(1.0) solves(1.0) the(0.0) problem(0.0) .(0.0) We(0.0) hope(0.0) we(0.0) can(0.0) get(0.0) support(0.0) from(0.0) the(0.0) majority(1.0) of(0.0) 
+the(0.0) body(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Democratic	motion	recommit	solves	majority	
+Speaker	
+
+reads % = 0.16666666666666666

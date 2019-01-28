@@ -1,0 +1,24 @@
+This is from a Republican
+----- below is the original text -----
+((0.0) Mr.(0.0) SCHAEFER(1.0) asked(0.0) and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) )(0.0) 2630(0.0) as(0.0) amended(0.0) directs(0.0) the(0.0) 
+Federal(0.0) Energy(0.0) Regulatory(0.0) Commission(0.0) to(0.0) extend(0.0) the(0.0) deadline(0.0) for(0.0) construction(0.0) of(0.0) a(0.0) hydroelectric(0.0) project(0.0) in(0.0) Illinois(0.0) .(0.0) This(0.0) 78-megawatt(0.0) project(0.0) 
+would(0.0) be(0.0) located(0.0) at(0.0) an(0.0) existing(0.0) Corps(0.0) of(0.0) Engineers(0.0) dam(0.0) on(0.0) the(0.0) Mississippi(0.0) River(0.0) ,(0.0) in(0.0) St.(1.0) Charles(0.0) County(1.0) ,(0.0) 
+MO(1.0) ,(0.0) and(0.0) Madison(1.0) County(1.0) ,(0.0) IL(0.0) .(0.0) There(0.0) was(0.0) a(0.0) previous(0.0) legislative(0.0) extension(0.0) of(0.0) the(0.0) construction(0.0) period(0.0) for(0.0) this(0.0) 
+project(0.0) in(0.0) the(0.0) 1991(0.0) highway(0.0) bill(0.0) .(0.0) There(0.0) is(0.0) good(0.0) reason(0.0) to(0.0) act(0.0) on(0.0) H.R(0.0) .(0.0) 2630(0.0) in(0.0) a(0.0) timely(0.0) 
+manner(0.0) ,(0.0) since(0.0) the(0.0) construction(0.0) deadline(0.0) expired(0.0) on(0.0) October(0.0) 15(0.0) ,(0.0) 1995(0.0) ,(0.0) and(0.0) FERC(1.0) has(0.0) issued(0.0) a(0.0) notice(0.0) of(0.0) 
+probable(0.0) termination(0.0) .(0.0) This(0.0) bill(0.0) was(0.0) introduced(0.0) by(0.0) our(0.0) colleague(0.0) ,(0.0) Representative(1.0) Jerry(1.0) Costello(1.0) of(0.0) Illinois(0.0) .(0.0) I(0.0) urge(0.0) my(0.0) 
+colleagues(0.0) to(0.0) support(0.0) H.R(0.0) .(0.0) 2630(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+SCHAEFER	
+
+St.	County	
+MO	Madison	County	
+
+FERC	
+Representative	Jerry	Costello	
+
+
+reads % = 0.06756756756756757

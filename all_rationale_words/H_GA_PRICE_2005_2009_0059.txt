@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(1.0) ,(0.0) reserving(1.0) the(0.0) right(1.0) to(0.0) object(1.0) ,(0.0) I(0.0) just(1.0) received(0.0) this(0.0) .(0.0) My(0.0) understanding(0.0) is(0.0) that(0.0) this(0.0) is(0.0) removing(1.0) the(0.0) 
+words(0.0) ``(0.0) executive(1.0) or(0.0) ''(0.0) among(0.0) those(0.0) individuals(0.0) who(0.0) would(0.0) come(0.0) under(0.0) the(0.0) jurisdiction(1.0) of(0.0) determining(1.0) what(0.0) compensation(1.0) ought(1.0) to(0.0) 
+be(0.0) or(1.0) performance(0.0) ought(1.0) to(0.0) be(0.0) ,(0.0) so(1.0) that(0.0) it(0.0) would(1.0) read(0.0) that(0.0) ``(1.0) any(1.0) employee(1.0) .(0.0) ''(0.0) Is(0.0) my(0.0) 
+understanding(0.0) correct(0.0) ?(0.0) Continuing(1.0) to(0.0) reserve(1.0) the(0.0) right(1.0) to(0.0) object(1.0) ,(0.0) my(0.0) sense(0.0) is(0.0) that(0.0) what(1.0) this(0.0) is(0.0) ,(0.0) is(0.0) 
+actually(1.0) a(0.0) clarifying(0.0) amendment(1.0) to(0.0) a(0.0) greater(0.0) intent(1.0) by(0.0) the(0.0) Members(0.0) on(0.0) the(0.0) majority(1.0) side(0.0) who(0.0) --(0.0) --(0.0) Chairman(1.0) ,(0.0) 
+I(0.0) am(0.0) pleased(1.0) to(0.0) yield(0.0) 2(0.0) minutes(1.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Nebraska(1.0) ((0.0) Mr.(0.0) Terry(1.0) )(0.0) .(0.0) The(0.0) CHAIR(0.0) .(0.0) 
+Does(1.0) the(0.0) gentleman(0.0) rise(0.0) in(0.0) opposition(1.0) to(0.0) the(0.0) amendment(1.0) ?(0.0) I(0.0) claim(1.0) the(0.0) time(0.0) in(0.0) opposition(1.0) to(0.0) the(0.0) amendment(1.0) .(0.0) 
+The(0.0) CHAIR(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) Georgia(1.0) is(0.0) recognized(0.0) for(0.0) 10(0.0) minutes(1.0) .(0.0) And(0.0) I(0.0) yield(0.0) 2(0.0) minutes(1.0) to(0.0) the(0.0) 
+gentleman(0.0) from(0.0) Nebraska(1.0) ((0.0) Mr.(0.0) Terry(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+reserving	right	object	just	removing	
+executive	jurisdiction	determining	compensation	ought	
+or	ought	so	would	``	any	employee	
+Continuing	reserve	right	object	what	
+actually	amendment	intent	majority	Chairman	
+pleased	minutes	Nebraska	Terry	
+Does	opposition	amendment	claim	opposition	amendment	
+Georgia	minutes	minutes	
+Nebraska	Terry	
+
+reads % = 0.2485207100591716

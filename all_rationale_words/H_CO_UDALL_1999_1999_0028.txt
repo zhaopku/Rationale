@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) wanted(0.0) to(0.0) take(0.0) this(0.0) opportunity(0.0) to(0.0) again(0.0) express(0.0) my(0.0) support(0.0) for(0.0) this(0.0) bill(1.0) .(0.0) I(0.0) also(0.0) want(0.0) to(0.0) 
+thank(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) ((0.0) Mr.(0.0) Packard(1.0) )(0.0) and(0.0) the(0.0) ranking(0.0) member(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Indiana(0.0) ((0.0) Mr.(0.0) 
+Visclosky(1.0) )(0.0) ,(0.0) for(0.0) working(0.0) with(0.0) me(0.0) and(0.0) my(0.0) colleague(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Arizona(1.0) ((0.0) Mr.(0.0) Salmon(1.0) )(0.0) on(1.0) 
+our(0.0) amendment(1.0) on(0.0) renewable(1.0) energy(1.0) .(0.0) I(0.0) am(0.0) glad(0.0) that(0.0) the(0.0) gentleman(0.0) has(0.0) agreed(0.0) to(0.0) accept(0.0) our(0.0) amendment(1.0) ,(0.0) and(0.0) 
+I(0.0) look(0.0) forward(0.0) to(0.0) discussing(0.0) it(0.0) in(0.0) more(0.0) detail(0.0) at(0.0) the(0.0) appropriate(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+bill	
+Packard	
+Visclosky	Arizona	Salmon	on	
+amendment	renewable	energy	amendment	
+
+
+reads % = 0.10526315789473684

@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) chairman(0.0) for(0.0) yielding(0.0) me(0.0) this(0.0) time(0.0) and(0.0) for(0.0) the(0.0) role(0.0) he(0.0) played(0.0) in(0.0) putting(0.0) this(0.0) excellent(0.0) 
+package(0.0) together(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) first(0.0) of(0.0) all(0.0) ,(0.0) let(0.0) me(0.0) just(0.0) say(0.0) that(0.0) any(0.0) speaker(0.0) here(0.0) on(0.0) the(0.0) 
+floor(0.0) today(0.0) who(0.0) says(0.0) that(0.0) this(0.0) bill(1.0) or(1.0) any(0.0) other(0.0) bill(1.0) that(0.0) the(0.0) Congress(0.0) passes(0.0) raids(1.0) the(0.0) Social(0.0) Security(0.0) trust(0.0) 
+fund(0.0) is(0.0) either(0.0) intentionally(0.0) misleading(0.0) the(0.0) public(1.0) or(0.0) is(0.0) exhibiting(0.0) a(0.0) lack(0.0) of(0.0) understanding(0.0) of(0.0) the(0.0) Social(0.0) Security(0.0) trust(0.0) fund(1.0) 
+,(0.0) the(0.0) Medicare(1.0) trust(0.0) fund(0.0) .(0.0) The(0.0) fact(0.0) is(0.0) that(0.0) is(0.0) not(0.0) true(0.0) ,(0.0) and(0.0) I(0.0) hope(0.0) that(0.0) we(0.0) will(0.0) 
+get(0.0) off(0.0) of(0.0) that(0.0) .(0.0) But(0.0) with(0.0) respect(0.0) to(0.0) the(0.0) bill(1.0) before(0.0) us(0.0) ,(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) it(0.0) is(0.0) clear(0.0) 
+that(0.0) our(0.0) country(1.0) continues(0.0) to(0.0) struggle(1.0) with(0.0) the(0.0) fact(0.0) that(0.0) our(0.0) domestic(1.0) energy(1.0) production(1.0) does(0.0) not(0.0) meet(0.0) our(0.0) demand(1.0) .(0.0) 
+The(0.0) time(0.0) is(0.0) now(0.0) for(0.0) Congress(0.0) to(0.0) pass(0.0) an(0.0) energy(1.0) policy(1.0) that(0.0) will(0.0) address(0.0) present(0.0) needs(0.0) and(0.0) secure(0.0) a(0.0) stable(0.0) 
+supply(0.0) of(0.0) power(0.0) for(0.0) the(0.0) future(0.0) ,(0.0) and(0.0) this(0.0) bill(1.0) accomplishes(1.0) those(0.0) goals(0.0) .(0.0) As(0.0) chairman(0.0) of(0.0) the(0.0) House(0.0) Committee(0.0) 
+on(0.0) Ways(0.0) and(0.0) Means(0.0) Subcommittee(0.0) on(0.0) Select(0.0) Revenue(0.0) Measures(0.0) ,(0.0) I(0.0) had(0.0) the(0.0) opportunity(0.0) to(0.0) help(0.0) find(0.0) energy(1.0) solutions(1.0) through(0.0) 
+our(0.0) Tax(1.0) Code(1.0) .(0.0) My(0.0) subcommittee(0.0) held(0.0) three(0.0) hearings(0.0) on(0.0) the(0.0) issue(0.0) ,(0.0) giving(0.0) us(0.0) an(0.0) opportunity(0.0) to(0.0) hear(0.0) from(0.0) 
+the(0.0) administration(1.0) ,(0.0) Members(0.0) of(0.0) Congress(0.0) ,(0.0) and(0.0) many(0.0) other(0.0) interested(0.0) parties(0.0) .(0.0) At(0.0) our(0.0) second(0.0) hearing(0.0) ,(0.0) I(0.0) outlined(0.0) 
+several(0.0) principles(1.0) which(0.0) should(0.0) be(0.0) adhered(0.0) to(0.0) in(0.0) formulating(1.0) a(0.0) national(0.0) energy(1.0) tax(1.0) policy(1.0) .(0.0) First(0.0) and(0.0) foremost(0.0) ,(0.0) our(0.0) 
+complex(0.0) problems(0.0) require(0.0) a(0.0) balanced(0.0) solution(0.0) .(0.0) We(0.0) have(0.0) heard(0.0) that(0.0) here(0.0) today(0.0) :(0.0) we(0.0) need(0.0) balance(0.0) .(0.0) We(0.0) have(0.0) 
+it(0.0) in(0.0) this(0.0) bill(1.0) ,(0.0) in(0.0) the(0.0) tax(1.0) portion(1.0) of(0.0) the(0.0) bill(0.0) .(0.0) Conservation(0.0) ,(0.0) renewable(1.0) ,(0.0) and(0.0) alternative(1.0) fuels(1.0) 
+,(0.0) and(0.0) expanded(0.0) production(0.0) of(0.0) traditional(0.0) fuels(1.0) ,(0.0) such(0.0) as(0.0) oil(1.0) and(0.0) gas(1.0) and(0.0) coal(1.0) ,(0.0) must(0.0) all(0.0) be(0.0) part(0.0) 
+of(0.0) the(0.0) solution(0.0) .(0.0) The(0.0) portion(0.0) of(0.0) the(0.0) energy(1.0) bill(1.0) passed(1.0) through(0.0) the(0.0) Committee(0.0) on(0.0) Ways(0.0) and(0.0) Means(0.0) is(0.0) faithful(0.0) 
+to(0.0) that(0.0) goal(0.0) of(0.0) a(0.0) balanced(0.0) solution(0.0) .(0.0) Conservation(0.0) plays(0.0) a(0.0) key(0.0) role(0.0) ,(0.0) with(0.0) expanded(0.0) incentives(1.0) for(0.0) solar(1.0) power(0.0) 
+,(0.0) fuel(1.0) cells(0.0) and(0.0) clean(1.0) cars(0.0) .(0.0) Alternative(1.0) fuels(1.0) receive(0.0) a(0.0) boost(0.0) ,(0.0) with(0.0) new(0.0) incentives(1.0) to(0.0) produce(0.0) electricity(1.0) from(0.0) 
+biomass(1.0) and(0.0) landfill(1.0) gases(1.0) .(0.0) This(0.0) legislation(1.0) also(0.0) encourages(1.0) production(0.0) through(0.0) modifications(0.0) to(0.0) the(0.0) existing(0.0) section(0.0) 29(0.0) program(1.0) ,(0.0) which(0.0) 
+has(0.0) been(0.0) very(0.0) successful(0.0) in(0.0) stimulating(0.0) the(0.0) production(0.0) of(0.0) oil(1.0) and(0.0) gas(1.0) from(0.0) tight(1.0) sands(1.0) and(0.0) other(0.0) difficult(0.0) areas(0.0) of(0.0) 
+production(1.0) .(0.0) At(0.0) our(0.0) hearings(1.0) ,(0.0) the(0.0) committee(0.0) heard(0.0) how(0.0) bottlenecks(1.0) in(0.0) distribution(1.0) were(0.0) a(0.0) significant(0.0) problem(0.0) .(0.0) A(0.0) stable(0.0) 
+supply(0.0) of(0.0) energy(1.0) is(0.0) only(0.0) of(0.0) use(0.0) if(0.0) we(0.0) can(0.0) get(0.0) it(0.0) to(0.0) where(0.0) it(0.0) is(0.0) needed(0.0) when(0.0) it(0.0) is(0.0) 
+needed(0.0) .(0.0) Accordingly(0.0) ,(0.0) the(0.0) bill(1.0) before(0.0) us(0.0) today(0.0) helps(0.0) utilities(1.0) spin(0.0) off(0.0) their(0.0) transmission(0.0) assets(1.0) to(0.0) ensure(0.0) they(0.0) are(0.0) 
+used(0.0) as(0.0) efficiently(0.0) as(0.0) possible(0.0) .(0.0) In(0.0) addition(0.0) ,(0.0) we(0.0) provide(0.0) faster(0.0) depreciation(1.0) for(0.0) oil(1.0) refining(1.0) properties(0.0) and(0.0) for(0.0) 
+
+
+----- below are rationale words -----
+
+
+Chairman	
+bill	or	bill	raids	
+public	fund	
+Medicare	
+bill	Chairman	
+country	struggle	domestic	energy	production	demand	
+energy	policy	
+bill	accomplishes	
+energy	solutions	
+Tax	Code	
+administration	
+principles	formulating	energy	tax	policy	
+
+bill	tax	portion	renewable	alternative	fuels	
+fuels	oil	gas	coal	
+energy	bill	passed	
+incentives	solar	
+fuel	clean	Alternative	fuels	incentives	electricity	
+biomass	landfill	gases	legislation	encourages	program	
+oil	gas	tight	sands	
+production	hearings	bottlenecks	distribution	
+energy	
+bill	utilities	assets	
+depreciation	oil	refining	
+
+reads % = 0.144

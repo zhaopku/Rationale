@@ -1,0 +1,56 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) S.(1.0) 1703(1.0) ,(0.0) which(0.0) passed(0.0) the(0.0) Senate(0.0) on(0.0) June(0.0) 16(0.0) ,(0.0) 1994(0.0) ,(0.0) is(0.0) legislation(0.0) introduced(0.0) by(0.0) Senator(1.0) 
+Paul(1.0) Sarbanes(1.0) to(0.0) expand(1.0) the(0.0) boundaries(0.0) of(0.0) Piscataway(1.0) Park(0.0) in(0.0) Charles(0.0) County(1.0) ,(0.0) MD(0.0) .(0.0) A(0.0) companion(0.0) bill(0.0) ,(0.0) H.R(0.0) 
+.(0.0) 3973(0.0) ,(0.0) was(0.0) introduced(0.0) by(0.0) Representative(1.0) Steny(1.0) Hoyer(1.0) .(0.0) Piscataway(1.0) Park(0.0) was(0.0) authorized(0.0) in(0.0) 1961(0.0) to(0.0) preserve(0.0) the(0.0) natural(0.0) 
+and(0.0) scenic(0.0) resources(0.0) of(0.0) the(0.0) Potomac(0.0) River(0.0) and(0.0) preserve(0.0) the(0.0) historic(1.0) overview(0.0) of(0.0) the(0.0) Maryland(0.0) shore(0.0) from(0.0) Mount(0.0) Vernon(0.0) ,(0.0) 
+home(0.0) to(0.0) the(0.0) United(0.0) States(0.0) '(0.0) first(0.0) President(0.0) ,(0.0) George(0.0) Washington(1.0) .(0.0) It(0.0) consists(0.0) of(0.0) 4,260(1.0) acres(0.0) ,(0.0) of(0.0) which(0.0) 
+some(0.0) 2,700(0.0) acres(0.0) are(0.0) protected(0.0) through(0.0) scenic(0.0) easements(1.0) .(0.0) Due(0.0) in(0.0) large(0.0) part(0.0) to(0.0) the(0.0) establishment(0.0) of(0.0) Piscataway(1.0) Park(0.0) ,(0.0) 
+the(0.0) historic(1.0) view(0.0) of(0.0) the(0.0) Maryland(0.0) shore(0.0) from(0.0) Mount(0.0) Vernon(0.0) has(0.0) changed(0.0) little(0.0) since(0.0) George(0.0) Washington(1.0) 's(0.0) presidency(0.0) .(0.0) In(0.0) 
+response(0.0) to(0.0) increasing(0.0) development(0.0) pressures(0.0) in(0.0) the(0.0) area(0.0) ,(0.0) the(0.0) Mount(0.0) Vernon(0.0) Ladies(1.0) Association(0.0) hired(0.0) a(0.0) consulting(0.0) firm(0.0) in(0.0) 1991(0.0) 
+to(0.0) conduct(0.0) a(0.0) study(0.0) of(0.0) the(0.0) viewshed(1.0) from(0.0) Mount(0.0) Vernon(0.0) .(0.0) The(0.0) analysis(0.0) showed(0.0) that(0.0) 98(0.0) percent(0.0) of(0.0) the(0.0) viewshed(1.0) 
+outside(0.0) of(0.0) Piscataway(1.0) Park(0.0) can(0.0) be(0.0) protected(0.0) by(0.0) local(0.0) low(0.0) density(0.0) zoning(1.0) which(0.0) controls(0.0) building(0.0) heights(0.0) .(0.0) This(0.0) study(0.0) also(0.0) 
+revealed(0.0) that(0.0) the(0.0) viewshed(1.0) would(0.0) be(0.0) diminished(0.0) if(0.0) development(0.0) occurred(0.0) on(0.0) certain(0.0) parcels(0.0) .(0.0) S.(0.0) 1703(0.0) would(0.0) expand(0.0) the(0.0) boundary(0.0) 
+of(0.0) Piscataway(1.0) Park(0.0) to(0.0) include(0.0) approximately(0.0) 163(0.0) acres(0.0) to(0.0) protect(0.0) the(0.0) historic(1.0) viewshed(1.0) from(0.0) Mount(0.0) Vernon(0.0) .(0.0) The(0.0) land(0.0) is(0.0) 
+located(0.0) between(0.0) Fort(0.0) Washington(1.0) Historical(0.0) Park(0.0) and(0.0) the(0.0) existing(0.0) Piscataway(0.0) Park(0.0) ,(0.0) both(0.0) managed(0.0) by(0.0) the(0.0) National(0.0) Park(0.0) Service(0.0) .(0.0) 
+Because(0.0) of(0.0) the(0.0) steep(0.0) slopes(0.0) of(0.0) the(0.0) three(0.0) parcels(0.0) and(0.0) their(0.0) location(0.0) directly(0.0) across(0.0) open(0.0) water(0.0) from(0.0) Mount(0.0) Vernon(0.0) ,(0.0) 
+any(0.0) development(0.0) of(0.0) these(0.0) parcels(0.0) would(0.0) significantly(0.0) detract(0.0) from(0.0) the(0.0) historic(1.0) view(0.0) .(0.0) The(0.0) parcels(0.0) also(0.0) support(0.0) a(0.0) variety(0.0) of(0.0) 
+wildlife(0.0) including(0.0) bald(0.0) eagles(0.0) ,(0.0) herons(0.0) ,(0.0) and(0.0) deer(0.0) and(0.0) include(0.0) some(0.0) prehistoric(0.0) archeological(0.0) sites(0.0) .(0.0) This(0.0) legislation(0.0) has(0.0) broad(0.0) 
+public(0.0) support(0.0) in(0.0) the(0.0) area(0.0) and(0.0) is(0.0) also(0.0) supported(0.0) by(0.0) the(0.0) administration(1.0) .(0.0) The(0.0) Committee(0.0) on(0.0) Natural(0.0) Resources(0.0) made(0.0) minor(0.0) 
+amendments(0.0) to(0.0) the(0.0) legislation(0.0) to(0.0) delete(0.0) the(0.0) word(0.0) ``(0.0) National(0.0) ''(0.0) from(0.0) the(0.0) bill(0.0) title(0.0) and(0.0) the(0.0) short(0.0) title(0.0) .(0.0) 
+The(0.0) original(0.0) statute(0.0) and(0.0) subsequent(0.0) statutes(0.0) as(0.0) well(0.0) as(0.0) all(0.0) National(0.0) Park(0.0) Service(0.0) informational(0.0) brochures(0.0) and(0.0) indexes(0.0) list(0.0) this(0.0) area(0.0) 
+as(0.0) Piscataway(1.0) Park(0.0) .(0.0) The(0.0) national(0.0) park(0.0) designation(0.0) is(0.0) reserved(0.0) for(0.0) only(0.0) those(0.0) areas(0.0) which(0.0) contain(0.0) a(0.0) variety(0.0) of(0.0) significant(0.0) 
+resources(0.0) and(0.0) encompass(0.0) large(0.0) land(0.0) or(0.0) water(0.0) areas(0.0) .(0.0) Piscataway(0.0) Park(0.0) is(0.0) not(0.0) such(0.0) an(0.0) area(0.0) and(0.0) should(0.0) not(0.0) be(0.0) 
+referred(0.0) to(0.0) as(0.0) such(0.0) in(0.0) law(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) this(0.0) is(0.0) a(0.0) worthy(0.0) measure(0.0) to(0.0) protect(0.0) an(0.0) important(0.0) historical(0.0) 
+and(0.0) natural(0.0) resource(0.0) and(0.0) I(0.0) urge(0.0) its(0.0) passage(1.0) today(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	S.	1703	Senator	
+Paul	Sarbanes	expand	Piscataway	County	
+Representative	Steny	Hoyer	Piscataway	
+historic	
+Washington	4,260	
+easements	Piscataway	
+historic	Washington	
+Ladies	
+viewshed	viewshed	
+Piscataway	zoning	
+viewshed	
+Piscataway	historic	viewshed	
+Washington	
+
+historic	
+
+administration	
+
+
+Piscataway	
+
+law	Speaker	
+passage	Speaker	
+
+
+reads % = 0.08008658008658008

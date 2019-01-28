@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(1.0) today(1.0) to(0.0) honor(1.0) the(0.0) glider(0.0) pilots(1.0) of(0.0) World(1.0) War(0.0) II(0.0) .(0.0) Glider(1.0) planes(1.0) were(0.0) lightweight(0.0) aircraft(1.0) without(0.0) 
+engines(0.0) that(0.0) were(0.0) used(0.0) to(0.0) drop(0.0) supplies(0.0) and(0.0) reinforcement(0.0) personnel(1.0) for(0.0) troops(0.0) and(0.0) surveillance(1.0) .(0.0) They(0.0) were(0.0) very(0.0) efficient(0.0) ,(0.0) 
+because(1.0) they(0.0) made(0.0) no(0.0) noise(0.0) and(0.0) could(0.0) fly(1.0) into(0.0) the(0.0) enemy(1.0) areas(0.0) undetected(1.0) .(0.0) The(0.0) gliders(0.0) would(1.0) be(0.0) towed(1.0) by(0.0) 
+larger(0.0) planes(1.0) in(0.0) order(0.0) to(0.0) take(0.0) off(0.0) ,(0.0) but(0.0) then(0.0) would(0.0) fly(1.0) and(0.0) land(0.0) on(0.0) their(0.0) own(0.0) .(0.0) The(0.0) glider(0.0) 
+pilots(1.0) flew(0.0) dangerous(0.0) missions(1.0) and(0.0) were(0.0) constantly(0.0) at(0.0) risk(0.0) for(0.0) being(0.0) shot(0.0) down(1.0) .(0.0) Glider(1.0) pilots(1.0) were(0.0) instrumental(0.0) in(0.0) the(1.0) 
+invasion(0.0) of(0.0) Normandy(0.0) on(0.0) D-Day(1.0) ,(0.0) despite(0.0) the(0.0) fact(0.0) that(0.0) pilots(1.0) had(0.0) to(0.0) improvise(0.0) on(0.0) landings(1.0) ,(0.0) since(0.0) no(0.0) known(0.0) 
+landing(0.0) strips(1.0) were(0.0) known(0.0) to(0.0) be(0.0) behind(0.0) enemy(1.0) lines(0.0) .(0.0) Later(1.0) in(0.0) the(0.0) war(1.0) ,(0.0) the(0.0) Germans(1.0) would(0.0) plant(1.0) wooden(0.0) 
+poles(0.0) in(0.0) open(0.0) fields(0.0) to(0.0) prevent(0.0) glider(0.0) pilots(1.0) from(0.0) landing(0.0) .(0.0) The(0.0) U.S.(0.0) Army(1.0) Air(1.0) Forces(1.0) began(0.0) training(0.0) glider(0.0) pilots(1.0) 
+in(0.0) 1942(1.0) .(0.0) The(0.0) program(0.0) quickly(0.0) grew(0.0) during(0.0) the(0.0) war(1.0) .(0.0) Eventually(1.0) ,(0.0) over(0.0) 6,500(1.0) men(0.0) were(0.0) trained(0.0) to(0.0) be(0.0) 
+glider(0.0) pilots(1.0) .(0.0) Throughout(1.0) World(0.0) War(0.0) II(0.0) ,(0.0) the(0.0) glider(0.0) pilots(1.0) flew(0.0) eight(0.0) successful(1.0) missions(1.0) .(0.0) The(0.0) glider(0.0) pilots(1.0) '(0.0) 
+first(0.0) mission(1.0) occurred(0.0) on(0.0) July(0.0) 19(0.0) ,(0.0) 1942(1.0) ,(0.0) Operation(1.0) Husky(1.0) ,(0.0) which(0.0) was(0.0) called(0.0) for(0.0) the(0.0) glider(0.0) pilots(1.0) to(0.0) 
+carry(0.0) British(0.0) airborne(1.0) troops(0.0) into(0.0) Sicily(1.0) .(0.0) Despite(1.0) the(0.0) heavy(0.0) casualties(0.0) from(0.0) landing(0.0) at(0.0) the(0.0) sea(0.0) ,(0.0) the(0.0) glider(0.0) pilots(1.0) 
+completed(0.0) their(0.0) mission(1.0) .(0.0) In(0.0) March(0.0) of(0.0) 1944(1.0) ,(0.0) the(0.0) glider(0.0) pilots(1.0) completed(0.0) Operation(1.0) Broadway(1.0) in(0.0) Burma(1.0) .(0.0) The(0.0) glider(0.0) 
+pilots(1.0) took(1.0) the(0.0) Japanese(1.0) completely(0.0) by(0.0) surprise(1.0) ,(0.0) carrying(0.0) troops(0.0) ,(0.0) airborne(1.0) engineers(0.0) and(0.0) equipment(0.0) by(0.0) night(0.0) .(0.0) They(0.0) seized(0.0) 
+and(0.0) prepared(0.0) landing(0.0) strips(1.0) for(0.0) forthcoming(0.0) transport(0.0) planes(1.0) and(0.0) evacuated(1.0) the(0.0) wounded(1.0) .(0.0) The(0.0) glider(0.0) pilots(1.0) accomplished(0.0) this(0.0) feat(0.0) in(0.0) 
+2(0.0) hours(0.0) ,(0.0) completing(0.0) a(0.0) mission(1.0) that(0.0) would(1.0) have(0.0) taken(0.0) 2(0.0) months(1.0) by(0.0) ambulance(1.0) .(0.0) Perhaps(0.0) the(0.0) most(1.0) famous(0.0) mission(1.0) 
+of(0.0) the(0.0) glider(0.0) pilots(1.0) was(0.0) the(0.0) Battle(0.0) of(0.0) Normandy(0.0) .(0.0) On(0.0) D-Day(1.0) the(0.0) glider(0.0) pilots(1.0) participated(1.0) in(0.0) the(0.0) largest(0.0) combined(0.0) 
+airborne(1.0) and(0.0) seaborne(1.0) invasion(0.0) in(0.0) history(0.0) .(0.0) They(1.0) carried(0.0) troops(0.0) of(0.0) the(0.0) 82nd(1.0) and(0.0) 101st(1.0) Airborne(1.0) Division(0.0) and(0.0) their(0.0) equipment(0.0) 
+to(0.0) landing(0.0) areas(0.0) behind(0.0) enemy(1.0) lines(0.0) .(0.0) Their(1.0) work(0.0) helped(0.0) to(0.0) secure(0.0) victory(0.0) in(0.0) World(0.0) War(0.0) II(0.0) .(0.0) Mr.(0.0) Speaker(1.0) 
+,(0.0) each(0.0) year(0.0) we(0.0) lose(0.0) more(0.0) and(0.0) more(0.0) of(0.0) these(0.0) courageous(1.0) veterans(1.0) .(0.0) I(0.0) believe(1.0) Congress(0.0) must(0.0) recognize(1.0) their(0.0) accomplishments(1.0) 
+for(0.0) the(0.0) future(0.0) generations(0.0) of(0.0) our(0.0) veterans(1.0) .(0.0) That(0.0) is(0.0) why(0.0) I(0.0) have(0.0) introduced(0.0) House(0.0) Concurrent(0.0) Resolution(0.0) 42(0.0) .(0.0) This(0.0) 
+bill(0.0) recognizes(0.0) the(0.0) glider(0.0) pilots(1.0) and(0.0) the(0.0) many(0.0) troops(0.0) who(0.0) put(0.0) their(0.0) lives(0.0) on(0.0) the(0.0) line(0.0) to(0.0) defend(0.0) the(0.0) ideas(1.0) 
+and(0.0) the(0.0) freedoms(1.0) of(0.0) our(0.0) country(1.0) .(0.0) All(0.0) of(0.0) our(0.0) glider(0.0) missions(1.0) were(0.0) successful(1.0) .(0.0) Unfortunately(1.0) ,(0.0) casualties(0.0) were(0.0) suffered(0.0) 
+.(0.0) On(0.0) March(0.0) 20(0.0) ,(0.0) ``(1.0) Silent(0.0) Wings(0.0) ,(0.0) ''(0.0) a(0.0) documentary(1.0) on(0.0) these(0.0) great(0.0) pilots(1.0) ,(0.0) will(0.0) be(0.0) released(1.0) 
+.(0.0) The(0.0) documentary(0.0) features(0.0) interviews(1.0) with(0.0) glider(0.0) pilots(1.0) ,(0.0) Members(0.0) of(0.0) Congress(0.0) and(0.0) media(1.0) icons(1.0) .(0.0) I(0.0) will(0.0) be(0.0) 
+
+
+----- below are rationale words -----
+
+rise	today	honor	pilots	World	Glider	planes	aircraft	
+personnel	surveillance	
+because	fly	enemy	undetected	would	towed	
+planes	fly	
+pilots	missions	down	Glider	pilots	the	
+D-Day	pilots	landings	
+strips	enemy	Later	war	Germans	plant	
+pilots	Army	Air	Forces	pilots	
+1942	war	Eventually	6,500	
+pilots	Throughout	pilots	successful	missions	pilots	
+mission	1942	Operation	Husky	pilots	
+airborne	Sicily	Despite	pilots	
+mission	1944	pilots	Operation	Broadway	Burma	
+pilots	took	Japanese	surprise	airborne	
+strips	planes	evacuated	wounded	pilots	
+mission	would	months	ambulance	most	mission	
+pilots	D-Day	pilots	participated	
+airborne	seaborne	They	82nd	101st	Airborne	
+enemy	Their	Speaker	
+courageous	veterans	believe	recognize	accomplishments	
+veterans	
+pilots	ideas	
+freedoms	country	missions	successful	Unfortunately	
+``	documentary	pilots	released	
+interviews	pilots	media	icons	
+
+reads % = 0.226

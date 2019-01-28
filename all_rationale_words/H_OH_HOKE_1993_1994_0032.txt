@@ -1,0 +1,36 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Chairman(1.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) time(0.0) to(0.0) me(0.0) .(0.0) I(0.0) just(1.0) wanted(0.0) to(0.0) add(0.0) an(0.0) anecdote(1.0) from(0.0) 
+last(1.0) summer(0.0) that(0.0) I(0.0) thought(1.0) might(0.0) be(0.0) of(0.0) interest(0.0) to(0.0) the(0.0) House(0.0) .(0.0) Then(1.0) Director(0.0) of(0.0) OMB(1.0) ,(0.0) Leon(1.0) Panetta(1.0) 
+,(0.0) was(0.0) in(0.0) Cleveland(1.0) for(0.0) a(0.0) roundtable(1.0) conference(0.0) .(0.0) He(0.0) is(0.0) now(0.0) ,(0.0) of(0.0) course(0.0) ,(0.0) the(1.0) President(1.0) 's(0.0) Chief(1.0) 
+of(0.0) Staff(1.0) .(0.0) We(0.0) were(0.0) talking(0.0) about(0.0) the(0.0) budget(0.0) .(0.0) And(0.0) I(0.0) said(1.0) we(0.0) ought(1.0) to(0.0) start(0.0) cutting(0.0) with(0.0) the(0.0) 
+Government(0.0) ,(0.0) the(0.0) Federal(1.0) Government(0.0) ,(0.0) ourselves(0.0) .(0.0) And(0.0) Mr.(0.0) Panetta(1.0) said(1.0) ,(0.0) ``(1.0) We(0.0) did(0.0) ,(0.0) we(0.0) cut(1.0) the(0.0) 
+pay(1.0) of(0.0) Federal(1.0) workers(1.0) .(0.0) ''(0.0) And(0.0) I(0.0) looked(1.0) at(0.0) him(0.0) and(0.0) I(0.0) said(1.0) ,(0.0) ``(1.0) That(0.0) is(0.0) not(1.0) true(0.0) 
+.(0.0) We(0.0) did(0.0) n't(0.0) cut(1.0) the(0.0) pay(1.0) of(0.0) Federal(1.0) workers(1.0) at(0.0) all(0.0) .(0.0) ''(0.0) He(0.0) said(1.0) ,(0.0) ``(1.0) Yes(1.0) ,(0.0) 
+we(0.0) have(0.0) decreased(0.0) the(0.0) amount(0.0) of(0.0) the(0.0) increase(1.0) .(0.0) ''(0.0) I(0.0) said(1.0) ,(0.0) ``(1.0) Mr.(0.0) Panetta(1.0) ,(0.0) when(0.0) you(1.0) say(1.0) 
+to(0.0) the(0.0) people(0.0) in(0.0) Parma(1.0) ,(0.0) OH(0.0) or(1.0) in(0.0) Rocky(1.0) River(0.0) that(0.0) you(1.0) have(0.0) cut(1.0) their(0.0) pay(1.0) ,(0.0) that(0.0) means(1.0) 
+that(0.0) if(0.0) they(0.0) made(0.0) $(0.0) 34,000(1.0) this(0.0) year(0.0) ,(0.0) they(0.0) will(0.0) make(0.0) $(0.0) 35,000(0.0) next(0.0) year(0.0) .(0.0) That(0.0) is(0.0) a(0.0) 
+pay(0.0) cut(1.0) .(0.0) It(0.0) is(0.0) not(1.0) a(0.0) decrease(0.0) in(0.0) an(0.0) increase(0.0) .(0.0) ''(0.0) Mr.(0.0) Panetta(1.0) looked(1.0) at(0.0) me(0.0) like(0.0) I(0.0) 
+was(0.0) from(0.0) another(0.0) planet(1.0) .(0.0) This(0.0) is(0.0) the(0.0) former(0.0) chairman(1.0) of(0.0) our(0.0) distinguished(0.0) Committee(0.0) on(0.0) the(0.0) Budget(0.0) .(0.0) That(0.0) is(0.0) 
+the(0.0) whole(0.0) problem(0.0) that(0.0) we(0.0) have(0.0) got(1.0) here(0.0) in(0.0) Washington(1.0) with(0.0) this(0.0) baseline(1.0) budgeting(1.0) .(0.0) I(0.0) call(0.0) it(0.0) the(0.0) dark(1.0) 
+alchemy(0.0) of(0.0) numbers(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	just	anecdote	
+last	thought	Then	OMB	Leon	Panetta	
+Cleveland	roundtable	the	President	Chief	
+Staff	said	ought	
+Federal	Panetta	said	``	cut	
+pay	Federal	workers	looked	said	``	not	
+cut	pay	Federal	workers	said	``	Yes	
+increase	said	``	Panetta	you	say	
+Parma	or	Rocky	you	cut	pay	means	
+34,000	
+cut	not	Panetta	looked	
+planet	chairman	
+got	Washington	baseline	budgeting	dark	
+
+
+reads % = 0.23018867924528302

@@ -1,0 +1,20 @@
+This is from a Democrat
+----- below is the original text -----
+Reclaiming(1.0) my(0.0) time(0.0) ,(0.0) I(0.0) am(0.0) glad(0.0) the(0.0) gentleman(0.0) ended(0.0) on(0.0) that(0.0) note(0.0) ,(0.0) because(0.0) further(0.0) to(0.0) remind(0.0) our(0.0) colleagues(0.0) ,(0.0) 
+the(0.0) President(1.0) 's(0.0) Leave(0.0) No(0.0) Child(0.0) Behind(0.0) bill(1.0) ,(0.0) H.R(0.0) .(0.0) 1(0.0) ,(0.0) the(0.0) flagship(0.0) bill(0.0) on(0.0) education(1.0) that(0.0) was(0.0) 
+passed(0.0) by(0.0) this(0.0) body(0.0) ,(0.0) had(0.0) $(0.0) 7(0.0) billion(1.0) in(0.0) the(0.0) President(1.0) 's(0.0) bill(0.0) for(0.0) education(1.0) ,(0.0) but(0.0) in(0.0) this(0.0) 
+bill(1.0) cutting(1.0) the(0.0) investment(1.0) in(0.0) education(1.0) leaves(0.0) millions(1.0) of(0.0) children(0.0) behind(0.0) .(0.0) So(0.0) it(0.0) is(0.0) a(0.0) high(0.0) priority(1.0) for(0.0) us(0.0) 
+,(0.0) and(0.0) we(0.0) look(0.0) forward(0.0) to(0.0) that(0.0) bill(1.0) coming(0.0) to(0.0) the(0.0) floor(0.0) .(0.0) Would(0.0) the(0.0) distinguished(0.0) majority(1.0) leader(0.0) tell(0.0) us(0.0) 
+when(0.0) the(0.0) bankruptcy(1.0) conference(0.0) report(0.0) would(0.0) be(0.0) scheduled(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+
+President	bill	education	
+billion	President	education	
+bill	cutting	investment	education	millions	priority	
+bill	majority	
+bankruptcy	
+
+reads % = 0.13636363636363635

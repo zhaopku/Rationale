@@ -1,0 +1,10 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) am(0.0) told(0.0) that(0.0) I(0.0) am(0.0) asking(0.0) permission(0.0) to(0.0) strike(1.0) the(0.0) last(0.0) word(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+strike	
+
+reads % = 0.0625

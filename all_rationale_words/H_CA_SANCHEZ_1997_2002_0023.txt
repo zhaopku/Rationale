@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) today(0.0) I(0.0) rise(0.0) to(0.0) invite(0.0) my(0.0) colleagues(0.0) to(0.0) join(0.0) me(0.0) in(0.0) celebrating(0.0) May(0.0) as(0.0) Asian/Pacific(1.0) American(0.0) Heritage(1.0) Month(0.0) .(0.0) 
+The(0.0) theme(0.0) of(0.0) this(0.0) year(0.0) 's(0.0) celebration(0.0) is(0.0) unity(1.0) and(0.0) freedom(1.0) ,(0.0) which(0.0) is(0.0) an(0.0) appropriate(0.0) reminder(0.0) that(0.0) America(1.0) is(0.0) 
+strong(0.0) when(0.0) people(0.0) of(0.0) all(0.0) cultures(0.0) and(0.0) backgrounds(0.0) unite(1.0) .(0.0) Asian(0.0) Americans(1.0) have(0.0) proudly(0.0) contributed(0.0) to(0.0) America(1.0) 's(0.0) culture(0.0) ,(0.0) 
+its(0.0) physical(0.0) landscape(0.0) ,(0.0) and(0.0) to(0.0) its(0.0) defense(1.0) .(0.0) Along(0.0) the(0.0) way(0.0) ,(0.0) Asian(0.0) Americans(1.0) have(0.0) had(0.0) to(0.0) endure(0.0) many(0.0) 
+hardships(0.0) ,(0.0) including(0.0) the(0.0) unnecessary(1.0) internment(1.0) of(0.0) 120,000(0.0) Japanese(0.0) Americans(1.0) during(0.0) World(0.0) War(0.0) II(0.0) and(0.0) the(0.0) exclusion(1.0) of(0.0) Chinese(0.0) immigrants(1.0) 
+beginning(0.0) in(0.0) 1882(0.0) .(0.0) The(0.0) lessons(0.0) we(0.0) learned(0.0) then(0.0) and(0.0) the(0.0) challenges(0.0) we(0.0) now(0.0) face(0.0) show(0.0) us(0.0) that(0.0) in(0.0) order(0.0) 
+to(0.0) maintain(0.0) the(0.0) freedoms(1.0) we(0.0) enjoy(0.0) today(0.0) ,(0.0) we(0.0) must(0.0) unite(1.0) as(0.0) a(0.0) country(0.0) and(0.0) face(0.0) our(0.0) challenges(1.0) together(0.0) as(0.0) 
+a(0.0) Nation(0.0) .(0.0) As(0.0) the(0.0) proud(0.0) representative(0.0) of(0.0) the(0.0) largest(0.0) Vietnamese(0.0) community(0.0) outside(0.0) of(0.0) Vietnam(0.0) ,(0.0) I(0.0) salute(0.0) my(0.0) constituents(1.0) 
+and(0.0) all(0.0) Asian/Pacific(1.0) Islander(1.0) Americans(1.0) during(0.0) the(0.0) month(0.0) of(0.0) May(0.0) for(0.0) their(0.0) contributions(1.0) and(0.0) achievements(0.0) that(0.0) have(0.0) helped(0.0) to(0.0) make(0.0) 
+America(1.0) strong(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Asian/Pacific	Heritage	
+unity	freedom	America	
+unite	Americans	America	
+defense	Americans	
+unnecessary	internment	Americans	exclusion	immigrants	
+
+freedoms	unite	challenges	
+constituents	
+Asian/Pacific	Islander	Americans	contributions	
+America	
+
+reads % = 0.13043478260869565

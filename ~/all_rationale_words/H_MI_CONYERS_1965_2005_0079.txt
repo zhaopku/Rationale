@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+It(0.0) is(0.0) very(0.0) critical(1.0) that(0.0) we(0.0) understand(0.0) whose(0.0) side(0.0) everyone(0.0) is(0.0) on(0.0) .(0.0) The(0.0) Center(0.0) for(0.0) Reproductive(1.0) Rights(1.0) ,(0.0) the(0.0) American(0.0) 
+Medical(1.0) Association(1.0) ,(0.0) the(0.0) American(0.0) College(0.0) of(0.0) Obstetricians(1.0) and(0.0) Gynecologists(1.0) ,(0.0) who(0.0) are(0.0) all(0.0) opposed(1.0) to(0.0) this(0.0) bill(0.0) ,(0.0) the(0.0) 
+American(0.0) College(0.0) of(0.0) Physicians(0.0) ,(0.0) the(0.0) American(0.0) Public(0.0) Health(1.0) Association(0.0) ,(0.0) Planned(1.0) Parenthood(1.0) ,(0.0) all(0.0) have(0.0) longstanding(1.0) policies(1.0) opposing(1.0) mandatory(0.0) 
+parental(1.0) involvement(1.0) laws(1.0) because(0.0) of(0.0) the(0.0) dangers(1.0) they(0.0) pose(1.0) to(0.0) young(0.0) women(1.0) and(0.0) the(0.0) need(0.0) for(0.0) confidential(0.0) access(0.0) to(0.0) physicians(1.0) 
+.(0.0) We(0.0) have(0.0) yet(1.0) to(0.0) have(0.0) anyone(0.0) explain(1.0) why(0.0) it(0.0) is(0.0) that(0.0) the(0.0) exception(1.0) for(0.0) health(1.0) is(0.0) not(1.0) included(0.0) in(0.0) 
+this(0.0) law(1.0) .(0.0) So(1.0) the(0.0) dangers(1.0) that(0.0) are(0.0) posed(1.0) to(0.0) young(0.0) women(0.0) in(0.0) H.R(0.0) .(0.0) 748(1.0) underscore(0.0) the(0.0) need(1.0) for(0.0) 
+confidential(0.0) access(0.0) to(0.0) physicians(1.0) .(0.0) It(0.0) is(0.0) absolutely(1.0) critical(1.0) that(0.0) we(0.0) realize(0.0) that(0.0) this(0.0) is(0.0) about(0.0) developing(0.0) more(0.0) human(0.0) regulations(1.0) 
+of(0.0) this(0.0) very(0.0) terrible(0.0) circumstance(1.0) .(0.0) Very(0.0) little(0.0) has(0.0) been(0.0) said(1.0) on(0.0) the(0.0) other(0.0) side(0.0) about(0.0) the(0.0) constitutional(1.0) concerns(0.0) and(0.0) 
+the(0.0) fact(1.0) that(0.0) we(0.0) refuse(1.0) to(0.0) recognize(1.0) that(0.0) the(0.0) lack(0.0) of(0.0) parental(1.0) notification(0.0) provisions(0.0) raise(1.0) at(0.0) least(1.0) three(0.0) serious(0.0) constitutional(1.0) 
+concerns(0.0) .(0.0) So(1.0) I(0.0) urge(1.0) the(1.0) Members(0.0) to(0.0) consider(0.0) how(1.0) much(0.0) more(0.0) Draconian(1.0) this(0.0) law(1.0) is(0.0) than(0.0) the(0.0) previous(0.0) bills(0.0) 
+that(0.0) have(0.0) been(0.0) on(0.0) the(0.0) floor(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) reserve(1.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+critical	Reproductive	Rights	
+Medical	Association	Obstetricians	Gynecologists	opposed	
+Health	Planned	Parenthood	longstanding	policies	opposing	
+parental	involvement	laws	dangers	pose	women	physicians	
+yet	explain	exception	health	not	
+law	So	dangers	posed	748	need	
+physicians	absolutely	critical	regulations	
+circumstance	said	constitutional	
+fact	refuse	recognize	parental	raise	least	constitutional	
+So	urge	the	how	Draconian	law	
+Chairman	reserve	time	
+
+reads % = 0.2511415525114155

@@ -1,0 +1,36 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) thank(0.0) the(0.0) very(0.0) fine(0.0) chairman(0.0) of(0.0) the(0.0) subcommittee(0.0) for(0.0) yielding(0.0) this(0.0) time(0.0) to(0.0) me(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) rise(0.0) 
+today(0.0) in(0.0) strong(0.0) opposition(1.0) to(0.0) the(0.0) private(0.0) property(0.0) provision(0.0) of(0.0) the(0.0) en(0.0) bloc(0.0) amendment(1.0) ,(0.0) and(0.0) in(0.0) support(0.0) of(0.0) the(0.0) 
+Regula(1.0) substitute(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) everyone(0.0) agrees(0.0) that(0.0) the(0.0) rights(1.0) of(0.0) private(0.0) property(0.0) owners(0.0) must(0.0) be(0.0) protected(0.0) and(0.0) preserved(0.0) 
+.(0.0) It(0.0) is(0.0) a(0.0) concept(0.0) that(0.0) is(0.0) fundamental(1.0) to(0.0) our(0.0) Nation(1.0) and(0.0) is(0.0) protected(0.0) by(0.0) the(0.0) Fifth(1.0) Amendment(1.0) to(0.0) the(0.0) 
+Constitution(1.0) .(0.0) The(0.0) American(0.0) Heritage(0.0) Partnership(1.0) Act(0.0) does(0.0) more(0.0) to(0.0) protect(0.0) the(0.0) rights(1.0) of(0.0) private(0.0) property(0.0) owners(0.0) than(0.0) any(0.0) piece(0.0) 
+of(0.0) legislation(1.0) in(0.0) recent(0.0) memory(0.0) .(0.0) American(0.0) Heritage(0.0) Areas(0.0) are(0.0) places(0.0) of(0.0) national(1.0) significance(0.0) that(0.0) deserve(1.0) special(0.0) attention(0.0) and(0.0) protection(0.0) 
+.(0.0) But(0.0) this(0.0) bill(1.0) gives(0.0) no(0.0) special(0.0) attention(0.0) or(0.0) protection(0.0) to(0.0) any(0.0) area(0.0) without(0.0) the(0.0) express(0.0) consent(0.0) of(0.0) the(0.0) local(0.0) 
+community(0.0) .(0.0) Each(0.0) American(0.0) Heritage(0.0) Area(0.0) is(0.0) developed(0.0) in(0.0) coordination(0.0) with(0.0) local(0.0) and(0.0) Federal(0.0) governments(1.0) ,(0.0) nonprofit(1.0) organizations(1.0) and(0.0) the(0.0) 
+private(0.0) sector(0.0) ,(0.0) and(0.0) funded(1.0) on(0.0) a(0.0) 1-to-1(0.0) matching(0.0) basis(0.0) .(0.0) All(0.0) decisions(0.0) on(0.0) the(0.0) management(0.0) of(0.0) these(0.0) areas(0.0) are(0.0) 
+dependent(0.0) upon(0.0) local(0.0) approval(0.0) .(0.0) Requiring(1.0) the(0.0) written(0.0) consent(0.0) of(0.0) each(0.0) landowner(0.0) within(0.0) a(0.0) proposed(0.0) American(0.0) Heritage(0.0) Area(0.0) is(0.0) a(0.0) 
+cynical(0.0) attempt(0.0) to(0.0) prevent(0.0) the(0.0) implementation(0.0) of(0.0) this(0.0) legislation(1.0) .(0.0) It(0.0) would(0.0) be(0.0) an(0.0) expensive(0.0) ,(0.0) time-consuming(1.0) process(0.0) that(0.0) would(0.0) 
+only(0.0) delay(0.0) the(0.0) needed(0.0) protection(1.0) for(0.0) these(0.0) historic(1.0) areas(0.0) .(0.0) The(0.0) American(0.0) Heritage(0.0) Protection(1.0) Act(0.0) and(0.0) the(0.0) fifth(0.0) amendment(0.0) to(0.0) 
+the(0.0) Constitution(1.0) ensure(0.0) that(0.0) the(0.0) rights(1.0) of(0.0) all(0.0) private(0.0) property(0.0) owners(0.0) are(0.0) protected(0.0) and(0.0) preserved(0.0) .(0.0) I(0.0) encourage(0.0) my(0.0) colleagues(0.0) 
+to(0.0) support(0.0) the(0.0) Regula(1.0) substitute(1.0) ,(0.0) and(0.0) to(0.0) support(0.0) the(0.0) American(0.0) Heritage(0.0) Areas(0.0) Protection(0.0) Act(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	
+opposition	amendment	
+Regula	substitute	Chairman	rights	
+fundamental	Nation	Fifth	Amendment	
+Constitution	Partnership	rights	
+legislation	national	deserve	
+bill	
+governments	nonprofit	organizations	
+funded	
+Requiring	
+legislation	time-consuming	
+protection	historic	Protection	
+Constitution	rights	
+Regula	substitute	
+
+reads % = 0.11552346570397112

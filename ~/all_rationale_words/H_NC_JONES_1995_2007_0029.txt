@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) in(0.0) just(1.0) a(0.0) matter(0.0) of(0.0) weeks(1.0) ,(0.0) thousands(0.0) of(0.0) Mexican(1.0) trucks(0.0) will(0.0) stream(0.0) across(0.0) America(0.0) 's(0.0) southern(0.0) border(0.0) and(0.0) 
+pour(1.0) onto(0.0) U.S.(0.0) highways(1.0) throughout(0.0) the(0.0) country(1.0) .(0.0) The(0.0) U.S.(0.0) Department(0.0) of(0.0) Transportation(1.0) has(0.0) given(0.0) 100(0.0) Mexican(1.0) trucking(1.0) companies(1.0) the(0.0) 
+green(1.0) light(0.0) to(0.0) unleash(1.0) an(0.0) unlimited(0.0) number(0.0) of(0.0) trucks(0.0) onto(0.0) the(0.0) highways(1.0) of(0.0) America(0.0) as(0.0) part(0.0) of(0.0) a(0.0) 1-year(1.0) pilot(0.0) 
+program(0.0) .(0.0) Right(0.0) now(0.0) ,(0.0) Mexican(1.0) trucks(0.0) are(0.0) only(0.0) permitted(1.0) to(0.0) travel(1.0) inside(0.0) a(0.0) 25-(1.0) mile(0.0) commercial(1.0) zone(1.0) along(0.0) the(0.0) 
+U.S.(0.0) border(0.0) ,(0.0) but(0.0) ,(0.0) soon(0.0) ,(0.0) thousands(0.0) of(0.0) Mexican(1.0) trucks(0.0) will(0.0) have(0.0) full(0.0) access(0.0) to(0.0) all(0.0) the(0.0) Nation(0.0) 's(0.0) 
+roads(1.0) .(0.0) Allowing(1.0) low-paid(0.0) drivers(1.0) and(0.0) substandard(1.0) trucks(0.0) to(0.0) travel(1.0) our(0.0) Nation(0.0) 's(0.0) roads(1.0) will(0.0) endanger(1.0) the(0.0) safety(1.0) of(0.0) American(0.0) 
+citizens(1.0) .(0.0) It(0.0) will(0.0) cost(0.0) thousands(0.0) of(0.0) American(0.0) jobs(1.0) .(0.0) As(0.0) an(0.0) extension(0.0) of(0.0) NAFTA(1.0) ,(0.0) this(0.0) program(0.0) is(0.0) just(1.0) 
+another(0.0) example(0.0) of(0.0) U.S.(0.0) trade(0.0) policies(1.0) that(0.0) fail(1.0) American(0.0) workers(1.0) .(0.0) Before(0.0) NAFTA(1.0) ,(0.0) our(0.0) Nation(0.0) ran(0.0) a(0.0) trade(1.0) surplus(1.0) 
+with(0.0) Mexico(1.0) .(0.0) Now(0.0) ,(0.0) the(0.0) U.S.(0.0) runs(0.0) a(0.0) $(0.0) 65(1.0) billion(1.0) annual(0.0) trade(1.0) deficit(1.0) with(0.0) Mexico(1.0) .(0.0) The(0.0) U.S.(0.0) 
+has(0.0) lost(0.0) 3(0.0) million(0.0) manufacturing(1.0) jobs(1.0) in(0.0) just(1.0) the(0.0) past(0.0) 6(0.0) years(0.0) .(0.0) Launching(1.0) this(0.0) pilot(0.0) program(0.0) in(0.0) the(0.0) name(1.0) 
+of(0.0) free(1.0) trade(0.0) is(0.0) just(1.0) one(0.0) more(0.0) example(0.0) of(0.0) how(1.0) our(0.0) government(1.0) continues(1.0) to(0.0) give(0.0) away(0.0) American(0.0) jobs(1.0) .(0.0) This(0.0) 
+program(0.0) will(0.0) not(1.0) only(0.0) hurt(1.0) the(0.0) economy(1.0) but(0.0) will(0.0) put(0.0) our(0.0) national(0.0) security(0.0) at(0.0) risk(0.0) .(0.0) The(0.0) Department(0.0) of(0.0) Transportation(1.0) 
+claims(0.0) that(0.0) all(0.0) of(0.0) these(0.0) Mexican(1.0) trucks(0.0) will(0.0) be(0.0) inspected(0.0) by(0.0) U.S.(0.0) officials(1.0) in(0.0) Mexico(1.0) and(0.0) at(0.0) the(0.0) border(0.0) ,(0.0) 
+but(0.0) ,(0.0) Mr.(1.0) Speaker(1.0) ,(0.0) less(0.0) than(0.0) 10(0.0) percent(1.0) of(0.0) all(0.0) Mexican(1.0) trucks(0.0) entering(1.0) the(0.0) commercial(1.0) zone(1.0) are(0.0) inspected(0.0) now(0.0) 
+,(0.0) only(0.0) 10(0.0) percent(1.0) .(0.0) The(0.0) U.S.(0.0) can(0.0) not(0.0) afford(0.0) to(0.0) send(0.0) inspectors(0.0) to(0.0) Mexico(0.0) when(0.0) only(0.0) a(0.0) fraction(1.0) of(0.0) 
+the(0.0) hundreds(1.0) of(0.0) thousands(0.0) of(0.0) U.S.(0.0) truck(0.0) companies(1.0) are(0.0) inspected(0.0) each(0.0) year(0.0) .(0.0) With(1.0) no(0.0) guaranteed(0.0) way(1.0) to(0.0) inspect(0.0) the(0.0) 
+cargo(1.0) of(0.0) each(0.0) and(0.0) every(0.0) truck(1.0) ,(0.0) this(0.0) program(0.0) could(0.0) easily(0.0) aid(0.0) terrorist(1.0) activities(0.0) ,(0.0) the(0.0) entry(0.0) of(0.0) illegal(1.0) drugs(0.0) 
+and(0.0) illegal(1.0) human(0.0) smuggling(1.0) .(0.0) Mr.(1.0) Speaker(1.0) ,(0.0) for(0.0) the(0.0) sake(1.0) of(0.0) appeasing(1.0) Mexico(0.0) ,(0.0) our(0.0) government(1.0) is(0.0) not(1.0) protecting(0.0) 
+the(0.0) national(0.0) security(0.0) of(0.0) this(0.0) country(1.0) and(0.0) the(0.0) future(0.0) of(0.0) our(0.0) economy(1.0) .(0.0) This(0.0) program(0.0) does(0.0) nothing(0.0) but(0.0) endanger(1.0) the(0.0) 
+safety(1.0) of(0.0) American(0.0) citizens(1.0) ,(0.0) and(0.0) it(0.0) is(0.0) unacceptable(1.0) .(0.0) I(0.0) hope(0.0) the(0.0) American(0.0) people(0.0) will(0.0) continue(1.0) to(0.0) contact(0.0) this(0.0) 
+administration(0.0) to(0.0) tell(0.0) them(0.0) of(0.0) their(0.0) outrage(1.0) and(0.0) disappointment(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) before(1.0) I(0.0) close(1.0) ,(0.0) this(0.0) is(0.0) from(0.0) 
+a(0.0) heading(0.0) in(0.0) an(0.0) eastern(1.0) North(0.0) Carolina(0.0) paper(0.0) that(0.0) says(1.0) ,(0.0) ``(1.0) Bush(1.0) Decision(1.0) on(0.0) Mexican(1.0) Trucks(1.0) Promotes(1.0) Era(0.0) .(0.0) 
+''(0.0) People(0.0) are(0.0) upset(1.0) and(0.0) mad(1.0) .(0.0) I(0.0) want(1.0) to(0.0) read(0.0) just(1.0) very(0.0) briefly(1.0) ,(0.0) ``(0.0) The(0.0) news(1.0) that(0.0) Mexican(1.0) 
+trucks(0.0) will(0.0) be(0.0) allowed(1.0) to(0.0) haul(1.0) freight(1.0) deep(0.0) into(0.0) the(0.0) United(0.0) States(0.0) drew(0.0) angry(1.0) reaction(0.0) Friday(0.0) from(0.0) labor(1.0) leaders(1.0) ,(0.0) 
+safety(1.0) advocates(1.0) and(0.0) Members(0.0) of(0.0) Congress(0.0) .(0.0) ''(1.0) They(0.0) said(1.0) ,(0.0) ``(1.0) Mexico(0.0) has(0.0) substandard(1.0) trucks(0.0) and(0.0) low-paid(1.0) drivers(1.0) 
+
+
+----- below are rationale words -----
+
+just	weeks	Mexican	
+pour	highways	country	Transportation	Mexican	trucking	companies	
+green	unleash	highways	1-year	
+Mexican	permitted	travel	25-	commercial	zone	
+Mexican	
+roads	Allowing	drivers	substandard	travel	roads	endanger	safety	
+citizens	jobs	NAFTA	just	
+policies	fail	workers	NAFTA	trade	surplus	
+Mexico	65	billion	trade	deficit	Mexico	
+manufacturing	jobs	just	Launching	name	
+free	just	how	government	continues	jobs	
+not	hurt	economy	Transportation	
+Mexican	officials	Mexico	
+Mr.	Speaker	percent	Mexican	entering	commercial	zone	
+percent	fraction	
+hundreds	companies	With	way	
+cargo	truck	terrorist	illegal	
+illegal	smuggling	Mr.	Speaker	sake	appeasing	government	not	
+country	economy	endanger	
+safety	citizens	unacceptable	continue	
+outrage	disappointment	Speaker	before	close	
+eastern	says	``	Bush	Decision	Mexican	Trucks	Promotes	
+upset	mad	want	just	briefly	news	Mexican	
+allowed	haul	freight	angry	labor	leaders	
+safety	advocates	''	said	``	substandard	low-paid	drivers	
+
+reads % = 0.258

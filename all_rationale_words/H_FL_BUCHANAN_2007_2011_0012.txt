@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) we(0.0) need(0.0) to(0.0) cut(1.0) spending(1.0) today(0.0) and(0.0) reduce(1.0) the(0.0) deficit(1.0) and(0.0) avoid(1.0) the(0.0) dangerous(1.0) prospects(1.0) of(0.0) putting(1.0) America(1.0) for(0.0) 
+the(0.0) first(0.0) time(0.0) in(0.0) default(0.0) .(0.0) The(0.0) bill(1.0) before(0.0) us(0.0) today(0.0) will(0.0) accomplish(0.0) that(0.0) without(0.0) raising(1.0) taxes(1.0) on(0.0) the(0.0) American(0.0) 
+people(0.0) .(0.0) With(0.0) unemployment(1.0) being(0.0) what(0.0) it(0.0) is(0.0) today(0.0) ,(0.0) in(0.0) terms(1.0) of(0.0) looking(0.0) at(0.0) small(0.0) businesses(1.0) ,(0.0) it(0.0) also(0.0) 
+will(0.0) not(0.0) raise(0.0) taxes(1.0) on(0.0) small(0.0) businesses(1.0) who(0.0) are(0.0) the(0.0) job(0.0) providers(0.0) .(0.0) I(0.0) support(0.0) the(0.0) Budget(1.0) Control(0.0) Act(1.0) because(0.0) 
+the(0.0) time(0.0) is(0.0) now(0.0) for(0.0) Congress(0.0) and(0.0) the(0.0) President(1.0) to(0.0) do(0.0) what(0.0) is(0.0) in(0.0) the(0.0) best(0.0) interest(0.0) of(0.0) the(0.0) American(0.0) 
+people(0.0) .(0.0) Our(0.0) economy(1.0) is(0.0) struggling(0.0) .(0.0) Our(0.0) current(0.0) national(1.0) debt(1.0) is(0.0) over(0.0) $(0.0) 14(0.0) trillion(1.0) ,(0.0) and(0.0) we(0.0) 're(0.0) 
+adding(0.0) $(0.0) 4.5(0.0) billion(1.0) a(0.0) day(0.0) to(0.0) our(0.0) deficit(1.0) and(0.0) debt(1.0) .(0.0) Let(0.0) me(0.0) break(0.0) that(0.0) down(0.0) .(0.0) That(0.0) is(0.0) 
+$(0.0) 188(0.0) million(0.0) per(0.0) hour(0.0) to(0.0) our(0.0) deficits(1.0) and(0.0) debt(1.0) ,(0.0) $(0.0) 4.5(0.0) billion(1.0) a(0.0) day(0.0) .(0.0) This(0.0) reckless(1.0) pattern(0.0) 
+of(0.0) borrowing(1.0) and(0.0) spending(1.0) has(0.0) put(0.0) our(0.0) country(1.0) on(0.0) the(0.0) road(0.0) to(0.0) bankruptcy(1.0) .(0.0) Washington(1.0) needs(0.0) to(0.0) show(0.0) the(0.0) American(0.0) 
+people(0.0) that(0.0) we(0.0) can(0.0) deal(0.0) with(0.0) these(0.0) challenges(1.0) today(0.0) and(0.0) in(0.0) the(0.0) future(0.0) .(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) 
+the(0.0) Budget(1.0) Control(1.0) Act(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+cut	spending	reduce	deficit	avoid	dangerous	prospects	putting	America	
+bill	raising	taxes	
+unemployment	terms	businesses	
+taxes	businesses	Budget	Act	
+President	
+economy	national	debt	trillion	
+billion	deficit	debt	
+deficits	debt	billion	reckless	
+borrowing	spending	country	bankruptcy	Washington	
+challenges	
+Budget	Control	Act	
+
+reads % = 0.1941747572815534

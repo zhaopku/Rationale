@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Chairman(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) strike(1.0) the(0.0) requisite(0.0) number(0.0) of(0.0) words(0.0) .(0.0) Madam(0.0) Chairman(1.0) ,(0.0) I(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) 
+the(0.0) Unsoeld(1.0) amendment(1.0) .(0.0) I(0.0) do(0.0) not(0.0) want(0.0) to(0.0) be(0.0) redundant(0.0) ,(0.0) but(0.0) this(0.0) is(0.0) not(0.0) an(0.0) amendment(1.0) about(0.0) values(0.0) 
+,(0.0) this(0.0) is(0.0) an(0.0) amendment(1.0) about(0.0) miromanaging(0.0) and(0.0) local(0.0) control(0.0) .(0.0) Monstrous(1.0) ,(0.0) monumental(0.0) micromanagement(1.0) would(0.0) have(0.0) to(0.0) take(0.0) place(0.0) 
+in(0.0) order(0.0) carry(0.0) out(0.0) the(0.0) Doolittle(1.0) amendment(1.0) .(0.0) The(0.0) Doolittle(1.0) amendment(1.0) invades(1.0) the(0.0) prerogatives(1.0) of(0.0) the(0.0) local(0.0) school(0.0) boards(0.0) as(0.0) 
+very(0.0) few(0.0) other(0.0) amendments(0.0) have(0.0) done(0.0) .(0.0) Throughout(0.0) all(0.0) of(0.0) our(0.0) debate(1.0) on(0.0) Goals(0.0) 2000(0.0) ,(0.0) where(0.0) the(0.0) Federal(1.0) Government(1.0) 
+seeks(1.0) to(0.0) set(0.0) certain(0.0) standards(0.0) in(0.0) content(0.0) and(0.0) curricula(1.0) and(0.0) standards(0.0) in(0.0) performance(0.0) ,(0.0) everything(0.0) has(0.0) been(0.0) voluntary(0.0) ,(0.0) everything(0.0) 
+has(0.0) been(0.0) in(0.0) terms(0.0) of(0.0) ,(0.0) We(0.0) will(0.0) state(1.0) certain(0.0) models(0.0) and(0.0) the(0.0) States(0.0) ,(0.0) in(0.0) the(0.0) final(0.0) analysis(0.0) ,(0.0) 
+will(0.0) decide(0.0) what(0.0) they(0.0) want(0.0) to(0.0) do(0.0) .(0.0) Local(0.0) control(0.0) in(0.0) curriculum(1.0) has(0.0) not(0.0) been(0.0) violated(1.0) in(0.0) any(0.0) of(0.0) the(0.0) 
+legislation(0.0) for(0.0) education(1.0) that(0.0) we(0.0) have(0.0) pursued(0.0) so(0.0) far(0.0) .(0.0) If(0.0) there(0.0) are(0.0) people(0.0) who(0.0) really(0.0) want(0.0) to(0.0) have(0.0) the(0.0) 
+Federal(1.0) Government(1.0) have(0.0) a(0.0) greater(0.0) role(0.0) in(0.0) promoting(1.0) values(0.0) and(0.0) preventing(1.0) teenage(1.0) pregnancies(1.0) and(0.0) providing(0.0) more(0.0) positive(0.0) sex(1.0) education(1.0) ,(0.0) 
+then(0.0) there(0.0) are(0.0) many(0.0) things(0.0) the(0.0) Federal(1.0) Government(1.0) can(0.0) do(0.0) .(0.0) Madam(0.0) Chairman(1.0) ,(0.0) let(0.0) us(0.0) be(0.0) brave(0.0) enough(0.0) to(0.0) 
+take(0.0) on(0.0) the(0.0) media(0.0) ,(0.0) be(0.0) brave(0.0) enough(0.0) to(0.0) use(0.0) the(0.0) power(0.0) of(0.0) the(0.0) Federal(1.0) Government(1.0) through(0.0) the(0.0) Federal(1.0) Communications(0.0) 
+Commission(0.0) .(0.0) The(0.0) No(0.0) .(0.0) 1(0.0) problem(0.0) in(0.0) America(1.0) with(0.0) respect(0.0) to(0.0) the(0.0) values(0.0) of(0.0) young(0.0) people(0.0) is(0.0) the(0.0) influence(0.0) 
+of(0.0) the(0.0) media(0.0) ,(0.0) television(0.0) ,(0.0) radio(0.0) ,(0.0) and(0.0) motion(1.0) pictures(0.0) .(0.0) The(0.0) Federal(1.0) Government(1.0) has(0.0) direct(0.0) control(0.0) over(0.0) the(0.0) 
+airwaves(1.0) either(0.0) through(0.0) the(0.0) FCC(1.0) broadcast(0.0) regulations(1.0) or(0.0) through(0.0) the(0.0) FCC(0.0) regulation(1.0) of(0.0) cable(0.0) .(0.0) I(0.0) say(0.0) to(0.0) my(0.0) colleagues(0.0) 
+,(0.0) if(0.0) you(0.0) are(0.0) interested(0.0) in(0.0) having(0.0) this(0.0) body(0.0) do(0.0) what(0.0) this(0.0) body(0.0) can(0.0) do(0.0) best(0.0) and(0.0) what(0.0) local(0.0) school(0.0) 
+boards(0.0) can(0.0) not(0.0) do(0.0) ,(0.0) then(0.0) try(0.0) to(0.0) promote(1.0) more(0.0) stringent(1.0) requirements(0.0) on(0.0) the(0.0) manner(0.0) in(0.0) which(0.0) sex(1.0) and(0.0) the(0.0) 
+wanton(1.0) participation(1.0) in(0.0) sex(1.0) is(0.0) encouraged(0.0) via(0.0) our(0.0) media(0.0) via(0.0) the(0.0) radio(0.0) ,(0.0) television(0.0) ,(0.0) and(0.0) motion(1.0) picture(0.0) formats(0.0) .(0.0) 
+We(0.0) have(0.0) the(0.0) power(0.0) to(0.0) regulate(1.0) interstate(1.0) commerce(1.0) ,(0.0) the(0.0) movement(1.0) of(0.0) pornographic(1.0) magazines(0.0) .(0.0) There(0.0) are(0.0) a(0.0) number(0.0) of(0.0) 
+things(0.0) we(0.0) can(0.0) do(0.0) .(0.0) Corporations(1.0) are(0.0) responsible(0.0) for(0.0) most(0.0) of(0.0) the(0.0) programming(0.0) that(0.0) appears(0.0) on(0.0) broadcast(0.0) television(0.0) and(0.0) much(0.0) 
+of(0.0) the(0.0) programming(0.0) that(0.0) appears(0.0) on(0.0) cable(0.0) television(0.0) .(0.0) We(0.0) have(0.0) power(0.0) with(0.0) respect(0.0) to(0.0) the(0.0) regulation(1.0) of(0.0) corporate(1.0) activity(0.0) 
+.(0.0) We(0.0) have(0.0) power(0.0) with(0.0) respect(0.0) to(0.0) regulation(1.0) of(0.0) how(0.0) they(0.0) spend(1.0) their(0.0) advertising(0.0) dollars(0.0) .(0.0) If(0.0) you(0.0) want(0.0) to(0.0) 
+be(0.0) brave(0.0) and(0.0) do(0.0) something(0.0) about(0.0) trying(0.0) to(0.0) influence(0.0) teenage(0.0) values(0.0) ,(0.0) then(0.0) why(0.0) not(0.0) take(0.0) on(0.0) a(0.0) greater(0.0) regulation(1.0) 
+role(0.0) with(0.0) respect(0.0) to(0.0) the(0.0) FCC(1.0) ,(0.0) with(0.0) respect(0.0) to(0.0) corporate(1.0) power(0.0) and(0.0) the(0.0) kinds(0.0) of(0.0) things(0.0) they(0.0) finance(1.0) ?(0.0) 
+Why(0.0) not(0.0) take(0.0) on(0.0) a(0.0) greater(0.0) regulation(1.0) role(0.0) with(0.0) respect(0.0) to(0.0) the(0.0) motion(1.0) picture(0.0) industry(1.0) ,(0.0) the(0.0) magazine(0.0) industry(0.0) 
+
+
+----- below are rationale words -----
+
+strike	Chairman	
+Unsoeld	amendment	amendment	
+amendment	Monstrous	micromanagement	
+Doolittle	amendment	Doolittle	amendment	invades	prerogatives	
+debate	Federal	Government	
+seeks	curricula	
+state	
+curriculum	violated	
+education	
+Federal	Government	promoting	preventing	teenage	pregnancies	sex	education	
+Federal	Government	Chairman	
+Federal	Government	Federal	
+America	
+motion	Federal	Government	
+airwaves	FCC	regulations	regulation	
+
+promote	stringent	sex	
+wanton	participation	sex	motion	
+regulate	interstate	commerce	movement	pornographic	
+Corporations	
+regulation	corporate	
+regulation	spend	
+regulation	
+FCC	corporate	finance	
+regulation	motion	industry	
+
+reads % = 0.138

@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+No(0.0) ,(0.0) I(0.0) am(0.0) saying(0.0) that(0.0) the(0.0) Senate(1.0) amendment(1.0) is(0.0) not(0.0) overly(0.0) broad(0.0) or(0.0) more(0.0) sweeping(1.0) .(0.0) In(0.0) fact(0.0) it(0.0) is(0.0) 
+more(0.0) narrow(0.0) than(0.0) this(0.0) amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Senate	amendment	sweeping	
+amendment	
+
+reads % = 0.14814814814814814

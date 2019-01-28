@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) if(0.0) the(0.0) Harry(0.0) Reid(1.0) Democrat(1.0) Senate(1.0) would(0.0) pass(1.0) the(0.0) Defense(1.0) appropriations(0.0) bill(0.0) ,(0.0) we(0.0) would(0.0) not(0.0) be(0.0) here(0.0) tonight(0.0) 
+having(0.0) this(0.0) debate(1.0) .(0.0) With(1.0) that(0.0) ,(0.0) I(0.0) yield(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(1.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Colorado(0.0) ((0.0) 
+Mr.(0.0) Coffman(1.0) )(0.0) ,(0.0) the(0.0) author(0.0) of(0.0) the(0.0) bill(0.0) ,(0.0) a(0.0) retired(0.0) marine(1.0) --(0.0) although(1.0) marines(1.0) never(0.0) retire(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Reid	Democrat	Senate	pass	Defense	
+debate	With	time	
+Coffman	marine	although	marines	retire	
+
+reads % = 0.21666666666666667

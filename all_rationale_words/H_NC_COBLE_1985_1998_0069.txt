@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) many(0.0) have(0.0) compared(0.0) President(0.0) Clinton's(0.0) problems(0.0) with(0.0) Watergate(1.0) .(0.0) There(0.0) are(0.0) similarities(0.0) as(0.0) well(0.0) as(0.0) distinctions(0.0) .(0.0) A(0.0) probable(0.0) 
+similarity(0.0) is(0.0) this(0.0) :(0.0) If(0.0) President(0.0) Nixon(1.0) and(0.0) President(0.0) Clinton(1.0) had(0.0) offered(0.0) sincere(0.0) apologies(0.0) in(0.0) timely(0.0) fashions(0.0) ,(0.0) their(0.0) respective(0.0) 
+problems(0.0) would(0.0) likely(0.0) have(0.0) been(0.0) resolved(0.0) .(0.0) If(0.0) ,(0.0) when(0.0) initially(0.0) confronted(0.0) ,(0.0) they(0.0) had(0.0) responded(0.0) truthfully(0.0) in(0.0) a(0.0) manner(0.0) 
+worthy(0.0) of(0.0) their(0.0) high(0.0) office(0.0) ,(0.0) the(0.0) severity(0.0) of(0.0) their(0.0) problems(0.0) likely(0.0) would(0.0) have(0.0) diminished(0.0) :(0.0) ``(0.0) American(0.0) people(0.0) ,(0.0) 
+I(0.0) made(0.0) a(0.0) mistake(0.0) .(0.0) I(0.0) disappointed(0.0) you(0.0) .(0.0) I(0.0) let(0.0) you(0.0) down(0.0) .(0.0) I(0.0) ask(0.0) your(0.0) forgiveness(1.0) .(0.0) ''(0.0) 
+If(0.0) such(0.0) requests(0.0) had(0.0) been(0.0) timely(0.0) extended(0.0) ,(0.0) forgiveness(1.0) would(0.0) likely(0.0) have(0.0) been(0.0) forthcoming(0.0) ,(0.0) because(0.0) Americans(1.0) by(0.0) nature(0.0) are(0.0) 
+a(0.0) forgiving(0.0) people(0.0) .(0.0) I(0.0) am(0.0) applying(0.0) hindsight(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) which(0.0) is(0.0) nearly(0.0) always(0.0) 20/20(0.0) .(0.0) But(0.0) the(0.0) 
+time(0.0) for(0.0) forgiveness(1.0) may(0.0) have(0.0) passed(0.0) ,(0.0) and(0.0) now(0.0) this(0.0) demanding(1.0) task(0.0) of(0.0) resolving(1.0) the(0.0) matter(0.0) is(0.0) upon(0.0) this(0.0) ,(0.0) 
+the(0.0) people(0.0) 's(0.0) House(0.0) .(0.0) The(0.0) success(0.0) of(0.0) our(0.0) Constitution(1.0) is(0.0) measured(0.0) with(0.0) the(0.0) courage(0.0) of(0.0) those(0.0) in(0.0) whom(0.0) it(0.0) 
+vests(0.0) powers(0.0) to(0.0) carry(0.0) them(0.0) out(0.0) in(0.0) a(0.0) just(0.0) and(0.0) appropriate(0.0) manner(0.0) .(0.0) This(0.0) resolution(1.0) will(0.0) assure(0.0) that(0.0) the(0.0) Committee(0.0) 
+on(0.0) the(0.0) Judiciary(0.0) is(0.0) able(0.0) to(0.0) ascertain(0.0) what(0.0) we(0.0) need(0.0) to(0.0) do(0.0) to(0.0) accomplish(0.0) that(0.0) task(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Watergate	
+Nixon	Clinton	
+
+
+forgiveness	
+forgiveness	Americans	
+Speaker	
+forgiveness	demanding	resolving	
+Constitution	
+resolution	
+
+
+reads % = 0.05504587155963303

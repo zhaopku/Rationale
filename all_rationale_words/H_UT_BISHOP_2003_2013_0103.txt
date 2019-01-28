@@ -1,0 +1,24 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) tomorrow(0.0) is(0.0) the(0.0) 20th(1.0) anniversary(0.0) of(0.0) National(0.0) Public(0.0) Land(0.0) Day(0.0) .(0.0) Whoopee(0.0) .(0.0) I(0.0) am(0.0) also(0.0) reading(0.0) a(0.0) book(0.0) 
+about(0.0) the(0.0) members(0.0) of(0.0) my(0.0) church(0.0) trying(0.0) to(0.0) live(0.0) in(0.0) post-World(1.0) War(0.0) II(0.0) East(0.0) Germany(0.0) where(0.0) all(0.0) building(0.0) was(0.0) restricted(0.0) 
+.(0.0) If(0.0) they(0.0) wished(0.0) to(0.0) have(0.0) a(0.0) house(0.0) in(0.0) which(0.0) to(0.0) worship(0.0) and(0.0) it(0.0) was(0.0) on(0.0) government(1.0) land(0.0) ,(0.0) the(0.0) 
+government(1.0) always(0.0) owned(0.0) the(0.0) building(0.0) and(0.0) could(0.0) possess(0.0) it(0.0) at(0.0) any(0.0) time(0.0) .(0.0) If(0.0) they(0.0) actually(0.0) wished(0.0) to(0.0) possess(0.0) the(0.0) 
+building(0.0) ,(0.0) they(0.0) had(0.0) to(0.0) find(0.0) private(0.0) land(0.0) to(0.0) trade(1.0) to(0.0) the(0.0) government(1.0) because(0.0) the(0.0) official(0.0) policy(0.0) of(0.0) East(0.0) Germany(0.0) 
+was(0.0) ``(0.0) no(0.0) net(0.0) loss(0.0) of(0.0) federal(1.0) land(0.0) .(0.0) ''(0.0) I(0.0) mention(0.0) that(0.0) because(0.0) communist(1.0) East(0.0) Germany(0.0) has(0.0) the(0.0) same(0.0) 
+policy(1.0) standard(0.0) as(0.0) the(0.0) Department(0.0) of(0.0) the(0.0) Interior(0.0) and(0.0) Forest(0.0) Service(0.0) have(0.0) today(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) either(0.0) we(0.0) are(0.0) 
+wrong(0.0) or(0.0) East(0.0) Germany(0.0) was(0.0) right(0.0) ,(0.0) and(0.0) I(0.0) sincerely(0.0) doubt(0.0) the(0.0) latter(0.0) is(0.0) accurate(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+20th	
+post-World	
+government	
+government	
+trade	government	
+federal	communist	
+policy	Speaker	
+
+
+reads % = 0.06369426751592357

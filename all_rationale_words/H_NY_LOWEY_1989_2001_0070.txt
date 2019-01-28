@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) in(0.0) strong(0.0) support(0.0) of(0.0) this(0.0) motin(1.0) to(0.0) instruct(0.0) .(0.0) In(0.0) the(0.0) three(0.0) months(0.0) since(0.0) terrorists(1.0) attacked(0.0) America(0.0) 
+,(0.0) Congress(0.0) and(0.0) the(0.0) American(0.0) people(0.0) have(0.0) been(0.0) called(0.0) upon(0.0) to(0.0) make(0.0) extraordinary(0.0) commitments(1.0) .(0.0) Our(0.0) men(0.0) and(0.0) women(0.0) in(0.0) 
+uniform(1.0) are(0.0) risking(0.0) their(0.0) lives(0.0) ,(0.0) helping(0.0) to(0.0) liberate(1.0) Afghanistan(1.0) from(0.0) the(0.0) grip(0.0) of(0.0) al-Qaida(1.0) and(0.0) and(0.0) root(0.0) out(0.0) terrorists(1.0) 
+.(0.0) Ordinary(0.0) citizens(1.0) are(0.0) making(0.0) sacrifices(0.0) ,(0.0) volunteering(0.0) their(0.0) time(0.0) and(0.0) money(1.0) to(0.0) help(0.0) victims(1.0) of(0.0) terrorism(1.0) .(0.0) And(0.0) ,(0.0) 
+in(0.0) the(0.0) days(0.0) immediately(0.0) following(0.0) the(0.0) September(0.0) 11th(0.0) attacks(0.0) ,(0.0) Congress(0.0) took(0.0) unprecedented(0.0) action(1.0) to(0.0) do(0.0) its(0.0) part(0.0) --(0.0) providing(0.0) 
+$(0.0) 40(0.0) bilion(1.0) in(0.0) emergency(1.0) funding(1.0) to(0.0) help(0.0) the(0.0) rescue(1.0) and(0.0) recovery(1.0) effort(0.0) ,(0.0) enhance(0.0) our(0.0) military(1.0) might(0.0) ,(0.0) and(0.0) 
+ensure(0.0) the(0.0) safety(0.0) and(0.0) security(0.0) of(0.0) all(0.0) Americans(1.0) .(0.0) Despite(0.0) our(0.0) best(0.0) intentions(1.0) ,(0.0) what(0.0) we(0.0) provided(0.0) was(0.0) not(0.0) enough(0.0) 
+.(0.0) And(0.0) we(0.0) know(0.0) we(0.0) can(0.0) do(0.0) better(0.0) .(0.0) We(0.0) must(0.0) do(0.0) right(0.0) by(0.0) our(0.0) military(1.0) ,(0.0) we(0.0) must(0.0) do(0.0) 
+right(0.0) by(0.0) the(0.0) American(0.0) people(0.0) ,(0.0) and(0.0) we(0.0) must(0.0) do(0.0) right(0.0) by(0.0) the(0.0) people(0.0) of(0.0) New(1.0) York(1.0) .(0.0) In(0.0) the(0.0) 
+wake(1.0) of(0.0) September(0.0) 11th(0.0) ,(0.0) the(0.0) President(1.0) made(0.0) a(0.0) promise(0.0) to(0.0) provide(0.0) whatever(0.0) it(0.0) took(0.0) to(0.0) rebuild(1.0) New(1.0) York(1.0) .(0.0) 
+And(0.0) Congress(0.0) made(0.0) that(0.0) promise(0.0) law(1.0) ,(0.0) setting(0.0) aside(0.0) $(0.0) 20(0.0) of(0.0) the(0.0) $(0.0) 40(0.0) billion(1.0) in(0.0) emergency(1.0) funding(1.0) for(0.0) 
+relief(1.0) and(0.0) reconstruction(1.0) .(0.0) But(0.0) neither(0.0) the(0.0) Senate(1.0) nor(0.0) the(0.0) House(0.0) bill(0.0) fulfills(1.0) this(0.0) promise(1.0) .(0.0) The(0.0) devastation(1.0) in(0.0) New(1.0) 
+York(1.0) is(0.0) not(0.0) just(0.0) at(0.0) Ground(0.0) Zero(0.0) ,(0.0) where(0.0) teams(0.0) are(0.0) working(0.0) around(0.0) the(0.0) clock(0.0) to(0.0) recover(0.0) bodies(0.0) and(0.0) clear(0.0) 
+away(0.0) the(0.0) rubble(1.0) .(0.0) Widows(1.0) need(0.0) health(1.0) insurance(1.0) .(0.0) Laid(0.0) off(0.0) workers(1.0) --(0.0) who(0.0) were(0.0) just(0.0) getting(0.0) by(0.0) --(0.0) need(0.0) 
+extended(0.0) unemployment(1.0) benefits(1.0) .(0.0) Residents(0.0) need(0.0) checks(0.0) to(0.0) cover(0.0) security(0.0) deposits(0.0) in(0.0) temporary(1.0) homes(0.0) ,(0.0) and(0.0) to(0.0) repair(0.0) their(0.0) apartments(0.0) 
+.(0.0) Small(0.0) businesses(1.0) need(0.0) grants(1.0) to(0.0) stay(0.0) solvent(1.0) .(0.0) And(0.0) it(0.0) is(0.0) not(0.0) just(0.0) New(0.0) York(1.0) that(0.0) is(0.0) hurting(1.0) .(0.0) 
+The(0.0) American(0.0) people(0.0) have(0.0) become(0.0) victims(0.0) of(0.0) the(0.0) fear(1.0) and(0.0) uncertainty(0.0) that(0.0) terrorism(1.0) breeds(0.0) .(0.0) And(0.0) ,(0.0) while(0.0) investments(1.0) in(0.0) 
+homeland(1.0) security(0.0) will(0.0) not(0.0) allay(0.0) all(0.0) the(0.0) fears(1.0) --(0.0) they(0.0) will(0.0) go(0.0) a(0.0) long(0.0) way(0.0) to(0.0) keep(0.0) our(0.0) communities(1.0) safe(0.0) 
+.(0.0) Safe(0.0) from(0.0) threats(1.0) to(0.0) our(0.0) postal(1.0) system(0.0) and(0.0) our(0.0) food(1.0) and(0.0) water(0.0) supply(1.0) .(0.0) Safe(0.0) from(0.0) threats(1.0) to(0.0) our(0.0) 
+ports(0.0) ,(0.0) borders(0.0) ,(0.0) and(0.0) our(0.0) schools(1.0) .(0.0) It(0.0) is(0.0) our(0.0) responsibility(0.0) to(0.0) invest(1.0) in(0.0) safety(1.0) both(0.0) at(0.0) home(0.0) and(0.0) 
+abroad(0.0) --(0.0) providing(0.0) adequate(1.0) funds(1.0) to(0.0) ensure(0.0) the(0.0) superiority(1.0) of(0.0) our(0.0) military(0.0) and(0.0) the(0.0) security(0.0) of(0.0) our(0.0) citizens(1.0) .(0.0) It(0.0) 
+is(0.0) simply(0.0) wrong(0.0) to(0.0) force(0.0) the(0.0) American(0.0) people(0.0) to(0.0) choose(0.0) between(0.0) homeland(1.0) security(0.0) and(0.0) a(0.0) strong(0.0) national(0.0) defense(1.0) .(0.0) And(0.0) 
+it(0.0) is(0.0) wrong(0.0) to(0.0) force(0.0) us(0.0) to(0.0) choose(0.0) between(0.0) either(0.0) of(0.0) these(0.0) and(0.0) cleaning(0.0) up(0.0) New(1.0) York(1.0) .(0.0) $(0.0) 40(0.0) 
+billion(1.0) will(0.0) not(0.0) be(0.0) enough(0.0) to(0.0) meet(0.0) all(0.0) of(0.0) our(0.0) commitments(1.0) ,(0.0) but(0.0) we(0.0) have(0.0) been(0.0) blocked(0.0) from(0.0) increasing(1.0) this(0.0) 
+amount(0.0) before(0.0) the(0.0) end(0.0) of(0.0) the(0.0) year(0.0) .(0.0) I(0.0) urge(0.0) our(0.0) conferees(0.0) to(0.0) maximize(0.0) our(0.0) investment(1.0) in(0.0) all(0.0) of(0.0) 
+
+
+----- below are rationale words -----
+
+motin	terrorists	
+commitments	
+uniform	liberate	Afghanistan	al-Qaida	terrorists	
+citizens	money	victims	terrorism	
+action	
+bilion	emergency	funding	rescue	recovery	military	
+Americans	intentions	
+military	
+New	York	
+wake	President	rebuild	New	York	
+law	billion	emergency	funding	
+relief	reconstruction	Senate	fulfills	promise	devastation	New	
+York	
+rubble	Widows	health	insurance	workers	
+unemployment	benefits	temporary	
+businesses	grants	solvent	York	hurting	
+fear	terrorism	investments	
+homeland	fears	communities	
+threats	postal	food	supply	threats	
+schools	invest	safety	
+adequate	funds	superiority	citizens	
+homeland	defense	
+New	York	
+billion	commitments	increasing	
+investment	
+
+reads % = 0.16

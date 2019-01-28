@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) rise(0.0) to(0.0) claim(0.0) time(0.0) in(0.0) opposition(1.0) to(0.0) the(0.0) amendment(1.0) ,(0.0) although(0.0) I(0.0) am(0.0) not(0.0) opposed(0.0) to(0.0) it(0.0) .(0.0) 
+The(0.0) Acting(0.0) CHAIR(0.0) .(0.0) Without(0.0) objection(1.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) is(0.0) recognized(0.0) for(0.0) 5(0.0) minutes(0.0) .(0.0) There(0.0) was(0.0) no(0.0) 
+objection(0.0) .(0.0) Let(0.0) me(0.0) tell(0.0) you(0.0) it(0.0) is(0.0) a(0.0) point(0.0) of(0.0) personal(0.0) privilege(1.0) to(0.0) commend(0.0) the(0.0) gentleman(0.0) from(0.0) Rhode(1.0) Island(0.0) 
+for(0.0) all(0.0) of(0.0) his(0.0) great(0.0) work(0.0) in(0.0) this(0.0) particular(0.0) area(0.0) and(0.0) how(0.0) much(0.0) I(0.0) have(0.0) enjoyed(0.0) working(0.0) with(0.0) the(0.0) gentleman(0.0) 
+,(0.0) co-chairing(1.0) the(0.0) CSIS(1.0) commission(0.0) and(0.0) also(0.0) co-chairing(0.0) the(0.0) Congressional(0.0) Cybersecurity(1.0) Caucus(1.0) .(0.0) So(0.0) thank(0.0) you(0.0) .(0.0) This(0.0) amendment(1.0) would(1.0) 
+modify(0.0) the(0.0) section(0.0) of(0.0) the(0.0) bill(0.0) requiring(1.0) the(0.0) President(0.0) to(0.0) transmit(0.0) a(0.0) cybersecurity(0.0) workforce(0.0) report(0.0) to(0.0) Congress(0.0) ,(0.0) specifically(0.0) by(0.0) 
+requiring(1.0) that(0.0) the(0.0) President(1.0) 's(0.0) review(0.0) consider(0.0) the(0.0) potential(0.0) for(0.0) temporary(0.0) assignment(0.0) of(0.0) private(0.0) sector(0.0) cybersecurity(1.0) professionals(0.0) as(0.0) a(0.0) means(0.0) 
+through(0.0) which(0.0) to(0.0) meet(0.0) Federal(1.0) workforce(1.0) needs(0.0) .(0.0) These(0.0) types(0.0) of(0.0) mechanisms(0.0) ,(0.0) such(0.0) intergovernmental(1.0) personnel(0.0) agreements(0.0) ,(0.0) have(0.0) long(0.0) 
+been(0.0) used(0.0) by(0.0) Federal(1.0) agencies(1.0) in(0.0) various(0.0) capacities(0.0) ;(0.0) and(0.0) they(0.0) provide(0.0) a(0.0) flexible(0.0) means(0.0) through(0.0) which(0.0) to(0.0) address(0.0) workforce(1.0) 
+needs(0.0) expeditiously(0.0) .(0.0) Accordingly(0.0) ,(0.0) it(0.0) makes(0.0) sense(0.0) for(0.0) the(0.0) President(1.0) 's(0.0) workforce(0.0) assessment(0.0) to(0.0) consider(0.0) and(0.0) report(0.0) on(0.0) these(0.0) 
+mechanisms(0.0) .(0.0) So(0.0) therefore(0.0) ,(0.0) I(0.0) support(0.0) the(0.0) gentleman(0.0) 's(0.0) amendment(1.0) .(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+opposition	amendment	
+objection	
+privilege	Rhode	
+
+co-chairing	CSIS	Cybersecurity	Caucus	amendment	would	
+requiring	
+requiring	President	cybersecurity	
+Federal	workforce	intergovernmental	
+Federal	agencies	workforce	
+President	
+amendment	
+
+
+reads % = 0.1036036036036036

@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) this(1.0) weekend(0.0) ,(0.0) I(0.0) had(0.0) the(0.0) honor(1.0) of(0.0) joining(1.0) hundreds(0.0) of(0.0) fellow(0.0) Americans(0.0) at(0.0) an(0.0) open-carry(1.0) walk(1.0) in(0.0) Brookville(1.0) 
+,(0.0) Pennsylvania(1.0) ,(0.0) which(0.0) is(0.0) located(1.0) in(0.0) the(0.0) Fifth(1.0) District(0.0) of(0.0) Pennsylvania(1.0) .(0.0) As(0.0) a(0.0) responsible(1.0) gun(0.0) owner(1.0) ,(0.0) I(0.0) 
+was(0.0) proud(0.0) to(0.0) join(1.0) this(0.0) peaceful(0.0) gathering(0.0) among(0.0) citizens(1.0) to(0.0) reaffirm(1.0) the(0.0) fundamental(1.0) significance(0.0) of(0.0) an(0.0) individual(0.0) 's(0.0) constitutionally(1.0) protected(0.0) 
+right(1.0) to(0.0) bear(0.0) arms(0.0) .(0.0) The(0.0) right(1.0) to(0.0) own(0.0) firearms(0.0) has(0.0) nothing(1.0) to(0.0) do(0.0) with(0.0) hunting(0.0) .(0.0) The(0.0) Second(0.0) Amendment(0.0) 
+was(0.0) adopted(1.0) as(0.0) part(0.0) of(0.0) our(0.0) Constitution(0.0) to(0.0) assure(0.0) the(0.0) safety(1.0) and(0.0) security(0.0) of(0.0) our(0.0) Nation(0.0) ,(0.0) our(0.0) States(0.0) ,(0.0) 
+as(0.0) well(0.0) as(0.0) our(0.0) families(0.0) ,(0.0) our(0.0) homes(0.0) and(0.0) our(0.0) personal(0.0) selves(1.0) .(0.0) Many(0.0) of(0.0) my(0.0) constituents(1.0) are(0.0) alarmed(0.0) at(0.0) 
+the(0.0) gun(0.0) control(1.0) proposals(1.0) being(0.0) considered(0.0) in(0.0) the(0.0) U.S.(0.0) Senate(1.0) for(0.0) fear(0.0) they(0.0) violate(1.0) this(0.0) sacred(0.0) constitutional(1.0) right(1.0) .(0.0) I(0.0) 
+share(0.0) this(0.0) concern(0.0) .(0.0) When(1.0) it(0.0) comes(0.0) to(0.0) violence(1.0) prevention(1.0) ,(0.0) I(0.0) believe(1.0) there(0.0) are(0.0) areas(0.0) of(0.0) policy(1.0) that(0.0) can(1.0) 
+be(0.0) improved(0.0) upon(0.0) ,(0.0) especially(1.0) in(0.0) the(0.0) area(1.0) of(0.0) mental(1.0) health(1.0) .(0.0) The(0.0) people(0.0) of(0.0) Brookville(1.0) and(0.0) so(1.0) many(0.0) others(0.0) 
+across(0.0) this(0.0) Nation(0.0) want(1.0) this(0.0) body(0.0) to(0.0) come(0.0) together(0.0) on(0.0) solutions(1.0) to(0.0) thwart(1.0) future(0.0) acts(0.0) of(0.0) mass(0.0) violence(1.0) ,(0.0) but(0.0) 
+they(0.0) will(0.0) not(1.0) tolerate(0.0) --(0.0) and(0.0) I(0.0) will(0.0) fight(0.0) against(0.0) --(0.0) any(1.0) violation(1.0) of(0.0) constitutionally(1.0) protected(0.0) rights(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+this	honor	joining	open-carry	walk	Brookville	
+Pennsylvania	located	Fifth	Pennsylvania	responsible	owner	
+join	citizens	reaffirm	fundamental	constitutionally	
+right	right	nothing	
+adopted	safety	
+selves	constituents	
+control	proposals	Senate	violate	constitutional	right	
+When	violence	prevention	believe	policy	can	
+especially	area	mental	health	Brookville	so	
+want	solutions	thwart	violence	
+not	any	violation	constitutionally	
+
+reads % = 0.228310502283105

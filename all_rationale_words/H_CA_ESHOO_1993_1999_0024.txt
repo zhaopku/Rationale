@@ -1,0 +1,44 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) first(0.0) ,(0.0) I(0.0) would(0.0) like(0.0) to(0.0) salute(0.0) all(0.0) the(0.0) Members(0.0) that(0.0) have(0.0) worked(0.0) so(0.0) hard(0.0) to(0.0) bring(0.0) forward(0.0) the(0.0) 
+Dingell-Norwood(0.0) bill(1.0) .(0.0) I(0.0) would(0.0) like(0.0) to(0.0) say(0.0) some(0.0) things(0.0) today(0.0) that(0.0) really(0.0) will(0.0) remind(0.0) us(0.0) of(0.0) some(0.0) of(0.0) the(0.0) 
+greatest(0.0) things(0.0) that(0.0) have(0.0) happened(0.0) in(0.0) this(0.0) Chamber(0.0) in(0.0) the(0.0) past(0.0) chapters(0.0) of(0.0) American(0.0) history(0.0) :(0.0) when(0.0) a(0.0) Congress(0.0) and(0.0) 
+a(0.0) President(0.0) put(0.0) together(0.0) Social(0.0) Security(0.0) ,(0.0) when(0.0) a(0.0) Congress(0.0) and(0.0) a(0.0) President(0.0) put(0.0) together(0.0) Medicare(1.0) .(0.0) In(0.0) our(0.0) day(0.0) 
+and(0.0) our(0.0) time(0.0) ,(0.0) we(0.0) ,(0.0) too(0.0) ,(0.0) can(0.0) do(0.0) something(0.0) noble(0.0) .(0.0) The(0.0) American(0.0) people(0.0) are(0.0) really(0.0) pleading(1.0) with(0.0) 
+us(0.0) .(0.0) They(0.0) are(0.0) saying(0.0) to(0.0) us(0.0) in(0.0) our(0.0) town(0.0) hall(0.0) meetings(0.0) ,(0.0) wherever(0.0) we(0.0) gather(0.0) in(0.0) our(0.0) congressional(1.0) districts(1.0) 
+all(0.0) over(0.0) the(0.0) country(1.0) ,(0.0) fix(0.0) the(0.0) ills(1.0) in(0.0) this(0.0) system(1.0) .(0.0) There(0.0) are(0.0) parts(0.0) of(0.0) it(0.0) that(0.0) are(0.0) broken(0.0) 
+.(0.0) We(0.0) need(0.0) access(0.0) .(0.0) We(0.0) need(0.0) fairness(1.0) .(0.0) We(0.0) want(0.0) our(0.0) physicians(1.0) ,(0.0) our(0.0) doctors(1.0) ,(0.0) that(0.0) sacred(0.0) relationship(0.0) 
+between(0.0) a(0.0) patient(0.0) and(0.0) a(0.0) doctor(0.0) .(0.0) We(0.0) want(0.0) the(0.0) doctor(0.0) to(0.0) make(0.0) the(0.0) calls(0.0) .(0.0) There(0.0) is(0.0) interference(1.0) in(0.0) 
+the(0.0) system(0.0) ,(0.0) and(0.0) we(0.0) know(0.0) what(0.0) we(0.0) need(0.0) to(0.0) do(0.0) .(0.0) The(0.0) Patients(0.0) '(0.0) Bill(0.0) of(0.0) Rights(1.0) is(0.0) the(0.0) 
+bill(1.0) that(0.0) the(0.0) American(0.0) people(0.0) genuinely(0.0) support(0.0) .(0.0) We(0.0) know(0.0) that(0.0) .(0.0) There(0.0) is(0.0) politics(1.0) of(0.0) special(0.0) interests(1.0) here(0.0) that(0.0) 
+take(0.0) amendments(1.0) and(0.0) debates(1.0) one(0.0) way(0.0) or(0.0) another(0.0) .(0.0) But(0.0) I(0.0) am(0.0) convinced(0.0) that(0.0) the(0.0) American(0.0) people(0.0) still(0.0) respect(0.0) access(0.0) 
+to(0.0) the(0.0) courts(1.0) ,(0.0) not(0.0) overuse(1.0) of(0.0) the(0.0) courts(1.0) ,(0.0) but(0.0) access(0.0) to(0.0) the(0.0) courts(1.0) ,(0.0) and(0.0) that(0.0) they(0.0) want(0.0) 
+the(0.0) laws(1.0) to(0.0) be(0.0) enforceable(1.0) ultimately(0.0) if(0.0) that(0.0) is(0.0) where(0.0) it(0.0) has(0.0) to(0.0) go(0.0) .(0.0) We(0.0) can(0.0) cast(0.0) a(0.0) vote(0.0) 
+that(0.0) is(0.0) going(0.0) to(0.0) keep(0.0) faith(1.0) with(0.0) the(0.0) American(0.0) people(0.0) .(0.0) I(0.0) believe(0.0) that(0.0) when(0.0) they(0.0) come(0.0) back(0.0) to(0.0) judge(0.0) 
+us(0.0) ,(0.0) that(0.0) this(0.0) will(0.0) be(0.0) the(0.0) yardstick(1.0) by(0.0) which(0.0) they(0.0) will(0.0) measure(1.0) Members(0.0) of(0.0) the(0.0) 106th(0.0) Congress(0.0) .(0.0) I(0.0) 
+ask(0.0) my(0.0) colleagues(0.0) to(0.0) defeat(1.0) the(0.0) substitute(1.0) .(0.0) There(0.0) is(0.0) no(0.0) substitute(0.0) for(0.0) the(0.0) Norwood-Dingell(0.0) bill(1.0) .(0.0) Let(0.0) us(0.0) pass(0.0) 
+the(0.0) Patients(0.0) '(0.0) Bill(0.0) of(0.0) Rights(1.0) and(0.0) do(0.0) ourselves(0.0) proud(0.0) in(0.0) this(0.0) Congress(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+bill	
+
+Medicare	
+pleading	
+congressional	districts	
+country	ills	system	
+fairness	physicians	doctors	
+interference	
+Rights	
+bill	politics	interests	
+amendments	debates	
+courts	overuse	courts	courts	
+laws	enforceable	
+faith	
+yardstick	measure	
+defeat	substitute	bill	
+Rights	
+
+reads % = 0.08732394366197183

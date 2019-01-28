@@ -1,0 +1,16 @@
+This is from a Republican
+----- below is the original text -----
+2272(1.0) ,(0.0) I(0.0) am(0.0) not(0.0) recorded(0.0) because(0.0) I(0.0) was(0.0) absent(0.0) on(0.0) the(0.0) account(0.0) of(0.0) the(0.0) birth(0.0) of(0.0) my(0.0) granddaughter(0.0) .(0.0) Had(0.0) 
+I(0.0) been(0.0) present(0.0) ,(0.0) I(0.0) would(0.0) have(0.0) voted(0.0) ``(0.0) yea(0.0) .(0.0) ''(0.0) On(0.0) rollcall(0.0) No(0.0) .(0.0) 86(0.0) on(0.0) H.R(0.0) .(0.0) 
+3936(0.0) ,(0.0) had(0.0) I(0.0) been(0.0) present(0.0) ,(0.0) I(0.0) would(0.0) have(0.0) voted(0.0) ``(0.0) yea(0.0) .(0.0) ''(0.0) On(0.0) rollcall(0.0) No(0.0) .(0.0) 87(0.0) 
+on(0.0) H.R(0.0) .(0.0) 4454(0.0) ,(0.0) had(0.0) I(0.0) been(0.0) present(0.0) ,(0.0) I(0.0) would(0.0) have(0.0) voted(0.0) ``(0.0) yea(0.0) .(0.0) ''(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+
+
+
+reads % = 0.0

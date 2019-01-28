@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+recognition(0.0) effectively(0.0) abandons(1.0) direct(0.0) negotiations(1.0) as(0.0) the(0.0) structure(0.0) for(0.0) pursuing(1.0) peace(1.0) in(0.0) the(0.0) Middle(0.0) East(0.0) .(0.0) To(0.0) those(0.0) who(0.0) question(0.0) the(0.0) 
+United(0.0) States(0.0) '(0.0) solidarity(1.0) with(0.0) Israel(0.0) in(0.0) the(0.0) face(0.0) of(0.0) this(0.0) bid(1.0) ,(0.0) the(0.0) answer(0.0) is(0.0) that(0.0) it(0.0) is(0.0) in(0.0) 
+America(1.0) 's(0.0) interest(0.0) to(0.0) stand(0.0) strong(0.0) with(0.0) its(0.0) friend(0.0) and(0.0) ally(1.0) .(0.0) The(0.0) Arab(1.0) Spring(0.0) is(0.0) dramatically(0.0) altering(0.0) the(0.0) dynamics(0.0) 
+of(0.0) the(0.0) Israeli-(0.0) Palestinian(1.0) conflict(1.0) and(0.0) the(0.0) wider(0.0) region(0.0) .(0.0) Familiar(0.0) antagonists(0.0) are(0.0) seizing(1.0) on(0.0) a(0.0) new(0.0) populism(1.0) to(0.0) stir(0.0) 
+up(0.0) anti-Israel(1.0) sentiment(0.0) .(0.0) It(0.0) 's(0.0) no(0.0) surprise(0.0) that(0.0) countries(0.0) like(0.0) Iran(1.0) would(0.0) seek(0.0) to(0.0) hijack(1.0) the(0.0) sentiment(1.0) of(0.0) the(0.0) 
+Arab(1.0) Spring(0.0) ,(0.0) but(0.0) who(0.0) would(0.0) have(0.0) predicted(0.0) that(0.0) NATO(1.0) member(0.0) Turkey(0.0) would(0.0) turn(0.0) against(0.0) its(0.0) former(0.0) ally(1.0) ,(0.0) Israel(0.0) 
+,(0.0) with(0.0) such(0.0) ferocity(0.0) ?(0.0) Among(0.0) other(0.0) things(0.0) ,(0.0) Turkey(0.0) 's(0.0) behavior(0.0) appears(0.0) calculated(0.0) to(0.0) establish(0.0) strategic(0.0) dominance(0.0) of(0.0) the(0.0) 
+eastern(0.0) Mediterranean(0.0) by(0.0) putting(0.0) pressure(0.0) on(0.0) the(0.0) Israeli-American(1.0) alliance(1.0) .(0.0) One(0.0) critical(0.0) way(0.0) for(0.0) the(0.0) United(0.0) States(0.0) to(0.0) discourage(1.0) this(0.0) 
+kind(0.0) of(0.0) adventurism(1.0) in(0.0) the(0.0) region(0.0) is(0.0) to(0.0) continue(0.0) to(0.0) affirm(0.0) its(0.0) unbreakable(1.0) bond(1.0) with(0.0) the(0.0) State(1.0) of(0.0) Israel(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+abandons	negotiations	pursuing	peace	
+solidarity	bid	
+America	ally	Arab	
+Palestinian	conflict	seizing	populism	
+anti-Israel	Iran	hijack	sentiment	
+Arab	NATO	ally	
+
+Israeli-American	alliance	discourage	
+adventurism	unbreakable	bond	State	
+
+
+reads % = 0.14917127071823205

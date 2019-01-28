@@ -1,0 +1,22 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) time(0.0) to(0.0) me(0.0) .(0.0) The(0.0) fact(0.0) is(0.0) ,(0.0) if(0.0) Members(0.0) begin(0.0) to(0.0) read(0.0) 
+this(0.0) bill(1.0) ,(0.0) they(0.0) find(0.0) out(0.0) that(0.0) what(0.0) has(0.0) been(0.0) said(0.0) is(0.0) not(0.0) exactly(0.0) direct(0.0) to(0.0) the(0.0) bill(1.0) .(0.0) I(0.0) 
+refer(0.0) my(0.0) colleagues(0.0) also(0.0) to(0.0) page(0.0) 30(0.0) which(0.0) says(0.0) ,(0.0) in(0.0) effect(1.0) ,(0.0) that(0.0) these(0.0) management(0.0) entities(0.0) must(0.0) consult(0.0) with(0.0) 
+the(0.0) Secretary(1.0) ;(0.0) i.e.(0.0) ,(0.0) Secretary(1.0) of(0.0) Interior(0.0) ;(0.0) must(0.0) cooperate(0.0) with(0.0) the(0.0) Secretary(1.0) ;(0.0) i.e.(0.0) ,(0.0) the(0.0) Secretary(1.0) of(0.0) 
+Interior(0.0) ,(0.0) must(0.0) conduct(0.0) and(0.0) support(0.0) such(0.0) activities(0.0) that(0.0) the(0.0) Secretary(1.0) agrees(0.0) with(0.0) and(0.0) determine(0.0) that(0.0) there(0.0) is(0.0) no(0.0) practical(0.0) 
+alternative(0.0) .(0.0) They(0.0) must(0.0) go(0.0) along(0.0) .(0.0) Now(0.0) ,(0.0) if(0.0) that(0.0) is(0.0) not(0.0) Federal(1.0) control(0.0) ,(0.0) I(0.0) do(0.0) not(0.0) know(0.0) 
+how(0.0) else(0.0) we(0.0) could(0.0) state(1.0) it(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+bill	bill	
+effect	
+Secretary	Secretary	Secretary	Secretary	
+Secretary	
+Federal	
+state	
+
+reads % = 0.078125

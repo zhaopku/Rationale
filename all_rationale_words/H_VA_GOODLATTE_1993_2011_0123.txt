@@ -1,0 +1,24 @@
+This is from a Republican
+----- below is the original text -----
+``(0.0) The(0.0) United(0.0) States(0.0) shall(0.0) guarantee(0.0) to(0.0) every(0.0) State(1.0) in(0.0) this(0.0) Union(1.0) a(0.0) Republican(1.0) form(1.0) of(0.0) government(1.0) ,(0.0) and(0.0) shall(0.0) protect(0.0) 
+each(0.0) of(0.0) them(0.0) against(0.0) invasion(0.0) ;(0.0) and(0.0) on(0.0) application(0.0) of(0.0) the(0.0) legislature(1.0) ,(0.0) or(1.0) of(0.0) the(0.0) executive(1.0) ((0.0) when(0.0) the(0.0) 
+legislature(1.0) can(1.0) not(0.0) be(0.0) convened(1.0) )(0.0) ,(0.0) against(0.0) domestic(0.0) violence(1.0) .(0.0) Article(0.0) V.(1.0) The(0.0) Congress(0.0) ,(0.0) whenever(1.0) two-thirds(1.0) of(0.0) both(0.0) 
+Houses(0.0) shall(1.0) deem(1.0) it(0.0) necessary(1.0) ,(0.0) shall(1.0) propose(1.0) amendments(0.0) to(0.0) this(0.0) Constitution(0.0) ,(0.0) or(1.0) ,(0.0) on(0.0) the(0.0) application(0.0) of(0.0) the(0.0) 
+legislatures(1.0) of(0.0) two-thirds(1.0) of(0.0) the(0.0) several(0.0) States(1.0) ,(0.0) shall(1.0) call(0.0) a(0.0) convention(1.0) for(0.0) proposing(0.0) amendments(0.0) ,(0.0) which(0.0) ,(0.0) in(0.0) either(1.0) 
+case(0.0) ,(0.0) shall(1.0) be(0.0) valid(1.0) to(0.0) all(0.0) intents(1.0) and(0.0) purposes(1.0) ,(0.0) as(0.0) part(0.0) of(0.0) this(0.0) Constitution(0.0) ,(0.0) when(0.0) ratified(1.0) by(0.0) 
+the(0.0) legislatures(1.0) of(0.0) three-fourths(1.0) of(0.0) the(0.0) several(0.0) States(1.0) .(0.0) ''(0.0) That(0.0) is(0.0) the(0.0) portion(0.0) that(0.0) was(0.0) omitted(0.0) earlier(0.0) and(0.0) that(0.0) 
+,(0.0) by(0.0) unanimous(0.0) consent(0.0) ,(0.0) is(0.0) now(0.0) included(0.0) in(0.0) the(0.0) reading(0.0) of(0.0) the(0.0) Constitution(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+State	Union	Republican	form	government	
+legislature	or	executive	
+legislature	can	convened	violence	V.	whenever	two-thirds	
+shall	deem	necessary	shall	propose	or	
+legislatures	two-thirds	States	shall	convention	either	
+shall	valid	intents	purposes	ratified	
+legislatures	three-fourths	States	
+
+
+reads % = 0.22435897435897437

@@ -1,0 +1,48 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) while(0.0) I(0.0) strongly(1.0) believe(0.0) Congress(0.0) should(0.0) pay(1.0) tribute(1.0) to(0.0) the(0.0) victims(0.0) of(0.0) 9/11(1.0) and(0.0) honor(1.0) our(0.0) brave(0.0) troops(0.0) and(0.0) 
+first-(0.0) responders(0.0) for(0.0) their(0.0) valiant(0.0) service(0.0) to(0.0) America(0.0) ,(0.0) this(0.0) resolution(0.0) unequivocally(1.0) exploits(0.0) the(0.0) victims(0.0) of(0.0) 9/11(1.0) for(0.0) narrow(1.0) political(1.0) 
+purposes(1.0) and(0.0) perpetuates(1.0) erroneous(0.0) claims(0.0) connecting(1.0) 9/11(0.0) to(0.0) the(0.0) war(1.0) in(0.0) Iraq(1.0) .(0.0) The(0.0) bi-partisan(0.0) 9/11(1.0) Commission(0.0) declared(1.0) --(0.0) in(0.0) 
+no(0.0) uncertain(1.0) terms(0.0) --(0.0) that(0.0) there(0.0) was(0.0) no(1.0) connection(0.0) between(0.0) 9/11(0.0) ,(0.0) al(0.0) Qaeda(0.0) and(0.0) Iraq(1.0) .(0.0) For(1.0) those(0.0) who(0.0) 
+support(0.0) this(0.0) resolution(0.0) ,(0.0) I(0.0) must(1.0) ask(1.0) --(0.0) is(0.0) Congress(0.0) disputing(1.0) the(0.0) findings(0.0) of(0.0) the(0.0) 9/11(1.0) Commission(0.0) ?(0.0) Does(0.0) Congress(0.0) 
+believe(1.0) al(0.0) Qaeda(0.0) operated(1.0) in(0.0) Iraq(1.0) prior(0.0) to(0.0) the(0.0) U.S.(0.0) invasion(0.0) ?(1.0) And(0.0) is(0.0) Congress(0.0) pleased(0.0) with(0.0) the(0.0) insufficient(1.0) coalition(1.0) 
+assembled(1.0) by(0.0) President(1.0) Bush(1.0) that(0.0) has(0.0) led(0.0) America(0.0) to(0.0) carry(0.0) an(0.0) overwhelming(0.0) economic(1.0) and(0.0) military(1.0) burden(0.0) in(0.0) Iraq(1.0) ?(1.0) The(0.0) 
+facts(1.0) show(0.0) that(0.0) these(0.0) claims(1.0) are(0.0) distortions(0.0) at(0.0) best(0.0) ,(0.0) blatant(1.0) lies(0.0) and(0.0) manipulations(1.0) at(0.0) worst(1.0) ,(0.0) and(0.0) the(0.0) American(0.0) 
+people(0.0) deserve(0.0) the(0.0) truth(1.0) .(0.0) The(0.0) truth(1.0) is(0.0) that(0.0) America(0.0) took(1.0) its(0.0) eye(0.0) off(0.0) the(0.0) ball(0.0) in(0.0) Afghanistan(1.0) ,(0.0) allowing(1.0) 
+terrorists(1.0) such(0.0) as(0.0) Osama(0.0) bin(1.0) Laden(1.0) to(0.0) reconstitute(1.0) their(0.0) forces(1.0) and(0.0) operate(1.0) freely(1.0) .(0.0) By(0.0) transferring(1.0) our(0.0) military(1.0) resources(0.0) from(0.0) 
+Afghanistan(1.0) to(0.0) Iraq(1.0) --(0.0) when(0.0) Iraq(1.0) posed(1.0) no(1.0) imminent(1.0) threat(0.0) and(0.0) had(0.0) no(0.0) weapons(1.0) of(0.0) mass(0.0) destruction(1.0) --(0.0) this(0.0) Administration(0.0) 
+failed(0.0) the(0.0) American(0.0) people(0.0) and(0.0) weakened(0.0) our(0.0) efforts(0.0) in(0.0) the(0.0) war(1.0) against(0.0) terror(1.0) .(0.0) The(0.0) truth(0.0) is(0.0) that(0.0) al(0.0) Qaeda(0.0) 
+was(0.0) not(1.0) operating(0.0) in(0.0) Iraq(1.0) prior(0.0) to(0.0) the(0.0) U.S.(0.0) invasion(0.0) ,(0.0) and(0.0) they(0.0) have(0.0) created(0.0) an(0.0) increasingly(0.0) dangerous(0.0) network(1.0) in(0.0) 
+this(0.0) war-torn(0.0) country(1.0) since(0.0) .(0.0) Despite(1.0) the(0.0) Bush(1.0) Administration's(1.0) claims(0.0) of(0.0) successfully(0.0) combating(1.0) terror(1.0) in(0.0) Iraq(1.0) ,(0.0) the(0.0) reality(1.0) on(0.0) 
+the(0.0) ground(0.0) stands(0.0) in(0.0) stark(1.0) contradiction(1.0) .(0.0) We(0.0) have(0.0) withdrawn(0.0) our(0.0) forces(1.0) from(0.0) four(1.0) cities(0.0) in(0.0) Iraq(1.0) in(0.0) which(0.0) terror(1.0) 
+has(0.0) flourished(0.0) .(0.0) And(0.0) despite(0.0) White(0.0) House(0.0) claims(1.0) ,(0.0) officials(1.0) in(0.0) the(0.0) U.S.(0.0) military(1.0) have(0.0) announced(1.0) that(0.0) it(0.0) can(0.0) not(0.0) 
+eliminate(0.0) these(0.0) sanctuaries(1.0) of(0.0) terror(1.0) .(0.0) As(0.0) we(0.0) mark(1.0) the(0.0) loss(0.0) of(0.0) over(0.0) 1,000(1.0) innocent(1.0) lives(0.0) in(0.0) Iraq(1.0) ,(0.0) Congress(0.0) 
+should(0.0) not(1.0) be(0.0) celebrating(1.0) our(0.0) alleged(0.0) success(0.0) in(0.0) Iraq(1.0) ;(0.0) we(0.0) should(0.0) instead(0.0) examine(0.0) our(0.0) failures(0.0) .(0.0) This(0.0) resolution(0.0) is(0.0) 
+transparent(0.0) ,(0.0) empty(1.0) political(1.0) propaganda(1.0) at(0.0) its(0.0) worst(1.0) ,(0.0) and(0.0) is(0.0) unconscionable(1.0) that(0.0) the(0.0) drafters(1.0) of(0.0) this(0.0) resolution(0.0) would(1.0) egregiously(1.0) 
+politicize(1.0) the(0.0) memory(0.0) of(0.0) 9/11(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+strongly	pay	tribute	9/11	honor	
+unequivocally	9/11	narrow	political	
+purposes	perpetuates	connecting	war	Iraq	9/11	declared	
+uncertain	no	Iraq	For	
+must	ask	disputing	9/11	
+believe	operated	Iraq	?	insufficient	coalition	
+assembled	President	Bush	economic	military	Iraq	?	
+facts	claims	blatant	manipulations	worst	
+truth	truth	took	Afghanistan	allowing	
+terrorists	bin	Laden	reconstitute	forces	operate	freely	transferring	military	
+Afghanistan	Iraq	Iraq	posed	no	imminent	weapons	destruction	
+war	terror	
+not	Iraq	network	
+country	Despite	Bush	Administration's	combating	terror	Iraq	reality	
+stark	contradiction	forces	four	Iraq	terror	
+claims	officials	military	announced	
+sanctuaries	terror	mark	1,000	innocent	Iraq	
+not	celebrating	Iraq	
+empty	political	propaganda	worst	unconscionable	drafters	would	egregiously	
+politicize	9/11	
+
+reads % = 0.2739018087855297

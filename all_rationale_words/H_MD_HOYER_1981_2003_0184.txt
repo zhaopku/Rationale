@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) was(0.0) that(0.0) the(0.0) rule(1.0) that(0.0) the(0.0) distinguished(0.0) Robert(0.0) Walker(1.0) of(0.0) Pennsylvania(1.0) raised(0.0) such(0.0) cane(0.0) about(0.0) and(0.0) was(0.0) so(0.0) angry(0.0) 
+about(0.0) and(0.0) felt(0.0) that(0.0) Jim(0.0) Wright(1.0) was(0.0) so(0.0) out(0.0) of(0.0) order(0.0) about(0.0) when(0.0) he(0.0) held(0.0) the(0.0) vote(1.0) open(0.0) ?(0.0) Is(0.0) 
+that(0.0) the(0.0) rule(1.0) ,(0.0) Mr.(0.0) Speaker(1.0) ?(1.0) 
+
+
+----- below are rationale words -----
+
+rule	Walker	Pennsylvania	
+Wright	vote	
+rule	Speaker	?	
+
+reads % = 0.16666666666666666

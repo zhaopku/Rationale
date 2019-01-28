@@ -1,0 +1,24 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) would(0.0) just(0.0) say(0.0) that(0.0) I(0.0) think(0.0) it(0.0) is(0.0) important(0.0) to(0.0) try(0.0) to(0.0) paint(0.0) the(0.0) macropicture(0.0) ,(0.0) if(0.0) you(0.0) 
+will(0.0) ,(0.0) and(0.0) that(0.0) is(0.0) ,(0.0) in(0.0) the(0.0) President(1.0) 's(0.0) budget(1.0) ,(0.0) he(0.0) put(0.0) forth(0.0) a(0.0) package(0.0) of(0.0) some(0.0) $(0.0) 
+257(0.0) billion(1.0) .(0.0) The(0.0) Senate(1.0) ,(0.0) the(0.0) Republican(1.0) Senate(1.0) ,(1.0) his(1.0) own(1.0) party(1.0) ,(1.0) came(1.0) through(1.0) with(1.0) a(1.0) figure(0.0) of(0.0) 
+some(0.0) $(0.0) 318(0.0) billion(1.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) Alaska(1.0) ((0.0) Mr.(0.0) Young(1.0) )(0.0) ,(0.0) the(0.0) chairman(0.0) of(0.0) the(0.0) appropriate(0.0) committee(0.0) 
+in(0.0) this(0.0) House(0.0) ,(0.0) has(0.0) valiantly(0.0) and(0.0) assiduously(0.0) attempted(0.0) to(0.0) secure(0.0) more(0.0) funding(0.0) because(0.0) not(0.0) only(0.0) do(0.0) we(0.0) need(0.0) our(0.0) 
+infrastructure(1.0) updated(0.0) ,(0.0) but(0.0) for(0.0) the(0.0) very(0.0) reason(0.0) that(0.0) my(0.0) colleague(0.0) articulated(0.0) ,(0.0) it(0.0) produces(0.0) jobs(0.0) ,(0.0) tens(1.0) of(0.0) thousands(1.0) 
+,(0.0) hundreds(0.0) of(0.0) thousands(0.0) of(0.0) jobs(0.0) so(0.0) that(0.0) our(0.0) jobless(1.0) recovery(1.0) ,(0.0) with(0.0) its(0.0) attendant(0.0) wage(1.0) recession(1.0) ,(0.0) will(0.0) receive(0.0) 
+a(0.0) stimulus(1.0) that(0.0) will(0.0) hopefully(0.0) lift(0.0) all(0.0) boats(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+President	budget	
+billion	Senate	Republican	Senate	,	his	own	party	,	came	through	with	a	
+billion	Alaska	Young	
+
+infrastructure	tens	thousands	
+jobless	recovery	wage	recession	
+stimulus	
+
+reads % = 0.17333333333333334

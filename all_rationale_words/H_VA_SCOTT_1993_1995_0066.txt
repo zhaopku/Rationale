@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) in(0.0) summary(0.0) I(0.0) think(0.0) I(0.0) do(0.0) not(0.0) want(0.0) to(0.0) get(0.0) away(0.0) from(0.0) the(0.0) point(0.0) this(0.0) is(0.0) a(0.0) decision(0.0) a(0.0) 
+person(0.0) has(0.0) to(0.0) make(0.0) before(0.0) they(0.0) even(0.0) have(0.0) the(0.0) nerve(0.0) to(0.0) come(0.0) forward(0.0) ,(0.0) and(0.0) this(0.0) is(0.0) just(0.0) one(0.0) more(0.0) 
+barrier(1.0) to(0.0) scaring(1.0) them(0.0) and(0.0) daring(0.0) them(0.0) to(0.0) come(0.0) forth(0.0) and(0.0) vindicate(1.0) their(0.0) rights(1.0) in(0.0) court(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+barrier	scaring	vindicate	rights	court	
+
+reads % = 0.08620689655172414

@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) 3(0.0) minutes(1.0) at(0.0) this(0.0) time(0.0) .(0.0) We(0.0) welcome(0.0) the(0.0) President(1.0) to(0.0) the(0.0) House(0.0) Chamber(0.0) tonight(1.0) ,(0.0) 
+where(0.0) he(0.0) will(0.0) address(1.0) the(0.0) American(0.0) people(0.0) to(0.0) assess(0.0) the(0.0) state(0.0) of(0.0) the(0.0) Union(1.0) .(0.0) This(0.0) presents(0.0) another(0.0) opportunity(0.0) for(0.0) 
+the(0.0) President(1.0) to(0.0) chart(1.0) a(0.0) new(1.0) course(0.0) .(0.0) I(0.0) hope(0.0) the(0.0) President(1.0) takes(1.0) this(0.0) opportunity(0.0) to(0.0) stop(0.0) offering(0.0) empty(0.0) rhetoric(1.0) 
+and(0.0) broken(1.0) promises(1.0) ,(0.0) to(0.0) stop(0.0) pushing(0.0) policies(1.0) that(0.0) have(0.0) proven(1.0) to(0.0) make(0.0) matters(0.0) worse(1.0) ,(0.0) and(0.0) to(0.0) stop(0.0) dividing(0.0) 
+Americans(0.0) for(0.0) political(1.0) gain(1.0) .(0.0) I(0.0) hope(0.0) the(0.0) President(1.0) takes(1.0) this(0.0) opportunity(0.0) to(0.0) start(0.0) working(0.0) with(0.0) us(0.0) to(0.0) get(0.0) America(0.0) 
+back(0.0) on(0.0) track(1.0) .(0.0) Yet(1.0) the(0.0) administration(0.0) has(0.0) ,(0.0) time(0.0) and(0.0) again(0.0) ,(0.0) turned(1.0) hope(0.0) into(0.0) disappointment(1.0) .(0.0) The(0.0) President(1.0) 
+and(0.0) his(0.0) party(1.0) 's(0.0) leaders(1.0) continue(0.0) to(0.0) duck(1.0) from(0.0) the(0.0) most(1.0) pressing(0.0) fiscal(0.0) and(0.0) economic(0.0) challenges(0.0) facing(1.0) our(0.0) Nation(0.0) .(0.0) 
+Exhibit(1.0) A(0.0) of(0.0) this(0.0) failure(1.0) is(0.0) the(0.0) fact(0.0) that(0.0) today(1.0) marks(0.0) 1,000(1.0) days(0.0) without(0.0) Senate(1.0) Democrats(1.0) passing(0.0) a(0.0) budget(0.0) .(0.0) 
+Having(1.0) failed(0.0) to(0.0) put(0.0) forward(0.0) a(0.0) credible(1.0) plan(1.0) in(0.0) 1,000(1.0) days(0.0) ,(0.0) the(0.0) President(1.0) 's(0.0) party(1.0) is(0.0) committing(1.0) America(0.0) to(0.0) 
+a(0.0) future(0.0) of(0.0) debt(1.0) ,(0.0) doubt(1.0) ,(0.0) and(0.0) decline(0.0) .(0.0) Instead(1.0) of(0.0) dealing(0.0) honestly(1.0) with(0.0) our(0.0) biggest(1.0) fiscal(0.0) challenges(0.0) and(0.0) 
+providing(0.0) certainty(0.0) to(0.0) job(0.0) creators(0.0) ,(0.0) Senate(1.0) Democrats(1.0) have(0.0) refused(1.0) to(0.0) meet(0.0) their(0.0) legal(0.0) and(0.0) moral(0.0) obligations(0.0) to(0.0) propose(1.0) and(0.0) 
+pass(1.0) a(0.0) budget(0.0) .(0.0) The(0.0) President(1.0) and(0.0) his(0.0) party(1.0) 's(0.0) leaders(1.0) refuse(1.0) to(0.0) account(0.0) for(0.0) their(0.0) reckless(1.0) spending(1.0) spree(1.0) .(0.0) 
+The(0.0) lack(0.0) of(0.0) credible(1.0) budget(0.0) plans(1.0) from(0.0) the(0.0) President(1.0) and(0.0) his(0.0) party(1.0) leaders(1.0) raises(0.0) the(0.0) question(0.0) :(1.0) What(0.0) are(0.0) they(0.0) 
+hiding(1.0) ?(1.0) Is(1.0) it(0.0) threats(0.0) to(0.0) economic(0.0) security(0.0) ,(0.0) health(1.0) security(0.0) ,(0.0) and(0.0) national(0.0) security(0.0) that(0.0) would(1.0) result(0.0) from(0.0) their(0.0) 
+policy(0.0) agenda(0.0) ?(0.0) the(0.0) job-(1.0) destroying(1.0) tax(1.0) hikes(1.0) that(0.0) they(0.0) continue(0.0) to(0.0) insist(1.0) upon(0.0) ?(1.0) the(0.0) bureaucratic(1.0) rationing(1.0) and(0.0) denial(1.0) 
+of(0.0) vital(1.0) care(0.0) for(0.0) seniors(0.0) that(0.0) would(1.0) result(0.0) from(0.0) their(0.0) health(1.0) care(0.0) law(1.0) ?(0.0) or(1.0) the(0.0) deep(1.0) cuts(1.0) to(0.0) the(0.0) 
+military(1.0) that(0.0) would(1.0) hollow(1.0) out(0.0) our(0.0) national(0.0) defense(0.0) ?(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) their(0.0) policy(1.0) preferences(1.0) call(0.0) for(0.0) ever(0.0) higher(0.0) levels(0.0) 
+of(0.0) government(1.0) spending(1.0) ,(0.0) higher(0.0) taxes(1.0) ,(0.0) a(0.0) board(0.0) of(0.0) bureaucrats(1.0) to(0.0) cut(1.0) Medicare(1.0) ,(0.0) and(0.0) a(0.0) smaller(1.0) military(1.0) .(0.0) 
+It(0.0) 's(0.0) understandable(0.0) why(0.0) they(0.0) 'd(0.0) be(0.0) afraid(1.0) to(0.0) try(0.0) and(0.0) fit(0.0) that(0.0) agenda(1.0) on(0.0) a(0.0) spreadsheet(0.0) ,(0.0) but(0.0) that(0.0) 
+is(0.0) no(0.0) excuse(1.0) for(0.0) giving(0.0) up(0.0) on(0.0) budgeting(1.0) .(0.0) This(0.0) failure(1.0) to(0.0) budget(0.0) stands(0.0) in(0.0) stark(1.0) contrast(0.0) to(0.0) our(0.0) efforts(0.0) 
+here(0.0) in(0.0) the(0.0) House(0.0) .(0.0) As(1.0) the(0.0) law(1.0) requires(0.0) ,(0.0) we(0.0) proposed(0.0) and(0.0) passed(0.0) a(0.0) budget(0.0) resolution(0.0) last(1.0) spring(0.0) .(0.0) 
+We(0.0) honestly(1.0) confronted(1.0) our(0.0) Nation(0.0) 's(0.0) most(1.0) difficult(0.0) challenges(0.0) ,(0.0) putting(0.0) the(0.0) budget(0.0) on(0.0) a(0.0) path(1.0) to(0.0) balance(0.0) and(0.0) the(0.0) 
+country(1.0) back(0.0) on(0.0) to(0.0) a(0.0) path(1.0) to(0.0) prosperity(1.0) .(0.0) We(0.0) will(0.0) keep(1.0) working(0.0) together(0.0) to(0.0) advance(0.0) solutions(1.0) this(0.0) year(0.0) ,(0.0) 
+and(0.0) we(0.0) call(0.0) upon(0.0) our(0.0) friends(0.0) in(0.0) the(0.0) Senate(1.0) to(0.0) get(0.0) serious(0.0) about(0.0) their(0.0) duty(1.0) to(0.0) those(0.0) they(0.0) serve(0.0) :(0.0) 
+Propose(0.0) a(0.0) budget(0.0) ;(0.0) engage(1.0) in(0.0) debates(0.0) ;(0.0) advance(1.0) solutions(1.0) .(0.0) I(0.0) thank(0.0) Congressman(1.0) Nugent(1.0) for(0.0) his(0.0) leadership(1.0) on(0.0) 
+
+
+----- below are rationale words -----
+
+minutes	President	tonight	
+address	Union	
+President	chart	new	President	takes	rhetoric	
+broken	promises	policies	proven	worse	
+political	gain	President	takes	
+track	Yet	turned	disappointment	President	
+party	leaders	duck	most	facing	
+Exhibit	failure	today	1,000	Senate	Democrats	
+Having	credible	plan	1,000	President	party	committing	
+debt	doubt	Instead	honestly	biggest	
+Senate	Democrats	refused	propose	
+pass	President	party	leaders	refuse	reckless	spending	spree	
+credible	plans	President	party	leaders	:	
+hiding	?	Is	health	would	
+job-	destroying	tax	hikes	insist	?	bureaucratic	rationing	denial	
+vital	would	health	law	or	deep	cuts	
+military	would	hollow	Speaker	policy	preferences	
+government	spending	taxes	bureaucrats	cut	Medicare	smaller	military	
+afraid	agenda	
+excuse	budgeting	failure	stark	
+As	law	last	
+honestly	confronted	most	path	
+country	path	prosperity	keep	solutions	
+Senate	duty	
+engage	advance	solutions	Congressman	Nugent	leadership	
+
+reads % = 0.254

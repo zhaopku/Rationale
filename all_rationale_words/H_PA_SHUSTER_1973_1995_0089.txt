@@ -1,0 +1,38 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) rise(0.0) in(0.0) strong(0.0) opposition(1.0) to(0.0) the(0.0) amendment(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) this(0.0) amendment(1.0) is(0.0) simply(0.0) a(0.0) grab(0.0) bag(0.0) 
+of(0.0) deletions(0.0) of(0.0) both(0.0) the(0.0) reform(1.0) and(0.0) flexibility(0.0) provisions(1.0) in(0.0) the(0.0) bill(1.0) .(0.0) It(0.0) deletes(0.0) the(0.0) provisions(1.0) of(0.0) flexibility(0.0) on(0.0) 
+the(0.0) nonconventional(1.0) pollution(1.0) .(0.0) It(0.0) guts(1.0) the(0.0) pollution(1.0) provision(1.0) opportunities(0.0) .(0.0) It(0.0) deletes(0.0) the(0.0) pretreatment(1.0) flexibility(0.0) .(0.0) And(0.0) ,(0.0) perhaps(0.0) 
+most(0.0) importantly(0.0) ,(0.0) it(0.0) fundamentally(1.0) mischaracterizes(1.0) the(0.0) waiver(1.0) provisions(1.0) in(0.0) this(0.0) bill(1.0) .(0.0) My(0.0) good(0.0) friend(0.0) from(0.0) California(0.0) says(0.0) that(0.0) 
+these(0.0) waivers(1.0) should(0.0) be(0.0) eliminated(0.0) because(0.0) they(0.0) give(0.0) industry(1.0) and(0.0) others(0.0) the(0.0) opportunity(0.0) to(0.0) in(0.0) effect(1.0) get(0.0) entitlements(1.0) to(0.0) waivers(1.0) 
+.(0.0) That(0.0) simply(0.0) is(0.0) not(0.0) the(0.0) case(0.0) .(0.0) No(0.0) waiver(1.0) can(0.0) be(0.0) granted(0.0) unless(0.0) the(0.0) States(0.0) water(0.0) authority(0.0) officials(0.0) and(0.0) 
+the(0.0) EPA(1.0) approve(0.0) the(0.0) waiver(1.0) .(0.0) Now(0.0) ,(0.0) are(0.0) the(0.0) State(0.0) water(0.0) quality(0.0) officials(0.0) going(0.0) to(0.0) approve(0.0) a(0.0) waiver(0.0) that(0.0) 
+harms(1.0) the(0.0) environment(0.0) ?(0.0) Is(0.0) the(0.0) EPA(1.0) going(0.0) to(0.0) approve(1.0) a(0.0) waiver(1.0) that(0.0) harms(1.0) the(0.0) environment(0.0) ?(0.0) Of(0.0) course(0.0) not(0.0) 
+.(0.0) These(0.0) waivers(1.0) ,(0.0) when(0.0) requested(0.0) ,(0.0) must(0.0) meet(0.0) water(1.0) quality(0.0) standards(1.0) ,(0.0) and(0.0) they(0.0) must(0.0) get(0.0) the(0.0) written(0.0) approval(0.0) 
+of(0.0) the(0.0) water(0.0) quality(0.0) officials(1.0) in(0.0) the(0.0) States(0.0) or(0.0) the(0.0) EPA(1.0) .(0.0) So(0.0) this(0.0) simply(0.0) is(0.0) an(0.0) attempt(0.0) to(0.0) gut(1.0) 
+the(0.0) legislation(1.0) we(0.0) have(0.0) before(0.0) us(0.0) .(0.0) The(0.0) very(0.0) groups(0.0) ,(0.0) and(0.0) I(0.0) will(0.0) not(0.0) take(0.0) a(0.0) lot(0.0) of(0.0) the(0.0) 
+committee(0.0) 's(0.0) time(0.0) to(0.0) go(0.0) through(0.0) this(0.0) in(0.0) detail(0.0) .(0.0) We(0.0) covered(0.0) this(0.0) in(0.0) the(0.0) previous(0.0) debate(1.0) .(0.0) The(0.0) very(0.0) 
+same(0.0) groups(0.0) from(0.0) the(0.0) National(0.0) Governors(0.0) '(0.0) Association(0.0) on(0.0) down(0.0) ,(0.0) who(0.0) opposed(0.0) the(0.0) previous(0.0) amendment(1.0) ,(0.0) oppose(1.0) this(0.0) legislation(1.0) 
+.(0.0) So(0.0) I(0.0) would(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) vote(1.0) this(0.0) down(0.0) so(0.0) we(0.0) can(0.0) get(0.0) on(0.0) with(0.0) the(0.0) consideration(0.0) of(0.0) 
+this(0.0) bill(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+opposition	amendment	Chairman	amendment	
+reform	provisions	bill	provisions	
+nonconventional	pollution	guts	pollution	provision	pretreatment	
+fundamentally	mischaracterizes	waiver	provisions	bill	
+waivers	industry	effect	entitlements	waivers	
+waiver	
+EPA	waiver	
+harms	EPA	approve	waiver	harms	
+waivers	water	standards	
+officials	EPA	gut	
+legislation	
+debate	
+amendment	oppose	legislation	
+vote	
+bill	
+
+reads % = 0.15845070422535212

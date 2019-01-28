@@ -1,0 +1,34 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) would(0.0) like(0.0) to(0.0) respond(0.0) as(0.0) well(0.0) to(0.0) the(0.0) gentlewoman(0.0) from(0.0) New(0.0) York(1.0) ((0.0) Mrs.(0.0) Maloney(1.0) )(0.0) ,(0.0) my(0.0) 
+friend(0.0) and(0.0) colleague(0.0) ,(0.0) from(0.0) the(0.0) perspective(0.0) that(0.0) I(0.0) am(0.0) pleased(0.0) to(0.0) join(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) ((0.0) Mr.(0.0) Lantos(1.0) 
+)(0.0) and(0.0) the(0.0) gentleman(0.0) from(0.0) Illinois(0.0) ((0.0) Mr.(0.0) Hyde(1.0) )(0.0) as(1.0) a(0.0) sponsor(0.0) on(0.0) this(0.0) amendment(0.0) .(0.0) The(0.0) notion(0.0) that(0.0) 
+what(0.0) we(0.0) are(0.0) doing(0.0) here(0.0) is(0.0) somehow(0.0) a(0.0) violation(1.0) of(0.0) fair(1.0) play(0.0) is(0.0) really(0.0) quite(0.0) foreign(1.0) to(0.0) me(0.0) at(0.0) this(0.0) 
+point(0.0) .(0.0) What(0.0) we(0.0) are(0.0) doing(0.0) in(0.0) bringing(0.0) this(0.0) amendment(1.0) forward(0.0) is(0.0) disallowing(1.0) the(0.0) Libyans(1.0) ,(0.0) the(0.0) Chinese(0.0) ,(0.0) those(0.0) 
+in(0.0) Sudan(1.0) and(0.0) those(0.0) who(0.0) throughout(0.0) the(0.0) world(0.0) want(0.0) to(0.0) sit(0.0) in(0.0) judgment(0.0) of(0.0) human(0.0) rights(1.0) violations(1.0) and(0.0) sit(0.0) in(0.0) 
+judgment(0.0) by(0.0) excluding(0.0) and(0.0) pushing(0.0) the(0.0) United(0.0) States(0.0) out(0.0) from(0.0) that(0.0) conversation(0.0) .(0.0) This(0.0) amendment(1.0) is(0.0) about(0.0) fighting(1.0) and(0.0) protecting(1.0) 
+human(0.0) rights(1.0) throughout(0.0) the(0.0) world(0.0) ,(0.0) Mr.(0.0) Chairman(1.0) .(0.0) Secret(0.0) ballots(1.0) at(0.0) the(0.0) United(0.0) Nations(0.0) enable(0.0) human(0.0) rights(1.0) violators(1.0) and(0.0) 
+those(0.0) who(0.0) impede(0.0) our(0.0) ability(0.0) to(0.0) combat(0.0) international(0.0) narcotics(0.0) and(0.0) other(0.0) important(0.0) causes(0.0) ,(0.0) they(0.0) push(0.0) us(0.0) from(0.0) that(0.0) debate(1.0) 
+and(0.0) that(0.0) argument(1.0) .(0.0) So(0.0) I(0.0) am(0.0) proud(0.0) to(0.0) come(0.0) forward(0.0) and(0.0) offer(0.0) this(0.0) amendment(1.0) ,(0.0) because(0.0) after(0.0) all(0.0) ,(0.0) 
+the(0.0) greatest(0.0) sense(0.0) of(0.0) leverage(1.0) we(0.0) have(0.0) as(0.0) a(0.0) Nation(1.0) is(0.0) the(0.0) fact(0.0) that(0.0) we(0.0) contribute(0.0) 25(0.0) percent(0.0) for(0.0) the(0.0) 
+activities(0.0) at(0.0) the(0.0) United(0.0) Nations(0.0) .(0.0) To(0.0) not(0.0) have(0.0) the(0.0) United(0.0) States(0.0) sitting(0.0) on(0.0) the(0.0) Human(0.0) Rights(0.0) Commission(0.0) is(0.0) a(0.0) 
+travesty(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+York	Maloney	
+Lantos	
+Hyde	as	
+violation	fair	foreign	
+amendment	disallowing	Libyans	
+Sudan	rights	violations	
+amendment	fighting	protecting	
+rights	Chairman	ballots	rights	violators	
+debate	
+argument	amendment	
+leverage	Nation	
+
+
+
+reads % = 0.1111111111111111

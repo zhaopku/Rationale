@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) reclaiming(1.0) my(0.0) time(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) chairman(0.0) for(0.0) his(0.0) commitment(0.0) .(0.0) And(0.0) with(0.0) that(0.0) ,(0.0) I(0.0) will(0.0) not(0.0) 
+offer(0.0) the(0.0) amendment(1.0) ,(0.0) but(0.0) will(0.0) be(0.0) working(0.0) to(0.0) make(0.0) sure(0.0) that(0.0) consumer(1.0) identity(0.0) theft(0.0) investigation(0.0) and(0.0) prosecution(1.0) is(0.0) properly(0.0) 
+funded(1.0) under(0.0) the(0.0) bill(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+reclaiming	
+amendment	consumer	prosecution	
+funded	bill	
+
+reads % = 0.13043478260869565

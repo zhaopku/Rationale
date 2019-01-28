@@ -1,0 +1,16 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) chairman(0.0) for(0.0) yielding(0.0) me(0.0) this(0.0) time(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) understand(0.0) that(0.0) the(0.0) gentleman(0.0) has(0.0) 
+proposed(0.0) an(0.0) amendment(1.0) in(0.0) the(0.0) nature(0.0) of(0.0) a(0.0) substitute(0.0) which(0.0) differs(0.0) in(0.0) numerous(0.0) ways(0.0) from(0.0) the(0.0) bill(1.0) ,(0.0) H.R(0.0) .(0.0) 
+2276(0.0) ,(0.0) that(0.0) was(0.0) reported(0.0) out(0.0) .(0.0) I(0.0) am(0.0) told(0.0) the(0.0) most(0.0) significant(0.0) of(0.0) these(0.0) changes(0.0) involved(0.0) the(0.0) deletion(0.0) of(0.0) 
+the(0.0) off(0.0) budget(1.0) provisions(1.0) .(0.0) Is(0.0) that(0.0) accurate(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	
+amendment	bill	
+
+budget	provisions	
+
+reads % = 0.07142857142857142

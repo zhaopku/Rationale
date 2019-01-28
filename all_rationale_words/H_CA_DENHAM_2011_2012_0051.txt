@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) pass(0.0) the(0.0) bill(0.0) ((1.0) H.R(1.0) .(0.0) 2903(0.0) )(0.0) to(0.0) reauthorize(0.0) the(0.0) programs(0.0) 
+and(0.0) activities(0.0) of(0.0) the(0.0) Federal(0.0) Emergency(0.0) Management(0.0) Agency(0.0) ,(0.0) as(0.0) amended(0.0) .(0.0) The(0.0) Clerk(0.0) read(0.0) the(0.0) title(0.0) of(0.0) the(0.0) bill(0.0) 
+.(0.0) The(0.0) text(0.0) of(0.0) the(0.0) bill(0.0) is(0.0) as(0.0) follows(0.0) :(0.0) H.R(0.0) .(0.0) 2903(0.0) Be(0.0) it(0.0) enacted(0.0) by(0.0) the(0.0) Senate(0.0) and(0.0) 
+House(0.0) of(0.0) Representatives(0.0) of(0.0) the(0.0) United(0.0) States(0.0) of(0.0) America(0.0) in(0.0) Congress(0.0) assembled(0.0) ,(0.0) SECTION(0.0) 1(0.0) .(0.0) SHORT(0.0) TITLE(0.0) AND(0.0) TABLE(0.0) 
+OF(0.0) CONTENTS(0.0) .(0.0) ((0.0) a(0.0) )(0.0) Short(0.0) Title.(0.0) --(0.0) This(0.0) Act(0.0) may(0.0) be(0.0) cited(0.0) as(0.0) the(0.0) ``(0.0) FEMA(0.0) Reauthorization(0.0) Act(0.0) 
+of(0.0) 2012(0.0) ''(0.0) .(0.0) ((0.0) b(0.0) )(0.0) Table(0.0) of(0.0) Contents.(0.0) --(0.0) Sec(0.0) .(0.0) 1(0.0) .(0.0) Short(0.0) title(0.0) and(0.0) table(0.0) of(0.0) 
+contents(0.0) .(0.0) TITLE(0.0) I(0.0) --(0.0) REAUTHORIZATION(0.0) OF(0.0) FEMA(0.0) AND(0.0) MODERNIZATION(0.0) OF(0.0) INTEGRATED(0.0) PUBLIC(0.0) ALERT(0.0) AND(0.0) WARNING(0.0) SYSTEM(0.0) Sec(0.0) .(0.0) 101(0.0) 
+.(0.0) Reauthorization(0.0) of(0.0) Federal(0.0) Emergency(0.0) Management(0.0) Agency(0.0) .(0.0) Sec(0.0) .(0.0) 102(0.0) .(0.0) Integrated(0.0) Public(0.0) Alert(0.0) and(0.0) Warning(0.0) System(0.0) Modernization(0.0) .(0.0) 
+TITLE(0.0) II(0.0) --(0.0) STAFFORD(0.0) ACT(0.0) AND(0.0) OTHER(0.0) PROGRAMS(0.0) Sec(0.0) .(0.0) 201(0.0) .(0.0) Reauthorization(0.0) of(0.0) urban(1.0) search(0.0) and(0.0) rescue(0.0) response(0.0) system(0.0) 
+.(0.0) Sec(0.0) .(0.0) 202(0.0) .(0.0) Reauthorization(0.0) of(0.0) emergency(0.0) management(0.0) assistance(0.0) compact(0.0) grants(0.0) .(0.0) Sec(0.0) .(0.0) 203(0.0) .(0.0) Disposal(0.0) of(0.0) excess(0.0) 
+property(0.0) to(0.0) assist(0.0) other(0.0) disaster(0.0) survivors(0.0) .(0.0) Sec(0.0) .(0.0) 204(0.0) .(0.0) Storage(0.0) ,(0.0) sale(0.0) ,(0.0) transfer(0.0) ,(0.0) and(0.0) disposal(0.0) of(0.0) 
+housing(0.0) units(0.0) .(0.0) Sec(0.0) .(0.0) 205(0.0) .(0.0) Other(0.0) methods(0.0) of(0.0) disposal(0.0) .(0.0) Sec(0.0) .(0.0) 206(0.0) .(0.0) Establishment(0.0) of(0.0) criteria(0.0) relating(0.0) 
+to(0.0) administration(0.0) of(0.0) hazard(0.0) mitigation(1.0) assistance(0.0) by(0.0) States(0.0) .(0.0) Sec(0.0) .(0.0) 207.(0.0) Review(0.0) of(0.0) regulations(0.0) and(0.0) policies(0.0) .(0.0) Sec(0.0) .(0.0) 
+208(0.0) .(0.0) Appeals(0.0) process(0.0) .(0.0) Sec(0.0) .(0.0) 209(0.0) .(0.0) Implementation(0.0) of(0.0) cost(0.0) estimating(0.0) .(0.0) Sec(0.0) .(0.0) 210(0.0) .(0.0) Tribal(0.0) requests(0.0) 
+for(0.0) a(0.0) major(0.0) disaster(0.0) or(0.0) emergency(0.0) declaration(0.0) under(0.0) the(0.0) Stafford(0.0) Act(0.0) .(0.0) Sec(0.0) .(0.0) 211(0.0) .(0.0) Individual(0.0) assistance(0.0) factors(0.0) .(0.0) 
+Sec(0.0) .(0.0) 212(0.0) .(0.0) Public(0.0) assistance(0.0) pilot(0.0) program(0.0) .(0.0) Sec(0.0) .(0.0) 213(0.0) .(0.0) Public(0.0) assistance(0.0) debris(0.0) removal(0.0) procedures(0.0) .(0.0) Sec(0.0) 
+.(0.0) 214(0.0) .(0.0) Use(0.0) of(0.0) funds(0.0) .(0.0) Sec(0.0) .(0.0) 215(0.0) .(0.0) Reduction(0.0) of(0.0) authorization(0.0) for(0.0) emergency(0.0) management(0.0) performance(0.0) grants(0.0) .(0.0) 
+Sec(0.0) .(0.0) 216(0.0) .(0.0) Technical(0.0) correction(0.0) .(0.0) Sec(0.0) .(0.0) 217(0.0) .(0.0) National(0.0) Dam(0.0) Safety(0.0) Program(0.0) Act(0.0) reauthorization(0.0) .(0.0) TITLE(0.0) I(0.0) 
+--(0.0) REAUTHORIZATION(0.0) OF(0.0) FEMA(0.0) AND(0.0) MODERNIZATION(0.0) OF(0.0) INTEGRATED(0.0) PUBLIC(0.0) ALERT(0.0) AND(0.0) WARNING(0.0) SYSTEM(0.0) SEC(0.0) .(0.0) 101(0.0) .(0.0) REAUTHORIZATION(0.0) OF(0.0) FEDERAL(0.0) 
+EMERGENCY(0.0) MANAGEMENT(0.0) AGENCY(0.0) .(0.0) Section(0.0) 699(0.0) of(0.0) the(0.0) Post-Katrina(1.0) Emergency(0.0) Management(0.0) Reform(0.0) Act(0.0) of(0.0) 2006(0.0) ((0.0) 6(0.0) U.S.C(0.0) .(0.0) 811(0.0) 
+)(0.0) is(0.0) amended(0.0) to(0.0) read(0.0) as(0.0) follows(0.0) :(0.0) ``(0.0) SEC(0.0) .(0.0) 699(0.0) .(0.0) AUTHORIZATION(0.0) OF(0.0) APPROPRIATIONS(0.0) .(0.0) ``(0.0) There(0.0) are(0.0) 
+authorized(0.0) to(0.0) be(0.0) appropriated(0.0) to(0.0) carry(0.0) out(0.0) this(0.0) title(0.0) and(0.0) the(0.0) amendments(0.0) made(0.0) by(0.0) this(0.0) title(0.0) for(0.0) the(0.0) salaries(0.0) and(0.0) 
+expenses(0.0) of(0.0) the(0.0) Agency(0.0) --(0.0) ``(0.0) ((0.0) 1(0.0) )(0.0) for(0.0) fiscal(0.0) year(0.0) 2012(0.0) ,(0.0) $(0.0) 1,031,378,000(0.0) ,(0.0) including(0.0) amounts(0.0) transferred(0.0) 
+from(0.0) grant(0.0) programs(0.0) ;(0.0) ``(0.0) ((0.0) 2(0.0) )(0.0) for(0.0) fiscal(0.0) year(0.0) 2013(0.0) ,(0.0) $(0.0) 1,031,378,000(0.0) ,(0.0) including(0.0) amounts(0.0) transferred(0.0) from(0.0) 
+grant(0.0) programs(0.0) ;(0.0) and(0.0) ``(0.0) ((0.0) 3(0.0) )(0.0) for(0.0) fiscal(0.0) year(0.0) 2014(0.0) ,(0.0) $(0.0) 1,031,378,000(0.0) ,(0.0) including(0.0) amounts(0.0) transferred(0.0) 
+
+
+----- below are rationale words -----
+
+(	H.R	
+
+
+
+
+
+
+
+urban	
+
+
+
+mitigation	
+
+
+
+
+
+
+Post-Katrina	
+
+
+
+
+
+
+reads % = 0.01

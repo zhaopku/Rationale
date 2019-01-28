@@ -1,0 +1,10 @@
+This is from a Republican
+----- below is the original text -----
+That(0.0) is(0.0) what(0.0) this(0.0) bill(1.0) is(0.0) saying(0.0) .(0.0) Let(0.0) us(0.0) both(0.0) use(0.0) it(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+bill	
+
+reads % = 0.07142857142857142

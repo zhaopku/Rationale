@@ -1,0 +1,36 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) rise(0.0) in(0.0) strong(0.0) support(0.0) of(0.0) the(0.0) USA(0.0) FREEDOM(1.0) Act(0.0) .(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) and(0.0) congratulate(0.0) all(0.0) 
+those(0.0) who(0.0) had(0.0) a(0.0) hand(0.0) in(0.0) crafting(0.0) the(0.0) legislation(1.0) before(0.0) us(0.0) ,(0.0) particularly(0.0) Chairman(0.0) Rogers(1.0) and(0.0) Ranking(0.0) Member(0.0) Ruppersberger(1.0) .(0.0) 
+Changes(0.0) to(0.0) our(0.0) national(1.0) security(0.0) program(0.0) should(0.0) not(0.0) be(0.0) taken(0.0) lightly(0.0) ,(0.0) and(0.0) this(0.0) compromise(1.0) legislation(1.0) is(0.0) the(0.0) result(0.0) of(0.0) 
+vigorous(1.0) debate(1.0) and(0.0) careful(0.0) consideration(1.0) .(0.0) As(0.0) Chairman(0.0) Rogers(1.0) pointed(1.0) out(0.0) ,(0.0) with(0.0) all(0.0) the(0.0) reviews(0.0) and(0.0) investigations(0.0) that(0.0) have(0.0) 
+taken(0.0) place(0.0) with(0.0) respect(0.0) to(0.0) the(0.0) bulk(0.0) collection(0.0) program(0.0) ,(0.0) no(0.0) violations(1.0) of(0.0) law(1.0) were(0.0) found(0.0) .(0.0) But(0.0) there(0.0) was(0.0) 
+concern(0.0) that(0.0) there(0.0) could(0.0) be(0.0) abuses(1.0) in(0.0) the(0.0) future(0.0) ,(0.0) and(0.0) the(0.0) American(0.0) people(0.0) wanted(0.0) a(0.0) better(0.0) balance(0.0) to(0.0) be(0.0) 
+struck(0.0) between(0.0) national(1.0) security(0.0) and(0.0) protecting(0.0) privacy(1.0) and(0.0) civil(1.0) liberties(1.0) and(0.0) more(0.0) accountability(1.0) .(0.0) Many(0.0) of(0.0) my(0.0) constituents(1.0) have(0.0) expressed(0.0) 
+concerns(0.0) about(0.0) the(0.0) sanctity(1.0) of(0.0) their(0.0) civil(1.0) liberties(1.0) ,(0.0) and(0.0) I(0.0) share(0.0) their(0.0) concern(0.0) .(0.0) I(0.0) firmly(0.0) believe(0.0) that(0.0) this(0.0) 
+legislation(1.0) protects(1.0) that(0.0) privacy(1.0) by(0.0) ending(1.0) bulk(0.0) metadata(0.0) collection(0.0) while(0.0) still(0.0) safeguarding(1.0) our(0.0) national(1.0) security(0.0) .(0.0) I(0.0) am(0.0) particularly(0.0) pleased(0.0) 
+that(0.0) this(0.0) legislation(1.0) includes(0.0) provisions(1.0) very(0.0) similar(0.0) to(0.0) those(0.0) that(0.0) I(0.0) championed(1.0) in(0.0) the(0.0) Intelligence(0.0) Committee(0.0) which(0.0) allow(0.0) the(0.0) Foreign(0.0) 
+Intelligence(0.0) Surveillance(0.0) Court(0.0) to(0.0) appoint(0.0) an(0.0) independent(0.0) advocate(1.0) with(0.0) legal(1.0) or(0.0) technical(0.0) expertise(0.0) in(0.0) the(0.0) field(0.0) ,(0.0) such(0.0) as(0.0) privacy(0.0) 
+and(0.0) civil(1.0) liberties(1.0) ,(0.0) intelligence(0.0) collection(0.0) ,(0.0) telecommunication(0.0) ,(0.0) cyber(1.0) ,(0.0) or(0.0) any(0.0) other(0.0) area(0.0) of(0.0) law(1.0) necessary(0.0) in(0.0) order(0.0) 
+to(0.0) ensure(0.0) independent(0.0) checks(0.0) on(0.0) government(1.0) surveillance(0.0) within(0.0) the(0.0) court(0.0) 's(0.0) process(0.0) .(0.0) With(0.0) that(0.0) ,(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) 
+to(0.0) support(0.0) the(0.0) bill(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	FREEDOM	
+legislation	Rogers	Ruppersberger	
+national	compromise	legislation	
+vigorous	debate	consideration	Rogers	pointed	
+violations	law	
+abuses	
+national	privacy	civil	liberties	accountability	constituents	
+sanctity	civil	liberties	
+legislation	protects	privacy	ending	safeguarding	national	
+legislation	provisions	championed	
+advocate	legal	
+civil	liberties	cyber	law	
+government	
+bill	
+
+reads % = 0.15789473684210525

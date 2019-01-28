@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) having(0.0) heard(0.0) the(0.0) comments(0.0) of(0.0) my(0.0) colleague(0.0) from(0.0) the(0.0) Virgin(0.0) Islands(0.0) ,(0.0) and(0.0) indeed(0.0) the(0.0) comments(0.0) of(0.0) several(0.0) of(0.0) 
+my(0.0) liberal(1.0) colleagues(0.0) this(0.0) morning(0.0) ,(0.0) it(0.0) is(0.0) small(0.0) wonder(0.0) that(0.0) the(0.0) American(0.0) people(0.0) say(0.0) ,(0.0) will(0.0) we(0.0) ever(0.0) stop(0.0) 
+the(0.0) partisan(1.0) bickering(1.0) and(0.0) go(0.0) to(0.0) work(0.0) on(0.0) behalf(0.0) of(0.0) the(0.0) American(0.0) people(0.0) ?(0.0) Are(0.0) there(0.0) concerns(0.0) we(0.0) should(0.0) all(0.0) 
+have(0.0) with(0.0) campaign(1.0) finance(1.0) laws(1.0) ?(1.0) Absolutely(0.0) .(0.0) But(0.0) paramount(0.0) today(0.0) is(0.0) the(0.0) subject(0.0) of(0.0) financing(1.0) for(0.0) the(0.0) family(0.0) and(0.0) 
+making(0.0) sure(0.0) that(0.0) American(0.0) families(0.0) hang(0.0) onto(0.0) more(0.0) of(0.0) their(0.0) own(0.0) money(1.0) and(0.0) send(0.0) less(0.0) of(0.0) it(0.0) to(0.0) Washington(1.0) .(0.0) 
+And(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) this(0.0) day(0.0) and(0.0) its(0.0) significance(0.0) should(0.0) not(0.0) be(0.0) lost(0.0) on(0.0) the(0.0) American(0.0) people(0.0) ,(0.0) as(0.0) 
+we(0.0) pass(0.0) the(0.0) first(0.0) balanced(0.0) budget(1.0) in(0.0) a(0.0) generation(0.0) ,(0.0) as(0.0) we(0.0) save(0.0) Medicare(1.0) for(0.0) the(0.0) next(0.0) decade(1.0) and(0.0) make(0.0) 
+preparations(0.0) to(0.0) deal(0.0) with(0.0) those(0.0) serious(0.0) questions(0.0) ,(0.0) and(0.0) as(0.0) we(0.0) offer(0.0) tax(1.0) relief(1.0) in(0.0) a(0.0) tax(1.0) cut(1.0) for(1.0) working(1.0) 
+families(1.0) and(0.0) providing(0.0) tax(1.0) relief(1.0) at(0.0) every(0.0) stage(0.0) of(0.0) life(0.0) for(0.0) Americans(1.0) for(0.0) the(0.0) first(0.0) time(0.0) in(0.0) 16(0.0) years(0.0) .(0.0) 
+Try(0.0) as(0.0) they(0.0) might(0.0) ,(0.0) the(0.0) professional(0.0) politicians(0.0) want(0.0) to(0.0) change(0.0) the(0.0) subject(0.0) ,(0.0) but(0.0) the(0.0) American(0.0) people(0.0) know(0.0) that(0.0) 
+balancing(0.0) the(0.0) budget(1.0) and(0.0) putting(0.0) our(0.0) family(0.0) finances(1.0) in(0.0) order(0.0) is(0.0) the(0.0) proper(0.0) first(0.0) order(0.0) of(0.0) business(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+liberal	
+partisan	bickering	
+campaign	finance	laws	?	financing	
+money	Washington	
+Speaker	
+budget	Medicare	decade	
+tax	relief	tax	cut	for	working	
+families	tax	relief	Americans	
+
+budget	finances	
+
+reads % = 0.1187214611872146

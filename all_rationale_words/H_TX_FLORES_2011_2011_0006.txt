@@ -1,0 +1,34 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) to(0.0) recognize(0.0) the(0.0) Texas(1.0) A(0.0) &(0.0) M(0.0) University(0.0) Women(1.0) 's(0.0) Basketball(0.0) team(0.0) on(0.0) their(0.0) remarkable(0.0) run(0.0) 
+in(0.0) the(0.0) 2011(0.0) NCAA(0.0) tournament(0.0) and(0.0) their(0.0) victory(0.0) over(0.0) Notre(1.0) Dame(0.0) to(0.0) claim(0.0) their(0.0) first(0.0) ever(0.0) national(0.0) championship(0.0) in(0.0) school(0.0) 
+history(0.0) .(0.0) I(0.0) have(0.0) the(0.0) privilege(1.0) to(0.0) represent(0.0) both(0.0) Baylor(1.0) University(0.0) and(0.0) Texas(0.0) A(0.0) &(0.0) M(0.0) .(0.0) I(0.0) do(0.0) n't(0.0) 
+think(0.0) there(0.0) are(0.0) many(0.0) Members(0.0) here(0.0) in(0.0) this(0.0) House(0.0) who(0.0) have(0.0) the(0.0) opportunity(0.0) to(0.0) represent(0.0) two(0.0) schools(1.0) that(0.0) advanced(0.0) to(0.0) 
+the(0.0) Elite(0.0) Eight(0.0) of(0.0) the(0.0) NCAA(0.0) Women(0.0) 's(0.0) tournament(0.0) .(0.0) However(0.0) ,(0.0) I(0.0) do(0.0) ,(0.0) and(0.0) one(0.0) of(0.0) them(0.0) went(0.0) 
+all(0.0) the(0.0) way(0.0) and(0.0) won(0.0) the(0.0) national(1.0) championship(0.0) .(0.0) Also(0.0) ,(0.0) as(0.0) a(0.0) member(0.0) of(0.0) the(0.0) Texas(1.0) Aggie(0.0) Class(0.0) of(0.0) 
+1976(0.0) ,(0.0) I(0.0) am(0.0) especially(0.0) thrilled(0.0) that(0.0) the(0.0) final(0.0) score(0.0) was(0.0) 76-70(1.0) .(0.0) Coaches(0.0) Gary(0.0) Blair(1.0) and(0.0) Vic(0.0) Schaefer(1.0) and(0.0) 
+their(0.0) staff(0.0) should(0.0) be(0.0) commended(0.0) for(0.0) their(0.0) leadership(0.0) in(0.0) guiding(0.0) the(0.0) Texas(1.0) Aggies(0.0) to(0.0) their(0.0) sixth(0.0) straight(0.0) NCAA(0.0) tournament(0.0) and(0.0) 
+to(0.0) their(0.0) first(0.0) ever(0.0) national(0.0) title(0.0) .(0.0) Let(0.0) me(0.0) add(0.0) that(0.0) Danielle(0.0) Adams(1.0) ,(0.0) the(0.0) Aggies(1.0) '(0.0) all-American(0.0) senior(0.0) ,(0.0) 
+scored(0.0) 30(0.0) points(0.0) ,(0.0) the(0.0) second(0.0) highest(0.0) total(0.0) in(0.0) championship(0.0) game(0.0) history(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) am(0.0) proud(0.0) to(0.0) 
+stand(0.0) before(0.0) my(0.0) colleagues(0.0) and(0.0) say(0.0) that(0.0) there(0.0) is(0.0) no(0.0) other(0.0) coach(0.0) ,(0.0) no(0.0) other(0.0) team(0.0) nor(0.0) any(0.0) other(0.0) fan(0.0) 
+base(0.0) that(0.0) deserves(0.0) this(0.0) more(0.0) than(0.0) Coach(0.0) Blair(1.0) ,(0.0) the(0.0) Texas(1.0) Aggie(0.0) Women(1.0) 's(0.0) Basketball(0.0) team(0.0) ,(0.0) and(0.0) the(0.0) loyal(0.0) 
+fans(0.0) at(0.0) Texas(1.0) A(0.0) &(0.0) M(0.0) University(0.0) .(0.0) Gig'em(0.0) Aggies(0.0) and(0.0) great(0.0) job(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Texas	Women	
+Notre	
+privilege	Baylor	
+schools	
+
+national	Texas	
+76-70	Blair	Schaefer	
+Texas	
+Adams	Aggies	
+Speaker	
+
+Blair	Texas	Women	
+Texas	
+
+reads % = 0.07450980392156863

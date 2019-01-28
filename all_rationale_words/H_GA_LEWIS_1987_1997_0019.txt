@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) my(0.0) friend(0.0) and(0.0) colleague(0.0) ,(0.0) the(0.0) gentlewoman(0.0) from(0.0) California(0.0) ,(0.0) Ms.(1.0) Maxine(1.0) Waters(1.0) ,(0.0) the(0.0) 
+chairperson(0.0) of(0.0) the(0.0) Congressional(0.0) Black(1.0) Caucus(1.0) ,(0.0) and(0.0) my(0.0) friend(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Mississippi(0.0) ,(0.0) Mr.(0.0) Bennie(1.0) Thompson(1.0) ,(0.0) 
+for(0.0) bringing(0.0) this(0.0) budget(1.0) before(0.0) us(0.0) .(0.0) The(0.0) CBC(0.0) budget(1.0) ,(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) is(0.0) the(0.0) right(0.0) budget(0.0) .(0.0) It(0.0) 
+is(0.0) the(0.0) budget(1.0) to(0.0) prepare(0.0) us(0.0) as(0.0) we(0.0) enter(0.0) the(0.0) 21st(0.0) century(0.0) .(0.0) It(0.0) is(0.0) the(0.0) budget(1.0) that(0.0) will(0.0) look(0.0) 
+out(0.0) for(0.0) the(0.0) needs(0.0) of(0.0) all(0.0) of(0.0) our(0.0) people(0.0) ,(0.0) that(0.0) segment(0.0) of(0.0) the(0.0) population(0.0) that(0.0) has(0.0) been(0.0) left(0.0) out(0.0) 
+and(0.0) left(0.0) behind(0.0) .(0.0) This(0.0) budget(1.0) is(0.0) a(0.0) fair(0.0) budget(1.0) .(0.0) It(0.0) provides(0.0) education(1.0) for(0.0) our(0.0) children(0.0) .(0.0) It(0.0) takes(0.0) 
+care(1.0) of(0.0) our(0.0) seniors(1.0) .(0.0) It(0.0) protects(0.0) the(0.0) environment(0.0) .(0.0) This(0.0) budget(1.0) says(1.0) over(0.0) and(0.0) over(0.0) again(0.0) that(0.0) all(0.0) of(0.0) 
+our(0.0) people(0.0) have(0.0) a(0.0) right(0.0) to(0.0) know(0.0) what(0.0) is(0.0) in(0.0) the(0.0) water(1.0) we(0.0) drink(0.0) ,(0.0) what(0.0) is(0.0) in(0.0) the(0.0) food(1.0) 
+we(0.0) eat(0.0) ,(0.0) and(0.0) what(0.0) is(0.0) in(0.0) the(0.0) air(0.0) we(0.0) breathe(0.0) .(0.0) I(0.0) urge(0.0) all(0.0) Members(0.0) to(0.0) vote(1.0) to(0.0) support(0.0) 
+the(0.0) CBC(0.0) budget(1.0) because(0.0) we(0.0) have(0.0) a(0.0) mission(0.0) ,(0.0) a(0.0) mandate(1.0) ,(0.0) and(0.0) a(0.0) moral(1.0) obligation(0.0) to(0.0) help(0.0) our(0.0) people(0.0) 
+help(0.0) themselves(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Ms.	Maxine	Waters	
+Black	Caucus	Bennie	Thompson	
+budget	budget	Chairman	
+budget	budget	
+
+budget	budget	education	
+care	seniors	budget	says	
+water	food	
+vote	
+budget	mandate	moral	
+
+
+reads % = 0.12254901960784313

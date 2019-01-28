@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(1.0) ,(0.0) I(0.0) have(0.0) an(0.0) amendment(1.0) at(0.0) the(0.0) desk(1.0) .(0.0) The(0.0) Acting(0.0) CHAIR(0.0) .(0.0) The(0.0) Clerk(1.0) will(0.0) designate(1.0) the(0.0) amendment(1.0) .(0.0) 
+The(0.0) text(0.0) of(0.0) the(0.0) amendment(1.0) is(0.0) as(0.0) follows(1.0) :(0.0) Amendment(0.0) No(0.0) .(0.0) 12(1.0) offered(1.0) by(0.0) Mr.(0.0) Hastings(1.0) of(0.0) Washington(1.0) :(1.0) 
+In(0.0) section(0.0) 230(0.0) of(0.0) the(0.0) bill(0.0) ,(0.0) strike(0.0) ``(0.0) The(0.0) ''(0.0) and(0.0) insert(0.0) the(0.0) following(0.0) :(0.0) ((0.0) a(0.0) )(0.0) Aviation(1.0) 
+Security.(1.0) --(0.0) The(0.0) In(0.0) section(0.0) 230(0.0) of(0.0) the(0.0) bill(0.0) ,(0.0) add(1.0) at(0.0) the(0.0) end(0.0) the(0.0) following(0.0) :(1.0) ((0.0) b(1.0) )(0.0) 
+Cargo(1.0) Screening.(1.0) --(0.0) The(0.0) Secretary(1.0) shall(1.0) increase(1.0) the(0.0) number(0.0) of(0.0) canine(1.0) detection(1.0) teams(0.0) ,(0.0) as(0.0) of(0.0) the(0.0) date(0.0) of(0.0) enactment(1.0) 
+of(0.0) this(0.0) Act(0.0) ,(0.0) deployed(1.0) for(0.0) the(0.0) purpose(0.0) of(0.0) meeting(0.0) the(0.0) 100(0.0) percent(1.0) air(0.0) cargo(1.0) screening(1.0) requirement(1.0) set(0.0) forth(1.0) in(0.0) 
+section(0.0) 44901(1.0) ((0.0) g(0.0) )(0.0) of(0.0) title(0.0) 49(1.0) ,(0.0) United(0.0) States(0.0) Code(0.0) ,(0.0) by(0.0) not(0.0) less(0.0) than(0.0) 100(1.0) canine(1.0) teams(1.0) 
+through(0.0) fiscal(0.0) year(0.0) 2011(0.0) .(0.0) The(0.0) Acting(1.0) CHAIR(0.0) .(0.0) Pursuant(1.0) to(0.0) House(0.0) Resolution(0.0) 474(1.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Washington(1.0) ((0.0) 
+Mr.(0.0) Hastings(1.0) )(0.0) and(0.0) a(0.0) Member(0.0) opposed(1.0) each(0.0) will(0.0) control(1.0) 5(0.0) minutes(1.0) .(0.0) The(0.0) Chair(1.0) recognizes(0.0) the(0.0) gentleman(0.0) from(0.0) Washington(1.0) 
+.(0.0) Chairman(1.0) ,(0.0) I(0.0) want(1.0) to(0.0) thank(0.0) my(0.0) colleagues(1.0) ,(0.0) Ms.(1.0) Jackson-Lee(1.0) of(0.0) Texas(0.0) and(0.0) Mr.(0.0) Rogers(1.0) of(0.0) Alabama(1.0) ,(0.0) 
+for(0.0) cosponsoring(0.0) this(0.0) very(0.0) important(0.0) amendment(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) highly(1.0) trained(0.0) K-9(0.0) teams(0.0) have(0.0) been(0.0) successfully(0.0) employed(1.0) in(0.0) the(0.0) 
+United(0.0) States(0.0) to(0.0) screen(0.0) airports(1.0) and(0.0) cargo(1.0) since(0.0) 1973(0.0) .(0.0) Dogs(0.0) are(0.0) extremely(0.0) reliable(0.0) and(0.0) their(0.0) mobility(0.0) makes(0.0) them(0.0) invaluable(1.0) 
+in(0.0) screening(0.0) all(0.0) types(1.0) of(0.0) cargo(1.0) quickly(0.0) and(0.0) effectively(0.0) .(0.0) As(0.0) we(0.0) approach(0.0) the(0.0) August(0.0) 2010(0.0) deadline(1.0) to(0.0) screen(0.0) 100(0.0) 
+percent(1.0) of(0.0) cargo(1.0) transported(0.0) on(0.0) passenger(0.0) airplanes(1.0) ,(0.0) it(0.0) is(0.0) critical(1.0) that(0.0) the(0.0) TSA(1.0) is(0.0) able(0.0) to(0.0) deal(1.0) with(0.0) all(0.0) 
+types(1.0) of(0.0) cargo(1.0) without(0.0) necessarily(0.0) slowing(0.0) down(1.0) exports(0.0) .(0.0) Within(1.0) my(0.0) district(1.0) ,(0.0) cherry(1.0) growers(0.0) transport(0.0) half(0.0) of(0.0) the(0.0) cherries(1.0) 
+they(0.0) export(1.0) on(0.0) passenger(0.0) aircraft(1.0) ,(0.0) and(0.0) K-9s(1.0) are(0.0) by(0.0) far(0.0) the(0.0) most(1.0) workable(0.0) screening(0.0) method(0.0) for(0.0) these(0.0) highly(1.0) perishable(1.0) 
+products(0.0) .(0.0) My(0.0) amendment(1.0) would(0.0) increase(1.0) the(0.0) number(0.0) of(0.0) K-9(1.0) teams(0.0) specifically(1.0) dedicated(1.0) to(0.0) air(0.0) cargo(1.0) by(0.0) a(0.0) minimum(1.0) of(0.0) 
+100(1.0) dogs(0.0) .(0.0) The(0.0) need(0.0) for(0.0) additional(0.0) K-9s(1.0) to(0.0) screen(0.0) air(0.0) cargo(1.0) is(0.0) clear(1.0) .(0.0) For(1.0) example(0.0) ,(0.0) the(0.0) Seattle-(1.0) 
+Tacoma(1.0) International(0.0) Airport(1.0) began(0.0) screening(0.0) all(0.0) of(0.0) its(0.0) cargo(1.0) earlier(0.0) this(0.0) year(0.0) .(0.0) In(1.0) order(1.0) to(0.0) meet(1.0) the(0.0) needs(0.0) of(0.0) 
+all(0.0) exporters(0.0) ,(0.0) TSA(1.0) will(0.0) bring(0.0) K-9(0.0) teams(0.0) to(0.0) the(0.0) Pacific(1.0) Northwest(0.0) and(0.0) other(0.0) parts(0.0) of(0.0) the(0.0) country(1.0) during(0.0) the(0.0) 
+cherry(1.0) harvest(0.0) to(0.0) ensure(0.0) that(0.0) all(0.0) cherries(1.0) are(0.0) screened(1.0) in(0.0) a(0.0) timely(1.0) manner(0.0) .(0.0) Once(1.0) a(0.0) 100(0.0) percent(1.0) screening(0.0) requirement(1.0) 
+goes(0.0) into(0.0) effect(0.0) next(0.0) year(0.0) ,(0.0) the(0.0) burden(0.0) on(0.0) all(0.0) existing(0.0) K-9(0.0) teams(0.0) will(0.0) only(0.0) increase(1.0) .(0.0) At(0.0) a(0.0) time(0.0) 
+when(0.0) our(0.0) economy(1.0) is(0.0) struggling(1.0) ,(0.0) we(0.0) should(0.0) not(1.0) be(0.0) adding(0.0) new(1.0) roadblocks(1.0) for(0.0) American(0.0) farmers(1.0) and(0.0) businesses(1.0) .(0.0) I(0.0) 
+strongly(1.0) urge(1.0) my(0.0) colleagues(1.0) to(0.0) support(0.0) keeping(0.0) our(0.0) skies(1.0) secure(1.0) without(0.0) interrupting(1.0) commerce(1.0) and(0.0) vote(1.0) ``(0.0) yes(1.0) ''(0.0) on(0.0) the(0.0) 
+Hastings/Jackson-Lee/Rogers(1.0) amendment(1.0) .(0.0) Ms.(1.0) JACKSON-LEE(1.0) of(0.0) Texas(0.0) .(0.0) I(0.0) rise(1.0) to(0.0) claim(1.0) the(0.0) time(0.0) in(0.0) opposition(1.0) .(0.0) I(0.0) will(0.0) 
+
+
+----- below are rationale words -----
+
+amendment	desk	Clerk	designate	amendment	
+amendment	follows	12	offered	Hastings	Washington	:	
+Aviation	
+Security.	add	:	b	
+Cargo	Screening.	Secretary	shall	increase	canine	detection	enactment	
+deployed	percent	cargo	screening	requirement	forth	
+44901	49	100	canine	teams	
+Acting	Pursuant	474	Washington	
+Hastings	opposed	control	minutes	Chair	Washington	
+Chairman	want	colleagues	Ms.	Jackson-Lee	Rogers	Alabama	
+amendment	Chairman	highly	employed	
+airports	cargo	invaluable	
+types	cargo	deadline	
+percent	cargo	airplanes	critical	TSA	deal	
+types	cargo	down	Within	district	cherry	cherries	
+export	aircraft	K-9s	most	highly	perishable	
+amendment	increase	K-9	specifically	dedicated	cargo	minimum	
+100	K-9s	cargo	clear	For	Seattle-	
+Tacoma	Airport	cargo	In	order	meet	
+TSA	Pacific	country	
+cherry	cherries	screened	timely	Once	percent	requirement	
+increase	
+economy	struggling	not	new	roadblocks	farmers	businesses	
+strongly	urge	colleagues	skies	secure	interrupting	commerce	vote	yes	
+Hastings/Jackson-Lee/Rogers	amendment	Ms.	JACKSON-LEE	rise	claim	opposition	
+
+reads % = 0.27

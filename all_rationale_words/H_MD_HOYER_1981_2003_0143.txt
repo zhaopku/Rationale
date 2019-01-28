@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) have(0.0) great(0.0) respect(0.0) for(0.0) him(0.0) .(0.0) He(0.0) is(0.0) also(0.0) a(0.0) Member(0.0) of(0.0) this(0.0) House(0.0) that(0.0) is(0.0) closest(0.0) to(0.0) the(0.0) President(1.0) 
+of(0.0) the(0.0) United(0.0) States(0.0) ,(0.0) perhaps(0.0) .(0.0) The(0.0) President(1.0) of(0.0) the(0.0) United(0.0) States(0.0) said(0.0) that(0.0) we(0.0) ought(1.0) to(0.0) do(0.0) what(0.0) 
+the(0.0) gentlewoman(0.0) from(0.0) Connecticut(1.0) is(0.0) asking(0.0) us(0.0) to(0.0) do(0.0) ;(0.0) and(0.0) ,(0.0) as(0.0) I(0.0) recall(0.0) ,(0.0) he(0.0) said(0.0) we(0.0) ought(1.0) 
+to(0.0) do(0.0) it(0.0) right(0.0) away(0.0) .(0.0) Is(0.0) that(0.0) not(0.0) correct(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+President	
+President	ought	
+Connecticut	ought	
+
+
+reads % = 0.06944444444444445

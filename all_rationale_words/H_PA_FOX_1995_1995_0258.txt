@@ -1,0 +1,18 @@
+This is from a Republican
+----- below is the original text -----
+If(0.0) the(0.0) gentleman(0.0) will(0.0) yield(0.0) ,(0.0) I(0.0) think(0.0) just(0.0) today(0.0) the(0.0) gentleman(0.0) from(0.0) Minnesota(1.0) [(0.0) Mr.(0.0) Gutknecht(1.0) ](0.0) was(1.0) involved(1.0) with(0.0) 
+other(0.0) members(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Government(0.0) Reform(0.0) and(0.0) Oversight(0.0) of(0.0) which(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) Jersey(1.0) [(0.0) Mr.(0.0) Martini(1.0) 
+](0.0) and(1.0) the(0.0) gentleman(0.0) from(0.0) Washington(1.0) [(0.0) Mr.(0.0) Tate(1.0) ](0.0) are(1.0) members(0.0) ,(0.0) with(0.0) the(0.0) Government(0.0) procurement(0.0) reform(0.0) .(0.0) Perhaps(0.0) 
+you(0.0) could(0.0) enlighten(0.0) our(0.0) colleagues(0.0) about(0.0) what(0.0) that(0.0) legislation(1.0) will(0.0) do(0.0) as(0.0) it(0.0) relates(0.0) to(0.0) government(1.0) getting(0.0) products(0.0) and(0.0) services(0.0) 
+less(0.0) expensively(0.0) acquired(0.0) than(0.0) they(0.0) have(0.0) in(0.0) the(0.0) past(0.0) .(0.0) Could(0.0) the(0.0) gentleman(0.0) from(0.0) Minnesota(1.0) respond(0.0) to(0.0) that(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+Minnesota	Gutknecht	was	involved	
+Jersey	Martini	
+and	Washington	Tate	are	
+legislation	government	
+Minnesota	
+
+reads % = 0.13

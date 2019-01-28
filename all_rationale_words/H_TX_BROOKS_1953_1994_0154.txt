@@ -1,0 +1,24 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) this(0.0) amendment(1.0) is(0.0) not(0.0) directed(0.0) solely(0.0) at(0.0) imported(0.0) equipment(0.0) or(0.0) material(0.0) that(0.0) comes(0.0) into(0.0) this(0.0) country(1.0) .(0.0) This(0.0) 
+includes(0.0) all(0.0) domestically(1.0) produced(0.0) equipment(0.0) facilities(0.0) ,(0.0) and(0.0) commodities(1.0) as(0.0) well(0.0) ,(0.0) and(0.0) will(0.0) create(0.0) a(0.0) real(0.0) imposition(0.0) on(0.0) small(0.0) 
+business(0.0) throughout(0.0) this(0.0) country(1.0) and(0.0) a(0.0) big(0.0) pain(0.0) to(0.0) big(0.0) business(0.0) in(0.0) this(0.0) country(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) jurisdictionally(1.0) ,(0.0) 
+this(0.0) amendment(1.0) is(0.0) really(0.0) within(0.0) the(0.0) jurisdiction(1.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Energy(0.0) and(0.0) Commerce(0.0) .(0.0) But(0.0) then(0.0) ,(0.0) of(0.0) course(0.0) 
+,(0.0) had(0.0) no(0.0) opportunity(0.0) to(0.0) hold(0.0) hearings(1.0) on(0.0) the(0.0) bureaucratic(1.0) schemes(1.0) created(0.0) here(0.0) .(0.0) I(0.0) do(0.0) not(0.0) think(0.0) we(0.0) ought(1.0) 
+to(0.0) have(0.0) it(0.0) in(0.0) this(0.0) bill(1.0) .(0.0) I(0.0) would(0.0) tell(0.0) you(0.0) if(0.0) you(0.0) adopt(1.0) it(0.0) ,(0.0) you(0.0) will(0.0) be(0.0) sorry(0.0) 
+.(0.0) I(0.0) am(0.0) not(0.0) voting(0.0) for(0.0) it(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+Chairman	amendment	country	
+domestically	commodities	
+country	country	Chairman	jurisdictionally	
+amendment	jurisdiction	
+hearings	bureaucratic	schemes	ought	
+bill	adopt	
+Chairman	
+
+
+reads % = 0.1276595744680851

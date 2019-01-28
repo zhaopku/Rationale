@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) rise(0.0) to(0.0) pay(0.0) tribute(0.0) to(0.0) my(0.0) friend(0.0) ,(0.0) Victor(0.0) Portugues(1.0) Garcia(1.0) ,(0.0) who(0.0) passed(0.0) away(0.0) this(0.0) weekend(0.0) 
+in(0.0) Puerto(1.0) Rico(1.0) .(0.0) Victor(0.0) Portugues(1.0) served(0.0) as(0.0) under(0.0) secretary(0.0) of(0.0) Housing(0.0) for(0.0) the(0.0) Commonwealth(0.0) of(0.0) Puerto(1.0) Rico(0.0) from(0.0) 1972(0.0) 
+to(0.0) 1976(0.0) and(0.0) was(0.0) an(0.0) excellent(0.0) engineer(0.0) .(0.0) His(0.0) wife(0.0) ,(0.0) Carmen(0.0) Santa(1.0) ,(0.0) has(0.0) been(0.0) a(0.0) math(0.0) teacher(0.0) for(0.0) 
+many(0.0) years(0.0) ,(0.0) and(0.0) they(0.0) raised(0.0) five(0.0) children(0.0) ,(0.0) all(0.0) of(0.0) whom(0.0) graduated(0.0) from(0.0) prestigious(0.0) universities(0.0) .(0.0) I(0.0) want(0.0) to(0.0) 
+say(0.0) to(0.0) his(0.0) family(0.0) and(0.0) to(0.0) all(0.0) of(0.0) those(0.0) who(0.0) are(0.0) going(0.0) to(0.0) miss(0.0) him(0.0) dearly(0.0) that(0.0) we(0.0) are(0.0) saddened(0.0) 
+by(0.0) his(0.0) passing(0.0) and(0.0) his(0.0) death(0.0) .(0.0) To(0.0) the(0.0) Portugues(1.0) family(0.0) ,(0.0) we(0.0) know(0.0) that(0.0) many(0.0) people(0.0) talk(0.0) about(0.0) infectious(0.0) 
+smiles(0.0) .(0.0) Victor(0.0) 's(0.0) was(0.0) truly(0.0) an(0.0) infectious(0.0) smile(0.0) .(0.0) He(0.0) always(0.0) had(0.0) something(0.0) positive(0.0) to(0.0) say(0.0) ,(0.0) always(0.0) contributed(0.0) 
+to(0.0) helping(0.0) everyone(0.0) else(0.0) ,(0.0) and(0.0) never(0.0) asked(0.0) for(0.0) anything(0.0) for(0.0) himself(0.0) .(0.0) I(0.0) do(0.0) n't(0.0) know(0.0) what(0.0) more(0.0) you(0.0) 
+can(0.0) say(0.0) about(0.0) a(0.0) human(0.0) being(0.0) .(0.0) I(0.0) know(0.0) he(0.0) is(0.0) resting(0.0) in(0.0) peace(1.0) ,(0.0) and(0.0) I(0.0) know(0.0) that(0.0) I(0.0) 
+look(0.0) forward(0.0) to(0.0) being(0.0) with(0.0) him(0.0) when(0.0) I(0.0) ,(0.0) too(0.0) ,(0.0) leave(0.0) this(0.0) world(0.0) .(0.0) Thank(0.0) you(0.0) ,(0.0) Victor(0.0) ,(0.0) 
+for(0.0) all(0.0) you(0.0) have(0.0) done(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Portugues	Garcia	
+Puerto	Rico	Portugues	Puerto	
+Santa	
+
+
+Portugues	
+
+
+peace	
+
+
+
+reads % = 0.043478260869565216

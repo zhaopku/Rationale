@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) such(0.0) time(0.0) as(0.0) he(0.0) may(0.0) consume(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Florida(0.0) ((0.0) Mr.(0.0) Bilirakis(1.0) )(0.0) ,(0.0) the(0.0) 
+chairman(0.0) of(0.0) the(0.0) Subcommittee(0.0) on(0.0) Health(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Commerce(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Bilirakis	
+
+
+reads % = 0.030303030303030304

@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) want(0.0) to(0.0) thank(0.0) my(0.0) colleague(0.0) from(0.0) the(0.0) State(0.0) of(0.0) Washington(1.0) ,(0.0) Cathy(0.0) MCMorris(0.0) Rodgers(1.0) ,(0.0) for(0.0) organizing(0.0) this(0.0) Special(0.0) Order(0.0) 
+tonight(0.0) ,(0.0) and(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) am(0.0) a(0.0) Republican(0.0) woman(1.0) and(0.0) so(0.0) proud(0.0) to(0.0) be(0.0) a(0.0) part(0.0) of(0.0) this(0.0) 
+great(0.0) group(0.0) of(0.0) women(1.0) that(0.0) we(0.0) 've(0.0) heard(0.0) from(0.0) tonight(0.0) .(0.0) Growing(0.0) up(0.0) in(0.0) a(0.0) poor(0.0) family(0.0) in(0.0) rural(1.0) North(0.0) 
+Carolina(0.0) meant(0.0) that(0.0) there(0.0) were(0.0) many(0.0) opportunities(0.0) in(0.0) life(0.0) that(0.0) simply(0.0) were(0.0) n't(0.0) available(0.0) to(0.0) me(0.0) .(0.0) But(0.0) there(0.0) was(0.0) 
+one(0.0) important(0.0) opportunity(0.0) that(0.0) has(0.0) always(0.0) been(0.0) available(0.0) to(0.0) me(0.0) and(0.0) to(0.0) all(0.0) of(0.0) us(0.0) ,(0.0) and(0.0) that(0.0) is(0.0) living(0.0) 
+in(0.0) the(0.0) freest(1.0) land(0.0) on(0.0) Earth(0.0) ,(0.0) where(0.0) working(0.0) hard(0.0) ,(0.0) taking(0.0) chances(0.0) ,(0.0) and(0.0) persevering(0.0) are(0.0) catalysts(1.0) for(0.0) success(0.0) 
+.(0.0) I(0.0) 'm(0.0) a(0.0) Republican(0.0) woman(1.0) because(1.0) over(0.0) the(0.0) course(0.0) of(0.0) my(0.0) life(0.0) I(0.0) 've(0.0) seen(0.0) how(0.0) the(0.0) incentive(1.0) to(0.0) 
+succeed(0.0) and(0.0) the(0.0) guarantee(0.0) that(0.0) the(0.0) fruits(0.0) of(0.0) your(0.0) labor(1.0) are(0.0) your(0.0) own(0.0) have(0.0) shaped(0.0) a(0.0) people(0.0) and(0.0) a(0.0) Nation(0.0) 
+that(0.0) accomplishes(0.0) great(0.0) things(0.0) .(0.0) Before(0.0) I(0.0) came(0.0) to(0.0) Congress(0.0) ,(0.0) I(0.0) worked(0.0) in(0.0) higher(0.0) education(1.0) and(0.0) as(0.0) a(0.0) small(0.0) 
+business(0.0) owner(0.0) .(0.0) Over(0.0) the(0.0) course(0.0) of(0.0) my(0.0) career(0.0) ,(0.0) I(0.0) encountered(0.0) good(0.0) government(1.0) and(0.0) bad(0.0) government(1.0) .(0.0) Each(0.0) is(0.0) 
+a(0.0) powerful(0.0) force(0.0) .(0.0) Good(0.0) government(1.0) frees(1.0) us(0.0) to(0.0) pursue(0.0) ideas(0.0) to(0.0) invest(1.0) our(0.0) money(1.0) as(0.0) we(0.0) see(0.0) fit(0.0) ,(0.0) 
+to(0.0) build(0.0) ,(0.0) create(0.0) ,(0.0) and(0.0) grow(0.0) a(0.0) business(0.0) or(0.0) even(0.0) to(0.0) fail(0.0) in(0.0) our(0.0) endeavors(1.0) .(0.0) As(0.0) a(0.0) small(0.0) 
+business(0.0) owner(0.0) ,(0.0) I(0.0) also(0.0) observed(0.0) firsthand(0.0) how(0.0) government(1.0) has(0.0) the(0.0) power(0.0) to(0.0) crush(0.0) people(0.0) under(0.0) high(0.0) taxes(1.0) and(0.0) oppressive(1.0) 
+rules(1.0) ,(0.0) or(0.0) it(0.0) has(0.0) the(0.0) power(0.0) to(0.0) unleash(1.0) creativity(0.0) with(0.0) a(0.0) light(0.0) touch(0.0) and(0.0) low(0.0) taxes(1.0) .(0.0) I(0.0) came(0.0) 
+to(0.0) Congress(0.0) as(0.0) a(0.0) Republican(0.0) because(1.0) my(0.0) life(0.0) experience(0.0) in(0.0) business(0.0) and(0.0) education(1.0) taught(0.0) me(0.0) that(0.0) ,(0.0) by(0.0) easing(1.0) off(0.0) 
+the(0.0) rulemaking(1.0) and(0.0) the(0.0) tax(1.0) hiking(0.0) ,(0.0) government(1.0) can(0.0) help(0.0) foster(1.0) an(0.0) environment(0.0) where(0.0) hardworking(1.0) ,(0.0) innovative(1.0) ,(0.0) and(0.0) dedicated(0.0) 
+people(0.0) can(0.0) succeed(0.0) .(0.0) I(0.0) 'm(0.0) a(0.0) Republican(0.0) because(1.0) I(0.0) want(0.0) to(0.0) be(0.0) part(0.0) of(0.0) creating(0.0) a(0.0) Federal(1.0) Government(1.0) that(0.0) 
+is(0.0) nimble(0.0) ,(0.0) focused(0.0) ,(0.0) responsive(0.0) ,(0.0) and(0.0) aligned(0.0) with(0.0) the(0.0) Constitution(1.0) .(0.0) I(0.0) believe(0.0) that(0.0) such(0.0) a(0.0) government(0.0) will(0.0) 
+capitalize(0.0) on(0.0) our(0.0) strength(0.0) as(0.0) a(0.0) Nation(0.0) of(0.0) innovators(1.0) and(0.0) entrepreneurs(1.0) by(0.0) removing(0.0) barriers(1.0) to(0.0) job(0.0) creation(0.0) and(0.0) wealth(1.0) creation(0.0) 
+.(0.0) As(0.0) Republicans(0.0) we(0.0) 're(0.0) going(0.0) to(0.0) put(0.0) our(0.0) government(1.0) on(0.0) track(0.0) to(0.0) spend(1.0) less(0.0) and(0.0) live(0.0) within(0.0) its(0.0) means(0.0) 
+,(0.0) just(0.0) like(0.0) women(1.0) across(0.0) the(0.0) Nation(1.0) do(0.0) every(0.0) day(0.0) with(0.0) their(0.0) family(0.0) budget(1.0) .(0.0) When(0.0) government(1.0) is(0.0) right-sized(1.0) ,(0.0) 
+our(0.0) economy(1.0) grows(0.0) and(0.0) businesses(1.0) create(0.0) jobs(0.0) .(0.0) We(0.0) know(0.0) that(0.0) the(0.0) Constitution(1.0) guarantees(0.0) the(0.0) rights(1.0) of(0.0) the(0.0) people(0.0) ,(0.0) 
+not(0.0) the(0.0) rights(1.0) of(0.0) the(0.0) government(1.0) ,(0.0) Mr.(0.0) Speaker(1.0) .(0.0) That(0.0) 's(0.0) why(0.0) as(0.0) a(0.0) Republican(0.0) woman(1.0) I(0.0) 'm(0.0) focused(0.0) 
+on(0.0) making(0.0) sure(0.0) government(1.0) does(0.0) n't(0.0) stand(0.0) in(0.0) the(0.0) way(0.0) of(0.0) the(0.0) people(0.0) ,(0.0) and(0.0) that(0.0) the(0.0) laws(1.0) we(0.0) make(0.0) 
+here(0.0) in(0.0) Congress(1.0) expand(0.0) freedom(1.0) ,(0.0) rather(0.0) than(0.0) expand(1.0) government(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Washington	Rodgers	
+Speaker	woman	
+women	rural	
+
+
+freest	catalysts	
+woman	because	incentive	
+labor	
+education	
+government	government	
+government	frees	invest	money	
+endeavors	
+government	taxes	oppressive	
+rules	unleash	taxes	
+because	education	easing	
+rulemaking	tax	government	foster	hardworking	innovative	
+because	Federal	Government	
+Constitution	
+innovators	entrepreneurs	barriers	wealth	
+government	spend	
+women	Nation	budget	government	right-sized	
+economy	businesses	Constitution	rights	
+rights	government	Speaker	woman	
+government	laws	
+Congress	freedom	expand	government	
+
+reads % = 0.13008130081300814

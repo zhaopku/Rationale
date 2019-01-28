@@ -1,0 +1,52 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) H.R(1.0) .(0.0) 2830(0.0) ,(0.0) the(0.0) Pension(1.0) 
+Protection(0.0) Act(0.0) of(0.0) 2005(0.0) strengthens(0.0) retirement(0.0) security(0.0) for(0.0) millions(0.0) of(0.0) Americans(1.0) .(0.0) Current(0.0) pension(1.0) funding(1.0) laws(1.0) and(0.0) structures(0.0) are(0.0) outdated(1.0) 
+and(0.0) threaten(1.0) the(0.0) financial(1.0) stability(0.0) of(0.0) the(0.0) pension(1.0) system(0.0) .(0.0) In(0.0) fact(0.0) ,(0.0) the(0.0) Pension(1.0) Benefit(0.0) Guaranty(0.0) Corporation(0.0) ,(0.0) PBGC(1.0) 
+,(0.0) the(0.0) government(1.0) insurer(0.0) of(0.0) pension(1.0) plans(0.0) ,(0.0) estimates(0.0) that(0.0) single(0.0) employer(1.0) plans(0.0) are(0.0) underfunded(1.0) by(0.0) up(0.0) to(0.0) $(0.0) 450(0.0) 
+billion(1.0) .(0.0) Furthermore(0.0) ,(0.0) an(0.0) increasing(1.0) number(0.0) of(0.0) companies(1.0) are(0.0) using(0.0) the(0.0) bankruptcy(1.0) system(0.0) to(0.0) dump(1.0) massively(1.0) underfunded(1.0) pension(1.0) plans(1.0) 
+on(0.0) the(0.0) PBGC(1.0) .(0.0) Since(0.0) traditional(0.0) pensions(1.0) are(0.0) a(0.0) critical(0.0) component(0.0) of(0.0) retirement(1.0) security(0.0) ,(0.0) it(0.0) is(0.0) essential(0.0) to(0.0) form(0.0) 
+law(1.0) that(0.0) modernizes(1.0) and(0.0) strengthens(0.0) funding(1.0) rules(1.0) .(0.0) H.R(0.0) .(0.0) 2830(0.0) ensures(0.0) that(0.0) companies(0.0) fulfill(0.0) their(0.0) pension(1.0) promises(1.0) to(0.0) working(0.0) 
+people(0.0) .(0.0) It(0.0) requires(0.0) employers(1.0) to(0.0) fully(0.0) fund(1.0) their(0.0) pension(1.0) plans(0.0) and(0.0) rectify(0.0) funding(1.0) shortfalls(1.0) more(0.0) quickly(0.0) .(0.0) It(0.0) also(0.0) 
+ensures(0.0) that(0.0) employees(0.0) receive(0.0) up-to-date(0.0) and(0.0) accurate(0.0) information(0.0) about(0.0) their(0.0) pensions(1.0) and(0.0) prevents(0.0) companies(1.0) from(0.0) making(0.0) future(0.0) promises(1.0) when(0.0) they(0.0) 
+can(0.0) not(0.0) even(0.0) meet(0.0) current(0.0) obligations(1.0) .(0.0) The(0.0) bill(1.0) strikes(1.0) the(0.0) right(0.0) balance(0.0) in(0.0) ensuring(1.0) the(0.0) plans(1.0) will(0.0) begin(0.0) to(0.0) 
+be(0.0) more(0.0) appropriately(0.0) funded(1.0) while(0.0) not(0.0) being(0.0) so(0.0) strict(0.0) that(0.0) the(0.0) companies(1.0) providing(0.0) pension(1.0) plans(1.0) are(0.0) in(0.0) danger(1.0) of(0.0) having(0.0) 
+to(0.0) terminate(0.0) them(0.0) .(0.0) To(0.0) that(0.0) end(0.0) ,(0.0) H.R(0.0) .(0.0) 2830(0.0) provides(0.0) transition(1.0) relief(1.0) to(0.0) employers(1.0) ,(0.0) giving(0.0) them(0.0) time(0.0) 
+and(0.0) flexibility(0.0) to(0.0) get(0.0) their(0.0) pension(1.0) funding(1.0) in(0.0) order(0.0) .(0.0) In(0.0) addition(0.0) ,(0.0) the(0.0) Ways(1.0) and(0.0) Means(0.0) Committee(0.0) incorporated(0.0) into(0.0) 
+this(0.0) package(0.0) a(0.0) number(0.0) of(0.0) tax(1.0) incentives(1.0) to(0.0) increase(0.0) retirement(1.0) savings(0.0) for(0.0) Americans(1.0) .(0.0) Included(0.0) in(0.0) H.R(0.0) .(0.0) 2830(0.0) are(0.0) 
+provisions(0.0) to(0.0) make(0.0) permanent(0.0) the(0.0) savers(1.0) '(0.0) credit(0.0) and(0.0) the(0.0) increased(0.0) contribution(0.0) limits(1.0) for(0.0) IRAs(1.0) and(0.0) other(0.0) 401(0.0) ((0.0) k(0.0) 
+)(0.0) plans(0.0) .(0.0) The(0.0) bill(0.0) also(0.0) increases(0.0) savings(1.0) opportunities(0.0) for(0.0) our(0.0) men(0.0) and(0.0) women(0.0) in(0.0) combat(0.0) and(0.0) provides(0.0) increased(0.0) pension(1.0) 
+flexibility(0.0) for(0.0) public(1.0) safety(0.0) officers(0.0) ,(0.0) including(0.0) firefighters(1.0) ,(0.0) policemen(0.0) and(0.0) emergency(0.0) medical(0.0) service(0.0) employees(0.0) .(0.0) Furthermore(0.0) ,(0.0) this(0.0) bill(1.0) 
+provides(0.0) tax(1.0) benefits(1.0) to(0.0) make(0.0) health(1.0) care(1.0) and(0.0) long-term(1.0) care(1.0) more(0.0) affordable(1.0) .(0.0) H.R(0.0) .(0.0) 2830(0.0) makes(0.0) permanent(0.0) bipartisan(1.0) pension(1.0) 
+improvements(1.0) established(0.0) in(0.0) 2001(0.0) .(0.0) While(0.0) pension(1.0) reform(1.0) is(0.0) a(0.0) difficult(0.0) area(0.0) to(0.0) make(0.0) adjustments(0.0) ,(0.0) given(0.0) the(0.0) unique(0.0) needs(0.0) 
+of(0.0) each(0.0) employer(1.0) ,(0.0) this(0.0) legislation(1.0) is(0.0) a(0.0) fair(0.0) and(0.0) balanced(0.0) package(0.0) that(0.0) will(0.0) provide(0.0) economic(1.0) security(0.0) for(0.0) millions(1.0) of(0.0) 
+Americans(1.0) .(0.0) It(0.0) has(0.0) broad(0.0) support(0.0) for(0.0) both(0.0) the(0.0) employer(1.0) and(0.0) labor(1.0) communities(1.0) .(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) 
+this(0.0) bill(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	H.R	Pension	
+Americans	pension	funding	laws	outdated	
+threaten	financial	pension	Pension	PBGC	
+government	pension	employer	underfunded	
+billion	increasing	companies	bankruptcy	dump	massively	underfunded	pension	plans	
+PBGC	pensions	retirement	
+law	modernizes	funding	rules	pension	promises	
+employers	fund	pension	funding	shortfalls	
+pensions	companies	promises	
+obligations	bill	strikes	ensuring	plans	
+funded	companies	pension	plans	danger	
+transition	relief	employers	
+pension	funding	Ways	
+tax	incentives	retirement	Americans	
+savers	limits	IRAs	
+savings	pension	
+public	firefighters	bill	
+tax	benefits	health	care	long-term	care	affordable	bipartisan	pension	
+improvements	pension	reform	
+employer	legislation	economic	millions	
+Americans	employer	labor	communities	
+bill	Speaker	
+
+reads % = 0.21379310344827587

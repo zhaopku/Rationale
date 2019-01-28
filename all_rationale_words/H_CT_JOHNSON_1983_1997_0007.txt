@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) for(0.0) purposes(0.0) of(0.0) debate(1.0) only(0.0) ,(0.0) I(0.0) yield(0.0) 45(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Maryland(1.0) [(0.0) Mr.(0.0) Cardin(1.0) ](0.0) 
+,(0.0) pending(0.0) which(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) rise(0.0) as(0.0) chairman(0.0) 
+of(0.0) the(0.0) Select(0.0) Committee(0.0) on(0.0) Ethics(0.0) to(0.0) lay(0.0) before(0.0) you(0.0) the(0.0) committee(0.0) 's(0.0) bipartisan(1.0) recommendation(0.0) for(0.0) final(0.0) action(0.0) on(0.0) the(0.0) 
+matter(0.0) of(0.0) Representative(1.0) Newt(1.0) Gingrich(1.0) .(1.0) The(1.0) committee(0.0) recommends(0.0) that(0.0) Representative(1.0) Gingrich(1.0) be(1.0) reprimanded(1.0) and(1.0) reimburse(1.0) the(0.0) House(0.0) $(0.0) 300,000(0.0) 
+.(0.0) The(0.0) penalty(0.0) is(0.0) tough(0.0) and(0.0) unprecedented(1.0) .(0.0) It(0.0) is(0.0) also(0.0) appropriate(0.0) .(0.0) No(0.0) one(0.0) is(0.0) above(0.0) the(0.0) rules(0.0) of(0.0) 
+the(0.0) House(0.0) of(0.0) Representatives(0.0) .(0.0) This(0.0) matter(0.0) centered(0.0) on(0.0) two(0.0) key(0.0) questions(0.0) :(0.0) whether(0.0) the(0.0) Speaker(0.0) violated(1.0) Federal(1.0) tax(1.0) law(1.0) 
+and(1.0) whether(1.0) he(0.0) intentionally(0.0) filed(0.0) incorrect(0.0) information(0.0) with(0.0) the(0.0) Ethics(0.0) Committee(0.0) .(0.0) While(0.0) the(0.0) committee(0.0) investigated(0.0) these(0.0) questions(0.0) extensively(0.0) ,(0.0) 
+its(0.0) findings(0.0) were(0.0) inconclusive(0.0) .(0.0) Rather(0.0) ,(0.0) the(0.0) committee(0.0) found(0.0) that(0.0) Representative(1.0) Gingrich(1.0) brought(1.0) discredit(1.0) to(1.0) the(0.0) House(0.0) by(0.0) failing(1.0) 
+to(0.0) get(0.0) appropriate(0.0) legal(1.0) advice(0.0) to(0.0) ensure(0.0) that(0.0) his(0.0) actions(0.0) would(0.0) be(0.0) in(0.0) compliance(1.0) with(0.0) tax(1.0) law(1.0) and(1.0) to(0.0) oversee(1.0) 
+the(0.0) development(0.0) of(0.0) his(0.0) letters(0.0) to(0.0) the(0.0) committee(0.0) to(0.0) ensure(0.0) they(0.0) were(0.0) accurate(0.0) in(0.0) every(0.0) respect(0.0) .(0.0) Each(0.0) Member(0.0) of(0.0) 
+Congress(0.0) ,(0.0) especially(0.0) those(0.0) in(0.0) positions(0.0) of(0.0) leadership(0.0) ,(0.0) shoulders(0.0) the(0.0) responsibility(0.0) of(0.0) avoiding(0.0) even(0.0) the(0.0) appearance(0.0) of(0.0) impropriety(1.0) .(0.0) 
+Representative(1.0) Gingrich(1.0) failed(1.0) to(1.0) exercise(1.0) the(1.0) discipline(1.0) and(1.0) caution(1.0) of(0.0) his(0.0) office(0.0) and(0.0) so(0.0) is(0.0) subject(0.0) to(0.0) penalty(1.0) today(0.0) .(0.0) 
+As(0.0) I(0.0) have(0.0) said(0.0) ,(0.0) the(0.0) penalty(1.0) recommended(0.0) by(0.0) the(0.0) committee(0.0) is(0.0) tough(0.0) and(0.0) unprecedented(1.0) .(0.0) In(0.0) past(0.0) cases(0.0) of(0.0) 
+this(0.0) nature(0.0) ,(0.0) the(0.0) House(0.0) has(0.0) reprimanded(0.0) a(0.0) Member(0.0) only(0.0) where(0.0) the(0.0) Member(0.0) was(0.0) found(0.0) to(0.0) have(0.0) intentionally(0.0) made(0.0) false(0.0) 
+statements(0.0) to(0.0) the(0.0) Ethics(0.0) Committee(0.0) .(0.0) In(0.0) this(0.0) case(0.0) ,(0.0) the(0.0) committee(0.0) recommended(0.0) a(0.0) reprimand(0.0) of(0.0) Representative(1.0) Gingrich(1.0) even(1.0) though(1.0) 
+the(0.0) statement(0.0) of(0.0) alleged(1.0) violations(0.0) did(0.0) not(0.0) assert(0.0) that(0.0) he(0.0) intentionally(0.0) misled(0.0) the(0.0) committee(0.0) .(0.0) Likewise(0.0) in(0.0) past(0.0) cases(0.0) where(0.0) 
+the(0.0) committee(0.0) imposed(0.0) monetary(0.0) sanctions(0.0) on(0.0) a(0.0) Member(0.0) ,(0.0) the(0.0) committee(0.0) found(0.0) that(0.0) the(0.0) Member(0.0) had(0.0) been(0.0) personally(0.0) enriched(0.0) by(0.0) 
+the(0.0) misconduct(0.0) .(0.0) The(0.0) committee(0.0) made(0.0) no(0.0) such(0.0) finding(0.0) against(0.0) Representative(1.0) Gingrich(1.0) ,(0.0) yet(0.0) recommends(1.0) that(0.0) a(0.0) cost(0.0) reimbursement(1.0) of(0.0) 
+$(0.0) 300,000(0.0) be(0.0) paid(0.0) to(0.0) the(0.0) House(0.0) by(0.0) him(0.0) .(0.0) The(0.0) report(0.0) before(0.0) us(0.0) contains(0.0) several(0.0) hundred(0.0) pages(0.0) of(0.0) exhibits(0.0) 
+and(0.0) a(0.0) detailed(0.0) analysis(0.0) of(0.0) the(0.0) subcommittee(0.0) 's(0.0) findings(0.0) .(0.0) The(0.0) allegations(0.0) and(0.0) the(0.0) key(0.0) facts(0.0) supporting(0.0) them(0.0) were(0.0) laid(0.0) 
+out(0.0) by(0.0) the(0.0) special(0.0) counsel(0.0) during(0.0) a(0.0) public(0.0) hearing(0.0) on(0.0) January(0.0) 17(0.0) .(0.0) The(0.0) committee(0.0) 's(0.0) recommendations(0.0) before(0.0) you(0.0) today(0.0) 
+end(0.0) 2(0.0) long(0.0) years(0.0) of(0.0) work(0.0) .(0.0) Throughout(0.0) this(0.0) process(0.0) we(0.0) never(0.0) lost(0.0) sight(0.0) of(0.0) our(0.0) key(0.0) goals(0.0) :(0.0) full(0.0) 
+and(0.0) complete(0.0) disclosure(1.0) of(0.0) the(0.0) facts(0.0) and(0.0) a(0.0) bipartisan(1.0) recommendation(0.0) .(0.0) We(0.0) accomplished(0.0) both(0.0) .(0.0) Even(0.0) though(0.0) it(0.0) would(0.0) have(0.0) 
+been(0.0) easy(0.0) for(0.0) Republicans(0.0) or(1.0) Democrats(1.0) to(1.0) walk(0.0) away(0.0) from(0.0) the(0.0) process(0.0) at(0.0) many(0.0) stages(0.0) ,(0.0) we(0.0) did(0.0) not(0.0) ,(0.0) 
+because(0.0) we(0.0) believed(0.0) in(0.0) this(0.0) institution(1.0) and(0.0) in(0.0) the(0.0) ethics(1.0) process(0.0) .(0.0) The(0.0) investigative(1.0) subcommittee(0.0) was(0.0) ably(0.0) chaired(0.0) by(0.0) 
+
+
+----- below are rationale words -----
+
+debate	Maryland	Cardin	
+Speaker	
+bipartisan	
+Representative	Newt	Gingrich	.	The	Representative	Gingrich	be	reprimanded	and	reimburse	
+unprecedented	
+violated	Federal	tax	law	
+and	whether	
+Representative	Gingrich	brought	discredit	to	failing	
+legal	compliance	tax	law	and	oversee	
+
+impropriety	
+Representative	Gingrich	failed	to	exercise	the	discipline	and	caution	penalty	
+penalty	unprecedented	
+
+Representative	Gingrich	even	though	
+alleged	
+
+Representative	Gingrich	recommends	reimbursement	
+
+
+
+
+disclosure	bipartisan	
+or	Democrats	to	
+institution	ethics	investigative	
+
+reads % = 0.13

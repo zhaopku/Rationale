@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+The(0.0) Acting(0.0) CHAIR(0.0) .(0.0) The(0.0) question(0.0) is(0.0) on(0.0) the(0.0) amendment(1.0) offered(0.0) by(0.0) the(0.0) gentlewoman(0.0) from(0.0) California(0.0) ((0.0) Ms.(1.0) Lee(1.0) )(0.0) .(0.0) 
+The(0.0) question(0.0) was(0.0) taken(0.0) ;(0.0) and(0.0) the(0.0) Acting(0.0) Chair(0.0) announced(0.0) that(0.0) the(0.0) noes(1.0) appeared(0.0) to(0.0) have(0.0) it(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+amendment	Ms.	Lee	
+noes	
+
+reads % = 0.10256410256410256

@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+However(0.0) ,(0.0) I(0.0) will(0.0) support(0.0) the(0.0) bill(1.0) and(0.0) I(0.0) want(0.0) to(0.0) commend(0.0) the(0.0) efforts(1.0) of(0.0) the(0.0) authors(0.0) of(0.0) the(0.0) bill(0.0) .(0.0) 
+I(0.0) have(0.0) been(0.0) concerned(0.0) about(0.0) a(0.0) massive(0.0) trade(1.0) deficit(1.0) in(0.0) America(1.0) ,(0.0) and(0.0) I(0.0) am(0.0) concerned(0.0) about(0.0) espionage(1.0) as(0.0) far(0.0) 
+as(0.0) it(0.0) relates(0.0) to(0.0) our(0.0) patents(1.0) ,(0.0) our(0.0) technology(1.0) ,(0.0) our(0.0) industry(1.0) ,(0.0) and(0.0) our(0.0) trade(1.0) secrets(0.0) .(0.0) And(0.0) with(0.0) 
+that(0.0) ,(0.0) I(0.0) would(0.0) like(0.0) to(0.0) see(0.0) that(0.0) we(0.0) can(0.0) buoy(0.0) up(0.0) this(0.0) bill(1.0) in(0.0) that(0.0) particular(0.0) regard(0.0) .(0.0) I(0.0) 
+would(0.0) like(0.0) the(0.0) Members(0.0) of(0.0) Congress(0.0) to(0.0) realize(0.0) that(0.0) there(0.0) is(0.0) a(0.0) projected(0.0) $(0.0) 250(0.0) billion(1.0) trade(1.0) deficit(1.0) this(0.0) year(0.0) 
+.(0.0) Japan(0.0) and(0.0) China(1.0) are(0.0) taking(0.0) $(0.0) 5(0.0) billion(1.0) apiece(0.0) ,(0.0) $(0.0) 10(0.0) billion(1.0) a(0.0) month(0.0) out(0.0) of(0.0) our(0.0) economy(1.0) 
+,(0.0) or(0.0) a(0.0) quarter(0.0) of(0.0) a(0.0) trillion(1.0) dollars(1.0) a(0.0) year(0.0) .(0.0) I(0.0) am(0.0) pleased(0.0) that(0.0) the(0.0) committee(0.0) will(0.0) work(0.0) with(0.0) 
+me(0.0) on(0.0) this(0.0) issue(0.0) ,(0.0) and(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) our(0.0) distinguished(0.0) leader(0.0) from(0.0) Texas(0.0) for(0.0) yielding(0.0) me(0.0) this(0.0) time(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+bill	efforts	
+trade	deficit	America	espionage	
+patents	technology	industry	trade	
+bill	
+billion	trade	deficit	
+China	billion	billion	economy	
+trillion	dollars	
+
+
+
+reads % = 0.12345679012345678

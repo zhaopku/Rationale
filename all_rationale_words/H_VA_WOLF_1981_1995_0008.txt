@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) think(0.0) it(0.0) is(0.0) fair(0.0) .(0.0) Let(0.0) me(0.0) take(0.0) my(0.0) hat(0.0) off(0.0) and(0.0) pay(1.0) special(0.0) commendation(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Ohio(1.0) 
+[(0.0) Mr.(0.0) Kasich(1.0) ](0.0) ,(0.0) to(0.0) his(0.0) staff(0.0) ,(0.0) and(0.0) to(0.0) the(0.0) members(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) the(0.0) Budget(0.0) .(0.0) 
+In(0.0) the(0.0) Book(0.0) of(0.0) Esther(0.0) in(0.0) the(0.0) Old(0.0) Testament(0.0) ,(0.0) they(0.0) said(0.0) Esther(0.0) was(0.0) sent(0.0) just(0.0) for(0.0) a(0.0) time(0.0) just(0.0) 
+like(0.0) this(0.0) .(0.0) Perhaps(0.0) John(0.0) and(0.0) the(0.0) others(0.0) on(0.0) the(0.0) Committee(0.0) on(0.0) the(0.0) Budget(0.0) have(0.0) been(0.0) sent(0.0) for(0.0) a(0.0) time(0.0) 
+like(0.0) this(0.0) .(0.0) I(0.0) have(0.0) given(0.0) the(0.0) speech(0.0) over(0.0) and(0.0) over(0.0) in(0.0) the(0.0) last(0.0) several(0.0) years(0.0) about(0.0) my(0.0) five(0.0) children(0.0) 
+and(0.0) how(0.0) important(0.0) it(0.0) was(0.0) to(0.0) balance(0.0) the(0.0) budget(1.0) .(0.0) I(0.0) have(0.0) heard(0.0) Members(0.0) on(0.0) both(0.0) sides(0.0) give(0.0) the(0.0) same(0.0) 
+speech(0.0) .(0.0) I(0.0) believe(0.0) that(0.0) the(0.0) Kasich(1.0) budget(1.0) is(1.0) fair(1.0) .(1.0) Clearly(1.0) ,(0.0) we(0.0) have(0.0) to(0.0) remember(0.0) the(0.0) poor(1.0) ,(0.0) 
+and(0.0) I(0.0) believe(0.0) that(0.0) we(0.0) will(0.0) remember(0.0) the(0.0) poor(1.0) .(0.0) But(0.0) ,(0.0) clearly(0.0) ,(0.0) this(0.0) is(0.0) the(0.0) time(0.0) ,(0.0) and(0.0) 
+if(0.0) we(0.0) do(0.0) not(0.0) do(0.0) it(0.0) now(0.0) ,(0.0) will(0.0) it(0.0) be(0.0) any(0.0) easier(0.0) ,(0.0) as(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) [(0.0) 
+Mr.(0.0) Stenholm(1.0) ](0.0) talked(1.0) ,(0.0) next(0.0) year(0.0) or(0.0) the(0.0) year(0.0) after(0.0) ?(0.0) Clearly(0.0) ,(0.0) it(0.0) will(0.0) not(0.0) be(0.0) .(0.0) We(0.0) 
+can(0.0) argue(1.0) about(0.0) where(0.0) we(0.0) cut(1.0) within(0.0) the(0.0) parameters(0.0) of(0.0) the(0.0) budget(1.0) ,(0.0) but(0.0) ,(0.0) frankly(0.0) ,(0.0) we(0.0) can(0.0) not(0.0) 
+argue(1.0) should(0.0) we(0.0) balance(0.0) the(0.0) budget(1.0) ,(0.0) because(0.0) we(0.0) clearly(0.0) should(0.0) .(0.0) In(0.0) closing(0.0) ,(0.0) one(0.0) of(0.0) the(0.0) leading(0.0) newspapers(0.0) 
+in(0.0) my(0.0) district(0.0) the(0.0) 10th(0.0) District(0.0) of(0.0) Virginia(1.0) ,(0.0) the(0.0) Winchester(0.0) Star(0.0) ,(0.0) recently(0.0) editorialized(1.0) on(0.0) the(0.0) balanced(0.0) budget(1.0) effort(0.0) 
+with(0.0) these(0.0) words(0.0) :(0.0) And(0.0) so(0.0) at(0.0) this(0.0) time(0.0) ,(0.0) perhaps(0.0) it(0.0) is(0.0) best(0.0) for(0.0) us(0.0) to(0.0) draw(0.0) upon(0.0) the(0.0) 
+wisdom(0.0) of(0.0) pamphleteer(1.0) Thomas(0.0) Paine(1.0) ,(0.0) who(0.0) penned(0.0) these(0.0) immortal(0.0) words(0.0) in(0.0) the(0.0) darkest(0.0) hours(0.0) of(0.0) the(0.0) Revolution(0.0) :(0.0) ``(0.0) 
+These(0.0) are(0.0) the(0.0) times(0.0) that(0.0) try(0.0) men(0.0) 's(0.0) souls(0.0) .(0.0) The(0.0) summer(0.0) soldier(0.0) and(0.0) the(0.0) sunshine(0.0) patriot(1.0) will(0.0) ,(0.0) in(0.0) 
+this(0.0) crisis(1.0) ,(0.0) shrink(0.0) from(0.0) the(0.0) service(0.0) of(0.0) his(0.0) country(0.0) ;(0.0) but(0.0) he(0.0) that(0.0) stands(0.0) it(0.0) now(0.0) ,(0.0) deserves(0.0) the(0.0) 
+love(0.0) and(0.0) thanks(0.0) of(0.0) man(0.0) and(0.0) woman(0.0) .(0.0) ''(0.0) For(0.0) the(0.0) GOP(1.0) ,(1.0) which(1.0) has(1.0) presented(1.0) the(0.0) first(0.0) balanced(1.0) budget(1.0) 
+plan(1.0) in(1.0) a(0.0) quarter-century(1.0) ,(0.0) this(0.0) is(0.0) definitely(0.0) no(0.0) time(0.0) for(0.0) ``(0.0) summer(0.0) soldiers(0.0) .(0.0) ''(0.0) For(0.0) a(0.0) monumental(0.0) battle(0.0) 
+,(0.0) with(0.0) significant(0.0) ramifications(1.0) for(0.0) the(0.0) future(0.0) ,(0.0) will(0.0) soon(0.0) be(0.0) enjoined(1.0) .(0.0) I(0.0) strongly(0.0) urge(0.0) Members(0.0) on(0.0) both(0.0) sides(0.0) 
+to(0.0) put(0.0) aside(0.0) our(0.0) differences(0.0) and(0.0) ,(0.0) whatever(0.0) we(0.0) do(0.0) ,(0.0) to(0.0) make(0.0) sure(0.0) when(0.0) we(0.0) leave(0.0) tomorrow(0.0) night(0.0) we(0.0) 
+have(0.0) passed(0.0) the(0.0) balanced(0.0) budget(1.0) ,(0.0) not(0.0) only(0.0) for(0.0) our(0.0) generation(1.0) but(0.0) ,(0.0) more(0.0) important(0.0) ,(0.0) for(0.0) future(0.0) generations(0.0) .(0.0) 
+Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) the(0.0) fiscal(1.0) year(0.0) 1996(1.0) budget(1.0) resolution(1.0) .(0.0) I(0.0) first(0.0) want(0.0) to(0.0) congratulate(0.0) 
+Budget(1.0) Committee(0.0) Chairman(0.0) John(1.0) Kasich(1.0) for(0.0) his(0.0) yeoman(0.0) work(0.0) to(0.0) bring(0.0) the(0.0) House(0.0) to(0.0) this(0.0) point(0.0) in(0.0) its(0.0) history(0.0) today(0.0) 
+.(0.0) This(0.0) is(0.0) truly(0.0) a(0.0) historic(0.0) day(0.0) .(0.0) The(0.0) people(0.0) 's(0.0) house(0.0) is(0.0) poised(0.0) to(0.0) secure(0.0) the(0.0) financial(1.0) future(0.0) 
+
+
+----- below are rationale words -----
+
+pay	Ohio	
+Kasich	
+
+
+
+budget	
+Kasich	budget	is	fair	.	Clearly	poor	
+poor	
+
+Stenholm	talked	
+argue	cut	budget	
+argue	budget	
+Virginia	editorialized	budget	
+
+pamphleteer	Paine	
+patriot	
+crisis	
+GOP	,	which	has	presented	balanced	budget	
+plan	in	quarter-century	
+ramifications	enjoined	
+
+budget	generation	
+Chairman	fiscal	1996	budget	resolution	
+Budget	John	Kasich	
+financial	
+
+reads % = 0.098

@@ -1,0 +1,36 @@
+This is from a Republican
+----- below is the original text -----
+One(0.0) is(0.0) ,(0.0) this(0.0) is(0.0) a(0.0) very(0.0) difficult(0.0) vote(1.0) for(0.0) me(0.0) and(0.0) many(0.0) others(0.0) who(0.0) are(0.0) concerned(0.0) about(0.0) our(0.0) fish(1.0) and(0.0) 
+wildlife(0.0) areas(0.0) .(0.0) But(0.0) there(0.0) was(0.0) an(0.0) agreement(0.0) made(0.0) in(0.0) Alaska(1.0) that(0.0) set(0.0) part(0.0) of(0.0) this(0.0) area(0.0) aside(0.0) for(0.0) potential(0.0) 
+oil(1.0) and(0.0) gas(1.0) drilling(1.0) ,(0.0) a(0.0) very(0.0) small(0.0) portion(0.0) .(0.0) This(0.0) amendment(1.0) is(0.0) an(0.0) excellent(0.0) amendment(1.0) because(0.0) it(0.0) limits(1.0) it(0.0) 
+even(0.0) further(0.0) .(0.0) How(0.0) do(0.0) we(0.0) balance(0.0) environment(0.0) and(0.0) energy(1.0) needs(0.0) in(0.0) our(0.0) country(1.0) ?(0.0) This(0.0) is(0.0) another(0.0) attempt(0.0) to(0.0) 
+try(0.0) to(0.0) do(0.0) that(0.0) .(0.0) In(0.0) fact(0.0) ,(0.0) if(0.0) you(0.0) try(0.0) to(0.0) undo(1.0) deals(0.0) that(0.0) have(0.0) already(0.0) been(0.0) made(0.0) ,(0.0) 
+are(0.0) we(0.0) going(0.0) to(0.0) go(0.0) to(0.0) Massachusetts(1.0) with(0.0) the(0.0) Boston(1.0) Islands(0.0) national(0.0) park(0.0) area(0.0) and(0.0) say(0.0) all(0.0) of(0.0) a(0.0) sudden(0.0) 
+Logan(0.0) Airport(0.0) has(0.0) to(0.0) be(0.0) kicked(0.0) out(0.0) after(0.0) when(0.0) they(0.0) created(0.0) a(0.0) park(0.0) area(0.0) ,(0.0) they(0.0) agreed(0.0) with(0.0) certain(0.0) things(0.0) 
+in(0.0) the(0.0) restrictions(1.0) with(0.0) that(0.0) park(0.0) area(0.0) .(0.0) I(0.0) also(0.0) want(0.0) to(0.0) strongly(0.0) support(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) Hampshire's(0.0) earlier(0.0) 
+amendment(1.0) that(0.0) takes(0.0) the(0.0) funds(1.0) into(0.0) the(0.0) national(1.0) parks(0.0) and(0.0) other(0.0) public(1.0) areas(0.0) .(0.0) Some(0.0) have(0.0) criticized(1.0) that(0.0) amendment(1.0) as(0.0) 
+well(0.0) as(0.0) nothing(0.0) but(0.0) a(0.0) ruse(0.0) ,(0.0) as(0.0) a(0.0) gimmick(0.0) .(0.0) But(0.0) the(0.0) fact(0.0) is(0.0) in(0.0) the(0.0) CARA(1.0) bill(1.0) ,(0.0) 
+which(0.0) I(0.0) support(0.0) ,(0.0) we(0.0) said(0.0) when(0.0) we(0.0) do(0.0) offshore(1.0) drilling(1.0) we(0.0) are(0.0) going(0.0) to(0.0) take(0.0) those(0.0) funds(1.0) and(0.0) put(0.0) 
+them(0.0) into(0.0) environmentally-sensitive(1.0) areas(0.0) in(0.0) the(0.0) States(0.0) where(0.0) the(0.0) drilling(1.0) occurs(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) New(0.0) Hampshire(1.0) 's(0.0) two(0.0) amendments(0.0) 
+,(0.0) in(0.0) fact(0.0) ,(0.0) are(0.0) perfecting(0.0) amendments(1.0) that(0.0) make(0.0) this(0.0) bill(1.0) better(1.0) .(0.0) I(0.0) can(0.0) not(0.0) imagine(0.0) why(0.0) anybody(0.0) who(0.0) 
+is(0.0) pro-environmental(1.0) would(0.0) vote(1.0) against(0.0) either(0.0) one(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+vote	fish	
+Alaska	
+oil	gas	drilling	amendment	amendment	limits	
+energy	country	
+undo	
+Massachusetts	Boston	
+
+restrictions	
+amendment	funds	national	public	criticized	amendment	
+CARA	bill	
+offshore	drilling	funds	
+environmentally-sensitive	drilling	Hampshire	
+amendments	bill	better	
+pro-environmental	vote	
+
+reads % = 0.12639405204460966

@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(1.0) today(1.0) to(0.0) honor(1.0) one(0.0) of(0.0) America's(0.0) bravest(1.0) ,(0.0) First(1.0) Sergeant(0.0) Blue(1.0) Rowe(1.0) ,(0.0) who(0.0) sacrificed(1.0) his(0.0) life(0.0) 
+in(0.0) support(0.0) of(0.0) Operation(1.0) Enduring(1.0) Freedom(1.0) .(0.0) In(0.0) 1994(0.0) ,(0.0) after(0.0) graduating(1.0) from(0.0) Siloam(1.0) Springs(1.0) High(0.0) School(0.0) ,(0.0) Blue(1.0) enlisted(1.0) 
+in(0.0) the(0.0) Army(1.0) .(0.0) He(0.0) served(1.0) honorably(1.0) all(0.0) over(0.0) the(0.0) world(0.0) ,(0.0) and(0.0) earned(0.0) several(0.0) military(1.0) awards(0.0) ,(0.0) including(1.0) the(0.0) 
+Meritorious(1.0) Service(0.0) Medal(0.0) and(0.0) Posthumous(1.0) Combat(1.0) Action(0.0) Badge(0.0) ,(0.0) and(0.0) a(0.0) Bronze(0.0) Star(0.0) .(0.0) Blue(1.0) 's(0.0) family(0.0) and(0.0) friends(0.0) describe(0.0) 
+him(0.0) as(0.0) funny(0.0) ,(0.0) compassionate(1.0) ,(0.0) hardworking(0.0) and(0.0) 100(0.0) percent(1.0) Arkansan(1.0) .(0.0) A(1.0) lifelong(0.0) Razorback(1.0) fan(0.0) ,(0.0) it(0.0) was(0.0) n't(0.0) 
+out(0.0) of(0.0) the(0.0) ordinary(1.0) for(0.0) Blue(1.0) to(0.0) leave(1.0) Northwest(0.0) Arkansas(0.0) with(0.0) a(0.0) bag(0.0) full(0.0) of(0.0) new(1.0) Razorback(1.0) gear(0.0) and(0.0) show(0.0) 
+his(0.0) support(0.0) for(0.0) the(0.0) team(0.0) while(0.0) stationed(1.0) in(0.0) California(0.0) .(0.0) Blue(1.0) made(0.0) the(0.0) ultimate(0.0) sacrifice(0.0) for(0.0) his(0.0) country(1.0) .(0.0) He(0.0) 
+is(0.0) a(0.0) true(1.0) American(0.0) hero(1.0) .(0.0) I(1.0) ask(1.0) my(0.0) colleagues(1.0) to(0.0) keep(1.0) Blue(1.0) 's(0.0) family(0.0) and(0.0) friends(0.0) in(0.0) their(0.0) thoughts(0.0) 
+and(0.0) prayers(1.0) during(0.0) these(0.0) very(0.0) difficult(0.0) times(0.0) ,(0.0) and(0.0) I(0.0) humbly(1.0) offer(0.0) my(0.0) thanks(1.0) to(0.0) Army(1.0) First(1.0) Sergeant(0.0) Blue(1.0) Rowe(1.0) 
+for(0.0) his(0.0) selfless(1.0) service(0.0) to(0.0) the(0.0) security(0.0) and(0.0) well-being(0.0) of(0.0) all(0.0) Americans(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+rise	today	honor	bravest	First	Blue	Rowe	sacrificed	
+Operation	Enduring	Freedom	graduating	Siloam	Springs	Blue	enlisted	
+Army	served	honorably	military	including	
+Meritorious	Posthumous	Combat	Blue	
+compassionate	percent	Arkansan	A	Razorback	
+ordinary	Blue	leave	new	Razorback	
+stationed	Blue	country	
+true	hero	I	ask	colleagues	keep	Blue	
+prayers	humbly	thanks	Army	First	Blue	Rowe	
+selfless	
+
+reads % = 0.27319587628865977

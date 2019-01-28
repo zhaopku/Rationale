@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) rise(0.0) in(0.0) strong(0.0) support(0.0) of(0.0) this(0.0) bill(1.0) by(0.0) our(0.0) colleague(0.0) from(0.0) southern(0.0) Ohio(0.0) ((0.0) Mr.(0.0) Ney(1.0) )(0.0) 
+which(1.0) addresses(1.0) a(0.0) problem(0.0) encountered(0.0) by(0.0) small(0.0) businessmen(0.0) operating(0.0) Federal(0.0) oil(1.0) and(0.0) gas(1.0) leases(1.0) on(0.0) the(0.0) Wayne(0.0) National(0.0) Forest(0.0) .(0.0) 
+The(0.0) situation(0.0) these(0.0) folks(0.0) find(0.0) themselves(0.0) in(0.0) is(0.0) rather(0.0) unique(0.0) .(0.0) These(0.0) lessees(0.0) formerly(0.0) held(0.0) private(0.0) oil(0.0) leases(1.0) from(0.0) individuals(0.0) 
+owning(0.0) the(0.0) reserve(0.0) mineral(0.0) estate(0.0) beneath(0.0) the(0.0) Forest(0.0) Service(0.0) administered(0.0) surface(0.0) estate(0.0) .(0.0) A(0.0) few(0.0) years(0.0) ago(0.0) the(0.0) private(0.0) reservations(0.0) 
+began(0.0) to(0.0) expire(0.0) ,(0.0) and(0.0) the(0.0) United(0.0) States(0.0) is(0.0) now(0.0) the(0.0) mineral(0.0) owner(0.0) .(0.0) Our(0.0) colleague(0.0) from(0.0) West(0.0) Virginia(0.0) ((1.0) 
+Mr.(0.0) Rahall(1.0) )(0.0) in(1.0) 1992(0.0) added(0.0) a(0.0) provision(0.0) to(0.0) the(0.0) 1992(0.0) Energy(0.0) Policy(0.0) Act(0.0) to(0.0) allow(0.0) a(0.0) private(0.0) lessee(0.0) to(0.0) 
+acquire(0.0) a(0.0) Federal(0.0) lease(0.0) for(0.0) the(0.0) same(0.0) tract(0.0) on(0.0) the(0.0) Wayne(0.0) National(0.0) Forest(0.0) without(0.0) need(0.0) of(0.0) competitive(0.0) bidding(0.0) .(0.0) Mr.(0.0) 
+Speaker(1.0) ,(0.0) this(0.0) was(0.0) only(0.0) fair(0.0) given(0.0) these(0.0) small(0.0) businessmen(1.0) already(0.0) owned(0.0) the(0.0) wells(1.0) and(0.0) the(0.0) equipment(0.0) that(0.0) was(0.0) necessary(0.0) 
+to(0.0) pump(0.0) and(0.0) store(0.0) the(0.0) production(0.0) .(0.0) However(0.0) ,(0.0) these(0.0) operators(0.0) soon(0.0) discovered(0.0) that(0.0) ownership(1.0) of(0.0) a(0.0) Federal(1.0) lease(1.0) meant(0.0) 
+having(0.0) to(0.0) financially(1.0) guarantee(0.0) proper(0.0) abandonment(1.0) of(0.0) their(0.0) lessees(1.0) ,(0.0) plugging(0.0) the(0.0) wells(1.0) properly(0.0) and(0.0) reclaiming(1.0) the(0.0) surface(0.0) impacts(1.0) .(0.0) 
+This(0.0) was(0.0) despite(0.0) the(0.0) fact(0.0) that(0.0) they(0.0) had(0.0) long(0.0) ago(0.0) met(0.0) the(0.0) State(1.0) of(0.0) Ohio(1.0) 's(0.0) bonding(0.0) requirements(0.0) back(0.0) when(0.0) 
+they(0.0) drilled(0.0) the(0.0) private(0.0) wells(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) Ohio(1.0) ((0.0) Mr.(0.0) Ney(1.0) )(0.0) sought(1.0) to(0.0) remedy(1.0) this(0.0) situation(0.0) with(0.0) 
+his(0.0) original(0.0) bill(0.0) but(0.0) the(0.0) Department(0.0) of(0.0) Interior(0.0) ,(0.0) as(0.0) lessor(0.0) of(0.0) the(0.0) mineral(0.0) rights(0.0) ,(0.0) opposed(0.0) that(0.0) text(0.0) .(0.0) 
+As(0.0) chairman(0.0) of(0.0) the(0.0) Subcommittee(0.0) on(0.0) Energy(0.0) and(0.0) Mineral(0.0) Resources(0.0) ,(0.0) I(0.0) asked(0.0) the(0.0) Federal(1.0) agency(1.0) and(0.0) the(0.0) State(0.0) of(0.0) 
+Ohio(1.0) 's(0.0) Department(0.0) of(0.0) Natural(0.0) Resources(0.0) to(0.0) try(0.0) to(0.0) find(0.0) an(0.0) acceptable(0.0) remedy(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) the(0.0) substitute(1.0) before(0.0) 
+us(0.0) today(0.0) is(0.0) the(0.0) answer(0.0) and(0.0) is(0.0) supported(0.0) by(0.0) the(0.0) administration(1.0) and(0.0) by(0.0) the(0.0) Ohio(1.0) DNR(0.0) .(0.0) The(0.0) substitute(0.0) codifies(1.0) 
+a(0.0) recognition(0.0) by(0.0) the(0.0) Secretary(0.0) of(0.0) Interior(0.0) as(0.0) to(0.0) the(0.0) adequacy(0.0) of(0.0) Ohio(1.0) State(0.0) 's(0.0) Orphan(0.0) Well(0.0) Fund(0.0) to(0.0) provide(0.0) 
+financial(0.0) guarantees(0.0) for(0.0) the(0.0) proper(0.0) plugging(0.0) and(0.0) abandonment(1.0) of(0.0) preexisting(1.0) wells(1.0) on(0.0) these(0.0) special(0.0) leases(0.0) and(0.0) these(0.0) leases(1.0) only(0.0) .(0.0) 
+No(0.0) precedent(1.0) is(0.0) being(0.0) established(0.0) elsewhere(0.0) ,(0.0) although(0.0) I(0.0) do(0.0) happen(0.0) to(0.0) think(0.0) that(0.0) many(0.0) States(1.0) '(0.0) oil(0.0) and(0.0) gas(1.0) 
+commissions(1.0) do(0.0) a(0.0) fine(0.0) job(0.0) in(0.0) regulating(1.0) the(0.0) industry(1.0) within(0.0) their(0.0) borders(0.0) ,(0.0) and(0.0) especially(0.0) my(0.0) State(1.0) of(0.0) Wyoming(1.0) .(0.0) 
+The(0.0) substitute(0.0) provides(0.0) opportunity(0.0) for(0.0) the(0.0) Secretary(1.0) to(0.0) review(0.0) the(0.0) continuing(0.0) adequacy(0.0) of(0.0) the(0.0) Ohio(1.0) law(0.0) to(0.0) ensure(0.0) reclamation(1.0) in(0.0) 
+the(0.0) unlikely(0.0) event(0.0) of(0.0) multiple(0.0) bankruptcies(1.0) .(0.0) The(0.0) Secretary(1.0) may(0.0) require(0.0) the(0.0) lessees(0.0) to(0.0) meet(0.0) the(0.0) Federal(0.0) standard(0.0) bonding(0.0) requirements(0.0) 
+for(0.0) these(0.0) wells(1.0) if(0.0) the(0.0) State(0.0) of(0.0) Ohio(1.0) fails(0.0) to(0.0) fund(0.0) the(0.0) program(0.0) at(0.0) 20(0.0) percent(0.0) of(0.0) the(0.0) State(0.0) 's(0.0) 
+severance(1.0) tax(1.0) levels(0.0) that(0.0) it(0.0) currently(0.0) has(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) our(0.0) colleague(0.0) ,(0.0) the(0.0) gentleman(0.0) 
+from(0.0) Ohio(1.0) ((0.0) Mr.(0.0) Ney(1.0) )(0.0) ,(0.0) for(0.0) his(0.0) willingness(0.0) to(0.0) aid(0.0) these(0.0) small(0.0) businesses(0.0) in(0.0) the(0.0) Wayne(0.0) National(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	bill	Ney	
+which	addresses	oil	gas	leases	
+leases	
+
+(	
+Rahall	in	
+
+Speaker	businessmen	wells	
+ownership	Federal	lease	
+financially	abandonment	lessees	wells	reclaiming	impacts	
+State	Ohio	
+Ohio	Ney	sought	remedy	
+
+Federal	agency	
+Ohio	Speaker	substitute	
+administration	Ohio	codifies	
+Ohio	
+abandonment	preexisting	wells	leases	
+precedent	States	gas	
+commissions	regulating	industry	State	Wyoming	
+Secretary	Ohio	reclamation	
+bankruptcies	Secretary	
+wells	Ohio	
+severance	tax	Speaker	
+Ohio	Ney	
+
+reads % = 0.126

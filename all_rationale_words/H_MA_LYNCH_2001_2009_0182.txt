@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) again(0.0) ,(0.0) I(0.0) would(0.0) like(0.0) to(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) join(0.0) with(0.0) Mr.(0.0) Wamp(1.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Tennessee(0.0) 
+,(0.0) who(0.0) is(0.0) the(0.0) chief(0.0) sponsor(0.0) of(0.0) this(0.0) resolution(1.0) ,(0.0) to(0.0) show(0.0) our(0.0) support(0.0) for(0.0) our(0.0) men(0.0) and(0.0) women(0.0) in(0.0) 
+uniform(1.0) by(0.0) supporting(0.0) this(0.0) measure(1.0) .(0.0) Ms.(0.0) JACKSON-LEE(0.0) of(0.0) Texas(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) today(0.0) ,(0.0) I(0.0) rise(0.0) in(0.0) support(0.0) 
+of(0.0) H.(0.0) Con(1.0) .(0.0) Res(0.0) .(0.0) 84(0.0) ,(0.0) ``(0.0) Supporting(0.0) the(0.0) goals(0.0) and(0.0) objectives(0.0) of(0.0) a(0.0) National(0.0) Military(0.0) Appreciation(0.0) Month(0.0) 
+.(0.0) ''(0.0) I(0.0) would(0.0) like(0.0) to(0.0) thank(0.0) Representative(1.0) Zach(1.0) Wamp(1.0) of(0.0) Tennessee(0.0) for(0.0) introducing(0.0) this(0.0) resolution(1.0) .(0.0) We(0.0) often(0.0) take(0.0) 
+our(0.0) National(1.0) Military(0.0) for(0.0) granted(0.0) ,(0.0) and(0.0) I(0.0) welcome(0.0) this(0.0) opportunity(0.0) to(0.0) reach(0.0) out(0.0) and(0.0) recognize(0.0) the(0.0) importance(0.0) of(0.0) the(0.0) 
+National(0.0) Military(0.0) in(0.0) the(0.0) United(0.0) States(0.0) .(0.0) I(0.0) do(0.0) not(0.0) believe(0.0) there(0.0) is(0.0) a(0.0) person(0.0) in(0.0) this(0.0) body(0.0) ,(0.0) or(0.0) 
+a(0.0) person(0.0) in(0.0) this(0.0) building(0.0) ,(0.0) who(0.0) does(0.0) not(0.0) feel(0.0) a(0.0) remarkable(0.0) pride(0.0) in(0.0) the(0.0) presence(0.0) of(0.0) the(0.0) men(0.0) and(0.0) 
+women(0.0) who(0.0) serve(0.0) in(0.0) our(0.0) nation(1.0) 's(0.0) military(0.0) .(0.0) The(0.0) success(0.0) of(0.0) the(0.0) Armed(0.0) Forces(0.0) depends(0.0) on(0.0) the(0.0) dedicated(0.0) service(0.0) 
+of(0.0) its(0.0) members(0.0) ,(0.0) their(0.0) families(0.0) ,(0.0) and(0.0) the(0.0) civilian(0.0) employees(0.0) of(0.0) the(0.0) Department(0.0) of(0.0) Defense(0.0) and(0.0) the(0.0) Coast(0.0) Guard(0.0) 
+.(0.0) Their(0.0) incredible(0.0) sacrifices(0.0) and(0.0) courage(0.0) in(0.0) the(0.0) face(0.0) of(0.0) innumerable(0.0) hazards(1.0) have(0.0) been(0.0) critical(0.0) to(0.0) the(0.0) preservation(1.0) of(0.0) the(0.0) 
+freedom(1.0) ,(0.0) security(0.0) ,(0.0) and(0.0) prosperity(1.0) enjoyed(0.0) that(0.0) we(0.0) as(0.0) Americans(1.0) have(0.0) come(0.0) to(0.0) love(0.0) ,(0.0) enjoy(0.0) ,(0.0) and(0.0) even(0.0) 
+expect(0.0) .(0.0) In(0.0) the(0.0) Iraq(1.0) War(0.0) ,(0.0) Texas(1.0) has(0.0) suffered(0.0) over(0.0) 222(0.0) resident(0.0) casualties(0.0) ,(0.0) second(0.0) only(0.0) to(0.0) California(1.0) .(0.0) 
+As(0.0) a(0.0) Representative(0.0) for(0.0) the(0.0) 18th(0.0) District(0.0) of(0.0) Texas(1.0) ,(0.0) H.(0.0) Con(1.0) .(0.0) Res(0.0) .(0.0) 84(0.0) is(0.0) very(0.0) close(0.0) to(0.0) 
+the(0.0) hearts(0.0) of(0.0) those(0.0) I(0.0) represent(0.0) .(0.0) Many(0.0) Texans(1.0) hold(0.0) a(0.0) passion(0.0) for(0.0) protecting(1.0) the(0.0) integrity(1.0) and(0.0) strength(0.0) of(0.0) their(0.0) 
+nation(1.0) ,(0.0) and(0.0) as(0.0) the(0.0) recruitment(0.0) numbers(0.0) show(0.0) ,(0.0) they(0.0) often(0.0) exercise(0.0) their(0.0) passion(0.0) ,(0.0) by(0.0) joining(0.0) the(0.0) military(0.0) .(0.0) 
+In(0.0) past(0.0) studies(0.0) ,(0.0) Texas(1.0) has(0.0) been(0.0) the(0.0) number(0.0) one(0.0) state(0.0) for(0.0) military(0.0) recruitment(0.0) ;(0.0) therefore(0.0) ,(0.0) recognition(0.0) of(0.0) military(0.0) 
+involvement(0.0) is(0.0) an(0.0) important(0.0) issue(0.0) in(0.0) Texas(1.0) and(0.0) in(0.0) Houston(1.0) .(0.0) Texas(1.0) is(0.0) home(0.0) to(0.0) more(0.0) than(0.0) 194,965(0.0) military(0.0) personnel(0.0) 
+including(0.0) a(0.0) number(0.0) of(0.0) Army(0.0) ,(0.0) Navy(1.0) and(0.0) Marine(0.0) ,(0.0) Air(0.0) Force(0.0) ,(0.0) and(0.0) Coast(0.0) Guard(0.0) bases(0.0) .(0.0) H.(0.0) Con(1.0) 
+.(0.0) Res(0.0) .(0.0) will(0.0) encourage(0.0) the(0.0) citizens(1.0) of(0.0) Texas(1.0) to(0.0) reach(0.0) out(0.0) to(0.0) those(0.0) whom(0.0) are(0.0) involved(0.0) with(0.0) the(0.0) military(0.0) 
+and(0.0) extend(0.0) their(0.0) gratitude(0.0) for(0.0) all(0.0) that(0.0) they(0.0) do(0.0) for(0.0) our(0.0) nation(1.0) .(0.0) Because(0.0) there(0.0) is(0.0) a(0.0) large(0.0) population(0.0) of(0.0) 
+military(0.0) personnel(0.0) in(0.0) Texas(1.0) ,(0.0) it(0.0) is(0.0) critical(0.0) that(0.0) we(0.0) show(0.0) them(0.0) the(0.0) support(0.0) of(0.0) their(0.0) nation(1.0) and(0.0) their(0.0) state(1.0) 
+for(0.0) all(0.0) the(0.0) positive(0.0) contributions(1.0) they(0.0) have(0.0) brought(0.0) .(0.0) I(0.0) firmly(0.0) believe(0.0) that(0.0) H.(0.0) Con(1.0) .(0.0) Res(0.0) .(0.0) 84(0.0) is(0.0) 
+a(0.0) positive(0.0) step(0.0) for(0.0) the(0.0) recognition(0.0) ,(0.0) acknowledgement(0.0) ,(0.0) and(0.0) gratitude(0.0) that(0.0) should(0.0) be(0.0) given(0.0) to(0.0) our(0.0) military(1.0) personnel(0.0) ,(0.0) 
+and(0.0) I(0.0) hope(0.0) to(0.0) see(0.0) the(0.0) National(0.0) Military(0.0) Appreciation(0.0) Month(0.0) become(0.0) a(0.0) special(0.0) time(0.0) for(0.0) the(0.0) state(0.0) of(0.0) Texas(1.0) 
+
+
+----- below are rationale words -----
+
+Wamp	
+resolution	
+uniform	measure	Speaker	
+Con	
+Representative	Zach	Wamp	resolution	
+National	
+
+
+nation	
+
+hazards	preservation	
+freedom	prosperity	Americans	
+Iraq	Texas	California	
+Texas	Con	
+Texans	protecting	integrity	
+nation	
+Texas	
+Texas	Houston	Texas	
+Navy	Con	
+citizens	Texas	
+nation	
+Texas	nation	state	
+contributions	Con	
+military	
+Texas	
+
+reads % = 0.084

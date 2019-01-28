@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) was(0.0) unable(0.0) to(0.0) be(0.0) present(0.0) for(0.0) a(0.0) series(0.0) of(0.0) rollcall(1.0) votes(1.0) occurring(0.0) the(0.0) morning(0.0) of(0.0) July(0.0) 22(0.0) ,(0.0) 
+2005(0.0) .(0.0) During(0.0) that(0.0) time(0.0) I(0.0) was(0.0) attending(0.0) a(0.0) memorial(0.0) service(0.0) for(0.0) my(0.0) friend(0.0) ,(0.0) Avon(0.0) Williams(1.0) III(0.0) ,(0.0) held(0.0) 
+at(0.0) the(0.0) Pentagon(0.0) .(0.0) I(0.0) was(0.0) also(0.0) unable(0.0) to(0.0) be(0.0) present(0.0) for(0.0) a(0.0) series(0.0) of(0.0) rollcall(1.0) votes(1.0) held(0.0) on(0.0) the(0.0) 
+evening(0.0) of(0.0) July(0.0) 25(0.0) ,(0.0) 2005(0.0) .(0.0) During(0.0) that(0.0) time(0.0) I(0.0) incurred(0.0) an(0.0) unavoidable(0.0) transportation(1.0) delay(0.0) .(0.0) Had(0.0) I(0.0) been(0.0) 
+present(0.0) ,(0.0) I(0.0) would(0.0) have(0.0) voted(0.0) as(0.0) follows(0.0) :(0.0) On(0.0) rollcall(0.0) No(0.0) .(0.0) 415(0.0) ,(0.0) the(0.0) Velazquez(1.0) amendment(1.0) to(0.0) H.R(0.0) 
+.(0.0) 3070(0.0) ,(0.0) I(0.0) would(0.0) have(0.0) voted(0.0) ``(0.0) aye(0.0) .(0.0) ''(0.0) On(0.0) rollcall(0.0) No(0.0) .(0.0) 416(0.0) ,(0.0) passage(0.0) of(0.0) H.R(0.0) 
+.(0.0) 3070(0.0) ,(0.0) I(0.0) would(0.0) have(0.0) voted(0.0) ``(0.0) aye(0.0) .(0.0) ''(0.0) On(0.0) rollcall(0.0) No(0.0) .(0.0) 417(0.0) ,(0.0) passage(0.0) of(0.0) H.J(1.0) 
+.(0.0) Res(0.0) .(0.0) 59(0.0) ,(0.0) I(0.0) would(0.0) have(0.0) voted(0.0) ``(0.0) yea(0.0) .(0.0) ''(0.0) On(0.0) rollcall(0.0) No(0.0) .(0.0) 418(0.0) ,(0.0) passage(0.0) 
+of(0.0) H.(0.0) Con(0.0) .(0.0) Res(0.0) .(0.0) 181(0.0) ,(0.0) I(0.0) would(0.0) have(0.0) voted(0.0) ``(0.0) yea(0.0) .(0.0) ''(0.0) 
+
+
+----- below are rationale words -----
+
+rollcall	votes	
+Williams	
+rollcall	votes	
+transportation	
+Velazquez	amendment	
+
+H.J	
+
+
+
+reads % = 0.05084745762711865

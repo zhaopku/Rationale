@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+And(0.0) it(0.0) is(0.0) also(1.0) under(0.0) appeal(0.0) to(0.0) determine(1.0) whether(0.0) or(1.0) not(0.0) the(0.0) sentencing(0.0) guidelines(0.0) that(0.0) we(0.0) passed(0.0) in(0.0) the(0.0) House(0.0) applied(0.0) 
+in(0.0) this(0.0) case(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+also	determine	or	
+
+
+reads % = 0.12

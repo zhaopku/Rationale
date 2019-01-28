@@ -1,0 +1,10 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) to(0.0) remove(0.0) Representative(1.0) Paul(1.0) Ryan(1.0) as(0.0) a(0.0) cosponsor(1.0) of(0.0) H.R(0.0) .(0.0) 771(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Representative	Paul	Ryan	cosponsor	
+
+reads % = 0.26666666666666666

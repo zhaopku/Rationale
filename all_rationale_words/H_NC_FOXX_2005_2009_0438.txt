@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) today(0.0) I(0.0) rise(0.0) to(0.0) praise(0.0) Dale(0.0) Wilson(1.0) ,(0.0) a(0.0) remarkable(0.0) veteran(0.0) from(0.0) Troutman(1.0) ,(0.0) North(0.0) Carolina(0.0) ,(0.0) who(0.0) was(0.0) 
+named(0.0) the(0.0) 2009(0.0) National(0.0) Disabled(0.0) American(0.0) Veteran(0.0) of(0.0) the(0.0) Year(0.0) by(0.0) the(0.0) Disabled(0.0) American(0.0) Veterans(0.0) .(0.0) Dale(0.0) Wilson(1.0) lost(0.0) both(0.0) 
+of(0.0) his(0.0) legs(0.0) and(0.0) his(0.0) right(0.0) arm(0.0) while(0.0) serving(0.0) in(0.0) the(0.0) Marine(0.0) Corps(0.0) in(0.0) Vietnam(0.0) ;(0.0) but(0.0) for(0.0) a(0.0) Silver(0.0) 
+Star(0.0) recipient(0.0) who(0.0) paid(0.0) such(0.0) a(0.0) heavy(0.0) price(0.0) for(0.0) his(0.0) country(0.0) ,(0.0) Wilson(0.0) demonstrates(1.0) remarkable(0.0) humility(0.0) ,(0.0) good(0.0) will(0.0) ,(0.0) 
+and(0.0) an(0.0) astonishingly(0.0) positive(0.0) attitude(0.0) .(0.0) He(0.0) is(0.0) well(0.0) known(0.0) for(0.0) his(0.0) strident(1.0) belief(0.0) that(0.0) his(0.0) life(0.0) is(0.0) rich(0.0) and(0.0) 
+full(0.0) despite(0.0) what(0.0) many(0.0) could(0.0) call(0.0) a(0.0) severe(0.0) disability(1.0) .(0.0) His(0.0) days(0.0) are(0.0) full(0.0) of(0.0) service(0.0) to(0.0) his(0.0) community(0.0) and(0.0) 
+his(0.0) fellow(0.0) veterans(1.0) .(0.0) He(0.0) counts(0.0) his(0.0) family(0.0) ,(0.0) his(0.0) community(0.0) ,(0.0) and(0.0) his(0.0) service(0.0) to(0.0) his(0.0) country(0.0) as(0.0) dear(0.0) 
+blessings(0.0) .(0.0) And(0.0) you(0.0) wo(0.0) n't(0.0) catch(0.0) him(0.0) complaining(0.0) about(0.0) the(0.0) hand(0.0) that(0.0) was(0.0) dealt(0.0) him(0.0) .(0.0) Dale(0.0) Wilson(1.0) is(0.0) 
+the(0.0) sort(0.0) of(0.0) marine(1.0) that(0.0) gives(0.0) the(0.0) Marine(0.0) Corps(0.0) such(0.0) a(0.0) proud(0.0) reputation(0.0) ,(0.0) and(0.0) his(0.0) recognition(0.0) by(0.0) the(0.0) DAV(0.0) 
+is(0.0) well(0.0) deserved(0.0) .(0.0) I(0.0) know(0.0) that(0.0) his(0.0) example(0.0) serves(0.0) to(0.0) inspire(0.0) those(0.0) who(0.0) know(0.0) and(0.0) love(0.0) him(0.0) to(0.0) remember(0.0) 
+their(0.0) many(0.0) blessings(0.0) and(0.0) to(0.0) love(0.0) the(0.0) country(1.0) that(0.0) Wilson(0.0) sacrificed(1.0) so(0.0) much(0.0) for(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Wilson	Troutman	
+Wilson	
+
+demonstrates	
+strident	
+disability	
+veterans	
+Wilson	
+marine	
+
+country	sacrificed	
+
+reads % = 0.05092592592592592

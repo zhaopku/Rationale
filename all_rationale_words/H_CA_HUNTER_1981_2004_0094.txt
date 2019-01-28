@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) his(0.0) hard(0.0) work(0.0) and(0.0) his(0.0) urging(0.0) that(0.0) we(0.0) try(0.0) to(0.0) retrieve(0.0) an(0.0) 
+additional(0.0) 10(0.0) B-1(1.0) bombers(0.0) .(0.0) We(0.0) now(0.0) have(0.0) 67(0.0) .(0.0) The(0.0) Air(0.0) Force(0.0) was(0.0) going(0.0) to(0.0) cut(1.0) that(0.0) down(0.0) to(0.0) 
+60(0.0) .(0.0) We(0.0) moved(0.0) it(0.0) back(0.0) up(0.0) where(0.0) we(0.0) retrieved(0.0) seven(0.0) of(0.0) the(0.0) bombers(1.0) that(0.0) were(0.0) going(0.0) basically(0.0) into(0.0) the(0.0) 
+bone(0.0) yard(0.0) ,(0.0) and(0.0) the(0.0) gentleman(0.0) worked(0.0) hard(0.0) with(0.0) myself(0.0) and(0.0) other(0.0) members(0.0) of(0.0) the(0.0) committee(0.0) to(0.0) make(0.0) sure(0.0) we(0.0) 
+retrieved(0.0) an(0.0) additional(0.0) 10(0.0) bombers(1.0) .(0.0) So(0.0) we(0.0) are(0.0) taking(0.0) the(0.0) B-1(1.0) up(0.0) to(0.0) 77(0.0) bombers(1.0) .(0.0) That(0.0) B-1(1.0) has(0.0) 
+been(0.0) a(0.0) great(0.0) asset(0.0) for(0.0) the(0.0) projection(1.0) of(0.0) power(0.0) for(0.0) the(0.0) United(0.0) States(0.0) .(0.0) It(0.0) has(0.0) got(0.0) great(0.0) speed(0.0) ,(0.0) 
+it(0.0) can(0.0) hold(0.0) a(0.0) tremendous(0.0) payload(0.0) ,(0.0) and(0.0) it(0.0) can(0.0) literally(0.0) put(0.0) a(0.0) precision(0.0) munition(0.0) right(0.0) through(0.0) a(0.0) goalpost(0.0) .(0.0) 
+In(0.0) fact(0.0) ,(0.0) we(0.0) went(0.0) after(0.0) Saddam(1.0) Hussein(1.0) early(0.0) on(0.0) in(0.0) the(0.0) war(1.0) in(0.0) Iraq(1.0) with(0.0) the(0.0) B-1(1.0) bomber(0.0) .(0.0) 
+So(0.0) the(0.0) gentleman(0.0) has(0.0) been(0.0) a(0.0) champion(0.0) of(0.0) the(0.0) B-1(0.0) .(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) him(0.0) for(0.0) that(0.0) ,(0.0) and(0.0) 
+I(0.0) hope(0.0) he(0.0) is(0.0) here(0.0) with(0.0) me(0.0) when(0.0) we(0.0) roll(0.0) out(0.0) those(0.0) additional(0.0) 10(0.0) that(0.0) we(0.0) are(0.0) bringing(0.0) back(0.0) from(0.0) 
+retirement(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+B-1	cut	
+bombers	
+
+bombers	B-1	bombers	B-1	
+projection	
+
+Saddam	Hussein	war	Iraq	B-1	
+
+
+retirement	
+
+reads % = 0.06896551724137931

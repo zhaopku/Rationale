@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) it(0.0) is(0.0) my(0.0) pleasure(0.0) and(0.0) honor(0.0) to(0.0) introduce(0.0) the(0.0) gentleman(0.0) from(0.0) Florida(0.0) ((0.0) Mr.(0.0) Mario(1.0) Diaz-Balart(1.0) )(0.0) .(0.0) 
+Mr.(0.0) MARIO(1.0) DIAZ-BALART(0.0) of(0.0) Florida(0.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Indiana(1.0) .(0.0) I(0.0) am(0.0) so(0.0) pleased(0.0) 
+today(0.0) to(0.0) be(0.0) able(0.0) to(0.0) introduce(0.0) three(0.0) brilliant(0.0) Members(0.0) to(0.0) the(0.0) United(0.0) States(0.0) Congress(0.0) ,(0.0) three(0.0) brilliant(0.0) additions(0.0) to(0.0) our(0.0) 
+conference(0.0) .(0.0) The(0.0) first(0.0) one(0.0) is(0.0) a(0.0) person(0.0) I(0.0) have(0.0) had(0.0) the(0.0) privilege(1.0) to(0.0) know(0.0) for(0.0) a(0.0) number(0.0) of(0.0) years(0.0) 
+.(0.0) He(0.0) comes(0.0) from(0.0) a(0.0) very(0.0) strong(0.0) background(0.0) .(0.0) His(0.0) name(0.0) is(0.0) Connie(0.0) Mack(1.0) .(0.0) That(0.0) is(0.0) a(0.0) name(0.0) that(0.0) 
+is(0.0) very(0.0) familiar(0.0) in(0.0) the(0.0) State(0.0) of(0.0) Florida(1.0) .(0.0) We(0.0) all(0.0) know(0.0) that(0.0) his(0.0) father(0.0) served(0.0) with(0.0) such(0.0) great(0.0) distinction(0.0) 
+here(0.0) in(0.0) the(0.0) United(0.0) States(0.0) Congress(0.0) .(0.0) This(0.0) Connie(0.0) Mack(1.0) ,(0.0) his(0.0) son(0.0) ,(0.0) was(0.0) born(0.0) and(0.0) raised(0.0) in(0.0) Southwest(1.0) 
+Florida(0.0) .(0.0) He(0.0) is(0.0) ,(0.0) again(0.0) ,(0.0) the(0.0) son(0.0) of(0.0) the(0.0) former(0.0) Senator(1.0) Connie(1.0) Mack(1.0) .(0.0) He(0.0) will(0.0) represent(0.0) the(0.0) 
+Fourteenth(1.0) District(0.0) of(0.0) Florida(0.0) ,(0.0) which(0.0) borders(0.0) the(0.0) district(0.0) that(0.0) I(0.0) am(0.0) honored(0.0) to(0.0) represent(0.0) ,(0.0) and(0.0) also(0.0) the(0.0) district(0.0) 
+that(0.0) has(0.0) been(0.0) so(0.0) ably(0.0) represented(0.0) until(0.0) now(0.0) by(0.0) our(0.0) now(0.0) CIA(1.0) Director(0.0) Porter(1.0) Goss(1.0) ,(0.0) who(0.0) was(0.0) for(0.0) many(0.0) 
+years(0.0) the(0.0) chairman(0.0) of(0.0) the(0.0) Permanent(0.0) Select(0.0) Committee(0.0) on(0.0) Intelligence(0.0) .(0.0) Connie(0.0) ,(0.0) though(0.0) ,(0.0) I(0.0) got(0.0) to(0.0) know(0.0) during(0.0) 
+his(0.0) tenure(0.0) ,(0.0) our(0.0) joint(0.0) tenure(0.0) ,(0.0) in(0.0) the(0.0) Florida(0.0) State(0.0) Legislature(0.0) .(0.0) He(0.0) was(0.0) a(0.0) great(0.0) leader(0.0) in(0.0) the(0.0) 
+Florida(0.0) legislature(0.0) ,(0.0) an(0.0) active(0.0) member(0.0) of(0.0) that(0.0) legislature(0.0) .(0.0) He(0.0) helped(0.0) create(0.0) and(0.0) chaired(0.0) the(0.0) Freedom(0.0) Caucus(0.0) in(0.0) the(0.0) 
+State(0.0) House(0.0) of(0.0) Representatives(0.0) ,(0.0) the(0.0) Florida(0.0) State(0.0) House(0.0) of(0.0) Representatives(0.0) ,(0.0) which(0.0) fought(0.0) hard(0.0) and(0.0) successfully(0.0) ,(0.0) I(0.0) may(0.0) 
+add(0.0) ,(0.0) through(0.0) the(0.0) leadership(0.0) of(0.0) Connie(1.0) Mack(1.0) ,(0.0) to(0.0) keep(0.0) taxes(1.0) low(0.0) ,(0.0) to(0.0) cut(1.0) taxes(1.0) ,(0.0) to(0.0) cut(1.0) 
+regulation(1.0) ,(0.0) to(0.0) shrink(0.0) the(0.0) size(0.0) of(0.0) government(1.0) .(0.0) Connie(0.0) comes(0.0) with(0.0) a(0.0) wealth(1.0) of(0.0) experience(0.0) .(0.0) He(0.0) will(0.0) help(0.0) 
+promote(1.0) President(0.0) Bush(1.0) 's(0.0) fiscally(0.0) conservative(0.0) agenda(1.0) and(0.0) tax(1.0) relief(1.0) and(0.0) make(0.0) sure(0.0) that(0.0) America(1.0) 's(0.0) families(0.0) are(0.0) not(0.0) overburdened(1.0) 
+by(0.0) excessive(1.0) taxation(1.0) .(0.0) Again(0.0) ,(0.0) Connie(0.0) Mack(1.0) ,(0.0) now(0.0) Congressman-elect(1.0) Connie(1.0) Mack(1.0) ,(0.0) has(0.0) a(0.0) wealth(0.0) of(0.0) experience(0.0) coming(0.0) 
+from(0.0) the(0.0) Florida(0.0) legislature(0.0) ,(0.0) particularly(0.0) on(0.0) issues(0.0) of(0.0) fiscal(0.0) responsibility(0.0) .(0.0) He(0.0) has(0.0) shown(0.0) great(0.0) leadership(0.0) ,(0.0) and(0.0) I(0.0) 
+am(0.0) anxious(0.0) to(0.0) have(0.0) him(0.0) as(0.0) my(0.0) partner(0.0) because(0.0) ,(0.0) again(0.0) ,(0.0) we(0.0) have(0.0) adjoining(0.0) districts(0.0) .(0.0) We(0.0) are(0.0) going(0.0) 
+to(0.0) be(0.0) working(0.0) very(0.0) closely(0.0) together(0.0) ,(0.0) as(0.0) we(0.0) have(0.0) in(0.0) the(0.0) past(0.0) ,(0.0) and(0.0) I(0.0) am(0.0) excited(0.0) to(0.0) have(0.0) 
+him(0.0) as(0.0) part(0.0) of(0.0) the(0.0) team(0.0) .(0.0) Another(0.0) person(0.0) who(0.0) joins(0.0) us(0.0) now(0.0) from(0.0) the(0.0) State(0.0) California(0.0) with(0.0) just(0.0) a(0.0) 
+huge(0.0) wealth(0.0) of(0.0) experience(0.0) is(0.0) Congressman-elect(1.0) Dan(1.0) Lungren(1.0) .(0.0) He(0.0) had(0.0) served(0.0) ,(0.0) by(0.0) the(0.0) way(0.0) ,(0.0) here(0.0) in(0.0) the(0.0) 
+House(0.0) between(0.0) 1979(0.0) to(0.0) 1989(0.0) .(0.0) He(0.0) now(0.0) returns(0.0) to(0.0) the(0.0) House(0.0) after(0.0) serving(0.0) as(0.0) the(0.0) Attorney(0.0) General(0.0) of(0.0) California(0.0) 
+,(0.0) which(0.0) ,(0.0) by(0.0) the(0.0) way(0.0) ,(0.0) he(0.0) did(0.0) so(0.0) for(0.0) 8(0.0) years(0.0) until(0.0) 1998(0.0) .(0.0) He(0.0) ,(0.0) along(0.0) 
+
+
+----- below are rationale words -----
+
+Mario	Diaz-Balart	
+MARIO	Speaker	Indiana	
+
+privilege	
+Mack	
+Florida	
+Mack	Southwest	
+Senator	Connie	Mack	
+Fourteenth	
+CIA	Porter	Goss	
+
+
+
+
+Connie	Mack	taxes	cut	taxes	cut	
+regulation	government	wealth	
+promote	Bush	agenda	tax	relief	America	overburdened	
+excessive	taxation	Mack	Congressman-elect	Connie	Mack	
+
+
+
+
+Congressman-elect	Dan	Lungren	
+
+
+
+reads % = 0.084

@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+First(0.0) of(0.0) all(0.0) ,(0.0) let(0.0) me(0.0) explain(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Illinois(1.0) why(0.0) these(0.0) are(0.0) called(0.0) reproductive(1.0) health(1.0) care(1.0) centers(1.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+Illinois	reproductive	health	care	centers	
+
+
+reads % = 0.23809523809523808

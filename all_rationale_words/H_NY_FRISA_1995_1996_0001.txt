@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) 1(0.0) year(0.0) ago(0.0) today(0.0) I(0.0) walked(0.0) into(0.0) this(0.0) great(0.0) House(0.0) as(0.0) a(0.0) brandnew(0.0) Member(0.0) of(0.0) Congress(0.0) representing(1.0) Long(1.0) Island(0.0) 
+,(0.0) NY(1.0) .(0.0) When(0.0) I(0.0) did(0.0) that(0.0) ,(0.0) I(0.0) had(0.0) one(0.0) mission(0.0) 1(0.0) year(0.0) ago(0.0) ,(0.0) and(0.0) that(0.0) was(0.0) to(0.0) 
+do(0.0) things(0.0) differently(0.0) ,(0.0) to(0.0) get(0.0) away(0.0) from(0.0) the(0.0) rhetoric(1.0) and(0.0) the(0.0) empty(0.0) words(0.0) that(0.0) really(0.0) are(0.0) not(0.0) truthful(0.0) .(0.0) 
+The(0.0) simple(0.0) fact(0.0) is(0.0) ,(0.0) we(0.0) have(0.0) done(0.0) our(0.0) job(0.0) .(0.0) The(0.0) President(1.0) does(0.0) not(0.0) like(0.0) it(0.0) .(0.0) My(0.0) colleagues(0.0) 
+on(0.0) the(0.0) other(0.0) side(0.0) of(0.0) the(0.0) aisle(0.0) certainly(0.0) do(0.0) not(0.0) like(0.0) it(0.0) .(0.0) Here(0.0) is(0.0) the(0.0) result(0.0) of(0.0) our(0.0) work(0.0) 
+product(0.0) .(0.0) We(0.0) promised(1.0) a(0.0) balanced(0.0) budget(1.0) ;(0.0) we(0.0) delivered(0.0) it(0.0) .(0.0) Here(0.0) it(0.0) is(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) anyone(0.0) 
+in(0.0) this(0.0) country(1.0) who(0.0) would(0.0) like(0.0) to(0.0) get(0.0) a(0.0) copy(0.0) of(0.0) this(0.0) real(0.0) budget(1.0) ,(0.0) call(0.0) my(0.0) office(0.0) ,(0.0) 202-225-5516(0.0) 
+;(0.0) I(0.0) will(0.0) send(0.0) you(0.0) one(0.0) .(0.0) If(0.0) you(0.0) would(0.0) like(0.0) to(0.0) see(0.0) the(0.0) President(1.0) 's(0.0) alternative(0.0) balanced(0.0) budget(1.0) ,(0.0) 
+you(0.0) do(0.0) not(0.0) have(0.0) to(0.0) call(0.0) .(0.0) You(0.0) can(0.0) see(0.0) it(0.0) right(0.0) here(0.0) .(0.0) You(0.0) can(0.0) not(0.0) really(0.0) see(0.0) it(0.0) 
+,(0.0) because(0.0) it(0.0) does(0.0) not(0.0) exist(0.0) .(0.0) The(0.0) President(1.0) of(0.0) the(0.0) United(0.0) States(0.0) has(0.0) not(0.0) done(0.0) his(0.0) job(0.0) .(0.0) Though(0.0) 
+he(0.0) has(0.0) done(0.0) a(0.0) lot(0.0) of(0.0) yakking(1.0) ,(0.0) and(0.0) he(0.0) has(0.0) done(0.0) a(0.0) lot(0.0) of(0.0) blabbing(1.0) ;(0.0) he(0.0) has(0.0) not(0.0) 
+rolled(0.0) up(0.0) his(0.0) sleeves(0.0) and(0.0) done(0.0) the(0.0) real(0.0) work(0.0) and(0.0) put(0.0) numbers(0.0) on(0.0) the(0.0) table(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+representing	Long	
+NY	
+rhetoric	
+President	
+
+promised	budget	Speaker	
+country	budget	
+President	budget	
+
+President	
+yakking	blabbing	
+
+
+reads % = 0.06329113924050633

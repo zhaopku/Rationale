@@ -1,0 +1,40 @@
+This is from a Democrat
+----- below is the original text -----
+And(0.0) since(0.0) I(0.0) have(0.0) been(0.0) in(0.0) this(0.0) Congress(0.0) ,(0.0) I(0.0) have(0.0) worked(0.0) to(0.0) extend(0.0) the(0.0) benefits(1.0) with(0.0) estate(1.0) planning(1.0) and(0.0) raise(1.0) 
+exemptions(1.0) for(0.0) the(0.0) last(0.0) 12(0.0) years(0.0) .(0.0) The(0.0) estate(1.0) tax(1.0) was(0.0) never(0.0) meant(1.0) to(0.0) affect(0.0) the(0.0) vast(1.0) majority(0.0) of(0.0) Americans(0.0) 
+.(0.0) Under(1.0) H.R(0.0) .(0.0) 4154(1.0) ,(0.0) only(0.0) 25(0.0) of(0.0) every(0.0) 10,000(0.0) estates(1.0) would(1.0) be(0.0) subject(0.0) to(0.0) estate(1.0) tax(1.0) .(0.0) By(1.0) 
+extending(0.0) current(0.0) law(1.0) ,(0.0) this(0.0) bill(0.0) strikes(1.0) a(0.0) balance(0.0) .(0.0) It(0.0) provides(0.0) certainty(0.0) for(0.0) estate(1.0) planning(1.0) and(0.0) prevents(0.0) tens(0.0) of(0.0) 
+thousand(1.0) of(0.0) estates(1.0) from(0.0) being(0.0) subject(0.0) to(0.0) taxation(1.0) while(0.0) also(1.0) being(0.0) fiscally(1.0) responsible(1.0) .(0.0) Critically(1.0) ,(0.0) this(0.0) bill(0.0) protects(0.0) our(0.0) 
+small(0.0) businesses(1.0) and(0.0) farmers(0.0) .(0.0) In(0.0) my(0.0) district(1.0) in(0.0) North(0.0) Carolina(0.0) ,(0.0) there(0.0) are(0.0) plenty(1.0) of(0.0) farmers(0.0) that(0.0) are(0.0) ``(0.0) 
+land(0.0) rich(0.0) and(0.0) cash(0.0) poor(0.0) ''(0.0) that(0.0) may(0.0) be(0.0) affected(1.0) by(0.0) the(0.0) reach(0.0) of(0.0) the(0.0) estate(1.0) tax(1.0) because(0.0) their(0.0) land(0.0) 
+and(0.0) equipment(0.0) are(0.0) worth(0.0) quite(0.0) a(0.0) bit(1.0) ,(0.0) but(0.0) their(0.0) business(0.0) may(0.0) be(0.0) barely(1.0) getting(0.0) by(0.0) .(0.0) Many(0.0) small(0.0) businesses(1.0) 
+that(0.0) form(1.0) the(0.0) backbone(0.0) of(0.0) our(0.0) economy(1.0) are(0.0) the(0.0) engine(1.0) of(0.0) job(1.0) creation(0.0) ,(0.0) and(0.0) they(0.0) face(0.0) the(0.0) same(1.0) dilemma(1.0) 
+.(0.0) Rather(1.0) than(0.0) worrying(1.0) about(0.0) the(0.0) estate(1.0) tax(1.0) ,(0.0) these(1.0) businesses(1.0) need(0.0) to(0.0) focus(0.0) on(0.0) the(0.0) growth(1.0) and(0.0) expansion(0.0) that(0.0) 
+can(1.0) improve(1.0) our(0.0) economy(1.0) .(0.0) This(0.0) legislation(0.0) will(0.0) allow(0.0) them(0.0) to(0.0) do(0.0) just(1.0) that(0.0) .(0.0) Only(1.0) 100(0.0) small(0.0) businesses(1.0) and(0.0) 
+farm(1.0) estates(1.0) would(0.0) owe(1.0) any(1.0) estate(1.0) tax(1.0) in(0.0) 2010(0.0) under(0.0) these(1.0) rules(1.0) ,(0.0) according(0.0) to(0.0) the(0.0) numbers(0.0) I(0.0) get(0.0) .(0.0) 
+Now(0.0) ,(0.0) as(0.0) a(0.0) former(0.0) small(0.0) businesses(1.0) owner(1.0) ,(0.0) I(0.0) also(1.0) know(0.0) that(0.0) that(0.0) provides(0.0) certainty(0.0) that(0.0) is(0.0) crucial(1.0) for(0.0) 
+business(1.0) planning(1.0) .(0.0) This(0.0) is(0.0) equally(1.0) true(1.0) for(0.0) individuals(0.0) who(0.0) need(0.0) to(0.0) plan(1.0) for(0.0) the(0.0) future(0.0) of(0.0) themselves(0.0) ,(0.0) their(0.0) 
+children(0.0) and(0.0) their(0.0) grandchildren(1.0) .(0.0) We(0.0) should(0.0) encourage(1.0) the(0.0) dreams(1.0) of(0.0) Americans(0.0) who(0.0) want(1.0) to(0.0) build(0.0) wealth(0.0) that(0.0) they(0.0) can(0.0) 
+leave(1.0) to(0.0) their(0.0) children(0.0) and(0.0) grandchildren(1.0) ,(0.0) but(0.0) also(1.0) it(0.0) needs(0.0) to(0.0) be(0.0) fair(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+benefits	estate	planning	raise	
+exemptions	estate	tax	meant	vast	
+Under	4154	estates	would	estate	tax	By	
+law	strikes	estate	planning	
+thousand	estates	taxation	also	fiscally	responsible	Critically	
+businesses	district	plenty	
+affected	estate	tax	
+bit	barely	businesses	
+form	economy	engine	job	same	dilemma	
+Rather	worrying	estate	tax	these	businesses	growth	
+can	improve	economy	just	Only	businesses	
+farm	estates	owe	any	estate	tax	these	rules	
+businesses	owner	also	crucial	
+business	planning	equally	true	plan	
+grandchildren	encourage	dreams	want	
+leave	grandchildren	also	fair	
+
+reads % = 0.25316455696202533

@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Kirk(1.0) would(1.0) like(1.0) to(1.0) engage(1.0) in(0.0) a(0.0) colloquy(0.0) .(0.0) Would(0.0) Mr.(0.0) Ehlers(1.0) care(1.0) to(1.0) yield(1.0) some(0.0) time(0.0) to(0.0) him(0.0) for(0.0) that(0.0) 
+?(0.0) 
+
+
+----- below are rationale words -----
+
+would	like	to	engage	Ehlers	care	to	yield	
+
+
+reads % = 0.36363636363636365

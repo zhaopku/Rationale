@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) do(0.0) and(0.0) I(0.0) would(0.0) first(0.0) raise(0.0) a(0.0) parliamentary(0.0) inquiry(0.0) .(0.0) Could(0.0) the(0.0) Chair(1.0) tell(0.0) us(0.0) what(0.0) rules(1.0) were(0.0) 
+waived(0.0) by(0.0) the(0.0) Committee(0.0) on(0.0) Rules(0.0) for(0.0) consideration(0.0) of(0.0) the(0.0) majority(1.0) committee(0.0) bill(0.0) and(0.0) its(0.0) provisions(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+Chair	rules	
+majority	
+
+reads % = 0.07894736842105263

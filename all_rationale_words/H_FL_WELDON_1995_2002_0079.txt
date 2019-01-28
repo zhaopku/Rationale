@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) just(0.0) want(0.0) to(0.0) introduce(0.0) for(0.0) point(0.0) of(0.0) clarification(0.0) ,(0.0) there(0.0) have(0.0) been(0.0) statements(0.0) made(0.0) about(0.0) how(0.0) this(0.0) is(0.0) 
+not(0.0) an(0.0) issue(0.0) that(0.0) should(0.0) apply(0.0) to(0.0) health(1.0) care(1.0) plans(1.0) or(0.0) insurance(1.0) companies(1.0) ,(0.0) and(0.0) I(0.0) just(0.0) want(0.0) to(0.0) state(1.0) 
+the(0.0) case(0.0) of(0.0) Fidelis(1.0) Health(1.0) Care(0.0) of(0.0) New(1.0) York(1.0) .(0.0) This(0.0) is(0.0) a(0.0) Catholic(1.0) archdiocese(1.0) of(0.0) New(1.0) York(1.0) cooperative(1.0) managed(0.0) 
+health(1.0) care(0.0) plan(1.0) .(0.0) Immediately(0.0) after(0.0) it(0.0) was(0.0) started(0.0) ,(0.0) Family(0.0) Planning(0.0) Advocates(1.0) of(0.0) New(1.0) York(1.0) ,(0.0) FPA(1.0) they(0.0) are(0.0) 
+called(0.0) ;(0.0) they(0.0) are(0.0) an(0.0) affiliate(0.0) of(0.0) Planned(1.0) Parenthood(1.0) International(0.0) ,(0.0) pursued(1.0) aggressive(0.0) action(0.0) against(0.0) this(0.0) HMO(1.0) .(0.0) They(0.0) have(0.0) 
+called(0.0) upon(0.0) the(0.0) State(0.0) Health(0.0) Department(0.0) to(0.0) ``(0.0) increase(0.0) its(0.0) monitoring(0.0) of(0.0) Fidelis(1.0) informational(0.0) and(0.0) referral(0.0) processes(0.0) concerning(0.0) reproductive(1.0) health(1.0) 
+care(0.0) ,(0.0) ''(0.0) and(0.0) they(0.0) are(0.0) supporting(0.0) legislation(1.0) in(0.0) the(0.0) New(1.0) York(1.0) legislature(1.0) to(0.0) force(0.0) them(0.0) to(0.0) provide(0.0) abortion(1.0) counseling(1.0) 
+.(0.0) So(0.0) what(0.0) we(0.0) are(0.0) talking(0.0) about(0.0) is(0.0) we(0.0) have(0.0) a(0.0) Catholic(1.0) doctor(0.0) in(0.0) a(0.0) Catholic(1.0) hospital(0.0) with(0.0) a(0.0) Catholic(1.0) 
+nurse(0.0) ,(0.0) all(0.0) of(0.0) them(0.0) are(0.0) pro-life(1.0) ,(0.0) and(0.0) these(0.0) people(0.0) are(0.0) wanting(0.0) to(0.0) go(0.0) in(0.0) there(0.0) and(0.0) use(0.0) the(0.0) 
+force(1.0) of(0.0) government(1.0) to(0.0) say(0.0) you(0.0) have(0.0) to(0.0) do(0.0) this(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+health	care	plans	insurance	companies	state	
+Fidelis	Health	New	York	Catholic	archdiocese	New	York	cooperative	
+health	plan	Advocates	New	York	FPA	
+Planned	Parenthood	pursued	HMO	
+Fidelis	reproductive	health	
+legislation	New	York	legislature	abortion	counseling	
+Catholic	Catholic	Catholic	
+pro-life	
+force	government	
+
+reads % = 0.20833333333333334

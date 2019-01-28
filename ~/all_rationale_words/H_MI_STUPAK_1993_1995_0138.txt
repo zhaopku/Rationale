@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+The(0.0) SPEAKER(0.0) pro(1.0) tempore(1.0) ((0.0) Mr.(0.0) Gunderson(1.0) )(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) Michigan(1.0) reclaims(1.0) the(0.0) time(0.0) .(0.0) Speaker(1.0) ,(0.0) if(0.0) I(0.0) 
+have(0.0) time(0.0) remaining(1.0) ,(0.0) I(0.0) will(0.0) yield(0.0) ,(0.0) but(0.0) I(0.0) am(0.0) going(1.0) to(0.0) finish(0.0) my(0.0) argument(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+pro	tempore	Gunderson	Michigan	reclaims	Speaker	
+remaining	going	argument	
+
+reads % = 0.23684210526315788

@@ -1,0 +1,36 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) will(0.0) the(0.0) gentleman(0.0) yield(0.0) ?(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) ,(0.0) too(0.0) ,(0.0) rise(0.0) reluctantly(0.0) to(0.0) oppose(1.0) the(0.0) legislation(1.0) ,(0.0) 
+in(0.0) admiration(0.0) for(0.0) the(0.0) committee(0.0) chairman(0.0) and(0.0) the(0.0) ranking(0.0) member(0.0) ,(0.0) but(0.0) I(0.0) think(0.0) it(0.0) is(0.0) important(0.0) for(0.0) our(0.0) colleagues(0.0) 
+to(0.0) know(0.0) that(0.0) this(0.0) legislation(1.0) ,(0.0) while(0.0) it(0.0) does(0.0) many(0.0) good(0.0) things(0.0) and(0.0) is(0.0) certainly(0.0) well-intended(1.0) ,(0.0) is(0.0) opposed(1.0) by(0.0) 
+the(0.0) National(0.0) District(0.0) Attorney(0.0) 's(0.0) Association(0.0) .(0.0) They(0.0) wrote(0.0) the(0.0) Speaker(0.0) of(0.0) the(0.0) U.S.(0.0) House(0.0) very(0.0) recently(0.0) to(0.0) express(0.0) their(0.0) 
+concern(0.0) .(0.0) They(0.0) talked(0.0) about(0.0) the(0.0) good(0.0) aspects(0.0) of(0.0) the(0.0) bill(1.0) ,(0.0) but(0.0) they(0.0) expressed(0.0) concern(1.0) on(0.0) two(0.0) topics(0.0) ,(0.0) 
+both(0.0) the(0.0) funding(1.0) in(0.0) the(0.0) bill(1.0) ,(0.0) in(0.0) terms(1.0) of(0.0) what(0.0) it(0.0) would(0.0) do(0.0) to(0.0) death(1.0) penalty(1.0) cases(0.0) ,(0.0) but(0.0) 
+also(0.0) and(0.0) most(0.0) importantly(0.0) ,(0.0) the(0.0) standard(0.0) of(0.0) proof(1.0) that(0.0) the(0.0) bill(1.0) sets(0.0) for(0.0) a(0.0) new(0.0) trial(0.0) .(0.0) Specifically(0.0) ,(0.0) 
+the(0.0) National(0.0) District(0.0) Attorney(0.0) 's(0.0) Association(0.0) wrote(0.0) that(0.0) the(0.0) standard(0.0) of(0.0) evidence(0.0) is(0.0) set(0.0) dangerously(0.0) low(0.0) .(0.0) What(0.0) they(0.0) mean(0.0) 
+by(0.0) that(0.0) is(0.0) under(0.0) this(0.0) legislation(1.0) ,(0.0) convicted(1.0) felons(1.0) will(0.0) have(0.0) the(0.0) ability(0.0) to(0.0) make(0.0) a(0.0) demand(0.0) for(0.0) a(0.0) retrial(0.0) 
+under(0.0) circumstances(0.0) which(0.0) are(0.0) far(0.0) lower(0.0) than(0.0) any(0.0) other(0.0) circumstances(0.0) similar(0.0) in(0.0) other(0.0) situations(0.0) ,(0.0) and(0.0) they(0.0) expressed(0.0) grave(0.0) concern(0.0) 
+about(0.0) that(0.0) .(0.0) Convicted(1.0) criminals(1.0) will(0.0) be(0.0) allowed(0.0) to(0.0) make(0.0) consecutive(0.0) ,(0.0) multiple(0.0) requests(0.0) for(0.0) DNA(0.0) testing(0.0) under(0.0) this(0.0) bill(1.0) 
+.(0.0) They(0.0) would(0.0) have(0.0) an(0.0) ability(0.0) to(0.0) tie(0.0) up(0.0) the(0.0) courts(1.0) over(0.0) and(0.0) over(0.0) again(0.0) by(0.0) submitting(0.0) separate(0.0) requests(0.0) .(0.0) 
+I(0.0) reluctantly(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) oppose(1.0) this(0.0) bill(1.0) and(1.0) join(0.0) the(0.0) National(0.0) District(0.0) Attorneys(0.0) '(0.0) Association(0.0) in(0.0) opposing(1.0) the(0.0) 
+bill(0.0) so(0.0) we(0.0) can(0.0) improve(0.0) it(0.0) and(0.0) pass(0.0) it(0.0) in(0.0) an(0.0) improved(0.0) fashion(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	oppose	legislation	
+
+legislation	well-intended	opposed	
+
+bill	concern	
+funding	bill	terms	death	penalty	
+proof	bill	
+
+legislation	convicted	felons	
+
+Convicted	criminals	bill	
+courts	
+oppose	bill	and	opposing	
+
+
+reads % = 0.09454545454545454

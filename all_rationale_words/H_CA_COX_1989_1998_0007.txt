@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) chairman(0.0) for(0.0) yielding(0.0) me(0.0) the(0.0) time(0.0) .(0.0) I(0.0) rise(0.0) in(0.0) opposition(1.0) to(0.0) the(0.0) resolution(1.0) offered(0.0) by(0.0) 
+my(0.0) good(0.0) friend(0.0) and(0.0) colleague(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) ((0.0) Mr.(0.0) Campbell(1.0) )(0.0) ,(0.0) but(0.0) not(0.0) because(0.0) I(0.0) lack(0.0) any(0.0) 
+respect(0.0) for(0.0) his(0.0) legal(0.0) acumen(0.0) for(0.0) the(0.0) policies(1.0) ,(0.0) which(0.0) are(0.0) very(0.0) serious(0.0) ,(0.0) that(0.0) he(0.0) raises(0.0) or(0.0) for(0.0) his(0.0) 
+punctilious(0.0) avoidance(0.0) of(0.0) the(0.0) question(0.0) of(0.0) President(0.0) Clinton(1.0) 's(0.0) Bosnia(0.0) policy(0.0) .(0.0) The(0.0) resolution(1.0) itself(0.0) makes(0.0) it(0.0) very(0.0) clear(0.0) that(0.0) 
+is(0.0) not(0.0) what(0.0) this(0.0) is(0.0) about(0.0) .(0.0) Section(0.0) 1(0.0) ((0.0) c(0.0) )(0.0) says(0.0) ,(0.0) ``(0.0) The(0.0) requirement(0.0) to(0.0) remove(0.0) United(0.0) 
+States(0.0) armed(0.0) forces(0.0) from(0.0) the(0.0) Republic(0.0) of(0.0) Bosnia(0.0) and(0.0) Herzegovina(0.0) does(0.0) not(0.0) necessarily(0.0) reflect(0.0) any(0.0) disagreement(0.0) with(0.0) the(0.0) purposes(0.0) or(0.0) 
+accomplishments(0.0) of(0.0) such(0.0) armed(0.0) forces(0.0) .(0.0) ''(0.0) What(0.0) is(0.0) under(0.0) discussion(0.0) here(0.0) is(0.0) not(0.0) whether(0.0) troops(0.0) should(0.0) be(0.0) in(0.0) Bosnia(1.0) 
+,(0.0) according(0.0) to(0.0) the(0.0) resolution(1.0) itself(0.0) ,(0.0) but(0.0) rather(0.0) the(0.0) War(1.0) Powers(0.0) Resolution(0.0) .(0.0) I(0.0) agree(0.0) wholeheartedly(0.0) with(0.0) the(0.0) words(0.0) 
+spoken(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) Illinois(0.0) ((0.0) Mr.(0.0) Hyde(1.0) )(0.0) ,(0.0) chairman(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) the(0.0) Judiciary(0.0) ,(0.0) just(0.0) 
+a(0.0) moment(0.0) ago(0.0) that(0.0) the(0.0) War(0.0) Powers(0.0) Resolution(0.0) is(0.0) unconstitutional(0.0) .(0.0) I(0.0) too(0.0) have(0.0) been(0.0) on(0.0) the(0.0) floor(0.0) trying(0.0) to(0.0) 
+repeal(1.0) it(0.0) for(0.0) some(0.0) years(0.0) .(0.0) I(0.0) too(0.0) have(0.0) opposed(0.0) it(0.0) through(0.0) the(0.0) tenure(0.0) of(0.0) both(0.0) Democratic(1.0) and(0.0) Republican(0.0) Presidents(1.0) 
+.(1.0) And(1.0) of(1.0) course(1.0) ,(1.0) as(1.0) we(1.0) all(1.0) know(1.0) ,(1.0) the(0.0) War(1.0) Powers(1.0) Resolution(1.0) has(0.0) been(0.0) every(0.0) day(0.0) since(0.0) it(0.0) 
+was(0.0) first(0.0) passed(0.0) declared(0.0) unconstitutional(1.0) by(0.0) Presidents(0.0) Clinton(1.0) ,(0.0) Bush(1.0) ,(0.0) Reagan(1.0) ,(0.0) Carter(0.0) ,(0.0) Ford(0.0) ,(0.0) and(0.0) Nixon(1.0) .(0.0) 
+The(0.0) War(0.0) Powers(0.0) Resolution(1.0) ,(0.0) paradoxically(1.0) ,(0.0) weakens(1.0) both(0.0) the(0.0) Congress(0.0) and(0.0) the(0.0) executive(0.0) branch(0.0) .(0.0) Here(0.0) is(0.0) how(0.0) it(0.0) 
+weakens(0.0) Congress(0.0) .(0.0) Under(0.0) article(0.0) I(0.0) ,(0.0) section(0.0) 8(0.0) ,(0.0) clauses(0.0) 1(0.0) ,(0.0) 11(0.0) ,(0.0) and(0.0) 14(0.0) ,(0.0) Congress(0.0) has(0.0) 
+the(0.0) power(0.0) ``(0.0) to(0.0) provide(0.0) for(0.0) the(0.0) common(0.0) defense(0.0) ,(0.0) to(0.0) declare(0.0) war(1.0) ,(0.0) ''(0.0) and(0.0) to(0.0) ``(0.0) make(0.0) rules(0.0) 
+for(0.0) the(0.0) Government(1.0) and(0.0) Regulation(0.0) of(0.0) the(0.0) land(0.0) and(0.0) naval(0.0) forces(0.0) .(0.0) ''(0.0) The(0.0) appropriations(0.0) clause(0.0) ,(0.0) article(0.0) I(0.0) ,(0.0) 
+section(0.0) 9(0.0) ,(0.0) clause(0.0) 7(0.0) ,(0.0) grants(0.0) the(0.0) Congress(0.0) the(0.0) power(0.0) of(0.0) the(0.0) purse(0.0) ,(0.0) which(0.0) we(0.0) could(0.0) use(0.0) here(0.0) 
+very(0.0) effectively(0.0) if(0.0) we(0.0) wish(0.0) to(0.0) oppose(1.0) the(0.0) President(1.0) 's(0.0) Bosnia(0.0) policy(0.0) .(0.0) That(0.0) power(0.0) obviously(0.0) extends(0.0) to(0.0) the(0.0) fields(0.0) 
+of(0.0) foreign(1.0) affairs(0.0) and(0.0) defense(0.0) .(0.0) So(0.0) too(0.0) does(0.0) Article(1.0) I(0.0) ,(0.0) section(0.0) 8(0.0) ,(0.0) clause(1.0) 12(0.0) ,(0.0) which(0.0) explicitly(1.0) 
+empowers(1.0) Congress(0.0) ``(0.0) to(0.0) raise(0.0) and(0.0) support(0.0) armies(0.0) .(0.0) ''(0.0) As(0.0) Justice(1.0) Jackson(1.0) stated(0.0) in(0.0) the(0.0) Steel(0.0) Seizure(0.0) case(0.0) ,(0.0) 
+``(0.0) The(0.0) President(0.0) has(0.0) no(0.0) monopoly(0.0) of(0.0) `(0.0) war(0.0) powers(0.0) ,(0.0) '(0.0) whatever(0.0) they(0.0) are(0.0) .(0.0) ''(0.0) But(0.0) the(0.0) War(1.0) 
+Powers(0.0) Resolution(0.0) ,(0.0) with(0.0) its(0.0) 60-day(1.0) grace(0.0) period(0.0) ,(0.0) purports(1.0) to(0.0) give(0.0) the(0.0) President(1.0) carte(0.0) blanche(0.0) to(0.0) make(0.0) war(1.0) for(0.0) 
+a(0.0) full(0.0) 2(0.0) months(0.0) without(0.0) congressional(0.0) authorization(1.0) .(0.0) That(0.0) subverts(1.0) the(0.0) Constitution(1.0) .(0.0) Here(0.0) is(0.0) how(0.0) the(0.0) War(1.0) Powers(0.0) Resolution(0.0) 
+weakens(0.0) the(0.0) President(1.0) :(0.0) The(0.0) vesting(0.0) clause(0.0) ,(0.0) Article(0.0) II(0.0) ,(0.0) section(0.0) 1(0.0) of(0.0) the(0.0) Constitution(0.0) ,(0.0) unambiguously(0.0) grants(1.0) 
+
+
+----- below are rationale words -----
+
+opposition	resolution	
+Campbell	
+policies	
+Clinton	resolution	
+
+
+Bosnia	
+resolution	War	
+Hyde	
+
+repeal	Democratic	Presidents	
+.	And	of	course	,	as	we	all	know	,	War	Powers	Resolution	
+unconstitutional	Clinton	Bush	Reagan	Nixon	
+Resolution	paradoxically	weakens	
+
+war	
+Government	
+
+oppose	President	
+foreign	Article	clause	explicitly	
+empowers	Justice	Jackson	
+War	
+60-day	purports	President	war	
+authorization	subverts	Constitution	War	
+President	grants	
+
+reads % = 0.112

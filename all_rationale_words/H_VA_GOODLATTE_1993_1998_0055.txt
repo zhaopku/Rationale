@@ -1,0 +1,40 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) to(0.0) honor(0.0) two(0.0) men(0.0) who(0.0) gave(0.0) their(0.0) lives(0.0) in(0.0) defense(1.0) of(0.0) freedom(1.0) --(0.0) Officer(0.0) J.J(1.0) .(0.0) 
+Chestnut(0.0) and(0.0) Special(0.0) Agent(0.0) John(0.0) Gibson(1.0) .(0.0) They(0.0) will(0.0) be(0.0) deeply(0.0) missed(0.0) by(0.0) all(0.0) who(0.0) had(0.0) the(0.0) great(0.0) privilege(1.0) of(0.0) 
+knowing(0.0) them(0.0) .(0.0) As(0.0) one(0.0) of(0.0) my(0.0) colleagues(0.0) so(0.0) eloquently(0.0) stated(0.0) ,(0.0) we(0.0) are(0.0) the(0.0) land(0.0) of(0.0) the(0.0) free(0.0) because(0.0) 
+we(0.0) are(0.0) the(0.0) home(0.0) of(0.0) the(0.0) brave(0.0) .(0.0) Last(0.0) Friday(0.0) ,(0.0) our(0.0) freedom(1.0) was(0.0) preserved(0.0) by(0.0) the(0.0) bravery(1.0) of(0.0) Officers(0.0) 
+Chestnut(0.0) and(0.0) Gibson(0.0) ,(0.0) when(0.0) a(0.0) deranged(0.0) gunman(0.0) tried(0.0) to(0.0) invade(0.0) the(0.0) People(0.0) 's(0.0) House(0.0) .(0.0) These(0.0) two(0.0) heroes(0.0) were(0.0) 
+both(0.0) dedicated(0.0) family(0.0) men(0.0) .(0.0) Officer(0.0) Chestnut's(0.0) wife(0.0) ,(0.0) Wen(0.0) Ling(0.0) ,(0.0) and(0.0) their(0.0) children(0.0) --(0.0) Joseph(0.0) ,(0.0) Janece(1.0) ,(0.0) 
+Janet(0.0) ,(0.0) Karen(0.0) ,(0.0) and(0.0) William(0.0) --(0.0) and(0.0) Officer(0.0) Gibson(0.0) 's(0.0) wife(0.0) ,(0.0) Evelyn(0.0) ,(0.0) and(0.0) their(0.0) children(0.0) --(0.0) Kristen(0.0) 
+,(0.0) John(0.0) ,(0.0) and(0.0) Daniel(0.0) --(0.0) should(0.0) know(0.0) that(0.0) their(0.0) husbands(0.0) ,(0.0) their(0.0) fathers(1.0) ,(0.0) each(0.0) served(0.0) his(0.0) country(0.0) with(0.0) 
+the(0.0) utmost(0.0) dedication(0.0) and(0.0) honor(0.0) .(0.0) They(0.0) will(0.0) not(0.0) be(0.0) forgotten(0.0) .(0.0) The(0.0) men(0.0) and(0.0) women(0.0) of(0.0) the(0.0) Capitol(0.0) Police(0.0) 
+are(0.0) dedicated(0.0) to(0.0) preserving(1.0) and(0.0) protecting(0.0) the(0.0) People(0.0) 's(0.0) House(0.0) .(0.0) They(0.0) put(0.0) their(0.0) lives(0.0) on(0.0) the(0.0) line(0.0) for(0.0) us(0.0) 
+--(0.0) Members(0.0) of(0.0) Congress(0.0) ,(0.0) our(0.0) staffs(0.0) ,(0.0) and(0.0) each(0.0) American(0.0) who(0.0) comes(0.0) to(0.0) visit(0.0) our(0.0) great(0.0) Capitol(1.0) --(0.0) every(0.0) 
+day(0.0) .(0.0) Through(0.0) their(0.0) selfless(1.0) act(0.0) of(0.0) bravery(0.0) ,(0.0) Officers(0.0) Chestnut(1.0) and(0.0) Gibson(0.0) saved(0.0) the(0.0) lives(0.0) of(0.0) countless(0.0) Members(0.0) ,(0.0) 
+staff(0.0) ,(0.0) and(0.0) tourists(0.0) who(0.0) were(0.0) working(0.0) in(0.0) and(0.0) walking(0.0) through(0.0) the(0.0) Capitol(0.0) last(0.0) Friday(0.0) .(0.0) We(0.0) literally(0.0) owe(0.0) our(0.0) 
+lives(0.0) to(0.0) them(0.0) .(0.0) I(0.0) know(0.0) that(0.0) the(0.0) House(0.0) ,(0.0) Senate(0.0) ,(0.0) and(0.0) indeed(0.0) the(0.0) entire(0.0) nation(1.0) joins(0.0) me(0.0) in(0.0) 
+expressing(0.0) our(0.0) deepest(0.0) sympathies(1.0) and(0.0) prayers(0.0) for(0.0) the(0.0) families(0.0) of(0.0) Officer(0.0) Chestnut(0.0) and(0.0) Special(0.0) Agent(0.0) Gibson(0.0) .(0.0) These(0.0) two(0.0) men(0.0) 
+are(0.0) true(0.0) American(0.0) heroes(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+defense	freedom	J.J	
+Gibson	privilege	
+
+freedom	bravery	
+
+Janece	
+
+fathers	
+
+preserving	
+Capitol	
+selfless	Chestnut	
+
+nation	
+sympathies	
+
+
+reads % = 0.049019607843137254

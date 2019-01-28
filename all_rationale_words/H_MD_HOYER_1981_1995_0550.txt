@@ -1,0 +1,38 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) want(0.0) to(0.0) say(0.0) --(0.0) and(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) for(0.0) yielding(0.0) ,(0.0) the(0.0) distinguished(0.0) chairman(0.0) of(0.0) the(0.0) Democratic(1.0) 
+Caucus(1.0) --(0.0) the(0.0) comments(0.0) of(0.0) the(0.0) gentleman(0.0) from(0.0) Michigan(1.0) [(0.0) Mr.(0.0) Ehlers(1.0) ](0.0) ,(0.0) I(0.0) think(0.0) ,(0.0) are(0.0) ones(0.0) that(0.0) 
+reflect(0.0) what(0.0) I(0.0) would(0.0) refer(0.0) to(0.0) as(0.0) a(0.0) commonsense(1.0) way(0.0) of(0.0) proceeding(0.0) .(0.0) Because(0.0) ,(0.0) and(0.0) that(0.0) was(0.0) the(0.0) reason(0.0) 
+for(0.0) my(0.0) question(0.0) ,(0.0) I(0.0) believe(0.0) that(0.0) the(0.0) Members(0.0) of(0.0) your(0.0) conference(0.0) have(0.0) confidence(0.0) in(0.0) you(0.0) ,(0.0) Mr.(0.0) Leader(1.0) ,(0.0) 
+and(0.0) I(0.0) believe(0.0) the(0.0) Members(0.0) of(0.0) our(0.0) caucus(1.0) have(0.0) confidence(0.0) in(0.0) the(0.0) gentleman(0.0) from(0.0) Missouri(1.0) [(0.0) Mr.(0.0) Gephardt(1.0) ](0.0) .(0.0) 
+I(0.0) think(0.0) if(0.0) the(0.0) two(0.0) of(0.0) you(0.0) agree(0.0) that(0.0) this(0.0) can(0.0) be(0.0) moved(0.0) forward(0.0) ,(0.0) with(0.0) the(0.0) Speaker(0.0) 's(0.0) concurrence(0.0) 
+as(0.0) well(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Michigan(1.0) [(0.0) Mr.(0.0) Ehlers(1.0) ](0.0) is(1.0) echoing(1.0) what(1.0) I(0.0) said(0.0) ,(0.0) that(0.0) we(0.0) ought(1.0) 
+to(0.0) be(0.0) able(0.0) to(0.0) do(0.0) that(0.0) ,(0.0) it(0.0) seems(0.0) to(0.0) me(0.0) ,(0.0) by(0.0) unanimous(1.0) consent(0.0) and(0.0) put(0.0) the(0.0) Government(1.0) back(0.0) 
+to(0.0) work(0.0) at(0.0) least(0.0) through(0.0) January(0.0) 2(0.0) ,(0.0) which(0.0) after(0.0) all(0.0) is(0.0) a(0.0) very(0.0) short(0.0) time(0.0) .(0.0) But(0.0) what(0.0) it(0.0) 
+does(0.0) is(0.0) ,(0.0) it(0.0) solves(0.0) the(0.0) problem(0.0) that(0.0) the(0.0) gentleman(0.0) from(0.0) Virginia(1.0) [(0.0) Mr.(0.0) Moran(1.0) ](0.0) has(1.0) referenced(1.0) with(0.0) reference(0.0) 
+to(0.0) getting(0.0) paychecks(1.0) to(0.0) people(0.0) for(0.0) the(0.0) second(0.0) half(0.0) of(0.0) this(0.0) month(0.0) .(0.0) We(0.0) are(0.0) running(0.0) into(0.0) a(0.0) time(0.0) now(0.0) 
+where(0.0) we(0.0) are(0.0) not(0.0) going(0.0) to(0.0) be(0.0) able(0.0) to(0.0) pay(1.0) people(0.0) ,(0.0) not(0.0) going(0.0) to(0.0) be(0.0) able(0.0) to(0.0) send(0.0) out(0.0) 
+checks(0.0) except(0.0) for(0.0) the(0.0) exceptions(1.0) we(0.0) have(0.0) made(0.0) .(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) his(0.0) comments(0.0) and(0.0) would(0.0) concur(0.0) with(0.0) 
+him(0.0) .(0.0) I(0.0) do(0.0) not(0.0) believe(0.0) ,(0.0) very(0.0) honestly(0.0) ,(0.0) Mr.(0.0) Leader(1.0) ,(0.0) that(0.0) that(0.0) takes(0.0) any(0.0) pressure(0.0) off(0.0) because(0.0) 
+of(0.0) the(0.0) short-term(1.0) nature(0.0) of(0.0) that(0.0) action(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Democratic	
+Caucus	Michigan	Ehlers	
+commonsense	
+Leader	
+caucus	Missouri	Gephardt	
+
+Michigan	Ehlers	is	echoing	what	ought	
+unanimous	Government	
+
+Virginia	Moran	has	referenced	
+paychecks	
+pay	
+exceptions	
+Leader	
+short-term	
+
+reads % = 0.08996539792387544

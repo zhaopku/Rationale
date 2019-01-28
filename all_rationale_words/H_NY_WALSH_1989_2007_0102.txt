@@ -1,0 +1,18 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) .(0.0) I(0.0) 'd(0.0) just(0.0) like(0.0) to(0.0) sort(0.0) of(0.0) maybe(0.0) refresh(0.0) .(0.0) There(0.0) 's(0.0) 
+a(0.0) lot(0.0) of(0.0) demagoguery(1.0) going(0.0) on(0.0) here(0.0) today(0.0) .(0.0) I(0.0) 'd(0.0) like(0.0) to(0.0) refresh(0.0) my(0.0) colleagues(0.0) '(0.0) memory(0.0) in(0.0) that(0.0) 
+the(0.0) Civil(1.0) Rights(1.0) Act(0.0) was(0.0) passed(0.0) in(0.0) 1964(1.0) .(0.0) The(0.0) Republicans(1.0) became(1.0) the(1.0) majority(1.0) party(1.0) in(1.0) this(1.0) country(1.0) in(1.0) 1994(1.0) 
+.(0.0) Where(0.0) were(0.0) you(0.0) for(0.0) 30(0.0) years(0.0) ?(0.0) There(0.0) 's(0.0) plenty(0.0) of(0.0) blame(1.0) to(0.0) be(0.0) passed(0.0) around(0.0) ,(0.0) but(0.0) please(0.0) 
+take(0.0) responsibility(0.0) for(0.0) your(0.0) own(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+demagoguery	
+Civil	Rights	1964	Republicans	became	the	majority	party	in	this	country	in	1994	
+blame	
+
+
+reads % = 0.1724137931034483

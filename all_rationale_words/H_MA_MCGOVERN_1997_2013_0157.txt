@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) it(0.0) is(0.0) my(0.0) pleasure(0.0) to(0.0) yield(0.0) 2(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Rhode(1.0) Island(0.0) ((0.0) Mr.(0.0) Cicilline(1.0) )(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+Rhode	Cicilline	
+
+
+reads % = 0.09523809523809523

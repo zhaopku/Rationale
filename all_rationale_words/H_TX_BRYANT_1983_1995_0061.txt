@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) strike(1.0) the(0.0) requisite(0.0) number(0.0) of(0.0) words(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) the(0.0) question(0.0) for(0.0) Members(0.0) of(0.0) the(0.0) 
+House(0.0) is(0.0) what(0.0) should(0.0) the(0.0) standard(0.0) ,(0.0) what(0.0) would(0.0) the(0.0) standard(0.0) be(0.0) ,(0.0) if(0.0) the(0.0) Eshoo(1.0) amendment(1.0) were(0.0) adopted(1.0) ?(0.0) 
+It(0.0) is(0.0) that(0.0) simple(0.0) .(0.0) Leaving(0.0) aside(0.0) all(0.0) else(0.0) you(0.0) have(0.0) heard(0.0) today(0.0) ;(0.0) if(0.0) the(0.0) Eshoo(1.0) amendment(1.0) was(0.0) adopted(1.0) 
+,(0.0) what(0.0) would(0.0) be(0.0) the(0.0) standard(0.0) ?(0.0) Here(0.0) is(0.0) the(0.0) standard(0.0) .(0.0) It(0.0) is(0.0) in(0.0) the(0.0) bill(1.0) as(0.0) brought(0.0) out(0.0) 
+by(0.0) the(0.0) majority(1.0) .(0.0) The(0.0) standard(0.0) would(0.0) be(0.0) :(0.0) ``(0.0) Reckless(0.0) conduct(0.0) may(0.0) be(0.0) defined(0.0) as(0.0) highly(0.0) unreasonable(0.0) ((0.0) conduct(0.0) 
+)(0.0) involving(0.0) not(0.0) merely(0.0) simple(0.0) ,(0.0) ''(0.0) not(0.0) merely(0.0) simple(0.0) ,(0.0) ``(0.0) or(0.0) even(0.0) inexcusable(1.0) negligence(1.0) ,(0.0) but(0.0) an(0.0) extreme(0.0) 
+departure(0.0) from(0.0) the(0.0) standards(0.0) of(0.0) ordinary(0.0) care(0.0) and(0.0) which(0.0) presents(0.0) a(0.0) danger(0.0) of(0.0) misleading(1.0) buyers(0.0) or(0.0) sellers(0.0) that(0.0) is(0.0) either(0.0) 
+known(0.0) to(0.0) the(0.0) defendant(0.0) or(0.0) is(0.0) so(0.0) obvious(0.0) that(0.0) the(0.0) action(0.0) must(0.0) have(0.0) been(0.0) aware(0.0) of(0.0) it(0.0) .(0.0) ''(0.0) That(0.0) 
+is(0.0) the(0.0) standard(0.0) .(0.0) That(0.0) is(0.0) an(0.0) extremely(0.0) high(0.0) standard(0.0) .(0.0) Simple(0.0) negligence(1.0) is(0.0) not(0.0) enough(0.0) ,(0.0) gross(0.0) negligence(1.0) is(0.0) 
+not(0.0) enough(0.0) ;(0.0) it(0.0) has(0.0) got(0.0) be(0.0) even(0.0) worse(0.0) than(0.0) that(0.0) before(0.0) you(0.0) can(0.0) hold(0.0) one(0.0) of(0.0) these(0.0) security(0.0) dealers(0.0) 
+liable(0.0) in(0.0) a(0.0) civil(1.0) action(0.0) .(0.0) What(0.0) we(0.0) are(0.0) arguing(1.0) about(0.0) is(0.0) ,(0.0) should(0.0) anything(0.0) more(0.0) come(0.0) at(0.0) the(0.0) end(0.0) 
+of(0.0) this(0.0) paragraph(1.0) ?(0.0) What(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) [(0.0) Mr.(0.0) Cox(1.0) ](0.0) wanted(1.0) to(1.0) put(1.0) at(0.0) the(0.0) end(0.0) of(0.0) 
+this(0.0) paragraph(0.0) is(0.0) a(0.0) sentence(0.0) that(0.0) would(0.0) have(0.0) said(0.0) ,(0.0) ``(0.0) Even(0.0) if(0.0) they(0.0) do(0.0) as(0.0) bad(0.0) as(0.0) all(0.0) of(0.0) 
+that(0.0) ,(0.0) if(0.0) they(0.0) just(0.0) plain(0.0) forgot(0.0) ,(0.0) it(0.0) is(0.0) all(0.0) right(0.0) ,(0.0) and(0.0) they(0.0) are(0.0) not(0.0) in(0.0) trouble(0.0) .(0.0) 
+''(0.0) Now(0.0) ,(0.0) having(0.0) been(0.0) ,(0.0) I(0.0) assume(0.0) ,(0.0) embarrassed(0.0) by(0.0) the(0.0) absurdity(1.0) of(0.0) that(0.0) proposal(1.0) ,(0.0) he(0.0) comes(0.0) now(0.0) 
+with(0.0) a(0.0) last-minute(0.0) rewrite(0.0) ,(0.0) a(0.0) handwritten(0.0) amendment(1.0) which(0.0) we(0.0) have(0.0) just(0.0) seen(0.0) in(0.0) the(0.0) last(0.0) few(0.0) minutes(0.0) ,(0.0) which(0.0) 
+says(0.0) ,(0.0) ``(0.0) Add(0.0) at(0.0) the(0.0) end(0.0) of(0.0) this(0.0) extremely(0.0) high(0.0) standard(0.0) a(0.0) sentence(0.0) that(0.0) ,(0.0) ``(0.0) Deliberately(0.0) refraining(0.0) from(0.0) 
+taking(0.0) steps(0.0) to(0.0) discover(0.0) whether(0.0) one's(0.0) flagrant(1.0) or(0.0) false(0.0) or(0.0) misleading(0.0) conduct(0.0) would(0.0) constitute(0.0) recklessness(1.0) .(0.0) But(0.0) if(0.0) the(0.0) failure(1.0) 
+to(0.0) investigate(0.0) was(0.0) not(0.0) deliberate(0.0) ,(0.0) such(0.0) conduct(0.0) shall(0.0) not(0.0) be(0.0) considered(0.0) to(0.0) be(0.0) reckless(1.0) .(0.0) ''(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) 
+this(0.0) language(0.0) does(0.0) not(0.0) need(0.0) an(0.0) add-on(0.0) .(0.0) But(0.0) ,(0.0) second(0.0) ,(0.0) it(0.0) sure(0.0) does(0.0) not(0.0) need(0.0) an(0.0) add-on(0.0) .(0.0) 
+But(0.0) ,(0.0) second(0.0) ,(0.0) it(0.0) sure(0.0) does(0.0) not(0.0) need(0.0) an(0.0) add-on(0.0) that(0.0) says(0.0) ,(0.0) I(0.0) forgot(0.0) .(0.0) In(0.0) effect(1.0) ,(0.0) 
+Mr.(0.0) Cox(1.0) 's(1.0) last-minute(1.0) rewrite(1.0) ,(0.0) which(0.0) we(0.0) did(0.0) not(0.0) see(0.0) until(0.0) 10(0.0) or(0.0) 15(0.0) minutes(0.0) ago(0.0) ,(0.0) is(0.0) just(0.0) 
+another(0.0) way(0.0) of(0.0) saying(0.0) ,(0.0) I(0.0) forgot(0.0) .(0.0) What(0.0) does(0.0) it(0.0) say(0.0) :(0.0) ``(0.0) If(0.0) the(0.0) failure(1.0) to(0.0) investigate(0.0) was(0.0) 
+not(0.0) deliberate(0.0) ,(0.0) such(0.0) conduct(0.0) shall(0.0) not(0.0) be(0.0) considered(0.0) to(0.0) be(0.0) reckless(1.0) .(0.0) ''(0.0) What(0.0) does(0.0) that(0.0) mean(0.0) if(0.0) failure(0.0) 
+to(0.0) investigate(0.0) is(0.0) not(0.0) deliberate(0.0) ?(0.0) The(0.0) point(0.0) is(0.0) the(0.0) law(1.0) should(0.0) hold(0.0) somebody(0.0) who(0.0) is(0.0) in(0.0) the(0.0) business(0.0) 
+
+
+----- below are rationale words -----
+
+strike	Chairman	
+Eshoo	amendment	adopted	
+Eshoo	amendment	adopted	
+bill	
+majority	
+inexcusable	negligence	
+misleading	
+
+negligence	negligence	
+
+civil	arguing	
+paragraph	Cox	wanted	to	put	
+
+
+absurdity	proposal	
+amendment	
+
+flagrant	recklessness	failure	
+reckless	Chairman	
+
+effect	
+Cox	's	last-minute	rewrite	
+failure	
+reckless	
+law	
+
+reads % = 0.076

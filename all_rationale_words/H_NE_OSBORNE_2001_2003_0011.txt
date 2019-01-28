@@ -1,0 +1,34 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) think(0.0) that(0.0) H.R(0.0) .(0.0) 4(0.0) addresses(0.0) some(0.0) of(0.0) the(0.0) issues(0.0) that(0.0) have(0.0) become(0.0) increasingly(0.0) problematic(0.0) to(0.0) our(0.0) young(0.0) people(0.0) ,(0.0) 
+and(0.0) I(0.0) observed(0.0) some(0.0) of(0.0) these(0.0) problems(0.0) in(0.0) over(0.0) 36(0.0) years(0.0) of(0.0) coaching(0.0) .(0.0) Back(0.0) in(0.0) 1960(1.0) when(0.0) I(0.0) started(0.0) 
+out(0.0) ,(0.0) roughly(0.0) 5(0.0) percent(0.0) of(0.0) our(0.0) athletes(0.0) came(0.0) from(0.0) broken(0.0) homes(0.0) .(0.0) Today(0.0) ,(0.0) roughly(0.0) one(0.0) half(0.0) of(0.0) our(0.0) 
+marriages(1.0) end(0.0) in(0.0) divorce(1.0) .(0.0) Fifty(0.0) percent(0.0) of(0.0) our(0.0) young(0.0) people(0.0) spend(0.0) part(0.0) or(0.0) all(0.0) of(0.0) their(0.0) childhood(0.0) without(0.0) both(0.0) 
+biological(1.0) parents(0.0) .(0.0) So(0.0) as(0.0) time(0.0) went(0.0) on(0.0) ,(0.0) I(0.0) began(0.0) to(0.0) see(0.0) more(0.0) and(0.0) more(0.0) young(0.0) men(0.0) that(0.0) I(0.0) 
+was(0.0) working(0.0) with(0.0) carry(0.0) a(0.0) lot(0.0) of(0.0) emotional(0.0) baggage(0.0) ,(0.0) having(0.0) their(0.0) lives(0.0) disrupted(0.0) in(0.0) various(0.0) ways(0.0) .(0.0) Currently(0.0) ,(0.0) 
+we(0.0) have(0.0) 18(0.0) million(0.0) fatherless(1.0) children(0.0) in(0.0) our(0.0) country(1.0) ,(0.0) and(0.0) when(0.0) their(0.0) dads(1.0) do(0.0) not(0.0) care(1.0) enough(0.0) to(0.0) stick(0.0) 
+around(0.0) and(0.0) see(0.0) what(0.0) they(0.0) look(0.0) like(0.0) ,(0.0) they(0.0) have(0.0) a(0.0) vacuum(0.0) in(0.0) their(0.0) lives(0.0) and(0.0) they(0.0) try(0.0) to(0.0) fill(0.0) 
+that(0.0) vacuum(0.0) with(0.0) all(0.0) the(0.0) wrong(0.0) stuff(0.0) ,(0.0) gangs(1.0) ,(0.0) drugs(1.0) ,(0.0) promiscuity(1.0) ,(0.0) and(0.0) so(0.0) on(0.0) .(0.0) So(0.0) one(0.0) 
+of(0.0) the(0.0) aspects(0.0) of(0.0) H.R(0.0) .(0.0) 4(0.0) that(0.0) I(0.0) think(0.0) is(0.0) particularly(0.0) important(0.0) is(0.0) the(0.0) healthy(0.0) marriage(1.0) program(1.0) .(0.0) An(0.0) 
+example(0.0) that(0.0) happened(0.0) in(0.0) my(0.0) district(0.0) recently(0.0) was(0.0) a(0.0) young(0.0) couple(0.0) who(0.0) were(0.0) pretty(0.0) much(0.0) thrown(0.0) out(0.0) of(0.0) both(0.0) houses(0.0) 
+,(0.0) their(0.0) homes(0.0) ,(0.0) and(0.0) an(0.0) older(0.0) couple(0.0) mentored(0.0) them(0.0) and(0.0) made(0.0) a(0.0) tremendous(0.0) difference(0.0) .(0.0) So(0.0) we(0.0) think(0.0) this(0.0) 
+is(0.0) very(0.0) important(0.0) and(0.0) certainly(0.0) support(0.0) H.R(0.0) .(0.0) 4(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+1960	
+
+marriages	divorce	
+biological	
+
+fatherless	country	dads	care	
+
+gangs	drugs	promiscuity	
+marriage	program	
+
+
+
+
+reads % = 0.05179282868525897

@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+For(0.0) me(0.0) ,(0.0) the(0.0) issue(0.0) is(0.0) credibility(0.0) and(0.0) fairness(1.0) .(0.0) So(0.0) you(0.0) can(0.0) paint(0.0) these(0.0) pictures(0.0) .(0.0) I(0.0) am(0.0) standing(0.0) here(0.0) 
+with(0.0) no(0.0) documents(0.0) ;(0.0) you(0.0) have(0.0) got(0.0) some(0.0) documents(0.0) that(0.0) obviously(0.0) have(0.0) been(0.0) prepared(0.0) as(0.0) a(0.0) tactical(0.0) point(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+fairness	
+
+
+reads % = 0.025

@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) think(0.0) the(0.0) chairman(0.0) is(0.0) exactly(0.0) accurate(0.0) .(0.0) The(0.0) idea(0.0) that(0.0) a(0.0) good(0.0) defense(0.0) is(0.0) a(0.0) good(0.0) offense(0.0) is(0.0) 
+certainly(0.0) not(0.0) a(0.0) new(0.0) concept(0.0) ,(0.0) but(0.0) in(0.0) this(0.0) case(0.0) it(0.0) is(0.0) extremely(0.0) appropriate(0.0) ;(0.0) and(0.0) as(0.0) you(0.0) say(0.0) ,(0.0) 
+when(0.0) terrorists(1.0) are(0.0) meeting(0.0) in(0.0) a(0.0) tent(0.0) and(0.0) a(0.0) bomb(0.0) flies(0.0) in(0.0) ,(0.0) that(0.0) can(0.0) be(0.0) a(0.0) real(0.0) distraction(0.0) .(0.0) 
+It(0.0) can(0.0) really(0.0) break(0.0) up(0.0) their(0.0) approach(0.0) ,(0.0) and(0.0) I(0.0) just(0.0) think(0.0) it(0.0) says(0.0) a(0.0) great(0.0) deal(0.0) for(0.0) this(0.0) President(1.0) 
+in(0.0) understanding(0.0) the(0.0) mindset(1.0) of(0.0) terrorists(1.0) .(0.0) The(0.0) terrorists(1.0) here(0.0) are(0.0) not(0.0) going(0.0) to(0.0) be(0.0) redeemed(0.0) ,(0.0) and(0.0) they(0.0) are(0.0) 
+not(0.0) going(0.0) to(0.0) turn(0.0) over(0.0) a(0.0) new(0.0) leaf(0.0) or(0.0) we(0.0) are(0.0) not(0.0) going(0.0) to(0.0) be(0.0) able(0.0) to(0.0) negotiate(0.0) with(0.0) them(0.0) 
+.(0.0) We(0.0) have(0.0) to(0.0) defeat(1.0) them(0.0) in(0.0) the(0.0) purest(1.0) terms(0.0) for(0.0) the(0.0) sake(0.0) of(0.0) the(0.0) innocent(1.0) people(0.0) both(0.0) in(0.0) this(0.0) 
+country(1.0) and(0.0) other(0.0) parts(0.0) of(0.0) the(0.0) world(0.0) ,(0.0) and(0.0) I(0.0) think(0.0) the(0.0) chairman(0.0) is(0.0) exactly(0.0) right(0.0) .(0.0) I(0.0) yield(0.0) back(0.0) 
+to(0.0) the(0.0) gentleman(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+terrorists	
+President	
+mindset	terrorists	terrorists	
+
+defeat	purest	innocent	
+country	
+
+
+reads % = 0.05454545454545454

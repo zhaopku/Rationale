@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) to(0.0) the(0.0) gentlewoman(0.0) from(0.0) New(0.0) York(0.0) ((0.0) Mrs.(1.0) Maloney(1.0) )(0.0) for(0.0) the(0.0) purposes(1.0) of(0.0) a(0.0) unanimous(0.0) consent(0.0) 
+request(0.0) .(0.0) ((0.0) Mrs.(1.0) MALONEY(1.0) asked(1.0) and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) her(0.0) remarks(0.0) .(0.0) )(0.0) 
+
+
+----- below are rationale words -----
+
+Mrs.	Maloney	purposes	
+Mrs.	MALONEY	asked	
+
+reads % = 0.15384615384615385

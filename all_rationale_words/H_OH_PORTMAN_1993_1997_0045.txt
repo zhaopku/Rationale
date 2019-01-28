@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) once(0.0) again(0.0) want(0.0) to(0.0) commend(0.0) the(0.0) gentleman(0.0) for(0.0) his(0.0) persistence(0.0) and(0.0) for(0.0) his(0.0) patience(0.0) and(0.0) for(0.0) his(0.0) strong(0.0) 
+support(0.0) now(0.0) of(0.0) the(0.0) legislation(1.0) ,(0.0) a(0.0) 10-year(1.0) crusade(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) 2(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) 
+from(0.0) Minnesota(1.0) [(0.0) Mr.(0.0) Ramstad(1.0) ](0.0) ,(0.0) a(0.0) member(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Ways(0.0) and(0.0) Means(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+legislation	10-year	crusade	Speaker	
+Minnesota	Ramstad	
+
+reads % = 0.10344827586206896

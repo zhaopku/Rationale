@@ -1,0 +1,20 @@
+This is from a Republican
+----- below is the original text -----
+Now(0.0) ,(0.0) just(1.0) so(0.0) the(0.0) folks(0.0) understand(0.0) this(0.0) issue(0.0) ,(0.0) in(0.0) State(1.0) government(1.0) ,(0.0) State(1.0) governments(1.0) ca(0.0) n't(0.0) print(0.0) money(0.0) .(0.0) 
+They(0.0) have(0.0) got(1.0) to(0.0) balance(0.0) the(0.0) budget(0.0) ,(0.0) I(0.0) presume(1.0) ,(0.0) in(0.0) Pennsylvania(1.0) as(0.0) in(0.0) my(0.0) State(1.0) .(0.0) If(1.0) your(0.0) 
+population(1.0) is(0.0) going(0.0) up(0.0) ,(0.0) Medicaid(1.0) population(0.0) is(0.0) going(0.0) up(0.0) by(0.0) 20(0.0) percent(1.0) ,(0.0) and(0.0) you(0.0) mentioned(0.0) how(0.0) much(0.0) extra(0.0) 
+money(0.0) will(0.0) have(0.0) to(0.0) go(0.0) into(0.0) that(0.0) ,(0.0) that(0.0) will(0.0) either(1.0) come(0.0) from(0.0) higher(0.0) taxes(1.0) or(0.0) lower(1.0) services(0.0) ,(0.0) for(0.0) 
+example(0.0) ,(0.0) lower(1.0) money(1.0) spent(0.0) for(0.0) road(1.0) construction(1.0) ,(0.0) for(0.0) secondary(0.0) education(1.0) ,(0.0) for(0.0) colleges(1.0) ,(0.0) et(1.0) cetera(1.0) ;(0.0) is(0.0) 
+that(0.0) correct(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+just	State	government	State	governments	
+got	presume	Pennsylvania	State	If	
+population	Medicaid	percent	
+either	taxes	lower	
+lower	money	road	construction	education	colleges	et	cetera	
+
+
+reads % = 0.23076923076923078

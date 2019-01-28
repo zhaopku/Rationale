@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) we(0.0) do(0.0) have(0.0) two(0.0) Members(0.0) who(0.0) would(0.0) like(0.0) to(0.0) address(0.0) this(0.0) briefly(0.0) .(0.0) I(0.0) yield(0.0) 2(0.0) minutes(0.0) to(0.0) the(0.0) 
+gentleman(0.0) from(0.0) Washington(1.0) ((0.0) Mr.(0.0) Larsen(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Washington	Larsen	
+
+reads % = 0.06896551724137931

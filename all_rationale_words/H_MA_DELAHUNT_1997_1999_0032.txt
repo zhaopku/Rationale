@@ -1,0 +1,36 @@
+This is from a Democrat
+----- below is the original text -----
+It(0.0) is(0.0) a(0.0) sad(0.0) day(0.0) for(0.0) this(0.0) institution(1.0) ,(0.0) and(0.0) it(0.0) is(0.0) a(0.0) sad(0.0) day(0.0) for(0.0) America(1.0) .(0.0) In(0.0) 1(0.0) year(0.0) 
+firearms(1.0) killed(1.0) not(0.0) a(0.0) single(0.0) child(0.0) in(0.0) Japan(1.0) ,(0.0) 19(0.0) in(0.0) Britain(1.0) ,(0.0) 57(0.0) in(0.0) Germany(0.0) ,(0.0) 109(0.0) in(0.0) France(0.0) 
+,(0.0) 153(0.0) in(0.0) Canada(0.0) and(0.0) 5,285(0.0) in(0.0) the(0.0) United(0.0) States(0.0) .(0.0) We(0.0) had(0.0) an(0.0) opportunity(0.0) to(0.0) do(0.0) something(0.0) about(0.0) that(0.0) 
+.(0.0) The(0.0) gentleman(0.0) from(0.0) New(0.0) Jersey(1.0) ((0.0) Mr.(0.0) Pascrell(1.0) )(0.0) had(1.0) introduced(0.0) an(0.0) amendment(0.0) ,(0.0) an(0.0) amendment(1.0) which(0.0) would(0.0) have(0.0) 
+initiated(0.0) and(0.0) authorized(0.0) the(0.0) funding(0.0) and(0.0) the(0.0) resources(0.0) for(0.0) the(0.0) development(0.0) of(0.0) technology(0.0) which(0.0) would(0.0) have(0.0) created(0.0) and(0.0) designed(0.0) a(0.0) 
+firearm(0.0) which(0.0) could(0.0) not(0.0) have(0.0) been(0.0) discharged(0.0) by(0.0) anyone(0.0) other(0.0) than(0.0) the(0.0) owner(0.0) ,(0.0) by(0.0) anyone(0.0) other(0.0) than(0.0) the(0.0) owner(0.0) 
+.(0.0) Now(0.0) out(0.0) of(0.0) that(0.0) more(0.0) than(0.0) 5,000(0.0) children(0.0) that(0.0) are(0.0) killed(0.0) every(0.0) year(0.0) in(0.0) this(0.0) Nation(1.0) by(0.0) firearms(1.0) ,(0.0) 
+1,800(0.0) of(0.0) them(0.0) ,(0.0) 1800(0.0) children(0.0) ,(0.0) our(0.0) children(0.0) ,(0.0) are(0.0) killed(0.0) either(0.0) accidentally(0.0) or(0.0) by(0.0) self-inflicted(1.0) wounds(0.0) ,(0.0) and(0.0) 
+we(0.0) ,(0.0) the(0.0) majority(1.0) in(0.0) this(0.0) Congress(0.0) ,(0.0) the(0.0) Committee(0.0) on(0.0) Rules(0.0) ,(0.0) could(0.0) not(0.0) find(0.0) it(0.0) ,(0.0) did(0.0) not(0.0) 
+have(0.0) the(0.0) political(1.0) will(0.0) to(0.0) make(0.0) that(0.0) amendment(1.0) in(0.0) order(0.0) ,(0.0) and(0.0) yet(0.0) we(0.0) see(0.0) amendment(1.0) after(0.0) amendment(1.0) ,(0.0) such(0.0) 
+as(0.0) mandatory(1.0) sentences(0.0) which(0.0) have(0.0) again(0.0) and(0.0) again(0.0) proved(0.0) ineffective(1.0) in(0.0) terms(0.0) of(0.0) deterring(1.0) crime(1.0) and(0.0) reducing(1.0) violence(1.0) in(0.0) the(0.0) 
+United(0.0) States(0.0) ,(0.0) but(0.0) we(0.0) could(0.0) not(0.0) find(0.0) it(0.0) in(0.0) this(0.0) institution(1.0) to(0.0) save(0.0) 1,800(0.0) children(0.0) a(0.0) year(0.0) who(0.0) die(0.0) 
+as(0.0) a(0.0) result(0.0) of(0.0) self-inflicted(1.0) wounds(1.0) because(0.0) of(0.0) accidental(1.0) shootings(1.0) .(0.0) We(0.0) could(0.0) not(0.0) do(0.0) it(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) 
+it(0.0) says(0.0) something(0.0) about(0.0) the(0.0) priorities(1.0) of(0.0) this(0.0) institution(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+institution	America	
+firearms	killed	Japan	Britain	
+
+Jersey	Pascrell	had	amendment	
+
+
+Nation	firearms	
+self-inflicted	
+majority	
+political	amendment	amendment	amendment	
+mandatory	ineffective	deterring	crime	reducing	violence	
+institution	
+self-inflicted	wounds	accidental	shootings	Chairman	
+priorities	institution	
+
+reads % = 0.11808118081180811

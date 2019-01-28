@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) only(0.0) for(0.0) the(0.0) benefit(1.0) of(0.0) the(0.0) gentleman(0.0) from(0.0) Georgia(0.0) ,(0.0) who(0.0) asserts(1.0) that(0.0) this(0.0) bill(1.0) does(1.0) not(0.0) take(0.0) 
+away(0.0) anybody(0.0) 's(0.0) rights(1.0) ,(0.0) the(0.0) gentleman(0.0) must(0.0) be(0.0) aware(0.0) ,(0.0) sir(0.0) ,(0.0) as(0.0) a(0.0) Member(0.0) of(0.0) Congress(0.0) and(0.0) a(0.0) 
+doctor(0.0) ,(0.0) that(0.0) there(0.0) is(0.0) a(0.0) $(0.0) 250,000(0.0) cap(1.0) on(0.0) noneconomic(1.0) damages(0.0) ,(0.0) unless(0.0) he(0.0) thinks(0.0) that(0.0) is(0.0) not(0.0) taking(0.0) 
+away(0.0) anybody(0.0) 's(0.0) rights(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	benefit	asserts	bill	does	
+rights	
+cap	noneconomic	
+rights	
+
+reads % = 0.13636363636363635

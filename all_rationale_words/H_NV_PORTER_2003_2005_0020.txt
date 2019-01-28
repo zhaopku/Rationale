@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) support(0.0) of(0.0) H.R(0.0) .(0.0) 218(0.0) .(0.0) This(0.0) resolution(1.0) honors(0.0) our(0.0) Nation(1.0) 's(0.0) charter(0.0) schools(1.0) 
+and(0.0) the(0.0) students(0.0) ,(0.0) parents(0.0) ,(0.0) teachers(0.0) ,(0.0) administrators(0.0) and(0.0) other(0.0) individuals(0.0) involved(0.0) for(0.0) their(0.0) hard(0.0) work(0.0) and(0.0) dedication(0.0) to(0.0) 
+providing(0.0) a(0.0) quality(0.0) public(0.0) education(1.0) .(0.0) This(0.0) week(0.0) ,(0.0) May(0.0) 1(0.0) through(0.0) May(0.0) 7(0.0) ,(0.0) has(0.0) been(0.0) designated(0.0) National(0.0) Charter(0.0) 
+Schools(0.0) Week(0.0) .(0.0) During(0.0) this(0.0) week(0.0) ,(0.0) charter(1.0) school(0.0) organizations(0.0) and(0.0) others(0.0) around(0.0) the(0.0) United(0.0) States(0.0) recognize(0.0) these(0.0) schools(1.0) for(0.0) 
+their(0.0) continued(0.0) contributions(1.0) to(0.0) education(1.0) .(0.0) The(0.0) Nation(1.0) 's(0.0) charter(1.0) schools(1.0) deliver(0.0) high-(0.0) quality(0.0) education(1.0) and(0.0) challenge(0.0) students(0.0) to(0.0) reach(0.0) 
+their(0.0) potential(0.0) .(0.0) Forty-one(0.0) States(0.0) ,(0.0) the(0.0) District(0.0) of(0.0) Columbia(0.0) and(0.0) Puerto(0.0) Rico(1.0) ,(0.0) have(0.0) passed(0.0) laws(1.0) authorizing(1.0) charter(1.0) schools(1.0) 
+.(0.0) Since(0.0) the(0.0) first(0.0) charter(0.0) school(0.0) law(0.0) was(0.0) passed(0.0) in(0.0) 1991(0.0) ,(0.0) almost(0.0) 3,300(0.0) charter(1.0) schools(1.0) now(0.0) serve(0.0) nearly(0.0) 900,000(1.0) 
+students(0.0) in(0.0) 40(0.0) States(0.0) ,(0.0) the(0.0) District(0.0) of(0.0) Columbia(1.0) and(0.0) Puerto(0.0) Rico(1.0) .(0.0) Specifically(0.0) ,(0.0) I(0.0) am(0.0) pleased(0.0) to(0.0) honor(0.0) 
+the(0.0) 19(0.0) charter(1.0) schools(1.0) in(0.0) the(0.0) State(0.0) of(0.0) Nevada(1.0) that(0.0) serve(0.0) nearly(0.0) 4,500(0.0) students(0.0) .(0.0) Nevada(1.0) first(0.0) passed(0.0) charter(1.0) school(0.0) 
+legislation(0.0) in(0.0) 1997(0.0) .(0.0) As(0.0) a(0.0) co-sponsor(1.0) of(0.0) that(0.0) legislation(0.0) ,(0.0) our(0.0) first(0.0) charter(1.0) school(0.0) opened(0.0) in(0.0) 1998(0.0) and(0.0) in(0.0) 
+1999(0.0) school(0.0) year(0.0) .(0.0) The(0.0) State(0.0) charter(0.0) school(0.0) legislation(0.0) was(0.0) revised(0.0) in(0.0) 1999(0.0) ,(0.0) lending(1.0) teachers(0.0) more(0.0) room(0.0) for(0.0) creativity(0.0) 
+and(0.0) allowing(0.0) charter(1.0) schools(1.0) the(0.0) ability(0.0) to(0.0) offer(0.0) an(0.0) extended(0.0) school(0.0) day(0.0) as(0.0) well(0.0) as(0.0) an(0.0) extended(0.0) school(0.0) year(0.0) .(0.0) 
+In(0.0) my(0.0) own(0.0) community(0.0) ,(0.0) the(0.0) Andre(1.0) Agassi(1.0) College(0.0) Prepatory(0.0) Academy(0.0) serves(0.0) as(0.0) a(0.0) model(0.0) for(0.0) other(0.0) charter(0.0) schools(0.0) across(0.0) 
+the(0.0) Nation(0.0) .(0.0) Designed(0.0) to(0.0) enhance(0.0) a(0.0) child(0.0) 's(0.0) character(0.0) ,(0.0) respect(0.0) ,(0.0) motivation(0.0) and(0.0) self-(0.0) discipline(0.0) ,(0.0) Agassi(1.0) Prep(1.0) 
+,(0.0) as(0.0) the(0.0) school(0.0) has(0.0) been(0.0) nicknamed(0.0) ,(0.0) was(0.0) created(0.0) specifically(0.0) to(0.0) improve(0.0) skill(0.0) levels(0.0) and(0.0) combat(0.0) lowered(0.0) academic(1.0) expectations(0.0) 
+among(0.0) the(0.0) community(0.0) 's(0.0) most(0.0) challenged(1.0) children(0.0) .(0.0) Advanced(0.0) technology(0.0) ,(0.0) smaller(0.0) class(1.0) sizes(0.0) ,(0.0) and(0.0) extended(0.0) school(1.0) hours(0.0) are(0.0) 
+just(0.0) some(0.0) of(0.0) practices(1.0) that(0.0) Agassi(0.0) Prep(1.0) utilizes(0.0) to(0.0) achieve(0.0) a(0.0) higher(0.0) standard(0.0) of(0.0) education(1.0) .(0.0) I(0.0) commend(0.0) the(0.0) charter(1.0) 
+schools(1.0) in(0.0) the(0.0) State(0.0) of(0.0) Nevada(1.0) and(0.0) across(0.0) this(0.0) great(0.0) Nation(1.0) for(0.0) recognizing(1.0) the(0.0) immense(0.0) need(0.0) for(0.0) improved(0.0) education(1.0) and(0.0) 
+for(0.0) their(0.0) commitment(1.0) to(0.0) improving(0.0) student(0.0) achievement(0.0) for(0.0) students(0.0) who(0.0) attend(0.0) these(0.0) schools(1.0) .(0.0) At(0.0) charter(1.0) schools(1.0) nationwide(0.0) ,(0.0) almost(0.0) 
+half(0.0) of(0.0) the(0.0) students(0.0) are(0.0) considered(0.0) at-risk(1.0) or(0.0) are(0.0) former(0.0) dropouts(1.0) .(0.0) Charter(0.0) schools(1.0) serve(0.0) a(0.0) significant(0.0) number(0.0) of(0.0) minority(1.0) 
+students(0.0) ,(0.0) students(0.0) with(0.0) disabilities(1.0) ,(0.0) and(0.0) students(0.0) from(0.0) lower(0.0) income(1.0) families(0.0) .(0.0) These(0.0) schools(1.0) give(0.0) opportunity(0.0) and(0.0) freedom(1.0) to(0.0) 
+students(0.0) and(0.0) parents(0.0) who(0.0) otherwise(0.0) not(0.0) might(0.0) not(0.0) have(0.0) had(0.0) the(0.0) chance(0.0) to(0.0) receive(0.0) a(0.0) quality(0.0) education(1.0) .(0.0) Nearly(0.0) 40(0.0) 
+percent(0.0) of(0.0) charter(1.0) schools(1.0) report(0.0) having(0.0) a(0.0) waiting(0.0) list(0.0) .(0.0) And(0.0) the(0.0) total(0.0) number(0.0) of(0.0) students(0.0) on(0.0) all(0.0) such(0.0) waiting(0.0) 
+lists(0.0) is(0.0) enough(0.0) to(0.0) fill(0.0) another(0.0) 1,000(0.0) average-sized(1.0) charter(1.0) schools(1.0) .(0.0) By(0.0) allowing(0.0) parents(0.0) and(0.0) students(0.0) to(0.0) choose(0.0) their(0.0) public(1.0) 
+schools(1.0) ,(0.0) charter(1.0) schools(1.0) can(0.0) stimulate(0.0) change(0.0) and(0.0) benefit(1.0) all(0.0) public(1.0) students(0.0) .(0.0) In(0.0) exchange(0.0) for(0.0) flexibility(0.0) and(0.0) autonomy(1.0) 
+
+
+----- below are rationale words -----
+
+Speaker	resolution	Nation	schools	
+
+education	
+charter	schools	
+contributions	education	Nation	charter	schools	education	
+Rico	laws	authorizing	charter	schools	
+charter	schools	900,000	
+Columbia	Rico	
+charter	schools	Nevada	Nevada	charter	
+co-sponsor	charter	
+lending	
+charter	schools	
+Andre	Agassi	
+Agassi	Prep	
+academic	
+challenged	class	school	
+practices	Prep	education	charter	
+schools	Nevada	Nation	recognizing	education	
+commitment	schools	charter	schools	
+at-risk	dropouts	schools	minority	
+disabilities	income	schools	freedom	
+education	
+charter	schools	
+average-sized	charter	schools	public	
+schools	charter	schools	benefit	public	autonomy	
+
+reads % = 0.15

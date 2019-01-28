@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) concur(0.0) in(0.0) the(0.0) Senate(0.0) amendment(0.0) to(0.0) the(0.0) bill(0.0) ((1.0) H.R(1.0) .(0.0) 734(0.0) 
+)(0.0) to(0.0) amend(0.0) the(0.0) act(0.0) entitled(0.0) ``(0.0) An(0.0) act(0.0) to(0.0) provide(0.0) for(0.0) the(0.0) extension(0.0) of(0.0) certain(0.0) Federal(0.0) benefits(0.0) ,(0.0) services(0.0) 
+,(0.0) and(0.0) assistance(0.0) to(0.0) the(0.0) Pascua(1.0) Yaqui(1.0) Indians(0.0) of(0.0) Arizona(1.0) ,(0.0) and(0.0) for(0.0) other(0.0) purposes(0.0) .(0.0) The(0.0) Clerk(0.0) read(0.0) as(0.0) 
+follows(0.0) :(0.0) Senate(0.0) amendment(0.0) :(0.0) Page(0.0) 3(0.0) ,(0.0) after(0.0) line(0.0) 2(0.0) ,(0.0) insert(0.0) :(0.0) SEC(0.0) .(0.0) 2(0.0) .(0.0) STUDY(0.0) .(0.0) 
+The(0.0) Act(0.0) entitled(0.0) ``(0.0) An(0.0) act(0.0) to(0.0) provide(0.0) for(0.0) the(0.0) extension(0.0) of(0.0) certain(0.0) Federal(0.0) benefits(0.0) ,(0.0) services(0.0) ,(0.0) and(0.0) assistance(0.0) 
+to(0.0) the(0.0) Pascua(1.0) Yaqui(1.0) Indians(0.0) of(0.0) Arizona(1.0) ,(0.0) and(0.0) for(0.0) other(0.0) purposes(0.0) ''(0.0) ((0.0) 25(0.0) U.S.C(0.0) .(0.0) 1300f(0.0) et(0.0) seq(0.0) 
+.(0.0) )(0.0) is(0.0) amended(0.0) by(0.0) adding(0.0) at(0.0) the(0.0) end(0.0) the(0.0) following(0.0) new(0.0) section(0.0) :(0.0) ``(0.0) SEC(0.0) .(0.0) 4(0.0) .(0.0) STUDY(0.0) 
+.(0.0) ``(0.0) ((0.0) a(0.0) )(0.0) In(0.0) General.(0.0) --(0.0) The(0.0) Secretary(0.0) of(0.0) the(0.0) Interior(0.0) shall(0.0) conduct(0.0) one(0.0) or(0.0) more(0.0) studies(0.0) to(0.0) 
+determine(0.0) --(0.0) ``(0.0) ((0.0) 1(0.0) )(0.0) whether(0.0) the(0.0) lands(0.0) held(0.0) in(0.0) trust(0.0) on(0.0) the(0.0) date(0.0) of(0.0) enactment(0.0) of(0.0) this(0.0) section(0.0) 
+by(0.0) the(0.0) United(0.0) States(0.0) for(0.0) the(0.0) Pascua(0.0) Yaqui(0.0) Tribe(0.0) are(0.0) adequate(0.0) for(0.0) the(0.0) needs(0.0) of(0.0) the(0.0) tribe(0.0) for(0.0) the(0.0) foreseeable(0.0) 
+future(0.0) ;(0.0) ``(0.0) ((0.0) 2(0.0) )(0.0) if(0.0) such(0.0) lands(0.0) are(0.0) not(0.0) adequate(0.0) --(0.0) ``(0.0) ((0.0) A(0.0) )(0.0) whether(0.0) suitable(0.0) additional(0.0) 
+lands(0.0) are(0.0) available(0.0) for(0.0) acquisition(0.0) by(0.0) exchange(0.0) or(0.0) purchase(0.0) ;(0.0) and(0.0) ``(0.0) ((0.0) B(0.0) )(0.0) the(0.0) cost(0.0) and(0.0) location(0.0) of(0.0) 
+the(0.0) suitable(0.0) additional(0.0) lands(0.0) ;(0.0) ``(0.0) ((0.0) 3(0.0) )(0.0) whether(0.0) the(0.0) Pascua(0.0) Yaqui(0.0) Tribe(0.0) has(0.0) sufficient(0.0) water(0.0) rights(0.0) and(0.0) allocations(0.0) 
+to(0.0) meet(0.0) the(0.0) needs(0.0) of(0.0) the(0.0) tribe(0.0) for(0.0) the(0.0) foreseeable(0.0) future(0.0) ;(0.0) ``(0.0) ((0.0) 4(0.0) )(0.0) if(0.0) such(0.0) water(0.0) rights(0.0) 
+and(0.0) allocations(0.0) are(0.0) not(0.0) adequate(0.0) --(0.0) ``(0.0) ((0.0) A(0.0) )(0.0) whether(0.0) additional(0.0) water(0.0) can(0.0) be(0.0) acquired(0.0) :(0.0) and(0.0) ``(0.0) ((0.0) 
+B(0.0) )(0.0) the(0.0) potential(0.0) sources(0.0) and(0.0) associated(0.0) costs(0.0) of(0.0) such(0.0) additional(0.0) water(0.0) ;(0.0) ``(0.0) ((0.0) 5(0.0) )(0.0) whether(0.0) the(0.0) Bureau(0.0) 
+of(0.0) Indian(0.0) Affairs(0.0) and(0.0) the(0.0) Indian(0.0) Health(0.0) Service(0.0) have(0.0) limited(0.0) funding(0.0) to(0.0) the(0.0) Pascua(0.0) Yaqui(0.0) Tribe(0.0) based(0.0) on(0.0) a(0.0) determination(0.0) 
+of(0.0) the(0.0) tribal(0.0) enrollment(0.0) in(0.0) 1978(0.0) ,(0.0) rather(0.0) than(0.0) the(0.0) current(0.0) enrollment(0.0) ;(0.0) ``(0.0) ((0.0) 6(0.0) )(0.0) if(0.0) funding(0.0) has(0.0) 
+been(0.0) based(0.0) on(0.0) 1978(0.0) enrollment(0.0) ,(0.0) how(0.0) the(0.0) funding(0.0) levels(0.0) can(0.0) be(0.0) adjusted(0.0) to(0.0) ensure(0.0) that(0.0) the(0.0) Pascua(1.0) Yaqui(1.0) Tribe(0.0) 
+receives(0.0) a(0.0) fair(0.0) and(0.0) equitable(0.0) portion(0.0) of(0.0) Bureau(0.0) of(0.0) Indian(0.0) Affairs(0.0) and(0.0) Indian(0.0) Health(0.0) Service(0.0) funding(0.0) ;(0.0) ``(0.0) ((0.0) 7(0.0) 
+)(0.0) the(0.0) genealogy(0.0) of(0.0) the(0.0) Pascua(0.0) Yaqui(1.0) Tribe(0.0) ;(0.0) and(0.0) ``(0.0) ((0.0) 8(0.0) )(0.0) the(0.0) economic(0.0) development(0.0) opportunities(0.0) available(0.0) to(0.0) 
+the(0.0) tribe(0.0) as(0.0) a(0.0) result(0.0) of(0.0) the(0.0) North(0.0) American(0.0) Free(0.0) Trade(0.0) Agreement(0.0) .(0.0) ``(0.0) ((0.0) b(0.0) )(0.0) Tribal(0.0) Participation.(0.0) --(0.0) 
+The(0.0) Secretary(0.0) shall(0.0) provide(0.0) for(0.0) the(0.0) participation(0.0) of(0.0) members(0.0) of(0.0) the(0.0) Pascua(0.0) Yaqui(0.0) tribe(0.0) to(0.0) carry(0.0) out(0.0) subsection(0.0) ((0.0) a(0.0) 
+)(0.0) .(0.0) ``(0.0) ((0.0) c(0.0) )(0.0) Report.(0.0) --(0.0) Not(0.0) later(0.0) than(0.0) 2(0.0) years(0.0) after(0.0) the(0.0) date(0.0) on(0.0) which(0.0) funds(0.0) are(0.0) 
+made(0.0) available(0.0) to(0.0) carry(0.0) out(0.0) this(0.0) section(0.0) ,(0.0) the(0.0) Secretary(0.0) of(0.0) the(0.0) Interior(0.0) shall(0.0) submit(0.0) a(0.0) report(0.0) to(0.0) Congress(0.0) 
+
+
+----- below are rationale words -----
+
+(	H.R	
+
+Pascua	Yaqui	Arizona	
+
+
+Pascua	Yaqui	Arizona	
+
+
+
+
+
+
+
+
+
+
+
+
+Pascua	Yaqui	
+
+Yaqui	
+
+
+
+
+
+reads % = 0.022

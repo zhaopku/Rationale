@@ -1,0 +1,40 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) we(0.0) set(0.0) goals(0.0) in(0.0) many(0.0) of(0.0) our(0.0) initiatives(1.0) ,(0.0) whether(0.0) it(0.0) be(0.0) Goals(0.0) 2000(0.0) or(0.0) in(0.0) the(0.0) Clean(1.0) Water(0.0) 
+Act(0.0) .(0.0) Goals(0.0) do(0.0) not(0.0) guarantee(0.0) giveaways(1.0) ,(0.0) they(0.0) generate(0.0) participation(1.0) .(0.0) The(0.0) DBE(1.0) 's(0.0) goal(0.0) is(0.0) to(0.0) provide(0.0) opportunity(0.0) 
+to(0.0) all(0.0) Americans(1.0) .(0.0) Let(0.0) us(0.0) talk(0.0) about(0.0) what(0.0) the(0.0) DBE(1.0) is(0.0) and(0.0) is(0.0) not(0.0) .(0.0) It(0.0) is(0.0) not(0.0) a(0.0) 
+quota(0.0) .(0.0) It(0.0) is(0.0) not(0.0) a(0.0) set-aside(1.0) .(0.0) It(0.0) is(0.0) not(0.0) a(0.0) guarantee(0.0) of(0.0) contracts(1.0) or(0.0) dollars(0.0) .(0.0) And(0.0) if(0.0) 
+it(0.0) was(0.0) ,(0.0) I(0.0) would(0.0) not(0.0) support(0.0) it(0.0) .(0.0) What(0.0) it(0.0) is(0.0) is(0.0) an(0.0) opportunity(0.0) for(0.0) all(0.0) Americans(1.0) to(0.0) participate(0.0) 
+in(0.0) building(0.0) the(0.0) Nation(1.0) 's(0.0) infrastructure(1.0) and(0.0) future(0.0) .(0.0) The(0.0) Roukema(1.0) amendment(1.0) would(0.0) ,(0.0) in(0.0) fact(0.0) ,(0.0) eliminate(0.0) opportunity(0.0) for(0.0) 
+all(0.0) Americans(1.0) to(0.0) be(0.0) part(0.0) of(0.0) a(0.0) program(0.0) they(0.0) pay(0.0) for(0.0) .(0.0) It(0.0) would(0.0) eliminate(0.0) talented(0.0) and(0.0) competent(0.0) women(1.0) ,(0.0) 
+African-Americans(1.0) and(0.0) Hispanic(0.0) Americans(1.0) from(0.0) simply(0.0) having(0.0) an(0.0) opportunity(0.0) to(0.0) compete(0.0) ,(0.0) to(0.0) compete(0.0) in(0.0) the(0.0) bidding(0.0) process(0.0) .(0.0) But(0.0) 
+the(0.0) Roukema(1.0) amendment(1.0) not(0.0) only(0.0) denies(1.0) opportunity(0.0) to(0.0) all(0.0) Americans(1.0) ,(0.0) it(0.0) actually(0.0) promotes(1.0) the(0.0) interests(0.0) of(0.0) the(0.0) privileged(1.0) few(0.0) 
+.(0.0) This(0.0) is(0.0) not(0.0) the(0.0) Roukema(1.0) amendment(1.0) ,(0.0) it(0.0) is(0.0) the(0.0) general(0.0) contractors'(0.0) amendment(1.0) .(0.0) The(0.0) contractors(1.0) and(0.0) others(0.0) are(0.0) 
+willing(0.0) to(0.0) accept(0.0) the(0.0) votes(1.0) of(0.0) women(1.0) ,(0.0) Hispanic(1.0) Americans(1.0) and(0.0) African(1.0) Americans(1.0) in(0.0) this(0.0) Congress(0.0) to(0.0) pass(0.0) this(0.0) bill(1.0) 
+,(0.0) but(0.0) want(0.0) to(0.0) lock(0.0) us(0.0) out(0.0) of(0.0) the(0.0) benefits(1.0) .(0.0) If(0.0) this(0.0) Congress(0.0) can(0.0) not(0.0) accept(0.0) the(0.0) simple(0.0) goal(0.0) 
+of(0.0) equality(1.0) of(0.0) opportunity(0.0) for(0.0) all(0.0) Americans(1.0) ,(0.0) what(0.0) a(0.0) sad(0.0) day(0.0) it(0.0) will(0.0) be(0.0) .(0.0) When(0.0) my(0.0) colleagues(0.0) on(0.0) 
+the(0.0) other(0.0) side(0.0) of(0.0) the(0.0) aisle(0.0) talk(0.0) about(0.0) privilege(1.0) ,(0.0) they(0.0) are(0.0) referring(0.0) to(0.0) the(0.0) privilege(1.0) that(0.0) has(0.0) been(0.0) enjoyed(0.0) 
+by(0.0) the(0.0) majority(1.0) for(0.0) a(0.0) long(0.0) period(0.0) of(0.0) time(0.0) with(0.0) very(0.0) few(0.0) benefits(1.0) to(0.0) anyone(0.0) in(0.0) the(0.0) minority(1.0) .(0.0) Let(0.0) 
+us(0.0) promote(1.0) participation(1.0) ,(0.0) not(0.0) prohibit(1.0) it(0.0) ,(0.0) by(0.0) defeating(1.0) this(0.0) amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+initiatives	Clean	
+giveaways	participation	DBE	
+Americans	DBE	
+set-aside	contracts	
+Americans	
+Nation	infrastructure	Roukema	amendment	
+Americans	women	
+African-Americans	Americans	
+Roukema	amendment	denies	Americans	promotes	privileged	
+Roukema	amendment	amendment	contractors	
+votes	women	Hispanic	Americans	African	Americans	bill	
+benefits	
+equality	Americans	
+privilege	privilege	
+majority	benefits	minority	
+promote	participation	prohibit	defeating	amendment	
+
+reads % = 0.15286624203821655

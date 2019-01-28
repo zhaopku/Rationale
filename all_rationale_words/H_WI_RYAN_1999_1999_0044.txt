@@ -1,0 +1,10 @@
+This is from a Republican
+----- below is the original text -----
+If(0.0) the(0.0) gentleman(0.0) would(0.0) yield(0.0) ,(0.0) is(0.0) not(0.0) another(0.0) loser(0.0) in(0.0) this(0.0) the(0.0) American(0.0) consumer(1.0) as(0.0) well(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+consumer	
+
+reads % = 0.05555555555555555

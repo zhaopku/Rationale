@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) do(0.0) not(0.0) think(0.0) there(0.0) is(0.0) probably(0.0) any(0.0) issue(0.0) in(0.0) this(0.0) House(0.0) that(0.0) could(0.0) bring(0.0) us(0.0) together(0.0) on(0.0) a(0.0) bipartisan(1.0) basis(0.0) 
+more(0.0) than(0.0) improving(1.0) education(1.0) .(0.0) But(0.0) what(0.0) have(0.0) we(0.0) learned(0.0) from(0.0) history(0.0) ?(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) there(0.0) was(0.0) a(0.0) recent(0.0) 
+article(0.0) in(0.0) a(0.0) responsible(0.0) and(0.0) respected(0.0) financial(0.0) paper(0.0) which(0.0) rated(0.0) the(0.0) schools(1.0) in(0.0) America(1.0) ,(0.0) and(0.0) it(0.0) also(0.0) showed(0.0) how(0.0) 
+much(0.0) money(1.0) was(0.0) spent(0.0) in(0.0) each(0.0) of(0.0) those(0.0) schools(1.0) .(0.0) I(0.0) want(0.0) to(0.0) tell(0.0) my(0.0) colleagues(0.0) there(0.0) is(0.0) not(0.0) necessarily(0.0) 
+a(0.0) correlation(0.0) between(0.0) money(1.0) and(0.0) success(0.0) in(0.0) education(1.0) .(0.0) We(0.0) need(0.0) ,(0.0) yes(0.0) ,(0.0) money(1.0) to(0.0) the(0.0) classrooms(1.0) ,(0.0) not(0.0) 
+to(0.0) the(0.0) bureaucrats(1.0) .(0.0) Yes(0.0) ,(0.0) we(0.0) need(0.0) good(0.0) teachers(0.0) ,(0.0) not(0.0) just(0.0) 100,000(0.0) more(0.0) .(0.0) Yes(0.0) ,(0.0) we(0.0) need(0.0) 
+to(0.0) make(0.0) decisions(0.0) at(0.0) the(0.0) local(0.0) level(0.0) ,(0.0) not(0.0) here(0.0) in(0.0) Washington(1.0) ,(0.0) and(0.0) then(0.0) we(0.0) have(0.0) to(0.0) call(0.0) on(0.0) 
+the(0.0) families(0.0) to(0.0) send(0.0) well(0.0) fed(1.0) ,(0.0) clean(1.0) ,(0.0) rested(0.0) children(0.0) to(0.0) school(0.0) so(0.0) they(0.0) can(0.0) learn(0.0) .(0.0) Part(0.0) of(0.0) 
+the(0.0) responsibility(0.0) ,(0.0) a(0.0) major(0.0) part(0.0) ,(0.0) must(0.0) rest(0.0) with(0.0) us(0.0) ,(0.0) the(0.0) parents(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+bipartisan	
+improving	education	Speaker	
+schools	America	
+money	schools	
+money	education	money	classrooms	
+bureaucrats	
+Washington	
+fed	clean	
+
+
+reads % = 0.09090909090909091

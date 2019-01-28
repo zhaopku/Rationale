@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+If(0.0) the(0.0) gentleman(0.0) would(1.0) continue(0.0) to(0.0) yield(0.0) ,(0.0) I(0.0) guess(1.0) the(0.0) real(0.0) question(0.0) is(0.0) ,(0.0) would(1.0) we(0.0) anticipate(1.0) being(0.0) called(0.0) back(0.0) 
+perhaps(0.0) to(0.0) vote(1.0) on(0.0) that(0.0) ?(1.0) Is(0.0) that(0.0) some(0.0) possibility(0.0) ?(1.0) I(0.0) know(1.0) there(0.0) has(0.0) been(0.0) a(0.0) request(0.0) .(0.0) Does(0.0) 
+the(0.0) leadership(1.0) think(1.0) that(0.0) that(0.0) is(0.0) of(0.0) an(0.0) urgent(1.0) enough(0.0) matter(0.0) that(0.0) we(0.0) might(0.0) be(0.0) called(0.0) back(0.0) to(0.0) vote(1.0) on(0.0) 
+that(0.0) independently(1.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+would	guess	would	anticipate	
+vote	?	?	know	
+leadership	think	urgent	vote	
+independently	
+
+reads % = 0.203125

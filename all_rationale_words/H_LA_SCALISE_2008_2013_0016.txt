@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) rise(0.0) proudly(0.0) in(0.0) support(0.0) of(0.0) life(0.0) and(0.0) in(0.0) strong(0.0) support(0.0) of(0.0) H.R(0.0) .(0.0) 1797(0.0) ,(0.0) the(0.0) Pain-Capable(1.0) 
+Unborn(1.0) Child(1.0) Protection(1.0) Act(0.0) .(0.0) Scientific(0.0) studies(0.0) have(0.0) proven(0.0) that(0.0) babies(0.0) can(0.0) feel(0.0) pain(0.0) as(0.0) early(0.0) as(0.0) 20(0.0) weeks(0.0) after(0.0) 
+conception(1.0) ,(0.0) and(0.0) passage(1.0) of(0.0) this(0.0) bill(1.0) is(0.0) a(0.0) major(0.0) step(0.0) forward(0.0) in(0.0) the(0.0) defense(1.0) of(0.0) life(0.0) .(0.0) The(0.0) Gosnell(1.0) 
+murder(1.0) trial(0.0) refocused(1.0) Americans(1.0) on(0.0) the(0.0) horrors(1.0) of(0.0) late-(0.0) term(1.0) abortion(1.0) ,(0.0) and(0.0) the(0.0) Pain-Capable(1.0) Unborn(1.0) Child(1.0) Protection(1.0) Act(1.0) sends(1.0) 
+a(0.0) loud(0.0) message(0.0) that(0.0) our(0.0) great(0.0) Nation(1.0) stands(0.0) up(0.0) in(0.0) defense(1.0) of(0.0) life(0.0) .(0.0) I(0.0) 'm(0.0) proud(0.0) that(0.0) Americans(1.0) United(0.0) 
+for(0.0) Life(0.0) ranked(0.0) Louisiana(1.0) as(0.0) the(0.0) number(0.0) one(0.0) pro-life(1.0) State(1.0) in(0.0) the(0.0) Nation(1.0) .(0.0) I(0.0) have(0.0) an(0.0) example(0.0) of(0.0) that(0.0) 
+.(0.0) If(0.0) a(0.0) woman(0.0) who(0.0) is(0.0) pregnant(0.0) is(0.0) murdered(1.0) in(0.0) Louisiana(1.0) ,(0.0) not(0.0) only(0.0) is(0.0) the(0.0) murderer(1.0) charged(0.0) with(0.0) the(0.0) 
+murder(1.0) of(0.0) the(0.0) mother(0.0) ,(0.0) but(0.0) also(0.0) for(0.0) the(0.0) murder(1.0) of(0.0) the(0.0) unborn(1.0) child(1.0) .(0.0) I(0.0) think(0.0) it(0.0) 's(0.0) a(0.0) 
+proud(0.0) day(0.0) that(0.0) we(0.0) 're(0.0) here(0.0) standing(0.0) up(0.0) in(0.0) defense(1.0) of(0.0) those(0.0) babies(0.0) after(0.0) 20(0.0) weeks(0.0) saying(0.0) this(0.0) country(1.0) will(0.0) 
+not(0.0) allow(0.0) those(0.0) babies(1.0) '(0.0) lives(0.0) to(0.0) be(0.0) terminated(0.0) .(0.0) I(0.0) proudly(0.0) support(0.0) this(0.0) legislation(1.0) ,(0.0) and(0.0) I(0.0) urge(0.0) my(0.0) 
+colleagues(0.0) to(0.0) support(0.0) it(0.0) ,(0.0) as(0.0) well(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Pain-Capable	
+Unborn	Child	Protection	
+conception	passage	bill	defense	Gosnell	
+murder	refocused	Americans	horrors	term	abortion	Pain-Capable	Unborn	Child	Protection	Act	sends	
+Nation	defense	Americans	
+Louisiana	pro-life	State	Nation	
+murdered	Louisiana	murderer	
+murder	murder	unborn	child	
+defense	country	
+babies	legislation	
+
+
+reads % = 0.18660287081339713

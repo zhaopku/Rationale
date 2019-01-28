@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+At(0.0) 65(0.0) ,(0.0) Bob(0.0) is(1.0) eligible(0.0) for(0.0) six(0.0) Federal(1.0) feeding(1.0) programs(1.0) .(0.0) That(0.0) does(0.0) n't(0.0) mention(0.0) what(0.0) 's(0.0) going(0.0) on(0.0) on(0.0) 
+a(0.0) State(0.0) or(0.0) local(0.0) level(0.0) .(0.0) These(0.0) are(0.0) duplications(0.0) that(0.0) Democrats(0.0) and(0.0) Republicans(0.0) alike(1.0) should(1.0) agree(1.0) with(1.0) ,(1.0) let(1.0) 's(1.0) 
+eliminate(1.0) .(1.0) This(1.0) is(1.0) the(1.0) low(1.0) fruit(1.0) .(1.0) That(1.0) 's(1.0) what(1.0) the(1.0) Ryan(1.0) budget(1.0) does(1.0) ,(0.0) commonsense(1.0) reform(1.0) ,(0.0) elimination(1.0) 
+of(0.0) waste(1.0) and(0.0) getting(0.0) rid(1.0) of(0.0) the(0.0) duplications(1.0) ,(0.0) and(0.0) putting(0.0) America(1.0) on(0.0) a(0.0) road(0.0) to(0.0) prosperity(1.0) ,(0.0) so(0.0) that(0.0) 
+my(0.0) children(0.0) ,(0.0) Ann(1.0) ,(0.0) Betsy(0.0) ,(0.0) John(0.0) and(0.0) Jim(0.0) ,(0.0) can(0.0) live(0.0) in(0.0) an(0.0) economy(1.0) that(0.0) 's(0.0) growing(0.0) where(0.0) 
+there(0.0) 's(0.0) opportunities(0.0) for(0.0) them(0.0) .(0.0) And(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) the(0.0) Ryan(1.0) budget(1.0) .(0.0) Bob(0.0) 's(1.0) Food(1.0) 
+Assistance(0.0) Programs(0.0) At(0.0) age(0.0) 3(0.0) ,(0.0) Bob(0.0) is(0.0) eligible(1.0) for(0.0) 12(0.0) programs(1.0) :(0.0) 1(0.0) .(0.0) Child(0.0) and(0.0) Adult(0.0) Care(0.0) Food(0.0) 
+Program(1.0) ((0.0) CACFP(1.0) )(0.0) 2(0.0) .(0.0) Commodity(0.0) Supplemental(0.0) Food(0.0) Program(0.0) ((0.0) CSFP(1.0) )(0.0) 3(0.0) .(0.0) Fresh(0.0) Fruit(0.0) &(0.0) Vegetable(0.0) Program(0.0) 
+((0.0) FFVP(0.0) )(0.0) 4(0.0) .(0.0) School(0.0) Lunch(0.0) Program(0.0) ((0.0) SBP(0.0) )(0.0) 5(0.0) .(0.0) National(0.0) School(0.0) Lunch(0.0) Program(0.0) ((0.0) NSLP(1.0) )(0.0) 
+6(0.0) .(0.0) Special(0.0) Milk(0.0) Program(0.0) ((0.0) SMP(0.0) )(0.0) [(0.0) Can(1.0) receive(0.0) if(0.0) not(0.0) on(0.0) any(0.0) other(0.0) program(0.0) ](0.0) 7(0.0) .(0.0) 
+Summer(0.0) Food(0.0) Service(0.0) Program(0.0) ((0.0) SFSP(1.0) )(0.0) 8(0.0) .(0.0) Supplemental(0.0) Nutrition(0.0) Assistance(0.0) Program(0.0) ((0.0) SNAP(0.0) )(0.0) 9(0.0) .(0.0) Temporary(0.0) Assistance(0.0) 
+for(0.0) Needy(0.0) Families(0.0) ((0.0) TANF(0.0) )(0.0) 10(0.0) .(0.0) The(0.0) Emergency(0.0) Food(0.0) Assistance(0.0) Program(0.0) ((0.0) TEFAP(1.0) )(0.0) 11(0.0) .(0.0) Women(1.0) ,(0.0) 
+Infants(0.0) &(0.0) Children(0.0) ((0.0) WIC(0.0) )(0.0) 12(0.0) .(0.0) WIC(0.0) 's(0.0) Farmers(0.0) Market(0.0) Nutritional(0.0) Program(0.0) ((0.0) FMNP(1.0) )(0.0) At(0.0) age(0.0) 10(0.0) 
+,(0.0) Bob(0.0) is(0.0) eligible(0.0) for(0.0) 9(0.0) programs(0.0) :(0.0) 1(0.0) .(0.0) Child(0.0) and(0.0) Adult(0.0) Care(0.0) Food(0.0) Program(0.0) ((0.0) CACFP(1.0) )(0.0) 2(0.0) 
+.(0.0) Fresh(0.0) Fruit(0.0) &(0.0) Vegetable(0.0) Program(0.0) ((0.0) FFVP(1.0) )(0.0) 3(0.0) .(0.0) School(0.0) Lunch(0.0) Program(0.0) ((0.0) SBP(0.0) )(0.0) 4(0.0) .(0.0) National(0.0) 
+School(0.0) Lunch(0.0) Program(0.0) ((0.0) NSLP(1.0) )(0.0) 5(0.0) .(0.0) Special(0.0) Milk(0.0) Program(0.0) ((0.0) SMP(0.0) )(0.0) 6(0.0) .(0.0) Summer(0.0) Food(0.0) Service(0.0) Program(0.0) 
+((0.0) SFSP(1.0) )(0.0) 7(0.0) .(0.0) Supplemental(0.0) Nutrition(0.0) Assistance(0.0) Program(0.0) ((0.0) SNAP(0.0) )(0.0) 8(0.0) .(0.0) Temporary(0.0) Assistance(0.0) for(0.0) Needy(0.0) Families(0.0) ((0.0) 
+TANF(0.0) )(0.0) 9(0.0) .(0.0) The(0.0) Emergency(0.0) Food(0.0) Assistance(0.0) Program(0.0) ((0.0) TEFAP(1.0) )(0.0) At(0.0) age(0.0) 35(0.0) ,(0.0) Bob(0.0) is(1.0) eligible(0.0) for(0.0) 
+7(0.0) programs(0.0) :(0.0) 1(0.0) .(0.0) Child(0.0) and(0.0) Adult(0.0) Care(0.0) Food(0.0) Program(0.0) ((0.0) CACFP(1.0) )(0.0) 2(0.0) .(0.0) Commodity(0.0) Supplemental(0.0) Food(0.0) Program(0.0) 
+((0.0) CSFP(1.0) )(0.0) 3(0.0) .(0.0) Supplemental(0.0) Nutrition(0.0) Assistance(0.0) Program(0.0) ((0.0) SNAP(0.0) )(0.0) 4(0.0) .(0.0) Temporary(0.0) Assistance(0.0) for(0.0) Needy(0.0) Families(0.0) ((0.0) 
+TANF(0.0) )(0.0) 5(0.0) .(0.0) The(0.0) Emergency(0.0) Food(0.0) Assistance(0.0) Program(0.0) ((0.0) TEFAP(1.0) )(0.0) 6(0.0) .(0.0) Women(1.0) ,(0.0) Infants(0.0) &(0.0) Children(0.0) ((0.0) 
+WIC(0.0) )(0.0) 7(0.0) .(0.0) WIC(0.0) 's(0.0) Farmers(0.0) Market(0.0) Nutritional(0.0) Program(0.0) ((0.0) FMNP(1.0) )(0.0) At(0.0) age(0.0) 65(0.0) ,(0.0) Bob(0.0) is(0.0) eligible(0.0) 
+for(0.0) 6(0.0) programs(0.0) :(0.0) 1(0.0) .(0.0) Child(0.0) and(0.0) Adult(0.0) Care(0.0) Food(0.0) Program(0.0) ((0.0) CACFP(1.0) )(0.0) 2(0.0) .(0.0) Commodity(0.0) Supplemental(0.0) Food(0.0) 
+Program(0.0) ((0.0) CSFP(1.0) )(0.0) 3(0.0) .(0.0) Sr(0.0) .(0.0) Farmers(0.0) Market(0.0) Nutrition(0.0) Program(0.0) ((0.0) SFMNP(1.0) )(0.0) 4(0.0) .(0.0) Supplemental(0.0) Nutrition(0.0) Assistance(0.0) 
+Program(0.0) ((0.0) SNAP(0.0) )(0.0) 5(0.0) .(0.0) Temporary(0.0) Assistance(0.0) for(0.0) Needy(0.0) Families(0.0) ((0.0) TANF(0.0) )(0.0) 6(0.0) .(0.0) The(0.0) Emergency(0.0) Food(0.0) 
+
+
+----- below are rationale words -----
+
+is	Federal	feeding	programs	
+alike	should	agree	with	,	let	's	
+eliminate	.	This	is	the	low	fruit	.	That	's	what	the	Ryan	budget	does	commonsense	reform	elimination	
+waste	rid	duplications	America	prosperity	
+Ann	economy	
+Ryan	budget	's	Food	
+eligible	programs	
+Program	CACFP	CSFP	
+NSLP	
+Can	
+SFSP	
+TEFAP	Women	
+FMNP	
+CACFP	
+FFVP	
+NSLP	
+SFSP	
+TEFAP	is	
+CACFP	
+CSFP	
+TEFAP	Women	
+FMNP	
+CACFP	
+CSFP	SFMNP	
+
+
+reads % = 0.13

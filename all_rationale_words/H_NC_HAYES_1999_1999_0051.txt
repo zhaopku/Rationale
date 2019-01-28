@@ -1,0 +1,36 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Pennsylvania(1.0) for(0.0) offering(0.0) this(0.0) very(0.0) important(0.0) amendment(1.0) which(0.0) does(0.0) direct(0.0) the(0.0) attention(0.0) at(0.0) the(0.0) 
+needs(0.0) of(0.0) children(0.0) ,(0.0) making(0.0) sure(0.0) that(0.0) the(0.0) born(0.0) and(0.0) the(0.0) unborn(1.0) children(0.0) are(0.0) given(0.0) the(0.0) proper(0.0) attention(0.0) and(0.0) the(0.0) 
+sanctity(1.0) of(0.0) life(0.0) is(0.0) preserved(0.0) .(0.0) I(0.0) urge(0.0) your(0.0) support(0.0) for(0.0) the(0.0) Pitts(1.0) amendment(1.0) .(0.0) It(0.0) is(0.0) the(0.0) right(0.0) thing(0.0) 
+to(0.0) do(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) support(0.0) the(0.0) child(0.0) survival(0.0) protection(1.0) amendment(1.0) offered(0.0) by(0.0) Mr.(0.0) Pitts(1.0) .(0.0) This(0.0) amendment(1.0) 
+does(0.0) not(0.0) cost(0.0) the(0.0) taxpayers(1.0) any(0.0) more(0.0) money(1.0) .(0.0) This(0.0) amendment(1.0) assures(0.0) the(0.0) funding(1.0) that(0.0) we(0.0) are(0.0) currently(0.0) sending(0.0) overseas(0.0) 
+is(0.0) used(0.0) to(0.0) save(0.0) children(0.0) 's(0.0) lives(0.0) rather(0.0) than(0.0) terminate(0.0) them(0.0) .(0.0) Children(0.0) in(0.0) third(0.0) world(0.0) countries(1.0) are(0.0) dying(0.0) of(0.0) 
+diseases(1.0) such(0.0) as(0.0) polio(1.0) and(0.0) dysentery(0.0) ,(0.0) diseases(1.0) our(0.0) children(0.0) in(0.0) the(0.0) United(0.0) States(0.0) will(0.0) never(0.0) have(0.0) to(0.0) worry(0.0) about(0.0) 
+due(0.0) to(0.0) the(0.0) advancesments(0.0) in(0.0) the(0.0) American(0.0) health(1.0) care(1.0) .(0.0) But(0.0) in(0.0) developing(0.0) countries(1.0) ,(0.0) where(0.0) public(1.0) health(1.0) standards(1.0) are(0.0) 
+far(0.0) inferior(0.0) to(0.0) ours(0.0) ,(0.0) over(0.0) 12(0.0) million(0.0) children(0.0) under(0.0) the(0.0) age(0.0) of(0.0) 5(0.0) die(0.0) of(0.0) these(0.0) easily(0.0) preventable(1.0) diseases(0.0) 
+and(0.0) malnutrition(1.0) year(0.0) .(0.0) We(0.0) are(0.0) currently(0.0) sending(0.0) $(0.0) 385(0.0) million(0.0) overseas(1.0) for(0.0) population(1.0) control(0.0) .(0.0) We(0.0) need(0.0) to(0.0) ensure(0.0) 
+these(0.0) funds(1.0) are(0.0) used(0.0) for(0.0) the(0.0) purposes(0.0) which(0.0) they(0.0) were(0.0) intended(0.0) ,(0.0) saving(0.0) children(0.0) from(0.0) diseases(1.0) and(0.0) malnutrition(1.0) .(0.0) Child(0.0) 
+Survival(0.0) Funding(1.0) provides(0.0) oral(1.0) re-hydration(1.0) salts(0.0) ,(0.0) immunization(1.0) for(0.0) childhood(0.0) diseases(1.0) ,(0.0) and(0.0) vitamins(1.0) and(0.0) nutrition(1.0) supplements(1.0) .(0.0) I(0.0) ask(0.0) 
+my(0.0) colleagues(0.0) to(0.0) support(0.0) the(0.0) Child(1.0) Survival(0.0) amendment(1.0) ,(0.0) and(0.0) stand(0.0) firm(0.0) for(0.0) the(0.0) lives(0.0) of(0.0) children(0.0) around(0.0) the(0.0) world(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+Pennsylvania	amendment	
+unborn	
+sanctity	Pitts	amendment	
+Chairman	protection	amendment	Pitts	amendment	
+taxpayers	money	amendment	funding	
+countries	
+diseases	polio	diseases	
+health	care	countries	public	health	standards	
+preventable	
+malnutrition	overseas	population	
+funds	diseases	malnutrition	
+Funding	oral	re-hydration	immunization	diseases	vitamins	nutrition	supplements	
+Child	amendment	
+
+
+reads % = 0.16030534351145037

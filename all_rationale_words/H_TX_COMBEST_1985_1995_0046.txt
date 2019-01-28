@@ -1,0 +1,22 @@
+This is from a Republican
+----- below is the original text -----
+If(0.0) the(0.0) gentleman(0.0) will(0.0) continue(0.0) to(0.0) yield(0.0) ,(0.0) it(0.0) is(0.0) not(0.0) an(0.0) inconsistency(0.0) ,(0.0) it(0.0) is(0.0) just(0.0) the(0.0) fact(0.0) that(0.0) in(0.0) 
+the(0.0) budget(1.0) obviously(0.0) the(0.0) programs(1.0) we(0.0) are(0.0) looking(0.0) at(0.0) ,(0.0) we(0.0) looked(0.0) at(0.0) in(0.0) terms(0.0) of(0.0) priority(1.0) .(0.0) It(0.0) has(0.0) 
+been(0.0) estimated(0.0) that(0.0) the(0.0) declassification(1.0) would(0.0) require(0.0) $(0.0) 70(0.0) million(0.0) .(0.0) That(0.0) is(0.0) a(0.0) substantial(0.0) amount(0.0) of(0.0) money(1.0) for(0.0) declassification(1.0) 
+.(0.0) That(0.0) is(0.0) why(0.0) we(0.0) limited(0.0) .(0.0) It(0.0) is(0.0) not(0.0) the(0.0) objection(1.0) that(0.0) the(0.0) chairman(0.0) had(0.0) to(0.0) the(0.0) declassification(1.0) idea(0.0) 
+.(0.0) It(0.0) was(0.0) the(0.0) fact(0.0) that(0.0) there(0.0) are(0.0) many(0.0) ,(0.0) many(0.0) programs(1.0) that(0.0) would(0.0) be(0.0) detrimentally(0.0) affected(0.0) .(0.0) I(0.0) just(0.0) 
+wanted(0.0) to(0.0) make(0.0) for(0.0) certain(0.0) that(0.0) the(0.0) gentleman(0.0) ,(0.0) while(0.0) he(0.0) was(0.0) supporting(0.0) a(0.0) further(0.0) reduction(1.0) ,(0.0) was(0.0) asking(0.0) for(0.0) 
+an(0.0) increase(1.0) in(0.0) some(0.0) other(0.0) areas(0.0) that(0.0) could(0.0) amount(0.0) to(0.0) several(0.0) tens(1.0) of(0.0) millions(1.0) of(0.0) dollars(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+budget	programs	priority	
+declassification	money	declassification	
+objection	declassification	
+programs	
+reduction	
+increase	tens	millions	dollars	
+
+reads % = 0.10144927536231885

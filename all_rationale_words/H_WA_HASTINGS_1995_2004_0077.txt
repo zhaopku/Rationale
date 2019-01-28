@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) this(0.0) is(0.0) a(0.0) serious(0.0) issue(0.0) ,(0.0) 
+and(0.0) it(0.0) is(0.0) one(0.0) that(0.0) needs(0.0) to(0.0) be(0.0) debated(1.0) as(0.0) we(0.0) can(0.0) see(0.0) by(0.0) the(0.0) debate(1.0) that(0.0) we(0.0) have(0.0) had(0.0) 
+here(0.0) simply(0.0) on(0.0) the(0.0) rule(1.0) .(0.0) We(0.0) expect(0.0) a(0.0) more(0.0) vigorous(0.0) debate(1.0) as(0.0) the(0.0) issues(0.0) are(0.0) presented(0.0) and(0.0) as(0.0) amendments(0.0) 
+are(0.0) offered(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) urge(0.0) a(0.0) ``(0.0) yes(0.0) ''(0.0) vote(1.0) on(0.0) the(0.0) previous(0.0) question(0.0) .(0.0) The(0.0) material(0.0) 
+previously(0.0) referred(0.0) to(0.0) by(0.0) Ms(0.0) .(0.0) Slaughter(0.0) is(0.0) as(0.0) follows(0.0) :(0.0) Previous(0.0) Question(0.0) for(0.0) H.(0.0) Res(1.0) .(0.0) 692(0.0) --(0.0) Rule(1.0) 
+on(0.0) H.R(0.0) .(0.0) 4663(0.0) Spending(0.0) Control(0.0) Act(0.0) of(0.0) 2004(0.0) At(0.0) the(0.0) end(0.0) of(0.0) the(0.0) resolution(1.0) ,(0.0) add(0.0) the(0.0) following(0.0) :(0.0) 
+``(0.0) Sec(0.0) .(0.0) 2(0.0) .(0.0) Notwithstanding(0.0) any(0.0) other(0.0) provision(0.0) of(0.0) this(0.0) resolution(1.0) the(0.0) amendment(1.0) specified(0.0) in(0.0) section(0.0) 3(0.0) shall(0.0) be(0.0) 
+in(0.0) order(0.0) as(0.0) though(0.0) printed(0.0) after(0.0) the(0.0) amendment(1.0) numbered(0.0) 17(0.0) in(0.0) the(0.0) report(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Rules(0.0) if(0.0) offered(0.0) 
+by(0.0) Representative(1.0) Stenholm(1.0) of(0.0) Texas(0.0) or(0.0) a(0.0) designee(0.0) .(0.0) That(0.0) amendment(0.0) shall(0.0) be(0.0) debatable(0.0) for(0.0) 60(0.0) minutes(0.0) equally(0.0) divided(0.0) and(0.0) 
+controlled(0.0) by(0.0) the(0.0) proponent(1.0) and(0.0) an(0.0) opponent(0.0) .(0.0) ``(0.0) Sec(0.0) .(0.0) 3(0.0) .(0.0) The(0.0) amendment(1.0) referred(0.0) to(0.0) in(0.0) section(0.0) 2(0.0) 
+is(0.0) as(0.0) follows(0.0) :(0.0) Amendment(1.0) to(0.0) H.R(0.0) .(0.0) 3973(0.0) ,(0.0) as(0.0) Reported(0.0) Offered(0.0) by(0.0) Mr.(0.0) Stenholm(1.0) of(0.0) Texas(0.0) ,(0.0) Mr.(0.0) 
+Matheson(1.0) of(0.0) Utah(0.0) ,(0.0) Mr.(0.0) Thompson(1.0) of(0.0) California(0.0) ,(0.0) Mr.(0.0) Hill(1.0) of(0.0) Indiana(0.0) ,(0.0) Mr.(0.0) Moore(1.0) of(0.0) Kansas(0.0) ,(0.0) or(0.0) 
+Mr.(0.0) Tanner(1.0) of(0.0) Tennessee(0.0) Strike(0.0) all(0.0) after(0.0) the(0.0) enacting(0.0) clause(0.0) and(0.0) insert(0.0) the(0.0) following(0.0) :(0.0) SECTION(0.0) 1(0.0) .(0.0) SHORT(0.0) TITLE(0.0) 
+.(0.0) This(0.0) Act(0.0) may(0.0) be(0.0) cited(0.0) as(0.0) the(0.0) ``(0.0) Living(0.0) Within(0.0) Our(0.0) Means(0.0) Act(0.0) of(0.0) 2004(0.0) ''(0.0) .(0.0) TITLE(0.0) I(0.0) 
+--(0.0) REINSTATING(0.0) AND(0.0) STRENGTHENING(0.0) BUDGET(0.0) ENFORCEMENT(0.0) SEC(0.0) .(0.0) 101(0.0) .(0.0) EXTENSION(0.0) OF(0.0) THE(0.0) DISCRETIONARY(0.0) SPENDING(0.0) CAPS(0.0) .(0.0) ((0.0) a(0.0) )(0.0) 
+Discretionary(0.0) Spending(0.0) Limits.(0.0) --(0.0) ((0.0) 1(0.0) )(0.0) Section(0.0) 251(0.0) ((0.0) c(0.0) )(0.0) ((0.0) 2(0.0) )(0.0) of(0.0) the(0.0) Balanced(0.0) Budget(0.0) and(0.0) 
+Emergency(0.0) Deficit(0.0) Control(0.0) Act(0.0) of(0.0) 1985(0.0) is(0.0) amended(0.0) by(0.0) inserting(0.0) a(0.0) dash(0.0) after(0.0) ``(0.0) 2005(0.0) ''(0.0) ,(0.0) by(0.0) redesignating(1.0) the(0.0) 
+remaining(0.0) portion(0.0) of(0.0) such(0.0) paragraph(0.0) as(0.0) subparagraph(0.0) ((0.0) D(0.0) )(0.0) and(0.0) by(0.0) moving(0.0) it(0.0) two(0.0) ems(0.0) to(0.0) the(0.0) right(0.0) ,(0.0) 
+and(0.0) by(0.0) inserting(0.0) after(0.0) the(0.0) dash(0.0) the(0.0) following(0.0) new(0.0) subparagraphs(0.0) :(0.0) ``(0.0) ((0.0) A(0.0) )(0.0) for(0.0) the(0.0) general(0.0) purpose(0.0) discretionary(0.0) 
+category(0.0) :(0.0) $(0.0) 819,697,000,000(0.0) in(0.0) new(0.0) budget(0.0) authority(0.0) and(0.0) $(0.0) 862,247,000,000(0.0) in(0.0) outlays(0.0) ;(0.0) ``(0.0) ((0.0) B(0.0) )(0.0) for(0.0) the(0.0) 
+highway(0.0) category(0.0) :(0.0) $(0.0) 30,585,000,000(0.0) in(0.0) outlays(0.0) ;(0.0) and(0.0) ``(0.0) ((0.0) C(0.0) )(0.0) for(0.0) the(0.0) mass(0.0) transit(1.0) category(0.0) :(0.0) $(0.0) 
+1,554,000,000(0.0) in(0.0) new(0.0) budget(0.0) authority(0.0) and(0.0) $(0.0) 6,787,000,000(0.0) in(0.0) outlays(0.0) ;(0.0) and(0.0) ''(0.0) .(0.0) ((0.0) 2(0.0) )(0.0) Section(0.0) 251(0.0) ((0.0) 
+c(0.0) )(0.0) ((0.0) 3(0.0) )(0.0) of(0.0) the(0.0) Balanced(0.0) Budget(0.0) and(0.0) Emergency(0.0) Deficit(0.0) Control(0.0) Act(0.0) of(0.0) 1985(0.0) is(0.0) amended(0.0) by(0.0) inserting(0.0) 
+a(0.0) dash(0.0) after(0.0) ``(0.0) 2006(0.0) ''(0.0) ,(0.0) by(0.0) redesignating(1.0) the(0.0) remaining(0.0) portion(0.0) of(0.0) such(0.0) paragraph(0.0) as(0.0) subparagraph(0.0) ((0.0) D(0.0) )(0.0) 
+and(0.0) by(0.0) moving(0.0) it(0.0) two(0.0) ems(0.0) to(0.0) the(0.0) right(0.0) ,(0.0) and(0.0) by(0.0) inserting(0.0) after(0.0) the(0.0) dash(0.0) the(0.0) following(0.0) new(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	
+debated	debate	
+rule	debate	
+Speaker	vote	
+Res	Rule	
+resolution	
+resolution	amendment	
+amendment	
+Representative	Stenholm	
+proponent	amendment	
+Amendment	Stenholm	
+Matheson	Thompson	Hill	Moore	
+Tanner	
+
+
+
+redesignating	
+
+
+
+transit	
+
+
+redesignating	
+
+
+reads % = 0.054

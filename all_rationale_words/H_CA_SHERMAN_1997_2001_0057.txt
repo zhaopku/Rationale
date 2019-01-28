@@ -1,0 +1,24 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) associate(0.0) myself(0.0) with(0.0) the(0.0) comments(0.0) made(0.0) in(0.0) this(0.0) colloquy(0.0) and(0.0) say(0.0) that(0.0) to(0.0) those(0.0) two(0.0) companies(0.0) 
+,(0.0) in(0.0) addition(0.0) to(0.0) all(0.0) of(0.0) the(0.0) sanctions(1.0) outlined(0.0) in(0.0) ILSA(1.0) ,(0.0) we(0.0) should(0.0) come(0.0) back(0.0) ,(0.0) if(0.0) necessary(0.0) ,(0.0) 
+in(0.0) this(0.0) Congress(1.0) ,(0.0) and(0.0) mandate(1.0) that(0.0) those(0.0) who(0.0) violate(0.0) ILSA(1.0) 's(0.0) strict(0.0) provisions(1.0) are(0.0) denied(1.0) all(0.0) access(0.0) to(0.0) American(0.0) 
+capital(1.0) markets(1.0) and(0.0) that(0.0) their(0.0) stocks(0.0) and(0.0) bonds(1.0) will(0.0) not(0.0) be(0.0) listed(0.0) on(0.0) NASDAQ(0.0) or(0.0) the(0.0) New(1.0) York(1.0) Stock(0.0) Exchange(0.0) 
+.(0.0) We(0.0) are(0.0) studying(0.0) those(0.0) types(0.0) of(0.0) provisions(1.0) in(0.0) the(0.0) Committee(0.0) on(0.0) Financial(0.0) Services(0.0) ,(0.0) and(0.0) I(0.0) am(0.0) confident(0.0) that(0.0) 
+we(0.0) will(0.0) have(0.0) the(0.0) votes(1.0) to(0.0) make(0.0) sure(0.0) that(0.0) this(0.0) access(0.0) to(0.0) American(0.0) capital(1.0) markets(1.0) ,(0.0) which(0.0) is(0.0) increasingly(0.0) important(0.0) 
+to(0.0) Japanese(0.0) and(0.0) European(0.0) companies(1.0) ,(0.0) will(0.0) not(0.0) be(0.0) available(0.0) to(0.0) those(0.0) companies(1.0) that(0.0) invest(1.0) significantly(0.0) in(0.0) the(0.0) Iranian(1.0) petroleum(1.0) 
+sector(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+sanctions	ILSA	
+Congress	mandate	ILSA	provisions	denied	
+capital	markets	bonds	New	York	
+provisions	
+votes	capital	markets	
+companies	companies	invest	Iranian	petroleum	
+sector	
+
+reads % = 0.15384615384615385

@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) strike(1.0) the(0.0) requisite(0.0) number(0.0) of(0.0) words(0.0) ,(0.0) and(0.0) I(0.0) rise(0.0) in(0.0) strong(0.0) opposition(1.0) to(0.0) this(0.0) amendment(1.0) 
+.(0.0) I(0.0) want(0.0) to(0.0) talk(0.0) about(0.0) two(0.0) different(0.0) aspects(0.0) of(0.0) this(0.0) bill(1.0) .(0.0) First(0.0) of(0.0) all(0.0) ,(0.0) times(0.0) are(0.0) tough(0.0) 
+out(0.0) in(0.0) agriculture(1.0) country(0.0) right(0.0) now(0.0) .(0.0) I(0.0) do(0.0) not(0.0) care(0.0) what(0.0) farmers(1.0) are(0.0) growing(0.0) ,(0.0) what(0.0) part(0.0) of(0.0) the(0.0) 
+country(1.0) they(0.0) are(0.0) in(0.0) .(0.0) We(0.0) are(0.0) seeing(0.0) tough(0.0) times(0.0) from(0.0) the(0.0) standpoint(0.0) of(0.0) the(0.0) hazards(1.0) that(0.0) farmers(1.0) have(0.0) to(0.0) 
+deal(0.0) with(0.0) ,(0.0) whether(0.0) it(0.0) is(0.0) weather(0.0) ,(0.0) whether(0.0) it(0.0) is(0.0) hurricanes(0.0) or(0.0) some(0.0) combination(0.0) of(0.0) both(0.0) ;(0.0) but(0.0) the(0.0) 
+biggest(0.0) problem(0.0) that(0.0) farmers(1.0) have(0.0) out(0.0) there(0.0) today(0.0) is(0.0) that(0.0) we(0.0) are(0.0) seeing(0.0) the(0.0) lowest(1.0) commodity(1.0) prices(1.0) we(0.0) have(0.0) seen(0.0) 
+across(0.0) the(0.0) spectrum(0.0) in(0.0) 30(0.0) years(0.0) .(0.0) It(0.0) does(0.0) not(0.0) make(0.0) any(0.0) difference(0.0) whether(0.0) it(0.0) is(0.0) corn(0.0) in(0.0) the(0.0) Midwest(1.0) 
+or(0.0) peanuts(0.0) or(0.0) cotton(0.0) in(0.0) my(0.0) part(0.0) of(0.0) the(0.0) world(0.0) ,(0.0) farming(0.0) is(0.0) a(0.0) tough(0.0) ,(0.0) tough(0.0) business(0.0) today(0.0) .(0.0) 
+What(0.0) the(0.0) chairman(0.0) and(0.0) the(0.0) ranking(0.0) member(0.0) did(0.0) with(0.0) this(0.0) base(0.0) farm(0.0) bill(0.0) is(0.0) to(0.0) come(0.0) up(0.0) with(0.0) a(0.0) proposal(0.0) 
+that(0.0) actually(0.0) provides(0.0) a(0.0) safety(0.0) net(0.0) for(0.0) our(0.0) farmers(1.0) .(0.0) The(0.0) trigger(0.0) is(0.0) that(0.0) if(0.0) prices(1.0) are(0.0) high(0.0) our(0.0) farmers(1.0) 
+are(0.0) not(0.0) going(0.0) to(0.0) get(0.0) government(1.0) help(0.0) ;(0.0) but(0.0) if(0.0) prices(0.0) are(0.0) low(0.0) ,(0.0) they(0.0) are(0.0) going(0.0) to(0.0) get(0.0) extended(0.0) 
+a(0.0) helping(0.0) hand(0.0) from(0.0) the(0.0) Federal(1.0) Government(1.0) to(0.0) help(0.0) them(0.0) out(0.0) .(0.0) And(0.0) that(0.0) is(0.0) the(0.0) way(0.0) it(0.0) ought(1.0) to(0.0) 
+be(0.0) .(0.0) This(0.0) bill(1.0) takes(1.0) about(0.0) $(0.0) 2(0.0) billion(1.0) a(0.0) year(0.0) out(0.0) of(0.0) the(0.0) commodity(1.0) side(0.0) of(0.0) this(0.0) farm(0.0) bill(0.0) 
+and(0.0) puts(0.0) it(0.0) into(0.0) conservation(1.0) .(0.0) Do(0.0) we(0.0) need(0.0) to(0.0) concentrate(0.0) on(0.0) conservation(1.0) ?(0.0) Sure(0.0) we(0.0) do(0.0) .(0.0) But(0.0) what(0.0) 
+does(0.0) this(0.0) base(0.0) bill(1.0) do(1.0) ?(0.0) This(0.0) base(0.0) bill(1.0) takes(0.0) an(0.0) additional(0.0) $(0.0) 37(0.0) billion(1.0) over(0.0) the(0.0) next(0.0) 10(0.0) years(0.0) 
+and(0.0) puts(0.0) it(0.0) into(0.0) conservation(1.0) programs(1.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) Oklahoma(1.0) ((0.0) Mr.(0.0) Lucas(1.0) )(0.0) ,(0.0) the(0.0) chairman(0.0) of(0.0) the(0.0) 
+subcommittee(0.0) ,(0.0) did(0.0) an(0.0) excellent(0.0) job(0.0) of(0.0) putting(0.0) more(0.0) money(0.0) into(0.0) conservation(0.0) ;(0.0) but(0.0) the(0.0) one(0.0) thing(0.0) that(0.0) we(0.0) never(0.0) 
+need(0.0) to(0.0) forget(0.0) in(0.0) this(0.0) town(0.0) is(0.0) that(0.0) the(0.0) biggest(0.0) environmentalists(1.0) and(0.0) the(0.0) biggest(0.0) conservationists(1.0) in(0.0) the(0.0) world(0.0) are(0.0) our(0.0) 
+farmers(1.0) .(0.0) We(0.0) do(0.0) not(0.0) make(0.0) a(0.0) living(0.0) off(0.0) the(0.0) land(0.0) .(0.0) The(0.0) farmer(0.0) makes(0.0) a(0.0) living(0.0) off(0.0) the(0.0) land(0.0) 
+,(0.0) and(0.0) they(0.0) want(0.0) to(0.0) do(0.0) everything(0.0) they(0.0) can(0.0) to(0.0) conserve(1.0) and(0.0) preserve(1.0) their(0.0) land(0.0) .(0.0) Now(0.0) ,(0.0) I(0.0) am(0.0) 
+a(0.0) sportsman(0.0) .(0.0) I(0.0) ,(0.0) along(0.0) with(0.0) the(0.0) gentleman(0.0) from(0.0) Minnesota(1.0) ((0.0) Mr.(0.0) Peterson(1.0) )(0.0) ,(0.0) cochaired(1.0) the(0.0) Sportsmens(1.0) '(0.0) 
+Caucus(0.0) the(0.0) last(0.0) 2(0.0) years(0.0) .(0.0) I(0.0) love(0.0) to(0.0) hunt(0.0) and(0.0) fish(0.0) as(0.0) much(0.0) as(0.0) anybody(0.0) in(0.0) the(0.0) world(0.0) .(0.0) 
+We(0.0) are(0.0) conservationists(1.0) as(0.0) hunters(0.0) and(0.0) fishermen(0.0) ,(0.0) and(0.0) we(0.0) appreciate(0.0) the(0.0) outdoors(0.0) .(0.0) But(0.0) what(0.0) we(0.0) need(0.0) is(0.0) more(0.0) 
+farmers(1.0) producing(0.0) more(0.0) grains(0.0) to(0.0) feed(0.0) the(0.0) wildlife(0.0) that(0.0) we(0.0) love(0.0) to(0.0) hunt(0.0) ,(0.0) and(0.0) we(0.0) need(0.0) more(0.0) farmers(1.0) protecting(1.0) 
+the(0.0) fields(0.0) and(0.0) streams(0.0) that(0.0) we(0.0) love(0.0) to(0.0) fish(0.0) in(0.0) .(0.0) How(0.0) do(0.0) we(0.0) do(0.0) that(0.0) ?(0.0) Do(0.0) we(0.0) 
+
+
+----- below are rationale words -----
+
+strike	opposition	amendment	
+bill	
+agriculture	farmers	
+country	hazards	farmers	
+
+farmers	lowest	commodity	prices	
+Midwest	
+
+
+farmers	prices	farmers	
+government	
+Federal	Government	ought	
+bill	takes	billion	commodity	
+conservation	conservation	
+bill	do	bill	billion	
+conservation	programs	Oklahoma	Lucas	
+
+environmentalists	conservationists	
+farmers	
+conserve	preserve	
+Minnesota	Peterson	cochaired	Sportsmens	
+
+conservationists	
+farmers	farmers	protecting	
+
+
+reads % = 0.096

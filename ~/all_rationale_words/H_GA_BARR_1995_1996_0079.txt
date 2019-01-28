@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) appreciate(1.0) the(0.0) distinguished(0.0) gentleman(0.0) from(0.0) Indiana(0.0) ,(0.0) a(0.0) member(0.0) of(0.0) the(0.0) conference(0.0) ,(0.0) yielding(0.0) for(0.0) a(0.0) colloquy(0.0) .(0.0) 
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) understand(0.0) that(0.0) the(0.0) gentleman(0.0) worked(0.0) to(0.0) remove(1.0) very(0.0) disturbing(0.0) legislative(1.0) language(0.0) from(0.0) the(0.0) conference(0.0) report(0.0) that(0.0) 
+weakens(1.0) posse(1.0) comitatus(1.0) protections(1.0) .(0.0) The(0.0) language(0.0) constitutes(1.0) a(0.0) serious(0.0) erosion(0.0) of(0.0) the(0.0) historic(1.0) and(0.0) firmly(0.0) held(0.0) belief(0.0) in(0.0) our(0.0) 
+country(1.0) that(0.0) our(1.0) military(1.0) should(0.0) not(1.0) become(0.0) involved(0.0) in(0.0) domestic(1.0) law(1.0) enforcement(0.0) .(0.0) This(0.0) principle(0.0) is(0.0) enshrined(1.0) in(0.0) posse(1.0) comitatus(1.0) 
+provisions(0.0) in(0.0) our(0.0) criminal(1.0) code(0.0) .(0.0) However(0.0) ,(0.0) in(0.0) the(0.0) conference(0.0) report(0.0) ,(0.0) the(0.0) military(1.0) is(0.0) ,(0.0) in(0.0) certain(1.0) situations(0.0) 
+,(0.0) given(0.0) the(0.0) power(1.0) to(0.0) make(0.0) civilian(1.0) arrests(1.0) ,(0.0) conduct(0.0) searches(1.0) and(0.0) seizures(0.0) ,(0.0) and(0.0) gather(0.0) domestic(0.0) intelligence(1.0) .(0.0) While(1.0) 
+these(0.0) powers(1.0) are(0.0) limited(0.0) to(0.0) situations(0.0) involving(1.0) weapons(1.0) of(0.0) mass(0.0) destruction(1.0) ,(0.0) they(0.0) are(0.0) extremely(0.0) troublesome(0.0) because(0.0) they(0.0) are(0.0) unnecessary(1.0) 
+and(0.0) directly(0.0) involve(0.0) the(0.0) military(1.0) in(0.0) domestic(1.0) law(1.0) enforcement(0.0) .(0.0) I(0.0) fought(1.0) hard(0.0) to(0.0) have(0.0) these(0.0) provisions(1.0) removed(1.0) ,(0.0) and(0.0) 
+I(0.0) know(1.0) that(0.0) the(0.0) gentleman(0.0) from(0.0) Indiana(0.0) did(0.0) the(0.0) same(1.0) .(0.0) I(0.0) regret(1.0) that(0.0) the(0.0) conference(0.0) report(0.0) retains(1.0) the(0.0) Senate(1.0) 
+language(0.0) ,(0.0) which(0.0) was(0.0) never(0.0) presented(0.0) to(0.0) this(0.0) House(0.0) for(0.0) proper(0.0) consideration(0.0) .(0.0) It(0.0) is(0.0) my(0.0) understanding(0.0) ,(0.0) however(0.0) ,(0.0) 
+we(0.0) will(0.0) be(0.0) working(0.0) together(0.0) at(0.0) the(0.0) earliest(1.0) opportunity(0.0) to(0.0) have(0.0) these(0.0) ill-(1.0) conceived(1.0) provisions(0.0) removed(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+appreciate	
+Speaker	remove	legislative	
+weakens	posse	comitatus	protections	constitutes	historic	
+country	our	military	not	domestic	law	enshrined	posse	comitatus	
+criminal	military	certain	
+power	civilian	arrests	searches	intelligence	While	
+powers	involving	weapons	destruction	unnecessary	
+military	domestic	law	fought	provisions	removed	
+know	same	regret	retains	Senate	
+
+earliest	ill-	conceived	removed	
+
+reads % = 0.22018348623853212

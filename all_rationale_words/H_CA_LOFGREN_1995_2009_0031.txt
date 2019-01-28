@@ -1,0 +1,38 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) the(0.0) remaining(0.0) time(0.0) .(0.0) Nearly(0.0) six(0.0) million(0.0) households(1.0) are(0.0) facing(0.0) the(0.0) possibility(1.0) of(0.0) foreclosure(1.0) in(0.0) our(0.0) 
+country(1.0) .(0.0) And(0.0) as(0.0) a(0.0) result(0.0) ,(0.0) responsible(0.0) families(0.0) who(0.0) did(0.0) everything(0.0) right(0.0) ,(0.0) who(0.0) have(0.0) a(0.0) traditional(0.0) mortgage(0.0) ,(0.0) 
+are(0.0) facing(0.0) foreclosure(1.0) or(0.0) their(0.0) neighborhoods(1.0) are(0.0) struggling(0.0) .(0.0) It(0.0) 's(0.0) estimated(0.0) that(0.0) each(0.0) foreclosed(1.0) home(0.0) reduces(0.0) the(0.0) price(0.0) of(0.0) 
+the(0.0) surrounding(0.0) property(0.0) --(0.0) people(0.0) who(0.0) did(0.0) nothing(0.0) wrong(0.0) --(0.0) by(0.0) 9(0.0) percent(0.0) ,(0.0) or(0.0) sometimes(0.0) more(0.0) .(0.0) That's(0.0) when(0.0) 
+the(0.0) meth(1.0) dealers(1.0) move(0.0) that(0.0) is(0.0) the(0.0) ``(0.0) sometimes(0.0) more(0.0) .(0.0) ''(0.0) This(0.0) bill(1.0) takes(0.0) a(0.0) number(0.0) of(0.0) steps(0.0) .(0.0) 
+We(0.0) 've(0.0) talked(0.0) about(0.0) bankruptcy(1.0) ,(0.0) but(0.0) that(0.0) 's(0.0) just(0.0) a(0.0) small(0.0) part(0.0) of(0.0) it(0.0) .(0.0) It(0.0) provides(0.0) a(0.0) safe(0.0) 
+harbor(0.0) for(0.0) servicers(1.0) to(0.0) modify(0.0) loans(0.0) .(0.0) It(0.0) increases(0.0) the(0.0) FDIC(1.0) insured(0.0) rate(0.0) for(0.0) banks(1.0) .(0.0) It(0.0) makes(0.0) improvements(0.0) to(0.0) 
+the(0.0) HOPE(1.0) for(0.0) Homeowners(1.0) Program(1.0) .(0.0) But(0.0) it(0.0) also(0.0) narrowly(0.0) affects(0.0) the(0.0) exemption(1.0) for(0.0) primary(1.0) residences(1.0) under(0.0) Chapter(0.0) 13(0.0) .(0.0) 
+As(0.0) has(0.0) been(0.0) pointed(0.0) out(0.0) ,(0.0) speculators(0.0) can(0.0) go(0.0) into(0.0) Chapter(0.0) 13(0.0) and(0.0) get(0.0) complete(0.0) relief(1.0) ;(0.0) it(0.0) 's(0.0) only(0.0) 
+the(0.0) individual(0.0) homeowner(0.0) who(0.0) is(0.0) not(0.0) able(0.0) to(0.0) get(0.0) that(0.0) relief(1.0) .(0.0) That(0.0) 's(0.0) just(0.0) not(0.0) fair(0.0) .(0.0) There(0.0) 's(0.0) 
+no(0.0) way(0.0) you(0.0) can(0.0) possibly(0.0) defend(1.0) how(0.0) that(0.0) is(0.0) fair(0.0) ,(0.0) that(0.0) the(0.0) big(0.0) guys(0.0) and(0.0) the(0.0) speculators(1.0) get(0.0) their(0.0) 
+way(0.0) ,(0.0) but(0.0) the(0.0) individual(0.0) struggling(0.0) homeowner(0.0) does(0.0) not(0.0) .(0.0) We(0.0) have(0.0) worked(0.0) very(0.0) hard(0.0) in(0.0) these(0.0) last(0.0) few(0.0) weeks(0.0) 
+to(0.0) narrow(0.0) this(0.0) provision(1.0) ,(0.0) to(0.0) listen(0.0) to(0.0) every(0.0) objection(1.0) that(0.0) was(0.0) honestly(0.0) made(0.0) ,(0.0) that(0.0) was(0.0) credible(0.0) ,(0.0) and(0.0) 
+to(0.0) accommodate(0.0) it(0.0) .(0.0) This(0.0) amendment(1.0) is(0.0) a(0.0) consensus(1.0) measure(0.0) that(0.0) makes(0.0) the(0.0) bill(1.0) better(1.0) .(0.0) I(0.0) urge(0.0) its(0.0) passage(1.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+households	possibility	foreclosure	
+country	
+foreclosure	neighborhoods	foreclosed	
+
+meth	dealers	bill	
+bankruptcy	
+servicers	FDIC	banks	
+HOPE	Homeowners	Program	exemption	primary	residences	
+relief	
+relief	
+defend	speculators	
+
+provision	objection	
+amendment	consensus	bill	better	passage	
+
+
+reads % = 0.1099290780141844

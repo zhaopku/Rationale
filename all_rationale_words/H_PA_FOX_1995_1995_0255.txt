@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) the(0.0) Governor(0.0) of(0.0) the(0.0) State(0.0) of(0.0) New(1.0) Jersey(1.0) has(0.0) downsized(0.0) the(0.0) number(0.0) of(0.0) employees(0.0) through(0.0) efficiency(0.0) and(0.0) through(0.0) attrition(0.0) 
+,(0.0) is(0.0) that(0.0) correct(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+New	Jersey	
+
+
+reads % = 0.07692307692307693

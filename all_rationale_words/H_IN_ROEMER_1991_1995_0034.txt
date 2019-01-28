@@ -1,0 +1,34 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(1.0) the(0.0) gentleman(0.0) from(0.0) Missouri(1.0) for(0.0) yielding(0.0) to(0.0) me(0.0) .(0.0) I(0.0) just(1.0) want(1.0) to(0.0) rise(0.0) and(0.0) commend(1.0) the(0.0) 
+majority(1.0) and(0.0) particularly(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) [(0.0) Mr.(0.0) Armey(1.0) ](0.0) .(0.0) He(0.0) and(0.0) I(0.0) have(0.0) risen(1.0) to(0.0) engage(1.0) in(0.0) 
+a(0.0) colloquy(0.0) the(0.0) last(1.0) couple(1.0) weeks(1.0) to(0.0) talk(0.0) about(0.0) a(0.0) family-friendly(1.0) schedule(1.0) and(0.0) ,(0.0) in(0.0) particular(0.0) ,(0.0) to(0.0) talk(0.0) about(0.0) 
+getting(0.0) out(1.0) tonight(1.0) by(0.0) 7(0.0) o'clock(0.0) .(0.0) I(0.0) can(1.0) see(0.0) that(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) [(0.0) Mr.(0.0) Armey(1.0) ](0.0) is(0.0) 
+not(1.0) only(0.0) good(0.0) on(0.0) his(0.0) word(0.0) at(0.0) 7(0.0) o'clock(1.0) ,(0.0) he(0.0) is(1.0) an(0.0) hour(0.0) early(0.0) .(0.0) A(1.0) number(0.0) of(0.0) families(0.0) 
+,(0.0) Congressmen(1.0) ,(0.0) Congresswomen(1.0) have(0.0) come(0.0) up(0.0) to(0.0) me(0.0) and(0.0) asked(0.0) me(0.0) to(0.0) end(0.0) my(0.0) poetic(1.0) career(1.0) by(0.0) doing(0.0) one(0.0) 
+more(0.0) poem(1.0) for(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) [(0.0) Mr.(0.0) Armey(1.0) ](0.0) .(0.0) So(1.0) I(0.0) will(0.0) do(0.0) this(1.0) and(0.0) end(0.0) in(0.0) 
+salute(1.0) to(0.0) him(0.0) .(0.0) Roses(1.0) are(0.0) red(0.0) ,(0.0) Violets(1.0) are(0.0) blue(1.0) .(0.0) Thanks(1.0) to(0.0) Dick(0.0) Armey(1.0) ,(0.0) We(0.0) are(0.0) out(1.0) 
+of(0.0) the(0.0) stew(1.0) .(0.0) We(0.0) are(0.0) into(0.0) the(0.0) roses(0.0) and(0.0) maybe(0.0) a(0.0) sip(0.0) of(0.0) wine(1.0) ,(0.0) A(1.0) family-friendly(1.0) schedule(1.0) ,(0.0) 
+it(0.0) 's(0.0) about(0.0) time(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) we(0.0) are(0.0) delighted(1.0) to(0.0) have(0.0) this(0.0) opportunity(0.0) to(0.0) spend(1.0) 1(0.0) night(0.0) with(0.0) 
+our(0.0) families(0.0) ,(0.0) and(0.0) we(0.0) look(0.0) forward(0.0) to(0.0) working(0.0) with(0.0) the(0.0) majority(1.0) in(0.0) the(0.0) future(0.0) ,(0.0) especially(1.0) after(0.0) the(0.0) first(0.0) 
+100(0.0) days(0.0) ,(0.0) to(0.0) see(0.0) that(0.0) we(0.0) can(0.0) make(0.0) this(0.0) body(0.0) more(0.0) productive(0.0) ,(0.0) more(0.0) efficient(1.0) and(0.0) not(0.0) necessarily(0.0) working(0.0) 
+against(0.0) scheduling(1.0) time(0.0) with(0.0) our(0.0) families(0.0) .(0.0) I(0.0) thank(1.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) and(0.0) the(0.0) gentleman(0.0) from(0.0) Missouri(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+thank	Missouri	just	want	commend	
+majority	Armey	risen	engage	
+last	couple	weeks	family-friendly	schedule	
+out	tonight	can	Armey	
+not	o'clock	is	A	
+Congressmen	Congresswomen	poetic	career	
+poem	Armey	So	this	
+salute	Roses	Violets	blue	Thanks	Armey	out	
+stew	wine	A	family-friendly	schedule	
+Speaker	delighted	spend	
+majority	especially	
+efficient	
+scheduling	thank	Missouri	
+
+reads % = 0.19615384615384615

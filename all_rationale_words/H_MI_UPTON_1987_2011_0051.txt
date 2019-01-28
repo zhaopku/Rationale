@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) rise(0.0) in(0.0) strong(0.0) support(0.0) of(0.0) this(0.0) amendment(1.0) offered(0.0) by(0.0) my(0.0) friends(0.0) Mr.(0.0) Walden(1.0) ,(0.0) Mr.(0.0) Stearns(1.0) and(0.0) others(0.0) on(0.0) both(0.0) 
+the(0.0) authorizing(0.0) as(0.0) well(0.0) as(0.0) the(0.0) Appropriations(0.0) Committee(0.0) .(0.0) There(0.0) is(0.0) an(0.0) old(0.0) adage(0.0) ,(0.0) if(0.0) it(0.0) ai(0.0) n't(0.0) broke(0.0) 
+,(0.0) do(0.0) n't(0.0) fix(0.0) it(0.0) .(0.0) The(0.0) Internet(0.0) is(0.0) not(0.0) broken(0.0) .(0.0) It(0.0) is(0.0) working(0.0) .(0.0) It(0.0) is(0.0) creating(0.0) jobs(0.0) 
+.(0.0) Look(0.0) at(0.0) all(0.0) the(0.0) devices(0.0) out(0.0) there(0.0) ,(0.0) whether(0.0) it(0.0) be(0.0) iPods(0.0) ,(0.0) iPhones(0.0) ,(0.0) BlackBerrys(0.0) ,(0.0) cell(0.0) phones(0.0) 
+.(0.0) Look(0.0) at(0.0) all(0.0) the(0.0) things(0.0) that(0.0) are(0.0) working(0.0) .(0.0) We(0.0) do(0.0) n't(0.0) need(0.0) regulations(1.0) on(0.0) the(0.0) Internet(0.0) .(0.0) I(0.0) 
+think(0.0) it(0.0) was(0.0) George(0.0) Will(0.0) that(0.0) said(0.0) that(0.0) most(0.0) Americans(1.0) think(0.0) the(0.0) government(1.0) does(0.0) n't(0.0) work(0.0) so(0.0) well(0.0) and(0.0) the(0.0) 
+Internet(0.0) does(0.0) .(0.0) Why(0.0) are(0.0) we(0.0) allowing(0.0) the(0.0) FCC(1.0) then(0.0) to(0.0) regulate(1.0) the(0.0) Internet(0.0) ?(0.0) It(0.0) makes(0.0) no(0.0) sense(0.0) .(0.0) 
+This(0.0) amendment(1.0) denies(1.0) funds(1.0) to(0.0) the(1.0) FCC(1.0) to(0.0) implement(1.0) this(0.0) order(0.0) .(0.0) It(0.0) is(0.0) a(0.0) good(0.0) amendment(1.0) .(0.0) I(0.0) would(0.0) 
+like(0.0) to(0.0) think(0.0) it(0.0) would(0.0) be(0.0) bipartisan(1.0) .(0.0) I(0.0) support(0.0) the(0.0) authors(0.0) that(0.0) are(0.0) offering(0.0) this(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+amendment	Walden	Stearns	
+
+
+
+regulations	
+Americans	government	
+FCC	regulate	
+amendment	denies	funds	the	FCC	implement	amendment	
+bipartisan	
+
+reads % = 0.0898876404494382

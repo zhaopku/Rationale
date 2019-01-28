@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) how(0.0) much(0.0) time(0.0) is(0.0) remaining(0.0) on(0.0) each(0.0) side(0.0) ?(0.0) The(0.0) SPEAKER(0.0) pro(0.0) tempore(0.0) ((1.0) Mr.(0.0) Simpson(1.0) )(0.0) .(0.0) The(0.0) 
+gentleman(0.0) from(0.0) Texas(0.0) ((0.0) Mr(0.0) .(1.0) Frost(1.0) )(0.0) has(1.0) 6(0.0) minutes(0.0) remaining(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) Florida(0.0) ((0.0) Mr.(0.0) Lincoln(1.0) 
+Diaz-Balart(1.0) )(0.0) has(1.0) 13(0.0) minutes(0.0) remaining(0.0) .(0.0) Speaker(0.0) ,(0.0) I(0.0) yield(0.0) 15(0.0) seconds(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) ((0.0) Mr.(0.0) 
+Doggett(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+(	Simpson	
+.	Frost	has	Lincoln	
+Diaz-Balart	has	
+Doggett	
+
+reads % = 0.140625

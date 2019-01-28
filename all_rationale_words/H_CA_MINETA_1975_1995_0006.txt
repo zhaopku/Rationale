@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) strike(1.0) the(0.0) requisite(0.0) number(0.0) of(0.0) words(0.0) .(0.0) ((0.0) Mr.(0.0) MINETA(1.0) asked(0.0) and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) 
+revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) )(0.0) Towns'(0.0) amendment(1.0) .(0.0) I(0.0) believe(0.0) that(0.0) this(0.0) amendment(1.0) addresses(0.0) a(0.0) glaring(0.0) flaw(0.0) in(0.0) 
+H.R(0.0) .(0.0) 5(0.0) as(0.0) it(0.0) is(0.0) now(0.0) written(0.0) .(0.0) The(0.0) flaw(1.0) is(0.0) that(0.0) the(0.0) bill(1.0) ,(0.0) without(0.0) the(0.0) Towns(1.0) amendment(0.0) 
+,(0.0) could(0.0) deprive(1.0) our(0.0) constituents(1.0) of(0.0) the(0.0) protection(0.0) they(0.0) may(0.0) need(0.0) against(0.0) significant(0.0) impacts(1.0) on(0.0) their(0.0) health(1.0) and(0.0) safety(0.0) which(0.0) 
+emanates(1.0) beyond(0.0) their(0.0) borders(0.0) ,(0.0) and(0.0) therefore(0.0) is(0.0) beyond(0.0) the(0.0) control(0.0) of(0.0) their(0.0) State(0.0) and(0.0) local(0.0) governments(1.0) .(0.0) H.R(0.0) .(0.0) 
+5(0.0) could(0.0) strip(0.0) from(0.0) our(0.0) constituents(1.0) these(0.0) basic(0.0) protections(1.0) ,(0.0) by(0.0) making(0.0) it(0.0) more(0.0) difficult(0.0) for(0.0) the(0.0) Federal(1.0) Government(1.0) to(0.0) 
+perform(0.0) its(0.0) fundamental(1.0) function(0.0) of(0.0) protecting(1.0) the(0.0) health(1.0) and(0.0) safety(1.0) of(0.0) our(0.0) citizens(1.0) .(0.0) While(0.0) there(0.0) is(0.0) room(0.0) for(0.0) legitimate(1.0) 
+difference(0.0) of(0.0) opinion(0.0) as(0.0) to(0.0) the(0.0) appropriate(0.0) functions(0.0) of(0.0) the(0.0) Federal(1.0) ,(0.0) State(1.0) ,(0.0) and(0.0) local(0.0) governments(1.0) in(0.0) many(0.0) arenas(0.0) 
+,(0.0) I(0.0) believe(0.0) that(0.0) with(0.0) respect(0.0) to(0.0) at(0.0) least(0.0) one(0.0) matter(0.0) this(0.0) issue(0.0) is(0.0) well(0.0) settled(0.0) :(0.0) That(0.0) the(0.0) Federal(1.0) 
+Government(1.0) does(0.0) have(0.0) a(0.0) role(0.0) in(0.0) protecting(1.0) citizens(1.0) downstream(0.0) States(0.0) from(0.0) serious(0.0) health(1.0) impacts(1.0) caused(1.0) by(0.0) pollution(1.0) from(0.0) upstream(0.0) States(0.0) 
+and(0.0) localities(0.0) .(0.0) Water(0.0) pollution(1.0) knows(0.0) no(0.0) political(1.0) boundaries(0.0) .(0.0) Without(0.0) the(0.0) provisions(1.0) of(0.0) the(0.0) Clean(1.0) Water(0.0) Act(0.0) that(0.0) place(0.0) 
+obligations(1.0) on(0.0) States(0.0) and(0.0) local(0.0) governments(1.0) ,(0.0) many(0.0) downstream(0.0) States(0.0) would(0.0) never(0.0) have(0.0) the(0.0) possibility(0.0) of(0.0) clean(1.0) water(1.0) .(0.0) We(0.0) 
+have(0.0) all(0.0) heard(0.0) of(0.0) situations(0.0) where(0.0) pollution(1.0) from(0.0) one(0.0) State(0.0) or(0.0) locality(0.0) adversely(0.0) impacts(0.0) citizens(1.0) in(0.0) downstream(0.0) or(0.0) adjacent(0.0) States(0.0) 
+.(0.0) Many(0.0) of(0.0) these(0.0) examples(0.0) involve(0.0) discharges(1.0) of(0.0) sewage(1.0) by(0.0) municipal(1.0) governments(1.0) .(0.0) For(0.0) example(0.0) :(0.0) Residents(0.0) of(0.0) New(1.0) York(1.0) 
+and(0.0) Connecticut(1.0) are(0.0) familiar(0.0) with(0.0) interstate(1.0) pollution(1.0) of(0.0) the(0.0) Long(1.0) Island(0.0) Sound(0.0) caused(0.0) by(0.0) discharges(1.0) of(0.0) sewage(1.0) .(0.0) Residents(0.0) of(0.0) 
+Mississippi(1.0) and(0.0) Louisiana(1.0) have(0.0) seen(0.0) the(0.0) effects(0.0) of(0.0) being(0.0) downstream(0.0) from(0.0) dischargers(1.0) of(0.0) inadequately(1.0) treated(0.0) sewage(1.0) .(0.0) The(0.0) conditions(0.0) that(0.0) 
+gave(0.0) rise(0.0) to(0.0) the(0.0) boil(0.0) water(0.0) advisory(0.0) in(0.0) the(0.0) District(0.0) of(0.0) Columbia(0.0) a(0.0) little(0.0) over(0.0) a(0.0) year(0.0) ago(0.0) were(0.0) in(0.0) 
+part(0.0) the(0.0) result(0.0) of(0.0) conditions(0.0) in(0.0) upstream(0.0) States(0.0) .(0.0) Lakes(0.0) in(0.0) upstate(1.0) New(1.0) York(1.0) such(0.0) as(0.0) Lake(0.0) Champlain(1.0) are(0.0) being(0.0) 
+impacted(0.0) by(0.0) pollution(1.0) from(0.0) Vermont(1.0) as(0.0) well(0.0) as(0.0) New(0.0) York(1.0) .(0.0) Even(0.0) though(0.0) H.R(0.0) .(0.0) 5(0.0) is(0.0) not(0.0) intended(0.0) to(0.0) 
+apply(0.0) to(0.0) current(0.0) laws(1.0) ,(0.0) it(0.0) still(0.0) would(0.0) make(0.0) it(0.0) more(0.0) difficult(0.0) and(0.0) more(0.0) cumbersome(1.0) for(0.0) the(0.0) Federal(1.0) Government(1.0) to(0.0) 
+fulfill(0.0) its(0.0) duty(0.0) to(0.0) protect(0.0) the(0.0) citizenry(1.0) from(0.0) significant(0.0) health(1.0) and(0.0) safety(0.0) consequences(1.0) of(0.0) transborder(1.0) pollution(1.0) .(0.0) It(0.0) could(0.0) do(0.0) 
+so(0.0) by(0.0) limiting(1.0) the(0.0) Government(1.0) 's(0.0) ability(0.0) to(0.0) add(0.0) new(0.0) requirements(0.0) where(0.0) necessary(0.0) to(0.0) protect(1.0) human(0.0) health(1.0) ,(0.0) and(0.0) reducing(1.0) 
+or(0.0) excusing(1.0) those(0.0) requirements(1.0) where(0.0) Federal(1.0) funding(1.0) is(0.0) reduced(0.0) .(0.0) I(0.0) noted(0.0) earlier(0.0) that(0.0) we(0.0) should(0.0) call(0.0) H.R(0.0) .(0.0) 5(0.0) 
+The(0.0) Law(1.0) of(0.0) Unintended(1.0) Consequences(1.0) .(0.0) The(0.0) Towns(1.0) amendment(0.0) provides(0.0) a(0.0) perfect(0.0) example(0.0) of(0.0) what(0.0) I(0.0) can(0.0) only(0.0) assume(0.0) was(0.0) 
+an(0.0) unintended(0.0) consequence(0.0) of(0.0) H.R(0.0) .(0.0) 5(0.0) --(0.0) that(0.0) the(0.0) bill(1.0) restricts(1.0) the(0.0) Federal(1.0) Government(1.0) 's(0.0) ability(0.0) to(0.0) protect(0.0) 
+
+
+----- below are rationale words -----
+
+strike	MINETA	
+amendment	amendment	
+flaw	bill	Towns	
+deprive	constituents	impacts	health	
+emanates	governments	
+constituents	protections	Federal	Government	
+fundamental	protecting	health	safety	citizens	legitimate	
+Federal	State	governments	
+Federal	
+Government	protecting	citizens	health	impacts	caused	pollution	
+pollution	political	provisions	Clean	
+obligations	governments	clean	water	
+pollution	citizens	
+discharges	sewage	municipal	governments	New	York	
+Connecticut	interstate	pollution	Long	discharges	sewage	
+Mississippi	Louisiana	dischargers	inadequately	sewage	
+
+upstate	New	York	Champlain	
+pollution	Vermont	York	
+laws	cumbersome	Federal	Government	
+citizenry	health	consequences	transborder	pollution	
+limiting	Government	protect	health	reducing	
+excusing	requirements	Federal	funding	
+Law	Unintended	Consequences	Towns	
+bill	restricts	Federal	Government	
+
+reads % = 0.188

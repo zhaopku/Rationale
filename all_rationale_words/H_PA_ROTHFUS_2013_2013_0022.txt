@@ -1,0 +1,36 @@
+This is from a Republican
+----- below is the original text -----
+Price(0.0) for(0.0) his(0.0) work(0.0) on(0.0) the(0.0) Fairness(0.0) for(0.0) American(0.0) Families(1.0) Act(0.0) ,(0.0) and(0.0) I(0.0) rise(1.0) in(0.0) support(0.0) of(0.0) the(0.0) legislation(0.0) .(0.0) 
+Mr.(1.0) Speaker(1.0) ,(0.0) President(1.0) Obama(1.0) made(0.0) many(0.0) promises(1.0) when(0.0) promoting(0.0) his(0.0) health(1.0) care(0.0) law(1.0) .(0.0) He(0.0) promised(0.0) that(0.0) ,(0.0) if(0.0) 
+you(1.0) liked(1.0) your(0.0) coverage(1.0) ,(0.0) you(1.0) could(0.0) keep(1.0) it(0.0) ;(0.0) he(0.0) promised(1.0) that(0.0) it(0.0) would(1.0) lower(1.0) the(0.0) cost(0.0) of(0.0) premiums(1.0) 
+;(0.0) he(0.0) promised(1.0) that(0.0) it(0.0) would(1.0) create(0.0) new(1.0) jobs(1.0) and(0.0) promote(0.0) economic(0.0) growth(1.0) .(0.0) Unfortunately(1.0) ,(0.0) western(1.0) Pennsylvania(1.0) workers(1.0) and(0.0) 
+families(0.0) are(0.0) experiencing(1.0) just(1.0) the(0.0) opposite(0.0) .(0.0) A(1.0) mom(1.0) who(0.0) works(0.0) at(0.0) a(0.0) food(0.0) service(0.0) company(0.0) in(0.0) Beaver(1.0) County(1.0) ,(0.0) 
+Pennsylvania(1.0) ,(0.0) called(0.0) my(0.0) office(1.0) last(1.0) week(1.0) to(0.0) talk(0.0) for(0.0) an(0.0) hour(0.0) about(0.0) how(0.0) the(0.0) law(1.0) is(0.0) impacting(1.0) her(0.0) family(0.0) 
+.(0.0) She(0.0) just(1.0) had(0.0) her(0.0) hours(0.0) cut(1.0) by(0.0) almost(0.0) half(0.0) thanks(1.0) to(0.0) the(0.0) employer(1.0) mandate(1.0) .(0.0) Her(0.0) husband(0.0) 's(0.0) job(0.0) 
+security(0.0) is(0.0) also(1.0) now(0.0) at(0.0) risk(0.0) .(0.0) The(0.0) lost(0.0) hours(0.0) ,(0.0) income(1.0) ,(0.0) and(0.0) job(0.0) security(0.0) have(0.0) made(0.0) it(0.0) difficult(0.0) 
+for(0.0) them(0.0) to(0.0) afford(0.0) the(0.0) necessities(1.0) of(0.0) life(0.0) ,(0.0) and(0.0) it(0.0) will(0.0) make(0.0) it(0.0) almost(0.0) impossible(0.0) to(0.0) send(0.0) their(0.0) daughter(0.0) 
+to(0.0) college(1.0) next(0.0) year(0.0) .(0.0) President(1.0) Obama(1.0) recently(0.0) postponed(0.0) the(0.0) employer(1.0) mandate(1.0) .(0.0) In(0.0) so(1.0) doing(0.0) ,(0.0) he(0.0) has(0.0) conceded(1.0) 
+that(0.0) the(0.0) law(1.0) is(0.0) unworkable(1.0) for(0.0) businesses(1.0) .(0.0) If(1.0) businesses(1.0) deserve(0.0) a(0.0) break(0.0) from(0.0) ObamaCare(1.0) ,(0.0) then(0.0) why(0.0) do(0.0) n't(0.0) 
+the(0.0) rest(0.0) of(0.0) the(0.0) American(0.0) people(0.0) ?(0.0) We(0.0) need(0.0) workable(0.0) ,(0.0) commonsense(1.0) ,(0.0) and(0.0) patient-centered(1.0) reforms(1.0) that(0.0) increase(1.0) access(0.0) to(0.0) 
+care(0.0) and(0.0) reduce(1.0) costs(1.0) .(0.0) Today(0.0) 's(0.0) legislation(0.0) is(0.0) a(0.0) necessary(0.0) first(0.0) step(0.0) in(0.0) achieving(1.0) the(0.0) kind(1.0) of(0.0) health(1.0) care(0.0) 
+reform(0.0) that(0.0) the(0.0) American(0.0) people(0.0) deserve(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Families	rise	
+Mr.	Speaker	President	Obama	promises	health	law	
+you	liked	coverage	you	keep	promised	would	lower	premiums	
+promised	would	new	jobs	growth	Unfortunately	western	Pennsylvania	workers	
+experiencing	just	A	mom	Beaver	County	
+Pennsylvania	office	last	week	law	impacting	
+just	cut	thanks	employer	mandate	
+also	income	
+necessities	
+college	President	Obama	employer	mandate	so	conceded	
+law	unworkable	businesses	If	businesses	ObamaCare	
+commonsense	patient-centered	reforms	increase	
+reduce	costs	achieving	kind	health	
+
+
+reads % = 0.2574626865671642

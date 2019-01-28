@@ -1,0 +1,22 @@
+This is from a Republican
+----- below is the original text -----
+We(0.0) talk(0.0) about(0.0) the(0.0) Suburban(0.0) Agenda(1.0) ,(0.0) what(0.0) is(0.0) in(0.0) it(0.0) ,(0.0) which(0.0) is(0.0) pro-school(0.0) ,(0.0) pro-health(1.0) care(1.0) ,(0.0) pro-environment(1.0) legislation(1.0) 
+,(0.0) and(0.0) what(0.0) is(0.0) not(0.0) ,(0.0) which(0.0) is(0.0) a(0.0) tax(0.0) increase(1.0) on(0.0) the(0.0) American(0.0) people(0.0) .(0.0) There(0.0) is(0.0) the(0.0) argument(1.0) 
+that(0.0) is(0.0) made(0.0) very(0.0) often(0.0) here(0.0) in(0.0) Washington(1.0) that(0.0) the(0.0) only(0.0) way(0.0) to(0.0) cure(0.0) our(0.0) financial(1.0) woes(1.0) is(0.0) a(0.0) tax(0.0) 
+increase(1.0) .(0.0) But(0.0) if(0.0) I(0.0) remember(0.0) ,(0.0) looking(0.0) back(0.0) at(0.0) the(0.0) record(0.0) of(0.0) the(0.0) 1970s(1.0) ,(0.0) even(0.0) when(0.0) Congress(0.0) did(0.0) 
+raise(1.0) taxes(1.0) ,(0.0) for(0.0) every(0.0) dollar(1.0) in(0.0) taxes(1.0) that(0.0) it(0.0) raised(0.0) against(0.0) the(0.0) American(0.0) people(0.0) ,(0.0) it(0.0) spent(0.0) another(0.0) $(0.0) 
+1.08(0.0) in(0.0) new(0.0) spending(1.0) .(0.0) So(0.0) the(0.0) record(0.0) of(0.0) those(0.0) years(0.0) was(0.0) that(0.0) ,(0.0) even(0.0) though(0.0) we(0.0) were(0.0) raising(0.0) taxes(1.0) 
+,(0.0) spending(1.0) here(0.0) in(0.0) the(0.0) Congress(0.0) went(0.0) up(0.0) even(0.0) faster(0.0) ,(0.0) and(0.0) so(0.0) our(0.0) deficit(1.0) woes(1.0) became(0.0) worse(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Agenda	pro-health	care	pro-environment	legislation	
+increase	argument	
+Washington	financial	woes	
+increase	1970s	
+raise	taxes	dollar	taxes	
+spending	taxes	
+spending	deficit	woes	
+
+reads % = 0.15

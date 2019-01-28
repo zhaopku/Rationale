@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) at(0.0) this(0.0) time(0.0) I(0.0) would(1.0) like(0.0) to(0.0) yield(0.0) 5(0.0) minutes(1.0) to(0.0) my(0.0) dear(1.0) friend(0.0) and(0.0) colleague(0.0) and(0.0) the(0.0) 
+author(0.0) of(0.0) this(0.0) critically(1.0) important(0.0) bill(0.0) ,(0.0) the(0.0) Honorable(1.0) Congressman(1.0) Ed(1.0) Towns(1.0) ,(0.0) who(0.0) has(0.0) been(0.0) a(0.0) leader(1.0) during(0.0) his(0.0) 
+tenure(1.0) in(0.0) Congress(0.0) on(0.0) providing(0.0) access(0.0) to(0.0) affordable(0.0) housing(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+would	minutes	dear	
+critically	Honorable	Congressman	Ed	Towns	leader	
+tenure	housing	
+
+reads % = 0.21568627450980393

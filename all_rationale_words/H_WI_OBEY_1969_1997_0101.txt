@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+It(0.0) is(0.0) about(0.0) good(0.0) government(1.0) and(0.0) fair(0.0) government(1.0) .(0.0) This(0.0) amendment(1.0) as(0.0) far(0.0) as(0.0) I(0.0) am(0.0) concerned(0.0) is(0.0) far(0.0) superior(0.0) than(0.0) 
+that(0.0) brought(0.0) forth(0.0) by(0.0) the(0.0) committee(0.0) .(0.0) It(0.0) does(0.0) more(0.0) in(0.0) deficit(1.0) reduction(1.0) .(0.0) It(0.0) does(0.0) a(0.0) much(0.0) better(0.0) job(0.0) 
+of(0.0) guaranteeing(1.0) investments(1.0) that(0.0) we(0.0) need(0.0) to(0.0) grow(0.0) in(0.0) the(0.0) 21st(1.0) century(0.0) .(0.0) It(0.0) provides(0.0) dramatic(0.0) rather(0.0) than(0.0) token(0.0) increases(1.0) 
+in(0.0) student(0.0) aid(1.0) .(0.0) It(0.0) does(0.0) a(0.0) better(0.0) job(0.0) for(0.0) transportation(1.0) .(0.0) It(0.0) does(0.0) a(0.0) better(0.0) job(0.0) of(0.0) targeting(1.0) tax(1.0) 
+cuts(1.0) to(1.0) the(1.0) people(1.0) who(1.0) need(0.0) it(0.0) rather(0.0) than(0.0) the(0.0) people(0.0) who(0.0) lust(0.0) for(0.0) it(0.0) .(0.0) It(0.0) gives(0.0) the(0.0) tax(1.0) 
+cuts(1.0) to(1.0) people(1.0) who(1.0) are(0.0) hardworking(1.0) ,(0.0) working(0.0) people(0.0) ,(0.0) not(0.0) the(0.0) richest(1.0) 5(0.0) percent(0.0) of(0.0) people(0.0) in(0.0) the(0.0) country(1.0) 
+.(0.0) It(0.0) does(0.0) a(0.0) far(0.0) better(0.0) job(0.0) for(0.0) children(0.0) 's(0.0) health(1.0) ,(0.0) for(0.0) Medicare(1.0) ,(0.0) for(0.0) veterans(1.0) ,(0.0) it(0.0) is(0.0) 
+more(0.0) disciplined(0.0) on(0.0) defense(1.0) ,(0.0) it(0.0) targets(1.0) tax(1.0) cuts(1.0) to(1.0) small(1.0) farmers(1.0) and(1.0) small(1.0) businessmen(1.0) ,(0.0) and(0.0) it(0.0) provides(0.0) basic(0.0) 
+health(1.0) care(1.0) opportunities(0.0) for(0.0) farmers(1.0) that(0.0) they(0.0) have(0.0) not(0.0) seen(0.0) in(0.0) many(0.0) a(0.0) year(0.0) in(0.0) this(0.0) country(1.0) .(0.0) It(0.0) is(0.0) 
+far(0.0) superior(0.0) ,(0.0) it(0.0) is(0.0) far(0.0) more(0.0) just(0.0) ,(0.0) and(0.0) it(0.0) is(0.0) far(0.0) more(0.0) fiscally(1.0) responsible(0.0) .(0.0) I(0.0) commend(0.0) the(0.0) 
+gentleman(0.0) for(0.0) offering(0.0) it(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+government	government	amendment	
+deficit	reduction	
+guaranteeing	investments	21st	increases	
+aid	transportation	targeting	tax	
+cuts	to	the	people	who	tax	
+cuts	to	people	who	hardworking	richest	country	
+health	Medicare	veterans	
+defense	targets	tax	cuts	to	small	farmers	and	small	businessmen	
+health	care	farmers	country	
+fiscally	
+
+
+reads % = 0.21359223300970873

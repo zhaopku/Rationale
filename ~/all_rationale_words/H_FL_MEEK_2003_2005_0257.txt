@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) it(0.0) is(0.0) an(0.0) honor(1.0) to(0.0) address(0.0) the(0.0) House(0.0) once(1.0) again(0.0) .(0.0) I(0.0) am(1.0) glad(1.0) that(0.0) we(0.0) are(0.0) here(0.0) back(0.0) 
+in(0.0) the(0.0) people(0.0) 's(0.0) capital(1.0) of(0.0) the(0.0) United(0.0) States(0.0) to(0.0) represent(1.0) those(0.0) that(0.0) sent(1.0) us(0.0) up(0.0) here(0.0) to(0.0) represent(1.0) them(0.0) 
+.(0.0) This(0.0) hour(0.0) is(0.0) designated(1.0) by(0.0) the(0.0) Democratic(1.0) Leader(1.0) ,(0.0) the(0.0) gentlewoman(0.0) from(0.0) California(0.0) ((0.0) Ms.(1.0) Pelosi(1.0) )(0.0) ,(0.0) and(0.0) 
+the(0.0) rest(0.0) of(0.0) our(0.0) leadership(1.0) on(0.0) the(0.0) Democratic(1.0) side(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Maryland(1.0) ((0.0) Mr.(0.0) Hoyer(1.0) )(0.0) ,(0.0) also(1.0) 
+the(0.0) gentleman(0.0) from(0.0) New(0.0) Jersey(0.0) ((0.0) Mr.(0.0) Menendez(1.0) )(0.0) ,(0.0) and(0.0) the(0.0) gentleman(0.0) from(0.0) South(1.0) Carolina(1.0) ((0.0) Mr.(0.0) Clyburn(1.0) )(0.0) 
+,(0.0) our(0.0) vice(1.0) chair(0.0) of(0.0) our(0.0) caucus(1.0) ;(0.0) and(0.0) week(1.0) after(0.0) week(1.0) we(0.0) come(0.0) to(0.0) the(0.0) floor(0.0) to(0.0) share(0.0) with(0.0) 
+Americans(0.0) issues(0.0) that(0.0) are(0.0) facing(0.0) not(1.0) only(0.0) them(0.0) ,(0.0) but(0.0) also(1.0) this(0.0) country(1.0) .(0.0) I(0.0) can(1.0) tell(0.0) you(1.0) that(0.0) we(0.0) 
+appreciate(1.0) the(0.0) fact(0.0) that(0.0) the(0.0) leader(1.0) had(0.0) enough(0.0) foresight(0.0) and(0.0) insight(0.0) to(0.0) know(0.0) that(0.0) not(1.0) only(0.0) those(0.0) of(0.0) us(0.0) that(0.0) 
+are(0.0) in(0.0) the(0.0) 30-something(1.0) Working(0.0) Group(1.0) ,(0.0) but(0.0) young(0.0) Americans(0.0) ,(0.0) have(0.0) to(0.0) have(0.0) a(0.0) voice(0.0) in(0.0) this(0.0) process(0.0) .(0.0) 
+As(0.0) you(0.0) all(0.0) know(1.0) ,(0.0) in(0.0) the(0.0) aftermath(1.0) of(0.0) Hurricane(0.0) Katrina(1.0) and(0.0) a(0.0) number(0.0) of(0.0) other(0.0) issues(0.0) that(0.0) have(0.0) faced(1.0) 
+the(0.0) Nation(0.0) since(0.0) we(0.0) recessed(1.0) for(0.0) the(0.0) summer(0.0) to(0.0) go(0.0) back(0.0) to(0.0) our(0.0) districts(0.0) to(0.0) also(1.0) take(0.0) care(0.0) of(0.0) other(0.0) 
+congressional(1.0) business(1.0) ,(0.0) there(0.0) is(0.0) a(0.0) lot(0.0) that(0.0) has(0.0) happened(1.0) for(0.0) and(0.0) to(0.0) Americans(0.0) .(0.0) I(0.0) think(1.0) it(0.0) is(0.0) important(0.0) 
+for(0.0) us(0.0) to(0.0) just(1.0) reflect(1.0) a(0.0) little(0.0) bit(1.0) on(0.0) what(0.0) has(0.0) happened(1.0) as(0.0) it(0.0) relates(0.0) to(0.0) Hurricane(0.0) Katrina(1.0) .(0.0) Tonight(1.0) 
+I(0.0) am(0.0) joined(1.0) not(1.0) only(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) Ohio(1.0) ((0.0) Mr.(0.0) Ryan(1.0) )(0.0) ,(0.0) but(0.0) also(1.0) the(0.0) gentlewoman(0.0) from(0.0) 
+Florida(1.0) ((0.0) Ms.(1.0) Wasserman(1.0) Schultz(1.0) )(0.0) ,(0.0) who(0.0) is(0.0) my(0.0) neighbor(1.0) in(0.0) Florida(1.0) and(0.0) representing(0.0) south(0.0) Florida(1.0) .(0.0) The(0.0) gentlewoman(0.0) 
+from(0.0) Florida(1.0) ((0.0) Ms.(1.0) Wasserman(1.0) Schultz(1.0) )(0.0) and(0.0) I(0.0) ,(0.0) both(0.0) our(0.0) districts(0.0) were(0.0) touched(0.0) by(0.0) Hurricane(0.0) Katrina(1.0) as(0.0) a(0.0) 
+Category(1.0) 1(0.0) storm(1.0) ,(0.0) but(0.0) not(0.0) as(0.0) a(0.0) Category(1.0) 5(0.0) ,(0.0) some(0.0) may(0.0) say(1.0) 4(0.0) ,(0.0) that(0.0) hit(0.0) the(0.0) gulf(1.0) 
+coast(1.0) area(0.0) ;(0.0) and(0.0) our(0.0) hearts(1.0) go(0.0) out(0.0) to(0.0) those(0.0) individuals(0.0) that(0.0) are(0.0) going(0.0) through(0.0) the(0.0) process(1.0) .(0.0) I(0.0) think(1.0) 
+tonight(1.0) not(0.0) only(0.0) are(0.0) we(0.0) going(0.0) to(0.0) talk(0.0) about(0.0) the(0.0) issues(0.0) that(0.0) are(0.0) facing(0.0) many(0.0) of(0.0) these(0.0) families(1.0) ,(0.0) but(0.0) 
+many(0.0) of(0.0) them(0.0) are(0.0) young(0.0) families(0.0) ,(0.0) many(0.0) of(0.0) them(0.0) are(0.0) elderly(1.0) ;(0.0) and(0.0) because(0.0) of(0.0) the(0.0) mistakes(1.0) and(0.0) the(0.0) 
+failures(0.0) in(0.0) some(0.0) part(0.0) of(0.0) our(0.0) emergency(1.0) management(0.0) agency(0.0) and(0.0) other(0.0) responding(0.0) agencies(0.0) ,(0.0) there(0.0) was(0.0) loss(0.0) of(0.0) life(0.0) that(0.0) 
+could(1.0) have(0.0) been(0.0) prevented(1.0) .(0.0) I(0.0) think(1.0) we(0.0) should(0.0) take(0.0) this(0.0) in(0.0) a(0.0) very(0.0) serious(0.0) way(0.0) .(0.0) The(0.0) responsibility(0.0) of(0.0) 
+this(0.0) Congress(0.0) ,(0.0) one(0.0) ,(0.0) is(0.0) to(0.0) ask(0.0) the(0.0) questions(1.0) and(0.0) to(0.0) make(0.0) sure(1.0) it(0.0) does(0.0) not(0.0) happen(0.0) again(0.0) .(0.0) 
+I(0.0) do(0.0) commend(1.0) not(0.0) only(0.0) the(0.0) Democratic(1.0) leader(1.0) for(0.0) recommending(0.0) that(0.0) there(0.0) be(0.0) a(0.0) task(1.0) force(0.0) or(1.0) a(0.0) select(0.0) committee(0.0) 
+to(0.0) deal(0.0) with(0.0) the(0.0) issue(0.0) of(0.0) the(0.0) recovery(1.0) process(0.0) and(0.0) to(0.0) be(0.0) able(0.0) to(0.0) review(0.0) the(0.0) whole(0.0) Hurricane(0.0) Katrina(1.0) 
+
+
+----- below are rationale words -----
+
+honor	once	am	glad	
+capital	represent	sent	represent	
+designated	Democratic	Leader	Ms.	Pelosi	
+leadership	Democratic	Maryland	Hoyer	also	
+Menendez	South	Carolina	Clyburn	
+vice	caucus	week	week	
+not	also	country	can	you	
+appreciate	leader	not	
+30-something	Group	
+know	aftermath	Katrina	faced	
+recessed	also	
+congressional	business	happened	think	
+just	reflect	bit	happened	Katrina	Tonight	
+joined	not	Ohio	Ryan	also	
+Florida	Ms.	Wasserman	Schultz	neighbor	Florida	Florida	
+Florida	Ms.	Wasserman	Schultz	Katrina	
+Category	storm	Category	say	gulf	
+coast	hearts	process	think	
+tonight	families	
+elderly	mistakes	
+emergency	
+could	prevented	think	
+questions	sure	
+commend	Democratic	leader	task	or	
+recovery	Katrina	
+
+reads % = 0.19

@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) bring(0.0) to(0.0) the(0.0) attention(0.0) of(0.0) the(0.0) Members(0.0) of(0.0) the(0.0) House(0.0) today(0.0) the(0.0) following(0.0) Philadelphia(1.0) Inquirer(1.0) 
+headline(1.0) where(0.0) it(0.0) says(0.0) gambling(0.0) efforts(0.0) die(0.0) in(0.0) Pennsylvania(1.0) Senate(0.0) .(0.0) This(0.0) Monday(0.0) ,(0.0) the(0.0) Pennsylvania(1.0) State(0.0) Senate(0.0) rejected(0.0) a(0.0) 
+resolution(0.0) by(0.0) the(0.0) vote(1.0) of(0.0) 28(0.0) to(0.0) 21(0.0) calling(0.0) for(0.0) three(0.0) statewide(1.0) gambling(0.0) referendums(1.0) .(0.0) Gambling(0.0) was(0.0) rejected(0.0) despite(0.0) the(0.0) 
+gambling(1.0) lobby(0.0) 's(0.0) political(1.0) campaign(1.0) contribution(0.0) of(0.0) $(0.0) 606,000(0.0) .(0.0) This(0.0) is(0.0) a(0.0) very(0.0) large(0.0) amount(0.0) of(0.0) money(1.0) for(0.0) a(0.0) 
+State(0.0) with(0.0) no(0.0) gambling(0.0) except(0.0) for(0.0) horse(0.0) racing(0.0) and(0.0) State(0.0) lotteries(0.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) people(0.0) got(0.0) involved(0.0) at(0.0) the(0.0) 
+grass(0.0) roots(0.0) level(0.0) .(0.0) The(0.0) people(0.0) learned(0.0) the(0.0) truth(0.0) about(0.0) how(0.0) gambling(1.0) is(0.0) bad(0.0) for(0.0) families(1.0) and(0.0) communities(1.0) ,(0.0) especially(0.0) 
+the(0.0) poor(1.0) and(0.0) the(0.0) Nation(1.0) 's(0.0) youth(1.0) .(0.0) Also(0.0) ,(0.0) the(0.0) newspapers(1.0) had(0.0) the(0.0) courage(0.0) to(0.0) speak(0.0) out(0.0) about(0.0) how(0.0) 
+gambling(1.0) brings(0.0) crime(1.0) ,(0.0) and(0.0) corruption(1.0) ,(0.0) and(0.0) cannibalizes(1.0) local(0.0) businesses(0.0) and(0.0) breaks(0.0) up(0.0) families(0.0) .(0.0) What(0.0) took(0.0) place(0.0) in(0.0) 
+Pennsylvania(1.0) should(0.0) give(0.0) great(0.0) hope(0.0) to(0.0) any(0.0) community(0.0) that(0.0) if(0.0) it(0.0) wants(0.0) to(0.0) eradicate(1.0) and(0.0) remove(0.0) gambling(1.0) or(0.0) keep(0.0) it(0.0) 
+out(0.0) ,(0.0) it(0.0) can(0.0) do(0.0) it(0.0) .(0.0) I(0.0) congratulate(0.0) the(0.0) Pennsylvania(1.0) State(0.0) Senate(0.0) for(0.0) its(0.0) actions(0.0) on(0.0) Monday(0.0) .(0.0) [(0.0) 
+From(0.0) the(0.0) Philadelphia(1.0) Inquirer(1.0) ,(0.0) Mar(0.0) .(0.0) 8(0.0) ,(0.0) 1999(0.0) ](0.0) Gambling(1.0) Contributions(0.0) gambling(0.0) interests(0.0) have(0.0) donated(0.0) generously(0.0) to(0.0) Ridge(0.0) 
+,(0.0) legislative(0.0) leaders(0.0) Harrisburg.(0.0) --(0.0) Gov(1.0) .(0.0) Tom(0.0) Ridge(1.0) and(0.0) legislative(0.0) leaders(0.0) have(0.0) accepted(0.0) at(0.0) least(0.0) $(0.0) 606,000(0.0) in(0.0) contributions(1.0) 
+from(0.0) gambling(1.0) interests(0.0) and(0.0) their(0.0) lobbyists(1.0) in(0.0) recent(0.0) years(0.0) ,(0.0) according(0.0) to(0.0) a(0.0) report(0.0) published(0.0) Monday(0.0) .(0.0) Ridge(0.0) received(0.0) about(0.0) 
+$(0.0) 240,000(0.0) from(0.0) gambling(1.0) interests(1.0) ,(0.0) including(0.0) lobbyists(1.0) ,(0.0) since(0.0) he(0.0) began(0.0) raising(0.0) money(1.0) for(0.0) his(0.0) 1995(0.0) campaign(0.0) .(0.0) Legislative(0.0) 
+leaders(0.0) and(0.0) their(0.0) committees(0.0) took(0.0) in(0.0) $(0.0) 366,100(0.0) ,(0.0) according(0.0) to(0.0) the(0.0) analysis(0.0) by(0.0) The(0.0) Philadelphia(1.0) Inquirer(1.0) .(0.0) Lawmakers(0.0) and(0.0) 
+lobbyists(1.0) rejected(1.0) the(0.0) notion(1.0) of(0.0) any(0.0) link(0.0) between(0.0) campaign(1.0) money(1.0) and(0.0) legislative(0.0) action(1.0) .(0.0) Further(0.0) ,(0.0) they(0.0) said(0.0) the(0.0) gambling(1.0) 
+interests(1.0) have(0.0) been(0.0) relatively(0.0) restrained(0.0) in(0.0) their(0.0) giving(0.0) ,(0.0) compared(0.0) with(0.0) what(0.0) has(0.0) taken(0.0) place(0.0) in(0.0) other(0.0) states(1.0) .(0.0) ``(0.0) 
+I(0.0) do(0.0) n't(0.0) think(0.0) the(0.0) industry(1.0) really(0.0) felt(0.0) that(0.0) ((0.0) large(0.0) contributions(1.0) )(0.0) was(0.0) the(0.0) approach(0.0) they(0.0) wanted(0.0) to(0.0) take(0.0) 
+,(0.0) ''(0.0) said(0.0) Obra(1.0) S.(0.0) Kernodle(1.0) 3d(0.0) ,(0.0) a(0.0) lawyer-lobbyist(0.0) who(0.0) is(0.0) a(0.0) principal(0.0) in(0.0) a(0.0) Philadelphia(0.0) company(0.0) that(0.0) wants(0.0) 
+to(0.0) build(0.0) a(0.0) riverboat(0.0) casino(0.0) .(0.0) ``(0.0) I(0.0) ca(0.0) n't(0.0) see(0.0) a(0.0) relationship(0.0) between(0.0) the(0.0) contributions(0.0) and(0.0) a(0.0) vote(0.0) on(0.0) 
+any(0.0) issue(0.0) --(0.0) especially(0.0) this(0.0) issue(0.0) ,(0.0) ''(0.0) said(0.0) Senate(1.0) Minority(1.0) Leader(0.0) Robert(0.0) J.(1.0) Mellow(1.0) ,(0.0) D-Lackawanna(0.0) .(0.0) Anti-gambling(0.0) activists(0.0) 
+say(0.0) the(0.0) contributions(0.0) are(0.0) unseemly(0.0) and(0.0) that(0.0) the(0.0) money(0.0) at(0.0) least(0.0) helped(0.0) push(0.0) gambling(1.0) to(0.0) the(0.0) top(0.0) of(0.0) the(0.0) 1999(0.0) 
+legislative(0.0) agenda(1.0) .(0.0) Gambling(0.0) legislation(0.0) ``(1.0) is(0.0) being(0.0) passed(0.0) on(0.0) a(0.0) cash(0.0) and(0.0) carry(0.0) basis(0.0) ,(0.0) ''(0.0) said(0.0) Tom(1.0) Grey(1.0) 
+,(0.0) a(0.0) national(0.0) antigambling(1.0) activist(1.0) who(0.0) has(0.0) been(0.0) involved(0.0) in(0.0) efforts(1.0) to(0.0) defeat(0.0) the(0.0) referendum(1.0) bill(0.0) .(0.0) ``(0.0) Legalized(1.0) gambling(1.0) 
+gives(0.0) ((0.0) lawmakers(0.0) )(1.0) the(0.0) cash(0.0) ,(0.0) and(0.0) they(0.0) carry(0.0) the(0.0) bill(1.0) .(0.0) ''(0.0) ``(0.0) Special(0.0) interests(0.0) ,(0.0) through(0.0) 
+
+
+----- below are rationale words -----
+
+Philadelphia	Inquirer	
+headline	Pennsylvania	Pennsylvania	
+vote	statewide	referendums	
+gambling	political	campaign	money	
+Speaker	
+gambling	families	communities	
+poor	Nation	youth	newspapers	
+gambling	crime	corruption	cannibalizes	
+Pennsylvania	eradicate	gambling	
+Pennsylvania	
+Philadelphia	Inquirer	Gambling	
+Gov	Ridge	contributions	
+gambling	lobbyists	
+gambling	interests	lobbyists	money	
+Philadelphia	Inquirer	
+lobbyists	rejected	notion	campaign	money	action	gambling	
+interests	states	
+industry	contributions	
+Obra	Kernodle	
+
+Senate	Minority	J.	Mellow	
+gambling	
+agenda	``	Tom	Grey	
+antigambling	activist	efforts	referendum	Legalized	gambling	
+)	bill	
+
+reads % = 0.144

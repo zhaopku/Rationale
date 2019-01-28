@@ -1,0 +1,16 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) The(0.0) SPEAKER(0.0) pro(0.0) tempore(0.0) ((1.0) Mr.(0.0) Reichert(1.0) )(0.0) .(0.0) The(0.0) 
+question(0.0) is(0.0) on(0.0) the(0.0) motion(0.0) offered(0.0) by(0.0) the(0.0) gentlewoman(0.0) from(0.0) Florida(0.0) ((0.0) Ms.(1.0) Ros-Lehtinen(1.0) )(0.0) that(1.0) the(0.0) House(0.0) suspend(0.0) the(0.0) 
+rules(0.0) and(0.0) agree(0.0) to(0.0) the(0.0) resolution(0.0) ,(0.0) H.(0.0) Res(0.0) .(0.0) 575(0.0) ,(0.0) as(0.0) amended(0.0) .(0.0) The(0.0) question(0.0) was(0.0) taken(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+(	Reichert	
+Ms.	Ros-Lehtinen	that	
+
+
+
+reads % = 0.08196721311475409

@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) this(0.0) is(0.0) a(0.0) very(0.0) good(0.0) example(0.0) of(0.0) what(0.0) happens(0.0) when(0.0) colleagues(0.0) work(0.0) together(0.0) .(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) Mr.(0.0) 
+Royce(1.0) and(1.0) Mr.(0.0) Engel(1.0) very(1.0) much(0.0) for(0.0) including(0.0) in(0.0) this(0.0) legislation(1.0) language(1.0) from(0.0) a(0.0) bipartisan(1.0) bill(1.0) sponsored(1.0) by(1.0) myself(0.0) and(0.0) 
+my(0.0) colleague(0.0) ,(0.0) Mr.(0.0) Trey(1.0) Radel(1.0) ,(0.0) also(0.0) from(0.0) Florida(0.0) .(0.0) This(0.0) particular(0.0) provision(0.0) would(0.0) authorize(0.0) the(0.0) State(0.0) Department(0.0) to(0.0) 
+use(0.0) the(0.0) ``(0.0) best(0.0) value(0.0) ''(0.0) contracting(0.0) award(0.0) method(0.0) in(0.0) high-risk(0.0) ,(0.0) high-threat(1.0) areas(0.0) around(0.0) the(0.0) world(0.0) ,(0.0) ensuring(0.0) the(0.0) 
+safety(0.0) of(0.0) American(0.0) men(0.0) and(0.0) women(0.0) serving(0.0) our(0.0) country(0.0) abroad(0.0) .(0.0) With(0.0) this(0.0) bipartisan(1.0) effort(1.0) ,(0.0) the(0.0) State(0.0) Department(0.0) will(0.0) 
+be(0.0) allowed(0.0) to(0.0) consider(0.0) factors(0.0) beyond(0.0) only(0.0) price(0.0) in(0.0) making(0.0) security(0.0) contracts(0.0) ,(0.0) giving(0.0) the(0.0) State(0.0) Department(0.0) the(0.0) flexibility(0.0) and(0.0) 
+tools(0.0) they(0.0) need(0.0) to(0.0) keep(0.0) those(0.0) who(0.0) serve(0.0) us(0.0) abroad(0.0) safe(0.0) from(0.0) harm(0.0) and(0.0) ensure(0.0) taxpayer(1.0) money(1.0) is(0.0) being(0.0) used(0.0) 
+effectively(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) the(0.0) attack(1.0) on(0.0) our(0.0) embassy(1.0) in(0.0) Benghazi(1.0) was(0.0) a(0.0) tragic(0.0) reminder(0.0) of(0.0) the(0.0) security(0.0) environment(0.0) 
+in(0.0) which(0.0) many(0.0) of(0.0) our(0.0) diplomats(1.0) serve(0.0) .(0.0) And(0.0) it(0.0) is(0.0) our(0.0) responsibility(1.0) here(0.0) in(0.0) Congress(1.0) to(0.0) do(0.0) everything(0.0) in(0.0) 
+our(0.0) power(0.0) to(0.0) protect(0.0) Americans(1.0) and(0.0) our(0.0) embassies(1.0) overseas(0.0) .(0.0) Again(0.0) ,(0.0) I(0.0) thank(0.0) Mr.(0.0) Royce(1.0) and(0.0) Mr.(0.0) Engel(1.0) for(0.0) 
+their(0.0) good(0.0) work(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Royce	and	Engel	very	legislation	language	bipartisan	bill	sponsored	by	
+Trey	Radel	
+high-threat	
+bipartisan	effort	
+
+taxpayer	money	
+Speaker	attack	embassy	Benghazi	
+diplomats	responsibility	Congress	
+Americans	embassies	Royce	Engel	
+
+
+reads % = 0.13658536585365855

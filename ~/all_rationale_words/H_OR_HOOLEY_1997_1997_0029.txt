@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) pursuant(1.0) to(0.0) clause(1.0) 2(0.0) of(0.0) rule(0.0) IX(1.0) ,(0.0) I(0.0) hereby(1.0) give(0.0) notice(1.0) of(0.0) my(0.0) intention(0.0) to(0.0) offer(0.0) a(0.0) resolution(0.0) 
+which(0.0) raises(0.0) a(0.0) question(0.0) of(0.0) the(0.0) privileges(1.0) of(0.0) the(0.0) House(0.0) .(0.0) The(0.0) form(1.0) of(0.0) the(0.0) resolution(0.0) is(0.0) as(0.0) follows(1.0) :(0.0) 
+Whereas(0.0) ,(0.0) Loretta(1.0) Sanchez(1.0) was(0.0) issued(1.0) a(0.0) certificate(0.0) of(0.0) election(1.0) as(0.0) a(0.0) duly(1.0) elected(1.0) Member(0.0) of(0.0) Congress(0.0) from(0.0) the(0.0) 46th(1.0) 
+District(0.0) of(0.0) California(0.0) and(0.0) was(0.0) seated(1.0) by(0.0) the(0.0) U.S.(0.0) House(0.0) of(0.0) Representatives(0.0) on(0.0) January(0.0) 7(0.0) ,(0.0) 1997(1.0) ;(0.0) and(0.0) Whereas(1.0) 
+a(0.0) Notice(1.0) of(0.0) Contest(1.0) of(0.0) Election(1.0) was(0.0) filed(0.0) with(0.0) the(0.0) Clerk(1.0) of(0.0) the(0.0) House(0.0) by(0.0) Mr.(0.0) Robert(1.0) Dornan(1.0) on(0.0) December(1.0) 
+26(0.0) ,(0.0) 1996(0.0) ;(0.0) and(0.0) Whereas(0.0) the(0.0) Task(0.0) Force(1.0) on(0.0) the(0.0) Contested(1.0) Election(1.0) in(0.0) the(0.0) 46th(1.0) District(0.0) of(0.0) California(0.0) met(0.0) 
+on(0.0) February(1.0) 26(1.0) ,(0.0) 1997(1.0) in(0.0) Washington(1.0) ,(0.0) D.C.(1.0) ,(0.0) on(0.0) April(0.0) 19(0.0) ,(0.0) 1997(1.0) in(0.0) Orange(1.0) County(1.0) ,(0.0) California(0.0) 
+,(0.0) and(0.0) October(0.0) 24(0.0) ,(0.0) 1997(1.0) in(0.0) Washington(1.0) ,(0.0) D.C.(1.0) ,(0.0) and(0.0) Whereas(0.0) the(0.0) allegations(0.0) made(0.0) by(0.0) Mr.(0.0) Robert(1.0) Dornan(1.0) 
+have(0.0) been(0.0) largely(0.0) found(0.0) to(0.0) be(0.0) without(0.0) merit(1.0) :(1.0) charges(1.0) of(0.0) improper(1.0) voting(1.0) from(0.0) a(0.0) business(0.0) ,(0.0) rather(0.0) than(0.0) a(0.0) 
+resident(1.0) address(1.0) ;(0.0) underage(1.0) voting(1.0) ;(0.0) double(1.0) voting(1.0) ;(0.0) and(0.0) charges(1.0) of(0.0) unusually(1.0) large(0.0) number(0.0) of(0.0) individuals(0.0) voting(1.0) from(0.0) the(0.0) 
+same(1.0) address(0.0) .(0.0) It(0.0) was(0.0) found(0.0) that(0.0) voting(1.0) from(0.0) the(0.0) same(1.0) address(0.0) included(0.0) a(0.0) Marines(1.0) barracks(1.0) and(0.0) the(0.0) domicile(1.0) of(0.0) 
+nuns(1.0) ,(0.0) that(0.0) business(1.0) addresses(1.0) were(0.0) legal(0.0) residences(1.0) for(0.0) the(0.0) individuals(0.0) ,(0.0) including(1.0) the(1.0) zoo(1.0) keeper(0.0) of(0.0) the(0.0) Santa(1.0) Ana(1.0) 
+zoo(1.0) ,(0.0) that(0.0) duplicate(0.0) voting(1.0) was(0.0) by(0.0) different(1.0) individuals(0.0) and(0.0) those(0.0) accused(1.0) of(0.0) underage(1.0) voting(1.0) were(0.0) of(0.0) age(1.0) ;(0.0) and(0.0) 
+Whereas(0.0) the(0.0) Committee(0.0) on(0.0) House(0.0) Oversight(0.0) has(0.0) issued(1.0) unprecedented(0.0) subpoenas(1.0) to(0.0) the(0.0) Immigration(1.0) and(0.0) Naturalization(1.0) Service(0.0) to(0.0) compare(0.0) their(0.0) records(0.0) 
+with(0.0) Orange(1.0) County(1.0) voter(1.0) registration(0.0) records(0.0) ,(0.0) the(0.0) first(0.0) time(0.0) in(0.0) any(1.0) election(1.0) in(0.0) the(0.0) history(0.0) of(0.0) the(0.0) United(0.0) States(0.0) 
+that(0.0) the(0.0) INS(1.0) has(0.0) been(0.0) asked(0.0) by(0.0) Congress(0.0) to(0.0) verify(0.0) the(0.0) citizenship(1.0) of(0.0) voters(1.0) ;(0.0) and(0.0) Whereas(0.0) the(0.0) INS(1.0) has(0.0) 
+complied(0.0) with(0.0) the(0.0) Committee(0.0) 's(0.0) request(0.0) and(0.0) ,(0.0) at(0.0) the(0.0) Committee(0.0) 's(0.0) request(0.0) ,(0.0) has(0.0) been(0.0) doing(0.0) a(0.0) manual(0.0) check(0.0) 
+of(0.0) its(0.0) paper(0.0) files(1.0) and(0.0) providing(0.0) worksheets(1.0) containing(0.0) supplemental(1.0) information(0.0) on(0.0) that(0.0) manual(0.0) check(0.0) to(0.0) the(0.0) Committee(0.0) on(0.0) House(0.0) Oversight(0.0) 
+for(0.0) over(0.0) 5(0.0) months(1.0) ;(0.0) and(0.0) Whereas(1.0) some(0.0) Members(0.0) of(0.0) the(0.0) House(0.0) Oversight(0.0) Committee(0.0) are(0.0) now(0.0) seeking(0.0) a(0.0) duplicate(0.0) and(0.0) 
+dilatory(1.0) review(1.0) of(0.0) materials(1.0) already(0.0) in(0.0) the(0.0) Committee(0.0) 's(0.0) possession(0.0) by(0.0) the(0.0) Secretary(1.0) of(0.0) State(1.0) of(0.0) California(0.0) ;(0.0) and(1.0) Whereas(1.0) 
+the(0.0) Task(0.0) Force(1.0) on(0.0) the(0.0) Contested(1.0) Election(1.0) in(0.0) the(0.0) 46th(1.0) District(0.0) of(0.0) California(0.0) and(0.0) the(0.0) Committee(0.0) have(0.0) been(0.0) reviewing(1.0) these(0.0) 
+materials(1.0) and(0.0) has(0.0) all(0.0) the(0.0) information(0.0) it(0.0) needs(0.0) regarding(0.0) who(0.0) voted(1.0) in(0.0) the(0.0) 46th(1.0) District(0.0) and(0.0) all(0.0) the(0.0) information(0.0) it(0.0) 
+needs(0.0) to(0.0) make(0.0) judgments(1.0) concerning(0.0) these(0.0) votes(1.0) ;(0.0) and(0.0) Whereas(0.0) the(0.0) Committee(0.0) on(0.0) House(0.0) Oversight(0.0) has(0.0) after(0.0) over(0.0) nine(1.0) months(1.0) 
+of(0.0) review(0.0) and(0.0) investigation(0.0) failed(0.0) to(0.0) present(1.0) credible(1.0) evidence(0.0) to(0.0) change(0.0) the(0.0) outcome(1.0) of(0.0) the(0.0) election(1.0) of(0.0) Congresswoman(1.0) Sanchez(1.0) and(0.0) 
+is(0.0) pursuing(1.0) never(0.0) ending(0.0) and(0.0) unsubstantiated(1.0) areas(0.0) of(0.0) review(0.0) ;(0.0) and(0.0) Whereas(0.0) ,(0.0) Contestant(1.0) Robert(0.0) Dornan(1.0) has(0.0) not(1.0) shown(0.0) 
+
+
+----- below are rationale words -----
+
+pursuant	clause	IX	hereby	notice	
+privileges	form	follows	
+Loretta	Sanchez	issued	election	duly	elected	46th	
+seated	1997	Whereas	
+Notice	Contest	Election	Clerk	Robert	Dornan	December	
+Force	Contested	Election	46th	
+February	26	1997	Washington	D.C.	1997	Orange	County	
+1997	Washington	D.C.	Robert	Dornan	
+merit	:	charges	improper	voting	
+resident	address	underage	voting	double	voting	charges	unusually	voting	
+same	voting	same	Marines	barracks	domicile	
+nuns	business	addresses	residences	including	the	zoo	Santa	Ana	
+zoo	voting	different	accused	underage	voting	age	
+issued	subpoenas	Immigration	Naturalization	
+Orange	County	voter	any	election	
+INS	citizenship	voters	INS	
+
+files	worksheets	supplemental	
+months	Whereas	
+dilatory	review	materials	Secretary	State	and	Whereas	
+Force	Contested	Election	46th	reviewing	
+materials	voted	46th	
+judgments	votes	nine	months	
+present	credible	outcome	election	Congresswoman	Sanchez	
+pursuing	unsubstantiated	Contestant	Dornan	not	
+
+reads % = 0.252

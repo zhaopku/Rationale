@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+It(0.0) is(0.0) an(0.0) amendment(1.0) to(0.0) section(0.0) 2(0.0) ((0.0) 7(0.0) )(0.0) to(0.0) give(0.0) rights(1.0) to(0.0) local(0.0) government(0.0) vis-a-(0.0) vis(1.0) State(0.0) governments(0.0) on(0.0) 
+Federal(0.0) matching(0.0) programs(0.0) ,(0.0) an(0.0) amendment(1.0) to(0.0) section(0.0) 102(0.0) ((0.0) a(0.0) )(0.0) ((0.0) 1(0.0) )(0.0) that(0.0) does(0.0) the(0.0) same(0.0) thing(0.0) 
+for(0.0) the(0.0) Commission(0.0) study(0.0) ,(0.0) and(0.0) an(0.0) amendment(0.0) in(0.0) section(0.0) 301(0.0) that(0.0) provides(0.0) for(0.0) the(0.0) same(0.0) rights(1.0) of(0.0) local(0.0) governments(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+amendment	rights	vis	
+amendment	
+rights	
+
+
+reads % = 0.08064516129032258

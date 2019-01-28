@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(1.0) the(0.0) gentleman(0.0) from(0.0) Florida(1.0) for(0.0) yielding(0.0) me(0.0) this(0.0) time(0.0) ,(0.0) and(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) 
+I(0.0) may(0.0) consume(0.0) .(0.0) ((0.0) Mr(0.0) .(1.0) FROST(1.0) asked(0.0) and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) 
+)(0.0) Speaker(0.0) ,(0.0) for(0.0) months(1.0) now(0.0) ,(0.0) Republicans(1.0) have(0.0) held(0.0) hostage(0.0) some(0.0) of(0.0) the(0.0) foremost(0.0) priorities(1.0) of(0.0) the(0.0) American(0.0) people(0.0) 
+.(0.0) Key(1.0) national(0.0) level(0.0) needs(0.0) like(0.0) education(1.0) ,(0.0) veterans(1.0) health(1.0) care(0.0) ,(0.0) and(0.0) highway(1.0) construction(1.0) have(0.0) all(0.0) been(0.0) put(0.0) on(0.0) 
+the(0.0) back(0.0) burner(1.0) .(0.0) The(0.0) hard(0.0) legislative(1.0) choices(1.0) and(0.0) spending(1.0) decisions(0.0) that(0.0) had(0.0) to(0.0) be(0.0) made(0.0) were(0.0) delayed(0.0) so(1.0) that(0.0) 
+Republicans(1.0) could(0.0) ensure(0.0) their(0.0) success(0.0) at(0.0) the(0.0) polls(1.0) .(0.0) Well(0.0) ,(0.0) now(0.0) that(0.0) the(0.0) election(1.0) is(0.0) over(0.0) ,(0.0) we(0.0) have(0.0) 
+returned(1.0) to(0.0) Washington(1.0) to(0.0) finally(0.0) finish(0.0) our(0.0) budget(0.0) for(0.0) fiscal(0.0) year(0.0) 2005(1.0) ,(0.0) and(0.0) I(0.0) am(0.0) certain(1.0) that(0.0) my(0.0) Republican(1.0) 
+friends(0.0) will(0.0) come(0.0) down(1.0) to(0.0) the(0.0) floor(0.0) ,(0.0) pat(1.0) each(0.0) other(0.0) on(0.0) the(0.0) back(0.0) ,(0.0) and(0.0) proclaim(1.0) this(0.0) giant(0.0) $(0.0) 
+388.4(1.0) billion(1.0) spending(1.0) bill(0.0) a(0.0) great(0.0) success(0.0) that(0.0) finishes(1.0) their(0.0) work(0.0) for(0.0) the(0.0) year(0.0) .(0.0) But(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) 
+this(0.0) bill(0.0) does(0.0) not(0.0) even(0.0) come(0.0) close(0.0) to(0.0) accomplishing(0.0) what(1.0) our(0.0) constituents(0.0) expect(0.0) from(0.0) this(0.0) Congress(0.0) .(1.0) Republicans(1.0) in(0.0) this(0.0) 
+House(0.0) just(1.0) returned(1.0) from(0.0) the(0.0) campaign(1.0) trail(0.0) where(0.0) they(0.0) promised(0.0) to(0.0) create(0.0) more(0.0) jobs(1.0) and(0.0) more(0.0) economic(0.0) opportunity(0.0) .(0.0) They(0.0) 
+promised(0.0) they(0.0) would(0.0) do(0.0) all(0.0) they(0.0) could(0.0) to(0.0) keep(1.0) our(0.0) homeland(1.0) safe(1.0) .(0.0) They(0.0) promised(0.0) they(0.0) would(0.0) work(0.0) hard(0.0) to(0.0) 
+provide(0.0) Americans(0.0) with(0.0) affordable(1.0) health(1.0) care(0.0) and(0.0) lower(1.0) prescription(1.0) drug(0.0) prices(0.0) ,(0.0) and(0.0) they(0.0) promised(0.0) they(0.0) would(1.0) balance(0.0) the(0.0) budget(0.0) 
+.(0.0) However(0.0) ,(0.0) their(0.0) record(1.0) tells(1.0) a(0.0) very(0.0) different(0.0) story(0.0) .(0.0) This(0.0) Congress(0.0) has(0.0) failed(0.0) to(0.0) act(0.0) on(0.0) job(1.0) creation(0.0) 
+.(0.0) There(1.0) is(0.0) a(0.0) 1.6(0.0) million(0.0) private(0.0) sector(1.0) job(1.0) deficit(1.0) in(0.0) this(0.0) country(1.0) ,(0.0) yet(1.0) Republicans(1.0) have(0.0) failed(0.0) to(0.0) pass(1.0) 
+a(0.0) long-term(1.0) highway(1.0) bill(0.0) that(0.0) would(1.0) create(0.0) more(0.0) than(0.0) a(0.0) million(0.0) new(0.0) jobs(1.0) ,(0.0) and(0.0) they(0.0) have(0.0) failed(0.0) to(0.0) end(0.0) 
+tax(1.0) breaks(1.0) for(0.0) companies(1.0) that(0.0) ship(1.0) jobs(1.0) overseas(1.0) .(0.0) This(0.0) Congress(0.0) has(0.0) failed(0.0) to(0.0) provide(0.0) adequate(0.0) resources(0.0) for(0.0) our(0.0) national(0.0) 
+security(0.0) .(0.0) This(0.0) Congress(0.0) has(0.0) failed(0.0) to(0.0) provide(0.0) resources(0.0) for(0.0) our(0.0) national(0.0) security(0.0) .(0.0) Not(0.0) only(0.0) have(0.0) Republicans(1.0) failed(0.0) to(0.0) 
+give(0.0) our(0.0) police(1.0) and(0.0) firefighters(1.0) the(0.0) resources(0.0) they(0.0) need(0.0) ,(0.0) they(0.0) have(0.0) failed(0.0) to(0.0) secure(0.0) our(0.0) borders(0.0) and(0.0) ports(1.0) and(0.0) 
+failed(0.0) to(0.0) complete(0.0) action(0.0) on(0.0) the(0.0) critical(1.0) recommendations(0.0) of(0.0) the(0.0) bipartisan(0.0) 9/11(1.0) Commission(0.0) .(0.0) This(0.0) Congress(0.0) has(0.0) failed(0.0) to(0.0) provide(0.0) 
+quality(0.0) ,(0.0) affordable(1.0) health(1.0) care(0.0) for(0.0) Americans(0.0) .(0.0) Republicans(1.0) have(0.0) failed(0.0) to(0.0) hold(0.0) down(1.0) the(0.0) price(0.0) of(0.0) prescription(0.0) drugs(0.0) ,(0.0) 
+failed(0.0) to(0.0) reduce(1.0) the(0.0) number(0.0) of(0.0) uninsured(1.0) ,(0.0) and(0.0) failed(0.0) to(0.0) give(0.0) Americans(0.0) the(0.0) right(1.0) to(0.0) import(1.0) lower-priced(1.0) prescription(0.0) drugs(0.0) 
+from(0.0) abroad(0.0) .(0.0) This(0.0) Congress(0.0) has(0.0) failed(0.0) to(0.0) keep(1.0) America(0.0) fiscally(1.0) sound(0.0) .(0.0) Republicans(1.0) repeatedly(1.0) refuse(1.0) to(0.0) enact(1.0) sensible(1.0) measures(0.0) 
+to(0.0) pay(0.0) for(0.0) any(1.0) new(1.0) spending(1.0) or(1.0) tax(1.0) cuts(1.0) enacted(1.0) .(0.0) Their(1.0) policies(1.0) and(0.0) mismanagements(1.0) have(0.0) sent(0.0) the(0.0) budget(0.0) deficit(1.0) 
+skyrocketing(1.0) from(0.0) $(0.0) 159(0.0) billion(1.0) in(0.0) fiscal(0.0) year(0.0) 2002(0.0) to(0.0) a(0.0) record(1.0) $(0.0) 422(1.0) billion(1.0) today(1.0) ,(0.0) and(0.0) just(1.0) 
+
+
+----- below are rationale words -----
+
+thank	Florida	
+.	FROST	
+months	Republicans	priorities	
+Key	education	veterans	health	highway	construction	
+burner	legislative	choices	spending	so	
+Republicans	polls	election	
+returned	Washington	2005	certain	Republican	
+down	pat	proclaim	
+388.4	billion	spending	finishes	Speaker	
+what	.	Republicans	
+just	returned	campaign	jobs	
+keep	homeland	safe	
+affordable	health	lower	prescription	would	
+record	tells	job	
+There	sector	job	deficit	country	yet	Republicans	pass	
+long-term	highway	would	jobs	
+tax	breaks	companies	ship	jobs	overseas	
+Republicans	
+police	firefighters	ports	
+critical	9/11	
+affordable	health	Republicans	down	
+reduce	uninsured	right	import	lower-priced	
+keep	fiscally	Republicans	repeatedly	refuse	enact	sensible	
+any	new	spending	or	tax	cuts	enacted	Their	policies	mismanagements	deficit	
+skyrocketing	billion	record	422	billion	today	just	
+
+reads % = 0.22

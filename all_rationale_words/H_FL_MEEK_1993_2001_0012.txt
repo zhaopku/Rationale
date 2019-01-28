@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) will(0.0) the(0.0) gentleman(0.0) yield(0.0) ?(0.0) This(0.0) appears(0.0) to(0.0) me(0.0) ,(0.0) the(0.0) issue(0.0) here(0.0) ,(0.0) and(0.0) the(0.0) gentleman(0.0) can(0.0) clarify(0.0) 
+this(0.0) ,(0.0) is(0.0) not(0.0) that(0.0) anyone(0.0) is(0.0) against(0.0) using(0.0) CDBG(1.0) funds(1.0) to(0.0) build(0.0) a(0.0) shelter(0.0) in(0.0) and(0.0) around(0.0) a(0.0) manufactured(0.0) 
+home(0.0) .(0.0) In(0.0) my(0.0) estimation(0.0) ,(0.0) CDBG(1.0) 's(0.0) money(0.0) should(0.0) not(0.0) be(0.0) used(0.0) to(0.0) buy(0.0) private(0.0) land(0.0) ,(0.0) acquire(0.0) private(0.0) 
+land(0.0) by(0.0) a(0.0) private(0.0) owner(0.0) and(0.0) build(0.0) a(0.0) shelter(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+CDBG	funds	
+CDBG	
+
+
+reads % = 0.04225352112676056

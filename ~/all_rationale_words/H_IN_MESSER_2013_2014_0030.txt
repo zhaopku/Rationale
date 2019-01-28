@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(1.0) today(1.0) in(0.0) support(0.0) of(0.0) the(0.0) amendment(1.0) offered(0.0) by(0.0) Chairman(1.0) MCKeon(1.0) .(0.0) We(0.0) are(0.0) way(0.0) past(0.0) any(1.0) good(0.0) 
+solutions(1.0) in(0.0) Syria(0.0) ,(0.0) but(0.0) doing(0.0) nothing(0.0) would(1.0) be(0.0) the(0.0) worst(1.0) solution(0.0) of(0.0) all(0.0) .(0.0) I(0.0) understand(0.0) and(0.0) ,(0.0) in(0.0) 
+fact(1.0) ,(0.0) share(0.0) many(0.0) of(0.0) the(0.0) reservations(1.0) expressed(0.0) by(0.0) my(0.0) colleagues(1.0) today(0.0) .(0.0) This(0.0) is(0.0) not(0.0) an(0.0) easy(0.0) choice(0.0) .(0.0) 
+Yet(1.0) we(0.0) can(0.0) not(0.0) ignore(0.0) the(0.0) threat(0.0) of(0.0) ISIL(1.0) .(0.0) They(0.0) are(0.0) determined(0.0) to(0.0) bring(0.0) war(1.0) to(0.0) America(0.0) 's(0.0) shores(1.0) 
+.(0.0) We(0.0) must(0.0) respond(1.0) .(0.0) The(0.0) President(1.0) 's(0.0) request(0.0) to(0.0) train(0.0) and(0.0) equip(0.0) certain(1.0) Syrian(1.0) opposition(1.0) forces(1.0) is(0.0) a(0.0) necessary(0.0) 
+step(0.0) toward(0.0) defeating(0.0) ISIL(1.0) ,(0.0) so(1.0) I(0.0) will(0.0) support(0.0) it(0.0) .(0.0) I(0.0) will(0.0) also(1.0) urge(1.0) the(0.0) President(1.0) to(0.0) do(0.0) more(0.0) 
+to(0.0) explain(0.0) the(0.0) true(1.0) nature(0.0) of(0.0) this(0.0) crisis(1.0) to(0.0) the(0.0) American(0.0) people(0.0) .(0.0) This(0.0) will(0.0) not(1.0) be(0.0) an(0.0) easy(0.0) fight(0.0) 
+.(0.0) Airstrikes(1.0) alone(1.0) are(0.0) unlikely(0.0) to(0.0) destroy(0.0) ISIL(1.0) and(0.0) diminish(0.0) its(0.0) ability(0.0) to(0.0) threaten(0.0) America(0.0) .(0.0) Americans(1.0) are(0.0) understandably(0.0) war(1.0) 
+weary(1.0) ,(0.0) but(0.0) we(0.0) did(0.0) not(1.0) pick(1.0) this(0.0) fight(0.0) .(0.0) Our(0.0) Nation(0.0) always(0.0) answers(1.0) the(0.0) bell(1.0) to(0.0) defend(1.0) our(0.0) way(0.0) 
+of(0.0) life(0.0) and(0.0) protect(0.0) our(0.0) freedom(1.0) .(0.0) This(0.0) time(0.0) will(0.0) be(0.0) no(1.0) different(1.0) .(0.0) May(0.0) God(0.0) bless(1.0) our(0.0) military(1.0) personnel(1.0) 
+who(0.0) will(0.0) be(0.0) involved(1.0) in(0.0) this(0.0) effort(0.0) .(0.0) May(0.0) God(0.0) continue(0.0) to(0.0) bless(1.0) the(0.0) United(0.0) States(0.0) of(0.0) America(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+rise	today	amendment	Chairman	MCKeon	any	
+solutions	would	worst	
+fact	reservations	colleagues	
+Yet	ISIL	war	shores	
+respond	President	certain	Syrian	opposition	forces	
+ISIL	so	also	urge	President	
+true	crisis	not	
+Airstrikes	alone	ISIL	Americans	war	
+weary	not	pick	answers	bell	defend	
+freedom	no	different	bless	military	personnel	
+involved	bless	
+
+reads % = 0.22272727272727272

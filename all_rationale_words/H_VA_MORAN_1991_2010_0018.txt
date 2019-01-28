@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) do(0.0) n't(0.0) need(0.0) even(0.0) that(0.0) much(0.0) time(0.0) to(0.0) say(0.0) that(0.0) I(0.0) strongly(0.0) support(0.0) this(0.0) bill(1.0) .(0.0) I(0.0) appreciate(0.0) 
+the(0.0) fact(0.0) that(0.0) the(0.0) authorizing(1.0) committee(0.0) has(0.0) brought(0.0) it(0.0) to(0.0) the(0.0) floor(0.0) .(0.0) We(0.0) will(0.0) get(0.0) it(0.0) passed(0.0) .(0.0) The(0.0) 
+only(0.0) substantive(1.0) argument(1.0) I(0.0) really(0.0) hear(0.0) is(0.0) a(0.0) jurisdictional(1.0) one(0.0) .(0.0) The(0.0) chair(0.0) of(0.0) the(0.0) Judiciary(0.0) Committee(0.0) has(0.0) n't(0.0) raised(0.0) 
+any(0.0) objection(1.0) to(0.0) this(0.0) .(0.0) It(0.0) ought(1.0) to(0.0) be(0.0) passed(0.0) ,(0.0) and(0.0) this(0.0) Congress(0.0) should(0.0) be(0.0) proud(0.0) that(0.0) it(0.0) did(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+bill	
+authorizing	
+substantive	argument	jurisdictional	
+objection	ought	
+
+
+reads % = 0.08536585365853659

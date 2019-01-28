@@ -1,0 +1,38 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) it(0.0) is(0.0) with(0.0) great(0.0) admiration(0.0) that(0.0) I(0.0) rise(0.0) today(0.0) to(0.0) recognize(0.0) the(0.0) 25(0.0) years(0.0) of(0.0) public(1.0) service(0.0) that(0.0) Chairman(0.0) 
+Oxley(1.0) has(0.0) bestowed(0.0) upon(0.0) this(0.0) body(0.0) .(0.0) He(0.0) is(0.0) a(0.0) dedicated(0.0) and(0.0) hard-working(0.0) public(0.0) servant(0.0) whose(0.0) leadership(0.0) as(0.0) Chairman(0.0) of(0.0) 
+the(0.0) Financial(0.0) Services(0.0) Committee(0.0) has(0.0) been(0.0) exemplary(0.0) .(0.0) Under(0.0) Chairman(0.0) Oxley(1.0) 's(0.0) leadership(0.0) ,(0.0) the(0.0) Financial(0.0) Services(0.0) Committee(0.0) enjoyed(0.0) an(0.0) 
+unprecedented(0.0) level(0.0) of(0.0) collegiality(0.0) and(0.0) comity(1.0) that(0.0) permitted(0.0) us(0.0) all(0.0) to(0.0) work(0.0) together(0.0) and(0.0) get(0.0) things(0.0) done(0.0) .(0.0) Chairman(0.0) Oxley(1.0) 
+has(0.0) a(0.0) series(0.0) of(0.0) legislative(0.0) successes(0.0) few(0.0) others(0.0) can(0.0) rival(0.0) .(0.0) When(0.0) investor(0.0) confidence(0.0) was(0.0) at(0.0) a(0.0) low(0.0) ,(0.0) Chairman(0.0) 
+Oxley(1.0) restored(0.0) confidence(0.0) in(0.0) our(0.0) financial(0.0) markets(0.0) by(0.0) authoring(0.0) the(0.0) landmark(1.0) Sarbanes-(0.0) Oxley(1.0) Act(0.0) .(0.0) This(0.0) legislation(0.0) established(1.0) tough(0.0) new(0.0) 
+standards(1.0) to(0.0) ensure(0.0) corporate(1.0) accountability(1.0) to(0.0) all(0.0) American(0.0) shareholders(1.0) .(0.0) In(0.0) addition(0.0) Chairman(0.0) Oxley(1.0) was(0.0) responsible(0.0) for(0.0) the(0.0) passage(0.0) of(0.0) 
+The(0.0) Fair(0.0) and(0.0) Accurate(0.0) Credit(0.0) Transactions(0.0) Act(0.0) ,(0.0) or(0.0) FACT(0.0) Act(0.0) ,(0.0) which(0.0) gave(0.0) consumers(0.0) new(0.0) identity(0.0) theft(0.0) protections(1.0) and(0.0) 
+also(0.0) improved(0.0) credit(0.0) report(0.0) accuracy(0.0) .(0.0) Chairman(0.0) Oxley(1.0) also(0.0) spearheaded(0.0) efforts(0.0) to(0.0) reform(1.0) our(0.0) nation(1.0) 's(0.0) deposit(0.0) insurance(0.0) system(0.0) and(0.0) 
+modernize(1.0) our(0.0) check(0.0) clearing(0.0) process(0.0) which(0.0) brought(0.0) our(0.0) antiquated(1.0) systems(0.0) into(0.0) the(0.0) 21st(0.0) century(0.0) .(0.0) These(0.0) achievements(0.0) will(0.0) have(0.0) a(0.0) 
+positive(0.0) impact(0.0) on(0.0) our(0.0) financial(1.0) services(0.0) system(0.0) for(0.0) generations(0.0) to(0.0) come(0.0) .(0.0) Aside(0.0) from(0.0) his(0.0) leadership(0.0) in(0.0) the(0.0) House(0.0) ,(0.0) 
+Mike(0.0) Oxley(1.0) has(0.0) been(0.0) a(0.0) true(0.0) mentor(0.0) and(0.0) friend(0.0) .(0.0) Fortunately(0.0) ,(0.0) this(0.0) is(0.0) not(0.0) a(0.0) retirement(0.0) for(0.0) Mike(0.0) Oxley(1.0) 
+but(0.0) a(0.0) beginning(0.0) of(0.0) a(0.0) new(0.0) chapter(0.0) in(0.0) his(0.0) career(0.0) .(0.0) I(0.0) look(0.0) forward(0.0) to(0.0) working(0.0) with(0.0) him(0.0) in(0.0) whatever(0.0) 
+his(0.0) future(0.0) endeavors(0.0) may(0.0) be(0.0) .(0.0) Although(0.0) I(0.0) am(0.0) losing(0.0) a(0.0) colleague(0.0) and(0.0) fellow(0.0) Member(0.0) ,(0.0) Linda(1.0) and(0.0) I(0.0) look(0.0) 
+forward(0.0) to(0.0) many(0.0) years(0.0) of(0.0) continued(0.0) friendship(0.0) with(0.0) Mike(0.0) and(0.0) his(0.0) wife(0.0) Pat(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+public	
+Oxley	
+Oxley	
+comity	Oxley	
+
+Oxley	landmark	Oxley	established	
+standards	corporate	accountability	shareholders	Oxley	
+protections	
+Oxley	reform	nation	
+modernize	antiquated	
+financial	
+Oxley	Oxley	
+
+Linda	
+
+
+reads % = 0.08135593220338982

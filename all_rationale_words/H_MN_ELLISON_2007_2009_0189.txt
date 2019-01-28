@@ -1,0 +1,38 @@
+This is from a Democrat
+----- below is the original text -----
+And(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) her(0.0) for(0.0) making(0.0) the(0.0) point(0.0) she(0.0) 's(0.0) made(0.0) .(0.0) We(0.0) 've(0.0) been(0.0) joined(0.0) by(0.0) Congressman(1.0) Hank(1.0) 
+Johnson(1.0) from(0.0) the(0.0) great(0.0) State(0.0) of(0.0) Georgia(1.0) .(0.0) And(0.0) we(0.0) 're(0.0) talking(0.0) health(1.0) care(1.0) reform(1.0) tonight(0.0) .(0.0) The(0.0) Progressive(1.0) Caucus(1.0) 
+offering(1.0) a(1.0) progressive(1.0) vision(0.0) to(0.0) care(0.0) for(0.0) Americans(1.0) .(0.0) And(0.0) we(0.0) were(0.0) just(0.0) speaking(0.0) a(0.0) moment(0.0) ago(0.0) about(0.0) how(0.0) we(0.0) 
+need(0.0) a(0.0) robust(0.0) public(1.0) option(0.0) ;(0.0) that(0.0) we(0.0) 're(0.0) excited(0.0) about(0.0) the(0.0) possibility(0.0) to(0.0) pass(0.0) health(1.0) care(1.0) for(0.0) Americans(1.0) .(0.0) 
+This(0.0) is(0.0) a(0.0) 60-year(0.0) debate(1.0) .(0.0) Some(0.0) people(0.0) go(0.0) back(0.0) to(0.0) 1994(0.0) .(0.0) But(0.0) we(0.0) all(0.0) know(0.0) this(0.0) debate(1.0) goes(0.0) 
+back(0.0) way(0.0) before(0.0) that(0.0) .(0.0) This(0.0) is(0.0) an(0.0) opportunity(0.0) ,(0.0) equal(0.0) to(0.0) passing(0.0) ,(0.0) in(0.0) my(0.0) view(0.0) ,(0.0) civil(1.0) rights(1.0) 
+legislation(1.0) ,(0.0) equal(1.0) to(0.0) passing(0.0) environmental(1.0) protection(1.0) legislation(1.0) ,(0.0) equal(1.0) to(0.0) making(0.0) a(0.0) leap(0.0) forward(0.0) for(0.0) the(0.0) benefit(1.0) and(0.0) welfare(1.0) 
+of(0.0) all(0.0) Americans(1.0) .(0.0) And(0.0) I(0.0) guess(0.0) my(0.0) question(0.0) to(0.0) you(0.0) ,(0.0) and(0.0) I(0.0) do(0.0) n't(0.0) want(0.0) to(0.0) tailor(0.0) what(0.0) 
+you(0.0) want(0.0) to(0.0) share(0.0) with(0.0) us(0.0) tonight(0.0) ,(0.0) Congressman(1.0) ,(0.0) but(0.0) I(0.0) do(0.0) just(0.0) want(0.0) to(0.0) see(0.0) if(0.0) I(0.0) could(0.0) 
+get(0.0) your(0.0) views(0.0) on(0.0) why(0.0) ,(0.0) for(0.0) example(0.0) ,(0.0) the(0.0) Washington(1.0) Post(1.0) reported(0.0) that(0.0) the(0.0) Nation(1.0) 's(0.0) largest(0.0) insurers(1.0) ,(0.0) 
+hospitals(1.0) ,(0.0) medical(1.0) groups(0.0) ,(0.0) have(0.0) hired(0.0) more(0.0) than(0.0) 350(0.0) ,(0.0) 350(0.0) former(0.0) government(0.0) and(0.0) staff(0.0) members(0.0) and(0.0) retired(0.0) Members(0.0) 
+of(0.0) Congress(0.0) in(0.0) hopes(0.0) of(0.0) influencing(0.0) colleagues(0.0) in(0.0) opposition(1.0) to(0.0) health(1.0) care(0.0) reform(1.0) to(0.0) the(0.0) tune(0.0) of(0.0) about(0.0) 1.4(0.0) ,(0.0) 
+I(0.0) 'm(0.0) reading(0.0) now(0.0) ,(0.0) I(0.0) was(0.0) going(0.0) from(0.0) memory(0.0) before(0.0) ,(0.0) $(0.0) 1.4(0.0) million(0.0) a(0.0) day(0.0) .(0.0) Why(0.0) would(0.0) 
+they(0.0) do(0.0) such(0.0) a(0.0) thing(0.0) ,(0.0) unless(0.0) they(0.0) thought(0.0) that(0.0) this(0.0) was(0.0) a(0.0) reasonable(0.0) cost(0.0) of(0.0) doing(0.0) business(0.0) ?(0.0) Does(0.0) 
+the(0.0) Congressman(1.0) have(1.0) any(0.0) views(0.0) ?(0.0) I(0.0) yield(0.0) to(0.0) the(0.0) gentleman(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Congressman	Hank	
+Johnson	Georgia	health	care	reform	Progressive	Caucus	
+offering	a	progressive	Americans	
+public	health	care	Americans	
+debate	debate	
+civil	rights	
+legislation	equal	environmental	protection	legislation	equal	benefit	welfare	
+Americans	
+Congressman	
+Washington	Post	Nation	insurers	
+hospitals	medical	
+opposition	health	reform	
+
+
+Congressman	have	
+
+reads % = 0.14334470989761092

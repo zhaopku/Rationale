@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) Wisconsin(1.0) has(0.0) prided(0.0) itself(0.0) on(0.0) our(0.0) efforts(1.0) to(0.0) reform(1.0) our(0.0) welfare(1.0) system(0.0) because(0.0) we(0.0) accept(0.0) the(0.0) goal(0.0) of(0.0) making(0.0) 
+it(0.0) so(0.0) that(0.0) people(0.0) would(0.0) always(0.0) be(0.0) better(0.0) off(0.0) by(0.0) working(0.0) than(0.0) not(0.0) working(0.0) .(0.0) We(0.0) are(0.0) proud(0.0) that(0.0) another(0.0) 
+Wisconsinite(1.0) ,(0.0) Secretary(1.0) Donna(1.0) Shalala(1.0) ,(0.0) is(0.0) leading(0.0) the(0.0) effort(0.0) for(0.0) the(0.0) administration(1.0) .(0.0) President(0.0) Clinton(1.0) has(0.0) put(0.0) forward(0.0) a(0.0) 
+very(0.0) solid(0.0) road(0.0) map(0.0) that(0.0) we(0.0) can(0.0) build(0.0) on(0.0) .(0.0) He(0.0) has(0.0) set(0.0) forward(0.0) the(0.0) goals(0.0) of(0.0) making(0.0) work(0.0) pay(0.0) 
+,(0.0) the(0.0) goals(0.0) of(0.0) curbing(1.0) teen(1.0) pregnancy(1.0) ,(0.0) to(0.0) try(0.0) and(0.0) put(0.0) an(0.0) emphasis(0.0) on(0.0) prevention(1.0) and(0.0) having(0.0) teenagers(0.0) live(0.0) 
+with(0.0) their(0.0) parents(0.0) rather(0.0) than(0.0) in(0.0) their(0.0) own(0.0) apartments(0.0) ;(0.0) to(0.0) collect(0.0) child(0.0) support(0.0) to(0.0) ease(0.0) the(0.0) burden(1.0) on(0.0) taxpayers(1.0) 
+so(0.0) that(0.0) they(0.0) do(0.0) not(0.0) have(0.0) to(0.0) raise(1.0) other(0.0) peoples(1.0) '(0.0) children(0.0) ;(0.0) to(0.0) put(0.0) time(0.0) limits(1.0) on(0.0) the(0.0) system(0.0) 
+so(0.0) that(0.0) we(0.0) can(0.0) turn(0.0) a(0.0) welfare(1.0) check(0.0) into(0.0) a(0.0) paycheck(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) applaud(0.0) our(0.0) chairman(0.0) of(0.0) 
+the(0.0) Committee(0.0) on(0.0) Ways(0.0) and(0.0) Means(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Florida(0.0) [(0.0) Mr.(0.0) Gibbons(1.0) ](0.0) .(0.0) He(0.0) has(0.0) indicated(0.0) he(0.0) 
+is(0.0) going(0.0) to(0.0) try(0.0) and(0.0) move(0.0) this(0.0) bill(1.0) forward(0.0) and(0.0) I(0.0) say(0.0) let(0.0) us(0.0) move(0.0) it(0.0) forward(0.0) ,(0.0) pass(0.0) it(0.0) 
+,(0.0) work(0.0) together(0.0) and(0.0) get(0.0) it(0.0) done(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Wisconsin	efforts	reform	welfare	
+
+Wisconsinite	Secretary	Donna	Shalala	administration	Clinton	
+
+curbing	teen	pregnancy	prevention	
+burden	taxpayers	
+raise	peoples	limits	
+welfare	Speaker	
+Gibbons	
+bill	
+
+
+reads % = 0.11004784688995216

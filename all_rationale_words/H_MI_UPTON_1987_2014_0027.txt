@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) in(0.0) strong(0.0) support(0.0) of(0.0) the(0.0) Employee(0.0) Health(0.0) Care(0.0) Protection(0.0) Act(0.0) ,(0.0) a(0.0) bipartisan(1.0) bill(1.0) authored(1.0) by(1.0) our(0.0) 
+committee(0.0) ,(0.0) particularly(0.0) by(0.0) Dr.(1.0) Bill(1.0) Cassidy(1.0) as(0.0) the(0.0) prime(0.0) sponsor(0.0) ,(0.0) to(0.0) protect(0.0) the(0.0) health(1.0) care(0.0) choices(0.0) for(0.0) literally(0.0) 
+millions(1.0) of(0.0) American(0.0) workers(1.0) .(0.0) Last(0.0) fall(0.0) ,(0.0) we(0.0) learned(0.0) the(0.0) harsh(0.0) reality(0.0) that(0.0) the(0.0) President(1.0) 's(0.0) oft-(0.0) repeated(0.0) promise(0.0) 
+that(0.0) if(0.0) you(0.0) liked(0.0) your(0.0) health(1.0) care(0.0) plan(1.0) you(0.0) could(0.0) keep(0.0) it(0.0) --(0.0) you(0.0) have(0.0) heard(0.0) that(0.0) here(0.0) today(0.0) --(0.0) 
+was(0.0) simply(0.0) not(0.0) true(0.0) .(0.0) Many(0.0) were(0.0) shocked(0.0) to(0.0) learn(0.0) that(0.0) their(0.0) individual(0.0) policies(1.0) were(0.0) being(0.0) canceled(0.0) because(0.0) of(0.0) the(0.0) 
+President(1.0) 's(0.0) health(1.0) care(0.0) law(1.0) .(0.0) They(0.0) did(0.0) n't(0.0) like(0.0) that(0.0) at(0.0) all(0.0) .(0.0) Sadly(0.0) ,(0.0) the(0.0) wave(1.0) of(0.0) canceled(1.0) 
+plans(0.0) under(0.0) the(0.0) President(0.0) 's(0.0) broken(0.0) promise(0.0) has(0.0) not(0.0) ended(0.0) .(0.0) The(0.0) very(0.0) backbone(1.0) of(0.0) America(1.0) 's(0.0) health(1.0) care(0.0) system(0.0) 
+,(0.0) employer-sponsored(1.0) coverage(1.0) ,(0.0) provides(0.0) health(1.0) care(1.0) security(0.0) to(0.0) about(0.0) 170(0.0) million(0.0) American(0.0) workers(1.0) and(0.0) family(0.0) members(0.0) .(0.0) The(0.0) President's(0.0) 
+health(1.0) care(0.0) law(1.0) now(0.0) threatens(1.0) the(0.0) health(1.0) care(1.0) plans(1.0) of(0.0) many(0.0) of(0.0) America(1.0) 's(0.0) middle(0.0) class(0.0) workers(1.0) who(0.0) rely(0.0) on(0.0) 
+employer-sponsored(1.0) coverage(1.0) .(0.0) Many(0.0) with(0.0) employer-sponsored(1.0) coverage(1.0) will(0.0) face(0.0) the(0.0) same(0.0) plan(1.0) cancelations(1.0) that(0.0) millions(1.0) of(0.0) Americans(1.0) received(0.0) with(0.0) their(0.0) 
+individual(0.0) policies(1.0) last(0.0) fall(0.0) .(0.0) This(0.0) legislation(1.0) provides(0.0) a(0.0) thoughtful(0.0) solution(0.0) and(0.0) relief(1.0) from(0.0) the(0.0) President(1.0) 's(0.0) broken(0.0) promises(1.0) .(0.0) 
+The(0.0) bill(1.0) before(0.0) us(0.0) simply(0.0) allows(0.0) America's(0.0) small(0.0) businesses(1.0) and(0.0) workers(1.0) to(0.0) choose(0.0) from(0.0) health(1.0) care(1.0) plans(1.0) that(0.0) were(0.0) in(0.0) 
+effect(1.0) in(0.0) 2013(0.0) .(0.0) The(0.0) bill(1.0) would(1.0) also(0.0) allow(0.0) other(0.0) small(0.0) businesses(1.0) and(0.0) workers(1.0) to(0.0) choose(0.0) from(0.0) more(0.0) affordable(1.0) group(0.0) 
+health(1.0) care(1.0) plans(1.0) available(0.0) before(0.0) the(0.0) President(1.0) 's(0.0) health(1.0) care(0.0) law(1.0) .(0.0) America(0.0) 's(0.0) workers(1.0) and(0.0) families(0.0) know(0.0) their(0.0) health(1.0) 
+care(1.0) needs(0.0) better(0.0) than(0.0) do(0.0) Members(0.0) of(0.0) Congress(0.0) or(0.0) officials(0.0) at(0.0) the(0.0) Department(0.0) of(0.0) HHS(0.0) .(0.0) This(0.0) bill(0.0) empowers(1.0) Americans(1.0) 
+with(0.0) more(0.0) choices(0.0) ,(0.0) the(0.0) same(0.0) choices(0.0) that(0.0) they(0.0) were(0.0) promised(0.0) .(0.0) If(0.0) Americans(1.0) like(0.0) their(0.0) health(1.0) care(1.0) plans(1.0) ,(0.0) 
+they(0.0) should(0.0) be(0.0) able(0.0) to(0.0) keep(0.0) them(0.0) --(0.0) period(0.0) ,(0.0) end(0.0) of(0.0) story(0.0) .(0.0) I(0.0) am(0.0) also(0.0) pleased(0.0) that(0.0) ,(0.0) 
+this(0.0) week(0.0) ,(0.0) the(0.0) nonpartisan(1.0) CBO(1.0) confirmed(0.0) that(0.0) this(0.0) bill(1.0) would(1.0) lower(0.0) the(0.0) deficit(1.0) by(0.0) more(0.0) than(0.0) $(0.0) 1(0.0) billion(1.0) 
+,(0.0) provide(1.0) more(0.0) health(1.0) plan(1.0) options(0.0) with(0.0) lower(0.0) premiums(1.0) ,(0.0) and(0.0) ,(0.0) yes(0.0) ,(0.0) raise(1.0) wages(1.0) for(0.0) American(0.0) workers(1.0) .(0.0) 
+We(0.0) have(0.0) all(0.0) heard(0.0) firsthand(0.0) of(0.0) the(0.0) struggles(1.0) facing(0.0) middle(1.0) class(1.0) American(0.0) families(1.0) because(0.0) of(0.0) the(0.0) health(1.0) care(0.0) law(1.0) .(0.0) 
+Tom(0.0) Harmon(1.0) ,(0.0) from(0.0) my(0.0) district(0.0) ,(0.0) and(0.0) the(0.0) trusted(0.0) workers(0.0) at(0.0) American(0.0) Waste(1.0) --(0.0) in(0.0) a(0.0) little(0.0) town(0.0) called(0.0) 
+Union(0.0) ,(0.0) Michigan(1.0) --(0.0) are(0.0) seeing(0.0) their(0.0) health(1.0) care(1.0) premiums(1.0) more(0.0) than(0.0) double(0.0) .(0.0) Sadly(0.0) ,(0.0) their(0.0) deductibles(0.0) are(0.0) much(0.0) 
+higher(0.0) to(0.0) boot(0.0) ,(0.0) forcing(0.0) them(0.0) to(0.0) deal(0.0) with(0.0) higher(0.0) health(1.0) care(1.0) costs(1.0) .(0.0) Rather(0.0) than(0.0) make(0.0) life(0.0) easier(0.0) ,(0.0) 
+Washington(1.0) ,(0.0) through(0.0) this(0.0) President(1.0) 's(0.0) health(1.0) care(1.0) law(1.0) ,(0.0) has(0.0) ,(0.0) in(0.0) fact(0.0) ,(0.0) made(0.0) life(0.0) more(0.0) expensive(0.0) for(0.0) 
+Tom(0.0) and(0.0) the(0.0) working(0.0) families(0.0) of(0.0) American(0.0) Waste(1.0) in(0.0) southwest(1.0) Michigan(1.0) .(0.0) In(0.0) conclusion(0.0) ,(0.0) I(0.0) am(0.0) proud(0.0) to(0.0) 
+
+
+----- below are rationale words -----
+
+bipartisan	bill	authored	by	
+Dr.	Bill	Cassidy	health	
+millions	workers	President	
+health	plan	
+policies	
+President	health	law	wave	canceled	
+backbone	America	health	
+employer-sponsored	coverage	health	care	workers	
+health	law	threatens	health	care	plans	America	workers	
+employer-sponsored	coverage	employer-sponsored	coverage	plan	cancelations	millions	Americans	
+policies	legislation	relief	President	promises	
+bill	businesses	workers	health	care	plans	
+effect	bill	would	businesses	workers	affordable	
+health	care	plans	President	health	law	workers	health	
+care	empowers	Americans	
+Americans	health	care	plans	
+
+nonpartisan	CBO	bill	would	deficit	billion	
+provide	health	plan	premiums	raise	wages	workers	
+struggles	middle	class	families	health	law	
+Harmon	Waste	
+Michigan	health	care	premiums	
+health	care	costs	
+Washington	President	health	care	law	
+Waste	southwest	Michigan	
+
+reads % = 0.222

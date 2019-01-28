@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) made(0.0) reference(0.0) to(0.0) John(0.0) Kennedy(1.0) 's(0.0) call(0.0) to(0.0) put(0.0) a(0.0) man(0.0) on(0.0) the(0.0) Moon(0.0) by(0.0) the(0.0) end(0.0) of(0.0) the(0.0) 
+sixties(0.0) .(0.0) Think(0.0) about(0.0) the(0.0) positive(0.0) externalities(1.0) ,(0.0) the(0.0) positive(0.0) consequences(1.0) of(0.0) that(0.0) innovative(0.0) decision(1.0) and(0.0) innovative(0.0) investment(1.0) .(0.0) Think(0.0) 
+of(0.0) the(0.0) technologies(0.0) that(0.0) spin(0.0) off(0.0) inventions(1.0) ,(0.0) patents(1.0) and(0.0) economic(1.0) wonders(0.0) that(0.0) were(0.0) generated(0.0) by(0.0) that(0.0) one(0.0) decision(0.0) to(0.0) 
+make(0.0) that(0.0) one(0.0) critical(0.0) investment(1.0) .(0.0) Similarly(0.0) ,(0.0) the(0.0) investments(1.0) my(0.0) colleague(0.0) Mr.(0.0) Tonko(1.0) was(0.0) talking(1.0) about(0.0) --(0.0) and(0.0) he(0.0) 
+'s(0.0) absolutely(0.0) right(0.0) --(0.0) will(0.0) have(0.0) a(0.0) lot(0.0) of(0.0) positive(0.0) consequences(1.0) for(0.0) this(0.0) economy(1.0) for(0.0) a(0.0) generation(0.0) to(0.0) come(0.0) .(0.0) 
+I(0.0) would(0.0) also(0.0) suggest(0.0) to(0.0) my(0.0) colleague(0.0) ,(0.0) Mr.(0.0) Tonko(1.0) ,(0.0) that(0.0) there(0.0) 's(0.0) also(0.0) a(0.0) very(0.0) high(0.0) cost(0.0) for(0.0) 
+inaction(1.0) ,(0.0) and(0.0) that(0.0) needs(0.0) to(0.0) be(0.0) examined(0.0) as(0.0) well(0.0) .(0.0) Some(0.0) on(0.0) the(0.0) other(0.0) side(0.0) of(0.0) the(0.0) aisle(0.0) seem(0.0) 
+to(0.0) think(0.0) that(0.0) maybe(0.0) if(0.0) we(0.0) wring(0.0) our(0.0) hands(0.0) and(0.0) hold(0.0) our(0.0) breath(0.0) ,(0.0) perhaps(0.0) it(0.0) will(0.0) all(0.0) get(0.0) better(0.0) 
+or(0.0) go(0.0) away(0.0) .(0.0) And(0.0) I(0.0) think(0.0) there(0.0) are(0.0) huge(0.0) costs(1.0) that(0.0) do(0.0) n't(0.0) often(0.0) get(0.0) talked(0.0) about(0.0) associated(0.0) with(0.0) 
+inaction(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Kennedy	
+externalities	consequences	decision	investment	
+inventions	patents	economic	
+investment	investments	Tonko	talking	
+consequences	economy	
+Tonko	
+inaction	
+
+costs	
+inaction	
+
+reads % = 0.09836065573770492

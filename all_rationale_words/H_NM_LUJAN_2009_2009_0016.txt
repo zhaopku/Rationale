@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) would(0.0) encourage(0.0) and(0.0) hope(0.0) that(0.0) my(0.0) colleague(0.0) would(0.0) support(0.0) an(0.0) opportunity(0.0) to(0.0) be(0.0) able(0.0) to(0.0) teach(0.0) our(0.0) kids(0.0) 
+about(0.0) the(0.0) importance(0.0) of(0.0) food(1.0) ,(0.0) of(0.0) growing(0.0) it(0.0) ,(0.0) and(0.0) even(0.0) the(0.0) business(0.0) aspect(0.0) of(0.0) this(0.0) ,(0.0) Mr.(0.0) Chairman(1.0) 
+.(0.0) It(0.0) is(0.0) not(0.0) just(0.0) about(0.0) growing(0.0) food(1.0) ,(0.0) fruits(0.0) and(0.0) vegetables(0.0) .(0.0) This(0.0) is(0.0) about(0.0) teaching(0.0) them(0.0) how(0.0) to(0.0) 
+be(0.0) responsible(0.0) and(0.0) how(0.0) to(0.0) make(0.0) sure(0.0) we(0.0) can(0.0) get(0.0) these(0.0) into(0.0) the(0.0) schools(1.0) to(0.0) keep(0.0) our(0.0) kids(0.0) healthy(0.0) and(0.0) 
+nourished(1.0) ,(0.0) as(0.0) well(0.0) as(0.0) business(0.0) opportunities(0.0) ,(0.0) Mr.(0.0) Chairman(1.0) .(0.0) This(0.0) is(0.0) a(0.0) learning(0.0) opportunity(0.0) that(0.0) we(0.0) could(0.0) take(0.0) 
+advantage(0.0) of(0.0) across(0.0) the(0.0) country(1.0) .(0.0) I(0.0) strongly(0.0) urge(1.0) my(0.0) colleagues(0.0) to(0.0) vote(1.0) ``(0.0) yes(0.0) ''(0.0) on(0.0) this(0.0) amendment(1.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+
+food	Chairman	
+food	
+schools	
+nourished	Chairman	
+country	urge	vote	amendment	
+
+
+reads % = 0.08264462809917356

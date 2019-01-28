@@ -1,0 +1,36 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) yesterday(0.0) this(0.0) body(0.0) began(0.0) the(0.0) monumental(1.0) task(0.0) of(0.0) reforming(1.0) America(1.0) 's(0.0) legal(1.0) system(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) for(0.0) too(0.0) 
+many(0.0) years(0.0) ridiculous(1.0) legal(1.0) judgments(0.0) have(0.0) been(0.0) handed(0.0) down(0.0) in(0.0) frivolous(1.0) lawsuits(1.0) where(0.0) the(0.0) only(0.0) real(0.0) winners(0.0) are(0.0) the(0.0) lawyers(1.0) 
+.(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) some(0.0) have(0.0) suggested(0.0) that(0.0) we(0.0) should(0.0) leave(0.0) this(0.0) up(0.0) to(0.0) the(0.0) individual(0.0) States(0.0) to(0.0) decide(0.0) .(0.0) 
+I(0.0) am(0.0) a(0.0) true(0.0) federalist(0.0) at(0.0) heart(0.0) and(0.0) I(0.0) believe(0.0) that(0.0) in(0.0) States(0.0) where(0.0) the(0.0) State(0.0) statute(0.0) is(0.0) stronger(0.0) than(0.0) 
+the(0.0) Federal(1.0) law(1.0) that(0.0) State(0.0) law(0.0) should(0.0) prevail(0.0) .(0.0) But(0.0) there(0.0) are(0.0) States(0.0) where(0.0) the(0.0) abuses(1.0) of(0.0) the(0.0) judicial(1.0) system(0.0) 
+have(0.0) run(0.0) amuck(1.0) .(0.0) Case(0.0) in(0.0) point(0.0) ,(0.0) Alabama(1.0) .(0.0) Steve(0.0) Flowers(0.0) is(0.0) a(0.0) 13-year(0.0) veteran(0.0) of(0.0) the(0.0) Alabama(1.0) legislature(0.0) 
+and(0.0) chairman(0.0) of(0.0) the(0.0) Insurance(0.0) Committee(0.0) for(0.0) the(0.0) Alabama(0.0) House(0.0) .(0.0) In(0.0) 1987(0.0) Mr(0.0) .(1.0) Flowers(0.0) was(0.0) the(0.0) primary(0.0) sponsor(0.0) 
+of(0.0) Alabama(1.0) 's(0.0) legal(0.0) reform(0.0) legislation(0.0) ,(0.0) but(0.0) he(0.0) now(0.0) strongly(0.0) favors(1.0) Federal(1.0) legislation(1.0) in(0.0) this(0.0) area(0.0) .(0.0) Why(0.0) ?(0.0) 
+Because(0.0) in(0.0) 1993(1.0) the(0.0) Alabama(1.0) Supreme(0.0) Court(0.0) in(0.0) Henderson(0.0) versus(0.0) Alabama(1.0) Power(0.0) Company(0.0) ruled(0.0) that(0.0) the(0.0) Alabama(1.0) legislature(0.0) did(0.0) not(0.0) 
+have(0.0) the(0.0) authority(0.0) to(0.0) impose(0.0) limits(0.0) on(0.0) punitive(1.0) damages(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) in(0.0) the(0.0) first(0.0) 11(0.0) months(0.0) of(0.0) 1994(1.0) 
+,(0.0) juries(1.0) in(0.0) Alabama(1.0) awarded(0.0) more(0.0) than(0.0) $(0.0) 170(0.0) million(0.0) in(0.0) punitive(1.0) damages(1.0) ,(0.0) not(0.0) including(0.0) wrongful(1.0) death(0.0) actions(0.0) .(0.0) 
+The(0.0) time(0.0) is(0.0) now(0.0) for(0.0) true(0.0) commonsense(1.0) legal(1.0) reform(1.0) .(0.0) This(0.0) body(0.0) must(0.0) act(0.0) now(0.0) to(0.0) turn(0.0) the(0.0) tide(1.0) of(0.0) 
+lawsuit(1.0) abuse(1.0) and(0.0) pass(0.0) this(0.0) measure(1.0) to(0.0) protect(1.0) hard(0.0) working(0.0) Americans(1.0) from(0.0) the(0.0) long(0.0) arm(0.0) of(0.0) the(0.0) trial(0.0) lawyers(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+monumental	reforming	America	legal	Speaker	
+ridiculous	legal	frivolous	lawsuits	lawyers	
+Speaker	
+
+Federal	law	abuses	judicial	
+amuck	Alabama	Alabama	
+.	
+Alabama	favors	Federal	legislation	
+1993	Alabama	Alabama	Alabama	
+punitive	Speaker	1994	
+juries	Alabama	punitive	damages	wrongful	
+commonsense	legal	reform	tide	
+lawsuit	abuse	measure	protect	Americans	
+
+
+reads % = 0.1685823754789272

@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) President(0.0) Clinton(1.0) 's(0.0) crime(0.0) bill(0.0) of(0.0) 1994(0.0) was(0.0) either(0.0) a(0.0) masterstroke(0.0) of(0.0) genius(0.0) or(0.0) it(0.0) was(0.0) a(0.0) joke(0.0) wrapped(0.0) 
+around(0.0) a(0.0) sham(1.0) surrounded(0.0) by(0.0) a(0.0) barrel(0.0) of(0.0) pork(1.0) .(0.0) I(0.0) 'm(0.0) inclined(0.0) to(0.0) agree(0.0) the(0.0) latter(0.0) possibility(0.0) is(0.0) closer(0.0) 
+to(0.0) the(0.0) truth(0.0) .(0.0) The(0.0) proponents(1.0) of(0.0) last(0.0) year(0.0) 's(0.0) crime(1.0) bill(1.0) proclaimed(1.0) from(0.0) every(0.0) rooftop(0.0) that(0.0) 100,000(0.0) police(1.0) would(0.0) 
+be(0.0) put(0.0) on(0.0) the(0.0) streets(1.0) .(0.0) What(0.0) they(0.0) did(0.0) n't(0.0) tell(0.0) anyone(0.0) was(0.0) that(0.0) local(0.0) governments(1.0) had(0.0) to(0.0) cough(0.0) up(0.0) 
+25(0.0) percent(0.0) of(0.0) the(0.0) cost(1.0) of(0.0) fielding(0.0) these(0.0) police(0.0) officers(0.0) .(0.0) With(0.0) most(0.0) local(0.0) and(0.0) State(0.0) governments(0.0) cracking(0.0) under(0.0) the(0.0) 
+strain(0.0) of(0.0) other(0.0) Federal(1.0) mandates(1.0) ,(0.0) many(0.0) localities(1.0) could(0.0) not(0.0) afford(0.0) yet(0.0) another(0.0) mandate(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) we(0.0) must(0.0) 
+reform(1.0) last(0.0) year(0.0) 's(0.0) crime(1.0) bill(1.0) and(0.0) help(0.0) local(0.0) governments(1.0) by(0.0) giving(0.0) them(0.0) block(0.0) grants(1.0) instead(0.0) of(0.0) punishing(1.0) them(0.0) with(0.0) 
+more(0.0) mandates(1.0) .(0.0) Local(0.0) control(0.0) and(0.0) local(0.0) problem(0.0) solving(0.0) from(0.0) those(0.0) on(0.0) the(0.0) front(0.0) line(0.0) combating(1.0) crime(1.0) ,(0.0) that(0.0) is(0.0) 
+the(0.0) key(0.0) ,(0.0) not(0.0) one-size-fits-all(1.0) from(0.0) an(0.0) idiocracy(1.0) ensconced(1.0) on(0.0) the(0.0) banks(1.0) of(0.0) the(0.0) Potomac(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) Americans(1.0) 
+spoke(0.0) last(0.0) November(0.0) 8(0.0) .(0.0) They(0.0) continue(0.0) to(0.0) speak(0.0) through(0.0) this(0.0) Contract(1.0) With(0.0) America(1.0) .(0.0) We(0.0) will(0.0) enact(1.0) it(0.0) and(0.0) 
+we(0.0) will(0.0) get(0.0) tough(0.0) on(0.0) crime(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Clinton	
+sham	pork	
+proponents	crime	bill	proclaimed	police	
+streets	governments	
+cost	
+Federal	mandates	localities	mandate	Speaker	
+reform	crime	bill	governments	grants	punishing	
+mandates	combating	crime	
+one-size-fits-all	idiocracy	ensconced	banks	Potomac	Speaker	Americans	
+Contract	America	enact	
+crime	
+
+reads % = 0.17307692307692307

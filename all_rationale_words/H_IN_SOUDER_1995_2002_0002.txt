@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) support(0.0) of(0.0) our(0.0) friend(0.0) and(0.0) ally(1.0) ,(0.0) Israel(0.0) ,(0.0) for(0.0) celebrating(0.0) the(0.0) 54th(1.0) Independence(0.0) Day(0.0) 
+for(0.0) the(0.0) State(0.0) of(0.0) Israel(0.0) .(0.0) It(0.0) is(0.0) important(0.0) at(0.0) this(0.0) time(0.0) that(0.0) we(0.0) stand(0.0) with(0.0) our(0.0) friend(0.0) and(0.0) ally(1.0) 
+,(0.0) Israel(0.0) .(0.0) There(0.0) is(0.0) a(0.0) famous(0.0) story(0.0) that(0.0) Davy(0.0) Crockett(1.0) told(0.0) .(0.0) It(0.0) is(0.0) in(0.0) the(0.0) book(0.0) ``(0.0) Three(0.0) 
+Roads(0.0) to(0.0) the(0.0) Alamo(1.0) .(0.0) ''(0.0) Davy(0.0) Crockett(1.0) got(0.0) into(0.0) an(0.0) argument(1.0) and(0.0) then(0.0) there(0.0) was(0.0) a(0.0) brawl(0.0) afterwards(0.0) .(0.0) 
+One(0.0) of(0.0) his(0.0) friends(0.0) did(0.0) not(0.0) help(0.0) him(0.0) out(0.0) and(0.0) Davy(0.0) Crockett(1.0) got(0.0) kind(0.0) of(0.0) beaten(0.0) up(0.0) in(0.0) the(0.0) brawl(0.0) 
+.(0.0) He(0.0) asked(0.0) his(0.0) friend(0.0) afterwards(0.0) ,(0.0) how(0.0) come(0.0) you(0.0) did(0.0) not(0.0) help(0.0) me(0.0) ?(0.0) His(0.0) friend(0.0) said(0.0) ,(0.0) well(0.0) 
+,(0.0) it(0.0) was(0.0) really(0.0) controversial(0.0) and(0.0) it(0.0) was(0.0) kind(0.0) of(0.0) a(0.0) difficult(0.0) decision(0.0) ,(0.0) and(0.0) I(0.0) was(0.0) not(0.0) sure(0.0) if(0.0) 
+I(0.0) wanted(0.0) to(0.0) back(0.0) you(0.0) up(0.0) .(0.0) He(0.0) said(0.0) ,(0.0) hey(0.0) ,(0.0) you(0.0) do(0.0) not(0.0) need(0.0) friends(0.0) when(0.0) everybody(0.0) is(0.0) 
+in(0.0) agreement(1.0) with(0.0) you(0.0) .(0.0) You(0.0) do(0.0) not(0.0) need(0.0) friends(0.0) when(0.0) everybody(0.0) thinks(0.0) what(0.0) you(0.0) are(0.0) doing(0.0) is(0.0) wonderful(0.0) .(0.0) 
+You(0.0) need(0.0) friends(0.0) when(0.0) you(0.0) are(0.0) in(0.0) a(0.0) fight(1.0) and(0.0) there(0.0) is(0.0) a(0.0) question(0.0) over(0.0) the(0.0) principles(1.0) .(0.0) We(0.0) are(0.0) 
+not(0.0) the(0.0) government(1.0) of(0.0) Israel(0.0) .(0.0) It(0.0) is(0.0) a(0.0) difficult(0.0) time(0.0) for(0.0) Israel(0.0) .(0.0) They(0.0) made(0.0) some(0.0) decisions(0.0) to(0.0) go(0.0) 
+after(0.0) terrorists(1.0) that(0.0) were(0.0) attacking(0.0) their(0.0) right(0.0) to(0.0) exist(0.0) ,(0.0) just(0.0) like(0.0) we(0.0) have(0.0) gone(0.0) after(0.0) terrorists(1.0) that(0.0) are(0.0) attacking(0.0) 
+our(0.0) right(0.0) to(0.0) exist(0.0) .(0.0) Whether(0.0) or(0.0) not(0.0) I(0.0) would(0.0) have(0.0) done(0.0) the(0.0) completely(0.0) same(0.0) methods(0.0) that(0.0) Israel(0.0) has(0.0) used(0.0) 
+,(0.0) I(0.0) do(0.0) not(0.0) know(0.0) .(0.0) I(0.0) think(0.0) so(0.0) ,(0.0) but(0.0) I(0.0) am(0.0) not(0.0) the(0.0) leader(0.0) of(0.0) Israel(0.0) .(0.0) Ariel(0.0) 
+Sharon(1.0) is(0.0) the(0.0) Prime(0.0) Minister(0.0) of(0.0) Israel(0.0) and(0.0) the(0.0) leader(0.0) of(0.0) Israel(0.0) ,(0.0) and(0.0) I(0.0) believe(0.0) it(0.0) is(0.0) important(0.0) that(0.0) 
+we(0.0) stand(0.0) with(0.0) them(0.0) .(0.0) One(0.0) of(0.0) the(0.0) debates(1.0) when(0.0) I(0.0) have(0.0) been(0.0) in(0.0) the(0.0) Middle(0.0) East(0.0) is(0.0) whether(0.0) or(0.0) 
+not(0.0) Israel(0.0) has(0.0) displaced(0.0) the(0.0) Palestinians(1.0) .(0.0) Any(0.0) student(0.0) of(0.0) history(0.0) ,(0.0) even(0.0) somebody(0.0) who(0.0) has(0.0) not(0.0) focused(0.0) on(0.0) history(0.0) 
+,(0.0) realizes(0.0) that(0.0) there(0.0) has(0.0) been(0.0) a(0.0) conflict(0.0) ,(0.0) basically(0.0) ,(0.0) an(0.0) eternal(1.0) conflict(0.0) over(0.0) who(0.0) was(0.0) where(0.0) .(0.0) But(0.0) 
+when(0.0) the(0.0) Jews(1.0) were(0.0) dispersed(0.0) around(0.0) the(0.0) world(0.0) and(0.0) others(0.0) moved(0.0) in(0.0) does(0.0) not(0.0) mean(0.0) that(0.0) when(0.0) the(0.0) Nation(1.0) of(0.0) 
+Israel(0.0) was(0.0) created(0.0) in(0.0) 1948(1.0) ,(0.0) that(0.0) suddenly(0.0) the(0.0) people(0.0) who(0.0) were(0.0) displaced(0.0) at(0.0) that(0.0) point(0.0) had(0.0) any(0.0) more(0.0) of(0.0) 
+a(0.0) legitimate(0.0) claim(0.0) ,(0.0) even(0.0) in(0.0) a(0.0) secular(1.0) way(0.0) ,(0.0) than(0.0) the(0.0) people(0.0) who(0.0) were(0.0) moved(0.0) out(0.0) and(0.0) dispersed(0.0) before(0.0) 
+that(0.0) .(0.0) It(0.0) is(0.0) important(0.0) that(0.0) we(0.0) recognize(0.0) that(0.0) that(0.0) is(0.0) an(0.0) independent(0.0) state(0.0) of(0.0) Israel(0.0) .(0.0) When(0.0) we(0.0) met(0.0) 
+with(0.0) Dr.(0.0) Arakat(0.0) and(0.0) the(0.0) Palestinians(1.0) in(0.0) Jericho(0.0) ,(0.0) Dr.(0.0) Arakat(0.0) was(0.0) promoting(0.0) that(0.0) they(0.0) needed(0.0) a(0.0) contiguous(0.0) state(0.0) ,(0.0) 
+a(0.0) Palestinian(1.0) state(0.0) .(0.0) Part(0.0) of(0.0) the(0.0) argument(1.0) that(0.0) I(0.0) had(0.0) was(0.0) why(0.0) should(0.0) we(0.0) trust(0.0) you(0.0) when(0.0) you(0.0) still(0.0) 
+have(0.0) it(0.0) in(0.0) your(0.0) Constitution(1.0) that(0.0) Israel(0.0) does(0.0) not(0.0) have(0.0) the(0.0) right(0.0) to(0.0) exist(0.0) .(0.0) Conflict(0.0) erupted(0.0) ,(0.0) verbal(0.0) 
+
+
+----- below are rationale words -----
+
+ally	54th	
+ally	
+Crockett	
+Alamo	Crockett	argument	
+Crockett	
+
+
+
+agreement	
+fight	principles	
+government	
+terrorists	terrorists	
+
+
+Sharon	
+debates	
+Palestinians	
+eternal	
+Jews	Nation	
+1948	
+secular	
+
+Palestinians	
+Palestinian	argument	
+Constitution	
+
+reads % = 0.052

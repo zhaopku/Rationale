@@ -1,0 +1,24 @@
+This is from a Republican
+----- below is the original text -----
+Then(0.0) ,(0.0) finally(0.0) ,(0.0) they(0.0) talk(0.0) about(0.0) slashing(1.0) and(0.0) severe(0.0) cuts(1.0) to(0.0) spending(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) our(0.0) budget(1.0) increases(1.0) spending(1.0) 
+by(0.0) 3.4(0.0) percent(0.0) every(0.0) single(0.0) year(0.0) ,(0.0) on(0.0) average(0.0) ,(0.0) and(0.0) we(0.0) do(0.0) that(0.0) because(0.0) that(0.0) 's(0.0) the(0.0) number(0.0) that(0.0) 
+you(0.0) need(0.0) in(0.0) order(0.0) to(0.0) bend(0.0) the(0.0) curve(0.0) down(0.0) so(0.0) that(0.0) we(0.0) do(0.0) indeed(0.0) get(0.0) to(0.0) balance(0.0) .(0.0) Mr.(0.0) Chairman(1.0) 
+,(0.0) the(0.0) Path(0.0) to(0.0) Prosperity(1.0) ensures(0.0) that(0.0) we(0.0) 're(0.0) honoring(1.0) America(1.0) 's(0.0) most(0.0) important(0.0) priorities(1.0) .(0.0) Our(0.0) budget(1.0) saves(0.0) and(0.0) 
+strengthens(0.0) and(0.0) secures(0.0) Medicare(1.0) .(0.0) We(0.0) protect(0.0) national(1.0) security(0.0) .(0.0) It(0.0) cares(0.0) for(0.0) the(0.0) poor(1.0) and(0.0) the(0.0) sick(1.0) by(0.0) repairing(1.0) 
+America(1.0) 's(0.0) safety(0.0) net(0.0) programs(1.0) .(0.0) And(0.0) we(0.0) expand(0.0) economic(1.0) opportunities(0.0) for(0.0) all(0.0) .(0.0) We(0.0) believe(0.0) in(0.0) the(0.0) industriousness(1.0) and(0.0) 
+the(0.0) ingenuity(1.0) and(0.0) the(0.0) dreams(0.0) of(0.0) the(0.0) American(0.0) people(0.0) .(0.0) It(0.0) 's(0.0) time(0.0) that(0.0) we(0.0) have(0.0) a(0.0) government(1.0) that(0.0) is(0.0) 
+worthy(0.0) of(0.0) the(0.0) people(0.0) that(0.0) we(0.0) represent(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+slashing	cuts	spending	Chairman	budget	increases	spending	
+
+Chairman	
+Prosperity	honoring	America	priorities	budget	
+Medicare	national	poor	sick	repairing	
+America	programs	economic	industriousness	
+ingenuity	government	
+
+
+reads % = 0.1610738255033557

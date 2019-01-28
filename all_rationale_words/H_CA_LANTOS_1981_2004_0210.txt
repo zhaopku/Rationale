@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) strongly(0.0) support(0.0) this(0.0) important(0.0) resolution(1.0) and(0.0) urge(1.0) all(0.0) of(0.0) my(0.0) colleagues(0.0) to(0.0) do(0.0) so(0.0) as(0.0) well(0.0) ,(0.0) 
+and(0.0) I(0.0) would(0.0) first(0.0) like(0.0) to(0.0) commend(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) ((0.0) Mr.(0.0) Cox(1.0) )(0.0) for(1.0) introducing(1.0) this(1.0) important(1.0) and(0.0) 
+timely(0.0) resolution(1.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) California(0.0) ((0.0) Mr.(0.0) Cox(1.0) )(0.0) is(1.0) a(1.0) fighter(1.0) for(0.0) human(0.0) rights(1.0) and(0.0) democracy(1.0) in(0.0) 
+Asia(1.0) and(0.0) throughout(0.0) the(0.0) world(0.0) ,(0.0) and(0.0) I(0.0) am(0.0) delighted(0.0) to(0.0) support(0.0) this(0.0) resolution(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) when(0.0) Hong(0.0) 
+Kong(0.0) reverted(0.0) to(0.0) Chinese(0.0) control(0.0) in(0.0) 1997(0.0) ,(0.0) some(0.0) of(0.0) us(0.0) who(0.0) cared(0.0) deeply(0.0) about(0.0) the(0.0) future(0.0) of(0.0) Hong(0.0) Kong(0.0) 
+went(0.0) to(0.0) witness(0.0) that(0.0) event(0.0) .(0.0) We(0.0) feared(0.0) that(0.0) the(0.0) Chinese(0.0) government(1.0) would(0.0) not(0.0) be(0.0) true(0.0) to(0.0) its(0.0) word(0.0) that(0.0) 
+the(0.0) people(0.0) of(0.0) Hong(0.0) Kong(0.0) would(0.0) be(0.0) able(0.0) to(0.0) maintain(0.0) their(0.0) free(0.0) and(0.0) open(0.0) way(0.0) of(0.0) life(0.0) and(0.0) that(0.0) they(0.0) 
+would(0.0) be(0.0) free(0.0) of(0.0) interference(1.0) from(0.0) the(0.0) Mainland(0.0) government(0.0) .(0.0) My(0.0) worst(0.0) fears(1.0) about(0.0) China(1.0) 's(0.0) intentions(0.0) have(0.0) now(0.0) materialized(0.0) 
+.(0.0) On(0.0) the(0.0) surface(0.0) ,(0.0) much(0.0) about(0.0) Hong(0.0) Kong(0.0) remains(0.0) the(0.0) same(0.0) .(0.0) The(0.0) people(0.0) of(0.0) Hong(0.0) Kong(0.0) continue(0.0) to(0.0) 
+play(0.0) a(0.0) role(0.0) in(0.0) the(0.0) running(0.0) of(0.0) their(0.0) economy(1.0) .(0.0) Just(0.0) this(0.0) past(0.0) weekend(0.0) ,(0.0) elections(1.0) were(0.0) held(0.0) for(0.0) half(0.0) 
+of(0.0) the(0.0) seats(0.0) of(0.0) the(0.0) Legislative(0.0) Council(0.0) .(0.0) Opposition(0.0) is(0.0) strong(0.0) and(0.0) growing(0.0) in(0.0) the(0.0) Hong(0.0) Kong(0.0) legislature(0.0) ,(0.0) and(0.0) 
+the(0.0) local(0.0) press(0.0) often(0.0) criticizes(1.0) those(0.0) who(0.0) govern(0.0) Hong(0.0) Kong(0.0) .(0.0) But(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) there(0.0) are(0.0) very(0.0) troubling(0.0) 
+signs(0.0) that(0.0) the(0.0) Chinese(0.0) government(0.0) has(0.0) lost(0.0) its(0.0) patience(0.0) with(0.0) Hong(0.0) Kong(0.0) 's(0.0) independent(0.0) way(0.0) of(0.0) life(0.0) and(0.0) is(0.0) moving(0.0) 
+steadily(0.0) to(0.0) bring(0.0) the(0.0) people(0.0) of(0.0) Hong(0.0) Kong(0.0) under(0.0) the(0.0) firm(0.0) grip(0.0) of(0.0) Beijing(0.0) .(0.0) Last(0.0) year(0.0) ,(0.0) hundreds(0.0) of(0.0) 
+thousands(1.0) of(0.0) Hong(0.0) Kong(0.0) citizens(1.0) turned(0.0) out(0.0) on(0.0) the(0.0) streets(0.0) after(0.0) the(0.0) Hong(0.0) Kong(0.0) government(1.0) at(0.0) the(0.0) Mainland(0.0) 's(0.0) demand(0.0) 
+attempted(0.0) to(0.0) erode(1.0) civil(1.0) liberties(1.0) in(0.0) the(0.0) name(0.0) of(0.0) protecting(1.0) national(1.0) security(0.0) .(0.0) Three(0.0) prominent(0.0) members(0.0) of(0.0) the(0.0) press(0.0) who(0.0) 
+often(0.0) criticize(1.0) the(0.0) Chinese(0.0) government(0.0) recently(0.0) resigned(0.0) their(0.0) positions(0.0) after(0.0) threats(0.0) were(0.0) made(0.0) to(0.0) the(0.0) safety(0.0) of(0.0) their(0.0) families(0.0) .(0.0) 
+And(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) the(0.0) Chinese(1.0) government(1.0) recently(0.0) declared(0.0) that(0.0) universal(1.0) suffrage(1.0) would(0.0) not(0.0) apply(0.0) to(0.0) the(0.0) election(1.0) of(0.0) 
+the(0.0) chief(0.0) executive(0.0) in(0.0) 2007(0.0) or(0.0) to(0.0) the(0.0) election(1.0) of(0.0) members(0.0) of(0.0) the(0.0) Legislative(0.0) Council(0.0) in(0.0) 2008(0.0) .(0.0) Despite(0.0) the(0.0) 
+solemn(0.0) promise(0.0) of(0.0) the(0.0) Sino-British(1.0) Joint(0.0) Declaration(0.0) that(0.0) democratic(1.0) reform(1.0) would(0.0) continue(0.0) in(0.0) Hong(0.0) Kong(0.0) towards(0.0) universal(1.0) suffrage(1.0) ,(0.0) the(0.0) 
+Chinese(1.0) government(1.0) has(0.0) clearly(0.0) had(0.0) enough(0.0) of(0.0) Hong(0.0) Kong(0.0) 's(0.0) independent(0.0) voices(0.0) .(0.0) The(0.0) Chinese(0.0) leadership(0.0) fights(0.0) full(0.0) democracy(1.0) in(0.0) 
+Hong(0.0) Kong(0.0) for(0.0) a(0.0) very(0.0) simple(0.0) reason(0.0) :(0.0) they(0.0) fully(0.0) understand(0.0) that(0.0) Hong(0.0) Kong(0.0) would(0.0) thrive(0.0) and(0.0) prosper(1.0) under(0.0) a(0.0) 
+fully(0.0) democratic(1.0) government(1.0) .(0.0) Such(0.0) democratic(1.0) success(0.0) would(0.0) make(0.0) it(0.0) impossible(0.0) to(0.0) tell(0.0) the(0.0) rapidly(0.0) growing(0.0) middle(1.0) class(1.0) in(0.0) Shanghai(1.0) 
+,(0.0) Beijing(1.0) ,(0.0) and(0.0) other(0.0) cities(1.0) throughout(0.0) China(1.0) that(0.0) the(0.0) Chinese(0.0) people(0.0) are(0.0) not(0.0) ready(0.0) for(0.0) open(0.0) and(0.0) free(0.0) elections(0.0) 
+and(0.0) that(0.0) chaos(0.0) would(0.0) ensue(0.0) should(0.0) such(0.0) elections(0.0) occur(0.0) .(0.0) Yesterday(0.0) 's(0.0) election(1.0) results(0.0) from(0.0) Hong(0.0) Kong(0.0) demonstrate(0.0) clearly(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	resolution	urge	
+Cox	for	introducing	this	important	
+resolution	Cox	is	a	fighter	rights	democracy	
+Asia	resolution	Speaker	
+
+government	
+
+interference	fears	China	
+
+economy	elections	
+
+criticizes	Speaker	
+
+
+thousands	citizens	government	
+erode	civil	liberties	protecting	national	
+criticize	
+Speaker	Chinese	government	universal	suffrage	election	
+election	
+Sino-British	democratic	reform	universal	suffrage	
+Chinese	government	democracy	
+prosper	
+democratic	government	democratic	middle	class	Shanghai	
+Beijing	cities	China	
+election	
+
+reads % = 0.122

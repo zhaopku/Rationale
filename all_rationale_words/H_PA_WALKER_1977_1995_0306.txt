@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(1.0) ,(0.0) I(0.0) would(1.0) like(0.0) to(0.0) point(0.0) out(0.0) we(0.0) used(0.0) the(0.0) words(0.0) ``(0.0) received(0.0) funds(0.0) .(0.0) ''(0.0) If(1.0) we(0.0) had(0.0) used(0.0) 
+the(0.0) term(0.0) ``(0.0) awarded(0.0) funds(0.0) ,(0.0) ''(0.0) then(0.0) we(0.0) would(1.0) have(0.0) had(0.0) a(0.0) problem(0.0) ;(0.0) however(0.0) ,(0.0) should(0.0) the(0.0) university(0.0) 
+never(0.0) receive(0.0) the(0.0) funds(0.0) because(0.0) they(0.0) refused(0.0) to(0.0) accept(1.0) them(0.0) ,(0.0) then(0.0) this(0.0) section(0.0) would(0.0) not(1.0) apply(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+would	If	
+would	
+accept	not	
+
+reads % = 0.0847457627118644

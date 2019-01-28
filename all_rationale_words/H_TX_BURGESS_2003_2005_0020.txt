@@ -1,0 +1,40 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) just(0.0) like(0.0) the(0.0) gentlewoman(0.0) from(0.0) Texas(0.0) ,(0.0) I(0.0) returned(0.0) from(0.0) my(0.0) district(0.0) late(0.0) last(0.0) night(0.0) .(0.0) On(0.0) the(0.0) plane(0.0) 
+ride(0.0) up(0.0) here(0.0) ,(0.0) I(0.0) could(0.0) not(0.0) help(0.0) but(0.0) reflect(0.0) on(0.0) how(0.0) grateful(0.0) I(0.0) am(0.0) to(0.0) my(0.0) constituents(1.0) for(0.0) allowing(0.0) 
+me(0.0) the(0.0) opportunity(0.0) to(0.0) serve(0.0) here(0.0) in(0.0) Congress(1.0) ;(0.0) and(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) also(0.0) reflected(0.0) on(0.0) the(0.0) fact(0.0) 
+that(0.0) I(0.0) was(0.0) grateful(0.0) for(0.0) the(0.0) leadership(0.0) we(0.0) have(0.0) in(0.0) this(0.0) House(0.0) .(0.0) I(0.0) am(0.0) grateful(0.0) for(0.0) the(0.0) leadership(0.0) we(0.0) 
+have(0.0) in(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) ((0.0) Mr.(0.0) DeLay(1.0) )(0.0) ,(0.0) our(0.0) majority(1.0) leader(0.0) .(0.0) The(0.0) majority(1.0) leader(0.0) has(0.0) his(0.0) 
+critics(0.0) .(0.0) None(0.0) of(0.0) us(0.0) are(0.0) without(0.0) fault(0.0) ,(0.0) but(0.0) recently(0.0) it(0.0) seems(0.0) we(0.0) can(0.0) not(0.0) pick(0.0) up(0.0) a(0.0) paper(0.0) 
+without(0.0) some(0.0) half-truth(1.0) or(0.0) conjecture(0.0) being(0.0) put(0.0) out(0.0) there(0.0) as(0.0) fact(0.0) .(0.0) I(0.0) guess(0.0) the(0.0) game(0.0) plan(0.0) is(0.0) to(0.0) heck(0.0) 
+with(0.0) facts(0.0) ,(0.0) just(0.0) keep(0.0) repeating(0.0) it(0.0) and(0.0) eventually(0.0) it(0.0) will(0.0) receive(0.0) believability(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) our(0.0) majority(1.0) leader(0.0) 
+is(0.0) a(0.0) target(0.0) because(0.0) he(0.0) is(0.0) so(0.0) effective(0.0) .(0.0) They(0.0) can(0.0) not(0.0) beat(0.0) him(0.0) in(0.0) the(0.0) arena(0.0) of(0.0) public(1.0) debate(1.0) 
+.(0.0) Their(0.0) policies(1.0) do(0.0) not(0.0) sell(0.0) in(0.0) the(0.0) marketplace(0.0) of(0.0) ideas(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) ask(0.0) my(0.0) colleagues(0.0) to(0.0) 
+look(0.0) back(0.0) at(0.0) 10(0.0) years(0.0) of(0.0) electoral(1.0) defeats(1.0) on(0.0) the(0.0) other(0.0) side(0.0) to(0.0) prove(0.0) the(0.0) point(0.0) .(0.0) Well(0.0) ,(0.0) if(0.0) 
+they(0.0) can(0.0) not(0.0) outwork(0.0) him(0.0) and(0.0) outthink(0.0) him(0.0) ,(0.0) if(0.0) people(0.0) are(0.0) not(0.0) buying(0.0) what(0.0) they(0.0) are(0.0) selling(0.0) ,(0.0) then(0.0) 
+the(0.0) game(0.0) plan(0.0) apparently(0.0) is(0.0) to(0.0) tarnish(1.0) our(0.0) majority(1.0) leader(0.0) ,(0.0) and(0.0) maybe(0.0) then(0.0) they(0.0) can(0.0) change(0.0) the(0.0) equation(1.0) .(0.0) 
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) am(0.0) grateful(0.0) for(0.0) our(0.0) majority(1.0) leader(0.0) ,(0.0) and(0.0) I(0.0) am(0.0) grateful(0.0) to(0.0) be(0.0) working(0.0) with(0.0) him(0.0) 
+.(0.0) This(0.0) rank-and-file(1.0) Member(0.0) will(0.0) stand(0.0) with(0.0) him(0.0) .(0.0) I(0.0) would(0.0) rather(0.0) be(0.0) working(0.0) with(0.0) our(0.0) leader(0.0) than(0.0) running(0.0) with(0.0) 
+the(0.0) pack(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+constituents	
+Congress	Speaker	
+
+DeLay	majority	majority	
+
+half-truth	
+Speaker	majority	
+public	debate	
+policies	Speaker	
+electoral	defeats	
+
+tarnish	majority	equation	
+Speaker	majority	
+rank-and-file	
+
+
+reads % = 0.06907894736842106

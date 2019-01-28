@@ -1,0 +1,20 @@
+This is from a Democrat
+----- below is the original text -----
+My(0.0) colleagues(0.0) on(0.0) the(0.0) other(0.0) side(0.0) want(0.0) to(0.0) say(0.0) no(0.0) ,(0.0) no(0.0) ,(0.0) no(0.0) ,(0.0) no(0.0) ,(0.0) this(0.0) is(0.0) not(0.0) about(0.0) 
+Enron(1.0) .(0.0) Explain(0.0) that(0.0) to(0.0) the(0.0) thousands(0.0) of(0.0) Enron(1.0) employees(0.0) who(0.0) lost(0.0) their(0.0) life(0.0) savings(1.0) in(0.0) their(0.0) 401(1.0) ((0.0) k(0.0) 
+)(0.0) s(0.0) and(0.0) who(0.0) would(0.0) like(0.0) to(0.0) bring(0.0) a(0.0) civil(0.0) fraud(0.0) action(0.0) against(0.0) executives(0.0) at(0.0) Enron(0.0) in(0.0) State(0.0) court(0.0) in(0.0) 
+Harris(0.0) County(1.0) ,(0.0) Houston(1.0) ,(0.0) Texas(1.0) .(0.0) Explain(0.0) that(0.0) to(0.0) them(0.0) ,(0.0) please(0.0) ,(0.0) if(0.0) this(0.0) is(0.0) not(0.0) about(0.0) Enron(1.0) 
+.(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) 2(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) ((0.0) Mr.(0.0) Stark(1.0) )(0.0) .(0.0) ((0.0) Mr.(0.0) 
+STARK(1.0) asked(0.0) and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) )(0.0) 
+
+
+----- below are rationale words -----
+
+
+Enron	Enron	savings	401	
+
+County	Houston	Texas	Enron	
+Speaker	Stark	
+STARK	
+
+reads % = 0.09565217391304348

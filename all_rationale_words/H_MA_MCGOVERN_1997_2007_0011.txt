@@ -1,0 +1,10 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) LINCOLN(1.0) DIAZ-BALART(0.0) of(0.0) Florida(0.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) I(0.0) would(0.0) ask(0.0) how(0.0) much(0.0) time(0.0) is(0.0) remaining(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+LINCOLN	Speaker	
+
+reads % = 0.1111111111111111

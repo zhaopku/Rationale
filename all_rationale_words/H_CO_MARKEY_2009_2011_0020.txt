@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+And(0.0) it(0.0) 's(0.0) altogether(0.0) understandable(0.0) why(0.0) the(0.0) gentleman(0.0) who(0.0) did(0.0) object(0.0) objected(0.0) because(0.0) I(0.0) know(0.0) where(0.0) he(0.0) 's(0.0) coming(0.0) from(0.0) on(0.0) 
+this(0.0) .(0.0) He(0.0) did(0.0) not(0.0) want(0.0) to(0.0) hear(0.0) the(0.0) next(0.0) sentence(0.0) ,(0.0) because(0.0) the(0.0) gentleman(0.0) from(0.0) Montana(1.0) is(0.0) someone(0.0) who(0.0) 
+does(0.0) believe(0.0) that(0.0) the(0.0) tax(1.0) breaks(1.0) for(1.0) Big(1.0) Oil(1.0) should(1.0) stay(1.0) on(0.0) the(0.0) books(0.0) .(0.0) It(0.0) 's(0.0) $(0.0) 40(0.0) billion(1.0) 
+over(0.0) the(0.0) next(0.0) 5(0.0) years(0.0) ,(0.0) and(0.0) he(0.0) 'd(0.0) rather(0.0) see(0.0) a(0.0) cutting(0.0) of(0.0) Big(1.0) Oil(1.0) be(0.0) substituted(0.0) by(0.0) a(0.0) 
+cutting(0.0) of(0.0) Big(0.0) Bird(0.0) .(0.0) Okay(0.0) ?(0.0) That(0.0) 's(0.0) what(0.0) tonight(0.0) 's(0.0) all(0.0) about(0.0) ,(0.0) just(0.0) this(0.0) misallocation(1.0) of(0.0) resources(1.0) 
+within(0.0) our(0.0) society(1.0) .(0.0) And(0.0) I(0.0) understand(0.0) why(0.0) the(0.0) gentleman(0.0) from(0.0) Montana(1.0) does(0.0) n't(0.0) want(0.0) to(0.0) hear(0.0) those(0.0) words(0.0) spoken(0.0) 
+,(0.0) but(0.0) he(0.0) should(0.0) get(0.0) ready(0.0) to(0.0) hear(0.0) it(0.0) over(0.0) and(0.0) over(0.0) again(0.0) .(0.0) Big(0.0) Oil(1.0) is(0.0) going(0.0) to(0.0) get(0.0) 
+all(0.0) the(0.0) breaks(1.0) that(0.0) they(0.0) want(0.0) ,(0.0) and(0.0) it(0.0) might(0.0) come(0.0) at(0.0) the(0.0) expense(1.0) of(0.0) children(0.0) 's(0.0) television(0.0) or(0.0) poor(1.0) 
+people(0.0) .(0.0) But(0.0) I(0.0) will(0.0) tell(0.0) you(0.0) this(0.0) much(0.0) .(0.0) Grandma(0.0) is(0.0) n't(0.0) going(0.0) to(0.0) get(0.0) her(0.0) lunch(0.0) because(0.0) of(0.0) 
+these(0.0) people(0.0) over(0.0) here(0.0) .(0.0) And(0.0) these(0.0) guys(0.0) want(0.0) to(0.0) continue(0.0) to(0.0) take(0.0) Big(1.0) Oil(1.0) to(0.0) lunch(0.0) ,(0.0) but(0.0) we(0.0) 
+'re(0.0) going(0.0) to(0.0) have(0.0) a(0.0) big(0.0) debate(1.0) about(0.0) this(0.0) as(0.0) each(0.0) and(0.0) every(0.0) day(0.0) goes(0.0) by(0.0) .(0.0) I(0.0) thank(0.0) the(0.0) 
+gentlelady(0.0) ,(0.0) and(0.0) I(0.0) congratulate(0.0) the(0.0) gentleman(0.0) from(0.0) Oregon(1.0) for(0.0) making(0.0) this(0.0) amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Montana	
+tax	breaks	for	Big	Oil	should	stay	billion	
+Big	Oil	
+misallocation	resources	
+society	Montana	
+Oil	
+breaks	expense	poor	
+
+Big	Oil	
+debate	
+Oregon	amendment	
+
+reads % = 0.10212765957446808

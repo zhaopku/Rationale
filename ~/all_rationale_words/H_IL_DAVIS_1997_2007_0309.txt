@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) ask(1.0) unanimous(0.0) consent(0.0) that(0.0) the(0.0) Committee(0.0) on(0.0) Oversight(0.0) and(0.0) Government(0.0) Reform(1.0) be(0.0) discharged(1.0) from(0.0) further(1.0) consideration(0.0) of(0.0) the(0.0) 
+concurrent(1.0) resolution(0.0) ((0.0) H.(1.0) Con(0.0) .(0.0) Res(1.0) .(0.0) 143(1.0) )(0.0) honoring(0.0) the(0.0) 50th(1.0) anniversary(1.0) of(0.0) Stan(1.0) Hywet(1.0) Hall(0.0) &(0.0) Gardens(1.0) 
+,(0.0) and(0.0) ask(0.0) for(0.0) its(0.0) immediate(0.0) consideration(0.0) in(0.0) the(0.0) House(0.0) .(0.0) The(0.0) Clerk(1.0) read(1.0) the(0.0) title(0.0) of(0.0) the(0.0) concurrent(1.0) resolution(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+ask	Reform	discharged	further	
+concurrent	H.	Res	143	50th	anniversary	Stan	Hywet	Gardens	
+Clerk	read	concurrent	
+
+
+reads % = 0.25806451612903225

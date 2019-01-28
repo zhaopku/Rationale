@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) agree(0.0) to(0.0) the(0.0) concurrent(0.0) resolution(0.0) ((0.0) H.(0.0) Con(1.0) .(0.0) Res(0.0) .(0.0) 147(0.0) 
+)(0.0) commemorating(0.0) the(0.0) 20th(0.0) Anniversary(0.0) of(0.0) the(0.0) Orphan(0.0) Drug(0.0) Act(0.0) and(0.0) the(0.0) National(0.0) Organization(0.0) for(0.0) Rare(0.0) Disorders(0.0) ,(0.0) as(0.0) amended(0.0) 
+.(0.0) The(0.0) Clerk(0.0) read(0.0) as(0.0) follows(0.0) :(0.0) H.(0.0) Con(1.0) .(0.0) Res(0.0) .(0.0) 147(0.0) Whereas(0.0) Congress(0.0) passed(0.0) ,(0.0) and(0.0) President(0.0) Ronald(1.0) 
+Reagan(1.0) signed(0.0) into(0.0) law(0.0) on(0.0) January(0.0) 4(0.0) ,(0.0) 1983(0.0) ,(0.0) the(0.0) Orphan(0.0) Drug(0.0) Act(0.0) ;(0.0) Whereas(0.0) there(0.0) are(0.0) many(0.0) diseases(0.0) 
+and(0.0) conditions(0.0) ,(0.0) such(0.0) as(0.0) Huntington(0.0) 's(0.0) disease(0.0) ,(0.0) myoclonus(1.0) ,(0.0) ALS(0.0) ((0.0) Lou(1.0) Gehrig(1.0) 's(0.0) disease(0.0) )(0.0) ,(0.0) Tourette(0.0) 
+syndrome(0.0) ,(0.0) and(0.0) muscular(0.0) dystrophy(0.0) ,(0.0) that(0.0) affect(0.0) such(0.0) small(0.0) numbers(0.0) of(0.0) individuals(0.0) --(0.0) populations(0.0) under(0.0) 200,000(0.0) --(0.0) residing(0.0) in(0.0) 
+the(0.0) United(0.0) States(0.0) that(0.0) the(0.0) diseases(0.0) and(0.0) conditions(0.0) are(0.0) considered(0.0) rare(0.0) ;(0.0) Whereas(0.0) there(0.0) are(0.0) 6,000(0.0) known(0.0) rare(0.0) diseases(0.0) and(0.0) 
+conditions(0.0) ,(0.0) affecting(0.0) approximately(0.0) 25,000,000(0.0) Americans(0.0) ;(0.0) Whereas(0.0) these(0.0) rare(0.0) diseases(0.0) and(0.0) conditions(0.0) are(0.0) sometimes(0.0) referred(0.0) to(0.0) as(0.0) ``(0.0) orphan(0.0) 
+''(0.0) diseases(0.0) and(0.0) conditions(0.0) ,(0.0) and(0.0) drugs(1.0) ((0.0) including(0.0) biological(0.0) products(0.0) )(0.0) to(0.0) treat(0.0) them(0.0) are(0.0) sometimes(0.0) referred(0.0) to(0.0) as(0.0) 
+``(0.0) orphan(0.0) drugs(0.0) ''(0.0) ;(0.0) Whereas(0.0) ,(0.0) prior(0.0) to(0.0) 1983(0.0) ,(0.0) because(0.0) so(0.0) few(0.0) individuals(0.0) were(0.0) affected(0.0) by(0.0) any(0.0) one(0.0) 
+orphan(0.0) disease(0.0) or(0.0) condition(0.0) ,(0.0) a(0.0) pharmaceutical(0.0) company(0.0) that(0.0) developed(0.0) an(0.0) orphan(1.0) drug(1.0) may(0.0) have(0.0) reasonably(0.0) expected(0.0) the(0.0) drug(1.0) to(0.0) 
+generate(0.0) relatively(0.0) small(0.0) sales(0.0) in(0.0) comparison(0.0) to(0.0) the(0.0) cost(0.0) of(0.0) developing(0.0) the(0.0) drug(1.0) and(0.0) ,(0.0) therefore(0.0) ,(0.0) to(0.0) incur(0.0) a(0.0) 
+financial(0.0) loss(0.0) ;(0.0) Whereas(0.0) the(0.0) object(0.0) of(0.0) the(0.0) Orphan(0.0) Drug(0.0) Act(0.0) was(0.0) to(0.0) stimulate(0.0) the(0.0) development(0.0) of(0.0) orphan(1.0) drugs(1.0) ;(0.0) 
+Whereas(0.0) the(0.0) Orphan(1.0) Drug(0.0) Act(0.0) is(0.0) one(0.0) of(0.0) the(0.0) most(0.0) successful(0.0) Federal(1.0) laws(1.0) enacted(1.0) in(0.0) the(0.0) last(0.0) 20(0.0) years(0.0) ;(0.0) 
+Whereas(0.0) ,(0.0) prior(0.0) to(0.0) 1983(0.0) ,(0.0) less(0.0) than(0.0) 40(0.0) therapies(0.0) existed(0.0) to(0.0) treat(0.0) orphan(1.0) diseases(1.0) and(0.0) conditions(0.0) as(0.0) compared(0.0) today(0.0) 
+to(0.0) the(0.0) more(0.0) than(0.0) 238(0.0) drugs(1.0) ,(0.0) foods(1.0) ,(0.0) and(0.0) devices(0.0) that(0.0) now(0.0) exist(0.0) to(0.0) treat(0.0) an(0.0) estimated(0.0) 11,000,000(1.0) patients(0.0) 
+in(0.0) the(0.0) United(0.0) States(0.0) ;(0.0) Whereas(0.0) 85(0.0) percent(0.0) of(0.0) orphan(1.0) drugs(1.0) are(0.0) being(0.0) used(0.0) to(0.0) treat(0.0) serious(0.0) or(0.0) life-threatening(0.0) diseases(0.0) 
+,(0.0) 31(0.0) percent(0.0) treat(0.0) rare(0.0) forms(0.0) of(0.0) cancer(1.0) ,(0.0) and(0.0) approximately(0.0) 50(0.0) percent(0.0) are(0.0) approved(0.0) for(0.0) pediatric(0.0) uses(0.0) ;(0.0) Whereas(0.0) 
+the(0.0) National(0.0) Organization(0.0) for(0.0) Rare(0.0) Disorders(0.0) ,(0.0) established(0.0) in(0.0) 1983(0.0) ,(0.0) is(0.0) a(0.0) federation(0.0) of(0.0) voluntary(1.0) health(1.0) organizations(0.0) dedicated(0.0) to(0.0) 
+helping(0.0) people(0.0) with(0.0) orphan(1.0) diseases(1.0) and(0.0) conditions(0.0) and(0.0) assisting(0.0) the(0.0) organizations(1.0) that(0.0) serve(0.0) them(0.0) ;(0.0) and(0.0) Whereas(0.0) the(0.0) National(0.0) Organization(0.0) 
+for(0.0) Rare(0.0) Disorders(0.0) is(0.0) committed(0.0) to(0.0) the(0.0) identification(0.0) ,(0.0) treatment(0.0) ,(0.0) and(0.0) cure(0.0) of(0.0) orphan(1.0) diseases(0.0) and(0.0) conditions(0.0) through(0.0) programs(1.0) 
+of(0.0) education(1.0) ,(0.0) advocacy(1.0) ,(0.0) research(0.0) ,(0.0) and(0.0) service(0.0) :(0.0) Now(0.0) ,(0.0) therefore(0.0) ,(0.0) be(0.0) it(0.0) Resolved(0.0) by(0.0) the(0.0) House(0.0) 
+of(0.0) Representatives(0.0) ((0.0) the(0.0) Senate(0.0) concurring(0.0) )(0.0) ,(0.0) That(0.0) the(0.0) Congress(0.0) celebrates(0.0) the(0.0) 20th(0.0) anniversary(0.0) of(0.0) the(0.0) Orphan(0.0) Drug(0.0) Act(0.0) 
+and(0.0) the(0.0) National(0.0) Organization(0.0) for(0.0) Rare(0.0) Disorders(0.0) ,(0.0) and(0.0) recognizes(0.0) the(0.0) great(0.0) contributions(0.0) the(0.0) Orphan(0.0) Drug(0.0) Act(0.0) has(0.0) made(0.0) to(0.0) 
+the(0.0) rare(0.0) disease(0.0) community(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Con	
+
+Con	Ronald	
+Reagan	
+myoclonus	Lou	Gehrig	
+
+
+
+drugs	
+
+orphan	drug	drug	
+drug	
+orphan	drugs	
+Orphan	Federal	laws	enacted	
+orphan	diseases	
+drugs	foods	11,000,000	
+orphan	drugs	
+cancer	
+voluntary	health	
+orphan	diseases	organizations	
+orphan	programs	
+education	advocacy	
+
+
+
+
+reads % = 0.0720164609053498

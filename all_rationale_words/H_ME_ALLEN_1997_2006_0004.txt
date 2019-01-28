@@ -1,0 +1,44 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) this(0.0) Republican(1.0) budget(1.0) we(1.0) are(1.0) voting(1.0) on(1.0) tonight(1.0) does(1.0) nothing(1.0) to(1.0) address(1.0) the(0.0) plight(1.0) of(1.0) the(0.0) 46(0.0) million(1.0) 
+Americans(1.0) who(0.0) do(0.0) not(0.0) have(0.0) health(1.0) insurance(1.0) .(0.0) It(0.0) does(0.0) not(0.0) improve(0.0) our(0.0) health(1.0) care(1.0) infrastructure(1.0) .(0.0) It(0.0) does(0.0) not(0.0) 
+ensure(0.0) that(0.0) physicians(1.0) receive(0.0) adequate(0.0) Medicare(1.0) reimbursement(1.0) .(0.0) It(0.0) does(0.0) not(0.0) continue(0.0) the(0.0) level(0.0) of(0.0) Federal(1.0) investment(1.0) in(0.0) medical(1.0) research(0.0) 
+that(0.0) has(0.0) led(0.0) to(0.0) great(0.0) advances(0.0) in(0.0) new(0.0) treatments(0.0) and(0.0) cures(1.0) for(0.0) disease(1.0) .(0.0) Instead(0.0) ,(0.0) this(0.0) budget(1.0) increases(1.0) the(0.0) 
+deficit(1.0) and(0.0) adds(0.0) to(0.0) our(0.0) Nation(1.0) 's(0.0) exploding(0.0) national(1.0) debt(1.0) .(0.0) The(0.0) Democratic(1.0) budget(1.0) ,(0.0) on(0.0) the(0.0) other(0.0) hand(0.0) ,(0.0) 
+rejects(1.0) the(0.0) Republicans'(0.0) disastrous(1.0) cuts(1.0) to(1.0) health(1.0) care(1.0) and(0.0) other(0.0) domestic(1.0) priorities(1.0) .(0.0) The(0.0) Republican(1.0) budget(1.0) does(1.0) not(1.0) address(1.0) the(1.0) 
+flawed(1.0) sustainable(1.0) growth(1.0) rate(1.0) formula(1.0) for(1.0) physician(1.0) payments(1.0) .(1.0) Under(1.0) the(1.0) Republican(1.0) budget(1.0) ,(1.0) physicians(1.0) will(1.0) see(1.0) a(1.0) 4.6(1.0) percent(0.0) 
+cut(1.0) to(1.0) their(1.0) Medicare(1.0) payments(1.0) in(0.0) 2006(1.0) ,(0.0) when(0.0) their(0.0) costs(1.0) are(0.0) going(0.0) up(0.0) continuously(0.0) .(0.0) The(0.0) Democratic(1.0) budget(1.0) creates(1.0) 
+a(0.0) reserve(0.0) fund(0.0) to(0.0) increase(0.0) Medicare(1.0) payments(1.0) to(0.0) physicians(1.0) ,(0.0) just(0.0) like(0.0) an(0.0) amendment(1.0) to(0.0) the(0.0) Senate(0.0) budget(1.0) resolution(1.0) that(0.0) 
+passed(0.0) unanimously(1.0) .(0.0) The(0.0) Republican(1.0) budget(1.0) echoes(1.0) the(1.0) President(1.0) 's(1.0) insufficient(1.0) level(1.0) of(0.0) funding(1.0) for(0.0) public(1.0) health(1.0) programs(1.0) ,(0.0) shortchanging(1.0) 
+critical(1.0) medical(1.0) research(0.0) ,(0.0) treatment(0.0) ,(0.0) prevention(1.0) and(0.0) training(0.0) programs(0.0) .(0.0) Programs(0.0) facing(0.0) cuts(1.0) include(0.0) 18(0.0) of(0.0) 19(0.0) institutes(0.0) at(0.0) 
+the(0.0) National(0.0) Institutes(0.0) of(0.0) Health(0.0) ,(0.0) critical(0.0) prevention(0.0) programs(0.0) at(0.0) the(0.0) Centers(0.0) for(0.0) Disease(0.0) Control(0.0) ,(0.0) Graduate(0.0) Medical(0.0) Education(0.0) for(0.0) 
+Children(0.0) 's(0.0) Hospitals(0.0) and(0.0) scores(0.0) of(0.0) other(0.0) health(0.0) programs(0.0) that(0.0) the(0.0) President(0.0) cut(0.0) or(0.0) eliminated(0.0) .(0.0) The(0.0) Democratic(1.0) budget(1.0) rejects(1.0) 
+the(0.0) funding(1.0) cuts(1.0) to(1.0) public(1.0) health(1.0) and(1.0) ensures(1.0) that(1.0) these(0.0) important(0.0) programs(1.0) maintain(0.0) their(0.0) purchasing(0.0) power(0.0) by(0.0) providing(0.0) $(0.0) 18(0.0) 
+billion(1.0) more(0.0) than(0.0) the(0.0) Republican(0.0) budget(1.0) over(1.0) 5(1.0) years(1.0) .(1.0) I(1.0) urge(1.0) you(0.0) to(0.0) vote(1.0) for(0.0) the(0.0) Democratic(1.0) substitute(1.0) and(0.0) 
+respect(0.0) ,(0.0) respect(0.0) ,(0.0) the(0.0) claims(0.0) that(0.0) have(0.0) been(0.0) made(0.0) to(0.0) us(0.0) by(0.0) people(0.0) with(0.0) cancer(1.0) ,(0.0) by(0.0) people(0.0) with(0.0) 
+ALS(1.0) ,(0.0) just(0.0) today(0.0) in(0.0) our(0.0) offices(0.0) saying(0.0) if(0.0) those(0.0) research(0.0) funds(1.0) are(0.0) not(0.0) increased(0.0) ,(0.0) their(0.0) lives(0.0) and(0.0) the(0.0) 
+lives(0.0) of(0.0) those(0.0) like(0.0) them(0.0) will(0.0) be(0.0) endangered(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	Republican	budget	we	are	voting	on	tonight	does	nothing	to	address	plight	of	million	
+Americans	health	insurance	health	care	infrastructure	
+physicians	Medicare	reimbursement	Federal	investment	medical	
+cures	disease	budget	increases	
+deficit	Nation	national	debt	Democratic	budget	
+rejects	disastrous	cuts	to	health	care	domestic	priorities	Republican	budget	does	not	address	the	
+flawed	sustainable	growth	rate	formula	for	physician	payments	.	Under	the	Republican	budget	,	physicians	will	see	a	4.6	
+cut	to	their	Medicare	payments	2006	costs	Democratic	budget	creates	
+Medicare	payments	physicians	amendment	budget	resolution	
+unanimously	Republican	budget	echoes	the	President	's	insufficient	level	funding	public	health	programs	shortchanging	
+critical	medical	prevention	cuts	
+
+Democratic	budget	rejects	
+funding	cuts	to	public	health	and	ensures	that	programs	
+billion	budget	over	5	years	.	I	urge	vote	Democratic	substitute	
+cancer	
+ALS	funds	
+endangered	
+
+reads % = 0.3742857142857143

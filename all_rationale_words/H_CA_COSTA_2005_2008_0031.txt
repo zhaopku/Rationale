@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+This(0.0) measure(1.0) will(0.0) give(0.0) an(0.0) added(0.0) shot(0.0) in(0.0) the(0.0) arm(0.0) to(0.0) assist(0.0) California(1.0) and(0.0) other(0.0) States(0.0) throughout(0.0) the(0.0) country(1.0) that(0.0) want(0.0) 
+to(0.0) implement(1.0) ,(0.0) choose(0.0) 21st-century(1.0) state-of-the-art(0.0) high-speed(1.0) rail(1.0) within(0.0) their(0.0) States(0.0) .(0.0) There(0.0) are(0.0) 11(0.0) corridors(1.0) there(0.0) .(0.0) This(0.0) notion(1.0) 
+that(0.0) ,(0.0) in(0.0) fact(0.0) ,(0.0) we(0.0) are(0.0) giving(0.0) a(0.0) subsidy(1.0) makes(0.0) no(0.0) sense(0.0) .(0.0) Every(0.0) system(0.0) of(0.0) transportation(1.0) in(0.0) this(0.0) 
+country(1.0) ,(0.0) roadways(1.0) ,(0.0) airlines(1.0) ,(0.0) freight(0.0) ,(0.0) rail(1.0) ,(0.0) and(0.0) ports(0.0) and(0.0) harbors(1.0) have(0.0) had(0.0) a(0.0) public(0.0) partnership(0.0) ,(0.0) 
+and(0.0) there(0.0) is(0.0) a(0.0) subsidy(1.0) in(0.0) them(0.0) .(0.0) And(0.0) to(0.0) think(0.0) that(0.0) we(0.0) would(0.0) not(0.0) do(0.0) anything(0.0) less(0.0) than(0.0) that(0.0) 
+for(0.0) rail(1.0) in(0.0) this(0.0) country(1.0) ,(0.0) for(0.0) passenger(0.0) rail(1.0) ,(0.0) makes(0.0) no(0.0) sense(0.0) .(0.0) I(0.0) urge(0.0) all(0.0) of(0.0) my(0.0) colleagues(0.0) 
+to(0.0) support(0.0) these(0.0) good(0.0) measures(1.0) for(0.0) all(0.0) of(0.0) the(0.0) right(0.0) reasons(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+measure	California	country	
+implement	21st-century	high-speed	rail	corridors	notion	
+subsidy	transportation	
+country	roadways	airlines	rail	harbors	
+subsidy	
+rail	country	rail	
+measures	
+
+reads % = 0.15789473684210525

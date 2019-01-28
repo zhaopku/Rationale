@@ -1,0 +1,36 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) as(0.0) much(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) H.R(0.0) .(0.0) 6073(0.0) would(0.0) require(0.0) the(0.0) Office(0.0) of(0.0) 
+Personnel(0.0) Management(0.0) to(0.0) allow(0.0) Federal(0.0) employees(1.0) to(0.0) receive(0.0) electronic(0.0) pay(0.0) stubs(0.0) .(0.0) Most(0.0) Federal(0.0) employees(1.0) receive(0.0) their(0.0) pay(0.0) electronically(0.0) ,(0.0) 
+which(0.0) is(0.0) faster(0.0) and(0.0) less(0.0) costly(1.0) than(0.0) using(0.0) paper(0.0) checks(0.0) .(0.0) This(0.0) bill(1.0) helps(0.0) extend(0.0) that(0.0) cost(1.0) savings(1.0) to(0.0) the(0.0) 
+rest(0.0) of(0.0) the(0.0) payroll(1.0) process(0.0) .(0.0) More(0.0) than(0.0) a(0.0) decade(0.0) ago(0.0) ,(0.0) Congress(0.0) passed(0.0) a(0.0) law(1.0) requiring(1.0) that(0.0) almost(0.0) all(0.0) 
+Federal(1.0) employees(1.0) be(0.0) paid(0.0) by(0.0) electronic(0.0) funds(1.0) transfer(0.0) ,(0.0) commonly(0.0) known(0.0) as(0.0) direct(0.0) deposit(0.0) .(0.0) Electronic(0.0) funds(1.0) transfer(0.0) is(0.0) more(0.0) 
+secure(0.0) and(0.0) costs(1.0) less(0.0) than(0.0) printing(0.0) and(0.0) distributing(0.0) paper(0.0) checks(0.0) .(0.0) Employees(0.0) also(0.0) have(0.0) access(0.0) to(0.0) their(0.0) funds(1.0) sooner(0.0) ,(0.0) 
+because(0.0) they(0.0) do(0.0) not(0.0) have(0.0) to(0.0) deposit(0.0) or(0.0) cash(0.0) their(0.0) checks(0.0) .(0.0) However(0.0) ,(0.0) many(0.0) Federal(1.0) agencies(1.0) still(0.0) print(0.0) and(0.0) 
+distribute(0.0) paper(0.0) pay(1.0) stubs(0.0) for(0.0) their(0.0) employees(0.0) ,(0.0) limiting(1.0) the(0.0) gains(0.0) in(0.0) efficiency(1.0) from(0.0) using(0.0) electronic(0.0) funds(1.0) transfer(0.0) .(0.0) This(0.0) 
+bill(1.0) will(1.0) encourage(0.0) agencies(1.0) to(0.0) handle(0.0) their(0.0) entire(0.0) payroll(1.0) process(0.0) electronically(0.0) .(0.0) The(0.0) Office(0.0) of(0.0) Personnel(0.0) Management(0.0) and(0.0) the(0.0) Office(0.0) 
+of(0.0) Management(0.0) and(0.0) Budget(0.0) have(0.0) no(0.0) objections(0.0) to(0.0) this(0.0) bill(0.0) .(0.0) It(0.0) 's(0.0) a(0.0) commonsense(1.0) measure(0.0) that(0.0) will(0.0) help(0.0) make(0.0) 
+payroll(1.0) faster(0.0) and(0.0) more(0.0) efficient(0.0) ,(0.0) and(0.0) I(0.0) want(0.0) to(0.0) commend(0.0) and(0.0) thank(0.0) Representative(1.0) Foxx(1.0) for(0.0) introducing(1.0) it(0.0) .(0.0) I(0.0) 
+appreciate(0.0) her(0.0) work(0.0) in(0.0) helping(0.0) us(0.0) get(0.0) this(0.0) bill(1.0) to(1.0) the(0.0) floor(0.0) and(0.0) all(0.0) of(0.0) her(0.0) work(0.0) on(0.0) the(0.0) committee(0.0) 
+.(0.0) I(0.0) also(0.0) want(0.0) to(0.0) thank(0.0) Chairmen(0.0) Waxman(1.0) and(0.0) Towns(0.0) and(0.0) Ranking(0.0) Member(0.0) Tom(1.0) Davis(1.0) for(0.0) their(0.0) support(0.0) for(0.0) the(0.0) 
+bill(0.0) and(0.0) urge(0.0) its(0.0) swift(1.0) adoption(1.0) .(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+employees	employees	
+costly	bill	cost	savings	
+payroll	law	requiring	
+Federal	employees	funds	funds	
+costs	funds	
+Federal	agencies	
+pay	limiting	efficiency	funds	
+bill	will	agencies	payroll	
+commonsense	
+payroll	Representative	Foxx	introducing	
+bill	to	
+Waxman	Tom	Davis	
+swift	adoption	
+
+reads % = 0.13405797101449277

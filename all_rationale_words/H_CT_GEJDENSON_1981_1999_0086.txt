@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) as(0.0) my(0.0) colleagues(0.0) know(0.0) ,(0.0) the(0.0) good(0.0) news(0.0) is(0.0) that(0.0) the(0.0) rest(0.0) of(0.0) the(0.0) world(0.0) is(0.0) figuring(0.0) out(0.0) this(0.0) 
+institution(1.0) is(0.0) not(0.0) on(0.0) the(0.0) level(0.0) .(0.0) When(0.0) we(0.0) had(0.0) the(0.0) earlier(0.0) votes(1.0) ,(0.0) somebody(0.0) said(0.0) it(0.0) better(0.0) than(0.0) I(0.0) 
+can(0.0) ,(0.0) we(0.0) voted(1.0) not(0.0) to(0.0) go(0.0) backwards(0.0) ,(0.0) not(0.0) to(0.0) go(0.0) forward(0.0) and(0.0) not(0.0) to(0.0) do(0.0) what(0.0) we(0.0) were(0.0) 
+doing(0.0) .(0.0) Now(0.0) we(0.0) are(0.0) in(0.0) the(0.0) process(0.0) of(0.0) implementing(1.0) what(0.0) I(0.0) think(0.0) is(0.0) a(0.0) broad-(0.0) based(0.0) goal(0.0) of(0.0) the(0.0) 
+American(0.0) people(0.0) and(0.0) the(0.0) Congress(0.0) ,(0.0) stopping(0.0) the(0.0) killing(1.0) of(0.0) the(0.0) Kosovar(1.0) Albanians(1.0) ,(0.0) getting(0.0) them(0.0) back(0.0) in(0.0) their(0.0) homes(0.0) 
+,(0.0) and(0.0) we(0.0) are(0.0) in(0.0) this(0.0) dance(0.0) .(0.0) I(0.0) am(0.0) not(0.0) sure(0.0) what(0.0) we(0.0) do(0.0) here(0.0) has(0.0) the(0.0) meaning(0.0) or(0.0) 
+the(0.0) impact(0.0) because(0.0) of(0.0) the(0.0) irresponsible(1.0) nature(0.0) of(0.0) these(0.0) actions(1.0) .(0.0) If(0.0) we(0.0) compare(0.0) what(0.0) the(0.0) opposition(1.0) in(0.0) this(0.0) Congress(0.0) 
+did(0.0) during(0.0) the(0.0) Gulf(1.0) War(0.0) ,(0.0) once(0.0) that(0.0) initial(0.0) vote(1.0) was(0.0) taken(0.0) ,(0.0) the(0.0) Democratic(1.0) side(0.0) of(0.0) the(0.0) aisle(0.0) stood(0.0) 
+with(0.0) the(0.0) President(0.0) every(0.0) step(0.0) of(0.0) the(0.0) way(0.0) .(0.0) One(0.0) would(0.0) get(0.0) the(0.0) sense(0.0) here(0.0) that(0.0) every(0.0) opportunity(0.0) ,(0.0) there(0.0) 
+is(0.0) an(0.0) attempt(0.0) to(0.0) undermine(1.0) a(0.0) policy(1.0) simply(0.0) because(0.0) it(0.0) is(0.0) successful(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+institution	votes	
+voted	
+implementing	
+killing	Kosovar	Albanians	
+
+irresponsible	actions	opposition	
+Gulf	vote	Democratic	
+
+undermine	policy	
+
+reads % = 0.07731958762886598

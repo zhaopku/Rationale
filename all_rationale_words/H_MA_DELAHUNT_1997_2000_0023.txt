@@ -1,0 +1,10 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Chairman(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) strike(1.0) the(0.0) requisite(0.0) number(0.0) of(0.0) words(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+strike	
+
+reads % = 0.07692307692307693

@@ -1,0 +1,16 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) how(0.0) much(0.0) time(0.0) remains(0.0) on(0.0) both(0.0) sides(0.0) ?(0.0) The(0.0) SPEAKER(0.0) pro(0.0) tempore(0.0) ((1.0) Mr.(0.0) Simmons(1.0) )(0.0) .(0.0) The(0.0) gentleman(0.0) 
+from(0.0) California(0.0) ((0.0) Mr.(0.0) Thomas(1.0) )(0.0) has(1.0) 11\1/2\(0.0) minutes(0.0) remaining(0.0) .(0.0) The(0.0) gentlewoman(0.0) from(0.0) Connecticut(1.0) ((0.0) Ms.(1.0) DeLauro(1.0) )(0.0) has(1.0) 
+18(0.0) minutes(0.0) remaining(0.0) .(0.0) Ms.(1.0) DeLAURO(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) 3(0.0) minutes(0.0) to(0.0) the(0.0) gentlewoman(0.0) from(0.0) California(0.0) ((0.0) 
+Ms.(1.0) Solis(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+(	Simmons	
+Thomas	has	Connecticut	Ms.	DeLauro	has	
+Ms.	Speaker	
+Ms.	Solis	
+
+reads % = 0.18461538461538463

@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) ask(0.0) unanimous(1.0) consent(0.0) that(0.0) I(0.0) may(0.0) take(0.0) the(0.0) gentleman(0.0) from(0.0) Ohio(1.0) 's(0.0) ((0.0) Mr.(0.0) Brown(1.0) )(0.0) time(1.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+unanimous	Ohio	Brown	time	
+
+
+reads % = 0.18181818181818182

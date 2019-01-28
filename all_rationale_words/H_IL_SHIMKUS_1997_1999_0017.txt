@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+5(0.0) million(0.0) under(0.0) biomass/biofuels(0.0) energy(1.0) systems(1.0) ,(0.0) which(0.0) includes(0.0) $(0.0) 41(0.0) million(0.0) for(0.0) the(0.0) transportation(1.0) program(1.0) .(0.0) It(0.0) is(0.0) my(0.0) understanding(0.0) 
+that(0.0) ,(0.0) although(0.0) the(0.0) House(0.0) version(0.0) does(0.0) not(0.0) identify(0.0) which(0.0) projects(0.0) receive(0.0) funds(1.0) ,(0.0) the(0.0) conference(0.0) report(0.0) has(0.0) reflected(0.0) a(0.0) 
+compromise(1.0) between(0.0) the(0.0) two(0.0) chambers(0.0) that(0.0) provides(0.0) funding(1.0) to(0.0) certain(0.0) projects(0.0) .(0.0) The(0.0) concern(0.0) I(0.0) would(0.0) like(0.0) to(0.0) raise(1.0) to(0.0) 
+the(0.0) Chairman(0.0) deals(0.0) with(0.0) a(0.0) project(0.0) that(0.0) the(0.0) Chairman(0.0) and(0.0) I(0.0) have(0.0) discussed(0.0) ,(0.0) the(0.0) National(0.0) Ethanol(1.0) Research(0.0) Pilot(0.0) Plant(0.0) 
+.(0.0) As(0.0) the(0.0) Chairman(0.0) knows(1.0) ,(0.0) this(0.0) project(0.0) has(0.0) a(0.0) $(0.0) 6(0.0) million(0.0) cost-share(1.0) contribution(0.0) from(0.0) the(0.0) State(0.0) of(0.0) Illinois(1.0) 
+,(0.0) and(0.0) will(0.0) provide(0.0) for(0.0) cutting-(0.0) edge(0.0) research(0.0) that(0.0) will(0.0) lead(0.0) to(0.0) increased(1.0) efficiencies(1.0) coupled(0.0) with(0.0) cheaper(0.0) production(0.0) of(0.0) ethanol(1.0) 
+.(0.0) Preliminary(0.0) estimates(0.0) are(0.0) that(0.0) the(0.0) plant(0.0) could(0.0) reduce(0.0) the(0.0) cost(1.0) of(0.0) ethanol(1.0) by(0.0) over(0.0) 10(0.0) cents/gallon(1.0) in(0.0) the(0.0) near(0.0) 
+term(0.0) .(0.0) If(0.0) ,(0.0) as(0.0) in(0.0) the(0.0) past(0.0) ,(0.0) the(0.0) Conference(0.0) Report(0.0) on(0.0) this(0.0) bill(1.0) identifies(1.0) projects(0.0) for(0.0) funding(1.0) under(0.0) 
+the(0.0) biofuels(1.0) program(0.0) ,(0.0) I(0.0) would(0.0) like(0.0) to(0.0) strongly(0.0) urge(1.0) that(0.0) this(0.0) plant(0.0) be(0.0) funded(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+energy	systems	transportation	program	
+funds	
+compromise	funding	raise	
+Ethanol	
+knows	cost-share	Illinois	
+increased	efficiencies	ethanol	
+cost	ethanol	cents/gallon	
+bill	identifies	funding	
+biofuels	urge	funded	
+
+reads % = 0.13559322033898305

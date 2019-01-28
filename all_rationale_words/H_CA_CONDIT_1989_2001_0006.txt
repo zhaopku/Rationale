@@ -1,0 +1,34 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) in(0.0) strong(0.0) support(0.0) of(0.0) the(0.0) conference(0.0) committee(0.0) today(0.0) .(0.0) This(0.0) is(0.0) a(0.0) very(0.0) powerful(0.0) tool(0.0) in(0.0) arming(1.0) 
+our(0.0) intelligence(0.0) agency(0.0) in(0.0) a(0.0) campaign(0.0) against(0.0) terrorism(1.0) .(0.0) Though(0.0) I(0.0) am(0.0) disappointed(0.0) the(0.0) conference(0.0) report(0.0) does(0.0) not(0.0) include(0.0) an(0.0) 
+outside(0.0) commission(0.0) to(0.0) assess(0.0) our(0.0) national(1.0) security(0.0) readiness(0.0) since(0.0) September(0.0) 11(0.0) ,(0.0) it(0.0) is(0.0) still(0.0) a(0.0) very(0.0) good(0.0) conference(0.0) report(0.0) 
+.(0.0) It(0.0) does(0.0) increase(1.0) human(0.0) intelligence(0.0) ,(0.0) and(0.0) it(0.0) improves(0.0) foreign(1.0) language(0.0) skills(0.0) and(0.0) translation(0.0) capabilities(0.0) .(0.0) We(0.0) face(0.0) an(0.0) 
+extraordinary(0.0) challenge(0.0) now(0.0) to(0.0) collect(0.0) information(0.0) and(0.0) preserve(1.0) our(0.0) national(1.0) security(0.0) ,(0.0) and(0.0) we(0.0) must(0.0) focus(0.0) now(0.0) on(0.0) the(0.0) security(0.0) 
+of(0.0) our(0.0) homeland(1.0) .(0.0) We(0.0) can(0.0) not(0.0) sit(0.0) back(0.0) and(0.0) think(0.0) about(0.0) the(0.0) future(0.0) in(0.0) the(0.0) out(0.0) years(0.0) ;(0.0) we(0.0) 
+must(0.0) address(0.0) security(0.0) needs(0.0) now(0.0) .(0.0) This(0.0) conference(0.0) report(0.0) does(0.0) just(0.0) that(0.0) .(0.0) Yesterday(0.0) ,(0.0) we(0.0) passed(0.0) a(0.0) resolution(1.0) honoring(0.0) 
+Johnny(0.0) Spann(1.0) ,(0.0) the(0.0) first(0.0) American(0.0) to(0.0) die(0.0) in(0.0) combat(1.0) in(0.0) Afghanistan(1.0) .(0.0) We(0.0) pledged(1.0) to(0.0) continue(0.0) to(0.0) support(0.0) our(0.0) 
+men(0.0) and(0.0) women(0.0) ,(0.0) to(0.0) ensure(0.0) the(0.0) safety(0.0) to(0.0) all(0.0) of(0.0) our(0.0) citizens(1.0) .(0.0) This(0.0) conference(0.0) report(0.0) makes(0.0) good(0.0) on(0.0) 
+that(0.0) pledge(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) would(0.0) like(0.0) to(0.0) commend(0.0) and(0.0) congratulate(0.0) the(0.0) chairman(0.0) of(0.0) the(0.0) committee(0.0) ,(0.0) as(0.0) 
+well(0.0) as(0.0) the(0.0) ranking(0.0) member(0.0) ,(0.0) the(0.0) gentlewoman(0.0) from(0.0) California(0.0) ((0.0) Ms.(1.0) Pelosi(1.0) )(0.0) ,(0.0) for(0.0) this(0.0) product(0.0) ,(0.0) because(0.0) 
+I(0.0) think(0.0) it(0.0) is(0.0) a(0.0) product(0.0) that(0.0) helps(0.0) build(0.0) a(0.0) better(0.0) and(0.0) safer(0.0) Nation(1.0) .(0.0) I(0.0) congratulate(0.0) them(0.0) and(0.0) thank(0.0) 
+them(0.0) for(0.0) their(0.0) leadership(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+arming	
+terrorism	
+national	
+increase	foreign	
+preserve	national	
+homeland	
+resolution	
+Spann	combat	Afghanistan	pledged	
+citizens	
+pledge	Speaker	
+Ms.	Pelosi	
+Nation	
+
+
+reads % = 0.07723577235772358

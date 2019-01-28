@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) is(0.0) the(0.0) gentleman(0.0) suggesting(0.0) that(0.0) all(0.0) of(0.0) the(0.0) money(0.0) that(0.0) we(0.0) are(0.0) funding(1.0) in(0.0) the(0.0) Export-Import(1.0) Bank(0.0) is(0.0) going(0.0) 
+to(0.0) go(0.0) to(0.0) Boeing(1.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+funding	Export-Import	
+Boeing	
+
+reads % = 0.11538461538461539

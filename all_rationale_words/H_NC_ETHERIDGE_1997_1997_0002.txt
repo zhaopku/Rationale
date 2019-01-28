@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) to(0.0) call(0.0) on(0.0) the(0.0) people's(0.0) House(0.0) to(0.0) put(0.0) education(1.0) first(0.0) on(0.0) our(0.0) Nation(1.0) 's(0.0) agenda(1.0) .(0.0) 
+As(0.0) a(0.0) former(0.0) two-term(1.0) State(0.0) superintendent(0.0) in(0.0) North(0.0) Carolina(0.0) ,(0.0) I(0.0) know(0.0) firsthand(0.0) what(0.0) can(0.0) happen(0.0) and(0.0) what(0.0) a(0.0) difference(0.0) 
+a(0.0) strong(0.0) educational(0.0) system(0.0) can(0.0) make(0.0) in(0.0) the(0.0) lives(0.0) of(0.0) our(0.0) people(0.0) .(0.0) My(0.0) State(1.0) has(0.0) proven(0.0) that(0.0) bold(0.0) ,(0.0) 
+visionary(0.0) leadership(0.0) can(0.0) make(0.0) a(0.0) difference(0.0) tangibly(0.0) in(0.0) the(0.0) lives(0.0) of(0.0) young(0.0) people(0.0) when(0.0) we(0.0) do(0.0) the(0.0) right(0.0) thing(0.0) .(0.0) 
+Mr.(0.0) Speaker(1.0) ,(0.0) when(0.0) students(0.0) ,(0.0) parents(0.0) ,(0.0) teachers(0.0) ,(0.0) and(0.0) communities(1.0) get(0.0) involved(0.0) ,(0.0) strong(0.0) improvement(0.0) is(0.0) the(0.0) result(0.0) 
+of(0.0) what(0.0) happens(0.0) .(0.0) Several(0.0) weeks(0.0) ago(0.0) ,(0.0) the(0.0) rigorous(0.0) NAEP(1.0) scores(0.0) came(0.0) out(0.0) ,(0.0) and(0.0) in(0.0) our(0.0) State(1.0) ,(0.0) 
+North(1.0) Carolina(0.0) ,(0.0) students(0.0) came(0.0) out(0.0) near(0.0) the(0.0) top(0.0) in(0.0) this(0.0) country(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) as(0.0) the(0.0) first(0.0) member(0.0) 
+of(0.0) my(0.0) family(0.0) to(0.0) graduate(0.0) from(0.0) college(1.0) ,(0.0) I(0.0) learned(0.0) long(0.0) ago(0.0) the(0.0) value(0.0) of(0.0) educational(1.0) excellence(0.0) .(0.0) As(0.0) a(0.0) 
+Congressman(1.0) ,(0.0) I(0.0) know(0.0) how(0.0) important(0.0) education(1.0) is(0.0) to(0.0) my(0.0) constituents(1.0) and(0.0) to(0.0) this(0.0) Nation(1.0) .(0.0) We(0.0) must(0.0) provide(0.0) safe(0.0) 
+healthy(0.0) schools(1.0) and(0.0) we(0.0) must(0.0) do(0.0) it(0.0) now(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+education	Nation	agenda	
+two-term	
+State	
+
+Speaker	communities	
+NAEP	State	
+North	country	Speaker	
+college	educational	
+Congressman	education	constituents	Nation	
+schools	
+
+reads % = 0.1

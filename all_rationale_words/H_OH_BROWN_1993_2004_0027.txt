@@ -1,0 +1,48 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) think(0.0) it(0.0) is(0.0) pretty(0.0) offensive(0.0) that(0.0) the(0.0) Vice(0.0) President(1.0) is(0.0) still(0.0) receiving(0.0) $(0.0) 3,000(0.0) a(0.0) month(0.0) from(0.0) a(0.0) company(0.0) which(0.0) 
+is(0.0) getting(0.0) billions(1.0) of(0.0) dollars(1.0) in(0.0) unbid(1.0) contracts(1.0) and(0.0) he(0.0) is(0.0) telling(0.0) us(0.0) he(0.0) has(0.0) severed(0.0) ties(0.0) with(0.0) that(0.0) company(0.0) 
+.(0.0) I(0.0) guess(0.0) I(0.0) will(0.0) not(0.0) say(0.0) the(0.0) Vice(0.0) President(1.0) lied(1.0) about(0.0) it(0.0) .(0.0) I(0.0) am(0.0) not(0.0) allowed(0.0) to(0.0) say(0.0) 
+that(0.0) .(0.0) I(0.0) do(0.0) not(0.0) quite(0.0) know(0.0) how(0.0) to(0.0) describe(0.0) it(0.0) .(0.0) But(0.0) let(0.0) me(0.0) move(0.0) to(0.0) something(0.0) else(0.0) .(0.0) 
+So(0.0) we(0.0) have(0.0) an(0.0) administration(1.0) where(0.0) the(0.0) Vice(0.0) President(1.0) has(0.0) done(0.0) what(0.0) I(0.0) just(0.0) said(0.0) .(0.0) We(0.0) have(0.0) an(0.0) administration(1.0) 
+where(0.0) the(0.0) President(1.0) has(0.0) said(0.0) the(0.0) Medicare(1.0) bill(1.0) would(1.0) cost(1.0) $(0.0) 400(0.0) billion(1.0) ;(0.0) and(0.0) I(0.0) do(0.0) not(0.0) want(0.0) to(0.0) 
+say(0.0) the(0.0) President(1.0) lied(1.0) ,(0.0) but(0.0) then(0.0) the(0.0) Medicare(1.0) bill(1.0) we(0.0) find(0.0) out(0.0) 7(0.0) weeks(0.0) later(0.0) cost(1.0) $(0.0) 530(0.0) billion(1.0) 
+.(0.0) We(0.0) find(0.0) that(0.0) the(0.0) President(1.0) told(0.0) us(0.0) one(0.0) thing(0.0) about(0.0) Iraq(1.0) ,(0.0) I(0.0) do(0.0) not(0.0) want(0.0) to(0.0) say(0.0) he(0.0) 
+lied(0.0) ,(0.0) either(0.0) ,(0.0) but(0.0) then(0.0) we(0.0) find(0.0) out(0.0) something(0.0) else(0.0) entirely(0.0) different(0.0) about(0.0) Iraq(1.0) .(0.0) We(0.0) hear(0.0) ,(0.0) and(0.0) 
+I(0.0) would(0.0) mention(0.0) this(0.0) ,(0.0) on(0.0) the(0.0) front(0.0) page(0.0) of(0.0) a(0.0) generally(0.0) pretty(0.0) conservative(0.0) newspaper(0.0) in(0.0) this(0.0) city(1.0) ,(0.0) that(0.0) 
+the(0.0) President's(0.0) people(0.0) ,(0.0) the(0.0) administration(1.0) said(0.0) just(0.0) a(0.0) couple(0.0) of(0.0) years(0.0) ago(0.0) ,(0.0) way(0.0) after(0.0) September(0.0) 11(0.0) ,(0.0) we(0.0) 
+would(0.0) have(0.0) 3.4(0.0) million(0.0) more(0.0) jobs(1.0) created(0.0) in(0.0) 2003(0.0) than(0.0) there(0.0) were(0.0) in(0.0) 2000(0.0) ,(0.0) yet(0.0) it(0.0) turns(0.0) out(0.0) we(0.0) 
+have(0.0) had(0.0) 1.7(0.0) million(0.0) jobs(1.0) fewer(0.0) .(0.0) I(0.0) do(0.0) not(0.0) want(0.0) to(0.0) say(0.0) the(0.0) administration(1.0) did(0.0) not(0.0) tell(0.0) the(0.0) truth(0.0) 
+about(0.0) that(0.0) ,(0.0) but(0.0) their(0.0) predictions(0.0) were(0.0) way(0.0) ,(0.0) way(0.0) off(0.0) .(0.0) Then(0.0) the(0.0) President(1.0) said(0.0) ,(0.0) the(0.0) administration(1.0) said(0.0) 
+,(0.0) the(0.0) budget(1.0) deficit(1.0) would(0.0) be(0.0) $(0.0) 14(0.0) billion(1.0) .(0.0) It(0.0) has(0.0) turned(0.0) into(0.0) being(0.0) $(0.0) 521(0.0) billion(1.0) .(0.0) Mr.(0.0) 
+Speaker(1.0) ,(0.0) I(0.0) think(0.0) we(0.0) are(0.0) seeing(0.0) here(0.0) a(0.0) habit(0.0) of(0.0) prevarication(1.0) ,(0.0) a(0.0) tendency(0.0) to(0.0) tell(0.0) us(0.0) one(0.0) thing(0.0) 
+and(0.0) see(0.0) something(0.0) else(0.0) ,(0.0) whether(0.0) it(0.0) is(0.0) the(0.0) Medicare(1.0) bill(1.0) ,(0.0) whether(1.0) it(0.0) is(0.0) Iraq(1.0) ,(0.0) whether(0.0) it(0.0) is(0.0) 
+the(0.0) President's(0.0) connections(0.0) with(0.0) this(0.0) company(0.0) that(0.0) is(0.0) getting(0.0) billions(1.0) of(0.0) taxpayers'(0.0) dollars(1.0) and(0.0) giving(0.0) to(0.0) the(0.0) Vice(0.0) President(0.0) $(0.0) 
+3,000(0.0) a(0.0) week(0.0) and(0.0) millions(1.0) of(0.0) dollars(1.0) in(0.0) stock(0.0) options(0.0) .(0.0) It(0.0) just(0.0) does(0.0) not(0.0) really(0.0) quite(0.0) add(0.0) up(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+President	
+billions	dollars	unbid	contracts	
+President	lied	
+
+administration	President	administration	
+President	Medicare	bill	would	cost	billion	
+President	lied	Medicare	bill	cost	billion	
+President	Iraq	
+Iraq	
+city	
+administration	
+jobs	
+jobs	administration	
+President	administration	
+budget	deficit	billion	billion	
+Speaker	prevarication	
+Medicare	bill	whether	Iraq	
+billions	dollars	
+millions	dollars	
+
+
+reads % = 0.12073490813648294

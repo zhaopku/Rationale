@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) it(0.0) is(0.0) with(0.0) great(0.0) concern(0.0) for(0.0) the(0.0) safety(0.0) of(0.0) over(0.0) 200(0.0) kidnapped(0.0) Nigerian(0.0) girls(0.0) that(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) 
+to(0.0) vote(1.0) for(0.0) the(0.0) National(0.0) Defense(0.0) Authorization(0.0) Act(0.0) .(0.0) This(0.0) bill(1.0) includes(0.0) an(0.0) en(0.0) bloc(0.0) amendment(1.0) I(0.0) offered(0.0) requiring(1.0) the(0.0) 
+Department(0.0) of(0.0) Defense(0.0) ,(0.0) in(0.0) consultation(0.0) with(0.0) the(0.0) Department(0.0) of(0.0) State(0.0) ,(0.0) to(0.0) report(0.0) on(0.0) the(0.0) efforts(0.0) to(0.0) assist(0.0) in(0.0) 
+the(0.0) search(0.0) and(0.0) rescue(0.0) of(0.0) the(0.0) young(0.0) women(1.0) who(0.0) were(0.0) abducted(0.0) in(0.0) Nigeria(1.0) last(0.0) month(0.0) .(0.0) There(0.0) is(0.0) more(0.0) that(0.0) 
+our(0.0) government(1.0) can(0.0) do(0.0) to(0.0) address(0.0) the(0.0) threat(1.0) that(0.0) Boko(1.0) Haram(1.0) poses(0.0) to(0.0) international(0.0) security(0.0) .(0.0) By(0.0) Congress(0.0) knowing(0.0) more(0.0) 
+about(0.0) this(0.0) terrorist(1.0) group(0.0) ,(0.0) their(0.0) movements(0.0) ,(0.0) the(0.0) safety(0.0) of(0.0) the(0.0) girls(0.0) ,(0.0) and(0.0) what(0.0) the(0.0) U.S.(0.0) and(0.0) Nigerian(1.0) 
+Governments(0.0) can(0.0) do(0.0) to(0.0) protect(0.0) these(0.0) girls(0.0) and(0.0) others(0.0) like(0.0) them(0.0) ,(0.0) we(0.0) will(0.0) be(0.0) in(0.0) a(0.0) better(0.0) position(0.0) to(0.0) 
+end(0.0) Boko(1.0) Haram(1.0) 's(0.0) reign(0.0) of(0.0) terror(1.0) .(0.0) Families(1.0) weep(0.0) in(0.0) Nigeria(1.0) .(0.0) The(0.0) global(1.0) community(0.0) holds(0.0) vigil(1.0) for(0.0) these(0.0) 
+children(0.0) .(0.0) I(0.0) thank(0.0) the(0.0) chairman(0.0) for(0.0) including(0.0) my(0.0) amendment(1.0) in(0.0) the(0.0) en(0.0) bloc(0.0) package(0.0) and(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) 
+vote(1.0) to(0.0) help(0.0) ``(0.0) bring(0.0) back(0.0) our(0.0) girls(0.0) .(0.0) ''(0.0) In(0.0) regard(0.0) to(0.0) Memorial(0.0) Day(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) 
+those(0.0) who(0.0) gave(0.0) up(0.0) their(0.0) tomorrow(0.0) ,(0.0) so(0.0) we(0.0) could(0.0) have(0.0) today(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+vote	bill	amendment	requiring	
+
+women	Nigeria	
+government	threat	Boko	Haram	
+terrorist	Nigerian	
+
+Boko	Haram	terror	Families	Nigeria	global	vigil	
+amendment	
+vote	
+
+
+reads % = 0.09813084112149532

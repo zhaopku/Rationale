@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) today(0.0) I(0.0) am(0.0) proud(0.0) to(0.0) wear(0.0) an(0.0) official(0.0) Jackie(0.0) Robinson(0.0) 50th(0.0) anniversary(0.0) shirt(0.0) licensed(0.0) by(0.0) Terry(0.0) Manufacturing(0.0) ,(0.0) the(0.0) 
+largest(0.0) African-American(1.0) manufacturing(1.0) apparel(0.0) company(0.0) in(0.0) the(0.0) United(0.0) States(0.0) .(0.0) Fifty(0.0) years(0.0) ago(0.0) this(0.0) week(0.0) Jackie(0.0) Robinson(0.0) shattered(0.0) not(0.0) just(0.0) 
+the(0.0) color(0.0) line(0.0) in(0.0) baseball(0.0) ,(0.0) he(0.0) also(0.0) shattered(0.0) the(0.0) myths(1.0) upon(0.0) which(0.0) Jim(0.0) Crow(1.0) America(1.0) was(0.0) built(0.0) .(0.0) A(0.0) 
+few(0.0) brave(0.0) men(0.0) in(0.0) major(0.0) league(0.0) baseball(0.0) took(0.0) the(0.0) courageous(1.0) step(0.0) to(0.0) hire(0.0) one(0.0) player(0.0) .(0.0) But(0.0) in(0.0) major(1.0) league(0.0) 
+baseball(0.0) ,(0.0) just(0.0) as(0.0) in(0.0) other(0.0) areas(0.0) of(0.0) American(0.0) mainstream(1.0) life(0.0) ,(0.0) there(0.0) are(0.0) still(0.0) many(0.0) more(0.0) barriers(1.0) to(0.0) tear(0.0) 
+down(0.0) before(0.0) we(0.0) have(0.0) reached(0.0) our(0.0) true(0.0) ideal(0.0) as(0.0) a(0.0) nation(1.0) .(0.0) Monday(0.0) the(0.0) world(0.0) watched(0.0) in(0.0) awe(0.0) as(0.0) Tiger(0.0) 
+Woods(0.0) shattered(0.0) every(0.0) record(0.0) held(0.0) for(0.0) the(0.0) Masters(0.0) Tournament(0.0) at(0.0) Augusta(0.0) National(0.0) .(0.0) Unfortunately(0.0) there(0.0) remain(0.0) golf(0.0) courses(0.0) in(0.0) America(1.0) 
+where(0.0) families(0.0) like(0.0) Tiger(0.0) and(0.0) his(0.0) family(0.0) are(0.0) not(0.0) welcome(0.0) and(0.0) minorities(1.0) can(0.0) not(0.0) play(0.0) .(0.0) It(0.0) is(0.0) right(0.0) and(0.0) 
+appropriate(0.0) that(0.0) we(0.0) take(0.0) the(0.0) time(0.0) now(0.0) to(0.0) celebrate(0.0) how(0.0) far(0.0) we(0.0) have(0.0) come(0.0) .(0.0) Let(0.0) us(0.0) also(0.0) reflect(0.0) on(0.0) 
+how(0.0) far(0.0) we(0.0) still(0.0) have(0.0) to(0.0) go(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+African-American	manufacturing	
+myths	Crow	America	
+courageous	major	
+mainstream	barriers	
+nation	
+America	
+minorities	
+
+
+
+reads % = 0.06349206349206349

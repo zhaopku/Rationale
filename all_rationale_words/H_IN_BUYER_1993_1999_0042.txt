@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) would(0.0) say(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Ohio(1.0) ((0.0) Mr.(0.0) Traficant(1.0) )(0.0) that(1.0) your(0.0) passion(0.0) is(0.0) real(0.0) .(0.0) It(0.0) is(0.0) misdirected(1.0) 
+.(0.0) It(0.0) should(0.0) not(0.0) be(0.0) the(0.0) troops(1.0) on(0.0) the(0.0) border(0.0) ,(0.0) it(0.0) should(0.0) be(0.0) increasing(0.0) Customs(0.0) ,(0.0) INS(1.0) and(0.0) DEA(1.0) 
+.(0.0) Madam(0.0) Chairman(1.0) ,(0.0) I(0.0) yield(0.0) 45(0.0) seconds(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Arizona(1.0) ((0.0) Mr.(0.0) Kolbe(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Ohio	Traficant	that	misdirected	
+troops	INS	DEA	
+Chairman	Arizona	Kolbe	
+
+reads % = 0.1694915254237288

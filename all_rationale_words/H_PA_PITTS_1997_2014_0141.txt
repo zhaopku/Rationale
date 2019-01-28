@@ -1,0 +1,10 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) am(0.0) prepared(0.0) to(0.0) close(0.0) ,(0.0) so(0.0) I(0.0) continue(0.0) to(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+reads % = 0.0

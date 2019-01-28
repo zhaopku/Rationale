@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) there(0.0) is(0.0) a(0.0) great(0.0) deal(0.0) of(0.0) talk(0.0) these(0.0) days(0.0) about(0.0) the(0.0) legacy(1.0) that(0.0) this(0.0) administration(1.0) will(0.0) leave(0.0) .(0.0) I(0.0) 
+think(0.0) it(0.0) is(0.0) fair(0.0) to(0.0) say(0.0) that(0.0) this(0.0) White(1.0) House(0.0) has(0.0) indeed(0.0) set(0.0) a(0.0) new(0.0) standard(0.0) of(0.0) ethics(1.0) .(0.0) I(0.0) 
+think(0.0) it(0.0) is(0.0) fair(0.0) to(0.0) say(0.0) that(0.0) this(0.0) White(1.0) House(0.0) has(0.0) set(0.0) a(0.0) new(0.0) standard(0.0) in(0.0) the(0.0) use(0.0) of(0.0) the(0.0) 
+Lincoln(1.0) bedroom(0.0) .(0.0) I(0.0) think(0.0) it(0.0) is(0.0) fair(0.0) to(0.0) say(0.0) that(0.0) this(0.0) White(1.0) House(0.0) has(0.0) set(0.0) a(0.0) new(0.0) standard(0.0) in(0.0) 
+terms(0.0) of(0.0) raising(1.0) money(1.0) on(0.0) Federal(1.0) property(1.0) .(0.0) I(0.0) think(0.0) it(0.0) is(0.0) fair(1.0) to(0.0) say(0.0) that(0.0) this(0.0) White(1.0) House(0.0) has(0.0) 
+set(0.0) a(0.0) new(0.0) standard(0.0) in(0.0) terms(0.0) of(0.0) deciding(0.0) which(0.0) rich(1.0) donors(1.0) get(0.0) to(0.0) accompany(0.0) the(0.0) Secretary(1.0) of(0.0) Commerce(0.0) on(0.0) trade(0.0) 
+missions(0.0) .(0.0) I(0.0) think(0.0) it(0.0) is(0.0) fair(0.0) to(0.0) say(0.0) that(0.0) this(0.0) White(1.0) House(0.0) has(0.0) set(0.0) a(0.0) new(0.0) standard(0.0) in(0.0) terms(0.0) 
+of(0.0) raising(1.0) money(1.0) at(0.0) Buddhist(1.0) temples(0.0) ,(0.0) shaking(0.0) down(0.0) impoverished(1.0) Indian(0.0) tribes(0.0) .(0.0) Using(0.0) the(0.0) IRS(1.0) for(0.0) political(1.0) purposes(0.0) ,(0.0) 
+rewarding(0.0) top(0.0) dollar(1.0) fund-raisers(1.0) with(0.0) Commerce(0.0) Department(0.0) jobs(0.0) ,(0.0) making(0.0) huge(0.0) money(1.0) from(0.0) cattle(0.0) futures(1.0) while(0.0) declaring(1.0) moral(1.0) outrage(1.0) at(0.0) 
+the(0.0) decade(1.0) of(0.0) greed(1.0) ,(0.0) and(0.0) coming(0.0) up(0.0) with(0.0) the(0.0) ``(0.0) I(0.0) do(0.0) n't(0.0) recall(0.0) ''(0.0) defense(1.0) whenever(0.0) the(0.0) subject(0.0) 
+turns(0.0) to(0.0) raising(1.0) money(1.0) .(0.0) I(0.0) agree(0.0) ,(0.0) that(0.0) is(0.0) quite(0.0) a(0.0) legacy(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+legacy	administration	
+White	ethics	
+White	
+Lincoln	White	
+raising	money	Federal	property	fair	White	
+rich	donors	Secretary	
+White	
+raising	money	Buddhist	impoverished	IRS	political	
+dollar	fund-raisers	money	futures	declaring	moral	outrage	
+decade	greed	defense	
+raising	money	
+
+reads % = 0.16279069767441862

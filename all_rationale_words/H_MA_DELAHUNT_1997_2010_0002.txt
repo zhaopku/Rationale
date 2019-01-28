@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) agree(0.0) to(0.0) the(0.0) resolution(1.0) ((0.0) H.(0.0) Res(1.0) .(0.0) 1246(0.0) )(0.0) expressing(0.0) 
+sympathy(0.0) to(0.0) the(0.0) people(0.0) of(0.0) Poland(0.0) in(0.0) the(0.0) aftermath(1.0) of(0.0) the(0.0) tragic(0.0) plane(0.0) crash(0.0) that(0.0) killed(0.0) the(0.0) country(1.0) 's(0.0) President(0.0) 
+,(0.0) First(0.0) Lady(0.0) ,(0.0) and(0.0) 94(0.0) others(0.0) on(0.0) April(0.0) 10(0.0) ,(0.0) 2010(0.0) .(0.0) The(0.0) Clerk(0.0) read(0.0) the(0.0) title(0.0) of(0.0) the(0.0) 
+resolution(0.0) .(0.0) The(0.0) text(0.0) of(0.0) the(0.0) resolution(0.0) is(0.0) as(0.0) follows(0.0) :(0.0) H.(0.0) Res(0.0) .(0.0) 1246(0.0) Whereas(0.0) the(0.0) Polish(0.0) President(0.0) Lech(0.0) 
+Kaczynski(0.0) and(0.0) 95(0.0) other(0.0) people(0.0) ,(0.0) including(0.0) Poland(0.0) 's(0.0) First(0.0) Lady(0.0) ,(0.0) deputy(0.0) foreign(0.0) minister(0.0) ,(0.0) deputy(0.0) defense(0.0) minister(0.0) ,(0.0) 
+dozens(0.0) of(0.0) members(0.0) of(0.0) Parliament(0.0) ,(0.0) the(0.0) chiefs(0.0) of(0.0) the(0.0) army(0.0) and(0.0) navy(0.0) ,(0.0) and(0.0) the(0.0) president(0.0) of(0.0) the(0.0) national(0.0) 
+bank(0.0) ,(0.0) were(0.0) killed(0.0) in(0.0) a(0.0) plane(0.0) crash(0.0) in(0.0) western(0.0) Russia(0.0) on(0.0) April(0.0) 10(0.0) ,(0.0) 2010(0.0) ;(0.0) Whereas(0.0) President(0.0) Kaczynski(1.0) 
+and(0.0) his(0.0) colleagues(0.0) were(0.0) traveling(0.0) to(0.0) Katyn(0.0) ,(0.0) Russia(0.0) for(0.0) a(0.0) memorial(0.0) service(0.0) to(0.0) mark(0.0) the(0.0) 70th(0.0) anniversary(0.0) of(0.0) the(0.0) 
+Soviet(0.0) secret(0.0) police(0.0) killing(0.0) of(0.0) more(0.0) than(0.0) 20,000(0.0) Polish(0.0) officers(0.0) ,(0.0) prisoners(1.0) ,(0.0) and(0.0) intellectuals(1.0) who(0.0) were(0.0) captured(0.0) after(0.0) the(0.0) 
+Soviet(0.0) Union(0.0) invaded(0.0) Poland(0.0) in(0.0) 1939(0.0) ;(0.0) Whereas(0.0) Ryszard(0.0) Kaczorowski(1.0) ,(0.0) who(0.0) served(0.0) as(0.0) Poland(0.0) 's(0.0) final(0.0) president(0.0) in(0.0) exile(0.0) 
+before(0.0) the(0.0) country(0.0) 's(0.0) return(0.0) to(0.0) democracy(1.0) ,(0.0) perished(0.0) ;(0.0) Whereas(0.0) Anna(0.0) Walentynowicz(1.0) ,(0.0) the(0.0) former(0.0) dock(0.0) worker(0.0) whose(0.0) firing(0.0) 
+in(0.0) 1980(0.0) sparked(0.0) the(0.0) Solidarity(1.0) strike(0.0) that(0.0) ultimately(0.0) overthrew(0.0) the(0.0) Polish(0.0) communist(1.0) government(0.0) ,(0.0) was(0.0) also(0.0) killed(0.0) in(0.0) the(0.0) crash(0.0) 
+;(0.0) Whereas(0.0) respected(0.0) Chicago(1.0) artist(1.0) Wojciech(1.0) Seweryn(1.0) ,(0.0) whose(0.0) father(0.0) was(0.0) killed(0.0) in(0.0) Katyn(1.0) ,(0.0) and(0.0) who(0.0) recently(0.0) completed(0.0) a(0.0) 
+memorial(0.0) to(0.0) the(0.0) victims(0.0) of(0.0) Katyn(0.0) at(0.0) St.(0.0) Adalbert(0.0) Cemetery(0.0) in(0.0) Niles(0.0) ,(0.0) Illinois(1.0) ,(0.0) which(0.0) Polish(0.0) President(0.0) Kaczynski(1.0) planned(0.0) 
+to(0.0) visit(0.0) in(0.0) May(0.0) ,(0.0) died(0.0) in(0.0) the(0.0) crash(0.0) as(0.0) well(0.0) ;(0.0) Whereas(0.0) Russia(0.0) and(0.0) Poland(0.0) had(0.0) begun(0.0) to(0.0) heal(0.0) 
+the(0.0) deep(0.0) wounds(0.0) from(0.0) the(0.0) Katyn(1.0) tragedy(0.0) ,(0.0) with(0.0) Russian(0.0) Prime(0.0) Minister(0.0) Vladimir(0.0) Putin(1.0) recently(0.0) joining(0.0) Polish(0.0) Prime(0.0) Minister(0.0) Donald(1.0) 
+Tusk(1.0) at(0.0) a(0.0) ceremony(0.0) marking(0.0) the(0.0) event(0.0) at(0.0) Katyn(1.0) ;(0.0) Whereas(0.0) Prime(0.0) Minister(0.0) Putin(1.0) ,(0.0) the(0.0) first(0.0) Russian(0.0) leader(0.0) ever(0.0) 
+to(0.0) attend(0.0) the(0.0) Katyn(1.0) commemoration(0.0) said(0.0) ``(0.0) we(0.0) bow(0.0) our(0.0) heads(0.0) to(0.0) those(0.0) who(0.0) bravely(0.0) met(0.0) death(0.0) here(0.0) ''(0.0) ;(0.0) 
+Whereas(0.0) more(0.0) than(0.0) 9,000,000(0.0) Americans(1.0) of(0.0) Polish(1.0) descent(1.0) now(0.0) reside(0.0) in(0.0) the(0.0) United(0.0) States(0.0) ,(0.0) including(0.0) in(0.0) major(0.0) metropolitan(1.0) areas(0.0) 
+such(0.0) as(0.0) Chicago(1.0) ,(0.0) Detroit(1.0) ,(0.0) and(0.0) New(1.0) York(1.0) City(1.0) ;(0.0) Whereas(0.0) the(0.0) American(0.0) people(0.0) stood(0.0) in(0.0) support(0.0) of(0.0) the(0.0) 
+Solidarity(1.0) movement(1.0) as(0.0) it(0.0) fought(1.0) against(0.0) the(0.0) oppression(1.0) of(0.0) the(0.0) Polish(1.0) communist(1.0) government(1.0) through(0.0) peaceful(1.0) means(0.0) ,(0.0) eventually(0.0) leading(0.0) to(0.0) 
+Solidarity(1.0) members(0.0) being(0.0) elected(0.0) to(0.0) office(0.0) in(0.0) partially(0.0) free(0.0) democratic(1.0) elections(1.0) held(0.0) on(0.0) June(0.0) 4(0.0) ,(0.0) 1989(0.0) ;(0.0) Whereas(0.0) Poland(0.0) 
+joined(0.0) the(0.0) North(0.0) Atlantic(0.0) Treaty(0.0) Organization(0.0) ((0.0) NATO(0.0) )(0.0) in(0.0) 1999(0.0) and(0.0) has(0.0) since(0.0) contributed(0.0) to(0.0) military(0.0) operations(0.0) in(0.0) Iraq(0.0) 
+and(0.0) Afghanistan(0.0) ;(0.0) and(0.0) Whereas(0.0) the(0.0) United(0.0) States(0.0) and(0.0) Poland(0.0) share(0.0) a(0.0) strong(0.0) bond(0.0) of(0.0) friendship(0.0) and(0.0) international(0.0) cooperation(0.0) :(0.0) 
+Now(0.0) ,(0.0) therefore(0.0) ,(0.0) be(0.0) it(0.0) Resolved(0.0) ,(0.0) That(0.0) the(0.0) House(0.0) of(0.0) Representatives(1.0) --(0.0) ((0.0) 1(0.0) )(0.0) mourns(0.0) the(0.0) 
+
+
+----- below are rationale words -----
+
+resolution	Res	
+aftermath	country	
+
+
+
+
+Kaczynski	
+
+prisoners	intellectuals	
+Kaczorowski	
+democracy	Walentynowicz	
+Solidarity	communist	
+Chicago	artist	Wojciech	Seweryn	Katyn	
+Illinois	Kaczynski	
+
+Katyn	Putin	Donald	
+Tusk	Katyn	Putin	
+Katyn	
+Americans	Polish	descent	metropolitan	
+Chicago	Detroit	New	York	City	
+Solidarity	movement	fought	oppression	Polish	communist	government	peaceful	
+Solidarity	democratic	elections	
+
+
+Representatives	
+
+reads % = 0.094

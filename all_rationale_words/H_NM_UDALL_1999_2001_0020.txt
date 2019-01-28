@@ -1,0 +1,38 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Colorado(0.0) for(0.0) his(0.0) comments(0.0) .(0.0) The(0.0) State(0.0) of(0.0) New(1.0) Mexico(1.0) is(0.0) planning(0.0) to(0.0) get(0.0) 
+about(0.0) $(0.0) 1.2(0.0) billion(1.0) under(0.0) the(0.0) master(0.0) settlement(0.0) .(0.0) That(0.0) is(0.0) the(0.0) largest(1.0) civil(1.0) settlement(1.0) in(0.0) the(0.0) State(0.0) of(0.0) New(1.0) 
+Mexico(1.0) .(0.0) The(0.0) way(0.0) that(0.0) this(0.0) settlement(1.0) was(0.0) worked(0.0) out(0.0) ,(0.0) it(0.0) will(0.0) flow(0.0) in(0.0) over(0.0) 25(0.0) years(0.0) .(0.0) We(0.0) 
+do(0.0) not(0.0) have(0.0) all(0.0) $(0.0) 1.2(0.0) billion(1.0) at(0.0) this(0.0) time(0.0) .(0.0) We(0.0) are(0.0) getting(0.0) smaller(0.0) amounts(1.0) ,(0.0) and(0.0) they(0.0) balloon(0.0) 
+up(0.0) over(0.0) time(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) let(0.0) me(0.0) talk(0.0) about(0.0) some(0.0) of(0.0) the(0.0) proposals(1.0) that(0.0) were(0.0) out(0.0) there(0.0) and(0.0) 
+then(0.0) what(0.0) they(0.0) are(0.0) actually(0.0) doing(0.0) now(0.0) ,(0.0) and(0.0) maybe(0.0) we(0.0) can(0.0) get(0.0) into(0.0) a(0.0) discussion(0.0) on(0.0) that(0.0) .(0.0) First(0.0) 
+of(0.0) all(0.0) ,(0.0) the(0.0) public(1.0) health(1.0) community(0.0) came(0.0) forward(0.0) ,(0.0) many(0.0) of(0.0) these(0.0) cancer(1.0) doctors(0.0) ,(0.0) the(0.0) oncologists(1.0) came(0.0) forward(0.0) 
+,(0.0) and(0.0) the(0.0) American(0.0) Cancer(1.0) Society(0.0) and(0.0) the(0.0) American(0.0) Lung(1.0) Society(0.0) ,(0.0) all(0.0) of(0.0) them(0.0) came(0.0) forward(0.0) and(0.0) said(0.0) ,(0.0) 
+we(0.0) need(0.0) to(0.0) work(0.0) on(0.0) specifically(0.0) how(0.0) we(0.0) spend(1.0) these(0.0) dollars(1.0) .(0.0) They(0.0) came(0.0) up(0.0) with(0.0) what(0.0) I(0.0) thought(0.0) were(0.0) 
+some(0.0) very(0.0) good(0.0) recommendations(0.0) .(0.0) First(0.0) of(0.0) all(0.0) ,(0.0) we(0.0) could(0.0) start(0.0) a(0.0) trust(0.0) fund(1.0) .(0.0) One(0.0) of(0.0) the(0.0) best(0.0) 
+recommendations(0.0) ,(0.0) and(0.0) I(0.0) was(0.0) very(0.0) supportive(0.0) of(0.0) this(0.0) and(0.0) worked(0.0) with(0.0) my(0.0) legislature(1.0) ,(0.0) set(0.0) up(0.0) a(0.0) trust(0.0) fund(0.0) 
+and(0.0) try(0.0) to(0.0) get(0.0) the(0.0) trust(0.0) fund(1.0) to(0.0) the(0.0) level(0.0) that(0.0) it(0.0) was(0.0) way(0.0) up(0.0) there(0.0) in(0.0) dollars(1.0) so(0.0) we(0.0) 
+could(0.0) then(0.0) use(0.0) the(0.0) principal(0.0) rather(0.0) than(0.0) using(0.0) the(0.0) capital(1.0) .(0.0) If(0.0) you(0.0) took(0.0) a(0.0) lot(0.0) of(0.0) this(0.0) money(1.0) and(0.0) 
+put(0.0) it(0.0) into(0.0) a(0.0) trust(0.0) fund(1.0) ,(0.0) then(0.0) there(0.0) could(0.0) be(0.0) a(0.0) perpetual(0.0) flow(0.0) of(0.0) money(1.0) to(0.0) deal(0.0) with(0.0) the(0.0) 
+tobacco(1.0) issues(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+New	Mexico	
+billion	largest	civil	settlement	New	
+Mexico	settlement	
+billion	amounts	
+Speaker	proposals	
+
+public	health	cancer	oncologists	
+Cancer	Lung	
+spend	dollars	
+fund	
+legislature	
+fund	dollars	
+capital	money	
+fund	money	
+tobacco	
+
+reads % = 0.1056338028169014

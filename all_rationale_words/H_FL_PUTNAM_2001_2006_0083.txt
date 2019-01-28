@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) yield(0.0) 1(0.0) minute(0.0) to(0.0) the(0.0) gentlewoman(0.0) who(0.0) represents(0.0) Florida(1.0) 's(0.0) gulf(0.0) coast(0.0) ((0.0) Ms.(1.0) Harris(1.0) )(0.0) .(0.0) ((0.0) 
+Ms.(1.0) HARRIS(1.0) asked(0.0) and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) her(0.0) remarks(0.0) .(0.0) )(0.0) 
+
+
+----- below are rationale words -----
+
+Florida	Ms.	Harris	
+Ms.	HARRIS	
+
+reads % = 0.1388888888888889

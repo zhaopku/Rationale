@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) reclaiming(1.0) my(0.0) time(0.0) ,(0.0) the(0.0) first(0.0) amendment(1.0) to(0.0) the(0.0) Constitution(1.0) and(0.0) the(0.0) first(0.0) 16(0.0) words(0.0) of(0.0) the(0.0) Bill(0.0) of(0.0) 
+Rights(1.0) have(0.0) never(0.0) been(0.0) amended(0.0) .(0.0) They(0.0) have(0.0) served(0.0) us(0.0) well(0.0) for(0.0) over(0.0) 200(0.0) years(0.0) .(0.0) This(0.0) first(0.0) amendment(1.0) offers(0.0) 
+us(0.0) all(0.0) the(0.0) protection(1.0) we(0.0) need(0.0) against(1.0) religious(1.0) discrimination(1.0) and(0.0) to(0.0) avoid(0.0) the(0.0) strife(1.0) which(0.0) has(0.0) saddled(0.0) other(0.0) areas(0.0) of(0.0) 
+the(0.0) world(0.0) with(0.0) religious(1.0) strife(1.0) ,(0.0) killings(1.0) ,(0.0) murders(1.0) for(0.0) many(0.0) years(0.0) .(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) the(0.0) 
+motion(1.0) to(0.0) recommit(1.0) and(0.0) to(0.0) reaffirm(1.0) our(0.0) belief(1.0) in(0.0) the(0.0) first(0.0) amendment(1.0) to(0.0) the(0.0) Constitution(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+reclaiming	amendment	Constitution	
+Rights	amendment	
+protection	against	religious	discrimination	strife	
+religious	strife	killings	murders	
+motion	recommit	reaffirm	belief	amendment	Constitution	
+
+reads % = 0.20618556701030927

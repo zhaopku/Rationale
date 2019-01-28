@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) thank(0.0) my(0.0) friend(0.0) for(0.0) yielding(0.0) ,(0.0) and(0.0) I(0.0) thank(0.0) my(0.0) friend(0.0) for(0.0) holding(0.0) this(0.0) special(0.0) order(0.0) this(0.0) night(0.0) where(0.0) we(0.0) 
+try(0.0) to(0.0) lay(0.0) the(0.0) truth(1.0) out(1.0) about(0.0) what(0.0) is(0.0) going(0.0) on(0.0) with(0.0) our(0.0) soldiers(1.0) .(0.0) I(0.0) have(0.0) had(0.0) the(0.0) opportunity(0.0) 
+to(0.0) go(0.0) to(0.0) Iraq(1.0) on(0.0) four(0.0) different(0.0) occasions(0.0) and(0.0) visit(0.0) with(0.0) soldiers(1.0) .(0.0) I(0.0) am(0.0) a(1.0) blessed(1.0) Congressman(1.0) in(0.0) that(0.0) 
+I(0.0) have(0.0) the(0.0) very(0.0) privilege(1.0) and(0.0) honor(1.0) of(0.0) representing(0.0) Fort(1.0) Hood(0.0) ,(0.0) Texas(0.0) .(0.0) Fort(1.0) Hood(0.0) ,(0.0) Texas(0.0) ,(0.0) is(0.0) 
+the(0.0) only(0.0) two(0.0) division(1.0) post(0.0) in(0.0) America(0.0) ,(0.0) and(0.0) both(0.0) of(0.0) those(0.0) divisions(1.0) are(0.0) now(0.0) famous(0.0) for(0.0) operations(1.0) that(0.0) have(0.0) 
+taken(0.0) place(0.0) in(0.0) Iraq(1.0) .(0.0) The(0.0) 4th(0.0) Infantry(1.0) Division(0.0) ,(0.0) one(0.0) of(0.0) the(0.0) divisions(1.0) at(0.0) Fort(1.0) Hood(0.0) ,(0.0) captured(1.0) Saddam(0.0) 
+Hussein(1.0) .(0.0) The(0.0) 1st(0.0) Calvary(1.0) Division(0.0) put(0.0) on(0.0) a(0.0) free(1.0) election(1.0) in(0.0) Baghdad(0.0) .(0.0) Both(1.0) were(0.0) major(0.0) accomplishments(1.0) in(0.0) this(0.0) 
+war(1.0) ,(0.0) major(1.0) accomplishments(1.0) in(0.0) the(0.0) future(0.0) of(0.0) Iraq(1.0) ,(0.0) and(0.0) the(0.0) blood(0.0) ,(0.0) sweat(1.0) and(0.0) tears(1.0) that(0.0) went(0.0) into(0.0) 
+those(0.0) projects(1.0) have(0.0) been(0.0) brought(0.0) back(0.0) to(0.0) central(1.0) Texas(0.0) on(0.0) numerous(0.0) occasions(0.0) .(0.0) So(1.0) it(0.0) is(0.0) clearly(1.0) an(0.0) honor(1.0) for(0.0) 
+me(0.0) to(0.0) be(0.0) able(0.0) to(0.0) stand(0.0) up(0.0) and(0.0) talk(0.0) about(0.0) what(0.0) is(0.0) going(0.0) on(0.0) in(0.0) Iraq(1.0) and(0.0) why(0.0) we(0.0) ,(0.0) 
+in(0.0) my(0.0) opinion(1.0) ,(0.0) my(0.0) humble(1.0) opinion(0.0) ,(0.0) and(0.0) I(0.0) think(1.0) the(0.0) opinion(0.0) of(0.0) those(0.0) who(0.0) really(0.0) think(1.0) about(0.0) the(0.0) 
+issues(0.0) ,(0.0) it(0.0) is(0.0) my(0.0) opinion(1.0) that(0.0) we(0.0) must(0.0) stay(0.0) the(0.0) course(0.0) .(0.0) What(0.0) I(0.0) want(1.0) to(0.0) be(0.0) able(0.0) to(0.0) 
+promise(0.0) ,(0.0) I(0.0) want(1.0) to(0.0) look(1.0) every(0.0) soldier(1.0) that(0.0) I(0.0) see(0.0) ,(0.0) and(0.0) I(0.0) see(0.0) soldiers(1.0) every(0.0) week(1.0) because(0.0) I(0.0) 
+go(1.0) back(0.0) home(0.0) every(0.0) week(1.0) and(0.0) I(0.0) go(1.0) visit(0.0) these(0.0) soldiers(1.0) ,(0.0) and(0.0) I(0.0) see(0.0) them(0.0) and(0.0) I(0.0) tell(0.0) them(0.0) 
+what(0.0) I(0.0) want(1.0) for(0.0) them(0.0) is(0.0) I(0.0) want(1.0) them(0.0) to(0.0) come(0.0) home(0.0) ,(0.0) just(1.0) like(0.0) every(0.0) American(0.0) wants(1.0) those(0.0) soldiers(1.0) 
+to(0.0) come(0.0) home(0.0) .(0.0) But(0.0) when(0.0) the(0.0) 4th(0.0) Infantry(1.0) Division(0.0) ,(0.0) III(1.0) Corps(1.0) and(0.0) the(0.0) 1st(0.0) Calvary(1.0) Division(0.0) and(0.0) all(0.0) 
+those(0.0) the(0.0) other(0.0) fine(0.0) soldiers(1.0) march(1.0) out(0.0) of(0.0) Iraq(1.0) ,(0.0) I(0.0) want(1.0) to(0.0) see(0.0) them(0.0) marching(1.0) out(0.0) under(0.0) ``(1.0) The(0.0) 
+Star(0.0) Spangled(1.0) Banner(0.0) ''(0.0) and(0.0) the(0.0) red(0.0) ,(0.0) white(1.0) and(0.0) blue(1.0) ,(0.0) and(0.0) not(0.0) the(0.0) white(1.0) flag(0.0) ,(0.0) and(0.0) that(0.0) 
+is(0.0) what(0.0) they(0.0) want(1.0) too(0.0) .(0.0) Every(1.0) soldier(1.0) I(0.0) have(0.0) spoken(0.0) to(0.0) ,(0.0) bar(1.0) none(0.0) ,(0.0) has(0.0) told(0.0) me(0.0) they(0.0) 
+are(0.0) doing(0.0) a(0.0) good(0.0) job(0.0) ,(0.0) they(0.0) are(0.0) winning(0.0) ,(0.0) they(0.0) will(0.0) win(0.0) ,(0.0) they(0.0) want(1.0) to(0.0) stay(0.0) the(0.0) course(0.0) 
+.(0.0) They(0.0) want(0.0) to(0.0) finish(0.0) the(0.0) job(1.0) they(0.0) started(0.0) .(0.0) They(0.0) say(1.0) they(0.0) owe(1.0) it(0.0) to(0.0) their(0.0) fallen(1.0) comrades(1.0) .(0.0) 
+They(0.0) owe(1.0) it(0.0) to(0.0) the(0.0) effort(0.0) they(0.0) have(0.0) put(0.0) forward(0.0) on(0.0) behalf(0.0) of(0.0) humanity(1.0) in(0.0) Iraq(1.0) .(0.0) I(0.0) get(0.0) real(0.0) 
+upset(1.0) and(0.0) tired(0.0) when(0.0) I(0.0) hear(0.0) people(0.0) ragging(1.0) on(0.0) and(0.0) insulting(1.0) and(0.0) writing(0.0) stories(0.0) about(0.0) the(0.0) ``(0.0) evil(1.0) American(0.0) soldier(1.0) 
+.(0.0) ''(0.0) The(0.0) evil(1.0) American(0.0) soldier(1.0) that(0.0) they(0.0) describe(0.0) does(0.0) n't(0.0) exist(1.0) .(0.0) American(0.0) soldiers(1.0) are(0.0) some(0.0) of(0.0) the(0.0) closest(1.0) 
+things(0.0) to(0.0) sainthood(0.0) that(0.0) I(0.0) have(0.0) seen(0.0) ,(0.0) because(1.0) they(0.0) are(0.0) willing(1.0) to(0.0) stand(0.0) up(0.0) and(0.0) fight(0.0) for(0.0) people(0.0) 
+
+
+----- below are rationale words -----
+
+
+truth	out	soldiers	
+Iraq	soldiers	a	blessed	Congressman	
+privilege	honor	Fort	Fort	
+division	divisions	operations	
+Iraq	Infantry	divisions	Fort	captured	
+Hussein	Calvary	free	election	Both	accomplishments	
+war	major	accomplishments	Iraq	sweat	tears	
+projects	central	So	clearly	honor	
+Iraq	
+opinion	humble	think	think	
+opinion	want	
+want	look	soldier	soldiers	week	
+go	week	go	soldiers	
+want	want	just	wants	soldiers	
+Infantry	III	Corps	Calvary	
+soldiers	march	Iraq	want	marching	``	
+Spangled	white	blue	white	
+want	Every	soldier	bar	
+want	
+job	say	owe	fallen	comrades	
+owe	humanity	Iraq	
+upset	ragging	insulting	evil	soldier	
+evil	soldier	exist	soldiers	closest	
+because	willing	
+
+reads % = 0.194

@@ -1,0 +1,20 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) if(0.0) I(0.0) can(0.0) continue(0.0) for(0.0) a(0.0) moment(0.0) ,(0.0) because(0.0) the(0.0) picture(0.0) that(0.0) the(0.0) gentleman(0.0) is(0.0) drawing(0.0) is(0.0) rather(0.0) 
+clear(0.0) to(0.0) me(0.0) .(0.0) I(0.0) noted(0.0) in(0.0) a(0.0) report(0.0) from(0.0) my(0.0) hometown(0.0) paper(0.0) ,(0.0) the(0.0) Boston(1.0) Globe(1.0) ,(0.0) that(0.0) the(0.0) 
+Senator(1.0) from(0.0) Arizona(1.0) ,(0.0) Senator(1.0) MCCain(1.0) ,(0.0) in(0.0) response(0.0) to(0.0) a(0.0) question(0.0) in(0.0) a(0.0) very(0.0) forthright(0.0) manner(0.0) made(0.0) this(0.0) statement(0.0) 
+:(0.0) ``(0.0) The(0.0) era(1.0) of(0.0) big(0.0) government(1.0) is(0.0) back(0.0) and(0.0) Republicans(0.0) seem(1.0) to(1.0) like(1.0) it(1.0) .(1.0) ''(0.0) I(0.0) presume(0.0) that(0.0) 
+he(0.0) was(0.0) referring(0.0) to(0.0) Iraq(1.0) or(0.0) maybe(0.0) he(0.0) was(0.0) referring(0.0) to(0.0) that(0.0) deficit(1.0) that(0.0) is(0.0) creating(0.0) a(0.0) future(0.0) Armageddon(0.0) for(0.0) 
+our(0.0) children(0.0) ,(0.0) our(0.0) grandchildren(1.0) ,(0.0) and(0.0) even(0.0) our(0.0) friends(0.0) in(0.0) North(1.0) Carolina(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	
+Boston	Globe	
+Senator	Arizona	Senator	MCCain	
+era	government	seem	to	like	it	.	
+Iraq	deficit	
+grandchildren	North	
+
+reads % = 0.1565217391304348

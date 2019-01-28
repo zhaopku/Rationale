@@ -1,0 +1,18 @@
+This is from a Republican
+----- below is the original text -----
+Reclaiming(1.0) my(0.0) time(0.0) ,(0.0) I(0.0) would(0.0) say(0.0) to(0.0) the(0.0) gentleman(0.0) that(0.0) we(0.0) are(0.0) well(0.0) aware(0.0) of(0.0) the(0.0) language(0.0) in(0.0) the(0.0) report(0.0) 
+and(0.0) the(0.0) committee(0.0) 's(0.0) desire(0.0) to(0.0) see(0.0) a(0.0) plan(0.0) that(0.0) would(0.0) show(0.0) how(0.0) the(0.0) funds(1.0) are(0.0) going(0.0) to(0.0) be(0.0) expended(1.0) 
+over(0.0) the(0.0) next(0.0) 5(0.0) years(0.0) .(0.0) The(0.0) amendment(1.0) ,(0.0) of(0.0) course(0.0) ,(0.0) addresses(0.0) the(0.0) expenditure(1.0) of(0.0) funds(1.0) through(0.0) the(0.0) Board(0.0) 
+for(0.0) International(0.0) Broadcasting(0.0) as(0.0) funds(0.0) are(0.0) normally(0.0) expended(0.0) ,(0.0) but(0.0) I(0.0) have(0.0) been(0.0) assured(0.0) by(0.0) Radio(0.0) Free(0.0) Asia(0.0) that(0.0) their(0.0) 
+plan(1.0) for(0.0) expenditures(1.0) will(0.0) be(0.0) forthcoming(0.0) and(0.0) I(0.0) am(0.0) sure(0.0) the(0.0) committee(0.0) will(0.0) look(0.0) at(0.0) it(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+funds	expended	
+amendment	expenditure	funds	
+
+plan	expenditures	
+
+reads % = 0.07142857142857142

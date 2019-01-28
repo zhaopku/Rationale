@@ -1,0 +1,38 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) 1\1/4\(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) [(0.0) Mr.(0.0) DeLay(1.0) ](0.0) .(0.0) Mr.(0.0) DeLAY(1.0) .(0.0) Mr.(0.0) Speaker(1.0) 
+,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) support(0.0) of(0.0) the(0.0) motion(1.0) to(0.0) recommit(1.0) offered(0.0) by(0.0) Mr.(0.0) Johnson(1.0) from(0.0) the(0.0) great(0.0) State(0.0) of(0.0) 
+Texas(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) last(0.0) year(0.0) in(0.0) Corpus(1.0) Christi(0.0) ,(0.0) students(0.0) at(0.0) various(0.0) high(0.0) schools(1.0) and(0.0) junior(0.0) highs(0.0) were(0.0) 
+ordered(0.0) by(0.0) school(0.0) officials(0.0) to(0.0) disperse(0.0) and(0.0) advised(0.0) that(0.0) they(0.0) would(0.0) receive(0.0) disciplinary(0.0) action(0.0) for(0.0) gathering(0.0) before(0.0) school(0.0) to(0.0) pray(0.0) 
+around(0.0) a(0.0) flagpole(0.0) .(0.0) The(0.0) lawsuit(1.0) is(0.0) still(0.0) pending(0.0) .(0.0) In(0.0) addition(0.0) ,(0.0) in(0.0) Dallas(1.0) ,(0.0) students(0.0) at(0.0) Skyline(0.0) High(0.0) 
+School(0.0) were(0.0) threatened(0.0) by(0.0) their(0.0) principal(0.0) if(0.0) they(0.0) continued(0.0) to(0.0) read(0.0) audibly(0.0) from(0.0) their(0.0) Bible(0.0) and(0.0) pray(0.0) on(0.0) the(0.0) school(0.0) 
+lawn(0.0) before(0.0) school(0.0) .(0.0) This(0.0) is(0.0) not(0.0) only(0.0) outrageous(0.0) ,(0.0) it(0.0) is(0.0) unconstitutional(1.0) .(0.0) Voluntary(1.0) prayer(0.0) in(0.0) school(0.0) is(0.0) a(0.0) 
+first(0.0) amendment(1.0) right(0.0) .(0.0) The(0.0) House(0.0) has(0.0) voted(0.0) three(0.0) times(0.0) by(0.0) overwhelming(0.0) margins(1.0) to(0.0) protect(0.0) voluntary(1.0) school(1.0) prayer(0.0) .(0.0) Nonetheless(0.0) 
+,(0.0) the(0.0) conferees(1.0) have(0.0) replaced(0.0) it(0.0) with(0.0) the(0.0) weaker(0.0) Senate(0.0) language(0.0) .(0.0) Some(0.0) would(0.0) have(0.0) you(0.0) believe(0.0) that(0.0) the(0.0) Johnson(1.0) 
+language(0.0) gives(0.0) control(0.0) to(0.0) the(0.0) Federal(1.0) Government(1.0) of(0.0) the(0.0) courts(0.0) .(0.0) This(0.0) is(0.0) simply(0.0) not(0.0) true(0.0) .(0.0) The(0.0) Johnson(1.0) language(0.0) 
+provides(0.0) for(0.0) Federal(1.0) or(0.0) court(0.0) involvement(0.0) only(0.0) if(0.0) the(0.0) local(0.0) school(0.0) boards(0.0) and(0.0) State(0.0) education(0.0) agencies(0.0) fail(0.0) to(0.0) act(0.0) and(0.0) 
+correct(0.0) the(0.0) problem(0.0) .(0.0) In(0.0) addition(0.0) ,(0.0) the(0.0) Johnson(1.0) language(0.0) is(0.0) far(0.0) less(0.0) burdensome(1.0) than(0.0) the(0.0) Senate(0.0) language(0.0) .(0.0) The(0.0) 
+Senate(0.0) language(0.0) requires(0.0) a(0.0) person(0.0) to(0.0) go(0.0) before(0.0) the(0.0) courts(0.0) twice(0.0) ,(0.0) and(0.0) prove(0.0) that(0.0) the(0.0) school(0.0) willfully(0.0) violated(1.0) their(0.0) 
+constitutional(1.0) right(0.0) to(0.0) voluntary(1.0) school(0.0) prayer(0.0) .(0.0) Vote(1.0) yes(0.0) on(0.0) the(0.0) motion(1.0) to(0.0) recommit(1.0) to(0.0) protect(1.0) our(0.0) children's(0.0) constitutional(1.0) right(0.0) 
+to(0.0) voluntary(1.0) prayer(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+DeLay	DeLAY	Speaker	
+motion	recommit	Johnson	
+Speaker	Corpus	schools	
+
+lawsuit	Dallas	
+
+unconstitutional	Voluntary	
+amendment	margins	voluntary	school	
+conferees	Johnson	
+Federal	Government	Johnson	
+Federal	
+Johnson	burdensome	
+violated	
+constitutional	voluntary	Vote	motion	recommit	protect	constitutional	
+voluntary	
+
+reads % = 0.11929824561403508

@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) would(0.0) say(0.0) to(0.0) my(0.0) friend(0.0) from(0.0) Michigan(1.0) that(0.0) one(0.0) of(0.0) the(0.0) previous(0.0) administrations(1.0) back(0.0) in(0.0) 1985(1.0) did(0.0) 
+indeed(0.0) borrow(0.0) from(0.0) the(0.0) Social(0.0) Security(0.0) trust(0.0) fund(1.0) and(0.0) was(0.0) most(0.0) severely(0.0) criticized(1.0) by(0.0) the(0.0) Democrat(1.0) Party(1.0) for(0.0) having(0.0) done(0.0) 
+so(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) 2\1/2\(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Alabama(1.0) [(0.0) Mr.(0.0) Bachus(1.0) ](0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	Michigan	administrations	1985	
+fund	criticized	Democrat	Party	
+Speaker	Alabama	Bachus	
+
+reads % = 0.18333333333333332

@@ -1,0 +1,38 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) in(0.0) consultation(0.0) with(0.0) the(0.0) Committee(0.0) on(0.0) Ways(0.0) and(0.0) Means(0.0) and(0.0) ,(0.0) of(0.0) course(0.0) ,(0.0) this(0.0) is(0.0) more(0.0) appropriate(0.0) on(0.0) 
+the(0.0) underlying(0.0) legislation(1.0) ,(0.0) or(0.0) I(0.0) suppose(0.0) even(0.0) we(0.0) could(0.0) request(0.0) them(0.0) on(0.0) the(0.0) next(0.0) rule(1.0) ,(0.0) EIC(1.0) has(0.0) been(0.0) 
+expanded(0.0) dramatically(0.0) in(0.0) this(0.0) legislation(1.0) which(0.0) is(0.0) going(0.0) to(0.0) assist(0.0) in(0.0) a(0.0) number(0.0) of(0.0) fashions(0.0) .(0.0) I(0.0) am(0.0) not(0.0) exactly(0.0) 
+sure(0.0) as(0.0) the(0.0) gentleman(0.0) from(0.0) Tennessee(0.0) ((0.0) Mr.(0.0) Ford(1.0) )(0.0) has(1.0) outlined(1.0) a(0.0) particular(0.0) part(0.0) that(0.0) he(0.0) has(0.0) talked(0.0) about(0.0) 
+on(0.0) 11,000(0.0) ;(0.0) but(0.0) the(0.0) EIC(0.0) is(0.0) expanded(0.0) just(0.0) on(0.0) the(0.0) aspect(0.0) of(0.0) making(0.0) sure(0.0) that(0.0) we(0.0) capture(0.0) helping(0.0) low(0.0) 
+income(1.0) wage(1.0) earners(1.0) so(0.0) that(0.0) they(0.0) are(0.0) not(0.0) caught(0.0) in(0.0) this(0.0) .(0.0) As(0.0) I(0.0) said(0.0) ,(0.0) in(0.0) my(0.0) State(1.0) ,(0.0) 
+the(0.0) EITC(1.0) has(0.0) been(0.0) extensively(0.0) of(0.0) assistance(0.0) to(0.0) our(0.0) poor(1.0) and(0.0) low(0.0) income(1.0) family(0.0) wage(1.0) earners(1.0) .(0.0) I(0.0) would(0.0) hope(0.0) 
+that(0.0) we(0.0) can(0.0) move(0.0) forward(0.0) to(0.0) a(0.0) closure(0.0) of(0.0) this(0.0) rule(1.0) on(0.0) same-day(1.0) ,(0.0) take(0.0) a(0.0) vote(0.0) on(0.0) it(0.0) ,(0.0) 
+see(0.0) if(0.0) the(0.0) body(0.0) will(0.0) consider(0.0) then(0.0) the(0.0) rule(1.0) on(0.0) the(0.0) underlying(0.0) legislation(1.0) ,(0.0) to(0.0) consider(0.0) this(0.0) legislation(1.0) so(0.0) that(0.0) 
+all(0.0) Members(0.0) will(0.0) have(0.0) an(0.0) opportunity(0.0) to(0.0) participate(0.0) in(0.0) the(0.0) debate(1.0) ,(0.0) and(0.0) then(0.0) we(0.0) can(0.0) have(0.0) consideration(0.0) of(0.0) whether(0.0) 
+we(0.0) pass(0.0) this(0.0) conference(0.0) report(0.0) ,(0.0) which(0.0) has(0.0) been(0.0) 18(0.0) months(0.0) in(0.0) the(0.0) making(0.0) .(0.0) Most(0.0) of(0.0) these(0.0) are(0.0) extenders(0.0) 
+and(0.0) legislation(1.0) that(0.0) all(0.0) Members(0.0) are(0.0) well(0.0) aware(0.0) of(0.0) .(0.0) We(0.0) have(0.0) had(0.0) strong(0.0) bipartisan(1.0) support(0.0) for(0.0) this(0.0) legislation(1.0) as(0.0) 
+has(0.0) been(0.0) considered(0.0) in(0.0) this(0.0) body(0.0) in(0.0) the(0.0) past(0.0) .(0.0) Otherwise(0.0) ,(0.0) as(0.0) I(0.0) understand(0.0) it(0.0) ,(0.0) if(0.0) we(0.0) are(0.0) 
+not(0.0) able(0.0) to(0.0) take(0.0) this(0.0) legislation(1.0) up(0.0) today(0.0) ,(0.0) it(0.0) will(0.0) cause(0.0) us(0.0) to(0.0) be(0.0) continuing(0.0) our(0.0) work(0.0) tomorrow(0.0) if(0.0) 
+we(0.0) can(0.0) not(0.0) complete(0.0) our(0.0) work(0.0) today(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+legislation	rule	EIC	
+legislation	
+Ford	has	outlined	
+
+income	wage	earners	State	
+EITC	poor	income	wage	earners	
+rule	same-day	
+rule	legislation	legislation	
+debate	
+
+legislation	bipartisan	legislation	
+
+legislation	
+Speaker	
+
+reads % = 0.09

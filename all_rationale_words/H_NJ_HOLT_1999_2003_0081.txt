@@ -1,0 +1,34 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) in(0.0) strong(0.0) opposition(1.0) to(0.0) this(0.0) bill(1.0) ,(0.0) this(0.0) so-called(1.0) partial-birth(1.0) abortion(1.0) ban(1.0) .(0.0) It(0.0) continues(0.0) a(0.0) troubling(0.0) 
+tendency(0.0) that(0.0) we(0.0) have(0.0) seen(0.0) over(0.0) the(0.0) last(0.0) few(0.0) years(0.0) for(0.0) Congress(0.0) to(0.0) try(0.0) to(0.0) practice(0.0) medicine(1.0) .(0.0) Every(0.0) day(0.0) 
+,(0.0) patients(0.0) make(0.0) medical(1.0) treatment(0.0) decisions(0.0) that(0.0) are(0.0) difficult(0.0) ,(0.0) that(0.0) are(0.0) unpleasant(0.0) ,(0.0) that(0.0) are(0.0) even(0.0) dangerous(0.0) and(0.0) matters(0.0) 
+of(0.0) life(0.0) and(0.0) death(0.0) .(0.0) Surely(0.0) pregnant(1.0) women(1.0) deserve(1.0) the(0.0) same(0.0) opportunities(0.0) to(0.0) decide(0.0) with(0.0) their(0.0) doctors(0.0) the(0.0) best(0.0) course(0.0) 
+of(0.0) treatment(0.0) .(0.0) However(0.0) ,(0.0) this(0.0) bill(1.0) denies(1.0) women(1.0) such(0.0) opportunities(0.0) and(0.0) restricts(1.0) their(0.0) ability(0.0) to(0.0) access(0.0) safe(0.0) and(0.0) appropriate(0.0) 
+health(1.0) care(1.0) .(0.0) Furthermore(0.0) ,(0.0) doctors(0.0) who(0.0) determine(0.0) that(0.0) the(0.0) banned(1.0) procedure(0.0) is(0.0) the(0.0) most(0.0) appropriate(0.0) treatment(0.0) will(0.0) be(0.0) subject(0.0) 
+to(0.0) criminal(1.0) sanctions(1.0) simply(0.0) for(0.0) providing(0.0) their(0.0) patients(0.0) with(0.0) the(0.0) best(0.0) medical(0.0) care(0.0) .(0.0) All(0.0) of(0.0) us(0.0) like(0.0) to(0.0) see(0.0) 
+fewer(0.0) abortions(1.0) performed(0.0) in(0.0) this(0.0) country(1.0) ,(0.0) and(0.0) that(0.0) is(0.0) why(0.0) I(0.0) support(0.0) education(1.0) and(0.0) prevention(1.0) programs(1.0) to(0.0) help(0.0) families(0.0) 
+avoid(0.0) unwanted(1.0) pregnancies(1.0) .(0.0) But(0.0) the(0.0) question(0.0) of(0.0) whether(0.0) or(0.0) not(0.0) to(0.0) have(0.0) an(0.0) abortion(1.0) is(0.0) one(0.0) of(0.0) the(0.0) most(0.0) 
+difficult(0.0) decisions(0.0) any(0.0) woman(0.0) can(0.0) face(0.0) .(0.0) Reproductive(1.0) health(1.0) care(1.0) is(0.0) a(0.0) very(0.0) personal(0.0) ,(0.0) ethical(1.0) ,(0.0) and(0.0) medical(1.0) matter(0.0) 
+that(0.0) should(0.0) be(0.0) left(0.0) to(0.0) individuals(0.0) ,(0.0) their(0.0) doctors(1.0) ,(0.0) and(0.0) their(0.0) families(0.0) without(0.0) interference(1.0) from(0.0) the(0.0) government(1.0) .(0.0) Proponents(1.0) 
+of(0.0) this(0.0) bill(1.0) allege(1.0) that(0.0) it(0.0) will(0.0) protect(1.0) life(0.0) .(0.0) In(0.0) reality(1.0) ,(0.0) it(0.0) will(0.0) jeopardize(1.0) the(0.0) health(1.0) of(0.0) women(1.0) 
+across(0.0) this(0.0) nation(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) this(0.0) legislation(1.0) should(1.0) be(0.0) rejected(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+opposition	bill	so-called	partial-birth	abortion	ban	
+medicine	
+medical	
+pregnant	women	deserve	
+bill	denies	women	restricts	
+health	care	banned	
+criminal	sanctions	
+abortions	country	education	prevention	programs	
+unwanted	pregnancies	abortion	
+Reproductive	health	care	ethical	medical	
+doctors	interference	government	Proponents	
+bill	allege	protect	reality	jeopardize	health	women	
+nation	Speaker	legislation	should	rejected	
+
+reads % = 0.19291338582677164

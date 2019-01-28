@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) last(0.0) night(0.0) ,(0.0) Congress(0.0) voted(1.0) to(0.0) give(0.0) our(0.0) law(1.0) enforcement(1.0) officials(1.0) a(0.0) strong(0.0) tool(0.0) to(0.0) fight(1.0) the(0.0) epidemic(1.0) 
+of(0.0) methamphetamine(1.0) abuse(1.0) .(0.0) I(0.0) was(0.0) proud(0.0) to(0.0) support(0.0) this(0.0) legislation(1.0) because(0.0) I(0.0) have(0.0) seen(0.0) the(0.0) havoc(1.0) meth(1.0) can(0.0) wreak(1.0) 
+on(0.0) our(0.0) children(0.0) ,(0.0) our(0.0) families(1.0) ,(0.0) and(0.0) our(0.0) communities(1.0) .(0.0) The(0.0) 11th(0.0) District(0.0) of(0.0) Georgia(1.0) ,(0.0) which(0.0) I(0.0) represent(0.0) 
+,(0.0) has(0.0) felt(0.0) the(0.0) full(0.0) consequences(1.0) of(0.0) this(0.0) growing(0.0) epidemic(1.0) .(0.0) In(0.0) fact(0.0) ,(0.0) one(0.0) of(0.0) the(0.0) largest(0.0) methamphetamine(1.0) busts(1.0) 
+recently(0.0) took(0.0) place(0.0) in(0.0) metropolitan(1.0) Atlanta(1.0) .(0.0) We(0.0) can(0.0) not(0.0) ignore(0.0) what(0.0) has(0.0) happened(0.0) in(0.0) the(0.0) basements(1.0) and(0.0) tool(0.0) sheds(0.0) 
+of(0.0) suburban(1.0) America(0.0) ,(0.0) because(0.0) methamphetamine(1.0) abuse(1.0) is(0.0) threatening(0.0) the(0.0) health(1.0) and(0.0) safety(0.0) of(0.0) all(0.0) of(0.0) our(0.0) citizens(1.0) .(0.0) As(0.0) 
+a(0.0) physician(0.0) ,(0.0) I(0.0) know(0.0) the(0.0) harm(1.0) it(0.0) causes(0.0) the(0.0) human(1.0) body(0.0) ,(0.0) and(0.0) as(0.0) a(0.0) parent(0.0) and(0.0) a(0.0) grandparent(0.0) 
+,(0.0) I(0.0) know(0.0) the(0.0) devastation(1.0) it(0.0) can(0.0) bring(0.0) to(0.0) our(0.0) children(0.0) and(0.0) to(0.0) our(0.0) families(1.0) .(0.0) Congress(0.0) has(0.0) taken(0.0) a(0.0) 
+bold(0.0) step(0.0) forward(0.0) toward(0.0) fighting(1.0) and(0.0) winning(0.0) the(0.0) war(1.0) on(0.0) methamphetamine(1.0) abuse(1.0) .(0.0) When(0.0) President(0.0) Bush(1.0) signs(0.0) this(0.0) legislation(1.0) into(0.0) 
+law(1.0) ,(0.0) we(0.0) will(0.0) have(0.0) truly(0.0) made(0.0) a(0.0) difference(0.0) in(0.0) the(0.0) safety(0.0) of(0.0) our(0.0) communities(1.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) I(0.0) 
+ask(0.0) that(0.0) you(0.0) join(0.0) me(0.0) in(0.0) praising(1.0) this(0.0) hugely(0.0) important(0.0) legislation(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+voted	law	enforcement	officials	fight	epidemic	
+methamphetamine	abuse	legislation	havoc	meth	wreak	
+families	communities	Georgia	
+consequences	epidemic	methamphetamine	busts	
+metropolitan	Atlanta	basements	
+suburban	methamphetamine	abuse	health	citizens	
+harm	human	
+devastation	families	
+fighting	war	methamphetamine	abuse	Bush	legislation	
+law	communities	Speaker	
+praising	legislation	
+
+reads % = 0.19718309859154928

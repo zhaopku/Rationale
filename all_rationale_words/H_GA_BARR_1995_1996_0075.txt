@@ -1,0 +1,22 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) really(0.0) the(0.0) only(0.0) thing(0.0) that(0.0) this(0.0) amendment(1.0) provides(0.0) over(0.0) and(0.0) above(0.0) the(0.0) existing(0.0) language(0.0) of(0.0) the(0.0) legislation(1.0) is(0.0) somewhat(0.0) 
+greater(0.0) accountability(1.0) and(0.0) specificity(0.0) in(0.0) the(0.0) plan(1.0) that(0.0) would(0.0) be(0.0) set(0.0) forward(0.0) ,(0.0) and(0.0) to(0.0) make(0.0) sure(0.0) that(0.0) it(0.0) is(0.0) 
+specifically(0.0) available(0.0) to(0.0) Members(0.0) of(0.0) the(0.0) Congress(0.0) so(0.0) that(0.0) they(0.0) have(0.0) full(0.0) opportunity(0.0) to(0.0) review(0.0) it(0.0) ,(0.0) raise(0.0) any(0.0) questions(0.0) 
+about(0.0) it(0.0) ,(0.0) consult(0.0) with(0.0) the(0.0) FBI(1.0) and(0.0) the(0.0) DOJ(1.0) .(0.0) If(0.0) there(0.0) are(0.0) any(0.0) questions(0.0) that(0.0) the(0.0) Members(0.0) of(0.0) 
+Congress(0.0) ,(0.0) particularly(0.0) on(0.0) these(0.0) two(0.0) committees(0.0) which(0.0) have(0.0) very(0.0) clear(0.0) interest(0.0) ,(0.0) the(0.0) Committee(0.0) on(0.0) the(0.0) Judiciary(0.0) ,(0.0) substantively(1.0) 
+,(0.0) and(0.0) the(0.0) Committee(0.0) on(0.0) Appropriations(0.0) ,(0.0) because(0.0) of(0.0) the(0.0) large(0.0) amount(0.0) of(0.0) funding(1.0) that(0.0) would(0.0) go(0.0) into(0.0) this(0.0) fund(1.0) 
+,(0.0) that(0.0) they(0.0) have(0.0) full(0.0) and(0.0) fair(0.0) opportunity(0.0) to(0.0) review(0.0) it(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+amendment	legislation	
+accountability	plan	
+
+FBI	DOJ	
+substantively	
+funding	fund	
+
+
+reads % = 0.06766917293233082

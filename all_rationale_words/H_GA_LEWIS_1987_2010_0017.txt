@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) pass(0.0) the(0.0) bill(0.0) ((1.0) H.R(1.0) .(0.0) 4994(0.0) )(0.0) to(0.0) amend(0.0) the(0.0) Internal(0.0) 
+Revenue(0.0) Code(0.0) of(0.0) 1986(0.0) to(0.0) reduce(0.0) taxpayer(0.0) burdens(1.0) and(0.0) enhance(0.0) taxpayer(1.0) protections(1.0) ,(0.0) and(0.0) for(0.0) other(0.0) purposes(0.0) ,(0.0) as(0.0) amended(0.0) 
+.(0.0) The(0.0) Clerk(0.0) read(0.0) the(0.0) title(0.0) of(0.0) the(0.0) bill(0.0) .(0.0) The(0.0) text(0.0) of(0.0) the(0.0) bill(0.0) is(0.0) as(0.0) follows(0.0) :(0.0) H.R(0.0) 
+.(0.0) 4994(0.0) Be(0.0) it(0.0) enacted(0.0) by(0.0) the(0.0) Senate(0.0) and(0.0) House(0.0) of(0.0) Representatives(0.0) of(0.0) the(0.0) United(0.0) States(0.0) of(0.0) America(0.0) in(0.0) Congress(0.0) 
+assembled(0.0) ,(0.0) SECTION(0.0) 1(0.0) .(0.0) SHORT(0.0) TITLE(0.0) ,(0.0) ETC(0.0) .(0.0) ((0.0) a(0.0) )(0.0) Short(0.0) Title.(0.0) --(0.0) This(0.0) Act(0.0) may(0.0) be(0.0) 
+cited(0.0) as(0.0) the(0.0) ``(0.0) Taxpayer(0.0) Assistance(0.0) Act(0.0) of(0.0) 2010(0.0) ''(0.0) .(0.0) ((0.0) b(0.0) )(0.0) Amendment(0.0) of(0.0) Internal(0.0) Revenue(0.0) Code(0.0) of(0.0) 
+1986.(0.0) --(0.0) Except(0.0) as(0.0) otherwise(0.0) expressly(0.0) provided(0.0) ,(0.0) whenever(0.0) in(0.0) this(0.0) Act(0.0) an(0.0) amendment(0.0) or(0.0) repeal(0.0) is(0.0) expressed(0.0) in(0.0) terms(0.0) 
+of(0.0) an(0.0) amendment(0.0) to(0.0) ,(0.0) or(0.0) repeal(0.0) of(0.0) ,(0.0) a(0.0) section(0.0) or(0.0) other(0.0) provision(0.0) ,(0.0) the(0.0) reference(0.0) shall(0.0) be(0.0) considered(0.0) 
+to(0.0) be(0.0) made(0.0) to(0.0) a(0.0) section(0.0) or(0.0) other(0.0) provision(0.0) of(0.0) the(0.0) Internal(0.0) Revenue(0.0) Code(0.0) of(0.0) 1986(0.0) .(0.0) ((0.0) c(0.0) )(0.0) 
+Table(0.0) of(0.0) Contents.(0.0) --(0.0) The(0.0) table(0.0) of(0.0) contents(0.0) of(0.0) this(0.0) Act(0.0) is(0.0) as(0.0) follows(0.0) :(0.0) Sec(0.0) .(0.0) 1(0.0) .(0.0) Short(0.0) 
+title(0.0) ,(0.0) etc(0.0) .(0.0) TITLE(0.0) I(0.0) --(0.0) CELL(0.0) PHONES(0.0) AND(0.0) ELECTRONIC(0.0) FILING(0.0) Sec(0.0) .(0.0) 101(0.0) .(0.0) Removal(0.0) of(0.0) cellular(0.0) telephones(0.0) 
+and(0.0) similar(0.0) telecommunications(0.0) equipment(0.0) from(0.0) listed(0.0) property(0.0) .(0.0) Sec(0.0) .(0.0) 102(0.0) .(0.0) Electronic(0.0) filing(0.0) exemption(1.0) for(0.0) religious(0.0) reasons(0.0) .(0.0) Sec(0.0) 
+.(0.0) 103(0.0) .(0.0) Accelerate(0.0) interest(0.0) on(0.0) refunds(0.0) for(0.0) returns(0.0) filed(0.0) electronically(0.0) .(0.0) TITLE(0.0) II(0.0) --(0.0) COLLECTION(0.0) Sec(0.0) .(0.0) 201(0.0) .(0.0) 
+Study(0.0) on(0.0) the(0.0) effectiveness(0.0) of(0.0) collection(0.0) alternatives(0.0) .(0.0) Sec(0.0) .(0.0) 202(0.0) .(0.0) Repeal(0.0) of(0.0) partial(0.0) payment(0.0) requirement(0.0) on(0.0) submissions(0.0) of(0.0) 
+offers-in-compromise(0.0) .(0.0) TITLE(0.0) III(0.0) --(0.0) TAXPAYER(0.0) ASSISTANCE(0.0) AND(0.0) PROTECTION(0.0) IMPROVEMENTS(0.0) Sec(0.0) .(0.0) 301(0.0) .(0.0) Referrals(0.0) to(0.0) Low-Income(1.0) Taxpayer(1.0) Clinics(1.0) permitted(0.0) 
+.(0.0) Sec(0.0) .(0.0) 302(0.0) .(0.0) Low-income(1.0) taxpayer(1.0) clinics(1.0) .(0.0) Sec(0.0) .(0.0) 303(0.0) .(0.0) EITC(1.0) outreach(1.0) .(0.0) Sec(0.0) .(0.0) 304(0.0) .(0.0) 
+Taxpayer(0.0) notification(0.0) of(0.0) suspected(0.0) identity(0.0) theft(0.0) .(0.0) Sec(0.0) .(0.0) 305(0.0) .(0.0) Clarification(0.0) of(0.0) IRS(0.0) unclaimed(0.0) refund(0.0) authority(0.0) .(0.0) Sec(0.0) .(0.0) 
+306(0.0) .(0.0) Study(0.0) on(0.0) delivery(0.0) of(0.0) tax(0.0) refunds(1.0) .(0.0) Sec(0.0) .(0.0) 307(0.0) .(0.0) Study(0.0) on(0.0) timely(0.0) processing(0.0) and(0.0) use(0.0) of(0.0) 
+information(0.0) returns(0.0) .(0.0) Sec(0.0) .(0.0) 308(0.0) .(0.0) Study(0.0) on(0.0) easing(1.0) the(0.0) burden(1.0) of(0.0) in-person(1.0) tax(1.0) payments(1.0) .(0.0) TITLE(0.0) IV(0.0) --(0.0) 
+REVENUE(0.0) PROVISIONS(0.0) Sec(0.0) .(0.0) 401(0.0) .(0.0) Expansion(0.0) of(0.0) bad(0.0) check(0.0) penalty(0.0) to(0.0) electronic(0.0) payments(0.0) .(0.0) Sec(0.0) .(0.0) 402(0.0) .(0.0) Increase(0.0) 
+in(0.0) information(0.0) return(0.0) penalties(0.0) .(0.0) Sec(0.0) .(0.0) 403(0.0) .(0.0) Budget(0.0) compliance(1.0) .(0.0) TITLE(0.0) I(0.0) --(0.0) CELL(0.0) PHONES(0.0) AND(0.0) ELECTRONIC(0.0) FILING(0.0) 
+SEC(0.0) .(0.0) 101(0.0) .(0.0) REMOVAL(0.0) OF(0.0) CELLULAR(0.0) TELEPHONES(0.0) AND(0.0) SIMILAR(0.0) TELECOMMUNICATIONS(0.0) EQUIPMENT(0.0) FROM(0.0) LISTED(0.0) PROPERTY(0.0) .(0.0) ((0.0) a(0.0) )(0.0) In(0.0) 
+General.(0.0) --(0.0) Subparagraph(0.0) ((0.0) A(0.0) )(0.0) of(0.0) section(0.0) 280F(0.0) ((0.0) d(0.0) )(0.0) ((0.0) 4(0.0) )(0.0) ((0.0) defining(0.0) listed(0.0) property(0.0) )(0.0) 
+is(0.0) amended(0.0) by(0.0) adding(0.0) ``(0.0) and(0.0) ''(0.0) at(0.0) the(0.0) end(0.0) of(0.0) clause(0.0) ((0.0) iv(0.0) )(0.0) ,(0.0) by(0.0) striking(0.0) clause(0.0) ((0.0) 
+v(0.0) )(0.0) ,(0.0) and(0.0) by(0.0) redesignating(1.0) clause(0.0) ((0.0) vi(0.0) )(0.0) as(0.0) clause(0.0) ((0.0) v(0.0) )(0.0) .(0.0) ((0.0) b(0.0) )(0.0) 
+
+
+----- below are rationale words -----
+
+(	H.R	
+burdens	taxpayer	protections	
+
+
+
+
+
+
+
+
+
+exemption	
+
+
+Low-Income	Taxpayer	Clinics	
+Low-income	taxpayer	clinics	EITC	outreach	
+
+refunds	
+easing	burden	in-person	tax	payments	
+
+compliance	
+
+
+
+redesignating	
+
+reads % = 0.044

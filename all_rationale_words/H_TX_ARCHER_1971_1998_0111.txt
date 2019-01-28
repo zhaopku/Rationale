@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) 2(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) ((0.0) Mr.(0.0) Sam(1.0) Johnson(1.0) )(0.0) ,(0.0) one(0.0) of(0.0) America(0.0) 's(0.0) 
+great(0.0) heroes(0.0) ,(0.0) a(0.0) member(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Ways(0.0) and(0.0) Means(0.0) .(0.0) ((0.0) Mr.(0.0) SAM(1.0) JOHNSON(1.0) of(0.0) Texas(0.0) asked(0.0) 
+and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) )(0.0) 
+
+
+----- below are rationale words -----
+
+Sam	Johnson	
+SAM	JOHNSON	
+
+
+reads % = 0.07547169811320754

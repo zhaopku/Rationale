@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) appreciate(0.0) the(0.0) hard(0.0) work(0.0) that(0.0) my(0.0) good(0.0) friend(0.0) from(0.0) Oregon(1.0) ((0.0) Mr.(0.0) Wu(1.0) )(0.0) and(0.0) my(0.0) friend(0.0) 
+from(0.0) Nebraska(1.0) ((0.0) Mr.(0.0) Smith(1.0) )(0.0) have(1.0) put(0.0) into(0.0) this(0.0) bill(0.0) .(0.0) Certainly(0.0) ,(0.0) as(0.0) a(0.0) fiscal(0.0) conservative(0.0) ,(0.0) I(0.0) 
+am(0.0) concerned(0.0) about(0.0) how(0.0) the(0.0) agencies(1.0) within(0.0) the(0.0) Federal(1.0) Government(1.0) coordinate(0.0) their(0.0) activities(0.0) and(0.0) coordinate(0.0) their(0.0) communications(0.0) .(0.0) I(0.0) congratulate(0.0) 
+Mr.(0.0) Wu(1.0) on(0.0) trying(0.0) to(0.0) bring(0.0) overarching(1.0) communications(0.0) between(0.0) these(0.0) four(0.0) governmental(1.0) agencies(1.0) .(0.0) Just(0.0) today(0.0) on(0.0) Fox(0.0) and(0.0) Friends(0.0) 
+news(0.0) ,(0.0) they(0.0) had(0.0) a(0.0) seismologist(0.0) who(0.0) was(0.0) predicting(0.0) just(0.0) in(0.0) the(0.0) very(0.0) near(0.0) future(0.0) a(0.0) major(0.0) earthquake(0.0) which(0.0) would(0.0) 
+affect(0.0) Mr.(0.0) Wu(1.0) 's(0.0) home(0.0) State(0.0) of(0.0) Oregon(1.0) ,(0.0) the(0.0) State(0.0) of(0.0) Washington(1.0) ,(0.0) as(0.0) well(0.0) as(0.0) the(0.0) State(0.0) of(0.0) 
+California(1.0) .(0.0) We(0.0) 've(0.0) seen(0.0) a(0.0) tremendous(0.0) number(0.0) of(0.0) earthquakes(1.0) recently(0.0) ,(0.0) and(0.0) ,(0.0) I(0.0) think(0.0) ,(0.0) having(0.0) the(0.0) Federal(1.0) 
+Government(1.0) agencies(1.0) coordinate(0.0) their(0.0) efforts(1.0) to(0.0) try(0.0) to(0.0) find(0.0) some(0.0) way(0.0) to(0.0) communicate(0.0) between(0.0) those(0.0) is(0.0) absolutely(0.0) a(0.0) much(0.0) needed(0.0) 
+process(0.0) .(0.0) I(0.0) congratulate(0.0) Mr.(0.0) Wu(1.0) on(0.0) his(0.0) efforts(1.0) to(0.0) do(0.0) that(0.0) .(0.0) So(0.0) ,(0.0) having(0.0) said(0.0) all(0.0) of(0.0) that(0.0) 
+,(0.0) Madam(0.0) Speaker(1.0) ,(0.0) I(0.0) am(0.0) prepared(0.0) to(0.0) close(0.0) ,(0.0) but(0.0) I(0.0) do(0.0) just(0.0) want(0.0) to(0.0) congratulate(0.0) Mr.(0.0) Wu(1.0) again(1.0) 
+on(0.0) his(0.0) hard(0.0) work(0.0) on(0.0) this(0.0) bill(1.0) .(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Oregon	Wu	
+Nebraska	Smith	have	
+agencies	Federal	Government	
+Wu	overarching	governmental	agencies	
+
+Wu	Oregon	Washington	
+California	earthquakes	Federal	
+Government	agencies	efforts	
+Wu	efforts	
+Speaker	Wu	again	
+bill	
+
+reads % = 0.12385321100917432

@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) me(0.0) this(0.0) time(0.0) .(0.0) I(0.0) think(0.0) it(0.0) is(0.0) important(0.0) to(0.0) point(0.0) out(0.0) that(0.0) 
+there(0.0) is(0.0) great(0.0) bipartisan(1.0) support(0.0) for(0.0) the(0.0) underlying(0.0) bill(1.0) in(0.0) this(0.0) Chamber(0.0) .(0.0) And(0.0) although(0.0) it(0.0) does(0.0) have(0.0) broad(0.0) bipartisan(1.0) 
+support(1.0) ,(0.0) we(0.0) have(0.0) heard(0.0) a(0.0) few(0.0) of(0.0) our(0.0) colleagues(0.0) say(0.0) that(0.0) the(0.0) proposed(1.0) reforms(1.0) in(0.0) this(0.0) bill(1.0) are(0.0) a(0.0) 
+giveaway(0.0) to(0.0) those(0.0) who(0.0) are(0.0) already(0.0) wealthy(1.0) ;(0.0) that(0.0) this(0.0) bill(1.0) will(1.0) make(0.0) it(0.0) less(0.0) likely(0.0) rather(0.0) than(0.0) more(0.0) likely(0.0) 
+that(0.0) companies(0.0) will(0.0) sponsor(0.0) plans(1.0) .(0.0) For(0.0) the(0.0) last(0.0) 20(0.0) years(0.0) ,(0.0) we(0.0) have(0.0) heard(0.0) that(0.0) cutbacks(1.0) in(0.0) benefits(1.0) and(0.0) 
+contribution(1.0) limits(1.0) and(0.0) so-called(1.0) top-heavy(1.0) and(0.0) other(0.0) provisions(1.0) were(0.0) necessary(0.0) to(0.0) increase(1.0) plan(1.0) coverage(1.0) and(0.0) benefits(0.0) for(0.0) the(0.0) most(0.0) vulnerable(1.0) 
+employees(1.0) .(0.0) So(0.0) what(0.0) has(0.0) happened(0.0) ?(0.0) Approximately(0.0) 50(0.0) million(0.0) Americans(1.0) now(0.0) lack(0.0) private(0.0) pension(1.0) coverage(1.0) ,(0.0) while(0.0) senior(0.0) executives(0.0) 
+have(0.0) made(0.0) increasing(0.0) use(0.0) of(0.0) nonqualified(1.0) plans(0.0) .(0.0) Since(0.0) 1985(0.0) ,(0.0) the(0.0) number(0.0) of(0.0) defined(0.0) benefit(0.0) pension(1.0) plans(1.0) has(0.0) dropped(0.0) 
+from(0.0) 114,000(1.0) to(0.0) 45,000(0.0) .(0.0) In(0.0) 1993(0.0) ,(0.0) the(0.0) year(0.0) after(0.0) Congress(0.0) reduced(0.0) the(0.0) compensation(1.0) limit(0.0) for(0.0) calculating(0.0) pension(1.0) benefits(1.0) 
+from(0.0) $(0.0) 235,425(0.0) to(0.0) $(0.0) 150,000(0.0) ,(0.0) the(0.0) number(0.0) of(0.0) companies(0.0) in(0.0) nonqualified(1.0) plans(1.0) tripled(0.0) from(0.0) 20(0.0) to(0.0) 67(0.0) percent(0.0) 
+.(0.0) Only(0.0) 20(0.0) percent(0.0) of(0.0) small(0.0) businesses(1.0) with(0.0) 25(0.0) or(0.0) fewer(0.0) workers(1.0) now(0.0) offer(0.0) a(0.0) retirement(0.0) plan(0.0) .(0.0) Our(0.0) savings(1.0) 
+rate(0.0) is(0.0) one-half(1.0) of(0.0) 1(0.0) percent(0.0) ,(0.0) which(0.0) is(0.0) the(0.0) lowest(0.0) level(0.0) since(0.0) the(0.0) Great(0.0) Depression(0.0) .(0.0) Seventy-six(0.0) million(0.0) baby(1.0) 
+boomers(1.0) will(0.0) retire(0.0) within(0.0) the(0.0) next(0.0) 10(0.0) years(0.0) .(0.0) But(0.0) studies(0.0) show(0.0) older(0.0) baby(0.0) boomers(1.0) have(0.0) less(0.0) than(0.0) 40(0.0) percent(0.0) 
+of(0.0) the(0.0) savings(1.0) needed(0.0) to(0.0) avoid(0.0) a(0.0) decline(0.0) in(0.0) their(0.0) standard(0.0) of(0.0) living(0.0) after(0.0) they(0.0) retire(0.0) .(0.0) Social(0.0) Security(0.0) was(0.0) 
+never(0.0) designed(0.0) to(0.0) be(0.0) the(0.0) sole(0.0) source(0.0) of(0.0) retirement(1.0) income(0.0) .(0.0) It(0.0) was(0.0) intended(0.0) to(0.0) be(0.0) one(0.0) leg(0.0) of(0.0) a(0.0) 
+three-legged(0.0) stool(0.0) that(0.0) included(0.0) employer-sponsored(1.0) retirement(1.0) plans(0.0) and(0.0) individual(0.0) savings(1.0) .(0.0) This(0.0) bill(1.0) will(1.0) restore(1.0) the(0.0) incentive(1.0) for(0.0) qualified(0.0) plans(0.0) 
+and(0.0) increase(0.0) savings(1.0) ,(0.0) which(0.0) will(0.0) benefit(1.0) all(0.0) American(0.0) workers(1.0) .(0.0) The(0.0) bill(1.0) restores(1.0) the(0.0) contribution(1.0) and(0.0) benefit(1.0) amounts(1.0) to(0.0) 
+what(0.0) they(0.0) would(0.0) have(0.0) been(0.0) had(0.0) they(0.0) not(0.0) been(0.0) repeatedly(0.0) cut(0.0) back(0.0) .(0.0) In(0.0) order(0.0) for(0.0) highly(0.0) paid(0.0) employees(0.0) to(0.0) 
+take(0.0) advantage(0.0) of(0.0) the(0.0) higher(0.0) limits(1.0) and(0.0) still(0.0) pass(0.0) the(0.0) nondiscrimination(1.0) test(0.0) ,(0.0) companies(1.0) will(0.0) have(0.0) to(0.0) provide(0.0) greater(0.0) benefits(1.0) 
+to(0.0) all(0.0) other(0.0) workers(1.0) .(0.0) The(0.0) bill(1.0) 's(0.0) simplifications(1.0) of(0.0) the(0.0) top-(0.0) heavy(0.0) and(0.0) nondiscriminatory(1.0) rules(1.0) do(0.0) not(0.0) weaken(0.0) the(0.0) 
+protection(1.0) afforded(1.0) to(0.0) our(0.0) workers(1.0) .(0.0) My(0.0) colleagues(0.0) also(0.0) give(0.0) little(0.0) attention(0.0) to(0.0) the(0.0) large(0.0) number(0.0) of(0.0) measures(1.0) in(0.0) the(0.0) 
+bill(1.0) that(0.0) are(0.0) specifically(0.0) designed(0.0) to(0.0) promote(1.0) the(0.0) retirement(1.0) security(0.0) of(0.0) rank-and-file(1.0) workers(1.0) .(0.0) The(0.0) bill(1.0) reduces(1.0) the(0.0) vesting(1.0) period(0.0) 
+for(0.0) employer-matching(0.0) contributions(1.0) from(0.0) 5(0.0) to(0.0) 3(0.0) years(0.0) ,(0.0) ensuring(0.0) that(0.0) amounts(0.0) are(0.0) not(0.0) forfeited(0.0) when(0.0) workers(0.0) change(0.0) jobs(0.0) or(0.0) 
+leave(0.0) the(0.0) workforce(1.0) for(0.0) care(1.0) of(0.0) their(0.0) children(0.0) .(0.0) Workers(1.0) 50(0.0) years(0.0) and(0.0) older(0.0) can(0.0) make(0.0) additional(0.0) catch-up(1.0) contributions(1.0) to(0.0) 
+their(0.0) retirement(1.0) plan(0.0) .(0.0) The(0.0) security(0.0) of(0.0) the(0.0) private(0.0) employer-(0.0) sponsored(0.0) retirement(1.0) system(0.0) will(0.0) be(0.0) strengthened(0.0) when(0.0) all(0.0) workers(1.0) 
+
+
+----- below are rationale words -----
+
+
+bipartisan	bill	bipartisan	
+support	proposed	reforms	bill	
+wealthy	bill	will	
+plans	cutbacks	benefits	
+contribution	limits	so-called	top-heavy	provisions	increase	plan	coverage	vulnerable	
+employees	Americans	pension	coverage	
+nonqualified	pension	plans	
+114,000	compensation	pension	benefits	
+nonqualified	plans	
+businesses	workers	savings	
+one-half	baby	
+boomers	boomers	
+savings	
+retirement	
+employer-sponsored	retirement	savings	bill	will	restore	incentive	
+savings	benefit	workers	bill	restores	contribution	benefit	amounts	
+
+limits	nondiscrimination	companies	benefits	
+workers	bill	simplifications	nondiscriminatory	rules	
+protection	afforded	workers	measures	
+bill	promote	retirement	rank-and-file	workers	bill	reduces	vesting	
+contributions	
+workforce	care	Workers	catch-up	contributions	
+retirement	retirement	workers	
+
+reads % = 0.178

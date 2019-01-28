@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) his(0.0) explanation(0.0) ,(0.0) and(0.0) urge(0.0) passage(1.0) of(0.0) the(0.0) bill(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) 
+withdraw(0.0) my(0.0) reservation(0.0) of(0.0) objection(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+passage	bill	Speaker	
+objection	
+
+reads % = 0.14814814814814814

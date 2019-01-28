@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) strong(0.0) opposition(1.0) to(0.0) the(0.0) pending(1.0) Colombian(1.0) free(0.0) trade(1.0) agreement(1.0) .(0.0) Since(0.0) 1991(0.0) ,(0.0) over(0.0) 2,000(0.0) 
+labor(1.0) organizers(0.0) have(0.0) been(0.0) murdered(0.0) in(0.0) Colombia(1.0) .(0.0) Many(0.0) of(0.0) these(0.0) cases(0.0) are(0.0) never(0.0) investigated(0.0) ,(0.0) and(0.0) the(0.0) perpetrators(1.0) go(0.0) 
+unpunished(1.0) ,(0.0) ready(0.0) to(0.0) strike(1.0) again(0.0) .(0.0) For(0.0) 13(0.0) years(0.0) I(0.0) served(0.0) as(0.0) the(0.0) union(1.0) leader(0.0) for(0.0) UNITE(1.0) HERE(0.0) Local(0.0) 
+617(0.0) .(0.0) If(0.0) I(0.0) had(0.0) born(0.0) in(0.0) Colombia(1.0) ,(0.0) there(0.0) is(0.0) a(0.0) strong(0.0) possibility(0.0) that(0.0) I(0.0) would(0.0) not(0.0) be(0.0) here(0.0) 
+today(0.0) fighting(1.0) for(0.0) working(0.0) class(0.0) people(0.0) .(0.0) My(0.0) effort(1.0) for(0.0) higher(0.0) wages(1.0) ,(0.0) better(0.0) working(0.0) conditions(0.0) ,(0.0) and(0.0) a(0.0) secure(0.0) 
+pension(0.0) could(0.0) have(0.0) cost(0.0) me(0.0) my(0.0) life(0.0) .(0.0) Many(0.0) will(0.0) argue(1.0) that(0.0) the(0.0) labor(1.0) rights(1.0) ``(0.0) fixes(0.0) ''(0.0) in(0.0) the(0.0) 
+May(0.0) 10(0.0) agreement(0.0) between(0.0) the(0.0) USTR(1.0) and(0.0) congressional(0.0) leadership(1.0) will(0.0) be(0.0) enough(0.0) to(0.0) prevent(0.0) the(0.0) deaths(1.0) of(0.0) union(1.0) workers(1.0) ,(0.0) 
+but(0.0) no(0.0) worker(0.0) protection(0.0) provision(1.0) comes(0.0) close(0.0) to(0.0) addressing(0.0) the(0.0) brutal(1.0) violations(1.0) of(0.0) workers'(0.0) rights(1.0) that(0.0) we(0.0) see(0.0) in(0.0) Colombia(1.0) 
+.(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) in(0.0) good(0.0) conscience(1.0) ,(0.0) I(0.0) can(0.0) not(0.0) support(0.0) a(0.0) free(0.0) trade(0.0) agreement(0.0) that(0.0) rewards(0.0) Colombia(1.0) with(0.0) 
+prized(0.0) access(0.0) to(0.0) American(0.0) markets(1.0) as(0.0) its(0.0) workers(1.0) live(0.0) in(0.0) constant(0.0) fear(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+opposition	pending	Colombian	trade	agreement	
+labor	Colombia	perpetrators	
+unpunished	strike	union	UNITE	
+Colombia	
+fighting	effort	wages	
+argue	labor	rights	
+USTR	leadership	deaths	union	workers	
+provision	brutal	violations	rights	Colombia	
+Speaker	conscience	Colombia	
+markets	workers	fear	
+
+reads % = 0.18041237113402062

@@ -1,0 +1,16 @@
+This is from a Republican
+----- below is the original text -----
+Section(0.0) 4(0.0) :(0.0) ``(0.0) The(0.0) Congress(0.0) may(0.0) by(0.0) law(0.0) provide(0.0) for(0.0) the(0.0) case(0.0) of(0.0) the(0.0) death(0.0) of(0.0) any(0.0) of(0.0) the(0.0) persons(0.0) 
+from(0.0) whom(0.0) the(0.0) House(0.0) of(0.0) Representatives(0.0) may(0.0) choose(0.0) a(0.0) President(0.0) whenever(0.0) the(0.0) right(0.0) of(0.0) choice(0.0) shall(0.0) have(0.0) devolved(0.0) upon(0.0) them(0.0) 
+and(0.0) for(0.0) the(0.0) case(0.0) of(0.0) the(0.0) death(0.0) of(0.0) any(0.0) of(0.0) the(0.0) persons(0.0) from(0.0) whom(0.0) the(0.0) Senate(0.0) may(0.0) choose(0.0) a(0.0) Vice(0.0) 
+President(0.0) whenever(0.0) the(0.0) right(0.0) of(0.0) choice(0.0) shall(0.0) have(0.0) devolved(0.0) upon(0.0) them(0.0) .(0.0) ''(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+
+
+
+reads % = 0.0

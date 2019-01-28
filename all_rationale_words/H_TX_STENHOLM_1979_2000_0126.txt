@@ -1,0 +1,10 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) such(0.0) time(0.0) as(0.0) she(0.0) may(0.0) consume(0.0) to(0.0) the(0.0) gentlewoman(0.0) from(0.0) Oregon(1.0) ((0.0) Ms.(1.0) Hooley(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Oregon	Ms.	Hooley	
+
+reads % = 0.15

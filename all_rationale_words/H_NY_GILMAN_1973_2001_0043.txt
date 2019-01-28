@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+Accordingly(0.0) ,(0.0) I(0.0) was(0.0) unable(0.0) to(0.0) vote(1.0) on(0.0) rollcall(0.0) Nos(1.0) .(0.0) 122(0.0) ,(0.0) 123(0.0) ,(0.0) and(0.0) 124(0.0) .(0.0) If(0.0) I(0.0) had(0.0) 
+been(0.0) present(0.0) I(0.0) would(0.0) have(0.0) voted(0.0) ``(0.0) yea(0.0) ''(0.0) on(0.0) all(0.0) .(0.0) I(0.0) ask(0.0) unanimous(1.0) consent(0.0) to(0.0) have(0.0) my(0.0) statement(0.0) 
+placed(0.0) in(0.0) the(0.0) Record(0.0) at(0.0) the(0.0) appropriate(0.0) point(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+vote	Nos	
+unanimous	
+
+
+reads % = 0.06

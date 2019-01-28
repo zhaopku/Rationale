@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) pass(0.0) the(0.0) bill(0.0) ((1.0) H.R(1.0) .(0.0) 4329(0.0) )(0.0) to(0.0) reauthorize(0.0) the(0.0) Native(0.0) 
+American(0.0) Housing(1.0) Assistance(1.0) and(0.0) Self-Determination(1.0) Act(0.0) of(0.0) 1996(0.0) ,(0.0) and(0.0) for(0.0) other(0.0) purposes(0.0) ,(0.0) as(0.0) amended(0.0) .(0.0) The(0.0) Clerk(0.0) read(0.0) 
+the(0.0) title(0.0) of(0.0) the(0.0) bill(0.0) .(0.0) The(0.0) text(0.0) of(0.0) the(0.0) bill(0.0) is(0.0) as(0.0) follows(0.0) :(0.0) H.R(0.0) .(0.0) 4329(0.0) Be(0.0) it(0.0) 
+enacted(0.0) by(0.0) the(0.0) Senate(0.0) and(0.0) House(0.0) of(0.0) Representatives(0.0) of(0.0) the(0.0) United(0.0) States(0.0) of(0.0) America(0.0) in(0.0) Congress(0.0) assembled(0.0) ,(0.0) SECTION(0.0) 1(0.0) 
+.(0.0) SHORT(0.0) TITLE(0.0) ;(0.0) TABLE(0.0) OF(0.0) CONTENTS(0.0) .(0.0) ((0.0) a(0.0) )(0.0) Short(0.0) Title.(0.0) --(0.0) This(0.0) Act(0.0) may(0.0) be(0.0) cited(0.0) as(0.0) 
+the(0.0) ``(0.0) Native(0.0) American(0.0) Housing(0.0) Assistance(0.0) and(0.0) Self-Determination(0.0) Reauthorization(0.0) Act(0.0) of(0.0) 2014(0.0) ''(0.0) .(0.0) ((0.0) b(0.0) )(0.0) Table(0.0) of(0.0) Contents.(0.0) 
+--(0.0) The(0.0) table(0.0) of(0.0) contents(0.0) of(0.0) this(0.0) Act(0.0) is(0.0) as(0.0) follows(0.0) :(0.0) Sec(0.0) .(0.0) 1(0.0) .(0.0) Short(0.0) title(0.0) ;(0.0) table(0.0) 
+of(0.0) contents(0.0) .(0.0) Sec(0.0) .(0.0) 2(0.0) .(0.0) References(0.0) .(0.0) TITLE(0.0) I(0.0) --(0.0) BLOCK(0.0) GRANTS(0.0) AND(0.0) GRANT(0.0) REQUIREMENTS(0.0) Sec(0.0) .(0.0) 101(0.0) 
+.(0.0) Block(0.0) grants(0.0) .(0.0) Sec(0.0) .(0.0) 102(0.0) .(0.0) Recommendations(0.0) regarding(0.0) exceptions(0.0) to(0.0) annual(0.0) Indian(0.0) housing(0.0) plan(0.0) requirement(0.0) .(0.0) Sec(0.0) .(0.0) 
+103(0.0) .(0.0) Environmental(0.0) review(0.0) .(0.0) Sec(0.0) .(0.0) 104(0.0) .(0.0) Deadline(0.0) for(0.0) action(0.0) on(0.0) request(0.0) for(0.0) approval(0.0) regarding(0.0) exceeding(0.0) TDC(0.0) maximum(0.0) 
+cost(0.0) for(0.0) project(0.0) .(0.0) TITLE(0.0) II(0.0) --(0.0) AFFORDABLE(0.0) HOUSING(0.0) ACTIVITIES(0.0) Sec(0.0) .(0.0) 201(0.0) .(0.0) National(0.0) objectives(0.0) and(0.0) eligible(0.0) families(0.0) .(0.0) 
+Sec(0.0) .(0.0) 202(0.0) .(0.0) Program(0.0) requirements(0.0) .(0.0) Sec(0.0) .(0.0) 203(0.0) .(0.0) Homeownership(1.0) or(0.0) lease-to-own(0.0) low-income(1.0) requirement(0.0) and(0.0) income(0.0) targeting(0.0) .(0.0) 
+Sec(0.0) .(0.0) 204(0.0) .(0.0) Lease(0.0) requirements(0.0) and(0.0) tenant(0.0) selection(0.0) .(0.0) Sec(0.0) .(0.0) 205(0.0) .(0.0) Tribal(0.0) coordination(0.0) of(0.0) agency(0.0) funding(0.0) .(0.0) 
+TITLE(0.0) III(0.0) --(0.0) ALLOCATION(0.0) OF(0.0) GRANT(0.0) AMOUNTS(0.0) Sec(0.0) .(0.0) 301(0.0) .(0.0) Authorization(0.0) of(0.0) appropriations(0.0) .(0.0) Sec(0.0) .(0.0) 302(0.0) .(0.0) Effect(0.0) 
+of(0.0) undisbursed(1.0) block(0.0) grant(0.0) amounts(0.0) on(0.0) annual(0.0) allocations(0.0) .(0.0) TITLE(0.0) IV(0.0) --(0.0) AUDITS(0.0) AND(0.0) REPORTS(0.0) Sec(0.0) .(0.0) 401.(0.0) Review(0.0) and(0.0) 
+audit(0.0) by(0.0) Secretary(0.0) .(0.0) Sec(0.0) .(0.0) 402(0.0) .(0.0) Reports(0.0) to(0.0) Congress(0.0) .(0.0) TITLE(0.0) V(0.0) --(0.0) OTHER(0.0) HOUSING(0.0) ASSISTANCE(0.0) FOR(0.0) NATIVE(0.0) 
+AMERICANS(0.0) Sec(0.0) .(0.0) 501(0.0) .(0.0) HUD-Veterans(0.0) Affairs(0.0) supportive(0.0) housing(1.0) program(0.0) for(0.0) Native(1.0) American(0.0) veterans(1.0) .(0.0) Sec(0.0) .(0.0) 502(0.0) .(0.0) Loan(0.0) 
+guarantees(0.0) for(0.0) Indian(0.0) housing(0.0) .(0.0) TITLE(0.0) VI(0.0) --(0.0) MISCELLANEOUS(0.0) Sec(0.0) .(0.0) 601(0.0) .(0.0) Lands(0.0) Title(0.0) Report(0.0) Commission(0.0) .(0.0) Sec(0.0) .(0.0) 
+602(0.0) .(0.0) Limitation(0.0) on(0.0) use(0.0) of(0.0) funds(0.0) for(0.0) Cherokee(0.0) Nation(0.0) .(0.0) Sec(0.0) .(0.0) 603(0.0) .(0.0) Leasehold(0.0) interest(0.0) in(0.0) trust(0.0) or(0.0) 
+restricted(0.0) lands(0.0) for(0.0) housing(0.0) purposes(0.0) .(0.0) Sec(0.0) .(0.0) 604(0.0) .(0.0) Clerical(0.0) amendment(0.0) .(0.0) TITLE(0.0) VII(0.0) --(0.0) DEMONSTRATION(0.0) PROGRAM(0.0) FOR(0.0) ALTERNATIVE(0.0) 
+PRIVATIZATION(0.0) AUTHORITY(0.0) FOR(0.0) NATIVE(0.0) AMERICAN(0.0) HOUSING(0.0) Sec(0.0) .(0.0) 701(0.0) .(0.0) Demonstration(0.0) program(0.0) .(0.0) Sec(0.0) .(0.0) 702(0.0) .(0.0) Clerical(0.0) amendments(0.0) .(0.0) 
+TITLE(0.0) VIII(0.0) --(0.0) HOUSING(0.0) FOR(0.0) NATIVE(0.0) HAWAIIANS(0.0) Sec(0.0) .(0.0) 801(0.0) .(0.0) Reauthorization(0.0) of(0.0) Native(0.0) Hawaiian(0.0) Homeownership(1.0) Act(0.0) .(0.0) Sec(0.0) .(0.0) 
+802(0.0) .(0.0) Reauthorization(0.0) of(0.0) loan(0.0) guarantees(0.0) for(0.0) Native(0.0) Hawaiian(0.0) housing(1.0) .(0.0) SEC(0.0) .(0.0) 2(0.0) .(0.0) REFERENCES(0.0) .(0.0) Except(0.0) as(0.0) otherwise(0.0) 
+expressly(0.0) provided(0.0) ,(0.0) wherever(0.0) in(0.0) this(0.0) Act(0.0) an(0.0) amendment(0.0) or(0.0) repeal(0.0) is(0.0) expressed(0.0) in(0.0) terms(0.0) of(0.0) an(0.0) amendment(0.0) to(0.0) ,(0.0) 
+or(0.0) repeal(0.0) of(0.0) ,(0.0) a(0.0) section(0.0) or(0.0) other(0.0) provision(0.0) ,(0.0) the(0.0) reference(0.0) shall(0.0) be(0.0) considered(0.0) to(0.0) be(0.0) made(0.0) to(0.0) 
+
+
+----- below are rationale words -----
+
+(	H.R	
+Housing	Assistance	Self-Determination	
+
+
+
+
+
+
+
+
+
+Homeownership	low-income	
+
+
+undisbursed	
+
+housing	Native	veterans	
+
+
+
+
+Homeownership	
+housing	
+
+
+
+reads % = 0.026

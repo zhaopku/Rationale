@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) why(0.0) are(0.0) the(0.0) Republicans(1.0) cutting(1.0) Medicare(1.0) ,(1.0) Medicaid(1.0) ,(1.0) and(1.0) Social(1.0) Security(1.0) to(0.0) pay(1.0) for(0.0) tax(1.0) breaks(1.0) for(1.0) the(1.0) 
+wealthiest(1.0) people(1.0) in(1.0) our(0.0) society(1.0) ?(1.0) We(0.0) should(0.0) be(0.0) strengthening(1.0) our(0.0) Medicare(1.0) system(1.0) ,(0.0) not(0.0) using(0.0) it(0.0) as(0.0) a(0.0) piggy(0.0) 
+bank(0.0) or(0.0) a(0.0) cash(0.0) cow(0.0) to(0.0) let(0.0) the(0.0) wealthiest(1.0) individuals(0.0) in(0.0) the(0.0) corporations(1.0) take(0.0) advantage(0.0) of(0.0) middle(1.0) income(1.0) people(0.0) in(0.0) 
+America(1.0) today(0.0) .(0.0) If(0.0) we(0.0) really(0.0) want(0.0) to(0.0) strengthen(1.0) Medicare(1.0) ,(0.0) we(0.0) should(0.0) shut(1.0) down(0.0) some(0.0) of(0.0) these(0.0) corporate(1.0) tax(1.0) 
+loopholes(1.0) and(1.0) expenditures(1.0) totaling(1.0) about(0.0) $(0.0) 225(0.0) billion(1.0) a(1.0) year(0.0) and(0.0) corporate(1.0) pork(1.0) and(1.0) help(0.0) our(0.0) senior(0.0) citizens(1.0) and(0.0) their(0.0) 
+families(0.0) make(0.0) ends(0.0) meet(0.0) .(0.0) I(0.0) say(0.0) to(0.0) my(0.0) colleagues(0.0) ,(0.0) Let(0.0) 's(0.0) give(0.0) our(0.0) senior(0.0) citizens(1.0) help(0.0) with(0.0) the(0.0) 
+cost(1.0) of(0.0) prescription(1.0) drug(1.0) care(0.0) ,(0.0) with(0.0) long-term(1.0) care(1.0) ,(0.0) not(0.0) cut(1.0) their(0.0) deductibles(1.0) like(0.0) the(0.0) Republicans(1.0) want(1.0) to(1.0) do(1.0) 
+,(1.0) or(1.0) increase(1.0) their(1.0) premiums(1.0) or(1.0) raise(1.0) their(1.0) deductibles(1.0) as(1.0) the(1.0) Republicans(1.0) want(1.0) to(1.0) do(1.0) .(1.0) Let(1.0) us(1.0) do(1.0) that(1.0) 
+,(1.0) and(1.0) let(1.0) us(1.0) make(1.0) the(1.0) wealthiest(1.0) in(1.0) our(1.0) society(1.0) pay(1.0) their(1.0) fair(1.0) share(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Republicans	cutting	Medicare	,	Medicaid	,	and	Social	Security	pay	tax	breaks	for	the	
+wealthiest	people	in	society	?	strengthening	Medicare	system	
+wealthiest	corporations	middle	income	
+America	strengthen	Medicare	shut	corporate	tax	
+loopholes	and	expenditures	totaling	billion	a	corporate	pork	and	citizens	
+citizens	
+cost	prescription	drug	long-term	care	cut	deductibles	Republicans	want	to	do	
+,	or	increase	their	premiums	or	raise	their	deductibles	as	the	Republicans	want	to	do	.	Let	us	do	that	
+,	and	let	us	make	the	wealthiest	in	our	society	pay	their	fair	
+
+reads % = 0.4943181818181818

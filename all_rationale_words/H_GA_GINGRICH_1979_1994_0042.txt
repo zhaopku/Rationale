@@ -1,0 +1,18 @@
+This is from a Republican
+----- below is the original text -----
+As(0.0) the(0.0) gentleman(0.0) knows(0.0) ,(0.0) we(0.0) think(0.0) on(0.0) our(0.0) side(0.0) that(0.0) we(0.0) have(0.0) a(0.0) pretty(0.0) good(0.0) alternative(0.0) in(0.0) the(0.0) new(0.0) Kasich(1.0) 
+budget(1.0) ,(0.0) in(0.0) the(0.0) House(0.0) budget(1.0) ,(0.0) and(0.0) we(0.0) would(0.0) hope(0.0) that(0.0) there(0.0) is(0.0) not(0.0) going(0.0) to(0.0) be(0.0) an(0.0) effort(0.0) 
+to(0.0) vote(1.0) on(0.0) that(0.0) at(0.0) midnight(0.0) ,(0.0) or(0.0) 1(0.0) or(0.0) 2(0.0) in(0.0) the(0.0) morning(0.0) ,(0.0) or(0.0) something(0.0) .(0.0) Does(0.0) the(0.0) 
+gentleman(0.0) know(0.0) ,(0.0) if(0.0) we(0.0) get(0.0) to(0.0) a(0.0) reasonable(0.0) hour(0.0) ,(0.0) can(0.0) we(0.0) take(0.0) up(0.0) the(0.0) Republican(1.0) substitute(1.0) and(1.0) the(1.0) 
+final(1.0) vote(1.0) on(1.0) Friday(1.0) ,(1.0) if(1.0) that(1.0) is(1.0) where(1.0) we(0.0) get(0.0) to(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+Kasich	
+budget	budget	
+vote	
+Republican	substitute	and	the	
+final	vote	on	Friday	,	if	that	is	where	
+
+reads % = 0.18085106382978725

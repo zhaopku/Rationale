@@ -1,0 +1,52 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) we(0.0) have(0.0) talked(1.0) a(0.0) lot(0.0) today(0.0) about(0.0) diversification(1.0) ,(0.0) blackout(1.0) periods(1.0) ,(0.0) fiduciary(1.0) duty(1.0) ;(0.0) but(0.0) at(0.0) the(0.0) 
+end(0.0) of(0.0) the(0.0) day(0.0) what(0.0) this(0.0) bill(0.0) really(0.0) is(0.0) about(0.0) is(0.0) real(0.0) people(0.0) and(0.0) their(0.0) own(0.0) financial(0.0) security(0.0) .(0.0) Current(1.0) 
+pension(1.0) law(1.0) is(0.0) simply(0.0) outdated(1.0) ,(0.0) and(0.0) we(0.0) have(0.0) the(0.0) responsibility(0.0) to(0.0) change(0.0) that(0.0) .(0.0) We(0.0) have(0.0) the(0.0) responsibility(0.0) to(0.0) 
+ensure(0.0) that(0.0) America(0.0) 's(0.0) retirement(1.0) futures(0.0) are(0.0) not(1.0) jeopardized(0.0) by(0.0) laws(1.0) that(0.0) are(0.0) out(0.0) of(0.0) step(0.0) with(0.0) our(0.0) current(0.0) times(0.0) 
+.(0.0) If(1.0) this(0.0) bill(0.0) had(0.0) been(0.0) law(1.0) ,(0.0) it(0.0) would(1.0) have(0.0) made(0.0) a(0.0) real(0.0) difference(1.0) for(0.0) Enron(1.0) 's(0.0) employees(1.0) .(0.0) 
+Under(1.0) this(0.0) bill(0.0) they(0.0) would(1.0) have(0.0) had(0.0) access(0.0) to(0.0) professional(0.0) investment(1.0) advice(0.0) ,(0.0) people(0.0) who(0.0) could(0.0) have(0.0) warned(1.0) them(0.0) that(0.0) 
+they(0.0) had(0.0) too(0.0) many(0.0) eggs(1.0) in(0.0) one(0.0) basket(1.0) .(0.0) They(0.0) would(0.0) have(0.0) been(0.0) better(0.0) informed(1.0) about(0.0) upcoming(1.0) blackout(1.0) periods(1.0) ,(0.0) 
+and(0.0) they(0.0) would(0.0) have(0.0) had(0.0) more(0.0) freedom(1.0) to(0.0) diversify(1.0) their(0.0) portfolios(1.0) .(0.0) The(0.0) retirement(1.0) future(0.0) of(0.0) our(0.0) Nation(0.0) 's(0.0) workers(1.0) 
+is(0.0) too(0.0) important(0.0) for(0.0) political(1.0) gamesmanship(1.0) .(0.0) In(0.0) the(0.0) wake(0.0) of(0.0) the(0.0) Enron(1.0) collapse(1.0) ,(0.0) the(0.0) American(0.0) people(0.0) are(0.0) counting(0.0) 
+on(0.0) us(0.0) to(0.0) make(0.0) practical(0.0) and(0.0) necessary(0.0) changes(1.0) to(0.0) our(0.0) pension(1.0) system(0.0) that(0.0) basically(1.0) is(0.0) healthy(1.0) ,(0.0) and(0.0) that(0.0) ,(0.0) 
+on(0.0) the(0.0) balance(0.0) ,(0.0) works(0.0) very(0.0) well(0.0) .(0.0) But(0.0) my(1.0) colleagues(1.0) on(0.0) the(0.0) other(0.0) side(0.0) of(0.0) the(0.0) aisle(1.0) are(0.0) being(0.0) 
+encouraged(1.0) by(0.0) the(0.0) political(1.0) leaders(1.0) of(0.0) their(0.0) party(1.0) to(0.0) support(0.0) an(0.0) alternative(0.0) to(0.0) this(0.0) bill(0.0) that(0.0) would(1.0) do(0.0) far(1.0) more(0.0) 
+harm(1.0) than(0.0) good(0.0) .(0.0) Instead(1.0) of(0.0) supporting(1.0) bipartisan(0.0) protections(1.0) that(0.0) would(1.0) shield(0.0) millions(1.0) of(0.0) American(0.0) workers(1.0) ,(0.0) the(0.0) partisan(1.0) opponents(1.0) 
+of(0.0) this(0.0) bill(0.0) are(0.0) putting(0.0) their(0.0) own(0.0) political(1.0) interests(1.0) ahead(0.0) of(0.0) those(0.0) of(0.0) ordinary(1.0) Americans(1.0) .(0.0) The(0.0) House(0.0) Democrat(1.0) leadership(1.0) 
+alternative(0.0) is(0.0) really(0.0) no(1.0) alternative(1.0) at(0.0) all(0.0) .(0.0) It(0.0) would(0.0) enrich(1.0) trial(0.0) lawyers(1.0) .(0.0) It(0.0) would(0.0) hurt(1.0) small(1.0) businesses(1.0) ,(0.0) 
+impose(1.0) costly(1.0) new(1.0) mandates(1.0) ,(0.0) and(0.0) even(0.0) endanger(1.0) 401(1.0) ((0.0) k(1.0) )(0.0) -type(1.0) plans(1.0) .(0.0) Most(0.0) importantly(1.0) of(0.0) all(0.0) ,(0.0) 
+it(0.0) would(1.0) continue(0.0) to(0.0) deny(1.0) workers(1.0) from(0.0) getting(0.0) access(0.0) to(0.0) the(0.0) professional(0.0) investment(1.0) advice(0.0) that(0.0) is(0.0) crucial(1.0) for(0.0) them(0.0) to(0.0) 
+maximize(0.0) their(0.0) own(0.0) retirement(1.0) security(0.0) .(0.0) In(0.0) short(0.0) ,(0.0) the(0.0) opponents(1.0) of(0.0) this(0.0) bill(0.0) would(0.0) take(0.0) us(0.0) in(0.0) exactly(1.0) the(0.0) 
+wrong(0.0) direction(0.0) .(0.0) The(0.0) underlying(0.0) bill(0.0) ,(0.0) the(0.0) Pension(1.0) Security(1.0) Act(0.0) ,(0.0) which(0.0) has(0.0) been(0.0) embraced(1.0) by(0.0) Republicans(1.0) and(0.0) Democrats(1.0) 
+alike(0.0) ,(0.0) would(1.0) change(1.0) what(0.0) is(0.0) wrong(0.0) with(0.0) current(0.0) pension(1.0) law(1.0) without(0.0) ,(0.0) and(0.0) I(0.0) say(1.0) without(0.0) ,(0.0) breaking(1.0) what(0.0) 
+does(0.0) not(0.0) need(0.0) to(0.0) be(0.0) fixed(1.0) .(0.0) I(0.0) urge(1.0) my(0.0) colleagues(1.0) to(0.0) vote(1.0) against(0.0) the(0.0) substitute(1.0) and(0.0) for(0.0) the(0.0) underlying(0.0) 
+bill(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	talked	diversification	blackout	periods	fiduciary	duty	
+Current	
+pension	law	outdated	
+retirement	not	laws	
+If	law	would	difference	Enron	employees	
+Under	would	investment	warned	
+eggs	basket	informed	upcoming	blackout	periods	
+freedom	diversify	portfolios	retirement	workers	
+political	gamesmanship	Enron	collapse	
+changes	pension	basically	healthy	
+my	colleagues	aisle	
+encouraged	political	leaders	party	would	far	
+harm	Instead	supporting	protections	would	millions	workers	partisan	opponents	
+political	interests	ordinary	Americans	Democrat	leadership	
+no	alternative	enrich	lawyers	hurt	small	businesses	
+impose	costly	new	mandates	endanger	401	k	-type	plans	importantly	
+would	deny	workers	investment	crucial	
+retirement	opponents	exactly	
+Pension	Security	embraced	Republicans	Democrats	
+would	change	pension	law	say	breaking	
+fixed	urge	colleagues	vote	substitute	
+
+
+reads % = 0.2553191489361702

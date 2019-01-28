@@ -1,0 +1,22 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) make(0.0) the(0.0) point(0.0) that(0.0) indeed(0.0) ,(0.0) this(0.0) is(0.0) an(0.0) airport(0.0) owned(0.0) by(0.0) the(0.0) national(1.0) government(1.0) ,(0.0) not(0.0) owned(0.0) by(0.0) Arlington(1.0) 
+County(1.0) .(0.0) The(0.0) amendment(1.0) violates(1.0) clause(1.0) 7(0.0) of(0.0) rule(1.0) XVI(0.0) of(0.0) the(0.0) rules(0.0) of(0.0) the(0.0) House(0.0) because(0.0) it(0.0) is(0.0) not(0.0) 
+germane(0.0) .(0.0) Clause(1.0) 7(0.0) of(0.0) rule(0.0) XVI(0.0) provides(0.0) that(0.0) no(0.0) motion(0.0) or(0.0) proposition(1.0) on(0.0) a(0.0) subject(0.0) different(0.0) from(0.0) that(0.0) under(0.0) 
+consideration(0.0) shall(0.0) be(0.0) considered(0.0) under(0.0) color(0.0) of(0.0) amendment(1.0) .(0.0) The(0.0) amendment(1.0) adds(0.0) an(0.0) additional(0.0) proposition(1.0) .(0.0) It(0.0) is(0.0) not(0.0) germane(0.0) 
+because(0.0) it(0.0) adds(0.0) an(0.0) unrelated(0.0) condition(0.0) .(0.0) The(0.0) amendment(1.0) conditions(0.0) the(0.0) name(0.0) change(0.0) on(0.0) a(0.0) referendum(1.0) by(0.0) Arlington(0.0) County(1.0) voters(0.0) 
+.(0.0) We(0.0) would(0.0) be(0.0) imposing(1.0) a(0.0) new(0.0) duty(0.0) on(0.0) Arlington(0.0) County(1.0) ,(0.0) which(0.0) does(0.0) not(0.0) own(0.0) the(0.0) airport(0.0) .(0.0) It(0.0) 
+currently(0.0) has(0.0) no(0.0) such(0.0) responsibility(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) insist(0.0) upon(0.0) my(0.0) point(0.0) of(0.0) order(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+national	government	Arlington	
+County	amendment	violates	clause	rule	
+Clause	proposition	
+amendment	amendment	proposition	
+amendment	referendum	County	
+imposing	County	
+Chairman	
+
+reads % = 0.13768115942028986

@@ -1,0 +1,40 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) thank(0.0) Ranking(1.0) Member(0.0) MCHugh(0.0) and(0.0) also(0.0) Chairman(0.0) Skelton(1.0) .(0.0) I(0.0) rise(0.0) to(0.0) speak(0.0) about(0.0) and(0.0) to(0.0) support(0.0) 
+H.R(0.0) .(0.0) 2101(0.0) .(0.0) We(0.0) must(0.0) continue(0.0) providing(0.0) a(0.0) strong(0.0) national(1.0) defense(1.0) while(0.0) reining(1.0) in(0.0) out-of-control(1.0) cost(1.0) growth(1.0) in(0.0) the(0.0) 
+development(0.0) of(0.0) major(1.0) weapons(1.0) systems(0.0) .(0.0) Taxpayers(1.0) deserve(1.0) to(0.0) get(0.0) the(0.0) most(0.0) bang(0.0) for(0.0) their(0.0) buck(1.0) ,(0.0) especially(0.0) when(0.0) national(1.0) 
+security(0.0) matters(0.0) are(0.0) involved(0.0) .(0.0) Cost(0.0) overruns(1.0) in(0.0) major(1.0) defense(1.0) weapons(1.0) systems(0.0) are(0.0) a(0.0) huge(0.0) drain(0.0) on(0.0) the(0.0) defense(1.0) budget(1.0) 
+.(0.0) This(0.0) bill(1.0) accomplishes(1.0) this(0.0) in(0.0) three(0.0) ways(0.0) ,(0.0) number(0.0) one(0.0) ,(0.0) by(0.0) ensuring(0.0) accuracy(0.0) of(0.0) information(0.0) for(0.0) performance(0.0) assessment(0.0) 
+;(0.0) number(0.0) two(0.0) ,(0.0) providing(0.0) intensive(0.0) care(0.0) to(0.0) sick(0.0) programs(1.0) ,(0.0) sometimes(0.0) they(0.0) need(0.0) just(0.0) a(0.0) little(0.0) nudge(0.0) to(0.0) get(0.0) 
+back(0.0) on(0.0) track(0.0) ;(0.0) and(0.0) ,(0.0) number(0.0) three(0.0) ,(0.0) tracking(0.0) cost(0.0) growth(1.0) in(0.0) the(0.0) early(0.0) stages(0.0) of(0.0) development(0.0) .(0.0) By(0.0) 
+the(0.0) time(0.0) a(0.0) program(0.0) reaches(0.0) milestone(0.0) B(0.0) ,(0.0) 75(0.0) percent(0.0) of(0.0) its(0.0) costs(1.0) are(0.0) already(0.0) locked(0.0) in(0.0) .(0.0) Currently(0.0) ,(0.0) 
+there(0.0) is(0.0) no(0.0) process(0.0) to(0.0) review(0.0) alternative(1.0) solutions(0.0) when(0.0) cost(1.0) or(0.0) schedule(0.0) growth(1.0) occurs(0.0) during(0.0) this(0.0) period(0.0) .(0.0) Now(0.0) ,(0.0) 
+there(0.0) is(0.0) a(0.0) companion(0.0) bill(1.0) in(0.0) the(0.0) Senate(0.0) we(0.0) have(0.0) already(0.0) discussed(0.0) ,(0.0) the(0.0) Levin-MCCain(0.0) legislation(1.0) .(0.0) And(0.0) members(0.0) on(0.0) 
+the(0.0) House(0.0) Armed(1.0) Services(0.0) Committee(0.0) share(0.0) the(0.0) concerns(0.0) addressed(0.0) in(0.0) the(0.0) Senate(0.0) bill(0.0) .(0.0) By(0.0) comparison(0.0) ,(0.0) about(0.0) 25(0.0) percent(0.0) 
+of(0.0) the(0.0) two(0.0) bills(0.0) are(0.0) the(0.0) same(0.0) ,(0.0) about(0.0) 50(0.0) percent(0.0) of(0.0) the(0.0) provisions(1.0) are(0.0) overlapping(0.0) ,(0.0) and(0.0) about(0.0) 25(0.0) 
+percent(0.0) of(0.0) our(0.0) solutions(0.0) on(0.0) the(0.0) House(0.0) side(0.0) are(0.0) in(0.0) addition(0.0) .(0.0) H.R(0.0) .(0.0) 2101(0.0) takes(0.0) a(0.0) different(0.0) approach(0.0) from(0.0) 
+the(0.0) Levin-MCCain(0.0) legislation(1.0) bill(1.0) in(0.0) how(0.0) it(0.0) addresses(0.0) issues(0.0) of(0.0) systems(0.0) engineering(0.0) and(0.0) other(0.0) matters(0.0) .(0.0) In(0.0) summary(0.0) ,(0.0) Madam(0.0) 
+Speaker(1.0) ,(0.0) I(0.0) support(0.0) H.R(0.0) .(0.0) 2101(0.0) ,(0.0) and(0.0) I(0.0) ask(0.0) that(0.0) my(0.0) fellow(0.0) Members(0.0) support(0.0) it(0.0) as(0.0) well(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+Ranking	Skelton	
+national	defense	reining	out-of-control	cost	growth	
+major	weapons	Taxpayers	deserve	buck	national	
+overruns	major	defense	weapons	defense	budget	
+bill	accomplishes	
+programs	
+growth	
+costs	
+alternative	cost	growth	
+bill	legislation	
+Armed	
+provisions	
+
+legislation	bill	
+Speaker	
+
+
+reads % = 0.11627906976744186

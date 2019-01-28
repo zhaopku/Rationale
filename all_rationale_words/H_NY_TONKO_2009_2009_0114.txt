@@ -1,0 +1,20 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) it(0.0) is(0.0) most(1.0) obvious(0.0) that(0.0) Coach(1.0) Summitt(0.0) and(0.0) the(0.0) Lady(0.0) Vols(1.0) have(0.0) set(0.0) basketball(1.0) history(0.0) with(0.0) more(0.0) than(0.0) five(0.0) 
+times(0.0) the(0.0) number(0.0) of(0.0) wins(1.0) in(0.0) relation(0.0) to(0.0) the(0.0) number(0.0) of(0.0) losses(0.0) .(0.0) And(0.0) while(1.0) they(0.0) have(0.0) excelled(0.0) on(0.0) the(0.0) 
+basketball(1.0) court(0.0) ,(0.0) it(0.0) is(0.0) important(0.0) to(0.0) note(0.0) that(0.0) they(0.0) have(0.0) also(1.0) excelled(0.0) in(0.0) the(0.0) classroom(0.0) .(0.0) And(0.0) so(1.0) for(0.0) 
+those(0.0) records(0.0) ,(0.0) both(0.0) athletically(1.0) and(0.0) academically(0.0) ,(0.0) and(0.0) for(0.0) the(0.0) great(0.0) career(0.0) to(0.0) date(0.0) of(0.0) Coach(1.0) Summitt(0.0) ,(0.0) we(0.0) 
+acknowledge(0.0) that(0.0) this(0.0) is(0.0) a(0.0) very(0.0) worthy(0.0) resolution(0.0) and(0.0) that(0.0) H.(1.0) Res(0.0) .(0.0) 196(1.0) should(0.0) be(0.0) supported(1.0) in(0.0) the(0.0) House(0.0) 
+,(0.0) Mr.(0.0) Speaker(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+most	Coach	Vols	basketball	
+wins	while	
+basketball	also	so	
+athletically	Coach	
+H.	196	supported	
+Speaker	
+
+reads % = 0.14285714285714285

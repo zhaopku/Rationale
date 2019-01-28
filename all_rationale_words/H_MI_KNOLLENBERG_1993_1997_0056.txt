@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) it(0.0) is(0.0) no(0.0) wonder(0.0) that(0.0) the(0.0) vast(0.0) majority(1.0) of(0.0) Americans(1.0) feel(0.0) that(0.0) nobody(0.0) in(0.0) Washington(1.0) is(0.0) on(0.0) their(0.0) side(0.0) 
+.(0.0) Consider(0.0) the(0.0) IRS(1.0) ,(0.0) as(0.0) some(0.0) speakers(0.0) have(0.0) already(0.0) .(0.0) For(0.0) too(0.0) long(0.0) and(0.0) for(0.0) too(0.0) many(0.0) times(0.0) ,(0.0) 
+this(0.0) agency(0.0) has(0.0) acted(0.0) in(0.0) an(0.0) arrogant(0.0) ,(0.0) heavy-handed(1.0) fashion(1.0) ,(0.0) running(0.0) roughshod(1.0) over(0.0) hard-working(1.0) taxpayers(1.0) .(0.0) Fortunately(0.0) ,(0.0) I(0.0) 
+believe(0.0) Congress(0.0) has(0.0) listened(0.0) to(0.0) the(0.0) American(0.0) people(0.0) and(0.0) is(0.0) now(0.0) on(0.0) the(0.0) verge(1.0) of(0.0) passing(0.0) a(0.0) bill(1.0) that(0.0) will(0.0) 
+provide(0.0) taxpayers(1.0) with(0.0) some(0.0) much(0.0) needed(0.0) protections(1.0) against(0.0) the(0.0) abuses(1.0) of(0.0) the(0.0) IRS(1.0) .(0.0) This(0.0) bill(1.0) makes(0.0) it(0.0) easier(0.0) for(0.0) 
+taxpayers(1.0) to(0.0) recover(1.0) legal(1.0) fees(1.0) when(0.0) the(0.0) IRS(1.0) is(0.0) wrong(0.0) .(0.0) It(0.0) allows(0.0) taxpayers(1.0) to(0.0) sue(1.0) the(0.0) IRS(1.0) for(0.0) up(0.0) 
+to(0.0) $(0.0) 100,000(0.0) for(0.0) negligent(1.0) collection(0.0) practices(1.0) ,(0.0) and(0.0) most(0.0) important(0.0) ,(0.0) it(0.0) shifts(0.0) the(0.0) burden(1.0) of(0.0) proof(1.0) in(0.0) court(1.0) 
+cases(0.0) from(0.0) a(0.0) taxpayer(1.0) to(0.0) the(0.0) IRS(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) it(0.0) is(0.0) time(0.0) for(0.0) Congress(0.0) to(0.0) stick(0.0) up(0.0) for(0.0) 
+the(0.0) American(0.0) people(0.0) by(0.0) standing(0.0) up(0.0) to(0.0) the(0.0) IRS(1.0) .(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) this(0.0) important(0.0) IRS(1.0) reform(1.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+majority	Americans	Washington	
+IRS	
+heavy-handed	fashion	roughshod	hard-working	taxpayers	
+verge	bill	
+taxpayers	protections	abuses	IRS	bill	
+taxpayers	recover	legal	fees	IRS	taxpayers	sue	IRS	
+negligent	practices	burden	proof	court	
+taxpayer	IRS	Speaker	
+IRS	IRS	reform	
+
+
+reads % = 0.19230769230769232

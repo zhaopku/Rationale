@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) rise(0.0) in(0.0) opposition(1.0) to(0.0) this(0.0) amendment(1.0) .(0.0) In(0.0) the(0.0) early(0.0) days(0.0) of(0.0) kidney(1.0) dialysis(1.0) ,(0.0) there(0.0) was(0.0) a(0.0) 
+limited(0.0) number(0.0) of(0.0) people(0.0) who(0.0) could(0.0) benefit(0.0) from(0.0) kidney(1.0) dialysis(1.0) .(0.0) So(0.0) a(0.0) patient(0.0) in(0.0) the(0.0) hospital(0.0) would(0.0) have(0.0) to(0.0) 
+go(0.0) to(0.0) the(0.0) ethics(1.0) committee(0.0) of(0.0) that(0.0) hospital(0.0) to(0.0) get(0.0) permission(0.0) to(0.0) receive(0.0) it(0.0) .(0.0) These(0.0) ethics(1.0) committees(0.0) became(0.0) known(0.0) 
+as(0.0) death(0.0) squads(0.0) because(0.0) they(0.0) would(0.0) literally(0.0) decide(0.0) who(0.0) would(0.0) live(0.0) or(0.0) die(0.0) .(0.0) Were(0.0) it(0.0) so(0.0) easy(0.0) in(0.0) this(0.0) 
+debate(1.0) today(0.0) .(0.0) Because(0.0) with(0.0) that(0.0) problem(0.0) ,(0.0) we(0.0) solved(0.0) it(0.0) by(0.0) saying(0.0) the(0.0) Federal(1.0) Government(1.0) would(0.0) pay(1.0) for(0.0) dialysis(1.0) 
+.(0.0) We(0.0) can(0.0) not(0.0) do(0.0) that(0.0) here(0.0) because(0.0) we(0.0) have(0.0) a(0.0) limited(0.0) number(0.0) of(0.0) organs(1.0) .(0.0) Now(0.0) ,(0.0) we(0.0) can(0.0) 
+go(0.0) down(0.0) two(0.0) roads(1.0) here(0.0) .(0.0) We(0.0) can(0.0) go(0.0) down(0.0) the(0.0) road(0.0) that(0.0) this(0.0) amendment(1.0) goes(0.0) down(0.0) ,(0.0) which(0.0) says(0.0) 
+let(0.0) us(0.0) take(0.0) this(0.0) group(0.0) of(0.0) organs(1.0) that(0.0) exists(0.0) right(0.0) now(0.0) and(0.0) divide(1.0) them(0.0) differently(0.0) .(0.0) Because(0.0) there(0.0) are(0.0) some(0.0) 
+people(0.0) who(0.0) are(0.0) being(0.0) treated(0.0) fairly(0.0) ,(0.0) some(0.0) people(0.0) who(0.0) are(0.0) being(0.0) treated(0.0) unfairly(0.0) ,(0.0) so(0.0) the(0.0) argument(1.0) goes(0.0) .(0.0) 
+If(0.0) my(0.0) colleagues(0.0) like(0.0) what(0.0) UNOS(1.0) is(0.0) doing(0.0) ,(0.0) they(0.0) say(0.0) that(0.0) the(0.0) Federal(1.0) Government(1.0) is(0.0) playing(0.0) God(0.0) .(0.0) If(0.0) 
+they(0.0) do(0.0) not(0.0) like(0.0) what(0.0) UNOS(1.0) is(0.0) doing(0.0) ,(0.0) they(0.0) say(0.0) UNOS(1.0) is(0.0) playing(0.0) God(0.0) .(0.0) The(0.0) fact(0.0) of(0.0) the(0.0) 
+matter(0.0) is(0.0) we(0.0) are(0.0) all(0.0) trying(0.0) to(0.0) play(0.0) God(0.0) because(0.0) we(0.0) have(0.0) got(0.0) a(0.0) limited(0.0) number(0.0) of(0.0) organs(1.0) .(0.0) But(0.0) 
+there(0.0) is(0.0) a(0.0) danger(0.0) lurking(0.0) here(0.0) .(0.0) Under(0.0) the(0.0) current(0.0) system(0.0) ,(0.0) the(0.0) system(0.0) that(0.0) the(0.0) Department(0.0) is(0.0) trying(0.0) to(0.0) 
+overturn(1.0) and(0.0) that(0.0) this(0.0) amendment(1.0) is(0.0) trying(0.0) to(0.0) overturn(1.0) ,(0.0) the(0.0) assumption(1.0) is(0.0) that(0.0) the(0.0) number(0.0) of(0.0) organs(1.0) will(0.0) remain(0.0) 
+constant(0.0) .(0.0) I(0.0) differ(0.0) with(0.0) that(0.0) immensely(0.0) ,(0.0) because(0.0) what(0.0) this(0.0) approach(0.0) does(0.0) is(0.0) it(0.0) takes(0.0) away(0.0) the(0.0) only(0.0) incentive(1.0) 
+that(0.0) States(0.0) have(0.0) right(0.0) now(0.0) to(0.0) procure(0.0) organs(0.0) .(0.0) So(0.0) the(0.0) supply(1.0) will(0.0) not(0.0) remain(0.0) static(0.0) .(0.0) If(0.0) a(0.0) State(0.0) 
+knows(0.0) that(0.0) the(0.0) organs(1.0) it(0.0) is(0.0) currently(0.0) procuring(0.0) under(0.0) the(0.0) current(0.0) system(0.0) are(0.0) going(0.0) to(0.0) be(0.0) shipped(0.0) out(0.0) of(0.0) State(1.0) 
+,(0.0) they(0.0) are(0.0) going(0.0) to(0.0) react(0.0) like(0.0) normal(0.0) human(0.0) beings(0.0) ;(0.0) and(0.0) they(0.0) are(0.0) going(0.0) to(0.0) put(0.0) less(0.0) effort(1.0) into(0.0) 
+this(0.0) .(0.0) So(0.0) we(0.0) are(0.0) going(0.0) down(0.0) a(0.0) dangerous(0.0) path(0.0) with(0.0) this(0.0) amendment(1.0) .(0.0) Those(0.0) proposing(1.0) this(0.0) amendment(1.0) are(0.0) arguing(1.0) 
+that(0.0) the(0.0) number(0.0) of(0.0) organs(1.0) will(0.0) not(0.0) change(0.0) ,(0.0) we(0.0) are(0.0) just(0.0) distributing(1.0) them(0.0) differently(0.0) .(0.0) But(0.0) the(0.0) fact(0.0) of(0.0) 
+the(0.0) matter(0.0) is(0.0) we(0.0) are(0.0) taking(0.0) away(0.0) all(0.0) incentives(1.0) for(0.0) States(0.0) to(0.0) come(0.0) in(0.0) and(0.0) to(0.0) procure(0.0) those(0.0) organs(0.0) .(0.0) 
+It(0.0) is(0.0) a(0.0) dangerous(0.0) ,(0.0) dangerous(0.0) road(0.0) .(0.0) What(0.0) I(0.0) think(0.0) it(0.0) is(0.0) going(0.0) to(0.0) do(0.0) is(0.0) it(0.0) is(0.0) going(0.0) 
+to(0.0) decrease(1.0) the(0.0) supply(0.0) of(0.0) organs(1.0) in(0.0) this(0.0) country(1.0) at(0.0) exactly(0.0) the(0.0) time(0.0) we(0.0) should(0.0) be(0.0) working(0.0) to(0.0) increase(1.0) it(0.0) 
+.(0.0) Mr.(0.0) LaHOOD(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) am(0.0) pleased(0.0) to(0.0) yield(0.0) 1(0.0) minute(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Maryland(1.0) ((0.0) 
+Mr.(0.0) Cardin(1.0) )(0.0) .(0.0) ((0.0) Mr.(0.0) CARDIN(1.0) asked(0.0) and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+opposition	amendment	kidney	dialysis	
+kidney	dialysis	
+ethics	ethics	
+
+debate	Federal	Government	pay	dialysis	
+organs	
+roads	amendment	
+organs	divide	
+argument	
+UNOS	Federal	Government	
+UNOS	UNOS	
+organs	
+
+overturn	amendment	overturn	assumption	organs	
+incentive	
+supply	
+organs	State	
+effort	
+amendment	proposing	amendment	arguing	
+organs	distributing	
+incentives	
+
+decrease	organs	country	increase	
+LaHOOD	Chairman	Maryland	
+Cardin	CARDIN	
+
+reads % = 0.102

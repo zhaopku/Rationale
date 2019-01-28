@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) this(1.0) debate(1.0) is(0.0) about(0.0) trade(0.0) and(0.0) not(0.0) about(0.0) terrorism(0.0) .(0.0) It(0.0) is(0.0) not(0.0) about(0.0) American(0.0) leadership(1.0) .(0.0) America(0.0) must(0.0) 
+lead(0.0) in(0.0) trade(1.0) in(0.0) the(0.0) right(1.0) direction(0.0) .(0.0) Trade(1.0) must(0.0) expand(1.0) ,(0.0) and(0.0) it(0.0) has(0.0) to(0.0) be(0.0) shaped(0.0) as(0.0) that(0.0) 
+happens(0.0) ,(0.0) and(0.0) that(0.0) is(0.0) what(0.0) we(0.0) have(0.0) been(0.0) doing(0.0) these(0.0) last(1.0) years(0.0) .(0.0) We(0.0) have(0.0) voted(1.0) on(0.0) these(0.0) bills(0.0) 
+.(0.0) Do(1.0) not(0.0) pretend(0.0) they(0.0) do(0.0) not(1.0) exist(1.0) .(0.0) The(0.0) Thomas(1.0) bill(1.0) would(0.0) turn(0.0) back(0.0) the(0.0) clock(0.0) in(0.0) key(0.0) areas(0.0) 
+including(1.0) those(0.0) relating(1.0) to(0.0) labor(1.0) .(0.0) I(0.0) am(1.0) an(1.0) internationalist(1.0) .(0.0) This(0.0) is(0.0) not(0.0) about(0.0) isolationism(1.0) .(0.0) It(0.0) is(0.0) about(0.0) 
+how(0.0) we(0.0) shape(1.0) our(0.0) role(0.0) as(0.0) internationalists(1.0) .(0.0) It(0.0) is(0.0) not(1.0) about(0.0) protectionism(1.0) .(0.0) We(0.0) are(0.0) beyond(0.0) that(0.0) .(0.0) Trade(1.0) 
+is(0.0) so(0.0) important(0.0) that(0.0) the(0.0) role(0.0) of(0.0) Congress(0.0) has(0.0) to(0.0) change(0.0) .(0.0) We(0.0) can(0.0) not(0.0) be(0.0) rubber(1.0) stamps(1.0) or(1.0) silent(0.0) 
+partners(1.0) or(0.0) consultants(1.0) .(0.0) We(0.0) must(0.0) be(0.0) participants(1.0) .(0.0) The(0.0) Thomas(0.0) bill(1.0) falls(1.0) so(0.0) far(1.0) short(0.0) in(0.0) that(0.0) way(1.0) .(0.0) 
+Vote(1.0) ,(0.0) vote(1.0) for(0.0) the(0.0) motion(0.0) to(0.0) recommit(0.0) ;(0.0) and(0.0) if(0.0) that(0.0) fails(1.0) ,(0.0) vote(1.0) against(0.0) Thomas(0.0) ;(0.0) and(0.0) then(0.0) 
+if(0.0) Thomas(1.0) goes(1.0) down(1.0) and(0.0) the(0.0) recommittal(1.0) motion(0.0) goes(1.0) down(1.0) ,(0.0) we(0.0) will(0.0) come(0.0) back(0.0) and(0.0) do(0.0) it(0.0) the(0.0) right(1.0) 
+way(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+this	debate	leadership	
+trade	right	Trade	expand	
+last	voted	
+Do	not	exist	Thomas	bill	
+including	relating	labor	am	an	internationalist	isolationism	
+shape	internationalists	not	protectionism	Trade	
+rubber	stamps	or	
+partners	consultants	participants	bill	falls	far	way	
+Vote	vote	fails	vote	
+Thomas	goes	down	recommittal	goes	down	right	
+
+
+reads % = 0.2315270935960591

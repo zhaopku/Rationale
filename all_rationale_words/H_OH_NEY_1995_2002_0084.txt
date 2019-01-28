@@ -1,0 +1,36 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) stand(0.0) tonight(0.0) applauding(0.0) the(0.0) efforts(1.0) of(0.0) our(0.0) colleague(0.0) ,(0.0) the(0.0) gentlewoman(0.0) from(0.0) Texas(0.0) ;(0.0) and(0.0) I(0.0) stand(0.0) 
+to(0.0) support(0.0) this(0.0) motion(1.0) to(0.0) instruct(0.0) .(0.0) As(0.0) we(0.0) like(0.0) to(0.0) say(0.0) around(0.0) here(0.0) ,(0.0) work(0.0) ,(0.0) work(0.0) ,(0.0) and(0.0) 
+we(0.0) mean(0.0) it(0.0) this(0.0) time(0.0) on(0.0) this(0.0) .(0.0) It(0.0) is(0.0) a(0.0) good(0.0) thing(0.0) to(0.0) do(0.0) .(0.0) The(0.0) Help(0.0) America(1.0) Vote(1.0) 
+Act(1.0) could(0.0) not(0.0) be(0.0) here(0.0) if(0.0) it(0.0) were(0.0) not(0.0) for(0.0) my(0.0) colleague(0.0) from(0.0) Maryland(1.0) ((0.0) Mr.(0.0) Hoyer(1.0) )(0.0) and(0.0) all(0.0) 
+the(0.0) other(0.0) Members(0.0) on(0.0) both(0.0) sides(0.0) of(0.0) the(0.0) aisle(0.0) that(0.0) supported(0.0) this(0.0) measure(1.0) .(0.0) It(0.0) is(0.0) a(0.0) crucial(0.0) measure(0.0) .(0.0) 
+It(0.0) is(0.0) important(0.0) to(0.0) every(0.0) citizen(1.0) in(0.0) the(0.0) United(0.0) States(0.0) ,(0.0) and(0.0) the(0.0) conference(0.0) committee(0.0) has(0.0) to(0.0) continue(0.0) to(0.0) communicate(0.0) 
+,(0.0) communicate(0.0) with(0.0) the(0.0) advocacy(1.0) groups(0.0) ,(0.0) local(0.0) election(0.0) officials(1.0) ,(0.0) everybody(0.0) who(0.0) has(0.0) this(0.0) bill(0.0) near(1.0) and(0.0) dear(0.0) to(0.0) 
+their(0.0) heart(0.0) .(0.0) I(0.0) commend(0.0) the(0.0) gentlewoman(0.0) from(0.0) Texas(0.0) ,(0.0) all(0.0) of(0.0) those(0.0) who(0.0) have(0.0) worked(0.0) so(0.0) hard(0.0) for(0.0) this(0.0) 
+bill(1.0) .(0.0) We(0.0) can(0.0) not(0.0) lose(0.0) this(0.0) bill(1.0) .(0.0) We(0.0) have(0.0) to(0.0) continue(0.0) to(0.0) work(0.0) .(0.0) I(0.0) know(0.0) we(0.0) are(0.0) 
+running(0.0) out(0.0) of(0.0) time(0.0) ,(0.0) but(0.0) I(0.0) am(0.0) sure(0.0) that(0.0) many(0.0) minds(0.0) can(0.0) come(0.0) together(0.0) and(0.0) can(0.0) produce(0.0) a(0.0) product(0.0) 
+that(0.0) we(0.0) are(0.0) going(0.0) to(0.0) be(0.0) proud(0.0) of(0.0) long(0.0) after(0.0) we(0.0) are(0.0) not(0.0) serving(0.0) in(0.0) this(0.0) body(0.0) .(0.0) The(0.0) Help(0.0) 
+America(1.0) Vote(1.0) Act(1.0) is(0.0) good(0.0) for(0.0) the(0.0) Nation(1.0) .(0.0) I(0.0) fully(0.0) support(0.0) the(0.0) gentlewoman(0.0) 's(0.0) motion(1.0) to(0.0) instruct(0.0) .(0.0) Mr.(0.0) 
+Speaker(1.0) ,(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) Ms.(0.0) EDDIE(1.0) BERNICE(1.0) JOHNSON(1.0) of(0.0) Texas(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) 
+I(0.0) yield(0.0) 5(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Maryland(1.0) ((0.0) Mr.(0.0) Hoyer(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	efforts	
+motion	
+America	Vote	
+Act	Maryland	Hoyer	
+measure	
+citizen	
+advocacy	officials	near	
+
+bill	bill	
+
+
+America	Vote	Act	Nation	motion	
+Speaker	EDDIE	BERNICE	JOHNSON	Speaker	
+Maryland	Hoyer	
+
+reads % = 0.09818181818181818

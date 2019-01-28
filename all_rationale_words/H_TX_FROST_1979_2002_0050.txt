@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) again(0.0) ,(0.0) as(0.0) I(0.0) mentioned(0.0) earlier(0.0) ,(0.0) I(0.0) find(0.0) this(0.0) all(0.0) somewhat(0.0) puzzling(0.0) .(0.0) My(0.0) friends(0.0) on(0.0) the(0.0) 
+other(0.0) side(0.0) rail(0.0) against(0.0) these(0.0) State(0.0) judges(0.0) .(0.0) They(0.0) think(0.0) these(0.0) State(1.0) judges(0.0) are(0.0) out(0.0) of(0.0) control(0.0) .(0.0) In(0.0) my(0.0) 
+State(0.0) of(0.0) Texas(1.0) ,(0.0) we(0.0) elect(1.0) our(0.0) State(1.0) judges(0.0) .(0.0) In(0.0) our(0.0) largest(1.0) county(1.0) ,(0.0) Harris(0.0) County(1.0) ,(0.0) they(0.0) are(0.0) 
+all(0.0) Republicans(0.0) .(1.0) In(0.0) our(0.0) second(0.0) largest(1.0) county(1.0) ,(0.0) Dallas(1.0) County(1.0) ,(0.0) they(0.0) are(0.0) all(0.0) Republicans(0.0) .(1.0) In(0.0) Tarrant(1.0) County(1.0) 
+,(0.0) where(1.0) Fort(1.0) Worth(0.0) is(0.0) located(0.0) ,(0.0) they(0.0) are(0.0) all(0.0) Republicans(0.0) .(1.0) Every(1.0) member(0.0) of(0.0) our(0.0) State(1.0) supreme(0.0) court(0.0) ,(0.0) 
+who(0.0) is(0.0) also(0.0) elected(0.0) ,(0.0) is(0.0) a(0.0) Republican(0.0) .(1.0) I(1.0) do(1.0) not(0.0) understand(0.0) what(0.0) the(0.0) Members(0.0) on(0.0) the(0.0) other(0.0) side(0.0) 
+have(0.0) to(0.0) fear(0.0) from(0.0) State(0.0) judges(0.0) ,(0.0) these(0.0) out-of-control(1.0) State(0.0) judges(0.0) .(0.0) I(0.0) guess(0.0) they(0.0) are(0.0) distrustful(0.0) of(0.0) some(0.0) members(0.0) 
+of(0.0) their(0.0) own(0.0) party(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) 2(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) ((0.0) Mr.(0.0) Sandlin(1.0) 
+)(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	
+State	
+Texas	elect	State	largest	county	County	
+.	largest	county	Dallas	County	.	Tarrant	County	
+where	Fort	.	Every	State	
+.	I	do	
+out-of-control	
+Speaker	Sandlin	
+
+
+reads % = 0.1656441717791411

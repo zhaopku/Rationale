@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) as(0.0) the(0.0) price(0.0) of(0.0) crude(1.0) oil(1.0) again(0.0) moves(0.0) past(0.0) $(0.0) 100(0.0) a(0.0) barrel(0.0) ,(0.0) it(0.0) is(0.0) another(0.0) reminder(0.0) of(0.0) 
+the(0.0) high(0.0) cost(1.0) of(0.0) our(0.0) energy(1.0) policy(1.0) that(0.0) increases(1.0) our(0.0) dependence(1.0) on(0.0) foreign(1.0) countries(0.0) ,(0.0) kills(0.0) jobs(1.0) ,(0.0) and(0.0) raises(1.0) 
+energy(1.0) costs(1.0) .(0.0) Every(0.0) time(0.0) the(0.0) Federal(1.0) Government(1.0) imposes(1.0) a(0.0) moratorium(1.0) or(0.0) new(0.0) regulations(1.0) ,(0.0) as(0.0) it(0.0) did(0.0) on(0.0) drilling(1.0) 
+in(0.0) the(0.0) gulf(1.0) and(0.0) now(0.0) the(0.0) Keystone(1.0) pipeline(1.0) ,(0.0) it(0.0) hurts(1.0) the(0.0) American(0.0) people(0.0) .(0.0) Despite(0.0) 60(0.0) years(0.0) of(0.0) a(0.0) 
+spotless(0.0) safety(0.0) record(0.0) ,(0.0) excellent(0.0) State(1.0) regulation(1.0) and(0.0) monitoring(0.0) ,(0.0) approval(0.0) for(0.0) safety(0.0) by(0.0) the(0.0) EPA(1.0) and(0.0) creation(0.0) of(0.0) inexpensive(0.0) 
+energy(1.0) sources(0.0) ,(0.0) hydrofracking(1.0) for(0.0) oil(1.0) and(0.0) natural(0.0) gas(1.0) is(0.0) under(0.0) attack(0.0) by(0.0) the(0.0) Department(0.0) of(0.0) the(0.0) Interior(0.0) .(0.0) What(0.0) 
+is(0.0) the(0.0) expected(0.0) outcome(0.0) ?(0.0) Look(0.0) at(0.0) what(0.0) the(0.0) administration(1.0) has(0.0) done(0.0) to(0.0) coal(1.0) ,(0.0) offshore(1.0) drilling(1.0) and(0.0) the(0.0) Keystone(1.0) 
+pipeline(1.0) ,(0.0) not(0.0) to(0.0) mention(0.0) the(0.0) fact(0.0) that(0.0) we(0.0) have(0.0) not(0.0) built(0.0) a(0.0) nuclear(1.0) energy(1.0) plant(0.0) or(0.0) a(0.0) new(0.0) refinery(1.0) 
+for(0.0) decades(1.0) due(0.0) to(0.0) over-(0.0) regulation(1.0) .(0.0) Hydrofracking(1.0) of(0.0) oil(1.0) and(0.0) natural(1.0) gas(1.0) will(0.0) inevitably(1.0) be(0.0) pushed(0.0) into(0.0) red(0.0) tape(0.0) 
+,(0.0) higher(0.0) cost(1.0) of(0.0) production(0.0) and(0.0) lower(0.0) yield(0.0) ,(0.0) again(0.0) ,(0.0) hurting(1.0) America(1.0) through(0.0) high(0.0) energy(1.0) costs(1.0) and(0.0) fewer(0.0) jobs(1.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+crude	oil	
+cost	energy	policy	increases	dependence	foreign	jobs	raises	
+energy	costs	Federal	Government	imposes	moratorium	regulations	drilling	
+gulf	Keystone	pipeline	hurts	
+State	regulation	EPA	
+energy	hydrofracking	oil	gas	
+administration	coal	offshore	drilling	Keystone	
+pipeline	nuclear	energy	refinery	
+decades	regulation	Hydrofracking	oil	natural	gas	inevitably	
+cost	hurting	America	energy	costs	jobs	
+
+
+reads % = 0.2524752475247525

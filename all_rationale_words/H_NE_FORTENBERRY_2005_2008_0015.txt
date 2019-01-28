@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Massachusetts(1.0) for(0.0) yielding(0.0) time(0.0) .(0.0) I(0.0) also(0.0) wish(0.0) to(0.0) thank(0.0) the(0.0) ranking(0.0) member(0.0) ,(0.0) Ms.(1.0) Ros-Lehtinen(1.0) 
+,(0.0) for(0.0) her(0.0) leadership(0.0) on(0.0) this(0.0) complex(0.0) issue(0.0) and(0.0) her(0.0) consideration(0.0) of(0.0) my(0.0) differing(0.0) view(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) given(0.0) 
+the(0.0) enormous(1.0) pressures(1.0) this(0.0) Congress(1.0) is(0.0) facing(0.0) to(0.0) solve(0.0) urgent(1.0) financial(1.0) problems(0.0) which(0.0) threaten(1.0) the(0.0) stability(1.0) and(0.0) health(1.0) of(0.0) our(0.0) 
+economy(1.0) ,(0.0) I(0.0) must(0.0) express(0.0) my(0.0) deep(0.0) reservations(0.0) about(0.0) expediting(1.0) approval(0.0) of(0.0) the(0.0) U.S.-India(1.0) civil(0.0) Nuclear(0.0) Agreement(0.0) at(0.0) this(0.0) time(0.0) 
+.(0.0) While(0.0) I(0.0) fully(0.0) favor(1.0) strengthening(1.0) ties(0.0) ,(0.0) economic(1.0) ,(0.0) social(0.0) ,(0.0) cultural(1.0) ,(0.0) and(0.0) political(1.0) with(0.0) our(0.0) Indian(0.0) friends(0.0) 
+,(0.0) why(0.0) this(0.0) most(0.0) desirable(0.0) pursuit(1.0) hinges(0.0) upon(0.0) the(0.0) sale(0.0) of(0.0) sensitive(0.0) nuclear(1.0) technology(0.0) remains(0.0) a(0.0) mystery(0.0) to(0.0) me(0.0) .(0.0) 
+The(0.0) U.S.-India(1.0) Civil(0.0) Nuclear(1.0) Agreement(0.0) sets(0.0) a(0.0) groundbreaking(0.0) precedent(1.0) that(0.0) could(0.0) open(0.0) a(0.0) floodgate(0.0) of(0.0) nuclear(1.0) commerce(0.0) worldwide(0.0) that(0.0) ,(0.0) 
+absent(0.0) rigorous(0.0) conditions(0.0) ,(0.0) safeguards(1.0) ,(0.0) and(0.0) oversight(1.0) ,(0.0) could(0.0) significantly(0.0) damage(0.0) the(0.0) stability(0.0) and(0.0) integrity(0.0) of(0.0) U.S.(0.0) and(0.0) international(0.0) 
+nuclear(1.0) nonproliferation(1.0) efforts(0.0) .(0.0) Just(0.0) this(0.0) week(0.0) ,(0.0) the(0.0) Russian(0.0) prime(0.0) minister(0.0) announced(0.0) that(0.0) Russia(0.0) was(0.0) ,(0.0) ``(0.0) ready(0.0) to(0.0) 
+consider(0.0) the(0.0) possibility(0.0) of(0.0) cooperation(0.0) in(0.0) nuclear(1.0) energy(0.0) ''(0.0) with(0.0) Venezuela(1.0) 's(0.0) President(0.0) Hugo(1.0) Chavez(1.0) .(0.0) We(0.0) should(0.0) not(0.0) rush(0.0) 
+this(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Massachusetts	Ms.	Ros-Lehtinen	
+Speaker	
+enormous	pressures	Congress	urgent	financial	threaten	stability	health	
+economy	expediting	U.S.-India	
+favor	strengthening	economic	cultural	political	
+pursuit	nuclear	
+U.S.-India	Nuclear	precedent	nuclear	
+safeguards	oversight	
+nuclear	nonproliferation	
+nuclear	Venezuela	Hugo	Chavez	
+
+
+reads % = 0.16748768472906403

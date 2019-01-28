@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+At(0.0) this(0.0) time(0.0) I(0.0) am(0.0) pleased(0.0) to(0.0) yield(0.0) 2(0.0) minutes(0.0) to(0.0) another(0.0) cosponsor(1.0) of(0.0) the(0.0) Fair(0.0) Tax(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) 
+Texas(0.0) ((0.0) Mr.(0.0) Culberson(1.0) )(0.0) .(0.0) ((0.0) Mr.(0.0) CULBERSON(1.0) asked(0.0) and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) 
+.(0.0) )(0.0) 
+
+
+----- below are rationale words -----
+
+cosponsor	
+Culberson	CULBERSON	
+
+
+reads % = 0.06976744186046512

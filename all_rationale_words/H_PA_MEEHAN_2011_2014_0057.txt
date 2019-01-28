@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) concur(0.0) in(0.0) the(0.0) Senate(0.0) amendment(0.0) to(0.0) the(0.0) bill(0.0) ((1.0) H.R(1.0) .(0.0) 4007(0.0) 
+)(0.0) to(0.0) recodify(0.0) and(0.0) reauthorize(0.0) the(0.0) Chemical(0.0) Facility(0.0) Anti-Terrorism(0.0) Standards(0.0) Program(0.0) .(0.0) The(0.0) Clerk(0.0) read(0.0) the(0.0) title(0.0) of(0.0) the(0.0) bill(0.0) 
+.(0.0) The(0.0) text(0.0) of(0.0) the(0.0) Senate(0.0) amendment(0.0) is(0.0) as(0.0) follows(0.0) :(0.0) Senate(0.0) amendment(0.0) :(0.0) In(0.0) lieu(0.0) of(0.0) the(0.0) matter(0.0) proposed(0.0) 
+to(0.0) be(0.0) inserted(0.0) ,(0.0) insert(0.0) the(0.0) following(0.0) :(0.0) SECTION(0.0) 1(0.0) .(0.0) SHORT(0.0) TITLE(0.0) .(0.0) This(0.0) Act(0.0) may(0.0) be(0.0) cited(0.0) as(0.0) 
+the(0.0) ``(0.0) Protecting(0.0) and(0.0) Securing(0.0) Chemical(0.0) Facilities(0.0) from(0.0) Terrorist(0.0) Attacks(0.0) Act(0.0) of(0.0) 2014(0.0) ''(0.0) .(0.0) SEC(0.0) .(0.0) 2(0.0) .(0.0) CHEMICAL(0.0) 
+FACILITY(0.0) ANTI-TERRORISM(0.0) STANDARDS(0.0) PROGRAM(0.0) .(0.0) ((0.0) a(0.0) )(0.0) In(0.0) General.(0.0) --(0.0) The(0.0) Homeland(0.0) Security(0.0) Act(0.0) of(0.0) 2002(0.0) ((0.0) 6(0.0) U.S.C(0.0) 
+.(0.0) 101(0.0) et(0.0) seq(0.0) .(0.0) )(0.0) is(0.0) amended(0.0) by(0.0) adding(0.0) at(0.0) the(0.0) end(0.0) the(0.0) following(0.0) :(0.0) ``(0.0) TITLE(0.0) XXI(0.0) --(0.0) 
+CHEMICAL(0.0) FACILITY(0.0) ANTI-TERRORISM(0.0) STANDARDS(0.0) ``(0.0) SEC(0.0) .(0.0) 2101(0.0) .(0.0) DEFINITIONS(0.0) .(0.0) ``(0.0) In(0.0) this(0.0) title(0.0) --(0.0) ``(0.0) ((0.0) 1(0.0) )(0.0) 
+the(0.0) term(0.0) `(0.0) CFATS(0.0) regulation(0.0) '(0.0) means(0.0) --(0.0) ``(0.0) ((0.0) A(0.0) )(0.0) an(0.0) existing(0.0) CFATS(0.0) regulation(0.0) ;(0.0) and(0.0) ``(0.0) ((0.0) 
+B(0.0) )(0.0) any(0.0) regulation(0.0) or(0.0) amendment(0.0) to(0.0) an(0.0) existing(0.0) CFATS(0.0) regulation(0.0) issued(0.0) pursuant(0.0) to(0.0) the(0.0) authority(0.0) under(0.0) section(0.0) 2107(0.0) ;(0.0) 
+``(0.0) ((0.0) 2(0.0) )(0.0) the(0.0) term(0.0) `(0.0) chemical(0.0) facility(0.0) of(0.0) interest(0.0) '(0.0) means(0.0) a(0.0) facility(0.0) that(0.0) --(0.0) ``(0.0) ((0.0) A(0.0) 
+)(0.0) holds(0.0) ,(0.0) or(0.0) that(0.0) the(0.0) Secretary(0.0) has(0.0) a(0.0) reasonable(0.0) basis(0.0) to(0.0) believe(0.0) holds(0.0) ,(0.0) a(0.0) chemical(0.0) of(0.0) interest(0.0) ,(0.0) 
+as(0.0) designated(0.0) under(0.0) Appendix(0.0) A(0.0) to(0.0) part(0.0) 27(0.0) of(0.0) title(0.0) 6(0.0) ,(0.0) Code(0.0) of(0.0) Federal(0.0) Regulations(0.0) ,(0.0) or(0.0) any(0.0) successor(0.0) 
+thereto(0.0) ,(0.0) at(0.0) a(0.0) threshold(0.0) quantity(0.0) set(0.0) pursuant(0.0) to(0.0) relevant(0.0) risk-related(0.0) security(0.0) principles(0.0) ;(0.0) and(0.0) ``(0.0) ((0.0) B(0.0) )(0.0) is(0.0) 
+not(0.0) an(0.0) excluded(0.0) facility(0.0) ;(0.0) ``(0.0) ((0.0) 3(0.0) )(0.0) the(0.0) term(0.0) `(0.0) covered(0.0) chemical(0.0) facility(0.0) '(0.0) means(0.0) a(0.0) facility(0.0) that(0.0) 
+--(0.0) ``(0.0) ((0.0) A(0.0) )(0.0) the(0.0) Secretary(0.0) --(0.0) ``(0.0) ((0.0) i(0.0) )(0.0) identifies(0.0) as(0.0) a(0.0) chemical(0.0) facility(0.0) of(0.0) interest(0.0) ;(0.0) 
+and(0.0) ``(0.0) ((0.0) ii(0.0) )(0.0) based(0.0) upon(0.0) review(0.0) of(0.0) the(0.0) facility(0.0) 's(0.0) Top-Screen(0.0) ,(0.0) determines(0.0) meets(0.0) the(0.0) risk(0.0) criteria(0.0) developed(0.0) 
+under(0.0) section(0.0) 2102(0.0) ((0.0) e(0.0) )(0.0) ((0.0) 2(0.0) )(0.0) ((0.0) B(0.0) )(0.0) ;(0.0) and(0.0) ``(0.0) ((0.0) B(0.0) )(0.0) is(0.0) not(0.0) 
+an(0.0) excluded(0.0) facility(0.0) ;(0.0) ``(0.0) ((0.0) 4(0.0) )(0.0) the(0.0) term(0.0) `(0.0) excluded(0.0) facility(0.0) '(0.0) means(0.0) --(0.0) ``(0.0) ((0.0) A(0.0) )(0.0) 
+a(0.0) facility(0.0) regulated(0.0) under(0.0) the(0.0) Maritime(0.0) Transportation(0.0) Security(0.0) Act(0.0) of(0.0) 2002(0.0) ((0.0) Public(0.0) Law(0.0) 107-295(0.0) ;(0.0) 116(0.0) Stat(0.0) .(0.0) 2064(0.0) 
+)(0.0) ;(0.0) ``(0.0) ((0.0) B(0.0) )(0.0) a(0.0) public(0.0) water(0.0) system(0.0) ,(0.0) as(0.0) that(0.0) term(0.0) is(0.0) defined(0.0) in(0.0) section(0.0) 1401(0.0) of(0.0) 
+the(0.0) Safe(0.0) Drinking(0.0) Water(0.0) Act(0.0) ((0.0) 42(0.0) U.S.C(0.0) .(0.0) 300f(0.0) )(0.0) ;(0.0) ``(0.0) ((0.0) C(0.0) )(0.0) a(0.0) Treatment(0.0) Works(0.0) ,(0.0) 
+as(0.0) that(0.0) term(0.0) is(0.0) defined(0.0) in(0.0) section(0.0) 212(0.0) of(0.0) the(0.0) Federal(0.0) Water(0.0) Pollution(0.0) Control(0.0) Act(0.0) ((0.0) 33(0.0) U.S.C(0.0) .(0.0) 1292(0.0) 
+)(0.0) ;(0.0) ``(0.0) ((0.0) D(0.0) )(0.0) a(0.0) facility(0.0) owned(0.0) or(0.0) operated(0.0) by(0.0) the(0.0) Department(0.0) of(0.0) Defense(0.0) or(0.0) the(0.0) Department(0.0) of(0.0) 
+Energy(0.0) ;(0.0) or(0.0) ``(0.0) ((0.0) E(0.0) )(0.0) a(0.0) facility(0.0) subject(0.0) to(0.0) regulation(0.0) by(0.0) the(0.0) Nuclear(0.0) Regulatory(0.0) Commission(0.0) ,(0.0) or(0.0) 
+
+
+----- below are rationale words -----
+
+(	H.R	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+reads % = 0.004

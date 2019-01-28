@@ -1,0 +1,40 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) my(0.0) legal(1.0) career(0.0) of(0.0) 25(0.0) years(0.0) was(0.0) to(0.0) represent(1.0) small(0.0) business(1.0) owners(0.0) .(0.0) And(0.0) since(0.0) coming(0.0) to(0.0) Congress(0.0) 3(0.0) 
+years(0.0) ago(1.0) ,(0.0) I(0.0) have(0.0) worked(0.0) consistently(0.0) to(0.0) make(0.0) it(0.0) easier(1.0) for(0.0) small(1.0) businesses(1.0) to(0.0) grow(1.0) and(0.0) succeed(0.0) in(0.0) our(0.0) 
+country(1.0) .(0.0) I(0.0) appreciate(1.0) the(0.0) leadership(1.0) of(0.0) the(0.0) chairman(1.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Ohio(1.0) ((0.0) Mr.(0.0) Boehner(1.0) )(0.0) ,(0.0) and(0.0) 
+my(0.0) next-door(1.0) neighbor(1.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Georgia(1.0) ((0.0) Mr.(0.0) Norwood(1.0) )(0.0) ,(0.0) for(0.0) their(0.0) promotion(1.0) of(0.0) small(0.0) businesses(1.0) .(0.0) 
+However(0.0) ,(0.0) OSHA(1.0) regulations(1.0) placed(0.0) upon(0.0) our(0.0) small(0.0) businesses(1.0) continue(0.0) to(0.0) be(0.0) among(0.0) the(0.0) most(1.0) complex(0.0) and(0.0) difficult(0.0) legal(0.0) mandates(1.0) 
+imposed(1.0) on(0.0) employers(1.0) .(0.0) The(0.0) Occupational(1.0) Safety(0.0) and(0.0) Health(0.0) Small(1.0) Employer(1.0) Access(0.0) to(0.0) Justice(0.0) Act(0.0) is(0.0) a(0.0) vital(1.0) piece(0.0) of(0.0) 
+legislation(0.0) that(0.0) significantly(1.0) reduces(0.0) burdensome(1.0) government(1.0) regulations(1.0) .(0.0) H.R(0.0) .(0.0) 742(1.0) levels(0.0) the(0.0) playing(0.0) field(0.0) for(0.0) small(0.0) businesses(1.0) and(0.0) encourages(1.0) 
+OSHA(0.0) to(0.0) better(0.0) assess(0.0) the(0.0) merits(0.0) of(0.0) a(0.0) case(0.0) before(0.0) bringing(0.0) unnecessary(0.0) enforcement(0.0) actions(0.0) to(0.0) court(0.0) against(0.0) small(0.0) businesses(1.0) .(0.0) 
+By(1.0) passing(0.0) this(0.0) vital(1.0) legislation(0.0) ,(0.0) Congress(0.0) will(0.0) enhance(1.0) fairness(0.0) for(0.0) employers(1.0) ,(0.0) especially(1.0) small(0.0) businesses(1.0) ;(0.0) and(0.0) give(0.0) them(0.0) 
+new(1.0) tools(0.0) to(0.0) defend(1.0) themselves(0.0) against(0.0) OSHA(0.0) citations(1.0) they(0.0) believe(1.0) are(0.0) unjustified(1.0) .(0.0) Small(1.0) businesses(1.0) provide(0.0) ,(0.0) in(0.0) the(0.0) district(1.0) 
+I(0.0) represent(1.0) ,(0.0) 99(0.0) percent(1.0) of(0.0) businesses(1.0) ,(0.0) creating(0.0) 85(1.0) percent(1.0) of(0.0) jobs(1.0) for(0.0) working(0.0) people(0.0) ;(0.0) and(0.0) Congress(0.0) should(0.0) 
+act(0.0) now(0.0) to(0.0) help(0.0) them(0.0) succeed(0.0) .(0.0) As(0.0) a(0.0) member(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Education(0.0) and(0.0) the(0.0) Workforce(1.0) ,(0.0) and(0.0) 
+cosponsor(1.0) of(0.0) the(0.0) four(1.0) bills(0.0) today(0.0) ,(0.0) I(0.0) have(0.0) been(0.0) honored(0.0) to(0.0) work(0.0) with(0.0) Chairman(1.0) Boehner(0.0) and(0.0) the(0.0) gentleman(0.0) from(0.0) 
+Georgia(1.0) ((0.0) Mr.(0.0) Norwood(1.0) )(0.0) .(0.0) I(0.0) applaud(1.0) their(0.0) efforts(1.0) to(0.0) provide(0.0) commonsense(1.0) legislation(0.0) that(0.0) will(0.0) reduce(1.0) the(0.0) burden(0.0) placed(0.0) 
+upon(0.0) America(0.0) 's(0.0) small(0.0) business(1.0) owners(0.0) .(0.0) I(0.0) urge(1.0) my(0.0) colleagues(1.0) to(0.0) support(0.0) OSHA(0.0) reform(0.0) ,(0.0) H.R(0.0) .(0.0) 742(1.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+legal	represent	business	
+ago	easier	small	businesses	grow	
+country	appreciate	leadership	chairman	Ohio	Boehner	
+next-door	neighbor	Georgia	Norwood	promotion	businesses	
+OSHA	regulations	businesses	most	mandates	
+imposed	employers	Occupational	Small	Employer	vital	
+significantly	burdensome	government	regulations	742	businesses	encourages	
+businesses	
+By	vital	enhance	employers	especially	businesses	
+new	defend	citations	believe	unjustified	Small	businesses	district	
+represent	percent	businesses	85	percent	jobs	
+Workforce	
+cosponsor	four	Chairman	
+Georgia	Norwood	applaud	efforts	commonsense	reduce	
+business	urge	colleagues	742	
+
+
+reads % = 0.2425249169435216

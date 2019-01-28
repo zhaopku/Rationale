@@ -1,0 +1,34 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) would(0.0) the(0.0) author(0.0) please(0.0) tell(0.0) me(0.0) what(0.0) is(0.0) broken(0.0) that(0.0) needs(0.0) fixing(0.0) ?(0.0) Where(0.0) is(0.0) the(0.0) local(0.0) agency(0.0) not(0.0) 
+,(0.0) I(0.0) mean(0.0) ,(0.0) as(0.0) you(0.0) say(0.0) in(0.0) your(0.0) bill(1.0) ,(0.0) you(0.0) shall(0.0) not(0.0) provide(0.0) any(0.0) person(0.0) ,(0.0) agency(0.0) or(0.0) 
+entity(0.0) ,(0.0) pursuant(0.0) ,(0.0) any(0.0) grant(1.0) ,(0.0) even(0.0) any(0.0) formula(1.0) grants(1.0) .(0.0) You(0.0) are(0.0) going(0.0) to(0.0) just(0.0) bring(0.0) law(1.0) enforcement(1.0) 
+to(0.0) a(0.0) standstill(0.0) here(0.0) .(0.0) You(0.0) are(0.0) going(0.0) to(0.0) create(0.0) the(0.0) biggest(0.0) bureaucracy(1.0) in(0.0) the(0.0) world(0.0) .(0.0) I(0.0) represent(0.0) a(0.0) 
+lot(0.0) of(0.0) local(0.0) governments(1.0) .(0.0) I(0.0) do(0.0) not(0.0) know(0.0) any(0.0) of(0.0) them(0.0) that(0.0) do(0.0) not(0.0) share(0.0) this(0.0) information(0.0) .(0.0) But(0.0) 
+I(0.0) also(0.0) know(0.0) that(0.0) there(0.0) are(0.0) times(0.0) when(0.0) local(0.0) law(1.0) enforcement(1.0) has(0.0) undercover(0.0) agents(0.0) who(0.0) are(0.0) undocumented(1.0) .(0.0) I(0.0) found(0.0) 
+that(0.0) out(0.0) from(0.0) previous(0.0) experiences(0.0) where(0.0) they(0.0) may(0.0) not(0.0) want(0.0) to(0.0) tell(0.0) anybody(0.0) that(0.0) is(0.0) an(0.0) undercover(0.0) agent(0.0) .(0.0) And(0.0) 
+is(0.0) that(0.0) the(0.0) kind(0.0) of(0.0) thing(0.0) ?(0.0) I(0.0) mean(0.0) ,(0.0) this(0.0) is(0.0) not(0.0) the(0.0) law(1.0) that(0.0) the(0.0) local(0.0) city(0.0) councils(0.0) 
+adopt(1.0) .(0.0) This(0.0) is(0.0) the(0.0) way(0.0) law(1.0) enforcement(1.0) does(0.0) their(0.0) business(0.0) .(0.0) And(0.0) with(0.0) your(0.0) amendment(1.0) ,(0.0) I(0.0) see(0.0) that(0.0) 
+the(0.0) Attorney(1.0) General(0.0) has(0.0) now(0.0) to(0.0) determine(0.0) whether(0.0) that(0.0) city(1.0) or(0.0) county(1.0) receives(0.0) any(0.0) formula(0.0) funds(0.0) of(0.0) any(0.0) amount(0.0) ,(0.0) 
+and(0.0) that(0.0) they(0.0) can(0.0) not(0.0) receive(0.0) those(0.0) amounts(1.0) in(0.0) the(0.0) future(0.0) .(0.0) What(0.0) are(0.0) you(0.0) going(0.0) to(0.0) do(0.0) about(0.0) Katrina(1.0) 
+?(0.0) What(0.0) are(0.0) you(0.0) going(0.0) to(0.0) do(0.0) about(0.0) all(0.0) those(0.0) cities(1.0) that(0.0) you(0.0) are(0.0) trying(0.0) to(0.0) bail(1.0) out(0.0) with(0.0) the(0.0) 
+floods(1.0) ?(0.0) I(0.0) think(0.0) this(0.0) amendment(1.0) is(0.0) fixing(1.0) something(0.0) that(0.0) is(0.0) not(0.0) even(0.0) broken(0.0) .(0.0) I(0.0) oppose(1.0) it(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+bill	
+grant	formula	grants	law	enforcement	
+bureaucracy	
+governments	
+law	enforcement	undocumented	
+
+law	
+adopt	law	enforcement	amendment	
+Attorney	city	county	
+amounts	Katrina	
+cities	bail	
+floods	amendment	fixing	oppose	
+
+reads % = 0.10384615384615385

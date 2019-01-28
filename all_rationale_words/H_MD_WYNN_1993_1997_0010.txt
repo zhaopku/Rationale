@@ -1,0 +1,34 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) South(0.0) Carolina(0.0) for(0.0) his(0.0) hard(0.0) work(0.0) on(0.0) this(0.0) budget(1.0) .(0.0) I(0.0) rise(0.0) in(0.0) support(0.0) 
+of(0.0) this(0.0) budget(1.0) .(0.0) It(0.0) is(0.0) not(0.0) a(0.0) perfect(0.0) budget(1.0) ,(0.0) but(0.0) I(0.0) do(0.0) believe(0.0) we(0.0) need(0.0) to(0.0) pass(0.0) a(0.0) 
+balanced(0.0) budget(1.0) to(0.0) stimulate(0.0) economic(1.0) growth(1.0) in(0.0) America(1.0) .(0.0) This(0.0) is(0.0) not(0.0) a(0.0) perfect(0.0) budget(1.0) .(0.0) The(0.0) Black(1.0) Caucus(1.0) makes(0.0) 
+what(0.0) I(0.0) consider(0.0) to(0.0) be(0.0) better(0.0) investments(1.0) .(0.0) I(0.0) am(0.0) disappointed(0.0) we(0.0) were(0.0) not(0.0) able(0.0) to(0.0) provide(0.0) money(1.0) in(0.0) this(0.0) 
+budget(1.0) for(0.0) school(1.0) construction(1.0) ,(0.0) and(0.0) I(0.0) think(0.0) the(0.0) tax(1.0) cuts(1.0) go(1.0) too(1.0) much(1.0) to(1.0) the(0.0) wealthiest(1.0) in(0.0) America(1.0) .(0.0) 
+But(0.0) we(0.0) can(0.0) not(0.0) let(0.0) the(0.0) perfect(0.0) be(0.0) the(0.0) enemy(1.0) of(0.0) the(0.0) good(0.0) and(0.0) there(0.0) are(0.0) many(0.0) good(0.0) things(0.0) in(0.0) 
+this(0.0) budget(1.0) :(0.0) $(0.0) 35(0.0) billion(1.0) in(0.0) tuition(1.0) tax(1.0) credits(1.0) ,(0.0) and(0.0) tax(1.0) deductions(1.0) to(0.0) help(1.0) working(0.0) families(0.0) send(0.0) their(0.0) 
+kids(0.0) to(0.0) college(1.0) is(0.0) a(0.0) very(0.0) good(0.0) thing(0.0) .(0.0) Increasing(1.0) Pell(1.0) grants(1.0) by(0.0) $(0.0) 300(0.0) for(0.0) over(0.0) 300,000(0.0) additional(0.0) young(0.0) 
+people(0.0) is(0.0) a(0.0) very(0.0) good(0.0) thing(0.0) .(0.0) Coverage(1.0) for(0.0) 5(0.0) million(0.0) uninsured(1.0) children(1.0) who(0.0) do(0.0) not(0.0) have(0.0) health(1.0) insurance(1.0) now(0.0) 
+is(0.0) a(0.0) very(0.0) good(0.0) thing(0.0) .(0.0) Improvements(0.0) in(0.0) last(0.0) year's(0.0) welfare(1.0) reform(1.0) bill(1.0) to(1.0) take(1.0) care(1.0) of(0.0) some(0.0) of(0.0) the(0.0) 
+problems(0.0) of(0.0) our(0.0) immigrant(1.0) population(1.0) is(0.0) a(0.0) good(0.0) thing(0.0) .(0.0) This(0.0) is(0.0) not(0.0) a(0.0) perfect(0.0) budget(1.0) ,(0.0) it(0.0) is(0.0) a(0.0) 
+compromise(1.0) .(0.0) And(0.0) as(0.0) I(0.0) say(0.0) ,(0.0) neither(0.0) side(0.0) is(0.0) completely(0.0) happy(0.0) .(0.0) Maybe(0.0) that(0.0) means(0.0) it(0.0) is(0.0) a(0.0) good(0.0) 
+deal(0.0) .(0.0) I(0.0) support(0.0) the(0.0) compromise(1.0) budget(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+budget	
+budget	budget	
+budget	economic	growth	America	budget	Black	Caucus	
+investments	money	
+budget	school	construction	tax	cuts	go	too	much	to	wealthiest	America	
+enemy	
+budget	billion	tuition	tax	credits	tax	deductions	help	
+college	Increasing	Pell	grants	
+Coverage	uninsured	children	health	insurance	
+welfare	reform	bill	to	take	care	
+immigrant	population	budget	
+compromise	
+compromise	budget	
+
+reads % = 0.21285140562248997

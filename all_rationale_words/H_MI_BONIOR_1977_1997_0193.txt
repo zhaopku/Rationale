@@ -1,0 +1,36 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) it(0.0) is(0.0) possible(0.0) to(0.0) win(0.0) and(0.0) the(0.0) gentleman(0.0) is(0.0) an(0.0) example(0.0) of(0.0) that(0.0) happening(0.0) .(0.0) But(0.0) there(0.0) are(0.0) 
+districts(0.0) ,(0.0) and(0.0) the(0.0) gentleman(0.0) ,(0.0) I(0.0) think(0.0) ,(0.0) will(0.0) concede(1.0) this(0.0) ,(0.0) where(0.0) it(0.0) is(0.0) extremely(0.0) difficult(0.0) to(0.0) raise(1.0) 
+the(0.0) money(1.0) to(0.0) be(0.0) competitive(0.0) in(0.0) a(0.0) congressional(0.0) race(0.0) within(0.0) that(0.0) district(0.0) itself(0.0) .(0.0) I(0.0) think(0.0) the(0.0) gentleman(0.0) understands(0.0) that(0.0) 
+.(0.0) That(0.0) is(0.0) the(0.0) dilemma(1.0) that(0.0) we(0.0) face(0.0) if(0.0) we(0.0) are(0.0) not(0.0) all(0.0) playing(0.0) by(0.0) the(0.0) same(0.0) rules(1.0) .(0.0) So(0.0) 
+let(0.0) me(0.0) just(0.0) conclude(0.0) ,(0.0) Madam(0.0) Speaker(1.0) ,(0.0) by(0.0) suggesting(1.0) that(0.0) our(0.0) colleagues(0.0) vote(1.0) against(0.0) the(0.0) previous(0.0) question(0.0) so(0.0) we(0.0) 
+can(0.0) bring(0.0) this(0.0) issue(0.0) to(0.0) the(0.0) floor(0.0) and(0.0) we(0.0) can(0.0) have(0.0) a(0.0) full(0.0) and(0.0) honest(0.0) and(0.0) fair(1.0) debate(1.0) so(0.0) our(0.0) 
+Republican(0.0) colleagues(1.0) ,(1.0) as(1.0) well(1.0) as(1.0) our(1.0) Democratic(1.0) colleagues(1.0) ,(1.0) can(1.0) offer(1.0) the(0.0) suggestions(0.0) to(0.0) reform(1.0) the(0.0) system(1.0) so(0.0) we(0.0) 
+know(0.0) where(0.0) we(0.0) are(0.0) .(0.0) Maybe(0.0) we(0.0) will(0.0) not(0.0) resolve(0.0) it(0.0) .(0.0) Maybe(0.0) we(0.0) will(0.0) not(0.0) come(0.0) to(0.0) a(0.0) conclusion(0.0) 
+.(0.0) Maybe(0.0) we(0.0) will(0.0) not(0.0) have(0.0) the(0.0) votes(1.0) to(0.0) pass(0.0) anything(0.0) .(0.0) But(0.0) at(0.0) least(0.0) we(0.0) will(0.0) have(0.0) some(0.0) sense(0.0) 
+of(0.0) where(0.0) we(0.0) are(0.0) in(0.0) this(0.0) debate(1.0) and(0.0) where(0.0) the(0.0) center(0.0) of(0.0) gravity(0.0) is(0.0) in(0.0) terms(1.0) of(0.0) where(0.0) this(0.0) Congress(0.0) 
+wants(1.0) to(0.0) go(0.0) and(0.0) where(0.0) the(0.0) public(1.0) wants(0.0) us(0.0) to(0.0) go(0.0) .(0.0) We(0.0) owe(1.0) that(0.0) to(0.0) the(0.0) American(0.0) people(0.0) .(0.0) 
+We(0.0) owe(0.0) that(0.0) to(0.0) the(0.0) institution(1.0) that(0.0) we(0.0) serve(0.0) in(0.0) and(0.0) we(0.0) certainly(0.0) owe(1.0) it(0.0) to(0.0) the(0.0) people(0.0) who(0.0) sent(0.0) 
+us(0.0) here(0.0) .(0.0) Mr.(0.0) DIAZ-BALART(1.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) 3(0.0) minutes(0.0) to(0.0) the(0.0) distinguished(0.0) gentleman(0.0) from(0.0) Arizona(1.0) [(0.0) 
+Mr.(0.0) Hayworth(1.0) ](0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+concede	raise	
+money	
+dilemma	rules	
+Speaker	suggesting	vote	
+fair	debate	
+colleagues	,	as	well	as	our	Democratic	colleagues	,	can	offer	reform	system	
+
+votes	
+debate	terms	
+wants	public	owe	
+institution	owe	
+DIAZ-BALART	Speaker	Arizona	
+Hayworth	
+
+reads % = 0.1320754716981132

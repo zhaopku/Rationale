@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+This(0.0) bill(0.0) ,(0.0) the(0.0) EPA(1.0) does(0.0) not(0.0) put(0.0) a(0.0) price(0.0) on(0.0) carbon(1.0) .(0.0) The(0.0) EPA(1.0) is(0.0) not(0.0) setting(0.0) up(0.0) a(0.0) cap-and-trade(1.0) 
+program(0.0) .(0.0) The(0.0) EPA(1.0) is(0.0) only(0.0) saying(0.0) ,(0.0) in(0.0) new(0.0) facilities(0.0) with(0.0) large(0.0) amounts(0.0) of(0.0) carbon(1.0) emissions(1.0) ,(0.0) put(0.0) in(0.0) 
+efficiency(1.0) standards(1.0) so(0.0) that(0.0) you(0.0) can(0.0) reduce(1.0) those(0.0) emissions(1.0) .(0.0) That(0.0) 's(0.0) all(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+EPA	carbon	EPA	cap-and-trade	
+EPA	carbon	emissions	
+efficiency	standards	reduce	emissions	
+
+reads % = 0.2

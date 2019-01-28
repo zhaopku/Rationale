@@ -1,0 +1,48 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) yield(0.0) 2(0.0) minutes(0.0) to(0.0) the(0.0) distinguished(0.0) gentlewoman(0.0) from(0.0) Colorado(1.0) ((0.0) Ms.(1.0) DeGette(1.0) )(0.0) .(0.0) Ms.(1.0) DeGETTE(0.0) .(0.0) Mr.(0.0) 
+Chairman(1.0) ,(0.0) children(0.0) are(0.0) not(0.0) just(0.0) little(0.0) adults(0.0) .(0.0) They(0.0) have(0.0) different(0.0) health(1.0) and(0.0) developmental(1.0) needs(0.0) than(0.0) adults(0.0) ,(0.0) and(0.0) 
+they(0.0) often(0.0) require(0.0) age-appropriate(0.0) pediatric(1.0) expertise(0.0) to(0.0) understand(0.0) ,(0.0) diagnose(0.0) ,(0.0) and(0.0) treat(0.0) their(0.0) health(1.0) problems(0.0) .(0.0) They(0.0) deserve(1.0) health(1.0) 
+care(1.0) providers(1.0) that(0.0) have(0.0) training(0.0) and(0.0) expertise(0.0) in(0.0) their(0.0) conditions(0.0) .(0.0) H.R(0.0) .(0.0) 2723(0.0) ,(0.0) the(0.0) Dingell-Norwood(0.0) bill(1.0) ,(0.0) contains(0.0) 
+provisions(1.0) that(0.0) allow(0.0) children(0.0) to(0.0) have(0.0) access(0.0) to(0.0) pediatricians(0.0) ,(0.0) access(0.0) to(0.0) pediatric(1.0) specialty(1.0) care(1.0) ,(0.0) access(0.0) to(0.0) emergency(1.0) care(1.0) 
+,(0.0) continuity(0.0) of(0.0) care(1.0) ,(0.0) appeals(1.0) to(0.0) pediatric(1.0) experts(0.0) ,(0.0) and(0.0) pediatric(0.0) quality(0.0) assurance(0.0) provisions(1.0) .(0.0) The(0.0) Boehner(1.0) substitute(1.0) ,(1.0) 
+however(1.0) ,(0.0) as(1.0) we(0.0) can(0.0) see(0.0) from(0.0) this(0.0) chart(0.0) ,(0.0) fails(0.0) to(0.0) measure(1.0) up(0.0) in(0.0) every(0.0) single(0.0) comparison(0.0) .(0.0) Children(0.0) 
+are(0.0) far(0.0) too(0.0) often(0.0) put(0.0) at(0.0) risk(0.0) by(0.0) being(0.0) inappropriately(0.0) referred(0.0) to(0.0) certain(0.0) adult(0.0) specialists(0.0) who(0.0) are(0.0) not(0.0) trained(0.0) in(0.0) 
+children(0.0) 's(0.0) health(1.0) needs(0.0) .(0.0) Who(0.0) is(0.0) affected(0.0) ?(0.0) Children(0.0) like(0.0) Kaitlynn(0.0) Bogan(1.0) of(0.0) West(0.0) Alexandria(0.0) ,(0.0) Ohio(1.0) ,(0.0) whose(0.0) 
+health(1.0) plan(0.0) would(0.0) not(0.0) refer(0.0) her(0.0) to(0.0) a(0.0) pediatric(0.0) gastrologist(0.0) and(0.0) who(0.0) continued(0.0) to(0.0) react(0.0) with(0.0) blood(0.0) curdling(0.0) screams(0.0) until(0.0) 
+the(0.0) Bogan(0.0) family(0.0) mortgaged(0.0) their(0.0) home(0.0) and(0.0) went(0.0) outside(0.0) the(0.0) plan(0.0) to(0.0) a(0.0) pediatric(0.0) specialist(0.0) who(0.0) corrected(0.0) her(0.0) problem(0.0) .(0.0) 
+Carley(0.0) Christie(1.0) of(0.0) Palo(1.0) Alto(0.0) ,(0.0) California(1.0) ,(0.0) who(0.0) was(0.0) inappropriately(0.0) referred(0.0) to(0.0) an(0.0) adult(0.0) specialist(0.0) for(0.0) a(0.0) Wilms(0.0) '(0.0) 
+tumor(0.0) who(0.0) performed(0.0) a(0.0) needle(0.0) biopsy(0.0) which(0.0) punctured(0.0) the(0.0) tumor(0.0) and(0.0) essentially(0.0) tripled(0.0) the(0.0) duration(0.0) of(0.0) Christie(0.0) 's(0.0) chemotherapy(0.0) .(0.0) 
+The(0.0) family(0.0) ,(0.0) finally(0.0) on(0.0) their(0.0) own(0.0) and(0.0) at(0.0) their(0.0) own(0.0) expense(0.0) ,(0.0) again(0.0) elected(1.0) to(0.0) have(0.0) the(0.0) surgery(0.0) performed(0.0) 
+by(0.0) a(0.0) qualified(0.0) pediatric(0.0) specialist(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) the(0.0) American(0.0) public(1.0) strongly(0.0) supports(0.0) allowing(0.0) families(0.0) like(0.0) these(0.0) to(0.0) get(0.0) 
+access(0.0) to(0.0) the(0.0) critical(0.0) pediatric(1.0) care(1.0) they(0.0) need(0.0) .(0.0) In(0.0) fact(0.0) ,(0.0) 86(0.0) percent(0.0) of(0.0) Americans(1.0) have(0.0) expressed(0.0) their(0.0) support(0.0) 
+for(0.0) the(0.0) Dingell-Norwood(0.0) plan(1.0) that(0.0) would(0.0) ensure(0.0) children(0.0) get(0.0) access(0.0) to(0.0) pediatric(1.0) specialists(0.0) like(0.0) pediatric(1.0) heart(0.0) specialists(0.0) and(0.0) surgeons(0.0) and(0.0) 
+to(0.0) hospitals(1.0) that(0.0) specialize(0.0) in(0.0) treating(0.0) children(0.0) .(0.0) As(0.0) adults(0.0) ,(0.0) we(0.0) have(0.0) a(0.0) responsibility(0.0) to(0.0) our(0.0) kids(0.0) .(0.0) I(0.0) 
+urge(0.0) my(0.0) colleagues(0.0) to(0.0) reject(1.0) this(0.0) amendment(1.0) and(0.0) to(0.0) support(1.0) the(0.0) Dingell-Norwood(0.0) plan(1.0) .(0.0) Chairman(0.0) ,(0.0) I(0.0) yield(0.0) 2(0.0) minutes(0.0) 
+to(0.0) the(0.0) gentleman(0.0) from(0.0) Utah(1.0) ((0.0) Mr.(0.0) Cook(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Colorado	Ms.	DeGette	Ms.	
+Chairman	health	developmental	
+pediatric	health	deserve	health	
+care	providers	bill	
+provisions	pediatric	specialty	care	emergency	care	
+care	appeals	pediatric	provisions	Boehner	substitute	,	
+however	as	measure	
+
+health	Bogan	Ohio	
+health	
+
+Christie	Palo	California	
+
+elected	
+Chairman	public	
+pediatric	care	Americans	
+plan	pediatric	pediatric	
+hospitals	
+reject	amendment	support	plan	
+Utah	Cook	
+
+reads % = 0.13554987212276215

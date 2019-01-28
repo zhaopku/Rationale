@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) there(0.0) is(0.0) a(0.0) lot(0.0) of(0.0) talk(0.0) about(0.0) the(0.0) October(0.0) 1(0.0) train(0.0) wreck(0.0) .(0.0) This(0.0) is(0.0) the(0.0) Washington(1.0) term(0.0) for(0.0) 
+the(0.0) day(0.0) that(0.0) the(0.0) Government(1.0) runs(0.0) out(0.0) of(0.0) money(0.0) ,(0.0) and(0.0) in(0.0) order(0.0) to(0.0) get(0.0) more(0.0) money(1.0) ,(0.0) the(0.0) Congress(0.0) 
+has(0.0) to(0.0) increase(1.0) the(0.0) debt(1.0) ceiling(1.0) or(0.0) close(0.0) down(0.0) the(0.0) Government(1.0) .(0.0) Yet(0.0) the(0.0) idea(0.0) of(0.0) laying(0.0) off(0.0) a(0.0) few(0.0) 
+bureaucrats(1.0) is(0.0) scary(0.0) to(0.0) some(0.0) .(0.0) In(0.0) fact(0.0) ,(0.0) a(0.0) day(0.0) without(0.0) Government(1.0) to(0.0) the(0.0) Democrats(1.0) is(0.0) as(0.0) bad(0.0) as(0.0) 
+a(0.0) day(0.0) without(0.0) baseball(0.0) to(0.0) Cal(1.0) Ripken(0.0) .(0.0) But(0.0) it(0.0) is(0.0) time(0.0) to(0.0) call(0.0) the(0.0) question(0.0) :(0.0) Do(0.0) we(0.0) as(0.0) 
+a(0.0) nation(1.0) want(0.0) to(0.0) continue(0.0) status(0.0) quo(1.0) deficit(1.0) spending(1.0) ,(0.0) or(0.0) do(0.0) we(0.0) want(0.0) to(0.0) balance(0.0) the(0.0) budget(1.0) and(0.0) get(0.0) 
+our(0.0) House(0.0) in(0.0) order(0.0) ?(0.0) This(0.0) is(0.0) what(0.0) is(0.0) at(0.0) stake(0.0) .(0.0) October(0.0) 1(0.0) is(0.0) not(0.0) a(0.0) coming(0.0) train(0.0) wreck(0.0) 
+,(0.0) but(0.0) a(0.0) day(0.0) of(0.0) atonement(1.0) .(0.0) The(0.0) American(0.0) people(0.0) have(0.0) spoken(0.0) .(0.0) They(0.0) want(0.0) a(0.0) balanced(0.0) budget(1.0) .(0.0) Let(0.0) 
+us(0.0) give(0.0) it(0.0) to(0.0) them(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Washington	
+Government	money	
+increase	debt	ceiling	Government	
+bureaucrats	Government	Democrats	
+Cal	
+nation	quo	deficit	spending	budget	
+
+atonement	budget	
+
+
+reads % = 0.10778443113772455

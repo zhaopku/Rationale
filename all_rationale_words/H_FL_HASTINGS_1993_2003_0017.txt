@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) 1(0.0) minute(0.0) to(0.0) the(0.0) gentlewoman(0.0) from(0.0) Nevada(1.0) ((0.0) Ms.(1.0) Berkley(1.0) )(0.0) ,(0.0) my(0.0) friend(0.0) ,(0.0) who(0.0) is(0.0) 
+an(0.0) attorney(0.0) married(1.0) to(0.0) a(0.0) physician(0.0) ,(0.0) who(0.0) has(0.0) studied(0.0) this(0.0) problem(0.0) actively(0.0) and(0.0) carefully(0.0) over(0.0) a(0.0) period(0.0) of(0.0) time(0.0) 
+,(0.0) coming(0.0) from(0.0) a(0.0) State(0.0) with(0.0) dramatic(0.0) problems(0.0) .(0.0) ((0.0) Ms.(1.0) BERKLEY(1.0) asked(0.0) and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) revise(0.0) and(0.0) 
+extend(0.0) her(0.0) remarks(0.0) .(0.0) )(0.0) 
+
+
+----- below are rationale words -----
+
+Nevada	Ms.	Berkley	
+married	
+Ms.	BERKLEY	
+
+
+reads % = 0.09090909090909091

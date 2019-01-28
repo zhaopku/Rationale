@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) my(0.0) amendment(1.0) would(1.0) strike(1.0) from(0.0) the(0.0) bill(1.0) those(0.0) provisions(1.0) giving(0.0) the(0.0) Office(0.0) of(0.0) Information(0.0) and(0.0) Regulatory(0.0) Affairs(0.0) authority(0.0) to(0.0) 
+block(0.0) regulations(0.0) concerning(0.0) so-called(0.0) third-party(0.0) communications(0.0) .(0.0) These(0.0) regulations(1.0) involve(0.0) requirements(0.0) for(0.0) companies(0.0) to(0.0) provide(0.0) notifications(0.0) to(0.0) third(0.0) parties(0.0) ,(0.0) 
+for(0.0) example(0.0) ,(0.0) their(0.0) workers(1.0) ,(0.0) about(0.0) matters(0.0) such(0.0) as(0.0) safety(0.0) problems(0.0) in(0.0) the(0.0) workplace(1.0) .(0.0) Let(0.0) me(0.0) discuss(0.0) the(0.0) 
+history(0.0) of(0.0) this(0.0) issue(0.0) and(0.0) explain(0.0) why(0.0) it(0.0) is(0.0) so(0.0) important(0.0) .(0.0) OSHA(1.0) issued(0.0) a(0.0) rule(0.0) in(0.0) 1987(0.0) to(0.0) private(0.0) 
+companies(0.0) requiring(0.0) that(0.0) they(0.0) post(0.0) signs(0.0) in(0.0) the(0.0) workplace(0.0) to(0.0) notify(0.0) workers(1.0) of(0.0) the(0.0) chemical(0.0) hazards(1.0) that(0.0) they(0.0) may(0.0) face(0.0) 
+.(0.0) After(0.0) some(0.0) companies(1.0) complained(0.0) to(0.0) OMB(1.0) ,(0.0) its(0.0) Office(0.0) of(0.0) Information(0.0) and(0.0) Regulatory(0.0) Affairs(0.0) ,(0.0) using(0.0) the(0.0) Paperwork(0.0) Reduction(0.0) 
+Act(0.0) as(0.0) its(0.0) authority(0.0) ,(0.0) overturned(1.0) the(0.0) rule(1.0) .(0.0) OMB(0.0) claimed(0.0) that(0.0) the(0.0) signs(0.0) posted(0.0) for(0.0) the(0.0) workers(1.0) were(0.0) covered(0.0) 
+by(0.0) the(0.0) act(0.0) ,(0.0) and(0.0) thus(0.0) were(0.0) a(0.0) paperwork(0.0) burden(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) we(0.0) are(0.0) talking(0.0) about(0.0) a(0.0) small(0.0) 
+poster(0.0) telling(0.0) workers(1.0) of(0.0) the(0.0) hazards(0.0) in(0.0) the(0.0) workplace(1.0) .(0.0) Removing(0.0) these(0.0) warnings(0.0) is(0.0) not(0.0) paperwork(0.0) reduction(1.0) ,(0.0) it(0.0) is(0.0) 
+safety(0.0) reduction(1.0) .(0.0) Yet(0.0) OMB(1.0) ,(0.0) in(0.0) the(0.0) name(0.0) of(0.0) paperwork(1.0) reduction(1.0) ,(0.0) said(0.0) that(0.0) employers(1.0) do(0.0) not(0.0) have(0.0) to(0.0) 
+warn(0.0) workers(1.0) about(0.0) the(0.0) hazards(1.0) they(0.0) face(0.0) at(0.0) work(0.0) .(0.0) The(0.0) Steelworkers(1.0) ,(0.0) on(0.0) the(0.0) other(0.0) hand(0.0) ,(0.0) believe(0.0) workers(1.0) 
+have(0.0) a(0.0) right(0.0) to(0.0) that(0.0) information(0.0) ,(0.0) and(0.0) challenged(1.0) that(0.0) authority(0.0) in(0.0) court(0.0) .(0.0) The(0.0) Supreme(1.0) Court(0.0) in(0.0) 1990(0.0) agreed(0.0) 
+in(0.0) a(0.0) decision(0.0) known(0.0) as(0.0) Dole(0.0) versus(1.0) the(0.0) United(0.0) Steelworkers(1.0) of(0.0) America(0.0) and(0.0) found(0.0) that(0.0) OMB(1.0) had(0.0) no(0.0) authority(0.0) over(0.0) 
+these(0.0) notifications(0.0) .(0.0) Now(0.0) ,(0.0) this(0.0) bill(1.0) overturns(1.0) that(0.0) hard(0.0) fought(1.0) victory(1.0) of(0.0) the(0.0) workers(1.0) .(0.0) Overturning(1.0) Dole(1.0) ,(0.0) as(1.0) 
+this(0.0) bill(1.0) does(1.0) ,(0.0) says(0.0) to(0.0) workers(1.0) that(0.0) relieving(0.0) the(0.0) paperwork(1.0) burden(1.0) on(0.0) business(0.0) is(0.0) more(0.0) important(0.0) than(0.0) their(0.0) health(1.0) 
+and(0.0) safety(0.0) on(0.0) the(0.0) job(0.0) .(0.0) Overturning(1.0) Dole(1.0) opens(1.0) the(1.0) door(1.0) for(1.0) political(1.0) influence(1.0) to(1.0) prevail(1.0) over(1.0) scientific(1.0) judgment(1.0) within(0.0) 
+the(0.0) corridors(1.0) of(0.0) the(0.0) Office(0.0) of(0.0) Management(0.0) and(0.0) Budget(0.0) .(0.0) Overturning(1.0) Dole(1.0) opens(1.0) the(1.0) door(1.0) for(1.0) political(1.0) favoritism(1.0) over(1.0) common(1.0) 
+sense(1.0) .(1.0) A(1.0) number(0.0) of(1.0) justifications(1.0) are(0.0) given(1.0) for(1.0) overturning(1.0) Dole(1.0) ,(1.0) but(1.0) each(1.0) is(1.0) a(0.0) smoke(0.0) screen(0.0) to(0.0) hide(0.0) 
+the(0.0) fact(0.0) that(0.0) the(0.0) back(0.0) door(0.0) has(0.0) been(0.0) opened(0.0) for(0.0) businesses(1.0) to(0.0) plead(1.0) their(0.0) case(0.0) in(0.0) private(0.0) after(0.0) losing(0.0) before(0.0) 
+an(0.0) agency(0.0) .(0.0) The(0.0) issue(0.0) in(0.0) this(0.0) case(0.0) was(0.0) not(0.0) the(0.0) paperwork(1.0) ,(0.0) but(0.0) not(0.0) want(0.0) to(0.0) tell(0.0) their(0.0) employees(0.0) 
+about(0.0) the(0.0) hazards(1.0) at(0.0) the(0.0) workplace(0.0) .(0.0) The(0.0) content(0.0) and(0.0) context(0.0) of(0.0) the(0.0) Dole(1.0) case(1.0) make(1.0) most(1.0) reasonable(1.0) people(0.0) worry(0.0) 
+about(0.0) giving(0.0) more(0.0) power(0.0) to(0.0) OMB(1.0) .(0.0) If(0.0) OMB(1.0) will(0.0) cancel(0.0) requirements(0.0) to(0.0) post(0.0) the(0.0) presence(0.0) of(0.0) hazardous(1.0) chemicals(1.0) ,(0.0) 
+what(0.0) else(0.0) will(0.0) they(0.0) do(0.0) ?(0.0) Will(0.0) this(0.0) authority(1.0) be(0.0) used(0.0) to(0.0) cancel(0.0) notification(0.0) on(0.0) the(0.0) safety(0.0) of(0.0) children(0.0) 's(0.0) 
+toys(0.0) ?(0.0) Will(0.0) it(0.0) be(0.0) used(0.0) to(0.0) remove(0.0) the(0.0) hazard(1.0) warnings(1.0) from(0.0) packs(0.0) of(0.0) cigarettes(1.0) ?(0.0) If(0.0) the(0.0) safety(0.0) of(0.0) 
+the(0.0) work(0.0) place(0.0) is(0.0) not(0.0) beyond(0.0) reach(0.0) ,(0.0) then(0.0) very(0.0) little(0.0) is(0.0) .(0.0) Of(0.0) course(0.0) ,(0.0) others(0.0) greet(0.0) this(0.0) 
+
+
+----- below are rationale words -----
+
+amendment	would	strike	bill	provisions	
+regulations	
+workers	workplace	
+OSHA	
+workers	hazards	
+companies	OMB	
+overturned	rule	workers	
+Chairman	
+workers	workplace	reduction	
+reduction	OMB	paperwork	reduction	employers	
+workers	hazards	Steelworkers	workers	
+challenged	Supreme	
+versus	Steelworkers	OMB	
+bill	overturns	fought	victory	workers	Overturning	Dole	as	
+bill	does	workers	paperwork	burden	health	
+Overturning	Dole	opens	the	door	for	political	influence	to	prevail	over	scientific	judgment	
+corridors	Overturning	Dole	opens	the	door	for	political	favoritism	over	common	
+sense	.	A	of	justifications	given	for	overturning	Dole	,	but	each	is	
+businesses	plead	
+paperwork	
+hazards	Dole	case	make	most	reasonable	
+OMB	OMB	hazardous	chemicals	
+authority	
+hazard	warnings	cigarettes	
+
+
+reads % = 0.204

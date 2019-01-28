@@ -1,0 +1,34 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) would(0.0) say(0.0) to(0.0) the(0.0) gentleman(0.0) and(0.0) to(0.0) my(0.0) friends(0.0) on(0.0) the(0.0) other(0.0) side(0.0) of(0.0) the(0.0) aisle(0.0) that(0.0) they(0.0) 've(0.0) all(0.0) 
+been(0.0) long(0.0) enough(0.0) here(0.0) to(0.0) add(0.0) to(0.0) the(0.0) mess(1.0) ,(0.0) and(0.0) cleaning(0.0) up(0.0) the(0.0) mess(1.0) means(0.0) supporting(0.0) bills(1.0) like(0.0) this(0.0) 
+that(0.0) will(0.0) create(0.0) American(0.0) jobs(1.0) ,(0.0) that(0.0) will(0.0) protect(1.0) American(0.0) jobs(1.0) .(0.0) This(0.0) is(0.0) an(0.0) important(0.0) bill(1.0) .(0.0) Again(0.0) ,(0.0) 
+for(0.0) the(0.0) life(0.0) of(0.0) me(0.0) ,(0.0) I(0.0) do(0.0) n't(0.0) understand(0.0) why(0.0) there(0.0) is(0.0) controversy(0.0) over(0.0) a(0.0) bill(1.0) to(0.0) invest(1.0) in(0.0) 
+America(1.0) ,(0.0) to(0.0) invest(1.0) in(0.0) our(0.0) workers(1.0) ,(0.0) to(0.0) help(0.0) lower(0.0) utility(0.0) costs(1.0) for(0.0) small(0.0) businesses(1.0) ,(0.0) for(0.0) individuals(0.0) ,(0.0) 
+for(0.0) family(0.0) farms(0.0) .(0.0) This(0.0) is(0.0) not(0.0) adding(0.0) to(0.0) our(0.0) deficit(1.0) one(0.0) penny(1.0) .(0.0) This(0.0) is(0.0) a(0.0) loan(0.0) program(0.0) to(0.0) 
+help(0.0) people(0.0) weatherize(1.0) ,(0.0) you(0.0) know(0.0) ,(0.0) their(0.0) homes(0.0) ,(0.0) and(0.0) that(0.0) 's(0.0) whether(0.0) it(0.0) 's(0.0) a(0.0) mobile(0.0) home(0.0) ,(0.0) 
+a(0.0) farm(0.0) or(0.0) a(0.0) small(0.0) business(0.0) .(0.0) You(0.0) know(0.0) ,(0.0) over(0.0) 90(0.0) percent(0.0) of(0.0) what(0.0) is(0.0) needed(0.0) to(0.0) do(0.0) that(0.0) 
+is(0.0) made(0.0) in(0.0) America(1.0) .(0.0) Why(0.0) is(0.0) that(0.0) a(0.0) problem(0.0) ?(0.0) Why(0.0) do(0.0) you(0.0) have(0.0) a(0.0) problem(0.0) with(0.0) investing(1.0) in(0.0) 
+programs(1.0) that(0.0) create(0.0) American(0.0) jobs(1.0) ?(0.0) I(0.0) mean(0.0) ,(0.0) that(0.0) 's(0.0) what(0.0) this(0.0) is(0.0) about(0.0) .(0.0) You(0.0) know(0.0) ,(0.0) again(0.0) 
+,(0.0) the(0.0) Republicans(1.0) voted(1.0) 170-1(1.0) to(1.0) protect(1.0) tax(1.0) breaks(1.0) for(1.0) companies(1.0) shipping(1.0) American(1.0) jobs(1.0) overseas(1.0) ,(1.0) and(1.0) 95(1.0) percent(1.0) of(1.0) 
+House(1.0) Republicans(1.0) have(1.0) signed(1.0) a(1.0) pledge(1.0) to(1.0) protect(1.0) these(1.0) tax(1.0) breaks(1.0) .(1.0) Enough(1.0) of(1.0) that(1.0) .(1.0) It(1.0) is(1.0) time(1.0) to(1.0) 
+invest(1.0) in(1.0) American(1.0) workers(1.0) .(1.0) I(0.0) reserve(1.0) the(1.0) balance(1.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+mess	mess	bills	
+jobs	protect	jobs	bill	
+bill	invest	
+America	invest	workers	costs	businesses	
+deficit	penny	
+weatherize	
+
+America	investing	
+programs	jobs	
+Republicans	voted	170-1	to	protect	tax	breaks	for	companies	shipping	American	jobs	overseas	,	and	95	percent	of	
+House	Republicans	have	signed	a	pledge	to	protect	these	tax	breaks	.	Enough	of	that	.	It	is	time	to	
+invest	in	American	workers	.	reserve	the	balance	
+
+reads % = 0.2637795275590551

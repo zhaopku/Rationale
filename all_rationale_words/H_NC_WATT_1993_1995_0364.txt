@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+It(0.0) was(0.0) not(0.0) until(0.0) the(0.0) gentlewoman(0.0) from(0.0) North(0.0) Carolina(0.0) Eva(0.0) Clayton(1.0) ,(0.0) my(0.0) colleague(0.0) ,(0.0) and(0.0) I(0.0) were(0.0) elected(0.0) in(0.0) 1992(0.0) 
+,(0.0) 91(0.0) years(0.0) later(0.0) ,(0.0) that(0.0) an(0.0) African-(0.0) American(0.0) was(0.0) elected(0.0) to(0.0) Congress(0.0) from(0.0) the(0.0) State(0.0) of(0.0) North(0.0) Carolina(0.0) .(0.0) 
+So(0.0) ,(0.0) the(0.0) point(0.0) I(0.0) am(0.0) making(0.0) ,(0.0) and(0.0) I(0.0) will(0.0) yield(0.0) back(0.0) to(0.0) you(0.0) all(0.0) to(0.0) carry(0.0) this(0.0) on(0.0) 
+,(0.0) is(0.0) this(0.0) is(0.0) not(0.0) a(0.0) new(0.0) phenomenon(0.0) .(0.0) We(0.0) have(0.0) been(0.0) fighting(0.0) this(0.0) battle(1.0) since(0.0) years(0.0) and(0.0) years(0.0) and(0.0) 
+years(0.0) ago(0.0) ,(0.0) and(0.0) we(0.0) fought(1.0) it(0.0) in(0.0) the(0.0) face(0.0) of(0.0) literacy(1.0) tests(0.0) ,(0.0) where(0.0) people(0.0) were(0.0) required(0.0) to(0.0) read(0.0) 
+and(0.0) interpret(0.0) documents(0.0) before(0.0) they(0.0) were(0.0) allowed(0.0) to(0.0) vote(1.0) ;(0.0) grandfather(0.0) clauses(1.0) ,(0.0) which(0.0) prohibited(1.0) people(0.0) from(0.0) voting(1.0) unless(0.0) their(0.0) 
+grandfathers(1.0) had(0.0) voted(0.0) ,(0.0) keeping(0.0) freed(1.0) slaves(1.0) from(0.0) casting(0.0) ballots(1.0) ;(0.0) poll(0.0) taxes(1.0) which(0.0) kept(0.0) poor(0.0) people(0.0) ,(0.0) blacks(1.0) and(0.0) 
+whites(0.0) alike(0.0) ,(0.0) from(0.0) voting(1.0) ;(0.0) lynchings(1.0) ,(0.0) which(0.0) were(0.0) flourishing(0.0) throughout(0.0) the(0.0) South(0.0) ,(0.0) and(0.0) now(0.0) in(0.0) that(0.0) historical(0.0) 
+context(0.0) ,(0.0) the(0.0) Supreme(1.0) Court(0.0) would(0.0) ask(0.0) us(0.0) to(0.0) be(0.0) color-blind(1.0) as(0.0) a(0.0) Nation(0.0) and(0.0) go(0.0) back(0.0) to(0.0) a(0.0) situation(0.0) 
+where(0.0) we(0.0) are(0.0) absent(0.0) minority(1.0) representation(1.0) in(0.0) Congress(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Clayton	
+
+
+battle	
+fought	literacy	
+vote	clauses	prohibited	voting	
+grandfathers	freed	slaves	ballots	taxes	blacks	
+voting	lynchings	
+Supreme	color-blind	
+minority	representation	Congress	
+
+reads % = 0.11052631578947368

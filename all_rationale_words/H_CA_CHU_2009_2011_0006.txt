@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+In(0.0) fact(0.0) ,(0.0) they(0.0) have(0.0) n't(0.0) even(0.0) put(0.0) a(0.0) jobs(0.0) bill(0.0) on(0.0) the(0.0) House(0.0) floor(0.0) .(0.0) Instead(0.0) ,(0.0) they(0.0) are(0.0) focusing(0.0) 
+on(0.0) partisan(1.0) priorities(1.0) that(0.0) just(0.0) do(0.0) n't(0.0) help(0.0) the(0.0) country(1.0) come(0.0) out(0.0) of(0.0) this(0.0) recession(1.0) .(0.0) Instead(0.0) of(0.0) putting(0.0) people(0.0) 
+back(0.0) to(0.0) work(0.0) ,(0.0) they(0.0) are(0.0) restricting(1.0) women(1.0) 's(0.0) reproductive(1.0) rights(1.0) .(0.0) Next(0.0) week(0.0) they(0.0) will(0.0) gut(1.0) Title(1.0) X(0.0) funding(1.0) 
+for(0.0) family(0.0) planning(0.0) .(0.0) This(0.0) Federal(1.0) money(1.0) is(0.0) a(0.0) critical(0.0) health(1.0) care(1.0) safety(1.0) net(0.0) for(0.0) women(1.0) around(0.0) the(0.0) country(1.0) .(0.0) 
+It(0.0) has(0.0) helped(0.0) improve(0.0) the(0.0) quality(0.0) of(0.0) women(1.0) 's(0.0) health(1.0) ,(0.0) given(0.0) women(1.0) free(0.0) choice(0.0) ,(0.0) and(0.0) also(0.0) saved(0.0) lives(0.0) 
+.(0.0) Title(0.0) X(0.0) helps(0.0) low-income(1.0) women(1.0) afford(1.0) Pap(0.0) smears(1.0) and(0.0) STD(1.0) testing(0.0) .(0.0) It(0.0) helps(0.0) reduce(1.0) unintended(1.0) births(1.0) and(0.0) abortions(1.0) 
+.(0.0) And(0.0) who(0.0) does(0.0) n't(0.0) want(0.0) to(0.0) do(0.0) that(0.0) ?(0.0) It(0.0) 's(0.0) month(0.0) 1(0.0) ;(0.0) and(0.0) instead(0.0) of(0.0) working(0.0) on(0.0) 
+the(0.0) economy(1.0) ,(0.0) they(0.0) are(0.0) working(0.0) to(0.0) limit(1.0) women(1.0) 's(0.0) personal(0.0) choices(0.0) .(0.0) Instead(0.0) of(0.0) doing(0.0) the(0.0) bidding(1.0) of(0.0) ideological(1.0) 
+extremists(1.0) ,(0.0) let(0.0) 's(0.0) join(0.0) together(0.0) and(0.0) address(0.0) the(0.0) real(0.0) needs(0.0) of(0.0) the(0.0) American(0.0) people(0.0) --(0.0) jobs(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+partisan	priorities	country	recession	
+restricting	women	reproductive	rights	gut	Title	funding	
+Federal	money	health	care	safety	women	country	
+women	health	women	
+low-income	women	afford	smears	STD	reduce	unintended	births	abortions	
+
+economy	limit	women	bidding	ideological	
+extremists	
+
+reads % = 0.2011173184357542

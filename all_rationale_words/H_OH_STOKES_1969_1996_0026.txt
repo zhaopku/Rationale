@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) it(0.0) is(0.0) the(0.0) intention(0.0) of(0.0) this(0.0) Member(0.0) and(0.0) others(0.0) that(0.0) the(0.0) Department(0.0) have(0.0) the(0.0) authority(0.0) to(0.0) address(0.0) all(0.0) forms(0.0) 
+of(0.0) discrimination(0.0) under(0.0) the(0.0) Fair(0.0) Housing(0.0) Act(0.0) ,(0.0) sometimes(0.0) referred(0.0) to(0.0) as(0.0) title(0.0) VIII(0.0) of(0.0) the(0.0) 1968(0.0) Civil(0.0) Rights(0.0) Act(0.0) 
+,(0.0) as(0.0) the(0.0) Act(0.0) has(0.0) been(0.0) interpreted(0.0) by(0.0) the(0.0) Federal(0.0) courts(0.0) .(0.0) I(0.0) am(0.0) concerned(0.0) that(0.0) these(0.0) issues(0.0) have(0.0) been(0.0) 
+addressed(0.0) in(0.0) report(0.0) language(0.0) without(0.0) the(0.0) opportunity(0.0) for(0.0) hearings(1.0) on(0.0) the(0.0) matters(0.0) involved(0.0) and(0.0) involving(0.0) matters(0.0) upon(0.0) which(0.0) there(0.0) is(0.0) 
+substantial(0.0) disagreement(0.0) between(0.0) Members(0.0) .(0.0) They(0.0) are(0.0) an(0.0) attempt(0.0) to(0.0) revise(0.0) the(0.0) history(0.0) of(0.0) this(0.0) body(0.0) to(0.0) deal(0.0) with(0.0) an(0.0) 
+important(0.0) substantive(1.0) issue(0.0) involving(0.0) civil(1.0) rights(1.0) that(0.0) are(0.0) critical(1.0) to(0.0) all(0.0) of(0.0) our(0.0) citizens(1.0) .(0.0) These(0.0) issues(0.0) involve(0.0) matters(0.0) which(0.0) 
+have(0.0) traditionally(0.0) been(0.0) outside(0.0) the(0.0) purview(1.0) of(0.0) this(0.0) committee(0.0) and(0.0) more(0.0) properly(0.0) dealt(0.0) with(0.0) in(0.0) legislation(1.0) other(0.0) than(0.0) appropriation(1.0) legislation(1.0) 
+.(0.0) They(0.0) deserve(1.0) the(0.0) careful(0.0) debate(1.0) and(0.0) consideration(0.0) that(0.0) this(0.0) body(0.0) has(0.0) provided(0.0) to(0.0) such(0.0) issues(0.0) in(0.0) the(0.0) past(0.0) .(0.0) 
+I(0.0) thank(0.0) my(0.0) distinguished(0.0) chairman(0.0) for(0.0) participating(0.0) in(0.0) this(0.0) colloquy(0.0) with(0.0) me(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+
+hearings	
+
+substantive	civil	rights	critical	citizens	
+purview	legislation	appropriation	legislation	
+deserve	debate	
+
+
+reads % = 0.06896551724137931

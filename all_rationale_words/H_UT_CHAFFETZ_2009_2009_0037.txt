@@ -1,0 +1,36 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) Americans(0.0) are(0.0) concerned(0.0) not(0.0) only(0.0) about(0.0) the(0.0) safety(0.0) of(0.0) their(0.0) food(1.0) but(0.0) their(0.0) ability(0.0) to(0.0) put(0.0) food(1.0) on(0.0) their(0.0) 
+tables(0.0) .(0.0) So(0.0) it(0.0) makes(0.0) no(0.0) sense(0.0) that(0.0) the(0.0) Food(0.0) and(0.0) Drug(1.0) Administration(0.0) has(0.0) mandated(1.0) change(0.0) to(0.0) dietary(0.0) supplement(0.0) labels(0.0) 
+which(0.0) will(0.0) add(0.0) no(0.0) safety(0.0) benefits(0.0) or(0.0) protections(1.0) to(0.0) consumers(1.0) .(0.0) These(0.0) forced(1.0) changes(0.0) will(0.0) result(0.0) in(0.0) higher(1.0) prices(1.0) for(0.0) 
+vitamins(1.0) and(0.0) minerals(1.0) many(0.0) Americans(1.0) rely(0.0) on(0.0) to(0.0) maintain(0.0) a(0.0) healthy(0.0) diet(0.0) and(0.0) lifestyle(0.0) .(0.0) In(0.0) December(0.0) of(0.0) 2006(0.0) ,(0.0) 
+the(0.0) Dietary(1.0) Supplement(0.0) and(0.0) Nonprescription(0.0) Drug(1.0) Consumer(0.0) Protection(0.0) Act(0.0) was(0.0) passed(0.0) into(0.0) law(1.0) .(0.0) The(0.0) law(1.0) requires(0.0) mandatory(1.0) reporting(0.0) of(0.0) 
+serious(0.0) adverse(0.0) events(0.0) .(0.0) That(0.0) is(0.0) a(0.0) good(0.0) thing(0.0) .(0.0) But(0.0) the(0.0) FDA(1.0) has(0.0) now(0.0) mandated(1.0) label(0.0) changes(0.0) which(0.0) they(0.0) 
+'re(0.0) only(0.0) giving(0.0) the(0.0) industry(1.0) 1(0.0) year(0.0) to(0.0) comply(0.0) with(0.0) .(0.0) Industry(0.0) will(0.0) make(0.0) the(0.0) required(0.0) changes(0.0) in(0.0) their(0.0) labels(0.0) 
+,(0.0) but(0.0) forcing(1.0) them(0.0) to(0.0) do(0.0) so(0.0) in(0.0) less(0.0) than(0.0) 9(0.0) months(0.0) is(0.0) not(0.0) the(0.0) answer(0.0) .(0.0) Keep(0.0) in(0.0) mind(0.0) 
+,(0.0) however(0.0) ,(0.0) the(0.0) law(1.0) underlying(1.0) this(0.0) guidance(0.0) did(0.0) not(0.0) require(0.0) any(0.0) label(0.0) changes(0.0) .(0.0) It(0.0) was(0.0) the(0.0) FDA(1.0) 's(0.0) 
+decision(0.0) ,(0.0) independent(0.0) of(0.0) legislation(1.0) ,(0.0) to(0.0) force(1.0) these(0.0) changes(0.0) on(0.0) supplement(1.0) producers(1.0) .(0.0) And(0.0) what(0.0) is(0.0) the(0.0) price(0.0) tag(0.0) 
+for(0.0) these(0.0) required(0.0) changes(0.0) ?(0.0) According(0.0) to(0.0) the(0.0) FDA(1.0) 's(0.0) own(0.0) documents(0.0) ,(0.0) compliance(1.0) would(0.0) exceed(0.0) $(0.0) 220(0.0) million(0.0) .(0.0) 
+Not(0.0) a(0.0) small(0.0) amount(0.0) in(0.0) today(0.0) 's(0.0) business(0.0) environment(0.0) .(0.0) Clearly(0.0) ,(0.0) now(0.0) is(0.0) the(0.0) not(0.0) the(0.0) time(0.0) for(0.0) our(0.0) 
+government(1.0) to(0.0) find(0.0) ways(0.0) to(0.0) needlessly(1.0) increase(1.0) costs(1.0) for(0.0) consumers(1.0) ,(0.0) especially(0.0) when(0.0) these(0.0) mandates(1.0) provide(0.0) no(0.0) added(0.0) benefits(1.0) or(0.0) 
+protections(1.0) for(0.0) consumers(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+food	food	
+Drug	mandated	
+protections	consumers	forced	higher	prices	
+vitamins	minerals	Americans	
+Dietary	Drug	law	law	mandatory	
+FDA	mandated	
+industry	
+forcing	
+law	underlying	FDA	
+legislation	force	supplement	producers	
+FDA	compliance	
+
+government	needlessly	increase	costs	consumers	mandates	benefits	
+protections	consumers	
+
+reads % = 0.1471698113207547

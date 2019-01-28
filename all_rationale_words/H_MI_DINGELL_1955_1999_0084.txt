@@ -1,0 +1,36 @@
+This is from a Democrat
+----- below is the original text -----
+((0.0) Mr.(0.0) DINGELL(1.0) asked(0.0) and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) )(0.0) It(0.0) will(0.0) ensure(0.0) that(0.0) the(0.0) 
+National(0.0) Instant(0.0) Criminal(0.0) Background(0.0) Check(0.0) System(0.0) ,(0.0) NICS(0.0) ,(0.0) will(0.0) catch(0.0) more(0.0) criminals(1.0) and(0.0) it(0.0) will(0.0) ensure(0.0) that(0.0) the(0.0) system(0.0) 
+works(0.0) properly(0.0) as(0.0) the(0.0) Congress(0.0) intended(0.0) .(0.0) The(0.0) Instant(0.0) Check(0.0) System(0.0) took(0.0) 5(0.0) years(0.0) to(0.0) build(0.0) and(0.0) cost(0.0) roughly(0.0) a(0.0) 
+quarter(0.0) of(0.0) a(0.0) billion(0.0) dollars(1.0) of(0.0) the(0.0) taxpayers(1.0) '(0.0) money(0.0) .(0.0) However(0.0) ,(0.0) despite(0.0) the(0.0) time(0.0) and(0.0) money(1.0) expended(0.0) ,(0.0) 
+the(0.0) system(0.0) is(0.0) not(0.0) working(0.0) .(0.0) The(0.0) FBI(1.0) has(0.0) stated(0.0) that(0.0) 1,700(0.0) prohibited(1.0) purchasers(1.0) have(0.0) received(0.0) firearms(0.0) because(0.0) the(0.0) Federal(1.0) 
+system(1.0) does(0.0) not(0.0) have(0.0) all(0.0) the(0.0) records(0.0) it(0.0) needs(0.0) .(0.0) The(0.0) New(1.0) York(1.0) Times(1.0) reports(0.0) that(0.0) Colorado(1.0) has(0.0) stopped(0.0) using(0.0) 
+the(0.0) Federal(1.0) system(1.0) because(0.0) it(0.0) is(0.0) incomplete(0.0) .(0.0) States(0.0) are(0.0) not(0.0) carrying(0.0) out(0.0) their(0.0) responsibilities(0.0) under(0.0) this(0.0) .(0.0) The(0.0) amendment(1.0) 
+would(0.0) fix(1.0) these(0.0) problems(0.0) .(0.0) Quite(0.0) simply(0.0) ,(0.0) it(0.0) would(0.0) require(0.0) States(0.0) to(0.0) certify(0.0) quarterly(0.0) that(0.0) 95(0.0) percent(0.0) of(0.0) all(0.0) 
+available(0.0) records(0.0) are(0.0) in(0.0) the(0.0) national(0.0) criminal(0.0) database(0.0) .(0.0) By(0.0) demanding(0.0) accountability(1.0) from(0.0) the(0.0) States(0.0) ,(0.0) the(0.0) Congress(0.0) will(0.0) ensure(0.0) 
+that(0.0) FBI(1.0) background(0.0) checks(0.0) will(0.0) be(0.0) complete(0.0) ,(0.0) accurate(0.0) and(0.0) thorough(0.0) .(0.0) If(0.0) that(0.0) can(0.0) be(0.0) accomplished(0.0) ,(0.0) fewer(0.0) criminals(1.0) 
+will(0.0) slip(0.0) through(0.0) the(0.0) cracks(0.0) and(0.0) the(0.0) national(1.0) system(0.0) of(0.0) instant(0.0) checks(0.0) will(0.0) work(0.0) .(0.0) I(0.0) would(0.0) like(0.0) to(0.0) think(0.0) 
+of(0.0) my(0.0) amendment(1.0) as(0.0) putting(0.0) ``(0.0) instant(0.0) ''(0.0) back(0.0) into(0.0) instant(0.0) check(0.0) .(0.0) There(0.0) will(0.0) be(0.0) more(0.0) records(0.0) ,(0.0) better(0.0) 
+records(0.0) and(0.0) citizens(1.0) will(0.0) not(0.0) face(0.0) unnecessary(1.0) delays(1.0) .(0.0) This(0.0) is(0.0) how(0.0) the(0.0) Congress(0.0) intended(0.0) it(0.0) to(0.0) work(0.0) .(0.0) Mr.(0.0) 
+Chairman(1.0) ,(0.0) I(0.0) yield(0.0) to(0.0) the(0.0) distinguished(0.0) gentleman(0.0) from(0.0) Wisconsin(1.0) ((0.0) Mr.(0.0) Obey(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+DINGELL	
+criminals	
+
+dollars	taxpayers	money	
+FBI	prohibited	purchasers	Federal	
+system	New	York	Times	Colorado	
+Federal	system	amendment	
+fix	
+accountability	
+FBI	criminals	
+national	
+amendment	
+citizens	unnecessary	delays	
+Chairman	Wisconsin	Obey	
+
+reads % = 0.10507246376811594

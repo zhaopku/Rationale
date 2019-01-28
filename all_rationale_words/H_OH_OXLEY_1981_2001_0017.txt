@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) have(0.0) no(0.0) further(0.0) requests(0.0) for(0.0) time(0.0) ,(0.0) and(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) The(0.0) 
+SPEAKER(0.0) pro(0.0) tempore(0.0) ((1.0) Mr.(0.0) Shays(1.0) )(0.0) .(0.0) The(0.0) question(0.0) is(0.0) on(0.0) the(0.0) motion(0.0) offered(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) Ohio(1.0) 
+((0.0) Mr.(0.0) Oxley(1.0) )(0.0) that(1.0) the(0.0) House(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) pass(0.0) the(0.0) bill(0.0) ,(0.0) H.R(0.0) .(0.0) 974(0.0) ,(0.0) as(0.0) 
+amended(0.0) .(0.0) The(0.0) question(0.0) was(0.0) taken(0.0) ;(0.0) and(0.0) ((0.0) two-thirds(0.0) having(0.0) voted(0.0) in(0.0) favor(0.0) thereof(0.0) )(0.0) the(0.0) rules(0.0) were(0.0) suspended(0.0) 
+and(0.0) the(0.0) bill(0.0) ,(0.0) as(0.0) amended(0.0) ,(0.0) was(0.0) passed(0.0) .(0.0) The(0.0) title(0.0) of(0.0) the(0.0) bill(0.0) was(0.0) amended(0.0) so(0.0) as(0.0) to(0.0) 
+read(0.0) :(0.0) Amend(0.0) the(0.0) title(0.0) so(0.0) as(0.0) to(0.0) read(0.0) ``(0.0) A(0.0) bill(0.0) to(0.0) repeal(0.0) the(0.0) prohibition(1.0) on(0.0) the(0.0) payment(0.0) of(0.0) 
+interest(0.0) on(0.0) demand(0.0) deposits(0.0) ,(0.0) to(0.0) increase(0.0) the(0.0) number(0.0) of(0.0) interaccount(0.0) transfers(0.0) which(0.0) may(0.0) be(0.0) made(0.0) from(0.0) business(0.0) accounts(0.0) at(0.0) 
+depository(0.0) institutions(0.0) ,(0.0) to(0.0) authorize(0.0) the(0.0) Board(0.0) of(0.0) Governors(0.0) of(0.0) the(0.0) Federal(0.0) Reserve(0.0) System(0.0) to(0.0) pay(0.0) interest(0.0) on(0.0) reserves(0.0) ,(0.0) 
+and(0.0) for(0.0) other(0.0) purposes.(0.0) ''(0.0) .(0.0) A(0.0) motion(0.0) to(0.0) reconsider(0.0) was(0.0) laid(0.0) on(0.0) the(0.0) table(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+(	Shays	Ohio	
+Oxley	that	
+
+
+prohibition	
+
+
+
+
+reads % = 0.03389830508474576

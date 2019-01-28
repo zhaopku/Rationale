@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) was(0.0) unavoidably(0.0) detained(0.0) and(0.0) ,(0.0) regretfully(0.0) ,(0.0) was(0.0) not(0.0) present(0.0) for(0.0) the(0.0) rollcall(1.0) vote(1.0) No(0.0) .(0.0) 273(0.0) on(0.0) 
+yesterday(0.0) 's(0.0) motion(0.0) made(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) Ohio(1.0) [(0.0) Mr.(0.0) Hoke(1.0) ](0.0) to(1.0) proceed(1.0) in(1.0) order(1.0) .(0.0) Had(0.0) I(0.0) 
+been(0.0) present(0.0) I(0.0) would(0.0) have(0.0) voted(0.0) ``(0.0) nay(0.0) .(0.0) ''(0.0) 
+
+
+----- below are rationale words -----
+
+rollcall	vote	
+Ohio	Hoke	to	proceed	in	order	
+
+
+reads % = 0.1568627450980392

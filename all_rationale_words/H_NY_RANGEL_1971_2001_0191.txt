@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) would(0.0) like(0.0) to(0.0) make(0.0) it(0.0) abundantly(0.0) clear(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) Jersey(1.0) ((0.0) Mr.(0.0) Smith(1.0) )(0.0) that(1.0) 
+the(0.0) concept(0.0) that(0.0) I(0.0) think(0.0) is(0.0) disgraceful(1.0) has(0.0) nothing(0.0) to(0.0) do(0.0) with(0.0) individuals(0.0) but(0.0) has(0.0) something(0.0) to(0.0) do(0.0) with(0.0) the(0.0) 
+American(0.0) people(0.0) having(0.0) the(0.0) right(0.0) ,(0.0) in(0.0) my(0.0) opinion(0.0) ,(0.0) to(0.0) visit(0.0) any(0.0) country(1.0) that(0.0) they(0.0) would(0.0) want(0.0) to(0.0) visit(0.0) 
+.(0.0) I(0.0) really(0.0) believe(0.0) that(0.0) it(0.0) is(0.0) very(0.0) bad(0.0) policy(1.0) for(0.0) Americans(1.0) ,(0.0) who(0.0) are(0.0) able(0.0) to(0.0) go(0.0) to(0.0) China(1.0) 
+,(0.0) able(0.0) to(0.0) go(0.0) to(0.0) North(0.0) Korea(0.0) ,(0.0) able(0.0) to(0.0) go(0.0) into(0.0) Moscow(0.0) ,(0.0) to(0.0) be(0.0) able(0.0) to(0.0) say(0.0) that(0.0) 
+we(0.0) are(0.0) this(0.0) fearful(0.0) that(0.0) we(0.0) will(0.0) be(0.0) overwhelmed(0.0) by(0.0) the(0.0) people(0.0) ,(0.0) the(0.0) good(0.0) people(0.0) in(0.0) Cuba(1.0) ,(0.0) or(0.0) 
+by(0.0) Fidel(1.0) Castro(1.0) or(0.0) by(0.0) the(0.0) military(0.0) .(0.0) So(0.0) it(0.0) seems(0.0) to(0.0) me(0.0) that(0.0) it(0.0) is(0.0) really(0.0) offensive(0.0) to(0.0) the(0.0) 
+American(0.0) people(0.0) for(0.0) someone(0.0) to(0.0) say(0.0) that(0.0) they(0.0) have(0.0) such(0.0) little(0.0) confidence(0.0) in(0.0) their(0.0) willpower(0.0) to(0.0) succumb(0.0) to(0.0) communism(1.0) in(0.0) 
+Cuba(1.0) when(0.0) we(0.0) are(0.0) strong(0.0) enough(0.0) ,(0.0) we(0.0) are(0.0) the(0.0) strongest(0.0) Nation(1.0) in(0.0) the(0.0) entire(0.0) world(0.0) ,(0.0) to(0.0) be(0.0) able(0.0) 
+to(0.0) say(0.0) that(0.0) flag(1.0) that(0.0) flies(0.0) so(0.0) hard(0.0) is(0.0) our(0.0) flag(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Jersey	Smith	that	
+disgraceful	
+country	
+policy	Americans	China	
+
+Cuba	
+Fidel	Castro	
+communism	
+Cuba	Nation	
+flag	flag	
+
+reads % = 0.08290155440414508

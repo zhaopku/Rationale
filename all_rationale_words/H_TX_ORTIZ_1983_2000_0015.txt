@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) with(0.0) a(0.0) heavy(0.0) heart(1.0) ,(0.0) I(0.0) rise(1.0) and(0.0) support(0.0) this(0.0) resolution(0.0) before(1.0) the(0.0) House(0.0) today(1.0) to(0.0) commemorate(1.0) the(0.0) life(0.0) 
+and(0.0) service(0.0) of(0.0) our(0.0) colleague(0.0) ,(0.0) Herb(1.0) Bateman(1.0) and(0.0) ,(0.0) at(0.0) this(0.0) time(0.0) ,(0.0) would(1.0) like(0.0) to(0.0) offer(0.0) my(0.0) condolences(0.0) 
+to(0.0) his(0.0) lovely(0.0) wife(1.0) ,(0.0) Laura(1.0) ;(0.0) his(0.0) children(0.0) ;(0.0) and(0.0) his(0.0) grandchildren(1.0) .(0.0) I(0.0) will(0.0) never(0.0) forget(0.0) the(0.0) special(0.0) 
+memories(0.0) I(0.0) made(0.0) with(0.0) Herb(1.0) when(0.0) we(0.0) were(0.0) in(0.0) Europe(1.0) just(0.0) a(0.0) few(0.0) weeks(1.0) ago(0.0) .(0.0) We(0.0) were(0.0) of(0.0) the(0.0) 
+legislative(1.0) delegation(1.0) visiting(0.0) our(0.0) troops(0.0) in(0.0) Scotland(0.0) ,(0.0) Italy(1.0) ,(0.0) and(0.0) Germany(1.0) .(0.0) As(0.0) always(0.0) ,(0.0) Herb(1.0) was(0.0) investigating(0.0) whether(1.0) 
+the(0.0) people(0.0) in(0.0) the(0.0) field(0.0) were(0.0) getting(0.0) the(0.0) equipment(0.0) which(0.0) we(0.0) had(0.0) paid(0.0) for(0.0) .(0.0) In(0.0) Herb(1.0) 's(0.0) service(0.0) ,(0.0) 
+one(0.0) of(0.0) the(0.0) things(0.0) that(0.0) always(0.0) impressed(0.0) me(0.0) was(0.0) the(0.0) attitude(1.0) towards(0.0) the(0.0) soldier(1.0) in(0.0) the(0.0) field(0.0) .(0.0) This(0.0) institution(0.0) 
+can(0.0) be(0.0) rightly(1.0) proud(0.0) that(0.0) the(0.0) Chairman(1.0) of(0.0) our(0.0) Committee(0.0) on(0.0) Armed(0.0) Services(0.0) Subcommittee(0.0) on(0.0) Military(1.0) Readiness(1.0) ,(0.0) of(0.0) which(0.0) 
+I(0.0) was(0.0) his(0.0) ranking(1.0) man(1.0) ,(0.0) was(0.0) led(0.0) by(0.0) a(0.0) man(1.0) so(0.0) completely(0.0) immersed(1.0) in(0.0) the(0.0) needs(0.0) of(0.0) the(0.0) everyday(1.0) 
+soldier(1.0) and(0.0) sailor(1.0) in(0.0) the(0.0) military(1.0) .(0.0) He(0.0) was(0.0) an(0.0) effective(0.0) advocate(1.0) for(0.0) the(0.0) interests(1.0) of(0.0) his(0.0) district(1.0) ,(0.0) to(0.0) 
+be(0.0) sure(1.0) ,(0.0) but(0.0) that(0.0) quiet(0.0) advocacy(1.0) was(0.0) always(0.0) applied(0.0) to(0.0) seeing(0.0) to(0.0) the(0.0) basic(1.0) needs(0.0) of(0.0) those(0.0) who(0.0) wear(0.0) 
+our(0.0) military(1.0) 's(0.0) uniform(1.0) .(0.0) Herb(1.0) was(0.0) a(0.0) real(0.0) gentleman(0.0) .(0.0) Again(1.0) ,(0.0) to(0.0) his(0.0) friends(0.0) and(0.0) family(0.0) ,(0.0) Laura(1.0) 
+,(0.0) I(0.0) offer(0.0) my(0.0) condolences(0.0) .(0.0) Herb(1.0) was(0.0) a(0.0) real(0.0) gentleman(0.0) ,(0.0) and(0.0) he(0.0) treated(0.0) people(0.0) with(0.0) great(0.0) respect(1.0) --(0.0) 
+from(0.0) presidents(1.0) to(0.0) generals(1.0) to(0.0) Capitol(1.0) Hill(1.0) staffers(1.0) to(0.0) new(0.0) recruits(1.0) in(0.0) the(0.0) field(0.0) .(0.0) While(1.0) he(0.0) was(0.0) a(0.0) Republican(1.0) 
+and(1.0) I(0.0) am(0.0) a(0.0) Democrat(1.0) ,(0.0) our(0.0) partisan(1.0) affiliations(1.0) never(0.0) affected(1.0) how(0.0) we(0.0) went(0.0) about(0.0) our(0.0) work(0.0) .(0.0) One(1.0) of(0.0) 
+the(0.0) things(0.0) that(0.0) I(0.0) loved(0.0) most(1.0) about(0.0) Herb(0.0) was(0.0) the(0.0) way(1.0) he(0.0) conducted(1.0) his(0.0) business(1.0) without(0.0) partisan(1.0) rife(1.0) .(0.0) When(1.0) 
+the(0.0) defense(1.0) authorization(0.0) bill(0.0) was(0.0) in(0.0) conference(0.0) ,(0.0) he(0.0) was(0.0) always(0.0) careful(0.0) to(0.0) tend(0.0) to(0.0) the(0.0) needs(0.0) of(0.0) individual(0.0) members(1.0) 
+on(0.0) the(0.0) committee(0.0) --(0.0) which(0.0) I(0.0) appreciated(1.0) very(0.0) much(0.0) .(0.0) We(0.0) did(0.0) business(1.0) the(0.0) same(1.0) way(1.0) that(0.0) way(1.0) --(0.0) the(0.0) 
+national(0.0) defense(0.0) of(0.0) the(0.0) United(0.0) States(0.0) is(0.0) not(0.0) a(0.0) partisan(1.0) endeavor(0.0) .(0.0) Neither(1.0) of(0.0) us(0.0) are(0.0) strident(1.0) partisans(1.0) ,(0.0) and(0.0) 
+working(0.0) toward(0.0) a(0.0) larger(0.0) purpose(0.0) on(0.0) our(0.0) national(0.0) defense(0.0) was(0.0) our(0.0) common(0.0) goal(1.0) .(0.0) When(1.0) we(0.0) were(0.0) in(0.0) the(0.0) field(0.0) 
+,(0.0) he(0.0) was(0.0) dogged(1.0) about(0.0) seeing(0.0) that(0.0) the(0.0) taxpayer(1.0) 's(0.0) money(1.0) was(0.0) well(0.0) spent(0.0) .(0.0) Tonight(1.0) ,(0.0) I(0.0) am(0.0) thinking(1.0) 
+about(0.0) my(0.0) friend(0.0) ,(0.0) Herb(1.0) Bateman(1.0) ,(0.0) but(0.0) my(0.0) sympathies(1.0) are(0.0) with(0.0) his(0.0) beautiful(0.0) family(0.0) ,(0.0) particularly(0.0) his(0.0) lovely(0.0) wife(1.0) 
+Laura(1.0) .(0.0) Laura(1.0) always(0.0) traveled(1.0) with(0.0) Herb(1.0) and(0.0) I(0.0) got(1.0) to(0.0) know(0.0) them(0.0) as(0.0) a(0.0) couple(1.0) ,(0.0) away(0.0) from(0.0) the(0.0) 
+rigors(1.0) of(0.0) Capitol(1.0) Hill(1.0) and(0.0) the(0.0) legislative(1.0) grind(1.0) we(0.0) face(0.0) each(0.0) day(0.0) .(0.0) There(1.0) will(0.0) be(0.0) one(0.0) legacy(0.0) that(0.0) should(0.0) 
+be(0.0) forever(1.0) associated(1.0) with(0.0) Herb(1.0) Bateman(1.0) --(0.0) his(0.0) passion(0.0) and(0.0) his(0.0) commitment(0.0) to(0.0) keeping(0.0) the(0.0) troops(0.0) who(0.0) wear(0.0) the(0.0) 
+
+
+----- below are rationale words -----
+
+heart	rise	before	today	commemorate	
+Herb	Bateman	would	
+wife	Laura	grandchildren	
+Herb	Europe	weeks	
+legislative	delegation	Italy	Germany	Herb	whether	
+Herb	
+attitude	soldier	
+rightly	Chairman	Military	Readiness	
+ranking	man	man	immersed	everyday	
+soldier	sailor	military	advocate	interests	district	
+sure	advocacy	basic	
+military	uniform	Herb	Again	Laura	
+Herb	respect	
+presidents	generals	Capitol	Hill	staffers	recruits	While	Republican	
+and	Democrat	partisan	affiliations	affected	One	
+most	way	conducted	business	partisan	rife	When	
+defense	members	
+appreciated	business	same	way	way	
+partisan	Neither	strident	partisans	
+goal	When	
+dogged	taxpayer	money	Tonight	thinking	
+Herb	Bateman	sympathies	wife	
+Laura	Laura	traveled	Herb	got	couple	
+rigors	Capitol	Hill	legislative	grind	There	
+forever	associated	Herb	Bateman	
+
+reads % = 0.214

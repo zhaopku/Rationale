@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) this(0.0) week(0.0) the(0.0) House(0.0) will(0.0) pass(0.0) a(0.0) bill(0.0) to(1.0) complete(0.0) the(0.0) Keystone(1.0) pipeline(1.0) system(1.0) .(0.0) The(0.0) first(0.0) pipeline(1.0) 
+in(0.0) the(0.0) system(0.0) is(0.0) known(0.0) only(0.0) as(0.0) Keystone(1.0) .(0.0) That(0.0) pipeline(1.0) has(0.0) been(0.0) sending(0.0) 600,000(0.0) barrels(1.0) a(0.0) day(0.0) from(0.0) Canada(0.0) 
+to(0.0) Patoka(1.0) ,(0.0) Illinois(1.0) .(0.0) It(0.0) has(0.0) been(0.0) 4(0.0) years(0.0) and(0.0) counting(0.0) ,(0.0) and(0.0) the(0.0) water(0.0) in(0.0) Nebraska(1.0) is(0.0) still(0.0) 
+clean(0.0) .(0.0) The(0.0) second(0.0) pipeline(1.0) in(0.0) this(0.0) system(0.0) is(0.0) called(0.0) the(0.0) Keystone(1.0) XL(1.0) .(0.0) It(0.0) sends(0.0) the(0.0) same(0.0) oil(1.0) into(0.0) 
+America(1.0) as(0.0) the(0.0) Keystone(1.0) does(0.0) but(0.0) on(0.0) a(0.0) slightly(0.0) longer(0.0) and(0.0) different(0.0) route(0.0) .(0.0) Secretary(1.0) Clinton(1.0) twice(0.0) has(0.0) approved(0.0) Keystone(0.0) 
+XL(1.0) .(0.0) Secretary(0.0) Kerry(1.0) has(0.0) approved(0.0) it(0.0) once(0.0) .(0.0) And(0.0) yet(0.0) the(0.0) Politician(1.0) in(0.0) Chief(0.0) has(0.0) threatened(0.0) to(0.0) veto(1.0) the(0.0) 
+Keystone(1.0) XL(1.0) pipeline(1.0) .(0.0) Canada(0.0) will(0.0) export(1.0) their(0.0) oil(1.0) .(0.0) Either(0.0) it(0.0) comes(0.0) to(0.0) America(1.0) or(0.0) it(0.0) goes(0.0) to(0.0) China(1.0) 
+.(0.0) President(0.0) Obama(1.0) has(0.0) a(0.0) simple(0.0) choice(0.0) :(0.0) oil(1.0) for(0.0) America(1.0) or(0.0) oil(1.0) for(0.0) China(1.0) .(0.0) Oil(1.0) for(0.0) America(1.0) or(0.0) 
+oil(1.0) for(0.0) China(1.0) .(0.0) Please(0.0) join(0.0) Congress(0.0) in(0.0) choosing(0.0) America(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	to	Keystone	pipeline	system	pipeline	
+Keystone	pipeline	barrels	
+Patoka	Illinois	Nebraska	
+pipeline	Keystone	XL	oil	
+America	Keystone	Secretary	Clinton	
+XL	Kerry	Politician	veto	
+Keystone	XL	pipeline	export	oil	America	China	
+Obama	oil	America	oil	China	Oil	America	
+oil	China	America	
+
+reads % = 0.23837209302325582

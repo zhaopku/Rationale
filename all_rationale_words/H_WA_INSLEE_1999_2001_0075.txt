@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) was(0.0) there(0.0) 3(0.0) weeks(0.0) ago(0.0) ,(0.0) and(0.0) I(0.0) have(0.0) come(0.0) to(0.0) the(0.0) well(0.0) to(0.0) say(0.0) that(0.0) those(0.0) who(0.0) 
+say(0.0) that(0.0) the(0.0) Arctic(0.0) Refuge(0.0) is(0.0) a(0.0) barren(0.0) area(0.0) and(0.0) that(0.0) Prudo(0.0) Bay(1.0) is(0.0) a(0.0) wildlife(0.0) refuge(0.0) are(0.0) dead(0.0) wrong(0.0) 
+on(0.0) both(0.0) counts(0.0) .(0.0) My(0.0) grandchildren(0.0) deserve(1.0) to(0.0) hear(0.0) the(0.0) same(0.0) bird(0.0) song(0.0) from(0.0) birds(0.0) from(0.0) all(0.0) 50(0.0) States(0.0) of(0.0) 
+this(0.0) Union(1.0) in(0.0) the(0.0) arctic(0.0) just(0.0) like(0.0) I(0.0) did(0.0) .(0.0) Your(0.0) grandchildren(1.0) deserve(0.0) to(0.0) know(0.0) that(0.0) the(0.0) caribou(0.0) are(0.0) going(0.0) 
+to(0.0) be(0.0) there(0.0) 1,000(0.0) years(0.0) from(0.0) now(0.0) ,(0.0) just(0.0) like(0.0) you(0.0) do(0.0) .(0.0) Now(0.0) ,(0.0) we(0.0) have(0.0) a(0.0) disagreement(0.0) .(0.0) 
+The(0.0) majority(1.0) wants(1.0) to(0.0) give(0.0) $(0.0) 20(0.0) billion(1.0) to(0.0) the(0.0) oil(1.0) companies(1.0) ,(0.0) and(0.0) our(0.0) children(0.0) 's(0.0) heritage(1.0) as(0.0) icing(0.0) 
+on(0.0) the(0.0) cake(0.0) .(0.0) That(0.0) is(0.0) wrong(0.0) .(0.0) Preserve(0.0) the(0.0) Arctic(0.0) Refuge(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Bay	
+deserve	
+Union	grandchildren	
+
+majority	wants	billion	oil	companies	heritage	
+
+
+reads % = 0.07462686567164178

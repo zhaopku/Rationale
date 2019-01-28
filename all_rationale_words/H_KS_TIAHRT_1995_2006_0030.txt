@@ -1,0 +1,56 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) am(0.0) disappointed(0.0) the(0.0) House(0.0) today(0.0) voted(1.0) to(1.0) pass(0.0) a(0.0) bill(0.0) that(0.0) would(0.0) replace(0.0) one(0.0) arbitrary(1.0) unjust(1.0) tax(1.0) with(0.0) 
+another(0.0) arbitrary(1.0) unjust(1.0) tax(1.0) under(0.0) the(0.0) guise(1.0) of(0.0) compromise(1.0) .(0.0) The(0.0) House(0.0) has(0.0) overwhelmingly(1.0) voted(1.0) ,(0.0) with(0.0) strong(0.0) bipartisan(1.0) support(0.0) 
+,(0.0) to(0.0) permanently(1.0) repeal(1.0) the(0.0) death(1.0) tax(1.0) five(0.0) times(0.0) in(0.0) the(0.0) past(0.0) 5(0.0) years(0.0) .(0.0) I(0.0) have(0.0) voted(0.0) each(0.0) time(0.0) 
+in(0.0) favor(1.0) of(0.0) full(0.0) repeal(1.0) .(0.0) Some(0.0) of(0.0) my(0.0) colleagues(0.0) believe(0.0) we(0.0) will(0.0) not(0.0) be(0.0) able(0.0) to(0.0) gain(0.0) the(0.0) Senate(0.0) 
+'s(0.0) support(0.0) for(0.0) full(0.0) repeal(1.0) of(0.0) this(0.0) egregious(1.0) tax(1.0) .(0.0) And(0.0) for(0.0) this(0.0) reason(0.0) ,(0.0) the(0.0) House(0.0) should(0.0) pass(0.0) a(0.0) 
+compromise(1.0) bill(1.0) that(1.0) would(1.0) partially(0.0) eliminate(1.0) a(0.0) tax(1.0) that(0.0) an(0.0) overwhelming(0.0) majority(1.0) of(0.0) this(0.0) body(0.0) and(0.0) my(0.0) constituents(1.0) believe(0.0) should(0.0) 
+be(0.0) completely(0.0) repealed(1.0) .(0.0) Rather(0.0) than(0.0) partially(0.0) doing(0.0) the(0.0) right(0.0) thing(0.0) in(0.0) the(0.0) name(0.0) of(0.0) compromise(1.0) ,(0.0) the(0.0) House(0.0) should(1.0) 
+stand(0.0) steadfast(1.0) on(0.0) this(0.0) issue(0.0) .(0.0) When(0.0) the(0.0) House(0.0) passed(0.0) H.R(0.0) .(0.0) 5638(0.0) today(0.0) ,(0.0) we(0.0) sent(0.0) a(0.0) message(0.0) of(0.0) 
+defeat(1.0) on(0.0) the(0.0) willingness(0.0) of(0.0) this(0.0) Congress(0.0) to(0.0) put(0.0) this(0.0) issue(0.0) to(0.0) rest(0.0) .(0.0) Once(0.0) those(0.0) who(0.0) want(0.0) to(0.0) keep(0.0) 
+the(0.0) death(1.0) tax(1.0) know(0.0) the(0.0) House(0.0) is(0.0) willing(0.0) to(0.0) compromise(1.0) ,(0.0) it(0.0) will(0.0) be(0.0) difficult(0.0) ,(0.0) if(0.0) not(0.0) impossible(0.0) ,(0.0) 
+for(0.0) this(0.0) body(0.0) to(0.0) exert(0.0) the(0.0) political(1.0) will(0.0) to(0.0) permanently(0.0) and(0.0) completely(0.0) eliminate(1.0) the(0.0) death(1.0) tax(1.0) .(0.0) For(0.0) this(0.0) reason(0.0) 
+I(0.0) opposed(0.0) passage(1.0) of(0.0) the(0.0) premature(1.0) compromise(1.0) bill(1.0) .(0.0) My(0.0) constituents(1.0) in(0.0) Kansas(1.0) know(0.0) the(0.0) death(1.0) tax(1.0) is(0.0) a(0.0) duplicative(1.0) 
+tax(1.0) on(0.0) small(0.0) businesses(1.0) and(0.0) family(0.0) farms(0.0) that(0.0) ,(0.0) in(0.0) many(0.0) cases(0.0) ,(0.0) families(0.0) have(0.0) spent(0.0) generations(0.0) building(0.0) .(0.0) Small(0.0) 
+business(0.0) owners(0.0) ,(0.0) farmers(1.0) and(0.0) ranchers(1.0) should(0.0) not(0.0) be(0.0) taxed(0.0) by(0.0) the(0.0) Federal(1.0) Government(1.0) when(0.0) they(0.0) die(0.0) .(0.0) This(0.0) only(0.0) 
+forces(0.0) their(0.0) relatives(0.0) to(0.0) re-purchase(0.0) what(0.0) rightfully(0.0) should(0.0) remain(0.0) in(0.0) the(0.0) family(0.0) .(0.0) Additionally(0.0) ,(0.0) this(0.0) tax(1.0) forces(1.0) family(0.0) businesses(1.0) 
+to(0.0) invest(1.0) in(0.0) Uncle(0.0) Sam(0.0) rather(0.0) than(0.0) the(0.0) economy(1.0) .(0.0) When(0.0) families(0.0) are(0.0) forced(1.0) to(0.0) repurchase(0.0) businesses(0.0) because(0.0) of(0.0) the(0.0) 
+death(1.0) tax(1.0) ,(0.0) that(0.0) means(0.0) less(0.0) money(1.0) is(0.0) being(0.0) invested(0.0) in(0.0) new(0.0) jobs(1.0) and(0.0) capital(1.0) expansion(1.0) .(0.0) The(0.0) bottom(0.0) line(0.0) 
+is(0.0) that(0.0) the(0.0) death(1.0) tax(1.0) is(0.0) a(0.0) tax(1.0) on(0.0) the(0.0) economy(1.0) because(0.0) it(0.0) slows(0.0) economic(1.0) growth(1.0) .(0.0) Now(0.0) is(0.0) not(0.0) 
+the(0.0) time(0.0) to(0.0) compromise(1.0) on(0.0) the(0.0) economy(1.0) .(0.0) Instead(0.0) ,(0.0) we(0.0) should(0.0) be(0.0) doing(0.0) everything(0.0) in(0.0) our(0.0) power(0.0) to(0.0) support(0.0) 
+long-term(1.0) economic(1.0) growth(1.0) .(0.0) Permanent(0.0) repeal(1.0) of(0.0) the(0.0) death(1.0) tax(1.0) will(0.0) mean(0.0) more(0.0) high-quality(1.0) ,(0.0) high-(0.0) paying(0.0) jobs(1.0) for(0.0) Americans(1.0) 
+.(0.0) When(0.0) I(0.0) voted(0.0) against(0.0) the(0.0) compromise(1.0) bill(1.0) today(1.0) ,(0.0) I(0.0) dId(1.0) so(0.0) to(0.0) reassure(0.0) my(0.0) constituents(1.0) I(0.0) will(0.0) continue(0.0) 
+fighting(1.0) to(0.0) permanently(0.0) and(0.0) fully(0.0) repeal(1.0) the(0.0) death(1.0) tax(1.0) .(0.0) Compromise(1.0) is(0.0) premature(0.0) ,(0.0) and(0.0) discriminatory(1.0) against(0.0) families(0.0) who(0.0) have(0.0) 
+been(0.0) good(0.0) stewards(0.0) of(0.0) what(0.0) they(0.0) have(0.0) earned(0.0) .(0.0) My(0.0) position(0.0) is(0.0) unchanged(0.0) :(0.0) The(0.0) American(0.0) people(0.0) deserve(1.0) full(0.0) repeal(1.0) 
+of(0.0) the(0.0) death(1.0) tax(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+voted	to	arbitrary	unjust	tax	
+arbitrary	unjust	tax	guise	compromise	overwhelmingly	voted	bipartisan	
+permanently	repeal	death	tax	
+favor	repeal	
+repeal	egregious	tax	
+compromise	bill	that	would	eliminate	tax	majority	constituents	
+repealed	compromise	should	
+steadfast	
+defeat	
+death	tax	compromise	
+political	eliminate	death	tax	
+passage	premature	compromise	bill	constituents	Kansas	death	tax	duplicative	
+tax	businesses	
+farmers	ranchers	Federal	Government	
+tax	forces	businesses	
+invest	economy	forced	
+death	tax	money	jobs	capital	expansion	
+death	tax	tax	economy	economic	growth	
+compromise	economy	
+long-term	economic	growth	repeal	death	tax	high-quality	jobs	Americans	
+compromise	bill	today	dId	constituents	
+fighting	repeal	death	tax	Compromise	discriminatory	
+deserve	repeal	
+death	tax	
+
+reads % = 0.2167381974248927

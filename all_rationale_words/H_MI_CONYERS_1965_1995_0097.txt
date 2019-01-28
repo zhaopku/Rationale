@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) will(0.0) the(0.0) gentleman(0.0) yield(0.0) ?(0.0) May(0.0) I(0.0) point(0.0) out(0.0) to(0.0) my(0.0) friend(0.0) ,(0.0) still(0.0) my(0.0) friend(0.0) ,(0.0) that(0.0) the(0.0) 
+gentleman(0.0) from(0.0) Missouri(1.0) [(0.0) Mr.(0.0) Volkmer(1.0) ](0.0) is(1.0) one(1.0) of(0.0) the(0.0) cosponsors(1.0) of(0.0) the(0.0) amendment(1.0) with(0.0) the(0.0) gentleman(0.0) from(0.0) Michigan(1.0) 
+[(0.0) Mr.(0.0) Dingell(1.0) ](0.0) .(0.0) We(0.0) are(0.0) not(0.0) adding(0.0) anything(0.0) ,(0.0) and(0.0) it(0.0) may(0.0) not(0.0) come(0.0) as(0.0) news(0.0) to(0.0) my(0.0) 
+colleague(0.0) that(0.0) he(0.0) had(0.0) worked(0.0) on(0.0) this(0.0) amendment(1.0) ,(0.0) not(0.0) only(0.0) now(0.0) ,(0.0) but(0.0) for(0.0) quite(0.0) a(0.0) while(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Missouri	Volkmer	is	one	cosponsors	amendment	Michigan	
+Dingell	
+amendment	
+
+reads % = 0.1125

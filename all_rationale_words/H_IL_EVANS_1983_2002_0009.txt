@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) am(0.0) pleased(0.0) to(0.0) rise(0.0) in(0.0) strong(0.0) support(0.0) of(0.0) this(0.0) legislation(1.0) that(0.0) renames(0.0) the(0.0) Medical(0.0) and(0.0) Regional(0.0) Office(0.0) 
+Center(0.0) in(0.0) Wichita(1.0) ,(0.0) Kansas(1.0) ,(0.0) in(0.0) honor(0.0) of(0.0) Robert(0.0) J.(1.0) Dole(1.0) ,(0.0) a(0.0) tireless(0.0) advocate(0.0) for(0.0) our(0.0) Nation(1.0) 's(0.0) 
+veterans(0.0) .(0.0) This(0.0) honor(0.0) is(0.0) certainly(0.0) well-deserved(0.0) .(0.0) During(0.0) his(0.0) sophomore(0.0) year(0.0) in(0.0) college(0.0) ,(0.0) Bob(0.0) Dole(1.0) set(1.0) aside(0.0) his(0.0) 
+studies(0.0) to(0.0) enlist(0.0) in(0.0) the(0.0) Army(0.0) .(0.0) Like(0.0) many(0.0) others(0.0) of(0.0) his(0.0) generation(0.0) ,(0.0) Bob(0.0) Dole(1.0) set(0.0) aside(0.0) personal(0.0) plans(0.0) 
+to(0.0) fight(0.0) in(0.0) World(0.0) War(0.0) II(0.0) .(0.0) Though(0.0) severely(0.0) injured(0.0) in(0.0) action(0.0) in(0.0) Europe(0.0) ,(0.0) after(0.0) 3(0.0) long(0.0) years(0.0) of(0.0) 
+convalescence(0.0) in(0.0) 1948(1.0) Senator(0.0) Dole(1.0) was(0.0) separated(0.0) from(0.0) the(0.0) service(0.0) and(0.0) returned(0.0) to(0.0) Kansas(1.0) .(0.0) In(0.0) 1950(0.0) he(0.0) was(0.0) elected(0.0) 
+to(0.0) the(0.0) State(0.0) legislature(0.0) .(0.0) The(0.0) rest(0.0) ,(0.0) as(0.0) they(0.0) say(0.0) ,(0.0) is(0.0) history(0.0) .(0.0) I(0.0) thank(0.0) and(0.0) want(0.0) to(0.0) 
+commend(0.0) the(0.0) chairman(0.0) of(0.0) the(0.0) Subcommittee(0.0) on(0.0) Health(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Veterans(0.0) '(0.0) Affairs(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Kansas(1.0) 
+((0.0) Mr.(0.0) Moran(1.0) )(0.0) ,(0.0) for(0.0) his(0.0) leadership(0.0) on(0.0) this(0.0) legislation(0.0) .(0.0) I(0.0) urge(0.0) all(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) this(0.0) 
+measure(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	legislation	
+Wichita	Kansas	J.	Dole	Nation	
+Dole	set	
+Dole	
+
+1948	Dole	Kansas	
+
+Kansas	
+Moran	
+measure	Speaker	
+
+reads % = 0.08762886597938144

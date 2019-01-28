@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) pass(0.0) the(0.0) bill(0.0) ((1.0) H.R(1.0) .(0.0) 3969(0.0) )(0.0) to(0.0) enhance(0.0) United(0.0) States(0.0) 
+public(0.0) diplomacy(0.0) ,(0.0) to(0.0) reorganize(0.0) United(0.0) States(0.0) international(0.0) broadcasting(1.0) ,(0.0) and(0.0) for(0.0) other(0.0) purposes(0.0) ,(0.0) as(0.0) amended(0.0) .(0.0) The(0.0) Clerk(0.0) 
+read(0.0) as(0.0) follows(0.0) :(0.0) H.R(0.0) .(0.0) 3969(0.0) Be(0.0) it(0.0) enacted(0.0) by(0.0) the(0.0) Senate(0.0) and(0.0) House(0.0) of(0.0) Representatives(0.0) of(0.0) the(0.0) United(0.0) 
+States(0.0) of(0.0) America(0.0) in(0.0) Congress(0.0) assembled(0.0) ,(0.0) SECTION(0.0) 1(0.0) .(0.0) SHORT(0.0) TITLE(0.0) .(0.0) This(0.0) Act(0.0) may(0.0) be(0.0) cited(0.0) as(0.0) the(0.0) 
+``(0.0) Freedom(0.0) Promotion(0.0) Act(0.0) of(0.0) 2002(0.0) ''(0.0) .(0.0) SEC(0.0) .(0.0) 2(0.0) .(0.0) TABLE(0.0) OF(0.0) CONTENTS(0.0) .(0.0) The(0.0) table(0.0) of(0.0) contents(0.0) 
+is(0.0) as(0.0) follows(0.0) :(0.0) Sec(0.0) .(0.0) 1(0.0) .(0.0) Short(0.0) title(0.0) .(0.0) Sec(0.0) .(0.0) 2(0.0) .(0.0) Table(0.0) of(0.0) contents(0.0) .(0.0) Sec(0.0) 
+.(0.0) 3(0.0) .(0.0) Definitions(0.0) .(0.0) TITLE(0.0) I(0.0) --(0.0) UNITED(0.0) STATES(0.0) PUBLIC(0.0) DIPLOMACY(0.0) Sec(0.0) .(0.0) 101(0.0) .(0.0) Findings(0.0) and(0.0) purposes(0.0) .(0.0) 
+Sec(0.0) .(0.0) 102(0.0) .(0.0) Public(0.0) diplomacy(0.0) responsibilities(0.0) of(0.0) the(0.0) Department(0.0) of(0.0) State(0.0) .(0.0) Sec(0.0) .(0.0) 103(0.0) .(0.0) Annual(0.0) plan(0.0) on(0.0) 
+public(0.0) diplomacy(0.0) strategy(0.0) .(0.0) Sec(0.0) .(0.0) 104(0.0) .(0.0) Public(0.0) diplomacy(0.0) training(0.0) .(0.0) Sec(0.0) .(0.0) 105(0.0) .(0.0) United(0.0) States(0.0) Advisory(0.0) Commission(0.0) 
+on(0.0) Public(0.0) Diplomacy(0.0) .(0.0) Sec(0.0) .(0.0) 106(0.0) .(0.0) Library(0.0) program(0.0) .(0.0) Sec(0.0) .(0.0) 107(0.0) .(0.0) Sense(0.0) of(0.0) Congress(0.0) concerning(0.0) public(0.0) 
+diplomacy(0.0) efforts(0.0) in(0.0) sub-(0.0) Saharan(0.0) Africa(0.0) .(0.0) Sec(0.0) .(0.0) 108(0.0) .(0.0) Funding(0.0) and(0.0) authorization(0.0) of(0.0) appropriations(0.0) .(0.0) TITLE(0.0) II(0.0) --(0.0) 
+UNITED(0.0) STATES(0.0) EDUCATIONAL(0.0) AND(0.0) CULTURAL(0.0) PROGRAMS(0.0) OF(0.0) THE(0.0) DEPARTMENT(0.0) OF(0.0) STATE(0.0) Sec(0.0) .(0.0) 201(0.0) .(0.0) Establishment(0.0) of(0.0) initiatives(0.0) for(0.0) predominantly(0.0) 
+Muslim(0.0) countries(0.0) .(0.0) Sec(0.0) .(0.0) 202(0.0) .(0.0) Database(0.0) of(0.0) alumni(0.0) of(0.0) American(0.0) and(0.0) foreign(0.0) participants(0.0) in(0.0) exchange(0.0) programs(0.0) .(0.0) Sec(0.0) 
+.(0.0) 203(0.0) .(0.0) Report(0.0) on(0.0) inclusion(0.0) of(0.0) freedom(0.0) and(0.0) democracy(1.0) advocates(1.0) in(0.0) educational(1.0) and(0.0) cultural(1.0) exchange(0.0) programs(0.0) .(0.0) Sec(0.0) .(0.0) 
+204(0.0) .(0.0) Fulbright-Hays(0.0) authorities(0.0) .(0.0) Sec(0.0) .(0.0) 205(0.0) .(0.0) Supplemental(0.0) authorization(0.0) of(0.0) appropriations(0.0) .(0.0) Sec(0.0) .(0.0) 206(0.0) .(0.0) Supplemental(0.0) authorization(0.0) 
+of(0.0) appropriations(0.0) for(0.0) the(0.0) National(0.0) Endowment(0.0) for(0.0) Democracy(0.0) .(0.0) TITLE(0.0) III(0.0) --(0.0) REORGANIZATION(0.0) OF(0.0) UNITED(0.0) STATES(0.0) INTERNATIONAL(0.0) BROADCASTING(0.0) Sec(0.0) .(0.0) 
+301(0.0) .(0.0) Establishment(0.0) of(0.0) United(0.0) States(0.0) International(0.0) Broadcasting(0.0) Agency(0.0) .(0.0) Sec(0.0) .(0.0) 302(0.0) .(0.0) Authorities(0.0) and(0.0) functions(0.0) of(0.0) the(0.0) agency(0.0) 
+.(0.0) Sec(0.0) .(0.0) 303(0.0) .(0.0) Role(0.0) of(0.0) the(0.0) secretary(0.0) of(0.0) State(0.0) .(0.0) Sec(0.0) .(0.0) 304(0.0) .(0.0) Administrative(0.0) provisions(0.0) .(0.0) Sec(0.0) 
+.(0.0) 305(0.0) .(0.0) Broadcasting(0.0) Board(0.0) of(0.0) Governors(0.0) and(0.0) International(0.0) Broadcasting(0.0) Bureau(0.0) .(0.0) Sec(0.0) .(0.0) 306(0.0) .(0.0) Transition(0.0) .(0.0) Sec(0.0) .(0.0) 
+307(0.0) .(0.0) Conforming(0.0) amendments(0.0) .(0.0) Sec(0.0) .(0.0) 308(0.0) .(0.0) References(0.0) .(0.0) Sec(0.0) .(0.0) 309(0.0) .(0.0) Broadcasting(0.0) standards(0.0) .(0.0) Sec(0.0) .(0.0) 
+310(0.0) .(0.0) Authorization(0.0) of(0.0) appropriations(0.0) .(0.0) Sec(0.0) .(0.0) 311(0.0) .(0.0) Effective(0.0) date(0.0) .(0.0) SEC(0.0) .(0.0) 3(0.0) .(0.0) DEFINITIONS(0.0) .(0.0) In(0.0) 
+this(0.0) Act(0.0) :(0.0) ((0.0) 1(0.0) )(0.0) Appropriate(0.0) congressional(0.0) committees.(0.0) --(0.0) The(0.0) term(0.0) ``(0.0) appropriate(0.0) congressional(0.0) committees(0.0) ''(0.0) means(0.0) the(0.0) Committee(0.0) 
+on(0.0) International(0.0) Relations(0.0) and(0.0) the(0.0) Committee(0.0) on(0.0) Appropriations(0.0) of(0.0) the(0.0) House(0.0) of(0.0) Representatives(0.0) and(0.0) the(0.0) Committee(0.0) on(0.0) Foreign(0.0) Affairs(0.0) and(0.0) 
+the(0.0) Committee(0.0) on(0.0) Appropriations(0.0) of(0.0) the(0.0) Senate(0.0) .(0.0) ((0.0) 2(0.0) )(0.0) Department.(0.0) --(0.0) The(0.0) term(0.0) ``(0.0) Department(0.0) ''(0.0) means(0.0) the(0.0) 
+Department(0.0) of(0.0) State(0.0) .(0.0) ((0.0) 3(0.0) )(0.0) Secretary.(0.0) --(0.0) The(0.0) term(0.0) ``(0.0) Secretary(0.0) ''(0.0) means(0.0) the(0.0) Secretary(0.0) of(0.0) State(0.0) 
+
+
+----- below are rationale words -----
+
+(	H.R	
+broadcasting	
+
+
+
+
+
+
+
+
+
+
+
+democracy	advocates	educational	cultural	
+
+
+
+
+
+
+
+
+
+
+
+
+reads % = 0.014

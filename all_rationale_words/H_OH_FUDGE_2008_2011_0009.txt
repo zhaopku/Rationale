@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) because(0.0) I(0.0) am(0.0) deeply(0.0) concerned(0.0) about(0.0) my(0.0) community(0.0) 's(0.0) ability(0.0) to(0.0) address(0.0) its(0.0) emergency(1.0) response(0.0) needs(0.0) 
+.(0.0) FEMA(1.0) SAFER(1.0) grants(1.0) are(0.0) designed(0.0) to(0.0) assist(0.0) cities(1.0) with(0.0) maintaining(0.0) first(0.0) responders(1.0) on(0.0) the(0.0) street(0.0) .(0.0) The(0.0) challenge(0.0) is(0.0) 
+that(0.0) FEMA(1.0) has(0.0) a(0.0) stipulation(0.0) that(0.0) can(0.0) not(0.0) have(0.0) employees(0.0) in(0.0) layoff(1.0) status(0.0) .(0.0) The(0.0) cities(1.0) that(0.0) are(0.0) most(0.0) in(0.0) 
+need(0.0) of(0.0) these(0.0) funds(1.0) are(0.0) financially(1.0) challenged(0.0) .(0.0) It(0.0) is(0.0) difficult(0.0) for(0.0) them(0.0) to(0.0) avoid(0.0) laying(0.0) off(0.0) employees(0.0) when(0.0) they(0.0) 
+have(0.0) no(0.0) funds(0.0) in(0.0) the(0.0) budget(1.0) to(0.0) retain(0.0) them(0.0) ,(0.0) as(0.0) required(0.0) by(0.0) the(0.0) FEMA(1.0) grants(1.0) .(0.0) This(0.0) is(0.0) a(0.0) 
+situation(0.0) that(0.0) people(0.0) in(0.0) my(0.0) community(0.0) are(0.0) being(0.0) confronted(0.0) with(0.0) .(0.0) The(0.0) city(1.0) of(0.0) Cleveland(1.0) applied(0.0) for(0.0) and(0.0) received(0.0) two(0.0) 
+grants(1.0) from(0.0) FEMA(1.0) .(0.0) Due(0.0) to(0.0) State-level(1.0) budget(1.0) cuts(1.0) ,(0.0) Cleveland(1.0) needs(0.0) these(0.0) FEMA(1.0) grants(1.0) now(0.0) more(0.0) than(0.0) ever(0.0) .(0.0) 
+FEMA(1.0) should(0.0) be(0.0) granted(0.0) the(0.0) authority(0.0) to(0.0) waive(0.0) the(0.0) no-(0.0) layoff(1.0) clause(1.0) .(0.0) This(0.0) way(0.0) the(0.0) funding(1.0) system(0.0) would(0.0) be(0.0) 
+better(0.0) able(0.0) to(0.0) live(0.0) up(0.0) to(0.0) the(0.0) intent(1.0) of(0.0) the(0.0) grant(1.0) ,(0.0) and(0.0) our(0.0) streets(1.0) and(0.0) communities(1.0) would(0.0) be(0.0) safer(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+emergency	
+FEMA	SAFER	grants	cities	responders	
+FEMA	layoff	cities	
+funds	financially	
+budget	FEMA	grants	
+city	Cleveland	
+grants	FEMA	State-level	budget	cuts	Cleveland	FEMA	grants	
+FEMA	layoff	clause	funding	
+intent	grant	streets	communities	
+
+
+reads % = 0.17582417582417584

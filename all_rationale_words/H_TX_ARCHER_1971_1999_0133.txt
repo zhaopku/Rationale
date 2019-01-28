@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) 64(0.0) million(0.0) American(0.0) children(1.0) would(0.0) have(0.0) access(0.0) to(0.0) a(0.0) new(0.0) vaccine(1.0) that(0.0) will(0.0) come(0.0) on(0.0) the(0.0) market(0.0) in(0.0) November(0.0) 
+.(0.0) But(0.0) if(0.0) this(0.0) bill(1.0) does(1.0) not(0.0) pass(0.0) ,(0.0) it(0.0) will(0.0) not(0.0) be(0.0) put(0.0) on(0.0) the(0.0) market(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+children	vaccine	
+bill	does	
+
+reads % = 0.10256410256410256

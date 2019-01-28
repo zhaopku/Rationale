@@ -1,0 +1,50 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) just(0.0) because(0.0) a(0.0) law(1.0) is(0.0) constitutional(1.0) ,(0.0) it(0.0) does(0.0) n't(0.0) mean(0.0) it(0.0) 's(0.0) a(0.0) good(0.0) law(1.0) .(0.0) Just(0.0) 
+because(0.0) a(0.0) law(1.0) is(0.0) well(0.0) intentioned(1.0) ,(0.0) it(0.0) doesn't(0.0) mean(0.0) that(0.0) it(0.0) fulfills(0.0) its(0.0) promises(1.0) .(0.0) As(0.0) a(0.0) physician(0.0) ,(0.0) 
+I(0.0) 've(0.0) heard(0.0) firsthand(0.0) from(0.0) patients(0.0) who(0.0) have(0.0) serious(0.0) concerns(0.0) about(0.0) the(0.0) so-called(1.0) Affordable(1.0) Care(0.0) Act(0.0) ,(0.0) that(0.0) it(0.0) would(0.0) 
+actually(0.0) reduce(0.0) access(0.0) to(0.0) affordable(1.0) high(0.0) quality(0.0) health(1.0) care(1.0) by(0.0) enacting(1.0) substantial(1.0) new(0.0) taxes(1.0) ,(0.0) creating(0.0) thousands(1.0) of(0.0) pages(0.0) of(0.0) 
+new(0.0) regulations(1.0) ,(0.0) and(0.0) most(0.0) alarmingly(0.0) ,(0.0) putting(0.0) unelected(1.0) ,(0.0) unaccountable(1.0) government(1.0) bureaucrats(1.0) in(0.0) between(0.0) patients(0.0) and(0.0) their(0.0) doctors(1.0) .(0.0) 
+Millions(0.0) of(0.0) Americans(1.0) were(0.0) assured(0.0) that(0.0) if(0.0) they(0.0) liked(0.0) their(0.0) health(1.0) plan(1.0) ,(0.0) they(0.0) could(0.0) keep(0.0) it(0.0) .(0.0) Yet(0.0) ,(0.0) 
+our(0.0) committee(0.0) has(0.0) heard(0.0) testimony(0.0) from(0.0) businesses(1.0) large(0.0) and(0.0) small(0.0) that(0.0) the(0.0) increased(0.0) costs(1.0) of(0.0) providing(0.0) health(1.0) coverage(1.0) for(0.0) employees(0.0) 
+is(0.0) simply(0.0) unsustainable(1.0) .(0.0) I(0.0) 've(0.0) talked(0.0) with(0.0) business(0.0) owners(0.0) in(0.0) my(0.0) own(0.0) district(0.0) that(0.0) want(0.0) to(0.0) continue(0.0) to(0.0) provide(0.0) 
+coverage(1.0) for(0.0) their(0.0) employees(0.0) ,(0.0) but(0.0) the(0.0) health(1.0) care(0.0) law(1.0) is(0.0) making(0.0) that(0.0) harder(0.0) .(0.0) These(0.0) so-called(1.0) ``(0.0) small(0.0) business(0.0) 
+tax(1.0) credits(1.0) ''(0.0) phase(0.0) out(0.0) so(0.0) quickly(0.0) after(0.0) you(0.0) get(0.0) above(0.0) 10(0.0) employees(0.0) or(0.0) you(0.0) start(0.0) to(0.0) increase(0.0) wages(1.0) that(0.0) 
+it(0.0) 's(0.0) a(0.0) disincentive(1.0) to(0.0) grow(0.0) a(0.0) business(0.0) .(0.0) Further(0.0) ,(0.0) the(0.0) Supreme(1.0) Court(0.0) 's(0.0) ruling(0.0) highlights(0.0) an(0.0) uncomfortable(0.0) truth(0.0) 
+for(0.0) the(0.0) law(1.0) 's(0.0) supporters(1.0) .(0.0) This(0.0) law(1.0) stands(0.0) only(0.0) because(0.0) the(0.0) individual(0.0) mandate(1.0) is(0.0) considered(0.0) a(0.0) tax(0.0) ,(0.0) even(0.0) 
+though(0.0) proponents(1.0) repeatedly(0.0) insisted(1.0) it(0.0) was(0.0) not(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) we(0.0) were(0.0) told(0.0) Congress(0.0) had(0.0) to(0.0) pass(0.0) the(0.0) bill(1.0) 
+to(0.0) find(0.0) out(0.0) what(0.0) was(0.0) in(0.0) it(0.0) .(0.0) What(0.0) we(0.0) found(0.0) was(0.0) a(0.0) bait(0.0) and(0.0) switch(0.0) of(0.0) unprecedented(1.0) proportions(0.0) .(0.0) 
+I(0.0) strongly(0.0) believe(0.0) that(0.0) we(0.0) should(0.0) ensure(0.0) that(0.0) patients(0.0) with(0.0) preexisting(1.0) conditions(0.0) have(0.0) affordable(1.0) insurance(1.0) options(0.0) ,(0.0) that(0.0) annual(0.0) or(0.0) 
+lifetime(0.0) limits(1.0) do(0.0) n't(0.0) prevent(0.0) Americans(1.0) from(0.0) receiving(0.0) the(0.0) care(0.0) and(0.0) treatment(0.0) they(0.0) need(0.0) ,(0.0) and(0.0) that(0.0) young(0.0) adults(0.0) have(0.0) 
+access(0.0) to(0.0) insurance(1.0) ,(0.0) especially(0.0) in(0.0) difficult(0.0) economic(1.0) times(0.0) .(0.0) That(0.0) 's(0.0) why(0.0) I(0.0) 've(0.0) introduced(0.0) replacement(0.0) legislation(1.0) to(0.0) do(0.0) 
+exactly(0.0) that(0.0) ,(0.0) without(0.0) a(0.0) government(1.0) takeover(1.0) of(0.0) the(0.0) system(0.0) .(0.0) We(0.0) need(0.0) to(0.0) repeal(1.0) this(0.0) law(1.0) and(0.0) move(0.0) forward(0.0) 
+with(0.0) reasonable(1.0) ,(0.0) bipartisan(1.0) ,(0.0) patient-centered(1.0) reforms(1.0) that(0.0) restore(1.0) the(0.0) government(1.0) to(0.0) its(0.0) proper(0.0) role(0.0) in(0.0) our(0.0) health(1.0) care(1.0) system(1.0) 
+and(0.0) ensure(0.0) that(0.0) our(0.0) patients(0.0) ,(0.0) their(0.0) families(0.0) ,(0.0) and(0.0) their(0.0) doctors(1.0) have(0.0) the(0.0) ability(0.0) to(0.0) decide(0.0) what(0.0) care(0.0) is(0.0) 
+most(0.0) appropriate(0.0) .(0.0) It(0.0) 's(0.0) for(0.0) those(0.0) reasons(0.0) that(0.0) I(0.0) strongly(0.0) urge(0.0) support(0.0) of(0.0) H.R(0.0) .(0.0) 6079(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	law	constitutional	law	
+law	intentioned	promises	
+so-called	Affordable	
+affordable	health	care	enacting	substantial	taxes	thousands	
+regulations	unelected	unaccountable	government	bureaucrats	doctors	
+Americans	health	plan	
+businesses	costs	health	coverage	
+unsustainable	
+coverage	health	law	so-called	
+tax	credits	wages	
+disincentive	Supreme	
+law	supporters	law	mandate	
+proponents	insisted	Speaker	bill	
+unprecedented	
+preexisting	affordable	insurance	
+limits	Americans	
+insurance	economic	legislation	
+government	takeover	repeal	law	
+reasonable	bipartisan	patient-centered	reforms	restore	government	health	care	system	
+doctors	
+
+
+reads % = 0.16706443914081145

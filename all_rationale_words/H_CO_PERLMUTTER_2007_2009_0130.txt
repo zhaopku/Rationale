@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) again(0.0) ,(0.0) to(0.0) my(0.0) friend(0.0) from(0.0) Indiana(1.0) ,(0.0) I(0.0) do(0.0) n't(0.0) think(0.0) the(0.0) language(0.0) in(0.0) the(0.0) bill(1.0) could(1.0) be(0.0) 
+any(0.0) clearer(0.0) about(0.0) these(0.0) detainees(1.0) and(0.0) their(0.0) being(0.0) part(0.0) of(0.0) the(0.0) No(0.0) Fly(0.0) List(0.0) .(0.0) I(0.0) am(0.0) going(0.0) to(0.0) now(0.0) 
+yield(0.0) 2(0.0) minutes(0.0) to(0.0) my(0.0) friend(0.0) from(0.0) New(0.0) York(1.0) ((0.0) Ms.(1.0) Clarke(1.0) )(0.0) ,(0.0) who(0.0) is(0.0) a(0.0) member(0.0) of(0.0) the(0.0) 
+Homeland(0.0) Security(0.0) Committee(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Indiana	bill	could	
+detainees	
+York	Ms.	Clarke	
+
+
+reads % = 0.1076923076923077

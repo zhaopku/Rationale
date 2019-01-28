@@ -1,0 +1,10 @@
+This is from a Republican
+----- below is the original text -----
+51(0.0) ,(0.0) had(0.0) I(0.0) been(0.0) present(0.0) ,(0.0) I(0.0) would(0.0) have(0.0) voted(0.0) ``(0.0) yea(0.0) .(0.0) ''(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+reads % = 0.0

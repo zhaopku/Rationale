@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) the(0.0) reason(0.0) we(0.0) do(0.0) not(0.0) sell(0.0) cars(0.0) in(0.0) Japan(1.0) is(0.0) because(0.0) we(0.0) do(0.0) not(0.0) build(0.0) right-hand(0.0) drive(0.0) cars(0.0) in(0.0) 
+this(0.0) country(1.0) ,(0.0) and(0.0) for(0.0) no(0.0) other(0.0) reason(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) today(0.0) and(0.0) tomorrow(0.0) the(0.0) House(0.0) will(0.0) debate(1.0) the(0.0) 
+Overseas(0.0) Interests(0.0) Act(0.0) .(0.0) This(0.0) bill(1.0) cuts(1.0) foreign(1.0) aid(0.0) and(0.0) ends(0.0) the(0.0) status(0.0) quo(0.0) of(0.0) the(0.0) bloated(1.0) foreign(1.0) aid(1.0) bureaucracy(1.0) 
+.(0.0) The(0.0) American(0.0) people(0.0) ,(0.0) by(0.0) very(0.0) lopsided(1.0) majorities(1.0) ,(0.0) have(0.0) expressed(0.0) their(0.0) desire(1.0) to(0.0) make(0.0) these(0.0) cuts(1.0) .(0.0) But(0.0) 
+unfortunately(0.0) ,(0.0) the(0.0) liberal(1.0) Democrats(1.0) in(0.0) the(0.0) White(1.0) House(0.0) and(0.0) in(0.0) Congress(0.0) stand(0.0) in(0.0) the(0.0) way(0.0) .(0.0) Liberals(1.0) oppose(1.0) any(0.0) 
+cut(1.0) in(0.0) the(0.0) Federal(1.0) bureaucracy(1.0) and(0.0) are(0.0) wedded(1.0) to(0.0) the(0.0) old(0.0) Washington(1.0) ways(0.0) .(0.0) They(0.0) refuse(0.0) to(0.0) see(0.0) that(0.0) out-of-control(1.0) 
+Government(1.0) is(0.0) causing(0.0) deficits(1.0) and(0.0) debt(1.0) .(0.0) If(0.0) we(0.0) do(0.0) not(0.0) cut(0.0) the(0.0) growth(1.0) of(0.0) Washington(1.0) ,(0.0) our(0.0) children(0.0) will(0.0) 
+be(0.0) saddled(1.0) with(0.0) unimaginable(1.0) debt(1.0) and(0.0) unimaginable(1.0) taxation(1.0) .(0.0) The(0.0) Overseas(0.0) Interest(0.0) Act(0.0) addresses(0.0) these(0.0) concerns(0.0) .(0.0) It(0.0) will(0.0) cut(1.0) 
+foreign(1.0) aid(1.0) and(0.0) the(0.0) bureaucracies(1.0) that(0.0) attempt(0.0) to(0.0) globally(0.0) redistribute(1.0) the(0.0) hard-earned(1.0) tax(1.0) dollars(1.0) of(0.0) ordinary(1.0) Americans(1.0) .(0.0) Republicans(0.0) realize(1.0) 
+that(0.0) we(0.0) can(0.0) no(0.0) longer(0.0) base(0.0) our(0.0) policies(1.0) on(0.0) waste(1.0) ,(0.0) fraud(1.0) ,(0.0) and(0.0) ever-(0.0) expanding(1.0) bureaucracies(1.0) .(0.0) Instead(0.0) ,(0.0) 
+we(0.0) must(0.0) insure(0.0) that(0.0) the(0.0) interests(1.0) of(0.0) Americans(1.0) are(0.0) served(0.0) ,(0.0) and(0.0) not(0.0) just(0.0) those(0.0) of(0.0) the(0.0) Federal(1.0) Government(1.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+Japan	
+country	Speaker	debate	
+bill	cuts	foreign	bloated	foreign	aid	bureaucracy	
+lopsided	majorities	desire	cuts	
+liberal	Democrats	White	Liberals	oppose	
+cut	Federal	bureaucracy	wedded	Washington	out-of-control	
+Government	deficits	debt	growth	Washington	
+saddled	unimaginable	debt	unimaginable	taxation	cut	
+foreign	aid	bureaucracies	redistribute	hard-earned	tax	dollars	ordinary	Americans	realize	
+policies	waste	fraud	expanding	bureaucracies	
+interests	Americans	Federal	Government	
+
+
+reads % = 0.25339366515837103

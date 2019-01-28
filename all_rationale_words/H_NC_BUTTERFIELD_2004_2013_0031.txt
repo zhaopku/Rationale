@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(1.0) ,(0.0) I(0.0) 'm(0.0) going(0.0) to(0.0) ask(0.0) my(0.0) colleagues(1.0) if(0.0) they(0.0) would(1.0) look(0.0) very(0.0) closely(0.0) at(0.0) this(0.0) amendment(1.0) .(0.0) It(0.0) 's(0.0) 
+not(0.0) a(0.0) radical(1.0) amendment(1.0) .(0.0) It(0.0) simply(0.0) empowers(1.0) those(0.0) recipients(1.0) of(0.0) SNAP(1.0) to(0.0) buy(0.0) very(0.0) simple(0.0) and(0.0) basic(0.0) items(0.0) that(0.0) 
+are(0.0) related(1.0) to(0.0) nutrition(0.0) ,(0.0) such(0.0) as(0.0) toilet(1.0) paper(0.0) and(0.0) toothpaste(1.0) and(0.0) toothbrushes(0.0) and(0.0) the(0.0) like(0.0) .(0.0) I(1.0) ask(1.0) my(0.0) 
+colleagues(1.0) to(0.0) please(0.0) allow(0.0) an(0.0) up-or-down(1.0) vote(1.0) on(0.0) this(0.0) and(0.0) to(0.0) vote(1.0) ``(0.0) aye(1.0) ''(0.0) on(0.0) the(0.0) amendment(1.0) .(0.0) I(0.0) 
+yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+colleagues	would	amendment	
+radical	amendment	empowers	recipients	SNAP	
+related	toilet	toothpaste	I	ask	
+colleagues	up-or-down	vote	vote	aye	amendment	
+time	
+
+reads % = 0.2247191011235955

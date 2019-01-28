@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) by(0.0) direction(0.0) of(0.0) the(0.0) Democratic(1.0) Caucus(1.0) ,(0.0) I(0.0) offer(0.0) a(0.0) privileged(0.0) resolution(1.0) ((0.0) H.(0.0) Res(1.0) .(0.0) 7(0.0) )(0.0) and(0.0) 
+ask(0.0) for(0.0) its(0.0) immediate(0.0) consideration(0.0) .(0.0) The(0.0) Clerk(0.0) read(0.0) the(0.0) resolution(0.0) ,(0.0) as(0.0) follows(0.0) :(0.0) H.(0.0) Res(1.0) .(0.0) 7(0.0) Resolved(0.0) 
+,(0.0) That(0.0) the(0.0) following(0.0) named(0.0) Members(0.0) ,(0.0) Delegates(0.0) and(0.0) the(0.0) Resident(0.0) Commissioner(0.0) be(0.0) ,(0.0) and(0.0) are(0.0) hereby(0.0) ,(0.0) elected(0.0) to(0.0) 
+serve(0.0) on(0.0) standing(0.0) committees(0.0) as(0.0) follows(0.0) :(0.0) Committee(0.0) on(0.0) Agriculture(0.0) :(0.0) Mr.(0.0) Stenholm(1.0) ,(0.0) Texas(0.0) ;(0.0) Mr.(0.0) Brown(1.0) ,(0.0) California(0.0) 
+;(0.0) Mr.(0.0) Condit(1.0) ,(0.0) California(0.0) ;(0.0) Mr.(0.0) Peterson(1.0) ,(0.0) Minnesota(1.0) ;(0.0) Mr.(0.0) Dooley(1.0) ,(0.0) California(0.0) ;(0.0) Mrs.(0.0) Clayton(1.0) ,(0.0) North(0.0) 
+Carolina(0.0) ;(0.0) Mr.(0.0) Minge(1.0) ,(0.0) Minnesota(1.0) ;(0.0) Mr.(0.0) Hillard(1.0) ,(0.0) Alabama(0.0) ;(0.0) Mr.(0.0) Pomeroy(1.0) ,(0.0) North(0.0) Dakota(0.0) ;(0.0) Mr.(0.0) Holden(1.0) 
+,(0.0) Pennsylvania(1.0) ;(0.0) Mr.(0.0) Bishop(1.0) ,(0.0) Georgia(0.0) ;(0.0) Mr.(0.0) Thompson(1.0) ,(0.0) Mississippi(0.0) ;(0.0) Mr.(0.0) Baldacci(1.0) ,(0.0) Maine(1.0) ;(0.0) Mr.(0.0) Berry(1.0) 
+,(0.0) Arkansas(0.0) ;(0.0) Mr.(0.0) Goode(1.0) ,(0.0) Virginia(0.0) ;(0.0) Mr.(0.0) MCIntyre(1.0) ,(0.0) North(0.0) Carolina(0.0) ;(0.0) Ms.(1.0) Stabenow(1.0) ,(0.0) Michigan(1.0) ;(0.0) Mr.(0.0) 
+Etheridge(1.0) ,(0.0) North(0.0) Carolina(0.0) ;(0.0) Mr.(0.0) John(1.0) ,(0.0) Louisiana(0.0) ;(0.0) Mr.(0.0) Boswell(1.0) ,(0.0) Iowa(0.0) ;(0.0) Mr.(0.0) Phelps(1.0) ,(0.0) Illinois(0.0) ;(0.0) 
+Mr.(0.0) Lucas(1.0) ,(0.0) Kentucky(0.0) ;(0.0) and(0.0) Mr.(0.0) Thompson(1.0) ,(0.0) California(0.0) .(0.0) Committee(0.0) on(0.0) Appropriations(0.0) :(0.0) Mr.(0.0) Obey(1.0) ,(0.0) Wisconsin(1.0) ;(0.0) 
+Mr.(0.0) Murtha(1.0) ,(0.0) Pennsylvania(1.0) ;(0.0) Mr.(0.0) Dicks(1.0) ,(0.0) Washington(1.0) ;(0.0) Mr.(0.0) Sabo(1.0) ,(0.0) Minnesota(1.0) ;(0.0) Mr.(0.0) Dixon(1.0) ,(0.0) California(0.0) ;(0.0) 
+Mr.(0.0) Hoyer(1.0) ,(0.0) Maryland(0.0) ((0.0) When(0.0) Sworn(0.0) )(0.0) ;(0.0) Mr.(0.0) Mollohan(1.0) ,(0.0) West(0.0) Virginia(0.0) ((0.0) When(0.0) Sworn(0.0) )(0.0) ;(0.0) Ms.(1.0) 
+Kaptur(1.0) ,(0.0) Ohio(0.0) ;(0.0) Ms.(1.0) Pelosi(1.0) ,(0.0) California(0.0) ;(0.0) Mr.(0.0) Visclosky(1.0) ,(0.0) Indiana(0.0) ;(0.0) Mrs.(0.0) Lowey(1.0) ,(0.0) New(1.0) York(1.0) ;(0.0) 
+Mr.(0.0) Serrano(1.0) ,(0.0) New(0.0) York(1.0) ;(0.0) Ms.(1.0) DeLauro(1.0) ,(0.0) Connecticut(1.0) ;(0.0) Mr.(0.0) Moran(1.0) ,(0.0) Virginia(0.0) ;(0.0) Mr.(0.0) Olver(1.0) ,(0.0) Massachusetts(1.0) 
+;(0.0) Mr.(0.0) Pastor(1.0) ,(0.0) Arizona(0.0) ;(0.0) Mrs.(0.0) Meek(1.0) ,(0.0) Florida(0.0) ;(0.0) Mr.(0.0) Price(1.0) ,(0.0) North(0.0) Carolina(0.0) ;(0.0) Mr.(0.0) Edwards(1.0) ,(0.0) 
+Texas(0.0) ;(0.0) Mr.(0.0) Cramer(1.0) ,(0.0) Alabama(0.0) ;(0.0) Mr.(0.0) Clyburn(1.0) ,(0.0) South(0.0) Carolina(0.0) ;(0.0) Mr.(0.0) Hinchey(1.0) ,(0.0) New(1.0) York(1.0) ;(0.0) Ms.(1.0) 
+Roybal-(0.0) Allard(1.0) ,(0.0) California(0.0) ;(0.0) Mr.(0.0) Farr(1.0) ,(0.0) California(0.0) ((0.0) When(0.0) Sworn(0.0) )(0.0) ;(0.0) Mr.(0.0) Jackson(1.0) ,(0.0) Illinois(0.0) ;(0.0) Ms.(1.0) 
+Kilpatrick(1.0) ,(0.0) Michigan(1.0) ;(0.0) Mr.(0.0) Boyd(1.0) ,(0.0) Florida(0.0) .(0.0) Committee(0.0) on(0.0) Banking(0.0) and(0.0) Financial(0.0) Services(0.0) :(0.0) Mr.(0.0) LaFalce(1.0) ,(0.0) New(0.0) 
+York(1.0) ;(0.0) Mr.(0.0) Vento(1.0) ,(0.0) Minnesota(0.0) ;(0.0) Mr.(0.0) Frank(1.0) ,(0.0) Massachusetts(1.0) ;(0.0) Mr.(0.0) Kanjorski(1.0) ,(0.0) Pennsylvania(1.0) ;(0.0) Ms(1.0) .(0.0) Waters(1.0) 
+,(0.0) California(0.0) ;(0.0) Mrs.(0.0) Maloney(1.0) ,(0.0) New(1.0) York(1.0) ;(0.0) Mr.(0.0) Gutierrez(1.0) ,(0.0) Illinois(0.0) ;(0.0) Ms.(1.0) Velazquez(1.0) ,(0.0) New(1.0) York(1.0) ;(0.0) 
+Mr.(0.0) Watt(1.0) ,(0.0) North(0.0) Carolina(0.0) ;(0.0) Mr.(0.0) Ackerman(1.0) ,(0.0) New(0.0) York(1.0) ;(0.0) Mr.(0.0) Bentsen(1.0) ,(0.0) Texas(0.0) ;(0.0) Mr.(0.0) Maloney(1.0) ,(0.0) 
+Connecticut(0.0) ;(0.0) Ms.(1.0) Hooley(1.0) ,(0.0) Oregon(0.0) ;(0.0) Ms.(1.0) Carson(1.0) ,(0.0) Indiana(1.0) ;(0.0) Mr.(0.0) Weygand(1.0) ,(0.0) Rhode(1.0) Island(0.0) ;(0.0) Mr.(0.0) Sherman(1.0) 
+,(0.0) California(0.0) ;(0.0) Mr.(0.0) Sandlin(1.0) ,(0.0) Texas(0.0) ;(0.0) Mr.(0.0) Meeks(1.0) ,(0.0) New(0.0) York(1.0) ;(0.0) Ms.(1.0) Lee(1.0) ,(0.0) California(0.0) ;(0.0) Mr.(0.0) 
+Virgil(1.0) Goode(1.0) ,(0.0) Virginia(0.0) ;(0.0) Mr.(0.0) Mascara(1.0) ,(0.0) Pennsylvania(1.0) ;(0.0) Mr.(0.0) Inslee(1.0) ,(0.0) Washington(1.0) ;(0.0) Ms.(1.0) Schakowsky(1.0) ,(0.0) Illinois(0.0) ;(0.0) 
+Mr.(0.0) Moore(1.0) ,(0.0) Kansas(0.0) ;(0.0) Mr.(0.0) Gonzalez(1.0) ,(0.0) Texas(0.0) ;(0.0) Ms.(1.0) Tubbs(1.0) Jones(1.0) ,(0.0) Ohio(1.0) ;(0.0) Mr.(0.0) Capuano(1.0) ,(0.0) 
+
+
+----- below are rationale words -----
+
+Democratic	Caucus	resolution	Res	
+Res	
+
+Stenholm	Brown	
+Condit	Peterson	Minnesota	Dooley	Clayton	
+Minge	Minnesota	Hillard	Pomeroy	Holden	
+Pennsylvania	Bishop	Thompson	Baldacci	Maine	Berry	
+Goode	MCIntyre	Ms.	Stabenow	Michigan	
+Etheridge	John	Boswell	Phelps	
+Lucas	Thompson	Obey	Wisconsin	
+Murtha	Pennsylvania	Dicks	Washington	Sabo	Minnesota	Dixon	
+Hoyer	Mollohan	Ms.	
+Kaptur	Ms.	Pelosi	Visclosky	Lowey	New	York	
+Serrano	York	Ms.	DeLauro	Connecticut	Moran	Olver	Massachusetts	
+Pastor	Meek	Price	Edwards	
+Cramer	Clyburn	Hinchey	New	York	Ms.	
+Allard	Farr	Jackson	Ms.	
+Kilpatrick	Michigan	Boyd	LaFalce	
+York	Vento	Frank	Massachusetts	Kanjorski	Pennsylvania	Ms	Waters	
+Maloney	New	York	Gutierrez	Ms.	Velazquez	New	York	
+Watt	Ackerman	York	Bentsen	Maloney	
+Ms.	Hooley	Ms.	Carson	Indiana	Weygand	Rhode	Sherman	
+Sandlin	Meeks	York	Ms.	Lee	
+Virgil	Goode	Mascara	Pennsylvania	Inslee	Washington	Ms.	Schakowsky	
+Moore	Gonzalez	Ms.	Tubbs	Jones	Ohio	Capuano	
+
+reads % = 0.256

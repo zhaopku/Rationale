@@ -1,0 +1,22 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) House(0.0) Resolution(1.0) 421(0.0) and(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) This(0.0) resolution(1.0) celebrates(0.0) 
+one(0.0) of(0.0) the(0.0) most(0.0) popular(0.0) national(1.0) parks(0.0) in(0.0) our(0.0) country(1.0) .(0.0) It(0.0) is(0.0) a(0.0) beautiful(0.0) part(0.0) of(0.0) the(0.0) country(1.0) that(0.0) 
+I(0.0) have(0.0) had(0.0) the(0.0) privilege(1.0) of(0.0) visiting(0.0) on(0.0) several(0.0) occasions(0.0) .(0.0) I(0.0) congratulate(0.0) Congressman(1.0) Roe(1.0) for(0.0) bringing(0.0) this(0.0) resolution(1.0) to(0.0) 
+the(0.0) House(0.0) so(0.0) that(0.0) we(0.0) may(0.0) recognize(0.0) the(0.0) 75th(1.0) anniversary(0.0) of(0.0) the(0.0) establishment(1.0) of(0.0) the(0.0) Great(0.0) Smoky(0.0) Mountains(0.0) National(0.0) Park(0.0) 
+.(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) this(0.0) resolution(1.0) .(0.0) At(0.0) this(0.0) time(0.0) I(0.0) would(0.0) yield(0.0) such(0.0) time(0.0) as(0.0) he(0.0) 
+may(0.0) consume(0.0) to(0.0) the(0.0) distinguished(0.0) gentleman(0.0) from(0.0) Tennessee(1.0) ((0.0) Mr.(0.0) Duncan(1.0) )(0.0) ,(0.0) whose(0.0) congressional(0.0) district(1.0) includes(0.0) about(0.0) half(0.0) of(0.0) 
+the(0.0) Tennessee(0.0) portion(0.0) of(0.0) the(0.0) Great(0.0) Smoky(0.0) Mountains(0.0) National(0.0) Park(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Resolution	resolution	
+national	country	country	
+privilege	Congressman	Roe	resolution	
+75th	establishment	
+resolution	
+Tennessee	Duncan	district	
+
+
+reads % = 0.11363636363636363

@@ -1,0 +1,38 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) just(0.0) really(0.0) want(0.0) to(0.0) end(0.0) 
+with(0.0) this(0.0) .(0.0) H.R(0.0) .(0.0) 4878(0.0) tightens(0.0) up(0.0) the(0.0) Federal(1.0) Government(1.0) 's(0.0) accounting(0.0) practices(0.0) .(0.0) This(0.0) is(0.0) a(0.0) good(0.0) thing(0.0) 
+.(0.0) We(0.0) need(0.0) to(0.0) be(0.0) sure(0.0) that(0.0) the(0.0) way(0.0) we(0.0) do(0.0) business(0.0) is(0.0) on(0.0) the(0.0) up-and-up(1.0) ,(0.0) and(0.0) we(0.0) clearly(0.0) 
+need(0.0) to(0.0) do(0.0) more(0.0) to(0.0) require(0.0) corporate(1.0) America(0.0) to(0.0) do(0.0) the(0.0) same(0.0) .(0.0) We(0.0) are(0.0) asking(0.0) government(1.0) agencies(1.0) to(0.0) improve(0.0) 
+the(0.0) management(0.0) and(0.0) accountability(1.0) of(0.0) the(0.0) agencies(1.0) .(0.0) We(0.0) must(0.0) ask(0.0) the(0.0) same(0.0) of(0.0) corporate(1.0) leaders(0.0) .(0.0) They(0.0) must(0.0) be(0.0) 
+accountable(0.0) for(0.0) the(0.0) company(0.0) 's(0.0) financial(0.0) health(1.0) ,(0.0) be(0.0) honest(0.0) with(0.0) the(0.0) public(1.0) ,(0.0) and(0.0) there(0.0) must(0.0) be(0.0) consequences(0.0) for(0.0) 
+breaching(1.0) those(0.0) trusts(1.0) .(0.0) For(0.0) years(0.0) ,(0.0) we(0.0) have(0.0) asked(0.0) government(1.0) to(0.0) act(1.0) more(0.0) like(0.0) a(0.0) business(0.0) .(0.0) We(0.0) need(0.0) 
+to(0.0) turn(0.0) that(0.0) around(0.0) and(0.0) ask(0.0) businesses(1.0) to(0.0) be(0.0) as(0.0) accountable(0.0) as(0.0) the(0.0) government(1.0) .(0.0) H.R(0.0) .(0.0) 4878(0.0) is(0.0) based(0.0) 
+on(0.0) the(0.0) principle(1.0) that(0.0) making(0.0) information(0.0) publicly(1.0) available(0.0) will(0.0) change(0.0) the(0.0) way(0.0) people(0.0) and(0.0) agencies(1.0) behave(0.0) .(0.0) This(0.0) is(0.0) underscored(1.0) 
+by(0.0) the(0.0) activities(0.0) of(0.0) Enron(1.0) and(0.0) WorldCom(1.0) .(0.0) They(0.0) knew(0.0) that(0.0) if(0.0) the(0.0) public(1.0) was(0.0) aware(0.0) of(0.0) what(0.0) they(0.0) were(0.0) 
+doing(0.0) ,(0.0) the(0.0) company(0.0) would(0.0) falter(0.0) ,(0.0) and(0.0) so(0.0) they(0.0) tried(0.0) to(0.0) spin(0.0) their(0.0) way(0.0) out(0.0) of(0.0) trouble(0.0) .(0.0) I(0.0) 
+think(0.0) the(0.0) steps(0.0) that(0.0) we(0.0) are(0.0) taking(0.0) today(0.0) in(0.0) terms(1.0) of(0.0) government(1.0) accountability(1.0) are(0.0) important(0.0) ,(0.0) and(0.0) that(0.0) we(0.0) should(0.0) 
+seek(0.0) unanimous(1.0) support(0.0) from(0.0) our(0.0) colleagues(0.0) ,(0.0) but(0.0) also(0.0) we(0.0) need(0.0) to(0.0) think(0.0) about(0.0) ways(0.0) that(0.0) we(0.0) can(0.0) extend(0.0) these(0.0) 
+practices(1.0) and(0.0) make(0.0) sure(0.0) that(0.0) corporate(1.0) America(1.0) abides(0.0) by(0.0) these(0.0) same(0.0) government(1.0) rules(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) reserve(0.0) the(0.0) 
+balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	
+Federal	Government	
+up-and-up	
+corporate	government	agencies	
+accountability	agencies	corporate	
+health	public	
+breaching	trusts	government	act	
+businesses	government	
+principle	publicly	agencies	underscored	
+Enron	WorldCom	public	
+
+terms	government	accountability	
+unanimous	
+practices	corporate	America	government	rules	Speaker	
+
+
+reads % = 0.12237762237762238

@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) my(0.0) mother(0.0) probably(0.0) just(0.0) said(0.0) it(0.0) 
+best(0.0) when(0.0) she(0.0) said(0.0) ,(0.0) good(0.0) ,(0.0) better(0.0) ,(0.0) and(0.0) best(0.0) .(0.0) Never(0.0) rest(0.0) until(0.0) your(0.0) good(0.0) becomes(0.0) better(0.0) and(0.0) 
+your(0.0) better(0.0) becomes(0.0) best(0.0) .(0.0) Tony(0.0) Gwynn(1.0) was(0.0) always(0.0) among(0.0) the(0.0) best(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) 
+balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	
+
+Gwynn	Speaker	
+
+
+reads % = 0.045454545454545456

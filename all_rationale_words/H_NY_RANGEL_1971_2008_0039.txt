@@ -1,0 +1,20 @@
+This is from a Democrat
+----- below is the original text -----
+If(0.0) you(0.0) are(0.0) going(0.0) to(0.0) restrict(0.0) my(0.0) response(0.0) ,(0.0) the(0.0) general(0.0) explanation(0.0) for(0.0) what(0.0) you(0.0) ask(0.0) is(0.0) in(0.0) the(0.0) President(1.0) 's(0.0) 
+budget(1.0) .(0.0) He(0.0) has(0.0) supported(0.0) it(0.0) in(0.0) his(0.0) budget(1.0) ,(0.0) and(0.0) the(0.0) Joint(0.0) Committee(0.0) advisory(0.0) opinion(0.0) has(0.0) been(0.0) superseded(0.0) by(0.0) 
+the(0.0) chairman(0.0) of(0.0) the(0.0) committee(0.0) ,(0.0) which(0.0) is(0.0) me(0.0) ,(0.0) has(0.0) been(0.0) authorized(0.0) in(0.0) support(0.0) of(0.0) requests(0.0) by(0.0) a(0.0) Republican(0.0) 
+mayor(1.0) and(1.0) a(1.0) Republican(1.0) Governor(1.0) .(1.0) Now(1.0) ,(1.0) the(1.0) answer(1.0) to(1.0) what(1.0) you(1.0) want(1.0) is(1.0) in(0.0) the(0.0) Department(0.0) of(0.0) Treasury(1.0) 
+report(0.0) ,(0.0) 2008(0.0) .(0.0) If(0.0) you(0.0) do(0.0) n't(0.0) want(0.0) the(0.0) details(0.0) ,(0.0) then(0.0) I(0.0) yield(0.0) back(0.0) to(0.0) you(0.0) and(0.0) I(0.0) 
+can(0.0) not(0.0) answer(0.0) any(0.0) further(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+President	
+budget	budget	
+
+mayor	and	a	Republican	Governor	.	Now	,	the	answer	to	what	you	want	is	Treasury	
+
+
+
+reads % = 0.17757009345794392

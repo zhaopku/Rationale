@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) is(0.0) it(0.0) the(0.0) chairman(0.0) 's(0.0) understanding(0.0) that(0.0) a(0.0) Coast(0.0) Guard(0.0) station(0.0) or(0.0) subunit(0.0) can(0.0) not(0.0) be(0.0) closed(0.0) unless(0.0) the(0.0) 
+Secretary(0.0) determines(0.0) the(0.0) Coast(0.0) Guard(0.0) search(0.0) and(0.0) rescue(0.0) standards(0.0) related(0.0) to(0.0) search(0.0) and(0.0) rescue(0.0) times(0.0) are(0.0) met(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+
+reads % = 0.0

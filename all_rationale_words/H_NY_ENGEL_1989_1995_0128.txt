@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) this(0.0) bill(1.0) is(1.0) an(0.0) awful(0.0) bill(1.0) and(0.0) I(0.0) hope(0.0) it(0.0) is(0.0) defeated(0.0) .(0.0) Let(0.0) us(0.0) look(0.0) at(0.0) what(0.0) 
+it(0.0) does(0.0) .(0.0) It(0.0) cuts(1.0) housing(1.0) programs(1.0) by(0.0) 21(0.0) percent(0.0) .(0.0) It(0.0) cuts(1.0) environmental(1.0) protection(1.0) by(0.0) 21(0.0) percent(0.0) ,(0.0) the(0.0) 
+Superfund(1.0) by(0.0) 19(0.0) percent(0.0) ,(0.0) homeless(1.0) programs(1.0) by(0.0) 27(0.0) percent(0.0) .(0.0) The(0.0) Republicans(1.0) give(1.0) our(1.0) veterans(1.0) an(1.0) amendment(1.0) against(1.0) burning(1.0) 
+the(1.0) American(1.0) flag(1.0) ,(1.0) but(1.0) what(1.0) do(1.0) they(1.0) do(1.0) to(0.0) veterans(1.0) '(0.0) needs(0.0) ?(0.0) They(0.0) cut(0.0) construction(1.0) or(0.0) improvement(0.0) at(0.0) 
+VA(0.0) facilities(0.0) by(0.0) 62(0.0) percent(0.0) and(0.0) slash(1.0) all(0.0) kinds(0.0) of(0.0) other(0.0) help(0.0) to(0.0) our(0.0) veterans(1.0) .(0.0) It(0.0) is(0.0) nothing(0.0) but(0.0) 
+a(0.0) sham(1.0) and(0.0) a(0.0) shell(0.0) game(0.0) that(0.0) is(0.0) being(0.0) perpetrated(1.0) on(0.0) our(0.0) veterans(1.0) .(0.0) The(0.0) AmeriCorps(1.0) Program(0.0) ,(0.0) the(0.0) community(0.0) 
+development(0.0) bank(0.0) initiative(1.0) and(0.0) dozens(0.0) of(0.0) housing(1.0) programs(1.0) are(0.0) eliminated(1.0) .(0.0) All(0.0) of(0.0) the(0.0) original(0.0) 17(0.0) EPA(1.0) riders(0.0) which(0.0) the(0.0) 
+House(0.0) instructed(0.0) to(0.0) drop(0.0) were(0.0) removed(0.0) from(0.0) the(0.0) bill(0.0) .(0.0) We(0.0) are(0.0) talking(0.0) about(0.0) America(1.0) 's(0.0) future(0.0) here(0.0) .(0.0) What(0.0) 
+we(0.0) are(0.0) doing(0.0) is(0.0) we(0.0) are(0.0) slashing(1.0) all(0.0) these(0.0) good(0.0) programs(1.0) to(0.0) pay(1.0) for(0.0) a(0.0) tax(1.0) cut(1.0) for(1.0) the(1.0) rich(1.0) 
+.(0.0) It(0.0) is(0.0) really(0.0) a(0.0) disgrace(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	bill	is	bill	
+cuts	housing	programs	cuts	environmental	protection	
+Superfund	homeless	programs	Republicans	give	our	veterans	an	amendment	against	burning	
+the	American	flag	,	but	what	do	they	do	veterans	construction	
+slash	veterans	
+sham	perpetrated	veterans	AmeriCorps	
+initiative	housing	programs	eliminated	EPA	
+America	
+slashing	programs	pay	tax	cut	for	the	rich	
+disgrace	
+
+reads % = 0.28191489361702127

@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+51(0.0) ,(0.0) a(0.0) bill(0.0) that(0.0) would(0.0) grant(1.0) permanent(0.0) normal(0.0) trade(0.0) relations(0.0) with(0.0) the(0.0) communist(1.0) country(0.0) of(0.0) Vietnam(1.0) .(0.0) I(0.0) am(0.0) especially(0.0) 
+concerned(0.0) that(0.0) until(0.0) Vietnam(0.0) stops(0.0) illegally(1.0) substituting(1.0) an(0.0) inferior(0.0) species(0.0) of(0.0) fish(0.0) for(0.0) U.S.(0.0) farm-raised(1.0) catfish(1.0) ,(0.0) the(0.0) American(0.0) consumer(1.0) 
+and(0.0) the(0.0) American(0.0) farmer(0.0) will(0.0) continue(0.0) to(0.0) suffer(0.0) .(0.0) The(0.0) catfish(1.0) industry(0.0) in(0.0) Alabama(1.0) and(0.0) in(0.0) the(0.0) southeast(0.0) is(0.0) a(0.0) 
+very(0.0) vital(0.0) industry(1.0) that(0.0) employs(0.0) tens(1.0) of(0.0) thousands(1.0) of(0.0) workers(1.0) in(0.0) primarily(0.0) rural(1.0) and(0.0) economically(1.0) depressed(0.0) areas(0.0) ,(0.0) and(0.0) contributes(0.0) 
+hundreds(0.0) of(0.0) millions(1.0) of(0.0) dollars(1.0) annually(0.0) to(0.0) these(0.0) states(1.0) '(0.0) economies(1.0) .(0.0) In(0.0) Alabama(1.0) ,(0.0) for(0.0) example(0.0) ,(0.0) catfish(1.0) production(0.0) 
+ranked(0.0) second(0.0) nationally(0.0) and(0.0) had(0.0) over(0.0) $(0.0) 81.6(0.0) million(0.0) in(0.0) sales(0.0) last(0.0) year(0.0) .(0.0) Nationwide(0.0) ,(0.0) the(0.0) catfish(1.0) industry(1.0) accounts(0.0) 
+for(0.0) over(0.0) 50(0.0) %(0.0) of(0.0) the(0.0) total(0.0) volume(0.0) and(0.0) value(0.0) of(0.0) all(0.0) U.S.(0.0) aquaculture(1.0) at(0.0) 600(0.0) million(0.0) pounds(0.0) .(0.0) Additionally(0.0) 
+,(0.0) the(0.0) catfish(1.0) industry(1.0) has(0.0) contributed(0.0) over(0.0) $(0.0) 50(0.0) million(0.0) to(0.0) familiarize(0.0) the(0.0) American(0.0) consumer(1.0) with(0.0) the(0.0) superior(0.0) quality(0.0) of(0.0) 
+the(0.0) U.S.(0.0) farm-raised(1.0) ,(0.0) grain-fed(1.0) catfish(1.0) product(0.0) .(0.0) As(0.0) such(0.0) ,(0.0) the(0.0) substitution(1.0) of(0.0) fish(0.0) that(0.0) are(0.0) not(0.0) even(0.0) in(0.0) 
+the(0.0) same(0.0) genus(0.0) or(0.0) species(0.0) as(0.0) the(0.0) North(0.0) American(0.0) channel(0.0) catfish(1.0) has(0.0) led(0.0) to(0.0) consumer(1.0) confusion(0.0) .(0.0) These(0.0) Vietnamese(1.0) fish(0.0) 
+are(0.0) raised(0.0) in(0.0) cages(0.0) in(0.0) rivers(1.0) ,(0.0) the(0.0) same(0.0) polluted(1.0) rivers(1.0) that(0.0) sewer(1.0) and(0.0) waste(1.0) are(0.0) dumped(1.0) into(0.0) .(0.0) Moreover(0.0) 
+,(0.0) they(0.0) are(0.0) fed(1.0) a(0.0) diet(0.0) of(0.0) various(0.0) things(0.0) including(0.0) other(0.0) fish(0.0) ,(0.0) not(0.0) a(0.0) completely(0.0) grain-fed(0.0) diet(0.0) like(0.0) the(0.0) 
+U.S.(0.0) farm-raised(0.0) catfish(1.0) .(0.0) Efforts(1.0) to(0.0) substitute(1.0) the(0.0) cheaper(0.0) Vietnamese(0.0) species(0.0) of(0.0) fish(0.0) ,(0.0) through(0.0) what(0.0) I(0.0) and(0.0) many(0.0) believe(0.0) 
+is(0.0) the(0.0) improper(1.0) use(0.0) of(0.0) the(0.0) name(0.0) ``(0.0) catfish(0.0) ''(0.0) ,(0.0) has(0.0) also(0.0) led(0.0) to(0.0) unprecedented(1.0) levels(0.0) of(0.0) imports(1.0) that(0.0) 
+have(0.0) displaced(1.0) American(0.0) catfish(1.0) .(0.0) In(0.0) fact(0.0) ,(0.0) Vietnamese(0.0) fish(0.0) imports(1.0) are(0.0) displacing(1.0) U.S.(0.0) catfish(0.0) at(0.0) a(0.0) rate(0.0) of(0.0) 70(0.0) 
+million(0.0) pounds(0.0) annually(0.0) according(0.0) to(0.0) U.S.(0.0) Census(0.0) Bureau(0.0) estimates(0.0) in(0.0) May(0.0) .(0.0) This(0.0) is(0.0) equivalent(0.0) to(0.0) an(0.0) estimated(0.0) 15-(0.0) 20(0.0) 
+%(0.0) of(0.0) the(0.0) total(0.0) U.S.(0.0) farm-raised(1.0) catfish(1.0) market(0.0) .(0.0) It(0.0) also(0.0) appears(0.0) that(0.0) Vietnam(0.0) is(0.0) encouraging(0.0) increased(1.0) production(0.0) and(0.0) export(1.0) 
+of(0.0) these(0.0) fish(0.0) by(0.0) recently(0.0) announcing(0.0) new(0.0) incentives(1.0) for(0.0) collateral-free(1.0) loans(0.0) until(0.0) 2005(0.0) for(0.0) investment(1.0) in(0.0) aquaculture(1.0) .(0.0) Figures(0.0) from(0.0) 
+the(0.0) Department(0.0) of(0.0) Commerce(0.0) indicate(0.0) that(0.0) imports(0.0) of(0.0) these(0.0) fish(0.0) from(0.0) Vietnam(1.0) have(0.0) tripled(0.0) from(0.0) what(0.0) they(0.0) were(0.0) this(0.0) time(0.0) 
+last(0.0) year(0.0) ,(0.0) and(0.0) now(0.0) account(0.0) for(0.0) 84(0.0) %(0.0) of(0.0) catfish(1.0) imports(1.0) into(0.0) the(0.0) U.S(1.0) .(0.0) This(0.0) has(0.0) also(0.0) led(0.0) 
+to(0.0) the(0.0) decreased(0.0) exports(1.0) of(0.0) farm-raised(1.0) catfish(1.0) from(0.0) the(0.0) U.S.(0.0) to(0.0) other(0.0) countries(0.0) .(0.0) U.S.(0.0) catfish(0.0) farmers(0.0) have(0.0) spent(0.0) millions(0.0) 
+of(0.0) dollars(1.0) and(0.0) years(0.0) of(0.0) hard(0.0) work(0.0) to(0.0) build(0.0) a(0.0) market(0.0) for(0.0) their(0.0) product(0.0) based(0.0) on(0.0) its(0.0) guaranteed(0.0) quality(0.0) and(0.0) 
+safety(0.0) and(0.0) do(0.0) not(0.0) deserve(1.0) to(0.0) have(0.0) it(0.0) destroyed(0.0) .(0.0) Moreover(0.0) ,(0.0) consumers(1.0) deserve(1.0) to(0.0) know(0.0) exactly(0.0) what(0.0) kind(0.0) of(0.0) 
+food(1.0) they(0.0) are(0.0) putting(0.0) on(0.0) their(0.0) dinner(0.0) tables(0.0) .(0.0) Industry(0.0) officials(1.0) have(0.0) met(0.0) with(0.0) the(0.0) Administration(0.0) ,(0.0) and(0.0) with(0.0) the(0.0) 
+government(1.0) of(0.0) Vietnam(1.0) and(0.0) so(0.0) far(0.0) have(0.0) not(0.0) had(0.0) their(0.0) problems(0.0) addressed(0.0) .(0.0) Until(0.0) the(0.0) Administration(1.0) and(0.0) the(0.0) government(1.0) 
+
+
+----- below are rationale words -----
+
+grant	communist	Vietnam	
+illegally	substituting	farm-raised	catfish	consumer	
+catfish	Alabama	
+industry	tens	thousands	workers	rural	economically	
+millions	dollars	states	economies	Alabama	catfish	
+catfish	industry	
+aquaculture	
+catfish	industry	consumer	
+farm-raised	grain-fed	catfish	substitution	
+catfish	consumer	Vietnamese	
+rivers	polluted	rivers	sewer	waste	dumped	
+fed	
+catfish	Efforts	substitute	
+improper	unprecedented	imports	
+displaced	catfish	imports	displacing	
+
+farm-raised	catfish	increased	export	
+incentives	collateral-free	investment	aquaculture	
+Vietnam	
+catfish	imports	U.S	
+exports	farm-raised	catfish	
+dollars	
+deserve	consumers	deserve	
+food	officials	
+government	Vietnam	Administration	government	
+
+reads % = 0.154

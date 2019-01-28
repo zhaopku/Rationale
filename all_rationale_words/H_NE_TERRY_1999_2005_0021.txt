@@ -1,0 +1,18 @@
+This is from a Republican
+----- below is the original text -----
+And(0.0) just(0.0) to(0.0) take(0.0) that(0.0) thought(0.0) and(0.0) put(0.0) it(0.0) in(0.0) context(0.0) for(0.0) someone(0.0) like(0.0) our(0.0) colleague(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Nebraska(1.0) 
+((0.0) Mr.(0.0) Osborne(1.0) )(0.0) ,(0.0) who(0.0) represents(0.0) 68\1/2\(0.0) counties(1.0) ,(0.0) this(0.0) funds(0.0) the(0.0) multijurisdictional(0.0) aspects(0.0) that(0.0) the(0.0) local(0.0) jurisdictions(0.0) would(0.0) 
+not(0.0) be(0.0) able(0.0) to(0.0) fund(0.0) because(0.0) of(0.0) their(0.0) rules(0.0) on(0.0) funding(0.0) .(0.0) So(0.0) this(0.0) allows(0.0) intra-agency(1.0) and(0.0) counties(1.0) in(0.0) the(0.0) 
+district(0.0) of(0.0) the(0.0) gentleman(0.0) from(0.0) Nebraska(1.0) ((0.0) Mr.(0.0) Osborne(1.0) )(0.0) to(1.0) actually(1.0) work(0.0) together(0.0) .(0.0) So(0.0) with(0.0) that(0.0) ,(0.0) Mr.(0.0) 
+Speaker(1.0) ,(0.0) I(0.0) yield(0.0) to(0.0) my(0.0) colleague(0.0) from(0.0) Nebraska(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Nebraska	
+Osborne	counties	
+intra-agency	counties	
+Nebraska	Osborne	to	actually	
+Speaker	Nebraska	
+
+reads % = 0.12087912087912088

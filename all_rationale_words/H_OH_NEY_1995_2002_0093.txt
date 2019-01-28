@@ -1,0 +1,20 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) pursuant(0.0) to(0.0) the(0.0) order(0.0) of(0.0) the(0.0) House(0.0) of(0.0) October(0.0) 9(0.0) ,(0.0) 2002(0.0) ,(0.0) I(0.0) call(0.0) up(0.0) the(0.0) conference(0.0) report(0.0) 
+on(0.0) the(0.0) bill(0.0) ((1.0) H.R(1.0) .(0.0) 3295(0.0) )(0.0) to(0.0) establish(0.0) a(0.0) program(0.0) to(0.0) provide(0.0) funds(0.0) to(0.0) States(0.0) to(0.0) replace(0.0) punch(0.0) 
+card(0.0) voting(0.0) systems(0.0) ,(0.0) to(0.0) establish(0.0) the(0.0) Election(1.0) Assistance(1.0) Commission(0.0) to(0.0) assist(0.0) in(0.0) the(0.0) administration(0.0) of(0.0) Federal(0.0) elections(1.0) and(0.0) to(0.0) 
+otherwise(0.0) provide(0.0) assistance(0.0) with(0.0) the(0.0) administration(0.0) of(0.0) certain(0.0) Federal(0.0) election(1.0) laws(1.0) and(0.0) programs(0.0) ,(0.0) to(0.0) establish(0.0) minimum(0.0) election(0.0) administration(1.0) standards(0.0) 
+for(0.0) States(0.0) and(0.0) units(0.0) of(0.0) local(0.0) government(0.0) with(0.0) responsibility(0.0) for(0.0) the(0.0) administration(1.0) of(0.0) Federal(0.0) elections(1.0) ,(0.0) and(0.0) for(0.0) other(0.0) purposes(0.0) 
+.(0.0) The(0.0) Clerk(0.0) read(0.0) the(0.0) title(0.0) of(0.0) the(0.0) bill(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+(	H.R	
+Election	Assistance	elections	
+election	laws	administration	
+administration	elections	
+
+
+reads % = 0.09009009009009009

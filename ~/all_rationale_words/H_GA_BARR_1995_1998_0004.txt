@@ -1,0 +1,40 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) in(0.0) my(0.0) home(1.0) county(0.0) of(0.0) Cobb(0.0) Georgia(1.0) we(0.0) have(0.0) seen(0.0) first(0.0) hand(0.0) the(0.0) problems(0.0) associated(1.0) with(0.0) the(0.0) Federal(1.0) Government(0.0) 
+controlling(1.0) the(0.0) purse(0.0) strings(0.0) .(0.0) In(0.0) one(0.0) case(0.0) ,(0.0) due(0.0) to(0.0) a(0.0) misunderstanding(1.0) between(1.0) the(0.0) national(0.0) HUD(0.0) office(0.0) and(0.0) the(0.0) 
+Regional(1.0) office(0.0) Cobb(0.0) County(1.0) has(0.0) been(0.0) made(0.0) to(0.0) suffer(1.0) .(0.0) In(0.0) a(0.0) circumstance(1.0) where(0.0) Cobb(0.0) county(1.0) should(0.0) have(0.0) received(0.0) upwards(0.0) 
+of(0.0) six(0.0) hundred(0.0) thousand(0.0) dollars(0.0) to(0.0) benefit(0.0) the(0.0) homeless(1.0) .(0.0) Instead(1.0) only(0.0) one(0.0) project(0.0) worth(0.0) eighty(1.0) one(0.0) thousand(1.0) dollars(0.0) were(0.0) 
+approved(0.0) .(0.0) In(0.0) a(0.0) recent(0.0) letter(1.0) to(0.0) Speaker(0.0) Gingrich(1.0) ,(0.0) the(0.0) Cobb(0.0) County(1.0) Community(1.0) Development(0.0) Block(0.0) Grant(0.0) Program(0.0) wrote(0.0) the(0.0) 
+following(0.0) :(1.0) We(0.0) do(0.0) not(1.0) understand(0.0) why(0.0) HUD(1.0) chose(0.0) to(0.0) ignore(0.0) the(0.0) needs(0.0) of(0.0) the(0.0) sizable(1.0) homeless(1.0) population(0.0) in(0.0) Cobb(0.0) 
+County(1.0) ,(0.0) particularly(0.0) when(0.0) local(0.0) organizations(0.0) have(0.0) done(0.0) such(0.0) a(0.0) good(0.0) job(0.0) of(0.0) carrying(0.0) out(1.0) local(0.0) planning(1.0) and(0.0) coordination(1.0) in(0.0) 
+compliance(1.0) with(0.0) HUD(1.0) 's(0.0) stated(1.0) objectives(0.0) for(0.0) the(0.0) Continuum(1.0) of(0.0) Care(0.0) process(0.0) .(0.0) Nor(1.0) do(0.0) we(0.0) feel(0.0) that(0.0) HUD(1.0) has(0.0) 
+been(0.0) candid(1.0) in(0.0) explaining(1.0) why(0.0) the(0.0) project(0.0) was(0.0) not(1.0) funded(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) H.R(0.0) .(0.0) 217(1.0) consolidates(1.0) the(0.0) seven(1.0) 
+existing(0.0) homeless(1.0) programs(0.0) under(0.0) HUD(1.0) and(0.0) requires(0.0) all(0.0) Federal(1.0) departments(1.0) and(0.0) agencies(0.0) to(0.0) coordinate(0.0) homeless(1.0) assistance(0.0) .(0.0) Wasteful(1.0) duplication(1.0) is(0.0) 
+eliminated(0.0) and(0.0) resources(0.0) are(0.0) directed(1.0) to(0.0) those(0.0) that(0.0) need(1.0) them(0.0) the(0.0) most(1.0) .(0.0) H.R(0.0) .(0.0) 217(1.0) also(1.0) provides(0.0) incentives(1.0) for(0.0) 
+communities(0.0) to(0.0) confront(0.0) homeless(0.0) issues(0.0) comprehensively(1.0) .(0.0) It(0.0) emphasizes(0.0) the(0.0) importance(1.0) of(0.0) partnerships(1.0) among(0.0) the(0.0) variety(0.0) of(0.0) non-profit(1.0) developers(1.0) and(0.0) 
+service(0.0) agencies(0.0) in(0.0) dealing(0.0) with(0.0) the(0.0) special(0.0) needs(0.0) of(0.0) homeless(1.0) persons(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) by(0.0) consolidating(1.0) these(0.0) programs(1.0) into(0.0) 
+block(0.0) grants(0.0) we(0.0) can(0.0) help(0.0) give(0.0) state(0.0) and(0.0) local(0.0) governments(1.0) the(0.0) ability(0.0) to(0.0) fight(0.0) the(0.0) problem(0.0) of(0.0) homelessness(1.0) in(0.0) a(0.0) 
+much(0.0) more(0.0) efficient(0.0) manner(0.0) .(0.0) In(0.0) the(0.0) end(0.0) ,(0.0) H.R(0.0) .(0.0) 217(1.0) will(0.0) ensure(1.0) a(0.0) better(0.0) use(1.0) of(0.0) tax(1.0) payer(1.0) 
+dollars(0.0) and(0.0) better(0.0) care(0.0) for(0.0) the(0.0) homeless(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+home	Georgia	associated	Federal	
+controlling	misunderstanding	between	
+Regional	County	suffer	circumstance	county	
+homeless	Instead	eighty	thousand	
+letter	Gingrich	County	Community	
+:	not	HUD	sizable	homeless	
+County	out	planning	coordination	
+compliance	HUD	stated	Continuum	Nor	HUD	
+candid	explaining	not	funded	Speaker	217	consolidates	seven	
+homeless	HUD	Federal	departments	homeless	Wasteful	duplication	
+directed	need	most	217	also	incentives	
+comprehensively	importance	partnerships	non-profit	developers	
+homeless	Speaker	consolidating	programs	
+governments	homelessness	
+217	ensure	use	tax	payer	
+homeless	
+
+reads % = 0.23624595469255663

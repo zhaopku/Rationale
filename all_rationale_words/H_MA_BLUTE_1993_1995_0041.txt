@@ -1,0 +1,10 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) am(0.0) sorry(1.0) ;(0.0) would(1.0) the(0.0) gentlewoman(0.0) repeat(1.0) that(0.0) ?(1.0) 
+
+
+----- below are rationale words -----
+
+sorry	would	repeat	?	
+
+reads % = 0.4

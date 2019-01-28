@@ -1,0 +1,24 @@
+This is from a Republican
+----- below is the original text -----
+It(0.0) would(0.0) be(0.0) my(0.0) hope(0.0) that(0.0) we(0.0) could(0.0) work(0.0) something(0.0) out(0.0) along(0.0) the(0.0) lines(0.0) of(0.0) the(0.0) amendment(1.0) that(0.0) I(0.0) suggested(0.0) there(0.0) 
+which(0.0) would(0.0) help(0.0) out(0.0) in(0.0) the(0.0) case(0.0) where(0.0) a(0.0) plaintiff(1.0) actually(0.0) got(0.0) a(0.0) judgment(0.0) against(0.0) a(0.0) defendant(0.0) ,(0.0) but(0.0) the(0.0) 
+defendant(0.0) offered(0.0) more(0.0) under(0.0) the(0.0) proceeding(0.0) that(0.0) is(0.0) provided(0.0) for(0.0) in(0.0) the(0.0) bill(1.0) than(0.0) what(0.0) the(0.0) plaintiff(1.0) got(0.0) from(0.0) the(0.0) 
+jury(1.0) ,(0.0) and(0.0) under(0.0) those(0.0) circumstances(0.0) ,(0.0) because(0.0) a(0.0) case(0.0) is(0.0) really(0.0) two(0.0) parts(0.0) ;(0.0) it(0.0) is(0.0) part(0.0) liability(1.0) and(0.0) 
+part(0.0) proving(0.0) damages(0.0) ,(0.0) and(0.0) clearly(0.0) the(0.0) plaintiff(1.0) would(0.0) have(0.0) proven(0.0) liability(0.0) in(0.0) those(0.0) circumstances(0.0) .(0.0) Then(0.0) there(0.0) is(0.0) an(0.0) 
+argument(1.0) to(0.0) be(0.0) made(0.0) that(0.0) it(0.0) should(0.0) be(0.0) less(0.0) than(0.0) 100(0.0) percent(0.0) .(0.0) It(0.0) would(0.0) make(0.0) it(0.0) 50(0.0) percent(0.0) .(0.0) 
+If(0.0) the(0.0) gentleman(0.0) would(0.0) work(0.0) with(0.0) us(0.0) along(0.0) those(0.0) lines(0.0) and(0.0) withdraw(0.0) his(0.0) amendment(1.0) ,(0.0) it(0.0) would(0.0) be(0.0) very(0.0) helpful(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+amendment	
+plaintiff	
+bill	plaintiff	
+jury	liability	
+plaintiff	
+argument	
+amendment	
+
+
+reads % = 0.06338028169014084

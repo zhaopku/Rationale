@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) pursuant(0.0) to(0.0) House(0.0) Resolution(1.0) 1214(1.0) ,(0.0) I(0.0) call(0.0) up(0.0) the(0.0) conference(0.0) report(0.0) on(0.0) the(0.0) Senate(0.0) concurrent(0.0) resolution(0.0) ((0.0) S.(0.0) 
+Con(1.0) .(0.0) Res(0.0) .(0.0) 70(0.0) )(0.0) setting(0.0) forth(0.0) the(0.0) congressional(0.0) budget(1.0) for(0.0) the(0.0) United(0.0) States(0.0) Government(0.0) for(0.0) fiscal(0.0) year(0.0) 2009(0.0) 
+and(0.0) including(0.0) the(0.0) appropriate(0.0) budgetary(0.0) levels(0.0) for(0.0) fiscal(0.0) years(0.0) 2008(0.0) and(0.0) 2010(0.0) through(0.0) 2013(0.0) .(0.0) The(0.0) Clerk(0.0) read(0.0) the(0.0) title(0.0) 
+of(0.0) the(0.0) Senate(0.0) concurrent(0.0) resolution(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Resolution	1214	
+Con	budget	
+
+
+
+reads % = 0.05970149253731343

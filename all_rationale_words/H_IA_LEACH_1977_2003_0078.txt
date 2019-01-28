@@ -1,0 +1,40 @@
+This is from a Republican
+----- below is the original text -----
+In(0.0) conclusion(1.0) ,(0.0) let(0.0) me(0.0) thank(0.0) each(0.0) of(0.0) the(0.0) contributors(1.0) to(0.0) today's(1.0) discussion(0.0) .(0.0) Obviously(1.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) ((0.0) 
+Mr.(0.0) Lantos(1.0) )(0.0) has(0.0) played(0.0) a(0.0) seminal(1.0) role(0.0) in(0.0) this(0.0) process(0.0) ;(0.0) so(1.0) have(0.0) the(0.0) gentlewoman(0.0) from(0.0) California(0.0) ((0.0) Ms.(1.0) 
+Watson(1.0) )(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) American(0.0) Samoa(1.0) ((0.0) Mr.(1.0) Faleomavaega(1.0) )(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Hawaii(1.0) ((0.0) Mr.(0.0) Abercrombie(1.0) 
+)(0.0) ,(0.0) and(0.0) I(0.0) would(1.0) like(0.0) to(0.0) note(0.0) with(0.0) regard(1.0) to(0.0) the(0.0) gentlewoman(0.0) from(0.0) Guam(1.0) ((0.0) Ms.(1.0) Bordallo(1.0) )(0.0) ,(0.0) 
+how(1.0) appreciative(0.0) we(0.0) are(0.0) of(0.0) her(0.0) help(0.0) in(0.0) this(0.0) endeavor(0.0) ,(0.0) and(0.0) how(0.0) appreciative(0.0) I(0.0) am(0.0) that(0.0) she(0.0) has(0.0) referenced(1.0) 
+all(0.0) the(0.0) people(0.0) from(0.0) the(0.0) outside(0.0) that(0.0) have(0.0) contributed(1.0) to(0.0) the(0.0) development(1.0) of(0.0) this(0.0) particular(0.0) agreement(1.0) .(0.0) I(0.0) might(1.0) say(1.0) 
+that(0.0) Congress(0.0) has(0.0) put(0.0) a(0.0) slightly(0.0) modified(0.0) stamp(1.0) on(0.0) what(0.0) was(0.0) negotiated(1.0) by(0.0) the(0.0) executive(1.0) branch(0.0) .(0.0) This(0.0) modified(0.0) stamp(1.0) 
+is(0.0) tilted(1.0) towards(0.0) generosity(1.0) .(0.0) This(0.0) is(0.0) particularly(0.0) appropriate(1.0) because(0.0) this(0.0) is(0.0) the(0.0) people(0.0) 's(0.0) body(0.0) ,(0.0) and(0.0) we(0.0) are(0.0) 
+in(0.0) the(0.0) fortunate(1.0) position(0.0) of(0.0) having(1.0) nothing(1.0) but(0.0) feelings(1.0) of(0.0) enormous(0.0) goodwill(1.0) towards(0.0) the(0.0) people(0.0) of(0.0) the(0.0) freely(1.0) associated(1.0) states(1.0) 
+.(0.0) This(0.0) is(0.0) a(0.0) tangible(1.0) agreement(0.0) ,(0.0) but(0.0) it(0.0) is(0.0) what(0.0) is(0.0) intangible(1.0) that(0.0) is(0.0) so(0.0) much(0.0) more(0.0) important(0.0) .(0.0) 
+So(1.0) as(0.0) we(0.0) in(0.0) this(0.0) House(0.0) pass(1.0) this(0.0) agreement(1.0) ,(0.0) I(0.0) would(1.0) just(0.0) like(0.0) to(0.0) say(1.0) that(0.0) I(0.0) am(0.0) confident(1.0) 
+I(0.0) speak(1.0) for(0.0) this(0.0) entire(1.0) body(0.0) when(0.0) I(0.0) suggest(1.0) that(0.0) we(0.0) are(0.0) proud(0.0) of(0.0) our(0.0) friends(0.0) in(0.0) the(0.0) Pacific(1.0) and(0.0) 
+we(0.0) hope(0.0) to(0.0) maintain(0.0) warm(0.0) relationships(0.0) for(0.0) decades(0.0) and(0.0) decades(0.0) to(0.0) come(0.0) .(0.0) The(0.0) SPEAKER(0.0) pro(1.0) tempore(1.0) ((0.0) Mr.(0.0) Terry(1.0) 
+)(0.0) .(0.0) The(0.0) question(1.0) is(0.0) on(0.0) the(0.0) motion(0.0) offered(1.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) Iowa(1.0) ((0.0) Mr.(0.0) Leach(1.0) )(0.0) that(0.0) the(0.0) 
+House(0.0) suspend(0.0) the(0.0) rules(1.0) and(0.0) concur(0.0) in(0.0) the(0.0) Senate(1.0) amendments(0.0) to(0.0) the(0.0) joint(1.0) resolution(0.0) ,(0.0) H.J(1.0) .(0.0) Res(1.0) .(0.0) 63(1.0) 
+.(0.0) The(0.0) question(0.0) was(0.0) taken(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+conclusion	contributors	today's	Obviously	
+Lantos	seminal	so	Ms.	
+Watson	Samoa	Mr.	Faleomavaega	Hawaii	Abercrombie	
+would	regard	Guam	Ms.	Bordallo	
+how	referenced	
+contributed	development	agreement	might	say	
+stamp	negotiated	executive	stamp	
+tilted	generosity	appropriate	
+fortunate	having	nothing	feelings	goodwill	freely	associated	states	
+tangible	intangible	
+So	pass	agreement	would	say	confident	
+speak	entire	suggest	Pacific	
+pro	tempore	Terry	
+question	offered	Iowa	Leach	
+rules	Senate	joint	H.J	Res	63	
+
+
+reads % = 0.21498371335504887

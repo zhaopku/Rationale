@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+The(0.0) Acting(0.0) CHAIRMAN(0.0) .(0.0) The(0.0) question(0.0) is(0.0) on(0.0) the(0.0) amendment(1.0) offered(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) Utah(1.0) ((0.0) Mr.(0.0) Cannon(1.0) )(0.0) .(0.0) 
+The(0.0) amendment(0.0) was(0.0) agreed(0.0) to(0.0) .(0.0) Amendment(1.0) No(0.0) .(0.0) 3(0.0) Offered(0.0) by(0.0) Mr.(0.0) Bishop(1.0) of(0.0) Utah(0.0) The(0.0) Acting(0.0) CHAIRMAN(0.0) .(0.0) 
+It(0.0) is(0.0) now(0.0) in(0.0) order(0.0) to(0.0) consider(0.0) amendment(1.0) No(1.0) .(0.0) 3(0.0) printed(0.0) in(0.0) House(0.0) Report(0.0) 110-573(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+amendment	Utah	Cannon	
+Amendment	Bishop	
+amendment	No	
+
+reads % = 0.1206896551724138

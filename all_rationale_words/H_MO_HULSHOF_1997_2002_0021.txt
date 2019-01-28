@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) 2\1/2\(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Wisconsin(1.0) ((0.0) Mr.(0.0) Ryan(1.0) )(0.0) ,(0.0) and(0.0) I(0.0) am(0.0) reminded(0.0) that(0.0) 
+in(0.0) America(0.0) ,(0.0) pessimists(0.0) are(0.0) seldom(0.0) prophets(0.0) ,(0.0) and(0.0) the(0.0) gentleman(0.0) is(0.0) an(0.0) optimist(0.0) ,(0.0) and(0.0) a(0.0) cosponsor(1.0) of(0.0) this(0.0) 
+bill(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Wisconsin	Ryan	
+cosponsor	
+bill	
+
+reads % = 0.09302325581395349

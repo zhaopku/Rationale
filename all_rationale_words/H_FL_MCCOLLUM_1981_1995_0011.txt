@@ -1,0 +1,38 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) reclaiming(1.0) my(0.0) time(0.0) ,(0.0) I(0.0) would(0.0) also(0.0) point(0.0) out(0.0) that(0.0) as(0.0) we(0.0) look(0.0) through(0.0) this(0.0) restitution(1.0) provision(1.0) ,(0.0) you(0.0) 
+will(0.0) note(0.0) that(0.0) there(0.0) are(0.0) other(0.0) victims(1.0) who(0.0) might(0.0) be(0.0) not(0.0) considered(0.0) normally(0.0) a(0.0) victim(0.0) who(0.0) are(0.0) going(0.0) to(0.0) get(0.0) 
+some(0.0) kind(0.0) of(0.0) compensation(1.0) .(0.0) For(0.0) example(0.0) ,(0.0) let(0.0) us(0.0) assume(0.0) that(0.0) you(0.0) have(0.0) a(0.0) single(0.0) mother(0.0) ,(0.0) a(0.0) single(0.0) 
+parent(0.0) ,(0.0) who(0.0) is(0.0) going(0.0) to(0.0) come(0.0) to(0.0) court(0.0) to(0.0) testify(1.0) against(0.0) a(0.0) criminal(1.0) defendant(0.0) .(0.0) That(0.0) person(0.0) may(0.0) not(0.0) 
+be(0.0) the(0.0) victim(0.0) in(0.0) the(0.0) sense(0.0) of(0.0) having(0.0) been(0.0) the(0.0) person(0.0) who(0.0) was(0.0) harmed(0.0) ,(0.0) but(0.0) perhaps(0.0) she(0.0) witnessed(0.0) the(0.0) 
+activity(0.0) ,(0.0) and(0.0) she(0.0) has(0.0) to(0.0) leave(0.0) her(0.0) child(0.0) with(0.0) a(0.0) child(0.0) care(0.0) sitter(0.0) or(0.0) somebody(0.0) to(0.0) care(0.0) for(0.0) that(0.0) 
+child(0.0) and(0.0) has(0.0) to(0.0) pay(1.0) those(0.0) costs(1.0) .(0.0) Under(0.0) this(0.0) restitution(1.0) bill(1.0) ,(0.0) the(0.0) court(1.0) could(0.0) order(0.0) that(0.0) the(0.0) accused(1.0) 
+,(0.0) who(0.0) then(0.0) becomes(0.0) the(0.0) convicted(1.0) person(0.0) once(0.0) he(0.0) is(0.0) convicted(0.0) of(0.0) the(0.0) crime(1.0) ,(0.0) the(0.0) judge(0.0) could(0.0) order(0.0) him(0.0) 
+to(0.0) pay(0.0) restitution(1.0) to(0.0) this(0.0) witness(0.0) ,(0.0) the(0.0) mother(0.0) ,(0.0) who(0.0) had(0.0) to(0.0) pay(0.0) the(0.0) child(0.0) care(0.0) fees(0.0) and(0.0) so(0.0) 
+on(0.0) .(0.0) So(0.0) it(0.0) is(0.0) a(0.0) very(0.0) broad(0.0) restitution(1.0) bill(1.0) .(0.0) It(0.0) leaves(0.0) a(0.0) lot(0.0) of(0.0) discretion(0.0) to(0.0) the(0.0) judge(0.0) 
+,(0.0) but(0.0) it(0.0) mandates(1.0) that(0.0) he(0.0) compensate(0.0) ,(0.0) at(0.0) least(0.0) through(0.0) the(0.0) order(0.0) of(0.0) restitution(1.0) ,(0.0) the(0.0) actual(0.0) victim(0.0) of(0.0) 
+the(0.0) crime(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) yield(0.0) 5(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Ohio(1.0) [(0.0) Mr.(0.0) Oxley(1.0) ](0.0) ,(0.0) 
+who(0.0) authored(0.0) ,(0.0) I(0.0) believe(0.0) ,(0.0) the(0.0) first(0.0) one(0.0) of(0.0) these(0.0) restitution(0.0) proposals(0.0) several(0.0) years(0.0) ago(0.0) ,(0.0) and(0.0) it(0.0) is(0.0) 
+finally(0.0) coming(0.0) to(0.0) fruition(0.0) .(0.0) ((0.0) Mr.(0.0) OXLEY(1.0) asked(0.0) and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) 
+)(0.0) 
+
+
+----- below are rationale words -----
+
+reclaiming	restitution	provision	
+victims	
+compensation	
+testify	criminal	
+
+
+pay	costs	restitution	bill	court	accused	
+convicted	crime	
+restitution	
+restitution	bill	
+mandates	restitution	
+crime	Chairman	Ohio	Oxley	
+
+OXLEY	
+
+
+reads % = 0.08865248226950355

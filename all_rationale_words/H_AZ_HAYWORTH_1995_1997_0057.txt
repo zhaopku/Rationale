@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) it(0.0) was(0.0) good(0.0) to(0.0) be(0.0) back(0.0) home(0.0) in(0.0) the(0.0) Sixth(1.0) District(0.0) of(0.0) Arizona(1.0) last(0.0) week(0.0) ,(0.0) being(0.0) outside(0.0) of(0.0) 
+the(0.0) beltway(1.0) and(0.0) all(0.0) of(0.0) the(0.0) speculation(0.0) and(0.0) all(0.0) the(0.0) imagined(0.0) conversation(0.0) ,(0.0) and(0.0) to(0.0) talk(0.0) to(0.0) honest(0.0) to(0.0) goodness(0.0) 
+Americans(1.0) and(0.0) Arizonans(1.0) ,(0.0) people(0.0) who(0.0) are(0.0) pleased(0.0) at(0.0) long(0.0) last(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) that(0.0) this(0.0) conservative(1.0) majority(1.0) will(1.0) 
+deliver(1.0) on(1.0) promises(1.0) that(1.0) should(1.0) have(0.0) been(0.0) realized(0.0) a(0.0) long(0.0) time(0.0) ago(0.0) :(0.0) tax(1.0) cuts(1.0) for(1.0) the(0.0) American(0.0) people(0.0) ,(0.0) 
+the(0.0) first(0.0) tax(1.0) cuts(1.0) in(1.0) over(1.0) a(1.0) decade(1.0) and(0.0) a(0.0) half(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) the(0.0) people(0.0) of(0.0) the(0.0) Sixth(1.0) 
+District(0.0) viewed(0.0) with(0.0) alarm(0.0) ,(0.0) concern(0.0) and(0.0) outright(1.0) curiosity(0.0) the(0.0) claims(0.0) by(0.0) some(0.0) about(0.0) the(0.0) notion(1.0) of(0.0) giving(0.0) income(1.0) tax(1.0) 
+cuts(1.0) to(1.0) people(1.0) who(1.0) do(1.0) not(1.0) pay(1.0) income(1.0) taxes(1.0) .(1.0) They(0.0) said(0.0) it(0.0) in(0.0) Show(0.0) Low(0.0) ,(0.0) Arizona(1.0) ,(0.0) they(0.0) 
+said(0.0) it(0.0) in(0.0) Eagar(1.0) and(0.0) Overgaard(0.0) :(0.0) How(0.0) do(0.0) we(0.0) give(0.0) an(0.0) income(1.0) tax(1.0) cut(1.0) to(1.0) someone(1.0) who(1.0) does(1.0) not(1.0) 
+pay(1.0) income(1.0) taxes(1.0) ?(1.0) How(0.0) indeed(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ?(1.0) The(0.0) good(0.0) news(0.0) is(0.0) ,(0.0) over(0.0) 70(0.0) percent(0.0) of(0.0) our(0.0) 
+tax(1.0) cuts(1.0) go(1.0) to(1.0) middle(1.0) income(1.0) families(1.0) ,(1.0) working(0.0) Americans(1.0) .(0.0) We(0.0) realize(0.0) the(0.0) value(0.0) of(0.0) work(0.0) ,(0.0) we(0.0) realize(0.0) 
+the(0.0) value(0.0) of(0.0) individual(0.0) initiative(1.0) ,(0.0) and(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) we(0.0) realize(0.0) the(0.0) value(0.0) of(0.0) having(0.0) hard-working(1.0) Americans(1.0) keep(0.0) more(0.0) 
+of(0.0) their(0.0) own(0.0) money(1.0) in(0.0) their(0.0) pockets(0.0) and(0.0) send(0.0) less(0.0) of(0.0) it(0.0) here(0.0) to(0.0) Washington(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Sixth	Arizona	
+beltway	
+Americans	Arizonans	Speaker	conservative	majority	will	
+deliver	on	promises	that	should	tax	cuts	for	
+tax	cuts	in	over	a	decade	Speaker	Sixth	
+outright	notion	income	tax	
+cuts	to	people	who	do	not	pay	income	taxes	.	Arizona	
+Eagar	income	tax	cut	to	someone	who	does	not	
+pay	income	taxes	?	Speaker	?	
+tax	cuts	go	to	middle	income	families	,	Americans	
+initiative	Speaker	hard-working	Americans	
+money	Washington	
+
+reads % = 0.29535864978902954

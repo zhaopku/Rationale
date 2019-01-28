@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) this(0.0) morning(0.0) to(0.0) offer(0.0) my(0.0) support(0.0) for(0.0) the(0.0) STOCK(0.0) Act(0.0) ,(0.0) a(0.0) bill(0.0) that(0.0) would(0.0) make(0.0) it(0.0) 
+illegal(1.0) for(0.0) Members(0.0) of(0.0) Congress(0.0) to(0.0) trade(0.0) securities(0.0) on(0.0) inside(0.0) information(0.0) ,(0.0) a(0.0) restriction(0.0) that(0.0) applies(0.0) to(0.0) pretty(0.0) much(0.0) everybody(0.0) 
+else(0.0) .(0.0) I(0.0) 'm(0.0) a(0.0) proud(0.0) cosponsor(1.0) of(0.0) that(0.0) act(1.0) ,(0.0) but(0.0) only(0.0) partly(0.0) proud(0.0) .(0.0) I(0.0) 'm(0.0) ,(0.0) frankly(0.0) 
+,(0.0) embarrassed(0.0) that(0.0) legislation(1.0) is(0.0) necessary(0.0) to(0.0) prohibit(1.0) insider(1.0) trading(1.0) by(1.0) all(0.0) of(0.0) us(0.0) .(0.0) I(0.0) urge(0.0) the(0.0) Republican(1.0) leadership(1.0) 
+to(1.0) bring(1.0) that(1.0) bill(1.0) to(1.0) the(1.0) floor(1.0) now(1.0) .(1.0) Do(1.0) n't(1.0) make(1.0) us(1.0) go(1.0) through(1.0) petitions(1.0) and(1.0) this(1.0) and(1.0) that(1.0) 
+and(0.0) the(0.0) other(0.0) thing(0.0) .(0.0) Let(0.0) 's(0.0) bring(0.0) it(0.0) to(0.0) the(0.0) floor(0.0) now(0.0) .(0.0) And(0.0) I(0.0) urge(0.0) the(0.0) other(0.0) body(0.0) 
+,(0.0) the(0.0) United(0.0) States(0.0) Senate(0.0) ,(0.0) to(0.0) move(0.0) it(0.0) now(0.0) .(0.0) My(0.0) understanding(0.0) is(0.0) that(0.0) Senators(1.0) are(0.0) attaching(0.0) constitutional(1.0) amendments(1.0) 
+and(0.0) other(0.0) irrelevant(1.0) provisions(1.0) to(0.0) a(0.0) bill(1.0) that(0.0) should(0.0) be(0.0) a(0.0) ``(0.0) no-brainer(0.0) .(0.0) ''(0.0) If(0.0) we(0.0) ca(0.0) n't(0.0) get(0.0) 
+this(0.0) done(0.0) ,(0.0) we(0.0) will(0.0) have(0.0) earned(0.0) the(0.0) scorn(1.0) of(0.0) the(0.0) American(0.0) people(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+illegal	
+cosponsor	act	
+legislation	prohibit	insider	trading	by	Republican	leadership	
+to	bring	that	bill	to	the	floor	now	.	Do	n't	make	us	go	through	petitions	and	this	and	that	
+
+Senators	constitutional	amendments	
+irrelevant	provisions	bill	
+scorn	
+
+reads % = 0.21142857142857144

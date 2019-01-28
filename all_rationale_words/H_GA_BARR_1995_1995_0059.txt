@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) time(0.0) to(0.0) me(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) this(0.0) has(0.0) been(0.0) one(0.0) of(0.0) the(0.0) 
+most(0.0) hilarious(0.0) debates(1.0) I(0.0) have(0.0) witnessed(0.0) in(0.0) the(0.0) over(0.0) 10(0.0) months(0.0) that(0.0) I(0.0) have(0.0) been(0.0) here(0.0) .(0.0) A(0.0) Democratic(0.0) President(0.0) 
+lowers(1.0) the(0.0) earnings(0.0) limit(0.0) on(0.0) Social(0.0) Security(0.0) recipients'(0.0) outside(0.0) earnings(0.0) ,(0.0) increases(0.0) substantially(1.0) the(0.0) penalty(1.0) for(0.0) working(0.0) Americans(1.0) who(0.0) happen(0.0) 
+to(0.0) have(0.0) senior(0.0) status(0.0) ,(0.0) and(0.0) we(0.0) in(0.0) this(0.0) Congress(1.0) on(0.0) the(0.0) Republican(1.0) side(1.0) are(1.0) trying(1.0) to(1.0) raise(1.0) that(1.0) limit(1.0) 
+again(1.0) so(1.0) that(1.0) senior(1.0) citizens(1.0) can(1.0) work(1.0) without(1.0) being(1.0) penalized(1.0) ,(1.0) and(1.0) the(0.0) Democrats(1.0) are(1.0) dancing(1.0) around(0.0) ,(0.0) coming(0.0) up(0.0) 
+with(0.0) the(0.0) most(0.0) ludicrous(1.0) reasons(1.0) why(0.0) they(0.0) can(0.0) not(0.0) support(0.0) this(0.0) .(0.0) This(0.0) is(0.0) a(0.0) good(0.0) resolution(1.0) .(0.0) We(0.0) need(0.0) 
+to(0.0) do(0.0) it(0.0) .(0.0) It(0.0) is(0.0) the(0.0) Democrats(1.0) in(0.0) the(0.0) Senate(1.0) that(0.0) are(0.0) preventing(1.0) us(0.0) from(0.0) doing(0.0) it(0.0) now(0.0) in(0.0) 
+the(0.0) reconciliation(1.0) ,(0.0) my(0.0) colleagues(0.0) on(0.0) the(0.0) other(0.0) side(0.0) of(0.0) the(0.0) aisle(0.0) all(0.0) know(0.0) that(0.0) ,(0.0) so(0.0) let(0.0) us(0.0) pass(0.0) 
+this(0.0) resolution(1.0) and(0.0) eventually(0.0) pass(0.0) this(0.0) into(0.0) law(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	
+debates	
+lowers	substantially	penalty	Americans	
+Congress	Republican	side	are	trying	to	raise	that	limit	
+again	so	that	senior	citizens	can	work	without	being	penalized	,	and	Democrats	are	dancing	
+ludicrous	reasons	resolution	
+Democrats	Senate	preventing	
+reconciliation	
+resolution	law	
+
+reads % = 0.22941176470588234

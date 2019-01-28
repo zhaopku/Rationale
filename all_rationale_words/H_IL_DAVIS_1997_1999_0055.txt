@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) to(0.0) pay(1.0) special(0.0) tribute(0.0) to(0.0) community(0.0) health(1.0) centers(1.0) operating(0.0) in(0.0) my(0.0) district(0.0) which(0.0) have(0.0) gone(0.0) above(0.0) 
+and(0.0) beyond(0.0) just(0.0) simply(0.0) being(0.0) providers(0.0) of(0.0) good(0.0) care(0.0) but(0.0) who(0.0) have(0.0) also(0.0) demonstrated(0.0) a(0.0) real(0.0) understanding(0.0) of(0.0) the(0.0) health(1.0) 
+needs(0.0) of(0.0) a(0.0) community(0.0) .(0.0) Today(0.0) there(0.0) are(0.0) more(0.0) than(0.0) 43(0.0) million(0.0) Americans(1.0) without(0.0) health(1.0) insurance(1.0) .(0.0) However(0.0) ,(0.0) despite(0.0) 
+the(0.0) staggering(1.0) numbers(0.0) of(0.0) uninsured(1.0) ,(0.0) a(0.0) network(0.0) of(0.0) health(1.0) centers(1.0) in(0.0) my(0.0) district(0.0) have(0.0) continued(0.0) to(0.0) rise(1.0) to(0.0) the(0.0) 
+challenge(0.0) and(0.0) provide(0.0) outstanding(0.0) care(0.0) to(0.0) those(0.0) uninsured(1.0) .(0.0) Under(0.0) the(0.0) tireless(1.0) leadership(0.0) of(0.0) Bill(1.0) Moorehead(1.0) ,(0.0) board(0.0) chairman(0.0) ,(0.0) 
+and(0.0) Berneice(1.0) Mills-Thomas(0.0) ,(0.0) executive(0.0) director(1.0) ,(0.0) the(0.0) Near(0.0) North(0.0) Health(0.0) Service(0.0) Corporation(0.0) provides(0.0) primary(0.0) care(0.0) to(0.0) women(1.0) ,(0.0) infants(0.0) 
+,(0.0) school(0.0) age(0.0) children(0.0) and(0.0) their(0.0) parents(0.0) who(0.0) live(0.0) in(0.0) medically(0.0) underserved(1.0) areas(0.0) of(0.0) the(0.0) City(0.0) of(0.0) Chicago(1.0) .(0.0) In(0.0) 
+addition(0.0) ,(0.0) Near(0.0) North(0.0) operates(0.0) the(0.0) Infant(0.0) Mortality(0.0) Reduction(0.0) Initiative(1.0) .(0.0) This(0.0) program(0.0) seeks(0.0) out(0.0) high-risk(0.0) families(0.0) via(0.0) a(0.0) door-to-(0.0) 
+door(0.0) canvass(0.0) of(0.0) blighted(1.0) neighborhoods(1.0) and(0.0) the(0.0) Cabrini(1.0) Green(0.0) Housing(0.0) Development(0.0) .(0.0) This(0.0) program(0.0) has(0.0) been(0.0) credited(0.0) with(0.0) reducing(0.0) the(0.0) 
+infant(0.0) mortality(0.0) rate(0.0) of(0.0) the(0.0) area(0.0) from(0.0) 26.6(0.0) per(0.0) 1,000(0.0) live(0.0) births(1.0) to(0.0) 12.8(0.0) per(0.0) 1,000(0.0) live(0.0) births(1.0) .(0.0) Healthy(1.0) 
+Start(0.0) ,(0.0) Store(0.0) Smart(0.0) Moms(1.0) and(0.0) Youth(0.0) Pregnancy(0.0) Prevention(0.0) .(0.0) This(0.0) program(1.0) teaches(0.0) young(0.0) mothers(1.0) how(0.0) to(0.0) purchase(0.0) nutritional(1.0) meals(0.0) 
+for(0.0) their(0.0) children(0.0) through(0.0) mobile(0.0) and(0.0) satellite(0.0) clinic(0.0) programs(0.0) .(0.0) Project(0.0) Match(0.0) .(0.0) This(0.0) program(1.0) matches(0.0) former(0.0) welfare(1.0) recipients(0.0) to(0.0) 
+real(0.0) jobs(0.0) ,(0.0) jobs(0.0) that(0.0) provide(0.0) a(0.0) real(0.0) opportunity(0.0) for(0.0) families(0.0) to(0.0) become(0.0) totally(0.0) self-sufficient(0.0) .(0.0) Since(0.0) its(0.0) inception(1.0) ,(0.0) 
+Project(0.0) Match(0.0) has(0.0) found(0.0) jobs(0.0) for(0.0) over(0.0) 800(0.0) people(0.0) who(0.0) would(0.0) otherwise(0.0) still(0.0) be(0.0) on(0.0) public(1.0) assistance(1.0) .(0.0) Near(0.0) North(0.0) 
+Health(0.0) Services(0.0) Corporation(0.0) 's(0.0) record(0.0) of(0.0) achievement(0.0) through(0.0) its(0.0) service(0.0) to(0.0) the(0.0) community(0.0) ,(0.0) City(1.0) of(0.0) Chicago(1.0) ,(0.0) and(0.0) State(0.0) 
+of(0.0) Illinois(1.0) must(0.0) be(0.0) commended(0.0) for(0.0) its(0.0) recent(0.0) focus(0.0) on(0.0) male(0.0) health(0.0) .(0.0) Another(0.0) outstanding(0.0) community(0.0) health(1.0) center(0.0) operating(0.0) in(0.0) 
+the(0.0) City(0.0) of(0.0) Chicago(1.0) is(0.0) the(0.0) Erie(1.0) Family(0.0) Health(0.0) Center(0.0) .(0.0) Currently(0.0) undergoing(0.0) a(0.0) change(0.0) in(0.0) leadership(0.0) ,(0.0) this(0.0) community(0.0) 
+health(1.0) center(0.0) is(0.0) able(0.0) to(0.0) serve(0.0) over(0.0) 17,000(0.0) patients(0.0) per(0.0) year(0.0) in(0.0) the(0.0) West(0.0) Town(0.0) ,(0.0) Humboldt(1.0) Park(0.0) ,(0.0) and(0.0) 
+Logan(1.0) Square(0.0) neighborhoods(1.0) .(0.0) In(0.0) addition(0.0) to(0.0) the(0.0) excellent(0.0) primary(0.0) care(0.0) services(0.0) offered(0.0) at(0.0) all(0.0) of(0.0) the(0.0) Erie(1.0) Family(0.0) sites(0.0) 
+,(0.0) Erie(1.0) Family(0.0) also(0.0) administers(0.0) a(0.0) wide(0.0) array(0.0) of(0.0) social(0.0) services(0.0) to(0.0) its(0.0) communities(1.0) ,(0.0) including(0.0) the(0.0) Erie(1.0) Teen(0.0) Health(0.0) 
+Center(0.0) .(0.0) This(0.0) center(0.0) serves(0.0) the(0.0) health(1.0) needs(0.0) of(0.0) at-risk(1.0) adolescents(0.0) .(0.0) The(0.0) Erie(1.0) Integrated(0.0) Care(0.0) Program(0.0) .(0.0) This(0.0) is(0.0) 
+the(0.0) only(0.0) bilingual(0.0) primary(0.0) care(0.0) provider(0.0) serving(0.0) HIV(1.0) and(0.0) HIV/AIDS-infected(0.0) patients(0.0) in(0.0) the(0.0) City(0.0) of(0.0) Chicago(1.0) .(0.0) The(0.0) Pediatric(0.0) Care(0.0) 
+Program(0.0) in(0.0) collaboration(0.0) with(0.0) the(0.0) Illinois(1.0) Department(0.0) of(0.0) Public(0.0) Health(0.0) .(0.0) This(0.0) program(0.0) services(0.0) children(0.0) zero(0.0) to(0.0) 21(0.0) whose(0.0) income(0.0) 
+falls(0.0) below(0.0) 180(0.0) percent(0.0) of(0.0) the(0.0) Federal(0.0) poverty(1.0) line(0.0) .(0.0) This(0.0) program(1.0) serves(0.0) those(0.0) children(0.0) and(0.0) young(0.0) adults(0.0) who(0.0) would(0.0) 
+not(0.0) otherwise(0.0) qualify(0.0) for(0.0) Medicaid(1.0) .(0.0) Near(0.0) North(0.0) and(0.0) Erie(1.0) Family(0.0) represents(0.0) a(0.0) small(0.0) fraction(0.0) of(0.0) the(0.0) good(0.0) Chicago(0.0) 
+
+
+----- below are rationale words -----
+
+pay	health	centers	
+health	
+Americans	health	insurance	
+staggering	uninsured	health	centers	rise	
+uninsured	tireless	Bill	Moorehead	
+Berneice	director	women	
+underserved	Chicago	
+Initiative	
+blighted	neighborhoods	Cabrini	
+births	births	Healthy	
+Moms	program	mothers	nutritional	
+program	welfare	
+inception	
+public	assistance	
+City	Chicago	
+Illinois	health	
+Chicago	Erie	
+health	Humboldt	
+Logan	neighborhoods	Erie	
+Erie	communities	Erie	
+health	at-risk	Erie	
+HIV	Chicago	
+Illinois	
+poverty	program	
+Medicaid	Erie	
+
+reads % = 0.122

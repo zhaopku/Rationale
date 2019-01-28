@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) the(0.0) Clinton(1.0) administration(1.0) trustees(0.0) have(0.0) come(0.0) out(0.0) with(0.0) a(0.0) report(0.0) that(0.0) clearly(0.0) states(1.0) that(0.0) Medicare(1.0) is(0.0) going(0.0) broke(0.0) ,(0.0) 
+and(0.0) that(0.0) is(0.0) a(0.0) fact(0.0) .(0.0) That(0.0) is(0.0) why(0.0) the(0.0) Republicans(1.0) have(1.0) worked(1.0) hard(1.0) ,(1.0) get(1.0) this(1.0) ,(0.0) to(0.0) increase(1.0) 
+the(0.0) amount(1.0) of(0.0) money(1.0) that(0.0) we(0.0) are(0.0) spending(1.0) on(0.0) Medicare(1.0) .(0.0) If(0.0) someone(0.0) is(0.0) on(0.0) Medicare(1.0) today(0.0) ,(0.0) they(0.0) will(0.0) 
+receive(0.0) $(0.0) 4,800(0.0) on(0.0) average(0.0) per(0.0) beneficiary(1.0) .(0.0) Under(0.0) our(0.0) plan(1.0) someone(0.0) will(0.0) receive(0.0) $(0.0) 6,700(0.0) if(0.0) they(0.0) are(0.0) on(0.0) 
+Medicare(1.0) per(0.0) beneficiary(1.0) .(0.0) That(0.0) is(0.0) an(0.0) increase(1.0) .(0.0) But(0.0) now(0.0) the(0.0) special-interest(1.0) groups(0.0) have(0.0) targeted(0.0) me(0.0) as(0.0) spending(1.0) $(0.0) 
+85,000(0.0) worth(0.0) of(0.0) television(0.0) advertising(0.0) in(0.0) my(0.0) district(0.0) misrepresenting(1.0) the(0.0) truth(0.0) ,(0.0) talking(0.0) about(0.0) cuts(1.0) ,(0.0) talking(0.0) about(0.0) what(0.0) I(0.0) 
+call(0.0) Mediscare(1.0) and(0.0) scaring(1.0) seniors(1.0) ,(0.0) and(0.0) that(0.0) is(0.0) despicable(1.0) .(0.0) But(0.0) the(0.0) calls(0.0) to(0.0) my(0.0) office(0.0) ,(0.0) over(0.0) 90(0.0) 
+percent(0.0) of(0.0) the(0.0) calls(0.0) ,(0.0) are(0.0) saying(0.0) to(0.0) me(0.0) ,(0.0) ``(0.0) Randy(0.0) ,(0.0) stay(0.0) the(0.0) course(0.0) .(0.0) Do(0.0) n't(0.0) give(0.0) 
+up(0.0) .(0.0) ''(0.0) Well(0.0) ,(0.0) the(0.0) Republicans(1.0) will(1.0) not(1.0) give(1.0) up(1.0) on(1.0) Medicare(1.0) .(1.0) We(1.0) will(1.0) not(1.0) give(1.0) up(1.0) on(1.0) 
+seniors(1.0) .(1.0) It(0.0) is(0.0) too(0.0) bad(0.0) the(0.0) liberals(1.0) have(0.0) given(0.0) up(0.0) on(0.0) the(0.0) seniors(1.0) of(0.0) the(0.0) United(0.0) States(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Clinton	administration	states	Medicare	
+Republicans	have	worked	hard	,	get	this	increase	
+amount	money	spending	Medicare	Medicare	
+beneficiary	plan	
+Medicare	beneficiary	increase	special-interest	spending	
+misrepresenting	cuts	
+Mediscare	scaring	seniors	despicable	
+
+Republicans	will	not	give	up	on	Medicare	.	We	will	not	give	up	on	
+seniors	.	liberals	seniors	
+
+reads % = 0.24

@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Well(0.0) ,(0.0) this(0.0) is(0.0) a(0.0) reprioritizing(0.0) of(0.0) how(0.0) we(0.0) are(0.0) spending(1.0) the(0.0) taxpayers(1.0) '(0.0) money(0.0) .(0.0) We(0.0) can(0.0) spend(1.0) it(0.0) on(0.0) 
+any(0.0) one(0.0) of(0.0) a(0.0) number(0.0) of(0.0) programs(1.0) out(0.0) here(0.0) .(0.0) We(0.0) simply(0.0) said(0.0) ,(0.0) look(0.0) ,(0.0) if(0.0) the(0.0) rest(0.0) of(0.0) 
+the(0.0) budget(1.0) is(0.0) going(0.0) to(0.0) be(0.0) allowed(0.0) to(0.0) increase(1.0) at(0.0) the(0.0) rate(0.0) of(0.0) inflation(1.0) ,(0.0) we(0.0) want(0.0) our(0.0) defense(1.0) spending(1.0) 
+to(0.0) increase(1.0) at(0.0) the(0.0) rate(0.0) of(0.0) inflation(1.0) too(0.0) .(0.0) Everybody(0.0) out(0.0) here(0.0) called(0.0) that(0.0) an(0.0) increase(1.0) .(0.0) They(0.0) call(0.0) it(0.0) 
+cuts(1.0) when(0.0) we(0.0) are(0.0) actually(0.0) spending(1.0) much(0.0) more(0.0) than(0.0) the(0.0) rate(0.0) of(0.0) inflation(1.0) .(0.0) They(0.0) call(0.0) it(0.0) an(0.0) increase(1.0) when(0.0) 
+we(0.0) are(0.0) only(0.0) letting(0.0) it(0.0) go(0.0) up(0.0) at(0.0) the(0.0) rate(0.0) of(0.0) inflation(1.0) .(0.0) It(0.0) is(0.0) a(0.0) very(0.0) strange(0.0) community(0.0) when(0.0) 
+we(0.0) start(0.0) thinking(0.0) about(0.0) the(0.0) actual(0.0) language(0.0) .(0.0) I(0.0) had(0.0) this(0.0) discussion(0.0) as(0.0) a(0.0) matter(0.0) of(0.0) fact(0.0) with(0.0) a(0.0) well-respected(0.0) 
+reporter(0.0) from(0.0) Milwaukee(1.0) ,(0.0) Wisconsin(1.0) .(0.0) And(0.0) I(0.0) mean(0.0) it(0.0) .(0.0) He(0.0) is(0.0) a(0.0) good(0.0) reporter(0.0) from(0.0) the(0.0) community(0.0) of(0.0) 
+Milwaukee(1.0) ,(0.0) Wisconsin(1.0) ,(0.0) and(0.0) we(0.0) had(0.0) this(0.0) discussion(0.0) .(0.0) My(0.0) opponent(1.0) was(0.0) talking(0.0) to(0.0) me(0.0) about(0.0) how(0.0) we(0.0) were(0.0) 
+increasing(0.0) spending(1.0) by(0.0) $(0.0) 9(0.0) billion(1.0) in(0.0) defense(1.0) .(0.0) I(0.0) took(0.0) out(0.0) the(0.0) numbers(0.0) .(0.0) Our(0.0) first(0.0) year(0.0) here(0.0) we(0.0) 
+spent(0.0) $(0.0) 272(0.0) billion(1.0) on(0.0) defense(1.0) .(0.0) We(0.0) are(0.0) now(0.0) spending(1.0) $(0.0) 264(0.0) billion(1.0) .(0.0) We(0.0) spent(0.0) $(0.0) 272(0.0) billion(1.0) 
+the(0.0) first(0.0) year(0.0) ;(0.0) we(0.0) are(0.0) now(0.0) spending(1.0) $(0.0) 264(0.0) billion(1.0) .(0.0) Now(0.0) in(0.0) Wisconsin(1.0) we(0.0) would(0.0) call(0.0) that(0.0) a(0.0) 
+decrease(0.0) in(0.0) spending(1.0) ,(0.0) but(0.0) that(0.0) is(0.0) not(0.0) what(0.0) they(0.0) call(0.0) it(0.0) .(0.0) They(0.0) call(0.0) it(0.0) an(0.0) increase(1.0) .(0.0) Let(0.0) 
+me(0.0) explain(0.0) why(0.0) that(0.0) is(0.0) an(0.0) increase(1.0) in(0.0) spending(1.0) ,(0.0) even(0.0) though(0.0) spending(1.0) went(0.0) down(0.0) from(0.0) $(0.0) 272(0.0) billion(1.0) to(0.0) 
+$(0.0) 264(0.0) billion(1.0) .(0.0) The(0.0) President(1.0) only(0.0) requested(0.0) $(0.0) 255(0.0) billion(1.0) .(0.0) So(0.0) when(0.0) we(0.0) spent(0.0) $(0.0) 264(0.0) billion(1.0) ,(0.0) 
+they(0.0) called(0.0) that(0.0) an(0.0) increase(1.0) over(0.0) what(0.0) the(0.0) President(1.0) requested(0.0) even(0.0) though(0.0) it(0.0) was(0.0) a(0.0) decrease(0.0) .(0.0) And(0.0) if(0.0) listeners(0.0) 
+are(0.0) not(0.0) confused(0.0) yet(0.0) ,(0.0) I(0.0) will(0.0) give(0.0) more(0.0) numbers(0.0) .(0.0) But(0.0) the(0.0) facts(0.0) are(0.0) it(0.0) gets(0.0) twisted(0.0) when(0.0) one(0.0) 
+tries(0.0) to(0.0) listen(0.0) to(0.0) people(0.0) in(0.0) this(0.0) community(0.0) .(0.0) The(0.0) bottom(0.0) line(0.0) in(0.0) the(0.0) CATS(1.0) budget(1.0) ,(0.0) defense(1.0) spending(1.0) is(0.0) 
+frozen(0.0) in(0.0) real(1.0) dollars(1.0) .(0.0) That(0.0) is(0.0) to(0.0) say(0.0) ,(0.0) it(0.0) is(0.0) allowed(0.0) to(0.0) increase(1.0) at(0.0) the(0.0) rate(1.0) of(0.0) inflation(1.0) 
+,(0.0) and(0.0) this(0.0) is(0.0) the(0.0) only(0.0) budget(1.0) on(0.0) the(0.0) Hill(0.0) that(0.0) actually(0.0) allows(0.0) for(0.0) inflationary(1.0) increase(0.0) in(0.0) defense(1.0) spending(1.0) .(0.0) 
+There(0.0) are(0.0) people(0.0) out(0.0) there(0.0) that(0.0) bought(0.0) $(0.0) 75(0.0) hammers(1.0) and(0.0) $(0.0) 200(0.0) toilet(1.0) seats(0.0) .(0.0) We(0.0) ought(1.0) to(0.0) can(0.0) 
+those(0.0) people(0.0) .(0.0) We(0.0) ought(1.0) to(0.0) fire(0.0) those(0.0) people(0.0) today(0.0) .(0.0) The(0.0) people(0.0) responsible(0.0) for(0.0) the(0.0) waste(1.0) in(0.0) the(0.0) military(0.0) 
+ought(0.0) to(0.0) be(0.0) booted(0.0) out(0.0) and(0.0) booted(0.0) out(0.0) right(0.0) now(0.0) .(0.0) But(0.0) that(0.0) does(0.0) not(0.0) mean(0.0) that(0.0) because(0.0) of(0.0) those(0.0) 
+few(0.0) we(0.0) should(0.0) place(0.0) our(0.0) men(0.0) and(0.0) women(0.0) in(0.0) uniform(1.0) in(0.0) jeopardy(1.0) ,(0.0) and(0.0) that(0.0) is(0.0) what(0.0) has(0.0) been(0.0) going(0.0) 
+on(0.0) out(0.0) here(0.0) .(0.0) They(0.0) have(0.0) been(0.0) demagoguing(1.0) it(0.0) based(0.0) on(0.0) the(0.0) few(0.0) people(0.0) who(0.0) are(0.0) making(0.0) the(0.0) horrible(1.0) 
+
+
+----- below are rationale words -----
+
+spending	taxpayers	spend	
+programs	
+budget	increase	inflation	defense	spending	
+increase	inflation	increase	
+cuts	spending	inflation	increase	
+inflation	
+
+Milwaukee	Wisconsin	
+Milwaukee	Wisconsin	opponent	
+spending	billion	defense	
+billion	defense	spending	billion	billion	
+spending	billion	Wisconsin	
+spending	increase	
+increase	spending	spending	billion	
+billion	President	billion	billion	
+increase	President	
+
+CATS	budget	defense	spending	
+real	dollars	increase	rate	inflation	
+budget	inflationary	defense	spending	
+hammers	toilet	ought	
+ought	waste	
+
+uniform	jeopardy	
+demagoguing	horrible	
+
+reads % = 0.134

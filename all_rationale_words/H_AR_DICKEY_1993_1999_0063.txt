@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+Let(0.0) me(0.0) give(0.0) you(0.0) an(0.0) example(0.0) .(0.0) A(0.0) young(0.0) man(0.0) ,(0.0) younger(0.0) than(0.0) I(0.0) am(0.0) ,(0.0) younger(0.0) than(0.0) we(0.0) are(0.0) ,(0.0) 
+came(0.0) to(0.0) this(0.0) city(1.0) and(0.0) told(0.0) the(0.0) story(0.0) of(0.0) what(0.0) it(0.0) was(0.0) like(0.0) in(0.0) a(0.0) small(0.0) town(0.0) in(0.0) my(0.0) district(0.0) 
+where(0.0) he(0.0) owns(0.0) a(0.0) bank(0.0) ,(0.0) he(0.0) owns(0.0) three(0.0) banks(0.0) ,(0.0) his(0.0) family(0.0) does(0.0) ,(0.0) a(0.0) car(0.0) dealership(0.0) and(0.0) some(0.0) 
+timberlands(0.0) .(0.0) When(0.0) his(0.0) grandmother(0.0) dies(0.0) ,(0.0) he(0.0) is(0.0) going(0.0) to(0.0) have(0.0) to(0.0) borrow(0.0) money(0.0) and(0.0) pay(1.0) $(0.0) 20,000(0.0) a(0.0) 
+month(0.0) to(0.0) pay(1.0) the(0.0) death(1.0) taxes(1.0) that(0.0) are(0.0) going(0.0) to(0.0) be(0.0) on(0.0) her(0.0) estate(0.0) .(0.0) Now(0.0) ,(0.0) when(0.0) his(0.0) dad(0.0) 
+dies(0.0) ,(0.0) her(0.0) son(0.0) ,(0.0) it(0.0) is(0.0) going(0.0) to(0.0) be(0.0) more(0.0) than(0.0) that(0.0) ,(0.0) because(0.0) hers(0.0) will(0.0) come(0.0) into(0.0) his(0.0) 
+and(0.0) then(0.0) it(0.0) comes(0.0) down(0.0) .(0.0) Now(0.0) ,(0.0) here(0.0) is(0.0) what(0.0) will(0.0) happen(0.0) to(0.0) them(0.0) .(0.0) This(0.0) may(0.0) be(0.0) something(0.0) 
+where(0.0) you(0.0) are(0.0) in(0.0) favor(1.0) of(0.0) .(0.0) They(0.0) will(0.0) have(0.0) to(0.0) sell(0.0) .(0.0) They(0.0) can(0.0) not(0.0) expand(0.0) ,(0.0) first(0.0) of(0.0) 
+all(0.0) .(0.0) If(0.0) they(0.0) can(0.0) not(0.0) meet(0.0) the(0.0) debt(1.0) payment(0.0) ,(0.0) they(0.0) are(0.0) going(0.0) to(0.0) have(0.0) to(0.0) sell(0.0) off(0.0) their(0.0) 
+interest(0.0) .(0.0) Is(0.0) that(0.0) what(0.0) you(0.0) say(0.0) is(0.0) the(0.0) benefit(1.0) of(0.0) the(0.0) estate(0.0) taxes(0.0) ?(1.0) Or(0.0) are(0.0) we(0.0) stifling(1.0) growth(1.0) 
+,(0.0) reinvestment(1.0) and(0.0) further(0.0) employment(1.0) by(0.0) doing(0.0) this(0.0) and(0.0) forcing(0.0) these(0.0) people(0.0) to(0.0) pay(1.0) $(0.0) 20,000(0.0) a(0.0) month(0.0) to(0.0) the(0.0) 
+Federal(1.0) Government(1.0) for(0.0) 10(0.0) years(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+
+city	
+
+pay	
+pay	death	taxes	
+
+
+favor	
+debt	
+benefit	?	stifling	growth	
+reinvestment	employment	pay	
+Federal	Government	
+
+reads % = 0.07048458149779736

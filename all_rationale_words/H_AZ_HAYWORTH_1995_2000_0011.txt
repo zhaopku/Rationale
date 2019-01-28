@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) as(0.0) my(0.0) friend(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) ,(0.0) was(0.0) relating(0.0) not(0.0) only(0.0) the(0.0) recent(0.0) history(0.0) but(0.0) also(0.0) the(0.0) 
+facts(0.0) and(0.0) figures(0.0) amidst(0.0) the(0.0) flowery(0.0) rhetoric(1.0) that(0.0) is(0.0) so(0.0) often(0.0) part(0.0) of(0.0) what(0.0) transpires(0.0) in(0.0) Washington(1.0) ,(0.0) I(0.0) could(0.0) 
+not(0.0) help(0.0) but(0.0) note(0.0) the(0.0) successes(0.0) that(0.0) we(0.0) have(0.0) had(0.0) as(0.0) a(0.0) commonsense(1.0) conservative(0.0) majority(1.0) ,(0.0) and(0.0) point(0.0) out(0.0) ,(0.0) 
+Mr.(0.0) Speaker(1.0) ,(0.0) to(0.0) the(0.0) American(0.0) people(0.0) that(0.0) it(0.0) is(0.0) very(0.0) interesting(0.0) the(0.0) way(0.0) Washington(1.0) has(0.0) worked(0.0) heretofore(0.0) .(0.0) We(0.0) 
+have(0.0) had(0.0) some(0.0) success(0.0) here(0.0) ,(0.0) and(0.0) indeed(0.0) ,(0.0) we(0.0) have(0.0) rolled(0.0) back(0.0) taxes(1.0) ,(0.0) as(0.0) we(0.0) were(0.0) able(0.0) to(0.0) 
+enact(1.0) in(0.0) the(0.0) 105th(1.0) Congress(0.0) the(0.0) $(0.0) 500(0.0) per(0.0) child(1.0) tax(1.0) credit(1.0) ;(0.0) as(0.0) we(0.0) were(0.0) able(0.0) to(0.0) work(0.0) to(0.0) 
+make(0.0) sure(0.0) that(0.0) there(0.0) was(0.0) a(0.0) higher(0.0) level(0.0) of(0.0) tax(1.0) fairness(1.0) ;(0.0) when(0.0) in(0.0) fact(0.0) just(0.0) this(0.0) past(0.0) week(0.0) we(0.0) 
+were(0.0) able(0.0) to(0.0) procure(0.0) at(0.0) long(0.0) last(0.0) the(0.0) signature(0.0) of(0.0) the(0.0) President(1.0) of(0.0) the(0.0) United(0.0) States(0.0) on(0.0) legislation(0.0) to(0.0) end(0.0) 
+the(0.0) unfair(1.0) penalty(1.0) confronting(1.0) senior(0.0) citizens(0.0) who(0.0) chose(0.0) to(0.0) work(0.0) beyond(0.0) their(0.0) assigned(0.0) retirement(0.0) age(0.0) ;(0.0) seniors(0.0) who(0.0) ,(0.0) if(0.0) 
+they(0.0) were(0.0) making(0.0) in(0.0) excess(0.0) of(0.0) $(0.0) 17,000(0.0) a(0.0) year(0.0) ,(0.0) were(0.0) taxed(1.0) to(0.0) the(0.0) tune(0.0) of(0.0) $(0.0) 1(0.0) out(0.0) 
+of(0.0) every(0.0) $(0.0) 3(0.0) of(0.0) their(0.0) social(0.0) security(0.0) benefit(0.0) ,(0.0) lo(0.0) and(0.0) behold(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) that(0.0) was(0.0) finally(0.0) 
+changed(0.0) .(0.0) But(0.0) I(0.0) would(0.0) note(0.0) for(0.0) the(0.0) record(0.0) that(0.0) piece(0.0) of(0.0) legislation(1.0) was(0.0) first(0.0) introduced(0.0) well(0.0) nigh(0.0) in(0.0) excess(1.0) 
+of(0.0) two(0.0) decades(1.0) ago(0.0) by(0.0) the(0.0) current(0.0) chairman(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Ways(0.0) and(0.0) Means(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) 
+((0.0) Mr.(0.0) Archer(1.0) )(0.0) ;(0.0) that(0.0) our(0.0) current(0.0) speaker(0.0) ,(0.0) when(0.0) he(0.0) first(0.0) arrived(0.0) here(0.0) in(0.0) 1987(0.0) ,(0.0) the(0.0) gentleman(0.0) 
+from(0.0) Illinois(1.0) ((0.0) Mr.(0.0) Hastert(1.0) )(0.0) ,(0.0) introduced(0.0) the(0.0) self-(0.0) same(0.0) legislation(0.0) .(0.0) While(0.0) we(0.0) welcome(0.0) epiphanies(0.0) ,(0.0) whether(0.0) they(0.0) 
+come(0.0) in(0.0) election(1.0) years(0.0) or(0.0) at(0.0) other(0.0) times(0.0) ,(0.0) we(0.0) are(0.0) so(0.0) pleased(0.0) that(0.0) at(0.0) long(0.0) last(0.0) those(0.0) who(0.0) resisted(0.0) 
+that(0.0) fundamental(1.0) act(0.0) of(0.0) fairness(1.0) finally(0.0) saw(0.0) the(0.0) wisdom(0.0) in(0.0) letting(0.0) seniors(1.0) hang(0.0) onto(0.0) more(0.0) of(0.0) their(0.0) own(0.0) hard-earned(1.0) money(1.0) 
+.(0.0) Because(0.0) I(0.0) think(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) that(0.0) truly(0.0) defines(1.0) compassion(0.0) .(0.0) The(0.0) reason(0.0) I(0.0) mention(0.0) it(0.0) is(0.0) because(0.0) 
+it(0.0) took(0.0) so(0.0) long(0.0) .(0.0) The(0.0) anachronistic(1.0) policies(1.0) of(0.0) the(0.0) mid(0.0) 1930s(1.0) that(0.0) accompanied(0.0) what(0.0) at(0.0) that(0.0) point(0.0) was(0.0) a(0.0) 
+labor(0.0) shortage(1.0) ,(0.0) it(0.0) took(0.0) all(0.0) the(0.0) way(0.0) to(0.0) the(0.0) dawn(0.0) of(0.0) a(0.0) new(0.0) century(1.0) ,(0.0) 70(0.0) years(0.0) ,(0.0) to(0.0) 
+make(0.0) that(0.0) change(0.0) ,(0.0) the(0.0) modest(0.0) but(0.0) important(0.0) tax(1.0) relief(1.0) we(0.0) offered(0.0) in(0.0) 1997(0.0) ,(0.0) which(0.0) came(0.0) a(0.0) decade(0.0) and(0.0) 
+a(0.0) half(0.0) after(0.0) the(0.0) tax(1.0) relief(1.0) offered(0.0) in(0.0) the(0.0) Reagan(1.0) years(0.0) .(0.0) So(0.0) it(0.0) is(0.0) extremely(0.0) difficult(0.0) here(0.0) to(0.0) get(0.0) 
+this(0.0) institution(1.0) ,(0.0) to(0.0) get(0.0) those(0.0) denizens(0.0) of(0.0) Washington(1.0) and(0.0) those(0.0) folks(0.0) in(0.0) the(0.0) bureaucracy(1.0) ,(0.0) focused(1.0) on(0.0) actually(0.0) letting(0.0) 
+people(0.0) hang(0.0) onto(0.0) more(0.0) of(0.0) their(0.0) own(0.0) money(1.0) .(0.0) We(0.0) have(0.0) made(0.0) some(0.0) progress(0.0) ,(0.0) as(0.0) I(0.0) have(0.0) just(0.0) documented(0.0) 
+.(0.0) One(0.0) of(0.0) the(0.0) reasons(0.0) is(0.0) institutionally(1.0) it(0.0) has(0.0) been(0.0) so(0.0) easy(0.0) to(0.0) raise(1.0) taxes(1.0) :(0.0) A(0.0) simple(0.0) majority(0.0) 
+
+
+----- below are rationale words -----
+
+
+rhetoric	Washington	
+commonsense	majority	
+Speaker	Washington	
+taxes	
+enact	105th	child	tax	credit	
+tax	fairness	
+President	
+unfair	penalty	confronting	
+taxed	
+Speaker	
+legislation	excess	
+decades	
+Archer	
+Illinois	Hastert	
+election	
+fundamental	fairness	seniors	hard-earned	money	
+Speaker	defines	
+anachronistic	policies	1930s	
+shortage	century	
+tax	relief	
+tax	relief	Reagan	
+institution	Washington	bureaucracy	focused	
+money	
+institutionally	raise	taxes	
+
+reads % = 0.104

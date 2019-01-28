@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Cunningham(1.0) )(0.0) very(1.0) much(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) to(0.0) my(0.0) friend(0.0) and(0.0) colleague(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Florida(0.0) ((0.0) 
+Mr.(0.0) Mica(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+very	Speaker	
+Mica	
+
+reads % = 0.12

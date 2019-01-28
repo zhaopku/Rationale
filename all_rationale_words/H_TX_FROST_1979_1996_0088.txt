@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) in(0.0) response(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) York(1.0) [(0.0) Mr.(0.0) Solomon(1.0) ](0.0) only(1.0) 15(0.0) percent(0.0) of(0.0) the(0.0) rules(0.0) 
+in(0.0) the(0.0) last(0.0) Congress(0.0) involved(0.0) bills(0.0) that(0.0) were(0.0) taken(0.0) away(0.0) from(0.0) committees(0.0) ,(0.0) whereas(0.0) we(0.0) are(0.0) talking(0.0) about(0.0) 75(0.0) percent(0.0) 
+in(0.0) this(0.0) session(0.0) .(0.0) Second(0.0) ,(0.0) when(0.0) the(0.0) assault(1.0) weapons(1.0) ban(1.0) was(0.0) brought(0.0) to(0.0) the(0.0) floor(0.0) last(0.0) Congress(0.0) ,(0.0) it(0.0) 
+was(0.0) reported(0.0) by(0.0) the(0.0) Committee(0.0) on(0.0) the(0.0) Judiciary(0.0) .(0.0) It(0.0) went(0.0) through(0.0) the(0.0) committee(0.0) process(0.0) .(0.0) This(0.0) repeal(0.0) has(0.0) not(0.0) 
+gone(0.0) through(0.0) the(0.0) committee(0.0) process(0.0) .(0.0) That(0.0) was(0.0) the(0.0) point(0.0) I(0.0) was(0.0) making(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) 1(0.0) 
+minute(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Ohio(1.0) [(0.0) Mr.(0.0) Traficant(1.0) ](0.0) .(0.0) ((0.0) Mr.(0.0) TRAFICANT(1.0) asked(0.0) and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) 
+revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) )(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	York	Solomon	only	
+
+assault	weapons	ban	
+
+Speaker	
+Ohio	Traficant	TRAFICANT	
+
+
+reads % = 0.0859375

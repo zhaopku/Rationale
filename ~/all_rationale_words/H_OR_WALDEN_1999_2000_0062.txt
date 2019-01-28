@@ -1,0 +1,22 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(1.0) to(0.0) suspend(0.0) the(0.0) rules(1.0) and(0.0) pass(1.0) the(0.0) bill(0.0) ((0.0) H.R(0.0) .(0.0) 1460(1.0) )(0.0) to(0.0) amend(1.0) the(0.0) Ysleta(1.0) 
+del(1.0) Sur(1.0) Pueblo(0.0) and(0.0) Alabama(1.0) and(0.0) Coushatta(1.0) Indian(0.0) Tribes(0.0) of(0.0) Texas(0.0) Restoration(0.0) Act(0.0) to(0.0) decrease(0.0) the(0.0) requisite(0.0) blood(0.0) quantum(1.0) required(0.0) 
+for(0.0) membership(0.0) in(0.0) the(0.0) Ysleta(1.0) del(1.0) Sur(1.0) Pueblo(0.0) tribe(0.0) .(0.0) The(0.0) Clerk(0.0) read(1.0) as(0.0) follows(1.0) :(0.0) H.R(0.0) .(0.0) 1460(1.0) Be(0.0) 
+it(0.0) enacted(1.0) by(0.0) the(0.0) Senate(1.0) and(0.0) House(0.0) of(0.0) Representatives(0.0) of(0.0) the(0.0) United(0.0) States(0.0) of(0.0) America(0.0) in(0.0) Congress(0.0) assembled(1.0) ,(0.0) SECTION(1.0) 
+1(0.0) .(0.0) BLOOD(1.0) QUANTUM(1.0) REQUIRED(1.0) FOR(1.0) TRIBAL(1.0) MEMBERSHIP(0.0) DECREASED(1.0) .(0.0) Section(1.0) 108(0.0) ((0.0) a(0.0) )(0.0) ((0.0) 2(0.0) )(0.0) ((0.0) i(1.0) 
+)(0.0) of(0.0) the(0.0) Ysleta(1.0) del(1.0) Sur(1.0) Pueblo(1.0) and(0.0) Alabama(1.0) and(0.0) Coushatta(1.0) Indian(0.0) Tribes(0.0) of(0.0) Texas(0.0) Restoration(0.0) Act(0.0) ((0.0) 25(0.0) U.S.C(1.0) 
+.(0.0) 1300g-7(1.0) )(0.0) is(0.0) amended(1.0) by(0.0) striking(0.0) ``(0.0) \1/8\(1.0) ''(0.0) and(0.0) inserting(0.0) ``(0.0) \1/16\(1.0) ''(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+move	rules	pass	1460	amend	Ysleta	
+del	Sur	Alabama	Coushatta	quantum	
+Ysleta	del	Sur	read	follows	1460	
+enacted	Senate	assembled	SECTION	
+BLOOD	QUANTUM	REQUIRED	FOR	TRIBAL	DECREASED	Section	i	
+Ysleta	del	Sur	Pueblo	Alabama	Coushatta	U.S.C	
+1300g-7	amended	\1/8\	\1/16\	
+
+reads % = 0.291970802919708

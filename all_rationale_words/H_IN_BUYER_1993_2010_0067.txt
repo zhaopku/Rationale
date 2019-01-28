@@ -1,0 +1,36 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) rise(0.0) in(0.0) strong(0.0) support(0.0) of(0.0) H.R(0.0) .(0.0) 5630(0.0) ,(0.0) a(0.0) bill(0.0) which(0.0) would(0.0) set(0.0) certain(0.0) requirements(0.0) for(0.0) 
+professional(0.0) level(0.0) jobs(0.0) at(0.0) the(0.0) Department(0.0) of(0.0) Veterans(1.0) Affairs(0.0) '(0.0) Vocational(0.0) Rehabilitation(0.0) and(0.0) Employment(0.0) program(0.0) .(0.0) In(0.0) 2009(0.0) ,(0.0) the(0.0) 
+Government(0.0) Accountability(0.0) Office(0.0) reported(0.0) that(0.0) one-third(0.0) of(0.0) the(0.0) VA(0.0) 's(0.0) regional(0.0) offices(0.0) reported(0.0) that(0.0) their(0.0) VRE(0.0) staffs(0.0) did(0.0) not(0.0) have(0.0) 
+the(0.0) skills(0.0) needed(0.0) to(0.0) properly(0.0) serve(0.0) the(0.0) disabled(0.0) veterans(0.0) who(0.0) come(0.0) to(0.0) them(0.0) for(0.0) help(0.0) .(0.0) Although(0.0) it(0.0) is(0.0) our(0.0) 
+understanding(0.0) the(0.0) VA(0.0) currently(0.0) hires(0.0) counselors(0.0) with(0.0) at(0.0) least(0.0) a(0.0) master(0.0) 's(0.0) degree(0.0) in(0.0) vocational(1.0) rehabilitation(0.0) counseling(0.0) ,(0.0) it(0.0) does(0.0) 
+not(0.0) require(0.0) counselors(0.0) to(0.0) obtain(0.0) and(0.0) maintain(0.0) certification(0.0) in(0.0) their(0.0) field(0.0) from(0.0) a(0.0) national(0.0) certifying(0.0) organization(0.0) .(0.0) There(0.0) are(0.0) also(0.0) 
+no(0.0) educational(0.0) qualifications(0.0) for(0.0) VRE(0.0) employment(1.0) coordinators(0.0) .(0.0) To(0.0) ensure(0.0) that(0.0) the(0.0) VA(0.0) rehabilitation(0.0) counselors(0.0) are(0.0) the(0.0) best(0.0) qualified(0.0) in(0.0) 
+their(0.0) field(0.0) ,(0.0) H.R(0.0) .(0.0) 5630(0.0) would(0.0) set(0.0) a(0.0) minimum(0.0) hiring(0.0) standard(0.0) at(0.0) a(0.0) master(0.0) 's(0.0) degree(0.0) and(0.0) would(0.0) require(0.0) 
+counselors(0.0) to(0.0) obtain(0.0) national(0.0) certification(0.0) within(0.0) 5(0.0) years(0.0) of(0.0) hiring(0.0) and(0.0) to(0.0) maintain(0.0) these(0.0) qualifications(0.0) .(0.0) Employment(0.0) coordinators(0.0) would(0.0) be(0.0) 
+required(0.0) to(0.0) have(0.0) a(0.0) relevant(0.0) bachelor(0.0) 's(0.0) degree(0.0) ,(0.0) to(0.0) obtain(0.0) certification(0.0) within(0.0) 5(0.0) years(0.0) ,(0.0) and(0.0) to(0.0) maintain(0.0) these(0.0) 
+qualifications(0.0) .(0.0) Counselors(0.0) and(0.0) coordinators(0.0) who(0.0) fail(0.0) to(0.0) comply(0.0) with(0.0) these(0.0) standards(0.0) will(0.0) be(0.0) subject(0.0) to(0.0) termination(0.0) .(0.0) Mr.(0.0) Speaker(1.0) 
+,(0.0) these(0.0) are(0.0) commonsense(1.0) provisions(1.0) which(0.0) are(0.0) designed(0.0) to(0.0) ensure(0.0) that(0.0) our(0.0) disabled(1.0) veterans(1.0) are(0.0) receiving(0.0) the(0.0) best(0.0) vocational(1.0) rehabilitation(0.0) 
+and(0.0) employment(1.0) services(0.0) possible(0.0) .(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) H.R(0.0) .(0.0) 5630(0.0) ,(0.0) and(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) 
+balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	
+Veterans	
+
+
+vocational	
+
+employment	
+
+
+
+Speaker	
+commonsense	provisions	disabled	veterans	vocational	
+employment	
+
+
+reads % = 0.041353383458646614

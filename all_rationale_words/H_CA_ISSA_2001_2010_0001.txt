@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) after(0.0) so(0.0) many(0.0) on(0.0) both(0.0) sides(0.0) of(0.0) the(0.0) aisle(0.0) have(0.0) spoken(0.0) ,(0.0) it(0.0) is(0.0) perhaps(0.0) hard(0.0) to(0.0) find(0.0) 
+something(0.0) new(0.0) to(0.0) talk(0.0) about(0.0) .(0.0) I(0.0) will(0.0) endeavor(0.0) to(0.0) do(0.0) so(0.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) President(0.0) Obama(1.0) has(0.0) said(0.0) 
+the(0.0) American(0.0) people(0.0) deserve(0.0) the(0.0) same(0.0) high(0.0) quality(0.0) health(1.0) care(1.0) as(0.0) Members(0.0) of(0.0) Congress(0.0) have(0.0) .(0.0) Michelle(0.0) Obama(1.0) said(0.0) the(0.0) 
+same(0.0) thing(0.0) .(0.0) Speaker(0.0) Pelosi(1.0) said(1.0) the(0.0) same(0.0) thing(0.0) .(0.0) Harry(0.0) Reid(1.0) said(1.0) the(0.0) same(0.0) thing(0.0) .(0.0) As(0.0) a(0.0) matter(0.0) 
+of(0.0) fact(0.0) ,(0.0) virtually(0.0) everybody(0.0) in(0.0) the(0.0) Democratic(1.0) caucus(1.0) in(0.0) leadership(0.0) has(0.0) said(0.0) that(0.0) .(0.0) Then(0.0) why(0.0) is(0.0) it(0.0) H.R(0.0) 
+.(0.0) 3438(0.0) ,(0.0) a(0.0) simple(0.0) ,(0.0) seven-page(1.0) bill(1.0) that(0.0) gives(0.0) every(0.0) member(0.0) of(0.0) America(0.0) the(0.0) opportunity(0.0) to(0.0) have(0.0) the(0.0) same(0.0) 
+high(0.0) quality(0.0) health(1.0) care(0.0) that(0.0) we(0.0) have(0.0) as(0.0) Congress(0.0) is(0.0) being(0.0) ignored(0.0) ?(0.0) Why(0.0) is(0.0) it(0.0) it(0.0) doesn't(0.0) even(0.0) exist(0.0) 
+in(0.0) the(0.0) Democrats(1.0) '(0.0) comprehensive(0.0) health(1.0) care(0.0) bill(1.0) ?(1.0) Thousands(1.0) of(0.0) pages(0.0) ,(0.0) and(0.0) yet(0.0) it(0.0) does(0.0) n't(0.0) give(0.0) you(0.0) 
+exactly(0.0) what(0.0) they(0.0) say(0.0) they(0.0) want(0.0) to(0.0) give(0.0) you(0.0) .(0.0) On(0.0) top(0.0) of(0.0) that(0.0) ,(0.0) who(0.0) is(0.0) beholden(0.0) to(0.0) the(0.0) 
+insurance(1.0) companies(1.0) ?(0.0) More(0.0) than(0.0) 50(0.0) percent(0.0) of(0.0) American(0.0) dollars(1.0) are(0.0) insured(0.0) by(0.0) the(0.0) Federal(1.0) Government(1.0) already(0.0) .(0.0) It(0.0) is(0.0) 
+Medicare(1.0) .(0.0) It(0.0) is(0.0) Medicaid(1.0) that(0.0) have(0.0) ,(0.0) in(0.0) many(0.0) cases(0.0) ,(0.0) been(0.0) driving(0.0) up(0.0) the(0.0) cost(1.0) of(0.0) health(1.0) care(1.0) 
+,(0.0) and(0.0) yet(0.0) this(0.0) bill(1.0) has(0.0) no(0.0) real(0.0) reform(1.0) for(0.0) Federal(1.0) health(1.0) care(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Speaker	Obama	
+health	care	Obama	
+Pelosi	said	Reid	said	
+Democratic	caucus	
+seven-page	bill	
+health	
+Democrats	health	bill	?	Thousands	
+
+insurance	companies	dollars	Federal	Government	
+Medicare	Medicaid	cost	health	care	
+bill	reform	Federal	health	care	
+
+reads % = 0.14468085106382977

@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) came(0.0) to(0.0) talk(0.0) about(0.0) the(0.0) health(1.0) care(1.0) problems(0.0) here(0.0) in(0.0) America(1.0) .(0.0) I(0.0) 'm(0.0) a(0.0) medical(0.0) doctor(0.0) .(0.0) 
+I(0.0) have(0.0) practiced(0.0) medicine(0.0) for(0.0) three-and-a-half(0.0) decades(1.0) .(0.0) I(0.0) 'm(0.0) an(0.0) old-time(1.0) general(0.0) practitioner(0.0) .(0.0) I(0.0) treat(0.0) infants(0.0) all(0.0) the(0.0) 
+way(0.0) to(0.0) the(0.0) elderly(1.0) .(0.0) My(0.0) patients(0.0) are(0.0) like(0.0) family(0.0) .(0.0) They(0.0) 're(0.0) like(0.0) friends(0.0) .(0.0) They(0.0) are(0.0) friends(0.0) .(0.0) 
+They(0.0) are(0.0) family(0.0) .(0.0) And(0.0) I(0.0) 'm(0.0) very(0.0) concerned(0.0) about(0.0) where(0.0) we(0.0) are(0.0) going(0.0) as(0.0) a(0.0) Nation(0.0) .(0.0) Certainly(0.0) health(1.0) 
+care(1.0) in(0.0) this(0.0) country(1.0) has(0.0) become(0.0) extremely(0.0) expensive(0.0) .(0.0) In(0.0) fact(0.0) ,(0.0) I(0.0) myself(0.0) ,(0.0) prior(0.0) to(0.0) being(0.0) elected(0.0) to(0.0) 
+Congress(0.0) ,(0.0) being(0.0) a(0.0) small(0.0) businessman(0.0) ,(0.0) could(0.0) not(0.0) afford(0.0) a(0.0) comprehensive(0.0) health(1.0) care(1.0) insurance(1.0) policy(1.0) .(0.0) I(0.0) had(0.0) a(0.0) 
+catastrophic(0.0) health(1.0) care(1.0) policy(1.0) because(0.0) that(0.0) 's(0.0) all(0.0) I(0.0) could(0.0) afford(0.0) .(0.0) There(0.0) are(0.0) many(0.0) small(0.0) businessmen(1.0) and(0.0) women(0.0) all(0.0) 
+across(0.0) this(0.0) country(1.0) that(0.0) are(0.0) in(0.0) the(0.0) same(0.0) category(0.0) that(0.0) I(0.0) was(0.0) in(0.0) .(0.0) Now(0.0) ,(0.0) since(0.0) I(0.0) have(0.0) been(0.0) 
+elected(0.0) to(0.0) Congress(0.0) ,(0.0) I(0.0) buy(0.0) into(0.0) the(0.0) government(1.0) health(1.0) care(0.0) insurance(1.0) program(1.0) that(0.0) all(0.0) Federal(1.0) employees(1.0) can(0.0) buy(0.0) into(0.0) 
+.(0.0) We(0.0) hear(0.0) from(0.0) our(0.0) President(1.0) that(0.0) everybody(0.0) in(0.0) this(0.0) country(1.0) should(0.0) have(0.0) a(0.0) public(0.0) option(0.0) ,(0.0) an(0.0) option(0.0) that(0.0) 
+they(0.0) can(0.0) buy(0.0) into(0.0) .(0.0) Last(0.0) night(0.0) my(0.0) good(0.0) friend(0.0) John(0.0) Shadegg(1.0) in(0.0) a(0.0) Special(0.0) Order(0.0) was(0.0) talking(0.0) about(0.0) the(0.0) 
+draft(0.0) of(0.0) the(0.0) bill(0.0) that(0.0) Energy(0.0) and(0.0) Commerce(0.0) is(0.0) going(0.0) to(0.0) be(0.0) looking(0.0) at(0.0) next(0.0) week(0.0) .(0.0) And(0.0) during(0.0) Mr.(0.0) 
+Shadegg(1.0) 's(0.0) discussion(0.0) last(0.0) night(0.0) on(0.0) this(0.0) floor(0.0) ,(0.0) he(0.0) said(0.0) that(0.0) the(0.0) public(1.0) health(0.0) care(0.0) option(0.0) is(0.0) not(0.0) an(0.0) 
+option(0.0) at(0.0) all(0.0) .(0.0) And(0.0) ,(0.0) in(0.0) fact(0.0) ,(0.0) the(0.0) American(0.0) people(0.0) ,(0.0) if(0.0) I(0.0) could(0.0) speak(0.0) to(0.0) them(0.0) ,(0.0) 
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) would(0.0) ask(0.0) them(0.0) to(0.0) look(0.0) at(0.0) what(0.0) is(0.0) being(0.0) proposed(0.0) and(0.0) how(0.0) quickly(0.0) this(0.0) major(1.0) policy(1.0) 
+change(0.0) is(0.0) being(0.0) brought(0.0) to(0.0) the(0.0) forefront(1.0) .(0.0) Next(0.0) week(0.0) on(0.0) Tuesday(0.0) ,(0.0) the(0.0) Energy(0.0) and(0.0) Commerce(0.0) Committee(0.0) is(0.0) going(0.0) 
+to(0.0) start(0.0) their(0.0) process(0.0) of(0.0) looking(0.0) at(0.0) the(0.0) health(1.0) care(0.0) reform(1.0) bill(1.0) .(0.0) Tuesday(0.0) they(0.0) are(0.0) scheduled(0.0) to(0.0) have(0.0) opening(0.0) 
+statements(0.0) by(0.0) the(0.0) members(0.0) of(0.0) the(0.0) committee(0.0) .(0.0) Wednesday(0.0) and(0.0) Thursday(0.0) they(0.0) 're(0.0) going(0.0) to(0.0) have(0.0) markup(0.0) .(0.0) And(0.0) ,(0.0) 
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) do(0.0) n't(0.0) think(0.0) the(0.0) American(0.0) public(1.0) quite(0.0) understands(0.0) that(0.0) term(1.0) .(0.0) It(0.0) 's(0.0) a(0.0) term(0.0) that(0.0) 
+we(0.0) use(0.0) ,(0.0) as(0.0) you(0.0) know(0.0) ,(0.0) where(0.0) the(0.0) committee(0.0) goes(0.0) through(0.0) a(0.0) bill(0.0) line(0.0) by(0.0) line(0.0) ,(0.0) issue(0.0) by(0.0) 
+issue(0.0) ,(0.0) section(0.0) by(0.0) section(0.0) ,(0.0) and(0.0) amendments(1.0) are(0.0) offered(0.0) ,(0.0) voted(0.0) on(0.0) ,(0.0) and(0.0) are(0.0) put(0.0) in(0.0) place(0.0) in(0.0) 
+the(0.0) final(0.0) product(0.0) .(0.0) Well(0.0) ,(0.0) the(0.0) chairman(0.0) of(0.0) the(0.0) Energy(0.0) and(0.0) Commerce(0.0) Committee(0.0) has(0.0) decided(0.0) to(0.0) not(0.0) go(0.0) through(0.0) 
+the(0.0) regular(0.0) order(0.0) process(0.0) of(0.0) letting(0.0) the(0.0) Health(0.0) Subcommittee(0.0) look(0.0) at(0.0) the(0.0) bill(0.0) .(0.0) He(0.0) wants(0.0) the(0.0) whole(0.0) committee(0.0) to(0.0) 
+do(0.0) so(0.0) .(0.0) Why(0.0) ?(0.0) Well(0.0) ,(0.0) it(0.0) 's(0.0) reported(0.0) that(0.0) the(0.0) reason(0.0) that(0.0) he(0.0) wants(0.0) to(0.0) do(0.0) that(0.0) is(0.0) 
+because(0.0) he(0.0) 's(0.0) concerned(0.0) about(0.0) the(0.0) subcommittee(0.0) 's(0.0) taking(0.0) too(0.0) much(0.0) time(0.0) and(0.0) maybe(0.0) not(0.0) even(0.0) passing(0.0) out(0.0) this(0.0) 
+
+
+----- below are rationale words -----
+
+health	care	America	
+decades	old-time	
+elderly	
+health	
+care	country	
+health	care	insurance	policy	
+health	care	policy	businessmen	
+country	
+government	health	insurance	program	Federal	employees	
+President	country	
+Shadegg	
+
+Shadegg	public	
+
+Speaker	major	policy	
+forefront	
+health	reform	bill	
+
+Speaker	public	term	
+
+amendments	
+
+
+
+
+
+reads % = 0.08

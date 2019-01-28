@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) rise(0.0) this(0.0) afternoon(0.0) to(0.0) remember(0.0) one(0.0) of(0.0) our(0.0) fellow(0.0) delegation(0.0) members(0.0) ,(0.0) the(0.0) Honorable(0.0) Charlie(0.0) Norwood(1.0) .(0.0) I(0.0) know(0.0) that(0.0) 
+many(0.0) Members(0.0) of(0.0) this(0.0) body(0.0) served(0.0) with(0.0) Charlie(0.0) much(0.0) longer(0.0) than(0.0) I(0.0) did(0.0) ,(0.0) but(0.0) unlike(0.0) them(0.0) ,(0.0) I(0.0) think(0.0) 
+I(0.0) may(0.0) be(0.0) the(0.0) only(0.0) Member(0.0) here(0.0) with(0.0) the(0.0) distinction(0.0) of(0.0) once(0.0) actually(0.0) having(0.0) been(0.0) represented(0.0) by(0.0) Charlie(0.0) as(0.0) one(0.0) 
+of(0.0) his(0.0) constituents(0.0) .(0.0) Charlie(0.0) Norwood(1.0) was(0.0) an(0.0) accomplished(0.0) and(0.0) a(0.0) tireless(0.0) legislator(0.0) who(0.0) had(0.0) stands(0.0) on(0.0) issues(0.0) that(0.0) ran(0.0) 
+the(0.0) political(1.0) spectrum(0.0) .(0.0) And(0.0) while(0.0) I(0.0) may(0.0) not(0.0) have(0.0) agreed(0.0) with(0.0) him(0.0) on(0.0) every(0.0) issue(0.0) ,(0.0) I(0.0) always(0.0) admired(0.0) 
+his(0.0) spirit(0.0) ,(0.0) and(0.0) I(0.0) say(0.0) that(0.0) as(0.0) a(0.0) former(0.0) constituent(0.0) and(0.0) as(0.0) a(0.0) colleague(0.0) .(0.0) As(0.0) anyone(0.0) who(0.0) knew(0.0) 
+him(0.0) will(0.0) tell(0.0) you(0.0) ,(0.0) Charlie(0.0) cared(1.0) deeply(0.0) for(0.0) the(0.0) State(0.0) of(0.0) Georgia(1.0) and(0.0) for(0.0) the(0.0) people(0.0) he(0.0) represented(0.0) in(0.0) 
+Congress(0.0) for(0.0) over(0.0) 12(0.0) years(0.0) .(0.0) In(0.0) this(0.0) Chamber(0.0) and(0.0) among(0.0) this(0.0) delegation(0.0) ,(0.0) there(0.0) is(0.0) no(0.0) question(0.0) that(0.0) Charlie(0.0) 
+Norwood(1.0) will(0.0) be(0.0) missed(0.0) and(0.0) his(0.0) absence(0.0) will(0.0) be(0.0) long(0.0) felt(0.0) here(0.0) in(0.0) Washington(1.0) and(0.0) back(0.0) home(0.0) in(0.0) Georgia(1.0) .(0.0) 
+My(0.0) prayers(0.0) remain(0.0) with(0.0) Congressman(1.0) Norwood(1.0) 's(0.0) wife(0.0) ,(0.0) Gloria(0.0) ,(0.0) and(0.0) with(0.0) their(0.0) entire(0.0) family(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Norwood	
+
+
+Norwood	
+political	
+
+cared	Georgia	
+
+Norwood	Washington	Georgia	
+Congressman	Norwood	
+
+reads % = 0.050505050505050504

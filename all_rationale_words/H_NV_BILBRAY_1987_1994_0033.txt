@@ -1,0 +1,36 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) our(0.0) judiciary(1.0) system(0.0) is(0.0) a(0.0) significant(0.0) part(0.0) of(0.0) the(0.0) complex(0.0) set(0.0) of(0.0) dynamics(0.0) that(0.0) can(0.0) stop(0.0) violence(1.0) in(0.0) the(0.0) 
+home(0.0) ;(0.0) it(0.0) can(0.0) not(0.0) solve(0.0) every(0.0) problem(0.0) ,(0.0) and(0.0) education(1.0) is(0.0) a(0.0) necessary(0.0) start(0.0) .(0.0) I(0.0) am(0.0) proud(0.0) to(0.0) 
+say(0.0) that(0.0) Nevada(1.0) was(0.0) the(0.0) first(0.0) ,(0.0) but(0.0) sadly(0.0) ,(0.0) the(0.0) only(0.0) State(1.0) in(0.0) the(0.0) country(1.0) which(0.0) ,(0.0) by(0.0) order(0.0) 
+of(0.0) the(0.0) Nevada(1.0) Supreme(0.0) Court(1.0) ,(0.0) mandated(1.0) the(0.0) attendance(0.0) of(0.0) all(0.0) State(0.0) judges(0.0) at(0.0) a(0.0) State(0.0) judiciary(0.0) family(0.0) violence(0.0) conference(0.0) 
+.(0.0) Our(0.0) recognition(0.0) began(0.0) in(0.0) large(0.0) part(0.0) in(0.0) 1988(0.0) when(0.0) the(0.0) problem(0.0) of(0.0) domestic(1.0) violence(1.0) was(0.0) raised(0.0) by(0.0) the(0.0) Nevada(1.0) 
+Supreme(0.0) Court(0.0) Gender(0.0) Bias(0.0) Task(0.0) Force(0.0) .(0.0) The(0.0) group(0.0) reported(0.0) that(0.0) battered(1.0) women(1.0) were(0.0) being(0.0) dealt(0.0) with(0.0) inadequately(0.0) in(0.0) the(0.0) 
+legal(1.0) system(0.0) .(0.0) It(0.0) became(0.0) increasingly(0.0) clear(0.0) that(0.0) the(0.0) judicial(1.0) system(0.0) did(0.0) not(0.0) understand(0.0) the(0.0) underlying(0.0) factors(0.0) that(0.0) contributed(0.0) to(0.0) 
+the(0.0) relationship(0.0) between(0.0) the(0.0) batterer(1.0) and(0.0) his(0.0) victim(0.0) .(0.0) After(0.0) investigating(0.0) many(0.0) aspects(0.0) of(0.0) family(0.0) violence(1.0) ,(0.0) the(0.0) Clark(1.0) County(1.0) 
+Domestic(0.0) Violence(0.0) Task(0.0) Force(0.0) prompted(0.0) the(0.0) Nevada(1.0) Supreme(0.0) Court(0.0) to(0.0) require(0.0) all(0.0) judges(0.0) to(0.0) attend(0.0) a(0.0) seminar(0.0) focusing(0.0) on(0.0) family(0.0) 
+violence(0.0) ,(0.0) its(0.0) roots(0.0) ,(0.0) and(0.0) solutions(0.0) .(0.0) What(0.0) came(0.0) out(0.0) of(0.0) this(0.0) was(0.0) extremely(0.0) important(0.0) .(0.0) This(0.0) day(0.0) signified(0.0) 
+an(0.0) acknowledgment(0.0) of(0.0) a(0.0) problem(0.0) ,(0.0) a(0.0) breaking(0.0) of(0.0) stereotypes(1.0) ,(0.0) a(0.0) desire(0.0) for(0.0) change(0.0) ,(0.0) and(0.0) hope(0.0) for(0.0) a(0.0) 
+better(0.0) life(0.0) for(0.0) Nevada(1.0) 's(0.0) families(0.0) .(0.0) My(0.0) wish(0.0) is(0.0) that(0.0) the(0.0) other(0.0) States(0.0) will(0.0) follow(0.0) in(0.0) Nevada(1.0) 's(0.0) footsteps(0.0) 
+toward(0.0) a(0.0) recognition(0.0) of(0.0) the(0.0) realities(1.0) of(0.0) violence(1.0) in(0.0) the(0.0) home(0.0) ,(0.0) and(0.0) take(0.0) constructive(1.0) steps(0.0) to(0.0) break(0.0) this(0.0) vicious(1.0) 
+cycle(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+judiciary	violence	
+education	
+Nevada	State	country	
+Nevada	Court	mandated	
+domestic	violence	Nevada	
+battered	women	
+legal	judicial	
+batterer	violence	Clark	County	
+Nevada	
+
+stereotypes	
+Nevada	Nevada	
+realities	violence	constructive	vicious	
+cycle	
+
+reads % = 0.11026615969581749

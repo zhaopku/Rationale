@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) ask(0.0) unanimous(1.0) consent(0.0) that(0.0) ,(0.0) notwithstanding(0.0) any(0.0) adjournment(0.0) of(0.0) the(0.0) House(0.0) until(0.0) Wednesday(0.0) ,(0.0) June(0.0) 3(0.0) ,(0.0) 1998(0.0) 
+,(0.0) the(0.0) Speaker(0.0) ,(0.0) majority(0.0) leader(0.0) ,(0.0) and(0.0) minority(1.0) leader(0.0) be(0.0) authorized(0.0) to(0.0) accept(0.0) resignations(0.0) and(0.0) make(0.0) appointments(0.0) authorized(0.0) by(0.0) 
+law(0.0) or(0.0) by(0.0) the(0.0) House(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+unanimous	
+minority	
+
+
+reads % = 0.0425531914893617

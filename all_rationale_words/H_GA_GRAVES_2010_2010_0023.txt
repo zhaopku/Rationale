@@ -1,0 +1,38 @@
+This is from a Republican
+----- below is the original text -----
+There(0.0) 's(0.0) the(0.0) patient(0.0) .(0.0) You(0.0) would(0.0) think(0.0) the(0.0) patient(0.0) and(0.0) doctor(0.0) would(0.0) be(0.0) in(0.0) the(0.0) center(0.0) ,(0.0) right(0.0) ?(0.0) That(0.0) 
+should(0.0) be(0.0) the(0.0) center(0.0) of(0.0) this(0.0) diagram(0.0) ,(0.0) but(0.0) it(0.0) is(0.0) not(0.0) .(0.0) It(0.0) is(0.0) this(0.0) newly(0.0) empowered(1.0) Secretary(0.0) of(0.0) 
+the(0.0) Health(0.0) and(0.0) Human(0.0) Services(0.0) that(0.0) is(0.0) in(0.0) the(0.0) center(0.0) of(0.0) which(0.0) all(0.0) of(0.0) this(0.0) spirals(0.0) off(0.0) of(0.0) ,(0.0) and(0.0) 
+all(0.0) of(0.0) this(0.0) is(0.0) documented(0.0) and(0.0) all(0.0) the(0.0) code(0.0) sections(0.0) are(0.0) outlined(0.0) on(0.0) here(0.0) how(0.0) it(0.0) was(0.0) created(0.0) ,(0.0) and(0.0) 
+it(0.0) indicates(0.0) new(0.0) mandates(1.0) ,(0.0) new(0.0) taxes(1.0) ,(0.0) new(0.0) programs(1.0) ,(0.0) new(0.0) processes(0.0) .(0.0) All(0.0) of(0.0) this(0.0) is(0.0) in(0.0) this(0.0) 
+new(0.0) health(1.0) care(1.0) plan(1.0) that(0.0) is(0.0) going(0.0) to(0.0) be(0.0) a(0.0) mess(0.0) for(0.0) Americans(1.0) right(0.0) here(0.0) .(0.0) The(0.0) great(0.0) thing(0.0) is(0.0) 
+,(0.0) though(0.0) ,(0.0) that(0.0) as(0.0) we(0.0) stand(0.0) before(0.0) America(1.0) tonight(0.0) ,(0.0) we(0.0) do(0.0) n't(0.0) stand(0.0) here(0.0) without(0.0) an(0.0) alternative(0.0) ,(0.0) 
+without(0.0) another(0.0) idea(0.0) .(0.0) We(0.0) come(0.0) before(0.0) America(1.0) boldly(0.0) with(0.0) another(0.0) alternative(0.0) ,(0.0) and(0.0) the(0.0) first(0.0) step(0.0) ,(0.0) in(0.0) my(0.0) 
+opinion(0.0) ,(0.0) is(0.0) we(0.0) have(0.0) to(0.0) defund(1.0) this(0.0) mess(1.0) .(0.0) Let(0.0) 's(0.0) just(0.0) put(0.0) the(0.0) brakes(0.0) on(0.0) it(0.0) .(0.0) We(0.0) 
+do(0.0) n't(0.0) need(0.0) another(0.0) ,(0.0) what(0.0) ,(0.0) $(0.0) 600(0.0) billion(1.0) in(0.0) new(0.0) taxes(1.0) .(0.0) We(0.0) need(0.0) to(0.0) defund(1.0) this(0.0) ,(0.0) 
+and(0.0) we(0.0) have(0.0) introduced(0.0) legislation(1.0) that(0.0) is(0.0) H.R(0.0) .(0.0) 5882(0.0) ,(0.0) which(0.0) each(0.0) of(0.0) you(0.0) are(0.0) probably(0.0) cosponsors(1.0) of(0.0) and(0.0) 
+I(0.0) 'm(0.0) the(0.0) sponsor(0.0) of(0.0) the(0.0) legislation(1.0) to(0.0) just(0.0) defund(1.0) it(0.0) altogether(0.0) ,(0.0) and(0.0) let(0.0) 's(0.0) start(0.0) over(0.0) because(0.0) the(0.0) 
+process(0.0) was(0.0) broken(0.0) .(0.0) The(0.0) policy(1.0) is(0.0) flawed(1.0) .(0.0) Let(0.0) 's(0.0) get(0.0) a(0.0) patient-centered(1.0) ,(0.0) patient-driven(1.0) health(1.0) care(1.0) plan(1.0) in(0.0) 
+place(0.0) of(0.0) which(0.0) we(0.0) 've(0.0) got(0.0) good(0.0) alternatives(1.0) .(0.0) Would(0.0) you(0.0) like(0.0) to(0.0) share(0.0) a(0.0) little(0.0) bit(0.0) about(0.0) the(0.0) proposal(1.0) 
+that(0.0) 's(0.0) out(0.0) there(0.0) ,(0.0) or(0.0) do(0.0) you(0.0) have(0.0) some(0.0) ideas(0.0) yourself(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+
+empowered	
+
+
+mandates	taxes	programs	
+health	care	plan	Americans	
+America	
+America	
+defund	mess	
+billion	taxes	defund	
+legislation	cosponsors	
+legislation	defund	
+policy	flawed	patient-centered	patient-driven	health	care	plan	
+alternatives	proposal	
+
+
+reads % = 0.09523809523809523

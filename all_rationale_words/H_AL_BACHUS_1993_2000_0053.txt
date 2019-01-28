@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) pass(0.0) the(0.0) joint(0.0) resolution(1.0) ((0.0) H.J(1.0) .(0.0) Res(0.0) .(0.0) 102(0.0) )(0.0) recognizing(0.0) 
+that(0.0) the(0.0) Birmingham(0.0) Pledge(0.0) has(0.0) made(0.0) a(0.0) significant(0.0) contribution(0.0) in(0.0) fostering(1.0) racial(1.0) harmony(0.0) and(0.0) reconciliation(1.0) in(0.0) the(0.0) United(0.0) States(0.0) and(0.0) 
+around(0.0) the(0.0) world(0.0) ,(0.0) and(0.0) for(0.0) other(0.0) purposes(0.0) .(0.0) The(0.0) Clerk(0.0) read(0.0) as(0.0) follows(0.0) :(0.0) H.J(0.0) .(0.0) Res(0.0) .(0.0) 102(0.0) 
+Whereas(0.0) Birmingham(0.0) ,(0.0) Alabama(1.0) ,(0.0) is(0.0) an(0.0) international(0.0) symbol(0.0) of(0.0) the(0.0) racial(1.0) strife(0.0) in(0.0) the(0.0) United(0.0) States(0.0) in(0.0) the(0.0) 1950(0.0) 
+'s(0.0) and(0.0) 1960(0.0) 's(0.0) ;(0.0) Whereas(0.0) out(0.0) of(0.0) the(0.0) crucible(0.0) of(0.0) Birmingham(0.0) 's(0.0) role(0.0) in(0.0) the(0.0) civil(0.0) rights(0.0) movement(0.0) of(0.0) 
+the(0.0) 1950(0.0) 's(0.0) and(0.0) 1960(0.0) 's(0.0) ,(0.0) a(0.0) present-day(0.0) grassroots(0.0) movement(0.0) ,(0.0) embodied(1.0) in(0.0) the(0.0) Birmingham(0.0) Pledge(0.0) ,(0.0) has(0.0) arisen(0.0) 
+to(0.0) continue(0.0) the(0.0) effort(0.0) to(0.0) eliminate(0.0) racial(1.0) and(0.0) ethnic(1.0) divisions(0.0) in(0.0) the(0.0) United(0.0) States(0.0) and(0.0) around(0.0) the(0.0) world(0.0) ;(0.0) Whereas(0.0) 
+the(0.0) Birmingham(0.0) Pledge(0.0) ,(0.0) authored(0.0) by(0.0) Birmingham(0.0) attorney(0.0) James(1.0) E.(1.0) Rotch(1.0) ,(0.0) sponsored(1.0) by(0.0) the(0.0) Community(0.0) Affairs(0.0) Committee(0.0) of(0.0) Operation(0.0) 
+New(0.0) Birmingham(0.0) ,(0.0) and(0.0) promoted(0.0) by(0.0) a(0.0) broad(0.0) cross-section(0.0) of(0.0) the(0.0) community(0.0) ,(0.0) increases(0.0) racial(1.0) harmony(0.0) by(0.0) helping(0.0) individuals(0.0) communicate(0.0) 
+in(0.0) a(0.0) positive(0.0) way(0.0) concerning(0.0) the(0.0) Nation(0.0) 's(0.0) diversity(0.0) and(0.0) by(0.0) encouraging(0.0) people(0.0) to(0.0) make(0.0) a(0.0) commitment(0.0) to(0.0) racial(1.0) harmony(0.0) 
+;(0.0) Whereas(0.0) the(0.0) Birmingham(0.0) Pledge(0.0) ,(0.0) signed(0.0) by(0.0) individuals(0.0) as(0.0) evidence(0.0) of(0.0) their(0.0) commitment(0.0) to(0.0) its(0.0) message(0.0) ,(0.0) reads(0.0) as(0.0) 
+follows(0.0) :(0.0) ``(0.0) I(0.0) believe(0.0) that(0.0) every(0.0) person(0.0) has(0.0) worth(0.0) as(0.0) an(0.0) individual(0.0) .(0.0) ``(0.0) I(0.0) believe(0.0) that(0.0) every(0.0) person(0.0) 
+is(0.0) entitled(0.0) to(0.0) dignity(1.0) and(0.0) respect(0.0) ,(0.0) regardless(0.0) of(0.0) race(1.0) or(0.0) color(0.0) .(0.0) ``(0.0) I(0.0) believe(0.0) that(0.0) every(0.0) thought(0.0) and(0.0) 
+every(0.0) act(1.0) of(0.0) racial(1.0) prejudice(1.0) is(0.0) harmful(0.0) ;(0.0) if(0.0) it(0.0) is(0.0) in(0.0) my(0.0) thought(0.0) or(0.0) act(0.0) ,(0.0) then(0.0) it(0.0) is(0.0) 
+harmful(0.0) to(0.0) me(0.0) as(0.0) well(0.0) as(0.0) to(0.0) others(0.0) .(0.0) ``(0.0) Therefore(0.0) ,(0.0) from(0.0) this(0.0) day(0.0) forward(0.0) I(0.0) will(0.0) strive(0.0) daily(0.0) 
+to(0.0) eliminate(1.0) racial(1.0) prejudice(1.0) from(0.0) my(0.0) thoughts(0.0) and(0.0) actions(1.0) .(0.0) ``(0.0) I(0.0) will(0.0) discourage(1.0) racial(1.0) prejudice(1.0) by(0.0) others(0.0) at(0.0) every(0.0) 
+opportunity(0.0) .(0.0) ``(0.0) I(0.0) will(0.0) treat(0.0) all(0.0) people(0.0) with(0.0) dignity(1.0) and(0.0) respect(0.0) ;(0.0) and(0.0) I(0.0) will(0.0) strive(0.0) to(0.0) honor(0.0) this(0.0) 
+pledge(1.0) ,(0.0) knowing(0.0) that(0.0) the(0.0) world(0.0) will(0.0) be(0.0) a(0.0) better(0.0) place(0.0) because(0.0) of(0.0) my(0.0) effort(0.0) .(0.0) ''(0.0) ;(0.0) Whereas(0.0) more(0.0) 
+than(0.0) 70,000(0.0) people(0.0) have(0.0) signed(0.0) the(0.0) Birmingham(0.0) Pledge(1.0) ,(0.0) including(0.0) the(0.0) President(1.0) ,(0.0) Members(0.0) of(0.0) the(0.0) Congress(0.0) ,(0.0) State(1.0) Governors(0.0) 
+,(0.0) State(0.0) legislators(0.0) ,(0.0) mayors(1.0) ,(0.0) county(1.0) commissioners(0.0) ,(0.0) city(1.0) council(0.0) members(0.0) ,(0.0) and(0.0) other(0.0) people(0.0) around(0.0) the(0.0) world(0.0) ;(0.0) 
+Whereas(0.0) the(0.0) Birmingham(0.0) Pledge(0.0) has(0.0) achieved(0.0) national(0.0) and(0.0) international(0.0) recognition(0.0) ;(0.0) Whereas(0.0) efforts(1.0) to(0.0) obtain(0.0) signatories(1.0) to(0.0) the(0.0) Birmingham(0.0) Pledge(0.0) 
+are(0.0) being(0.0) organized(0.0) and(0.0) conducted(0.0) in(0.0) communities(1.0) around(0.0) the(0.0) world(0.0) ;(0.0) Whereas(0.0) every(0.0) Birmingham(0.0) Pledge(1.0) signed(0.0) and(0.0) returned(0.0) to(0.0) Birmingham(0.0) 
+is(0.0) recorded(0.0) at(0.0) the(0.0) Birmingham(0.0) Civil(0.0) Rights(1.0) Institute(0.0) as(0.0) a(0.0) permanent(0.0) testament(0.0) to(0.0) racial(1.0) reconciliation(0.0) ,(0.0) peace(1.0) ,(0.0) and(0.0) harmony(0.0) 
+;(0.0) and(0.0) Whereas(0.0) the(0.0) Birmingham(0.0) Pledge(0.0) ,(0.0) the(0.0) motto(1.0) for(0.0) which(0.0) is(0.0) ``(0.0) Sign(0.0) It(0.0) ,(0.0) Live(0.0) It(0.0) ''(0.0) ,(0.0) 
+is(0.0) a(0.0) powerful(0.0) tool(0.0) to(0.0) facilitate(0.0) dialogue(0.0) on(0.0) the(0.0) Nation(1.0) 's(0.0) diversity(1.0) and(0.0) the(0.0) need(0.0) for(0.0) people(0.0) to(0.0) take(0.0) 
+
+
+----- below are rationale words -----
+
+resolution	H.J	
+fostering	racial	reconciliation	
+
+Alabama	racial	
+
+embodied	
+racial	ethnic	
+James	E.	Rotch	sponsored	
+racial	
+racial	
+
+
+dignity	race	
+act	racial	prejudice	
+
+eliminate	racial	prejudice	actions	discourage	racial	prejudice	
+dignity	
+pledge	
+Pledge	President	State	
+mayors	county	city	
+efforts	signatories	
+communities	Pledge	
+Rights	racial	peace	
+motto	
+Nation	diversity	
+
+reads % = 0.092

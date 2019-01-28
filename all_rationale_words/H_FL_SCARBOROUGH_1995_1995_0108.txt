@@ -1,0 +1,34 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) this(0.0) is(0.0) a(0.0) truly(0.0) historical(0.0) day(0.0) in(0.0) this(0.0) country(1.0) ,(0.0) not(0.0) because(0.0) we(0.0) have(0.0) agreement(0.0) on(0.0) a(0.0) final(0.0) balanced(0.0) 
+budget(1.0) plan(1.0) ,(0.0) but(0.0) because(0.0) we(0.0) finally(0.0) have(0.0) the(0.0) executive(0.0) branch(0.0) and(0.0) the(0.0) legislative(0.0) branch(0.0) agreeing(0.0) to(0.0) balance(0.0) the(0.0) budget(1.0) 
+in(0.0) 7(0.0) years(0.0) .(0.0) Now(0.0) we(0.0) have(0.0) seen(0.0) a(0.0) lot(0.0) of(0.0) flip-flops(1.0) over(0.0) the(0.0) past(0.0) year(0.0) .(0.0) We(0.0) are(0.0) going(0.0) 
+to(0.0) put(0.0) that(0.0) behind(0.0) us(0.0) .(0.0) We(0.0) are(0.0) going(0.0) to(0.0) do(0.0) what(0.0) it(0.0) takes(0.0) to(0.0) protect(0.0) and(0.0) preserve(1.0) Medicare(1.0) and(0.0) 
+to(0.0) also(0.0) balance(0.0) our(0.0) budget(1.0) for(0.0) the(0.0) next(0.0) generation(1.0) .(0.0) Of(0.0) course(0.0) ,(0.0) we(0.0) have(0.0) heard(0.0) the(0.0) Democrats(1.0) attacking(1.0) our(0.0) 
+plans(1.0) on(0.0) Medicare(1.0) ,(0.0) saying(0.0) that(0.0) it(0.0) was(0.0) mean-spirited(0.0) ,(0.0) but(0.0) let(0.0) us(0.0) hear(0.0) what(0.0) the(0.0) Washington(1.0) Post(1.0) had(0.0) to(0.0) 
+say(0.0) about(0.0) the(0.0) difference(0.0) between(0.0) the(0.0) plans(1.0) .(0.0) They(0.0) said(0.0) :(0.0) Though(0.0) many(0.0) of(0.0) the(0.0) President(1.0) 's(0.0) advisers(0.0) think(0.0) the(0.0) 
+GOP's(0.0) proposal(1.0) is(0.0) sensible(1.0) and(0.0) it(0.0) differs(0.0) little(0.0) from(0.0) his(0.0) own(0.0) plan(0.0) ,(0.0) the(0.0) President(1.0) fired(0.0) sound(0.0) bites(0.0) from(0.0) the(0.0) 
+Oval(1.0) Office(0.0) daily(0.0) taking(0.0) the(0.0) low(0.0) road(0.0) in(0.0) ways(0.0) that(0.0) only(0.0) Washington(1.0) pundits(1.0) could(0.0) recast(1.0) as(0.0) standing(0.0) trial(0.0) .(0.0) Let(0.0) 
+us(0.0) forget(0.0) the(0.0) demagoguery(1.0) ,(0.0) let(0.0) us(0.0) admit(0.0) that(0.0) there(0.0) is(0.0) only(0.0) $(0.0) 4(0.0) difference(0.0) between(0.0) our(0.0) Medicare(1.0) and(0.0) the(0.0) 
+President(1.0) 's(0.0) Medicare(1.0) plan(1.0) ,(0.0) and(0.0) let(0.0) us(0.0) get(0.0) on(0.0) with(0.0) the(0.0) people(0.0) 's(0.0) business(0.0) ,(0.0) and(0.0) stop(0.0) looking(0.0) at(0.0) 
+the(0.0) polls(1.0) ,(0.0) and(0.0) do(0.0) what(0.0) is(0.0) right(0.0) .(0.0) That(0.0) is(0.0) why(0.0) we(0.0) were(0.0) elected(0.0) ,(0.0) and(0.0) that(0.0) is(0.0) the(0.0) 
+principle(1.0) that(0.0) we(0.0) stand(0.0) firmly(0.0) on(0.0) .(0.0) Balance(0.0) the(0.0) budget(1.0) for(0.0) the(0.0) next(0.0) generation(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+country	
+budget	plan	budget	
+flip-flops	
+preserve	Medicare	
+budget	generation	Democrats	attacking	
+plans	Medicare	Washington	Post	
+plans	President	
+proposal	sensible	President	
+Oval	Washington	pundits	recast	
+demagoguery	Medicare	
+President	Medicare	plan	
+polls	
+principle	budget	generation	
+
+reads % = 0.12890625

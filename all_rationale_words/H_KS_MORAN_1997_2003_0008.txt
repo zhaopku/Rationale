@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) in(0.0) Kansas(1.0) today(0.0) the(0.0) combines(0.0) and(0.0) harvest(0.0) crews(0.0) are(0.0) rolling(0.0) through(0.0) day(0.0) 13(0.0) of(0.0) the(0.0) 2003(0.0) wheat(0.0) harvest(0.0) .(0.0) 
+Farm(0.0) trucks(0.0) and(0.0) semi-trailers(0.0) crowd(0.0) the(0.0) highways(1.0) and(0.0) gravel(0.0) roads(0.0) bringing(0.0) Kansas(1.0) 's(0.0) most(0.0) celebrated(0.0) crop(0.0) from(0.0) the(0.0) fields(0.0) to(0.0) 
+the(0.0) grain(0.0) bins(0.0) and(0.0) local(0.0) elevators(0.0) .(0.0) After(0.0) a(0.0) few(0.0) days(0.0) of(0.0) rain(0.0) ,(0.0) harvest(0.0) is(0.0) now(0.0) in(0.0) full(0.0) throttle(0.0) 
+in(0.0) the(0.0) southern(0.0) half(0.0) of(0.0) the(0.0) largest(0.0) wheat(0.0) producing(0.0) State(0.0) .(0.0) And(0.0) with(0.0) just(0.0) under(0.0) 20(0.0) percent(0.0) of(0.0) the(0.0) harvest(0.0) 
+in(0.0) ,(0.0) there(0.0) is(0.0) some(0.0) good(0.0) news(0.0) to(0.0) report(0.0) .(0.0) The(0.0) yields(0.0) are(0.0) good(0.0) and(0.0) the(0.0) landscape(0.0) is(0.0) of(0.0) golden(0.0) 
+waves(0.0) of(0.0) grain(0.0) ,(0.0) a(0.0) welcomed(0.0) change(0.0) from(0.0) the(0.0) scenery(0.0) of(0.0) a(0.0) year(0.0) ago(0.0) .(0.0) Two(0.0) thousand(0.0) and(0.0) two(0.0) was(0.0) 
+one(0.0) of(0.0) the(0.0) worst(0.0) years(0.0) that(0.0) farmers(1.0) in(0.0) Kansas(1.0) ever(0.0) faced(0.0) .(0.0) Because(0.0) of(0.0) severe(0.0) drought(1.0) wheat(0.0) yields(0.0) were(0.0) poor(1.0) 
+,(0.0) many(0.0) families(0.0) had(0.0) net(0.0) incomes(1.0) of(0.0) zero(0.0) and(0.0) farm(0.0) equities(0.0) plunged(0.0) ,(0.0) the(0.0) trickle(1.0) down(0.0) effect(0.0) of(0.0) the(0.0) hard(0.0) 
+hit(0.0) causing(0.0) cash-flow(1.0) problems(0.0) for(0.0) rural(1.0) businesses(1.0) and(0.0) closing(0.0) down(0.0) stores(0.0) on(0.0) main(0.0) streets(1.0) in(0.0) many(0.0) small(0.0) towns(0.0) across(0.0) our(0.0) 
+State(1.0) .(0.0) But(0.0) after(0.0) consecutive(0.0) years(0.0) of(0.0) natural(0.0) disaster(1.0) ,(0.0) Kansans(1.0) can(0.0) finally(0.0) be(0.0) cautiously(0.0) optimistic(0.0) this(0.0) year(0.0) .(0.0) The(0.0) 
+harvest(0.0) reports(0.0) from(0.0) producers(1.0) are(0.0) more(0.0) positive(0.0) and(0.0) even(0.0) a(0.0) little(0.0) upbeat(0.0) this(0.0) year(0.0) ,(0.0) and(0.0) the(0.0) cause(0.0) for(0.0) that(0.0) 
+improvement(0.0) can(0.0) best(0.0) be(0.0) described(0.0) in(0.0) one(0.0) word(0.0) ,(0.0) rain(0.0) .(0.0) Thanks(0.0) to(0.0) the(0.0) spring(0.0) rains(0.0) ,(0.0) many(0.0) producers(1.0) are(0.0) 
+getting(0.0) their(0.0) first(0.0) wheat(0.0) crop(0.0) in(0.0) 3(0.0) to(0.0) 4(0.0) years(0.0) .(0.0) By(0.0) the(0.0) time(0.0) this(0.0) harvest(1.0) is(0.0) completed(0.0) the(0.0) first(0.0) 
+part(0.0) of(0.0) July(0.0) almost(0.0) 10(0.0) million(0.0) acres(0.0) of(0.0) wheat(0.0) will(0.0) have(0.0) been(0.0) cut(0.0) ,(0.0) the(0.0) largest(1.0) acreage(0.0) harvested(0.0) in(0.0) our(0.0) 
+State(1.0) in(0.0) the(0.0) last(0.0) 5(0.0) years(0.0) .(0.0) Behind(0.0) the(0.0) numbers(0.0) of(0.0) wheat(0.0) harvest(0.0) ,(0.0) bushels(0.0) per(0.0) acre(0.0) ,(0.0) test(0.0) weights(0.0) 
+,(0.0) yields(0.0) ,(0.0) are(0.0) stories(0.0) of(0.0) real(0.0) people(0.0) who(0.0) make(0.0) farming(1.0) their(0.0) way(0.0) of(0.0) life(0.0) .(0.0) Harvest(0.0) is(0.0) a(0.0) family(0.0) 
+affair(0.0) .(0.0) Although(0.0) the(0.0) methods(0.0) of(0.0) harvest(1.0) are(0.0) constantly(0.0) changing(0.0) thanks(0.0) to(0.0) new(0.0) technology(0.0) ,(0.0) the(0.0) work(0.0) ethic(1.0) passed(0.0) down(0.0) 
+from(0.0) generation(1.0) to(0.0) generation(1.0) still(0.0) exists(0.0) .(0.0) Fathers(1.0) ,(0.0) sons(0.0) ,(0.0) grandfathers(0.0) ,(0.0) brothers(0.0) work(0.0) side(0.0) by(0.0) side(0.0) from(0.0) dawn(0.0) 
+to(0.0) sunset(0.0) .(0.0) A(0.0) story(0.0) in(0.0) yesterday(0.0) 's(0.0) Salina(1.0) Journal(0.0) paints(0.0) the(0.0) typical(0.0) picture(0.0) in(0.0) a(0.0) profile(0.0) of(0.0) the(0.0) Anderson(0.0) 
+family(0.0) from(0.0) MCPherson(0.0) County(1.0) .(0.0) Wheat(0.0) producer(0.0) Tim(1.0) Anderson(1.0) is(0.0) on(0.0) the(0.0) combine(0.0) harvesting(0.0) a(0.0) field(0.0) near(0.0) Roxbury(1.0) ,(0.0) Kansas(1.0) 
+.(0.0) His(0.0) father(0.0) ,(0.0) Bill(0.0) Anderson(1.0) ,(0.0) is(0.0) on(0.0) another(0.0) combine(0.0) ,(0.0) and(0.0) the(0.0) third(0.0) is(0.0) manned(0.0) by(0.0) Tim(0.0) 's(0.0) 
+son(0.0) Scott(0.0) ,(0.0) age(0.0) 17(0.0) .(0.0) Younger(0.0) son(0.0) Shawn(0.0) is(0.0) in(0.0) a(0.0) tractor(0.0) nearby(0.0) pulling(0.0) the(0.0) grain(0.0) cart(0.0) .(0.0) Meanwhile(0.0) 
+Tim(0.0) 's(0.0) wife(0.0) ,(0.0) Renee(0.0) ,(0.0) arrives(0.0) in(0.0) the(0.0) field(0.0) in(0.0) a(0.0) farm(0.0) truck(0.0) bringing(0.0) lunch(0.0) to(0.0) the(0.0) family(0.0) .(0.0) 
+Harvest(0.0) is(0.0) a(0.0) team(0.0) effort(0.0) .(0.0) In(0.0) addition(0.0) to(0.0) being(0.0) a(0.0) family(0.0) affair(0.0) ,(0.0) the(0.0) annual(0.0) wheat(0.0) harvest(0.0) is(0.0) a(0.0) 
+trademark(0.0) claimed(0.0) by(0.0) our(0.0) entire(0.0) State(0.0) ,(0.0) and(0.0) we(0.0) have(0.0) been(0.0) growing(0.0) wheat(0.0) there(0.0) in(0.0) Kansas(1.0) since(0.0) before(0.0) Kansas(1.0) 
+
+
+----- below are rationale words -----
+
+Kansas	
+highways	Kansas	
+
+
+
+
+farmers	Kansas	drought	poor	
+incomes	trickle	
+cash-flow	rural	businesses	streets	
+State	disaster	Kansans	
+producers	
+producers	
+harvest	
+largest	
+State	
+farming	
+harvest	ethic	
+generation	generation	Fathers	
+Salina	
+County	Tim	Anderson	Roxbury	Kansas	
+Anderson	
+
+
+
+Kansas	Kansas	
+
+reads % = 0.072

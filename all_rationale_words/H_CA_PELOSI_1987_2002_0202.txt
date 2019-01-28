@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(1.0) ,(0.0) I(0.0) am(0.0) very(1.0) pleased(0.0) to(0.0) yield(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(1.0) to(0.0) the(0.0) gentlewoman(0.0) from(0.0) Connecticut(0.0) ((0.0) Ms.(1.0) DeLauro(1.0) 
+)(0.0) ,(0.0) a(0.0) very(0.0) important(0.0) member(0.0) of(0.0) our(0.0) Select(0.0) Committee(0.0) on(0.0) Homeland(0.0) Security(1.0) ,(0.0) the(0.0) assistant(1.0) to(0.0) the(0.0) minority(0.0) leader(1.0) 
+,(0.0) and(0.0) a(0.0) respected(1.0) member(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Appropriations(0.0) .(0.0) Ms.(1.0) DeLAURO(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) have(0.0) been(0.0) 
+proud(0.0) to(0.0) work(0.0) with(0.0) Chairman(1.0) Armey(0.0) ,(0.0) Ranking(1.0) Member(0.0) Pelosi(1.0) and(0.0) all(0.0) the(0.0) members(1.0) of(0.0) the(0.0) Select(0.0) Committee(0.0) to(0.0) craft(0.0) 
+this(0.0) legislation(0.0) .(0.0) Every(1.0) Member(0.0) of(0.0) the(0.0) House(0.0) came(1.0) to(0.0) this(0.0) effort(0.0) with(0.0) one(0.0) goal(1.0) ,(0.0) to(0.0) create(0.0) a(0.0) department(0.0) 
+that(0.0) will(0.0) help(0.0) us(0.0) win(0.0) the(0.0) war(1.0) on(0.0) terrorism(1.0) and(0.0) protect(0.0) our(0.0) citizens(1.0) from(0.0) future(0.0) attacks(0.0) .(0.0) We(0.0) have(0.0) no(1.0) 
+greater(0.0) obligation(0.0) under(0.0) this(0.0) Constitution(0.0) .(0.0) We(0.0) share(0.0) the(0.0) goal(1.0) ,(0.0) but(0.0) we(0.0) differ(1.0) on(0.0) the(0.0) details(1.0) .(0.0) And(0.0) while(0.0) 
+we(0.0) have(0.0) made(0.0) great(0.0) strides(1.0) toward(0.0) the(0.0) goal(1.0) ,(0.0) we(0.0) can(0.0) not(0.0) afford(0.0) to(0.0) ignore(0.0) the(0.0) details(1.0) .(0.0) We(0.0) face(0.0) 
+an(0.0) enemy(1.0) who(0.0) leaves(0.0) us(0.0) no(0.0) room(1.0) for(0.0) error(0.0) and(0.0) we(0.0) owe(1.0) the(0.0) American(0.0) people(0.0) nothing(0.0) less(0.0) than(0.0) getting(0.0) this(0.0) 
+right(1.0) the(0.0) first(0.0) time(0.0) .(0.0) There(1.0) are(0.0) several(0.0) areas(1.0) where(0.0) I(0.0) believe(1.0) we(0.0) have(0.0) made(0.0) real(0.0) progress(1.0) ,(0.0) due(1.0) in(0.0) 
+large(0.0) part(0.0) to(0.0) the(0.0) hard(0.0) work(0.0) of(0.0) our(0.0) committees(1.0) .(0.0) I(0.0) am(0.0) very(1.0) pleased(0.0) that(0.0) the(0.0) chairman(1.0) heeded(1.0) the(0.0) bipartisan(0.0) 
+recommendation(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Energy(0.0) and(0.0) Commerce(0.0) and(0.0) declined(1.0) the(0.0) administration(0.0) 's(0.0) request(0.0) to(0.0) transfer(1.0) health(1.0) functions(0.0) from(0.0) the(0.0) 
+National(0.0) Institutes(0.0) of(0.0) Health(1.0) and(0.0) the(0.0) Centers(0.0) for(0.0) Disease(0.0) Control(0.0) to(0.0) the(0.0) new(1.0) Department(0.0) .(0.0) On(0.0) a(0.0) bipartisan(0.0) recommendation(0.0) of(0.0) 
+the(0.0) Committee(0.0) on(0.0) Appropriations(0.0) ,(0.0) we(0.0) removed(1.0) provisions(0.0) that(0.0) would(1.0) have(0.0) given(0.0) the(0.0) administration(0.0) unprecedented(0.0) power(1.0) to(0.0) transfer(1.0) funds(0.0) without(0.0) 
+congressional(1.0) oversight(0.0) .(0.0) And(0.0) the(0.0) gentleman(0.0) from(0.0) Illinois(1.0) ((0.0) Mr.(0.0) Hyde(1.0) )(0.0) and(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) ((0.0) Mr.(0.0) Lantos(1.0) 
+)(0.0) worked(0.0) together(0.0) to(0.0) find(0.0) a(0.0) bipartisan(0.0) compromise(1.0) on(0.0) the(0.0) visa(1.0) issue(0.0) that(0.0) was(0.0) accepted(0.0) by(0.0) the(0.0) White(0.0) House(0.0) and(0.0) 
+three(0.0) committees(1.0) .(0.0) No(0.0) easy(0.0) task(0.0) .(0.0) However(0.0) ,(0.0) very(0.0) legitimate(0.0) concerns(0.0) still(0.0) exist(1.0) .(0.0) I(0.0) disagree(1.0) with(0.0) the(0.0) committee(0.0) 
+'s(0.0) decision(0.0) to(0.0) extend(0.0) the(0.0) deadline(1.0) for(0.0) the(0.0) Transportation(0.0) Security(0.0) Agency(0.0) to(0.0) check(0.0) baggage(1.0) on(0.0) airlines(1.0) .(0.0) The(0.0) American(0.0) public(1.0) 
+and(0.0) their(0.0) children(0.0) should(0.0) feel(0.0) safe(1.0) on(0.0) those(0.0) airlines(1.0) that(0.0) the(0.0) airplane(1.0) is(0.0) not(1.0) going(0.0) to(0.0) explode(1.0) .(0.0) The(0.0) Secretary(1.0) 
+of(0.0) Transportation(1.0) told(0.0) us(0.0) he(0.0) could(1.0) meet(1.0) the(0.0) deadlines(0.0) over(0.0) and(0.0) over(0.0) again(0.0) .(0.0) I(0.0) am(0.0) also(1.0) concerned(0.0) about(0.0) provisions(0.0) 
+that(0.0) broaden(0.0) the(0.0) FOIA(1.0) exemption(1.0) which(0.0) undermine(1.0) the(0.0) civil(1.0) service(1.0) protections(1.0) for(0.0) 170,000(1.0) Federal(1.0) workers(1.0) ,(0.0) both(0.0) union(0.0) and(0.0) nonunion(1.0) 
+.(0.0) That(0.0) particular(0.0) provision(0.0) goes(0.0) against(0.0) the(0.0) unanimous(0.0) bipartisan(0.0) vote(1.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Government(0.0) Reform(1.0) .(0.0) I(0.0) am(0.0) disappointed(1.0) 
+that(0.0) the(0.0) Committee(0.0) on(0.0) Rules(0.0) did(0.0) not(1.0) make(0.0) in(0.0) order(0.0) my(0.0) amendment(1.0) which(0.0) would(1.0) have(0.0) banned(0.0) the(0.0) Homeland(0.0) Security(1.0) Department(0.0) 
+from(0.0) contracting(1.0) with(0.0) corporations(1.0) that(0.0) are(0.0) owned(0.0) and(0.0) operated(1.0) in(0.0) the(0.0) United(0.0) States(0.0) who(0.0) incorporate(0.0) themselves(0.0) on(0.0) paper(0.0) overseas(1.0) for(0.0) 
+the(0.0) sole(0.0) reason(0.0) of(0.0) avoiding(0.0) U.S.(1.0) taxes(1.0) .(0.0) These(0.0) corporations(1.0) have(0.0) abandoned(1.0) our(0.0) country(1.0) at(0.0) a(0.0) critical(1.0) time(0.0) in(0.0) 
+
+
+----- below are rationale words -----
+
+very	time	Ms.	DeLauro	
+Security	assistant	leader	
+respected	Ms.	DeLAURO	Chairman	
+Chairman	Ranking	Pelosi	members	
+Every	came	goal	
+war	terrorism	citizens	no	
+goal	differ	details	
+strides	goal	details	
+enemy	room	owe	
+right	There	areas	believe	progress	due	
+committees	very	chairman	heeded	
+declined	transfer	health	
+Health	new	
+removed	would	power	transfer	
+congressional	Illinois	Hyde	Lantos	
+compromise	visa	
+committees	exist	disagree	
+deadline	baggage	airlines	public	
+safe	airlines	airplane	not	explode	Secretary	
+Transportation	could	meet	also	
+FOIA	exemption	undermine	civil	service	protections	170,000	Federal	workers	nonunion	
+vote	Reform	disappointed	
+not	amendment	would	Security	
+contracting	corporations	operated	overseas	
+U.S.	taxes	corporations	abandoned	country	critical	
+
+reads % = 0.2

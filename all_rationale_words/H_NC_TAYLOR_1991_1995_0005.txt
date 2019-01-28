@@ -1,0 +1,48 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) :(1.0) I(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) the(0.0) Republican(1.0) budget(1.0) not(1.0) because(1.0) I(1.0) agree(1.0) with(0.0) every(1.0) detail(0.0) ,(0.0) but(0.0) because(0.0) this(0.0) 
+nation(1.0) must(0.0) balance(0.0) it(0.0) 's(0.0) budget(1.0) .(0.0) If(0.0) we(0.0) do(0.0) n't(0.0) we(0.0) may(0.0) go(0.0) the(0.0) way(0.0) of(0.0) Mexico(1.0) ,(0.0) and(0.0) 
+if(0.0) we(0.0) go(0.0) bankrupt(1.0) ,(0.0) there(0.0) wo(0.0) n't(0.0) be(0.0) anyone(0.0) to(0.0) bail(1.0) us(0.0) out(0.0) .(0.0) The(0.0) American(0.0) people(0.0) should(0.0) know(0.0) 
+that(0.0) the(0.0) Appropriations(0.0) Committee(0.0) will(0.0) make(0.0) the(0.0) final(0.0) decisions(0.0) on(0.0) what(0.0) programs(1.0) will(0.0) be(0.0) eliminated(0.0) ,(0.0) what(0.0) programs(1.0) will(0.0) be(0.0) 
+cut(0.0) and(0.0) what(0.0) programs(1.0) may(0.0) be(0.0) increased(0.0) .(0.0) Today(0.0) ,(0.0) we(0.0) spend(1.0) about(0.0) $(0.0) 1.12(0.0) for(0.0) every(0.0) dollar(1.0) we(0.0) take(0.0) 
+in(0.0) --(0.0) it(0.0) 's(0.0) a(0.0) 12(0.0) percent(0.0) problem(0.0) and(0.0) we(0.0) can(0.0) fix(0.0) it(0.0) .(0.0) This(0.0) budget(1.0) begins(0.0) the(0.0) process(0.0) of(0.0) 
+making(0.0) priorities(1.0) ,(0.0) we(0.0) 've(0.0) simply(0.0) got(0.0) to(0.0) determine(0.0) how(0.0) much(0.0) money(1.0) we(0.0) have(0.0) ,(0.0) prioritize(1.0) our(0.0) needs(0.0) and(0.0) when(0.0) 
+the(0.0) money(1.0) runs(0.0) out(0.0) ,(0.0) so(0.0) do(0.0) the(0.0) programs(1.0) .(0.0) Every(0.0) spending(1.0) program(1.0) has(0.0) a(0.0) rationale(1.0) ,(0.0) a(0.0) constituency(0.0) and(0.0) 
+a(0.0) lobby(0.0) .(0.0) There(0.0) 's(0.0) been(0.0) a(0.0) lot(0.0) of(0.0) loose(0.0) talk(0.0) in(0.0) this(0.0) Chamber(0.0) about(0.0) so-called(1.0) cuts(1.0) in(0.0) some(0.0) programs(1.0) 
+like(0.0) Medicare(1.0) .(0.0) Only(0.0) in(0.0) Washington(1.0) is(0.0) an(0.0) increase(1.0) in(0.0) spending(1.0) a(0.0) cut(1.0) .(0.0) The(0.0) fact(0.0) is(0.0) that(0.0) Medicare(1.0) will(0.0) 
+be(0.0) broke(0.0) in(0.0) 7(0.0) years(0.0) .(0.0) That(0.0) means(0.0) in(0.0) 2002(0.0) there(0.0) will(0.0) be(0.0) no(0.0) money(0.0) for(0.0) Medicare(1.0) .(0.0) Those(0.0) who(0.0) 
+oppose(1.0) this(0.0) budget(1.0) are(0.0) willing(0.0) to(0.0) scare(1.0) our(0.0) seniors(1.0) and(0.0) are(0.0) willing(0.0) to(0.0) lie(1.0) to(0.0) them(0.0) ,(0.0) in(0.0) the(0.0) pursuit(1.0) 
+of(0.0) politics(1.0) .(0.0) To(0.0) vote(1.0) against(0.0) this(0.0) budget(1.0) is(0.0) to(0.0) tell(0.0) our(0.0) seniors(1.0) that(0.0) we(0.0) do(0.0) n't(0.0) care(1.0) about(0.0) their(0.0) 
+healthcare(1.0) --(0.0) that(0.0) we(0.0) are(0.0) willing(0.0) to(0.0) cast(0.0) them(0.0) out(0.0) --(0.0) just(0.0) for(0.0) politics(1.0) .(0.0) The(0.0) fact(0.0) is(0.0) ,(0.0) under(0.0) 
+this(0.0) budget(1.0) ,(0.0) Medicare(1.0) spending(1.0) will(0.0) increase(1.0) from(0.0) $(0.0) 4,700(0.0) to(0.0) $(0.0) 6,300(0.0) in(0.0) the(0.0) next(0.0) 7(0.0) years(0.0) --(0.0) that(0.0) 
+'s(0.0) a(0.0) 40(0.0) percent(0.0) increase(1.0) per(0.0) recipient(0.0) .(0.0) That(0.0) 's(0.0) hardly(0.0) a(0.0) cut(0.0) anywhere(0.0) in(0.0) America(1.0) ,(0.0) except(0.0) on(0.0) the(0.0) 
+other(0.0) side(0.0) of(0.0) the(0.0) aisle(0.0) .(0.0) This(0.0) budget(1.0) lays(1.0) out(0.0) a(0.0) road(0.0) map(0.0) to(0.0) follow(0.0) to(0.0) a(0.0) balanced(0.0) budget(1.0) and(0.0) 
+a(0.0) healthy(0.0) Medicare(1.0) System(0.0) in(0.0) 7(0.0) years(0.0) .(0.0) We(0.0) may(0.0) not(0.0) agree(0.0) with(0.0) every(0.0) dot(0.0) and(0.0) tittle(0.0) in(0.0) this(0.0) budget(1.0) 
+--(0.0) they(0.0) 'll(0.0) be(0.0) worked(0.0) out(0.0) in(0.0) the(0.0) Appropriations(0.0) Committee(0.0) --(0.0) but(0.0) we(0.0) must(0.0) agree(0.0) with(0.0) a(0.0) balanced(0.0) budget(1.0) ,(0.0) 
+with(0.0) a(0.0) healthy(0.0) Medicare(1.0) System(0.0) ,(0.0) and(0.0) Social(0.0) Security(0.0) off(0.0) the(0.0) table(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+:	Republican	budget	not	because	I	agree	every	
+nation	budget	Mexico	
+bankrupt	bail	
+programs	programs	
+programs	spend	dollar	
+budget	
+priorities	money	prioritize	
+money	programs	spending	program	rationale	
+so-called	cuts	programs	
+Medicare	Washington	increase	spending	cut	Medicare	
+Medicare	
+oppose	budget	scare	seniors	lie	pursuit	
+politics	vote	budget	seniors	care	
+healthcare	politics	
+budget	Medicare	spending	increase	
+increase	America	
+budget	lays	budget	
+Medicare	budget	
+budget	
+Medicare	
+
+reads % = 0.1598984771573604

@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) wish(0.0) in(0.0) turn(0.0) to(0.0) recognize(0.0) the(0.0) efforts(1.0) of(0.0) the(0.0) chairman(0.0) on(0.0) this(0.0) very(0.0) subject(0.0) and(0.0) I(0.0) look(0.0) forward(0.0) to(0.0) working(0.0) 
+with(0.0) the(0.0) gentleman(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+efforts	
+
+
+reads % = 0.04

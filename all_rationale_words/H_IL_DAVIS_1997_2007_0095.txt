@@ -1,0 +1,40 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Chair(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) Chairman(0.0) Waxman(1.0) for(0.0) yielding(0.0) .(0.0) I(0.0) have(0.0) always(0.0) been(0.0) told(0.0) that(0.0) one(0.0) of(0.0) the(0.0) 
+basic(0.0) responsibilities(0.0) of(0.0) management(0.0) is(0.0) to(0.0) effectively(0.0) manage(0.0) and(0.0) account(0.0) for(0.0) the(0.0) resources(0.0) of(0.0) the(0.0) corporation(0.0) ,(0.0) of(0.0) the(0.0) country(1.0) 
+,(0.0) of(0.0) the(0.0) business(0.0) .(0.0) And(0.0) ,(0.0) of(0.0) course(0.0) ,(0.0) in(0.0) this(0.0) instance(0.0) we(0.0) are(0.0) talking(0.0) about(0.0) the(0.0) United(0.0) States(0.0) 
+Government(1.0) ;(0.0) and(0.0) all(0.0) of(0.0) us(0.0) are(0.0) shareholders(1.0) ,(0.0) are(0.0) stakeholders(1.0) .(0.0) And(0.0) I(0.0) must(0.0) confess(0.0) that(0.0) when(0.0) I(0.0) look(0.0) 
+at(0.0) the(0.0) record(0.0) of(0.0) our(0.0) chief(0.0) management(0.0) team(0.0) ,(0.0) we(0.0) have(0.0) come(0.0) up(0.0) woefully(1.0) short(0.0) .(0.0) We(0.0) have(0.0) seen(0.0) raw(0.0) 
+examples(0.0) of(0.0) waste(1.0) ,(0.0) fraud(1.0) ,(0.0) and(0.0) abuse(1.0) :(0.0) no(0.0) paper(0.0) trails(0.0) ,(0.0) no(0.0) real(0.0) rationale(0.0) for(0.0) why(0.0) a(0.0) contract(0.0) 
+or(0.0) contracts(0.0) were(0.0) let(0.0) .(0.0) And(0.0) I(0.0) want(0.0) to(0.0) commend(0.0) Chairman(0.0) Waxman(1.0) for(1.0) effectively(1.0) laying(0.0) out(0.0) a(0.0) bill(1.0) of(0.0) particulars(0.0) 
+against(0.0) these(0.0) current(0.0) practices(1.0) .(0.0) The(0.0) hearings(1.0) that(0.0) were(0.0) held(0.0) on(0.0) contracting(1.0) accountability(1.0) were(0.0) so(0.0) revealing(0.0) .(0.0) As(0.0) a(0.0) matter(0.0) 
+of(0.0) fact(0.0) ,(0.0) much(0.0) of(0.0) the(0.0) information(0.0) that(0.0) we(0.0) saw(0.0) ,(0.0) we(0.0) just(0.0) could(0.0) n't(0.0) believe(0.0) in(0.0) terms(0.0) of(0.0) contracts(1.0) 
+that(0.0) were(0.0) let(0.0) and(0.0) nobody(0.0) could(0.0) tell(0.0) what(0.0) had(0.0) happened(0.0) as(0.0) a(0.0) result(0.0) of(0.0) the(0.0) contract(0.0) ,(0.0) what(0.0) was(0.0) the(0.0) 
+work(0.0) that(0.0) was(0.0) done(0.0) ,(0.0) who(0.0) did(0.0) it(0.0) .(0.0) This(0.0) legislation(1.0) will(0.0) limit(1.0) the(0.0) length(0.0) of(0.0) noncompetitive(1.0) contracts(0.0) ,(0.0) minimize(0.0) 
+no-bid(1.0) contracts(1.0) ,(0.0) maximize(1.0) fixed-price(1.0) contracts(1.0) ,(0.0) require(0.0) public(1.0) disclosure(1.0) of(0.0) justification(1.0) of(0.0) no-bid(1.0) contracts(1.0) ,(0.0) disclose(1.0) contractor(1.0) overcharges(1.0) ,(0.0) 
+and(0.0) promote(1.0) ethics(1.0) in(0.0) procurement(1.0) which(0.0) is(0.0) so(0.0) important(0.0) .(0.0) Every(0.0) dollar(1.0) spent(0.0) by(0.0) this(0.0) Government(1.0) should(0.0) get(0.0) maximum(0.0) return(0.0) 
+for(0.0) the(0.0) shareholders(1.0) .(0.0) We(0.0) have(0.0) not(0.0) seen(0.0) that(0.0) in(0.0) our(0.0) contracting(1.0) policies(1.0) and(0.0) practices(1.0) .(0.0) And(0.0) I(0.0) commend(0.0) the(0.0) 
+chairman(0.0) not(0.0) only(0.0) for(0.0) the(0.0) oversight(1.0) but(0.0) also(0.0) for(0.0) the(0.0) corrective(1.0) action(0.0) which(0.0) we(0.0) are(0.0) about(0.0) to(0.0) take(0.0) today(0.0) by(0.0) 
+passing(0.0) this(0.0) legislation(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Waxman	
+country	
+
+Government	shareholders	stakeholders	
+woefully	
+waste	fraud	abuse	
+Waxman	for	effectively	bill	
+practices	hearings	contracting	accountability	
+contracts	
+
+legislation	limit	noncompetitive	
+no-bid	contracts	maximize	fixed-price	contracts	public	disclosure	justification	no-bid	contracts	disclose	contractor	overcharges	
+promote	ethics	procurement	dollar	Government	
+shareholders	contracting	policies	practices	
+oversight	corrective	
+legislation	
+
+reads % = 0.15081967213114755

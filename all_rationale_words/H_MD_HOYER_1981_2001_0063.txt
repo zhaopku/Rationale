@@ -1,0 +1,34 @@
+This is from a Democrat
+----- below is the original text -----
+The(0.0) gentleman(0.0) from(0.0) North(0.0) Carolina(0.0) ((0.0) Mr.(0.0) Hayes(1.0) )(0.0) ,(0.0) my(0.0) friend(0.0) ,(0.0) is(0.0) helping(0.0) me(0.0) with(0.0) my(0.0) jacket(0.0) ,(0.0) who(0.0) 
+is(0.0) a(0.0) graduate(0.0) of(0.0) Duke(0.0) .(0.0) All(0.0) the(0.0) Dukes(0.0) are(0.0) pretty(0.0) gracious(0.0) tonight(0.0) .(0.0) They(0.0) were(0.0) not(0.0) very(0.0) gracious(0.0) last(0.0) 
+Saturday(0.0) night(0.0) I(0.0) noticed(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) humbly(0.0) rise(0.0) to(0.0) deliver(0.0) an(0.0) ode(1.0) to(0.0) the(0.0) Duke(0.0) Blue(0.0) Devils(0.0) 
+,(0.0) college(1.0) basketball(0.0) 2001(0.0) national(0.0) champions(0.0) .(0.0) Only(0.0) one(0.0) team(0.0) during(0.0) the(0.0) course(0.0) of(0.0) the(0.0) season(0.0) beat(0.0) Duke(0.0) by(0.0) more(0.0) 
+than(0.0) 10(0.0) points(0.0) ,(0.0) the(0.0) mighty(0.0) Maryland(1.0) Terrapins(0.0) .(0.0) Unfortunately(0.0) ,(0.0) it(0.0) was(0.0) not(0.0) Saturday(0.0) night(0.0) .(0.0) The(0.0) Duke(0.0) Blue(0.0) 
+Devils(0.0) are(0.0) champions(0.0) worthy(0.0) of(0.0) the(0.0) name(0.0) .(0.0) They(0.0) proved(0.0) it(0.0) again(0.0) and(0.0) again(0.0) in(0.0) game(0.0) after(0.0) game(0.0) .(0.0) But(0.0) 
+before(0.0) they(0.0) could(0.0) play(0.0) for(0.0) the(0.0) title(0.0) last(0.0) night(0.0) ,(0.0) the(0.0) Dukies(1.0) had(0.0) to(0.0) get(0.0) through(0.0) a(0.0) Saturday(0.0) night(0.0) fright(0.0) 
+.(0.0) The(0.0) Maryland(1.0) Terrapins(0.0) ,(0.0) new(0.0) to(0.0) the(0.0) Final(0.0) Four(0.0) ,(0.0) came(0.0) out(0.0) of(0.0) the(0.0) blocks(0.0) like(0.0) they(0.0) wanted(0.0) much(0.0) 
+more(0.0) .(0.0) Determined(0.0) not(0.0) to(0.0) fall(0.0) short(0.0) to(0.0) the(0.0) Blue(1.0) Devils(0.0) again(0.0) ,(0.0) my(0.0) Terps(1.0) were(0.0) as(0.0) ferocious(0.0) as(0.0) a(0.0) 
+lion(0.0) guarding(0.0) her(0.0) den(0.0) .(0.0) Duke(0.0) was(0.0) down(0.0) 22(0.0) points(0.0) and(0.0) flat(0.0) on(0.0) their(0.0) backs(0.0) ,(0.0) 11(0.0) at(0.0) the(0.0) half(0.0) 
+,(0.0) but(0.0) lo(0.0) and(0.0) behold(0.0) ,(0.0) a(0.0) comeback(0.0) was(0.0) hatched(0.0) .(0.0) As(0.0) the(0.0) game(0.0) wore(0.0) on(0.0) ,(0.0) the(0.0) Blue(1.0) Devils(0.0) 
+would(0.0) not(0.0) quit(0.0) ,(0.0) and(0.0) for(0.0) Maryland(1.0) 's(0.0) Cinderella(0.0) season(0.0) ,(0.0) the(0.0) slipper(0.0) no(0.0) longer(0.0) fit(0.0) .(0.0) But(0.0) the(0.0) Blue(1.0) 
+Devils(0.0) were(0.0) not(0.0) finished(0.0) ;(0.0) they(0.0) had(0.0) not(0.0) cleared(0.0) the(0.0) field(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Hayes	
+
+Speaker	ode	
+college	
+Maryland	
+
+Dukies	
+Maryland	
+Blue	Terps	
+
+Blue	
+Maryland	Blue	
+
+
+reads % = 0.04743083003952569

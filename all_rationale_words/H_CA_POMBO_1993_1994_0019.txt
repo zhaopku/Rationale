@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+The(0.0) Clerk(0.0) read(0.0) as(0.0) follows(0.0) :(0.0) Amendment(0.0) offered(0.0) by(0.0) Mr.(0.0) Pombo(1.0) :(1.0) Page(1.0) 9(0.0) ,(0.0) line(0.0) 17(0.0) ,(0.0) strike(0.0) ``(0.0) $(0.0) 
+514,650,000(0.0) ''(0.0) and(0.0) insert(0.0) ``(0.0) $(0.0) 494,945,000(0.0) ''(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Pombo	:	Page	
+
+
+reads % = 0.1

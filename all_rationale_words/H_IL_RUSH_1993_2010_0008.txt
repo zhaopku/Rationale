@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) 6(0.0) minutes(0.0) to(0.0) the(0.0) author(0.0) of(0.0) the(0.0) legislation(0.0) ,(0.0) my(0.0) dear(0.0) friend(0.0) from(0.0) California(0.0) ((0.0) Ms.(1.0) Matsui(1.0) 
+)(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Ms.	Matsui	
+
+
+reads % = 0.08695652173913043

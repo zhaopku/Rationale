@@ -1,0 +1,34 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) that(0.0) which(0.0) separates(0.0) this(0.0) Nation(1.0) from(0.0) all(0.0) others(0.0) on(0.0) the(0.0) face(0.0) of(0.0) this(0.0) earth(0.0) is(0.0) our(0.0) Constitution(1.0) and(0.0) our(0.0) 
+Bill(1.0) of(0.0) Rights(1.0) .(0.0) The(0.0) Bill(1.0) of(0.0) Rights(1.0) was(0.0) written(0.0) specifically(0.0) to(0.0) protect(0.0) minority(1.0) opinion(0.0) .(0.0) That(0.0) is(0.0) why(0.0) I(0.0) 
+am(0.0) so(0.0) concerned(0.0) about(0.0) a(0.0) vote(0.0) that(0.0) was(0.0) cast(0.0) by(0.0) this(0.0) body(0.0) yesterday(0.0) ,(0.0) a(0.0) vote(0.0) that(0.0) could(0.0) have(0.0) the(0.0) 
+effect(0.0) of(0.0) chilling(0.0) free(0.0) speech(0.0) --(0.0) the(0.0) first(0.0) amendment(1.0) --(0.0) the(0.0) cornerstone(1.0) of(0.0) our(0.0) Bill(1.0) of(0.0) Rights(1.0) .(0.0) While(0.0) I(0.0) 
+abhor(1.0) racism(1.0) ,(0.0) bigotry(1.0) ,(0.0) and(0.0) prejudice(1.0) from(0.0) any(0.0) quarter(0.0) ,(0.0) it(0.0) is(0.0) highly(0.0) inappropriate(0.0) for(0.0) this(0.0) body(0.0) as(0.0) an(0.0) 
+official(0.0) instrument(0.0) of(0.0) Government(1.0) to(0.0) take(0.0) an(0.0) official(0.0) position(0.0) against(0.0) speech(0.0) uttered(0.0) by(0.0) an(0.0) American(0.0) citizen(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) 
+popular(0.0) speech(0.0) does(0.0) not(0.0) need(0.0) the(0.0) protection(1.0) of(0.0) the(0.0) Bill(1.0) of(0.0) Rights(1.0) .(0.0) Only(0.0) unpopular(1.0) speech(0.0) ,(0.0) because(0.0) our(0.0) forefathers(1.0) 
+were(0.0) wise(0.0) enough(0.0) to(0.0) know(0.0) that(0.0) there(0.0) are(0.0) some(0.0) rights(1.0) that(0.0) are(0.0) so(0.0) precious(0.0) ,(0.0) so(0.0) fundamental(1.0) that(0.0) even(0.0) the(0.0) 
+majority(1.0) should(0.0) not(0.0) have(0.0) the(0.0) power(0.0) to(0.0) strip(0.0) them(0.0) away(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) have(0.0) heard(0.0) what(0.0) I(0.0) consider(0.0) 
+racist(1.0) ,(0.0) bigoted(1.0) and(0.0) grossly(1.0) intolerant(1.0) speech(0.0) spoken(0.0) in(1.0) the(1.0) well(0.0) of(0.0) this(0.0) House(0.0) .(0.0) Should(1.0) we(0.0) condemn(1.0) ourselves(0.0) ?(0.0) 
+What(0.0) about(0.0) radio(0.0) personalities(0.0) who(0.0) are(0.0) offensive(0.0) ?(0.0) Ought(0.0) we(0.0) to(0.0) condemn(1.0) Rush(0.0) Limbaugh(1.0) or(1.0) Howard(1.0) Stern(1.0) ?(1.0) --(1.0) I(1.0) 
+think(1.0) not(1.0) .(1.0) Perhaps(1.0) as(1.0) a(1.0) body(1.0) we(1.0) should(1.0) heed(1.0) the(1.0) words(0.0) of(0.0) a(0.0) great(0.0) moral(1.0) teacher(0.0) who(0.0) said(0.0) ,(0.0) 
+``(0.0) Let(0.0) him(0.0) who(0.0) is(0.0) without(0.0) sin(0.0) cast(0.0) the(0.0) first(0.0) stone(0.0) .(0.0) ''(0.0) 
+
+
+----- below are rationale words -----
+
+Nation	Constitution	
+Bill	Rights	Bill	Rights	minority	
+
+amendment	cornerstone	Bill	Rights	
+abhor	racism	bigotry	prejudice	
+Government	citizen	Speaker	
+protection	Bill	Rights	unpopular	forefathers	
+rights	fundamental	
+majority	Speaker	
+racist	bigoted	grossly	intolerant	in	the	Should	condemn	
+condemn	Limbaugh	or	Howard	Stern	?	--	I	
+think	not	.	Perhaps	as	a	body	we	should	heed	the	moral	
+
+
+reads % = 0.21653543307086615

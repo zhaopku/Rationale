@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) support(0.0) of(0.0) the(0.0) amendment(1.0) offered(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) Pennsylvania(1.0) ,(0.0) which(0.0) will(0.0) ensure(0.0) the(0.0) 
+health(1.0) and(0.0) security(0.0) of(0.0) children(0.0) around(0.0) the(0.0) world(0.0) .(0.0) This(0.0) amendment(1.0) will(0.0) make(0.0) certain(1.0) that(0.0) money(1.0) designated(0.0) for(0.0) child(0.0) survival(0.0) 
+in(0.0) foreign(1.0) countries(1.0) will(0.0) be(0.0) spent(0.0) on(0.0) programs(1.0) that(0.0) directly(0.0) contribute(0.0) to(0.0) child(0.0) survival(1.0) --(0.0) not(0.0) population(1.0) control(0.0) .(0.0) In(0.0) 
+this(0.0) day(0.0) of(0.0) medical(1.0) technology(0.0) ,(0.0) millions(1.0) of(0.0) children(1.0) in(0.0) developing(1.0) countries(1.0) die(0.0) each(0.0) year(0.0) from(0.0) diseases(1.0) that(0.0) simple(0.0) treatments(0.0) 
+can(0.0) easily(0.0) prevent(0.0) .(0.0) Our(0.0) money(1.0) should(0.0) be(0.0) spent(0.0) on(0.0) immunizations(1.0) and(0.0) medicine(1.0) that(0.0) will(0.0) end(0.0) these(0.0) senseless(1.0) deaths(1.0) .(0.0) 
+This(0.0) amendment(1.0) protects(1.0) children(0.0) and(0.0) spends(1.0) our(0.0) tax(1.0) dollars(1.0) responsibly(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) 
+the(0.0) Pitts(1.0) Amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+amendment	Pennsylvania	
+health	amendment	certain	money	
+foreign	countries	programs	survival	population	
+medical	millions	children	developing	countries	diseases	
+money	immunizations	medicine	senseless	deaths	
+amendment	protects	spends	tax	dollars	responsibly	Speaker	
+Pitts	Amendment	
+
+reads % = 0.248

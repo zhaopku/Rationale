@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) by(0.0) direction(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Rules(0.0) ,(0.0) I(0.0) call(0.0) up(0.0) House(0.0) Resolution(1.0) 308(0.0) and(0.0) ask(0.0) for(0.0) its(0.0) immediate(0.0) 
+consideration(0.0) .(0.0) The(0.0) Clerk(0.0) read(0.0) the(0.0) resolution(0.0) ,(0.0) as(0.0) follows(0.0) :(0.0) H.(0.0) Res(0.0) .(0.0) 308(0.0) Resolved(0.0) ,(0.0) That(0.0) at(0.0) any(0.0) 
+time(0.0) after(0.0) the(0.0) adoption(0.0) of(0.0) this(0.0) resolution(1.0) the(0.0) Speaker(0.0) may(0.0) ,(0.0) pursuant(0.0) to(0.0) clause(0.0) 2(0.0) ((0.0) b(0.0) )(0.0) of(0.0) rule(0.0) 
+XVIII(0.0) ,(0.0) declare(0.0) the(0.0) House(0.0) resolved(0.0) into(0.0) the(0.0) Committee(0.0) of(0.0) the(0.0) Whole(0.0) House(0.0) on(0.0) the(0.0) state(0.0) of(0.0) the(0.0) Union(0.0) for(0.0) 
+consideration(0.0) of(0.0) the(0.0) bill(0.0) ((1.0) H.R(0.0) .(0.0) 2559(0.0) )(0.0) to(0.0) amend(0.0) the(0.0) Federal(0.0) Crop(0.0) Insurance(0.0) Act(0.0) to(0.0) strengthen(0.0) the(0.0) safety(0.0) 
+net(0.0) for(0.0) agricultural(1.0) producers(0.0) by(0.0) providing(0.0) greater(0.0) access(0.0) to(0.0) more(0.0) affordable(1.0) risk(0.0) management(0.0) tools(0.0) and(0.0) improved(0.0) protection(0.0) from(0.0) production(0.0) and(0.0) 
+income(0.0) loss(0.0) ,(0.0) to(0.0) improve(0.0) the(0.0) efficiency(1.0) and(0.0) integrity(0.0) of(0.0) the(0.0) Federal(1.0) crop(1.0) insurance(0.0) program(0.0) ,(0.0) and(0.0) for(0.0) other(0.0) purposes(0.0) 
+.(0.0) The(0.0) first(0.0) reading(0.0) of(0.0) the(0.0) bill(0.0) shall(0.0) be(0.0) dispensed(0.0) with(0.0) .(0.0) All(0.0) points(0.0) of(0.0) order(0.0) against(0.0) consideration(0.0) of(0.0) the(0.0) 
+bill(0.0) are(0.0) waived(1.0) .(0.0) General(0.0) debate(1.0) shall(0.0) be(0.0) confined(0.0) to(0.0) the(0.0) bill(0.0) and(0.0) shall(0.0) not(0.0) exceed(0.0) one(0.0) hour(0.0) equally(0.0) divided(0.0) 
+and(0.0) controlled(0.0) by(0.0) the(0.0) chairman(0.0) and(0.0) ranking(0.0) minority(0.0) member(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Agriculture(0.0) .(0.0) After(0.0) general(0.0) debate(0.0) the(0.0) bill(0.0) 
+shall(0.0) be(0.0) considered(0.0) for(0.0) amendment(0.0) under(0.0) the(0.0) five-minute(0.0) rule(0.0) .(0.0) It(0.0) shall(0.0) be(0.0) in(0.0) order(0.0) to(0.0) consider(0.0) as(0.0) an(0.0) original(0.0) 
+bill(0.0) for(0.0) the(0.0) purpose(0.0) of(0.0) amendment(1.0) under(0.0) the(0.0) five-minute(0.0) rule(0.0) the(0.0) amendment(1.0) in(0.0) the(0.0) nature(0.0) of(0.0) a(0.0) substitute(0.0) recommended(0.0) by(0.0) 
+the(0.0) Committee(0.0) on(0.0) Agriculture(0.0) now(0.0) printed(0.0) in(0.0) the(0.0) bill(0.0) ,(0.0) modified(0.0) by(0.0) the(0.0) amendments(1.0) printed(0.0) in(0.0) the(0.0) report(0.0) of(0.0) the(0.0) 
+Committee(0.0) on(0.0) Rules(0.0) accompanying(0.0) this(0.0) resolution(1.0) .(0.0) That(0.0) amendment(1.0) in(0.0) the(0.0) nature(0.0) of(0.0) a(0.0) substitute(0.0) shall(0.0) be(0.0) considered(0.0) by(0.0) title(0.0) 
+rather(0.0) than(0.0) by(0.0) section(0.0) .(0.0) Each(0.0) title(0.0) shall(0.0) be(0.0) considered(0.0) as(0.0) read(0.0) .(0.0) All(0.0) points(0.0) of(0.0) order(0.0) against(0.0) that(0.0) amendment(1.0) 
+in(0.0) the(0.0) nature(0.0) of(0.0) a(0.0) substitute(0.0) are(0.0) waived(1.0) .(0.0) No(0.0) amendment(1.0) to(0.0) that(0.0) amendment(1.0) in(0.0) the(0.0) nature(0.0) of(0.0) a(0.0) substitute(0.0) 
+shall(0.0) be(0.0) in(0.0) order(0.0) except(0.0) those(0.0) printed(0.0) in(0.0) the(0.0) portion(0.0) of(0.0) the(0.0) Congressional(0.0) Record(1.0) designated(0.0) for(0.0) that(0.0) purpose(0.0) in(0.0) clause(0.0) 
+8(0.0) of(0.0) rule(0.0) XVIII(0.0) and(0.0) except(0.0) pro(0.0) forma(0.0) amendments(0.0) for(0.0) the(0.0) purpose(0.0) of(0.0) debate(0.0) .(0.0) Each(0.0) amendment(1.0) so(0.0) printed(0.0) may(0.0) 
+be(0.0) offered(0.0) only(0.0) by(0.0) the(0.0) Member(0.0) who(0.0) caused(0.0) it(0.0) to(0.0) be(0.0) printed(0.0) or(0.0) his(0.0) designee(0.0) ,(0.0) shall(0.0) be(0.0) considered(0.0) as(0.0) 
+read(0.0) ,(0.0) and(0.0) shall(0.0) not(0.0) be(0.0) subject(0.0) to(0.0) a(0.0) demand(0.0) for(0.0) division(0.0) of(0.0) the(0.0) question(0.0) in(0.0) the(0.0) House(0.0) or(0.0) in(0.0) 
+the(0.0) Committee(0.0) of(0.0) the(0.0) Whole(0.0) .(0.0) The(0.0) Chairman(0.0) of(0.0) the(0.0) Committee(0.0) of(0.0) the(0.0) Whole(0.0) may(0.0) :(0.0) ((0.0) 1(0.0) )(0.0) postpone(0.0) 
+until(0.0) a(0.0) time(0.0) during(0.0) further(0.0) consideration(0.0) in(0.0) the(0.0) Committee(0.0) of(0.0) the(0.0) Whole(0.0) a(0.0) request(0.0) for(0.0) a(0.0) recorded(0.0) vote(0.0) on(0.0) any(0.0) 
+amendment(0.0) ;(0.0) and(0.0) ((0.0) 2(0.0) )(0.0) reduce(0.0) to(0.0) five(0.0) minutes(0.0) the(0.0) minimum(0.0) time(0.0) for(0.0) electronic(0.0) voting(0.0) on(0.0) any(0.0) postponed(0.0) question(0.0) 
+that(0.0) follows(0.0) another(0.0) electronic(0.0) vote(0.0) without(0.0) intervening(0.0) business(0.0) ,(0.0) provided(0.0) that(0.0) the(0.0) minimum(0.0) time(0.0) for(0.0) electronic(0.0) voting(0.0) on(0.0) the(0.0) first(0.0) 
+in(0.0) any(0.0) series(0.0) of(0.0) questions(0.0) shall(0.0) be(0.0) 15(0.0) minutes(0.0) .(0.0) At(0.0) the(0.0) conclusion(0.0) of(0.0) consideration(0.0) of(0.0) the(0.0) bill(0.0) for(0.0) 
+
+
+----- below are rationale words -----
+
+Resolution	
+
+resolution	
+
+(	
+agricultural	affordable	
+efficiency	Federal	crop	
+
+waived	debate	
+
+
+amendment	amendment	
+amendments	
+resolution	amendment	
+amendment	
+waived	amendment	amendment	
+Record	
+amendment	
+
+
+
+
+
+
+
+
+reads % = 0.042

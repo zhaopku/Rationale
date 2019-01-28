@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+It(0.0) may(0.0) not(0.0) be(0.0) arrogant(0.0) ,(0.0) but(0.0) it(0.0) is(0.0) certainly(0.0) capricious(0.0) ,(0.0) and(0.0) it(0.0) is(0.0) certainly(0.0) arbitrary(0.0) to(0.0) single(0.0) out(0.0) Federal(1.0) 
+employees(1.0) for(0.0) different(0.0) treatment(0.0) than(0.0) we(0.0) could(0.0) give(0.0) to(0.0) any(0.0) segment(0.0) of(0.0) society(1.0) that(0.0) happens(0.0) to(0.0) receive(0.0) health(1.0) insurance(1.0) .(0.0) 
+I(0.0) hope(0.0) we(0.0) would(0.0) correct(0.0) this(0.0) injustice(1.0) by(0.0) supporting(0.0) the(0.0) DeLauro(1.0) amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Federal	
+employees	society	health	insurance	
+injustice	DeLauro	amendment	
+
+reads % = 0.14814814814814814

@@ -1,0 +1,56 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) strike(1.0) the(0.0) requisite(0.0) number(0.0) of(0.0) words(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) of(0.0) all(0.0) the(0.0) dubious(1.0) proposals(0.0) that(0.0) 
+are(0.0) contained(0.0) in(0.0) this(0.0) particular(0.0) bill(1.0) ,(0.0) perhaps(0.0) the(0.0) most(0.0) dubious(1.0) is(0.0) the(0.0) space-based(1.0) star(0.0) wars(1.0) system(0.0) which(0.0) we(0.0) are(0.0) 
+debating(1.0) .(0.0) I(0.0) learned(0.0) at(0.0) West(0.0) Point(0.0) and(0.0) in(0.0) 8(0.0) years(0.0) as(0.0) an(0.0) infantry(0.0) officer(0.0) in(0.0) the(0.0) Army(0.0) that(0.0) you(0.0) 
+build(0.0) a(0.0) strategy(0.0) around(0.0) a(0.0) realistic(0.0) assessment(0.0) of(0.0) the(0.0) threat(1.0) and(0.0) then(0.0) you(0.0) use(0.0) that(0.0) strategy(1.0) to(0.0) allocate(1.0) scarce(0.0) resources(0.0) 
+.(0.0) This(0.0) proposal(1.0) does(1.0) neither(0.0) .(0.0) They(0.0) do(0.0) not(0.0) have(0.0) to(0.0) take(0.0) just(0.0) my(0.0) word(0.0) for(0.0) it(0.0) .(0.0) This(0.0) is(0.0) 
+what(0.0) the(0.0) Defense(1.0) Budget(1.0) Project(0.0) has(0.0) said(0.0) about(0.0) this(0.0) particular(0.0) proposal(1.0) .(0.0) I(0.0) think(0.0) most(0.0) Members(0.0) are(0.0) conversant(0.0) with(0.0) the(0.0) 
+fact(0.0) that(0.0) this(0.0) is(0.0) one(0.0) of(0.0) the(0.0) most(0.0) well-respected(0.0) ,(0.0) nonpartisan(1.0) ,(0.0) analytical(0.0) military(0.0) think(0.0) tanks(0.0) operating(0.0) today(0.0) in(0.0) the(0.0) 
+United(0.0) States(0.0) .(0.0) Here(0.0) is(0.0) what(0.0) they(0.0) said(0.0) ,(0.0) Mr.(0.0) Chairman(1.0) .(0.0) Point(0.0) 1(0.0) ,(0.0) ``(0.0) There(0.0) is(0.0) no(0.0) significant(0.0) 
+long-range(0.0) ballistic(0.0) missile(0.0) threat(0.0) to(0.0) the(0.0) United(0.0) States(0.0) ,(0.0) nor(0.0) is(0.0) there(0.0) likely(0.0) to(0.0) be(0.0) such(0.0) a(0.0) threat(0.0) over(0.0) the(0.0) 
+foreseeable(0.0) future(0.0) .(0.0) ''(0.0) Point(0.0) 2(0.0) ,(0.0) ``(0.0) A(0.0) military(0.0) revolution(0.0) is(0.0) underway(0.0) .(0.0) Information(0.0) technologies(0.0) that(0.0) are(0.0) critical(0.0) to(0.0) 
+the(0.0) ballistic(0.0) missile(0.0) defense(0.0) activities(0.0) ,(0.0) such(0.0) as(0.0) sensing(0.0) ,(0.0) discrimination(1.0) ,(0.0) and(0.0) battle(1.0) management(0.0) ,(0.0) are(0.0) progressing(0.0) rapidly(0.0) .(0.0) 
+There(0.0) is(0.0) a(0.0) danger(0.0) that(0.0) if(0.0) we(0.0) buy(0.0) into(0.0) national(1.0) missile(0.0) defense(0.0) too(0.0) soon(0.0) ,(0.0) it(0.0) may(0.0) rapidly(0.0) obsolesce(1.0) ,(0.0) 
+leaving(0.0) us(0.0) with(0.0) another(0.0) huge(0.0) capital(1.0) investment(1.0) to(0.0) make(0.0) if(0.0) and(0.0) when(0.0) a(0.0) long-range(0.0) missile(0.0) threat(0.0) does(0.0) emerge(0.0) .(0.0) ''(0.0) 
+Point(0.0) 3(0.0) ,(0.0) ``(0.0) Perhaps(0.0) nowhere(0.0) is(0.0) this(0.0) danger(0.0) greater(0.0) than(0.0) in(0.0) the(0.0) case(0.0) of(0.0) space-based(1.0) interceptors(0.0) .(0.0) A(0.0) national(1.0) 
+missile(0.0) defense(0.0) system(0.0) that(0.0) included(0.0) space-based(1.0) interceptors(0.0) could(0.0) cost(0.0) tens(1.0) of(0.0) billions(1.0) of(0.0) dollars(1.0) to(0.0) acquire(0.0) and(0.0) deploy(0.0) .(0.0) This(0.0) 
+is(0.0) clearly(0.0) not(0.0) a(0.0) commitment(0.0) that(0.0) the(0.0) United(0.0) States(0.0) should(0.0) consider(0.0) entering(0.0) into(0.0) in(0.0) the(0.0) foreseeable(0.0) future(0.0) .(0.0) ''(0.0) Mr.(0.0) 
+Chairman(1.0) ,(0.0) the(0.0) final(0.0) point(0.0) ,(0.0) ``(0.0) With(0.0) deficit(1.0) and(0.0) tax(1.0) reductions(1.0) a(0.0) priority(0.0) ,(0.0) funds(1.0) for(0.0) defense(1.0) will(0.0) almost(0.0) 
+certainly(0.0) remain(0.0) tight(0.0) .(0.0) A(0.0) national(0.0) military(0.0) defense(0.0) system(0.0) is(0.0) an(0.0) expensive(0.0) proposition(1.0) ,(0.0) and(0.0) defense(1.0) systems(0.0) often(0.0) end(0.0) up(0.0) 
+costing(1.0) substantially(0.0) more(0.0) than(0.0) projected(0.0) by(0.0) initial(0.0) estimates(0.0) .(0.0) This(0.0) mix(0.0) could(0.0) ,(0.0) over(0.0) time(0.0) ,(0.0) have(0.0) the(0.0) effect(0.0) of(0.0) 
+presenting(0.0) the(0.0) Defense(1.0) Department(0.0) with(0.0) an(0.0) unfunded(1.0) mandate(1.0) ;(0.0) that(0.0) is(0.0) ,(0.0) with(0.0) a(0.0) program(0.0) requirement(0.0) that(0.0) can(0.0) not(0.0) be(0.0) 
+fully(0.0) offset(0.0) with(0.0) additional(0.0) resources(1.0) necessitating(0.0) substantial(0.0) cuts(1.0) from(0.0) worthy(0.0) DOD(1.0) programs(1.0) already(0.0) under(0.0) considerable(0.0) stress(0.0) .(0.0) ''(0.0) Mr.(0.0) Chairman(1.0) 
+,(0.0) this(0.0) is(0.0) a(0.0) nonpartisan(1.0) group(0.0) that(0.0) thinks(0.0) closely(0.0) and(0.0) well(0.0) about(0.0) defense(1.0) issues(0.0) .(0.0) Their(0.0) conclusions(0.0) are(0.0) very(0.0) dramatic(0.0) 
+.(0.0) I(0.0) urge(0.0) that(0.0) they(0.0) be(0.0) considered(0.0) and(0.0) this(0.0) amendment(1.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) [(0.0) Mr.(0.0) Edwards(1.0) ](0.0) be(1.0) 
+supported(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+strike	Chairman	dubious	
+bill	dubious	space-based	wars	
+debating	
+threat	strategy	allocate	
+proposal	does	
+Defense	Budget	proposal	
+nonpartisan	
+Chairman	
+
+
+discrimination	battle	
+national	obsolesce	
+capital	investment	
+space-based	national	
+space-based	tens	billions	dollars	
+
+Chairman	deficit	tax	reductions	funds	defense	
+proposition	defense	
+costing	
+Defense	unfunded	mandate	
+resources	cuts	DOD	programs	Chairman	
+nonpartisan	defense	
+amendment	Edwards	be	
+supported	
+
+reads % = 0.11447084233261338

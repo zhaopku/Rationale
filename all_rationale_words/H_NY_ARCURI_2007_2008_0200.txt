@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) 3(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Florida(0.0) ,(0.0) my(0.0) colleague(0.0) from(0.0) the(0.0) Blue(1.0) Dogs(1.0) ,(0.0) Mr.(0.0) Boyd(1.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+Blue	Dogs	Boyd	
+
+
+reads % = 0.13636363636363635

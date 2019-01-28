@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) would(0.0) like(0.0) to(0.0) point(0.0) out(0.0) ,(0.0) my(0.0) colleague(0.0) ,(0.0) the(0.0) gentlewoman(0.0) from(0.0) Texas(0.0) [(0.0) Ms.(1.0) Jackson-Lee(1.0) ](0.0) ,(0.0) had(0.0) talked(0.0) 
+about(0.0) gang(0.0) violence(0.0) and(0.0) what(0.0) the(0.0) difference(0.0) is(0.0) when(0.0) the(0.0) community(0.0) police(0.0) officers(0.0) get(0.0) into(0.0) that(0.0) community(0.0) and(0.0) learn(0.0) that(0.0) 
+community(0.0) .(0.0) When(0.0) I(0.0) was(0.0) assistant(0.0) district(0.0) attorney(1.0) in(0.0) Middlesex(0.0) County(0.0) I(0.0) got(0.0) a(0.0) call(0.0) one(0.0) afternoon(0.0) .(0.0) It(0.0) was(0.0) 
+about(0.0) 2:15(0.0) one(0.0) afternoon(0.0) ,(0.0) and(0.0) the(0.0) State(0.0) Police(0.0) informed(0.0) me(0.0) that(0.0) a(0.0) 15-year-old(0.0) boy(0.0) from(0.0) Lowell(1.0) ,(0.0) MA(1.0) ,(0.0) 
+had(0.0) been(0.0) shot(0.0) in(0.0) the(0.0) head(0.0) ,(0.0) a(0.0) culmination(0.0) of(0.0) what(0.0) was(0.0) gang(0.0) activity(0.0) in(0.0) the(0.0) city(0.0) of(0.0) Lowell(1.0) during(0.0) 
+that(0.0) time(0.0) period(0.0) .(0.0) We(0.0) had(0.0) had(0.0) an(0.0) influx(1.0) of(0.0) Asian(1.0) immigrants(1.0) into(0.0) the(0.0) city(0.0) ,(0.0) many(0.0) of(0.0) whom(0.0) had(0.0) 
+been(0.0) victims(0.0) of(0.0) crime(1.0) ,(0.0) Asian(1.0) crime(1.0) on(0.0) Asian(1.0) crime(1.0) ,(0.0) where(0.0) the(0.0) people(0.0) ,(0.0) immigrants(1.0) from(0.0) other(0.0) cultures(0.0) who(0.0) 
+came(0.0) from(0.0) a(0.0) culture(0.0) where(0.0) they(0.0) did(0.0) not(0.0) necessarily(0.0) trust(0.0) authority(0.0) and(0.0) did(0.0) not(0.0) know(0.0) what(0.0) the(0.0) role(0.0) of(0.0) the(0.0) 
+police(0.0) department(0.0) was(0.0) ,(0.0) whose(0.0) side(0.0) the(0.0) police(0.0) department(0.0) was(0.0) really(0.0) on(0.0) .(0.0) It(0.0) was(0.0) very(0.0) difficult(0.0) for(0.0) us(0.0) in(0.0) 
+the(0.0) DA(1.0) 's(0.0) office(0.0) to(0.0) get(0.0) witnesses(0.0) of(0.0) crime(1.0) to(0.0) participate(0.0) and(0.0) to(0.0) tell(0.0) us(0.0) what(0.0) happened(0.0) in(0.0) a(0.0) crime(1.0) 
+,(0.0) because(0.0) they(0.0) did(0.0) not(0.0) know(0.0) whether(0.0) to(0.0) trust(0.0) us(0.0) or(0.0) whether(0.0) to(0.0) trust(0.0) the(0.0) police(0.0) ,(0.0) so(0.0) they(0.0) did(0.0) 
+not(0.0) trust(0.0) anyone(0.0) .(0.0) In(0.0) this(0.0) murder(1.0) of(0.0) a(0.0) 15-year-old(0.0) boy(0.0) ,(0.0) it(0.0) was(0.0) the(0.0) culmination(0.0) of(0.0) months(0.0) of(0.0) gang(1.0) 
+activity(0.0) in(0.0) the(0.0) city(0.0) .(0.0) People(0.0) were(0.0) keeping(0.0) their(0.0) sons(0.0) and(0.0) daughters(0.0) home(0.0) from(0.0) Lowell(1.0) high(0.0) school(0.0) .(0.0) We(0.0) sent(0.0) 
+a(0.0) district(0.0) attorney(0.0) up(0.0) to(0.0) the(0.0) scene(0.0) of(0.0) that(0.0) .(0.0) The(0.0) DA(1.0) ,(0.0) Tom(0.0) Reilly(1.0) ,(0.0) who(0.0) is(0.0) a(0.0) very(0.0) 
+innovative(0.0) and(0.0) hardworking(0.0) DA(0.0) ,(0.0) went(0.0) up(0.0) to(0.0) the(0.0) city(0.0) .(0.0) We(0.0) instituted(1.0) a(0.0) priority(0.0) prosecution(0.0) program(1.0) there(0.0) .(0.0) We(0.0) 
+brought(0.0) in(0.0) people(0.0) from(0.0) the(0.0) Asian(1.0) community(0.0) to(0.0) the(0.0) table(0.0) of(0.0) the(0.0) mayor(1.0) 's(0.0) office(0.0) ;(0.0) we(0.0) brought(0.0) in(0.0) the(0.0) 
+probation(1.0) department(0.0) that(0.0) had(0.0) the(0.0) probation(0.0) records(0.0) of(0.0) all(0.0) the(0.0) individuals(0.0) involved(0.0) .(0.0) We(0.0) brought(0.0) in(0.0) the(0.0) school(0.0) department(0.0) ,(0.0) 
+which(0.0) could(0.0) give(0.0) us(0.0) a(0.0) perspective(0.0) of(0.0) who(0.0) attended(0.0) school(0.0) ,(0.0) who(0.0) did(0.0) not(0.0) ,(0.0) who(0.0) the(0.0) bad(0.0) actors(0.0) were(0.0) 
+,(0.0) who(0.0) the(0.0) people(0.0) were(0.0) who(0.0) were(0.0) trying(0.0) to(0.0) get(0.0) headed(0.0) in(0.0) the(0.0) right(0.0) direction(0.0) .(0.0) We(0.0) brought(0.0) the(0.0) police(0.0) 
+department(0.0) to(0.0) the(0.0) table(0.0) .(0.0) We(0.0) also(0.0) brought(0.0) the(0.0) DA(1.0) 's(0.0) office(0.0) to(0.0) the(0.0) table(0.0) ,(0.0) and(0.0) the(0.0) DA(0.0) met(0.0) 
+on(0.0) this(0.0) task(0.0) force(0.0) every(0.0) single(0.0) week(0.0) ,(0.0) every(0.0) week(0.0) .(0.0) We(0.0) identified(0.0) over(0.0) a(0.0) period(0.0) of(0.0) time(0.0) the(0.0) 25(0.0) 
+ring(0.0) leaders(0.0) of(0.0) these(0.0) gangs(1.0) ,(0.0) the(0.0) individuals(0.0) who(0.0) could(0.0) not(0.0) be(0.0) rehabilitated(0.0) ,(0.0) who(0.0) had(0.0) long(0.0) criminal(0.0) records(0.0) ,(0.0) 
+who(0.0) the(0.0) school(0.0) department(0.0) agreed(0.0) ,(0.0) the(0.0) probation(1.0) department(0.0) they(0.0) had(0.0) to(0.0) go(0.0) to(0.0) prison(1.0) for(0.0) as(0.0) long(0.0) as(0.0) we(0.0) 
+could(0.0) get(0.0) them(0.0) there(0.0) .(0.0) We(0.0) were(0.0) able(0.0) to(0.0) remove(0.0) those(0.0) 25(0.0) individuals(0.0) and(0.0) get(0.0) them(0.0) the(0.0) toughest(0.0) sentences(0.0) we(0.0) 
+could(0.0) .(0.0) The(0.0) question(0.0) is(0.0) ,(0.0) what(0.0) do(0.0) you(0.0) do(0.0) with(0.0) the(0.0) remaining(0.0) individuals(0.0) .(0.0) If(0.0) you(0.0) do(0.0) nothing(0.0) 
+
+
+----- below are rationale words -----
+
+Ms.	Jackson-Lee	
+
+attorney	
+Lowell	MA	
+Lowell	
+influx	Asian	immigrants	
+crime	Asian	crime	Asian	crime	immigrants	
+
+
+DA	crime	crime	
+
+murder	gang	
+Lowell	
+DA	Reilly	
+instituted	program	
+Asian	mayor	
+probation	
+
+
+DA	
+
+gangs	
+probation	prison	
+
+
+
+reads % = 0.064

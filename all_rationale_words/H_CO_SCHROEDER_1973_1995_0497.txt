@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) make(0.0) it(0.0) very(0.0) clear(0.0) that(0.0) it(0.0) does(0.0) not(0.0) come(0.0) out(0.0) of(0.0) the(0.0) pay(0.0) raise(0.0) .(0.0) It(0.0) 
+does(0.0) not(0.0) come(0.0) out(0.0) of(0.0) anything(0.0) in(0.0) particular(0.0) .(0.0) It(0.0) really(0.0) is(0.0) giving(0.0) the(0.0) Pentagon(1.0) a(0.0) line-item(1.0) veto(1.0) .(0.0) They(0.0) 
+can(0.0) allocate(0.0) this(0.0) 3(0.0) percent(0.0) however(0.0) they(0.0) would(0.0) like(0.0) to(0.0) .(0.0) It(0.0) is(0.0) a(0.0) 3(0.0) percent(0.0) across(0.0) the(0.0) board(0.0) or(0.0) 
+a(0.0) 3(0.0) percent(0.0) cut(1.0) of(0.0) different(0.0) areas(0.0) ,(0.0) if(0.0) you(0.0) want(0.0) to(0.0) do(0.0) it(0.0) in(0.0) personnel(0.0) .(0.0) I(0.0) was(0.0) pointing(0.0) 
+out(0.0) all(0.0) the(0.0) ways(0.0) you(0.0) could(0.0) combine(0.0) things(0.0) ,(0.0) just(0.0) in(0.0) intelligence(0.0) agencies(1.0) alone(0.0) ,(0.0) to(0.0) save(0.0) $(0.0) 19(0.0) billion(1.0) 
+,(0.0) and(0.0) that(0.0) will(0.0) come(0.0) under(0.0) personnel(0.0) by(0.0) combining(0.0) them(0.0) .(0.0) I(0.0) really(0.0) respect(0.0) the(0.0) gentleman(0.0) from(0.0) Florida(0.0) ,(0.0) and(0.0) 
+I(0.0) hope(0.0) we(0.0) do(0.0) not(0.0) get(0.0) into(0.0) trying(0.0) to(0.0) see(0.0) a(0.0) bogeyman(1.0) here(0.0) .(0.0) The(0.0) President(1.0) had(0.0) in(0.0) his(0.0) budget(1.0) 
+a(0.0) pay(0.0) raise(0.0) .(0.0) We(0.0) are(0.0) all(0.0) for(0.0) a(0.0) pay(0.0) raise(0.0) We(0.0) want(0.0) that(0.0) to(0.0) happen(0.0) .(0.0) But(0.0) this(0.0) is(0.0) 
+a(0.0) budget(0.0) that(0.0) has(0.0) more(0.0) money(1.0) than(0.0) they(0.0) asked(0.0) for(0.0) ,(0.0) and(0.0) this(0.0) is(0.0) just(0.0) to(0.0) bring(0.0) it(0.0) back(0.0) down(0.0) 
+to(0.0) those(0.0) numbers(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Pentagon	line-item	veto	
+
+cut	
+agencies	billion	
+
+bogeyman	President	budget	
+
+money	
+
+
+reads % = 0.05405405405405406

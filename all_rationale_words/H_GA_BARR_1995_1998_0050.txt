@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) based(0.0) on(0.0) the(0.0) fact(0.0) that(0.0) there(0.0) may(0.0) be(0.0) something(0.0) problematic(0.0) in(0.0) the(0.0) language(0.0) in(0.0) that(0.0) we(0.0) are(0.0) dealing(0.0) here(0.0) 
+with(0.0) fiscal(1.0) year(0.0) 1998-1999(1.0) appropriated(1.0) funds(1.0) ,(0.0) the(0.0) rule(1.0) that(0.0) the(0.0) administration(1.0) is(0.0) proposing(1.0) ,(0.0) as(0.0) I(0.0) understand(0.0) it(0.0) ,(0.0) 
+would(0.0) go(0.0) into(0.0) effect(1.0) next(0.0) month(0.0) .(0.0) That(0.0) is(0.0) August(0.0) of(0.0) 1998(0.0) .(0.0) And(0.0) while(0.0) it(0.0) certainly(0.0) would(0.0) be(0.0) implemented(0.0) 
+over(0.0) a(0.0) period(0.0) of(0.0) time(0.0) ,(0.0) it(0.0) would(0.0) clearly(0.0) bring(0.0) it(0.0) into(0.0) fiscal(1.0) year(0.0) 1999(1.0) .(0.0) Therefore(0.0) ,(0.0) I(0.0) think(0.0) 
+that(0.0) the(0.0) amendment(1.0) is(0.0) appropriate(0.0) .(0.0) It(0.0) is(0.0) not(0.0) legislating(1.0) .(0.0) It(0.0) would(0.0) simply(0.0) be(0.0) to(0.0) stop(0.0) appropriated(1.0) funds(1.0) for(0.0) 
+fiscal(1.0) year(0.0) 1999(0.0) from(0.0) being(0.0) used(0.0) to(0.0) continue(0.0) to(0.0) implement(1.0) this(0.0) rule(1.0) ,(0.0) which(0.0) will(0.0) go(0.0) into(0.0) fiscal(1.0) year(0.0) 1999(1.0) 
+in(0.0) its(0.0) implementation(0.0) .(0.0) However(0.0) ,(0.0) in(0.0) light(0.0) of(0.0) that(0.0) and(0.0) in(0.0) light(0.0) of(0.0) the(0.0) assurances(1.0) of(0.0) the(0.0) gentleman(0.0) from(0.0) 
+Virginia(1.0) ,(0.0) whom(0.0) I(0.0) certainly(0.0) respect(0.0) ,(0.0) and(0.0) in(0.0) light(0.0) of(0.0) the(0.0) fact(0.0) that(0.0) the(0.0) chairman(0.0) of(0.0) the(0.0) Subcommittee(0.0) on(0.0) 
+Immigration(0.0) and(0.0) Claims(0.0) ,(0.0) the(0.0) author(0.0) of(0.0) the(0.0) original(0.0) language(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) ((0.0) Mr.(0.0) Smith(1.0) )(0.0) ,(0.0) 
+will(0.0) work(0.0) with(0.0) us(0.0) next(0.0) week(0.0) in(0.0) setting(0.0) up(0.0) a(0.0) meeting(0.0) with(0.0) the(0.0) National(0.0) Highway(0.0) Traffic(0.0) Safety(0.0) Administration(0.0) to(0.0) see(0.0) 
+if(0.0) we(0.0) can(0.0) work(0.0) out(0.0) an(0.0) agreement(0.0) with(0.0) them(0.0) and(0.0) ,(0.0) if(0.0) not(0.0) ,(0.0) thereafter(0.0) propose(1.0) a(0.0) legislative(0.0) remedy(1.0) for(0.0) 
+this(0.0) ,(0.0) I(0.0) will(0.0) at(0.0) this(0.0) time(0.0) withdraw(0.0) the(0.0) amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+fiscal	1998-1999	appropriated	funds	rule	administration	proposing	
+effect	
+fiscal	1999	
+amendment	legislating	appropriated	funds	
+fiscal	implement	rule	fiscal	1999	
+assurances	
+Virginia	
+Smith	
+
+propose	remedy	
+amendment	
+
+reads % = 0.10775862068965517

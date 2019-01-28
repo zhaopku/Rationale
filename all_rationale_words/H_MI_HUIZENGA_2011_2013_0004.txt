@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) appreciate(0.0) the(0.0) opportunity(0.0) today(0.0) to(0.0) do(0.0) a(0.0) little(0.0) bragging(0.0) about(0.0) Baldwin(1.0) Street(1.0) Middle(0.0) School(0.0) ,(0.0) which(0.0) came(0.0) to(0.0) 
+visit(0.0) me(0.0) today(0.0) from(0.0) Hudsonville(1.0) ,(0.0) Michigan(1.0) .(0.0) They(0.0) came(0.0) to(0.0) brag(0.0) about(0.0) their(0.0) excellence(0.0) and(0.0) success(0.0) as(0.0) being(0.0) designated(0.0) 
+a(0.0) School(0.0) to(0.0) Watch(0.0) .(0.0) That(0.0) 's(0.0) a(0.0) national(0.0) program(0.0) that(0.0) goes(0.0) in(0.0) and(0.0) identifies(0.0) middle(0.0) schools(1.0) around(0.0) the(0.0) country(1.0) 
+that(0.0) are(0.0) very(0.0) focused(0.0) on(0.0) innovation(1.0) and(0.0) success(0.0) but(0.0) also(0.0) on(0.0) improvement(0.0) .(0.0) Every(0.0) single(0.0) day(0.0) ,(0.0) they(0.0) are(0.0) going(0.0) 
+into(0.0) that(0.0) building(0.0) as(0.0) administrators(0.0) and(0.0) as(0.0) teachers(0.0) to(0.0) improve(0.0) ,(0.0) not(0.0) only(0.0) the(0.0) students(0.0) ,(0.0) but(0.0) themselves(0.0) .(0.0) And(0.0) 
+I(0.0) think(0.0) that(0.0) is(0.0) what(0.0) we(0.0) need(0.0) more(0.0) of(0.0) here(0.0) in(0.0) education(1.0) in(0.0) the(0.0) United(0.0) States(0.0) .(0.0) They(0.0) were(0.0) also(0.0) 
+very(0.0) proud(0.0) to(0.0) know(0.0) that(0.0) I(0.0) had(0.0) a(0.0) staff(0.0) member(0.0) ,(0.0) Nate(0.0) Bult(1.0) ,(0.0) who(0.0) is(0.0) an(0.0) alumni(0.0) of(0.0) that(0.0) 
+middle(0.0) school(0.0) .(0.0) They(0.0) were(0.0) very(0.0) ,(0.0) very(0.0) proud(0.0) to(0.0) see(0.0) him(0.0) and(0.0) the(0.0) success(0.0) that(0.0) he(0.0) has(0.0) been(0.0) able(0.0) 
+to(0.0) have(0.0) .(0.0) So(0.0) ,(0.0) again(0.0) ,(0.0) I(0.0) just(0.0) want(0.0) to(0.0) congratulate(0.0) Baldwin(1.0) Street(1.0) Middle(0.0) School(0.0) in(0.0) Hudsonville(1.0) ,(0.0) Michigan(1.0) 
+,(0.0) for(0.0) their(0.0) dedication(0.0) to(0.0) the(0.0) students(0.0) of(0.0) the(0.0) Second(0.0) District(0.0) and(0.0) for(0.0) their(0.0) willingness(0.0) to(0.0) put(0.0) the(0.0) students(0.0) and(0.0) 
+innovation(0.0) above(0.0) any(0.0) of(0.0) themselves(0.0) as(0.0) they(0.0) serve(0.0) our(0.0) community(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Baldwin	Street	
+Hudsonville	Michigan	
+schools	country	
+innovation	
+
+education	
+Bult	
+
+Baldwin	Street	Hudsonville	Michigan	
+
+
+
+reads % = 0.06132075471698113

@@ -1,0 +1,18 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Ohio(1.0) ((0.0) Mr.(0.0) Kasich(1.0) )(0.0) ,(0.0) the(0.0) chairman(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) the(0.0) Budget(0.0) ,(0.0) 
+reversed(0.0) the(0.0) President(0.0) 's(0.0) 1993(0.0) budget(0.0) to(0.0) bring(0.0) us(0.0) the(0.0) surpluses(0.0) .(0.0) If(0.0) we(0.0) will(0.0) recall(0.0) ,(0.0) by(0.0) 2001(0.0) and(0.0) 
+2002(0.0) ,(0.0) the(0.0) President(0.0) 's(0.0) 1993(0.0) budget(0.0) agreement(0.0) predicted(0.0) a(0.0) $(0.0) 300(0.0) billion(0.0) and(0.0) $(0.0) 400(0.0) billion(0.0) annual(0.0) deficit(0.0) .(0.0) 
+The(0.0) gentleman(0.0) from(0.0) Ohio(1.0) ((0.0) Mr.(0.0) Kasich(1.0) )(0.0) has(1.0) turned(0.0) that(0.0) around(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) am(0.0) pleased(0.0) to(0.0) 
+yield(0.0) 3(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Ohio(1.0) ((0.0) Mr.(0.0) Kasich(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	Ohio	Kasich	
+
+
+Ohio	Kasich	has	Speaker	
+Ohio	Kasich	
+
+reads % = 0.09574468085106383

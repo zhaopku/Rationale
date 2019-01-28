@@ -1,0 +1,44 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) me(0.0) time(0.0) ,(0.0) and(0.0) I(0.0) just(0.0) wanted(0.0) to(0.0) say(0.0) that(0.0) I(0.0) oppose(1.0) the(0.0) 
+Medicare(1.0) bill(1.0) described(1.0) by(1.0) the(0.0) Democrats(1.0) .(0.0) It(0.0) is(0.0) an(0.0) outrageous(1.0) bill(1.0) as(1.0) described(0.0) by(0.0) the(0.0) Democrats(1.0) ,(0.0) but(0.0) that(0.0) 
+is(0.0) not(0.0) our(0.0) bill(1.0) .(0.0) Democrats(0.0) are(0.0) saying(0.0) ,(0.0) regretfully(0.0) ,(0.0) we(0.0) want(0.0) copayments(1.0) .(0.0) We(0.0) do(0.0) not(0.0) want(0.0) copayments(1.0) 
+.(0.0) There(0.0) are(0.0) no(0.0) copayments(1.0) .(0.0) They(0.0) say(0.0) we(0.0) want(0.0) deductibles(1.0) .(0.0) There(0.0) are(0.0) no(0.0) increases(0.0) in(0.0) deductibles(1.0) .(0.0) They(0.0) 
+say(0.0) we(0.0) increased(1.0) the(0.0) premium(0.0) ,(0.0) and(0.0) the(0.0) premium(0.0) stays(0.0) at(0.0) 31\1/2\(0.0) percent(0.0) .(0.0) The(0.0) taxpayer(1.0) will(0.0) continue(0.0) to(0.0) pay(1.0) 
+68\1/2\(0.0) percent(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) we(0.0) have(0.0) three(0.0) main(0.0) goals(0.0) as(0.0) this(0.0) Republican(1.0) majority(1.0) .(1.0) We(1.0) want(1.0) to(1.0) get(1.0) 
+the(1.0) financial(1.0) house(0.0) in(1.0) order(1.0) and(0.0) balance(0.0) our(0.0) budget(1.0) .(0.0) We(0.0) want(0.0) to(0.0) save(0.0) our(0.0) trust(0.0) funds(1.0) .(0.0) We(0.0) want(0.0) 
+to(0.0) protect(1.0) ,(0.0) preserve(1.0) ,(0.0) and(0.0) strengthen(1.0) them(0.0) .(0.0) And(0.0) we(0.0) want(0.0) to(0.0) transform(0.0) this(0.0) social(1.0) corporate(1.0) farming(1.0) welfare(1.0) state(1.0) 
+into(0.0) an(0.0) opportunity(0.0) society(1.0) .(0.0) We(0.0) are(0.0) going(0.0) to(0.0) do(0.0) that(0.0) ,(0.0) but(0.0) we(0.0) must(0.0) save(0.0) our(0.0) trust(0.0) fund(1.0) ,(0.0) 
+it(0.0) is(0.0) going(0.0) bankrupt(1.0) ,(0.0) and(0.0) we(0.0) will(0.0) .(0.0) How(0.0) do(0.0) we(0.0) do(0.0) it(0.0) ?(0.0) No(0.0) new(0.0) taxes(1.0) .(0.0) We(0.0) 
+do(0.0) not(0.0) affect(0.0) beneficiaries(1.0) .(0.0) We(0.0) affect(0.0) providers(1.0) and(0.0) we(0.0) change(0.0) the(0.0) system(0.0) .(0.0) We(0.0) are(0.0) transforming(1.0) the(0.0) system(0.0) ,(0.0) 
+allowing(0.0) people(0.0) to(0.0) keep(0.0) what(0.0) they(0.0) have(0.0) or(0.0) we(0.0) are(0.0) allowing(0.0) them(0.0) to(0.0) get(0.0) into(0.0) private(0.0) care(0.0) .(0.0) We(0.0) are(0.0) 
+giving(0.0) them(0.0) choice(0.0) .(0.0) We(0.0) are(0.0) allowing(0.0) them(0.0) to(0.0) have(0.0) the(0.0) same(0.0) kind(0.0) of(0.0) health(1.0) care(1.0) that(0.0) we(0.0) as(0.0) Federal(1.0) 
+employees(1.0) have(0.0) .(0.0) We(0.0) are(0.0) giving(0.0) them(0.0) the(0.0) choice(0.0) they(0.0) asked(0.0) for(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) we(0.0) are(0.0) doing(0.0) it(0.0) 
+without(0.0) cutting(0.0) the(0.0) program(1.0) .(0.0) We(0.0) are(0.0) increasing(1.0) it(0.0) .(0.0) We(0.0) are(0.0) going(0.0) to(0.0) spend(1.0) $(0.0) 600(0.0) billion(1.0) more(0.0) of(0.0) 
+new(0.0) money(1.0) .(0.0) Not(0.0) $(0.0) 300(0.0) billion(1.0) ,(0.0) $(0.0) 600(0.0) billion(1.0) more(0.0) .(0.0) It(0.0) will(0.0) go(0.0) from(0.0) $(0.0) 4800(0.0) per(0.0) 
+beneficiary(1.0) to(0.0) $(0.0) 6700(0.0) per(0.0) beneficiary(1.0) .(0.0) Only(0.0) in(0.0) Washington(1.0) when(0.0) we(0.0) spend(1.0) 50(0.0) percent(0.0) more(0.0) do(0.0) people(0.0) call(0.0) it(0.0) 
+a(0.0) cut(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+oppose	
+Medicare	bill	described	by	Democrats	outrageous	bill	as	Democrats	
+bill	copayments	copayments	
+copayments	deductibles	deductibles	
+increased	taxpayer	pay	
+Speaker	Republican	majority	.	We	want	to	get	
+the	financial	in	order	budget	funds	
+protect	preserve	strengthen	social	corporate	farming	welfare	state	
+society	fund	
+bankrupt	taxes	
+beneficiaries	providers	transforming	
+
+health	care	Federal	
+employees	Speaker	
+program	increasing	spend	billion	
+money	billion	billion	
+beneficiary	beneficiary	Washington	spend	
+
+
+reads % = 0.18604651162790697

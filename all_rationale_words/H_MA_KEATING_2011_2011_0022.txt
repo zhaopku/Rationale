@@ -1,0 +1,38 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) rise(0.0) today(0.0) to(0.0) honor(0.0) Sergeant(0.0) Matthew(0.0) A.(1.0) Pucino(1.0) of(0.0) Sagamore(1.0) Beach(0.0) ,(0.0) Massachusetts(1.0) ,(0.0) who(0.0) lost(0.0) his(0.0) life(0.0) on(0.0) November(0.0) 
+23(0.0) ,(0.0) 2009(0.0) ,(0.0) after(0.0) his(0.0) vehicle(0.0) was(0.0) struck(0.0) by(0.0) an(0.0) improvised(0.0) explosive(0.0) device(0.0) while(0.0) conducting(0.0) a(0.0) mounted(0.0) patrol(0.0) in(0.0) 
+Afghanistan(0.0) .(0.0) Sergeant(0.0) Pucino(0.0) enlisted(0.0) in(0.0) the(0.0) U.S.(0.0) Army(0.0) in(0.0) 2002(0.0) as(0.0) a(0.0) Special(0.0) Forces(0.0) candidate(0.0) .(0.0) He(0.0) went(0.0) on(0.0) 
+to(0.0) complete(0.0) the(0.0) Special(0.0) Forces(0.0) qualification(0.0) course(0.0) and(0.0) earned(0.0) the(0.0) coveted(0.0) Green(0.0) Beret(0.0) as(0.0) a(0.0) Special(0.0) Forces(0.0) engineer(0.0) sergeant(0.0) .(0.0) 
+In(0.0) July(0.0) of(0.0) 2009(0.0) ,(0.0) he(0.0) deployed(0.0) for(0.0) the(0.0) third(0.0) time(0.0) in(0.0) support(0.0) of(0.0) Operation(0.0) Enduring(0.0) Freedom(0.0) as(0.0) a(0.0) member(0.0) 
+of(0.0) the(0.0) Combined(0.0) Joint(0.0) Special(0.0) Operations(0.0) Task(0.0) Force(0.0) in(0.0) Afghanistan(0.0) .(0.0) Sergeant(0.0) Pucino(0.0) was(0.0) highly(0.0) decorated(0.0) ,(0.0) which(0.0) is(0.0) a(0.0) 
+testament(0.0) not(0.0) just(0.0) to(0.0) his(0.0) abilities(0.0) as(0.0) a(0.0) soldier(0.0) ,(0.0) but(0.0) to(0.0) his(0.0) true(0.0) character(0.0) .(0.0) This(0.0) includes(0.0) such(0.0) honors(0.0) 
+as(0.0) the(0.0) Bronze(0.0) Star(0.0) Medal(0.0) ,(0.0) Purple(1.0) Heart(0.0) Medal(0.0) ,(0.0) the(0.0) Army(0.0) Commendation(0.0) Medal(0.0) ,(0.0) the(0.0) Army(0.0) Good(0.0) Conduct(0.0) Medal(0.0) 
+,(0.0) the(0.0) National(0.0) Defense(0.0) Service(0.0) Medal(0.0) ,(0.0) the(0.0) Iraq(0.0) Campaign(0.0) Medal(0.0) ,(0.0) Global(0.0) War(0.0) on(0.0) Terrorism(0.0) Service(0.0) Medal(0.0) ,(0.0) Noncommissioned(0.0) 
+Officer(0.0) Professional(0.0) Development(0.0) Ribbon(0.0) ,(0.0) Army(0.0) Service(0.0) Ribbon(0.0) ,(0.0) NATO(0.0) Medal(0.0) ,(0.0) Combat(0.0) Infantryman(0.0) Badge(0.0) ,(0.0) Parachutist(0.0) Badge(0.0) ,(0.0) and(0.0) 
+the(0.0) Special(0.0) Forces(0.0) Tab(0.0) .(0.0) In(0.0) tribute(0.0) to(0.0) Sergeant(0.0) Pucino(0.0) 's(0.0) ultimate(0.0) sacrifice(0.0) for(0.0) our(0.0) country(0.0) ,(0.0) I(0.0) have(0.0) joined(0.0) 
+with(0.0) my(0.0) colleagues(0.0) in(0.0) the(0.0) Massachusetts(1.0) delegation(0.0) in(0.0) introducing(0.0) H.R(0.0) .(0.0) 2062(0.0) to(0.0) designate(0.0) the(0.0) facility(0.0) of(0.0) the(0.0) United(0.0) States(0.0) 
+Postal(0.0) Service(0.0) located(0.0) at(0.0) 45(0.0) Meetinghouse(0.0) Lane(0.0) in(0.0) Sagamore(0.0) Beach(0.0) ,(0.0) Massachusetts(1.0) ,(0.0) as(0.0) the(0.0) Matthew(0.0) A.(0.0) Pucino(0.0) Post(0.0) Office(0.0) 
+.(0.0) I(0.0) respectfully(0.0) urge(0.0) all(0.0) of(0.0) my(0.0) colleagues(0.0) to(0.0) vote(1.0) in(0.0) favor(1.0) of(0.0) this(0.0) legislation(1.0) in(0.0) honor(0.0) of(0.0) Sergeant(0.0) Pucino(1.0) 
+--(0.0) a(0.0) hero(0.0) ,(0.0) not(0.0) just(0.0) to(0.0) the(0.0) citizens(1.0) of(0.0) Massachusetts(1.0) ,(0.0) but(0.0) to(0.0) all(0.0) Americans(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+A.	Pucino	Sagamore	Massachusetts	
+
+
+
+
+
+
+Purple	
+
+
+
+Massachusetts	
+Massachusetts	
+vote	favor	legislation	Pucino	
+citizens	Massachusetts	Americans	
+
+reads % = 0.04697986577181208

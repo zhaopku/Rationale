@@ -1,0 +1,52 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) really(1.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) North(0.0) Carolina(0.0) ,(0.0) and(0.0) I(0.0) thank(0.0) the(0.0) gentlemen(1.0) from(0.0) Ohio(1.0) and(0.0) from(0.0) Georgia(1.0) for(0.0) participating(1.0) 
+.(0.0) It(0.0) has(0.0) been(0.0) a(0.0) pleasure(0.0) doing(0.0) this(0.0) with(0.0) you(0.0) .(0.0) I(0.0) think(1.0) it(0.0) has(0.0) been(0.0) very(0.0) helpful(0.0) to(0.0) me(0.0) 
+to(0.0) have(0.0) your(0.0) input(0.0) .(0.0) I(0.0) really(1.0) appreciate(1.0) it(0.0) .(0.0) So(1.0) I(0.0) just(1.0) want(1.0) to(0.0) say(1.0) that(0.0) .(0.0) I(0.0) want(1.0) 
+to(0.0) close(0.0) by(0.0) saying(0.0) this(0.0) ,(0.0) let(0.0) us(0.0) review(0.0) the(0.0) bidding(0.0) on(0.0) what(0.0) we(0.0) have(0.0) done(0.0) and(0.0) where(0.0) we(0.0) are(0.0) 
+at(0.0) with(0.0) this(0.0) Contract(1.0) .(0.0) On(0.0) the(0.0) first(0.0) day(0.0) of(0.0) Congress(0.0) --(0.0) I(0.0) want(1.0) to(0.0) review(0.0) the(0.0) bidding(0.0) with(0.0) respect(1.0) 
+to(0.0) the(0.0) notion(1.0) that(0.0) somehow(1.0) this(0.0) is(0.0) the(0.0) Republican(1.0) Contract(1.0) With(0.0) America(0.0) ,(0.0) because(1.0) the(0.0) truth(0.0) is(0.0) that(0.0) this(0.0) is(0.0) 
+not(1.0) .(0.0) This(0.0) is(0.0) an(0.0) American(0.0) Contract(1.0) ,(0.0) and(0.0) every(0.0) single(1.0) thing(0.0) that(0.0) we(0.0) have(0.0) done(0.0) on(0.0) this(0.0) floor(0.0) has(0.0) 
+gotten(1.0) bipartisan(0.0) support(0.0) .(0.0) Let(1.0) us(0.0) review(0.0) ,(0.0) on(0.0) the(0.0) very(0.0) first(0.0) day(0.0) of(0.0) the(0.0) Congress(0.0) ,(0.0) every(0.0) single(1.0) vote(1.0) 
+to(0.0) reform(0.0) the(0.0) rules(1.0) of(0.0) the(0.0) House(0.0) received(0.0) Democrat(1.0) support(0.0) ,(0.0) sometimes(1.0) by(0.0) as(0.0) many(0.0) as(0.0) 203(0.0) Democrats(1.0) ,(0.0) practically(1.0) 
+their(0.0) entire(1.0) caucus(1.0) .(0.0) When(1.0) we(0.0) passed(0.0) the(0.0) congressional(1.0) accountability(1.0) law(1.0) ,(0.0) a(0.0) total(0.0) of(0.0) 171(0.0) Democrats(1.0) supported(1.0) our(0.0) bill(0.0) 
+,(0.0) 171(0.0) out(1.0) of(0.0) about(0.0) 200(0.0) Democrats(1.0) supported(1.0) the(0.0) bill(0.0) .(0.0) When(1.0) we(0.0) passed(0.0) the(0.0) Balanced(1.0) Budget(0.0) Amendment(0.0) ,(0.0) 72(1.0) 
+Democrats(1.0) broke(1.0) with(0.0) their(0.0) leadership(1.0) to(0.0) do(0.0) the(0.0) right(1.0) thing(0.0) .(0.0) When(1.0) we(0.0) passed(0.0) the(0.0) unfunded(1.0) mandates(1.0) bill(0.0) ,(0.0) another(0.0) 
+130(1.0) Democrats(1.0) sided(0.0) with(0.0) Republicans(1.0) to(0.0) give(0.0) the(0.0) American(0.0) people(0.0) what(0.0) they(0.0) wanted(0.0) .(0.0) Given(1.0) the(0.0) degree(0.0) of(0.0) bipartisan(0.0) support(0.0) 
+that(0.0) our(0.0) Contract(0.0) has(0.0) received(0.0) ,(0.0) the(0.0) American(0.0) people(0.0) may(0.0) well(0.0) wonder(1.0) why(0.0) it(0.0) has(0.0) taken(0.0) so(1.0) many(0.0) years(0.0) to(0.0) 
+get(0.0) these(0.0) badly(1.0) needed(0.0) reforms(1.0) passed(0.0) ,(0.0) and(0.0) the(0.0) answer(0.0) is(0.0) very(0.0) simple(0.0) .(0.0) For(1.0) years(0.0) the(0.0) way(1.0) too(0.0) liberal(1.0) 
+,(0.0) way(1.0) too(0.0) powerful(0.0) ,(0.0) way(1.0) out(0.0) of(0.0) touch(0.0) leadership(1.0) of(0.0) this(0.0) Congress(0.0) ,(0.0) of(0.0) the(0.0) Democrat(1.0) party(1.0) ,(0.0) throttled(1.0) 
+these(0.0) bills(0.0) and(0.0) kept(0.0) them(1.0) from(0.0) the(0.0) floor(0.0) ,(0.0) from(0.0) even(0.0) being(0.0) considered(0.0) .(0.0) In(1.0) their(0.0) power(1.0) and(0.0) in(0.0) their(0.0) 
+arrogance(1.0) ,(0.0) the(0.0) Democrat(1.0) leaders(1.0) not(0.0) only(0.0) ignored(1.0) the(0.0) wishes(1.0) of(0.0) their(0.0) own(0.0) party(1.0) ,(0.0) but(0.0) more(0.0) importantly(1.0) ,(0.0) they(0.0) 
+forgot(0.0) about(0.0) the(0.0) needs(0.0) of(0.0) the(0.0) American(0.0) people(0.0) .(0.0) We(0.0) have(0.0) not(1.0) ,(0.0) and(0.0) we(0.0) are(0.0) not(0.0) going(0.0) to(0.0) .(0.0) 
+This(0.0) is(0.0) a(0.0) Contract(0.0) With(0.0) America(0.0) ,(0.0) it(0.0) is(0.0) a(0.0) Contract(1.0) For(0.0) America(0.0) ,(0.0) and(0.0) it(0.0) has(0.0) finally(0.0) given(0.0) America(0.0) 
+the(0.0) government(1.0) that(0.0) it(0.0) wants(1.0) and(0.0) it(0.0) needs(0.0) .(0.0) Mr.(1.0) Speaker(1.0) ,(0.0) this(0.0) Contract(0.0) is(0.0) right(1.0) on(0.0) target(0.0) .(0.0) This(0.0) 
+Contract(1.0) is(0.0) right(1.0) on(0.0) track(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+really	gentlemen	Ohio	Georgia	participating	
+think	
+really	appreciate	So	just	want	say	want	
+
+Contract	want	respect	
+notion	somehow	Republican	Contract	because	
+not	Contract	single	
+gotten	Let	single	vote	
+rules	Democrat	sometimes	Democrats	practically	
+entire	caucus	When	congressional	accountability	law	Democrats	supported	
+out	Democrats	supported	When	Balanced	72	
+Democrats	broke	leadership	right	When	unfunded	mandates	
+130	Democrats	Republicans	Given	
+wonder	so	
+badly	reforms	For	way	liberal	
+way	way	leadership	Democrat	party	throttled	
+them	In	power	
+arrogance	Democrat	leaders	ignored	wishes	party	importantly	
+not	
+Contract	
+government	wants	Mr.	Speaker	right	
+Contract	right	track	
+
+reads % = 0.21311475409836064

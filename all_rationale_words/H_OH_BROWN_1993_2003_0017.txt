@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) want(0.0) Members(0.0) on(0.0) both(0.0) sides(0.0) of(0.0) the(0.0) aisle(0.0) to(0.0) be(0.0) aware(0.0) of(0.0) three(0.0) unanswered(0.0) questions(0.0) about(0.0) H.R(0.0) 
+.(0.0) 5(0.0) .(0.0) First(0.0) ,(0.0) if(0.0) the(0.0) authors(0.0) of(0.0) this(0.0) bill(1.0) are(0.0) sure(0.0) that(0.0) it(0.0) will(0.0) reduce(1.0) and(0.0) stabilize(1.0) medical(1.0) 
+malpractice(1.0) premiums(1.0) ,(0.0) why(0.0) are(0.0) insurers(1.0) accountable(1.0) for(0.0) producing(0.0) that(0.0) result(0.0) ?(0.0) During(0.0) the(0.0) medical(1.0) malpractice(1.0) debate(1.0) in(0.0) Ohio(1.0) ,(0.0) 
+insurers(1.0) said(0.0) they(0.0) do(0.0) not(0.0) know(0.0) whether(0.0) premiums(1.0) would(0.0) come(0.0) down(0.0) .(0.0) During(0.0) a(0.0) recent(0.0) hearing(0.0) in(0.0) Pennsylvania(1.0) ,(0.0) the(0.0) 
+actuary(1.0) witness(0.0) said(0.0) he(0.0) could(0.0) not(0.0) say(0.0) whether(0.0) premiums(1.0) would(0.0) come(0.0) down(0.0) .(0.0) Even(0.0) Sherman(1.0) Joyce(1.0) ,(0.0) President(0.0) of(0.0) the(0.0) 
+American(0.0) Tort(1.0) Reform(1.0) Association(0.0) said(0.0) ,(0.0) ``(0.0) We(0.0) can(0.0) not(0.0) tell(0.0) you(0.0) or(0.0) anyone(0.0) that(0.0) the(0.0) reason(0.0) to(0.0) pass(0.0) tort(1.0) 
+reform(1.0) would(0.0) be(0.0) to(0.0) reduce(1.0) insurance(1.0) rates(0.0) .(0.0) ''(0.0) We(0.0) are(0.0) voting(0.0) on(0.0) a(0.0) bill(0.0) that(0.0) overrides(1.0) State(0.0) law(1.0) and(0.0) 
+undercuts(1.0) compensation(1.0) for(0.0) victims(1.0) of(0.0) medical(1.0) malpractice(1.0) ,(0.0) yet(0.0) we(0.0) do(0.0) not(0.0) know(0.0) whether(0.0) medical(1.0) malpractice(1.0) premiums(1.0) will(0.0) come(0.0) down(0.0) 
+.(0.0) California(1.0) passed(0.0) tort(1.0) reform(1.0) in(0.0) 1975(1.0) .(0.0) Medical(0.0) malpractice(1.0) premiums(0.0) continued(0.0) to(0.0) go(0.0) up(0.0) .(0.0) Not(0.0) until(0.0) California(1.0) 13(0.0) 
+years(0.0) later(0.0) demanded(0.0) a(0.0) reduction(0.0) in(0.0) premiums(1.0) with(0.0) insurance(0.0) reform(1.0) did(0.0) the(0.0) situation(0.0) improve(0.0) .(0.0) Yet(0.0) insurers(1.0) have(0.0) zero(0.0) ,(0.0) 
+no(0.0) obligation(1.0) under(0.0) this(0.0) bill(1.0) .(0.0) We(0.0) are(0.0) supposed(0.0) to(0.0) take(0.0) it(0.0) on(0.0) faith(1.0) and(0.0) trust(0.0) the(0.0) insurance(1.0) companies(1.0) that(0.0) 
+they(0.0) will(0.0) pass(0.0) along(0.0) the(0.0) savings(1.0) .(0.0) Apparently(0.0) we(0.0) can(0.0) not(0.0) trust(0.0) patients(0.0) ,(0.0) can(0.0) not(0.0) trust(0.0) juries(1.0) ,(0.0) can(0.0) 
+not(0.0) trust(0.0) lawyers(1.0) ,(0.0) but(0.0) we(0.0) can(0.0) trust(0.0) the(0.0) insurance(1.0) industry(1.0) .(0.0) My(0.0) second(0.0) question(0.0) is(0.0) :(0.0) Why(0.0) is(0.0) there(0.0) 
+no(0.0) single(0.0) insurance(1.0) reform(1.0) in(0.0) this(0.0) bill(1.0) ?(1.0) The(0.0) authors(0.0) of(0.0) H.R(0.0) .(0.0) 5(0.0) refer(0.0) again(0.0) and(0.0) again(0.0) to(0.0) MICRA(1.0) 
+.(0.0) The(0.0) gentleman(0.0) from(0.0) Louisiana(1.0) ((0.0) Mr.(0.0) Tauzin(1.0) )(0.0) did(1.0) ,(0.0) other(0.0) Members(0.0) will(0.0) .(0.0) MICRA(0.0) is(0.0) the(0.0) California(1.0) law(0.0) 
+that(0.0) sets(0.0) a(0.0) quarter-million-dollar(0.0) liability(0.0) cap(0.0) .(0.0) Members(0.0) know(0.0) it(0.0) was(0.0) not(0.0) MICRA(1.0) that(0.0) brought(0.0) down(0.0) premiums(0.0) in(0.0) California(1.0) ,(0.0) 
+it(0.0) was(0.0) insurance(0.0) reforms(1.0) 13(0.0) years(0.0) later(0.0) .(0.0) Malpractice(1.0) insurance(1.0) premiums(1.0) rose(0.0) 450(0.0) percent(0.0) after(0.0) MICRA(1.0) went(0.0) into(0.0) effect(0.0) ,(0.0) 
+and(0.0) only(0.0) when(0.0) California(1.0) established(0.0) a(0.0) prereview(0.0) of(0.0) rate(0.0) increases(0.0) and(0.0) automatic(0.0) rollback(1.0) of(0.0) excessive(1.0) premiums(1.0) did(0.0) the(0.0) doctors(0.0) get(0.0) 
+any(0.0) relief(1.0) ,(0.0) yet(0.0) this(0.0) bill(1.0) has(0.0) no(0.0) insurance(0.0) reforms(1.0) ,(0.0) no(0.0) premium(0.0) rollback(1.0) .(0.0) Why(0.0) ?(0.0) The(0.0) insurance(0.0) industry(1.0) 
+does(0.0) not(0.0) like(0.0) it(0.0) .(0.0) The(0.0) third(0.0) question(0.0) is(0.0) if(0.0) H.R(0.0) .(0.0) 5(0.0) is(0.0) a(0.0) response(0.0) to(0.0) spiking(1.0) medical(0.0) malpractice(1.0) 
+insurance(1.0) premiums(1.0) ,(0.0) something(0.0) we(0.0) want(0.0) to(0.0) do(0.0) something(0.0) about(0.0) and(0.0) our(0.0) substitute(1.0) bill(1.0) does(1.0) ,(0.0) why(0.0) does(0.0) this(0.0) bill(1.0) 
+shield(1.0) HMOs(1.0) ,(0.0) shield(1.0) drug(1.0) companies(1.0) ,(0.0) shield(0.0) medical(1.0) device(0.0) manufacturers(0.0) ,(0.0) and(0.0) shield(0.0) insurance(1.0) companies(1.0) from(0.0) liability(1.0) ?(0.0) It(0.0) 
+might(0.0) have(0.0) something(0.0) to(0.0) do(0.0) with(0.0) the(0.0) fact(0.0) that(0.0) those(0.0) industries(1.0) have(0.0) given(0.0) tens(1.0) and(0.0) tens(1.0) and(0.0) tens(1.0) of(0.0) millions(1.0) 
+of(0.0) dollars(1.0) to(0.0) Republican(0.0) candidates(1.0) .(1.0) The(1.0) majority(1.0) bristles(1.0) at(1.0) the(1.0) notion(1.0) that(1.0) the(1.0) curious(1.0) omissions(1.0) from(1.0) this(1.0) bill(1.0) have(1.0) 
+something(1.0) to(1.0) do(1.0) with(0.0) helping(0.0) their(0.0) friends(0.0) ,(0.0) the(0.0) drug(1.0) companies(1.0) ,(0.0) the(0.0) insurance(1.0) industry(1.0) ,(0.0) the(0.0) HMOs(1.0) and(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	
+bill	reduce	stabilize	medical	
+malpractice	premiums	insurers	accountable	medical	malpractice	debate	Ohio	
+insurers	premiums	Pennsylvania	
+actuary	premiums	Sherman	Joyce	
+Tort	Reform	tort	
+reform	reduce	insurance	overrides	law	
+undercuts	compensation	victims	medical	malpractice	medical	malpractice	premiums	
+California	tort	reform	1975	malpractice	California	
+premiums	reform	insurers	
+obligation	bill	faith	insurance	companies	
+savings	juries	
+lawyers	insurance	industry	
+insurance	reform	bill	?	MICRA	
+Louisiana	Tauzin	did	California	
+MICRA	California	
+reforms	Malpractice	insurance	premiums	MICRA	
+California	rollback	excessive	premiums	
+relief	bill	reforms	rollback	industry	
+spiking	malpractice	
+insurance	premiums	substitute	bill	does	bill	
+shield	HMOs	shield	drug	companies	medical	insurance	companies	liability	
+industries	tens	tens	tens	millions	
+dollars	candidates	.	The	majority	bristles	at	the	notion	that	the	curious	omissions	from	this	bill	have	
+something	to	do	drug	companies	insurance	industry	HMOs	
+
+reads % = 0.254

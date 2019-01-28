@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) how(1.0) much(0.0) time(0.0) remains(1.0) on(0.0) each(0.0) side(0.0) ?(1.0) The(0.0) SPEAKER(0.0) pro(1.0) tempore(1.0) ((0.0) Mr.(0.0) Simpson(1.0) )(0.0) .(0.0) The(0.0) gentleman(0.0) 
+from(0.0) Michigan(1.0) ((0.0) Mr.(0.0) Levin(1.0) )(0.0) has(0.0) 2\1/2\(0.0) minutes(1.0) remaining(1.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) Michigan(1.0) ((0.0) Mr.(0.0) Camp(1.0) )(0.0) has(0.0) 
+14\1/2\(1.0) minutes(1.0) remaining(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+how	remains	?	pro	tempore	Simpson	
+Michigan	Levin	minutes	remaining	Michigan	Camp	
+14\1/2\	minutes	remaining	
+
+reads % = 0.3333333333333333

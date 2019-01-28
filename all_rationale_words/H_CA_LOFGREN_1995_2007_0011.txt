@@ -1,0 +1,24 @@
+This is from a Democrat
+----- below is the original text -----
+The(0.0) Clerk(0.0) read(0.0) as(0.0) follows(0.0) :(0.0) Amendment(0.0) offered(0.0) by(0.0) Ms.(1.0) Zoe(1.0) Lofgren(1.0) of(0.0) California(0.0) :(1.0) Page(0.0) 16(0.0) ,(0.0) line(0.0) 20(0.0) ,(0.0) 
+after(0.0) the(0.0) dollar(0.0) amount(0.0) insert(0.0) ``(0.0) ((0.0) reduced(0.0) by(0.0) $(0.0) 25,000,000(0.0) )(0.0) ''(0.0) .(0.0) Page(0.0) 21(0.0) ,(0.0) line(0.0) 7(0.0) ,(0.0) 
+after(0.0) the(0.0) dollar(0.0) amount(0.0) insert(0.0) ``(0.0) ((0.0) reduced(0.0) by(0.0) $(0.0) 25,000,000(0.0) )(0.0) ''(0.0) .(0.0) Page(0.0) 30(0.0) ,(0.0) line(0.0) 10(0.0) ,(0.0) 
+after(0.0) the(0.0) dollar(0.0) amount(0.0) insert(0.0) ``(0.0) ((0.0) reduced(0.0) by(0.0) $(0.0) 5,000,000(0.0) )(0.0) ''(0.0) .(0.0) Page(0.0) 42(0.0) ,(0.0) line(0.0) 8(0.0) ,(0.0) 
+after(0.0) the(0.0) dollar(0.0) amount(0.0) insert(0.0) ``(0.0) ((0.0) increased(0.0) by(0.0) $(0.0) 55,000,000(0.0) )(0.0) ''(0.0) .(0.0) Page(0.0) 43(0.0) ,(0.0) line(0.0) 3(0.0) ,(0.0) 
+after(0.0) the(0.0) dollar(0.0) amount(0.0) insert(0.0) ``(0.0) ((0.0) increased(0.0) by(0.0) $(0.0) 55,000,000(0.0) )(0.0) ''(0.0) .(0.0) Ms.(1.0) ZOE(1.0) LOFGREN(1.0) of(0.0) California(0.0) ((0.0) 
+during(0.0) the(0.0) reading(0.0) )(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) ask(0.0) unanimous(1.0) consent(0.0) that(0.0) the(0.0) amendment(1.0) be(0.0) considered(0.0) as(0.0) read(0.0) and(0.0) 
+printed(0.0) in(0.0) the(0.0) Record(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Ms.	Zoe	Lofgren	:	
+
+
+
+
+Ms.	ZOE	LOFGREN	
+Chairman	unanimous	amendment	
+
+
+reads % = 0.0684931506849315

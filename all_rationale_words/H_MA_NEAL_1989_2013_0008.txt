@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+Gerlach(1.0) ,(0.0) and(0.0) thanks(0.0) to(0.0) our(0.0) very(0.0) capable(0.0) staffers(0.0) for(0.0) having(0.0) assembled(0.0) parts(0.0) of(0.0) the(0.0) argument(1.0) here(0.0) ,(0.0) and(0.0) point(0.0) out(0.0) 
+that(0.0) in(0.0) the(0.0) Senate(0.0) ,(0.0) this(0.0) was(0.0) done(0.0) by(0.0) unanimous(1.0) consent(0.0) .(0.0) That(0.0) 's(0.0) an(0.0) important(0.0) consideration(0.0) .(0.0) I(0.0) yield(0.0) 
+back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+argument	
+unanimous	
+
+
+reads % = 0.041666666666666664

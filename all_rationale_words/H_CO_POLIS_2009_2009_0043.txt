@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) would(0.0) like(0.0) to(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Georgia(0.0) .(0.0) We(0.0) originally(0.0) thought(0.0) that(0.0) the(0.0) omnibus(1.0) would(0.0) be(0.0) ready(0.0) today(0.0) ,(0.0) 
+so(0.0) we(0.0) required(0.0) a(0.0) previous(0.0) rule(1.0) that(0.0) Chairman(0.0) Obey(1.0) file(0.0) a(0.0) statement(0.0) by(0.0) today(0.0) explaining(0.0) the(0.0) bill(1.0) .(0.0) The(0.0) bill(1.0) 
+is(0.0) delayed(0.0) potentially(0.0) until(0.0) after(0.0) the(0.0) recess(0.0) so(0.0) the(0.0) rule(1.0) changes(0.0) the(0.0) statement(0.0) deadline(0.0) to(0.0) February(0.0) 26(0.0) .(0.0) It(0.0) is(0.0) 
+our(0.0) intention(1.0) to(0.0) file(0.0) the(0.0) statement(0.0) when(0.0) the(0.0) bill(1.0) is(0.0) introduced(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+omnibus	
+rule	Obey	bill	bill	
+rule	
+intention	bill	
+
+reads % = 0.1095890410958904

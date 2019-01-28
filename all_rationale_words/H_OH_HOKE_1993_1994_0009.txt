@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) yesterday(0.0) the(0.0) chairman(0.0) of(0.0) the(0.0) House(0.0) Committee(0.0) on(0.0) Banking(0.0) ,(0.0) Finance(0.0) and(0.0) Urban(0.0) Affairs(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) 
+[(0.0) Mr.(0.0) Gonzalez(1.0) ](0.0) sent(1.0) the(0.0) following(0.0) letter(0.0) to(0.0) House(0.0) Speaker(0.0) Foley(1.0) .(0.0) I(0.0) quote(0.0) ,(0.0) in(0.0) part(0.0) :(0.0) Dear(0.0) 
+Mr.(0.0) Speaker(1.0) :(1.0) It(0.0) is(0.0) time(0.0) for(0.0) Democrats(1.0) to(0.0) use(0.0) the(0.0) truth(0.0) .(0.0) I(0.0) recommend(0.0) that(0.0) the(0.0) House(0.0) leadership(1.0) draft(0.0) 
+and(0.0) endorse(1.0) a(0.0) resolution(1.0) calling(0.0) for(0.0) full(0.0) hearings(1.0) on(0.0) the(0.0) Whitewater(1.0) affair(0.0) .(0.0) I(0.0) note(0.0) that(0.0) the(0.0) Senate(0.0) has(0.0) already(0.0) 
+committed(0.0) itself(0.0) to(0.0) hearings(1.0) .(0.0) I(0.0) suggest(0.0) that(0.0) House(0.0) hearings(1.0) be(0.0) held(0.0) in(0.0) a(0.0) forum(0.0) of(0.0) broad(0.0) reach(0.0) ,(0.0) possibly(0.0) 
+a(0.0) select(0.0) committee(0.0) ,(0.0) that(0.0) can(0.0) explore(0.0) all(0.0) the(0.0) charges(0.0) .(0.0) We(0.0) have(0.0) a(0.0) responsibility(0.0) to(0.0) set(0.0) the(0.0) record(0.0) straight(0.0) 
+,(0.0) which(0.0) is(0.0) possible(0.0) only(0.0) through(0.0) a(0.0) full(0.0) public(1.0) hearing(0.0) of(0.0) every(0.0) aspect(0.0) of(0.0) this(0.0) matter(0.0) .(0.0) Sincerely(0.0) ,(0.0) Henry(0.0) 
+B.(1.0) Gonzalez(1.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) Texas(0.0) [(0.0) Mr.(0.0) Gonzalez(1.0) ](0.0) is(1.0) absolutely(1.0) right(0.0) .(0.0) I(0.0) support(0.0) him(0.0) in(0.0) an(0.0) 
+unqualified(1.0) way(0.0) .(0.0) We(0.0) do(0.0) need(0.0) to(0.0) have(0.0) a(0.0) committee(0.0) .(0.0) I(0.0) support(0.0) the(0.0) idea(0.0) of(0.0) a(0.0) select(0.0) committee(0.0) .(0.0) 
+And(0.0) the(0.0) only(0.0) thing(0.0) that(0.0) I(0.0) would(0.0) add(0.0) is(0.0) that(0.0) we(0.0) ought(0.0) to(0.0) pay(1.0) for(0.0) it(0.0) in(0.0) a(0.0) fiscally(1.0) responsible(0.0) 
+way(0.0) .(0.0) We(0.0) ought(1.0) to(0.0) cut(1.0) 1(0.0) percent(0.0) or(0.0) one-half(0.0) percent(0.0) from(0.0) every(0.0) committee(0.0) in(0.0) this(0.0) House(0.0) in(0.0) order(0.0) to(0.0) 
+pay(0.0) for(0.0) it(0.0) so(0.0) that(0.0) we(0.0) are(0.0) not(0.0) going(0.0) to(0.0) increase(1.0) the(0.0) deficit(1.0) to(0.0) do(0.0) it(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Gonzalez	sent	Foley	
+Speaker	:	Democrats	leadership	
+endorse	resolution	hearings	Whitewater	
+hearings	hearings	
+
+public	
+B.	Gonzalez	Gonzalez	is	absolutely	
+unqualified	
+pay	fiscally	
+ought	cut	
+increase	deficit	
+
+reads % = 0.1092436974789916

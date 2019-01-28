@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+Yes(0.0) ,(0.0) I(0.0) would(0.0) just(0.0) like(0.0) to(0.0) ask(0.0) a(0.0) question(0.0) :(0.0) Are(0.0) there(0.0) any(0.0) Republican(0.0) women(1.0) on(1.0) the(1.0) House(1.0) Judiciary(1.0) Committee(0.0) 
+,(1.0) which(1.0) reported(1.0) this(0.0) legislation(1.0) ?(1.0) And(1.0) do(0.0) you(0.0) think(0.0) it(0.0) 's(0.0) fair(1.0) or(0.0) proper(0.0) for(0.0) a(0.0) body(0.0) of(0.0) men(0.0) 
+to(0.0) solely(0.0) determine(0.0) one(0.0) of(0.0) the(0.0) most(0.0) important(0.0) and(0.0) private(0.0) decisions(0.0) a(0.0) woman(0.0) can(0.0) make(0.0) in(0.0) regard(0.0) to(0.0) her(0.0) own(0.0) 
+health(1.0) and(0.0) body(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+women	on	the	House	Judiciary	
+,	which	reported	legislation	?	And	fair	
+
+health	
+
+reads % = 0.2

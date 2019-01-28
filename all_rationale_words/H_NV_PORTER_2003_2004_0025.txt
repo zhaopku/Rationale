@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) me(0.0) this(0.0) time(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) had(0.0) the(0.0) opportunity(0.0) to(0.0) have(0.0) 
+breakfast(0.0) with(0.0) a(0.0) young(0.0) man(0.0) from(0.0) Nevada(1.0) this(0.0) week(0.0) .(0.0) He(0.0) held(0.0) up(0.0) his(0.0) hand(0.0) and(0.0) he(0.0) said(0.0) ,(0.0) ``(0.0) 
+I(0.0) have(0.0) a(0.0) baby(0.0) that(0.0) was(0.0) born(0.0) 2(0.0) months(0.0) premature(0.0) ,(0.0) and(0.0) I(0.0) can(0.0) hold(0.0) that(0.0) baby(0.0) in(0.0) my(0.0) hand(0.0) 
+just(0.0) like(0.0) this(0.0) .(0.0) ''(0.0) And(0.0) as(0.0) we(0.0) talked(0.0) about(0.0) his(0.0) child(0.0) ,(0.0) who(0.0) now(0.0) is(0.0) well(0.0) and(0.0) thriving(0.0) and(0.0) 
+feeling(0.0) wonderful(0.0) ,(0.0) we(0.0) talked(0.0) about(0.0) the(0.0) tax(1.0) credit(1.0) .(0.0) This(0.0) was(0.0) at(0.0) breakfast(0.0) just(0.0) across(0.0) the(0.0) street(0.0) .(0.0) He(0.0) 
+was(0.0) amazed(0.0) and(0.0) appalled(0.0) and(0.0) shocked(0.0) that(0.0) he(0.0) would(0.0) be(0.0) seeing(0.0) a(0.0) $(0.0) 300(0.0) tax(1.0) increase(1.0) next(0.0) year(0.0) because(0.0) he(0.0) 
+has(0.0) a(0.0) child(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) there(0.0) are(0.0) 47(0.0) million(0.0) kids(1.0) across(0.0) the(0.0) country(1.0) not(0.0) unlike(0.0) my(0.0) friend(0.0) 's(0.0) 
+little(0.0) baby(0.0) that(0.0) he(0.0) held(0.0) in(0.0) his(0.0) hand(0.0) a(0.0) few(0.0) months(0.0) ago(0.0) ,(0.0) 500,000(0.0) foster(1.0) kids(0.0) ,(0.0) 370,000(1.0) children(0.0) in(0.0) 
+Nevada(1.0) alone(0.0) ,(0.0) who(0.0) stand(0.0) to(0.0) have(0.0) a(0.0) tax(0.0) increase(1.0) next(0.0) year(0.0) if(0.0) we(0.0) do(0.0) not(0.0) take(0.0) action(1.0) today(0.0) .(0.0) 
+Nevada(1.0) is(0.0) one(0.0) of(0.0) the(0.0) fastest(0.0) growing(0.0) States(0.0) in(0.0) the(0.0) country(1.0) ,(0.0) close(0.0) to(0.0) 5(0.0) or(0.0) 6,000(0.0) new(0.0) residents(1.0) a(0.0) 
+month(0.0) moving(0.0) into(0.0) our(0.0) community(0.0) .(0.0) We(0.0) need(0.0) 2\1/2\(0.0) new(0.0) schools(1.0) a(0.0) month(0.0) because(0.0) we(0.0) have(0.0) about(0.0) 20,000(0.0) new(0.0) children(0.0) 
+that(0.0) could(0.0) benefit(1.0) from(0.0) this(0.0) tax(1.0) credit(1.0) .(0.0) We(0.0) know(0.0) that(0.0) the(0.0) economy(1.0) is(0.0) turning(0.0) around(0.0) ;(0.0) and(0.0) because(0.0) of(0.0) 
+the(0.0) strength(0.0) of(0.0) the(0.0) economy(1.0) ,(0.0) because(0.0) of(0.0) the(0.0) tax(1.0) credits(1.0) that(0.0) we(0.0) have(0.0) given(0.0) in(0.0) this(0.0) Congress(0.0) ,(0.0) right(0.0) 
+now(0.0) nationwide(1.0) there(0.0) are(0.0) 1.1(0.0) million(0.0) new(0.0) jobs(1.0) since(0.0) 2003(1.0) .(0.0) Unemployment(1.0) is(0.0) down(0.0) to(0.0) 5.6(1.0) percent(0.0) across(0.0) the(0.0) country(1.0) 
+.(0.0) Nevada(1.0) 's(0.0) unemployment(1.0) rate(1.0) is(0.0) 4.4(0.0) percent(0.0) .(0.0) It(0.0) is(0.0) working(0.0) .(0.0) Personal(0.0) income(1.0) is(0.0) up(0.0) .(0.0) Homeownership(1.0) is(0.0) 
+the(0.0) highest(0.0) it(0.0) has(0.0) ever(0.0) been(0.0) ,(0.0) and(0.0) this(0.0) is(0.0) because(0.0) of(0.0) these(0.0) tax(1.0) credits(1.0) ;(0.0) and(0.0) it(0.0) is(0.0) because(0.0) 
+families(0.0) ,(0.0) working(0.0) families(0.0) ,(0.0) have(0.0) an(0.0) opportunity(0.0) to(0.0) reinvest(1.0) in(0.0) their(0.0) community(0.0) .(0.0) I(0.0) have(0.0) been(0.0) in(0.0) office(0.0) a(0.0) 
+short(0.0) time(0.0) as(0.0) a(0.0) Member(0.0) of(0.0) Congress(0.0) ,(0.0) but(0.0) I(0.0) served(0.0) in(0.0) the(0.0) Nevada(1.0) legislature(0.0) as(0.0) many(0.0) of(0.0) the(0.0) Members(0.0) 
+have(0.0) served(0.0) in(0.0) legislature(0.0) ,(0.0) and(0.0) I(0.0) will(0.0) be(0.0) honest(0.0) with(0.0) them(0.0) ,(0.0) I(0.0) am(0.0) perplexed(0.0) .(0.0) One(0.0) of(0.0) the(0.0) 
+criticisms(1.0) I(0.0) am(0.0) hearing(0.0) about(0.0) this(0.0) bill(1.0) to(0.0) help(0.0) families(0.0) is(0.0) that(0.0) we(0.0) have(0.0) raised(0.0) the(0.0) threshold(1.0) .(0.0) I(0.0) am(0.0) 
+perplexed(0.0) because(0.0) I(0.0) know(0.0) that(0.0) politics(1.0) is(0.0) the(0.0) art(0.0) of(0.0) bringing(0.0) groups(0.0) together(0.0) and(0.0) building(0.0) bridges(0.0) .(0.0) The(0.0) $(0.0) 250,000(0.0) 
+threshold(0.0) was(0.0) a(0.0) Democrat(0.0) proposal(1.0) just(0.0) 10(0.0) days(0.0) ago(0.0) .(0.0) I(0.0) am(0.0) perplexed(0.0) that(0.0) all(0.0) of(0.0) a(0.0) sudden(0.0) it(0.0) has(0.0) 
+become(0.0) a(0.0) criticism(0.0) .(0.0) We(0.0) have(0.0) crossed(0.0) the(0.0) aisle(0.0) and(0.0) are(0.0) using(0.0) their(0.0) proposal(1.0) .(0.0) I(0.0) encourage(0.0) the(0.0) $(0.0) 250,000(0.0) 
+,(0.0) and(0.0) I(0.0) thank(0.0) the(0.0) Democrats(1.0) for(0.0) their(0.0) proposal(1.0) .(0.0) Families(0.0) need(0.0) permanence(1.0) in(0.0) the(0.0) language(0.0) .(0.0) We(0.0) also(0.0) support(0.0) 
+the(0.0) Democrat(1.0) 's(0.0) proposal(1.0) in(0.0) helping(0.0) those(0.0) families(0.0) that(0.0) need(0.0) help(0.0) the(0.0) most(0.0) by(0.0) increasing(1.0) the(0.0) refundability(1.0) to(0.0) 15(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	
+Nevada	
+
+
+tax	credit	
+tax	increase	
+Speaker	kids	country	
+foster	370,000	
+Nevada	increase	action	
+Nevada	country	residents	
+schools	
+benefit	tax	credit	economy	
+economy	tax	credits	
+nationwide	jobs	2003	Unemployment	5.6	country	
+Nevada	unemployment	rate	income	Homeownership	
+tax	credits	
+reinvest	
+Nevada	
+
+criticisms	bill	threshold	
+politics	
+proposal	
+proposal	
+Democrats	proposal	permanence	
+Democrat	proposal	increasing	refundability	
+
+reads % = 0.106

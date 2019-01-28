@@ -1,0 +1,52 @@
+This is from a Republican
+----- below is the original text -----
+The(0.0) bottom(0.0) line(0.0) is(0.0) that(0.0) the(0.0) White(1.0) House(0.0) ,(0.0) when(0.0) they(0.0) were(0.0) presenting(0.0) their(0.0) plan(1.0) on(0.0) Medicare(1.0) ,(0.0) suggested(0.0) that(0.0) Medicare(1.0) 
+could(0.0) only(0.0) grow(0.0) at(0.0) 6.8(0.0) percent(0.0) a(0.0) year(0.0) ;(0.0) that(0.0) we(0.0) needed(0.0) to(0.0) slow(0.0) the(0.0) growth(1.0) .(0.0) That(0.0) is(0.0) what(0.0) 
+we(0.0) are(0.0) doing(0.0) .(0.0) Admittedly(0.0) ,(0.0) we(0.0) failed(0.0) to(0.0) keep(0.0) it(0.0) as(0.0) low(0.0) as(0.0) the(0.0) White(1.0) House(0.0) originally(0.0) suggested(0.0) and(0.0) 
+it(0.0) is(0.0) going(0.0) to(0.0) grow(0.0) at(0.0) 7.2(0.0) percent(0.0) .(0.0) And(0.0) now(0.0) we(0.0) had(0.0) basically(0.0) four(0.0) ways(0.0) to(0.0) make(0.0) these(0.0) savings(1.0) 
+generically(0.0) .(0.0) One(0.0) is(0.0) we(0.0) could(0.0) change(0.0) and(0.0) affect(0.0) beneficiaries(1.0) .(0.0) The(0.0) second(0.0) is(0.0) we(0.0) could(0.0) change(0.0) and(0.0) affect(0.0) providers(1.0) 
+.(0.0) The(0.0) third(0.0) is(0.0) we(0.0) could(0.0) raise(0.0) taxes(1.0) to(0.0) save(0.0) the(0.0) Medicare(1.0) trust(0.0) fund(1.0) part(0.0) A(0.0) ,(0.0) and(0.0) that(0.0) simply(0.0) 
+was(0.0) ruled(0.0) not(0.0) an(0.0) option(0.0) .(0.0) And(0.0) the(0.0) fourth(0.0) is(0.0) we(0.0) could(0.0) change(0.0) the(0.0) system(0.0) .(0.0) I(0.0) would(0.0) love(0.0) to(0.0) 
+get(0.0) into(0.0) the(0.0) whole(0.0) issue(0.0) of(0.0) how(0.0) we(0.0) are(0.0) looking(0.0) to(0.0) change(0.0) the(0.0) system(0.0) ,(0.0) but(0.0) first(0.0) before(0.0) yielding(0.0) I(0.0) 
+will(0.0) make(0.0) this(0.0) point(0.0) :(0.0) We(0.0) did(0.0) not(0.0) advocate(1.0) making(0.0) any(0.0) change(0.0) in(0.0) copayments(1.0) .(0.0) We(0.0) did(0.0) not(0.0) advocate(1.0) ,(0.0) 
+and(0.0) do(0.0) not(0.0) ,(0.0) any(0.0) change(0.0) in(0.0) the(0.0) deduction(1.0) .(0.0) We(0.0) do(0.0) not(0.0) advocate(1.0) changing(0.0) the(0.0) beneficiary(1.0) rate(0.0) ,(0.0) the(0.0) 
+premium(0.0) rate(0.0) on(0.0) the(0.0) Medicare(1.0) part(0.0) B(0.0) .(0.0) We(0.0) leave(0.0) that(0.0) at(0.0) 31.5(0.0) percent(0.0) ,(0.0) with(0.0) the(0.0) taxpayers(1.0) still(0.0) paying(0.0) 
+68.5(0.0) percent(0.0) .(0.0) Now(0.0) ,(0.0) Medicare(1.0) part(0.0) A(0.0) ,(0.0) which(0.0) is(0.0) going(0.0) bankrupt(1.0) is(0.0) the(0.0) hospital(0.0) payments(0.0) .(0.0) Medicare(1.0) part(0.0) 
+B(0.0) is(0.0) the(0.0) services(0.0) .(0.0) In(0.0) Medicare(1.0) part(0.0) B(0.0) ,(0.0) we(0.0) keep(0.0) the(0.0) premium(0.0) ,(0.0) the(0.0) cost(1.0) to(0.0) the(0.0) beneficiary(1.0) 
+,(0.0) at(0.0) 31.5(0.0) percent(0.0) .(0.0) As(0.0) health(1.0) care(1.0) costs(1.0) go(0.0) up(0.0) ,(0.0) that(0.0) 31.5(1.0) percent(0.0) will(0.0) continue(0.0) to(0.0) be(0.0) a(0.0) 
+higher(0.0) amount(0.0) ,(0.0) much(0.0) as(0.0) it(0.0) has(0.0) been(0.0) in(0.0) the(0.0) last(0.0) 7(0.0) years(0.0) .(0.0) That(0.0) will(0.0) be(0.0) that(0.0) gradual(0.0) increase(1.0) 
+.(0.0) I(0.0) would(0.0) love(0.0) to(0.0) later(0.0) on(0.0) ,(0.0) but(0.0) I(0.0) will(0.0) yield(0.0) to(0.0) my(0.0) colleague(0.0) ,(0.0) I(0.0) will(0.0) just(0.0) point(0.0) 
+out(0.0) that(0.0) in(0.0) the(0.0) year(0.0) 2002(0.0) the(0.0) President(1.0) basically(0.0) would(0.0) have(0.0) a(0.0) premium(0.0) of(0.0) $(0.0) 82.80(1.0) ,(0.0) at(0.0) 25(0.0) percent(0.0) 
+of(0.0) the(0.0) cost(0.0) ,(0.0) because(0.0) the(0.0) President(1.0) fails(0.0) to(0.0) slow(0.0) the(0.0) growth(1.0) of(0.0) Medicare(1.0) ,(0.0) and(0.0) at(0.0) 31(0.0) percent(0.0) of(0.0) 
+the(0.0) cost(0.0) ,(0.0) our(0.0) charge(0.0) is(0.0) only(0.0) $(0.0) 87.50(0.0) .(0.0) It(0.0) is(0.0) less(0.0) than(0.0) $(0.0) 4(0.0) and(0.0) some(0.0) change(0.0) ,(0.0) 
+the(0.0) difference(0.0) in(0.0) the(0.0) premium(0.0) cost(0.0) ,(0.0) and(0.0) yet(0.0) the(0.0) President(1.0) has(0.0) called(0.0) this(0.0) Draconian(1.0) .(0.0) The(0.0) bottom(0.0) line(0.0) is(0.0) 
+I(0.0) would(0.0) love(0.0) my(0.0) colleague(0.0) to(0.0) talk(0.0) about(0.0) what(0.0) we(0.0) have(0.0) done(0.0) .(0.0) We(0.0) have(0.0) not(0.0) increased(0.0) the(0.0) copayments(1.0) .(0.0) 
+We(0.0) have(0.0) increased(0.0) deductions(1.0) .(0.0) We(0.0) keep(0.0) the(0.0) beneficiary(1.0) rate(0.0) at(0.0) 31.5(0.0) percent(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+White	plan	Medicare	Medicare	
+growth	
+White	
+savings	
+beneficiaries	providers	
+taxes	Medicare	fund	
+
+
+advocate	copayments	advocate	
+deduction	advocate	beneficiary	
+Medicare	taxpayers	
+Medicare	bankrupt	Medicare	
+Medicare	cost	beneficiary	
+health	care	costs	31.5	
+increase	
+
+President	82.80	
+President	growth	Medicare	
+
+President	Draconian	
+copayments	
+deductions	beneficiary	
+
+reads % = 0.09425287356321839

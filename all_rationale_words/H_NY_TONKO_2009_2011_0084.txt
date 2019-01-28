@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) the(0.0) ``(0.0) Road(0.0) to(0.0) Ruin(0.0) ''(0.0) Republican(0.0) budget(1.0) will(1.0) end(1.0) Medicare(1.0) .(1.0) It(1.0) will(1.0) end(1.0) a(0.0) program(1.0) that(0.0) 46(0.0) 
+million(0.0) seniors(1.0) and(0.0) disabled(1.0) individuals(0.0) depend(0.0) on(0.0) for(0.0) their(0.0) health(1.0) care(1.0) .(0.0) In(0.0) fact(0.0) ,(0.0) the(0.0) end(0.0) of(0.0) Medicare(1.0) will(0.0) 
+mean(0.0) seniors(1.0) are(0.0) forced(1.0) to(0.0) pay(1.0) more(0.0) for(0.0) prescription(1.0) drugs(1.0) ,(0.0) they(0.0) will(0.0) lose(0.0) free(0.0) wellness(1.0) visits(0.0) ,(0.0) and(0.0) they(0.0) 
+will(0.0) be(0.0) forced(0.0) to(0.0) pay(1.0) more(0.0) out(0.0) of(0.0) pocket(0.0) .(0.0) In(0.0) fact(0.0) ,(0.0) the(0.0) Republican(1.0) plan(1.0) will(1.0) cause(1.0) seniors(1.0) to(1.0) 
+dip(1.0) into(0.0) their(1.0) pockets(1.0) twice(1.0) as(0.0) deeply(0.0) as(0.0) they(0.0) do(0.0) today(0.0) by(0.0) the(0.0) year(0.0) 2020(1.0) and(0.0) three(0.0) times(0.0) more(0.0) by(0.0) 
+2030(1.0) .(0.0) And(0.0) what(0.0) do(0.0) we(0.0) get(0.0) with(0.0) the(0.0) end(0.0) of(0.0) Medicare(1.0) ?(0.0) Where(0.0) are(0.0) these(0.0) funds(1.0) directed(0.0) ?(0.0) To(0.0) 
+continue(0.0) tax(1.0) breaks(1.0) for(1.0) Big(1.0) Oil(1.0) ,(1.0) to(1.0) continue(1.0) loopholes(1.0) for(1.0) corporations(1.0) that(0.0) ship(1.0) jobs(1.0) overseas(1.0) ,(0.0) and(0.0) to(0.0) provide(0.0) 
+tax(1.0) breaks(1.0) for(1.0) the(1.0) wealthiest(1.0) amongst(1.0) us(0.0) --(1.0) those(0.0) who(0.0) need(0.0) them(0.0) least(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) Americans(1.0) oppose(1.0) the(0.0) 
+efforts(1.0) to(0.0) end(1.0) Medicare(1.0) .(0.0) I(0.0) ask(0.0) my(0.0) colleagues(0.0) to(0.0) work(0.0) with(0.0) us(0.0) to(0.0) strengthen(0.0) the(0.0) program(1.0) ,(0.0) not(0.0) destroy(1.0) 
+it(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+budget	will	end	Medicare	.	It	will	end	program	
+seniors	disabled	health	care	Medicare	
+seniors	forced	pay	prescription	drugs	wellness	
+pay	Republican	plan	will	cause	seniors	to	
+dip	their	pockets	twice	2020	
+2030	Medicare	funds	
+tax	breaks	for	Big	Oil	,	to	continue	loopholes	for	corporations	ship	jobs	overseas	
+tax	breaks	for	the	wealthiest	amongst	--	Speaker	Americans	oppose	
+efforts	end	Medicare	program	destroy	
+
+
+reads % = 0.34972677595628415

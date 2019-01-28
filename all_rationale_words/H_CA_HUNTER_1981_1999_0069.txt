@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+The(0.0) Clerk(0.0) read(1.0) as(0.0) follows(1.0) :(0.0) Mr.(0.0) Hunter(1.0) moves(1.0) that(0.0) the(0.0) Committee(0.0) do(0.0) now(0.0) rise(1.0) and(0.0) report(1.0) the(0.0) bill(0.0) back(0.0) to(0.0) 
+the(0.0) House(0.0) with(0.0) the(0.0) recommendation(0.0) that(0.0) the(0.0) enacting(1.0) clause(1.0) be(0.0) stricken(1.0) out(0.0) .(0.0) Parliamentary(1.0) Inquiry(0.0) 
+
+
+----- below are rationale words -----
+
+read	follows	Hunter	moves	rise	report	
+enacting	clause	stricken	Parliamentary	
+
+reads % = 0.2777777777777778

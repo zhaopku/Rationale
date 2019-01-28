@@ -1,0 +1,24 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) want(0.0) to(0.0) close(0.0) by(0.0) making(0.0) sure(0.0) ,(0.0) again(0.0) ,(0.0) that(0.0) everybody(0.0) understands(0.0) we(0.0) are(0.0) not(0.0) talking(0.0) about(0.0) what(0.0) the(0.0) committee(0.0) 
+may(0.0) have(0.0) done(0.0) in(0.0) relationship(0.0) to(0.0) appropriations(1.0) .(0.0) That(0.0) has(0.0) nothing(0.0) to(0.0) do(0.0) with(0.0) this(0.0) legislation(1.0) .(0.0) Those(0.0) are(0.0) the(0.0) 
+figures(0.0) that(0.0) are(0.0) being(0.0) presented(0.0) by(0.0) those(0.0) lobbyists(1.0) downtown(1.0) both(0.0) in(0.0) the(0.0) department(0.0) and(0.0) those(0.0) lobbyists(1.0) who(0.0) want(0.0) to(0.0) protect(1.0) 
+their(0.0) downtown(1.0) bureaucracy(1.0) and(0.0) those(0.0) who(0.0) want(0.0) to(0.0) protect(0.0) the(0.0) bureaucracy(1.0) back(0.0) in(0.0) the(0.0) State(0.0) .(0.0) We(0.0) are(0.0) not(0.0) talking(0.0) 
+about(0.0) those(0.0) figures(0.0) .(0.0) By(0.0) the(0.0) time(0.0) my(0.0) senior(0.0) Senator(0.0) is(0.0) finished(0.0) and(0.0) they(0.0) are(0.0) finished(0.0) with(0.0) conference(0.0) ,(0.0) the(0.0) 
+amount(0.0) of(0.0) money(1.0) for(0.0) education(1.0) will(0.0) be(0.0) up(0.0) ,(0.0) not(0.0) down(0.0) .(0.0) No(0.0) matter(0.0) what(0.0) the(0.0) appropriators(1.0) do(0.0) ,(0.0) there(0.0) 
+will(0.0) be(0.0) more(0.0) money(1.0) to(0.0) your(0.0) individual(0.0) classroom(0.0) through(0.0) this(0.0) legislation(1.0) ,(0.0) no(0.0) matter(0.0) how(0.0) much(0.0) they(0.0) may(0.0) cut(0.0) .(0.0) 
+It(0.0) is(0.0) important(0.0) to(0.0) remember(0.0) that(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+appropriations	legislation	
+lobbyists	downtown	lobbyists	protect	
+downtown	bureaucracy	bureaucracy	
+
+money	education	appropriators	
+money	legislation	
+
+
+reads % = 0.0945945945945946

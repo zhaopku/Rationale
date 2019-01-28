@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) can(0.0) the(0.0) Chair(0.0) advise(0.0) if(0.0) the(0.0) amendment(1.0) is(0.0) appropriately(0.0) drafted(0.0) for(0.0) the(0.0) purposes(0.0) of(0.0) pursuing(1.0) this(0.0) appropriations(1.0) bill(1.0) ?(1.0) 
+
+
+
+----- below are rationale words -----
+
+amendment	pursuing	appropriations	bill	?	
+
+
+reads % = 0.23809523809523808

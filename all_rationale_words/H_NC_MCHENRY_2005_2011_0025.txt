@@ -1,0 +1,10 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Chair(1.0) ,(0.0) I(0.0) would(1.0) ask(0.0) my(0.0) colleague(1.0) ,(0.0) where(0.0) is(0.0) his(0.0) plan(1.0) on(0.0) entitlement(1.0) reform(0.0) ?(1.0) 
+
+
+----- below are rationale words -----
+
+Chair	would	colleague	plan	entitlement	?	
+
+reads % = 0.35294117647058826

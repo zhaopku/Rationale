@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) would(0.0) simply(0.0) agree(0.0) with(0.0) the(0.0) point(0.0) of(0.0) order(0.0) lodged(0.0) by(0.0) the(0.0) gentleman(0.0) .(0.0) I(0.0) do(0.0) not(0.0) happen(0.0) to(0.0) 
+have(0.0) much(0.0) of(0.0) a(0.0) problem(0.0) with(0.0) the(0.0) substance(1.0) ;(0.0) but(0.0) it(0.0) seems(0.0) to(0.0) me(0.0) that(0.0) if(0.0) the(0.0) rules(1.0) are(0.0) to(0.0) 
+be(0.0) applied(0.0) around(0.0) here(0.0) ,(0.0) they(0.0) ought(1.0) to(0.0) be(0.0) applied(0.0) to(0.0) everybody(0.0) on(0.0) both(0.0) sides(0.0) of(0.0) the(0.0) aisle(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+substance	rules	
+ought	
+
+reads % = 0.05

@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) pass(0.0) the(0.0) bill(0.0) ((1.0) H.R(1.0) .(0.0) 1402(0.0) )(0.0) to(0.0) amend(0.0) title(0.0) 38(0.0) 
+,(0.0) United(0.0) States(0.0) Code(0.0) ,(0.0) to(0.0) extend(0.0) the(0.0) authorization(0.0) of(0.0) appropriations(0.0) for(0.0) the(0.0) Secretary(0.0) of(0.0) Veterans(0.0) Affairs(0.0) to(0.0) pay(0.0) a(0.0) 
+monthly(0.0) assistance(0.0) allowance(0.0) to(0.0) disabled(0.0) veterans(0.0) training(0.0) or(0.0) competing(0.0) for(0.0) the(0.0) Paralympic(0.0) Team(0.0) and(0.0) the(0.0) authorization(0.0) of(0.0) appropriations(0.0) for(0.0) the(0.0) 
+Secretary(0.0) of(0.0) Veterans(0.0) Affairs(0.0) to(0.0) provide(0.0) assistance(0.0) to(0.0) the(0.0) United(0.0) States(0.0) Paralympics(0.0) ,(0.0) Inc.(0.0) ,(0.0) as(0.0) amended(0.0) .(0.0) The(0.0) Clerk(0.0) 
+read(0.0) the(0.0) title(0.0) of(0.0) the(0.0) bill(0.0) .(0.0) The(0.0) text(0.0) of(0.0) the(0.0) bill(0.0) is(0.0) as(0.0) follows(0.0) :(0.0) H.R(0.0) .(0.0) 1402(0.0) Be(0.0) 
+it(0.0) enacted(0.0) by(0.0) the(0.0) Senate(0.0) and(0.0) House(0.0) of(0.0) Representatives(0.0) of(0.0) the(0.0) United(0.0) States(0.0) of(0.0) America(0.0) in(0.0) Congress(0.0) assembled(0.0) ,(0.0) SECTION(0.0) 
+1(0.0) .(0.0) SHORT(0.0) TITLE(0.0) ;(0.0) TABLE(0.0) OF(0.0) CONTENTS(0.0) .(0.0) ((0.0) a(0.0) )(0.0) Short(0.0) Title.(0.0) --(0.0) This(0.0) Act(0.0) may(0.0) be(0.0) cited(0.0) 
+as(0.0) the(0.0) ``(0.0) VA(0.0) Expiring(0.0) Authorities(0.0) Extension(0.0) Act(0.0) of(0.0) 2013(0.0) ''(0.0) .(0.0) ((0.0) b(0.0) )(0.0) Table(0.0) of(0.0) Contents.(0.0) --(0.0) The(0.0) 
+table(0.0) of(0.0) contents(0.0) for(0.0) this(0.0) Act(0.0) is(0.0) as(0.0) follows(0.0) :(0.0) Sec(0.0) .(0.0) 1(0.0) .(0.0) Short(0.0) title(0.0) ;(0.0) table(0.0) of(0.0) contents(0.0) 
+.(0.0) Sec(0.0) .(0.0) 2(0.0) .(0.0) References(0.0) to(0.0) title(0.0) 38(0.0) ,(0.0) United(0.0) States(0.0) Code(0.0) .(0.0) Sec(0.0) .(0.0) 3(0.0) .(0.0) Scoring(0.0) of(0.0) 
+budgetary(0.0) effects(0.0) .(0.0) Sec(0.0) .(0.0) 4(0.0) .(0.0) Extension(0.0) of(0.0) authorization(0.0) of(0.0) appropriations(0.0) for(0.0) payment(0.0) of(0.0) a(0.0) monthly(0.0) assistance(0.0) allowance(0.0) to(0.0) 
+disabled(0.0) veterans(0.0) training(0.0) or(0.0) competing(0.0) in(0.0) large-scale(0.0) adaptive(0.0) sports(0.0) programs(0.0) .(0.0) Sec(0.0) .(0.0) 5(0.0) .(0.0) Reauthorization(0.0) and(0.0) modification(0.0) of(0.0) adaptive(0.0) 
+sports(0.0) assistance(0.0) program(0.0) .(0.0) Sec(0.0) .(0.0) 6(0.0) .(0.0) Extension(0.0) of(0.0) authority(0.0) to(0.0) transport(0.0) certain(0.0) individuals(0.0) to(0.0) and(0.0) from(0.0) Department(0.0) of(0.0) 
+Veterans(0.0) Affairs(0.0) facilities(0.0) .(0.0) Sec(0.0) .(0.0) 7(0.0) .(0.0) Extension(0.0) of(0.0) authority(0.0) for(0.0) operation(0.0) of(0.0) the(0.0) Department(0.0) of(0.0) Veterans(0.0) Affairs(0.0) regional(1.0) 
+office(0.0) in(0.0) Manila(0.0) ,(0.0) the(0.0) Republic(0.0) of(0.0) the(0.0) Philippines(0.0) .(0.0) Sec(0.0) .(0.0) 8(0.0) .(0.0) Extension(0.0) of(0.0) requirement(0.0) to(0.0) provide(0.0) nursing(0.0) 
+home(0.0) care(0.0) to(0.0) certain(0.0) veterans(0.0) with(0.0) service-connected(1.0) disabilities(0.0) .(0.0) Sec(0.0) .(0.0) 9(0.0) .(0.0) Extension(0.0) of(0.0) treatment(0.0) and(0.0) rehabilitation(0.0) services(0.0) for(0.0) 
+seriously(0.0) mentally(0.0) ill(0.0) and(0.0) homeless(1.0) veterans(0.0) .(0.0) Sec(0.0) .(0.0) 10(0.0) .(0.0) Extension(0.0) of(0.0) authority(0.0) to(0.0) provide(0.0) housing(0.0) assistance(0.0) for(0.0) homeless(1.0) 
+veterans(0.0) .(0.0) Sec(0.0) .(0.0) 11(0.0) .(0.0) Extension(0.0) of(0.0) authority(0.0) for(0.0) the(0.0) Advisory(0.0) Committee(0.0) on(0.0) Homeless(0.0) Veterans(0.0) .(0.0) Sec(0.0) .(0.0) 12(0.0) 
+.(0.0) Extension(1.0) of(0.0) authority(0.0) for(0.0) the(0.0) Veterans(0.0) '(0.0) Advisory(0.0) Commission(0.0) on(0.0) Education(0.0) .(0.0) Sec(0.0) .(0.0) 13(0.0) .(0.0) Extension(0.0) of(0.0) requirements(0.0) 
+relating(0.0) to(0.0) vendee(0.0) loans(0.0) .(0.0) Sec(0.0) .(0.0) 14(0.0) .(0.0) Extension(0.0) of(0.0) authority(0.0) for(0.0) the(0.0) performance(0.0) of(0.0) medical(0.0) disabilities(0.0) examinations(0.0) by(0.0) 
+contract(0.0) physicians(0.0) .(0.0) SEC(0.0) .(0.0) 2(0.0) .(0.0) REFERENCES(0.0) TO(0.0) TITLE(0.0) 38(0.0) ,(0.0) UNITED(0.0) STATES(0.0) CODE(0.0) .(0.0) Except(0.0) as(0.0) otherwise(0.0) expressly(0.0) 
+provided(0.0) ,(0.0) whenever(0.0) in(0.0) this(0.0) Act(0.0) an(0.0) amendment(0.0) or(0.0) repeal(0.0) is(0.0) expressed(0.0) in(0.0) terms(0.0) of(0.0) an(0.0) amendment(0.0) to(0.0) ,(0.0) or(0.0) 
+repeal(1.0) of(0.0) ,(0.0) a(0.0) section(0.0) or(0.0) other(0.0) provision(0.0) ,(0.0) the(0.0) reference(0.0) shall(0.0) be(0.0) considered(0.0) to(0.0) be(0.0) made(0.0) to(0.0) a(0.0) section(0.0) 
+or(0.0) other(0.0) provision(0.0) of(0.0) title(0.0) 38(0.0) ,(0.0) United(0.0) States(0.0) Code(0.0) .(0.0) SEC(0.0) .(0.0) 3(0.0) .(0.0) SCORING(0.0) OF(0.0) BUDGETARY(0.0) EFFECTS(0.0) .(0.0) 
+The(0.0) budgetary(0.0) effects(0.0) of(0.0) this(0.0) Act(0.0) ,(0.0) for(0.0) the(0.0) purpose(0.0) of(0.0) complying(0.0) with(0.0) the(0.0) Statutory(0.0) Pay-As-You-Go(0.0) Act(0.0) of(0.0) 2010(0.0) 
+
+
+----- below are rationale words -----
+
+(	H.R	
+
+
+
+
+
+
+
+
+
+
+
+
+regional	
+
+service-connected	
+homeless	homeless	
+
+Extension	
+
+
+
+repeal	
+
+
+
+reads % = 0.016

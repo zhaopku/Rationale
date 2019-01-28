@@ -1,0 +1,16 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) requesting(0.0) the(0.0) right(0.0) to(0.0) object(0.0) ,(0.0) I(0.0) seek(0.0) recognition(0.0) to(0.0) object(0.0) if(0.0) it(0.0) is(0.0) under(0.0) the(0.0) rules(0.0) .(0.0) We(0.0) 
+do(0.0) n't(0.0) know(0.0) .(0.0) I(0.0) have(0.0) great(0.0) faith(0.0) in(0.0) Mr.(0.0) Butterfield(1.0) ,(0.0) but(0.0) I(0.0) am(0.0) not(0.0) sure(0.0) he(0.0) has(0.0) been(0.0) 
+authorized(0.0) by(0.0) Mr.(0.0) Inslee(1.0) .(0.0) If(1.0) Mr.(0.0) Inslee(1.0) is(0.0) not(1.0) here(0.0) ,(0.0) I(0.0) would(0.0) object(0.0) ,(0.0) with(0.0) all(0.0) due(0.0) respect(0.0) 
+to(0.0) Mr.(0.0) Butterfield(1.0) 's(0.0) substituting(1.0) for(0.0) him(0.0) ,(0.0) without(0.0) knowing(0.0) whether(0.0) Mr.(0.0) Inslee(1.0) wants(1.0) him(1.0) to(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Butterfield	
+Inslee	If	Inslee	not	
+Butterfield	substituting	Inslee	wants	him	
+
+reads % = 0.1282051282051282

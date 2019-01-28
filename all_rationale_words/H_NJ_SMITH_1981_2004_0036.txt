@@ -1,0 +1,20 @@
+This is from a Republican
+----- below is the original text -----
+It(0.0) is(0.0) my(0.0) hope(0.0) and(0.0) expectation(1.0) that(0.0) the(0.0) Secretary(1.0) performs(1.0) at(0.0) least(1.0) part(0.0) of(0.0) the(0.0) demonstration(1.0) project(0.0) with(0.0) contractors(1.0) in(0.0) New(0.0) 
+Jersey(0.0) .(0.0) The(0.0) legislative(1.0) text(1.0) of(0.0) section(0.0) 822(1.0) leaves(0.0) this(0.0) choice(0.0) up(0.0) to(0.0) the(0.0) discretion(1.0) of(0.0) the(0.0) Department(0.0) of(0.0) Defense(1.0) 
+,(0.0) but(0.0) can(0.0) we(0.0) count(0.0) on(0.0) the(0.0) chairman(1.0) 's(0.0) support(0.0) to(0.0) help(0.0) us(0.0) persuade(1.0) DoD(1.0) to(0.0) include(0.0) New(0.0) Jersey(0.0) in(0.0) 
+the(0.0) demonstration(1.0) project(0.0) based(0.0) on(0.0) the(0.0) fact(0.0) that(0.0) an(0.0) investigation(0.0) by(0.0) our(0.0) own(0.0) U.S.(0.0) attorney(1.0) ,(0.0) Christopher(1.0) Christie(0.0) ,(0.0) resulted(0.0) 
+in(0.0) the(0.0) discovery(1.0) of(0.0) security(0.0) violations(1.0) and(0.0) the(0.0) arrests(1.0) of(0.0) illegal(1.0) aliens(1.0) who(0.0) had(0.0) access(0.0) to(0.0) several(0.0) of(0.0) our(0.0) New(0.0) 
+Jersey(0.0) bases(1.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+expectation	Secretary	performs	least	demonstration	contractors	
+legislative	text	822	discretion	Defense	
+chairman	persuade	DoD	
+demonstration	attorney	Christopher	
+discovery	violations	arrests	illegal	aliens	
+bases	
+
+reads % = 0.22115384615384615

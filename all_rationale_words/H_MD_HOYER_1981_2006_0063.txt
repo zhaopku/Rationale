@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) presume(0.0) the(0.0) Appropriations(0.0) Committee(0.0) ,(0.0) at(0.0) some(0.0) point(0.0) in(0.0) time(0.0) ,(0.0) will(0.0) proceed(0.0) without(0.0) the(0.0) budget(1.0) .(0.0) Would(0.0) that(0.0) be(0.0) 
+your(0.0) expectation(0.0) if(0.0) we(0.0) do(0.0) n't(0.0) pass(0.0) a(0.0) budget(0.0) in(0.0) the(0.0) near(0.0) term(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+budget	
+
+
+reads % = 0.02857142857142857

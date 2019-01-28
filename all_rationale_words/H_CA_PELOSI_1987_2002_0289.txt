@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) would(0.0) like(0.0) to(0.0) inquire(0.0) about(0.0) the(0.0) schedule(0.0) for(0.0) next(0.0) week(0.0) ,(0.0) and(0.0) I(0.0) am(0.0) pleased(0.0) to(0.0) yield(0.0) to(0.0) 
+the(0.0) distinguished(0.0) majority(1.0) leader(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+majority	
+
+reads % = 0.038461538461538464

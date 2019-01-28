@@ -1,0 +1,38 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) support(0.0) the(0.0) assault(1.0) weapon(1.0) ban(1.0) because(1.0) very(0.0) simply(0.0) ,(0.0) I(0.0) believe(0.0) that(0.0) it(0.0) will(0.0) save(0.0) lives(0.0) .(0.0) Let(0.0) 
+me(0.0) be(0.0) clear(0.0) ,(0.0) I(0.0) do(0.0) not(0.0) think(0.0) it(0.0) will(0.0) reduce(1.0) crime(1.0) in(0.0) America(1.0) .(0.0) Hopefully(0.0) the(0.0) measures(1.0) in(0.0) the(0.0) 
+crime(1.0) bill(1.0) will(0.0) do(0.0) that(0.0) .(0.0) What(0.0) this(0.0) bill(1.0) does(1.0) is(0.0) to(0.0) reduce(1.0) the(0.0) number(0.0) of(0.0) victims(1.0) of(0.0) violent(1.0) crime(1.0) 
+.(0.0) This(0.0) measure(1.0) simply(0.0) saves(0.0) lives(0.0) .(0.0) The(0.0) most(0.0) important(0.0) thing(0.0) this(0.0) bill(1.0) does(1.0) is(0.0) to(0.0) ban(1.0) large(0.0) capacity(0.0) clips(0.0) 
+like(0.0) those(0.0) used(0.0) in(0.0) the(0.0) recent(0.0) California(1.0) schoolyard(1.0) and(0.0) New(1.0) York(1.0) commuter(1.0) train(0.0) killings(1.0) in(0.0) which(0.0) dozens(0.0) of(0.0) people(0.0) died(0.0) 
+.(0.0) In(0.0) fact(0.0) ,(0.0) the(0.0) madman(1.0) in(0.0) New(1.0) York(1.0) was(0.0) subdued(0.0) only(0.0) when(0.0) he(0.0) stopped(0.0) to(0.0) reload(0.0) .(0.0) We(0.0) can(0.0) 
+not(0.0) stop(0.0) sick(1.0) individuals(0.0) from(0.0) getting(0.0) guns(1.0) ,(0.0) but(0.0) what(0.0) we(0.0) can(0.0) do(0.0) is(0.0) make(0.0) it(0.0) harder(0.0) for(0.0) them(0.0) to(0.0) 
+get(0.0) weapons(1.0) equipped(0.0) to(0.0) fire(0.0) dozens(0.0) of(0.0) shots(0.0) without(0.0) reloading(0.0) .(0.0) This(0.0) is(0.0) the(0.0) real(0.0) effect(0.0) of(0.0) this(0.0) legislation(1.0) .(0.0) 
+I(0.0) support(0.0) the(0.0) second(0.0) amendment(1.0) .(0.0) I(0.0) grew(0.0) up(0.0) in(0.0) a(0.0) culture(0.0) that(0.0) values(0.0) and(0.0) respects(0.0) guns(1.0) .(0.0) I(0.0) enjoy(0.0) 
+hunting(0.0) and(0.0) have(0.0) guns(0.0) in(0.0) my(0.0) own(0.0) home(0.0) for(0.0) protection(0.0) .(0.0) Hunting(0.0) and(0.0) home(0.0) protection(0.0) are(0.0) not(0.0) the(0.0) issue(0.0) in(0.0) 
+this(0.0) case(0.0) .(0.0) Killing(0.0) people(0.0) is(0.0) the(0.0) issue(0.0) .(0.0) I(0.0) firmly(0.0) believe(0.0) that(0.0) if(0.0) these(0.0) guns(1.0) are(0.0) banned(1.0) ,(0.0) the(0.0) 
+effect(1.0) will(0.0) be(0.0) to(0.0) reduce(0.0) the(0.0) potential(0.0) for(0.0) mass(1.0) killings(1.0) in(0.0) America(1.0) .(0.0) I(0.0) will(0.0) leave(0.0) Members(0.0) with(0.0) this(0.0) question(0.0) 
+:(0.0) If(0.0) a(0.0) madman(0.0) walks(0.0) into(0.0) a(0.0) fast(0.0) food(0.0) restaurant(0.0) where(0.0) your(0.0) wife(0.0) and(0.0) children(0.0) are(0.0) eating(0.0) ,(0.0) would(0.0) you(0.0) 
+rather(0.0) he(0.0) have(0.0) a(0.0) six-shooter(0.0) or(0.0) a(0.0) weapon(0.0) that(0.0) can(0.0) wipe(0.0) out(0.0) every(0.0) person(0.0) in(0.0) the(0.0) building(0.0) ?(0.0) That(0.0) is(0.0) 
+what(0.0) this(0.0) bill(1.0) is(0.0) about(0.0) .(0.0) I(0.0) urge(0.0) its(0.0) adoption(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+assault	weapon	ban	because	
+reduce	crime	America	measures	
+crime	bill	bill	does	reduce	victims	violent	crime	
+measure	bill	does	ban	
+California	schoolyard	New	York	commuter	killings	
+madman	New	York	
+sick	guns	
+weapons	legislation	
+amendment	guns	
+
+guns	banned	
+effect	mass	killings	America	
+
+
+bill	adoption	
+
+reads % = 0.14726027397260275

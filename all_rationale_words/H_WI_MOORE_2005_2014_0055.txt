@@ -1,0 +1,24 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) strongly(0.0) ,(0.0) strongly(0.0) support(0.0) Representative(1.0) Pittenger(1.0) 's(0.0) Reg(0.0) D(0.0) Study(0.0) Act(0.0) .(0.0) Again(0.0) ,(0.0) as(0.0) my(0.0) colleague(0.0) from(0.0) Missouri(1.0) has(0.0) 
+indicated(0.0) ,(0.0) this(0.0) is(0.0) a(0.0) technical(0.0) bill(0.0) ,(0.0) but(0.0) it(0.0) is(0.0) extremely(0.0) important(0.0) .(0.0) Commentators(0.0) have(0.0) argued(1.0) that(0.0) the(0.0) maintenance(0.0) 
+of(0.0) these(0.0) reserves(0.0) imposes(1.0) opportunity(0.0) costs(0.0) on(0.0) depository(1.0) institutions(0.0) ,(0.0) namely(0.0) ,(0.0) by(0.0) requiring(1.0) them(0.0) to(0.0) hold(0.0) funds(1.0) in(0.0) abeyance(1.0) 
+that(0.0) could(0.0) otherwise(0.0) be(0.0) lent(0.0) out(0.0) ,(0.0) and(0.0) I(0.0) think(0.0) that(0.0) it(0.0) is(0.0) worth(0.0) GAO(1.0) studying(0.0) the(0.0) issue(0.0) and(0.0) reporting(0.0) 
+back(0.0) to(0.0) Congress(0.0) .(0.0) I(0.0) just(0.0) want(0.0) to(0.0) make(0.0) a(0.0) point(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) and(0.0) to(0.0) stress(0.0) this(0.0) :(0.0) 
+reserve(0.0) requirements(0.0) are(0.0) separate(0.0) and(0.0) distinct(0.0) from(0.0) capital(0.0) requirements(0.0) ,(0.0) liquidity(1.0) ,(0.0) and(0.0) leverage(0.0) rules(1.0) ,(0.0) which(0.0) protect(1.0) the(0.0) safety(0.0) 
+and(0.0) soundness(1.0) of(0.0) the(0.0) financial(1.0) system(0.0) .(0.0) This(0.0) bill(1.0) does(1.0) not(0.0) take(0.0) away(0.0) those(0.0) important(0.0) protections(1.0) .(0.0) I(0.0) reserve(0.0) the(0.0) 
+balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Representative	Pittenger	Missouri	
+argued	
+imposes	depository	requiring	funds	abeyance	
+GAO	
+Speaker	
+liquidity	rules	protect	
+soundness	financial	bill	does	protections	
+
+
+reads % = 0.13013698630136986

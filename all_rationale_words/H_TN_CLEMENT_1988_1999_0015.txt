@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) this(0.0) bill(1.0) to(0.0) provide(0.0) administrative(0.0) authorities(0.0) to(0.0) the(0.0) United(0.0) States(0.0) Commission(0.0) on(0.0) International(0.0) 
+Religious(0.0) Freedom(0.0) .(0.0) The(0.0) Senate(0.0) has(0.0) just(0.0) passed(0.0) this(0.0) bill(0.0) by(0.0) unanimous(1.0) consent(0.0) .(0.0) I(0.0) thank(0.0) Senator(1.0) Nickles(1.0) and(0.0) Senator(1.0) 
+Lieberman(1.0) for(0.0) their(0.0) leadership(0.0) and(0.0) for(0.0) the(0.0) opportunity(0.0) to(0.0) work(0.0) so(0.0) closely(0.0) with(0.0) them(0.0) on(0.0) this(0.0) bill(1.0) as(0.0) we(0.0) did(0.0) 
+last(0.0) year(0.0) .(0.0) I(0.0) also(0.0) want(0.0) to(0.0) thank(0.0) our(0.0) distinguished(0.0) majority(1.0) and(0.0) minority(1.0) leaders(0.0) and(0.0) the(0.0) chairman(0.0) and(0.0) ranking(0.0) minority(0.0) 
+member(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) International(0.0) Relations(0.0) for(0.0) enabling(0.0) us(0.0) to(0.0) consider(0.0) this(0.0) bill(1.0) so(0.0) quickly(0.0) .(0.0) The(0.0) Commission(0.0) on(0.0) 
+International(0.0) Religious(1.0) Freedom(0.0) was(0.0) established(0.0) by(0.0) a(0.0) bill(0.0) we(0.0) passed(0.0) after(0.0) nearly(0.0) 2(0.0) years(0.0) of(0.0) hard(0.0) work(0.0) ,(0.0) the(0.0) International(0.0) 
+Religious(1.0) Freedom(0.0) Act(0.0) .(0.0) The(0.0) Commission(0.0) 's(0.0) task(0.0) is(0.0) to(0.0) make(0.0) policy(1.0) recommendations(0.0) for(0.0) the(0.0) U.S.(0.0) Government(0.0) to(0.0) address(0.0) religious(1.0) 
+persecution(1.0) around(0.0) the(0.0) world(0.0) .(0.0) We(0.0) have(0.0) already(0.0) appropriated(1.0) the(0.0) money(1.0) for(0.0) the(0.0) Commission(0.0) .(0.0) This(0.0) bill(1.0) provides(0.0) technical(0.0) corrections(0.0) 
+and(0.0) the(0.0) necessary(0.0) authority(0.0) and(0.0) guidelines(0.0) for(0.0) the(0.0) Commission(0.0) to(0.0) use(0.0) the(0.0) funds(0.0) we(0.0) appropriated(0.0) for(0.0) them(0.0) .(0.0) This(0.0) Commission(0.0) 
+is(0.0) unique(0.0) ,(0.0) perhaps(0.0) in(0.0) the(0.0) world(0.0) ,(0.0) and(0.0) we(0.0) know(0.0) that(0.0) it(0.0) will(0.0) come(0.0) under(0.0) great(0.0) scrutiny(1.0) .(0.0) We(0.0) 
+want(0.0) its(0.0) independence(1.0) ,(0.0) its(0.0) mandate(1.0) and(0.0) its(0.0) integrity(0.0) to(0.0) be(0.0) clear(0.0) to(0.0) the(0.0) world(0.0) .(0.0) For(0.0) this(0.0) reason(0.0) ,(0.0) 
+this(0.0) bill(1.0) creates(1.0) clear(0.0) guidelines(0.0) about(0.0) such(0.0) matters(0.0) as(0.0) contracting(1.0) and(0.0) gifts(0.0) .(0.0) These(0.0) are(0.0) not(0.0) meant(0.0) to(0.0) be(0.0) burdensome(1.0) 
+but(0.0) to(0.0) ensure(0.0) the(0.0) Commission(1.0) 's(0.0) independence(1.0) .(0.0) I(0.0) am(0.0) proud(0.0) of(0.0) this(0.0) Commission(1.0) .(0.0) I(0.0) would(0.0) like(0.0) to(0.0) take(0.0) 
+this(0.0) opportunity(0.0) to(0.0) congratulate(0.0) each(0.0) of(0.0) the(0.0) nine(0.0) commissioners(0.0) and(0.0) the(0.0) Ambassador(0.0) at(0.0) Large(0.0) for(0.0) Religious(1.0) Freedom(0.0) ,(0.0) who(0.0) also(0.0) 
+sits(0.0) on(0.0) the(0.0) Commission(0.0) .(0.0) I(0.0) look(0.0) forward(0.0) to(0.0) a(0.0) close(0.0) and(0.0) productive(0.0) working(0.0) relationship(0.0) so(0.0) that(0.0) we(0.0) may(0.0) help(0.0) 
+men(0.0) ,(0.0) women(1.0) ,(0.0) and(0.0) children(0.0) of(0.0) all(0.0) faiths(1.0) who(0.0) suffer(0.0) for(0.0) their(0.0) religious(1.0) beliefs(0.0) around(0.0) the(0.0) world(0.0) .(0.0) So(0.0) 
+I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) the(0.0) bill(1.0) and(0.0) to(0.0) give(0.0) the(0.0) Commission(1.0) on(0.0) International(0.0) Religious(1.0) Freedom(1.0) their(0.0) full(0.0) support(0.0) 
+and(0.0) the(0.0) authority(0.0) the(0.0) Commission(0.0) needs(0.0) to(0.0) carry(0.0) out(0.0) its(0.0) crucial(0.0) work(0.0) of(0.0) promoting(1.0) religious(1.0) freedom(1.0) around(0.0) the(0.0) world(0.0) .(0.0) 
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) include(0.0) the(0.0) following(0.0) for(0.0) the(0.0) Record(0.0) :(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) this(0.0) 
+bill(1.0) to(1.0) provide(0.0) administrative(1.0) authorities(0.0) to(0.0) the(0.0) United(0.0) States(0.0) Commission(0.0) on(0.0) International(0.0) Religious(0.0) Freedom(0.0) .(0.0) The(0.0) Senate(0.0) has(0.0) just(0.0) passed(0.0) 
+this(0.0) bill(0.0) by(0.0) unanimous(1.0) consent(0.0) ,(0.0) and(0.0) I(0.0) thank(0.0) Senator(1.0) Nickles(1.0) and(0.0) Lieberman(1.0) for(0.0) their(0.0) leadership(0.0) and(0.0) for(0.0) the(0.0) opportunity(0.0) 
+to(0.0) work(0.0) so(0.0) closely(0.0) with(0.0) them(0.0) on(0.0) this(0.0) bill(1.0) ,(0.0) as(0.0) we(0.0) did(0.0) last(0.0) year(0.0) .(0.0) I(0.0) also(0.0) thank(0.0) our(0.0) 
+distinguished(0.0) Majority(1.0) and(0.0) Minority(1.0) leaders(0.0) ,(0.0) and(0.0) the(0.0) Chairman(0.0) and(0.0) Ranking(0.0) Minority(0.0) Member(1.0) of(0.0) the(0.0) International(0.0) Relations(0.0) Committee(0.0) for(0.0) enabling(0.0) 
+this(0.0) bill(0.0) to(0.0) be(0.0) considered(0.0) so(0.0) quickly(0.0) .(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) the(0.0) experts(0.0) of(0.0) the(0.0) Congressional(1.0) Research(0.0) Service(0.0) who(0.0) 
+were(0.0) so(0.0) helpful(0.0) as(0.0) we(0.0) sought(0.0) to(0.0) create(0.0) a(0.0) responsible(0.0) ,(0.0) good(0.0) structure(0.0) for(0.0) this(0.0) Commission(1.0) :(0.0) Morton(0.0) Rosenberg(1.0) 
+
+
+----- below are rationale words -----
+
+Speaker	bill	
+unanimous	Senator	Nickles	Senator	
+Lieberman	bill	
+majority	minority	
+bill	
+Religious	
+Religious	policy	religious	
+persecution	appropriated	money	bill	
+
+scrutiny	
+independence	mandate	
+bill	creates	contracting	burdensome	
+Commission	independence	Commission	
+Religious	
+
+women	faiths	religious	
+bill	Commission	Religious	Freedom	
+promoting	religious	freedom	
+Speaker	Speaker	
+bill	to	administrative	
+unanimous	Senator	Nickles	Lieberman	
+bill	
+Majority	Minority	Member	
+Congressional	
+Commission	Rosenberg	
+
+reads % = 0.112

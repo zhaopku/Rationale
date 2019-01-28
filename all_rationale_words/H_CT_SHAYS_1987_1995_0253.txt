@@ -1,0 +1,10 @@
+This is from a Republican
+----- below is the original text -----
+Yes(0.0) ,(0.0) there(0.0) is(0.0) plenty(0.0) to(0.0) talk(0.0) about(0.0) ,(0.0) but(0.0) this(0.0) is(0.0) very(0.0) important(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+reads % = 0.0

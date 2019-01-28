@@ -1,0 +1,10 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) to(0.0) the(0.0) gentlewoman(0.0) from(0.0) Connecticut(1.0) ((0.0) Ms.(1.0) Esty(1.0) )(0.0) for(1.0) a(0.0) unanimous(0.0) consent(0.0) request(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Connecticut	Ms.	Esty	for	
+
+reads % = 0.21052631578947367

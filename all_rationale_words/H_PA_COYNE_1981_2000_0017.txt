@@ -1,0 +1,34 @@
+This is from a Democrat
+----- below is the original text -----
+8(0.0) ,(0.0) The(0.0) Estate(0.0) Tax(0.0) Elimination(1.0) Act(0.0) .(0.0) This(0.0) bill(0.0) would(1.0) do(0.0) nothing(0.0) to(0.0) help(0.0) the(0.0) average(0.0) family(0.0) businesses(1.0) .(0.0) Only(0.0) 
+2(0.0) %(0.0) of(0.0) estates(0.0) are(0.0) now(0.0) subject(0.0) to(0.0) the(0.0) estate(0.0) tax(0.0) .(0.0) Hard-working(0.0) Americans(1.0) should(0.0) be(0.0) able(0.0) to(0.0) pass(0.0) their(0.0) 
+businesses(1.0) on(0.0) from(0.0) generation(1.0) to(0.0) generation(0.0) .(0.0) However(0.0) ,(0.0) a(0.0) full(0.0) repeal(1.0) of(0.0) the(0.0) estate(1.0) tax(0.0) is(1.0) not(0.0) necessary(0.0) to(0.0) 
+preserve(1.0) family(0.0) businesses(1.0) .(0.0) The(0.0) Democratic(1.0) alternative(1.0) offers(0.0) immediate(0.0) ,(0.0) fiscally(1.0) responsible(0.0) relief(0.0) targeted(0.0) to(0.0) small(0.0) business(0.0) owners(0.0) and(0.0) family(0.0) 
+farmers(0.0) .(0.0) It(0.0) would(0.0) exempt(1.0) up(0.0) to(0.0) $(0.0) 4(0.0) million(0.0) per(0.0) family(0.0) in(0.0) assets(1.0) from(0.0) the(0.0) tax(1.0) and(0.0) cut(1.0) estate(1.0) 
+tax(0.0) rates(1.0) by(1.0) 20(0.0) percent(0.0) .(0.0) The(0.0) Democratic(1.0) alternative(1.0) would(0.0) cost(0.0) only(0.0) 20(0.0) billion(1.0) over(0.0) the(0.0) next(0.0) 10(0.0) years(0.0) .(0.0) 
+H.R(0.0) .(0.0) 8(0.0) would(0.0) cost(1.0) $(0.0) 105(0.0) billion(1.0) over(0.0) the(0.0) next(0.0) ten(0.0) years(0.0) .(0.0) From(0.0) 2011(0.0) to(0.0) 2020(1.0) ,(0.0) the(0.0) 
+proposal(1.0) would(1.0) cost(1.0) $(0.0) 620(0.0) billion(1.0) .(0.0) The(0.0) full(0.0) costs(1.0) of(0.0) this(0.0) bill(1.0) would(1.0) come(0.0) just(0.0) when(0.0) the(0.0) retiring(1.0) baby(0.0) 
+boomers(1.0) will(0.0) begin(0.0) to(0.0) require(0.0) more(0.0) services(0.0) .(0.0) This(0.0) is(0.0) money(1.0) we(0.0) could(0.0) use(0.0) to(0.0) strengthen(1.0) Social(1.0) Security(0.0) and(0.0) offer(0.0) 
+a(0.0) prescription(0.0) drug(0.0) benefit(1.0) for(0.0) Medicare(1.0) .(0.0) Full(0.0) repeal(1.0) also(0.0) reduces(0.0) the(0.0) progressivity(1.0) of(0.0) the(0.0) tax(1.0) code(1.0) .(1.0) The(0.0) wealthiest(1.0) 
+Americans(1.0) would(0.0) pay(1.0) tens(1.0) of(0.0) billions(1.0) of(0.0) dollars(1.0) less(0.0) in(0.0) tax(1.0) .(0.0) This(0.0) bill(1.0) would(1.0) cause(1.0) the(0.0) gap(1.0) between(0.0) low-income(1.0) 
+people(0.0) and(0.0) the(0.0) wealthy(1.0) to(0.0) grow(0.0) even(0.0) faster(0.0) .(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) Mr.(0.0) Rangel's(1.0) fiscally(1.0) responsible(1.0) proposal(1.0) 
+for(0.0) estate(1.0) tax(0.0) relief(1.0) targeted(1.0) to(0.0) immediately(0.0) help(0.0) small(0.0) businesses(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Elimination	would	businesses	
+Americans	
+businesses	generation	repeal	estate	is	
+preserve	businesses	Democratic	alternative	fiscally	
+exempt	assets	tax	cut	estate	
+rates	by	Democratic	alternative	billion	
+cost	billion	2020	
+proposal	would	cost	billion	costs	bill	would	retiring	
+boomers	money	strengthen	Social	
+benefit	Medicare	repeal	progressivity	tax	code	.	wealthiest	
+Americans	pay	tens	billions	dollars	tax	bill	would	cause	gap	low-income	
+wealthy	Rangel's	fiscally	responsible	proposal	
+estate	relief	targeted	businesses	
+
+reads % = 0.26587301587301587

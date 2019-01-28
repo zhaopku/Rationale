@@ -1,0 +1,20 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) coming(0.0) from(0.0) a(0.0) small(0.0) State(0.0) ,(0.0) we(0.0) know(0.0) how(0.0) rapidly(0.0) one(0.0) could(0.0) get(0.0) rolled(0.0) in(0.0) this(0.0) body(0.0) .(0.0) If(0.0) 
+the(0.0) Members(0.0) remember(0.0) ,(0.0) we(0.0) assign(0.0) each(0.0) State(0.0) the(0.0) number(0.0) of(0.0) Representatives(0.0) by(0.0) their(0.0) population(1.0) .(0.0) When(0.0) we(0.0) get(0.0) dirty(1.0) 
+water(1.0) from(0.0) larger(0.0) States(0.0) or(0.0) when(0.0) we(0.0) have(0.0) people(0.0) taking(0.0) stuff(0.0) away(0.0) from(0.0) us(0.0) ,(0.0) or(0.0) they(0.0) are(0.0) blowing(0.0) air(0.0) 
+in(0.0) on(0.0) us(0.0) ,(0.0) they(0.0) could(0.0) have(0.0) many(0.0) more(0.0) numbers(0.0) and(0.0) say(0.0) ``(0.0) We(0.0) do(0.0) not(0.0) want(0.0) to(0.0) spend(1.0) the(0.0) 
+money(1.0) to(0.0) clean(1.0) it(0.0) up(0.0) ,(0.0) thank(0.0) you(0.0) very(0.0) much(0.0) .(0.0) ''(0.0) What(0.0) I(0.0) am(0.0) saying(0.0) ,(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) 
+is(0.0) the(0.0) gentleman(0.0) is(0.0) putting(0.0) another(0.0) barrier(0.0) in(0.0) and(0.0) really(0.0) not(0.0) encouraging(0.0) good(0.0) citizenship(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+population	dirty	
+water	
+spend	
+money	clean	Chairman	
+citizenship	
+
+reads % = 0.06896551724137931

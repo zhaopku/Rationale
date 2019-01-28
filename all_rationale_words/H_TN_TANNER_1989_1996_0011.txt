@@ -1,0 +1,36 @@
+This is from a Democrat
+----- below is the original text -----
+Skelton(1.0) ](0.0) for(0.0) yielding(0.0) me(0.0) this(1.0) time(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) what(1.0) Bob(0.0) Clement(0.0) said(1.0) earlier(0.0) I(0.0) thought(1.0) was(0.0) very(0.0) apropos(0.0) 
+;(0.0) that(0.0) is(0.0) ,(0.0) that(0.0) people(0.0) can(0.0) disagree(1.0) without(0.0) being(0.0) disagreeable(0.0) .(0.0) Bill(1.0) Emerson(1.0) was(0.0) truly(0.0) a(0.0) man(1.0) of(0.0) the(0.0) 
+House(0.0) ,(0.0) a(0.0) man(1.0) of(0.0) this(0.0) institution(0.0) .(0.0) I(0.0) had(0.0) the(0.0) privilege(1.0) of(0.0) working(0.0) with(0.0) Bill(1.0) a(0.0) lot(0.0) ,(0.0) because(1.0) 
+part(0.0) of(0.0) my(0.0) district(1.0) is(0.0) right(1.0) across(0.0) the(0.0) river(0.0) from(0.0) the(0.0) Missouri(1.0) boot(1.0) heel(0.0) .(0.0) I(0.0) can(1.0) tell(0.0) Members(0.0) from(0.0) 
+personal(1.0) experience(0.0) ,(0.0) Bill(1.0) Emerson(1.0) was(0.0) loved(0.0) in(0.0) the(0.0) Missouri(1.0) boot(1.0) heel(0.0) .(0.0) We(0.0) did(0.0) a(0.0) lot(0.0) of(0.0) work(0.0) together(0.0) 
+on(0.0) the(0.0) Mississippi(1.0) River(0.0) .(0.0) both(0.0) of(0.0) us(0.0) served(1.0) as(0.0) president(1.0) of(0.0) the(0.0) Lower(1.0) Mississippi(1.0) Valley(1.0) Flood(0.0) Control(0.0) Association(0.0) and(0.0) 
+had(0.0) a(0.0) lot(0.0) of(0.0) common(0.0) interests(1.0) that(0.0) we(0.0) were(0.0) pursuing(1.0) to(0.0) help(0.0) the(0.0) folks(0.0) that(0.0) lived(1.0) along(1.0) the(0.0) river(0.0) up(0.0) 
+and(0.0) down(1.0) .(0.0) My(0.0) heart(1.0) goes(1.0) out(0.0) to(0.0) Jo(0.0) Ann(0.0) and(0.0) the(0.0) family(0.0) because(0.0) Bill(1.0) Emerson(1.0) was(0.0) truly(0.0) a(0.0) gentleman(0.0) 
+.(0.0) I(0.0) never(0.0) heard(1.0) him(0.0) say(1.0) a(0.0) harsh(1.0) remark(0.0) about(0.0) someone(0.0) personally(0.0) on(0.0) this(0.0) floor(0.0) .(0.0) It(0.0) happens(0.0) all(0.0) too(0.0) 
+often(0.0) ,(0.0) as(0.0) some(0.0) of(0.0) the(0.0) other(0.0) speakers(0.0) have(0.0) said(1.0) .(0.0) That(0.0) is(0.0) what(1.0) I(0.0) mean(1.0) about(0.0) being(0.0) able(0.0) to(0.0) 
+disagree(1.0) in(0.0) an(0.0) agreeable(1.0) way(0.0) .(0.0) That(0.0) is(0.0) really(0.0) what(1.0) this(0.0) institution(0.0) ought(1.0) to(0.0) be(0.0) about(0.0) .(0.0) Bill(1.0) Emerson(1.0) lived(1.0) 
+his(0.0) life(0.0) in(0.0) furtherance(1.0) of(0.0) that(0.0) goal(1.0) .(0.0) I(0.0) just(1.0) hope(0.0) his(0.0) memory(0.0) ,(0.0) and(0.0) I(0.0) think(1.0) it(0.0) will(0.0) ,(0.0) 
+will(0.0) permeate(1.0) this(0.0) place(0.0) for(0.0) many(0.0) years(0.0) to(0.0) come(0.0) .(0.0) He(0.0) was(0.0) a(0.0) good(0.0) man(1.0) and(0.0) true(1.0) gentleman(0.0) and(0.0) we(0.0) 
+will(0.0) miss(0.0) him(0.0) greatly(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+this	Speaker	what	said	thought	
+disagree	Bill	Emerson	man	
+man	privilege	Bill	because	
+district	right	Missouri	boot	can	
+personal	Bill	Emerson	Missouri	boot	
+Mississippi	served	president	Lower	Mississippi	Valley	
+interests	pursuing	lived	along	
+down	heart	goes	Bill	Emerson	
+heard	say	harsh	
+said	what	mean	
+disagree	agreeable	what	ought	Bill	Emerson	lived	
+furtherance	goal	just	think	
+permeate	man	true	
+
+
+reads % = 0.21804511278195488

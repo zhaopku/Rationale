@@ -1,0 +1,34 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) today(0.0) I(0.0) rise(0.0) in(0.0) opposition(1.0) to(0.0) the(0.0) President's(0.0) budget(1.0) proposal(1.0) to(1.0) turn(1.0) his(0.0) back(0.0) on(0.0) low-income(1.0) and(0.0) ethnic(1.0) minority(1.0) 
+students(0.0) ,(0.0) particularly(0.0) Latino(1.0) and(0.0) African(1.0) Americans(1.0) ,(0.0) and(0.0) in(0.0) particular(0.0) first-generation(1.0) students(0.0) who(0.0) have(0.0) never(0.0) had(0.0) a(0.0) chance(0.0) to(0.0) 
+go(0.0) to(0.0) college(1.0) .(0.0) And(0.0) I(0.0) say(0.0) that(0.0) because(0.0) in(0.0) the(0.0) President(1.0) 's(0.0) budget(1.0) proposal(1.0) he(0.0) wants(0.0) to(0.0) eliminate(1.0) completely(0.0) 
+the(0.0) GEAR(1.0) UP(0.0) Program(0.0) ,(0.0) the(0.0) Upward(1.0) Bound(0.0) Program(0.0) ,(0.0) and(0.0) the(0.0) Talent(0.0) Search(0.0) Program(0.0) .(0.0) As(0.0) a(0.0) result(0.0) ,(0.0) 
+1.3(0.0) million(0.0) students(0.0) ,(0.0) 70(0.0) percent(0.0) who(0.0) are(0.0) minorities(1.0) ,(0.0) will(0.0) lose(0.0) a(0.0) chance(0.0) to(0.0) go(0.0) to(0.0) college(1.0) .(0.0) California(1.0) 
+was(0.0) awarded(0.0) about(0.0) 15(0.0) percent(0.0) of(0.0) the(0.0) funding(1.0) for(0.0) the(0.0) GEAR(1.0) UP(0.0) program(0.0) .(0.0) In(0.0) fact(0.0) ,(0.0) in(0.0) my(0.0) school(0.0) 
+district(0.0) in(0.0) East(1.0) L.A.(0.0) ,(0.0) El(0.0) Sereno(0.0) Middle(0.0) School(0.0) and(0.0) Belvedere(0.0) Middle(0.0) School(0.0) are(0.0) the(0.0) recipients(0.0) of(0.0) the(0.0) GEAR(0.0) UP(0.0) 
+program(0.0) ,(0.0) middle(0.0) school(0.0) meaning(0.0) 7th(1.0) and(0.0) 8th(0.0) grade(0.0) students(0.0) who(0.0) are(0.0) learning(0.0) about(0.0) the(0.0) opportunities(0.0) to(0.0) go(0.0) to(0.0) college(0.0) 
+.(0.0) How(0.0) dare(0.0) the(0.0) President(0.0) turn(0.0) his(0.0) back(0.0) on(0.0) our(0.0) youth(1.0) ,(0.0) on(0.0) those(0.0) who(0.0) want(0.0) to(0.0) succeed(0.0) and(0.0) go(0.0) 
+on(0.0) to(0.0) college(1.0) .(0.0) We(0.0) need(0.0) to(0.0) ensure(0.0) that(0.0) this(0.0) President(1.0) has(0.0) to(0.0) keep(0.0) the(0.0) compassion(1.0) that(0.0) he(0.0) says(0.0) that(0.0) 
+he(0.0) has(0.0) for(0.0) all(0.0) people(0.0) of(0.0) color(0.0) .(0.0) And(0.0) I(0.0) would(0.0) ask(0.0) my(0.0) colleagues(0.0) and(0.0) urge(0.0) them(0.0) to(0.0) reject(1.0) these(0.0) 
+proposals(1.0) that(0.0) will(0.0) put(0.0) back(0.0) our(0.0) community(0.0) by(0.0) many(0.0) ,(0.0) many(0.0) decades(1.0) .(0.0) Let(0.0) us(0.0) restore(1.0) funding(1.0) in(0.0) higher(1.0) education(1.0) 
+for(0.0) all(0.0) of(0.0) our(0.0) students(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+opposition	budget	proposal	to	turn	low-income	ethnic	minority	
+Latino	African	Americans	first-generation	
+college	President	budget	proposal	eliminate	
+GEAR	Upward	
+minorities	college	California	
+funding	GEAR	
+East	
+7th	
+youth	
+college	President	compassion	
+reject	
+proposals	decades	restore	funding	higher	education	
+
+
+reads % = 0.14979757085020243

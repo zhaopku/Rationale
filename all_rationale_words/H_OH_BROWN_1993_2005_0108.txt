@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) tonight(0.0) to(0.0) talk(0.0) about(0.0) the(0.0) Central(0.0) American(0.0) Free(0.0) Trade(1.0) Agreement(0.0) .(0.0) Before(0.0) doing(0.0) that(0.0) ,(0.0) I(0.0) would(0.0) 
+just(0.0) like(0.0) to(0.0) make(0.0) a(0.0) couple(0.0) of(0.0) comments(0.0) about(0.0) what(0.0) was(0.0) said(0.0) by(0.0) my(0.0) friend(0.0) from(0.0) Florida(0.0) ,(0.0) who(0.0) was(0.0) 
+joined(0.0) by(0.0) other(0.0) members(0.0) of(0.0) the(0.0) Republican(1.0) Party(1.0) to(1.0) talk(1.0) about(1.0) their(1.0) privatization(1.0) plan(1.0) ,(1.0) their(1.0) plan(1.0) to(1.0) privatize(1.0) Social(1.0) 
+Security(1.0) .(1.0) I(1.0) applaud(1.0) them(1.0) for(1.0) coming(1.0) up(0.0) with(0.0) a(0.0) plan(1.0) .(0.0) President(0.0) Bush(1.0) has(0.0) for(0.0) the(0.0) last(0.0) 4(0.0) months(0.0) 
+gone(0.0) around(0.0) at(0.0) town(0.0) hall(0.0) meetings(0.0) ,(0.0) invitation(0.0) only(0.0) ,(0.0) where(0.0) there(0.0) is(0.0) never(0.0) any(0.0) disagreement(0.0) in(0.0) these(0.0) meetings(0.0) ,(0.0) 
+preaching(1.0) Social(0.0) Security(0.0) change(0.0) ,(0.0) never(0.0) specifically(0.0) saying(0.0) what(0.0) that(0.0) change(0.0) will(0.0) be(0.0) .(0.0) The(0.0) President(1.0) ,(0.0) other(0.0) than(0.0) saying(0.0) 
+it(0.0) is(0.0) privatization(1.0) ,(0.0) has(0.0) not(0.0) offered(0.0) a(0.0) specific(0.0) Social(0.0) Security(0.0) plan(0.0) .(0.0) But(0.0) what(0.0) concerns(0.0) me(0.0) both(0.0) about(0.0) President(0.0) 
+Bush(1.0) 's(0.0) comments(0.0) and(0.0) about(0.0) the(0.0) comments(0.0) from(0.0) my(0.0) friends(0.0) on(0.0) the(0.0) other(0.0) side(0.0) of(0.0) the(0.0) aisle(0.0) is(0.0) they(0.0) really(0.0) 
+are(0.0) engaging(0.0) in(0.0) what(0.0) we(0.0) used(0.0) to(0.0) call(0.0) ,(0.0) when(0.0) they(0.0) privatized(1.0) Medicare(1.0) ,(0.0) ``(0.0) Mediscare(1.0) ''(0.0) tactics(0.0) .(0.0) They(0.0) 
+are(0.0) doing(0.0) the(0.0) same(0.0) kind(0.0) of(0.0) Social(1.0) Security(0.0) scare(0.0) tactics(0.0) by(0.0) saying(0.0) people(0.0) are(0.0) paying(1.0) taxes(1.0) into(0.0) Social(0.0) Security(0.0) but(0.0) 
+may(0.0) never(0.0) see(0.0) this(0.0) money(1.0) that(0.0) they(0.0) have(0.0) put(0.0) in(0.0) .(0.0) And(0.0) I(0.0) can(0.0) not(0.0) imagine(0.0) a(0.0) more(0.0) secure(0.0) system(0.0) 
+than(0.0) Social(1.0) Security(0.0) .(0.0) It(0.0) is(0.0) a(0.0) system(0.0) that(0.0) has(0.0) been(0.0) around(0.0) for(0.0) 70(0.0) years(0.0) .(0.0) It(0.0) has(0.0) never(0.0) missed(0.0) 
+a(0.0) payment(0.0) month(0.0) after(0.0) month(0.0) after(0.0) month(0.0) for(0.0) 70(0.0) years(0.0) .(0.0) It(0.0) is(0.0) reliable(0.0) .(0.0) It(0.0) is(0.0) predictable(0.0) .(0.0) It(0.0) 
+is(0.0) always(0.0) going(0.0) to(0.0) be(0.0) there(0.0) .(0.0) And(0.0) when(0.0) people(0.0) who(0.0) are(0.0) Members(0.0) of(0.0) Congress(0.0) stand(0.0) up(0.0) and(0.0) say(0.0) that(0.0) 
+we(0.0) can(0.0) not(0.0) count(0.0) on(0.0) this(0.0) money(1.0) being(0.0) there(0.0) ,(0.0) the(0.0) Supreme(1.0) Court(1.0) made(0.0) a(0.0) decision(0.0) here(0.0) and(0.0) Congress(0.0) could(0.0) 
+make(0.0) a(0.0) decision(0.0) there(0.0) that(0.0) Social(1.0) Security(0.0) might(0.0) not(0.0) be(0.0) available(0.0) ,(0.0) it(0.0) simply(0.0) scares(0.0) people(0.0) .(0.0) And(0.0) I(0.0) do(0.0) 
+not(0.0) think(0.0) there(0.0) is(0.0) any(0.0) room(0.0) for(0.0) that(0.0) in(0.0) our(0.0) political(1.0) system(0.0) to(0.0) scare(1.0) people(0.0) of(0.0) any(0.0) age(0.0) ,(0.0) whether(0.0) 
+they(0.0) are(0.0) retirees(1.0) or(0.0) whether(0.0) they(0.0) are(0.0) soon(0.0) to(0.0) be(0.0) retirees(1.0) or(0.0) whether(0.0) they(0.0) are(0.0) my(0.0) age(0.0) or(0.0) younger(0.0) than(0.0) 
+I(0.0) and(0.0) simply(0.0) are(0.0) not(0.0) so(0.0) sure(0.0) about(0.0) Social(0.0) Security(0.0) ,(0.0) to(0.0) scare(1.0) them(0.0) and(0.0) say(0.0) that(0.0) it(0.0) will(0.0) not(0.0) 
+be(0.0) there(0.0) ,(0.0) when(0.0) it(0.0) has(0.0) been(0.0) there(0.0) every(0.0) month(0.0) for(0.0) 70(0.0) years(0.0) .(0.0) It(0.0) is(0.0) reprehensible(1.0) ,(0.0) frankly(0.0) .(0.0) 
+In(0.0) terms(0.0) of(0.0) solutions(0.0) ,(0.0) the(0.0) first(0.0) thing(0.0) we(0.0) should(0.0) do(0.0) with(0.0) the(0.0) Social(0.0) Security(0.0) ,(0.0) as(0.0) the(0.0) gentleman(0.0) from(0.0) 
+Illinois(1.0) ((0.0) Mr.(0.0) Emanuel(1.0) )(0.0) said(1.0) earlier(1.0) tonight(1.0) ,(0.0) is(0.0) quit(0.0) stealing(0.0) from(0.0) it(0.0) .(0.0) Quit(0.0) using(0.0) money(1.0) from(0.0) the(0.0) 
+Social(0.0) Security(0.0) fund(1.0) and(0.0) spending(1.0) $(0.0) 1(0.0) billion(1.0) a(0.0) week(0.0) on(0.0) the(0.0) Iraq(1.0) war(1.0) .(0.0) Quit(0.0) spending(1.0) money(1.0) from(0.0) the(0.0) 
+Social(0.0) Security(0.0) fund(1.0) and(0.0) giving(0.0) tax(1.0) cuts(1.0) to(1.0) the(1.0) wealthiest(1.0) 1(0.0) percent(1.0) of(0.0) people(0.0) in(0.0) this(0.0) country(1.0) .(0.0) That(0.0) is(0.0) 
+how(0.0) we(0.0) start(0.0) to(0.0) change(0.0) ,(0.0) to(0.0) reform(1.0) ,(0.0) to(0.0) make(0.0) even(0.0) stronger(0.0) the(0.0) Social(0.0) Security(0.0) system(0.0) .(0.0) Mr.(0.0) 
+
+
+----- below are rationale words -----
+
+Trade	
+
+Republican	Party	to	talk	about	their	privatization	plan	,	their	plan	to	privatize	Social	
+Security	.	I	applaud	them	for	coming	plan	Bush	
+
+preaching	President	
+privatization	
+Bush	
+privatized	Medicare	Mediscare	
+Social	paying	taxes	
+money	
+Social	
+
+
+money	Supreme	Court	
+Social	
+political	scare	
+retirees	retirees	
+scare	
+reprehensible	
+
+Illinois	Emanuel	said	earlier	tonight	money	
+fund	spending	billion	Iraq	war	spending	money	
+fund	tax	cuts	to	the	wealthiest	percent	country	
+reform	
+
+reads % = 0.136

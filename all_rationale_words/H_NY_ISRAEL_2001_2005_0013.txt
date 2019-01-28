@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) to(0.0) question(0.0) the(0.0) omission(1.0) of(0.0) an(0.0) amendment(1.0) sponsored(1.0) by(0.0) Mrs.(0.0) Maloney(1.0) ,(0.0) Ms.(1.0) Sanchez(1.0) ,(0.0) Mr.(0.0) Crowley(1.0) 
+and(0.0) myself(0.0) ,(0.0) which(0.0) was(0.0) agreed(0.0) to(0.0) by(0.0) the(0.0) Chairman(0.0) of(0.0) Appropriations(0.0) .(0.0) The(0.0) amendment(0.0) took(0.0) $(0.0) 3(0.0) million(0.0) from(0.0) 
+the(0.0) ``(0.0) Economic(0.0) Support(0.0) Fund(0.0) ''(0.0) and(0.0) put(0.0) it(0.0) toward(0.0) the(0.0) ``(0.0) Tsunami(0.0) Recovery(0.0) and(0.0) Reconstruction(0.0) Fund(0.0) ,(0.0) ''(0.0) for(0.0) 
+the(0.0) express(0.0) purpose(0.0) of(0.0) the(0.0) providing(0.0) the(0.0) United(0.0) Nations(0.0) Population(0.0) Fund(0.0) ,(0.0) UNFPA(1.0) with(0.0) these(0.0) funds(0.0) .(0.0) This(0.0) past(0.0) January(0.0) 
+,(0.0) I(0.0) toured(0.0) the(0.0) region(0.0) that(0.0) was(0.0) overwhelmed(0.0) by(0.0) the(0.0) tsunami(1.0) .(0.0) The(0.0) extent(0.0) of(0.0) the(0.0) destruction(1.0) was(0.0) massive(0.0) ,(0.0) 
+and(0.0) I(0.0) was(0.0) glad(0.0) to(0.0) see(0.0) the(0.0) world(0.0) contributing(0.0) to(0.0) relief(1.0) efforts(1.0) .(0.0) However(0.0) ,(0.0) I(0.0) was(0.0) concerned(0.0) that(0.0) the(0.0) 
+special(0.0) needs(0.0) of(0.0) women(1.0) were(0.0) not(0.0) being(0.0) adequately(0.0) addressed(0.0) .(0.0) I(0.0) visited(0.0) the(0.0) remains(0.0) of(0.0) a(0.0) three-story(0.0) maternity(0.0) hospital(0.0) .(0.0) 
+There(0.0) were(0.0) 300(0.0) women(1.0) and(0.0) infants(0.0) in(0.0) that(0.0) hospital(0.0) when(0.0) the(0.0) first(0.0) wave(0.0) hit(0.0) .(0.0) The(0.0) tsunami(1.0) toppled(1.0) a(0.0) cement(1.0) 
+wall(0.0) ,(0.0) flattened(0.0) utility(1.0) polls(0.0) ,(0.0) and(0.0) shattered(0.0) all(0.0) of(0.0) the(0.0) glass(0.0) windows(0.0) in(0.0) the(0.0) front(0.0) of(0.0) the(0.0) building(0.0) .(0.0) 
+Of(0.0) the(0.0) 300(0.0) women(1.0) and(0.0) their(0.0) babies(0.0) ,(0.0) all(0.0) but(0.0) one(0.0) ,(0.0) a(0.0) newborn(0.0) ,(0.0) were(0.0) saved(0.0) from(0.0) the(0.0) crashing(0.0) 
+waves(0.0) .(0.0) I(0.0) met(0.0) a(0.0) doctor(0.0) who(0.0) finished(0.0) a(0.0) C-Section(0.0) in(0.0) absolute(0.0) darkness(0.0) ,(0.0) after(0.0) the(0.0) generators(1.0) were(0.0) underwater(0.0) ,(0.0) 
+as(0.0) the(0.0) rest(0.0) of(0.0) the(0.0) building(0.0) was(0.0) evacuated(0.0) .(0.0) The(0.0) hospital(0.0) was(0.0) practically(0.0) destroyed(0.0) .(0.0) The(0.0) beds(0.0) were(0.0) pushed(0.0) and(0.0) 
+piled(0.0) against(0.0) each(0.0) other(0.0) by(0.0) the(0.0) flooding(1.0) ,(0.0) and(0.0) shards(0.0) of(0.0) glass(0.0) crunched(0.0) under(0.0) our(0.0) feet(0.0) .(0.0) The(0.0) sheets(0.0) were(0.0) 
+strewn(0.0) about(0.0) like(0.0) wet(0.0) rags(0.0) ,(0.0) and(0.0) saturated(0.0) packages(0.0) of(0.0) medicine(1.0) were(0.0) thrown(0.0) in(0.0) useless(1.0) piles(0.0) .(0.0) It(0.0) is(0.0) conditions(0.0) 
+like(0.0) these(0.0) that(0.0) the(0.0) UNFPA(1.0) addresses(0.0) .(0.0) The(0.0) organization(1.0) has(0.0) experience(0.0) working(0.0) with(0.0) women(1.0) in(0.0) disaster(1.0) areas(0.0) ;(0.0) they(0.0) have(0.0) 
+participated(0.0) in(0.0) emergency(1.0) projects(0.0) in(0.0) more(0.0) than(0.0) 50(0.0) countries(1.0) and(0.0) territories(0.0) .(0.0) They(0.0) already(0.0) have(0.0) offices(0.0) in(0.0) tsunami-affected(1.0) countries(0.0) ,(0.0) 
+and(0.0) they(0.0) understand(0.0) the(0.0) distinctive(0.0) ways(0.0) that(0.0) disasters(1.0) affect(0.0) women(1.0) and(0.0) children(0.0) .(0.0) When(0.0) I(0.0) visited(0.0) in(0.0) January(0.0) ,(0.0) there(0.0) 
+were(0.0) an(0.0) estimated(0.0) 150,000(0.0) pregnant(1.0) women(1.0) in(0.0) the(0.0) tsunami-affected(1.0) areas(0.0) .(0.0) The(0.0) UNFPA(1.0) has(0.0) worked(0.0) to(0.0) supply(0.0) safe-birthing(0.0) kits(0.0) and(0.0) 
+emergency(1.0) obstetric(1.0) equipment(0.0) .(0.0) Women(1.0) who(0.0) are(0.0) in(0.0) refugee(1.0) camps(0.0) need(0.0) personal(0.0) hygiene(0.0) kits(0.0) ,(0.0) soap(0.0) ,(0.0) sterile(0.0) cotton(0.0) cloth(0.0) 
+,(0.0) antibiotics(0.0) ,(0.0) and(0.0) drugs(0.0) for(0.0) treating(0.0) sexually(0.0) transmitted(0.0) infections(0.0) .(0.0) Although(0.0) relief(1.0) efforts(1.0) often(0.0) overlook(0.0) these(0.0) supplies(0.0) ,(0.0) and(0.0) 
+the(0.0) UNFPA(1.0) has(0.0) done(0.0) its(0.0) best(0.0) to(0.0) fulfill(0.0) these(0.0) needs(0.0) .(0.0) UNFPA(1.0) 's(0.0) priorities(1.0) are(0.0) reproductive(1.0) health(1.0) ,(0.0) including(0.0) safe(0.0) 
+childbirth(1.0) ,(0.0) prevention(1.0) of(0.0) violence(1.0) against(1.0) women(1.0) and(0.0) girls(0.0) ,(0.0) and(0.0) counseling(1.0) for(0.0) those(0.0) affected(0.0) by(0.0) the(0.0) 26(0.0) December(0.0) tsunami(1.0) 
+.(0.0) For(0.0) many(0.0) of(0.0) these(0.0) women(1.0) ,(0.0) they(0.0) must(0.0) now(0.0) become(0.0) the(0.0) head(0.0) of(0.0) the(0.0) household(0.0) .(0.0) They(0.0) have(0.0) become(0.0) 
+widows(1.0) overnight(0.0) ,(0.0) and(0.0) must(0.0) deal(0.0) with(0.0) the(0.0) emotional(0.0) and(0.0) economic(1.0) issues(0.0) involved(0.0) with(0.0) being(0.0) the(0.0) sole(1.0) breadwinner(1.0) in(0.0) an(0.0) 
+area(0.0) with(0.0) no(0.0) jobs(0.0) .(0.0) In(0.0) early(0.0) January(0.0) ,(0.0) UNFPA(1.0) asked(0.0) for(0.0) $(0.0) 28(0.0) million(0.0) to(0.0) support(0.0) its(0.0) tsunami-(0.0) 
+
+
+----- below are rationale words -----
+
+omission	amendment	sponsored	Maloney	Ms.	Sanchez	Crowley	
+
+
+UNFPA	
+tsunami	destruction	
+relief	efforts	
+women	
+women	tsunami	toppled	cement	
+utility	
+women	
+generators	
+
+flooding	
+medicine	useless	
+UNFPA	organization	women	disaster	
+emergency	countries	tsunami-affected	
+disasters	women	
+pregnant	women	tsunami-affected	UNFPA	
+emergency	obstetric	Women	refugee	
+relief	efforts	
+UNFPA	UNFPA	priorities	reproductive	health	
+childbirth	prevention	violence	against	women	counseling	tsunami	
+women	
+widows	economic	sole	breadwinner	
+UNFPA	
+
+reads % = 0.12

@@ -1,0 +1,38 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) urge(0.0) adoption(1.0) of(0.0) the(0.0) amendment(1.0) .(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) The(0.0) Acting(0.0) CHAIR(0.0) 
+.(0.0) The(0.0) question(0.0) is(0.0) on(0.0) the(0.0) amendment(1.0) offered(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) Washington(1.0) ((0.0) Mr.(0.0) Hastings(1.0) )(0.0) .(0.0) The(0.0) amendment(0.0) 
+was(0.0) agreed(0.0) to(0.0) .(0.0) Amendment(1.0) No(0.0) .(0.0) 7(0.0) Offered(0.0) by(0.0) Mr.(0.0) Heinrich(1.0) The(0.0) Acting(0.0) CHAIR(0.0) .(0.0) It(0.0) is(0.0) now(0.0) in(0.0) 
+order(0.0) to(0.0) consider(0.0) amendment(1.0) No(1.0) .(0.0) 7(0.0) printed(0.0) in(0.0) House(0.0) Report(1.0) 111-52(0.0) .(0.0) Chairman(0.0) ,(0.0) I(0.0) ask(0.0) unanimous(1.0) consent(0.0) to(0.0) 
+claim(0.0) the(0.0) time(0.0) in(0.0) opposition(1.0) ,(0.0) although(0.0) I(0.0) am(0.0) not(0.0) opposed(0.0) to(0.0) the(0.0) amendment(1.0) .(0.0) The(0.0) Acting(0.0) CHAIR(0.0) .(0.0) Without(0.0) 
+objection(1.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Washington(1.0) is(0.0) recognized(0.0) for(0.0) 5(0.0) minutes(0.0) .(0.0) There(0.0) was(0.0) no(0.0) objection(0.0) .(0.0) Chairman(0.0) ,(0.0) the(0.0) 
+amendment(1.0) offered(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) Mexico(1.0) deals(0.0) with(0.0) what(0.0) issues(0.0) Federal(1.0) agencies(1.0) should(0.0) take(0.0) into(0.0) account(0.0) when(0.0) preparing(0.0) 
+a(0.0) cohesive(0.0) wildland(0.0) fire(0.0) management(0.0) strategy(0.0) .(0.0) I(0.0) will(0.0) simply(0.0) note(0.0) the(0.0) irony(1.0) that(0.0) Democrats(0.0) on(0.0) the(0.0) Rules(0.0) Committee(0.0) made(0.0) 
+when(0.0) they(0.0) allowed(0.0) this(0.0) amendment(1.0) to(0.0) be(0.0) made(0.0) in(0.0) order(0.0) to(0.0) require(0.0) that(0.0) the(0.0) management(0.0) strategy(0.0) analyze(0.0) how(0.0) the(0.0) world(0.0) 
+'s(0.0) atmosphere(0.0) and(0.0) climate(1.0) might(0.0) impact(0.0) the(0.0) frequency(0.0) in(0.0) severity(0.0) of(0.0) wildfires(1.0) ;(0.0) and(0.0) yet(0.0) ,(0.0) my(0.0) amendment(1.0) to(0.0) have(0.0) 
+the(0.0) agencies(1.0) include(0.0) fire(0.0) prevention(1.0) practices(1.0) on(0.0) fire(0.0) management(0.0) was(0.0) not(0.0) made(0.0) in(0.0) order(0.0) .(0.0) Apparently(0.0) ,(0.0) we(0.0) prefer(0.0) to(0.0) 
+dedicate(0.0) our(0.0) Federal(1.0) firefighters(1.0) '(0.0) time(0.0) to(0.0) speculation(0.0) about(0.0) the(0.0) weather(0.0) and(0.0) not(0.0) on(0.0) real(0.0) on-the-ground(1.0) ,(0.0) human-controlled(1.0) actions(0.0) that(0.0) 
+are(0.0) proven(0.0) to(0.0) prevent(0.0) fires(1.0) from(0.0) ever(0.0) happening(0.0) .(0.0) So(0.0) it(0.0) seems(0.0) to(0.0) me(0.0) our(0.0) priorities(1.0) ,(0.0) at(0.0) least(0.0) from(0.0) 
+the(0.0) Rules(0.0) Committee(0.0) standpoint(0.0) ,(0.0) might(0.0) be(0.0) a(0.0) bit(0.0) misplaced(0.0) .(0.0) But(0.0) ,(0.0) nevertheless(0.0) ,(0.0) this(0.0) is(0.0) a(0.0) good(0.0) amendment(1.0) 
+and(0.0) we(0.0) accept(0.0) it(0.0) .(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+adoption	amendment	
+amendment	Washington	Hastings	
+Amendment	Heinrich	
+amendment	No	Report	unanimous	
+opposition	amendment	
+objection	Washington	
+amendment	Mexico	Federal	agencies	
+irony	
+amendment	
+climate	wildfires	amendment	
+agencies	prevention	practices	
+Federal	firefighters	on-the-ground	human-controlled	
+fires	priorities	
+amendment	
+
+
+reads % = 0.11564625850340136

@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) I(0.0) rise(0.0) to(0.0) urge(1.0) adoption(1.0) 
+of(0.0) H.R(0.0) .(0.0) 6080(0.0) ,(0.0) a(0.0) bill(0.0) to(0.0) address(0.0) the(0.0) urgent(1.0) need(0.0) for(0.0) enhanced(0.0) security(0.0) on(0.0) our(0.0) Southwest(1.0) border(0.0) .(0.0) 
+Violence(1.0) on(0.0) the(0.0) Mexican(1.0) side(0.0) of(0.0) the(0.0) border(0.0) has(0.0) intensified(0.0) because(0.0) of(0.0) turf(1.0) battles(0.0) among(0.0) murderous(1.0) transnational(1.0) criminal(1.0) organizations(0.0) competing(0.0) 
+for(0.0) drug(1.0) ,(0.0) alien(1.0) ,(0.0) and(0.0) weapon(0.0) trafficking(1.0) business(0.0) .(0.0) The(0.0) bill(1.0) would(1.0) provide(0.0) $(0.0) 600(0.0) million(0.0) to(0.0) enable(0.0) the(0.0) 
+Department(0.0) of(0.0) Homeland(0.0) Security(0.0) ,(0.0) the(0.0) Department(0.0) of(0.0) Justice(0.0) ,(0.0) and(0.0) the(0.0) Judiciary(0.0) ,(0.0) in(0.0) cooperation(0.0) with(0.0) the(0.0) National(0.0) Guard(0.0) 
+,(0.0) to(0.0) counter(0.0) this(0.0) threat(1.0) ,(0.0) building(0.0) on(0.0) the(0.0) current(0.0) border(0.0) enforcement(0.0) surge(1.0) .(0.0) This(0.0) funding(1.0) is(0.0) urgently(0.0) needed(0.0) to(0.0) 
+counter(0.0) the(0.0) pressures(1.0) our(0.0) law(1.0) enforcement(1.0) agencies(1.0) and(0.0) our(0.0) border(1.0) communities(1.0) currently(0.0) face(0.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) the(0.0) bill(1.0) is(0.0) 
+fully(0.0) offset(0.0) .(0.0) It(0.0) includes(0.0) a(0.0) $(0.0) 100(0.0) million(0.0) reduction(1.0) in(0.0) the(0.0) Department(0.0) of(0.0) Homeland(1.0) Security(0.0) 's(0.0) border(0.0) security(0.0) infrastructure(0.0) 
+and(0.0) technology(0.0) account(0.0) due(0.0) to(0.0) an(0.0) ongoing(0.0) reassessment(1.0) of(0.0) the(0.0) SBInet(1.0) program(0.0) .(0.0) The(0.0) bill(1.0) also(0.0) increases(0.0) ,(0.0) for(0.0) 5(0.0) 
+years(0.0) ,(0.0) the(0.0) cost(1.0) for(0.0) two(0.0) visas(1.0) which(0.0) permit(0.0) foreign(1.0) workers(1.0) to(0.0) come(0.0) and(0.0) work(0.0) in(0.0) the(0.0) United(0.0) States(0.0) .(0.0) 
+These(0.0) fee(0.0) increases(0.0) would(0.0) apply(0.0) only(0.0) to(0.0) companies(0.0) with(0.0) more(0.0) than(0.0) 50(0.0) employees(0.0) and(0.0) for(0.0) whom(0.0) the(0.0) majority(1.0) of(0.0) their(0.0) 
+workforce(0.0) is(0.0) visa-holding(0.0) foreign(0.0) workers(1.0) .(0.0) The(0.0) House(0.0) passed(0.0) a(0.0) very(0.0) similar(0.0) version(0.0) of(0.0) this(0.0) border(0.0) security(0.0) supplemental(0.0) bill(0.0) 2(1.0) 
+weeks(0.0) ago(0.0) ,(0.0) partially(0.0) offset(1.0) and(0.0) partially(0.0) on(0.0) a(0.0) well-justified(0.0) emergency(0.0) basis(0.0) .(0.0) Because(0.0) the(0.0) Senate(0.0) amended(0.0) the(0.0) House-(0.0) passed(0.0) 
+bill(0.0) ,(0.0) we(0.0) are(0.0) voting(1.0) on(0.0) the(0.0) package(0.0) again(0.0) today(0.0) .(0.0) The(0.0) most(0.0) significant(0.0) change(0.0) the(0.0) Senate(0.0) made(0.0) was(0.0) to(0.0) 
+fully(0.0) offset(1.0) the(0.0) bill(1.0) ,(0.0) adding(0.0) the(0.0) visa(1.0) fee(0.0) increases(0.0) .(0.0) Because(0.0) of(0.0) the(0.0) Constitutional(1.0) requirement(0.0) that(0.0) revenue-generating(1.0) bills(0.0) initiate(1.0) 
+in(0.0) the(0.0) House(0.0) ,(0.0) the(0.0) bill(1.0) before(0.0) us(0.0) today(0.0) has(0.0) been(0.0) introduced(0.0) as(0.0) a(0.0) new(0.0) bill(1.0) but(0.0) with(0.0) provisions(1.0) identical(0.0) 
+to(0.0) the(0.0) Senate-passed(1.0) bill(1.0) .(1.0) Therefore(0.0) ,(0.0) should(0.0) the(0.0) House(0.0) approve(1.0) this(0.0) bill(1.0) today(1.0) ,(0.0) it(0.0) will(0.0) need(0.0) to(0.0) be(0.0) 
+taken(0.0) up(0.0) again(0.0) by(0.0) the(0.0) Senate(1.0) ,(0.0) hopefully(0.0) at(0.0) the(0.0) earliest(0.0) possible(0.0) date(0.0) .(0.0) For(0.0) the(0.0) Department(0.0) of(0.0) Homeland(0.0) Security(0.0) 
+,(0.0) the(0.0) bill(0.0) provides(0.0) a(0.0) total(0.0) of(0.0) $(0.0) 394(0.0) million(0.0) ,(0.0) including(0.0) :(0.0) $(0.0) 176(0.0) million(0.0) to(0.0) hire(1.0) a(0.0) thousand(0.0) 
+new(0.0) Border(0.0) Patrol(0.0) agents(0.0) .(0.0) That(0.0) funding(1.0) will(0.0) bring(0.0) us(0.0) to(0.0) a(0.0) total(0.0) of(0.0) 21,370(1.0) Border(0.0) Patrol(0.0) agents(0.0) ,(0.0) a(0.0) 
+70(0.0) percent(0.0) increase(1.0) since(0.0) 2006(0.0) .(0.0) $(0.0) 68(0.0) million(1.0) to(0.0) retain(0.0) 270(0.0) Customs(0.0) and(0.0) Border(0.0) Protection(0.0) officers(0.0) and(0.0) hire(0.0) 250(0.0) 
+additional(0.0) officers(0.0) .(0.0) With(0.0) this(0.0) bill(0.0) ,(0.0) there(0.0) will(0.0) be(0.0) over(0.0) 20,700(1.0) CBP(1.0) officers(0.0) working(0.0) to(0.0) enhance(0.0) port(0.0) of(0.0) entry(0.0) 
+operations(0.0) .(0.0) There(0.0) is(0.0) $(0.0) 32(0.0) million(0.0) to(0.0) procure(0.0) two(0.0) additional(0.0) unmanned(0.0) aircraft(0.0) systems(0.0) ;(0.0) $(0.0) 80(0.0) million(0.0) to(0.0) U.S.(0.0) 
+Immigration(1.0) and(0.0) Customs(0.0) Enforcement(0.0) ,(0.0) ICE(0.0) ,(0.0) which(0.0) includes(0.0) $(0.0) 30(0.0) million(0.0) to(0.0) pay(1.0) for(0.0) four(0.0) new(0.0) Border(0.0) Enforcement(0.0) Security(0.0) 
+Task(0.0) Forces(0.0) ,(0.0) training(0.0) and(0.0) support(0.0) for(0.0) Mexican(1.0) law(1.0) enforcement(1.0) partners(0.0) ,(0.0) and(0.0) a(0.0) staffing(0.0) surge(0.0) for(0.0) ICE(1.0) 's(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	urge	adoption	
+urgent	Southwest	
+Violence	Mexican	turf	murderous	transnational	criminal	
+drug	alien	trafficking	bill	would	
+
+threat	surge	funding	
+pressures	law	enforcement	agencies	border	communities	Speaker	bill	
+reduction	Homeland	
+reassessment	SBInet	bill	
+cost	visas	foreign	workers	
+majority	
+workers	2	
+offset	
+voting	
+offset	bill	visa	Constitutional	revenue-generating	initiate	
+bill	bill	provisions	
+Senate-passed	bill	.	approve	bill	today	
+Senate	
+hire	
+funding	21,370	
+increase	million	
+20,700	CBP	
+
+Immigration	pay	
+Mexican	law	enforcement	ICE	
+
+reads % = 0.14

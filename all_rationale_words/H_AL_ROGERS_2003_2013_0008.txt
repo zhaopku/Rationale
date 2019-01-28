@@ -1,0 +1,34 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) this(0.0) past(0.0) week(0.0) ,(0.0) I(0.0) was(0.0) back(0.0) in(0.0) my(0.0) district(0.0) ,(0.0) like(0.0) the(0.0) other(0.0) Members(0.0) were(0.0) ,(0.0) talking(0.0) with(0.0) 
+folks(0.0) about(0.0) how(0.0) Washington(1.0) is(0.0) affecting(0.0) their(0.0) families(0.0) .(0.0) One(0.0) of(0.0) the(0.0) biggest(0.0) concerns(0.0) I(0.0) heard(0.0) was(0.0) how(0.0) ObamaCare(1.0) could(0.0) 
+impact(0.0) their(0.0) lives(0.0) .(0.0) It(0.0) turns(0.0) out(0.0) the(0.0) health(1.0) care(0.0) law(1.0) seems(0.0) to(0.0) be(0.0) anything(0.0) but(0.0) affordable(1.0) and(0.0) more(0.0) of(0.0) 
+a(0.0) problem(0.0) than(0.0) a(0.0) solution(0.0) .(0.0) For(0.0) example(0.0) ,(0.0) since(0.0) it(0.0) was(0.0) signed(0.0) into(0.0) law(1.0) in(0.0) 2010(0.0) ,(0.0) the(0.0) administration(1.0) 
+has(0.0) n't(0.0) been(0.0) completely(0.0) transparent(0.0) about(0.0) the(0.0) new(0.0) health(1.0) care(1.0) exchanges(1.0) .(0.0) The(0.0) exchanges(1.0) are(0.0) just(0.0) over(0.0) 6(0.0) months(0.0) from(0.0) 
+implementation(0.0) ,(0.0) and(0.0) we(0.0) still(0.0) know(0.0) very(0.0) little(0.0) about(0.0) how(0.0) they(0.0) will(0.0) operate(0.0) .(0.0) There(0.0) 's(0.0) also(0.0) the(0.0) impact(0.0) the(0.0) 
+law(1.0) could(0.0) have(0.0) on(0.0) jobs(0.0) .(0.0) The(0.0) CBO(1.0) estimates(0.0) ObamaCare(1.0) will(0.0) become(0.0) a(0.0) $(0.0) 1(0.0) trillion(1.0) tax(1.0) hike(1.0) .(0.0) These(0.0) 
+tax(1.0) hikes(1.0) could(1.0) hurt(1.0) small(1.0) businesses(1.0) across(0.0) Alabama(1.0) and(0.0) across(0.0) the(0.0) country(1.0) as(0.0) employers(1.0) cut(1.0) hours(0.0) to(0.0) avoid(1.0) covering(0.0) employees(0.0) 
+'(0.0) health(0.0) care(0.0) .(0.0) In(0.0) fact(0.0) ,(0.0) according(0.0) to(0.0) a(0.0) study(0.0) by(0.0) the(0.0) Hudson(1.0) Institute(0.0) ,(0.0) over(0.0) 54,000(0.0) jobs(0.0) in(0.0) 
+Alabama(1.0) related(0.0) to(0.0) the(0.0) hospitality(0.0) ,(0.0) restaurant(0.0) ,(0.0) and(0.0) leisure(0.0) industries(0.0) are(0.0) at(0.0) risk(0.0) because(0.0) of(0.0) the(0.0) health(1.0) care(0.0) law(1.0) 
+.(0.0) I(0.0) voted(1.0) against(0.0) this(0.0) bill(1.0) because(1.0) of(0.0) these(0.0) concerns(1.0) and(0.0) more(0.0) ,(0.0) and(0.0) I(0.0) also(0.0) voted(0.0) to(0.0) repeal(1.0) it(0.0) 
+time(0.0) and(0.0) time(0.0) again(0.0) .(0.0) It(0.0) 's(0.0) looking(0.0) like(0.0) a(0.0) train(0.0) wreck(0.0) of(0.0) a(0.0) law(1.0) ,(0.0) and(0.0) we(0.0) need(0.0) to(0.0) 
+stop(0.0) it(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Washington	ObamaCare	
+health	law	affordable	
+law	administration	
+health	care	exchanges	exchanges	
+
+law	CBO	ObamaCare	trillion	tax	hike	
+tax	hikes	could	hurt	small	businesses	Alabama	country	employers	cut	avoid	
+Hudson	
+Alabama	health	law	
+voted	bill	because	concerns	repeal	
+law	
+
+
+reads % = 0.1557377049180328

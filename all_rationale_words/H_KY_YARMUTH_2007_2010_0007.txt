@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) every(0.0) time(0.0) I(0.0) hear(0.0) a(0.0) Republican(0.0) talking(1.0) about(1.0) health(1.0) care(1.0) reform(1.0) ,(1.0) they(1.0) say(1.0) the(1.0) American(0.0) people(0.0) do(1.0) 
+n't(0.0) want(0.0) it(0.0) .(0.0) They(0.0) say(0.0) it(0.0) so(0.0) much(0.0) that(0.0) I(0.0) think(0.0) they(0.0) 're(0.0) beginning(0.0) to(0.0) try(0.0) to(0.0) convince(0.0) themselves(0.0) 
+that(0.0) it(0.0) 's(0.0) true(0.0) .(0.0) But(0.0) there(0.0) 's(0.0) a(0.0) national(1.0) poll(0.0) that(0.0) shows(0.0) what(0.0) the(0.0) real(0.0) story(0.0) is(0.0) .(0.0) They(0.0) 
+asked(0.0) ,(0.0) of(0.0) all(0.0) the(0.0) people(0.0) who(0.0) are(0.0) opposed(0.0) to(0.0) health(1.0) care(1.0) or(0.0) say(0.0) they(0.0) are(0.0) ,(0.0) how(0.0) many(0.0) are(0.0) 
+opposed(1.0) to(0.0) it(0.0) because(0.0) they(0.0) do(0.0) n't(0.0) think(0.0) it(0.0) goes(0.0) far(0.0) enough(0.0) .(0.0) Forty(0.0) percent(0.0) .(0.0) Almost(0.0) 40(0.0) percent(0.0) said(0.0) 
+that(0.0) was(0.0) the(0.0) reason(0.0) .(0.0) They(0.0) will(0.0) not(0.0) be(0.0) unhappy(0.0) when(0.0) we(0.0) pass(0.0) health(1.0) care(1.0) reform(1.0) .(0.0) They(0.0) will(0.0) be(0.0) 
+ecstatic(0.0) ,(0.0) like(0.0) the(0.0) shopkeeper(0.0) I(0.0) talked(0.0) to(0.0) over(0.0) Christmas(0.0) who(0.0) said(0.0) she(0.0) was(0.0) against(0.0) what(0.0) we(0.0) 're(0.0) doing(0.0) because(0.0) 
+she(0.0) has(0.0) diabetes(0.0) and(0.0) she(0.0) can't(0.0) wait(0.0) 4(0.0) years(0.0) for(0.0) the(0.0) help(0.0) she(0.0) needs(0.0) .(0.0) No(0.0) ,(0.0) the(0.0) American(0.0) people(0.0) 
+will(0.0) applaud(0.0) us(0.0) when(0.0) we(0.0) pass(0.0) comprehensive(0.0) health(1.0) care(1.0) reform(1.0) ,(0.0) and(0.0) I(0.0) will(0.0) consider(0.0) it(0.0) the(0.0) proudest(1.0) moment(0.0) of(0.0) 
+my(0.0) service(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+talking	about	health	care	reform	,	they	say	the	do	
+
+national	
+health	care	
+opposed	
+health	care	reform	
+
+
+health	care	reform	proudest	
+
+
+reads % = 0.11413043478260869

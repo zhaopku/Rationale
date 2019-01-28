@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(1.0) ,(0.0) I(0.0) yield(0.0) 3(0.0) minutes(1.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Ohio(1.0) [(0.0) Mr.(0.0) Traficant(1.0) ](0.0) ,(0.0) a(0.0) former(0.0) law(1.0) enforcement(0.0) officer(0.0) 
+.(0.0) ((0.0) Mr.(0.0) TRAFICANT(1.0) asked(0.0) and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) )(0.0) 
+
+
+----- below are rationale words -----
+
+minutes	Ohio	Traficant	law	
+TRAFICANT	
+
+reads % = 0.13157894736842105

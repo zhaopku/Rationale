@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) appreciate(0.0) your(0.0) observations(0.0) ,(0.0) but(0.0) I(0.0) would(0.0) just(0.0) add(0.0) one(0.0) other(0.0) component(0.0) of(0.0) what(0.0) is(0.0) not(0.0) a(0.0) pretty(0.0) picture(0.0) .(0.0) 
+If(0.0) you(0.0) do(0.0) n't(0.0) have(0.0) the(0.0) desire(0.0) ,(0.0) if(0.0) you(0.0) do(0.0) n't(0.0) have(0.0) the(0.0) political(1.0) will(0.0) ,(0.0) or(0.0) if(0.0) there(0.0) 
+is(0.0) influence(0.0) that(0.0) contradicts(1.0) the(0.0) best(0.0) interest(0.0) of(0.0) the(0.0) consumer(1.0) ,(0.0) that(0.0) in(0.0) an(0.0) of(0.0) itself(0.0) is(0.0) a(0.0) recipe(0.0) for(0.0) 
+disaster(1.0) .(0.0) But(0.0) just(0.0) imagine(0.0) combining(0.0) that(0.0) with(0.0) incompetence(1.0) .(0.0) That(0.0) is(0.0) when(0.0) you(0.0) have(0.0) a(0.0) tsunami(0.0) ,(0.0) and(0.0) that(0.0) 
+is(0.0) what(0.0) we(0.0) are(0.0) seeing(0.0) time(0.0) and(0.0) time(0.0) again(0.0) from(0.0) this(0.0) administration(1.0) without(0.0) any(0.0) accountability(1.0) from(0.0) the(0.0) Republican(1.0) majority(1.0) .(1.0) 
+Tomorrow(1.0) there(1.0) will(1.0) be(1.0) --(1.0) and(1.0) it(1.0) is(1.0) not(1.0) going(1.0) to(1.0) be(1.0) a(1.0) debate(1.0) ,(0.0) it(0.0) is(0.0) going(0.0) to(0.0) be(0.0) 
+a(0.0) lot(0.0) of(0.0) speechifying(1.0) .(0.0) There(0.0) will(0.0) not(0.0) be(0.0) any(0.0) give(0.0) and(0.0) take(0.0) .(0.0) But(0.0) for(0.0) the(0.0) first(0.0) time(0.0) in(0.0) 
+over(0.0) 3(0.0) years(0.0) since(0.0) this(0.0) Congress(0.0) voted(1.0) to(0.0) invade(1.0) and(0.0) to(0.0) authorize(0.0) the(0.0) administration(1.0) to(0.0) invade(1.0) Iraq(1.0) ,(0.0) there(0.0) will(0.0) 
+be(0.0) a(0.0) discussion(0.0) of(0.0) Iraq(1.0) in(0.0) the(0.0) war(1.0) there(0.0) for(0.0) the(0.0) first(0.0) time(0.0) in(0.0) over(0.0) 3(0.0) years(0.0) .(0.0) I(0.0) think(0.0) 
+what(0.0) that(0.0) tells(0.0) you(0.0) is(0.0) that(0.0) there(0.0) is(0.0) no(0.0) debate(0.0) ,(0.0) there(0.0) is(0.0) no(0.0) discourse(0.0) ,(0.0) there(0.0) is(0.0) no(0.0) willingness(0.0) 
+to(0.0) hold(0.0) the(0.0) administration(1.0) accountable(1.0) for(0.0) incompetency(1.0) .(0.0) Put(0.0) aside(0.0) all(0.0) of(0.0) the(0.0) other(0.0) concerns(0.0) that(0.0) you(0.0) articulated(0.0) ,(0.0) Mr.(0.0) 
+Meek(1.0) .(0.0) But(0.0) there(0.0) was(0.0) a(0.0) story(0.0) today(0.0) in(0.0) the(0.0) newspaper(0.0) that(0.0) just(0.0) underscores(0.0) what(0.0) you(0.0) are(0.0) saying(0.0) ,(0.0) and(0.0) 
+I(0.0) think(0.0) emphasizes(1.0) my(0.0) point(0.0) regarding(0.0) the(0.0) competence(0.0) of(0.0) governing(1.0) or(0.0) the(0.0) lack(0.0) thereof(0.0) .(0.0) Let(0.0) me(0.0) read(0.0) for(0.0) just(0.0) 
+a(0.0) moment(0.0) .(0.0) You(0.0) have(0.0) got(0.0) to(0.0) bear(0.0) with(0.0) me(0.0) .(0.0) This(0.0) is(0.0) from(0.0) my(0.0) hometown(0.0) newspaper(0.0) ,(0.0) the(0.0) Boston(1.0) 
+Globe(1.0) ,(0.0) and(0.0) it(0.0) is(0.0) today(0.0) .(0.0) The(0.0) government(1.0) doled(1.0) out(0.0) as(0.0) much(0.0) as(0.0) $(0.0) 1.4(0.0) billion(1.0) in(0.0) bogus(1.0) assistance(1.0) 
+to(0.0) victims(1.0) of(0.0) Hurricanes(1.0) Katrina(1.0) and(0.0) Rita(0.0) ,(0.0) getting(0.0) hoodwinked(1.0) to(0.0) pay(1.0) for(0.0) season(0.0) football(1.0) tickets(0.0) ,(0.0) a(0.0) tropical(0.0) vacation(0.0) 
+,(0.0) and(0.0) even(0.0) a(0.0) divorce(1.0) lawyer(0.0) ,(0.0) Congressional(0.0) investigators(1.0) have(0.0) found(0.0) .(0.0) Now(0.0) ,(0.0) let(0.0) 's(0.0) be(0.0) very(0.0) clear(0.0) .(0.0) 
+This(0.0) was(0.0) an(0.0) investigation(0.0) conducted(0.0) by(0.0) a(0.0) nonpartisan(1.0) agency(0.0) that(0.0) is(0.0) an(0.0) adjunct(1.0) to(0.0) the(0.0) United(0.0) States(0.0) Congress(0.0) called(0.0) the(0.0) 
+Government(0.0) Accountability(0.0) Office(0.0) .(0.0) Here(0.0) is(0.0) what(0.0) they(0.0) found(0.0) .(0.0) Someone(0.0) stayed(0.0) in(0.0) a(0.0) Hawaiian(0.0) hotel(0.0) for(0.0) 70(0.0) days(0.0) with(0.0) 
+taxpayer(1.0) help(0.0) .(0.0) These(0.0) same(0.0) GAO(1.0) investigators(0.0) went(0.0) undercover(0.0) to(0.0) expose(0.0) the(0.0) ease(0.0) of(0.0) receiving(0.0) disaster(1.0) expense(0.0) checks(0.0) from(0.0) FEMA(1.0) 
+.(0.0) They(0.0) provided(0.0) lawmakers(1.0) with(0.0) a(0.0) copy(0.0) of(0.0) a(0.0) $(0.0) 2,300(0.0) U.S.(0.0) Treasury(0.0) check(0.0) for(0.0) rental(0.0) assistance(0.0) that(0.0) an(0.0) undercover(0.0) 
+agent(0.0) got(0.0) using(0.0) a(0.0) bogus(1.0) address(0.0) .(0.0) The(0.0) money(1.0) was(0.0) paid(0.0) even(0.0) after(0.0) FEMA(1.0) learned(0.0) from(0.0) its(0.0) inspector(0.0) that(0.0) the(0.0) 
+undercover(0.0) applicant(0.0) did(0.0) not(0.0) live(0.0) at(0.0) the(0.0) address(0.0) .(0.0) When(0.0) you(0.0) do(0.0) n't(0.0) hold(0.0) people(0.0) accountable(1.0) ,(0.0) things(0.0) get(0.0) awful(0.0) 
+sloppy(1.0) ,(0.0) if(0.0) you(0.0) do(0.0) n't(0.0) hold(0.0) Federal(1.0) agencies(1.0) accountable(1.0) ,(0.0) whether(0.0) it(0.0) be(0.0) the(0.0) White(1.0) House(0.0) ,(0.0) the(0.0) Department(0.0) 
+of(0.0) Defense(0.0) sooner(0.0) or(0.0) later(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+political	
+contradicts	consumer	
+disaster	incompetence	
+administration	accountability	Republican	majority	.	
+Tomorrow	there	will	be	--	and	it	is	not	going	to	be	a	debate	
+speechifying	
+voted	invade	administration	invade	Iraq	
+Iraq	war	
+
+administration	accountable	incompetency	
+Meek	
+emphasizes	governing	
+Boston	
+Globe	government	doled	billion	bogus	assistance	
+victims	Hurricanes	Katrina	hoodwinked	pay	football	
+divorce	investigators	
+nonpartisan	adjunct	
+
+taxpayer	GAO	disaster	FEMA	
+lawmakers	
+bogus	money	FEMA	
+accountable	
+sloppy	Federal	agencies	accountable	White	
+
+
+reads % = 0.14168377823408623

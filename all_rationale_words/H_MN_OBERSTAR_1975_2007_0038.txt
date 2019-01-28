@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+Reclaiming(1.0) my(0.0) time(0.0) ,(0.0) adopting(1.0) the(0.0) amendment(1.0) would(0.0) create(0.0) a(0.0) false(0.0) impression(0.0) that(0.0) we(0.0) in(0.0) fact(0.0) have(0.0) created(0.0) a(0.0) direct(0.0) spending(1.0) 
+authority(1.0) in(0.0) the(0.0) legislation(1.0) .(0.0) And(0.0) the(0.0) gentleman(0.0) is(0.0) perfectly(0.0) within(0.0) his(0.0) rights(1.0) to(0.0) offer(0.0) such(0.0) an(0.0) amendment(1.0) on(0.0) direct(0.0) 
+spending(1.0) legislation(1.0) ,(0.0) for(0.0) which(0.0) I(0.0) would(0.0) have(0.0) no(0.0) objection(0.0) ,(0.0) but(0.0) in(0.0) this(0.0) legislation(1.0) ,(0.0) it(0.0) creates(0.0) the(0.0) false(1.0) 
+impression(0.0) that(0.0) we(0.0) are(0.0) in(0.0) fact(0.0) creating(0.0) direct(0.0) spending(1.0) authority(0.0) when(0.0) in(0.0) fact(0.0) we(0.0) are(0.0) not(0.0) .(0.0) And(0.0) ,(0.0) if(0.0) 
+adopted(1.0) ,(0.0) it(0.0) would(0.0) create(0.0) an(0.0) unacceptable(1.0) and(0.0) invalid(0.0) precedent(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+adopting	amendment	spending	
+authority	legislation	rights	amendment	
+spending	legislation	legislation	false	
+spending	
+adopted	unacceptable	precedent	
+
+reads % = 0.16304347826086957

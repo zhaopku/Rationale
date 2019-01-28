@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) today(0.0) I(0.0) rise(0.0) to(0.0) join(0.0) my(0.0) colleagues(0.0) and(0.0) remember(0.0) the(0.0) vision(0.0) and(0.0) achievements(0.0) of(0.0) our(0.0) 40th(1.0) President(0.0) ,(0.0) Ronald(1.0) 
+Wilson(1.0) Reagan(1.0) .(0.0) Ronald(0.0) Reagan(1.0) came(0.0) to(0.0) Washington(1.0) with(0.0) a(0.0) core(0.0) set(0.0) of(0.0) values(0.0) that(0.0) guided(0.0) him(0.0) through(0.0) his(0.0) two(0.0) 
+terms(0.0) as(0.0) our(0.0) Nation(1.0) 's(0.0) leader(0.0) .(0.0) President(0.0) Reagan(1.0) fought(0.0) to(0.0) reduce(1.0) taxes(1.0) ,(0.0) diminish(0.0) the(0.0) role(0.0) of(0.0) an(0.0) intrusive(1.0) 
+Federal(1.0) bureaucracy(1.0) ,(0.0) and(0.0) to(0.0) end(0.0) forever(0.0) the(0.0) oppressive(1.0) Communist(1.0) regime(1.0) in(0.0) the(0.0) Soviet(0.0) Union(0.0) and(0.0) Eastern(0.0) Europe(0.0) .(0.0) The(0.0) 
+times(0.0) during(0.0) which(0.0) Reagan(1.0) sought(0.0) to(0.0) achieve(0.0) these(0.0) goals(0.0) could(0.0) not(0.0) have(0.0) been(0.0) more(0.0) daunting(0.0) .(0.0) America(0.0) in(0.0) 1981(1.0) was(0.0) 
+a(0.0) land(0.0) of(0.0) broken(0.0) spirit(0.0) .(0.0) Many(0.0) citizens(1.0) could(0.0) not(0.0) live(0.0) the(0.0) American(0.0) dream(0.0) due(0.0) to(0.0) interest(0.0) rates(0.0) in(0.0) the(0.0) 
+double(0.0) digits(0.0) .(0.0) The(0.0) Soviet(1.0) Union(0.0) had(0.0) surpassed(0.0) the(0.0) United(0.0) States(0.0) in(0.0) military(0.0) capability(0.0) .(0.0) But(0.0) Ronald(1.0) Reagan(1.0) achieved(0.0) what(0.0) 
+he(0.0) set(0.0) out(0.0) to(0.0) do(0.0) through(0.0) a(0.0) combination(0.0) of(0.0) ideology(1.0) ,(0.0) pragmatism(1.0) ,(0.0) charm(0.0) ,(0.0) self-effacing(0.0) humor(0.0) ,(0.0) and(0.0) ,(0.0) 
+yes(0.0) ,(0.0) hard(0.0) work(0.0) .(0.0) When(0.0) the(0.0) President(1.0) left(0.0) office(0.0) in(0.0) 1989(0.0) ,(0.0) the(0.0) Nation(1.0) was(0.0) in(0.0) the(0.0) midst(0.0) of(0.0) 
+an(0.0) economic(1.0) renaissance(1.0) .(0.0) The(0.0) Reagan(1.0) tax(1.0) cuts(1.0) led(1.0) to(0.0) 96(1.0) straight(0.0) months(0.0) of(0.0) economic(1.0) growth(1.0) .(0.0) Record(0.0) numbers(0.0) of(0.0) 
+Americans(1.0) were(0.0) experiencing(0.0) the(0.0) pride(0.0) that(0.0) goes(0.0) along(0.0) with(0.0) home(0.0) ownership(0.0) and(0.0) economic(1.0) self(0.0) sufficiency(1.0) .(0.0) The(0.0) Communist(1.0) bloc(1.0) would(0.0) 
+soon(0.0) be(0.0) a(0.0) memory(0.0) due(0.0) to(0.0) Reagan(1.0) 's(0.0) determination(0.0) .(0.0) Ending(0.0) communism(1.0) was(0.0) a(0.0) stand(0.0) upon(0.0) which(0.0) Reagan(1.0) absolutely(0.0) would(0.0) 
+not(0.0) compromise(1.0) .(0.0) To(0.0) him(0.0) ,(0.0) the(0.0) Soviet(1.0) Union(0.0) was(0.0) truly(0.0) an(0.0) ``(0.0) evil(0.0) empire(0.0) ''(0.0) which(0.0) was(0.0) morally(0.0) at(0.0) 
+odds(0.0) with(0.0) the(0.0) United(0.0) States(0.0) and(0.0) the(0.0) principles(1.0) of(0.0) human(0.0) dignity(1.0) .(0.0) Reagan(1.0) battled(0.0) head-to-head(0.0) with(0.0) Gorbachev(1.0) at(0.0) five(0.0) peace(0.0) 
+summits(0.0) and(0.0) at(0.0) home(0.0) secured(0.0) more(0.0) money(0.0) for(0.0) our(0.0) Nation(1.0) 's(0.0) defense(0.0) .(0.0) Thanks(0.0) to(0.0) this(0.0) combination(0.0) ,(0.0) millions(1.0) upon(0.0) 
+millions(1.0) now(0.0) live(0.0) in(0.0) freedom(1.0) and(0.0) Russia(1.0) is(0.0) a(0.0) valued(0.0) ally(0.0) in(0.0) America(1.0) 's(0.0) quest(0.0) for(0.0) global(1.0) freedom(1.0) .(0.0) Perhaps(0.0) 
+the(0.0) most(0.0) enduring(0.0) legacy(1.0) of(0.0) Ronald(1.0) Reagan(1.0) was(0.0) his(0.0) ability(0.0) to(0.0) make(0.0) us(0.0) proud(0.0) to(0.0) be(0.0) Americans(1.0) .(0.0) Reagan(1.0) gently(0.0) 
+lifted(0.0) our(0.0) spirits(0.0) with(0.0) his(0.0) cheery(0.0) optimism(0.0) and(0.0) geniality(0.0) .(0.0) He(0.0) soothed(0.0) our(0.0) fears(1.0) with(0.0) a(0.0) good(0.0) joke(0.0) or(0.0) a(0.0) 
+funny(0.0) story(0.0) .(0.0) He(0.0) could(0.0) have(0.0) been(0.0) our(0.0) friendly(0.0) neighbor(0.0) or(0.0) our(0.0) favorite(0.0) uncle(0.0) .(0.0) A(0.0) reporter(0.0) once(0.0) asked(0.0) Reagan(1.0) 
+what(0.0) Americans(1.0) saw(0.0) in(0.0) him(0.0) ,(0.0) to(0.0) which(0.0) he(0.0) replied(0.0) ``(0.0) Would(0.0) you(0.0) laugh(0.0) if(0.0) I(0.0) told(0.0) you(0.0) that(0.0) I(0.0) 
+think(0.0) ,(0.0) maybe(0.0) ,(0.0) they(0.0) see(0.0) themselves(0.0) ,(0.0) and(0.0) that(0.0) I(0.0) 'm(0.0) one(0.0) of(0.0) them(0.0) ?(0.0) I(0.0) 've(0.0) never(0.0) been(0.0) 
+able(0.0) to(0.0) detach(0.0) myself(0.0) or(0.0) think(0.0) that(0.0) I(0.0) ,(0.0) somehow(0.0) ,(0.0) am(0.0) apart(0.0) from(0.0) them(0.0) .(0.0) ''(0.0) On(0.0) a(0.0) personal(0.0) 
+note(0.0) ,(0.0) I(0.0) can(0.0) not(0.0) forget(0.0) the(0.0) warmth(0.0) and(0.0) kindness(0.0) that(0.0) I(0.0) was(0.0) shown(0.0) by(0.0) this(0.0) great(0.0) man(0.0) .(0.0) I(0.0) 
+first(0.0) met(0.0) Reagan(1.0) in(0.0) 1976(1.0) and(0.0) later(0.0) visited(0.0) him(0.0) at(0.0) the(0.0) Oval(0.0) Office(0.0) .(0.0) He(0.0) provided(0.0) me(0.0) with(0.0) invaluable(0.0) advice(0.0) 
+during(0.0) my(0.0) first(0.0) run(0.0) for(0.0) Congress(0.0) .(0.0) During(0.0) this(0.0) meeting(0.0) ,(0.0) he(0.0) spoke(0.0) of(0.0) the(0.0) beauty(0.0) of(0.0) our(0.0) mountains(0.0) 
+
+
+----- below are rationale words -----
+
+40th	Ronald	
+Wilson	Reagan	Reagan	Washington	
+Nation	Reagan	reduce	taxes	intrusive	
+Federal	bureaucracy	oppressive	Communist	regime	
+Reagan	1981	
+citizens	
+Soviet	Ronald	Reagan	
+ideology	pragmatism	
+President	Nation	
+economic	renaissance	Reagan	tax	cuts	led	96	economic	growth	
+Americans	economic	sufficiency	Communist	bloc	
+Reagan	communism	Reagan	
+compromise	Soviet	
+principles	dignity	Reagan	Gorbachev	
+Nation	millions	
+millions	freedom	Russia	America	global	freedom	
+legacy	Ronald	Reagan	Americans	Reagan	
+fears	
+Reagan	
+Americans	
+
+
+
+Reagan	1976	
+
+
+reads % = 0.134

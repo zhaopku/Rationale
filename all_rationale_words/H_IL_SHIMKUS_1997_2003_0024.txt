@@ -1,0 +1,20 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Chairman(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) remind(0.0) all(0.0) Members(0.0) that(0.0) the(0.0) page(0.0) reception(0.0) is(0.0) occurring(0.0) as(0.0) we(0.0) speak(0.0) down(0.0) in(0.0) the(0.0) 
+Members(0.0) '(0.0) dining(0.0) room(0.0) .(0.0) If(0.0) you(0.0) have(0.0) a(0.0) page(0.0) here(0.0) in(0.0) this(0.0) class(0.0) ,(0.0) if(0.0) you(0.0) would(0.0) get(0.0) down(0.0) 
+to(0.0) the(0.0) Members(0.0) '(0.0) dining(0.0) room(0.0) and(0.0) make(0.0) sure(0.0) you(0.0) say(0.0) hi(0.0) to(0.0) them(0.0) .(0.0) If(0.0) you(0.0) are(0.0) a(0.0) Member(0.0) 
+that(0.0) has(0.0) developed(0.0) a(0.0) good(0.0) relationship(0.0) with(0.0) pages(0.0) and(0.0) want(0.0) to(0.0) make(0.0) sure(0.0) you(0.0) say(0.0) farewell(0.0) ,(0.0) that(0.0) is(0.0) going(0.0) 
+on(0.0) now(0.0) as(0.0) we(0.0) speak(0.0) .(0.0) The(0.0) CHAIRMAN(0.0) pro(0.0) tempore(0.0) .(1.0) It(0.0) is(0.0) now(0.0) in(0.0) order(0.0) to(0.0) consider(0.0) amendment(1.0) No(1.0) 
+.(0.0) 3(0.0) printed(0.0) in(0.0) House(0.0) Report(1.0) 108-120(1.0) .(0.0) Amendment(1.0) No(0.0) .(0.0) 3(0.0) Offered(0.0) by(0.0) Ms.(0.0) Loretta(1.0) Sanchez(1.0) of(0.0) California(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+
+
+.	amendment	No	
+Report	108-120	Amendment	Loretta	Sanchez	
+
+reads % = 0.06666666666666667

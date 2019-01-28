@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) my(0.0) colleague(0.0) from(0.0) Maryland(1.0) spoke(0.0) eloquently(1.0) of(0.0) the(0.0) dreams(0.0) of(0.0) all(0.0) Americans(1.0) ,(0.0) and(0.0) it(0.0) is(0.0) with(0.0) a(0.0) sense(0.0) 
+of(0.0) profound(0.0) anxiety(0.0) that(0.0) I(0.0) come(0.0) to(0.0) the(0.0) floor(0.0) today(0.0) to(0.0) talk(0.0) about(0.0) those(0.0) elements(0.0) in(0.0) our(0.0) world(0.0) that(0.0) could(0.0) 
+defer(0.0) those(0.0) dreams(0.0) .(0.0) The(0.0) lead(0.0) story(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) in(0.0) today(0.0) 's(0.0) Washington(1.0) Times(1.0) reads(0.0) as(0.0) follows(0.0) :(0.0) 
+``(0.0) China(0.0) Tests(0.0) New(0.0) Long(1.0) Range(0.0) Missile(0.0) .(0.0) ''(0.0) Bill(0.0) Gertz(1.0) ,(0.0) the(0.0) byline(0.0) ,(0.0) he(0.0) writes(0.0) and(0.0) I(0.0) quote(0.0) 
+,(0.0) ``(0.0) China(0.0) successfully(0.0) test-fired(0.0) its(0.0) newest(0.0) long-range(0.0) missile(0.0) yesterday(0.0) amid(0.0) heightened(1.0) tensions(1.0) with(0.0) Taiwan(0.0) over(0.0) pro-independence(1.0) remarks(0.0) by(0.0) the(0.0) 
+island(0.0) 's(0.0) President(0.0) .(0.0) The(0.0) CIA(1.0) believes(0.0) the(0.0) DF-31(1.0) test(0.0) launched(0.0) from(0.0) a(0.0) base(0.0) in(0.0) central(0.0) China(0.0) will(0.0) be(0.0) the(0.0) 
+first(0.0) new(0.0) Chinese(0.0) intercontinental(0.0) ballistic(0.0) missile(0.0) to(0.0) incorporate(0.0) stolen(0.0) U.S.(0.0) warhead(0.0) design(0.0) and(0.0) missile(0.0) technology(0.0) ,(0.0) according(0.0) to(0.0) U.S(0.0) .(0.0) 
+officials(0.0) .(0.0) ''(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) when(0.0) I(0.0) read(0.0) those(0.0) words(0.0) this(0.0) morning(0.0) ,(0.0) I(0.0) could(0.0) not(0.0) help(0.0) but(0.0) reflect(0.0) 
+on(0.0) the(0.0) revelations(1.0) that(0.0) have(0.0) rocked(0.0) our(0.0) Nation(1.0) 's(0.0) capital(1.0) and(0.0) our(0.0) entire(0.0) country(1.0) in(0.0) the(0.0) past(0.0) several(0.0) months(0.0) .(0.0) 
+The(0.0) fund-raising(1.0) scandals(1.0) ,(0.0) the(0.0) apparent(0.0) absence(0.0) of(0.0) concern(1.0) at(0.0) our(0.0) Nation(1.0) 's(0.0) nuclear(1.0) laboratories(0.0) ,(0.0) the(0.0) wholesale(1.0) theft(0.0) of(0.0) 
+our(0.0) nuclear(1.0) secrets(0.0) and(0.0) the(0.0) apparent(0.0) cooperation(0.0) of(0.0) some(0.0) in(0.0) the(0.0) private(0.0) sector(0.0) ,(0.0) and(0.0) some(0.0) in(0.0) alleged(1.0) government(1.0) service(0.0) 
+to(0.0) make(0.0) it(0.0) so(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) what(0.0) perverse(1.0) pride(0.0) can(0.0) anyone(0.0) derive(0.0) from(0.0) these(0.0) revelations(0.0) ?(0.0) Is(0.0) there(0.0) 
+actually(0.0) pride(0.0) on(0.0) the(0.0) part(0.0) of(0.0) the(0.0) Clinton-Gore(1.0) gang(1.0) and(0.0) their(0.0) fund-raisers(1.0) this(0.0) morning(0.0) ?(0.0) Is(0.0) there(0.0) actually(0.0) pride(0.0) in(0.0) 
+the(0.0) heart(0.0) of(0.0) Bernard(1.0) Schwartz(1.0) ,(0.0) the(0.0) leading(0.0) giver(0.0) to(0.0) the(0.0) Democratic(1.0) National(0.0) Committee(0.0) ,(0.0) whose(0.0) firm(0.0) ,(0.0) Loral(1.0) ,(0.0) 
+gave(0.0) technology(0.0) to(0.0) the(0.0) Communist(1.0) Chinese(0.0) ?(0.0) C.(0.0) Michael(0.0) Armstrong(1.0) ,(0.0) the(0.0) one-time(0.0) CEO(0.0) of(0.0) Hughes(0.0) ,(0.0) another(0.0) company(0.0) that(0.0) 
+gave(0.0) technology(0.0) to(0.0) the(0.0) Communist(1.0) Chinese(0.0) ,(0.0) can(0.0) he(0.0) feel(0.0) pride(0.0) at(0.0) these(0.0) revelations(0.0) this(0.0) morning(0.0) ?(0.0) Is(0.0) our(0.0) national(1.0) 
+security(0.0) advisor(0.0) ,(0.0) Sandy(0.0) Berger(1.0) ,(0.0) who(0.0) sat(0.0) on(0.0) this(0.0) information(0.0) and(0.0) apparently(0.0) withheld(0.0) it(0.0) from(0.0) the(0.0) highest(0.0) levels(0.0) of(0.0) 
+government(1.0) ,(0.0) does(0.0) he(0.0) feel(0.0) pride(0.0) this(0.0) morning(0.0) that(0.0) our(0.0) Nation(1.0) is(0.0) at(0.0) risk(0.0) ?(0.0) How(0.0) proud(0.0) former(0.0) Energy(0.0) Secretary(1.0) 
+Hazel(1.0) O'Leary(1.0) must(0.0) be(0.0) this(0.0) morning(0.0) ,(0.0) with(0.0) her(0.0) socialist(1.0) utopian(1.0) vision(0.0) of(0.0) sharing(0.0) our(0.0) nuclear(1.0) technology(0.0) with(0.0) those(0.0) who(0.0) 
+oppose(0.0) us(0.0) in(0.0) the(0.0) world(0.0) .(0.0) And(0.0) finally(0.0) and(0.0) sadly(0.0) ,(0.0) how(0.0) proud(0.0) the(0.0) President(1.0) and(0.0) Vice(0.0) President(1.0) of(0.0) the(0.0) 
+United(0.0) States(0.0) must(0.0) be(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) our(0.0) constitutional(1.0) republic(1.0) has(0.0) survived(0.0) scores(0.0) of(0.0) scoundrels(1.0) and(0.0) scalawags(1.0) ,(0.0) but(0.0) 
+to(0.0) have(0.0) those(0.0) at(0.0) the(0.0) highest(0.0) level(0.0) of(0.0) government(1.0) speak(0.0) of(0.0) a(0.0) strategic(0.0) partnership(0.0) with(0.0) Communist(1.0) China(0.0) and(0.0) then(0.0) have(0.0) 
+it(0.0) revealed(0.0) in(0.0) the(0.0) fullness(0.0) of(0.0) time(0.0) just(0.0) what(0.0) that(0.0) strategic(1.0) partnership(0.0) meant(0.0) ,(0.0) crass(1.0) partisan(1.0) ,(0.0) political(1.0) advantage(1.0) through(0.0) 
+scandalous(1.0) fund-raising(1.0) that(0.0) has(0.0) led(0.0) us(0.0) to(0.0) this(0.0) sorry(0.0) state(1.0) of(0.0) affairs(1.0) .(0.0) If(0.0) it(0.0) is(0.0) not(0.0) by(0.0) design(0.0) then(0.0) 
+at(0.0) least(0.0) by(0.0) naivete(1.0) ,(0.0) and(0.0) that(0.0) leads(0.0) us(0.0) to(0.0) another(0.0) item(0.0) in(0.0) this(0.0) morning(0.0) 's(0.0) paper(0.0) .(0.0) William(0.0) 
+
+
+----- below are rationale words -----
+
+Maryland	eloquently	Americans	
+
+Speaker	Washington	Times	
+Long	Gertz	
+heightened	tensions	pro-independence	
+CIA	DF-31	
+
+Speaker	
+revelations	Nation	capital	country	
+fund-raising	scandals	concern	Nation	nuclear	wholesale	
+nuclear	alleged	government	
+Speaker	perverse	
+Clinton-Gore	gang	fund-raisers	
+Bernard	Schwartz	Democratic	Loral	
+Communist	Armstrong	
+Communist	national	
+Berger	
+government	Nation	Secretary	
+Hazel	O'Leary	socialist	utopian	nuclear	
+President	President	
+Speaker	constitutional	republic	scoundrels	scalawags	
+government	Communist	
+strategic	crass	partisan	political	advantage	
+scandalous	fund-raising	state	affairs	
+naivete	
+
+reads % = 0.136

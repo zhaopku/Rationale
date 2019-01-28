@@ -1,0 +1,10 @@
+This is from a Democrat
+----- below is the original text -----
+Congressman(1.0) Ron(1.0) Paul(1.0) ,(0.0) Congressman(1.0) Neil(1.0) Abercrombie(1.0) ,(0.0) Congressman(1.0) Nancy(1.0) Boyda(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Ron	Paul	Congressman	Neil	Abercrombie	Congressman	Nancy	Boyda	
+
+reads % = 0.6666666666666666

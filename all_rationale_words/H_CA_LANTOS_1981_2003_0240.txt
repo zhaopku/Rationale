@@ -1,0 +1,34 @@
+This is from a Democrat
+----- below is the original text -----
+Before(0.0) closing(0.0) ,(0.0) I(0.0) would(0.0) first(0.0) like(0.0) to(0.0) recognize(0.0) my(0.0) friend(0.0) and(0.0) colleague(0.0) from(0.0) New(0.0) York(1.0) ((0.0) Ms(1.0) .(0.0) Slaughter(1.0) )(0.0) 
+for(1.0) her(0.0) leadership(0.0) on(0.0) this(0.0) issue(0.0) for(0.0) many(0.0) years(0.0) and(0.0) for(0.0) her(0.0) commitment(0.0) to(0.0) this(0.0) most(0.0) important(0.0) cause(0.0) .(0.0) I(0.0) 
+would(0.0) like(0.0) to(0.0) yield(0.0) for(0.0) a(0.0) colloquy(0.0) with(0.0) the(0.0) distinguished(0.0) vice(0.0) chairman(0.0) of(0.0) our(0.0) committee(0.0) and(0.0) the(0.0) principal(0.0) sponsor(0.0) of(0.0) 
+this(0.0) legislation(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) as(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) Jersey(1.0) ((0.0) Mr.(0.0) Smith(1.0) )(0.0) knows(1.0) ,(0.0) as(0.0) in(0.0) 
+other(0.0) bills(0.0) ,(0.0) there(0.0) are(0.0) provisions(0.0) in(0.0) this(0.0) legislation(0.0) that(0.0) represent(0.0) a(0.0) compromise(0.0) and(0.0) do(0.0) not(0.0) go(0.0) as(0.0) far(0.0) as(0.0) 
+either(0.0) side(0.0) would(0.0) like(0.0) .(0.0) In(0.0) this(0.0) case(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) there(0.0) is(0.0) a(0.0) provision(0.0) that(0.0) prohibits(1.0) providing(0.0) funds(1.0) 
+to(0.0) any(0.0) organization(0.0) that(0.0) promotes(1.0) ,(0.0) supports(1.0) ,(0.0) or(0.0) advocates(1.0) the(0.0) legalization(1.0) of(0.0) the(0.0) practice(1.0) of(0.0) prostitution(1.0) .(0.0) Some(0.0) have(0.0) 
+raised(0.0) concerns(0.0) regarding(0.0) this(0.0) provision(1.0) since(0.0) the(0.0) committee(0.0) has(0.0) reported(0.0) this(0.0) bill(0.0) ,(0.0) and(0.0) I(0.0) think(0.0) that(0.0) this(0.0) provision(1.0) needs(0.0) 
+some(0.0) clarification(0.0) .(0.0) When(0.0) this(0.0) provision(1.0) was(0.0) drafted(0.0) ,(0.0) it(0.0) was(0.0) my(0.0) understanding(0.0) that(0.0) an(0.0) organization(1.0) can(0.0) satisfy(0.0) this(0.0) requirement(1.0) 
+if(0.0) it(0.0) states(1.0) in(0.0) a(0.0) grant(1.0) application(0.0) or(0.0) in(0.0) a(0.0) grant(1.0) agreement(0.0) or(0.0) both(0.0) that(0.0) it(0.0) does(0.0) not(0.0) promote(0.0) ,(0.0) 
+support(0.0) ,(0.0) or(0.0) advocate(1.0) such(0.0) action(0.0) since(0.0) it(0.0) has(0.0) no(0.0) policy(0.0) regarding(0.0) this(0.0) issue(0.0) .(0.0) Just(0.0) to(0.0) be(0.0) clear(0.0) on(0.0) 
+this(0.0) point(0.0) ,(0.0) I(0.0) yield(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) Jersey(1.0) ((0.0) Mr.(0.0) Smith(1.0) )(0.0) to(1.0) confirm(0.0) that(0.0) this(0.0) is(0.0) 
+his(0.0) understanding(0.0) of(0.0) the(0.0) statute(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+York	Ms	Slaughter	
+for	
+
+Speaker	Jersey	Smith	knows	
+
+Speaker	prohibits	funds	
+promotes	supports	advocates	legalization	practice	prostitution	
+provision	provision	
+provision	organization	requirement	
+states	grant	grant	
+advocate	
+Jersey	Smith	to	
+
+
+reads % = 0.11740890688259109

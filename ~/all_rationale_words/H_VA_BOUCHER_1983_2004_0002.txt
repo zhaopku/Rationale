@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Chairman(1.0) ,(0.0) I(0.0) rise(1.0) in(0.0) strong(0.0) opposition(1.0) to(0.0) the(0.0) amendment(1.0) offered(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) Colorado(0.0) .(0.0) The(0.0) ARC(1.0) is(0.0) 
+a(0.0) tremendous(0.0) force(0.0) for(0.0) progress(1.0) in(0.0) the(0.0) region(0.0) I(0.0) represent(1.0) .(0.0) Almost(1.0) every(0.0) water(0.0) and(0.0) wastewater(1.0) project(0.0) has(0.0) an(0.0) element(0.0) 
+of(0.0) ARC(1.0) funding(1.0) at(0.0) its(0.0) core(0.0) .(0.0) The(0.0) ARC(1.0) has(0.0) helped(0.0) us(0.0) build(0.0) industrial(1.0) parks(0.0) ,(0.0) shell(0.0) buildings(0.0) and(0.0) industrial(1.0) 
+access(0.0) roads(1.0) that(0.0) have(0.0) enabled(1.0) broad(0.0) economic(0.0) growth(1.0) .(0.0) Community(1.0) libraries(1.0) ,(0.0) health(1.0) care(0.0) clinics(0.0) and(0.0) vital(1.0) broadband(0.0) deployment(0.0) projects(0.0) 
+have(0.0) been(0.0) boosted(1.0) in(0.0) my(0.0) region(1.0) by(0.0) the(0.0) ARC(1.0) .(0.0) Studies(1.0) have(0.0) shown(0.0) that(0.0) every(0.0) dollar(0.0) expended(0.0) by(0.0) the(0.0) ARC(1.0) 
+on(0.0) an(0.0) industry(1.0) attracting(0.0) infrastructure(1.0) project(0.0) stimulates(1.0) $(0.0) 12(1.0) in(0.0) private(0.0) investment(1.0) ,(0.0) creating(0.0) jobs(1.0) ,(0.0) improving(0.0) the(0.0) economy(1.0) ,(0.0) 
+and(0.0) expanding(1.0) revenues(1.0) for(0.0) local(1.0) governments(1.0) .(0.0) The(0.0) ARC(1.0) has(0.0) helped(0.0) us(0.0) tremendously(0.0) ,(0.0) and(0.0) we(0.0) need(0.0) its(0.0) help(0.0) in(0.0) 
+the(0.0) future(0.0) as(0.0) much(0.0) as(0.0) in(0.0) past(0.0) years(0.0) .(0.0) I(0.0) urge(1.0) defeat(0.0) of(0.0) the(0.0) amendment(1.0) and(0.0) full(0.0) funding(1.0) for(0.0) the(0.0) 
+Appalachian(1.0) Regional(1.0) Commission(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	rise	opposition	amendment	ARC	
+progress	represent	Almost	wastewater	
+ARC	funding	ARC	industrial	industrial	
+roads	enabled	growth	Community	libraries	health	vital	
+boosted	region	ARC	Studies	ARC	
+industry	infrastructure	stimulates	12	investment	jobs	economy	
+expanding	revenues	local	governments	ARC	
+urge	amendment	funding	
+Appalachian	Regional	
+
+reads % = 0.2606060606060606

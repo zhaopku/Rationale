@@ -1,0 +1,18 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Florida(0.0) is(0.0) absolutely(0.0) correct(0.0) .(0.0) The(0.0) privatization(1.0) of(0.0) parastatal(1.0) companies(0.0) and(0.0) strict(0.0) accountability(1.0) for(0.0) the(0.0) effective(0.0) 
+use(0.0) of(0.0) donor(1.0) resources(0.0) are(0.0) core(0.0) reforms(1.0) which(0.0) were(0.0) promised(0.0) but(0.0) not(0.0) accomplished(0.0) in(0.0) prior(0.0) years(0.0) .(0.0) The(0.0) committee(0.0) recommends(0.0) 
+that(0.0) assistance(0.0) to(0.0) the(0.0) government(1.0) of(0.0) Haiti(1.0) provided(0.0) in(0.0) this(0.0) act(0.0) be(0.0) made(0.0) contingent(0.0) upon(0.0) the(0.0) privatization(1.0) of(0.0) at(0.0) least(0.0) 
+three(0.0) parastatal(1.0) enterprises(0.0) .(0.0) I(0.0) might(0.0) add(0.0) that(0.0) the(0.0) subcommittee(0.0) ,(0.0) traveled(0.0) to(0.0) Haiti(1.0) and(0.0) that(0.0) we(0.0) shared(0.0) the(0.0) gentleman(0.0) 
+'s(0.0) concern(0.0) ,(0.0) and(0.0) we(0.0) also(0.0) expressed(0.0) a(0.0) strong(0.0) concern(0.0) to(0.0) President(1.0) Preval(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+privatization	parastatal	accountability	
+donor	reforms	
+government	Haiti	privatization	
+parastatal	Haiti	
+President	Preval	
+
+reads % = 0.12631578947368421

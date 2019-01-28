@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) then(0.0) that(0.0) is(0.0) the(0.0) fault(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Appropriations(0.0) .(0.0) But(0.0) they(0.0) will(0.0) have(0.0) more(0.0) money(1.0) than(0.0) they(0.0) 
+have(0.0) now(0.0) for(0.0) PILT(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+money	
+PILT	
+
+reads % = 0.07692307692307693

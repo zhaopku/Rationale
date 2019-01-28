@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) just(0.0) to(0.0) again(0.0) thank(0.0) my(0.0) colleagues(0.0) for(0.0) their(0.0) kind(0.0) words(0.0) 
+today(0.0) and(0.0) the(0.0) gentleman(0.0) from(0.0) Minnesota(1.0) ((0.0) Mr.(0.0) Sabo(1.0) )(0.0) for(1.0) bringing(1.0) this(0.0) resolution(1.0) forward(0.0) .(0.0) I(0.0) am(0.0) very(0.0) proud(0.0) 
+to(0.0) support(0.0) it(0.0) and(0.0) encourage(0.0) all(0.0) of(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) it(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Minnesota	Sabo	for	bringing	resolution	
+
+
+reads % = 0.09259259259259259

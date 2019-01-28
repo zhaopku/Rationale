@@ -1,0 +1,54 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) as(0.0) this(0.0) body(0.0) returns(0.0) from(0.0) the(0.0) Independence(1.0) Day(0.0) district(0.0) work(0.0) period(0.0) ,(0.0) it(0.0) is(0.0) increasingly(0.0) clear(0.0) that(0.0) the(0.0) 
+Clinton(1.0) administration(1.0) is(0.0) ,(0.0) disastrously(1.0) ,(0.0) rapidly(0.0) moving(0.0) toward(0.0) an(0.0) invasion(1.0) of(0.0) Haiti(1.0) .(0.0) Convinced(0.0) that(0.0) an(0.0) invasion(1.0) would(0.0) be(0.0) 
+highly(0.0) divisive(1.0) and(0.0) in(0.0) the(0.0) long(0.0) run(0.0) counterproductive(1.0) ,(0.0) this(0.0) Member(1.0) repeatedly(1.0) has(0.0) come(0.0) before(0.0) this(0.0) body(0.0) to(0.0) argue(1.0) in(0.0) 
+the(0.0) strongest(0.0) terms(0.0) against(0.0) military(0.0) action(0.0) in(0.0) Haiti(1.0) .(0.0) The(0.0) notion(1.0) of(0.0) a(0.0) military(0.0) action(0.0) to(0.0) restore(1.0) democracy(1.0) and(0.0) order(0.0) 
+to(0.0) Haiti(1.0) is(0.0) fatally(0.0) flawed(1.0) because(0.0) ,(0.0) quite(0.0) frankly(0.0) ,(0.0) there(0.0) is(0.0) ,(0.0) among(0.0) other(0.0) reasons(0.0) ,(0.0) no(0.0) order(0.0) to(0.0) 
+restore(1.0) .(0.0) Missing(0.0) are(0.0) virtually(0.0) all(0.0) of(0.0) the(0.0) basic(0.0) institutions(1.0) and(0.0) infrastructure(1.0) that(0.0) would(0.0) make(0.0) Haiti(1.0) a(0.0) viable(0.0) nation-(0.0) state(0.0) 
+.(0.0) Even(0.0) were(0.0) Mr.(0.0) Aristide(1.0) to(1.0) be(0.0) forcibly(1.0) returned(0.0) to(0.0) power(0.0) ,(0.0) Haiti(1.0) inevitably(1.0) would(0.0) continue(0.0) its(0.0) descent(0.0) into(0.0) chaos(1.0) 
+because(0.0) the(0.0) institutions(1.0) necessary(0.0) for(0.0) democracy(1.0) and(0.0) order(0.0) are(0.0) utterly(0.0) lacking(0.0) .(0.0) In(0.0) short(0.0) ,(0.0) Haiti(1.0) is(0.0) a(0.0) failed(0.0) nation-state(1.0) 
+.(0.0) It(0.0) is(0.0) time(0.0) to(0.0) recognize(0.0) that(0.0) Haiti(1.0) is(0.0) not(0.0) capable(0.0) of(0.0) developing(0.0) effective(0.0) institutions(1.0) of(0.0) governance(1.0) on(0.0) its(0.0) own(0.0) 
+.(0.0) Some(0.0) form(0.0) of(0.0) international(0.0) oversight(1.0) is(0.0) essential(0.0) .(0.0) It(0.0) is(0.0) clear(0.0) to(0.0) this(0.0) Member(0.0) that(0.0) perhaps(0.0) Haiti(1.0) 's(0.0) only(0.0) 
+chance(0.0) for(0.0) long-term(1.0) stability(0.0) is(0.0) to(0.0) establish(0.0) an(0.0) international(0.0) conservatorship(1.0) ,(0.0) with(0.0) the(0.0) nation(1.0) voluntarily(0.0) giving(0.0) up(0.0) elements(0.0) of(0.0) its(0.0) 
+sovereignty(1.0) for(0.0) a(0.0) specified(0.0) period(0.0) of(0.0) time(0.0) in(0.0) exchange(0.0) for(0.0) a(0.0) coordinated(0.0) and(0.0) massive(1.0) assistance(1.0) program(0.0) with(0.0) international(1.0) administrations(1.0) and(0.0) 
+supervision(0.0) .(0.0) What(0.0) this(0.0) Member(0.0) is(0.0) suggesting(0.0) is(0.0) that(0.0) ,(0.0) when(0.0) a(0.0) national(0.0) such(0.0) as(0.0) Haiti(1.0) is(0.0) so(0.0) utterly(0.0) unsuccessful(1.0) 
+in(0.0) performing(0.0) the(0.0) most(0.0) basic(0.0) functions(0.0) of(0.0) a(0.0) nation(1.0) ,(0.0) then(0.0) the(0.0) international(0.0) community(0.0) should(0.0) ,(0.0) in(0.0) effect(1.0) ,(0.0) place(0.0) 
+that(0.0) country(1.0) in(0.0) a(0.0) U.N.-supervised(0.0) receivership(1.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) this(0.0) Member(1.0) recently(0.0) introduced(0.0) House(0.0) Concurrent(1.0) Resolution(0.0) 260(0.0) ,(0.0) a(0.0) 
+resolution(0.0) that(0.0) calls(0.0) for(0.0) an(0.0) international(0.0) conservatorship(0.0) to(0.0) assume(0.0) the(0.0) task(0.0) of(0.0) managing(0.0) and(0.0) directing(0.0) the(0.0) affairs(0.0) of(0.0) Haiti(1.0) ,(0.0) 
+and(0.0) building(0.0) the(0.0) institutions(0.0) to(0.0) permit(0.0) Haiti(1.0) to(0.0) eventually(0.0) become(0.0) a(0.0) credible(0.0) nation-state(0.0) .(0.0) Certainly(0.0) ,(0.0) the(0.0) inducements(1.0) could(0.0) be(0.0) 
+found(0.0) that(0.0) would(0.0) lead(0.0) the(0.0) Haitian(1.0) leadership(0.0) to(0.0) accept(0.0) such(0.0) a(0.0) conservatorship(0.0) while(0.0) their(0.0) nation(1.0) is(0.0) being(0.0) rebuilt(0.0) .(0.0) And(0.0) 
+,(0.0) in(0.0) the(0.0) end(0.0) ,(0.0) an(0.0) internationally(0.0) supervised(0.0) conservatorship(0.0) such(0.0) as(0.0) has(0.0) been(0.0) proposed(0.0) in(0.0) House(0.0) Concurrent(1.0) Resolution(0.0) 260(0.0) could(0.0) 
+well(0.0) be(0.0) the(0.0) only(0.0) way(0.0) to(0.0) end(0.0) the(0.0) cycle(0.0) of(0.0) misery(1.0) ,(0.0) ineptitude(1.0) ,(0.0) and(0.0) corruption(1.0) that(0.0) has(0.0) plagued(0.0) Haiti(1.0) 
+throughout(0.0) most(0.0) of(0.0) its(0.0) history(0.0) .(0.0) Somalia(1.0) is(0.0) another(0.0) example(0.0) of(0.0) a(0.0) failed(0.0) nation-state(1.0) calling(0.0) for(0.0) international(0.0) receivership(1.0) .(0.0) I(0.0) 
+urge(0.0) my(0.0) colleagues(0.0) to(0.0) consider(0.0) the(0.0) resolution(1.0) I(0.0) have(0.0) introduced(0.0) as(0.0) a(0.0) necessary(0.0) mechanism(0.0) for(0.0) addressing(1.0) failed(1.0) nation-states(1.0) that(0.0) now(0.0) 
+exist(0.0) in(0.0) various(0.0) locations(0.0) around(0.0) the(0.0) globe(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Independence	
+Clinton	administration	disastrously	invasion	Haiti	invasion	
+divisive	counterproductive	Member	repeatedly	argue	
+Haiti	notion	restore	democracy	
+Haiti	flawed	
+restore	institutions	infrastructure	Haiti	
+Aristide	to	forcibly	Haiti	inevitably	chaos	
+institutions	democracy	Haiti	nation-state	
+Haiti	institutions	governance	
+oversight	Haiti	
+long-term	conservatorship	nation	
+sovereignty	massive	assistance	international	administrations	
+Haiti	unsuccessful	
+nation	effect	
+country	receivership	Speaker	Member	Concurrent	
+Haiti	
+Haiti	inducements	
+Haitian	nation	
+Concurrent	
+misery	ineptitude	corruption	Haiti	
+Somalia	nation-state	receivership	
+resolution	addressing	failed	nation-states	
+
+
+reads % = 0.15812917594654788

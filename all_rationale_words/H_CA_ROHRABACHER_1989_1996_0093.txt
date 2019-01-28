@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) this(0.0) amendment(1.0) addresses(1.0) the(0.0) concerns(1.0) of(0.0) 
+many(0.0) Members(0.0) ,(0.0) including(0.0) some(0.0) on(0.0) my(0.0) subcommittee(0.0) ,(0.0) that(0.0) we(0.0) should(0.0) continue(0.0) to(0.0) fund(1.0) renewable(1.0) energy(1.0) research(1.0) .(0.0) Unfortunately(0.0) 
+,(0.0) the(0.0) Department(0.0) of(0.0) Energy(0.0) has(0.0) confused(0.0) the(0.0) issue(0.0) by(0.0) constantly(0.0) directing(0.0) funds(1.0) away(0.0) from(0.0) research(0.0) and(0.0) into(0.0) the(0.0) commericalization(0.0) 
+and(0.0) marketing(0.0) process(0.0) .(0.0) I(0.0) believe(0.0) the(0.0) result(0.0) has(0.0) been(0.0) harmful(0.0) to(0.0) the(0.0) future(0.0) success(0.0) of(0.0) the(0.0) renewable(1.0) energies(0.0) technologies(0.0) 
+that(0.0) our(0.0) country(1.0) will(0.0) depend(0.0) upon(0.0) in(0.0) the(0.0) future(0.0) My(0.0) amendment(1.0) would(0.0) move(0.0) the(0.0) program(1.0) in(0.0) the(0.0) right(0.0) direction(0.0) by(0.0) 
+restoring(1.0) the(0.0) photovoltaic(1.0) research(0.0) program(1.0) to(0.0) fiscal(1.0) year(0.0) 1996(1.0) levels(0.0) .(0.0) It(0.0) would(0.0) do(0.0) so(0.0) without(0.0) taking(0.0) money(1.0) from(0.0) other(0.0) 
+science(0.0) research(0.0) programs(1.0) .(0.0) Instead(0.0) ,(0.0) it(0.0) would(0.0) add(0.0) $(0.0) 9.2(0.0) million(0.0) to(0.0) the(0.0) photovoltaic(1.0) program(0.0) as(0.0) follows(0.0) :(0.0) $(0.0) 
+5.2(0.0) million(0.0) from(0.0) program(1.0) direction(0.0) ,(0.0) $(0.0) 2(0.0) million(0.0) from(0.0) the(0.0) renewable(1.0) energy(1.0) production(1.0) incentive(1.0) ,(0.0) $(0.0) 2(0.0) million(0.0) from(0.0) 
+the(0.0) solar(1.0) appliance(0.0) R(0.0) &(0.0) D(0.0) account(0.0) .(0.0) In(0.0) the(0.0) budget(1.0) this(0.0) is(0.0) still(0.0) listed(0.0) by(0.0) its(0.0) old(0.0) name(0.0) ,(0.0) 
+solar(1.0) building(0.0) technology(0.0) research(0.0) .(0.0) So(0.0) first(0.0) let(0.0) us(0.0) talk(0.0) about(0.0) bureaucracy(1.0) .(0.0) The(0.0) Department(0.0) of(0.0) Energy's(0.0) Office(0.0) of(0.0) Energy(0.0) 
+Efficiency(1.0) and(0.0) Renewable(1.0) Energy(0.0) is(0.0) funded(1.0) for(0.0) two(0.0) appropriations(0.0) bills(0.0) ,(0.0) both(0.0) energy(1.0) and(0.0) water(0.0) and(0.0) interior(0.0) .(0.0) All(0.0) together(0.0) 
+,(0.0) program(1.0) direction(0.0) has(0.0) $(0.0) 48(0.0) million(0.0) of(0.0) the(0.0) total(0.0) appropriations(0.0) to(0.0) run(0.0) a(0.0) $(0.0) 700(0.0) million(0.0) program(1.0) .(0.0) By(0.0) 
+comparison(0.0) ,(0.0) energy(1.0) research(0.0) operates(0.0) a(0.0) $(0.0) 1.4(0.0) billion(1.0) program(1.0) with(0.0) only(0.0) $(0.0) 30(0.0) million(0.0) in(0.0) program(1.0) direction(0.0) .(0.0) This(0.0) 
+amendment(1.0) would(1.0) still(0.0) leave(0.0) the(0.0) office(0.0) with(0.0) $(0.0) 43(0.0) million(0.0) for(0.0) this(0.0) purpose(0.0) .(0.0) Why(0.0) is(0.0) this(0.0) number(0.0) inflated(1.0) ,(0.0) 
+one(0.0) might(0.0) ask(0.0) ?(0.0) Well(0.0) ,(0.0) one(0.0) reason(0.0) is(0.0) that(0.0) this(0.0) office(0.0) has(0.0) become(0.0) the(0.0) repository(0.0) for(0.0) the(0.0) Clinton(1.0) reelection(1.0) 
+team(0.0) .(0.0) Since(0.0) 1994(0.0) ,(0.0) the(0.0) political(1.0) appointees(1.0) have(0.0) nearly(0.0) doubled(0.0) from(0.0) 8(0.0) to(0.0) 15(0.0) .(0.0) By(0.0) comparison(0.0) ,(0.0) energy(1.0) 
+research(0.0) ,(0.0) fossil(1.0) energy(1.0) and(0.0) nuclear(1.0) energy(1.0) have(0.0) 4(0.0) apiece(0.0) ,(0.0) 4(0.0) political(1.0) appointees(1.0) apiece(0.0) .(0.0) Let(0.0) us(0.0) put(0.0) these(0.0) 
+people(0.0) back(0.0) on(0.0) the(0.0) campaign(1.0) payroll(1.0) and(0.0) use(0.0) taxpayer(1.0) funds(1.0) for(0.0) solar(1.0) energy(1.0) research(1.0) .(0.0) The(0.0) renewable(1.0) energy(1.0) production(1.0) incentive(1.0) 
+is(0.0) nothing(0.0) more(0.0) than(0.0) a(0.0) handout(0.0) to(0.0) utilities(1.0) and(0.0) ,(0.0) basically(0.0) ,(0.0) we(0.0) are(0.0) trying(0.0) to(0.0) basically(0.0) convince(0.0) them(0.0) to(0.0) 
+use(0.0) alternative(0.0) energy(1.0) sources(0.0) .(0.0) But(0.0) when(0.0) it(0.0) comes(0.0) right(0.0) down(0.0) to(0.0) it(0.0) ,(0.0) what(0.0) we(0.0) are(0.0) talking(0.0) about(0.0) is(0.0) 
+a(0.0) handout(0.0) to(0.0) utilities(1.0) .(0.0) The(0.0) solar(1.0) building(0.0) technologies(0.0) program(1.0) includes(0.0) many(0.0) small(0.0) programs(1.0) ,(0.0) but(0.0) its(0.0) primary(1.0) purpose(0.0) is(0.0) 
+to(0.0) promote(0.0) the(0.0) use(0.0) of(0.0) solar(1.0) hot(0.0) water(1.0) heaters(1.0) .(0.0) This(0.0) is(0.0) a(0.0) pet(0.0) project(0.0) of(0.0) the(0.0) solar(1.0) industry(0.0) lobbying(1.0) 
+group(0.0) ,(0.0) and(0.0) no(0.0) wonder(0.0) it(0.0) is(0.0) .(0.0) The(0.0) Department(0.0) of(0.0) Energy(0.0) basically(0.0) extends(0.0) $(0.0) 1.7(0.0) million(0.0) this(0.0) year(0.0) .(0.0) 
+Basically(0.0) of(0.0) that(0.0) ,(0.0) $(0.0) 265,000(0.0) of(0.0) it(0.0) goes(0.0) to(0.0) the(0.0) Solar(1.0) Energy(1.0) Industries(1.0) Association(0.0) .(0.0) Well(0.0) ,(0.0) Mr.(0.0) Chairman(1.0) 
+,(0.0) every(0.0) dime(1.0) that(0.0) is(0.0) not(0.0) spent(0.0) on(0.0) these(0.0) promotion(0.0) programs(1.0) goes(0.0) to(0.0) research(0.0) programs(1.0) ,(0.0) and(0.0) every(0.0) dime(1.0) 
+
+
+----- below are rationale words -----
+
+Chairman	amendment	addresses	concerns	
+fund	renewable	energy	research	
+funds	
+renewable	
+country	amendment	program	
+restoring	photovoltaic	program	fiscal	1996	money	
+programs	photovoltaic	
+program	renewable	energy	production	incentive	
+solar	budget	
+solar	bureaucracy	
+Efficiency	Renewable	funded	energy	
+program	program	
+energy	billion	program	program	
+amendment	would	inflated	
+Clinton	reelection	
+political	appointees	energy	
+fossil	energy	nuclear	energy	political	appointees	
+campaign	payroll	taxpayer	funds	solar	energy	research	renewable	energy	production	incentive	
+utilities	
+energy	
+utilities	solar	program	programs	primary	
+solar	water	heaters	solar	lobbying	
+
+Solar	Energy	Industries	Chairman	
+dime	programs	programs	dime	
+
+reads % = 0.17

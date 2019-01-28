@@ -1,0 +1,40 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) think(1.0) that(0.0) it(0.0) is(0.0) a(0.0) mark(0.0) of(0.0) achievement(1.0) by(0.0) this(0.0) House(0.0) that(0.0) we(0.0) have(0.0) not(1.0) passed(0.0) the(0.0) 
+package(0.0) that(0.0) was(0.0) initially(0.0) put(0.0) together(0.0) and(0.0) offered(0.0) by(0.0) the(0.0) Committee(0.0) on(0.0) Foreign(0.0) Affairs(0.0) .(0.0) I(1.0) say(1.0) this(0.0) as(0.0) a(0.0) 
+member(0.0) of(0.0) the(0.0) House(0.0) Committee(0.0) on(0.0) Armed(0.0) Services(0.0) which(0.0) unanimously(0.0) endorsed(1.0) a(0.0) number(0.0) of(0.0) changes(1.0) that(0.0) we(0.0) thought(0.0) were(0.0) important(0.0) 
+to(0.0) protect(0.0) American(0.0) security(0.0) .(0.0) Let(1.0) me(0.0) just(1.0) say(1.0) that(0.0) the(0.0) lesson(0.0) of(0.0) the(0.0) gulf(1.0) war(1.0) was(0.0) that(0.0) it(0.0) does(0.0) 
+not(0.0) make(0.0) a(0.0) lot(0.0) of(0.0) sense(0.0) to(0.0) sell(0.0) Winchesters(0.0) to(0.0) the(0.0) hostiles(1.0) ,(0.0) to(0.0) engage(1.0) in(0.0) the(0.0) sale(1.0) of(0.0) technology(0.0) 
+that(0.0) ultimately(1.0) may(0.0) come(0.0) back(0.0) against(0.0) you(0.0) on(0.0) the(0.0) battlefield(1.0) and(0.0) result(0.0) in(0.0) death(1.0) of(0.0) Americans(0.0) .(0.0) Rather(1.0) than(0.0) tightening(1.0) 
+up(0.0) technology(0.0) flow(0.0) ,(0.0) especially(1.0) militarily(1.0) critical(1.0) technology(0.0) ,(0.0) in(0.0) my(0.0) estimation(1.0) ,(0.0) the(0.0) way(1.0) the(0.0) House(0.0) started(0.0) to(0.0) move(0.0) 
+early(0.0) in(0.0) this(0.0) session(0.0) was(0.0) to(0.0) liberalize(1.0) that(0.0) flow(1.0) and(0.0) make(0.0) it(0.0) easier(1.0) for(0.0) some(0.0) of(0.0) the(0.0) rogue(1.0) nations(1.0) in(0.0) 
+the(0.0) Middle(1.0) East(0.0) to(0.0) gain(1.0) high(0.0) technology(0.0) that(0.0) ultimately(1.0) could(0.0) damage(0.0) Americans(0.0) in(0.0) the(0.0) battlefield(1.0) .(0.0) I(0.0) am(1.0) glad(1.0) we(0.0) 
+have(0.0) not(1.0) passed(0.0) the(0.0) package(0.0) that(0.0) was(0.0) initially(0.0) put(0.0) together(0.0) .(0.0) I(0.0) think(1.0) this(0.0) Congress(0.0) should(0.0) go(1.0) back(0.0) and(0.0) make(0.0) 
+some(0.0) real(0.0) evaluations(1.0) with(0.0) such(0.0) smart(1.0) people(0.0) as(0.0) Dick(1.0) Cheney(1.0) ,(0.0) Colin(1.0) Powell(1.0) ,(0.0) and(0.0) others(0.0) who(0.0) understand(0.0) the(0.0) effect(0.0) 
+that(0.0) high(0.0) technology(0.0) play(0.0) in(0.0) wars(1.0) and(0.0) on(0.0) the(0.0) battlefield(0.0) and(0.0) come(0.0) back(0.0) with(0.0) a(0.0) much(0.0) more(0.0) conservative(0.0) bill(0.0) than(0.0) 
+we(0.0) initially(0.0) offered(0.0) this(0.0) year(0.0) .(0.0) I(0.0) thank(1.0) the(0.0) gentlemen(1.0) on(0.0) both(0.0) sides(0.0) of(0.0) the(0.0) aisle(1.0) for(0.0) basically(1.0) extending(0.0) what(1.0) 
+we(0.0) have(0.0) not(1.0) passing(0.0) the(0.0) package(0.0) that(0.0) the(0.0) House(0.0) initially(1.0) was(0.0) putting(0.0) together(0.0) .(0.0) I(0.0) think(1.0) it(0.0) is(0.0) important(0.0) that(0.0) 
+we(0.0) have(0.0) a(0.0) vote(1.0) on(0.0) this(0.0) bill(0.0) incidentally(1.0) on(0.0) the(0.0) extension(1.0) because(0.0) I(0.0) think(1.0) the(0.0) extension(1.0) is(0.0) for(0.0) better(0.0) than(0.0) 
+the(0.0) substitute(1.0) that(0.0) we(0.0) would(0.0) otherwise(1.0) have(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	think	achievement	not	
+I	say	
+endorsed	changes	
+Let	just	say	gulf	war	
+hostiles	engage	sale	
+ultimately	battlefield	death	Rather	tightening	
+especially	militarily	critical	estimation	way	
+liberalize	flow	easier	rogue	nations	
+Middle	gain	ultimately	battlefield	am	glad	
+not	think	go	
+evaluations	smart	Dick	Cheney	Colin	Powell	
+wars	
+thank	gentlemen	aisle	basically	what	
+not	initially	think	
+vote	incidentally	extension	think	extension	
+substitute	otherwise	
+
+reads % = 0.20064724919093851

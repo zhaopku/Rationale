@@ -1,0 +1,24 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) on(0.0) Monday(0.0) the(0.0) House(0.0) will(0.0) meet(0.0) at(0.0) 4(0.0) p.m.(0.0) for(0.0) pro(0.0) forma(0.0) session(0.0) .(0.0) On(0.0) Tuesday(0.0) ,(0.0) the(0.0) 
+House(0.0) will(0.0) meet(0.0) at(0.0) 12:30(0.0) p.m.(0.0) for(0.0) morning-hour(0.0) debate(0.0) and(0.0) 2(0.0) p.m.(0.0) for(0.0) legislative(0.0) business(0.0) .(0.0) On(0.0) Wednesday(0.0) and(0.0) Thursday(0.0) 
+,(0.0) the(0.0) House(0.0) will(0.0) meet(0.0) at(0.0) 10(0.0) a.m.(0.0) for(0.0) legislative(0.0) business(0.0) .(0.0) On(0.0) Friday(0.0) ,(0.0) the(0.0) House(0.0) will(0.0) meet(0.0) at(0.0) 
+9(0.0) a.m.(0.0) for(0.0) legislative(0.0) business(0.0) .(0.0) We(0.0) will(0.0) consider(0.0) several(0.0) bills(0.0) under(0.0) suspension(0.0) of(0.0) the(0.0) rules(0.0) .(0.0) The(0.0) complete(0.0) list(0.0) 
+of(0.0) suspension(0.0) bills(0.0) will(0.0) be(0.0) announced(0.0) by(0.0) the(0.0) close(0.0) of(0.0) business(0.0) tomorrow(0.0) ,(0.0) as(0.0) is(0.0) the(0.0) custom(0.0) .(0.0) In(0.0) addition(0.0) 
+,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) we(0.0) will(0.0) consider(0.0) H.R(0.0) .(0.0) 3548(0.0) ,(0.0) the(0.0) Unemployment(1.0) Compensation(1.0) Act(0.0) of(0.0) 2009(0.0) ;(0.0) H.R(0.0) .(0.0) 
+324(0.0) ,(0.0) the(0.0) Santa(1.0) Cruz(0.0) Valley(0.0) National(0.0) Heritage(0.0) Area(0.0) Act(0.0) ;(0.0) and(0.0) a(0.0) resolution(0.0) which(0.0) will(0.0) make(0.0) continuing(0.0) appropriations(0.0) for(0.0) 
+the(0.0) fiscal(0.0) year(0.0) 2010(0.0) ,(0.0) and(0.0) for(0.0) other(0.0) purposes(0.0) .(0.0) I(0.0) yield(0.0) back(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	
+
+
+
+
+Speaker	Unemployment	Compensation	
+Santa	
+
+
+reads % = 0.03225806451612903

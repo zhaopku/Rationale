@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) would(0.0) say(0.0) to(0.0) the(0.0) gentleman(0.0) that(0.0) we(0.0) say(0.0) ``(0.0) No(0.0) ''(0.0) to(0.0) their(0.0) chicken(0.0) manure(0.0) subsidy(1.0) ,(0.0) and(0.0) 
+we(0.0) say(0.0) ``(0.0) No(0.0) ''(0.0) to(0.0) a(0.0) bill(0.0) that(0.0) jeopardizes(1.0) Social(0.0) Security(0.0) and(0.0) Medicare(1.0) in(0.0) order(0.0) to(0.0) provide(0.0) tax(1.0) breaks(1.0) 
+to(1.0) chicken(1.0) manure(1.0) producers(1.0) and(1.0) many(1.0) other(0.0) special(0.0) interests(0.0) in(0.0) this(0.0) country(1.0) .(0.0) This(0.0) so-called(1.0) $(0.0) 3(0.0) trillion(1.0) surplus(1.0) is(0.0) 
+nothing(0.0) but(0.0) a(0.0) figment(0.0) of(0.0) a(0.0) Republican(0.0) political(1.0) imagination(1.0) .(1.0) $(1.0) 2(1.0) trillion(1.0) of(1.0) this(1.0) amount(1.0) simply(1.0) represents(1.0) the(0.0) money(1.0) 
+that(0.0) hard-working(1.0) Americans(1.0) will(0.0) be(0.0) paying(1.0) into(0.0) Social(1.0) Security(0.0) ,(0.0) and(0.0) that(0.0) $(0.0) 2(0.0) trillion(1.0) ,(0.0) as(0.0) large(0.0) as(0.0) it(0.0) 
+sounds(0.0) ,(0.0) is(0.0) not(0.0) enough(0.0) to(0.0) ensure(0.0) Social(0.0) Security(0.0) will(0.0) be(0.0) there(0.0) for(0.0) future(0.0) generations(0.0) of(0.0) Americans(1.0) .(0.0) Republicans(0.0) do(1.0) 
+not(0.0) provide(0.0) one(0.0) new(0.0) dollar(1.0) to(0.0) help(0.0) Social(1.0) Security(0.0) or(0.0) to(0.0) help(0.0) Medicare(1.0) in(0.0) this(0.0) bill(1.0) .(0.0) The(0.0) other(0.0) trillion(1.0) 
+dollars(1.0) is(0.0) funny(0.0) money(1.0) .(0.0) The(0.0) Republicans(1.0) have(1.0) already(1.0) consumed(1.0) all(1.0) of(1.0) this(1.0) funny(1.0) money(1.0) ,(1.0) this(1.0) projected(1.0) surplus(1.0) for(1.0) 
+next(1.0) year(1.0) with(0.0) the(1.0) bills(1.0) that(0.0) they(0.0) have(0.0) under(0.0) consideration(1.0) in(0.0) this(0.0) Congress(0.0) .(0.0) That(0.0) $(0.0) 1(0.0) trillion(1.0) is(0.0) as(0.0) 
+unreliable(0.0) as(0.0) a(0.0) 10-year(0.0) weather(0.0) forecast(0.0) .(0.0) But(0.0) what(0.0) I(0.0) really(0.0) object(0.0) to(0.0) is(0.0) plucking(0.0) Social(0.0) Security(0.0) and(0.0) Medicare(1.0) clean(0.0) 
+in(0.0) order(0.0) to(0.0) provide(0.0) tax(1.0) breaks(1.0) for(1.0) most(1.0) every(1.0) special(1.0) interest(1.0) with(0.0) a(0.0) PAC(0.0) and(0.0) a(0.0) lobbyist(1.0) .(0.0) This(0.0) is(0.0) 
+wrong(0.0) .(0.0) Reject(0.0) this(0.0) bill(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+subsidy	
+jeopardizes	Medicare	tax	breaks	
+to	chicken	manure	producers	and	many	country	so-called	trillion	surplus	
+political	imagination	.	$	2	trillion	of	this	amount	simply	represents	money	
+hard-working	Americans	paying	Social	trillion	
+Americans	do	
+dollar	Social	Medicare	bill	trillion	
+dollars	money	Republicans	have	already	consumed	all	of	this	funny	money	,	this	projected	surplus	for	
+next	year	the	bills	consideration	trillion	
+Medicare	
+tax	breaks	for	most	every	special	interest	lobbyist	
+bill	
+
+reads % = 0.31277533039647576

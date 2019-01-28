@@ -1,0 +1,24 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) the(0.0) Collins(1.0) amendment(1.0) .(0.0) The(0.0) way(0.0) the(0.0) bill(1.0) is(0.0) currently(0.0) written(0.0) it(0.0) would(0.0) restrict(1.0) 
+true(0.0) competition(0.0) and(0.0) would(0.0) allow(0.0) agency(0.0) bureaucrats(1.0) to(0.0) limit(1.0) small(0.0) businesses(1.0) from(0.0) competing(0.0) on(0.0) Government(1.0) contracts(1.0) .(0.0) I(0.0) would(0.0) also(0.0) 
+like(0.0) to(0.0) point(0.0) out(0.0) to(0.0) the(0.0) rest(0.0) of(0.0) my(0.0) colleagues(0.0) that(0.0) a(0.0) similar(0.0) amendment(1.0) was(0.0) passed(0.0) as(0.0) part(0.0) of(0.0) the(0.0) 
+DOD(0.0) Authorization(0.0) Act(0.0) of(0.0) 1996(0.0) by(0.0) an(0.0) overwhelming(0.0) margin(1.0) .(0.0) The(0.0) Collins(1.0) amendment(1.0) is(0.0) pro(0.0) small(0.0) business(0.0) and(0.0) is(0.0) supported(0.0) 
+by(0.0) the(0.0) U.S.(0.0) Chamber(0.0) of(0.0) Commerce(0.0) ,(0.0) the(0.0) Small(0.0) Business(0.0) Working(0.0) Group(0.0) ,(0.0) and(0.0) the(0.0) Small(0.0) Business(0.0) Administration(0.0) .(0.0) The(0.0) 
+Collins(1.0) amendment(1.0) would(0.0) retain(0.0) the(0.0) current(0.0) practice(0.0) of(0.0) allowing(0.0) all(0.0) businesses(1.0) to(0.0) compete(0.0) for(0.0) government(1.0) procurement(1.0) contracts(1.0) under(0.0) full(0.0) and(0.0) 
+open(0.0) competition(0.0) .(0.0) I(0.0) ask(0.0) my(0.0) fellow(0.0) colleagues(0.0) to(0.0) support(0.0) the(0.0) Collins(1.0) amendment(1.0) and(0.0) allow(0.0) for(0.0) fair(1.0) and(0.0) open(0.0) competition(0.0) 
+of(0.0) all(0.0) business(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Collins	amendment	bill	restrict	
+bureaucrats	limit	businesses	Government	contracts	
+amendment	
+margin	Collins	amendment	
+
+Collins	amendment	businesses	government	procurement	contracts	
+Collins	amendment	fair	
+
+
+reads % = 0.15172413793103448

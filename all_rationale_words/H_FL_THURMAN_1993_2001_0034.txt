@@ -1,0 +1,20 @@
+This is from a Democrat
+----- below is the original text -----
+One(0.0) of(0.0) the(0.0) things(0.0) that(0.0) they(0.0) do(0.0) not(0.0) want(0.0) to(0.0) do(0.0) is(0.0) they(0.0) do(0.0) not(0.0) want(0.0) to(0.0) be(0.0) in(0.0) the(0.0) position(0.0) 
+of(0.0) taking(0.0) over(0.0) the(0.0) Medicare(1.0) program(1.0) .(0.0) They(0.0) already(0.0) are(0.0) involved(0.0) in(0.0) the(0.0) Medicaid(1.0) program(1.0) ,(0.0) plus(0.0) whatever(0.0) programs(1.0) they(0.0) 
+have(0.0) within(0.0) their(0.0) own(0.0) States(0.0) ,(0.0) and(0.0) they(0.0) do(0.0) not(0.0) want(0.0) this(0.0) responsibility(0.0) .(0.0) Then(0.0) they(0.0) have(0.0) to(0.0) pick(0.0) and(0.0) 
+choose(0.0) .(0.0) They(0.0) have(0.0) to(0.0) make(0.0) that(0.0) determination(0.0) .(0.0) Quite(0.0) frankly(0.0) ,(0.0) that(0.0) is(0.0) a(0.0) very(0.0) bipartisan(1.0) group(0.0) of(0.0) folks(0.0) 
+out(0.0) there(0.0) .(0.0) That(0.0) is(0.0) Democrats(0.0) ,(0.0) Republicans(0.0) ,(1.0) Independents(1.0) ,(1.0) making(1.0) that(1.0) decision(1.0) not(1.0) to(1.0) have(1.0) the(1.0) Federal(1.0) Government(1.0) 
+abrogate(1.0) to(1.0) the(1.0) States(1.0) our(0.0) responsibility(1.0) which(0.0) is(0.0) Medicare(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Medicare	program	Medicaid	program	programs	
+
+bipartisan	
+,	Independents	,	making	that	decision	not	to	have	the	Federal	Government	
+abrogate	to	the	States	responsibility	Medicare	
+
+reads % = 0.21621621621621623

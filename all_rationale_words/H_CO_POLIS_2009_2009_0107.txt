@@ -1,0 +1,20 @@
+This is from a Democrat
+----- below is the original text -----
+Let(0.0) me(0.0) also(0.0) add(0.0) how(0.0) important(0.0) it(0.0) is(0.0) that(0.0) the(0.0) rest(0.0) of(0.0) our(0.0) agenda(1.0) ,(0.0) the(0.0) Recovery(1.0) Act(0.0) ,(0.0) health(1.0) care(1.0) 
+have(0.0) passed(0.0) so(0.0) that(0.0) our(0.0) returning(0.0) veterans(1.0) are(0.0) returning(0.0) to(0.0) an(0.0) economy(1.0) that(0.0) 's(0.0) growing(0.0) ,(0.0) that(0.0) has(0.0) jobs(0.0) ,(0.0) 
+that(0.0) has(0.0) health(1.0) care(1.0) if(0.0) they(0.0) were(0.0) not(0.0) injured(0.0) in(0.0) combat(1.0) .(0.0) They(0.0) deal(0.0) with(0.0) the(0.0) very(0.0) real(0.0) issue(0.0) of(0.0) 
+health(1.0) care(1.0) sometimes(0.0) for(0.0) the(0.0) first(0.0) time(0.0) in(0.0) their(0.0) lives(0.0) ,(0.0) if(0.0) they(0.0) 've(0.0) been(0.0) in(0.0) the(0.0) military(1.0) for(0.0) some(0.0) 
+period(0.0) of(0.0) time(0.0) right(0.0) out(0.0) of(0.0) college(1.0) or(0.0) even(0.0) before(0.0) college(1.0) ,(0.0) and(0.0) the(0.0) importance(0.0) of(0.0) the(0.0) Recovery(1.0) Act(0.0) ,(0.0) 
+creating(0.0) over(0.0) 3(0.0) million(0.0) jobs(1.0) ,(0.0) hopefully(0.0) many(0.0) of(0.0) which(0.0) will(0.0) go(0.0) to(0.0) our(0.0) returning(0.0) veterans(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+agenda	Recovery	health	care	
+veterans	economy	
+health	care	combat	
+health	care	military	
+college	college	Recovery	
+jobs	veterans	
+
+reads % = 0.1440677966101695

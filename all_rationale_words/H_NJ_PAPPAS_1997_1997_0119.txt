@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) we(0.0) frequently(0.0) hear(0.0) that(0.0) liberal(1.0) and(0.0) conservative(0.0) are(1.0) nothing(1.0) but(1.0) labels(1.0) ,(1.0) but(1.0) Mr.(0.0) Speaker(1.0) ,(0.0) it(0.0) is(0.0) a(0.0) 
+question(0.0) of(0.0) vision(0.0) contrasting(0.0) between(0.0) the(0.0) liberal(1.0) vision(1.0) and(0.0) the(0.0) conservative(1.0) vision(1.0) for(1.0) America(1.0) .(0.0) Just(0.0) a(0.0) few(0.0) days(0.0) ago(0.0) 
+while(0.0) campaigning(1.0) in(0.0) Alexandria(1.0) ,(0.0) VA(1.0) ,(0.0) President(0.0) Clinton(1.0) called(0.0) the(0.0) voters(1.0) who(0.0) support(0.0) tax(1.0) relief(1.0) selfish(0.0) .(0.0) Well(0.0) ,(0.0) 
+Mr.(0.0) Speaker(1.0) ,(0.0) yesterday(0.0) all(0.0) throughout(0.0) this(0.0) country(1.0) ,(0.0) in(0.0) particular(0.0) I(0.0) would(0.0) like(0.0) to(0.0) point(0.0) out(0.0) in(0.0) the(0.0) 13th(0.0) 
+district(0.0) of(0.0) New(1.0) York(1.0) ,(0.0) a(0.0) district(0.0) where(0.0) Vito(0.0) Fossella(1.0) was(0.0) elected(1.0) to(0.0) replace(0.0) Susan(0.0) Molinari(1.0) in(0.0) the(0.0) House(0.0) of(0.0) 
+Representatives(0.0) ,(0.0) a(0.0) district(0.0) that(0.0) the(0.0) Democrats(1.0) said(1.0) would(0.0) be(0.0) a(0.0) bellwether(0.0) test(0.0) for(0.0) what(0.0) is(0.0) to(0.0) happen(0.0) in(0.0) 1998(0.0) 
+in(0.0) the(0.0) House(0.0) elections(1.0) .(0.0) Mr.(0.0) Fossella(1.0) was(0.0) overwhelmingly(1.0) elected(0.0) by(0.0) over(0.0) 60(0.0) percent(0.0) and(0.0) we(0.0) are(0.0) fortunate(0.0) to(0.0) have(0.0) 
+him(0.0) join(0.0) this(0.0) House(0.0) this(0.0) morning(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) selfishness(1.0) is(0.0) not(0.0) an(0.0) effort(0.0) to(0.0) keep(0.0) more(0.0) of(0.0) what(0.0) 
+Americans(1.0) earn(0.0) ,(0.0) it(0.0) is(0.0) the(0.0) right(0.0) thing(0.0) to(0.0) do(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+liberal	are	nothing	but	labels	,	but	Speaker	
+liberal	vision	conservative	vision	for	America	
+campaigning	Alexandria	VA	Clinton	voters	tax	relief	
+Speaker	country	
+New	York	Fossella	elected	Molinari	
+Democrats	said	
+elections	Fossella	overwhelmingly	
+Speaker	selfishness	
+Americans	
+
+reads % = 0.20930232558139536

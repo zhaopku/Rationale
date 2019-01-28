@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+6099(1.0) ,(0.0) the(0.0) Unborn(1.0) Child(1.0) Pain(1.0) Awareness(1.0) Act(0.0) .(0.0) H.R(0.0) .(0.0) 6099(0.0) is(0.0) another(0.0) heavy-handed(1.0) attempt(0.0) by(0.0) the(0.0) majority(1.0) to(0.0) intrude(0.0) 
+into(0.0) the(0.0) doctor-patient(1.0) relationship(0.0) .(0.0) This(0.0) legislation(1.0) would(1.0) proscribe(1.0) a(0.0) consent(0.0) form(0.0) that(0.0) states(1.0) as(0.0) medical(0.0) fact(0.0) unsubstantiated(1.0) studies(0.0) which(0.0) 
+have(0.0) no(0.0) consensus(0.0) in(0.0) the(0.0) medical(0.0) community(0.0) .(0.0) This(0.0) legislation(1.0) is(0.0) meant(0.0) to(0.0) further(0.0) undermine(1.0) the(0.0) U.S.(0.0) Supreme(0.0) Court(0.0) 's(0.0) 
+Roe(0.0) vs.(0.0) Wade(1.0) decision(0.0) regarding(0.0) a(0.0) woman(0.0) 's(0.0) right(0.0) to(0.0) privacy(0.0) and(0.0) her(0.0) ability(0.0) to(0.0) make(0.0) personal(0.0) medical(0.0) decisions(0.0) .(0.0) 
+Once(0.0) again(0.0) ,(0.0) instead(0.0) of(0.0) allowing(0.0) a(0.0) controversial(0.0) bill(1.0) such(1.0) as(0.0) this(0.0) one(0.0) full(0.0) and(0.0) clear(0.0) debate(1.0) ,(0.0) the(0.0) House(0.0) 
+leadership(1.0) is(0.0) trying(0.0) to(0.0) sneak(0.0) one(0.0) by(0.0) the(0.0) American(0.0) people(0.0) on(0.0) one(0.0) of(0.0) the(0.0) last(0.0) days(0.0) of(0.0) a(0.0) lame-duck(1.0) session(0.0) 
+in(0.0) a(0.0) desperate(0.0) attempt(0.0) to(0.0) score(0.0) political(1.0) points(0.0) with(0.0) those(0.0) factions(0.0) who(0.0) wish(0.0) to(0.0) deprive(1.0) women(1.0) of(0.0) their(0.0) rights(1.0) .(0.0) 
+And(0.0) by(0.0) putting(0.0) it(0.0) on(0.0) the(0.0) Suspension(0.0) Calendar(0.0) ,(0.0) they(0.0) have(0.0) denied(1.0) Members(0.0) the(0.0) opportunity(0.0) to(0.0) offer(0.0) substantive(1.0) amendments(1.0) on(0.0) 
+these(0.0) important(0.0) issues(0.0) .(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) vote(1.0) against(0.0) this(0.0) legislation(1.0) so(0.0) that(0.0) we(0.0) may(0.0) consider(0.0) it(0.0) ,(0.0) 
+as(0.0) well(0.0) as(0.0) substantive(1.0) amendments(1.0) that(0.0) could(0.0) improve(0.0) it(0.0) ,(0.0) in(0.0) the(0.0) 110th(1.0) Congress(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Unborn	Child	Pain	Awareness	heavy-handed	majority	
+doctor-patient	legislation	would	proscribe	states	unsubstantiated	
+legislation	undermine	
+Wade	
+bill	such	debate	
+leadership	lame-duck	
+political	deprive	women	rights	
+denied	substantive	amendments	
+vote	legislation	
+substantive	amendments	110th	
+
+reads % = 0.16326530612244897

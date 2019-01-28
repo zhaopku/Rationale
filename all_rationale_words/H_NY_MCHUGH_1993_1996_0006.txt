@@ -1,0 +1,40 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) am(0.0) pleased(0.0) to(0.0) report(0.0) that(0.0) the(0.0) legislation(1.0) before(0.0) us(0.0) ,(0.0) H.R(0.0) .(0.0) 885(0.0) ,(0.0) was(0.0) approved(0.0) unanimously(0.0) 
+by(0.0) the(0.0) Committee(0.0) on(0.0) Government(0.0) Reform(0.0) and(0.0) Oversight(0.0) .(0.0) This(0.0) legislation(0.0) ,(0.0) designating(1.0) the(0.0) U.S.(0.0) Post(0.0) Office(0.0) Building(0.0) located(0.0) at(0.0) 
+153(0.0) East(0.0) 110th(0.0) Street(0.0) ,(0.0) New(0.0) York(1.0) ,(0.0) NY(1.0) as(0.0) the(0.0) ``(0.0) Oscar(0.0) Garcia(0.0) Rivera(1.0) Post(1.0) Office(0.0) Building(0.0) ,(0.0) ''(0.0) 
+was(0.0) introduced(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) York(1.0) ,(0.0) [(0.0) Mr.(0.0) Serrano(1.0) ](0.0) ,(0.0) and(0.0) was(0.0) cosponsored(0.0) by(0.0) his(0.0) full(0.0) 
+State(0.0) delegation(0.0) ,(0.0) as(0.0) required(0.0) by(0.0) committee(0.0) policy(0.0) .(0.0) H.R(0.0) .(0.0) 885(0.0) honors(0.0) the(0.0) first(0.0) Puerto(0.0) Rican(1.0) to(0.0) be(0.0) elected(0.0) 
+to(0.0) public(0.0) office(0.0) in(0.0) the(0.0) continental(0.0) United(0.0) States(0.0) .(0.0) Oscar(0.0) Garcia(1.0) Rivera(1.0) was(0.0) born(0.0) in(0.0) Mayaguez(1.0) ,(0.0) Puerto(1.0) Rico(1.0) on(0.0) 
+November(0.0) 6(0.0) ,(0.0) 1900(0.0) .(0.0) He(0.0) came(0.0) to(0.0) the(0.0) mainland(0.0) after(0.0) graduating(0.0) from(0.0) high(0.0) school(0.0) and(0.0) worked(0.0) part(0.0) time(0.0) in(0.0) 
+a(0.0) Brooklyn(0.0) factory(0.0) .(0.0) He(0.0) pursued(0.0) his(0.0) studies(0.0) while(0.0) working(0.0) and(0.0) was(0.0) assigned(0.0) to(0.0) the(0.0) post(0.0) office(0.0) in(0.0) City(1.0) Hall(0.0) 
+.(0.0) He(0.0) was(0.0) instrumental(0.0) in(0.0) organizing(0.0) and(0.0) establishing(0.0) the(0.0) Association(0.0) of(0.0) Puerto(1.0) Rican(1.0) and(0.0) Hispanic(0.0) Employees(1.0) within(0.0) the(0.0) post(0.0) office(0.0) 
+department(0.0) .(0.0) Mr.(0.0) Garcia(1.0) Rivera(1.0) received(0.0) his(0.0) law(0.0) degree(0.0) from(0.0) St.(1.0) John(0.0) 's(0.0) University(0.0) ,(0.0) New(0.0) York(1.0) in(0.0) 1930(0.0) and(0.0) 
+was(0.0) elected(0.0) assemblyman(1.0) in(0.0) the(0.0) State(0.0) of(0.0) New(1.0) York(1.0) in(0.0) March(0.0) 1937(0.0) by(0.0) the(0.0) 14th(0.0) District(0.0) ,(0.0) which(0.0) then(0.0) included(0.0) 
+Harlem(1.0) .(0.0) He(0.0) was(0.0) reelected(0.0) the(0.0) following(0.0) year(0.0) and(0.0) served(0.0) until(0.0) 1940(0.0) .(0.0) Soon(0.0) thereafter(0.0) ,(0.0) Mr.(0.0) Garcia(1.0) Rivera(1.0) returned(0.0) 
+to(0.0) Mayaguez(0.0) where(0.0) he(0.0) continued(0.0) to(0.0) be(0.0) known(0.0) for(0.0) his(0.0) commitment(0.0) to(0.0) protecting(0.0) the(0.0) rights(1.0) of(0.0) manual(0.0) laborers(1.0) and(0.0) remained(0.0) 
+a(0.0) role(0.0) model(0.0) and(0.0) a(0.0) community(0.0) leader(0.0) .(0.0) He(0.0) dies(0.0) in(0.0) his(0.0) hometown(0.0) in(0.0) 1969(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) 
+support(0.0) the(0.0) passage(1.0) of(0.0) H.R(0.0) .(0.0) 885(0.0) and(0.0) urge(0.0) our(0.0) colleagues(0.0) to(0.0) do(0.0) the(0.0) same(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) 
+reserve(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	legislation	
+designating	
+York	NY	Rivera	Post	
+York	Serrano	
+Rican	
+Garcia	Rivera	Mayaguez	Puerto	Rico	
+
+City	
+Puerto	Rican	Employees	
+Garcia	Rivera	St.	York	
+assemblyman	New	York	
+Harlem	Garcia	Rivera	
+rights	laborers	
+Speaker	
+passage	Speaker	
+
+
+reads % = 0.11038961038961038

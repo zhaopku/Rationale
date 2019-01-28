@@ -1,0 +1,18 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) these(0.0) reforms(1.0) are(0.0) essential(0.0) and(0.0) we(0.0) should(0.0) all(0.0) insist(1.0) upon(0.0) them(0.0) as(0.0) our(0.0) responsibility(0.0) to(0.0) the(0.0) U.S.(0.0) taxpayer(1.0) ,(0.0) 
+and(0.0) the(0.0) Congress(0.0) has(0.0) gone(0.0) along(0.0) with(0.0) our(0.0) recommendations(0.0) for(0.0) the(0.0) last(0.0) several(0.0) years(0.0) .(0.0) The(0.0) gentleman(0.0) 's(0.0) amendment(1.0) would(1.0) 
+give(0.0) an(0.0) unauthorized(1.0) $(0.0) 244(0.0) million(0.0) to(0.0) the(0.0) U.N.(1.0) ,(0.0) and(0.0) send(0.0) the(0.0) signal(0.0) to(0.0) the(0.0) U.N.(1.0) and(0.0) the(0.0) rest(0.0) 
+of(0.0) the(0.0) world(0.0) that(0.0) we(0.0) are(0.0) no(0.0) longer(0.0) committed(0.0) to(0.0) reform(1.0) .(0.0) That(0.0) is(0.0) exactly(0.0) the(0.0) wrong(0.0) message(0.0) that(0.0) we(0.0) 
+should(0.0) be(0.0) sending(0.0) .(0.0) I(0.0) urge(0.0) rejection(1.0) of(0.0) the(0.0) gentleman(0.0) 's(0.0) amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+reforms	insist	taxpayer	
+amendment	would	
+unauthorized	U.N.	U.N.	
+reform	
+rejection	amendment	
+
+reads % = 0.11702127659574468

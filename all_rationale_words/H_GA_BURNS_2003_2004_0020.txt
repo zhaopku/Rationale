@@ -1,0 +1,40 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) to(0.0) recognize(0.0) the(0.0) guest(0.0) chaplain(0.0) for(0.0) today(0.0) .(0.0) The(0.0) Reverend(0.0) Pete(0.0) Wall(1.0) is(0.0) the(0.0) pastor(0.0) of(0.0) Jackson(0.0) 
+Baptist(1.0) Church(0.0) in(0.0) rural(1.0) Screven(0.0) County(1.0) ,(0.0) Georgia(1.0) .(0.0) It(0.0) is(0.0) my(0.0) home(0.0) church(0.0) in(0.0) my(0.0) home(0.0) community(0.0) .(0.0) It(0.0) 
+was(0.0) the(0.0) church(1.0) of(0.0) my(0.0) father(0.0) and(0.0) my(0.0) grandfather(0.0) .(0.0) It(0.0) is(0.0) just(0.0) across(0.0) the(0.0) road(0.0) from(0.0) our(0.0) family(0.0) farm(0.0) 
+.(0.0) As(0.0) my(0.0) colleagues(0.0) might(0.0) imagine(0.0) ,(0.0) this(0.0) church(1.0) and(0.0) the(0.0) community(0.0) that(0.0) surrounds(0.0) it(0.0) has(0.0) been(0.0) a(0.0) guiding(0.0) force(0.0) 
+in(0.0) my(0.0) life(0.0) and(0.0) is(0.0) dear(0.0) to(0.0) my(0.0) heart(0.0) .(0.0) We(0.0) rarely(0.0) call(0.0) him(0.0) ``(0.0) Reverend(0.0) ''(0.0) at(0.0) home(0.0) .(0.0) 
+It(0.0) is(0.0) just(0.0) ``(0.0) Brother(0.0) Pete(0.0) .(0.0) ''(0.0) Pete(0.0) Wall(1.0) is(0.0) a(0.0) shepherd(0.0) ,(0.0) both(0.0) literally(0.0) and(0.0) figuratively(0.0) .(0.0) He(0.0) 
+is(0.0) widely(0.0) known(0.0) for(0.0) his(0.0) knowledge(0.0) of(0.0) livestock(0.0) ,(0.0) especially(0.0) sheep(0.0) .(0.0) But(0.0) he(0.0) is(0.0) more(0.0) widely(0.0) known(0.0) and(0.0) loved(0.0) 
+for(0.0) his(0.0) ministry(0.0) to(0.0) others(0.0) .(0.0) Pete(0.0) has(0.0) a(0.0) shepherd(0.0) 's(0.0) heart(0.0) .(0.0) He(0.0) cares(0.0) for(0.0) his(0.0) flock(0.0) .(0.0) His(0.0) 
+homespun(1.0) wisdom(0.0) and(0.0) amazing(0.0) storytelling(0.0) ability(0.0) easily(0.0) wins(0.0) friends(0.0) and(0.0) disarms(1.0) those(0.0) who(0.0) might(0.0) be(0.0) put(0.0) off(0.0) by(0.0) a(0.0) more(0.0) 
+formal(0.0) religion(1.0) or(0.0) a(0.0) typical(0.0) preacher(0.0) .(0.0) He(0.0) has(0.0) a(0.0) deep(0.0) and(0.0) abiding(1.0) faith(0.0) in(0.0) Jesus(0.0) Christ(0.0) ,(0.0) and(0.0) he(0.0) 
+lives(0.0) it(0.0) every(0.0) day(0.0) .(0.0) Pete(0.0) readily(0.0) shares(0.0) his(0.0) faith(0.0) with(0.0) those(0.0) who(0.0) wish(0.0) to(0.0) learn(0.0) about(0.0) a(0.0) Christ-centered(1.0) life(0.0) 
+,(0.0) yet(0.0) he(0.0) never(0.0) forces(0.0) his(0.0) views(0.0) on(0.0) others(0.0) .(0.0) Pete(0.0) has(0.0) been(0.0) a(0.0) blessing(0.0) to(0.0) our(0.0) church(1.0) and(0.0) our(0.0) 
+community(0.0) for(0.0) 7(0.0) years(0.0) .(0.0) It(0.0) has(0.0) been(0.0) a(0.0) great(0.0) joy(0.0) in(0.0) my(0.0) life(0.0) to(0.0) know(0.0) him(0.0) ,(0.0) his(0.0) wife(0.0) 
+,(0.0) Gina(0.0) ,(0.0) and(0.0) their(0.0) family(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) it(0.0) is(0.0) a(0.0) great(0.0) honor(0.0) and(0.0) privilege(1.0) to(0.0) have(0.0) the(0.0) 
+Reverend(0.0) Pete(0.0) Wall(1.0) as(0.0) our(0.0) guest(0.0) chaplain(0.0) today(0.0) .(0.0) He(0.0) is(0.0) my(0.0) pastor(0.0) ,(0.0) he(0.0) is(0.0) my(0.0) friend(0.0) ,(0.0) but(0.0) 
+most(0.0) importantly(0.0) he(0.0) is(0.0) my(0.0) brother(0.0) in(0.0) Christ(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Wall	
+Baptist	rural	County	Georgia	
+church	
+church	
+
+Wall	
+
+
+homespun	disarms	
+religion	abiding	
+Christ-centered	
+church	
+
+Speaker	privilege	
+Wall	
+
+
+reads % = 0.054838709677419356

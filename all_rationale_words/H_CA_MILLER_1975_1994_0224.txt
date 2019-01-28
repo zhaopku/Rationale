@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) ask(0.0) unanimous(1.0) consent(0.0) that(0.0) all(0.0) Members(0.0) may(0.0) have(0.0) 5(0.0) legislative(0.0) days(0.0) in(0.0) which(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) their(0.0) 
+remarks(0.0) on(0.0) H.R(0.0) .(0.0) 1690(0.0) ,(0.0) the(0.0) bill(0.0) presently(1.0) under(0.0) consideration(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+unanimous	
+presently	
+
+reads % = 0.06060606060606061

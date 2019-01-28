@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) for(0.0) purposes(0.0) of(0.0) debate(1.0) only(0.0) ,(0.0) I(0.0) yield(0.0) the(0.0) customary(0.0) 30(0.0) minutes(0.0) to(0.0) the(0.0) distinguished(0.0) gentleman(0.0) from(0.0) Ohio(1.0) [(0.0) 
+Mr.(0.0) Hall(1.0) ](0.0) ,(0.0) pending(0.0) which(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) During(0.0) consideration(0.0) of(0.0) the(0.0) 
+resolution(1.0) ,(0.0) all(0.0) time(0.0) yielded(0.0) is(0.0) for(0.0) purposes(0.0) of(0.0) debate(1.0) only(0.0) .(0.0) ((0.0) Mr.(0.0) HASTINGS(1.0) of(0.0) Washington(1.0) asked(0.0) and(0.0) was(0.0) 
+given(0.0) permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) )(0.0) Speaker(0.0) ,(0.0) House(0.0) Resolution(1.0) 283(0.0) is(0.0) a(0.0) structured(0.0) rule(0.0) providing(0.0) 
+for(0.0) the(0.0) consideration(0.0) of(0.0) H.R(0.0) .(0.0) 1270(0.0) ,(0.0) the(0.0) Nuclear(0.0) Waste(0.0) Policy(0.0) Act(0.0) of(0.0) 1997(0.0) .(0.0) The(0.0) rule(0.0) provides(0.0) for(0.0) 
+1(0.0) hour(0.0) of(0.0) general(0.0) debate(0.0) equally(0.0) divided(0.0) between(0.0) the(0.0) chairman(0.0) and(0.0) ranking(0.0) member(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Commerce(0.0) ,(0.0) as(0.0) 
+well(0.0) as(0.0) 20(0.0) minutes(0.0) of(0.0) debate(0.0) equally(0.0) divided(0.0) between(0.0) the(0.0) chairman(0.0) and(0.0) ranking(0.0) member(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Resources(0.0) .(0.0) 
+The(0.0) rule(0.0) makes(0.0) in(0.0) order(0.0) a(0.0) committee(0.0) amendment(0.0) in(0.0) the(0.0) nature(0.0) of(0.0) a(0.0) substitute(0.0) as(0.0) the(0.0) base(0.0) text(0.0) ,(0.0) and(0.0) 
+waives(0.0) Congressional(0.0) Budget(1.0) Act(0.0) requirements(0.0) that(0.0) the(0.0) Committee(0.0) on(0.0) the(0.0) Budget(0.0) report(0.0) provisions(0.0) within(0.0) its(0.0) jurisdiction(0.0) .(0.0) The(0.0) rule(0.0) also(0.0) 
+waives(0.0) House(0.0) rules(0.0) prohibiting(0.0) appropriations(0.0) in(0.0) an(0.0) authorization(0.0) measure(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) this(0.0) rule(1.0) makes(0.0) in(0.0) order(0.0) 10(0.0) amendments(1.0) 
+,(0.0) debatable(1.0) in(0.0) the(0.0) order(0.0) listed(0.0) and(0.0) for(0.0) the(0.0) amount(0.0) of(0.0) time(0.0) specified(0.0) in(0.0) the(0.0) Committee(0.0) on(0.0) Rules(0.0) report(0.0) .(0.0) 
+The(0.0) rule(0.0) further(0.0) specifies(0.0) that(0.0) time(0.0) for(0.0) debate(1.0) on(0.0) each(0.0) amendment(1.0) shall(0.0) be(0.0) equally(0.0) divided(0.0) and(0.0) controlled(0.0) by(0.0) a(0.0) proponent(1.0) 
+and(0.0) an(0.0) opponent(0.0) ,(0.0) and(0.0) that(0.0) amendments(1.0) shall(0.0) not(0.0) be(0.0) subject(0.0) to(0.0) further(0.0) amendment(1.0) ,(0.0) and(0.0) shall(0.0) not(0.0) be(0.0) subject(0.0) 
+for(0.0) a(0.0) demand(0.0) for(0.0) a(0.0) division(0.0) of(0.0) the(0.0) question(0.0) in(0.0) the(0.0) House(0.0) or(0.0) in(0.0) the(0.0) Committee(0.0) of(0.0) the(0.0) Whole(0.0) .(0.0) 
+Furthermore(0.0) ,(0.0) the(0.0) rule(1.0) waives(0.0) all(0.0) points(0.0) of(0.0) order(0.0) against(0.0) the(0.0) amendment(1.0) in(0.0) the(0.0) nature(0.0) of(0.0) a(0.0) substitute(0.0) offered(0.0) by(0.0) 
+the(0.0) gentlewoman(0.0) from(0.0) California(0.0) [(0.0) Ms.(1.0) Millender-MCDonald(0.0) ](0.0) .(0.0) Under(0.0) the(0.0) rule(0.0) ,(0.0) the(0.0) chairman(0.0) of(0.0) the(0.0) Committee(0.0) of(0.0) the(0.0) 
+Whole(0.0) may(0.0) postpone(0.0) votes(0.0) and(0.0) reduce(0.0) the(0.0) voting(0.0) time(0.0) on(0.0) a(0.0) postponed(0.0) vote(0.0) to(0.0) 5(0.0) minutes(0.0) ,(0.0) provided(0.0) it(0.0) follows(0.0) 
+a(0.0) regular(0.0) 15-minute(0.0) vote(0.0) .(0.0) In(0.0) addition(0.0) ,(0.0) the(0.0) rule(0.0) provides(0.0) that(0.0) after(0.0) a(0.0) motion(0.0) that(0.0) the(0.0) Committee(0.0) rise(0.0) has(0.0) 
+been(0.0) rejected(0.0) on(0.0) a(0.0) day(0.0) ,(0.0) the(0.0) Chairman(0.0) may(0.0) entertain(0.0) another(0.0) such(0.0) motion(0.0) on(0.0) that(0.0) day(0.0) only(0.0) if(0.0) offered(0.0) by(0.0) 
+the(0.0) majority(0.0) leader(0.0) or(0.0) his(0.0) designee(0.0) .(0.0) The(0.0) rule(0.0) also(0.0) provides(0.0) that(0.0) after(0.0) a(0.0) motion(0.0) to(0.0) strike(0.0) the(0.0) enacting(0.0) words(0.0) 
+of(0.0) the(0.0) bill(0.0) has(0.0) been(0.0) rejected(0.0) ,(0.0) the(0.0) Chairman(0.0) may(0.0) not(0.0) entertain(0.0) another(0.0) such(0.0) motion(0.0) during(0.0) further(0.0) consideration(0.0) of(0.0) the(0.0) 
+bill(0.0) .(0.0) Finally(0.0) ,(0.0) the(0.0) rule(1.0) provides(0.0) for(0.0) one(0.0) motion(0.0) to(0.0) recommit(1.0) with(0.0) or(0.0) without(0.0) instructions(0.0) .(0.0) After(0.0) passage(1.0) of(0.0) 
+H.R(0.0) .(0.0) 1270(0.0) ,(0.0) the(0.0) rule(1.0) provides(0.0) for(0.0) the(0.0) consideration(0.0) of(0.0) a(0.0) motion(0.0) to(0.0) call(0.0) up(0.0) S.(0.0) 104(0.0) ,(0.0) the(0.0) 
+Senate(0.0) version(0.0) of(0.0) the(0.0) bill(0.0) ,(0.0) strike(0.0) all(0.0) after(0.0) the(0.0) enacting(0.0) clause(1.0) ,(0.0) and(0.0) insert(0.0) the(0.0) text(0.0) of(0.0) the(0.0) House-passed(1.0) 
+version(0.0) of(0.0) H.R(0.0) .(0.0) 1270(0.0) .(0.0) After(0.0) adoption(0.0) of(0.0) the(0.0) motion(0.0) ,(0.0) the(0.0) rule(0.0) makes(0.0) in(0.0) order(0.0) a(0.0) motion(0.0) 
+
+
+----- below are rationale words -----
+
+debate	Ohio	
+Hall	
+resolution	debate	HASTINGS	Washington	
+Resolution	
+
+
+
+
+Budget	
+Speaker	rule	amendments	
+debatable	
+debate	amendment	proponent	
+amendments	amendment	
+
+rule	amendment	
+Ms.	
+
+
+
+
+
+rule	recommit	passage	
+rule	
+clause	House-passed	
+
+
+reads % = 0.054

@@ -1,0 +1,48 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) rise(1.0) today(1.0) in(0.0) strong(0.0) support(0.0) of(0.0) House(0.0) Resolution(0.0) 1058(1.0) ,(0.0) which(0.0) honors(0.0) the(0.0) 10th(1.0) anniversary(1.0) of(0.0) Sojourn(1.0) 
+to(0.0) the(0.0) Past(0.0) ,(0.0) an(0.0) educational(0.0) program(0.0) dedicated(1.0) to(0.0) developing(1.0) students(0.0) '(0.0) appreciation(1.0) for(0.0) an(0.0) understanding(0.0) of(0.0) the(0.0) Civil(1.0) Rights(1.0) 
+Movement(1.0) .(0.0) The(0.0) Civil(1.0) Rights(1.0) Movement(1.0) transformed(1.0) the(0.0) United(0.0) States(0.0) of(0.0) America(0.0) ,(0.0) ensuring(0.0) legal(0.0) equality(1.0) and(0.0) civil(1.0) rights(1.0) for(0.0) 
+all(0.0) people(0.0) in(0.0) our(0.0) country(1.0) regardless(0.0) of(0.0) race(1.0) or(0.0) ethnicity(1.0) .(0.0) Educator(1.0) Jeff(1.0) Steinberg(1.0) understood(0.0) the(0.0) importance(1.0) of(0.0) teaching(1.0) the(0.0) 
+meaning(0.0) of(0.0) the(0.0) civil(1.0) rights(1.0) movement(0.0) when(0.0) ,(0.0) 11(0.0) years(0.0) ago(1.0) ,(0.0) he(0.0) decided(1.0) to(0.0) lead(0.0) a(0.0) school(0.0) trip(0.0) to(0.0) 
+several(0.0) civil(1.0) rights(1.0) landmarks(1.0) .(0.0) That(0.0) field(0.0) trip(0.0) quickly(0.0) grew(0.0) into(0.0) its(0.0) own(0.0) education(1.0) and(0.0) outreach(1.0) program(0.0) ,(0.0) engaging(0.0) approximately(0.0) 
+100(0.0) high(0.0) school(0.0) students(0.0) in(0.0) three(0.0) trips(0.0) each(0.0) year(0.0) through(0.0) visits(0.0) to(0.0) historical(0.0) sites(1.0) and(0.0) discussions(0.0) with(0.0) prominent(1.0) veteran(1.0) leaders(1.0) 
+of(0.0) the(0.0) civil(1.0) rights(1.0) era(1.0) .(0.0) The(0.0) students(0.0) visit(0.0) five(0.0) States(0.0) and(0.0) landmarks(1.0) ,(0.0) including(1.0) the(0.0) Edmund(0.0) Pettus(1.0) Bridge(1.0) ;(0.0) 
+the(0.0) site(0.0) of(0.0) the(0.0) Bloody(1.0) Sunday(1.0) march(0.0) of(0.0) 1965(0.0) ,(0.0) in(0.0) Selma(1.0) ,(0.0) Alabama(1.0) ;(0.0) Central(1.0) High(0.0) School(0.0) in(0.0) Little(0.0) 
+Rock(1.0) ,(0.0) Arkansas(0.0) ;(0.0) and(0.0) the(0.0) National(0.0) Civil(1.0) Rights(1.0) Museum(0.0) in(0.0) Memphis(1.0) ,(0.0) Tennessee(1.0) .(0.0) More(0.0) than(0.0) 10(0.0) years(0.0) later(0.0) 
+,(0.0) Sojourn(1.0) to(0.0) the(0.0) Past(0.0) has(0.0) its(0.0) own(0.0) rich(0.0) history(0.0) ,(0.0) inspiring(0.0) students(0.0) to(0.0) become(0.0) civic(1.0) leaders(1.0) for(0.0) the(0.0) 21st(1.0) 
+century(1.0) with(0.0) a(0.0) base(0.0) of(0.0) awareness(0.0) of(0.0) the(0.0) importance(1.0) of(0.0) the(0.0) civil(1.0) rights(1.0) movement(0.0) of(0.0) the(0.0) 20th(0.0) century(1.0) .(1.0) Newfound(1.0) 
+knowledge(0.0) and(0.0) personal(1.0) understanding(0.0) of(0.0) the(0.0) civil(1.0) rights(1.0) movement(0.0) ,(0.0) these(0.0) sojourners(1.0) ,(0.0) these(0.0) high(0.0) school(0.0) students(0.0) ,(0.0) reflect(1.0) on(0.0) 
+how(0.0) they(0.0) can(0.0) fight(0.0) to(0.0) end(0.0) discrimination(1.0) ,(0.0) bigotry(1.0) ,(0.0) and(0.0) inequality(1.0) in(0.0) their(0.0) own(0.0) schools(1.0) and(0.0) their(0.0) own(0.0) communities(0.0) 
+.(0.0) Today(0.0) ,(0.0) more(0.0) than(0.0) 5,000(1.0) high(0.0) school(0.0) juniors(0.0) and(0.0) seniors(0.0) have(0.0) learned(0.0) these(0.0) lessons(1.0) through(0.0) participation(0.0) in(0.0) Sojourn(1.0) to(0.0) 
+the(0.0) Past(0.0) .(0.0) Just(1.0) like(0.0) civil(1.0) rights(1.0) leaders(0.0) before(0.0) them(0.0) ,(0.0) these(1.0) students(0.0) will(0.0) take(0.0) responsibility(0.0) for(0.0) ending(0.0) discrimination(1.0) and(0.0) 
+promoting(0.0) equality(1.0) for(0.0) all(0.0) Americans(0.0) moving(1.0) forward(0.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) I(0.0) would(1.0) like(0.0) to(0.0) thank(0.0) a(0.0) great(0.0) civil(1.0) rights(1.0) 
+leader(1.0) ,(0.0) who(0.0) I(0.0) am(0.0) deeply(1.0) honored(0.0) to(0.0) serve(0.0) with(0.0) in(0.0) the(0.0) House(0.0) of(0.0) Representatives(0.0) ,(0.0) Representative(1.0) John(1.0) Lewis(1.0) ,(0.0) 
+for(0.0) introducing(0.0) this(0.0) important(0.0) resolution(0.0) and(0.0) serving(0.0) on(0.0) the(0.0) Sojourn(1.0) National(0.0) Advisory(0.0) Committee(0.0) .(0.0) I(0.0) reserve(1.0) the(0.0) balance(0.0) of(0.0) my(0.0) 
+time(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+rise	today	1058	10th	anniversary	Sojourn	
+dedicated	developing	appreciation	Civil	Rights	
+Movement	Civil	Rights	Movement	transformed	equality	civil	rights	
+country	race	ethnicity	Educator	Jeff	Steinberg	importance	teaching	
+civil	rights	ago	decided	
+civil	rights	landmarks	education	outreach	
+sites	prominent	veteran	leaders	
+civil	rights	era	landmarks	including	Pettus	Bridge	
+Bloody	Sunday	Selma	Alabama	Central	
+Rock	Civil	Rights	Memphis	Tennessee	
+Sojourn	civic	leaders	21st	
+century	importance	civil	rights	century	.	Newfound	
+personal	civil	rights	sojourners	reflect	
+discrimination	bigotry	inequality	schools	
+5,000	lessons	Sojourn	
+Just	civil	rights	these	discrimination	
+equality	moving	Speaker	would	civil	rights	
+leader	deeply	Representative	John	Lewis	
+Sojourn	reserve	
+time	
+
+reads % = 0.2584856396866841

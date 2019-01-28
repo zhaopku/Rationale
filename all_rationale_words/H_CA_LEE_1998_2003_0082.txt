@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) strike(1.0) the(0.0) requisite(0.0) number(0.0) of(0.0) words(0.0) .(0.0) I(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) the(0.0) Kucinich(1.0) amendment(1.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+strike	Kucinich	amendment	
+
+
+reads % = 0.14285714285714285

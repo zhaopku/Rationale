@@ -1,0 +1,44 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) think(1.0) one(0.0) thing(0.0) we(0.0) agree(1.0) on(0.0) is(0.0) that(0.0) what(1.0) we(0.0) want(1.0) is(0.0) the(0.0) best(0.0) deal(1.0) for(0.0) the(0.0) 
+taxpayer(1.0) ,(0.0) and(0.0) the(0.0) way(1.0) to(0.0) get(0.0) the(0.0) best(0.0) deal(1.0) for(0.0) the(0.0) taxpayer(1.0) is(0.0) to(0.0) have(0.0) a(0.0) fair(1.0) competition(0.0) process(1.0) 
+between(0.0) the(0.0) Federal(1.0) employees(1.0) and(0.0) between(0.0) private(0.0) contractors(1.0) who(0.0) are(0.0) competing(1.0) for(0.0) that(0.0) .(0.0) That(0.0) is(0.0) how(0.0) we(0.0) get(0.0) the(0.0) 
+best(0.0) deal(1.0) .(0.0) What(0.0) this(0.0) new(0.0) circular(0.0) does(0.0) is(0.0) tips(0.0) the(0.0) playing(0.0) field(0.0) in(0.0) favor(1.0) of(0.0) private(0.0) contractors(1.0) .(0.0) That(0.0) 
+is(0.0) the(0.0) only(0.0) way(1.0) the(0.0) association(0.0) of(0.0) private(0.0) contractors(1.0) would(0.0) be(0.0) able(0.0) to(0.0) predict(0.0) in(0.0) advance(1.0) now(0.0) before(1.0) any(1.0) of(0.0) 
+the(0.0) bids(1.0) have(0.0) been(0.0) placed(0.0) that(0.0) Federal(1.0) employees(1.0) will(0.0) only(0.0) win(0.0) 10(0.0) percent(1.0) of(0.0) the(0.0) contracts(1.0) in(0.0) the(0.0) future(0.0) ,(0.0) 
+in(0.0) contrast(1.0) to(0.0) about(0.0) 60(0.0) percent(1.0) now(0.0) .(0.0) I(0.0) outlined(1.0) a(0.0) specific(1.0) series(0.0) of(0.0) fatally(1.0) flawed(0.0) problems(0.0) with(0.0) the(0.0) new(1.0) 
+circular(0.0) .(0.0) I(0.0) have(0.0) not(1.0) heard(0.0) any(1.0) response(0.0) to(0.0) any(1.0) of(0.0) them(0.0) .(0.0) One(1.0) ,(0.0) Federal(1.0) employees(1.0) are(0.0) not(1.0) given(0.0) 
+the(0.0) opportunity(0.0) to(0.0) come(0.0) forward(0.0) with(0.0) their(0.0) best(0.0) bids(1.0) ;(0.0) two(0.0) ,(0.0) we(1.0) are(0.0) not(0.0) guaranteed(0.0) any(1.0) savings(1.0) under(0.0) the(0.0) 
+new(1.0) process(0.0) ,(0.0) although(1.0) we(0.0) were(0.0) under(0.0) the(0.0) other(0.0) process(0.0) ;(0.0) three(0.0) ,(0.0) artificially(1.0) inflated(0.0) overhead(1.0) costs(1.0) in(0.0) Federal(1.0) employee(1.0) 
+bids(1.0) that(0.0) put(0.0) them(0.0) at(0.0) a(0.0) disadvantage(1.0) .(0.0) Many(0.0) other(0.0) problems(0.0) ,(0.0) unfairness(1.0) with(0.0) regard(1.0) to(0.0) health(1.0) benefits(1.0) .(0.0) Those(1.0) 
+are(0.0) all(0.0) problems(0.0) .(0.0) I(0.0) represent(1.0) many(0.0) Federal(1.0) employees(1.0) ,(0.0) and(0.0) I(0.0) know(1.0) that(0.0) the(0.0) organization(1.0) that(0.0) represents(1.0) Federal(1.0) employees(1.0) 
+,(0.0) the(0.0) American(0.0) Federal(1.0) Government(1.0) Employees(1.0) Group(0.0) ,(0.0) is(0.0) against(0.0) this(0.0) new(0.0) circular(0.0) .(0.0) They(0.0) speak(0.0) for(0.0) their(0.0) fellow(0.0) Federal(1.0) 
+employees(1.0) .(0.0) This(0.0) is(0.0) a(0.0) bad(0.0) idea(0.0) ,(0.0) and(0.0) all(0.0) we(0.0) are(0.0) asking(0.0) in(0.0) this(0.0) amendment(1.0) ,(0.0) not(1.0) to(0.0) get(0.0) 
+rid(0.0) of(0.0) the(0.0) process(1.0) .(0.0) The(0.0) idea(0.0) of(0.0) having(0.0) a(0.0) competitive(0.0) process(1.0) is(0.0) a(0.0) good(0.0) one(0.0) .(0.0) It(0.0) is(0.0) good(0.0) 
+for(0.0) the(0.0) taxpayers(1.0) ,(0.0) and(0.0) when(0.0) it(0.0) is(0.0) done(0.0) fairly(0.0) ,(0.0) it(0.0) is(0.0) good(0.0) for(0.0) everybody(0.0) .(0.0) Let(1.0) us(0.0) go(0.0) 
+back(0.0) to(0.0) May(0.0) 29(0.0) .(0.0) It(0.0) still(0.0) had(0.0) problems(0.0) but(0.0) this(0.0) does(0.0) not(0.0) fix(0.0) it(0.0) .(0.0) This(0.0) makes(0.0) it(0.0) worse(1.0) 
+.(0.0) I(0.0) urge(1.0) my(0.0) colleagues(1.0) to(0.0) vote(1.0) in(0.0) favor(1.0) of(0.0) this(0.0) amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	think	agree	what	want	deal	
+taxpayer	way	deal	taxpayer	fair	process	
+Federal	employees	contractors	competing	
+deal	favor	contractors	
+way	contractors	advance	before	any	
+bids	Federal	employees	percent	contracts	
+contrast	percent	outlined	specific	fatally	new	
+not	any	any	One	Federal	employees	not	
+bids	we	any	savings	
+new	although	artificially	overhead	costs	Federal	employee	
+bids	disadvantage	unfairness	regard	health	benefits	Those	
+represent	Federal	employees	know	organization	represents	Federal	employees	
+Federal	Government	Employees	Federal	
+employees	amendment	not	
+process	process	
+taxpayers	Let	
+worse	
+urge	colleagues	vote	favor	amendment	
+
+reads % = 0.2401129943502825

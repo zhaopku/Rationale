@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) will(0.0) the(0.0) gentleman(0.0) yield(0.0) ?(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) it(0.0) says(0.0) in(0.0) the(0.0) resolution(1.0) that(0.0) the(0.0) countries(1.0) are(0.0) not(0.0) abiding(1.0) 
+by(0.0) the(0.0) letter(0.0) of(0.0) international(0.0) trade(0.0) agreements(1.0) .(0.0) In(0.0) the(0.0) gentleman(0.0) 's(0.0) opinion(0.0) ,(0.0) should(0.0) we(0.0) allow(0.0) these(0.0) countries(1.0) to(0.0) 
+violate(1.0) ,(0.0) that(0.0) is(0.0) an(0.0) operative(0.0) word(0.0) ,(0.0) violate(1.0) ,(0.0) international(0.0) trade(1.0) agreements(1.0) ?(0.0) Do(0.0) not(0.0) we(0.0) have(0.0) a(0.0) problem(0.0) 
+with(0.0) these(0.0) countries(1.0) who(0.0) are(0.0) violating(1.0) trade(1.0) agreements(1.0) and(0.0) dumping(1.0) into(0.0) our(0.0) markets(1.0) ?(0.0) Should(0.0) they(0.0) not(0.0) be(0.0) enforced(1.0) ?(0.0) 
+Should(0.0) they(0.0) not(0.0) be(0.0) required(0.0) to(0.0) meet(0.0) the(0.0) law(1.0) ?(0.0) Speaker(0.0) ,(0.0) if(0.0) the(0.0) gentleman(0.0) will(0.0) continue(0.0) to(0.0) yield(0.0) ,(0.0) 
+maybe(0.0) we(0.0) should(0.0) broaden(0.0) this(0.0) to(0.0) take(0.0) in(0.0) some(0.0) of(0.0) the(0.0) other(0.0) illegal(1.0) and(0.0) dumped(0.0) imports(1.0) into(0.0) our(0.0) markets(1.0) .(0.0) 
+I(0.0) think(0.0) the(0.0) only(0.0) thing(0.0) ,(0.0) I(0.0) think(0.0) the(0.0) gentleman(0.0) would(0.0) agree(0.0) that(0.0) if(0.0) we(0.0) are(0.0) going(0.0) to(0.0) have(0.0) trade(1.0) 
+agreements(1.0) and(0.0) they(0.0) are(0.0) going(0.0) to(0.0) mean(0.0) anything(0.0) ,(0.0) they(0.0) should(0.0) be(0.0) respected(0.0) by(0.0) our(0.0) trading(0.0) partners(0.0) and(0.0) they(0.0) should(0.0) 
+not(0.0) be(0.0) allowed(0.0) to(0.0) violate(1.0) them(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	resolution	countries	abiding	
+agreements	countries	
+violate	violate	trade	agreements	
+countries	violating	trade	agreements	dumping	markets	enforced	
+law	
+illegal	imports	markets	
+trade	
+agreements	
+violate	
+
+reads % = 0.14285714285714285

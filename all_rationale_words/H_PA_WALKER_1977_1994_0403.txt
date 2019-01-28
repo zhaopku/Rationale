@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Since(0.0) the(0.0) words(0.0) were(0.0) offensive(0.0) ,(0.0) all(0.0) they(0.0) have(0.0) to(0.0) do(0.0) is(0.0) be(0.0) withdrawn(0.0) by(0.0) unanimous(1.0) consent(0.0) ,(0.0) and(0.0) I(0.0) doubt(0.0) 
+anybody(0.0) would(0.0) object(0.0) to(0.0) that(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+unanimous	
+
+
+reads % = 0.037037037037037035

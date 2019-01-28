@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+My(0.0) second(0.0) question(0.0) is(0.0) :(0.0) The(0.0) earmarks(1.0) for(0.0) these(0.0) two(0.0) bills(1.0) ,(0.0) Homeland(1.0) Security(0.0) and(0.0) Military(0.0) Construction/Quality(0.0) of(0.0) Life(0.0) ,(0.0) when(0.0) 
+might(0.0) we(0.0) expect(0.0) to(0.0) see(0.0) those(0.0) or(0.0) deal(0.0) with(0.0) those(0.0) before(0.0) the(0.0) House(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+earmarks	bills	Homeland	
+
+
+reads % = 0.08571428571428572

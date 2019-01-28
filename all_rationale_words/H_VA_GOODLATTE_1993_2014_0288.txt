@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) it(0.0) has(0.0) been(0.0) said(0.0) repeatedly(0.0) that(0.0) we(0.0) need(0.0) to(0.0) do(0.0) immigration(1.0) reform(1.0) ,(0.0) and(0.0) I(0.0) certainly(0.0) do(0.0) n't(0.0) 
+disagree(0.0) with(0.0) that(0.0) ,(0.0) but(0.0) the(0.0) United(0.0) States(0.0) Constitution(1.0) says(0.0) that(0.0) immigration(1.0) reform(1.0) must(0.0) be(0.0) done(0.0) by(0.0) the(0.0) United(0.0) States(0.0) 
+Congress(0.0) ,(0.0) and(0.0) the(0.0) President(1.0) does(0.0) n't(0.0) say(0.0) ,(0.0) nor(0.0) does(0.0) the(0.0) Constitution(1.0) say(0.0) ,(0.0) ``(0.0) Hey(0.0) ,(0.0) if(0.0) the(0.0) 
+Congress(0.0) does(0.0) n't(0.0) do(0.0) it(0.0) or(0.0) does(0.0) n't(0.0) do(0.0) it(0.0) the(0.0) way(0.0) I(0.0) like(0.0) it(0.0) ,(0.0) then(0.0) I(0.0) get(0.0) the(0.0) 
+opportunity(0.0) to(0.0) do(0.0) it(0.0) myself(0.0) .(0.0) ''(0.0) That(0.0) is(0.0) not(0.0) what(0.0) the(0.0) Constitution(1.0) says(0.0) .(0.0) It(0.0) says(0.0) the(0.0) President(1.0) shall(0.0) 
+faithfully(0.0) execute(0.0) the(0.0) laws(1.0) .(0.0) Now(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) York(1.0) ,(0.0) in(0.0) talking(0.0) about(0.0) the(0.0) impact(0.0) of(0.0) the(0.0) 
+President(1.0) 's(0.0) executive(0.0) action(0.0) here(0.0) says(0.0) ,(0.0) ``(0.0) Oh(0.0) ,(0.0) the(0.0) people(0.0) who(0.0) are(0.0) here(0.0) illegally(1.0) and(0.0) are(0.0) taking(0.0) jobs(0.0) 
+,(0.0) they(0.0) are(0.0) taking(0.0) jobs(0.0) that(0.0) Americans(1.0) do(0.0) n't(0.0) want(0.0) .(0.0) ''(0.0) Well(0.0) ,(0.0) maybe(0.0) there(0.0) is(0.0) some(0.0) truth(0.0) to(0.0) 
+that(0.0) ,(0.0) maybe(0.0) some(0.0) of(0.0) them(0.0) are(0.0) not(0.0) ,(0.0) but(0.0) the(0.0) fact(0.0) of(0.0) the(0.0) matter(0.0) is(0.0) the(0.0) President(1.0) has(0.0) unilaterally(0.0) 
+taken(0.0) an(0.0) executive(0.0) order(0.0) that(0.0) would(0.0) give(0.0) every(0.0) single(0.0) one(0.0) of(0.0) the(0.0) 4(0.0) million(0.0) to(0.0) 5(0.0) million(0.0) undocumented(1.0) people(0.0) in(0.0) 
+the(0.0) United(0.0) States(0.0) who(0.0) take(0.0) jobs(0.0) ,(0.0) to(0.0) take(0.0) any(0.0) job(0.0) in(0.0) the(0.0) country(1.0) they(0.0) want(0.0) to(0.0) ,(0.0) as(0.0) good(0.0) 
+a(0.0) job(0.0) ,(0.0) as(0.0) high-paying(1.0) a(0.0) job(0.0) as(0.0) they(0.0) want(0.0) .(0.0) So(0.0) ,(0.0) yes(0.0) ,(0.0) we(0.0) need(0.0) to(0.0) do(0.0) immigration(1.0) 
+reform(1.0) .(0.0) The(0.0) American(0.0) people(0.0) want(0.0) us(0.0) to(0.0) do(0.0) immigration(1.0) reform(1.0) ,(0.0) but(0.0) they(0.0) want(0.0) us(0.0) to(0.0) start(0.0) with(0.0) enforcement(1.0) 
+first(0.0) .(0.0) Instead(0.0) ,(0.0) what(0.0) the(0.0) President(1.0) has(0.0) done(0.0) ,(0.0) he(0.0) has(0.0) taken(0.0) the(0.0) law(1.0) into(0.0) his(0.0) own(0.0) hands(0.0) .(0.0) 
+That(0.0) is(0.0) the(0.0) real(0.0) issue(0.0) in(0.0) this(0.0) case(0.0) and(0.0) the(0.0) real(0.0) matter(0.0) before(0.0) the(0.0) Congress(0.0) and(0.0) the(0.0) real(0.0) import(0.0) of(0.0) 
+this(0.0) legislation(1.0) .(0.0) It(0.0) is(0.0) not(0.0) about(0.0) where(0.0) you(0.0) are(0.0) on(0.0) immigration(1.0) reform(1.0) ;(0.0) it(0.0) is(0.0) about(0.0) where(0.0) you(0.0) are(0.0) 
+on(0.0) protecting(1.0) the(0.0) United(0.0) States(0.0) Constitution(1.0) .(0.0) Because(0.0) this(0.0) President's(0.0) actions(0.0) are(0.0) unprecedented(1.0) ;(0.0) this(0.0) President(1.0) 's(0.0) actions(0.0) are(0.0) beyond(0.0) 
+the(0.0) pale(0.0) ;(0.0) this(0.0) President(1.0) 's(0.0) actions(0.0) are(0.0) unconstitutional(1.0) .(0.0) This(0.0) legislation(1.0) offered(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) Florida(0.0) ((0.0) Mr.(0.0) 
+Yoho(1.0) )(0.0) stops(1.0) that(1.0) .(0.0) That(0.0) is(0.0) why(0.0) every(0.0) Member(0.0) of(0.0) the(0.0) House(0.0) should(0.0) support(0.0) this(0.0) good(0.0) legislation(0.0) and(0.0) make(0.0) 
+sure(0.0) that(0.0) we(0.0) preserve(1.0) what(0.0) we(0.0) are(0.0) sworn(0.0) under(0.0) an(0.0) oath(0.0) to(0.0) preserve(0.0) ,(0.0) and(0.0) that(0.0) is(0.0) the(0.0) Constitution(1.0) of(0.0) 
+the(0.0) United(0.0) States(0.0) .(0.0) Ladies(1.0) and(0.0) gentlemen(0.0) ,(0.0) I(0.0) urge(0.0) adoption(1.0) of(0.0) this(0.0) legislation(1.0) ,(0.0) and(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) 
+balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) Ms.(0.0) ROYBAL-ALLARD(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) rise(0.0) in(0.0) strong(0.0) opposition(1.0) to(0.0) H.R(0.0) .(0.0) 5759(0.0) 
+.(0.0) Almost(0.0) three(0.0) quarters(0.0) of(0.0) all(0.0) undocumented(1.0) immigrants(1.0) in(0.0) America(1.0) are(0.0) women(1.0) and(0.0) children(0.0) .(0.0) Before(0.0) President(0.0) Obama(1.0) took(0.0) action(0.0) 
+to(0.0) adjust(0.0) the(0.0) status(0.0) of(0.0) certain(0.0) long-term(0.0) U.S.(0.0) residents(0.0) ,(0.0) these(0.0) women(1.0) were(0.0) trapped(0.0) in(0.0) the(0.0) shadows(0.0) .(0.0) They(0.0) lived(0.0) 
+in(0.0) fear(1.0) of(0.0) being(0.0) deported(1.0) and(0.0) permanently(0.0) separated(0.0) from(0.0) their(0.0) kids(0.0) .(0.0) Many(0.0) remained(0.0) in(0.0) violent(1.0) relationships(0.0) because(0.0) their(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	immigration	reform	
+Constitution	immigration	reform	
+President	Constitution	
+
+Constitution	President	
+laws	York	
+President	illegally	
+Americans	
+President	
+undocumented	
+country	
+high-paying	immigration	
+reform	immigration	reform	enforcement	
+President	law	
+
+legislation	immigration	reform	
+protecting	Constitution	unprecedented	President	
+President	unconstitutional	legislation	
+Yoho	stops	that	
+preserve	Constitution	
+Ladies	adoption	legislation	
+Speaker	opposition	
+undocumented	immigrants	America	women	Obama	
+women	
+fear	deported	violent	
+
+reads % = 0.11

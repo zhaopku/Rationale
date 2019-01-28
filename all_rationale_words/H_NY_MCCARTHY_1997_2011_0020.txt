@@ -1,0 +1,44 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) opposition(1.0) to(0.0) the(0.0) rule(1.0) for(0.0) H.R(0.0) .(0.0) 822(0.0) .(0.0) As(0.0) you(0.0) know(0.0) ,(0.0) this(0.0) 
+committee(0.0) voted(1.0) down(0.0) a(0.0) motion(0.0) to(0.0) consider(0.0) the(0.0) bill(1.0) under(0.0) an(0.0) open(0.0) rule(1.0) .(0.0) This(0.0) is(0.0) such(0.0) an(0.0) important(0.0) issue(0.0) 
+that(0.0) we(0.0) really(0.0) need(0.0) to(0.0) have(0.0) the(0.0) entire(0.0) Nation(1.0) hear(0.0) about(0.0) it(0.0) and(0.0) have(0.0) all(0.0) of(0.0) us(0.0) have(0.0) our(0.0) voices(1.0) 
+heard(0.0) .(0.0) I(0.0) want(0.0) to(0.0) make(0.0) sure(0.0) that(0.0) I(0.0) get(0.0) to(0.0) speak(0.0) on(0.0) an(0.0) amendment(1.0) of(0.0) mine(0.0) that(0.0) is(0.0) going(0.0) 
+to(0.0) be(0.0) considered(0.0) .(0.0) Under(0.0) my(0.0) amendment(1.0) ,(0.0) States(1.0) would(0.0) be(0.0) required(0.0) to(0.0) proactively(0.0) opt-in(1.0) to(0.0) the(0.0) agreements(1.0) called(0.0) for(0.0) 
+by(0.0) H.R(0.0) .(0.0) 822(0.0) .(0.0) This(0.0) would(0.0) restore(0.0) the(0.0) critical(0.0) decision(0.0) of(0.0) who(0.0) should(0.0) be(0.0) able(0.0) to(0.0) carry(0.0) a(0.0) concealed(0.0) 
+handgun(0.0) in(0.0) our(0.0) communities(1.0) back(0.0) to(0.0) where(0.0) it(0.0) belongs(0.0) --(0.0) to(0.0) the(0.0) local(0.0) governments(0.0) that(0.0) have(0.0) to(0.0) deal(0.0) with(0.0) the(0.0) 
+policing(1.0) and(0.0) other(0.0) consequences(1.0) such(0.0) as(0.0) this(0.0) provision(1.0) will(0.0) do(0.0) .(0.0) We(0.0) also(0.0) will(0.0) hear(0.0) about(0.0) other(0.0) amendments(1.0) that(0.0) would(0.0) 
+restore(0.0) rights(1.0) back(0.0) to(0.0) States(0.0) and(0.0) safety(0.0) back(0.0) to(0.0) our(0.0) communities(1.0) and(0.0) some(0.0) sanity(1.0) back(0.0) into(0.0) this(0.0) debate(1.0) .(0.0) Madam(0.0) 
+Speaker(1.0) ,(0.0) I(0.0) think(0.0) it(0.0) 's(0.0) extremely(0.0) important(0.0) that(0.0) we(0.0) look(0.0) at(0.0) this(0.0) as(0.0) a(0.0) States(0.0) '(0.0) rights(1.0) issue(0.0) .(0.0) 
+My(0.0) State(1.0) has(0.0) concealed(0.0) weapons(0.0) laws(1.0) .(0.0) We(0.0) allow(0.0) people(0.0) to(0.0) have(0.0) concealed(0.0) weapons(1.0) .(0.0) But(0.0) there(0.0) are(0.0) other(0.0) States(0.0) 
+that(0.0) do(0.0) not(0.0) come(0.0) up(0.0) to(0.0) our(0.0) standard(0.0) ,(0.0) and(0.0) we(0.0) do(0.0) n't(0.0) want(0.0) them(0.0) coming(0.0) into(0.0) our(0.0) State(1.0) and(0.0) 
+telling(0.0) us(0.0) what(0.0) to(0.0) do(0.0) .(0.0) I(0.0) suggest(0.0) that(0.0) we(0.0) really(0.0) look(0.0) at(0.0) this(0.0) very(0.0) carefully(0.0) ,(0.0) and(0.0) hopefully(0.0) my(0.0) 
+colleagues(0.0) will(0.0) definitely(0.0) vote(1.0) for(0.0) my(0.0) amendment(1.0) tomorrow(0.0) when(0.0) it(0.0) comes(0.0) up(0.0) .(0.0) We(0.0) can(0.0) deal(0.0) with(0.0) this(0.0) .(0.0) The(0.0) 
+Supreme(1.0) Court(0.0) has(0.0) said(0.0) people(0.0) have(0.0) the(0.0) right(0.0) to(0.0) own(0.0) a(0.0) gun(0.0) .(0.0) They(0.0) also(0.0) said(0.0) localities(1.0) have(0.0) the(0.0) right(0.0) 
+to(0.0) make(0.0) the(0.0) laws(1.0) safe(0.0) for(0.0) their(0.0) constituents(1.0) .(0.0) I(0.0) happen(0.0) to(0.0) believe(0.0) that(0.0) H.R(0.0) .(0.0) 822(0.0) and(0.0) the(0.0) way(0.0) 
+this(0.0) rule(1.0) is(0.0) written(0.0) is(0.0) not(0.0) good(0.0) for(0.0) the(0.0) United(0.0) States(0.0) of(0.0) America(0.0) ,(0.0) it(0.0) 's(0.0) not(0.0) good(0.0) for(0.0) the(0.0) 
+people(0.0) of(0.0) America(1.0) ,(0.0) and(0.0) I(0.0) know(0.0) it(0.0) 's(0.0) not(0.0) good(0.0) for(0.0) my(0.0) State(1.0) of(0.0) New(1.0) York(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+opposition	rule	
+voted	bill	rule	
+Nation	voices	
+amendment	
+amendment	States	opt-in	agreements	
+
+communities	
+policing	consequences	provision	amendments	
+rights	communities	sanity	debate	
+Speaker	rights	
+State	laws	weapons	
+State	
+
+vote	amendment	
+Supreme	localities	
+laws	constituents	
+rule	
+America	State	New	York	
+
+reads % = 0.10584958217270195

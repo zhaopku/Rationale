@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+The(0.0) House(0.0) committee(0.0) 's(0.0) report(0.0) states(0.0) that(0.0) major(0.0) ballistic(0.0) missile(0.0) defense(1.0) programs(0.0) such(0.0) as(0.0) Navy(1.0) theater-wide(0.0) are(0.0) not(0.0) adequately(0.0) funded(0.0) throughout(0.0) 
+the(0.0) future(0.0) years(0.0) '(0.0) defense(0.0) program(1.0) to(0.0) achieve(0.0) timely(0.0) operational(0.0) capability(0.0) .(0.0) The(0.0) committee(0.0) places(0.0) a(0.0) high(0.0) priority(0.0) on(0.0) the(0.0) 
+ballistic(0.0) missile(0.0) defense(0.0) program(0.0) and(0.0) urges(1.0) the(0.0) Department(0.0) of(0.0) Defense(0.0) to(0.0) commit(0.0) the(0.0) funds(0.0) necessary(0.0) to(0.0) achieving(0.0) timely(0.0) deployment(0.0) of(0.0) 
+systems(0.0) that(0.0) will(0.0) defeat(1.0) current(0.0) and(0.0) future(0.0) ballistic(0.0) missile(1.0) defense(1.0) threats(0.0) .(0.0) The(0.0) committee(0.0) also(0.0) notes(0.0) that(0.0) the(0.0) interim(0.0) report(0.0) 
+on(0.0) the(0.0) surface(0.0) Navy(0.0) radar(0.0) road(0.0) map(0.0) study(0.0) recently(0.0) submitted(0.0) to(0.0) the(0.0) Congress(0.0) states(0.0) that(0.0) a(0.0) series(0.0) of(0.0) time-phased(0.0) radar(0.0) 
+development(0.0) decisions(0.0) must(0.0) be(0.0) made(0.0) to(0.0) support(0.0) varying(0.0) surface(0.0) ship(0.0) acquisitions(0.0) ,(0.0) including(0.0) requirements(0.0) for(0.0) SPY-1(1.0) radar(0.0) upgrades(0.0) for(0.0) the(0.0) 
+near-term(1.0) Navy(0.0) theater-wide(0.0) Block(0.0) I(0.0) and(0.0) investment(0.0) in(0.0) technologies(0.0) for(0.0) mid-(0.0) and(0.0) long-term(0.0) needs(0.0) for(0.0) Navy(1.0) theater-wide(0.0) Block(0.0) II(0.0) .(0.0) 
+The(0.0) committee(0.0) report(0.0) states(0.0) that(0.0) a(0.0) clearly(0.0) defined(0.0) and(0.0) funded(1.0) radar(0.0) road(0.0) map(0.0) is(0.0) necessary(0.0) to(0.0) ensure(0.0) the(0.0) necessary(0.0) upgrade(0.0) 
+to(0.0) Legacy(0.0) radar(0.0) systems(0.0) and(0.0) the(0.0) development(0.0) of(0.0) new(0.0) radar(0.0) systems(0.0) and(0.0) also(0.0) states(0.0) that(0.0) the(0.0) expectation(0.0) of(0.0) the(0.0) Navy(1.0) 
+'s(0.0) approved(0.0) radar(0.0) program(0.0) will(0.0) be(0.0) incorporated(0.0) in(0.0) the(0.0) fiscal(0.0) year(0.0) 2002(1.0) budget(1.0) requirement(0.0) .(0.0) Having(0.0) said(0.0) that(0.0) ,(0.0) I(0.0) 
+will(0.0) be(0.0) happy(0.0) to(0.0) work(0.0) with(0.0) the(0.0) gentleman(0.0) during(0.0) the(0.0) defense(1.0) authorization(0.0) conference(0.0) to(0.0) ensure(0.0) development(0.0) of(0.0) advanced(0.0) technologies(0.0) and(0.0) 
+specifically(0.0) fight(1.0) for(0.0) $(0.0) 15(0.0) million(0.0) in(0.0) additional(0.0) funding(1.0) for(0.0) Navy(1.0) theater-wide(0.0) missile(1.0) defense(1.0) programs(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+defense	Navy	
+program	
+urges	
+defeat	missile	defense	
+
+SPY-1	
+near-term	Navy	
+funded	
+Navy	
+2002	budget	
+defense	
+fight	funding	Navy	missile	defense	programs	
+
+reads % = 0.08860759493670886

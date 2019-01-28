@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) pursuant(0.0) to(0.0) House(0.0) Resolution(1.0) 127(0.0) ,(0.0) I(0.0) call(0.0) up(0.0) the(0.0) bill(1.0) ((1.0) H.R(1.0) .(0.0) 10(0.0) )(0.0) to(0.0) provide(0.0) for(0.0) 
+pension(0.0) reform(1.0) ,(0.0) and(0.0) for(0.0) other(0.0) purposes(0.0) ,(0.0) and(0.0) ask(0.0) for(0.0) its(0.0) immediate(0.0) consideration(0.0) in(0.0) the(0.0) House(0.0) .(0.0) The(0.0) Clerk(0.0) 
+read(0.0) the(0.0) title(0.0) of(0.0) the(0.0) bill(0.0) .(0.0) The(0.0) SPEAKER(0.0) pro(0.0) tempore(0.0) ((1.0) Mr.(0.0) Bass(1.0) )(0.0) .(0.0) Pursuant(0.0) to(0.0) House(0.0) Resolution(0.0) 
+127(0.0) ,(0.0) the(0.0) bill(0.0) is(0.0) considered(0.0) read(0.0) for(0.0) amendment(0.0) .(0.0) The(0.0) text(0.0) of(0.0) H.R(0.0) .(0.0) 10(0.0) is(0.0) as(0.0) follows(0.0) :(0.0) 
+H.R(0.0) .(0.0) 10(0.0) Be(0.0) it(0.0) enacted(0.0) by(0.0) the(0.0) Senate(0.0) and(0.0) House(0.0) of(0.0) Representatives(0.0) of(0.0) the(0.0) United(0.0) States(0.0) of(0.0) America(0.0) in(0.0) 
+Congress(0.0) assembled(0.0) ,(0.0) SECTION(0.0) 1(0.0) .(0.0) SHORT(0.0) TITLE(0.0) ;(0.0) REFERENCES(0.0) ;(0.0) TABLE(0.0) OF(0.0) CONTENTS(0.0) .(0.0) ((0.0) a(0.0) )(0.0) Short(0.0) Title.(0.0) 
+--(0.0) This(0.0) Act(0.0) may(0.0) be(0.0) cited(0.0) as(0.0) the(0.0) ``(0.0) Comprehensive(0.0) Retirement(0.0) Security(0.0) and(0.0) Pension(0.0) Reform(0.0) Act(0.0) of(0.0) 2001(0.0) ''(0.0) .(0.0) 
+((0.0) b(0.0) )(0.0) Amendment(0.0) of(0.0) 1986(0.0) Code.(0.0) --(0.0) Except(0.0) as(0.0) otherwise(0.0) expressly(0.0) provided(0.0) ,(0.0) whenever(0.0) in(0.0) this(0.0) Act(0.0) an(0.0) amendment(0.0) 
+or(0.0) repeal(0.0) is(0.0) expressed(0.0) in(0.0) terms(0.0) of(0.0) an(0.0) amendment(0.0) to(0.0) ,(0.0) or(0.0) repeal(0.0) of(0.0) ,(0.0) a(0.0) section(0.0) or(0.0) other(0.0) provision(0.0) 
+,(0.0) the(0.0) reference(0.0) shall(0.0) be(0.0) considered(0.0) to(0.0) be(0.0) made(0.0) to(0.0) a(0.0) section(0.0) or(0.0) other(0.0) provision(0.0) of(0.0) the(0.0) Internal(0.0) Revenue(0.0) Code(0.0) 
+of(0.0) 1986(0.0) .(0.0) ((0.0) c(0.0) )(0.0) Table(0.0) of(0.0) Contents.(0.0) --(0.0) The(0.0) table(0.0) of(0.0) contents(0.0) of(0.0) this(0.0) Act(0.0) is(0.0) as(0.0) follows(0.0) 
+:(0.0) Sec(0.0) .(0.0) 1(0.0) .(0.0) Short(0.0) title(0.0) ;(0.0) references(0.0) ;(0.0) table(0.0) of(0.0) contents(0.0) .(0.0) TITLE(0.0) I(0.0) --(0.0) INDIVIDUAL(0.0) RETIREMENT(0.0) ACCOUNT(0.0) 
+PROVISIONS(0.0) Sec(0.0) .(0.0) 101(0.0) .(0.0) Modification(0.0) of(0.0) IRA(0.0) contribution(0.0) limits(0.0) .(0.0) TITLE(0.0) II(0.0) --(0.0) EXPANDING(0.0) COVERAGE(0.0) Sec(0.0) .(0.0) 201(0.0) .(0.0) 
+Increase(0.0) in(0.0) benefit(0.0) and(0.0) contribution(0.0) limits(0.0) .(0.0) Sec(0.0) .(0.0) 202(0.0) .(0.0) Plan(0.0) loans(0.0) for(0.0) subchapter(0.0) S(0.0) owners(0.0) ,(0.0) partners(0.0) ,(0.0) 
+and(0.0) sole(0.0) proprietors(1.0) .(0.0) Sec(0.0) .(0.0) 203(0.0) .(0.0) Modification(0.0) of(0.0) top-heavy(0.0) rules(0.0) .(0.0) Sec(0.0) .(0.0) 204(0.0) .(0.0) Elective(0.0) deferrals(0.0) not(0.0) 
+taken(0.0) into(0.0) account(0.0) for(0.0) purposes(0.0) of(0.0) deduction(0.0) limits(0.0) .(0.0) Sec(0.0) .(0.0) 205(0.0) .(0.0) Repeal(0.0) of(0.0) coordination(0.0) requirements(0.0) for(0.0) deferred(0.0) compensation(0.0) 
+plans(0.0) of(0.0) State(0.0) and(0.0) local(0.0) governments(0.0) and(0.0) tax-exempt(0.0) organizations(0.0) .(0.0) Sec(0.0) .(0.0) 206(0.0) .(0.0) Elimination(0.0) of(0.0) user(0.0) fee(0.0) for(0.0) requests(0.0) 
+to(0.0) IRS(0.0) regarding(0.0) pension(0.0) plans(0.0) .(0.0) Sec(0.0) .(0.0) 207(0.0) .(0.0) Deduction(0.0) limits(0.0) .(0.0) Sec(0.0) .(0.0) 208(0.0) .(0.0) Option(0.0) to(0.0) treat(0.0) 
+elective(0.0) deferrals(0.0) as(0.0) after-tax(0.0) contributions(0.0) .(0.0) TITLE(0.0) III(0.0) --(0.0) ENHANCING(0.0) FAIRNESS(0.0) FOR(0.0) WOMEN(0.0) Sec(0.0) .(0.0) 301(0.0) .(0.0) Catch-up(0.0) contributions(0.0) for(0.0) 
+individuals(0.0) age(0.0) 50(0.0) or(0.0) over(0.0) .(0.0) Sec(0.0) .(0.0) 302(0.0) .(0.0) Equitable(0.0) treatment(0.0) for(0.0) contributions(0.0) of(0.0) employees(0.0) to(0.0) defined(0.0) contribution(0.0) plans(0.0) 
+.(0.0) Sec(0.0) .(0.0) 303(0.0) .(0.0) Faster(0.0) vesting(0.0) of(0.0) certain(0.0) employer(0.0) matching(0.0) contributions(0.0) .(0.0) Sec(0.0) .(0.0) 304(0.0) .(0.0) Simplify(0.0) and(0.0) update(0.0) 
+the(0.0) minimum(0.0) distribution(0.0) rules(0.0) .(0.0) Sec(0.0) .(0.0) 305(0.0) .(0.0) Clarification(0.0) of(0.0) tax(0.0) treatment(1.0) of(0.0) division(0.0) of(0.0) section(0.0) 457(0.0) plan(0.0) benefits(0.0) 
+upon(0.0) divorce(0.0) .(0.0) Sec(0.0) .(0.0) 306(0.0) .(0.0) Modification(0.0) of(0.0) safe(0.0) harbor(1.0) relief(1.0) for(0.0) hardship(1.0) withdrawals(0.0) from(0.0) cash(0.0) or(0.0) deferred(0.0) arrangements(0.0) 
+.(0.0) TITLE(0.0) IV(0.0) --(0.0) INCREASING(0.0) PORTABILITY(0.0) FOR(0.0) PARTICIPANTS(0.0) Sec(0.0) .(0.0) 401(0.0) .(0.0) Rollovers(0.0) allowed(0.0) among(0.0) various(0.0) types(0.0) of(0.0) plans(0.0) .(0.0) 
+Sec(0.0) .(0.0) 402(0.0) .(0.0) Rollovers(0.0) of(0.0) IRAs(1.0) into(0.0) workplace(0.0) retirement(0.0) plans(0.0) .(0.0) Sec(0.0) .(0.0) 403(0.0) .(0.0) Rollovers(0.0) of(0.0) after-tax(0.0) 
+
+
+----- below are rationale words -----
+
+Resolution	bill	(	H.R	
+reform	
+(	Bass	
+
+
+
+
+
+
+
+
+
+
+
+proprietors	
+
+
+
+
+
+
+treatment	
+harbor	relief	hardship	
+
+IRAs	
+
+reads % = 0.026

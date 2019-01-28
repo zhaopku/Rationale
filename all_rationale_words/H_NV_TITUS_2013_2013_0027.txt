@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) ask(1.0) unanimous(0.0) consent(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) my(0.0) remarks(0.0) in(0.0) strong(0.0) opposition(1.0) to(0.0) the(0.0) farm(1.0) bill(0.0) rule(0.0) and(0.0) 
+the(0.0) underlying(1.0) bill(0.0) because(0.0) it(0.0) takes(1.0) the(0.0) safety(1.0) net(0.0) away(0.0) from(0.0) America(0.0) and(0.0) Nevada(1.0) 's(0.0) poor(0.0) families(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+ask	opposition	farm	
+underlying	takes	safety	Nevada	
+
+reads % = 0.1794871794871795

@@ -1,0 +1,52 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) rise(0.0) in(0.0) very(0.0) strong(0.0) support(0.0) of(0.0) this(0.0) rule(1.0) ,(0.0) because(0.0) we(0.0) do(0.0) need(0.0) to(0.0) act(0.0) to(0.0) support(0.0) 
+our(0.0) domestic(1.0) auto(0.0) industry(0.0) ,(0.0) and(0.0) failure(1.0) to(0.0) act(0.0) by(0.0) Congress(0.0) on(0.0) bridge(1.0) loans(0.0) to(0.0) our(0.0) domestic(1.0) auto(1.0) industry(1.0) will(0.0) 
+have(0.0) catastrophic(1.0) effects(1.0) on(0.0) our(0.0) workers(1.0) ,(0.0) on(0.0) our(0.0) economy(1.0) ,(0.0) as(0.0) well(0.0) as(0.0) our(0.0) national(1.0) security(0.0) .(0.0) Inaction(1.0) is(0.0) 
+simply(0.0) not(0.0) an(0.0) option(0.0) .(0.0) In(0.0) recent(0.0) years(0.0) ,(0.0) the(0.0) domestic(1.0) auto(0.0) industry(0.0) has(0.0) been(0.0) undergoing(0.0) significant(0.0) restructuring(1.0) in(0.0) an(0.0) 
+effort(0.0) to(0.0) become(0.0) more(0.0) competitive(0.0) with(0.0) foreign(1.0) automakers(1.0) .(0.0) More(0.0) needs(0.0) to(0.0) be(0.0) done(0.0) certainly(0.0) ,(0.0) but(0.0) to(0.0) suggest(0.0) that(0.0) 
+nothing(0.0) has(0.0) been(0.0) done(0.0) is(0.0) inaccurate(0.0) and(0.0) does(0.0) not(0.0) recognize(0.0) the(0.0) significant(0.0) sacrifices(1.0) made(0.0) by(0.0) workers(1.0) and(0.0) the(0.0) tough(0.0) decisions(0.0) 
+made(0.0) by(0.0) the(0.0) Big(0.0) Three(0.0) .(0.0) They(0.0) are(0.0) also(0.0) changing(0.0) their(0.0) product(0.0) mix(0.0) to(0.0) better(0.0) reflect(0.0) the(0.0) current(0.0) marketplace(0.0) demand(0.0) 
+for(0.0) more(0.0) fuel(1.0) efficient(0.0) vehicles(0.0) .(0.0) It(0.0) is(0.0) not(0.0) Toyota(0.0) that(0.0) offers(0.0) the(0.0) most(0.0) models(0.0) that(0.0) get(0.0) over(0.0) 30(0.0) miles(0.0) 
+per(0.0) gallon(0.0) .(0.0) It(0.0) is(0.0) General(0.0) Motors(0.0) .(0.0) It(0.0) is(0.0) not(0.0) Honda(0.0) that(0.0) makes(0.0) the(0.0) highest(0.0) mileage(0.0) SUV(0.0) in(0.0) the(0.0) 
+world(0.0) .(0.0) It(0.0) is(0.0) Ford(0.0) with(0.0) the(0.0) Ford(0.0) Escape(0.0) .(0.0) We(0.0) can(0.0) not(0.0) forget(0.0) the(0.0) domestic(1.0) auto(0.0) industry(1.0) and(0.0) what(0.0) 
+they(0.0) have(0.0) meant(0.0) to(0.0) America(1.0) .(0.0) In(0.0) fact(0.0) ,(0.0) during(0.0) World(0.0) War(0.0) II(0.0) ,(0.0) southeast(0.0) Michigan(1.0) was(0.0) known(0.0) as(0.0) the(0.0) 
+``(0.0) arsenal(0.0) of(0.0) democracy(1.0) ''(0.0) because(0.0) we(0.0) literally(0.0) had(0.0) the(0.0) manufacturing(1.0) capability(0.0) that(0.0) led(1.0) the(0.0) world(0.0) to(0.0) peace(1.0) by(0.0) building(0.0) 
+those(0.0) armaments(1.0) ,(0.0) and(0.0) we(0.0) expanded(0.0) freedom(1.0) across(0.0) the(0.0) globe(0.0) .(0.0) Then(0.0) on(0.0) September(0.0) 11(0.0) ,(0.0) 2001(0.0) ,(0.0) that(0.0) horrific(0.0) 
+day(0.0) when(0.0) the(0.0) terrorists(1.0) murdered(1.0) nearly(0.0) 3,000(0.0) of(0.0) our(0.0) fellow(0.0) Americans(1.0) ,(0.0) they(0.0) had(0.0) an(0.0) additional(0.0) goal(0.0) ,(0.0) and(0.0) that(0.0) 
+was(0.0) to(0.0) destroy(0.0) our(0.0) economy(1.0) .(0.0) At(0.0) that(0.0) time(0.0) ,(0.0) while(0.0) the(0.0) Federal(1.0) Government(1.0) was(0.0) properly(0.0) providing(0.0) bailout(1.0) support(0.0) to(0.0) 
+the(0.0) devastated(1.0) airlines(1.0) ,(0.0) it(0.0) was(0.0) the(0.0) domestic(1.0) auto(0.0) industry(1.0) ,(0.0) led(0.0) by(0.0) General(0.0) Motors(0.0) and(0.0) their(0.0) Keep(0.0) America(0.0) Rolling(0.0) 
+Program(1.0) ,(0.0) which(0.0) kept(0.0) customers(0.0) in(0.0) the(0.0) showrooms(0.0) ,(0.0) workers(1.0) on(0.0) the(0.0) factory(0.0) floors(0.0) ,(0.0) and(0.0) did(0.0) indeed(0.0) keep(0.0) America(1.0) 
+rolling(0.0) .(0.0) The(0.0) cost(1.0) to(0.0) our(0.0) economy(1.0) of(0.0) failure(1.0) of(0.0) one(0.0) or(0.0) more(0.0) of(0.0) these(0.0) companies(1.0) will(0.0) be(0.0) stark(1.0) .(0.0) 
+Experts(0.0) have(0.0) indicated(0.0) that(0.0) this(0.0) would(0.0) cause(0.0) a(0.0) cascade(0.0) of(0.0) bankruptcies(1.0) across(0.0) the(0.0) economy(1.0) and(0.0) lead(0.0) to(0.0) the(0.0) loss(0.0) of(0.0) 
+as(0.0) many(0.0) as(0.0) 3(0.0) million(0.0) jobs(1.0) .(0.0) The(0.0) cost(1.0) of(0.0) this(0.0) calamity(1.0) to(0.0) the(0.0) taxpayers(1.0) would(0.0) be(0.0) multiple(0.0) times(0.0) greater(0.0) 
+than(0.0) the(0.0) cost(1.0) of(0.0) these(0.0) bridge(0.0) loans(1.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) I(0.0) ask(0.0) my(0.0) colleagues(0.0) to(0.0) look(0.0) beyond(0.0) the(0.0) super-heated(1.0) 
+rhetoric(1.0) here(0.0) and(0.0) support(0.0) me(0.0) in(0.0) joining(0.0) this(0.0) rule(1.0) and(0.0) this(0.0) vital(0.0) industry(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+rule	
+domestic	failure	bridge	domestic	auto	industry	
+catastrophic	effects	workers	economy	national	Inaction	
+domestic	restructuring	
+foreign	automakers	
+sacrifices	workers	
+
+fuel	
+
+domestic	industry	
+America	Michigan	
+democracy	manufacturing	led	peace	
+armaments	freedom	
+terrorists	murdered	Americans	
+economy	Federal	Government	bailout	
+devastated	airlines	domestic	industry	
+Program	workers	America	
+cost	economy	failure	companies	stark	
+bankruptcies	economy	
+jobs	cost	calamity	taxpayers	
+cost	loans	Speaker	super-heated	
+rhetoric	rule	industry	
+
+reads % = 0.1425287356321839

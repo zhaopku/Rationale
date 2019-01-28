@@ -1,0 +1,52 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(1.0) my(0.0) colleague(1.0) from(0.0) Michigan(1.0) for(0.0) his(0.0) leadership(1.0) and(0.0) for(0.0) yielding(0.0) me(0.0) this(0.0) time(0.0) to(0.0) speak(0.0) .(0.0) The(0.0) 
+opportunity(0.0) to(0.0) speak(0.0) in(0.0) memory(0.0) of(0.0) Coretta(1.0) Scott(1.0) King(0.0) and(0.0) the(0.0) importance(1.0) today(0.0) to(0.0) acknowledge(0.0) not(0.0) only(0.0) what(0.0) she(0.0) did(0.0) 
+for(0.0) racial(1.0) justice(0.0) in(0.0) this(0.0) country(1.0) and(0.0) the(0.0) rest(0.0) of(0.0) the(0.0) world(0.0) ,(0.0) but(0.0) what(0.0) she(0.0) contributed(1.0) to(0.0) women(0.0) 's(0.0) 
+rights(0.0) ,(0.0) to(0.0) children(0.0) 's(0.0) rights(0.0) ,(0.0) gay(1.0) and(0.0) lesbian(1.0) rights(0.0) ,(0.0) religious(0.0) freedom(1.0) ,(0.0) the(0.0) needs(0.0) of(0.0) the(0.0) homeless(1.0) 
+and(0.0) poor(0.0) ,(0.0) full(0.0) employment(1.0) ,(0.0) health(1.0) care(0.0) ,(0.0) educational(0.0) opportunities(0.0) ,(0.0) and(0.0) the(0.0) continued(0.0) unrelenting(1.0) emphasis(1.0) on(0.0) nonviolence(1.0) .(0.0) 
+She(0.0) was(0.0) a(0.0) mentor(1.0) for(0.0) me(0.0) and(0.0) so(0.0) many(0.0) of(0.0) us(0.0) .(0.0) She(0.0) did(0.0) not(1.0) take(0.0) the(0.0) easy(0.0) path(1.0) ,(0.0) 
+she(0.0) took(1.0) the(0.0) right(1.0) path(1.0) .(0.0) The(0.0) recent(1.0) confirmation(0.0) of(0.0) two(0.0) new(1.0) Supreme(0.0) Court(0.0) justices(1.0) reminds(1.0) us(0.0) of(0.0) the(0.0) importance(1.0) 
+of(0.0) expanding(1.0) our(0.0) civil(1.0) rights(1.0) ,(0.0) not(1.0) limiting(0.0) them(0.0) .(0.0) We(0.0) can(0.0) do(0.0) this(0.0) in(0.0) memory(0.0) and(0.0) honor(1.0) of(0.0) both(0.0) 
+Martin(0.0) and(0.0) Coretta(1.0) ,(0.0) and(0.0) it(0.0) is(0.0) their(0.0) lives(0.0) being(0.0) dedicated(1.0) to(0.0) the(0.0) highest(1.0) values(1.0) of(0.0) human(0.0) dignity(1.0) and(0.0) pushing(1.0) 
+for(0.0) social(0.0) change(0.0) that(0.0) stand(1.0) as(0.0) a(0.0) pinnacle(1.0) for(0.0) what(0.0) we(0.0) want(1.0) to(0.0) continue(0.0) to(0.0) achieve(0.0) .(0.0) I(0.0) have(0.0) fond(0.0) 
+memory(0.0) of(0.0) hearing(0.0) with(0.0) my(0.0) husband(0.0) when(0.0) we(0.0) were(0.0) studying(0.0) at(0.0) Yale(0.0) University(0.0) early(0.0) in(0.0) the(0.0) 1960s(1.0) ,(0.0) hearing(0.0) this(0.0) 
+young(0.0) promising(1.0) preacher(1.0) from(0.0) the(0.0) South(1.0) come(0.0) and(0.0) preach(1.0) in(0.0) Battelle(1.0) Chapel(0.0) .(0.0) I(0.0) was(0.0) touched(0.0) that(0.0) day(0.0) ,(0.0) and(0.0) 
+have(0.0) been(0.0) ever(0.0) since(0.0) .(0.0) Here(1.0) we(0.0) have(0.0) also(1.0) had(0.0) the(0.0) mentorship(1.0) of(0.0) our(0.0) dear(1.0) colleague(1.0) ,(0.0) Mr.(0.0) John(1.0) Lewis(1.0) 
+,(0.0) and(0.0) in(0.0) taking(1.0) so(0.0) many(0.0) of(0.0) us(0.0) ,(0.0) me(0.0) included(0.0) ,(0.0) down(1.0) to(0.0) Birmingham(1.0) ,(0.0) Selma(1.0) and(0.0) Montgomery(1.0) ,(0.0) 
+I(0.0) will(0.0) always(0.0) remember(0.0) walking(0.0) across(0.0) the(0.0) Edmund(0.0) Pettus(1.0) Bridge(1.0) ,(0.0) and(0.0) of(0.0) course(0.0) 2(0.0) weeks(1.0) later(0.0) ,(0.0) Dr.(0.0) Martin(1.0) 
+Luther(1.0) King(1.0) led(0.0) 25,000(1.0) men(0.0) ,(0.0) women(0.0) and(0.0) children(0.0) on(0.0) that(0.0) unforgettable(0.0) march(1.0) from(0.0) Selma(1.0) to(0.0) Montgomery(1.0) .(0.0) Within(1.0) 3(0.0) 
+years(0.0) he(0.0) was(0.0) assassinated(1.0) ,(0.0) and(0.0) how(0.0) that(0.0) must(0.0) have(0.0) affected(1.0) his(0.0) young(0.0) widow(1.0) .(0.0) She(0.0) had(0.0) the(0.0) responsibility(0.0) to(0.0) 
+raise(1.0) those(0.0) young(0.0) children(1.0) and(0.0) be(0.0) concerned(1.0) with(0.0) his(0.0) legacy(0.0) ,(0.0) but(0.0) she(0.0) became(0.0) a(0.0) champion(1.0) in(0.0) her(0.0) own(0.0) right(1.0) 
+.(0.0) I(0.0) know(1.0) that(0.0) we(0.0) now(0.0) can(1.0) fully(0.0) appreciate(1.0) what(0.0) she(0.0) has(0.0) accomplished(0.0) and(0.0) are(0.0) dedicated(1.0) to(0.0) continuing(0.0) .(0.0) In(0.0) 
+her(0.0) words(0.0) ,(0.0) I(0.0) want(1.0) to(0.0) close(0.0) with(0.0) these(0.0) three(0.0) phrases(1.0) that(0.0) she(0.0) said(1.0) ,(0.0) ``(1.0) Be(0.0) a(0.0) drum(1.0) major(0.0) 
+for(0.0) justice(1.0) .(0.0) Be(0.0) a(0.0) drum(1.0) major(1.0) for(0.0) love(1.0) .(0.0) Be(0.0) a(0.0) drum(1.0) major(1.0) for(0.0) peace(0.0) .(0.0) ''(0.0) Thank(0.0) you(1.0) 
+,(0.0) Coretta(1.0) Scott(1.0) King(1.0) ,(0.0) for(0.0) your(0.0) life(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+thank	colleague	Michigan	leadership	
+Coretta	Scott	importance	
+racial	country	contributed	
+gay	lesbian	freedom	homeless	
+employment	health	unrelenting	emphasis	nonviolence	
+mentor	not	path	
+took	right	path	recent	new	justices	reminds	importance	
+expanding	civil	rights	not	honor	
+Coretta	dedicated	highest	values	dignity	pushing	
+stand	pinnacle	want	
+1960s	
+promising	preacher	South	preach	Battelle	
+Here	also	mentorship	dear	colleague	John	Lewis	
+taking	down	Birmingham	Selma	Montgomery	
+Pettus	Bridge	weeks	Martin	
+Luther	King	25,000	march	Selma	Montgomery	Within	
+assassinated	affected	widow	
+raise	children	concerned	champion	right	
+know	can	appreciate	dedicated	
+want	phrases	said	``	drum	
+justice	drum	major	love	drum	major	you	
+Coretta	Scott	King	
+
+reads % = 0.23255813953488372

@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) 3(0.0) minutes(0.0) to(0.0) the(0.0) gentlewoman(0.0) from(0.0) Connecticut(1.0) [(0.0) Mrs.(1.0) Johnson(1.0) ](0.0) ,(0.0) the(0.0) chair(0.0) of(0.0) the(0.0) Subcommittee(0.0) 
+on(0.0) Oversight(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Ways(0.0) and(0.0) Means(0.0) ,(0.0) who(0.0) played(0.0) a(0.0) very(0.0) important(0.0) role(0.0) in(0.0) electronic(0.0) filing(0.0) ,(0.0) 
+taxpayer(0.0) rights(0.0) ,(0.0) and(0.0) many(0.0) other(0.0) provisions(0.0) of(0.0) this(0.0) legislation(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Connecticut	Mrs.	Johnson	
+
+
+
+reads % = 0.057692307692307696

@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) his(0.0) very(0.0) thoughtful(0.0) introduction(0.0) into(0.0) this(0.0) discussion(0.0) ,(0.0) pointing(0.0) out(0.0) that(0.0) we(0.0) 
+are(0.0) all(0.0) against(0.0) counterfeiting(1.0) ,(0.0) that(0.0) there(0.0) are(0.0) all(0.0) kinds(0.0) of(0.0) laws(1.0) which(0.0) I(0.0) am(0.0) going(0.0) to(0.0) point(0.0) out(0.0) to(0.0) 
+my(0.0) friends(0.0) on(0.0) the(0.0) other(0.0) side(0.0) ,(0.0) and(0.0) suggest(0.0) a(0.0) way(0.0) that(0.0) we(0.0) could(0.0) remedy(1.0) this(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+counterfeiting	laws	
+remedy	
+
+reads % = 0.05172413793103448

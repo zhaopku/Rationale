@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) today(0.0) I(0.0) rise(0.0) to(0.0) continue(0.0) my(0.0) calls(0.0) for(0.0) justice(1.0) in(0.0) the(0.0) murder(1.0) of(0.0) Trayvon(1.0) Martin(1.0) .(0.0) It(0.0) has(0.0) been(0.0) 
+30(0.0) days(0.0) since(0.0) his(0.0) death(0.0) ,(0.0) exactly(0.0) 1(0.0) month(0.0) since(0.0) the(0.0) Sanford(1.0) police(0.0) actually(0.0) talked(0.0) to(0.0) the(0.0) killer(0.0) as(0.0) he(0.0) 
+hunted(0.0) and(0.0) pursued(0.0) young(0.0) Trayvon(1.0) with(0.0) a(0.0) loaded(0.0) gun(1.0) in(0.0) his(0.0) pocket(0.0) .(0.0) From(0.0) every(0.0) indication(0.0) and(0.0) every(0.0) piece(0.0) of(0.0) 
+evidence(0.0) we(0.0) have(0.0) ,(0.0) George(0.0) Zimmerman(1.0) was(0.0) the(0.0) aggressor(1.0) in(0.0) this(0.0) case(0.0) .(0.0) This(0.0) is(0.0) a(0.0) classic(0.0) case(0.0) of(0.0) racial(1.0) 
+profiling(1.0) .(0.0) He(0.0) pursued(0.0) Trayvon(1.0) as(0.0) he(0.0) walked(0.0) down(0.0) the(0.0) sidewalk(0.0) .(0.0) The(0.0) police(0.0) dispatcher(0.0) said(0.0) ,(0.0) Stand(0.0) down(0.0) .(0.0) 
+Leave(0.0) the(0.0) boy(0.0) alone(0.0) .(0.0) And(0.0) Trayvon(1.0) ended(0.0) up(0.0) dead(0.0) ,(0.0) a(0.0) small(0.0) 17-year-old(0.0) from(0.0) Miami(1.0) whom(0.0) we(0.0) all(0.0) love(0.0) 
+.(0.0) This(0.0) is(0.0) not(0.0) a(0.0) victim(0.0) we(0.0) will(0.0) forget(0.0) .(0.0) We(0.0) will(0.0) fight(1.0) .(0.0) We(0.0) know(0.0) who(0.0) his(0.0) killer(0.0) is(0.0) 
+.(0.0) We(0.0) will(0.0) not(0.0) be(0.0) quiet(0.0) .(0.0) I(0.0) demand(0.0) justice(1.0) for(0.0) Trayvon(1.0) .(0.0) I(0.0) demand(0.0) justice(1.0) for(0.0) Trayvon(1.0) 's(0.0) family(0.0) 
+,(0.0) and(0.0) I(0.0) demand(0.0) justice(1.0) for(0.0) all(0.0) of(0.0) America's(0.0) murdered(1.0) children(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+justice	murder	Trayvon	Martin	
+Sanford	
+Trayvon	gun	
+Zimmerman	aggressor	racial	
+profiling	Trayvon	
+Trayvon	Miami	
+fight	
+justice	Trayvon	justice	Trayvon	
+justice	murdered	
+
+reads % = 0.12138728323699421

@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) strike(1.0) the(0.0) requisite(0.0) number(0.0) of(0.0) words(0.0) and(0.0) oppose(1.0) the(0.0) Fowler(1.0) amendment(1.0) in(0.0) favor(1.0) of(0.0) the(0.0) Turner(1.0) 
+amendment(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) why(0.0) are(0.0) we(0.0) debating(1.0) this(0.0) issue(0.0) at(0.0) this(0.0) point(0.0) in(0.0) time(0.0) ?(0.0) We(0.0) all(0.0) recognize(0.0) 
+that(0.0) it(0.0) is(0.0) political(1.0) ;(0.0) politics(1.0) that(0.0) could(0.0) come(0.0) back(0.0) to(0.0) haunt(0.0) us(0.0) .(0.0) One(0.0) of(0.0) the(0.0) biggest(0.0) problems(0.0) we(0.0) 
+have(0.0) in(0.0) Congress(0.0) is(0.0) the(0.0) fact(0.0) that(0.0) we(0.0) have(0.0) an(0.0) obligation(1.0) and(0.0) a(0.0) duty(0.0) .(0.0) The(0.0) only(0.0) reason(0.0) to(0.0) debate(1.0) 
+this(0.0) resolution(1.0) today(0.0) is(0.0) to(0.0) undercut(1.0) the(0.0) administration(1.0) at(0.0) the(0.0) critical(0.0) time(0.0) of(0.0) our(0.0) negotiations(1.0) .(0.0) It(0.0) is(0.0) more(0.0) than(0.0) 
+irony(1.0) that(0.0) some(0.0) of(0.0) those(0.0) pushing(1.0) for(0.0) consideration(1.0) of(0.0) this(0.0) resolution(1.0) today(0.0) fully(0.0) intend(0.0) to(0.0) oppose(1.0) the(0.0) resolution(1.0) .(0.0) This(0.0) 
+is(0.0) an(0.0) exercise(0.0) in(0.0) rhetoric(1.0) .(0.0) Point(0.0) of(0.0) Order(0.0) 
+
+
+----- below are rationale words -----
+
+strike	oppose	Fowler	amendment	favor	Turner	
+amendment	Chairman	debating	
+political	politics	
+obligation	debate	
+resolution	undercut	administration	negotiations	
+irony	pushing	consideration	resolution	oppose	resolution	
+rhetoric	
+
+reads % = 0.18461538461538463

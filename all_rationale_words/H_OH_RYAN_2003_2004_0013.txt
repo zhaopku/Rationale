@@ -1,0 +1,20 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) I(0.0) would(0.0) also(0.0) like(0.0) to(0.0) say(0.0) to(0.0) the(0.0) gentleman(0.0) 
+from(0.0) North(0.0) Carolina(0.0) ,(0.0) our(0.0) comments(0.0) today(0.0) in(0.0) no(0.0) way(0.0) take(0.0) away(0.0) from(0.0) our(0.0) ability(0.0) to(0.0) thank(0.0) these(0.0) teachers(0.0) for(0.0) 
+all(0.0) of(0.0) their(0.0) hard(0.0) work(0.0) .(0.0) We(0.0) just(0.0) think(0.0) that(0.0) there(0.0) are(0.0) opportunities(0.0) here(0.0) that(0.0) this(0.0) Congress(1.0) and(0.0) this(0.0) President(1.0) 
+could(0.0) move(0.0) to(0.0) make(0.0) this(0.0) a(0.0) better(0.0) program(0.0) ,(0.0) to(0.0) help(0.0) our(0.0) children(0.0) more(0.0) .(0.0) This(0.0) is(0.0) not(0.0) a(0.0) criticism(0.0) 
+of(0.0) the(0.0) teachers(0.0) or(0.0) principals(0.0) or(0.0) the(0.0) teachers(0.0) who(0.0) are(0.0) active(0.0) in(0.0) this(0.0) program(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) 
+2(0.0) minutes(0.0) to(0.0) the(0.0) gentlewoman(0.0) from(0.0) California(0.0) ((0.0) Mrs.(0.0) Davis(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+Congress	President	
+
+program	Speaker	
+Davis	
+
+reads % = 0.04424778761061947

@@ -1,0 +1,20 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentlewoman(0.0) very(0.0) much(0.0) for(0.0) joining(0.0) us(0.0) tonight(0.0) and(0.0) staying(0.0) up(0.0) late(0.0) after(0.0) a(0.0) very(0.0) long(0.0) 
+trip(0.0) .(0.0) But(0.0) certainly(0.0) I(0.0) think(0.0) that(0.0) tells(0.0) how(0.0) impressed(0.0) we(0.0) all(0.0) were(0.0) after(0.0) we(0.0) had(0.0) the(0.0) opportunity(0.0) to(0.0) visit(0.0) 
+Iraq(1.0) .(0.0) One(0.0) of(0.0) the(0.0) things(0.0) that(0.0) I(0.0) think(0.0) struck(0.0) us(0.0) all(0.0) was(0.0) the(0.0) quality(0.0) of(0.0) the(0.0) men(0.0) and(0.0) women(0.0) 
+in(0.0) uniform(1.0) and(0.0) their(0.0) sense(0.0) of(0.0) mission(0.0) .(0.0) I(0.0) get(0.0) asked(0.0) often(0.0) ,(0.0) what(0.0) is(0.0) the(0.0) morale(1.0) ?(0.0) Three(0.0) weeks(0.0) 
+ago(0.0) when(0.0) we(0.0) were(0.0) there(0.0) ,(0.0) the(0.0) morale(1.0) was(0.0) very(0.0) strong(0.0) .(0.0) They(0.0) knew(0.0) why(0.0) they(0.0) were(0.0) there(0.0) ,(0.0) and(0.0) 
+they(0.0) knew(0.0) what(0.0) they(0.0) were(0.0) doing(0.0) .(0.0) I(0.0) am(0.0) curious(0.0) as(0.0) to(0.0) how(0.0) the(0.0) gentlewoman(0.0) found(0.0) the(0.0) morale(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+Iraq	
+uniform	morale	
+morale	
+morale	
+
+reads % = 0.041666666666666664

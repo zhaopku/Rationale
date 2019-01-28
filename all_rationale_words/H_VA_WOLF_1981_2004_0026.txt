@@ -1,0 +1,18 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) if(0.0) the(0.0) gentleman(0.0) will(0.0) yield(0.0) ,(0.0) I(0.0) understand(0.0) what(0.0) the(0.0) gentlewoman(0.0) is(0.0) doing(0.0) and(0.0) I(0.0) admire(0.0) that(0.0) .(0.0) I(0.0) 
+think(0.0) her(0.0) purpose(0.0) is(0.0) very(0.0) ,(0.0) very(0.0) good(0.0) and(0.0) I(0.0) think(0.0) on(0.0) the(0.0) microloan(1.0) issue(0.0) is(0.0) exactly(0.0) right(0.0) .(0.0) That(0.0) 
+is(0.0) why(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) York(1.0) ((0.0) Mr.(0.0) Serrano(1.0) )(0.0) and(0.0) I(0.0) have(0.0) an(0.0) amendment(1.0) to(0.0) restore(1.0) that(0.0) and(0.0) 
+deal(0.0) with(0.0) this(0.0) .(0.0) I(0.0) want(0.0) to(0.0) make(0.0) sure(0.0) the(0.0) record(0.0) should(0.0) state(1.0) that(0.0) is(0.0) not(0.0) the(0.0) gentlewoman(0.0) 's(0.0) purpose(0.0) 
+of(0.0) doing(0.0) it(0.0) ,(0.0) and(0.0) so(0.0) I(0.0) only(0.0) attribute(0.0) the(0.0) honorable(1.0) ,(0.0) the(0.0) most(0.0) wonderful(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+microloan	
+York	Serrano	amendment	restore	
+state	
+honorable	
+
+reads % = 0.07216494845360824

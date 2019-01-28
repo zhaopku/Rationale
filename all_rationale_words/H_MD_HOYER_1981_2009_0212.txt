@@ -1,0 +1,24 @@
+This is from a Democrat
+----- below is the original text -----
+There(0.0) have(0.0) been(0.0) some(0.0) changes(0.0) which(0.0) will(0.0) be(0.0) included(0.0) in(0.0) a(0.0) manager(0.0) 's(0.0) amendment(1.0) .(0.0) I(0.0) will(0.0) make(0.0) sure(0.0) that(0.0) that(0.0) 
+manager(0.0) 's(0.0) amendment(1.0) is(0.0) available(0.0) no(0.0) later(0.0) than(0.0) Monday(0.0) .(0.0) Essentially(0.0) what(0.0) it(0.0) does(0.0) is(0.0) it(0.0) ensures(0.0) that(0.0) it(0.0) is(0.0) 
+consistent(0.0) with(0.0) the(0.0) PAYGO(1.0) rule(0.0) that(0.0) we(0.0) have(0.0) here(0.0) in(0.0) the(0.0) House(0.0) and(0.0) it(0.0) does(0.0) somewhat(0.0) modify(0.0) it(0.0) as(0.0) to(0.0) 
+the(0.0) tax(1.0) cuts(1.0) that(1.0) will(1.0) be(1.0) effected(1.0) ,(0.0) that(0.0) will(0.0) mirror(0.0) the(0.0) budget(1.0) that(0.0) was(0.0) adopted(0.0) by(0.0) this(0.0) House(0.0) earlier(0.0) 
+this(0.0) year(0.0) .(0.0) It(0.0) also(0.0) directs(0.0) that(0.0) CBO(1.0) scoring(0.0) be(0.0) controlling(0.0) so(0.0) that(0.0) we(0.0) have(0.0) a(0.0) neutral(0.0) arbiter(0.0) ,(0.0) not(0.0) 
+an(0.0) administration(1.0) ,(0.0) whether(0.0) it(0.0) 's(0.0) a(0.0) Democratic(0.0) or(0.0) Republican(0.0) arbiter(1.0) ,(1.0) as(1.0) to(1.0) what(1.0) the(1.0) costs(1.0) are(1.0) .(1.0) Those(1.0) 
+are(1.0) the(1.0) major(1.0) changes(1.0) that(1.0) I(0.0) think(1.0) make(0.0) it(0.0) more(0.0) consistent(0.0) with(0.0) what(0.0) the(0.0) House(0.0) 's(0.0) position(0.0) has(0.0) been(0.0) in(0.0) 
+the(0.0) past(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+amendment	
+amendment	
+PAYGO	
+tax	cuts	that	will	be	effected	budget	
+CBO	
+administration	arbiter	,	as	to	what	the	costs	are	.	Those	
+are	the	major	changes	that	think	
+
+
+reads % = 0.19444444444444445

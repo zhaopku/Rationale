@@ -1,0 +1,24 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) right(0.0) now(0.0) ,(0.0) we(0.0) have(0.0) no(0.0) means(0.0) of(0.0) asking(0.0) someone(0.0) who(0.0) shows(0.0) up(0.0) at(0.0) work(0.0) apparently(0.0) stoned(0.0) out(0.0) of(0.0) 
+their(0.0) mind(0.0) ,(0.0) there(0.0) is(0.0) absolutely(0.0) nothing(0.0) right(0.0) now(0.0) their(0.0) supervisor(0.0) can(0.0) do(0.0) .(0.0) I(0.0) would(0.0) like(0.0) to(0.0) give(0.0) him(0.0) 
+the(0.0) opportunity(0.0) to(0.0) say(0.0) ,(0.0) I(0.0) think(0.0) you(0.0) ought(1.0) to(0.0) take(0.0) a(0.0) drug(1.0) test(0.0) .(0.0) Let(0.0) me(0.0) make(0.0) this(0.0) perfectly(0.0) 
+clear(0.0) .(0.0) In(0.0) order(0.0) to(0.0) make(0.0) it(0.0) constitutional(1.0) ,(0.0) since(0.0) the(0.0) gentleman(0.0) did(0.0) have(0.0) a(0.0) question(0.0) ,(0.0) this(0.0) is(0.0) for(0.0) 
+new(0.0) hires(0.0) as(0.0) a(0.0) subject(0.0) of(0.0) a(0.0) condition(0.0) of(0.0) employment(1.0) .(0.0) When(0.0) someone(0.0) walks(0.0) in(0.0) ,(0.0) from(0.0) the(0.0) passage(1.0) of(0.0) 
+this(0.0) bill(1.0) forward(0.0) ,(0.0) they(0.0) know(0.0) that(0.0) if(0.0) they(0.0) accept(0.0) a(0.0) job(0.0) with(0.0) the(0.0) Federal(1.0) Government(1.0) ,(0.0) as(0.0) a(0.0) condition(0.0) 
+of(0.0) employment(1.0) they(0.0) are(0.0) subject(0.0) to(0.0) drug(1.0) testing(0.0) .(0.0) That(0.0) is(0.0) clearly(0.0) constitutional(1.0) ,(0.0) because(0.0) it(0.0) is(0.0) done(0.0) every(0.0) day(0.0) 
+in(0.0) the(0.0) private(0.0) sector(0.0) as(0.0) a(0.0) condition(0.0) of(0.0) employment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+ought	drug	
+constitutional	
+employment	passage	
+bill	Federal	Government	
+employment	drug	constitutional	
+employment	
+
+reads % = 0.07947019867549669

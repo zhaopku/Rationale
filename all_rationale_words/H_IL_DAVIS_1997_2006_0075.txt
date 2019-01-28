@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) such(0.0) time(0.0) as(0.0) he(0.0) might(0.0) consume(0.0) to(0.0) the(0.0) sponsor(0.0) of(0.0) this(0.0) legislation(1.0) ,(0.0) Representative(1.0) Dennis(1.0) Moore(1.0) from(0.0) 
+Kansas(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+legislation	Representative	Dennis	Moore	
+
+
+reads % = 0.17391304347826086

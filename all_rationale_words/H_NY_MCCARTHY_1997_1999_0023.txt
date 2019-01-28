@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) yesterday(0.0) the(0.0) Senate(1.0) voted(1.0) down(0.0) a(0.0) loophole(1.0) that(0.0) could(0.0) have(0.0) been(0.0) closed(0.0) as(0.0) far(0.0) as(0.0) guns(0.0) being(0.0) sold(0.0) at(0.0) 
+gun(1.0) shows(0.0) .(0.0) This(0.0) was(0.0) a(0.0) very(0.0) moderate(0.0) request(0.0) so(0.0) that(0.0) people(0.0) ,(0.0) people(0.0) with(0.0) felonies(1.0) ,(0.0) criminals(1.0) ,(0.0) could(0.0) 
+not(0.0) go(0.0) to(0.0) gun(1.0) shows(0.0) and(0.0) buy(0.0) guns(1.0) that(0.0) could(0.0) possibly(0.0) be(0.0) used(0.0) or(0.0) sold(0.0) to(0.0) our(0.0) young(0.0) people(0.0) .(0.0) 
+Last(0.0) month(0.0) when(0.0) we(0.0) had(0.0) the(0.0) shooting(0.0) in(0.0) Littleton(1.0) ,(0.0) Colorado(1.0) ,(0.0) it(0.0) was(0.0) something(0.0) that(0.0) all(0.0) of(0.0) us(0.0) as(0.0) 
+victims(1.0) were(0.0) dreading(0.0) .(0.0) We(0.0) always(0.0) knew(0.0) it(0.0) was(0.0) not(0.0) a(0.0) matter(0.0) of(0.0) if(0.0) there(0.0) would(0.0) be(0.0) another(0.0) shooting(0.0) in(0.0) 
+our(0.0) schools(1.0) ,(0.0) it(0.0) all(0.0) came(0.0) down(0.0) to(0.0) a(0.0) matter(0.0) of(0.0) when(0.0) .(0.0) How(0.0) did(0.0) I(0.0) know(0.0) that(0.0) ?(0.0) I(0.0) 
+knew(0.0) that(0.0) because(0.0) we(0.0) have(0.0) had(0.0) five(0.0) committee(0.0) hearings(0.0) here(0.0) in(0.0) the(0.0) House(0.0) .(0.0) We(0.0) have(0.0) brought(0.0) in(0.0) all(0.0) the(0.0) 
+experts(0.0) .(0.0) We(0.0) were(0.0) trying(0.0) to(0.0) analyze(0.0) from(0.0) the(0.0) five(0.0) shootings(1.0) in(0.0) our(0.0) schools(1.0) what(0.0) could(0.0) be(0.0) done(0.0) ,(0.0) what(0.0) 
+can(0.0) we(0.0) do(0.0) .(0.0) After(0.0) Littleton(0.0) ,(0.0) the(0.0) American(0.0) people(0.0) said(0.0) ,(0.0) we(0.0) have(0.0) to(0.0) do(0.0) something(0.0) ,(0.0) and(0.0) yet(0.0) 
+we(0.0) hear(0.0) silence(0.0) here(0.0) in(0.0) the(0.0) halls(0.0) of(0.0) Congress(0.0) and(0.0) now(0.0) ,(0.0) obviously(0.0) ,(0.0) in(0.0) the(0.0) Senate(1.0) .(0.0) What(0.0) people(0.0) 
+forget(0.0) is(0.0) that(0.0) every(0.0) single(0.0) day(0.0) in(0.0) this(0.0) country(1.0) 13(0.0) of(0.0) our(0.0) young(0.0) people(0.0) die(0.0) through(0.0) homicide(1.0) ,(0.0) accidental(1.0) deaths(1.0) 
+and(0.0) suicides(1.0) .(0.0) People(0.0) forget(0.0) about(0.0) those(0.0) young(0.0) people(0.0) on(0.0) a(0.0) daily(0.0) basis(0.0) .(0.0) Here(0.0) they(0.0) say(0.0) there(0.0) is(0.0) nothing(0.0) 
+we(0.0) can(0.0) do(0.0) .(0.0) I(0.0) do(0.0) not(0.0) believe(0.0) that(0.0) .(0.0) I(0.0) believe(0.0) with(0.0) sensible(0.0) ,(0.0) moderate(0.0) changes(0.0) on(0.0) how(0.0) our(0.0) 
+young(0.0) people(0.0) get(0.0) guns(1.0) we(0.0) can(0.0) make(0.0) a(0.0) big(0.0) difference(0.0) .(0.0) I(0.0) know(0.0) we(0.0) will(0.0) not(0.0) be(0.0) able(0.0) to(0.0) save(0.0) 
+all(0.0) our(0.0) children(0.0) ,(0.0) but(0.0) we(0.0) certainly(0.0) should(0.0) do(0.0) everything(0.0) that(0.0) we(0.0) can(0.0) to(0.0) save(0.0) as(0.0) many(0.0) as(0.0) we(0.0) can(0.0) 
+.(0.0) I(0.0) also(0.0) know(0.0) if(0.0) the(0.0) American(0.0) people(0.0) ,(0.0) the(0.0) mothers(1.0) ,(0.0) the(0.0) fathers(1.0) ,(0.0) students(0.0) ,(0.0) teachers(0.0) ,(0.0) if(0.0) 
+they(0.0) do(0.0) not(0.0) become(0.0) involved(0.0) in(0.0) this(0.0) debate(1.0) ,(0.0) we(0.0) will(0.0) not(0.0) do(0.0) anything(0.0) here(0.0) in(0.0) the(0.0) House(0.0) .(0.0) There(0.0) 
+are(0.0) many(0.0) of(0.0) us(0.0) that(0.0) want(0.0) to(0.0) fight(1.0) to(0.0) save(0.0) our(0.0) children(0.0) ,(0.0) to(0.0) make(0.0) sure(0.0) our(0.0) children(0.0) feel(0.0) safe(0.0) 
+when(0.0) they(0.0) go(0.0) to(0.0) the(0.0) schools(1.0) ,(0.0) but(0.0) we(0.0) need(0.0) help(0.0) .(0.0) We(0.0) need(0.0) help(0.0) because(0.0) we(0.0) have(0.0) to(0.0) hear(0.0) 
+from(0.0) the(0.0) American(0.0) people(0.0) .(0.0) We(0.0) need(0.0) grass-root(1.0) organizations(0.0) .(0.0) We(0.0) need(0.0) people(0.0) to(0.0) call(0.0) here(0.0) in(0.0) Congress(0.0) ,(0.0) call(0.0) 
+their(0.0) Senator(1.0) ,(0.0) e-mail(0.0) them(0.0) and(0.0) say(0.0) ,(0.0) ``(0.0) We(0.0) want(0.0) something(0.0) done(0.0) .(0.0) ''(0.0) When(0.0) there(0.0) is(0.0) such(0.0) a(0.0) 
+high(0.0) percentage(0.0) of(0.0) Americans(1.0) willing(0.0) to(0.0) make(0.0) the(0.0) sacrifice(1.0) of(0.0) being(0.0) inconvenienced(0.0) ,(0.0) inconvenienced(0.0) to(0.0) hopefully(0.0) have(0.0) more(0.0) safety(0.0) for(0.0) 
+our(0.0) children(0.0) ,(0.0) they(0.0) are(0.0) willing(0.0) to(0.0) do(0.0) it(0.0) .(0.0) And(0.0) yet(0.0) those(0.0) in(0.0) the(0.0) Senate(1.0) and(0.0) here(0.0) in(0.0) the(0.0) 
+House(0.0) we(0.0) hear(0.0) nothing(0.0) from(0.0) .(0.0) It(0.0) is(0.0) wrong(0.0) .(0.0) All(0.0) we(0.0) want(0.0) is(0.0) to(0.0) try(0.0) and(0.0) have(0.0) safe(0.0) schools(1.0) 
+,(0.0) to(0.0) save(0.0) our(0.0) children(0.0) .(0.0) That(0.0) is(0.0) something(0.0) that(0.0) we(0.0) are(0.0) supposed(0.0) to(0.0) be(0.0) doing(0.0) here(0.0) .(0.0) That(0.0) 
+
+
+----- below are rationale words -----
+
+Senate	voted	loophole	
+gun	felonies	criminals	
+gun	guns	
+Littleton	Colorado	
+victims	
+schools	
+
+shootings	schools	
+
+Senate	
+country	homicide	accidental	deaths	
+suicides	
+
+guns	
+
+mothers	fathers	
+debate	
+fight	
+schools	
+grass-root	
+Senator	
+Americans	sacrifice	
+Senate	
+schools	
+
+
+reads % = 0.064

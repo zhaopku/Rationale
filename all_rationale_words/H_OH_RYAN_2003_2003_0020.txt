@@ -1,0 +1,38 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Missouri(1.0) for(0.0) yielding(0.0) to(0.0) me(0.0) ,(0.0) and(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) his(0.0) fine(0.0) 
+leadership(0.0) ,(0.0) especially(0.0) on(0.0) the(0.0) ``(0.0) Buy(0.0) American(0.0) ''(0.0) provisions(0.0) that(0.0) are(0.0) in(0.0) this(0.0) bill(1.0) that(0.0) we(0.0) have(0.0) strengthened(0.0) ,(0.0) 
+and(0.0) also(0.0) the(0.0) gentleman(0.0) from(0.0) Illinois(1.0) ((0.0) Chairman(0.0) Manzullo(1.0) )(0.0) from(1.0) the(0.0) Committee(0.0) on(0.0) Small(0.0) Business(0.0) ,(0.0) and(0.0) the(0.0) gentleman(0.0) 
+from(0.0) Ohio(0.0) ((0.0) Mr.(0.0) Hobson(1.0) )(0.0) ,(0.0) as(0.0) well(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Missouri(1.0) ((0.0) Mr.(0.0) Skelton(1.0) )(0.0) ,(0.0) for(0.0) 
+all(0.0) their(0.0) help(0.0) strengthening(0.0) the(0.0) ``(0.0) Buy(0.0) American(0.0) ''(0.0) provision(0.0) .(0.0) This(0.0) is(0.0) really(0.0) not(0.0) a(0.0) Democrat(0.0) or(0.0) Republican(0.0) thing(1.0) 
+;(1.0) this(1.0) is(1.0) a(1.0) shift(1.0) from(1.0) the(1.0) United(1.0) States(1.0) Congress(0.0) to(0.0) the(0.0) executive(0.0) branch(0.0) to(0.0) make(0.0) major(0.0) decisions(0.0) .(0.0) Nobody(0.0) 
+came(0.0) before(0.0) the(0.0) people(0.0) to(0.0) say(0.0) it(0.0) was(0.0) okay(0.0) .(0.0) We(0.0) are(0.0) losing(0.0) .(0.0) The(0.0) right(0.0) to(0.0) receive(0.0) a(0.0) veterans(0.0) 
+'(0.0) preference(0.0) is(0.0) gone(0.0) .(0.0) The(0.0) right(0.0) to(0.0) be(0.0) free(0.0) from(0.0) discrimination(1.0) based(0.0) upon(0.0) political(1.0) opinion(0.0) is(0.0) gone(0.0) .(0.0) The(0.0) 
+right(0.0) to(0.0) overtime(1.0) pay(1.0) is(0.0) gone(0.0) .(0.0) The(0.0) right(0.0) to(0.0) collective(1.0) bargaining(1.0) rights(1.0) is(0.0) gone(0.0) .(0.0) The(0.0) right(0.0) to(0.0) due(0.0) 
+process(0.0) ,(0.0) gone(0.0) ;(0.0) the(0.0) right(0.0) to(0.0) an(0.0) attorney(1.0) if(0.0) you(0.0) are(0.0) fired(0.0) inappropriately(0.0) ,(0.0) gone(0.0) .(0.0) We(0.0) just(0.0) won(0.0) 
+a(0.0) war(1.0) in(0.0) less(0.0) than(0.0) 100(0.0) days(0.0) .(0.0) This(0.0) is(0.0) the(0.0) thanks(0.0) we(0.0) give(0.0) these(0.0) people(0.0) .(0.0) We(0.0) want(0.0) flexibility(0.0) 
+.(0.0) We(0.0) understand(0.0) the(0.0) new(0.0) global(1.0) order(0.0) and(0.0) we(0.0) want(0.0) to(0.0) help(0.0) .(0.0) We(0.0) should(0.0) pass(0.0) a(0.0) bill(0.0) of(0.0) rights(1.0) 
+,(0.0) which(0.0) the(0.0) gentleman(0.0) from(0.0) Tennessee(0.0) ((0.0) Mr.(0.0) Cooper(1.0) )(0.0) has(1.0) been(0.0) pushing(0.0) .(0.0) We(0.0) should(0.0) pass(0.0) it(0.0) ,(0.0) not(0.0) 
+because(0.0) we(0.0) are(0.0) going(0.0) to(0.0) protect(0.0) the(0.0) Constitution(1.0) ,(0.0) not(0.0) because(0.0) it(0.0) is(0.0) a(0.0) Democratic(0.0) thing(0.0) ,(0.0) but(0.0) because(0.0) these(0.0) 
+ladies(0.0) and(0.0) gentlemen(0.0) in(0.0) the(0.0) Department(0.0) of(0.0) Defense(0.0) deserve(0.0) it(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Missouri	
+bill	
+Illinois	Manzullo	from	
+Hobson	Missouri	Skelton	
+thing	
+;	this	is	a	shift	from	the	United	States	
+
+discrimination	political	
+overtime	pay	collective	bargaining	rights	
+attorney	
+war	
+global	rights	
+Cooper	has	
+Constitution	
+
+
+reads % = 0.1095890410958904

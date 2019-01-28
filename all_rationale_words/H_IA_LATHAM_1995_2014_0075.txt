@@ -1,0 +1,20 @@
+This is from a Republican
+----- below is the original text -----
+The(0.0) Acting(0.0) CHAIR(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) Iowa(1.0) is(0.0) recognized(0.0) for(0.0) 5(0.0) minutes(0.0) .(0.0) While(0.0) I(0.0) appreciate(0.0) the(0.0) gentleman(0.0) 's(0.0) effort(0.0) 
+to(0.0) further(0.0) reduce(1.0) spending(1.0) ,(0.0) this(0.0) account(0.0) is(0.0) already(0.0) below(0.0) the(0.0) enacted(1.0) funding(1.0) level(0.0) ,(0.0) and(0.0) further(0.0) cuts(1.0) in(0.0) this(0.0) 
+account(0.0) are(0.0) unwarranted(1.0) .(0.0) This(0.0) account(0.0) primarily(0.0) funds(1.0) employee(0.0) salaries(0.0) and(0.0) benefits(1.0) ,(0.0) and(0.0) an(0.0) additional(0.0) 14(0.0) percent(0.0) reduction(1.0) would(0.0) 
+result(0.0) in(0.0) the(0.0) furlough(1.0) or(0.0) layoff(0.0) of(0.0) key(0.0) HUD(1.0) employees(0.0) .(0.0) Disruption(0.0) of(0.0) the(0.0) leadership(0.0) offices(0.0) at(0.0) HUD(1.0) would(0.0) jeopardize(1.0) 
+the(0.0) welfare(1.0) of(0.0) millions(1.0) of(0.0) vulnerable(1.0) families(0.0) and(0.0) billions(1.0) of(0.0) dollars(1.0) in(0.0) taxpayer(1.0) investments(1.0) .(0.0) Therefore(0.0) ,(0.0) I(0.0) can(0.0) not(0.0) 
+support(0.0) the(0.0) gentleman(0.0) 's(0.0) amendment(1.0) .(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Iowa	
+reduce	spending	enacted	funding	cuts	
+unwarranted	funds	benefits	reduction	
+furlough	HUD	HUD	jeopardize	
+welfare	millions	vulnerable	billions	dollars	taxpayer	investments	
+amendment	
+
+reads % = 0.1896551724137931

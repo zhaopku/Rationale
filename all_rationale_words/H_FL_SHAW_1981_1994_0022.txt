@@ -1,0 +1,22 @@
+This is from a Republican
+----- below is the original text -----
+But(0.0) you(0.0) take(0.0) the(0.0) basic(0.0) proposition(1.0) that(0.0) you(0.0) will(0.0) support(0.0) the(0.0) enforcement(1.0) that(0.0) in(0.0) 2(0.0) years(0.0) you(0.0) have(0.0) got(0.0) to(0.0) work(0.0) 
+at(0.0) something(0.0) ,(0.0) if(0.0) you(0.0) can(0.0) not(0.0) find(0.0) a(0.0) job(0.0) we(0.0) will(0.0) find(0.0) one(0.0) for(0.0) you(0.0) ,(0.0) and(0.0) if(0.0) we(0.0) 
+can(0.0) find(0.0) one(0.0) for(0.0) you(0.0) ,(0.0) then(0.0) you(0.0) know(0.0) at(0.0) that(0.0) point(0.0) you(0.0) have(0.0) got(0.0) to(0.0) take(0.0) it(0.0) or(0.0) we(0.0) 
+will(0.0) find(0.0) it(0.0) for(0.0) you(0.0) .(0.0) The(0.0) question(0.0) I(0.0) have(0.0) as(0.0) a(0.0) follow-up(0.0) because(0.0) I(0.0) am(0.0) seeing(0.0) a(0.0) little(0.0) hesitation(0.0) 
+on(0.0) your(0.0) side(0.0) ,(0.0) what(0.0) does(0.0) this(0.0) have(0.0) to(0.0) pay(1.0) ?(0.0) And(0.0) if(0.0) we(0.0) supply(1.0) such(0.0) a(0.0) job(0.0) ,(0.0) a(0.0) 
+public(1.0) service(0.0) job(0.0) ,(0.0) the(0.0) one(0.0) Mr.(0.0) Franks(1.0) talked(1.0) about(0.0) and(0.0) the(0.0) one(0.0) Ms.(0.0) Molinari(1.0) talked(0.0) about(0.0) ,(0.0) like(0.0) taking(0.0) 
+graffiti(0.0) off(0.0) the(0.0) wall(0.0) in(0.0) the(0.0) housing(1.0) project(0.0) ,(0.0) helping(0.0) there(0.0) ,(0.0) helping(0.0) with(0.0) daycare(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+proposition	enforcement	
+
+
+
+pay	supply	
+public	Franks	talked	Molinari	
+housing	
+
+reads % = 0.06569343065693431

@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) the(0.0) American(0.0) people(0.0) would(0.0) be(0.0) better(0.0) served(0.0) if(0.0) we(0.0) addressed(0.0) our(0.0) broken(1.0) immigration(1.0) system(1.0) .(0.0) And(0.0) if(0.0) we(0.0) defeat(1.0) 
+the(0.0) previous(0.0) question(0.0) ,(0.0) I(0.0) will(0.0) offer(0.0) an(0.0) amendment(1.0) to(0.0) the(0.0) rule(1.0) to(0.0) bring(0.0) up(0.0) H.R(0.0) .(0.0) 15(0.0) ,(0.0) the(0.0) 
+immigration(1.0) reform(1.0) bill(1.0) .(1.0) To(0.0) discuss(0.0) our(0.0) proposal(1.0) ,(0.0) I(0.0) yield(0.0) 2(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Colorado(1.0) ((0.0) Mr.(0.0) 
+Polis(1.0) )(0.0) ,(0.0) a(0.0) member(0.0) of(0.0) the(0.0) Rules(0.0) Committee(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+broken	immigration	system	defeat	
+amendment	rule	
+immigration	reform	bill	.	proposal	Colorado	
+Polis	
+
+reads % = 0.18309859154929578

@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) today(0.0) it(0.0) 's(0.0) my(0.0) pleasure(0.0) to(0.0) extend(0.0) my(0.0) congratulations(0.0) to(0.0) Chris(0.0) Locke(1.0) ,(0.0) a(0.0) walnut(0.0) farmer(0.0) from(0.0) Lockeford(1.0) 
+,(0.0) California(1.0) ,(0.0) who(0.0) recently(0.0) earned(0.0) an(0.0) award(0.0) from(0.0) the(0.0) Environmental(0.0) Protection(0.0) Agency(0.0) for(0.0) sustainable(1.0) farming(1.0) practices(0.0) .(0.0) He(0.0) tends(0.0) 
+580(0.0) acres(0.0) of(0.0) walnuts(0.0) on(0.0) a(0.0) plot(0.0) of(0.0) land(0.0) in(0.0) a(0.0) town(0.0) that(0.0) his(0.0) great-great(0.0) grandfather(0.0) founded(0.0) and(0.0) which(0.0) bears(0.0) 
+his(0.0) family(0.0) 's(0.0) name(0.0) ,(0.0) Lockeford(1.0) .(0.0) Chris(0.0) utilizes(0.0) pest(1.0) control(0.0) practices(0.0) that(0.0) reduce(0.0) the(0.0) need(0.0) for(0.0) chemical(1.0) sprays(1.0) .(0.0) 
+His(0.0) methods(0.0) include(0.0) pheromone-based(1.0) treatments(0.0) as(0.0) well(0.0) as(0.0) maintaining(0.0) plants(0.0) that(0.0) attract(0.0) beneficial(0.0) insects(0.0) and(0.0) birds(0.0) that(0.0) control(0.0) rodents(0.0) .(0.0) 
+Chris(0.0) '(0.0) motivation(0.0) is(0.0) an(0.0) admirable(0.0) example(0.0) of(0.0) sustainable(1.0) farming(1.0) and(0.0) stands(0.0) as(0.0) a(0.0) shining(0.0) illustration(0.0) of(0.0) the(0.0) increasing(1.0) commitment(1.0) 
+of(0.0) San(1.0) Joaquin(1.0) County(1.0) farmers(1.0) and(0.0) growers(1.0) to(0.0) environmentally(1.0) friendly(0.0) agricultural(1.0) techniques(0.0) .(0.0) As(0.0) a(0.0) pioneer(0.0) in(0.0) the(0.0) field(0.0) ,(0.0) 
+Chris(0.0) has(0.0) generously(0.0) offered(0.0) to(0.0) share(0.0) his(0.0) techniques(0.0) with(0.0) fellow(0.0) farmers(1.0) .(0.0) It(0.0) is(0.0) my(0.0) honor(0.0) to(0.0) recognize(0.0) Chris(0.0) and(0.0) 
+to(0.0) congratulate(0.0) him(0.0) for(0.0) his(0.0) well-deserved(0.0) award(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Locke	Lockeford	
+California	sustainable	farming	
+
+Lockeford	pest	chemical	sprays	
+pheromone-based	
+sustainable	farming	increasing	commitment	
+San	Joaquin	County	farmers	growers	environmentally	agricultural	
+farmers	
+
+
+reads % = 0.1301775147928994

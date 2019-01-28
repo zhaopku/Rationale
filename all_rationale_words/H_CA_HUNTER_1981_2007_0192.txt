@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) 'd(1.0) like(0.0) to(0.0) yield(0.0) 2(0.0) minutes(1.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) South(1.0) Carolina(1.0) ((0.0) Mr.(0.0) Wilson(1.0) )(0.0) ,(0.0) whose(1.0) 
+son(0.0) has(0.0) served(1.0) a(0.0) tour(1.0) of(0.0) duty(1.0) in(0.0) Iraq(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+'d	minutes	South	Carolina	Wilson	whose	
+served	tour	duty	Iraq	
+
+reads % = 0.3225806451612903

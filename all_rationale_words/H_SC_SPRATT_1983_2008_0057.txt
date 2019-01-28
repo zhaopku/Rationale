@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) yield(0.0) myself(0.0) 30(0.0) seconds(0.0) before(0.0) yielding(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) .(0.0) Let(0.0) me(0.0) just(0.0) make(0.0) clear(0.0) ,(0.0) this(0.0) budget(1.0) 
+moves(0.0) us(0.0) to(0.0) balance(0.0) in(0.0) 2012(0.0) .(0.0) And(0.0) the(0.0) fact(0.0) of(0.0) the(0.0) matter(0.0) is(0.0) ,(0.0) the(0.0) plain(0.0) history(0.0) of(0.0) the(0.0) 
+matter(0.0) is(0.0) that(0.0) when(0.0) the(0.0) Republicans(1.0) took(1.0) the(1.0) White(1.0) House(1.0) in(1.0) 2001(1.0) ,(1.0) the(1.0) budget(1.0) the(0.0) year(1.0) before(1.0) was(1.0) $(0.0) 
+236(0.0) billion(1.0) in(1.0) surplus(1.0) .(1.0) By(1.0) the(0.0) year(0.0) 2004(0.0) ,(0.0) they(0.0) had(0.0) made(0.0) that(0.0) surplus(1.0) advantage(0.0) to(0.0) where(0.0) we(0.0) had(0.0) 
+a(0.0) deficit(0.0) of(0.0) $(0.0) 412(0.0) billion(1.0) ,(0.0) a(0.0) swing(0.0) of(0.0) $(0.0) 648(0.0) billion(1.0) on(0.0) their(0.0) watch(0.0) .(0.0) They(0.0) controlled(0.0) the(0.0) 
+House(0.0) ,(0.0) they(0.0) controlled(0.0) the(0.0) Senate(0.0) ,(0.0) they(0.0) controlled(0.0) the(0.0) White(1.0) House(0.0) ;(0.0) and(0.0) they've(0.0) added(0.0) $(0.0) 4(0.0) trillion(1.0) to(0.0) 
+the(0.0) national(1.0) debt(1.0) .(0.0) I(0.0) now(0.0) yield(0.0) 2(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+budget	
+
+Republicans	took	the	White	House	in	2001	,	the	budget	year	before	was	
+billion	in	surplus	.	By	surplus	
+billion	billion	
+White	trillion	
+national	debt	
+
+reads % = 0.19117647058823528

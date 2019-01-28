@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) strike(1.0) the(0.0) requisite(0.0) number(0.0) of(0.0) words(0.0) .(0.0) The(0.0) amendment(1.0) before(0.0) us(0.0) represents(1.0) a(0.0) sound(0.0) alternative(0.0) to(0.0) 
+what(0.0) ,(0.0) after(0.0) all(0.0) ,(0.0) is(0.0) Mr.(0.0) Clinton(1.0) 's(0.0) request(0.0) for(0.0) an(0.0) increase(0.0) in(0.0) his(0.0) White(0.0) House(0.0) budget(1.0) .(0.0) When(0.0) 
+all(0.0) is(0.0) said(0.0) and(0.0) done(0.0) ,(0.0) the(0.0) Appropriations(0.0) Committee(0.0) 's(0.0) response(0.0) funds(0.0) White(1.0) House(0.0) activities(0.0) at(0.0) precisely(0.0) the(0.0) same(0.0) level(0.0) 
+they(0.0) were(0.0) funded(1.0) in(0.0) 1992(1.0) ,(0.0) George(0.0) Bush(1.0) 's(0.0) last(0.0) year(0.0) .(0.0) Yet(0.0) as(0.0) a(0.0) candidate(0.0) ,(0.0) Bill(1.0) Clinton(1.0) talked(0.0) 
+about(0.0) a(0.0) 25-percent(0.0) cut(0.0) in(0.0) the(0.0) White(1.0) House(0.0) staff(0.0) .(0.0) Many(0.0) Americans(0.0) are(0.0) wondering(0.0) ,(0.0) at(0.0) current(0.0) levels(0.0) ,(0.0) whether(0.0) 
+we(0.0) are(0.0) not(0.0) paying(0.0) too(0.0) much(0.0) already(0.0) ,(0.0) particularly(0.0) in(0.0) light(0.0) of(0.0) the(0.0) continuing(0.0) allegations(1.0) of(0.0) grave(0.0) misconduct(1.0) by(0.0) members(0.0) 
+of(0.0) the(0.0) White(1.0) House(0.0) staff(0.0) .(0.0) Yet(0.0) Bill(1.0) Clinton(1.0) ,(0.0) the(0.0) man(0.0) who(0.0) promised(0.0) a(0.0) 25-percent(1.0) cut(0.0) to(0.0) the(0.0) American(0.0) 
+people(0.0) ,(0.0) has(0.0) this(0.0) year(0.0) proposed(1.0) an(0.0) 8-percent(1.0) increase(0.0) for(0.0) the(0.0) White(1.0) House(0.0) budget(1.0) .(0.0) I(0.0) congratulate(0.0) my(0.0) colleague(0.0) ,(0.0) 
+the(0.0) gentleman(0.0) from(0.0) Florida(0.0) [(0.0) Mr.(0.0) Goss(1.0) ](0.0) ,(1.0) who(0.0) did(0.0) not(0.0) see(0.0) fit(0.0) to(0.0) give(0.0) Mr.(0.0) Clinton(1.0) more(1.0) money(1.0) 
+,(0.0) but(0.0) is(0.0) instead(0.0) proposing(1.0) that(0.0) we(0.0) hold(0.0) him(0.0) to(0.0) at(0.0) least(0.0) some(0.0) of(0.0) the(0.0) spending(1.0) cuts(1.0) that(0.0) he(0.0) proposed(0.0) 
+as(0.0) a(0.0) candidate(0.0) .(0.0) In(0.0) light(0.0) of(0.0) what(0.0) the(0.0) White(1.0) House(0.0) staff(0.0) has(0.0) been(0.0) up(0.0) to(0.0) ,(0.0) it(0.0) seems(0.0) to(0.0) 
+me(0.0) they(0.0) hardly(0.0) deserve(0.0) a(0.0) raise(0.0) .(0.0) Just(0.0) 18(0.0) months(0.0) ago(0.0) ,(0.0) the(0.0) Clinton(1.0) White(1.0) House(0.0) started(0.0) out(0.0) with(0.0) Travelgate(1.0) 
+.(0.0) It(0.0) consisted(0.0) in(0.0) the(0.0) firing(0.0) and(0.0) smearing(1.0) of(0.0) honest(0.0) career(0.0) employees(0.0) in(0.0) the(0.0) White(1.0) House(0.0) for(0.0) the(0.0) benefit(0.0) of(0.0) 
+the(0.0) Clintons(1.0) relatives(0.0) and(0.0) campaign(1.0) workers(1.0) .(0.0) Even(0.0) the(0.0) White(1.0) House(0.0) press(0.0) corps(1.0) were(0.0) scandalized(0.0) by(0.0) such(0.0) a(0.0) noxious(0.0) mixture(0.0) 
+of(0.0) cronyism(1.0) ,(0.0) political(1.0) manipulation(1.0) of(0.0) law(1.0) enforcement(1.0) ,(0.0) and(0.0) scapegoating(1.0) ,(0.0) the(0.0) likes(0.0) of(0.0) which(0.0) Washington(1.0) has(0.0) not(0.0) seen(0.0) 
+since(0.0) the(0.0) spoils(1.0) system(0.0) was(0.0) first(0.0) set(0.0) into(0.0) motion(1.0) by(0.0) Andrew(0.0) Jackson(1.0) .(0.0) All(0.0) of(0.0) this(0.0) certainly(0.0) set(0.0) the(0.0) tone(0.0) 
+for(0.0) what(0.0) we(0.0) have(0.0) now(0.0) come(0.0) to(0.0) know(0.0) as(0.0) the(0.0) prototypical(1.0) Clinton(1.0) scandal(1.0) ,(0.0) the(0.0) corner-cutting(1.0) ,(0.0) the(0.0) greed(1.0) ,(0.0) 
+cronyism(1.0) ,(0.0) and(0.0) ,(0.0) above(0.0) all(0.0) ,(0.0) the(0.0) deceit(1.0) .(0.0) There(0.0) has(0.0) been(0.0) more(0.0) serious(0.0) misconduct(1.0) by(0.0) the(0.0) Clinton(1.0) White(1.0) 
+House(0.0) than(0.0) Travelgate(1.0) ,(0.0) but(0.0) certainly(0.0) nothing(0.0) more(0.0) contemptible(1.0) than(0.0) firing(0.0) and(0.0) smearing(1.0) longtime(1.0) ,(0.0) apolitical(1.0) ,(0.0) low-level(1.0) government(1.0) workers(1.0) 
+in(0.0) order(0.0) to(0.0) benefit(1.0) the(0.0) President(1.0) 's(0.0) cousin(0.0) and(0.0) his(0.0) wealthiest(1.0) friends(0.0) .(0.0) No(0.0) less(0.0) disgraceful(1.0) was(0.0) the(0.0) tampering(1.0) with(0.0) 
+the(0.0) FBI(1.0) by(0.0) the(0.0) White(1.0) House(0.0) counsel(0.0) 's(0.0) office(0.0) ,(0.0) the(0.0) office(0.0) in(0.0) which(0.0) I(0.0) once(0.0) served(0.0) as(0.0) senior(0.0) associate(0.0) 
+counsel(0.0) to(0.0) the(0.0) President(0.0) .(0.0) The(0.0) White(1.0) House(0.0) counsel(0.0) is(0.0) supposed(0.0) to(0.0) be(0.0) preeminently(0.0) responsible(0.0) for(0.0) preventing(0.0) ethical(1.0) lapses(1.0) by(0.0) 
+the(0.0) President(1.0) and(0.0) senior(0.0) White(0.0) House(0.0) officials(1.0) .(0.0) Instead(0.0) ,(0.0) it(0.0) was(0.0) this(0.0) White(1.0) House(0.0) counsel(0.0) 's(0.0) office(0.0) that(0.0) was(0.0) 
+the(0.0) very(0.0) source(0.0) of(0.0) the(0.0) scandal(1.0) including(0.0) flagrant(1.0) obvious(0.0) misconduct(1.0) by(0.0) White(1.0) House(0.0) lawyer(0.0) William(0.0) Kennedy(1.0) ,(0.0) who(0.0) did(0.0) not(0.0) 
+contact(0.0) the(0.0) Attorney(1.0) General(0.0) ,(0.0) who(0.0) did(0.0) not(0.0) contact(0.0) FBI(0.0) Director(0.0) Sessions(1.0) ,(0.0) but(0.0) interfered(0.0) directly(0.0) in(0.0) the(0.0) operations(0.0) 
+
+
+----- below are rationale words -----
+
+strike	amendment	represents	
+Clinton	budget	
+White	
+funded	1992	Bush	Bill	Clinton	
+White	
+allegations	misconduct	
+White	Bill	Clinton	25-percent	
+proposed	8-percent	White	budget	
+Goss	,	Clinton	more	money	
+proposing	spending	cuts	
+White	
+Clinton	White	Travelgate	
+smearing	White	
+Clintons	campaign	workers	White	corps	
+cronyism	political	manipulation	law	enforcement	scapegoating	Washington	
+spoils	motion	Jackson	
+prototypical	Clinton	scandal	corner-cutting	greed	
+cronyism	deceit	misconduct	Clinton	White	
+Travelgate	contemptible	smearing	longtime	apolitical	low-level	government	workers	
+benefit	President	wealthiest	disgraceful	tampering	
+FBI	White	
+White	ethical	lapses	
+President	officials	White	
+scandal	flagrant	misconduct	White	Kennedy	
+Attorney	Sessions	
+
+reads % = 0.178

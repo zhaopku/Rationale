@@ -1,0 +1,10 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(1.0) ,(0.0) and(0.0) I(0.0) move(0.0) the(0.0) previous(0.0) question(0.0) on(0.0) the(0.0) resolution(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+time	
+
+reads % = 0.05263157894736842

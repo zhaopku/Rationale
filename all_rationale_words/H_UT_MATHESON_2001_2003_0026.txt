@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) to(0.0) bring(0.0) attention(0.0) to(0.0) an(0.0) issue(0.0) of(0.0) utmost(0.0) importance(0.0) to(0.0) my(0.0) home(0.0) State(0.0) of(0.0) Utah(1.0) and(0.0) 
+to(0.0) the(0.0) rest(0.0) of(0.0) this(0.0) country(1.0) .(0.0) As(0.0) we(0.0) are(0.0) now(0.0) in(0.0) the(0.0) beginning(0.0) of(0.0) a(0.0) new(0.0) school(0.0) year(0.0) ,(0.0) 
+I(0.0) am(0.0) very(0.0) troubled(0.0) by(0.0) news(0.0) from(0.0) across(0.0) our(0.0) State(1.0) about(0.0) the(0.0) implementation(0.0) of(0.0) the(0.0) No(0.0) Child(0.0) Left(1.0) Behind(0.0) Act(0.0) 
+.(0.0) The(0.0) concepts(0.0) and(0.0) ideas(0.0) behind(0.0) this(0.0) Federal(1.0) education(1.0) reform(1.0) legislation(1.0) remain(1.0) just(0.0) as(0.0) good(0.0) as(0.0) they(0.0) were(0.0) 2(0.0) years(0.0) 
+ago(0.0) when(0.0) ,(0.0) with(0.0) bipartisan(1.0) support(0.0) ,(0.0) Congress(0.0) enacted(1.0) the(0.0) bill(1.0) at(0.0) the(0.0) urging(1.0) of(0.0) President(1.0) Bush(1.0) .(0.0) Despite(0.0) the(0.0) 
+bill(1.0) 's(0.0) good(0.0) intentions(0.0) ,(0.0) such(0.0) as(0.0) improving(0.0) student(0.0) achievement(0.0) ,(0.0) increasing(1.0) teacher(0.0) quality(0.0) ,(0.0) and(0.0) providing(0.0) parents(0.0) with(0.0) greater(0.0) 
+options(0.0) ,(0.0) the(0.0) legislation(1.0) implementation(1.0) has(0.0) strayed(0.0) off(0.0) course(0.0) .(0.0) How(0.0) bad(0.0) is(0.0) it(0.0) ?(0.0) Under(0.0) the(0.0) strictest(1.0) interpretation(0.0) of(0.0) 
+standards(1.0) ,(0.0) 78(0.0) out(0.0) of(0.0) the(0.0) 83(0.0) schools(0.0) in(0.0) Utah(1.0) 's(0.0) Jordan(0.0) School(0.0) District(0.0) will(0.0) be(0.0) designated(0.0) as(0.0) failing(0.0) schools(0.0) 
+.(0.0) In(0.0) rural(1.0) Utah(1.0) it(0.0) is(0.0) questionable(0.0) whether(0.0) any(0.0) junior(0.0) high(0.0) or(0.0) high(0.0) school(0.0) will(0.0) be(0.0) able(0.0) to(0.0) meet(0.0) all(0.0) 
+of(0.0) the(0.0) criteria(0.0) .(0.0) This(0.0) just(0.0) does(0.0) not(0.0) make(0.0) sense(0.0) .(0.0) I(0.0) have(0.0) met(0.0) with(0.0) teachers(0.0) ,(0.0) principals(0.0) ,(0.0) parents(0.0) 
+,(0.0) school(0.0) board(0.0) members(0.0) ,(0.0) and(0.0) superintendents(1.0) throughout(0.0) my(0.0) State(0.0) ,(0.0) and(0.0) I(0.0) know(0.0) first(0.0) hand(0.0) about(0.0) the(0.0) good(0.0) work(0.0) 
+that(0.0) is(0.0) done(0.0) every(0.0) day(0.0) in(0.0) our(0.0) schools(1.0) .(0.0) Utah(1.0) 's(0.0) schools(1.0) face(0.0) challenges(0.0) based(0.0) on(0.0) large(0.0) class(0.0) sizes(0.0) and(0.0) 
+low(0.0) State(1.0) funding(1.0) .(0.0) Now(0.0) ,(0.0) due(0.0) to(0.0) the(0.0) imposition(1.0) of(0.0) a(0.0) new(0.0) series(0.0) of(0.0) underfunded(1.0) Federal(1.0) requirements(1.0) ,(0.0) they(0.0) 
+face(0.0) the(0.0) possibility(0.0) of(0.0) being(0.0) labeled(0.0) as(0.0) ``(0.0) failures(0.0) .(0.0) ''(0.0) There(0.0) are(0.0) two(0.0) basic(0.0) problems(0.0) with(0.0) the(0.0) implementation(1.0) of(0.0) 
+the(0.0) No(0.0) Child(0.0) Left(1.0) Behind(1.0) Act(0.0) .(0.0) First(0.0) ,(0.0) the(0.0) act(1.0) promised(1.0) significant(0.0) Federal(1.0) funding(1.0) to(0.0) assist(0.0) local(0.0) schools(1.0) in(0.0) 
+meeting(0.0) new(0.0) requirements(0.0) .(0.0) In(0.0) fact(0.0) ,(0.0) a(0.0) strong(0.0) commitment(0.0) to(0.0) fund(1.0) the(0.0) No(0.0) Child(0.0) Left(1.0) Behind(1.0) Act(0.0) requirements(1.0) was(0.0) 
+critical(0.0) in(0.0) garnering(1.0) overwhelming(0.0) bipartisan(1.0) support(1.0) for(0.0) the(0.0) legislation(1.0) .(0.0) Unfortunately(0.0) ,(0.0) when(0.0) it(0.0) came(0.0) time(0.0) to(0.0) provide(0.0) the(0.0) actual(0.0) 
+funding(1.0) ,(0.0) Congress(0.0) fell(0.0) short(0.0) by(0.0) $(0.0) 9(0.0) billion(1.0) .(0.0) At(0.0) a(0.0) time(0.0) when(0.0) State(1.0) budgets(1.0) are(0.0) already(0.0) tight(0.0) ,(0.0) 
+Federal(1.0) requirements(1.0) to(0.0) push(1.0) schools(1.0) to(0.0) do(0.0) more(0.0) with(0.0) less(0.0) set(0.0) up(0.0) our(0.0) schools(1.0) to(0.0) fail(1.0) .(0.0) Second(0.0) ,(0.0) as(0.0) 
+with(0.0) any(0.0) complex(0.0) law(1.0) enacted(1.0) by(0.0) Congress(0.0) ,(0.0) the(0.0) Federal(1.0) agency(1.0) responsible(0.0) for(0.0) administration(1.0) develops(0.0) specific(0.0) regulations(1.0) .(0.0) And(0.0) in(0.0) 
+this(0.0) case(0.0) of(0.0) No(0.0) Child(0.0) Left(1.0) Behind(1.0) ,(0.0) the(0.0) U.S.(0.0) Department(0.0) of(0.0) Education(0.0) has(0.0) developed(0.0) a(0.0) set(0.0) of(0.0) regulations(0.0) based(0.0) 
+on(0.0) an(0.0) extreme(0.0) interpretation(0.0) of(0.0) the(0.0) legislation(0.0) .(0.0) There(0.0) are(0.0) many(0.0) problems(0.0) with(0.0) the(0.0) way(0.0) No(0.0) Child(0.0) Left(1.0) Behind(1.0) regulations(1.0) 
+have(0.0) evolved(0.0) ,(0.0) but(0.0) let(0.0) us(0.0) just(0.0) take(0.0) a(0.0) look(0.0) at(0.0) two(0.0) examples(0.0) .(0.0) Acknowledging(0.0) that(0.0) quality(0.0) teaching(0.0) is(0.0) critical(0.0) 
+to(0.0) student(0.0) performance(0.0) ,(0.0) No(0.0) Child(1.0) Left(1.0) Behind(1.0) calls(0.0) for(0.0) teachers(0.0) to(0.0) meet(0.0) competency(0.0) and(0.0) training(0.0) standards(0.0) for(0.0) subjects(0.0) they(0.0) 
+teach(0.0) .(0.0) This(0.0) sounds(0.0) reasonable(0.0) ,(0.0) but(0.0) any(0.0) new(0.0) Utah(1.0) secondary(0.0) teacher(0.0) is(0.0) required(0.0) to(0.0) have(0.0) a(0.0) bachelor's(0.0) degree(0.0) 
+
+
+----- below are rationale words -----
+
+Utah	
+country	
+State	Left	
+Federal	education	reform	legislation	remain	
+bipartisan	enacted	bill	urging	President	Bush	
+bill	increasing	
+legislation	implementation	strictest	
+standards	Utah	
+rural	Utah	
+
+superintendents	
+schools	Utah	schools	
+State	funding	imposition	underfunded	Federal	requirements	
+implementation	
+Left	Behind	act	promised	Federal	funding	schools	
+fund	Left	Behind	requirements	
+garnering	bipartisan	support	legislation	
+funding	billion	State	budgets	
+Federal	requirements	push	schools	schools	fail	
+law	enacted	Federal	agency	administration	regulations	
+Left	Behind	
+Left	Behind	regulations	
+
+Child	Left	Behind	
+Utah	
+
+reads % = 0.15

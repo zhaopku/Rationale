@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) the(0.0) holiday(0.0) time(0.0) is(0.0) upon(0.0) us(0.0) when(0.0) Americans(1.0) from(0.0) all(0.0) walks(0.0) of(0.0) life(0.0) rejoice(0.0) in(0.0) our(0.0) shared(0.0) values(0.0) 
+of(0.0) generosity(0.0) ,(0.0) good(0.0) will(0.0) ,(0.0) family(0.0) ,(0.0) and(0.0) thankfulness(0.0) .(0.0) Yet(0.0) ,(0.0) this(0.0) cherished(0.0) holiday(0.0) spirit(0.0) is(0.0) absent(0.0) here(0.0) 
+tonight(0.0) as(0.0) Congress(0.0) once(0.0) again(0.0) finds(0.0) itself(0.0) in(0.0) partisan(1.0) gridlock(1.0) .(0.0) This(0.0) is(0.0) doing(0.0) absolutely(0.0) nothing(0.0) to(0.0) ease(0.0) the(0.0) worry(0.0) 
+felt(0.0) by(0.0) families(0.0) across(0.0) America(1.0) during(0.0) these(0.0) difficult(0.0) times(0.0) .(0.0) Tonight(0.0) the(0.0) clock(0.0) is(0.0) ticking(0.0) for(0.0) 2(0.0) million(0.0) Americans(1.0) unable(0.0) 
+to(0.0) find(0.0) work(0.0) and(0.0) on(0.0) the(0.0) verge(1.0) of(0.0) losing(1.0) their(0.0) unemployment(1.0) insurance(1.0) .(0.0) They(0.0) worry(0.0) ,(0.0) and(0.0) they(0.0) worry(0.0) greatly(0.0) 
+,(0.0) how(0.0) they(0.0) will(0.0) meet(0.0) their(0.0) next(0.0) mortgage(1.0) payment(0.0) ,(0.0) how(0.0) they(0.0) will(0.0) put(0.0) food(1.0) on(0.0) the(0.0) table(0.0) ,(0.0) or(0.0) 
+how(0.0) they(0.0) just(0.0) may(0.0) be(0.0) able(0.0) to(0.0) afford(1.0) a(0.0) gift(0.0) or(0.0) two(0.0) for(0.0) their(0.0) children(0.0) this(0.0) year(0.0) at(0.0) this(0.0) season(0.0) 
+.(0.0) Likewise(0.0) ,(0.0) tonight(0.0) millions(1.0) of(0.0) workers(1.0) across(0.0) America(1.0) wonder(0.0) if(0.0) a(0.0) tax(0.0) increase(1.0) is(0.0) headed(0.0) their(0.0) way(0.0) .(0.0) They(0.0) 
+have(0.0) been(0.0) suffering(0.0) from(0.0) stagnant(1.0) wages(1.0) and(0.0) fewer(0.0) hours(0.0) for(0.0) years(0.0) ,(0.0) but(0.0) without(0.0) these(0.0) tax(1.0) cuts(1.0) they(1.0) know(1.0) times(1.0) 
+will(0.0) get(1.0) even(0.0) harder(1.0) .(0.0) They(0.0) are(0.0) not(0.0) asking(0.0) for(0.0) much(0.0) ,(0.0) just(0.0) a(0.0) few(0.0) extra(0.0) hundred(0.0) dollars(1.0) in(0.0) their(0.0) 
+paychecks(1.0) next(0.0) year(0.0) ,(0.0) yet(0.0) they(0.0) are(0.0) holding(0.0) their(0.0) breath(0.0) tonight(0.0) because(0.0) those(0.0) on(0.0) the(0.0) other(0.0) side(0.0) of(0.0) the(0.0) aisle(0.0) 
+are(0.0) holding(0.0) middle(0.0) class(1.0) tax(1.0) relief(1.0) hostage(1.0) in(0.0) favor(1.0) of(0.0) tax(1.0) cuts(1.0) for(1.0) millionaires(1.0) ,(1.0) holding(1.0) off(1.0) providing(1.0) tax(1.0) relief(1.0) 
+to(0.0) the(1.0) middle(1.0) class(1.0) at(0.0) a(0.0) time(0.0) when(0.0) it(0.0) is(0.0) so(0.0) desperately(0.0) needed(0.0) .(0.0) Tonight(0.0) ,(0.0) the(0.0) retirees(1.0) in(0.0) my(0.0) 
+district(0.0) and(0.0) all(0.0) across(0.0) America(1.0) worry(0.0) that(0.0) their(0.0) needs(0.0) are(0.0) going(0.0) unnoticed(0.0) by(0.0) Congress(0.0) .(0.0) Already(0.0) just(0.0) today(0.0) in(0.0) the(0.0) 
+United(0.0) States(0.0) Senate(0.0) Democratic(1.0) efforts(1.0) to(0.0) provide(0.0) some(0.0) measure(1.0) of(0.0) benefit(1.0) to(0.0) seniors(1.0) who(0.0) have(0.0) now(0.0) gone(0.0) 2(0.0) years(0.0) in(0.0) 
+a(0.0) row(0.0) without(0.0) a(0.0) cost(0.0) of(0.0) living(0.0) adjustment(1.0) to(0.0) their(0.0) Social(1.0) Security(0.0) even(0.0) as(0.0) their(0.0) costs(1.0) go(0.0) up(0.0) every(0.0) single(0.0) 
+year(0.0) ,(0.0) efforts(1.0) to(0.0) provide(0.0) them(0.0) with(0.0) just(0.0) a(0.0) payment(0.0) to(0.0) help(0.0) them(0.0) through(0.0) these(0.0) difficult(0.0) times(0.0) were(0.0) cut(0.0) off(0.0) 
+as(0.0) a(0.0) result(0.0) of(0.0) this(0.0) partisanship(1.0) .(0.0) Come(0.0) January(0.0) ,(0.0) if(0.0) the(0.0) Republicans(1.0) have(1.0) their(1.0) way(1.0) ,(1.0) health(1.0) care(1.0) reform(1.0) 
+will(1.0) be(1.0) repealed(1.0) and(1.0) the(1.0) donut(1.0) hole(1.0) will(1.0) be(1.0) reopened(1.0) ,(0.0) saddling(1.0) seniors(1.0) with(0.0) massive(1.0) prescription(1.0) drug(1.0) bills(1.0) .(0.0) In(0.0) 
+short(0.0) ,(0.0) political(1.0) posturing(1.0) is(0.0) threatening(1.0) to(0.0) reverse(1.0) the(0.0) progress(1.0) that(0.0) this(0.0) Congress(0.0) has(0.0) made(0.0) ,(0.0) and(0.0) more(0.0) importantly(0.0) ,(0.0) 
+at(0.0) this(0.0) difficult(0.0) time(0.0) it(0.0) is(0.0) political(1.0) posturing(1.0) that(0.0) threatens(1.0) to(0.0) hold(0.0) up(0.0) the(0.0) middle(1.0) class(1.0) tax(1.0) cuts(1.0) ,(1.0) that(1.0) 
+threatens(1.0) to(1.0) hold(1.0) up(1.0) an(1.0) extension(1.0) of(0.0) unemployment(1.0) benefits(1.0) even(0.0) as(1.0) 2(0.0) million(0.0) Americans(1.0) are(0.0) starting(0.0) to(0.0) see(0.0) their(0.0) benefits(1.0) 
+end(0.0) ,(0.0) and(0.0) it(0.0) is(0.0) indeed(0.0) this(0.0) posturing(1.0) that(0.0) will(0.0) make(0.0) things(0.0) exceedingly(0.0) more(0.0) difficult(0.0) for(0.0) our(0.0) seniors(1.0) .(0.0) So(0.0) 
+instead(0.0) of(0.0) giving(0.0) middle(1.0) class(1.0) Americans(1.0) some(0.0) peace(1.0) of(0.0) mind(0.0) this(0.0) holiday(0.0) season(0.0) --(0.0) which(0.0) is(0.0) what(0.0) we(0.0) absolutely(0.0) ought(1.0) 
+to(0.0) be(0.0) doing(0.0) --(0.0) the(0.0) Republicans(1.0) in(1.0) Congress(1.0) are(1.0) demanding(1.0) another(1.0) $(1.0) 700(1.0) billion(1.0) for(1.0) those(1.0) who(1.0) do(1.0) n't(1.0) 
+
+
+----- below are rationale words -----
+
+Americans	
+
+partisan	gridlock	
+America	Americans	
+verge	losing	unemployment	insurance	
+mortgage	food	
+afford	
+millions	workers	America	increase	
+stagnant	wages	tax	cuts	they	know	times	
+get	harder	dollars	
+paychecks	
+class	tax	relief	hostage	favor	tax	cuts	for	millionaires	,	holding	off	providing	tax	relief	
+the	middle	class	retirees	
+America	
+Democratic	efforts	measure	benefit	seniors	
+adjustment	Social	costs	
+efforts	
+partisanship	Republicans	have	their	way	,	health	care	reform	
+will	be	repealed	and	the	donut	hole	will	be	reopened	saddling	seniors	massive	prescription	drug	bills	
+political	posturing	threatening	reverse	progress	
+political	posturing	threatens	middle	class	tax	cuts	,	that	
+threatens	to	hold	up	an	extension	unemployment	benefits	as	Americans	benefits	
+posturing	seniors	
+middle	class	Americans	peace	ought	
+Republicans	in	Congress	are	demanding	another	$	700	billion	for	those	who	do	n't	
+
+reads % = 0.254

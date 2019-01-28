@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) offer(0.0) a(0.0) privileged(0.0) motion(0.0) that(0.0) the(0.0) House(0.0) do(0.0) now(0.0) adjourn(0.0) .(0.0) The(0.0) SPEAKER(0.0) pro(0.0) tempore(0.0) ((1.0) Mr.(0.0) Ewing(1.0) 
+)(0.0) .(0.0) The(0.0) Clerk(0.0) will(0.0) report(0.0) the(0.0) motion(0.0) .(0.0) The(0.0) Clerk(0.0) read(0.0) as(0.0) follows(0.0) :(0.0) Mr(0.0) .(1.0) Wise(1.0) moves(1.0) that(0.0) 
+the(0.0) House(0.0) do(0.0) now(0.0) adjourn(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+(	Ewing	
+.	Wise	moves	
+
+
+reads % = 0.10638297872340426

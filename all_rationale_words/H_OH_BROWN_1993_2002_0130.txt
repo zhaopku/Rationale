@@ -1,0 +1,56 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) Florida(0.0) ((0.0) Mr.(0.0) Bilirakis(1.0) )(0.0) ,(0.0) 
+my(0.0) friend(0.0) ,(0.0) said(0.0) that(0.0) the(0.0) drug(0.0) companies(0.0) did(0.0) not(0.0) write(0.0) the(0.0) drug(0.0) bill(0.0) that(0.0) this(0.0) House(0.0) in(0.0) a(0.0) partisan(1.0) 
+vote(0.0) passed(0.0) .(0.0) I(0.0) guess(0.0) we(0.0) are(0.0) all(0.0) mistaken(0.0) ,(0.0) but(0.0) I(0.0) would(0.0) like(0.0) to(0.0) recount(1.0) for(0.0) a(0.0) moment(0.0) how(0.0) 
+this(0.0) drug(1.0) legislation(1.0) passed(0.0) this(0.0) House(0.0) of(0.0) Representatives(0.0) .(0.0) Back(0.0) in(0.0) June(0.0) we(0.0) worked(0.0) on(0.0) a(0.0) markup(0.0) on(0.0) a(0.0) bill(0.0) 
+that(0.0) the(0.0) drug(1.0) companies(1.0) were(0.0) totally(0.0) in(0.0) support(0.0) of(0.0) .(0.0) There(0.0) was(0.0) a(0.0) fundraiser(0.0) that(0.0) had(0.0) been(0.0) scheduled(0.0) for(0.0) one(0.0) 
+evening(0.0) .(0.0) We(0.0) stopped(0.0) the(0.0) markup(1.0) so(0.0) that(0.0) Republicans(0.0) could(1.0) troop(1.0) off(0.0) to(0.0) the(0.0) fundraiser(1.0) with(0.0) the(0.0) President(1.0) and(0.0) the(0.0) 
+Vice(0.0) President(1.0) which(0.0) raised(0.0) $(0.0) 30(0.0) million(0.0) ,(0.0) $(0.0) 3(0.0) million(0.0) of(0.0) it(0.0) from(0.0) drug(1.0) companies(1.0) .(0.0) The(0.0) sponsor(0.0) of(0.0) 
+the(0.0) fundraiser(1.0) ,(0.0) the(0.0) chairman(0.0) of(0.0) it(0.0) ,(0.0) was(0.0) the(0.0) CEO(0.0) of(0.0) a(0.0) British(0.0) drug(0.0) company(0.0) ,(0.0) GlaxoSmithKline(1.0) ,(0.0) which(0.0) 
+gave(0.0) $(0.0) 300,000(0.0) to(0.0) the(0.0) Republican(0.0) campaign(1.0) coffers(1.0) .(1.0) The(1.0) next(1.0) day(1.0) we(1.0) came(1.0) back(1.0) ,(1.0) passed(1.0) a(1.0) bill(1.0) ,(1.0) 
+defeated(1.0) every(1.0) amendment(1.0) on(0.0) a(0.0) partisan(1.0) vote(1.0) that(1.0) was(0.0) a(1.0) proconsumer(0.0) ,(0.0) prosenior(0.0) amendment(1.0) .(0.0) The(0.0) bill(1.0) then(0.0) passed(0.0) in(0.0) 
+a(0.0) partisan(1.0) vote(1.0) .(0.0) It(0.0) passed(0.0) the(0.0) House(0.0) in(0.0) a(0.0) partisan(1.0) vote(1.0) .(0.0) And(0.0) then(0.0) in(0.0) the(0.0) most(0.0) cynical(1.0) move(0.0) 
+I(0.0) have(0.0) seen(0.0) in(0.0) 10(0.0) years(0.0) in(0.0) Congress(0.0) ,(0.0) the(0.0) drug(1.0) companies(1.0) spent(0.0) literally(0.0) millions(1.0) of(0.0) dollars(1.0) advertising(1.0) on(0.0) television(1.0) 
+,(0.0) thanking(0.0) the(0.0) Republicans(1.0) for(1.0) passing(1.0) their(1.0) drug(1.0) bill(1.0) .(1.0) The(1.0) only(0.0) thing(0.0) was(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) they(0.0) did(0.0) 
+not(0.0) say(0.0) ``(0.0) paid(0.0) for(0.0) by(0.0) ''(0.0) Pfizer(1.0) or(0.0) Merck(0.0) or(0.0) Eli(0.0) Lilly(1.0) or(0.0) Pharmacia(0.0) or(0.0) Glaxo(0.0) .(0.0) They(0.0) said(0.0) 
+paid(0.0) for(0.0) by(0.0) United(0.0) Seniors(1.0) Association(0.0) or(0.0) paid(0.0) for(0.0) by(0.0) 60(0.0) Plus(0.0) .(0.0) So(0.0) the(0.0) drug(1.0) companies(1.0) spent(0.0) millions(1.0) of(0.0) 
+dollars(1.0) thanking(0.0) the(0.0) Republicans(1.0) ,(1.0) but(1.0) they(1.0) used(1.0) a(1.0) front(1.0) group(0.0) to(0.0) make(0.0) it(0.0) look(0.0) like(0.0) it(0.0) was(0.0) a(0.0) senior(0.0) 
+organization(0.0) or(0.0) actually(0.0) two(0.0) senior(0.0) organizations(0.0) thanking(0.0) the(0.0) Republicans(1.0) .(1.0) If(1.0) the(1.0) public(1.0) only(0.0) knew(1.0) that(1.0) all(1.0) those(1.0) ads(1.0) were(0.0) 
+paid(0.0) for(0.0) by(0.0) the(0.0) drug(1.0) industry(1.0) ,(0.0) then(0.0) Republican(0.0) Members(1.0) of(1.0) Congress(1.0) would(1.0) not(1.0) be(1.0) getting(1.0) calls(0.0) thanking(0.0) them(0.0) for(0.0) 
+voting(1.0) for(0.0) it(0.0) .(0.0) They(0.0) would(0.0) be(0.0) getting(0.0) calls(0.0) saying(0.0) go(0.0) back(0.0) to(0.0) Washington(1.0) and(0.0) pass(0.0) a(0.0) drug(1.0) bill(0.0) that(0.0) 
+actually(0.0) helps(0.0) seniors(1.0) ,(0.0) that(0.0) actually(0.0) helps(0.0) consumers(1.0) ,(0.0) that(0.0) does(0.0) not(0.0) help(0.0) the(0.0) drug(1.0) industry(1.0) continue(0.0) to(0.0) be(0.0) the(0.0) 
+most(0.0) profitable(0.0) industry(1.0) in(0.0) America(1.0) ,(0.0) continue(0.0) to(0.0) be(0.0) in(0.0) a(0.0) situation(0.0) where(0.0) they(0.0) pay(1.0) the(0.0) lowest(0.0) tax(1.0) rate(1.0) of(0.0) 
+any(0.0) industry(1.0) in(0.0) America(1.0) .(0.0) And(0.0) I(0.0) think(0.0) people(0.0) in(0.0) this(0.0) country(1.0) have(0.0) had(0.0) enough(0.0) and(0.0) we(0.0) are(0.0) going(0.0) to(0.0) 
+find(0.0) a(0.0) little(0.0) more(0.0) about(0.0) that(0.0) come(0.0) November(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) 3(0.0) minutes(0.0) to(0.0) the(0.0) gentlewoman(0.0) from(0.0) 
+California(0.0) ((0.0) Ms.(1.0) Lee(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Bilirakis	
+partisan	
+recount	
+drug	legislation	
+drug	companies	
+markup	could	troop	fundraiser	President	
+President	drug	companies	
+fundraiser	GlaxoSmithKline	
+campaign	coffers	.	The	next	day	we	came	back	,	passed	a	bill	,	
+defeated	every	amendment	partisan	vote	that	a	amendment	bill	
+partisan	vote	partisan	vote	cynical	
+drug	companies	millions	dollars	advertising	television	
+Republicans	for	passing	their	drug	bill	.	The	Speaker	
+Pfizer	Lilly	
+Seniors	drug	companies	millions	
+dollars	Republicans	,	but	they	used	a	front	
+Republicans	.	If	the	public	knew	that	all	those	ads	
+drug	industry	Members	of	Congress	would	not	be	getting	
+voting	Washington	drug	
+seniors	consumers	drug	industry	
+industry	America	pay	tax	rate	
+industry	America	country	
+Speaker	
+Ms.	Lee	
+
+reads % = 0.23768736616702354

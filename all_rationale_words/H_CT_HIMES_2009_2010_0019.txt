@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) a(0.0) week(1.0) ago(1.0) the(0.0) City(0.0) of(0.0) Bridgeport(1.0) lost(0.0) a(0.0) friend(0.0) ,(0.0) spiritual(0.0) leader(1.0) and(0.0) powerful(0.0) force(0.0) for(0.0) good(0.0) in(0.0) 
+the(0.0) community(1.0) .(0.0) Bishop(1.0) Kenneth(1.0) H.(1.0) Moales(0.0) ,(0.0) whose(0.0) humble(0.0) origins(0.0) in(0.0) Father(0.0) Panik(1.0) Village(1.0) public(0.0) housing(1.0) foreshadowed(1.0) little(0.0) of(0.0) 
+his(0.0) lifelong(0.0) leadership(1.0) ,(0.0) dedicated(1.0) his(0.0) life(0.0) to(0.0) shepherding(0.0) the(0.0) souls(0.0) and(0.0) improving(0.0) the(0.0) worldly(0.0) conditions(0.0) of(0.0) some(0.0) of(0.0) the(0.0) 
+least(1.0) fortunate(1.0) people(0.0) in(0.0) Fairfield(1.0) County(1.0) .(0.0) I(0.0) worshipped(1.0) in(0.0) his(0.0) church(0.0) just(1.0) 3(0.0) weeks(1.0) ago(1.0) ,(0.0) and(0.0) the(0.0) ministries(1.0) 
+of(0.0) the(0.0) Cathedral(0.0) of(0.0) the(0.0) Holy(0.0) Spirit(1.0) and(0.0) his(0.0) presence(0.0) among(0.0) his(0.0) flock(0.0) reminded(0.0) me(0.0) of(0.0) the(0.0) saying(0.0) of(0.0) St.(1.0) 
+Francis(0.0) of(0.0) Assisi(1.0) when(0.0) he(0.0) said(1.0) ,(0.0) ``(1.0) Always(0.0) preach(1.0) the(0.0) gospel(0.0) .(0.0) Sometimes(1.0) use(1.0) words(0.0) .(0.0) ''(0.0) The(0.0) bishop(0.0) 
+was(0.0) an(0.0) accomplished(0.0) musician(1.0) ,(0.0) and(0.0) his(0.0) choirs(0.0) enriched(0.0) those(0.0) who(0.0) heard(1.0) them(0.0) and(0.0) those(0.0) who(0.0) sang(0.0) in(0.0) them(0.0) .(0.0) 
+At(0.0) one(0.0) time(0.0) or(1.0) another(0.0) ,(0.0) the(0.0) bishop(0.0) was(0.0) contributing(1.0) to(0.0) just(1.0) about(0.0) every(0.0) civic(1.0) institution(1.0) in(0.0) Bridgeport(1.0) ,(0.0) from(0.0) 
+the(0.0) police(1.0) to(0.0) the(0.0) YMCA(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) we(0.0) will(0.0) miss(0.0) Bishop(1.0) Moales(1.0) ,(0.0) but(0.0) we(0.0) celebrate(0.0) a(0.0) life(0.0) 
+well(0.0) lived(1.0) .(0.0) And(0.0) we(0.0) take(0.0) confidence(0.0) in(0.0) the(0.0) fact(0.0) that(0.0) ,(0.0) as(0.0) of(0.0) last(1.0) week(1.0) ,(0.0) the(0.0) music(0.0) in(0.0) 
+heaven(0.0) got(1.0) a(0.0) whole(0.0) lot(0.0) better(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+week	ago	Bridgeport	leader	
+community	Bishop	Kenneth	H.	Panik	Village	housing	foreshadowed	
+leadership	dedicated	
+least	fortunate	Fairfield	County	worshipped	just	weeks	ago	ministries	
+Spirit	St.	
+Assisi	said	``	preach	Sometimes	use	
+musician	heard	
+or	contributing	just	civic	institution	Bridgeport	
+police	YMCA	Speaker	Bishop	Moales	
+lived	last	week	
+got	
+
+reads % = 0.23076923076923078

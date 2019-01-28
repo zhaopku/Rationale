@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+With(0.0) a(0.0) great(0.0) deal(0.0) of(0.0) pleasure(0.0) and(0.0) pride(0.0) ,(0.0) at(0.0) this(0.0) time(0.0) I(0.0) yield(0.0) 2(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Minnesota(1.0) 
+((0.0) Mr.(0.0) Peterson(1.0) )(0.0) ,(0.0) my(0.0) good(0.0) friend(0.0) ,(0.0) the(0.0) distinguished(0.0) chairman(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Agriculture(0.0) who(0.0) has(0.0) worked(0.0) 
+so(0.0) hard(0.0) not(0.0) only(0.0) on(0.0) food(0.0) safety(0.0) but(0.0) also(0.0) with(0.0) us(0.0) to(0.0) make(0.0) this(0.0) bill(0.0) something(0.0) which(0.0) is(0.0) acceptable(0.0) to(0.0) 
+the(0.0) House(0.0) ,(0.0) to(0.0) him(0.0) and(0.0) to(0.0) American(0.0) agriculture(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Minnesota	
+Peterson	
+
+agriculture	
+
+reads % = 0.04225352112676056

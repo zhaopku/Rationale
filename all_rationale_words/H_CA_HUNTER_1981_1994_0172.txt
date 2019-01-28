@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) will(0.0) the(0.0) gentleman(0.0) yield(0.0) ?(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) his(0.0) advocacy(1.0) for(0.0) the(0.0) people(0.0) who(0.0) 
+have(0.0) grazed(0.0) cattle(0.0) for(0.0) so(0.0) long(0.0) in(0.0) our(0.0) desert(0.0) areas(0.0) .(0.0) I(0.0) want(0.0) to(0.0) make(0.0) clear(0.0) early(0.0) on(0.0) this(0.0) fine(0.0) 
+gentleman(0.0) ,(0.0) Roy(0.0) Hunter(1.0) ,(0.0) is(0.0) not(0.0) a(0.0) relation(0.0) to(0.0) myself(0.0) .(0.0) But(0.0) I(0.0) am(0.0) in(0.0) complete(0.0) sympathy(0.0) with(0.0) his(0.0) 
+avocation(0.0) ,(0.0) which(0.0) is(0.0) a(0.0) pretty(0.0) tough(0.0) avocation(0.0) right(0.0) now(0.0) ,(0.0) trying(0.0) to(0.0) make(0.0) a(0.0) few(0.0) dollars(0.0) in(0.0) the(0.0) livestock(1.0) 
+industry(0.0) .(0.0) One(0.0) other(0.0) aspect(0.0) of(0.0) this(0.0) ,(0.0) having(0.0) cattlemen(1.0) in(0.0) the(0.0) desert(0.0) area(0.0) as(0.0) the(0.0) gentleman(0.0) mentioned(0.0) ,(0.0) is(0.0) 
+the(0.0) beneficial(0.0) effect(0.0) it(0.0) has(0.0) on(0.0) wildlife(0.0) .(0.0) If(0.0) Fish(0.0) and(0.0) Game(0.0) goes(0.0) out(0.0) now(0.0) and(0.0) builds(0.0) a(0.0) guzzler(1.0) in(0.0) 
+the(0.0) desert(0.0) ,(0.0) and(0.0) I(0.0) have(0.0) looked(0.0) at(0.0) some(0.0) of(0.0) the(0.0) costs(1.0) ,(0.0) they(0.0) generally(0.0) have(0.0) to(0.0) spend(1.0) between(0.0) $(0.0) 
+30,000(0.0) and(0.0) $(0.0) 50,000(0.0) dollars(1.0) of(0.0) the(0.0) taxpayers(1.0) '(0.0) money(0.0) to(0.0) develop(0.0) the(0.0) water(1.0) source(0.0) .(0.0) When(0.0) I(0.0) say(0.0) guzzler(1.0) 
+,(0.0) that(0.0) is(0.0) a(0.0) term(0.0) for(0.0) building(0.0) a(0.0) water(0.0) source(0.0) in(0.0) the(0.0) desert(0.0) that(0.0) desert(0.0) quail(0.0) ,(0.0) bighorn(0.0) sheep(0.0) ,(0.0) 
+and(0.0) other(0.0) wildlife(0.0) can(0.0) utilize(0.0) .(0.0) When(0.0) a(0.0) rancher(0.0) goes(0.0) in(0.0) and(0.0) develops(0.0) a(0.0) water(0.0) source(0.0) for(0.0) his(0.0) cattle(0.0) ,(0.0) 
+and(0.0) all(0.0) of(0.0) them(0.0) have(0.0) to(0.0) be(0.0) within(0.0) a(0.0) fairly(0.0) close(0.0) distance(0.0) of(0.0) water(1.0) ,(0.0) he(0.0) uses(0.0) his(0.0) own(0.0) private(0.0) 
+dollars(0.0) ,(0.0) builds(0.0) basically(0.0) a(0.0) resource(0.0) that(0.0) is(0.0) used(0.0) by(0.0) all(0.0) the(0.0) desert(0.0) wildlife(0.0) ,(0.0) by(0.0) the(0.0) quail(0.0) ,(0.0) by(0.0) 
+the(0.0) sheep(0.0) ,(0.0) by(0.0) the(0.0) desert(0.0) mule(0.0) deer(0.0) ,(0.0) and(0.0) he(0.0) is(0.0) providing(0.0) for(0.0) the(0.0) taxpayers(1.0) a(0.0) benefit(0.0) that(0.0) otherwise(0.0) 
+they(0.0) would(0.0) have(0.0) to(0.0) pay(0.0) for(0.0) .(0.0) In(0.0) reading(0.0) my(0.0) friend(0.0) 's(0.0) amendment(1.0) ,(0.0) the(0.0) amendment(1.0) offered(0.0) by(0.0) the(0.0) gentleman(0.0) 
+from(0.0) Minnesota(1.0) [(0.0) Mr.(0.0) Vento(1.0) ](0.0) ,(0.0) first(0.0) it(0.0) starts(0.0) out(0.0) saying(0.0) the(0.0) Secretary(1.0) shall(0.0) permit(0.0) continuation(0.0) of(0.0) the(0.0) privilege(0.0) 
+of(0.0) grazing(0.0) ,(0.0) but(0.0) then(0.0) it(0.0) goes(0.0) on(0.0) to(0.0) say(0.0) ,(0.0) however(0.0) ,(0.0) when(0.0) these(0.0) permits(1.0) have(0.0) expired(0.0) ,(0.0) no(0.0) 
+more(0.0) permits(0.0) will(0.0) be(0.0) renewed(0.0) .(0.0) I(0.0) guess(0.0) my(0.0) point(0.0) is(0.0) if(0.0) the(0.0) grazing(0.0) is(0.0) not(0.0) detrimental(0.0) to(0.0) the(0.0) desert(0.0) 
+right(0.0) now(0.0) ,(0.0) I(0.0) do(0.0) not(0.0) understand(0.0) why(0.0) it(0.0) is(0.0) important(0.0) in(0.0) 1998(0.0) ,(0.0) or(0.0) 1999(0.0) to(0.0) cut(0.0) off(0.0) another(0.0) 
+westerner(0.0) from(0.0) being(0.0) able(0.0) to(0.0) use(0.0) public(1.0) lands(0.0) .(0.0) As(0.0) I(0.0) see(0.0) things(0.0) like(0.0) this(0.0) happening(0.0) throughout(0.0) the(0.0) gamut(0.0) of(0.0) 
+Federal(1.0) intervention(1.0) in(0.0) the(0.0) West(0.0) ,(0.0) whether(0.0) it(0.0) is(0.0) timber(0.0) or(0.0) mining(1.0) or(0.0) off-road(0.0) people(0.0) trying(0.0) to(0.0) use(0.0) part(0.0) of(0.0) 
+their(0.0) land(0.0) ,(0.0) or(0.0) now(0.0) the(0.0) Forest(0.0) Service(0.0) eliminating(1.0) shooting(0.0) on(0.0) national(1.0) forests(0.0) in(0.0) southern(1.0) California(0.0) ,(0.0) it(0.0) appears(0.0) to(0.0) 
+me(0.0) this(0.0) administration(1.0) is(0.0) conducting(0.0) what(0.0) I(0.0) would(0.0) call(0.0) a(0.0) war(0.0) on(0.0) the(0.0) West(0.0) ,(0.0) and(0.0) I(0.0) think(0.0) at(0.0) some(0.0) 
+point(0.0) westerners(1.0) are(0.0) going(0.0) to(0.0) band(0.0) together(0.0) ,(0.0) and(0.0) even(0.0) though(0.0) there(0.0) are(0.0) only(0.0) a(0.0) couple(0.0) of(0.0) ranchers(1.0) here(0.0) ,(0.0) 
+I(0.0) think(0.0) this(0.0) administration(1.0) is(0.0) going(0.0) to(0.0) be(0.0) hearing(0.0) from(0.0) them(0.0) .(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) his(0.0) fight(1.0) to(0.0) 
+save(0.0) their(0.0) grazing(0.0) rights(1.0) for(0.0) just(0.0) a(0.0) couple(0.0) of(0.0) western(1.0) families(0.0) .(0.0) If(0.0) we(0.0) do(0.0) not(0.0) stand(0.0) up(0.0) for(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	advocacy	
+
+Hunter	
+livestock	
+cattlemen	
+guzzler	
+costs	spend	
+dollars	taxpayers	water	guzzler	
+
+
+water	
+
+taxpayers	
+amendment	amendment	
+Minnesota	Vento	Secretary	
+permits	
+
+
+public	
+Federal	intervention	mining	
+eliminating	national	southern	
+administration	
+westerners	ranchers	
+administration	fight	
+rights	western	
+
+reads % = 0.068

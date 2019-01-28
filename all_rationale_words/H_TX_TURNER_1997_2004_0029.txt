@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) me(0.0) this(0.0) time(0.0) .(0.0) This(0.0) amendment(1.0) ,(0.0) creating(0.0) a(0.0) sunset(0.0) process(0.0) ,(0.0) has(0.0) 
+been(0.0) successful(0.0) in(0.0) many(0.0) of(0.0) our(0.0) States(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) Texas(0.0) ((0.0) Mr.(0.0) Brady(1.0) )(0.0) and(0.0) I(0.0) have(0.0) had(0.0) 
+personal(0.0) experience(0.0) with(0.0) it(0.0) in(0.0) our(0.0) State(0.0) ,(0.0) where(0.0) we(0.0) have(0.0) been(0.0) able(0.0) to(0.0) eliminate(0.0) unnecessary(1.0) agencies(1.0) .(0.0) We(0.0) have(0.0) 
+been(0.0) able(0.0) to(0.0) streamline(1.0) the(0.0) activities(0.0) of(0.0) agencies(1.0) .(0.0) I(0.0) know(0.0) that(0.0) at(0.0) the(0.0) Federal(1.0) level(0.0) we(0.0) all(0.0) understand(0.0) that(0.0) 
+it(0.0) is(0.0) very(0.0) difficult(0.0) job(0.0) within(0.0) our(0.0) existing(0.0) committee(0.0) structures(0.0) to(0.0) really(0.0) take(0.0) a(0.0) good(0.0) ,(0.0) hard(0.0) and(0.0) complete(0.0) look(0.0) 
+at(0.0) the(0.0) management(0.0) and(0.0) the(0.0) functioning(0.0) of(0.0) our(0.0) Federal(1.0) agencies(1.0) in(0.0) the(0.0) course(0.0) of(0.0) the(0.0) appropriations(0.0) process(0.0) and(0.0) the(0.0) oversight(1.0) 
+responsibilities(0.0) of(0.0) our(0.0) authorizing(0.0) committees(0.0) .(0.0) So(0.0) by(0.0) creating(0.0) a(0.0) bipartisan(1.0) commission(1.0) of(0.0) six(0.0) Democrats(0.0) and(0.0) six(0.0) Republicans(0.0) ,(1.0) we(1.0) 
+do(1.0) this(1.0) with(1.0) a(1.0) long-term(1.0) view(0.0) to(0.0) accomplish(0.0) some(0.0) goals(0.0) that(0.0) perhaps(0.0) we(0.0) are(0.0) not(0.0) as(0.0) good(0.0) at(0.0) accomplishing(0.0) in(0.0) 
+our(0.0) usual(0.0) process(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+amendment	
+Brady	
+unnecessary	agencies	
+streamline	agencies	Federal	
+
+Federal	agencies	oversight	
+bipartisan	commission	,	we	
+do	this	with	a	long-term	
+
+
+reads % = 0.11515151515151516

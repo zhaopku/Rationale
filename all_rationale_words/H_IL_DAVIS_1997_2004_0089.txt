@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) rise(0.0) in(0.0) favor(1.0) of(0.0) the(0.0) en(0.0) bloc(0.0) amendment(1.0) ,(0.0) and(0.0) especially(0.0) my(0.0) amendment(1.0) dealing(0.0) with(0.0) the(0.0) Comp(0.0) Demo(0.0) 
+.(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) appreciate(0.0) the(0.0) opportunity(0.0) to(0.0) briefly(0.0) review(0.0) my(0.0) proposed(1.0) amendment(1.0) to(0.0) H.R(0.0) .(0.0) 4200(0.0) .(0.0) My(0.0) 
+amendment(1.0) is(0.0) a(0.0) simple(0.0) ,(0.0) highly(0.0) targeted(1.0) ,(0.0) and(0.0) non-controversial(1.0) effort(0.0) to(0.0) better(0.0) balance(1.0) the(0.0) way(0.0) that(0.0) small(0.0) business(0.0) set(0.0) 
+aside(0.0) ,(0.0) SBSA(1.0) ,(0.0) goals(0.0) are(0.0) met(0.0) by(0.0) Federal(1.0) agencies(1.0) ,(0.0) including(0.0) the(0.0) Department(0.0) of(0.0) Defense(0.0) .(0.0) Presently(0.0) ,(0.0) these(0.0) 
+goals(0.0) are(0.0) unevenly(0.0) distributed(0.0) with(0.0) some(0.0) product(0.0) and(0.0) service(0.0) sectors(0.0) experiencing(0.0) a(0.0) disproportionate(0.0) rate(0.0) of(0.0) small(0.0) business(0.0) set(0.0) aside(0.0) while(0.0) 
+other(0.0) small(0.0) businesses(1.0) in(0.0) other(0.0) product(0.0) or(0.0) service(0.0) sectors(0.0) see(0.0) little(0.0) in(0.0) small(0.0) business(0.0) set-aside(1.0) contracts(0.0) come(0.0) their(0.0) way(0.0) ,(0.0) 
+despite(0.0) the(0.0) fact(0.0) that(0.0) there(0.0) are(0.0) capable(0.0) small(0.0) businesses(1.0) involved(0.0) in(0.0) those(0.0) industries(1.0) .(0.0) This(0.0) can(0.0) obviously(0.0) work(0.0) to(0.0) deny(1.0) 
+a(0.0) large(0.0) number(0.0) of(0.0) small(0.0) businesses(1.0) the(0.0) benefits(1.0) of(0.0) the(0.0) small(0.0) business(0.0) set(0.0) aside(0.0) program(1.0) that(0.0) Congress(0.0) has(0.0) long(0.0) supported(0.0) 
+.(0.0) My(0.0) amendment(1.0) would(1.0) address(0.0) this(0.0) problem(0.0) through(0.0) a(0.0) small(0.0) ,(0.0) targeted(0.0) improvement(0.0) of(0.0) an(0.0) existing(0.0) Federal(1.0) law(1.0) called(0.0) the(0.0) 
+Competitiveness(1.0) Demonstration(0.0) Program(0.0) ((0.0) P.L(1.0) .(0.0) 100-656(0.0) )(0.0) ,(0.0) also(0.0) known(0.0) as(0.0) the(0.0) ``(0.0) Comp(0.0) Demo(0.0) ''(0.0) law(0.0) .(0.0) The(0.0) 
+legislative(0.0) history(0.0) of(0.0) Comp(0.0) Demo(0.0) shows(0.0) that(0.0) it(0.0) was(0.0) enacted(0.0) to(0.0) prevent(0.0) disproportionate(1.0) assignment(0.0) of(0.0) small(0.0) business(0.0) set(0.0) aside(0.0) goals(0.0) 
+into(0.0) a(0.0) small(0.0) ,(0.0) unrepresentative(1.0) number(0.0) of(0.0) NAICS(1.0) codes(0.0) .(0.0) It(0.0) began(0.0) when(0.0) Congress(0.0) took(0.0) major(0.0) steps(0.0) to(0.0) enhance(0.0) competition(0.0) 
+and(0.0) diversity(1.0) in(0.0) small(0.0) business(0.0) procurement(0.0) opportunities(0.0) by(0.0) enacting(1.0) section(0.0) 921(0.0) of(0.0) P.L(1.0) .(0.0) 99-661(0.0) ,(0.0) which(0.0) requires(0.0) that(0.0) small(0.0) 
+businesses(1.0) receive(0.0) a(0.0) ``(0.0) fair(0.0) proportion(0.0) ''(0.0) of(0.0) Government(0.0) contracts(0.0) in(0.0) each(0.0) industry(0.0) .(0.0) That(0.0) effort(0.0) later(0.0) led(0.0) to(0.0) the(0.0) 
+enactment(0.0) of(0.0) the(0.0) Comp(0.0) Demo(0.0) law(0.0) .(0.0) Essentially(0.0) ,(0.0) Comp(0.0) Demo(0.0) recognized(0.0) that(0.0) in(0.0) certain(0.0) NAICS(1.0) codes(0.0) ,(0.0) work(0.0) was(0.0) 
+being(0.0) disproportionately(0.0) set(0.0) aside(0.0) ,(0.0) even(0.0) though(0.0) overall(0.0) small(0.0) business(0.0) participation(0.0) in(0.0) the(0.0) open(0.0) market-place(0.0) in(0.0) these(0.0) industries(1.0) was(0.0) high(0.0) 
+.(0.0) While(0.0) these(0.0) industries(1.0) had(0.0) too(0.0) much(0.0) work(0.0) set(0.0) aside(0.0) ,(0.0) many(0.0) more(0.0) industries(1.0) have(0.0) seen(0.0) little(0.0) or(0.0) no(0.0) set-aside(1.0) 
+contracts(1.0) come(0.0) their(0.0) way(0.0) ,(0.0) despite(0.0) representation(1.0) of(0.0) capable(0.0) small(0.0) firms(1.0) in(0.0) those(0.0) other(0.0) industries(1.0) .(0.0) My(0.0) amendment(1.0) would(0.0) build(0.0) 
+on(0.0) the(0.0) existing(0.0) Comp(0.0) Demo(0.0) law(1.0) by(0.0) adding(0.0) the(0.0) NAICS(0.0) codes(0.0) for(0.0) landscaping(0.0) services(0.0) and(0.0) exterminating(1.0) &(0.0) pest(0.0) control(0.0) services(0.0) 
+to(0.0) the(0.0) existing(0.0) Comp(0.0) Demo(0.0) list(0.0) .(0.0) These(0.0) two(0.0) NAICS(1.0) codes(0.0) would(0.0) be(0.0) added(0.0) to(0.0) the(0.0) existing(0.0) Comp(0.0) Demo(0.0) list(0.0) 
+which(0.0) presently(0.0) includes(0.0) the(0.0) NAICS(0.0) codes(0.0) for(0.0) :(0.0) ((0.0) 1(0.0) )(0.0) construction(0.0) ,(0.0) ((0.0) 2(0.0) )(0.0) refuse(0.0) systems(0.0) and(0.0) related(0.0) 
+services(0.0) ;(0.0) ((0.0) 3(0.0) )(0.0) architectural(0.0) and(0.0) engineering(0.0) services(0.0) ,(0.0) and(0.0) ((0.0) 4(0.0) )(0.0) non-nuclear(0.0) ship(0.0) repair(0.0) .(0.0) Under(0.0) the(0.0) 
+Comp(0.0) Demo(0.0) law(0.0) ,(0.0) Federal(0.0) agencies(1.0) may(0.0) not(0.0) set(0.0) aside(0.0) procurements(0.0) for(0.0) small(0.0) businesses(1.0) in(0.0) these(0.0) designated(0.0) NAICS(0.0) codes(0.0) ,(0.0) 
+provided(0.0) small(0.0) businesses(0.0) otherwise(0.0) win(0.0) 40(0.0) percent(0.0) of(0.0) all(0.0) prime(0.0) contract(0.0) awards(0.0) in(0.0) that(0.0) NAICS(0.0) code(0.0) .(0.0) This(0.0) means(0.0) that(0.0) 
+small(0.0) businesses(1.0) are(0.0) required(0.0) to(0.0) win(0.0) a(0.0) minimum(0.0) of(0.0) 40(0.0) percent(0.0) of(0.0) the(0.0) prime(0.0) contract(0.0) awards(0.0) .(0.0) If(0.0) they(0.0) 
+
+
+----- below are rationale words -----
+
+favor	amendment	amendment	
+Chairman	proposed	amendment	
+amendment	targeted	non-controversial	balance	
+SBSA	Federal	agencies	
+
+businesses	set-aside	
+businesses	industries	deny	
+businesses	benefits	program	
+amendment	would	Federal	law	
+Competitiveness	P.L	
+disproportionate	
+unrepresentative	NAICS	
+diversity	enacting	P.L	
+businesses	
+NAICS	
+industries	
+industries	industries	set-aside	
+contracts	representation	firms	industries	amendment	
+law	exterminating	
+NAICS	
+
+
+agencies	businesses	
+
+businesses	
+
+reads % = 0.1

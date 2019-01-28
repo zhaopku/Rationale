@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) when(0.0) I(0.0) showed(0.0) up(0.0) yesterday(0.0) with(0.0) my(0.0) hole(0.0) puncher(1.0) in(0.0) one(0.0) hand(0.0) and(0.0) the(0.0) Constitution(1.0) in(0.0) the(0.0) other(0.0) hand(0.0) 
+and(0.0) represented(0.0) that(0.0) the(0.0) Contract(0.0) With(0.0) America(1.0) was(0.0) beginning(0.0) to(0.0) punch(0.0) holes(0.0) in(0.0) the(0.0) Constitution(1.0) ,(0.0) I(0.0) got(0.0) calls(0.0) yesterday(0.0) 
+saying(0.0) ,(0.0) ``(0.0) Are(0.0) you(0.0) crying(0.0) wolf(0.0) ?(0.0) ''(0.0) So(0.0) I(0.0) went(0.0) back(0.0) and(0.0) here(0.0) is(0.0) the(0.0) record(0.0) .(0.0) Line(0.0) 
+item(0.0) veto(1.0) ,(0.0) article(0.0) I(0.0) ,(0.0) section(0.0) 1(0.0) .(0.0) Effective(0.0) death(0.0) penalty(1.0) action(0.0) ,(0.0) habeas(1.0) corpus(1.0) ,(0.0) article(0.0) I(0.0) ,(0.0) 
+section(0.0) 9(0.0) .(0.0) National(0.0) Defense(0.0) Revitalization(1.0) Act(0.0) ,(0.0) this(0.0) review(0.0) commission(0.0) ,(0.0) article(0.0) II(0.0) ,(0.0) section(0.0) 2(0.0) .(0.0) Exclusionary(0.0) Rule(0.0) 
+Reform(0.0) Act(0.0) ,(0.0) fourth(0.0) amendment(1.0) ,(0.0) punched(0.0) a(0.0) hole(0.0) .(0.0) Takings(1.0) legislation(1.0) ,(0.0) fifth(0.0) amendment(1.0) ,(0.0) punched(0.0) a(0.0) hole(0.0) ,(0.0) 
+America(0.0) .(0.0) The(0.0) Contract(1.0) With(0.0) America(1.0) is(0.0) punching(0.0) holes(0.0) in(0.0) our(0.0) Constitution(1.0) .(0.0) As(0.0) the(0.0) Speaker(0.0) comes(0.0) in(0.0) here(0.0) to(0.0) 
+punch(0.0) a(0.0) hole(0.0) in(0.0) this(0.0) contract(1.0) ,(0.0) they(0.0) are(0.0) punching(0.0) a(0.0) hole(0.0) in(0.0) the(0.0) Constitution(1.0) of(0.0) the(0.0) United(0.0) States(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+puncher	Constitution	
+America	Constitution	
+
+veto	penalty	habeas	corpus	
+Revitalization	
+amendment	Takings	legislation	amendment	
+Contract	America	Constitution	
+contract	Constitution	
+
+
+reads % = 0.11180124223602485

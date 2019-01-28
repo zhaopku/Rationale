@@ -1,5 +1,5 @@
 correct
 Mr.(1.0) 
-DANIEL(0.0) E.(0.0) LUNGREN(0.0) of(1.0) California(1.0) .(1.0) Mr.(0.0) Speaker(0.0) ,(0.0) at(1.0) this(1.0) time(0.0) ,(1.0) I(1.0) would(0.0) like(0.0) to(0.0) yield(0.0) 3(0.0) minutes(1.0) 
-to(0.0) another(1.0) gentleman(0.0) who(0.0) served(0.0) us(1.0) well(1.0) on(0.0) the(0.0) transition(0.0) team(0.0) ,(0.0) the(1.0) gentleman(0.0) from(1.0) Illinois(0.0) ((1.0) Mr.(1.0) Kinzinger(0.0) )(1.0) 
-.(0.0) 
+DANIEL(1.0) E.(1.0) LUNGREN(1.0) of(1.0) California(1.0) .(1.0) Mr.(1.0) Speaker(1.0) ,(1.0) at(1.0) this(1.0) time(1.0) ,(1.0) I(1.0) would(1.0) like(1.0) to(1.0) yield(1.0) 3(1.0) minutes(1.0) 
+to(1.0) another(1.0) gentleman(1.0) who(1.0) served(1.0) us(1.0) well(1.0) on(1.0) the(1.0) transition(1.0) team(1.0) ,(1.0) the(1.0) gentleman(1.0) from(1.0) Illinois(1.0) ((1.0) Mr.(1.0) Kinzinger(1.0) )(1.0) 
+.(1.0) 

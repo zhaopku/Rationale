@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) hope(0.0) today(0.0) 's(0.0) bipartisan(1.0) action(1.0) is(0.0) an(0.0) indicator(0.0) of(0.0) a(0.0) renewed(0.0) commitment(0.0) to(0.0) tackling(1.0) the(0.0) sequester(1.0) ,(0.0) and(0.0) I(0.0) hope(0.0) 
+it(0.0) sends(0.0) a(0.0) message(0.0) to(0.0) our(0.0) constituents(1.0) that(0.0) we(0.0) can(0.0) work(0.0) together(0.0) to(0.0) get(0.0) something(0.0) done(0.0) .(0.0) That(0.0) 's(0.0) why(0.0) 
+I(0.0) supported(0.0) this(0.0) bill(1.0) in(0.0) the(0.0) Budget(1.0) Committee(0.0) ,(0.0) and(0.0) that(0.0) 's(0.0) why(0.0) I(0.0) am(0.0) asking(0.0) my(0.0) colleagues(0.0) to(0.0) join(0.0) 
+me(0.0) in(0.0) voting(1.0) ``(0.0) yes(0.0) ''(0.0) on(0.0) the(0.0) Sequestration(1.0) Transparency(0.0) Act(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+bipartisan	action	tackling	sequester	
+constituents	
+bill	Budget	
+voting	Sequestration	
+
+reads % = 0.1232876712328767

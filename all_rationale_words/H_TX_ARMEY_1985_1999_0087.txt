@@ -1,0 +1,16 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) if(0.0) the(0.0) gentleman(0.0) would(0.0) yield(0.0) ,(0.0) we(0.0) always(0.0) look(0.0) for(0.0) these(0.0) opportunities(0.0) to(0.0) the(0.0) best(0.0) of(0.0) our(0.0) ability(0.0) ,(0.0) 
+but(0.0) we(0.0) need(0.0) to(0.0) get(0.0) more(0.0) quickly(0.0) than(0.0) in(0.0) many(0.0) weeks(0.0) to(0.0) considerations(0.0) of(0.0) legislation(1.0) under(0.0) rules(1.0) ,(0.0) and(0.0) therefore(0.0) 
+we(0.0) just(0.0) simply(0.0) can(0.0) not(0.0) make(0.0) that(0.0) Tuesday(0.0) accommodation(0.0) that(0.0) is(0.0) so(0.0) usual(0.0) and(0.0) ,(0.0) I(0.0) think(0.0) ,(0.0) so(0.0) necessary(0.0) 
+and(0.0) desirable(0.0) .(0.0) But(0.0) we(0.0) will(0.0) continue(0.0) to(0.0) keep(0.0) the(0.0) needs(0.0) of(0.0) Members(0.0) in(0.0) our(0.0) planning(0.0) priorities(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+legislation	rules	
+
+priorities	
+
+reads % = 0.0379746835443038

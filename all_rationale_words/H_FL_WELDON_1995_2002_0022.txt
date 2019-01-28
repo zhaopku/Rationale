@@ -1,0 +1,24 @@
+This is from a Republican
+----- below is the original text -----
+2175(1.0) ,(0.0) the(0.0) Born-Alive(1.0) Infant(1.0) Protection(1.0) Act(1.0) and(0.0) I(0.0) am(0.0) a(0.0) proud(0.0) cosponsor(1.0) of(0.0) this(0.0) bill(1.0) .(0.0) This(0.0) legislation(1.0) is(0.0) long(0.0) 
+overdue(1.0) .(0.0) For(0.0) too(0.0) long(0.0) the(0.0) youngest(0.0) and(0.0) most(0.0) vulnerable(0.0) of(0.0) children(0.0) have(0.0) not(0.0) been(0.0) protected(0.0) .(0.0) This(0.0) bill(1.0) corrects(1.0) 
+this(0.0) and(0.0) brings(0.0) protection(0.0) to(0.0) these(0.0) children(0.0) .(0.0) It(0.0) ensures(0.0) that(0.0) all(0.0) children(0.0) who(0.0) are(0.0) born(0.0) alive(0.0) are(0.0) to(0.0) be(0.0) 
+considered(0.0) a(0.0) human(0.0) being(0.0) .(0.0) This(0.0) bill(1.0) would(1.0) grant(1.0) protection(1.0) from(0.0) being(0.0) killed(0.0) to(0.0) all(0.0) babies(0.0) that(0.0) show(0.0) signs(0.0) of(0.0) 
+life(0.0) such(0.0) as(0.0) a(0.0) heartbeat(0.0) ,(0.0) breathing(0.0) or(0.0) muscle(0.0) movement(1.0) once(0.0) they(0.0) are(0.0) outside(0.0) the(0.0) mother(0.0) 's(0.0) womb(1.0) .(0.0) I(0.0) 
+commend(0.0) the(0.0) Chairman(0.0) for(0.0) bringing(0.0) this(0.0) bill(1.0) to(0.0) the(0.0) floor(0.0) today(0.0) ,(0.0) and(0.0) I(0.0) urge(0.0) all(0.0) of(0.0) my(0.0) colleagues(0.0) to(0.0) 
+support(0.0) its(0.0) passage(1.0) .(0.0) It(0.0) is(0.0) critical(0.0) that(0.0) we(0.0) value(0.0) all(0.0) human(0.0) life(0.0) and(0.0) this(0.0) bill(1.0) moves(1.0) us(0.0) in(0.0) that(0.0) 
+direction(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Born-Alive	Infant	Protection	Act	cosponsor	bill	legislation	
+overdue	bill	corrects	
+
+bill	would	grant	protection	
+movement	womb	
+bill	
+passage	bill	moves	
+
+
+reads % = 0.13986013986013987

@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) today(0.0) marks(0.0) the(0.0) 100th(0.0) consecutive(0.0) legislative(0.0) day(0.0) the(0.0) Safe(0.0) Climate(1.0) Caucus(1.0) has(0.0) spoken(0.0) on(0.0) the(0.0) House(0.0) floor(0.0) calling(0.0) for(0.0) 
+action(0.0) to(0.0) address(0.0) climate(1.0) change(0.0) .(0.0) The(0.0) science(0.0) ,(0.0) itself(0.0) ,(0.0) is(0.0) clear(0.0) :(0.0) climate(1.0) change(0.0) is(0.0) already(0.0) contributing(0.0) to(0.0) 
+significant(0.0) environmental(1.0) changes(0.0) --(0.0) unprecedented(1.0) droughts(1.0) ,(0.0) floods(1.0) ,(0.0) and(0.0) hurricanes(1.0) ,(0.0) to(0.0) name(0.0) a(0.0) few(0.0) .(0.0) But(0.0) climate(1.0) change(0.0) 
+is(0.0) not(0.0) only(0.0) a(0.0) serious(0.0) environmental(1.0) problem(0.0) .(0.0) It(0.0) is(0.0) a(0.0) serious(0.0) economic(1.0) problem(0.0) as(0.0) well(0.0) .(0.0) American(0.0) businesses(1.0) ,(0.0) 
+large(0.0) and(0.0) small(0.0) ,(0.0) understand(0.0) this(0.0) threat(1.0) ;(0.0) and(0.0) they(0.0) are(0.0) responding(0.0) accordingly(0.0) .(0.0) They(0.0) are(0.0) increasing(1.0) their(0.0) energy(1.0) efficiency(1.0) 
+,(0.0) reducing(1.0) pollution(1.0) ,(0.0) and(0.0) implementing(1.0) more(0.0) sustainable(1.0) business(1.0) practices(1.0) .(0.0) American(0.0) businesses(1.0) understand(0.0) that(0.0) the(0.0) changing(0.0) climate(1.0) is(0.0) already(0.0) 
+hurting(0.0) their(0.0) bottom(0.0) line(0.0) ,(0.0) and(0.0) they(0.0) are(0.0) taking(0.0) action(1.0) to(0.0) strengthen(1.0) their(0.0) competitiveness(1.0) and(0.0) their(0.0) resiliency(1.0) .(0.0) Congress(0.0) should(0.0) 
+be(0.0) doing(0.0) the(0.0) same(0.0) .(0.0) Yet(0.0) our(0.0) majority(1.0) continues(0.0) to(0.0) stick(0.0) its(0.0) head(0.0) in(0.0) the(0.0) sand(0.0) and(0.0) do(0.0) nothing(0.0) .(0.0) 
+Climate(1.0) change(0.0) poses(0.0) a(0.0) real(0.0) and(0.0) immediate(0.0) threat(1.0) to(0.0) our(0.0) economy(1.0) ,(0.0) and(0.0) we(0.0) really(0.0) ca(0.0) n't(0.0) afford(1.0) to(0.0) wait(0.0) 
+any(0.0) longer(0.0) .(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) join(0.0) with(0.0) American(0.0) businesses(1.0) in(0.0) taking(0.0) action(0.0) now(0.0) to(0.0) address(0.0) this(0.0) urgent(1.0) 
+problem(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Climate	Caucus	
+climate	climate	
+environmental	unprecedented	droughts	floods	hurricanes	climate	
+environmental	economic	businesses	
+threat	increasing	energy	efficiency	
+reducing	pollution	implementing	sustainable	business	practices	businesses	climate	
+action	strengthen	competitiveness	resiliency	
+majority	
+Climate	threat	economy	afford	
+businesses	urgent	
+
+
+reads % = 0.17733990147783252

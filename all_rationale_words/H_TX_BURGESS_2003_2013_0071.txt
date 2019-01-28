@@ -1,0 +1,38 @@
+This is from a Republican
+----- below is the original text -----
+You(0.0) know(0.0) ,(0.0) the(0.0) United(0.0) States(0.0) has(0.0) the(0.0) best(0.0) drug(0.0) supply(1.0) chain(0.0) in(0.0) the(0.0) world(0.0) ,(0.0) but(0.0) it(0.0) faces(0.0) attack(0.0) each(0.0) 
+and(0.0) every(0.0) day(0.0) by(0.0) counterfeiters(1.0) ,(0.0) thieves(1.0) ,(0.0) and(0.0) rogue(0.0) distributors(0.0) .(0.0) Most(0.0) Americans(1.0) would(0.0) just(0.0) assume(0.0) that(0.0) their(0.0) prescription(1.0) 
+drugs(1.0) that(0.0) they(0.0) buy(0.0) in(0.0) their(0.0) drugstore(0.0) have(0.0) been(0.0) tracked(0.0) rigorously(0.0) from(0.0) manufacturer(0.0) to(0.0) retail(0.0) ,(0.0) but(0.0) that(0.0) assumption(1.0) could(0.0) 
+not(0.0) be(0.0) more(0.0) wrong(0.0) .(0.0) In(0.0) fact(0.0) ,(0.0) current(0.0) law(1.0) leaves(0.0) a(0.0) great(0.0) deal(0.0) of(0.0) leeway(1.0) for(0.0) counterfeit(1.0) medications(0.0) to(0.0) 
+enter(0.0) the(0.0) market(0.0) ,(0.0) and(0.0) the(0.0) punishment(1.0) for(0.0) those(0.0) counterfeiting(1.0) prescription(1.0) medication(0.0) is(0.0) oftentimes(0.0) far(0.0) from(0.0) adequate(1.0) .(0.0) From(0.0) fake(1.0) 
+flu(1.0) vaccines(1.0) to(0.0) fake(1.0) cancer(1.0) drugs(1.0) ,(0.0) counterfeit(1.0) medications(1.0) have(0.0) been(0.0) manufactured(0.0) and(0.0) allowed(0.0) to(0.0) enter(0.0) the(0.0) supply(0.0) chain(0.0) and(0.0) 
+in(0.0) some(0.0) cases(0.0) ,(0.0) unfortunately(0.0) ,(0.0) even(0.0) administered(1.0) to(0.0) unsuspecting(0.0) patients(0.0) .(0.0) The(0.0) United(0.0) States(0.0) may(0.0) be(0.0) the(0.0) most(0.0) secure(0.0) 
+,(0.0) but(0.0) we(0.0) are(0.0) still(0.0) at(0.0) risk(0.0) .(0.0) I(0.0) believe(0.0) we(0.0) have(0.0) a(0.0) bill(0.0) before(0.0) us(0.0) today(0.0) that(0.0) is(0.0) guided(0.0) 
+by(0.0) the(0.0) strong(0.0) principles(1.0) of(0.0) patient(0.0) safety(0.0) and(0.0) supply(0.0) chain(0.0) integrity(1.0) .(0.0) The(0.0) bill(1.0) is(0.0) flexible(0.0) and(0.0) does(0.0) not(0.0) seek(0.0) 
+to(0.0) overly(0.0) burden(1.0) States(0.0) ,(0.0) suppliers(0.0) ,(0.0) or(0.0) small(0.0) businesses(1.0) .(0.0) Maintaining(0.0) the(0.0) integrity(0.0) of(0.0) the(0.0) United(0.0) States'(0.0) prescription(0.0) drug(1.0) 
+supply(1.0) is(0.0) a(0.0) compelling(0.0) national(1.0) priority(1.0) .(0.0) I(0.0) want(0.0) to(0.0) congratulate(0.0) Mr.(0.0) Latta(1.0) and(0.0) Mr.(0.0) Matheson(1.0) ,(0.0) as(0.0) well(0.0) as(0.0) 
+Chairman(0.0) Upton(1.0) and(0.0) Ranking(0.0) Member(0.0) Dingell(1.0) ,(0.0) for(0.0) their(0.0) leadership(0.0) on(0.0) the(0.0) issue(0.0) .(0.0) I(0.0) appreciate(0.0) you(0.0) allowing(0.0) me(0.0) to(0.0) 
+be(0.0) involved(0.0) in(0.0) the(0.0) development(0.0) of(0.0) this(0.0) bill(1.0) .(0.0) I(0.0) think(0.0) it(0.0) is(0.0) a(0.0) testament(0.0) to(0.0) all(0.0) the(0.0) hard(0.0) work(0.0) 
+done(0.0) ,(0.0) including(0.0) that(0.0) by(0.0) our(0.0) committee(1.0) staff(0.0) ,(0.0) Clay(0.0) Alspach(1.0) and(0.0) Paul(0.0) Edattel(0.0) ,(0.0) and(0.0) my(0.0) personal(0.0) staff(0.0) ,(0.0) 
+J.P.(0.0) Paluskievicz(0.0) .(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) this(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+supply	
+counterfeiters	thieves	Americans	prescription	
+drugs	assumption	
+law	leeway	counterfeit	
+punishment	counterfeiting	prescription	adequate	fake	
+flu	vaccines	fake	cancer	drugs	counterfeit	medications	
+administered	
+
+principles	integrity	bill	
+burden	businesses	drug	
+supply	national	priority	Latta	Matheson	
+Upton	Dingell	
+bill	
+committee	Alspach	
+
+
+reads % = 0.13356164383561644

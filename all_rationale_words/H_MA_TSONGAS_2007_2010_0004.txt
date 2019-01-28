@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) would(0.0) like(0.0) to(0.0) thank(0.0) Congresswoman(1.0) Woolsey(1.0) for(1.0) organizing(1.0) this(0.0) evening(0.0) .(0.0) And(0.0) I(0.0) rise(0.0) today(0.0) because(0.0) our(0.0) health(1.0) 
+care(1.0) status(0.0) quo(1.0) simply(0.0) does(0.0) not(0.0) work(0.0) for(0.0) older(0.0) women(1.0) and(0.0) must(0.0) be(0.0) changed(0.0) .(0.0) The(0.0) rising(1.0) cost(1.0) of(0.0) health(1.0) 
+care(1.0) and(0.0) the(0.0) lack(0.0) of(0.0) access(0.0) to(0.0) essential(0.0) medical(1.0) services(0.0) is(0.0) a(0.0) problem(0.0) for(0.0) millions(1.0) of(0.0) Americans(1.0) throughout(0.0) our(0.0) Nation(1.0) 
+,(0.0) but(0.0) it(0.0) is(0.0) uniquely(0.0) so(0.0) for(0.0) older(0.0) women(1.0) .(0.0) Times(0.0) of(0.0) economic(1.0) hardship(1.0) like(0.0) we(0.0) are(0.0) now(0.0) facing(0.0) truly(0.0) 
+illustrate(0.0) the(0.0) impact(0.0) that(0.0) our(0.0) inadequate(1.0) health(1.0) care(1.0) system(0.0) has(0.0) on(0.0) older(0.0) women(1.0) .(0.0) Older(0.0) women(1.0) disproportionately(1.0) rely(0.0) on(0.0) their(0.0) 
+spouses(1.0) for(0.0) employer-(0.0) based(0.0) coverage(0.0) in(0.0) comparison(0.0) to(0.0) their(0.0) younger(0.0) counterparts(0.0) and(0.0) in(0.0) comparison(0.0) to(0.0) older(0.0) men(0.0) .(0.0) That(0.0) is(0.0) 
+why(0.0) over(0.0) 1(0.0) million(0.0) of(0.0) them(0.0) have(0.0) lost(0.0) health(1.0) insurance(1.0) due(0.0) to(0.0) a(0.0) spouse(0.0) 's(0.0) job(0.0) loss(0.0) during(0.0) the(0.0) economic(1.0) 
+downturn(1.0) .(0.0) When(0.0) an(0.0) older(0.0) woman(0.0) loses(0.0) her(0.0) health(1.0) insurance(1.0) ,(0.0) it(0.0) is(0.0) even(0.0) harder(0.0) for(0.0) her(0.0) to(0.0) find(0.0) health(1.0) 
+insurance(1.0) in(0.0) the(0.0) individual(0.0) market(0.0) ,(0.0) where(0.0) there(0.0) is(0.0) little(0.0) to(0.0) no(0.0) regulation(1.0) ,(0.0) than(0.0) her(0.0) male(0.0) counterparts(0.0) .(0.0) Older(0.0) 
+women(1.0) ,(0.0) because(0.0) of(0.0) a(0.0) combination(0.0) of(0.0) gender(1.0) rating(0.0) ,(0.0) age(0.0) rating(0.0) ,(0.0) and(0.0) discrimination(1.0) based(0.0) on(0.0) health(1.0) status(1.0) ,(0.0) 
+face(0.0) premiums(1.0) that(0.0) are(0.0) roughly(0.0) four(0.0) times(0.0) greater(0.0) than(0.0) those(0.0) who(0.0) have(0.0) employer-based(1.0) coverage(0.0) .(0.0) But(0.0) it(0.0) does(0.0) n't(0.0) stop(0.0) 
+there(0.0) .(0.0) Women(1.0) who(0.0) are(0.0) on(0.0) Medicare(1.0) who(0.0) do(0.0) have(0.0) health(1.0) insurance(1.0) are(0.0) disproportionately(1.0) low(0.0) income(1.0) ,(0.0) have(0.0) fewer(1.0) resources(1.0) 
+,(0.0) and(0.0) suffer(0.0) from(0.0) more(0.0) chronic(1.0) conditions(0.0) than(0.0) men(0.0) .(0.0) As(0.0) a(0.0) result(0.0) ,(0.0) they(0.0) pay(1.0) more(0.0) in(0.0) out-of-pocket(1.0) costs(0.0) 
+than(0.0) older(0.0) men(0.0) .(0.0) Therefore(0.0) ,(0.0) Medicare(1.0) 's(0.0) ability(0.0) to(0.0) provide(0.0) meaningful(0.0) and(0.0) protective(0.0) health(1.0) insurance(1.0) coverage(1.0) is(0.0) critical(0.0) to(0.0) 
+a(0.0) senior(0.0) woman(0.0) 's(0.0) health(1.0) and(0.0) financial(1.0) security(0.0) .(0.0) And(0.0) that(0.0) is(0.0) exactly(0.0) what(0.0) health(1.0) care(1.0) reform(1.0) does(0.0) .(0.0) In(0.0) 
+2007(0.0) ,(0.0) over(0.0) 8(0.0) million(0.0) seniors(1.0) hit(0.0) the(0.0) doughnut(1.0) hole(1.0) ,(0.0) and(0.0) 64(0.0) percent(0.0) of(0.0) those(0.0) were(0.0) women(1.0) .(0.0) Health(0.0) 
+care(1.0) reform(1.0) permanently(0.0) closes(0.0) the(0.0) Medicare(1.0) doughnut(1.0) hole(1.0) .(0.0) Breast(0.0) cancer(1.0) is(0.0) a(0.0) leading(0.0) cause(0.0) of(0.0) death(1.0) for(0.0) older(0.0) women(1.0) 
+in(0.0) the(0.0) United(0.0) States(0.0) ,(0.0) yet(0.0) ,(0.0) 1(0.0) in(0.0) 5(0.0) women(1.0) aged(0.0) 50(0.0) and(0.0) above(0.0) has(0.0) not(0.0) received(0.0) a(0.0) mammogram(0.0) 
+in(0.0) the(0.0) past(0.0) 2(0.0) years(0.0) .(0.0) Health(0.0) care(0.0) reform(1.0) improves(0.0) Medicare(1.0) to(0.0) ensure(0.0) that(0.0) all(0.0) prevention(1.0) ,(0.0) including(0.0) mammograms(1.0) ,(0.0) 
+is(0.0) fully(0.0) covered(0.0) .(0.0) Seventy-seven(0.0) percent(0.0) of(0.0) Medicare(1.0) beneficiaries(1.0) living(0.0) in(0.0) long-term(1.0) care(1.0) facilities(1.0) are(0.0) women(1.0) .(0.0) Women(1.0) are(0.0) three-quarters(0.0) 
+of(0.0) all(0.0) nursing(1.0) home(0.0) residents(1.0) .(0.0) During(0.0) a(0.0) recent(0.0) visit(0.0) to(0.0) a(0.0) nursing(0.0) home(0.0) in(0.0) my(0.0) district(0.0) in(0.0) Lowell(1.0) ,(0.0) 
+Massachusetts(1.0) ,(0.0) I(0.0) was(0.0) struck(0.0) by(0.0) a(0.0) recent(0.0) experience(0.0) that(0.0) truly(0.0) illustrated(0.0) this(0.0) point(0.0) for(0.0) me(0.0) .(0.0) In(0.0) one(0.0) meeting(0.0) 
+,(0.0) I(0.0) looked(0.0) at(0.0) the(0.0) crowd(0.0) of(0.0) senior(0.0) citizens(0.0) who(0.0) came(0.0) to(0.0) ask(0.0) me(0.0) questions(0.0) and(0.0) express(0.0) their(0.0) concerns(0.0) about(0.0) 
+the(0.0) direction(0.0) in(0.0) which(0.0) our(0.0) country(1.0) is(0.0) going(0.0) and(0.0) was(0.0) struck(0.0) by(0.0) the(0.0) fact(0.0) that(0.0) I(0.0) saw(0.0) only(0.0) one(0.0) man(0.0) 
+in(0.0) the(0.0) audience(0.0) .(0.0) While(0.0) I(0.0) later(0.0) met(0.0) a(0.0) number(0.0) of(0.0) very(0.0) interested(0.0) male(0.0) residents(0.0) ,(0.0) the(0.0) fact(0.0) is(0.0) 
+
+
+----- below are rationale words -----
+
+Congresswoman	Woolsey	for	organizing	health	
+care	quo	women	rising	cost	health	
+care	medical	millions	Americans	Nation	
+women	economic	hardship	
+inadequate	health	care	women	women	disproportionately	
+spouses	
+health	insurance	economic	
+downturn	health	insurance	health	
+insurance	regulation	
+women	gender	discrimination	health	status	
+premiums	employer-based	
+Women	Medicare	health	insurance	disproportionately	income	fewer	resources	
+chronic	pay	out-of-pocket	
+Medicare	health	insurance	coverage	
+health	financial	health	care	reform	
+seniors	doughnut	hole	women	
+care	reform	Medicare	doughnut	hole	cancer	death	women	
+women	
+reform	Medicare	prevention	mammograms	
+Medicare	beneficiaries	long-term	care	facilities	women	Women	
+nursing	residents	Lowell	
+Massachusetts	
+
+country	
+
+
+reads % = 0.182

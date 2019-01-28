@@ -1,0 +1,20 @@
+This is from a Democrat
+----- below is the original text -----
+In(0.0) summary(0.0) ,(0.0) Madam(0.0) Speaker(1.0) ,(0.0) if(0.0) each(0.0) of(0.0) those(0.0) four(0.0) assumptions(0.0) turn(0.0) out(0.0) to(0.0) not(0.0) be(0.0) true(0.0) ,(0.0) we(0.0) will(0.0) 
+find(0.0) out(0.0) there(0.0) is(0.0) ,(0.0) in(0.0) fact(0.0) ,(0.0) no(0.0) surplus(1.0) .(0.0) When(0.0) we(0.0) have(0.0) needs(0.0) in(0.0) Social(1.0) Security(0.0) ,(0.0) needs(0.0) 
+in(0.0) Medicare(1.0) ,(0.0) needs(0.0) in(0.0) national(1.0) defense(1.0) ,(0.0) all(0.0) of(0.0) these(0.0) require(0.0) us(0.0) to(0.0) have(0.0) additional(0.0) funds(1.0) .(0.0) And(0.0) if(0.0) 
+we(0.0) want(0.0) to(0.0) pay(1.0) down(0.0) the(0.0) national(1.0) debt(1.0) and(0.0) not(0.0) pass(0.0) on(0.0) that(0.0) burden(1.0) to(0.0) our(0.0) children(0.0) and(0.0) grandchildren(0.0) ,(0.0) 
+we(0.0) need(0.0) to(0.0) reject(1.0) this(0.0) blockbuster(1.0) $(0.0) 864(0.0) billion(1.0) tax(1.0) cut(1.0) that(1.0) will(1.0) be(1.0) before(1.0) the(1.0) House(0.0) this(1.0) week(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+Speaker	
+surplus	Social	
+Medicare	national	defense	funds	
+pay	national	debt	burden	
+reject	blockbuster	billion	tax	cut	that	will	be	before	the	this	
+
+
+reads % = 0.21782178217821782

@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) since(0.0) the(0.0) subject(0.0) has(0.0) been(0.0) raised(0.0) ,(0.0) and(0.0) since(0.0) the(0.0) subject(0.0) of(0.0) what(0.0) the(0.0) content(0.0) is(0.0) of(0.0) this(0.0) 
+bill(1.0) and(0.0) ``(0.0) Who(0.0) shot(0.0) John(0.0) and(0.0) who(0.0) has(0.0) not(0.0) ''(0.0) in(0.0) terms(0.0) of(0.0) busting(1.0) the(0.0) budget(0.0) ,(0.0) I(0.0) think(0.0) 
+it(0.0) is(0.0) important(0.0) to(0.0) point(0.0) out(0.0) the(0.0) facts(0.0) on(0.0) the(0.0) overall(0.0) bill(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) yield(0.0) to(0.0) the(0.0) 
+distinguished(0.0) gentleman(0.0) from(0.0) South(0.0) Carolina(0.0) ((0.0) Mr.(0.0) Spratt(1.0) )(0.0) ,(0.0) ranking(0.0) member(0.0) on(0.0) the(0.0) Committee(0.0) on(0.0) the(0.0) Budget(0.0) ,(0.0) to(0.0) 
+illuminate(0.0) the(0.0) House(0.0) on(0.0) that(0.0) matter(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	
+bill	busting	
+bill	Chairman	
+Spratt	
+
+
+reads % = 0.06818181818181818

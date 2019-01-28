@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) after(0.0) all(0.0) the(0.0) loss(0.0) of(0.0) life(0.0) ,(0.0) personal(1.0) sacrifice(0.0) and(0.0) billions(1.0) of(0.0) taxpayer(1.0) dollars(0.0) ,(0.0) the(0.0) President(1.0) still(0.0) does(0.0) 
+not(0.0) have(0.0) a(0.0) plan(1.0) for(0.0) securing(1.0) the(0.0) peace(0.0) in(0.0) Iraq(1.0) and(0.0) bringing(1.0) our(0.0) troops(0.0) home(0.0) .(0.0) After(0.0) the(0.0) continued(0.0) failure(1.0) 
+of(0.0) the(0.0) Iraqi(1.0) Government(0.0) to(0.0) make(0.0) progress(1.0) on(0.0) political(1.0) ,(0.0) social(1.0) and(0.0) economic(0.0) benchmarks(1.0) ,(0.0) the(0.0) President(1.0) chooses(1.0) to(0.0) stay(0.0) 
+the(0.0) course(0.0) in(0.0) Iraq(1.0) .(0.0) After(0.0) nearly(0.0) 4\1/2\(1.0) years(0.0) ,(0.0) Iraq(1.0) remains(1.0) politically(1.0) unstable(0.0) and(0.0) tragically(1.0) violent(1.0) .(0.0) Instead(1.0) of(0.0) 
+changing(0.0) course(0.0) and(0.0) offering(0.0) a(0.0) viable(1.0) plan(1.0) to(0.0) conclude(0.0) America(0.0) 's(0.0) military(1.0) involvement(0.0) ,(0.0) the(0.0) President(1.0) calls(1.0) for(0.0) an(0.0) open-ended(0.0) 
+commitment(0.0) to(0.0) keeping(0.0) our(0.0) troops(0.0) in(0.0) Iraq(1.0) for(0.0) years(0.0) to(0.0) come(0.0) .(0.0) It(0.0) is(0.0) time(0.0) to(0.0) demand(0.0) a(0.0) new(0.0) direction(0.0) 
+for(0.0) Iraq(1.0) ,(0.0) to(0.0) focus(0.0) our(0.0) military(1.0) on(0.0) combating(1.0) and(0.0) defeating(0.0) terrorism(0.0) ,(0.0) to(0.0) insist(1.0) on(0.0) a(0.0) comprehensive(1.0) diplomatic(1.0) strategy(1.0) 
+to(0.0) move(0.0) the(0.0) Iraqi(1.0) Government(0.0) toward(0.0) national(0.0) reconciliation(0.0) ,(0.0) and(0.0) to(0.0) bring(0.0) our(0.0) troops(0.0) home(0.0) .(0.0) This(0.0) Congress(0.0) stands(0.0) by(0.0) 
+our(0.0) troops(0.0) .(0.0) They(0.0) 've(0.0) performed(0.0) with(0.0) great(0.0) honor(1.0) and(0.0) they(0.0) 've(0.0) accomplished(0.0) all(0.0) that(0.0) we(0.0) have(0.0) asked(0.0) them(0.0) to(0.0) 
+do(0.0) .(0.0) It(0.0) is(0.0) time(0.0) to(0.0) bring(0.0) them(0.0) home(0.0) .(0.0) Vote(1.0) ``(1.0) yes(1.0) ''(0.0) to(0.0) demand(0.0) a(0.0) redeployment(1.0) plan(1.0) .(0.0) 
+Vote(1.0) ``(0.0) yes(1.0) ''(0.0) to(0.0) demand(0.0) accountability(0.0) from(0.0) this(0.0) President(0.0) to(0.0) bring(0.0) our(0.0) troops(0.0) home(0.0) from(0.0) Iraq(1.0) safely(0.0) and(0.0) responsibly(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+personal	billions	taxpayer	President	
+plan	securing	Iraq	bringing	failure	
+Iraqi	progress	political	social	benchmarks	President	chooses	
+Iraq	4\1/2\	Iraq	remains	politically	tragically	violent	Instead	
+viable	plan	military	President	calls	
+Iraq	
+Iraq	military	combating	insist	comprehensive	diplomatic	strategy	
+Iraqi	
+honor	
+Vote	``	yes	redeployment	plan	
+Vote	yes	Iraq	
+
+
+reads % = 0.21171171171171171

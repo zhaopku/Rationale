@@ -1,0 +1,36 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) rise(0.0) in(0.0) strong(0.0) support(0.0) of(0.0) the(0.0) fiscal(1.0) year(0.0) 1997(1.0) Commerce(0.0) ,(0.0) Justice(1.0) ,(0.0) and(0.0) State(0.0) ,(0.0) the(0.0) Judiciary(0.0) 
+,(0.0) and(0.0) Related(0.0) Agencies(0.0) Appropriations(0.0) Act(0.0) ,(0.0) and(0.0) also(0.0) to(0.0) say(0.0) to(0.0) the(0.0) chairman(0.0) that(0.0) I(0.0) really(0.0) appreciate(0.0) his(0.0) taking(0.0) 
+the(0.0) time(0.0) and(0.0) his(0.0) staff(0.0) taking(0.0) the(0.0) time(0.0) ,(0.0) and(0.0) for(0.0) the(0.0) hard(0.0) work(0.0) and(0.0) openness(1.0) they(0.0) have(0.0) put(0.0) into(0.0) 
+this(0.0) bill(1.0) .(0.0) The(0.0) chairman(0.0) has(0.0) kept(0.0) us(0.0) on(0.0) track(0.0) toward(0.0) reducing(1.0) our(0.0) Federal(1.0) deficiencies(1.0) ,(0.0) and(0.0) these(0.0) reductions(1.0) have(0.0) 
+made(0.0) it(0.0) possible(0.0) and(0.0) responsible(0.0) with(0.0) an(0.0) environmental(1.0) conscience(1.0) .(0.0) Now(0.0) ,(0.0) within(0.0) the(0.0) National(0.0) Oceanographic(0.0) and(0.0) Atmospheric(0.0) Administration(0.0) [(0.0) 
+NOAA(1.0) ](0.0) ,(0.0) the(0.0) budget(1.0) for(0.0) the(0.0) National(0.0) Marine(0.0) Sanctuary(0.0) Program(0.0) is(0.0) maintained(0.0) at(0.0) fiscal(0.0) year(0.0) 1996(0.0) levels(0.0) .(0.0) This(0.0) 
+is(0.0) very(0.0) important(0.0) because(0.0) America(0.0) 's(0.0) 13(0.0) marine(1.0) sanctuaries(1.0) protect(0.0) and(0.0) preserve(1.0) some(0.0) of(0.0) the(0.0) Nation(1.0) 's(0.0) most(0.0) significant(0.0) ocean(0.0) 
+resources(0.0) .(0.0) I(0.0) am(0.0) fortunate(0.0) to(0.0) have(0.0) two(0.0) marine(1.0) sanctuaries(1.0) within(0.0) my(0.0) district(0.0) ,(0.0) the(0.0) Channel(0.0) Islands(0.0) National(0.0) Marine(0.0) Sanctuary(0.0) 
+and(0.0) the(0.0) southern(0.0) tip(0.0) of(0.0) the(0.0) Monterrey(0.0) National(0.0) Marine(0.0) Sanctuary(0.0) .(0.0) These(0.0) and(0.0) the(0.0) 11(0.0) other(0.0) sanctuaries(0.0) provide(0.0) safe(0.0) habitats(0.0) 
+for(0.0) many(0.0) threatened(1.0) and(0.0) endangered(1.0) marine(1.0) species(0.0) .(0.0) Furthermore(0.0) ,(0.0) NOAA(1.0) 's(0.0) National(0.0) Ocean(0.0) Service(0.0) monitors(0.0) the(0.0) health(1.0) of(0.0) the(0.0) 
+coast(0.0) and(0.0) probes(0.0) how(0.0) our(0.0) use(0.0) of(0.0) the(0.0) Nation(1.0) 's(0.0) near(0.0) shore(0.0) waters(0.0) affects(0.0) the(0.0) environment(0.0) .(0.0) This(0.0) critical(0.0) information(0.0) 
+is(0.0) used(0.0) to(0.0) help(0.0) assess(0.0) the(0.0) effects(0.0) of(0.0) oil(1.0) spills(1.0) and(0.0) coastal(1.0) pollution(1.0) .(0.0) Again(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) 
+from(0.0) Kentucky(1.0) [(0.0) Mr.(0.0) Rogers(1.0) ](0.0) and(1.0) his(0.0) staff(0.0) for(0.0) his(0.0) hard(0.0) work(0.0) on(0.0) this(0.0) appropriations(0.0) bill(0.0) and(0.0) for(0.0) the(0.0) 
+wise(0.0) manner(0.0) in(0.0) which(0.0) he(0.0) has(0.0) kept(0.0) us(0.0) on(0.0) track(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+fiscal	1997	Justice	
+
+openness	
+bill	reducing	Federal	deficiencies	reductions	
+environmental	conscience	
+NOAA	budget	
+marine	sanctuaries	preserve	Nation	
+marine	sanctuaries	
+
+threatened	endangered	marine	NOAA	health	
+Nation	
+oil	spills	coastal	pollution	
+Kentucky	Rogers	and	
+
+
+reads % = 0.11764705882352941

@@ -1,0 +1,24 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) they(0.0) said(0.0) implementing(1.0) ObamaCare(1.0) is(0.0) going(0.0) to(0.0) be(0.0) a(0.0) train(0.0) wreck(0.0) ,(0.0) and(0.0) that(0.0) train(0.0) wreck(0.0) went(0.0) right(0.0) through(0.0) 
+the(0.0) Etta(1.0) community(0.0) in(0.0) Union(1.0) County(1.0) ,(0.0) Mississippi(1.0) ,(0.0) and(0.0) ran(0.0) right(0.0) over(0.0) Reverend(0.0) Bobby(0.0) Irvin(1.0) .(0.0) Reverend(0.0) Irvin(1.0) tells(0.0) 
+me(0.0) :(0.0) I(0.0) had(0.0) health(0.0) insurance(1.0) .(0.0) I(0.0) was(0.0) happy(0.0) with(0.0) my(0.0) coverage(0.0) .(0.0) Specifically(0.0) ,(0.0) it(0.0) is(0.0) a(0.0) coverage(0.0) 
+that(0.0) I(0.0) picked(0.0) out(0.0) and(0.0) I(0.0) selected(0.0) ,(0.0) and(0.0) my(0.0) policy(1.0) was(0.0) canceled(0.0) because(0.0) it(0.0) did(0.0) not(0.0) meet(0.0) ObamaCare(1.0) guidelines(0.0) 
+.(0.0) Reverend(0.0) Irvin(1.0) was(0.0) made(0.0) a(0.0) promise(0.0) by(0.0) the(0.0) President(1.0) of(0.0) the(0.0) United(0.0) States(0.0) :(0.0) if(0.0) you(0.0) like(0.0) your(0.0) health(1.0) 
+insurance(1.0) ,(0.0) you(0.0) can(0.0) keep(0.0) it(0.0) .(0.0) That(0.0) promise(1.0) has(0.0) been(0.0) broken(0.0) .(0.0) It(0.0) is(0.0) vital(0.0) that(0.0) we(0.0) pass(0.0) the(0.0) 
+Keep(0.0) Your(0.0) Health(1.0) Plan(1.0) Act(1.0) so(0.0) this(0.0) House(0.0) can(0.0) step(0.0) up(0.0) and(0.0) honor(0.0) the(0.0) promise(0.0) that(0.0) was(0.0) made(0.0) to(0.0) Reverend(0.0) 
+Irvin(1.0) and(0.0) those(0.0) Americans(1.0) like(0.0) him(0.0) :(0.0) if(0.0) you(0.0) like(0.0) your(0.0) health(1.0) insurance(1.0) ,(0.0) you(0.0) can(0.0) keep(0.0) it(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+implementing	ObamaCare	
+Etta	Union	County	Mississippi	Irvin	Irvin	
+insurance	
+policy	ObamaCare	
+Irvin	President	health	
+insurance	promise	
+Health	Plan	Act	
+Irvin	Americans	health	insurance	
+
+reads % = 0.14375

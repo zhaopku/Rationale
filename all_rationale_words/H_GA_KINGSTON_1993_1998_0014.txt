@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) last(0.0) year(0.0) 67-year-old(1.0) Sarah(1.0) Rutherford(1.0) of(0.0) Brunswick(0.0) ,(0.0) Georgia(1.0) was(0.0) very(0.0) distraught(0.0) about(0.0) her(0.0) health(0.0) care(0.0) ,(0.0) because(0.0) she(0.0) 
+knew(0.0) that(0.0) in(0.0) April(0.0) 1995(0.0) the(0.0) Clinton(1.0) Medicare(1.0) trustees(0.0) said(0.0) Medicare(0.0) was(0.0) going(0.0) to(0.0) go(0.0) bankrupt(1.0) if(0.0) we(0.0) did(0.0) not(0.0) 
+do(0.0) anything(0.0) about(0.0) it(0.0) .(0.0) After(0.0) many(0.0) struggles(0.0) in(0.0) Congress(0.0) we(0.0) finally(0.0) passed(0.0) a(0.0) bipartisan(1.0) bill(1.0) that(1.0) cut(1.0) down(0.0) on(0.0) 
+Medicare(1.0) fraud(1.0) ,(0.0) gave(0.0) seniors(1.0) more(0.0) choices(0.0) ,(0.0) and(0.0) increased(0.0) spending(1.0) on(0.0) Medicare(1.0) for(0.0) people(0.0) like(0.0) Ms.(0.0) Rutherford(1.0) from(0.0) $(0.0) 
+5,000(0.0) to(0.0) $(0.0) 7,000(0.0) .(0.0) Most(0.0) importantly(0.0) it(0.0) created(0.0) a(0.0) bipartisan(1.0) tax(1.0) force(1.0) to(0.0) look(0.0) at(0.0) Medicare(1.0) not(0.0) just(0.0) for(0.0) 
+the(0.0) next(0.0) election(1.0) but(0.0) for(0.0) the(0.0) next(0.0) generation(0.0) ,(0.0) to(0.0) correct(0.0) Medicare(1.0) for(0.0) the(0.0) next(0.0) 5(0.0) or(0.0) 10(0.0) years(0.0) .(0.0) 
+This(0.0) bipartisan(1.0) commission(1.0) is(0.0) working(0.0) and(0.0) working(0.0) very(0.0) hard(0.0) .(0.0) Now(0.0) in(0.0) an(0.0) apparent(0.0) desperation(1.0) attempt(0.0) to(0.0) get(0.0) the(0.0) focus(0.0) 
+off(0.0) the(0.0) White(1.0) House(0.0) ,(0.0) the(0.0) President(1.0) has(0.0) come(0.0) up(0.0) with(0.0) a(0.0) new(0.0) entitlement(1.0) on(0.0) Medicare(1.0) to(0.0) say(0.0) ,(0.0) and(0.0) 
+listen(0.0) to(0.0) this(0.0) ,(0.0) in(0.0) his(0.0) own(0.0) words(0.0) ,(0.0) he(0.0) will(0.0) be(0.0) qualified(0.0) for(0.0) Medicare(1.0) in(0.0) 3(0.0) or(0.0) 4(0.0) years(0.0) 
+.(0.0) When(0.0) the(0.0) President(1.0) of(0.0) the(0.0) United(0.0) States(0.0) retires(1.0) ,(0.0) he(0.0) will(0.0) be(0.0) able(0.0) to(0.0) go(0.0) on(0.0) Medicare(1.0) .(0.0) I(0.0) 
+say(0.0) ,(0.0) ``(0.0) Mr.(0.0) President(1.0) ,(0.0) go(0.0) ahead(0.0) and(0.0) retire(0.0) ,(0.0) but(0.0) stay(0.0) away(0.0) from(0.0) Ms.(0.0) Rutherford(1.0) 's(0.0) Medicare(1.0) .(0.0) 
+''(0.0) 
+
+
+----- below are rationale words -----
+
+67-year-old	Sarah	Rutherford	Georgia	
+Clinton	Medicare	bankrupt	
+bipartisan	bill	that	cut	
+Medicare	fraud	seniors	spending	Medicare	Rutherford	
+bipartisan	tax	force	Medicare	
+election	Medicare	
+bipartisan	commission	desperation	
+White	President	entitlement	Medicare	
+Medicare	
+President	retires	Medicare	
+President	Rutherford	Medicare	
+
+
+reads % = 0.16666666666666666

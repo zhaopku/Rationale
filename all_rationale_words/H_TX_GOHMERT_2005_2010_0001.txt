@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+We(0.0) heard(0.0) the(0.0) President(1.0) --(0.0) now(0.0) the(0.0) President(1.0) --(0.0) say(0.0) back(0.0) in(0.0) a(0.0) debate(1.0) with(0.0) Hillary(1.0) Clinton(1.0) in(0.0) 2008(0.0) ,(0.0) ``(0.0) 
+That(0.0) 's(0.0) what(0.0) I(0.0) will(0.0) do(0.0) in(0.0) bringing(1.0) all(0.0) the(0.0) parties(0.0) together(0.0) ,(0.0) not(0.0) negotiating(0.0) behind(0.0) closed(0.0) doors(0.0) ,(0.0) but(0.0) 
+bringing(0.0) all(0.0) parties(0.0) together(0.0) ,(0.0) and(0.0) broadcasting(1.0) those(0.0) negotiations(1.0) on(0.0) C-SPAN(1.0) so(0.0) that(0.0) the(0.0) American(0.0) people(0.0) can(0.0) see(0.0) what(0.0) the(0.0) 
+choices(1.0) are(0.0) .(0.0) ''(0.0) We(0.0) know(0.0) in(0.0) the(0.0) debate(1.0) ,(0.0) when(0.0) he(0.0) was(0.0) running(0.0) against(0.0) John(0.0) MCCain(1.0) ,(0.0) our(0.0) now-President(1.0) 
+said(0.0) ,(0.0) ``(0.0) I(0.0) 'm(0.0) going(0.0) to(0.0) have(0.0) all(0.0) the(0.0) negotiations(1.0) around(0.0) a(0.0) big(0.0) table(0.0) .(0.0) We(0.0) 'll(0.0) have(0.0) doctors(0.0) 
+and(0.0) nurses(0.0) and(0.0) hospital(0.0) administrators(0.0) .(0.0) Insurance(0.0) companies(0.0) ,(0.0) drug(1.0) companies(1.0) --(0.0) they(0.0) 'll(0.0) get(0.0) a(0.0) seat(0.0) at(0.0) the(0.0) table(0.0) 
+,(0.0) they(0.0) just(0.0) wo(0.0) n't(0.0) be(0.0) able(0.0) to(0.0) buy(0.0) every(0.0) chair(0.0) .(0.0) But(0.0) what(0.0) we(0.0) will(0.0) do(0.0) is(0.0) ,(0.0) we(0.0) 
+'ll(0.0) have(0.0) the(0.0) negotiations(1.0) televised(0.0) on(0.0) C-SPAN(1.0) so(0.0) that(0.0) people(0.0) can(0.0) see(0.0) who(0.0) 's(0.0) making(0.0) arguments(1.0) on(0.0) behalf(0.0) of(0.0) their(0.0) 
+constituents(1.0) and(0.0) who(0.0) 's(0.0) making(0.0) arguments(1.0) on(0.0) behalf(0.0) of(0.0) the(0.0) drug(1.0) companies(0.0) or(0.0) the(0.0) insurance(1.0) companies(1.0) .(0.0) ''(0.0) We(0.0) heard(0.0) 
+the(0.0) Speaker(0.0) say(0.0) repeatedly(0.0) that(0.0) when(0.0) she(0.0) was(0.0) Speaker(0.0) ,(0.0) this(0.0) would(0.0) be(0.0) the(0.0) most(0.0) open(0.0) government(1.0) ever(0.0) .(0.0) So(0.0) 
+it(0.0) 's(0.0) deeply(0.0) perplexing(0.0) ,(0.0) since(0.0) we(0.0) know(0.0) they(0.0) would(0.0) never(0.0) lie(0.0) ,(0.0) why(0.0) they(0.0) 're(0.0) preventing(0.0) what(0.0) they(0.0) promised(1.0) 
+from(0.0) coming(0.0) true(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+President	President	debate	Hillary	Clinton	
+bringing	
+broadcasting	negotiations	C-SPAN	
+choices	debate	MCCain	now-President	
+negotiations	
+drug	companies	
+
+negotiations	C-SPAN	arguments	
+constituents	arguments	drug	insurance	companies	
+government	
+promised	
+
+
+reads % = 0.11555555555555555

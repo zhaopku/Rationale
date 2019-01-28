@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) the(0.0) Solomon(0.0) amendment(1.0) does(0.0) not(0.0) improve(0.0) the(0.0) bill(0.0) ,(0.0) and(0.0) Members(0.0) ought(0.0) to(0.0) reject(0.0) it(0.0) for(0.0) one(0.0) simple(0.0) reason(0.0) 
+:(0.0) the(0.0) amendment(1.0) would(0.0) enable(0.0) a(0.0) one-third-plus-one(0.0) minority(0.0) in(0.0) either(0.0) House(0.0) to(0.0) join(0.0) with(0.0) a(0.0) President(0.0) to(0.0) dictate(0.0) the(0.0) fiscal(1.0) 
+priorities(1.0) of(0.0) this(0.0) country(1.0) .(0.0) Under(0.0) this(0.0) amendment(1.0) ,(0.0) a(0.0) President(0.0) could(0.0) within(0.0) 20(0.0) days(0.0) of(0.0) signing(0.0) a(0.0) revenue(0.0) or(0.0) 
+tax(0.0) bill(1.0) ,(1.0) propose(1.0) rescissions(1.0) of(0.0) budget(1.0) authority(1.0) or(1.0) the(0.0) repeal(1.0) of(0.0) targeted(1.0) tax(1.0) benefits(1.0) ,(0.0) and(0.0) they(0.0) would(0.0) take(0.0) 
+effect(1.0) permanently(1.0) unless(0.0) Congress(0.0) voted(0.0) to(0.0) disapprove(1.0) them(0.0) within(0.0) a(0.0) specified(0.0) time(0.0) .(0.0) Since(0.0) a(0.0) President(0.0) would(0.0) veto(1.0) any(0.0) bill(1.0) 
+to(1.0) disapprove(1.0) his(0.0) proposals(1.0) ,(0.0) for(0.0) Congress(0.0) '(0.0) priorities(0.0) to(0.0) prevail(1.0) would(0.0) require(0.0) a(0.0) two-thirds(0.0) vote(1.0) in(0.0) both(0.0) Houses(0.0) .(0.0) 
+Conversely(0.0) ,(0.0) for(0.0) the(0.0) President(1.0) to(0.0) prevail(1.0) ,(0.0) he(0.0) need(0.0) convince(0.0) only(0.0) one-third(0.0) plus(0.0) one(0.0) of(0.0) either(0.0) House(0.0) to(0.0) sustain(0.0) 
+his(0.0) veto(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) the(0.0) principle(1.0) which(0.0) underlies(1.0) our(0.0) democratic(1.0) system(0.0) of(0.0) government(1.0) is(0.0) majority(0.0) rule(1.0) .(0.0) I(0.0) 
+do(0.0) not(0.0) believe(0.0) it(0.0) wise(0.0) for(0.0) Congress(0.0) to(0.0) create(0.0) a(0.0) rescission(1.0) process(0.0) in(0.0) which(0.0) a(0.0) President(0.0) ,(0.0) with(0.0) the(0.0) support(0.0) 
+of(0.0) only(0.0) 34(0.0) Senators(1.0) or(0.0) 146(0.0) Representatives(0.0) ,(0.0) could(0.0) dictate(0.0) fiscal(1.0) or(0.0) tax(0.0) policy(1.0) ,(0.0) on(0.0) a(0.0) line-by-line(0.0) basis(0.0) ,(0.0) 
+to(0.0) majorities(1.0) in(0.0) both(0.0) the(0.0) House(0.0) and(0.0) Senate(0.0) .(0.0) We(0.0) should(0.0) not(0.0) tilt(0.0) the(0.0) balance(0.0) of(0.0) the(0.0) power(0.0) of(0.0) the(0.0) 
+purse(0.0) so(0.0) dramatically(0.0) in(0.0) the(0.0) President(1.0) 's(0.0) favor(1.0) ,(0.0) no(0.0) matter(0.0) who(0.0) he(0.0) is(0.0) or(0.0) what(0.0) political(1.0) party(0.0) he(0.0) belongs(0.0) 
+to(0.0) .(0.0) What(0.0) reason(0.0) have(0.0) we(0.0) to(0.0) believe(0.0) the(0.0) President(1.0) 's(0.0) fiscal(1.0) priorities(1.0) are(0.0) inherently(1.0) better(0.0) than(0.0) ours(0.0) ?(0.0) What(0.0) 
+reason(0.0) have(0.0) we(0.0) to(0.0) believe(0.0) the(0.0) Executive(0.0) branch(0.0) institutionally(1.0) favors(1.0) less(0.0) spending(1.0) than(0.0) Congress(0.0) ?(0.0) None(0.0) .(0.0) In(0.0) fact(0.0) ,(0.0) 
+there(0.0) is(0.0) considerable(0.0) evidence(0.0) to(0.0) the(0.0) contrary(1.0) .(0.0) Since(0.0) 1945(0.0) Congress(0.0) has(0.0) appropriated(1.0) billions(1.0) less(0.0) than(0.0) the(0.0) various(0.0) Presidents(0.0) have(0.0) 
+requested(0.0) .(0.0) Moreover(0.0) ,(0.0) since(0.0) 1974(0.0) Congress(0.0) has(0.0) actually(0.0) rescinded(1.0) more(0.0) spending(1.0) than(0.0) the(0.0) Presidents(1.0) have(0.0) proposed(0.0) to(0.0) rescind(1.0) .(0.0) 
+According(0.0) to(0.0) the(0.0) General(0.0) Accounting(0.0) Office(0.0) ,(0.0) from(0.0) 1974(0.0) through(0.0) last(0.0) September(0.0) 20(0.0) ,(0.0) Presidents(0.0) have(0.0) proposed(0.0) to(0.0) rescind(0.0) $(0.0) 
+69.6(0.0) billion(1.0) in(0.0) spending(1.0) ,(0.0) an(0.0) impressive(0.0) sum(0.0) .(0.0) But(0.0) during(0.0) that(0.0) time(0.0) Congress(0.0) has(0.0) actually(0.0) rescinded(1.0) $(0.0) 88.7(0.0) billion(1.0) 
+in(0.0) spending(1.0) .(0.0) In(0.0) other(0.0) words(0.0) ,(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) Congress(0.0) has(0.0) since(0.0) 1974(0.0) rescinded(1.0) 27(0.0) percent(0.0) more(0.0) spending(1.0) than(0.0) 
+Presidents(1.0) have(0.0) proposed(0.0) to(0.0) rescind(1.0) .(0.0) That(0.0) is(0.0) not(0.0) widely(0.0) understood(0.0) ,(0.0) or(0.0) something(0.0) for(0.0) which(0.0) Congress(0.0) receives(0.0) the(0.0) credit(0.0) 
+it(0.0) deserves(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) the(0.0) goal(0.0) of(0.0) the(0.0) underlying(0.0) bill(0.0) ,(0.0) and(0.0) indeed(0.0) this(0.0) whole(0.0) exercise(0.0) ,(0.0) is(0.0) 
+to(0.0) add(0.0) accountability(1.0) for(0.0) spending(1.0) decisions(1.0) to(0.0) the(0.0) appropriations(1.0) process(0.0) .(0.0) The(0.0) goal(0.0) is(0.0) not(0.0) merely(0.0) to(0.0) advance(0.0) and(0.0) promote(0.0) 
+the(0.0) President(1.0) 's(0.0) brand(0.0) of(0.0) spending(1.0) over(0.0) Congress(0.0) '(0.0) brand(0.0) of(0.0) spending(1.0) ,(0.0) which(0.0) is(0.0) what(0.0) the(0.0) Solomon(0.0) amendment(1.0) would(0.0) 
+do(0.0) .(0.0) We(0.0) are(0.0) dealing(0.0) with(0.0) the(0.0) fundamental(1.0) relationship(0.0) between(0.0) the(0.0) two(0.0) political(1.0) branches(0.0) .(0.0) We(0.0) must(0.0) not(0.0) give(0.0) any(0.0) 
+President(0.0) even(0.0) more(0.0) power(0.0) than(0.0) he(0.0) already(0.0) has(0.0) to(0.0) shove(0.0) his(0.0) priorities(1.0) down(0.0) Congress(0.0) '(0.0) throat(0.0) .(0.0) We(0.0) have(0.0) 
+
+
+----- below are rationale words -----
+
+amendment	
+amendment	fiscal	
+priorities	country	amendment	
+bill	,	propose	rescissions	budget	authority	or	repeal	targeted	tax	benefits	
+effect	permanently	disapprove	veto	bill	
+to	disapprove	proposals	prevail	vote	
+President	prevail	
+veto	Chairman	principle	underlies	democratic	government	rule	
+rescission	
+Senators	fiscal	policy	
+majorities	
+President	favor	political	
+President	fiscal	priorities	inherently	
+institutionally	favors	spending	
+contrary	appropriated	billions	
+rescinded	spending	Presidents	rescind	
+
+billion	spending	rescinded	billion	
+spending	Chairman	rescinded	spending	
+Presidents	rescind	
+deserves	Chairman	
+accountability	spending	decisions	appropriations	
+President	spending	spending	amendment	
+fundamental	political	
+priorities	
+
+reads % = 0.162

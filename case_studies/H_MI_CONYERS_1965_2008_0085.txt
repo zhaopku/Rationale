@@ -1,4 +1,4 @@
 correct
-Speaker(0.0) 
-,(0.0) I(1.0) 'm(0.0) pleased(0.0) now(0.0) to(1.0) recognize(0.0) the(1.0) distinguished(0.0) gentleman(0.0) from(0.0) Georgia(0.0) ,(0.0) Mr.(0.0) David(0.0) Scott(0.0) ,(1.0) and(1.0) I(1.0) recognize(1.0) 
-him(0.0) for(0.0) 3(1.0) minutes(1.0) .(0.0) 
+Speaker(1.0) 
+,(1.0) I(1.0) 'm(1.0) pleased(1.0) now(1.0) to(1.0) recognize(1.0) the(1.0) distinguished(1.0) gentleman(1.0) from(1.0) Georgia(1.0) ,(1.0) Mr.(1.0) David(1.0) Scott(1.0) ,(1.0) and(1.0) I(1.0) recognize(1.0) 
+him(1.0) for(1.0) 3(1.0) minutes(1.0) .(1.0) 

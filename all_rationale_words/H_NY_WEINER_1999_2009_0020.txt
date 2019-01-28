@@ -1,0 +1,38 @@
+This is from a Democrat
+----- below is the original text -----
+First(0.0) let(0.0) 's(0.0) get(0.0) some(0.0) clarity(0.0) on(0.0) the(0.0) GAO(1.0) report(0.0) .(0.0) The(0.0) gentleman(0.0) artfully(0.0) pulls(0.0) a(0.0) line(0.0) out(0.0) of(0.0) it(0.0) .(0.0) 
+Let(0.0) me(0.0) tell(0.0) you(0.0) the(0.0) conclusion(0.0) .(0.0) This(0.0) is(0.0) from(0.0) page(0.0) 11(0.0) of(0.0) the(0.0) GAO(0.0) report(0.0) .(0.0) You(0.0) can(0.0) follow(0.0) 
+along(0.0) with(0.0) me(0.0) ,(0.0) I(0.0) say(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Iowa(1.0) .(0.0) ``(0.0) For(0.0) the(0.0) years(0.0) 1998(0.0) to(0.0) 2000(0.0) ,(0.0) 
+we(0.0) estimated(0.0) that(0.0) the(0.0) COPS(1.0) grant(0.0) expenditures(1.0) that(0.0) were(0.0) associated(0.0) with(0.0) the(0.0) reduction(1.0) in(0.0) indexed(0.0) crimes(1.0) from(0.0) their(0.0) 1993(1.0) levels(0.0) 
+ranged(0.0) from(0.0) 200,000(0.0) to(0.0) 225,000(0.0) indexed(0.0) crimes(1.0) ,(0.0) while(0.0) one-third(1.0) of(0.0) these(0.0) were(0.0) violent(0.0) crimes(1.0) ,(0.0) two-thirds(1.0) property(0.0) crimes(0.0) .(0.0) 
+''(0.0) That(0.0) is(0.0) the(0.0) GAO(1.0) .(0.0) If(0.0) you(0.0) want(0.0) another(0.0) authority(0.0) that(0.0) says(0.0) that(0.0) this(0.0) has(0.0) worked(0.0) ,(0.0) you(0.0) can(0.0) 
+ask(0.0) the(0.0) 381(0.0) Members(0.0) of(0.0) Congress(0.0) that(0.0) voted(0.0) for(0.0) it(0.0) last(0.0) year(0.0) .(0.0) If(0.0) you(0.0) want(0.0) only(0.0) partisan(1.0) Republicans(0.0) ,(1.0) 
+how(1.0) about(1.0) John(1.0) Ashcroft(1.0) ,(1.0) not(1.0) someone(1.0) I(0.0) am(0.0) fond(0.0) of(0.0) quoting(0.0) ,(0.0) who(0.0) said(0.0) the(0.0) COPS(1.0) program(0.0) is(0.0) a(0.0) 
+success(0.0) .(0.0) Attorney(1.0) General(0.0) Gonzales(1.0) ,(0.0) every(0.0) attorney(1.0) general(0.0) has(0.0) said(0.0) ,(0.0) you(0.0) know(0.0) what(0.0) ?(0.0) The(0.0) COPS(1.0) program(0.0) has(0.0) 
+been(0.0) a(0.0) remarkable(0.0) success(0.0) .(0.0) I(0.0) say(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Iowa(1.0) ,(0.0) put(0.0) your(0.0) money(1.0) where(0.0) your(0.0) mouth(0.0) is(0.0) 
+.(0.0) In(0.0) the(0.0) stimulus(1.0) bill(1.0) ,(0.0) which(0.0) I(0.0) believe(0.0) you(0.0) voted(1.0) against(0.0) ,(0.0) there(0.0) was(0.0) $(0.0) 1(0.0) billion(1.0) for(0.0) COPS(1.0) 
+.(0.0) They(0.0) are(0.0) taking(0.0) the(0.0) grants(1.0) now(0.0) ,(0.0) and(0.0) contrary(1.0) to(0.0) your(0.0) opening(0.0) statement(0.0) ,(0.0) not(0.0) only(0.0) will(0.0) it(0.0) not(0.0) 
+take(0.0) two(0.0) or(0.0) three(0.0) years(0.0) ,(0.0) they(0.0) are(0.0) going(0.0) to(0.0) be(0.0) on(0.0) the(0.0) street(0.0) this(0.0) year(0.0) .(0.0) In(0.0) Iowa(1.0) ,(0.0) 
+there(0.0) have(0.0) been(0.0) 110(0.0) police(0.0) departments(0.0) ,(0.0) large(0.0) ,(0.0) small(0.0) ,(0.0) intermediate(0.0) ,(0.0) that(0.0) have(0.0) applied(0.0) for(0.0) this(0.0) stimulus(1.0) money(1.0) 
+to(0.0) hire(0.0) police(0.0) under(0.0) the(0.0) COPS(1.0) program(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+GAO	
+
+Iowa	
+COPS	expenditures	reduction	crimes	1993	
+crimes	one-third	crimes	two-thirds	
+GAO	
+partisan	,	
+how	about	John	Ashcroft	,	not	someone	COPS	
+Attorney	Gonzales	attorney	COPS	
+Iowa	money	
+stimulus	bill	voted	billion	COPS	
+grants	contrary	
+Iowa	
+stimulus	money	
+COPS	
+
+reads % = 0.13494809688581316

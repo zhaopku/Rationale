@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+It(0.0) will(0.0) just(0.0) become(0.0) an(0.0) entitlement(1.0) program(1.0) for(0.0) all(0.0) of(0.0) these(0.0) pharmaceutical(1.0) companies(1.0) to(0.0) load(0.0) up(0.0) and(0.0) raid(0.0) the(0.0) pockets(0.0) of(0.0) 
+seniors(1.0) across(0.0) this(0.0) country(1.0) ,(0.0) bankrupt(1.0) them(0.0) ,(0.0) really(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+entitlement	program	pharmaceutical	companies	
+seniors	country	bankrupt	
+
+reads % = 0.22580645161290322

@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) conservative(0.0) estimates(1.0) of(1.0) the(0.0) tax(1.0) increases(1.0) for(0.0) earned(0.0) income(1.0) tax(1.0) credit(1.0) constituents(0.0) will(1.0) increase(1.0) .(0.0) I(0.0) am(0.0) opposed(0.0) to(0.0) 
+the(0.0) bill(1.0) because(0.0) my(0.0) taxpayers(1.0) will(0.0) pay(0.0) more(0.0) ,(0.0) but(0.0) do(0.0) not(0.0) take(0.0) my(0.0) word(0.0) for(0.0) it(0.0) .(0.0) Take(0.0) Jack(0.0) 
+Kemp(1.0) ,(0.0) who(0.0) last(0.0) week(0.0) said(0.0) :(0.0) I(0.0) hope(0.0) you(0.0) guys(0.0) do(0.0) not(0.0) go(0.0) too(0.0) far(0.0) on(0.0) removing(0.0) the(0.0) EITC(1.0) 
+because(0.0) that(0.0) is(0.0) a(0.0) tax(0.0) increase(1.0) on(0.0) low(0.0) income(1.0) workers(1.0) and(0.0) the(0.0) poor(1.0) which(0.0) is(0.0) unconscionable(1.0) at(0.0) this(0.0) time(0.0) .(0.0) 
+.(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+estimates	of	tax	increases	income	tax	credit	will	increase	
+bill	taxpayers	
+Kemp	EITC	
+increase	income	workers	poor	unconscionable	
+
+
+reads % = 0.21686746987951808

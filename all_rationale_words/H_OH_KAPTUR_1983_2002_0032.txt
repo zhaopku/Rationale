@@ -1,0 +1,44 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) wish(0.0) to(0.0) add(0.0) my(0.0) words(0.0) to(0.0) that(0.0) of(0.0) the(0.0) gentleman(0.0) from(0.0) Maryland(1.0) ((0.0) Mr.(0.0) Hoyer(1.0) )(0.0) and(0.0) the(0.0) 
+Florida(0.0) delegation(0.0) in(0.0) extending(0.0) our(0.0) deepest(0.0) love(0.0) and(0.0) appreciation(0.0) to(0.0) our(0.0) treasured(0.0) colleague(0.0) from(0.0) the(0.0) State(0.0) of(0.0) Florida(0.0) ((0.0) Mrs.(0.0) 
+Meek(1.0) )(0.0) .(0.0) Without(0.0) question(0.0) ,(0.0) her(0.0) spirit(0.0) carries(0.0) this(0.0) institution(0.0) ,(0.0) and(0.0) she(0.0) has(0.0) given(0.0) hope(0.0) ,(0.0) not(0.0) only(0.0) 
+to(0.0) her(0.0) district(0.0) ,(0.0) but(0.0) to(0.0) the(0.0) people(0.0) of(0.0) our(0.0) entire(0.0) country(1.0) .(0.0) Each(0.0) of(0.0) us(0.0) here(0.0) in(0.0) the(0.0) House(0.0) 
+knows(0.0) we(0.0) are(0.0) serving(0.0) with(0.0) an(0.0) historic(1.0) figure(0.0) ,(0.0) and(0.0) we(0.0) thank(0.0) her(0.0) family(0.0) ,(0.0) we(0.0) thank(0.0) the(0.0) people(0.0) of(0.0) 
+Florida(1.0) ,(0.0) of(0.0) Miami(1.0) ,(0.0) for(0.0) sending(0.0) her(0.0) here(0.0) in(0.0) order(0.0) that(0.0) our(0.0) country(1.0) be(0.0) a(0.0) better(0.0) place(0.0) in(0.0) which(0.0) 
+to(0.0) live(0.0) .(0.0) I(0.0) think(0.0) every(0.0) single(0.0) Member(0.0) here(0.0) whose(0.0) life(0.0) she(0.0) has(0.0) touched(0.0) is(0.0) a(0.0) better(0.0) person(0.0) for(0.0) knowing(0.0) 
+her(0.0) .(0.0) She(0.0) has(0.0) strengthened(0.0) us(0.0) when(0.0) we(0.0) were(0.0) at(0.0) our(0.0) weakest(0.0) ,(0.0) she(0.0) has(0.0) made(0.0) us(0.0) laugh(0.0) when(0.0) we(0.0) 
+were(0.0) taking(0.0) ourselves(0.0) too(0.0) seriously(0.0) ,(0.0) and(0.0) even(0.0) as(0.0) recently(0.0) as(0.0) this(0.0) afternoon(0.0) she(0.0) was(0.0) fighting(0.0) for(0.0) the(0.0) weakest(0.0) and(0.0) 
+the(0.0) poorest(1.0) among(0.0) us(0.0) in(0.0) the(0.0) Committee(0.0) on(0.0) Appropriations(0.0) in(0.0) a(0.0) several-year(0.0) effort(0.0) that(0.0) she(0.0) has(0.0) fought(0.0) to(0.0) get(0.0) rid(0.0) 
+of(0.0) usurious(1.0) lending(1.0) and(0.0) check-cashing(1.0) facilities(0.0) across(0.0) this(0.0) country(1.0) that(0.0) prey(0.0) on(0.0) the(0.0) poorest(1.0) among(0.0) us(0.0) .(0.0) I(0.0) will(0.0) never(0.0) 
+meet(0.0) another(0.0) person(0.0) like(0.0) the(0.0) gentlewoman(0.0) from(0.0) Florida(0.0) ((0.0) Mrs.(0.0) Meek(1.0) )(0.0) ,(0.0) and(0.0) I(0.0) say(0.0) to(0.0) the(0.0) gentlewoman(0.0) ,(0.0) 
+I(0.0) hope(0.0) that(0.0) you(0.0) will(0.0) come(0.0) back(0.0) to(0.0) us(0.0) as(0.0) often(0.0) as(0.0) you(0.0) wish(0.0) ,(0.0) because(0.0) you(0.0) have(0.0) a(0.0) seat(0.0) 
+in(0.0) the(0.0) office(0.0) of(0.0) every(0.0) single(0.0) person(0.0) on(0.0) both(0.0) sides(0.0) of(0.0) the(0.0) aisle(0.0) of(0.0) this(0.0) Chamber(0.0) .(0.0) You(0.0) are(0.0) held(0.0) 
+in(0.0) the(0.0) highest(0.0) regard(0.0) ,(0.0) and(0.0) you(0.0) truly(0.0) have(0.0) fulfilled(0.0) the(0.0) oath(1.0) that(0.0) you(0.0) took(0.0) to(0.0) represent(0.0) the(0.0) interests(0.0) of(0.0) 
+our(0.0) country(1.0) .(0.0) It(0.0) has(0.0) been(0.0) my(0.0) great(0.0) privilege(1.0) to(0.0) serve(0.0) with(0.0) you(0.0) ,(0.0) and(0.0) I(0.0) thank(0.0) you(0.0) for(0.0) your(0.0) 
+work(0.0) on(0.0) behalf(0.0) of(0.0) the(0.0) citizens(1.0) not(0.0) just(0.0) of(0.0) your(0.0) district(0.0) or(0.0) mine(0.0) ,(0.0) but(0.0) our(0.0) entire(0.0) country(1.0) and(0.0) the(0.0) 
+world(0.0) .(0.0) You(0.0) are(0.0) one(0.0) of(0.0) a(0.0) kind(0.0) .(0.0) God(0.0) bless(0.0) you(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Maryland	Hoyer	
+
+Meek	
+country	
+historic	
+Florida	Miami	country	
+
+
+
+poorest	
+usurious	lending	check-cashing	country	poorest	
+Meek	
+
+
+oath	
+country	privilege	
+citizens	country	
+
+
+reads % = 0.05649717514124294

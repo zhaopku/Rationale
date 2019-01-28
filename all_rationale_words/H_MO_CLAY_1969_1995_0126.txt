@@ -1,0 +1,52 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) rise(0.0) to(0.0) oppose(1.0) the(0.0) Gunderson(1.0) amendment(1.0) because(0.0) it(0.0) mandates(1.0) a(0.0) voucher(1.0) program(0.0) to(0.0) finance(1.0) the(0.0) education(1.0) of(0.0) students(0.0) 
+from(0.0) the(0.0) District(0.0) of(0.0) Columbia(0.0) in(0.0) private(0.0) and(0.0) religious(1.0) institutions(0.0) .(0.0) These(0.0) vouchers(1.0) could(0.0) be(0.0) used(0.0) not(0.0) only(0.0) in(0.0) private(0.0) 
+schools(0.0) in(0.0) the(0.0) District(0.0) of(0.0) Columbia(0.0) ,(0.0) but(0.0) in(0.0) surrounding(0.0) jurisdictions(1.0) as(0.0) well(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) a(0.0) voucher(1.0) by(0.0) 
+any(0.0) other(0.0) name(0.0) is(0.0) still(0.0) a(0.0) voucher(0.0) .(0.0) As(0.0) a(0.0) preliminary(0.0) matter(0.0) ,(0.0) this(0.0) provision(1.0) violates(1.0) home(0.0) rule(1.0) .(0.0) The(0.0) 
+citizens(1.0) of(0.0) this(0.0) great(0.0) city(0.0) should(0.0) not(0.0) be(0.0) blackmailed(0.0) by(0.0) Congress(0.0) into(0.0) measures(1.0) detrimental(1.0) to(0.0) the(0.0) well-being(1.0) of(0.0) their(0.0) schoolchildren(1.0) 
+simply(0.0) because(0.0) we(0.0) hold(0.0) power(0.0) over(0.0) the(0.0) District(0.0) 's(0.0) purse(0.0) .(0.0) The(0.0) elected(0.0) leaders(0.0) of(0.0) this(0.0) city(1.0) have(0.0) not(0.0) asked(0.0) 
+us(0.0) to(0.0) impose(1.0) a(0.0) program(0.0) on(0.0) its(0.0) school(0.0) system(0.0) that(0.0) strikes(1.0) at(0.0) the(0.0) heart(0.0) of(0.0) public(1.0) education(1.0) .(0.0) The(0.0) voucher(1.0) 
+provisions(1.0) of(0.0) the(0.0) Gunderson(1.0) amendment(1.0) are(0.0) contrary(0.0) to(0.0) the(0.0) cause(0.0) of(0.0) school(0.0) reform(1.0) and(0.0) may(0.0) be(0.0) unconstitutional(1.0) .(0.0) Furthermore(0.0) ,(0.0) 
+they(0.0) do(0.0) not(0.0) promote(1.0) overall(0.0) improvement(0.0) of(0.0) education(1.0) for(0.0) all(0.0) children(0.0) ,(0.0) rather(0.0) they(0.0) drain(1.0) much(0.0) needed(0.0) resources(1.0) from(0.0) underfunded(1.0) 
+public(1.0) schools(1.0) .(0.0) I(0.0) never(0.0) thought(0.0) I(0.0) would(0.0) see(0.0) the(0.0) day(0.0) that(0.0) this(0.0) Congress(1.0) would(0.0) allow(0.0) Federal(1.0) funds(1.0) to(0.0) be(0.0) 
+diverted(1.0) to(0.0) schools(1.0) which(0.0) will(0.0) be(0.0) free(0.0) to(0.0) discriminate(1.0) against(0.0) students(0.0) ,(0.0) including(0.0) the(0.0) disabled(1.0) ,(0.0) even(0.0) in(0.0) their(0.0) admissions(1.0) 
+policies(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) in(0.0) my(0.0) committee(0.0) we(0.0) have(0.0) struggled(0.0) to(0.0) examine(0.0) the(0.0) consequences(1.0) of(0.0) vouchers(1.0) .(0.0) A(0.0) little(0.0) 
+over(0.0) a(0.0) week(0.0) ago(0.0) ,(0.0) we(0.0) conducted(0.0) a(0.0) field(0.0) hearing(0.0) in(0.0) Milwaukee(1.0) ,(0.0) WI(1.0) ,(0.0) in(0.0) a(0.0) bipartisan(1.0) attempt(1.0) to(0.0) 
+assess(0.0) what(0.0) lessons(0.0) a(0.0) voucher(1.0) program(0.0) there(0.0) held(0.0) for(0.0) national(1.0) education(1.0) policy(1.0) .(0.0) The(0.0) answers(0.0) are(0.0) far(0.0) from(0.0) clear(0.0) ,(0.0) 
+and(0.0) there(0.0) is(0.0) no(0.0) sound(0.0) evaluation(0.0) data(0.0) from(0.0) which(0.0) we(0.0) can(0.0) draw(0.0) reliable(0.0) conclusions(0.0) .(0.0) The(0.0) Gunderson(1.0) proposal(1.0) does(0.0) not(0.0) 
+address(0.0) those(0.0) questions(0.0) ,(0.0) but(0.0) it(0.0) does(0.0) raise(1.0) many(0.0) others(0.0) .(0.0) How(0.0) would(0.0) District(0.0) schools(1.0) benefit(0.0) from(0.0) diverting(1.0) funds(1.0) to(0.0) 
+Montgomery(1.0) County(1.0) and(0.0) Fairfax(0.0) County(1.0) schools(0.0) ?(0.0) I(0.0) do(0.0) not(0.0) dispute(0.0) the(0.0) obvious(0.0) fact(0.0) that(0.0) some(0.0) individual(0.0) students(0.0) may(0.0) profit(0.0) 
+,(0.0) but(0.0) how(0.0) in(0.0) the(0.0) world(0.0) would(0.0) that(0.0) improve(0.0) educational(1.0) quality(0.0) in(0.0) the(0.0) District(0.0) for(0.0) those(0.0) not(0.0) privileged(0.0) to(0.0) be(0.0) 
+accepted(0.0) by(0.0) private(0.0) schools(0.0) in(0.0) neighboring(1.0) States(0.0) ?(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) the(0.0) Congress(0.0) has(0.0) no(0.0) right(0.0) to(0.0) establish(0.0) a(0.0) laboratory(0.0) 
+for(0.0) radical(1.0) experiments(0.0) in(0.0) the(0.0) District(0.0) of(0.0) Columbia(0.0) that(0.0) would(0.0) treat(0.0) its(0.0) children(0.0) as(0.0) guinea(0.0) pigs(0.0) .(0.0) We(0.0) would(0.0) not(0.0) 
+impose(1.0) the(0.0) same(0.0) ridiculous(1.0) conditions(0.0) on(0.0) free(0.0) citizens(1.0) of(0.0) any(0.0) other(0.0) jurisdiction(1.0) .(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) oppose(1.0) the(0.0) 
+Gunderson(1.0) amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+oppose	Gunderson	amendment	mandates	voucher	finance	education	
+religious	vouchers	
+jurisdictions	Chairman	voucher	
+provision	violates	rule	
+citizens	measures	detrimental	well-being	schoolchildren	
+city	
+impose	strikes	public	education	voucher	
+provisions	Gunderson	amendment	reform	unconstitutional	
+promote	education	drain	resources	underfunded	
+public	schools	Congress	Federal	funds	
+diverted	schools	discriminate	disabled	admissions	
+policies	Chairman	consequences	vouchers	
+Milwaukee	WI	bipartisan	attempt	
+voucher	national	education	policy	
+Gunderson	proposal	
+raise	schools	diverting	funds	
+Montgomery	County	County	
+educational	
+neighboring	Chairman	
+radical	
+impose	ridiculous	citizens	jurisdiction	oppose	
+Gunderson	amendment	
+
+reads % = 0.18396226415094338

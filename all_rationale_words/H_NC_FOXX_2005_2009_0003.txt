@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) suspect(0.0) that(0.0) every(0.0) Member(0.0) of(0.0) this(0.0) body(0.0) would(0.0) stand(0.0) up(0.0) here(0.0) at(0.0) some(0.0) point(0.0) and(0.0) say(0.0) that(0.0) he(0.0) 
+or(0.0) she(0.0) lives(0.0) in(0.0) the(0.0) best(0.0) place(0.0) in(0.0) the(0.0) United(0.0) States(0.0) or(0.0) has(0.0) the(0.0) best(0.0) district(0.0) .(0.0) I(0.0) know(0.0) that(0.0) 
+I(0.0) have(0.0) the(0.0) best(0.0) district(0.0) in(0.0) North(1.0) Carolina(0.0) ,(0.0) the(0.0) Fifth(0.0) District(0.0) .(0.0) It(0.0) is(0.0) a(0.0) very(0.0) diverse(0.0) district(0.0) ,(0.0) 
+populated(0.0) by(0.0) many(0.0) great(0.0) people(0.0) .(0.0) The(0.0) district(0.0) has(0.0) many(0.0) ,(0.0) many(0.0) attributes(0.0) that(0.0) people(0.0) come(0.0) to(0.0) visit(0.0) us(0.0) for(0.0) 
+and(0.0) come(0.0) to(0.0) live(0.0) in(0.0) the(0.0) district(0.0) .(0.0) But(0.0) I(0.0) want(0.0) to(0.0) highlight(0.0) tonight(0.0) one(0.0) of(0.0) the(0.0) very(0.0) positive(0.0) things(0.0) 
+that(0.0) 's(0.0) happening(0.0) in(0.0) my(0.0) district(0.0) this(0.0) year(0.0) and(0.0) to(0.0) call(0.0) attention(0.0) to(0.0) that(0.0) because(0.0) so(0.0) often(0.0) we(0.0) 're(0.0) talking(0.0) 
+about(0.0) negative(0.0) things(0.0) on(0.0) the(0.0) floor(0.0) .(0.0) It's(0.0) not(0.0) the(0.0) best(0.0) of(0.0) times(0.0) economically(1.0) in(0.0) our(0.0) country(1.0) .(0.0) But(0.0) I(0.0) 
+think(0.0) we(0.0) need(0.0) to(0.0) talk(0.0) some(0.0) about(0.0) positive(0.0) things(0.0) that(0.0) are(0.0) happening(0.0) ,(0.0) and(0.0) I(0.0) want(0.0) to(0.0) talk(0.0) tonight(0.0) a(0.0) 
+little(0.0) bit(0.0) about(0.0) a(0.0) very(0.0) positive(0.0) thing(0.0) that(0.0) 's(0.0) happening(0.0) in(0.0) Winston-Salem(1.0) ,(0.0) North(1.0) Carolina(0.0) .(0.0) Winston-Salem(0.0) ,(0.0) and(0.0) it(0.0) 
+'s(0.0) two(0.0) towns(0.0) that(0.0) came(0.0) together(0.0) many(0.0) years(0.0) ago(0.0) ,(0.0) those(0.0) two(0.0) towns(1.0) were(0.0) settled(0.0) in(0.0) the(0.0) mid(0.0) 1700s(0.0) by(0.0) 
+a(0.0) group(0.0) of(0.0) very(0.0) devout(0.0) ,(0.0) hardworking(0.0) Moravians(1.0) ,(0.0) and(0.0) many(0.0) of(0.0) their(0.0) descendants(0.0) still(0.0) live(0.0) in(0.0) the(0.0) area(0.0) .(0.0) 
+What(0.0) Winston-Salem(1.0) has(0.0) decided(0.0) to(0.0) do(0.0) in(0.0) the(0.0) last(0.0) couple(0.0) of(0.0) years(0.0) is(0.0) to(0.0) work(0.0) on(0.0) building(0.0) a(0.0) new(0.0) stadium(0.0) 
+,(0.0) a(0.0) new(0.0) ballpark(1.0) ,(0.0) for(0.0) its(0.0) minor(0.0) league(0.0) baseball(0.0) team(0.0) and(0.0) also(0.0) has(0.0) been(0.0) working(0.0) on(0.0) coming(0.0) up(0.0) with(0.0) 
+a(0.0) new(0.0) name(0.0) for(0.0) that(0.0) minor(0.0) league(0.0) baseball(0.0) team(0.0) .(0.0) Later(0.0) this(0.0) year(0.0) we(0.0) expect(0.0) to(0.0) see(0.0) a(0.0) new(0.0) ballpark(1.0) 
+in(0.0) downtown(1.0) Winston-Salem(1.0) ,(0.0) which(0.0) will(0.0) be(0.0) a(0.0) state-of-the-art(0.0) facility(0.0) ,(0.0) and(0.0) the(0.0) foundation(0.0) of(0.0) this(0.0) ballpark(1.0) area(0.0) will(0.0) develop(0.0) 
+into(0.0) an(0.0) entertainment(0.0) district(0.0) over(0.0) the(0.0) next(0.0) few(0.0) years(0.0) .(0.0) The(0.0) new(0.0) stadium(0.0) will(0.0) feature(0.0) a(0.0) 15,000(0.0) square(0.0) foot(0.0) kids(0.0) 
+'(0.0) zone(0.0) ,(0.0) full-scale(1.0) restaurant(0.0) ,(0.0) 16(0.0) luxury(0.0) suites(0.0) ,(0.0) and(0.0) numerous(0.0) additional(0.0) components(0.0) that(0.0) will(0.0) make(0.0) it(0.0) a(0.0) showcase(0.0) 
+for(0.0) the(0.0) city(0.0) .(0.0) The(0.0) ballpark(1.0) is(0.0) the(0.0) result(0.0) of(0.0) a(0.0) public-private(1.0) partnership(0.0) in(0.0) not(0.0) only(0.0) the(0.0) town(0.0) of(0.0) Winston-Salem(1.0) 
+but(0.0) also(0.0) in(0.0) Forsyth(1.0) County(1.0) .(0.0) Now(0.0) ,(0.0) the(0.0) people(0.0) who(0.0) own(0.0) the(0.0) baseball(1.0) team(0.0) thought(0.0) that(0.0) it(0.0) might(0.0) be(0.0) 
+an(0.0) interesting(0.0) time(0.0) to(0.0) consider(0.0) a(0.0) new(0.0) name(0.0) for(0.0) the(0.0) baseball(0.0) team(0.0) ,(0.0) and(0.0) so(0.0) they(0.0) had(0.0) a(0.0) ``(0.0) Name(0.0) 
+the(0.0) Team(0.0) ''(0.0) contest(0.0) in(0.0) which(0.0) they(0.0) received(0.0) over(0.0) 3,000(0.0) submissions(0.0) in(0.0) just(0.0) 2(0.0) weeks(0.0) .(0.0) After(0.0) reviewing(0.0) the(0.0) suggestions(0.0) 
+and(0.0) receiving(0.0) over(0.0) 70(0.0) submissions(0.0) for(0.0) one(0.0) particular(0.0) name(0.0) ,(0.0) the(0.0) people(0.0) in(0.0) charge(0.0) selected(0.0) ``(0.0) Dash(0.0) ''(0.0) to(0.0) be(0.0) 
+the(0.0) new(0.0) team(0.0) name(0.0) .(0.0) The(0.0) idea(0.0) behind(0.0) that(0.0) is(0.0) Dash(0.0) is(0.0) what(0.0) brings(0.0) the(0.0) two(0.0) words(0.0) ,(0.0) Winston(0.0) and(0.0) 
+Salem(0.0) ,(0.0) together(0.0) ,(0.0) and(0.0) the(0.0) vision(0.0) of(0.0) the(0.0) owners(0.0) is(0.0) to(0.0) make(0.0) the(0.0) stadium(0.0) a(0.0) family-friendly(1.0) environment(0.0) and(0.0) gathering(0.0) 
+place(0.0) for(0.0) entertainment(0.0) within(0.0) the(0.0) Winston-(0.0) Salem(0.0) community(0.0) .(0.0) Now(0.0) ,(0.0) the(0.0) Winston-Salem(1.0) Dash(0.0) is(0.0) a(0.0) minor(0.0) league(0.0) baseball(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+North	
+
+
+
+economically	country	
+
+Winston-Salem	North	
+towns	
+Moravians	
+Winston-Salem	
+ballpark	
+ballpark	
+downtown	Winston-Salem	ballpark	
+
+full-scale	
+ballpark	public-private	Winston-Salem	
+Forsyth	County	baseball	
+
+
+
+
+family-friendly	
+Winston-Salem	
+
+reads % = 0.044

@@ -1,0 +1,10 @@
+This is from a Republican
+----- below is the original text -----
+This(0.0) is(0.0) the(0.0) entirety(0.0) of(0.0) the(0.0) programs(0.0) funded(1.0) in(0.0) this(0.0) bill(1.0) ,(0.0) with(0.0) the(0.0) exception(0.0) of(0.0) the(0.0) drug(1.0) czar(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+funded	bill	drug	czar	
+
+reads % = 0.2

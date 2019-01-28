@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) yield(1.0) 1(0.0) minute(1.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Washington(1.0) ((0.0) Mr.(0.0) Inslee(1.0) )(0.0) .(0.0) ((0.0) Mr.(0.0) INSLEE(1.0) asked(0.0) 
+and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) )(0.0) 
+
+
+----- below are rationale words -----
+
+yield	minute	Washington	Inslee	INSLEE	
+
+
+reads % = 0.15151515151515152

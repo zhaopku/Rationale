@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) this(0.0) Congress(0.0) and(0.0) this(0.0) country(1.0) face(0.0) two(0.0) great(0.0) fiscal(1.0) challenges(0.0) .(0.0) One(0.0) is(0.0) long(0.0) term(0.0) ,(0.0) and(0.0) one(0.0) is(0.0) 
+urgent(0.0) and(0.0) immediate(0.0) .(0.0) Long(0.0) term(1.0) ,(0.0) we(0.0) know(0.0) we(0.0) have(0.0) to(0.0) restore(1.0) balance(0.0) to(0.0) our(0.0) budget(1.0) ,(0.0) and(0.0) negotiations(1.0) 
+are(0.0) under(0.0) way(0.0) in(0.0) an(0.0) effort(0.0) to(0.0) accomplish(0.0) that(0.0) .(0.0) There(0.0) are(0.0) significant(0.0) differences(0.0) in(0.0) approach(0.0) .(0.0) Do(0.0) you(0.0) follow(0.0) 
+the(0.0) outlines(1.0) of(0.0) the(0.0) Ryan(1.0) budget(1.0) ,(0.0) which(0.0) basically(0.0) cut(1.0) taxes(1.0) for(0.0) very(0.0) wealthy(1.0) Americans(1.0) in(0.0) the(0.0) hope(0.0) that(0.0) will(0.0) 
+create(0.0) jobs(1.0) and(0.0) pay(1.0) for(0.0) that(0.0) by(0.0) slashing(1.0) or(0.0) ending(0.0) Medicare(1.0) ?(0.0) Or(0.0) do(0.0) you(0.0) proceed(0.0) along(0.0) the(0.0) outline(0.0) in(0.0) 
+the(0.0) Obama(1.0) budget(1.0) which(0.0) essentially(1.0) would(1.0) put(0.0) everything(0.0) on(0.0) the(0.0) table(0.0) ,(0.0) including(0.0) the(0.0) Pentagon(1.0) and(0.0) including(0.0) revenues(1.0) ?(0.0) But(0.0) 
+either(0.0) way(0.0) ,(0.0) the(0.0) urgent(1.0) and(0.0) immediate(0.0) responsibility(0.0) is(0.0) that(0.0) we(0.0) pay(1.0) our(0.0) bills(1.0) .(0.0) And(0.0) either(0.0) side(0.0) that(0.0) engages(0.0) 
+in(0.0) a(0.0) game(0.0) of(0.0) chicken(0.0) with(0.0) the(0.0) obligation(1.0) of(0.0) this(0.0) country(1.0) to(0.0) maintain(0.0) its(0.0) full(0.0) faith(1.0) and(0.0) credit(0.0) is(0.0) playing(0.0) 
+with(0.0) fiscal(1.0) fire(1.0) and(0.0) using(0.0) a(0.0) loaded(0.0) gun(0.0) for(0.0) a(0.0) game(0.0) of(0.0) Russian(1.0) roulette(0.0) .(0.0) That(0.0) gun(1.0) is(0.0) pointed(0.0) at(0.0) 
+the(0.0) heart(0.0) of(0.0) the(0.0) American(0.0) economy(1.0) .(0.0) America(1.0) pays(1.0) its(0.0) bills(1.0) .(0.0) We(0.0) must(0.0) do(0.0) that(0.0) and(0.0) do(0.0) whatever(0.0) is(0.0) 
+required(0.0) in(0.0) order(0.0) to(0.0) maintain(0.0) our(0.0) reputation(0.0) for(0.0) doing(0.0) so(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+country	fiscal	
+term	restore	budget	negotiations	
+
+outlines	Ryan	budget	cut	taxes	wealthy	Americans	
+jobs	pay	slashing	Medicare	
+Obama	budget	essentially	would	Pentagon	revenues	
+urgent	pay	bills	
+obligation	country	faith	
+fiscal	fire	Russian	gun	
+economy	America	pays	bills	
+
+
+reads % = 0.17452830188679244

@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) pursuant(0.0) to(0.0) House(0.0) Resolution(1.0) 351(0.0) ,(0.0) I(0.0) call(0.0) up(0.0) the(0.0) bill(1.0) ((1.0) H.R(1.0) .(0.0) 742(0.0) )(0.0) to(0.0) amend(0.0) the(0.0) 
+Occupational(0.0) Safety(0.0) and(0.0) Health(0.0) Act(0.0) of(0.0) 1970(0.0) to(0.0) provide(0.0) for(0.0) the(0.0) award(0.0) of(0.0) attorneys(0.0) '(0.0) fees(0.0) and(0.0) costs(0.0) to(0.0) small(0.0) 
+employers(0.0) when(0.0) such(0.0) employers(1.0) prevail(0.0) in(0.0) litigation(1.0) prompted(0.0) by(0.0) the(0.0) issuance(0.0) of(0.0) a(0.0) citation(0.0) by(0.0) the(0.0) Occupational(0.0) Safety(0.0) and(0.0) Health(0.0) 
+Administration(0.0) ,(0.0) and(0.0) ask(0.0) for(0.0) its(0.0) immediate(0.0) consideration(0.0) in(0.0) the(0.0) House(0.0) .(0.0) The(0.0) Clerk(0.0) read(0.0) the(0.0) title(0.0) of(0.0) the(0.0) bill(0.0) 
+.(0.0) The(0.0) text(0.0) of(0.0) H.R(0.0) .(0.0) 742(0.0) is(0.0) as(0.0) follows(0.0) :(0.0) H.R(0.0) .(0.0) 742(0.0) Be(0.0) it(0.0) enacted(0.0) by(0.0) the(0.0) Senate(0.0) 
+and(0.0) House(0.0) of(0.0) Representatives(0.0) of(0.0) the(0.0) United(0.0) States(0.0) of(0.0) America(0.0) in(0.0) Congress(0.0) assembled(0.0) ,(0.0) SECTION(0.0) 1(0.0) .(0.0) SHORT(0.0) TITLE(0.0) .(0.0) 
+This(0.0) Act(0.0) may(0.0) be(0.0) cited(0.0) as(0.0) the(0.0) ``(0.0) Occupational(0.0) Safety(0.0) and(0.0) Health(0.0) Small(0.0) Employer(0.0) Access(0.0) to(0.0) Justice(0.0) Act(0.0) of(0.0) 2005(0.0) 
+''(0.0) .(0.0) SEC(0.0) .(0.0) 2(0.0) .(0.0) AWARD(0.0) OF(0.0) ATTORNEYS(0.0) '(0.0) FEES(0.0) AND(0.0) COSTS(0.0) .(0.0) The(0.0) Occupational(0.0) Safety(0.0) and(0.0) Health(0.0) Act(0.0) 
+of(0.0) 1970(0.0) ((0.0) 29(0.0) U.S.C(0.0) .(0.0) 651(0.0) et(0.0) seq(0.0) .(0.0) )(0.0) is(0.0) amended(0.0) by(0.0) redesignating(0.0) sections(0.0) 32(0.0) ,(0.0) 33(0.0) ,(0.0) 
+and(0.0) 34(0.0) as(0.0) sections(0.0) 33(0.0) ,(0.0) 34(0.0) ,(0.0) and(0.0) 35(0.0) ,(0.0) respectively(0.0) ,(0.0) and(0.0) by(0.0) inserting(0.0) after(0.0) section(0.0) 31(0.0) the(0.0) 
+following(0.0) new(0.0) section(0.0) :(0.0) ``(0.0) Award(0.0) of(0.0) attorneys(0.0) '(0.0) fees(0.0) and(0.0) costs(0.0) ``(0.0) Sec(0.0) .(0.0) 32(0.0) .(0.0) ((0.0) a(0.0) )(0.0) 
+Administrative(0.0) Proceedings.(0.0) --(0.0) An(0.0) employer(0.0) who(0.0) --(0.0) ``(0.0) ((0.0) 1(0.0) )(0.0) is(0.0) the(0.0) prevailing(0.0) party(0.0) in(0.0) any(0.0) adversary(0.0) adjudication(0.0) instituted(0.0) 
+under(0.0) this(0.0) Act(0.0) ,(0.0) and(0.0) ``(0.0) ((0.0) 2(0.0) )(0.0) had(0.0) not(0.0) more(0.0) than(0.0) 100(0.0) employees(0.0) and(0.0) a(0.0) net(0.0) worth(0.0) of(0.0) 
+not(0.0) more(0.0) than(0.0) $(0.0) 7,000,000(0.0) at(0.0) the(0.0) time(0.0) the(0.0) adversary(0.0) adjudication(0.0) was(0.0) initiated(0.0) ,(0.0) shall(0.0) be(0.0) awarded(0.0) fees(0.0) and(0.0) other(0.0) 
+expenses(0.0) as(0.0) a(0.0) prevailing(0.0) party(0.0) under(0.0) section(0.0) 504(0.0) of(0.0) title(0.0) 5(0.0) ,(0.0) United(0.0) States(0.0) Code(0.0) ,(0.0) in(0.0) accordance(0.0) with(0.0) the(0.0) 
+provisions(0.0) of(0.0) that(0.0) section(0.0) ,(0.0) but(0.0) without(0.0) regard(0.0) to(0.0) whether(0.0) the(0.0) position(0.0) of(0.0) the(0.0) Secretary(0.0) was(0.0) substantially(0.0) justified(0.0) or(0.0) special(0.0) 
+circumstances(0.0) make(0.0) an(0.0) award(0.0) unjust(0.0) .(0.0) For(0.0) purposes(0.0) of(0.0) this(0.0) section(0.0) the(0.0) term(0.0) `(0.0) adversary(0.0) adjudication(0.0) '(0.0) has(0.0) the(0.0) meaning(0.0) 
+given(0.0) that(0.0) term(0.0) in(0.0) section(0.0) 504(0.0) ((0.0) b(0.0) )(0.0) ((0.0) 1(0.0) )(0.0) ((0.0) C(0.0) )(0.0) of(0.0) title(0.0) 5(0.0) ,(0.0) United(0.0) 
+States(0.0) Code(0.0) .(0.0) ``(0.0) ((0.0) b(0.0) )(0.0) Proceedings.(0.0) --(0.0) An(0.0) employer(0.0) who(0.0) --(0.0) ``(0.0) ((0.0) 1(0.0) )(0.0) is(0.0) the(0.0) prevailing(0.0) 
+party(0.0) in(0.0) any(0.0) proceeding(0.0) for(0.0) judicial(0.0) review(0.0) of(0.0) any(0.0) action(0.0) instituted(0.0) under(0.0) this(0.0) Act(0.0) ,(0.0) and(0.0) ``(0.0) ((0.0) 2(0.0) )(0.0) 
+had(0.0) not(0.0) more(0.0) than(0.0) 100(0.0) employees(0.0) and(0.0) a(0.0) net(0.0) worth(0.0) of(0.0) not(0.0) more(0.0) than(0.0) $(0.0) 7,000,000(0.0) at(0.0) the(0.0) time(0.0) the(0.0) 
+action(0.0) addressed(0.0) under(0.0) subsection(0.0) ((0.0) 1(0.0) )(0.0) was(0.0) filed(0.0) ,(0.0) shall(0.0) be(0.0) awarded(0.0) fees(0.0) and(0.0) other(0.0) expenses(0.0) as(0.0) a(0.0) prevailing(0.0) 
+party(0.0) under(0.0) section(0.0) 2412(0.0) ((0.0) d(0.0) )(0.0) of(0.0) title(0.0) 28(0.0) ,(0.0) United(0.0) States(0.0) Code(0.0) ,(0.0) in(0.0) accordance(0.0) with(0.0) the(0.0) provisions(0.0) 
+of(0.0) that(0.0) section(0.0) ,(0.0) but(0.0) without(0.0) regard(0.0) to(0.0) whether(0.0) the(0.0) position(0.0) of(0.0) the(0.0) United(0.0) States(0.0) was(0.0) substantially(0.0) justified(0.0) or(0.0) special(0.0) 
+circumstances(0.0) make(0.0) an(0.0) award(0.0) unjust(0.0) .(0.0) Any(0.0) appeal(0.0) of(0.0) a(0.0) determination(0.0) of(0.0) fees(0.0) pursuant(0.0) to(0.0) subsection(0.0) ((0.0) a(0.0) )(0.0) 
+
+
+----- below are rationale words -----
+
+Resolution	bill	(	H.R	
+
+employers	litigation	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+reads % = 0.012

@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) just(0.0) wanted(0.0) to(0.0) say(0.0) to(0.0) the(0.0) gentleman(0.0) that(0.0) you(0.0) have(0.0) increased(0.0) the(0.0) border(0.0) patrol(0.0) by(0.0) almost(0.0) 1,000(0.0) agents(0.0) 
+,(0.0) which(0.0) will(0.0) take(0.0) the(0.0) total(0.0) number(0.0) of(0.0) border(0.0) patrol(0.0) agents(0.0) well(0.0) over(0.0) 5,000(0.0) .(0.0) I(0.0) think(0.0) we(0.0) need(0.0) ultimately(0.0) 
+10,000(0.0) ,(0.0) but(0.0) you(0.0) are(0.0) right(0.0) on(0.0) track(0.0) .(0.0) The(0.0) Republican(1.0) Research(1.0) Committee(1.0) Task(1.0) Force(1.0) on(1.0) Immigration(1.0) worked(1.0) out(0.0) a(0.0) 
+schedule(0.0) which(0.0) is(0.0) manifested(0.0) in(0.0) an(0.0) amendment(1.0) we(0.0) passed(0.0) on(0.0) the(0.0) crime(1.0) bill(1.0) of(0.0) a(0.0) little(0.0) over(0.0) 1,000(0.0) agents(0.0) per(0.0) 
+year(0.0) .(0.0) You(0.0) are(0.0) following(0.0) that(0.0) ,(0.0) you(0.0) are(0.0) tracking(0.0) that(0.0) very(0.0) effectively(0.0) .(0.0) I(0.0) might(0.0) just(0.0) say(0.0) to(0.0) the(0.0) 
+gentleman(0.0) ,(0.0) as(0.0) we(0.0) put(0.0) these(0.0) agents(0.0) in(0.0) important(0.0) places(0.0) ,(0.0) like(0.0) El(0.0) Paso(1.0) and(0.0) San(1.0) Diego(1.0) ,(0.0) the(0.0) smugglers(1.0) 
+start(0.0) to(0.0) try(0.0) to(0.0) go(0.0) around(0.0) the(0.0) concentrations(0.0) of(0.0) agents(0.0) .(0.0) And(0.0) in(0.0) Imperial(0.0) County(1.0) in(0.0) California(1.0) ,(0.0) we(0.0) are(0.0) 
+now(0.0) seeing(0.0) smuggling(1.0) of(0.0) both(0.0) illegal(1.0) aliens(1.0) and(0.0) cocaine(1.0) surge(1.0) .(0.0) I(0.0) know(0.0) it(0.0) is(0.0) the(0.0) gentleman(0.0) 's(0.0) intention(0.0) that(0.0) 
+the(0.0) border(0.0) patrol(0.0) agents(0.0) now(0.0) be(0.0) put(0.0) at(0.0) other(0.0) strategic(0.0) points(0.0) where(0.0) smuggling(1.0) is(0.0) beginning(0.0) to(0.0) increase(1.0) as(0.0) a(0.0) result(0.0) 
+of(0.0) the(0.0) concentrations(0.0) that(0.0) we(0.0) have(0.0) already(0.0) in(0.0) place(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+Republican	Research	Committee	Task	Force	on	Immigration	worked	
+amendment	crime	bill	
+
+Paso	San	Diego	smugglers	
+County	California	
+smuggling	illegal	aliens	cocaine	surge	
+smuggling	increase	
+
+
+reads % = 0.1256544502617801

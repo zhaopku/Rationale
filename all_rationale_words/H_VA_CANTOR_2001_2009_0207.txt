@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) would(0.0) ask(0.0) further(0.0) whether(0.0) we(0.0) can(0.0) expect(0.0) that(0.0) bill(1.0) to(0.0) include(0.0) the(0.0) statutory(1.0) PAYGO(1.0) provisions(1.0) and(0.0) whether(0.0) that(0.0) bill(1.0) 
+would(1.0) be(0.0) compliant(0.0) with(0.0) those(0.0) provisions(1.0) .(0.0) And(0.0) I(0.0) yield(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+bill	statutory	PAYGO	provisions	bill	
+would	provisions	
+
+reads % = 0.21875

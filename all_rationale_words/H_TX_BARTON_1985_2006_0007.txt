@@ -1,0 +1,18 @@
+This is from a Republican
+----- below is the original text -----
+``(0.0) Identical(0.0) ''(0.0) is(0.0) defined(0.0) to(0.0) mean(0.0) that(0.0) minor(0.0) differences(0.0) in(0.0) wording(0.0) are(0.0) acceptable(0.0) so(0.0) long(0.0) as(0.0) they(0.0) do(0.0) not(0.0) alter(0.0) 
+the(0.0) underlying(0.0) meaning(0.0) of(0.0) the(0.0) provision(1.0) .(0.0) So(0.0) ,(0.0) for(0.0) example(0.0) ,(0.0) Federal(1.0) law(1.0) provides(0.0) that(0.0) a(0.0) food(0.0) is(0.0) adulterated(1.0) 
+``(0.0) if(0.0) it(0.0) contains(0.0) any(0.0) added(0.0) poisonous(0.0) or(0.0) deleterious(1.0) substance(0.0) which(0.0) may(0.0) render(0.0) the(0.0) food(1.0) injurious(0.0) to(0.0) health(1.0) .(0.0) ''(0.0) 
+This(0.0) is(0.0) often(0.0) referred(0.0) to(0.0) as(0.0) the(0.0) basic(0.0) adulteration(1.0) provision(1.0) of(0.0) Federal(1.0) law(1.0) .(0.0) State(0.0) law(1.0) that(0.0) addresses(0.0) the(0.0) basic(0.0) 
+adulteration(1.0) requirement(0.0) will(0.0) need(0.0) to(0.0) be(0.0) the(0.0) same(0.0) as(0.0) that(0.0) provision(1.0) of(0.0) Federal(1.0) law(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+provision	Federal	law	adulterated	
+deleterious	food	health	
+adulteration	provision	Federal	law	law	
+adulteration	provision	Federal	law	
+
+reads % = 0.16666666666666666

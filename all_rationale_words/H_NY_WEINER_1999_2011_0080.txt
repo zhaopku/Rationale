@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) and(0.0) my(0.0) colleagues(0.0) ,(0.0) if(0.0) it(0.0) would(0.0) be(0.0) appropriate(0.0) ,(0.0) I(0.0) would(0.0) like(0.0) to(0.0) now(0.0) list(0.0) the(0.0) names(0.0) of(0.0) the(0.0) 
+13(0.0) fallen(0.0) chaplains(1.0) who(0.0) will(0.0) be(0.0) honored(0.0) on(0.0) this(0.0) memorial(0.0) should(0.0) this(0.0) become(0.0) law(1.0) :(0.0) Captain(0.0) Nachman(1.0) Arnoff(1.0) of(0.0) the(0.0) 
+United(0.0) States(0.0) Army(0.0) ,(0.0) Lieutenant(0.0) Colonel(0.0) Meir(1.0) Engel(1.0) of(0.0) the(0.0) United(0.0) States(0.0) Army(0.0) ,(0.0) First(0.0) Lieutenant(0.0) Frank(0.0) Goldenberg(1.0) of(0.0) the(0.0) 
+United(0.0) States(0.0) Army(0.0) ,(0.0) Lieutenant(0.0) Alexander(0.0) Goode(1.0) of(0.0) the(0.0) United(0.0) States(0.0) Army(0.0) ,(0.0) Lieutenant(0.0) Henry(0.0) Goody(1.0) of(0.0) the(0.0) United(0.0) States(0.0) 
+Army(0.0) ,(0.0) Major(0.0) Samuel(0.0) Hurwitz(1.0) of(0.0) the(0.0) United(0.0) States(0.0) Army(0.0) ,(0.0) First(0.0) Lieutenant(0.0) Herman(1.0) Rosen(1.0) of(0.0) the(0.0) United(0.0) States(0.0) Army(0.0) 
+,(0.0) Lieutenant(0.0) Colonel(0.0) Samuel(1.0) Rosen(1.0) of(0.0) the(0.0) United(0.0) States(0.0) Air(0.0) Force(0.0) ,(0.0) First(0.0) Lieutenant(0.0) Solomon(0.0) Rosen(1.0) of(0.0) the(0.0) United(0.0) States(0.0) 
+Army(0.0) ,(0.0) Captain(0.0) Morton(1.0) Singer(1.0) of(0.0) the(0.0) United(0.0) States(0.0) Army(0.0) ,(0.0) Captain(0.0) David(0.0) Sobel(1.0) of(0.0) the(0.0) United(0.0) States(0.0) Air(0.0) Force(0.0) 
+,(0.0) Captain(0.0) Irving(0.0) Tepper(1.0) of(0.0) the(0.0) United(0.0) States(0.0) Army(0.0) ,(0.0) and(0.0) First(0.0) Lieutenant(0.0) Louis(0.0) Werfel(0.0) of(0.0) the(0.0) United(0.0) States(0.0) Army(0.0) 
+.(0.0) May(0.0) God(0.0) bless(0.0) their(0.0) souls(0.0) ,(0.0) and(0.0) may(0.0) we(0.0) remember(0.0) them(0.0) and(0.0) honor(0.0) them(0.0) with(0.0) a(0.0) memorial(0.0) at(0.0) Arlington(0.0) 
+Cemetery(0.0) .(0.0) I(0.0) ask(0.0) my(0.0) colleagues(0.0) to(0.0) vote(1.0) ``(0.0) yes(0.0) ''(0.0) on(0.0) this(0.0) ,(0.0) and(0.0) I(0.0) thank(0.0) my(0.0) colleagues(0.0) for(0.0) 
+their(0.0) indulgence(0.0) .(0.0) Announcement(0.0) by(0.0) the(0.0) Speaker(0.0) Pro(0.0) Tempore(0.0) 
+
+
+----- below are rationale words -----
+
+
+chaplains	law	Nachman	Arnoff	
+Meir	Engel	Goldenberg	
+Goode	Goody	
+Hurwitz	Herman	Rosen	
+Samuel	Rosen	Rosen	
+Morton	Singer	Sobel	
+Tepper	
+
+vote	
+
+
+reads % = 0.09523809523809523

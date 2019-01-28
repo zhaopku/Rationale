@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) ask(0.0) unanimous(1.0) consent(0.0) that(0.0) all(0.0) Members(0.0) may(0.0) have(0.0) 5(0.0) legislative(0.0) days(0.0) within(0.0) which(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) 
+their(0.0) remarks(0.0) on(0.0) H.(0.0) Con(1.0) .(0.0) Res(0.0) .(0.0) 376(0.0) .(0.0) The(0.0) SPEAKER(0.0) pro(0.0) tempore(0.0) ((1.0) Mrs.(0.0) Biggert(1.0) )(0.0) .(0.0) Is(0.0) 
+there(0.0) objection(0.0) to(0.0) the(0.0) request(0.0) of(0.0) the(0.0) gentlewoman(0.0) from(0.0) Maryland(1.0) ?(0.0) There(0.0) was(0.0) no(0.0) objection(0.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) I(0.0) 
+yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) support(0.0) of(0.0) House(0.0) Concurrent(1.0) 
+Resolution(1.0) 376(0.0) ,(0.0) which(0.0) calls(0.0) for(0.0) the(0.0) people(0.0) of(0.0) the(0.0) United(0.0) States(0.0) to(0.0) celebrate(0.0) a(0.0) Liberty(0.0) Day(0.0) each(0.0) year(0.0) .(0.0) 
+In(0.0) the(0.0) words(0.0) of(0.0) the(0.0) resolution(1.0) ,(0.0) Liberty(1.0) Day(0.0) would(0.0) serve(0.0) ,(0.0) quote(0.0) ,(0.0) ``(0.0) as(0.0) a(0.0) remembrance(0.0) of(0.0) both(0.0) 
+the(0.0) freedom(1.0) that(0.0) Americans(1.0) were(0.0) given(0.0) in(0.0) the(0.0) Declaration(1.0) of(0.0) Independence(1.0) and(0.0) the(0.0) extraordinary(0.0) rights(1.0) and(0.0) liberties(1.0) that(0.0) Americans(1.0) were(0.0) 
+given(0.0) in(0.0) their(0.0) Constitution(1.0) ,(0.0) ''(0.0) unquote(1.0) .(0.0) The(0.0) resolution(1.0) also(0.0) holds(0.0) that(0.0) all(0.0) elected(1.0) and(0.0) previously(0.0) elected(0.0) representatives(0.0) of(0.0) 
+the(0.0) people(0.0) who(0.0) voluntarily(0.0) give(0.0) of(0.0) their(0.0) time(0.0) to(0.0) speak(0.0) to(0.0) the(0.0) American(0.0) people(0.0) about(0.0) these(0.0) founding(1.0) documents(0.0) to(0.0) further(0.0) 
+our(0.0) remembrance(0.0) of(0.0) our(0.0) freedom(1.0) ,(0.0) our(0.0) rights(1.0) and(0.0) our(0.0) liberties(1.0) ,(0.0) will(0.0) deserve(1.0) our(0.0) thanks(0.0) .(0.0) The(0.0) preamble(1.0) to(0.0) 
+the(0.0) resolution(1.0) also(0.0) finds(0.0) that(0.0) March(0.0) 16(0.0) ,(0.0) James(0.0) Madison(1.0) 's(0.0) birthday(0.0) ,(0.0) would(0.0) be(0.0) a(0.0) fitting(0.0) reminder(0.0) of(0.0) Liberty(1.0) 
+Day(0.0) and(0.0) an(0.0) appropriate(0.0) occasion(0.0) to(0.0) celebrate(0.0) the(0.0) inalienable(1.0) rights(1.0) and(0.0) liberties(1.0) proclaimed(0.0) by(0.0) the(0.0) Declaration(1.0) of(0.0) Independence(1.0) and(0.0) secured(0.0) 
+by(0.0) the(0.0) Constitution(1.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) this(0.0) is(0.0) the(0.0) second(0.0) time(0.0) in(0.0) as(0.0) many(0.0) weeks(0.0) that(0.0) this(0.0) House(0.0) has(0.0) 
+had(0.0) occasion(0.0) to(0.0) reflect(0.0) on(0.0) the(0.0) life(0.0) and(0.0) achievements(0.0) of(0.0) James(0.0) Madison(1.0) .(0.0) Last(0.0) week(0.0) ,(0.0) we(0.0) passed(0.0) House(0.0) Concurrent(1.0) 
+Resolution(0.0) 396(0.0) to(0.0) celebrate(0.0) Madison(1.0) 's(0.0) birth(0.0) and(0.0) his(0.0) many(0.0) contributions(0.0) to(0.0) our(0.0) Nation(1.0) .(0.0) The(0.0) resolution(1.0) before(0.0) the(0.0) House(0.0) 
+today(0.0) also(0.0) recognizes(0.0) the(0.0) immense(0.0) contributions(0.0) of(0.0) this(0.0) remarkable(0.0) patriot(1.0) to(0.0) securing(0.0) the(0.0) freedom(1.0) we(0.0) enjoy(0.0) today(0.0) .(0.0) Madam(0.0) Speaker(1.0) 
+,(0.0) Madison(1.0) himself(0.0) said(0.0) that(0.0) ,(0.0) quote(0.0) ,(0.0) ``(0.0) my(0.0) life(0.0) has(0.0) been(0.0) so(0.0) much(0.0) of(0.0) a(0.0) public(0.0) one(0.0) that(0.0) 
+any(0.0) review(0.0) of(0.0) it(0.0) must(0.0) mainly(0.0) consistent(0.0) of(0.0) the(0.0) agency(0.0) which(0.0) was(0.0) my(0.0) lot(0.0) in(0.0) public(1.0) transactions(0.0) ,(0.0) ''(0.0) unquote(1.0) 
+.(0.0) Although(0.0) he(0.0) was(0.0) the(0.0) fourth(0.0) President(0.0) of(0.0) the(0.0) United(0.0) States(0.0) ,(0.0) the(0.0) greatest(0.0) of(0.0) Madison(1.0) 's(0.0) public(0.0) transactions(0.0) was(0.0) 
+surely(0.0) his(0.0) crucial(0.0) role(0.0) in(0.0) the(0.0) framing(0.0) and(0.0) adoption(1.0) of(0.0) the(0.0) Constitution(1.0) of(0.0) the(0.0) United(0.0) States(0.0) .(0.0) As(0.0) the(0.0) resolution(1.0) 
+notes(0.0) ,(0.0) Madison(1.0) was(0.0) the(0.0) major(0.0) author(0.0) of(0.0) the(0.0) Virginia(0.0) Plan(0.0) ,(0.0) which(0.0) served(0.0) as(0.0) the(0.0) basis(0.0) and(0.0) model(0.0) for(0.0) 
+the(0.0) Constitution(0.0) of(0.0) the(0.0) United(0.0) States(0.0) ,(0.0) that(0.0) was(0.0) proposed(0.0) by(0.0) the(0.0) Constitutional(1.0) Convention(0.0) in(0.0) 1787(0.0) .(0.0) Along(0.0) with(0.0) John(0.0) 
+Jay(1.0) and(0.0) Alexander(0.0) Hamilton(1.0) ,(0.0) Madison(0.0) also(0.0) contributed(0.0) to(0.0) securing(0.0) ratification(0.0) of(0.0) the(0.0) Constitution(0.0) by(0.0) writing(0.0) parts(0.0) of(0.0) the(0.0) Federalist(1.0) 
+Papers(0.0) .(0.0) The(0.0) Federalist(1.0) Papers(0.0) endure(0.0) to(0.0) this(0.0) day(0.0) ,(0.0) as(0.0) the(0.0) resolution(1.0) observes(0.0) ,(0.0) as(0.0) some(0.0) of(0.0) the(0.0) best(0.0) 
+arguments(0.0) for(0.0) our(0.0) form(0.0) of(0.0) government(0.0) .(0.0) Madison(0.0) also(0.0) kept(0.0) detailed(0.0) records(0.0) of(0.0) the(0.0) debates(0.0) and(0.0) compromises(0.0) in(0.0) the(0.0) 
+
+
+----- below are rationale words -----
+
+unanimous	
+Con	(	Biggert	
+Maryland	Speaker	
+Speaker	Concurrent	
+Resolution	
+resolution	Liberty	
+freedom	Americans	Declaration	Independence	rights	liberties	Americans	
+Constitution	unquote	resolution	elected	
+founding	
+freedom	rights	liberties	deserve	preamble	
+resolution	Madison	Liberty	
+inalienable	rights	liberties	Declaration	Independence	
+Constitution	Speaker	
+Madison	Concurrent	
+Madison	Nation	resolution	
+patriot	freedom	Speaker	
+Madison	
+public	unquote	
+Madison	
+adoption	Constitution	resolution	
+Madison	
+Constitutional	
+Jay	Hamilton	Federalist	
+Federalist	resolution	
+
+
+reads % = 0.12

@@ -1,0 +1,34 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) in(0.0) September(0.0) 2002(0.0) President(0.0) Bush(1.0) declared(1.0) the(0.0) anniversary(0.0) of(0.0) the(0.0) September(0.0) 11(0.0) terrorist(1.0) attacks(0.0) as(0.0) Patriot(0.0) Day(0.0) .(0.0) 
+The(0.0) President(1.0) said(0.0) September(0.0) 11(0.0) should(0.0) be(0.0) a(0.0) national(0.0) time(0.0) for(0.0) prayer(0.0) and(0.0) remembrance(0.0) for(0.0) the(0.0) heroes(0.0) America(0.0) lost(0.0) on(0.0) 
+that(0.0) fateful(0.0) ,(0.0) Earth-(0.0) shattering(0.0) day(0.0) .(0.0) Accordingly(0.0) ,(0.0) House(0.0) Concurrent(1.0) Resolution(0.0) 473(0.0) states(1.0) that(0.0) it(0.0) is(0.0) appropriate(0.0) to(0.0) annually(0.0) 
+observe(0.0) Patriot(1.0) Day(0.0) on(0.0) September(0.0) 11(0.0) .(0.0) I(0.0) join(0.0) with(0.0) my(0.0) colleagues(0.0) in(0.0) urging(1.0) strong(0.0) support(0.0) of(0.0) this(0.0) meaningful(1.0) resolution(1.0) 
+.(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) the(0.0) resolution(1.0) before(0.0) us(0.0) takes(0.0) the(0.0) call(0.0) for(0.0) remembrance(0.0) a(0.0) step(0.0) forward(0.0) .(0.0) It(0.0) urges(1.0) people(0.0) 
+to(0.0) commemorate(0.0) the(0.0) day(0.0) with(0.0) voluntary(1.0) acts(0.0) of(0.0) compassion(1.0) towards(0.0) loved(0.0) ones(0.0) ,(0.0) neighbors(0.0) and(0.0) others(0.0) .(0.0) These(0.0) actions(1.0) can(0.0) 
+have(0.0) great(0.0) effects(0.0) on(0.0) our(0.0) communities(1.0) all(0.0) year(0.0) long(0.0) .(0.0) With(0.0) little(0.0) question(0.0) ,(0.0) September(0.0) 11(0.0) ,(0.0) 2001(0.0) ,(0.0) ushered(0.0) 
+in(0.0) a(0.0) new(0.0) era(1.0) in(0.0) American(0.0) history(0.0) .(0.0) This(0.0) is(0.0) a(0.0) period(0.0) in(0.0) which(0.0) we(0.0) need(0.0) to(0.0) be(0.0) vigilant(0.0) ,(0.0) 
+aware(0.0) ,(0.0) unafraid(0.0) ,(0.0) and(0.0) appreciative(0.0) of(0.0) our(0.0) freedoms(1.0) .(0.0) But(0.0) because(0.0) countless(0.0) Americans(1.0) have(0.0) embraced(0.0) the(0.0) sentiment(0.0) of(0.0) this(0.0) 
+resolution(1.0) in(0.0) the(0.0) past(0.0) 3(0.0) years(0.0) ,(0.0) this(0.0) new(0.0) era(1.0) can(0.0) be(0.0) one(0.0) of(0.0) not(0.0) just(0.0) security(0.0) and(0.0) freedom(1.0) but(0.0) 
+compassion(0.0) and(0.0) charity(1.0) as(0.0) well(0.0) .(0.0) I(0.0) congratulate(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) York(1.0) ((0.0) Mr.(0.0) King(1.0) )(0.0) ,(0.0) my(0.0) distinguished(0.0) 
+colleague(0.0) ,(0.0) who(0.0) will(0.0) speak(0.0) in(0.0) a(0.0) minute(0.0) ,(0.0) for(0.0) his(0.0) work(0.0) to(0.0) move(0.0) forward(0.0) House(0.0) Concurrent(1.0) Resolution(0.0) 473(0.0) .(0.0) 
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	Bush	declared	terrorist	
+President	
+Concurrent	states	
+Patriot	urging	meaningful	resolution	
+Speaker	resolution	urges	
+voluntary	compassion	actions	
+communities	
+era	
+freedoms	Americans	
+resolution	era	freedom	
+charity	York	King	
+Concurrent	
+Speaker	
+
+reads % = 0.11507936507936507

@@ -1,0 +1,36 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) strike(1.0) the(0.0) requisite(0.0) number(0.0) of(0.0) words(0.0) .(0.0) Narcotics(0.0) is(0.0) terrorism(1.0) .(0.0) Narcotics(0.0) in(0.0) America(1.0) is(0.0) the(0.0) 
+most(0.0) serious(0.0) terrorist(1.0) threat(1.0) we(0.0) face(0.0) .(0.0) Narcotics(0.0) coming(0.0) across(0.0) our(0.0) border(1.0) have(0.0) basically(0.0) not(0.0) only(0.0) challenged(0.0) the(0.0) spirit(0.0) of(0.0) 
+American(0.0) freedom(1.0) ,(0.0) they(0.0) have(0.0) eroded(1.0) not(0.0) only(0.0) our(0.0) health(1.0) and(0.0) our(0.0) youths(1.0) '(0.0) initiatives(0.0) ,(0.0) but(0.0) they(0.0) have(0.0) attacked(0.0) 
+us(0.0) at(0.0) the(0.0) very(0.0) fiber(0.0) of(0.0) our(0.0) republic(1.0) .(0.0) Individual(0.0) freedom(1.0) is(0.0) being(0.0) all(0.0) that(0.0) we(0.0) can(0.0) possibly(0.0) be(0.0) .(0.0) 
+I(0.0) support(0.0) this(0.0) amendment(1.0) .(0.0) The(0.0) tragedy(1.0) in(0.0) Congress(0.0) is(0.0) that(0.0) I(0.0) believe(0.0) we(0.0) do(0.0) not(0.0) even(0.0) go(0.0) far(0.0) enough(0.0) 
+.(0.0) I(0.0) will(0.0) be(0.0) offering(0.0) an(0.0) amendment(1.0) that(0.0) will(0.0) ,(0.0) in(0.0) fact(0.0) ,(0.0) complement(0.0) the(0.0) MCCollum(0.0) amendment(1.0) to(0.0) ensure(0.0) that(0.0) 
+at(0.0) least(0.0) the(0.0) matter(0.0) of(0.0) narcotics(1.0) is(0.0) treated(0.0) very(0.0) seriously(0.0) and(0.0) at(0.0) the(0.0) highest(0.0) levels(0.0) of(0.0) priority(1.0) .(0.0) I(0.0) think(0.0) 
+it(0.0) is(0.0) time(0.0) to(0.0) recognize(0.0) that(0.0) we(0.0) do(0.0) not(0.0) have(0.0) to(0.0) hold(0.0) a(0.0) gun(0.0) to(0.0) someone(0.0) 's(0.0) head(0.0) to(0.0) simply(0.0) 
+destroy(1.0) their(0.0) life(0.0) .(0.0) Narcotics(1.0) have(0.0) certainly(0.0) torn(0.0) away(0.0) of(0.0) the(0.0) fabric(0.0) of(0.0) the(0.0) quality(0.0) of(0.0) life(0.0) in(0.0) America(1.0) .(0.0) 
+They(0.0) have(0.0) destroyed(0.0) literally(0.0) communities(1.0) .(0.0) They(0.0) have(0.0) destroyed(0.0) our(0.0) youth(1.0) ,(0.0) they(0.0) have(0.0) corrupted(0.0) our(0.0) youth(1.0) ,(0.0) and(0.0) we(0.0) 
+have(0.0) not(0.0) done(0.0) everything(0.0) we(0.0) possibly(0.0) can(0.0) .(0.0) So(0.0) I(0.0) think(0.0) this(0.0) is(0.0) a(0.0) mild(0.0) measure(0.0) ,(0.0) to(0.0) a(0.0) degree(0.0) 
+,(0.0) but(0.0) it(0.0) is(0.0) the(0.0) beginning(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) Florida(0.0) ((0.0) Mr.(0.0) MCCollum(1.0) )(0.0) works(1.0) that(0.0) way(0.0) ,(0.0) and(0.0) 
+he(0.0) is(0.0) to(0.0) be(0.0) given(0.0) credit(0.0) for(0.0) his(0.0) legislative(0.0) gains(0.0) incrementally(0.0) .(0.0) I(0.0) am(0.0) glad(0.0) to(0.0) support(0.0) it(0.0) and(0.0) I(0.0) 
+recommend(0.0) a(0.0) strong(0.0) vote(1.0) on(0.0) behalf(0.0) of(0.0) the(0.0) MCCollum(0.0) amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+strike	terrorism	America	
+terrorist	threat	border	
+freedom	eroded	health	youths	
+republic	freedom	
+amendment	tragedy	
+amendment	amendment	
+narcotics	priority	
+
+destroy	Narcotics	America	
+communities	youth	youth	
+
+MCCollum	works	
+
+vote	amendment	
+
+reads % = 0.10294117647058823

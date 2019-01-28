@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+The(0.0) Acting(0.0) CHAIR(0.0) .(0.0) The(0.0) gentlewoman(0.0) from(0.0) Massachusetts(1.0) is(0.0) recognized(0.0) for(0.0) 5(0.0) minutes(0.0) .(0.0) Today(0.0) ,(0.0) we(0.0) are(0.0) taking(0.0) up(0.0) yet(0.0) 
+another(0.0) bill(1.0) that(0.0) continues(0.0) the(0.0) GOP(1.0) majority(1.0) 's(1.0) ongoing(1.0) attack(1.0) on(1.0) public(1.0) health(1.0) .(1.0) This(1.0) bill(1.0) seeks(1.0) to(1.0) gut(1.0) EPA(1.0) 
+rules(1.0) requiring(1.0) reductions(1.0) in(1.0) emissions(1.0) of(1.0) toxic(1.0) air(1.0) pollutants(1.0) ,(1.0) including(1.0) mercury(1.0) ,(1.0) from(1.0) industrial(1.0) boilers(1.0) and(1.0) incinerators(1.0) .(1.0) Industrial(1.0) 
+boilers(1.0) and(1.0) incinerators(1.0) are(1.0) among(1.0) the(0.0) largest(1.0) sources(1.0) of(1.0) mercury(1.0) pollution(1.0) in(1.0) the(1.0) country(1.0) ,(1.0) a(1.0) potent(1.0) brain(1.0) poison(1.0) that(1.0) 
+can(0.0) cause(1.0) severe(1.0) developmental(1.0) problems(0.0) in(0.0) children(0.0) and(0.0) toddlers(0.0) .(0.0) According(0.0) to(0.0) the(0.0) National(0.0) Academy(0.0) of(0.0) Sciences(0.0) ,(0.0) even(0.0) in(0.0) 
+low(0.0) doses(0.0) ,(0.0) mercury(1.0) can(0.0) tragically(1.0) affect(1.0) a(0.0) child(0.0) 's(0.0) development(0.0) ,(0.0) delaying(1.0) walking(0.0) and(0.0) talking(0.0) ,(0.0) and(0.0) causing(0.0) learning(0.0) 
+disabilities(1.0) .(0.0) Children(0.0) suffering(0.0) from(0.0) the(0.0) chronic(1.0) effects(0.0) of(0.0) mercury(1.0) exposure(1.0) may(0.0) never(0.0) reach(0.0) their(0.0) full(0.0) potential(0.0) .(0.0) This(0.0) is(0.0) 
+simply(0.0) unacceptable(1.0) ,(0.0) especially(0.0) when(0.0) we(0.0) have(0.0) the(0.0) technology(0.0) to(0.0) address(0.0) it(0.0) .(0.0) The(0.0) Waxman(1.0) amendment(1.0) is(0.0) straightforward(0.0) .(0.0) It(0.0) 
+says(0.0) that(0.0) the(0.0) bill(1.0) can(0.0) not(0.0) stop(0.0) the(0.0) EPA(1.0) from(0.0) taking(0.0) action(1.0) to(0.0) clean(1.0) up(0.0) toxic(1.0) air(1.0) pollution(1.0) from(0.0) an(0.0) 
+industrial(1.0) boiler(1.0) or(0.0) incinerator(1.0) if(0.0) that(0.0) facility(0.0) is(0.0) emitting(0.0) mercury(1.0) or(0.0) other(0.0) toxic(1.0) pollutants(1.0) that(0.0) are(0.0) damaging(0.0) to(0.0) children(0.0) 's(0.0) 
+developing(0.0) brains(1.0) .(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) this(0.0) commonsense(1.0) amendment(1.0) and(0.0) to(0.0) stand(0.0) up(0.0) for(0.0) the(0.0) health(1.0) of(0.0) 
+our(0.0) children(0.0) and(0.0) grandchildren(0.0) .(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Massachusetts	
+bill	GOP	majority	's	ongoing	attack	on	public	health	.	This	bill	seeks	to	gut	EPA	
+rules	requiring	reductions	in	emissions	of	toxic	air	pollutants	,	including	mercury	,	from	industrial	boilers	and	incinerators	.	Industrial	
+boilers	and	incinerators	are	among	largest	sources	of	mercury	pollution	in	the	country	,	a	potent	brain	poison	that	
+cause	severe	developmental	
+mercury	tragically	affect	delaying	
+disabilities	chronic	mercury	exposure	
+unacceptable	Waxman	amendment	
+bill	EPA	action	clean	toxic	air	pollution	
+industrial	boiler	incinerator	mercury	toxic	pollutants	
+brains	commonsense	amendment	health	
+
+
+reads % = 0.3702127659574468

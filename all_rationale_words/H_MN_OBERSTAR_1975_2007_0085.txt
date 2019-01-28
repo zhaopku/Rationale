@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Chair(0.0) ,(0.0) I(0.0) yield(0.0) 2(0.0) minutes(0.0) to(0.0) the(0.0) chair(0.0) of(0.0) the(0.0) subcommittee(0.0) ,(0.0) Ms.(1.0) Eddie(1.0) Bernice(1.0) Johnson(1.0) .(0.0) Ms.(1.0) EDDIE(1.0) 
+BERNICE(1.0) JOHNSON(1.0) of(0.0) Texas(0.0) .(0.0) Madam(0.0) Chairman(1.0) ,(0.0) I(0.0) strongly(0.0) oppose(1.0) the(0.0) Baker-King(0.0) amendment(1.0) .(0.0) I(0.0) am(0.0) from(0.0) a(0.0) working(0.0) 
+family(0.0) ,(0.0) and(0.0) I(0.0) stand(0.0) with(0.0) the(0.0) American(0.0) workers(1.0) .(0.0) The(0.0) amendment(1.0) would(0.0) strip(0.0) the(0.0) prevailing(1.0) wages(1.0) protection(1.0) from(0.0) the(0.0) 
+bill(0.0) .(0.0) Since(0.0) 1931(1.0) ,(0.0) the(0.0) Davis-Bacon(1.0) Act(0.0) has(0.0) provided(0.0) a(0.0) living(0.0) wage(1.0) for(0.0) American(0.0) workers(1.0) ,(0.0) and(0.0) as(0.0) the(0.0) 
+authors(0.0) of(0.0) the(0.0) Davis-Bacon(1.0) Act(0.0) knew(0.0) then(0.0) and(0.0) as(0.0) we(0.0) continue(0.0) to(0.0) know(0.0) today(0.0) ,(0.0) the(0.0) greatest(0.0) way(0.0) to(0.0) improve(0.0) 
+the(0.0) quality(0.0) of(0.0) life(0.0) for(0.0) our(0.0) Nation(1.0) 's(0.0) workers(1.0) is(0.0) for(0.0) the(0.0) Nation(1.0) as(0.0) a(0.0) whole(0.0) to(0.0) provide(0.0) workers(1.0) with(0.0) 
+an(0.0) honest(0.0) living(0.0) for(0.0) an(0.0) honest(0.0) day(0.0) 's(0.0) work(0.0) .(0.0) We(0.0) save(0.0) nothing(0.0) when(0.0) we(0.0) give(0.0) people(0.0) little(0.0) pay(1.0) or(0.0) 
+we(0.0) pay(1.0) it(0.0) through(0.0) other(0.0) sources(0.0) ,(0.0) by(0.0) more(0.0) taxes(1.0) ,(0.0) more(0.0) welfare(1.0) rolls(0.0) .(0.0) I(0.0) would(0.0) much(0.0) rather(0.0) have(0.0) 
+people(0.0) working(0.0) .(0.0) It(0.0) has(0.0) been(0.0) well(0.0) documented(0.0) by(0.0) this(0.0) committee(0.0) that(0.0) every(0.0) $(0.0) 1(0.0) billion(1.0) invested(1.0) in(0.0) transportation(1.0) and(0.0) 
+water(1.0) infrastructure(1.0) creates(0.0) 40,000(0.0) jobs(0.0) .(0.0) As(0.0) of(0.0) today(0.0) ,(0.0) 31(0.0) States(0.0) have(0.0) enacted(0.0) their(0.0) own(0.0) prevailing(1.0) wage(1.0) laws(1.0) of(0.0) 
+publicly(1.0) funded(1.0) construction(0.0) projects(0.0) .(0.0) And(0.0) you(0.0) check(0.0) this(0.0) with(0.0) me(0.0) :(0.0) Those(0.0) States(0.0) that(0.0) are(0.0) against(0.0) it(0.0) have(0.0) more(0.0) 
+poor(1.0) people(0.0) than(0.0) the(0.0) ones(0.0) that(0.0) have(0.0) it(0.0) .(0.0) In(0.0) some(0.0) of(0.0) these(0.0) States(0.0) ,(0.0) prevailing(1.0) wage(1.0) laws(1.0) result(0.0) in(0.0) 
+even(0.0) higher(0.0) wages(1.0) to(0.0) workers(1.0) than(0.0) if(0.0) the(0.0) Federal(1.0) Davis-Bacon(1.0) were(0.0) alone(0.0) ,(0.0) in(0.0) effect(1.0) .(0.0) Studies(0.0) have(0.0) shown(0.0) that(0.0) 
+the(0.0) prevailing(1.0) wage(1.0) protections(1.0) offered(0.0) by(0.0) Davis-Bacon(1.0) in(0.0) fact(0.0) attracts(0.0) better(0.0) workers(1.0) with(0.0) more(0.0) experience(0.0) and(0.0) training(0.0) who(0.0) are(0.0) more(0.0) 
+productive(0.0) than(0.0) the(0.0) less(0.0) experienced(0.0) ,(0.0) less(0.0) trained(0.0) workers(0.0) .(0.0) So(0.0) it(0.0) really(0.0) saves(0.0) money(1.0) in(0.0) the(0.0) long(0.0) run(0.0) .(0.0) 
+We(0.0) need(0.0) not(0.0) to(0.0) interfere(0.0) with(0.0) the(0.0) Davis-Bacon(1.0) provision(1.0) .(0.0) I(0.0) support(0.0) this(0.0) bill(1.0) .(0.0) In(0.0) 1930(1.0) ,(0.0) as(0.0) the(0.0) 
+Davis-Bacon(1.0) language(0.0) was(0.0) being(0.0) shaped(0.0) and(0.0) debated(0.0) in(0.0) the(0.0) Senate(0.0) and(0.0) in(0.0) the(0.0) House(0.0) ,(0.0) Senator(1.0) Davis(1.0) of(0.0) Pennsylvania(0.0) ,(0.0) 
+a(0.0) Republican(0.0) ,(1.0) and(1.0) Congressman(1.0) Bacon(1.0) of(0.0) New(0.0) York(1.0) ,(0.0) a(0.0) Republican(0.0) ,(1.0) said(1.0) :(1.0) The(1.0) essence(0.0) is(0.0) this(0.0) .(0.0) 
+Is(0.0) the(0.0) government(1.0) willing(0.0) ,(0.0) for(0.0) the(0.0) sake(1.0) of(0.0) the(0.0) lowest(1.0) bidder(0.0) ,(0.0) to(0.0) break(0.0) down(0.0) all(0.0) labor(1.0) standards(1.0) and(0.0) 
+have(0.0) its(0.0) work(0.0) done(0.0) by(0.0) the(0.0) cheapest(1.0) labor(1.0) that(0.0) can(0.0) be(0.0) secured(0.0) and(0.0) shipped(0.0) from(0.0) State(1.0) to(0.0) State(0.0) ?(0.0) When(0.0) 
+the(0.0) bill(1.0) was(0.0) taken(0.0) up(0.0) at(0.0) the(0.0) Senate(0.0) ,(0.0) Robert(0.0) LeFollette(1.0) ,(0.0) chairman(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Manufacturers(0.0) ,(0.0) the(0.0) 
+Republican(1.0) chairman(1.0) of(1.0) the(1.0) committee(0.0) ,(1.0) noted(1.0) that(0.0) practices(1.0) were(1.0) not(0.0) only(0.0) disturbing(0.0) to(0.0) labor(1.0) but(0.0) disturbing(0.0) to(0.0) the(0.0) business(0.0) 
+community(0.0) as(0.0) well(0.0) and(0.0) urged(1.0) that(0.0) this(0.0) measure(1.0) be(0.0) speedily(0.0) enacted(0.0) .(0.0) It(0.0) does(0.0) not(0.0) require(0.0) the(0.0) government(1.0) to(0.0) establish(0.0) 
+new(0.0) wage(1.0) scales(0.0) ;(0.0) it(0.0) merely(0.0) gives(0.0) the(0.0) government(1.0) power(0.0) to(0.0) require(0.0) its(0.0) contractors(1.0) to(0.0) pay(0.0) the(0.0) prevailing(1.0) wage(1.0) scales(0.0) 
+in(0.0) the(0.0) vicinity(0.0) of(0.0) the(0.0) building(0.0) projects(0.0) .(0.0) Now(0.0) ,(0.0) the(0.0) prevailing(1.0) wage(1.0) scale(0.0) in(0.0) the(0.0) vicinity(0.0) of(0.0) building(0.0) 
+
+
+----- below are rationale words -----
+
+Ms.	Eddie	Bernice	Johnson	Ms.	EDDIE	
+BERNICE	JOHNSON	Chairman	oppose	amendment	
+workers	amendment	prevailing	wages	protection	
+1931	Davis-Bacon	wage	workers	
+Davis-Bacon	
+Nation	workers	Nation	workers	
+pay	
+pay	taxes	welfare	
+billion	invested	transportation	
+water	infrastructure	prevailing	wage	laws	
+publicly	funded	
+poor	prevailing	wage	laws	
+wages	workers	Federal	Davis-Bacon	effect	
+prevailing	wage	protections	Davis-Bacon	workers	
+money	
+Davis-Bacon	provision	bill	1930	
+Davis-Bacon	Senator	Davis	
+,	and	Congressman	Bacon	York	,	said	:	The	
+government	sake	lowest	labor	standards	
+cheapest	labor	State	
+bill	LeFollette	
+Republican	chairman	of	the	,	noted	practices	were	labor	
+urged	measure	government	
+wage	government	contractors	prevailing	wage	
+prevailing	wage	
+
+reads % = 0.198

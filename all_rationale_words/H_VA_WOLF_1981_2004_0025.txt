@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(1.0) Chairman(1.0) ,(0.0) I(0.0) listened(0.0) to(0.0) the(0.0) debate(1.0) ,(0.0) and(0.0) I(0.0) just(1.0) want(1.0) to(0.0) make(0.0) a(0.0) couple(1.0) of(0.0) closing(1.0) comments(0.0) .(0.0) 
+One(1.0) ,(0.0) this(0.0) does(0.0) hurt(1.0) NED(1.0) .(0.0) At(0.0) this(0.0) time(0.0) for(0.0) the(0.0) Middle(1.0) East(0.0) to(0.0) do(0.0) this(0.0) is(0.0) just(1.0) not(1.0) 
+good(0.0) .(0.0) Secondly(1.0) ,(0.0) it(0.0) hurts(0.0) the(0.0) war(1.0) on(0.0) terrorism(1.0) .(0.0) Thirty(1.0) people(0.0) from(0.0) my(0.0) district(1.0) died(0.0) in(0.0) the(0.0) attack(0.0) 
+on(0.0) the(0.0) Pentagon(1.0) ,(0.0) and(0.0) we(0.0) heard(0.0) it(0.0) .(0.0) Lastly(1.0) ,(0.0) and(0.0) I(0.0) know(1.0) this(0.0) is(0.0) not(1.0) the(0.0) intention(0.0) of(0.0) 
+the(0.0) sponsors(1.0) ,(0.0) this(0.0) is(0.0) not(1.0) ,(0.0) I(0.0) say(1.0) ,(0.0) the(0.0) intention(0.0) of(0.0) the(0.0) sponsors(1.0) ,(0.0) but(0.0) the(0.0) reality(1.0) of(0.0) 
+this(0.0) amendment(1.0) is(0.0) that(0.0) this(0.0) is(0.0) a(0.0) subsidy(1.0) to(0.0) put(0.0) money(0.0) into(0.0) the(0.0) bankers(1.0) '(0.0) pockets(1.0) .(0.0) That(0.0) is(0.0) basically(1.0) 
+what(0.0) it(0.0) is(0.0) .(0.0) If(1.0) one(0.0) were(0.0) helping(1.0) the(0.0) poor(0.0) or(1.0) the(0.0) hungry(1.0) or(0.0) the(0.0) people(0.0) that(0.0) really(1.0) need(1.0) it(0.0) 
+,(0.0) one(0.0) ought(1.0) to(0.0) support(0.0) the(0.0) amendment(1.0) ;(0.0) but(0.0) look(1.0) and(0.0) listen(0.0) to(0.0) the(0.0) groups(0.0) that(0.0) contacted(0.0) us(0.0) ,(0.0) the(0.0) 
+American(0.0) Bankers(1.0) Association(0.0) .(0.0) This(0.0) is(0.0) an(0.0) amendment(1.0) to(0.0) put(0.0) money(0.0) in(0.0) the(0.0) pockets(1.0) of(0.0) the(0.0) bankers(1.0) ,(0.0) not(1.0) the(0.0) 
+poor(0.0) ,(0.0) not(1.0) small(0.0) business(1.0) ,(0.0) and(0.0) for(0.0) those(0.0) reasons(1.0) ,(0.0) in(0.0) addition(0.0) to(0.0) the(0.0) National(0.0) Endowment(1.0) For(0.0) Democracy(1.0) when(0.0) 
+we(0.0) are(0.0) trying(0.0) to(0.0) get(0.0) peace(0.0) in(0.0) the(0.0) Middle(1.0) East(0.0) on(0.0) the(0.0) war(1.0) on(0.0) terrorism(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	debate	just	want	couple	closing	
+One	hurt	NED	Middle	just	not	
+Secondly	war	terrorism	Thirty	district	
+Pentagon	Lastly	know	not	
+sponsors	not	say	sponsors	reality	
+amendment	subsidy	bankers	pockets	basically	
+If	helping	or	hungry	really	need	
+ought	amendment	look	
+Bankers	amendment	pockets	bankers	not	
+not	business	reasons	Endowment	Democracy	
+Middle	war	terrorism	
+
+reads % = 0.24423963133640553

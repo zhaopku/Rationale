@@ -1,0 +1,44 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) the(0.0) lobbying(1.0) reform(1.0) proposal(1.0) drafted(1.0) by(1.0) the(0.0) Republican(1.0) leadership(1.0) in(1.0) the(1.0) wake(1.0) of(1.0) the(1.0) Jack(1.0) Abramoff(1.0) scandal(1.0) and(1.0) 
+other(1.0) recent(1.0) instances(1.0) of(1.0) corruption(1.0) by(1.0) public(1.0) officials(1.0) is(1.0) woefully(1.0) lacking(1.0) in(1.0) many(1.0) respects(1.0) ;(1.0) but(1.0) chief(1.0) among(1.0) them(0.0) ,(0.0) 
+however(1.0) ,(0.0) is(0.0) its(0.0) failure(1.0) to(0.0) address(0.0) the(0.0) central(0.0) weakness(0.0) and(0.0) the(0.0) most(0.0) corrosive(1.0) aspect(0.0) of(0.0) the(0.0) current(0.0) lobbying(1.0) rules(1.0) 
+,(0.0) and(0.0) that(0.0) has(0.0) proven(0.0) to(0.0) be(0.0) this(0.0) revolving(1.0) door(0.0) aspect(0.0) we(0.0) have(0.0) heard(0.0) so(0.0) much(0.0) about(0.0) today(0.0) ,(0.0) which(0.0) 
+involves(0.0) public(1.0) sector(1.0) congressional(0.0) folks(1.0) ,(0.0) employees(0.0) ,(0.0) going(0.0) over(0.0) to(0.0) work(0.0) for(0.0) special(0.0) interest(0.0) groups(0.0) .(0.0) In(0.0) the(0.0) most(0.0) 
+recent(0.0) instance(0.0) with(0.0) the(0.0) Abramoff(1.0) scandal(1.0) ,(0.0) we(0.0) had(0.0) staffers(0.0) for(0.0) the(0.0) former(0.0) Republican(0.0) leader(1.0) going(1.0) over(1.0) to(1.0) work(1.0) for(1.0) 
+Abramoff(1.0) .(1.0) However(1.0) ,(1.0) the(1.0) need(1.0) to(1.0) impose(1.0) greater(1.0) restrictions(1.0) on(0.0) the(1.0) flow(1.0) between(0.0) key(1.0) legislative(0.0) and(0.0) executive(0.0) branch(0.0) policymaking(1.0) 
+posts(0.0) and(0.0) business(0.0) and(0.0) lobbying(1.0) firms(1.0) was(0.0) never(0.0) more(0.0) evident(0.0) than(0.0) during(0.0) the(0.0) days(0.0) following(0.0) the(0.0) passage(1.0) of(0.0) the(0.0) Medicare(1.0) 
+Prescription(0.0) Drug(0.0) Act(0.0) .(0.0) That(0.0) was(0.0) an(0.0) absolute(0.0) disgrace(1.0) .(0.0) We(0.0) came(0.0) to(0.0) find(0.0) out(0.0) that(0.0) the(0.0) former(0.0) chairman(0.0) of(0.0) 
+the(0.0) House(0.0) Energy(0.0) and(0.0) Commerce(0.0) Committee(0.0) had(0.0) taken(0.0) the(0.0) top(0.0) job(0.0) at(0.0) the(0.0) pharmaceutical(1.0) industry(0.0) 's(0.0) most(0.0) powerful(0.0) trade(1.0) group(0.0) 
+only(0.0) a(0.0) couple(0.0) of(0.0) months(0.0) after(0.0) he(0.0) had(0.0) played(0.0) an(0.0) instrumental(0.0) role(0.0) in(0.0) the(0.0) bill's(0.0) development(0.0) and(0.0) promotion(0.0) .(0.0) We(0.0) 
+came(0.0) to(0.0) find(0.0) out(0.0) only(0.0) days(0.0) after(0.0) passage(1.0) of(0.0) the(0.0) Medicare(1.0) act(0.0) that(0.0) the(0.0) administration(1.0) 's(0.0) chief(0.0) congressional(0.0) negotiator(1.0) on(0.0) 
+the(0.0) bill(0.0) had(0.0) landed(0.0) a(0.0) job(0.0) at(0.0) a(0.0) top(0.0) lobbying(0.0) firm(0.0) representing(0.0) drug(0.0) companies(1.0) and(0.0) health(1.0) care(0.0) providers(0.0) with(0.0) major(0.0) 
+stakes(0.0) in(0.0) the(0.0) legislation(1.0) .(0.0) As(0.0) has(0.0) been(0.0) pointed(0.0) out(0.0) ,(0.0) that(0.0) legislation(1.0) has(0.0) a(0.0) provision(0.0) that(0.0) says(0.0) the(0.0) Secretary(1.0) 
+of(0.0) Health(0.0) and(0.0) Human(0.0) Services(0.0) shall(0.0) not(0.0) negotiate(0.0) lower(0.0) drug(1.0) prices(0.0) with(0.0) the(0.0) pharmaceutical(1.0) companies(1.0) .(0.0) Then(0.0) one(0.0) of(0.0) the(0.0) 
+chief(0.0) drafters(0.0) of(0.0) the(0.0) bill(0.0) goes(0.0) to(0.0) work(0.0) for(0.0) the(0.0) pharmaceutical(1.0) companies(1.0) .(0.0) It(0.0) weakens(0.0) our(0.0) credibility(1.0) as(0.0) an(0.0) institution(1.0) 
+here(0.0) .(0.0) Not(0.0) only(0.0) were(0.0) seniors(1.0) robbed(0.0) ,(0.0) but(0.0) also(0.0) I(0.0) think(0.0) that(0.0) the(0.0) insurance(1.0) companies(1.0) were(0.0) allowed(0.0) to(0.0) greatly(0.0) 
+benefit(0.0) as(0.0) a(0.0) result(0.0) of(0.0) this(0.0) revolving(1.0) door(0.0) situation(0.0) ,(0.0) and(0.0) we(0.0) must(0.0) correct(0.0) it(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	lobbying	reform	proposal	drafted	by	Republican	leadership	in	the	wake	of	the	Jack	Abramoff	scandal	and	
+other	recent	instances	of	corruption	by	public	officials	is	woefully	lacking	in	many	respects	;	but	chief	among	
+however	failure	corrosive	lobbying	rules	
+revolving	
+public	sector	folks	
+Abramoff	scandal	leader	going	over	to	work	for	
+Abramoff	.	However	,	the	need	to	impose	greater	restrictions	the	flow	key	policymaking	
+lobbying	firms	passage	Medicare	
+disgrace	
+pharmaceutical	trade	
+
+passage	Medicare	administration	negotiator	
+companies	health	
+legislation	legislation	Secretary	
+drug	pharmaceutical	companies	
+pharmaceutical	companies	credibility	institution	
+seniors	insurance	companies	
+revolving	
+
+reads % = 0.2605042016806723

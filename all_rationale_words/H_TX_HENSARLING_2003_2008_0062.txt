@@ -1,0 +1,18 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) listened(0.0) very(0.0) carefully(0.0) to(0.0) the(0.0) distinguished(0.0) majority(1.0) leader(0.0) ,(0.0) who(0.0) spoke(0.0) eloquently(1.0) on(0.0) deficit(1.0) spending(1.0) .(0.0) He(0.0) should(0.0) know(0.0) much(0.0) 
+about(0.0) it(0.0) since(0.0) ,(0.0) under(0.0) his(0.0) budget(1.0) ,(0.0) the(0.0) Federal(1.0) Government(1.0) 's(0.0) long-term(1.0) financial(1.0) obligations(1.0) grew(0.0) by(0.0) $(0.0) 2.5(0.0) trillion(1.0) 
+last(0.0) year(0.0) ,(0.0) and(0.0) we(0.0) now(0.0) have(0.0) the(0.0) single(0.0) largest(1.0) increase(1.0) in(0.0) the(0.0) national(1.0) debt(1.0) .(0.0) As(0.0) I(0.0) listened(0.0) carefully(0.0) 
+to(0.0) the(0.0) majority(1.0) leader(0.0) ,(0.0) I(0.0) heard(0.0) him(0.0) say(0.0) much(0.0) .(0.0) What(0.0) I(0.0) did(0.0) not(0.0) hear(0.0) him(0.0) deny(1.0) was(0.0) that(0.0) 
+his(0.0) budget(1.0) included(0.0) the(0.0) single(0.0) largest(0.0) tax(1.0) increase(1.0) in(0.0) American(1.0) history(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+majority	eloquently	deficit	spending	
+budget	Federal	Government	long-term	financial	obligations	trillion	
+largest	increase	national	debt	
+majority	deny	
+budget	tax	increase	American	
+
+reads % = 0.22580645161290322

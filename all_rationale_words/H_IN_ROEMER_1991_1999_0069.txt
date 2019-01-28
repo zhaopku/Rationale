@@ -1,0 +1,40 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Massachusetts(1.0) for(0.0) yielding(0.0) me(0.0) the(0.0) time(0.0) here(0.0) on(0.0) this(0.0) very(0.0) important(0.0) legislation(1.0) today(0.0) .(0.0) 
+I(0.0) rise(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) and(0.0) will(0.0) support(0.0) the(0.0) Martinez(1.0) amendment(1.0) which(0.0) will(0.0) devote(1.0) some(0.0) more(0.0) resources(1.0) to(0.0) education(1.0) 
+that(0.0) we(0.0) badly(0.0) need(0.0) .(0.0) I(0.0) also(0.0) will(0.0) support(0.0) the(0.0) underlying(1.0) bipartisan(1.0) bill(1.0) that(1.0) emphasizes(1.0) a(0.0) reduction(1.0) in(0.0) class(1.0) size(0.0) 
+and(0.0) an(0.0) emphasis(0.0) on(0.0) the(0.0) quality(0.0) of(0.0) the(0.0) teacher(0.0) standing(0.0) in(0.0) front(0.0) of(0.0) the(0.0) classroom(0.0) .(0.0) Now(0.0) ,(0.0) I(0.0) applaud(0.0) 
+some(0.0) on(0.0) the(0.0) Republican(1.0) side(1.0) for(1.0) this(1.0) bipartisan(1.0) bill(1.0) because(1.0) I(1.0) know(1.0) that(1.0) 3(1.0) or(1.0) 4(1.0) years(1.0) ago(1.0) ,(1.0) there(1.0) 
+were(1.0) some(1.0) on(1.0) that(1.0) side(1.0) that(1.0) advocated(1.0) reducing(1.0) the(0.0) Department(1.0) of(0.0) Education(0.0) to(0.0) rubble(0.0) and(0.0) now(0.0) we(0.0) are(0.0) emphasizing(1.0) in(0.0) 
+a(0.0) bipartisan(1.0) way(0.0) reducing(1.0) the(0.0) class(1.0) sizes(0.0) in(0.0) America(1.0) and(0.0) putting(0.0) emphasis(0.0) on(0.0) the(0.0) quality(0.0) of(0.0) the(0.0) teacher(0.0) that(0.0) stands(0.0) 
+in(0.0) front(0.0) of(0.0) those(0.0) students(0.0) .(0.0) I(0.0) think(0.0) this(0.0) is(0.0) a(0.0) bipartisan(1.0) bill(1.0) ,(0.0) a(1.0) Democratic-Republican(1.0) bill(1.0) ,(1.0) for(1.0) two(0.0) 
+reasons(0.0) :(0.0) It(0.0) emphasizes(1.0) the(0.0) right(0.0) goals(0.0) that(0.0) all(0.0) American(0.0) parents(0.0) and(0.0) teachers(0.0) and(0.0) students(0.0) agree(0.0) with(0.0) ,(0.0) and(0.0) ,(0.0) 
+that(0.0) is(0.0) ,(0.0) generally(0.0) ,(0.0) in(0.0) the(0.0) earliest(0.0) grades(0.0) ,(0.0) 1(0.0) through(0.0) 3(0.0) ,(0.0) that(0.0) when(0.0) we(0.0) have(0.0) smaller(0.0) class(0.0) 
+sizes(0.0) ,(0.0) 18(0.0) or(0.0) 20(0.0) ,(0.0) we(0.0) are(0.0) more(0.0) effective(0.0) in(0.0) making(0.0) sure(0.0) those(0.0) children(0.0) get(0.0) off(0.0) to(0.0) the(0.0) right(0.0) 
+start(0.0) and(0.0) get(0.0) up(0.0) to(0.0) speed(0.0) in(0.0) their(0.0) reading(0.0) skills(0.0) .(0.0) Secondly(0.0) ,(0.0) the(0.0) delivery(0.0) mechanism(0.0) is(0.0) right(0.0) in(0.0) this(0.0) 
+bipartisan(1.0) bill(1.0) .(1.0) It(0.0) does(0.0) not(0.0) loosely(0.0) structure(0.0) a(0.0) block(0.0) grant(1.0) that(0.0) you(0.0) can(0.0) spend(1.0) money(1.0) on(0.0) anything(0.0) .(0.0) It(0.0) 
+tightly(0.0) targets(0.0) the(0.0) spending(1.0) for(0.0) the(0.0) State(0.0) and(0.0) the(0.0) local(0.0) school(0.0) to(0.0) choose(0.0) between(0.0) two(0.0) things(0.0) ,(0.0) a(0.0) reduction(0.0) in(0.0) 
+class(1.0) size(0.0) or(0.0) quality(0.0) teachers(0.0) .(0.0) I(0.0) think(0.0) that(0.0) those(0.0) are(0.0) both(0.0) equally(0.0) important(0.0) goals(0.0) and(0.0) I(0.0) would(0.0) encourage(0.0) my(0.0) 
+colleagues(0.0) to(0.0) support(0.0) Martinez(0.0) and(0.0) support(0.0) the(0.0) underlying(0.0) bipartisan(1.0) bill(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Massachusetts	legislation	
+Speaker	Martinez	amendment	devote	resources	education	
+underlying	bipartisan	bill	that	emphasizes	reduction	class	
+
+Republican	side	for	this	bipartisan	bill	because	I	know	that	3	or	4	years	ago	,	there	
+were	some	on	that	side	that	advocated	reducing	Department	emphasizing	
+bipartisan	reducing	class	America	
+bipartisan	bill	a	Democratic-Republican	bill	,	for	
+emphasizes	
+
+
+
+bipartisan	bill	.	grant	spend	money	
+spending	
+class	
+bipartisan	bill	
+
+reads % = 0.20512820512820512

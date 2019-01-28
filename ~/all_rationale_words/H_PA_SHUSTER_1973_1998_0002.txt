@@ -1,0 +1,36 @@
+This is from a Republican
+----- below is the original text -----
+H.R(0.0) .(0.0) 2625(1.0) was(0.0) introduced(1.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) Georgia(1.0) ((0.0) Mr.(0.0) Barr(1.0) )(0.0) last(1.0) October(0.0) 7(0.0) .(0.0) This(0.0) bill(0.0) would(0.0) 
+change(1.0) the(0.0) name(1.0) of(0.0) the(0.0) Washington(1.0) National(0.0) Airport(1.0) to(0.0) the(0.0) Ronald(1.0) Reagan(0.0) National(0.0) Airport(1.0) .(0.0) Ronald(1.0) Reagan(1.0) was(0.0) born(1.0) on(0.0) 
+February(1.0) 6(0.0) ,(0.0) 1911(1.0) ,(0.0) and(0.0) in(0.0) 1980(1.0) was(0.0) elected(1.0) the(0.0) 40th(1.0) President(1.0) of(0.0) the(0.0) United(0.0) States(0.0) .(0.0) This(0.0) legislation(0.0) 
+would(1.0) honor(1.0) President(1.0) Reagan(1.0) for(0.0) his(0.0) leadership(1.0) to(0.0) and(0.0) for(0.0) the(0.0) citizens(1.0) of(0.0) the(0.0) United(0.0) States(0.0) and(0.0) all(0.0) freedom-loving(1.0) people(0.0) 
+throughout(0.0) the(0.0) world(0.0) .(0.0) In(0.0) particular(0.0) ,(0.0) this(0.0) bill(0.0) is(0.0) designed(0.0) to(0.0) honor(1.0) the(0.0) President(1.0) for(0.0) the(0.0) following(0.0) accomplishments(1.0) during(0.0) 
+his(0.0) administration(0.0) :(1.0) President(1.0) Reagan(1.0) established(1.0) fiscal(0.0) policies(1.0) that(0.0) invigorated(1.0) the(0.0) American(0.0) economy(1.0) .(0.0) As(0.0) a(0.0) result(0.0) of(0.0) his(0.0) efforts(0.0) 
+,(0.0) growth(1.0) and(0.0) investment(1.0) increased(0.0) while(0.0) Federal(1.0) spending(1.0) ,(0.0) inflation(1.0) ,(0.0) interest(0.0) rates(0.0) ,(0.0) tax(1.0) rates(0.0) and(0.0) unemployment(1.0) decreased(0.0) .(0.0) 
+When(1.0) confronted(1.0) by(0.0) the(0.0) former(0.0) Soviet(1.0) Union(0.0) ,(0.0) President(1.0) Reagan(1.0) 's(0.0) policy(0.0) of(0.0) peace(0.0) through(0.0) strength(0.0) restored(0.0) national(1.0) security(0.0) ,(0.0) 
+ensured(1.0) peace(0.0) and(0.0) paved(0.0) the(0.0) way(0.0) for(0.0) the(0.0) successful(1.0) end(0.0) of(0.0) the(0.0) Cold(1.0) War(0.0) .(0.0) President(1.0) Reagan(1.0) 's(0.0) leadership(1.0) encouraged(1.0) 
+the(0.0) rediscovery(1.0) of(0.0) the(0.0) values(1.0) upon(0.0) which(0.0) our(0.0) forefathers(0.0) founded(1.0) this(0.0) Nation(0.0) .(0.0) And(0.0) in(0.0) 1986(0.0) ,(0.0) President(1.0) Reagan(1.0) persuaded(1.0) 
+Congress(0.0) to(0.0) end(0.0) the(0.0) inefficiency(1.0) and(0.0) expense(1.0) of(0.0) Federal(1.0) ownership(1.0) of(0.0) National(0.0) Airport(0.0) and(0.0) to(0.0) transfer(1.0) the(0.0) operating(0.0) control(1.0) to(0.0) 
+an(0.0) independent(0.0) authority(0.0) ,(0.0) paving(0.0) the(0.0) way(0.0) for(0.0) long(1.0) overdue(1.0) airport(1.0) modernization(1.0) projects(0.0) ,(0.0) including(1.0) construction(1.0) of(0.0) the(0.0) new(1.0) terminal(0.0) 
+.(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) urge(1.0) support(0.0) of(0.0) this(0.0) bill(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) reserve(1.0) the(0.0) balance(0.0) of(0.0) my(0.0) 
+time(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+2625	introduced	Georgia	Barr	last	
+change	name	Washington	Airport	Ronald	Airport	Ronald	Reagan	born	
+February	1911	1980	elected	40th	President	
+would	honor	President	Reagan	leadership	citizens	freedom-loving	
+honor	President	accomplishments	
+:	President	Reagan	established	policies	invigorated	economy	
+growth	investment	Federal	spending	inflation	tax	unemployment	
+When	confronted	Soviet	President	Reagan	national	
+ensured	successful	Cold	President	Reagan	leadership	encouraged	
+rediscovery	values	founded	President	Reagan	persuaded	
+inefficiency	expense	Federal	ownership	transfer	control	
+long	overdue	airport	modernization	including	construction	new	
+Chairman	urge	Chairman	reserve	
+time	
+
+reads % = 0.30798479087452474

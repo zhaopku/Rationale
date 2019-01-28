@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) when(0.0) the(0.0) Senate(1.0) considered(0.0) the(0.0) 
+crime(0.0) bill(1.0) ,(0.0) which(0.0) is(0.0) now(0.0) in(0.0) conference(0.0) ,(0.0) it(0.0) adopted(1.0) ,(0.0) by(0.0) a(0.0) vote(0.0) of(0.0) 85(0.0) to(0.0) 2(0.0) ,(0.0) 
+the(0.0) Exon(1.0) amendment(1.0) which(0.0) takes(0.0) a(0.0) significant(0.0) step(0.0) forward(0.0) in(0.0) excluding(0.0) some(0.0) illegal(1.0) aliens(1.0) from(0.0) certain(0.0) Government(1.0) programs(1.0) .(0.0) The(0.0) 
+Exon(1.0) amendment(1.0) specifically(0.0) excludes(1.0) illegal(1.0) aliens(1.0) from(0.0) Aid(1.0) to(0.0) Families(1.0) with(0.0) Dependent(1.0) Children(0.0) ,(0.0) Supplemental(1.0) Security(0.0) Income(1.0) ,(0.0) food(1.0) stamps(0.0) 
+,(0.0) Medicare(1.0) ,(0.0) except(0.0) for(0.0) emergency(1.0) care(0.0) ,(0.0) legal(1.0) services(0.0) ,(0.0) assistance(0.0) under(0.0) the(0.0) Job(0.0) Training(0.0) Partnership(0.0) Act(0.0) ,(0.0) unemployment(1.0) 
+compensation(1.0) and(0.0) financial(0.0) aid(0.0) for(0.0) postsecondary(1.0) education(1.0) .(0.0) The(0.0) primary(1.0) effect(0.0) of(0.0) this(0.0) amendment(1.0) is(0.0) to(0.0) effect(0.0) on(0.0) persons(0.0) residing(0.0) 
+under(0.0) color(0.0) of(0.0) law(1.0) ,(0.0) meaning(0.0) PRUCOL(0.0) ,(0.0) aliens(1.0) .(0.0) PRUCOL(0.0) aliens(1.0) are(0.0) those(0.0) immigrants(1.0) who(0.0) are(0.0) deportable(1.0) ,(0.0) but(0.0) 
+the(0.0) INS(1.0) has(0.0) failed(0.0) to(0.0) deport(1.0) .(0.0) It(0.0) also(0.0) includes(0.0) refugees(1.0) and(0.0) others(0.0) who(0.0) have(0.0) a(0.0) claim(0.0) to(0.0) remain(0.0) in(0.0) 
+the(0.0) United(0.0) States(0.0) but(0.0) have(0.0) not(0.0) had(0.0) their(0.0) legal(1.0) status(0.0) determined(0.0) .(0.0) The(0.0) Exon(1.0) amendment(1.0) makes(0.0) the(0.0) important(0.0) distinction(0.0) between(0.0) 
+the(0.0) PRUCOL(0.0) aliens(1.0) who(0.0) are(0.0) simply(0.0) awaiting(0.0) deportation(1.0) and(0.0) those(0.0) who(0.0) have(0.0) a(0.0) claim(0.0) to(0.0) permanent(0.0) resident(0.0) status(0.0) .(0.0) The(0.0) 
+amendment(1.0) cuts(1.0) off(0.0) benefits(1.0) to(0.0) those(0.0) aliens(1.0) who(0.0) are(0.0) illegally(1.0) in(0.0) the(0.0) United(0.0) States(0.0) or(0.0) aliens(1.0) who(0.0) are(0.0) PRUCOL(0.0) but(0.0) 
+are(0.0) only(0.0) in(0.0) this(0.0) country(1.0) awaiting(0.0) deportation(1.0) .(0.0) Some(0.0) programs(1.0) covered(0.0) by(0.0) the(0.0) Exon(1.0) amendment(1.0) already(0.0) contain(0.0) prohibitions(1.0) on(0.0) illegal(1.0) 
+alien(1.0) eligibility(1.0) ,(0.0) however(0.0) the(0.0) Exon(1.0) amendment(1.0) breaks(1.0) new(1.0) ground(0.0) by(0.0) cutting(1.0) off(0.0) illegals(1.0) ,(0.0) to(0.0) illegals(1.0) ,(0.0) any(0.0) eligibility(1.0) 
+for(0.0) the(0.0) Job(0.0) Training(0.0) Partnership(0.0) Act(0.0) assistance(0.0) ,(0.0) and(0.0) it(0.0) only(0.0) takes(0.0) a(0.0) little(0.0) bit(0.0) of(0.0) common(0.0) sense(0.0) that(0.0) people(0.0) 
+who(0.0) are(0.0) now(0.0) here(0.0) legally(1.0) and(0.0) are(0.0) not(0.0) entitled(0.0) to(0.0) a(0.0) job(0.0) here(0.0) because(0.0) they(0.0) are(0.0) here(0.0) illegally(1.0) ,(0.0) they(0.0) 
+should(0.0) not(0.0) be(0.0) eligible(1.0) for(0.0) job(0.0) training(0.0) .(0.0) Another(0.0) program(1.0) that(0.0) the(0.0) Exon(1.0) amendment(1.0) reserves(1.0) to(0.0) citizens(1.0) and(0.0) legal(1.0) residents(1.0) 
+is(0.0) college(1.0) financial(1.0) aid(0.0) .(0.0) We(0.0) in(0.0) this(0.0) House(0.0) have(0.0) wrangled(1.0) with(0.0) the(0.0) issue(0.0) over(0.0) scarce(1.0) Federal(1.0) dollars(1.0) for(0.0) student(0.0) 
+aid(1.0) .(0.0) This(0.0) provision(1.0) would(0.0) cut(1.0) off(0.0) illegal(1.0) alien(1.0) eligibility(1.0) for(0.0) Federal(1.0) postsecondary(1.0) student(0.0) aid(1.0) and(0.0) help(0.0) ensure(0.0) that(0.0) our(0.0) 
+own(0.0) citizens(1.0) enjoy(0.0) the(0.0) resources(0.0) that(0.0) we(0.0) have(0.0) committed(1.0) to(0.0) help(0.0) young(0.0) people(0.0) to(0.0) college(1.0) .(0.0) This(0.0) amendment(1.0) is(0.0) a(0.0) 
+blow(0.0) for(0.0) fiscal(1.0) sanity(1.0) at(0.0) a(0.0) time(0.0) of(0.0) high(0.0) deficit(1.0) spending(1.0) .(0.0) The(0.0) CBO(1.0) estimates(0.0) that(0.0) over(0.0) 5(0.0) years(0.0) the(0.0) 
+Exon(1.0) amendment(1.0) will(0.0) save(0.0) $(0.0) 2.2(0.0) billion(1.0) .(0.0) The(0.0) National(0.0) Taxpayers(1.0) Union(0.0) ,(0.0) which(0.0) it(0.0) even(0.0) further(0.0) studied(0.0) on(0.0) this(0.0) 
+proposal(1.0) ,(0.0) states(1.0) that(0.0) the(0.0) provision(1.0) will(0.0) save(0.0) over(0.0) $(0.0) 700(0.0) million(0.0) a(0.0) year(0.0) ,(0.0) each(0.0) and(0.0) every(0.0) year(0.0) .(0.0) 
+The(0.0) Exon(1.0) amendment(1.0) is(0.0) compassionate(1.0) .(0.0) It(0.0) says(0.0) we(0.0) can(0.0) not(0.0) afford(1.0) to(0.0) be(0.0) the(0.0) welfare(1.0) benefactor(1.0) to(0.0) the(0.0) whole(0.0) 
+world(0.0) .(0.0) We(0.0) have(0.0) citizens(1.0) who(0.0) have(0.0) dreams(0.0) and(0.0) needs(0.0) ,(0.0) and(0.0) we(0.0) must(0.0) preserve(1.0) our(0.0) social(1.0) services(0.0) for(0.0) those(0.0) 
+who(0.0) have(0.0) paid(0.0) into(0.0) the(0.0) system(0.0) .(0.0) Furthermore(0.0) ,(0.0) without(0.0) amendments(1.0) such(0.0) as(0.0) this(0.0) we(0.0) are(0.0) sending(0.0) an(0.0) unmistakable(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	Senate	
+bill	adopted	
+Exon	amendment	illegal	aliens	Government	programs	
+Exon	amendment	excludes	illegal	aliens	Aid	Families	Dependent	Supplemental	Income	food	
+Medicare	emergency	legal	unemployment	
+compensation	postsecondary	education	primary	amendment	
+law	aliens	aliens	immigrants	deportable	
+INS	deport	refugees	
+legal	Exon	amendment	
+aliens	deportation	
+amendment	cuts	benefits	aliens	illegally	aliens	
+country	deportation	programs	Exon	amendment	prohibitions	illegal	
+alien	eligibility	Exon	amendment	breaks	new	cutting	illegals	illegals	eligibility	
+
+legally	illegally	
+eligible	program	Exon	amendment	reserves	citizens	legal	residents	
+college	financial	wrangled	scarce	Federal	dollars	
+aid	provision	cut	illegal	alien	eligibility	Federal	postsecondary	aid	
+citizens	committed	college	amendment	
+fiscal	sanity	deficit	spending	CBO	
+Exon	amendment	billion	Taxpayers	
+proposal	states	provision	
+Exon	amendment	compassionate	afford	welfare	benefactor	
+citizens	preserve	social	
+amendments	
+
+reads % = 0.234

@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) am(0.0) sure(0.0) everybody(0.0) listening(0.0) here(0.0) this(0.0) evening(0.0) understands(0.0) what(0.0) happened(0.0) .(0.0) The(0.0) fund(1.0) is(0.0) going(0.0) broke(0.0) .(0.0) It(0.0) is(0.0) going(0.0) 
+bankrupt(1.0) .(0.0) There(0.0) is(0.0) no(0.0) dispute(0.0) of(0.0) that(0.0) issue(0.0) .(0.0) The(0.0) trustees(1.0) ,(0.0) most(0.0) of(0.0) them(0.0) are(0.0) members(0.0) of(0.0) the(0.0) 
+Cabinet(0.0) of(0.0) President(0.0) Clinton(1.0) ,(0.0) but(0.0) this(0.0) is(0.0) not(0.0) a(0.0) partisan(1.0) issue(0.0) .(0.0) We(0.0) are(0.0) doing(0.0) it(0.0) together(0.0) .(0.0) The(0.0) 
+fund(1.0) is(0.0) projected(0.0) to(0.0) be(0.0) exhausted(0.0) in(0.0) 2001(1.0) .(0.0) That(0.0) is(0.0) not(0.0) politics(1.0) ;(0.0) it(0.0) is(0.0) the(0.0) facts(0.0) ,(0.0) folks(0.0) 
+.(0.0) We(0.0) have(0.0) to(0.0) do(0.0) something(0.0) about(0.0) saving(1.0) Medicare(1.0) .(0.0) It(0.0) is(0.0) a(0.0) simple(0.0) fact(0.0) it(0.0) is(0.0) going(0.0) to(0.0) be(0.0) 
+totally(0.0) bankrupt(1.0) in(0.0) 7(0.0) years(0.0) .(0.0) We(0.0) have(0.0) a(0.0) trust(0.0) fund(1.0) .(0.0) The(0.0) only(0.0) money(1.0) going(0.0) into(0.0) this(0.0) trust(0.0) fund(1.0) 
+is(0.0) payroll(0.0) taxes(1.0) .(0.0) Under(0.0) the(0.0) Medicare(1.0) part(0.0) A(0.0) ,(0.0) there(0.0) is(0.0) 2.9(0.0) percent(0.0) payroll(1.0) taxes(1.0) that(0.0) goes(0.0) into(0.0) a(0.0) 
+trust(0.0) fund(1.0) .(0.0) The(0.0) only(0.0) money(0.0) going(0.0) out(0.0) of(0.0) that(0.0) trust(0.0) fund(1.0) is(0.0) to(0.0) pay(1.0) for(0.0) Medicare(1.0) part(0.0) A(0.0) .(0.0) 
+Next(0.0) year(0.0) ,(0.0) for(0.0) the(0.0) first(0.0) time(0.0) in(0.0) the(0.0) history(0.0) of(0.0) the(0.0) Medicare(1.0) Program(0.0) ,(0.0) actually(0.0) this(0.0) year(0.0) ,(0.0) which(0.0) 
+started(0.0) October(0.0) 1(0.0) ,(0.0) more(0.0) money(1.0) will(0.0) be(0.0) going(0.0) out(0.0) than(0.0) going(0.0) in(0.0) .(0.0) For(0.0) the(0.0) first(0.0) time(0.0) in(0.0) history(0.0) 
+we(0.0) are(0.0) going(0.0) to(0.0) spend(1.0) more(0.0) money(1.0) out(0.0) of(0.0) that(0.0) trust(0.0) fund(1.0) than(0.0) money(1.0) coming(0.0) in(0.0) in(0.0) payroll(1.0) taxes(1.0) .(0.0) 
+It(0.0) is(0.0) going(0.0) broke(0.0) .(0.0) All(0.0) the(0.0) reserves(1.0) ,(0.0) which(0.0) are(0.0) about(0.0) $(0.0) 129(0.0) billion(1.0) ,(0.0) are(0.0) going(0.0) to(0.0) be(0.0) 
+completely(0.0) gone(0.0) in(0.0) the(0.0) year(0.0) 2002(0.0) ,(0.0) and(0.0) then(0.0) we(0.0) have(0.0) a(0.0) disaster(0.0) .(0.0) And(0.0) the(0.0) real(0.0) problem(0.0) hits(0.0) in(0.0) 
+the(0.0) year(0.0) 2010(0.0) ,(0.0) because(0.0) in(0.0) 2010(0.0) ,(0.0) that(0.0) is(0.0) the(0.0) baby-boomer(1.0) year(0.0) ,(0.0) 65(0.0) years(0.0) after(0.0) the(0.0) close(0.0) of(0.0) 
+World(0.0) War(0.0) II(0.0) ,(0.0) and(0.0) when(0.0) the(0.0) baby-boomers(1.0) start(0.0) retiring(0.0) .(0.0) Everything(0.0) blows(0.0) up(0.0) .(0.0) So(0.0) if(0.0) we(0.0) just(0.0) put(0.0) 
+it(0.0) off(0.0) ,(0.0) the(0.0) decision(1.0) about(0.0) Medicare(1.0) ,(0.0) if(0.0) we(0.0) just(0.0) put(0.0) it(0.0) off(0.0) ,(0.0) what(0.0) happens(0.0) is(0.0) it(0.0) gets(0.0) 
+worse(0.0) and(0.0) worse(0.0) every(0.0) year(0.0) .(0.0) We(0.0) can(0.0) not(0.0) put(0.0) our(0.0) head(0.0) in(0.0) the(0.0) sand(0.0) to(0.0) try(0.0) to(0.0) solve(0.0) this(0.0) 
+problem(0.0) .(0.0) We(0.0) need(0.0) to(0.0) remember(0.0) that(0.0) the(0.0) spending(1.0) on(0.0) Medicare(1.0) has(0.0) been(0.0) going(0.0) up(0.0) at(0.0) over(0.0) 10(0.0) percent(0.0) a(0.0) 
+year(0.0) ,(0.0) and(0.0) the(0.0) private(0.0) sector(0.0) health(1.0) care(0.0) costs(1.0) are(0.0) going(0.0) up(0.0) much(0.0) less(0.0) .(0.0) All(0.0) we(0.0) need(0.0) to(0.0) do(0.0) 
+is(0.0) slow(0.0) the(0.0) rate(0.0) of(0.0) growth(1.0) in(0.0) spending(1.0) .(0.0) This(0.0) always(0.0) bothers(0.0) me(0.0) ,(0.0) when(0.0) they(0.0) say(0.0) we(0.0) are(0.0) cutting(0.0) 
+Medicare(1.0) .(0.0) Our(0.0) plan(1.0) does(0.0) not(0.0) cut(0.0) Medicare(1.0) .(0.0) We(0.0) increase(1.0) spending(1.0) every(0.0) year(0.0) on(0.0) Medicare(1.0) .(0.0) Over(0.0) the(0.0) next(0.0) 
+7(0.0) years(0.0) we(0.0) are(0.0) going(0.0) to(0.0) spend(1.0) $(0.0) 354(0.0) billion(1.0) more(0.0) than(0.0) we(0.0) spent(0.0) on(0.0) Medicare(1.0) for(0.0) the(0.0) past(0.0) 7(0.0) 
+years(0.0) .(0.0) We(0.0) are(0.0) increasing(1.0) spending(1.0) by(0.0) $(0.0) 354(0.0) billion(1.0) more(0.0) during(0.0) the(0.0) next(0.0) 7(0.0) years(0.0) than(0.0) we(0.0) did(0.0) for(0.0) 
+the(0.0) past(0.0) 7(0.0) years(0.0) .(0.0) It(0.0) is(0.0) going(0.0) up(0.0) every(0.0) year(0.0) .(0.0) We(0.0) keep(0.0) saying(0.0) only(0.0) in(0.0) Washington(1.0) do(0.0) you(0.0) 
+call(0.0) an(0.0) increase(1.0) in(0.0) spending(1.0) a(0.0) cut(1.0) .(0.0) I(0.0) just(0.0) do(0.0) not(0.0) understand(0.0) how(0.0) you(0.0) keep(0.0) increasing(1.0) spending(1.0) and(0.0) 
+
+
+----- below are rationale words -----
+
+fund	
+bankrupt	trustees	
+Clinton	partisan	
+fund	2001	politics	
+saving	Medicare	
+bankrupt	fund	money	fund	
+taxes	Medicare	payroll	taxes	
+fund	fund	pay	Medicare	
+Medicare	
+money	
+spend	money	fund	money	payroll	taxes	
+reserves	billion	
+
+baby-boomer	
+baby-boomers	
+decision	Medicare	
+
+spending	Medicare	
+health	costs	
+growth	spending	
+Medicare	plan	Medicare	increase	spending	Medicare	
+spend	billion	Medicare	
+increasing	spending	billion	
+Washington	
+increase	spending	cut	increasing	spending	
+
+reads % = 0.12

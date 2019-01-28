@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) reconsider(1.0) the(0.0) vote(1.0) by(0.0) which(0.0) the(0.0) resolution(1.0) was(0.0) adopted(1.0) .(0.0) Motion(0.0) to(0.0) Table(0.0) Offered(0.0) by(0.0) Ms.(0.0) 
+Pryce(1.0) of(0.0) Ohio(1.0) 
+
+
+----- below are rationale words -----
+
+reconsider	vote	resolution	adopted	
+Pryce	Ohio	
+
+reads % = 0.25

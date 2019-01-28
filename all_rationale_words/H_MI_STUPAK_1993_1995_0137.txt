@@ -1,0 +1,10 @@
+This is from a Democrat
+----- below is the original text -----
+No(0.0) ,(0.0) I(0.0) would(1.0) like(0.0) to(0.0) finish(0.0) my(0.0) --(0.0) and(0.0) if(0.0) I(0.0) have(0.0) time(0.0) left(1.0) --(0.0) --(0.0) 
+
+
+----- below are rationale words -----
+
+would	left	
+
+reads % = 0.11764705882352941

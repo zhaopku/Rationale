@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) last(0.0) year(0.0) ,(0.0) in(0.0) 1999(0.0) ,(0.0) State(0.0) and(0.0) local(0.0) governments(0.0) lost(0.0) $(0.0) 525(0.0) million(0.0) in(0.0) anticipated(0.0) sales(0.0) tax(0.0) revenues(1.0) 
+on(0.0) e-(0.0) commerce(1.0) or(0.0) so-called(1.0) Internet(0.0) sales(0.0) .(0.0) Researchers(0.0) from(0.0) the(0.0) University(0.0) of(0.0) Tennessee(1.0) estimate(0.0) that(0.0) on-line(0.0) sales(0.0) will(0.0) grow(0.0) 
+to(0.0) $(0.0) 200(0.0) billion(0.0) by(0.0) 2003(0.0) .(0.0) Unless(0.0) there(0.0) is(0.0) a(0.0) system(0.0) that(0.0) is(0.0) in(0.0) place(0.0) that(0.0) enables(0.0) the(0.0) States(0.0) 
+and(0.0) local(0.0) governments(1.0) to(0.0) require(0.0) out(0.0) of(0.0) State(0.0) merchants(0.0) to(0.0) collect(0.0) taxes(1.0) on(0.0) their(0.0) sales(0.0) to(0.0) in-State(1.0) residents(0.0) ,(0.0) they(0.0) 
+will(0.0) lose(0.0) more(0.0) than(0.0) $(0.0) 20(0.0) billion(1.0) annually(0.0) by(0.0) 2003(0.0) .(0.0) This(0.0) chart(0.0) on(0.0) my(0.0) right(0.0) lists(0.0) all(0.0) 50(0.0) States(0.0) 
+in(0.0) their(0.0) projected(1.0) sales(0.0) tax(1.0) revenue(1.0) losses(1.0) for(0.0) the(0.0) single(0.0) year(0.0) of(0.0) 2003(0.0) .(0.0) Some(0.0) examples(0.0) are(0.0) instructive(0.0) .(0.0) Florida(0.0) 
+will(0.0) lose(0.0) $(0.0) 1.4(0.0) billion(1.0) in(0.0) sales(0.0) tax(1.0) revenue(1.0) .(0.0) Texas(1.0) will(0.0) lose(0.0) more(0.0) than(0.0) $(0.0) 1.7(0.0) billion(1.0) in(0.0) revenue(1.0) 
+.(0.0) It(0.0) is(0.0) important(0.0) to(0.0) note(0.0) ,(0.0) by(0.0) the(0.0) way(0.0) ,(0.0) that(0.0) Florida(1.0) relies(0.0) upon(0.0) the(0.0) sales(0.0) tax(0.0) for(1.0) 57(0.0) 
+percent(0.0) of(0.0) its(0.0) total(0.0) revenue(1.0) ,(0.0) and(0.0) Texas(1.0) relies(0.0) upon(0.0) the(0.0) sales(0.0) tax(0.0) for(1.0) 51(0.0) percent(0.0) of(0.0) its(0.0) total(0.0) revenue(1.0) 
+.(0.0) It(0.0) is(0.0) easy(0.0) to(0.0) imagine(0.0) how(0.0) these(0.0) kinds(0.0) of(0.0) losses(1.0) affect(0.0) a(0.0) State(0.0) or(0.0) local(0.0) government(0.0) 's(0.0) ability(0.0) to(0.0) 
+provide(0.0) for(0.0) basic(0.0) services(0.0) such(0.0) as(0.0) police(0.0) and(0.0) fire(0.0) protection(0.0) or(0.0) a(0.0) viable(0.0) educational(0.0) system(0.0) .(0.0) They(0.0) will(0.0) either(0.0) be(0.0) 
+compelled(0.0) to(0.0) cut(1.0) back(0.0) these(0.0) services(0.0) or(0.0) more(0.0) likely(0.0) raise(1.0) income(1.0) taxes(1.0) and/or(0.0) property(0.0) taxes(1.0) .(0.0) No(0.0) way(0.0) will(0.0) this(0.0) 
+underlying(0.0) bill(1.0) cut(1.0) taxes(1.0) .(0.0) It(0.0) is(0.0) important(0.0) to(0.0) be(0.0) clear(0.0) about(0.0) that(0.0) .(0.0) At(0.0) best(0.0) ,(0.0) it(0.0) will(0.0) only(0.0) 
+shift(0.0) them(0.0) .(0.0) Now(0.0) ,(0.0) how(0.0) do(0.0) we(0.0) get(0.0) to(0.0) this(0.0) point(0.0) ,(0.0) where(0.0) the(0.0) States(0.0) are(0.0) forced(0.0) to(0.0) deal(0.0) 
+with(0.0) ever-increasing(1.0) shortfalls(1.0) in(0.0) anticipated(0.0) sales(0.0) tax(1.0) income(1.0) ?(0.0) Well(0.0) ,(0.0) in(0.0) 1992(1.0) ,(0.0) the(0.0) Supreme(1.0) Court(0.0) ruled(0.0) that(0.0) a(0.0) 
+State(0.0) could(0.0) not(0.0) compel(0.0) an(0.0) out-(0.0) of-State(0.0) business(0.0) to(0.0) collect(0.0) the(0.0) sales(0.0) tax(0.0) for(0.0) a(0.0) product(0.0) or(0.0) service(0.0) sent(0.0) into(0.0) 
+that(0.0) State(0.0) .(0.0) This(0.0) inability(0.0) to(0.0) collect(0.0) from(0.0) out-of-State(1.0) merchants(0.0) coupled(0.0) with(0.0) the(0.0) dramatic(0.0) but(0.0) very(0.0) recent(0.0) explosive(1.0) growth(1.0) of(0.0) 
+e-commerce(0.0) has(0.0) created(0.0) a(0.0) serious(0.0) fiscal(1.0) problem(0.0) for(0.0) State(1.0) and(0.0) local(0.0) governments(1.0) .(0.0) Furthermore(0.0) ,(0.0) this(0.0) issue(0.0) is(0.0) not(0.0) just(0.0) 
+about(0.0) declining(1.0) sales(0.0) tax(1.0) revenues(1.0) to(0.0) State(1.0) and(0.0) local(0.0) governments(1.0) ,(0.0) it(0.0) disadvantages(1.0) small(0.0) business(0.0) as(0.0) well(0.0) .(0.0) Those(0.0) merchants(0.0) 
+in(0.0) our(0.0) neighborhoods(1.0) and(0.0) communities(1.0) that(0.0) make(0.0) up(0.0) our(0.0) local(0.0) Chamber(0.0) of(0.0) Commerces(1.0) ,(0.0) how(0.0) can(0.0) they(0.0) compete(0.0) when(0.0) there(0.0) 
+is(0.0) no(0.0) sales(0.0) tax(0.0) parity(1.0) .(0.0) One(0.0) can(0.0) imagine(0.0) deserted(0.0) shopping(0.0) malls(0.0) and(0.0) empty(0.0) storefronts(1.0) downtown(1.0) .(0.0) The(0.0) digital(0.0) divide(1.0) 
+should(0.0) not(0.0) be(0.0) extended(0.0) to(0.0) American(0.0) business(0.0) or(0.0) to(0.0) those(0.0) who(0.0) patronize(0.0) them(0.0) .(0.0) We(0.0) will(0.0) have(0.0) two(0.0) classes(0.0) of(0.0) 
+American(0.0) consumers(1.0) and(0.0) two(0.0) classes(0.0) of(0.0) American(0.0) business(0.0) and(0.0) no(0.0) level(0.0) playing(0.0) field(0.0) for(0.0) either(0.0) .(0.0) The(0.0) States(0.0) understand(0.0) these(0.0) 
+issues(0.0) ,(0.0) and(0.0) by(0.0) their(0.0) own(0.0) initiative(1.0) ,(0.0) have(0.0) formed(0.0) the(0.0) so-called(1.0) streamlined(0.0) sales(0.0) tax(0.0) project(1.0) .(0.0) Let(0.0) us(0.0) leave(0.0) 
+it(0.0) to(0.0) the(0.0) States(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) later(0.0) on(0.0) ,(0.0) I(0.0) will(0.0) submit(0.0) an(0.0) amendment(1.0) that(0.0) will(0.0) reduce(1.0) 
+
+
+----- below are rationale words -----
+
+revenues	
+commerce	so-called	Tennessee	
+
+governments	taxes	in-State	
+billion	
+projected	tax	revenue	losses	
+billion	tax	revenue	Texas	billion	revenue	
+Florida	for	
+revenue	Texas	for	revenue	
+losses	
+
+cut	raise	income	taxes	taxes	
+bill	cut	taxes	
+
+ever-increasing	shortfalls	tax	income	1992	Supreme	
+
+out-of-State	explosive	growth	
+fiscal	State	governments	
+declining	tax	revenues	State	governments	disadvantages	
+neighborhoods	communities	Commerces	
+parity	storefronts	downtown	divide	
+
+consumers	
+initiative	so-called	project	
+Chairman	amendment	reduce	
+
+reads % = 0.13

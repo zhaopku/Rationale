@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) we(0.0) would(0.0) expect(0.0) the(0.0) States(0.0) to(0.0) take(0.0) such(0.0) steps(0.0) to(0.0) ensure(0.0) that(0.0) such(0.0) people(0.0) receive(0.0) expedited(1.0) determinations(1.0) of(0.0) eligibility(1.0) 
+,(0.0) and(0.0) would(0.0) be(0.0) very(0.0) disappointed(0.0) if(0.0) they(0.0) did(0.0) not(0.0) take(0.0) these(0.0) steps(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+expedited	determinations	eligibility	
+
+
+reads % = 0.08571428571428572

@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) Eleanor(0.0) Roosevelt(1.0) said(0.0) ,(0.0) ``(0.0) When(0.0) will(0.0) our(0.0) consciences(1.0) 
+grow(0.0) so(0.0) tender(0.0) that(0.0) we(0.0) will(0.0) act(0.0) to(0.0) prevent(0.0) human(1.0) misery(1.0) rather(0.0) than(0.0) avenge(1.0) it(0.0) ?(0.0) ''(0.0) I(0.0) recall(0.0) the(0.0) 
+words(0.0) of(0.0) Chief(0.0) Justice(0.0) Earl(0.0) Warren(1.0) who(0.0) said(0.0) ,(0.0) ``(0.0) It(0.0) is(0.0) the(0.0) spirit(0.0) and(0.0) not(0.0) the(0.0) form(0.0) of(0.0) law(1.0) 
+that(0.0) keeps(0.0) justice(1.0) alive(0.0) .(0.0) ''(0.0) I(0.0) want(0.0) to(0.0) commend(0.0) the(0.0) sponsors(0.0) of(0.0) this(0.0) legislation(1.0) for(0.0) their(0.0) foresight(1.0) and(0.0) insight(0.0) 
+.(0.0) The(0.0) court(0.0) action(0.0) of(0.0) Briggs(0.0) v.(0.0) Elliott(1.0) in(0.0) South(0.0) Carolina(0.0) to(0.0) end(0.0) public(0.0) school(0.0) segregation(1.0) was(0.0) a(0.0) major(0.0) component(0.0) 
+in(0.0) the(0.0) successful(0.0) Brown(0.0) v.(1.0) Board(0.0) of(0.0) Education(0.0) Supreme(0.0) Court(0.0) ruling(0.0) which(0.0) effectively(0.0) struck(0.0) down(0.0) the(0.0) so-called(0.0) separate(0.0) but(0.0) equal(0.0) 
+.(0.0) It(0.0) is(0.0) this(0.0) ``(0.0) spirit(0.0) of(0.0) the(0.0) law(1.0) ''(0.0) that(0.0) preceded(0.0) Brown(0.0) v.(1.0) Board(0.0) of(0.0) Education(0.0) in(0.0) the(0.0) form(0.0) 
+of(0.0) Briggs(0.0) v.(0.0) Elliott(1.0) .(0.0) Before(0.0) Briggs(0.0) v.(0.0) Elliott(1.0) was(0.0) Plessy(1.0) v.(0.0) Ferguson(1.0) .(0.0) Before(0.0) Plessy(1.0) were(0.0) the(0.0) 13th(0.0) and(0.0) 
+the(0.0) 14th(0.0) amendments(0.0) .(0.0) And(0.0) so(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) would(0.0) encourage(0.0) each(0.0) Member(0.0) of(0.0) this(0.0) body(0.0) to(0.0) give(0.0) 
+proper(0.0) honor(0.0) to(0.0) whom(0.0) honor(0.0) is(0.0) due(0.0) by(0.0) supporting(0.0) unanimously(1.0) this(0.0) legislation(1.0) that(0.0) will(0.0) authorize(0.0) the(0.0) Congressional(0.0) Gold(1.0) Medal(0.0) to(0.0) 
+these(0.0) deserving(0.0) citizens(1.0) of(0.0) the(0.0) United(0.0) States(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+Roosevelt	consciences	
+human	misery	avenge	
+Warren	law	
+justice	legislation	foresight	
+Elliott	segregation	
+v.	
+law	v.	
+Elliott	Elliott	Plessy	Ferguson	Plessy	
+Speaker	
+unanimously	legislation	Gold	
+citizens	Speaker	
+
+
+reads % = 0.11764705882352941

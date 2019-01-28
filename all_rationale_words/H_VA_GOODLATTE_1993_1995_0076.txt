@@ -1,0 +1,20 @@
+This is from a Republican
+----- below is the original text -----
+It(0.0) is(0.0) the(0.0) overload(0.0) in(0.0) the(0.0) courts(1.0) and(0.0) the(0.0) fact(0.0) that(0.0) a(0.0) lot(0.0) of(0.0) those(0.0) cases(0.0) that(0.0) were(0.0) settled(0.0) were(0.0) settled(0.0) 
+for(0.0) nominal(0.0) sums(0.0) of(0.0) money(1.0) where(0.0) one(0.0) party(0.0) or(0.0) the(0.0) other(0.0) feels(0.0) the(0.0) other(0.0) party(0.0) was(0.0) not(0.0) acting(0.0) reasonably(0.0) .(0.0) 
+This(0.0) gives(0.0) a(0.0) defendant(0.0) in(0.0) a(0.0) case(0.0) the(0.0) opportunity(0.0) to(0.0) say(0.0) I(0.0) am(0.0) not(0.0) liable(0.0) ,(0.0) I(0.0) am(0.0) not(0.0) going(0.0) 
+to(0.0) offer(0.0) settlement(1.0) ,(0.0) and(0.0) if(0.0) I(0.0) go(0.0) to(0.0) court(0.0) ,(0.0) I(0.0) am(0.0) entitled(0.0) to(0.0) bring(0.0) something(0.0) from(0.0) somebody(0.0) who(0.0) 
+brought(0.0) a(0.0) suit(0.0) against(0.0) me(0.0) ,(0.0) made(0.0) me(0.0) go(0.0) to(0.0) great(0.0) expense(1.0) ,(0.0) and(0.0) they(0.0) are(0.0) not(0.0) having(0.0) to(0.0) pay(1.0) 
+anything(0.0) because(0.0) they(0.0) may(0.0) or(0.0) may(0.0) not(0.0) have(0.0) the(0.0) case(0.0) on(0.0) a(0.0) contingent(0.0) fee(0.0) basis(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+courts	
+money	
+
+settlement	
+expense	pay	
+
+
+reads % = 0.042735042735042736

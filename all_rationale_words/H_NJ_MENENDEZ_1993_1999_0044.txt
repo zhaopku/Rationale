@@ -1,0 +1,20 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) under(0.0) my(0.0) reservation(0.0) ,(0.0) unfortunately(0.0) ,(0.0) I(0.0) happen(0.0) to(0.0) be(0.0) the(0.0) ranking(0.0) member(0.0) on(0.0) the(0.0) authorizing(0.0) committee(0.0) on(0.0) this(0.0) 
+issue(0.0) .(0.0) None(0.0) of(0.0) the(0.0) people(0.0) who(0.0) support(0.0) OPIC(1.0) have(0.0) had(0.0) an(0.0) opportunity(0.0) to(0.0) speak(0.0) .(0.0) So(0.0) depending(0.0) upon(0.0) how(0.0) 
+those(0.0) 10(0.0) minutes(0.0) are(0.0) divided(0.0) ,(0.0) otherwise(0.0) ,(0.0) I(0.0) would(0.0) have(0.0) to(0.0) object(0.0) .(0.0) If(0.0) the(0.0) 10(0.0) minutes(0.0) are(0.0) to(0.0) 
+be(0.0) divided(0.0) on(0.0) behalf(0.0) of(0.0) those(0.0) who(0.0) have(0.0) not(0.0) had(0.0) any(0.0) opportunity(0.0) to(0.0) speak(0.0) in(0.0) favor(1.0) of(0.0) OPIC(1.0) and(0.0) against(0.0) 
+the(0.0) amendment(1.0) ,(0.0) we(0.0) may(0.0) be(0.0) able(0.0) to(0.0) do(0.0) that(0.0) ,(0.0) but(0.0) if(0.0) the(0.0) 10(0.0) minutes(0.0) are(0.0) to(0.0) be(0.0) divided(0.0) 
+between(0.0) all(0.0) the(0.0) parties(0.0) ,(0.0) I(0.0) would(0.0) have(0.0) to(0.0) object(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+OPIC	
+
+favor	OPIC	
+amendment	
+
+
+reads % = 0.03571428571428571

@@ -1,0 +1,38 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) want(1.0) to(0.0) follow(0.0) up(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) North(0.0) Dakota(0.0) who(0.0) just(1.0) spoke(0.0) .(0.0) This(0.0) is(0.0) the(0.0) type(0.0) 
+of(0.0) resolution(0.0) that(0.0) gives(1.0) Congress(0.0) a(0.0) bad(0.0) name(1.0) .(0.0) I(0.0) know(1.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) ((0.0) Mr.(0.0) Herger(1.0) )(0.0) has(0.0) 
+only(0.0) the(0.0) best(0.0) intentions(1.0) ,(0.0) but(0.0) the(0.0) fact(0.0) is(0.0) the(0.0) CBO(1.0) ,(0.0) our(0.0) budget(0.0) office(0.0) ,(0.0) has(0.0) already(0.0) said(1.0) that(0.0) 
+we(0.0) have(0.0) spent(0.0) the(0.0) Social(0.0) Security(1.0) surplus(1.0) .(0.0) The(0.0) problem(0.0) is(0.0) ,(0.0) Republican(1.0) after(1.0) Republican(1.0) has(1.0) come(0.0) down(1.0) here(0.0) and(0.0) 
+said(0.0) the(0.0) President(1.0) does(0.0) not(1.0) want(1.0) to(0.0) do(0.0) this(0.0) ,(0.0) the(0.0) minority(0.0) does(0.0) not(0.0) want(1.0) to(0.0) do(0.0) this(0.0) .(0.0) They(0.0) 
+are(0.0) in(0.0) the(0.0) majority(1.0) .(0.0) They(0.0) control(1.0) the(0.0) Committee(0.0) on(0.0) Appropriations(0.0) .(0.0) They(0.0) control(1.0) the(0.0) floor(0.0) schedule(1.0) .(0.0) Bring(1.0) the(0.0) 
+Labor-HHS(0.0) bill(0.0) down(1.0) to(0.0) the(0.0) floor(0.0) .(0.0) It(1.0) is(0.0) not(1.0) our(0.0) fault(0.0) we(0.0) have(0.0) not(1.0) gotten(0.0) the(0.0) budget(0.0) done(0.0) and(0.0) 
+the(0.0) fiscal(0.0) year(0.0) is(0.0) almost(0.0) over(0.0) .(0.0) If(1.0) my(0.0) colleagues(1.0) want(1.0) to(0.0) pass(1.0) that(0.0) bill(0.0) and(0.0) show(0.0) the(0.0) American(0.0) people(0.0) 
+how(1.0) much(0.0) they(0.0) want(1.0) to(0.0) cut(1.0) out(1.0) of(0.0) education(1.0) ,(0.0) do(0.0) it(0.0) .(0.0) But(0.0) they(0.0) can(0.0) not(0.0) do(0.0) it(0.0) .(0.0) 
+Somebody(1.0) said(1.0) both(0.0) sides(0.0) can(0.0) not(0.0) come(0.0) to(0.0) the(0.0) table(0.0) .(0.0) Apparently(1.0) that(0.0) is(0.0) all(0.0) in(0.0) the(0.0) Republican(1.0) Caucus(1.0) because(1.0) 
+they(0.0) can(0.0) not(0.0) bring(0.0) their(0.0) own(0.0) bills(0.0) down(1.0) here(0.0) .(0.0) They(0.0) can(0.0) not(0.0) keep(1.0) their(0.0) own(0.0) bills(0.0) within(1.0) the(0.0) budget(0.0) 
+caps(0.0) set(0.0) in(0.0) the(0.0) 1997(1.0) budget(0.0) agreement(1.0) .(0.0) So(1.0) they(0.0) can(0.0) not(0.0) do(0.0) it(0.0) on(0.0) their(0.0) side(0.0) ,(0.0) and(0.0) they(0.0) 
+blame(1.0) it(0.0) on(0.0) us(0.0) .(0.0) They(0.0) are(0.0) in(0.0) control(1.0) .(0.0) Perhaps(0.0) what(0.0) the(0.0) American(0.0) people(0.0) need(0.0) to(0.0) learn(0.0) about(0.0) this(0.0) 
+is(0.0) it(0.0) is(0.0) time(0.0) to(0.0) get(0.0) rid(0.0) of(0.0) that(0.0) control(1.0) and(0.0) get(0.0) some(0.0) people(0.0) who(0.0) are(0.0) going(0.0) to(0.0) be(0.0) honest(1.0) 
+about(0.0) the(0.0) process(1.0) and(0.0) save(0.0) Social(0.0) Security(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+want	just	
+gives	name	know	Herger	
+intentions	CBO	said	
+Security	surplus	Republican	after	Republican	has	down	
+President	not	want	want	
+majority	control	control	schedule	Bring	
+down	It	not	not	
+If	colleagues	want	pass	
+how	want	cut	out	education	
+Somebody	said	Apparently	Republican	Caucus	because	
+down	keep	within	
+1997	agreement	So	
+blame	control	
+control	honest	
+process	Security	
+
+reads % = 0.19377162629757785

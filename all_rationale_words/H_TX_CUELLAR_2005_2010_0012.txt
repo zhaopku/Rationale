@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+The(0.0) CHAIR(0.0) .(0.0) The(0.0) Clerk(0.0) will(0.0) designate(0.0) the(0.0) amendment(0.0) .(0.0) The(0.0) text(0.0) of(0.0) the(0.0) amendment(0.0) is(0.0) as(0.0) follows(0.0) :(0.0) At(0.0) the(0.0) 
+end(0.0) of(0.0) the(0.0) bill(0.0) ((1.0) before(0.0) the(0.0) short(0.0) title(0.0) )(0.0) ,(0.0) add(0.0) the(0.0) following(0.0) new(0.0) section(0.0) :(0.0) Sec(0.0) .(0.0) 5__(0.0) 
+.(0.0) None(0.0) of(0.0) the(0.0) funds(0.0) appropriated(0.0) or(0.0) otherwise(0.0) made(0.0) available(0.0) in(0.0) this(0.0) Act(0.0) may(0.0) be(0.0) used(0.0) by(0.0) an(0.0) agency(0.0) of(0.0) 
+the(0.0) executive(0.0) branch(0.0) to(0.0) pay(0.0) for(0.0) first-class(0.0) travel(0.0) by(0.0) an(0.0) employee(0.0) of(0.0) the(0.0) agency(0.0) in(0.0) contravention(0.0) of(0.0) sections(0.0) 301-10.122(0.0) through(0.0) 
+301-10.124(0.0) of(0.0) title(0.0) 41(0.0) ,(0.0) Code(0.0) of(0.0) Federal(0.0) Regulations(0.0) .(0.0) The(0.0) CHAIR(0.0) .(0.0) Pursuant(0.0) to(0.0) House(0.0) Resolution(0.0) 1559(0.0) ,(0.0) the(0.0) 
+gentleman(0.0) from(0.0) Texas(0.0) ((0.0) Mr.(0.0) Cuellar(1.0) )(0.0) and(0.0) a(0.0) Member(0.0) opposed(0.0) each(0.0) will(0.0) control(0.0) 5(0.0) minutes(0.0) .(0.0) The(0.0) Chair(0.0) recognizes(0.0) 
+the(0.0) gentleman(0.0) from(0.0) Texas(0.0) .(0.0) Madam(0.0) Chair(1.0) ,(0.0) my(0.0) amendment(1.0) is(0.0) a(0.0) commonsense(0.0) amendment(1.0) that(0.0) ensures(0.0) no(0.0) taxpayers(0.0) dollars(1.0) will(0.0) 
+be(0.0) used(0.0) to(0.0) purchase(0.0) first-class(0.0) tickets(0.0) for(0.0) employees(0.0) of(0.0) agencies(1.0) funded(1.0) by(0.0) this(0.0) bill(1.0) except(1.0) in(0.0) special(0.0) circumstances(0.0) as(0.0) allowed(0.0) 
+under(0.0) law(1.0) .(0.0) This(0.0) is(0.0) ,(0.0) again(0.0) ,(0.0) important(0.0) because(0.0) it(0.0) does(0.0) prohibit(1.0) unapproved(1.0) first-(0.0) class(0.0) travel(0.0) and(0.0) offers(0.0) a(0.0) 
+direct(0.0) method(0.0) of(0.0) guidance(0.0) by(0.0) referencing(0.0) the(0.0) Code(0.0) of(0.0) Federal(0.0) Regulations(1.0) to(0.0) prohibit(1.0) this(0.0) type(0.0) of(0.0) premium(0.0) travel(0.0) for(0.0) Federal(1.0) 
+employees(1.0) .(0.0) I(0.0) think(0.0) the(0.0) chairman(0.0) is(0.0) in(0.0) agreement(0.0) with(0.0) me(0.0) that(0.0) this(0.0) is(0.0) a(0.0) way(0.0) to(0.0) save(0.0) taxpayer(1.0) dollars(1.0) 
+,(0.0) and(0.0) he(0.0) 's(0.0) in(0.0) agreement(0.0) with(0.0) this(0.0) amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+(	
+
+
+
+Cuellar	
+Chair	amendment	amendment	dollars	
+agencies	funded	bill	except	
+law	prohibit	unapproved	
+Regulations	prohibit	Federal	
+employees	taxpayer	dollars	
+amendment	
+
+reads % = 0.08658008658008658

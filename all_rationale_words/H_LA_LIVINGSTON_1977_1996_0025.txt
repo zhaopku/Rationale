@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) how(0.0) much(0.0) time(0.0) remains(0.0) on(0.0) both(0.0) sides(0.0) ?(0.0) The(0.0) SPEAKER(0.0) pro(0.0) tempore(0.0) ((1.0) Mr.(0.0) Bunning(1.0) of(0.0) Kentucky(0.0) )(0.0) .(0.0) 
+The(0.0) gentleman(0.0) from(0.0) Louisiana(0.0) [(0.0) Mr.(0.0) Livingston(1.0) ](0.0) has(1.0) 6(0.0) minutes(0.0) remaining(0.0) ,(0.0) and(0.0) the(0.0) gentleman(0.0) from(0.0) Wisconsin(1.0) [(0.0) Mr.(0.0) 
+Obey(1.0) ](0.0) has(1.0) 10(0.0) minutes(0.0) remaining(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+(	Bunning	
+Livingston	has	Wisconsin	
+Obey	has	
+
+reads % = 0.14583333333333334

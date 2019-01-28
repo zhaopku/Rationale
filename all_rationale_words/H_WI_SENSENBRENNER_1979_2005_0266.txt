@@ -1,0 +1,18 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) the(0.0) points(0.0) of(0.0) order(0.0) that(0.0) the(0.0) gentleman(0.0) from(0.0) Wisconsin(1.0) has(0.0) been(0.0) raising(0.0) have(0.0) been(0.0) pursuant(0.0) to(0.0) House(0.0) rules(0.0) ,(0.0) 
+and(0.0) we(0.0) should(0.0) not(0.0) be(0.0) waiving(0.0) the(0.0) rules(1.0) relative(0.0) to(0.0) the(0.0) germaneness(1.0) of(0.0) motions(1.0) to(0.0) recommit(1.0) .(0.0) Should(0.0) the(0.0) gentleman(0.0) 
+from(0.0) Mississippi(0.0) offer(0.0) more(0.0) nongermane(0.0) motions(1.0) to(0.0) recommit(1.0) ,(0.0) then(0.0) I(0.0) think(0.0) it(0.0) is(0.0) incumbent(0.0) upon(0.0) me(0.0) ,(0.0) as(0.0) the(0.0) 
+manager(0.0) of(0.0) the(0.0) bill(1.0) ,(0.0) to(0.0) raise(1.0) a(0.0) point(0.0) of(0.0) order(0.0) ,(0.0) should(0.0) the(0.0) rules(1.0) of(0.0) the(0.0) House(0.0) be(0.0) violated(1.0) 
+by(0.0) the(0.0) motion(1.0) to(0.0) recommit(1.0) ,(0.0) as(0.0) they(0.0) have(0.0) been(0.0) in(0.0) the(0.0) past(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Wisconsin	
+rules	germaneness	motions	recommit	
+motions	recommit	
+bill	raise	rules	violated	
+motion	recommit	
+
+reads % = 0.1368421052631579

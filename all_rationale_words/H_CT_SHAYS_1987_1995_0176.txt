@@ -1,0 +1,20 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) would(0.0) just(0.0) say(0.0) that(0.0) he(0.0) is(0.0) part(0.0) of(0.0) an(0.0) incredible(0.0) family(0.0) ,(0.0) the(0.0) Bailey(1.0) family(0.0) .(0.0) John(0.0) Bailey(1.0) ,(0.0) his(0.0) 
+father-in-law(0.0) ,(0.0) the(0.0) chairman(0.0) of(0.0) the(0.0) Democratic(1.0) Party(1.0) in(0.0) Connecticut(1.0) ,(0.0) in(0.0) fact(0.0) brought(0.0) that(0.0) Democratic(1.0) Party(0.0) from(0.0) minority(1.0) status(1.0) 
+to(0.0) extraordinary(0.0) majority(0.0) status(0.0) ,(0.0) helped(0.0) elect(1.0) the(0.0) first(0.0) Jewish(1.0) Governor(0.0) ,(0.0) the(0.0) first(0.0) woman(0.0) Governor(0.0) .(0.0) He(0.0) was(0.0) all(0.0) 
+part(0.0) of(0.0) this(0.0) incredible(0.0) family(0.0) .(0.0) There(0.0) is(0.0) a(0.0) real(0.0) loss(0.0) in(0.0) Connecticut(1.0) with(0.0) the(0.0) passing(0.0) of(0.0) Jim(0.0) Kennelly(1.0) .(0.0) 
+I(0.0) thank(0.0) both(0.0) my(0.0) colleagues(0.0) for(0.0) allowing(0.0) me(0.0) the(0.0) opportunity(0.0) to(0.0) really(0.0) say(0.0) something(0.0) that(0.0) I(0.0) feel(0.0) very(0.0) deeply(0.0) about(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+Bailey	Bailey	
+Democratic	Party	Connecticut	Democratic	minority	status	
+elect	Jewish	
+Connecticut	Kennelly	
+
+
+
+reads % = 0.11764705882352941

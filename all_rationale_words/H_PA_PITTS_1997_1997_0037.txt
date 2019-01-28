@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) in(0.0) response(0.0) to(0.0) the(0.0) gentlewoman(0.0) who(0.0) said(0.0) there(0.0) was(0.0) no(0.0) evidence(0.0) or(0.0) substantiation(0.0) ,(0.0) let(0.0) me(0.0) quote(0.0) from(0.0) the(0.0) 
+testimony(1.0) that(0.0) she(0.0) should(0.0) have(0.0) heard(0.0) when(0.0) the(0.0) hearing(0.0) was(0.0) held(0.0) before(0.0) the(0.0) committee(0.0) .(0.0) A(0.0) quote(0.0) from(0.0) Lisa(0.0) Graham(1.0) 
+Keegan(1.0) ,(0.0) the(0.0) Arizona(0.0) State(0.0) Superintendent(0.0) ,(0.0) who(0.0) said(0.0) Federal(1.0) funds(0.0) account(0.0) for(0.0) 10(0.0) percent(0.0) of(0.0) the(0.0) education(0.0) funding(0.0) ,(0.0) 
+but(0.0) 50(0.0) percent(0.0) of(0.0) their(0.0) paperwork(0.0) burden(0.0) .(0.0) Dr.(0.0) Charles(1.0) Garris(1.0) ,(0.0) superintendent(0.0) of(0.0) Unionville-Chadds(0.0) Ford(0.0) School(0.0) District(0.0) ,(0.0) my(0.0) 
+own(0.0) district(0.0) ,(0.0) came(0.0) and(0.0) presented(0.0) testimony(0.0) ,(0.0) talking(0.0) about(0.0) Federal(0.0) funds(0.0) only(0.0) .(0.0) He(0.0) said(0.0) that(0.0) even(0.0) at(0.0) the(0.0) 
+local(0.0) level(0.0) ,(0.0) after(0.0) the(0.0) administrative(0.0) overhead(0.0) from(0.0) the(0.0) Federal(0.0) ,(0.0) at(0.0) the(0.0) local(0.0) level(0.0) ,(0.0) 25(0.0) percent(0.0) of(0.0) the(0.0) 
+funds(0.0) never(0.0) reach(0.0) the(0.0) students(0.0) that(0.0) they(0.0) were(0.0) intended(0.0) to(0.0) serve(0.0) ,(0.0) and(0.0) he(0.0) detailed(0.0) the(0.0) expenditure(0.0) of(0.0) those(0.0) funds(0.0) 
+.(0.0) Then(0.0) he(0.0) had(0.0) a(0.0) stack(0.0) of(0.0) papers(0.0) ,(0.0) an(0.0) application(0.0) for(0.0) a(0.0) Federal(0.0) grant(1.0) .(0.0) He(0.0) put(0.0) it(0.0) down(0.0) 
+and(0.0) he(0.0) said(0.0) ,(0.0) ``(0.0) This(0.0) takes(0.0) 5(0.0) months(0.0) to(0.0) apply(0.0) ,(0.0) and(0.0) still(0.0) ,(0.0) after(0.0) 5(0.0) months(0.0) of(0.0) applying(0.0) 
+,(0.0) going(0.0) through(0.0) 216(0.0) steps(0.0) ,(0.0) we(0.0) do(0.0) n't(0.0) know(0.0) whether(0.0) we(0.0) will(0.0) get(0.0) any(0.0) .(0.0) I(0.0) will(0.0) not(0.0) even(0.0) 
+apply(0.0) .(0.0) ''(0.0) 
+
+
+----- below are rationale words -----
+
+
+testimony	Graham	
+Keegan	Federal	
+Charles	Garris	
+
+
+
+grant	
+
+
+
+
+reads % = 0.03431372549019608

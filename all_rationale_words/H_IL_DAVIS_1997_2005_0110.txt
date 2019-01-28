@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) recognizing(0.0) the(0.0) fact(0.0) that(0.0) serious(0.0) disparities(1.0) continue(0.0) to(0.0) exist(0.0) for(0.0) African(1.0) Americans(1.0) in(0.0) practically(1.0) all(0.0) aspects(0.0) of(0.0) life(0.0) ,(0.0) 
+the(0.0) Congressional(1.0) Black(1.0) Caucus(1.0) has(0.0) focused(0.0) much(0.0) of(0.0) its(0.0) attention(0.0) this(0.0) session(0.0) on(0.0) closing(0.0) these(0.0) gaps(1.0) and(0.0) reducing(1.0) those(0.0) disparities(1.0) 
+.(0.0) Unfortunately(0.0) ,(0.0) this(0.0) budget(1.0) ,(0.0) this(0.0) appropriation(1.0) in(0.0) many(0.0) ways(0.0) dashed(0.0) the(0.0) hopes(1.0) of(0.0) those(0.0) who(0.0) had(0.0) thought(0.0) and(0.0) 
+hoped(0.0) that(0.0) maybe(0.0) it(0.0) would(0.0) provide(0.0) some(0.0) help(0.0) .(0.0) Instead(0.0) ,(0.0) it(0.0) cuts(1.0) at(0.0) the(0.0) heart(0.0) of(0.0) many(0.0) of(0.0) these(0.0) 
+programs(1.0) and(0.0) areas(0.0) of(0.0) concentration(1.0) ,(0.0) which(0.0) are(0.0) absolutely(0.0) essential(0.0) if(0.0) we(0.0) are(0.0) to(0.0) reduce(1.0) these(0.0) gaps(1.0) .(0.0) This(0.0) budget(1.0) 
+cuts(1.0) job(1.0) training(0.0) ,(0.0) job(0.0) development(0.0) programs(1.0) ,(0.0) health(1.0) services(1.0) ,(0.0) education(1.0) .(0.0) We(0.0) reduce(1.0) educational(1.0) opportunities(0.0) and(0.0) cut(1.0) funds(1.0) 
+for(0.0) prisoner(1.0) reentry(1.0) and(0.0) successful(0.0) reintegration(1.0) of(0.0) these(0.0) individuals(0.0) back(0.0) into(0.0) normal(0.0) life(0.0) as(0.0) self-sufficient(1.0) and(0.0) contributing(0.0) members(0.0) of(0.0) society(1.0) 
+.(0.0) I(0.0) would(0.0) hope(0.0) ,(0.0) I(0.0) would(0.0) urge(0.0) ,(0.0) I(0.0) would(0.0) implore(0.0) ,(0.0) I(0.0) would(0.0) importune(0.0) conferees(1.0) that(0.0) as(0.0) you(0.0) 
+go(0.0) to(0.0) conference(0.0) ,(0.0) please(0.0) look(0.0) seriously(1.0) at(0.0) putting(0.0) money(1.0) back(0.0) into(0.0) reentry(1.0) programs(1.0) so(0.0) that(0.0) these(0.0) individuals(0.0) ,(0.0) both(0.0) 
+juveniles(1.0) and(0.0) adults(0.0) ,(0.0) can(0.0) lead(0.0) happy(0.0) ,(0.0) productive(0.0) ,(0.0) contributing(0.0) lives(0.0) ;(0.0) and(0.0) let(0.0) the(0.0) 630,000(1.0) individuals(0.0) who(0.0) come(0.0) 
+home(0.0) from(0.0) prison(1.0) each(0.0) year(0.0) have(0.0) some(0.0) help(0.0) to(0.0) become(0.0) productive(0.0) citizens(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+disparities	African	Americans	practically	
+Congressional	Black	Caucus	gaps	reducing	disparities	
+budget	appropriation	hopes	
+cuts	
+programs	concentration	reduce	gaps	budget	
+cuts	job	programs	health	services	education	reduce	educational	cut	funds	
+prisoner	reentry	reintegration	self-sufficient	society	
+conferees	
+seriously	money	reentry	programs	
+juveniles	630,000	
+prison	citizens	
+
+reads % = 0.20093457943925233

@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) would(0.0) like(0.0) to(0.0) address(0.0) certainly(0.0) different(0.0) issues(0.0) that(0.0) I(0.0) think(0.0) are(0.0) possibly(0.0) more(0.0) serious(0.0) than(0.0) a(0.0) lot(0.0) 
+of(0.0) challenges(0.0) this(0.0) Congress(1.0) has(0.0) faced(0.0) ,(0.0) this(0.0) Nation(1.0) has(0.0) faced(0.0) in(0.0) fact(0.0) .(0.0) This(0.0) is(0.0) the(0.0) 195th(1.0) birthday(0.0) of(0.0) 
+Abraham(0.0) Lincoln(1.0) ,(0.0) and(0.0) in(0.0) my(0.0) district(0.0) Republicans(0.0) are(1.0) celebrating(1.0) Abraham(1.0) Lincoln(1.0) 's(0.0) birthday(0.0) with(0.0) their(0.0) annual(0.0) dinners(0.0) .(0.0) And(0.0) 
+I(0.0) think(0.0) of(0.0) what(0.0) Abraham(0.0) Lincoln(1.0) said(0.0) in(0.0) his(0.0) Gettysburg(0.0) Address(0.0) when(0.0) he(0.0) indicated(0.0) that(0.0) ,(0.0) Can(0.0) a(0.0) country(0.0) of(0.0) 
+the(0.0) people(0.0) ,(0.0) by(0.0) the(0.0) people(0.0) and(0.0) for(0.0) the(0.0) people(0.0) long(0.0) endure(0.0) ?(0.0) And(0.0) now(0.0) I(0.0) am(0.0) concerned(0.0) about(0.0) the(0.0) 
+system(0.0) that(0.0) we(0.0) have(0.0) in(0.0) the(0.0) United(0.0) States(0.0) where(0.0) we(0.0) have(0.0) so(0.0) many(0.0) lobbying(1.0) groups(0.0) pushing(0.0) for(0.0) more(0.0) money(1.0) and(0.0) 
+a(0.0) political(1.0) system(0.0) where(0.0) Members(0.0) of(0.0) the(0.0) House(0.0) and(0.0) the(0.0) Senate(0.0) often(0.0) are(0.0) better(0.0) off(0.0) and(0.0) increase(0.0) their(0.0) probabilities(0.0) of(0.0) 
+getting(0.0) reelected(1.0) if(0.0) they(0.0) start(0.0) promising(0.0) more(0.0) programs(1.0) ,(0.0) if(0.0) they(0.0) take(0.0) home(0.0) pork(1.0) barrel(1.0) projects(0.0) that(0.0) might(0.0) allow(0.0) them(0.0) 
+to(0.0) be(0.0) on(0.0) the(0.0) front(0.0) page(0.0) of(0.0) the(0.0) newspaper(0.0) or(0.0) on(0.0) television(0.0) and(0.0) it(0.0) ends(0.0) up(0.0) that(0.0) they(0.0) have(0.0) more(0.0) 
+publicity(1.0) if(0.0) they(0.0) spend(0.0) more(0.0) money(1.0) down(0.0) here(0.0) .(0.0) And(0.0) that(0.0) has(0.0) led(0.0) us(0.0) into(0.0) a(0.0) dilemma(0.0) of(0.0) overspending(1.0) and(0.0) 
+overpromising(1.0) .(0.0) And(0.0) I(0.0) have(0.0) put(0.0) this(0.0) pie(1.0) chart(0.0) up(0.0) simply(0.0) to(0.0) review(0.0) how(0.0) the(0.0) Federal(1.0) Government(1.0) now(0.0) spends(0.0) approximately(0.0) 
+$(0.0) 2.4(0.0) trillion(1.0) in(0.0) the(0.0) year(0.0) that(0.0) we(0.0) are(0.0) budgeting(1.0) for(0.0) right(0.0) now(0.0) .(0.0) We(0.0) see(0.0) the(0.0) largest(1.0) portion(0.0) of(0.0) 
+our(0.0) total(0.0) spending(1.0) pie(0.0) that(0.0) represents(0.0) 21(0.0) percent(0.0) of(0.0) the(0.0) total(0.0) spending(1.0) of(0.0) the(0.0) Federal(1.0) Government(1.0) is(0.0) Social(0.0) Security(0.0) .(0.0) 
+But(0.0) Medicare(1.0) ,(0.0) which(0.0) is(0.0) now(0.0) 12(0.0) percent(0.0) ,(0.0) is(0.0) going(0.0) to(0.0) overtake(0.0) Social(0.0) Security(0.0) in(0.0) terms(0.0) of(0.0) the(0.0) percentage(0.0) 
+of(0.0) total(0.0) spending(1.0) ,(0.0) total(0.0) Federal(1.0) Government(1.0) spending(1.0) that(0.0) it(0.0) consumes(0.0) ,(0.0) and(0.0) that(0.0) is(0.0) going(0.0) to(0.0) happen(0.0) within(0.0) the(0.0) 
+next(0.0) 25(0.0) years(0.0) .(0.0) Part(0.0) of(0.0) it(0.0) is(0.0) because(0.0) we(0.0) have(0.0) dramatically(0.0) expanded(1.0) the(0.0) Medicare(1.0) program(1.0) to(0.0) now(0.0) cover(0.0) more(0.0) 
+benefits(1.0) ,(0.0) including(0.0) prescription(1.0) drugs(1.0) .(0.0) And(0.0) there(0.0) is(0.0) a(0.0) problem(0.0) with(0.0) prescription(1.0) drugs(1.0) because(0.0) if(0.0) you(0.0) are(0.0) on(0.0) Medicare(1.0) 
+and(0.0) you(0.0) do(0.0) not(0.0) have(0.0) the(0.0) proper(0.0) drugs(1.0) and(0.0) you(0.0) go(0.0) into(0.0) the(0.0) hospital(0.0) ,(0.0) then(0.0) Medicare(1.0) pays(1.0) for(0.0) all(0.0) 
+those(0.0) prescription(1.0) drugs(1.0) while(0.0) you(0.0) are(0.0) in(0.0) the(0.0) hospital(0.0) .(0.0) So(0.0) to(0.0) the(0.0) extent(0.0) that(0.0) some(0.0) of(0.0) the(0.0) new(0.0) prescription(1.0) 
+drugs(1.0) can(0.0) keep(0.0) you(0.0) out(0.0) of(0.0) the(0.0) hospital(0.0) ,(0.0) it(0.0) is(0.0) reasonable(0.0) to(0.0) have(0.0) some(0.0) help(0.0) from(0.0) Medicare(1.0) to(0.0) furnish(0.0) 
+those(0.0) drugs(1.0) to(0.0) keep(0.0) you(0.0) out(0.0) of(0.0) the(0.0) hospitals(1.0) .(0.0) But(0.0) what(0.0) we(0.0) have(0.0) done(0.0) now(0.0) is(0.0) we(0.0) have(0.0) expanded(0.0) 
+the(0.0) entitlement(1.0) program(1.0) in(0.0) Medicare(1.0) for(0.0) prescription(1.0) drugs(1.0) without(0.0) making(0.0) strong(0.0) changes(0.0) to(0.0) the(0.0) programs(1.0) that(0.0) are(0.0) going(0.0) to(0.0) keep(0.0) 
+the(0.0) program(1.0) solvent(1.0) .(0.0) So(0.0) the(0.0) actuaries(1.0) in(0.0) Medicare(1.0) are(0.0) estimating(0.0) that(0.0) the(0.0) unfunded(1.0) liabilities(1.0) for(0.0) Medicare(1.0) now(0.0) is(0.0) approaching(0.0) 
+almost(0.0) over(0.0) $(0.0) 60(0.0) trillion(1.0) .(0.0) In(0.0) other(0.0) words(0.0) ,(0.0) over(0.0) $(0.0) 60(0.0) trillion(1.0) would(0.0) have(0.0) to(0.0) be(0.0) put(0.0) in(0.0) 
+a(0.0) savings(0.0) account(0.0) today(0.0) with(0.0) returning(0.0) the(0.0) amount(1.0) of(0.0) interest(0.0) that(0.0) would(0.0) represent(0.0) inflation(1.0) plus(0.0) the(0.0) time(0.0) value(0.0) of(0.0) 
+
+
+----- below are rationale words -----
+
+
+Congress	Nation	195th	
+Lincoln	are	celebrating	Abraham	Lincoln	
+Lincoln	
+
+lobbying	money	
+political	
+reelected	programs	pork	barrel	
+
+publicity	money	overspending	
+overpromising	pie	Federal	Government	
+trillion	budgeting	largest	
+spending	spending	Federal	Government	
+Medicare	
+spending	Federal	Government	spending	
+expanded	Medicare	program	
+benefits	prescription	drugs	prescription	drugs	Medicare	
+drugs	Medicare	pays	
+prescription	drugs	prescription	
+drugs	Medicare	
+drugs	hospitals	
+entitlement	program	Medicare	prescription	drugs	programs	
+program	solvent	actuaries	Medicare	unfunded	liabilities	Medicare	
+trillion	trillion	
+amount	inflation	
+
+reads % = 0.142

@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+The(0.0) gentleman(0.0) says(1.0) taking(1.0) money(0.0) from(0.0) corporations(1.0) on(0.0) under(0.0) the(0.0) guise(1.0) of(0.0) hard(0.0) dollars(0.0) is(0.0) a(0.0) de(1.0) minimis(0.0) issue(0.0) .(0.0) I(0.0) 
+think(1.0) the(0.0) American(0.0) people(0.0) would(0.0) differ(1.0) with(0.0) him(0.0) .(0.0) That(0.0) is(0.0) why(0.0) he(0.0) is(0.0) not(1.0) talking(0.0) about(0.0) that(0.0) section(0.0) .(0.0) 
+Chairman(1.0) ,(0.0) I(0.0) yield(0.0) 2(0.0) minutes(1.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Georgia(1.0) [(0.0) Mr.(0.0) Kingston(1.0) ](0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+says	taking	corporations	guise	de	
+think	differ	not	
+Chairman	minutes	Georgia	Kingston	
+
+reads % = 0.21052631578947367

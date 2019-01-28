@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) will(0.0) the(0.0) gentlewoman(0.0) yield(0.0) ?(0.0) I(0.0) think(0.0) once(0.0) again(0.0) to(0.0) resolve(0.0) this(0.0) problem(0.0) in(0.0) a(0.0) way(0.0) favorable(0.0) to(0.0) the(0.0) 
+inmates(1.0) ,(0.0) to(0.0) the(0.0) surrounding(0.0) communities(1.0) and(0.0) everybody(0.0) else(0.0) ,(0.0) it(0.0) takes(0.0) a(0.0) joint(0.0) effort(0.0) .(0.0) So(0.0) far(0.0) what(0.0) is(0.0) 
+missing(0.0) from(0.0) this(0.0) debate(1.0) is(0.0) a(0.0) Federal(1.0) presence(0.0) thought(0.0) the(0.0) Bureau(0.0) of(0.0) Prisons(1.0) .(0.0) The(0.0) city(0.0) has(0.0) gone(0.0) overboard(0.0) in(0.0) 
+trying(0.0) to(0.0) look(0.0) at(0.0) privatization(1.0) alternatives(1.0) and(0.0) the(0.0) like(0.0) and(0.0) the(0.0) Mayor(1.0) 's(0.0) visionary(0.0) plan(1.0) ,(0.0) in(0.0) fact(0.0) ,(0.0) calls(0.0) 
+for(0.0) the(0.0) downsizing(1.0) ,(0.0) if(0.0) not(0.0) the(0.0) elimination(1.0) ,(0.0) of(0.0) the(0.0) Lortion(0.0) complex(0.0) .(0.0) But(0.0) we(0.0) are(0.0) going(0.0) to(0.0) need(0.0) 
+some(0.0) help(0.0) .(0.0) What(0.0) we(0.0) are(0.0) asking(0.0) the(0.0) chairman(0.0) of(0.0) the(0.0) committee(0.0) to(0.0) do(0.0) in(0.0) this(0.0) particular(0.0) case(0.0) is(0.0) to(0.0) 
+direct(0.0) the(0.0) Bureau(0.0) of(0.0) Prisons(1.0) to(0.0) become(0.0) engaged(0.0) in(0.0) this(0.0) process(0.0) so(0.0) that(0.0) we(0.0) can(0.0) come(0.0) up(0.0) with(0.0) a(0.0) proposal(0.0) 
+.(0.0) Last(0.0) year's(0.0) District(0.0) of(0.0) Columbia(1.0) appropriations(0.0) bill(0.0) had(0.0) some(0.0) language(0.0) where(0.0) we(0.0) have(0.0) asked(0.0) the(0.0) city(0.0) to(0.0) come(0.0) up(0.0) 
+with(0.0) a(0.0) 5-year(0.0) plan(0.0) to(0.0) close(0.0) it(0.0) .(0.0) Now(0.0) we(0.0) need(0.0) to(0.0) see(0.0) what(0.0) BOP(1.0) can(0.0) take(0.0) and(0.0) if(0.0) it(0.0) 
+is(0.0) going(0.0) to(0.0) take(0.0) money(1.0) ,(0.0) we(0.0) need(0.0) to(0.0) know(0.0) what(0.0) it(0.0) is(0.0) ,(0.0) but(0.0) we(0.0) need(0.0) their(0.0) involvement(1.0) .(0.0) 
+It(0.0) is(0.0) unrealistic(1.0) to(0.0) ask(0.0) the(0.0) city(0.0) government(1.0) to(0.0) do(0.0) this(0.0) by(0.0) themselves(0.0) .(0.0) It(0.0) is(0.0) the(0.0) only(0.0) city(0.0) in(0.0) 
+the(0.0) country(1.0) that(0.0) does(0.0) it(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+inmates	communities	
+debate	Federal	Prisons	
+privatization	alternatives	Mayor	plan	
+downsizing	elimination	
+
+Prisons	
+Columbia	
+BOP	
+money	involvement	
+unrealistic	government	
+country	
+
+reads % = 0.08370044052863436

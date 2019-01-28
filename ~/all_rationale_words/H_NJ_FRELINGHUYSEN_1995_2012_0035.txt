@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+The(0.0) Acting(0.0) CHAIR(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) New(0.0) Jersey(0.0) is(0.0) recognized(0.0) for(0.0) 5(0.0) minutes(1.0) .(0.0) I(0.0) rise(1.0) in(0.0) opposition(1.0) to(0.0) the(0.0) 
+gentlewoman's(0.0) amendment(1.0) .(0.0) My(0.0) colleague(1.0) 's(0.0) amendment(1.0) would(0.0) increase(1.0) funding(1.0) for(0.0) ARPA-E(1.0) to(0.0) levels(0.0) beyond(0.0) what(1.0) the(0.0) program(0.0) needs(0.0) .(0.0) 
+Our(0.0) bill(0.0) provides(0.0) $(0.0) 200(0.0) million(0.0) for(0.0) ARPA-E(1.0) because(0.0) of(0.0) its(0.0) focus(0.0) on(0.0) energy(1.0) security(0.0) ,(0.0) American(0.0) manufacturing(1.0) and(0.0) competitiveness(1.0) 
+and(0.0) research(0.0) to(0.0) address(0.0) gas(1.0) prices(0.0) ;(0.0) but(0.0) we(0.0) have(0.0) continuing(0.0) concerns(0.0) that(0.0) this(0.0) program(0.0) must(0.0) not(1.0) intervene(1.0) where(0.0) private(0.0) 
+capital(1.0) markets(0.0) are(0.0) already(0.0) acting(0.0) .(0.0) It(0.0) must(0.0) not(1.0) fund(1.0) work(0.0) redundant(1.0) with(0.0) other(0.0) programs(1.0) at(0.0) the(0.0) Department(0.0) of(0.0) Energy(0.0) 
+.(0.0) ARPA-E(1.0) is(0.0) only(0.0) 3(0.0) years(0.0) old(1.0) and(0.0) is(0.0) still(0.0) proving(1.0) itself(0.0) .(0.0) Given(1.0) how(0.0) we(0.0) must(0.0) spend(1.0) tax(1.0) dollars(0.0) 
+wisely(1.0) ,(0.0) it(0.0) would(1.0) simply(0.0) not(1.0) be(0.0) prudent(1.0) to(0.0) give(0.0) this(0.0) young(0.0) program(0.0) its(0.0) highest(0.0) funding(1.0) level(0.0) ever(1.0) .(0.0) This(0.0) 
+amendment(1.0) would(0.0) ,(0.0) unfortunately(0.0) ,(0.0) do(0.0) just(1.0) that(0.0) ;(0.0) therefore(1.0) ,(0.0) I(0.0) oppose(1.0) it(0.0) for(0.0) that(0.0) and(0.0) for(0.0) many(0.0) other(0.0) 
+reasons(0.0) .(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+minutes	rise	opposition	
+amendment	colleague	amendment	increase	funding	ARPA-E	what	
+ARPA-E	energy	manufacturing	competitiveness	
+gas	not	intervene	
+capital	not	fund	redundant	programs	
+ARPA-E	old	proving	Given	spend	tax	
+wisely	would	not	prudent	funding	ever	
+amendment	just	therefore	oppose	
+time	
+
+reads % = 0.22674418604651161

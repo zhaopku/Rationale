@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) at(0.0) this(0.0) time(0.0) I(0.0) yield(0.0) 3(0.0) minutes(0.0) to(0.0) the(0.0) gentlelady(0.0) from(0.0) New(0.0) York(1.0) ((0.0) Ms.(1.0) Meng(1.0) )(0.0) ,(0.0) a(0.0) 
+very(0.0) valuable(0.0) member(0.0) of(0.0) the(0.0) Foreign(0.0) Affairs(0.0) Committee(0.0) ,(0.0) whose(0.0) provision(0.0) will(0.0) hold(0.0) the(0.0) State(0.0) Department(0.0) more(0.0) accountable(0.0) ,(0.0) and(0.0) 
+her(0.0) provision(0.0) was(0.0) incorporated(0.0) into(0.0) this(0.0) bill(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+York	Ms.	Meng	
+
+
+
+reads % = 0.061224489795918366

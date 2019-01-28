@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(1.0) in(0.0) strong(0.0) support(0.0) of(0.0) this(0.0) resolution(0.0) and(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) Mr.(0.0) 
+Speaker(1.0) ,(0.0) we(0.0) are(0.0) all(0.0) familiar(0.0) with(0.0) National(0.0) Geographic(1.0) images(1.0) of(0.0) fluffy(0.0) white(1.0) baby(1.0) seals(0.0) nestled(0.0) next(0.0) to(0.0) their(0.0) mothers(1.0) 
+.(0.0) We(0.0) stare(1.0) at(0.0) them(0.0) on(0.0) our(0.0) TV(0.0) screens(0.0) or(1.0) in(0.0) our(0.0) magazines(0.0) and(0.0) reflexively(1.0) remark(0.0) about(0.0) how(0.0) adorable(0.0) they(0.0) 
+are(0.0) .(0.0) But(0.0) now(0.0) imagine(1.0) ,(0.0) if(0.0) you(0.0) can(0.0) ,(0.0) the(0.0) brutal(1.0) death(1.0) that(0.0) awaits(1.0) hundreds(0.0) of(0.0) thousands(0.0) of(0.0) these(1.0) 
+baby(1.0) seals(0.0) every(0.0) single(1.0) year(0.0) .(0.0) With(1.0) stunning(0.0) barbarism(1.0) ,(0.0) Canadian(1.0) hunters(0.0) swoop(1.0) in(0.0) with(0.0) heavy(0.0) clubs(1.0) and(0.0) stun(0.0) guns(0.0) 
+to(0.0) immobilize(1.0) these(0.0) little(0.0) innocent(1.0) creatures(0.0) .(0.0) They(0.0) are(0.0) then(0.0) skinned(0.0) alive(0.0) simply(0.0) so(0.0) that(0.0) their(0.0) soft(0.0) white(1.0) fur(1.0) can(0.0) 
+adorn(1.0) winter(0.0) coats(1.0) ,(0.0) coats(1.0) that(0.0) could(1.0) be(0.0) composed(1.0) of(0.0) different(1.0) materials(1.0) without(0.0) torturing(1.0) animals(0.0) .(0.0) These(0.0) gruesome(0.0) images(1.0) are(0.0) 
+sadly(0.0) commonplace(1.0) in(0.0) the(0.0) Canadian(1.0) Northwest(1.0) .(0.0) The(0.0) Canadian(1.0) Government(0.0) estimates(1.0) that(0.0) over(0.0) 1(0.0) million(0.0) seals(0.0) have(0.0) been(0.0) killed(1.0) in(0.0) 
+the(0.0) most(1.0) recent(1.0) 3-year(0.0) period(0.0) .(0.0) Public(0.0) outcry(1.0) over(0.0) this(0.0) barbarism(1.0) led(0.0) to(0.0) a(0.0) ban(0.0) of(0.0) all(0.0) seal(1.0) products(0.0) in(0.0) 
+the(0.0) United(0.0) States(0.0) and(0.0) in(0.0) the(0.0) European(0.0) Union(1.0) in(0.0) 1983(1.0) .(0.0) Unfortunately(1.0) ,(0.0) the(0.0) public(0.0) seems(0.0) to(0.0) have(0.0) forgotten(1.0) that(0.0) 
+the(0.0) grisly(1.0) practices(1.0) of(0.0) commercial(1.0) seal(1.0) hunters(0.0) still(0.0) go(0.0) on(0.0) ,(0.0) and(0.0) international(0.0) pressure(0.0) on(0.0) Canada(0.0) to(0.0) end(0.0) the(0.0) hunt(1.0) 
+has(0.0) abated(1.0) .(0.0) My(0.0) resolution(0.0) brings(0.0) the(0.0) focus(0.0) of(0.0) the(0.0) United(0.0) States(0.0) Congress(0.0) back(0.0) to(0.0) this(0.0) heinous(1.0) yearly(1.0) slaughter(1.0) .(0.0) 
+It(0.0) urges(1.0) the(0.0) Canadian(1.0) Government(0.0) to(0.0) cease(1.0) this(0.0) gruesome(0.0) practice(0.0) and(0.0) bring(0.0) Canadian(1.0) policy(0.0) in(0.0) line(0.0) with(0.0) that(0.0) of(0.0) the(0.0) 
+United(0.0) States(0.0) and(0.0) the(0.0) European(0.0) Union(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) let(0.0) me(0.0) note(1.0) that(0.0) this(0.0) annual(0.0) seal(1.0) slaughter(0.0) ,(0.0) enacted(1.0) 
+for(0.0) mere(0.0) vanity(0.0) and(0.0) vulgar(1.0) consumerism(1.0) ,(0.0) is(0.0) also(1.0) having(0.0) deleterious(1.0) effects(1.0) on(0.0) the(0.0) ecosystem(1.0) .(0.0) Nature(0.0) 's(0.0) careful(0.0) balance(0.0) 
+is(0.0) being(0.0) thrown(0.0) off(0.0) by(0.0) the(0.0) depletion(0.0) of(0.0) the(0.0) seal(1.0) population(1.0) .(0.0) The(0.0) barbaric(0.0) seal(1.0) hunt(1.0) disturbs(1.0) the(0.0) food(0.0) chain(0.0) 
+,(0.0) hurting(1.0) the(0.0) fishing(0.0) industry(1.0) ,(0.0) which(0.0) is(0.0) now(0.0) suffering(1.0) in(0.0) Canada(1.0) .(0.0) Ending(1.0) the(0.0) commercial(1.0) seal(1.0) hunt(0.0) is(0.0) not(1.0) 
+simply(0.0) a(0.0) matter(0.0) of(0.0) saving(0.0) beautiful(0.0) and(0.0) innocent(0.0) animals(0.0) that(0.0) tug(1.0) at(0.0) our(0.0) hearts(1.0) .(0.0) It(0.0) is(0.0) a(0.0) matter(0.0) of(0.0) 
+intelligent(0.0) ecomanagement(1.0) ,(0.0) prevention(1.0) of(0.0) cruelty(1.0) against(0.0) animals(0.0) ,(0.0) and(0.0) helping(1.0) our(0.0) friends(0.0) to(0.0) the(0.0) north(1.0) restore(0.0) their(0.0) otherwise(1.0) pristine(0.0) 
+international(0.0) reputation(0.0) .(0.0) Killing(1.0) baby(1.0) seals(0.0) echoes(1.0) the(0.0) torture(1.0) and(0.0) cruel(0.0) killing(0.0) of(0.0) so(1.0) many(0.0) other(0.0) animals(0.0) around(0.0) the(0.0) world(0.0) 
+.(0.0) As(0.0) cochairman(1.0) of(0.0) the(0.0) Congressional(0.0) Friends(1.0) of(0.0) Animals(0.0) Caucus(0.0) ,(0.0) I(0.0) will(0.0) continue(0.0) to(0.0) bring(0.0) the(0.0) world(0.0) 's(0.0) attention(0.0) 
+to(0.0) such(0.0) practices(1.0) wherever(1.0) they(0.0) exist(1.0) .(0.0) I(0.0) urge(1.0) all(0.0) of(0.0) my(0.0) colleagues(1.0) to(0.0) support(0.0) this(0.0) important(0.0) and(0.0) humane(1.0) resolution(0.0) 
+.(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) reserve(1.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(1.0) .(0.0) Ms.(1.0) ROS-LEHTINEN(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) 
+myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) Harp(1.0) seals(0.0) ,(0.0) which(0.0) live(0.0) off(0.0) of(0.0) Canada(1.0) 's(0.0) east(1.0) coast(1.0) ,(0.0) 
+are(0.0) sought(1.0) for(0.0) their(0.0) pelts(0.0) .(0.0) Canadian(1.0) hunters(0.0) ,(0.0) who(0.0) are(0.0) regulated(0.0) by(0.0) Canada(0.0) 's(0.0) Department(0.0) of(0.0) Fisheries(0.0) and(0.0) 
+
+
+----- below are rationale words -----
+
+rise	
+Speaker	Geographic	images	white	baby	mothers	
+stare	or	reflexively	
+imagine	brutal	death	awaits	these	
+baby	single	With	barbarism	Canadian	swoop	clubs	
+immobilize	innocent	white	fur	
+adorn	coats	coats	could	composed	different	materials	torturing	images	
+commonplace	Canadian	Northwest	Canadian	estimates	killed	
+most	recent	outcry	barbarism	seal	
+Union	1983	Unfortunately	forgotten	
+grisly	practices	commercial	seal	hunt	
+abated	heinous	yearly	slaughter	
+urges	Canadian	cease	Canadian	
+Union	Speaker	note	seal	enacted	
+vulgar	consumerism	also	deleterious	effects	ecosystem	
+seal	population	seal	hunt	disturbs	
+hurting	industry	suffering	Canada	Ending	commercial	seal	not	
+tug	hearts	
+ecomanagement	prevention	cruelty	helping	north	otherwise	
+Killing	baby	echoes	torture	so	
+cochairman	Friends	
+practices	wherever	exist	urge	colleagues	humane	
+Speaker	reserve	time	Ms.	ROS-LEHTINEN	Speaker	
+Harp	Canada	east	coast	
+sought	Canadian	
+
+reads % = 0.24

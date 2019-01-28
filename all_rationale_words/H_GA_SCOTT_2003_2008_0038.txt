@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) let(0.0) me(0.0) just(0.0) say(0.0) ,(0.0) is(0.0) this(0.0) a(0.0) perfect(0.0) bill(1.0) ?(1.0) No(0.0) ,(0.0) but(0.0) is(0.0) it(0.0) a(0.0) good(0.0) bill(0.0) 
+,(0.0) yes(0.0) .(0.0) It(0.0) 's(0.0) a(0.0) good(0.0) bill(1.0) for(0.0) the(0.0) people(0.0) of(0.0) America(1.0) in(0.0) response(0.0) precisely(0.0) to(0.0) their(0.0) needs(0.0) now(0.0) 
+.(0.0) The(0.0) American(0.0) people(0.0) are(0.0) concerned(0.0) about(0.0) high(0.0) food(1.0) prices(1.0) ,(0.0) this(0.0) brings(0.0) it(0.0) down(0.0) .(0.0) They(0.0) are(0.0) concerned(0.0) about(0.0) 
+high(0.0) gas(1.0) prices(1.0) ,(0.0) this(0.0) bill(1.0) brings(1.0) it(0.0) down(0.0) .(0.0) One(0.0) of(0.0) the(0.0) most(0.0) pressing(0.0) areas(0.0) that(0.0) this(0.0) bill(1.0) does(1.0) 
+good(0.0) on(0.0) ,(0.0) it(0.0) corrects(0.0) a(0.0) major(0.0) injustice(1.0) to(0.0) African(1.0) American(0.0) farmers(1.0) by(0.0) passing(0.0) a(0.0) bill(0.0) which(0.0) includes(0.0) $(0.0) 100(0.0) 
+million(0.0) to(0.0) set(0.0) up(0.0) a(0.0) fund(1.0) so(0.0) that(0.0) these(0.0) black(1.0) farmers(1.0) can(0.0) have(0.0) their(0.0) day(0.0) in(0.0) court(1.0) ,(0.0) something(0.0) they(0.0) 
+fought(1.0) for(0.0) for(0.0) years(0.0) .(0.0) It(0.0) also(0.0) has(0.0) money(0.0) in(0.0) here(0.0) to(0.0) set(0.0) up(0.0) research(0.0) grants(1.0) for(0.0) predominantly(1.0) African(1.0) American(0.0) 
+land-grant(1.0) colleges(0.0) of(0.0) 1890(0.0) ,(0.0) Florida(0.0) A(0.0) &(0.0) M(0.0) University(0.0) ,(0.0) agriculture(1.0) ,(0.0) mechanical(0.0) ;(0.0) Arkansas(1.0) A(0.0) &(0.0) M(0.0) University(0.0) 
+,(0.0) agriculture(1.0) ,(0.0) mechanical(0.0) ;(0.0) North(0.0) Carolina(0.0) A(0.0) &(0.0) T(0.0) ,(0.0) agriculture(1.0) and(0.0) technical(0.0) .(0.0) These(0.0) schools(1.0) were(0.0) grounded(0.0) in(0.0) 
+agriculture(1.0) .(0.0) But(0.0) ,(0.0) yet(0.0) ,(0.0) because(0.0) of(0.0) past(0.0) discrimination(1.0) ,(0.0) the(0.0) black(1.0) farmers(1.0) and(0.0) black(1.0) colleges(1.0) have(0.0) been(0.0) denied(0.0) 
+.(0.0) This(0.0) good(0.0) bill(1.0) corrects(1.0) that(0.0) .(0.0) We(0.0) must(0.0) pass(0.0) this(0.0) bill(1.0) and(0.0) make(0.0) sure(0.0) that(0.0) this(0.0) bill(1.0) passes(1.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+bill	?	
+bill	America	
+food	prices	
+gas	prices	bill	brings	bill	does	
+injustice	African	farmers	
+fund	black	farmers	court	
+fought	grants	predominantly	African	
+land-grant	agriculture	Arkansas	
+agriculture	agriculture	schools	
+agriculture	discrimination	black	farmers	black	colleges	
+bill	corrects	bill	bill	passes	
+
+
+reads % = 0.18099547511312217

@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+1645(1.0) ,(0.0) designating(0.0) the(0.0) week(0.0) of(0.0) November(0.0) 8th(0.0) as(0.0) National(0.0) School(0.0) Psychology(0.0) Week(0.0) .(0.0) I(0.0) introduced(0.0) this(0.0) Resolution(0.0) in(0.0) support(0.0) of(0.0) 
+National(0.0) School(0.0) Psychology(0.0) Week(0.0) because(0.0) ,(0.0) were(0.0) it(0.0) not(0.0) for(0.0) caring(0.0) adults(0.0) in(0.0) my(0.0) school(0.0) and(0.0) my(0.0) community(0.0) ,(0.0) I(0.0) 
+would(0.0) not(0.0) be(0.0) where(0.0) I(0.0) am(0.0) today(0.0) .(0.0) I(0.0) know(0.0) from(0.0) my(0.0) own(0.0) childhood(0.0) how(0.0) circumstances(0.0) outside(0.0) school(0.0) can(0.0) affect(0.0) 
+a(0.0) student's(0.0) performance(0.0) in(0.0) the(0.0) classroom(0.0) ,(0.0) so(0.0) I(0.0) believe(0.0) it(0.0) is(0.0) extremely(0.0) important(0.0) that(0.0) our(0.0) schools(1.0) have(0.0) professionals(0.0) trained(0.0) 
+to(0.0) meet(0.0) students'(0.0) nonacademic(1.0) needs(0.0) .(0.0) School(0.0) psychologists(0.0) perform(0.0) a(0.0) myriad(0.0) of(0.0) functions(0.0) within(0.0) schools(0.0) .(0.0) They(0.0) work(0.0) with(0.0) students(0.0) 
+to(0.0) improve(0.0) social(1.0) ,(0.0) emotional(0.0) ,(0.0) and(0.0) behavioral(0.0) problems(0.0) that(0.0) may(0.0) affect(0.0) their(0.0) ability(0.0) to(0.0) succeed(0.0) in(0.0) school(1.0) ,(0.0) assess(0.0) 
+barriers(1.0) to(0.0) learning(0.0) ,(0.0) and(0.0) design(0.0) and(0.0) implement(0.0) behavioral(0.0) interventions(0.0) that(0.0) help(0.0) teachers(0.0) create(0.0) positive(0.0) classroom(0.0) environments(0.0) .(0.0) That(0.0) is(0.0) 
+why(0.0) I(0.0) would(0.0) like(0.0) to(0.0) take(0.0) this(0.0) opportunity(0.0) to(0.0) honor(0.0) and(0.0) recognize(0.0) the(0.0) professionals(0.0) that(0.0) work(0.0) so(0.0) hard(0.0) for(0.0) our(0.0) 
+children(0.0) and(0.0) grandchildren(0.0) in(0.0) schools(1.0) across(0.0) the(0.0) country(1.0) .(0.0) Your(0.0) efforts(1.0) on(0.0) behalf(0.0) of(0.0) our(0.0) nation(1.0) 's(0.0) students(0.0) are(0.0) appreciated(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+
+schools	
+nonacademic	
+social	school	
+barriers	
+
+schools	country	efforts	nation	
+
+
+reads % = 0.04945054945054945

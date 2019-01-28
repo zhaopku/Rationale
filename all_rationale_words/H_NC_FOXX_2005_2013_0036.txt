@@ -1,0 +1,24 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) the(0.0) American(0.0) people(0.0) have(0.0) a(0.0) right(0.0) to(0.0) demand(1.0) a(0.0) balanced(0.0) budget(1.0) from(0.0) their(0.0) government(1.0) ,(0.0) and(0.0) by(0.0) ``(0.0) balanced(0.0) 
+,(0.0) ''(0.0) we(0.0) mean(0.0) a(0.0) plan(0.0) that(0.0) will(0.0) actually(0.0) get(0.0) spending(1.0) in(0.0) line(0.0) with(0.0) income(1.0) .(0.0) If(0.0) we(0.0) want(0.0) a(0.0) 
+prosperous(0.0) future(0.0) for(0.0) our(0.0) children(0.0) and(0.0) grandchildren(0.0) ,(0.0) we(0.0) can(0.0) not(0.0) ,(0.0) after(0.0) all(0.0) ,(0.0) continue(0.0) to(0.0) spend(1.0) money(1.0) we(0.0) 
+do(0.0) n't(0.0) have(0.0) .(0.0) House(0.0) Republicans(1.0) understand(0.0) the(0.0) simple(0.0) math(1.0) and(0.0) have(0.0) introduced(0.0) a(0.0) budget(0.0) that(0.0) balances(0.0) in(0.0) just(0.0) 10(0.0) 
+years(0.0) .(0.0) Senate(0.0) Democrats(1.0) are(0.0) taking(0.0) a(0.0) different(0.0) tack(0.0) .(0.0) Their(0.0) budget(1.0) demands(1.0) higher(0.0) taxes(1.0) ,(0.0) authorizes(1.0) higher(1.0) spending(1.0) ,(0.0) 
+and(0.0) never(0.0) balances(0.0) --(0.0) ever(0.0) .(0.0) How(0.0) do(0.0) we(0.0) explain(0.0) that(0.0) to(0.0) hardworking(1.0) families(0.0) who(0.0) live(0.0) with(0.0) the(0.0) reality(0.0) of(0.0) 
+having(0.0) to(0.0) balance(0.0) their(0.0) household(0.0) budgets(1.0) every(0.0) month(0.0) ?(0.0) Washington(1.0) should(0.0) not(0.0) see(0.0) itself(0.0) as(0.0) the(0.0) exception(0.0) to(0.0) the(0.0) rule(1.0) 
+.(0.0) Washington(1.0) should(0.0) balance(0.0) its(0.0) budget(1.0) ,(0.0) and(0.0) House(0.0) Republicans(1.0) have(1.0) a(1.0) plan(1.0) to(0.0) do(0.0) just(0.0) that(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+demand	budget	government	
+spending	income	
+spend	money	
+Republicans	math	
+Democrats	budget	demands	taxes	authorizes	higher	spending	
+hardworking	
+budgets	Washington	rule	
+Washington	budget	Republicans	have	a	plan	
+
+reads % = 0.16352201257861634

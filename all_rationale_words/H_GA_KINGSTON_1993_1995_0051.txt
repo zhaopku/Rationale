@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) imagine(0.0) going(0.0) to(0.0) the(0.0) grocery(0.0) store(0.0) to(0.0) buy(0.0) your(0.0) daily(0.0) fruit(0.0) ,(0.0) vegetables(0.0) ,(0.0) and(0.0) meat(0.0) ,(0.0) and(0.0) when(0.0) 
+you(0.0) go(0.0) through(0.0) the(0.0) counter(0.0) the(0.0) clerk(0.0) reaches(0.0) over(0.0) and(0.0) sticks(0.0) some(0.0) caviar(1.0) in(0.0) your(0.0) grocery(0.0) cart(0.0) .(0.0) And(0.0) you(0.0) 
+say(0.0) ,(0.0) ``(0.0) I(0.0) do(0.0) n't(0.0) want(0.0) any(0.0) caviar(1.0) .(0.0) ''(0.0) And(0.0) he(0.0) says(0.0) ,(0.0) ``(0.0) Tough(0.0) ,(0.0) you(0.0) want(0.0) 
+your(0.0) meat(0.0) and(0.0) potatoes(0.0) ;(0.0) you(0.0) have(0.0) to(0.0) buy(0.0) my(0.0) caviar(1.0) .(0.0) And(0.0) if(0.0) get(0.0) too(0.0) sensitive(0.0) ,(0.0) I(0.0) am(0.0) 
+going(0.0) to(0.0) throw(0.0) in(0.0) some(0.0) Twinkies(1.0) .(0.0) ''(0.0) Well(0.0) ,(0.0) that(0.0) is(0.0) what(0.0) the(0.0) Congress(0.0) has(0.0) been(0.0) doing(0.0) to(0.0) the(0.0) 
+American(0.0) people(0.0) and(0.0) their(0.0) President(1.0) for(0.0) too(0.0) many(0.0) years(0.0) .(0.0) But(0.0) as(0.0) of(0.0) yesterday(0.0) ,(0.0) with(0.0) the(0.0) passing(0.0) of(0.0) the(0.0) 
+line-item(1.0) veto(1.0) ,(0.0) we(0.0) ,(0.0) the(0.0) American(0.0) people(0.0) ,(0.0) can(0.0) have(0.0) our(0.0) President(1.0) stop(0.0) it(0.0) .(0.0) Item(0.0) three(0.0) on(0.0) the(0.0) 
+Contract(0.0) With(0.0) America(0.0) has(0.0) now(0.0) passed(0.0) the(0.0) House(0.0) .(0.0) Call(0.0) your(0.0) Senator(1.0) ,(0.0) ask(0.0) him(0.0) or(0.0) her(0.0) to(0.0) support(0.0) the(0.0) 
+line-item(1.0) veto(1.0) ,(0.0) and(0.0) then(0.0) we(0.0) can(0.0) have(0.0) that(0.0) lean(0.0) ,(0.0) green(1.0) ,(0.0) grocery(0.0) shopping(0.0) machine(0.0) that(0.0) we(0.0) all(0.0) want(0.0) 
+.(0.0) Cut(0.0) out(0.0) the(0.0) fat(1.0) ,(0.0) Mr.(0.0) Speaker(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+caviar	
+caviar	
+caviar	
+Twinkies	
+President	
+line-item	veto	President	
+Senator	
+line-item	veto	green	
+fat	Speaker	
+
+reads % = 0.07368421052631578

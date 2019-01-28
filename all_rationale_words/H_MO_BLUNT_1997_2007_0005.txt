@@ -1,0 +1,22 @@
+This is from a Republican
+----- below is the original text -----
+Seeing(0.0) the(0.0) legislation(1.0) is(0.0) obviously(0.0) helpful(0.0) .(0.0) We(0.0) are(0.0) really(0.0) regretful(0.0) we(0.0) do(0.0) n't(0.0) have(0.0) a(0.0) chance(0.0) to(0.0) offer(0.0) an(0.0) alternative(1.0) 
+in(0.0) the(0.0) real-time(0.0) .(0.0) We(0.0) will(0.0) look(0.0) at(0.0) the(0.0) legislation(1.0) .(0.0) We(0.0) will(0.0) see(0.0) if(0.0) we(0.0) can(0.0) find(0.0) a(0.0) suggestion(0.0) 
+that(0.0) will(0.0) help(0.0) meet(0.0) the(0.0) goals(0.0) that(0.0) we(0.0) agree(0.0) with(0.0) in(0.0) a(0.0) more(0.0) effective(0.0) way(0.0) .(0.0) That(0.0) 24-hour(0.0) notice(0.0) from(0.0) 
+now(0.0) on(0.0) we(0.0) would(0.0) hope(0.0) would(0.0) be(0.0) a(0.0) pledge(0.0) that(0.0) the(0.0) majority(1.0) will(0.0) be(0.0) able(0.0) to(0.0) retain(0.0) .(0.0) My(0.0) good(0.0) 
+friend(0.0) Mr.(0.0) Hoyer(1.0) mentioned(1.0) the(1.0) 9/11(1.0) Commission(0.0) report(0.0) .(0.0) One(0.0) of(0.0) the(0.0) recommendations(0.0) of(0.0) that(0.0) commission(0.0) was(0.0) a(0.0) realignment(0.0) of(0.0) 
+committees(0.0) .(0.0) We(0.0) did(0.0) n't(0.0) make(0.0) that(0.0) realignment(1.0) of(0.0) committees(0.0) in(0.0) the(0.0) rules(0.0) package(0.0) .(0.0) I(0.0) wonder(0.0) if(0.0) there(0.0) is(0.0) 
+any(0.0) plan(1.0) for(0.0) that(0.0) kind(0.0) of(0.0) realignment(1.0) ,(0.0) and(0.0) I(0.0) would(0.0) yield(0.0) to(0.0) the(0.0) leader(0.0) for(0.0) that(0.0) response(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+legislation	alternative	
+legislation	
+
+majority	
+Hoyer	mentioned	the	9/11	
+realignment	
+plan	realignment	
+
+reads % = 0.07857142857142857

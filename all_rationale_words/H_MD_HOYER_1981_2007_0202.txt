@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Although(0.0) ,(0.0) as(0.0) the(0.0) gentleman(0.0) knows(0.0) ,(0.0) that(0.0) bill(1.0) was(0.0) reported(0.0) out(0.0) of(0.0) the(0.0) Government(0.0) Reform(0.0) Committee(0.0) chaired(0.0) by(0.0) a(0.0) Republican(0.0) 
+,(1.0) with(1.0) a(1.0) Republican(1.0) majority(1.0) ,(1.0) with(1.0) a(1.0) majority(1.0) of(1.0) Republicans(1.0) voting(1.0) for(1.0) the(1.0) bill(1.0) to(1.0) report(1.0) it(1.0) out(1.0) of(1.0) 
+the(1.0) committee(0.0) in(1.0) the(1.0) last(0.0) session(0.0) .(0.0) So(0.0) while(0.0) I(0.0) understand(0.0) your(0.0) view(0.0) ,(0.0) it(0.0) is(0.0) not(0.0) as(0.0) if(0.0) we(0.0) 
+were(0.0) taking(0.0) up(0.0) a(0.0) bill(1.0) that(0.0) had(0.0) n't(0.0) already(0.0) been(0.0) processed(0.0) by(0.0) your(0.0) committee(0.0) in(0.0) the(0.0) last(0.0) Congress(0.0) ,(0.0) reported(0.0) 
+out(0.0) of(0.0) that(0.0) committee(0.0) ,(0.0) and(0.0) because(0.0) obviously(0.0) there(0.0) is(0.0) opposition(1.0) to(0.0) it(0.0) on(0.0) your(0.0) side(0.0) of(0.0) the(0.0) aisle(0.0) ,(0.0) 
+not(0.0) brought(0.0) to(0.0) the(0.0) floor(0.0) .(0.0) I(0.0) understand(0.0) the(0.0) gentleman(0.0) 's(0.0) point(0.0) ;(0.0) but(0.0) very(0.0) frankly(0.0) ,(0.0) the(0.0) only(0.0) reason(0.0) 
+it(0.0) has(0.0) not(0.0) passed(0.0) ,(0.0) because(0.0) it(0.0) has(0.0) the(0.0) majority(1.0) of(0.0) votes(1.0) on(0.0) this(0.0) floor(0.0) ,(0.0) was(0.0) because(0.0) the(0.0) motion(1.0) 
+that(0.0) was(0.0) made(0.0) was(0.0) not(0.0) the(0.0) traditional(0.0) motion(0.0) of(0.0) adopting(1.0) a(0.0) proposition(1.0) ,(0.0) in(0.0) this(0.0) case(0.0) the(0.0) gun(1.0) control(1.0) issue(0.0) 
+,(0.0) and(0.0) reporting(0.0) it(0.0) immediately(0.0) back(0.0) out(0.0) with(0.0) that(0.0) amendment(1.0) attached(0.0) .(0.0) I(0.0) appreciate(0.0) what(0.0) the(0.0) gentleman(0.0) is(0.0) saying(0.0) ,(0.0) 
+but(0.0) I(0.0) ca(0.0) n't(0.0) feel(0.0) too(0.0) guilty(1.0) about(0.0) bringing(0.0) to(0.0) the(0.0) floor(0.0) a(0.0) bill(0.0) that(0.0) was(0.0) reported(0.0) out(0.0) of(0.0) a(0.0) 
+Republican-chaired(0.0) committee(0.0) with(0.0) a(0.0) Republican(0.0) majority(1.0) .(1.0) 
+
+
+----- below are rationale words -----
+
+bill	
+,	with	a	Republican	majority	,	with	a	majority	of	Republicans	voting	for	the	bill	to	report	it	out	of	
+the	in	the	
+bill	
+opposition	
+
+majority	votes	motion	
+adopting	proposition	gun	control	
+amendment	
+guilty	
+majority	.	
+
+reads % = 0.1778846153846154

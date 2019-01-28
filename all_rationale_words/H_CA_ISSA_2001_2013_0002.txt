@@ -1,0 +1,54 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) 'd(0.0) like(0.0) to(0.0) be(0.0) speaking(0.0) for(0.0) this(0.0) bill(1.0) ,(0.0) but(0.0) I(0.0) ca(0.0) n't(0.0) .(0.0) In(0.0) the(0.0) 12(0.0) years(0.0) 
+,(0.0) almost(0.0) to(0.0) the(0.0) day(0.0) ,(0.0) that(0.0) I(0.0) 've(0.0) served(0.0) in(0.0) this(0.0) body(0.0) ,(0.0) I(0.0) 've(0.0) voted(0.0) for(0.0) every(0.0) tax(1.0) 
+cut(1.0) ,(1.0) every(1.0) tax(1.0) cut(1.0) .(1.0) And(1.0) I(0.0) remember(0.0) many(0.0) of(0.0) my(0.0) colleagues(0.0) ,(0.0) many(0.0) of(0.0) them(0.0) friends(0.0) to(0.0) my(0.0) 
+right(0.0) here(0.0) ,(0.0) who(0.0) ,(0.0) each(0.0) time(0.0) we(0.0) voted(1.0) for(0.0) them(0.0) said(0.0) ,(0.0) where(0.0) is(0.0) the(0.0) PAYGO(1.0) ?(0.0) Where(0.0) is(0.0) 
+the(0.0) pay-for(1.0) ?(0.0) Well(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) there(0.0) 's(0.0) $(0.0) 4(0.0) trillion(1.0) of(0.0) new(0.0) debt(1.0) and(0.0) deficit(1.0) and(0.0) there(0.0) 
+'s(0.0) no(0.0) pay-for(1.0) ,(0.0) and(0.0) there(0.0) 's(0.0) no(0.0) anticipation(0.0) of(0.0) a(0.0) pay-for(1.0) .(0.0) In(0.0) the(0.0) last(0.0) night(0.0) ,(0.0) or(0.0) the(0.0) 
+last(0.0) 2(0.0) days(0.0) ,(0.0) of(0.0) a(0.0) Congress(0.0) ,(0.0) to(0.0) say(0.0) that(0.0) 2(0.0) months(0.0) from(0.0) now(0.0) a(0.0) new(0.0) Congress(0.0) is(0.0) going(0.0) 
+to(0.0) do(0.0) what(0.0) we(0.0) 're(0.0) not(0.0) doing(0.0) here(0.0) today(0.0) is(0.0) not(0.0) something(0.0) I(0.0) can(0.0) bring(0.0) myself(0.0) to(0.0) do(0.0) .(0.0) I(0.0) 
+would(0.0) like(0.0) to(0.0) vote(1.0) for(0.0) this(0.0) because(0.0) I(0.0) do(0.0) vote(1.0) for(0.0) lower(0.0) taxes(1.0) .(0.0) I(0.0) want(0.0) Americans(1.0) to(0.0) have(0.0) lower(0.0) 
+taxes(1.0) .(0.0) But(0.0) the(0.0) other(0.0) day(0.0) ,(0.0) in(0.0) conference(0.0) ,(0.0) one(0.0) of(0.0) my(0.0) colleagues(0.0) pointed(0.0) out(0.0) that(0.0) if(0.0) ,(0.0) in(0.0) 
+fact(0.0) ,(0.0) you(0.0) 're(0.0) spending(1.0) the(0.0) money(1.0) ,(0.0) you(0.0) 're(0.0) taxing(1.0) our(0.0) future(0.0) generation(1.0) .(0.0) We(0.0) are(0.0) taxing(1.0) $(0.0) 1.2(0.0) 
+trillion(1.0) next(0.0) year(0.0) .(0.0) We(0.0) are(0.0) taxing(1.0) $(0.0) 1.2(0.0) trillion(1.0) .(0.0) We(0.0) wo(0.0) n't(0.0) collect(0.0) it(0.0) ,(0.0) but(0.0) we(0.0) are(0.0) 
+taxing(1.0) $(0.0) 1.2(0.0) trillion(1.0) of(0.0) deficit(1.0) .(0.0) The(0.0) chairman(0.0) of(0.0) the(0.0) Ways(0.0) and(0.0) Means(0.0) Committee(0.0) ,(0.0) Mr.(0.0) Camp(1.0) ,(0.0) rightfully(1.0) 
+so(0.0) said(0.0) we(0.0) 're(0.0) also(0.0) not(0.0) simplifying(0.0) the(0.0) Tax(1.0) Code(1.0) .(0.0) We(0.0) 're(0.0) not(0.0) making(0.0) it(0.0) better(0.0) or(0.0) fairer(1.0) .(0.0) 
+We(0.0) 're(0.0) not(0.0) getting(0.0) rid(0.0) of(0.0) the(0.0) NASCAR(0.0) loophole(1.0) .(0.0) We're(0.0) not(0.0) getting(0.0) rid(0.0) of(0.0) the(0.0) electric(0.0) motor(0.0) scooter(0.0) low-speed(0.0) 
+loophole(1.0) .(0.0) We're(0.0) not(0.0) getting(0.0) rid(0.0) of(0.0) a(0.0) whole(0.0) lot(0.0) of(0.0) tax(1.0) things(0.0) that(0.0) are(0.0) here(0.0) .(0.0) But(0.0) most(0.0) importantly(0.0) 
+,(0.0) we(0.0) 're(0.0) not(0.0) taking(0.0) things(0.0) that(0.0) the(0.0) President(1.0) himself(0.0) said(0.0) he(0.0) would(0.0) be(0.0) for(0.0) ,(0.0) like(0.0) getting(0.0) the(0.0) calculation(1.0) 
+of(0.0) chained(1.0) CPI(0.0) ,(0.0) of(0.0) the(0.0) consumer(1.0) price(0.0) index(0.0) for(0.0) Social(0.0) Security(0.0) and(0.0) the(0.0) Federal(1.0) workforce(1.0) and(0.0) pensions(1.0) right(0.0) ,(0.0) 
+which(0.0) ,(0.0) would(0.0) ,(0.0) in(0.0) fact(0.0) ,(0.0) reduce(1.0) the(0.0) deficit(1.0) going(0.0) forward(0.0) .(0.0) So(0.0) because(0.0) of(0.0) what(0.0) we(0.0) 're(0.0) not(0.0) 
+doing(0.0) ,(0.0) I(0.0) can(0.0) not(0.0) believe(0.0) that(0.0) this(0.0) tax(1.0) cut(1.0) will(1.0) ,(1.0) in(0.0) fact(1.0) ,(0.0) be(0.0) followed(0.0) with(0.0) a(0.0) spending(1.0) 
+cut(1.0) to(0.0) offset(1.0) any(0.0) part(0.0) of(0.0) the(0.0) $(0.0) 4(0.0) trillion(1.0) we(0.0) 're(0.0) putting(0.0) on(0.0) the(0.0) backs(1.0) of(0.0) future(1.0) generations(0.0) .(0.0) 
+So(0.0) I(0.0) thank(0.0) all(0.0) of(0.0) you(0.0) who(0.0) will(0.0) vote(1.0) for(0.0) it(0.0) .(0.0) I(0.0) can(0.0) not(0.0) bring(0.0) myself(0.0) to(0.0) vote(1.0) for(0.0) 
+it(0.0) tonight(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+bill	
+tax	
+cut	,	every	tax	cut	.	And	
+voted	PAYGO	
+pay-for	Speaker	trillion	debt	deficit	
+pay-for	pay-for	
+
+
+vote	vote	taxes	Americans	
+taxes	
+spending	money	taxing	generation	taxing	
+trillion	taxing	trillion	
+taxing	trillion	deficit	Camp	rightfully	
+Tax	Code	fairer	
+loophole	
+loophole	tax	
+President	calculation	
+chained	consumer	Federal	workforce	pensions	
+reduce	deficit	
+tax	cut	will	,	fact	spending	
+cut	offset	trillion	backs	future	
+vote	vote	
+
+
+reads % = 0.14414414414414414

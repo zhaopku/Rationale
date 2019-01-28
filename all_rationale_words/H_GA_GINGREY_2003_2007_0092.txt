@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) while(0.0) I(0.0) was(0.0) unavoidably(0.0) absent(0.0) from(0.0) the(0.0) floor(0.0) today(0.0) to(0.0) attend(0.0) the(0.0) funeral(0.0) of(0.0) a(0.0) close(0.0) personal(0.0) friend(0.0) and(0.0) 
+great(0.0) Georgian(1.0) ,(0.0) C.W(0.0) .(0.0) Matthews(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) express(0.0) my(0.0) strong(0.0) opposition(1.0) to(0.0) H.R(0.0) .(0.0) 1592(0.0) ,(0.0) the(0.0) 
+Local(1.0) Law(0.0) Enforcement(0.0) Hate(0.0) Crimes(1.0) Prevention(0.0) Act(0.0) of(0.0) 2007(0.0) .(0.0) Had(0.0) I(0.0) been(0.0) present(0.0) during(0.0) the(0.0) actual(0.0) vote(1.0) ,(0.0) I(0.0) 
+would(0.0) have(0.0) voted(0.0) ``(0.0) no(0.0) ''(0.0) to(0.0) H.R(0.0) .(0.0) 1592(0.0) because(0.0) I(0.0) believe(0.0) all(0.0) crimes(1.0) should(0.0) be(0.0) prosecuted(1.0) equally(0.0) without(0.0) 
+special(0.0) rights(1.0) based(0.0) on(0.0) gender(1.0) ,(0.0) race(1.0) ,(0.0) ethnicity(1.0) ,(0.0) or(0.0) sexual(1.0) orientation(0.0) .(0.0) All(0.0) criminal(1.0) acts(0.0) are(0.0) committed(1.0) with(0.0) 
+the(0.0) intention(0.0) of(0.0) harming(1.0) or(0.0) depriving(1.0) another(0.0) individual(0.0) ,(0.0) and(0.0) trying(0.0) to(0.0) elevate(0.0) crimes(1.0) against(0.0) certain(0.0) individuals(0.0) would(0.0) be(0.0) an(0.0) 
+arbitrary(1.0) way(0.0) to(0.0) punish(1.0) .(0.0) I(0.0) absolutely(0.0) believe(0.0) that(0.0) those(0.0) who(0.0) commit(0.0) crimes(1.0) against(0.0) anyone(0.0) should(0.0) be(0.0) punished(1.0) to(0.0) the(0.0) 
+fullest(0.0) extent(0.0) of(0.0) the(0.0) law(1.0) .(0.0) Furthermore(0.0) ,(0.0) I(0.0) would(0.0) have(0.0) voted(0.0) ``(0.0) yes(0.0) ''(0.0) in(0.0) strong(0.0) support(0.0) of(0.0) the(0.0) 
+motion(1.0) to(0.0) recommit(1.0) which(0.0) would(0.0) have(0.0) amended(1.0) the(0.0) legislation(1.0) to(0.0) protect(1.0) seniors(1.0) and(0.0) veterans(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Georgian	opposition	
+Local	Crimes	vote	
+crimes	prosecuted	
+rights	gender	race	ethnicity	sexual	criminal	committed	
+harming	depriving	crimes	
+arbitrary	punish	crimes	punished	
+law	
+motion	recommit	amended	legislation	protect	seniors	veterans	
+
+reads % = 0.16477272727272727

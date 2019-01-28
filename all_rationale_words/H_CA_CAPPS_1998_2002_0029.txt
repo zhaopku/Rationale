@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) rise(0.0) in(0.0) strong(0.0) support(0.0) of(0.0) the(0.0) Nurse(0.0) Reinvestment(1.0) Act(0.0) ,(0.0) and(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) vote(1.0) 
+for(0.0) this(0.0) important(0.0) legislation(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Florida(0.0) ((0.0) Mr.(0.0) Bilirakis(1.0) )(0.0) 
+for(1.0) putting(1.0) up(0.0) with(0.0) me(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Louisiana(0.0) ((0.0) Mr.(0.0) Tauzin(1.0) )(0.0) ,(0.0) and(0.0) especially(0.0) ranking(0.0) members(0.0) ,(0.0) 
+the(0.0) gentleman(0.0) from(0.0) Michigan(0.0) ((0.0) Mr.(0.0) Dingell(1.0) )(0.0) and(0.0) the(0.0) gentleman(0.0) from(0.0) Ohio(0.0) ((0.0) Mr.(0.0) Brown(1.0) )(0.0) ,(0.0) and(0.0) all(0.0) 
+of(0.0) the(0.0) staff(0.0) for(0.0) the(0.0) hard(0.0) work(0.0) put(0.0) into(0.0) this(0.0) bill(0.0) .(0.0) I(0.0) will(0.0) mention(0.0) by(0.0) name(0.0) as(0.0) well(0.0) :(0.0) 
+Katie(0.0) Porter(1.0) ,(0.0) John(0.0) Ford(1.0) ,(0.0) Steve(0.0) Tilton(1.0) ,(0.0) Cheryl(0.0) Yaeger(1.0) ,(0.0) and(0.0) from(0.0) my(0.0) office(0.0) ,(0.0) Jeremy(0.0) Sharp(0.0) .(0.0) 
+Together(0.0) we(0.0) have(0.0) crafted(0.0) good(0.0) legislation(1.0) that(0.0) will(0.0) help(0.0) us(0.0) deal(0.0) with(0.0) the(0.0) nursing(1.0) shortage(1.0) .(0.0) This(0.0) bill(1.0) marks(1.0) a(0.0) 
+major(0.0) commitment(0.0) by(0.0) the(0.0) Congress(0.0) to(0.0) end(0.0) the(0.0) shortage(0.0) of(0.0) nurses(0.0) .(0.0) The(0.0) bill(0.0) is(0.0) based(0.0) on(0.0) legislation(1.0) that(0.0) I(0.0) 
+introduced(0.0) in(0.0) April(0.0) of(0.0) last(0.0) year(0.0) ,(0.0) H.R(0.0) .(0.0) 1436(0.0) ,(0.0) and(0.0) represents(0.0) a(0.0) major(0.0) step(0.0) forward(0.0) in(0.0) nursing(1.0) education(1.0) 
+.(0.0) I(0.0) am(0.0) grateful(0.0) for(0.0) the(0.0) support(0.0) of(0.0) 238(0.0) co-sponsors(1.0) of(0.0) that(0.0) bill(1.0) and(0.0) the(0.0) nursing(1.0) and(0.0) public(0.0) health(1.0) groups(0.0) 
+that(0.0) helped(0.0) us(0.0) move(0.0) it(0.0) forward(0.0) .(0.0) The(0.0) Nurse(0.0) Reinvestment(1.0) Act(0.0) will(0.0) authorize(0.0) new(0.0) scholarships(1.0) for(0.0) prospective(0.0) nurses(0.0) to(0.0) complete(0.0) 
+their(0.0) education(0.0) more(0.0) quickly(0.0) and(0.0) join(0.0) the(0.0) workforce(0.0) .(0.0) These(0.0) scholarships(1.0) will(0.0) enable(0.0) a(0.0) broader(0.0) range(0.0) of(0.0) people(0.0) to(0.0) find(0.0) 
+their(0.0) way(0.0) into(0.0) a(0.0) very(0.0) rewarding(0.0) career(0.0) ,(0.0) one(0.0) that(0.0) will(0.0) always(0.0) be(0.0) in(0.0) demand(1.0) ,(0.0) no(0.0) matter(0.0) the(0.0) strength(0.0) 
+or(0.0) weakness(0.0) of(0.0) the(0.0) economy(1.0) .(0.0) The(0.0) bill(1.0) also(0.0) authorizes(0.0) grants(1.0) to(0.0) train(0.0) all(0.0) levels(0.0) of(0.0) the(0.0) nursing(0.0) workforce(0.0) in(0.0) 
+geriatric(1.0) care(0.0) .(0.0) This(0.0) will(0.0) better(0.0) prepare(0.0) our(0.0) nurses(0.0) to(0.0) deal(0.0) with(0.0) the(0.0) coming(0.0) retirement(1.0) of(0.0) the(0.0) baby(0.0) boom(1.0) generation(0.0) 
+.(0.0) And(0.0) the(0.0) bill(1.0) addresses(1.0) the(0.0) shortages(1.0) of(0.0) nursing(1.0) faculty(0.0) by(0.0) providing(0.0) loan(0.0) assistance(0.0) to(0.0) nurses(0.0) who(0.0) want(0.0) to(0.0) teach(0.0) 
+.(0.0) It(0.0) also(0.0) expands(0.0) current(0.0) nursing(0.0) programs(0.0) to(0.0) include(0.0) career(0.0) ladder(0.0) grant(1.0) programs(0.0) and(0.0) nursing(0.0) retention(0.0) programs(0.0) .(0.0) These(0.0) new(0.0) 
+programs(1.0) will(0.0) help(0.0) make(0.0) the(0.0) nursing(0.0) profession(0.0) more(0.0) attractive(0.0) to(0.0) potential(0.0) nurses(0.0) and(0.0) to(0.0) provide(0.0) for(0.0) more(0.0) upward(0.0) mobility(0.0) .(0.0) 
+And(0.0) ,(0.0) finally(0.0) ,(0.0) the(0.0) legislation(1.0) will(0.0) authorize(0.0) public(1.0) service(0.0) announcements(0.0) to(0.0) educate(1.0) the(0.0) public(1.0) about(0.0) the(0.0) need(0.0) for(0.0) more(0.0) 
+nurses(1.0) ,(0.0) the(0.0) opportunities(0.0) available(0.0) for(0.0) educational(1.0) assistance(0.0) ,(0.0) and(0.0) the(0.0) rewards(0.0) of(0.0) this(0.0) kind(0.0) of(0.0) care-giving(1.0) career(0.0) .(0.0) One(0.0) 
+of(0.0) the(0.0) major(0.0) problems(0.0) nursing(1.0) faces(0.0) is(0.0) the(0.0) perception(0.0) that(0.0) it(0.0) is(0.0) an(0.0) unappealing(0.0) career(0.0) and(0.0) women's(0.0) work(0.0) .(0.0) These(0.0) 
+PSA(1.0) 's(0.0) will(0.0) help(0.0) us(0.0) counter(0.0) that(0.0) impression(0.0) and(0.0) explain(0.0) the(0.0) value(0.0) and(0.0) the(0.0) benefits(0.0) of(0.0) a(0.0) career(0.0) in(0.0) nursing(1.0) 
+.(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) am(0.0) ,(0.0) as(0.0) my(0.0) colleague(0.0) mentioned(0.0) ,(0.0) one(0.0) of(0.0) three(0.0) nurses(0.0) currently(0.0) serving(0.0) in(0.0) Congress(0.0) 
+.(0.0) Before(0.0) I(0.0) was(0.0) elected(0.0) to(0.0) the(0.0) House(0.0) of(0.0) Representatives(0.0) ,(0.0) I(0.0) served(0.0) the(0.0) people(0.0) of(0.0) Santa(1.0) Barbara(0.0) County(1.0) as(0.0) 
+a(0.0) public(0.0) health(0.0) nurse(0.0) for(0.0) 20(0.0) years(0.0) .(0.0) I(0.0) do(0.0) know(0.0) first(0.0) hand(0.0) the(0.0) challenges(0.0) facing(0.0) our(0.0) hospitals(1.0) and(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	Reinvestment	vote	
+legislation	Speaker	Bilirakis	
+for	putting	Tauzin	
+Dingell	Brown	
+
+Porter	Ford	Tilton	Yaeger	
+legislation	nursing	shortage	bill	marks	
+legislation	
+nursing	education	
+co-sponsors	bill	nursing	health	
+Reinvestment	scholarships	
+scholarships	
+demand	
+economy	bill	grants	
+geriatric	retirement	boom	
+bill	addresses	shortages	nursing	
+grant	
+programs	
+legislation	public	educate	public	
+nurses	educational	care-giving	
+nursing	
+PSA	nursing	
+Speaker	
+Santa	County	
+hospitals	
+
+reads % = 0.114

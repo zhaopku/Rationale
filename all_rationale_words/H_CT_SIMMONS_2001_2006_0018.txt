@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) am(0.0) honored(0.0) to(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) H.(0.0) Con(1.0) .(0.0) Res(0.0) .(0.0) 444(0.0) ,(0.0) recognizing(1.0) the(0.0) difficult(0.0) ,(0.0) demanding(0.0) and(0.0) 
+essential(0.0) work(0.0) of(0.0) the(0.0) Defense/POW(0.0) Missing(0.0) Personnel(0.0) Office(0.0) ,(0.0) or(0.0) DPMO(1.0) ,(0.0) and(0.0) all(0.0) the(0.0) others(0.0) devoted(0.0) to(0.0) bringing(0.0) home(0.0) 
+fallen(0.0) U.S.(0.0) servicemembers(1.0) .(0.0) DPMO(0.0) makes(0.0) sure(0.0) that(0.0) none(0.0) of(0.0) our(0.0) men(0.0) and(0.0) women(0.0) in(0.0) uniform(1.0) are(0.0) forgotten(0.0) or(0.0) left(0.0) 
+behind(0.0) on(0.0) the(0.0) field(0.0) of(0.0) battle(0.0) .(0.0) This(0.0) Friday(0.0) ,(0.0) we(0.0) will(0.0) observe(0.0) National(0.0) POW/MIA(1.0) Recognition(0.0) Day(0.0) ,(0.0) and(0.0) I(0.0) 
+am(0.0) pleased(0.0) that(0.0) passage(1.0) of(0.0) this(0.0) resolution(1.0) will(0.0) send(0.0) a(0.0) message(0.0) of(0.0) sincere(0.0) thanks(0.0) to(0.0) all(0.0) who(0.0) remain(0.0) dedicated(0.0) ,(0.0) 
+vigilant(0.0) and(0.0) loyal(0.0) to(0.0) unaccounted(1.0) for(0.0) Americans(1.0) .(0.0) Although(0.0) he(0.0) can(0.0) not(0.0) be(0.0) here(0.0) with(0.0) us(0.0) tonight(0.0) ,(0.0) I(0.0) would(0.0) 
+like(0.0) to(0.0) recognize(0.0) my(0.0) colleague(0.0) and(0.0) fellow(0.0) Vietnam(1.0) veteran(0.0) Congressman(1.0) Lane(1.0) Evans(1.0) ,(0.0) who(0.0) was(0.0) a(0.0) cosponsor(1.0) of(0.0) this(0.0) resolution(1.0) 
+and(0.0) a(0.0) fellow(0.0) member(0.0) of(0.0) the(0.0) House(0.0) Armed(0.0) Services(0.0) Committee(0.0) .(0.0) My(0.0) good(0.0) friend(0.0) from(0.0) Illinois(1.0) also(0.0) shares(0.0) with(0.0) me(0.0) 
+co-chair(0.0) responsibilities(0.0) on(0.0) the(0.0) United(0.0) States-Vietnam(0.0) Congressional(0.0) Caucus(1.0) which(1.0) we(0.0) established(0.0) several(0.0) years(0.0) ago(0.0) .(0.0) Congressman(1.0) Evans(1.0) is(0.0) retiring(0.0) at(0.0) 
+the(0.0) end(0.0) of(0.0) this(0.0) Congress(0.0) ,(0.0) and(0.0) I(0.0) thank(0.0) him(0.0) for(0.0) his(0.0) friendship(0.0) and(0.0) for(0.0) his(0.0) service(0.0) .(0.0) He(0.0) is(0.0) 
+a(0.0) former(0.0) marine(0.0) ,(0.0) and(0.0) he(0.0) has(0.0) been(0.0) a(0.0) great(0.0) friend(0.0) to(0.0) members(0.0) of(0.0) all(0.0) the(0.0) branches(0.0) of(0.0) service(0.0) .(0.0) 
+I(0.0) say(0.0) to(0.0) him(0.0) tonight(0.0) ,(0.0) Lane(0.0) ,(0.0) Semper(1.0) Fi(0.0) .(0.0) This(0.0) resolution(1.0) tonight(0.0) is(0.0) especially(0.0) meaningful(0.0) to(0.0) Connecticut's(0.0) Second(1.0) 
+District(0.0) .(0.0) In(0.0) June(0.0) 1972(0.0) ,(0.0) CPT(0.0) Arnold(1.0) Holm(1.0) of(0.0) Waterford(0.0) ,(0.0) Connecticut(1.0) ,(0.0) was(0.0) shot(0.0) down(0.0) over(0.0) the(0.0) central(0.0) 
+highlands(0.0) of(0.0) Vietnam(0.0) .(0.0) Captain(0.0) Holm(0.0) and(0.0) the(0.0) two(0.0) members(0.0) of(0.0) his(0.0) flight(0.0) crew(0.0) ,(0.0) PFC(0.0) Wayne(1.0) Bibbs(1.0) and(0.0) SP4(0.0) 
+Robin(0.0) Yeakley(1.0) ,(0.0) were(0.0) officially(0.0) listed(0.0) as(0.0) missing(0.0) in(0.0) action(0.0) .(0.0) Numerous(0.0) searches(0.0) for(0.0) the(0.0) crash(0.0) site(0.0) of(0.0) their(0.0) helicopter(0.0) 
+were(0.0) unsuccessful(0.0) ,(0.0) but(0.0) the(0.0) dedicated(0.0) individuals(0.0) of(0.0) the(0.0) DPMO(0.0) did(0.0) not(0.0) give(0.0) up(0.0) .(0.0) Just(0.0) a(0.0) few(0.0) weeks(0.0) ago(0.0) 
+,(0.0) nearly(0.0) 35(0.0) years(0.0) after(0.0) the(0.0) helicopter(0.0) was(0.0) shot(0.0) down(0.0) ,(0.0) the(0.0) field(0.0) team(0.0) in(0.0) Vietnam(0.0) appears(0.0) to(0.0) have(0.0) located(0.0) 
+Captain(0.0) Holm's(0.0) crash(0.0) site(0.0) .(0.0) I(0.0) can(0.0) not(0.0) tell(0.0) you(0.0) what(0.0) this(0.0) means(0.0) to(0.0) his(0.0) wife(0.0) Margarete(0.0) Holm(0.0) and(0.0) to(0.0) 
+the(0.0) family(0.0) .(0.0) It(0.0) brings(0.0) a(0.0) sense(0.0) of(0.0) closure(0.0) that(0.0) is(0.0) indescribable(0.0) to(0.0) anyone(0.0) who(0.0) has(0.0) not(0.0) experienced(0.0) the(0.0) profound(0.0) 
+emotions(0.0) of(0.0) personal(0.0) loss(0.0) that(0.0) goes(0.0) with(0.0) having(0.0) a(0.0) family(0.0) member(0.0) as(0.0) missing(0.0) in(0.0) action(1.0) .(0.0) This(0.0) resolution(1.0) gives(0.0) thanks(0.0) 
+to(0.0) all(0.0) of(0.0) those(0.0) who(0.0) have(0.0) worked(0.0) to(0.0) bring(0.0) home(0.0) America(1.0) 's(0.0) POWs(1.0) and(0.0) MIAs(1.0) .(0.0) It(0.0) reaffirms(1.0) our(0.0) commitment(1.0) 
+to(0.0) our(0.0) fellow(0.0) Americans(1.0) who(0.0) have(0.0) earned(0.0) the(0.0) right(0.0) to(0.0) be(0.0) called(0.0) heroes(0.0) .(0.0) Americans(1.0) are(0.0) unique(0.0) in(0.0) this(0.0) regard(1.0) 
+because(0.0) we(0.0) never(0.0) leave(0.0) our(0.0) own(0.0) behind(0.0) .(0.0) It(0.0) is(0.0) part(0.0) of(0.0) our(0.0) national(1.0) character(0.0) that(0.0) we(0.0) do(0.0) not(0.0) write(0.0) 
+off(0.0) those(0.0) lost(0.0) in(0.0) defense(1.0) of(0.0) our(0.0) Nation(1.0) ,(0.0) no(0.0) matter(0.0) where(0.0) they(0.0) are(0.0) ,(0.0) no(0.0) matter(0.0) how(0.0) long(0.0) they(0.0) 
+have(0.0) been(0.0) lost(0.0) .(0.0) The(0.0) U.S.(0.0) Army(0.0) Central(0.0) Identification(0.0) Laboratory(0.0) located(0.0) in(0.0) Hawaii(1.0) has(0.0) an(0.0) important(0.0) mission(0.0) .(0.0) Their(0.0) 
+
+
+----- below are rationale words -----
+
+Con	recognizing	
+DPMO	
+servicemembers	uniform	
+POW/MIA	
+passage	resolution	
+unaccounted	Americans	
+Vietnam	Congressman	Lane	Evans	cosponsor	resolution	
+Illinois	
+Caucus	which	Congressman	Evans	
+
+
+Semper	resolution	Second	
+Arnold	Holm	Connecticut	
+Wayne	Bibbs	
+Yeakley	
+
+
+
+
+action	resolution	
+America	POWs	MIAs	reaffirms	commitment	
+Americans	Americans	regard	
+national	
+defense	Nation	
+Hawaii	
+
+reads % = 0.088

@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) thousands(0.0) of(0.0) children(0.0) are(0.0) reported(0.0) missing(0.0) each(0.0) year(0.0) .(0.0) To(0.0) many(0.0) of(0.0) us(0.0) ,(0.0) the(0.0) numbers(0.0) are(0.0) nothing(0.0) more(0.0) 
+than(0.0) statistics(0.0) ,(0.0) albeit(0.0) tragic(0.0) statistics(0.0) .(0.0) But(0.0) to(0.0) a(0.0) unique(0.0) group(0.0) of(0.0) people(0.0) ,(0.0) these(0.0) numbers(0.0) represent(0.0) the(0.0) pain(0.0) 
+and(0.0) uncertainty(0.0) that(0.0) accompanies(0.0) the(0.0) loss(0.0) of(0.0) a(0.0) child(0.0) ,(0.0) grandchild(0.0) ,(0.0) brother(0.0) ,(0.0) sister(0.0) ,(0.0) or(0.0) friend(0.0) .(0.0) We(0.0) 
+should(0.0) be(0.0) using(0.0) every(0.0) resource(1.0) within(0.0) our(0.0) power(0.0) to(0.0) find(0.0) children(0.0) who(0.0) are(0.0) missing(0.0) or(0.0) to(0.0) get(0.0) information(0.0) about(0.0) them(0.0) 
+to(0.0) their(0.0) families(0.0) .(0.0) We(0.0) have(0.0) the(0.0) technology(0.0) to(0.0) find(0.0) most(0.0) of(0.0) these(0.0) children(0.0) ,(0.0) but(0.0) as(0.0) is(0.0) often(0.0) the(0.0) 
+case(0.0) ,(0.0) the(0.0) technology(0.0) is(0.0) not(0.0) being(0.0) used(0.0) to(0.0) its(0.0) fullest(0.0) capability(0.0) .(0.0) Jennifer(0.0) 's(0.0) law(1.0) will(0.0) help(0.0) solve(0.0) this(0.0) 
+dilemma(1.0) .(0.0) Linking(0.0) national(1.0) missing(0.0) person(0.0) files(0.0) and(0.0) unidentified(0.0) persons(0.0) files(0.0) will(0.0) make(0.0) it(0.0) much(0.0) easier(0.0) for(0.0) local(0.0) ,(0.0) State(1.0) 
+,(0.0) and(0.0) Federal(1.0) law(1.0) enforcement(1.0) officials(1.0) to(0.0) get(0.0) all(0.0) of(0.0) the(0.0) information(0.0) they(0.0) need(0.0) to(0.0) solve(0.0) a(0.0) missing(0.0) persons(0.0) case(0.0) 
+.(0.0) We(0.0) would(0.0) like(0.0) to(0.0) reunite(0.0) every(0.0) missing(0.0) child(0.0) with(0.0) their(0.0) families(0.0) ,(0.0) but(0.0) in(0.0) reality(1.0) this(0.0) is(0.0) not(0.0) always(0.0) 
+possible(0.0) .(0.0) Even(0.0) so(0.0) ,(0.0) families(0.0) with(0.0) missing(0.0) children(0.0) deserve(1.0) to(0.0) have(0.0) an(0.0) end(0.0) to(0.0) their(0.0) suffering(0.0) and(0.0) a(0.0) sense(0.0) 
+of(0.0) closure(0.0) .(0.0) Jennifer(0.0) 's(0.0) law(1.0) will(0.0) help(0.0) make(0.0) this(0.0) possible(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+
+resource	
+
+law	
+dilemma	national	State	
+Federal	law	enforcement	officials	
+reality	
+deserve	
+law	
+
+reads % = 0.056338028169014086

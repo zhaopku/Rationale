@@ -1,0 +1,40 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) 10(0.0) years(0.0) ago(0.0) ,(0.0) the(0.0) Congress(0.0) 
+designated(0.0) May(0.0) 11(0.0) ,(0.0) 1994(0.0) ,(0.0) as(0.0) Vietnam(0.0) Human(0.0) Rights(0.0) Day(0.0) through(0.0) a(0.0) joint(0.0) resolution(0.0) that(0.0) became(0.0) Public(0.0) Law(0.0) 103-258(0.0) 
+.(0.0) The(0.0) resolution(0.0) was(0.0) introduced(0.0) in(0.0) response(0.0) to(0.0) the(0.0) issuance(0.0) of(0.0) the(0.0) Manifesto(0.0) of(0.0) the(0.0) Nonviolent(1.0) Movement(0.0) For(0.0) Human(0.0) Rights(1.0) 
+in(0.0) Vietnam(1.0) .(0.0) That(0.0) manifesto(1.0) ,(0.0) written(0.0) by(0.0) the(0.0) great(0.0) human(0.0) rights(1.0) leader(0.0) Dr.(0.0) Nguyen(1.0) Dan(1.0) Que(1.0) ,(0.0) intended(0.0) to(0.0) 
+push(0.0) pressure(0.0) on(0.0) the(0.0) Socialist(1.0) regime(1.0) in(0.0) Hanoi(0.0) to(0.0) respect(0.0) the(0.0) human(0.0) rights(1.0) of(0.0) all(0.0) Vietnamese(0.0) citizens(0.0) .(0.0) This(0.0) is(0.0) 
+the(0.0) tenth(0.0) anniversary(0.0) of(0.0) the(0.0) Vietnam(0.0) Human(0.0) Rights(1.0) Day(0.0) ,(0.0) which(0.0) is(0.0) the(0.0) focus(0.0) of(0.0) House(0.0) Resolution(1.0) 622(0.0) ,(0.0) before(0.0) 
+us(0.0) today(0.0) .(0.0) The(0.0) distinguished(0.0) chairman(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Government(0.0) Reform(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Virginia(1.0) ((0.0) Mr.(0.0) Tom(1.0) 
+Davis(1.0) )(0.0) ,(0.0) brought(0.0) forth(0.0) this(0.0) important(0.0) resolution(0.0) ,(0.0) and(0.0) I(0.0) commend(0.0) him(0.0) for(0.0) introducing(0.0) this(0.0) important(0.0) measure(1.0) .(0.0) Mr.(0.0) 
+Speaker(1.0) ,(0.0) while(0.0) progress(0.0) has(0.0) been(0.0) made(0.0) in(0.0) the(0.0) fight(1.0) for(0.0) a(0.0) free(0.0) and(0.0) democratic(1.0) Vietnam(1.0) ,(0.0) the(0.0) regime(1.0) there(0.0) 
+continues(0.0) to(0.0) imprison(1.0) ,(0.0) to(0.0) attack(1.0) ,(0.0) torture(1.0) ,(0.0) kill(0.0) ,(0.0) and(0.0) otherwise(0.0) persecute(1.0) many(0.0) of(0.0) those(0.0) who(0.0) publicly(0.0) express(0.0) 
+their(0.0) views(0.0) .(0.0) This(0.0) resolution(1.0) aims(0.0) to(0.0) generate(0.0) valuable(0.0) awareness(0.0) to(0.0) Hanoi(0.0) 's(0.0) uncivilized(1.0) treatment(0.0) of(0.0) political(1.0) dissidents(1.0) ,(0.0) and(0.0) 
+I(0.0) am(0.0) pleased(0.0) the(0.0) House(0.0) is(0.0) considering(0.0) it(0.0) this(0.0) afternoon(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) it(0.0) is(0.0) easy(0.0) to(0.0) take(0.0) for(0.0) 
+granted(1.0) our(0.0) Nation(1.0) 's(0.0) priceless(0.0) freedoms(1.0) of(0.0) speech(1.0) and(0.0) expression(0.0) and(0.0) ,(0.0) conversely(0.0) ,(0.0) to(0.0) lose(0.0) track(0.0) of(0.0) the(0.0) reality(0.0) 
+that(0.0) countless(0.0) people(0.0) around(0.0) the(0.0) world(0.0) in(0.0) fact(0.0) pay(1.0) a(0.0) great(0.0) price(0.0) to(0.0) express(0.0) their(0.0) view(0.0) .(0.0) On(0.0) its(0.0) tenth(0.0) 
+anniversary(0.0) ,(0.0) the(0.0) principles(1.0) of(0.0) Vietnam(1.0) Human(0.0) Rights(1.0) Day(0.0) continue(0.0) to(0.0) act(0.0) as(0.0) an(0.0) important(0.0) defense(1.0) of(0.0) the(0.0) liberties(1.0) and(0.0) 
+freedoms(1.0) of(0.0) the(0.0) Vietnamese(1.0) people(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	
+
+Nonviolent	Rights	
+Vietnam	manifesto	rights	Nguyen	Dan	Que	
+Socialist	regime	rights	
+Rights	Resolution	
+Virginia	Tom	
+Davis	measure	
+Speaker	fight	democratic	Vietnam	regime	
+imprison	attack	torture	persecute	
+resolution	uncivilized	political	dissidents	
+Speaker	
+granted	Nation	freedoms	speech	
+pay	
+principles	Vietnam	Rights	defense	liberties	
+freedoms	Vietnamese	Speaker	
+
+reads % = 0.14150943396226415

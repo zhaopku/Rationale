@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) pass(0.0) the(0.0) bill(0.0) ((1.0) H.R(1.0) .(0.0) 1954(0.0) )(0.0) to(0.0) extend(0.0) the(0.0) authorities(0.0) 
+of(0.0) the(0.0) Iran(0.0) and(0.0) Libya(0.0) Sanctions(0.0) Act(0.0) of(0.0) 1996(0.0) until(0.0) 2006(0.0) ,(0.0) as(0.0) amended(0.0) .(0.0) The(0.0) Clerk(0.0) read(0.0) as(0.0) follows(0.0) 
+:(0.0) H.R(0.0) .(0.0) 1954(0.0) Be(0.0) it(0.0) enacted(0.0) by(0.0) the(0.0) Senate(0.0) and(0.0) House(0.0) of(0.0) Representatives(0.0) of(0.0) the(0.0) United(0.0) States(0.0) of(0.0) America(0.0) 
+in(0.0) Congress(0.0) assembled(0.0) ,(0.0) SECTION(0.0) 1(0.0) .(0.0) SHORT(0.0) TITLE(0.0) .(0.0) This(0.0) Act(0.0) may(0.0) be(0.0) cited(0.0) as(0.0) the(0.0) ``(0.0) ILSA(0.0) Extension(0.0) 
+Act(0.0) of(0.0) 2001(0.0) ''(0.0) .(0.0) SEC(0.0) .(0.0) 2(0.0) .(0.0) IMPOSITION(0.0) OF(0.0) SANCTIONS(0.0) WITH(0.0) RESPECT(0.0) TO(0.0) LIBYA(0.0) .(0.0) ((0.0) a(0.0) )(0.0) 
+In(0.0) General.(0.0) --(0.0) Section(0.0) 5(0.0) ((0.0) b(0.0) )(0.0) ((0.0) 2(0.0) )(0.0) of(0.0) the(0.0) Iran(0.0) and(0.0) Libya(0.0) Sanctions(0.0) Act(0.0) of(0.0) 1996(0.0) 
+((0.0) 50(0.0) U.S.C(0.0) .(0.0) 1701(0.0) note(0.0) ;(0.0) 110(0.0) Stat(0.0) .(0.0) 1543(0.0) )(0.0) is(0.0) amended(0.0) by(0.0) striking(0.0) ``(0.0) $(0.0) 40,000,000(0.0) ''(0.0) 
+each(0.0) place(0.0) it(0.0) appears(0.0) and(0.0) inserting(0.0) ``(0.0) $(0.0) 20,000,000(0.0) ''(0.0) .(0.0) ((0.0) b(0.0) )(0.0) Effective(0.0) Date.(0.0) --(0.0) The(0.0) amendments(0.0) made(0.0) 
+by(0.0) subsection(0.0) ((0.0) a(0.0) )(0.0) shall(0.0) apply(0.0) to(0.0) investments(0.0) made(0.0) on(0.0) or(0.0) after(0.0) June(0.0) 13(0.0) ,(0.0) 2001(0.0) .(0.0) SEC(0.0) .(0.0) 
+3(0.0) .(0.0) REPORTS(0.0) REQUIRED(0.0) .(0.0) Section(0.0) 10(0.0) of(0.0) the(0.0) Iran(0.0) and(0.0) Libya(0.0) Sanctions(0.0) Act(0.0) of(0.0) 1996(0.0) ((0.0) Public(0.0) Law(0.0) 104-172(0.0) 
+;(0.0) 50(0.0) U.S.C(0.0) .(0.0) 1701(0.0) note(0.0) )(0.0) is(0.0) amended(0.0) --(0.0) ((0.0) 1(0.0) )(0.0) by(0.0) redesignating(1.0) subsection(0.0) ((0.0) b(0.0) )(0.0) as(0.0) 
+subsection(0.0) ((0.0) c(0.0) )(0.0) ;(0.0) and(0.0) ((0.0) 2(0.0) )(0.0) by(0.0) inserting(0.0) after(0.0) subsection(0.0) ((0.0) a(0.0) )(0.0) the(0.0) following(0.0) :(0.0) ``(0.0) 
+((0.0) b(0.0) )(0.0) Report(0.0) on(0.0) Effectiveness(0.0) of(0.0) Actions(0.0) Under(0.0) This(0.0) Act.(0.0) --(0.0) Not(0.0) earlier(0.0) than(0.0) 24(0.0) months(0.0) ,(0.0) and(0.0) not(0.0) 
+later(0.0) than(0.0) 30(0.0) months(0.0) ,(0.0) after(0.0) the(0.0) date(0.0) of(0.0) the(0.0) enactment(0.0) of(0.0) the(0.0) ILSA(0.0) Extension(0.0) Act(0.0) of(0.0) 2001(0.0) ,(0.0) the(0.0) 
+President(0.0) shall(0.0) transmit(0.0) to(0.0) Congress(0.0) a(0.0) report(0.0) that(0.0) describes(0.0) --(0.0) ``(0.0) ((0.0) 1(0.0) )(0.0) the(0.0) extent(0.0) to(0.0) which(0.0) actions(0.0) relating(0.0) 
+to(0.0) trade(0.0) taken(0.0) pursuant(0.0) to(0.0) this(0.0) Act(0.0) --(0.0) ``(0.0) ((0.0) A(0.0) )(0.0) have(0.0) been(0.0) effective(0.0) in(0.0) achieving(0.0) the(0.0) objectives(0.0) of(0.0) 
+section(0.0) 3(0.0) and(0.0) any(0.0) other(0.0) foreign(0.0) policy(0.0) or(0.0) national(0.0) security(0.0) objectives(0.0) of(0.0) the(0.0) United(0.0) States(0.0) with(0.0) respect(0.0) to(0.0) Iran(0.0) and(0.0) 
+Libya(0.0) ;(0.0) and(0.0) ``(0.0) ((0.0) B(0.0) )(0.0) have(0.0) affected(0.0) humanitarian(0.0) interests(0.0) in(0.0) Iran(0.0) and(0.0) Libya(0.0) ,(0.0) the(0.0) country(0.0) in(0.0) which(0.0) 
+the(0.0) sanctioned(0.0) person(0.0) is(0.0) located(0.0) ,(0.0) or(0.0) in(0.0) other(0.0) countries(0.0) ;(0.0) and(0.0) ``(0.0) ((0.0) 2(0.0) )(0.0) the(0.0) impact(0.0) of(0.0) actions(0.0) 
+relating(0.0) to(0.0) trade(0.0) taken(0.0) pursuant(0.0) to(0.0) this(0.0) Act(0.0) on(0.0) other(0.0) national(0.0) security(0.0) ,(0.0) economic(0.0) ,(0.0) and(0.0) foreign(0.0) policy(0.0) interests(0.0) of(0.0) 
+the(0.0) United(0.0) States(0.0) ,(0.0) including(0.0) relations(0.0) with(0.0) countries(0.0) friendly(0.0) to(0.0) the(0.0) United(0.0) States(0.0) ,(0.0) and(0.0) on(0.0) the(0.0) United(0.0) States(0.0) economy(0.0) 
+.(0.0) The(0.0) President(0.0) may(0.0) include(0.0) in(0.0) the(0.0) report(0.0) the(0.0) President's(0.0) recommendation(0.0) on(0.0) whether(0.0) or(0.0) not(0.0) this(0.0) Act(0.0) should(0.0) be(0.0) terminated(0.0) 
+or(0.0) modified.(0.0) ''(0.0) .(0.0) SEC(0.0) .(0.0) 4(0.0) .(0.0) EXTENSION(0.0) OF(0.0) IRAN(0.0) AND(0.0) LIBYA(0.0) SANCTIONS(0.0) ACT(0.0) OF(0.0) 1996(0.0) .(0.0) Section(0.0) 13(0.0) 
+((0.0) b(0.0) )(0.0) of(0.0) the(0.0) Iran(0.0) and(0.0) Libya(0.0) Sanctions(0.0) Act(0.0) of(0.0) 1996(0.0) ((0.0) Public(0.0) Law(0.0) 104-172(0.0) ;(0.0) 50(0.0) U.S.C(0.0) .(0.0) 
+1701(0.0) note(0.0) )(0.0) is(0.0) amended(0.0) by(0.0) striking(0.0) ``(0.0) 5(0.0) years(0.0) ''(0.0) and(0.0) inserting(0.0) ``(0.0) 10(0.0) years(0.0) ''(0.0) .(0.0) SEC(0.0) 
+
+
+----- below are rationale words -----
+
+(	H.R	
+
+
+
+
+
+
+
+
+
+redesignating	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+reads % = 0.006

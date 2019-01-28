@@ -1,0 +1,24 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) the(0.0) CIA(1.0) has(0.0) taken(0.0) deceit(1.0) to(0.0) a(0.0) whole(0.0) new(0.0) art(0.0) form(1.0) .(0.0) Check(1.0) this(0.0) out(1.0) .(0.0) The(0.0) CIA(1.0) lied(1.0) 
+to(0.0) Congress(0.0) about(0.0) mining(0.0) the(0.0) harbors(1.0) in(0.0) Nicaragua(1.0) ,(0.0) lied(1.0) to(0.0) us(0.0) about(0.0) assassination(1.0) booklets(1.0) in(0.0) Nicaragua(1.0) ,(0.0) lied(1.0) to(0.0) 
+Congress(0.0) about(0.0) Pan(0.0) Am(0.0) 103(0.0) ,(0.0) lied(1.0) to(0.0) Congress(0.0) about(0.0) Iran-Contra(0.0) sales(1.0) ,(0.0) lied(1.0) to(0.0) Congress(0.0) about(0.0) the(0.0) death(1.0) of(0.0) 
+Frank(1.0) Olson(1.0) ,(0.0) but(0.0) now(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) this(0.0) is(0.0) the(0.0) big(1.0) lie(0.0) ,(0.0) el(1.0) supremo(1.0) fibbo(1.0) .(0.0) They(0.0) 
+are(0.0) building(0.0) a(0.0) $(0.0) 350(0.0) million(0.0) Taj(1.0) Mahal(1.0) ,(0.0) 1(0.0) million(0.0) square(1.0) feet(0.0) ,(0.0) and(0.0) guess(1.0) what(0.0) they(0.0) told(0.0) Congress(0.0) 
+:(1.0) It(0.0) was(0.0) an(0.0) office(0.0) building(0.0) for(0.0) Rockwell(0.0) International(0.0) .(0.0) Beam(1.0) me(0.0) up(0.0) ,(0.0) folks(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) 
+say(1.0) we(0.0) should(0.0) convert(0.0) that(0.0) Taj(1.0) Mahal(1.0) to(0.0) a(0.0) prison(1.0) and(0.0) start(0.0) up(0.0) by(0.0) locking(0.0) up(0.0) these(0.0) lying(1.0) ,(0.0) thieving(1.0) 
+,(0.0) stealing(1.0) CIA(1.0) nincompoops(1.0) .(0.0) That(0.0) would(1.0) be(0.0) cost(0.0) effective(0.0) and(0.0) even(0.0) intelligent(0.0) .(0.0) Think(1.0) about(0.0) it(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+CIA	deceit	form	Check	out	CIA	lied	
+harbors	Nicaragua	lied	assassination	booklets	Nicaragua	lied	
+lied	sales	lied	death	
+Frank	Olson	Speaker	big	el	supremo	fibbo	
+Taj	Mahal	square	guess	
+:	Beam	Speaker	
+say	Taj	Mahal	prison	lying	thieving	
+stealing	CIA	nincompoops	would	Think	
+
+reads % = 0.27044025157232704

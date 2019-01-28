@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+The(0.0) Republicans(0.0) have(1.0) been(1.0) very(1.0) big(1.0) on(1.0) deficit(1.0) reduction(1.0) and(1.0) very(1.0) much(1.0) against(1.0) earmarks(1.0) .(1.0) And(0.0) now(1.0) ,(0.0) with(0.0) this(0.0) amendment(1.0) 
+you're(0.0) proposing(1.0) it(0.0) seems(0.0) to(0.0) fly(0.0) in(0.0) the(0.0) face(0.0) of(0.0) the(0.0) policy(1.0) of(0.0) your(0.0) own(0.0) party(0.0) that(0.0) you(0.0) want(0.0) to(0.0) 
+take(0.0) out(0.0) of(0.0) the(0.0) Treasury(1.0) $(0.0) 11(0.0) billion(1.0) that(0.0) could(0.0) be(0.0) applied(0.0) to(0.0) deficit(1.0) reduction(1.0) and(0.0) give(0.0) it(0.0) to(0.0) the(0.0) 
+Gulf(1.0) States(0.0) ,(0.0) which(0.0) already(0.0) have(0.0) $(0.0) 150(0.0) billion(1.0) over(0.0) the(0.0) next(0.0) --(0.0) in(0.0) revenue(1.0) coming(0.0) to(0.0) you(0.0) ,(0.0) earmarked(1.0) 
+for(0.0) you(0.0) .(0.0) That(0.0) is(0.0) far(0.0) more(0.0) than(0.0) California(1.0) or(0.0) other(0.0) States(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+have	been	very	big	on	deficit	reduction	and	very	much	against	earmarks	.	now	amendment	
+proposing	policy	
+Treasury	billion	deficit	reduction	
+Gulf	billion	revenue	earmarked	
+California	
+
+reads % = 0.2765957446808511

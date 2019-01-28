@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) does(0.0) the(0.0) majority(1.0) have(0.0) any(0.0) plans(1.0) to(0.0) schedule(0.0) any(0.0) veto(1.0) overrides(1.0) for(0.0) consideration(1.0) of(0.0) the(0.0) House(0.0) ?(0.0) Does(0.0) the(0.0) 
+majority(1.0) have(0.0) any(0.0) plans(0.0) to(0.0) schedule(0.0) any(0.0) veto(1.0) override(1.0) votes(1.0) within(0.0) the(0.0) next(0.0) few(0.0) days(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+majority	plans	veto	overrides	consideration	
+majority	veto	override	votes	
+
+reads % = 0.24324324324324326

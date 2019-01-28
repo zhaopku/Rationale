@@ -1,0 +1,56 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) thank(0.0) our(0.0) distinguished(0.0) ranking(0.0) member(0.0) of(0.0) the(0.0) Telecommunications(0.0) Committee(0.0) in(0.0) the(0.0) House(0.0) .(0.0) And(0.0) everyone(0.0) knows(0.0) that(0.0) when(0.0) 
+he(0.0) speaks(0.0) about(0.0) anything(0.0) that(0.0) is(0.0) related(0.0) to(0.0) telecommunications(1.0) ,(0.0) he(0.0) knows(0.0) of(0.0) what(0.0) he(0.0) speaks(0.0) .(0.0) And(0.0) that(0.0) is(0.0) 
+why(0.0) this(0.0) amendment(1.0) that(0.0) bears(0.0) his(0.0) name(0.0) ,(0.0) and(0.0) I(0.0) am(0.0) proud(0.0) to(0.0) have(0.0) my(0.0) name(0.0) as(0.0) a(0.0) part(0.0) of(0.0) 
+this(0.0) amendment(1.0) as(0.0) well(0.0) ,(0.0) why(0.0) it(0.0) is(0.0) so(0.0) important(0.0) .(0.0) Now(0.0) ,(0.0) for(0.0) people(0.0) that(0.0) are(0.0) listening(0.0) in(0.0) to(0.0) 
+us(0.0) this(0.0) evening(0.0) ,(0.0) what(0.0) is(0.0) this(0.0) debate(1.0) about(0.0) ?(0.0) What(0.0) does(0.0) the(0.0) term(1.0) ``(0.0) net(0.0) neutrality(1.0) ''(0.0) mean(0.0) ?(0.0) 
+I(0.0) think(0.0) the(0.0) better(0.0) way(0.0) to(0.0) describe(0.0) this(0.0) is(0.0) what(0.0) does(0.0) the(0.0) Internet(0.0) look(0.0) like(0.0) today(0.0) ?(0.0) How(0.0) does(0.0) it(0.0) 
+function(0.0) ?(0.0) What(0.0) does(0.0) it(0.0) represent(0.0) ?(0.0) What(0.0) are(0.0) the(0.0) opportunities(0.0) ?(0.0) Who(0.0) takes(0.0) advantage(0.0) of(0.0) these(0.0) opportunities(0.0) ?(0.0) Is(0.0) 
+anyone(0.0) discriminated(1.0) against(0.0) when(0.0) they(0.0) go(0.0) to(0.0) use(0.0) the(0.0) Internet(0.0) ?(0.0) Whether(0.0) it(0.0) is(0.0) a(0.0) small(0.0) Web(0.0) company(0.0) ,(0.0) whether(0.0) 
+it(0.0) is(0.0) an(0.0) individual(0.0) user(0.0) ,(0.0) whether(0.0) it(0.0) is(0.0) a(0.0) university(0.0) ,(0.0) a(0.0) library(0.0) ,(0.0) a(0.0) school(0.0) ,(0.0) seniors(1.0) in(0.0) 
+the(0.0) senior(0.0) center(0.0) ,(0.0) those(0.0) that(0.0) are(0.0) at(0.0) home(0.0) ,(0.0) those(0.0) of(0.0) us(0.0) in(0.0) Congress(1.0) ,(0.0) our(0.0) staff(0.0) ,(0.0) it(0.0) 
+is(0.0) not(0.0) discriminatory(1.0) .(0.0) It(0.0) is(0.0) open(0.0) .(0.0) Everyone(0.0) has(0.0) equal(0.0) access(0.0) to(0.0) it(0.0) .(0.0) So(0.0) what(0.0) is(0.0) this(0.0) debate(1.0) 
+about(0.0) ?(0.0) The(0.0) telephone(0.0) companies(0.0) ,(0.0) and(0.0) let(0.0) 's(0.0) face(0.0) it(0.0) ,(0.0) if(0.0) they(0.0) really(0.0) were(0.0) in(0.0) charge(0.0) of(0.0) the(0.0) 
+future(0.0) ,(0.0) they(0.0) would(0.0) have(0.0) allowed(0.0) cell(0.0) phones(0.0) ,(0.0) and(0.0) they(0.0) did(0.0) n't(0.0) .(0.0) I(0.0) mean(0.0) ,(0.0) these(0.0) people(0.0) are(0.0) 
+really(0.0) part(0.0) of(0.0) the(0.0) past(0.0) ,(0.0) I(0.0) am(0.0) sorry(0.0) to(0.0) say(0.0) .(0.0) So(0.0) what(0.0) this(0.0) is(0.0) is(0.0) a(0.0) profound(0.0) change(0.0) 
+to(0.0) the(0.0) Internet(0.0) .(0.0) What(0.0) will(0.0) the(0.0) change(0.0) be(0.0) ?(0.0) The(0.0) telephone(0.0) companies(0.0) have(0.0) come(0.0) to(0.0) the(0.0) Congress(0.0) and(0.0) said(0.0) 
+,(0.0) change(0.0) the(0.0) rules(1.0) .(0.0) Rewrite(0.0) the(0.0) rules(0.0) .(0.0) We(0.0) want(0.0) to(0.0) be(0.0) able(0.0) to(0.0) offer(0.0) our(0.0) own(0.0) tier(0.0) ,(0.0) 
+our(0.0) own(0.0) speed(0.0) and(0.0) charge(0.0) for(0.0) it(0.0) .(0.0) I(0.0) think(0.0) that(0.0) this(0.0) is(0.0) flawed(1.0) ,(0.0) deeply(0.0) flawed(1.0) .(0.0) And(0.0) I(0.0) 
+think(0.0) if(0.0) we(0.0) move(0.0) in(0.0) this(0.0) direction(0.0) ,(0.0) we(0.0) will(0.0) be(0.0) moving(0.0) away(0.0) from(0.0) the(0.0) future(0.0) .(0.0) This(0.0) debate(1.0) is(0.0) 
+really(0.0) all(0.0) about(0.0) the(0.0) future(0.0) ,(0.0) the(0.0) future(0.0) of(0.0) the(0.0) Internet(0.0) and(0.0) what(0.0) we(0.0) want(0.0) it(0.0) to(0.0) look(0.0) like(0.0) .(0.0) 
+Our(0.0) Republican(1.0) friends(1.0) have(1.0) done(1.0) some(1.0) real(1.0) heavy(1.0) lifting(1.0) here(1.0) .(1.0) Some(1.0) Democrats(1.0) too(1.0) ,(1.0) but(1.0) I(0.0) will(0.0) tell(0.0) you(0.0) 
+something(0.0) .(0.0) I(0.0) take(0.0) my(0.0) hat(0.0) off(0.0) to(0.0) the(0.0) Republicans(1.0) .(1.0) They(1.0) have(1.0) done(1.0) everything(1.0) for(1.0) the(1.0) telephone(0.0) companies(1.0) ,(0.0) 
+everything(0.0) ,(0.0) at(0.0) a(0.0) cost(0.0) to(0.0) what(0.0) is(0.0) one(0.0) of(0.0) the(0.0) greatest(0.0) sources(0.0) of(0.0) pride(1.0) of(0.0) America(1.0) ,(0.0) a(0.0) free(0.0) 
+and(0.0) open(0.0) Internet(0.0) that(0.0) is(0.0) accessible(0.0) to(0.0) everyone(0.0) .(0.0) It(0.0) has(0.0) worked(0.0) .(0.0) We(0.0) are(0.0) the(0.0) envy(0.0) of(0.0) the(0.0) world(0.0) 
+as(0.0) a(0.0) result(0.0) of(0.0) it(0.0) .(0.0) We(0.0) should(0.0) not(0.0) tamper(0.0) with(0.0) it(0.0) .(0.0) Vote(1.0) for(0.0) net(0.0) neutrality(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+telecommunications	
+amendment	
+amendment	
+debate	term	neutrality	
+
+
+discriminated	
+seniors	
+Congress	
+discriminatory	debate	
+
+
+
+
+rules	
+flawed	flawed	
+debate	
+
+Republican	friends	have	done	some	real	heavy	lifting	here	.	Some	Democrats	too	,	but	
+Republicans	.	They	have	done	everything	for	the	companies	
+pride	America	
+
+Vote	neutrality	
+
+reads % = 0.08977035490605428

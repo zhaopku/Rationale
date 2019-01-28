@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) a(0.0) lot(0.0) of(0.0) people(0.0) on(0.0) the(0.0) other(0.0) side(0.0) have(0.0) one(0.0) crucial(0.0) fact(0.0) wrong(0.0) --(0.0) capping(1.0) medical(1.0) malpractice(1.0) awards(0.0) does(0.0) 
+not(0.0) mean(0.0) insurance(1.0) rates(0.0) will(0.0) fall(0.0) .(0.0) I(0.0) have(0.0) charts(0.0) here(0.0) that(0.0) compare(0.0) the(0.0) average(0.0) insurance(0.0) premium(0.0) for(0.0) states(1.0) with(0.0) 
+damage(0.0) caps(1.0) versus(0.0) the(0.0) average(0.0) insurance(0.0) premium(0.0) for(0.0) states(1.0) with(0.0) no(0.0) caps(0.0) .(0.0) For(0.0) OB/GYN(0.0) doctors(1.0) ,(0.0) supposedly(0.0) a(0.0) group(0.0) 
+especially(0.0) hard(0.0) hit(0.0) by(0.0) medical(1.0) malpractice(1.0) awards(0.0) --(0.0) we(0.0) find(0.0) that(0.0) OB/GYNs(1.0) in(0.0) states(1.0) without(0.0) caps(1.0) on(0.0) damages(1.0) pay(1.0) $(0.0) 
+44,485(0.0) in(0.0) insurance(1.0) .(0.0) OB/GYNs(0.0) in(0.0) states(1.0) with(0.0) caps(1.0) on(0.0) damages(1.0) pay(1.0) $(0.0) 43,010(0.0) --(0.0) a(0.0) ``(0.0) whopping(0.0) ''(0.0) 3.4(0.0) 
+percent(0.0) difference(0.0) .(0.0) For(0.0) general(0.0) surgery(0.0) doctors(0.0) ,(0.0) they(0.0) pay(1.0) $(0.0) 26,144(0.0) in(0.0) premiums(1.0) if(0.0) they(0.0) are(0.0) in(0.0) a(0.0) state(0.0) 
+with(0.0) no(0.0) caps(0.0) on(0.0) damages(1.0) .(0.0) They(0.0) pay(1.0) $(0.0) 602(0.0) more(0.0) --(0.0) not(0.0) less(0.0) --(0.0) if(0.0) their(0.0) state(1.0) caps(1.0) malpractice(1.0) 
+awards(0.0) .(0.0) Look(0.0) ,(0.0) if(0.0) we(0.0) want(0.0) to(0.0) decrease(0.0) medical(1.0) malpractice(1.0) insurance(1.0) costs(1.0) for(0.0) doctors(1.0) ,(0.0) then(0.0) let(0.0) 's(0.0) talk(0.0) 
+about(0.0) that(0.0) .(0.0) Let(0.0) 's(0.0) talk(0.0) about(0.0) investigating(0.0) insurance(1.0) company(0.0) pricing(0.0) practices(1.0) .(0.0) Or(0.0) ,(0.0) if(0.0) we(0.0) want(0.0) to(0.0) cap(1.0) 
+something(0.0) ,(0.0) then(0.0) let(0.0) 's(0.0) cap(1.0) the(0.0) actual(0.0) problem(0.0) ,(0.0) insurance(1.0) rates(0.0) .(0.0) But(0.0) to(0.0) put(0.0) the(0.0) blame(1.0) for(0.0) rising(1.0) 
+insurance(1.0) costs(1.0) on(0.0) victims(1.0) --(0.0) that's(0.0) not(0.0) only(0.0) cruel(1.0) ,(0.0) it(0.0) 's(0.0) completely(0.0) false(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+capping	medical	malpractice	
+insurance	states	
+caps	states	doctors	
+medical	malpractice	OB/GYNs	states	caps	damages	pay	
+insurance	states	caps	damages	pay	
+pay	premiums	
+damages	pay	state	caps	malpractice	
+medical	malpractice	insurance	costs	doctors	
+insurance	practices	cap	
+cap	insurance	blame	rising	
+insurance	costs	victims	cruel	
+
+reads % = 0.19907407407407407

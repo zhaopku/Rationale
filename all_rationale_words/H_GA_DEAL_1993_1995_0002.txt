@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) wish(0.0) to(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) and(0.0) for(0.0) his(0.0) leadership(0.0) on(0.0) my(0.0) side(0.0) of(0.0) the(0.0) aisle(0.0) on(0.0) 
+this(0.0) issue(0.0) and(0.0) to(0.0) the(0.0) chairman(0.0) and(0.0) to(0.0) his(0.0) party(0.0) for(0.0) allowing(0.0) this(0.0) issue(0.0) to(0.0) come(0.0) to(0.0) a(0.0) vote(0.0) .(0.0) 
+I(0.0) would(0.0) like(0.0) to(0.0) speak(0.0) briefly(0.0) on(0.0) the(0.0) issue(0.0) of(0.0) accountability(1.0) .(0.0) It(0.0) has(0.0) been(0.0) said(0.0) that(0.0) ignorance(1.0) is(0.0) bliss(0.0) 
+.(0.0) Perhaps(0.0) so(0.0) ,(0.0) but(0.0) for(0.0) too(0.0) long(0.0) the(0.0) bliss(0.0) of(0.0) this(0.0) body(0.0) has(0.0) fostered(0.0) the(0.0) chaos(1.0) of(0.0) others(0.0) .(0.0) 
+With(0.0) the(0.0) passage(1.0) of(0.0) this(0.0) legislation(1.0) ,(0.0) Congress(0.0) will(0.0) no(0.0) longer(0.0) have(0.0) the(0.0) excuse(1.0) nor(0.0) the(0.0) luxury(0.0) of(0.0) irresponsibility(1.0) ,(0.0) 
+both(0.0) of(0.0) which(0.0) are(0.0) the(0.0) handmaidens(1.0) of(0.0) ignorance(1.0) .(0.0) We(0.0) will(0.0) know(0.0) what(0.0) our(0.0) legislation(1.0) will(0.0) cost(0.0) and(0.0) who(0.0) will(0.0) 
+be(0.0) expected(0.0) to(0.0) pay(0.0) that(0.0) cost(0.0) .(0.0) This(0.0) bill(1.0) will(1.0) not(0.0) prevent(0.0) needed(0.0) legislation(1.0) from(0.0) passing(1.0) ,(0.0) but(0.0) it(0.0) will(0.0) 
+require(0.0) that(0.0) the(0.0) full(0.0) effect(0.0) of(0.0) legislation(1.0) ,(0.0) including(0.0) the(0.0) cost(1.0) ,(0.0) be(0.0) acknowledged(0.0) by(0.0) this(0.0) body(0.0) .(0.0) No(0.0) longer(0.0) 
+will(0.0) Congress(0.0) have(0.0) the(0.0) luxury(0.0) of(0.0) going(0.0) to(0.0) the(0.0) candy(0.0) store(0.0) and(0.0) sampling(0.0) the(0.0) wares(0.0) and(0.0) expecting(0.0) somebody(0.0) else(0.0) to(0.0) 
+pay(1.0) for(0.0) our(0.0) visit(0.0) .(0.0) It(0.0) may(0.0) signal(0.0) the(0.0) end(0.0) of(0.0) an(0.0) era(1.0) of(0.0) bliss(0.0) based(0.0) on(0.0) ignorance(1.0) and(0.0) the(0.0) 
+beginning(0.0) of(0.0) a(0.0) time(0.0) of(0.0) responsibility(0.0) and(0.0) accountability(1.0) based(0.0) on(0.0) facts(0.0) .(0.0) All(0.0) of(0.0) us(0.0) should(0.0) welcome(0.0) this(0.0) new(0.0) era(1.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+accountability	ignorance	
+chaos	
+passage	legislation	excuse	irresponsibility	
+handmaidens	ignorance	legislation	
+bill	will	legislation	passing	
+legislation	cost	
+
+pay	era	ignorance	
+accountability	era	
+
+
+reads % = 0.0945945945945946

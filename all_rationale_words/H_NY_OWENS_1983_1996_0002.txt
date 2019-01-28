@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) ,(0.0) too(0.0) ,(0.0) want(0.0) to(0.0) thank(0.0) my(0.0) colleague(0.0) from(0.0) Connecticut(1.0) for(0.0) this(0.0) special(0.0) order(0.0) and(0.0) focus(0.0) particularly(0.0) on(0.0) 
+senior(0.0) citizens(0.0) .(0.0) Senior(0.0) citizens(1.0) in(0.0) New(1.0) York(1.0) ,(0.0) senior(0.0) citizens(1.0) in(0.0) my(0.0) district(0.0) ,(0.0) certainly(0.0) are(0.0) experiencing(0.0) an(0.0) atmosphere(0.0) 
+of(0.0) terror(1.0) .(0.0) No(0.0) matter(0.0) how(0.0) many(0.0) times(0.0) we(0.0) reassure(0.0) them(0.0) that(0.0) their(0.0) Social(0.0) Security(0.0) checks(0.0) will(0.0) not(0.0) be(0.0) affected(0.0) 
+by(0.0) the(0.0) shutdown(1.0) ;(0.0) the(0.0) fact(0.0) that(0.0) the(0.0) shutdown(1.0) involves(0.0) the(0.0) Department(0.0) of(0.0) Health(0.0) and(0.0) Human(0.0) Services(0.0) ,(0.0) the(0.0) fact(0.0) 
+that(0.0) Donna(0.0) Shalala(1.0) has(0.0) been(0.0) on(0.0) television(0.0) talking(0.0) about(0.0) the(0.0) kinds(0.0) of(0.0) things(0.0) that(0.0) have(0.0) been(0.0) happening(0.0) ,(0.0) even(0.0) though(0.0) 
+she(0.0) reassures(0.0) people(0.0) it(0.0) will(0.0) not(0.0) affect(0.0) their(0.0) Social(0.0) Security(0.0) checks(0.0) ,(0.0) we(0.0) keep(0.0) getting(0.0) the(0.0) calls(0.0) about(0.0) the(0.0) Social(0.0) 
+Security(0.0) checks(0.0) .(0.0) New(0.0) York(1.0) ,(0.0) of(0.0) course(0.0) ,(0.0) has(0.0) to(0.0) bear(0.0) the(0.0) burden(1.0) of(0.0) a(0.0) mean-spirited(1.0) and(0.0) extreme(0.0) approach(0.0) 
+at(0.0) three(0.0) levels(0.0) .(0.0) Not(0.0) only(0.0) do(0.0) we(0.0) have(0.0) a(0.0) shutdown(0.0) in(0.0) Washington(1.0) ,(0.0) but(0.0) we(0.0) have(0.0) a(0.0) mean-spirited(0.0) approach(0.0) 
+in(0.0) Albany(1.0) ,(0.0) where(0.0) the(0.0) Governor(0.0) is(0.0) trying(0.0) to(0.0) get(0.0) ahead(0.0) of(0.0) the(0.0) Republicans(1.0) here(1.0) in(1.0) Congress(1.0) and(1.0) has(1.0) started(0.0) 
+imposing(1.0) new(1.0) rules(1.0) on(0.0) nursing(1.0) homes(0.0) already(0.0) .(0.0) And(0.0) a(0.0) mayor(0.0) who(0.0) is(0.0) also(0.0) in(0.0) sync(0.0) with(0.0) the(0.0) cuts(1.0) of(0.0) 
+Medicare(1.0) and(0.0) Medicaid(1.0) .(0.0) They(0.0) are(0.0) applauding(0.0) .(0.0) So(0.0) when(0.0) we(0.0) have(0.0) a(0.0) mayor(0.0) and(0.0) Governor(0.0) and(0.0) we(0.0) have(0.0) a(0.0) 
+shutdown(0.0) in(0.0) Washington(1.0) ,(0.0) they(0.0) live(0.0) in(0.0) a(0.0) state(1.0) of(0.0) mental(1.0) terror(1.0) .(0.0) Nobody(0.0) is(0.0) going(0.0) to(0.0) do(0.0) them(0.0) physical(0.0) 
+harm(0.0) ,(0.0) and(0.0) probably(0.0) New(0.0) York(1.0) State(0.0) and(0.0) New(0.0) York(1.0) City(1.0) ,(0.0) they(0.0) are(0.0) big(0.0) enough(0.0) to(0.0) borrow(1.0) the(0.0) money(1.0) 
+to(0.0) keep(0.0) the(0.0) Meals(1.0) on(0.0) Wheels(0.0) program(1.0) going(0.0) and(0.0) any(0.0) other(0.0) program(1.0) going(0.0) ,(0.0) but(0.0) the(0.0) state(1.0) of(0.0) terror(1.0) is(0.0) 
+such(0.0) that(0.0) some(0.0) people(0.0) are(0.0) going(0.0) to(0.0) have(0.0) their(0.0) lives(0.0) shortened(0.0) just(0.0) from(0.0) worrying(0.0) themselves(0.0) to(0.0) death(1.0) .(0.0) They(0.0) are(0.0) 
+worried(0.0) because(0.0) the(0.0) mayor(1.0) has(0.0) said(0.0) he(0.0) wants(0.0) to(0.0) sell(0.0) hospitals(1.0) .(0.0) And(0.0) when(0.0) he(0.0) can(0.0) not(0.0) get(0.0) buyers(0.0) for(0.0) 
+the(0.0) hospitals(1.0) ,(0.0) now(0.0) he(0.0) is(0.0) willing(0.0) to(0.0) lease(0.0) hospitals(1.0) .(0.0) Recently(0.0) the(0.0) Governor(0.0) announced(1.0) he(0.0) is(0.0) going(0.0) to(0.0) close(0.0) 
+down(0.0) one(0.0) of(0.0) the(0.0) largest(0.0) psychiatric(0.0) centers(0.0) ,(0.0) Kingsboro(1.0) Psychiatric(0.0) Center(0.0) ,(0.0) in(0.0) my(0.0) district(0.0) .(0.0) It(0.0) is(0.0) a(0.0) large(0.0) 
+hospital(0.0) ,(0.0) located(0.0) in(0.0) a(0.0) big(0.0) hospital(0.0) center(0.0) ,(0.0) so(0.0) people(0.0) think(0.0) he(0.0) is(0.0) going(0.0) to(0.0) close(0.0) down(0.0) Kings(0.0) County(1.0) 
+Hospital(0.0) ,(0.0) which(0.0) is(0.0) the(0.0) biggest(0.0) municipal(1.0) hospital(0.0) in(0.0) the(0.0) city(0.0) .(0.0) The(0.0) rumors(0.0) generate(0.0) and(0.0) people(0.0) are(0.0) very(0.0) much(0.0) 
+frightened(0.0) when(0.0) they(0.0) hear(0.0) Medicaid(1.0) being(0.0) thrown(0.0) into(0.0) the(0.0) hopper(1.0) .(0.0) And(0.0) if(0.0) there(0.0) is(0.0) no(0.0) Medicaid(1.0) entitlement(1.0) ,(0.0) that(0.0) 
+means(0.0) they(0.0) are(0.0) not(0.0) guaranteed(0.0) nursing(1.0) homes(0.0) .(0.0) New(1.0) York(1.0) State(0.0) has(0.0) one(0.0) of(0.0) the(0.0) biggest(0.0) Medicaid(1.0) and(0.0) Medicare(1.0) programs(1.0) 
+in(0.0) the(0.0) country(1.0) ,(0.0) and(0.0) they(0.0) hear(0.0) on(0.0) television(0.0) our(0.0) State(1.0) being(0.0) criticized(0.0) for(0.0) being(0.0) so(0.0) generous(0.0) .(0.0) I(0.0) am(0.0) 
+not(0.0) so(0.0) sure(0.0) we(0.0) are(0.0) too(0.0) generous(0.0) .(0.0) We(0.0) have(0.0) some(0.0) very(0.0) good(0.0) programs(1.0) and(0.0) take(0.0) very(0.0) good(0.0) care(1.0) of(0.0) 
+senior(0.0) citizens(1.0) .(0.0) With(0.0) all(0.0) the(0.0) generosity(0.0) with(0.0) respect(0.0) to(0.0) health(1.0) care(1.0) ,(0.0) New(1.0) York(1.0) State(0.0) still(0.0) sends(0.0) to(0.0) 
+
+
+----- below are rationale words -----
+
+Connecticut	
+citizens	New	York	citizens	
+terror	
+shutdown	shutdown	
+Shalala	
+
+York	burden	mean-spirited	
+Washington	
+Albany	Republicans	here	in	Congress	and	has	
+imposing	new	rules	nursing	cuts	
+Medicare	Medicaid	
+Washington	state	mental	terror	
+York	York	City	borrow	money	
+Meals	program	program	state	terror	
+death	
+mayor	hospitals	
+hospitals	hospitals	announced	
+Kingsboro	
+County	
+municipal	
+Medicaid	hopper	Medicaid	entitlement	
+nursing	New	York	Medicaid	Medicare	programs	
+country	State	
+programs	care	
+citizens	health	care	New	York	
+
+reads % = 0.138

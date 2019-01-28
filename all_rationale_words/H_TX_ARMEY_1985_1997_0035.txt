@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) ask(0.0) unanimous(1.0) consent(0.0) that(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) Mexico(1.0) ,(0.0) Mr.(0.0) Bill(1.0) Redmond(1.0) ,(0.0) be(0.0) permitted(0.0) to(0.0) take(0.0) 
+the(0.0) oath(0.0) of(0.0) office(0.0) today(0.0) .(0.0) His(0.0) certificate(0.0) of(0.0) election(0.0) has(0.0) not(0.0) arrived(0.0) ,(0.0) but(0.0) there(0.0) is(0.0) no(0.0) contest(0.0) ,(0.0) 
+and(0.0) no(0.0) question(0.0) has(0.0) been(0.0) raised(0.0) with(0.0) regard(0.0) to(0.0) his(0.0) election(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+unanimous	Mexico	Bill	Redmond	
+
+
+
+reads % = 0.07547169811320754

@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) want(1.0) to(0.0) thank(0.0) the(0.0) ranking(1.0) member(0.0) for(0.0) his(0.0) comments(0.0) and(0.0) for(0.0) reasserting(1.0) and(0.0) reassuring(1.0) Members(0.0) that(0.0) our(0.0) constitutional(1.0) role(0.0) is(0.0) 
+extremely(0.0) important(0.0) in(0.0) matters(0.0) of(0.0) war(1.0) and(0.0) peace(0.0) .(0.0) I(0.0) yield(0.0) 1(0.0) minute(1.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) ((0.0) Mr.(0.0) 
+Doggett(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+want	ranking	reasserting	reassuring	constitutional	
+war	minute	
+Doggett	
+
+reads % = 0.18181818181818182

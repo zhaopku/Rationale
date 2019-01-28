@@ -1,0 +1,46 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) my(0.0) many(0.0) thanks(0.0) to(0.0) my(0.0) friend(0.0) from(0.0) Delaware(1.0) ,(0.0) I(0.0) thank(0.0) him(0.0) so(0.0) much(0.0) for(0.0) putting(0.0) this(0.0) resolution(1.0) on(0.0) 
+this(0.0) morning(0.0) .(0.0) To(0.0) my(0.0) San(1.0) Diego(1.0) colleagues(0.0) ,(0.0) I(0.0) thank(0.0) them(0.0) for(0.0) coming(0.0) together(0.0) with(0.0) all(0.0) of(0.0) us(0.0) and(0.0) 
+giving(0.0) some(0.0) real(0.0) value(0.0) to(0.0) this(0.0) resolution(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) thought(0.0) I(0.0) would(0.0) mention(0.0) those(0.0) students(0.0) and(0.0) others(0.0) 
+at(0.0) Santee(0.0) High(0.0) who(0.0) were(0.0) in(0.0) fact(0.0) wounded(0.0) .(0.0) Barry(0.0) Gibson(0.0) ,(0.0) Heather(0.0) Cruz(1.0) ,(0.0) Scott(0.0) Marshall(1.0) ,(0.0) Travis(0.0) Tate-Gallegos(0.0) 
+,(0.0) Melissa(0.0) MCNulty(0.0) ,(0.0) Trevor(0.0) Edwards(1.0) ,(0.0) Raymond(0.0) Serrato(1.0) ,(0.0) James(0.0) Jackson(1.0) ,(0.0) Trison(0.0) Salladay(1.0) ,(0.0) Matthew(0.0) Heier(1.0) ,(0.0) Karla(0.0) 
+Leyva(1.0) ,(0.0) and(0.0) campus(0.0) supervisor(0.0) Peter(0.0) Ruiz(1.0) and(0.0) student(0.0) teacher(0.0) Timothy(0.0) Estes(1.0) have(0.0) been(0.0) in(0.0) the(0.0) thoughts(0.0) and(0.0) prayers(0.0) of(0.0) 
+,(0.0) of(0.0) course(0.0) ,(0.0) all(0.0) of(0.0) the(0.0) Santee(0.0) residents(0.0) and(0.0) all(0.0) Americans(0.0) who(0.0) have(0.0) heard(0.0) about(0.0) this(0.0) tragedy(0.0) .(0.0) They(0.0) 
+will(0.0) continue(0.0) to(0.0) be(0.0) in(0.0) our(0.0) thoughts(0.0) and(0.0) prayers(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) there(0.0) will(0.0) be(0.0) political(1.0) discussions(0.0) that(0.0) arise(0.0) 
+out(0.0) of(0.0) this(0.0) tragedy(1.0) .(0.0) That(0.0) is(0.0) going(0.0) to(0.0) happen(0.0) .(0.0) We(0.0) are(0.0) a(0.0) political(1.0) body(0.0) .(0.0) We(0.0) respond(0.0) to(0.0) 
+occurrences(0.0) like(0.0) this(0.0) .(0.0) I(0.0) would(0.0) just(0.0) ask(0.0) all(0.0) my(0.0) colleagues(0.0) over(0.0) the(0.0) next(0.0) 3(0.0) or(0.0) 4(0.0) weeks(0.0) to(0.0) observe(0.0) 
+a(0.0) standard(0.0) ,(0.0) maybe(0.0) an(0.0) arbitrary(1.0) standard(0.0) that(0.0) I(0.0) have(0.0) set(0.0) for(0.0) myself(0.0) ,(0.0) but(0.0) I(0.0) would(0.0) hope(0.0) we(0.0) would(0.0) 
+all(0.0) observe(0.0) it(0.0) and(0.0) ,(0.0) that(0.0) is(0.0) ,(0.0) this(0.0) is(0.0) a(0.0) tragedy(0.0) ,(0.0) this(0.0) is(0.0) a(0.0) time(0.0) for(0.0) grieving(0.0) ,(0.0) 
+a(0.0) time(0.0) for(0.0) mourning(0.0) ,(0.0) a(0.0) time(0.0) for(0.0) healing(0.0) in(0.0) Santee(1.0) ,(0.0) California(1.0) ;(0.0) and(0.0) I(0.0) would(0.0) ask(0.0) everyone(0.0) to(0.0) 
+not(0.0) attach(0.0) a(0.0) political(1.0) agenda(1.0) to(0.0) this(0.0) occurrence(0.0) until(0.0) a(0.0) month(0.0) has(0.0) gone(0.0) by(0.0) .(0.0) Maybe(0.0) that(0.0) is(0.0) an(0.0) arbitrary(0.0) 
+time(0.0) ,(0.0) but(0.0) I(0.0) think(0.0) that(0.0) that(0.0) respects(0.0) the(0.0) families(0.0) and(0.0) the(0.0) students(0.0) in(0.0) Santee(1.0) ,(0.0) California(1.0) .(0.0) Lastly(0.0) ,(0.0) 
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) would(0.0) hope(0.0) if(0.0) people(0.0) who(0.0) watch(0.0) this(0.0) resolution(1.0) ,(0.0) that(0.0) fathers(1.0) and(0.0) mothers(0.0) and(0.0) grandparents(0.0) and(0.0) 
+uncles(0.0) and(0.0) aunts(0.0) ,(0.0) as(0.0) a(0.0) result(0.0) of(0.0) watching(0.0) us(0.0) and(0.0) contemplating(0.0) these(0.0) events(0.0) ,(0.0) would(0.0) resolve(0.0) to(0.0) spend(1.0) a(0.0) 
+little(0.0) more(0.0) time(0.0) this(0.0) week(0.0) ,(0.0) this(0.0) month(0.0) ,(0.0) this(0.0) year(0.0) ,(0.0) maybe(0.0) starting(0.0) today(0.0) ,(0.0) with(0.0) their(0.0) children(0.0) ,(0.0) 
+then(0.0) this(0.0) resolution(1.0) will(0.0) have(0.0) had(0.0) value(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Delaware	resolution	
+San	Diego	
+resolution	Speaker	
+Cruz	Marshall	
+Edwards	Serrato	Jackson	Salladay	Heier	
+Leyva	Ruiz	Estes	
+
+Speaker	political	
+tragedy	political	
+
+arbitrary	
+
+Santee	California	
+political	agenda	
+Santee	California	
+Speaker	resolution	fathers	
+spend	
+
+resolution	
+
+reads % = 0.08672086720867209

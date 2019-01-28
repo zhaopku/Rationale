@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+The(0.0) gentleman(0.0) from(0.0) Oregon(1.0) ,(0.0) again(0.0) ,(0.0) raises(0.0) a(0.0) very(0.0) important(0.0) issue(0.0) that(0.0) the(0.0) subcommittee(0.0) will(0.0) look(0.0) into(0.0) ,(0.0) and(0.0) we(0.0) 
+will(0.0) do(0.0) our(0.0) best(0.0) to(0.0) address(0.0) in(0.0) some(0.0) way(0.0) as(0.0) we(0.0) move(0.0) forward(0.0) through(0.0) this(0.0) process(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Oregon	
+
+
+reads % = 0.02631578947368421

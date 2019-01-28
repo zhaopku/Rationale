@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) was(0.0) hoping(1.0) the(0.0) gentlelady(1.0) had(0.0) one(0.0) more(0.0) speaker(0.0) .(0.0) I(0.0) was(0.0) going(0.0) to(0.0) reserve(1.0) ,(0.0) as(0.0) we(0.0) had(0.0) 
+one(0.0) other(0.0) speaker(0.0) on(0.0) the(0.0) way(1.0) ,(0.0) but(0.0) let(0.0) me(0.0) just(1.0) check(0.0) .(0.0) Without(0.0) seeing(0.0) him(0.0) here(0.0) ,(0.0) Mr.(1.0) Speaker(1.0) 
+,(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+hoping	gentlelady	reserve	
+way	just	Mr.	Speaker	
+time	
+
+reads % = 0.1568627450980392

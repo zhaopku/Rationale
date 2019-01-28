@@ -1,0 +1,18 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Maryland(1.0) for(0.0) his(0.0) leadership(0.0) on(0.0) this(0.0) particular(0.0) bill(1.0) ,(0.0) as(0.0) he(0.0) is(0.0) 
+a(0.0) leader(0.0) on(0.0) many(0.0) bills(0.0) of(0.0) interest(0.0) to(0.0) Americans(1.0) who(0.0) are(0.0) concerned(0.0) about(0.0) empowering(1.0) those(0.0) among(0.0) us(0.0) who(0.0) are(0.0) disabled(0.0) 
+.(0.0) This(0.0) takes(0.0) up(0.0) ,(0.0) which(0.0) we(0.0) just(0.0) passed(0.0) ,(0.0) actually(0.0) ,(0.0) S.(0.0) 1809(0.0) ,(0.0) which(0.0) is(0.0) the(0.0) Senate-passed(1.0) Developmental(1.0) 
+Disabilities(1.0) Act(0.0) reauthorization(0.0) ,(0.0) with(0.0) a(0.0) correcting(0.0) enrollment(1.0) ,(0.0) which(0.0) we(0.0) are(0.0) doing(0.0) right(0.0) now(0.0) .(0.0) It(0.0) maintains(0.0) the(0.0) language(0.0) 
+that(0.0) the(0.0) gentleman(0.0) and(0.0) I(0.0) have(0.0) worked(0.0) through(0.0) in(0.0) the(0.0) House-passed(1.0) version(1.0) ,(0.0) basic(0.0) reauthorization(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Maryland	bill	
+Americans	empowering	
+Senate-passed	Developmental	
+Disabilities	enrollment	
+House-passed	version	reauthorization	
+
+reads % = 0.1134020618556701

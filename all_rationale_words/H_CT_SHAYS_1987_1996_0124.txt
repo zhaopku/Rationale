@@ -1,0 +1,52 @@
+This is from a Republican
+----- below is the original text -----
+It(0.0) is(0.0) not(0.0) so(0.0) cut(0.0) and(0.0) dry(0.0) that(0.0) it(0.0) is(0.0) so(0.0) obvious(0.0) to(0.0) all(0.0) of(0.0) us(0.0) .(0.0) But(0.0) while(0.0) some(0.0) call(0.0) 
+this(0.0) the(0.0) Truth(1.0) in(0.0) Budgeting(1.0) Act(1.0) ,(0.0) and(0.0) they(0.0) are(0.0) right(0.0) to(0.0) call(0.0) it(0.0) that(0.0) ,(0.0) there(0.0) would(0.0) be(0.0) some(0.0) 
+truth(0.0) in(0.0) budgeting(1.0) ,(0.0) I(0.0) would(0.0) call(0.0) it(0.0) the(0.0) Unbalanced(1.0) Budget(1.0) Act(1.0) of(0.0) 1996(0.0) ,(0.0) or(0.0) ,(0.0) frankly(0.0) ,(0.0) the(0.0) 
+pork(1.0) barrel(1.0) bill(1.0) of(0.0) 1996(0.0) ,(0.0) because(0.0) what(0.0) it(0.0) means(0.0) is(0.0) we(0.0) are(0.0) going(0.0) to(0.0) provide(0.0) $(0.0) 50(0.0) billion(1.0) more(0.0) 
+and(0.0) make(0.0) it(0.0) available(0.0) to(0.0) people(0.0) who(0.0) want(0.0) to(0.0) spend(1.0) on(0.0) roads(1.0) and(0.0) bridges(1.0) .(0.0) There(0.0) is(0.0) an(0.0) opportunity(0.0) cost(1.0) 
+.(0.0) If(0.0) you(0.0) spend(1.0) $(0.0) 50(0.0) billion(1.0) more(0.0) here(0.0) ,(0.0) you(0.0) have(0.0) to(0.0) do(0.0) something(0.0) to(0.0) compensate(1.0) .(0.0) Are(0.0) we(0.0) 
+going(0.0) to(0.0) cut(1.0) defense(1.0) ?(1.0) No(0.0) .(0.0) Are(0.0) we(0.0) going(0.0) to(0.0) raise(1.0) taxes(1.0) ?(0.0) Out(0.0) of(0.0) the(0.0) question(0.0) .(0.0) So(0.0) 
+what(0.0) it(0.0) means(0.0) is(0.0) there(0.0) will(0.0) be(0.0) ,(0.0) in(0.0) my(0.0) judgment(0.0) ,(0.0) continued(0.0) deficits(1.0) to(0.0) the(0.0) tune(0.0) of(0.0) $(0.0) 50(0.0) 
+billion(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) the(0.0) Concord(1.0) Coalition(1.0) says(1.0) ,(0.0) ``(0.0) Passage(1.0) of(0.0) this(0.0) legislation(1.0) would(0.0) severely(0.0) jeopardize(1.0) the(0.0) chances(1.0) 
+of(0.0) balancing(0.0) the(0.0) Federal(1.0) budget(1.0) and(0.0) would(0.0) be(0.0) detrimental(0.0) to(0.0) the(0.0) budget(1.0) process(0.0) .(0.0) ''(0.0) The(0.0) National(0.0) Taxpayers(1.0) Union(1.0) says(0.0) 
+,(0.0) ``(0.0) Placing(0.0) these(0.0) trust(0.0) funds(1.0) off(0.0) budget(0.0) is(0.0) nothing(0.0) less(0.0) than(0.0) a(0.0) ploy(0.0) to(0.0) increase(1.0) spending(1.0) .(0.0) ''(0.0) The(0.0) 
+Citizens(1.0) Against(1.0) Government(1.0) Waste(1.0) say(0.0) ,(0.0) ``(0.0) The(0.0) Truth(0.0) in(0.0) Budgeting(1.0) Act(1.0) sounds(0.0) great(0.0) to(0.0) the(0.0) public(1.0) ,(0.0) but(0.0) it(0.0) 
+is(0.0) simply(0.0) a(0.0) ruse(1.0) to(0.0) increase(1.0) the(0.0) $(0.0) 5(0.0) trillion(1.0) national(1.0) debt(1.0) .(0.0) ''(0.0) The(0.0) Americans(1.0) for(0.0) Tax(1.0) Reform(1.0) say(1.0) 
+,(0.0) ``(0.0) American(0.0) taxpayers(1.0) want(0.0) real(0.0) reform(1.0) of(0.0) the(0.0) budget(1.0) process(0.0) and(0.0) not(0.0) business(0.0) as(0.0) usual(0.0) .(0.0) They(0.0) are(0.0) depending(0.0) 
+on(0.0) you(0.0) to(0.0) lead(0.0) the(0.0) fight(1.0) in(0.0) protecting(1.0) the(0.0) American(0.0) taxpayers(1.0) from(0.0) the(0.0) special(0.0) interests(1.0) who(0.0) are(0.0) trying(0.0) to(0.0) escape(0.0) 
+the(0.0) scrutiny(1.0) of(0.0) fiscal(1.0) responsibility(0.0) .(0.0) ''(0.0) The(0.0) Committee(0.0) for(0.0) Responsible(0.0) Federal(0.0) Budget(1.0) says(1.0) ,(0.0) ``(0.0) Proponents(1.0) of(0.0) H.R(0.0) .(0.0) 
+842(0.0) want(0.0) to(0.0) make(0.0) some(0.0) spending(1.0) invisible(0.0) ,(0.0) pretend(0.0) that(0.0) it(0.0) pays(0.0) for(0.0) itself(0.0) ,(0.0) and(0.0) thus(0.0) insulate(1.0) favored(1.0) programs(1.0) 
+from(0.0) regular(0.0) review(0.0) and(0.0) scrutiny(1.0) .(0.0) ''(0.0) Citizens(1.0) for(0.0) a(0.0) Sound(0.0) Economy(1.0) say(0.0) ,(0.0) ``(0.0) Shielding(0.0) the(0.0) transportation(1.0) trusts(1.0) from(0.0) 
+fiscal(1.0) scrutiny(1.0) and(0.0) accountability(1.0) perpetuates(1.0) pork-barrel(1.0) spending(1.0) and(0.0) works(0.0) counter(0.0) to(0.0) all(0.0) efforts(1.0) to(0.0) reduce(1.0) the(0.0) deficit(1.0) control(0.0) government(1.0) standing(0.0) 
+.(0.0) ''(0.0) This(0.0) is(0.0) happening(0.0) under(0.0) our(0.0) Republican(1.0) watch(1.0) ?(1.0) We(1.0) are(1.0) going(1.0) to(1.0) all(1.0) this(1.0) to(1.0) happen(1.0) ,(1.0) when(1.0) 
+we(1.0) have(1.0) purported(1.0) to(1.0) want(1.0) to(1.0) balance(1.0) the(1.0) budget(1.0) by(1.0) the(1.0) year(1.0) 2002(0.0) .(0.0) In(0.0) my(0.0) judgment(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) 
+,(0.0) this(0.0) is(0.0) a(0.0) dead(0.0) end(0.0) ,(0.0) and(0.0) I(0.0) hope(0.0) we(0.0) reject(1.0) it(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Truth	Budgeting	Act	
+budgeting	Unbalanced	Budget	Act	
+pork	barrel	bill	billion	
+spend	roads	bridges	cost	
+spend	billion	compensate	
+cut	defense	?	raise	taxes	
+deficits	
+billion	Speaker	Concord	Coalition	says	Passage	legislation	jeopardize	chances	
+Federal	budget	budget	Taxpayers	Union	
+funds	increase	spending	
+Citizens	Against	Government	Waste	Budgeting	Act	public	
+ruse	increase	trillion	national	debt	Americans	Tax	Reform	say	
+taxpayers	reform	budget	
+fight	protecting	taxpayers	interests	
+scrutiny	fiscal	Budget	says	Proponents	
+spending	insulate	favored	programs	
+scrutiny	Citizens	Economy	transportation	trusts	
+fiscal	scrutiny	accountability	perpetuates	pork-barrel	spending	efforts	reduce	deficit	government	
+Republican	watch	?	We	are	going	to	all	this	to	happen	,	when	
+we	have	purported	to	want	to	balance	the	budget	by	the	year	Speaker	
+reject	
+
+reads % = 0.26436781609195403

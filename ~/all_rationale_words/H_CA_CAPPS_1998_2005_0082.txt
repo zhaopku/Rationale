@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) 1(1.0) month(0.0) ago(1.0) ,(0.0) elderly(1.0) Americans(0.0) were(0.0) finally(0.0) able(0.0) to(0.0) start(0.0) choosing(0.0) among(0.0) plans(1.0) to(0.0) provide(0.0) them(0.0) prescription(0.0) drug(0.0) 
+coverage(0.0) .(0.0) In(0.0) less(0.0) than(0.0) a(0.0) month(0.0) ,(0.0) these(0.0) benefits(1.0) will(0.0) go(1.0) into(0.0) effect(0.0) .(0.0) But(0.0) now(0.0) these(0.0) seniors(1.0) are(0.0) 
+expressing(1.0) their(0.0) outrage(1.0) .(0.0) The(0.0) choices(1.0) they(0.0) have(0.0) to(0.0) make(0.0) are(0.0) so(0.0) complex(0.0) it(0.0) was(0.0) imperative(1.0) that(0.0) CMS(1.0) get(0.0) them(0.0) 
+accurate(0.0) information(0.0) .(0.0) But(0.0) instead(0.0) ,(0.0) CMS(1.0) sent(0.0) out(1.0) inaccurate(1.0) information(0.0) .(0.0) In(0.0) addition(0.0) ,(0.0) they(0.0) told(0.0) seniors(1.0) that(0.0) they(0.0) 
+basically(0.0) had(0.0) to(0.0) get(0.0) their(0.0) information(0.0) off(0.0) the(0.0) Web(0.0) or(0.0) by(0.0) calling(0.0) a(0.0) hotline(1.0) ,(0.0) but(0.0) delays(0.0) on(0.0) the(0.0) hotline(1.0) 
+are(0.0) enormous(0.0) ,(0.0) and(0.0) most(1.0) seniors(1.0) are(0.0) not(1.0) comfortable(0.0) using(0.0) the(0.0) Internet(0.0) .(0.0) So(1.0) now(0.0) they(0.0) are(0.0) having(0.0) to(0.0) make(0.0) 
+critical(1.0) ,(0.0) complex(0.0) choices(1.0) that(0.0) are(0.0) going(0.0) to(0.0) affect(0.0) their(0.0) health(1.0) care(0.0) with(0.0) far(0.0) too(0.0) little(0.0) assistance(0.0) .(0.0) We(0.0) need(0.0) 
+to(0.0) act(0.0) to(0.0) help(0.0) them(0.0) .(0.0) Let(1.0) us(0.0) not(0.0) turn(0.0) our(0.0) backs(1.0) on(0.0) America's(0.0) seniors(1.0) .(0.0) Let(1.0) us(0.0) give(0.0) them(0.0) 
+all(0.0) of(0.0) 2006(0.0) to(0.0) make(0.0) this(0.0) important(0.0) choice(0.0) without(0.0) penalty(0.0) ,(0.0) and(0.0) let(0.0) us(0.0) make(0.0) sure(1.0) that(0.0) they(0.0) can(0.0) make(0.0) 
+a(0.0) switch(0.0) if(0.0) they(0.0) make(0.0) the(0.0) wrong(0.0) choice(0.0) .(0.0) Let(1.0) us(0.0) pass(1.0) the(0.0) Medicare(1.0) Informed(1.0) Choice(1.0) Act(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+1	ago	elderly	plans	
+benefits	go	seniors	
+expressing	outrage	choices	imperative	CMS	
+CMS	out	inaccurate	seniors	
+hotline	hotline	
+most	seniors	not	So	
+critical	choices	health	
+Let	backs	seniors	Let	
+sure	
+Let	pass	Medicare	Informed	Choice	
+
+reads % = 0.17587939698492464

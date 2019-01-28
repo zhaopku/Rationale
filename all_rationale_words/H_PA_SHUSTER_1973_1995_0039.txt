@@ -1,0 +1,36 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) yield(0.0) 30(0.0) seconds(0.0) to(0.0) the(0.0) distinguished(0.0) gentleman(0.0) from(0.0) Ohio(1.0) [(0.0) Mr.(0.0) LaTourette(1.0) ](0.0) .(0.0) revise(0.0) and(0.0) extend(0.0) his(0.0) 
+remarks(0.0) .(0.0) )(0.0) Mr.(0.0) LaTOURETTE(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) first(0.0) I(0.0) want(0.0) to(0.0) commend(0.0) Chairman(0.0) Shuster(1.0) for(0.0) his(0.0) leadership(0.0) in(0.0) 
+bringing(0.0) H.R(0.0) .(0.0) 961(0.0) to(0.0) the(0.0) floor(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) support(0.0) of(0.0) H.R(0.0) .(0.0) 961(0.0) 
+,(0.0) and(0.0) in(0.0) particular(0.0) title(0.0) I(0.0) of(0.0) H.R(0.0) .(0.0) 961(0.0) ,(0.0) which(0.0) reauthorizes(1.0) environmental(1.0) programs(1.0) that(0.0) are(0.0) critical(0.0) to(0.0) the(0.0) 
+waters(0.0) of(0.0) the(0.0) Great(0.0) Lakes(0.0) region(0.0) .(0.0) More(0.0) than(0.0) $(0.0) 12(0.0) billion(1.0) in(0.0) Federal(1.0) investment(1.0) has(0.0) brought(0.0) the(0.0) Great(0.0) Lakes(0.0) 
+back(0.0) from(0.0) the(0.0) brink(1.0) of(0.0) death(1.0) and(0.0) is(0.0) credited(0.0) for(0.0) making(0.0) the(0.0) Great(0.0) Lakes(0.0) great(0.0) again(0.0) .(0.0) A(0.0) $(0.0) 4.5(0.0) 
+billion(1.0) annual(0.0) Great(0.0) Lakes(0.0) sport(0.0) fishing(0.0) economy(1.0) is(0.0) a(0.0) further(0.0) testament(0.0) that(0.0) our(0.0) country(1.0) will(0.0) continue(0.0) to(0.0) reap(1.0) important(0.0) economic(1.0) 
+benefits(1.0) by(0.0) passing(0.0) H.R(0.0) .(0.0) 961(0.0) by(0.0) providing(0.0) $(0.0) 3(0.0) billion(1.0) in(0.0) programs(1.0) such(0.0) as(0.0) wastewater(1.0) treatment(0.0) facilities(0.0) .(0.0) This(0.0) 
+will(0.0) serve(0.0) to(0.0) build(0.0) on(0.0) the(0.0) success(0.0) of(0.0) the(0.0) Clean(1.0) Water(0.0) Act(0.0) .(0.0) H.R(0.0) .(0.0) 961(0.0) also(0.0) seeks(0.0) to(0.0) address(0.0) 
+the(0.0) contaminated(1.0) sediments(1.0) problem(0.0) that(0.0) clogs(1.0) the(0.0) Great(0.0) Lakes(0.0) system(0.0) .(0.0) H.R(0.0) .(0.0) 961(0.0) also(0.0) contains(0.0) provisions(0.0) to(0.0) better(0.0) coordinate(0.0) 
+research(0.0) activities(0.0) among(0.0) Federal(0.0) agencies(1.0) engaged(0.0) in(0.0) research(0.0) on(0.0) the(0.0) Great(0.0) Lakes(0.0) .(0.0) H.R(0.0) .(0.0) 961(0.0) is(0.0) also(0.0) supportive(0.0) of(0.0) 
+making(0.0) sure(0.0) the(0.0) fish(0.0) in(0.0) the(0.0) Great(0.0) Lakes(0.0) are(0.0) safe(0.0) to(0.0) eat(0.0) .(0.0) I(0.0) urge(0.0) passage(1.0) of(0.0) H.R(0.0) .(0.0) 961(0.0) 
+.(0.0) Chairman(0.0) ,(0.0) I(0.0) yield(0.0) such(0.0) time(0.0) as(0.0) he(0.0) may(0.0) consume(0.0) to(0.0) the(0.0) distinguished(0.0) gentleman(0.0) from(0.0) Wisconsin(1.0) [(0.0) Mr.(0.0) Petri(1.0) 
+](0.0) .(0.0) ((0.0) Mr.(0.0) PETRI(1.0) asked(0.0) and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) )(0.0) 
+
+
+----- below are rationale words -----
+
+Ohio	LaTourette	
+LaTOURETTE	Chairman	Shuster	
+Chairman	
+reauthorizes	environmental	programs	
+billion	Federal	investment	
+brink	death	
+billion	economy	country	reap	economic	
+benefits	billion	programs	wastewater	
+Clean	
+contaminated	sediments	clogs	
+agencies	
+passage	
+Wisconsin	Petri	
+PETRI	
+
+reads % = 0.11469534050179211

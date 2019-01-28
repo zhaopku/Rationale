@@ -1,0 +1,36 @@
+This is from a Democrat
+----- below is the original text -----
+This(0.0) resolution(1.0) signifies(0.0) Congress(0.0) 's(0.0) appreciation(0.0) for(0.0) the(0.0) critical(0.0) work(0.0) school(0.0) counselors(0.0) do(0.0) to(0.0) provide(0.0) students(0.0) and(0.0) their(0.0) families(0.0) with(0.0) guidance(0.0) 
+and(0.0) support(0.0) ,(0.0) both(0.0) academic(0.0) and(0.0) emotional(0.0) ,(0.0) toward(0.0) obtaining(1.0) a(0.0) higher(0.0) education(1.0) and(0.0) entrance(0.0) into(0.0) the(0.0) workforce(0.0) .(0.0) In(0.0) 
+his(0.0) 2008(0.0) budget(0.0) ,(0.0) President(0.0) Bush(1.0) proposed(1.0) eliminating(1.0) federal(1.0) support(0.0) for(0.0) elementary(1.0) and(0.0) secondary(0.0) school(0.0) counselors(0.0) .(0.0) Under(0.0) Democratic(1.0) leadership(0.0) 
+,(0.0) the(0.0) President(1.0) 's(0.0) proposal(0.0) was(0.0) wisely(0.0) rejected(1.0) and(0.0) this(0.0) Congress(0.0) provided(0.0) nearly(0.0) $(0.0) 14(0.0) million(0.0) of(0.0) additional(0.0) support(0.0) to(0.0) 
+school(1.0) counseling(1.0) programs(0.0) ,(0.0) for(0.0) a(0.0) total(0.0) of(0.0) over(0.0) $(0.0) 48(0.0) million(0.0) .(0.0) I(0.0) am(0.0) proud(0.0) of(0.0) this(0.0) accomplishment(0.0) ,(0.0) 
+but(0.0) feel(0.0) there(0.0) is(0.0) still(0.0) more(0.0) to(0.0) be(0.0) done(0.0) to(0.0) meet(0.0) the(0.0) needs(0.0) of(0.0) our(0.0) children(0.0) .(0.0) In(0.0) California(1.0) ,(0.0) 
+eight(0.0) in(0.0) nine(0.0) high(0.0) school(1.0) students(0.0) attend(0.0) a(0.0) school(0.0) with(0.0) fewer(0.0) counselors(0.0) than(0.0) the(0.0) national(1.0) average(0.0) .(0.0) This(0.0) makes(0.0) California(1.0) 
+the(0.0) State(0.0) with(0.0) the(0.0) highest(0.0) counselor(0.0) to(0.0) student(0.0) ratio(0.0) in(0.0) the(0.0) Nation(0.0) ;(0.0) over(0.0) two(0.0) times(0.0) the(0.0) School(0.0) Counseling(0.0) Association(0.0) 
+'s(0.0) suggested(0.0) ratio(0.0) .(0.0) Students(0.0) attending(0.0) intensely(0.0) segregated(1.0) minority(1.0) schools(0.0) are(0.0) most(0.0) likely(0.0) to(0.0) attend(0.0) schools(1.0) with(0.0) fewer(0.0) counselors(0.0) than(0.0) 
+the(0.0) national(0.0) average(0.0) .(0.0) Addressing(0.0) the(0.0) school(0.0) counselor(0.0) deficit(0.0) is(0.0) a(0.0) critical(0.0) component(0.0) of(0.0) closing(0.0) the(0.0) achievement(0.0) gap(0.0) that(0.0) plagues(1.0) 
+our(0.0) Nation(1.0) .(0.0) As(0.0) we(0.0) reflect(0.0) on(0.0) the(0.0) vital(1.0) role(0.0) counselors(0.0) play(0.0) in(0.0) the(0.0) lives(0.0) of(0.0) our(0.0) children(0.0) ,(0.0) we(0.0) 
+should(0.0) remember(0.0) that(0.0) investing(1.0) in(0.0) our(0.0) schools(1.0) is(0.0) an(0.0) investment(1.0) in(0.0) our(0.0) future(0.0) ;(0.0) it(0.0) is(0.0) the(0.0) best(0.0) investment(1.0) our(0.0) 
+country(1.0) can(0.0) make(0.0) .(0.0) School(0.0) counselors(0.0) create(0.0) pathways(0.0) to(0.0) success(0.0) and(0.0) H.(0.0) Res(1.0) .(0.0) 932(0.0) will(0.0) ensure(0.0) our(0.0) Nation(1.0) comes(0.0) 
+together(0.0) this(0.0) February(0.0) to(0.0) recognize(0.0) their(0.0) vital(0.0) contributions(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+resolution	
+obtaining	education	
+Bush	proposed	eliminating	federal	elementary	Democratic	
+President	rejected	
+school	counseling	
+California	
+school	national	California	
+
+segregated	minority	schools	
+plagues	
+Nation	vital	
+investing	schools	investment	investment	
+country	Res	Nation	
+contributions	
+
+reads % = 0.11481481481481481

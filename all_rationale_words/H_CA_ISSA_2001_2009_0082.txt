@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Chair(0.0) ,(0.0) although(0.0) we(0.0) do(0.0) not(0.0) object(0.0) to(0.0) this(0.0) ,(0.0) we(0.0) claim(0.0) the(0.0) time(0.0) in(0.0) opposition(1.0) .(0.0) The(0.0) CHAIR(0.0) .(0.0) 
+Without(0.0) objection(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) is(0.0) recognized(0.0) for(0.0) 5(0.0) minutes(0.0) .(0.0) There(0.0) was(0.0) no(0.0) objection(0.0) .(0.0) Madam(0.0) Chair(1.0) 
+,(0.0) briefly(0.0) ,(0.0) this(0.0) amendment(1.0) seems(0.0) to(0.0) be(0.0) a(0.0) good(0.0) one(0.0) that(0.0) would(0.0) try(0.0) to(0.0) clarify(0.0) some(0.0) of(0.0) the(0.0) many(0.0) 
+,(0.0) many(0.0) ,(0.0) many(0.0) ,(0.0) many(0.0) elements(0.0) of(0.0) this(0.0) bill(1.0) that(0.0) were(0.0) not(0.0) worked(0.0) through(0.0) thoroughly(0.0) in(0.0) committee(0.0) ,(0.0) so(0.0) 
+I(0.0) applaud(0.0) the(0.0) gentleman(0.0) .(0.0) I(0.0) believe(0.0) that(0.0) ,(0.0) in(0.0) fact(0.0) ,(0.0) if(0.0) we(0.0) would(0.0) have(0.0) done(0.0) more(0.0) of(0.0) this(0.0) 
+in(0.0) committee(0.0) ,(0.0) if(0.0) more(0.0) people(0.0) would(0.0) have(0.0) looked(0.0) and(0.0) said(0.0) ,(0.0) We(0.0) want(0.0) ,(0.0) as(0.0) the(0.0) committee(0.0) that(0.0) is(0.0) 
+charged(0.0) by(0.0) the(0.0) Congress(0.0) to(0.0) fight(1.0) waste(1.0) ,(0.0) fraud(1.0) ,(0.0) and(0.0) abuse(1.0) ,(0.0) that(0.0) ,(0.0) in(0.0) fact(0.0) ,(0.0) if(0.0) we(0.0) 
+had(0.0) tightened(0.0) up(0.0) this(0.0) bill(1.0) much(0.0) better(0.0) earlier(0.0) ,(0.0) we(0.0) would(0.0) have(0.0) been(0.0) more(0.0) accountable(1.0) to(0.0) the(0.0) taxpayers(1.0) .(0.0) So(0.0) 
+I(0.0) applaud(0.0) the(0.0) gentleman(0.0) and(0.0) recommend(0.0) that(0.0) this(0.0) be(0.0) voted(1.0) positively(0.0) .(0.0) I(0.0) yield(0.0) back(0.0) all(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+opposition	
+Chair	
+amendment	
+bill	
+
+
+fight	waste	fraud	abuse	
+bill	accountable	taxpayers	
+voted	
+
+reads % = 0.0670391061452514

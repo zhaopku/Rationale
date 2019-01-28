@@ -1,0 +1,18 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) look(0.0) forward(0.0) to(0.0) working(0.0) with(0.0) my(0.0) friend(0.0) from(0.0) Kentucky(1.0) ((0.0) Mr.(0.0) Whitfield(1.0) )(0.0) ,(0.0) who(0.0) is(0.0) a(0.0) strong(0.0) advocate(0.0) on(0.0) 
+behalf(0.0) of(0.0) Kentucky(0.0) ,(0.0) for(0.0) jobs(0.0) for(0.0) Kentucky(0.0) and(0.0) the(0.0) Paducah(0.0) plant(0.0) .(0.0) We(0.0) do(0.0) appreciate(0.0) the(0.0) work(0.0) that(0.0) the(0.0) 
+Department(0.0) is(0.0) doing(0.0) to(0.0) reindustrialize(0.0) the(0.0) Paducah(1.0) site(0.0) .(0.0) We(0.0) also(0.0) recognize(0.0) that(0.0) the(0.0) cleanup(1.0) on(0.0) the(0.0) site(0.0) must(0.0) get(0.0) 
+done(0.0) in(0.0) a(0.0) timely(0.0) fashion(0.0) ,(0.0) and(0.0) we(0.0) hope(0.0) to(0.0) work(0.0) with(0.0) the(0.0) various(0.0) stakeholders(0.0) and(0.0) with(0.0) Congressman(1.0) Whitfield(1.0) to(0.0) 
+ensure(0.0) that(0.0) happens(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Kentucky	Whitfield	
+
+Paducah	cleanup	
+Congressman	Whitfield	
+
+
+reads % = 0.07058823529411765

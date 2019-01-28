@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Is(0.0) it(0.0) not(1.0) traditional(1.0) that(0.0) at(0.0) least(1.0) the(0.0) other(0.0) side(0.0) of(0.0) the(0.0) aisle(1.0) would(1.0) get(0.0) half(0.0) the(0.0) time(0.0) ,(0.0) 30(0.0) minutes(1.0) 
+?(1.0) Is(1.0) that(0.0) not(1.0) traditional(1.0) here(0.0) ?(1.0) 
+
+
+----- below are rationale words -----
+
+not	traditional	least	aisle	would	minutes	
+?	Is	not	traditional	?	
+
+reads % = 0.39285714285714285

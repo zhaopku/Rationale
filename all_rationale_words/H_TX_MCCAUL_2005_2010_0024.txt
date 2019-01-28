@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) claim(0.0) time(0.0) in(0.0) opposition(1.0) to(0.0) this(0.0) amendment(1.0) ,(0.0) although(0.0) I(0.0) am(0.0) not(0.0) opposed(0.0) to(0.0) it(0.0) .(0.0) The(0.0) Acting(0.0) 
+CHAIR(0.0) .(0.0) Without(0.0) objection(1.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) is(0.0) recognized(0.0) for(0.0) 5(0.0) minutes(0.0) .(0.0) There(0.0) was(0.0) no(0.0) objection(0.0) .(0.0) 
+As(0.0) a(0.0) Federal(0.0) prosecutor(1.0) ,(0.0) I(0.0) encountered(0.0) crimes(1.0) against(0.0) children(0.0) and(0.0) also(0.0) as(0.0) deputy(0.0) attorney(0.0) general(0.0) for(0.0) the(0.0) State(0.0) of(0.0) 
+Texas(1.0) .(0.0) While(0.0) there(0.0) ,(0.0) we(0.0) formed(0.0) an(0.0) Internet(0.0) crimes(0.0) against(0.0) children(0.0) 's(0.0) task(0.0) force(0.0) .(0.0) The(0.0) threat(1.0) to(0.0) children(0.0) 
+,(0.0) both(0.0) from(0.0) child(1.0) pornography(1.0) and(0.0) online(0.0) predators(0.0) ,(0.0) as(0.0) the(0.0) gentleman(0.0) knows(0.0) ,(0.0) is(0.0) very(0.0) real(0.0) .(0.0) And(0.0) while(0.0) 
+the(0.0) Internet(0.0) is(0.0) a(0.0) great(0.0) tool(0.0) for(0.0) our(0.0) youth(1.0) ,(0.0) it(0.0) also(0.0) does(0.0) present(0.0) a(0.0) vulnerability(0.0) and(0.0) a(0.0) threat(0.0) to(0.0) 
+them(0.0) .(0.0) That(0.0) is(0.0) why(0.0) I(0.0) am(0.0) so(0.0) glad(0.0) to(0.0) see(0.0) this(0.0) amendment(1.0) .(0.0) It(0.0) simply(0.0) clarifies(0.0) when(0.0) we(0.0) are(0.0) 
+promoting(1.0) and(0.0) educating(1.0) people(0.0) on(0.0) the(0.0) importance(0.0) of(0.0) cybersecurity(1.0) ,(0.0) we(0.0) must(0.0) include(0.0) children(0.0) and(0.0) young(0.0) adults(0.0) along(0.0) with(0.0) the(0.0) 
+other(0.0) targeted(0.0) audiences(0.0) .(0.0) So(0.0) let(0.0) me(0.0) again(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) bringing(0.0) this(0.0) .(0.0) I(0.0) strongly(0.0) support(0.0) it(0.0) ,(0.0) 
+and(0.0) encourage(0.0) my(0.0) colleagues(0.0) to(0.0) do(0.0) so(0.0) .(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+opposition	amendment	
+objection	
+prosecutor	crimes	
+Texas	threat	
+child	pornography	
+youth	
+amendment	
+promoting	educating	cybersecurity	
+
+
+
+reads % = 0.0707070707070707

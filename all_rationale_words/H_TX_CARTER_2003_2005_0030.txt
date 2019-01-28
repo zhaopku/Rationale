@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) if(0.0) I(0.0) can(0.0) reclaim(1.0) my(0.0) time(0.0) ,(0.0) I(0.0) noticed(0.0) that(0.0) the(0.0) gentleman(0.0) from(0.0) Iowa(1.0) ((0.0) Mr.(0.0) King(1.0) )(0.0) ,(0.0) 
+our(0.0) friend(0.0) ,(0.0) has(0.0) arrived(0.0) in(0.0) the(0.0) Chamber(0.0) .(0.0) I(0.0) would(0.0) really(0.0) like(0.0) to(0.0) hear(0.0) what(0.0) he(0.0) has(0.0) to(0.0) say(0.0) 
+about(0.0) Justice(1.0) Rehnquist(1.0) .(0.0) So(0.0) I(0.0) yield(0.0) to(0.0) our(0.0) colleague(0.0) and(0.0) good(0.0) friend(0.0) from(0.0) Iowa(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+reclaim	Iowa	King	
+
+Justice	Rehnquist	Iowa	
+
+reads % = 0.10526315789473684

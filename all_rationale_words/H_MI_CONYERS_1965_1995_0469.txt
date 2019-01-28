@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) will(0.0) the(0.0) gentleman(0.0) yield(0.0) ?(0.0) I(0.0) really(0.0) am(0.0) impressed(0.0) by(0.0) this(0.0) recognition(0.0) that(0.0) some(0.0) have(0.0) gone(0.0) too(0.0) far(0.0) ,(0.0) 
+but(0.0) to(0.0) tell(0.0) us(0.0) that(0.0) we(0.0) should(0.0) not(0.0) suggest(0.0) that(0.0) business(0.0) is(0.0) going(0.0) to(0.0) benefit(1.0) ,(0.0) for(0.0) the(0.0) chairman(0.0) of(0.0) 
+Judiciary(0.0) to(0.0) suggest(0.0) we(0.0) should(0.0) also(0.0) ,(0.0) as(0.0) we(0.0) are(0.0) washing(0.0) each(0.0) other(0.0) 's(0.0) hands(0.0) ,(0.0) and(0.0) finding(0.0) that(0.0) nobody(0.0) 
+is(0.0) guilty(1.0) and(0.0) that(0.0) we(0.0) are(0.0) getting(0.0) contributions(1.0) from(0.0) everywhere(0.0) ,(0.0) that(0.0) we(0.0) also(0.0) suggest(0.0) that(0.0) business(0.0) is(0.0) not(0.0) the(0.0) 
+beneficiary(1.0) ,(0.0) the(0.0) clear(0.0) beneficiary(1.0) of(0.0) some(0.0) of(0.0) these(0.0) matters(0.0) .(0.0) That(0.0) now(0.0) ,(0.0) I(0.0) say(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) 
+Illinois(1.0) [(0.0) Mr.(0.0) Hyde(1.0) ](0.0) is(1.0) perfectly(1.0) obvious(1.0) ,(0.0) and(0.0) I(0.0) am(0.0) not(0.0) prepared(0.0) at(0.0) this(0.0) moment(0.0) ,(0.0) while(0.0) I(0.0) 
+had(0.0) dirty(0.0) hands(0.0) on(0.0) the(0.0) Committee(0.0) on(0.0) Rules(0.0) ,(0.0) I(0.0) do(0.0) not(0.0) think(0.0) I(0.0) am(0.0) misinforming(0.0) anybody(0.0) to(0.0) suggest(0.0) to(0.0) 
+you(0.0) that(0.0) the(0.0) beneficiaries(1.0) of(0.0) these(0.0) restrictions(1.0) that(0.0) are(0.0) being(0.0) rushed(0.0) upon(0.0) us(0.0) are(0.0) not(0.0) the(0.0) consumers(1.0) but(0.0) are(0.0) ,(0.0) 
+indeed(0.0) ,(0.0) the(0.0) business(0.0) interests(1.0) of(0.0) this(0.0) country(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+benefit	
+
+guilty	contributions	
+beneficiary	beneficiary	
+Illinois	Hyde	is	perfectly	obvious	
+
+beneficiaries	restrictions	consumers	
+interests	country	
+
+reads % = 0.08823529411764706

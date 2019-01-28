@@ -1,0 +1,24 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) this(0.0) resolution(1.0) recognizes(1.0) the(0.0) 50th(0.0) anniversary(0.0) of(0.0) the(0.0) Warsaw(0.0) uprising(1.0) .(0.0) On(0.0) August(0.0) 1(0.0) ,(0.0) 1944(0.0) ,(0.0) the(0.0) 
+Polish(0.0) Home(0.0) Army(0.0) rebelled(0.0) against(0.0) the(0.0) Nazis(1.0) who(0.0) were(0.0) evacuating(0.0) Warsaw(0.0) as(0.0) the(0.0) Soviet(0.0) Army(0.0) advanced(0.0) .(0.0) The(0.0) Polish(0.0) Home(0.0) 
+Army(0.0) held(0.0) major(0.0) portions(0.0) of(0.0) the(0.0) city(0.0) of(0.0) Warsaw(0.0) against(0.0) the(0.0) Nazis(1.0) for(0.0) 63(0.0) days(0.0) ,(0.0) with(0.0) over(0.0) 250,000(0.0) missing(0.0) 
+,(0.0) wounded(0.0) ,(0.0) or(0.0) killed(0.0) in(0.0) the(0.0) fighting(0.0) .(0.0) In(0.0) reprisal(1.0) for(0.0) this(0.0) uprising(1.0) ,(0.0) the(0.0) city(1.0) was(0.0) bombed(0.0) ,(0.0) 
+with(0.0) over(0.0) 70(0.0) percent(0.0) of(0.0) it(0.0) demolished(0.0) .(0.0) This(0.0) year(0.0) ,(0.0) when(0.0) we(0.0) are(0.0) commemorating(1.0) other(0.0) momentous(0.0) anniversaries(0.0) connected(0.0) with(0.0) 
+World(0.0) War(0.0) II(0.0) ,(0.0) I(0.0) believe(0.0) it(0.0) is(0.0) important(0.0) that(0.0) we(0.0) remember(0.0) the(0.0) sacrifice(1.0) of(0.0) the(0.0) Polish(1.0) people(0.0) in(0.0) Warsaw(1.0) 
+.(0.0) I(0.0) support(0.0) this(0.0) resolution(1.0) and(0.0) I(0.0) commend(0.0) Ms.(0.0) Kaptur(1.0) for(0.0) working(0.0) with(0.0) us(0.0) to(0.0) bring(0.0) this(0.0) before(0.0) the(0.0) House(0.0) 
+.(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	resolution	recognizes	uprising	
+Nazis	
+Nazis	
+reprisal	uprising	city	
+commemorating	
+sacrifice	Polish	Warsaw	
+resolution	Kaptur	
+Speaker	
+
+reads % = 0.10457516339869281

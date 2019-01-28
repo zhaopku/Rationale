@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) ask(0.0) America(1.0) to(0.0) wake(0.0) up(0.0) .(0.0) Watch(0.0) what(0.0) is(0.0) going(0.0) on(0.0) here(0.0) on(0.0) the(0.0) floor(0.0) of(0.0) 
+Congress(0.0) .(0.0) America(1.0) has(0.0) seen(0.0) that(0.0) we(0.0) can(0.0) not(0.0) pass(0.0) effective(0.0) gun(1.0) reform(1.0) in(0.0) this(0.0) Congress(1.0) because(0.0) we(0.0) are(0.0) wedded(1.0) 
+to(0.0) the(0.0) NRA(1.0) .(1.0) Well(1.0) ,(0.0) I(0.0) want(0.0) you(0.0) to(0.0) do(0.0) something(0.0) about(0.0) it(0.0) .(0.0) I(0.0) want(0.0) you(0.0) to(0.0) wake(0.0) 
+up(0.0) your(0.0) mayors(1.0) ,(0.0) city(1.0) councils(1.0) ,(0.0) county(1.0) supervisors(0.0) ,(0.0) wake(0.0) up(0.0) your(0.0) school(1.0) boards(0.0) ,(0.0) wake(0.0) up(0.0) your(0.0) State(1.0) 
+legislators(0.0) ,(0.0) because(0.0) they(0.0) can(0.0) do(0.0) what(0.0) we(0.0) can(0.0) not(0.0) do(0.0) .(0.0) They(0.0) can(0.0) pass(0.0) laws(1.0) regulating(1.0) gun(1.0) business(1.0) .(0.0) 
+Mr.(0.0) Speaker(1.0) ,(0.0) 67(0.0) cities(1.0) and(0.0) dozens(0.0) of(0.0) counties(1.0) in(0.0) California(1.0) have(0.0) adopted(0.0) 183(0.0) local(0.0) firearm(0.0) regulations(1.0) ,(0.0) local(0.0) firearm(0.0) 
+regulations(1.0) .(0.0) The(0.0) State(1.0) legislature(0.0) has(0.0) passed(0.0) every(0.0) single(0.0) law(1.0) that(0.0) Congress(0.0) has(0.0) rejected(0.0) .(0.0) California(0.0) regulates(1.0) guns(1.0) ;(0.0) other(0.0) 
+counties(1.0) ,(0.0) cities(1.0) and(0.0) school(0.0) districts(0.0) regulate(1.0) ,(0.0) and(0.0) so(0.0) can(0.0) yours(0.0) .(0.0) So(0.0) local(0.0) governments(1.0) can(0.0) do(0.0) what(0.0) Congress(0.0) 
+has(0.0) refused(0.0) to(0.0) do(0.0) .(0.0) Wake(0.0) up(0.0) ,(0.0) America(1.0) .(0.0) Get(0.0) all(0.0) of(0.0) the(0.0) politicians(1.0) involved(0.0) in(0.0) this(0.0) .(0.0) Take(0.0) 
+this(0.0) issue(0.0) home(0.0) ,(0.0) and(0.0) give(0.0) it(0.0) to(0.0) your(0.0) local(0.0) legislators(0.0) and(0.0) make(0.0) those(0.0) laws(1.0) in(0.0) your(0.0) own(0.0) city(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+America	
+America	gun	reform	Congress	wedded	
+NRA	.	Well	
+mayors	city	councils	county	school	State	
+laws	regulating	gun	business	
+Speaker	cities	counties	California	regulations	
+regulations	State	law	regulates	guns	
+counties	cities	regulate	governments	
+America	politicians	
+laws	
+
+
+reads % = 0.1791044776119403

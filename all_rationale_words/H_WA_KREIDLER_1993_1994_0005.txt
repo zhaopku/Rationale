@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) the(0.0) plague(1.0) of(0.0) violence(1.0) sweeping(1.0) across(0.0) this(0.0) country(1.0) threatens(1.0) every(0.0) family(0.0) ,(0.0) every(0.0) neighborhood(1.0) ,(0.0) every(0.0) community(0.0) .(0.0) 
+Crime(1.0) statistics(0.0) fail(0.0) to(0.0) tell(0.0) the(0.0) full(0.0) story(0.0) .(0.0) Even(0.0) though(0.0) some(0.0) crime(1.0) rates(1.0) are(0.0) down(0.0) ,(0.0) the(0.0) fear(1.0) of(0.0) 
+crime(1.0) --(0.0) especially(0.0) random(0.0) ,(0.0) senseless(1.0) violence(1.0) --(0.0) is(0.0) destroying(1.0) the(0.0) quality(0.0) of(0.0) life(0.0) for(0.0) millions(1.0) of(0.0) Americans(1.0) .(0.0) In(0.0) 
+Washington(1.0) State(0.0) ,(0.0) the(0.0) percent(0.0) of(0.0) homicides(1.0) in(0.0) which(0.0) the(0.0) victim(0.0) was(0.0) killed(0.0) by(0.0) a(0.0) stranger(0.0) increased(0.0) from(0.0) 12(0.0) percent(0.0) 
+to(0.0) 28(0.0) percent(0.0) from(0.0) 1984(0.0) to(0.0) 1992(0.0) .(0.0) We(0.0) used(0.0) to(0.0) think(0.0) of(0.0) crime(1.0) as(0.0) a(0.0) problem(0.0) of(0.0) the(0.0) inner(0.0) 
+cities(0.0) ,(0.0) and(0.0) it(0.0) still(0.0) is(0.0) among(0.0) the(0.0) greatest(0.0) problems(0.0) in(0.0) urban(1.0) areas(0.0) .(0.0) The(0.0) congressional(1.0) district(1.0) I(0.0) represent(0.0) is(0.0) 
+almost(0.0) entirely(0.0) suburban(1.0) .(0.0) But(0.0) in(0.0) one(0.0) community(0.0) of(0.0) 20,000(0.0) people(0.0) ,(0.0) there(0.0) were(0.0) 1,500(0.0) violent(1.0) crimes(1.0) last(0.0) year(0.0) --(0.0) 
+a(0.0) rate(0.0) three(0.0) and(0.0) a(0.0) half(0.0) times(0.0) New(1.0) York(1.0) City(1.0) 's(0.0) .(0.0) Suburban(0.0) schools(1.0) are(0.0) installing(0.0) metal(0.0) detectors(1.0) .(0.0) Driveby(0.0) 
+shootings(1.0) can(0.0) happen(0.0) anywhere(0.0) .(0.0) Children(0.0) are(0.0) killing(1.0) children(0.0) .(0.0) In(0.0) the(0.0) 9th(0.0) district(0.0) ,(0.0) we(0.0) have(0.0) had(0.0) our(0.0) share(0.0) 
+of(0.0) tragedies(1.0) in(0.0) just(0.0) the(0.0) last(0.0) few(0.0) months(0.0) :(0.0) Thirteen-year-old(0.0) Larry(0.0) Rodgers(1.0) ,(0.0) stabbed(0.0) to(0.0) death(1.0) in(0.0) Lacey(1.0) last(0.0) November(0.0) 
+by(0.0) reputed(0.0) gang(0.0) members(0.0) because(0.0) of(0.0) the(0.0) color(0.0) of(0.0) his(0.0) clothes(0.0) .(0.0) Sixteen-year-old(0.0) Zachariah(0.0) Spears(1.0) ,(0.0) shot(0.0) to(0.0) death(0.0) a(0.0) 
+few(0.0) days(0.0) before(0.0) Christmas(0.0) at(0.0) Sea-Tac(1.0) Mall(0.0) .(0.0) Fifteen-year-old(0.0) Shaun(0.0) Proctor(1.0) ,(0.0) shot(0.0) to(0.0) death(0.0) in(0.0) the(0.0) back(0.0) on(0.0) New(1.0) 
+Year(0.0) 's(0.0) Day(0.0) in(0.0) an(0.0) apparent(0.0) robbery(0.0) attempt(0.0) in(0.0) Tukwila(1.0) .(0.0) Sixteen-year-old(0.0) Tyrone(1.0) Leon(1.0) Anthony(1.0) ,(0.0) gunned(0.0) down(0.0) in(0.0) February(0.0) 
+during(0.0) an(0.0) argument(0.0) with(0.0) other(0.0) teenagers(0.0) at(0.0) a(0.0) Milton(0.0) convenience(0.0) store(0.0) .(0.0) Youngsters(0.0) like(0.0) these(0.0) ,(0.0) their(0.0) families(0.0) ,(0.0) and(0.0) 
+our(0.0) communities(1.0) deserve(0.0) security(0.0) and(0.0) justice(1.0) .(0.0) Those(0.0) who(0.0) prey(0.0) on(0.0) them(0.0) deserve(1.0) punishment(1.0) .(0.0) Whatever(0.0) else(0.0) we(0.0) think(0.0) about(0.0) 
+the(0.0) role(0.0) of(0.0) government(1.0) ,(0.0) we(0.0) all(0.0) agree(0.0) that(0.0) government(1.0) 's(0.0) first(0.0) duty(0.0) is(0.0) to(0.0) assure(0.0) public(1.0) safety(0.0) .(0.0) State(1.0) 
+and(0.0) local(0.0) governments(1.0) have(0.0) assumed(0.0) this(0.0) duty(0.0) throughout(0.0) history(0.0) ,(0.0) and(0.0) continue(0.0) to(0.0) have(0.0) primary(0.0) responsibility(0.0) .(0.0) But(0.0) the(0.0) Federal(1.0) 
+Government(1.0) can(0.0) and(0.0) must(0.0) do(0.0) more(0.0) to(0.0) help(0.0) .(0.0) That(0.0) is(0.0) why(0.0) I(0.0) support(0.0) this(0.0) Violent(1.0) Crime(1.0) Control(0.0) and(0.0) Law(0.0) 
+Enforcement(0.0) Act(0.0) --(0.0) a(0.0) comprehensive(0.0) ,(0.0) balanced(0.0) strategy(1.0) to(0.0) combat(0.0) crime(1.0) and(0.0) violence(1.0) .(0.0) This(0.0) bill(1.0) authorizes(1.0) $(0.0) 3.45(0.0) billion(1.0) 
+in(0.0) the(0.0) next(0.0) 5(0.0) years(0.0) to(0.0) pay(0.0) for(0.0) up(0.0) to(0.0) 50,000(0.0) more(0.0) local(1.0) police(0.0) officers(0.0) across(0.0) this(0.0) country(1.0) .(0.0) This(0.0) 
+will(0.0) help(0.0) cities(1.0) in(0.0) the(0.0) 9th(0.0) district(0.0) like(0.0) Renton(1.0) ,(0.0) Sea-Tac(1.0) ,(0.0) Tenino(1.0) ,(0.0) and(0.0) Yelm(1.0) ,(0.0) which(0.0) have(0.0) applied(0.0) 
+for(0.0) the(0.0) more(0.0) limited(0.0) funding(1.0) we(0.0) authorized(0.0) last(0.0) year(0.0) .(0.0) Communities(0.0) like(0.0) these(0.0) need(0.0) more(0.0) police(0.0) to(0.0) patrol(1.0) the(0.0) streets(1.0) 
+,(0.0) work(0.0) with(0.0) neighborhoods(1.0) and(0.0) business(0.0) owners(0.0) ,(0.0) respond(0.0) rapidly(0.0) to(0.0) crime(1.0) reports(0.0) ,(0.0) and(0.0) arrest(1.0) offenders(1.0) .(0.0) Without(0.0) adequate(1.0) 
+policing(1.0) ,(0.0) we(0.0) can(0.0) not(0.0) hope(0.0) to(0.0) get(0.0) criminals(1.0) off(0.0) our(0.0) streets(1.0) .(0.0) The(0.0) bill(1.0) also(0.0) includes(0.0) new(0.0) sentencing(1.0) laws(1.0) 
+that(0.0) send(0.0) a(0.0) powerful(0.0) message(0.0) to(0.0) violent(1.0) criminals(1.0) :(0.0) ``(0.0) Three(0.0) strikes(0.0) and(0.0) you(0.0) 're(0.0) out(0.0) !(0.0) ''(0.0) As(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	plague	violence	sweeping	country	threatens	neighborhood	
+Crime	crime	rates	fear	
+crime	senseless	violence	destroying	millions	Americans	
+Washington	homicides	
+crime	
+urban	congressional	district	
+suburban	violent	crimes	
+New	York	City	schools	detectors	
+shootings	killing	
+tragedies	Rodgers	death	Lacey	
+Spears	
+Sea-Tac	Proctor	New	
+Tukwila	Tyrone	Leon	Anthony	
+
+communities	justice	deserve	punishment	
+government	government	public	State	
+governments	Federal	
+Government	Violent	Crime	
+strategy	crime	violence	bill	authorizes	billion	
+local	country	
+cities	Renton	Sea-Tac	Tenino	Yelm	
+funding	patrol	streets	
+neighborhoods	crime	arrest	offenders	adequate	
+policing	criminals	streets	bill	sentencing	laws	
+violent	criminals	
+
+reads % = 0.174

@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Chairman(1.0) ,(0.0) I(0.0) move(0.0) to(0.0) strike(0.0) the(0.0) requisite(0.0) number(0.0) of(0.0) words(0.0) .(0.0) I(0.0) appreciate(1.0) the(0.0) amendment(1.0) offered(0.0) by(0.0) the(0.0) gentleman(0.0) 
+from(0.0) Illinois(1.0) ((0.0) Mr.(0.0) Manzullo(1.0) )(0.0) .(0.0) It(0.0) fits(0.0) in(0.0) with(0.0) the(0.0) longstanding(1.0) position(0.0) of(0.0) our(0.0) Committee(0.0) on(0.0) Transportation(0.0) and(0.0) 
+Infrastructure(1.0) on(0.0) Buy(0.0) America(0.0) on(0.0) steel(1.0) in(0.0) our(0.0) Federal(1.0) aid(1.0) highway(1.0) and(0.0) transit(1.0) and(0.0) Corps(1.0) of(0.0) Engineers(0.0) programs(1.0) .(0.0) It(0.0) 
+is(0.0) only(0.0) recently(0.0) the(0.0) committee(0.0) has(0.0) had(0.0) jurisdiction(1.0) over(0.0) the(0.0) Coast(1.0) Guard(0.0) ,(0.0) and(0.0) there(0.0) too(0.0) we(0.0) need(0.0) this(0.0) vigilance(0.0) 
+over(0.0) the(0.0) Truman-Hobbs(1.0) Act(0.0) .(0.0) I(0.0) authored(1.0) in(0.0) 1982(0.0) in(0.0) the(0.0) Surface(1.0) Transportation(0.0) Assistance(0.0) Act(0.0) of(0.0) that(0.0) year(0.0) a(0.0) provision(0.0) 
+that(0.0) requires(1.0) American(0.0) steel(1.0) to(0.0) be(0.0) used(0.0) in(0.0) all(0.0) Federal-aid(1.0) highway(1.0) projects(0.0) .(0.0) The(0.0) amendment(1.0) accepted(1.0) in(0.0) committee(0.0) and(0.0) approved(0.0) 
+in(0.0) the(0.0) House(0.0) required(0.0) 100(0.0) percent(1.0) American(0.0) steel(1.0) on(0.0) all(0.0) Federal-aid(1.0) highway(1.0) programs(1.0) ;(0.0) and(0.0) when(0.0) we(0.0) got(1.0) to(0.0) conference(0.0) 
+with(0.0) the(0.0) Senate(1.0) ,(0.0) we(0.0) had(0.0) a(0.0) little(0.0) dispute(0.0) .(0.0) They(0.0) wanted(0.0) to(0.0) be(0.0) more(0.0) supportive(1.0) of(0.0) international(0.0) trade(1.0) ,(0.0) 
+and(0.0) we(0.0) worked(0.0) out(0.0) language(0.0) that(0.0) I(0.0) had(1.0) a(0.0) fallback(1.0) position(0.0) on(0.0) ,(0.0) and(0.0) it(0.0) has(0.0) worked(0.0) out(0.0) well(0.0) .(0.0) 
+It(0.0) requires(0.0) all(0.0) steel(1.0) in(0.0) the(0.0) Federal-aid(1.0) highway(1.0) program(0.0) to(0.0) be(0.0) American(0.0) steel(1.0) .(0.0) What(0.0) we(0.0) see(0.0) is(0.0) every(0.0) bridge(1.0) 
+,(0.0) every(0.0) girder(1.0) ,(0.0) every(0.0) rebar(1.0) ,(0.0) every(0.0) guardrail(1.0) ,(0.0) every(0.0) fence(0.0) post(0.0) is(0.0) American(0.0) steel(1.0) .(0.0) When(1.0) I(0.0) chaired(1.0) 
+the(0.0) Subcommittee(0.0) on(0.0) Investigations(0.0) and(0.0) Oversight(0.0) in(0.0) the(0.0) mid-1980s(1.0) ,(0.0) my(0.0) good(0.0) friend(0.0) Bill(1.0) Clinger(1.0) ,(0.0) who(1.0) was(0.0) ranking(1.0) Republican(1.0) 
+on(1.0) the(0.0) subcommittee(0.0) at(0.0) the(0.0) time(0.0) ,(0.0) and(0.0) I(0.0) conducted(1.0) extensive(0.0) inquiry(0.0) into(0.0) the(0.0) application(0.0) of(0.0) the(0.0) Buy(0.0) American(0.0) Act(0.0) 
+,(0.0) and(0.0) we(0.0) found(0.0) that(0.0) the(0.0) Federal(1.0) Highway(1.0) Administration(0.0) was(0.0) administering(1.0) that(0.0) program(0.0) rigorously(0.0) .(0.0) Two(1.0) million(0.0) tons(0.0) of(0.0) steel(1.0) 
+a(0.0) year(0.0) that(0.0) go(1.0) into(0.0) the(0.0) Federal-(1.0) aid(1.0) highway(1.0) program(0.0) is(0.0) American(0.0) steel(1.0) .(0.0) It(0.0) was(0.0) not(1.0) quite(0.0) so(1.0) good(0.0) 
+in(0.0) the(0.0) Federal(1.0) Transit(1.0) Administration(0.0) .(0.0) The(0.0) Corps(1.0) of(0.0) Engineers(0.0) was(0.0) not(1.0) doing(0.0) a(0.0) very(0.0) good(0.0) job(1.0) at(0.0) all(0.0) .(0.0) 
+When(1.0) they(0.0) put(0.0) in(0.0) the(0.0) caissons(1.0) for(0.0) the(0.0) footings(1.0) for(0.0) bridges(1.0) that(0.0) the(0.0) Corps(1.0) of(0.0) Engineers(0.0) built(0.0) ,(0.0) they(0.0) used(0.0) 
+foreign(0.0) steel(1.0) .(0.0) They(0.0) built(0.0) the(0.0) bridge(1.0) with(0.0) American(0.0) steel(1.0) .(0.0) I(0.0) said(1.0) wait(0.0) a(0.0) minute(1.0) ,(0.0) how(1.0) can(0.0) they(0.0) 
+do(0.0) this(0.0) ?(0.0) Well(0.0) ,(0.0) this(0.0) is(0.0) a(0.0) temporary(1.0) structure(0.0) .(0.0) But(0.0) I(0.0) found(1.0) that(0.0) the(0.0) corps(1.0) leaves(0.0) that(0.0) steel(1.0) 
+covering(1.0) for(0.0) the(0.0) caisson(1.0) in(0.0) place(0.0) afterward(0.0) to(0.0) help(0.0) against(0.0) scouring(0.0) at(0.0) the(0.0) time(0.0) of(0.0) flood(0.0) .(0.0) I(0.0) said(1.0) ,(0.0) 
+so(1.0) that(0.0) is(0.0) a(0.0) permanent(1.0) structure(0.0) .(0.0) So(1.0) we(0.0) changed(0.0) the(0.0) law(1.0) to(0.0) toughen(1.0) it(0.0) up(0.0) so(0.0) the(0.0) corps(0.0) could(0.0) 
+not(1.0) circumvent(1.0) the(0.0) Buy(0.0) America(0.0) provision(0.0) .(0.0) Now(0.0) we(0.0) come(0.0) to(0.0) the(0.0) Coast(1.0) Guard(0.0) and(0.0) the(0.0) Truman-Hobbs(1.0) bridge(1.0) alteration(0.0) program(0.0) 
+.(0.0) The(0.0) language(0.0) that(0.0) the(0.0) gentleman(0.0) offers(1.0) restates(1.0) a(0.0) provision(0.0) that(0.0) is(0.0) already(0.0) in(0.0) the(0.0) Homeland(0.0) Security(1.0) Appropriations(0.0) Act(0.0) that(0.0) 
+requires(1.0) American(0.0) steel(1.0) to(0.0) be(0.0) used(0.0) in(0.0) these(1.0) projects(0.0) ,(0.0) but(0.0) we(0.0) ought(1.0) to(0.0) put(0.0) it(0.0) in(0.0) here(0.0) .(0.0) We(0.0) 
+ought(1.0) to(0.0) reinforce(0.0) an(0.0) already-established(1.0) strongly(0.0) held(0.0) principle(0.0) .(0.0) These(0.0) are(0.0) American(0.0) dollars(1.0) ,(0.0) taxpayer(1.0) dollars(0.0) .(0.0) In(0.0) the(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	appreciate	amendment	
+Illinois	Manzullo	longstanding	
+Infrastructure	steel	Federal	aid	highway	transit	Corps	programs	
+jurisdiction	Coast	
+Truman-Hobbs	authored	Surface	
+requires	steel	Federal-aid	highway	amendment	accepted	
+percent	steel	Federal-aid	highway	programs	got	
+Senate	supportive	trade	
+had	fallback	
+steel	Federal-aid	highway	steel	bridge	
+girder	rebar	guardrail	steel	When	chaired	
+mid-1980s	Bill	Clinger	who	ranking	Republican	
+on	conducted	
+Federal	Highway	administering	Two	steel	
+go	Federal-	aid	highway	steel	not	so	
+Federal	Transit	Corps	not	job	
+When	caissons	footings	bridges	Corps	
+steel	bridge	steel	said	minute	how	
+temporary	found	corps	steel	
+covering	caisson	said	
+so	permanent	So	law	toughen	
+not	circumvent	Coast	Truman-Hobbs	bridge	
+offers	restates	Security	
+requires	steel	these	ought	
+ought	already-established	dollars	taxpayer	
+
+reads % = 0.222

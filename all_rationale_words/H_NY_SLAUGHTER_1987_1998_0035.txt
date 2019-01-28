@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) scientists(0.0) recently(0.0) announced(0.0) a(0.0) breakthrough(0.0) in(0.0) the(0.0) treatment(0.0) of(0.0) cancer(1.0) ,(0.0) one(0.0) of(0.0) the(0.0) deadliest(1.0) and(0.0) most(0.0) common(0.0) diseases(0.0) 
+plaguing(1.0) humanity(1.0) .(0.0) A(0.0) combination(0.0) of(0.0) two(0.0) drugs(1.0) has(0.0) been(0.0) shown(0.0) to(0.0) prevent(1.0) tumors(0.0) from(0.0) spawning(1.0) the(0.0) growth(1.0) of(0.0) new(0.0) 
+blood(0.0) vessels(0.0) that(0.0) allow(0.0) the(0.0) tumor(1.0) to(0.0) grow(0.0) .(0.0) The(0.0) advances(1.0) in(0.0) genetic(1.0) testing(0.0) now(0.0) allows(0.0) us(0.0) to(0.0) pinpoint(0.0) people(0.0) 
+who(0.0) are(0.0) at(0.0) high(0.0) risk(0.0) for(0.0) common(0.0) cancers(0.0) like(0.0) breast(1.0) cancer(1.0) and(0.0) colorectal(1.0) cancer(1.0) .(0.0) Tragically(0.0) ,(0.0) however(0.0) ,(0.0) people(0.0) 
+are(0.0) afraid(0.0) to(0.0) take(0.0) those(0.0) genetic(0.0) tests(0.0) that(0.0) would(0.0) allow(0.0) them(0.0) to(0.0) take(0.0) advantage(0.0) of(0.0) new(0.0) anti-cancer(1.0) drugs(1.0) at(0.0) the(0.0) 
+earliest(0.0) possible(0.0) phases(0.0) of(0.0) cancer(1.0) .(0.0) They(0.0) refuse(0.0) to(0.0) take(0.0) these(0.0) tests(0.0) because(0.0) they(0.0) fear(0.0) genetic(0.0) discrimination(1.0) ,(0.0) especially(0.0) in(0.0) 
+health(1.0) insurance(1.0) .(0.0) Congress(0.0) could(0.0) solve(0.0) the(0.0) problem(0.0) by(0.0) passing(0.0) H.R(0.0) .(0.0) 306(0.0) ,(0.0) The(0.0) Genetic(0.0) Information(0.0) Nondiscrimination(1.0) Health(0.0) Insurance(0.0) 
+Act(0.0) ,(0.0) which(0.0) has(0.0) 200(0.0) bipartisan(1.0) sponsors(0.0) .(0.0) To(0.0) date(0.0) ,(0.0) however(0.0) ,(0.0) we(0.0) have(0.0) not(0.0) been(0.0) able(0.0) to(0.0) get(0.0) 
+a(0.0) schedule(0.0) to(0.0) vote(1.0) on(0.0) this(0.0) proposal(1.0) ;(0.0) and(0.0) ,(0.0) as(0.0) a(0.0) result(0.0) ,(0.0) Americans(1.0) are(0.0) forced(0.0) to(0.0) make(0.0) a(0.0) 
+Hobson(0.0) 's(0.0) choice(0.0) between(0.0) learning(0.0) vital(0.0) health(1.0) information(0.0) and(0.0) risking(1.0) their(0.0) health(1.0) insurance(1.0) .(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) demand(1.0) 
+a(0.0) vote(0.0) on(0.0) H.R(0.0) .(0.0) 306(0.0) to(0.0) protect(0.0) all(0.0) of(0.0) our(0.0) constituents(1.0) against(0.0) genetic(1.0) discrimination(1.0) and(0.0) allow(0.0) them(0.0) to(0.0) make(0.0) 
+health(1.0) decisions(1.0) based(0.0) on(0.0) sound(0.0) medical(1.0) facts(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+cancer	deadliest	
+plaguing	humanity	drugs	prevent	spawning	growth	
+tumor	advances	genetic	
+breast	cancer	colorectal	cancer	
+anti-cancer	drugs	
+cancer	discrimination	
+health	insurance	Nondiscrimination	
+bipartisan	
+vote	proposal	Americans	
+health	risking	health	insurance	demand	
+constituents	genetic	discrimination	
+health	decisions	medical	
+
+reads % = 0.1615720524017467

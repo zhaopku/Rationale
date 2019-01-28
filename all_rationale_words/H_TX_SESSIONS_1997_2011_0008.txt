@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) am(0.0) joined(0.0) by(0.0) the(0.0) chairman(0.0) of(0.0) the(0.0) Rules(0.0) Committee(0.0) ,(0.0) and(0.0) I(0.0) will(0.0) tell(0.0) you(0.0) that(0.0) he(0.0) is(0.0) 
+so(0.0) pleased(0.0) that(0.0) we(0.0) have(0.0) not(0.0) only(0.0) this(0.0) bill(1.0) that(0.0) has(0.0) been(0.0) brought(0.0) to(0.0) the(0.0) floor(0.0) ,(0.0) but(0.0) he(0.0) is(0.0) 
+so(0.0) pleased(0.0) that(0.0) we(0.0) are(0.0) taking(0.0) the(0.0) time(0.0) to(0.0) speak(0.0) about(0.0) the(0.0) facts(0.0) of(0.0) the(0.0) case(0.0) .(0.0) And(0.0) one(0.0) fact(0.0) 
+is(0.0) that(0.0) the(0.0) first(0.0) bill(1.0) that(0.0) we(0.0) took(0.0) up(0.0) was(0.0) the(0.0) bill(1.0) to(0.0) repeal(1.0) ObamaCare(1.0) .(0.0) It(0.0) had(0.0) nothing(0.0) to(0.0) 
+do(0.0) with(0.0) the(0.0) Clean(1.0) Air(0.0) Act(0.0) .(0.0) It(0.0) had(0.0) everything(0.0) to(0.0) do(0.0) with(0.0) a(0.0) bill(1.0) which(0.0) has(0.0) caused(0.0) an(0.0) amazing(0.0) 
+number(0.0) of(0.0) regulations(1.0) .(0.0) And(0.0) I(0.0) would(0.0) like(0.0) to(0.0) quote(0.0) ,(0.0) if(0.0) I(0.0) can(0.0) ,(0.0) a(0.0) fact(0.0) that(0.0) ,(0.0) since(0.0) 
+the(0.0) passage(1.0) in(0.0) March(0.0) 2010(0.0) ,(0.0) the(0.0) Patient(0.0) Protection(0.0) and(0.0) Affordable(1.0) Care(0.0) Act(0.0) ,(0.0) which(0.0) is(0.0) known(0.0) as(0.0) ObamaCare(1.0) ,(0.0) 
+has(0.0) added(0.0) 6,123(0.0) pages(0.0) of(0.0) regulations(1.0) ,(0.0) and(0.0) the(0.0) Federal(1.0) Register(0.0) has(0.0) printed(0.0) those(0.0) just(0.0) over(0.0) the(0.0) last(0.0) 9(0.0) months(0.0) 
+.(0.0) Secondly(0.0) ,(0.0) according(0.0) to(0.0) a(0.0) September(0.0) 2010(0.0) report(0.0) from(0.0) the(0.0) Small(0.0) Business(0.0) Administration(0.0) ,(0.0) total(0.0) regulatory(1.0) costs(1.0) amount(0.0) to(0.0) 
+$(0.0) 1.75(0.0) trillion(1.0) annually(0.0) ,(0.0) which(0.0) is(0.0) nearly(0.0) twice(0.0) as(0.0) much(0.0) as(0.0) all(0.0) individual(0.0) income(1.0) taxes(1.0) collected(0.0) last(0.0) year(0.0) .(0.0) 
+That(0.0) means(0.0) that(0.0) the(0.0) ability(0.0) for(0.0) a(0.0) person(0.0) to(0.0) have(0.0) to(0.0) fill(0.0) out(0.0) all(0.0) of(0.0) their(0.0) paperwork(1.0) ,(0.0) the(0.0) cost(1.0) 
+of(0.0) that(0.0) is(0.0) twice(0.0) what(0.0) we(0.0) even(0.0) collected(0.0) in(0.0) taxes(1.0) .(0.0) There(0.0) is(0.0) a(0.0) balance(0.0) here(0.0) that(0.0) 's(0.0) been(0.0) overrun(0.0) 
+.(0.0) House(0.0) Republicans(1.0) :(1.0) Identifying(0.0) and(0.0) Removing(1.0) Onerous(1.0) Job-Destroying(0.0) Regulations(1.0) This(0.0) week(0.0) ,(0.0) House(0.0) Republicans(1.0) are(1.0) bringing(1.0) a(1.0) resolution(1.0) to(0.0) 
+the(0.0) floor(0.0) directing(0.0) the(0.0) committees(0.0) to(0.0) inventory(0.0) and(0.0) review(0.0) federal(1.0) agency(1.0) rules(0.0) and(0.0) regulations(1.0) that(0.0) may(0.0) unfairly(1.0) harm(0.0) the(0.0) ability(0.0) 
+to(0.0) create(0.0) jobs(1.0) and(0.0) grow(0.0) the(0.0) economy(1.0) .(0.0) While(0.0) the(0.0) nation(1.0) suffers(0.0) from(0.0) 21(0.0) straight(0.0) months(0.0) of(0.0) unemployment(1.0) at(0.0) 9(0.0) 
+percent(0.0) or(0.0) higher(0.0) ,(0.0) President(0.0) Obama(1.0) and(0.0) congressional(0.0) Democrats(1.0) have(0.0) doubled(0.0) down(0.0) on(0.0) their(0.0) strategy(1.0) to(0.0) burden(1.0) job(0.0) creators(0.0) with(0.0) 
+more(0.0) government(1.0) red(0.0) tape(0.0) .(0.0) With(0.0) the(0.0) U.S.(0.0) economy(1.0) struggling(0.0) and(0.0) American(0.0) families(0.0) hard(0.0) pressed(0.0) to(0.0) pay(1.0) their(0.0) bills(1.0) and(0.0) 
+put(0.0) food(1.0) on(0.0) the(0.0) table(0.0) ,(0.0) the(0.0) costs(1.0) of(0.0) federal(1.0) regulations(1.0) have(0.0) never(0.0) been(0.0) more(0.0) significant(0.0) .(0.0) The(0.0) fact(0.0) is(0.0) 
+that(0.0) federal(1.0) regulations(1.0) increase(1.0) the(0.0) cost(1.0) of(0.0) doing(0.0) business(0.0) and(0.0) destroy(1.0) jobs(1.0) .(0.0) Undue(1.0) and(0.0) archaic(1.0) government(1.0) red(0.0) tape(0.0) takes(0.0) 
+money(1.0) out(0.0) of(0.0) the(0.0) hands(0.0) of(0.0) families(0.0) and(0.0) businesses(1.0) .(0.0) Agencies(0.0) should(0.0) not(0.0) be(0.0) authorized(0.0) to(0.0) heap(0.0) billions(1.0) in(0.0) new(0.0) 
+added(0.0) costs(1.0) on(0.0) the(0.0) economy(1.0) without(0.0) reducing(1.0) another(0.0) burden(1.0) elsewhere(0.0) .(0.0) Job-Crushing(0.0) Regulations(0.0) --(0.0) By(0.0) the(0.0) Numbers(0.0) During(0.0) the(0.0) Democrats(1.0) 
+'(0.0) leadership(0.0) of(0.0) Congress(0.0) ,(0.0) unemployment(1.0) skyrocketed(1.0) from(0.0) 4.6(0.0) percent(0.0) to(0.0) 9(0.0) percent(0.0) as(0.0) the(0.0) economy(1.0) has(0.0) lost(0.0) more(0.0) than(0.0) 
+6.8(0.0) million(1.0) jobs(1.0) .(0.0) With(0.0) 243(0.0) expected(0.0) rulemakings(1.0) from(0.0) the(0.0) Democrats(1.0) '(0.0) permanent(0.0) bailout(1.0) of(0.0) Wall(0.0) Street(1.0) law(1.0) ,(0.0) and(0.0) 
+the(0.0) inestimable(1.0) number(0.0) of(0.0) regulations(1.0) to(0.0) come(0.0) from(0.0) ObamaCare(1.0) 's(0.0) government(1.0) takeover(1.0) of(0.0) healthcare(1.0) ,(0.0) the(0.0) President(1.0) 's(0.0) newfound(0.0) concern(0.0) 
+for(0.0) the(0.0) regulatory(1.0) burdens(1.0) facing(0.0) employers(1.0) does(0.0) not(0.0) match(0.0) his(0.0) actions(0.0) over(0.0) the(0.0) past(0.0) two(0.0) years(0.0) .(0.0) The(0.0) Obama(1.0) 
+
+
+----- below are rationale words -----
+
+
+bill	
+
+bill	bill	repeal	ObamaCare	
+Clean	bill	
+regulations	
+passage	Affordable	ObamaCare	
+regulations	Federal	
+regulatory	costs	
+trillion	income	taxes	
+paperwork	cost	
+taxes	
+Republicans	:	Removing	Onerous	Regulations	Republicans	are	bringing	a	resolution	
+federal	agency	regulations	unfairly	
+jobs	economy	nation	unemployment	
+Obama	Democrats	strategy	burden	
+government	economy	pay	bills	
+food	costs	federal	regulations	
+federal	regulations	increase	cost	destroy	jobs	Undue	archaic	government	
+money	businesses	billions	
+costs	economy	reducing	burden	Democrats	
+unemployment	skyrocketed	economy	
+million	jobs	rulemakings	Democrats	bailout	Street	law	
+inestimable	regulations	ObamaCare	government	takeover	healthcare	President	
+regulatory	burdens	employers	Obama	
+
+reads % = 0.178

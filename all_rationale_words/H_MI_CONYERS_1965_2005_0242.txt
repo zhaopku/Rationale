@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentlewoman(0.0) from(0.0) California(0.0) for(0.0) her(0.0) kind(0.0) remarks(0.0) and(0.0) remembrances(0.0) of(0.0) Rosa(0.0) Parks(0.0) ;(0.0) and(0.0) now(0.0) ,(0.0) 
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) am(0.0) very(0.0) pleased(0.0) to(0.0) yield(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) North(0.0) Carolina(0.0) ((0.0) Mr.(0.0) Watt(1.0) )(0.0) ,(0.0) 
+the(0.0) chairman(0.0) of(0.0) the(0.0) Congressional(0.0) Black(1.0) Caucus(1.0) ,(0.0) a(0.0) veteran(0.0) member(0.0) of(0.0) the(0.0) North(0.0) Carolina(0.0) bar(0.0) and(0.0) member(0.0) of(0.0) the(0.0) 
+Committee(0.0) on(0.0) the(0.0) Judiciary(0.0) of(0.0) the(0.0) House(0.0) of(0.0) Representatives(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Speaker	Watt	
+Black	Caucus	
+
+
+reads % = 0.056338028169014086

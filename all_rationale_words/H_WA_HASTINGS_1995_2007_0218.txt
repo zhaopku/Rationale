@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) if(0.0) the(0.0) gentleman(0.0) will(0.0) yield(0.0) further(0.0) ,(0.0) I(0.0) just(0.0) want(0.0) to(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) tell(0.0) my(0.0) colleagues(0.0) that(0.0) 
+there(0.0) was(0.0) no(0.0) Forbes(0.0) amendment(1.0) in(0.0) front(0.0) of(0.0) the(0.0) Rules(0.0) Committee(0.0) ,(0.0) so(0.0) I(0.0) ca(0.0) n't(0.0) even(0.0) pass(0.0) judgment(0.0) whether(0.0) 
+it(0.0) addressed(0.0) the(0.0) concerns(0.0) that(0.0) he(0.0) had(0.0) .(0.0) He(0.0) did(0.0) not(0.0) submit(0.0) an(0.0) amendment(1.0) to(0.0) the(0.0) Rules(1.0) Committee(0.0) .(0.0) He(0.0) 
+did(0.0) not(0.0) submit(0.0) an(0.0) amendment(1.0) to(0.0) the(0.0) Rules(1.0) Committee(0.0) because(0.0) he(0.0) was(0.0) given(0.0) the(0.0) assurances(1.0) that(0.0) the(0.0) concerns(1.0) that(0.0) were(0.0) 
+raised(0.0) when(0.0) the(0.0) bill(1.0) came(0.0) out(0.0) of(0.0) committee(0.0) would(0.0) be(0.0) addressed(0.0) .(0.0) While(0.0) the(0.0) gentleman(0.0) is(0.0) probably(0.0) talking(0.0) about(0.0) a(0.0) 
+potential(0.0) amendment(1.0) ,(0.0) nobody(0.0) on(0.0) the(0.0) Rules(0.0) Committee(0.0) saw(0.0) the(0.0) amendment(1.0) ,(0.0) because(0.0) the(0.0) amendment(1.0) was(0.0) not(0.0) submitted(0.0) to(0.0) the(0.0) 
+Rules(0.0) Committee(0.0) because(0.0) he(0.0) felt(0.0) his(0.0) concerns(0.0) were(0.0) not(0.0) addressed(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) allowing(0.0) 
+me(0.0) to(0.0) clarify(0.0) that(0.0) .(0.0) When(0.0) he(0.0) talks(0.0) about(0.0) the(0.0) Forbes(1.0) amendment(1.0) ,(0.0) there(0.0) is(0.0) ,(0.0) or(0.0) was(0.0) no(0.0) Forbes(0.0) 
+amendment(1.0) in(0.0) front(0.0) of(0.0) the(0.0) Rules(0.0) Committee(0.0) yesterday(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	
+amendment	
+amendment	Rules	
+amendment	Rules	assurances	concerns	
+bill	
+amendment	amendment	amendment	
+Speaker	
+Forbes	amendment	
+amendment	
+
+reads % = 0.09411764705882353

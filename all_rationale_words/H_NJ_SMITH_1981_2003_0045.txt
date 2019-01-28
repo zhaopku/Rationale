@@ -1,0 +1,44 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Chairman(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) his(0.0) outstanding(0.0) leadership(0.0) on(0.0) this(0.0) issue(0.0) .(0.0) Madam(0.0) Chairman(1.0) ,(0.0) nine(0.0) out(0.0) of(0.0) 
+ten(0.0) hospitals(1.0) in(0.0) the(0.0) United(0.0) States(0.0) adamantly(1.0) refuse(0.0) to(0.0) abort(0.0) unborn(1.0) children(1.0) ,(0.0) and(0.0) the(0.0) trend(1.0) is(0.0) for(0.0) hospitals(1.0) to(0.0) 
+divest(1.0) themselves(0.0) of(0.0) abortion(1.0) .(0.0) It(0.0) is(0.0) outrageous(1.0) that(0.0) ,(0.0) as(0.0) hospitals(1.0) in(0.0) our(0.0) country(1.0) repudiate(1.0) abortion(1.0) ,(0.0) the(0.0) Sanchez(1.0) 
+amendment(1.0) seeks(1.0) to(0.0) turn(0.0) our(0.0) overseas(1.0) military(0.0) hospitals(0.0) into(0.0) abortion(1.0) mills(1.0) .(0.0) With(0.0) all(0.0) due(0.0) respect(0.0) to(0.0) the(0.0) gentlewoman(0.0) from(0.0) 
+California(0.0) ((0.0) Ms.(1.0) Loretta(1.0) Sanchez(1.0) )(0.0) ,(0.0) the(0.0) amendment(1.0) she(0.0) offers(0.0) will(0.0) result(0.0) in(0.0) babies(0.0) being(0.0) brutally(0.0) killed(0.0) by(0.0) abortion(1.0) 
+and(0.0) will(0.0) force(1.0) pro-(1.0) life(0.0) Americans(1.0) to(0.0) facilitate(0.0) and(0.0) to(0.0) subsidize(1.0) the(0.0) slaughter(1.0) of(0.0) innocent(1.0) children(0.0) .(0.0) We(0.0) do(0.0) not(0.0) 
+want(0.0) any(0.0) part(0.0) of(0.0) that(0.0) carnage(1.0) ,(0.0) and(0.0) when(0.0) President(0.0) Clinton(1.0) in(0.0) the(0.0) previous(0.0) administration(1.0) sought(0.0) to(0.0) impose(1.0) this(0.0) kind(0.0) 
+of(0.0) activity(0.0) upon(0.0) our(0.0) military(0.0) not(0.0) a(0.0) single(0.0) military(0.0) doctor(0.0) in(0.0) our(0.0) overseas(1.0) hospitals(1.0) wanted(0.0) to(0.0) be(0.0) a(0.0) part(0.0) of(0.0) 
+it(0.0) .(0.0) They(0.0) had(0.0) to(0.0) look(0.0) outside(0.0) the(0.0) system(0.0) because(0.0) they(0.0) were(0.0) pro-life(1.0) ,(0.0) and(0.0) they(0.0) wanted(0.0) to(0.0) nurture(0.0) and(0.0) 
+care(0.0) for(0.0) ,(0.0) provide(0.0) maternal(1.0) health(1.0) care(1.0) ,(0.0) prenatal(1.0) health(1.0) care(1.0) ,(0.0) not(0.0) the(0.0) killing(1.0) of(0.0) those(0.0) babies(0.0) .(0.0) Madam(0.0) 
+Chairman(1.0) ,(0.0) let(0.0) us(0.0) be(0.0) clear(0.0) .(0.0) Abortion(1.0) is(0.0) violence(1.0) against(0.0) children(0.0) .(0.0) Some(0.0) abortion(1.0) methods(0.0) dismember(1.0) and(0.0) rip(1.0) apart(0.0) 
+the(0.0) fragile(1.0) bodies(1.0) of(0.0) children(0.0) .(0.0) Other(0.0) methods(0.0) chemically(0.0) poison(1.0) children(1.0) .(0.0) Abortionists(1.0) turn(0.0) children(0.0) 's(0.0) bodies(0.0) into(0.0) burned(0.0) corpses(0.0) 
+,(0.0) a(0.0) direct(0.0) result(0.0) of(0.0) the(0.0) caustic(1.0) effect(1.0) of(0.0) salt(0.0) poisoning(1.0) and(0.0) other(0.0) methods(0.0) of(0.0) chemical(1.0) abortions(1.0) .(0.0) I(0.0) would(0.0) 
+say(0.0) to(0.0) my(0.0) colleagues(0.0) ,(0.0) there(0.0) is(0.0) absolutely(0.0) nothing(0.0) benign(0.0) or(0.0) curing(0.0) or(0.0) nurturing(0.0) about(0.0) abortion(1.0) .(0.0) It(0.0) is(0.0) violence(1.0) 
+.(0.0) It(0.0) is(0.0) gruesome(0.0) .(0.0) And(0.0) yet(0.0) the(0.0) apologists(1.0) sanitize(0.0) the(0.0) awful(1.0) deed(0.0) with(0.0) soothing(0.0) ,(0.0) misleading(0.0) rhetoric(1.0) .(0.0) Abortion(1.0) 
+methods(0.0) are(0.0) particularly(0.0) ugly(1.0) because(0.0) ,(0.0) under(0.0) the(0.0) guise(1.0) of(0.0) choice(0.0) ,(0.0) they(0.0) turn(0.0) baby(0.0) girls(1.0) and(0.0) baby(0.0) boys(0.0) into(0.0) 
+dead(0.0) baby(0.0) girls(1.0) and(0.0) dead(0.0) baby(0.0) boys(1.0) .(0.0) We(0.0) have(0.0) had(0.0) enough(0.0) loss(0.0) of(0.0) innocent(1.0) life(0.0) .(0.0) Reject(1.0) the(0.0) Sanchez(1.0) 
+amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	
+hospitals	adamantly	unborn	children	trend	hospitals	
+divest	abortion	outrageous	hospitals	country	repudiate	abortion	Sanchez	
+amendment	seeks	overseas	abortion	mills	
+Ms.	Loretta	Sanchez	amendment	abortion	
+force	pro-	Americans	subsidize	slaughter	innocent	
+carnage	Clinton	administration	impose	
+overseas	hospitals	
+pro-life	
+maternal	health	care	prenatal	health	care	killing	
+Chairman	Abortion	violence	abortion	dismember	rip	
+fragile	bodies	poison	children	Abortionists	
+caustic	effect	poisoning	chemical	abortions	
+abortion	violence	
+apologists	awful	rhetoric	Abortion	
+ugly	guise	girls	
+girls	boys	innocent	Reject	Sanchez	
+amendment	
+
+reads % = 0.22157434402332363

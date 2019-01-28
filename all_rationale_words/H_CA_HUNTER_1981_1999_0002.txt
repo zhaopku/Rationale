@@ -1,0 +1,24 @@
+This is from a Republican
+----- below is the original text -----
+We(0.0) are(0.0) going(0.0) to(0.0) be(0.0) 18,000(0.0) sailors(1.0) short(0.0) this(0.0) year(0.0) in(0.0) the(0.0) U.S.(0.0) Navy(0.0) .(0.0) We(0.0) are(0.0) going(0.0) to(0.0) be(0.0) 700(0.0) 
+pilots(0.0) short(0.0) in(0.0) the(0.0) Air(0.0) Force(0.0) .(0.0) We(0.0) are(0.0) short(0.0) on(0.0) basic(0.0) ammunition(1.0) in(0.0) the(0.0) Army(0.0) and(0.0) the(0.0) Marine(0.0) Corps(0.0) 
+.(0.0) Our(0.0) equipment(0.0) is(0.0) aging(0.0) .(0.0) And(0.0) we(0.0) have(0.0) an(0.0) inadequate(1.0) budget(1.0) .(0.0) We(0.0) have(0.0) a(0.0) budget(0.0) which(0.0) is(0.0) $(0.0) 
+150(0.0) billion(1.0) less(0.0) on(0.0) an(0.0) annual(1.0) basis(0.0) than(0.0) the(0.0) Reagan(1.0) budgets(1.0) of(0.0) the(0.0) mid-1980s(1.0) .(0.0) Now(0.0) ,(0.0) we(0.0) do(0.0) not(0.0) 
+have(0.0) to(0.0) go(0.0) back(0.0) up(0.0) to(0.0) the(0.0) Reagan(1.0) budgets(1.0) because(0.0) the(0.0) Cold(1.0) War(0.0) is(0.0) over(0.0) ,(0.0) but(0.0) we(0.0) do(0.0) have(0.0) 
+to(0.0) add(0.0) an(0.0) additional(0.0) $(0.0) 20(0.0) billion(1.0) this(0.0) year(0.0) .(0.0) The(0.0) President(1.0) has(0.0) only(0.0) offered(0.0) $(0.0) 4(0.0) billion(1.0) of(0.0) that(0.0) 
+$(0.0) 20(0.0) billion(1.0) that(0.0) the(0.0) services(0.0) request(0.0) .(0.0) Now(0.0) is(0.0) the(0.0) time(0.0) to(0.0) rebuild(1.0) national(1.0) defense(1.0) and(0.0) this(0.0) is(0.0) the(0.0) 
+House(0.0) to(0.0) do(0.0) it(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+sailors	
+ammunition	
+inadequate	budget	
+billion	annual	Reagan	budgets	mid-1980s	
+Reagan	budgets	Cold	
+billion	President	billion	
+billion	rebuild	national	defense	
+
+
+reads % = 0.13013698630136986

@@ -1,0 +1,56 @@
+This is from a Democrat
+----- below is the original text -----
+3394(1.0) ,(0.0) the(0.0) Cyber(0.0) Security(0.0) Research(0.0) and(0.0) Development(0.0) Act(0.0) .(0.0) This(0.0) bill(0.0) would(0.0) strengthen(0.0) our(0.0) nation(1.0) 's(0.0) ability(0.0) to(0.0) protect(0.0) the(0.0) 
+critical(0.0) infrastructure(1.0) that(0.0) supplies(1.0) our(0.0) water(1.0) ,(0.0) keeps(0.0) the(0.0) electricity(1.0) on(0.0) in(0.0) our(0.0) homes(1.0) ,(0.0) and(0.0) ensures(0.0) that(0.0) our(0.0) law(1.0) 
+enforcement(1.0) officials(1.0) have(0.0) communication(0.0) capabilities(0.0) at(0.0) all(0.0) times(0.0) .(0.0) San(1.0) Antonio(1.0) has(0.0) been(0.0) a(0.0) leader(0.0) in(0.0) developing(0.0) the(0.0) type(0.0) of(0.0) 
+technology(0.0) and(0.0) educational(1.0) programs(1.0) made(0.0) possible(0.0) under(0.0) this(0.0) bill(1.0) .(0.0) A(0.0) growing(0.0) partnership(1.0) of(0.0) educational(1.0) ,(0.0) private(0.0) enterprise(0.0) and(0.0) military(0.0) 
+expertise(0.0) make(0.0) San(1.0) Antonio(0.0) ``(0.0) Cyber(0.0) City(1.0) ''(0.0) USA(0.0) .(0.0) The(0.0) University(0.0) of(0.0) Texas(1.0) at(0.0) San(0.0) Antonio(1.0) has(0.0) developed(0.0) the(0.0) 
+Center(0.0) for(0.0) Infrastructure(0.0) Assurance(0.0) and(0.0) Security(0.0) to(0.0) educate(0.0) and(0.0) train(0.0) world-class(0.0) information(0.0) technology(0.0) professionals(0.0) .(0.0) With(0.0) a(0.0) faculty(0.0) drawn(0.0) from(0.0) 
+both(0.0) the(0.0) private(0.0) sector(0.0) and(0.0) the(0.0) Air(0.0) Force(0.0) ,(0.0) this(0.0) outstanding(0.0) program(0.0) will(0.0) produce(0.0) skilled(0.0) graduates(0.0) ready(0.0) to(0.0) meet(0.0) the(0.0) 
+growing(0.0) shortage(0.0) of(0.0) information(0.0) technology(0.0) professionals(0.0) in(0.0) the(0.0) federal(1.0) government(1.0) and(0.0) private(0.0) sector(1.0) .(0.0) It(0.0) will(0.0) also(0.0) serve(0.0) as(0.0) a(0.0) 
+educational(0.0) program(0.0) for(0.0) mid-(0.0) level(0.0) professionals(0.0) to(0.0) improve(0.0) their(0.0) information(0.0) technology(0.0) job(0.0) skills(0.0) needed(0.0) for(0.0) their(0.0) current(0.0) job(0.0) ,(0.0) or(0.0) 
+help(0.0) them(0.0) retrain(0.0) in(0.0) the(0.0) information(0.0) technology(0.0) field(0.0) .(0.0) San(1.0) Antonio(1.0) is(0.0) also(0.0) the(0.0) home(0.0) of(0.0) the(0.0) Information(0.0) Technology(0.0) and(0.0) 
+Assurance(0.0) Academy(0.0) ,(0.0) an(0.0) innovative(0.0) educational(0.0) center(0.0) devoted(0.0) to(0.0) talented(0.0) 11th(0.0) and(0.0) 12th(0.0) graders(0.0) interested(0.0) in(0.0) information(0.0) technology(0.0) .(0.0) The(0.0) 
+Academy(0.0) will(0.0) give(0.0) these(0.0) young(0.0) minds(0.0) an(0.0) introduction(0.0) to(0.0) future(0.0) career(0.0) opportunities(0.0) in(0.0) the(0.0) information(0.0) and(0.0) technology(0.0) field(0.0) .(0.0) In(0.0) 
+addition(0.0) to(0.0) developing(0.0) their(0.0) interest(0.0) in(0.0) information(0.0) technology(0.0) ,(0.0) this(0.0) program(1.0) seeks(0.0) to(0.0) instill(0.0) a(0.0) sense(0.0) of(0.0) civic(1.0) responsibility(0.0) that(0.0) 
+will(0.0) serve(0.0) them(0.0) and(0.0) the(0.0) community(0.0) in(0.0) which(0.0) they(0.0) live(0.0) .(0.0) San(1.0) Antonio(1.0) has(0.0) 45(0.0) private(0.0) companies(0.0) that(0.0) have(0.0) developed(0.0) 
+state-of-(0.0) the-art(0.0) information(0.0) assurance(0.0) technology(0.0) .(0.0) These(0.0) companies(1.0) lead(0.0) the(0.0) field(0.0) in(0.0) developing(0.0) intrusion(1.0) detection(0.0) technology(0.0) and(0.0) providing(0.0) vulnerability(0.0) assessments(1.0) 
+for(0.0) both(0.0) the(0.0) private(0.0) sector(0.0) and(0.0) the(0.0) government(1.0) .(0.0) The(0.0) military(0.0) also(0.0) has(0.0) a(0.0) world-class(0.0) computer(0.0) monitoring(0.0) facility(0.0) in(0.0) San(1.0) 
+Antonio(0.0) .(0.0) The(0.0) Air(0.0) Force(0.0) 's(0.0) computer(0.0) emergency(0.0) response(0.0) team(0.0) ,(0.0) located(0.0) at(0.0) Lackland(0.0) Air(0.0) Force(0.0) Base(0.0) ,(0.0) leads(0.0) the(0.0) 
+DoD(0.0) in(0.0) intrusion(0.0) technology(0.0) ,(0.0) and(0.0) helps(0.0) protect(0.0) Air(0.0) Force(0.0) computer(0.0) systems(0.0) ,(0.0) 24(0.0) hours(0.0) a(0.0) day(0.0) ,(0.0) 7(0.0) days(0.0) 
+a(0.0) week(0.0) ,(0.0) around(0.0) the(0.0) globe(0.0) .(0.0) This(0.0) system(0.0) helps(0.0) ensure(0.0) that(0.0) the(0.0) computer(0.0) systems(0.0) used(0.0) by(0.0) our(0.0) Armed(1.0) Forces(0.0) 
+to(0.0) protect(0.0) our(0.0) nation(1.0) are(0.0) free(0.0) from(0.0) hackers(1.0) ,(0.0) viruses(0.0) and(0.0) other(0.0) forms(0.0) of(0.0) cyber(1.0) terrorism(1.0) .(0.0) This(0.0) bill(1.0) would(1.0) 
+provide(0.0) the(0.0) nation(1.0) with(0.0) needed(0.0) resources(0.0) to(0.0) fight(1.0) the(0.0) war(1.0) on(0.0) cyber(1.0) terrorism(1.0) .(0.0) Homeland(1.0) security(0.0) starts(0.0) at(0.0) the(0.0) local(0.0) 
+level(0.0) and(0.0) this(0.0) bill(1.0) would(1.0) allow(0.0) communities(1.0) throughout(0.0) the(0.0) United(0.0) States(0.0) to(0.0) educate(1.0) and(0.0) train(0.0) qualified(0.0) information(0.0) professionals(0.0) in(0.0) their(0.0) 
+community(0.0) and(0.0) encourage(0.0) research(0.0) that(0.0) would(0.0) give(0.0) the(0.0) government(1.0) and(0.0) private(0.0) industry(0.0) the(0.0) tools(0.0) to(0.0) protect(1.0) our(0.0) nation(1.0) 's(0.0) critical(0.0) 
+infrastructure(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+nation	
+infrastructure	supplies	water	electricity	homes	law	
+enforcement	officials	San	Antonio	
+educational	programs	bill	partnership	educational	
+San	City	Texas	Antonio	
+
+
+federal	government	sector	
+
+San	Antonio	
+
+
+program	civic	
+San	Antonio	
+companies	intrusion	assessments	
+government	San	
+
+
+Armed	
+nation	hackers	cyber	terrorism	bill	would	
+nation	fight	war	cyber	terrorism	Homeland	
+bill	would	communities	educate	
+government	protect	nation	
+infrastructure	
+
+reads % = 0.11879049676025918

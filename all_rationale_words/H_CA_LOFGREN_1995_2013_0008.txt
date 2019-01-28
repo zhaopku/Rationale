@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Chair(0.0) ,(0.0) before(0.0) yielding(0.0) to(0.0) the(0.0) ranking(0.0) member(0.0) of(0.0) the(0.0) Constitution(0.0) Subcommittee(0.0) ,(0.0) I(0.0) would(0.0) just(0.0) like(0.0) to(0.0) note(0.0) that(0.0) 
+we(0.0) do(0.0) not(0.0) need(0.0) to(0.0) change(0.0) the(0.0) law(1.0) .(0.0) Dr.(0.0) Gosnell(1.0) was(0.0) convicted(1.0) and(0.0) he(0.0) 's(0.0) doing(0.0) two(0.0) life(0.0) sentences(0.0) 
+in(0.0) prison(1.0) for(0.0) murder(1.0) under(0.0) current(0.0) law(1.0) .(0.0) I(0.0) yield(0.0) 3(0.0) minutes(0.0) to(0.0) the(0.0) ranking(0.0) member(0.0) of(0.0) the(0.0) Constitution(0.0) Subcommittee(0.0) 
+,(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) York(1.0) ((0.0) Mr.(0.0) Nadler(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+law	Gosnell	convicted	
+prison	murder	law	
+York	Nadler	
+
+reads % = 0.1111111111111111

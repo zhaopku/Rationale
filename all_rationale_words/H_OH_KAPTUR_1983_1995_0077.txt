@@ -1,0 +1,34 @@
+This is from a Democrat
+----- below is the original text -----
+On(0.0) that(0.0) point(0.0) ,(0.0) if(0.0) you(0.0) look(0.0) at(0.0) what(0.0) we(0.0) are(0.0) spending(1.0) on(0.0) as(0.0) a(0.0) Nation(0.0) ,(0.0) the(0.0) very(0.0) first(0.0) set(0.0) 
+of(0.0) categories(0.0) have(0.0) to(0.0) do(0.0) with(0.0) Social(0.0) Security(0.0) ,(0.0) and(0.0) especially(0.0) Medicare(1.0) ,(0.0) the(0.0) cost(1.0) that(0.0) the(0.0) taxpayers(1.0) subsidize(1.0) Medicare(1.0) 
+.(0.0) Defense(0.0) is(0.0) a(0.0) large(0.0) expenditure(1.0) .(0.0) Then(0.0) comes(0.0) interest(0.0) rates(1.0) .(0.0) Right(0.0) after(0.0) that(0.0) ,(0.0) the(0.0) fourth(0.0) largest(1.0) category(0.0) 
+of(0.0) spending(1.0) in(0.0) this(0.0) Government(1.0) is(0.0) to(0.0) pay(1.0) the(0.0) interest(0.0) on(0.0) the(0.0) savings(1.0) and(0.0) loan(0.0) bailout(1.0) which(0.0) totals(0.0) over(0.0) $(0.0) 
+1(0.0) trillion(1.0) .(0.0) Our(0.0) children(0.0) 's(0.0) children(0.0) will(0.0) be(0.0) paying(0.0) for(0.0) that(0.0) .(0.0) So(0.0) when(0.0) we(0.0) get(0.0) in(0.0) these(0.0) debt(1.0) 
+financing(1.0) arrangements(0.0) ,(0.0) what(0.0) we(0.0) are(0.0) talking(0.0) about(0.0) is(0.0) obligating(1.0) the(0.0) people(0.0) of(0.0) our(0.0) country(1.0) so(0.0) far(0.0) down(0.0) the(0.0) road(0.0) 
+you(0.0) can(0.0) hardly(0.0) even(0.0) see(0.0) the(0.0) end(0.0) of(0.0) it(0.0) .(0.0) But(0.0) in(0.0) this(0.0) situation(0.0) with(0.0) Mexico(1.0) ,(0.0) we(0.0) are(0.0) not(0.0) 
+talking(0.0) about(0.0) money(1.0) we(0.0) own(0.0) to(0.0) ourselves(0.0) .(0.0) We(0.0) are(0.0) talking(0.0) about(0.0) money(1.0) that(0.0) is(0.0) owed(1.0) to(0.0) investors(1.0) and(0.0) creditors(0.0) 
+to(0.0) foreign(1.0) nations(1.0) .(0.0) This(0.0) is(0.0) a(0.0) very(0.0) different(0.0) animal(0.0) than(0.0) that(0.0) exchange(0.0) stabilization(1.0) fund(1.0) was(0.0) meant(0.0) to(0.0) be(0.0) used(0.0) 
+for(0.0) in(0.0) the(0.0) past(0.0) .(0.0) I(0.0) think(0.0) what(0.0) we(0.0) are(0.0) seeing(0.0) is(0.0) a(0.0) different(0.0) form(0.0) of(0.0) foreign(1.0) aid(1.0) ,(0.0) which(0.0) 
+does(0.0) not(0.0) have(0.0) to(0.0) be(0.0) voted(0.0) on(0.0) here(0.0) in(0.0) the(0.0) Congress(0.0) ,(0.0) and(0.0) that(0.0) is(0.0) not(0.0) how(0.0) a(0.0) democracy(1.0) should(0.0) 
+function(0.0) or(0.0) a(0.0) democratic(1.0) republic(1.0) should(0.0) function(0.0) .(0.0) We(0.0) should(0.0) have(0.0) the(0.0) debate(1.0) here(0.0) .(0.0) We(0.0) as(0.0) a(0.0) people(0.0) must(0.0) 
+make(0.0) a(0.0) decision(0.0) about(0.0) what(0.0) our(0.0) relationship(0.0) is(0.0) to(0.0) various(0.0) countries(1.0) around(0.0) the(0.0) world(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+spending	
+Medicare	cost	taxpayers	subsidize	Medicare	
+expenditure	rates	largest	
+spending	Government	pay	savings	bailout	
+trillion	debt	
+financing	obligating	country	
+Mexico	
+money	money	owed	investors	
+foreign	nations	stabilization	fund	
+foreign	aid	
+democracy	
+democratic	republic	debate	
+countries	
+
+reads % = 0.13671875

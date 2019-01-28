@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) the(0.0) legislation(1.0) ,(0.0) and(0.0) I(0.0) commend(0.0) Congresswoman(1.0) Pingree(1.0) for(0.0) her(0.0) hard(0.0) work(0.0) .(0.0) H.R(0.0) .(0.0) 2336(0.0) 
+moves(0.0) forward(0.0) a(0.0) study(0.0) of(0.0) 11(0.0) miles(0.0) of(0.0) the(0.0) York(1.0) River(0.0) to(0.0) determine(0.0) if(0.0) it(0.0) is(0.0) qualified(0.0) to(0.0) be(0.0) protected(0.0) 
+as(0.0) a(0.0) Wild(0.0) and(0.0) Scenic(0.0) River(0.0) .(0.0) This(0.0) is(0.0) a(0.0) good(0.0) piece(0.0) of(0.0) legislation(0.0) .(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) 
+my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+legislation	Congresswoman	Pingree	
+York	
+
+
+
+reads % = 0.0625

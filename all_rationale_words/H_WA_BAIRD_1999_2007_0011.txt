@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) H.R(0.0) .(0.0) 1068(0.0) ,(0.0) a(0.0) bill(0.0) to(0.0) amend(0.0) the(0.0) High-Performance(0.0) Computing(0.0) Act(0.0) of(0.0) 1991(0.0) .(0.0) This(0.0) 
+is(0.0) a(0.0) bipartisan(1.0) bill(1.0) which(1.0) Congresswoman(1.0) Biggert(1.0) and(1.0) I(0.0) introduced(0.0) .(0.0) I(0.0) want(0.0) particularly(0.0) to(0.0) acknowledge(0.0) the(0.0) role(0.0) Mrs.(0.0) Biggert(1.0) 
+has(1.0) played(0.0) in(0.0) working(0.0) to(0.0) develop(0.0) this(0.0) legislation(1.0) over(0.0) the(0.0) past(0.0) several(0.0) years(0.0) .(0.0) This(0.0) bill(1.0) is(0.0) based(0.0) on(0.0) a(0.0) 
+bill(0.0) introduced(1.0) by(0.0) Congresswoman(1.0) Biggert(1.0) and(1.0) Congressman(1.0) Lincoln(1.0) Davis(1.0) during(1.0) the(0.0) past(0.0) two(0.0) Congresses(0.0) .(0.0) And(0.0) in(0.0) both(0.0) those(0.0) Congresses(0.0) 
+,(0.0) the(0.0) bill(0.0) passed(0.0) the(0.0) House(0.0) .(0.0) I(0.0) also(0.0) want(0.0) to(0.0) thank(0.0) Chairman(0.0) Gordon(1.0) and(0.0) Ranking(0.0) Member(0.0) Hall(1.0) for(0.0) their(0.0) 
+support(0.0) for(0.0) the(0.0) legislation(0.0) ,(0.0) for(0.0) helping(0.0) to(0.0) advance(0.0) it(0.0) through(0.0) the(0.0) committee(0.0) and(0.0) to(0.0) bring(0.0) it(0.0) to(0.0) the(0.0) floor(0.0) 
+.(0.0) H.R(0.0) .(0.0) 1068(0.0) will(0.0) improve(0.0) the(0.0) planning(0.0) and(0.0) coordination(0.0) process(0.0) for(0.0) the(0.0) major(0.0) Federal(1.0) interagency(1.0) research(0.0) program(0.0) in(0.0) information(0.0) 
+technology(0.0) .(0.0) Information(0.0) technology(0.0) is(0.0) a(0.0) major(0.0) driver(0.0) of(0.0) economic(1.0) growth(1.0) .(0.0) It(0.0) creates(0.0) high-wage(1.0) jobs(0.0) ,(0.0) provides(1.0) for(0.0) rapid(0.0) 
+communication(0.0) throughout(0.0) the(0.0) world(0.0) ,(0.0) and(0.0) provides(0.0) the(0.0) tools(0.0) for(0.0) acquiring(0.0) knowledge(0.0) .(0.0) For(0.0) example(0.0) ,(0.0) information(0.0) technology(0.0) helps(0.0) to(0.0) 
+make(0.0) the(0.0) workplace(1.0) more(0.0) productive(0.0) ,(0.0) to(0.0) improve(0.0) the(0.0) quality(0.0) of(0.0) health(1.0) care(1.0) ,(0.0) and(0.0) to(0.0) make(0.0) government(1.0) more(0.0) responsive(0.0) 
+and(0.0) accessible(0.0) to(0.0) the(0.0) needs(0.0) of(0.0) our(0.0) citizens(1.0) .(0.0) High-performance(0.0) computing(0.0) and(0.0) networking(0.0) is(0.0) not(0.0) only(0.0) an(0.0) essential(0.0) component(0.0) of(0.0) 
+U.S.(0.0) scientific(0.0) competitiveness(1.0) ,(0.0) it(0.0) also(0.0) has(0.0) important(0.0) industrial(1.0) ,(0.0) medical(1.0) ,(0.0) and(0.0) defense(1.0) applications(0.0) .(0.0) Vigorous(0.0) long-term(1.0) research(0.0) is(0.0) 
+essential(0.0) for(0.0) realizing(0.0) the(0.0) potential(0.0) of(0.0) information(0.0) technology(0.0) .(0.0) The(0.0) technical(0.0) advances(0.0) that(0.0) led(0.0) to(0.0) today's(0.0) computers(0.0) and(0.0) the(0.0) Internet(0.0) 
+evolved(0.0) from(0.0) past(0.0) federally(1.0) sponsored(0.0) research(0.0) ,(0.0) in(0.0) partnership(1.0) with(0.0) industry(1.0) and(0.0) universities(1.0) .(0.0) High-(0.0) performance(0.0) computing(0.0) is(0.0) necessary(0.0) as(0.0) 
+we(0.0) work(0.0) to(0.0) develop(0.0) new(0.0) ways(0.0) to(0.0) transfer(0.0) vast(0.0) amounts(0.0) of(0.0) information(0.0) around(0.0) the(0.0) world(0.0) .(0.0) The(0.0) depth(0.0) and(0.0) strength(0.0) 
+of(0.0) U.S.(0.0) capability(0.0) in(0.0) information(0.0) technology(0.0) stems(0.0) in(0.0) part(0.0) from(0.0) the(0.0) sustained(0.0) research(0.0) and(0.0) development(0.0) program(0.0) carried(0.0) out(0.0) by(0.0) Federal(1.0) 
+research(0.0) agencies(1.0) under(0.0) a(0.0) program(0.0) codified(0.0) by(0.0) the(0.0) High-Performance(0.0) Computing(0.0) Act(0.0) of(0.0) 1991(0.0) .(0.0) That(0.0) act(0.0) is(0.0) widely(0.0) credited(0.0) with(0.0) 
+reinvigorating(1.0) U.S.(0.0) high-performance(0.0) computing(0.0) capabilities(0.0) after(0.0) a(0.0) period(0.0) of(0.0) relative(0.0) decline(0.0) during(0.0) the(0.0) late(0.0) 1980s(1.0) .(0.0) The(0.0) 1991(0.0) act(0.0) created(0.0) 
+a(0.0) multi-agency(0.0) R(0.0) &(0.0) D(0.0) program(0.0) to(0.0) accelerate(0.0) development(0.0) of(0.0) information(0.0) technology(0.0) and(0.0) to(0.0) attack(0.0) challenging(0.0) computational(0.0) science(0.0) and(0.0) engineering(0.0) 
+problems(0.0) .(0.0) The(0.0) 1991(0.0) act(0.0) also(0.0) put(0.0) in(0.0) place(0.0) a(0.0) formal(0.0) process(0.0) for(0.0) planning(0.0) and(0.0) budgeting(0.0) for(0.0) the(0.0) activities(0.0) carried(0.0) 
+out(0.0) under(0.0) the(0.0) interagency(0.0) R(0.0) &(0.0) D(0.0) program(0.0) ,(0.0) which(0.0) is(0.0) formally(0.0) known(0.0) as(0.0) the(0.0) Networking(0.0) and(0.0) Information(0.0) Technology(0.0) R(0.0) 
+&(0.0) D(0.0) Program(1.0) .(0.0) The(0.0) need(0.0) for(0.0) this(0.0) legislation(1.0) today(0.0) arises(0.0) from(0.0) what(0.0) I(0.0) would(0.0) characterize(0.0) as(0.0) a(0.0) weakening(0.0) over(0.0) 
+time(0.0) of(0.0) the(0.0) planning(0.0) and(0.0) prioritization(1.0) process(0.0) for(0.0) the(0.0) program(1.0) .(0.0) In(0.0) order(0.0) to(0.0) maintain(0.0) our(0.0) competitiveness(1.0) ,(0.0) we(0.0) must(0.0) 
+ensure(0.0) that(0.0) the(0.0) resources(0.0) available(0.0) to(0.0) advance(0.0) high-performance(0.0) computing(0.0) technology(0.0) are(0.0) allocated(0.0) to(0.0) the(0.0) highest(0.0) priority(1.0) areas(0.0) and(0.0) that(0.0) the(0.0) 
+activities(0.0) supported(0.0) are(0.0) carefully(0.0) coordinated(1.0) among(0.0) the(0.0) performing(0.0) agencies(0.0) .(0.0) Toward(0.0) that(0.0) end(0.0) ,(0.0) H.R(0.0) .(0.0) 1068(0.0) requires(0.0) formal(0.0) 
+
+
+----- below are rationale words -----
+
+
+bipartisan	bill	which	Congresswoman	Biggert	and	Biggert	
+has	legislation	bill	
+introduced	Congresswoman	Biggert	and	Congressman	Lincoln	Davis	during	
+Gordon	Hall	
+
+Federal	interagency	
+economic	growth	high-wage	provides	
+
+workplace	health	care	government	
+citizens	
+competitiveness	industrial	medical	defense	long-term	
+
+federally	partnership	industry	universities	
+
+Federal	
+agencies	
+reinvigorating	1980s	
+
+
+
+Program	legislation	
+prioritization	program	competitiveness	
+priority	
+coordinated	
+
+reads % = 0.102

@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) to(0.0) express(0.0) my(0.0) support(0.0) for(0.0) the(0.0) H.R(0.0) .(0.0) 3997(0.0) Emergency(0.0) Economic(1.0) Stabilization(0.0) Act(0.0) .(0.0) Each(0.0) 
+of(0.0) us(0.0) is(0.0) outraged(1.0) about(0.0) the(0.0) circumstances(0.0) that(0.0) have(0.0) brought(0.0) our(0.0) financial(1.0) system(0.0) to(0.0) near(0.0) collapse(1.0) .(0.0) In(0.0) my(0.0) view(0.0) 
+,(0.0) this(0.0) was(0.0) brought(0.0) on(0.0) by(0.0) the(0.0) Bush(1.0) administration(1.0) 's(0.0) failed(1.0) economic(1.0) policies(1.0) and(0.0) their(0.0) support(0.0) for(0.0) ``(0.0) cowboy(0.0) capitalism(1.0) 
+,(0.0) ''(0.0) believing(1.0) the(0.0) markets(1.0) must(0.0) be(0.0) allowed(0.0) to(0.0) run(0.0) free(0.0) and(0.0) unfettered(1.0) .(0.0) Instead(0.0) ,(0.0) Wall(1.0) Street(1.0) has(0.0) been(0.0) 
+allowed(0.0) to(0.0) run(0.0) wild(0.0) without(0.0) accountability(1.0) ,(0.0) without(0.0) transparency(1.0) and(0.0) without(0.0) effective(0.0) enforcement(1.0) or(0.0) regulations(1.0) to(0.0) protect(0.0) the(0.0) American(0.0) taxpayer(1.0) 
+.(0.0) The(0.0) legislation(1.0) the(1.0) President(1.0) presented(0.0) to(0.0) Congress(0.0) on(0.0) Monday(0.0) ,(0.0) September(0.0) 22(0.0) ,(0.0) requested(0.0) Congress(0.0) to(0.0) approve(0.0) a(0.0) $(0.0) 
+700(0.0) billion(1.0) bailout(1.0) ,(0.0) with(0.0) the(0.0) Treasury(1.0) Secretary(1.0) empowered(0.0) to(0.0) set(0.0) the(0.0) rules(0.0) for(0.0) all(0.0) transactions(0.0) .(0.0) The(0.0) bill(0.0) included(0.0) 
+no(0.0) safeguards(0.0) ,(0.0) no(0.0) transparency(1.0) ,(0.0) no(0.0) accountability(1.0) ,(0.0) and(0.0) no(0.0) oversight(1.0) .(0.0) This(0.0) plan(1.0) was(0.0) wrong(0.0) for(0.0) the(0.0) American(0.0) 
+people(0.0) and(0.0) we(0.0) rejected(1.0) it(0.0) .(0.0) Over(0.0) the(0.0) past(0.0) week(0.0) ,(0.0) legislation(1.0) has(0.0) been(0.0) completely(0.0) reshaped(0.0) and(0.0) it(0.0) now(0.0) includes(0.0) 
+three(0.0) essential(0.0) elements(0.0) to(0.0) rebuild(1.0) our(0.0) financial(1.0) system(0.0) .(0.0) First(0.0) ,(0.0) we(0.0) will(0.0) reinvest(1.0) in(0.0) troubled(1.0) financial(1.0) markets(1.0) to(0.0) stabilize(1.0) 
+our(0.0) economy(1.0) and(0.0) insulate(1.0) Main(0.0) Street(0.0) from(0.0) Wall(1.0) Street(1.0) .(0.0) Second(0.0) ,(0.0) the(0.0) taxpayer(1.0) will(0.0) be(0.0) reimbursed(0.0) through(0.0) ownership(1.0) shares(0.0) 
+and(0.0) asset(0.0) recovery(0.0) as(0.0) the(0.0) plan(1.0) begins(0.0) to(0.0) work(0.0) .(0.0) Finally(0.0) ,(0.0) the(0.0) bill(1.0) will(1.0) reform(1.0) how(1.0) business(0.0) is(0.0) done(0.0) 
+on(0.0) Wall(1.0) Street(1.0) including(0.0) the(0.0) prohibition(1.0) of(0.0) golden(0.0) parachutes(1.0) .(0.0) This(0.0) legislation(1.0) ensures(0.0) that(0.0) taxpayers(1.0) have(0.0) an(0.0) equity(1.0) share(0.0) in(0.0) 
+any(0.0) profits(1.0) and(0.0) gives(0.0) taxpayers(1.0) an(0.0) ownership(1.0) stake(0.0) and(0.0) profit(1.0) sharing(0.0) of(0.0) participating(0.0) companies(1.0) .(0.0) It(0.0) puts(0.0) taxpayers(1.0) first(0.0) in(0.0) 
+line(0.0) to(0.0) recover(0.0) assets(1.0) if(0.0) a(0.0) participating(0.0) company(0.0) fails(0.0) ,(0.0) and(0.0) allows(0.0) the(0.0) Government(1.0) to(0.0) purchase(0.0) troubled(0.0) assets(0.0) from(0.0) pension(1.0) 
+plans(1.0) ,(0.0) local(1.0) government(1.0) ,(0.0) and(0.0) small(0.0) banks(1.0) that(0.0) serve(0.0) low-(0.0) and(0.0) middle-income(1.0) families(0.0) .(0.0) H.R(0.0) .(0.0) 3997(0.0) includes(0.0) strong(0.0) 
+independent(0.0) oversight(1.0) and(0.0) transparency(1.0) through(0.0) an(0.0) establishment(1.0) of(0.0) an(0.0) independent(0.0) bipartisan(1.0) board(0.0) to(0.0) provide(0.0) oversight(1.0) ,(0.0) review(0.0) and(0.0) accountability(1.0) of(0.0) 
+taxpayer(1.0) funds(1.0) .(0.0) The(0.0) Government(1.0) Accountability(1.0) Office(0.0) will(0.0) have(0.0) a(0.0) presence(0.0) at(0.0) Treasury(0.0) to(0.0) oversee(0.0) the(0.0) program(0.0) and(0.0) conduct(0.0) audits(0.0) 
+to(0.0) ensure(0.0) strong(0.0) internal(0.0) controls(0.0) ,(0.0) and(0.0) to(0.0) prevent(0.0) waste(1.0) ,(0.0) fraud(1.0) ,(0.0) and(0.0) abuse(1.0) .(0.0) There(0.0) will(0.0) be(0.0) an(0.0) 
+independent(0.0) Inspector(0.0) General(0.0) to(0.0) monitor(0.0) the(0.0) Treasury(0.0) Secretary(1.0) 's(0.0) decisions(0.0) in(0.0) regard(0.0) to(0.0) this(0.0) program(0.0) and(0.0) all(0.0) transactions(0.0) will(0.0) be(0.0) 
+posted(0.0) online(0.0) for(0.0) the(0.0) public(0.0) to(0.0) review(0.0) .(0.0) Rather(0.0) than(0.0) giving(0.0) the(0.0) Treasury(1.0) all(0.0) the(0.0) funds(1.0) at(0.0) once(0.0) ,(0.0) the(0.0) 
+legislation(1.0) gives(0.0) the(0.0) Treasury(1.0) $(0.0) 250(0.0) billion(1.0) immediately(0.0) ,(0.0) then(0.0) requires(0.0) the(0.0) President(1.0) to(0.0) certify(0.0) that(0.0) additional(0.0) funds(1.0) are(0.0) needed(0.0) 
+,(0.0) $(0.0) 100(0.0) billion(0.0) ,(0.0) then(0.0) $(0.0) 350(0.0) billion(1.0) ,(0.0) subject(0.0) to(0.0) congressional(1.0) disapproval(1.0) ,(0.0) and(0.0) there(0.0) are(0.0) limits(1.0) on(0.0) 
+golden(0.0) parachutes(1.0) for(0.0) executives(1.0) whose(0.0) companies(0.0) participate(0.0) in(0.0) the(0.0) program(0.0) .(0.0) We(0.0) will(0.0) help(0.0) homeowners(1.0) by(0.0) allowing(0.0) the(0.0) Government(1.0) to(0.0) 
+change(0.0) the(0.0) terms(0.0) of(0.0) mortgages(1.0) to(0.0) help(0.0) reduce(1.0) the(0.0) 2(0.0) million(0.0) projected(1.0) foreclosures(1.0) in(0.0) the(0.0) next(0.0) year(0.0) .(0.0) It(0.0) 
+
+
+----- below are rationale words -----
+
+Economic	
+outraged	financial	collapse	
+Bush	administration	failed	economic	policies	capitalism	
+believing	markets	unfettered	Wall	Street	
+accountability	transparency	enforcement	regulations	taxpayer	
+legislation	the	President	
+billion	bailout	Treasury	Secretary	
+transparency	accountability	oversight	plan	
+rejected	legislation	
+rebuild	financial	reinvest	troubled	financial	markets	stabilize	
+economy	insulate	Wall	Street	taxpayer	ownership	
+plan	bill	will	reform	how	
+Wall	Street	prohibition	parachutes	legislation	taxpayers	equity	
+profits	taxpayers	ownership	profit	companies	taxpayers	
+assets	Government	pension	
+plans	local	government	banks	middle-income	
+oversight	transparency	establishment	bipartisan	oversight	accountability	
+taxpayer	funds	Government	Accountability	
+waste	fraud	abuse	
+Secretary	
+Treasury	funds	
+legislation	Treasury	billion	President	funds	
+billion	congressional	disapproval	limits	
+parachutes	executives	homeowners	Government	
+mortgages	reduce	projected	foreclosures	
+
+reads % = 0.21

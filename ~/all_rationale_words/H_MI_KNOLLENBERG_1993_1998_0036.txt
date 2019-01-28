@@ -1,0 +1,10 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(1.0) ,(0.0) I(0.0) would(1.0) tell(0.0) the(0.0) gentleman(0.0) that(0.0) those(0.0) activities(1.0) are(0.0) still(0.0) funded(1.0) and(0.0) encouraged(1.0) .(0.0) In(0.0) fact(1.0) ,(0.0) we(0.0) have(0.0) 
+increased(0.0) funding(1.0) for(0.0) the(0.0) global(0.0) climate(1.0) change(1.0) research(0.0) account(0.0) within(1.0) this(0.0) bill(0.0) by(0.0) $(0.0) 10(0.0) million(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+would	activities	funded	encouraged	fact	
+funding	climate	change	within	reads % = 0.23684210526315788

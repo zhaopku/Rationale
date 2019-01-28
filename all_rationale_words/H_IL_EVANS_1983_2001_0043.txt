@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) we(0.0) are(0.0) here(0.0) today(0.0) to(0.0) honor(0.0) the(0.0) memory(0.0) of(0.0) one(0.0) of(0.0) our(0.0) great(0.0) former(0.0) colleagues(0.0) ,(0.0) the(0.0) late(0.0) Mo(0.0) 
+Udall(1.0) ,(0.0) who(0.0) served(0.0) in(0.0) this(0.0) House(0.0) for(0.0) nearly(0.0) three(0.0) decades(1.0) .(0.0) Four(0.0) years(0.0) ago(0.0) this(0.0) week(0.0) ,(0.0) Congress(0.0) passed(0.0) 
+the(0.0) Morris(1.0) K.(0.0) Udall(1.0) Parkinson(1.0) 's(0.0) Disease(0.0) Research(0.0) Act(0.0) as(0.0) a(0.0) tribute(0.0) to(0.0) his(0.0) service(0.0) and(0.0) the(0.0) courage(0.0) that(0.0) he(0.0) 
+displayed(0.0) in(0.0) the(0.0) face(0.0) of(0.0) his(0.0) illness(0.0) .(0.0) Sadly(0.0) ,(0.0) Mo(0.0) lost(0.0) his(0.0) battle(0.0) with(0.0) Parkinson(0.0) 's(0.0) Disease(0.0) in(0.0) 1998(0.0) 
+.(0.0) But(0.0) his(0.0) memory(0.0) lives(0.0) on(0.0) in(0.0) this(0.0) Congress(0.0) and(0.0) in(0.0) the(0.0) research(0.0) labs(0.0) across(0.0) the(0.0) country(1.0) that(0.0) bear(0.0) his(0.0) 
+name(0.0) .(0.0) I(0.0) served(0.0) with(0.0) Mo(0.0) Udall(1.0) from(0.0) 1983(0.0) to(0.0) his(0.0) retirement(0.0) in(0.0) 1990(0.0) .(0.0) During(0.0) those(0.0) years(0.0) ,(0.0) I(0.0) 
+came(0.0) to(0.0) know(0.0) and(0.0) admire(0.0) him(0.0) as(0.0) an(0.0) effective(0.0) legislator(1.0) ,(0.0) a(0.0) consummate(0.0) humorist(1.0) ,(0.0) and(0.0) a(0.0) dear(0.0) friend(0.0) .(0.0) 
+Mo(0.0) always(0.0) had(0.0) a(0.0) kind(0.0) word(0.0) and(0.0) a(0.0) joke(0.0) for(0.0) everyone(0.0) .(0.0) He(0.0) brought(0.0) a(0.0) levity(0.0) to(0.0) this(0.0) body(0.0) that(0.0) 
+you(0.0) wouldn't(0.0) expect(0.0) from(0.0) someone(0.0) fighting(1.0) for(0.0) his(0.0) life(0.0) .(0.0) Ask(0.0) anyone(0.0) here(0.0) who(0.0) had(0.0) the(0.0) pleasure(0.0) to(0.0) serve(0.0) with(0.0) 
+Mo(0.0) and(0.0) they(0.0) will(0.0) have(0.0) a(0.0) side(0.0) splitting(0.0) tale(0.0) of(0.0) the(0.0) time(0.0) that(0.0) Mo(0.0) brought(0.0) the(0.0) house(0.0) down(0.0) .(0.0) Coupled(0.0) 
+with(0.0) his(0.0) good(0.0) humor(0.0) ,(0.0) was(0.0) a(0.0) commitment(0.0) to(0.0) serve(0.0) this(0.0) nation(1.0) well(0.0) .(0.0) Despite(0.0) his(0.0) Parkinston's(0.0) Disease(0.0) ,(0.0) he(0.0) 
+served(0.0) as(0.0) chairman(0.0) of(0.0) the(0.0) Interior(0.0) Committee(0.0) where(0.0) he(0.0) was(0.0) a(0.0) champion(0.0) of(0.0) preserving(1.0) America(0.0) 's(0.0) widerness(0.0) areas(0.0) .(0.0) I(0.0) 
+admired(0.0) Mo(0.0) then(0.0) ,(0.0) but(0.0) my(0.0) esteem(0.0) for(0.0) him(0.0) grew(0.0) even(0.0) greater(0.0) when(0.0) I(0.0) was(0.0) diagnosed(0.0) with(0.0) Parkinston(0.0) 's(0.0) Disease(0.0) 
+ins(0.0) 1995(0.0) .(0.0) Our(0.0) purpose(0.0) here(0.0) is(0.0) to(0.0) commemorate(0.0) the(0.0) passage(1.0) of(0.0) the(0.0) Udall(1.0) Act(1.0) ,(0.0) which(0.0) brings(0.0) much(0.0) needed(0.0) 
+resources(0.0) to(0.0) the(0.0) study(0.0) of(0.0) Parkinson(0.0) 's(0.0) Disease(0.0) .(0.0) The(0.0) time(0.0) has(0.0) come(0.0) to(0.0) reauthorize(1.0) the(0.0) bill(1.0) .(0.0) And(0.0) today(0.0) 
+,(0.0) we(0.0) have(0.0) the(0.0) honor(0.0) of(0.0) being(0.0) joined(0.0) by(0.0) Mo(0.0) 's(0.0) son(0.0) ,(0.0) Congressman(1.0) Mark(1.0) Udall(1.0) ,(0.0) who(0.0) will(0.0) lead(0.0) 
+the(0.0) charge(0.0) to(0.0) see(0.0) this(0.0) program(0.0) continued(0.0) .(0.0) We(0.0) will(0.0) be(0.0) introducing(0.0) the(0.0) reauthorization(1.0) bill(1.0) in(0.0) the(0.0) coming(0.0) month(0.0) .(0.0) 
+I(0.0) hope(0.0) that(0.0) all(0.0) of(0.0) our(0.0) colleagues(0.0) will(0.0) join(0.0) us(0.0) in(0.0) supporting(0.0) that(0.0) bill(1.0) .(0.0) The(0.0) 11(0.0) Morris(0.0) K.(0.0) Udall(1.0) 
+Centers(1.0) are(0.0) busy(0.0) conducting(0.0) research(0.0) on(0.0) every(0.0) aspect(0.0) of(0.0) Parkinson(0.0) 's(0.0) Disease(0.0) .(0.0) The(0.0) scientists(0.0) there(0.0) are(0.0) some(0.0) of(0.0) the(0.0) 
+best(0.0) and(0.0) the(0.0) brightest(0.0) in(0.0) their(0.0) field(0.0) .(0.0) They(0.0) believe(0.0) that(0.0) a(0.0) cure(0.0) for(0.0) Parkinson(0.0) 's(0.0) Disease(0.0) is(0.0) on(0.0) the(0.0) 
+horizon(0.0) --(0.0) that(0.0) it(0.0) could(0.0) be(0.0) discovered(0.0) in(0.0) as(0.0) littlle(0.0) as(0.0) five(0.0) years(0.0) .(0.0) These(0.0) researching(0.0) give(0.0) me(0.0) hope(0.0) .(0.0) 
+They(0.0) are(0.0) out(0.0) there(0.0) everyday(0.0) working(0.0) to(0.0) make(0.0) my(0.0) life(0.0) and(0.0) the(0.0) lives(0.0) of(0.0) the(0.0) one(0.0) million(0.0) Americans(1.0) living(0.0) with(0.0) 
+Parkinson(0.0) 's(0.0) Disease(0.0) better(0.0) .(0.0) And(0.0) let(0.0) me(0.0) tell(0.0) you(0.0) --(0.0) it(0.0) 's(0.0) nice(0.0) having(0.0) these(0.0) bright(0.0) men(0.0) and(0.0) women(0.0) 
+on(0.0) your(0.0) side(0.0) .(0.0) I(0.0) know(0.0) they(0.0) will(0.0) find(0.0) a(0.0) cure(0.0) ,(0.0) but(0.0) they(0.0) ca(0.0) n't(0.0) do(0.0) it(0.0) without(0.0) our(0.0) 
+continued(0.0) support(0.0) .(0.0) These(0.0) Udall(1.0) Centers(1.0) are(0.0) just(0.0) one(0.0) component(0.0) of(0.0) a(0.0) larger(0.0) effort(0.0) on(0.0) the(0.0) part(0.0) of(0.0) NIH(1.0) 
+
+
+----- below are rationale words -----
+
+
+Udall	decades	
+Morris	Udall	Parkinson	
+
+country	
+Udall	
+legislator	humorist	
+
+fighting	
+
+nation	
+preserving	
+
+passage	Udall	Act	
+reauthorize	bill	
+Congressman	Mark	Udall	
+reauthorization	bill	
+bill	Udall	
+Centers	
+
+
+Americans	
+
+
+Udall	Centers	NIH	
+
+reads % = 0.058

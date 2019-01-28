@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) would(1.0) like(0.0) to(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) time(0.0) .(0.0) Mr.(1.0) Speaker(1.0) ,(0.0) I(0.0) believe(1.0) we(0.0) must(0.0) pass(1.0) 
+H.R(0.0) .(0.0) 2606(1.0) now(0.0) .(0.0) Otherwise(1.0) ,(0.0) I(0.0) am(1.0) deeply(1.0) concerned(0.0) that(0.0) we(0.0) will(0.0) wake(0.0) up(0.0) one(0.0) morning(0.0) while(0.0) Congress(0.0) 
+is(0.0) out(1.0) of(0.0) the(0.0) city(1.0) ,(0.0) and(0.0) discover(0.0) that(0.0) President(1.0) Clinton(1.0) has(0.0) started(0.0) sending(0.0) American(0.0) troops(0.0) to(0.0) Bosnia(0.0) .(0.0) The(0.0) 
+President(1.0) has(0.0) not(1.0) said(0.0) he(0.0) will(0.0) ask(0.0) us(0.0) for(0.0) authorization(0.0) .(0.0) He(0.0) said(1.0) that(0.0) he(0.0) would(1.0) request(0.0) support(0.0) ,(0.0) but(0.0) 
+that(0.0) there(0.0) would(0.0) be(0.0) a(0.0) requirement(1.0) for(0.0) early(0.0) pre-positioning(1.0) of(0.0) support(0.0) personnel(1.0) .(0.0) When(1.0) he(0.0) asks(1.0) for(0.0) that(0.0) support(0.0) ,(0.0) 
+those(0.0) personnel(1.0) will(0.0) already(0.0) be(0.0) there(0.0) .(0.0) There(1.0) might(0.0) be(0.0) a(0.0) case(0.0) that(0.0) could(0.0) be(0.0) made(0.0) for(0.0) sending(0.0) Americans(0.0) to(0.0) 
+Bosnia(0.0) .(0.0) It(0.0) would(0.0) have(0.0) to(0.0) involve(0.0) a(0.0) rock-solid(1.0) peace(0.0) agreement(1.0) .(0.0) We(0.0) would(0.0) have(0.0) to(0.0) know(0.0) what(0.0) objectives(0.0) our(0.0) 
+troops(0.0) would(0.0) be(0.0) expected(0.0) to(0.0) achieve(0.0) and(0.0) how(0.0) they(0.0) could(0.0) achieve(0.0) them(0.0) .(0.0) The(0.0) President(1.0) would(0.0) have(0.0) to(0.0) convince(0.0) us(0.0) 
+and(0.0) the(0.0) American(0.0) people(0.0) that(0.0) he(0.0) knew(1.0) what(1.0) had(0.0) to(0.0) be(0.0) done(0.0) that(0.0) would(1.0) allow(0.0) our(0.0) troops(0.0) to(0.0) leave(1.0) Bosnia(0.0) 
+in(0.0) a(0.0) better(0.0) condition(0.0) than(0.0) it(0.0) was(0.0) when(0.0) they(0.0) arrived(0.0) .(0.0) Until(1.0) he(0.0) manages(1.0) to(0.0) make(0.0) that(0.0) case(0.0) ,(0.0) we(0.0) 
+should(0.0) make(0.0) sure(1.0) that(0.0) he(0.0) can(1.0) not(0.0) put(0.0) us(0.0) into(0.0) a(0.0) quagmire(1.0) .(0.0) What(0.0) the(0.0) President(1.0) and(0.0) the(0.0) administration(0.0) have(0.0) 
+told(0.0) us(0.0) so(0.0) far(1.0) has(0.0) not(1.0) made(0.0) a(0.0) convincing(0.0) case(0.0) with(0.0) me(0.0) ,(0.0) or(1.0) with(0.0) my(0.0) constituents(1.0) .(0.0) The(0.0) decision(0.0) 
+to(0.0) place(0.0) the(0.0) young(0.0) men(0.0) and(0.0) women(0.0) of(0.0) America(0.0) 's(0.0) military(1.0) in(0.0) harm(1.0) 's(0.0) way(0.0) is(0.0) the(0.0) toughest(0.0) that(0.0) any(1.0) 
+Member(0.0) of(0.0) Congress(0.0) can(1.0) make(0.0) .(0.0) I(0.0) have(0.0) had(0.0) to(0.0) make(0.0) that(0.0) decision(0.0) before(1.0) ,(0.0) to(0.0) authorize(0.0) the(0.0) war(1.0) against(0.0) 
+Iraq(1.0) in(0.0) 1991(0.0) .(0.0) Before(0.0) I(0.0) made(0.0) that(0.0) decision(0.0) ,(0.0) I(0.0) received(1.0) a(0.0) great(0.0) deal(1.0) of(0.0) information(0.0) from(0.0) the(0.0) Bush(1.0) 
+administration(0.0) as(0.0) to(0.0) our(0.0) objective(0.0) ,(0.0) the(0.0) threat(0.0) our(0.0) troops(0.0) might(0.0) face(0.0) ,(0.0) and(0.0) our(0.0) ability(0.0) to(0.0) accomplish(0.0) our(0.0) goals(0.0) 
+with(0.0) a(0.0) minimum(1.0) of(0.0) casualties(0.0) .(0.0) The(0.0) Clinton(1.0) administration(0.0) ,(0.0) on(0.0) the(0.0) other(0.0) hand(0.0) ,(0.0) has(0.0) not(1.0) provided(0.0) comparable(1.0) information(0.0) 
+about(0.0) its(0.0) plans(1.0) for(0.0) Bosnia(0.0) .(0.0) The(0.0) President(1.0) wrote(1.0) on(0.0) November(0.0) 13(1.0) ,(0.0) that(0.0) his(0.0) military(1.0) advisors(1.0) believe(0.0) that(0.0) 12(1.0) 
+months(1.0) would(0.0) be(0.0) adequate(0.0) to(0.0) accomplish(0.0) the(0.0) needed(0.0) tasks(0.0) to(0.0) make(0.0) the(0.0) peace(0.0) self-sustaining(1.0) .(0.0) That(0.0) one(0.0) sentence(1.0) has(0.0) two(0.0) 
+serious(0.0) problems(0.0) .(0.0) First(1.0) ,(0.0) there(0.0) has(0.0) been(0.0) no(1.0) discussion(0.0) as(0.0) to(0.0) what(0.0) the(0.0) needed(0.0) tasks(0.0) of(0.0) the(0.0) Implementation(0.0) Force(0.0) 
+are(0.0) .(0.0) What(0.0) would(0.0) our(0.0) troops(0.0) have(0.0) to(0.0) do(0.0) to(0.0) accomplish(0.0) these(0.0) tasks(1.0) ?(0.0) All(0.0) that(0.0) the(0.0) administration(0.0) says(1.0) is(0.0) 
+that(0.0) the(0.0) force(0.0) will(0.0) keep(1.0) the(0.0) warring(1.0) factions(1.0) apart(0.0) .(0.0) Second(0.0) ,(0.0) there(0.0) is(0.0) no(0.0) such(0.0) thing(0.0) as(0.0) a(0.0) ``(0.0) 
+self-sustaining(1.0) ''(0.0) peace(0.0) .(0.0) Peace(0.0) has(0.0) to(0.0) be(0.0) kept(0.0) by(0.0) someone(0.0) .(0.0) Otherwise(1.0) you(1.0) get(0.0) anarchy(1.0) .(0.0) So(1.0) ,(0.0) the(0.0) 
+only(0.0) way(1.0) the(0.0) IFOR(1.0) would(0.0) be(0.0) able(0.0) to(0.0) leave(0.0) would(0.0) be(0.0) if(0.0) the(0.0) various(1.0) communities(0.0) in(0.0) Bosnia(0.0) were(0.0) able(0.0) to(0.0) 
+keep(1.0) the(0.0) peace(0.0) themselves(0.0) .(0.0) Does(0.0) anyone(0.0) here(0.0) believe(0.0) the(0.0) Croats(0.0) ,(0.0) Serbs(1.0) ,(0.0) and(0.0) Muslims(0.0) will(0.0) unlearn(1.0) the(0.0) 
+
+
+----- below are rationale words -----
+
+would	Mr.	Speaker	believe	pass	
+2606	Otherwise	am	deeply	
+out	city	President	Clinton	
+President	not	said	would	
+requirement	pre-positioning	personnel	When	asks	
+personnel	There	
+rock-solid	agreement	
+President	
+knew	what	would	leave	
+Until	manages	
+sure	can	quagmire	President	
+far	not	or	constituents	
+military	harm	any	
+can	before	war	
+Iraq	received	deal	Bush	
+
+minimum	Clinton	not	comparable	
+plans	President	wrote	13	military	advisors	12	
+months	self-sustaining	sentence	
+First	no	
+tasks	says	
+keep	warring	factions	
+self-sustaining	Otherwise	you	anarchy	So	
+way	IFOR	various	
+keep	Serbs	unlearn	
+
+reads % = 0.166

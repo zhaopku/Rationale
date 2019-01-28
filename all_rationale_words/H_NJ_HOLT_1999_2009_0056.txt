@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) will(0.0) support(0.0) this(0.0) bill(1.0) ,(0.0) albeit(0.0) very(0.0) reluctantly(0.0) .(0.0) This(0.0) supplemental(1.0) appropriations(1.0) bill(1.0) contains(1.0) a(0.0) number(0.0) of(0.0) provisions(0.0) 
+I(0.0) 'm(0.0) pleased(0.0) to(0.0) support(0.0) .(0.0) This(0.0) bill(1.0) provides(0.0) long-overdue(1.0) retroactive(1.0) ``(0.0) stop(0.0) loss(0.0) ''(0.0) compensation(0.0) payments(0.0) to(0.0) more(0.0) than(0.0) 
+170,000(0.0) servicemembers(1.0) who(0.0) had(0.0) their(0.0) enlistments(1.0) involuntarily(0.0) extended(0.0) .(0.0) It(0.0) also(0.0) provides(0.0) nearly(0.0) $(0.0) 5(0.0) billion(1.0) for(0.0) additional(0.0) Mine(0.0) Resistant(0.0) 
+Ambush(0.0) Protected(0.0) ((0.0) MRAP(1.0) )(0.0) vehicles(0.0) for(0.0) U.S.(0.0) forces(0.0) in(0.0) Afghanistan(1.0) and(0.0) Iraq(0.0) .(0.0) The(0.0) bill(0.0) renews(0.0) our(0.0) commitment(1.0) to(0.0) 
+meaningful(0.0) engagement(0.0) in(0.0) the(0.0) Middle(0.0) East(0.0) by(0.0) providing(0.0) Israel(0.0) with(0.0) $(0.0) 555(0.0) million(0.0) of(0.0) the(0.0) $(0.0) 2.8(0.0) billion(1.0) of(0.0) the(0.0) 
+2010(0.0) request(0.0) for(0.0) security(0.0) assistance(0.0) ,(0.0) as(0.0) well(0.0) as(0.0) $(0.0) 665(0.0) million(0.0) in(0.0) bilateral(1.0) economic(1.0) ,(0.0) humanitarian(1.0) ,(0.0) and(0.0) security(0.0) 
+assistance(0.0) for(0.0) the(0.0) West(0.0) Bank(0.0) and(0.0) Gaza(1.0) .(0.0) I(0.0) am(0.0) also(0.0) pleased(0.0) that(0.0) the(0.0) bill(1.0) provides(0.0) $(0.0) 2(0.0) billion(1.0) for(0.0) 
+pandemic(1.0) flu(1.0) response(0.0) ,(0.0) as(0.0) well(0.0) as(0.0) $(0.0) 500(0.0) million(0.0) for(0.0) global(1.0) emergency(1.0) food(1.0) assistance(1.0) .(0.0) These(0.0) are(0.0) all(0.0) worthy(0.0) 
+and(0.0) necessary(0.0) expenditures(1.0) .(0.0) As(0.0) the(0.0) chairman(0.0) of(0.0) the(0.0) Select(0.0) Intelligence(0.0) Oversight(0.0) Panel(0.0) ((0.0) SIOP(1.0) )(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) 
+briefly(0.0) discuss(0.0) our(0.0) work(0.0) on(0.0) this(0.0) bill(1.0) .(0.0) The(0.0) SIOP(1.0) reviewed(0.0) the(0.0) intelligence(0.0) activities(0.0) contained(0.0) in(0.0) this(0.0) request(0.0) .(0.0) While(0.0) 
+the(0.0) dollar(1.0) amounts(0.0) are(0.0) classified(0.0) ,(0.0) I(0.0) can(0.0) tell(0.0) my(0.0) colleagues(0.0) that(0.0) this(0.0) bill(1.0) contains(1.0) many(0.0) of(0.0) the(0.0) same(0.0) justifiable(1.0) 
+activities(0.0) we(0.0) have(0.0) seen(0.0) in(0.0) previous(0.0) years(0.0) with(0.0) two(0.0) exceptions(1.0) .(0.0) The(0.0) first(0.0) exception(0.0) is(0.0) the(0.0) administration(1.0) 's(0.0) request(0.0) ,(0.0) 
+which(0.0) this(0.0) bill(1.0) includes(0.0) ,(0.0) for(0.0) additional(0.0) funding(1.0) for(0.0) the(0.0) operations(0.0) in(0.0) Afghanistan(1.0) .(0.0) Intelligence(0.0) has(0.0) been(0.0) a(0.0) vital(0.0) component(0.0) 
+of(0.0) our(0.0) overseas(1.0) military(0.0) activities(0.0) ,(0.0) and(0.0) this(0.0) bill(1.0) ensures(0.0) that(0.0) proper(0.0) intelligence(0.0) will(0.0) be(0.0) available(0.0) to(0.0) those(0.0) on(0.0) the(0.0) 
+front(0.0) lines(0.0) in(0.0) Afghanistan(1.0) .(0.0) The(0.0) second(0.0) exception(0.0) is(0.0) that(0.0) this(0.0) administration(1.0) has(0.0) begun(0.0) the(0.0) process(0.0) of(0.0) shifting(1.0) continuing(1.0) activities(0.0) 
+from(0.0) emergency(1.0) supplemental(1.0) bills(0.0) to(1.0) the(0.0) base(0.0) appropriations(0.0) bill(0.0) .(0.0) Overall(0.0) ,(0.0) however(0.0) ,(0.0) I(0.0) have(0.0) grave(0.0) concerns(0.0) about(0.0) the(0.0) 
+direction(0.0) of(0.0) our(0.0) spending(1.0) and(0.0) policy(1.0) focus(0.0) in(0.0) Afghanistan(1.0) .(0.0) I(0.0) recognize(0.0) that(0.0) this(0.0) conflict(1.0) was(0.0) neglected(0.0) for(0.0) far(0.0) too(0.0) 
+long(0.0) because(0.0) of(0.0) our(0.0) misadventure(1.0) in(0.0) Iraq(1.0) and(0.0) that(0.0) we(0.0) are(0.0) now(0.0) paying(1.0) the(0.0) price(0.0) for(0.0) that(0.0) neglect(1.0) .(0.0) I(0.0) 
+am(0.0) concerned(0.0) that(0.0) in(0.0) our(0.0) haste(0.0) to(0.0) try(0.0) to(0.0) recover(0.0) lost(0.0) ground(0.0) --(0.0) literally(0.0) as(0.0) well(0.0) as(0.0) figuratively(0.0) --(0.0) we(0.0) 
+may(0.0) commit(0.0) some(0.0) of(0.0) the(0.0) same(0.0) errors(0.0) that(0.0) bedeviled(1.0) our(0.0) efforts(1.0) in(0.0) Iraq(1.0) .(0.0) I(0.0) have(0.0) heard(0.0) many(0.0) people(0.0) in(0.0) 
+this(0.0) body(0.0) and(0.0) elsewhere(0.0) in(0.0) our(0.0) government(1.0) say(0.0) that(0.0) ``(0.0) the(0.0) United(0.0) States(0.0) can(0.0) not(0.0) afford(1.0) to(0.0) lose(0.0) in(0.0) Afghanistan(1.0) 
+.(0.0) ''(0.0) That(0.0) statement(0.0) presumes(1.0) that(0.0) it(0.0) is(0.0) a(0.0) war(1.0) that(0.0) is(0.0) solely(0.0) ours(0.0) to(0.0) win(0.0) or(0.0) lose(0.0) --(0.0) that(0.0) 
+the(0.0) outcome(1.0) will(0.0) be(0.0) decided(0.0) by(0.0) our(0.0) willingness(1.0) to(0.0) commit(0.0) still(0.0) more(0.0) blood(0.0) and(0.0) treasure(0.0) to(0.0) this(0.0) conflict(1.0) .(0.0) That(0.0) 
+is(0.0) a(0.0) fallacy(0.0) ,(0.0) the(0.0) same(0.0) fallacy(1.0) that(0.0) caused(0.0) us(0.0) to(0.0) misdirect(0.0) our(0.0) efforts(1.0) in(0.0) Iraq(1.0) for(0.0) so(0.0) long(0.0) with(0.0) 
+such(0.0) disastrous(0.0) consequences(1.0) .(0.0) We(0.0) would(0.0) do(0.0) well(0.0) to(0.0) remember(0.0) what(0.0) U.S.(0.0) counterinsurgency(1.0) specialist(0.0) William(0.0) Polk(1.0) said(0.0) in(0.0) his(0.0) 
+
+
+----- below are rationale words -----
+
+bill	supplemental	appropriations	bill	contains	
+bill	long-overdue	retroactive	
+servicemembers	enlistments	billion	
+MRAP	Afghanistan	commitment	
+billion	
+bilateral	economic	humanitarian	
+Gaza	bill	billion	
+pandemic	flu	global	emergency	food	assistance	
+expenditures	SIOP	
+bill	SIOP	
+dollar	bill	contains	justifiable	
+exceptions	administration	
+bill	funding	Afghanistan	
+overseas	bill	
+Afghanistan	administration	shifting	continuing	
+emergency	supplemental	to	
+spending	policy	Afghanistan	conflict	
+misadventure	Iraq	paying	neglect	
+
+bedeviled	efforts	Iraq	
+government	afford	Afghanistan	
+presumes	war	
+outcome	willingness	conflict	
+fallacy	efforts	Iraq	
+consequences	counterinsurgency	Polk	
+
+reads % = 0.148

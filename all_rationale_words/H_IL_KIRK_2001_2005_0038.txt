@@ -1,0 +1,36 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) chairman(0.0) for(0.0) yielding(0.0) me(0.0) this(0.0) time(0.0) .(0.0) I(0.0) rise(0.0) in(0.0) opposition(1.0) to(0.0) this(0.0) amendment(1.0) because(0.0) it(0.0) 
+seeks(1.0) to(0.0) overturn(1.0) two(0.0) court(1.0) decisions(0.0) and(0.0) what(0.0) Judge(0.0) Wedoff(0.0) said(0.0) was(0.0) ``(0.0) The(0.0) least(0.0) of(0.0) the(0.0) bad(0.0) ''(0.0) alternative(0.0) 
+``(0.0) choices(0.0) here(0.0) has(0.0) got(0.0) to(0.0) be(0.0) the(0.0) one(0.0) that(0.0) keeps(0.0) the(0.0) airline(0.0) functioning(0.0) ,(0.0) that(0.0) keeps(0.0) employees(0.0) being(0.0) paid(0.0) 
+.(0.0) ''(0.0) We(0.0) have(0.0) to(0.0) look(0.0) out(0.0) for(0.0) the(0.0) interests(1.0) of(0.0) all(0.0) people(0.0) ,(0.0) especially(0.0) the(0.0) 62,000(1.0) employees(0.0) of(0.0) United(0.0) 
+Airlines(0.0) right(0.0) now(0.0) ,(0.0) just(0.0) crawling(0.0) out(0.0) of(0.0) bankruptcy(1.0) ,(0.0) on(0.0) whom(0.0) the(0.0) future(0.0) of(0.0) the(0.0) entire(0.0) western(0.0) Chicagoland(0.0) region(0.0) 
+,(0.0) O'Hare(0.0) Airport(0.0) ,(0.0) and(0.0) many(0.0) of(0.0) the(0.0) related(0.0) businesses(0.0) depend(0.0) .(0.0) If(0.0) we(0.0) push(0.0) United(0.0) into(0.0) bankruptcy(1.0) ,(0.0) and(0.0) 
+especially(0.0) if(0.0) we(0.0) push(0.0) her(0.0) further(0.0) into(0.0) liquidation(1.0) ,(0.0) we(0.0) will(0.0) not(0.0) only(0.0) have(0.0) an(0.0) employee(0.0) pension(1.0) problem(0.0) ,(0.0) but(0.0) 
+we(0.0) will(0.0) have(0.0) a(0.0) massive(0.0) unemployment(1.0) problem(0.0) .(0.0) We(0.0) will(0.0) also(0.0) jeopardize(1.0) the(0.0) crown(0.0) jewel(0.0) of(0.0) the(0.0) economic(1.0) development(0.0) programs(1.0) 
+for(0.0) Illinois(1.0) ,(0.0) which(0.0) is(0.0) the(0.0) modernization(1.0) of(0.0) O'Hare(1.0) airport(0.0) .(0.0) O'Hare(0.0) airport(0.0) and(0.0) its(0.0) modernization(1.0) depends(0.0) on(0.0) a(0.0) functioning(0.0) 
+United(0.0) Airlines(0.0) .(0.0) And(0.0) for(0.0) us(0.0) to(0.0) interfere(0.0) with(0.0) the(0.0) two(0.0) court(0.0) decisions(0.0) and(0.0) the(0.0) already(0.0) declared(0.0) decisions(0.0) of(0.0) four(0.0) 
+unions(1.0) with(0.0) United(0.0) is(0.0) a(0.0) great(0.0) mistake(0.0) .(0.0) I(0.0) think(0.0) we(0.0) should(0.0) make(0.0) sure(0.0) that(0.0) this(0.0) process(0.0) moves(0.0) forward(0.0) ,(0.0) 
+we(0.0) should(0.0) make(0.0) sure(0.0) that(0.0) this(0.0) airline(1.0) continues(0.0) to(0.0) function(0.0) ,(0.0) and(0.0) we(0.0) should(0.0) make(0.0) sure(0.0) that(0.0) the(0.0) 62,000(0.0) current(0.0) 
+employees(1.0) of(0.0) United(0.0) are(0.0) allowed(0.0) to(0.0) find(0.0) their(0.0) way(0.0) back(0.0) into(0.0) profitability(1.0) so(0.0) they(0.0) can(0.0) put(0.0) food(1.0) on(0.0) their(0.0) table(0.0) 
+,(0.0) especially(0.0) in(0.0) my(0.0) district(0.0) and(0.0) other(0.0) Illinois(1.0) districts(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+opposition	amendment	
+seeks	overturn	court	
+
+interests	62,000	
+bankruptcy	
+bankruptcy	
+liquidation	pension	
+unemployment	jeopardize	economic	programs	
+Illinois	modernization	O'Hare	modernization	
+
+unions	
+airline	
+employees	profitability	food	
+Illinois	
+
+reads % = 0.09225092250922509

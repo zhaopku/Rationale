@@ -1,0 +1,24 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) if(0.0) the(0.0) gentleman(0.0) will(0.0) continue(0.0) to(0.0) yield(0.0) ,(0.0) in(0.0) the(0.0) last(1.0) 20(0.0) years(0.0) Government(0.0) spending(1.0) at(0.0) the(0.0) Federal(1.0) level(0.0) 
+has(0.0) increased(0.0) to(0.0) nearly(0.0) double(0.0) that(0.0) of(0.0) the(0.0) national(1.0) inflation(0.0) rate(0.0) .(0.0) That(0.0) had(0.0) been(0.0) the(0.0) pattern(1.0) .(0.0) The(0.0) gentleman(0.0) 
+almost(0.0) quoted(0.0) a(0.0) good(0.0) old(1.0) farm(1.0) fellow(0.0) in(0.0) my(0.0) district(1.0) who(0.0) said(1.0) it(0.0) so(1.0) clearly(1.0) .(0.0) He(0.0) said(0.0) ,(0.0) the(0.0) 
+problem(0.0) is(0.0) not(1.0) that(0.0) we(0.0) do(0.0) not(1.0) send(0.0) enough(0.0) money(0.0) in(0.0) to(0.0) Washington(1.0) .(0.0) The(0.0) problem(0.0) is(0.0) that(0.0) Congress(0.0) spends(1.0) 
+it(0.0) faster(0.0) than(0.0) we(0.0) can(0.0) send(0.0) it(0.0) in(0.0) .(0.0) So(1.0) raising(1.0) taxes(1.0) to(0.0) try(0.0) to(0.0) balance(0.0) the(0.0) budget(0.0) has(0.0) never(0.0) 
+worked(0.0) .(0.0) What(0.0) really(0.0) has(0.0) to(0.0) happen(0.0) is(0.0) we(0.0) have(0.0) to(0.0) limit(0.0) the(0.0) growth(1.0) in(0.0) spending(1.0) ,(0.0) allow(0.0) spending(1.0) to(0.0) 
+increase(1.0) but(0.0) at(0.0) a(0.0) much(0.0) slower(0.0) rate(0.0) ,(0.0) and(0.0) we(0.0) can(0.0) not(0.0) only(0.0) balance(0.0) the(0.0) budget(0.0) then(0.0) but(0.0) we(0.0) can(0.0) 
+actually(1.0) allow(0.0) American(0.0) families(1.0) to(0.0) keep(1.0) more(0.0) of(0.0) what(0.0) they(0.0) earn(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+last	spending	Federal	
+national	pattern	
+old	farm	district	said	so	clearly	
+not	not	Washington	spends	
+So	raising	taxes	
+growth	spending	spending	
+increase	
+actually	families	keep	
+
+reads % = 0.16339869281045752

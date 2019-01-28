@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) despite(0.0) large(0.0) increases(1.0) in(0.0) Federal(1.0) spending(1.0) ,(0.0) test(0.0) scores(0.0) for(0.0) students(0.0) in(0.0) the(0.0) United(0.0) States(0.0) continue(0.0) to(0.0) fall(0.0) .(0.0) 
+In(0.0) fact(0.0) ,(0.0) according(0.0) to(0.0) a(0.0) recent(0.0) study(0.0) ,(0.0) United(0.0) States(0.0) students(0.0) scored(0.0) far(0.0) below(0.0) Japanese(0.0) and(0.0) British(0.0) students(0.0) in(0.0) 
+all(0.0) subjects(0.0) for(0.0) which(0.0) there(0.0) were(0.0) comparisons(0.0) .(0.0) In(0.0) some(0.0) subjects(0.0) ,(0.0) Japanese(0.0) students(0.0) came(0.0) very(0.0) close(0.0) to(0.0) doubling(0.0) scores(0.0) 
+of(0.0) United(0.0) States(0.0) students(0.0) .(0.0) So(0.0) ,(0.0) what(0.0) is(0.0) the(0.0) President(1.0) 's(0.0) answer(0.0) to(0.0) this(0.0) problem(0.0) ?(0.0) More(0.0) spending(1.0) and(0.0) 
+more(0.0) programs(1.0) .(0.0) This(0.0) is(0.0) not(0.0) the(0.0) answer(0.0) .(0.0) Last(0.0) week(0.0) ,(0.0) Chairman(0.0) Goodling(1.0) held(0.0) a(0.0) press(0.0) conference(0.0) to(0.0) discuss(0.0) 
+his(0.0) committee(0.0) 's(0.0) finding(0.0) that(0.0) there(0.0) are(0.0) 760(0.0) Federal(1.0) education(1.0) programs(0.0) scattered(0.0) throughout(0.0) 39(0.0) separate(0.0) departments(0.0) ,(0.0) agencies(0.0) ,(0.0) and(0.0) 
+commissions(0.0) .(0.0) This(0.0) web(0.0) of(0.0) Federal(0.0) programs(0.0) costs(0.0) over(0.0) $(0.0) 120(0.0) billion(0.0) per(0.0) year(0.0) to(0.0) educate(0.0) citizens(1.0) on(0.0) everything(0.0) from(0.0) 
+the(0.0) disposal(0.0) of(0.0) boat(0.0) sewage(1.0) to(0.0) citizenship(1.0) .(0.0) Each(0.0) of(0.0) these(0.0) programs(1.0) has(0.0) its(0.0) own(0.0) application(0.0) process(0.0) ,(0.0) and(0.0) each(0.0) 
+requires(0.0) large(0.0) amounts(0.0) of(0.0) staff(0.0) time(0.0) to(0.0) administer(0.0) --(0.0) on(0.0) the(0.0) Federal(1.0) ,(0.0) State(1.0) ,(0.0) and(0.0) local(0.0) levels(0.0) .(0.0) Money(0.0) 
+spent(0.0) on(0.0) redundant(0.0) programs(1.0) is(0.0) money(0.0) not(0.0) spent(0.0) on(0.0) our(0.0) children(0.0) .(0.0) This(0.0) must(0.0) change(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+increases	Federal	spending	
+
+
+President	spending	
+programs	Goodling	
+Federal	education	
+citizens	
+sewage	citizenship	programs	
+Federal	State	
+programs	
+
+reads % = 0.08121827411167512

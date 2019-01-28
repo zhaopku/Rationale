@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) would(0.0) like(0.0) to(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Washington(1.0) for(0.0) organizing(0.0) this(0.0) Special(0.0) Order(0.0) hour(0.0) on(0.0) the(0.0) award(0.0) for(0.0) the(0.0) contract(0.0) 
+to(0.0) build(0.0) the(0.0) next(0.0) generation(0.0) of(0.0) air(0.0) refueling(1.0) tankers(1.0) .(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) everyone(0.0) who(0.0) 's(0.0) here(0.0) at(0.0) this(0.0) 
+point(0.0) speaking(0.0) on(0.0) this(0.0) issue(0.0) .(0.0) Needless(0.0) to(0.0) say(0.0) ,(0.0) I(0.0) was(0.0) deeply(0.0) disappointed(0.0) that(0.0) the(0.0) KCX(0.0) refueling(1.0) tanker(1.0) contract(1.0) 
+was(0.0) not(0.0) awarded(0.0) to(0.0) the(0.0) Boeing(1.0) team(0.0) .(0.0) Rockwell(0.0) Collins(0.0) of(0.0) Cedar(0.0) Rapids(0.0) ,(0.0) Iowa(1.0) ,(0.0) is(0.0) a(0.0) part(0.0) of(0.0) 
+the(0.0) Boeing(1.0) bid(0.0) and(0.0) would(0.0) supply(0.0) the(0.0) aviation(0.0) and(0.0) electronic(0.0) sub(0.0) systems(0.0) on(0.0) the(0.0) KC-767(1.0) advanced(0.0) tanker(0.0) .(0.0) The(0.0) State(0.0) 
+of(0.0) Iowa(1.0) has(0.0) a(0.0) well-earned(0.0) reputation(0.0) ,(0.0) I(0.0) believe(0.0) ,(0.0) as(0.0) a(0.0) leader(0.0) in(0.0) innovation(1.0) ,(0.0) and(0.0) Rockwell(0.0) Collins(1.0) is(0.0) 
+at(0.0) the(0.0) forefront(1.0) of(0.0) the(0.0) cutting(0.0) edge(0.0) technological(1.0) development(0.0) for(0.0) which(0.0) our(0.0) State(1.0) is(0.0) known(0.0) .(0.0) With(0.0) 9,200(0.0) employees(0.0) in(0.0) 
+the(0.0) Cedar(0.0) Rapids-Iowa(0.0) City(0.0) corridor(0.0) ,(0.0) Rockwell(0.0) Collins(1.0) is(0.0) the(0.0) largest(0.0) employer(0.0) in(0.0) the(0.0) Second(0.0) Congressional(0.0) District(1.0) in(0.0) Iowa(1.0) .(0.0) 
+The(0.0) Boeing(1.0) bid(0.0) would(0.0) bring(0.0) 1,600(0.0) high-paying(1.0) jobs(0.0) to(0.0) Iowa(1.0) ,(0.0) most(0.0) of(0.0) them(0.0) in(0.0) the(0.0) Second(0.0) Congressional(0.0) District(1.0) ,(0.0) 
+and(0.0) would(0.0) invest(0.0) over(0.0) $(0.0) 60(0.0) million(0.0) annually(0.0) in(0.0) the(0.0) State(0.0) .(0.0) Equally(0.0) important(0.0) ,(0.0) it(0.0) would(0.0) put(0.0) a(0.0) program(0.0) 
+that(0.0) is(0.0) absolutely(0.0) vital(0.0) to(0.0) our(0.0) national(1.0) security(0.0) and(0.0) the(0.0) readiness(0.0) of(0.0) our(0.0) armed(1.0) forces(0.0) in(0.0) the(0.0) hands(0.0) of(0.0) highly(0.0) 
+skilled(0.0) Iowans(1.0) and(0.0) American(0.0) innovators(1.0) and(0.0) manufacturers(0.0) .(0.0) I(0.0) think(0.0) that(0.0) is(0.0) an(0.0) absolutely(0.0) critical(0.0) point(0.0) to(0.0) make(0.0) .(0.0) Rockwell(0.0) 
+Collins(1.0) employees(1.0) are(0.0) hardworking(1.0) ,(0.0) they(0.0) are(0.0) dedicated(0.0) ,(0.0) and(0.0) they(0.0) are(0.0) highly(0.0) qualified(0.0) workers(1.0) .(0.0) They(0.0) work(0.0) each(0.0) day(0.0) 
+to(0.0) provide(0.0) the(0.0) men(0.0) and(0.0) women(0.0) who(0.0) wear(0.0) our(0.0) country(1.0) 's(0.0) uniform(0.0) with(0.0) the(0.0) equipment(0.0) and(0.0) the(0.0) tools(0.0) they(0.0) need(0.0) 
+to(0.0) safely(0.0) carry(0.0) out(0.0) their(0.0) mission(0.0) .(0.0) I(0.0) am(0.0) a(0.0) member(0.0) of(0.0) the(0.0) Armed(0.0) Services(0.0) Committee(0.0) and(0.0) I(0.0) know(0.0) the(0.0) 
+importance(0.0) of(0.0) the(0.0) aerial(0.0) refueling(0.0) tanker(1.0) to(0.0) our(0.0) ability(0.0) to(0.0) support(0.0) ,(0.0) equip(0.0) and(0.0) provide(0.0) medical(1.0) care(0.0) to(0.0) our(0.0) deployed(0.0) 
+men(0.0) and(0.0) women(0.0) in(0.0) uniform(1.0) .(0.0) As(0.0) the(0.0) Representative(1.0) of(0.0) Iowa(1.0) 's(0.0) Second(0.0) Congressional(0.0) District(1.0) ,(0.0) I(0.0) know(0.0) firsthand(0.0) the(0.0) 
+impact(1.0) of(0.0) putting(0.0) thousands(0.0) of(0.0) jobs(1.0) and(0.0) tens(1.0) of(0.0) millions(1.0) of(0.0) dollars(1.0) into(0.0) Iowa(1.0) .(0.0) In(0.0) light(0.0) of(0.0) this(0.0) and(0.0) 
+our(0.0) country(1.0) 's(0.0) current(0.0) economic(1.0) state(1.0) ,(0.0) I(0.0) find(0.0) it(0.0) difficult(0.0) to(0.0) believe(0.0) that(0.0) the(0.0) Air(0.0) Force(0.0) has(0.0) elected(0.0) to(0.0) 
+ship(0.0) thousands(0.0) of(0.0) jobs(0.0) overseas(0.0) by(0.0) awarding(1.0) a(0.0) key(0.0) component(0.0) of(0.0) the(0.0) United(0.0) States(0.0) Air(0.0) Force(0.0) to(0.0) a(0.0) heavily(0.0) subsidized(1.0) 
+European(0.0) industry(0.0) .(0.0) The(0.0) aerial(0.0) refueling(1.0) tanker(0.0) contract(0.0) award(0.0) must(0.0) serve(0.0) the(0.0) interests(0.0) of(0.0) the(0.0) American(0.0) people(0.0) and(0.0) American(0.0) national(1.0) 
+security(0.0) .(0.0) I(0.0) repeat(0.0) that(0.0) .(0.0) It(0.0) must(0.0) serve(0.0) the(0.0) interests(1.0) of(0.0) the(0.0) American(0.0) people(0.0) and(0.0) American(0.0) national(1.0) security(0.0) .(0.0) 
+The(0.0) awarding(1.0) of(0.0) the(0.0) tanker(1.0) contract(0.0) to(0.0) Northrop(1.0) Grumman(1.0) and(0.0) EADS(0.0) will(0.0) force(0.0) the(0.0) Iowa(1.0) Air(0.0) National(0.0) Guard(0.0) to(0.0) use(0.0) 
+scarce(0.0) resources(0.0) to(0.0) construct(0.0) new(0.0) hangars(0.0) in(0.0) order(0.0) to(0.0) accommodate(0.0) the(0.0) larger(0.0) size(0.0) of(0.0) the(0.0) EADS(1.0) planes(0.0) .(0.0) The(0.0) estimated(0.0) 
+cost(0.0) for(0.0) the(0.0) construction(0.0) of(0.0) the(0.0) new(0.0) hangars(1.0) would(0.0) be(0.0) roughly(0.0) $(0.0) 45(0.0) million(0.0) .(0.0) Moreover(0.0) ,(0.0) the(0.0) runways(0.0) 
+
+
+----- below are rationale words -----
+
+Washington	
+refueling	tankers	
+refueling	tanker	contract	
+Boeing	Iowa	
+Boeing	KC-767	
+Iowa	innovation	Collins	
+forefront	technological	State	
+Collins	District	Iowa	
+Boeing	high-paying	Iowa	District	
+
+national	armed	
+Iowans	innovators	
+Collins	employees	hardworking	workers	
+country	
+
+tanker	medical	
+uniform	Representative	Iowa	District	
+impact	jobs	tens	millions	dollars	Iowa	
+country	economic	state	
+awarding	subsidized	
+refueling	national	
+interests	national	
+awarding	tanker	Northrop	Grumman	Iowa	
+EADS	
+hangars	
+
+reads % = 0.12

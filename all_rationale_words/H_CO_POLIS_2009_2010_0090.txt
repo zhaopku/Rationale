@@ -1,0 +1,54 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) support(0.0) of(0.0) House(0.0) Concurrent(1.0) Resolution(1.0) 275(0.0) ,(0.0) which(0.0) expresses(1.0) support(0.0) for(0.0) designating(1.0) the(0.0) week(0.0) 
+beginning(0.0) on(0.0) the(0.0) second(0.0) Sunday(0.0) of(0.0) September(0.0) as(0.0) Arts(0.0) in(0.0) Education(0.0) Week(0.0) .(0.0) The(0.0) arts(0.0) serve(0.0) a(0.0) critical(0.0) role(0.0) in(0.0) 
+the(0.0) advancement(0.0) of(0.0) our(0.0) students'(0.0) education(1.0) ,(0.0) creativity(0.0) ,(0.0) and(0.0) intellectual(1.0) development(0.0) .(0.0) A(0.0) well-rounded(0.0) education(1.0) that(0.0) includes(0.0) arts(1.0) education(1.0) 
+is(0.0) extremely(0.0) important(0.0) in(0.0) our(0.0) schools(1.0) and(0.0) communities(1.0) ,(0.0) helping(0.0) students(0.0) think(0.0) creatively(0.0) and(0.0) critically(0.0) .(0.0) When(0.0) students(0.0) leave(0.0) the(0.0) 
+classroom(0.0) ,(0.0) they(0.0) use(0.0) their(0.0) understanding(0.0) of(0.0) dance(0.0) ,(0.0) music(0.0) ,(0.0) theater(0.0) ,(0.0) literature(0.0) ,(0.0) design(0.0) ,(0.0) and(0.0) visual(0.0) arts(1.0) 
+to(0.0) communicate(0.0) in(0.0) new(0.0) ways(0.0) ,(0.0) to(0.0) build(0.0) intellectual(1.0) capital(1.0) ,(0.0) to(0.0) express(0.0) themselves(0.0) within(0.0) and(0.0) across(0.0) cultures(0.0) and(0.0) mediums(0.0) 
+.(0.0) The(0.0) arts(1.0) also(0.0) add(0.0) a(0.0) new(0.0) dimension(0.0) of(0.0) thinking(0.0) to(0.0) social(1.0) and(0.0) hard(0.0) scientists(0.0) ,(0.0) in(0.0) keeping(0.0) with(0.0) Albert(0.0) 
+Einstein(0.0) 's(0.0) assertion(1.0) that(0.0) ``(0.0) the(0.0) greatest(0.0) scientists(0.0) are(0.0) artists(0.0) as(0.0) well(0.0) .(0.0) ''(0.0) Arts(0.0) education(1.0) has(0.0) a(0.0) positive(0.0) effect(0.0) 
+on(0.0) students(0.0) '(0.0) academic(0.0) careers(0.0) .(0.0) Many(0.0) studies(0.0) have(0.0) shown(0.0) that(0.0) students(0.0) participating(0.0) in(0.0) visual(0.0) and(0.0) performing(0.0) arts(1.0) had(0.0) better(0.0) 
+grades(0.0) and(0.0) a(0.0) lower(0.0) likelihood(0.0) of(0.0) dropping(0.0) out(0.0) .(0.0) Students(0.0) who(0.0) participate(0.0) in(0.0) arts(1.0) programs(1.0) are(0.0) at(0.0) least(0.0) three(0.0) times(0.0) 
+more(0.0) likely(0.0) to(0.0) be(0.0) recognized(0.0) for(0.0) academic(0.0) achievement(0.0) ,(0.0) elected(0.0) to(0.0) class(0.0) office(0.0) within(0.0) their(0.0) schools(0.0) ,(0.0) participate(0.0) in(0.0) a(0.0) 
+math(0.0) and(0.0) science(0.0) fair(1.0) ,(0.0) win(0.0) an(0.0) award(0.0) for(0.0) school(0.0) attendance(0.0) ,(0.0) or(0.0) win(0.0) an(0.0) award(0.0) for(0.0) writing(0.0) an(0.0) essay(0.0) 
+or(0.0) a(0.0) poem(0.0) .(0.0) These(0.0) students(0.0) also(0.0) maintain(0.0) more(0.0) positive(0.0) attitudes(1.0) about(0.0) school(0.0) and(0.0) are(0.0) more(0.0) likely(0.0) to(0.0) go(0.0) on(0.0) 
+to(0.0) college(1.0) .(0.0) And(0.0) yet(0.0) ,(0.0) despite(0.0) the(0.0) proven(0.0) benefits(1.0) of(0.0) arts(1.0) education(1.0) ,(0.0) the(0.0) 2008(0.0) National(0.0) Assessment(0.0) of(0.0) Educational(0.0) 
+Progress(0.0) ,(0.0) the(0.0) NAEP(1.0) result(0.0) ,(0.0) found(0.0) that(0.0) only(0.0) 58(0.0) percent(0.0) of(0.0) eighth-graders(1.0) attended(0.0) schools(0.0) where(0.0) music(0.0) instruction(0.0) was(0.0) offered(0.0) 
+at(0.0) least(0.0) three(0.0) times(0.0) a(0.0) week(0.0) ,(0.0) and(0.0) only(0.0) 47(0.0) percent(0.0) attended(0.0) schools(1.0) where(0.0) visual(0.0) arts(1.0) were(0.0) offered(0.0) more(0.0) than(0.0) 
+three(0.0) times(0.0) a(0.0) week(0.0) .(0.0) Arts(0.0) in(0.0) Education(0.0) Week(0.0) helps(0.0) us(0.0) highlight(0.0) the(0.0) importance(0.0) of(0.0) giving(0.0) our(0.0) students(0.0) expanded(0.0) opportunities(0.0) 
+to(0.0) participate(0.0) in(0.0) the(0.0) visual(0.0) and(0.0) performing(0.0) arts(0.0) in(0.0) school(1.0) .(0.0) I(0.0) took(0.0) advantage(0.0) of(0.0) those(0.0) opportunities(0.0) growing(0.0) up(0.0) myself(0.0) 
+,(0.0) participating(0.0) in(0.0) several(0.0) school(0.0) plays(0.0) ,(0.0) and(0.0) throughout(0.0) lower(0.0) school(0.0) ,(0.0) in(0.0) elementary(1.0) school(1.0) ,(0.0) in(0.0) a(0.0) music(0.0) program(0.0) 
+.(0.0) I(0.0) know(0.0) that(0.0) I(0.0) take(0.0) many(0.0) of(0.0) those(0.0) lessons(0.0) today(0.0) that(0.0) have(0.0) helped(0.0) make(0.0) me(0.0) a(0.0) better(0.0) rounded(0.0) person(0.0) 
+and(0.0) a(0.0) more(0.0) effective(0.0) representative(0.0) in(0.0) Congress(0.0) for(0.0) the(0.0) people(0.0) of(0.0) Colorado(1.0) .(0.0) I(0.0) strongly(0.0) encourage(0.0) my(0.0) colleagues(0.0) to(0.0) join(0.0) 
+Representative(1.0) Speier(1.0) ,(0.0) the(0.0) sponsor(0.0) of(0.0) this(0.0) bill(0.0) ,(0.0) in(0.0) supporting(0.0) Arts(0.0) in(0.0) Education(0.0) Week(0.0) .(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) 
+of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Concurrent	Resolution	expresses	designating	
+
+education	intellectual	education	arts	education	
+schools	communities	
+arts	
+intellectual	capital	
+arts	social	
+assertion	education	
+arts	
+arts	programs	
+
+fair	
+attitudes	
+college	benefits	arts	education	
+NAEP	eighth-graders	
+schools	arts	
+
+school	
+elementary	school	
+
+Colorado	
+Representative	Speier	
+
+
+reads % = 0.08314606741573034

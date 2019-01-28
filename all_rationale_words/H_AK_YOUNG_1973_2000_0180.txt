@@ -1,0 +1,10 @@
+This is from a Republican
+----- below is the original text -----
+The(0.0) Federal(0.0) government(1.0) makes(0.0) the(0.0) decision(0.0) ,(0.0) whether(0.0) it(0.0) is(0.0) correct(0.0) or(0.0) not(0.0) ,(0.0) is(0.0) that(0.0) correct(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+government	
+
+reads % = 0.05555555555555555

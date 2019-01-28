@@ -1,0 +1,40 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) rise(0.0) in(0.0) opposition(1.0) to(0.0) the(0.0) Family(0.0) Smoking(0.0) Prevention(1.0) and(0.0) Tobacco(1.0) Control(0.0) Act(0.0) .(0.0) During(0.0) my(0.0) tenure(1.0) in(0.0) 
+the(0.0) Congress(0.0) ,(0.0) I(0.0) have(0.0) consistently(0.0) opposed(1.0) granting(1.0) the(0.0) Food(1.0) and(0.0) Drug(1.0) Administration(0.0) the(0.0) authority(0.0) to(0.0) regulate(0.0) tobacco(1.0) .(0.0) I(0.0) 
+do(0.0) so(0.0) based(0.0) upon(0.0) my(0.0) philosophical(0.0) beliefs(0.0) and(0.0) the(0.0) ramifications(1.0) that(0.0) this(0.0) legislation(1.0) would(1.0) impose(1.0) upon(0.0) my(0.0) congressional(1.0) district(1.0) and(0.0) 
+my(0.0) State(1.0) .(0.0) It(0.0) is(0.0) my(0.0) belief(0.0) that(0.0) allowing(0.0) the(0.0) FDA(1.0) to(0.0) regulate(1.0) tobacco(1.0) in(0.0) any(0.0) capacity(0.0) would(0.0) inevitably(0.0) lead(0.0) 
+to(0.0) FDA(1.0) regulating(1.0) the(0.0) family(0.0) farm(0.0) .(0.0) This(0.0) creates(0.0) uncertainty(1.0) and(0.0) adds(0.0) another(0.0) burden(1.0) to(0.0) the(0.0) already(0.0) overwhelmed(0.0) FDA(1.0) .(0.0) 
+I(0.0) ,(0.0) furthermore(0.0) ,(0.0) have(0.0) concerns(0.0) with(0.0) the(0.0) negative(0.0) impact(0.0) H.R(0.0) .(0.0) 1256(0.0) would(0.0) have(0.0) upon(0.0) tobacco(1.0) manufacturers(1.0) ,(0.0) their(0.0) 
+employees(1.0) ,(0.0) retailers(1.0) ,(0.0) and(0.0) wholesalers(0.0) .(0.0) It(0.0) is(0.0) ironic(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) that(0.0) the(0.0) very(0.0) day(0.0) a(0.0) 62(0.0) 
+cent(0.0) tobacco(1.0) tax(1.0) goes(0.0) into(0.0) effect(1.0) to(0.0) fund(1.0) the(0.0) Children(0.0) 's(0.0) Health(1.0) Insurance(0.0) Program(0.0) that(0.0) we(0.0) would(0.0) debate(1.0) legislation(1.0) to(0.0) 
+create(0.0) further(0.0) hardship(1.0) for(0.0) the(0.0) tobacco(1.0) industry(1.0) .(0.0) H.R(0.0) .(0.0) 1256(0.0) is(0.0) misguided(1.0) ,(0.0) in(0.0) my(0.0) opinion(1.0) .(0.0) It(0.0) does(0.0) 
+not(0.0) achieve(0.0) the(0.0) goals(0.0) identified(0.0) by(0.0) proponents(1.0) .(0.0) Instead(0.0) ,(0.0) it(0.0) will(0.0) further(0.0) exacerbate(1.0) an(0.0) already(0.0) stretched(0.0) FDA(1.0) ,(0.0) negatively(0.0) 
+impact(1.0) manufacturers(1.0) and(0.0) farmers(1.0) ,(0.0) and(0.0) create(0.0) a(0.0) strain(0.0) on(0.0) Federal(1.0) revenues(1.0) to(0.0) the(0.0) Treasury(1.0) .(0.0) I(0.0) do(0.0) not(0.0) come(0.0) 
+to(0.0) the(0.0) House(0.0) floor(0.0) tonight(0.0) without(0.0) solutions(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) .(0.0) The(0.0) bipartisan(1.0) Youth(1.0) Prevention(0.0) and(0.0) Tobacco(1.0) Harm(1.0) Reduction(0.0) Act(0.0) 
+provides(0.0) a(0.0) different(0.0) alternative(0.0) ,(0.0) offering(0.0) harm(0.0) reduction(1.0) strategies(1.0) through(0.0) the(0.0) Department(0.0) of(0.0) Health(0.0) and(0.0) Human(0.0) Services(0.0) .(0.0) I(0.0) encourage(0.0) 
+its(0.0) consideration(1.0) and(0.0) oppose(1.0) H.R(0.0) .(0.0) 1256(0.0) .(0.0) Finally(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) tobacco(0.0) is(0.0) a(0.0) product(0.0) that(0.0) is(0.0) lawfully(0.0) 
+grown(0.0) ,(0.0) lawfully(0.0) marketed(0.0) ,(0.0) lawfully(0.0) manufactured(0.0) ,(0.0) and(0.0) lawfully(0.0) consumed(0.0) .(0.0) We(0.0) do(0.0) not(0.0) need(0.0) the(0.0) FDA(1.0) inserting(0.0) its(0.0) 
+oars(0.0) into(0.0) these(0.0) waters(0.0) .(0.0) I(0.0) thank(0.0) the(0.0) gentlelady(0.0) from(0.0) North(0.0) Carolina(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	opposition	Prevention	Tobacco	tenure	
+opposed	granting	Food	Drug	tobacco	
+ramifications	legislation	would	impose	congressional	district	
+State	FDA	regulate	tobacco	
+FDA	regulating	uncertainty	burden	FDA	
+tobacco	manufacturers	
+employees	retailers	Speaker	
+tobacco	tax	effect	fund	Health	debate	legislation	
+hardship	tobacco	industry	misguided	opinion	
+proponents	exacerbate	FDA	
+impact	manufacturers	farmers	Federal	revenues	Treasury	
+Speaker	bipartisan	Youth	Tobacco	Harm	
+reduction	strategies	
+consideration	oppose	Speaker	
+FDA	
+
+
+reads % = 0.19745222929936307

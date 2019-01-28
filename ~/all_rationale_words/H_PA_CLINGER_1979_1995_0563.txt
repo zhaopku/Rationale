@@ -1,0 +1,22 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) 15(0.0) minutes(1.0) of(0.0) my(0.0) time(1.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) York(0.0) [(0.0) Mr.(0.0) Solomon(1.0) ](0.0) ,(0.0) the(0.0) 
+chairman(1.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Rules(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) pending(1.0) that(0.0) I(0.0) would(1.0) just(1.0) indicate(0.0) that(0.0) ,(0.0) as(0.0) chairman(1.0) 
+of(0.0) the(0.0) Committee(0.0) on(0.0) Government(0.0) Reform(1.0) and(0.0) Oversight(0.0) ,(0.0) we(0.0) are(0.0) pleased(0.0) to(0.0) accept(1.0) the(0.0) motion(0.0) offered(1.0) by(0.0) the(0.0) minority(0.0) 
+to(0.0) instruct(1.0) .(0.0) The(0.0) motion(0.0) simply(1.0) urges(1.0) conferees(0.0) to(0.0) extend(0.0) the(0.0) full(0.0) effect(0.0) of(0.0) the(0.0) line-item(1.0) veto(1.0) to(0.0) the(0.0) President(1.0) 
+insofar(0.0) as(0.0) the(0.0) scope(0.0) of(0.0) the(0.0) conference(0.0) will(0.0) allow(0.0) ,(0.0) and(0.0) it(0.0) is(0.0) an(0.0) eminently(1.0) reasonable(0.0) suggestion(0.0) which(0.0) fulfills(0.0) the(0.0) 
+spirit(0.0) of(0.0) the(0.0) line-item(1.0) veto(1.0) legislation(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) 2(0.0) minutes(1.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Colorado(0.0) [(0.0) 
+Mr.(0.0) Allard(1.0) ](0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+minutes	time	Solomon	
+chairman	Speaker	pending	would	just	chairman	
+Reform	accept	offered	
+instruct	simply	urges	line-item	veto	President	
+eminently	
+line-item	veto	Speaker	minutes	
+Allard	
+
+reads % = 0.192

@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Chair(1.0) ,(0.0) I(0.0) think(1.0) this(0.0) is(0.0) just(1.0) a(0.0) straightforward(0.0) amendment(1.0) that(0.0) is(0.0) basically(1.0) closing(0.0) loopholes(1.0) .(0.0) I(0.0) urge(1.0) a(0.0) ``(1.0) yes(1.0) 
+''(0.0) vote(1.0) on(0.0) this(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+think	just	amendment	basically	loopholes	urge	``	yes	
+vote	
+
+reads % = 0.34615384615384615

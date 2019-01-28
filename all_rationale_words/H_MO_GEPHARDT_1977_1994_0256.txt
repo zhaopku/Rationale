@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+We(0.0) did(0.0) receive(0.0) the(0.0) letter(0.0) .(0.0) We(0.0) hope(0.0) to(0.0) have(0.0) a(0.0) meeting(0.0) with(0.0) the(0.0) gentleman(0.0) from(0.0) Georgia(0.0) [(0.0) Mr.(0.0) Gingrich(1.0) ](0.0) 
+and(1.0) the(1.0) distinguished(0.0) minority(1.0) leader(1.0) at(0.0) the(0.0) earliest(0.0) possible(0.0) moment(0.0) to(0.0) discuss(0.0) how(0.0) to(0.0) do(0.0) this(0.0) .(0.0) The(0.0) general(0.0) idea(0.0) 
+that(0.0) the(0.0) gentleman(0.0) from(0.0) Georgia(0.0) is(0.0) presenting(0.0) ,(0.0) I(0.0) believe(0.0) ,(0.0) is(0.0) a(0.0) sound(0.0) idea(0.0) .(0.0) There(0.0) is(0.0) no(0.0) intention(0.0) 
+here(0.0) to(0.0) bring(0.0) to(0.0) the(0.0) floor(0.0) something(0.0) that(0.0) people(0.0) have(0.0) not(0.0) had(0.0) a(0.0) chance(0.0) to(0.0) read(0.0) and(0.0) understand(0.0) and(0.0) discuss(0.0) 
+,(0.0) and(0.0) we(0.0) will(0.0) try(0.0) to(0.0) meet(0.0) that(0.0) kind(0.0) of(0.0) a(0.0) schedule(0.0) .(0.0) I(0.0) can(0.0) not(0.0) tell(0.0) the(0.0) gentleman(0.0) a(0.0) 
+guarantee(0.0) today(0.0) that(0.0) it(0.0) will(0.0) actually(0.0) be(0.0) 10(0.0) days(0.0) ,(0.0) but(0.0) the(0.0) general(0.0) idea(0.0) of(0.0) what(0.0) he(0.0) is(0.0) expressing(0.0) is(0.0) 
+appreciated(0.0) by(0.0) this(0.0) Member(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Gingrich	
+and	the	minority	leader	
+
+
+
+
+
+
+reads % = 0.03968253968253968

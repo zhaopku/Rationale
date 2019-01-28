@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) H.R(1.0) .(0.0) 6113(0.0) ,(0.0) the(0.0) Paperwork(1.0) 
+Assistance(0.0) Act(0.0) ,(0.0) is(0.0) aimed(1.0) at(0.0) making(0.0) it(0.0) easier(0.0) for(0.0) people(0.0) to(0.0) fill(0.0) out(0.0) government(1.0) paperwork(1.0) .(0.0) I(0.0) commend(0.0) Representative(1.0) 
+Boyda(1.0) for(1.0) her(0.0) leadership(0.0) in(0.0) introducing(0.0) this(0.0) bill(1.0) ,(0.0) and(0.0) Representative(1.0) Towns(1.0) for(0.0) his(0.0) work(0.0) on(0.0) this(0.0) bill(0.0) during(0.0) committee(0.0) 
+consideration(0.0) .(0.0) The(0.0) bill(0.0) would(1.0) require(0.0) each(0.0) agency(0.0) to(0.0) include(0.0) contact(0.0) information(0.0) for(0.0) the(0.0) agency(0.0) on(0.0) its(0.0) forms(0.0) .(0.0) Under(0.0) 
+this(0.0) bill(0.0) ,(0.0) a(0.0) person(0.0) filling(0.0) out(0.0) a(0.0) government(0.0) form(0.0) would(0.0) be(0.0) able(0.0) to(0.0) go(0.0) to(0.0) the(0.0) agency(0.0) and(0.0) get(0.0) 
+in(0.0) touch(0.0) with(0.0) the(0.0) person(0.0) who(0.0) is(0.0) responsible(0.0) for(0.0) answering(0.0) questions(0.0) about(0.0) the(0.0) form(0.0) .(0.0) Based(0.0) on(0.0) a(0.0) suggestion(0.0) by(0.0) 
+Representative(1.0) Diane(1.0) Watson(1.0) ,(0.0) language(0.0) was(0.0) added(0.0) to(0.0) the(0.0) bill(0.0) during(0.0) committee(0.0) consideration(0.0) to(0.0) require(0.0) the(0.0) Office(0.0) of(0.0) Management(0.0) and(0.0) 
+Budget(0.0) to(0.0) report(0.0) to(0.0) Congress(0.0) on(0.0) how(0.0) well(0.0) agencies(0.0) are(0.0) implementing(0.0) this(0.0) legislation(0.0) .(0.0) This(0.0) is(0.0) what(0.0) one(0.0) would(0.0) have(0.0) 
+to(0.0) call(0.0) a(0.0) good(0.0) ,(0.0) commonsense(1.0) piece(0.0) of(0.0) government(1.0) work(0.0) .(0.0) It(0.0) is(0.0) a(0.0) good(0.0) government(0.0) bill(1.0) .(0.0) I(0.0) urge(0.0) 
+my(0.0) colleagues(0.0) to(0.0) support(0.0) it(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	H.R	Paperwork	
+aimed	government	paperwork	Representative	
+Boyda	for	bill	Representative	Towns	
+would	
+
+
+Representative	Diane	Watson	
+
+commonsense	government	bill	
+Speaker	
+
+reads % = 0.10101010101010101

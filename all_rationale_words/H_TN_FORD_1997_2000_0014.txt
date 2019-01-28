@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) had(0.0) a(0.0) summer(0.0) jobs(0.0) program(0.0) ,(0.0) and(0.0) I(0.0) graduated(0.0) from(0.0) law(1.0) school(1.0) and(0.0) my(0.0) voters(1.0) elected(0.0) me(0.0) to(0.0) Congress(0.0) .(0.0) 
+I(0.0) would(0.0) just(0.0) submit(0.0) to(0.0) the(0.0) gentleman(0.0) that(0.0) there(0.0) are(0.0) those(0.0) of(0.0) us(0.0) who(0.0) never(0.0) attended(0.0) the(0.0) job(0.0) core(0.0) program(1.0) 
+,(0.0) but(0.0) had(0.0) a(0.0) few(0.0) summer(0.0) jobs(0.0) here(0.0) on(0.0) the(0.0) Hill(0.0) and(0.0) other(0.0) places(0.0) and(0.0) moved(0.0) right(0.0) into(0.0) the(0.0) workforce(1.0) 
+.(0.0) My(0.0) voters(1.0) think(0.0) I(0.0) am(0.0) doing(0.0) a(0.0) good(0.0) job(0.0) ,(0.0) perhaps(0.0) some(0.0) here(0.0) may(0.0) not(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+law	school	voters	
+program	
+workforce	
+voters	
+
+reads % = 0.07692307692307693

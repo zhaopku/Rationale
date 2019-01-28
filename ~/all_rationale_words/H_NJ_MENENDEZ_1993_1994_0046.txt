@@ -1,0 +1,40 @@
+This is from a Democrat
+----- below is the original text -----
+((0.0) Mr.(0.0) MENENDEZ(1.0) asked(1.0) and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) )(0.0) Speaker(0.0) ,(0.0) this(0.0) resolution(0.0) recognizes(0.0) 
+the(0.0) contributions(1.0) made(0.0) by(0.0) the(0.0) Labor(1.0) Attache(1.0) Corps(1.0) over(0.0) the(0.0) past(0.0) fifty(0.0) years(0.0) .(0.0) Labor(1.0) attaches(0.0) have(0.0) played(0.0) an(0.0) important(0.0) 
+role(0.0) around(0.0) the(0.0) world(0.0) in(0.0) bringing(1.0) attention(0.0) to(0.0) the(0.0) need(0.0) for(0.0) international(0.0) workers(1.0) '(0.0) rights(0.0) .(0.0) They(0.0) have(0.0) also(1.0) played(0.0) 
+a(0.0) role(0.0) in(0.0) helping(1.0) to(0.0) establish(1.0) strong(0.0) and(0.0) independent(0.0) labor(1.0) unions(1.0) around(0.0) the(0.0) world(0.0) .(0.0) This(0.0) resolution(0.0) recognizes(0.0) that(0.0) the(0.0) 
+role(0.0) of(0.0) the(0.0) Labor(1.0) Attache(1.0) Corps(1.0) is(0.0) changing(0.0) .(0.0) H.(1.0) Con(0.0) .(0.0) Res(1.0) .(0.0) 257(1.0) notes(1.0) that(0.0) national(1.0) labor(0.0) policies(1.0) 
+and(0.0) standards(0.0) of(0.0) foreign(0.0) governments(1.0) inevitably(1.0) have(0.0) an(0.0) impact(0.0) on(0.0) fair(1.0) trade(0.0) and(0.0) on(0.0) decisions(0.0) by(0.0) the(0.0) United(0.0) States(0.0) regarding(0.0) 
+trade(1.0) issues(0.0) .(0.0) Monitoring(1.0) and(0.0) reporting(0.0) on(0.0) these(0.0) issues(1.0) ,(0.0) as(0.0) well(0.0) as(0.0) the(0.0) protection(0.0) of(0.0) workers(1.0) rights(0.0) around(0.0) the(0.0) 
+world(0.0) ,(0.0) has(0.0) become(0.0) an(0.0) increasingly(0.0) important(0.0) part(0.0) of(0.0) the(0.0) work(0.0) of(0.0) the(0.0) Corps(1.0) .(0.0) As(0.0) a(0.0) result(0.0) ,(0.0) the(0.0) 
+resolution(0.0) requests(0.0) that(0.0) the(0.0) Secretary(1.0) of(0.0) State(1.0) and(0.0) the(0.0) Secretary(1.0) of(0.0) Labor(1.0) report(0.0) to(0.0) Congress(0.0) on(0.0) the(0.0) future(0.0) mission(1.0) and(0.0) 
+organization(1.0) of(0.0) the(0.0) corps(1.0) and(0.0) develop(1.0) a(0.0) plan(1.0) to(0.0) assure(0.0) that(0.0) a(0.0) labor(1.0) counselor(1.0) ,(0.0) attache(1.0) ,(0.0) or(1.0) reporting(0.0) officer(0.0) 
+is(0.0) assigned(1.0) to(0.0) every(0.0) U.S.(0.0) embassy(0.0) abroad(0.0) by(0.0) the(0.0) year(0.0) 1997(1.0) .(0.0) I(0.0) want(1.0) to(0.0) commend(1.0) the(0.0) original(0.0) sponsor(0.0) of(0.0) 
+this(0.0) resolution(0.0) [(0.0) Mr.(0.0) Brown(1.0) of(0.0) California(0.0) ](0.0) for(0.0) bringing(1.0) this(0.0) to(0.0) our(0.0) attention(0.0) .(0.0) He(0.0) has(0.0) been(0.0) a(0.0) tireless(0.0) 
+champion(1.0) of(0.0) the(0.0) rights(0.0) of(0.0) workers(1.0) both(0.0) in(0.0) this(0.0) country(1.0) and(0.0) abroad(0.0) for(0.0) many(0.0) years(0.0) and(0.0) should(0.0) be(0.0) commended(1.0) for(0.0) 
+his(0.0) efforts(0.0) .(0.0) I(0.0) also(1.0) want(1.0) to(0.0) thank(0.0) the(0.0) chairman(1.0) and(0.0) ranking(1.0) member(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Education(0.0) and(0.0) Labor(0.0) 
+for(0.0) their(0.0) cooperation(1.0) with(0.0) the(0.0) committee(0.0) on(0.0) this(0.0) resolution(0.0) .(0.0) I(1.0) urge(1.0) my(0.0) colleagues(1.0) to(0.0) support(0.0) this(0.0) resolution(0.0) .(0.0) Mr.(0.0) 
+Speaker(1.0) ,(0.0) I(0.0) reserve(1.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+MENENDEZ	asked	
+contributions	Labor	Attache	Corps	Labor	
+bringing	workers	also	
+helping	establish	labor	unions	
+Labor	Attache	Corps	H.	Res	257	notes	national	policies	
+governments	inevitably	fair	
+trade	Monitoring	issues	workers	
+Corps	
+Secretary	State	Secretary	Labor	mission	
+organization	corps	develop	plan	labor	counselor	attache	or	
+assigned	1997	want	commend	
+Brown	bringing	
+champion	workers	country	commended	
+also	want	chairman	ranking	
+cooperation	I	urge	colleagues	
+Speaker	reserve	time	
+
+reads % = 0.2090032154340836

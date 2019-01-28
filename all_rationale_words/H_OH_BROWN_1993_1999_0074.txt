@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) the(0.0) Andrews(1.0) amendment(1.0) and(0.0) compliment(0.0) him(0.0) on(0.0) his(0.0) forward(0.0) thinking(0.0) on(0.0) this(0.0) issue(0.0) .(0.0) Transparency(1.0) in(0.0) 
+the(0.0) health(1.0) care(0.0) system(0.0) is(0.0) particularly(0.0) important(0.0) .(0.0) I(0.0) think(0.0) this(0.0) will(0.0) contribute(0.0) to(0.0) that(0.0) ,(0.0) and(0.0) I(0.0) ask(0.0) Members(0.0) 
+on(0.0) this(0.0) side(0.0) of(0.0) the(0.0) aisle(0.0) and(0.0) both(0.0) sides(0.0) of(0.0) the(0.0) aisle(0.0) to(0.0) support(0.0) the(0.0) Andrews(1.0) amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Andrews	amendment	Transparency	
+health	
+Andrews	amendment	
+
+reads % = 0.1016949152542373

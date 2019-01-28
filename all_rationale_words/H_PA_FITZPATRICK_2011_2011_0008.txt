@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) today(0.0) I(0.0) rise(0.0) to(0.0) honor(0.0) the(0.0) life(0.0) of(0.0) Frank(0.0) Buckles(1.0) ,(0.0) who(0.0) was(0.0) the(0.0) last(0.0) surviving(0.0) veteran(0.0) of(0.0) World(0.0) 
+War(0.0) I.(0.0) Frank(0.0) Buckles(1.0) passed(0.0) away(0.0) this(0.0) weekend(0.0) .(0.0) He(0.0) was(0.0) 110(0.0) years(0.0) old(0.0) .(0.0) I(0.0) am(0.0) particularly(0.0) proud(0.0) to(0.0) 
+pay(1.0) tribute(0.0) to(0.0) Mr.(0.0) Buckles(1.0) today(0.0) because(0.0) of(0.0) his(0.0) deep(0.0) roots(0.0) and(0.0) connection(0.0) to(0.0) Bucks(1.0) County(1.0) ,(0.0) Pennsylvania(1.0) ,(0.0) which(0.0) 
+is(0.0) located(0.0) in(0.0) my(0.0) congressional(1.0) district(1.0) ,(0.0) Pennsylvania(1.0) 's(0.0) Eighth(0.0) .(0.0) Frank(0.0) Buckles(1.0) '(0.0) ancestors(0.0) first(0.0) arrived(0.0) in(0.0) what(0.0) was(0.0) 
+to(0.0) become(0.0) the(0.0) United(0.0) States(0.0) in(0.0) 1702(0.0) .(0.0) They(0.0) settled(0.0) in(0.0) Philadelphia(1.0) ;(0.0) and(0.0) in(0.0) 1732(0.0) ,(0.0) the(0.0) same(0.0) year(0.0) 
+that(0.0) George(0.0) Washington(1.0) was(0.0) born(0.0) ,(0.0) Frank(0.0) 's(0.0) ancestors(0.0) married(0.0) into(0.0) a(0.0) Quaker(0.0) family(0.0) and(0.0) moved(0.0) to(0.0) Bucks(0.0) County(0.0) .(0.0) 
+Mr.(0.0) Speaker(1.0) ,(0.0) with(0.0) the(0.0) passing(0.0) of(0.0) Frank(0.0) Buckles(1.0) ,(0.0) we(0.0) mourn(0.0) not(0.0) just(0.0) the(0.0) man(0.0) who(0.0) served(0.0) his(0.0) country(0.0) 
+honorably(0.0) ,(0.0) but(0.0) we(0.0) also(0.0) mourn(0.0) the(0.0) passing(0.0) of(0.0) an(0.0) era(1.0) .(0.0) His(0.0) death(0.0) reminds(0.0) us(0.0) of(0.0) those(0.0) who(0.0) have(0.0) 
+served(0.0) and(0.0) those(0.0) who(0.0) continue(0.0) to(0.0) serve(0.0) their(0.0) country(1.0) in(0.0) the(0.0) Armed(0.0) Forces(0.0) ,(0.0) and(0.0) we(0.0) honor(0.0) their(0.0) sacrifices(1.0) in(0.0) 
+the(0.0) name(0.0) of(0.0) Frank(0.0) Buckles(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Buckles	
+Buckles	
+pay	Buckles	Bucks	County	Pennsylvania	
+congressional	district	Pennsylvania	Buckles	
+Philadelphia	
+Washington	
+Speaker	Buckles	
+era	
+country	sacrifices	
+Buckles	
+
+reads % = 0.10160427807486631

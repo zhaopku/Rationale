@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) Republican(0.0) leadership(1.0) in(1.0) the(1.0) Senate(1.0) confirmed(1.0) last(1.0) week(1.0) they(1.0) have(1.0) no(1.0) intention(1.0) of(1.0) acting(1.0) on(0.0) prescription(1.0) drug(1.0) importation(1.0) legislation(0.0) 
+.(1.0) Senate(0.0) leader(0.0) Frist(1.0) said(1.0) there(1.0) just(1.0) is(0.0) not(0.0) time(0.0) to(0.0) take(0.0) it(0.0) up(0.0) .(0.0) Announcement(0.0) by(0.0) the(0.0) Speaker(0.0) Pro(0.0) 
+Tempore(0.0) 
+
+
+----- below are rationale words -----
+
+leadership	in	the	Senate	confirmed	last	week	they	have	no	intention	of	acting	prescription	drug	importation	
+.	Frist	said	there	just	
+
+
+reads % = 0.5

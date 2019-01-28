@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) the(0.0) Children(0.0) 's(0.0) Health(0.0) Insurance(0.0) Program(0.0) is(0.0) pro-family(1.0) and(0.0) pro-work(0.0) .(0.0) It(0.0) is(0.0) pro-family(1.0) because(0.0) few(0.0) things(0.0) are(0.0) 
+more(0.0) important(0.0) to(0.0) our(0.0) families(0.0) than(0.0) the(0.0) health(1.0) of(0.0) our(0.0) children(0.0) .(0.0) It(0.0) is(0.0) pro-work(0.0) because(0.0) it(0.0) says(0.0) to(0.0) those(0.0) 
+on(0.0) welfare(1.0) ,(0.0) if(0.0) you(0.0) will(0.0) get(0.0) a(0.0) job(0.0) and(0.0) go(0.0) to(0.0) work(0.0) ,(0.0) you(0.0) wo(0.0) n't(0.0) lose(0.0) health(1.0) care(0.0) 
+coverage(1.0) for(0.0) your(0.0) children(0.0) .(0.0) This(0.0) bill(1.0) is(0.0) about(0.0) helping(0.0) those(0.0) who(0.0) are(0.0) working(0.0) hard(0.0) to(0.0) help(0.0) themselves(0.0) and(0.0) their(0.0) 
+families(0.0) ,(0.0) and(0.0) that(0.0) is(0.0) a(0.0) good(0.0) thing(0.0) to(0.0) do(0.0) .(0.0) By(0.0) passing(0.0) this(0.0) bill(1.0) ,(0.0) we(0.0) can(0.0) ensure(0.0) that(0.0) 
+5(0.0) million(0.0) American(0.0) children(0.0) will(0.0) receive(0.0) better(0.0) health(1.0) care(1.0) .(0.0) That(0.0) is(0.0) a(0.0) cause(0.0) worth(0.0) fighting(1.0) for(0.0) ,(0.0) even(0.0) if(0.0) 
+we(0.0) have(0.0) to(0.0) step(0.0) on(0.0) the(0.0) toes(0.0) of(0.0) some(0.0) special(0.0) interests(1.0) to(0.0) get(0.0) it(0.0) done(0.0) .(0.0) All(0.0) too(0.0) often(0.0) in(0.0) 
+years(0.0) past(0.0) under(0.0) different(0.0) leadership(0.0) ,(0.0) Congress(0.0) has(0.0) fought(1.0) hard(0.0) for(0.0) powerful(0.0) special(0.0) interests(1.0) .(0.0) Today(0.0) is(0.0) a(0.0) new(0.0) day(0.0) 
+.(0.0) We(0.0) have(0.0) a(0.0) chance(0.0) to(0.0) stand(0.0) up(0.0) for(0.0) the(0.0) interests(1.0) of(0.0) America(1.0) 's(0.0) children(0.0) ,(0.0) and(0.0) we(0.0) should(0.0) do(0.0) 
+it(0.0) for(0.0) the(0.0) sake(1.0) of(0.0) our(0.0) children(0.0) and(0.0) for(0.0) the(0.0) future(0.0) of(0.0) our(0.0) country(1.0) .(0.0) Vote(1.0) ``(0.0) yes(0.0) ''(0.0) on(0.0) 
+this(0.0) rule(1.0) .(0.0) Vote(1.0) ``(1.0) yes(0.0) ''(0.0) on(0.0) this(0.0) bill(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+pro-family	pro-family	
+health	
+welfare	health	
+coverage	bill	
+bill	
+health	care	fighting	
+interests	
+fought	interests	
+interests	America	
+sake	country	Vote	
+rule	Vote	``	bill	
+
+reads % = 0.10849056603773585

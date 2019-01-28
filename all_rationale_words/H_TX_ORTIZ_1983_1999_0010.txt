@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) think(0.0) that(0.0) the(0.0) gentleman(0.0) from(0.0) Ohio(1.0) ((0.0) Mr.(0.0) Traficant(1.0) )(0.0) has(1.0) made(0.0) some(0.0) good(0.0) points(0.0) about(0.0) terrorism(1.0) ,(0.0) but(0.0) this(0.0) 
+is(0.0) something(0.0) that(0.0) Immigration(1.0) and(0.0) Customs(0.0) can(0.0) do(0.0) .(0.0) I(0.0) rise(0.0) in(0.0) opposition(1.0) to(0.0) the(0.0) amendment(1.0) at(0.0) this(0.0) time(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+Ohio	Traficant	has	terrorism	
+Immigration	opposition	amendment	
+
+
+reads % = 0.17073170731707318

@@ -1,0 +1,44 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) the(0.0) Republican(1.0) children(1.0) 's(1.0) health(1.0) care(1.0) expansion(1.0) proposal(1.0) in(1.0) the(1.0) Budget(1.0) Reconciliation(1.0) Act(1.0) before(1.0) us(0.0) today(0.0) will(1.0) not(0.0) ensure(0.0) 
+real(0.0) health(1.0) insurance(1.0) coverage(1.0) for(0.0) the(0.0) maximum(0.0) number(0.0) of(0.0) children(0.0) in(0.0) the(0.0) most(0.0) cost-effective(0.0) manner(0.0) .(0.0) I(0.0) am(0.0) deeply(0.0) concerned(0.0) 
+because(0.0) the(0.0) Republican(1.0) plan(1.0) does(1.0) not(1.0) offer(1.0) a(1.0) real(1.0) guarantee(1.0) of(1.0) health(1.0) care(1.0) coverage(1.0) for(1.0) children(1.0) or(0.0) a(0.0) real(0.0) benefits(0.0) 
+package(0.0) .(0.0) The(0.0) Republican(1.0) block(1.0) grant(1.0) contains(1.0) a(1.0) so-called(1.0) direct(1.0) services(1.0) loophole(1.0) which(1.0) could(1.0) mean(1.0) that(1.0) not(1.0) a(1.0) single(1.0) taxpayer(1.0) 
+penny(1.0) is(1.0) used(1.0) to(1.0) provide(1.0) health(1.0) insurance(1.0) for(1.0) our(1.0) Nation(1.0) 's(1.0) 10(0.0) million(1.0) uninsured(1.0) children(1.0) .(0.0) States(0.0) would(0.0) be(0.0) free(0.0) 
+to(0.0) divert(1.0) Federal(1.0) children(1.0) 's(0.0) health(1.0) care(1.0) expansion(1.0) funds(1.0) from(0.0) directly(0.0) providing(0.0) health(1.0) care(1.0) coverage(1.0) for(0.0) uninsured(1.0) children(0.0) to(0.0) instead(0.0) 
+providing(0.0) direct(0.0) payments(1.0) to(0.0) hospitals(1.0) who(0.0) will(0.0) suffer(0.0) under(0.0) the(0.0) disproportionate(1.0) share(0.0) cuts(1.0) in(0.0) this(0.0) bill(1.0) .(0.0) Just(0.0) as(0.0) many(0.0) 
+States(0.0) misused(1.0) the(0.0) DSH(1.0) program(1.0) in(0.0) the(0.0) early(0.0) 1990s(1.0) to(0.0) pay(1.0) for(0.0) highway(1.0) repairs(0.0) and(0.0) other(0.0) related(0.0) programs(1.0) ,(0.0) I(0.0) 
+fear(0.0) that(0.0) States(0.0) will(0.0) use(0.0) these(0.0) Federal(1.0) funds(1.0) to(0.0) plug(0.0) holes(1.0) in(0.0) shrinking(1.0) State(1.0) budgets(1.0) .(0.0) We(0.0) surely(0.0) should(0.0) have(0.0) 
+learn(0.0) our(0.0) lesson(0.0) .(0.0) I(0.0) believe(0.0) there(0.0) are(0.0) several(0.0) superior(0.0) programs(1.0) to(0.0) help(0.0) extend(0.0) coverage(1.0) for(0.0) uninsured(1.0) children(0.0) .(0.0) Bipartisan(1.0) 
+legislation(1.0) introduced(1.0) by(1.0) the(0.0) gentleman(0.0) from(0.0) Michigan(1.0) [(0.0) Mr.(0.0) Dingell(1.0) ](0.0) ,(1.0) the(0.0) gentlewoman(0.0) from(0.0) New(0.0) Jersey(1.0) [(0.0) Mrs.(1.0) Roukema(1.0) 
+](0.0) ,(1.0) me(0.0) ,(0.0) and(0.0) others(0.0) would(0.0) provide(0.0) children(0.0) with(0.0) a(0.0) guaranteed(0.0) ,(0.0) real(0.0) health(1.0) care(1.0) benefits(1.0) package(0.0) which(0.0) includes(0.0) 
+preventive(1.0) care(0.0) ,(0.0) hearing(0.0) and(0.0) vision(0.0) services(0.0) ,(0.0) and(0.0) routine(0.0) doctor(0.0) visits(0.0) .(0.0) The(0.0) Democratic(1.0) Caucus(1.0) proposal(1.0) ,(0.0) another(0.0) plan(1.0) 
+which(0.0) is(0.0) part(0.0) of(0.0) this(0.0) motion(1.0) to(0.0) recommit(1.0) ,(0.0) would(0.0) promote(1.0) more(0.0) effective(0.0) outreach(1.0) for(0.0) Medicaid-(0.0) eligible(0.0) children(0.0) who(0.0) are(0.0) 
+not(0.0) enrolled(0.0) ,(0.0) allow(0.0) for(0.0) voluntary(1.0) expansion(1.0) of(0.0) Medicaid(1.0) coverage(1.0) ,(0.0) establish(1.0) a(0.0) State(0.0) grant(0.0) program(0.0) to(0.0) fund(1.0) innovative(0.0) kids(0.0) 
+'(0.0) health(0.0) initiatives(1.0) and(0.0) require(0.0) the(0.0) issuance(1.0) of(0.0) affordable(0.0) kids-only(1.0) health(1.0) insurance(1.0) policies(1.0) .(0.0) The(0.0) Republican(1.0) plan(1.0) ,(1.0) Mr.(1.0) Speaker(1.0) 
+,(0.0) will(1.0) cost(1.0) too(0.0) much(0.0) ,(0.0) waste(1.0) too(0.0) many(0.0) tax(1.0) dollars(1.0) ,(0.0) and(0.0) fail(1.0) to(0.0) insure(1.0) America(1.0) 's(0.0) 10(0.0) million(0.0) 
+uninsured(1.0) children(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) Jersey(1.0) [(0.0) Mr.(0.0) Pallone(1.0) ](0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Republican	children	's	health	care	expansion	proposal	in	the	Budget	Reconciliation	Act	before	will	
+health	insurance	coverage	
+Republican	plan	does	not	offer	a	real	guarantee	of	health	care	coverage	for	children	
+Republican	block	grant	contains	a	so-called	direct	services	loophole	which	could	mean	that	not	a	single	taxpayer	
+penny	is	used	to	provide	health	insurance	for	our	Nation	's	million	uninsured	children	
+divert	Federal	children	health	care	expansion	funds	health	care	coverage	uninsured	
+payments	hospitals	disproportionate	cuts	bill	
+misused	DSH	program	1990s	pay	highway	programs	
+Federal	funds	holes	shrinking	State	budgets	
+programs	coverage	uninsured	Bipartisan	
+legislation	introduced	by	Michigan	Dingell	,	Jersey	Mrs.	Roukema	
+,	health	care	benefits	
+preventive	Democratic	Caucus	proposal	plan	
+motion	recommit	promote	outreach	
+voluntary	expansion	Medicaid	coverage	establish	fund	
+initiatives	issuance	kids-only	health	insurance	policies	Republican	plan	,	Mr.	Speaker	
+will	cost	waste	tax	dollars	fail	insure	America	
+uninsured	children	Speaker	Jersey	Pallone	
+
+reads % = 0.4083333333333333

@@ -1,0 +1,52 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) thank(0.0) the(0.0) gentleman(0.0) ;(0.0) and(0.0) I(0.0) want(1.0) to(0.0) thank(0.0) the(0.0) leadership(1.0) for(0.0) allowing(1.0) myself(0.0) and(0.0) my(0.0) colleagues(1.0) ,(0.0) Mr.(0.0) Lipinski(1.0) 
+and(0.0) Mr.(1.0) Kanjorski(1.0) ,(0.0) to(0.0) bring(0.0) forward(0.0) this(0.0) very(0.0) important(0.0) but(0.0) very(0.0) sad(0.0) resolution(0.0) .(0.0) It(0.0) is(0.0) with(0.0) a(0.0) very(0.0) 
+heavy(0.0) heart(1.0) today(0.0) that(0.0) I(0.0) rise(1.0) to(0.0) offer(0.0) House(0.0) Resolution(0.0) 1246(1.0) expressing(1.0) sympathy(0.0) to(0.0) the(0.0) people(0.0) of(0.0) Poland(1.0) in(0.0) the(0.0) 
+aftermath(1.0) of(0.0) the(0.0) tragic(1.0) plane(0.0) crash(1.0) that(0.0) killed(1.0) the(0.0) country's(1.0) President(1.0) ,(0.0) First(1.0) Lady(0.0) ,(0.0) and(0.0) 94(0.0) others(0.0) on(0.0) April(0.0) 
+10(0.0) ,(0.0) 2010(1.0) .(0.0) President(1.0) Lech(1.0) Kaczynski(1.0) ,(0.0) his(0.0) wife(1.0) Maria(1.0) ,(0.0) Poland(1.0) 's(0.0) army(1.0) chief(1.0) ,(0.0) navy(1.0) chief(1.0) commander(1.0) 
+,(0.0) governor(1.0) of(0.0) the(0.0) Polish(1.0) central(1.0) bank(1.0) ,(0.0) other(0.0) lawmakers(1.0) ,(0.0) aides(1.0) ,(0.0) and(0.0) state(0.0) officials(1.0) were(0.0) lost(0.0) when(0.0) their(0.0) 
+plane(0.0) crashed(1.0) in(0.0) Western(1.0) Russia(0.0) .(0.0) The(0.0) delegation(1.0) was(0.0) traveling(1.0) to(0.0) a(0.0) memorial(1.0) service(0.0) to(0.0) honor(1.0) 22,000(1.0) Polish(0.0) officers(1.0) killed(0.0) 
+in(0.0) Russia(0.0) 's(0.0) Katyn(1.0) forest(1.0) by(0.0) the(0.0) Soviet(1.0) secret(0.0) police(1.0) in(0.0) 1940(0.0) .(0.0) We(0.0) offer(0.0) our(0.0) condolences(0.0) and(0.0) sympathy(1.0) to(0.0) 
+the(0.0) Polish(1.0) people(0.0) and(0.0) Polish(1.0) Americans(0.0) as(0.0) we(0.0) mourn(0.0) the(0.0) loss(0.0) of(0.0) President(1.0) Kaczynski(1.0) ,(0.0) his(0.0) wife(1.0) ,(0.0) and(0.0) other(0.0) 
+great(0.0) leaders(1.0) lost(0.0) in(0.0) this(0.0) tragedy(1.0) .(0.0) President(1.0) Kaczynski(1.0) was(0.0) a(0.0) distinguished(0.0) statesman(1.0) and(0.0) leader(1.0) in(0.0) the(0.0) Solidarity(1.0) movement(0.0) .(0.0) 
+He(0.0) will(0.0) be(0.0) long(1.0) remembered(0.0) for(0.0) his(0.0) commitment(0.0) to(0.0) freedom(1.0) ,(0.0) democracy(1.0) ,(0.0) and(0.0) human(0.0) dignity(1.0) .(0.0) Today(0.0) ,(0.0) we(0.0) 
+stand(0.0) in(0.0) solidarity(1.0) with(0.0) more(0.0) than(0.0) 38(1.0) millions(1.0) Poles(0.0) in(0.0) Poland(1.0) and(0.0) 9(0.0) million(0.0) Americans(0.0) of(0.0) Polish(1.0) descent(1.0) now(0.0) residing(1.0) 
+in(0.0) the(0.0) United(0.0) States(0.0) ,(0.0) including(1.0) more(0.0) than(0.0) 14,000(1.0) Polish(0.0) Americans(0.0) in(0.0) my(0.0) hometown(1.0) of(0.0) Erie(1.0) ,(0.0) Pennsylvania(1.0) .(0.0) Polish(1.0) 
+Americans(0.0) have(0.0) made(0.0) great(0.0) contributions(1.0) to(0.0) our(0.0) Nation(0.0) 's(0.0) livelihood(1.0) and(0.0) culture(1.0) ,(0.0) and(0.0) we(0.0) are(0.0) grateful(1.0) for(0.0) their(0.0) presence(0.0) 
+in(0.0) the(0.0) United(0.0) States(0.0) .(0.0) Our(0.0) hearts(1.0) go(0.0) out(0.0) to(0.0) our(0.0) Polish(0.0) brothers(1.0) and(0.0) sisters(0.0) across(0.0) the(0.0) globe(1.0) who(0.0) share(0.0) 
+in(0.0) this(0.0) horrible(0.0) loss(0.0) .(0.0) In(0.0) this(0.0) time(0.0) of(0.0) mourning(0.0) ,(0.0) let(0.0) us(0.0) remember(0.0) the(0.0) words(0.0) of(0.0) St.(1.0) Peter(1.0) ,(0.0) 
+``(0.0) And(0.0) the(0.0) God(0.0) of(0.0) all(0.0) grace(0.0) ,(0.0) who(0.0) called(0.0) you(1.0) to(0.0) his(0.0) eternal(1.0) glory(0.0) in(0.0) Christ(1.0) ,(0.0) after(0.0) you(0.0) 
+have(0.0) suffered(0.0) a(0.0) little(0.0) while(0.0) ,(0.0) will(0.0) himself(0.0) restore(0.0) you(0.0) and(0.0) make(0.0) you(0.0) strong(0.0) ,(0.0) firm(1.0) ,(0.0) and(0.0) steadfast(1.0) .(0.0) 
+''(1.0) I(0.0) urge(1.0) my(0.0) colleagues(1.0) to(0.0) stand(1.0) in(0.0) solidarity(1.0) with(0.0) Poland(1.0) and(0.0) support(0.0) our(0.0) resolution(0.0) .(0.0) Ms.(1.0) ROS-LEHTINEN(1.0) .(0.0) Madam(0.0) 
+Speaker(1.0) ,(0.0) at(0.0) this(0.0) time(0.0) ,(0.0) I(0.0) would(1.0) like(0.0) to(0.0) yield(0.0) such(0.0) time(0.0) as(0.0) he(0.0) may(0.0) consume(0.0) to(0.0) our(0.0) esteemed(0.0) 
+colleague(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) ((0.0) Mr.(0.0) Poe(1.0) )(0.0) ,(0.0) a(0.0) wonderful(0.0) member(0.0) of(0.0) our(0.0) Committee(0.0) on(0.0) Foreign(0.0) Affairs(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+want	leadership	allowing	colleagues	Lipinski	
+Mr.	Kanjorski	
+heart	rise	1246	expressing	Poland	
+aftermath	tragic	crash	killed	country's	President	First	
+2010	President	Lech	Kaczynski	wife	Maria	Poland	army	chief	navy	chief	commander	
+governor	Polish	central	bank	lawmakers	aides	officials	
+crashed	Western	delegation	traveling	memorial	honor	22,000	officers	
+Katyn	forest	Soviet	police	sympathy	
+Polish	Polish	President	Kaczynski	wife	
+leaders	tragedy	President	Kaczynski	statesman	leader	Solidarity	
+long	freedom	democracy	dignity	
+solidarity	38	millions	Poland	Polish	descent	residing	
+including	14,000	hometown	Erie	Pennsylvania	Polish	
+contributions	livelihood	culture	grateful	
+hearts	brothers	globe	
+St.	Peter	
+you	eternal	Christ	
+firm	steadfast	
+''	urge	colleagues	stand	solidarity	Poland	Ms.	ROS-LEHTINEN	
+Speaker	would	
+Poe	
+
+
+reads % = 0.24881516587677724

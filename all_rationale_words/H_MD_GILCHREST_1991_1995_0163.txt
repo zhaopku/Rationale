@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) the(0.0) rule(1.0) and(0.0) the(0.0) Hefley(1.0) resolution(1.0) .(0.0) Does(0.0) the(0.0) United(0.0) States(0.0) have(0.0) a(0.0) responsibility(0.0) 
+in(0.0) the(0.0) international(0.0) arena(0.0) ?(0.0) The(0.0) answer(0.0) is(0.0) yes(0.0) .(0.0) Does(0.0) the(0.0) United(0.0) States(0.0) have(0.0) a(0.0) role(0.0) to(0.0) play(0.0) ,(0.0) 
+a(0.0) significant(0.0) role(0.0) to(0.0) play(0.0) in(0.0) the(0.0) Bosnia(1.0) crisis(0.0) ?(0.0) The(0.0) answer(0.0) is(0.0) yes(0.0) .(0.0) Do(0.0) the(0.0) warring(1.0) parties(0.0) in(0.0) 
+Bosnia(1.0) have(0.0) a(0.0) responsibility(0.0) to(0.0) come(0.0) to(0.0) a(0.0) peaceful(0.0) resolution(1.0) ?(0.0) The(0.0) answer(0.0) is(0.0) yes(0.0) .(0.0) Can(0.0) and(0.0) should(0.0) the(0.0) 
+United(0.0) States(0.0) with(0.0) NATO(1.0) forces(0.0) bring(0.0) to(0.0) an(0.0) abrupt(0.0) end(0.0) the(0.0) butchery(1.0) that(0.0) we(0.0) have(0.0) witnessed(0.0) over(0.0) the(0.0) past(0.0) so(0.0) 
+many(0.0) years(0.0) ?(0.0) Should(0.0) we(0.0) support(0.0) the(0.0) peace(1.0) process(0.0) ?(0.0) We(0.0) must(0.0) .(0.0) But(0.0) consider(0.0) ,(0.0) was(0.0) Congress(0.0) fully(0.0) informed(0.0) 
+of(0.0) the(0.0) consequences(1.0) of(0.0) the(0.0) Tonkin(1.0) Gulf(1.0) resolution(1.0) in(0.0) 1964(1.0) ,(0.0) of(0.0) Somalia(1.0) ,(0.0) of(0.0) Haiti(1.0) ,(0.0) et(1.0) cetera(0.0) ,(0.0) 
+et(0.0) cetera(0.0) ,(0.0) et(0.0) cetera(0.0) ?(0.0) Should(0.0) we(0.0) commit(0.0) troops(0.0) before(0.0) we(0.0) are(0.0) fully(0.0) informed(0.0) ?(0.0) The(0.0) answer(0.0) is(0.0) no(0.0) 
+.(0.0) I(0.0) urge(0.0) support(0.0) of(0.0) the(0.0) rule(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+rule	Hefley	resolution	
+
+Bosnia	warring	
+Bosnia	resolution	
+NATO	butchery	
+peace	
+consequences	Tonkin	Gulf	resolution	1964	Somalia	Haiti	et	
+
+rule	
+
+reads % = 0.11242603550295859

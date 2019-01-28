@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+The(0.0) Clerk(0.0) read(0.0) as(0.0) follows(0.0) :(0.0) Amendment(0.0) offered(0.0) by(0.0) Mrs.(1.0) Lowey(1.0) :(1.0) Page(1.0) 109(0.0) ,(0.0) after(0.0) line(0.0) 24(0.0) ,(0.0) add(0.0) the(0.0) 
+following(0.0) :(0.0) sec(0.0) .(0.0) 648(0.0) .(0.0) ((0.0) a(0.0) )(0.0) None(0.0) of(0.0) the(0.0) funds(0.0) appropriated(0.0) by(0.0) this(0.0) Act(0.0) may(0.0) be(0.0) used(0.0) 
+to(0.0) enter(0.0) into(0.0) or(0.0) renew(0.0) a(0.0) contract(0.0) which(0.0) includes(0.0) a(0.0) provision(0.0) providing(0.0) prescription(0.0) drug(0.0) coverage(0.0) ,(0.0) except(0.0) where(0.0) the(0.0) contract(0.0) 
+also(0.0) includes(0.0) a(0.0) provision(0.0) for(0.0) contraceptive(0.0) coverage(0.0) .(0.0) ((0.0) b(0.0) )(0.0) Nothing(0.0) in(0.0) this(0.0) section(0.0) shall(0.0) apply(0.0) to(0.0) a(0.0) contract(0.0) 
+with(0.0) any(0.0) of(0.0) the(0.0) following(0.0) religious(0.0) plans(0.0) :(0.0) ((0.0) 1(0.0) )(0.0) SelectCare(0.0) .(0.0) ((0.0) 2(0.0) )(0.0) PersonalCaresHMO(0.0) .(0.0) ((0.0) 3(0.0) 
+)(0.0) Care(0.0) Choices(0.0) .(0.0) ((0.0) 4(0.0) )(0.0) OSF(0.0) Health(0.0) Plans(0.0) ,(0.0) Inc.(0.0) ((0.0) 5(0.0) )(0.0) Yellowstone(0.0) Community(0.0) Health(0.0) Plan(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+Mrs.	Lowey	:	Page	
+
+
+
+
+
+
+
+reads % = 0.03305785123966942

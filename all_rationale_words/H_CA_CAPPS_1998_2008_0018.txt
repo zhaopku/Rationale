@@ -1,0 +1,20 @@
+This is from a Democrat
+----- below is the original text -----
+And(0.0) following(0.0) that(0.0) eloquent(0.0) testimony(0.0) to(0.0) the(0.0) value(0.0) of(0.0) this(0.0) legislation(1.0) ,(0.0) we(0.0) can(0.0) all(0.0) recognize(0.0) that(0.0) H.R(0.0) .(0.0) 2464(0.0) is(0.0) 
+an(0.0) important(0.0) measure(0.0) that(0.0) will(0.0) work(0.0) toward(0.0) ensuring(0.0) the(0.0) best(0.0) emergency(0.0) medical(1.0) care(0.0) for(0.0) all(0.0) children(0.0) .(0.0) I(0.0) again(0.0) want(0.0) 
+to(0.0) congratulate(0.0) my(0.0) colleague(0.0) on(0.0) the(0.0) Energy(0.0) and(0.0) Commerce(0.0) Committee(0.0) ,(0.0) Jim(0.0) Matheson(1.0) ,(0.0) and(0.0) all(0.0) of(0.0) those(0.0) who(0.0) have(0.0) 
+spoken(0.0) today(0.0) ,(0.0) including(0.0) the(0.0) ranking(0.0) member(0.0) of(0.0) the(0.0) subcommittee(0.0) ,(0.0) for(0.0) all(0.0) the(0.0) hard(0.0) work(0.0) and(0.0) dedication(0.0) to(0.0) this(0.0) 
+important(0.0) piece(0.0) of(0.0) legislation(1.0) .(0.0) I(0.0) urge(0.0) all(0.0) of(0.0) my(0.0) colleagues(0.0) to(0.0) join(0.0) in(0.0) support(0.0) of(0.0) H.R(0.0) .(0.0) 2464(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+legislation	
+medical	
+Matheson	
+
+legislation	
+
+
+reads % = 0.039603960396039604

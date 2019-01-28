@@ -1,0 +1,52 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Chairman(1.0) ,(0.0) I(0.0) thank(0.0) my(0.0) distinguished(0.0) friend(0.0) for(0.0) yielding(0.0) to(0.0) me(0.0) .(0.0) I(0.0) rise(1.0) also(1.0) in(0.0) support(0.0) of(0.0) this(0.0) manager(0.0) 
+'s(0.0) amendment(1.0) .(0.0) The(0.0) amendment(1.0) before(1.0) us(0.0) was(0.0) negotiated(1.0) on(0.0) a(0.0) bipartisan(0.0) ,(0.0) multiple-committee(1.0) basis(1.0) .(0.0) It(0.0) contains(0.0) changes(1.0) requested(0.0) 
+by(0.0) the(0.0) Committee(0.0) on(0.0) Agriculture(0.0) ,(0.0) the(0.0) Committee(0.0) on(0.0) the(0.0) Judiciary(0.0) ,(0.0) and(0.0) the(0.0) Committee(0.0) on(0.0) Ways(0.0) and(0.0) Means(0.0) .(0.0) 
+The(0.0) most(1.0) significant(0.0) changes(1.0) are(0.0) the(0.0) insurance(1.0) provisions(0.0) and(0.0) the(0.0) provisions(0.0) relating(0.0) to(0.0) antitrust(1.0) .(0.0) The(0.0) revisions(1.0) contained(0.0) in(0.0) the(0.0) 
+amendment(1.0) relating(0.0) to(0.0) the(0.0) insurance(1.0) provisions(0.0) are(0.0) intended(1.0) to(0.0) help(0.0) strike(0.0) an(0.0) appropriate(1.0) balance(0.0) between(0.0) the(0.0) need(0.0) of(0.0) the(0.0) States(0.0) 
+to(0.0) regulate(1.0) insurance(1.0) activities(0.0) in(0.0) banks(1.0) and(0.0) the(0.0) ability(0.0) of(0.0) national(0.0) banks(0.0) to(0.0) engage(1.0) in(0.0) insurance(1.0) activities(0.0) without(0.0) being(0.0) subject(0.0) 
+to(0.0) State(0.0) laws(1.0) that(0.0) prevent(0.0) or(0.0) significantly(0.0) interfere(1.0) with(0.0) that(0.0) activity(0.0) .(0.0) This(0.0) House(0.0) has(0.0) been(0.0) a(0.0) firm(0.0) supporter(1.0) of(0.0) 
+States(0.0) '(0.0) rights(0.0) and(0.0) ,(0.0) in(0.0) particular(0.0) ,(0.0) leaving(1.0) the(0.0) regulation(1.0) of(0.0) insurance(1.0) to(0.0) the(0.0) States(0.0) .(0.0) However(0.0) ,(0.0) this(0.0) 
+House(0.0) also(1.0) believes(1.0) that(0.0) States(1.0) should(0.0) not(0.0) regulate(1.0) the(0.0) manner(0.0) which(0.0) has(0.0) ,(0.0) either(1.0) directly(0.0) or(1.0) indirectly(1.0) ,(0.0) the(0.0) effect(0.0) 
+of(0.0) preventing(1.0) or(1.0) significantly(0.0) interfering(0.0) with(0.0) the(0.0) ability(0.0) of(0.0) a(0.0) bank(1.0) to(0.0) engage(1.0) in(0.0) activities(0.0) that(0.0) it(0.0) is(0.0) properly(0.0) authorized(1.0) 
+to(0.0) do(0.0) by(0.0) Federal(1.0) law(1.0) .(0.0) The(0.0) manager(0.0) 's(0.0) amendment(1.0) addresses(1.0) this(0.0) issue(0.0) by(0.0) clarifying(0.0) these(0.0) relationships(1.0) .(0.0) Second(0.0) ,(0.0) 
+the(0.0) manager(0.0) 's(0.0) amendment(1.0) at(0.0) my(0.0) request(1.0) strengthens(1.0) the(0.0) antitrust(1.0) laws(1.0) in(0.0) a(0.0) number(0.0) of(0.0) ways(1.0) .(0.0) It(0.0) restores(1.0) the(0.0) 
+Federal(1.0) Reserve's(1.0) ability(0.0) to(0.0) consider(0.0) anticompetitive(1.0) issues(0.0) in(0.0) reviewing(1.0) the(0.0) acquisition(0.0) of(0.0) banks(1.0) ;(0.0) it(0.0) bolsters(1.0) the(0.0) Federal(1.0) Trade(0.0) Commission(0.0) 
+'s(0.0) antitrust(1.0) authority(0.0) ,(0.0) and(0.0) it(0.0) assures(0.0) that(0.0) financial(1.0) affiliations(1.0) that(0.0) will(0.0) be(0.0) permissible(1.0) under(0.0) this(0.0) bill(0.0) will(0.0) receive(0.0) appropriate(1.0) 
+antitrust(1.0) review(0.0) by(0.0) the(0.0) Department(0.0) of(0.0) Justice(0.0) and(0.0) the(0.0) FTC(1.0) .(0.0) Other(0.0) provisions(0.0) of(0.0) the(0.0) manager(0.0) 's(0.0) amendment(1.0) incorporate(0.0) amendments(0.0) 
+that(0.0) were(0.0) filed(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) Michigan(1.0) ((0.0) Mr.(0.0) Dingell(1.0) )(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Massachusetts(1.0) ((0.0) Mr.(1.0) Markey(1.0) 
+)(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) York(0.0) ((0.0) Mr.(0.0) LaFalce(1.0) )(0.0) ,(0.0) and(0.0) the(0.0) gentleman(0.0) from(0.0) Minnesota(0.0) ((0.0) Mr.(0.0) Vento(1.0) 
+)(0.0) last(1.0) month(0.0) and(0.0) during(0.0) the(0.0) most(1.0) recent(1.0) consideration(0.0) of(0.0) the(0.0) bill(0.0) .(0.0) Finally(0.0) ,(0.0) the(0.0) manager(0.0) 's(0.0) amendment(1.0) includes(0.0) 
+a(0.0) number(0.0) of(0.0) subtleties(1.0) as(0.0) well(0.0) as(0.0) a(0.0) number(0.0) of(0.0) studies(0.0) and(0.0) consumer(0.0) provisions(0.0) .(0.0) I(0.0) believe(1.0) it(0.0) is(0.0) well-balanced(0.0) 
+and(0.0) thoughtful(1.0) ,(0.0) protects(0.0) the(0.0) consumer(0.0) ,(0.0) as(0.0) well(0.0) as(0.0) establishes(1.0) a(0.0) clear(1.0) guideline(1.0) for(0.0) certain(1.0) competition(0.0) in(0.0) financial(1.0) services(0.0) 
+.(0.0) I(0.0) think(1.0) it(0.0) deserves(0.0) the(0.0) support(0.0) of(0.0) this(0.0) body(0.0) .(0.0) Mr.(0.0) LaFALCE(1.0) .(0.0) Madam(1.0) Chairman(1.0) ,(0.0) I(0.0) yield(0.0) 1(0.0) 
+minute(1.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Minnesota(0.0) ((0.0) Mr.(0.0) Vento(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	rise	also	
+amendment	amendment	before	negotiated	multiple-committee	basis	changes	
+
+most	changes	insurance	antitrust	revisions	
+amendment	insurance	intended	appropriate	
+regulate	insurance	banks	engage	insurance	
+laws	interfere	supporter	
+leaving	regulation	insurance	
+also	believes	States	regulate	either	or	indirectly	
+preventing	or	bank	engage	authorized	
+Federal	law	amendment	addresses	relationships	
+amendment	request	strengthens	antitrust	laws	ways	restores	
+Federal	Reserve's	anticompetitive	reviewing	banks	bolsters	Federal	
+antitrust	financial	affiliations	permissible	appropriate	
+antitrust	FTC	amendment	
+Michigan	Dingell	Massachusetts	Mr.	Markey	
+LaFalce	Vento	
+last	most	recent	amendment	
+subtleties	believe	
+thoughtful	establishes	clear	guideline	certain	financial	
+think	LaFALCE	Madam	Chairman	
+minute	Vento	
+
+reads % = 0.2175925925925926

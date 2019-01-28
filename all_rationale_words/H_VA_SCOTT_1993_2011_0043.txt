@@ -1,0 +1,38 @@
+This is from a Democrat
+----- below is the original text -----
+It(0.0) 's(0.0) in(0.0) that(0.0) context(0.0) that(0.0) the(0.0) actions(1.0) of(0.0) this(0.0) Congress(0.0) have(0.0) to(0.0) be(0.0) taken(0.0) into(0.0) consideration(0.0) because(0.0) last(0.0) December(0.0) we(0.0) 
+passed(0.0) an(0.0) $(0.0) 800(0.0) billion(1.0) ,(0.0) 2-year(1.0) tax(1.0) cut(1.0) --(1.0) not(1.0) new(1.0) tax(1.0) cuts(1.0) --(1.0) extending(1.0) the(1.0) ones(1.0) that(1.0) were(1.0) 
+there(1.0) .(0.0) Had(0.0) we(0.0) let(0.0) them(0.0) expire(1.0) ,(0.0) which(0.0) I(0.0) think(0.0) would(0.0) have(0.0) been(0.0) better(0.0) judgment(0.0) ,(0.0) we(0.0) would(0.0) not(0.0) 
+be(0.0) in(0.0) the(0.0) situation(0.0) we(0.0) 're(0.0) in(0.0) .(0.0) We(0.0) passed(0.0) $(0.0) 400(0.0) billion(1.0) a(0.0) year(0.0) tax(1.0) cuts(1.0) .(1.0) We(1.0) now(1.0) 
+have(0.0) a(0.0) general(0.0) consensus(0.0) that(0.0) we(0.0) need(0.0) ,(0.0) in(0.0) the(0.0) next(0.0) 10(0.0) years(0.0) ,(0.0) $(0.0) 4(0.0) trillion(1.0) worth(0.0) of(0.0) savings(1.0) 
+,(0.0) deficit(1.0) reduction(1.0) ,(0.0) about(0.0) $(0.0) 400(0.0) billion(1.0) a(0.0) year(0.0) ,(0.0) exactly(0.0) the(0.0) same(0.0) as(0.0) what(0.0) we(0.0) did(0.0) in(0.0) tax(1.0) 
+cuts(1.0) last(1.0) year(1.0) .(1.0) All(0.0) of(0.0) these(0.0) cuts(1.0) we(0.0) 're(0.0) talking(0.0) about(0.0) are(0.0) necessary(0.0) to(0.0) partially(0.0) offset(1.0) the(0.0) fact(0.0) that(0.0) 
+we(0.0) extended(0.0) the(0.0) tax(1.0) cuts(1.0) last(1.0) year(1.0) .(1.0) And(0.0) the(0.0) process(0.0) was(0.0) all(0.0) up(0.0) or(0.0) down(0.0) .(0.0) You(0.0) had(0.0) to(0.0) 
+vote(1.0) it(0.0) all(0.0) up(0.0) or(0.0) down(0.0) ,(0.0) one(0.0) vote(1.0) ,(0.0) without(0.0) any(0.0) choices(0.0) .(0.0) We(0.0) did(0.0) n't(0.0) need(0.0) to(0.0) extend(0.0) 
+all(0.0) of(0.0) the(0.0) tax(1.0) cuts(1.0) .(1.0) Maybe(1.0) if(1.0) we(0.0) extended(0.0) some(0.0) but(0.0) not(0.0) all(0.0) ,(0.0) we(0.0) could(0.0) have(0.0) avoided(0.0) cuts(1.0) 
+in(0.0) Head(0.0) Start(0.0) ,(0.0) in(0.0) food(1.0) inspectors(1.0) ,(0.0) firefighters(1.0) and(0.0) those(0.0) kinds(0.0) of(0.0) things(0.0) .(0.0) We(0.0) did(0.0) n't(0.0) make(0.0) the(0.0) 
+choice(0.0) step(0.0) by(0.0) step(0.0) .(0.0) It(0.0) was(0.0) ,(0.0) we(0.0) have(0.0) to(0.0) extend(0.0) the(0.0) tax(1.0) cuts(1.0) ,(1.0) and(1.0) in(0.0) order(1.0) to(0.0) 
+preserve(1.0) those(0.0) tax(1.0) cuts(1.0) ,(1.0) we're(1.0) making(1.0) the(0.0) cuts(1.0) in(1.0) Medicare(1.0) and(0.0) Social(1.0) Security(0.0) and(0.0) Pell(1.0) Grants(1.0) and(0.0) Head(0.0) Start(0.0) 
+,(0.0) clean(1.0) water(1.0) grants(1.0) ,(0.0) poison(1.0) control(0.0) ,(0.0) and(0.0) on(0.0) and(0.0) on(0.0) .(0.0) It(0.0) 's(0.0) in(0.0) that(0.0) context(0.0) that(0.0) these(0.0) 
+cuts(1.0) are(0.0) so(0.0) regrettable(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+actions	
+billion	2-year	tax	cut	--	not	new	tax	cuts	--	extending	the	ones	that	were	
+there	expire	
+billion	tax	cuts	.	We	now	
+trillion	savings	
+deficit	reduction	billion	tax	
+cuts	last	year	.	cuts	offset	
+tax	cuts	last	year	.	
+vote	vote	
+tax	cuts	.	Maybe	if	cuts	
+food	inspectors	firefighters	
+tax	cuts	,	and	order	
+preserve	tax	cuts	,	we're	making	cuts	in	Medicare	Social	Pell	Grants	
+clean	water	grants	poison	
+cuts	
+
+reads % = 0.25874125874125875

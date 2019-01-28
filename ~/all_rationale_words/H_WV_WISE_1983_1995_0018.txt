@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Can(1.0) any(1.0) questions(1.0) be(0.0) raised(0.0) about(0.0) the(0.0) personal(1.0) financial(1.0) dealings(0.0) by(0.0) the(0.0) Speaker(0.0) that(0.0) have(0.0) been(0.0) reported(0.0) in(0.0) the(0.0) public(0.0) media(1.0) 
+?(0.0) 
+
+
+----- below are rationale words -----
+
+any	questions	personal	financial	media	
+
+
+reads % = 0.22727272727272727

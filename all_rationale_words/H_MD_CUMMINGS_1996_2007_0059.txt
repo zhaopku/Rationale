@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+The(0.0) interim(1.0) report(0.0) released(0.0) by(0.0) the(0.0) President(1.0) today(0.0) details(0.0) exactly(1.0) what(0.0) I(0.0) anticipated(1.0) ,(0.0) a(0.0) lack-of-progress(1.0) report(1.0) which(0.0) demonstrates(1.0) that(0.0) the(0.0) 
+Iraqi(1.0) Government(0.0) has(0.0) made(0.0) the(0.0) least(1.0) progress(1.0) on(0.0) those(0.0) key(0.0) benchmarks(1.0) that(0.0) are(0.0) vital(1.0) to(0.0) achieving(0.0) stabilization(0.0) .(0.0) The(0.0) President(1.0) 
+at(0.0) a(0.0) press(1.0) conference(1.0) earlier(0.0) today(1.0) stressed(1.0) the(0.0) usual(0.0) line(0.0) of(0.0) excuses(1.0) that(0.0) he(0.0) has(0.0) far(1.0) too(0.0) often(0.0) utilized(1.0) in(0.0) 
+the(0.0) past(0.0) ,(0.0) stating(1.0) that(0.0) we(0.0) need(0.0) to(0.0) give(0.0) General(0.0) Petraeus(1.0) time(0.0) to(0.0) show(0.0) that(0.0) the(0.0) plus-up(1.0) is(0.0) effective(0.0) and(0.0) 
+stress(1.0) the(0.0) importance(1.0) of(0.0) waiting(0.0) until(0.0) the(0.0) September(0.0) 15(0.0) progress(1.0) report(0.0) is(0.0) released(0.0) before(1.0) drawing(0.0) conclusions(1.0) on(0.0) the(0.0) policy(0.0) in(0.0) 
+Iraq(1.0) .(0.0) However(0.0) ,(0.0) the(0.0) President(1.0) forgot(0.0) to(0.0) mention(0.0) that(0.0) General(1.0) Petraeus(1.0) said(1.0) in(0.0) an(0.0) interview(0.0) just(1.0) last(1.0) month(0.0) that(0.0) 
+the(0.0) chances(1.0) of(0.0) having(0.0) a(0.0) stable(0.0) Iraqi(1.0) Government(0.0) in(0.0) place(0.0) by(0.0) September(0.0) are(0.0) slim(1.0) to(0.0) none(0.0) .(0.0) Those(1.0) are(0.0) his(0.0) 
+words(0.0) .(0.0) Frankly(1.0) ,(0.0) our(0.0) troops(0.0) need(0.0) our(0.0) support(0.0) ,(0.0) and(0.0) that(0.0) support(0.0) must(0.0) be(0.0) their(0.0) redeployment(1.0) ,(0.0) which(0.0) will(0.0) 
+end(0.0) the(0.0) continued(0.0) bloodshed(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+interim	President	exactly	anticipated	lack-of-progress	report	demonstrates	
+Iraqi	least	progress	benchmarks	vital	President	
+press	conference	today	stressed	excuses	far	utilized	
+stating	Petraeus	plus-up	
+stress	importance	progress	before	conclusions	
+Iraq	President	General	Petraeus	said	just	last	
+chances	Iraqi	slim	Those	
+Frankly	redeployment	
+bloodshed	
+
+reads % = 0.25301204819277107

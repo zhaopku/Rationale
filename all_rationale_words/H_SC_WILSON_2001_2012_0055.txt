@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) tomorrow(0.0) House(0.0) Republicans(1.0) will(1.0) vote(1.0) for(1.0) the(1.0) 32nd(1.0) time(1.0) to(1.0) repeal(1.0) ,(1.0) defund(1.0) ,(1.0) or(1.0) dismantle(1.0) the(1.0) President(1.0) 
+'s(1.0) government(1.0) health(1.0) care(1.0) takeover(1.0) bill(1.0) .(1.0) Not(0.0) only(0.0) will(0.0) this(0.0) legislation(1.0) grow(0.0) the(0.0) size(0.0) of(0.0) government(1.0) ,(0.0) limiting(1.0) freedom(1.0) 
+,(0.0) it(0.0) will(0.0) also(0.0) levy(1.0) 21(0.0) new(0.0) or(0.0) higher(0.0) taxes(1.0) on(0.0) Americans(1.0) and(0.0) small(0.0) businesses(1.0) ,(0.0) causing(0.0) the(0.0) destruction(1.0) of(0.0) 
+jobs(1.0) .(0.0) If(0.0) ObamaCare(1.0) is(0.0) not(0.0) repealed(1.0) beginning(0.0) on(0.0) January(0.0) 1(0.0) ,(0.0) 2013(0.0) ,(0.0) a(0.0) 3.8(0.0) percent(0.0) capital(1.0) gains(1.0) tax(1.0) 
+on(0.0) investment(1.0) income(1.0) will(0.0) go(1.0) into(0.0) effect(1.0) ,(0.0) destroying(1.0) jobs(1.0) in(0.0) the(0.0) home(0.0) building(0.0) and(0.0) real(0.0) estate(0.0) industries(1.0) .(0.0) The(0.0) 
+National(0.0) Federation(0.0) of(0.0) Independent(0.0) Business(0.0) ,(0.0) NFIB(1.0) ,(0.0) America's(0.0) largest(1.0) association(0.0) of(0.0) small(0.0) businesses(0.0) ,(0.0) has(0.0) estimated(0.0) ObamaCare(1.0) will(0.0) destroy(1.0) 
+1.6(1.0) million(1.0) jobs(1.0) .(0.0) In(0.0) order(0.0) for(0.0) our(0.0) Nation(1.0) to(0.0) recover(0.0) ,(0.0) ObamaCare(1.0) must(0.0) be(0.0) repealed(0.0) ,(0.0) and(0.0) the(0.0) government(1.0) 
+and(0.0) Congress(0.0) must(0.0) pass(0.0) legislation(0.0) that(0.0) encourages(1.0) job(0.0) creation(0.0) through(0.0) private(0.0) sector(0.0) job(0.0) growth(0.0) .(0.0) In(0.0) conclusion(0.0) ,(0.0) God(0.0) bless(0.0) 
+our(0.0) troops(1.0) ,(0.0) and(0.0) we(0.0) will(0.0) never(0.0) forget(0.0) September(0.0) the(0.0) 11th(0.0) in(0.0) the(0.0) global(1.0) war(1.0) on(0.0) terrorism(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Republicans	will	vote	for	the	32nd	time	to	repeal	,	defund	,	or	dismantle	the	President	
+'s	government	health	care	takeover	bill	.	legislation	government	limiting	freedom	
+levy	taxes	Americans	businesses	destruction	
+jobs	ObamaCare	repealed	capital	gains	tax	
+investment	income	go	effect	destroying	jobs	industries	
+NFIB	largest	ObamaCare	destroy	
+1.6	million	jobs	Nation	ObamaCare	government	
+encourages	
+troops	global	war	terrorism	
+
+reads % = 0.33519553072625696

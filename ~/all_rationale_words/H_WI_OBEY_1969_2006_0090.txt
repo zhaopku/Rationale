@@ -1,0 +1,20 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(1.0) ,(0.0) let(0.0) me(0.0) simply(0.0) explain(1.0) that(0.0) the(0.0) Lowey(1.0) motion(0.0) to(0.0) recommit(0.0) will(0.0) be(0.0) with(0.0) instructions(1.0) to(0.0) report(0.0) it(0.0) back(0.0) forthwith(1.0) 
+to(0.0) the(0.0) House(0.0) with(0.0) an(0.0) amendment(1.0) adding(0.0) an(0.0) additional(0.0) $(0.0) 750(0.0) million(0.0) for(0.0) State(1.0) and(0.0) local(0.0) formula-based(1.0) grants(1.0) and(0.0) high-threat(1.0) 
+,(0.0) high-density(1.0) urban(0.0) area(0.0) grants(1.0) so(0.0) that(0.0) no(0.0) State(1.0) or(1.0) urban(1.0) area(0.0) receives(1.0) funding(1.0) below(0.0) which(0.0) it(0.0) received(0.0) in(0.0) 2005(1.0) 
+or(1.0) 2006(0.0) ,(0.0) whichever(1.0) is(0.0) higher(0.0) ,(0.0) and(0.0) is(0.0) offset(0.0) by(0.0) a(0.0) 1.8(0.0) percent(1.0) reduction(1.0) in(0.0) the(0.0) tax(1.0) reduction(1.0) resulting(1.0) 
+from(0.0) the(0.0) enactment(1.0) of(0.0) Public(0.0) Laws(1.0) 107-16(1.0) ,(0.0) et(1.0) cetera(1.0) ,(0.0) for(0.0) taxpayers(1.0) with(0.0) incomes(1.0) in(0.0) excess(1.0) of(0.0) $(0.0) 1(0.0) 
+million(0.0) for(0.0) calendar(1.0) year(0.0) 2007(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+explain	Lowey	instructions	forthwith	
+amendment	State	formula-based	grants	high-threat	
+high-density	grants	State	or	urban	receives	funding	2005	
+or	whichever	percent	reduction	tax	reduction	resulting	
+enactment	Laws	107-16	et	cetera	taxpayers	incomes	excess	
+calendar	2007	
+
+reads % = 0.3177570093457944

@@ -1,0 +1,10 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) can(0.0) the(0.0) gentleman(0.0) explain(0.0) who(0.0) offered(0.0) that(0.0) motion(1.0) ,(0.0) what(0.0) party(1.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+motion	party	
+
+reads % = 0.14285714285714285

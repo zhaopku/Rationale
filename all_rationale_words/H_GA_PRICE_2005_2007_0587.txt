@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) this(0.0) is(0.0) an(0.0) amendment(1.0) in(0.0) a(0.0) little(0.0) different(0.0) vein(0.0) .(0.0) It(0.0) 's(0.0) an(0.0) amendment(1.0) to(0.0) increase(1.0) funding(1.0) in(0.0) the(0.0) 
+Math(0.0) and(0.0) Science(0.0) Partnership(1.0) Program(1.0) under(0.0) the(0.0) National(0.0) Science(0.0) Foundation(0.0) by(0.0) $(0.0) 2(0.0) million(0.0) ,(0.0) and(0.0) reduce(0.0) by(0.0) $(0.0) 2(0.0) 
+million(0.0) the(0.0) Department(0.0) management(0.0) salaries(0.0) and(0.0) expenses(0.0) under(0.0) the(0.0) Department(0.0) of(0.0) Commerce(0.0) .(0.0) I(0.0) 'll(0.0) offer(0.0) an(0.0) amendment(1.0) here(0.0) to(0.0) 
+increase(1.0) American(0.0) competitiveness(1.0) and(0.0) to(0.0) improve(0.0) opportunities(0.0) for(0.0) America(1.0) 's(0.0) children(0.0) .(0.0) My(0.0) amendment(1.0) proposes(1.0) to(0.0) offer(0.0) additional(0.0) funding(1.0) to(0.0) 
+the(0.0) Math-Science(1.0) Partnership(0.0) Program(0.0) under(0.0) the(0.0) National(0.0) Science(0.0) Foundation(0.0) .(0.0) We(0.0) must(0.0) fund(1.0) important(0.0) priorities(1.0) to(0.0) ensure(0.0) that(0.0) our(0.0) Nation(1.0) 
+continues(0.0) to(0.0) see(0.0) positive(0.0) growth(1.0) in(0.0) our(0.0) youth(1.0) in(0.0) the(0.0) area(0.0) of(0.0) math(1.0) and(0.0) science(0.0) .(0.0) In(0.0) my(0.0) home(0.0) State(0.0) 
+of(0.0) Georgia(1.0) ,(0.0) I(0.0) recently(0.0) had(0.0) the(0.0) opportunity(0.0) to(0.0) join(0.0) over(0.0) 25,000(0.0) students(0.0) and(0.0) teachers(0.0) and(0.0) researchers(0.0) from(0.0) 31(0.0) different(0.0) 
+countries(0.0) at(0.0) the(0.0) Georgia(0.0) Dome(0.0) for(0.0) the(0.0) FIRST(0.0) competition(0.0) .(0.0) The(0.0) FIRST(0.0) ,(0.0) as(0.0) many(0.0) of(0.0) my(0.0) colleagues(0.0) know(0.0) ,(0.0) 
+stands(0.0) for(0.0) For(0.0) Inspiration(0.0) and(0.0) Recognition(0.0) of(0.0) Science(0.0) and(0.0) Technology(0.0) .(0.0) It(0.0) 's(0.0) a(0.0) robotics(0.0) competition(0.0) .(0.0) If(0.0) any(0.0) of(0.0) 
+my(0.0) colleagues(0.0) have(0.0) n't(0.0) been(0.0) to(0.0) a(0.0) robotics(0.0) competition(0.0) ,(0.0) I(0.0) encourage(0.0) them(0.0) to(0.0) go(0.0) see(0.0) one(0.0) .(0.0) It(0.0) is(0.0) 
+a(0.0) remarkable(0.0) experience(0.0) .(0.0) I(0.0) was(0.0) extremely(0.0) impressed(0.0) with(0.0) the(0.0) level(0.0) of(0.0) enthusiasm(0.0) and(0.0) the(0.0) remarkable(0.0) educational(1.0) benefit(1.0) with(0.0) this(0.0) 
+type(0.0) of(0.0) an(0.0) initiative(1.0) that's(0.0) provided(0.0) to(0.0) thousands(0.0) of(0.0) American(0.0) students(0.0) .(0.0) We(0.0) should(0.0) continue(0.0) to(0.0) promote(1.0) this(0.0) and(0.0) other(0.0) 
+similar(0.0) programs(1.0) throughout(0.0) the(0.0) Nation(1.0) .(0.0) I(0.0) 'm(0.0) sure(0.0) that(0.0) my(0.0) colleagues(0.0) recognize(0.0) the(0.0) significance(0.0) of(0.0) promoting(1.0) a(0.0) strong(0.0) interest(0.0) 
+in(0.0) math(1.0) and(0.0) science(0.0) and(0.0) technology(0.0) education(1.0) .(0.0) These(0.0) fields(0.0) of(0.0) learning(0.0) and(0.0) research(0.0) are(0.0) vital(0.0) to(0.0) our(0.0) country(1.0) 's(0.0) 
+continued(0.0) success(0.0) .(0.0) In(0.0) fact(0.0) ,(0.0) investment(0.0) in(0.0) basic(0.0) research(0.0) and(0.0) programs(1.0) like(0.0) this(0.0) is(0.0) an(0.0) essential(0.0) element(0.0) in(0.0) assuring(1.0) 
+future(0.0) prosperity(1.0) ,(0.0) security(0.0) and(0.0) leadership(0.0) in(0.0) our(0.0) rapidly(0.0) evolving(0.0) world(0.0) .(0.0) The(0.0) National(0.0) Science(0.0) Foundation(0.0) has(0.0) a(0.0) mission(0.0) to(0.0) 
+achieve(0.0) excellence(0.0) in(0.0) science(0.0) and(0.0) technology(0.0) ,(0.0) engineering(0.0) and(0.0) mathematics(0.0) educational(0.0) at(0.0) all(0.0) levels(0.0) and(0.0) all(0.0) settings(0.0) ,(0.0) from(0.0) kindergarten(1.0) 
+through(0.0) postdoctoral(0.0) training(0.0) .(0.0) One(0.0) of(0.0) the(0.0) most(0.0) important(0.0) successful(0.0) initiatives(1.0) under(0.0) the(0.0) NSF(0.0) is(0.0) the(0.0) Math(0.0) and(0.0) Science(0.0) Partnership(0.0) 
+Program(0.0) ,(0.0) established(1.0) in(0.0) 2002(0.0) ,(0.0) to(0.0) strengthen(0.0) and(0.0) reform(1.0) mathematics(0.0) and(0.0) science(0.0) education(1.0) for(0.0) children(0.0) around(0.0) the(0.0) Nation(1.0) .(0.0) 
+It(0.0) 's(0.0) important(0.0) to(0.0) offer(0.0) children(0.0) guidance(0.0) and(0.0) examples(0.0) set(0.0) by(0.0) mentors(0.0) and(0.0) role(0.0) models(0.0) ,(0.0) and(0.0) provide(0.0) students(0.0) the(0.0) 
+opportunity(0.0) to(0.0) learn(0.0) about(0.0) the(0.0) importance(0.0) of(0.0) higher(0.0) education(1.0) ,(0.0) and(0.0) they(0.0) 're(0.0) exposed(0.0) to(0.0) career(0.0) options(0.0) ,(0.0) especially(0.0) from(0.0) 
+those(0.0) folks(0.0) who(0.0) love(0.0) and(0.0) are(0.0) enthusiastic(0.0) about(0.0) science(0.0) and(0.0) engineering(0.0) and(0.0) mathematics(0.0) .(0.0) Under(0.0) this(0.0) commendable(1.0) program(1.0) ,(0.0) each(0.0) 
+State(0.0) administers(0.0) its(0.0) own(0.0) competitive(0.0) grant(0.0) program(0.0) for(0.0) institutions(1.0) of(0.0) higher(0.0) education(1.0) ,(0.0) K-12(1.0) schools(1.0) and(0.0) local(0.0) partners(0.0) .(0.0) In(0.0) 
+addition(0.0) ,(0.0) the(0.0) MSP(0.0) program(1.0) focuses(0.0) on(0.0) raising(1.0) educational(1.0) standards(0.0) to(0.0) prepare(0.0) children(0.0) for(0.0) postsecondary(1.0) education(1.0) in(0.0) math(1.0) ,(0.0) science(1.0) 
+or(0.0) engineering(0.0) .(0.0) This(0.0) program(1.0) is(0.0) worthy(0.0) of(0.0) additional(0.0) funding(1.0) because(0.0) of(0.0) its(0.0) positive(0.0) results(0.0) for(0.0) improving(1.0) math(1.0) and(0.0) 
+
+
+----- below are rationale words -----
+
+amendment	amendment	increase	funding	
+Partnership	Program	
+amendment	
+increase	competitiveness	America	amendment	proposes	funding	
+Math-Science	fund	priorities	Nation	
+growth	youth	math	
+Georgia	
+
+
+
+educational	benefit	
+initiative	promote	
+programs	Nation	promoting	
+math	education	country	
+programs	assuring	
+prosperity	
+kindergarten	
+initiatives	
+established	reform	education	Nation	
+
+education	
+commendable	program	
+institutions	education	K-12	schools	
+program	raising	educational	postsecondary	education	math	science	
+program	funding	improving	math	
+
+reads % = 0.116

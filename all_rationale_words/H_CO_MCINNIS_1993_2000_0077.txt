@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) what(1.0) concerns(0.0) me(0.0) about(0.0) the(0.0) discussions(1.0) that(0.0) we(0.0) have(0.0) been(0.0) having(0.0) on(0.0) the(0.0) Alaskan(1.0) oil(1.0) is(0.0) that(0.0) the(0.0) emotions(0.0) 
+get(0.0) in(0.0) the(0.0) way(1.0) ,(0.0) I(0.0) think(1.0) ,(0.0) of(0.0) looking(0.0) at(0.0) the(0.0) facts(1.0) .(0.0) One(1.0) ,(0.0) the(0.0) fact(0.0) of(0.0) what(1.0) 
+are(0.0) the(0.0) requirements(0.0) of(0.0) the(0.0) United(0.0) States(0.0) ?(0.0) What(0.0) is(0.0) the(0.0) dependency(1.0) of(0.0) the(0.0) United(0.0) States(0.0) ?(0.0) What(0.0) happens(0.0) if(0.0) 
+the(0.0) United(0.0) States(0.0) becomes(0.0) dependent(0.0) ,(0.0) as(0.0) we(0.0) have(0.0) seen(0.0) ,(0.0) on(0.0) foreign(0.0) countries(0.0) ?(1.0) What(0.0) happens(0.0) to(0.0) our(0.0) economy(1.0) 
+?(0.0) What(0.0) happens(0.0) to(0.0) everything(0.0) from(0.0) medicine(1.0) and(0.0) so(1.0) on(0.0) ?(1.0) On(0.0) the(0.0) other(0.0) hand(0.0) ,(0.0) we(0.0) need(0.0) to(0.0) not(0.0) 
+let(0.0) our(0.0) emotions(0.0) become(0.0) so(0.0) charged(1.0) with(0.0) the(0.0) price(0.0) of(0.0) oil(1.0) that(0.0) we(0.0) ignore(0.0) environmental(1.0) safeguards(0.0) .(0.0) And(0.0) so(1.0) ,(0.0) 
+my(0.0) reason(1.0) in(0.0) talking(0.0) with(0.0) the(0.0) gentleman(0.0) is(0.0) for(0.0) his(0.0) explanations(0.0) of(0.0) the(0.0) safeguards(0.0) .(0.0) And(0.0) I(0.0) think(1.0) he(0.0) has(0.0) 
+done(0.0) a(0.0) good(0.0) job(1.0) that(0.0) ,(0.0) with(0.0) the(0.0) environment(0.0) ,(0.0) we(0.0) have(0.0) spent(1.0) $(0.0) 50(0.0) million(1.0) on(0.0) the(0.0) caribou(1.0) for(0.0) 
+example(0.0) .(0.0) Well(0.0) ,(0.0) that(0.0) one(0.0) was(0.0) not(1.0) justified(1.0) because(0.0) the(0.0) caribou(1.0) do(0.0) not(1.0) use(0.0) it(0.0) .(0.0) There(1.0) are(0.0) a(0.0) 
+lot(0.0) of(0.0) environmental(1.0) expenses(0.0) that(0.0) are(0.0) taken(0.0) into(0.0) consideration(0.0) and(0.0) a(0.0) lot(0.0) of(0.0) sensitivities(1.0) that(0.0) ,(0.0) rightfully(1.0) so(0.0) ,(0.0) are(0.0) 
+observed(1.0) .(0.0) This(0.0) is(0.0) not(1.0) a(0.0) sign-off(0.0) to(0.0) some(0.0) company(0.0) to(0.0) go(0.0) up(0.0) and(0.0) drill(1.0) where(0.0) they(0.0) want(1.0) .(0.0) This(0.0) 
+is(0.0) probably(0.0) the(0.0) most(1.0) scrutinized(1.0) project(0.0) in(0.0) the(0.0) United(0.0) States(0.0) I(0.0) would(1.0) guess(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+what	discussions	Alaskan	oil	
+way	think	facts	One	what	
+dependency	
+?	economy	
+medicine	so	?	
+charged	oil	environmental	so	
+reason	think	
+job	spent	million	caribou	
+not	justified	caribou	not	There	
+environmental	sensitivities	rightfully	
+observed	not	drill	want	
+most	scrutinized	would	
+
+reads % = 0.1702127659574468

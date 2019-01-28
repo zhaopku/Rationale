@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) am(0.0) grateful(0.0) for(0.0) the(0.0) time(0.0) this(0.0) morning(0.0) ,(0.0) and(0.0) I(0.0) in(0.0) many(0.0) ways(0.0) endorse(1.0) what(0.0) the(0.0) preceding(0.0) speaker(0.0) 
+,(0.0) the(0.0) gentlewoman(0.0) from(0.0) North(0.0) Carolina(0.0) [(0.0) Mrs.(0.0) Clayton(1.0) ](0.0) had(1.0) to(0.0) say(0.0) .(0.0) I(0.0) was(0.0) listening(0.0) with(0.0) great(0.0) interest(0.0) 
+this(0.0) morning(0.0) to(0.0) my(0.0) fellow(0.0) newcomer(0.0) ,(0.0) the(0.0) gentlewoman(0.0) from(0.0) Texas(0.0) [(0.0) Ms.(1.0) Jackson-Lee(1.0) ](0.0) ,(0.0) and(0.0) indeed(0.0) at(0.0) the(0.0) 
+outset(0.0) of(0.0) her(0.0) remarks(0.0) I(0.0) would(0.0) endorse(0.0) fully(0.0) that(0.0) no(0.0) one(0.0) ,(0.0) no(0.0) one(0.0) in(0.0) this(0.0) Chamber(0.0) ,(0.0) would(0.0) ever(0.0) 
+endorse(1.0) the(0.0) acts(0.0) of(0.0) violence(1.0) ,(0.0) the(0.0) unspeakable(1.0) acts(0.0) against(0.0) those(0.0) in(0.0) Oklahoma(1.0) City(0.0) .(0.0) History(0.0) points(0.0) a(0.0) way(0.0) for(0.0) 
+us(0.0) ,(0.0) it(0.0) compels(0.0) us(0.0) ,(0.0) it(0.0) offers(0.0) lessons(0.0) ,(0.0) and(0.0) at(0.0) this(0.0) juncture(1.0) in(0.0) human(1.0) history(0.0) ,(0.0) at(0.0) this(0.0) 
+juncture(1.0) in(0.0) the(0.0) history(0.0) of(0.0) this(0.0) proud(0.0) Republic(1.0) ,(0.0) I(0.0) believe(0.0) it(0.0) is(0.0) important(0.0) for(0.0) all(0.0) of(0.0) us(0.0) to(0.0) remember(0.0) 
+the(0.0) admonition(1.0) of(0.0) that(0.0) great(0.0) and(0.0) good(0.0) man(0.0) ,(0.0) Dwight(0.0) David(0.0) Eisenhower(1.0) ,(0.0) who(0.0) led(0.0) the(0.0) most(0.0) powerful(0.0) army(0.0) ever(0.0) 
+assembled(0.0) in(0.0) the(0.0) free(0.0) world(0.0) against(0.0) the(0.0) most(0.0) onerous(1.0) and(0.0) evil(0.0) regime(1.0) in(0.0) human(0.0) history(0.0) .(0.0) Eisenhower(1.0) ,(0.0) when(0.0) he(0.0) 
+stepped(0.0) onto(0.0) the(0.0) beach(0.0) at(0.0) Normandy(0.0) following(0.0) the(0.0) waves(0.0) of(0.0) invasion(1.0) ,(0.0) noted(0.0) that(0.0) it(0.0) was(0.0) impossible(0.0) to(0.0) walk(0.0) a(0.0) 
+step(0.0) without(0.0) stepping(0.0) on(0.0) dead(0.0) or(0.0) decaying(0.0) human(0.0) flesh(0.0) ,(0.0) such(0.0) was(0.0) the(0.0) magnitude(0.0) of(0.0) destruction(1.0) there(0.0) ,(0.0) and(0.0) yet(0.0) 
+following(0.0) the(0.0) war(1.0) 's(0.0) completion(0.0) and(0.0) the(0.0) restoration(1.0) of(0.0) peace(1.0) ,(0.0) when(0.0) Dwight(0.0) Eisenhower(1.0) answered(0.0) a(0.0) clarion(0.0) call(0.0) to(0.0) serve(0.0) 
+this(0.0) Republic(1.0) as(0.0) its(0.0) Chief(0.0) Executive(0.0) ,(0.0) he(0.0) made(0.0) some(0.0) very(0.0) valid(0.0) points(0.0) regarding(0.0) political(1.0) battles(1.0) .(0.0) To(0.0) paraphrase(0.0) Ike(1.0) 
+,(0.0) he(0.0) said(0.0) ,(0.0) ``(0.0) Always(0.0) believe(0.0) the(0.0) best(0.0) of(0.0) your(0.0) political(1.0) adversaries(1.0) .(0.0) Always(0.0) assume(0.0) that(0.0) they(0.0) ,(0.0) too(0.0) 
+,(0.0) want(0.0) what(0.0) is(0.0) best(0.0) for(0.0) the(0.0) American(0.0) people(0.0) and(0.0) yet(0.0) move(0.0) in(0.0) a(0.0) different(0.0) direction(0.0) under(0.0) a(0.0) different(0.0) philosophy(0.0) 
+to(0.0) bring(0.0) about(0.0) their(0.0) desired(0.0) results(0.0) .(0.0) ''(0.0) I(0.0) think(0.0) those(0.0) words(0.0) are(0.0) incredibly(0.0) important(0.0) for(0.0) us(0.0) to(0.0) remember(0.0) as(0.0) 
+we(0.0) again(0.0) come(0.0) into(0.0) this(0.0) Chamber(0.0) ,(0.0) the(0.0) site(0.0) of(0.0) so(0.0) much(0.0) of(0.0) our(0.0) history(0.0) .(0.0) Let(0.0) us(0.0) note(0.0) once(0.0) 
+again(0.0) that(0.0) good(0.0) people(0.0) may(0.0) agree(0.0) to(0.0) disagree(1.0) .(0.0) Let(0.0) us(0.0) not(0.0) impugn(0.0) the(0.0) motives(1.0) of(0.0) those(0.0) duly(0.0) elected(0.0) by(0.0) 
+their(0.0) respective(0.0) districts(0.0) to(0.0) offer(0.0) a(0.0) point(0.0) of(0.0) view(0.0) as(0.0) we(0.0) move(0.0) to(0.0) achieve(0.0) a(0.0) consensus(0.0) .(0.0) But(0.0) by(0.0) the(0.0) 
+same(0.0) token(0.0) ,(0.0) and(0.0) perhaps(0.0) it(0.0) is(0.0) somewhat(0.0) ironic(0.0) because(0.0) ,(0.0) after(0.0) all(0.0) ,(0.0) the(0.0) political(1.0) process(0.0) is(0.0) the(0.0) vehicle(0.0) 
+which(0.0) brings(0.0) us(0.0) here(0.0) .(0.0) Let(0.0) us(0.0) never(0.0) confuse(0.0) dissent(1.0) with(0.0) hatred(1.0) .(0.0) Let(0.0) us(0.0) never(0.0) politicize(1.0) such(0.0) a(0.0) tragic(0.0) 
+event(0.0) as(0.0) the(0.0) one(0.0) that(0.0) occurred(0.0) in(0.0) Oklahoma(1.0) City(0.0) in(0.0) hopes(0.0) of(0.0) increasing(1.0) our(0.0) number(0.0) for(0.0) either(0.0) side(0.0) of(0.0) the(0.0) 
+aisle(0.0) .(0.0) Let(0.0) us(0.0) truly(0.0) join(0.0) together(0.0) in(0.0) debate(1.0) that(0.0) is(0.0) ,(0.0) yes(0.0) ,(0.0) oft(0.0) times(0.0) contentious(1.0) ,(0.0) but(0.0) always(0.0) 
+with(0.0) the(0.0) knowledge(0.0) of(0.0) the(0.0) inherent(0.0) wisdom(0.0) of(0.0) what(0.0) Dwight(0.0) Eisenhower(1.0) said(0.0) ,(0.0) that(0.0) good(0.0) people(0.0) may(0.0) disagree(0.0) .(0.0) And(0.0) 
+I(0.0) noted(0.0) with(0.0) some(0.0) concern(0.0) this(0.0) morning(0.0) the(0.0) seeming(0.0) implication(1.0) that(0.0) there(0.0) was(0.0) silence(0.0) from(0.0) this(0.0) side(0.0) ,(0.0) that(0.0) 
+
+
+----- below are rationale words -----
+
+endorse	
+Clayton	had	
+Ms.	Jackson-Lee	
+
+endorse	violence	unspeakable	Oklahoma	
+juncture	human	
+juncture	Republic	
+admonition	Eisenhower	
+onerous	regime	Eisenhower	
+invasion	
+destruction	
+war	restoration	peace	Eisenhower	
+Republic	political	battles	Ike	
+political	adversaries	
+
+
+
+disagree	motives	
+
+political	
+dissent	hatred	politicize	
+Oklahoma	increasing	
+debate	contentious	
+Eisenhower	
+implication	
+
+reads % = 0.084

@@ -1,0 +1,40 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) also(0.0) want(0.0) to(0.0) thank(0.0) Chairman(0.0) Waxman(1.0) for(0.0) mentioning(1.0) Chris(0.0) Sarley(1.0) ,(0.0) who(0.0) did(0.0) yeoman(0.0) 's(0.0) work(0.0) with(0.0) the(0.0) majority(0.0) staff(0.0) 
+,(0.0) and(0.0) I(0.0) appreciate(0.0) their(0.0) kindness(0.0) and(0.0) work(0.0) effort(0.0) .(0.0) This(0.0) is(0.0) a(0.0) model(0.0) for(0.0) what(0.0) we(0.0) can(0.0) do(0.0) on(0.0) 
+energy(1.0) and(0.0) what(0.0) we(0.0) can(0.0) do(0.0) on(0.0) health(1.0) if(0.0) we(0.0) would(0.0) move(0.0) in(0.0) that(0.0) direction(0.0) .(0.0) We(0.0) ca(0.0) n't(0.0) defend(1.0) 
+the(0.0) current(0.0) system(0.0) .(0.0) As(0.0) a(0.0) former(0.0) ranking(0.0) member(0.0) on(0.0) Oversight(0.0) and(0.0) Investigations(0.0) ,(0.0) there(0.0) are(0.0) fixes(0.0) that(0.0) have(0.0) to(0.0) 
+be(0.0) made(0.0) .(0.0) This(0.0) bill(1.0) provides(0.0) a(0.0) risk-based(1.0) inspection(0.0) regime(1.0) and(0.0) gives(0.0) the(0.0) FDA(1.0) flexibility(0.0) to(0.0) change(0.0) the(0.0) frequency(0.0) of(0.0) 
+inspections(1.0) to(0.0) lower-risk(1.0) facilities(0.0) .(0.0) It(0.0) allows(0.0) FDA(1.0) access(0.0) to(0.0) records(0.0) .(0.0) It(0.0) gives(0.0) companies(1.0) flexibility(0.0) to(0.0) use(0.0) different(0.0) preventative(1.0) 
+control(0.0) systems(0.0) .(0.0) And(0.0) where(0.0) things(0.0) are(0.0) working(0.0) ,(0.0) we(0.0) let(0.0) existing(0.0) authority(1.0) remain(0.0) with(0.0) respect(0.0) to(0.0) USDA(1.0) .(0.0) I(0.0) 
+am(0.0) an(0.0) ag(1.0) Republican(0.0) ,(1.0) so(1.0) I(0.0) understand(0.0) the(0.0) concerns(1.0) of(0.0) my(0.0) colleagues(0.0) on(0.0) the(0.0) Ag(0.0) Committee(0.0) .(0.0) But(0.0) this(0.0) 
+bill(1.0) does(1.0) not(0.0) require(0.0) farms(1.0) to(0.0) register(0.0) with(0.0) the(0.0) FDA(1.0) ;(0.0) and(0.0) as(0.0) a(0.0) result(0.0) ,(0.0) farms(1.0) do(0.0) not(0.0) have(0.0) 
+to(0.0) pay(1.0) a(0.0) registration(0.0) fee(0.0) .(0.0) Access(0.0) to(0.0) farm(0.0) records(0.0) is(0.0) significantly(0.0) restricted(0.0) .(0.0) Livestock(0.0) and(0.0) poultry(1.0) are(0.0) exempt(1.0) from(0.0) 
+the(0.0) bill(0.0) .(0.0) Grain(0.0) and(0.0) related(0.0) commodities(0.0) are(0.0) exempt(1.0) from(0.0) produce(0.0) standards(1.0) .(0.0) USDA-regulated(0.0) farms(0.0) ,(0.0) facilities(0.0) and(0.0) products(0.0) are(0.0) 
+not(0.0) subject(0.0) to(0.0) this(0.0) bill(1.0) .(0.0) It(0.0) allows(0.0) farms(1.0) to(0.0) be(0.0) exempt(1.0) from(0.0) any(0.0) traceability(1.0) requirements(0.0) .(0.0) But(0.0) I(0.0) will(0.0) 
+pledge(1.0) to(0.0) continue(0.0) to(0.0) work(0.0) with(0.0) any(0.0) ag(1.0) Republican(0.0) colleagues(1.0) as(1.0) this(1.0) process(1.0) moves(1.0) forward(1.0) to(1.0) try(1.0) to(1.0) address(0.0) some(0.0) 
+of(0.0) the(0.0) remaining(0.0) concerns(0.0) .(0.0) I(0.0) do(0.0) appreciate(0.0) the(0.0) majority(1.0) and(0.0) their(0.0) work(0.0) on(0.0) this(0.0) .(0.0) Again(0.0) ,(0.0) I(0.0) think(0.0) 
+it(0.0) is(0.0) a(0.0) good(0.0) method(0.0) for(0.0) which(0.0) we(0.0) can(0.0) move(0.0) on(0.0) energy(1.0) and(0.0) health(1.0) care(1.0) when(0.0) we(0.0) get(0.0) to(0.0) a(0.0) 
+point(0.0) where(0.0) we(0.0) want(0.0) to(0.0) do(0.0) that(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Waxman	mentioning	Sarley	
+
+energy	health	defend	
+
+bill	risk-based	regime	FDA	
+inspections	lower-risk	FDA	companies	preventative	
+authority	USDA	
+ag	,	so	concerns	
+bill	does	farms	FDA	farms	
+pay	poultry	exempt	
+exempt	standards	
+bill	farms	exempt	traceability	
+pledge	ag	colleagues	as	this	process	moves	forward	to	try	to	
+majority	
+energy	health	care	
+
+
+reads % = 0.16181229773462782

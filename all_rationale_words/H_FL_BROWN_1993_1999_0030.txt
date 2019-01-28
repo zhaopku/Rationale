@@ -1,0 +1,40 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) rise(0.0) to(0.0) engage(0.0) in(0.0) a(0.0) colloquy(0.0) with(0.0) the(0.0) gentleman(0.0) from(0.0) Alabama(0.0) ((0.0) Mr.(0.0) Callahan(1.0) )(0.0) .(0.0) I(0.0) want(0.0) 
+to(0.0) take(0.0) a(0.0) moment(0.0) to(0.0) raise(0.0) the(0.0) issue(0.0) of(0.0) American(0.0) prisoners(1.0) being(0.0) held(0.0) overseas(0.0) .(0.0) I(0.0) want(0.0) to(0.0) commend(0.0) the(0.0) 
+chairman(0.0) for(0.0) including(0.0) language(0.0) in(0.0) this(0.0) report(0.0) that(0.0) required(0.0) the(0.0) Secretary(1.0) of(0.0) State(0.0) to(0.0) report(0.0) on(0.0) whether(0.0) American(0.0) citizens(1.0) have(0.0) 
+not(0.0) been(0.0) able(0.0) to(0.0) receive(0.0) fair(0.0) trials(0.0) in(0.0) Ecuador(1.0) as(0.0) well(0.0) as(0.0) the(0.0) evaluation(0.0) of(0.0) whether(0.0) foreign(0.0) assistance(0.0) to(0.0) Ecuador(0.0) 
+has(0.0) an(0.0) impact(0.0) on(0.0) the(0.0) lawfulness(1.0) of(0.0) the(0.0) Ecuador(0.0) justice(1.0) system(0.0) .(0.0) As(0.0) the(0.0) gentleman(0.0) is(0.0) aware(0.0) ,(0.0) Mr.(0.0) Chairman(1.0) 
+,(0.0) I(0.0) have(0.0) visited(0.0) Ecuador(0.0) three(0.0) times(0.0) in(0.0) the(0.0) past(0.0) 2(0.0) years(0.0) ,(0.0) and(0.0) the(0.0) disregard(1.0) for(0.0) fair(1.0) or(0.0) even(0.0) 
+speedy(0.0) trials(0.0) have(0.0) become(0.0) a(0.0) crisis(0.0) in(0.0) this(0.0) country(1.0) .(0.0) I(0.0) am(0.0) very(0.0) disturbed(0.0) that(0.0) many(0.0) people(0.0) ,(0.0) especially(0.0) Americans(1.0) 
+,(0.0) are(0.0) asked(0.0) to(0.0) pay(1.0) bribes(1.0) to(0.0) ensure(0.0) innocent(1.0) finding(0.0) .(0.0) One(0.0) American(0.0) in(0.0) particular(0.0) ,(0.0) Mr.(0.0) Jim(1.0) Williams(1.0) of(0.0) 
+Jacksonville(0.0) Beach(0.0) ,(0.0) has(0.0) had(0.0) very(0.0) little(0.0) chance(0.0) at(0.0) justice(1.0) since(0.0) he(0.0) was(0.0) imprisoned(0.0) almost(0.0) 3(0.0) years(0.0) ago(0.0) .(0.0) His(0.0) 
+family(0.0) have(0.0) struggled(0.0) to(0.0) help(0.0) Mr.(0.0) Williams(1.0) get(0.0) a(0.0) fair(0.0) trial(0.0) ,(0.0) but(0.0) they(0.0) have(0.0) faced(0.0) a(0.0) maze(0.0) of(0.0) corruption(1.0) 
+in(0.0) addition(0.0) to(0.0) unreliable(0.0) policy(1.0) and(0.0) a(0.0) justice(1.0) system(0.0) that(0.0) does(0.0) not(0.0) function(0.0) .(0.0) This(0.0) is(0.0) a(0.0) very(0.0) complicated(0.0) problem(0.0) 
+that(0.0) affects(0.0) many(0.0) Americans(1.0) in(0.0) Ecuador(1.0) .(0.0) However(0.0) ,(0.0) a(0.0) big(0.0) part(0.0) of(0.0) the(0.0) solution(0.0) involves(0.0) the(0.0) United(0.0) States(0.0) .(0.0) 
+I(0.0) hope(0.0) this(0.0) report(0.0) will(0.0) help(0.0) our(0.0) government(1.0) understand(0.0) the(0.0) limitations(1.0) of(0.0) the(0.0) Ecuador(1.0) justice(1.0) system(0.0) as(0.0) well(0.0) as(0.0) the(0.0) 
+far-reaching(1.0) impact(1.0) of(0.0) our(0.0) drug(1.0) policy(1.0) on(0.0) countries(1.0) like(0.0) Ecuador(1.0) .(0.0) With(0.0) limited(0.0) resources(0.0) and(0.0) corruption(1.0) in(0.0) judiciary(1.0) ,(0.0) I(0.0) 
+look(0.0) forward(0.0) to(0.0) learning(0.0) the(0.0) results(0.0) of(0.0) this(0.0) study(0.0) and(0.0) thank(0.0) my(0.0) colleague(0.0) for(0.0) its(0.0) inclusion(1.0) in(0.0) this(0.0) report(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+Callahan	
+prisoners	
+Secretary	citizens	
+Ecuador	
+lawfulness	justice	Chairman	
+disregard	fair	
+country	Americans	
+pay	bribes	innocent	Jim	Williams	
+justice	
+Williams	corruption	
+policy	justice	
+Americans	Ecuador	
+government	limitations	Ecuador	justice	
+far-reaching	impact	drug	policy	countries	Ecuador	corruption	judiciary	
+inclusion	
+
+
+reads % = 0.12292358803986711

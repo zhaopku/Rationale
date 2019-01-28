@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) by(0.0) direction(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Rules(0.0) ,(0.0) I(0.0) call(0.0) up(0.0) House(0.0) Resolution(1.0) 140(0.0) and(0.0) ask(0.0) for(0.0) its(0.0) immediate(0.0) 
+consideration(0.0) .(0.0) The(0.0) Clerk(0.0) read(0.0) the(0.0) resolution(0.0) ,(0.0) as(0.0) follows(0.0) :(0.0) H.(0.0) Res(1.0) .(0.0) 140(0.0) Resolved(0.0) ,(0.0) That(0.0) at(0.0) any(0.0) 
+time(0.0) after(0.0) the(0.0) adoption(0.0) of(0.0) this(0.0) resolution(1.0) the(0.0) Speaker(0.0) may(0.0) ,(0.0) pursuant(0.0) to(0.0) clause(0.0) 1(0.0) ((0.0) b(0.0) )(0.0) of(0.0) rule(0.0) 
+XXIII(0.0) ,(0.0) declare(0.0) the(0.0) House(0.0) resolved(0.0) into(0.0) the(0.0) Committee(0.0) of(0.0) the(0.0) Whole(0.0) House(0.0) on(0.0) the(0.0) state(0.0) of(0.0) the(0.0) Union(0.0) for(0.0) 
+consideration(0.0) of(0.0) the(0.0) bill(0.0) ((1.0) H.R(0.0) .(0.0) 961(0.0) )(0.0) to(0.0) amend(0.0) the(0.0) Federal(0.0) Water(0.0) Pollution(0.0) Control(0.0) Act(0.0) .(0.0) The(0.0) first(0.0) 
+reading(0.0) of(0.0) the(0.0) bill(0.0) shall(0.0) be(0.0) dispensed(0.0) with(0.0) .(0.0) Points(0.0) of(0.0) order(0.0) against(0.0) consideration(0.0) of(0.0) the(0.0) bill(0.0) for(0.0) failure(0.0) to(0.0) 
+comply(0.0) with(0.0) section(0.0) 302(0.0) ((0.0) f(0.0) )(0.0) of(0.0) the(0.0) Congressional(0.0) Budget(1.0) Act(0.0) of(0.0) 1974(0.0) are(0.0) waived(0.0) .(0.0) General(0.0) debate(1.0) shall(0.0) 
+be(0.0) confined(0.0) to(0.0) the(0.0) bill(0.0) and(0.0) shall(0.0) not(0.0) exceed(0.0) two(0.0) hours(0.0) equally(0.0) divided(0.0) and(0.0) controlled(0.0) by(0.0) the(0.0) chairman(0.0) and(0.0) ranking(0.0) 
+minority(0.0) member(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Transportation(0.0) and(0.0) Infrastructure(0.0) .(0.0) After(0.0) general(0.0) debate(0.0) the(0.0) bill(0.0) shall(0.0) be(0.0) considered(0.0) for(0.0) amendment(0.0) 
+under(0.0) the(0.0) five-minute(0.0) rule(0.0) .(0.0) It(0.0) shall(0.0) be(0.0) in(0.0) order(0.0) to(0.0) consider(0.0) as(0.0) an(0.0) original(0.0) bill(0.0) for(0.0) the(0.0) purpose(0.0) of(0.0) 
+amendment(0.0) under(0.0) the(0.0) five-minute(0.0) rule(0.0) the(0.0) amendment(0.0) in(0.0) the(0.0) nature(0.0) of(0.0) a(0.0) substitute(0.0) recommended(0.0) by(0.0) the(0.0) Committee(0.0) on(0.0) Transportation(0.0) and(0.0) 
+Infrastructure(0.0) now(0.0) printed(0.0) in(0.0) the(0.0) bill(0.0) .(0.0) The(0.0) committee(0.0) amendment(0.0) in(0.0) the(0.0) nature(0.0) of(0.0) a(0.0) substitute(0.0) shall(0.0) be(0.0) considered(0.0) by(0.0) 
+title(0.0) rather(0.0) than(0.0) by(0.0) section(0.0) .(0.0) The(0.0) first(0.0) three(0.0) sections(0.0) and(0.0) each(0.0) title(0.0) of(0.0) the(0.0) committee(0.0) amendment(0.0) in(0.0) the(0.0) nature(0.0) 
+of(0.0) a(0.0) substitute(0.0) shall(0.0) be(0.0) considered(0.0) as(0.0) read(0.0) .(0.0) Points(0.0) of(0.0) order(0.0) against(0.0) the(0.0) committee(0.0) amendment(0.0) in(0.0) the(0.0) nature(0.0) of(0.0) 
+a(0.0) substitute(0.0) for(0.0) failure(0.0) to(0.0) comply(0.0) with(0.0) clause(0.0) 7(0.0) of(0.0) rule(0.0) XVI(0.0) or(0.0) clause(0.0) 5(0.0) ((0.0) a(0.0) )(0.0) of(0.0) rule(0.0) 
+XXI(0.0) or(0.0) section(0.0) 302(0.0) ((0.0) f(0.0) )(0.0) of(0.0) the(0.0) Congressional(0.0) Budget(0.0) Act(0.0) of(0.0) 1974(0.0) are(0.0) waived(0.0) .(0.0) During(0.0) consideration(0.0) of(0.0) 
+the(0.0) bill(0.0) for(0.0) amendment(0.0) ,(0.0) the(0.0) Chairman(0.0) of(0.0) the(0.0) Committee(0.0) of(0.0) the(0.0) Whole(0.0) may(0.0) accord(0.0) priority(0.0) in(0.0) recognition(0.0) on(0.0) the(0.0) 
+basis(0.0) of(0.0) whether(0.0) the(0.0) Member(0.0) offering(0.0) an(0.0) amendment(0.0) has(0.0) caused(0.0) it(0.0) to(0.0) be(0.0) printed(0.0) in(0.0) the(0.0) portion(0.0) of(0.0) the(0.0) Congressional(0.0) 
+Record(1.0) designated(0.0) for(0.0) that(0.0) purpose(0.0) in(0.0) clause(0.0) 6(0.0) of(0.0) rule(0.0) XXIII(0.0) .(0.0) Amendments(0.0) so(0.0) printed(0.0) shall(0.0) be(0.0) considered(0.0) as(0.0) read(0.0) 
+.(0.0) Before(0.0) consideration(0.0) of(0.0) any(0.0) other(0.0) amendment(0.0) it(0.0) shall(0.0) be(0.0) in(0.0) order(0.0) to(0.0) consider(0.0) the(0.0) amendment(1.0) printed(0.0) in(0.0) the(0.0) report(0.0) 
+of(0.0) the(0.0) Committee(0.0) on(0.0) Rules(0.0) accompanying(0.0) this(0.0) resolution(0.0) .(0.0) That(0.0) amendment(1.0) may(0.0) be(0.0) offered(0.0) only(0.0) by(0.0) a(0.0) Member(0.0) designated(0.0) in(0.0) 
+the(0.0) report(0.0) ,(0.0) may(0.0) amend(0.0) portions(0.0) of(0.0) the(0.0) bill(0.0) not(0.0) yet(0.0) read(0.0) for(0.0) amendment(1.0) ,(0.0) shall(0.0) be(0.0) considered(0.0) as(0.0) read(0.0) 
+,(0.0) shall(0.0) be(0.0) debatable(0.0) for(0.0) ten(0.0) minutes(0.0) equally(0.0) divided(0.0) and(0.0) controlled(0.0) by(0.0) the(0.0) chairman(0.0) and(0.0) ranking(0.0) minority(0.0) member(0.0) of(0.0) the(0.0) 
+Committee(0.0) on(0.0) Transportation(0.0) and(0.0) Infrastructure(0.0) ,(0.0) shall(0.0) not(0.0) be(0.0) subject(0.0) to(0.0) amendment(0.0) ,(0.0) and(0.0) shall(0.0) not(0.0) be(0.0) subject(0.0) to(0.0) a(0.0) 
+demand(0.0) for(0.0) division(0.0) of(0.0) the(0.0) question(0.0) in(0.0) the(0.0) House(0.0) or(0.0) in(0.0) the(0.0) Committee(0.0) of(0.0) the(0.0) Whole(0.0) .(0.0) If(0.0) that(0.0) 
+
+
+----- below are rationale words -----
+
+Resolution	
+Res	
+resolution	
+
+(	
+
+Budget	debate	
+
+
+
+
+
+
+
+
+
+
+
+Record	
+amendment	
+amendment	
+amendment	
+
+
+
+
+reads % = 0.02

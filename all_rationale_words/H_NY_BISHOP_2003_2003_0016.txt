@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) rise(0.0) today(0.0) to(0.0) urge(0.0) the(0.0) 
+House(0.0) to(0.0) pass(0.0) the(0.0) Bishop(1.0) amendment(1.0) ,(0.0) which(0.0) will(0.0) continue(0.0) the(0.0) ban(1.0) on(0.0) the(0.0) human(0.0) testing(0.0) of(0.0) pesticides(1.0) .(0.0) Human(0.0) 
+testing(0.0) of(0.0) pesticides(1.0) is(0.0) wrong(0.0) on(0.0) many(0.0) levels(0.0) .(0.0) It(0.0) is(0.0) morally(1.0) wrong(0.0) ,(0.0) it(0.0) is(0.0) ethically(0.0) wrong(0.0) ,(0.0) it(0.0) 
+is(0.0) environmentally(1.0) wrong(0.0) ,(0.0) and(0.0) it(0.0) is(0.0) even(0.0) scientifically(0.0) wrong(0.0) .(0.0) In(0.0) the(0.0) wake(1.0) of(0.0) World(0.0) War(0.0) II(0.0) and(0.0) the(0.0) 
+horrendous(1.0) crimes(1.0) committed(0.0) against(0.0) humanity(1.0) ,(0.0) many(0.0) of(0.0) them(0.0) by(0.0) doctors(0.0) ,(0.0) American(0.0) judges(1.0) wrote(0.0) what(0.0) is(0.0) called(0.0) the(0.0) Nuremberg(1.0) 
+Code(0.0) when(0.0) those(0.0) doctors(0.0) went(0.0) on(0.0) trial(0.0) .(0.0) This(0.0) code(0.0) prohibits(1.0) non-therapeutic(1.0) medical(0.0) testing(0.0) .(0.0) Pesticide(1.0) testing(0.0) does(0.0) not(0.0) meet(0.0) 
+that(0.0) criteria(0.0) .(0.0) Pesticide(1.0) testing(0.0) is(0.0) not(0.0) about(0.0) public(1.0) safety(0.0) ;(0.0) it(0.0) is(0.0) about(0.0) private(0.0) interests(0.0) .(0.0) Because(0.0) of(0.0) the(0.0) 
+stricter(1.0) requirements(0.0) of(0.0) the(0.0) unanimously(0.0) passed(0.0) Food(0.0) Quality(0.0) Protection(0.0) Act(0.0) of(0.0) 1996(0.0) ,(0.0) the(0.0) pesticide(1.0) industry(1.0) has(0.0) been(0.0) under(0.0) mounting(0.0) 
+pressure(0.0) to(0.0) reduce(0.0) the(0.0) risks(0.0) that(0.0) pesticides(1.0) pose(1.0) to(0.0) infants(0.0) and(0.0) children(0.0) .(0.0) The(0.0) industry(1.0) has(0.0) adopted(1.0) a(0.0) strategy(0.0) to(0.0) 
+evade(1.0) these(0.0) requirements(0.0) by(0.0) testing(0.0) pesticides(1.0) on(0.0) a(0.0) small(0.0) number(0.0) of(0.0) adult(0.0) human(0.0) subjects(0.0) and(0.0) to(0.0) thereby(0.0) remove(0.0) safety(0.0) factors(0.0) 
+and(0.0) other(0.0) protective(0.0) requirements(0.0) .(0.0) And(0.0) unlike(0.0) human(0.0) testing(0.0) of(0.0) drugs(1.0) ,(0.0) which(0.0) has(0.0) the(0.0) potential(0.0) to(0.0) benefit(1.0) test(0.0) subjects(0.0) 
+or(0.0) to(0.0) directly(0.0) improve(0.0) human(0.0) health(1.0) ,(0.0) the(0.0) pesticide(1.0) industry(1.0) 's(0.0) purpose(0.0) in(0.0) conducting(1.0) human(0.0) tests(0.0) of(0.0) pesticides(1.0) is(0.0) to(0.0) 
+weaken(1.0) otherwise(0.0) applicable(0.0) health(1.0) protections(1.0) and(0.0) to(0.0) increase(1.0) their(0.0) profits(1.0) .(0.0) Intentional(0.0) dosing(0.0) of(0.0) humans(0.0) with(0.0) pesticides(1.0) is(0.0) unethical(1.0) since(0.0) 
+it(0.0) is(0.0) done(0.0) to(0.0) advance(0.0) industry(1.0) interests(1.0) and(0.0) to(0.0) weaken(1.0) otherwise(0.0) applicable(0.0) health(1.0) protections(1.0) ,(0.0) not(0.0) to(0.0) benefit(1.0) test(0.0) subjects(0.0) 
+or(0.0) the(0.0) public(1.0) health(1.0) .(0.0) At(0.0) the(0.0) end(0.0) of(0.0) the(0.0) day(0.0) ,(0.0) these(0.0) tests(0.0) are(0.0) scientifically(0.0) irrelevant(0.0) for(0.0) several(0.0) reasons(0.0) 
+.(0.0) Human(0.0) tests(0.0) of(0.0) pesticides(1.0) are(0.0) scientifically(0.0) invalid(0.0) because(0.0) they(0.0) routinely(0.0) test(0.0) tiny(0.0) numbers(0.0) of(0.0) healthy(1.0) people(0.0) ,(0.0) often(0.0) just(0.0) 
+eight(0.0) adult(0.0) males(0.0) ,(0.0) whereas(0.0) a(0.0) test(0.0) of(0.0) thousands(0.0) of(0.0) people(0.0) is(0.0) needed(0.0) to(0.0) yield(0.0) statistically(0.0) valid(0.0) results(0.0) for(0.0) certain(0.0) 
+effects(0.0) .(0.0) The(0.0) results(0.0) of(0.0) these(0.0) tests(0.0) are(0.0) non-applicable(1.0) because(0.0) they(0.0) are(0.0) testing(0.0) self-selected(0.0) ,(0.0) healthy(0.0) adult(0.0) males(0.0) ;(0.0) yet(0.0) 
+the(0.0) protections(1.0) we(0.0) seek(0.0) are(0.0) for(0.0) all(0.0) Americans(1.0) ,(0.0) including(0.0) vulnerable(1.0) children(0.0) .(0.0) It(0.0) is(0.0) ridiculous(1.0) to(0.0) somehow(0.0) infer(0.0) if(0.0) 
+you(0.0) do(0.0) not(0.0) witness(0.0) symptoms(0.0) in(0.0) a(0.0) small(0.0) number(0.0) of(0.0) adult(0.0) males(0.0) ,(0.0) that(0.0) the(0.0) level(0.0) of(0.0) pesticide(1.0) is(0.0) therefore(0.0) 
+safe(0.0) for(0.0) a(0.0) child(0.0) .(0.0) When(0.0) media(0.0) reports(0.0) first(0.0) informed(0.0) the(0.0) American(0.0) people(0.0) that(0.0) the(0.0) pesticide(1.0) industry(1.0) was(0.0) conducting(0.0) human(0.0) 
+testing(0.0) ,(0.0) the(0.0) resulting(0.0) outrage(1.0) resulted(1.0) in(0.0) an(0.0) EPA(1.0) moratorium(1.0) of(0.0) the(0.0) studies(0.0) ,(0.0) as(0.0) well(0.0) as(0.0) a(0.0) panel(0.0) to(0.0) 
+study(0.0) the(0.0) morality(1.0) of(0.0) the(0.0) issue(0.0) .(0.0) In(0.0) 2000(0.0) ,(0.0) that(0.0) panel(0.0) concluded(0.0) if(0.0) the(0.0) use(0.0) of(0.0) human(0.0) subjects(0.0) in(0.0) 
+pesticide(1.0) testing(0.0) can(0.0) be(0.0) justified(1.0) ,(0.0) that(0.0) justification(1.0) can(0.0) not(0.0) be(0.0) to(0.0) facilitate(0.0) the(0.0) interests(1.0) of(0.0) industry(1.0) or(0.0) of(0.0) agriculture(1.0) 
+,(0.0) but(0.0) only(0.0) to(0.0) better(0.0) safeguard(1.0) the(0.0) public(1.0) health(1.0) .(0.0) That(0.0) standard(0.0) has(0.0) never(0.0) been(0.0) met(0.0) by(0.0) the(0.0) pesticide(1.0) 
+
+
+----- below are rationale words -----
+
+Chairman	
+Bishop	amendment	ban	pesticides	
+pesticides	morally	
+environmentally	wake	
+horrendous	crimes	humanity	judges	Nuremberg	
+prohibits	non-therapeutic	Pesticide	
+Pesticide	public	
+stricter	pesticide	industry	
+pesticides	pose	industry	adopted	
+evade	pesticides	
+drugs	benefit	
+health	pesticide	industry	conducting	pesticides	
+weaken	health	protections	increase	profits	pesticides	unethical	
+industry	interests	weaken	health	protections	benefit	
+public	health	
+pesticides	healthy	
+
+non-applicable	
+protections	Americans	vulnerable	ridiculous	
+pesticide	
+pesticide	industry	
+outrage	resulted	EPA	moratorium	
+morality	
+pesticide	justified	justification	interests	industry	agriculture	
+safeguard	public	health	pesticide	
+
+reads % = 0.15

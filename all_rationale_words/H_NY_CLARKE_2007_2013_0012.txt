@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Today(0.0) ,(0.0) I(0.0) rise(0.0) in(0.0) opposition(1.0) to(0.0) this(0.0) rule(1.0) and(0.0) the(0.0) underlying(0.0) bill(1.0) ,(0.0) H.R(0.0) .(0.0) 1911(0.0) ,(0.0) Smarter(0.0) Solutions(0.0) for(0.0) 
+Students(0.0) Act(0.0) ,(0.0) the(0.0) so-(0.0) called(0.0) Republican(0.0) solution(1.0) to(1.0) address(1.0) the(0.0) impending(1.0) student(0.0) loan(0.0) interest(0.0) rate(0.0) raise(0.0) .(0.0) Despite(0.0) their(0.0) 
+rhetoric(1.0) ,(0.0) the(0.0) Republicans(1.0) do(1.0) not(1.0) want(1.0) the(1.0) American(1.0) economy(1.0) more(1.0) competitive(1.0) .(1.0) If(1.0) they(1.0) did(1.0) ,(1.0) they(1.0) would(1.0) not(1.0) 
+have(1.0) introduced(1.0) this(0.0) bill(0.0) .(0.0) Under(0.0) the(0.0) current(0.0) law(1.0) ,(0.0) student(0.0) loan(0.0) interest(0.0) rates(0.0) are(0.0) fixed(0.0) .(0.0) However(0.0) ,(0.0) H.R(0.0) 
+.(0.0) 1911(0.0) would(0.0) change(0.0) that(0.0) and(0.0) student(0.0) loan(0.0) interest(0.0) rates(0.0) will(0.0) become(0.0) variable(0.0) rates(0.0) based(0.0) on(0.0) the(0.0) Treasury(0.0) interest(0.0) rate(0.0) 
+plus(0.0) additional(0.0) percentage(0.0) points(0.0) .(0.0) This(0.0) is(0.0) truly(0.0) a(0.0) bait(0.0) and(0.0) switch(0.0) .(0.0) Students(0.0) could(0.0) start(0.0) their(0.0) college(1.0) careers(0.0) with(0.0) 
+a(0.0) 5(0.0) percent(0.0) student(0.0) interest(0.0) rate(0.0) ,(0.0) but(0.0) by(0.0) the(0.0) time(0.0) they(0.0) reach(0.0) their(0.0) senior(0.0) year(0.0) ,(0.0) have(0.0) a(0.0) 7.7(0.0) 
+to(0.0) 8.5(0.0) percent(0.0) student(0.0) loan(0.0) rate(0.0) .(0.0) Education(1.0) has(0.0) traditionally(0.0) been(0.0) and(0.0) still(0.0) remains(0.0) a(0.0) path(0.0) out(0.0) of(0.0) poverty(1.0) and(0.0) 
+into(0.0) the(0.0) middle(1.0) class(0.0) .(0.0) And(0.0) it(0.0) is(0.0) middle(0.0) class(0.0) that(0.0) has(0.0) historically(0.0) been(0.0) the(0.0) backbone(1.0) of(0.0) America(1.0) society(1.0) .(0.0) 
+Instead(0.0) of(0.0) doing(0.0) the(0.0) right(0.0) thing(0.0) by(0.0) permanently(0.0) lowering(1.0) student(0.0) loan(0.0) interest(0.0) rates(0.0) ,(0.0) the(0.0) Republicans(1.0) have(1.0) once(1.0) again(1.0) decided(1.0) 
+to(1.0) do(1.0) things(1.0) the(1.0) wrong(1.0) way(1.0) .(1.0) The(1.0) Republicans(1.0) just(1.0) do(1.0) n't(1.0) get(1.0) it(1.0) .(1.0) Oppose(1.0) this(1.0) rule(1.0) and(1.0) the(1.0) 
+underlying(1.0) bill(1.0) .(1.0) 
+
+
+----- below are rationale words -----
+
+opposition	rule	bill	
+solution	to	address	impending	
+rhetoric	Republicans	do	not	want	the	American	economy	more	competitive	.	If	they	did	,	they	would	not	
+have	introduced	law	
+
+college	
+
+Education	poverty	
+middle	backbone	America	society	
+lowering	Republicans	have	once	again	decided	
+to	do	things	the	wrong	way	.	The	Republicans	just	do	n't	get	it	.	Oppose	this	rule	and	the	
+underlying	bill	.	
+
+reads % = 0.2857142857142857

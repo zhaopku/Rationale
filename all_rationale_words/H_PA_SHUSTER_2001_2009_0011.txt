@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) the(0.0) American(0.0) people(0.0) are(0.0) hurting(0.0) and(0.0) they're(0.0) asking(0.0) ,(0.0) Where(0.0) are(0.0) the(0.0) jobs(0.0) ?(0.0) The(0.0) Obama(1.0) administration(1.0) and(0.0) congressional(0.0) 
+Democrats(1.0) promised(1.0) that(1.0) the(0.0) stimulus(1.0) --(0.0) the(0.0) trillion-dollar(1.0) stimulus(1.0) --(0.0) would(0.0) create(0.0) jobs(1.0) immediately(0.0) .(0.0) Last(0.0) month(0.0) alone(0.0) ,(0.0) we(0.0) 
+lost(0.0) almost(0.0) half(0.0) a(0.0) million(0.0) jobs(1.0) and(0.0) unemployment(1.0) now(0.0) stands(0.0) at(0.0) 9.5(0.0) percent(0.0) .(0.0) It(0.0) 's(0.0) clear(0.0) the(0.0) Democrats(1.0) '(0.0) 
+trillion-dollar(1.0) stimulus(1.0) package(0.0) isn't(0.0) working(0.0) ,(0.0) and(0.0) their(0.0) response(0.0) is(0.0) to(0.0) increase(1.0) spending(1.0) in(0.0) the(0.0) appropriations(1.0) process(0.0) by(0.0) 12(0.0) percent(0.0) 
+,(0.0) pass(0.0) a(0.0) national(0.0) energy(1.0) tax(1.0) that's(1.0) going(0.0) to(0.0) result(0.0) in(0.0) increased(1.0) energy(1.0) costs(1.0) ,(0.0) less(0.0) competitiveness(1.0) for(0.0) American(0.0) jobs(1.0) 
+,(0.0) and(0.0) drive(0.0) jobs(0.0) from(0.0) American(0.0) shores(0.0) .(0.0) Now(0.0) they(0.0) 're(0.0) trying(0.0) to(0.0) ram(0.0) down(0.0) a(0.0) health(1.0) care(0.0) plan(1.0) that(0.0) 
+'s(0.0) going(0.0) to(0.0) raise(1.0) taxes(1.0) on(0.0) American(0.0) business(0.0) ,(0.0) cost(1.0) jobs(0.0) ,(0.0) and(0.0) force(1.0) people(0.0) into(0.0) a(0.0) government-run(1.0) health(1.0) care(0.0) 
+plan(1.0) .(0.0) We(0.0) need(0.0) to(0.0) focus(0.0) on(0.0) creating(0.0) jobs(0.0) --(0.0) and(0.0) you(0.0) do(0.0) that(0.0) by(0.0) holding(0.0) the(0.0) line(0.0) on(0.0) taxes(1.0) 
+,(0.0) controlling(0.0) spending(1.0) ,(0.0) and(0.0) reforming(1.0) health(1.0) care(1.0) .(0.0) Let's(0.0) focus(0.0) on(0.0) creating(0.0) jobs(0.0) and(0.0) answering(0.0) the(0.0) American(0.0) people(0.0) 's(0.0) 
+cry(0.0) for(0.0) ,(0.0) Where(0.0) are(0.0) the(0.0) jobs(1.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+Obama	administration	
+Democrats	promised	that	stimulus	trillion-dollar	stimulus	jobs	
+jobs	unemployment	Democrats	
+trillion-dollar	stimulus	increase	spending	appropriations	
+energy	tax	that's	increased	energy	costs	competitiveness	jobs	
+health	plan	
+raise	taxes	cost	force	government-run	health	
+plan	taxes	
+spending	reforming	health	care	
+jobs	
+
+reads % = 0.21164021164021163

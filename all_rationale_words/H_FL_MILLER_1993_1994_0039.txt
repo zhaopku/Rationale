@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) to(0.0) express(0.0) my(0.0) dismay(0.0) over(0.0) the(0.0) current(0.0) United(0.0) States(0.0) policy(1.0) toward(0.0) Haiti(1.0) .(0.0) It(0.0) appears(0.0) that(0.0) 
+for(0.0) the(0.0) first(0.0) time(0.0) in(0.0) U.S.(0.0) history(0.0) pure(0.0) ineptness(1.0) on(0.0) the(0.0) part(0.0) of(0.0) the(0.0) administration(1.0) is(0.0) being(0.0) used(0.0) as(0.0) the(0.0) 
+rationale(1.0) for(0.0) sending(0.0) young(0.0) marines(1.0) into(0.0) harm(1.0) 's(0.0) way(0.0) .(0.0) Last(0.0) week(0.0) ,(0.0) the(0.0) policy(1.0) du(0.0) jour(0.0) approach(0.0) to(0.0) foreign(1.0) 
+policy(1.0) took(0.0) on(0.0) new(0.0) meaning(0.0) when(0.0) we(0.0) literally(0.0) announced(0.0) three(0.0) separate(0.0) Haiti(1.0) policies(1.0) in(0.0) 3(0.0) days(0.0) .(0.0) Our(0.0) cruel(1.0) sanctions(1.0) 
+policy(1.0) has(0.0) not(0.0) worked(0.0) --(0.0) in(0.0) fact(0.0) it(0.0) intensified(1.0) the(0.0) refugee(1.0) crisis(1.0) .(0.0) Our(0.0) promise(1.0) to(0.0) give(0.0) asylum(1.0) to(0.0) Haitians(1.0) 
+did(0.0) not(0.0) work(0.0) --(0.0) it(0.0) only(0.0) sent(0.0) more(0.0) Haitians(1.0) onto(0.0) those(0.0) overcrowded(1.0) ,(0.0) dangerous(1.0) boats(0.0) .(0.0) And(0.0) the(0.0) American(0.0) people(0.0) 
+were(0.0) forced(0.0) to(0.0) suffer(0.0) the(0.0) indignity(1.0) of(0.0) the(0.0) Panamanian(1.0) President(0.0) telling(0.0) Bill(0.0) Clinton(1.0) no(0.0) Haitians(1.0) would(0.0) be(0.0) allowed(0.0) in(0.0) Panama(1.0) 
+.(0.0) This(0.0) refugee(1.0) crisis(1.0) was(0.0) created(0.0) by(0.0) the(0.0) pure(0.0) bumbling(0.0) of(0.0) Bill(1.0) Clinton(1.0) 's(0.0) foreign(0.0) policy(0.0) team(0.0) ,(0.0) and(0.0) now(0.0) 
+that(0.0) crisis(1.0) is(0.0) being(0.0) used(0.0) as(0.0) a(0.0) rationale(1.0) for(0.0) invasion(1.0) .(0.0) But(0.0) before(0.0) they(0.0) think(0.0) that(0.0) invasion(1.0) will(0.0) solve(0.0) their(0.0) 
+problems(0.0) ,(0.0) let(0.0) us(0.0) remember(0.0) how(0.0) the(0.0) Clinton(1.0) administration(1.0) 's(0.0) ineptness(1.0) led(0.0) to(0.0) loss(0.0) of(0.0) life(0.0) in(0.0) Somalia(1.0) 10(0.0) months(0.0) 
+after(0.0) the(0.0) invasion(1.0) .(0.0) I(0.0) do(0.0) not(0.0) believe(0.0) Bill(1.0) Clinton(1.0) should(0.0) attempt(0.0) to(0.0) solve(0.0) his(0.0) public(1.0) relations(0.0) problems(0.0) on(0.0) the(0.0) 
+backs(1.0) of(0.0) U.S.(0.0) Marines(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+policy	Haiti	
+ineptness	administration	
+rationale	marines	harm	policy	foreign	
+policy	Haiti	policies	cruel	sanctions	
+policy	intensified	refugee	crisis	promise	asylum	Haitians	
+Haitians	overcrowded	dangerous	
+indignity	Panamanian	Clinton	Haitians	Panama	
+refugee	crisis	Bill	Clinton	
+crisis	rationale	invasion	invasion	
+Clinton	administration	ineptness	Somalia	
+invasion	Bill	Clinton	public	
+backs	
+
+reads % = 0.20353982300884957

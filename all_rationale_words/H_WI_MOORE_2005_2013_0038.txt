@@ -1,0 +1,40 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) apparently(0.0) ,(0.0) it(0.0) was(0.0) not(0.0) enough(0.0) for(0.0) the(0.0) House(0.0) majority(1.0) to(0.0) decimate(1.0) the(0.0) nutrition(1.0) title(0.0) the(0.0) last(0.0) time(0.0) we(0.0) 
+considered(0.0) the(0.0) farm(0.0) bill(0.0) a(1.0) few(0.0) weeks(0.0) ago(0.0) with(0.0) the(0.0) $(0.0) 20(0.0) billion(1.0) cut(1.0) .(0.0) When(0.0) they(0.0) could(0.0) n't(0.0) get(0.0) 
+the(0.0) majority(1.0) of(0.0) Republicans(1.0) to(1.0) vote(1.0) for(1.0) it(1.0) because(1.0) it(1.0) just(1.0) was(1.0) n't(1.0) cut(1.0) enough(1.0) ,(1.0) they(1.0) just(1.0) eliminated(1.0) the(0.0) 
+entire(0.0) nutrition(1.0) title(0.0) --(0.0) the(0.0) Supplemental(1.0) Nutrition(1.0) Assistance(1.0) Program(0.0) ,(0.0) the(0.0) Emergency(1.0) Food(0.0) Assistance(1.0) Program(0.0) ,(0.0) the(0.0) Commodity(1.0) Supplemental(0.0) Food(1.0) 
+Program(0.0) .(0.0) These(0.0) are(0.0) fancy(0.0) names(0.0) and(0.0) acronyms(0.0) for(0.0) the(0.0) programs(0.0) that(0.0) allow(0.0) seniors(1.0) ,(0.0) young(0.0) children(0.0) ,(0.0) and(0.0) the(0.0) 
+disabled(0.0) to(0.0) stock(0.0) their(0.0) food(1.0) pantries(1.0) .(0.0) I(0.0) ca(0.0) n't(0.0) wrap(0.0) my(0.0) mind(0.0) around(0.0) the(0.0) shameful(1.0) nature(0.0) of(0.0) this(0.0) moment(0.0) 
+,(0.0) a(0.0) moment(0.0) when(0.0) we(0.0) are(0.0) moving(0.0) forward(0.0) with(0.0) the(0.0) farm(0.0) bill(0.0) and(0.0) leaving(0.0) behind(0.0) 47(0.0) million(0.0) of(0.0) our(0.0) Nation(1.0) 
+'s(0.0) hungry(1.0) .(0.0) Now(0.0) ,(0.0) it(0.0) has(0.0) been(0.0) asserted(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) that(0.0) the(0.0) House(0.0) leadership(1.0) is(0.0) not(0.0) attempting(0.0) 
+to(0.0) starve(1.0) vulnerable(1.0) families(1.0) but(0.0) merely(0.0) wants(0.0) to(0.0) expedite(1.0) the(0.0) passage(1.0) of(0.0) the(0.0) all-important(0.0) agricultural(1.0) components(0.0) of(0.0) the(0.0) bill(0.0) by(0.0) 
+removing(0.0) the(0.0) extraneous(1.0) nutrition(1.0) title(0.0) .(0.0) Since(0.0) 1965(0.0) ,(0.0) we(0.0) have(0.0) reauthorized(1.0) our(0.0) antihunger(0.0) programs(1.0) alongside(0.0) our(0.0) agriculture-(0.0) related(0.0) policies(1.0) 
+in(0.0) a(0.0) marriage(1.0) ;(0.0) but(0.0) at(0.0) this(0.0) moment(0.0) ,(0.0) the(0.0) House(0.0) has(0.0) filed(0.0) for(0.0) divorce(1.0) ,(0.0) and(0.0) the(0.0) primary(1.0) breadwinner(1.0) 
+is(0.0) abandoning(1.0) two-thirds(0.0) of(0.0) the(0.0) family(0.0) ,(0.0) consisting(0.0) of(0.0) children(0.0) --(0.0) young(0.0) ,(0.0) babies(1.0) --(0.0) the(0.0) elderly(1.0) ,(0.0) and(0.0) the(0.0) 
+disabled(0.0) .(0.0) H.R(0.0) .(0.0) 2642(0.0) is(0.0) a(0.0) deadbeat(1.0) majority(0.0) 's(0.0) proposal(1.0) to(0.0) avoid(1.0) child(0.0) support(0.0) ,(0.0) elderly(1.0) subsidies(1.0) ,(0.0) and(0.0) 
+food(1.0) assistance(0.0) to(0.0) the(0.0) disabled(0.0) of(0.0) 47(0.0) million(0.0) people(0.0) .(0.0) What(0.0) kind(0.0) of(0.0) message(0.0) are(0.0) we(0.0) sending(0.0) with(0.0) the(0.0) passage(1.0) 
+of(0.0) this(0.0) bill(1.0) ?(1.0) We(0.0) are(0.0) telling(0.0) our(0.0) Nation(1.0) 's(0.0) hungry(1.0) that(0.0) Congress(0.0) is(0.0) willing(0.0) to(0.0) turn(0.0) a(0.0) blind(0.0) eye(0.0) 
+and(0.0) that(0.0) food(1.0) is(0.0) an(0.0) extraneous(0.0) concern(0.0) of(0.0) the(0.0) Congress(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+majority	decimate	nutrition	
+a	billion	cut	
+majority	Republicans	to	vote	for	it	because	it	just	was	n't	cut	enough	,	they	just	eliminated	
+nutrition	Supplemental	Nutrition	Assistance	Emergency	Assistance	Commodity	Food	
+seniors	
+food	pantries	shameful	
+Nation	
+hungry	Speaker	leadership	
+starve	vulnerable	families	expedite	passage	agricultural	
+extraneous	nutrition	reauthorized	programs	policies	
+marriage	divorce	primary	breadwinner	
+abandoning	babies	elderly	
+deadbeat	proposal	avoid	elderly	subsidies	
+food	passage	
+bill	?	Nation	hungry	
+food	
+
+reads % = 0.22115384615384615

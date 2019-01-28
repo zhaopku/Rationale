@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) stand(0.0) in(0.0) support(0.0) of(0.0) H.R(0.0) .(0.0) 2722(0.0) because(0.0) I(0.0) recognize(0.0) the(0.0) importance(0.0) of(0.0) the(0.0) Integrated(0.0) Deepwater(1.0) Systems(0.0) 
+((0.0) Deepwater(1.0) )(0.0) program(1.0) to(0.0) our(0.0) National(0.0) security(0.0) .(0.0) We(0.0) need(0.0) to(0.0) replace(0.0) our(0.0) aging(1.0) ships(0.0) and(0.0) aircraft(0.0) that(0.0) operate(0.0) 
+offshore(1.0) to(0.0) protect(0.0) our(0.0) borders(1.0) .(0.0) While(0.0) this(0.0) program(1.0) has(0.0) come(0.0) under(0.0) much(0.0) scrutiny(1.0) for(0.0) being(0.0) more(0.0) expensive(1.0) than(0.0) previously(0.0) 
+thought(0.0) and(0.0) taking(0.0) more(0.0) time(0.0) to(0.0) complete(0.0) ,(0.0) it(0.0) is(0.0) still(0.0) a(0.0) worthwhile(0.0) endeavor(0.0) .(0.0) Everyday(0.0) ,(0.0) valiant(0.0) members(0.0) of(0.0) 
+the(0.0) U.S.(0.0) Coast(0.0) Guard(0.0) risk(0.0) their(0.0) lives(0.0) to(0.0) rescue(0.0) and(0.0) protect(0.0) Americans(1.0) .(0.0) The(0.0) continued(0.0) success(0.0) of(0.0) this(0.0) mission(1.0) is(0.0) 
+dependent(0.0) upon(0.0) Coast(1.0) Guard(0.0) assets(0.0) which(0.0) are(0.0) aging(1.0) by(0.0) the(0.0) day(0.0) .(0.0) In(0.0) the(0.0) mid-1990s(1.0) ,(0.0) the(0.0) Coast(1.0) Guard(0.0) decided(0.0) 
+to(0.0) replace(0.0) all(0.0) of(0.0) these(0.0) assets(0.0) in(0.0) a(0.0) single(0.0) procurement(1.0) program(0.0) --(0.0) the(0.0) Integrated(0.0) Deepwater(1.0) System(0.0) program(1.0) ,(0.0) typically(0.0) referred(0.0) 
+to(0.0) as(0.0) Deepwater(1.0) .(0.0) The(0.0) Coast(1.0) Guard(0.0) 's(0.0) plan(0.0) was(0.0) to(0.0) set(0.0) forth(0.0) broad(0.0) mission(0.0) requirements(0.0) and(0.0) then(0.0) rely(0.0) on(0.0) 
+private(0.0) contractors(0.0) to(0.0) determine(0.0) the(0.0) mix(0.0) of(0.0) assets(0.0) necessary(0.0) to(0.0) carry(0.0) out(0.0) those(0.0) missions(0.0) .(0.0) Ultimately(0.0) ,(0.0) the(0.0) contract(1.0) went(0.0) 
+to(0.0) ``(0.0) Integrated(0.0) Coast(0.0) Guard(0.0) System(0.0) ''(0.0) ((0.0) ICGS(1.0) )(0.0) ,(0.0) a(0.0) consortium(0.0) headed(0.0) by(0.0) Lockheed(0.0) Martin(0.0) and(0.0) Northrop(0.0) Grumman(0.0) 
+.(0.0) Deepwater(0.0) was(0.0) intended(0.0) to(0.0) replace(0.0) or(0.0) modernize(1.0) the(0.0) approximately(0.0) 90(0.0) ships(0.0) and(0.0) 200(0.0) Coast(0.0) Guard(0.0) aircraft(0.0) used(0.0) for(0.0) missions(0.0) 
+taking(0.0) place(0.0) more(0.0) than(0.0) 50(0.0) miles(0.0) offshore(0.0) .(0.0) The(0.0) primary(0.0) missions(0.0) carried(0.0) out(0.0) in(0.0) this(0.0) ``(0.0) deepwater(0.0) ''(0.0) zone(0.0) are(0.0) 
+drug(0.0) and(0.0) migrant(1.0) interdiction(0.0) operations(0.0) ,(0.0) search(0.0) and(0.0) rescue(0.0) ,(0.0) homeland(1.0) security(0.0) ,(0.0) and(0.0) fisheries(1.0) law(0.0) enforcement(1.0) .(0.0) Unfortunately(0.0) ,(0.0) 
+this(0.0) program(1.0) has(0.0) been(0.0) beset(0.0) with(0.0) problems(0.0) .(0.0) One(0.0) part(0.0) of(0.0) the(0.0) ICGS(1.0) 's(0.0) Deepwater(1.0) plan(0.0) was(0.0) to(0.0) lengthen(0.0) the(0.0) 
+Coast(0.0) Guard(0.0) 's(0.0) existing(0.0) 110(0.0) foot(0.0) patrol(0.0) boats(0.0) by(0.0) 113(0.0) feet(0.0) .(0.0) Shortly(0.0) after(0.0) the(0.0) first(0.0) extended(0.0) boat(0.0) was(0.0) delivered(0.0) 
+,(0.0) cracks(0.0) were(0.0) found(0.0) in(0.0) its(0.0) hull(0.0) .(0.0) The(0.0) Coast(1.0) Guard(0.0) dry-(0.0) docked(0.0) the(0.0) boats(0.0) in(0.0) December(0.0) 2006(0.0) due(0.0) to(0.0) 
+the(0.0) lack(0.0) of(0.0) operational(0.0) capacity(0.0) in(0.0) heavy(0.0) seas(0.0) .(0.0) On(0.0) February(0.0) 14(0.0) ,(0.0) 2007(0.0) ,(0.0) the(0.0) Department(0.0) of(0.0) Homeland(0.0) Security(0.0) 
+Office(0.0) of(0.0) Inspector(0.0) General(0.0) released(0.0) a(0.0) report(0.0) concerning(0.0) whistleblower(1.0) allegations(1.0) made(0.0) against(0.0) the(0.0) 123-foot(0.0) Coast(0.0) Guard(0.0) cutter(0.0) program(0.0) .(0.0) The(0.0) 
+report(0.0) found(0.0) that(0.0) aspects(0.0) of(0.0) the(0.0) C4ISR(0.0) ((0.0) Command(0.0) ,(0.0) Control(0.0) ,(0.0) Communications(0.0) ,(0.0) Computers(0.0) ,(0.0) Intelligence(0.0) ,(0.0) Surveillance(0.0) ,(0.0) 
+and(0.0) Reconnaissance(0.0) )(0.0) equipment(0.0) installed(0.0) aboard(0.0) the(0.0) 123-(0.0) foot(0.0) cutters(0.0) do(0.0) not(0.0) meet(0.0) the(0.0) design(0.0) standards(0.0) set(0.0) forth(0.0) in(0.0) the(0.0) 
+Deepwater(0.0) contract(0.0) .(0.0) Specifically(0.0) ,(0.0) the(0.0) contractor(0.0) did(0.0) not(0.0) install(0.0) low(0.0) smoke(0.0) cabling(0.0) aboard(0.0) the(0.0) 123-foot(0.0) cutter(0.0) ,(0.0) despite(0.0) a(0.0) 
+Deepwater(1.0) contract(1.0) requirement(0.0) .(0.0) The(0.0) intent(0.0) of(0.0) this(0.0) requirement(1.0) was(0.0) to(0.0) eliminate(0.0) the(0.0) polyvinyl(0.0) chloride(0.0) jacket(0.0) encasing(0.0) the(0.0) cables(0.0) ,(0.0) 
+which(0.0) for(0.0) years(0.0) produced(0.0) toxic(1.0) fumes(1.0) and(0.0) dense(0.0) smoke(0.0) during(0.0) shipboard(0.0) fire(0.0) .(0.0) Additionally(0.0) ,(0.0) the(0.0) contractor(1.0) installed(0.0) C4ISR(0.0) topside(0.0) 
+equipment(0.0) aboard(0.0) both(0.0) the(0.0) 123-foot(0.0) cutters(0.0) and(0.0) prosecutors(0.0) ,(0.0) which(0.0) either(0.0) did(0.0) not(0.0) comply(0.0) or(0.0) was(0.0) not(0.0) tested(0.0) to(0.0) ensure(0.0) 
+compliance(0.0) with(0.0) specific(0.0) environmental(1.0) performance(0.0) requirements(0.0) outlined(0.0) in(0.0) the(0.0) Deepwater(1.0) contract(1.0) .(0.0) On(0.0) April(0.0) 17(0.0) ,(0.0) 2007(0.0) ,(0.0) the(0.0) 
+
+
+----- below are rationale words -----
+
+Deepwater	
+Deepwater	program	aging	
+offshore	borders	program	scrutiny	expensive	
+
+Americans	mission	
+Coast	aging	mid-1990s	Coast	
+procurement	Deepwater	program	
+Deepwater	Coast	
+contract	
+ICGS	
+modernize	
+
+migrant	homeland	fisheries	enforcement	
+program	ICGS	Deepwater	
+
+Coast	
+
+whistleblower	allegations	
+
+
+
+Deepwater	contract	requirement	
+toxic	fumes	contractor	
+
+environmental	Deepwater	contract	
+
+reads % = 0.084

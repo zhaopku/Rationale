@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) we(0.0) have(0.0) a(0.0) decision(0.0) today(0.0) either(0.0) to(0.0) vote(1.0) for(0.0) the(0.0) political(1.0) solution(1.0) to(0.0) this(0.0) problem(0.0) that(0.0) has(0.0) been(0.0) 
+offered(0.0) by(0.0) the(0.0) majority(1.0) ,(0.0) where(0.0) they(0.0) know(0.0) ,(0.0) and(0.0) it(0.0) is(0.0) guaranteed(0.0) ,(0.0) it(0.0) would(0.0) be(0.0) vetoed(1.0) even(0.0) though(0.0) 
+they(0.0) do(0.0) not(0.0) promise(0.0) relief(1.0) for(0.0) another(0.0) 10(0.0) years(0.0) ,(0.0) or(0.0) to(0.0) vote(1.0) for(0.0) the(0.0) substitute(1.0) that(0.0) gives(0.0) immediate(0.0) relief(1.0) 
+and(0.0) they(0.0) know(0.0) ,(0.0) as(0.0) I(0.0) do(0.0) ,(0.0) that(0.0) it(0.0) will(0.0) be(0.0) signed(0.0) into(0.0) law(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) 
+yield(0.0) 3(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Maryland(1.0) ((0.0) Mr.(0.0) Cardin(1.0) )(0.0) ,(0.0) the(0.0) senior(0.0) member(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) 
+Ways(0.0) and(0.0) Means(0.0) ,(0.0) who(0.0) would(0.0) explain(0.0) more(0.0) of(0.0) this(0.0) .(0.0) ((0.0) Mr.(0.0) CARDIN(1.0) asked(0.0) and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) 
+revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) )(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	vote	political	solution	
+majority	vetoed	
+relief	vote	substitute	relief	
+law	Speaker	
+Maryland	Cardin	
+CARDIN	
+
+
+reads % = 0.1171875

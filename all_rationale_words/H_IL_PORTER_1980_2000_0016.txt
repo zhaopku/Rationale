@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) yield(0.0) 2\1/2\(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) ((0.0) Mr.(0.0) Bonilla(1.0) )(0.0) ,(0.0) a(0.0) senior(0.0) member(0.0) of(0.0) the(0.0) 
+subcommittee(0.0) .(0.0) ((0.0) Mr.(0.0) BONILLA(1.0) asked(0.0) and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) )(0.0) 
+
+
+----- below are rationale words -----
+
+Bonilla	
+BONILLA	
+
+reads % = 0.05128205128205128

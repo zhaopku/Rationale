@@ -1,0 +1,10 @@
+This is from a Democrat
+----- below is the original text -----
+Reclaiming(1.0) my(0.0) time(0.0) ,(0.0) we(0.0) are(0.0) not(0.0) talking(0.0) on(0.0) emergency(1.0) basis(0.0) here(0.0) .(0.0) We(0.0) are(0.0) talking(0.0) about(0.0) --(0.0) --(0.0) 
+
+
+----- below are rationale words -----
+
+emergency	
+
+reads % = 0.05263157894736842

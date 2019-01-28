@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) will(0.0) the(0.0) gentleman(0.0) yield(0.0) ?(0.0) Chairman(0.0) ,(0.0) it(0.0) is(0.0) the(0.0) gentleman(0.0) 's(0.0) district(0.0) that(0.0) we(0.0) are(0.0) talking(0.0) about(0.0) ,(0.0) 
+the(0.0) east(0.0) Mojave(0.0) Desert(0.0) area(0.0) .(0.0) I(0.0) drive(0.0) through(0.0) that(0.0) area(0.0) many(0.0) times(0.0) a(0.0) year(0.0) .(0.0) I(0.0) have(0.0) rarely(0.0) seen(0.0) 
+among(0.0) the(0.0) hundreds(0.0) of(0.0) thousands(0.0) of(0.0) people(0.0) that(0.0) travel(0.0) through(0.0) on(0.0) the(0.0) highways(1.0) of(0.0) the(0.0) east(0.0) Mojave(0.0) Desert(0.0) area(0.0) ,(0.0) 
+I(0.0) have(0.0) rarely(0.0) seen(0.0) them(0.0) stop(0.0) and(0.0) get(0.0) off(0.0) the(0.0) road(0.0) and(0.0) just(0.0) view(0.0) the(0.0) beautiful(0.0) natural(0.0) scenery(0.0) .(0.0) They(0.0) 
+get(0.0) off(0.0) the(0.0) road(0.0) to(0.0) do(0.0) recreational(1.0) things(0.0) ,(0.0) to(0.0) hunt(0.0) ,(0.0) to(0.0) do(0.0) other(0.0) recreational(0.0) activities(0.0) in(0.0) the(0.0) desert(0.0) 
+.(0.0) If(0.0) we(0.0) remove(0.0) that(0.0) use(0.0) and(0.0) restrict(1.0) that(0.0) area(0.0) to(0.0) where(0.0) there(0.0) is(0.0) no(0.0) more(0.0) recreational(1.0) activity(0.0) ,(0.0) we(0.0) 
+will(0.0) essentially(1.0) close(0.0) down(0.0) the(0.0) desert(0.0) to(0.0) the(0.0) enjoyment(0.0) of(0.0) the(0.0) people(0.0) .(0.0) I(0.0) think(0.0) hunting(0.0) is(0.0) an(0.0) absolute(0.0) must(0.0) 
+,(0.0) if(0.0) we(0.0) are(0.0) going(0.0) to(0.0) really(0.0) make(0.0) that(0.0) useful(0.0) to(0.0) the(0.0) people(0.0) rather(0.0) than(0.0) simply(0.0) isolate(0.0) it(0.0) and(0.0) say(0.0) 
+they(0.0) can(0.0) no(0.0) longer(0.0) use(0.0) that(0.0) beautiful(0.0) land(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+highways	
+
+recreational	
+restrict	recreational	
+essentially	
+
+
+
+reads % = 0.029411764705882353

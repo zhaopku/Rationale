@@ -1,0 +1,10 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) in(0.0) strong(0.0) support(0.0) of(0.0) the(0.0) Safe(1.0) Drinking(1.0) Water(1.0) Act(1.0) reform(1.0) and(0.0) urge(0.0) its(0.0) passage(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Safe	Drinking	Water	Act	reform	passage	
+
+reads % = 0.3157894736842105

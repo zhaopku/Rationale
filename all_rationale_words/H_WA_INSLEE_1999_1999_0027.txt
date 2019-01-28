@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) will(0.0) the(0.0) gentleman(0.0) yield(0.0) ?(0.0) Let(0.0) me(0.0) just(0.0) ask(0.0) the(0.0) chairman(0.0) ,(0.0) does(0.0) he(0.0) believe(0.0) it(0.0) would(0.0) be(0.0) appropriate(0.0) 
+in(0.0) this(0.0) language(0.0) for(0.0) our(0.0) State(1.0) Department(0.0) or(0.0) other(0.0) agencies(0.0) of(0.0) the(0.0) government(0.0) to(0.0) continue(0.0) a(0.0) dialogue(0.0) with(0.0) the(0.0) developing(0.0) 
+nations(1.0) to(0.0) try(0.0) to(0.0) get(0.0) them(0.0) to(0.0) come(0.0) into(0.0) the(0.0) umbrella(0.0) of(0.0) the(0.0) Kyoto(0.0) Protocol(0.0) ,(0.0) to(0.0) try(0.0) to(0.0) get(0.0) 
+them(0.0) to(0.0) agree(0.0) to(0.0) join(0.0) us(0.0) in(0.0) some(0.0) of(0.0) the(0.0) standards(0.0) which(0.0) many(0.0) of(0.0) us(0.0) want(0.0) to(0.0) be(0.0) implemented(0.0) ;(0.0) 
+what(0.0) the(0.0) gentleman(0.0) believes(0.0) is(0.0) an(0.0) appropriate(0.0) expenditure(1.0) under(0.0) this(0.0) language(0.0) ?(0.0) Because(0.0) that(0.0) is(0.0) our(0.0) concern(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+State	
+nations	
+
+expenditure	concern	
+
+reads % = 0.04040404040404041

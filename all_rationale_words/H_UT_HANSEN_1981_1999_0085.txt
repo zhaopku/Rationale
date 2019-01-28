@@ -1,0 +1,40 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) pass(0.0) the(0.0) bill(0.0) ((1.0) H.R(1.0) .(0.0) 348(0.0) )(0.0) to(0.0) authorize(0.0) the(0.0) construction(0.0) 
+of(0.0) a(0.0) monument(0.0) to(0.0) honor(0.0) those(0.0) who(0.0) have(0.0) served(0.0) the(0.0) Nation(0.0) 's(0.0) civil(0.0) defense(0.0) and(0.0) emergency(0.0) management(0.0) programs(0.0) .(0.0) The(0.0) 
+Clerk(0.0) read(0.0) as(0.0) follows(0.0) :(0.0) H.R(0.0) .(0.0) 348(0.0) Be(0.0) it(0.0) enacted(0.0) by(0.0) the(0.0) Senate(0.0) and(0.0) House(0.0) of(0.0) Representatives(0.0) of(0.0) the(0.0) 
+United(0.0) States(0.0) of(0.0) America(0.0) in(0.0) Congress(0.0) assembled(0.0) ,(0.0) SECTION(0.0) 1(0.0) .(0.0) AUTHORITY(0.0) .(0.0) ((0.0) a(0.0) )(0.0) Grant(0.0) of(0.0) Authority.(0.0) --(0.0) 
+The(0.0) United(0.0) States(0.0) National(0.0) Civil(0.0) Defense(0.0) Monument(0.0) Commission(0.0) ((0.0) in(0.0) this(0.0) Act(0.0) referred(0.0) to(0.0) as(0.0) the(0.0) ``(0.0) Commission(0.0) ''(0.0) )(0.0) 
+,(0.0) a(0.0) private(0.0) nonprofit(0.0) organization(0.0) organized(0.0) under(0.0) the(0.0) laws(0.0) of(0.0) the(0.0) State(0.0) of(0.0) Pennsylvania(1.0) ,(0.0) is(0.0) authorized(0.0) to(0.0) construct(0.0) a(0.0) 
+Monument(0.0) to(0.0) honor(0.0) those(0.0) who(0.0) have(0.0) served(0.0) the(0.0) Nation(0.0) 's(0.0) civil(0.0) defense(0.0) and(0.0) emergency(0.0) management(0.0) programs(0.0) .(0.0) ((0.0) b(0.0) )(0.0) 
+Expiration.(0.0) --(0.0) The(0.0) authority(0.0) granted(0.0) by(0.0) this(0.0) section(0.0) shall(0.0) expire(0.0) 7(0.0) years(0.0) after(0.0) the(0.0) date(0.0) of(0.0) the(0.0) enactment(0.0) of(0.0) this(0.0) 
+Act(0.0) ,(0.0) unless(0.0) before(0.0) the(0.0) expiration(0.0) of(0.0) such(0.0) 7-year(0.0) period(0.0) --(0.0) ((0.0) 1(0.0) )(0.0) the(0.0) approvals(0.0) required(0.0) by(0.0) sections(0.0) 2(0.0) 
+((0.0) a(0.0) )(0.0) and(0.0) ((0.0) b(0.0) )(0.0) have(0.0) been(0.0) obtained(0.0) ;(0.0) and(0.0) ((0.0) 2(0.0) )(0.0) the(0.0) construction(0.0) of(0.0) the(0.0) Monument(0.0) 
+has(0.0) begun(0.0) .(0.0) SEC(0.0) .(0.0) 2(0.0) .(0.0) SITE(0.0) AND(0.0) DESIGN(0.0) .(0.0) ((0.0) a(0.0) )(0.0) Site.(0.0) --(0.0) Subject(0.0) to(0.0) the(0.0) approval(0.0) 
+of(0.0) the(0.0) Director(0.0) of(0.0) the(0.0) Federal(0.0) Emergency(0.0) Management(0.0) Agency(0.0) ,(0.0) the(0.0) Commission(0.0) may(0.0) select(0.0) the(0.0) site(0.0) upon(0.0) which(0.0) the(0.0) Monument(0.0) 
+will(0.0) be(0.0) constructed(0.0) .(0.0) Such(0.0) site(0.0) shall(0.0) be(0.0) on(0.0) Federal(0.0) land(0.0) controlled(0.0) by(0.0) the(0.0) Federal(0.0) Emergency(0.0) Management(0.0) Agency(0.0) at(0.0) Emmitsburg(0.0) 
+,(0.0) Maryland(1.0) .(0.0) ((0.0) b(0.0) )(0.0) Design.(0.0) --(0.0) Subject(0.0) to(0.0) the(0.0) approval(0.0) of(0.0) the(0.0) Director(0.0) of(0.0) the(0.0) Federal(0.0) Emergency(0.0) Management(0.0) 
+Agency(0.0) ,(0.0) the(0.0) Commission(0.0) may(0.0) develop(0.0) the(0.0) design(0.0) of(0.0) the(0.0) Monument(0.0) .(0.0) SEC(0.0) .(0.0) 3(0.0) .(0.0) CONSTRUCTION(0.0) COSTS(0.0) .(0.0) The(0.0) 
+costs(0.0) of(0.0) constructing(0.0) the(0.0) Monument(0.0) shall(0.0) be(0.0) paid(0.0) out(0.0) of(0.0) contributions(0.0) to(0.0) the(0.0) Commission(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+(	H.R	
+
+
+
+
+Pennsylvania	
+
+
+
+
+
+
+
+Maryland	
+
+
+
+reads % = 0.012658227848101266

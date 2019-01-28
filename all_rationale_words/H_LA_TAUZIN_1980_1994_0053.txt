@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+Miller(1.0) 's(0.0) committee(0.0) .(0.0) I(0.0) would(0.0) love(0.0) to(0.0) have(0.0) served(0.0) on(0.0) this(0.0) committee(0.0) .(0.0) I(0.0) do(0.0) not(0.0) serve(0.0) on(0.0) this(0.0) committee(0.0) 
+.(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) this(0.0) committee(0.0) is(0.0) the(0.0) Committee(0.0) of(0.0) the(0.0) Whole(0.0) House(0.0) .(0.0) This(0.0) is(0.0) my(0.0) chance(0.0) to(0.0) get(0.0) 
+this(0.0) amendment(1.0) to(0.0) the(0.0) floor(0.0) and(0.0) get(0.0) it(0.0) debated(1.0) ,(0.0) and(0.0) I(0.0) would(0.0) like(0.0) to(0.0) have(0.0) a(0.0) full(0.0) debate(1.0) on(0.0) 
+it(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Chairman	
+amendment	debated	debate	
+
+
+reads % = 0.06349206349206349

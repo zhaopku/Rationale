@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) want(0.0) to(0.0) reiterate(0.0) a(0.0) correction(0.0) in(0.0) the(0.0) Record(0.0) .(0.0) Our(0.0) amendment(1.0) does(1.0) not(0.0) affect(0.0) current(0.0) local(0.0) zoning(0.0) 
+regulations(1.0) whatsoever(0.0) ,(0.0) nor(0.0) authority(0.0) whatsoever(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) yield(0.0) 3(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) [(0.0) 
+Mr.(0.0) Stenholm(1.0) ](0.0) .(0.0) ((0.0) Mr.(0.0) STENHOLM(1.0) asked(0.0) and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) )(0.0) 
+
+
+
+----- below are rationale words -----
+
+Chairman	amendment	does	
+regulations	Chairman	
+Stenholm	STENHOLM	
+
+
+reads % = 0.11475409836065574

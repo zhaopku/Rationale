@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+Postal(1.0) Service(1.0) hiked(0.0) its(0.0) first-class(0.0) postal(0.0) rates(0.0) ,(0.0) the(0.0) quasi-Federal(0.0) agency(0.0) is(0.0) again(0.0) set(0.0) to(0.0) increase(0.0) mail(0.0) costs(0.0) ,(0.0) this(0.0) time(0.0) 
+by(0.0) as(0.0) much(0.0) as(0.0) 25(0.0) to(0.0) 30(0.0) percent(0.0) .(0.0) The(0.0) hike(0.0) comes(0.0) in(0.0) response(0.0) to(0.0) the(0.0) agency(0.0) 's(0.0) projected(0.0) loss(0.0) 
+of(0.0) $(0.0) 2(0.0) to(0.0) $(0.0) 3(0.0) billion(1.0) this(0.0) year(0.0) and(0.0) a(0.0) report(0.0) from(0.0) its(0.0) own(0.0) Inspector(0.0) General(0.0) that(0.0) the(0.0) agency(0.0) 
+loses(0.0) approximately(0.0) $(0.0) 1.4(0.0) billion(1.0) per(0.0) year(0.0) in(0.0) waste(1.0) and(0.0) abuse(1.0) .(0.0) Charges(0.0) of(0.0) abuse(1.0) at(0.0) the(0.0) Post(1.0) Office(0.0) include(0.0) 
+$(0.0) 200(0.0) million(0.0) worth(0.0) of(0.0) lavish(1.0) executive(0.0) parties(0.0) ,(0.0) large-scale(1.0) junkets(1.0) ,(0.0) high-priced(1.0) publicity(1.0) campaigns(1.0) ,(0.0) and(0.0) generous(0.0) employee(0.0) bonuses(0.0) 
+.(0.0) The(0.0) agency(0.0) managed(0.0) to(0.0) rack(0.0) up(0.0) $(0.0) 9.3(0.0) billion(1.0) in(0.0) debt(1.0) by(0.0) the(0.0) end(0.0) of(0.0) fiscal(1.0) year(0.0) 2000(0.0) ,(0.0) 
+but(0.0) has(0.0) yet(0.0) to(0.0) put(0.0) in(0.0) place(0.0) a(0.0) repayment(0.0) program(0.0) for(0.0) that(0.0) debt(1.0) .(0.0) The(0.0) American(0.0) consumer(1.0) should(0.0) not(0.0) have(0.0) 
+to(0.0) pay(1.0) increased(0.0) mail(0.0) costs(1.0) to(0.0) repair(0.0) inefficiency(1.0) and(0.0) waste(1.0) at(0.0) the(0.0) Postal(1.0) Service(0.0) .(0.0) The(0.0) Postal(0.0) Service(0.0) gets(0.0) my(0.0) 
+porker(1.0) of(0.0) the(0.0) week(0.0) award(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Service	
+
+billion	
+billion	waste	abuse	abuse	Post	
+lavish	large-scale	junkets	high-priced	publicity	campaigns	
+billion	debt	fiscal	
+debt	consumer	
+pay	costs	inefficiency	waste	Postal	
+porker	
+
+reads % = 0.1437125748502994

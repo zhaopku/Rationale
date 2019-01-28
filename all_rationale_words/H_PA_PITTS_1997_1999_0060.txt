@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) George(0.0) Washington(1.0) ,(0.0) the(0.0) Father(0.0) of(0.0) our(0.0) Country(0.0) ,(0.0) spoke(0.0) constantly(0.0) about(0.0) the(0.0) importance(0.0) of(0.0) the(0.0) American(0.0) character(0.0) .(0.0) 
+Indeed(0.0) ,(0.0) his(0.0) farewell(0.0) address(0.0) to(0.0) the(0.0) Nation(1.0) focused(0.0) on(0.0) just(0.0) that(0.0) issue(0.0) .(0.0) George(0.0) Washington(1.0) wanted(0.0) to(0.0) leave(0.0) behind(0.0) 
+a(0.0) people(0.0) that(0.0) believed(0.0) in(0.0) the(0.0) experiment(0.0) of(0.0) self-government(1.0) that(0.0) existed(0.0) nowhere(0.0) else(0.0) in(0.0) the(0.0) world(0.0) ,(0.0) and(0.0) he(0.0) believed(0.0) 
+that(0.0) the(0.0) American(0.0) experiment(0.0) in(0.0) self-government(1.0) could(0.0) easily(0.0) slide(0.0) into(0.0) tyranny(1.0) if(0.0) Americans(1.0) were(0.0) not(0.0) jealous(0.0) of(0.0) their(0.0) liberties(1.0) and(0.0) 
+ever(0.0) vigilant(0.0) against(0.0) abuses(1.0) of(0.0) government(1.0) power(0.0) .(0.0) Our(0.0) Nation(1.0) was(0.0) born(0.0) in(0.0) rebellion(1.0) ,(0.0) after(0.0) all(0.0) ,(0.0) against(0.0) taxes(1.0) 
+which(0.0) people(0.0) thought(0.0) were(0.0) unjust(1.0) ,(0.0) and(0.0) tax(1.0) revolts(1.0) have(0.0) been(0.0) a(0.0) part(0.0) of(0.0) our(0.0) history(0.0) from(0.0) the(0.0) Whiskey(0.0) Rebellion(0.0) 
+in(0.0) 1794(0.0) to(0.0) Proposition(1.0) 13(0.0) in(0.0) California(1.0) in(0.0) 1978(1.0) .(0.0) In(0.0) recent(0.0) years(0.0) ,(0.0) more(0.0) and(0.0) more(0.0) of(0.0) my(0.0) liberal(1.0) 
+friends(0.0) have(0.0) taken(0.0) to(0.0) labeling(1.0) calls(0.0) for(0.0) lower(0.0) taxes(1.0) as(0.0) greed(1.0) and(0.0) irresponsible(1.0) .(0.0) But(0.0) to(0.0) Republicans(0.0) ,(1.0) government(1.0) taxation(1.0) 
+is(1.0) a(1.0) freedom(1.0) issue(0.0) .(0.0) The(0.0) question(0.0) ,(0.0) the(0.0) critical(0.0) question(0.0) ,(0.0) is(0.0) who(0.0) decides(0.0) what(0.0) to(0.0) do(0.0) with(0.0) the(0.0) 
+fruits(0.0) of(0.0) people(0.0) 's(0.0) labor(1.0) ,(0.0) our(0.0) government(1.0) masters(0.0) or(0.0) the(0.0) people(0.0) who(0.0) labor(1.0) to(0.0) produce(0.0) them(0.0) ?(0.0) Constituents(0.0) ,(0.0) 
+it(0.0) is(0.0) your(0.0) money(1.0) ,(0.0) not(0.0) Washington(1.0) 's(0.0) .(0.0) Return(0.0) it(0.0) before(0.0) they(0.0) spend(0.0) it(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Washington	
+Nation	Washington	
+self-government	
+self-government	tyranny	Americans	liberties	
+abuses	government	Nation	rebellion	taxes	
+unjust	tax	revolts	
+Proposition	California	1978	liberal	
+labeling	taxes	greed	irresponsible	,	government	taxation	
+is	a	freedom	
+labor	government	labor	
+money	Washington	
+
+reads % = 0.16129032258064516

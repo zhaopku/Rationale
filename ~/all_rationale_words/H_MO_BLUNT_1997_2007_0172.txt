@@ -1,0 +1,16 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) believe(1.0) the(0.0) quicker(1.0) we(0.0) can(0.0) get(0.0) House(0.0) action(0.0) ,(0.0) the(0.0) better(0.0) off(0.0) we(0.0) will(0.0) be(0.0) .(0.0) On(0.0) the(0.0) budget(0.0) resolution(0.0) 
+,(0.0) I(0.0) would(1.0) ask(0.0) my(0.0) friend(0.0) ,(0.0) I(0.0) understand(0.0) there(0.0) is(0.0) a(0.0) technical(0.0) reason(0.0) that(0.0) budget(0.0) resolution(0.0) may(0.0) have(0.0) to(0.0) 
+come(0.0) before(1.0) the(0.0) House(0.0) again(0.0) ,(0.0) and(0.0) maybe(0.0) the(0.0) Rules(0.0) Committee(0.0) is(0.0) even(0.0) meeting(0.0) on(0.0) that(0.0) right(1.0) now(0.0) .(0.0) Would(1.0) 
+you(0.0) explain(1.0) that(0.0) to(0.0) me(0.0) ?(1.0) 
+
+
+----- below are rationale words -----
+
+believe	quicker	
+would	
+before	right	Would	
+explain	?	
+
+reads % = 0.11940298507462686

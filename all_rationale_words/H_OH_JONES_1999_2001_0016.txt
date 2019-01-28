@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) as(0.0) my(0.0) colleagues(0.0) have(0.0) already(0.0) said(0.0) ,(0.0) we(0.0) can(0.0) not(0.0) get(0.0) over(0.0) it(0.0) .(0.0) Every(0.0) time(0.0) someone(0.0) raises(0.0) their(0.0) 
+voice(0.0) to(0.0) question(0.0) the(0.0) results(0.0) of(0.0) the(0.0) most(0.0) recent(0.0) election(1.0) ,(0.0) we(0.0) are(0.0) told(0.0) to(0.0) get(0.0) over(0.0) it(0.0) .(0.0) Well(0.0) 
+,(0.0) I(0.0) am(0.0) not(0.0) ready(0.0) to(0.0) get(0.0) over(0.0) it(0.0) ,(0.0) and(0.0) neither(0.0) are(0.0) millions(1.0) of(0.0) Americans(1.0) who(0.0) watched(0.0) with(0.0) horror(0.0) 
+as(0.0) the(0.0) votes(1.0) of(0.0) so(0.0) many(0.0) people(0.0) were(0.0) discounted(0.0) ,(0.0) and(0.0) the(0.0) Supreme(1.0) Court(0.0) that(0.0) we(0.0) had(0.0) every(0.0) reason(0.0) to(0.0) 
+hope(0.0) would(0.0) protect(0.0) the(0.0) rights(1.0) of(0.0) all(0.0) citizens(1.0) went(0.0) out(0.0) of(0.0) its(0.0) way(0.0) to(0.0) trample(1.0) on(0.0) those(0.0) rights(1.0) .(0.0) Mr.(0.0) 
+Speaker(1.0) ,(0.0) I(0.0) yield(0.0) to(0.0) my(0.0) colleague(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) the(0.0) great(0.0) State(0.0) of(0.0) New(1.0) Jersey(1.0) ((0.0) Mr.(0.0) Payne(1.0) 
+)(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+election	
+millions	Americans	
+votes	Supreme	
+rights	citizens	trample	rights	
+Speaker	New	Jersey	Payne	
+
+
+reads % = 0.10569105691056911

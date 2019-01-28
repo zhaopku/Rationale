@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) we(0.0) know(0.0) there(0.0) is(0.0) big(0.0) money(0.0) in(0.0) health(1.0) care(1.0) ,(0.0) but(0.0) this(0.0) deal(0.0) breaks(0.0) the(0.0) bank(0.0) .(0.0) U.S.(0.0) Healthcare(0.0) 
+is(0.0) merging(0.0) with(0.0) Aetna(1.0) ,(0.0) a(0.0) $(0.0) 9(0.0) billion(1.0) deal(1.0) that(0.0) they(0.0) say(0.0) will(0.0) make(0.0) the(0.0) company(0.0) lean(0.0) and(0.0) mean(0.0) 
+and(0.0) they(0.0) will(0.0) be(0.0) able(0.0) to(0.0) pass(0.0) on(0.0) huge(1.0) savings(1.0) to(0.0) consumers(1.0) .(0.0) Spare(0.0) me(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) .(0.0) I(0.0) 
+do(0.0) not(0.0) see(0.0) any(0.0) lean(0.0) and(0.0) mean(0.0) in(0.0) sight(0.0) .(0.0) What(0.0) I(0.0) see(0.0) is(0.0) fat(0.0) ,(0.0) fat(0.0) and(0.0) filthy(1.0) rich(1.0) 
+.(0.0) Check(0.0) this(0.0) out(0.0) .(0.0) The(0.0) new(0.0) chairman(0.0) ,(0.0) Len(0.0) Abramson(1.0) ,(0.0) will(0.0) make(0.0) $(0.0) 1(0.0) billion(1.0) ,(0.0) $(0.0) 1(0.0) 
+billion(1.0) in(0.0) cash(1.0) and(0.0) stocks(0.0) .(0.0) If(0.0) that(0.0) is(0.0) not(0.0) enough(0.0) to(0.0) irritate(0.0) your(0.0) gallbladder(1.0) ,(0.0) he(0.0) will(0.0) have(0.0) two(0.0) 
+copresidents(0.0) ,(0.0) and(0.0) they(0.0) will(0.0) make(0.0) millions(1.0) of(0.0) dollars(1.0) more(0.0) so(0.0) they(0.0) make(0.0) sure(0.0) the(0.0) company(0.0) is(0.0) lean(0.0) and(0.0) mean(0.0) 
+.(0.0) Beam(0.0) me(0.0) up(0.0) .(0.0) These(0.0) nickel(1.0) slicks(1.0) must(0.0) think(0.0) that(0.0) all(0.0) Americans(1.0) were(0.0) born(0.0) yesterday(0.0) .(0.0) The(0.0) truth(0.0) is(0.0) 
+these(0.0) big(0.0) fat(0.0) cats(0.0) are(0.0) simply(0.0) mean(0.0) ,(0.0) and(0.0) the(0.0) only(0.0) lean(0.0) out(0.0) there(0.0) will(0.0) be(0.0) the(0.0) downsized(1.0) laid-off(1.0) health(1.0) 
+care(0.0) workers(1.0) trying(0.0) to(0.0) make(0.0) a(0.0) mortgage(1.0) payment(0.0) .(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) any(0.0) more(0.0) of(0.0) this(0.0) ripoff(1.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+health	care	
+Aetna	billion	deal	
+huge	savings	consumers	Speaker	
+filthy	rich	
+Abramson	billion	
+billion	cash	gallbladder	
+millions	dollars	
+nickel	slicks	Americans	
+downsized	laid-off	health	
+workers	mortgage	ripoff	
+
+
+reads % = 0.13366336633663367

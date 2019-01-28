@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+Had(0.0) I(0.0) been(0.0) present(0.0) I(0.0) would(0.0) have(0.0) voted(0.0) ``(0.0) yea(0.0) ''(0.0) on(0.0) rollcall(1.0) vote(1.0) No(1.0) .(0.0) 601(0.0) on(0.0) passage(1.0) of(0.0) H.R(0.0) 
+.(0.0) 33(0.0) --(0.0) To(0.0) amend(1.0) the(0.0) Securities(0.0) Act(0.0) of(0.0) 1933(0.0) to(0.0) specify(0.0) when(0.0) certain(0.0) securities(0.0) issued(0.0) in(0.0) connection(0.0) with(0.0) church(1.0) 
+plans(0.0) are(0.0) treated(0.0) as(0.0) exempted(0.0) securities(0.0) for(0.0) purposes(0.0) of(0.0) that(0.0) Act(0.0) .(0.0) Additionally(0.0) ,(0.0) had(0.0) I(0.0) been(0.0) present(0.0) I(0.0) would(0.0) 
+have(0.0) voted(0.0) ``(0.0) yea(0.0) ''(0.0) on(0.0) rollcall(1.0) vote(1.0) No(1.0) .(0.0) 602(0.0) ,(0.0) on(0.0) approving(1.0) the(0.0) Journal(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+rollcall	vote	No	passage	
+amend	church	
+
+rollcall	vote	No	approving	
+
+reads % = 0.1282051282051282

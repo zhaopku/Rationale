@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) it(0.0) is(0.0) my(0.0) honor(0.0) to(0.0) yield(0.0) 4\1/2\(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) Jersey(1.0) ((0.0) Mr.(0.0) Smith(1.0) )(0.0) ,(0.0) 
+the(0.0) chairman(0.0) of(0.0) the(0.0) Subcommittee(0.0) on(0.0) International(0.0) Operations(0.0) and(0.0) Human(0.0) Rights(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Jersey	Smith	
+
+
+reads % = 0.06060606060606061

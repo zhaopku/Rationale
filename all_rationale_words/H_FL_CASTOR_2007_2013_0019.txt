@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) the(0.0) Republican(1.0) shutdown(1.0) is(1.0) a(1.0) disaster(1.0) for(1.0) families(1.0) across(1.0) America(1.0) and(1.0) this(1.0) great(1.0) country(1.0) ,(1.0) and(1.0) we(1.0) are(1.0) not(1.0) 
+fooled(1.0) by(1.0) this(1.0) political(1.0) gimmick(1.0) on(1.0) the(1.0) floor(1.0) today(1.0) .(1.0) It(1.0) is(0.0) a(0.0) gimmick(0.0) ;(0.0) it(0.0) is(0.0) a(0.0) gimmick(0.0) ;(0.0) 
+it(0.0) is(0.0) a(0.0) gimmick(0.0) .(0.0) The(0.0) Republican(1.0) position(1.0) in(1.0) this(1.0) Congress(1.0) ,(1.0) as(1.0) demonstrated(1.0) in(1.0) their(1.0) budget(1.0) ,(1.0) has(0.0) been(1.0) 
+to(0.0) slash(1.0) support(0.0) for(0.0) Head(0.0) Start(0.0) students(0.0) .(0.0) I(0.0) know(0.0) this(0.0) ;(0.0) Head(0.0) Start(0.0) parents(0.0) know(0.0) this(0.0) ;(0.0) Head(0.0) Start(0.0) 
+teachers(0.0) know(0.0) this(0.0) ;(0.0) and(0.0) our(0.0) communities(1.0) back(0.0) home(0.0) know(0.0) it(0.0) all(0.0) too(0.0) well(0.0) .(0.0) In(0.0) fact(0.0) ,(0.0) in(0.0) the(0.0) 
+House(0.0) Budget(1.0) Committee(0.0) just(0.0) this(0.0) past(0.0) March(0.0) ,(0.0) Democrats(0.0) offered(0.0) an(0.0) amendment(1.0) to(0.0) eliminate(1.0) the(0.0) severe(1.0) Republican(0.0) cuts(1.0) to(1.0) education(1.0) 
+and(1.0) Head(1.0) Start(1.0) students(0.0) and(0.0) to(0.0) stop(0.0) the(0.0) layoffs(1.0) of(0.0) teachers(0.0) .(0.0) Republicans(0.0) scoffed(1.0) ,(1.0) just(1.0) like(1.0) they(1.0) are(1.0) scoffing(1.0) 
+at(0.0) their(1.0) basic(1.0) responsibility(1.0) to(0.0) negotiate(1.0) and(0.0) pass(0.0) a(0.0) budget(1.0) and(0.0) keep(0.0) government(1.0) working(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) when(0.0) you(0.0) 
+shut(1.0) down(0.0) Head(0.0) Start(0.0) classrooms(0.0) ,(0.0) did(0.0) you(0.0) know(0.0) that(0.0) the(0.0) parents(0.0) of(0.0) these(0.0) students(0.0) may(0.0) not(0.0) be(0.0) able(0.0) to(0.0) 
+go(0.0) to(0.0) work(0.0) or(0.0) keep(0.0) their(0.0) jobs(0.0) ?(0.0) That(0.0) is(0.0) not(0.0) smart(0.0) .(0.0) Head(0.0) Start(0.0) keeps(0.0) parents(0.0) working(0.0) or(0.0) studying(0.0) 
+for(0.0) their(0.0) own(0.0) degree(0.0) so(0.0) they(0.0) can(0.0) move(0.0) out(0.0) of(0.0) poverty(1.0) into(0.0) the(0.0) middle(0.0) class(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Republican	shutdown	is	a	disaster	for	families	across	America	and	this	great	country	,	and	we	are	not	
+fooled	by	this	political	gimmick	on	the	floor	today	.	It	
+Republican	position	in	this	Congress	,	as	demonstrated	in	their	budget	,	been	
+slash	
+communities	
+Budget	amendment	eliminate	severe	cuts	to	education	
+and	Head	Start	layoffs	scoffed	,	just	like	they	are	scoffing	
+their	basic	responsibility	negotiate	budget	government	Speaker	
+shut	
+
+poverty	
+
+reads % = 0.3271889400921659

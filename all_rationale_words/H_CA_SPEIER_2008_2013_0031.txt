@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Today(0.0) ,(0.0) I(0.0) 'd(0.0) like(0.0) to(0.0) highlight(0.0) two(0.0) very(0.0) important(0.0) topics(0.0) :(0.0) real(0.0) justice(1.0) and(0.0) military(0.0) justice(1.0) .(0.0) As(0.0) a(0.0) recent(0.0) 
+case(0.0) of(0.0) sexual(1.0) abuse(0.0) illustrates(0.0) ,(0.0) they(0.0) are(0.0) far(0.0) from(0.0) one(0.0) in(0.0) the(0.0) same(0.0) .(0.0) Last(0.0) fall(0.0) ,(0.0) Lieutenant(0.0) Colonel(0.0) 
+James(1.0) Wilkerson(1.0) was(0.0) convicted(0.0) of(0.0) sexual(0.0) assault(0.0) by(0.0) a(0.0) military(0.0) jury(0.0) .(0.0) The(0.0) assault(0.0) took(0.0) place(0.0) in(0.0) Wilkerson(0.0) 's(0.0) own(0.0) 
+home(0.0) ,(0.0) as(0.0) his(0.0) wife(0.0) and(0.0) child(0.0) slept(0.0) upstairs(0.0) .(0.0) The(0.0) all-male(1.0) jury(0.0) --(0.0) four(0.0) colonels(0.0) and(0.0) one(0.0) lieutenant(0.0) colonel(0.0) 
+--(0.0) was(0.0) unanimous(0.0) in(0.0) their(0.0) ruling(0.0) :(0.0) guilty(0.0) .(0.0) Wilkerson(0.0) was(0.0) sentenced(0.0) to(0.0) 1(0.0) year(0.0) in(0.0) prison(0.0) ,(0.0) a(0.0) less(0.0) 
+than(0.0) honorable(0.0) discharge(0.0) ,(0.0) and(0.0) a(0.0) loss(0.0) of(0.0) benefits(0.0) .(0.0) Three(0.0) months(0.0) later(0.0) ,(0.0) General(0.0) Craig(0.0) Franklin(1.0) ,(0.0) a(0.0) three-star(0.0) 
+general(0.0) who(0.0) had(0.0) originally(0.0) called(0.0) for(0.0) the(0.0) court-martial(0.0) ,(0.0) overturned(0.0) the(0.0) punishment(0.0) .(0.0) General(0.0) Franklin(0.0) has(0.0) no(0.0) legal(0.0) training(0.0) .(0.0) 
+Wilkerson(0.0) was(0.0) free(0.0) and(0.0) clear(0.0) and(0.0) reinstated(0.0) on(0.0) Active(0.0) Duty(0.0) .(0.0) Now(0.0) ,(0.0) that(0.0) 's(0.0) quite(0.0) a(0.0) reversal(0.0) ,(0.0) you(0.0) 
+'d(0.0) say(0.0) .(0.0) There(0.0) must(0.0) have(0.0) been(0.0) some(0.0) ironclad(1.0) ,(0.0) watertight(0.0) ,(0.0) slam-dunk(1.0) evidence(0.0) for(0.0) a(0.0) general(0.0) to(0.0) negate(1.0) a(0.0) 
+jury(0.0) of(0.0) five(0.0) officers(0.0) ,(0.0) right(0.0) ?(0.0) Some(0.0) silver-bullet(1.0) testimony(0.0) ?(0.0) Sorry(0.0) ,(0.0) no(0.0) .(0.0) In(0.0) this(0.0) case(0.0) ,(0.0) the(0.0) 
+reasoning(0.0) for(0.0) the(0.0) general(0.0) 's(0.0) stunning(0.0) intervention(1.0) was(0.0) ``(0.0) character(0.0) .(0.0) ''(0.0) The(0.0) general(0.0) simply(0.0) felt(0.0) that(0.0) Wilkerson(1.0) was(0.0) a(0.0) 
+``(0.0) doting(0.0) father(0.0) and(0.0) husband(0.0) .(0.0) ''(0.0) You(0.0) know(0.0) ,(0.0) a(0.0) family(0.0) man(0.0) .(0.0) Okay(0.0) ,(0.0) you(0.0) say(0.0) .(0.0) Maybe(0.0) 
+the(0.0) general(0.0) considered(0.0) solid(0.0) evidence(0.0) that(0.0) calls(0.0) the(0.0) entire(0.0) night(0.0) into(0.0) question(0.0) .(0.0) Sorry(0.0) ,(0.0) no(0.0) .(0.0) It(0.0) turns(0.0) out(0.0) 
+General(0.0) Franklin(1.0) relied(1.0) on(0.0) evidence(0.0) that(0.0) was(0.0) ruled(0.0) inadmissible(0.0) in(0.0) court(0.0) .(0.0) Evidence(0.0) like(0.0) letters(0.0) of(0.0) support(0.0) from(0.0) Wilkerson(1.0) 's(0.0) 
+wingmen(0.0) ,(0.0) who(0.0) had(0.0) his(0.0) back(0.0) .(0.0) On(0.0) the(0.0) other(0.0) hand(0.0) ,(0.0) he(0.0) ignored(0.0) the(0.0) results(0.0) of(0.0) a(0.0) polygraph(0.0) test(0.0) 
+that(0.0) Wilkerson(1.0) had(0.0) failed(0.0) .(0.0) Wait(0.0) a(0.0) minute(0.0) ,(0.0) you(0.0) say(0.0) .(0.0) Maybe(0.0) this(0.0) one(0.0) terrible(0.0) act(0.0) was(0.0) an(0.0) isolated(0.0) 
+incident(0.0) ,(0.0) horrible(0.0) as(0.0) it(0.0) was(0.0) .(0.0) Sorry(0.0) ,(0.0) no(0.0) .(0.0) Earlier(0.0) this(0.0) month(0.0) ,(0.0) the(0.0) Air(0.0) Force(0.0) acknowledged(0.0) that(0.0) 
+Wilkerson(1.0) had(0.0) previously(0.0) fathered(0.0) a(0.0) child(0.0) through(0.0) an(0.0) extramarital(1.0) affair(0.0) .(0.0) Adultery(0.0) is(0.0) a(0.0) crime(0.0) in(0.0) the(0.0) military(0.0) ,(0.0) but(0.0) 
+only(0.0) inside(0.0) a(0.0) 5-year(0.0) statute(1.0) of(0.0) limitation(1.0) .(0.0) This(0.0) crime(1.0) from(0.0) 8(0.0) years(0.0) ago(0.0) is(0.0) no(0.0) longer(0.0) punishable(1.0) .(0.0) And(0.0) 
+it(0.0) was(0.0) kept(0.0) quiet(0.0) by(0.0) the(0.0) Air(0.0) Force(0.0) .(0.0) Why(0.0) ?(0.0) Because(0.0) they(0.0) say(0.0) the(0.0) Privacy(1.0) Act(0.0) prevented(1.0) the(0.0) disclosure(1.0) 
+of(0.0) those(0.0) actions(1.0) without(0.0) Wilkerson(1.0) 's(0.0) permission(0.0) .(0.0) Can(0.0) you(0.0) believe(0.0) that(0.0) ?(0.0) Those(0.0) are(0.0) the(0.0) facts(0.0) of(0.0) the(0.0) case(0.0) 
+.(0.0) Currently(0.0) ,(0.0) Wilkerson(0.0) is(0.0) slated(0.0) to(0.0) receive(0.0) full(0.0) military(0.0) benefits(1.0) ,(0.0) including(0.0) a(0.0) pension(1.0) and(0.0) health(1.0) care(1.0) ,(0.0) for(0.0) 
+life(0.0) .(0.0) And(0.0) this(0.0) is(0.0) what(0.0) military(1.0) justice(1.0) currently(0.0) looks(0.0) like(0.0) .(0.0) If(0.0) the(0.0) Uniform(1.0) Code(0.0) of(0.0) Military(0.0) Justice(0.0) allows(0.0) 
+for(0.0) such(0.0) negligence(0.0) and(0.0) obstruction(0.0) ,(0.0) then(0.0) the(0.0) Code(0.0) is(0.0) more(0.0) than(0.0) just(0.0) outdated(1.0) and(0.0) ineffective(1.0) ;(0.0) it(0.0) 's(0.0) broken(0.0) 
+.(0.0) It(0.0) 's(0.0) damaging(0.0) the(0.0) military(1.0) itself(0.0) .(0.0) It(0.0) 's(0.0) also(0.0) obvious(0.0) to(0.0) any(0.0) legal(1.0) expert(0.0) that(0.0) General(0.0) Franklin(1.0) 
+
+
+----- below are rationale words -----
+
+justice	justice	
+sexual	
+James	Wilkerson	
+all-male	
+
+Franklin	
+
+
+ironclad	slam-dunk	negate	
+silver-bullet	
+intervention	Wilkerson	
+
+
+Franklin	relied	Wilkerson	
+
+Wilkerson	
+
+Wilkerson	extramarital	
+statute	limitation	crime	punishable	
+Privacy	prevented	disclosure	
+actions	Wilkerson	
+benefits	pension	health	care	
+military	justice	Uniform	
+outdated	ineffective	
+military	legal	Franklin	
+
+reads % = 0.08

@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) remember(0.0) those(0.0) insinuations(0.0) that(0.0) were(0.0) made(0.0) by(0.0) the(0.0) administration(1.0) at(0.0) the(0.0) time(0.0) .(0.0) Many(0.0) people(0.0) were(0.0) led(0.0) to(0.0) believe(0.0) that(0.0) 
+somehow(0.0) ,(0.0) in(0.0) some(0.0) way(0.0) ,(0.0) shape(0.0) or(0.0) form(0.0) ,(0.0) Iraq(1.0) and(0.0) Saddam(1.0) Hussein(1.0) were(0.0) aligned(0.0) with(0.0) al(0.0) Qaeda(0.0) ,(0.0) 
+and(0.0) it(0.0) could(0.0) n't(0.0) have(0.0) been(0.0) further(0.0) from(0.0) the(0.0) truth(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+administration	
+Iraq	Saddam	Hussein	
+
+
+reads % = 0.07692307692307693

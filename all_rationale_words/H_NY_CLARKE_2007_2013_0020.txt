@@ -1,0 +1,20 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) was(0.0) unavoidably(0.0) detained(0.0) and(0.0) missed(0.0) the(0.0) first(0.0) series(0.0) of(0.0) votes(0.0) today(0.0) .(0.0) Had(0.0) I(0.0) been(0.0) present(0.0) ,(0.0) Mr.(0.0) 
+Speaker(1.0) ,(0.0) I(0.0) would(0.0) have(0.0) voted(1.0) ``(0.0) yes(0.0) ''(0.0) on(0.0) rollcall(1.0) No(0.0) .(0.0) 450(0.0) ,(0.0) H.R(0.0) .(0.0) 1155(0.0) ,(0.0) the(0.0) 
+National(0.0) Association(0.0) of(0.0) Registered(0.0) Agents(0.0) and(0.0) Brokers(0.0) Reform(0.0) Act(0.0) of(0.0) 2013(0.0) .(0.0) I(0.0) would(0.0) have(0.0) voted(0.0) ``(0.0) yes(0.0) ''(0.0) on(0.0) 
+rollcall(1.0) No(0.0) .(0.0) 451(0.0) ,(0.0) H.R(0.0) .(0.0) 2747(0.0) ,(0.0) Streamlining(1.0) Claims(0.0) Processing(0.0) for(0.0) Federal(0.0) Contractor(1.0) Employees(0.0) Act(0.0) .(0.0) I(0.0) would(0.0) 
+have(0.0) voted(0.0) ``(0.0) yes(0.0) ''(0.0) on(0.0) rollcall(1.0) No(1.0) .(0.0) 452(0.0) ,(0.0) S.(0.0) 130(0.0) ,(0.0) Powell(0.0) Shooting(0.0) Range(0.0) Land(0.0) Conveyance(0.0) Act(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+
+Speaker	voted	rollcall	
+
+rollcall	Streamlining	Contractor	
+rollcall	No	
+
+
+reads % = 0.0784313725490196

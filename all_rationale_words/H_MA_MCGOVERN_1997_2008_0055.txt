@@ -1,0 +1,20 @@
+This is from a Democrat
+----- below is the original text -----
+The(0.0) Acting(0.0) CHAIRMAN(0.0) .(0.0) All(0.0) time(0.0) for(0.0) debate(1.0) has(0.0) expired(0.0) .(0.0) The(0.0) question(0.0) is(0.0) on(0.0) the(0.0) amendment(1.0) offered(0.0) by(0.0) the(0.0) gentleman(0.0) 
+from(0.0) Massachusetts(1.0) ((0.0) Mr.(0.0) MCGovern(1.0) )(0.0) .(0.0) The(0.0) question(0.0) was(0.0) taken(0.0) ;(0.0) and(0.0) the(0.0) Acting(0.0) Chairman(0.0) announced(1.0) that(0.0) the(0.0) ayes(1.0) 
+appeared(0.0) to(0.0) have(0.0) it(0.0) .(0.0) The(0.0) Acting(0.0) CHAIRMAN(0.0) .(0.0) Pursuant(0.0) to(0.0) clause(0.0) 6(0.0) of(0.0) rule(0.0) XVIII(0.0) ,(0.0) further(0.0) proceedings(0.0) on(0.0) 
+the(0.0) amendment(0.0) offered(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) Massachusetts(1.0) will(0.0) be(0.0) postponed(0.0) .(0.0) Amendment(1.0) No(0.0) .(0.0) 55(0.0) Offered(0.0) by(0.0) Mr.(0.0) Ellsworth(1.0) 
+The(0.0) Acting(0.0) CHAIRMAN(0.0) .(0.0) It(0.0) is(0.0) now(0.0) in(0.0) order(0.0) to(0.0) consider(0.0) amendment(1.0) No(1.0) .(0.0) 55(0.0) printed(0.0) in(0.0) House(0.0) Report(0.0) 110-666(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+debate	amendment	
+Massachusetts	MCGovern	announced	ayes	
+
+Massachusetts	Amendment	Ellsworth	
+amendment	No	
+
+
+reads % = 0.10784313725490197

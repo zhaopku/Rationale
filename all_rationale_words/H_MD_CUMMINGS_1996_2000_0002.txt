@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) this(0.0) legislation(1.0) before(0.0) us(0.0) today(0.0) establishes(1.0) a(0.0) bicentennial(1.0) commission(0.0) to(0.0) celebrate(0.0) the(0.0) life(0.0) and(0.0) accomplishments(0.0) of(0.0) this(0.0) Nation(1.0) 
+'s(0.0) 16th(0.0) President(0.0) ,(0.0) Abraham(0.0) Lincoln(1.0) .(0.0) In(0.0) many(0.0) respects(0.0) ,(0.0) Abraham(0.0) Lincoln(1.0) was(0.0) an(0.0) ordinary(0.0) man(0.0) who(0.0) ,(0.0) throughout(0.0) 
+his(0.0) life(0.0) ,(0.0) did(0.0) many(0.0) extraordinary(0.0) things(0.0) .(0.0) Mr.(0.0) Lincoln(1.0) was(0.0) poor(0.0) and(0.0) struggled(0.0) to(0.0) educate(1.0) himself(0.0) .(0.0) After(0.0) completing(0.0) 
+his(0.0) duties(0.0) ,(0.0) he(0.0) practiced(0.0) law(0.0) .(0.0) He(0.0) served(0.0) in(0.0) the(0.0) military(0.0) ,(0.0) holding(0.0) the(0.0) rank(0.0) of(0.0) captain(0.0) during(0.0) the(0.0) 
+Black(1.0) Hawk(0.0) War(0.0) .(0.0) Thereafter(0.0) ,(0.0) he(0.0) continued(0.0) his(0.0) public(0.0) service(0.0) by(0.0) spending(0.0) 8(0.0) years(0.0) in(0.0) the(0.0) Illinois(1.0) legislature(0.0) .(0.0) 
+Then(0.0) in(0.0) 1836(0.0) ,(0.0) he(0.0) was(0.0) elected(0.0) to(0.0) Congress(0.0) and(0.0) served(0.0) two(0.0) terms(0.0) .(0.0) In(0.0) 1832(0.0) ,(0.0) when(0.0) Abraham(0.0) Lincoln(1.0) 
+was(0.0) seeking(0.0) his(0.0) first(0.0) seat(0.0) in(0.0) the(0.0) Illinois(1.0) General(0.0) Assembly(0.0) ,(0.0) he(0.0) stated(0.0) in(0.0) his(0.0) first(0.0) political(0.0) announcement(0.0) ,(0.0) and(0.0) 
+I(0.0) quote(0.0) ,(0.0) ``(0.0) Upon(0.0) the(0.0) subject(0.0) of(0.0) education(1.0) ,(0.0) not(0.0) presuming(0.0) to(0.0) dictate(0.0) any(0.0) plan(0.0) or(0.0) system(0.0) respecting(0.0) it(0.0) 
+,(0.0) I(0.0) can(0.0) only(0.0) say(0.0) that(0.0) I(0.0) view(0.0) it(0.0) as(0.0) a(0.0) most(0.0) important(0.0) subject(0.0) which(0.0) we(0.0) as(0.0) a(0.0) people(0.0) can(0.0) 
+be(0.0) engaged(0.0) in(0.0) .(0.0) That(0.0) every(0.0) man(0.0) receive(0.0) at(0.0) least(0.0) a(0.0) moderate(0.0) education(1.0) and(0.0) thereby(0.0) be(0.0) enabled(0.0) to(0.0) read(0.0) the(0.0) 
+histories(0.0) of(0.0) his(0.0) own(0.0) and(0.0) other(0.0) countries(0.0) by(0.0) which(0.0) he(0.0) may(0.0) duly(0.0) appreciate(0.0) the(0.0) value(0.0) of(0.0) our(0.0) free(0.0) institutions(1.0) ,(0.0) 
+appears(0.0) to(0.0) be(0.0) an(0.0) object(0.0) vital(0.0) importance(0.0) .(0.0) ''(0.0) It(0.0) is(0.0) important(0.0) that(0.0) H.R(0.0) .(0.0) 1451(0.0) stipulates(0.0) that(0.0) the(0.0) members(0.0) 
+of(0.0) the(0.0) commission(0.0) be(0.0) selected(0.0) based(0.0) on(0.0) their(0.0) demonstrated(0.0) dedication(0.0) to(0.0) educating(1.0) others(0.0) about(0.0) the(0.0) importance(0.0) of(0.0) historical(0.0) figures(0.0) and(0.0) 
+events(0.0) .(0.0) It(0.0) is(0.0) through(0.0) education(1.0) that(0.0) we(0.0) learn(0.0) about(0.0) our(0.0) pasts(0.0) and(0.0) prepare(0.0) ourselves(0.0) for(0.0) our(0.0) future(0.0) .(0.0) Abraham(0.0) 
+Lincoln(1.0) made(0.0) decisions(0.0) and(0.0) took(0.0) actions(0.0) that(0.0) would(0.0) forever(0.0) change(0.0) the(0.0) course(0.0) of(0.0) America(1.0) .(0.0) The(0.0) commission(1.0) will(0.0) be(0.0) responsible(0.0) 
+for(0.0) educating(1.0) Americans(1.0) ,(0.0) young(0.0) and(0.0) old(0.0) ,(0.0) about(0.0) the(0.0) importance(0.0) of(0.0) the(0.0) Lincoln(1.0) legacy(1.0) and(0.0) contributions(1.0) he(0.0) made(0.0) for(0.0) 
+a(0.0) free(0.0) and(0.0) unified(1.0) country(1.0) .(0.0) In(0.0) 1854(0.0) ,(0.0) Lincoln(0.0) took(0.0) an(0.0) unpopular(1.0) stance(0.0) and(0.0) opposed(1.0) the(0.0) Kansas-(0.0) Nebraska(1.0) Act(0.0) 
+,(0.0) which(0.0) threatened(1.0) to(0.0) extend(0.0) slavery(1.0) to(0.0) other(0.0) States(0.0) .(0.0) Lincoln(0.0) was(0.0) elected(0.0) president(0.0) in(0.0) 1860(0.0) when(0.0) the(0.0) United(0.0) States(0.0) 
+was(0.0) no(0.0) longer(0.0) united(0.0) but(0.0) was(0.0) divided(0.0) over(0.0) slavery(1.0) .(0.0) Believing(0.0) that(0.0) secession(1.0) was(0.0) illegal(1.0) ,(0.0) he(0.0) was(0.0) prepared(0.0) to(0.0) 
+use(0.0) force(0.0) to(0.0) defend(1.0) the(0.0) union(1.0) and(0.0) did(0.0) so(0.0) .(0.0) The(0.0) Civil(1.0) War(0.0) began(0.0) in(0.0) 1861(0.0) and(0.0) would(0.0) last(0.0) 4(0.0) 
+years(0.0) costing(0.0) the(0.0) lives(0.0) of(0.0) over(0.0) 500,000(0.0) Americans(1.0) .(0.0) On(0.0) November(0.0) 16(0.0) ,(0.0) 1863(0.0) ,(0.0) in(0.0) the(0.0) midst(0.0) of(0.0) a(0.0) 
+war(1.0) ,(0.0) on(0.0) a(0.0) battlefield(0.0) near(0.0) Gettysburg(1.0) ,(0.0) Pennsylvania(1.0) ,(0.0) President(0.0) Lincoln(1.0) not(0.0) only(0.0) acknowledged(0.0) the(0.0) sacrifice(0.0) of(0.0) thousands(0.0) who(0.0) 
+had(0.0) perished(0.0) but(0.0) presented(0.0) his(0.0) vision(0.0) for(0.0) the(0.0) future(0.0) of(0.0) our(0.0) Nation(1.0) ,(0.0) conceived(0.0) in(0.0) liberty(1.0) ,(0.0) where(0.0) everyone(0.0) is(0.0) 
+created(0.0) equal(1.0) .(0.0) The(0.0) speech(1.0) known(0.0) as(0.0) the(0.0) Gettysburg(1.0) Address(0.0) shaped(0.0) the(0.0) destiny(0.0) of(0.0) the(0.0) United(0.0) States(0.0) of(0.0) America(0.0) ;(0.0) 
+that(0.0) government(1.0) of(0.0) the(0.0) people(0.0) and(0.0) by(0.0) the(0.0) people(0.0) should(0.0) be(0.0) for(0.0) all(0.0) the(0.0) people(0.0) ,(0.0) regardless(0.0) of(0.0) race(1.0) 
+
+
+----- below are rationale words -----
+
+Speaker	legislation	establishes	bicentennial	Nation	
+Lincoln	Lincoln	
+Lincoln	educate	
+
+Black	Illinois	
+Lincoln	
+Illinois	
+education	
+
+education	
+institutions	
+
+educating	
+education	
+Lincoln	America	commission	
+educating	Americans	Lincoln	legacy	contributions	
+unified	country	unpopular	opposed	Nebraska	
+threatened	slavery	
+slavery	secession	illegal	
+defend	union	Civil	
+Americans	
+war	Gettysburg	Pennsylvania	Lincoln	
+Nation	liberty	
+equal	speech	Gettysburg	
+government	race	
+
+reads % = 0.102

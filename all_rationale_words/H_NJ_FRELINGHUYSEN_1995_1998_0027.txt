@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) reclaiming(1.0) my(0.0) time(0.0) ,(0.0) it(0.0) is(0.0) a(0.0) pleasure(0.0) to(0.0) have(0.0) yielded(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Illinois(1.0) ((0.0) Mr.(0.0) Yates(1.0) 
+)(0.0) .(0.0) I(0.0) was(0.0) two(0.0) years-old(0.0) when(0.0) he(0.0) became(0.0) a(0.0) Member(0.0) of(0.0) Congress(0.0) ,(0.0) and(0.0) it(0.0) is(0.0) a(0.0) pleasure(0.0) to(0.0) 
+be(0.0) in(0.0) the(0.0) Chamber(0.0) with(0.0) him(0.0) .(0.0) Chairman(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Illinois(0.0) ,(0.0) and(0.0) ,(0.0) reclaiming(1.0) my(0.0) 
+time(0.0) ,(0.0) I(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) the(0.0) foreign(1.0) operations(0.0) bill(0.0) ,(0.0) and(0.0) personally(0.0) I(0.0) would(0.0) like(0.0) to(0.0) thank(0.0) the(0.0) 
+gentleman(0.0) from(0.0) Alabama(0.0) ((0.0) Mr.(0.0) Callahan(1.0) )(0.0) for(1.0) his(0.0) leadership(0.0) as(0.0) well(0.0) as(0.0) the(0.0) gentlewoman(0.0) from(0.0) California(0.0) ((0.0) Ms.(1.0) Pelosi(1.0) 
+)(0.0) and(0.0) our(0.0) very(0.0) excellent(0.0) staff(0.0) for(0.0) all(0.0) the(0.0) good(0.0) work(0.0) they(0.0) do(0.0) .(0.0) The(0.0) challenges(0.0) we(0.0) face(0.0) ,(0.0) Mr.(0.0) 
+Chairman(1.0) ,(0.0) around(0.0) the(0.0) globe(0.0) are(0.0) increasingly(0.0) complex(0.0) :(0.0) the(0.0) struggle(1.0) to(0.0) find(0.0) peace(1.0) in(0.0) the(0.0) middle(0.0) east(0.0) and(0.0) in(0.0) 
+the(0.0) Balkans(1.0) ,(0.0) the(0.0) challenge(0.0) of(0.0) supporting(0.0) emerging(1.0) democracies(1.0) in(0.0) Eastern(0.0) Europe(0.0) ,(0.0) in(0.0) central(0.0) Asia(0.0) ,(0.0) increased(0.0) threats(0.0) of(0.0) 
+nuclear(1.0) proliferation(1.0) and(0.0) terrorism(1.0) around(0.0) the(0.0) world(0.0) and(0.0) economic(1.0) deterioration(1.0) in(0.0) Asia(1.0) and(0.0) elsewhere(0.0) ;(0.0) that(0.0) has(0.0) a(0.0) big(0.0) impact(0.0) 
+on(0.0) American(0.0) jobs(0.0) and(0.0) prosperity(1.0) .(0.0) With(0.0) this(0.0) bill(1.0) we(0.0) provide(0.0) some(0.0) of(0.0) the(0.0) essential(0.0) tools(0.0) to(0.0) promote(0.0) and(0.0) protect(0.0) 
+America's(0.0) leadership(1.0) and(0.0) interests(0.0) ,(0.0) and(0.0) we(0.0) do(0.0) so(0.0) within(0.0) the(0.0) confines(0.0) of(0.0) our(0.0) balanced(1.0) budget(1.0) agreement(1.0) .(0.0) Particular(0.0) items(0.0) 
+worthy(0.0) of(0.0) note(0.0) in(0.0) this(0.0) bill(1.0) include(1.0) the(0.0) fact(0.0) that(0.0) with(0.0) the(0.0) full(0.0) cooperation(0.0) of(0.0) Israel(0.0) and(0.0) Egypt(0.0) this(0.0) bill(1.0) 
+marks(1.0) the(0.0) beginning(0.0) of(0.0) a(0.0) multiyear(0.0) plan(0.0) to(0.0) reduce(1.0) the(0.0) level(0.0) of(0.0) assistance(0.0) to(0.0) Camp(0.0) David(0.0) countries(1.0) ,(0.0) and(0.0) ,(0.0) 
+as(0.0) our(0.0) report(0.0) reflects(0.0) ,(0.0) our(0.0) committee(0.0) encourages(0.0) other(0.0) traditional(0.0) aid(0.0) recipients(1.0) to(0.0) follow(0.0) the(0.0) bold(0.0) path(0.0) undertaken(0.0) by(0.0) Israel(0.0) 
+.(0.0) Under(0.0) the(0.0) chairman(0.0) 's(0.0) leadership(0.0) we(0.0) have(0.0) also(0.0) restored(0.0) critical(0.0) funding(1.0) for(0.0) child(0.0) survival(0.0) programs(1.0) and(0.0) disease(1.0) prevention(1.0) and(0.0) 
+eradication(1.0) .(0.0) I(0.0) am(0.0) particularly(0.0) appreciative(0.0) of(0.0) the(0.0) chairman's(0.0) supportive(0.0) efforts(1.0) to(0.0) combat(1.0) tuberculosis(1.0) and(0.0) other(0.0) infectious(1.0) diseases(1.0) that(0.0) have(0.0) 
+emerged(0.0) as(0.0) major(0.0) threats(0.0) around(0.0) the(0.0) world(0.0) .(0.0) We(0.0) also(0.0) continue(0.0) America(1.0) 's(0.0) longstanding(1.0) support(0.0) of(0.0) development(0.0) assistance(0.0) for(0.0) the(0.0) 
+poorest(1.0) of(0.0) the(0.0) poor(1.0) including(0.0) international(1.0) family(0.0) planning(0.0) programs(1.0) .(0.0) We(0.0) also(0.0) placed(0.0) increased(0.0) emphasis(1.0) on(0.0) important(0.0) priorities(1.0) in(0.0) our(0.0) 
+own(0.0) hemisphere(0.0) ,(0.0) especially(0.0) addressing(1.0) the(0.0) scourge(1.0) of(0.0) illegal(1.0) narcotics(1.0) traffic(0.0) .(0.0) Further(0.0) ,(0.0) we(0.0) maintain(0.0) our(0.0) efforts(1.0) to(0.0) protect(0.0) 
+export-related(1.0) American(0.0) jobs(1.0) for(0.0) providing(0.0) resources(1.0) through(0.0) the(0.0) Export-Import(1.0) Bank(0.0) ,(0.0) OPEC(1.0) ,(0.0) TDA(1.0) to(0.0) help(0.0) American(0.0) companies(1.0) enter(0.0) and(0.0) 
+succeed(0.0) in(0.0) international(0.0) markets(1.0) ,(0.0) and(0.0) when(0.0) our(0.0) American(0.0) companies(1.0) invest(1.0) in(0.0) developing(1.0) economies(1.0) ,(0.0) particularly(0.0) in(0.0) countries(1.0) that(0.0) receive(0.0) 
+U.S.(0.0) taxpayer(1.0) assistance(1.0) in(0.0) this(0.0) bill(1.0) ,(0.0) we(0.0) make(0.0) it(0.0) clear(0.0) that(0.0) we(0.0) expect(0.0) these(0.0) countries(1.0) will(0.0) provide(0.0) no(0.0) less(0.0) 
+than(0.0) full(0.0) legal(1.0) protection(1.0) for(0.0) these(0.0) investments(1.0) .(0.0) Finally(0.0) ,(0.0) our(0.0) subcommittee(1.0) has(0.0) spent(0.0) a(0.0) great(0.0) deal(0.0) of(0.0) time(0.0) and(0.0) 
+deliberation(0.0) on(0.0) the(0.0) issue(0.0) of(0.0) resources(0.0) for(0.0) IMF(1.0) .(0.0) In(0.0) this(0.0) bill(1.0) we(0.0) do(0.0) provide(0.0) for(0.0) the(0.0) new(0.0) arrangements(0.0) to(0.0) 
+borrow(1.0) ,(0.0) and(0.0) the(0.0) Senate(0.0) has(0.0) provided(0.0) the(0.0) full(0.0) administration(1.0) requests(0.0) so(0.0) that(0.0) I(0.0) anticipate(0.0) that(0.0) this(0.0) issue(0.0) will(0.0) 
+
+
+----- below are rationale words -----
+
+reclaiming	Illinois	Yates	
+
+reclaiming	
+foreign	
+Callahan	for	Ms.	Pelosi	
+
+Chairman	struggle	peace	
+Balkans	emerging	democracies	
+nuclear	proliferation	terrorism	economic	deterioration	Asia	
+prosperity	bill	
+leadership	balanced	budget	agreement	
+bill	include	bill	
+marks	reduce	countries	
+recipients	
+funding	programs	disease	prevention	
+eradication	efforts	combat	tuberculosis	infectious	diseases	
+America	longstanding	
+poorest	poor	international	programs	emphasis	priorities	
+addressing	scourge	illegal	narcotics	efforts	
+export-related	jobs	resources	Export-Import	OPEC	TDA	companies	
+markets	companies	invest	developing	economies	countries	
+taxpayer	assistance	bill	countries	
+legal	protection	investments	subcommittee	
+IMF	bill	
+borrow	administration	
+
+reads % = 0.164

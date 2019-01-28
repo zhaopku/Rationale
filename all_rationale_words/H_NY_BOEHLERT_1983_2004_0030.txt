@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) to(0.0) my(0.0) distinguished(0.0) colleague(0.0) from(0.0) Massachusetts(1.0) ,(0.0) I(0.0) say(0.0) this(0.0) :(0.0) if(0.0) my(0.0) colleagues(0.0) provide(0.0) tax(1.0) relief(1.0) to(0.0) the(0.0) 
+American(0.0) families(0.0) ,(0.0) they(0.0) are(0.0) not(0.0) going(0.0) to(0.0) hide(0.0) the(0.0) money(1.0) under(0.0) the(0.0) mattress(0.0) .(0.0) They(0.0) are(0.0) going(0.0) to(0.0) use(0.0) 
+it(0.0) to(0.0) buy(0.0) goods(0.0) and(0.0) services(0.0) ,(0.0) manufactured(0.0) right(0.0) here(0.0) in(0.0) the(0.0) United(0.0) States(0.0) ,(0.0) by(0.0) his(0.0) neighbors(0.0) and(0.0) mine(0.0) 
+.(0.0) My(0.0) favorite(0.0) four(0.0) letter(0.0) word(0.0) ,(0.0) and(0.0) we(0.0) can(0.0) use(0.0) it(0.0) in(0.0) polite(0.0) company(0.0) ,(0.0) is(0.0) ``(0.0) jobs(0.0) .(0.0) 
+''(0.0) And(0.0) if(0.0) you(0.0) provide(0.0) tax(1.0) relief(1.0) for(0.0) the(0.0) families(0.0) ,(0.0) they(0.0) will(0.0) use(0.0) their(0.0) money(1.0) wisely(0.0) to(0.0) create(0.0) new(0.0) 
+jobs(0.0) .(0.0) If(0.0) you(0.0) incentivize(1.0) business(0.0) to(0.0) buy(0.0) new(0.0) equipment(0.0) ,(0.0) build(0.0) new(0.0) buildings(0.0) ,(0.0) create(0.0) new(0.0) jobs(1.0) ,(0.0) that(0.0) 
+is(0.0) the(0.0) best(0.0) way(0.0) to(0.0) get(0.0) more(0.0) money(1.0) flowing(0.0) into(0.0) the(0.0) Treasury(1.0) to(0.0) reduce(1.0) that(0.0) deficit(1.0) .(0.0) I(0.0) ,(0.0) like(0.0) 
+you(0.0) ,(0.0) want(0.0) to(0.0) do(0.0) that(0.0) ;(0.0) but(0.0) we(0.0) are(0.0) moving(0.0) in(0.0) the(0.0) right(0.0) direction(0.0) .(0.0) We(0.0) have(0.0) got(0.0) the(0.0) 
+right(0.0) ticket(0.0) to(0.0) drive(0.0) this(0.0) economy(1.0) forward(0.0) if(0.0) we(0.0) provide(0.0) much-needed(1.0) tax(1.0) relief(1.0) for(0.0) the(0.0) families(0.0) and(0.0) for(0.0) the(0.0) businesses(1.0) 
+of(0.0) America(1.0) so(0.0) that(0.0) our(0.0) economy(1.0) ,(0.0) which(0.0) is(0.0) moving(0.0) in(0.0) the(0.0) right(0.0) direction(0.0) ,(0.0) will(0.0) do(0.0) so(0.0) at(0.0) an(0.0) 
+accelerated(1.0) pace(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Massachusetts	tax	relief	
+money	
+
+
+tax	relief	money	
+incentivize	jobs	
+money	Treasury	reduce	deficit	
+
+economy	much-needed	tax	relief	businesses	
+America	economy	
+accelerated	
+
+reads % = 0.10294117647058823

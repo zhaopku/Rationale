@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+See(0.0) ,(0.0) I(0.0) am(1.0) trying(1.0) to(0.0) understand(0.0) if(0.0) we(0.0) are(0.0) dealing(0.0) from(0.0) the(0.0) same(1.0) base(0.0) number(0.0) ;(0.0) then(0.0) the(0.0) gentleman(0.0) has(0.0) 
+either(1.0) picked(0.0) two(0.0) States(0.0) who(0.0) ,(0.0) under(0.0) the(0.0) formula(0.0) ,(0.0) miraculously(1.0) get(0.0) twice(0.0) as(0.0) much(0.0) money(0.0) in(0.0) a(0.0) block(0.0) grant(0.0) 
+program(0.0) out(0.0) of(0.0) the(0.0) same(1.0) pot(1.0) of(0.0) money(1.0) ,(0.0) or(1.0) else(0.0) there(0.0) are(0.0) a(0.0) lot(0.0) of(0.0) States(0.0) out(0.0) there(0.0) that(0.0) 
+are(0.0) going(0.0) to(0.0) get(0.0) a(0.0) lot(0.0) less(0.0) money(1.0) under(0.0) the(0.0) block(0.0) grant(0.0) program(0.0) .(0.0) One(1.0) or(0.0) the(0.0) other(0.0) ?(0.0) See(0.0) 
+what(0.0) I(0.0) mean(1.0) ?(1.0) 
+
+
+----- below are rationale words -----
+
+am	trying	same	
+either	miraculously	
+same	pot	money	or	
+money	One	
+mean	?	
+
+reads % = 0.15294117647058825

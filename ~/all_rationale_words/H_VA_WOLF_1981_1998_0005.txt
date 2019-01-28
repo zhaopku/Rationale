@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) want(1.0) to(0.0) begin(0.0) by(0.0) talking(0.0) and(0.0) taking(0.0) a(0.0) moment(0.0) to(0.0) talk(0.0) about(0.0) two(0.0) groups(0.0) that(0.0) are(0.0) not(1.0) widely(0.0) 
+discussed(1.0) on(0.0) the(0.0) floor(0.0) .(0.0) The(0.0) first(0.0) is(0.0) Mother(0.0) Jones(0.0) ,(0.0) and(0.0) the(0.0) second(0.0) is(0.0) USA(1.0) Engage(0.0) .(0.0) Mother(0.0) Jones(0.0) 
+,(0.0) or(1.0) ``(0.0) MoJo(1.0) ,(0.0) ''(0.0) is(0.0) a(0.0) national(0.0) magazine(0.0) of(0.0) investigative(1.0) journalism(1.0) focusing(0.0) on(0.0) political(1.0) reporting(0.0) .(0.0) Ken(1.0) Silverstein(1.0) 
+wrote(1.0) an(0.0) article(1.0) in(0.0) the(0.0) June(0.0) 1998(0.0) issue(1.0) of(0.0) Mother(0.0) Jones(0.0) detailing(0.0) the(0.0) creation(0.0) of(0.0) USA(1.0) Engage(1.0) .(0.0) This(0.0) group(0.0) 
+hired(0.0) Washington(1.0) lobbyist(1.0) Anne(0.0) Wexler(1.0) to(0.0) try(0.0) to(0.0) make(0.0) sure(1.0) nothing(0.0) gets(0.0) in(0.0) the(0.0) way(0.0) of(0.0) promoting(0.0) international(0.0) trade(1.0) with(0.0) 
+countries(0.0) around(0.0) the(0.0) world(0.0) whose(0.0) governments(1.0) are(0.0) renown(0.0) for(0.0) brutal(1.0) fear-biased(1.0) repression(1.0) of(0.0) their(0.0) own(0.0) people(0.0) .(0.0) The(0.0) human(0.0) rights(0.0) 
+records(0.0) of(0.0) those(0.0) countries(1.0) are(0.0) made(0.0) more(0.0) dismal(0.0) by(0.0) widespread(0.0) torture(1.0) ,(0.0) terror(1.0) ,(0.0) imprisonment(1.0) ,(0.0) persecution(1.0) and(0.0) killing(0.0) of(0.0) 
+those(0.0) that(0.0) do(0.0) not(1.0) walk(0.0) the(0.0) line(0.0) .(0.0) According(0.0) to(0.0) MoJo(1.0) ,(0.0) some(0.0) of(0.0) America(0.0) 's(0.0) largest(0.0) businesses(1.0) have(0.0) given(0.0) 
+their(0.0) proxy(1.0) to(0.0) USA(1.0) Engage(0.0) to(0.0) deal(1.0) with(0.0) these(0.0) countries(0.0) having(0.0) a(0.0) history(0.0) of(0.0) repressing(1.0) their(0.0) own(0.0) people(0.0) .(0.0) I(0.0) 
+know(1.0) these(0.0) companies(1.0) are(0.0) run(0.0) by(0.0) good(0.0) and(0.0) decent(1.0) people(0.0) who(0.0) are(0.0) probably(0.0) not(0.0) aware(0.0) of(0.0) the(0.0) range(0.0) of(0.0) activities(0.0) 
+in(0.0) which(0.0) the(0.0) Wexler(1.0) Group(1.0) is(0.0) intensely(1.0) involved(0.0) on(0.0) behalf(0.0) of(0.0) USA(1.0) Engage(0.0) .(0.0) I(0.0) am(1.0) sure(1.0) that(0.0) their(0.0) stockholders(1.0) 
+and(0.0) customers(0.0) are(0.0) not(1.0) aware(0.0) of(0.0) them(0.0) and(0.0) would(0.0) be(0.0) shocked(1.0) and(0.0) angered(1.0) if(0.0) they(0.0) were(0.0) .(0.0) According(0.0) to(0.0) the(0.0) 
+magazine(0.0) ,(0.0) Anne(0.0) Wexler(1.0) has(0.0) assembled(0.0) a(0.0) daunting(0.0) army(1.0) for(0.0) her(0.0) assault(1.0) on(0.0) Washington(1.0) that(0.0) includes(0.0) a(0.0) former(0.0) U.S.(0.0) Trade(0.0) 
+Representative(1.0) ,(0.0) former(0.0) Members(0.0) of(0.0) Congress(0.0) ,(0.0) a(0.0) former(0.0) close(0.0) staffer(1.0) of(0.0) the(0.0) President(1.0) ,(0.0) the(0.0) former(0.0) law(1.0) firm(0.0) of(0.0) 
+the(0.0) State(1.0) Department(1.0) official(1.0) who(0.0) heads(0.0) up(0.0) the(0.0) committee(0.0) charged(1.0) with(0.0) reviewing(1.0) proposed(0.0) sanctions(1.0) ,(0.0) and(0.0) others(0.0) .(0.0) And(0.0) look(1.0) 
+at(0.0) what(1.0) they(0.0) have(0.0) accomplished(0.0) :(0.0) Instant(0.0) access(0.0) to(0.0) Congress(0.0) and(0.0) the(0.0) ear(0.0) of(0.0) the(0.0) State(1.0) Department(0.0) officials(1.0) charged(1.0) with(0.0) 
+assessing(0.0) human(0.0) rights(0.0) violations(1.0) ;(0.0) pro-trade(1.0) studies(1.0) from(0.0) pricey(1.0) and(0.0) prestigious(1.0) think(0.0) tanks(0.0) ;(0.0) the(0.0) matching-up(1.0) and(0.0) contact(0.0) of(0.0) religious(0.0) 
+groups(0.0) and(0.0) leaders(1.0) interested(0.0) in(0.0) human(0.0) rights(0.0) around(0.0) the(0.0) world(0.0) by(0.0) business(1.0) reps(1.0) thought(0.0) to(0.0) have(0.0) special(0.0) influence(0.0) or(1.0) sway(1.0) 
+.(0.0) MoJo(1.0) quotes(1.0) human(0.0) rights(0.0) advocate(1.0) Simon(1.0) Billenness(1.0) ,(0.0) talking(0.0) about(0.0) the(0.0) important(0.0) role(0.0) economic(0.0) sanctions(0.0) played(0.0) in(0.0) ending(1.0) South(1.0) 
+Africa's(1.0) apartheid(1.0) regime(1.0) .(0.0) ``(1.0) If(0.0) USA(1.0) Engage(0.0) had(0.0) succeeded(1.0) with(0.0) these(0.0) tactics(1.0) during(0.0) these(0.0) apartheid(1.0) years(0.0) ,(0.0) Nelson(1.0) Mandela(1.0) 
+might(0.0) still(0.0) be(0.0) in(0.0) prison(1.0) .(0.0) ''(0.0) I(0.0) recognize(1.0) these(0.0) companies(1.0) can(0.0) hire(0.0) whomever(1.0) they(0.0) choose(0.0) ,(0.0) but(0.0) there(0.0) are(0.0) 
+consequences(0.0) .(0.0) Look(1.0) at(0.0) what(0.0) they(0.0) are(0.0) doing(0.0) .(0.0) Look(1.0) at(0.0) the(0.0) real(0.0) issue(1.0) .(0.0) We(0.0) are(0.0) talking(0.0) about(0.0) companies(1.0) 
+that(0.0) are(0.0) committing(0.0) the(0.0) very(0.0) worst(0.0) atrocities(1.0) on(0.0) their(0.0) own(0.0) people(0.0) simply(0.0) by(0.0) believing(0.0) in(0.0) God(0.0) .(0.0) In(0.0) Sudan(1.0) ,(0.0) 
+starvation(1.0) is(0.0) the(0.0) weapon(0.0) of(0.0) choice(0.0) ,(0.0) spiced(1.0) with(0.0) high-altitude(1.0) bombing(1.0) ,(0.0) mass(0.0) murder(1.0) ,(0.0) and(0.0) selling(1.0) their(0.0) own(0.0) people(0.0) 
+into(0.0) slavery(0.0) .(0.0) In(1.0) Sudan(1.0) ,(0.0) over(0.0) the(0.0) past(0.0) decade(0.0) ,(0.0) about(0.0) 1.1(0.0) million(0.0) people(0.0) have(0.0) been(0.0) killed(1.0) or(1.0) 
+
+
+----- below are rationale words -----
+
+want	not	
+discussed	USA	
+or	MoJo	investigative	journalism	political	Ken	Silverstein	
+wrote	article	issue	USA	Engage	
+Washington	lobbyist	Wexler	sure	trade	
+governments	brutal	fear-biased	repression	
+countries	torture	terror	imprisonment	persecution	
+not	MoJo	businesses	
+proxy	USA	deal	repressing	
+know	companies	decent	
+Wexler	Group	intensely	USA	am	sure	stockholders	
+not	shocked	angered	
+Wexler	army	assault	Washington	
+Representative	staffer	President	law	
+State	Department	official	charged	reviewing	sanctions	look	
+what	State	officials	charged	
+violations	pro-trade	studies	pricey	prestigious	matching-up	
+leaders	business	reps	or	sway	
+MoJo	quotes	advocate	Simon	Billenness	ending	South	
+Africa's	apartheid	regime	``	USA	succeeded	tactics	apartheid	Nelson	Mandela	
+prison	recognize	companies	whomever	
+Look	Look	issue	companies	
+atrocities	Sudan	
+starvation	spiced	high-altitude	bombing	murder	selling	
+In	Sudan	killed	or	
+
+reads % = 0.234

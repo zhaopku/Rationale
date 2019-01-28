@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) Congress(0.0) still(0.0) has(0.0) not(0.0) passed(0.0) the(0.0) Secure(0.0) Rural(0.0) Schools(0.0) and(0.0) Community(0.0) Self(0.0) Determination(0.0) Act(0.0) reauthorization(0.0) .(0.0) So(0.0) what(0.0) does(0.0) 
+that(0.0) mean(0.0) ?(0.0) For(0.0) Wheeler(0.0) County(1.0) ,(0.0) Oregon(1.0) ,(0.0) it(0.0) means(0.0) the(0.0) sheriff(1.0) 's(0.0) department(0.0) will(0.0) lay(0.0) off(0.0) a(0.0) quarter(0.0) 
+of(0.0) their(0.0) workforce(0.0) .(0.0) Now(0.0) ,(0.0) the(0.0) force(1.0) is(0.0) only(0.0) four(0.0) deputies(0.0) ,(0.0) four(0.0) deputies(0.0) including(0.0) the(0.0) sheriff(0.0) ,(0.0) but(0.0) 
+they(0.0) are(0.0) responsible(0.0) for(0.0) patrolling(0.0) 1,833(0.0) square(0.0) miles(0.0) .(0.0) That(0.0) is(0.0) an(0.0) area(0.0) 30(0.0) times(0.0) the(0.0) size(0.0) of(0.0) the(0.0) District(0.0) 
+of(0.0) Columbia(1.0) .(0.0) Last(0.0) year(0.0) ,(0.0) a(0.0) deputy(0.0) found(0.0) 6,000(0.0) marijuana(1.0) plants(0.0) worth(0.0) over(0.0) $(0.0) 19(0.0) million(0.0) spread(0.0) over(0.0) a(0.0) 
+quarter(0.0) of(0.0) a(0.0) mile(0.0) of(0.0) Federal(1.0) land(0.0) .(0.0) This(0.0) operation(0.0) was(0.0) financed(1.0) by(0.0) Mexican(1.0) drug(1.0) cartels(1.0) and(0.0) cultivated(0.0) by(0.0) illegal(1.0) 
+aliens(1.0) .(0.0) When(0.0) my(0.0) office(0.0) inquired(0.0) further(0.0) ,(0.0) we(0.0) found(0.0) out(0.0) that(0.0) the(0.0) deputy(0.0) of(0.0) Wheeler(1.0) County(1.0) who(0.0) was(0.0) out(0.0) 
+patrolling(0.0) was(0.0) doing(0.0) so(0.0) on(0.0) horseback(0.0) on(0.0) your(0.0) Federal(1.0) lands(0.0) .(0.0) That(0.0) is(0.0) where(0.0) he(0.0) is(0.0) protecting(0.0) America(1.0) from(0.0) drug(1.0) 
+cartels(1.0) and(0.0) those(0.0) that(0.0) push(1.0) this(0.0) on(0.0) our(0.0) kids(0.0) .(0.0) The(0.0) sheriff(1.0) says(0.0) ,(0.0) ``(0.0) Cutting(0.0) these(0.0) funds(1.0) will(0.0) increase(0.0) 
+criminal(1.0) activity(0.0) on(0.0) our(0.0) Federal(1.0) lands(1.0) .(0.0) ''(0.0) The(0.0) county(1.0) judge(0.0) says(0.0) ,(0.0) ``(0.0) County(1.0) payments(0.0) has(0.0) been(0.0) our(0.0) savior(1.0) 
+.(0.0) ''(0.0) And(0.0) this(0.0) Congress(0.0) ,(0.0) this(0.0) Congress(0.0) and(0.0) the(0.0) last(0.0) one(0.0) ,(0.0) have(0.0) failed(0.0) to(0.0) reauthorize(1.0) county(1.0) payments(0.0) .(0.0) 
+It(0.0) is(0.0) time(0.0) you(0.0) pass(0.0) H.R(0.0) .(0.0) 17(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+County	Oregon	sheriff	
+force	
+
+Columbia	marijuana	
+Federal	financed	Mexican	drug	cartels	illegal	
+aliens	Wheeler	County	
+Federal	America	drug	
+cartels	push	sheriff	funds	
+criminal	Federal	lands	county	County	savior	
+reauthorize	county	
+
+
+reads % = 0.13043478260869565

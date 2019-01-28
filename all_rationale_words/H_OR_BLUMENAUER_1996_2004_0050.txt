@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) Friday(0.0) marked(0.0) the(0.0) farewell(0.0) to(0.0) ``(0.0) Morning(0.0) Edition(0.0) 's(0.0) ''(0.0) Bob(0.0) Edwards(1.0) .(0.0) PBS(0.0) 's(0.0) ``(0.0) Morning(0.0) Edition(0.0) 
+''(0.0) has(0.0) become(0.0) the(0.0) signature(0.0) program(0.0) for(0.0) public(0.0) radio(0.0) across(0.0) America(0.0) ,(0.0) giving(0.0) expression(0.0) to(0.0) things(0.0) about(0.0) which(0.0) Americans(1.0) care(1.0) 
+the(0.0) most(0.0) :(0.0) war(1.0) and(0.0) peace(0.0) ,(0.0) arts(1.0) and(0.0) culture(1.0) ,(0.0) athletics(1.0) ,(0.0) the(0.0) dramas(0.0) large(0.0) and(0.0) small(0.0) that(0.0) shape(0.0) 
+our(0.0) everyday(0.0) lives(0.0) ,(0.0) and(0.0) the(0.0) global(1.0) events(0.0) that(0.0) profoundly(0.0) affect(0.0) the(0.0) way(0.0) Americans(1.0) look(0.0) at(0.0) themselves(0.0) and(0.0) others(0.0) .(0.0) 
+For(0.0) 24\1/2\(0.0) years(0.0) ,(0.0) Bob(0.0) Edwards(1.0) has(0.0) been(0.0) the(0.0) voice(0.0) of(0.0) ``(0.0) Morning(0.0) Edition(0.0) .(0.0) ''(0.0) Two(0.0) generations(0.0) have(0.0) grown(0.0) 
+up(0.0) with(0.0) him(0.0) ,(0.0) four(0.0) have(0.0) been(0.0) profoundly(0.0) influenced(0.0) .(0.0) His(0.0) has(0.0) been(0.0) a(0.0) voice(0.0) of(0.0) civility(1.0) ,(0.0) reason(0.0) ,(0.0) 
+thoughtful(0.0) exchange(0.0) ,(0.0) and(0.0) good(0.0) humor(0.0) ,(0.0) exactly(0.0) why(0.0) most(0.0) of(0.0) us(0.0) are(0.0) not(0.0) just(0.0) devoted(0.0) fans(0.0) of(0.0) public(1.0) broadcasting(0.0) 
+,(0.0) but(0.0) heavily(0.0) dependent(1.0) upon(0.0) it(0.0) .(0.0) Thank(0.0) you(0.0) ,(0.0) Bob(0.0) Edwards(1.0) ,(0.0) for(0.0) almost(0.0) a(0.0) quarter(0.0) century(0.0) of(0.0) enriching(1.0) 
+our(0.0) lives(0.0) .(0.0) The(0.0) last(0.0) show(0.0) was(0.0) poignant(0.0) and(0.0) insightful(0.0) ,(0.0) everything(0.0) we(0.0) have(0.0) come(0.0) to(0.0) expect(0.0) from(0.0) you(0.0) .(0.0) 
+With(0.0) profound(0.0) sadness(0.0) and(0.0) regret(0.0) at(0.0) your(0.0) departure(0.0) ,(0.0) we(0.0) have(0.0) great(0.0) expectations(0.0) about(0.0) what(0.0) you(0.0) will(0.0) do(0.0) next(0.0) .(0.0) 
+Best(0.0) wishes(0.0) ,(0.0) Bob(0.0) Edwards(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Edwards	
+Americans	care	
+war	arts	culture	athletics	
+global	Americans	
+Edwards	
+civility	
+public	
+dependent	Edwards	enriching	
+
+
+Edwards	
+
+reads % = 0.07729468599033816

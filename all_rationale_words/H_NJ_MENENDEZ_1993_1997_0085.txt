@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Further(0.0) parliamentary(0.0) inquiry(0.0) ,(0.0) is(0.0) it(0.0) my(0.0) understanding(0.0) that(0.0) it(0.0) can(0.0) be(0.0) no(0.0) later(0.0) than(0.0) Thursday(0.0) of(0.0) this(0.0) week(0.0) ,(0.0) Mr.(0.0) 
+Speaker(1.0) ?(1.0) 
+
+
+----- below are rationale words -----
+
+
+Speaker	?	
+
+reads % = 0.08695652173913043

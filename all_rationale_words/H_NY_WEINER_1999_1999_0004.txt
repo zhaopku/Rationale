@@ -1,0 +1,36 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) some(0.0) might(0.0) wonder(0.0) when(0.0) it(0.0) became(0.0) a(0.0) partisan(0.0) issue(0.0) to(0.0) support(0.0) our(0.0) children(0.0) and(0.0) our(0.0) schools(1.0) .(0.0) If(0.0) you(0.0) 
+recall(0.0) after(0.0) World(0.0) War(0.0) II(0.0) there(0.0) was(0.0) truly(0.0) a(0.0) bipartisan(1.0) spirit(0.0) in(0.0) this(0.0) country(1.0) that(0.0) we(0.0) needed(0.0) to(0.0) invest(1.0) in(0.0) 
+education(1.0) at(0.0) all(0.0) levels(0.0) .(0.0) We(0.0) built(0.0) more(0.0) schools(1.0) in(0.0) communities(1.0) all(0.0) around(0.0) this(0.0) country(1.0) ,(0.0) we(0.0) encouraged(1.0) more(0.0) people(0.0) 
+to(0.0) go(0.0) into(0.0) teaching(0.0) ,(0.0) and(0.0) we(0.0) hired(0.0) tens(1.0) of(0.0) thousands(1.0) of(0.0) new(0.0) teachers(0.0) .(0.0) We(0.0) need(0.0) to(0.0) do(0.0) the(0.0) 
+same(0.0) type(0.0) of(0.0) bipartisan(1.0) plan(1.0) now(0.0) that(0.0) the(0.0) Cold(1.0) War(0.0) has(0.0) ended(0.0) ,(0.0) now(0.0) that(0.0) we(0.0) have(0.0) realized(0.0) that(0.0) our(0.0) 
+battles(1.0) that(0.0) we(0.0) are(0.0) going(0.0) to(0.0) be(0.0) fighting(1.0) in(0.0) the(0.0) future(0.0) will(0.0) be(0.0) on(0.0) the(0.0) economic(1.0) battlefield(0.0) ,(0.0) not(0.0) the(0.0) 
+military(0.0) battlefield(0.0) ,(0.0) thank(0.0) God(0.0) .(0.0) Now(0.0) we(0.0) have(0.0) to(0.0) do(0.0) the(0.0) same(0.0) :(0.0) we(0.0) have(0.0) to(0.0) invest(1.0) in(0.0) modernizing(1.0) 
+those(0.0) schools(1.0) ,(0.0) we(0.0) have(0.0) to(0.0) invest(1.0) in(0.0) hiring(1.0) more(0.0) teachers(0.0) .(0.0) We(0.0) have(0.0) to(0.0) take(0.0) that(0.0) kind(0.0) of(0.0) approach(0.0) 
+.(0.0) I(0.0) think(0.0) that(0.0) we(0.0) can(0.0) all(0.0) agree(0.0) that(0.0) it(0.0) should(0.0) be(0.0) a(0.0) bipartisan(1.0) effort(0.0) .(0.0) When(0.0) a(0.0) youngster(0.0) in(0.0) 
+PS(0.0) 254(0.0) in(0.0) my(0.0) district(0.0) ,(0.0) which(0.0) is(0.0) dramatically(0.0) overcrowded(1.0) ,(0.0) is(0.0) trying(0.0) to(0.0) figure(0.0) out(0.0) why(0.0) they(0.0) are(0.0) learning(0.0) 
+in(0.0) a(0.0) gymnasium(0.0) and(0.0) a(0.0) lunchroom(0.0) ,(0.0) they(0.0) are(0.0) not(0.0) thinking(0.0) because(0.0) it(0.0) is(0.0) a(0.0) Democrat(0.0) or(0.0) a(0.0) Republican(0.0) ,(1.0) 
+they(1.0) are(1.0) thinking(1.0) because(1.0) we(1.0) simply(1.0) need(1.0) new(1.0) spaces(0.0) .(0.0) This(0.0) is(0.0) the(0.0) kind(0.0) of(0.0) thing(0.0) we(0.0) must(0.0) do(0.0) .(0.0) 
+We(0.0) need(0.0) to(0.0) hire(0.0) teachers(0.0) ,(0.0) modernize(1.0) schools(1.0) ,(0.0) and(0.0) make(0.0) college(1.0) tax(1.0) deductible(1.0) .(0.0) We(0.0) should(0.0) do(0.0) it(0.0) in(0.0) 
+a(0.0) bipartisan(1.0) fashion(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+schools	
+bipartisan	country	invest	
+education	schools	communities	country	encouraged	
+tens	thousands	
+bipartisan	plan	Cold	
+battles	fighting	economic	
+invest	modernizing	
+schools	invest	hiring	
+bipartisan	
+overcrowded	
+,	
+they	are	thinking	because	we	simply	need	new	
+modernize	schools	college	tax	deductible	
+bipartisan	fashion	
+
+reads % = 0.1509433962264151

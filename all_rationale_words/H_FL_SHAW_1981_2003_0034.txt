@@ -1,0 +1,54 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) people(0.0) watching(0.0) this(0.0) debate(1.0) may(0.0) have(0.0) noticed(0.0) that(0.0) the(0.0) only(0.0) speakers(0.0) in(0.0) favor(1.0) of(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) 
+'s(0.0) amendment(1.0) are(0.0) Members(0.0) from(0.0) the(0.0) State(0.0) of(0.0) Texas(1.0) .(0.0) We(0.0) have(0.0) seen(0.0) even(0.0) Jessica(0.0) Lynch(1.0) ,(0.0) an(0.0) American(0.0) hero(0.0) 
+who(0.0) has(0.0) just(0.0) been(0.0) freed(0.0) as(0.0) a(0.0) prisoner(0.0) of(0.0) war(1.0) ,(0.0) brought(0.0) into(0.0) this(0.0) debate(1.0) .(0.0) Jessica(0.0) is(0.0) going(0.0) back(0.0) 
+to(0.0) West(1.0) Virginia(0.0) to(0.0) teach(0.0) ,(0.0) and(0.0) she(0.0) is(0.0) not(0.0) going(0.0) to(0.0) get(0.0) this(0.0) loophole(1.0) .(0.0) We(0.0) need(0.0) to(0.0) wipe(0.0) 
+it(0.0) out(0.0) .(0.0) It(0.0) is(0.0) unfair(1.0) ,(0.0) and(0.0) it(0.0) is(0.0) gaming(0.0) the(0.0) system(0.0) .(0.0) We(0.0) have(0.0) heard(0.0) about(0.0) people(0.0) in(0.0) 
+the(0.0) private(0.0) sector(0.0) ,(0.0) employees(1.0) of(0.0) HMOs(1.0) ,(0.0) employees(0.0) of(0.0) automobile(0.0) companies(1.0) and(0.0) all(0.0) ,(0.0) they(0.0) do(0.0) not(0.0) have(0.0) the(0.0) 
+pension(1.0) offset(1.0) .(0.0) They(0.0) do(0.0) not(0.0) have(0.0) it(0.0) because(0.0) they(0.0) paid(0.0) into(0.0) Social(0.0) Security(0.0) .(0.0) Why(0.0) should(0.0) they(0.0) have(0.0) an(0.0) 
+offset(1.0) if(0.0) they(0.0) have(0.0) paid(0.0) into(0.0) Social(0.0) Security(0.0) ?(0.0) We(0.0) have(0.0) heard(0.0) about(0.0) the(0.0) soldiers(0.0) coming(0.0) home(0.0) .(0.0) What(0.0) type(0.0) 
+of(0.0) a(0.0) desperate(1.0) argument(0.0) is(0.0) this(0.0) ?(0.0) This(0.0) has(0.0) nothing(0.0) to(0.0) do(0.0) with(0.0) the(0.0) soldiers(1.0) anymore(0.0) than(0.0) someone(0.0) right(0.0) now(0.0) 
+who(0.0) is(0.0) struggling(0.0) to(0.0) get(0.0) through(0.0) college(1.0) to(0.0) go(0.0) to(0.0) teach(0.0) themselves(0.0) .(0.0) Ladies(0.0) and(0.0) gentlemen(0.0) ,(0.0) I(0.0) will(0.0) tell(0.0) 
+it(0.0) to(0.0) the(0.0) 48(0.0) other(0.0) States(0.0) other(0.0) than(0.0) Texas(1.0) and(0.0) Georgia(1.0) that(0.0) you(0.0) would(0.0) be(0.0) giving(0.0) public(1.0) employees(0.0) in(0.0) two(0.0) 
+States(0.0) an(0.0) advantage(0.0) that(0.0) they(0.0) do(0.0) not(0.0) receive(0.0) in(0.0) the(0.0) rest(0.0) of(0.0) the(0.0) country(1.0) .(0.0) You(0.0) will(0.0) be(0.0) giving(0.0) to(0.0) 
+these(0.0) teachers(0.0) and(0.0) these(0.0) firefighters(1.0) something(0.0) that(0.0) their(0.0) teachers(0.0) and(0.0) their(0.0) firefighters(1.0) will(0.0) not(0.0) have(0.0) .(0.0) This(0.0) is(0.0) basically(0.0) unfair(1.0) 
+.(0.0) We(0.0) are(0.0) going(0.0) to(0.0) correct(0.0) it(0.0) .(0.0) We(0.0) have(0.0) heard(0.0) about(0.0) the(0.0) pension(1.0) offset(1.0) .(0.0) All(0.0) of(0.0) us(0.0) have(0.0) 
+been(0.0) talked(0.0) about(0.0) that(0.0) .(0.0) Our(0.0) Federal(1.0) employees(1.0) ,(0.0) our(0.0) retired(0.0) Federal(0.0) employees(1.0) ,(0.0) they(0.0) have(0.0) all(0.0) been(0.0) into(0.0) our(0.0) 
+office(0.0) talking(0.0) about(0.0) the(0.0) pension(1.0) offset(1.0) .(0.0) That(0.0) is(0.0) going(0.0) to(0.0) cost(1.0) us(0.0) $(0.0) 9(0.0) billion(1.0) if(0.0) we(0.0) are(0.0) able(0.0) 
+to(0.0) do(0.0) something(0.0) with(0.0) it(0.0) ,(0.0) and(0.0) I(0.0) would(0.0) like(0.0) to(0.0) address(0.0) that(0.0) ;(0.0) and(0.0) Mr.(0.0) Matsui(1.0) and(0.0) I(0.0) have(0.0) 
+agreed(0.0) to(0.0) have(0.0) hearings(1.0) on(0.0) it(0.0) ,(0.0) and(0.0) we(0.0) are(0.0) going(0.0) to(0.0) look(0.0) to(0.0) ways(0.0) in(0.0) order(0.0) to(0.0) try(0.0) to(0.0) 
+do(0.0) that(0.0) ,(0.0) but(0.0) that(0.0) has(0.0) nothing(0.0) to(0.0) do(0.0) with(0.0) this(0.0) vote(1.0) ,(0.0) absolutely(0.0) nothing(0.0) to(0.0) do(0.0) with(0.0) it(0.0) .(0.0) 
+This(0.0) has(0.0) only(0.0) to(0.0) do(0.0) with(0.0) a(0.0) handful(0.0) of(0.0) public(1.0) employees(0.0) who(0.0) are(0.0) gaming(0.0) the(0.0) system(0.0) in(0.0) the(0.0) State(0.0) of(0.0) 
+Texas(1.0) and(0.0) even(0.0) a(0.0) smaller(0.0) number(0.0) in(0.0) the(0.0) State(0.0) of(0.0) Georgia(1.0) .(0.0) Vote(0.0) ``(0.0) no(0.0) ''(0.0) on(0.0) the(0.0) Green(0.0) amendment(1.0) 
+.(0.0) Vote(1.0) ``(0.0) yes(0.0) ''(0.0) on(0.0) the(0.0) bill(1.0) .(0.0) It(0.0) is(0.0) a(0.0) good(0.0) bill(0.0) ,(0.0) and(0.0) it(0.0) is(0.0) time(0.0) that(0.0) 
+we(0.0) clean(0.0) this(0.0) up(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	debate	favor	
+amendment	Texas	Lynch	
+war	debate	
+West	loophole	
+unfair	
+employees	HMOs	companies	
+pension	offset	
+offset	
+desperate	soldiers	
+college	
+Texas	Georgia	public	
+country	
+firefighters	firefighters	unfair	
+pension	offset	
+Federal	employees	employees	
+pension	offset	cost	billion	
+Matsui	
+hearings	
+vote	
+public	
+Texas	Georgia	amendment	
+Vote	bill	
+
+
+reads % = 0.10089686098654709

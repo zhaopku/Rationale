@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) to(0.0) congratulate(0.0) our(0.0) United(0.0) States(0.0) military(0.0) for(0.0) eliminating(1.0) a(0.0) ruthless(0.0) and(0.0) brutal(1.0) terrorist(1.0) in(0.0) Iraq(1.0) .(0.0) 
+Late(0.0) Wednesday(0.0) night(0.0) ,(0.0) it(0.0) was(0.0) announced(0.0) that(0.0) Abu(0.0) Musab(1.0) al-Zarqawi(1.0) ,(0.0) al(0.0) Qaeda(1.0) 's(0.0) leader(0.0) in(0.0) Iraq(1.0) ,(0.0) had(0.0) 
+been(0.0) killed(0.0) in(0.0) an(0.0) air(0.0) raid(0.0) .(0.0) This(0.0) is(0.0) a(0.0) tremendous(0.0) victory(0.0) in(0.0) our(0.0) war(1.0) on(0.0) terrorism(1.0) and(0.0) a(0.0) tremendous(0.0) 
+day(0.0) for(0.0) the(0.0) Iraqi(1.0) people(0.0) .(0.0) In(0.0) fact(0.0) ,(0.0) the(0.0) air(0.0) strike(0.0) resulted(1.0) from(0.0) tips(0.0) given(0.0) to(0.0) Iraqi(1.0) Security(0.0) Forces(0.0) 
+by(0.0) residents(1.0) in(0.0) Diyala(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) al-Zarqawi(1.0) was(0.0) responsible(0.0) for(0.0) an(0.0) untold(1.0) number(0.0) of(0.0) bombings(1.0) and(0.0) kidnappings(0.0) .(0.0) 
+He(0.0) is(0.0) even(0.0) believed(0.0) to(0.0) have(0.0) personally(0.0) beheaded(0.0) two(0.0) American(0.0) hostages(1.0) .(0.0) His(0.0) death(0.0) lets(0.0) our(0.0) enemies(1.0) know(0.0) we(0.0) will(0.0) 
+not(0.0) bow(0.0) to(0.0) their(0.0) ruthless(1.0) tactics(0.0) .(0.0) America(1.0) ,(0.0) our(0.0) allies(1.0) and(0.0) the(0.0) Iraqi(1.0) people(0.0) are(0.0) committed(0.0) to(0.0) the(0.0) triumph(1.0) 
+of(0.0) liberty(1.0) over(0.0) terrorism(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) our(0.0) military(1.0) is(0.0) doing(0.0) an(0.0) outstanding(0.0) job(0.0) protecting(0.0) our(0.0) Nation(1.0) from(0.0) those(0.0) 
+who(0.0) wish(0.0) us(0.0) harm(0.0) .(0.0) I(0.0) ask(0.0) that(0.0) you(0.0) join(0.0) me(0.0) in(0.0) thanking(0.0) our(0.0) servicemen(1.0) and(0.0) women(1.0) for(0.0) their(0.0) selfless(1.0) 
+courage(0.0) and(0.0) congratulate(0.0) them(0.0) on(0.0) their(0.0) most(0.0) recent(0.0) victory(1.0) ,(0.0) the(0.0) elimination(1.0) of(0.0) the(0.0) brutal(1.0) terrorist(1.0) leader(0.0) ,(0.0) al-Zarqawi(1.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+eliminating	brutal	terrorist	Iraq	
+Musab	al-Zarqawi	Qaeda	Iraq	
+war	terrorism	
+Iraqi	resulted	Iraqi	
+residents	Diyala	Speaker	al-Zarqawi	untold	bombings	
+hostages	enemies	
+ruthless	America	allies	Iraqi	triumph	
+liberty	terrorism	Speaker	military	Nation	
+servicemen	women	selfless	
+victory	elimination	brutal	terrorist	al-Zarqawi	
+
+
+reads % = 0.19402985074626866

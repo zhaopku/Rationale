@@ -1,0 +1,38 @@
+This is from a Democrat
+----- below is the original text -----
+Head(0.0) Start(0.0) has(0.0) proven(0.0) its(0.0) ability(0.0) to(0.0) improve(0.0) the(0.0) lives(0.0) of(0.0) disadvantaged(1.0) children(0.0) .(0.0) Numerous(0.0) studies(0.0) have(0.0) demonstrated(0.0) that(0.0) children(0.0) who(0.0) 
+attend(0.0) Head(0.0) Start(0.0) come(0.0) to(0.0) school(0.0) more(0.0) prepared(0.0) than(0.0) children(0.0) who(0.0) do(0.0) not(0.0) participate(0.0) ,(0.0) and(0.0) that(0.0) these(0.0) effects(0.0) last(0.0) 
+over(0.0) a(0.0) period(0.0) of(0.0) years(0.0) .(0.0) I(0.0) have(0.0) personal(0.0) experience(0.0) with(0.0) the(0.0) program(1.0) --(0.0) my(0.0) wife(0.0) ,(0.0) Michelle(0.0) ,(0.0) was(0.0) 
+a(0.0) Head(0.0) Start(0.0) teacher(0.0) for(0.0) 7(0.0) years(0.0) in(0.0) Oregon(1.0) .(0.0) In(0.0) her(0.0) classes(0.0) ,(0.0) I(0.0) saw(0.0) the(0.0) children(0.0) of(0.0) janitors(1.0) 
+and(0.0) security(0.0) guards(0.0) .(0.0) Their(0.0) parents(0.0) worked(0.0) in(0.0) the(0.0) sparkling(0.0) towers(0.0) of(0.0) downtown(1.0) Portland(1.0) ,(0.0) but(0.0) they(0.0) themselves(0.0) never(0.0) got(0.0) 
+to(0.0) visit(0.0) downtown(1.0) ,(0.0) except(0.0) in(0.0) their(0.0) Head(0.0) Start(0.0) field(0.0) trips(0.0) .(0.0) The(0.0) Improving(1.0) Head(0.0) Start(0.0) Act(0.0) makes(0.0) several(0.0) needed(0.0) 
+changes(0.0) to(0.0) current(0.0) law(1.0) .(0.0) It(0.0) ends(0.0) the(0.0) use(0.0) of(0.0) the(0.0) National(0.0) Reporting(0.0) System(0.0) --(0.0) a(0.0) flawed(1.0) testing(0.0) system(0.0) that(0.0) 
+has(0.0) tested(0.0) over(0.0) 500,000(1.0) 4-year-olds(1.0) ,(0.0) despite(0.0) strong(0.0) opposition(1.0) by(0.0) child(1.0) development(1.0) experts(0.0) .(0.0) The(0.0) bill(1.0) also(1.0) improves(0.0) current(0.0) law(1.0) 
+by(0.0) making(0.0) clear(0.0) that(0.0) Head(0.0) Start(0.0) agencies(1.0) must(0.0) establish(0.0) and(0.0) maintain(0.0) a(0.0) formal(0.0) structure(0.0) of(0.0) shared(0.0) governance(1.0) with(0.0) parent(0.0) policy(1.0) 
+councils(1.0) .(0.0) This(0.0) will(0.0) codify(1.0) in(0.0) law(1.0) that(0.0) parents(0.0) have(0.0) the(0.0) ability(0.0) to(0.0) shape(0.0) and(0.0) share(0.0) a(0.0) role(0.0) in(0.0) the(0.0) 
+success(0.0) of(0.0) their(0.0) local(0.0) Head(0.0) Start(0.0) program(0.0) .(0.0) Finally(0.0) ,(0.0) the(0.0) bill(1.0) authorizes(1.0) $(0.0) 7.35(0.0) billion(1.0) in(0.0) funding(1.0) for(0.0) the(0.0) 
+program(1.0) in(0.0) FY08(1.0) --(0.0) an(0.0) increase(1.0) of(0.0) over(0.0) $(0.0) 400(0.0) million(0.0) from(0.0) this(0.0) year(0.0) 's(0.0) level(0.0) .(0.0) Oregon(1.0) 's(0.0) Department(0.0) 
+of(0.0) Education(0.0) reports(0.0) that(0.0) ,(0.0) as(0.0) of(0.0) January(0.0) 2007(0.0) ,(0.0) 43.2(0.0) percent(0.0) of(0.0) eligible(0.0) children(0.0) can(0.0) not(0.0) participate(0.0) in(0.0) the(0.0) 
+program(0.0) due(0.0) to(0.0) lack(0.0) of(0.0) funding(1.0) .(0.0) Head(0.0) Start(0.0) is(0.0) a(0.0) highly(0.0) successful(0.0) program(0.0) ,(0.0) and(0.0) it(0.0) ultimately(0.0) costs(1.0) all(0.0) 
+of(0.0) us(0.0) when(0.0) those(0.0) eligible(1.0) can(0.0) not(0.0) participate(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+disadvantaged	
+
+program	
+Oregon	janitors	
+downtown	Portland	
+downtown	Improving	
+law	flawed	
+500,000	4-year-olds	opposition	child	development	bill	also	law	
+agencies	governance	policy	
+councils	codify	law	
+bill	authorizes	billion	funding	
+program	FY08	increase	Oregon	
+
+funding	costs	
+eligible	
+
+reads % = 0.1206896551724138

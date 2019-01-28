@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) me(0.0) this(0.0) time(0.0) ,(0.0) and(0.0) I(0.0) take(0.0) this(0.0) moment(0.0) to(0.0) support(0.0) the(0.0) amendment(1.0) 
+.(0.0) I(0.0) think(0.0) it(0.0) is(0.0) a(0.0) very(0.0) good(0.0) amendment(1.0) .(0.0) Our(0.0) dealings(1.0) in(0.0) the(0.0) subcommittee(0.0) with(0.0) HIDTA(1.0) is(0.0) that(0.0) HIDTA(1.0) 
+allows(0.0) for(0.0) all(0.0) of(0.0) our(0.0) law(1.0) enforcement(1.0) agencies(0.0) to(0.0) come(0.0) together(0.0) to(0.0) address(0.0) the(0.0) issue(0.0) of(0.0) drugs(1.0) .(0.0) And(0.0) certainly(0.0) 
+where(0.0) there(0.0) is(0.0) a(0.0) problem(0.0) ,(0.0) we(0.0) want(0.0) to(0.0) make(0.0) sure(0.0) that(0.0) law(1.0) enforcement(1.0) is(0.0) there(0.0) .(0.0) I(0.0) have(0.0) often(0.0) 
+said(0.0) that(0.0) we(0.0) can(0.0) not(0.0) deal(0.0) with(0.0) drugs(1.0) just(0.0) from(0.0) a(0.0) law(1.0) enforcement(1.0) standpoint(1.0) ,(0.0) but(0.0) we(0.0) have(0.0) to(0.0) couple(0.0) 
+that(0.0) with(0.0) effective(0.0) treatment(0.0) and(0.0) try(0.0) to(0.0) prevent(0.0) folks(0.0) from(0.0) even(0.0) going(0.0) on(0.0) drugs(1.0) .(0.0) But(0.0) the(0.0) fact(0.0) is(0.0) I(0.0) 
+think(0.0) it(0.0) is(0.0) a(0.0) good(0.0) amendment(1.0) and(0.0) it(0.0) makes(0.0) our(0.0) bill(1.0) a(0.0) better(0.0) one(0.0) .(0.0) I(0.0) think(0.0) that(0.0) what(0.0) the(0.0) 
+gentleman(0.0) has(0.0) done(0.0) through(0.0) the(0.0) amendment(1.0) has(0.0) brought(0.0) something(0.0) to(0.0) the(0.0) attention(0.0) of(0.0) the(0.0) committee(0.0) and(0.0) certainly(0.0) sort(0.0) of(0.0) shined(0.0) 
+a(0.0) little(0.0) light(0.0) on(0.0) so(0.0) that(0.0) perhaps(0.0) we(0.0) can(0.0) more(0.0) effectively(0.0) deal(0.0) with(0.0) those(0.0) problems(0.0) in(0.0) those(0.0) tribal(1.0) areas(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+amendment	
+amendment	dealings	HIDTA	HIDTA	
+law	enforcement	drugs	
+law	enforcement	
+drugs	law	enforcement	standpoint	
+drugs	
+amendment	bill	
+amendment	
+tribal	
+
+
+reads % = 0.10497237569060773

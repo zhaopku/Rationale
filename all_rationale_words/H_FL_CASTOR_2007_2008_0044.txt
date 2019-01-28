@@ -1,0 +1,10 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) lay(0.0) the(0.0) motion(1.0) to(0.0) reconsider(1.0) on(0.0) the(0.0) table(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+motion	reconsider	
+
+reads % = 0.14285714285714285

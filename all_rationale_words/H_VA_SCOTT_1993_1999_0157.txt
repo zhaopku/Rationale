@@ -1,0 +1,38 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) the(0.0) problem(0.0) with(0.0) this(0.0) amendment(1.0) is(0.0) we(0.0) have(0.0) not(0.0) had(0.0) any(0.0) hearings(1.0) .(0.0) This(0.0) has(0.0) profound(0.0) educational(1.0) implications(1.0) 
+;(0.0) no(0.0) hearings(0.0) in(0.0) the(0.0) Committee(0.0) on(0.0) Education(0.0) and(0.0) the(0.0) Workforce(0.0) .(0.0) Profound(0.0) litigation(1.0) implications(0.0) ;(0.0) no(0.0) hearings(0.0) in(0.0) the(0.0) 
+Committee(0.0) on(0.0) the(0.0) Judiciary(0.0) .(0.0) So(0.0) it(0.0) sounds(0.0) good(0.0) .(0.0) It(0.0) might(0.0) be(0.0) a(0.0) good(0.0) idea(0.0) ;(0.0) it(0.0) might(0.0) not(0.0) 
+.(0.0) We(0.0) do(0.0) not(0.0) know(0.0) because(0.0) we(0.0) have(0.0) not(0.0) had(0.0) any(0.0) hearings(1.0) .(0.0) We(0.0) do(0.0) not(0.0) have(0.0) any(0.0) concrete(0.0) evidence(0.0) 
+of(0.0) the(0.0) experience(0.0) across(0.0) the(0.0) country(1.0) with(0.0) hundreds(0.0) of(0.0) thousands(0.0) of(0.0) teachers(0.0) .(0.0) How(0.0) many(0.0) have(0.0) been(0.0) sued(0.0) ?(0.0) What(0.0) 
+were(0.0) the(0.0) conditions(0.0) ?(0.0) Who(0.0) had(0.0) to(0.0) pay(0.0) ?(0.0) We(0.0) do(0.0) not(0.0) know(0.0) .(0.0) We(0.0) have(0.0) constitutional(1.0) implications(1.0) ,(0.0) and(0.0) 
+whether(0.0) or(0.0) not(0.0) we(0.0) have(0.0) the(0.0) authority(0.0) to(0.0) impose(1.0) this(0.0) situation(0.0) on(0.0) the(0.0) States(0.0) ,(0.0) we(0.0) have(0.0) not(0.0) had(0.0) an(0.0) 
+opportunity(0.0) to(0.0) consider(0.0) that(0.0) .(0.0) There(0.0) are(0.0) significant(0.0) and(0.0) profound(0.0) changes(0.0) in(0.0) the(0.0) law(1.0) in(0.0) terms(0.0) of(0.0) punitive(1.0) damages(1.0) ,(0.0) 
+and(0.0) the(0.0) burden(1.0) of(0.0) proof(1.0) ,(0.0) joint(1.0) and(0.0) several(0.0) liability(0.0) .(0.0) The(0.0) preponderance(1.0) of(0.0) the(0.0) evidence(0.0) ,(0.0) the(0.0) burden(1.0) of(0.0) 
+proof(1.0) that(0.0) is(0.0) needed(0.0) .(0.0) We(0.0) have(0.0) not(0.0) had(0.0) the(0.0) opportunity(0.0) to(0.0) propose(1.0) amendments(1.0) to(0.0) clarify(0.0) which(0.0) might(0.0) be(0.0) good(0.0) 
+ideas(0.0) and(0.0) which(0.0) may(0.0) not(0.0) .(0.0) We(0.0) do(0.0) not(0.0) know(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) with(0.0) all(0.0) the(0.0) unanswered(0.0) questions(0.0) ,(0.0) 
+I(0.0) think(0.0) we(0.0) would(0.0) be(0.0) ill-advised(1.0) to(0.0) adopt(1.0) this(0.0) amendment(1.0) .(0.0) We(0.0) should(0.0) vote(1.0) no(0.0) and(0.0) have(0.0) hearings(1.0) ,(0.0) and(0.0) 
+if(0.0) it(0.0) is(0.0) a(0.0) good(0.0) idea(0.0) it(0.0) will(0.0) survive(0.0) the(0.0) normal(0.0) legislative(0.0) process(0.0) .(0.0) The(0.0) CHAIRMAN(0.0) pro(0.0) tempore(0.0) .(0.0) The(0.0) 
+question(0.0) is(0.0) on(0.0) the(0.0) amendment(1.0) offered(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) Indiana(1.0) ((0.0) Mr.(0.0) MCIntosh(1.0) )(0.0) .(0.0) The(0.0) question(0.0) was(0.0) taken(0.0) 
+;(0.0) and(0.0) the(0.0) Chairman(0.0) pro(0.0) tempore(0.0) announced(1.0) that(0.0) the(0.0) ayes(1.0) appeared(0.0) to(0.0) have(0.0) it(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	amendment	hearings	educational	implications	
+litigation	
+
+hearings	
+country	
+constitutional	implications	
+impose	
+law	punitive	damages	
+burden	proof	joint	preponderance	burden	
+proof	propose	amendments	
+Chairman	
+ill-advised	adopt	amendment	vote	hearings	
+
+amendment	Indiana	MCIntosh	
+announced	ayes	
+
+reads % = 0.11148648648648649

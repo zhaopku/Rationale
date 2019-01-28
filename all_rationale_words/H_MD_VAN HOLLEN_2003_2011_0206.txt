@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) American(0.0) families(1.0) do(0.0) n't(0.0) have(0.0) the(0.0) luxury(0.0) of(0.0) saying(0.0) if(0.0) we(0.0) do(0.0) n't(0.0) get(0.0) things(0.0) 100(0.0) percent(0.0) our(0.0) way(0.0) 
+,(0.0) we(0.0) wo(0.0) n't(0.0) pay(1.0) our(0.0) family(0.0) bills(0.0) .(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+families	
+pay	
+
+reads % = 0.05263157894736842

@@ -1,0 +1,20 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Pennsylvania(1.0) ((0.0) Mr.(0.0) Murtha(1.0) )(0.0) ,(0.0) a(0.0) distinguished(0.0) 
+Member(0.0) of(0.0) this(0.0) House(0.0) that(0.0) does(0.0) not(0.0) ask(0.0) to(0.0) speak(0.0) unless(0.0) he(0.0) really(0.0) believes(0.0) that(0.0) it(0.0) is(0.0) important(0.0) to(0.0) the(0.0) 
+national(1.0) security(0.0) of(0.0) our(0.0) great(0.0) Republic(0.0) .(0.0) It(0.0) is(0.0) a(0.0) great(0.0) and(0.0) distinct(0.0) honor(0.0) for(0.0) me(0.0) to(0.0) yield(0.0) the(0.0) remainder(0.0) 
+of(0.0) my(0.0) time(0.0) to(0.0) him(0.0) .(0.0) The(0.0) SPEAKER(0.0) pro(0.0) tempore(0.0) ((1.0) Mr.(0.0) Gillmor(1.0) )(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) New(0.0) York(1.0) 
+((0.0) Mr.(0.0) Rangel(1.0) )(0.0) has(1.0) 4(0.0) minutes(0.0) remaining(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) Pennsylvania(1.0) ((0.0) Mr.(0.0) Murtha(1.0) )(0.0) is(1.0) recognized(0.0) for(0.0) 
+4(0.0) minutes(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Pennsylvania	Murtha	
+
+national	
+(	Gillmor	York	
+Rangel	has	Pennsylvania	Murtha	is	
+
+
+reads % = 0.10576923076923077

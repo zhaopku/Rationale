@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) the(0.0) House(0.0) is(0.0) scheduled(0.0) to(0.0) consider(0.0) the(0.0) conference(0.0) report(0.0) on(0.0) the(0.0) budget(1.0) resolution(1.0) for(0.0) fiscal(1.0) year(0.0) 1995(0.0) shortly(0.0) .(0.0) 
+I(0.0) want(0.0) to(0.0) take(0.0) this(0.0) opportunity(0.0) to(0.0) talk(0.0) in(0.0) general(0.0) terms(0.0) about(0.0) the(0.0) direction(0.0) this(0.0) document(0.0) sets(0.0) for(0.0) this(0.0) country(1.0) 
+over(0.0) the(0.0) next(0.0) few(0.0) years(0.0) .(0.0) It(0.0) seems(0.0) to(0.0) me(0.0) that(0.0) that(0.0) is(0.0) what(0.0) budgets(1.0) are(0.0) for(0.0) ,(0.0) for(0.0) setting(0.0) 
+a(0.0) general(0.0) course(0.0) and(0.0) a(0.0) general(0.0) direction(0.0) for(0.0) what(0.0) we(0.0) will(0.0) do(0.0) with(0.0) this(0.0) government(1.0) .(0.0) We(0.0) can(0.0) get(0.0) caught(0.0) 
+up(0.0) in(0.0) specifics(0.0) ,(0.0) the(0.0) fine(0.0) print(0.0) of(0.0) the(0.0) document(0.0) .(0.0) Of(0.0) course(0.0) ,(0.0) that(0.0) is(0.0) entirely(0.0) appropriate(0.0) and(0.0) necessary(0.0) 
+at(0.0) some(0.0) point(0.0) .(0.0) But(0.0) we(0.0) should(0.0) not(0.0) lose(0.0) sight(0.0) of(0.0) the(0.0) bigger(0.0) picture(0.0) .(0.0) We(0.0) should(0.0) not(0.0) lose(0.0) sight(0.0) 
+of(0.0) the(0.0) fact(0.0) that(0.0) budgets(1.0) set(0.0) the(0.0) direction(0.0) for(0.0) this(0.0) Congress(1.0) ,(0.0) for(0.0) this(0.0) Government(1.0) ,(0.0) and(0.0) for(0.0) this(0.0) country(1.0) 
+.(0.0) When(0.0) you(0.0) look(0.0) at(0.0) the(0.0) bigger(0.0) picture(0.0) ,(0.0) it(0.0) becomes(0.0) apparent(0.0) that(0.0) we(0.0) have(0.0) an(0.0) honest(0.0) disagreement(0.0) in(0.0) this(0.0) 
+country(1.0) about(0.0) the(0.0) role(0.0) of(0.0) the(0.0) Federal(1.0) Government(1.0) and(0.0) the(0.0) direction(0.0) we(0.0) should(0.0) go(0.0) .(0.0) That(0.0) principle(1.0) should(0.0) be(0.0) a(0.0) 
+part(0.0) of(0.0) the(0.0) great(0.0) debates(1.0) for(0.0) the(0.0) election(1.0) in(0.0) 1994(1.0) .(0.0) We(0.0) ought(1.0) to(0.0) be(0.0) deciding(0.0) in(0.0) general(0.0) terms(0.0) where(0.0) 
+you(0.0) go(0.0) ,(0.0) what(0.0) do(0.0) we(0.0) want(0.0) ,(0.0) do(0.0) we(0.0) want(0.0) more(0.0) Government(1.0) or(0.0) less(0.0) ?(0.0) If(0.0) you(0.0) want(0.0) more(0.0) 
+,(0.0) it(0.0) costs(1.0) more(0.0) .(0.0) You(0.0) can(0.0) not(0.0) keep(0.0) putting(0.0) it(0.0) on(0.0) a(0.0) credit(0.0) card(0.0) .(0.0) Do(0.0) you(0.0) want(0.0) higher(0.0) 
+taxes(1.0) or(0.0) less(0.0) ?(0.0) Do(0.0) you(0.0) want(0.0) the(0.0) Government(1.0) to(0.0) take(0.0) for(0.0) them(0.0) the(0.0) 40(0.0) percent(0.0) it(0.0) already(0.0) takes(0.0) ,(0.0) 
+or(0.0) do(0.0) you(0.0) want(0.0) families(0.0) to(0.0) be(0.0) able(0.0) to(0.0) decide(0.0) how(0.0) they(0.0) spend(0.0) their(0.0) money(1.0) and(0.0) businesses(1.0) to(0.0) create(0.0) jobs(0.0) 
+by(0.0) capital(1.0) accumulation(0.0) ?(0.0) Do(0.0) you(0.0) want(0.0) more(0.0) spending(1.0) from(0.0) the(0.0) Federal(1.0) Government(1.0) or(0.0) less(0.0) ?(0.0) No(0.0) one(0.0) can(0.0) tell(0.0) 
+me(0.0) that(0.0) in(0.0) a(0.0) budget(1.0) of(0.0) $(0.0) 1.5(0.0) trillion(1.0) there(0.0) are(0.0) not(0.0) some(0.0) places(0.0) to(0.0) find(0.0) cuts(1.0) .(0.0) We(0.0) hear(0.0) 
+that(0.0) .(0.0) Where(0.0) do(0.0) you(0.0) cut(1.0) ?(0.0) Can(0.0) not(0.0) cut(0.0) .(0.0) Of(0.0) course(0.0) ,(0.0) you(0.0) can(0.0) cut(1.0) .(0.0) Of(0.0) course(0.0) 
+,(0.0) you(0.0) can(0.0) solve(0.0) problems(0.0) in(0.0) different(0.0) ways(0.0) .(0.0) The(0.0) supporters(1.0) of(0.0) the(0.0) Clinton(1.0) budget(1.0) believe(0.0) in(0.0) big(1.0) Government(1.0) solutions(1.0) 
+to(0.0) every(0.0) problem(0.0) .(0.0) They(0.0) want(0.0) higher(0.0) taxes(1.0) and(0.0) bigger(0.0) Government(1.0) and(0.0) more(0.0) Federal(1.0) spending(1.0) .(0.0) The(0.0) alternative(1.0) is(0.0) the(0.0) 
+one(0.0) that(0.0) is(0.0) supported(0.0) by(0.0) the(0.0) vast(0.0) majority(1.0) of(0.0) Wyoming(1.0) people(0.0) that(0.0) I(0.0) talk(0.0) to(0.0) every(0.0) week(0.0) .(0.0) They(0.0) tell(0.0) 
+me(0.0) they(0.0) are(0.0) taxed(1.0) enough(0.0) .(0.0) And(0.0) they(0.0) are(0.0) .(0.0) They(0.0) tell(0.0) me(0.0) the(0.0) Federal(1.0) Government(1.0) is(0.0) too(0.0) big(0.0) ,(0.0) 
+and(0.0) it(0.0) is(0.0) .(0.0) They(0.0) tell(0.0) me(0.0) we(0.0) finally(0.0) have(0.0) got(0.0) to(0.0) do(0.0) some(0.0) cutting(0.0) in(0.0) the(0.0) Federal(1.0) spending(1.0) ,(0.0) 
+and(0.0) we(0.0) must(0.0) .(0.0) The(0.0) American(0.0) people(0.0) know(0.0) the(0.0) challenges(0.0) that(0.0) face(0.0) us(0.0) and(0.0) they(0.0) expect(0.0) ,(0.0) above(0.0) all(0.0) else(0.0) 
+,(0.0) an(0.0) honest(0.0) discussion(0.0) of(0.0) the(0.0) these(0.0) issues(0.0) .(0.0) Unfortunately(0.0) ,(0.0) we(0.0) do(0.0) not(0.0) get(0.0) that(0.0) with(0.0) the(0.0) President(1.0) 's(0.0) 
+budget(1.0) .(0.0) We(0.0) do(0.0) not(0.0) find(0.0) welfare(1.0) reform(1.0) addressed(0.0) in(0.0) the(0.0) budget(1.0) ,(0.0) even(0.0) though(0.0) it(0.0) is(0.0) a(0.0) stated(0.0) 
+
+
+----- below are rationale words -----
+
+budget	resolution	fiscal	
+country	
+budgets	
+government	
+
+
+budgets	Congress	Government	country	
+
+country	Federal	Government	principle	
+debates	election	1994	ought	
+Government	
+costs	
+taxes	Government	
+money	businesses	
+capital	spending	Federal	Government	
+budget	trillion	cuts	
+cut	cut	
+supporters	Clinton	budget	big	Government	solutions	
+taxes	Government	Federal	spending	alternative	
+majority	Wyoming	
+taxed	Federal	Government	
+Federal	spending	
+
+President	
+budget	welfare	reform	budget	
+
+reads % = 0.112

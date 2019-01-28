@@ -1,0 +1,18 @@
+This is from a Republican
+----- below is the original text -----
+Let(0.0) me(0.0) propose(0.0) what(0.0) it(0.0) is(0.0) you(0.0) are(0.0) saying(0.0) here(0.0) :(0.0) That(0.0) in(0.0) the(0.0) case(0.0) of(0.0) Arizona(1.0) ,(0.0) it(0.0) is(0.0) all(0.0) 
+right(0.0) to(0.0) take(0.0) cement(1.0) and(0.0) other(0.0) heavy(0.0) equipment(0.0) by(0.0) horse(0.0) and(0.0) hay(0.0) wagon(0.0) into(0.0) an(0.0) area(0.0) ,(0.0) but(0.0) we(0.0) can(0.0) 
+not(0.0) use(0.0) a(0.0) 4-(0.0) wheel(0.0) drive(0.0) or(0.0) other(0.0) vehicle(0.0) to(0.0) do(0.0) the(0.0) same(0.0) thing(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) have(0.0) 
+a(0.0) little(0.0) trouble(0.0) with(0.0) that(0.0) ,(0.0) so(0.0) as(0.0) I(0.0) yield(0.0) I(0.0) would(0.0) be(0.0) happy(0.0) to(0.0) have(0.0) the(0.0) gentleman(0.0) explain(0.0) that(0.0) 
+to(0.0) me(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Arizona	
+cement	
+Chairman	
+
+
+
+reads % = 0.03571428571428571

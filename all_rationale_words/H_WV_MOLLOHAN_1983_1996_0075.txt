@@ -1,0 +1,44 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) rise(0.0) in(0.0) strong(0.0) opposition(1.0) to(0.0) 
+the(0.0) gentleman's(0.0) amendment(1.0) to(0.0) eliminate(1.0) funding(1.0) for(0.0) the(0.0) Technology(0.0) Administration(0.0) .(0.0) The(0.0) world(0.0) is(0.0) changing(0.0) ,(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) and(0.0) 
+technology(0.0) is(0.0) the(0.0) driving(0.0) force(0.0) .(0.0) Technology(0.0) is(0.0) changing(0.0) the(0.0) way(0.0) we(0.0) work(0.0) ,(0.0) the(0.0) way(0.0) we(0.0) live(0.0) ,(0.0) and(0.0) 
+the(0.0) way(0.0) we(0.0) compete(0.0) in(0.0) the(0.0) world(0.0) .(0.0) If(0.0) the(0.0) United(0.0) States(0.0) is(0.0) to(0.0) maintain(0.0) world(0.0) economic(1.0) leadership(0.0) into(0.0) the(0.0) 
+21st(0.0) century(0.0) ,(0.0) we(0.0) must(0.0) respond(0.0) quickly(0.0) and(0.0) precisely(0.0) to(0.0) these(0.0) economic(1.0) changes(0.0) .(0.0) The(0.0) Technology(0.0) Administration(0.0) is(0.0) the(0.0) engine(0.0) 
+behind(0.0) this(0.0) critical(1.0) effort(0.0) .(0.0) I(0.0) do(0.0) not(0.0) know(0.0) of(0.0) any(0.0) public(1.0) servant(0.0) who(0.0) is(0.0) more(0.0) capable(0.0) ,(0.0) more(0.0) dedicated(0.0) 
+,(0.0) more(0.0) effective(0.0) in(0.0) the(0.0) performance(0.0) of(0.0) her(0.0) responsibilities(0.0) than(0.0) Under(0.0) Secretary(1.0) for(0.0) Technology(0.0) ,(0.0) Dr.(0.0) Mary(1.0) Good(0.0) .(0.0) The(0.0) 
+Technology(0.0) Administration(0.0) serves(0.0) as(0.0) an(0.0) advocate(1.0) for(0.0) American(0.0) industries(1.0) ,(0.0) ensuring(0.0) that(0.0) government(1.0) policies(1.0) ,(0.0) government(1.0) programs(1.0) and(0.0) regulations(1.0) promote(1.0) 
+U.S.(0.0) competitiveness(1.0) .(0.0) Additionally(0.0) ,(0.0) the(0.0) Technology(0.0) Administration(0.0) is(0.0) the(0.0) only(0.0) Federal(1.0) agency(1.0) that(0.0) analyzes(0.0) the(0.0) civilian(0.0) technology(0.0) activities(0.0) of(0.0) 
+our(0.0) foreign(1.0) competitors(0.0) ,(0.0) working(0.0) to(0.0) promote(0.0) and(0.0) protect(0.0) the(0.0) U.S.(0.0) technology(0.0) interests(1.0) in(0.0) global(1.0) research(0.0) and(0.0) development(0.0) efforts(0.0) .(0.0) 
+While(0.0) eliminating(1.0) the(0.0) Technology(0.0) Administration(0.0) will(0.0) only(0.0) have(0.0) a(0.0) negligible(0.0) impact(0.0) on(0.0) the(0.0) budget(1.0) deficit(1.0) ,(0.0) it(0.0) will(0.0) deprive(1.0) U.S.(0.0) 
+industry(0.0) of(0.0) an(0.0) effective(0.0) advocate(1.0) for(0.0) technology(0.0) innovation(1.0) at(0.0) a(0.0) time(0.0) of(0.0) intensifying(1.0) global(1.0) competition(0.0) .(0.0) In(0.0) fact(0.0) ,(0.0) eliminating(0.0) 
+the(0.0) Technology(0.0) Administration(0.0) in(0.0) the(0.0) heat(0.0) of(0.0) today(0.0) 's(0.0) battle(0.0) for(0.0) global(1.0) markets(1.0) is(0.0) like(0.0) eliminating(1.0) the(0.0) Department(0.0) of(0.0) Defense(0.0) 
+at(0.0) the(0.0) height(0.0) of(0.0) the(0.0) cold(0.0) war(0.0) .(0.0) In(0.0) an(0.0) era(1.0) where(0.0) U.S.(0.0) economic(1.0) prosperity(1.0) will(0.0) largely(0.0) be(0.0) determined(0.0) on(0.0) 
+our(0.0) ability(0.0) to(0.0) develop(0.0) and(0.0) commercialize(1.0) new(0.0) technology(0.0) ,(0.0) we(0.0) can(0.0) not(0.0) afford(0.0) to(0.0) eliminate(1.0) this(0.0) important(0.0) advocate(1.0) for(0.0) American(0.0) 
+industry(1.0) .(0.0) To(0.0) this(0.0) end(0.0) ,(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) join(0.0) me(0.0) and(0.0) many(0.0) others(0.0) in(0.0) 
+this(0.0) body(0.0) in(0.0) protecting(1.0) U.S.(0.0) interests(0.0) ,(0.0) U.S.(0.0) jobs(0.0) ,(0.0) and(0.0) economic(1.0) growth(1.0) by(0.0) voting(1.0) against(0.0) this(0.0) amendment(1.0) .(0.0) Mr.(0.0) 
+Chairman(1.0) ,(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	opposition	
+amendment	eliminate	funding	Chairman	
+
+economic	
+economic	
+critical	public	
+Secretary	Mary	
+advocate	industries	government	policies	government	programs	regulations	promote	
+competitiveness	Federal	agency	
+foreign	interests	global	
+eliminating	budget	deficit	deprive	
+advocate	innovation	intensifying	global	
+global	markets	eliminating	
+era	economic	prosperity	
+commercialize	eliminate	advocate	
+industry	Chairman	
+protecting	economic	growth	voting	amendment	
+Chairman	
+
+reads % = 0.1452991452991453

@@ -74,7 +74,7 @@ class Train:
 		trainingArgs.add_argument('--trainElmo', action='store_true')
 		trainingArgs.add_argument('--dropOut', type=float, default=1.0, help='dropout rate for RNN (keep prob)')
 		trainingArgs.add_argument('--learningRate', type=float, default=0.001, help='learning rate')
-		trainingArgs.add_argument('--batchSize', type=int, default=20, help='batch size')
+		trainingArgs.add_argument('--batchSize', type=int, default=60, help='batch size')
 		trainingArgs.add_argument('--epochs', type=int, default=200, help='most training epochs')
 		trainingArgs.add_argument('--device', type=str, default='/gpu:0', help='use the first GPU as default')
 		trainingArgs.add_argument('--loadModel', action='store_true', help='whether or not to use old models')
@@ -174,12 +174,12 @@ class Train:
 					print(self.model_path)
 					exit(-1)
 
-				# self.saver.restore(sess=self.sess, save_path=self.model_name)
-				init = tf.global_variables_initializer()
-				self.sess.run(init)
+				self.saver.restore(sess=self.sess, save_path=self.model_name)
+				# init = tf.global_variables_initializer()
+				# self.sess.run(init)
 				print('Variables loaded from disk {}'.format(self.model_name))
 				if self.args.testModel:
-					self.test_model_congress()
+					self.test_model()
 					exit(0)
 			else:
 				init = tf.global_variables_initializer()
@@ -189,16 +189,61 @@ class Train:
 
 			self.train(self.sess)
 
-	def test_model_congress(self):
-		acc, total_loss, avg_read, all_masks, all_predictions = self.test(self.sess, tag='test', mode='test')
-		test_samples = self.textData.test_samples
+	def test_model_congress_words(self):
+		acc, total_loss, avg_read, all_masks, all_predictions, all_samples = self.test(self.sess, tag='train', mode='test', n_batches=50)
+		test_samples = all_samples
+		print('acc = {}'.format(acc))
+		out_dir = 'all_rationale_words'
+		print('out_dir = {}'.format(out_dir))
+		if not os.path.exists(out_dir):
+			print('Creating Dir {}'.format(out_dir))
+			os.makedirs(out_dir)
 
-		out_dir = 'case_studies'
+		for idx, sample in enumerate(test_samples):
+
+			# skip if wrong
+			if sample.label != all_predictions[idx]:
+				continue
+
+			with open(os.path.join(out_dir, sample.id), 'w') as file:
+				masks = all_masks[idx]
+
+				if sample.label == 0:
+					file.write('This is from a Democrat\n')
+				else:
+					file.write('This is from a Republican\n')
+
+				file.write('----- below is the original text -----\n')
+				print(sample.id)
+				for i, word in enumerate(sample.words[:sample.length]):
+					file.write('{}({}) '.format(word, masks[i]))
+					if i % 20 == 0 and i != 0:
+						file.write('\n')
+
+				file.write('\n\n\n')
+				file.write('----- below are rationale words -----\n')
+				cnt = 0
+				for i, word in enumerate(sample.words[:sample.length]):
+					if masks[i] == 1.0 and i != 0:
+						file.write('{}\t'.format(word))
+						cnt += 1
+					if i % 20 == 0:
+						file.write('\n')
+				file.write('\n\nreads % = ')
+				file.write(str(cnt*1.0/sample.length))
+
+
+	def test_model_congress(self):
+		acc, total_loss, avg_read, all_masks, all_predictions, all_samples = self.test(self.sess, tag='train', mode='test', n_batches=5)
+		print('acc = {}'.format(acc))
+		test_samples = all_samples
+
+		out_dir = '~/rationale_studies'
 
 		for idx, sample in enumerate(test_samples):
 			if not os.path.exists(out_dir):
 				os.makedirs(out_dir)
-
+			print(sample.id)
 			with open(os.path.join(out_dir, sample.id), 'w') as file:
 				masks = all_masks[idx]
 
@@ -217,8 +262,10 @@ class Train:
 	def test_model(self):
 		# init = tf.global_variables_initializer()
 		# self.sess.run(init)
-		acc, total_loss, avg_read, all_masks, all_predictions = self.test(self.sess, tag='test', mode='test')
-		test_samples = self.textData.test_samples
+		acc, total_loss, avg_read, all_masks, all_predictions, all_samples = self.test(self.sess, tag='test', mode='test', n_batches=-1)
+		test_samples = all_samples
+		print(acc)
+		exit(0)
 		correct = 0
 		with open('out.csv', 'w') as csvfile:
 			writer = csv.writer(csvfile)
@@ -345,12 +392,16 @@ class Train:
 		if tag == 'val':
 			print('Validating\n')
 			batches = self.textData.val_batches
+		elif tag == 'train':
+			print('Testing on training data')
+			batches = self.textData.train_batches
 		else:
 			print('Testing\n')
 			batches = self.textData.test_batches
 
 		if mode == 'test':
-			batches = batches[:n_batches]
+			if n_batches > 0:
+				batches = batches[:n_batches]
 
 		cnt = 0
 
@@ -361,11 +412,13 @@ class Train:
 		all_labels = []
 		all_masks = []
 		all_true_masks = []
+		all_samples = []
 		for idx, nextBatch in enumerate(tqdm(batches)):
 			cnt += 1
 
 			total_samples += nextBatch.batch_size
 			ops, feed_dict, labels = self.model.step(nextBatch, test=True)
+			all_samples.extend(nextBatch.samples)
 
 			loss, predictions, corrects, mask_per_sample, true_mask = sess.run(ops, feed_dict)
 			all_masks.extend(mask_per_sample)
@@ -381,7 +434,7 @@ class Train:
 		avg_read = np.average(all_masks)
 
 		if mode == 'test':
-			return acc, total_loss, avg_read, all_true_masks, all_predictions
+			return acc, total_loss, avg_read, all_true_masks, all_predictions, all_samples
 
 		print('\t{}, loss = {}, acc = {}, avg_read = {}'.format(tag, total_loss, acc, avg_read))
 		out.write('\t{}, loss = {}, acc = {}, avg_read = {}\n'.format(tag, total_loss, acc, avg_read))

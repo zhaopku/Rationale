@@ -1,0 +1,34 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) reclaiming(1.0) my(0.0) time(0.0) ,(0.0) I(0.0) would(0.0) say(0.0) ,(0.0) as(0.0) chairman(0.0) of(0.0) the(0.0) Subcommittee(0.0) Domestic(0.0) and(0.0) International(0.0) Monetary(0.0) Policy(0.0) ,(0.0) 
+I(0.0) would(0.0) join(0.0) the(0.0) chairman(0.0) in(0.0) his(0.0) assessment(0.0) on(0.0) the(0.0) profit(0.0) it(0.0) makes(0.0) .(0.0) Now(0.0) ,(0.0) we(0.0) have(0.0) heard(0.0) that(0.0) 
+OPIC(1.0) helps(0.0) American(0.0) workers(1.0) ,(0.0) and(0.0) we(0.0) have(0.0) heard(0.0) that(0.0) it(0.0) hurts(0.0) American(0.0) workers(1.0) .(0.0) I(0.0) want(0.0) to(0.0) focus(0.0) on(0.0) 
+that(0.0) one(0.0) claim(0.0) .(0.0) Let(0.0) us(0.0) look(0.0) at(0.0) one(0.0) of(0.0) these(0.0) transactions(0.0) .(0.0) In(0.0) 1997(0.0) ,(0.0) OPIC(1.0) financed(1.0) the(0.0) building(0.0) 
+for(0.0) Levi(0.0) Strauss(1.0) of(0.0) a(0.0) garment-making(0.0) factory(0.0) in(0.0) Turkey(0.0) ,(0.0) a(0.0) $(0.0) 29-(0.0) million(0.0) guarantee(0.0) ,(0.0) because(0.0) they(0.0) did(0.0) not(0.0) 
+want(0.0) to(0.0) finance(1.0) it(0.0) themselves(0.0) and(0.0) private(0.0) insurers(0.0) would(0.0) not(0.0) do(0.0) it(0.0) .(0.0) Well(0.0) ,(0.0) what(0.0) happened(0.0) when(0.0) Levi(0.0) Strauss(1.0) 
+built(0.0) that(0.0) factory(0.0) ?(0.0) They(0.0) laid(0.0) off(0.0) 6,400(0.0) workers(1.0) at(0.0) U.S.(0.0) garment-making(0.0) factories(0.0) in(0.0) 11(0.0) locations(0.0) in(0.0) the(0.0) United(0.0) States(0.0) 
+.(0.0) Now(0.0) ,(0.0) do(0.0) my(0.0) colleagues(0.0) think(0.0) that(0.0) those(0.0) 6,400(0.0) employees(0.0) ,(0.0) if(0.0) any(0.0) of(0.0) them(0.0) are(0.0) listening(0.0) today(0.0) ,(0.0) 
+that(0.0) they(0.0) will(0.0) buy(0.0) this(0.0) argument(1.0) that(0.0) we(0.0) are(0.0) creating(0.0) jobs(0.0) ?(0.0) We(0.0) lost(0.0) those(0.0) jobs(0.0) .(0.0) And(0.0) not(0.0) only(0.0) 
+did(0.0) we(0.0) lose(0.0) those(0.0) jobs(0.0) ,(0.0) but(0.0) the(0.0) Labor(1.0) Department(1.0) had(0.0) to(0.0) go(0.0) in(0.0) ,(0.0) and(0.0) let(0.0) me(0.0) tell(0.0) my(0.0) 
+colleagues(0.0) what(0.0) they(0.0) had(0.0) to(0.0) do(0.0) .(0.0) They(0.0) had(0.0) to(0.0) provide(0.0) unemployment(1.0) assistance(1.0) ,(0.0) and(0.0) they(0.0) also(0.0) had(0.0) to(0.0) provide(0.0) 
+trade(1.0) adjustment(1.0) assistance(0.0) because(0.0) of(0.0) the(0.0) Levi(0.0) Strauss(0.0) factory(0.0) which(0.0) had(0.0) been(0.0) built(0.0) in(0.0) Turkey(0.0) ,(0.0) financed(1.0) by(0.0) OPIC(1.0) .(0.0) 
+I(0.0) strongly(0.0) urge(1.0) support(0.0) of(0.0) this(0.0) amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+reclaiming	
+
+OPIC	workers	workers	
+OPIC	financed	
+Strauss	
+finance	Strauss	
+workers	
+
+argument	
+Labor	Department	
+unemployment	assistance	
+trade	adjustment	financed	OPIC	
+urge	amendment	
+
+reads % = 0.08433734939759036

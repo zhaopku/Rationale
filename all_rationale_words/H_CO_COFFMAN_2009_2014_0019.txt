@@ -1,0 +1,38 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) think(0.0) ,(0.0) again(0.0) ,(0.0) going(0.0) back(0.0) to(0.0) this(0.0) Government(1.0) Accountability(1.0) report(0.0) ,(0.0) it(0.0) says(0.0) that(0.0) ,(0.0) on(0.0) average(0.0) ,(0.0) these(0.0) 
+projects(0.0) are(0.0) $(0.0) 366(0.0) million(0.0) over(0.0) budget(1.0) ;(0.0) on(0.0) average(0.0) ,(0.0) these(0.0) projects(0.0) are(0.0) 35(0.0) months(0.0) behind(0.0) schedule(0.0) .(0.0) There(0.0) 
+are(0.0) a(0.0) number(0.0) of(0.0) recommendations(0.0) that(0.0) are(0.0) taken(0.0) right(0.0) from(0.0) this(0.0) report(0.0) that(0.0) are(0.0) part(0.0) of(0.0) this(0.0) bill(1.0) .(0.0) One(0.0) 
+recommendation(0.0) that(0.0) was(0.0) n't(0.0) specifically(0.0) in(0.0) the(0.0) bill(1.0) ,(0.0) but(0.0) it(0.0) was(0.0) mentioned(0.0) in(0.0) the(0.0) bill(1.0) by(0.0) referencing(0.0) that(0.0) the(0.0) 
+Army(0.0) Corps(0.0) of(0.0) Engineers(0.0) basically(0.0) builds(0.0) the(0.0) same(0.0) projects(0.0) for(0.0) the(0.0) Department(0.0) of(0.0) Defense(0.0) --(0.0) the(0.0) hospitals(1.0) --(0.0) on(0.0) schedule(0.0) 
+and(0.0) within(0.0) budget(0.0) .(0.0) We(0.0) are(0.0) talking(0.0) about(0.0) ,(0.0) again(0.0) ,(0.0) hundreds(0.0) of(0.0) millions(1.0) of(0.0) dollars(1.0) wasted(1.0) in(0.0) every(0.0) single(0.0) 
+facility(0.0) that(0.0) is(0.0) not(0.0) going(0.0) to(0.0) the(0.0) health(1.0) care(0.0) our(0.0) veterans(1.0) have(0.0) earned(0.0) ;(0.0) so(0.0) I(0.0) think(0.0) it(0.0) is(0.0) only(0.0) 
+right(0.0) that(0.0) we(0.0) move(0.0) forward(0.0) with(0.0) this(0.0) ,(0.0) not(0.0) only(0.0) to(0.0) be(0.0) fair(1.0) to(0.0) the(0.0) men(0.0) and(0.0) women(0.0) who(0.0) have(0.0) 
+served(0.0) us(0.0) in(0.0) uniform(1.0) and(0.0) sacrificed(0.0) so(0.0) much(0.0) in(0.0) defense(1.0) of(0.0) this(0.0) country(1.0) and(0.0) giving(0.0) them(0.0) the(0.0) benefits(1.0) that(0.0) they(0.0) 
+have(0.0) earned(0.0) through(0.0) their(0.0) service(0.0) ,(0.0) but(0.0) also(0.0) out(0.0) of(0.0) respect(0.0) to(0.0) the(0.0) taxpayers(1.0) of(0.0) the(0.0) United(0.0) States(0.0) who(0.0) have(0.0) 
+basically(0.0) had(0.0) their(0.0) hard-earned(1.0) dollars(1.0) wasted(1.0) in(0.0) building(0.0) these(0.0) projects(0.0) with(0.0) these(0.0) incredible(0.0) and(0.0) massive(1.0) cost(1.0) overruns(1.0) .(0.0) I(0.0) have(0.0) 
+had(0.0) countless(0.0) meetings(0.0) with(0.0) the(0.0) Corps(0.0) of(0.0) Engineers(0.0) ,(0.0) and(0.0) they(0.0) said(0.0) that(0.0) they(0.0) could(0.0) not(0.0) publicly(0.0) state(0.0) their(0.0) support(0.0) 
+for(0.0) this(0.0) ,(0.0) but(0.0) I(0.0) have(0.0) given(0.0) this(0.0) legislation(1.0) to(0.0) them(0.0) and(0.0) said(0.0) ,(0.0) ``(0.0) Come(0.0) back(0.0) to(0.0) me(0.0) if(0.0) 
+you(0.0) have(0.0) any(0.0) issues(0.0) with(0.0) it(0.0) .(0.0) ''(0.0) They(0.0) did(0.0) not(0.0) other(0.0) than(0.0) to(0.0) say(0.0) they(0.0) feel(0.0) prospectively(0.0) they(0.0) should(0.0) 
+be(0.0) the(0.0) ones(0.0) managing(0.0) these(0.0) projects(0.0) ,(0.0) period(0.0) .(0.0) My(0.0) bill(1.0) does(1.0) not(0.0) address(0.0) that(0.0) prospectively(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Government	Accountability	
+budget	
+bill	
+bill	bill	
+hospitals	
+millions	dollars	wasted	
+health	veterans	
+fair	
+uniform	defense	country	benefits	
+taxpayers	
+hard-earned	dollars	wasted	massive	cost	overruns	
+
+legislation	
+
+bill	does	
+
+reads % = 0.09060402684563758

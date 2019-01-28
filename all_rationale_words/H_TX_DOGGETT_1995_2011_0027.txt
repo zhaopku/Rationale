@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) this(0.0) is(0.0) a(0.0) bipartisan(1.0) bill(1.0) ,(1.0) which(1.0) I(0.0) fully(0.0) support(0.0) ,(0.0) but(0.0) it(0.0) is(0.0) important(0.0) to(0.0) understand(0.0) what(0.0) 
+this(0.0) bill(1.0) does(1.0) and(0.0) what(0.0) it(0.0) does(0.0) not(0.0) do(0.0) .(0.0) It(0.0) is(0.0) important(0.0) to(0.0) understand(0.0) which(0.0) provisions(1.0) we(0.0) agree(0.0) upon(0.0) 
+and(0.0) which(0.0) ones(0.0) we(0.0) accept(0.0) as(0.0) only(0.0) being(0.0) better(0.0) than(0.0) the(0.0) alternative(1.0) of(0.0) allowing(0.0) this(0.0) important(0.0) law(1.0) and(0.0) all(0.0) those(0.0) 
+who(0.0) count(0.0) on(0.0) it(0.0) to(0.0) expire(1.0) next(0.0) week(0.0) .(0.0) Last(0.0) week(0.0) ,(0.0) the(0.0) Census(1.0) Bureau(0.0) reported(0.0) that(0.0) more(0.0) Americans(1.0) were(0.0) 
+poor(0.0) in(0.0) 2010(0.0) than(0.0) at(0.0) any(0.0) time(0.0) on(0.0) record(0.0) .(0.0) Regrettably(0.0) ,(0.0) my(0.0) home(0.0) State(0.0) of(0.0) Texas(1.0) was(0.0) leading(0.0) the(0.0) 
+way(0.0) with(0.0) one(0.0) of(0.0) the(0.0) highest(0.0) poverty(1.0) rates(1.0) anywhere(0.0) in(0.0) America(1.0) .(0.0) The(0.0) Texas(1.0) Center(0.0) for(0.0) Public(0.0) Policy(0.0) Priorities(1.0) ,(0.0) 
+a(0.0) nonpartisan(1.0) group(0.0) ,(0.0) recently(0.0) reported(0.0) that(0.0) ``(0.0) The(0.0) heart(0.0) of(0.0) the(0.0) American(0.0) Dream(0.0) is(0.0) at(0.0) risk(0.0) in(0.0) Texas(1.0) .(0.0) 
+''(0.0) For(0.0) the(0.0) first(0.0) time(0.0) in(0.0) generations(0.0) ,(0.0) there(0.0) are(0.0) more(0.0) people(0.0) falling(0.0) out(0.0) of(0.0) the(0.0) middle(0.0) class(0.0) than(0.0) joining(0.0) 
+its(0.0) ranks(0.0) .(0.0) And(0.0) what(0.0) a(0.0) struggle(0.0) it(0.0) is(0.0) for(0.0) those(0.0) families(0.0) trying(0.0) to(0.0) hold(0.0) on(0.0) .(0.0) In(0.0) a(0.0) neighborhood(0.0) 
+near(0.0) downtown(1.0) San(1.0) Antonio(1.0) ,(0.0) Andrew(0.0) Ramos(1.0) and(0.0) his(0.0) wife(0.0) ,(0.0) Nina(0.0) ,(0.0) are(0.0) struggling(0.0) just(0.0) to(0.0) keep(0.0) food(1.0) on(0.0) 
+the(0.0) table(0.0) for(0.0) themselves(0.0) and(0.0) their(0.0) 2-year-old(0.0) daughter(0.0) .(0.0) Andrew(0.0) lost(0.0) his(0.0) job(0.0) ,(0.0) and(0.0) Nina(0.0) works(0.0) at(0.0) a(0.0) local(0.0) 
+pizza(0.0) parlor(0.0) where(0.0) she(0.0) makes(0.0) about(0.0) $(0.0) 200(0.0) a(0.0) week(0.0) .(0.0) There(0.0) are(0.0) so(0.0) many(0.0) families(0.0) just(0.0) like(0.0) the(0.0) Ramos(1.0) 
+family(0.0) --(0.0) almost(0.0) one(0.0) in(0.0) five(0.0) in(0.0) poverty(1.0) in(0.0) Bexar(1.0) County(1.0) .(0.0) As(0.0) John(0.0) Turner(1.0) at(0.0) the(0.0) Capital(0.0) Area(0.0) Food(0.0) 
+Bank(0.0) concludes(0.0) :(0.0) Hunger(0.0) is(0.0) a(0.0) result(0.0) of(0.0) lack(0.0) of(0.0) income(0.0) and(0.0) of(0.0) a(0.0) livable(1.0) wage(1.0) .(0.0) It(0.0) affects(0.0) too(0.0) 
+many(0.0) of(0.0) our(0.0) neighbors(0.0) ,(0.0) he(0.0) says(0.0) ,(0.0) under(0.0) the(0.0) current(0.0) Texas(1.0) economic(1.0) model(0.0) .(0.0) The(0.0) demands(1.0) on(0.0) our(0.0) food(1.0) 
+banks(1.0) ,(0.0) which(0.0) serve(1.0) as(0.0) effective(0.0) public-(0.0) private(0.0) partnerships(1.0) ,(0.0) are(0.0) immense(0.0) .(0.0) The(0.0) Capital(0.0) Area(0.0) Food(0.0) Bank(0.0) ,(0.0) this(0.0) 
+year(0.0) ,(0.0) is(0.0) delivering(0.0) 50(0.0) percent(0.0) more(0.0) food(1.0) to(0.0) poor(1.0) people(0.0) than(0.0) it(0.0) did(0.0) 3(0.0) years(0.0) ago(0.0) .(0.0) But(0.0) I(0.0) 
+do(0.0) n't(0.0) really(0.0) hear(0.0) anyone(0.0) facing(0.0) up(0.0) to(0.0) this(0.0) harsh(0.0) reality(0.0) --(0.0) not(0.0) our(0.0) Governor(1.0) in(0.0) Texas(1.0) ,(0.0) not(0.0) the(0.0) 
+President(1.0) of(0.0) the(0.0) United(0.0) States(0.0) ,(0.0) and(0.0) certainly(0.0) not(0.0) the(0.0) leadership(0.0) here(0.0) in(0.0) the(0.0) House(0.0) .(0.0) In(0.0) fact(0.0) ,(0.0) the(0.0) 
+Administration(1.0) has(0.0) shown(0.0) little(0.0) interest(0.0) and(0.0) almost(0.0) no(0.0) guidance(0.0) in(0.0) reforming(1.0) this(0.0) legislation(1.0) .(0.0) Rather(0.0) than(0.0) respond(0.0) to(0.0) rising(1.0) deprivation(1.0) 
+and(0.0) declining(1.0) opportunity(0.0) ,(0.0) this(0.0) legislation(1.0) continues(1.0) for(0.0) another(0.0) 3(0.0) months(0.0) ,(0.0) the(0.0) Temporary(1.0) Assistance(1.0) for(0.0) Needy(1.0) Families(1.0) Act(0.0) .(0.0) 
+This(0.0) is(0.0) a(0.0) program(0.0) that(0.0) today(0.0) provides(0.0) direct(0.0) assistance(0.0) to(0.0) only(0.0) one(0.0) in(0.0) every(0.0) five(0.0) children(0.0) living(0.0) in(0.0) Poverty(1.0) in(0.0) 
+America(1.0) .(0.0) That(0.0) 's(0.0) the(0.0) lowest(1.0) level(0.0) of(0.0) poor(1.0) children(0.0) receiving(0.0) direct(0.0) assistance(0.0) since(0.0) 1965(1.0) .(0.0) And(0.0) of(0.0) course(0.0) in(0.0) 
+Texas(1.0) it(0.0) 's(0.0) much(0.0) worse(0.0) ,(0.0) where(0.0) only(0.0) one(0.0) in(0.0) every(0.0) 20(0.0) poor(1.0) children(0.0) receive(0.0) direct(0.0) assistance(0.0) from(0.0) TANF(1.0) .(0.0) 
+The(0.0) bill(1.0) before(0.0) us(0.0) also(0.0) does(0.0) not(0.0) address(0.0) a(0.0) program(1.0) agreed(0.0) to(0.0) originally(0.0) when(0.0) the(0.0) Welfare(1.0) Reform(0.0) Act(0.0) was(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	bipartisan	bill	,	which	
+bill	does	provisions	
+alternative	law	
+expire	Census	Americans	
+Texas	
+poverty	rates	America	Texas	Priorities	
+nonpartisan	Texas	
+
+
+downtown	San	Antonio	Ramos	food	
+
+Ramos	
+poverty	Bexar	County	Turner	
+livable	wage	
+Texas	economic	demands	food	
+banks	serve	partnerships	
+food	poor	
+Governor	Texas	
+President	
+Administration	reforming	legislation	rising	deprivation	
+declining	legislation	continues	Temporary	Assistance	Needy	Families	
+Poverty	
+America	lowest	poor	1965	
+Texas	poor	TANF	
+bill	program	Welfare	
+
+reads % = 0.136

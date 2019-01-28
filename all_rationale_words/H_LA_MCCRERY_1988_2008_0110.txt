@@ -1,0 +1,10 @@
+This is from a Republican
+----- below is the original text -----
+For(0.0) the(0.0) same(0.0) reasons(0.0) ,(0.0) we(0.0) should(0.0) have(0.0) revenue(1.0) sharing(0.0) for(0.0) offshore(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+revenue	offshore	
+
+reads % = 0.15384615384615385

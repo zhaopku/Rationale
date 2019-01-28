@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) make(0.0) a(0.0) point(0.0) of(0.0) order(0.0) against(0.0) the(0.0) amendment(1.0) because(0.0) it(0.0) proposes(1.0) to(0.0) change(1.0) existing(0.0) law(1.0) and(0.0) constitutes(1.0) legislation(1.0) 
+in(0.0) an(0.0) appropriation(1.0) bill(1.0) and(0.0) therefore(0.0) violates(1.0) clause(1.0) 2(0.0) of(0.0) rule(1.0) XXI(0.0) .(0.0) The(0.0) rule(1.0) states(0.0) in(0.0) pertinent(0.0) part(0.0) :(0.0) 
+``(0.0) An(0.0) amendment(0.0) to(0.0) a(0.0) general(0.0) appropriation(0.0) bill(0.0) shall(0.0) not(0.0) be(0.0) in(0.0) order(0.0) if(0.0) changing(0.0) existing(0.0) law(1.0) .(0.0) ''(0.0) The(0.0) 
+amendment(1.0) requires(1.0) a(0.0) new(0.0) determination(0.0) .(0.0) I(0.0) ask(0.0) for(0.0) a(0.0) ruling(1.0) from(0.0) the(0.0) Chair(0.0) .(0.0) The(0.0) Acting(0.0) CHAIR(0.0) .(0.0) Does(0.0) 
+any(0.0) Member(0.0) wish(0.0) to(0.0) be(0.0) heard(0.0) on(0.0) the(0.0) point(0.0) of(0.0) order(0.0) ?(0.0) If(0.0) not(0.0) ,(0.0) the(0.0) Chair(1.0) will(0.0) rule(1.0) .(0.0) 
+The(0.0) Chair(1.0) finds(0.0) that(0.0) this(0.0) amendment(1.0) includes(0.0) language(0.0) requiring(1.0) a(0.0) new(0.0) determination(1.0) of(0.0) whether(0.0) certain(0.0) political(1.0) contributions(1.0) were(0.0) disclosed(0.0) ,(0.0) 
+a(0.0) determination(0.0) not(0.0) required(0.0) by(0.0) existing(0.0) law(1.0) .(0.0) The(0.0) amendment(1.0) therefore(0.0) constitutes(1.0) legislation(1.0) in(0.0) violation(1.0) of(0.0) clause(1.0) 2(0.0) of(0.0) rule(1.0) 
+XXI(0.0) .(0.0) The(0.0) point(0.0) of(0.0) order(0.0) is(0.0) sustained(0.0) ,(0.0) and(0.0) the(0.0) amendment(1.0) is(0.0) not(0.0) in(0.0) order(0.0) .(0.0) Amendment(1.0) No(1.0) .(0.0) 
+195(0.0) Offered(0.0) by(0.0) Mrs.(0.0) Lummis(1.0) 
+
+
+----- below are rationale words -----
+
+amendment	proposes	change	law	constitutes	legislation	
+appropriation	bill	violates	clause	rule	rule	
+law	
+amendment	requires	ruling	
+Chair	rule	
+Chair	amendment	requiring	determination	political	contributions	
+law	amendment	constitutes	legislation	violation	clause	rule	
+amendment	Amendment	No	
+Lummis	
+
+reads % = 0.21084337349397592

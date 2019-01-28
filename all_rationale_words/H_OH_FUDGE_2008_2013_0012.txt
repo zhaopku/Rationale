@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) want(0.0) to(0.0) thank(0.0) my(0.0) colleagues(0.0) ,(0.0) Congressmen(1.0) Jeffries(1.0) and(0.0) Horsford(1.0) ,(0.0) for(0.0) again(0.0) leading(0.0) the(0.0) Congressional(0.0) Black(1.0) Caucus(1.0) Special(0.0) Order(0.0) 
+hour(0.0) on(0.0) an(0.0) issue(0.0) of(0.0) great(0.0) importance(0.0) --(0.0) the(0.0) Federal(0.0) budget(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) every(0.0) year(0.0) since(0.0) 1981(0.0) ,(0.0) 
+the(0.0) Congressional(1.0) Black(1.0) Caucus(1.0) has(0.0) produced(0.0) an(0.0) alternative(1.0) budget(1.0) to(0.0) both(0.0) Republican(0.0) and(1.0) Democratic(1.0) budgets(1.0) .(1.0) The(0.0) CBC(0.0) budget(1.0) has(0.0) 
+consistently(0.0) provided(0.0) a(0.0) fair(0.0) and(0.0) balanced(0.0) approach(0.0) to(0.0) managing(0.0) the(0.0) Federal(1.0) Government(1.0) 's(0.0) finances(0.0) .(0.0) The(0.0) CBC(0.0) alternative(1.0) budget(1.0) for(0.0) 
+fiscal(1.0) year(0.0) 2014(1.0) is(0.0) a(0.0) pro-growth(1.0) ,(0.0) pro-people(1.0) ,(0.0) and(0.0) pro-America(1.0) budget(1.0) .(0.0) It(0.0) acknowledges(0.0) that(0.0) only(0.0) by(0.0) investing(1.0) in(0.0) 
+Americans(1.0) ,(0.0) in(0.0) the(0.0) American(0.0) people(0.0) ,(0.0) can(0.0) you(0.0) build(0.0) a(0.0) bridge(0.0) to(0.0) a(0.0) better(0.0) America(0.0) .(0.0) This(0.0) message(0.0) could(0.0) 
+not(0.0) be(0.0) more(0.0) important(0.0) as(0.0) our(0.0) Nation(1.0) still(0.0) struggles(0.0) to(0.0) recover(0.0) from(0.0) the(0.0) worst(1.0) economic(1.0) recession(1.0) since(0.0) the(0.0) Great(0.0) Depression(1.0) 
+.(0.0) Compounding(0.0) this(0.0) problem(0.0) is(0.0) growing(0.0) income(1.0) inequality(1.0) .(0.0) America(0.0) needs(0.0) congressional(1.0) leadership(0.0) to(0.0) pull(0.0) us(0.0) out(0.0) of(0.0) our(0.0) economic(1.0) 
+malaise(1.0) ,(0.0) address(0.0) our(0.0) fiscal(1.0) issues(0.0) ,(0.0) and(0.0) ensure(0.0) that(0.0) our(0.0) recovery(1.0) is(0.0) felt(0.0) in(0.0) every(0.0) community(0.0) .(0.0) Unfortunately(0.0) ,(0.0) 
+this(0.0) is(0.0) where(0.0) the(0.0) House(0.0) Republican(1.0) budget(1.0) fails(1.0) .(1.0) Chairman(0.0) Ryan(1.0) 's(1.0) budget(1.0) attempts(1.0) to(1.0) lead(1.0) America(1.0) towards(0.0) financial(1.0) success(0.0) 
+by(0.0) placing(0.0) America(1.0) 's(0.0) most(0.0) vulnerable(0.0) on(0.0) the(0.0) path(0.0) to(0.0) financial(1.0) ruin(1.0) .(0.0) The(0.0) Republican(1.0) budget(1.0) seeks(1.0) to(1.0) cut(1.0) education(1.0) 
+funding(1.0) ,(1.0) including(1.0) money(1.0) for(1.0) Pell(1.0) Grants(1.0) .(1.0) It(1.0) slashes(1.0) economic(1.0) assistance(1.0) to(1.0) programs(1.0) like(1.0) the(1.0) Supplemental(1.0) Nutrition(1.0) Assistance(1.0) Program(0.0) 
+,(0.0) which(0.0) could(0.0) mean(0.0) 8(0.0) to(0.0) 9(0.0) million(0.0) eligible(1.0) households(1.0) without(0.0) benefits(1.0) .(0.0) It(0.0) dismantles(1.0) the(0.0) Affordable(1.0) Care(1.0) Act(0.0) .(0.0) 
+This(0.0) means(0.0) reducing(1.0) access(0.0) to(0.0) affordable(1.0) health(1.0) care(1.0) for(0.0) the(0.0) 27(0.0) million(0.0) uninsured(1.0) Americans(1.0) who(0.0) are(0.0) projected(0.0) to(0.0) gain(0.0) coverage(1.0) 
+under(0.0) the(0.0) law(1.0) .(0.0) This(0.0) is(0.0) neither(0.0) the(0.0) vision(1.0) that(0.0) the(0.0) American(0.0) people(0.0) want(0.0) ,(0.0) nor(0.0) is(0.0) it(0.0) what(0.0) the(0.0) 
+American(0.0) people(0.0) need(0.0) .(0.0) Now(0.0) ,(0.0) let(0.0) 's(0.0) contrast(0.0) the(0.0) CBC(0.0) budget(1.0) and(0.0) how(0.0) it(0.0) creates(0.0) opportunity(0.0) instead(0.0) of(0.0) snatching(1.0) 
+it(0.0) away(0.0) .(0.0) The(0.0) CBC(0.0) budget(1.0) includes(0.0) $(0.0) 230(0.0) billion(1.0) in(0.0) the(0.0) maintenance(0.0) and(0.0) repair(0.0) for(0.0) public(1.0) transit(1.0) ,(0.0) highways(1.0) 
+,(0.0) airports(1.0) ,(0.0) ports(0.0) ,(0.0) railroads(1.0) ,(0.0) bridges(1.0) ,(0.0) and(0.0) other(0.0) infrastructure(1.0) investments(1.0) ;(0.0) $(0.0) 13(0.0) billion(1.0) for(0.0) workforce(1.0) developments(1.0) 
+programs(1.0) ,(0.0) such(0.0) as(0.0) the(0.0) Workforce(1.0) Investment(0.0) Act(0.0) Adult(0.0) Program(0.0) ,(0.0) the(0.0) Dislocated(1.0) Worker(0.0) Program(0.0) ,(0.0) Job(0.0) Corps(0.0) and(0.0) other(0.0) 
+employment(0.0) and(0.0) training(0.0) services(0.0) .(0.0) It(0.0) includes(0.0) $(0.0) 50(0.0) billion(0.0) to(0.0) provide(0.0) relief(1.0) to(0.0) States(0.0) to(0.0) preserve(1.0) teacher(0.0) and(0.0) first(0.0) 
+responder(0.0) jobs(0.0) ,(0.0) and(0.0) $(0.0) 50(0.0) billion(1.0) for(0.0) neighborhood(0.0) stabilization(1.0) programs(1.0) that(0.0) provide(0.0) affordable(1.0) housing(1.0) development(0.0) ,(0.0) infrastructure(1.0) improvements(1.0) and(0.0) 
+other(0.0) community(0.0) development(0.0) needs(0.0) .(0.0) The(0.0) CBC(0.0) budget(1.0) accomplishes(1.0) all(0.0) this(0.0) while(0.0) raising(1.0) $(0.0) 1(0.0) trillion(1.0) in(0.0) new(0.0) revenue(1.0) to(0.0) 
+avoid(0.0) sequestration(1.0) .(0.0) The(0.0) economic(1.0) recession(1.0) has(0.0) damaged(0.0) our(0.0) communities(1.0) .(0.0) Trillions(1.0) of(0.0) dollars(1.0) in(0.0) wealth(1.0) were(0.0) lost(0.0) .(0.0) Poverty(1.0) 
+rates(1.0) for(0.0) African(1.0) Americans(1.0) and(0.0) Latinos(1.0) soared(1.0) to(0.0) 26(0.0) and(0.0) 23(0.0) percent(0.0) ,(0.0) respectively(0.0) .(0.0) America(0.0) does(0.0) n't(0.0) need(0.0) an(0.0) 
+austerity(1.0) budget(1.0) .(0.0) It(0.0) does(0.0) n't(0.0) need(0.0) a(0.0) budget(0.0) that(0.0) looks(0.0) at(0.0) the(0.0) struggling(0.0) American(0.0) people(0.0) and(0.0) says(0.0) ``(0.0) 
+
+
+----- below are rationale words -----
+
+Congressmen	Jeffries	Horsford	Black	Caucus	
+budget	Speaker	
+Congressional	Black	Caucus	alternative	budget	and	Democratic	budgets	.	budget	
+Federal	Government	alternative	budget	
+fiscal	2014	pro-growth	pro-people	pro-America	budget	investing	
+Americans	
+Nation	worst	economic	recession	Depression	
+income	inequality	congressional	economic	
+malaise	fiscal	recovery	
+Republican	budget	fails	.	Ryan	's	budget	attempts	to	lead	America	financial	
+America	financial	ruin	Republican	budget	seeks	to	cut	education	
+funding	,	including	money	for	Pell	Grants	.	It	slashes	economic	assistance	to	programs	like	the	Supplemental	Nutrition	Assistance	
+eligible	households	benefits	dismantles	Affordable	Care	
+reducing	affordable	health	care	uninsured	Americans	coverage	
+law	vision	
+budget	snatching	
+budget	billion	public	transit	highways	
+airports	railroads	bridges	infrastructure	investments	billion	workforce	developments	
+programs	Workforce	Dislocated	
+relief	preserve	
+billion	stabilization	programs	affordable	housing	infrastructure	improvements	
+budget	accomplishes	raising	trillion	revenue	
+sequestration	economic	recession	communities	Trillions	dollars	wealth	Poverty	
+rates	African	Americans	Latinos	soared	
+austerity	budget	
+
+reads % = 0.286

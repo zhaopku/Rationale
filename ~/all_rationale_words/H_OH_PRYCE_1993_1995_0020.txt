@@ -1,0 +1,16 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) am(0.0) very(1.0) pleased(0.0) to(0.0) yield(0.0) 3(0.0) minutes(1.0) to(0.0) one(0.0) of(0.0) our(0.0) new(0.0) colleagues(1.0) ,(0.0) the(0.0) distinguished(0.0) gentleman(0.0) from(0.0) 
+Florida(1.0) [(0.0) Mr.(0.0) Foley(1.0) ](0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) Florida(1.0) has(0.0) already(0.0) proven(1.0) to(0.0) be(0.0) a(0.0) very(0.0) active(0.0) and(0.0) very(0.0) 
+effective(0.0) Member(0.0) of(0.0) the(0.0) House(0.0) of(0.0) Representatives(0.0) ,(0.0) and(0.0) we(0.0) are(0.0) very(0.0) pleased(0.0) to(0.0) have(0.0) him(0.0) with(0.0) us(0.0) .(0.0) ((0.0) 
+Mr.(0.0) FOLEY(1.0) asked(0.0) and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) )(0.0) 
+
+
+----- below are rationale words -----
+
+very	minutes	colleagues	
+Florida	Foley	Florida	proven	
+
+FOLEY	
+
+reads % = 0.10526315789473684

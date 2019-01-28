@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) the(0.0) State(1.0) of(0.0) Texas(0.0) is(0.0) caught(1.0) in(0.0) the(0.0) crosshairs(1.0) of(0.0) a(0.0) green(1.0) movement(0.0) hostile(1.0) and(0.0) detrimental(1.0) to(0.0) our(0.0) energy(1.0) 
+industries(0.0) .(0.0) Texas(0.0) produces(0.0) 1(0.0) million(0.0) barrels(0.0) of(0.0) oil(1.0) every(0.0) day(0.0) ,(0.0) or(1.0) 20(0.0) percent(1.0) of(0.0) the(0.0) U.S.(0.0) production(0.0) .(0.0) 
+We(0.0) 're(0.0) also(1.0) home(0.0) to(0.0) refineries(1.0) that(0.0) produce(0.0) one-quarter(1.0) of(0.0) the(0.0) country(1.0) 's(0.0) gasoline(1.0) and(0.0) also(1.0) produce(0.0) oil(1.0) byproducts(1.0) for(0.0) 
+plastics(0.0) .(0.0) The(0.0) new(1.0) cap-and-trade(1.0) tax(1.0) will(0.0) destroy(0.0) thousands(0.0) of(0.0) Texas(0.0) jobs(1.0) ,(0.0) and(0.0) the(0.0) Congressional(0.0) Budget(1.0) Office(0.0) says(1.0) that(0.0) 
+the(0.0) tax(1.0) on(0.0) energy(1.0) wo(0.0) n't(0.0) even(0.0) help(0.0) the(0.0) climate(1.0) .(0.0) No(0.0) matter(0.0) ,(0.0) the(0.0) taxacrats(1.0) in(0.0) Washington(1.0) want(1.0) to(0.0) 
+punish(1.0) red(0.0) energy(1.0) State(0.0) voters(1.0) by(0.0) nailing(1.0) them(0.0) with(0.0) the(0.0) new(1.0) disastrous(1.0) tax(1.0) on(0.0) energy(1.0) consumption(1.0) .(0.0) In(0.0) the(0.0) name(1.0) 
+of(0.0) saving(1.0) planet(1.0) Earth(1.0) ,(0.0) the(0.0) government(1.0) barons(1.0) are(0.0) trying(1.0) to(0.0) push(0.0) us(0.0) to(0.0) so-called(0.0) ``(0.0) green(1.0) ''(0.0) energy(1.0) sources(0.0) 
+that(0.0) do(0.0) n't(0.0) even(0.0) exist(1.0) yet(0.0) .(0.0) Green(1.0) energy(1.0) that(0.0) will(0.0) support(0.0) this(0.0) country(1.0) 's(0.0) needs(0.0) is(0.0) at(0.0) least(1.0) 10(0.0) 
+years(0.0) away(0.0) .(0.0) The(0.0) immediate(0.0) solution(0.0) right(1.0) in(0.0) front(1.0) of(0.0) us(0.0) is(0.0) expanding(1.0) our(0.0) own(0.0) oil(1.0) and(0.0) gas(1.0) production(0.0) while(0.0) 
+we(0.0) develop(0.0) these(0.0) new(1.0) technologies(1.0) .(0.0) That(0.0) will(0.0) create(0.0) jobs(1.0) ,(0.0) keep(1.0) money(0.0) in(0.0) America(0.0) ,(0.0) and(0.0) make(0.0) us(0.0) less(0.0) 
+dependent(1.0) on(0.0) foreign(0.0) oil(1.0) .(0.0) But(0.0) that(0.0) logic(1.0) is(0.0) lost(0.0) in(0.0) the(0.0) hazy(1.0) political(1.0) climate(1.0) of(0.0) Washington(1.0) .(0.0) And(0.0) that(0.0) 
+'s(1.0) just(1.0) the(0.0) way(1.0) it(0.0) is(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+State	caught	crosshairs	green	hostile	detrimental	energy	
+oil	or	percent	
+also	refineries	one-quarter	country	gasoline	also	oil	byproducts	
+new	cap-and-trade	tax	jobs	Budget	says	
+tax	energy	climate	taxacrats	Washington	want	
+punish	energy	voters	nailing	new	disastrous	tax	energy	consumption	name	
+saving	planet	Earth	government	barons	trying	green	energy	
+exist	Green	energy	country	least	
+right	front	expanding	oil	gas	
+new	technologies	jobs	keep	
+dependent	oil	logic	hazy	political	climate	Washington	
+'s	just	way	
+
+reads % = 0.3157894736842105

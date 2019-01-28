@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) today(0.0) we(0.0) bring(0.0) to(0.0) the(0.0) House(0.0) 
+floor(0.0) the(0.0) 2007(0.0) budget(1.0) for(0.0) the(0.0) Department(0.0) of(0.0) the(0.0) Interior(0.0) ,(0.0) environment(0.0) ,(0.0) and(0.0) related(0.0) agencies(0.0) .(0.0) This(0.0) bill(1.0) provides(0.0) 
+$(0.0) 25.9(0.0) billion(1.0) ,(0.0) which(0.0) is(0.0) $(0.0) 418(0.0) million(0.0) above(0.0) the(0.0) budget(1.0) request(0.0) and(0.0) $(0.0) 145(0.0) million(0.0) below(0.0) the(0.0) 2006(0.0) 
+enacted(0.0) level(0.0) .(0.0) It(0.0) has(0.0) been(0.0) a(0.0) challenging(0.0) year(0.0) and(0.0) difficult(0.0) choices(0.0) were(0.0) made(0.0) to(0.0) stay(0.0) within(0.0) our(0.0) allocation(1.0) for(0.0) 
+the(0.0) bill(1.0) .(0.0) In(0.0) keeping(0.0) with(0.0) long-standing(1.0) tradition(1.0) ,(0.0) this(0.0) bill(1.0) has(1.0) been(0.0) developed(0.0) as(0.0) a(0.0) bipartisan(1.0) effort(0.0) and(0.0) focuses(1.0) 
+funding(1.0) increases(1.0) on(0.0) the(0.0) operations(0.0) of(0.0) our(0.0) national(1.0) parks(0.0) and(0.0) other(0.0) public(1.0) lands(0.0) ;(0.0) Indian(0.0) programs(0.0) ,(0.0) including(0.0) health(1.0) and(0.0) 
+education(1.0) ;(0.0) forest(1.0) health(1.0) ;(0.0) and(0.0) preservation(1.0) of(0.0) our(0.0) national(1.0) cultural(1.0) treasures(0.0) .(0.0) In(0.0) order(0.0) to(0.0) provide(0.0) these(0.0) increases(1.0) ,(0.0) 
+there(0.0) are(0.0) decreases(0.0) to(0.0) many(0.0) grants(1.0) programs(1.0) and(0.0) there(0.0) are(0.0) limited(0.0) new(0.0) construction(1.0) and(0.0) land(0.0) acquisition(0.0) projects(0.0) .(0.0) In(0.0) most(0.0) 
+cases(0.0) ,(0.0) these(0.0) choices(0.0) are(0.0) not(0.0) a(0.0) reflection(0.0) on(0.0) the(0.0) effectiveness(0.0) of(0.0) the(0.0) programs(1.0) being(0.0) reduced(0.0) ,(0.0) but(0.0) rather(0.0) reflect(0.0) 
+the(0.0) committee(0.0) 's(0.0) belief(0.0) that(0.0) mission-essential(1.0) Federal(1.0) programs(1.0) like(0.0) the(0.0) national(1.0) parks(0.0) ,(0.0) National(0.0) Forest(0.0) and(0.0) Native(1.0) American(0.0) programs(1.0) must(0.0) 
+be(0.0) the(0.0) number(0.0) one(0.0) priority(0.0) .(0.0) While(0.0) we(0.0) appreciate(0.0) input(0.0) from(0.0) the(0.0) administration(1.0) each(0.0) year(0.0) ,(0.0) we(0.0) have(0.0) made(0.0) some(0.0) 
+significant(0.0) changes(0.0) to(0.0) the(0.0) request(0.0) ,(0.0) including(0.0) restoring(1.0) funds(1.0) for(0.0) Johnson(0.0) O'Malley(1.0) Education(0.0) Grants(0.0) in(0.0) the(0.0) Bureau(0.0) of(0.0) Indian(0.0) Affairs(0.0) 
+;(0.0) restoring(0.0) funds(0.0) for(0.0) the(0.0) operations(0.0) of(0.0) 32(0.0) urban(1.0) Indian(0.0) health(0.0) clinics(0.0) ;(0.0) restoring(0.0) funds(1.0) for(0.0) PILT(1.0) ;(0.0) restoring(0.0) funds(1.0) 
+for(0.0) Superfund(1.0) remediation(1.0) and(0.0) environmental(1.0) education(1.0) ,(0.0) and(0.0) research(0.0) in(0.0) EPA(1.0) ;(0.0) restoring(1.0) funds(1.0) for(0.0) forest(0.0) health(1.0) and(0.0) forest(0.0) road(0.0) 
+maintenance(0.0) ;(0.0) and(0.0) restoring(1.0) funds(1.0) for(0.0) National(0.0) Heritage(0.0) Areas(0.0) and(0.0) for(0.0) U.S.(0.0) Geological(0.0) Survey(0.0) mineral(0.0) assessments(0.0) .(0.0) We(0.0) have(0.0) provided(0.0) 
+significant(0.0) increases(0.0) to(0.0) support(0.0) the(0.0) operations(0.0) of(0.0) our(0.0) national(1.0) parks(0.0) and(0.0) the(0.0) Indian(0.0) Health(0.0) Service(0.0) ,(0.0) and(0.0) we(0.0) fully(0.0) fund(1.0) 
+the(0.0) National(0.0) Fire(0.0) Plan(0.0) .(0.0) One(0.0) area(0.0) that(0.0) deserves(0.0) particular(0.0) mention(0.0) ,(0.0) in(0.0) which(0.0) we(0.0) have(0.0) supported(0.0) the(0.0) administration(1.0) 's(0.0) 
+budget(1.0) proposal(1.0) ,(0.0) is(0.0) the(0.0) energy(1.0) area(0.0) .(0.0) In(0.0) the(0.0) Bureau(0.0) of(0.0) Land(0.0) Management(0.0) ,(0.0) there(0.0) are(0.0) significant(0.0) increases(1.0) that(0.0) 
+will(0.0) enable(0.0) us(0.0) to(0.0) expedite(1.0) the(0.0) permitting(1.0) of(0.0) on-shore(1.0) oil(1.0) and(0.0) gas(1.0) exploration(1.0) and(0.0) development(0.0) on(0.0) Federal(1.0) lands(1.0) .(0.0) In(0.0) 
+EPA(1.0) ,(0.0) we(0.0) were(0.0) unable(0.0) to(0.0) provide(0.0) all(0.0) the(0.0) requested(0.0) increases(0.0) that(0.0) were(0.0) associated(0.0) with(0.0) the(0.0) Energy(0.0) Policy(0.0) Act(0.0) of(0.0) 
+2005(0.0) ,(0.0) but(0.0) we(0.0) have(0.0) provided(0.0) significant(0.0) increases(1.0) ,(0.0) including(0.0) $(0.0) 26(0.0) million(0.0) for(0.0) the(0.0) National(0.0) Clean(1.0) Diesel(1.0) Initiative(1.0) .(0.0) 
+This(0.0) committee(0.0) ,(0.0) and(0.0) this(0.0) member(0.0) in(0.0) particular(0.0) ,(0.0) soundly(0.0) rejects(1.0) the(0.0) administration(1.0) 's(0.0) proposal(1.0) to(0.0) sell(0.0) National(0.0) Forest(0.0) lands(0.0) 
+throughout(0.0) the(0.0) country(1.0) ,(0.0) and(0.0) we(0.0) think(0.0) this(0.0) will(0.0) not(0.0) be(0.0) happening(0.0) .(0.0) We(0.0) have(0.0) eliminated(1.0) Stateside(0.0) Land(0.0) and(0.0) Water(0.0) 
+Grants(1.0) ,(0.0) the(0.0) Forest(0.0) Service(0.0) Economic(0.0) Action(0.0) Program(0.0) ,(0.0) the(0.0) BLM(0.0) Rural(0.0) Fire(0.0) Program(0.0) ,(0.0) and(0.0) the(0.0) Asia(0.0) Pacific(0.0) Partnership(1.0) 
+in(0.0) EPA(1.0) .(0.0) This(0.0) is(0.0) a(0.0) responsible(0.0) bill(0.0) that(0.0) is(0.0) focused(0.0) on(0.0) protecting(1.0) Federal(1.0) lands(1.0) ,(0.0) Indian(0.0) programs(1.0) ,(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	
+budget	bill	
+billion	budget	
+allocation	
+bill	long-standing	tradition	bill	has	bipartisan	focuses	
+funding	increases	national	public	health	
+education	forest	health	preservation	national	cultural	increases	
+grants	programs	construction	
+programs	
+mission-essential	Federal	programs	national	Native	programs	
+administration	
+restoring	funds	O'Malley	
+urban	funds	PILT	funds	
+Superfund	remediation	environmental	education	EPA	restoring	funds	health	
+restoring	funds	
+national	fund	
+administration	
+budget	proposal	energy	increases	
+expedite	permitting	on-shore	oil	gas	exploration	Federal	lands	
+EPA	
+increases	Clean	Diesel	Initiative	
+rejects	administration	proposal	
+country	eliminated	
+Grants	Partnership	
+EPA	protecting	Federal	lands	programs	
+
+reads % = 0.17

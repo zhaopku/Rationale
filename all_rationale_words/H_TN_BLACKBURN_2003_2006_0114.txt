@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+We(0.0) have(0.0) not(0.0) suffered(0.0) another(0.0) attack(0.0) on(0.0) our(0.0) soil(1.0) since(0.0) September(0.0) 11(0.0) ,(0.0) and(0.0) we(0.0) are(0.0) grateful(0.0) .(0.0) We(0.0) have(0.0) killed(0.0) 
+or(0.0) captured(0.0) dozens(0.0) of(0.0) members(0.0) of(0.0) al(0.0) Qaeda(0.0) and(0.0) the(0.0) Taliban(1.0) .(0.0) Our(0.0) military(0.0) and(0.0) intelligence(0.0) forces(0.0) are(0.0) working(0.0) both(0.0) 
+hard(0.0) and(0.0) smart(0.0) .(0.0) After(0.0) two(0.0) decades(1.0) of(0.0) having(0.0) U.S.(0.0) interests(0.0) attacked(0.0) by(0.0) the(0.0) terrorists(1.0) ,(0.0) we(0.0) have(0.0) taken(0.0) the(0.0) 
+war(1.0) on(0.0) terrorism(1.0) to(0.0) the(0.0) terrorists'(0.0) backyard(0.0) .(0.0) For(0.0) decades(1.0) ,(0.0) whether(0.0) it(0.0) was(0.0) the(0.0) Iranian(1.0) hostage(1.0) crisis(1.0) ,(0.0) the(0.0) 
+bombing(1.0) of(0.0) Pan(0.0) Am(0.0) Flight(0.0) 103(0.0) ,(0.0) the(0.0) first(0.0) World(0.0) Trade(0.0) Center(0.0) bombing(0.0) ,(0.0) or(0.0) the(0.0) USS(1.0) Cole(0.0) bombing(0.0) ,(0.0) 
+we(0.0) did(0.0) not(0.0) view(0.0) terrorist(1.0) attacks(0.0) as(0.0) a(0.0) declaration(0.0) of(0.0) war(1.0) .(0.0) And(0.0) that(0.0) is(0.0) what(0.0) they(0.0) were(0.0) ,(0.0) but(0.0) 
+we(0.0) did(0.0) n't(0.0) see(0.0) it(0.0) .(0.0) We(0.0) used(0.0) law(1.0) enforcement(1.0) to(0.0) go(0.0) after(0.0) terrorists(1.0) and(0.0) we(0.0) sought(0.0) to(0.0) negotiate(0.0) .(0.0) 
+What(0.0) a(0.0) mistake(0.0) that(0.0) was(0.0) .(0.0) But(0.0) it(0.0) is(0.0) a(0.0) mistake(0.0) all(0.0) too(0.0) many(0.0) who(0.0) prefer(0.0) appeasement(1.0) want(0.0) us(0.0) to(0.0) 
+repeat(0.0) .(0.0) Can(0.0) any(0.0) of(0.0) us(0.0) even(0.0) imagine(0.0) ,(0.0) after(0.0) Pearl(0.0) Harbor(1.0) ,(0.0) President(0.0) Roosevelt(1.0) suggesting(0.0) we(0.0) negotiate(0.0) a(0.0) resolution(1.0) 
+or(0.0) that(0.0) we(0.0) could(0.0) simply(0.0) prosecute(1.0) those(0.0) involved(0.0) ?(0.0) Of(0.0) course(0.0) it(0.0) is(0.0) unimaginable(0.0) .(0.0) We(0.0) are(0.0) right(0.0) to(0.0) be(0.0) 
+in(0.0) the(0.0) Middle(0.0) East(0.0) ,(0.0) and(0.0) we(0.0) are(0.0) right(0.0) to(0.0) treat(0.0) this(0.0) as(0.0) the(0.0) war(1.0) it(0.0) is(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+soil	
+Taliban	
+decades	terrorists	
+war	terrorism	decades	Iranian	hostage	crisis	
+bombing	USS	
+terrorist	war	
+law	enforcement	terrorists	
+appeasement	
+Harbor	Roosevelt	resolution	
+prosecute	
+war	
+
+reads % = 0.1050228310502283

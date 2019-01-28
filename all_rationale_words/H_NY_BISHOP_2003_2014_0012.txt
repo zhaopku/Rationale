@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) this(0.0) is(0.0) the(0.0) final(0.0) amendment(1.0) to(0.0) the(0.0) bill(1.0) ,(0.0) which(0.0) will(0.0) not(0.0) kill(0.0) the(0.0) bill(1.0) or(1.0) send(0.0) it(0.0) back(0.0) 
+to(0.0) committee(0.0) .(0.0) If(0.0) adopted(1.0) ,(0.0) the(0.0) bill(1.0) will(1.0) immediately(0.0) proceed(0.0) to(0.0) final(0.0) passage(0.0) ,(0.0) as(0.0) amended(1.0) .(0.0) Mr.(0.0) Speaker(1.0) 
+,(0.0) my(0.0) amendment(1.0) responds(1.0) to(0.0) the(0.0) increasing(1.0) threat(1.0) of(0.0) Chinese(1.0) and(0.0) other(0.0) state-sponsored(1.0) computer(0.0) hacking(0.0) of(0.0) our(0.0) national(1.0) infrastructure(1.0) of(0.0) 
+computer(0.0) networks(0.0) .(0.0) These(0.0) cyber(1.0) attacks(0.0) have(0.0) severely(0.0) undermined(1.0) our(0.0) national(1.0) security(0.0) and(0.0) continue(0.0) to(0.0) threaten(1.0) our(0.0) economy(1.0) .(0.0) Not(0.0) 
+only(0.0) are(0.0) the(0.0) Chinese(0.0) hacking(0.0) into(0.0) our(0.0) state(1.0) secrets(0.0) ,(0.0) but(0.0) they(0.0) are(0.0) stealing(1.0) our(0.0) trade(1.0) secrets(0.0) ,(0.0) which(0.0) costs(1.0) 
+us(0.0) jobs(0.0) ,(0.0) and(0.0) especially(0.0) jobs(0.0) of(0.0) the(0.0) future(0.0) .(0.0) China(0.0) 's(0.0) conduct(0.0) is(0.0) reprehensible(1.0) and(0.0) unacceptable(1.0) for(0.0) a(0.0) major(0.0) 
+trading(0.0) partner(0.0) .(0.0) In(0.0) response(0.0) ,(0.0) my(0.0) amendment(1.0) requires(1.0) the(0.0) heads(0.0) of(0.0) the(0.0) intelligence(0.0) agencies(0.0) to(0.0) prioritize(1.0) efforts(1.0) to(0.0) uncover(0.0) 
+,(0.0) stop(0.0) ,(0.0) and(0.0) prevent(0.0) future(0.0) attempts(1.0) to(0.0) steal(1.0) U.S.(0.0) military(0.0) technology(0.0) and(0.0) intellectual(1.0) property(0.0) .(0.0) The(0.0) intelligence(0.0) agencies(0.0) are(0.0) 
+also(0.0) required(0.0) to(0.0) notify(0.0) businesses(0.0) and(0.0) Internet(0.0) providers(0.0) when(0.0) network(0.0) breaches(0.0) occur(0.0) ,(0.0) collaborate(0.0) with(0.0) Federal(1.0) agencies(1.0) to(0.0) protect(0.0) critical(1.0) 
+infrastructure(1.0) ,(0.0) and(0.0) assist(0.0) law(1.0) enforcement(1.0) ,(0.0) as(0.0) well(0.0) as(0.0) our(0.0) international(1.0) partners(0.0) in(0.0) apprehending(1.0) ,(0.0) halting(1.0) ,(0.0) and(0.0) punishing(1.0) 
+those(0.0) who(0.0) infiltrate(0.0) our(0.0) systems(0.0) .(0.0) The(0.0) need(0.0) for(0.0) this(0.0) amendment(1.0) is(0.0) clear(0.0) .(0.0) Growing(0.0) evidence(0.0) reveals(0.0) extensive(0.0) activity(0.0) on(0.0) 
+the(0.0) part(0.0) of(0.0) the(0.0) People(0.0) 's(0.0) Liberation(1.0) Army(0.0) to(0.0) conduct(0.0) cyber(0.0) ,(0.0) economic(1.0) ,(0.0) and(0.0) industrial(1.0) espionage(1.0) .(0.0) Their(0.0) hacking(0.0) 
+knows(0.0) no(0.0) bounds(0.0) in(0.0) the(0.0) pursuit(1.0) of(0.0) state(1.0) and(0.0) trade(1.0) secrets(0.0) alike(0.0) .(0.0) We(0.0) have(0.0) uncovered(0.0) the(0.0) traces(0.0) and(0.0) telltale(0.0) 
+signs(0.0) of(0.0) hacking(0.0) into(0.0) Federal(1.0) systems(1.0) and(0.0) U.S.(0.0) corporations(1.0) ,(0.0) like(0.0) Alcoa(1.0) ,(0.0) U.S.(1.0) Steel(0.0) ,(0.0) energy(1.0) companies(1.0) like(0.0) SolarPowerAG(0.0) 
+,(0.0) and(0.0) even(0.0) nuclear(1.0) power(0.0) providers(0.0) like(0.0) Westinghouse(0.0) Electric(0.0) Company(0.0) .(0.0) This(0.0) month(0.0) ,(0.0) the(0.0) Justice(1.0) Department(0.0) indicted(1.0) five(0.0) members(0.0) 
+of(0.0) the(0.0) Chinese(0.0) military(0.0) for(0.0) stealing(0.0) trade(0.0) secrets(0.0) in(0.0) order(0.0) to(0.0) prosper(0.0) from(0.0) American(1.0) ingenuity(1.0) and(0.0) innovation(1.0) to(0.0) undercut(1.0) our(0.0) 
+global(1.0) competitiveness(1.0) .(0.0) These(0.0) are(0.0) not(0.0) isolated(0.0) incidents(0.0) .(0.0) The(0.0) frequency(0.0) of(0.0) these(0.0) attacks(0.0) has(0.0) increased(0.0) over(0.0) time(0.0) ,(0.0) costing(0.0) 
+our(0.0) economy(1.0) thousands(0.0) of(0.0) jobs(1.0) and(0.0) up(0.0) to(0.0) $(0.0) 100(0.0) billion(1.0) annually(0.0) .(0.0) Not(0.0) only(0.0) are(0.0) the(0.0) Chinese(1.0) and(0.0) their(0.0) 
+partners(0.0) in(0.0) cyber(1.0) crime(1.0) refusing(1.0) to(0.0) acknowledge(0.0) evidence(0.0) we(0.0) have(0.0) uncovered(0.0) ,(0.0) but(0.0) they(0.0) refuse(0.0) to(0.0) negotiate(0.0) steps(0.0) both(0.0) of(0.0) 
+our(0.0) nations(1.0) could(0.0) pursue(1.0) to(0.0) end(0.0) this(0.0) threat(1.0) .(0.0) No(0.0) one(0.0) single(0.0) action(1.0) will(0.0) stop(0.0) the(0.0) Chinese(0.0) from(0.0) trying(0.0) to(0.0) 
+infiltrate(1.0) American(0.0) computer(0.0) networks(0.0) ,(0.0) but(0.0) collaboration(0.0) between(0.0) our(0.0) intelligence(0.0) agencies(0.0) ,(0.0) law(1.0) enforcement(1.0) ,(0.0) and(0.0) the(0.0) private(0.0) sector(0.0) can(0.0) 
+strengthen(0.0) our(0.0) defenses(1.0) ,(0.0) deter(1.0) cyber(1.0) espionage(1.0) from(0.0) being(0.0) launched(0.0) on(0.0) foreign(1.0) shores(0.0) ,(0.0) and(0.0) protect(0.0) our(0.0) jobs(1.0) .(0.0) My(0.0) 
+amendment(1.0) is(0.0) not(0.0) the(0.0) only(0.0) step(0.0) we(0.0) can(0.0) take(0.0) ,(0.0) but(0.0) it(0.0) is(0.0) an(0.0) important(0.0) addition(0.0) to(0.0) this(0.0) bill(1.0) .(0.0) 
+The(0.0) United(0.0) States(0.0) deserves(1.0) better(0.0) for(0.0) supporting(0.0) the(0.0) rights(1.0) of(0.0) nations(1.0) like(0.0) China(1.0) to(0.0) trade(1.0) in(0.0) the(0.0) global(1.0) marketplace(0.0) ,(0.0) 
+to(0.0) be(0.0) treated(0.0) with(0.0) respect(0.0) ,(0.0) and(0.0) to(0.0) participate(0.0) in(0.0) the(0.0) community(0.0) of(0.0) nations(1.0) .(0.0) We(0.0) must(0.0) send(0.0) the(0.0) 
+
+
+----- below are rationale words -----
+
+amendment	bill	bill	or	
+adopted	bill	will	amended	Speaker	
+amendment	responds	increasing	threat	Chinese	state-sponsored	national	infrastructure	
+cyber	undermined	national	threaten	economy	
+state	stealing	trade	costs	
+reprehensible	unacceptable	
+amendment	requires	prioritize	efforts	
+attempts	steal	intellectual	
+Federal	agencies	critical	
+infrastructure	law	enforcement	international	apprehending	halting	punishing	
+amendment	
+Liberation	economic	industrial	espionage	
+pursuit	state	trade	
+Federal	systems	corporations	Alcoa	U.S.	energy	companies	
+nuclear	Justice	indicted	
+American	ingenuity	innovation	undercut	
+global	competitiveness	
+economy	jobs	billion	Chinese	
+cyber	crime	refusing	
+nations	pursue	threat	action	
+infiltrate	law	enforcement	
+defenses	deter	cyber	espionage	foreign	jobs	
+amendment	bill	
+deserves	rights	nations	China	trade	global	
+nations	
+
+reads % = 0.196

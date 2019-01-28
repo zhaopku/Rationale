@@ -1,0 +1,38 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) would(0.0) simply(0.0) like(0.0) to(0.0) reiterate(0.0) one(0.0) point(0.0) ,(0.0) and(0.0) I(0.0) am(0.0) not(0.0) going(0.0) to(0.0) push(0.0) this(0.0) to(0.0) 
+a(0.0) rollcall(0.0) vote(1.0) .(0.0) I(0.0) understand(0.0) what(0.0) is(0.0) going(0.0) to(0.0) happen(0.0) .(0.0) But(0.0) I(0.0) simply(0.0) want(0.0) to(0.0) say(0.0) that(0.0) in(0.0) 
+my(0.0) view(0.0) ,(0.0) this(0.0) is(0.0) not(0.0) a(0.0) question(0.0) of(0.0) the(0.0) Constitution(1.0) .(0.0) This(0.0) is(0.0) not(0.0) a(0.0) question(0.0) of(0.0) constitutional(1.0) prerogatives(1.0) 
+.(0.0) It(0.0) is(0.0) a(0.0) question(0.0) of(0.0) at(0.0) what(0.0) time(0.0) ,(0.0) at(0.0) what(0.0) point(0.0) ,(0.0) and(0.0) under(0.0) what(0.0) manner(0.0) ,(0.0) the(0.0) 
+constitutional(1.0) prerogative(1.0) is(0.0) going(0.0) to(0.0) be(0.0) exercised(0.0) .(0.0) I(0.0) believe(0.0) that(0.0) constitutional(1.0) prerogatives(1.0) are(0.0) like(0.0) opinions(0.0) .(0.0) Just(0.0) because(0.0) we(0.0) 
+have(0.0) them(0.0) ,(0.0) we(0.0) do(0.0) not(0.0) always(0.0) have(0.0) to(0.0) express(0.0) them(0.0) ,(0.0) at(0.0) least(0.0) not(0.0) at(0.0) the(0.0) immediate(0.0) time(0.0) .(0.0) 
+It(0.0) just(0.0) simply(0.0) seems(0.0) to(0.0) me(0.0) that(0.0) the(0.0) same(0.0) purpose(0.0) could(0.0) be(0.0) accomplished(0.0) ,(0.0) the(0.0) constitutional(1.0) prerogative(1.0) could(0.0) be(0.0) protected(0.0) 
+,(0.0) if(0.0) we(0.0) were(0.0) allowed(0.0) to(0.0) simply(0.0) proceed(0.0) to(0.0) take(0.0) out(0.0) the(0.0) offending(0.0) Senate(0.0) action(0.0) in(0.0) the(0.0) conference(0.0) .(0.0) I(0.0) 
+fully(0.0) agree(0.0) with(0.0) the(0.0) gentleman(0.0) from(0.0) Pennsylvania(1.0) .(0.0) I(0.0) think(0.0) this(0.0) is(0.0) simply(0.0) an(0.0) end(0.0) run(0.0) on(0.0) spending(1.0) caps(1.0) .(0.0) 
+I(0.0) resent(0.0) it(0.0) very(0.0) much(0.0) ,(0.0) and(0.0) I(0.0) am(0.0) not(0.0) going(0.0) to(0.0) allow(0.0) it(0.0) to(0.0) happen(0.0) .(0.0) But(0.0) the(0.0) problem(0.0) 
+is(0.0) that(0.0) the(0.0) process(0.0) which(0.0) the(0.0) gentleman(0.0) is(0.0) pursuing(0.0) today(0.0) leaves(0.0) us(0.0) at(0.0) the(0.0) mercy(1.0) of(0.0) the(0.0) ability(0.0) of(0.0) the(0.0) 
+other(0.0) body(0.0) to(0.0) be(0.0) responsible(0.0) .(0.0) I(0.0) think(0.0) that(0.0) under(0.0) some(0.0) circumstances(0.0) that(0.0) might(0.0) be(0.0) a(0.0) very(0.0) weak(0.0) reed(0.0) to(0.0) 
+lean(0.0) upon(0.0) and(0.0) so(0.0) it(0.0) seems(0.0) to(0.0) me(0.0) that(0.0) the(0.0) better(0.0) course(0.0) would(0.0) be(0.0) for(0.0) us(0.0) to(0.0) responsibly(1.0) take(0.0) the(0.0) 
+offending(0.0) matter(0.0) out(0.0) without(0.0) requiring(1.0) each(0.0) house(0.0) to(0.0) go(0.0) through(0.0) another(0.0) set(0.0) of(0.0) hoops(0.0) .(0.0) That(0.0) is(0.0) what(0.0) I(0.0) was(0.0) 
+trying(0.0) to(0.0) accomplish(0.0) here(0.0) today(0.0) .(0.0) I(0.0) am(0.0) sorry(0.0) I(0.0) could(0.0) not(0.0) do(0.0) it(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+vote	
+Constitution	constitutional	prerogatives	
+
+constitutional	prerogative	constitutional	prerogatives	
+
+constitutional	prerogative	
+
+Pennsylvania	spending	caps	
+
+mercy	
+
+responsibly	
+requiring	
+
+
+reads % = 0.05405405405405406

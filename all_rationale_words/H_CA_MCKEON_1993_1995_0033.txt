@@ -1,0 +1,16 @@
+This is from a Republican
+----- below is the original text -----
+5(0.0) billion(0.0) from(0.0) eliminating(1.0) the(0.0) interest(0.0) subsidy(1.0) for(0.0) the(0.0) 6-month(0.0) period(0.0) .(0.0) In(0.0) other(0.0) words(0.0) ,(0.0) right(0.0) now(0.0) a(0.0) student(0.0) ,(0.0) 
+any(0.0) student(0.0) ,(0.0) can(0.0) get(0.0) a(0.0) loan(0.0) to(0.0) go(0.0) to(0.0) school(0.0) .(0.0) Any(0.0) student(0.0) .(0.0) If(0.0) they(0.0) meet(0.0) the(0.0) requirements(1.0) 
+,(0.0) if(0.0) their(0.0) income(1.0) is(0.0) low(0.0) enough(0.0) and(0.0) they(0.0) meet(0.0) the(0.0) requirement(1.0) ,(0.0) the(0.0) Government(1.0) will(0.0) subsidize(1.0) the(0.0) interest(0.0) while(0.0) 
+they(0.0) are(0.0) in(0.0) school(1.0) .(0.0) That(0.0) is(0.0) the(0.0) current(0.0) law(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+eliminating	subsidy	
+requirements	
+income	requirement	Government	subsidize	
+school	law	
+
+reads % = 0.125

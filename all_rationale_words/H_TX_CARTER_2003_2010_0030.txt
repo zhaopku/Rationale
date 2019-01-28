@@ -1,0 +1,20 @@
+This is from a Republican
+----- below is the original text -----
+Under(0.0) House(0.0) rule(1.0) X(0.0) ,(0.0) clause(0.0) 5(0.0) ((0.0) c(0.0) )(0.0) which(0.0) states(0.0) ,(0.0) ``(0.0) In(0.0) the(0.0) absence(0.0) of(0.0) the(0.0) member(0.0) serving(0.0) 
+as(0.0) chair(0.0) ,(0.0) the(0.0) member(0.0) next(0.0) in(0.0) rank(0.0) ((0.0) and(0.0) so(0.0) on(0.0) ,(0.0) as(0.0) often(0.0) as(0.0) the(0.0) case(0.0) shall(0.0) happen(0.0) 
+)(0.0) shall(0.0) act(0.0) as(0.0) chair(0.0) ,(0.0) ''(0.0) under(0.0) House(0.0) Resolution(0.0) 24(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Michigan(1.0) ((0.0) Mr.(0.0) Levin(1.0) )(0.0) 
+ranks(1.0) next(0.0) after(0.0) Mr.(0.0) Stark(1.0) on(0.0) the(0.0) resolution(0.0) electing(0.0) members(0.0) of(0.0) the(0.0) committee(0.0) .(0.0) Under(0.0) that(0.0) resolution(0.0) and(0.0) by(0.0) operation(0.0) 
+of(0.0) House(0.0) rule(0.0) X(0.0) ,(0.0) clause(0.0) 5(0.0) ((0.0) c(0.0) )(0.0) ,(0.0) is(0.0) Mr.(0.0) Levin(1.0) currently(1.0) the(0.0) acting(0.0) chairman(0.0) of(0.0) the(0.0) 
+Committee(0.0) on(0.0) Ways(0.0) and(0.0) Means(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+rule	
+
+Michigan	Levin	
+ranks	Stark	
+Levin	currently	
+
+
+reads % = 0.06542056074766354

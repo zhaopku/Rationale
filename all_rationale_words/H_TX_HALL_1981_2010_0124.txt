@@ -1,0 +1,10 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) yield(0.0) 1(0.0) minute(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Houston(0.0) ,(0.0) Texas(1.0) ((0.0) Mr.(0.0) Al(1.0) Green(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Texas	Al	Green	
+
+reads % = 0.17647058823529413

@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(1.0) ,(0.0) if(0.0) the(0.0) gentleman(0.0) will(0.0) continue(0.0) to(0.0) yield(0.0) ,(0.0) that(0.0) is(0.0) correct(0.0) .(0.0) The(0.0) Secretary(1.0) of(0.0) Agriculture(0.0) will(0.0) administer(0.0) the(0.0) 
+program(0.0) under(0.0) the(0.0) requirements(0.0) of(0.0) the(0.0) production(0.0) flexibility(0.0) contracts(1.0) as(0.0) contained(0.0) in(0.0) the(0.0) act(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Secretary	
+contracts	
+
+reads % = 0.05555555555555555

@@ -1,0 +1,36 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) there(0.0) has(0.0) been(0.0) a(0.0) lot(0.0) of(0.0) discussion(0.0) recently(0.0) about(0.0) extending(0.0) benefits(1.0) to(0.0) the(0.0) unemployed(1.0) ,(0.0) and(0.0) it(0.0) is(0.0) critical(0.0) 
+we(0.0) do(0.0) that(0.0) .(0.0) I(0.0) would(0.0) like(0.0) to(0.0) talk(0.0) about(0.0) 226(0.0) people(0.0) who(0.0) are(0.0) in(0.0) my(0.0) district(0.0) who(0.0) have(0.0) jobs(0.0) 
+but(0.0) still(0.0) ca(0.0) n't(0.0) come(0.0) to(0.0) work(0.0) to(0.0) perform(0.0) those(0.0) jobs(0.0) and(0.0) get(0.0) paid(0.0) .(0.0) They(0.0) worked(0.0) at(0.0) the(0.0) Kellogg(0.0) 
+plant(0.0) in(0.0) Memphis(1.0) ,(0.0) making(0.0) cereal(0.0) like(0.0) Corn(0.0) Flakes(0.0) and(0.0) Frosted(0.0) Flakes(0.0) ,(0.0) but(0.0) they(0.0) have(0.0) been(0.0) locked(0.0) out(0.0) by(0.0) 
+Kellogg(1.0) since(0.0) October(0.0) 22(0.0) due(0.0) to(0.0) a(0.0) national(0.0) contract(0.0) dispute(1.0) .(0.0) The(0.0) company(0.0) ,(0.0) with(0.0) sales(0.0) of(0.0) $(0.0) 14(0.0) billion(1.0) 
+at(0.0) last(0.0) estimate(0.0) ,(0.0) hopes(0.0) to(0.0) bring(0.0) in(0.0) so-called(1.0) ``(0.0) casual(0.0) ''(0.0) employees(0.0) who(0.0) would(0.0) be(0.0) paid(0.0) less(0.0) and(0.0) work(0.0) 
+fewer(0.0) hours(0.0) and(0.0) get(0.0) fewer(0.0) benefits(1.0) than(0.0) the(0.0) steady(0.0) middle(0.0) class(1.0) jobs(1.0) that(0.0) the(0.0) company(0.0) offers(0.0) now(0.0) .(0.0) I(0.0) am(0.0) 
+proud(0.0) Kellogg(1.0) is(0.0) in(0.0) my(0.0) district(0.0) ,(0.0) and(0.0) I(0.0) have(0.0) toured(0.0) their(0.0) plant(0.0) .(0.0) When(0.0) I(0.0) am(0.0) flying(0.0) out(0.0) of(0.0) 
+Memphis(1.0) ,(0.0) I(0.0) drive(0.0) up(0.0) and(0.0) down(0.0) Airways(0.0) Boulevard(0.0) .(0.0) I(0.0) go(0.0) past(0.0) the(0.0) Kellogg(1.0) plant(0.0) ,(0.0) and(0.0) I(0.0) see(0.0) 
+those(0.0) employees(0.0) out(0.0) each(0.0) day(0.0) ,(0.0) day(0.0) and(0.0) night(0.0) ,(0.0) even(0.0) in(0.0) 10-degree(1.0) weather(0.0) earlier(0.0) this(0.0) week(0.0) .(0.0) Like(0.0) the(0.0) 
+post(0.0) office(0.0) ,(0.0) they(0.0) are(0.0) out(0.0) in(0.0) rain(0.0) ,(0.0) snow(0.0) ,(0.0) or(0.0) sleet(0.0) .(0.0) I(0.0) see(0.0) them(0.0) on(0.0) holidays(0.0) ,(0.0) 
+weekends(0.0) ,(0.0) you(0.0) name(0.0) it(0.0) ,(0.0) fighting(1.0) for(0.0) their(0.0) rights(1.0) ,(0.0) standing(0.0) up(0.0) for(0.0) themselves(0.0) .(0.0) It(0.0) is(0.0) time(0.0) to(0.0) 
+end(0.0) this(0.0) lockout(1.0) .(0.0) Put(0.0) those(0.0) people(0.0) back(0.0) to(0.0) work(0.0) .(0.0) Let's(0.0) produce(0.0) our(0.0) cereal(0.0) with(0.0) good(0.0) Memphis(1.0) employees(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+benefits	unemployed	
+
+
+Memphis	
+Kellogg	dispute	billion	
+so-called	
+benefits	class	jobs	
+Kellogg	
+Memphis	Kellogg	
+10-degree	
+
+fighting	rights	
+lockout	Memphis	
+
+
+reads % = 0.06896551724137931

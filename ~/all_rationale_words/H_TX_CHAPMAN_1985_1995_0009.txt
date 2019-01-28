@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) have(0.0) a(0.0) point(0.0) I(0.0) think(1.0) is(0.0) very(0.0) important(0.0) to(0.0) make(0.0) .(0.0) Under(1.0) last(1.0) year's(1.0) crime(0.0) bill(0.0) ,(0.0) as(0.0) it(0.0) applied(0.0) 
+to(0.0) prisons(1.0) ,(0.0) we(0.0) authorized(1.0) $(0.0) 10.5(0.0) billion(1.0) ,(0.0) and(0.0) I(0.0) ask(1.0) the(0.0) chairman(1.0) of(0.0) the(0.0) committee(0.0) to(0.0) make(0.0) sure(1.0) 
+I(0.0) am(0.0) right(1.0) about(0.0) this(0.0) .(0.0) We(0.0) authorized(1.0) $(0.0) 10.5(0.0) billion(1.0) ,(0.0) but(0.0) that(0.0) was(0.0) not(1.0) funded(1.0) in(0.0) the(0.0) 1994(0.0) 
+act(0.0) .(0.0) We(0.0) only(0.0) actually(1.0) funded(1.0) $(0.0) 7.9(0.0) billion(1.0) from(0.0) the(0.0) standpoint(1.0) of(0.0) the(0.0) 1994(0.0) act(0.0) .(0.0) But(1.0) under(0.0) the(0.0) 
+gentleman(0.0) 's(0.0) bill(0.0) ,(0.0) under(0.0) H.R(0.0) .(0.0) 667(1.0) ,(0.0) as(0.0) I(0.0) understand(0.0) it(0.0) ,(0.0) there(0.0) is(0.0) a(0.0) $(0.0) 5(0.0) billion(1.0) 
+,(0.0) in(0.0) effect(0.0) ,(0.0) pot(1.0) A(1.0) ,(0.0) a(0.0) $(0.0) 5(0.0) billion(1.0) pot(1.0) B(0.0) .(0.0) States(1.0) can(0.0) not(0.0) under(0.0) any(1.0) circumstances(1.0) 
+apply(0.0) for(0.0) both(0.0) .(0.0) They(0.0) apply(0.0) for(0.0) a(0.0) grant(0.0) either(0.0) under(0.0) pot(1.0) A(1.0) or(1.0) pot(1.0) B(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+think	Under	last	year's	
+prisons	authorized	billion	ask	chairman	sure	
+right	authorized	billion	not	funded	
+actually	funded	billion	standpoint	But	
+667	billion	
+pot	A	billion	pot	States	any	circumstances	
+pot	A	or	pot	
+
+reads % = 0.2391304347826087

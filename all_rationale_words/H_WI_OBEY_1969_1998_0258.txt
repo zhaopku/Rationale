@@ -1,0 +1,46 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) the(0.0) rule(1.0) under(0.0) which(0.0) this(0.0) bill(1.0) was(0.0) considered(0.0) contains(0.0) a(0.0) self-executing(1.0) provision(1.0) ,(0.0) the(0.0) effect(1.0) of(0.0) which(0.0) was(0.0) to(0.0) 
+delay(0.0) from(0.0) anywhere(0.0) between(0.0) 2(0.0) and(0.0) 5(0.0) years(0.0) the(0.0) Consumer(0.0) Product(0.0) Safety(0.0) Commission(0.0) 's(0.0) adoption(1.0) of(0.0) a(0.0) rule(0.0) protecting(0.0) consumers(1.0) 
+from(0.0) flammable(1.0) furniture(0.0) .(0.0) Because(0.0) of(0.0) the(0.0) way(0.0) that(0.0) rule(1.0) was(0.0) adopted(0.0) ,(0.0) Members(0.0) were(0.0) precluded(1.0) from(0.0) offering(0.0) any(0.0) amendments(1.0) 
+to(0.0) that(0.0) provision(1.0) .(0.0) The(0.0) proponents(1.0) of(0.0) that(0.0) provision(1.0) will(0.0) say(0.0) that(0.0) all(0.0) this(0.0) provision(1.0) does(0.0) is(0.0) to(0.0) allow(0.0) for(0.0) 
+more(0.0) study(0.0) and(0.0) to(0.0) get(0.0) more(0.0) science(0.0) before(0.0) the(0.0) Commission(0.0) proceeds(0.0) .(0.0) In(0.0) fact(0.0) ,(0.0) in(0.0) my(0.0) view(0.0) ,(0.0) the(0.0) 
+real(0.0) purpose(0.0) of(0.0) this(0.0) provision(1.0) is(0.0) to(0.0) stall(0.0) and(0.0) stall(0.0) and(0.0) stall(0.0) some(0.0) more(0.0) ,(0.0) in(0.0) hopes(1.0) that(0.0) eventually(0.0) they(0.0) 
+will(0.0) get(0.0) a(0.0) commission(0.0) with(0.0) a(0.0) different(0.0) makeup(0.0) so(0.0) that(0.0) the(0.0) rule(1.0) will(0.0) never(0.0) proceed(0.0) at(0.0) all(0.0) .(0.0) Mr.(0.0) Speaker(1.0) 
+,(0.0) this(0.0) is(0.0) part(0.0) of(0.0) a(0.0) pattern(0.0) .(0.0) What(0.0) has(0.0) been(0.0) happening(0.0) is(0.0) that(0.0) law(1.0) firms(1.0) around(0.0) this(0.0) town(0.0) have(0.0) 
+been(0.0) hired(0.0) by(0.0) clients(0.0) .(0.0) Those(0.0) clients(0.0) are(0.0) hired(0.0) to(0.0) prevent(0.0) action(1.0) by(0.0) the(0.0) government(1.0) to(0.0) prevent(1.0) consumers(1.0) or(0.0) workers(1.0) 
+from(0.0) being(0.0) protected(0.0) by(0.0) new(0.0) actions(1.0) of(0.0) the(0.0) government(1.0) .(0.0) So(0.0) whether(0.0) it(0.0) is(0.0) children(0.0) 's(0.0) pajamas(0.0) or(0.0) whether(0.0) it(0.0) 
+is(0.0) OSHA(1.0) being(0.0) precluded(1.0) from(0.0) offering(0.0) a(0.0) new(0.0) rule(1.0) to(0.0) stop(0.0) the(0.0) development(0.0) of(0.0) carpal(1.0) tunnel(0.0) syndrome(0.0) by(0.0) millions(1.0) of(0.0) 
+workers(1.0) or(0.0) whether(0.0) it(0.0) is(0.0) consumers(1.0) continuing(0.0) to(0.0) die(0.0) because(0.0) of(0.0) flammable(1.0) furniture(0.0) ,(0.0) those(0.0) law(1.0) firms(1.0) find(0.0) friendly(0.0) voices(0.0) 
+in(0.0) Congress(1.0) who(0.0) will(0.0) carry(0.0) out(0.0) their(0.0) wishes(0.0) and(0.0) we(0.0) wind(0.0) up(0.0) with(0.0) language(0.0) like(0.0) this(0.0) in(0.0) the(0.0) bill(1.0) .(0.0) 
+I(0.0) think(0.0) the(0.0) issue(0.0) is(0.0) very(0.0) simple(0.0) in(0.0) this(0.0) case(0.0) .(0.0) More(0.0) deaths(0.0) occur(0.0) in(0.0) this(0.0) country(1.0) from(0.0) upholstered(0.0) furniture(0.0) 
+than(0.0) from(0.0) any(0.0) other(0.0) product(0.0) under(0.0) the(0.0) Consumer(0.0) Product(0.0) Safety(0.0) Commission(0.0) jurisdiction(0.0) .(0.0) So(0.0) the(0.0) vote(1.0) is(0.0) very(0.0) simple(0.0) .(0.0) 
+If(0.0) Members(0.0) want(0.0) to(0.0) vote(1.0) to(0.0) save(0.0) lives(0.0) ,(0.0) Members(0.0) will(0.0) vote(1.0) for(0.0) this(0.0) amendment(1.0) to(0.0) allow(0.0) the(0.0) Commission(1.0) to(0.0) 
+proceed(0.0) to(0.0) develop(0.0) rules(0.0) that(0.0) will(0.0) protect(0.0) the(0.0) public(1.0) from(0.0) flammable(1.0) furniture(0.0) .(0.0) If(0.0) Members(0.0) want(0.0) to(0.0) let(0.0) yet(0.0) another(0.0) 
+industry(1.0) continue(0.0) to(0.0) expose(1.0) consumers(1.0) to(0.0) life-threatening(1.0) products(1.0) ,(0.0) then(0.0) Members(0.0) will(0.0) vote(1.0) against(0.0) the(0.0) amendment(1.0) .(0.0) It(0.0) is(0.0) as(0.0) 
+simple(0.0) as(0.0) that(0.0) .(0.0) I(0.0) would(0.0) urge(0.0) an(0.0) aye(0.0) vote(1.0) on(0.0) the(0.0) motion(1.0) to(0.0) recommit(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+rule	bill	self-executing	provision	effect	
+adoption	consumers	
+flammable	rule	precluded	amendments	
+provision	proponents	provision	provision	
+
+provision	hopes	
+rule	Speaker	
+law	firms	
+action	government	prevent	consumers	workers	
+actions	government	
+OSHA	precluded	rule	carpal	millions	
+workers	consumers	flammable	law	firms	
+Congress	bill	
+country	
+vote	
+vote	vote	amendment	Commission	
+public	flammable	
+industry	expose	consumers	life-threatening	products	vote	amendment	
+vote	motion	recommit	
+
+reads % = 0.15384615384615385

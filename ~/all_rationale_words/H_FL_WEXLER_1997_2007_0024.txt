@@ -1,0 +1,40 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(1.0) ,(0.0) a(0.0) co-chair(1.0) of(0.0) the(0.0) Congressional(1.0) Caucus(1.0) on(0.0) Intellectual(1.0) Property(1.0) Promotion(0.0) ,(0.0) I(0.0) rise(1.0) in(0.0) strong(0.0) support(0.0) of(0.0) this(0.0) patent(1.0) 
+reform(0.0) legislation(0.0) because(1.0) it(0.0) is(0.0) critical(1.0) for(0.0) the(0.0) continued(0.0) growth(1.0) of(0.0) American(0.0) businesses(1.0) and(0.0) the(0.0) creation(0.0) of(0.0) high-paying(1.0) jobs(1.0) in(0.0) 
+America(0.0) .(0.0) This(0.0) bill(0.0) will(0.0) nurture(1.0) and(0.0) protect(0.0) inventors(1.0) ,(0.0) thereby(0.0) promoting(0.0) future(0.0) Alexander(0.0) Graham(1.0) Bells(0.0) and(0.0) tomorrow(0.0) 's(0.0) Microsofts(1.0) 
+.(0.0) For(0.0) more(0.0) than(0.0) 200(1.0) years(0.0) ,(0.0) strong(0.0) patent(1.0) protection(0.0) ,(0.0) along(1.0) with(0.0) timely(1.0) examination(0.0) of(0.0) patent(1.0) applications(1.0) ,(0.0) has(0.0) 
+helped(0.0) secure(0.0) the(0.0) economic(1.0) success(0.0) of(0.0) the(0.0) United(0.0) States(0.0) by(0.0) empowering(1.0) inventors(1.0) and(0.0) encouraging(0.0) the(0.0) development(1.0) of(0.0) American(0.0) business(1.0) both(0.0) 
+large(0.0) and(0.0) small(0.0) .(0.0) Every(1.0) day(0.0) ,(0.0) Americans(0.0) rely(1.0) on(0.0) the(0.0) innovation(1.0) that(0.0) comes(0.0) from(0.0) our(0.0) patent(0.0) system(0.0) .(0.0) From(0.0) 
+new(1.0) computer(0.0) technologies(1.0) to(0.0) medicines(1.0) for(0.0) America(0.0) 's(0.0) seniors(0.0) ,(0.0) the(0.0) American(0.0) patent(1.0) system(0.0) provides(0.0) the(0.0) fuel(1.0) for(0.0) our(0.0) most(1.0) 
+important(0.0) technological(0.0) accomplishments(1.0) .(0.0) In(0.0) America(0.0) today(1.0) ,(0.0) our(0.0) capacity(1.0) to(0.0) come(0.0) up(0.0) with(0.0) new(1.0) ideas(1.0) actually(1.0) outstrips(1.0) the(0.0) value(0.0) 
+of(0.0) the(0.0) goods(0.0) we(0.0) make(0.0) .(0.0) The(0.0) licensing(1.0) of(0.0) U.S.(0.0) patents(0.0) contributes(1.0) approximately(0.0) $(0.0) 150(0.0) billion(1.0) to(0.0) our(0.0) annual(0.0) economy(1.0) 
+,(0.0) and(0.0) intellectual(0.0) property(0.0) ,(0.0) including(1.0) patents(0.0) ,(0.0) is(0.0) the(0.0) only(0.0) economic(0.0) area(0.0) where(0.0) the(0.0) United(0.0) States(0.0) maintains(0.0) a(0.0) solid(0.0) 
+trade(1.0) surplus(1.0) with(0.0) the(0.0) rest(0.0) of(0.0) the(0.0) world(0.0) .(0.0) A(1.0) well-functioning(1.0) patent(0.0) system(0.0) is(0.0) vital(1.0) to(0.0) America(0.0) 's(0.0) commercial(1.0) and(0.0) 
+scientific(0.0) entrepreneurs(1.0) and(0.0) preserves(1.0) the(0.0) incentives(1.0) for(0.0) innovation(1.0) guaranteed(0.0) under(0.0) the(0.0) United(0.0) States(0.0) Constitution(0.0) .(0.0) This(0.0) legislation(0.0) will(0.0) make(0.0) America(0.0) 
+more(0.0) competitive(0.0) in(0.0) the(0.0) global(0.0) marketplace(1.0) ,(0.0) not(1.0) less(0.0) .(0.0) We(0.0) need(0.0) to(0.0) support(0.0) Mr.(0.0) Berman(1.0) and(0.0) Mr.(0.0) Conyers(1.0) in(0.0) 
+their(0.0) effort(0.0) to(0.0) produce(0.0) what(0.0) I(0.0) would(1.0) respectfully(1.0) suggest(0.0) is(0.0) the(0.0) most(1.0) important(0.0) economic(0.0) legislation(0.0) that(0.0) this(0.0) House(0.0) will(0.0) pass(1.0) 
+.(0.0) This(0.0) is(0.0) excellent(0.0) for(0.0) America(0.0) 's(0.0) workers(1.0) ;(0.0) it(0.0) 's(0.0) excellent(0.0) for(0.0) America's(0.0) universities(1.0) and(0.0) our(0.0) economy(1.0) at(0.0) large(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+co-chair	Congressional	Caucus	Intellectual	Property	rise	patent	
+because	critical	growth	businesses	high-paying	jobs	
+nurture	inventors	Graham	Microsofts	
+200	patent	along	timely	patent	applications	
+economic	empowering	inventors	development	business	
+Every	rely	innovation	
+new	technologies	medicines	patent	fuel	most	
+accomplishments	today	capacity	new	ideas	actually	outstrips	
+licensing	contributes	billion	economy	
+including	
+trade	surplus	A	well-functioning	vital	commercial	
+entrepreneurs	preserves	incentives	innovation	
+marketplace	not	Berman	Conyers	
+would	respectfully	most	pass	
+workers	universities	economy	
+
+
+reads % = 0.23178807947019867

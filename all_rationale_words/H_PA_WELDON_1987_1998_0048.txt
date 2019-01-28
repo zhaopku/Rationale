@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) rise(0.0) as(0.0) one(0.0) of(0.0) the(0.0) members(0.0) of(0.0) the(0.0) minority(1.0) in(0.0) this(0.0) body(0.0) ,(0.0) and(0.0) that(0.0) is(0.0) that(0.0) I(0.0) 
+am(0.0) a(0.0) classroom(0.0) teacher(0.0) .(0.0) I(0.0) spent(0.0) 7(0.0) years(0.0) in(0.0) the(0.0) public(1.0) schools(1.0) in(0.0) Pennsylvania(1.0) ,(0.0) and(0.0) in(0.0) fact(0.0) ,(0.0) 
+besides(0.0) being(0.0) a(0.0) teacher(0.0) and(0.0) a(0.0) head(0.0) teacher(0.0) in(0.0) an(0.0) impoverished(1.0) district(0.0) ,(0.0) I(0.0) also(0.0) for(0.0) 3(0.0) years(0.0) was(0.0) assistant(0.0) 
+director(0.0) of(0.0) a(0.0) Title(0.0) I(0.0) program(0.0) ,(0.0) and(0.0) for(0.0) 1(0.0) year(0.0) served(0.0) in(0.0) a(0.0) program(0.0) funded(0.0) by(0.0) Title(0.0) III(0.0) .(0.0) 
+I(0.0) understand(0.0) the(0.0) need(0.0) to(0.0) get(0.0) money(1.0) to(0.0) classroom(0.0) teachers(0.0) so(0.0) that(0.0) they(0.0) can(0.0) better(0.0) motivate(0.0) children(0.0) .(0.0) I(0.0) also(0.0) 
+served(0.0) in(0.0) my(0.0) capacity(0.0) as(0.0) vice(0.0) president(0.0) of(0.0) my(0.0) local(0.0) education(0.0) association(0.0) .(0.0) I(0.0) rise(0.0) with(0.0) unequivocal(1.0) support(0.0) for(0.0) this(0.0) 
+bill(1.0) .(0.0) I(0.0) praise(0.0) my(0.0) colleague(0.0) and(0.0) the(0.0) leader(0.0) of(0.0) our(0.0) committee(0.0) who(0.0) have(0.0) done(0.0) an(0.0) outstanding(0.0) job(0.0) because(0.0) this(0.0) 
+bill(1.0) does(1.0) I(0.0) think(0.0) what(0.0) all(0.0) of(0.0) us(0.0) in(0.0) America(1.0) want(0.0) to(0.0) do(0.0) :(0.0) It(0.0) puts(0.0) the(0.0) dollars(1.0) into(0.0) the(0.0) 
+hands(0.0) of(0.0) those(0.0) people(0.0) who(0.0) have(0.0) the(0.0) most(0.0) responsibility(0.0) to(0.0) motivate(0.0) young(0.0) people(0.0) ,(0.0) and(0.0) that(0.0) is(0.0) our(0.0) teachers(1.0) .(0.0) 
+It(0.0) is(0.0) not(0.0) the(0.0) bureaucrats(1.0) ,(0.0) it(0.0) is(0.0) not(0.0) the(0.0) pencil(0.0) pushers(1.0) in(0.0) our(0.0) regional(1.0) offices(0.0) ,(0.0) it(0.0) is(0.0) the(0.0) 
+men(0.0) and(0.0) women(0.0) who(0.0) serve(0.0) in(0.0) the(0.0) classroom(0.0) every(0.0) day(0.0) .(0.0) And(0.0) as(0.0) one(0.0) of(0.0) them(0.0) ,(0.0) I(0.0) rise(0.0) in(0.0) 
+strong(0.0) support(0.0) of(0.0) this(0.0) legislation(1.0) and(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) vote(1.0) ``(0.0) yes(0.0) ''(0.0) on(0.0) the(0.0) bill(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+minority	
+public	schools	Pennsylvania	
+impoverished	
+
+money	
+unequivocal	
+bill	
+bill	does	America	dollars	
+teachers	
+bureaucrats	pushers	regional	
+
+legislation	vote	bill	
+
+reads % = 0.0794979079497908

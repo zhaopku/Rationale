@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) make(0.0) sure(0.0) I(0.0) understand(0.0) the(0.0) gentleman(0.0) 's(0.0) amendment(1.0) .(0.0) Is(0.0) the(0.0) gentleman(0.0) saying(0.0) if(0.0) I(0.0) happen(0.0) 
+to(0.0) have(0.0) my(0.0) home(0.0) next(0.0) to(0.0) wetland(1.0) and(0.0) the(0.0) developer(0.0) goes(0.0) on(0.0) that(0.0) wetland(1.0) under(0.0) this(0.0) bill(1.0) and(0.0) somehow(0.0) fills(0.0) 
+it(0.0) in(0.0) with(0.0) a(0.0) landfill(0.0) or(0.0) whatever(0.0) so(0.0) he(0.0) can(0.0) build(0.0) a(0.0) subdivision(0.0) or(0.0) building(0.0) of(0.0) some(0.0) sort(0.0) ,(0.0) as(0.0) 
+a(0.0) result(0.0) my(0.0) property(0.0) ,(0.0) my(0.0) basement(0.0) floods(0.0) or(0.0) something(0.0) happens(0.0) to(0.0) my(0.0) property(0.0) ,(0.0) that(0.0) I(0.0) have(0.0) a(0.0) right(0.0) 
+to(0.0) recover(0.0) for(0.0) my(0.0) loss(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+amendment	
+wetland	wetland	bill	
+
+
+
+
+reads % = 0.04597701149425287

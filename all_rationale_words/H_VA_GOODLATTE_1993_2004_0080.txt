@@ -1,0 +1,20 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) pass(0.0) the(0.0) Senate(0.0) bill(0.0) ((1.0) S.(1.0) 2965(1.0) )(0.0) to(0.0) amend(0.0) the(0.0) Livestock(0.0) 
+Mandatory(0.0) Price(0.0) Reporting(0.0) Act(0.0) of(0.0) 1999(0.0) to(0.0) modify(0.0) the(0.0) termination(0.0) date(0.0) for(0.0) mandatory(0.0) price(0.0) reporting(0.0) .(0.0) The(0.0) Clerk(0.0) read(0.0) as(0.0) 
+follows(0.0) :(0.0) S.(0.0) 2965(0.0) Be(0.0) it(0.0) enacted(0.0) by(0.0) the(0.0) Senate(0.0) and(0.0) House(0.0) of(0.0) Representatives(0.0) of(0.0) the(0.0) United(0.0) States(0.0) of(0.0) America(0.0) 
+in(0.0) Congress(0.0) assembled(0.0) ,(0.0) SECTION(0.0) 1(0.0) .(0.0) EXTENSION(0.0) .(0.0) Section(0.0) 942(0.0) of(0.0) the(0.0) Livestock(0.0) Mandatory(0.0) Price(0.0) Reporting(0.0) Act(0.0) of(0.0) 1999(0.0) 
+((0.0) 7(0.0) U.S.C(0.0) .(0.0) 1635(0.0) note(0.0) ;(0.0) Public(0.0) Law(0.0) 106-78(0.0) )(0.0) is(0.0) amended(0.0) by(0.0) striking(0.0) ``(0.0) terminate(0.0) ''(0.0) and(0.0) all(0.0) 
+that(0.0) follows(0.0) and(0.0) inserting(0.0) ``(0.0) terminate(0.0) on(0.0) September(0.0) 30(0.0) ,(0.0) 2005(0.0) .(0.0) ''(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+(	S.	2965	
+
+
+
+
+
+
+reads % = 0.02608695652173913

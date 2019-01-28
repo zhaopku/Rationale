@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) would(0.0) say(0.0) tonight(0.0) ,(0.0) ladies(0.0) and(0.0) gentlemen(0.0) who(0.0) join(0.0) us(0.0) here(0.0) in(0.0) this(0.0) Chamber(0.0) and(0.0) those(0.0) who(0.0) 
+watch(0.0) these(0.0) words(0.0) coast(0.0) to(0.0) coast(0.0) and(0.0) beyond(0.0) through(0.0) the(0.0) facilities(0.0) of(0.0) C-Span(1.0) and(0.0) other(0.0) satellite(0.0) networks(0.0) ,(0.0) that(0.0) sadly(0.0) 
+a(0.0) scourge(1.0) has(0.0) descended(0.0) on(0.0) this(0.0) Federal(1.0) capital(1.0) district(0.0) ,(0.0) on(0.0) this(0.0) capital(1.0) city(0.0) ,(0.0) a(0.0) scourge(1.0) borne(0.0) of(0.0) a(0.0) 
+cynicism(1.0) ,(0.0) a(0.0) scourge(1.0) borne(0.0) of(0.0) a(0.0) scorched(0.0) earth(0.0) policy(1.0) .(0.0) And(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) my(0.0) colleagues(0.0) ,(0.0) I(0.0) 
+think(0.0) it(0.0) is(0.0) important(0.0) to(0.0) note(0.0) some(0.0) basics(0.0) at(0.0) this(0.0) hour(0.0) of(0.0) need(0.0) in(0.0) our(0.0) Nation(1.0) .(0.0) First(0.0) and(0.0) foremost(0.0) 
+,(0.0) every(0.0) Member(0.0) of(0.0) this(0.0) body(0.0) ,(0.0) as(0.0) well(0.0) as(0.0) those(0.0) who(0.0) serve(0.0) in(0.0) elective(0.0) capacity(0.0) within(0.0) the(0.0) Executive(0.0) Branch(0.0) 
+and(0.0) those(0.0) in(0.0) the(0.0) Judiciary(0.0) ,(0.0) take(0.0) an(0.0) oath(0.0) of(0.0) office(0.0) to(0.0) uphold(0.0) and(0.0) defend(1.0) the(0.0) Constitution(1.0) of(0.0) the(0.0) United(0.0) 
+States(0.0) .(0.0) And(0.0) at(0.0) this(0.0) hour(0.0) in(0.0) this(0.0) place(0.0) at(0.0) a(0.0) time(0.0) of(0.0) grave(0.0) national(1.0) concern(0.0) we(0.0) would(0.0) do(0.0) well(0.0) 
+to(0.0) remember(0.0) the(0.0) words(0.0) of(0.0) our(0.0) founders(1.0) in(0.0) Article(1.0) 2(0.0) ,(0.0) Section(0.0) 4(0.0) ,(0.0) when(0.0) it(0.0) comes(0.0) to(0.0) discussion(0.0) of(0.0) 
+the(0.0) Executive(0.0) Branch(0.0) .(0.0) Our(0.0) founders(1.0) write(0.0) ,(0.0) and(0.0) I(0.0) quote(0.0) :(0.0) The(0.0) President(1.0) ,(0.0) Vice(0.0) President(1.0) and(0.0) all(0.0) civil(1.0) 
+officers(0.0) of(0.0) the(0.0) United(0.0) States(0.0) shall(0.0) be(0.0) removed(0.0) from(0.0) office(0.0) on(0.0) impeachment(0.0) for(0.0) and(0.0) conviction(0.0) of(0.0) treason(1.0) ,(0.0) bribery(1.0) or(0.0) 
+other(0.0) high(0.0) crimes(1.0) and(0.0) misdemeanors(0.0) .(0.0) Those(0.0) are(0.0) the(0.0) words(0.0) of(0.0) our(0.0) founders(1.0) .(0.0) Those(0.0) are(0.0) the(0.0) words(0.0) of(0.0) the(0.0) 
+document(0.0) which(0.0) Katherine(0.0) Drinker(1.0) Bowen(1.0) characterized(0.0) as(0.0) the(0.0) miracle(0.0) at(0.0) Philadelphia(1.0) .(0.0) Those(0.0) are(0.0) the(0.0) words(0.0) to(0.0) which(0.0) we(0.0) took(0.0) 
+an(0.0) oath(0.0) of(0.0) office(0.0) to(0.0) protect(0.0) ,(0.0) uphold(1.0) and(0.0) defend(1.0) .(0.0) And(0.0) I(0.0) share(0.0) my(0.0) colleague(0.0) from(0.0) California(0.0) 's(0.0) amazement(0.0) 
+and(0.0) outrage(1.0) that(0.0) in(0.0) this(0.0) city(1.0) ,(0.0) at(0.0) this(0.0) time(0.0) ,(0.0) there(0.0) are(0.0) those(0.0) who(0.0) would(0.0) pursue(0.0) a(0.0) scorched(0.0) earth(0.0) 
+policy(1.0) to(0.0) try(0.0) and(0.0) convince(0.0) the(0.0) American(0.0) people(0.0) that(0.0) ,(0.0) quote(0.0) ,(0.0) everybody(0.0) does(0.0) it(0.0) .(0.0) Well(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) 
+,(0.0) no(0.0) .(0.0) Everyone(0.0) does(0.0) not(0.0) do(0.0) it(0.0) .(0.0) Everyone(0.0) does(0.0) not(0.0) lie(0.0) under(0.0) oath(1.0) .(0.0) After(0.0) making(0.0) a(0.0) promise(0.0) 
+to(0.0) God(0.0) ,(0.0) after(0.0) making(0.0) a(0.0) promise(0.0) to(0.0) the(0.0) citizens(1.0) of(0.0) this(0.0) nation(1.0) ,(0.0) after(0.0) swearing(1.0) an(0.0) oath(1.0) to(0.0) uphold(1.0) 
+and(0.0) defend(1.0) the(0.0) Constitution(1.0) of(0.0) the(0.0) United(0.0) States(0.0) ,(0.0) at(0.0) long(0.0) last(0.0) ,(0.0) have(0.0) they(0.0) no(0.0) dignity(1.0) ?(0.0) Have(0.0) they(0.0) 
+no(0.0) sense(0.0) of(0.0) honor(0.0) ?(0.0) Those(0.0) who(0.0) through(0.0) the(0.0) media(0.0) and(0.0) who(0.0) through(0.0) whispered(0.0) comments(0.0) and(0.0) who(0.0) through(0.0) telephone(0.0) calls(0.0) 
+would(0.0) besmirch(0.0) the(0.0) dignity(1.0) of(0.0) those(0.0) who(0.0) serve(0.0) in(0.0) this(0.0) branch(0.0) under(0.0) the(0.0) cynical(1.0) and(0.0) sick(0.0) notion(1.0) that(0.0) everyone(0.0) does(0.0) 
+it(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) give(0.0) the(0.0) American(0.0) people(0.0) far(0.0) more(0.0) credit(0.0) .(0.0) I(0.0) understand(0.0) the(0.0) burdens(1.0) that(0.0) confront(0.0) 
+the(0.0) average(0.0) American(0.0) family(0.0) .(0.0) Indeed(0.0) ,(0.0) we(0.0) have(0.0) seen(0.0) it(0.0) here(0.0) and(0.0) my(0.0) colleague(0.0) from(0.0) California(0.0) will(0.0) attest(0.0) ,(0.0) 
+I(0.0) have(0.0) come(0.0) to(0.0) this(0.0) well(0.0) ,(0.0) as(0.0) has(0.0) he(0.0) ,(0.0) and(0.0) as(0.0) have(0.0) others(0.0) ,(0.0) to(0.0) point(0.0) out(0.0) that(0.0) 
+the(0.0) median(0.0) American(0.0) family(0.0) today(0.0) surrenders(1.0) well(0.0) over(0.0) a(0.0) quarter(0.0) of(0.0) its(0.0) income(1.0) in(0.0) taxes(1.0) to(0.0) the(0.0) Federal(1.0) Government(1.0) 
+
+
+----- below are rationale words -----
+
+Speaker	
+C-Span	
+scourge	Federal	capital	capital	scourge	
+cynicism	scourge	policy	Speaker	
+Nation	
+
+defend	Constitution	
+national	
+founders	Article	
+founders	President	President	civil	
+treason	bribery	
+crimes	founders	
+Drinker	Bowen	Philadelphia	
+uphold	defend	
+outrage	city	
+policy	Speaker	
+oath	
+citizens	nation	swearing	oath	uphold	
+defend	Constitution	dignity	
+
+dignity	cynical	notion	
+Speaker	burdens	
+
+
+surrenders	income	taxes	Federal	Government	
+
+reads % = 0.106

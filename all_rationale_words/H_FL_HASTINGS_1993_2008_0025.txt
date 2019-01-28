@@ -1,0 +1,24 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) would(0.0) ask(0.0) my(0.0) friend(0.0) from(0.0) Utah(1.0) not(0.0) to(0.0) leave(0.0) ,(0.0) and(0.0) I(0.0) am(0.0) going(0.0) to(0.0) ask(0.0) him(0.0) a(0.0) 
+question(0.0) and(0.0) then(0.0) yield(0.0) time(0.0) to(0.0) him(0.0) ,(0.0) with(0.0) the(0.0) Speaker(0.0) 's(0.0) permission(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) Utah(1.0) is(0.0) my(0.0) 
+good(0.0) friend(0.0) and(0.0) he(0.0) served(0.0) with(0.0) us(0.0) on(0.0) the(0.0) Rules(0.0) Committee(0.0) ,(0.0) but(0.0) I(0.0) am(0.0) just(0.0) curious(0.0) ,(0.0) as(0.0) the(0.0) 
+ranking(0.0) member(0.0) of(0.0) the(0.0) committee(0.0) of(0.0) relevant(0.0) jurisdiction(0.0) ,(0.0) did(0.0) you(0.0) offer(0.0) these(0.0) measures(1.0) ?(0.0) And(0.0) ,(0.0) in(0.0) addition(0.0) ,(0.0) 
+in(0.0) the(0.0) Rules(0.0) Committee(0.0) did(0.0) you(0.0) offer(0.0) any(0.0) statement(0.0) in(0.0) support(0.0) of(0.0) your(0.0) measures(1.0) ?(0.0) Finally(0.0) ,(0.0) you(0.0) did(0.0) offer(0.0) 
+one(0.0) amendment(1.0) that(0.0) I(0.0) would(0.0) suggest(0.0) we(0.0) save(0.0) yourself(0.0) from(0.0) by(0.0) not(0.0) making(0.0) it(0.0) in(0.0) order(0.0) because(0.0) you(0.0) are(0.0) not(0.0) 
+asking(0.0) ,(0.0) of(0.0) course(0.0) ,(0.0) or(0.0) want(0.0) us(0.0) to(0.0) take(0.0) up(0.0) a(0.0) measure(0.0) that(0.0) is(0.0) going(0.0) to(0.0) cost(1.0) the(0.0) Treasury(1.0) 
+$(0.0) 5(0.0) billion(1.0) .(0.0) I(0.0) yield(0.0) to(0.0) the(0.0) gentleman(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Utah	
+Utah	
+
+measures	
+measures	
+amendment	
+cost	Treasury	
+billion	
+
+reads % = 0.052980132450331126

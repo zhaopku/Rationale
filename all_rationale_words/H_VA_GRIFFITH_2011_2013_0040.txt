@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) Subcommittee(1.0) Chairman(0.0) Pitts(1.0) for(0.0) giving(0.0) me(0.0) the(0.0) freedom(1.0) to(0.0) work(0.0) on(0.0) this(0.0) .(0.0) I(0.0) appreciate(0.0) it(0.0) very(0.0) 
+much(0.0) .(0.0) It(0.0) has(0.0) been(0.0) a(0.0) year(0.0) since(0.0) last(0.0) fall(0.0) 's(0.0) fungal(0.0) meningitis(0.0) outbreak(0.0) associated(0.0) with(0.0) the(0.0) tainted(1.0) sterile(0.0) compounded(1.0) 
+drugs(1.0) from(0.0) the(0.0) New(1.0) England(0.0) Compounding(0.0) Center(0.0) .(0.0) In(0.0) my(0.0) district(0.0) and(0.0) in(0.0) our(0.0) area(0.0) in(0.0) Virginia(1.0) ,(0.0) we(0.0) had(0.0) 
+several(0.0) deaths(0.0) ,(0.0) we(0.0) had(0.0) 50(0.0) confirmed(0.0) cases(0.0) ,(0.0) and(0.0) we(0.0) had(0.0) approximately(0.0) 1,400(0.0) patients(0.0) who(0.0) were(0.0) notified(0.0) that(0.0) they(0.0) 
+could(0.0) have(0.0) been(0.0) exposed(0.0) to(0.0) fungal(0.0) meningitis(1.0) because(0.0) they(0.0) received(0.0) tainted(1.0) steroid(1.0) injections(0.0) .(0.0) In(0.0) working(0.0) on(0.0) this(0.0) bill(1.0) ,(0.0) 
+I(0.0) appreciated(0.0) the(0.0) bipartisan(1.0) manner(1.0) that(0.0) we(0.0) used(0.0) to(0.0) address(0.0) this(0.0) and(0.0) to(0.0) work(0.0) on(0.0) this(0.0) matter(0.0) ,(0.0) particularly(0.0) with(0.0) 
+my(0.0) colleagues(0.0) across(0.0) the(0.0) aisle(0.0) ,(0.0) Representatives(1.0) Gene(1.0) Green(1.0) and(0.0) Diana(1.0) DeGette(1.0) ,(0.0) for(0.0) whom(0.0) I(0.0) am(0.0) very(0.0) grateful(0.0) for(0.0) 
+all(0.0) of(0.0) their(0.0) time(0.0) and(0.0) effort(0.0) by(0.0) both(0.0) them(0.0) and(0.0) their(0.0) staffs(0.0) .(0.0) I(0.0) should(0.0) also(0.0) thank(0.0) my(0.0) staff(0.0) member(0.0) 
+who(0.0) worked(0.0) on(0.0) this(0.0) most(0.0) ,(0.0) which(0.0) was(0.0) Adam(0.0) Harbison(1.0) .(0.0) Having(0.0) said(0.0) that(0.0) ,(0.0) I(0.0) agree(0.0) with(0.0) Mr.(0.0) Dingell(1.0) 
+that(1.0) it(0.0) is(0.0) a(0.0) good(0.0) bill(0.0) and(0.0) not(0.0) a(0.0) perfect(0.0) bill(1.0) ,(0.0) but(0.0) I(0.0) am(0.0) glad(0.0) to(0.0) see(0.0) that(0.0) language(0.0) 
+from(0.0) the(0.0) Griffith-Green-DeGette(0.0) effort(1.0) was(0.0) adopted(0.0) and(0.0) the(0.0) FDA(1.0) will(0.0) be(0.0) required(0.0) to(0.0) engage(0.0) in(0.0) meaningful(1.0) communication(0.0) with(0.0) all(0.0) of(0.0) 
+the(0.0) States(0.0) when(0.0) potential(0.0) problems(0.0) are(0.0) identified(0.0) ,(0.0) as(0.0) this(0.0) has(0.0) always(0.0) been(0.0) my(0.0) priority(1.0) .(0.0) In(0.0) my(0.0) opinion(0.0) ,(0.0) 
+this(0.0) was(0.0) the(0.0) biggest(1.0) failure(0.0) of(0.0) the(0.0) FDA(0.0) in(0.0) handling(0.0) the(0.0) NECC(1.0) case(0.0) ,(0.0) as(0.0) they(0.0) were(0.0) warned(0.0) about(0.0) problems(0.0) 
+by(0.0) at(0.0) least(0.0) two(0.0) States(0.0) prior(0.0) to(0.0) this(0.0) problem(0.0) coming(0.0) to(0.0) the(0.0) forefront(1.0) with(0.0) all(0.0) of(0.0) these(0.0) deaths(0.0) and(0.0) with(0.0) 
+this(0.0) horrible(0.0) situation(0.0) .(0.0) Two(0.0) States(0.0) had(0.0) sent(0.0) out(0.0) a(0.0) warning(0.0) signal(0.0) .(0.0) The(0.0) State(0.0) of(0.0) Colorado(1.0) had(0.0) said(0.0) ,(0.0) 
+Wait(0.0) a(0.0) minute(0.0) ,(0.0) we're(0.0) not(0.0) going(0.0) to(0.0) let(0.0) these(0.0) folks(0.0) operate(0.0) here(0.0) .(0.0) The(0.0) State(0.0) of(0.0) Ohio(1.0) had(0.0) notified(0.0) 
+the(0.0) FDA(0.0) that(0.0) they(0.0) had(0.0) concerns(0.0) about(0.0) NECC(1.0) being(0.0) a(0.0) manufacturer(0.0) ,(0.0) yet(0.0) there(0.0) was(0.0) not(0.0) any(0.0) swift(0.0) action(0.0) taken(0.0) 
+on(0.0) NECC(1.0) or(0.0) even(0.0) an(0.0) attempt(0.0) to(0.0) alert(0.0) other(0.0) States(0.0) ,(0.0) including(0.0) the(0.0) State(0.0) of(0.0) Massachusetts(1.0) ,(0.0) to(0.0) the(0.0) problems(0.0) 
+that(0.0) were(0.0) happening(0.0) .(0.0) I(0.0) know(0.0) there(0.0) 's(0.0) a(0.0) lot(0.0) of(0.0) concern(1.0) out(0.0) there(0.0) by(0.0) some(0.0) in(0.0) the(0.0) medical(0.0) community(0.0) 
+,(0.0) particularly(0.0) the(0.0) doctors(0.0) and(0.0) some(0.0) others(0.0) ,(0.0) but(0.0) this(0.0) does(0.0) not(0.0) change(0.0) the(0.0) existing(0.0) law(1.0) on(0.0) office(0.0) use(0.0) ,(0.0) 
+and(0.0) it(0.0) does(0.0) not(0.0) change(0.0) the(0.0) existing(0.0) law(1.0) on(0.0) repackaging(1.0) .(0.0) There(0.0) were(0.0) legal(1.0) questions(0.0) that(0.0) evolved(0.0) with(0.0) this(0.0) situation(0.0) 
+surrounding(0.0) the(0.0) advertising(0.0) requirements(0.0) of(0.0) the(0.0) original(0.0) bill(0.0) .(0.0) I(0.0) was(0.0) a(0.0) little(0.0) surprised(0.0) that(0.0) the(0.0) FDA(1.0) had(0.0) waited(0.0) 10(0.0) 
+years(0.0) to(0.0) bring(0.0) that(0.0) up(0.0) ,(0.0) but(0.0) this(0.0) bill(1.0) fixes(1.0) that(0.0) problem(0.0) and(0.0) takes(0.0) away(0.0) that(0.0) cloud(0.0) of(0.0) uncertainty(1.0) as(0.0) 
+to(0.0) whether(0.0) or(0.0) not(0.0) the(0.0) whole(0.0) bill(1.0) was(0.0) not(0.0) constitutional(1.0) because(0.0) the(0.0) advertising(0.0) sections(0.0) were(0.0) not(0.0) constitutional(1.0) .(0.0) This(0.0) is(0.0) 
+a(0.0) good(0.0) bill(0.0) .(0.0) I(0.0) 'm(0.0) just(0.0) talking(0.0) about(0.0) the(0.0) compounding(1.0) sections(0.0) ,(0.0) but(0.0) also(0.0) the(0.0) track-and-trace(1.0) sections(0.0) are(0.0) 
+
+
+----- below are rationale words -----
+
+Subcommittee	Pitts	freedom	
+tainted	compounded	
+drugs	New	Virginia	
+
+meningitis	tainted	steroid	bill	
+bipartisan	manner	
+Representatives	Gene	Green	Diana	DeGette	
+
+Harbison	Dingell	
+that	bill	
+effort	FDA	meaningful	
+priority	
+biggest	NECC	
+forefront	
+Colorado	
+Ohio	
+NECC	
+NECC	Massachusetts	
+concern	
+law	
+law	repackaging	legal	
+FDA	
+bill	fixes	uncertainty	
+bill	constitutional	constitutional	
+compounding	track-and-trace	
+
+reads % = 0.098

@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) H.R(0.0) .(0.0) 1058(0.0) and(0.0) the(0.0) Cox(1.0) amendment(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) abuses(1.0) of(0.0) 
+securities(0.0) litigation(0.0) are(0.0) particularly(0.0) excessive(0.0) .(0.0) This(0.0) act(0.0) restricts(1.0) the(0.0) filing(1.0) of(0.0) frivolous(1.0) suits(1.0) by(0.0) imposing(1.0) stricter(1.0) conditions(1.0) .(0.0) The(0.0) 
+act(0.0) requires(0.0) class(0.0) action(0.0) suits(1.0) to(0.0) have(0.0) plaintiff(1.0) steering(0.0) committees(0.0) to(0.0) ensure(0.0) that(0.0) the(0.0) interests(1.0) of(0.0) the(0.0) lawyers(1.0) to(0.0) do(0.0) 
+dominate(0.0) those(0.0) of(0.0) the(0.0) plaintiffs(1.0) .(0.0) It(0.0) equalizes(0.0) individual(0.0) plaintiff(1.0) awards(0.0) in(0.0) a(0.0) class(0.0) action(0.0) suit(0.0) and(0.0) restricts(0.0) named(0.0) plaintiffs(1.0) 
+from(0.0) filing(0.0) more(0.0) than(0.0) five(0.0) suits(0.0) in(0.0) a(0.0) 3-year(0.0) period(0.0) .(0.0) The(0.0) act(0.0) also(0.0) allows(0.0) the(0.0) court(0.0) to(0.0) order(0.0) the(0.0) 
+``(0.0) lower(0.0) pays(0.0) ''(0.0) rule(0.0) in(0.0) unjustified(1.0) cases(0.0) .(0.0) The(0.0) plaintiff(1.0) has(0.0) a(0.0) greater(0.0) burden(0.0) of(0.0) proof(0.0) under(0.0) this(0.0) act(0.0) 
+,(0.0) which(0.0) allows(0.0) the(0.0) defendant(0.0) to(0.0) avoid(0.0) liability(1.0) if(0.0) there(0.0) is(0.0) no(0.0) intentional(0.0) deceit(0.0) .(0.0) Also(0.0) ,(0.0) the(0.0) plaintiff(1.0) must(0.0) 
+prove(0.0) that(0.0) loss(0.0) was(0.0) incurred(0.0) because(0.0) of(0.0) reliance(1.0) on(0.0) a(0.0) fraudulent(0.0) statement(0.0) .(0.0) Finally(0.0) ,(0.0) the(0.0) act(1.0) protects(0.0) publishers(0.0) of(0.0) 
+market(0.0) predictions(0.0) if(0.0) the(0.0) forecasts(0.0) are(0.0) well-reasoned(1.0) but(0.0) do(0.0) not(0.0) hold(0.0) true(0.0) .(0.0) Without(0.0) these(0.0) reforms(1.0) ,(0.0) plaintiff(1.0) lawyers(1.0) can(0.0) 
+file(0.0) securities(0.0) cases(0.0) with(0.0) few(0.0) restraints(1.0) .(0.0) They(0.0) routinely(0.0) pounce(0.0) on(0.0) companies(1.0) following(0.0) a(0.0) chance(0.0) drop(0.0) in(0.0) stock(0.0) .(0.0) They(0.0) 
+have(0.0) good(0.0) reason(0.0) to(0.0) take(0.0) ,(0.0) and(0.0) in(0.0) fact(0.0) promote(0.0) these(0.0) suits(0.0) .(0.0) The(0.0) plaintiff(1.0) 's(0.0) counsels(0.0) generally(0.0) spend(0.0) little(0.0) 
+time(0.0) determining(0.0) the(0.0) facts(0.0) of(0.0) the(0.0) case(0.0) ,(0.0) yet(0.0) receive(0.0) a(0.0) considerable(0.0) amount(0.0) of(0.0) money(1.0) for(0.0) their(0.0) involvement(1.0) .(0.0) Such(0.0) 
+practices(1.0) are(0.0) fostered(1.0) by(0.0) so-called(1.0) professional(0.0) plaintiffs(0.0) who(0.0) are(0.0) sometimes(0.0) recruited(0.0) by(0.0) lawyers(1.0) with(0.0) the(0.0) promise(0.0) of(0.0) easy(0.0) money(1.0) .(0.0) 
+H.R(0.0) .(0.0) 1058(0.0) removes(0.0) the(0.0) incentives(1.0) to(0.0) file(0.0) unfounded(1.0) claims(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) it(0.0) is(0.0) time(0.0) we(0.0) restore(1.0) the(0.0) 
+notion(1.0) that(0.0) a(0.0) capitalist(1.0) economy(0.0) ,(0.0) there(0.0) are(0.0) risks(1.0) .(0.0) The(0.0) process(0.0) is(0.0) simple(0.0) .(0.0) Stocks(0.0) rise(0.0) ,(0.0) you(0.0) win(0.0) 
+,(0.0) stocks(1.0) drop(0.0) ,(0.0) you(0.0) lose(0.0) .(0.0) Each(0.0) person(0.0) making(0.0) an(0.0) investment(1.0) knows(0.0) that(0.0) it(0.0) is(0.0) a(0.0) risk(0.0) ,(0.0) still(0.0) 
+certain(0.0) investors(1.0) have(0.0) been(0.0) encouraged(0.0) by(0.0) counsel(1.0) to(0.0) fault(0.0) companies(0.0) for(0.0) their(0.0) inability(0.0) to(0.0) predict(0.0) earnings(0.0) .(0.0) We(0.0) can(0.0) no(0.0) 
+longer(0.0) afford(0.0) to(0.0) operate(0.0) this(0.0) way(0.0) .(0.0) Risk(0.0) is(0.0) an(0.0) important(0.0) element(0.0) in(0.0) the(0.0) market(0.0) .(0.0) In(0.0) Colorado(1.0) alone(0.0) it(0.0) 
+is(0.0) estimated(0.0) that(0.0) frivolous(1.0) securities(1.0) litigation(1.0) unjustly(1.0) costs(1.0) tens(0.0) of(0.0) millions(1.0) of(0.0) dollars(1.0) every(0.0) year(0.0) .(0.0) The(0.0) assailed(1.0) companies(1.0) feel(0.0) 
+like(0.0) they(0.0) are(0.0) dealing(0.0) with(0.0) a(0.0) terrorist(1.0) .(0.0) Following(0.0) a(0.0) simple(0.0) shift(0.0) in(0.0) stock(0.0) price(0.0) or(0.0) a(0.0) particular(0.0) corporate(0.0) decision(0.0) 
+,(0.0) they(0.0) find(0.0) that(0.0) their(0.0) company(0.0) is(0.0) suddenly(0.0) held(0.0) hostage(1.0) and(0.0) they(0.0) are(0.0) compelled(0.0) to(0.0) negotiate(0.0) a(0.0) ransom(0.0) payment(0.0) .(0.0) 
+The(0.0) cost(1.0) of(0.0) these(0.0) suits(1.0) is(0.0) even(0.0) more(0.0) outrageous(1.0) when(0.0) you(0.0) consider(0.0) that(0.0) the(0.0) filing(1.0) parties(0.0) never(0.0) see(0.0) the(0.0) bulk(0.0) 
+of(0.0) the(0.0) payment(0.0) ,(0.0) it(0.0) is(0.0) the(0.0) plaintiff(1.0) attorneys(0.0) who(0.0) reap(0.0) most(0.0) of(0.0) the(0.0) benefits(0.0) .(0.0) When(0.0) the(0.0) law(1.0) provides(0.0) 
+such(0.0) incentives(1.0) for(0.0) greed(1.0) ,(0.0) the(0.0) law(1.0) should(0.0) be(0.0) revised(0.0) .(0.0) H.R(0.0) .(0.0) 1058(0.0) ,(0.0) the(0.0) Securities(0.0) Litigation(1.0) Reform(1.0) Act(0.0) 
+,(0.0) will(0.0) effectively(0.0) limit(1.0) unreasonable(1.0) law(1.0) suits(0.0) .(0.0) I(0.0) strongly(0.0) support(0.0) this(0.0) legislation(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	Cox	amendment	Chairman	abuses	
+restricts	filing	frivolous	suits	imposing	stricter	conditions	
+suits	plaintiff	interests	lawyers	
+plaintiffs	plaintiff	plaintiffs	
+
+unjustified	plaintiff	
+liability	plaintiff	
+reliance	act	
+well-reasoned	reforms	plaintiff	lawyers	
+restraints	companies	
+plaintiff	
+money	involvement	
+practices	fostered	so-called	lawyers	money	
+incentives	unfounded	Speaker	restore	
+notion	capitalist	risks	
+stocks	investment	
+investors	counsel	
+Colorado	
+frivolous	securities	litigation	unjustly	costs	millions	dollars	assailed	companies	
+terrorist	
+hostage	
+cost	suits	outrageous	filing	
+plaintiff	law	
+incentives	greed	law	Litigation	Reform	
+limit	unreasonable	law	legislation	
+
+reads % = 0.15555555555555556

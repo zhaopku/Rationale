@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) to(0.0) recognize(0.0) a(0.0) familiar(0.0) figure(0.0) to(0.0) the(0.0) people(0.0) in(0.0) Newport(1.0) ,(0.0) Oregon(1.0) ,(0.0) one(0.0) of(0.0) the(0.0) 
+coastal(0.0) communities(0.0) in(0.0) my(0.0) district(0.0) .(0.0) After(0.0) 37(0.0) years(0.0) with(0.0) the(0.0) United(0.0) States(0.0) Postal(0.0) Service(0.0) ,(0.0) on(0.0) March(0.0) 30(0.0) ,(0.0) 
+Steve(0.0) Bruns(1.0) officially(0.0) hung(0.0) up(0.0) his(0.0) mail(0.0) bag(0.0) for(0.0) good(0.0) .(0.0) Since(0.0) 1963(0.0) ,(0.0) Steve(0.0) Bruns(1.0) through(0.0) wind(0.0) and(0.0) rain(0.0) 
+,(0.0) and(0.0) we(0.0) have(0.0) a(0.0) lot(0.0) of(0.0) that(0.0) on(0.0) the(0.0) Oregon(1.0) coast(0.0) ,(0.0) has(0.0) always(0.0) delivered(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) 
+he(0.0) has(0.0) been(0.0) a(0.0) fixture(0.0) and(0.0) a(0.0) beloved(0.0) member(0.0) of(0.0) the(0.0) Newport(0.0) community(0.0) .(0.0) Steve(0.0) is(0.0) one(0.0) of(0.0) the(0.0) most(0.0) 
+personable(0.0) people(0.0) that(0.0) you(0.0) will(0.0) ever(0.0) meet(0.0) ,(0.0) and(0.0) he(0.0) is(0.0) going(0.0) to(0.0) be(0.0) missed(0.0) on(0.0) his(0.0) daily(0.0) route(0.0) by(0.0) 
+the(0.0) thousands(0.0) of(0.0) people(0.0) that(0.0) he(0.0) has(0.0) touched(0.0) over(0.0) the(0.0) years(0.0) .(0.0) Recently(0.0) he(0.0) was(0.0) honored(0.0) into(0.0) the(0.0) Million(0.0) Mile(0.0) 
+Club(0.0) by(0.0) the(0.0) U.S(1.0) .(0.0) Postal(0.0) Service(0.0) .(0.0) To(0.0) be(0.0) inducted(0.0) into(0.0) this(0.0) exclusive(0.0) club(0.0) ,(0.0) one(0.0) needs(0.0) to(0.0) have(0.0) 
+walked(0.0) or(0.0) driven(0.0) 1(0.0) million(0.0) miles(0.0) for(0.0) the(0.0) Postal(0.0) Service(0.0) .(0.0) This(0.0) would(0.0) be(0.0) equivalent(0.0) to(0.0) over(0.0) 160(0.0) round(0.0) trips(0.0) 
+from(0.0) Newport(1.0) ,(0.0) Oregon(1.0) ,(0.0) to(0.0) Washington(1.0) ,(0.0) D.C.(1.0) That(0.0) is(0.0) a(0.0) quite(0.0) a(0.0) feat(0.0) .(0.0) I(0.0) commend(0.0) Mr.(0.0) Bruns(1.0) 
+for(0.0) a(0.0) job(0.0) well(0.0) done(0.0) and(0.0) for(0.0) the(0.0) commitment(1.0) and(0.0) service(0.0) to(0.0) his(0.0) community(0.0) that(0.0) he(0.0) has(0.0) shown(0.0) throughout(0.0) his(0.0) 
+37(0.0) years(0.0) to(0.0) the(0.0) Postal(0.0) Service(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Newport	Oregon	
+
+Bruns	Bruns	
+Oregon	Speaker	
+
+
+
+U.S	
+
+Newport	Oregon	Washington	D.C.	Bruns	
+commitment	
+
+
+reads % = 0.05701754385964912

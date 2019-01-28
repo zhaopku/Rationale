@@ -1,0 +1,24 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) will(0.0) depart(0.0) from(0.0) my(0.0) prepared(0.0) text(0.0) directly(0.0) my(0.0) friend(0.0) ,(0.0) you(0.0) know(0.0) it(0.0) is(0.0) an(0.0) out(0.0) and(0.0) out(0.0) 
+falsehood(0.0) ;(0.0) we(0.0) will(0.0) not(0.0) take(0.0) apples(0.0) nor(0.0) milk(0.0) nor(0.0) any(0.0) food(0.0) out(0.0) of(0.0) the(0.0) mouths(1.0) of(0.0) the(0.0) children(0.0) of(0.0) 
+this(0.0) country(1.0) .(0.0) Once(0.0) again(0.0) ,(0.0) let(0.0) us(0.0) engage(0.0) in(0.0) some(0.0) elementary(0.0) mathematics(0.0) .(0.0) We(0.0) propose(1.0) ,(0.0) as(0.0) Republicans(0.0) ,(1.0) 
+to(1.0) up(1.0) the(0.0) budget(1.0) spent(1.0) ,(0.0) to(0.0) up(0.0) the(0.0) allocation(1.0) to(0.0) $(0.0) 200(0.0) million(0.0) over(0.0) what(0.0) President(1.0) Clinton(1.0) asked(0.0) for(0.0) 
+in(0.0) the(0.0) food(1.0) program(0.0) .(0.0) We(0.0) propose(1.0) an(0.0) increase(1.0) of(0.0) 4.5(0.0) percent(0.0) for(0.0) next(0.0) year(0.0) .(0.0) We(0.0) propose(1.0) giving(0.0) the(0.0) 
+power(0.0) to(0.0) feed(0.0) these(0.0) children(0.0) to(0.0) people(0.0) on(0.0) the(0.0) front(0.0) lines(0.0) fighting(1.0) the(0.0) battle(1.0) .(0.0) I(0.0) wish(0.0) my(0.0) friends(0.0) on(0.0) 
+the(0.0) other(0.0) side(0.0) would(0.0) stop(0.0) this(0.0) demagoguery(1.0) and(0.0) deal(0.0) with(0.0) the(0.0) facts(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) .(0.0) Those(0.0) are(0.0) the(0.0) facts(0.0) 
+and(0.0) that(0.0) is(0.0) the(0.0) difference(0.0) we(0.0) will(0.0) make(0.0) for(0.0) America(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+mouths	
+country	propose	,	
+to	up	budget	spent	allocation	President	Clinton	
+food	propose	increase	propose	
+fighting	battle	
+demagoguery	Speaker	
+America	
+
+reads % = 0.13157894736842105

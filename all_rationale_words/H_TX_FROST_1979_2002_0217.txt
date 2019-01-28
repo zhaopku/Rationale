@@ -1,0 +1,34 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) this(0.0) has(0.0) been(0.0) somewhat(0.0) of(0.0) a(0.0) peculiar(0.0) situation(0.0) that(0.0) we(0.0) find(0.0) ourselves(0.0) in(0.0) .(0.0) The(0.0) other(0.0) side(0.0) ,(0.0) 
+after(0.0) being(0.0) all(0.0) over(0.0) the(0.0) ballpark(1.0) all(0.0) day(0.0) ,(0.0) has(0.0) now(0.0) decided(0.0) on(0.0) a(0.0) one-week(0.0) CR(0.0) .(0.0) That(0.0) is(0.0) fine(0.0) 
+.(0.0) That(0.0) is(0.0) their(0.0) prerogative(1.0) .(0.0) They(0.0) are(0.0) in(0.0) the(0.0) majority(1.0) .(0.0) It(0.0) would(0.0) have(0.0) been(0.0) nice(0.0) if(0.0) they(0.0) decided(0.0) 
+this(0.0) 12(0.0) hours(0.0) ago(0.0) .(0.0) Presumably(0.0) ,(0.0) we(0.0) will(0.0) be(0.0) back(0.0) on(0.0) Tuesday(0.0) ,(0.0) maybe(0.0) Wednesday(0.0) or(0.0) maybe(0.0) Thursday(0.0) .(0.0) 
+The(0.0) only(0.0) regret(0.0) I(0.0) think(0.0) any(0.0) of(0.0) us(0.0) have(0.0) is(0.0) ,(0.0) while(0.0) the(0.0) gentleman(0.0) from(0.0) Florida(0.0) ((0.0) Mr.(0.0) Young(1.0) )(0.0) 
+,(0.0) the(0.0) chairman(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Appropriations(0.0) ,(0.0) is(0.0) an(0.0) honorable(0.0) man(0.0) ,(0.0) and(0.0) certainly(0.0) his(0.0) committee(0.0) has(0.0) completed(0.0) 
+a(0.0) lot(0.0) of(0.0) its(0.0) work(0.0) ,(0.0) he(0.0) has(0.0) been(0.0) prevented(0.0) by(0.0) his(0.0) own(0.0) leadership(0.0) from(0.0) bringing(0.0) his(0.0) work(0.0) product(0.0) to(0.0) 
+the(0.0) floor(0.0) .(0.0) He(0.0) has(0.0) only(0.0) been(0.0) permitted(0.0) to(0.0) bring(0.0) five(0.0) appropriation(0.0) bills(0.0) to(0.0) the(0.0) floor(0.0) .(0.0) Eight(0.0) have(0.0) not(0.0) 
+been(0.0) brought(0.0) to(0.0) the(0.0) floor(0.0) .(0.0) They(0.0) should(0.0) have(0.0) been(0.0) .(0.0) Most(0.0) of(0.0) them(0.0) have(0.0) been(0.0) completed(0.0) by(0.0) the(0.0) gentleman(0.0) 
+'s(0.0) committee(0.0) .(0.0) It(0.0) would(0.0) be(0.0) nice(0.0) if(0.0) they(0.0) were(0.0) brought(0.0) to(0.0) the(0.0) floor(0.0) so(0.0) they(0.0) could(0.0) be(0.0) voted(1.0) on(0.0) 
+one(0.0) at(0.0) a(0.0) time(0.0) and(0.0) resolve(0.0) the(0.0) problems(0.0) that(0.0) face(0.0) this(0.0) country(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) will(0.0) be(0.0) calling(0.0) 
+for(0.0) a(0.0) rollcall(0.0) vote(1.0) on(0.0) this(0.0) rule(1.0) .(0.0) A(0.0) number(0.0) of(0.0) our(0.0) Members(0.0) will(0.0) be(0.0) voting(0.0) ``(0.0) no(0.0) ''(0.0) to(0.0) 
+express(0.0) their(0.0) displeasure(0.0) in(0.0) the(0.0) way(0.0) that(0.0) the(0.0) majority(1.0) has(0.0) been(0.0) handling(0.0) this(0.0) matter(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	
+ballpark	
+prerogative	majority	
+
+Young	
+
+
+
+
+voted	
+country	Speaker	
+vote	rule	
+majority	
+
+reads % = 0.04296875

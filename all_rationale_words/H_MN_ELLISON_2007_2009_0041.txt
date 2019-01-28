@@ -1,0 +1,10 @@
+This is from a Democrat
+----- below is the original text -----
+So(0.0) you(0.0) think(0.0) America(1.0) should(0.0) join(0.0) the(0.0) 36(0.0) other(0.0) countries(1.0) in(0.0) the(0.0) world(0.0) that(0.0) have(0.0) a(0.0) single-payer(1.0) system(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+America	countries	single-payer	
+
+reads % = 0.15789473684210525

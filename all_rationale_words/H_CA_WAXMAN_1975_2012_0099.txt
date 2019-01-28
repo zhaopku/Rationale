@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) this(0.0) bill(1.0) is(0.0) an(0.0) example(0.0) of(0.0) Congress(0.0) functioning(0.0) at(0.0) its(0.0) best(0.0) .(0.0) As(0.0) introduced(0.0) ,(0.0) Congresswoman(1.0) Eshoo(1.0) and(0.0) Congressman(1.0) 
+Lance(1.0) 's(0.0) legislation(1.0) addresses(0.0) a(0.0) policy(0.0) goal(0.0) that(0.0) resonates(0.0) with(0.0) many(0.0) of(0.0) us(0.0) --(0.0) making(0.0) progress(0.0) in(0.0) our(0.0) fight(1.0) against(0.0) 
+pancreatic(1.0) cancer(1.0) .(0.0) In(0.0) fact(0.0) ,(0.0) nearly(0.0) 300(0.0) Members(0.0) of(0.0) the(0.0) House(0.0) --(0.0) Democrats(0.0) and(0.0) Republicans(0.0) alike(1.0) --(1.0) are(1.0) co-sponsors(1.0) 
+of(1.0) this(1.0) legislation(1.0) .(1.0) Through(1.0) the(0.0) Committee(0.0) process(0.0) ,(0.0) Members(0.0) and(0.0) staff(0.0) worked(0.0) on(0.0) a(0.0) bipartisan(1.0) basis(0.0) to(0.0) respond(0.0) to(0.0) 
+input(0.0) from(0.0) the(0.0) National(0.0) Institutes(0.0) of(0.0) Health(0.0) and(0.0) National(0.0) Cancer(0.0) Institute(0.0) ((0.0) NCI(1.0) )(0.0) ,(0.0) pancreatic(0.0) cancer(1.0) advocates(1.0) ,(0.0) and(0.0) 
+cancer(1.0) researchers(0.0) .(0.0) I(0.0) believe(0.0) the(0.0) end(0.0) result(0.0) --(0.0) the(0.0) bill(1.0) before(0.0) us(0.0) today(0.0) --(0.0) represents(0.0) a(0.0) fair(0.0) and(0.0) balanced(0.0) 
+approach(0.0) .(0.0) H.R(0.0) .(0.0) 733(0.0) now(0.0) focuses(0.0) on(0.0) a(0.0) broader(1.0) category(0.0) of(0.0) cancers(1.0) ,(0.0) the(0.0) so-called(1.0) recalcitrant(1.0) or(0.0) deadliest(1.0) cancers(1.0) 
+.(0.0) The(0.0) legislation(1.0) directs(1.0) the(0.0) NCI(0.0) to(0.0) develop(0.0) scientific(0.0) frameworks(0.0) to(0.0) guide(0.0) research(0.0) efforts(1.0) on(0.0) recalcitrant(1.0) cancers(0.0) --(0.0) defined(0.0) as(0.0) 
+those(0.0) cancers(1.0) with(0.0) 5-year(0.0) relative(0.0) survival(0.0) rates(0.0) below(0.0) 50(0.0) percent(0.0) .(0.0) The(0.0) bill(1.0) requires(1.0) the(0.0) Director(0.0) of(0.0) the(0.0) NCI(0.0) to(0.0) 
+complete(0.0) frameworks(0.0) for(0.0) at(0.0) least(0.0) 2(0.0) recalcitrant(0.0) cancers(1.0) that(0.0) meet(0.0) additional(0.0) criteria(0.0) set(0.0) forth(0.0) in(0.0) the(0.0) bill(0.0) --(0.0) having(0.0) a(0.0) 
+5-year(0.0) survival(0.0) rate(0.0) of(0.0) less(0.0) than(0.0) 20(0.0) percent(0.0) and(0.0) causing(0.0) at(0.0) least(0.0) 30,000(0.0) estimated(0.0) deaths(1.0) --(0.0) within(0.0) 18(0.0) months(0.0) of(0.0) 
+enactment(1.0) .(0.0) It(0.0) is(0.0) my(0.0) expectation(0.0) that(0.0) NCI(1.0) will(0.0) begin(0.0) first(0.0) with(0.0) pancreatic(0.0) and(0.0) lung(1.0) cancer(1.0) .(0.0) But(0.0) in(0.0) doing(0.0) 
+so(0.0) ,(0.0) I(0.0) also(0.0) expect(0.0) NCI(1.0) to(0.0) consider(0.0) applying(0.0) the(0.0) scientific(0.0) framework(0.0) model(0.0) to(0.0) other(0.0) recalcitrant(1.0) cancers(0.0) .(0.0) Importantly(0.0) ,(0.0) 
+the(0.0) bill(1.0) ensures(0.0) there(0.0) will(0.0) be(0.0) an(0.0) opportunity(0.0) for(0.0) outside(0.0) experts(0.0) to(0.0) offer(0.0) their(0.0) perspective(0.0) as(0.0) the(0.0) Director(0.0) of(0.0) NCI(1.0) 
+works(0.0) to(0.0) complete(0.0) each(0.0) scientific(0.0) framework(0.0) .(0.0) H.R(0.0) .(0.0) 733(0.0) also(0.0) calls(0.0) on(0.0) NCI(1.0) to(0.0) submit(0.0) each(0.0) completed(0.0) framework(0.0) to(0.0) 
+Congress(0.0) and(0.0) post(0.0) it(0.0) on(0.0) the(0.0) Department(0.0) of(0.0) Health(0.0) and(0.0) Human(0.0) Services(0.0) '(0.0) website(0.0) .(0.0) No(0.0) doubt(0.0) ,(0.0) many(0.0) Members(0.0) 
+like(0.0) myself(0.0) have(0.0) met(0.0) with(0.0) constituents(1.0) and(0.0) heard(0.0) the(0.0) heart-wrenching(0.0) stories(0.0) of(0.0) those(0.0) families(0.0) who(0.0) have(0.0) been(0.0) impacted(0.0) by(0.0) pancreatic(0.0) 
+cancer(1.0) .(0.0) The(0.0) unfortunate(0.0) reality(0.0) is(0.0) that(0.0) we(0.0) rarely(0.0) hear(0.0) from(0.0) survivors(1.0) of(0.0) pancreatic(1.0) cancer(1.0) themselves(0.0) since(0.0) they(0.0) are(0.0) so(0.0) 
+few(0.0) .(0.0) In(0.0) California(1.0) alone(0.0) ,(0.0) nearly(0.0) 4,000(0.0) people(0.0) will(0.0) lose(0.0) their(0.0) lives(0.0) to(0.0) pancreatic(1.0) cancer(1.0) this(0.0) year(0.0) .(0.0) An(0.0) 
+additional(0.0) 12,000(0.0) Californians(1.0) will(0.0) die(0.0) from(0.0) lung(1.0) cancer(1.0) .(0.0) Their(0.0) families(0.0) --(0.0) and(0.0) many(0.0) others(0.0) --(0.0) have(0.0) asked(0.0) for(0.0) our(0.0) 
+support(0.0) in(0.0) improving(1.0) the(0.0) diagnosis(0.0) and(0.0) treatment(0.0) of(0.0) pancreatic(1.0) ,(0.0) lung(1.0) ,(0.0) and(0.0) other(0.0) recalcitrant(1.0) cancers(1.0) .(0.0) There(0.0) 's(0.0) no(0.0) 
+disputing(0.0) that(0.0) great(0.0) progress(0.0) has(0.0) been(0.0) made(0.0) in(0.0) our(0.0) fight(1.0) against(0.0) cancer(1.0) over(0.0) the(0.0) past(0.0) 40(0.0) years(0.0) .(0.0) Consider(0.0) for(0.0) 
+example(0.0) the(0.0) improvement(0.0) we(0.0) 've(0.0) seen(0.0) in(0.0) the(0.0) overall(0.0) five-year(1.0) relative(0.0) survival(0.0) rate(0.0) for(0.0) all(0.0) cancers(1.0) ,(0.0) and(0.0) the(0.0) important(0.0) 
+discoveries(0.0) that(0.0) NCI(1.0) has(0.0) made(0.0) through(0.0) its(0.0) Cancer(1.0) Genome(0.0) Atlas(0.0) program(1.0) in(0.0) understanding(0.0) what(0.0) makes(0.0) one(0.0) cancer(1.0) different(0.0) from(0.0) another(0.0) 
+.(0.0) Nonetheless(0.0) ,(0.0) there(0.0) are(0.0) certain(0.0) cancers(0.0) where(0.0) we(0.0) have(0.0) n't(0.0) seen(0.0) as(0.0) many(0.0) gains(0.0) .(0.0) That(0.0) 's(0.0) precisely(0.0) 
+
+
+----- below are rationale words -----
+
+bill	Congresswoman	Eshoo	Congressman	
+Lance	legislation	fight	
+pancreatic	cancer	alike	--	are	co-sponsors	
+of	this	legislation	.	Through	bipartisan	
+NCI	cancer	advocates	
+cancer	bill	
+broader	cancers	so-called	recalcitrant	deadliest	cancers	
+legislation	directs	efforts	recalcitrant	
+cancers	bill	requires	
+cancers	
+deaths	
+enactment	NCI	lung	cancer	
+NCI	recalcitrant	
+bill	NCI	
+NCI	
+
+constituents	
+cancer	survivors	pancreatic	cancer	
+California	pancreatic	cancer	
+Californians	lung	cancer	
+improving	pancreatic	lung	recalcitrant	cancers	
+fight	cancer	
+five-year	cancers	
+NCI	Cancer	program	cancer	
+
+
+reads % = 0.144

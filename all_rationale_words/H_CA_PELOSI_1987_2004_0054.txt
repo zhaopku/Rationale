@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Tennessee(1.0) for(0.0) yielding(0.0) me(0.0) this(0.0) time(0.0) ,(0.0) and(0.0) I(0.0) commend(0.0) him(0.0) for(0.0) his(0.0) very(0.0) 
+excellent(0.0) work(0.0) on(0.0) fiscal(1.0) soundness(1.0) for(0.0) our(0.0) country(1.0) and(0.0) in(0.0) this(0.0) Congress(0.0) .(0.0) He(0.0) has(0.0) so(0.0) eloquently(0.0) driven(0.0) the(0.0) message(0.0) 
+home(0.0) that(0.0) no(0.0) country(0.0) has(0.0) ever(0.0) been(0.0) strong(0.0) ,(0.0) prosperous(1.0) ,(0.0) and(0.0) bankrupt(1.0) .(0.0) I(0.0) thank(0.0) him(0.0) for(0.0) his(0.0) eloquence(0.0) 
+and(0.0) his(0.0) leadership(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) New(0.0) York(1.0) ((0.0) Mr.(0.0) Rangel(1.0) )(0.0) ,(0.0) our(0.0) distinguished(0.0) ranking(0.0) member(0.0) on(0.0) the(0.0) 
+Committee(0.0) on(0.0) Ways(0.0) and(0.0) Means(0.0) ,(0.0) has(0.0) been(0.0) a(0.0) champion(0.0) for(0.0) middle-income(1.0) families(0.0) in(0.0) America(0.0) and(0.0) understands(0.0) the(0.0) importance(0.0) of(0.0) 
+the(0.0) fiscal(0.0) soundness(0.0) they(0.0) have(0.0) in(0.0) their(0.0) homes(0.0) in(0.0) paying(0.0) their(0.0) mortgages(0.0) ,(0.0) their(0.0) credit(0.0) cards(0.0) ,(0.0) their(0.0) car(0.0) payments(0.0) 
+,(0.0) and(0.0) the(0.0) impact(0.0) of(0.0) a(0.0) huge(0.0) budget(0.0) deficit(1.0) ,(0.0) a(0.0) huge(0.0) national(0.0) debt(0.0) has(0.0) on(0.0) the(0.0) lives(0.0) of(0.0) working(0.0) 
+families(0.0) in(0.0) America(1.0) ,(0.0) and(0.0) I(0.0) commend(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) York(1.0) ((0.0) Mr.(0.0) Rangel(1.0) )(0.0) as(1.0) well(0.0) .(0.0) I(0.0) 
+want(0.0) to(0.0) reserve(0.0) my(0.0) highest(0.0) praise(0.0) for(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) ((0.0) Mr.(0.0) Stenholm(1.0) )(0.0) .(0.0) This(0.0) Congress(0.0) has(0.0) been(0.0) 
+blessed(0.0) for(0.0) many(0.0) years(0.0) by(0.0) his(0.0) distinguished(0.0) service(0.0) in(0.0) the(0.0) House(0.0) of(0.0) Representatives(0.0) .(0.0) He(0.0) has(0.0) been(0.0) a(0.0) champion(0.0) for(0.0) 
+the(0.0) American(0.0) people(0.0) ,(0.0) for(0.0) the(0.0) American(0.0) farmer(0.0) ,(0.0) and(0.0) a(0.0) leader(0.0) for(0.0) fiscal(0.0) soundness(0.0) in(0.0) our(0.0) country(1.0) .(0.0) He(0.0) 
+is(0.0) about(0.0) accountability(1.0) ,(0.0) accountability(1.0) in(0.0) our(0.0) service(0.0) here(0.0) .(0.0) No(0.0) one(0.0) has(0.0) been(0.0) a(0.0) stronger(0.0) or(0.0) more(0.0) eloquent(0.0) voice(0.0) 
+for(0.0) that(0.0) message(0.0) and(0.0) what(0.0) it(0.0) means(0.0) .(0.0) He(0.0) has(0.0) been(0.0) a(0.0) teacher(0.0) to(0.0) the(0.0) Congress(0.0) .(0.0) He(0.0) has(0.0) changed(0.0) 
+the(0.0) thinking(0.0) of(0.0) a(0.0) political(1.0) party(0.0) by(0.0) making(0.0) Democrats(0.0) the(0.0) party(1.0) of(0.0) fiscal(1.0) responsibility(0.0) for(0.0) having(0.0) a(0.0) pay-as-you-go(1.0) policy(0.0) where(0.0) 
+we(0.0) say(0.0) no(0.0) more(0.0) budget(1.0) deficit(1.0) ,(0.0) no(0.0) more(0.0) deficit(1.0) spending(1.0) .(0.0) It(0.0) has(0.0) too(0.0) high(0.0) a(0.0) cost(0.0) in(0.0) the(0.0) 
+personal(0.0) lives(0.0) of(0.0) the(0.0) American(0.0) people(0.0) .(0.0) It(0.0) has(0.0) too(0.0) high(0.0) a(0.0) cost(0.0) to(0.0) fiscal(1.0) soundness(0.0) of(0.0) our(0.0) country(1.0) ,(0.0) 
+and(0.0) as(0.0) others(0.0) have(0.0) indicated(0.0) ,(0.0) there(0.0) are(0.0) countries(0.0) that(0.0) own(0.0) our(0.0) debt(1.0) that(0.0) we(0.0) are(0.0) at(0.0) the(0.0) mercy(1.0) of(0.0) 
+should(0.0) they(0.0) decide(0.0) not(0.0) to(0.0) play(0.0) in(0.0) those(0.0) markets(1.0) at(0.0) any(0.0) given(0.0) time(0.0) .(0.0) So(0.0) this(0.0) place(0.0) will(0.0) simply(0.0) not(0.0) 
+be(0.0) the(0.0) same(0.0) without(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) ((0.0) Mr.(0.0) Stenholm(1.0) )(0.0) ,(0.0) but(0.0) I(0.0) hope(0.0) that(0.0) as(0.0) a(0.0) source(0.0) 
+of(0.0) comfort(0.0) ,(0.0) if(0.0) that(0.0) is(0.0) the(0.0) word(0.0) ,(0.0) to(0.0) him(0.0) as(0.0) he(0.0) goes(0.0) on(0.0) to(0.0) other(0.0) great(0.0) things(0.0) ,(0.0) 
+and(0.0) I(0.0) know(0.0) he(0.0) will(0.0) ,(0.0) that(0.0) he(0.0) has(0.0) made(0.0) a(0.0) tremendous(0.0) difference(0.0) for(0.0) our(0.0) country(1.0) .(0.0) He(0.0) has(0.0) made(0.0) 
+tremendous(0.0) progress(0.0) for(0.0) our(0.0) country(1.0) .(0.0) I(0.0) know(0.0) I(0.0) speak(0.0) for(0.0) every(0.0) person(0.0) here(0.0) when(0.0) I(0.0) say(0.0) it(0.0) has(0.0) been(0.0) 
+an(0.0) honor(0.0) to(0.0) call(0.0) him(0.0) colleague(0.0) .(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) ((0.0) Mr.(0.0) Stenholm(1.0) )(0.0) .(0.0) Mr.(0.0) Speaker(1.0) 
+,(0.0) many(0.0) of(0.0) us(0.0) just(0.0) came(0.0) back(0.0) from(0.0) the(0.0) dedication(0.0) of(0.0) the(0.0) Clinton(1.0) Library(0.0) ,(0.0) where(0.0) obviously(0.0) we(0.0) were(0.0) drenched(0.0) 
+in(0.0) the(0.0) rain(0.0) for(0.0) several(0.0) hours(0.0) .(0.0) But(0.0) it(0.0) was(0.0) well(0.0) worth(0.0) it(0.0) because(0.0) we(0.0) could(0.0) pay(0.0) tribute(0.0) to(0.0) 
+
+
+----- below are rationale words -----
+
+Tennessee	
+fiscal	soundness	country	
+prosperous	bankrupt	
+York	Rangel	
+middle-income	
+
+deficit	
+America	York	Rangel	as	
+Stenholm	
+
+country	
+accountability	accountability	
+
+political	party	fiscal	pay-as-you-go	
+budget	deficit	deficit	spending	
+fiscal	country	
+debt	mercy	
+markets	
+Stenholm	
+
+country	
+country	
+Stenholm	Speaker	
+Clinton	
+
+
+reads % = 0.074

@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) a(0.0) preceding(0.0) speaker(0.0) noted(0.0) the(0.0) supplemental(1.0) bill(0.0) just(0.0) passed(0.0) .(0.0) I(0.0) want(0.0) to(0.0) speak(0.0) about(0.0) an(0.0) aspect(0.0) left(0.0) out(0.0) 
+of(0.0) this(0.0) supplemental(1.0) bill(1.0) because(1.0) of(0.0) the(0.0) actions(1.0) of(0.0) the(0.0) majority(1.0) .(0.0) Any(0.0) assistance(1.0) for(0.0) farmers(1.0) outside(0.0) of(0.0) the(0.0) gulf(1.0) 
+region(0.0) who(0.0) suffered(0.0) disaster(0.0) losses(0.0) in(0.0) the(0.0) 2005(0.0) production(0.0) year(0.0) were(0.0) left(0.0) out(0.0) of(0.0) the(0.0) disaster(1.0) bill(0.0) .(0.0) Supported(0.0) by(0.0) 
+a(0.0) bipartisan(1.0) majority(1.0) in(0.0) the(0.0) Senate(0.0) ,(0.0) left(0.0) out(0.0) on(0.0) a(0.0) party-line(1.0) vote(1.0) in(0.0) the(0.0) House(0.0) .(0.0) Our(0.0) Nation(1.0) 's(0.0) 
+farmers(1.0) have(0.0) provided(0.0) this(0.0) majority(1.0) and(0.0) this(0.0) President(1.0) with(0.0) plenty(0.0) of(0.0) help(0.0) over(0.0) the(0.0) years(0.0) ,(0.0) and(0.0) they(0.0) certainly(0.0) deserve(1.0) 
+better(0.0) than(0.0) to(0.0) have(0.0) the(0.0) President(1.0) of(0.0) the(0.0) United(0.0) States(0.0) issue(0.0) his(0.0) first(0.0) veto(1.0) threat(1.0) on(0.0) a(0.0) disaster(1.0) bill(0.0) that(0.0) 
+helped(0.0) farmers(1.0) when(0.0) natural(0.0) disasters(1.0) took(0.0) their(0.0) crops(1.0) .(0.0) They(0.0) ,(0.0) instead(0.0) ,(0.0) provided(0.0) just(0.0) for(0.0) hurricane(1.0) ,(0.0) farmers(1.0) who(0.0) 
+lost(0.0) during(0.0) the(0.0) hurricane(1.0) .(0.0) Well(0.0) ,(0.0) look(0.0) ,(0.0) maybe(0.0) a(0.0) drought(0.0) does(0.0) not(0.0) have(0.0) a(0.0) name(0.0) ,(0.0) maybe(0.0) a(0.0) 
+flood(0.0) does(0.0) not(0.0) have(0.0) a(0.0) name(0.0) ,(0.0) but(0.0) when(0.0) you(0.0) have(0.0) a(0.0) natural(0.0) disaster(0.0) and(0.0) it(0.0) wipes(0.0) out(0.0) our(0.0) farmers(1.0) 
+,(0.0) they(0.0) deserve(1.0) help(0.0) from(0.0) our(0.0) government(1.0) .(0.0) That(0.0) is(0.0) how(0.0) you(0.0) keep(0.0) family(0.0) farmers(1.0) in(0.0) business(0.0) ,(0.0) and(0.0) it(0.0) 
+is(0.0) a(0.0) darn(0.0) shame(0.0) the(0.0) Republicans(1.0) stopped(1.0) it(1.0) in(1.0) this(1.0) bill(1.0) .(1.0) 
+
+
+----- below are rationale words -----
+
+supplemental	
+supplemental	bill	because	actions	majority	assistance	farmers	gulf	
+disaster	
+bipartisan	majority	party-line	vote	Nation	
+farmers	majority	President	deserve	
+President	veto	threat	disaster	
+farmers	disasters	crops	hurricane	farmers	
+hurricane	
+farmers	
+deserve	government	farmers	
+Republicans	stopped	it	in	this	bill	.	
+
+reads % = 0.18779342723004694

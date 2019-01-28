@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) how(0.0) long(0.0) can(0.0) we(0.0) Americans(1.0) tolerate(0.0) the(0.0) spectacle(1.0) of(0.0) our(0.0) country(1.0) groveling(1.0) at(0.0) the(0.0) feet(0.0) of(0.0) OPEC(1.0) countries(0.0) and(0.0) 
+begging(0.0) them(0.0) to(0.0) produce(0.0) more(0.0) oil(1.0) ,(0.0) pleading(1.0) with(0.0) them(0.0) to(0.0) send(0.0) us(0.0) more(0.0) oil(1.0) ,(0.0) pleading(1.0) with(0.0) them(0.0) to(0.0) 
+reduce(1.0) the(0.0) cost(1.0) of(0.0) gasoline(1.0) at(0.0) the(0.0) pump(1.0) ,(0.0) of(0.0) our(0.0) energy(1.0) costs(1.0) ?(0.0) We(0.0) are(0.0) subservient(1.0) to(0.0) the(0.0) OPEC(1.0) 
+countries(1.0) .(0.0) The(0.0) greatest(0.0) country(1.0) in(0.0) the(0.0) world(0.0) is(0.0) being(0.0) dictated(0.0) to(0.0) in(0.0) its(0.0) practices(1.0) by(0.0) OPEC(1.0) .(0.0) We(0.0) can(0.0) 
+not(0.0) tolerate(0.0) that(0.0) .(0.0) We(0.0) shall(0.0) not(0.0) sustain(0.0) that(0.0) .(0.0) For(0.0) those(0.0) purposes(0.0) ,(0.0) we(0.0) are(0.0) going(0.0) to(0.0) begin(0.0) to(0.0) 
+circulate(0.0) very(0.0) soon(0.0) a(0.0) bill(1.0) which(0.0) will(0.0) create(0.0) a(0.0) blue(0.0) ribbon(0.0) commission(1.0) to(0.0) determine(0.0) how(0.0) within(0.0) 10(0.0) years(0.0) we(0.0) can(0.0) 
+become(0.0) self-sufficient(0.0) in(0.0) energy(1.0) .(0.0) No(0.0) more(0.0) of(0.0) this(0.0) dependence(1.0) on(0.0) foreign(1.0) oil(1.0) .(0.0) We(0.0) can(0.0) do(0.0) it(0.0) ourselves(0.0) and(0.0) 
+we(0.0) must(0.0) .(0.0) We(0.0) must(0.0) explore(0.0) to(0.0) the(0.0) fullest(0.0) extent(0.0) the(0.0) oil(1.0) possibilities(0.0) in(0.0) our(0.0) own(0.0) land(0.0) ,(0.0) in(0.0) Alaska(1.0) 
+,(0.0) and(0.0) wherever(0.0) energy(1.0) can(0.0) be(0.0) produced(0.0) and(0.0) conserved(0.0) .(0.0) We(0.0) must(0.0) give(0.0) offshore(1.0) drilling(1.0) a(0.0) fair(1.0) chance(0.0) with(0.0) due(0.0) 
+diligence(0.0) and(0.0) due(0.0) respect(0.0) to(0.0) the(0.0) environment(0.0) .(0.0) But(0.0) we(0.0) must(0.0) do(0.0) everything(0.0) possible(0.0) so(0.0) that(0.0) we(0.0) do(0.0) not(0.0) have(0.0) 
+to(0.0) be(0.0) enslaved(1.0) by(0.0) OPEC(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Americans	spectacle	country	groveling	OPEC	
+oil	pleading	oil	pleading	
+reduce	cost	gasoline	pump	energy	costs	subservient	OPEC	
+countries	country	practices	OPEC	
+
+bill	commission	
+energy	dependence	foreign	oil	
+oil	Alaska	
+energy	offshore	drilling	fair	
+
+enslaved	OPEC	
+
+reads % = 0.16908212560386474

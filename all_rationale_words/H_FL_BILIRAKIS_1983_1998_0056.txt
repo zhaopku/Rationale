@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) am(0.0) pleased(0.0) that(0.0) the(0.0) House(0.0) is(0.0) considering(0.0) H.R(0.0) .(0.0) 8(0.0) ,(0.0) the(0.0) Border(1.0) Smog(1.0) Reduction(0.0) Act(0.0) ,(0.0) as(0.0) 
+amended(0.0) by(0.0) the(0.0) Senate(0.0) .(0.0) I(0.0) also(0.0) want(0.0) to(0.0) express(0.0) my(0.0) gratitude(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Virginia(1.0) ((0.0) Chairman(0.0) Bliley(1.0) 
+)(0.0) ,(0.0) to(0.0) the(0.0) ranking(0.0) member(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Michigan(1.0) ((0.0) Mr.(0.0) Dingell(1.0) )(0.0) ,(0.0) the(0.0) ranking(0.0) member(0.0) ,(0.0) 
+the(0.0) gentleman(0.0) from(0.0) Ohio(0.0) ((0.0) Mr.(0.0) Sherrod(1.0) Brown(1.0) )(0.0) ,(0.0) and(0.0) our(0.0) staff(0.0) and(0.0) all(0.0) the(0.0) members(0.0) of(0.0) the(0.0) subcommittee(0.0) 
+particularly(0.0) for(0.0) their(0.0) work(0.0) on(0.0) this(0.0) issue(0.0) .(0.0) As(0.0) I(0.0) am(0.0) sure(0.0) our(0.0) friend(0.0) and(0.0) colleague(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) 
+California(0.0) ((0.0) Mr.(0.0) Bilbray(1.0) )(0.0) will(1.0) attest(1.0) ,(0.0) today(0.0) 's(0.0) legislative(0.0) action(0.0) did(0.0) not(0.0) happen(0.0) overnight(0.0) .(0.0) Instead(0.0) ,(0.0) today(0.0) 
+represents(0.0) a(0.0) culmination(0.0) of(0.0) many(0.0) hours(0.0) of(0.0) work(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) ((0.0) Mr.(0.0) Bilbray(1.0) )(0.0) and(1.0) the(0.0) Subcommittee(0.0) 
+on(0.0) Health(0.0) and(0.0) Environment(0.0) to(0.0) review(0.0) this(0.0) legislation(0.0) to(0.0) solicit(0.0) the(0.0) opinion(0.0) of(0.0) Members(0.0) of(0.0) Congress(0.0) ,(0.0) both(0.0) on(0.0) and(0.0) 
+off(0.0) the(0.0) committee(0.0) ,(0.0) and(0.0) to(0.0) work(0.0) with(0.0) the(0.0) administration(0.0) to(0.0) address(0.0) any(0.0) concerns(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) California(0.0) ((0.0) 
+Mr.(0.0) Bilbray(1.0) )(0.0) and(0.0) the(0.0) city(0.0) of(0.0) San(1.0) Diego(0.0) hosted(0.0) a(0.0) hearing(0.0) in(0.0) November(0.0) of(0.0) last(0.0) year(0.0) attended(0.0) by(0.0) 5(0.0) 
+members(0.0) of(0.0) the(0.0) subcommittee(0.0) ,(0.0) wherein(0.0) we(0.0) were(0.0) able(0.0) to(0.0) speak(0.0) with(0.0) environmental(1.0) people(0.0) ,(0.0) with(0.0) the(0.0) general(0.0) public(0.0) ,(0.0) 
+and(0.0) we(0.0) also(0.0) visited(0.0) a(0.0) location(0.0) on(0.0) the(0.0) border(0.0) and(0.0) saw(0.0) firsthand(0.0) the(0.0) problems(0.0) that(0.0) we(0.0) are(0.0) trying(0.0) to(0.0) improve(0.0) 
+and(0.0) to(0.0) correct(0.0) .(0.0) We(0.0) also(0.0) worked(0.0) closely(0.0) with(0.0) our(0.0) colleagues(0.0) in(0.0) the(0.0) other(0.0) body(0.0) to(0.0) ensure(0.0) that(0.0) the(0.0) final(0.0) 
+adjustments(0.0) to(0.0) the(0.0) legislative(0.0) language(0.0) of(0.0) H.R(0.0) .(0.0) 8(0.0) were(0.0) acceptable(0.0) to(0.0) the(0.0) House(0.0) .(0.0) Indeed(0.0) ,(0.0) at(0.0) every(0.0) stage(0.0) 
+of(0.0) the(0.0) process(0.0) of(0.0) considering(0.0) this(0.0) legislation(1.0) ,(0.0) the(0.0) majority(1.0) and(0.0) minority(1.0) closely(0.0) reviewed(0.0) and(0.0) agreed(0.0) upon(0.0) all(0.0) changes(0.0) .(0.0) 
+The(0.0) final(0.0) legislation(0.0) attempts(0.0) to(0.0) address(0.0) air(0.0) quality(0.0) conditions(0.0) in(0.0) an(0.0) evenhanded(1.0) fashion(0.0) .(0.0) Certain(0.0) foreign-registered(0.0) commuter(1.0) vehicles(0.0) not(0.0) meeting(0.0) 
+State(0.0) inspections(0.0) and(0.0) maintenance(0.0) requirements(0.0) will(0.0) be(0.0) denied(1.0) entry(0.0) into(0.0) the(0.0) United(0.0) States(0.0) in(0.0) the(0.0) California-Mexico(1.0) border(0.0) area(0.0) after(0.0) being(0.0) 
+given(0.0) two(0.0) opportunities(0.0) each(0.0) month(0.0) to(0.0) obtain(0.0) proper(0.0) State(0.0) certification(0.0) .(0.0) However(0.0) ,(0.0) public(1.0) notice(0.0) of(0.0) the(0.0) new(0.0) prohibitions(1.0) is(0.0) 
+required(0.0) prior(0.0) to(0.0) the(0.0) implementation(0.0) of(0.0) the(0.0) act(0.0) .(0.0) There(0.0) is(0.0) also(0.0) flexibility(0.0) provided(0.0) to(0.0) design(0.0) an(0.0) alternative(0.0) system(0.0) if(0.0) 
+the(0.0) State(0.0) so(0.0) desires(0.0) and(0.0) the(0.0) President(1.0) approves(0.0) that(0.0) alternative(0.0) system(0.0) .(0.0) Taken(0.0) as(0.0) a(0.0) whole(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) 
+the(0.0) legislation(1.0) seeks(1.0) to(0.0) obtain(0.0) the(0.0) same(0.0) emission(1.0) reductions(1.0) from(0.0) foreign-registered(1.0) vehicles(0.0) as(0.0) are(0.0) obtained(0.0) from(0.0) vehicles(0.0) owned(0.0) and(0.0) operated(0.0) 
+solely(0.0) in(0.0) the(0.0) United(0.0) States(0.0) .(0.0) The(0.0) United(0.0) States(0.0) Environmental(0.0) Protection(0.0) Agency(0.0) considers(0.0) vehicle(0.0) inspection(0.0) and(0.0) maintenance(0.0) programs(0.0) to(0.0) be(0.0) 
+one(0.0) of(0.0) the(0.0) most(0.0) cost-(0.0) effective(0.0) measures(0.0) we(0.0) can(0.0) take(0.0) to(0.0) clear(0.0) the(0.0) air(0.0) .(0.0) Thus(0.0) ,(0.0) H.R(0.0) .(0.0) 8(0.0) 
+allows(0.0) us(0.0) to(0.0) fill(0.0) an(0.0) apparent(0.0) hole(0.0) in(0.0) our(0.0) Clean(1.0) Air(0.0) Act(0.0) enforcement(1.0) network(0.0) .(0.0) The(0.0) bill(1.0) will(0.0) help(0.0) ensure(0.0) 
+that(0.0) air(0.0) quality(0.0) on(0.0) both(0.0) sides(0.0) of(0.0) the(0.0) border(0.0) can(0.0) make(0.0) the(0.0) progress(0.0) necessary(0.0) to(0.0) obtain(0.0) compliance(1.0) with(0.0) the(0.0) 
+
+
+----- below are rationale words -----
+
+Border	Smog	
+Virginia	Bliley	
+Michigan	Dingell	
+Sherrod	Brown	
+
+Bilbray	will	attest	
+Bilbray	and	
+
+
+Bilbray	San	
+environmental	
+
+
+
+legislation	majority	minority	
+evenhanded	commuter	
+denied	California-Mexico	
+public	prohibitions	
+
+President	Speaker	
+legislation	seeks	emission	reductions	foreign-registered	
+
+
+Clean	enforcement	bill	
+compliance	
+
+reads % = 0.072

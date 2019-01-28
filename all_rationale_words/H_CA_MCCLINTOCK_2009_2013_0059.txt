@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) a(0.0) crisis(1.0) is(0.0) not(0.0) a(0.0) good(0.0) time(0.0) for(0.0) inflammatory(0.0) rhetoric(1.0) or(0.0) ad(0.0) hominem(0.0) attacks(0.0) .(0.0) I(0.0) believe(0.0) that(0.0) my(0.0) 
+colleague(0.0) from(0.0) Connecticut(1.0) just(0.0) missed(0.0) the(0.0) mark(0.0) a(0.0) moment(0.0) ago(0.0) when(0.0) he(0.0) threw(0.0) out(0.0) terms(0.0) such(0.0) as(0.0) ``(0.0) dead-enders(0.0) ''(0.0) 
+and(0.0) ``(0.0) extremists(0.0) .(0.0) ''(0.0) I(0.0) will(0.0) simply(0.0) say(0.0) that(0.0) ,(0.0) yesterday(0.0) ,(0.0) the(0.0) President(1.0) missed(0.0) an(0.0) opportunity(0.0) to(0.0) bring(0.0) 
+both(0.0) sides(0.0) together(0.0) .(0.0) That(0.0) responsibility(0.0) now(0.0) rests(0.0) solely(0.0) with(0.0) us(0.0) .(0.0) Nobody(0.0) on(0.0) the(0.0) Republican(1.0) side(1.0) of(1.0) the(1.0) aisle(1.0) 
+wants(1.0) to(1.0) see(1.0) a(1.0) government(1.0) shutdown(1.0) or(1.0) a(1.0) credit(1.0) default(1.0) --(1.0) let(1.0) 's(1.0) make(1.0) that(1.0) clear(1.0) --(1.0) and(1.0) I(1.0) am(0.0) 
+confident(1.0) that(1.0) nobody(1.0) on(1.0) the(1.0) Democratic(1.0) side(1.0) wants(1.0) to(1.0) see(0.0) millions(1.0) of(1.0) Americans(1.0) lose(1.0) the(0.0) health(1.0) plans(1.0) they(1.0) were(0.0) told(0.0) 
+they(0.0) could(0.0) keep(0.0) or(0.0) see(0.0) their(0.0) health(1.0) care(1.0) costs(1.0) skyrocket(1.0) or(0.0) lose(0.0) their(0.0) jobs(0.0) or(0.0) work(0.0) hours(0.0) because(0.0) of(0.0) the(0.0) 
+unintended(1.0) consequences(1.0) of(0.0) ObamaCare(1.0) ,(0.0) but(0.0) these(0.0) events(0.0) that(0.0) nobody(0.0) wants(0.0) to(0.0) see(0.0) are(0.0) now(0.0) unfolding(0.0) .(0.0) They(0.0) will(0.0) do(0.0) 
+great(0.0) damage(0.0) to(0.0) our(0.0) Nation(1.0) that(0.0) nobody(0.0) wants(0.0) to(0.0) see(0.0) happen(0.0) .(0.0) If(0.0) we(0.0) agree(0.0) on(0.0) these(0.0) fundamental(1.0) issues(0.0) ,(0.0) 
+our(0.0) course(0.0) should(0.0) be(0.0) clear(0.0) ,(0.0) and(0.0) it(0.0) is(0.0) only(0.0) blocked(0.0) by(0.0) the(0.0) kind(0.0) of(0.0) partisan(1.0) division(1.0) that(0.0) we(0.0) heard(0.0) 
+yesterday(0.0) from(0.0) the(0.0) White(1.0) House(0.0) and(0.0) a(0.0) few(0.0) moments(0.0) ago(0.0) .(0.0) We(0.0) can(0.0) avert(1.0) these(0.0) calamities(1.0) and(0.0) redeem(0.0) this(0.0) institution(1.0) 
+if(0.0) we(0.0) can(0.0) put(0.0) aside(0.0) the(0.0) name-calling(1.0) for(0.0) a(0.0) few(0.0) days(0.0) and(0.0) get(0.0) down(0.0) to(0.0) business(0.0) .(0.0) The(0.0) good(0.0) news(0.0) 
+is(0.0) we(0.0) have(0.0) a(0.0) process(0.0) of(0.0) government(1.0) that(0.0) has(0.0) evolved(0.0) over(0.0) centuries(0.0) that(0.0) is(0.0) very(0.0) good(0.0) at(0.0) resolving(0.0) differences(0.0) of(0.0) 
+opinion(0.0) between(0.0) the(0.0) two(0.0) Houses(0.0) of(0.0) Congress(0.0) and(0.0) within(0.0) the(0.0) two(0.0) Houses(0.0) of(0.0) Congress(0.0) .(0.0) In(0.0) this(0.0) case(0.0) ,(0.0) there(0.0) 
+should(0.0) n't(0.0) even(0.0) be(0.0) much(0.0) to(0.0) resolve(0.0) .(0.0) All(0.0) of(0.0) us(0.0) want(0.0) to(0.0) see(0.0) the(0.0) government(1.0) stay(0.0) open(0.0) .(0.0) All(0.0) 
+of(0.0) us(0.0) want(0.0) to(0.0) see(0.0) the(0.0) government(1.0) 's(0.0) credit(0.0) preserved(0.0) .(0.0) All(0.0) of(0.0) us(0.0) want(0.0) to(0.0) see(0.0) Americans(1.0) protected(0.0) from(0.0) 
+losing(1.0) health(1.0) plans(1.0) that(0.0) they(0.0) want(0.0) to(0.0) keep(0.0) or(0.0) from(0.0) being(0.0) socked(1.0) with(0.0) crushing(1.0) premium(0.0) increases(1.0) or(0.0) from(0.0) losing(1.0) their(0.0) 
+jobs(1.0) or(0.0) from(0.0) having(0.0) their(0.0) hours(0.0) cut(0.0) back(0.0) .(0.0) If(0.0) we(0.0) 're(0.0) all(0.0) agreed(0.0) on(0.0) these(0.0) objectives(1.0) ,(0.0) is(0.0) n't(0.0) 
+the(0.0) appropriate(0.0) course(0.0) self-evident(1.0) ?(0.0) Senator(0.0) Manchin(1.0) seems(1.0) to(1.0) have(0.0) laid(0.0) it(0.0) out(0.0) very(0.0) clearly(0.0) the(0.0) other(0.0) day(0.0) :(0.0) a(0.0) 
+temporary(0.0) continuing(0.0) resolution(1.0) to(0.0) keep(0.0) the(0.0) government(1.0) open(0.0) ,(0.0) a(0.0) temporary(0.0) increase(0.0) in(0.0) the(0.0) debt(1.0) limit(0.0) while(0.0) we(0.0) complete(0.0) the(0.0) 
+normal(0.0) appropriations(0.0) process(0.0) ,(0.0) and(0.0) a(0.0) temporary(0.0) delay(0.0) in(0.0) ObamaCare(1.0) until(0.0) the(0.0) unintended(1.0) consequences(1.0) of(0.0) its(0.0) mandates(1.0) can(0.0) be(0.0) corrected(0.0) 
+.(0.0) Is(0.0) that(0.0) so(0.0) unreasonable(1.0) ?(0.0) After(0.0) all(0.0) ,(0.0) this(0.0) administration(1.0) has(0.0) already(0.0) exempted(1.0) big(0.0) corporations(1.0) and(0.0) more(0.0) than(0.0) 1,000(0.0) 
+politically(1.0) connected(0.0) groups(1.0) from(0.0) ObamaCare(1.0) mandates(1.0) .(0.0) More(0.0) revealingly(0.0) ,(0.0) the(0.0) administration(1.0) has(0.0) protected(0.0) Members(0.0) of(0.0) Congress(0.0) from(0.0) its(0.0) crushing(1.0) 
+costs(1.0) .(0.0) That(0.0) ought(1.0) to(0.0) be(0.0) the(0.0) ultimate(0.0) wake-up(1.0) call(0.0) .(0.0) If(0.0) Members(0.0) of(0.0) Congress(0.0) ca(0.0) n't(0.0) afford(1.0) to(0.0) meet(0.0) 
+ObamaCare(1.0) 's(0.0) costs(1.0) ,(0.0) how(0.0) do(0.0) we(0.0) expect(0.0) the(0.0) average(0.0) American(0.0) to(0.0) do(0.0) so(0.0) ?(0.0) Why(0.0) not(0.0) give(0.0) everybody(0.0) 
+
+
+----- below are rationale words -----
+
+crisis	rhetoric	
+Connecticut	
+President	
+Republican	side	of	the	aisle	
+wants	to	see	a	government	shutdown	or	a	credit	default	--	let	's	make	that	clear	--	and	I	
+confident	that	nobody	on	the	Democratic	side	wants	to	millions	of	Americans	lose	health	plans	they	
+health	care	costs	skyrocket	
+unintended	consequences	ObamaCare	
+Nation	fundamental	
+partisan	division	
+White	avert	calamities	institution	
+name-calling	
+government	
+
+government	
+government	Americans	
+losing	health	plans	socked	crushing	increases	losing	
+jobs	objectives	
+self-evident	Manchin	seems	to	
+resolution	government	debt	
+ObamaCare	unintended	consequences	mandates	
+unreasonable	administration	exempted	corporations	
+politically	groups	ObamaCare	mandates	administration	crushing	
+costs	ought	wake-up	afford	
+ObamaCare	costs	
+
+reads % = 0.2

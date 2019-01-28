@@ -1,0 +1,38 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) me(0.0) this(0.0) time(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) if(0.0) Americans(1.0) work(0.0) hard(0.0) ,(0.0) they(0.0) 
+deserve(1.0) a(0.0) good(0.0) wage(1.0) .(0.0) If(0.0) they(0.0) get(0.0) sick(1.0) ,(0.0) they(0.0) deserve(1.0) health(1.0) care(1.0) .(0.0) If(0.0) they(0.0) put(0.0) a(0.0) lifetime(0.0) 
+of(0.0) service(0.0) into(0.0) a(0.0) company(0.0) or(0.0) government(1.0) ,(0.0) they(0.0) deserve(1.0) a(0.0) pension(1.0) that(0.0) nobody(0.0) can(0.0) take(0.0) away(0.0) .(0.0) Over(0.0) the(0.0) 
+last(0.0) several(0.0) months(0.0) ,(0.0) we(0.0) have(0.0) witnessed(0.0) despicable(1.0) acts(0.0) of(0.0) corporate(1.0) irresponsibility(1.0) by(0.0) some(0.0) of(0.0) our(0.0) Nation(1.0) 's(0.0) largest(1.0) corporations(1.0) 
+.(0.0) Workers(1.0) and(0.0) investors(1.0) in(0.0) Enron(1.0) and(0.0) DCT(0.0) and(0.0) WorldCom(0.0) and(0.0) others(0.0) ,(0.0) they(0.0) have(0.0) seen(0.0) their(0.0) life(0.0) investments(1.0) ,(0.0) 
+their(0.0) life(0.0) savings(1.0) ,(0.0) disappear(0.0) ,(0.0) their(0.0) pensions(1.0) wiped(0.0) out(0.0) ,(0.0) their(0.0) health(1.0) care(1.0) benefits(1.0) stolen(0.0) ,(0.0) their(0.0) lives(0.0) destroyed(0.0) 
+in(0.0) many(0.0) instances(0.0) .(0.0) Those(0.0) at(0.0) the(0.0) top(0.0) have(0.0) refused(0.0) to(0.0) take(0.0) responsibility(0.0) while(0.0) everybody(0.0) else(0.0) has(0.0) taken(0.0) the(0.0) fall(0.0) 
+.(0.0) We(0.0) are(0.0) here(0.0) today(0.0) to(0.0) send(0.0) a(0.0) message(0.0) loud(0.0) and(0.0) clear(0.0) that(0.0) if(0.0) somebody(0.0) breaks(0.0) the(0.0) security(0.0) laws(1.0) ,(0.0) 
+if(0.0) they(0.0) rob(1.0) hard-working(1.0) people(0.0) of(0.0) their(0.0) pensions(1.0) ,(0.0) they(0.0) will(0.0) go(0.0) to(0.0) jail(1.0) just(0.0) like(0.0) they(0.0) would(0.0) if(0.0) they(0.0) 
+would(0.0) rob(1.0) a(0.0) bank(0.0) .(0.0) We(0.0) are(0.0) standing(0.0) here(0.0) to(0.0) today(0.0) and(0.0) we(0.0) are(0.0) standing(0.0) for(0.0) the(0.0) rights(1.0) of(0.0) working(0.0) 
+people(0.0) to(0.0) know(0.0) that(0.0) their(0.0) wages(1.0) and(0.0) their(0.0) pensions(1.0) and(0.0) their(0.0) benefits(1.0) are(0.0) secure(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) this(0.0) is(0.0) 
+a(0.0) good(0.0) effort(0.0) and(0.0) a(0.0) good(0.0) work(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) York(1.0) ((0.0) Mr.(0.0) LaFalce(1.0) )(0.0) and(0.0) Mr.(0.0) Sarbanes(1.0) 
+and(0.0) others(0.0) in(0.0) this(0.0) body(0.0) .(0.0) I(0.0) commend(0.0) it(0.0) to(0.0) my(0.0) colleagues(0.0) ,(0.0) and(0.0) I(0.0) urge(0.0) them(0.0) to(0.0) vote(1.0) yes(0.0) 
+on(0.0) this(0.0) conference(0.0) report(0.0) .(0.0) Mr.(0.0) LaFALCE(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) 1\1/2\(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) 
+York(1.0) ((0.0) Mr.(0.0) Hinchey(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	Americans	
+deserve	wage	sick	deserve	health	care	
+government	deserve	pension	
+despicable	corporate	irresponsibility	Nation	largest	corporations	
+Workers	investors	Enron	investments	
+savings	pensions	health	care	benefits	
+
+laws	
+rob	hard-working	pensions	jail	
+rob	rights	
+wages	pensions	benefits	Speaker	
+York	LaFalce	Sarbanes	
+vote	
+LaFALCE	Speaker	
+York	Hinchey	
+
+reads % = 0.156794425087108

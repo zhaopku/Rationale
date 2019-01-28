@@ -1,0 +1,18 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) at(0.0) this(0.0) time(0.0) I(0.0) yield(0.0) 5(0.0) minutes(0.0) to(0.0) a(0.0) young(0.0) man(0.0) who(0.0) serves(0.0) as(0.0) coach(0.0) of(0.0) our(0.0) baseball(0.0) team(0.0) 
+,(0.0) but(0.0) perhaps(0.0) even(0.0) better(0.0) than(0.0) that(0.0) ,(0.0) just(0.0) showing(0.0) his(0.0) acumen(0.0) really(0.0) as(0.0) an(0.0) all-American(1.0) ,(0.0) a(0.0) dedicated(0.0) veteran(0.0) 
+of(0.0) the(0.0) first(0.0) gulf(1.0) war(1.0) and(0.0) served(0.0) as(0.0) a(0.0) colonel(0.0) in(0.0) the(0.0) United(0.0) States(0.0) Army(0.0) Reserves(0.0) and(0.0) he(0.0) 's(0.0) the(0.0) 
+ranking(0.0) member(0.0) of(0.0) the(0.0) House(0.0) Veterans(0.0) '(0.0) Affairs(0.0) Committee(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Indiana(1.0) ((0.0) Mr(0.0) .(1.0) Buyer(0.0) )(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+
+all-American	
+gulf	war	
+Indiana	.	
+
+
+reads % = 0.06172839506172839

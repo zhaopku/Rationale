@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+The(0.0) gentleman(0.0) 's(0.0) 60(0.0) seconds(0.0) were(0.0) just(0.0) running(0.0) out(0.0) .(0.0) Let(0.0) me(0.0) say(0.0) this(0.0) ,(0.0) if(0.0) the(0.0) gentleman(0.0) from(0.0) Illinois(1.0) ((0.0) 
+Mr.(0.0) Hyde(1.0) )(0.0) was(1.0) the(0.0) chairman(0.0) of(0.0) that(0.0) committee(0.0) or(0.0) the(0.0) gentleman(0.0) from(0.0) Florida(0.0) ,(0.0) ((0.0) Mr.(0.0) Canady(1.0) )(0.0) or(0.0) 
+the(0.0) gentleman(0.0) from(0.0) Florida(0.0) ((0.0) Mr.(0.0) MCCollum(1.0) )(0.0) ,(0.0) from(0.0) a(0.0) distance(0.0) ,(0.0) it(0.0) sounds(0.0) great(0.0) .(0.0) But(0.0) when(0.0) we(0.0) 
+think(0.0) about(0.0) what(0.0) happened(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Michigan(1.0) ((0.0) Mr.(0.0) Ehlers(1.0) )(0.0) when(1.0) he(0.0) was(0.0) looking(0.0) at(0.0) California(0.0) vote(0.0) 
+fraud(1.0) ,(0.0) he(0.0) and(0.0) the(0.0) gentleman(0.0) from(0.0) Ohio(1.0) ((0.0) Mr.(0.0) Ney(1.0) )(0.0) ,(0.0) the(0.0) cochair(0.0) ,(0.0) leading(0.0) people(0.0) on(0.0) that(0.0) 
+committee(0.0) were(0.0) accused(0.0) of(0.0) racism(1.0) even(0.0) though(0.0) both(0.0) Republicans(0.0) have(1.0) Hispanics(1.0) in(0.0) their(0.0) immediate(0.0) family(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Michigan(1.0) 
+((0.0) Mr.(0.0) Ehlers(1.0) )(0.0) ,(0.0) three(0.0) Hispanic(0.0) grandchildren(0.0) ,(0.0) but(0.0) he(0.0) was(0.0) called(0.0) a(0.0) racist(0.0) by(0.0) many(0.0) ,(0.0) many(0.0) Democrats(0.0) 
+.(0.0) I(0.0) think(0.0) that(0.0) we(0.0) have(0.0) gotten(0.0) into(0.0) this(0.0) habit(0.0) of(0.0) ,(0.0) if(0.0) you(0.0) do(0.0) not(0.0) like(0.0) the(0.0) content(0.0) of(0.0) 
+the(0.0) debate(1.0) ,(0.0) attack(1.0) the(0.0) person(0.0) .(0.0) So(0.0) if(0.0) it(0.0) was(0.0) not(0.0) the(0.0) gentleman(0.0) from(0.0) Indiana(1.0) ((0.0) Mr.(0.0) Burton(1.0) )(0.0) 
+and(0.0) it(0.0) was(0.0) the(0.0) gentleman(0.0) from(0.0) Illinois(0.0) ((0.0) Mr.(0.0) Hyde(1.0) )(0.0) ,(0.0) I(0.0) am(0.0) sure(0.0) we(0.0) would(0.0) all(0.0) start(0.0) talking(0.0) 
+about(0.0) something(0.0) about(0.0) him(0.0) that(0.0) folks(0.0) found(0.0) offensive(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Michigan(1.0) ((0.0) 
+Mr.(0.0) Stupak(1.0) )(0.0) .(0.0) And(0.0) ,(0.0) note(0.0) ,(0.0) I(0.0) came(0.0) in(0.0) at(0.0) 10(0.0) seconds(0.0) left(0.0) to(0.0) go(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Illinois	
+Hyde	was	Canady	
+MCCollum	
+Michigan	Ehlers	when	
+fraud	Ohio	Ney	
+racism	have	Hispanics	Michigan	
+Ehlers	
+
+debate	attack	Indiana	Burton	
+Hyde	
+Speaker	Michigan	
+Stupak	
+
+reads % = 0.100418410041841

@@ -1,0 +1,56 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) strike(1.0) the(0.0) requisite(0.0) number(0.0) of(0.0) words(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) the(0.0) 
+Jackson(1.0) amendment(1.0) to(0.0) restore(1.0) $(0.0) 1.25(0.0) billion(1.0) for(0.0) skill(0.0) training(0.0) programs(1.0) at(0.0) the(0.0) Department(0.0) of(0.0) Labor(1.0) .(0.0) Last(0.0) week(0.0) ,(0.0) 
+I(0.0) joined(0.0) over(0.0) 200(0.0) young(0.0) people(0.0) from(0.0) a(0.0) coalition(1.0) of(0.0) Alternative(1.0) Schools(1.0) Network(0.0) ,(0.0) CCA(0.0) Academy(0.0) ,(0.0) the(0.0) Latino(1.0) Alternative(1.0) 
+School(0.0) ,(0.0) 200(0.0) young(0.0) people(0.0) who(0.0) were(0.0) marching(0.0) and(0.0) protesting(1.0) .(0.0) They(0.0) were(0.0) marching(0.0) and(0.0) protesting(1.0) the(0.0) reductions(1.0) of(0.0) millions(1.0) 
+of(0.0) Federal(1.0) dollars(1.0) allocated(0.0) to(0.0) skilled(0.0) training(0.0) programs(0.0) for(0.0) at-risk(1.0) youth(1.0) .(0.0) I(0.0) ,(0.0) along(0.0) with(0.0) the(0.0) 200(0.0) people(0.0) there(0.0) 
+,(0.0) tossed(0.0) peanuts(0.0) around(0.0) to(0.0) symbolize(0.0) the(0.0) small(0.0) amount(0.0) of(0.0) money(1.0) being(0.0) allocated(0.0) to(0.0) skill(0.0) training(0.0) programs(1.0) and(0.0) the(0.0) Labor-HHS(0.0) 
+appropriations(0.0) bill(0.0) .(0.0) If(0.0) this(0.0) budget(1.0) appropriations(1.0) process(0.0) was(0.0) a(0.0) poker(0.0) game(0.0) ,(0.0) we(0.0) would(0.0) have(0.0) to(0.0) say(0.0) that(0.0) Labor-HHS(1.0) 
+was(0.0) dealt(0.0) a(0.0) weak(0.0) hand(0.0) but(0.0) still(0.0) had(0.0) to(0.0) play(0.0) .(0.0) Therefore(0.0) ,(0.0) I(0.0) believe(0.0) that(0.0) the(0.0) gentleman(0.0) from(0.0) Illinois(1.0) 
+((0.0) Mr.(0.0) Porter(1.0) )(0.0) has(1.0) done(0.0) what(0.0) he(0.0) could(0.0) with(0.0) a(0.0) faulty(0.0) deck(0.0) stacked(0.0) against(0.0) him(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) 
+these(0.0) people(0.0) were(0.0) not(0.0) protesting(1.0) for(0.0) the(0.0) things(0.0) that(0.0) normal(0.0) teenagers(0.0) are(0.0) often(0.0) concerned(0.0) about(0.0) .(0.0) Rather(0.0) ,(0.0) these(0.0) teenagers(1.0) 
+were(0.0) protesting(1.0) for(0.0) the(0.0) opportunity(0.0) to(0.0) learn(0.0) .(0.0) They(0.0) were(0.0) protesting(1.0) for(0.0) the(0.0) opportunity(0.0) to(0.0) become(0.0) well-trained(0.0) workers(1.0) and(0.0) the(0.0) 
+opportunity(0.0) to(0.0) make(0.0) contributions(1.0) to(0.0) this(0.0) Nation(1.0) .(0.0) They(0.0) were(0.0) protesting(1.0) so(0.0) that(0.0) we(0.0) will(0.0) not(0.0) have(0.0) to(0.0) import(0.0) workers(1.0) 
+from(0.0) foreign(1.0) countries(0.0) to(0.0) take(0.0) care(1.0) of(0.0) skilled(0.0) job(0.0) opportunities(0.0) that(0.0) are(0.0) needed(0.0) .(0.0) If(0.0) we(0.0) truly(0.0) want(0.0) to(0.0) improve(0.0) 
+the(0.0) environment(0.0) of(0.0) those(0.0) less(0.0) fortunate(0.0) in(0.0) this(0.0) society(1.0) ,(0.0) what(0.0) we(0.0) really(0.0) need(0.0) to(0.0) do(0.0) is(0.0) provide(0.0) the(0.0) necessary(0.0) 
+funding(1.0) this(0.0) amendment(1.0) calls(0.0) for(0.0) .(0.0) We(0.0) need(0.0) to(0.0) show(0.0) our(0.0) communities(1.0) that(0.0) we(0.0) believe(0.0) that(0.0) education(1.0) and(0.0) job(0.0) training(0.0) 
+are(0.0) essential(0.0) tools(0.0) for(0.0) success(0.0) .(0.0) We(0.0) need(0.0) to(0.0) show(0.0) that(0.0) we(0.0) understand(0.0) what(0.0) it(0.0) means(0.0) to(0.0) a(0.0) community(0.0) when(0.0) 
+the(0.0) businesses(1.0) are(0.0) downsizing(1.0) ,(0.0) privatizing(1.0) ,(0.0) and(0.0) moving(0.0) out(0.0) of(0.0) the(0.0) community(0.0) and(0.0) in(0.0) many(0.0) instances(0.0) out(0.0) of(0.0) the(0.0) 
+country(1.0) ,(0.0) obviously(0.0) displacing(1.0) workers(1.0) and(0.0) increasing(0.0) the(0.0) need(0.0) for(0.0) training(0.0) so(0.0) that(0.0) they(0.0) can(0.0) survive(0.0) and(0.0) participate(0.0) .(0.0) Therefore(0.0) 
+,(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) urge(0.0) a(0.0) vote(1.0) in(0.0) support(0.0) of(0.0) the(0.0) Jackson(1.0) amendment(1.0) .(0.0) If(0.0) we(0.0) had(0.0) an(0.0) adequately(0.0) 
+funded(1.0) skill(0.0) training(0.0) program(1.0) as(0.0) well(0.0) as(0.0) an(0.0) adequately(0.0) funded(1.0) Labor-HHS(1.0) appropriations(1.0) bill(1.0) ,(0.0) we(0.0) could(0.0) truly(0.0) fulfill(0.0) our(0.0) duty(1.0) 
+to(0.0) help(0.0) build(0.0) a(0.0) society(1.0) where(0.0) no(0.0) sick(0.0) person(0.0) would(0.0) go(0.0) unattended(0.0) ,(0.0) no(0.0) hungry(0.0) person(0.0) would(0.0) go(0.0) unfed(0.0) ,(0.0) 
+no(0.0) able-bodied(0.0) person(0.0) would(0.0) go(0.0) without(0.0) adequate(0.0) employment(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) we(0.0) need(0.0) to(0.0) ante(1.0) up(0.0) .(0.0) We(0.0) need(0.0) 
+to(0.0) live(0.0) up(0.0) to(0.0) our(0.0) promise(1.0) ,(0.0) live(0.0) up(0.0) to(0.0) our(0.0) duty(0.0) ,(0.0) live(0.0) up(0.0) to(0.0) our(0.0) responsibility(0.0) and(0.0) vote(1.0) 
+yes(0.0) to(0.0) the(0.0) Jackson(1.0) amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+strike	Chairman	
+Jackson	amendment	restore	billion	programs	Labor	
+coalition	Alternative	Schools	Latino	Alternative	
+protesting	protesting	reductions	millions	
+Federal	dollars	at-risk	youth	
+money	programs	
+budget	appropriations	Labor-HHS	
+Illinois	
+Porter	has	Chairman	
+protesting	teenagers	
+protesting	protesting	workers	
+contributions	Nation	protesting	workers	
+foreign	care	
+society	
+funding	amendment	communities	education	
+
+businesses	downsizing	privatizing	
+country	displacing	workers	
+Chairman	vote	Jackson	amendment	
+funded	program	funded	Labor-HHS	appropriations	bill	duty	
+society	
+employment	Chairman	ante	
+promise	vote	
+Jackson	amendment	
+
+reads % = 0.15203426124197003

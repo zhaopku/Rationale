@@ -1,0 +1,36 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) am(0.0) glad(0.0) to(0.0) be(0.0) down(0.0) here(0.0) ,(0.0) and(0.0) I(0.0) am(0.0) glad(0.0) that(0.0) the(0.0) chairman(0.0) brought(0.0) this(0.0) bill(1.0) up(0.0) 
+.(0.0) I(0.0) can(0.0) tell(0.0) you(0.0) the(0.0) only(0.0) thing(0.0) that(0.0) I(0.0) can(0.0) see(0.0) in(0.0) this(0.0) bill(1.0) is(0.0) ultimate(0.0) accountability(1.0) and(0.0) oversight(1.0) 
+by(0.0) this(0.0) Congress(1.0) ,(0.0) which(0.0) has(0.0) n't(0.0) happened(0.0) in(0.0) the(0.0) last(0.0) two(0.0) emergency(1.0) supplementals(1.0) ,(0.0) those(0.0) that(0.0) I(0.0) voted(1.0) on(0.0) 
+and(0.0) those(0.0) that(0.0) I(0.0) voted(0.0) in(0.0) the(0.0) affirmative(1.0) on(0.0) .(0.0) But(0.0) the(0.0) good(0.0) thing(0.0) about(0.0) this(0.0) bill(1.0) is(0.0) that(0.0) we(0.0) 
+have(0.0) the(0.0) troops(1.0) back(0.0) .(0.0) We(0.0) are(0.0) saying(0.0) that(0.0) they(0.0) have(0.0) to(0.0) be(0.0) prepared(0.0) ,(0.0) just(0.0) like(0.0) the(0.0) Department(0.0) of(0.0) 
+Defense(0.0) says(0.0) that(0.0) they(0.0) have(0.0) to(0.0) be(0.0) when(0.0) they(0.0) go(0.0) off(0.0) to(0.0) war(1.0) .(0.0) This(0.0) is(0.0) actually(0.0) in(0.0) this(0.0) bill(1.0) 
+.(0.0) We(0.0) look(0.0) at(0.0) this(0.0) bill(1.0) dealing(1.0) with(0.0) health(1.0) care(1.0) for(0.0) our(0.0) veterans(1.0) ,(0.0) we(0.0) look(0.0) at(0.0) planning(0.0) ,(0.0) we(0.0) 
+look(0.0) at(0.0) the(0.0) needs(0.0) of(0.0) our(0.0) troops(1.0) .(0.0) Once(0.0) they(0.0) get(0.0) back(0.0) here(0.0) to(0.0) the(0.0) United(0.0) States(0.0) ,(0.0) this(0.0) bill(1.0) 
+covers(1.0) and(0.0) starts(0.0) that(0.0) investment(1.0) that(0.0) we(0.0) have(0.0) to(0.0) make(0.0) to(0.0) make(0.0) sure(0.0) that(0.0) we(0.0) take(0.0) care(1.0) of(0.0) our(0.0) troops(1.0) 
+in(0.0) the(0.0) field(0.0) and(0.0) when(0.0) they(0.0) get(0.0) back(0.0) here(0.0) at(0.0) home(0.0) .(0.0) So(0.0) this(0.0) is(0.0) very(0.0) ,(0.0) very(0.0) important(0.0) ,(0.0) 
+Members(0.0) .(0.0) I(0.0) would(0.0) hate(0.0) for(0.0) my(0.0) Members(0.0) on(0.0) either(0.0) side(0.0) of(0.0) the(0.0) aisle(0.0) to(0.0) be(0.0) on(0.0) the(0.0) other(0.0) side(0.0) 
+of(0.0) this(0.0) bill(1.0) ,(0.0) because(0.0) you(0.0) have(0.0) a(0.0) lot(0.0) of(0.0) explaining(0.0) to(0.0) do(0.0) when(0.0) you(0.0) get(0.0) back(0.0) home(0.0) ,(0.0) the(0.0) 
+reason(0.0) why(0.0) you(0.0) voted(1.0) against(0.0) this(0.0) bill(1.0) .(0.0) You(0.0) can(0.0) call(0.0) Members(0.0) of(0.0) Congress(0.0) ,(0.0) General(0.0) X(0.0) and(0.0) General(0.0) Y(0.0) 
+,(0.0) but(0.0) the(0.0) bottom(0.0) line(0.0) is(0.0) accountability(1.0) is(0.0) in(0.0) this(0.0) bill(1.0) and(0.0) funding(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+bill	
+bill	accountability	oversight	
+Congress	emergency	supplementals	voted	
+affirmative	bill	
+troops	
+war	bill	
+bill	dealing	health	care	veterans	
+troops	bill	
+covers	investment	care	troops	
+
+
+bill	
+voted	bill	
+accountability	bill	funding	
+
+reads % = 0.10909090909090909

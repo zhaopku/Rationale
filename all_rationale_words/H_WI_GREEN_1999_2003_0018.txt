@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) the(0.0) concurrent(1.0) resolution(1.0) before(0.0) us(0.0) expresses(0.0) 
+the(0.0) support(0.0) of(0.0) the(0.0) Congress(0.0) for(0.0) the(0.0) Adriatic(0.0) Charter(0.0) ,(0.0) as(0.0) it(0.0) was(0.0) reported(0.0) favorably(0.0) by(0.0) the(0.0) Committee(0.0) on(0.0) International(0.0) 
+Relations(0.0) on(0.0) June(0.0) 12(0.0) .(0.0) The(0.0) charter(1.0) was(0.0) signed(0.0) on(0.0) May(0.0) 2(0.0) in(0.0) the(0.0) Albanian(0.0) capital(0.0) of(0.0) Tirana(0.0) by(0.0) Secretary(0.0) 
+of(0.0) State(0.0) Powell(0.0) and(0.0) the(0.0) foreign(0.0) ministers(0.0) of(0.0) Albania(0.0) ,(0.0) Croatia(0.0) ,(0.0) and(0.0) the(0.0) former(0.0) Yugoslav(0.0) Republic(0.0) of(0.0) Macedonia(0.0) ,(0.0) 
+the(0.0) three(0.0) remaining(0.0) NATO-aspirant(0.0) nations(0.0) .(0.0) The(0.0) Adriatic(0.0) Charter(0.0) pledges(0.0) the(0.0) United(0.0) States(0.0) to(0.0) support(0.0) efforts(0.0) by(0.0) Albania(0.0) ,(0.0) Croatia(0.0) 
+,(0.0) and(0.0) Macedonia(0.0) to(0.0) join(0.0) Euro-Atlantic(1.0) institutions(0.0) like(0.0) NATO(0.0) and(0.0) the(0.0) European(0.0) Union(0.0) .(0.0) In(0.0) this(0.0) agreement(0.0) ,(0.0) the(0.0) three(0.0) 
+aspirant(0.0) nations(0.0) commit(0.0) themselves(0.0) to(0.0) accelerate(0.0) their(0.0) democratic(1.0) reforms(1.0) ,(0.0) protect(0.0) human(0.0) rights(1.0) ,(0.0) implement(1.0) market-oriented(1.0) economic(1.0) policies(1.0) ,(0.0) and(0.0) 
+enhance(0.0) their(0.0) mutual(1.0) cooperation(0.0) .(0.0) Under(0.0) the(0.0) Adriatic(0.0) Charter(0.0) ,(0.0) the(0.0) United(0.0) States(0.0) and(0.0) these(0.0) three(0.0) countries(1.0) pledge(1.0) to(0.0) consult(0.0) 
+whenever(0.0) the(0.0) security(0.0) of(0.0) one(0.0) of(0.0) them(0.0) is(0.0) threatened(0.0) .(0.0) For(0.0) their(0.0) part(0.0) ,(0.0) the(0.0) aspirant(1.0) countries(0.0) promise(0.0) to(0.0) continue(0.0) 
+defense(1.0) reforms(1.0) and(0.0) to(0.0) undertake(0.0) steps(0.0) to(0.0) enhance(0.0) border(1.0) security(0.0) so(0.0) they(0.0) can(0.0) contribute(0.0) to(0.0) regional(1.0) stability(0.0) .(0.0) Mr.(0.0) Speaker(1.0) 
+,(0.0) this(0.0) Member(1.0) urges(1.0) the(0.0) House(0.0) to(0.0) agree(1.0) to(0.0) this(0.0) concurrent(0.0) resolution(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) 
+of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	concurrent	resolution	
+
+charter	
+
+
+Euro-Atlantic	
+democratic	reforms	rights	implement	market-oriented	economic	policies	
+mutual	countries	pledge	
+aspirant	
+defense	reforms	border	regional	Speaker	
+Member	urges	agree	resolution	Speaker	
+
+
+reads % = 0.11555555555555555

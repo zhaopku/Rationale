@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) wish(1.0) to(0.0) end(0.0) my(0.0) part(0.0) in(0.0) this(0.0) great(0.0) debate(1.0) as(0.0) I(0.0) began(1.0) in(0.0) tribute(1.0) to(0.0) the(0.0) patriotism(1.0) 
+of(0.0) every(0.0) Member(0.0) of(0.0) this(0.0) body(0.0) and(0.0) with(0.0) special(0.0) thanks(0.0) to(0.0) my(0.0) dear(1.0) friend(0.0) and(0.0) distinguished(0.0) counterpart(1.0) on(0.0) the(0.0) Republican(1.0) 
+side(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Illinois(1.0) ((0.0) Mr.(0.0) Hyde(1.0) )(0.0) ,(0.0) a(0.0) combat(1.0) veteran(1.0) of(0.0) World(0.0) War(0.0) II(0.0) .(0.0) Over(0.0) 
+the(0.0) course(0.0) of(0.0) the(0.0) last(1.0) 2(0.0) days(0.0) ,(0.0) my(0.0) colleagues(1.0) have(0.0) expressed(0.0) many(0.0) different(1.0) views(1.0) ,(0.0) but(0.0) all(0.0) have(0.0) affirmed(0.0) 
+their(0.0) commitment(0.0) to(0.0) safeguard(1.0) our(0.0) national(0.0) security(0.0) ,(0.0) to(0.0) pursue(0.0) peace(0.0) and(0.0) to(0.0) wage(1.0) war(1.0) only(0.0) as(0.0) a(0.0) very(0.0) last(0.0) 
+resort(0.0) .(0.0) The(0.0) depth(0.0) and(0.0) dignity(1.0) of(0.0) the(0.0) debate(1.0) is(0.0) worthy(0.0) of(0.0) this(0.0) great(0.0) subject(0.0) and(0.0) of(0.0) our(0.0) great(0.0) democracy(1.0) 
+.(0.0) At(0.0) the(0.0) outset(1.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) wish(1.0) to(0.0) commend(1.0) our(0.0) Democratic(1.0) leader(1.0) ,(0.0) my(0.0) good(0.0) friend(0.0) ,(0.0) 
+the(0.0) gentleman(0.0) from(0.0) Missouri(1.0) ((0.0) Mr.(0.0) Gephardt(1.0) )(0.0) .(0.0) In(0.0) the(0.0) proud(0.0) tradition(0.0) of(0.0) that(0.0) great(0.0) Republican(1.0) Senator(1.0) ,(0.0) Arthur(1.0) 
+Vanderberg(1.0) ,(0.0) half(0.0) a(0.0) century(1.0) ago(1.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Missouri(1.0) ((0.0) Mr.(0.0) Gephardt(1.0) )(0.0) transcends(1.0) parties(0.0) and(0.0) politics(1.0) to(0.0) 
+craft(0.0) and(0.0) champion(1.0) a(0.0) bipartisan(0.0) resolution(0.0) that(0.0) best(0.0) serves(0.0) the(0.0) interest(0.0) of(0.0) our(0.0) Nation(0.0) .(0.0) His(0.0) leadership(1.0) has(0.0) been(0.0) a(0.0) 
+true(1.0) profile(1.0) in(0.0) courage(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) as(0.0) our(0.0) debate(0.0) has(0.0) shown(0.0) ,(0.0) none(0.0) deny(1.0) the(0.0) danger(0.0) posed(1.0) by(0.0) 
+Saddam(1.0) Hussein(1.0) .(0.0) We(0.0) differ(1.0) only(0.0) in(0.0) the(0.0) means(1.0) of(0.0) addressing(1.0) this(0.0) mounting(0.0) threat(0.0) ;(0.0) and(0.0) in(0.0) doing(0.0) so(1.0) ,(0.0) 
+we(0.0) grapple(0.0) with(0.0) two(0.0) paradoxes(1.0) .(0.0) The(0.0) first(0.0) is(0.0) the(0.0) paradox(1.0) of(0.0) peace(0.0) :(0.0) Faced(0.0) with(0.0) an(0.0) implacable(1.0) and(0.0) belligerent(1.0) 
+foe(1.0) ,(0.0) how(1.0) do(0.0) we(0.0) avert(1.0) war(1.0) ?(1.0) The(0.0) answer(0.0) ,(0.0) as(0.0) our(0.0) resolution(0.0) affirms(0.0) ,(0.0) lies(0.0) not(1.0) in(0.0) disavowing(1.0) 
+the(0.0) use(1.0) of(0.0) force(0.0) ,(0.0) but(0.0) in(0.0) authorizing(0.0) it(0.0) .(0.0) It(0.0) is(0.0) only(0.0) when(0.0) the(0.0) Iraqi(1.0) dictator(1.0) is(0.0) certain(1.0) of(0.0) 
+our(0.0) willingness(1.0) to(0.0) wage(1.0) war(1.0) ,(0.0) if(0.0) necessary(0.0) ,(0.0) that(0.0) peace(0.0) becomes(0.0) possible(0.0) .(0.0) Saddam(1.0) ,(0.0) like(0.0) his(0.0) mentor(1.0) ,(0.0) 
+Stalin(1.0) ,(0.0) and(0.0) all(0.0) dictators(1.0) ,(0.0) recoils(1.0) before(0.0) strength(0.0) and(0.0) pounces(1.0) on(0.0) weakness(0.0) .(0.0) The(0.0) second(0.0) paradox(1.0) ,(0.0) Mr.(1.0) Speaker(1.0) 
+,(0.0) is(0.0) the(0.0) paradox(1.0) of(0.0) leadership(1.0) .(0.0) Faced(1.0) with(0.0) skepticism(1.0) from(0.0) some(0.0) friends(0.0) and(0.0) timid(0.0) bystanders(1.0) ,(0.0) how(1.0) do(0.0) we(0.0) 
+form(1.0) the(0.0) broadest(1.0) possible(0.0) coalition(1.0) to(0.0) confront(1.0) Saddam(0.0) ?(1.0) Publicly(1.0) ,(0.0) few(0.0) nations(1.0) have(0.0) responded(1.0) to(0.0) our(0.0) call(0.0) to(0.0) arms(0.0) 
+against(0.0) Iraq(1.0) .(0.0) Privately(1.0) ,(0.0) as(0.0) I(0.0) have(0.0) learned(0.0) in(0.0) innumerable(1.0) meetings(0.0) with(0.0) heads(0.0) of(0.0) state(0.0) ,(0.0) foreign(0.0) ministers(0.0) and(0.0) 
+ambassadors(1.0) from(0.0) the(0.0) Arab(1.0) world(0.0) and(0.0) beyond(0.0) ,(0.0) the(0.0) United(0.0) States(0.0) enjoys(0.0) strong(0.0) support(0.0) .(0.0) Bridging(1.0) the(0.0) divide(1.0) between(0.0) public(0.0) 
+opposition(1.0) and(0.0) private(0.0) support(0.0) requires(0.0) that(0.0) the(0.0) United(0.0) States(0.0) assert(0.0) leadership(1.0) .(0.0) Our(0.0) joint(1.0) resolution(0.0) will(0.0) demonstrate(0.0) to(0.0) the(0.0) world(0.0) 
+our(0.0) steadfast(1.0) resolve(0.0) .(0.0) It(0.0) will(0.0) convince(0.0) others(0.0) that(0.0) joining(1.0) us(0.0) is(0.0) the(0.0) best(0.0) hope(0.0) for(0.0) securing(1.0) peace(0.0) .(0.0) If(1.0) 
+we(0.0) show(0.0) the(0.0) courage(0.0) to(0.0) lead(0.0) ,(0.0) others(0.0) will(0.0) follow(0.0) .(0.0) To(0.0) preserve(0.0) peace(0.0) ,(0.0) we(0.0) must(0.0) authorize(1.0) force(0.0) .(0.0) 
+To(0.0) build(0.0) support(0.0) ,(0.0) we(0.0) must(0.0) be(0.0) prepared(1.0) to(0.0) lead(0.0) .(0.0) Our(0.0) resolution(0.0) resolves(0.0) these(0.0) paradoxes(1.0) and(0.0) represents(1.0) the(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	wish	debate	began	tribute	patriotism	
+dear	counterpart	Republican	
+Illinois	Hyde	combat	veteran	
+last	colleagues	different	views	
+safeguard	wage	war	
+dignity	debate	democracy	
+outset	Speaker	wish	commend	Democratic	leader	
+Missouri	Gephardt	Republican	Senator	Arthur	
+Vanderberg	century	ago	Missouri	Gephardt	transcends	politics	
+champion	leadership	
+true	profile	Speaker	deny	posed	
+Saddam	Hussein	differ	means	addressing	so	
+paradoxes	paradox	implacable	belligerent	
+foe	how	avert	war	?	not	disavowing	
+use	Iraqi	dictator	certain	
+willingness	wage	war	Saddam	mentor	
+Stalin	dictators	recoils	pounces	paradox	Mr.	Speaker	
+paradox	leadership	Faced	skepticism	bystanders	how	
+form	broadest	coalition	confront	?	Publicly	nations	responded	
+Iraq	Privately	innumerable	
+ambassadors	Arab	Bridging	divide	
+opposition	leadership	joint	
+steadfast	joining	securing	If	
+authorize	
+prepared	paradoxes	represents	
+
+reads % = 0.226

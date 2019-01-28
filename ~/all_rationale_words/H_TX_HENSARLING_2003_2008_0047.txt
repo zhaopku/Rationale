@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+Well(0.0) ,(0.0) as(0.0) a(0.0) matter(0.0) of(0.0) fact(1.0) ,(0.0) we(0.0) have(0.0) clearly(1.0) documented(0.0) that(0.0) earlier(0.0) this(0.0) evening(1.0) ,(0.0) and(0.0) it(0.0) 's(0.0) not(0.0) 
+just(0.0) us(0.0) saying(0.0) it(0.0) ,(0.0) The(0.0) New(0.0) York(0.0) Times(1.0) has(0.0) said(1.0) it(0.0) ,(0.0) and(0.0) I(0.0) quote(1.0) again(0.0) ,(0.0) ``(1.0) Representative(1.0) 
+John(1.0) Murtha(1.0) has(0.0) procured(1.0) eye-popping(1.0) chunks(1.0) of(0.0) pork(1.0) for(0.0) contractors(1.0) he(0.0) helped(0.0) put(0.0) in(0.0) business(1.0) in(0.0) Johnstown(1.0) ,(0.0) Pennsylvania(1.0) .(0.0) 
+''(0.0) ``(0.0) Every(0.0) one(0.0) of(0.0) the(0.0) 26(0.0) beneficiaries(0.0) of(0.0) Mr.(0.0) Murtha(1.0) 's(0.0) earmarks(1.0) in(0.0) last(1.0) year(0.0) 's(0.0) defense(1.0) budget(0.0) made(0.0) 
+contributions(1.0) to(0.0) his(0.0) campaign(0.0) kitty(1.0) ,(0.0) a(0.0) total(0.0) of(0.0) $(0.0) 413,250(1.0) ,(0.0) ''(0.0) this(0.0) from(0.0) the(0.0) New(0.0) York(0.0) Times(1.0) .(0.0) 
+If(1.0) the(0.0) gentleman(0.0) will(0.0) allow(0.0) me(0.0) ,(0.0) again(0.0) ,(0.0) under(0.0) this(0.0) Democrat(1.0) majority(1.0) ,(0.0) what(1.0) we(0.0) see(0.0) too(0.0) often(0.0) is(0.0) 
+that(0.0) Members(0.0) of(0.0) Congress(0.0) direct(1.0) earmarks(1.0) to(0.0) special(0.0) interest(0.0) recipients(0.0) .(0.0) They(0.0) turn(0.0) around(0.0) and(0.0) give(0.0) campaign(1.0) donations(1.0) to(0.0) the(0.0) 
+campaign(1.0) ,(0.0) and(0.0) then(0.0) the(0.0) campaign(1.0) helps(0.0) re-elect(1.0) the(0.0) Member(0.0) of(0.0) Congress(0.0) ,(0.0) and(0.0) the(0.0) cycle(1.0) goes(0.0) over(0.0) and(0.0) over(0.0) 
+under(0.0) this(0.0) Democrat(1.0) majority(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+fact	clearly	evening	
+Times	said	quote	``	Representative	
+John	Murtha	procured	eye-popping	chunks	pork	contractors	business	Johnstown	Pennsylvania	
+Murtha	earmarks	last	defense	
+contributions	kitty	413,250	Times	
+If	Democrat	majority	what	
+direct	earmarks	campaign	donations	
+campaign	campaign	re-elect	cycle	
+Democrat	majority	
+
+reads % = 0.24096385542168675

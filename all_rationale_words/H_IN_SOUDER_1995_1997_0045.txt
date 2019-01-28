@@ -1,0 +1,22 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) if(0.0) the(0.0) gentleman(0.0) will(0.0) yield(0.0) further(0.0) ,(0.0) if(0.0) I(0.0) am(0.0) incorrect(0.0) ,(0.0) and(0.0) feel(0.0) free(0.0) to(0.0) correct(0.0) me(0.0) ,(0.0) 
+but(0.0) I(0.0) feel(0.0) that(0.0) is(0.0) probably(0.0) ,(0.0) at(0.0) most(0.0) ,(0.0) if(0.0) any(0.0) ,(0.0) 20(0.0) percent(0.0) of(0.0) the(0.0) additional(0.0) increase(0.0) in(0.0) 
+funds(1.0) ,(0.0) and(0.0) we(0.0) can(0.0) address(0.0) that(0.0) through(0.0) another(0.0) amendment(1.0) .(0.0) Our(0.0) attempt(1.0) is(0.0) not(0.0) to(0.0) get(0.0) at(0.0) the(0.0) compliance(1.0) 
+and(0.0) the(0.0) working(0.0) with(0.0) businesses(1.0) ,(0.0) but(0.0) ,(0.0) rather(0.0) ,(0.0) a(0.0) lot(0.0) of(0.0) the(0.0) horror(0.0) stories(0.0) and(0.0) other(0.0) things(0.0) .(0.0) 
+I(0.0) am(0.0) on(0.0) the(0.0) subcommittee(0.0) on(0.0) oversight(1.0) and(0.0) on(0.0) the(0.0) Committee(0.0) on(0.0) Education(0.0) and(0.0) the(0.0) Workforce(0.0) where(0.0) we(0.0) have(0.0) worked(0.0) 
+with(0.0) these(0.0) issues(0.0) ,(0.0) and(0.0) I(0.0) do(0.0) not(0.0) believe(0.0) that(0.0) Mr.(0.0) Deal(1.0) has(0.0) been(0.0) able(0.0) to(0.0) correct(0.0) all(0.0) the(0.0) problems(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+funds	amendment	attempt	compliance	
+businesses	
+oversight	
+Deal	
+
+
+reads % = 0.05737704918032787

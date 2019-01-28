@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+The(0.0) Acting(0.0) CHAIR(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) Iowa(1.0) is(0.0) recognized(0.0) for(0.0) 5(0.0) minutes(0.0) .(0.0) Madam(0.0) Chair(1.0) ,(0.0) I(0.0) have(0.0) great(0.0) appreciation(0.0) 
+for(0.0) the(0.0) gentleman(0.0) 's(0.0) point(0.0) .(0.0) The(0.0) report(0.0) was(0.0) very(0.0) shocking(0.0) as(0.0) far(0.0) as(0.0) the(0.0) transparency(1.0) and(0.0) how(0.0) some(0.0) of(0.0) 
+these(0.0) grants(1.0) have(0.0) been(0.0) given(0.0) .(0.0) I(0.0) am(0.0) in(0.0) a(0.0) position(0.0) where(0.0) I(0.0) must(0.0) insist(0.0) on(0.0) being(0.0) consistent(0.0) in(0.0) opposing(1.0) 
+all(0.0) legislation(1.0) on(0.0) the(0.0) appropriation(1.0) bill(1.0) .(0.0) Point(0.0) of(0.0) Order(0.0) Madam(0.0) Chair(0.0) ,(0.0) I(0.0) make(0.0) a(0.0) point(0.0) of(0.0) order(0.0) against(0.0) 
+the(0.0) amendment(1.0) because(0.0) it(0.0) proposes(1.0) to(0.0) change(0.0) existing(0.0) law(1.0) and(0.0) constitutes(1.0) legislation(1.0) in(0.0) an(0.0) appropriation(1.0) bill(1.0) and(0.0) ,(0.0) therefore(0.0) ,(0.0) 
+violates(1.0) clause(1.0) 2(0.0) of(0.0) rule(1.0) XXI(0.0) .(0.0) The(0.0) rule(0.0) states(0.0) in(0.0) pertinent(0.0) part(0.0) :(0.0) ``(0.0) An(0.0) amendment(1.0) to(0.0) a(0.0) general(0.0) 
+appropriation(0.0) bill(0.0) shall(0.0) not(0.0) be(0.0) in(0.0) order(0.0) if(0.0) changing(0.0) existing(0.0) law(1.0) .(0.0) ''(0.0) The(0.0) amendment(1.0) imposes(1.0) additional(0.0) duties(0.0) .(0.0) I(0.0) 
+ask(0.0) for(0.0) a(0.0) ruling(1.0) from(0.0) the(0.0) Chair(0.0) .(0.0) The(0.0) Acting(0.0) CHAIR(0.0) .(0.0) Does(0.0) any(0.0) other(0.0) Member(0.0) wish(0.0) to(0.0) be(0.0) heard(0.0) 
+on(0.0) the(0.0) point(0.0) of(0.0) order(0.0) ?(0.0) If(0.0) not(0.0) ,(0.0) the(0.0) Chair(1.0) is(0.0) prepared(0.0) to(0.0) rule(1.0) on(0.0) the(0.0) point(0.0) of(0.0) order(0.0) 
+.(0.0) The(0.0) amendment(1.0) imposes(1.0) new(0.0) duties(0.0) on(0.0) the(0.0) Department(0.0) of(0.0) Transportation(0.0) to(0.0) implement(0.0) a(0.0) Government(0.0) Accountability(0.0) Office(0.0) report(0.0) .(0.0) The(0.0) 
+amendment(1.0) ,(0.0) therefore(0.0) ,(0.0) constitutes(1.0) legislation(1.0) in(0.0) violation(1.0) of(0.0) clause(1.0) 2(0.0) of(0.0) rule(0.0) XXI(0.0) .(0.0) The(0.0) point(0.0) of(0.0) order(0.0) is(0.0) 
+sustained(0.0) ,(0.0) and(0.0) the(0.0) amendment(1.0) is(0.0) not(0.0) in(0.0) order(0.0) .(0.0) Amendment(1.0) Offered(0.0) by(0.0) Ms.(0.0) Titus(1.0) 
+
+
+----- below are rationale words -----
+
+Iowa	Chair	
+transparency	
+grants	opposing	
+legislation	appropriation	bill	
+amendment	proposes	law	constitutes	legislation	appropriation	bill	
+violates	clause	rule	amendment	
+law	amendment	imposes	
+ruling	
+Chair	rule	
+amendment	imposes	
+amendment	constitutes	legislation	violation	clause	
+amendment	Amendment	Titus	
+
+reads % = 0.1483050847457627

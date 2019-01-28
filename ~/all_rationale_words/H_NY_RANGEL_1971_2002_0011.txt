@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) do(0.0) I(1.0) have(0.0) to(0.0) get(0.0) permission(0.0) from(0.0) the(0.0) gentleman(0.0) in(0.0) the(0.0) well(0.0) to(0.0) make(0.0) a(0.0) parliamentary(1.0) inquiry(1.0) of(0.0) the(0.0) 
+Speaker(1.0) ,(0.0) of(0.0) the(0.0) Chair(1.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+I	parliamentary	inquiry	
+Speaker	Chair	
+
+reads % = 0.18518518518518517

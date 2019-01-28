@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+The(0.0) Acting(0.0) CHAIR(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) Washington(1.0) is(0.0) recognized(0.0) for(0.0) 5(0.0) minutes(0.0) .(0.0) I(0.0) will(0.0) begin(0.0) by(0.0) yielding(0.0) 2(0.0) minutes(0.0) 
+to(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) Jersey(1.0) ((0.0) Mr.(0.0) Andrews(1.0) )(0.0) .(0.0) ((0.0) Mr.(0.0) ANDREWS(1.0) asked(0.0) and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) 
+revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) )(0.0) 
+
+
+----- below are rationale words -----
+
+Washington	
+Jersey	Andrews	ANDREWS	
+
+
+reads % = 0.08333333333333333

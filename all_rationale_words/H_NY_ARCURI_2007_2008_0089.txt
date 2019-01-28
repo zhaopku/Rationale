@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) would(0.0) like(0.0) to(0.0) thank(0.0) Chairman(0.0) Oberstar(1.0) ,(0.0) Chairwoman(1.0) Brown(1.0) ,(0.0) and(0.0) Ranking(0.0) Members(0.0) Mica(1.0) and(0.0) Shuster(1.0) for(0.0) 
+their(0.0) bipartisan(1.0) leadership(0.0) on(0.0) the(0.0) Amtrak(1.0) legislation(1.0) we(0.0) will(0.0) consider(0.0) today(0.0) ,(0.0) and(0.0) as(0.0) they(0.0) showed(0.0) yesterday(0.0) in(0.0) the(0.0) Rules(0.0) 
+Committee(0.0) ,(0.0) for(0.0) their(0.0) passionate(0.0) advocacy(1.0) on(0.0) behalf(0.0) of(0.0) this(0.0) great(0.0) bill(1.0) .(0.0) There(0.0) has(0.0) been(0.0) much(0.0) discussion(0.0) about(0.0) the(0.0) 
+condition(0.0) of(0.0) our(0.0) Nation's(0.0) transportation(1.0) system(0.0) and(0.0) the(0.0) growing(0.0) pressures(0.0) it(0.0) faces(0.0) from(0.0) all(0.0) sides(0.0) :(0.0) skyrocketing(1.0) costs(1.0) of(0.0) fuel(1.0) 
+and(0.0) maintenance(0.0) ;(0.0) increased(0.0) congestion(1.0) from(0.0) growing(0.0) demand(1.0) ;(0.0) and(0.0) global(1.0) climate(1.0) change(0.0) .(0.0) H.R(0.0) .(0.0) 6003(0.0) will(0.0) take(0.0) tremendous(0.0) 
+strides(0.0) toward(0.0) addressing(1.0) these(0.0) pressures(1.0) by(0.0) continuing(0.0) our(0.0) commitment(1.0) to(0.0) Amtrak(1.0) and(0.0) passenger(0.0) rail(1.0) service(0.0) .(0.0) Maintenance(0.0) costs(0.0) will(0.0) continue(0.0) 
+to(0.0) hinder(0.0) us(0.0) ,(0.0) but(0.0) expanding(1.0) and(0.0) improving(0.0) passenger(0.0) rail(1.0) service(0.0) has(0.0) the(0.0) potential(0.0) to(0.0) relieve(0.0) congestion(1.0) both(0.0) on(0.0) our(0.0) 
+highways(1.0) and(0.0) in(0.0) the(0.0) skies(0.0) by(0.0) offering(0.0) passengers(0.0) a(0.0) viable(0.0) alternative(0.0) .(0.0) A(0.0) shift(0.0) toward(0.0) rail(1.0) can(0.0) reduce(1.0) the(0.0) harmful(1.0) 
+CO(1.0) <(0.0) INF(1.0) >(0.0) 2(0.0) <(0.0) /INF(0.0) >(0.0) emissions(1.0) generated(0.0) by(0.0) the(0.0) transportation(1.0) system(0.0) .(0.0) For(0.0) too(0.0) long(0.0) Amtrak(1.0) has(0.0) 
+been(0.0) the(0.0) symbol(0.0) of(0.0) partisan(1.0) politics(1.0) in(0.0) Washington(1.0) .(0.0) If(0.0) we(0.0) are(0.0) to(0.0) have(0.0) a(0.0) robust(0.0) and(0.0) successful(0.0) system(0.0) that(0.0) 
+users(0.0) can(0.0) rely(0.0) on(0.0) ,(0.0) then(0.0) we(0.0) must(0.0) make(0.0) a(0.0) bipartisan(1.0) commitment(0.0) to(0.0) supporting(1.0) Amtrak(1.0) .(0.0) We(0.0) can(0.0) not(0.0) waiver(1.0) 
+on(0.0) this(0.0) commitment(1.0) and(0.0) expect(0.0) to(0.0) keep(0.0) pace(0.0) with(0.0) the(0.0) national(1.0) rail(1.0) systems(0.0) of(0.0) other(0.0) developed(0.0) countries(0.0) around(0.0) the(0.0) world(0.0) 
+.(0.0) Partisan(1.0) bickering(1.0) has(0.0) hurt(0.0) Amtrak(1.0) 's(0.0) overall(0.0) state(1.0) of(0.0) repair(1.0) .(0.0) In(0.0) fact(0.0) ,(0.0) the(0.0) Department(0.0) of(0.0) Transportation(0.0) 's(0.0) 
+inspector(0.0) general(0.0) concluded(0.0) that(0.0) ,(0.0) ``(0.0) Despite(0.0) multiple(0.0) efforts(1.0) over(0.0) the(0.0) years(0.0) to(0.0) change(0.0) Amtrak's(0.0) structure(0.0) and(0.0) funding(1.0) ,(0.0) we(0.0) 
+have(0.0) a(0.0) system(0.0) that(0.0) limps(0.0) along(0.0) ,(0.0) is(0.0) never(0.0) in(0.0) a(0.0) state(0.0) of(0.0) good(0.0) repair(0.0) ,(0.0) awash(1.0) in(0.0) debt(1.0) ,(0.0) 
+and(0.0) perpetually(1.0) on(0.0) the(0.0) edge(0.0) of(0.0) collapse(1.0) .(0.0) ''(0.0) That(0.0) must(0.0) change(0.0) .(0.0) Amtrak(1.0) 's(0.0) maintenance(0.0) backlog(0.0) is(0.0) a(0.0) major(0.0) 
+impediment(1.0) to(0.0) its(0.0) success(0.0) .(0.0) In(0.0) recent(0.0) years(0.0) ,(0.0) Amtrak(1.0) 's(0.0) ridership(1.0) has(0.0) grown(0.0) at(0.0) a(0.0) modest(0.0) but(0.0) continuing(0.0) rate(0.0) 
+,(0.0) and(0.0) Amtrak(1.0) 's(0.0) on-time(0.0) performance(0.0) has(0.0) declined(0.0) down(0.0) to(0.0) an(0.0) on-time(0.0) arrival(0.0) rate(0.0) of(0.0) 67.8(1.0) percent(0.0) .(0.0) The(0.0) Department(0.0) 
+of(0.0) Transportation(0.0) 's(0.0) inspector(0.0) general(0.0) has(0.0) stated(0.0) that(0.0) Amtrak(1.0) 's(0.0) continued(0.0) deferral(0.0) of(0.0) maintenance(0.0) increases(0.0) the(0.0) risk(0.0) of(0.0) a(0.0) major(0.0) 
+failure(0.0) on(0.0) its(0.0) system(0.0) .(0.0) Currently(0.0) ,(0.0) Amtrak(1.0) has(0.0) an(0.0) estimated(0.0) $(0.0) 6(0.0) billion(1.0) in(0.0) backlogged(1.0) capital(1.0) maintenance(0.0) needs(0.0) ,(0.0) 
+including(0.0) $(0.0) 4(0.0) billion(1.0) on(0.0) the(0.0) Northeast(1.0) Corridor(0.0) ,(0.0) its(0.0) most(0.0) profitable(0.0) line(0.0) .(0.0) I(0.0) would(0.0) gladly(0.0) take(0.0) the(0.0) train(0.0) 
+home(0.0) to(0.0) my(0.0) Upstate(1.0) New(1.0) York(1.0) district(0.0) ,(0.0) or(0.0) from(0.0) my(0.0) home(0.0) in(0.0) Utica(1.0) to(0.0) New(1.0) York(1.0) City(0.0) ,(0.0) but(0.0) 
+currently(0.0) that(0.0) is(0.0) not(0.0) a(0.0) viable(0.0) option(0.0) because(0.0) of(0.0) the(0.0) minimal(0.0) Amtrak(1.0) service(0.0) .(0.0) And(0.0) even(0.0) when(0.0) there(0.0) is(0.0) service(0.0) 
+available(0.0) ,(0.0) it(0.0) is(0.0) unreliable(0.0) .(0.0) Deferred(1.0) track(0.0) maintenance(0.0) ,(0.0) especially(0.0) in(0.0) Upstate(1.0) New(0.0) York(1.0) ,(0.0) has(0.0) required(0.0) lowering(0.0) the(0.0) 
+speed(0.0) limits(1.0) on(0.0) significant(0.0) portions(0.0) of(0.0) the(0.0) track(0.0) .(0.0) In(0.0) addition(0.0) ,(0.0) competition(0.0) with(0.0) freight(0.0) carriers(0.0) for(0.0) priority(1.0) on(0.0) 
+
+
+----- below are rationale words -----
+
+Oberstar	Chairwoman	Brown	Mica	Shuster	
+bipartisan	Amtrak	legislation	
+advocacy	bill	
+transportation	skyrocketing	costs	fuel	
+congestion	demand	global	climate	
+addressing	pressures	commitment	Amtrak	rail	
+expanding	rail	congestion	
+highways	rail	reduce	harmful	
+CO	INF	emissions	transportation	Amtrak	
+partisan	politics	Washington	
+bipartisan	supporting	Amtrak	waiver	
+commitment	national	rail	
+Partisan	bickering	Amtrak	state	repair	
+efforts	funding	
+awash	debt	
+perpetually	collapse	Amtrak	
+impediment	Amtrak	ridership	
+Amtrak	67.8	
+Amtrak	
+Amtrak	billion	backlogged	capital	
+billion	Northeast	
+Upstate	New	York	Utica	New	York	
+Amtrak	
+Deferred	Upstate	York	
+limits	priority	
+
+reads % = 0.162

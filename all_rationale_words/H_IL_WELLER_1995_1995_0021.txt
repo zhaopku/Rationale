@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+My(0.0) colleague(0.0) from(0.0) Texas(0.0) ,(0.0) I(0.0) would(0.0) like(0.0) to(0.0) just(0.0) confirm(0.0) that(0.0) the(0.0) language(0.0) of(0.0) the(0.0) amendment(1.0) that(0.0) you(0.0) are(0.0) offering(0.0) 
+to(0.0) our(0.0) amendment(1.0) is(0.0) language(0.0) that(0.0) we(0.0) discussed(0.0) and(0.0) that(0.0) was(0.0) agreed(0.0) to(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+amendment	
+amendment	
+
+reads % = 0.05714285714285714

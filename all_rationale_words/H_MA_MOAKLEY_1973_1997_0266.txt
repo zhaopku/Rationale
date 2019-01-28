@@ -1,0 +1,46 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) thank(0.0) my(0.0) colleague(0.0) and(0.0) friend(0.0) ,(0.0) the(0.0) gentlewoman(0.0) from(0.0) Ohio(1.0) [(0.0) Ms.(1.0) Pryce(1.0) ](0.0) ,(0.0) for(0.0) yielding(0.0) me(0.0) the(0.0) customary(0.0) 
+half(0.0) hour(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) this(0.0) rule(1.0) and(0.0) in(0.0) support(0.0) of(0.0) this(0.0) energy(1.0) and(0.0) 
+water(1.0) conference(0.0) report(0.0) .(0.0) I(0.0) also(0.0) would(0.0) like(0.0) to(0.0) congratulate(0.0) my(0.0) colleagues(0.0) ,(0.0) the(0.0) ranking(0.0) member(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) 
+California(0.0) [(0.0) Mr.(0.0) Fazio(1.0) ](0.0) ,(0.0) and(0.0) the(0.0) chairman(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Pennsylvania(1.0) [(0.0) Mr.(0.0) MCDade(1.0) ](0.0) ,(1.0) for(0.0) 
+a(0.0) job(0.0) well(0.0) done(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) Pennsylvania(1.0) [(0.0) Mr.(0.0) MCDade(1.0) ](0.0) ,(1.0) in(0.0) his(0.0) first(0.0) year(0.0) as(0.0) chairman(0.0) 
+,(0.0) has(0.0) worked(0.0) very(0.0) hard(0.0) with(0.0) the(0.0) other(0.0) body(0.0) to(0.0) make(0.0) sure(0.0) that(0.0) House(0.0) Members(0.0) were(0.0) treated(0.0) fairly(0.0) .(0.0) This(0.0) 
+conference(0.0) report(0.0) will(0.0) make(0.0) some(0.0) very(0.0) serious(0.0) improvements(0.0) in(0.0) our(0.0) country(1.0) ,(0.0) especially(0.0) in(0.0) our(0.0) country(1.0) 's(0.0) infrastructure(0.0) ,(0.0) and(0.0) 
+the(0.0) subcommittee(0.0) members(0.0) should(0.0) be(0.0) congratulated(0.0) on(0.0) their(0.0) diligence(0.0) and(0.0) on(0.0) their(0.0) hard(0.0) work(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) this(0.0) rule(1.0) 
+,(0.0) like(0.0) most(0.0) conference(0.0) report(0.0) rules(0.0) ,(0.0) waives(1.0) points(0.0) of(0.0) order(0.0) against(0.0) the(0.0) conference(0.0) report(0.0) and(0.0) provides(0.0) for(0.0) 1(0.0) hour(0.0) 
+of(0.0) debate(0.0) .(0.0) This(0.0) conference(0.0) report(0.0) also(0.0) fully(0.0) funds(0.0) the(0.0) budget(0.0) request(0.0) for(0.0) the(0.0) Energy(0.0) Department(0.0) 's(0.0) arms(0.0) control(0.0) and(0.0) 
+nonproliferation(1.0) programs(0.0) as(0.0) the(0.0) House(0.0) has(0.0) instructed(0.0) them(0.0) to(0.0) do(0.0) .(0.0) It(0.0) restores(0.0) funding(1.0) for(0.0) the(0.0) Energy(0.0) Department(0.0) ,(0.0) which(0.0) 
+means(0.0) that(0.0) they(0.0) can(0.0) continue(0.0) to(0.0) cut(1.0) spending(1.0) through(0.0) normal(0.0) attrition(1.0) instead(0.0) of(0.0) making(0.0) radical(1.0) staff(0.0) cuts(1.0) which(0.0) could(0.0) hurt(0.0) 
+our(0.0) country(1.0) 's(0.0) energy(1.0) program(1.0) .(0.0) The(0.0) Energy(0.0) Department(0.0) ,(0.0) in(0.0) addition(0.0) to(0.0) atomic(0.0) defense(0.0) activities(0.0) ,(0.0) conducts(0.0) basic(0.0) science(0.0) 
+and(0.0) energy(1.0) research(0.0) which(0.0) I(0.0) think(0.0) is(0.0) tremendously(0.0) important(0.0) ,(0.0) especially(0.0) in(0.0) today(0.0) 's(0.0) high-tech(0.0) world(0.0) .(0.0) I(0.0) am(0.0) glad(0.0) 
+that(0.0) the(0.0) committee(0.0) did(0.0) not(0.0) have(0.0) to(0.0) make(0.0) major(0.0) staff(0.0) cuts(1.0) ,(0.0) and(0.0) once(0.0) again(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) 
+congratulate(0.0) my(0.0) ranking(0.0) member(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) [(0.0) Mr.(0.0) Fazio(1.0) ](0.0) ,(0.0) and(0.0) my(0.0) chairman(0.0) ,(0.0) the(0.0) gentleman(0.0) 
+from(0.0) Pennsylvania(1.0) [(0.0) Mr.(0.0) MCDade(1.0) ](0.0) ,(1.0) for(0.0) the(0.0) conference(0.0) committee(0.0) and(0.0) all(0.0) the(0.0) other(0.0) conference(0.0) committee(0.0) members(0.0) for(0.0) their(0.0) 
+hard(0.0) work(0.0) .(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) the(0.0) rule(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) 
+of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Ohio	Ms.	Pryce	
+Speaker	rule	energy	
+water	
+Fazio	Pennsylvania	MCDade	,	
+Pennsylvania	MCDade	,	
+
+country	country	
+Speaker	rule	
+waives	
+
+nonproliferation	funding	
+cut	spending	attrition	radical	cuts	
+country	energy	program	
+energy	
+cuts	Speaker	
+Fazio	
+Pennsylvania	MCDade	,	
+rule	Speaker	
+
+
+reads % = 0.10410958904109589

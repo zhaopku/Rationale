@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) will(0.0) the(0.0) gentleman(0.0) yield(0.0) ?(1.0) Speaker(1.0) ,(0.0) I(0.0) certainly(1.0) appreciate(1.0) the(0.0) gentleman's(1.0) attitude(1.0) ,(0.0) and(0.0) I(0.0) would(1.0) be(0.0) open(0.0) 
+to(0.0) work(0.0) with(0.0) you(1.0) guys(0.0) on(0.0) that(0.0) .(0.0) I(1.0) think(1.0) a(0.0) lot(0.0) of(0.0) people(0.0) on(0.0) our(0.0) side(0.0) of(0.0) the(0.0) aisle(1.0) 
+would(1.0) .(0.0) I(0.0) also(1.0) want(1.0) to(0.0) say(1.0) that(0.0) I(0.0) am(0.0) one(0.0) of(0.0) those(0.0) who(0.0) think(0.0) that(0.0) we(0.0) should(0.0) get(0.0) the(0.0) 
+folks(0.0) back(0.0) working(0.0) .(0.0) Let(1.0) me(0.0) say(1.0) this(0.0) :(1.0) Would(0.0) the(0.0) President(1.0) accept(1.0) that(0.0) coalition(1.0) budget(0.0) ?(1.0) Because(0.0) one(0.0) of(0.0) 
+our(0.0) reluctances(1.0) is(0.0) that(0.0) if(0.0) we(0.0) pass(1.0) that(0.0) ,(0.0) will(0.0) the(0.0) President(1.0) stand(1.0) behind(0.0) it(0.0) ?(1.0) If(1.0) the(0.0) gentleman(0.0) will(0.0) 
+yield(0.0) ,(0.0) I(0.0) want(1.0) you(0.0) to(0.0) know(0.0) that(0.0) I(0.0) believe(1.0) that(0.0) there(0.0) is(0.0) a(0.0) lot(0.0) of(0.0) room(1.0) for(0.0) discussion(0.0) on(0.0) 
+that(0.0) .(0.0) I(0.0) do(0.0) not(1.0) pretend(0.0) to(0.0) represent(1.0) all(0.0) Republicans(1.0) on(0.0) this(0.0) ,(0.0) but(0.0) I(0.0) know(1.0) that(0.0) there(0.0) are(0.0) many(0.0) 
+who(0.0) would(0.0) like(0.0) to(0.0) work(0.0) with(0.0) you(1.0) on(0.0) it(0.0) .(0.0) Again(1.0) ,(0.0) the(0.0) concern(0.0) is(1.0) ,(0.0) could(1.0) we(0.0) do(0.0) it(0.0) 
+as(0.0) a(0.0) veto-proof(1.0) measure(1.0) if(0.0) the(0.0) President(1.0) will(0.0) not(1.0) go(0.0) along(0.0) with(0.0) a(0.0) bipartisan(0.0) budget(0.0) .(0.0) Would(1.0) you(0.0) have(0.0) any(1.0) 
+feel(0.0) for(0.0) that(0.0) ?(1.0) 
+
+
+----- below are rationale words -----
+
+?	Speaker	certainly	appreciate	gentleman's	attitude	would	
+you	I	think	aisle	
+would	also	want	say	
+Let	say	:	President	accept	coalition	?	
+reluctances	pass	President	stand	?	If	
+want	believe	room	
+not	represent	Republicans	know	
+you	Again	is	could	
+veto-proof	measure	President	not	Would	any	
+?	
+
+reads % = 0.24864864864864866

@@ -1,0 +1,10 @@
+This is from a Republican
+----- below is the original text -----
+It(0.0) is(0.0) Monday(0.0) ,(0.0) February(1.0) 13(1.0) ,(0.0) at(0.0) 3(0.0) p.m(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+February	13	p.m	
+
+reads % = 0.2727272727272727

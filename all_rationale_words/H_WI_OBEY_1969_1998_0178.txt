@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) reclaiming(1.0) my(0.0) time(0.0) ,(0.0) I(0.0) would(0.0) simply(0.0) again(0.0) urge(0.0) Members(0.0) to(0.0) make(0.0) the(0.0) situation(0.0) and(0.0) to(0.0) make(0.0) the(0.0) facts(0.0) 
+as(0.0) opposed(0.0) to(0.0) the(0.0) propaganda(1.0) perfectly(0.0) clear(0.0) ,(0.0) that(0.0) we(0.0) vote(1.0) against(0.0) the(0.0) Hefner(1.0) amendment(1.0) .(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) 
+for(0.0) offering(0.0) it(0.0) ,(0.0) and(0.0) I(0.0) thank(0.0) the(0.0) chairman(0.0) of(0.0) the(0.0) subcommittee(0.0) for(0.0) accurately(0.0) stating(0.0) the(0.0) situation(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+reclaiming	
+propaganda	vote	Hefner	amendment	
+
+
+reads % = 0.0847457627118644

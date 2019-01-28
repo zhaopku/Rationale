@@ -1,0 +1,44 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Chairman(0.0) ,(0.0) if(0.0) I(0.0) could(0.0) ask(0.0) again(0.0) which(0.0) section(0.0) of(0.0) the(0.0) bill(0.0) the(0.0) gentleman(0.0) is(0.0) looking(0.0) to(0.0) strike(1.0) .(0.0) Madam(0.0) 
+Chairman(1.0) ,(0.0) I(0.0) do(0.0) not(0.0) know(0.0) if(0.0) the(0.0) Chair(1.0) is(0.0) going(0.0) to(0.0) uphold(1.0) the(0.0) point(0.0) of(0.0) order(0.0) ,(0.0) but(0.0) I(0.0) 
+would(0.0) simply(0.0) point(0.0) out(0.0) that(0.0) I(0.0) think(0.0) it(0.0) is(0.0) a(0.0) very(0.0) important(0.0) provision(1.0) in(0.0) this(0.0) bill(1.0) .(0.0) I(0.0) appreciate(0.0) the(0.0) 
+fact(0.0) that(0.0) the(0.0) chairman(0.0) included(0.0) it(0.0) in(0.0) this(0.0) legislation(1.0) ;(0.0) and(0.0) I(0.0) think(0.0) from(0.0) a(0.0) social(0.0) and(0.0) economic(1.0) standpoint(0.0) ,(0.0) 
+it(0.0) ought(1.0) to(0.0) remain(0.0) in(0.0) the(0.0) legislation(1.0) .(0.0) Section(0.0) 502(0.0) ,(0.0) paragraph(0.0) A(0.0) states(0.0) that(0.0) it(0.0) is(0.0) the(0.0) sense(0.0) of(0.0) 
+the(0.0) Congress(0.0) that(0.0) to(0.0) the(0.0) greatest(0.0) extent(0.0) practical(0.0) ,(0.0) all(0.0) equipment(0.0) and(0.0) products(0.0) purchased(0.0) with(0.0) funds(1.0) made(0.0) available(0.0) in(0.0) this(0.0) 
+act(0.0) should(0.0) be(0.0) American-(0.0) made(0.0) .(0.0) Subsection(0.0) C(0.0) of(0.0) that(0.0) same(0.0) section(0.0) states(0.0) that(0.0) if(0.0) it(0.0) has(0.0) been(0.0) finally(0.0) determined(0.0) 
+by(0.0) a(0.0) court(0.0) or(0.0) Federal(0.0) agency(1.0) that(0.0) any(0.0) person(0.0) intentionally(0.0) affects(0.0) a(0.0) label(0.0) bearing(0.0) ``(0.0) Made(0.0) in(0.0) America(1.0) ''(0.0) in(0.0) 
+description(0.0) or(0.0) any(0.0) in(0.0) description(0.0) with(0.0) the(0.0) same(0.0) meaning(0.0) to(0.0) any(0.0) product(0.0) sold(0.0) or(0.0) shipped(0.0) in(0.0) the(0.0) United(0.0) States(0.0) ,(0.0) 
+that(0.0) is(0.0) not(0.0) made(0.0) in(0.0) the(0.0) United(0.0) States(0.0) ,(0.0) the(0.0) person(0.0) shall(0.0) be(0.0) ineligible(0.0) to(0.0) receive(0.0) any(0.0) contract(0.0) or(0.0) subcontract(0.0) 
+made(0.0) with(0.0) funds(0.0) made(0.0) available(0.0) in(0.0) this(0.0) act(0.0) .(0.0) I(0.0) understand(0.0) the(0.0) gentleman(0.0) 's(0.0) intent(0.0) as(0.0) far(0.0) as(0.0) his(0.0) motion(0.0) 
+to(0.0) strike(1.0) relative(0.0) to(0.0) jurisdictional(1.0) issues(0.0) ,(0.0) but(0.0) I(0.0) do(0.0) believe(0.0) this(0.0) is(0.0) a(0.0) very(0.0) key(0.0) and(0.0) fundamental(1.0) issue(0.0) to(0.0) 
+protect(0.0) American(0.0) workers(1.0) in(0.0) a(0.0) living(0.0) wage(1.0) in(0.0) the(0.0) United(0.0) States(0.0) of(0.0) America(1.0) .(0.0) And(0.0) given(0.0) the(0.0) problems(0.0) we(0.0) have(0.0) 
+in(0.0) this(0.0) country(1.0) as(0.0) far(0.0) as(0.0) outsourcing(0.0) where(0.0) you(0.0) have(0.0) people(0.0) intentionally(0.0) lying(0.0) and(0.0) violating(1.0) the(0.0) law(1.0) so(0.0) the(0.0) United(0.0) 
+States(0.0) of(0.0) America(0.0) ,(0.0) we(0.0) ought(1.0) to(0.0) protect(0.0) American(0.0) workers(1.0) .(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Ohio(1.0) ((0.0) Mr.(0.0) Hobson(1.0) 
+)(0.0) for(1.0) having(0.0) this(0.0) measure(1.0) in(0.0) this(0.0) legislation(1.0) .(0.0) The(0.0) CHAIRMAN(0.0) pro(0.0) tempore(0.0) ((1.0) Mrs.(0.0) Biggert(1.0) )(0.0) .(0.0) Does(0.0) anyone(0.0) 
+else(0.0) wish(0.0) to(0.0) be(0.0) heard(0.0) on(0.0) the(0.0) point(0.0) of(0.0) order(0.0) ?(0.0) The(0.0) gentleman(0.0) from(0.0) Ohio(1.0) ((0.0) Mr.(0.0) Hobson(1.0) )(0.0) is(1.0) 
+recognized(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+strike	
+Chairman	Chair	uphold	
+provision	bill	
+legislation	economic	
+ought	legislation	
+funds	
+
+agency	America	
+
+
+
+strike	jurisdictional	fundamental	
+workers	wage	America	
+country	violating	law	
+ought	workers	Ohio	Hobson	
+for	measure	legislation	(	Biggert	
+Ohio	Hobson	is	
+
+
+reads % = 0.09912536443148688

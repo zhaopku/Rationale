@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) missed(0.0) the(0.0) vote(1.0) on(0.0) rollcall(0.0) No(1.0) .(0.0) 399(0.0) .(0.0) I(0.0) strongly(0.0) support(0.0) the(0.0) Kolbe(1.0) amendment(1.0) ,(0.0) and(0.0) had(0.0) 
+I(0.0) been(0.0) present(0.0) ,(0.0) I(0.0) would(0.0) have(0.0) voted(0.0) ``(0.0) aye(0.0) .(0.0) ''(0.0) 
+
+
+----- below are rationale words -----
+
+vote	No	Kolbe	amendment	
+
+
+reads % = 0.12121212121212122

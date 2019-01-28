@@ -1,0 +1,38 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) later(0.0) this(0.0) week(0.0) the(0.0) Speaker(0.0) is(0.0) going(0.0) to(0.0) ask(0.0) the(0.0) House(0.0) to(0.0) take(0.0) the(0.0) final(0.0) vote(0.0) on(0.0) health(1.0) 
+care(0.0) reform(1.0) ,(0.0) including(0.0) the(0.0) Senate(0.0) health(1.0) care(0.0) bill(0.0) .(0.0) The(0.0) Senate(0.0) bill(0.0) contains(1.0) such(0.0) rarified(0.0) legislative(0.0) compromises(1.0) as(0.0) the(0.0) 
+Cornhusker(1.0) kickback(1.0) ,(0.0) the(0.0) Louisiana(1.0) purchase(0.0) ,(0.0) and(0.0) Gator(0.0) aid(0.0) ,(0.0) and(0.0) for(0.0) the(0.0) first(0.0) time(0.0) ever(0.0) ,(0.0) it(0.0) allows(0.0) 
+for(0.0) Federal(1.0) funding(1.0) for(0.0) abortions(1.0) .(0.0) Nevertheless(0.0) ,(0.0) the(0.0) Speaker(0.0) has(0.0) asked(0.0) us(0.0) to(0.0) vote(1.0) on(0.0) it(0.0) .(0.0) I(0.0) understand(0.0) 
+my(0.0) Democratic(1.0) colleagues(0.0) are(0.0) being(0.0) assured(0.0) that(0.0) the(0.0) Senate(0.0) will(0.0) take(0.0) up(0.0) the(0.0) bill(0.0) of(0.0) fixes(0.0) if(0.0) the(0.0) House(0.0) will(0.0) 
+simply(0.0) just(0.0) pass(0.0) their(0.0) underlying(0.0) reform(1.0) bill(1.0) .(0.0) I(0.0) offer(0.0) a(0.0) word(0.0) of(0.0) caution(0.0) to(0.0) my(0.0) friends(0.0) on(0.0) the(0.0) other(0.0) 
+side(0.0) of(0.0) the(0.0) aisle(0.0) :(0.0) once(0.0) you(0.0) pass(0.0) their(0.0) bill(1.0) ,(0.0) there(0.0) is(0.0) not(0.0) a(0.0) guarantee(0.0) that(0.0) can(0.0) be(0.0) made(0.0) 
+that(0.0) will(0.0) force(0.0) the(0.0) Senate(1.0) Democrats(1.0) to(0.0) take(0.0) up(0.0) your(0.0) fixed(0.0) bill(1.0) and(0.0) pass(0.0) it(0.0) .(0.0) The(0.0) bill(1.0) that(0.0) passed(0.0) 
+out(0.0) of(0.0) the(0.0) Senate(0.0) satisfies(0.0) 59(0.0) sitting(0.0) Senators(0.0) ,(0.0) all(0.0) of(0.0) whom(0.0) voted(0.0) for(0.0) it(0.0) .(0.0) The(0.0) compromise(1.0) that(0.0) will(0.0) 
+pass(0.0) out(0.0) of(0.0) this(0.0) House(0.0) will(0.0) please(0.0) far(0.0) fewer(1.0) .(0.0) Simple(0.0) logic(0.0) tells(0.0) us(0.0) that(0.0) the(0.0) Senate(1.0) Democrats(1.0) do(1.0) not(0.0) 
+have(0.0) a(0.0) real(0.0) and(0.0) abiding(0.0) interest(0.0) in(0.0) bailing(1.0) out(0.0) House(0.0) Democrats(1.0) for(0.0) having(0.0) passed(0.0) the(0.0) Senate(0.0) bill(0.0) .(0.0) Of(0.0) course(0.0) 
+,(0.0) simple(0.0) logic(0.0) has(0.0) never(0.0) really(0.0) been(0.0) a(0.0) part(0.0) of(0.0) this(0.0) debate(1.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) my(0.0) Democratic(1.0) colleagues(0.0) are(0.0) 
+playing(0.0) a(0.0) game(0.0) of(0.0) chicken(0.0) with(0.0) the(0.0) United(0.0) States(0.0) Senate(0.0) .(0.0) In(0.0) the(0.0) end(0.0) ,(0.0) the(0.0) President(1.0) might(0.0) just(0.0) go(0.0) 
+ahead(0.0) and(0.0) sign(0.0) this(0.0) Senate(1.0) bill(1.0) into(0.0) law(1.0) ,(0.0) along(0.0) with(0.0) the(0.0) Cornhusker(1.0) kickback(1.0) ,(0.0) Louisiana(1.0) purchase(0.0) ,(0.0) Gator(0.0) aid(1.0) 
+and(0.0) abortion(1.0) funding(1.0) ,(0.0) and(0.0) every(0.0) other(0.0) twisted(0.0) deal(0.0) jumbled(0.0) into(0.0) this(0.0) mess(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+health	
+reform	health	contains	compromises	
+Cornhusker	kickback	Louisiana	
+Federal	funding	abortions	vote	
+Democratic	
+reform	bill	
+bill	
+Senate	Democrats	bill	bill	
+compromise	
+fewer	Senate	Democrats	do	
+bailing	Democrats	
+debate	Speaker	Democratic	
+President	
+Senate	bill	law	Cornhusker	kickback	Louisiana	aid	
+abortion	funding	mess	
+
+reads % = 0.13898305084745763

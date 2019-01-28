@@ -1,0 +1,40 @@
+This is from a Republican
+----- below is the original text -----
+One(0.0) other(0.0) thing(0.0) that(0.0) Mr.(0.0) Geithner(1.0) recently(1.0) announced(1.0) is(0.0) this(0.0) public-(0.0) private(0.0) partnership(0.0) to(0.0) buy(0.0) the(0.0) toxic(1.0) assets(1.0) ,(0.0) now(0.0) legacy(1.0) 
+assets(0.0) ,(0.0) of(0.0) banks(1.0) ,(0.0) and(0.0) the(0.0) idea(0.0) is(0.0) to(0.0) get(0.0) the(0.0) public(1.0) sector(1.0) and(0.0) the(0.0) private(0.0) sector(0.0) to(0.0) take(0.0) 
+all(0.0) this(0.0) bad(0.0) real(0.0) estate(0.0) off(0.0) the(0.0) books(0.0) of(0.0) financial(1.0) institutions(1.0) so(0.0) that(0.0) we(0.0) can(0.0) get(0.0) a(0.0) bottom(0.0) ,(0.0) so(0.0) 
+that(0.0) we(0.0) can(0.0) get(0.0) a(0.0) market(0.0) ,(0.0) so(0.0) that(0.0) we(0.0) can(0.0) get(0.0) them(0.0) off(0.0) the(0.0) taxpayers(1.0) .(0.0) But(0.0) unfortunately(0.0) ,(0.0) 
+if(0.0) you(0.0) are(0.0) a(0.0) public-private(1.0) kind(0.0) of(0.0) entrepreneur(1.0) who(0.0) might(0.0) want(0.0) to(0.0) put(0.0) together(0.0) a(0.0) deal(0.0) like(0.0) this(0.0) ,(0.0) you(0.0) 
+'re(0.0) saying(0.0) ,(0.0) you(0.0) know(0.0) ,(0.0) do(0.0) I(0.0) really(0.0) want(0.0) to(0.0) do(0.0) this(0.0) when(0.0) the(0.0) government(1.0) is(0.0) going(0.0) to(0.0) come(0.0) 
+back(0.0) and(0.0) change(0.0) my(0.0) compensation(1.0) ?(0.0) I(0.0) think(0.0) most(0.0) people(0.0) would(0.0) say(0.0) ,(0.0) you(0.0) know(0.0) ,(0.0) if(0.0) these(0.0) folks(0.0) actually(0.0) 
+have(0.0) to(0.0) make(0.0) as(0.0) much(0.0) money(1.0) as(0.0) some(0.0) of(0.0) the(0.0) leading(0.0) Democrats(0.0) of(0.0) the(0.0) world(0.0) like(0.0) Barbra(0.0) Streisand(1.0) and(0.0) George(0.0) 
+Soros(1.0) ,(0.0) some(0.0) of(0.0) the(0.0) big(0.0) donors(1.0) in(0.0) your(0.0) area(0.0) ,(0.0) you(0.0) know(0.0) ,(0.0) if(0.0) we(0.0) have(0.0) to(0.0) pay(1.0) them(0.0) 
+but(0.0) they(0.0) can(0.0) do(0.0) the(0.0) job(0.0) right(0.0) ,(0.0) they(0.0) can(0.0) turn(0.0) around(0.0) AIG(1.0) --(0.0) which(0.0) I(0.0) think(0.0) probably(0.0) it(0.0) 's(0.0) 
+too(0.0) late(0.0) for(0.0) that(0.0) --(0.0) maybe(0.0) it(0.0) 's(0.0) worth(0.0) it(0.0) because(0.0) ,(0.0) after(0.0) all(0.0) ,(0.0) we(0.0) are(0.0) paying(1.0) a(0.0) lot(0.0) 
+of(0.0) people(0.0) to(0.0) play(0.0) professional(0.0) sports(0.0) and(0.0) star(0.0) in(0.0) movies(0.0) and(0.0) things(0.0) like(0.0) that(0.0) .(0.0) So(0.0) maybe(0.0) it(0.0) 's(0.0) worth(0.0) 
+it(0.0) to(0.0) pay(1.0) people(0.0) high(0.0) salaries(1.0) to(0.0) turn(0.0) around(0.0) the(0.0) financial(1.0) institutions(1.0) ,(0.0) which(0.0) have(0.0) a(0.0) ripple(0.0) effect(0.0) throughout(0.0) our(0.0) 
+housing(1.0) and(0.0) our(0.0) credit(0.0) system(0.0) and(0.0) our(0.0) banking(1.0) system(0.0) .(0.0) It(0.0) might(0.0) be(0.0) something(0.0) that(0.0) we(0.0) should(0.0) do(0.0) .(0.0) But(0.0) 
+I(0.0) just(0.0) think(0.0) that(0.0) this(0.0) bill(1.0) is(0.0) a(0.0) politically(1.0) motivated(0.0) bill(1.0) and(0.0) not(0.0) a(0.0) sound(0.0) economic(1.0) bill(1.0) in(0.0) the(0.0) current(0.0) 
+situation(0.0) .(0.0) So(0.0) ,(0.0) with(0.0) that(0.0) ,(0.0) I(0.0) certainly(0.0) appreciate(0.0) the(0.0) gentlewoman(0.0) for(0.0) yielding(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Geithner	recently	announced	toxic	assets	legacy	
+banks	public	sector	
+financial	institutions	
+taxpayers	
+public-private	entrepreneur	
+government	
+compensation	
+money	Streisand	
+Soros	donors	pay	
+AIG	
+paying	
+
+pay	salaries	financial	institutions	
+housing	banking	
+bill	politically	bill	economic	bill	
+
+
+reads % = 0.10759493670886076

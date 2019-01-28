@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) pass(0.0) the(0.0) bill(0.0) ((1.0) H.R(1.0) .(0.0) 631(0.0) )(0.0) to(0.0) provide(0.0) for(0.0) acquisition(0.0) 
+of(0.0) subsurface(0.0) mineral(0.0) rights(1.0) to(0.0) land(0.0) owned(0.0) by(0.0) the(0.0) Pascua(1.0) Yaqui(1.0) Tribe(0.0) and(0.0) land(0.0) held(0.0) in(0.0) trust(0.0) for(0.0) the(0.0) Tribe(0.0) 
+,(0.0) and(0.0) for(0.0) other(0.0) purposes(0.0) ,(0.0) as(0.0) amended(0.0) .(0.0) The(0.0) Clerk(0.0) read(0.0) as(0.0) follows(0.0) :(0.0) H.R(0.0) .(0.0) 631(0.0) Be(0.0) it(0.0) 
+enacted(0.0) by(0.0) the(0.0) Senate(0.0) and(0.0) House(0.0) of(0.0) Representatives(0.0) of(0.0) the(0.0) United(0.0) States(0.0) of(0.0) America(0.0) in(0.0) Congress(0.0) assembled(0.0) ,(0.0) SECTION(0.0) 1(0.0) 
+.(0.0) SHORT(0.0) TITLE(0.0) .(0.0) This(0.0) Act(0.0) may(0.0) be(0.0) cited(0.0) as(0.0) the(0.0) ``(0.0) Pascua(0.0) Yaqui(0.0) Mineral(0.0) Rights(0.0) Act(0.0) of(0.0) 2006(0.0) ''(0.0) 
+.(0.0) SEC(0.0) .(0.0) 2(0.0) .(0.0) DEFINITIONS(0.0) .(0.0) In(0.0) this(0.0) Act(0.0) :(0.0) ((0.0) 1(0.0) )(0.0) Secretary.(0.0) --(0.0) The(0.0) term(0.0) ``(0.0) Secretary(0.0) 
+''(0.0) means(0.0) the(0.0) Secretary(0.0) of(0.0) the(0.0) Interior(0.0) .(0.0) ((0.0) 2(0.0) )(0.0) State.(0.0) --(0.0) The(0.0) term(0.0) ``(0.0) State(0.0) ''(0.0) means(0.0) the(0.0) 
+State(0.0) of(0.0) Arizona(0.0) .(0.0) ((0.0) 3(0.0) )(0.0) Tribe.(0.0) --(0.0) The(0.0) term(0.0) ``(0.0) Tribe(0.0) ''(0.0) means(0.0) the(0.0) Pascua(0.0) Yaqui(0.0) Tribe(0.0) .(0.0) 
+SEC(0.0) .(0.0) 3(0.0) .(0.0) ACQUISITION(0.0) OF(0.0) SUBSURFACE(0.0) MINERAL(0.0) INTERESTS(0.0) .(0.0) ((0.0) a(0.0) )(0.0) In(0.0) General.(0.0) --(0.0) Not(0.0) later(0.0) than(0.0) 180(0.0) 
+days(0.0) after(0.0) the(0.0) date(0.0) of(0.0) enactment(0.0) of(0.0) this(0.0) Act(0.0) ,(0.0) the(0.0) Secretary(0.0) ,(0.0) in(0.0) coordination(0.0) with(0.0) the(0.0) Attorney(0.0) General(0.0) of(0.0) 
+the(0.0) United(0.0) States(0.0) and(0.0) with(0.0) the(0.0) consent(0.0) of(0.0) the(0.0) State(0.0) ,(0.0) shall(0.0) acquire(0.0) through(0.0) eminent(0.0) domain(0.0) the(0.0) following(0.0) :(0.0) ((0.0) 
+1(0.0) )(0.0) All(0.0) subsurface(0.0) rights(0.0) ,(0.0) title(0.0) ,(0.0) and(0.0) interests(0.0) ((0.0) including(0.0) subsurface(0.0) mineral(1.0) interests(0.0) )(0.0) held(0.0) by(0.0) the(0.0) State(0.0) 
+in(0.0) the(0.0) following(0.0) tribally-owned(0.0) parcels(0.0) :(0.0) ((0.0) A(0.0) )(0.0) Lot(0.0) 2(0.0) ,(0.0) sec(0.0) .(0.0) 13(0.0) ,(0.0) T.(0.0) 15(0.0) S.(0.0) ,(0.0) 
+R.(0.0) 12(0.0) E.(0.0) ,(0.0) Gila(0.0) and(0.0) Salt(0.0) River(0.0) Meridian(0.0) ,(0.0) Pima(0.0) County(1.0) Arizona(0.0) .(0.0) ((0.0) B(0.0) )(0.0) Lot(0.0) 4(0.0) ,(0.0) 
+W\1/2\SE\1/4\(0.0) ,(0.0) sec(0.0) .(0.0) 13(0.0) ,(0.0) T.(0.0) 15(0.0) S.(0.0) ,(0.0) R.(0.0) 12(0.0) E.(0.0) ,(0.0) Gila(0.0) and(0.0) Salt(0.0) River(0.0) Base(0.0) &(0.0) 
+Meridian(0.0) ,(0.0) Pima(0.0) County(1.0) ,(0.0) Arizona(0.0) .(0.0) ((0.0) C(0.0) )(0.0) NW\1/4\NW\1/4\(0.0) ,(0.0) N\1/2\NE\1/4\NW\1/4\(0.0) ,(0.0) SW\1/4\NE\1/(0.0) 4\NW\1/4\(0.0) ,(0.0) sec(0.0) .(0.0) 24(0.0) 
+,(0.0) T.(0.0) 15(0.0) S.(0.0) ,(0.0) R.(0.0) 12(0.0) E.(0.0) ,(0.0) Gila(0.0) and(0.0) Salt(0.0) River(0.0) Base(0.0) &(0.0) Meridian(0.0) ,(0.0) Pima(0.0) County(1.0) ,(0.0) 
+Arizona(1.0) .(0.0) ((0.0) D(0.0) )(0.0) Lot(0.0) 2(0.0) and(0.0) Lots(0.0) 45(0.0) through(0.0) 76(0.0) ,(0.0) sec(0.0) .(0.0) 19(0.0) ,(0.0) T.(0.0) 15(0.0) S.(0.0) 
+,(0.0) R.(0.0) 13(0.0) E.(0.0) ,(0.0) Gila(0.0) and(0.0) Salt(0.0) River(0.0) Base(0.0) &(0.0) Meridian(0.0) ,(0.0) Pima(0.0) County(1.0) ,(0.0) Arizona(1.0) .(0.0) ((0.0) 2(0.0) 
+)(0.0) All(0.0) subsurface(0.0) rights(0.0) ,(0.0) title(0.0) ,(0.0) and(0.0) interests(0.0) ((0.0) including(0.0) subsurface(0.0) mineral(1.0) interests(0.0) )(0.0) held(0.0) by(0.0) the(0.0) State(0.0) in(0.0) 
+the(0.0) following(0.0) parcels(0.0) held(0.0) in(0.0) trust(0.0) for(0.0) the(0.0) benefit(0.0) of(0.0) Tribe(0.0) :(0.0) ((0.0) A(0.0) )(0.0) Lots(0.0) 1(0.0) through(0.0) 8(0.0) ,(0.0) 
+sec(0.0) .(0.0) 14(0.0) ,(0.0) T.(0.0) 15(0.0) S.(0.0) ,(0.0) R.(0.0) 12(0.0) E.(0.0) ,(0.0) Gila(0.0) and(0.0) Salt(0.0) River(0.0) Base(0.0) &(0.0) Meridian(0.0) ,(0.0) 
+Pima(0.0) County(1.0) ,(0.0) Arizona(0.0) .(0.0) ((0.0) B(0.0) )(0.0) NE\1/4\SE\1/4\(0.0) ,(0.0) E\1/2\NW\1/4\SE\1/4\(0.0) ,(0.0) SW\1/4\NW\1/(0.0) 4\SE\1/4\(0.0) ,(0.0) N\1/2\SE\1/4\SE\1/4\(0.0) ,(0.0) SE\1/4\SE\1/4\SE\1/4\(0.0) ,(0.0) sec(0.0) 
+.(0.0) 14(0.0) ,(0.0) T.(0.0) 15(0.0) S.(0.0) ,(0.0) R.(0.0) 12(0.0) E.(0.0) ,(0.0) Gila(0.0) and(0.0) Salt(0.0) River(0.0) Base(0.0) &(0.0) Meridian(0.0) ,(0.0) Pima(0.0) 
+County(1.0) ,(0.0) Arizona(0.0) .(0.0) ((0.0) b(0.0) )(0.0) Consideration.(0.0) --(0.0) Subject(0.0) to(0.0) subsection(0.0) ((0.0) c(0.0) )(0.0) ,(0.0) as(0.0) consideration(0.0) for(0.0) 
+
+
+----- below are rationale words -----
+
+(	H.R	
+rights	Pascua	Yaqui	
+
+
+
+
+
+
+
+
+
+mineral	
+
+County	
+
+County	
+County	
+Arizona	
+County	Arizona	
+mineral	
+
+
+County	
+
+County	
+
+reads % = 0.03

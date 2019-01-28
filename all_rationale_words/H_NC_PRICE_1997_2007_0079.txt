@@ -1,0 +1,54 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) ,(0.0) and(0.0) rise(0.0) in(0.0) opposition(1.0) to(0.0) the(0.0) amendment(1.0) .(0.0) The(0.0) 
+gentleman(0.0) 's(0.0) amendment(1.0) is(0.0) well-intentioned(1.0) and(0.0) understandable(0.0) ,(0.0) particularly(0.0) given(0.0) the(0.0) part(0.0) of(0.0) the(0.0) country(1.0) that(0.0) he(0.0) represents(0.0) .(0.0) But(0.0) 
+I(0.0) would(0.0) like(0.0) to(0.0) explain(0.0) to(0.0) colleagues(0.0) briefly(0.0) why(0.0) I(0.0) believe(0.0) this(0.0) amendment(1.0) is(0.0) ill-advised(1.0) .(0.0) It(0.0) would(0.0) cut(1.0) $(0.0) 
+125(0.0) million(0.0) from(0.0) the(0.0) Transportation(1.0) Security(0.0) Administration(0.0) in(0.0) order(0.0) to(0.0) fund(1.0) activities(0.0) by(0.0) Customs(0.0) and(0.0) Border(0.0) Protection(0.0) .(0.0) I(0.0) do(0.0) 
+appreciate(0.0) the(0.0) gentleman(0.0) 's(0.0) wish(0.0) to(0.0) further(0.0) strengthen(1.0) the(0.0) frontline(1.0) agency(0.0) for(0.0) our(0.0) borders(1.0) and(0.0) our(0.0) ports(0.0) of(0.0) entry(0.0) .(0.0) 
+The(0.0) fact(0.0) is(0.0) ,(0.0) though(0.0) ,(0.0) I(0.0) believe(0.0) we(0.0) have(0.0) addressed(0.0) his(0.0) concerns(0.0) very(0.0) adequately(0.0) in(0.0) this(0.0) bill(1.0) .(0.0) The(0.0) 
+bill(1.0) fully(0.0) funds(1.0) the(0.0) 3,000(0.0) additional(0.0) Border(1.0) Patrol(0.0) agents(0.0) requested(0.0) by(0.0) the(0.0) administration(1.0) .(0.0) Any(0.0) more(0.0) ,(0.0) I(0.0) believe(0.0) ,(0.0) 
+would(0.0) exceed(0.0) CBP(1.0) capacity(0.0) to(0.0) recruit(0.0) and(0.0) to(0.0) absorb(0.0) .(0.0) The(0.0) bill(1.0) also(0.0) provides(0.0) for(0.0) 250(0.0) additional(0.0) CBP(1.0) officers(0.0) above(0.0) 
+the(0.0) request(0.0) to(0.0) strengthen(0.0) port(0.0) and(0.0) cargo(0.0) inspection(0.0) security(0.0) .(0.0) So(0.0) it(0.0) seems(0.0) that(0.0) putting(0.0) more(0.0) money(1.0) into(0.0) the(0.0) agency(0.0) 
+at(0.0) this(0.0) time(0.0) would(0.0) be(0.0) ,(0.0) at(0.0) best(0.0) ,(0.0) symbolic(0.0) and(0.0) ,(0.0) at(0.0) worst(0.0) ,(0.0) wasteful(1.0) .(0.0) On(0.0) the(0.0) other(0.0) 
+hand(0.0) ,(0.0) let(0.0) 's(0.0) look(0.0) at(0.0) the(0.0) offset(1.0) .(0.0) A(0.0) reduction(0.0) of(0.0) this(0.0) magnitude(1.0) from(0.0) TSA(1.0) 's(0.0) aviation(0.0) security(0.0) program(0.0) 
+could(0.0) ,(0.0) for(0.0) instance(0.0) ,(0.0) slow(0.0) to(0.0) a(0.0) crawl(0.0) plans(0.0) to(0.0) move(0.0) explosive(0.0) detection(0.0) machines(0.0) out(0.0) of(0.0) crowded(0.0) airport(0.0) lobbies(1.0) 
+and(0.0) in(0.0) line(0.0) with(0.0) the(0.0) airport's(0.0) baggage(0.0) conveyer(1.0) systems(1.0) .(0.0) We(0.0) are(0.0) aware(0.0) of(0.0) at(0.0) least(0.0) 60(0.0) airports(1.0) that(0.0) need(0.0) 
+these(0.0) necessary(0.0) improvements(0.0) .(0.0) Without(0.0) them(0.0) ,(0.0) airport(0.0) lobbies(1.0) will(0.0) remain(0.0) congested(1.0) for(0.0) the(0.0) foreseeable(1.0) future(1.0) and(0.0) the(0.0) use(0.0) of(0.0) 
+technology(0.0) underdeveloped(1.0) .(0.0) After(0.0) years(0.0) of(0.0) stalling(1.0) ,(0.0) this(0.0) cut(1.0) could(1.0) delay(1.0) improvements(0.0) that(0.0) are(0.0) finally(0.0) underway(0.0) at(0.0) TSA(1.0) with(0.0) 
+airport(0.0) check(0.0) points(0.0) ,(0.0) such(0.0) as(0.0) installing(0.0) next-generation(0.0) systems(0.0) to(0.0) better(0.0) detect(0.0) explosives(0.0) and(0.0) weapons(0.0) that(0.0) passengers(0.0) might(0.0) carry(0.0) on(0.0) 
+their(0.0) bodies(0.0) or(0.0) in(0.0) their(0.0) checked(0.0) baggage(0.0) .(0.0) A(0.0) reduction(0.0) of(0.0) this(0.0) size(0.0) in(0.0) TSA(1.0) could(0.0) thwart(1.0) efforts(1.0) to(0.0) double(0.0) 
+the(0.0) amount(0.0) of(0.0) air(1.0) cargo(0.0) screened(0.0) for(0.0) explosives(1.0) and(0.0) other(0.0) dangerous(1.0) items(0.0) before(0.0) it(0.0) is(0.0) placed(0.0) on(0.0) passenger(0.0) aircraft(0.0) .(0.0) 
+Explosive(0.0) detection(0.0) equipment(0.0) is(0.0) the(0.0) key(0.0) technology(0.0) we(0.0) use(0.0) to(0.0) screen(0.0) for(0.0) these(0.0) dangerous(1.0) objects(0.0) .(0.0) Finally(0.0) ,(0.0) this(0.0) reduction(1.0) 
+could(0.0) require(0.0) TSA(1.0) to(0.0) lay(0.0) off(0.0) something(0.0) like(0.0) 3,000(0.0) screeners(1.0) .(0.0) For(0.0) the(0.0) past(0.0) 2(0.0) years(0.0) ,(0.0) we(0.0) have(0.0) seen(0.0) 
+record(0.0) air(0.0) travel(0.0) ,(0.0) resulting(0.0) in(0.0) longer(0.0) lines(0.0) at(0.0) many(0.0) airports(0.0) and(0.0) screening(0.0) check(0.0) points(0.0) .(0.0) A(0.0) reduction(0.0) in(0.0) aviation(1.0) 
+screeners(1.0) could(0.0) exacerbate(1.0) this(0.0) problem(0.0) .(0.0) So(0.0) we(0.0) reluctantly(0.0) ,(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) oppose(1.0) this(0.0) amendment(1.0) for(0.0) these(0.0) reasons(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+opposition	amendment	
+amendment	well-intentioned	country	
+amendment	ill-advised	cut	
+Transportation	fund	
+strengthen	frontline	borders	
+bill	
+bill	funds	Border	administration	
+CBP	bill	CBP	
+money	
+wasteful	
+offset	magnitude	TSA	
+lobbies	
+conveyer	systems	airports	
+lobbies	congested	foreseeable	future	
+underdeveloped	stalling	cut	could	delay	TSA	
+
+TSA	thwart	efforts	
+air	explosives	dangerous	
+dangerous	reduction	
+TSA	screeners	
+aviation	
+screeners	exacerbate	Chairman	oppose	amendment	
+
+
+reads % = 0.12698412698412698

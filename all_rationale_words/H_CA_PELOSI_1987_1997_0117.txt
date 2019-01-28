@@ -1,0 +1,20 @@
+This is from a Democrat
+----- below is the original text -----
+However(0.0) ,(0.0) he(0.0) may(0.0) not(0.0) be(0.0) happy(0.0) when(0.0) he(0.0) hears(0.0) what(0.0) I(0.0) say(0.0) .(0.0) The(0.0) distinguished(0.0) chief(0.0) deputy(0.0) majority(1.0) whip(0.0) knows(0.0) 
+the(0.0) high(0.0) esteem(0.0) in(0.0) which(0.0) I(0.0) hold(0.0) him(0.0) ,(0.0) so(0.0) I(0.0) very(0.0) regretfully(0.0) oppose(1.0) the(0.0) provision(1.0) for(0.0) an(0.0) additional(0.0) $(0.0) 
+50(0.0) million(0.0) for(0.0) the(0.0) Blackhawk(0.0) helicopters(0.0) .(0.0) Despite(0.0) the(0.0) chairman(0.0) 's(0.0) remarks(0.0) ,(0.0) I(0.0) would(0.0) not(0.0) be(0.0) supportive(0.0) of(0.0) that(0.0) 
+in(0.0) conference(0.0) .(0.0) I(0.0) very(0.0) strongly(0.0) opposed(1.0) the(0.0) rule(1.0) that(0.0) left(0.0) the(0.0) language(0.0) on(0.0) human(0.0) rights(1.0) unprotected(1.0) with(0.0) respect(0.0) to(0.0) 
+narcotics-related(1.0) assistance(0.0) ,(0.0) and(0.0) have(0.0) serious(0.0) concerns(0.0) about(0.0) that(0.0) entire(0.0) issue(0.0) ,(0.0) and(0.0) regretfully(0.0) oppose(1.0) the(0.0) $(0.0) 50(0.0) million(0.0) for(0.0) 
+the(0.0) Blackhawks(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+majority	
+oppose	provision	
+
+opposed	rule	rights	unprotected	
+narcotics-related	oppose	
+
+
+reads % = 0.08653846153846154

@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) thank(0.0) the(0.0) gentlewoman(0.0) for(0.0) yielding(0.0) to(0.0) me(0.0) ,(0.0) and(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) reluctant(0.0) opposition(1.0) to(0.0) the(0.0) rules(1.0) on(0.0) both(0.0) 
+housing(1.0) bills(0.0) that(0.0) are(0.0) before(0.0) us(0.0) because(0.0) they(0.0) are(0.0) not(0.0) coming(0.0) up(0.0) before(0.0) us(0.0) in(0.0) regular(0.0) order(0.0) .(0.0) Neither(0.0) one(0.0) 
+is(0.0) an(0.0) open(0.0) rule(1.0) on(0.0) such(0.0) an(0.0) important(0.0) subject(0.0) .(0.0) I(0.0) truly(0.0) want(0.0) to(0.0) thank(0.0) Chairman(0.0) Frank(1.0) and(0.0) Congresswoman(1.0) Waters(1.0) 
+for(0.0) their(0.0) efforts(1.0) to(0.0) improve(0.0) these(0.0) bills(0.0) as(0.0) they(0.0) move(0.0) forward(0.0) .(0.0) But(0.0) on(0.0) a(0.0) matter(0.0) so(0.0) serious(0.0) ,(0.0) the(0.0) 
+membership(0.0) should(0.0) be(0.0) afforded(1.0) the(0.0) respect(0.0) our(0.0) offices(0.0) bestow(0.0) to(0.0) represent(0.0) their(0.0) people(0.0) and(0.0) be(0.0) allowed(0.0) to(0.0) amend(1.0) and(0.0) be(0.0) 
+heard(0.0) in(0.0) this(0.0) body(0.0) .(0.0) Every(0.0) day(0.0) ,(0.0) between(0.0) 7,000(0.0) and(0.0) 8,000(0.0) American(0.0) households(1.0) lose(1.0) their(0.0) homes(0.0) to(0.0) foreclosure(1.0) .(0.0) 
+Meanwhile(0.0) ,(0.0) the(0.0) banks(1.0) responsible(0.0) are(0.0) being(0.0) rescued(0.0) by(0.0) the(0.0) Federal(1.0) Reserve(0.0) ,(0.0) an(0.0) instrument(0.0) of(0.0) our(0.0) government(1.0) .(0.0) Today(0.0) 
+,(0.0) the(0.0) major(0.0) bills(0.0) before(0.0) us(0.0) to(0.0) assist(0.0) with(0.0) foreclosures(1.0) will(0.0) unleash(0.0) the(0.0) power(0.0) of(0.0) the(0.0) taxpayer-insured(0.0) Federal(1.0) Housing(1.0) Administration(0.0) 
+to(0.0) catch(0.0) some(0.0) of(0.0) the(0.0) homeowners(1.0) in(0.0) its(0.0) rescue(0.0) net(0.0) .(0.0) But(0.0) these(0.0) bills(1.0) do(0.0) nothing(0.0) to(0.0) hold(0.0) the(0.0) lenders(1.0) 
+and(0.0) servicers(1.0) responsible(0.0) .(0.0) Despite(0.0) the(0.0) promise(0.0) of(0.0) rescue(1.0) hotlines(1.0) and(0.0) Federal(1.0) and(0.0) State(0.0) government(0.0) compacts(0.0) ,(0.0) Federal(1.0) action(1.0) to(0.0) 
+help(0.0) homeowners(1.0) being(0.0) foreclosed(0.0) lacks(0.0) bite(0.0) .(0.0) It(0.0) is(0.0) voluntary(1.0) .(0.0) It(0.0) pushes(0.0) to(0.0) the(0.0) FHA(1.0) what(0.0) the(0.0) private(0.0) sector(0.0) 
+should(0.0) be(0.0) making(0.0) whole(0.0) .(0.0) The(0.0) two(0.0) plans(0.0) to(0.0) be(0.0) considered(0.0) today(0.0) ,(0.0) again(0.0) ,(0.0) ask(0.0) mortgage(1.0) servicers(1.0) to(0.0) voluntarily(0.0) 
+,(0.0) and(0.0) I(0.0) underline(0.0) that(0.0) word(0.0) voluntarily(0.0) ,(0.0) enter(0.0) into(0.0) an(0.0) agreement(0.0) with(0.0) the(0.0) FHA(1.0) to(0.0) insure(0.0) these(0.0) troubled(0.0) loans(1.0) 
+if(0.0) servicers(0.0) offer(0.0) modest(0.0) loan(0.0) concessions(0.0) .(0.0) The(0.0) problem(0.0) :(0.0) The(0.0) voluntary(1.0) aspect(0.0) of(0.0) the(0.0) program(0.0) leaves(0.0) homeowners(1.0) yet(0.0) again(0.0) 
+at(0.0) the(0.0) mercy(1.0) of(0.0) the(0.0) mortgage(1.0) loan(0.0) holder(0.0) .(0.0) Take(0.0) Countrywide(1.0) .(0.0) The(0.0) CEO(0.0) of(0.0) that(0.0) company(0.0) had(0.0) his(0.0) compensation(0.0) 
+approach(0.0) over(0.0) $(0.0) 200(0.0) million(0.0) ,(0.0) with(0.0) salaries(1.0) ,(0.0) bonuses(1.0) ,(0.0) options(0.0) ,(0.0) and(0.0) everything(0.0) over(0.0) the(0.0) last(0.0) 5(0.0) years(0.0) 
+.(0.0) Yet(0.0) the(0.0) Federal(1.0) Reserve(1.0) still(0.0) rewards(0.0) Countrywide(1.0) as(0.0) one(0.0) of(0.0) its(0.0) privileged(0.0) primary(0.0) dealers(0.0) trading(0.0) in(0.0) U.S.(0.0) Government(0.0) securities(0.0) 
+.(0.0) The(0.0) FHA(1.0) rescue(0.0) plan(0.0) promises(1.0) to(0.0) save(0.0) maybe(0.0) 500,000(0.0) homeowners(1.0) ,(0.0) or(0.0) half(0.0) a(0.0) million(0.0) Americans(1.0) .(0.0) That(0.0) equals(1.0) 
+maybe(0.0) 25(0.0) percent(0.0) of(0.0) the(0.0) more(0.0) than(0.0) 2(0.0) million(0.0) additional(0.0) homeowners(1.0) still(0.0) at(0.0) risk(0.0) of(0.0) foreclosure(1.0) .(0.0) Let(0.0) me(0.0) ask(0.0) 
+,(0.0) is(0.0) helping(0.0) 25(0.0) percent(0.0) ,(0.0) perhaps(0.0) ,(0.0) of(0.0) homeowners(1.0) at(0.0) risk(0.0) the(0.0) best(0.0) America(0.0) can(0.0) do(0.0) ?(0.0) Because(0.0) the(0.0) 
+bills(1.0) are(0.0) not(0.0) being(0.0) considered(0.0) under(0.0) an(0.0) open(0.0) rule(0.0) with(0.0) the(0.0) ability(0.0) to(0.0) amend(1.0) ,(0.0) we(0.0) can(0.0) not(0.0) perfect(0.0) this(0.0) 
+legislation(1.0) .(0.0) So(0.0) it(0.0) 's(0.0) fair(0.0) to(0.0) ask(0.0) ,(0.0) where(0.0) have(0.0) these(0.0) voluntary(1.0) rescue(0.0) plans(0.0) gotten(0.0) us(0.0) so(0.0) far(0.0) ?(0.0) 
+Housing(1.0) counselors(0.0) in(0.0) my(0.0) area(0.0) tell(0.0) me(0.0) dozens(0.0) of(0.0) servicers(1.0) refuse(0.0) even(0.0) to(0.0) come(0.0) to(0.0) the(0.0) table(0.0) and(0.0) return(0.0) phone(0.0) 
+calls(0.0) ,(0.0) for(0.0) heaven's(0.0) sake(0.0) .(0.0) Not(0.0) restructuring(1.0) the(0.0) loan(0.0) is(0.0) one(0.0) thing(0.0) but(0.0) not(0.0) picking(0.0) up(0.0) the(0.0) phone(0.0) is(0.0) 
+another(0.0) .(0.0) When(0.0) servicers(1.0) refuse(0.0) to(0.0) answer(0.0) the(0.0) phone(0.0) ,(0.0) no(0.0) degree(0.0) of(0.0) local(0.0) government(0.0) effort(0.0) or(0.0) foreclosure(1.0) prevention(1.0) 
+
+
+----- below are rationale words -----
+
+opposition	rules	
+housing	
+rule	Frank	Congresswoman	Waters	
+efforts	
+afforded	amend	
+households	lose	foreclosure	
+banks	Federal	government	
+foreclosures	Federal	Housing	
+homeowners	bills	lenders	
+servicers	rescue	hotlines	Federal	Federal	action	
+homeowners	voluntary	FHA	
+mortgage	servicers	
+FHA	loans	
+voluntary	homeowners	
+mercy	mortgage	Countrywide	
+salaries	bonuses	
+Federal	Reserve	Countrywide	
+FHA	promises	homeowners	Americans	equals	
+homeowners	foreclosure	
+homeowners	
+bills	amend	
+legislation	voluntary	
+Housing	servicers	
+restructuring	
+servicers	foreclosure	prevention	
+
+reads % = 0.126

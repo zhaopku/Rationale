@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) thank(0.0) the(0.0) gentlewoman(0.0) from(0.0) California(0.0) for(0.0) her(0.0) leadership(0.0) on(0.0) behalf(0.0) of(0.0) families(0.0) all(0.0) across(0.0) the(0.0) country(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) 
+I(0.0) rise(0.0) today(0.0) to(0.0) urge(1.0) all(0.0) of(0.0) our(0.0) colleagues(0.0) to(0.0) vote(1.0) ``(0.0) yes(0.0) ''(0.0) on(0.0) H.R(0.0) .(0.0) 3370(0.0) that(0.0) will(0.0) 
+fix(0.0) this(0.0) flood(1.0) insurance(1.0) debacle(1.0) .(0.0) A(0.0) year(0.0) and(0.0) a(0.0) half(0.0) ago(0.0) ,(0.0) a(0.0) bill(0.0) was(0.0) passed(0.0) here(0.0) in(0.0) the(0.0) 
+House(0.0) to(0.0) address(0.0) the(0.0) solvency(1.0) of(0.0) the(0.0) flood(1.0) insurance(1.0) trust(0.0) fund(1.0) .(0.0) That(0.0) was(0.0) the(0.0) right(0.0) thing(0.0) to(0.0) do(0.0) .(0.0) 
+Unfortunately(0.0) ,(0.0) it(0.0) had(0.0) serious(0.0) unintended(0.0) consequences(0.0) that(0.0) families(0.0) and(0.0) businessowners(1.0) and(0.0) Realtors(0.0) all(0.0) across(0.0) this(0.0) Nation(1.0) have(0.0) been(0.0) dealing(0.0) 
+with(0.0) .(0.0) But(0.0) I(0.0) am(0.0) heartened(0.0) here(0.0) today(0.0) because(0.0) ,(0.0) even(0.0) though(0.0) this(0.0) Congress(1.0) has(0.0) an(0.0) unfortunate(0.0) reputation(0.0) for(0.0) not(0.0) 
+addressing(0.0) the(0.0) challenges(0.0) that(0.0) face(0.0) families(0.0) all(0.0) across(0.0) this(0.0) country(1.0) ,(0.0) we(0.0) are(0.0) going(0.0) to(0.0) come(0.0) together(0.0) here(0.0) today(0.0) to(0.0) 
+address(0.0) a(0.0) very(0.0) important(0.0) financial(1.0) issue(0.0) for(0.0) families(0.0) .(0.0) I(0.0) would(0.0) like(0.0) to(0.0) thank(0.0) my(0.0) colleagues(0.0) from(0.0) Florida(0.0) ,(0.0) Congressman(1.0) 
+Hastings(1.0) ,(0.0) Congressman(1.0) Bilirakis(1.0) ,(0.0) Congressman(1.0) Nugent(1.0) ,(0.0) Congressman(1.0) Buchanan(1.0) ,(0.0) and(0.0) all(0.0) of(0.0) our(0.0) delegation(0.0) for(0.0) fighting(0.0) ,(0.0) standing(0.0) 
+together(0.0) to(0.0) work(0.0) for(0.0) them(0.0) .(0.0) I(0.0) urge(0.0) all(0.0) of(0.0) our(0.0) colleagues(0.0) here(0.0) today(0.0) to(0.0) do(0.0) the(0.0) same(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+country	Speaker	
+urge	vote	
+flood	insurance	debacle	
+solvency	flood	insurance	fund	
+businessowners	Nation	
+Congress	
+country	
+financial	Congressman	
+Hastings	Congressman	Bilirakis	Congressman	Nugent	Congressman	Buchanan	
+
+
+reads % = 0.12

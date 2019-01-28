@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) strike(1.0) the(0.0) requisite(0.0) number(0.0) of(0.0) words(0.0) .(0.0) ((0.0) Mr.(0.0) MENENDEZ(1.0) asked(0.0) and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) 
+revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) )(0.0) Chairman(0.0) ,(0.0) I(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) the(0.0) Boehlert(1.0) substitute(1.0) .(0.0) The(0.0) proposed(1.0) 
+clean(0.0) water(0.0) amendments(0.0) ,(0.0) H.R(0.0) .(0.0) 961(0.0) ,(0.0) amount(0.0) in(0.0) my(0.0) mind(0.0) to(0.0) nothing(0.0) less(0.0) than(0.0) environmental(1.0) sacrilege(1.0) .(0.0) The(0.0) 
+underlying(0.0) principle(1.0) behind(0.0) the(0.0) bill(1.0) seems(0.0) to(0.0) be(0.0) pollute(1.0) now(0.0) and(0.0) leave(0.0) a(0.0) debased(1.0) environment(0.0) for(0.0) our(0.0) children(0.0) .(0.0) They(0.0) 
+take(0.0) us(0.0) back(0.0) 20(0.0) years(0.0) to(0.0) an(0.0) environmental(1.0) stone(0.0) age(0.0) .(0.0) H.R(0.0) .(0.0) 961(0.0) would(0.0) have(0.0) a(0.0) severe(0.0) and(0.0) negative(0.0) 
+impact(0.0) on(0.0) New(1.0) Jersey(1.0) and(0.0) the(0.0) 13th(0.0) Congressional(0.0) District(1.0) in(0.0) particular(0.0) .(0.0) The(0.0) EPA(1.0) 1992(0.0) toxic(1.0) inventory(1.0) shows(0.0) release(0.0) of(0.0) 
+toxic(1.0) material(0.0) into(0.0) New(1.0) Jersey(1.0) surface(0.0) water(0.0) of(0.0) more(0.0) than(0.0) 400,000(0.0) pounds(0.0) .(0.0) The(0.0) current(0.0) law(1.0) would(0.0) be(0.0) modified(0.0) by(0.0) 
+H.R(0.0) .(0.0) 961(0.0) to(0.0) allow(0.0) for(0.0) downgrading(0.0) water(0.0) quality(0.0) standards(0.0) where(0.0) they(0.0) result(0.0) in(0.0) disproportionate(1.0) costs(1.0) over(0.0) benefits(1.0) .(0.0) This(0.0) 
+is(0.0) unfair(1.0) to(0.0) the(0.0) more(0.0) than(0.0) 90(0.0) percent(0.0) of(0.0) major(1.0) industrial(1.0) facilities(0.0) and(0.0) municipal(1.0) facilities(0.0) that(0.0) are(0.0) in(0.0) compliance(1.0) with(0.0) 
+the(0.0) Clean(1.0) Water(0.0) Act(0.0) in(0.0) New(1.0) Jersey(1.0) .(0.0) It(0.0) rewards(0.0) those(0.0) who(0.0) have(0.0) resisted(0.0) investing(1.0) in(0.0) pollution(1.0) cleanup(1.0) measures(0.0) and(0.0) 
+punishes(1.0) those(0.0) who(0.0) were(0.0) responsible(0.0) corporate(0.0) citizens(1.0) .(0.0) The(0.0) State(0.0) of(0.0) New(1.0) Jersey(1.0) has(0.0) a(0.0) thriving(0.0) tourism(0.0) industry(0.0) doing(0.0) over(0.0) 
+$(0.0) 10(0.0) billion(1.0) in(0.0) business(0.0) annually(0.0) .(0.0) The(0.0) State(0.0) beachwater(0.0) quality(0.0) monitoring(0.0) .(0.0) Under(0.0) H.R(0.0) .(0.0) 961(0.0) ,(0.0) EPA(1.0) is(0.0) 
+now(0.0) directed(0.0) to(0.0) issue(0.0) guidance(0.0) instead(0.0) of(0.0) regulation(1.0) with(0.0) regard(0.0) to(0.0) fish(0.0) consumption(1.0) advisories(1.0) and(0.0) monitoring(0.0) beachwater(0.0) quality(0.0) .(0.0) Nonpoint(1.0) 
+source(0.0) pollution(1.0) is(0.0) responsible(0.0) for(0.0) roughly(0.0) half(0.0) of(0.0) the(0.0) remaining(0.0) pollution(1.0) in(0.0) the(0.0) country(0.0) .(0.0) H.R(0.0) .(0.0) 961(0.0) modifies(0.0) current(0.0) 
+law(1.0) to(0.0) clarify(0.0) that(0.0) voluntary(1.0) or(0.0) incentive-based(1.0) approaches(0.0) are(0.0) allowable(1.0) in(0.0) lieu(1.0) of(0.0) regulatory(1.0) programs(1.0) .(0.0) It(0.0) also(0.0) repeals(1.0) sections(0.0) 
+of(0.0) the(0.0) Coastal(0.0) Zone(0.0) Management(0.0) Act(0.0) which(0.0) requires(0.0) coastal(1.0) States(0.0) to(0.0) develop(0.0) nonpoint(1.0) source(0.0) control(0.0) programs(1.0) .(0.0) This(0.0) would(0.0) hit(0.0) 
+New(1.0) Jersey(1.0) 's(0.0) coastal(0.0) tourism(1.0) industries(1.0) and(0.0) port(0.0) activities(0.0) very(0.0) hard(0.0) ,(0.0) since(0.0) they(0.0) are(0.0) at(0.0) the(0.0) receiving(0.0) end(0.0) of(0.0) 
+newly(0.0) degraded(0.0) waters(0.0) .(0.0) Simply(0.0) put(0.0) ,(0.0) H.R(0.0) .(0.0) 961(0.0) sets(0.0) the(0.0) clock(0.0) back(0.0) more(0.0) than(0.0) 20(0.0) years(0.0) .(0.0) The(0.0) 
+bill(1.0) pushes(1.0) back(0.0) deadlines(0.0) ,(0.0) requires(0.0) waivers(1.0) ,(0.0) creates(0.0) huge(1.0) new(0.0) exemptions(1.0) and(0.0) mandates(1.0) major(0.0) changes(0.0) in(0.0) the(0.0) core(0.0) of(0.0) 
+the(0.0) program(1.0) ,(0.0) the(0.0) water(1.0) quality(0.0) standards(0.0) ,(0.0) and(0.0) permit(0.0) conditions(0.0) .(0.0) This(0.0) is(0.0) a(0.0) piece(0.0) of(0.0) legislation(1.0) that(0.0) has(0.0) 
+been(0.0) the(0.0) most(0.0) successful(0.0) pollution(1.0) cleanup(1.0) program(0.0) in(0.0) existence(1.0) .(0.0) However(0.0) ,(0.0) H.R(0.0) .(0.0) 961(0.0) does(0.0) also(0.0) the(0.0) following(0.0) :(0.0) 
+It(0.0) waives(1.0) industrial(1.0) pretreatment(1.0) of(0.0) waste(1.0) ;(0.0) delays(0.0) dates(0.0) for(0.0) meeting(0.0) deadlines(0.0) if(0.0) Federal(1.0) funding(1.0) falls(0.0) short(0.0) of(0.0) the(0.0) authorized(0.0) 
+levels(0.0) ;(0.0) severely(0.0) limits(1.0) EPA's(0.0) ability(0.0) to(0.0) control(0.0) dangerous(0.0) toxic(1.0) substances(1.0) ;(0.0) removes(1.0) thousands(1.0) of(0.0) acres(0.0) of(0.0) wetlands(1.0) from(0.0) Federal(1.0) 
+protection(1.0) ,(0.0) which(0.0) could(0.0) lead(0.0) to(0.0) more(0.0) flooding(1.0) ,(0.0) lower(0.0) fish(1.0) catches(0.0) and(0.0) poorer(1.0) water(0.0) quality(0.0) .(0.0) We(0.0) have(0.0) talked(0.0) 
+about(0.0) the(0.0) Coastal(1.0) Zone(0.0) Management(0.0) Act(0.0) .(0.0) It(0.0) also(0.0) eliminates(0.0) the(0.0) ban(1.0) on(0.0) building(0.0) sewage(1.0) treatment(0.0) plants(0.0) in(0.0) flood(1.0) 
+
+
+----- below are rationale words -----
+
+strike	MENENDEZ	
+Boehlert	substitute	proposed	
+environmental	sacrilege	
+principle	bill	pollute	debased	
+environmental	
+New	Jersey	District	EPA	toxic	inventory	
+toxic	New	Jersey	law	
+disproportionate	costs	benefits	
+unfair	major	industrial	municipal	compliance	
+Clean	New	Jersey	investing	pollution	cleanup	
+punishes	citizens	New	Jersey	
+billion	EPA	
+regulation	consumption	advisories	Nonpoint	
+pollution	pollution	
+law	voluntary	incentive-based	allowable	lieu	regulatory	programs	repeals	
+coastal	nonpoint	programs	
+New	Jersey	tourism	industries	
+
+bill	pushes	waivers	huge	exemptions	mandates	
+program	water	legislation	
+pollution	cleanup	existence	
+waives	industrial	pretreatment	waste	Federal	funding	
+limits	toxic	substances	removes	thousands	wetlands	Federal	
+protection	flooding	fish	poorer	
+Coastal	ban	sewage	flood	
+
+reads % = 0.192

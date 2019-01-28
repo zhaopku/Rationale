@@ -1,0 +1,36 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) me(0.0) time(0.0) .(0.0) I(0.0) certainly(0.0) want(0.0) to(0.0) support(0.0) the(0.0) gentlewoman(0.0) 's(0.0) amendment(1.0) also(0.0) 
+.(0.0) Representative(1.0) Millender-MCDonald(0.0) 's(0.0) amendment(1.0) is(0.0) certainly(0.0) one(0.0) on(0.0) which(0.0) we(0.0) should(0.0) all(0.0) agree(0.0) .(0.0) This(0.0) is(0.0) something(0.0) that(0.0) needs(0.0) 
+to(0.0) be(0.0) clearly(0.0) defined(0.0) and(0.0) stated(0.0) ,(0.0) that(0.0) airlift(1.0) and(0.0) sealift(1.0) requirements(0.0) to(0.0) ensure(0.0) our(0.0) Nation(1.0) 's(0.0) future(0.0) mobility(0.0) force(0.0) 
+structure(0.0) capabilities(0.0) are(0.0) able(0.0) to(0.0) meet(0.0) future(0.0) needs(0.0) .(0.0) In(0.0) this(0.0) war(1.0) ,(0.0) 70(0.0) percent(0.0) of(0.0) the(0.0) cargo(0.0) missions(0.0) have(0.0) 
+been(0.0) flown(0.0) by(0.0) C-(0.0) 17s(0.0) .(0.0) That(0.0) is(0.0) a(0.0) 60(0.0) percent(0.0) increase(1.0) over(0.0) the(0.0) military(0.0) 's(0.0) own(0.0) prewar(1.0) anticipated(0.0) usage(0.0) 
+of(0.0) the(0.0) plane(0.0) .(0.0) In(0.0) addition(0.0) to(0.0) military(1.0) uses(0.0) ,(0.0) C-17s(1.0) have(0.0) been(0.0) used(0.0) in(0.0) humanitarian(1.0) efforts(0.0) to(0.0) bring(0.0) food(1.0) 
+and(0.0) supplies(1.0) to(0.0) victims(1.0) of(0.0) Hurricane(1.0) Katrina(1.0) and(0.0) to(0.0) the(0.0) Far(0.0) East(0.0) disasters(1.0) there(0.0) last(0.0) year(0.0) .(0.0) Senior(0.0) leaders(0.0) at(0.0) 
+the(0.0) DOD(1.0) ca(0.0) n't(0.0) seem(0.0) to(0.0) find(0.0) clearly(0.0) the(0.0) exact(0.0) number(0.0) of(0.0) C-17s(1.0) required(0.0) .(0.0) The(0.0) Chief(0.0) of(0.0) Staff(0.0) of(0.0) 
+the(0.0) Air(0.0) Force(0.0) states(0.0) 187(0.0) TRANSCOM(1.0) and(0.0) Air(0.0) Mobility(0.0) Commander(0.0) stated(0.0) 200(0.0) C-17s(0.0) are(0.0) required(0.0) .(0.0) The(0.0) former(0.0) TRANSCOM(1.0) commander(0.0) 
+,(0.0) General(0.0) Handy(0.0) ,(0.0) whom(0.0) I(0.0) respect(0.0) immensely(0.0) ,(0.0) stated(0.0) that(0.0) 225(0.0) C-17s(0.0) are(0.0) required(0.0) .(0.0) In(0.0) addition(0.0) to(0.0) senior(0.0) 
+leaders(0.0) of(0.0) DOD(0.0) ,(0.0) the(0.0) Defense(0.0) Science(0.0) Board(0.0) ,(0.0) in(0.0) a(0.0) report(0.0) dated(0.0) September(0.0) 2005(0.0) ,(0.0) raised(0.0) concerns(0.0) about(0.0) the(0.0) 
+adequacy(1.0) of(0.0) the(0.0) Pentagon(0.0) 's(0.0) organic(0.0) and(0.0) strategic(0.0) sealift(1.0) and(0.0) aerial(0.0) tankers(1.0) .(0.0) Therefore(0.0) ,(0.0) I(0.0) support(0.0) this(0.0) amendment(1.0) so(0.0) 
+we(0.0) can(0.0) get(0.0) on(0.0) to(0.0) fulfill(0.0) our(0.0) congressional(1.0) oversight(1.0) responsibility(0.0) and(0.0) ensure(0.0) that(0.0) our(0.0) mobility(1.0) system(0.0) adequately(0.0) supports(0.0) current(0.0) and(0.0) 
+future(0.0) force(0.0) structure(0.0) requirements(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+amendment	
+Representative	amendment	
+airlift	sealift	Nation	
+war	
+increase	prewar	
+military	C-17s	humanitarian	food	
+supplies	victims	Hurricane	Katrina	disasters	
+DOD	C-17s	
+TRANSCOM	TRANSCOM	
+
+
+adequacy	sealift	tankers	amendment	
+congressional	oversight	mobility	
+requirements	
+
+reads % = 0.11278195488721804

@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+It's(1.0) important(0.0) to(0.0) point(0.0) out(0.0) ,(0.0) in(0.0) this(0.0) letter(0.0) ,(0.0) signed(0.0) by(0.0) the(0.0) major(0.0) election(1.0) official(1.0) organizations(0.0) in(0.0) the(0.0) country(1.0) ,(0.0) 
+the(0.0) Secretaries(1.0) of(0.0) State(1.0) ,(0.0) associations(1.0) of(0.0) counties(1.0) ,(0.0) election(1.0) officials(1.0) and(0.0) so(1.0) forth(1.0) ,(0.0) they(0.0) say(1.0) that(0.0) the(0.0) rate(0.0) 
+at(0.0) which(0.0) the(0.0) funding(1.0) has(0.0) been(0.0) available(1.0) to(0.0) them(0.0) in(0.0) the(0.0) past(0.0) has(0.0) led(0.0) ,(0.0) in(0.0) their(0.0) words(0.0) ,(0.0) ``(1.0) 
+many(0.0) state(0.0) and(0.0) local(0.0) governments(1.0) to(0.0) scale(0.0) back(0.0) on(0.0) their(0.0) initial(0.0) plans(1.0) for(0.0) implementation(0.0) ''(0.0) of(0.0) HAVA(1.0) .(0.0) We(0.0) must(0.0) 
+,(0.0) again(0.0) ,(0.0) in(0.0) their(0.0) words(0.0) ,(0.0) meet(1.0) the(0.0) promise(0.0) of(0.0) HAVA(1.0) .(0.0) This(0.0) is(0.0) not(1.0) an(0.0) imagined(1.0) expense(0.0) .(0.0) 
+This(0.0) is(0.0) a(0.0) real(0.0) expense(1.0) to(0.0) preserve(0.0) democracy(1.0) ,(0.0) and(0.0) we(0.0) have(0.0) it(0.0) on(0.0) good(0.0) authority(0.0) ,(0.0) from(0.0) the(0.0) people(0.0) 
+who(0.0) are(0.0) doing(0.0) the(0.0) work(0.0) ,(0.0) that(0.0) this(0.0) money(0.0) is(0.0) needed(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+election	official	country	
+Secretaries	State	associations	counties	election	officials	so	forth	say	
+funding	available	``	
+governments	plans	HAVA	
+meet	HAVA	not	imagined	
+expense	democracy	
+
+
+reads % = 0.18045112781954886

@@ -1,0 +1,36 @@
+This is from a Republican
+----- below is the original text -----
+H.R(1.0) .(0.0) 2319(0.0) is(0.0) a(0.0) bill(0.0) that(0.0) would(0.0) continue(0.0) to(0.0) recognize(0.0) the(0.0) efforts(1.0) of(0.0) all(0.0) Native(1.0) American(0.0) ,(0.0) Alaska(1.0) Native(0.0) ,(0.0) 
+and(0.0) Native(1.0) Hawaiian(1.0) veterans(1.0) across(0.0) the(0.0) Nation(1.0) .(0.0) These(0.0) brave(0.0) soldiers(0.0) ,(0.0) including(0.0) my(0.0) own(0.0) grandfather(0.0) ,(0.0) Kenneth(0.0) Morris(1.0) ,(0.0) 
+sacrificed(0.0) much(0.0) for(0.0) the(0.0) country(1.0) they(0.0) love(0.0) .(0.0) It(0.0) is(0.0) important(0.0) that(0.0) we(0.0) properly(0.0) honor(0.0) these(0.0) brave(0.0) soldiers(0.0) and(0.0) tell(0.0) 
+their(0.0) story(0.0) for(0.0) generations(0.0) to(0.0) come(0.0) .(0.0) As(0.0) many(0.0) of(0.0) my(0.0) colleagues(0.0) know(0.0) ,(0.0) last(0.0) month(0.0) Congress(0.0) awarded(1.0) Congressional(0.0) Gold(1.0) 
+Medals(0.0) to(0.0) Native(0.0) American(0.0) code(0.0) talkers(0.0) from(0.0) all(0.0) over(0.0) the(0.0) country(1.0) ,(0.0) a(0.0) long(0.0) overdue(0.0) recognition(0.0) for(0.0) their(0.0) bravery(0.0) and(0.0) 
+valor(0.0) .(0.0) These(0.0) men(0.0) saved(0.0) countless(0.0) lives(0.0) during(0.0) World(0.0) Wars(0.0) I(0.0) and(0.0) II(0.0) by(0.0) using(0.0) their(0.0) native(0.0) languages(0.0) .(0.0) My(0.0) 
+bill(1.0) amends(1.0) a(0.0) 1994(0.0) law(0.0) that(0.0) allows(0.0) the(0.0) National(0.0) Museum(0.0) of(0.0) the(0.0) American(0.0) Indian(0.0) more(0.0) flexibility(0.0) to(0.0) design(0.0) and(0.0) raise(0.0) 
+funds(1.0) for(0.0) the(0.0) building(0.0) of(0.0) a(0.0) memorial(0.0) .(0.0) The(0.0) memorial(0.0) is(0.0) currently(0.0) authorized(0.0) to(0.0) be(0.0) constructed(0.0) inside(0.0) the(0.0) confines(0.0) of(0.0) 
+the(0.0) museum(0.0) ,(0.0) but(0.0) with(0.0) the(0.0) limited(0.0) space(0.0) within(0.0) the(0.0) museum(0.0) itself(0.0) ,(0.0) this(0.0) bill(1.0) provides(0.0) for(0.0) a(0.0) more(0.0) appropriate(0.0) 
+tribute(0.0) .(0.0) This(0.0) bipartisan(1.0) bill(1.0) has(1.0) received(0.0) overwhelming(0.0) support(0.0) from(0.0) the(0.0) National(0.0) Congress(0.0) of(0.0) American(0.0) Indians(0.0) and(0.0) the(0.0) National(0.0) Museum(0.0) 
+of(0.0) the(0.0) American(0.0) Indian(0.0) .(0.0) As(0.0) one(0.0) of(0.0) only(0.0) two(0.0) Native(0.0) Americans(0.0) in(0.0) Congress(0.0) ,(0.0) it(0.0) has(0.0) been(0.0) my(0.0) privilege(1.0) 
+to(0.0) work(0.0) to(0.0) make(0.0) this(0.0) memorial(0.0) a(0.0) reality(0.0) .(0.0) I(0.0) ask(0.0) for(0.0) your(0.0) support(0.0) of(0.0) this(0.0) legislation(1.0) which(0.0) was(0.0) reported(0.0) 
+by(0.0) unanimous(1.0) consent(0.0) from(0.0) the(0.0) Committee(0.0) on(0.0) Natural(0.0) Resources(0.0) just(0.0) last(0.0) week(0.0) and(0.0) will(0.0) require(0.0) no(0.0) cost(0.0) to(0.0) the(0.0) American(0.0) 
+taxpayers(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+efforts	Native	Alaska	
+Native	Hawaiian	veterans	Nation	Morris	
+country	
+awarded	Gold	
+country	
+
+bill	amends	
+funds	
+bill	
+bipartisan	bill	has	
+privilege	
+legislation	
+unanimous	
+taxpayers	Speaker	
+
+reads % = 0.08759124087591241

@@ -1,0 +1,24 @@
+This is from a Democrat
+----- below is the original text -----
+4851(1.0) ,(0.0) the(0.0) ``(0.0) Continuing(0.0) Extension(0.0) Act(0.0) of(0.0) 2010(0.0) .(0.0) ''(0.0) Earlier(0.0) today(0.0) ,(0.0) the(0.0) Senate(0.0) passed(0.0) this(0.0) critically(0.0) important(0.0) measure(0.0) 
+,(0.0) which(0.0) will(0.0) provide(0.0) short(0.0) term(0.0) extensions(0.0) to(0.0) several(0.0) lapsed(0.0) programs(0.0) ,(0.0) including(0.0) extended(0.0) unemployment(0.0) benefits(0.0) and(0.0) COBRA(0.0) health(1.0) insurance(0.0) 
+subsidies(1.0) .(0.0) The(0.0) bill(0.0) also(0.0) ensures(0.0) that(0.0) physicians(0.0) who(0.0) care(0.0) for(0.0) Medicare(0.0) patients(0.0) will(0.0) not(0.0) suffer(0.0) a(0.0) debilitating(0.0) cut(0.0) in(0.0) 
+their(0.0) reimbursement(0.0) rates(0.0) ,(0.0) which(0.0) could(0.0) potentially(0.0) cause(0.0) them(0.0) to(0.0) cease(0.0) providing(0.0) care(0.0) .(0.0) We(0.0) pass(0.0) these(0.0) needed(0.0) and(0.0) humane(1.0) 
+extensions(0.0) tonight(0.0) to(0.0) ease(0.0) the(0.0) pain(0.0) being(0.0) felt(0.0) by(0.0) our(0.0) fellow(0.0) citizens(1.0) around(0.0) the(0.0) country(1.0) .(0.0) I(0.0) sincerely(0.0) hope(0.0) this(0.0) 
+is(0.0) the(0.0) last(0.0) time(0.0) we(0.0) are(0.0) forced(1.0) to(0.0) cut(1.0) off(0.0) this(0.0) social(1.0) lifeline(1.0) because(0.0) of(0.0) the(0.0) dilatory(1.0) tactics(0.0) of(0.0) Senate(0.0) 
+Republicans(0.0) .(1.0) Food(1.0) ,(1.0) shelter(1.0) ,(0.0) and(0.0) health(1.0) care(1.0) are(0.0) too(0.0) important(0.0) to(0.0) be(0.0) subjected(1.0) to(0.0) petty(1.0) political(1.0) battles(0.0) .(0.0) 
+I(0.0) encourage(0.0) all(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) the(0.0) bill(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+health	
+subsidies	
+humane	
+citizens	country	
+forced	cut	social	lifeline	dilatory	
+.	Food	,	shelter	health	care	subjected	petty	political	
+bill	
+
+reads % = 0.13245033112582782

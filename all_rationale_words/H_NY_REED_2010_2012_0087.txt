@@ -1,0 +1,16 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) so(0.0) appreciate(0.0) my(0.0) colleague(0.0) from(0.0) Tennessee(1.0) offering(0.0) her(0.0) comments(0.0) .(0.0) And(0.0) I(0.0) know(0.0) we(0.0) 're(0.0) coming(0.0) to(0.0) the(0.0) end(0.0) of(0.0) 
+our(0.0) hour(0.0) with(0.0) a(0.0) few(0.0) minutes(0.0) left(0.0) ,(0.0) but(0.0) we(0.0) have(0.0) plenty(0.0) of(0.0) time(0.0) for(0.0) two(0.0) more(0.0) colleagues(0.0) that(0.0) have(0.0) 
+joined(0.0) us(0.0) this(0.0) evening(0.0) .(0.0) I(0.0) yield(0.0) to(0.0) a(0.0) great(0.0) gentleman(0.0) from(0.0) Texas(0.0) ,(0.0) a(0.0) member(0.0) of(0.0) the(0.0) freshman(0.0) class(0.0) 
+,(0.0) Mr.(0.0) Flores(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Tennessee	
+
+
+Flores	
+
+reads % = 0.03076923076923077

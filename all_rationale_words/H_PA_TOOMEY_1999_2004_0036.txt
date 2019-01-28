@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) would(0.0) just(0.0) make(0.0) one(0.0) additional(0.0) point(0.0) ,(0.0) and(0.0) that(0.0) is(0.0) the(0.0) point(0.0) that(0.0) has(0.0) been(0.0) made(0.0) for(0.0) us(0.0) at(0.0) our(0.0) 
+committee(0.0) by(0.0) CBO(1.0) Director(0.0) Crippin(1.0) ,(0.0) and(0.0) I(0.0) think(0.0) this(0.0) is(0.0) a(0.0) very(0.0) important(0.0) one(0.0) .(0.0) When(0.0) we(0.0) look(0.0) at(0.0) 
+how(0.0) best(0.0) to(0.0) get(0.0) our(0.0) deficit(1.0) under(0.0) control(0.0) ,(0.0) he(0.0) makes(0.0) the(0.0) observation(0.0) that(0.0) a(0.0) one-tenth(0.0) of(0.0) 1(0.0) percent(0.0) increase(1.0) 
+in(0.0) GDP(1.0) growth(1.0) accounts(0.0) for(0.0) about(0.0) an(0.0) additional(0.0) quarter(0.0) of(0.0) a(0.0) trillion(1.0) dollars(1.0) ,(0.0) $(0.0) 250(0.0) billion(1.0) ,(0.0) in(0.0) additional(0.0) 
+Federal(1.0) revenue(1.0) over(0.0) a(0.0) 10-year(1.0) period(0.0) .(0.0) This(0.0) is(0.0) why(0.0) economic(1.0) growth(1.0) is(0.0) so(0.0) important(0.0) .(0.0) The(0.0) real(0.0) reason(0.0) it(0.0) 
+is(0.0) mostly(0.0) important(0.0) is(0.0) for(0.0) the(0.0) benefits(1.0) that(0.0) accrue(0.0) to(0.0) the(0.0) American(0.0) people(0.0) who(0.0) produce(0.0) this(0.0) growth(1.0) ;(0.0) but(0.0) if(0.0) 
+we(0.0) want(0.0) to(0.0) figure(0.0) out(0.0) how(0.0) do(0.0) we(0.0) get(0.0) our(0.0) budget(1.0) house(0.0) in(0.0) order(0.0) here(0.0) ,(0.0) a(0.0) strong(0.0) economy(1.0) gets(0.0) 
+us(0.0) there(0.0) .(0.0) One-tenth(0.0) of(0.0) 1(0.0) percent(0.0) ,(0.0) going(0.0) from(0.0) 4(0.0) percent(0.0) growth(1.0) to(0.0) 4.1(0.0) percent(0.0) growth(1.0) ,(0.0) just(0.0) that(0.0) 
+small(0.0) difference(0.0) amounts(0.0) to(0.0) an(0.0) extra(0.0) quarter(0.0) of(0.0) a(0.0) trillion(1.0) dollars(1.0) in(0.0) Federal(1.0) revenue(1.0) .(0.0) If(0.0) we(0.0) can(0.0) maximize(0.0) economic(1.0) 
+growth(1.0) and(0.0) have(0.0) some(0.0) discipline(0.0) on(0.0) the(0.0) spending(1.0) side(0.0) ,(0.0) we(0.0) get(0.0) this(0.0) budget(1.0) back(0.0) to(0.0) balance(0.0) .(0.0) We(0.0) are(0.0) 
+moving(0.0) in(0.0) that(0.0) direction(0.0) ,(0.0) and(0.0) I(0.0) think(0.0) that(0.0) is(0.0) a(0.0) direction(0.0) we(0.0) should(0.0) stay(0.0) in(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) 
+I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+CBO	Crippin	
+deficit	increase	
+GDP	growth	trillion	dollars	billion	
+Federal	revenue	10-year	economic	growth	
+benefits	growth	
+budget	economy	
+growth	growth	
+trillion	dollars	Federal	revenue	economic	
+growth	spending	budget	
+Speaker	
+
+
+reads % = 0.12663755458515283

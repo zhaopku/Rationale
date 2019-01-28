@@ -1,0 +1,36 @@
+This is from a Democrat
+----- below is the original text -----
+4240(1.0) ,(0.0) the(0.0) Ambassador(0.0) James(0.0) R.(1.0) Lilley(1.0) and(0.0) Congressman(1.0) Stephen(1.0) J.(1.0) Solarz(1.0) North(1.0) Korean(1.0) Human(1.0) Rights(1.0) Reauthorization(1.0) Act(0.0) of(0.0) 2012(0.0) .(0.0) 
+I(0.0) commend(0.0) Chairman(0.0) Ros-Lehtinen(1.0) and(1.0) Ranking(1.0) Member(0.0) Berman(1.0) and(0.0) the(0.0) members(0.0) of(0.0) the(0.0) House(0.0) Foreign(0.0) Affairs(0.0) Committee(0.0) for(0.0) bringing(0.0) this(0.0) 
+important(0.0) measure(0.0) to(0.0) the(0.0) floor(0.0) .(0.0) Ambassador(0.0) Lilley(1.0) ,(0.0) as(0.0) director(0.0) of(0.0) the(0.0) Committee(0.0) for(0.0) Human(0.0) Rights(0.0) in(0.0) North(0.0) Korea(0.0) 
+and(0.0) Congressman(1.0) Solarz(1.0) ,(0.0) as(0.0) chairman(0.0) of(0.0) the(0.0) House(0.0) subcommittee(0.0) on(0.0) East(0.0) Asia(0.0) and(0.0) later(0.0) as(0.0) co-chairman(0.0) of(0.0) the(0.0) Committee(0.0) 
+on(0.0) Human(0.0) Rights(0.0) in(0.0) North(0.0) Korea(0.0) ,(0.0) refused(0.0) to(0.0) stand(0.0) by(0.0) silently(0.0) as(0.0) the(0.0) North(0.0) Korean(0.0) government(0.0) oppressed(1.0) ,(0.0) abused(0.0) 
+and(0.0) murdered(0.0) its(0.0) own(0.0) people(0.0) .(0.0) Their(0.0) leadership(0.0) and(0.0) advocacy(1.0) helped(0.0) to(0.0) raise(0.0) awareness(0.0) about(0.0) the(0.0) deplorable(1.0) conditions(0.0) endured(0.0) by(0.0) 
+the(0.0) North(0.0) Korean(0.0) people(0.0) ,(0.0) including(0.0) the(0.0) government(1.0) 's(0.0) practice(0.0) of(0.0) executing(0.0) on-the-spot(0.0) attempted(0.0) defectors(0.0) .(0.0) This(0.0) resolution(1.0) encourages(0.0) the(0.0) 
+United(0.0) States(0.0) government(1.0) to(0.0) continue(0.0) working(0.0) with(0.0) foreign(0.0) governments(1.0) and(0.0) with(0.0) the(0.0) Peoples(0.0) Republic(0.0) of(0.0) China(0.0) in(0.0) particular(0.0) ,(0.0) to(0.0) 
+help(0.0) resettle(1.0) refugees(1.0) who(0.0) escape(0.0) North(0.0) Korea(0.0) .(0.0) Additionally(0.0) ,(0.0) the(0.0) bill(0.0) recognizes(1.0) the(0.0) efforts(1.0) undertaken(0.0) in(0.0) North(0.0) Korea(0.0) by(0.0) 
+the(0.0) Broadcasting(0.0) Board(0.0) of(0.0) Governors(0.0) and(0.0) encourages(0.0) the(0.0) board(0.0) to(0.0) meet(0.0) its(0.0) goal(0.0) of(0.0) broadcasting(0.0) 12(0.0) hours(0.0) of(0.0) daily(0.0) radio(0.0) 
+transmissions(0.0) into(0.0) that(0.0) country(0.0) .(0.0) The(0.0) United(0.0) States(0.0) has(0.0) the(0.0) largest(0.0) international(0.0) refugee(0.0) resettlement(1.0) program(0.0) in(0.0) the(0.0) world(0.0) .(0.0) Since(0.0) 
+this(0.0) Act(0.0) was(0.0) originally(0.0) passed(0.0) ,(0.0) 128(0.0) North(0.0) Koreans(0.0) have(0.0) been(0.0) successfully(0.0) resettled(0.0) ,(0.0) including(0.0) 23(0.0) in(0.0) the(0.0) last(0.0) year(0.0) 
+.(0.0) The(0.0) success(0.0) of(0.0) this(0.0) program(0.0) is(0.0) a(0.0) fitting(0.0) tribute(0.0) to(0.0) the(0.0) memory(0.0) and(0.0) work(0.0) of(0.0) Ambassador(0.0) Lilley(0.0) and(0.0) Congressman(1.0) 
+Solarz(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+R.	Lilley	Congressman	Stephen	J.	Solarz	North	Korean	Human	Rights	Reauthorization	
+Ros-Lehtinen	and	Ranking	Berman	
+Lilley	
+Congressman	Solarz	
+oppressed	
+advocacy	deplorable	
+government	resolution	
+government	governments	
+resettle	refugees	recognizes	efforts	
+
+resettlement	
+
+Congressman	
+Solarz	
+
+reads % = 0.12167300380228137

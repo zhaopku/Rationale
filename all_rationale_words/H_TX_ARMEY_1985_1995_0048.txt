@@ -1,0 +1,36 @@
+This is from a Republican
+----- below is the original text -----
+Let(0.0) me(0.0) if(0.0) I(0.0) may(0.0) give(0.0) you(0.0) the(0.0) meeting(0.0) times(0.0) for(0.0) next(0.0) week(0.0) .(0.0) Then(0.0) I(0.0) will(0.0) talk(0.0) about(0.0) what(0.0) we(0.0) 
+are(0.0) likely(0.0) to(0.0) consider(0.0) .(0.0) On(0.0) Monday(0.0) ,(0.0) we(0.0) will(0.0) meet(0.0) for(0.0) morning(0.0) hour(0.0) at(0.0) 12:30(0.0) .(0.0) Legislative(0.0) business(0.0) will(0.0) 
+begin(0.0) at(0.0) 2(0.0) .(0.0) Votes(0.0) will(0.0) be(0.0) postponed(0.0) until(0.0) after(0.0) 5(0.0) .(0.0) On(0.0) Tuesday(0.0) ,(0.0) morning(0.0) hour(0.0) is(0.0) at(0.0) 9:30(0.0) 
+.(0.0) Legislative(0.0) business(0.0) will(0.0) begin(0.0) at(0.0) 11(0.0) .(0.0) On(0.0) Wednesday(0.0) ,(0.0) legislative(0.0) business(0.0) will(0.0) begin(0.0) at(0.0) 11(0.0) .(0.0) Thursday(0.0) and(0.0) 
+Friday(0.0) ,(0.0) legislative(0.0) business(0.0) will(0.0) begin(0.0) at(0.0) 10(0.0) .(0.0) On(0.0) Monday(0.0) ,(0.0) if(0.0) I(0.0) can(0.0) go(0.0) to(0.0) the(0.0) program(1.0) ,(0.0) 
+what(0.0) we(0.0) will(0.0) be(0.0) considering(0.0) ,(0.0) on(0.0) Monday(0.0) we(0.0) will(0.0) take(0.0) up(0.0) House(0.0) Resolution(1.0) 43(0.0) ,(0.0) clarifying(0.0) how(0.0) committee(0.0) hearings(0.0) 
+are(0.0) scheduled(0.0) .(0.0) This(0.0) will(0.0) be(0.0) done(0.0) under(0.0) an(0.0) open(0.0) rule(0.0) .(0.0) Then(0.0) we(0.0) will(0.0) return(0.0) to(0.0) consideration(0.0) of(0.0) H.R(0.0) 
+.(0.0) 5(0.0) ,(0.0) unfunded(1.0) mandates(1.0) .(0.0) On(0.0) Tuesday(0.0) ,(0.0) if(0.0) it(0.0) is(0.0) necessary(0.0) ,(0.0) we(0.0) will(0.0) continue(0.0) consideration(0.0) of(0.0) unfunded(1.0) 
+mandates(1.0) .(0.0) We(0.0) will(0.0) then(0.0) take(0.0) up(0.0) ,(0.0) subject(0.0) to(0.0) a(0.0) rule(0.0) ,(0.0) House(0.0) Joint(1.0) Resolution(1.0) 50(0.0) ,(0.0) the(0.0) Robert(1.0) 
+J.(1.0) Lagomarsino(1.0) Visitors(0.0) Center(0.0) ;(0.0) H.R(0.0) .(0.0) 101(0.0) ,(0.0) subject(0.0) to(0.0) a(0.0) rule(0.0) ,(0.0) the(0.0) New(0.0) Mexico(1.0) land(0.0) transfer(0.0) ;(0.0) 
+H.R(0.0) .(0.0) 400(0.0) ,(0.0) subject(0.0) to(0.0) a(0.0) rule(0.0) ,(0.0) Arctic(0.0) National(0.0) Park(0.0) and(0.0) Preserve(0.0) land(0.0) exchange(0.0) ;(0.0) H.R(0.0) .(0.0) 450(0.0) 
+,(0.0) subject(0.0) to(0.0) a(0.0) rule(0.0) ,(0.0) Butte(1.0) County(1.0) ,(0.0) CA(0.0) land(0.0) transfer(0.0) ;(0.0) And(0.0) then(0.0) as(0.0) soon(0.0) as(0.0) we(0.0) can(0.0) 
+and(0.0) hopefully(0.0) on(0.0) that(0.0) day(0.0) we(0.0) may(0.0) begin(0.0) proceeding(0.0) on(0.0) H.R(0.0) .(0.0) 2(0.0) ,(0.0) line-item(1.0) veto(1.0) legislation(1.0) ,(0.0) of(0.0) course(0.0) 
+,(0.0) subject(0.0) to(0.0) a(0.0) rule(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+
+
+program	
+Resolution	
+
+unfunded	mandates	unfunded	
+mandates	Joint	Resolution	Robert	
+J.	Lagomarsino	Mexico	
+
+Butte	County	
+line-item	veto	legislation	
+
+
+reads % = 0.06367041198501873

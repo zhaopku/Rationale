@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) thank(0.0) my(0.0) colleague(0.0) for(0.0) yielding(0.0) .(0.0) I(0.0) rise(0.0) tonight(0.0) to(0.0) discuss(0.0) Delta(1.0) Airline(0.0) 's(0.0) tremendous(0.0) progress(0.0) since(0.0) 
+it(0.0) entered(0.0) bankruptcy(1.0) in(0.0) September(0.0) 2005(0.0) toward(0.0) its(0.0) long-planned(1.0) goal(0.0) toward(0.0) emerging(0.0) in(0.0) the(0.0) first(0.0) part(0.0) of(0.0) next(0.0) year(0.0) as(0.0) 
+a(0.0) financially(0.0) strong(0.0) ,(0.0) stand-alone(0.0) ,(0.0) independent(0.0) airline(0.0) .(0.0) This(0.0) is(0.0) a(0.0) very(0.0) positive(0.0) story(0.0) that(0.0) has(0.0) involved(0.0) difficult(0.0) decisions(0.0) 
+by(0.0) Delta(1.0) 's(0.0) management(0.0) ,(0.0) sacrifices(0.0) from(0.0) its(0.0) employees(0.0) and(0.0) strong(0.0) support(0.0) from(0.0) its(0.0) creditors(1.0) ,(0.0) from(0.0) the(0.0) home(0.0) State(0.0) 
+of(0.0) Georgia(1.0) and(0.0) other(0.0) communities(1.0) it(0.0) serves(0.0) .(0.0) This(0.0) is(0.0) also(0.0) an(0.0) important(0.0) story(0.0) to(0.0) tell(0.0) tonight(0.0) because(0.0) U.S.(0.0) Airways'(0.0) 
+unsolicited(0.0) merger(0.0) proposal(1.0) would(1.0) jeopardize(1.0) the(0.0) progress(0.0) and(0.0) saddle(0.0) Delta(0.0) with(0.0) a(0.0) huge(0.0) debt(1.0) that(0.0) would(0.0) put(0.0) it(0.0) at(0.0) a(0.0) 
+competitive(0.0) disadvantage(0.0) .(0.0) On(0.0) November(0.0) 15(0.0) ,(0.0) when(0.0) U.S.(0.0) Airways(0.0) went(0.0) public(0.0) with(0.0) this(0.0) unsolicited(1.0) merger(0.0) proposal(1.0) ,(0.0) Delta(1.0) 's(0.0) 
+CEO(0.0) Gerald(1.0) Grinstein(1.0) wrote(1.0) to(0.0) Delta(0.0) 's(0.0) 45,000(0.0) employees(0.0) and(0.0) said(0.0) ,(0.0) Delta(1.0) people(0.0) have(0.0) participated(0.0) in(0.0) the(0.0) hard(0.0) work(0.0) 
+and(0.0) tough(0.0) choices(0.0) driving(0.0) our(0.0) company(0.0) 's(0.0) already(0.0) remarkable(0.0) restructuring(1.0) progress(0.0) .(0.0) I(0.0) know(0.0) you(0.0) care(1.0) deeply(0.0) about(0.0) what(0.0) this(0.0) 
+means(0.0) for(0.0) our(0.0) airline(1.0) .(0.0) Less(0.0) than(0.0) a(0.0) week(0.0) later(0.0) ,(0.0) Mr.(0.0) Grinstein(1.0) wrote(1.0) again(1.0) to(0.0) Delta's(0.0) employees(0.0) to(0.0) share(0.0) 
+how(0.0) the(0.0) outpouring(1.0) of(0.0) support(1.0) for(0.0) Delta(1.0) 's(0.0) future(0.0) as(0.0) a(0.0) profitable(0.0) ,(0.0) strong(0.0) ,(0.0) stand-alone(0.0) airline(0.0) and(0.0) for(0.0) you(0.0) 
+,(0.0) the(0.0) people(0.0) who(0.0) have(0.0) been(0.0) fighting(0.0) hard(0.0) to(0.0) reach(0.0) that(0.0) goal(0.0) ,(0.0) has(0.0) been(0.0) overwhelming(0.0) .(0.0) So(0.0) what(0.0) is(0.0) 
+the(0.0) story(0.0) behind(0.0) this(0.0) remarkable(0.0) restructuring(1.0) progress(0.0) since(0.0) Delta(0.0) entered(0.0) bankruptcy(1.0) in(0.0) September(0.0) 2005(0.0) ?(0.0) In(0.0) short(0.0) ,(0.0) Delta(0.0) has(0.0) 
+reduced(0.0) costs(1.0) ,(0.0) increased(0.0) revenue(1.0) ,(0.0) improved(0.0) customer(0.0) service(0.0) ,(0.0) launched(0.0) new(0.0) domestic(1.0) and(0.0) international(0.0) air(0.0) services(0.0) and(0.0) achieved(0.0) tangible(0.0) 
+progress(0.0) on(0.0) other(0.0) major(0.0) fronts(0.0) .(0.0) As(0.0) Business(0.0) Week(0.0) recently(0.0) put(0.0) it(0.0) ,(0.0) Delta(0.0) 's(0.0) senior(0.0) management(0.0) has(0.0) worked(0.0) around-the-clock(0.0) 
+renegotiating(0.0) thousands(0.0) of(0.0) contracts(1.0) ,(0.0) bucking(0.0) up(0.0) demoralized(1.0) employees(0.0) ,(0.0) imploring(1.0) bankers(1.0) to(0.0) provide(0.0) financing(1.0) and(0.0) wrangling(0.0) with(0.0) creditors(0.0) to(0.0) 
+keep(0.0) them(0.0) from(0.0) picking(0.0) all(0.0) the(0.0) meat(0.0) off(0.0) Delta(1.0) 's(0.0) bones(0.0) .(0.0) To(0.0) give(0.0) just(0.0) a(0.0) few(0.0) examples(0.0) of(0.0) Delta(1.0) 
+'s(0.0) tremendous(0.0) progress(0.0) over(0.0) the(0.0) last(0.0) year(0.0) ,(0.0) Delta(1.0) has(0.0) overhauled(0.0) its(0.0) vast(0.0) domestic(1.0) and(0.0) international(0.0) network(0.0) ,(0.0) shifting(0.0) as(0.0) 
+much(0.0) as(0.0) 20(0.0) percent(0.0) of(0.0) its(0.0) domestic(1.0) capacity(0.0) and(0.0) its(0.0) largest(0.0) aircraft(0.0) to(0.0) international(0.0) service(0.0) ,(0.0) all(0.0) while(0.0) expanding(0.0) to(0.0) 
+all(0.0) 50(0.0) States(0.0) and(0.0) serving(0.0) 70(0.0) new(0.0) international(0.0) cities(0.0) .(0.0) Delta(0.0) recently(0.0) announced(0.0) the(0.0) recall(0.0) in(0.0) the(0.0) coming(0.0) months(0.0) of(0.0) 
+hundreds(0.0) of(0.0) furloughed(1.0) employees(0.0) ,(0.0) pilots(0.0) ,(0.0) flight(0.0) attendants(0.0) ,(0.0) mechanics(0.0) ,(0.0) and(0.0) others(0.0) .(0.0) Most(0.0) recently(0.0) ,(0.0) Delta(0.0) announced(0.0) 
+that(0.0) it(0.0) will(0.0) recall(0.0) another(0.0) 200(0.0) pilots(0.0) beyond(0.0) the(0.0) 130(0.0) pilots(0.0) already(0.0) recalled(0.0) this(0.0) year(0.0) .(0.0) Similarly(0.0) ,(0.0) Delta(1.0) recently(0.0) 
+brought(0.0) back(0.0) 1,250(0.0) flight(0.0) attendants(0.0) and(0.0) 900(0.0) mechanics(0.0) and(0.0) maintenance(0.0) workers(0.0) .(0.0) This(0.0) brings(0.0) to(0.0) nearly(0.0) 2,500(0.0) the(0.0) number(0.0) of(0.0) 
+employees(0.0) recalled(0.0) in(0.0) just(0.0) the(0.0) recent(0.0) months(0.0) .(0.0) This(0.0) week(0.0) ,(0.0) in(0.0) a(0.0) move(0.0) critical(0.0) to(0.0) its(0.0) ability(0.0) to(0.0) emerge(0.0) 
+from(0.0) bankruptcy(1.0) ,(0.0) Delta(1.0) agreed(0.0) with(0.0) the(0.0) Pension(1.0) Benefit(0.0) Guaranty(0.0) Corporation(0.0) to(0.0) terminate(0.0) Delta(0.0) 's(0.0) pension(1.0) plan(0.0) for(0.0) its(0.0) 
+
+
+----- below are rationale words -----
+
+Delta	
+bankruptcy	long-planned	
+
+Delta	creditors	
+Georgia	communities	
+proposal	would	jeopardize	debt	
+unsolicited	proposal	Delta	
+Gerald	Grinstein	wrote	Delta	
+restructuring	care	
+airline	Grinstein	wrote	again	
+outpouring	support	Delta	
+
+restructuring	bankruptcy	
+costs	revenue	domestic	
+
+contracts	demoralized	imploring	bankers	financing	
+Delta	Delta	
+Delta	domestic	
+domestic	
+
+furloughed	
+Delta	
+
+
+bankruptcy	Delta	Pension	pension	
+
+reads % = 0.096

@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) as(0.0) shocking(0.0) as(0.0) it(0.0) is(0.0) ,(0.0) I(0.0) have(0.0) to(0.0) agree(0.0) with(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) ((0.0) Mr.(0.0) Doggett(1.0) )(0.0) 
+.(0.0) He(0.0) is(0.0) right(0.0) on(0.0) target(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Arizona(0.0) ((0.0) Mr.(0.0) Hayworth(1.0) )(0.0) who(1.0) took(0.0) 
+to(0.0) the(0.0) well(0.0) here(0.0) ,(0.0) he(0.0) mentioned(0.0) a(0.0) couple(0.0) of(0.0) terms(0.0) to(0.0) describe(0.0) the(0.0) current(0.0) American(0.0) campaign(1.0) finance(1.0) system(0.0) .(0.0) 
+Those(0.0) people(0.0) sitting(0.0) up(0.0) there(0.0) in(0.0) the(0.0) Chamber(0.0) ,(0.0) they(0.0) know(0.0) that(0.0) the(0.0) only(0.0) word(0.0) that(0.0) he(0.0) said(0.0) that(0.0) was(0.0) 
+accurate(0.0) was(0.0) despicable(1.0) .(0.0) Announcement(0.0) By(0.0) The(0.0) Speaker(0.0) Pro(0.0) Tempore(0.0) 
+
+
+----- below are rationale words -----
+
+Doggett	
+Speaker	Hayworth	who	
+campaign	finance	
+
+despicable	
+
+reads % = 0.07692307692307693

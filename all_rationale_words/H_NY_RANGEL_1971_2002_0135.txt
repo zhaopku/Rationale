@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) further(1.0) reserving(1.0) the(0.0) right(1.0) to(0.0) object(1.0) ,(0.0) I(0.0) yield(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) the(0.0) 17th(0.0) Congressional(1.0) District(1.0) ,(0.0) the(0.0) 
+County(1.0) of(0.0) the(0.0) Bronx(1.0) ,(0.0) the(0.0) borough(1.0) de(1.0) Bronx(1.0) ,(0.0) the(0.0) city(1.0) and(0.0) State(1.0) of(0.0) New(0.0) York(0.0) ((0.0) Mr.(1.0) Engel(1.0) 
+)(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+further	reserving	right	object	Congressional	District	
+County	Bronx	borough	de	Bronx	city	State	Mr.	Engel	
+
+
+reads % = 0.3488372093023256

@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+4351(1.0) ,(0.0) legislation(0.0) that(0.0) will(0.0) provide(0.0) critical(0.0) tax(1.0) relief(1.0) to(0.0) millions(1.0) of(0.0) middle(1.0) class(1.0) Americans(1.0) .(0.0) I(0.0) support(0.0) the(0.0) Democratic(1.0) majority(1.0) 
+'s(0.0) commitment(0.0) to(0.0) passing(0.0) sensible(1.0) legislation(1.0) that(0.0) will(0.0) provide(0.0) a(0.0) solution(0.0) to(0.0) the(0.0) looming(1.0) Alternative(1.0) Minimum(0.0) Tax(1.0) crisis(1.0) .(0.0) I(0.0) 
+am(0.0) disappointed(0.0) that(0.0) President(0.0) Bush(1.0) and(0.0) the(0.0) Republican(1.0) minority(1.0) are(1.0) opposing(1.0) our(1.0) efforts(1.0) to(1.0) pass(1.0) this(1.0) legislation(1.0) .(1.0) If(1.0) this(1.0) 
+bill(1.0) is(1.0) not(1.0) passed(0.0) by(1.0) the(0.0) Senate(0.0) and(0.0) signed(0.0) by(0.0) the(0.0) President(1.0) ,(0.0) more(0.0) than(0.0) 60,000(0.0) families(0.0) which(0.0) I(0.0) have(0.0) 
+the(0.0) honor(1.0) of(0.0) representing(1.0) here(0.0) in(0.0) the(0.0) House(0.0) will(0.0) be(0.0) required(0.0) to(0.0) pay(1.0) the(0.0) AMT(1.0) when(0.0) filing(0.0) their(0.0) 2007(0.0) return(0.0) 
+--(0.0) an(0.0) increase(0.0) of(0.0) almost(0.0) 1000(0.0) percent(0.0) since(0.0) 2005(1.0) .(0.0) I(0.0) also(0.0) support(0.0) the(0.0) Democratic(1.0) majority(1.0) 's(0.0) continuing(0.0) commitment(0.0) to(0.0) 
+responsible(0.0) fiscal(1.0) policies(1.0) .(0.0) The(0.0) relief(1.0) provided(0.0) in(0.0) this(0.0) bill(1.0) is(0.0) paid(0.0) for(0.0) by(0.0) closing(0.0) tax(1.0) loopholes(1.0) that(1.0) allow(1.0) hedge(1.0) 
+fund(1.0) managers(1.0) and(1.0) corporate(1.0) CEOs(1.0) to(0.0) use(1.0) offshore(1.0) tax(1.0) havens(1.0) as(1.0) unlimited(1.0) retirement(1.0) accounts(1.0) .(1.0) That(1.0) the(0.0) President(1.0) and(0.0) his(0.0) 
+party(0.0) would(0.0) side(0.0) with(0.0) a(0.0) few(0.0) of(0.0) the(0.0) wealthiest(1.0) individuals(0.0) over(0.0) millions(1.0) of(0.0) middle(1.0) class(1.0) American(0.0) families(0.0) speaks(0.0) volumes(0.0) about(0.0) 
+their(0.0) misplaced(1.0) priorities(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+tax	relief	millions	middle	class	Americans	Democratic	majority	
+sensible	legislation	looming	Alternative	Tax	crisis	
+Bush	Republican	minority	are	opposing	our	efforts	to	pass	this	legislation	.	If	this	
+bill	is	not	by	President	
+honor	representing	pay	AMT	
+2005	Democratic	majority	
+fiscal	policies	relief	bill	tax	loopholes	that	allow	hedge	
+fund	managers	and	corporate	CEOs	use	offshore	tax	havens	as	unlimited	retirement	accounts	.	That	President	
+wealthiest	millions	middle	class	
+misplaced	priorities	
+
+reads % = 0.3837837837837838

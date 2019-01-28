@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) the(0.0) second(0.0) bill(1.0) we(0.0) will(0.0) debate(1.0) today(0.0) is(0.0) another(0.0) narrowly(0.0) crafted(0.0) bill(1.0) that(0.0) addresses(0.0) a(0.0) specific(0.0) problem(0.0) which(0.0) 
+we(0.0) find(0.0) in(0.0) the(0.0) OSHA(1.0) law(1.0) .(0.0) The(0.0) Occupational(1.0) Safety(0.0) and(0.0) Health(0.0) Review(0.0) Commission(0.0) Efficiency(1.0) Act(0.0) ,(0.0) H.R(0.0) .(0.0) 2729(0.0) 
+,(0.0) increases(0.0) the(0.0) membership(0.0) of(0.0) the(0.0) Occupational(0.0) Safety(0.0) and(0.0) Health(0.0) Review(0.0) Commission(0.0) from(0.0) three(0.0) to(0.0) five(0.0) members(0.0) to(0.0) ensure(0.0) that(0.0) 
+cases(0.0) are(0.0) heard(0.0) in(0.0) a(0.0) timely(0.0) fashion(0.0) .(0.0) Because(0.0) a(0.0) quorum(0.0) of(0.0) two(0.0) out(0.0) of(0.0) the(0.0) current(0.0) three(0.0) commissioners(0.0) is(0.0) 
+needed(0.0) for(0.0) timely(0.0) decision-making(0.0) ,(0.0) the(0.0) commission(0.0) has(0.0) in(0.0) the(0.0) past(0.0) been(0.0) unable(0.0) to(0.0) act(0.0) simply(0.0) because(0.0) a(0.0) quorum(0.0) was(0.0) 
+not(0.0) present(0.0) .(0.0) There(0.0) are(0.0) a(0.0) number(0.0) of(0.0) reasons(0.0) for(0.0) this(0.0) .(0.0) The(0.0) appointment(0.0) process(0.0) is(0.0) sometimes(0.0) controversial(1.0) ,(0.0) leading(0.0) 
+to(0.0) vacancies(0.0) ,(0.0) and(0.0) sometimes(0.0) commissioners(0.0) must(0.0) recuse(1.0) themselves(0.0) from(0.0) consideration(0.0) of(0.0) cases(0.0) ,(0.0) meaning(0.0) a(0.0) situation(0.0) is(0.0) created(0.0) where(0.0) 
+even(0.0) if(0.0) there(0.0) is(0.0) only(0.0) one(0.0) seat(0.0) open(0.0) ,(0.0) there(0.0) is(0.0) often(0.0) no(0.0) working(0.0) quorum(0.0) .(0.0) For(0.0) some(0.0) 20(0.0) percent(0.0) 
+of(0.0) its(0.0) history(0.0) ,(0.0) the(0.0) commission(0.0) has(0.0) been(0.0) unable(0.0) to(0.0) gain(0.0) a(0.0) working(0.0) quorum(0.0) ,(0.0) and(0.0) as(0.0) a(0.0) result(0.0) is(0.0) 
+simply(0.0) unable(0.0) to(0.0) function(0.0) despite(0.0) being(0.0) otherwise(0.0) fully(0.0) staffed(0.0) .(0.0) Increasing(1.0) the(0.0) membership(0.0) to(0.0) five(0.0) commissioners(0.0) will(0.0) ensure(0.0) that(0.0) cases(0.0) 
+are(0.0) reviewed(0.0) in(0.0) a(0.0) more(0.0) timely(0.0) fashion(0.0) ,(0.0) improving(0.0) the(0.0) current(0.0) system(0.0) of(0.0) judicial(1.0) inactivity(0.0) that(0.0) only(0.0) results(0.0) in(0.0) government(1.0) 
+waste(1.0) .(0.0) In(0.0) short(0.0) ,(0.0) it(0.0) will(0.0) allow(0.0) the(0.0) commission(0.0) to(0.0) complete(0.0) the(0.0) job(0.0) it(0.0) was(0.0) created(0.0) to(0.0) do(0.0) by(0.0) 
+reducing(1.0) case(0.0) backlogs(1.0) that(0.0) are(0.0) as(0.0) much(0.0) as(0.0) 8(0.0) years(0.0) old(0.0) .(0.0) The(0.0) commission(0.0) 's(0.0) sister(0.0) agency(0.0) ,(0.0) the(0.0) Federal(1.0) 
+Mine(0.0) Safety(0.0) and(0.0) Health(0.0) Review(0.0) Commission(0.0) ,(0.0) has(0.0) five(0.0) panelists(0.0) ,(0.0) and(0.0) we(0.0) found(0.0) it(0.0) has(0.0) worked(0.0) well(0.0) in(0.0) reviewing(0.0) 
+cases(0.0) more(0.0) efficiently(0.0) .(0.0) Lastly(0.0) ,(0.0) the(0.0) bill(1.0) permits(1.0) incumbent(1.0) members(0.0) whose(0.0) terms(0.0) have(0.0) expired(0.0) to(0.0) stay(0.0) on(0.0) until(0.0) a(0.0) 
+replacement(0.0) can(0.0) be(0.0) confirmed(0.0) by(0.0) the(0.0) Senate(0.0) .(0.0) Most(0.0) vacancies(0.0) occur(0.0) during(0.0) these(0.0) turnovers(0.0) .(0.0) We(0.0) want(0.0) small(0.0) businesses(1.0) hiring(0.0) 
+more(0.0) workers(1.0) and(0.0) contributing(0.0) to(0.0) our(0.0) economy(1.0) ,(0.0) not(0.0) facing(0.0) years(0.0) of(0.0) OSHA-related(0.0) litigation(1.0) that(0.0) they(0.0) can(0.0) not(0.0) resolve(0.0) simply(0.0) 
+because(0.0) the(0.0) commission(0.0) has(0.0) an(0.0) endless(0.0) backlog(1.0) of(0.0) cases(0.0) .(0.0) This(0.0) bill(1.0) simply(1.0) ensures(0.0) that(0.0) OSHA(1.0) cases(0.0) are(0.0) resolved(0.0) in(0.0) 
+a(0.0) timely(0.0) and(0.0) efficient(0.0) manner(0.0) ,(0.0) a(0.0) goal(0.0) that(0.0) I(0.0) think(0.0) we(0.0) all(0.0) support(0.0) .(0.0) Employers(1.0) who(0.0) make(0.0) good-faith(1.0) efforts(0.0) 
+to(0.0) comply(1.0) with(0.0) OSHA(1.0) standards(1.0) deserve(1.0) to(0.0) be(0.0) treated(0.0) fairly(0.0) and(0.0) have(0.0) their(0.0) day(0.0) in(0.0) court(1.0) .(0.0) This(0.0) measure(1.0) will(0.0) 
+help(0.0) ensure(0.0) that(0.0) they(0.0) receive(0.0) that(0.0) opportunity(0.0) .(0.0) Nearly(0.0) every(0.0) employer(1.0) today(0.0) recognizes(0.0) that(0.0) improving(0.0) workplace(1.0) safety(1.0) is(0.0) good(0.0) for(0.0) 
+business(0.0) and(0.0) it(0.0) is(0.0) good(0.0) for(0.0) workers(1.0) .(0.0) Employers(0.0) face(0.0) relentless(1.0) competition(1.0) both(0.0) at(0.0) home(0.0) and(0.0) abroad(0.0) and(0.0) they(0.0) must(0.0) 
+compete(0.0) in(0.0) the(0.0) face(0.0) of(0.0) high(0.0) taxes(1.0) ,(0.0) rising(1.0) health(1.0) insurance(1.0) premiums(1.0) and(0.0) burdensome(1.0) government(1.0) regulations(1.0) .(0.0) All(0.0) of(0.0) these(0.0) 
+OSHA(1.0) reform(1.0) bills(1.0) are(0.0) designed(0.0) to(0.0) improve(0.0) worker(1.0) safety(0.0) and(0.0) enhance(0.0) the(0.0) competitiveness(1.0) of(0.0) small(0.0) businesses(1.0) that(0.0) are(0.0) the(0.0) real(0.0) 
+engine(0.0) of(0.0) job(0.0) growth(1.0) in(0.0) this(0.0) country(1.0) .(0.0) The(0.0) U.S.(0.0) economy(1.0) is(0.0) improving(0.0) .(0.0) More(0.0) and(0.0) more(0.0) employers(1.0) are(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	bill	debate	bill	
+OSHA	law	Occupational	Efficiency	
+
+
+
+controversial	
+recuse	
+
+
+Increasing	
+judicial	government	
+waste	
+reducing	backlogs	Federal	
+
+bill	permits	incumbent	
+businesses	
+workers	economy	litigation	
+backlog	bill	simply	OSHA	
+Employers	good-faith	
+comply	OSHA	standards	deserve	court	measure	
+employer	workplace	safety	
+workers	relentless	competition	
+taxes	rising	health	insurance	premiums	burdensome	government	regulations	
+OSHA	reform	bills	worker	competitiveness	businesses	
+growth	country	economy	employers	
+
+reads % = 0.12

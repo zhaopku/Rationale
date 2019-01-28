@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) strike(1.0) the(0.0) requisite(0.0) number(0.0) of(0.0) words(0.0) .(0.0) I(0.0) have(0.0) the(0.0) greatest(0.0) respect(0.0) for(0.0) the(0.0) gentleman(0.0) from(0.0) 
+Pennsylvania(1.0) ((0.0) Mr.(0.0) MCDade(1.0) )(0.0) and(0.0) the(0.0) gentleman(0.0) from(0.0) Pennsylvania(1.0) ((0.0) Mr.(0.0) Murtha(1.0) )(0.0) and(0.0) the(0.0) cause(0.0) that(0.0) they(0.0) are(0.0) 
+out(0.0) here(0.0) about(0.0) today(0.0) .(0.0) I(0.0) happen(0.0) to(0.0) have(0.0) counseled(0.0) the(0.0) gentleman(0.0) from(0.0) Pennsylvania(1.0) ((0.0) Mr.(0.0) MCDade(1.0) )(0.0) back(1.0) when(0.0) 
+he(0.0) had(0.0) the(0.0) problems(0.0) that(0.0) I(0.0) know(0.0) he(0.0) did(0.0) ,(0.0) which(0.0) I(0.0) think(0.0) were(0.0) wrong(0.0) .(0.0) I(0.0) believe(0.0) he(0.0) was(0.0) 
+taken(0.0) through(0.0) hell(0.0) ,(0.0) and(0.0) I(0.0) think(0.0) it(0.0) was(0.0) a(0.0) very(0.0) improper(0.0) methodology(0.0) being(0.0) used(0.0) by(0.0) that(0.0) prosecutor(0.0) from(0.0) all(0.0) 
+I(0.0) knew(0.0) about(0.0) it(0.0) at(0.0) the(0.0) time(0.0) ,(0.0) and(0.0) I(0.0) knew(0.0) a(0.0) great(0.0) deal(0.0) .(0.0) But(0.0) ,(0.0) unfortunately(0.0) ,(0.0) I(0.0) 
+can(0.0) not(0.0) agree(0.0) with(0.0) the(0.0) proposal(1.0) that(0.0) is(0.0) in(0.0) the(0.0) bill(1.0) today(0.0) and(0.0) that(0.0) is(0.0) being(0.0) amended(0.0) or(0.0) attempting(0.0) to(0.0) 
+be(0.0) amended(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) Michigan(1.0) ((0.0) Mr.(0.0) Conyers(1.0) )(0.0) .(0.0) I(0.0) can(0.0) not(0.0) agree(0.0) with(0.0) that(0.0) .(0.0) I(0.0) 
+have(0.0) to(0.0) support(0.0) the(0.0) Hutchinson(1.0) amendment(1.0) to(0.0) strike(1.0) all(0.0) of(0.0) this(0.0) and(0.0) urge(0.0) that(0.0) all(0.0) of(0.0) it(0.0) be(0.0) taken(0.0) out(0.0) 
+of(0.0) this(0.0) bill(1.0) ,(0.0) because(0.0) I(0.0) do(0.0) not(0.0) think(0.0) we(0.0) can(0.0) simply(0.0) go(0.0) to(0.0) conference(0.0) and(0.0) perfect(0.0) something(0.0) that(0.0) is(0.0) 
+as(0.0) bad(0.0) ,(0.0) unfortunately(0.0) ,(0.0) as(0.0) the(0.0) way(0.0) this(0.0) is(0.0) crafted(0.0) .(0.0) I(0.0) would(0.0) hope(0.0) that(0.0) we(0.0) could(0.0) come(0.0) back(0.0) 
+at(0.0) some(0.0) point(0.0) as(0.0) a(0.0) body(0.0) ,(0.0) through(0.0) the(0.0) Committee(0.0) on(0.0) the(0.0) Judiciary(0.0) or(0.0) otherwise(0.0) ,(0.0) and(0.0) craft(0.0) something(0.0) that(0.0) 
+would(0.0) address(0.0) the(0.0) problems(0.0) that(0.0) I(0.0) think(0.0) are(0.0) genuine(0.0) ,(0.0) that(0.0) the(0.0) Members(0.0) from(0.0) Pennsylvania(1.0) ,(0.0) in(0.0) particular(0.0) ,(0.0) of(0.0) 
+both(0.0) parties(0.0) have(0.0) brought(0.0) to(0.0) our(0.0) attention(0.0) today(0.0) and(0.0) so(0.0) forcefully(0.0) and(0.0) rightfully(1.0) .(0.0) But(0.0) what(0.0) the(0.0) underlying(0.0) provision(1.0) that(0.0) 
+we(0.0) are(0.0) talking(0.0) about(0.0) striking(0.0) would(0.0) do(0.0) would(0.0) be(0.0) in(0.0) essence(0.0) to(0.0) permit(1.0) anybody(0.0) who(0.0) has(0.0) some(0.0) prosecutor(0.0) who(0.0) goes(0.0) 
+after(0.0) them(0.0) to(0.0) complain(0.0) to(0.0) the(0.0) Attorney(1.0) General(0.0) ,(0.0) and(0.0) the(0.0) Attorney(1.0) General(0.0) is(0.0) going(0.0) to(0.0) have(0.0) to(0.0) respond(0.0) with(0.0) 
+as(0.0) vague(0.0) a(0.0) standard(0.0) as(0.0) bringing(0.0) discredit(1.0) on(0.0) the(0.0) department(0.0) within(0.0) 30(0.0) days(0.0) .(0.0) That(0.0) could(0.0) cause(0.0) untold(1.0) delays(1.0) in(0.0) 
+hundreds(1.0) and(0.0) thousands(0.0) of(0.0) prosecutions(1.0) across(0.0) the(0.0) country(1.0) .(0.0) It(0.0) is(0.0) an(0.0) enormous(1.0) cost(1.0) in(0.0) bureaucracy(1.0) that(0.0) we(0.0) would(0.0) be(0.0) 
+setting(0.0) up(0.0) in(0.0) the(0.0) process(0.0) of(0.0) doing(0.0) this(0.0) .(0.0) Then(0.0) if(0.0) you(0.0) did(0.0) not(0.0) agree(0.0) ,(0.0) of(0.0) course(0.0) ,(0.0) with(0.0) 
+the(0.0) result(0.0) of(0.0) what(0.0) the(0.0) Attorney(1.0) General(0.0) decided(0.0) in(0.0) 30(0.0) days(0.0) ,(0.0) you(0.0) would(0.0) have(0.0) a(0.0) 7-member(0.0) board(0.0) that(0.0) has(0.0) 
+been(0.0) created(0.0) ,(0.0) that(0.0) sits(0.0) in(0.0) essence(0.0) outside(0.0) of(0.0) the(0.0) body(0.0) politic(1.0) of(0.0) the(0.0) Justice(1.0) Department(0.0) ,(0.0) to(0.0) review(0.0) the(0.0) 
+questions(0.0) that(0.0) may(0.0) be(0.0) raised(0.0) by(0.0) somebody(0.0) who(0.0) might(0.0) be(0.0) the(0.0) subject(0.0) of(0.0) indictment(1.0) or(0.0) prosecution(1.0) .(0.0) It(0.0) is(0.0) not(0.0) 
+that(0.0) you(0.0) may(0.0) be(0.0) should(0.0) not(0.0) have(0.0) some(0.0) review(0.0) in(0.0) very(0.0) limited(0.0) circumstances(0.0) ,(0.0) but(0.0) they(0.0) are(0.0) not(0.0) defined(0.0) well(0.0) 
+in(0.0) the(0.0) proposal(1.0) ,(0.0) unfortunately(0.0) ,(0.0) not(0.0) very(0.0) narrow(0.0) at(0.0) all(0.0) .(0.0) The(0.0) most(0.0) dangerous(1.0) provision(1.0) ,(0.0) from(0.0) my(0.0) perspective(0.0) 
+as(0.0) the(0.0) chairman(0.0) of(0.0) the(0.0) Subcommittee(0.0) on(0.0) Crime(0.0) in(0.0) the(0.0) House(0.0) ,(0.0) is(0.0) the(0.0) fact(0.0) that(0.0) information(0.0) could(0.0) be(0.0) 
+
+
+----- below are rationale words -----
+
+strike	
+Pennsylvania	MCDade	Pennsylvania	Murtha	
+Pennsylvania	MCDade	back	
+
+
+
+proposal	bill	
+Michigan	Conyers	
+Hutchinson	amendment	strike	
+bill	
+
+
+Pennsylvania	
+rightfully	provision	
+permit	
+Attorney	Attorney	
+discredit	untold	delays	
+hundreds	prosecutions	country	enormous	cost	bureaucracy	
+
+Attorney	
+politic	Justice	
+indictment	prosecution	
+
+proposal	dangerous	provision	
+
+
+reads % = 0.078

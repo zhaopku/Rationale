@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) this(0.0) House(0.0) should(1.0) not(0.0) adjourn(0.0) for(0.0) the(0.0) year(0.0) before(0.0) we(0.0) extend(0.0) the(0.0) enrollment(1.0) period(0.0) for(0.0) seniors(1.0) to(0.0) sign(0.0) up(0.0) 
+for(0.0) the(0.0) Republican(1.0) Medicare(1.0) prescription(1.0) drug(1.0) plan(1.0) .(1.0) I(1.0) did(1.0) not(1.0) support(1.0) the(0.0) law(1.0) ,(0.0) because(1.0) I(0.0) favored(1.0) a(0.0) benefit(0.0) 
+within(0.0) the(0.0) actual(0.0) Medicare(1.0) program(1.0) .(0.0) Instead(0.0) ,(0.0) Republicans(0.0) chose(1.0) a(1.0) plan(1.0) that(1.0) forced(1.0) seniors(1.0) to(0.0) choose(0.0) from(0.0) multiple(0.0) plans(0.0) 
+.(0.0) President(0.0) Bush(1.0) and(0.0) congressional(0.0) Republicans(1.0) say(1.0) it(1.0) is(1.0) necessary(1.0) to(1.0) have(1.0) multiple(1.0) drug(1.0) plans(1.0) competing(1.0) in(1.0) order(1.0) to(1.0) help(0.0) 
+drive(0.0) down(0.0) costs(1.0) ,(0.0) but(0.0) a(0.0) report(0.0) from(0.0) the(0.0) Government(1.0) Reform(1.0) Committee(0.0) says(0.0) the(0.0) complicated(0.0) drug(1.0) benefit(1.0) has(0.0) failed(0.0) to(0.0) 
+lower(0.0) drug(1.0) prices(1.0) .(0.0) The(0.0) prices(1.0) available(0.0) to(0.0) seniors(1.0) are(0.0) over(0.0) 80(0.0) percent(0.0) higher(1.0) than(0.0) those(0.0) negotiated(1.0) by(0.0) the(0.0) Federal(1.0) 
+Government(1.0) for(0.0) veterans(1.0) and(0.0) 60(0.0) percent(0.0) higher(1.0) than(0.0) the(0.0) prices(1.0) available(0.0) to(0.0) consumers(1.0) in(0.0) Canada(1.0) .(0.0) Instead(0.0) of(0.0) lowering(1.0) drug(1.0) 
+prices(1.0) ,(0.0) the(0.0) new(0.0) prescription(1.0) drug(1.0) plan(1.0) has(0.0) resulted(0.0) in(0.0) mass(1.0) confusion(0.0) for(0.0) seniors(1.0) .(0.0) Seniors(1.0) should(0.0) have(0.0) the(0.0) time(0.0) 
+to(0.0) make(0.0) the(0.0) best(0.0) choice(0.0) for(0.0) themselves(0.0) rather(0.0) than(0.0) be(0.0) penalized(1.0) if(0.0) they(0.0) do(0.0) not(0.0) make(0.0) a(0.0) decision(0.0) by(0.0) May(0.0) 
+15(0.0) .(0.0) We(0.0) should(0.0) extend(0.0) the(0.0) deadline(0.0) by(0.0) 6(0.0) months(0.0) before(0.0) we(0.0) leave(0.0) for(0.0) the(0.0) year(0.0) and(0.0) support(0.0) the(0.0) Stark-Schakowsky(0.0) 
+bill(1.0) ,(0.0) H.R(1.0) .(0.0) 3861(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+should	enrollment	seniors	
+Republican	Medicare	prescription	drug	plan	.	I	did	not	support	law	because	favored	
+Medicare	program	chose	a	plan	that	forced	seniors	
+Bush	Republicans	say	it	is	necessary	to	have	multiple	drug	plans	competing	in	order	to	
+costs	Government	Reform	drug	benefit	
+drug	prices	prices	seniors	higher	negotiated	Federal	
+Government	veterans	higher	prices	consumers	Canada	lowering	drug	
+prices	prescription	drug	plan	mass	seniors	Seniors	
+penalized	
+
+bill	H.R	
+
+reads % = 0.3333333333333333

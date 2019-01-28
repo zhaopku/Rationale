@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) first(0.0) I(0.0) want(1.0) to(0.0) commend(1.0) the(0.0) gentleman(0.0) from(0.0) Ohio(1.0) for(0.0) his(0.0) effort(0.0) and(0.0) support(0.0) for(0.0) correctional(1.0) officers(1.0) ,(0.0) 
+and(0.0) he(0.0) is(0.0) correct(0.0) that(0.0) in(0.0) subtitle(0.0) ((0.0) b(1.0) )(0.0) of(0.0) the(0.0) amendment(1.0) ,(0.0) the(0.0) definition(1.0) of(0.0) law(1.0) enforcement(0.0) position(0.0) 
+means(1.0) employment(1.0) as(0.0) an(0.0) officer(0.0) in(0.0) a(0.0) State(0.0) or(1.0) local(1.0) police(1.0) force(0.0) or(0.0) correctional(1.0) institution(0.0) and(0.0) ,(0.0) therefore(1.0) ,(0.0) should(0.0) 
+be(0.0) covered(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	want	commend	Ohio	correctional	officers	
+b	amendment	definition	law	
+means	employment	or	local	police	correctional	therefore	
+
+
+reads % = 0.265625

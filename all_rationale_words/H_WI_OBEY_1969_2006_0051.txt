@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) reluctantly(0.0) must(0.0) concede(0.0) the(0.0) point(0.0) of(0.0) order(0.0) .(0.0) I(0.0) would(0.0) have(0.0) preferred(0.0) that(0.0) the(0.0) gentleman(0.0) had(0.0) not(0.0) made(0.0) 
+the(0.0) point(0.0) of(0.0) order(0.0) ,(0.0) but(0.0) given(0.0) the(0.0) fact(0.0) he(0.0) has(0.0) done(0.0) it(0.0) ,(0.0) the(0.0) rule(1.0) under(0.0) which(0.0) this(0.0) bill(1.0) 
+is(0.0) being(0.0) debated(0.0) precludes(1.0) the(0.0) inclusion(1.0) of(0.0) this(0.0) amendment(1.0) .(0.0) I(0.0) very(0.0) much(0.0) regret(0.0) that(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+rule	bill	
+precludes	inclusion	amendment	
+
+reads % = 0.08771929824561403

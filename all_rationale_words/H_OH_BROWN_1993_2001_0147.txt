@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) my(0.0) friend(0.0) from(0.0) Florida(0.0) for(0.0) yielding(0.0) me(0.0) time(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) 2(0.0) months(0.0) ago(0.0) Republican(0.0) leadership(1.0) 
+and(1.0) the(1.0) gentleman(1.0) from(0.0) California(0.0) ((0.0) Mr.(0.0) Thomas(1.0) )(0.0) promised(1.0) us(1.0) if(1.0) we(1.0) voted(1.0) for(0.0) money(1.0) for(0.0) New(1.0) York(1.0) City(1.0) 
+,(0.0) then(0.0) they(0.0) would(0.0) help(0.0) unemployed(1.0) workers(1.0) .(0.0) They(0.0) never(0.0) did(0.0) .(0.0) Then(0.0) Republican(0.0) leadership(1.0) and(1.0) the(1.0) gentleman(1.0) from(0.0) California(0.0) 
+((0.0) Mr.(0.0) Thomas(1.0) )(0.0) promised(1.0) us(1.0) if(1.0) we(1.0) bailed(1.0) out(0.0) the(0.0) airlines(1.0) ,(0.0) then(0.0) they(0.0) would(0.0) help(0.0) unemployed(1.0) workers(1.0) .(0.0) 
+But(0.0) they(0.0) never(0.0) did(0.0) .(0.0) Then(0.0) Republican(0.0) leadership(1.0) and(1.0) the(1.0) gentleman(0.0) from(0.0) California(0.0) ((0.0) Mr.(0.0) Thomas(1.0) )(0.0) promised(1.0) if(1.0) we(1.0) 
+passed(0.0) the(0.0) stimulus(1.0) package(0.0) and(0.0) gave(0.0) huge(0.0) tax(1.0) cuts(1.0) to(1.0) the(1.0) biggest(1.0) corporations(1.0) in(1.0) America(1.0) ,(1.0) then(1.0) they(1.0) would(0.0) help(0.0) 
+unemployed(1.0) workers(1.0) .(0.0) But(0.0) they(0.0) never(0.0) did(0.0) .(0.0) Now(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) ((0.0) Mr.(0.0) Thomas(1.0) )(0.0) and(1.0) Republican(0.0) leadership(1.0) 
+are(1.0) promising(1.0) us(1.0) if(1.0) we(1.0) vote(1.0) for(1.0) Trade(1.0) Promotion(1.0) Authority(1.0) ,(1.0) then(1.0) they(1.0) will(1.0) help(0.0) unemployed(1.0) workers(1.0) .(0.0) Mr.(0.0) Speaker(1.0) 
+,(0.0) when(0.0) will(0.0) we(0.0) ever(0.0) learn(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	leadership	
+and	the	gentleman	Thomas	promised	us	if	we	voted	money	New	York	City	
+unemployed	workers	leadership	and	the	gentleman	
+Thomas	promised	us	if	we	bailed	airlines	unemployed	workers	
+leadership	and	the	Thomas	promised	if	we	
+stimulus	tax	cuts	to	the	biggest	corporations	in	America	,	then	they	
+unemployed	workers	Thomas	and	leadership	
+are	promising	us	if	we	vote	for	Trade	Promotion	Authority	,	then	they	will	unemployed	workers	Speaker	
+
+
+reads % = 0.4226190476190476

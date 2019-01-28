@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) want(0.0) to(0.0) thank(0.0) my(0.0) leader(0.0) ,(0.0) the(0.0) ranking(0.0) member(0.0) of(0.0) the(0.0) full(0.0) committee(0.0) ,(0.0) for(0.0) yielding(0.0) this(0.0) time(0.0) to(0.0) me(0.0) 
+.(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) strong(0.0) opposition(1.0) to(0.0) H.R(0.0) .(0.0) 2250(0.0) ,(0.0) the(0.0) Dirty(1.0) Boiler(1.0) Enhancement(0.0) and(0.0) 
+Enabler(0.0) bill(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) here(0.0) we(0.0) go(0.0) again(0.0) .(0.0) This(0.0) bill(1.0) represents(1.0) yet(0.0) another(0.0) Republican(0.0) unrestrained(1.0) ,(1.0) unrestricted(1.0) 
+assault(1.0) on(1.0) the(1.0) Clean(1.0) Air(1.0) Act(1.0) and(1.0) on(1.0) our(1.0) Nation(1.0) 's(1.0) most(1.0) fundamental(1.0) environmental(1.0) protection(1.0) laws(1.0) .(0.0) In(0.0) fact(0.0) ,(0.0) 
+since(0.0) the(0.0) new(0.0) Republican(1.0) majority(1.0) has(1.0) taken(1.0) over(1.0) ,(1.0) there(1.0) 's(1.0) been(1.0) a(0.0) constant(1.0) assault(1.0) against(1.0) the(0.0) Environmental(1.0) Protection(1.0) Agency(1.0) 
+and(0.0) the(0.0) clean(1.0) air(0.0) policies(0.0) that(0.0) they(0.0) enforce(1.0) on(0.0) behalf(0.0) of(0.0) a(0.0) few(0.0) of(0.0) the(0.0) most(0.0) avaricious(1.0) ,(0.0) opportunistic(1.0) ,(0.0) 
+and(0.0) dirtiest(1.0) polluters(1.0) ever(0.0) known(0.0) in(0.0) the(0.0) history(0.0) of(0.0) mankind(1.0) and(0.0) to(0.0) the(0.0) detriment(1.0) of(0.0) the(0.0) American(0.0) public(1.0) as(0.0) a(0.0) 
+whole(0.0) .(0.0) Since(0.0) the(0.0) new(0.0) Tea(0.0) Party-led(1.0) majority(1.0) has(1.0) taken(0.0) control(0.0) of(0.0) this(0.0) Congress(0.0) ,(0.0) this(0.0) body(0.0) has(0.0) passed(0.0) bill(0.0) 
+after(0.0) bill(0.0) that(0.0) will(0.0) weaken(1.0) our(0.0) Nation(1.0) 's(0.0) most(0.0) basic(0.0) clean(1.0) air(1.0) and(0.0) clean(1.0) water(1.0) regulations(1.0) .(0.0) One(0.0) of(0.0) the(0.0) 
+very(0.0) first(0.0) bills(0.0) that(0.0) this(0.0) new(0.0) radical(1.0) Republican(1.0) majority(1.0) passed(1.0) out(1.0) of(1.0) the(1.0) Energy(1.0) and(1.0) Commerce(1.0) Committee(0.0) ,(0.0) H.R(0.0) .(0.0) 
+910(0.0) ,(0.0) was(0.0) a(0.0) direct(0.0) frontal(0.0) attack(0.0) to(0.0) the(0.0) EPA(1.0) 's(0.0) ability(0.0) to(0.0) even(0.0) regulate(1.0) greenhouse(1.0) gas(1.0) emissions(1.0) at(0.0) all(0.0) 
+,(0.0) despite(0.0) the(0.0) warnings(0.0) and(0.0) evidence(0.0) from(0.0) those(0.0) in(0.0) the(0.0) scientific(0.0) community(0.0) that(0.0) these(0.0) gases(1.0) directly(0.0) contribute(0.0) to(0.0) climate(1.0) change(0.0) 
+.(0.0) Last(0.0) month(0.0) ,(0.0) the(0.0) radical(1.0) Republican(1.0) majority(1.0) followed(1.0) that(1.0) up(1.0) with(1.0) H.R(1.0) .(1.0) 2401(1.0) ,(1.0) the(0.0) TRAIN(0.0) Wreck(1.0) Act(1.0) 
+,(0.0) which(1.0) will(0.0) repeal(0.0) and(0.0) block(0.0) smog(1.0) ,(0.0) soot(1.0) ,(0.0) mercury(1.0) and(0.0) air(0.0) toxics(1.0) standards(1.0) for(0.0) power(0.0) plants(0.0) that(0.0) will(0.0) 
+potentially(0.0) save(0.0) thousands(0.0) of(0.0) lives(0.0) and(0.0) avoid(1.0) hundreds(0.0) of(0.0) thousands(1.0) of(0.0) asthma(1.0) attacks(1.0) in(0.0) this(0.0) Nation(1.0) .(0.0) Now(0.0) ,(0.0) here(0.0) 
+we(0.0) are(0.0) today(0.0) debating(1.0) H.R(0.0) .(0.0) 2250(0.0) ,(0.0) the(0.0) Dirty(1.0) Boiler(1.0) Enhancement(0.0) and(0.0) Enabler(0.0) bill(0.0) ,(0.0) which(0.0) would(0.0) vacate(0.0) three(0.0) 
+Clean(1.0) Air(0.0) Act(0.0) rules(0.0) that(0.0) establish(0.0) the(0.0) only(0.0) national(0.0) limits(0.0) on(0.0) emissions(1.0) of(0.0) air(1.0) toxics(1.0) ,(0.0) including(0.0) mercury(1.0) ,(0.0) from(0.0) 
+certain(0.0) boilers(1.0) and(0.0) incinerators(1.0) .(0.0) This(0.0) bill(0.0) would(1.0) require(0.0) EPA(1.0) to(0.0) propose(1.0) and(0.0) finalize(0.0) weaker(0.0) alternative(0.0) rules(1.0) that(0.0) will(0.0) allow(0.0) 
+for(0.0) more(0.0) pollution(1.0) than(0.0) the(0.0) law(1.0) currently(0.0) permits(1.0) by(0.0) intentionally(0.0) making(0.0) substantial(1.0) changes(0.0) in(0.0) how(0.0) the(0.0) EPA(1.0) sets(0.0) the(0.0) standards(1.0) 
+for(0.0) the(0.0) rules(1.0) .(0.0) At(0.0) a(0.0) minimum(0.0) ,(0.0) this(0.0) Dirty(1.0) Boiler(1.0) Enabler(0.0) and(0.0) Enhancement(0.0) bill(0.0) would(1.0) delay(1.0) EPA(1.0) reductions(1.0) from(0.0) 
+boilers(1.0) and(0.0) incinerators(1.0) until(0.0) at(0.0) least(0.0) 2018(0.0) ,(0.0) which(0.0) is(0.0) a(0.0) 3-year(0.0) delay(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) the(0.0) science(0.0) tells(0.0) 
+us(0.0) that(0.0) these(0.0) dirty(1.0) air(0.0) toxics(1.0) can(0.0) cause(0.0) a(0.0) variety(0.0) of(0.0) serious(0.0) health(1.0) effects(1.0) ,(0.0) including(0.0) cancer(1.0) ,(0.0) respiratory(1.0) and(0.0) 
+neurological(0.0) impairments(0.0) ,(0.0) as(0.0) well(0.0) as(0.0) reproductive(1.0) problems(0.0) .(0.0) The(0.0) research(0.0) also(0.0) tells(0.0) us(0.0) that(0.0) low-income(1.0) families(0.0) and(0.0) minorities(1.0) are(0.0) 
+disproportionately(1.0) affected(0.0) by(0.0) toxic(1.0) air(1.0) pollution(1.0) ,(0.0) including(1.0) impaired(1.0) neurological(1.0) development(0.0) ,(0.0) as(0.0) well(0.0) as(0.0) higher(0.0) rates(1.0) of(0.0) respiratory(0.0) and(0.0) 
+cardiovascular(0.0) disease(1.0) because(0.0) these(0.0) groups(0.0) are(0.0) more(0.0) likely(0.0) to(0.0) live(0.0) closer(0.0) to(0.0) industrial(1.0) power(0.0) plant(0.0) facilities(0.0) .(0.0) In(0.0) fact(0.0) 
+
+
+----- below are rationale words -----
+
+
+Chairman	opposition	Dirty	Boiler	
+Chairman	bill	represents	unrestrained	,	unrestricted	
+assault	on	the	Clean	Air	Act	and	on	our	Nation	's	most	fundamental	environmental	protection	laws	
+Republican	majority	has	taken	over	,	there	's	been	constant	assault	against	Environmental	Protection	Agency	
+clean	enforce	avaricious	opportunistic	
+dirtiest	polluters	mankind	detriment	public	
+Party-led	majority	has	
+weaken	Nation	clean	air	clean	water	regulations	
+radical	Republican	majority	passed	out	of	the	Energy	and	Commerce	
+EPA	regulate	greenhouse	gas	emissions	
+gases	climate	
+radical	Republican	majority	followed	that	up	with	H.R	.	2401	,	Wreck	Act	
+which	smog	soot	mercury	toxics	standards	
+avoid	thousands	asthma	attacks	Nation	
+debating	Dirty	Boiler	
+Clean	emissions	air	toxics	mercury	
+boilers	incinerators	would	EPA	propose	rules	
+pollution	law	permits	substantial	EPA	standards	
+rules	Dirty	Boiler	would	delay	EPA	reductions	
+boilers	incinerators	Chairman	
+dirty	toxics	health	effects	cancer	respiratory	
+reproductive	low-income	minorities	
+disproportionately	toxic	air	pollution	including	impaired	neurological	rates	
+disease	industrial	
+
+reads % = 0.3

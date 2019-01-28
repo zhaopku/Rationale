@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) pass(0.0) the(0.0) Senate(0.0) bill(0.0) ((1.0) S.(1.0) 1773(1.0) )(0.0) to(0.0) resolve(0.0) certain(0.0) Native(0.0) 
+American(0.0) claims(0.0) in(0.0) New(1.0) Mexico(1.0) ,(0.0) and(0.0) for(0.0) other(0.0) purposes(0.0) .(0.0) The(0.0) Clerk(0.0) read(0.0) as(0.0) follows(0.0) :(0.0) S.(0.0) 1773(0.0) Be(0.0) 
+it(0.0) enacted(0.0) by(0.0) the(0.0) Senate(0.0) and(0.0) House(0.0) of(0.0) Representatives(0.0) of(0.0) the(0.0) United(0.0) States(0.0) of(0.0) America(0.0) in(0.0) Congress(0.0) assembled(0.0) ,(0.0) SECTION(0.0) 
+1(0.0) .(0.0) SHORT(0.0) TITLE(0.0) .(0.0) This(0.0) Act(0.0) may(0.0) be(0.0) cited(0.0) as(0.0) the(0.0) ``(0.0) Pueblo(0.0) de(0.0) San(0.0) Ildefonso(0.0) Claims(0.0) Settlement(0.0) Act(0.0) 
+of(0.0) 2005(0.0) ''(0.0) .(0.0) SEC(0.0) .(0.0) 2(0.0) .(0.0) DEFINITIONS(0.0) AND(0.0) PURPOSES(0.0) .(0.0) ((0.0) a(0.0) )(0.0) Definitions.(0.0) --(0.0) In(0.0) this(0.0) Act(0.0) 
+:(0.0) ((0.0) 1(0.0) )(0.0) Administrative(0.0) access.(0.0) --(0.0) The(0.0) term(0.0) ``(0.0) administrative(0.0) access(0.0) ''(0.0) means(0.0) the(0.0) unrestricted(0.0) use(0.0) of(0.0) land(0.0) and(0.0) 
+interests(0.0) in(0.0) land(0.0) for(0.0) ingress(0.0) and(0.0) egress(0.0) by(0.0) an(0.0) agency(0.0) of(0.0) the(0.0) United(0.0) States(0.0) ((0.0) including(0.0) a(0.0) permittee(0.0) ,(0.0) contractor(0.0) 
+,(0.0) agent(0.0) ,(0.0) or(0.0) assignee(0.0) of(0.0) the(0.0) United(0.0) States(0.0) )(0.0) in(0.0) order(0.0) to(0.0) carry(0.0) out(0.0) an(0.0) activity(0.0) authorized(0.0) by(0.0) law(0.0) 
+or(0.0) regulation(0.0) ,(0.0) or(0.0) otherwise(0.0) in(0.0) furtherance(0.0) of(0.0) the(0.0) management(0.0) of(0.0) federally-owned(0.0) land(0.0) and(0.0) resources(0.0) .(0.0) ((0.0) 2(0.0) )(0.0) County.(0.0) 
+--(0.0) The(0.0) term(0.0) ``(0.0) County(0.0) ''(0.0) means(0.0) the(0.0) incorporated(0.0) county(0.0) of(0.0) Los(1.0) Alamos(0.0) ,(0.0) New(0.0) Mexico(1.0) .(0.0) ((0.0) 3(0.0) )(0.0) 
+Los(0.0) alamos(0.0) agreement.(1.0) --(0.0) The(0.0) term(0.0) ``(0.0) Los(0.0) Alamos(0.0) Agreement(0.0) ''(0.0) means(0.0) the(0.0) agreement(0.0) among(0.0) the(0.0) County(0.0) ,(0.0) the(0.0) Pueblo(0.0) 
+,(0.0) the(0.0) Department(0.0) of(0.0) Agriculture(0.0) Forest(0.0) Service(0.0) ,(0.0) and(0.0) the(0.0) Bureau(0.0) of(0.0) Indian(0.0) Affairs(0.0) dated(0.0) January(0.0) 22(0.0) ,(0.0) 2004(0.0) .(0.0) 
+((0.0) 4(0.0) )(0.0) Los(0.0) alamos(0.0) townsite(0.0) land.(0.0) --(0.0) ``(0.0) Los(0.0) Alamos(0.0) Townsite(1.0) Land(0.0) ''(0.0) means(0.0) the(0.0) land(0.0) identified(0.0) as(0.0) Attachment(0.0) 
+B(0.0) ((0.0) dated(0.0) December(0.0) 12(0.0) ,(0.0) 2003(0.0) )(0.0) to(0.0) the(0.0) Los(0.0) Alamos(0.0) Agreement(0.0) .(0.0) ((0.0) 5(0.0) )(0.0) Northern(0.0) tier(0.0) land.(0.0) 
+--(0.0) ``(0.0) Northern(0.0) Tier(0.0) Land(0.0) ''(0.0) means(0.0) the(0.0) land(0.0) comprising(0.0) approximately(0.0) 739.71(0.0) acres(0.0) and(0.0) identified(0.0) as(0.0) ``(0.0) Northern(0.0) Tier(0.0) Lands(0.0) 
+''(0.0) in(0.0) Appendix(0.0) B(0.0) ((0.0) dated(0.0) August(0.0) 3(0.0) ,(0.0) 2004(0.0) )(0.0) to(0.0) the(0.0) Settlement(0.0) Agreement(0.0) .(0.0) ((0.0) 6(0.0) )(0.0) Pending(0.0) 
+litigation.(0.0) --(0.0) The(0.0) term(0.0) ``(0.0) Pending(0.0) Litigation(0.0) ''(0.0) means(0.0) the(0.0) case(0.0) styled(0.0) Pueblo(0.0) of(0.0) San(1.0) Ildefonso(0.0) v.(0.0) United(0.0) States(0.0) ,(0.0) 
+Docket(0.0) Number(0.0) 354(0.0) ,(0.0) originally(0.0) filed(0.0) with(0.0) the(0.0) Indian(0.0) Claims(0.0) Commission(0.0) and(0.0) pending(0.0) in(0.0) the(0.0) United(0.0) States(0.0) Court(0.0) of(0.0) Federal(0.0) 
+Claims(0.0) on(0.0) the(0.0) date(0.0) of(0.0) enactment(0.0) of(0.0) this(0.0) Act(0.0) .(0.0) ((0.0) 7(0.0) )(0.0) Pueblo.(0.0) --(0.0) The(0.0) term(0.0) ``(0.0) Pueblo(0.0) ''(0.0) 
+means(0.0) the(0.0) Pueblo(0.0) de(0.0) San(0.0) Ildefonso(0.0) ,(0.0) a(0.0) federally(0.0) recognized(0.0) Indian(0.0) tribe(0.0) ((0.0) also(0.0) known(0.0) as(0.0) the(0.0) ``(0.0) Pueblo(0.0) of(0.0) 
+San(1.0) Ildefonso(0.0) ''(0.0) )(0.0) .(0.0) ((0.0) 8(0.0) )(0.0) Settlement(0.0) agreement.(0.0) --(0.0) The(0.0) term(0.0) ``(0.0) Settlement(0.0) Agreement(0.0) ''(0.0) means(0.0) the(0.0) agreement(0.0) 
+entitled(0.0) ``(0.0) Settlement(0.0) Agreement(0.0) between(0.0) the(0.0) United(0.0) States(0.0) and(0.0) the(0.0) Pueblo(0.0) de(0.0) San(0.0) Ildefonso(0.0) to(0.0) Resolve(0.0) All(0.0) of(0.0) the(0.0) Pueblo(0.0) 
+'s(0.0) Land(0.0) Title(0.0) and(0.0) Trespass(0.0) Claims(0.0) ''(0.0) and(0.0) dated(0.0) June(0.0) 7(0.0) ,(0.0) 2005(0.0) .(0.0) ((0.0) 9(0.0) )(0.0) Settlement(0.0) area(0.0) land.(0.0) 
+--(0.0) The(0.0) term(0.0) ``(0.0) Settlement(0.0) Area(0.0) Land(0.0) ''(0.0) means(0.0) the(0.0) National(0.0) Forest(0.0) System(0.0) land(0.0) located(0.0) within(0.0) the(0.0) Santa(0.0) Fe(0.0) National(0.0) 
+Forest(0.0) ,(0.0) as(0.0) described(0.0) in(0.0) Appendix(0.0) B(0.0) to(0.0) the(0.0) Settlement(0.0) Agreement(0.0) ,(0.0) that(0.0) is(0.0) available(0.0) for(0.0) purchase(0.0) by(0.0) the(0.0) 
+
+
+----- below are rationale words -----
+
+(	S.	1773	
+New	Mexico	
+
+
+
+
+
+
+
+Los	Mexico	
+agreement.	
+
+Townsite	
+
+
+
+San	
+
+
+
+San	
+
+
+
+
+
+reads % = 0.022

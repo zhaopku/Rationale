@@ -1,0 +1,40 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) this(0.0) amendment(1.0) continues(1.0) chipping(1.0) away(0.0) at(0.0) the(0.0) entire(0.0) concept(0.0) of(0.0) punitive(1.0) damages(1.0) by(0.0) reducing(1.0) punitive(1.0) damages(1.0) over(0.0) $(0.0) 
+250,000(0.0) by(0.0) an(0.0) additional(0.0) 75(0.0) percent(0.0) and(0.0) giving(0.0) it(0.0) to(0.0) the(0.0) Federal(1.0) or(0.0) State(0.0) treasury(0.0) rather(0.0) than(0.0) to(0.0) the(0.0) individual(0.0) 
+who(0.0) sued(0.0) .(0.0) Do(0.0) State(0.0) treasuries(0.0) want(0.0) these(0.0) awards(0.0) ?(0.0) New(0.0) York(1.0) said(1.0) ,(0.0) ``(0.0) No(0.0) thanks(0.0) ,(0.0) ''(0.0) and(0.0) 
+repealed(1.0) its(0.0) apportionment(1.0) law(1.0) .(0.0) In(0.0) Colorado(1.0) ,(0.0) the(0.0) supreme(1.0) court(0.0) held(0.0) that(0.0) giving(0.0) punitive(1.0) awards(0.0) to(0.0) a(0.0) State(0.0) fund(0.0) 
+was(0.0) an(0.0) unconstitutional(1.0) ``(0.0) taking(0.0) .(0.0) ''(0.0) Who(0.0) benefits(0.0) ?(0.0) The(0.0) corporations(1.0) who(0.0) will(0.0) simply(0.0) build(0.0) economic(1.0) damages(0.0) into(0.0) their(0.0) 
+costs(1.0) of(0.0) doing(0.0) business(0.0) ,(0.0) without(0.0) fear(0.0) of(0.0) facing(0.0) large(0.0) punitive(1.0) damages(1.0) that(0.0) would(0.0) have(0.0) deterred(0.0) them(0.0) from(0.0) knowingly(1.0) selling(0.0) 
+products(0.0) that(0.0) cause(0.0) devastating(0.0) injury(0.0) to(0.0) the(0.0) buyer(0.0) .(0.0) Who(0.0) loses(0.0) ?(0.0) Those(0.0) at(0.0) the(0.0) lower(0.0) end(0.0) of(0.0) the(0.0) economic(1.0) 
+scale(0.0) who(0.0) will(0.0) have(0.0) less(0.0) incentive(1.0) to(0.0) sue(1.0) ,(0.0) especially(0.0) when(0.0) their(0.0) recovery(1.0) is(0.0) determined(0.0) by(0.0) how(0.0) much(0.0) they(0.0) earn(0.0) 
+rather(0.0) than(0.0) the(0.0) outrageousness(1.0) of(0.0) the(0.0) defendant's(0.0) conduct(0.0) .(0.0) Some(0.0) Members(0.0) on(0.0) the(0.0) other(0.0) side(0.0) will(0.0) argue(1.0) that(0.0) punitive(1.0) damages(1.0) 
+should(0.0) punish(1.0) wrongdoers(1.0) and(0.0) are(0.0) not(0.0) intended(0.0) to(0.0) compensate(0.0) plaintiffs(1.0) ,(0.0) but(0.0) they(0.0) should(0.0) know(0.0) better(0.0) .(0.0) Lawsuits(1.0) brought(0.0) by(0.0) 
+victims(1.0) ,(0.0) not(0.0) Government(1.0) regulation(1.0) ,(0.0) brought(0.0) about(0.0) safety(0.0) improvements(1.0) like(0.0) restricting(1.0) asbestos(1.0) use(0.0) ,(0.0) like(0.0) beepers(1.0) on(0.0) reversing(1.0) garbage(1.0) 
+trucks(1.0) that(0.0) had(0.0) resulted(0.0) in(0.0) numerous(0.0) injuries(0.0) to(0.0) children(0.0) ,(0.0) like(0.0) recalling(0.0) the(0.0) Dalkon(1.0) Shield(1.0) .(0.0) Punitive(1.0) damages(0.0) put(0.0) an(0.0) 
+end(0.0) to(0.0) the(0.0) exploding(1.0) fuel(1.0) tank(0.0) and(0.0) the(0.0) heart(0.0) by-pass(1.0) drug(1.0) that(0.0) resulted(1.0) in(0.0) amputation(1.0) caused(1.0) by(0.0) gangrene(1.0) .(0.0) The(0.0) 
+likely(0.0) result(0.0) if(0.0) this(0.0) amendment(1.0) passes(1.0) is(0.0) more(0.0) dangerous(1.0) products(1.0) on(0.0) the(0.0) market(1.0) and(0.0) less(0.0) incentive(1.0) for(0.0) the(0.0) victims(1.0) to(0.0) 
+sue(1.0) ,(0.0) a(0.0) prospect(0.0) that(0.0) does(0.0) not(0.0) advance(0.0) the(0.0) common(0.0) good(0.0) but(0.0) will(0.0) only(0.0) please(0.0) the(0.0) sponsors(0.0) of(0.0) this(0.0) Contract(1.0) 
+with(0.0) Corporate(0.0) America(1.0) .(0.0) Please(0.0) reject(1.0) the(0.0) Hoke(1.0) amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	amendment	continues	chipping	punitive	damages	reducing	punitive	damages	
+Federal	
+York	said	
+repealed	apportionment	law	Colorado	supreme	punitive	
+unconstitutional	corporations	economic	
+costs	punitive	damages	knowingly	
+economic	
+incentive	sue	recovery	
+outrageousness	argue	punitive	damages	
+punish	wrongdoers	plaintiffs	Lawsuits	
+victims	Government	regulation	improvements	restricting	asbestos	beepers	reversing	garbage	
+trucks	Dalkon	Shield	Punitive	
+exploding	fuel	by-pass	drug	resulted	amputation	caused	gangrene	
+amendment	passes	dangerous	products	market	incentive	victims	
+sue	Contract	
+America	reject	Hoke	amendment	
+
+reads % = 0.2282958199356913

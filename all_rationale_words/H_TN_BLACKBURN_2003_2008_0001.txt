@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) think(0.0) we(0.0) all(0.0) know(0.0) that(0.0) the(0.0) best(0.0) economic(1.0) stimulus(1.0) is(0.0) a(0.0) job(0.0) .(0.0) It(0.0) is(0.0) a(0.0) job(0.0) 
+that(0.0) you(0.0) can(0.0) sink(0.0) your(0.0) teeth(0.0) into(0.0) ,(0.0) that(0.0) you(0.0) can(0.0) go(0.0) to(0.0) work(0.0) every(0.0) day(0.0) and(0.0) you(0.0) can(0.0) use(0.0) 
+this(0.0) job(0.0) to(0.0) provide(0.0) for(0.0) your(0.0) family(0.0) .(0.0) So(0.0) ,(0.0) as(0.0) the(0.0) debate(1.0) ensues(1.0) ,(0.0) let(0.0) 's(0.0) keep(0.0) our(0.0) focus(0.0) 
+on(0.0) how(0.0) policies(1.0) affect(0.0) the(0.0) environment(0.0) in(0.0) which(0.0) job(0.0) growth(1.0) takes(0.0) place(0.0) .(0.0) Of(0.0) course(0.0) we(0.0) all(0.0) want(0.0) to(0.0) see(0.0) 
+lower(0.0) marginal(1.0) rates(1.0) on(0.0) our(0.0) income(1.0) tax(1.0) rate(1.0) .(0.0) We(0.0) want(0.0) to(0.0) lower(0.0) cap(1.0) gains(1.0) .(0.0) We(0.0) want(0.0) to(0.0) lower(0.0) 
+the(0.0) corporate(1.0) tax(1.0) rate(1.0) .(0.0) We(0.0) want(0.0) to(0.0) see(0.0) full(0.0) and(0.0) immediate(0.0) section(0.0) 179(0.0) expensing(1.0) for(0.0) our(0.0) small(0.0) businesses(1.0) .(0.0) 
+And(0.0) for(0.0) those(0.0) of(0.0) us(0.0) that(0.0) live(0.0) in(0.0) States(1.0) that(0.0) do(0.0) not(0.0) have(0.0) a(0.0) State(0.0) income(0.0) tax(1.0) ,(0.0) we(0.0) want(0.0) 
+to(0.0) see(0.0) deductibility(1.0) of(0.0) State(0.0) sales(0.0) tax(0.0) extended(1.0) .(0.0) All(0.0) of(0.0) these(0.0) are(0.0) good(0.0) things(0.0) and(0.0) ,(0.0) Madam(0.0) Speaker(1.0) ,(0.0) 
+we(0.0) are(0.0) working(0.0) for(0.0) all(0.0) of(0.0) these(0.0) .(0.0) I(0.0) hope(0.0) that(0.0) we(0.0) also(0.0) will(0.0) keep(0.0) in(0.0) mind(0.0) that(0.0) actions(1.0) speak(0.0) 
+louder(0.0) than(0.0) words(0.0) .(0.0) So(0.0) this(0.0) body(0.0) should(0.0) use(0.0) this(0.0) conversation(0.0) about(0.0) economic(1.0) stimulus(1.0) as(0.0) an(0.0) opportunity(0.0) to(0.0) prioritize(1.0) and(0.0) 
+reduce(1.0) what(0.0) the(0.0) Federal(1.0) Government(1.0) spends(1.0) .(0.0) Reduce(1.0) the(0.0) budget(1.0) .(0.0) Let(0.0) 's(0.0) spend(1.0) less(0.0) .(0.0) And(0.0) remember(0.0) ,(0.0) the(0.0) 
+best(0.0) economic(1.0) stimulus(1.0) is(0.0) a(0.0) job(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+economic	stimulus	
+
+debate	ensues	
+policies	growth	
+marginal	rates	income	tax	rate	cap	gains	
+corporate	tax	rate	expensing	businesses	
+States	tax	
+deductibility	extended	Speaker	
+actions	
+economic	stimulus	prioritize	
+reduce	Federal	Government	spends	Reduce	budget	spend	
+economic	stimulus	
+
+reads % = 0.15789473684210525

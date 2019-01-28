@@ -1,0 +1,34 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(1.0) ,(0.0) as(0.0) a(0.0) cosponsor(1.0) of(0.0) the(0.0) Working(0.0) Lands(0.0) Stewardship(1.0) Act(0.0) ,(0.0) I(0.0) rise(1.0) in(0.0) strong(0.0) support(0.0) of(0.0) the(0.0) Boehlert-Kind-(1.0) Gilchrest-Dingell(1.0) 
+amendment(1.0) to(0.0) H.R(0.0) .(0.0) 2646(1.0) .(0.0) Like(0.0) the(0.0) Working(0.0) Lands(0.0) Stewardship(1.0) Act(0.0) ,(0.0) this(0.0) amendment(1.0) will(0.0) substantially(1.0) increase(1.0) resources(0.0) for(0.0) 
+farm(1.0) conservation(0.0) .(0.0) American(0.0) farmers(1.0) are(0.0) the(0.0) most(1.0) productive(0.0) in(0.0) the(0.0) world(0.0) and(0.0) are(0.0) responsible(1.0) for(0.0) the(0.0) largest(0.0) export(1.0) sector(1.0) 
+in(0.0) our(0.0) economy(1.0) .(0.0) Yet(0.0) our(0.0) farmers(0.0) are(0.0) also(1.0) sensitive(0.0) to(0.0) the(0.0) environment(0.0) on(0.0) which(0.0) they(0.0) depend(0.0) for(0.0) their(0.0) livelihoods(0.0) 
+.(0.0) The(0.0) competition(0.0) for(0.0) federal(1.0) farm(1.0) conservation(0.0) programs(1.0) proves(0.0) this(0.0) fact(0.0) .(0.0) Three(1.0) of(0.0) every(0.0) four(0.0) applications(0.0) for(0.0) conservation(0.0) programs(1.0) 
+are(0.0) turned(1.0) down(1.0) because(0.0) of(0.0) a(0.0) lack(0.0) of(0.0) funding(1.0) .(0.0) Clearly(1.0) ,(0.0) American(0.0) farmers(1.0) want(1.0) to(0.0) be(0.0) good(0.0) stewards(0.0) of(0.0) 
+the(0.0) environment(0.0) and(0.0) want(1.0) greater(0.0) funding(1.0) for(0.0) conservation(0.0) programs(1.0) .(0.0) This(0.0) amendment(1.0) provides(0.0) these(0.0) resources(0.0) .(0.0) The(0.0) amendment(1.0) will(0.0) also(1.0) 
+provide(0.0) more(0.0) equity(1.0) to(0.0) farmers(0.0) who(0.0) do(0.0) not(1.0) grow(1.0) traditional(1.0) commodity(1.0) products(0.0) ,(0.0) such(0.0) as(0.0) corn(1.0) ,(0.0) soybeans(1.0) ,(0.0) and(0.0) 
+wheat(1.0) .(0.0) In(0.0) my(0.0) district(1.0) ,(0.0) farmers(0.0) grow(1.0) specialty(1.0) crops(0.0) ,(0.0) such(0.0) as(0.0) brussels(1.0) sprouts(1.0) ,(0.0) which(0.0) are(0.0) eligible(1.0) for(0.0) 
+commodity(1.0) assistance(0.0) .(0.0) Through(1.0) this(0.0) amendment(1.0) ,(0.0) more(0.0) of(0.0) these(0.0) farmers(1.0) will(0.0) be(0.0) eligible(1.0) for(0.0) federal(1.0) assistance(0.0) under(0.0) conservation(0.0) programs(1.0) 
+.(0.0) This(0.0) investment(1.0) will(0.0) not(1.0) only(0.0) benefit(0.0) our(0.0) farmers(0.0) ,(0.0) it(0.0) will(0.0) benefit(0.0) our(0.0) environment(0.0) ,(0.0) protect(0.0) wildlife(0.0) habitats(1.0) and(0.0) 
+wetlands(1.0) ,(0.0) and(0.0) promote(0.0) organic(1.0) and(0.0) environmentally(1.0) friendly(0.0) farming(1.0) techniques(1.0) .(0.0) I(0.0) urge(1.0) my(0.0) colleagues(1.0) to(0.0) vote(1.0) for(0.0) the(0.0) Boehlert-Kind-Gilchrest-Dingell(1.0) 
+amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+cosponsor	Stewardship	rise	Boehlert-Kind-	Gilchrest-Dingell	
+amendment	2646	Stewardship	amendment	substantially	increase	
+farm	farmers	most	responsible	export	sector	
+economy	also	
+federal	farm	programs	Three	programs	
+turned	down	funding	Clearly	farmers	want	
+want	funding	programs	amendment	amendment	also	
+equity	not	grow	traditional	commodity	corn	soybeans	
+wheat	district	grow	specialty	brussels	sprouts	eligible	
+commodity	Through	amendment	farmers	eligible	federal	programs	
+investment	not	habitats	
+wetlands	organic	environmentally	farming	techniques	urge	colleagues	vote	Boehlert-Kind-Gilchrest-Dingell	
+amendment	
+
+reads % = 0.2880658436213992

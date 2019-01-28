@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) to(0.0) honor(0.0) the(0.0) 150th(1.0) anniversary(0.0) of(0.0) the(0.0) Brotherhood(1.0) of(0.0) Locomotive(0.0) Engineers(0.0) and(0.0) Trainmen(1.0) ,(0.0) North(0.0) America's(0.0) 
+oldest(0.0) rail(1.0) labor(1.0) union(1.0) .(0.0) Since(0.0) its(0.0) founding(1.0) on(0.0) May(0.0) 8(0.0) ,(0.0) 1863(0.0) ,(0.0) the(0.0) BLET(1.0) has(0.0) always(0.0) played(0.0) a(0.0) 
+critical(0.0) role(0.0) in(0.0) the(0.0) transportation(0.0) of(0.0) people(0.0) and(0.0) goods(0.0) throughout(0.0) our(0.0) Nation(1.0) .(0.0) As(0.0) America(0.0) expanded(0.0) westward(0.0) ,(0.0) locomotive(0.0) engineers(0.0) 
+and(0.0) trainmen(0.0) led(0.0) the(0.0) way(0.0) .(0.0) Our(0.0) men(0.0) and(0.0) women(0.0) on(0.0) the(0.0) railroads(1.0) connected(0.0) two(0.0) oceans(0.0) and(0.0) opened(0.0) up(0.0) the(0.0) 
+new(0.0) frontier(0.0) .(0.0) Today(0.0) ,(0.0) U.S.(0.0) railroads(1.0) transport(0.0) 2.5(0.0) trillion(1.0) metric(1.0) tons(0.0) a(0.0) year(0.0) .(0.0) As(0.0) we(0.0) expand(0.0) into(0.0) new(0.0) 
+technology(0.0) and(0.0) high-speed(1.0) rail(1.0) ,(0.0) locomotive(0.0) engineers(0.0) will(0.0) continue(0.0) to(0.0) propel(0.0) the(0.0) American(0.0) economy(1.0) forward(0.0) .(0.0) The(0.0) Brotherhood(1.0) of(0.0) Locomotive(0.0) 
+Engineers(0.0) and(0.0) Trainmen(0.0) now(0.0) counts(0.0) 55,000(0.0) active(0.0) and(0.0) retired(0.0) members(0.0) among(0.0) its(0.0) ranks(0.0) .(0.0) These(0.0) are(0.0) the(0.0) men(0.0) and(0.0) women(0.0) 
+who(0.0) work(0.0) around(0.0) the(0.0) clock(0.0) to(0.0) literally(0.0) make(0.0) the(0.0) trains(0.0) run(0.0) on(0.0) time(0.0) .(0.0) In(0.0) recognition(0.0) of(0.0) the(0.0) 150th(0.0) anniversary(0.0) 
+of(0.0) the(0.0) Brotherhood(0.0) ,(0.0) I(0.0) ask(0.0) my(0.0) colleagues(0.0) to(0.0) join(0.0) me(0.0) in(0.0) passing(0.0) a(0.0) resolution(1.0) to(0.0) honor(0.0) them(0.0) for(0.0) their(0.0) 
+contributions(1.0) in(0.0) growing(0.0) this(0.0) great(0.0) Nation(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+150th	Brotherhood	Trainmen	
+rail	labor	union	founding	BLET	
+Nation	
+railroads	
+railroads	trillion	metric	
+high-speed	rail	economy	Brotherhood	
+
+
+resolution	
+contributions	Nation	
+
+reads % = 0.10638297872340426

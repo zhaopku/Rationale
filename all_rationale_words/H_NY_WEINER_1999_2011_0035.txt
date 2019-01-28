@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+If(0.0) the(0.0) gentleman(0.0) would(0.0) yield(0.0) ,(0.0) I(0.0) also(0.0) think(0.0) we(0.0) need(0.0) to(0.0) change(0.0) the(0.0) way(0.0) we(0.0) think(0.0) here(0.0) .(0.0) A(0.0) lot(0.0) 
+of(0.0) us(0.0) are(0.0) ,(0.0) like(0.0) ,(0.0) why(0.0) would(0.0) you(0.0) want(0.0) to(0.0) defund(1.0) anything(0.0) with(0.0) peace(1.0) in(0.0) its(0.0) name(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+
+defund	peace	
+
+reads % = 0.05

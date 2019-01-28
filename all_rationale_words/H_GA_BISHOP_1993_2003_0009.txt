@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) it(0.0) is(0.0) with(0.0) deep(0.0) regret(0.0) that(0.0) I(0.0) must(0.0) announce(0.0) that(0.0) this(0.0) morning(0.0) Maynard(1.0) Holbrook(1.0) Jackson(1.0) ,(0.0) former(0.0) Mayor(1.0) of(0.0) 
+the(0.0) City(0.0) of(0.0) Atlanta(1.0) ,(0.0) a(0.0) very(0.0) prominent(0.0) American(0.0) ,(0.0) passed(0.0) away(0.0) .(0.0) He(0.0) was(0.0) a(0.0) great(0.0) Georgian(0.0) ,(0.0) a(0.0) 
+great(0.0) American(0.0) ,(0.0) and(0.0) we(0.0) will(0.0) mourn(0.0) his(0.0) loss(0.0) .(0.0) Shakespeare(0.0) wrote(0.0) ,(0.0) ``(0.0) All(0.0) the(0.0) world(0.0) 's(0.0) a(0.0) stage(0.0) 
+and(0.0) all(0.0) the(0.0) men(0.0) and(0.0) women(0.0) many(0.0) players(0.0) .(0.0) Each(0.0) has(0.0) its(0.0) entrance(0.0) and(0.0) its(0.0) exit(0.0) .(0.0) One(0.0) man(0.0) in(0.0) 
+his(0.0) time(0.0) may(0.0) play(0.0) many(0.0) parts(0.0) .(0.0) ''(0.0) So(0.0) it(0.0) is(0.0) with(0.0) Maynard(0.0) Jackson(1.0) .(0.0) Born(0.0) in(0.0) Texas(1.0) ,(0.0) spending(1.0) 
+most(0.0) of(0.0) his(0.0) life(0.0) in(0.0) Georgia(1.0) ,(0.0) a(0.0) lawyer(0.0) ,(0.0) a(0.0) father(0.0) ,(0.0) a(0.0) mayor(0.0) extraordinaire(1.0) ,(0.0) founder(1.0) of(0.0) the(0.0) 
+Georgia(1.0) Association(0.0) of(0.0) Black(1.0) Elected(0.0) Officials(0.0) ,(0.0) a(0.0) very(0.0) ,(0.0) very(0.0) important(0.0) historic(1.0) figure(0.0) in(0.0) political(1.0) annals(0.0) for(0.0) African(1.0) Americans(0.0) 
+and(0.0) for(0.0) Americans(1.0) .(0.0) It(0.0) is(0.0) with(0.0) deep(0.0) regret(0.0) that(0.0) we(0.0) mourn(0.0) his(0.0) passing(0.0) .(0.0) We(0.0) will(0.0) on(0.0) tomorrow(0.0) night(0.0) 
+have(0.0) a(0.0) special(0.0) order(0.0) so(0.0) that(0.0) we(0.0) can(0.0) pay(0.0) due(0.0) homage(0.0) to(0.0) a(0.0) great(0.0) American(0.0) whom(0.0) we(0.0) loved(0.0) so(0.0) very(0.0) 
+much(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Maynard	Holbrook	Jackson	Mayor	
+Atlanta	
+
+
+Jackson	Texas	spending	
+Georgia	extraordinaire	founder	
+Georgia	Black	historic	political	African	
+Americans	
+
+
+
+reads % = 0.09289617486338798

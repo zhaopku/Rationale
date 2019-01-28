@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) rise(0.0) in(0.0) opposition(1.0) to(0.0) this(0.0) rule(1.0) and(0.0) in(0.0) opposition(1.0) to(0.0) the(0.0) underlying(0.0) bill(1.0) ,(0.0) H.R(0.0) .(0.0) 2425(0.0) .(0.0) 
+Democratic(0.0) Members(0.0) of(0.0) Congress(0.0) and(0.0) seniors(1.0) across(0.0) this(0.0) Nation(1.0) continue(0.0) to(0.0) ask(0.0) for(0.0) free(0.0) and(0.0) open(0.0) debate(1.0) on(0.0) the(0.0) extreme(1.0) 
+and(0.0) unnecessary(1.0) Medicare(1.0) cuts(1.0) that(0.0) are(0.0) before(0.0) this(0.0) body(0.0) today(0.0) .(0.0) They(0.0) have(0.0) yet(0.0) to(0.0) be(0.0) heard(0.0) ,(0.0) let(0.0) alone(0.0) 
+answered(0.0) .(0.0) There(0.0) were(0.0) 10(0.0) hours(0.0) of(0.0) debate(1.0) on(0.0) the(0.0) legislation(1.0) that(0.0) established(0.0) the(0.0) Medicare(1.0) Program(0.0) 30(0.0) years(0.0) ago(0.0) .(0.0) 
+Today(0.0) we(0.0) have(0.0) half(0.0) that(0.0) time(0.0) on(0.0) a(0.0) bill(1.0) to(0.0) dismantle(1.0) it(1.0) .(0.0) There(0.0) were(0.0) 20(0.0) hours(0.0) of(0.0) debate(1.0) earlier(0.0) 
+this(0.0) year(0.0) on(0.0) legislation(1.0) to(0.0) send(0.0) U.S.(0.0) aid(0.0) overseas(0.0) .(0.0) Today(0.0) we(0.0) have(0.0) one-fourth(1.0) of(0.0) that(0.0) time(0.0) to(0.0) consider(0.0) ripping(0.0) 
+$(0.0) 270(0.0) billion(1.0) in(0.0) health(1.0) care(1.0) away(0.0) from(0.0) older(0.0) Americans(1.0) .(0.0) Where(0.0) is(0.0) the(0.0) logic(0.0) ?(0.0) Last(0.0) week(0.0) during(0.0) markup(1.0) 
+of(0.0) H.R(0.0) .(0.0) 2425(0.0) ,(0.0) 13(0.0) senior(0.0) and(0.0) elderly(0.0) citizens(0.0) were(0.0) led(0.0) out(0.0) of(0.0) the(0.0) Commerce(0.0) Committee(0.0) and(0.0) arrested(0.0) just(0.0) 
+because(0.0) the(0.0) committee(0.0) chairman(0.0) and(0.0) his(0.0) GOP(0.0) colleagues(1.0) were(1.0) unwilling(1.0) to(1.0) answer(1.0) the(0.0) most(0.0) basic(0.0) questions(0.0) about(0.0) the(0.0) consequences(1.0) of(0.0) 
+passing(0.0) the(0.0) Republican(1.0) Medicare(1.0) bill(1.0) .(1.0) The(1.0) rule(1.0) we(1.0) have(1.0) before(1.0) us(0.0) on(0.0) this(0.0) bill(1.0) continues(1.0) this(0.0) gag(1.0) order(0.0) by(1.0) 
+denying(1.0) Members(0.0) on(0.0) both(0.0) sides(0.0) of(0.0) the(0.0) aisle(0.0) the(0.0) opportunity(0.0) to(0.0) participate(0.0) in(0.0) a(0.0) fair(0.0) and(0.0) democratic(1.0) review(0.0) of(0.0) H.R(0.0) 
+.(0.0) 2425(0.0) and(0.0) to(0.0) offer(0.0) amendments(1.0) to(0.0) this(0.0) drastic(1.0) legislation(1.0) .(0.0) As(0.0) members(0.0) of(0.0) the(0.0) National(0.0) Council(0.0) of(0.0) Senior(0.0) Citizens(0.0) 
+testified(1.0) before(0.0) Democrats(0.0) on(0.0) the(0.0) Government(0.0) Reform(0.0) and(0.0) Oversight(0.0) Committee(0.0) yesterday(0.0) ,(0.0) the(0.0) flame(0.0) of(0.0) democracy(1.0) continues(0.0) to(0.0) be(0.0) smothered(0.0) 
+by(0.0) the(0.0) Gingrich(1.0) Republicans(1.0) .(1.0) Yesterday(1.0) I(1.0) presented(1.0) testimony(1.0) on(1.0) two(1.0) amendments(1.0) before(1.0) the(1.0) Rules(1.0) Committee(0.0) that(0.0) I(0.0) believe(0.0) would(0.0) 
+improve(0.0) certain(0.0) deficiencies(1.0) of(0.0) H.R(0.0) .(0.0) 2425(0.0) .(0.0) My(0.0) amendments(1.0) were(0.0) not(0.0) made(0.0) in(0.0) order(0.0) .(0.0) The(0.0) Rules(1.0) Committee(0.0) didn't(0.0) 
+bother(0.0) to(0.0) listen(0.0) to(0.0) me(0.0) ,(0.0) and(0.0) therefore(0.0) did(0.0) n't(0.0) bother(0.0) to(0.0) listen(0.0) to(0.0) my(0.0) senior(0.0) constituents(0.0) and(0.0) hundreds(0.0) of(0.0) 
+thousands(1.0) like(0.0) them(0.0) around(0.0) this(0.0) country(1.0) .(0.0) My(0.0) amendments(1.0) are(0.0) designed(0.0) to(0.0) restore(1.0) current(0.0) protections(1.0) for(0.0) seniors(1.0) who(0.0) have(0.0) diagnostic(0.0) 
+tests(0.0) performed(0.0) in(0.0) a(0.0) doctors(0.0) '(0.0) office(0.0) and(0.0) to(0.0) ensure(0.0) that(0.0) our(0.0) elderly(1.0) continue(0.0) to(0.0) have(0.0) access(0.0) to(0.0) durable(0.0) medical(0.0) 
+equipment(0.0) such(0.0) as(0.0) wheelchairs(0.0) ,(0.0) electrical(0.0) beds(0.0) ,(0.0) walkers(0.0) ,(0.0) and(0.0) oxygen(0.0) .(0.0) My(0.0) Clinical(0.0) Laboratory(0.0) Improvement(0.0) Act(0.0) [(0.0) CLIA(1.0) 
+](0.0) amendment(1.0) would(0.0) reinstate(1.0) quality(0.0) assurance(0.0) guarantees(0.0) for(0.0) patients(0.0) who(0.0) have(0.0) testing(0.0) done(0.0) in(0.0) physician(1.0) office(0.0) laboratories(0.0) by(0.0) striking(0.0) the(0.0) 
+provision(0.0) in(0.0) the(0.0) bill(0.0) that(0.0) eliminates(0.0) the(0.0) requirements(0.0) of(0.0) CLIA(1.0) for(0.0) labs(1.0) in(0.0) doctors'(0.0) offices(0.0) .(0.0) It(0.0) probably(0.0) should(0.0) not(0.0) 
+be(0.0) surprising(0.0) that(0.0) the(0.0) Republican(1.0) Medicare(1.0) proposal(1.0) --(1.0) which(1.0) bends(1.0) so(1.0) close(1.0) to(1.0) special(0.0) interests(1.0) and(0.0) tilts(0.0) so(0.0) far(0.0) from(0.0) 
+the(0.0) best(0.0) interests(0.0) of(0.0) America(1.0) 's(0.0) senior(0.0) citizens(0.0) --(0.0) would(0.0) eliminate(1.0) requirements(1.0) for(0.0) quality(0.0) and(0.0) accuracy(0.0) of(0.0) laboratory(0.0) tests(0.0) .(0.0) 
+This(0.0) like(0.0) the(0.0) Republicans(1.0) '(1.0) blatant(1.0) and(1.0) cruel(1.0) elimination(1.0) of(1.0) national(1.0) standards(1.0) for(1.0) nursing(1.0) homes(1.0) ,(1.0) is(1.0) one(1.0) more(1.0) way(1.0) 
+of(1.0) saying(1.0) to(1.0) Medicare(1.0) beneficiaries(1.0) :(1.0) You(1.0) 're(1.0) on(0.0) your(0.0) own(0.0) --(0.0) good(0.0) luck(0.0) .(0.0) What(0.0) is(0.0) the(0.0) rationale(1.0) 
+
+
+----- below are rationale words -----
+
+opposition	rule	opposition	bill	
+seniors	Nation	debate	extreme	
+unnecessary	Medicare	cuts	
+debate	legislation	Medicare	
+bill	dismantle	it	debate	
+legislation	one-fourth	
+billion	health	care	Americans	markup	
+
+colleagues	were	unwilling	to	answer	consequences	
+Republican	Medicare	bill	.	The	rule	we	have	before	bill	continues	gag	by	
+denying	democratic	
+amendments	drastic	legislation	
+testified	democracy	
+Gingrich	Republicans	.	Yesterday	I	presented	testimony	on	two	amendments	before	the	Rules	
+deficiencies	amendments	Rules	
+
+thousands	country	amendments	restore	protections	seniors	
+elderly	
+CLIA	
+amendment	reinstate	physician	
+CLIA	labs	
+Republican	Medicare	proposal	--	which	bends	so	close	to	interests	
+America	eliminate	requirements	
+Republicans	'	blatant	and	cruel	elimination	of	national	standards	for	nursing	homes	,	is	one	more	way	
+of	saying	to	Medicare	beneficiaries	:	You	're	rationale	
+
+reads % = 0.238

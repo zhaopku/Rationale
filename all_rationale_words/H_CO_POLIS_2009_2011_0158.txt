@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+My(0.0) concern(0.0) is(0.0) that(0.0) the(0.0) underlying(0.0) bill(1.0) removes(1.0) some(0.0) of(0.0) the(0.0) authority(0.0) under(0.0) these(0.0) conditions(0.0) that(0.0) this(0.0) amendment(1.0) would(0.0) reinstate(1.0) .(0.0) 
+If(0.0) this(0.0) amendment(1.0) merely(1.0) restates(1.0) this(0.0) ,(0.0) I(0.0) would(0.0) hope(0.0) that(0.0) we(0.0) can(0.0) clarify(0.0) the(0.0) bill(1.0) by(0.0) specifically(0.0) allowing(0.0) the(0.0) 
+EPA(1.0) the(0.0) authority(0.0) to(0.0) suspend(0.0) the(0.0) prohibitions(1.0) in(0.0) the(0.0) bill(1.0) if(0.0) a(0.0) detailed(0.0) analysis(0.0) demonstrates(0.0) that(0.0) ground-level(1.0) ozone(1.0) ,(0.0) or(0.0) 
+extreme(0.0) weather(0.0) events(0.0) ,(0.0) or(0.0) food-(0.0) and(0.0) water-borne(1.0) pathogens(1.0) are(0.0) a(0.0) significant(0.0) threat(0.0) to(0.0) public(1.0) health(1.0) .(0.0) And(0.0) ,(0.0) of(0.0) 
+course(0.0) ,(0.0) we(0.0) would(0.0) hope(0.0) that(0.0) under(0.0) their(0.0) charge(0.0) the(0.0) EPA(1.0) would(0.0) then(0.0) proceed(0.0) if(0.0) given(0.0) this(0.0) authority(0.0) with(0.0) regard(0.0) 
+to(0.0) protecting(1.0) the(0.0) public(1.0) health(1.0) .(0.0) To(0.0) the(0.0) extent(0.0) that(0.0) this(0.0) clarifies(1.0) something(0.0) that(0.0) was(0.0) consistent(0.0) with(0.0) the(0.0) intent(1.0) of(0.0) 
+the(0.0) original(0.0) bill(0.0) ,(0.0) I(0.0) would(0.0) hope(0.0) that(0.0) the(0.0) gentleman(0.0) would(0.0) accept(0.0) it(0.0) .(0.0) If(0.0) it(0.0) is(0.0) contrary(0.0) to(0.0) a(0.0) 
+small(0.0) element(0.0) of(0.0) the(0.0) bill(1.0) ,(0.0) we(0.0) would(0.0) hope(0.0) to(0.0) reestablish(1.0) that(0.0) authority(1.0) in(0.0) the(0.0) case(0.0) of(0.0) a(0.0) significant(0.0) threat(0.0) 
+to(0.0) public(1.0) health(1.0) ,(0.0) again(0.0) ,(0.0) with(0.0) the(0.0) additional(0.0) burden(1.0) and(0.0) requirement(0.0) of(0.0) a(0.0) detailed(0.0) analysis(0.0) under(0.0) the(0.0) law(1.0) .(0.0) 
+I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+bill	removes	amendment	reinstate	
+amendment	merely	restates	bill	
+EPA	prohibitions	bill	ground-level	ozone	
+water-borne	pathogens	public	health	
+EPA	
+protecting	public	health	clarifies	intent	
+
+bill	reestablish	authority	
+public	health	burden	law	
+
+
+reads % = 0.15873015873015872

@@ -1,0 +1,36 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(1.0) ,(0.0) I(1.0) am(0.0) not(1.0) going(0.0) to(0.0) agree(0.0) to(0.0) that(0.0) based(0.0) on(0.0) the(0.0) tenor(0.0) of(0.0) today(1.0) 's(0.0) debate(0.0) and(0.0) the(0.0) way(1.0) 
+that(0.0) this(0.0) was(0.0) brought(0.0) up(1.0) .(0.0) I(0.0) think(1.0) that(0.0) we(0.0) have(0.0) striven(1.0) to(0.0) keep(1.0) this(0.0) military(1.0) withdrawal(1.0) a(0.0) non-issue(1.0) in(0.0) 
+the(0.0) House(0.0) in(0.0) the(0.0) sense(0.0) that(0.0) it(0.0) has(0.0) been(0.0) agreed(1.0) to(0.0) by(0.0) the(0.0) committees(1.0) .(0.0) This(0.0) amendment(1.0) ,(0.0) as(0.0) the(0.0) 
+gentleman(0.0) should(0.0) know(0.0) ,(0.0) the(0.0) Lewis(1.0) amendment(1.0) initially(0.0) submitted(1.0) is(0.0) out(1.0) of(0.0) order(0.0) .(0.0) It(0.0) simply(0.0) is(0.0) not(1.0) valid(1.0) in(0.0) 
+terms(1.0) of(0.0) consideration(0.0) under(0.0) the(0.0) rules(1.0) of(0.0) the(0.0) House(0.0) ,(0.0) but(0.0) for(0.0) the(0.0) fact(0.0) that(0.0) it(0.0) was(0.0) offered(0.0) in(0.0) the(0.0) 
+way(1.0) that(0.0) it(0.0) was(0.0) offered(0.0) ,(0.0) it(0.0) would(1.0) have(0.0) been(0.0) objected(0.0) to(0.0) .(0.0) So(1.0) at(0.0) this(0.0) particular(0.0) point(0.0) ,(0.0) I(0.0) 
+think(1.0) if(0.0) there(0.0) is(0.0) no(0.0) other(0.0) alternative(0.0) ,(0.0) the(0.0) gentleman(0.0) is(0.0) going(0.0) to(0.0) pursue(0.0) it(0.0) ,(0.0) I(0.0) think(1.0) this(0.0) amendment(1.0) 
+richly(1.0) deserves(0.0) to(0.0) be(0.0) defeated(0.0) .(0.0) I(0.0) would(1.0) urge(1.0) the(0.0) Members(0.0) of(0.0) the(0.0) House(0.0) to(0.0) defeat(0.0) this(0.0) amendment(1.0) .(0.0) This(0.0) 
+has(0.0) nothing(1.0) to(0.0) do(0.0) with(0.0) the(0.0) topic(0.0) we(0.0) are(0.0) trying(0.0) to(0.0) accommodate(1.0) and(0.0) deal(1.0) with(0.0) the(0.0) problems(0.0) of(0.0) the(0.0) Department(0.0) 
+of(0.0) Defense(1.0) .(0.0) This(0.0) has(0.0) nothing(1.0) to(0.0) do(0.0) with(0.0) the(0.0) Desert(1.0) bill(0.0) in(0.0) a(0.0) sense(0.0) other(0.0) than(0.0) the(0.0) fact(0.0) that(0.0) 
+the(0.0) Senate(1.0) is(0.0) attempting(1.0) to(0.0) bootstrap(1.0) this(0.0) onto(0.0) the(0.0) legislation(0.0) ,(0.0) and(0.0) the(0.0) gentleman(0.0) from(0.0) Utah(1.0) has(0.0) picked(0.0) up(0.0) on(0.0) 
+that(0.0) theme(0.0) .(0.0) We(0.0) have(0.0) tried(1.0) to(0.0) work(0.0) this(0.0) out(0.0) .(0.0) The(0.0) Committee(0.0) on(0.0) Armed(0.0) Services(0.0) agrees(1.0) with(0.0) the(0.0) language(0.0) 
+that(0.0) we(0.0) submitted(1.0) ,(0.0) and(0.0) the(0.0) Committee(0.0) on(0.0) Natural(0.0) Resources(0.0) agrees(1.0) with(0.0) it(0.0) .(0.0) The(0.0) Hansen(1.0) amendment(1.0) should(0.0) be(0.0) defeated(0.0) 
+.(0.0) I(0.0) would(1.0) urge(1.0) Members(0.0) to(0.0) do(0.0) so(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+I	not	today	way	
+up	think	striven	keep	military	withdrawal	non-issue	
+agreed	committees	amendment	
+Lewis	amendment	submitted	out	not	valid	
+terms	rules	
+way	would	So	
+think	think	amendment	
+richly	would	urge	amendment	
+nothing	accommodate	deal	
+Defense	nothing	Desert	
+Senate	attempting	bootstrap	Utah	
+tried	agrees	
+submitted	agrees	Hansen	amendment	
+would	urge	so	
+
+reads % = 0.18888888888888888

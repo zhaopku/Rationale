@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) the(0.0) question(0.0) recurs(0.0) on(0.0) the(0.0) need(0.0) for(0.0) congressional(1.0) action(1.0) on(0.0) a(0.0) compact(0.0) that(0.0) has(0.0) heretofore(0.0) been(0.0) entered(0.0) into(0.0) 
+between(0.0) two(0.0) States(0.0) .(0.0) In(0.0) this(0.0) particular(0.0) case(0.0) ,(0.0) the(0.0) instant(0.0) legislation(0.0) is(0.0) one(0.0) where(0.0) a(0.0) contract(0.0) or(0.0) compact(0.0) had(0.0) 
+been(0.0) entered(0.0) into(0.0) between(0.0) Alabama(1.0) and(0.0) Georgia(1.0) as(0.0) required(0.0) by(0.0) our(0.0) Constitution(1.0) .(0.0) The(0.0) problem(0.0) was(0.0) that(0.0) in(0.0) 1978(1.0) when(0.0) 
+they(0.0) created(0.0) this(0.0) Historic(1.0) Chattahoochee(1.0) Commission(0.0) ,(0.0) a(0.0) Bi-State(1.0) Heritage(0.0) and(0.0) Tourism(0.0) Agency(0.0) which(0.0) serves(0.0) 11(0.0) Georgia(0.0) and(0.0) 7(0.0) Alabama(0.0) 
+counties(0.0) along(0.0) the(0.0) Lower(0.0) Chattahoochee(0.0) River(0.0) ,(0.0) the(0.0) States(0.0) recently(0.0) found(0.0) that(0.0) they(0.0) wanted(0.0) to(0.0) change(0.0) the(0.0) nomination(1.0) process(0.0) for(0.0) 
+the(0.0) commission(0.0) 's(0.0) board(0.0) ,(0.0) so(0.0) in(0.0) 1993(1.0) they(0.0) each(0.0) enacted(1.0) an(0.0) amendment(1.0) ,(0.0) Georgia(1.0) on(0.0) the(0.0) one(0.0) hand(0.0) ,(0.0) 
+Alabama(1.0) on(0.0) the(0.0) other(0.0) hand(0.0) .(0.0) Their(0.0) legislatures(1.0) acted(0.0) ,(0.0) and(0.0) now(0.0) they(0.0) come(0.0) to(0.0) us(0.0) to(0.0) seek(0.0) approval(0.0) through(0.0) 
+the(0.0) constitutional(1.0) process(0.0) .(0.0) We(0.0) in(0.0) the(0.0) Subcommittee(0.0) on(0.0) Commercial(0.0) and(0.0) Administrative(0.0) Law(0.0) heard(0.0) testimony(0.0) on(0.0) this(0.0) legislation(1.0) and(0.0) reported(0.0) 
+it(0.0) to(0.0) the(0.0) full(0.0) Committee(0.0) on(0.0) the(0.0) Judiciary(0.0) on(0.0) October(0.0) 19(0.0) .(0.0) The(0.0) Committee(0.0) on(0.0) the(0.0) Judiciary(0.0) reported(0.0) favorably(0.0) on(0.0) 
+the(0.0) bill(0.0) by(0.0) voice(0.0) vote(0.0) ,(0.0) and(0.0) we(0.0) are(0.0) here(0.0) .(0.0) Neither(0.0) I(0.0) nor(0.0) anyone(0.0) that(0.0) I(0.0) know(0.0) of(0.0) has(0.0) 
+any(0.0) objection(1.0) to(0.0) the(0.0) bill(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	congressional	action	
+
+Alabama	Georgia	Constitution	1978	
+Historic	Chattahoochee	Bi-State	
+nomination	
+1993	enacted	amendment	Georgia	
+Alabama	legislatures	
+constitutional	legislation	
+
+
+objection	bill	Speaker	
+
+reads % = 0.10091743119266056

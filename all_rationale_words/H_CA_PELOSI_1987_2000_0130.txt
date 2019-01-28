@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) am(0.0) pleased(0.0) to(0.0) yield(0.0) 7(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Massachusetts(1.0) ((0.0) Mr.(0.0) Frank(1.0) )(0.0) ,(0.0) former(0.0) chair(0.0) 
+of(0.0) the(0.0) Subcommittee(0.0) on(0.0) Domestic(0.0) and(0.0) International(0.0) Monetary(0.0) Policy(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Banking(0.0) and(0.0) Financial(0.0) Services(0.0) ,(0.0) and(0.0) an(0.0) 
+expert(0.0) on(0.0) international(0.0) debt(0.0) forgiveness(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Massachusetts	Frank	
+
+
+
+reads % = 0.0425531914893617

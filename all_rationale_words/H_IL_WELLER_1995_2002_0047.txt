@@ -1,0 +1,16 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) say(1.0) that(0.0) the(0.0) Bush(1.0) tax(1.0) cut(1.0) were(0.0) to(0.0) expire(1.0) and(0.0) the(0.0) House(0.0) and(0.0) the(0.0) Senate(1.0) were(0.0) to(0.0) fail(0.0) to(0.0) 
+pass(1.0) legislation(0.0) to(0.0) make(0.0) permanent(1.0) the(0.0) Bush(1.0) tax(1.0) cut(1.0) ,(0.0) eliminating(1.0) the(0.0) marriage(1.0) penalty(0.0) ,(0.0) wiping(1.0) out(0.0) the(0.0) death(1.0) tax(1.0) 
+,(0.0) across-the-board(1.0) tax(1.0) reductions(1.0) ,(0.0) helping(1.0) low-income(1.0) families(0.0) ,(0.0) creating(0.0) a(0.0) much(0.0) lower(1.0) tax(1.0) bracket(1.0) for(0.0) low-income(1.0) families(0.0) ,(0.0) would(1.0) 
+you(0.0) consider(0.0) that(0.0) a(0.0) tax(1.0) increase(1.0) ?(1.0) 
+
+
+----- below are rationale words -----
+
+say	Bush	tax	cut	expire	Senate	
+pass	permanent	Bush	tax	cut	eliminating	marriage	wiping	death	tax	
+across-the-board	tax	reductions	helping	low-income	lower	tax	bracket	low-income	would	
+tax	increase	?	
+
+reads % = 0.4264705882352941

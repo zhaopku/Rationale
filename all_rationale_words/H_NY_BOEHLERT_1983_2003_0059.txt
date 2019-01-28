@@ -1,0 +1,16 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) let(0.0) me(0.0) say(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) ((0.0) Mr.(0.0) Honda(1.0) )(0.0) for(1.0) his(0.0) partnership(0.0) ,(0.0) 
+and(0.0) it(0.0) has(0.0) been(0.0) a(0.0) cooperative(0.0) effort(0.0) ;(0.0) and(0.0) all(0.0) of(0.0) the(0.0) efforts(1.0) on(0.0) the(0.0) Committee(0.0) on(0.0) Science(0.0) reflect(0.0) that(0.0) 
+cooperation(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) it(0.0) is(0.0) my(0.0) pleasure(0.0) to(0.0) yield(0.0) 3(0.0) minutes(0.0) to(0.0) the(0.0) distinguished(0.0) gentleman(0.0) from(0.0) Texas(0.0) ((0.0) 
+Mr.(0.0) Burgess(1.0) )(0.0) ,(0.0) who(0.0) has(0.0) been(0.0) a(0.0) real(0.0) leader(0.0) for(0.0) our(0.0) side(0.0) on(0.0) this(0.0) issue(0.0) of(0.0) nanotechnology(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Honda	for	
+efforts	
+Speaker	
+Burgess	
+
+reads % = 0.0625

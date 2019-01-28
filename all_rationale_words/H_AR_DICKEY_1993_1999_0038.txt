@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Well(0.0) ,(0.0) was(0.0) it(0.0) better(0.0) that(0.0) we(0.0) increased(0.0) taxes(1.0) back(0.0) under(0.0) George(0.0) Bush(1.0) or(0.0) cut(0.0) spending(1.0) ?(0.0) Which(0.0) was(0.0) the(0.0) better(0.0) 
+circumstance(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+taxes	Bush	spending	
+
+
+reads % = 0.13043478260869565

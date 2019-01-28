@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) last(1.0) week(1.0) the(0.0) State(1.0) of(0.0) North(0.0) Carolina(0.0) executed(1.0) Kermit(1.0) Smith(1.0) for(0.0) the(0.0) brutal(1.0) kidnaping(1.0) ,(0.0) rape(1.0) ,(0.0) and(0.0) murder(0.0) 
+of(0.0) a(0.0) college(1.0) cheerleader(1.0) in(0.0) 1980(1.0) .(0.0) Because(0.0) of(0.0) the(0.0) burdensome(1.0) appeals(1.0) process(0.0) ,(0.0) the(0.0) case(0.0) dragged(1.0) on(0.0) for(0.0) 14(0.0) 
+years(0.0) ,(0.0) going(0.0) before(1.0) 46(1.0) judges(0.0) and(0.0) the(0.0) U.S.(0.0) Supreme(0.0) Court(0.0) 5(0.0) times(0.0) .(0.0) The(0.0) victim(1.0) 's(0.0) family(0.0) suffered(0.0) each(0.0) 
+and(0.0) every(0.0) time(0.0) the(0.0) case(0.0) was(0.0) brought(0.0) up(0.0) for(0.0) review(0.0) .(0.0) Why(1.0) must(0.0) we(0.0) penalize(0.0) the(0.0) victims(1.0) and(0.0) their(0.0) families(0.0) 
+?(0.0) Have(0.0) n't(0.0) they(0.0) gone(0.0) through(0.0) enough(0.0) .(0.0) Honest(1.0) taxpaying(1.0) citizens(1.0) question(0.0) why(0.0) criminals(0.0) spend(1.0) an(0.0) average(0.0) of(0.0) 15(0.0) years(0.0) 
+on(0.0) death(1.0) row(1.0) appealing(1.0) their(0.0) cases(1.0) .(0.0) They(0.0) question(0.0) the(0.0) enormous(0.0) cost(0.0) of(0.0) the(0.0) appeals(1.0) process(0.0) .(0.0) They(0.0) question(0.0) the(0.0) 
+amount(0.0) of(0.0) time(0.0) courts(0.0) spend(1.0) hearing(0.0) these(0.0) cases(1.0) ,(0.0) while(0.0) in(0.0) turn(1.0) ignoring(1.0) other(0.0) pressing(1.0) matters(0.0) .(0.0) We(0.0) ,(0.0) as(0.0) 
+Members(0.0) of(0.0) Congress(0.0) ,(0.0) have(0.0) the(0.0) obligation(0.0) and(0.0) responsibility(0.0) to(0.0) streamline(1.0) this(0.0) process(1.0) for(0.0) the(0.0) victims(0.0) '(0.0) families(0.0) and(0.0) the(0.0) 
+law-abiding(1.0) citizen(1.0) .(0.0) The(0.0) Effective(1.0) Death(0.0) Penalty(0.0) Act(0.0) is(0.0) a(0.0) step(0.0) in(0.0) the(0.0) right(1.0) direction(0.0) .(0.0) It(0.0) sets(0.0) time(0.0) limits(0.0) 
+for(0.0) the(0.0) appeals(1.0) process(0.0) .(0.0) We(0.0) must(0.0) support(0.0) H.R(0.0) .(0.0) 729(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+last	week	State	executed	Kermit	Smith	brutal	kidnaping	rape	
+college	cheerleader	1980	burdensome	appeals	dragged	
+before	46	victim	
+Why	victims	
+Honest	taxpaying	citizens	spend	
+death	row	appealing	cases	appeals	
+spend	cases	turn	ignoring	pressing	
+streamline	process	
+law-abiding	citizen	Effective	right	
+appeals	729	
+
+reads % = 0.21761658031088082

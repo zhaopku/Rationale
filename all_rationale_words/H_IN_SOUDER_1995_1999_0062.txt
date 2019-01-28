@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) wanted(0.0) to(0.0) clarify(0.0) the(0.0) amendment(1.0) ,(0.0) if(0.0) I(0.0) may(0.0) .(0.0) It(0.0) only(0.0) affects(0.0) fiscal(1.0) year(0.0) 2000(0.0) funding(1.0) .(0.0) 
+It(0.0) has(0.0) 4(0.0) months(0.0) for(0.0) us(0.0) to(0.0) withdraw(0.0) .(0.0) It(0.0) does(0.0) not(0.0) have(0.0) any(0.0) immediate(0.0) impact(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+amendment	fiscal	funding	
+
+
+reads % = 0.07894736842105263

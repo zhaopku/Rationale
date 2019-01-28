@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) to(0.0) ask(0.0) House(0.0) Members(0.0) within(0.0) my(0.0) voice(0.0) maybe(0.0) for(0.0) some(0.0) help(0.0) .(0.0) About(0.0) three(0.0) or(0.0) 4(0.0) years(0.0) 
+ago(0.0) we(0.0) found(0.0) a(0.0) man(0.0) in(0.0) Savannah(1.0) ,(0.0) Georgia(1.0) ,(0.0) who(0.0) 's(0.0) in(0.0) his(0.0) late(0.0) forties(0.0) ,(0.0) maybe(0.0) early(0.0) fifties(0.0) 
+,(0.0) who(0.0) does(0.0) not(0.0) have(0.0) identity(0.0) .(0.0) We(0.0) have(0.0) no(0.0) idea(0.0) who(0.0) he(0.0) is(0.0) or(0.0) where(0.0) he(0.0) came(0.0) from(0.0) .(0.0) 
+But(0.0) he(0.0) is(0.0) an(0.0) intelligent(0.0) ,(0.0) apparently(0.0) college-educated(1.0) ,(0.0) middle(0.0) management(0.0) type(0.0) guy(0.0) ,(0.0) maybe(0.0) from(0.0) Indiana(1.0) .(0.0) Mr.(0.0) Burton(1.0) 
+actually(1.0) helped(0.0) us(0.0) on(0.0) him(0.0) a(0.0) little(0.0) bit(0.0) because(0.0) he(0.0) has(0.0) memories(0.0) of(0.0) Indiana(1.0) and(0.0) Denver(1.0) ,(0.0) Colorado(1.0) .(0.0) We(0.0) 
+'ve(0.0) talked(0.0) to(0.0) the(0.0) FBI(1.0) .(0.0) They(0.0) 've(0.0) done(0.0) a(0.0) background(0.0) check(0.0) .(0.0) We(0.0) 've(0.0) talked(0.0) to(0.0) Social(1.0) Security(0.0) .(0.0) 
+They(0.0) 've(0.0) done(0.0) a(0.0) background(0.0) check(0.0) .(0.0) We've(0.0) gone(0.0) to(0.0) many(0.0) Federal(1.0) agencies(1.0) and(0.0) asked(0.0) them(0.0) for(0.0) their(0.0) assistance(0.0) trying(0.0) 
+to(0.0) identify(0.0) this(0.0) gentleman(0.0) .(0.0) He(0.0) has(0.0) no(0.0) Social(0.0) Security(0.0) number(0.0) so(0.0) he(0.0) ca(0.0) n't(0.0) get(0.0) a(0.0) job(0.0) .(0.0) And(0.0) 
+he(0.0) is(0.0) totally(0.0) in(0.0) abeyance(1.0) ,(0.0) basically(0.0) forced(0.0) to(0.0) be(0.0) homeless(1.0) if(0.0) not(0.0) for(0.0) the(0.0) charity(1.0) of(0.0) some(0.0) people(0.0) who(0.0) 
+'ve(0.0) taken(0.0) an(0.0) interest(0.0) in(0.0) his(0.0) case(0.0) .(0.0) So(0.0) if(0.0) anybody(0.0) knows(0.0) of(0.0) a(0.0) way(0.0) to(0.0) identify(0.0) somebody(0.0) ,(0.0) I(0.0) 
+would(0.0) respectfully(0.0) ask(0.0) you(0.0) to(0.0) please(0.0) let(0.0) me(0.0) know(0.0) what(0.0) it(0.0) is(0.0) ,(0.0) and(0.0) I(0.0) will(0.0) be(0.0) glad(0.0) to(0.0) follow(0.0) 
+whatever(0.0) lead(0.0) you(0.0) can(0.0) give(0.0) me(0.0) .(0.0) And(0.0) I(0.0) appreciate(0.0) that(0.0) and(0.0) thank(0.0) you(0.0) very(0.0) much(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Savannah	Georgia	
+
+college-educated	Indiana	Burton	
+actually	Indiana	Denver	Colorado	
+FBI	Social	
+Federal	agencies	
+
+abeyance	homeless	charity	
+
+
+
+
+reads % = 0.06722689075630252

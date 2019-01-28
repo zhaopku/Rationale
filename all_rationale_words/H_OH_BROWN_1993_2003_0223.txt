@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) think(0.0) seniors(1.0) in(0.0) my(0.0) district(0.0) and(0.0) seniors(1.0) all(0.0) over(0.0) the(0.0) country(1.0) ,(0.0) because(0.0) I(0.0) was(0.0) hearing(0.0) this(0.0) from(0.0) colleague(0.0) after(0.0) 
+colleague(0.0) ,(0.0) people(0.0) were(0.0) wondering(0.0) why(0.0) it(0.0) was(0.0) so(0.0) complicated(0.0) ?(0.0) Why(0.0) was(0.0) it(0.0) so(0.0) difficult(0.0) ?(0.0) Why(0.0) can(0.0) Congress(0.0) 
+just(0.0) not(0.0) pass(0.0) a(0.0) drug(0.0) benefit(0.0) ?(0.0) People(0.0) understand(0.0) how(0.0) Medicare(1.0) works(0.0) .(0.0) You(0.0) go(0.0) to(0.0) a(0.0) physician(0.0) .(0.0) The(0.0) 
+bill(1.0) is(0.0) sent(0.0) to(0.0) Medicare(1.0) to(0.0) be(0.0) paid(0.0) .(0.0) You(0.0) go(0.0) to(0.0) a(0.0) hospital(0.0) .(0.0) The(0.0) bill(1.0) is(0.0) sent(0.0) to(0.0) 
+Medicare(1.0) to(0.0) be(0.0) paid(0.0) .(0.0) There(0.0) is(0.0) a(0.0) copay(0.0) and(0.0) a(0.0) deductible(0.0) .(0.0) People(0.0) understand(0.0) that(0.0) .(0.0) They(0.0) understand(0.0) the(0.0) 
+premium(0.0) .(0.0) It(0.0) is(0.0) very(0.0) simple(0.0) insurance(1.0) .(0.0) It(0.0) is(0.0) full(0.0) choice(0.0) of(0.0) doctor(0.0) ,(0.0) full(0.0) choice(0.0) of(0.0) hospital(0.0) ,(0.0) 
+and(0.0) why(0.0) not(0.0) do(0.0) the(0.0) same(0.0) with(0.0) a(0.0) prescription(0.0) ?(0.0) Then(0.0) you(0.0) get(0.0) the(0.0) prescription(1.0) .(0.0) It(0.0) is(0.0) paid(0.0) for(0.0) 
+by(0.0) Medicare(1.0) .(0.0) You(0.0) have(0.0) full(0.0) choice(0.0) of(0.0) your(0.0) prescription(1.0) .(0.0) Instead(0.0) ,(0.0) the(0.0) Republicans(1.0) had(1.0) to(1.0) make(1.0) it(1.0) a(1.0) 
+lot(1.0) more(1.0) complicated(1.0) .(1.0) Why(1.0) ?(1.0) Because(1.0) they(1.0) wanted(1.0) to(0.0) get(0.0) their(0.0) privatization(1.0) agenda(1.0) enacted(1.0) .(0.0) That(0.0) means(0.0) using(0.0) the(0.0) 
+insurance(1.0) companies(1.0) .(0.0) It(0.0) means(0.0) playing(0.0) ball(0.0) with(0.0) the(0.0) drug(1.0) industry(1.0) .(0.0) It(0.0) means(0.0) a(0.0) lot(0.0) of(0.0) that(0.0) money(1.0) ,(0.0) 
+that(0.0) $(0.0) 400(0.0) billion(1.0) that(0.0) should(0.0) go(0.0) directly(0.0) to(0.0) cover(0.0) prescription(1.0) drugs(1.0) ,(0.0) and(0.0) very(0.0) little(0.0) overhead(0.0) ,(0.0) the(0.0) 2(0.0) 
+percent(0.0) overhead(0.0) that(0.0) Medicare(1.0) has(0.0) been(0.0) able(0.0) to(0.0) keep(0.0) their(0.0) overhead(0.0) at(0.0) 2(0.0) percent(0.0) .(0.0) Instead(0.0) of(0.0) that(0.0) ,(0.0) the(0.0) 
+Republicans(1.0) are(1.0) seeing(1.0) all(1.0) kinds(1.0) of(1.0) money(1.0) wasted(1.0) through(1.0) the(1.0) insurance(1.0) and(1.0) the(1.0) drug(1.0) companies(1.0) .(1.0) Frankly(1.0) ,(0.0) it(0.0) just(0.0) 
+kind(0.0) of(0.0) amazes(0.0) me(0.0) because(0.0) seniors(1.0) do(0.0) think(0.0) it(0.0) could(0.0) be(0.0) simple(0.0) .(0.0) The(0.0) other(0.0) part(0.0) of(0.0) that(0.0) $(0.0) 400(0.0) 
+,(0.0) as(0.0) the(0.0) gentleman(0.0) pointed(0.0) out(0.0) ,(0.0) that(0.0) $(0.0) 400(0.0) billion(1.0) would(0.0) go(0.0) a(0.0) lot(0.0) further(0.0) under(0.0) the(0.0) Democratic(1.0) plan(1.0) 
+because(0.0) we(0.0) would(0.0) do(0.0) cost(0.0) controls(0.0) .(0.0) We(0.0) would(0.0) do(0.0) various(0.0) kinds(0.0) of(0.0) constraints(1.0) on(0.0) costs(1.0) .(0.0) The(0.0) Canadians(1.0) ,(0.0) 
+as(0.0) we(0.0) have(0.0) heard(0.0) many(0.0) times(0.0) in(0.0) this(0.0) Chamber(0.0) ,(0.0) the(0.0) price(0.0) of(0.0) drugs(1.0) in(0.0) Canada(1.0) is(0.0) one-half(0.0) ,(0.0) one-third(0.0) 
+,(0.0) one-fourth(1.0) of(0.0) what(0.0) it(0.0) is(0.0) in(0.0) the(0.0) United(0.0) States(0.0) .(0.0) Tamoxifen(1.0) ,(0.0) a(0.0) breast(0.0) cancer(0.0) drug(0.0) ,(0.0) is(0.0) one-eighth(1.0) 
+the(0.0) cost(0.0) in(0.0) France(0.0) than(0.0) it(0.0) is(0.0) in(0.0) the(0.0) United(0.0) States(0.0) .(0.0) If(0.0) we(0.0) could(0.0) have(0.0) restrained(0.0) costs(1.0) ,(0.0) controlled(0.0) 
+costs(1.0) ,(0.0) brought(0.0) prices(1.0) down(0.0) ,(0.0) whatever(0.0) you(0.0) want(0.0) to(0.0) call(0.0) it(0.0) ,(0.0) if(0.0) we(0.0) had(0.0) done(0.0) that(0.0) and(0.0) put(0.0) 
+this(0.0) bill(1.0) into(0.0) Medicare(1.0) ,(0.0) put(0.0) this(0.0) whole(0.0) plan(1.0) into(0.0) Medicare(1.0) ,(0.0) a(0.0) lot(0.0) less(0.0) complicated(0.0) ,(0.0) we(0.0) could(0.0) have(0.0) 
+done(0.0) it(0.0) months(0.0) ago(0.0) ,(0.0) years(0.0) ago(0.0) ,(0.0) we(0.0) could(0.0) have(0.0) done(0.0) it(0.0) ;(0.0) and(0.0) seniors(1.0) would(0.0) have(0.0) a(0.0) better(0.0) 
+plan(0.0) .(0.0) They(0.0) would(0.0) understand(0.0) what(0.0) it(0.0) is(0.0) about(0.0) .(0.0) They(0.0) would(0.0) not(0.0) have(0.0) all(0.0) of(0.0) these(0.0) questions(0.0) ,(0.0) but(0.0) 
+the(0.0) drug(1.0) industry(1.0) and(0.0) the(0.0) insurance(1.0) industry(1.0) probably(0.0) would(0.0) not(0.0) be(0.0) so(0.0) happy(0.0) ,(0.0) and(0.0) I(0.0) guess(0.0) that(0.0) is(0.0) in(0.0) 
+the(0.0) end(0.0) why(0.0) this(0.0) body(0.0) did(0.0) what(0.0) it(0.0) did(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+seniors	seniors	country	
+
+Medicare	
+bill	Medicare	bill	
+Medicare	
+insurance	
+prescription	
+Medicare	prescription	Republicans	had	to	make	it	a	
+lot	more	complicated	.	Why	?	Because	they	wanted	privatization	agenda	enacted	
+insurance	companies	drug	industry	money	
+billion	prescription	drugs	
+Medicare	
+Republicans	are	seeing	all	kinds	of	money	wasted	through	the	insurance	and	the	drug	companies	.	Frankly	
+seniors	
+billion	Democratic	plan	
+constraints	costs	Canadians	
+drugs	Canada	
+one-fourth	Tamoxifen	one-eighth	
+costs	
+costs	prices	
+bill	Medicare	plan	Medicare	
+seniors	
+
+drug	industry	insurance	industry	
+
+
+reads % = 0.1629327902240326

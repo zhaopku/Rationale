@@ -1,0 +1,48 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) support(0.0) of(0.0) the(0.0) amendment(1.0) offered(0.0) by(0.0) my(0.0) good(0.0) friend(0.0) John(0.0) Tierney(1.0) instructing(1.0) the(0.0) Agency(0.0) on(0.0) 
+Health(0.0) Research(0.0) and(0.0) Quality(0.0) to(0.0) study(0.0) methods(0.0) of(0.0) reducing(0.0) the(0.0) costs(0.0) of(0.0) prescription(0.0) drugs(0.0) to(0.0) consumers(0.0) .(0.0) This(0.0) is(0.0) an(0.0) 
+important(0.0) study(0.0) in(0.0) light(0.0) of(0.0) the(0.0) focus(0.0) on(0.0) a(0.0) Medicare(0.0) prescription(0.0) drug(0.0) benefit(0.0) ,(0.0) as(0.0) well(0.0) as(0.0) the(0.0) increase(0.0) in(0.0) 
+pharmaceutical(1.0) productions(0.0) .(0.0) Prescription(0.0) drugs(0.0) are(0.0) an(0.0) important(0.0) means(0.0) of(0.0) providing(0.0) healthcare(1.0) in(0.0) an(0.0) outpatient(0.0) setting(0.0) .(0.0) However(0.0) ,(0.0) the(0.0) 
+costs(1.0) of(0.0) these(0.0) drugs(1.0) are(0.0) too(0.0) high(0.0) .(0.0) Earlier(0.0) this(0.0) summer(0.0) ,(0.0) I(0.0) commissioned(0.0) a(0.0) study(0.0) to(0.0) specifically(0.0) examine(0.0) the(0.0) 
+cost(1.0) of(0.0) prescription(1.0) drugs(1.0) in(0.0) the(0.0) Worcester/Attleboro/Fall(0.0) River(0.0) ,(0.0) Massachusetts(1.0) area(0.0) .(0.0) This(0.0) was(0.0) the(0.0) first(0.0) and(0.0) only(0.0) study(0.0) of(0.0) 
+its(0.0) kind(0.0) examining(0.0) drug(1.0) prices(1.0) in(0.0) Central(1.0) Massachusetts(1.0) .(0.0) The(0.0) results(0.0) were(0.0) alarming(0.0) .(0.0) On(0.0) average(0.0) ,(0.0) seniors(1.0) get(0.0) more(0.0) 
+than(0.0) eighteen(0.0) prescriptions(1.0) filled(0.0) each(0.0) year(0.0) .(0.0) I(0.0) was(0.0) shocked(0.0) to(0.0) learn(0.0) that(0.0) uninsured(1.0) seniors(1.0) in(0.0) my(0.0) district(0.0) --(0.0) those(0.0) 
+without(0.0) any(0.0) prescription(1.0) drug(0.0) benefit(0.0) --(0.0) pay(0.0) 136(0.0) %(0.0) more(0.0) for(0.0) their(0.0) prescription(1.0) drugs(0.0) than(0.0) the(0.0) drug(1.0) companies(1.0) most(0.0) favored(1.0) 
+customers(0.0) .(0.0) This(0.0) means(0.0) that(0.0) if(0.0) a(0.0) most(0.0) favored(0.0) customer(0.0) pays(0.0) ten(0.0) dollars(0.0) for(0.0) a(0.0) prescription(0.0) ,(0.0) the(0.0) uninsured(1.0) senior(0.0) 
+in(0.0) my(0.0) district(0.0) will(0.0) pay(0.0) twenty-three(0.0) dollars(1.0) and(0.0) sixty(0.0) cents(0.0) for(0.0) that(0.0) same(0.0) prescription(0.0) .(0.0) It(0.0) is(0.0) unconscionable(1.0) that(0.0) people(0.0) 
+who(0.0) can(0.0) least(0.0) afford(1.0) to(0.0) pay(1.0) these(0.0) high(0.0) costs(1.0) are(0.0) being(0.0) gouged(1.0) by(0.0) the(0.0) drug(1.0) companies(1.0) in(0.0) the(0.0) name(0.0) of(0.0) 
+profits(1.0) and(0.0) I(0.0) am(0.0) sickened(0.0) that(0.0) seniors(1.0) in(0.0) my(0.0) district(0.0) ,(0.0) and(0.0) across(0.0) the(0.0) country(1.0) ,(0.0) are(0.0) forced(1.0) to(0.0) choose(0.0) 
+between(0.0) buying(0.0) groceries(0.0) and(0.0) medicine(1.0) .(0.0) Our(0.0) top(0.0) priority(1.0) must(0.0) be(0.0) a(0.0) prescription(0.0) drug(0.0) benefit(0.0) .(0.0) However(0.0) ,(0.0) this(0.0) amendment(1.0) 
+is(0.0) a(0.0) first(0.0) step(0.0) in(0.0) this(0.0) Congress(0.0) acknowledging(1.0) that(0.0) drug(1.0) prices(1.0) are(0.0) too(0.0) high(0.0) for(0.0) uninsured(1.0) seniors(1.0) .(0.0) I(0.0) support(0.0) 
+President(0.0) Clinton(1.0) 's(0.0) efforts(0.0) to(0.0) implement(1.0) a(0.0) prescription(0.0) drug(0.0) benefit(0.0) .(0.0) I(0.0) also(0.0) support(0.0) Congressman(1.0) Tom(1.0) Allen(1.0) 's(0.0) bill(1.0) to(0.0) 
+end(0.0) price(0.0) discrimination(1.0) by(0.0) the(0.0) drug(1.0) companies(1.0) .(0.0) Together(0.0) ,(0.0) these(0.0) efforts(1.0) will(0.0) lower(0.0) prescription(1.0) drug(1.0) prices(1.0) and(0.0) allow(0.0) seniors(1.0) 
+to(0.0) buy(0.0) both(0.0) food(1.0) and(0.0) medicine(1.0) .(0.0) We(0.0) must(0.0) continue(0.0) to(0.0) raise(1.0) awareness(0.0) of(0.0) the(0.0) need(0.0) for(0.0) affordable(1.0) prescription(1.0) drugs(1.0) 
+,(0.0) at(0.0) least(0.0) until(0.0) this(0.0) Congress(0.0) is(0.0) able(0.0) to(0.0) pass(0.0) a(0.0) comprehensive(0.0) prescription(0.0) drug(0.0) benefit(1.0) .(0.0) I(0.0) urge(0.0) the(0.0) adoption(1.0) 
+of(0.0) this(0.0) important(0.0) study(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+amendment	Tierney	instructing	
+
+
+pharmaceutical	healthcare	
+costs	drugs	
+cost	prescription	drugs	Massachusetts	
+drug	prices	Central	Massachusetts	seniors	
+prescriptions	uninsured	seniors	
+prescription	prescription	drug	companies	favored	
+uninsured	
+dollars	unconscionable	
+afford	pay	costs	gouged	drug	companies	
+profits	seniors	country	forced	
+medicine	priority	amendment	
+acknowledging	drug	prices	uninsured	seniors	
+Clinton	implement	Congressman	Tom	Allen	bill	
+discrimination	drug	companies	efforts	prescription	drug	prices	seniors	
+food	medicine	raise	affordable	prescription	drugs	
+benefit	adoption	
+
+
+reads % = 0.17357512953367876

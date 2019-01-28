@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+That(0.0) is(0.0) true(0.0) if(0.0) the(0.0) underlying(0.0) State(0.0) legislation(0.0) is(0.0) itself(0.0) consistent(0.0) with(0.0) the(0.0) 21st(0.0) amendment(1.0) and(0.0) the(0.0) interstate(1.0) commerce(1.0) clause(1.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+amendment	interstate	commerce	clause	
+
+
+reads % = 0.19047619047619047

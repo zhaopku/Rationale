@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) to(0.0) the(0.0) gentlewoman(0.0) from(0.0) New(0.0) York(1.0) ((0.0) Ms.(1.0) Velazquez(1.0) )(0.0) ,(0.0) the(0.0) 
+ranking(0.0) member(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Small(0.0) Business(0.0) .(0.0) The(0.0) SPEAKER(0.0) pro(0.0) tempore(0.0) ((1.0) Mr.(0.0) Hansen(1.0) )(0.0) .(0.0) Without(0.0) objection(0.0) 
+,(0.0) the(0.0) gentlewoman(0.0) from(0.0) New(0.0) York(1.0) will(0.0) control(0.0) the(0.0) time(0.0) on(0.0) her(0.0) side(0.0) of(0.0) the(0.0) aisle(0.0) .(0.0) There(0.0) was(0.0) no(0.0) 
+objection(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+York	Ms.	Velazquez	
+(	Hansen	
+York	
+
+
+reads % = 0.09523809523809523

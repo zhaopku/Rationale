@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) think(0.0) first(0.0) and(0.0) foremost(0.0) to(0.0) be(0.0) talking(0.0) about(0.0) the(0.0) real(0.0) issues(0.0) .(0.0) We(0.0) are(0.0) also(0.0) joined(0.0) tonight(0.0) by(0.0) another(0.0) freshman(0.0) 
+colleague(0.0) ,(0.0) Representative(1.0) Jared(1.0) Polis(1.0) from(0.0) Boulder(1.0) ,(0.0) Colorado(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Representative	Jared	Polis	Boulder	
+
+reads % = 0.12903225806451613

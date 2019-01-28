@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) would(0.0) like(0.0) to(0.0) speak(0.0) this(0.0) morning(0.0) ,(0.0) just(0.0) briefly(0.0) ,(0.0) with(0.0) a(0.0) different(0.0) perspective(0.0) on(0.0) health(1.0) care(1.0) 
+and(0.0) some(0.0) of(0.0) the(0.0) implications(1.0) of(0.0) the(0.0) President(1.0) 's(0.0) plan(0.0) ,(0.0) some(0.0) of(0.0) the(0.0) implications(1.0) that(0.0) have(0.0) come(0.0) about(0.0) as(0.0) 
+a(0.0) result(0.0) of(0.0) what(0.0) has(0.0) been(0.0) a(0.0) fundamental(0.0) shift(0.0) in(0.0) the(0.0) way(0.0) that(0.0) health(1.0) care(0.0) gets(0.0) paid(0.0) for(0.0) in(0.0) our(0.0) 
+country(1.0) over(0.0) the(0.0) past(0.0) 40(0.0) or(0.0) so(0.0) years(0.0) .(0.0) To(0.0) illustrate(0.0) that(0.0) ,(0.0) Madam(0.0) Speaker(1.0) ,(0.0) I(0.0) would(0.0) like(0.0) to(0.0) 
+point(0.0) out(0.0) first(0.0) of(0.0) all(0.0) that(0.0) in(0.0) 1950(1.0) approximately(0.0) 20(0.0) percent(0.0) of(0.0) all(0.0) health(1.0) care(0.0) was(0.0) paid(0.0) for(0.0) by(0.0) third(0.0) 
+parties(0.0) ,(0.0) and(0.0) in(0.0) 1950(1.0) ``(0.0) third(0.0) parties(0.0) ''(0.0) meant(0.0) insurance(0.0) companies(0.0) for(0.0) the(0.0) most(0.0) part(0.0) .(0.0) And(0.0) 80(0.0) percent(0.0) 
+of(0.0) health(1.0) care(1.0) was(0.0) paid(0.0) for(0.0) by(0.0) individuals(0.0) .(0.0) In(0.0) 1994(1.0) ,(0.0) Madam(0.0) Speaker(1.0) ,(0.0) that(0.0) number(0.0) gets(0.0) flipped(0.0) around(0.0) 
+,(0.0) where(0.0) 20(0.0) percent(0.0) of(0.0) health(1.0) care(1.0) gets(0.0) paid(0.0) for(0.0) by(0.0) individuals(0.0) and(0.0) 80(0.0) percent(0.0) gets(0.0) paid(1.0) for(0.0) by(0.0) third(0.0) 
+parties(0.0) ;(0.0) that(0.0) is(0.0) ,(0.0) insurance(1.0) companies(1.0) or(0.0) the(0.0) Government(1.0) ,(0.0) and(0.0) I(0.0) want(0.0) to(0.0) share(0.0) with(0.0) my(0.0) colleagues(0.0) what(0.0) 
+I(0.0) believe(0.0) is(0.0) probably(0.0) the(0.0) most(0.0) profound(0.0) ethical(1.0) implication(1.0) of(0.0) that(0.0) because(0.0) it(0.0) is(0.0) ,(0.0) in(0.0) fact(0.0) ,(0.0) the(0.0) issue(0.0) 
+of(0.0) quality(0.0) as(0.0) opposed(1.0) to(0.0) cost(1.0) which(0.0) will(0.0) ultimately(0.0) be(0.0) the(0.0) issue(0.0) that(0.0) every(0.0) single(0.0) one(0.0) of(0.0) us(0.0) as(0.0) consumers(1.0) 
+of(0.0) health(1.0) care(1.0) ,(0.0) as(0.0) patients(0.0) ,(0.0) as(0.0) people(0.0) who(0.0) get(0.0) into(0.0) trouble(0.0) with(0.0) either(0.0) diseases(0.0) or(0.0) accidents(0.0) ,(0.0) that(0.0) 
+we(0.0) will(0.0) be(0.0) concerned(0.0) with(0.0) because(0.0) it(0.0) is(0.0) ,(0.0) in(0.0) fact(0.0) ,(0.0) the(0.0) quality(0.0) issue(0.0) that(0.0) will(0.0) ultimately(0.0) become(0.0) the(0.0) 
+most(0.0) important(0.0) issue(0.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) I(0.0) want(0.0) to(0.0) share(0.0) with(0.0) my(0.0) colleagues(0.0) a(0.0) quotation(0.0) from(0.0) a(0.0) Swiss(0.0) medical(0.0) 
+philosopher(0.0) whose(0.0) name(0.0) is(0.0) Ernest(0.0) Truffer(1.0) ,(0.0) admittedly(0.0) not(0.0) a(0.0) household(0.0) name(0.0) ,(0.0) but(0.0) he(0.0) brings(0.0) out(0.0) this(0.0) point(0.0) in(0.0) 
+a(0.0) way(0.0) that(0.0) is(0.0) much(0.0) better(0.0) than(0.0) I(0.0) could(0.0) .(0.0) The(0.0) increasing(1.0) intrusion(1.0) of(0.0) third(0.0) parties(0.0) on(0.0) the(0.0) doctor-(0.0) patient(0.0) 
+relationship(0.0) amounts(0.0) to(0.0) a(0.0) rejection(0.0) of(0.0) the(0.0) medical(0.0) ethic(1.0) ,(0.0) the(0.0) medical(1.0) ethic(0.0) which(0.0) is(0.0) to(0.0) care(0.0) for(0.0) a(0.0) patient(0.0) 
+according(0.0) to(0.0) that(0.0) patient(0.0) 's(0.0) specific(0.0) medical(0.0) requirements(0.0) as(0.0) opposed(0.0) to(0.0) the(0.0) veterinary(1.0) ethic(0.0) which(0.0) consists(0.0) of(0.0) caring(0.0) for(0.0) the(0.0) 
+sick(1.0) animal(0.0) ,(0.0) not(0.0) in(0.0) accordance(0.0) with(0.0) its(0.0) specific(0.0) medical(0.0) needs(0.0) ,(0.0) but(0.0) according(0.0) to(0.0) the(0.0) requirements(0.0) of(0.0) its(0.0) master(0.0) 
+and(0.0) owner(0.0) ;(0.0) that(0.0) is(0.0) ,(0.0) the(0.0) person(0.0) who(0.0) is(0.0) responsible(0.0) for(0.0) paying(1.0) the(0.0) fee(0.0) .(0.0) Herein(0.0) is(0.0) the(0.0) rub(0.0) 
+with(0.0) respect(0.0) to(0.0) managed(0.0) care(0.0) ,(0.0) with(0.0) respect(0.0) to(0.0) Government-funded(1.0) and(0.0) Government-paid-for(0.0) health(1.0) care(1.0) programs(1.0) .(0.0) That(0.0) is(0.0) that(0.0) instead(0.0) 
+of(0.0) having(0.0) that(0.0) relationship(0.0) between(0.0) the(0.0) doctor(0.0) and(0.0) the(0.0) patient(0.0) upon(0.0) which(0.0) quality(0.0) health(1.0) care(1.0) is(0.0) built(0.0) ,(0.0) upon(0.0) which(0.0) 
+the(0.0) entire(0.0) Western(1.0) medical(0.0) model(0.0) is(0.0) built(0.0) ,(0.0) instead(0.0) we(0.0) are(0.0) building(0.0) this(0.0) model(0.0) that(0.0) is(0.0) based(0.0) not(0.0) necessarily(0.0) on(0.0) 
+what(0.0) the(0.0) doctor(0.0) wants(0.0) or(0.0) what(0.0) the(0.0) patient(0.0) wants(0.0) but(0.0) what(0.0) the(0.0) person(0.0) who(0.0) is(0.0) paying(0.0) for(0.0) it(0.0) is(0.0) willing(0.0) 
+to(0.0) pay(0.0) ,(0.0) and(0.0) that(0.0) is(0.0) the(0.0) Government(1.0) or(0.0) the(0.0) insurance(1.0) company(0.0) in(0.0) the(0.0) models(0.0) we(0.0) have(0.0) created(0.0) in(0.0) 
+
+
+----- below are rationale words -----
+
+health	care	
+implications	President	implications	
+health	
+country	Speaker	
+1950	health	
+1950	
+health	care	1994	Speaker	
+health	care	paid	
+insurance	companies	Government	
+ethical	implication	
+opposed	cost	consumers	
+health	care	
+
+Speaker	
+Truffer	
+increasing	intrusion	
+ethic	medical	
+veterinary	
+sick	
+paying	
+Government-funded	health	care	programs	
+health	care	
+Western	
+
+Government	insurance	
+
+reads % = 0.092

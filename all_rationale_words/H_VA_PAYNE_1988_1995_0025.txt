@@ -1,0 +1,50 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) time(0.0) to(0.0) me(0.0) ,(0.0) and(0.0) I(0.0) thank(0.0) all(0.0) my(0.0) colleagues(0.0) in(0.0) the(0.0) coalition(1.0) 
+for(0.0) their(0.0) hard(0.0) work(0.0) on(0.0) this(0.0) substitute(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) there(0.0) are(0.0) many(0.0) good(0.0) reasons(0.0) why(0.0) this(0.0) substitute(1.0) is(0.0) 
+better(0.0) than(0.0) the(0.0) Republican(1.0) bill(1.0) .(1.0) But(1.0) let(1.0) me(1.0) just(1.0) tell(1.0) you(0.0) why(1.0) it's(0.0) better(0.0) for(0.0) all(0.0) Americans(1.0) who(0.0) are(0.0) 
+,(0.0) or(0.0) who(0.0) will(0.0) be(0.0) ,(0.0) served(0.0) by(0.0) Medicare(1.0) .(0.0) First(0.0) ,(0.0) the(0.0) coalition(1.0) budget(1.0) saves(1.0) Medicare(1.0) by(1.0) restoring(1.0) its(1.0) 
+hospital(0.0) trust(0.0) fund(1.0) .(0.0) But(0.0) unlike(0.0) the(0.0) Republican(0.0) budget(1.0) ,(1.0) our(1.0) plan(1.0) does(1.0) n't(1.0) ask(1.0) our(0.0) least(1.0) vulnerable(1.0) seniors(1.0) to(0.0) 
+shoulder(0.0) an(0.0) undue(1.0) burden(1.0) .(0.0) We(0.0) maintain(0.0) basic(0.0) part(0.0) B(0.0) premiums(1.0) for(0.0) seniors(1.0) at(0.0) 25(0.0) percent(0.0) while(0.0) we(0.0) ask(0.0) seniors(1.0) 
+who(0.0) earn(0.0) more(0.0) than(0.0) $(0.0) 50,000(0.0) to(0.0) pay(1.0) more(0.0) .(0.0) Overall(0.0) ,(0.0) our(0.0) budget(1.0) provides(0.0) $(0.0) 100(0.0) billion(1.0) more(0.0) for(0.0) 
+Medicare(1.0) over(0.0) 7(0.0) years(0.0) than(0.0) the(0.0) Republican(1.0) plan(1.0) .(1.0) Second(1.0) ,(1.0) the(0.0) coalition(1.0) 's(1.0) reforms(1.0) in(0.0) Medicare(1.0) wo(1.0) n't(1.0) destroy(1.0) 
+health(1.0) care(1.0) in(1.0) rural(1.0) and(0.0) other(0.0) medically(1.0) underserved(1.0) areas(0.0) .(0.0) Our(0.0) plan(1.0) avoids(1.0) deep(0.0) ,(0.0) harmful(1.0) cuts(1.0) in(0.0) payments(1.0) to(0.0) 
+these(0.0) vulnerable(1.0) hospitals(1.0) .(0.0) And(0.0) we(0.0) incorporate(0.0) vital(1.0) reforms(1.0) recommended(0.0) by(0.0) the(0.0) bipartisan(1.0) Rural(1.0) Health(1.0) Care(1.0) Coalition(1.0) .(1.0) Third(0.0) ,(0.0) 
+the(0.0) coalition(1.0) 's(0.0) Medicare(1.0) reforms(1.0) expand(1.0) coverage(1.0) for(0.0) preventive(1.0) medicine(1.0) .(0.0) Fourth(0.0) ,(0.0) the(0.0) coalition(1.0) 's(0.0) budget(1.0) fights(1.0) Medicare(1.0) fraud(1.0) 
+and(0.0) abuse(1.0) better(0.0) .(0.0) And(0.0) fifth(0.0) ,(0.0) our(0.0) Medicare(1.0) reforms(1.0) are(0.0) n't(0.0) based(0.0) on(0.0) gimmicks(1.0) such(0.0) as(0.0) the(0.0) look-back(1.0) provision(0.0) 
+.(0.0) The(0.0) reforms(1.0) made(0.0) by(0.0) the(0.0) coalition(1.0) are(0.0) clear(0.0) and(0.0) there(0.0) for(0.0) the(0.0) American(0.0) people(0.0) to(0.0) see(0.0) and(0.0) understand(0.0) .(0.0) 
+Mr.(0.0) Chairman(1.0) ,(0.0) the(0.0) Republicans(1.0) have(1.0) been(1.0) telling(1.0) us(1.0) for(1.0) months(1.0) now(0.0) that(0.0) we(0.0) must(0.0) cut(1.0) $(0.0) 270(0.0) billion(1.0) from(0.0) 
+Medicare(1.0) to(0.0) save(1.0) the(0.0) program(1.0) from(0.0) bankruptcy(1.0) and(0.0) to(0.0) balance(1.0) the(0.0) budget(1.0) .(0.0) Our(0.0) coalition(1.0) budget(1.0) proves(1.0) them(0.0) wrong(0.0) on(0.0) 
+both(0.0) counts(0.0) .(0.0) Our(0.0) plan(1.0) ensures(0.0) the(0.0) solvency(1.0) of(0.0) Medicare(1.0) ,(0.0) balances(1.0) the(0.0) budget(1.0) ,(0.0) and(0.0) protects(1.0) our(0.0) most(0.0) vulnerable(0.0) 
+seniors(1.0) ,(0.0) while(0.0) spending(1.0) $(0.0) 100(0.0) billion(1.0) more(0.0) than(0.0) the(0.0) Republican(1.0) plan(1.0) on(1.0) Medicare(1.0) for(1.0) the(1.0) next(1.0) 7(0.0) years(0.0) .(0.0) 
+The(0.0) New(1.0) York(1.0) Times(1.0) says(1.0) the(0.0) coalition(1.0) 's(0.0) plan(1.0) shows(0.0) ``(0.0) the(0.0) budget(1.0) can(0.0) be(0.0) balanced(0.0) by(0.0) 2002(0.0) without(0.0) pummeling(1.0) 
+the(0.0) poor(1.0) or(0.0) Medicare(1.0) .(0.0) ''(0.0) The(0.0) Washington(1.0) Post(1.0) says(1.0) our(0.0) budget(1.0) is(0.0) ``(0.0) easily(0.0) the(0.0) best(0.0) horse(0.0) in(0.0) the(0.0) 
+race(0.0) .(0.0) ''(0.0) These(0.0) and(0.0) many(0.0) other(0.0) newspapers(0.0) across(0.0) the(0.0) country(1.0) ,(0.0) as(0.0) well(0.0) as(0.0) the(0.0) Concord(1.0) Coalition(0.0) ,(0.0) are(0.0) 
+endorsing(1.0) the(0.0) coalition(1.0) 's(0.0) budget(1.0) .(0.0) I(0.0) urge(1.0) my(0.0) colleagues(0.0) to(0.0) vote(1.0) for(0.0) this(0.0) substitute(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+coalition	
+substitute	Chairman	substitute	
+Republican	bill	.	But	let	me	just	tell	why	Americans	
+Medicare	coalition	budget	saves	Medicare	by	restoring	its	
+fund	budget	,	our	plan	does	n't	ask	least	vulnerable	seniors	
+undue	burden	premiums	seniors	seniors	
+pay	budget	billion	
+Medicare	Republican	plan	.	Second	,	coalition	's	reforms	Medicare	wo	n't	destroy	
+health	care	in	rural	medically	underserved	plan	avoids	harmful	cuts	payments	
+vulnerable	hospitals	vital	reforms	bipartisan	Rural	Health	Care	Coalition	.	
+coalition	Medicare	reforms	expand	coverage	preventive	medicine	coalition	budget	fights	Medicare	fraud	
+abuse	Medicare	reforms	gimmicks	look-back	
+reforms	coalition	
+Chairman	Republicans	have	been	telling	us	for	months	cut	billion	
+Medicare	save	program	bankruptcy	balance	budget	coalition	budget	proves	
+plan	solvency	Medicare	balances	budget	protects	
+seniors	spending	billion	Republican	plan	on	Medicare	for	the	next	
+New	York	Times	says	coalition	plan	budget	pummeling	
+poor	Medicare	Washington	Post	says	budget	
+country	Concord	
+endorsing	coalition	budget	urge	vote	substitute	
+
+reads % = 0.36211031175059955

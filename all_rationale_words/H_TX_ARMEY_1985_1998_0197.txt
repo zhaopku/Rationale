@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+So(0.0) many(0.0) times(0.0) we(0.0) have(0.0) said(0.0) around(0.0) here(0.0) that(0.0) the(0.0) idea(0.0) is(0.0) bigger(0.0) than(0.0) the(0.0) man(0.0) .(0.0) Joe(0.0) White(1.0) once(0.0) again(0.0) 
+has(0.0) shown(0.0) us(0.0) the(0.0) idea(0.0) is(0.0) never(0.0) bigger(0.0) than(0.0) the(0.0) child(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+White	
+
+
+reads % = 0.030303030303030304

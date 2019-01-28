@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(1.0) to(0.0) honor(1.0) the(0.0) lives(0.0) of(0.0) two(0.0) American(0.0) heroes(1.0) .(0.0) In(0.0) May(0.0) ,(0.0) we(1.0) lost(0.0) two(0.0) of(0.0) the(0.0) 
+last(1.0) surviving(1.0) Navajo(0.0) Code(0.0) Talkers(1.0) ,(0.0) John(1.0) Brown(1.0) ,(0.0) Jr.(0.0) ,(0.0) of(0.0) Crystal(0.0) ,(0.0) New(0.0) Mexico(1.0) ,(0.0) and(0.0) Thomas(0.0) Claw(1.0) 
+of(0.0) Chinle(1.0) ,(0.0) Arizona(1.0) .(0.0) Navajo(0.0) Code(0.0) Talkers(1.0) saved(0.0) the(0.0) lives(0.0) of(0.0) countless(0.0) Americans(0.0) in(0.0) World(0.0) War(0.0) II(0.0) and(0.0) Korea(0.0) 
+by(0.0) using(0.0) DINE(1.0) to(0.0) communicate(0.0) without(0.0) risk(0.0) of(0.0) interception(1.0) .(0.0) Mr.(0.0) Brown(1.0) was(0.0) among(0.0) those(0.0) who(1.0) developed(0.0) the(0.0) original(0.0) code(0.0) 
+.(0.0) At(0.0) the(0.0) 2001(0.0) ceremony(1.0) ,(0.0) where(0.0) the(0.0) original(0.0) 29(0.0) Code(0.0) Talkers(1.0) received(0.0) Congressional(0.0) Gold(0.0) Medals(0.0) ,(0.0) he(0.0) said(1.0) ,(0.0) 
+``(1.0) As(0.0) Code(0.0) Talkers(1.0) ,(0.0) as(0.0) Marines(1.0) ,(0.0) we(0.0) did(0.0) our(0.0) part(0.0) to(0.0) protect(0.0) freedom(1.0) and(0.0) democracy(1.0) .(0.0) It(0.0) is(0.0) 
+my(0.0) hope(0.0) that(0.0) our(0.0) young(0.0) people(0.0) will(0.0) carry(0.0) on(0.0) this(0.0) honorable(1.0) tradition(0.0) as(0.0) long(1.0) as(0.0) the(0.0) grass(1.0) shall(0.0) grow(1.0) and(0.0) 
+the(0.0) rivers(1.0) flow(0.0) .(0.0) ''(0.0) I(0.0) hope(0.0) for(0.0) just(1.0) as(0.0) long(1.0) ,(0.0) we(0.0) remember(0.0) to(0.0) honor(1.0) the(0.0) memory(0.0) of(0.0) Mr.(0.0) 
+Brown(1.0) ,(0.0) Mr.(0.0) Claw(1.0) and(0.0) all(0.0) those(0.0) DINE(1.0) who(0.0) served(1.0) our(0.0) Nation(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+rise	honor	heroes	we	
+last	surviving	Talkers	John	Brown	Mexico	Claw	
+Chinle	Arizona	Talkers	
+DINE	interception	Brown	who	
+ceremony	Talkers	said	
+``	Talkers	Marines	freedom	democracy	
+honorable	long	grass	grow	
+rivers	just	long	honor	
+Brown	Claw	DINE	served	
+
+reads % = 0.21839080459770116

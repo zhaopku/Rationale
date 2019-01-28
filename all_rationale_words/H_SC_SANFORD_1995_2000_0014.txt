@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) yes(0.0) ,(0.0) that(0.0) is(0.0) one(0.0) of(0.0) the(0.0) important(0.0) points(0.0) about(0.0) a(0.0) personal(0.0) account(0.0) which(0.0) the(0.0) bill(1.0) of(0.0) the(0.0) gentleman(0.0) 
+from(0.0) Michigan(1.0) ((0.0) Mr.(0.0) Smith(1.0) )(0.0) does(1.0) ,(0.0) again(0.0) ,(0.0) which(0.0) is(0.0) actually(0.0) reforming(1.0) Social(0.0) Security(0.0) which(0.0) is(0.0) what(0.0) has(0.0) 
+to(0.0) happen(0.0) in(0.0) the(0.0) long(0.0) run(0.0) .(0.0) This(0.0) very(0.0) modest(0.0) step(0.0) ,(0.0) you(0.0) never(0.0) have(0.0) $(0.0) 8,000(0.0) ,(0.0) because(0.0) it(0.0) 
+only(0.0) deals(0.0) with(0.0) the(0.0) Social(0.0) Security(0.0) surplus(0.0) ;(0.0) but(0.0) what(0.0) it(0.0) would(0.0) show(0.0) is(0.0) the(0.0) point(0.0) that(0.0) you(0.0) raise(1.0) ,(0.0) 
+which(0.0) is(0.0) ,(0.0) right(0.0) now(0.0) one(0.0) of(0.0) the(0.0) reasons(0.0) it(0.0) is(0.0) so(0.0) easy(0.0) for(0.0) government(1.0) to(0.0) borrow(1.0) Social(0.0) Security(0.0) money(1.0) 
+is(0.0) that(0.0) nobody(0.0) has(0.0) any(0.0) clue(0.0) as(0.0) to(0.0) what(0.0) they(0.0) sent(0.0) in(0.0) over(0.0) all(0.0) the(0.0) years(0.0) they(0.0) have(0.0) been(0.0) working(0.0) 
+in(0.0) Social(1.0) Security(0.0) taxes(1.0) ,(0.0) and(0.0) ,(0.0) as(0.0) a(0.0) result(0.0) ,(0.0) if(0.0) you(0.0) do(0.0) not(0.0) even(0.0) know(0.0) how(0.0) much(0.0) you(0.0) 
+have(0.0) got(0.0) in(0.0) your(0.0) account(0.0) town(0.0) ,(0.0) it(0.0) is(0.0) very(0.0) easy(0.0) to(0.0) borrow(0.0) .(0.0) If(0.0) ,(0.0) instead(0.0) ,(0.0) you(0.0) knew(0.0) 
+to(0.0) the(0.0) penny(1.0) how(0.0) much(0.0) was(0.0) in(0.0) your(0.0) account(0.0) ,(0.0) immediately(0.0) you(0.0) would(0.0) detect(0.0) borrowing(0.0) and(0.0) ,(0.0) again(0.0) ,(0.0) help(0.0) 
+to(0.0) create(0.0) some(0.0) kind(0.0) of(0.0) political(1.0) firewall(0.0) between(0.0) political(1.0) forces(0.0) in(0.0) D.C.(1.0) and(0.0) this(0.0) money(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+bill	
+Michigan	Smith	does	reforming	
+
+raise	
+government	borrow	money	
+
+Social	taxes	
+
+penny	
+political	political	D.C.	money	
+
+reads % = 0.08121827411167512

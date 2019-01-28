@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Thank(0.0) you(0.0) for(0.0) heroically(1.0) sharing(0.0) with(0.0) us(0.0) the(0.0) horrific(1.0) experience(0.0) that(0.0) you(0.0) went(0.0) through(0.0) in(0.0) your(0.0) very(0.0) early(0.0) adulthood(0.0) .(0.0) That(0.0) 
+,(0.0) understandably(0.0) ,(0.0) continues(0.0) to(0.0) shape(0.0) your(0.0) view(0.0) of(0.0) gun(1.0) violence(1.0) .(0.0) Hopefully(0.0) ,(0.0) others(0.0) will(0.0) share(0.0) that(0.0) view(0.0) without(0.0) 
+having(0.0) to(0.0) go(0.0) through(0.0) such(0.0) a(0.0) horrific(0.0) experience(0.0) ,(0.0) but(0.0) thank(0.0) you(0.0) particularly(0.0) for(0.0) putting(0.0) a(0.0) face(0.0) on(0.0) the(0.0) tragedy(1.0) 
+at(0.0) Newtown(1.0) and(0.0) on(0.0) the(0.0) gun(1.0) violence(1.0) that(0.0) we(0.0) have(0.0) experienced(0.0) all(0.0) too(0.0) often(0.0) in(0.0) this(0.0) country(1.0) .(0.0) I(0.0) do(0.0) 
+think(0.0) that(0.0) the(0.0) tragedy(1.0) of(0.0) 20(0.0) tiny(0.0) ,(0.0) little(0.0) children(0.0) being(0.0) blown(0.0) to(0.0) bits(0.0) has(0.0) changed(0.0) the(0.0) conversation(0.0) and(0.0) has(0.0) 
+changed(0.0) the(0.0) attitude(0.0) of(0.0) the(0.0) American(0.0) people(0.0) ,(0.0) as(0.0) evidenced(0.0) by(0.0) the(0.0) 92(0.0) percent(0.0) who(0.0) understand(0.0) that(0.0) universal(1.0) background(0.0) checks(0.0) 
+are(0.0) appropriate(0.0) .(0.0) In(0.0) fact(0.0) ,(0.0) more(0.0) than(0.0) three-(0.0) quarters(0.0) of(0.0) NRA(1.0) members(1.0) believe(1.0) that(1.0) to(1.0) be(1.0) the(0.0) case(1.0) ,(0.0) 
+despite(1.0) what(0.0) Mr.(0.0) LaPierre(1.0) 's(1.0) official(1.0) position(1.0) is(0.0) .(0.0) It(0.0) would(0.0) seem(0.0) that(0.0) ,(0.0) perhaps(0.0) ,(0.0) he(0.0) is(0.0) more(0.0) interested(0.0) 
+in(0.0) representing(1.0) the(0.0) gun(1.0) manufacturers(1.0) than(0.0) the(0.0) members(0.0) of(0.0) the(0.0) association(0.0) .(0.0) I(0.0) also(0.0) learned(0.0) today(0.0) ,(0.0) as(0.0) many(0.0) of(0.0) 
+us(0.0) did(0.0) ,(0.0) that(0.0) the(0.0) chair(0.0) of(0.0) our(0.0) Judiciary(1.0) Committee(0.0) ,(0.0) out(0.0) of(0.0) concern(0.0) for(0.0) the(0.0) inconvenience(0.0) that(0.0) it(0.0) may(0.0) 
+cause(0.0) gun(1.0) purchasers(1.0) ,(0.0) has(0.0) decided(0.0) that(0.0) the(0.0) Judiciary(0.0) Committee(0.0) is(0.0) not(0.0) going(0.0) to(0.0) be(0.0) considering(0.0) universal(1.0) background(0.0) checks(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+heroically	horrific	
+gun	violence	
+tragedy	
+Newtown	gun	violence	country	
+tragedy	
+universal	
+NRA	members	believe	that	to	be	case	
+despite	LaPierre	's	official	position	
+representing	gun	manufacturers	
+Judiciary	
+gun	purchasers	universal	
+
+
+reads % = 0.13574660633484162

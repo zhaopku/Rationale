@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) rise(0.0) in(0.0) strong(0.0) opposition(1.0) to(0.0) the(0.0) original(0.0) text(0.0) of(0.0) H.R(0.0) .(0.0) 4590(0.0) .(0.0) I(0.0) will(0.0) support(0.0) the(0.0) Hamilton(1.0) 
+substitute(1.0) and(0.0) I(0.0) support(0.0) fully(0.0) President(0.0) Clinton(1.0) 's(0.0) courageous(0.0) decision(0.0) to(0.0) move(0.0) United(0.0) States-China(1.0) relations(0.0) away(0.0) from(0.0) the(0.0) annual(0.0) most-favored-nation(1.0) 
+[(0.0) MFN(1.0) ](0.0) status(1.0) confrontation(1.0) .(0.0) America(0.0) is(0.0) second(0.0) to(0.0) none(0.0) in(0.0) guaranteeing(1.0) basic(0.0) human(0.0) rights(1.0) to(0.0) its(0.0) own(0.0) citizens(1.0) 
+and(0.0) fostering(1.0) human(0.0) rights(1.0) throughout(0.0) the(0.0) world(0.0) .(0.0) Americans(1.0) will(0.0) always(0.0) cherish(0.0) this(0.0) virtue(1.0) and(0.0) never(0.0) abandon(0.0) this(0.0) noble(0.0) mission(0.0) 
+.(0.0) Several(0.0) weeks(0.0) ago(0.0) ,(0.0) I(0.0) had(0.0) the(0.0) privilege(1.0) of(0.0) participating(0.0) in(0.0) the(0.0) House(0.0) 's(0.0) third(0.0) Oxford-style(1.0) debate(1.0) addressing(1.0) the(0.0) 
+linkage(1.0) of(0.0) United(0.0) States(0.0) human(0.0) rights(1.0) and(0.0) trade(1.0) policies(1.0) .(0.0) Today(0.0) 's(0.0) debate(1.0) provides(0.0) the(0.0) opportunity(0.0) to(0.0) revisit(0.0) the(0.0) debate(1.0) 
+and(0.0) two(0.0) fundamental(1.0) questions(0.0) for(0.0) American(0.0) policy(1.0) makers(0.0) .(0.0) First(0.0) ,(0.0) should(0.0) America(1.0) use(0.0) its(0.0) trade(1.0) policy(1.0) to(0.0) reflect(0.0) our(0.0) 
+anger(0.0) with(0.0) a(0.0) given(0.0) nation(1.0) for(0.0) human(1.0) rights(1.0) abuses(1.0) against(0.0) its(0.0) citizens(1.0) ?(0.0) My(0.0) response(0.0) is(0.0) that(0.0) we(0.0) should(0.0) not(0.0) 
+.(0.0) For(0.0) it(0.0) is(0.0) a(0.0) policy(0.0) which(0.0) is(0.0) doomed(1.0) to(0.0) failure(1.0) ,(0.0) including(0.0) in(0.0) China(1.0) .(0.0) Second(0.0) ,(0.0) should(0.0) we(0.0) 
+use(0.0) our(0.0) trade(1.0) policy(1.0) as(0.0) a(0.0) means(0.0) to(0.0) foster(1.0) human(0.0) rights(1.0) throughout(0.0) the(0.0) world(0.0) ?(0.0) I(0.0) say(0.0) yes(0.0) .(0.0) For(0.0) 
+I(0.0) believe(0.0) that(0.0) basic(0.0) human(0.0) rights(1.0) are(0.0) best(0.0) improved(0.0) by(0.0) a(0.0) policy(0.0) of(0.0) open(0.0) trade(1.0) .(0.0) In(0.0) trade(1.0) ,(0.0) not(0.0) 
+only(0.0) are(0.0) goods(0.0) exchanged(0.0) ,(0.0) but(0.0) so(0.0) ,(0.0) too(0.0) ,(0.0) are(0.0) attitudes(1.0) ,(0.0) ideas(0.0) ,(0.0) the(0.0) rule(1.0) of(0.0) law(1.0) ,(0.0) 
+and(0.0) the(0.0) importance(0.0) of(0.0) procedural(1.0) rights(1.0) .(0.0) I(0.0) visited(0.0) Czechoslovakia(1.0) in(0.0) the(0.0) fall(0.0) of(0.0) 1989(0.0) .(0.0) There(0.0) ,(0.0) a(0.0) border(0.0) 
+guard(0.0) ,(0.0) in(0.0) the(0.0) dark(0.0) of(0.0) night(0.0) ,(0.0) told(0.0) me(0.0) that(0.0) exposure(0.0) to(0.0) the(0.0) western(0.0) world(0.0) ,(0.0) to(0.0) different(0.0) standards(0.0) 
+of(0.0) living(0.0) and(0.0) individual(0.0) freedoms(1.0) --(0.0) much(0.0) of(0.0) which(0.0) was(0.0) learned(0.0) through(0.0) tourists(0.0) ,(0.0) trade(1.0) ,(0.0) and(0.0) television(0.0) --(0.0) had(0.0) 
+as(0.0) much(0.0) to(0.0) do(0.0) with(0.0) their(0.0) quest(0.0) for(0.0) freedom(1.0) as(0.0) the(0.0) innate(0.0) resolve(0.0) of(0.0) all(0.0) individuals(0.0) to(0.0) be(0.0) free(0.0) .(0.0) 
+I(0.0) have(0.0) many(0.0) reasons(0.0) for(0.0) opposing(1.0) H.R(0.0) .(0.0) 4590(0.0) .(0.0) Today(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) focus(0.0) my(0.0) remarks(0.0) on(0.0) American(0.0) 
+jobs(1.0) --(0.0) for(0.0) it(0.0) is(0.0) the(0.0) American(0.0) worker(1.0) who(0.0) stands(0.0) to(0.0) lose(0.0) the(0.0) most(0.0) with(0.0) passage(1.0) of(0.0) this(0.0) legislation(1.0) .(0.0) 
+Already(0.0) some(0.0) 180,000(0.0) American(0.0) jobs(1.0) are(0.0) tied(0.0) to(0.0) China(1.0) exports(1.0) .(0.0) These(0.0) are(0.0) high(0.0) paying(1.0) jobs(1.0) ,(0.0) often(0.0) union(1.0) jobs(1.0) 
+,(0.0) in(0.0) aerospace(1.0) ,(0.0) industrial(1.0) machinery(1.0) ,(0.0) computers(0.0) ,(0.0) energy(1.0) and(0.0) electronics(0.0) .(0.0) Proponents(1.0) of(0.0) this(0.0) legislation(1.0) argue(1.0) that(0.0) China(1.0) 
+trade(1.0) is(0.0) a(0.0) job(0.0) loser(0.0) for(0.0) the(0.0) United(0.0) States(0.0) .(0.0) This(0.0) assertion(1.0) is(0.0) inaccurate(0.0) and(0.0) misleading(0.0) .(0.0) Yes(0.0) ,(0.0) the(0.0) 
+United(0.0) States(0.0) runs(0.0) a(0.0) trade(0.0) deficit(1.0) with(0.0) China(1.0) .(0.0) However(0.0) ,(0.0) look(0.0) at(0.0) the(0.0) goods(0.0) coming(0.0) into(0.0) the(0.0) United(0.0) States(0.0) 
+from(0.0) China(1.0) --(0.0) predominantly(0.0) toys(0.0) ,(0.0) apparel(1.0) ,(0.0) and(0.0) other(0.0) light(0.0) manufactured(0.0) goods(0.0) .(0.0) Regrettably(0.0) ,(0.0) these(0.0) jobs(0.0) left(0.0) American(0.0) 
+soil(0.0) years(0.0) ago(0.0) .(0.0) Passage(1.0) of(0.0) legislation(1.0) to(0.0) revoke(1.0) or(0.0) condition(0.0) China(0.0) 's(0.0) most-favored-nation(1.0) status(0.0) will(0.0) not(0.0) bring(0.0) these(0.0) jobs(0.0) 
+back(0.0) to(0.0) American(0.0) soil(0.0) .(0.0) Rather(0.0) ,(0.0) it(0.0) will(0.0) drive(0.0) them(0.0) to(0.0) other(0.0) third(0.0) world(0.0) developing(0.0) nations(1.0) with(0.0) lower(0.0) 
+
+
+----- below are rationale words -----
+
+opposition	Hamilton	
+substitute	Clinton	States-China	most-favored-nation	
+MFN	status	confrontation	guaranteeing	rights	citizens	
+fostering	rights	Americans	virtue	
+privilege	Oxford-style	debate	addressing	
+linkage	rights	trade	policies	debate	debate	
+fundamental	policy	America	trade	policy	
+nation	human	rights	abuses	citizens	
+doomed	failure	China	
+trade	policy	foster	rights	
+rights	trade	trade	
+attitudes	rule	law	
+procedural	rights	Czechoslovakia	
+
+freedoms	trade	
+freedom	
+opposing	
+jobs	worker	passage	legislation	
+jobs	China	exports	paying	jobs	union	jobs	
+aerospace	industrial	machinery	energy	Proponents	legislation	argue	China	
+trade	assertion	
+deficit	China	
+China	apparel	
+Passage	legislation	revoke	most-favored-nation	
+nations	
+
+reads % = 0.172

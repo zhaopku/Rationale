@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) I(0.0) join(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) York(1.0) ((0.0) Mr.(0.0) 
+MCHugh(1.0) )(0.0) in(1.0) bringing(0.0) to(0.0) the(0.0) House(0.0) floor(0.0) H.R(0.0) .(0.0) 4616(0.0) ,(0.0) legislation(0.0) naming(0.0) the(0.0) United(0.0) States(0.0) Post(1.0) Office(0.0) located(0.0) 
+at(0.0) 3813(0.0) Main(0.0) Street(0.0) in(0.0) East(0.0) Chicago(0.0) ,(0.0) Indiana(0.0) ,(0.0) as(0.0) the(0.0) Corporal(0.0) Harold(0.0) Gomez(0.0) Post(0.0) Office(0.0) Building(0.0) .(0.0) Corporal(0.0) 
+Gomez(0.0) ,(0.0) as(0.0) we(0.0) have(0.0) already(0.0) heard(0.0) ,(0.0) a(0.0) Vietnam(0.0) veteran(0.0) ,(0.0) was(0.0) a(0.0) fire(0.0) team(0.0) leader(0.0) in(0.0) a(0.0) rifle(0.0) 
+company(0.0) of(0.0) the(0.0) Third(0.0) Marine(0.0) Corps(0.0) during(0.0) the(0.0) Vietnam(0.0) War(0.0) .(0.0) He(0.0) was(0.0) the(0.0) recipient(0.0) of(0.0) the(0.0) Silver(0.0) Star(0.0) Medal(0.0) 
+for(0.0) his(0.0) leadership(0.0) and(0.0) bravery(0.0) during(0.0) his(0.0) service(0.0) ,(0.0) earning(0.0) recognition(0.0) for(0.0) his(0.0) actions(0.0) during(0.0) the(0.0) February(0.0) 21(0.0) ,(0.0) 1967(0.0) 
+battle(0.0) in(0.0) which(0.0) he(0.0) died(0.0) .(0.0) Corporal(0.0) Gomez(0.0) was(0.0) the(0.0) first(0.0) citizen(0.0) of(0.0) northwest(0.0) Indiana(0.0) to(0.0) die(0.0) in(0.0) the(0.0) Vietnam(0.0) 
+War(0.0) .(0.0) I(0.0) commend(0.0) the(0.0) Indiana(1.0) delegation(0.0) for(0.0) seeking(0.0) to(0.0) honor(0.0) such(0.0) a(0.0) man(0.0) ,(0.0) one(0.0) who(0.0) would(0.0) give(0.0) his(0.0) 
+life(0.0) in(0.0) the(0.0) service(0.0) of(0.0) his(0.0) country(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) such(0.0) time(0.0) as(0.0) he(0.0) may(0.0) consume(0.0) to(0.0) 
+the(0.0) gentleman(0.0) from(0.0) Indiana(1.0) ((0.0) Mr.(0.0) Visclosky(1.0) )(0.0) the(1.0) sponsor(0.0) of(0.0) this(0.0) measure(0.0) who(0.0) will(0.0) make(0.0) some(0.0) comments(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+York	
+MCHugh	in	Post	
+
+
+
+
+
+Indiana	
+Speaker	
+Indiana	Visclosky	the	
+
+reads % = 0.045

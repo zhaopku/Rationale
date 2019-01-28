@@ -1,0 +1,42 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(1.0) today(1.0) to(0.0) remind(0.0) my(0.0) colleagues(1.0) that(0.0) our(0.0) consideration(0.0) of(0.0) H.R(0.0) .(0.0) 4092(1.0) --(0.0) the(0.0) Violent(0.0) Crime(0.0) Control(0.0) 
+and(0.0) Law(1.0) Enforcement(0.0) Act(0.0) --(0.0) is(0.0) a(0.0) matter(0.0) of(0.0) life(0.0) and(0.0) death(1.0) .(0.0) A(1.0) few(0.0) weeks(1.0) ago(0.0) in(0.0) Seattle(1.0) ,(0.0) 
+16-year-old(1.0) Melissa(1.0) Fernandes(1.0) was(0.0) standing(0.0) outside(0.0) Ballard(1.0) High(0.0) School(0.0) with(0.0) a(0.0) group(0.0) of(0.0) her(0.0) friends(0.0) ,(0.0) when(0.0) two(0.0) cars(1.0) suddenly(0.0) 
+sped(1.0) past(0.0) and(0.0) shots(0.0) were(0.0) fired(1.0) .(0.0) Melissa(1.0) was(0.0) killed(1.0) ,(0.0) the(0.0) innocent(1.0) victim(1.0) of(0.0) a(0.0) drive-by(1.0) shooting(0.0) by(0.0) members(1.0) 
+of(0.0) one(0.0) gang(0.0) trying(0.0) to(0.0) settle(1.0) a(0.0) score(0.0) with(0.0) their(0.0) rivals(1.0) .(0.0) The(0.0) gunman(1.0) who(0.0) allegedly(1.0) shot(0.0) Melissa(1.0) Fernandes(1.0) is(0.0) 
+16(0.0) years(0.0) old(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) H.R(0.0) .(0.0) 4092(1.0) will(0.0) not(1.0) prevent(0.0) every(0.0) senseless(1.0) act(0.0) of(0.0) violence(1.0) .(0.0) Nothing(0.0) 
+we(0.0) can(0.0) do(0.0) will(0.0) accomplish(0.0) that(0.0) .(0.0) But(0.0) we(0.0) must(0.0) have(0.0) the(0.0) courage(0.0) to(0.0) take(0.0) the(0.0) steps(0.0) we(0.0) can(1.0) ,(0.0) 
+and(0.0) this(0.0) bill(0.0) will(0.0) help(0.0) communities(0.0) do(0.0) two(0.0) things(0.0) better(0.0) :(1.0) prevent(0.0) crime(0.0) and(0.0) punish(1.0) criminals(1.0) .(0.0) We(0.0) have(0.0) seen(0.0) 
+too(0.0) many(0.0) of(0.0) our(0.0) children(0.0) become(0.0) the(0.0) victims(1.0) of(0.0) violence(1.0) .(0.0) We(0.0) must(0.0) act(0.0) now(0.0) to(0.0) stop(0.0) the(0.0) violence(1.0) .(0.0) 
+I(0.0) met(0.0) recently(0.0) with(0.0) approximately(0.0) 50(0.0) students(1.0) from(0.0) five(0.0) different(1.0) high(0.0) schools(1.0) in(0.0) my(0.0) district(1.0) ,(0.0) and(0.0) I(0.0) was(0.0) shocked(1.0) 
+to(0.0) learn(0.0) that(0.0) the(0.0) thing(0.0) these(0.0) kids(0.0) were(0.0) worried(1.0) about(0.0) most(1.0) was(0.0) going(0.0) to(0.0) school(0.0) every(0.0) day(0.0) and(0.0) being(0.0) hurt(1.0) 
+,(0.0) or(1.0) even(0.0) killed(1.0) ,(0.0) by(0.0) one(0.0) of(0.0) their(0.0) own(0.0) classmates(0.0) .(0.0) When(1.0) I(0.0) asked(0.0) how(0.0) many(0.0) of(0.0) them(0.0) had(0.0) 
+seen(0.0) guns(0.0) in(0.0) their(0.0) school(0.0) ,(0.0) most(1.0) all(0.0) of(0.0) them(0.0) raised(0.0) their(0.0) hands(0.0) .(0.0) These(0.0) kids(0.0) do(0.0) not(1.0) know(0.0) whether(0.0) 
+crime(0.0) rates(0.0) are(0.0) going(0.0) up(0.0) or(1.0) down(1.0) .(0.0) What(0.0) they(0.0) know(1.0) is(0.0) the(0.0) story(0.0) of(0.0) Melissa(1.0) Fernandes(1.0) ,(0.0) and(0.0) too(0.0) 
+many(0.0) others(0.0) like(0.0) her(0.0) .(0.0) They(1.0) are(0.0) scared(1.0) --(0.0) and(0.0) they(0.0) have(0.0) reason(0.0) to(0.0) be(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) 
+urge(1.0) my(0.0) colleagues(1.0) to(0.0) support(0.0) H.R(0.0) .(0.0) 4092(1.0) ,(0.0) because(1.0) it(0.0) promotes(1.0) effective(0.0) prevention(1.0) and(0.0) prescribes(1.0) tough(0.0) punishment(1.0) .(0.0) For(0.0) 
+young(0.0) people(0.0) like(0.0) Melissa(1.0) Fernandes(1.0) ,(0.0) the(0.0) passage(0.0) of(0.0) this(0.0) bill(0.0) is(0.0) a(0.0) matter(0.0) of(0.0) life(0.0) and(0.0) death(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+rise	today	colleagues	4092	
+Law	death	A	weeks	Seattle	
+16-year-old	Melissa	Fernandes	Ballard	cars	
+sped	fired	Melissa	killed	innocent	victim	drive-by	members	
+settle	rivals	gunman	allegedly	Melissa	Fernandes	
+old	Speaker	4092	not	senseless	violence	
+can	
+:	punish	criminals	
+victims	violence	violence	
+students	different	schools	district	shocked	
+worried	most	hurt	
+or	killed	When	
+most	not	
+or	down	know	Melissa	Fernandes	
+They	scared	Speaker	
+urge	colleagues	4092	because	promotes	prevention	prescribes	punishment	
+Melissa	Fernandes	death	
+
+reads % = 0.21470588235294116

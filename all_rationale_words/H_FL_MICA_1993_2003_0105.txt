@@ -1,0 +1,56 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) urge(0.0) my(0.0) friends(0.0) in(0.0) the(0.0) Chamber(0.0) to(0.0) oppose(1.0) the(0.0) substitute(1.0) that(0.0) is(0.0) being(0.0) proposed(0.0) because(0.0) it(0.0) does(0.0) not(0.0) 
+offer(0.0) us(0.0) the(0.0) opportunity(0.0) for(0.0) the(0.0) flexibility(0.0) that(0.0) we(0.0) need(0.0) .(0.0) Let(0.0) me(0.0) say(0.0) at(0.0) the(0.0) outset(0.0) ,(0.0) and(0.0) this(0.0) 
+has(0.0) been(0.0) repeated(0.0) over(0.0) and(0.0) over(0.0) ,(0.0) that(0.0) the(0.0) proposal(1.0) before(0.0) us(0.0) does(0.0) keep(0.0) standards(1.0) ,(0.0) it(0.0) ensures(0.0) standards(1.0) ,(0.0) 
+it(0.0) has(0.0) fire(0.0) walls(0.0) to(0.0) protect(0.0) standards(1.0) and(0.0) it(0.0) even(0.0) increases(0.0) standards(1.0) as(0.0) we(0.0) heard(0.0) from(0.0) the(0.0) previous(0.0) speaker(0.0) ,(0.0) 
+because(0.0) for(0.0) the(0.0) first(0.0) time(0.0) we(0.0) will(0.0) have(0.0) teachers(0.0) who(0.0) have(0.0) qualifications(0.0) to(0.0) teach(0.0) our(0.0) most(0.0) disadvantaged(1.0) students(0.0) .(0.0) We(0.0) 
+increase(1.0) funding(1.0) .(0.0) There(0.0) is(0.0) no(0.0) diminution(0.0) of(0.0) funding(1.0) in(0.0) this(0.0) legislation(1.0) .(0.0) The(0.0) red(0.0) herring(1.0) that(0.0) at(0.0) some(0.0) point(0.0) 
+funding(1.0) will(0.0) be(0.0) decreased(0.0) or(0.0) diverted(1.0) is(0.0) not(0.0) possible(0.0) under(0.0) the(0.0) provisions(1.0) of(0.0) this(0.0) legislation(1.0) .(0.0) Most(0.0) importantly(0.0) ,(0.0) we(0.0) 
+do(0.0) improve(0.0) quality(0.0) .(0.0) I(0.0) described(0.0) earlier(0.0) the(0.0) problem(0.0) that(0.0) I(0.0) face(0.0) .(0.0) I(0.0) have(0.0) some(0.0) wonderful(0.0) Head(0.0) Start(0.0) programs(1.0) 
+.(0.0) I(0.0) represent(0.0) some(0.0) small(0.0) areas(0.0) and(0.0) some(0.0) large(0.0) metropolitan(1.0) areas(0.0) and(0.0) some(0.0) of(0.0) the(0.0) Head(0.0) Start(0.0) programs(1.0) are(0.0) great(0.0) 
+.(0.0) I(0.0) have(0.0) been(0.0) to(0.0) them(0.0) ;(0.0) I(0.0) have(0.0) seen(0.0) what(0.0) they(0.0) can(0.0) do(0.0) .(0.0) But(0.0) the(0.0) substitute(1.0) before(0.0) us(0.0) 
+would(0.0) eliminate(0.0) the(0.0) flexibility(0.0) that(0.0) we(0.0) need(0.0) in(0.0) some(0.0) of(0.0) our(0.0) other(0.0) areas(0.0) .(0.0) I(0.0) described(0.0) two(0.0) Head(0.0) Start(0.0) programs(1.0) 
+,(0.0) one(0.0) with(0.0) 200(0.0) children(0.0) ,(0.0) one(0.0) with(0.0) 300(0.0) and(0.0) not(0.0) enough(0.0) to(0.0) support(0.0) 34(0.0) noninstructive(0.0) personnel(0.0) that(0.0) are(0.0) required(0.0) 
+under(0.0) the(0.0) standards(0.0) that(0.0) we(0.0) can(0.0) not(0.0) get(0.0) any(0.0) flexibility(0.0) on(0.0) .(0.0) We(0.0) have(0.0) pleaded(1.0) to(0.0) try(0.0) to(0.0) have(0.0) that(0.0) 
+flexibility(0.0) ,(0.0) to(0.0) give(0.0) these(0.0) students(0.0) a(0.0) chance(0.0) .(0.0) So(0.0) here(0.0) we(0.0) have(0.0) for(0.0) the(0.0) first(0.0) time(0.0) the(0.0) opportunity(0.0) to(0.0) 
+improve(0.0) the(0.0) quality(0.0) .(0.0) Let(0.0) us(0.0) talk(0.0) about(0.0) the(0.0) students(0.0) that(0.0) we(0.0) have(0.0) ,(0.0) the(0.0) children(0.0) that(0.0) we(0.0) have(0.0) in(0.0) 
+these(0.0) programs(1.0) .(0.0) These(0.0) ,(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) are(0.0) our(0.0) poorest(1.0) children(0.0) .(0.0) These(0.0) are(0.0) our(0.0) most(0.0) disadvantaged(1.0) children(0.0) .(0.0) 
+These(0.0) are(0.0) our(0.0) children(0.0) that(0.0) maybe(0.0) are(0.0) social(1.0) problems(0.0) throughout(0.0) their(0.0) lives(0.0) .(0.0) Here(0.0) is(0.0) an(0.0) opportunity(0.0) to(0.0) improve(0.0) the(0.0) 
+quality(0.0) .(0.0) They(0.0) have(0.0) come(0.0) from(0.0) homes(0.0) where(0.0) they(0.0) can(0.0) not(0.0) have(0.0) that(0.0) advantage(0.0) ,(0.0) and(0.0) Head(0.0) Start(0.0) can(0.0) give(0.0) 
+them(0.0) that(0.0) advantage(0.0) .(0.0) We(0.0) can(0.0) do(0.0) more(0.0) even(0.0) with(0.0) less(0.0) money(1.0) .(0.0) I(0.0) measured(0.0) the(0.0) amount(0.0) of(0.0) money(1.0) we(0.0) 
+are(0.0) spending(1.0) in(0.0) this(0.0) one(0.0) program(1.0) that(0.0) is(0.0) over(0.0) two(0.0) counties(1.0) .(0.0) It(0.0) is(0.0) $(0.0) 8,439(0.0) .(0.0) I(0.0) have(0.0) no(0.0) 
+problem(0.0) with(0.0) spending(1.0) that(0.0) .(0.0) I(0.0) would(0.0) double(0.0) the(0.0) amount(0.0) if(0.0) the(0.0) program(1.0) is(0.0) effective(0.0) .(0.0) The(0.0) best(0.0) prep(0.0) school(0.0) 
+,(0.0) preschool(1.0) program(1.0) in(0.0) my(0.0) district(0.0) costs(0.0) ,(0.0) ironically(1.0) ,(0.0) $(0.0) 8,400(0.0) .(0.0) I(0.0) could(0.0) save(0.0) $(0.0) 39(0.0) and(0.0) send(0.0) 
+them(0.0) to(0.0) that(0.0) and(0.0) I(0.0) am(0.0) not(0.0) even(0.0) proposing(1.0) that(0.0) .(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) take(0.0) advantage(0.0) of(0.0) this(0.0) 
+opportunity(0.0) for(0.0) flexibility(0.0) and(0.0) quality(0.0) ,(0.0) improving(1.0) the(0.0) lives(0.0) of(0.0) our(0.0) most(0.0) needy(1.0) children(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+oppose	substitute	
+
+proposal	standards	standards	
+standards	standards	
+disadvantaged	
+increase	funding	funding	legislation	herring	
+funding	diverted	provisions	legislation	
+programs	
+metropolitan	programs	
+substitute	
+programs	
+
+pleaded	
+
+
+programs	Chairman	poorest	disadvantaged	
+social	
+
+money	money	
+spending	program	counties	
+spending	program	
+preschool	program	ironically	
+proposing	
+improving	needy	
+
+reads % = 0.0861344537815126

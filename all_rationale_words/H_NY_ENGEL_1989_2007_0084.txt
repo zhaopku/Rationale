@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) agree(0.0) to(0.0) the(0.0) concurrent(0.0) resolution(0.0) ((0.0) H.(0.0) Con(1.0) .(0.0) Res(0.0) .(0.0) 236(0.0) 
+)(0.0) recognizing(0.0) the(0.0) close(0.0) relationship(0.0) between(0.0) the(0.0) United(0.0) States(0.0) and(0.0) the(0.0) Republic(0.0) of(0.0) San(1.0) Marino(0.0) ,(0.0) as(0.0) amended(0.0) .(0.0) The(0.0) 
+Clerk(0.0) read(0.0) the(0.0) title(0.0) of(0.0) the(0.0) concurrent(0.0) resolution(0.0) .(0.0) The(0.0) text(0.0) of(0.0) the(0.0) concurrent(0.0) resolution(0.0) is(0.0) as(0.0) follows(0.0) :(0.0) H.(0.0) 
+Con(1.0) .(0.0) Res(0.0) .(0.0) 236(0.0) Whereas(0.0) the(0.0) Republic(0.0) of(0.0) San(0.0) Marino(0.0) is(0.0) the(0.0) oldest(0.0) republic(0.0) in(0.0) the(0.0) world(0.0) ;(0.0) Whereas(0.0) 
+the(0.0) Republic(0.0) of(0.0) San(1.0) Marino(0.0) was(0.0) founded(0.0) by(0.0) those(0.0) fleeing(0.0) the(0.0) religious(0.0) persecution(0.0) of(0.0) the(0.0) Roman(0.0) Empire(0.0) ,(0.0) and(0.0) has(0.0) 
+adhered(0.0) to(0.0) the(0.0) principles(0.0) of(0.0) tolerance(0.0) and(0.0) individual(0.0) liberty(1.0) throughout(0.0) its(0.0) history(0.0) ;(0.0) Whereas(0.0) the(0.0) United(0.0) States(0.0) and(0.0) the(0.0) Republic(0.0) 
+of(0.0) San(1.0) Marino(0.0) have(0.0) long(0.0) held(0.0) close(0.0) ties(0.0) based(0.0) on(0.0) common(0.0) interests(0.0) and(0.0) common(0.0) values(0.0) ;(0.0) Whereas(0.0) the(0.0) special(0.0) bond(0.0) 
+between(0.0) the(0.0) Republic(0.0) of(0.0) San(1.0) Marino(1.0) and(0.0) the(0.0) United(0.0) States(0.0) was(0.0) first(0.0) expressed(0.0) nearly(0.0) a(0.0) century(0.0) and(0.0) a(0.0) half(0.0) ago(0.0) 
+in(0.0) an(0.0) exchange(0.0) of(0.0) letters(0.0) between(0.0) President(0.0) Abraham(0.0) Lincoln(0.0) and(0.0) the(0.0) Captains(0.0) Regent(0.0) of(0.0) San(1.0) Marino(0.0) ;(0.0) Whereas(0.0) President(0.0) Lincoln(1.0) 
+expressed(0.0) in(0.0) his(0.0) letter(0.0) his(0.0) deep(0.0) respect(0.0) for(0.0) the(0.0) Republic(0.0) of(0.0) San(1.0) Marino(1.0) as(0.0) ``(0.0) one(0.0) of(0.0) the(0.0) most(0.0) honored(0.0) 
+in(0.0) all(0.0) of(0.0) history(0.0) ''(0.0) and(0.0) took(0.0) encouragement(0.0) from(0.0) its(0.0) example(0.0) that(0.0) a(0.0) ``(0.0) government(0.0) founded(0.0) on(0.0) republican(0.0) principles(1.0) is(0.0) 
+capable(0.0) of(0.0) being(0.0) so(0.0) administered(0.0) as(0.0) to(0.0) be(0.0) secure(0.0) and(0.0) enduring(0.0) ''(0.0) ;(0.0) Whereas(0.0) the(0.0) Republic(0.0) of(0.0) San(1.0) Marino(1.0) has(0.0) 
+been(0.0) a(0.0) steadfast(0.0) ally(0.0) of(0.0) the(0.0) United(0.0) States(0.0) in(0.0) many(0.0) international(0.0) organizations(0.0) ,(0.0) such(0.0) as(0.0) the(0.0) United(0.0) Nations(0.0) and(0.0) the(0.0) 
+International(0.0) Monetary(0.0) Fund(0.0) ;(0.0) Whereas(0.0) the(0.0) Republic(0.0) of(0.0) San(1.0) Marino(1.0) has(0.0) been(0.0) a(0.0) close(0.0) collaborator(0.0) on(0.0) a(0.0) number(0.0) of(0.0) key(0.0) 
+economic(1.0) issues(0.0) ,(0.0) such(0.0) as(0.0) the(0.0) protection(0.0) of(0.0) intellectual(1.0) property(0.0) ;(0.0) Whereas(0.0) the(0.0) Republic(1.0) of(0.0) San(1.0) Marino(1.0) has(0.0) been(0.0) a(0.0) 
+close(0.0) collaborator(0.0) in(0.0) the(0.0) fight(0.0) against(0.0) terrorism(1.0) ,(0.0) including(0.0) efforts(1.0) to(0.0) combat(0.0) international(0.0) terrorist(1.0) financing(1.0) ;(0.0) Whereas(0.0) through(0.0) its(0.0) chairmanship(0.0) 
+of(0.0) the(0.0) Committee(0.0) of(0.0) Ministers(0.0) of(0.0) the(0.0) Council(0.0) of(0.0) Europe(0.0) ,(0.0) the(0.0) Republic(1.0) of(0.0) San(1.0) Marino(1.0) has(0.0) worked(0.0) to(0.0) promote(0.0) 
+inter-religious(1.0) and(0.0) inter-(0.0) cultural(1.0) dialogue(0.0) ;(0.0) Whereas(0.0) earlier(0.0) this(0.0) year(0.0) ,(0.0) the(0.0) United(0.0) States(0.0) and(0.0) the(0.0) Republic(0.0) of(0.0) San(1.0) Marino(1.0) 
+upgraded(0.0) their(0.0) diplomatic(0.0) relations(0.0) to(0.0) ambassador-level(0.0) ,(0.0) and(0.0) exchanged(0.0) the(0.0) first(0.0) bilateral(0.0) Ambassadors(0.0) in(0.0) our(0.0) history(0.0) ;(0.0) Whereas(0.0) Paolo(0.0) Rondelli(1.0) 
+,(0.0) the(0.0) first(0.0) Ambassador(0.0) Extraordinary(0.0) and(0.0) Plenipotentiary(0.0) of(0.0) the(0.0) Republic(0.0) of(0.0) San(1.0) Marino(1.0) to(0.0) the(0.0) United(0.0) States(0.0) ,(0.0) presented(0.0) his(0.0) 
+credentials(0.0) to(0.0) President(0.0) Bush(1.0) at(0.0) a(0.0) ceremony(0.0) at(0.0) the(0.0) White(1.0) House(0.0) on(0.0) July(0.0) 25(0.0) ,(0.0) 2007(0.0) ;(0.0) and(0.0) Whereas(0.0) the(0.0) 
+Honorable(0.0) Ronald(0.0) P.(1.0) Spogli(1.0) presented(0.0) credentials(0.0) to(0.0) the(0.0) Captains(0.0) Regent(0.0) ((0.0) co-Heads(0.0) of(0.0) State(0.0) )(0.0) in(0.0) a(0.0) ceremony(0.0) in(0.0) San(1.0) 
+Marino(0.0) 's(0.0) Palazzo(0.0) Publico(0.0) on(0.0) March(0.0) 8(0.0) ,(0.0) 2007(0.0) :(0.0) Now(0.0) ,(0.0) therefore(0.0) ,(0.0) be(0.0) it(0.0) Resolved(0.0) by(0.0) the(0.0) House(0.0) 
+of(0.0) Representatives(0.0) ((0.0) the(0.0) Senate(0.0) concurring(0.0) )(0.0) ,(0.0) That(0.0) Congress(0.0) --(0.0) ((0.0) 1(0.0) )(0.0) recognizes(0.0) the(0.0) close(0.0) relationship(0.0) between(0.0) the(0.0) 
+United(0.0) States(0.0) and(0.0) the(0.0) Republic(0.0) of(0.0) San(0.0) Marino(0.0) ;(0.0) ((0.0) 2(0.0) )(0.0) expresses(0.0) its(0.0) deep(0.0) gratitude(0.0) to(0.0) the(0.0) Republic(0.0) 
+
+
+----- below are rationale words -----
+
+Con	
+San	
+
+Con	
+San	
+liberty	
+San	
+San	Marino	
+San	Lincoln	
+San	Marino	
+principles	
+San	Marino	
+
+San	Marino	
+economic	intellectual	Republic	San	Marino	
+terrorism	efforts	terrorist	financing	
+Republic	San	Marino	
+inter-religious	cultural	San	Marino	
+Rondelli	
+San	Marino	
+Bush	White	
+P.	Spogli	San	
+
+
+
+
+reads % = 0.082

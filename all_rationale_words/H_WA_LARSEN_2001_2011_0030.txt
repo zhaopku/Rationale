@@ -1,0 +1,38 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Chair(0.0) ,(0.0) I(0.0) claim(0.0) the(0.0) time(0.0) in(0.0) opposition(1.0) .(0.0) The(0.0) Acting(0.0) CHAIR(0.0) .(0.0) The(0.0) gentleman(0.0) is(0.0) recognized(0.0) for(0.0) 5(0.0) minutes(0.0) 
+.(0.0) I(0.0) reluctantly(0.0) rise(0.0) to(0.0) object(0.0) to(0.0) the(0.0) amendment(1.0) offered(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) Puerto(0.0) Rico(0.0) ,(0.0) which(0.0) would(0.0) undermine(1.0) 
+the(0.0) Jones(1.0) Act(1.0) .(0.0) The(0.0) amendment(1.0) would(0.0) allow(0.0) foreign-flagged(1.0) ,(0.0) foreign-built(1.0) ,(0.0) foreign-(0.0) owned(0.0) ,(0.0) and(0.0) foreign-manned(0.0) vessels(0.0) over(0.0) 100(0.0) 
+gross(0.0) tons(0.0) to(0.0) carry(0.0) passengers(0.0) within(0.0) Puerto(1.0) Rico(1.0) .(0.0) As(0.0) such(0.0) ,(0.0) this(0.0) waiver(1.0) would(0.0) disadvantage(0.0) U.S.(0.0) maritime(0.0) operators(0.0) and(0.0) 
+U.S.(0.0) seafarers(0.0) who(0.0) might(0.0) otherwise(0.0) provide(0.0) such(0.0) services(0.0) .(0.0) In(0.0) its(0.0) present(0.0) form(0.0) ,(0.0) we(0.0) can(0.0) not(0.0) support(0.0) the(0.0) amendment(1.0) 
+.(0.0) I(0.0) commend(0.0) the(0.0) gentleman(0.0) from(0.0) Puerto(0.0) Rico(0.0) for(0.0) his(0.0) sincere(0.0) efforts(0.0) to(0.0) expand(0.0) maritime(1.0) commerce(1.0) in(0.0) Puerto(1.0) Rico(1.0) ,(0.0) 
+but(0.0) I(0.0) can(0.0) not(0.0) support(0.0) the(0.0) amendment(1.0) he(0.0) has(0.0) offered(0.0) today(0.0) .(0.0) With(0.0) that(0.0) ,(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) 
+my(0.0) time(0.0) .(0.0) The(0.0) Acting(0.0) CHAIR(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) Puerto(0.0) Rico(0.0) has(0.0) 1(0.0) minute(0.0) remaining(0.0) ,(0.0) and(0.0) the(0.0) gentleman(0.0) 
+from(0.0) Washington(1.0) has(0.0) 4\1/2\(0.0) minutes(0.0) remaining(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) Washington(1.0) has(0.0) the(0.0) right(0.0) to(0.0) close(0.0) .(0.0) Madam(0.0) Chair(1.0) ,(0.0) 
+I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) The(0.0) Acting(0.0) CHAIR(0.0) .(0.0) The(0.0) question(0.0) is(0.0) on(0.0) the(0.0) amendment(1.0) offered(0.0) 
+by(0.0) the(0.0) gentleman(0.0) from(0.0) Puerto(0.0) Rico(0.0) ((0.0) Mr.(0.0) Pierluisi(1.0) )(0.0) .(0.0) The(0.0) question(0.0) was(0.0) taken(0.0) ;(0.0) and(0.0) the(0.0) Acting(0.0) Chair(0.0) 
+announced(0.0) that(0.0) the(0.0) ayes(1.0) appeared(0.0) to(0.0) have(0.0) it(0.0) .(0.0) The(0.0) Acting(0.0) CHAIR(0.0) .(0.0) Pursuant(0.0) to(0.0) clause(0.0) 6(0.0) of(0.0) rule(0.0) XVIII(0.0) 
+,(0.0) further(0.0) proceedings(0.0) on(0.0) the(0.0) amendment(0.0) offered(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) Puerto(1.0) Rico(1.0) will(0.0) be(0.0) postponed(0.0) .(0.0) Amendment(1.0) Offered(0.0) by(0.0) 
+Mr.(0.0) Young(1.0) of(0.0) Alaska(0.0) The(0.0) Acting(0.0) CHAIR(0.0) .(0.0) Pursuant(0.0) to(0.0) the(0.0) order(0.0) of(0.0) the(0.0) House(0.0) of(0.0) today(0.0) ,(0.0) it(0.0) is(0.0) 
+now(0.0) in(0.0) order(0.0) to(0.0) consider(0.0) the(0.0) amendment(1.0) by(0.0) Mr.(0.0) Young(1.0) of(0.0) Alaska(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+opposition	
+amendment	undermine	
+Jones	Act	amendment	foreign-flagged	foreign-built	
+Puerto	Rico	waiver	
+amendment	
+maritime	commerce	Puerto	Rico	
+amendment	
+
+Washington	Washington	Chair	
+amendment	
+Pierluisi	
+ayes	
+Puerto	Rico	Amendment	
+Young	
+amendment	Young	Alaska	
+
+reads % = 0.10204081632653061

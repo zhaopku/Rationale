@@ -1,0 +1,24 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) strike(1.0) the(0.0) requisite(0.0) number(0.0) of(0.0) words(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) want(0.0) to(0.0) quickly(0.0) congratulate(0.0) the(0.0) 
+authors(0.0) of(0.0) these(0.0) amendments(1.0) ,(0.0) the(0.0) amendment(1.0) itself(0.0) ,(0.0) and(0.0) amendment(1.0) to(0.0) the(0.0) amendment(1.0) .(0.0) As(0.0) I(0.0) said(0.0) earlier(0.0) ,(0.0) 
+I(0.0) thought(0.0) we(0.0) would(0.0) be(0.0) making(0.0) a(0.0) mistake(0.0) if(0.0) we(0.0) left(0.0) the(0.0) juvenile(1.0) issue(0.0) out(0.0) of(0.0) the(0.0) incarceration(1.0) issue(0.0) .(0.0) 
+I(0.0) think(0.0) it(0.0) is(0.0) very(0.0) important(0.0) .(0.0) One(0.0) of(0.0) the(0.0) plagues(1.0) on(0.0) our(0.0) local(1.0) communities(0.0) is(0.0) the(0.0) violent(1.0) juvenile(1.0) offenders(1.0) 
+.(0.0) While(0.0) we(0.0) are(0.0) talking(0.0) about(0.0) violent(1.0) offenders(1.0) ,(0.0) we(0.0) should(0.0) in(0.0) fact(0.0) be(0.0) talking(0.0) about(0.0) violent(1.0) juvenile(1.0) offenders(1.0) as(0.0) 
+well(0.0) .(0.0) So(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) the(0.0) Members(0.0) for(0.0) working(0.0) in(0.0) a(0.0) bipartisan(1.0) way(0.0) together(0.0) .(0.0) I(0.0) think(0.0) this(0.0) 
+is(0.0) a(0.0) terrific(0.0) improvement(0.0) in(0.0) this(0.0) legislation(1.0) ,(0.0) and(0.0) I(0.0) think(0.0) it(0.0) will(0.0) help(0.0) the(0.0) local(0.0) and(0.0) State(1.0) communities(0.0) realize(0.0) 
+they(0.0) have(0.0) a(0.0) more(0.0) effective(0.0) partnership(1.0) with(0.0) the(0.0) Federal(1.0) Government(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+strike	Chairman	
+amendments	amendment	amendment	amendment	
+juvenile	incarceration	
+plagues	local	violent	juvenile	offenders	
+violent	offenders	violent	juvenile	offenders	
+bipartisan	
+legislation	State	
+partnership	Federal	Government	
+
+reads % = 0.15789473684210525

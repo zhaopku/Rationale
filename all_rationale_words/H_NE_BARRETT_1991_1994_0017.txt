@@ -1,0 +1,24 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) am(0.0) greatly(0.0) disturbed(0.0) by(0.0) the(0.0) administration(1.0) 's(0.0) USDA(1.0) reorganization(1.0) plan(1.0) to(0.0) release(0.0) farm(0.0) ground(0.0) enrolled(0.0) in(0.0) the(0.0) Conservation(0.0) 
+Reserve(0.0) Program(0.0) ,(0.0) or(0.0) CRP(0.0) .(0.0) This(0.0) program(1.0) is(0.0) vital(0.0) to(0.0) helping(0.0) farmers(1.0) maintain(0.0) the(0.0) stewardship(1.0) of(0.0) the(0.0) land(0.0) ,(0.0) 
+by(0.0) saving(1.0) 690(0.0) million(0.0) tons(1.0) of(0.0) soil(1.0) from(0.0) erosion(1.0) each(0.0) year(0.0) .(0.0) The(0.0) CRP(1.0) holds(0.0) more(0.0) than(0.0) 36(0.0) million(0.0) acres(0.0) 
+of(0.0) highly(0.0) erodible(1.0) land(0.0) .(0.0) My(0.0) district(0.0) itself(0.0) contains(0.0) nearly(0.0) 1(0.0) million(0.0) of(0.0) those(0.0) acres(0.0) .(0.0) Unleashing(1.0) this(0.0) ground(0.0) into(0.0) 
+production(0.0) would(0.0) be(0.0) devastating(0.0) to(0.0) the(0.0) environment(0.0) ,(0.0) because(0.0) it(0.0) is(0.0) susceptible(0.0) to(0.0) erosion(1.0) .(0.0) It(0.0) would(0.0) also(0.0) devastate(1.0) the(0.0) 
+market(0.0) system(0.0) because(0.0) 10(0.0) million(0.0) idle(1.0) wheat(0.0) acres(0.0) ,(0.0) and(0.0) 4(0.0) million(0.0) idle(0.0) corn(1.0) acres(0.0) would(0.0) be(0.0) unleashed(0.0) onto(0.0) the(0.0) 
+market(0.0) place(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) have(0.0) cosponsored(1.0) Mr.(0.0) Bereuter(1.0) 's(0.0) bill(1.0) H.R(0.0) .(0.0) 3894(0.0) .(0.0) The(0.0) bill(0.0) extends(1.0) 
+the(0.0) CRP(0.0) for(0.0) 10(0.0) years(0.0) .(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) lend(0.0) their(0.0) support(0.0) to(0.0) continuing(0.0) the(0.0) CRP(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+administration	USDA	reorganization	plan	
+program	farmers	stewardship	
+saving	tons	soil	erosion	CRP	
+erodible	Unleashing	
+erosion	devastate	
+idle	corn	
+Speaker	cosponsored	Bereuter	bill	extends	
+CRP	
+
+reads % = 0.15

@@ -1,0 +1,56 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) am(1.0) pleased(0.0) to(0.0) cosponsor(1.0) and(0.0) support(0.0) H.R(0.0) .(0.0) 4772(1.0) ,(0.0) a(0.0) bill(0.0) to(0.0) honor(1.0) our(0.0) late(0.0) friend(0.0) and(0.0) 
+colleague(0.0) Walter(1.0) B.(1.0) Jones(0.0) by(0.0) naming(0.0) the(0.0) Federal(1.0) building(0.0) and(0.0) U.S(1.0) .(0.0) Courthouse(0.0) in(0.0) Greenville(1.0) ,(0.0) NC(1.0) ,(0.0) for(0.0) him(0.0) 
+.(0.0) Walter(1.0) Jones(0.0) served(1.0) the(0.0) people(0.0) of(0.0) eastern(1.0) North(0.0) Carolina(0.0) in(0.0) this(0.0) House(0.0) from(0.0) February(1.0) 1966(1.0) until(0.0) his(0.0) death(1.0) in(0.0) 
+September(0.0) 1992(0.0) .(0.0) Early(0.0) in(0.0) 1992(0.0) ,(0.0) he(0.0) had(1.0) announced(1.0) his(0.0) intention(0.0) to(0.0) retire(1.0) from(0.0) public(0.0) life(0.0) at(0.0) the(0.0) end(0.0) 
+of(0.0) the(0.0) year(0.0) ;(0.0) because(1.0) of(0.0) his(0.0) untimely(0.0) death(1.0) ,(0.0) his(0.0) colleagues(1.0) of(0.0) the(0.0) House(0.0) did(0.0) not(1.0) have(0.0) the(0.0) normal(0.0) 
+opportunity(0.0) to(0.0) let(0.0) him(0.0) know(0.0) what(0.0) he(0.0) meant(1.0) to(0.0) them(0.0) .(0.0) During(1.0) his(0.0) 26(0.0) years(0.0) in(0.0) Washington(1.0) ,(0.0) he(0.0) demonstrated(1.0) 
+time(0.0) and(0.0) again(0.0) that(0.0) he(0.0) considered(0.0) his(0.0) duty(0.0) to(0.0) his(0.0) constituents(0.0) to(0.0) be(0.0) his(0.0) highest(0.0) priority(0.0) .(0.0) The(0.0) people(0.0) of(0.0) 
+the(0.0) former(0.0) First(1.0) Congressional(0.0) District(0.0) sensed(1.0) his(0.0) love(1.0) for(0.0) them(0.0) ,(0.0) and(0.0) they(0.0) returned(1.0) that(0.0) love(1.0) in(0.0) many(0.0) forms(1.0) and(0.0) 
+on(0.0) numerous(0.0) occasions(0.0) .(0.0) He(0.0) chaired(0.0) the(0.0) Merchant(0.0) Marine(1.0) and(0.0) Fisheries(0.0) Committee(0.0) for(0.0) a(0.0) dozen(1.0) years(0.0) and(0.0) lead(0.0) that(0.0) panel(1.0) 
+in(0.0) a(0.0) quiet(0.0) but(0.0) effective(0.0) way(0.0) .(0.0) He(0.0) was(0.0) known(0.0) for(0.0) his(0.0) bipartisan(0.0) fairness(0.0) in(0.0) his(0.0) leadership(1.0) of(0.0) the(0.0) Committee(0.0) 
+.(0.0) Walter(1.0) Jones(0.0) had(0.0) many(0.0) legislative(1.0) achievements(0.0) in(0.0) this(0.0) House(0.0) .(0.0) They(1.0) include(0.0) :(1.0) Sponsorship(1.0) of(0.0) the(0.0) landmark(1.0) Oil(1.0) Pollution(0.0) 
+Act(0.0) ,(0.0) Congress(0.0) '(0.0) response(0.0) to(0.0) the(0.0) Exxon(1.0) Valdez(1.0) oil(1.0) spill(1.0) .(0.0) Amendments(1.0) to(0.0) the(0.0) Coastal(0.0) Zone(0.0) Management(0.0) Act(0.0) which(0.0) 
+overturned(1.0) a(0.0) Supreme(0.0) Court(0.0) decision(0.0) which(0.0) had(0.0) diminished(0.0) a(0.0) State(0.0) 's(0.0) right(1.0) to(0.0) review(0.0) Federal(1.0) actions(0.0) that(0.0) affected(1.0) that(0.0) State(1.0) 
+'s(0.0) coastal(1.0) areas(0.0) ;(0.0) Successful(1.0) opposition(1.0) to(0.0) Coast(1.0) Guard(0.0) user(0.0) fees(0.0) on(0.0) recreational(1.0) boaters(1.0) ;(0.0) Protection(1.0) of(0.0) the(0.0) North(0.0) Carolina(0.0) 
+Outer(1.0) Banks(0.0) from(0.0) offshore(1.0) oil(1.0) drilling(1.0) ;(0.0) Successful(0.0) resistance(0.0) to(0.0) efforts(0.0) to(0.0) eliminate(0.0) the(0.0) Sea(0.0) Grant(0.0) College(0.0) Program(0.0) and(0.0) initiation(1.0) 
+of(0.0) a(0.0) research(0.0) vessel(0.0) fleet(1.0) rebuilding(1.0) program(0.0) for(0.0) the(0.0) National(0.0) Oceanic(1.0) and(0.0) Atmospheric(0.0) Administration(0.0) ;(0.0) Sponsorship(1.0) of(0.0) the(0.0) Shipping(0.0) Act(0.0) 
+of(0.0) 1984(1.0) ,(0.0) a(0.0) major(0.0) rewrite(1.0) of(0.0) the(0.0) laws(1.0) regulating(0.0) the(0.0) ocean(1.0) transportation(1.0) of(0.0) goods(0.0) to(0.0) and(0.0) from(0.0) the(0.0) United(0.0) 
+States(0.0) ;(0.0) Major(1.0) expansion(0.0) of(0.0) the(0.0) National(0.0) Marine(1.0) Sanctuary(1.0) Program(0.0) ;(0.0) and(0.0) Sponsorship(0.0) of(0.0) the(0.0) Foreign(0.0) Shipping(0.0) Practices(0.0) Act(0.0) ,(0.0) 
+a(0.0) statute(1.0) which(0.0) enables(0.0) the(0.0) U.S.(0.0) Government(0.0) to(0.0) combat(1.0) discrimination(1.0) by(0.0) foreign(0.0) nations(1.0) against(0.0) U.S.(0.0) vessels(0.0) .(0.0) When(1.0) I(0.0) came(1.0) 
+to(0.0) the(0.0) House(0.0) in(0.0) 1986(0.0) ,(0.0) Walter(1.0) Jones(0.0) was(0.0) quick(0.0) to(0.0) befriend(1.0) me(0.0) and(0.0) was(0.0) always(0.0) ready(0.0) to(0.0) offer(0.0) guidance(0.0) 
+and(0.0) advice(0.0) when(0.0) I(0.0) sought(1.0) it(0.0) .(0.0) In(0.0) 1992(0.0) ,(0.0) when(0.0) it(0.0) became(0.0) apparent(0.0) that(0.0) redistricting(1.0) would(0.0) bring(0.0) many(0.0) of(0.0) 
+his(0.0) constituents(0.0) into(0.0) my(0.0) new(1.0) congressional(1.0) district(1.0) ,(0.0) he(0.0) diligently(1.0) helped(0.0) me(0.0) become(0.0) known(0.0) to(0.0) his(0.0) many(0.0) ,(0.0) many(0.0) supporters(1.0) 
+and(0.0) friends(0.0) .(0.0) It(0.0) is(0.0) altogether(0.0) fitting(0.0) that(0.0) this(0.0) House(0.0) honor(1.0) Walter(1.0) by(0.0) passing(0.0) this(0.0) legislation(0.0) .(0.0) I(0.0) congratulate(1.0) and(0.0) 
+thank(0.0) Mr.(0.0) Traficant(1.0) for(0.0) bringing(1.0) it(0.0) to(0.0) us(0.0) today(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+am	cosponsor	4772	honor	
+Walter	B.	Federal	U.S	Greenville	NC	
+Walter	served	eastern	February	1966	death	
+had	announced	retire	
+because	death	colleagues	not	
+meant	During	Washington	demonstrated	
+
+First	sensed	love	returned	love	forms	
+Marine	dozen	panel	
+leadership	
+Walter	legislative	They	:	Sponsorship	landmark	Oil	
+Exxon	Valdez	oil	spill	Amendments	
+overturned	right	Federal	affected	State	
+coastal	Successful	opposition	Coast	recreational	boaters	Protection	
+Outer	offshore	oil	drilling	initiation	
+fleet	rebuilding	Oceanic	Sponsorship	
+1984	rewrite	laws	ocean	transportation	
+Major	Marine	Sanctuary	
+statute	combat	discrimination	nations	When	came	
+Walter	befriend	
+sought	redistricting	
+new	congressional	district	diligently	supporters	
+honor	Walter	congratulate	
+Traficant	bringing	
+
+reads % = 0.208067940552017

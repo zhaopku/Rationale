@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) unfortunately(0.0) was(0.0) required(0.0) to(0.0) attend(0.0) a(0.0) funeral(0.0) in(0.0) my(0.0) Congressional(1.0) District(1.0) today(0.0) and(0.0) mised(1.0) roll(0.0) call(0.0) vote(0.0) No(0.0) 
+.(0.0) 498(0.0) .(0.0) Had(0.0) I(0.0) been(0.0) present(0.0) and(0.0) voting(1.0) ,(0.0) I(0.0) would(0.0) have(0.0) voted(0.0) ``(0.0) aye(0.0) ''(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Congressional	District	mised	
+voting	
+
+reads % = 0.10256410256410256

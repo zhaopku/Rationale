@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) the(0.0) bill(1.0) we(0.0) are(0.0) considering(0.0) this(0.0) 
+morning(0.0) is(0.0) a(0.0) compromise(0.0) bill(1.0) to(1.0) reform(1.0) the(0.0) National(0.0) Flood(1.0) Insurance(0.0) Program(1.0) [(0.0) NFIP(1.0) ](0.0) .(0.0) The(0.0) NFIP(1.0) is(0.0) administered(0.0) 
+by(0.0) the(0.0) Federal(1.0) Emergency(0.0) Management(0.0) Agency(0.0) [(0.0) FEMA(1.0) ](0.0) and(0.0) enables(0.0) property(0.0) owners(0.0) in(0.0) participating(0.0) communities(0.0) to(0.0) purchase(0.0) insurance(0.0) coverage(0.0) 
+against(0.0) flood-related(1.0) damage(0.0) .(0.0) Many(0.0) of(0.0) the(0.0) changes(0.0) that(0.0) the(0.0) bill(1.0) makes(0.0) to(0.0) the(0.0) flood(1.0) insurance(1.0) program(0.0) are(0.0) supported(0.0) by(0.0) 
+FEMA(1.0) and(0.0) other(0.0) organizations(1.0) --(0.0) both(0.0) public(1.0) and(0.0) private(0.0) --(0.0) who(0.0) work(0.0) with(0.0) FEMA(1.0) to(0.0) administer(0.0) the(0.0) flood(1.0) insurance(0.0) program(0.0) 
+.(0.0) The(0.0) original(0.0) version(0.0) of(0.0) this(0.0) bill(1.0) was(0.0) passed(0.0) by(0.0) the(0.0) Banking(0.0) Committee(0.0) last(0.0) year(0.0) with(0.0) bipartisan(1.0) support(0.0) --(0.0) 40-10(0.0) 
+.(0.0) I(0.0) think(0.0) the(0.0) changes(0.0) that(0.0) are(0.0) included(0.0) in(0.0) this(0.0) compromise(1.0) bill(1.0) will(1.0) enjoy(0.0) even(0.0) greater(0.0) support(0.0) .(0.0) The(0.0) bill(1.0) 
+is(0.0) intended(1.0) to(0.0) accomplish(1.0) three(0.0) objectives(1.0) .(0.0) First(0.0) to(0.0) increase(1.0) the(0.0) participation(1.0) rate(0.0) in(0.0) the(0.0) National(0.0) Flood(0.0) Insurance(0.0) Program(0.0) .(0.0) 
+Second(0.0) ,(0.0) to(0.0) encourage(0.0) States(0.0) ,(0.0) communities(1.0) ,(0.0) and(0.0) individuals(0.0) to(0.0) mitigate(1.0) the(0.0) effects(0.0) of(0.0) future(0.0) flooding(1.0) .(0.0) Finally(0.0) ,(0.0) 
+to(0.0) assess(0.0) the(0.0) economic(1.0) impact(0.0) of(0.0) mapping(0.0) --(0.0) or(0.0) not(0.0) mapping(0.0) --(0.0) erosion(1.0) hazard(1.0) areas(0.0) .(0.0) Although(0.0) the(0.0) bill(1.0) is(0.0) 
+straight(0.0) forward(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) discuss(0.0) the(0.0) areas(0.0) mentioned(0.0) .(0.0) increased(0.0) participation(1.0) According(0.0) to(0.0) FEMA(1.0) ,(0.0) only(0.0) abut(0.0) 17(0.0) 
+percent(0.0) of(0.0) those(0.0) who(0.0) live(0.0) in(0.0) special(0.0) flood(1.0) hazard(1.0) areas(0.0) and(0.0) who(0.0) should(0.0) have(0.0) flood(0.0) insurance(1.0) policyholders(1.0) .(0.0) The(0.0) bill(1.0) 
+requires(1.0) lenders(1.0) who(0.0) make(0.0) mortgages(1.0) in(0.0) such(0.0) areas(0.0) to(0.0) make(0.0) sure(0.0) that(0.0) flood(1.0) insurance(1.0) is(0.0) in(0.0) place(0.0) whenever(0.0) they(0.0) make(0.0) 
+increase(1.0) ,(0.0) extend(0.0) ,(0.0) or(0.0) renew(0.0) a(0.0) mortgage(0.0) .(0.0) In(0.0) addition(0.0) ,(0.0) this(0.0) bill(1.0) requires(1.0) lenders(1.0) to(0.0) escrow(1.0) for(0.0) flood(1.0) 
+insurance(1.0) payments(1.0) if(0.0) they(0.0) escrow(0.0) for(0.0) other(0.0) items(0.0) and(0.0) authorizes(0.0) them(0.0) to(0.0) purchase(0.0) flood(0.0) insurance(1.0) for(0.0) borrowers(1.0) who(0.0) fail(0.0) to(0.0) 
+do(0.0) so(0.0) .(0.0) The(0.0) provisions(1.0) of(0.0) the(0.0) bill(0.0) concerning(0.0) increased(0.0) participation(1.0) are(0.0) supported(0.0) by(0.0) the(0.0) American(0.0) Bankers(1.0) Association(0.0) and(0.0) the(0.0) 
+Mortgage(0.0) Bankers(0.0) Association(0.0) .(0.0) mitigation(1.0) activities(0.0) This(0.0) bill(0.0) institutes(1.0) a(0.0) self-sustaining(1.0) grant(0.0) program(0.0) to(0.0) fund(1.0) activities(0.0) to(0.0) mitigate(0.0) or(0.0) minimize(0.0) 
+the(0.0) effects(0.0) of(0.0) future(0.0) flooding(0.0) .(0.0) While(0.0) the(0.0) original(0.0) bill(1.0) only(0.0) made(0.0) States(0.0) and(0.0) communities(1.0) eligible(0.0) for(0.0) such(0.0) grants(1.0) ,(0.0) 
+this(0.0) compromise(1.0) bill(1.0) makes(1.0) individuals(0.0) eligible(1.0) as(0.0) well(0.0) .(0.0) The(0.0) bill(1.0) is(0.0) not(0.0) intended(0.0) to(0.0) promote(1.0) large-scale(1.0) construction(0.0) projects(0.0) such(0.0) 
+as(0.0) dams(1.0) or(0.0) levies(1.0) .(0.0) Rather(0.0) ,(0.0) it(0.0) is(0.0) intended(0.0) to(0.0) encourage(0.0) States(0.0) ,(0.0) communities(1.0) ,(0.0) and(0.0) individuals(0.0) to(0.0) elevate(0.0) 
+relocate(0.0) or(0.0) demolish(0.0) structures(0.0) that(0.0) are(0.0) repeatedly(0.0) flooded(0.0) .(0.0) While(0.0) this(0.0) bill(1.0) lists(1.0) a(0.0) number(0.0) of(0.0) activities(0.0) that(0.0) are(0.0) eligible(1.0) 
+for(0.0) grants(1.0) ,(0.0) it(0.0) permits(1.0) FEMA(1.0) to(0.0) approve(1.0) only(0.0) those(0.0) that(0.0) it(0.0) determines(0.0) are(0.0) cost-effective(0.0) to(0.0) the(0.0) Flood(1.0) Insurance(0.0) Program(0.0) 
+.(0.0) study(0.0) of(0.0) mapping(0.0) erosion(0.0) hazard(1.0) areas(0.0) The(0.0) provisions(0.0) of(0.0) this(0.0) compromise(1.0) bill(1.0) are(1.0) quite(0.0) different(0.0) than(0.0) those(0.0) of(0.0) the(0.0) 
+original(0.0) bill(1.0) with(0.0) regard(0.0) to(0.0) the(0.0) issue(0.0) of(0.0) erosion(1.0) .(0.0) Instead(0.0) of(0.0) requiring(1.0) FEMA(1.0) to(0.0) map(0.0) coastal(1.0) areas(0.0) subject(0.0) to(0.0) 
+high(0.0) rates(1.0) of(0.0) erosion(1.0) ,(0.0) this(0.0) compromise(1.0) bill(1.0) requires(1.0) a(0.0) comprehensive(0.0) study(0.0) of(0.0) the(0.0) issue(0.0) .(0.0) The(0.0) study(0.0) ,(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	bill	
+bill	to	reform	Flood	Program	NFIP	NFIP	
+Federal	FEMA	
+flood-related	bill	flood	insurance	
+FEMA	organizations	public	FEMA	flood	
+bill	bipartisan	
+compromise	bill	will	bill	
+intended	accomplish	objectives	increase	participation	
+communities	mitigate	flooding	
+economic	erosion	hazard	bill	
+participation	FEMA	
+flood	hazard	insurance	policyholders	bill	
+requires	lenders	mortgages	flood	insurance	
+increase	bill	requires	lenders	escrow	flood	
+insurance	payments	insurance	borrowers	
+provisions	participation	Bankers	
+mitigation	institutes	self-sustaining	fund	
+bill	communities	grants	
+compromise	bill	makes	eligible	bill	promote	large-scale	
+dams	levies	communities	
+bill	lists	eligible	
+grants	permits	FEMA	approve	Flood	
+hazard	compromise	bill	are	
+bill	erosion	requiring	FEMA	coastal	
+rates	erosion	compromise	bill	requires	
+
+reads % = 0.204

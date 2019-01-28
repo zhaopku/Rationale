@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) went(0.0) home(0.0) this(0.0) weekend(0.0) and(0.0) met(0.0) with(0.0) a(0.0) number(0.0) of(0.0) constituents(1.0) ,(0.0) and(0.0) one(0.0) of(0.0) the(0.0) things(0.0) that(0.0) they(0.0) brought(0.0) 
+out(0.0) is(0.0) that(0.0) they(0.0) understand(0.0) .(0.0) And(0.0) these(0.0) are(0.0) from(0.0) police(0.0) officers(0.0) ,(0.0) sheriffs(1.0) ,(0.0) builders(0.0) ,(0.0) developers(0.0) ,(0.0) grandmothers(0.0) 
+,(0.0) grandparents(0.0) .(0.0) They(0.0) are(0.0) saying(0.0) this(0.0) is(0.0) the(0.0) craziest(1.0) thing(0.0) they(0.0) have(0.0) ever(0.0) seen(0.0) in(0.0) their(0.0) life(0.0) .(0.0) And(0.0) 
+the(0.0) builders(0.0) and(0.0) developers(0.0) believe(0.0) that(0.0) simply(0.0) if(0.0) we(0.0) will(0.0) get(0.0) the(0.0) financial(1.0) situation(0.0) straight(0.0) ,(0.0) the(0.0) banking(1.0) straight(0.0) in(0.0) 
+this(0.0) country(1.0) ,(0.0) they(0.0) said(0.0) :(0.0) Look(0.0) ,(0.0) we(0.0) will(0.0) go(0.0) out(0.0) and(0.0) create(0.0) the(0.0) jobs(0.0) if(0.0) we(0.0) will(0.0) get(0.0) 
+where(0.0) we(0.0) can(0.0) lend(0.0) money(1.0) .(0.0) I(0.0) will(0.0) give(0.0) an(0.0) example(0.0) .(0.0) A(0.0) person(0.0) came(0.0) in(0.0) my(0.0) office(0.0) in(0.0) the(0.0) 
+local(0.0) district(0.0) ,(0.0) and(0.0) he(0.0) said(0.0) ,(0.0) Doc(0.0) ,(0.0) this(0.0) is(0.0) the(0.0) deal(0.0) I(0.0) am(0.0) trying(0.0) to(0.0) put(0.0) together(0.0) .(0.0) 
+He(0.0) had(0.0) 14(0.0) or(0.0) 15(0.0) commercial(0.0) lots(0.0) on(0.0) a(0.0) river(0.0) ,(0.0) beautiful(0.0) river(0.0) not(0.0) too(0.0) far(0.0) from(0.0) Knoxville(1.0) ,(0.0) Tennessee(1.0) 
+.(0.0) And(0.0) they(0.0) are(0.0) not(0.0) making(0.0) any(0.0) more(0.0) Holston(1.0) River(0.0) ,(0.0) not(0.0) making(0.0) any(0.0) more(0.0) lots(0.0) on(0.0) the(0.0) river(0.0) .(0.0) 
+It(0.0) was(0.0) a(0.0) $(0.0) 1.7(0.0) million(0.0) project(0.0) .(0.0) It(0.0) was(0.0) appraised(0.0) at(0.0) $(0.0) 2.3(0.0) million(0.0) .(0.0) He(0.0) put(0.0) $(0.0) 500,000(0.0) 
+of(0.0) his(0.0) own(0.0) money(1.0) down(0.0) on(0.0) this(0.0) project(0.0) .(0.0) The(0.0) bank(0.0) regulators(1.0) said(0.0) ,(0.0) okay(0.0) ,(0.0) if(0.0) you(0.0) had(0.0) to(0.0) 
+have(0.0) a(0.0) fire(0.0) sale(0.0) ,(0.0) what(0.0) could(0.0) you(0.0) sell(0.0) this(0.0) property(0.0) for(0.0) ,(0.0) the(0.0) bank(0.0) ,(0.0) in(0.0) one(0.0) month(0.0) ?(0.0) 
+Well(0.0) ,(0.0) nobody(0.0) does(0.0) a(0.0) project(0.0) like(0.0) that(0.0) where(0.0) you(0.0) have(0.0) got(0.0) to(0.0) liquidate(1.0) .(0.0) When(0.0) you(0.0) develop(0.0) homes(0.0) ,(0.0) 
+you(0.0) do(0.0) it(0.0) over(0.0) a(0.0) period(0.0) of(0.0) years(0.0) is(0.0) how(0.0) you(0.0) do(0.0) these(0.0) developments(0.0) .(0.0) The(0.0) appraiser(0.0) said(0.0) ,(0.0) well(0.0) 
+,(0.0) a(0.0) fire(0.0) sale(0.0) would(0.0) be(0.0) probably(0.0) $(0.0) 1.1(0.0) million(0.0) .(0.0) The(0.0) bank(0.0) then(0.0) said(0.0) that(0.0) was(0.0) a(0.0) bad(0.0) loan(0.0) 
+because(0.0) it(0.0) is(0.0) $(0.0) 100,000(0.0) upside(0.0) down(0.0) and(0.0) would(0.0) go(0.0) as(0.0) a(0.0) bad(0.0) loan(0.0) against(0.0) that(0.0) bank(0.0) .(0.0) Now(0.0) ,(0.0) 
+if(0.0) you(0.0) can't(0.0) release(0.0) capital(1.0) when(0.0) somebody(0.0) puts(0.0) down(0.0) $(0.0) 500,000(0.0) on(0.0) a(0.0) $(0.0) 1.7(0.0) million(0.0) project(0.0) ,(0.0) then(0.0) you(0.0) 
+ca(0.0) n't(0.0) do(0.0) business(0.0) .(0.0) And(0.0) that(0.0) is(0.0) one(0.0) of(0.0) the(0.0) things(0.0) that(0.0) is(0.0) clogging(1.0) up(0.0) right(0.0) now(0.0) ,(0.0) is(0.0) 
+this(0.0) access(0.0) to(0.0) capital(1.0) is(0.0) being(0.0) choked(0.0) off(0.0) .(0.0) And(0.0) until(0.0) we(0.0) open(0.0) the(0.0) capital(1.0) market(0.0) up(0.0) ,(0.0) you(0.0) are(0.0) 
+not(0.0) going(0.0) to(0.0) see(0.0) our(0.0) businesses(1.0) and(0.0) jobs(0.0) be(0.0) created(0.0) .(0.0) The(0.0) single(0.0) number(0.0) one(0.0) thing(0.0) the(0.0) President(1.0) of(0.0) the(0.0) 
+United(0.0) States(0.0) should(0.0) be(0.0) doing(0.0) right(0.0) now(0.0) is(0.0) making(0.0) sure(0.0) that(0.0) our(0.0) banks(1.0) are(0.0) solvent(1.0) and(0.0) that(0.0) capital(1.0) is(0.0) available(0.0) 
+,(0.0) and(0.0) that(0.0) we(0.0) can(0.0) go(0.0) out(0.0) and(0.0) let(0.0) these(0.0) business(0.0) people(0.0) create(0.0) jobs(1.0) .(0.0) And(0.0) they(0.0) can(0.0) not(0.0) create(0.0) 
+the(0.0) jobs(1.0) if(0.0) you(0.0) increase(1.0) tax(1.0) on(0.0) small(0.0) business(0.0) ,(0.0) because(0.0) that(0.0) is(0.0) where(0.0) most(0.0) of(0.0) the(0.0) jobs(0.0) are(0.0) being(0.0) 
+created(0.0) in(0.0) America(1.0) .(0.0) Certainly(0.0) in(0.0) my(0.0) district(0.0) that(0.0) is(0.0) the(0.0) case(0.0) .(0.0) Now(0.0) ,(0.0) we(0.0) have(0.0) been(0.0) very(0.0) fortunate(0.0) 
+in(0.0) our(0.0) area(0.0) .(0.0) The(0.0) unemployment(1.0) rate(1.0) overall(0.0) is(0.0) not(0.0) quite(0.0) as(0.0) high(0.0) as(0.0) it(0.0) is(0.0) Nationwide(0.0) ,(0.0) but(0.0) 
+
+
+----- below are rationale words -----
+
+constituents	
+sheriffs	
+craziest	
+financial	banking	
+country	
+money	
+
+Knoxville	Tennessee	
+Holston	
+
+money	regulators	
+
+liquidate	
+
+
+
+capital	
+clogging	
+capital	capital	
+businesses	President	
+banks	solvent	capital	
+jobs	
+jobs	increase	tax	
+America	
+unemployment	rate	
+
+reads % = 0.058

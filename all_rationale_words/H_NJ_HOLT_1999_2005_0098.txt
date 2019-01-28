@@ -1,0 +1,56 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) to(0.0) oppose(1.0) an(0.0) outrageous(1.0) provision(1.0) attached(0.0) to(0.0) previously(0.0) strong(0.0) legislation(1.0) .(0.0) I(0.0) am(0.0) shocked(0.0) and(0.0) disappointed(0.0) 
+that(0.0) the(0.0) majority(1.0) has(0.0) chosen(0.0) to(0.0) destroy(1.0) what(0.0) was(0.0) an(0.0) effective(0.0) ,(0.0) responsible(0.0) ,(0.0) and(0.0) bipartisan(1.0) bill(1.0) by(1.0) including(1.0) an(0.0) 
+indefensible(1.0) provision(1.0) to(0.0) restrict(1.0) nonpartisan(1.0) civic(1.0) activity(0.0) of(0.0) nonprofit(1.0) organizations(1.0) .(0.0) This(0.0) legislation(1.0) started(0.0) out(0.0) as(0.0) an(0.0) example(0.0) of(0.0) how(0.0) 
+the(0.0) legislative(1.0) process(0.0) should(0.0) work(0.0) .(0.0) The(0.0) Financial(0.0) Services(0.0) Committee(0.0) reported(0.0) a(0.0) bill(0.0) to(0.0) reform(1.0) Government(1.0) Sponsored(0.0) Enterprises(0.0) ,(0.0) GSEs(1.0) 
+,(0.0) and(0.0) establish(0.0) an(0.0) Affordable(1.0) Housing(1.0) Fund(0.0) ,(0.0) AHF(1.0) .(0.0) The(0.0) bill(1.0) would(1.0) increase(1.0) home(0.0) ownership(0.0) among(0.0) low-income(1.0) families(0.0) ,(0.0) 
+increase(1.0) investment(1.0) in(0.0) housing(1.0) in(0.0) low(0.0) income(1.0) and(0.0) economically(1.0) distressed(1.0) areas(0.0) ,(0.0) and(0.0) in(0.0) general(0.0) increase(1.0) the(0.0) Nation's(0.0) supply(0.0) of(0.0) 
+affordable(1.0) housing(1.0) .(0.0) The(0.0) bill(1.0) received(0.0) broad(0.0) bipartisan(1.0) support(0.0) ,(0.0) reported(0.0) by(0.0) a(0.0) vote(0.0) of(0.0) 65-5(1.0) .(0.0) It(0.0) is(0.0) unfortunate(0.0) 
+that(0.0) the(0.0) majority(1.0) has(0.0) chosen(0.0) to(0.0) mandate(1.0) consideration(0.0) of(0.0) a(0.0) bill(0.0) that(0.0) includes(0.0) a(0.0) provision(1.0) restricting(1.0) nonpartisan(1.0) civic(1.0) activities(0.0) of(0.0) 
+nonprofit(1.0) organizations(0.0) ,(0.0) even(0.0) if(0.0) they(0.0) use(0.0) their(0.0) own(0.0) funds(1.0) to(0.0) conduct(0.0) such(0.0) activities(0.0) .(0.0) Nonprofit(1.0) organizations(1.0) ((0.0) and(0.0) any(0.0) 
+affiliate(0.0) of(0.0) the(0.0) nonprofit(1.0) )(0.0) would(0.0) be(0.0) prohibited(0.0) from(0.0) engaging(0.0) in(0.0) nonpartisan(1.0) voter(1.0) registration(1.0) or(0.0) get-out-the-vote(1.0) activities(0.0) .(0.0) These(0.0) restrictions(1.0) 
+would(0.0) force(0.0) low-income(1.0) housing(1.0) groups(0.0) and(0.0) faith-based(1.0) groups(0.0) to(0.0) choose(0.0) between(0.0) obtaining(0.0) funding(1.0) for(0.0) low-income(1.0) housing(1.0) and(0.0) using(0.0) other(0.0) funds(1.0) 
+to(0.0) engage(0.0) in(0.0) nonpartisan(1.0) voter(1.0) registration(1.0) and(0.0) get-(0.0) out-the-vote(0.0) activities(0.0) .(0.0) In(0.0) my(0.0) home(0.0) State(0.0) of(0.0) New(1.0) Jersey(1.0) ,(0.0) organizations(1.0) 
+like(0.0) Catholic(1.0) Charities(1.0) provide(0.0) vital(0.0) social(1.0) services(0.0) to(0.0) vulnerable(0.0) people(0.0) in(0.0) need(0.0) ,(0.0) such(0.0) as(0.0) food(1.0) ,(0.0) clothing(0.0) ,(0.0) counseling(1.0) 
+,(0.0) and(0.0) health(1.0) services(1.0) .(0.0) They(0.0) also(0.0) routinely(0.0) hold(0.0) voter(1.0) registration(1.0) drives(0.0) before(0.0) elections(1.0) and(0.0) provide(0.0) elderly(1.0) and(0.0) disabled(0.0) voters(0.0) 
+with(0.0) transportation(1.0) to(0.0) the(0.0) polls(1.0) .(0.0) Their(0.0) activities(0.0) are(0.0) nonpartisan(1.0) and(0.0) play(0.0) a(0.0) vital(0.0) role(0.0) in(0.0) ensuring(1.0) that(0.0) people(0.0) are(0.0) 
+able(0.0) to(0.0) vote(1.0) if(0.0) they(0.0) so(0.0) desire(0.0) .(0.0) Under(0.0) this(0.0) legislation(1.0) ,(0.0) they(0.0) would(0.0) no(0.0) longer(0.0) be(0.0) able(0.0) to(0.0) fulfill(0.0) 
+this(0.0) function(0.0) .(0.0) This(0.0) body(0.0) should(0.0) not(0.0) prohibit(1.0) social(1.0) service(0.0) organizations(0.0) from(0.0) conducting(0.0) nonpartisan(1.0) civic(1.0) activities(0.0) .(0.0) The(0.0) majority(1.0) protests(1.0) 
+loudly(0.0) when(0.0) its(0.0) actions(1.0) are(0.0) judged(0.0) to(0.0) be(0.0) motivated(0.0) by(0.0) a(0.0) desire(0.0) to(0.0) suppress(1.0) voter(1.0) turnout(1.0) and(0.0) civic(1.0) participation(1.0) in(0.0) 
+urban(1.0) or(0.0) low-income(1.0) areas(0.0) .(0.0) From(0.0) the(0.0) inclusion(1.0) of(0.0) this(0.0) discriminatory(1.0) provision(1.0) ,(0.0) it(0.0) is(0.0) difficult(0.0) to(0.0) reach(0.0) any(0.0) other(0.0) 
+conclusion(0.0) .(0.0) Today(0.0) this(0.0) rule(1.0) blocks(0.0) an(0.0) amendment(1.0) by(0.0) Representative(1.0) Barney(1.0) Frank(1.0) that(0.0) would(1.0) remove(0.0) this(0.0) provision(1.0) .(0.0) It(0.0) is(0.0) 
+disheartening(0.0) to(0.0) see(0.0) that(0.0) ,(0.0) at(0.0) a(0.0) time(0.0) when(0.0) the(0.0) majority(1.0) and(0.0) the(0.0) administration(1.0) claims(0.0) to(0.0) support(0.0) removing(0.0) barriers(1.0) for(0.0) 
+faith-based(1.0) organizations(0.0) ,(0.0) this(0.0) provision(1.0) has(0.0) been(0.0) included(0.0) to(0.0) restrict(1.0) the(0.0) activities(0.0) they(0.0) are(0.0) permitted(0.0) to(0.0) conduct(0.0) .(0.0) Inclusion(1.0) of(0.0) 
+the(0.0) provision(1.0) has(0.0) sunk(0.0) the(0.0) prospects(0.0) of(0.0) passing(0.0) strong(0.0) and(0.0) bipartisan(1.0) legislation(1.0) that(0.0) will(1.0) help(0.0) the(0.0) most(0.0) vulnerable(1.0) obtain(0.0) affordable(1.0) 
+housing(1.0) .(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) reject(1.0) this(0.0) rule(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+oppose	outrageous	provision	legislation	
+majority	destroy	bipartisan	bill	by	including	
+indefensible	provision	restrict	nonpartisan	civic	nonprofit	organizations	legislation	
+legislative	reform	Government	GSEs	
+Affordable	Housing	AHF	bill	would	increase	low-income	
+increase	investment	housing	income	economically	distressed	increase	
+affordable	housing	bill	bipartisan	65-5	
+majority	mandate	provision	restricting	nonpartisan	civic	
+nonprofit	funds	Nonprofit	organizations	
+nonprofit	nonpartisan	voter	registration	get-out-the-vote	restrictions	
+low-income	housing	faith-based	funding	low-income	housing	funds	
+nonpartisan	voter	registration	New	Jersey	organizations	
+Catholic	Charities	social	food	counseling	
+health	services	voter	registration	elections	elderly	
+transportation	polls	nonpartisan	ensuring	
+vote	legislation	
+prohibit	social	nonpartisan	civic	majority	protests	
+actions	suppress	voter	turnout	civic	participation	
+urban	low-income	inclusion	discriminatory	provision	
+rule	amendment	Representative	Barney	Frank	would	provision	
+majority	administration	barriers	
+faith-based	provision	restrict	Inclusion	
+provision	bipartisan	legislation	will	vulnerable	affordable	
+housing	reject	rule	
+
+reads % = 0.2690677966101695

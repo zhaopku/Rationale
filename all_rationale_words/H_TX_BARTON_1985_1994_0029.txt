@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) in(0.0) opposition(1.0) to(0.0) the(0.0) Freedom(1.0) of(0.0) Access(1.0) to(0.0) Clinics(1.0) Act(1.0) ,(0.0) S.(0.0) 636(0.0) .(0.0) If(0.0) passed(0.0) ,(0.0) 
+for(0.0) the(0.0) first(0.0) time(0.0) in(0.0) our(0.0) Nation(1.0) 's(0.0) history(0.0) we(0.0) will(0.0) make(0.0) it(0.0) a(0.0) Federal(1.0) crime(1.0) in(0.0) a(0.0) real(0.0) sense(0.0) 
+to(0.0) express(0.0) an(0.0) opinion(0.0) on(0.0) an(0.0) issue(0.0) that(0.0) some(0.0) people(0.0) may(0.0) think(0.0) is(0.0) politically(1.0) incorrect(0.0) ,(0.0) i.e.(0.0) ,(0.0) that(0.0) pro-life(1.0) 
+is(0.0) a(0.0) very(0.0) important(0.0) issue(0.0) that(0.0) we(0.0) should(0.0) all(0.0) try(0.0) to(0.0) support(0.0) .(0.0) There(0.0) are(0.0) enough(0.0) laws(1.0) on(0.0) the(0.0) books(0.0) 
+at(0.0) the(0.0) Federal(1.0) level(0.0) ,(0.0) State(1.0) level(0.0) ,(0.0) and(0.0) local(0.0) level(0.0) to(0.0) prevent(0.0) protesters(1.0) that(0.0) abuse(1.0) the(0.0) right(0.0) to(0.0) peacefully(0.0) 
+demonstrate(0.0) on(0.0) public(1.0) property(0.0) .(0.0) We(0.0) do(0.0) not(0.0) need(0.0) to(0.0) make(0.0) a(0.0) Federal(1.0) crime(1.0) out(0.0) of(0.0) pro-life(1.0) believers(1.0) who(0.0) try(0.0) 
+to(0.0) counsel(0.0) on(0.0) sidewalks(1.0) and(0.0) who(0.0) try(0.0) to(0.0) in(0.0) some(0.0) way(0.0) exercise(0.0) their(0.0) first-amendment(1.0) rights(1.0) to(0.0) freedom(1.0) of(0.0) speech(1.0) .(0.0) 
+I(0.0) know(0.0) that(0.0) some(0.0) pro-life(1.0) protesters(1.0) have(0.0) abused(1.0) the(0.0) privilege(1.0) that(0.0) we(0.0) have(0.0) in(0.0) our(0.0) Constitution(1.0) .(0.0) I(0.0) know(0.0) that(0.0) 
+those(0.0) protesters(1.0) have(0.0) been(0.0) dealt(0.0) with(0.0) very(0.0) aggressively(0.0) at(0.0) the(0.0) State(0.0) and(0.0) local(0.0) level(0.0) .(0.0) We(0.0) certainly(0.0) do(0.0) not(0.0) need(0.0) 
+to(0.0) make(0.0) this(0.0) a(0.0) Federal(1.0) crime(1.0) .(0.0) We(0.0) should(0.0) legislate(1.0) for(0.0) the(0.0) general(0.0) ,(0.0) not(0.0) for(0.0) the(0.0) exceptional(0.0) ,(0.0) rule(1.0) 
+,(0.0) and(0.0) for(0.0) that(0.0) reason(0.0) I(0.0) would(0.0) hope(0.0) that(0.0) we(0.0) would(0.0) vote(1.0) this(0.0) bill(1.0) down(0.0) and(0.0) vote(1.0) no(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+opposition	Freedom	Access	Clinics	Act	
+Nation	Federal	crime	
+politically	pro-life	
+laws	
+Federal	State	protesters	abuse	
+public	Federal	crime	pro-life	believers	
+sidewalks	first-amendment	rights	freedom	speech	
+pro-life	protesters	abused	privilege	Constitution	
+protesters	
+Federal	crime	legislate	rule	
+vote	bill	vote	
+
+reads % = 0.17272727272727273

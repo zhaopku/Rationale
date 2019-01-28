@@ -1,0 +1,10 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) may(0.0) I(0.0) inquire(0.0) if(0.0) the(0.0) minority(1.0) has(0.0) any(0.0) more(0.0) speakers(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+minority	
+
+reads % = 0.07692307692307693

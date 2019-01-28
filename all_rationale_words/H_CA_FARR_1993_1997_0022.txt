@@ -1,0 +1,40 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) to(0.0) bring(0.0) attention(0.0) to(0.0) the(0.0) conference(0.0) that(0.0) my(0.0) distinguished(0.0) colleague(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Pennsylvania(1.0) [(0.0) Mr.(0.0) 
+Weldon(1.0) ](0.0) just(1.0) talked(1.0) about(0.0) .(0.0) We(0.0) are(0.0) very(0.0) blessed(0.0) in(0.0) this(0.0) country(1.0) to(0.0) be(0.0) surrounded(0.0) by(0.0) oceans(1.0) and(0.0) pay(1.0) 
+a(0.0) lot(0.0) of(0.0) attention(0.0) to(0.0) it(0.0) ,(0.0) but(0.0) we(0.0) really(0.0) do(0.0) not(0.0) pay(0.0) enough(0.0) attention(0.0) because(0.0) the(0.0) seas(1.0) of(0.0) the(0.0) 
+world(0.0) are(0.0) important(0.0) to(0.0) keep(0.0) us(0.0) alive(0.0) .(0.0) This(0.0) is(0.0) a(0.0) water(0.0) planet(0.0) ,(0.0) we(0.0) are(0.0) ,(0.0) 78(0.0) percent(0.0) of(0.0) 
+this(0.0) globe(0.0) is(0.0) water(0.0) and(0.0) it(0.0) is(0.0) threatened(0.0) .(0.0) One(0.0) thing(0.0) that(0.0) we(0.0) found(0.0) out(0.0) in(0.0) this(0.0) conference(0.0) is(0.0) that(0.0) 
+everybody(0.0) in(0.0) the(0.0) world(0.0) agrees(0.0) with(0.0) that(0.0) and(0.0) wants(0.0) to(0.0) do(0.0) something(0.0) about(0.0) it(0.0) .(0.0) If(0.0) we(0.0) could(0.0) just(0.0) dedicate(0.0) 
+enough(0.0) of(0.0) our(0.0) commitment(1.0) to(0.0) research(0.0) and(0.0) science(0.0) using(0.0) the(0.0) military(0.0) ,(0.0) using(0.0) the(0.0) scientific(0.0) community(0.0) ,(0.0) the(0.0) academic(0.0) community(0.0) 
+,(0.0) using(0.0) the(0.0) commercial(0.0) community(0.0) ,(0.0) and(0.0) unlock(0.0) the(0.0) information(0.0) about(0.0) the(0.0) ocean(0.0) ,(0.0) at(0.0) the(0.0) same(0.0) time(0.0) to(0.0) gather(0.0) 
+a(0.0) lot(0.0) more(0.0) .(0.0) In(0.0) fact(0.0) ,(0.0) this(0.0) country(1.0) spends(1.0) more(0.0) on(0.0) studying(0.0) the(0.0) seas(1.0) of(0.0) outer(0.0) planets(0.0) than(0.0) we(0.0) 
+do(0.0) in(0.0) studying(0.0) our(0.0) own(0.0) seas(0.0) ,(0.0) and(0.0) that(0.0) is(0.0) wrong(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) Pennsylvania(1.0) [(0.0) Mr.(0.0) Weldon(1.0) ](0.0) 
+did(1.0) an(1.0) incredible(0.0) job(0.0) for(0.0) this(0.0) country(1.0) by(0.0) leading(0.0) this(0.0) conference(0.0) in(0.0) the(0.0) last(0.0) 3(0.0) days(0.0) .(0.0) And(0.0) I(0.0) just(0.0) 
+want(0.0) to(0.0) urge(0.0) all(0.0) of(0.0) my(0.0) colleagues(0.0) ,(0.0) Republicans(0.0) and(1.0) Democrats(1.0) alike(0.0) ,(0.0) that(0.0) this(0.0) is(0.0) not(0.0) a(0.0) partisan(1.0) battle(0.0) 
+,(0.0) this(0.0) is(0.0) a(0.0) world(0.0) struggle(0.0) to(0.0) try(0.0) to(0.0) keep(0.0) our(0.0) oceans(1.0) clean(1.0) ,(0.0) to(0.0) try(0.0) to(0.0) keep(0.0) our(0.0) atmosphere(0.0) 
+from(0.0) getting(0.0) overheated(1.0) so(0.0) that(0.0) the(0.0) oceans(1.0) will(0.0) rise(1.0) ,(0.0) we(0.0) know(0.0) those(0.0) things(0.0) are(0.0) going(0.0) to(0.0) happen(0.0) .(0.0) We(0.0) 
+have(0.0) to(0.0) combat(1.0) it(0.0) .(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Pennsylvania(1.0) [(0.0) Mr.(0.0) Weldon(1.0) ](0.0) for(1.0) his(1.0) leadership(0.0) and(0.0) I(0.0) 
+look(0.0) forward(0.0) to(0.0) working(0.0) with(0.0) my(0.0) colleagues(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Pennsylvania	
+Weldon	just	talked	country	oceans	pay	
+seas	
+
+
+
+commitment	
+
+country	spends	seas	
+Pennsylvania	Weldon	
+did	an	country	
+and	Democrats	partisan	
+oceans	clean	
+overheated	oceans	rise	
+combat	Pennsylvania	Weldon	for	his	
+
+
+reads % = 0.0970873786407767

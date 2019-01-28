@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) ask(0.0) unanimous(1.0) consent(0.0) to(0.0) insert(0.0) my(0.0) statement(0.0) in(0.0) the(0.0) Record(0.0) opposing(0.0) the(0.0) GOP(0.0) 's(1.0) miserable(1.0) Mother(1.0) 's(1.0) Day(1.0) gift(1.0) --(1.0) 
+more(1.0) work(1.0) and(1.0) less(1.0) pay(1.0) for(1.0) working(1.0) moms(1.0) .(1.0) Happy(0.0) Mother(0.0) 's(0.0) Day(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+unanimous	's	miserable	Mother	's	Day	gift	--	
+more	work	and	less	pay	for	working	moms	.	
+
+reads % = 0.4857142857142857

@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) just(0.0) would(0.0) like(0.0) to(0.0) add(0.0) that(0.0) we(0.0) want(0.0) to(0.0) thank(0.0) Dan(0.0) Tate(1.0) ,(0.0) Sr.(0.0) with(0.0) the(0.0) PGA(0.0) .(0.0) 
+We(0.0) want(0.0) to(0.0) thank(0.0) the(0.0) First(0.0) Tee(0.0) program(0.0) ,(0.0) which(0.0) is(0.0) much(0.0) more(0.0) than(0.0) golf(0.0) ,(0.0) ladies(1.0) and(0.0) gentlemen(0.0) .(0.0) 
+It(0.0) is(0.0) a(0.0) leadership(0.0) ,(0.0) development(0.0) and(0.0) training(0.0) program(0.0) for(0.0) young(0.0) people(0.0) .(0.0) They(0.0) now(0.0) have(0.0) First(0.0) Tee(0.0) facilities(0.0) compliments(0.0) 
+of(0.0) ,(0.0) frankly(0.0) ,(0.0) the(0.0) Congress(0.0) at(0.0) military(0.0) bases(0.0) all(0.0) across(0.0) the(0.0) country(1.0) and(0.0) in(0.0) 19(0.0) foreign(1.0) countries(0.0) .(0.0) The(0.0) 
+only(0.0) highlight(0.0) of(0.0) this(0.0) year(0.0) 's(0.0) loss(0.0) was(0.0) that(0.0) our(0.0) three(0.0) freshmen(0.0) ,(0.0) Mr.(0.0) Roe(1.0) of(0.0) Tennessee(0.0) ,(0.0) Mr.(0.0) Rooney(1.0) 
+of(0.0) Florida(0.0) and(0.0) Mr.(0.0) Hunter(1.0) of(0.0) California(0.0) ,(0.0) performed(0.0) admirably(0.0) .(0.0) So(0.0) there(0.0) is(0.0) hope(0.0) for(0.0) next(0.0) year(0.0) and(0.0) for(0.0) 
+the(0.0) future(0.0) .(0.0) With(0.0) that(0.0) ,(0.0) congratulations(0.0) to(0.0) the(0.0) Democrats(1.0) .(0.0) It(0.0) is(0.0) now(0.0) 4-4(0.0) .(0.0) We(0.0) look(0.0) forward(0.0) to(0.0) 
+raising(1.0) money(1.0) for(0.0) First(0.0) Tee(0.0) in(0.0) the(0.0) future(0.0) .(0.0) From(0.0) this(0.0) year(0.0) and(0.0) in(0.0) previous(0.0) years(0.0) ,(0.0) this(0.0) event(0.0) in(0.0) 
+7(0.0) years(0.0) has(0.0) raised(0.0) well(0.0) over(0.0) $(0.0) 1(0.0) million(0.0) for(0.0) the(0.0) First(0.0) Tee(0.0) program(1.0) ,(0.0) and(0.0) for(0.0) that(0.0) ,(0.0) we(0.0) 
+should(0.0) all(0.0) be(0.0) grateful(0.0) .(0.0) I(0.0) yield(0.0) back(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Tate	
+ladies	
+
+country	foreign	
+Roe	Rooney	
+Hunter	
+Democrats	
+raising	money	
+program	
+
+
+reads % = 0.05641025641025641

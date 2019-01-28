@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) as(0.0) the(0.0) gentleman(0.0) mentioned(0.0) ,(0.0) we(0.0) talk(0.0) about(0.0) promoting(1.0) the(0.0) general(0.0) welfare(1.0) and(0.0) we(0.0) talk(0.0) about(0.0) providing(0.0) for(0.0) the(0.0) 
+common(0.0) defense(1.0) .(0.0) There(0.0) is(0.0) no(0.0) question(0.0) that(0.0) we(0.0) have(0.0) provided(0.0) for(0.0) the(0.0) common(0.0) defense(1.0) even(0.0) above(0.0) the(0.0) defense(1.0) ,(0.0) 
+but(0.0) in(0.0) a(0.0) military(0.0) budget(0.0) that(0.0) is(0.0) a(0.0) different(0.0) budget(1.0) than(0.0) a(0.0) defense(1.0) budget(1.0) .(0.0) But(0.0) are(0.0) we(0.0) providing(0.0) for(0.0) 
+the(0.0) other(0.0) things(0.0) that(0.0) we(0.0) said(0.0) ?(0.0) We(0.0) are(0.0) not(0.0) .(0.0) Architects(0.0) and(0.0) engineers(0.0) ,(0.0) buildings(0.0) to(0.0) be(0.0) designed(0.0) are(0.0) 
+being(0.0) outsourced(0.0) .(0.0) We(0.0) would(0.0) like(0.0) to(0.0) have(0.0) a(0.0) 30-story(0.0) building(0.0) with(0.0) glass(0.0) and(0.0) chrome(0.0) ;(0.0) and(0.0) you(0.0) write(0.0) up(0.0) 
+something(0.0) and(0.0) send(0.0) it(0.0) out(0.0) ,(0.0) and(0.0) engineers(0.0) and(0.0) architects(0.0) in(0.0) India(0.0) are(0.0) coming(0.0) up(0.0) with(0.0) architectural(0.0) designs(0.0) for(0.0) companies(0.0) 
+that(0.0) win(0.0) the(0.0) bids(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+promoting	welfare	
+defense	defense	defense	
+budget	defense	budget	
+
+
+
+
+
+reads % = 0.06349206349206349

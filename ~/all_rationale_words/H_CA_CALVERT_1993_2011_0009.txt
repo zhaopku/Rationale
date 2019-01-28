@@ -1,0 +1,24 @@
+This is from a Republican
+----- below is the original text -----
+The(0.0) Acting(0.0) CHAIR(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) California(0.0) is(0.0) recognized(0.0) for(0.0) 5(0.0) minutes(1.0) .(0.0) I(0.0) appreciate(1.0) the(0.0) gentleman(0.0) 's(0.0) shared(1.0) desire(0.0) 
+to(0.0) reduce(1.0) spending(1.0) ,(0.0) however(0.0) ,(0.0) I(0.0) must(1.0) oppose(1.0) this(0.0) amendment(1.0) .(0.0) As(0.0) the(0.0) minority(0.0) pointed(0.0) out(1.0) ,(0.0) to(0.0) meet(0.0) 
+the(0.0) 2012(1.0) 302(0.0) ((0.0) b(1.0) )(0.0) allocation(1.0) ,(0.0) we(0.0) cut(1.0) the(0.0) Energy(0.0) Star(0.0) program(0.0) by(0.0) $(0.0) 27.5(0.0) million(0.0) ,(0.0) funding(1.0) 
+for(0.0) the(0.0) Energy(0.0) Star(0.0) program(0.0) down(1.0) to(0.0) $(0.0) 48.2(1.0) million(0.0) ,(0.0) which(0.0) is(0.0) below(0.0) the(0.0) 2006(0.0) level(0.0) .(0.0) And(0.0) we(1.0) 
+believe(0.0) that(0.0) significant(0.0) cuts(1.0) took(1.0) place(0.0) in(0.0) this(0.0) program(0.0) ,(0.0) as(0.0) they(0.0) should(0.0) have(0.0) been(0.0) taken(0.0) .(0.0) And(0.0) with(0.0) that(0.0) 
+we(0.0) reluctantly(1.0) oppose(1.0) the(0.0) amendment(1.0) ,(0.0) and(0.0) would(0.0) ask(0.0) for(0.0) a(0.0) ``(0.0) no(0.0) ''(0.0) vote(1.0) .(0.0) The(0.0) Acting(0.0) CHAIR(0.0) .(0.0) 
+The(0.0) question(1.0) is(0.0) on(0.0) the(0.0) amendment(1.0) offered(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) Louisiana(0.0) ((0.0) Mr.(0.0) Fleming(1.0) )(0.0) .(0.0) The(0.0) amendment(1.0) was(0.0) 
+rejected(1.0) .(0.0) Amendment(1.0) No(0.0) .(0.0) 39(1.0) Offered(1.0) by(0.0) Mr.(0.0) Pompeo(1.0) 
+
+
+----- below are rationale words -----
+
+minutes	appreciate	shared	
+reduce	spending	must	oppose	amendment	out	
+2012	b	allocation	cut	funding	
+down	48.2	we	
+cuts	took	
+reluctantly	oppose	amendment	vote	
+question	amendment	Fleming	amendment	
+rejected	Amendment	39	Offered	Pompeo	
+
+reads % = 0.2119205298013245

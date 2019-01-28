@@ -1,0 +1,20 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) as(0.0) much(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) as(0.0) ranking(1.0) member(0.0) of(0.0) the(0.0) 
+Subcommittee(0.0) on(0.0) Military(0.0) Procurement(0.0) ,(0.0) I(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) H.R(0.0) .(0.0) 4519(0.0) .(0.0) I(0.0) agree(0.0) with(0.0) the(0.0) representations(0.0) made(0.0) 
+by(0.0) the(0.0) distinguished(0.0) gentleman(0.0) from(0.0) California(0.0) ((0.0) Mr.(0.0) Hunter(1.0) )(0.0) regarding(1.0) the(0.0) proposed(0.0) transfer(0.0) of(0.0) ex-U.S.S(0.0) .(0.0) Bowman(0.0) County(0.0) ,(0.0) 
+LST(0.0) 391(0.0) ,(0.0) from(0.0) the(0.0) government(0.0) of(0.0) Greece(0.0) to(0.0) the(0.0) U.S.S(0.0) .(0.0) LST(0.0) Ship(0.0) Memorial(0.0) ,(0.0) Incorporated(0.0) .(0.0) Mr.(0.0) Speaker(1.0) 
+,(0.0) I(0.0) yield(0.0) such(0.0) time(0.0) as(0.0) he(0.0) may(0.0) consume(0.0) to(0.0) the(0.0) very(0.0) distinguished(0.0) gentleman(0.0) from(0.0) Texas(0.0) ((0.0) Mr.(0.0) Hall(1.0) )(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	ranking	
+
+Hunter	regarding	
+Speaker	
+Hall	
+
+
+reads % = 0.058823529411764705

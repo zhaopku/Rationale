@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+As(0.0) I(0.0) was(0.0) listening(0.0) to(0.0) my(0.0) friend(0.0) ,(0.0) I(0.0) really(0.0) do(0.0) n't(0.0) think(0.0) the(0.0) American(0.0) people(0.0) want(0.0) us(0.0) to(0.0) be(0.0) doing(0.0) 
+this(0.0) every(0.0) 5(0.0) months(0.0) so(0.0) that(0.0) it(0.0) becomes(0.0) business(0.0) as(0.0) usual(0.0) that(0.0) we(0.0) put(0.0) the(0.0) country(1.0) through(0.0) this(0.0) crisis(1.0) situation(0.0) 
+and(0.0) with(0.0) the(0.0) threat(1.0) of(0.0) rising(1.0) interest(0.0) rates(0.0) and(0.0) all(0.0) the(0.0) other(0.0) negative(0.0) economic(1.0) consequences(1.0) that(0.0) would(0.0) happen(0.0) .(0.0) Because(0.0) 
+the(0.0) grand(0.0) bargain(1.0) is(0.0) now(0.0) off(0.0) the(0.0) table(0.0) ,(0.0) Senator(1.0) Reid(1.0) has(0.0) put(0.0) forward(0.0) a(0.0) proposal(0.0) .(0.0) Again(0.0) ,(0.0) I(0.0) 
+have(0.0) the(0.0) CBO(1.0) scoring(0.0) of(0.0) it(0.0) right(0.0) here(0.0) :(0.0) $(0.0) 2.2(0.0) trillion(1.0) ,(0.0) with(0.0) more(0.0) cuts(1.0) than(0.0) in(0.0) the(0.0) proposal(1.0) 
+that(0.0) 's(0.0) on(0.0) the(0.0) table(0.0) here(0.0) from(0.0) our(0.0) Republican(1.0) colleagues(1.0) ,(1.0) the(1.0) big(1.0) difference(1.0) being(1.0) he(1.0) does(1.0) n't(1.0) want(1.0) to(1.0) 
+say(1.0) every(1.0) 5(1.0) months(1.0) ``(1.0) let(0.0) 's(0.0) put(0.0) the(0.0) country(1.0) into(0.0) economic(1.0) crisis(1.0) ''(1.0) and(0.0) deal(0.0) with(0.0) all(0.0) the(0.0) uncertainty(1.0) 
+between(0.0) now(0.0) and(0.0) 5(0.0) months(0.0) from(0.0) now(0.0) that(0.0) that(0.0) will(0.0) create(0.0) .(0.0) With(0.0) that(0.0) ,(0.0) I(0.0) yield(0.0) 1(0.0) minute(0.0) to(0.0) 
+a(0.0) terrific(0.0) member(0.0) of(0.0) the(0.0) Budget(0.0) Committee(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Ohio(1.0) ((0.0) Mr.(0.0) Ryan(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+country	crisis	
+threat	rising	economic	consequences	
+bargain	Senator	Reid	
+CBO	trillion	cuts	proposal	
+Republican	colleagues	,	the	big	difference	being	he	does	n't	want	to	
+say	every	5	months	``	country	economic	crisis	''	uncertainty	
+
+Ohio	Ryan	
+
+reads % = 0.20786516853932585

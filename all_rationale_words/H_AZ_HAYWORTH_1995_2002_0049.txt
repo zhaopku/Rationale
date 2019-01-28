@@ -1,0 +1,46 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) later(0.0) today(0.0) we(0.0) will(0.0) take(0.0) a(0.0) vote(0.0) to(0.0) make(0.0) the(0.0) death(1.0) tax(1.0) repeal(1.0) permanent(1.0) .(1.0) It(0.0) will(0.0) be(0.0) a(0.0) 
+bipartisan(1.0) vote(1.0) ,(0.0) despite(1.0) some(0.0) of(0.0) the(0.0) preceding(0.0) rhetoric(1.0) in(0.0) the(0.0) well(0.0) of(0.0) the(0.0) House(0.0) ,(0.0) and(0.0) I(0.0) do(0.0) not(0.0) 
+want(0.0) anyone(0.0) to(0.0) be(0.0) deceived(0.0) or(0.0) misled(0.0) .(0.0) One(0.0) of(0.0) the(0.0) leading(0.0) proponents(1.0) of(0.0) permanent(1.0) death(1.0) tax(1.0) repeal(1.0) in(0.0) my(0.0) 
+State(1.0) happened(0.0) to(0.0) be(0.0) the(0.0) standard(0.0) bearer(0.0) for(0.0) the(0.0) Democratic(1.0) Party(1.0) in(0.0) 1994(1.0) for(0.0) the(0.0) office(0.0) of(0.0) Governor(0.0) .(0.0) He(0.0) 
+came(0.0) to(0.0) me(0.0) and(0.0) said(0.0) ,(0.0) ``(0.0) When(0.0) are(0.0) you(0.0) going(0.0) to(0.0) repeal(1.0) this(0.0) death(1.0) tax(1.0) ?(0.0) ''(0.0) The(0.0) reason(0.0) 
+he(0.0) did(0.0) so(0.0) was(0.0) not(0.0) because(0.0) he(0.0) fits(0.0) into(0.0) the(0.0) realm(0.0) of(0.0) the(0.0) super-rich(1.0) .(0.0) The(0.0) reason(0.0) he(0.0) did(0.0) so(0.0) 
+,(0.0) he(0.0) is(0.0) an(0.0) owner(0.0) of(0.0) grocery(0.0) stores(0.0) and(0.0) he(0.0) employs(0.0) hundreds(0.0) of(0.0) Arizonians(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) people(0.0) of(0.0) 
+goodwill(0.0) can(0.0) have(0.0) a(0.0) fundamental(1.0) disagreement(0.0) .(0.0) Either(0.0) we(0.0) can(0.0) come(0.0) to(0.0) this(0.0) floor(0.0) and(0.0) attempt(0.0) to(0.0) demonize(1.0) and(0.0) drive(0.0) 
+wedges(0.0) and(0.0) claim(0.0) that(0.0) it(0.0) is(0.0) always(0.0) us(0.0) versus(0.0) them(0.0) ,(0.0) or(0.0) we(0.0) can(0.0) understand(0.0) some(0.0) simple(0.0) facts(0.0) :(0.0) keeping(0.0) 
+businesses(1.0) in(0.0) business(0.0) makes(0.0) good(0.0) sense(0.0) for(0.0) America(1.0) .(0.0) More(0.0) than(0.0) 70(0.0) percent(0.0) of(0.0) family(0.0) businesses(1.0) do(0.0) not(0.0) survive(0.0) to(0.0) 
+the(0.0) second(0.0) generation(0.0) .(0.0) Eighty-seven(0.0) percent(0.0) do(0.0) not(0.0) make(0.0) it(0.0) to(0.0) the(0.0) third(0.0) generation(0.0) .(0.0) Sixty(0.0) percent(0.0) of(0.0) small(0.0) business(0.0) 
+owners(0.0) report(0.0) that(0.0) they(0.0) would(0.0) create(0.0) new(0.0) jobs(1.0) over(0.0) the(0.0) coming(0.0) year(0.0) if(0.0) estate(0.0) taxes(0.0) are(0.0) eliminated(1.0) .(0.0) We(0.0) move(0.0) 
+to(0.0) do(0.0) that(0.0) .(0.0) Now(0.0) the(0.0) question(0.0) becomes(0.0) are(0.0) we(0.0) willing(0.0) to(0.0) make(0.0) this(0.0) permanent(1.0) to(0.0) deal(0.0) with(0.0) the(0.0) arcane(1.0) 
+rules(1.0) from(0.0) elsewhere(0.0) on(0.0) Capitol(0.0) Hill(1.0) to(1.0) make(0.0) this(0.0) permanent(0.0) for(0.0) job(0.0) creation(0.0) .(0.0) We(0.0) all(0.0) want(0.0) to(0.0) save(0.0) Social(0.0) 
+Security(0.0) .(0.0) We(0.0) want(0.0) to(0.0) have(0.0) people(0.0) paying(1.0) payroll(1.0) taxes(1.0) .(0.0) The(0.0) best(0.0) social(0.0) program(1.0) is(0.0) a(0.0) job(0.0) .(0.0) The(0.0) 
+best(0.0) way(0.0) to(0.0) ensure(0.0) that(0.0) the(0.0) backbone(1.0) of(0.0) America(1.0) ,(0.0) small(0.0) businesses(1.0) ,(0.0) stay(0.0) in(0.0) business(0.0) ,(0.0) is(0.0) to(0.0) ensure(0.0) 
+that(0.0) family-owned(1.0) businesses(1.0) can(0.0) continue(0.0) to(0.0) operate(0.0) .(0.0) That(0.0) is(0.0) why(0.0) it(0.0) is(0.0) vital(0.0) for(0.0) all(0.0) Americans(1.0) ,(0.0) Republicans(0.0) ,(1.0) 
+Democrats(1.0) ,(0.0) Libertarians(1.0) ,(1.0) vegetarians(1.0) ,(1.0) all(1.0) Americans(1.0) to(0.0) have(0.0) the(0.0) chance(0.0) to(0.0) keep(0.0) their(0.0) business(0.0) in(0.0) the(0.0) family(0.0) .(0.0) 
+There(0.0) should(0.0) be(0.0) no(0.0) taxation(1.0) without(0.0) respiration(0.0) .(0.0) Let(0.0) us(0.0) keep(0.0) business(0.0) alive(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+death	tax	repeal	permanent	.	
+bipartisan	vote	despite	rhetoric	
+proponents	permanent	death	tax	repeal	
+State	Democratic	Party	1994	
+repeal	death	tax	
+super-rich	
+Arizonians	Speaker	
+fundamental	demonize	
+
+businesses	America	businesses	
+
+jobs	eliminated	
+permanent	arcane	
+rules	Hill	to	
+paying	payroll	taxes	program	
+backbone	America	businesses	
+family-owned	businesses	Americans	,	
+Democrats	Libertarians	,	vegetarians	,	all	Americans	
+taxation	
+
+reads % = 0.14666666666666667

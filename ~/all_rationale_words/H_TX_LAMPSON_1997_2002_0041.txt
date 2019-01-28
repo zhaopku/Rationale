@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(1.0) today(1.0) to(0.0) honor(1.0) Tim(1.0) Miller(1.0) and(0.0) the(0.0) members(1.0) of(0.0) the(0.0) Texas(0.0) EquuSearch(1.0) Mounted(0.0) Search(0.0) and(0.0) Recovery(0.0) Team(0.0) 
+.(0.0) The(0.0) first(0.0) official(1.0) meeting(0.0) of(0.0) this(0.0) organization(1.0) was(0.0) held(0.0) in(0.0) August(0.0) of(0.0) 2000(0.0) ;(0.0) and(0.0) since(0.0) then(0.0) ,(0.0) Texas(0.0) 
+EquuSearch(1.0) has(0.0) been(0.0) on(0.0) nearly(0.0) 100(0.0) searches(1.0) in(0.0) 2(0.0) short(0.0) years(0.0) .(0.0) They(1.0) have(0.0) an(0.0) admirable(0.0) record(1.0) of(0.0) working(0.0) constructively(1.0) 
+with(0.0) our(0.0) Nation(0.0) 's(0.0) local(0.0) law(1.0) enforcement(0.0) and(0.0) the(0.0) Federal(1.0) Bureau(1.0) of(0.0) Investigation(0.0) ;(0.0) and(0.0) right(1.0) now(0.0) ,(0.0) Tim(1.0) and(0.0) 
+Texas(0.0) EquuSearch(1.0) are(0.0) on(0.0) still(0.0) another(0.0) search(1.0) near(1.0) their(0.0) headquarters(1.0) in(0.0) Dickinson(1.0) ,(0.0) Texas(0.0) .(0.0) Texas(0.0) EquuSearch(1.0) stands(0.0) for(0.0) a(0.0) 
+great(0.0) deal(1.0) .(0.0) Tim(1.0) Miller(1.0) founded(1.0) the(0.0) search(1.0) team(0.0) in(0.0) loving(0.0) memory(0.0) of(0.0) his(0.0) 16-year-old(0.0) daughter(0.0) ,(0.0) Laura(1.0) Miller(1.0) ,(0.0) 
+who(0.0) was(0.0) abducted(1.0) and(0.0) murdered(1.0) in(0.0) 1984(1.0) .(0.0) The(0.0) success(0.0) rate(0.0) of(0.0) Texas(0.0) EquuSearch(1.0) in(0.0) finding(0.0) our(0.0) missing(0.0) and(0.0) returning(0.0) 
+many(0.0) of(0.0) them(0.0) home(0.0) alive(0.0) to(0.0) their(0.0) loved(0.0) ones(1.0) is(0.0) truly(0.0) impressive(0.0) and(0.0) a(0.0) living(1.0) tribute(1.0) to(0.0) the(0.0) spirit(0.0) of(0.0) 
+Laura(1.0) Miller(1.0) .(0.0) Her(0.0) spirit(0.0) is(0.0) alive(0.0) today(1.0) in(0.0) the(0.0) heart(1.0) of(0.0) the(0.0) Texas(0.0) EquuSearch(1.0) members(1.0) and(0.0) supporters(1.0) .(0.0) Texas(0.0) 
+EquuSearch(1.0) Mounted(0.0) Search(0.0) and(0.0) Recovery(0.0) Team(0.0) searches(1.0) for(0.0) our(0.0) Nation(0.0) 's(0.0) missing(0.0) and(0.0) abducted(1.0) children(0.0) and(0.0) adults(0.0) .(0.0) Mr.(1.0) Speaker(1.0) 
+,(0.0) I(0.0) rise(1.0) today(1.0) to(0.0) applaud(1.0) and(0.0) to(0.0) urge(1.0) on(0.0) Texas(0.0) EquuSearch(1.0) to(0.0) continue(0.0) forward(0.0) in(0.0) their(0.0) mission(1.0) ,(0.0) assuring(1.0) 
+that(0.0) ``(1.0) the(0.0) lost(0.0) are(0.0) not(0.0) alone(1.0) .(0.0) ''(0.0) 
+
+
+----- below are rationale words -----
+
+rise	today	honor	Tim	Miller	members	EquuSearch	
+official	organization	
+EquuSearch	searches	They	record	constructively	
+law	Federal	Bureau	right	Tim	
+EquuSearch	search	near	headquarters	Dickinson	EquuSearch	
+deal	Tim	Miller	founded	search	Laura	Miller	
+abducted	murdered	1984	EquuSearch	
+ones	living	tribute	
+Laura	Miller	today	heart	EquuSearch	members	supporters	
+EquuSearch	searches	abducted	Mr.	Speaker	
+rise	today	applaud	urge	EquuSearch	mission	assuring	
+``	alone	
+
+reads % = 0.2608695652173913

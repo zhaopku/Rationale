@@ -1,0 +1,34 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) a(0.0) couple(0.0) of(0.0) recent(0.0) Washington(1.0) Post(1.0) headlines(1.0) deserve(1.0) mentioning(0.0) on(0.0) the(0.0) House(0.0) floor(0.0) .(0.0) The(0.0) first(0.0) was(0.0) on(0.0) 
+March(0.0) 16(0.0) ,(0.0) where(0.0) the(0.0) Red(1.0) Cross(0.0) Confirmed(0.0) that(0.0) the(0.0) United(0.0) States(0.0) Violated(1.0) International(0.0) Laws(0.0) Against(0.0) Torture(0.0) .(0.0) Last(0.0) Sunday(0.0) 
+'s(0.0) article(0.0) points(0.0) out(0.0) that(0.0) that(0.0) torture(1.0) policy(1.0) applied(0.0) to(0.0) an(0.0) individual(0.0) by(0.0) the(0.0) name(0.0) of(0.0) Abu(0.0) Zubaida(0.0) sent(0.0) our(0.0) 
+government(1.0) officials(0.0) on(0.0) any(0.0) number(0.0) of(0.0) false(0.0) leads(0.0) .(0.0) It(0.0) produced(0.0) no(0.0) reliable(0.0) information(0.0) .(0.0) It(0.0) turns(0.0) out(0.0) that(0.0) that(0.0) 
+suspect(0.0) ,(0.0) Abu(0.0) Zubaida(1.0) ,(0.0) was(0.0) n't(0.0) even(0.0) an(0.0) official(0.0) member(0.0) of(0.0) al(0.0) Qaeda(0.0) .(0.0) He(0.0) told(0.0) our(0.0) professional(0.0) interrogators(0.0) 
+what(0.0) he(0.0) knew(0.0) to(0.0) be(0.0) true(0.0) ,(0.0) until(0.0) --(0.0) under(0.0) pressure(0.0) from(0.0) the(0.0) Cheney(1.0) White(1.0) House(0.0) to(0.0) torture(1.0) him(0.0) --(0.0) 
+he(0.0) sent(0.0) our(0.0) government(1.0) on(0.0) any(0.0) number(0.0) of(0.0) false(1.0) leads(0.0) .(0.0) As(0.0) usual(0.0) ,(0.0) people(0.0) being(0.0) tortured(0.0) tell(0.0) you(0.0) what(0.0) 
+they(0.0) know(0.0) that(0.0) you(0.0) want(0.0) to(0.0) hear(0.0) in(0.0) order(0.0) to(0.0) stop(0.0) the(0.0) torture(1.0) .(0.0) The(0.0) point(0.0) for(0.0) the(0.0) Congress(0.0) to(0.0) 
+act(0.0) on(0.0) is(0.0) that(0.0) if(0.0) we(0.0) are(0.0) ever(0.0) going(0.0) to(0.0) prevail(1.0) in(0.0) our(0.0) struggle(1.0) against(0.0) violent(1.0) extremism(1.0) ,(0.0) we(0.0) need(0.0) 
+to(0.0) stand(0.0) up(0.0) for(0.0) America(1.0) 's(0.0) defining(0.0) principles(1.0) of(0.0) equal(1.0) justice(1.0) under(0.0) the(0.0) law(1.0) .(0.0) We(0.0) have(0.0) to(0.0) hold(0.0) those(0.0) 
+people(0.0) accountable(1.0) who(0.0) pressured(0.0) and(0.0) enabled(0.0) American(0.0) government(1.0) officials(0.0) to(0.0) perform(0.0) actions(0.0) that(0.0) were(0.0) counterproductive(1.0) to(0.0) our(0.0) national(1.0) security(0.0) ,(0.0) 
+that(0.0) were(0.0) illegal(1.0) ,(0.0) and(0.0) were(0.0) immoral(1.0) ,(0.0) and(0.0) thus(0.0) were(0.0) anti-American(1.0) .(0.0) Only(0.0) through(0.0) such(0.0) judicial(1.0) accountability(1.0) can(0.0) we(0.0) 
+regain(0.0) the(0.0) moral(1.0) high(0.0) ground(0.0) and(0.0) once(0.0) again(0.0) lead(0.0) the(0.0) world(0.0) by(0.0) practicing(0.0) what(0.0) our(0.0) founders(1.0) preached(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Washington	Post	headlines	deserve	
+Red	Violated	
+torture	policy	
+government	
+Zubaida	
+Cheney	White	torture	
+government	false	
+torture	
+prevail	struggle	violent	extremism	
+America	principles	equal	justice	law	
+accountable	government	counterproductive	national	
+illegal	immoral	anti-American	judicial	accountability	
+moral	founders	preached	
+
+reads % = 0.14285714285714285

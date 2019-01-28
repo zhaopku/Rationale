@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) reserving(0.0) the(0.0) right(0.0) to(0.0) object(0.0) ,(0.0) this(0.0) amendment(1.0) is(0.0) either(0.0) ill-conceived(1.0) or(0.0) politically(1.0) conceived(1.0) in(0.0) that(0.0) the(0.0) Deputy(0.0) Secretary(0.0) 
+is(0.0) the(0.0) gentleman(0.0) who(0.0) came(0.0) to(0.0) the(0.0) committee(0.0) to(0.0) testify(0.0) ,(0.0) and(0.0) that(0.0) was(0.0) by(0.0) agreement(0.0) at(0.0) the(0.0) committee(0.0) .(0.0) 
+So(0.0) to(0.0) say(0.0) that(0.0) the(0.0) administration(1.0) sent(0.0) someone(0.0) who(0.0) was(0.0) uninformed(0.0) is(0.0) not(0.0) a(0.0) good(0.0) way(0.0) to(0.0) address(0.0) this(0.0) to(0.0) 
+our(0.0) colleagues(0.0) .(0.0) That(0.0) was(0.0) by(0.0) agreement(0.0) of(0.0) the(0.0) committee(0.0) ,(0.0) and(0.0) it(0.0) was(0.0) the(0.0) Deputy(0.0) Secretary(0.0) of(0.0) the(0.0) VA(0.0) 
+who(0.0) came(0.0) in(0.0) and(0.0) who(0.0) testified(0.0) ,(0.0) and(0.0) as(0.0) a(0.0) matter(0.0) of(0.0) fact(0.0) ,(0.0) his(0.0) testimony(0.0) ,(0.0) that(0.0) I(0.0) will(0.0) 
+share(0.0) with(0.0) all(0.0) my(0.0) colleagues(0.0) ,(0.0) is(0.0) that(0.0) he(0.0) testified(0.0) just(0.0) last(0.0) week(0.0) during(0.0) the(0.0) Oversight(0.0) and(0.0) Investigations(0.0) Subcommittee(0.0) hearing(0.0) 
+on(0.0) the(0.0) SEC(0.0) bonuses(0.0) ,(0.0) at(0.0) which(0.0) the(0.0) author(0.0) of(0.0) this(0.0) amendment(1.0) was(0.0) present(0.0) and(0.0) he(0.0) said(0.0) ,(0.0) by(0.0) statute(1.0) 
+,(0.0) senior(0.0) executive(0.0) presidentially(1.0) appointed(0.0) and(0.0) Senate-confirmed(0.0) appointees(0.0) are(0.0) not(0.0) eligible(0.0) for(0.0) performance(0.0) bonuses(0.0) .(0.0) Did(0.0) you(0.0) hear(0.0) that(0.0) ?(0.0) 
+They(0.0) 're(0.0) not(0.0) eligible(1.0) for(0.0) bonuses(0.0) .(0.0) So(0.0) what(0.0) we(0.0) have(0.0) here(0.0) is(0.0) ,(0.0) the(0.0) gentleman(0.0) 's(0.0) brought(0.0) an(0.0) amendment(1.0) 
+that(0.0) is(0.0) either(0.0) redundant(0.0) ,(0.0) multiplicitous(1.0) or(0.0) unnecessary(1.0) .(0.0) With(0.0) that(0.0) ,(0.0) I(0.0) withdraw(0.0) my(0.0) reservation(0.0) of(0.0) objection(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+amendment	ill-conceived	politically	conceived	
+
+administration	
+
+
+
+amendment	statute	
+presidentially	
+eligible	amendment	
+multiplicitous	unnecessary	objection	
+
+reads % = 0.065

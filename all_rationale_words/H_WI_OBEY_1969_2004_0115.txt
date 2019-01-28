@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+The(0.0) CHAIRMAN(0.0) pro(0.0) tempore(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) Wisconsin(1.0) ((0.0) Mr.(0.0) Obey(1.0) )(0.0) is(1.0) recognized(0.0) for(0.0) 15(0.0) minutes(0.0) .(0.0) Chairman(0.0) ,(0.0) 
+I(0.0) yield(0.0) 4(0.0) minutes(0.0) to(0.0) the(0.0) distinguished(0.0) gentleman(0.0) from(0.0) Michigan(1.0) ((0.0) Mr.(0.0) Kildee(1.0) )(0.0) ,(0.0) ranking(0.0) member(0.0) on(0.0) the(0.0) subcommittee(0.0) 
+with(0.0) jurisdiction(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Wisconsin	Obey	is	
+Michigan	Kildee	
+
+
+reads % = 0.11363636363636363

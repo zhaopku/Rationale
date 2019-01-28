@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+And(0.0) this(0.0) amendment(1.0) ,(0.0) as(0.0) I(0.0) understand(0.0) it(0.0) ,(0.0) would(0.0) take(0.0) some(0.0) of(0.0) this(0.0) little(0.0) money(1.0) that(0.0) we(0.0) distribute(0.0) throughout(0.0) the(0.0) 
+country(1.0) and(0.0) say(0.0) we(0.0) are(0.0) going(0.0) to(0.0) cut(1.0) that(0.0) from(0.0) everyone(0.0) .(0.0) Where(0.0) they(0.0) are(0.0) working(0.0) ,(0.0) trying(0.0) to(0.0) coordinate(0.0) 
+expenditures(1.0) to(0.0) make(0.0) most(0.0) efficient(0.0) use(0.0) of(0.0) it(0.0) ,(0.0) take(0.0) it(0.0) from(0.0) that(0.0) and(0.0) give(0.0) them(0.0) to(0.0) a(0.0) few(0.0) areas(0.0) 
+where(0.0) we(0.0) have(0.0) already(0.0) increased(0.0) the(0.0) administration(1.0) 's(0.0) budget(1.0) by(0.0) $(0.0) 500(0.0) million(0.0) ;(0.0) am(0.0) I(0.0) right(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+amendment	money	
+country	cut	
+expenditures	
+administration	budget	
+
+reads % = 0.08860759493670886

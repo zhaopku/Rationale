@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) this(0.0) bipartisan(1.0) amendment(1.0) and(0.0) thank(0.0) my(0.0) colleagues(0.0) for(0.0) bringing(0.0) it(0.0) up(0.0) .(0.0) When(0.0) we(0.0) 
+passed(0.0) the(0.0) PATRIOT(1.0) Act(1.0) in(0.0) 2001(0.0) ,(0.0) we(0.0) asked(0.0) the(0.0) Department(0.0) of(0.0) the(0.0) Treasury(0.0) to(0.0) develop(0.0) customer(0.0) identification(0.0) programs(0.0) subject(0.0) 
+to(0.0) evaluation(0.0) .(0.0) This(0.0) was(0.0) done(0.0) to(0.0) tighten(0.0) security(0.0) to(0.0) our(0.0) banking(1.0) systems(0.0) and(0.0) to(0.0) improve(0.0) our(0.0) ability(0.0) to(0.0) monitor(0.0) 
+.(0.0) Since(0.0) these(0.0) rules(0.0) were(0.0) established(0.0) ,(0.0) matricula(1.0) consular(0.0) ID(0.0) cards(0.0) have(0.0) widely(0.0) been(0.0) accepted(0.0) as(0.0) a(0.0) legitimate(0.0) form(0.0) of(0.0) 
+identification(0.0) at(0.0) a(0.0) bank(0.0) .(0.0) Similar(0.0) cards(0.0) are(0.0) issued(0.0) by(0.0) our(0.0) consulates(0.0) for(0.0) our(0.0) citizens(1.0) who(0.0) live(0.0) in(0.0) other(0.0) nations(1.0) 
+.(0.0) These(0.0) cards(0.0) do(0.0) not(0.0) confer(0.0) citizenship(1.0) .(0.0) They(0.0) do(0.0) not(0.0) confer(0.0) the(0.0) right(0.0) to(0.0) a(0.0) driver(0.0) 's(0.0) license(1.0) .(0.0) 
+All(0.0) they(0.0) do(0.0) is(0.0) say(0.0) that(0.0) Gene(0.0) Green(1.0) lives(0.0) at(0.0) a(0.0) certain(0.0) address(0.0) ,(0.0) whether(0.0) it(0.0) be(0.0) in(0.0) Guadalajara(1.0) ,(0.0) 
+Mexico(1.0) ,(0.0) or(0.0) Frankfurt(0.0) ,(0.0) Germany(0.0) .(0.0) My(0.0) concern(0.0) about(0.0) this(0.0) ,(0.0) without(0.0) adopting(1.0) this(0.0) amendment(1.0) ,(0.0) we(0.0) are(0.0) going(0.0) 
+to(0.0) limit(1.0) our(0.0) own(0.0) consular(0.0) office(0.0) 's(0.0) ability(0.0) to(0.0) do(0.0) this(0.0) for(0.0) our(0.0) citizens(1.0) .(0.0) I(0.0) would(0.0) expect(0.0) retaliation(1.0) from(0.0) 
+countries(1.0) who(0.0) we(0.0) are(0.0) doing(0.0) this(0.0) to(0.0) their(0.0) consulates(0.0) to(0.0) do(0.0) the(0.0) same(0.0) thing(0.0) to(0.0) us(0.0) .(0.0) I(0.0) have(0.0) some(0.0) 
+concern(0.0) about(0.0) it(0.0) because(0.0) we(0.0) have(0.0) thousands(0.0) of(0.0) our(0.0) residents(1.0) who(0.0) retire(0.0) to(0.0) Mexico(1.0) ,(0.0) retire(0.0) to(0.0) lots(0.0) of(0.0) places(0.0) 
+who(0.0) may(0.0) need(0.0) this(0.0) assistance(0.0) from(0.0) our(0.0) own(0.0) consulates(0.0) .(0.0) But(0.0) in(0.0) all(0.0) honesty(0.0) ,(0.0) we(0.0) do(0.0) need(0.0) to(0.0) have(0.0) 
+some(0.0) type(0.0) of(0.0) identification(0.0) for(0.0) our(0.0) local(0.0) law(1.0) enforcement(1.0) to(0.0) be(0.0) able(0.0) to(0.0) deal(0.0) with(0.0) people(0.0) that(0.0) they(0.0) can(0.0) show(0.0) 
+.(0.0) Mr.(0.0) Chairman(1.0) and(0.0) fellow(0.0) Members(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) to(0.0) support(0.0) this(0.0) amendment(1.0) and(0.0) I(0.0) thank(0.0) my(0.0) colleagues(0.0) for(0.0) 
+bringing(0.0) it(0.0) to(0.0) this(0.0) floor(0.0) with(0.0) bipartisan(1.0) support(0.0) .(0.0) When(0.0) we(0.0) passed(0.0) the(0.0) PATRIOT(1.0) Act(1.0) in(0.0) 2001(1.0) ,(0.0) we(0.0) asked(0.0) 
+the(0.0) U.S.(0.0) Department(0.0) of(0.0) the(0.0) Treasury(0.0) to(0.0) develop(0.0) customer(0.0) identification(0.0) programs(0.0) subject(0.0) to(0.0) evaluation(0.0) .(0.0) This(0.0) was(0.0) done(0.0) to(0.0) tighten(0.0) 
+security(0.0) to(0.0) our(0.0) banking(1.0) systems(0.0) and(0.0) to(0.0) improve(0.0) our(0.0) ability(0.0) to(0.0) monitor(0.0) financial(1.0) transactions(0.0) .(0.0) Since(0.0) these(0.0) rules(0.0) were(0.0) established(0.0) 
+,(0.0) Matricula(1.0) Consular(0.0) I.D(0.0) .(0.0) cards(0.0) have(0.0) been(0.0) widely(0.0) accepted(0.0) as(0.0) a(0.0) legitimate(0.0) form(0.0) of(0.0) identification(0.0) to(0.0) open(0.0) a(0.0) bank(0.0) 
+account(0.0) .(0.0) Similar(0.0) cards(0.0) are(0.0) issued(0.0) by(0.0) our(0.0) consulates(0.0) for(0.0) our(0.0) citizens(1.0) who(0.0) live(0.0) in(0.0) other(0.0) nations(1.0) .(0.0) If(0.0) we(0.0) 
+do(0.0) not(0.0) amend(1.0) this(0.0) bill(1.0) to(1.0) keep(0.0) the(0.0) Matricula(1.0) Consular(0.0) identification(0.0) card(0.0) as(0.0) a(0.0) legal(0.0) form(0.0) of(0.0) identification(0.0) ,(0.0) it(0.0) 
+will(0.0) be(0.0) the(0.0) only(0.0) identification(0.0) document(0.0) explicitly(0.0) banned(0.0) as(0.0) proof(0.0) of(0.0) identity(1.0) in(0.0) opening(0.0) a(0.0) bank(0.0) account(0.0) .(0.0) What(0.0) bothers(0.0) 
+me(0.0) most(0.0) about(0.0) the(0.0) provision(1.0) that(0.0) we(0.0) are(0.0) trying(0.0) to(0.0) amend(1.0) is(0.0) it(0.0) specifically(0.0) targets(1.0) a(0.0) form(0.0) of(0.0) I.D(0.0) .(0.0) 
+issued(0.0) by(0.0) the(0.0) Mexican(1.0) government(1.0) .(0.0) We(0.0) could(0.0) see(0.0) retaliation(1.0) against(0.0) cards(0.0) issued(0.0) by(0.0) our(0.0) government(1.0) .(0.0) Businesses(0.0) in(0.0) my(0.0) 
+home(0.0) state(0.0) of(0.0) Texas(1.0) conduct(0.0) billions(1.0) of(0.0) dollars(1.0) of(0.0) business(0.0) with(0.0) Mexican(1.0) companies(0.0) .(0.0) The(0.0) need(0.0) for(0.0) Mexican(1.0) nationals(0.0) to(0.0) 
+come(0.0) to(0.0) the(0.0) United(0.0) States(0.0) and(0.0) establish(0.0) legitimate(1.0) bank(0.0) accounts(0.0) is(0.0) imperative(0.0) to(0.0) the(0.0) success(0.0) of(0.0) our(0.0) state(1.0) 's(0.0) 
+
+
+----- below are rationale words -----
+
+bipartisan	amendment	
+PATRIOT	Act	
+banking	
+matricula	
+citizens	nations	
+citizenship	license	
+Green	Guadalajara	
+Mexico	adopting	amendment	
+limit	citizens	retaliation	
+countries	
+residents	Mexico	
+
+law	enforcement	
+Chairman	amendment	
+bipartisan	PATRIOT	Act	2001	
+
+banking	financial	
+Matricula	
+citizens	nations	
+amend	bill	to	Matricula	
+identity	
+provision	amend	targets	
+Mexican	government	retaliation	government	
+Texas	billions	dollars	Mexican	Mexican	
+legitimate	state	
+
+reads % = 0.106

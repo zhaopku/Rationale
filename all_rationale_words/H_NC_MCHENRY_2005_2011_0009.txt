@@ -1,0 +1,10 @@
+This is from a Republican
+----- below is the original text -----
+Certainly(0.0) ,(0.0) a(0.0) multibillion-dollar(1.0) Federal(1.0) program(1.0) doesn't(0.0) create(0.0) any(0.0) real(0.0) private(0.0) sector(0.0) jobs(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+multibillion-dollar	Federal	program	
+
+reads % = 0.21428571428571427

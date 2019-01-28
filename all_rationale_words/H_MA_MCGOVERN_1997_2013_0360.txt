@@ -1,0 +1,24 @@
+This is from a Democrat
+----- below is the original text -----
+Reclaiming(1.0) my(0.0) time(0.0) ,(0.0) I(0.0) would(0.0) say(0.0) to(0.0) the(0.0) other(0.0) gentleman(0.0) from(0.0) Texas(0.0) that(0.0) we(0.0) 're(0.0) all(0.0) elected(0.0) ,(0.0) too(0.0) .(0.0) 
+We(0.0) respect(0.0) and(0.0) appreciate(0.0) and(0.0) value(0.0) the(0.0) Constitution(1.0) every(0.0) bit(0.0) as(0.0) much(0.0) as(0.0) he(0.0) does(0.0) ,(0.0) and(0.0) there(0.0) is(0.0) a(0.0) 
+constitutional(1.0) way(0.0) to(0.0) run(0.0) the(0.0) government(1.0) ,(0.0) which(0.0) we(0.0) are(0.0) all(0.0) supporting(1.0) here(0.0) .(0.0) It(0.0) seems(0.0) what(0.0) the(0.0) gentleman(0.0) wants(0.0) 
+to(0.0) do(0.0) is(0.0) just(0.0) trash(0.0) all(0.0) that(0.0) .(0.0) He(0.0) wants(0.0) to(0.0) say(0.0) that(0.0) what(0.0) happens(0.0) in(0.0) the(0.0) House(0.0) and(0.0) the(0.0) 
+Senate(0.0) doesn't(0.0) matter(0.0) ;(0.0) the(0.0) President(1.0) signs(0.0) it(0.0) ,(0.0) it(0.0) does(0.0) n't(0.0) matter(0.0) ;(0.0) the(0.0) Supreme(1.0) Court(0.0) rules(0.0) ,(0.0) it(0.0) 
+does(0.0) n't(0.0) matter(0.0) .(0.0) I(0.0) do(0.0) n't(0.0) know(0.0) where(0.0) he(0.0) 's(0.0) coming(0.0) from(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) 3(0.0) 
+minutes(0.0) to(0.0) the(0.0) gentlewoman(0.0) from(0.0) Texas(0.0) ((0.0) Ms.(1.0) Jackson(1.0) Lee(1.0) )(0.0) .(0.0) ((0.0) Ms.(1.0) JACKSON(1.0) LEE(1.0) asked(0.0) and(0.0) was(0.0) given(0.0) 
+permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) her(0.0) remarks(0.0) .(0.0) )(0.0) 
+
+
+----- below are rationale words -----
+
+
+Constitution	
+constitutional	government	supporting	
+
+President	Supreme	
+Speaker	
+Ms.	Jackson	Lee	Ms.	JACKSON	LEE	
+
+
+reads % = 0.08666666666666667

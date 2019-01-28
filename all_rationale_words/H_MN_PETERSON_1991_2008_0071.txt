@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) would(0.0) just(0.0) take(0.0) one(0.0) additional(0.0) small(0.0) amount(0.0) of(0.0) time(0.0) to(0.0) thank(0.0) my(0.0) colleague(0.0) and(0.0) friend(0.0) ,(0.0) Mr.(0.0) Goodlatte(1.0) 
+,(0.0) for(1.0) the(0.0) work(0.0) that(0.0) he(0.0) did(0.0) with(0.0) me(0.0) on(0.0) this(0.0) bill(1.0) .(0.0) As(0.0) he(0.0) said(0.0) ,(0.0) this(0.0) has(0.0) been(0.0) 
+a(0.0) bipartisan(1.0) effort(0.0) ;(0.0) had(0.0) it(0.0) not(0.0) been(0.0) ,(0.0) we(0.0) would(0.0) n't(0.0) be(0.0) here(0.0) today(0.0) .(0.0) So(0.0) I(0.0) very(0.0) much(0.0) 
+want(0.0) to(0.0) thank(0.0) him(0.0) and(0.0) the(0.0) other(0.0) Members(0.0) on(0.0) his(0.0) side(0.0) of(0.0) the(0.0) aisle(0.0) as(0.0) well(0.0) as(0.0) the(0.0) Members(0.0) on(0.0) 
+our(0.0) side(0.0) of(0.0) the(0.0) aisle(0.0) for(0.0) all(0.0) their(0.0) hard(0.0) work(0.0) through(0.0) this(0.0) process(0.0) .(0.0) And(0.0) also(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) 
+mention(0.0) our(0.0) staff(0.0) ,(0.0) both(0.0) my(0.0) staff(0.0) and(0.0) the(0.0) minority(1.0) staff(0.0) .(0.0) The(0.0) amount(0.0) of(0.0) time(0.0) that(0.0) they(0.0) put(0.0) into(0.0) 
+this(0.0) bill(1.0) has(0.0) been(0.0) extraordinary(0.0) ,(0.0) the(0.0) patience(0.0) that(0.0) they(0.0) showed(0.0) ,(0.0) having(0.0) to(0.0) sit(0.0) in(0.0) meetings(0.0) and(0.0) not(0.0) make(0.0) 
+much(0.0) progress(0.0) for(0.0) a(0.0) lot(0.0) of(0.0) time(0.0) is(0.0) what(0.0) you(0.0) really(0.0) want(0.0) to(0.0) see(0.0) in(0.0) public(1.0) service(0.0) .(0.0) Our(0.0) staff(0.0) 
+went(0.0) above(0.0) and(0.0) beyond(0.0) the(0.0) call(0.0) of(0.0) duty(0.0) .(0.0) So(0.0) ,(0.0) again(0.0) ,(0.0) I(0.0) thank(0.0) all(0.0) of(0.0) my(0.0) colleagues(0.0) and(0.0) 
+urge(0.0) my(0.0) colleagues(0.0) to(0.0) vote(1.0) to(0.0) override(1.0) the(0.0) President(0.0) 's(0.0) veto(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) 
+of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Goodlatte	
+for	bill	
+bipartisan	
+
+
+minority	
+bill	
+public	
+
+vote	override	veto	Speaker	
+
+
+reads % = 0.05365853658536585

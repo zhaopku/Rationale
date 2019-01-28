@@ -1,0 +1,54 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) rise(0.0) in(0.0) opposition(1.0) to(0.0) the(0.0) amendment(1.0) ,(0.0) and(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) vote(1.0) ``(0.0) no(0.0) ''(0.0) on(0.0) this(0.0) amendment(1.0) 
+.(0.0) Frankly(0.0) ,(0.0) I(0.0) am(0.0) surprised(0.0) .(0.0) Over(0.0) the(0.0) last(0.0) 2(0.0) days(0.0) we(0.0) have(0.0) heard(0.0) a(0.0) great(0.0) deal(0.0) from(0.0) our(0.0) 
+friends(0.0) on(0.0) the(0.0) other(0.0) side(0.0) of(0.0) the(0.0) aisle(0.0) about(0.0) the(0.0) deficit(1.0) ,(0.0) about(0.0) which(0.0) we(0.0) should(0.0) all(0.0) quite(0.0) correctly(0.0) be(0.0) 
+concerned(0.0) .(0.0) And(0.0) ,(0.0) frankly(0.0) ,(0.0) I(0.0) thought(0.0) that(0.0) their(0.0) substitute(1.0) amendment(1.0) would(1.0) address(0.0) that(0.0) issue(0.0) in(0.0) a(0.0) very(0.0) forceful(1.0) 
+way(0.0) .(0.0) This(0.0) amendment(1.0) does(1.0) not(0.0) .(0.0) This(0.0) amendment(1.0) leaves(0.0) in(0.0) place(0.0) a(0.0) program(1.0) that(0.0) is(0.0) wasteful(1.0) and(0.0) expensive(1.0) .(0.0) 
+It(0.0) leaves(0.0) in(0.0) place(0.0) a(0.0) program(1.0) that(0.0) costs(1.0) approximately(0.0) $(0.0) 8(0.0) billion(1.0) to(0.0) $(0.0) 9(0.0) billion(1.0) more(0.0) per(0.0) year(0.0) than(0.0) 
+that(0.0) which(0.0) we(0.0) are(0.0) proposing(1.0) to(0.0) take(0.0) its(0.0) place(0.0) ,(0.0) the(0.0) Direct(0.0) Loan(0.0) Program(0.0) .(0.0) What(0.0) this(0.0) amendment(1.0) essentially(1.0) says(0.0) 
+is(0.0) that(0.0) over(0.0) the(0.0) next(0.0) 5(0.0) years(0.0) ,(0.0) the(0.0) Federal(1.0) Government(1.0) gets(0.0) to(0.0) do(0.0) the(0.0) heavy(0.0) lifting(1.0) of(0.0) this(0.0) loan(0.0) 
+program(0.0) .(0.0) The(0.0) Federal(1.0) Government(1.0) gets(0.0) to(0.0) do(0.0) the(0.0) heavy(0.0) lifting(0.0) of(0.0) providing(0.0) the(0.0) capital(1.0) ,(0.0) it(0.0) gets(0.0) to(0.0) do(0.0) 
+the(0.0) heavy(0.0) lifting(0.0) of(0.0) guaranteeing(1.0) the(0.0) amounts(1.0) that(0.0) are(0.0) loaned(0.0) ,(0.0) and(0.0) the(0.0) private(0.0) lenders(0.0) get(0.0) to(0.0) walk(0.0) away(0.0) with(0.0) 
+the(0.0) profits(1.0) .(0.0) I(0.0) do(0.0) n't(0.0) see(0.0) how(0.0) any(0.0) reasonable(0.0) person(0.0) can(0.0) think(0.0) that(0.0) that(0.0) is(0.0) a(0.0) situation(0.0) that(0.0) we(0.0) 
+can(0.0) allow(0.0) to(0.0) stand(0.0) .(0.0) What(0.0) the(0.0) amendment(1.0) also(0.0) says(0.0) is(0.0) ,(0.0) it(0.0) says(0.0) to(0.0) needy(1.0) students(0.0) ,(0.0) Hope(0.0) you(0.0) 
+can(0.0) get(0.0) by(0.0) ,(0.0) hope(0.0) you(0.0) can(0.0) make(0.0) it(0.0) as(0.0) you(0.0) try(0.0) to(0.0) pay(1.0) your(0.0) bills(1.0) .(0.0) We(0.0) would(0.0) love(0.0) 
+to(0.0) help(0.0) ,(0.0) but(0.0) we(0.0) have(0.0) got(0.0) these(0.0) lenders(0.0) that(0.0) are(0.0) counting(0.0) on(0.0) huge(0.0) profits(1.0) ,(0.0) and(0.0) we(0.0) have(0.0) got(0.0) 
+to(0.0) make(0.0) sure(0.0) that(0.0) we(0.0) provide(0.0) for(0.0) them(0.0) .(0.0) Our(0.0) proposal(1.0) ,(0.0) the(0.0) underlying(0.0) bill(1.0) ,(0.0) says(0.0) quite(0.0) the(0.0) opposite(0.0) 
+.(0.0) Our(0.0) proposal(1.0) says(1.0) that(0.0) we(0.0) are(0.0) going(0.0) to(0.0) pay(1.0) ,(0.0) take(0.0) Federal(1.0) tax(1.0) dollars(1.0) and(0.0) put(0.0) them(0.0) to(0.0) their(0.0) 
+highest(0.0) possible(0.0) use(0.0) in(0.0) this(0.0) circumstance(0.0) ,(0.0) and(0.0) that(0.0) is(0.0) helping(0.0) needy(1.0) students(0.0) go(0.0) to(0.0) college(1.0) .(0.0) Every(0.0) one(0.0) of(0.0) 
+us(0.0) ,(0.0) virtually(0.0) every(0.0) one(0.0) of(0.0) us(0.0) that(0.0) has(0.0) the(0.0) privilege(1.0) of(0.0) serving(1.0) in(0.0) this(0.0) Chamber(0.0) ,(0.0) is(0.0) here(0.0) because(0.0) 
+we(0.0) had(0.0) the(0.0) opportunity(0.0) to(0.0) seek(0.0) a(0.0) higher(0.0) education(1.0) .(0.0) What(0.0) our(0.0) bill(1.0) does(1.0) ,(0.0) the(0.0) underlying(0.0) bill(1.0) does(1.0) ,(0.0) 
+is(0.0) it(0.0) says(0.0) to(0.0) everyone(0.0) else(0.0) that(0.0) 's(0.0) out(0.0) there(0.0) ,(0.0) that(0.0) has(0.0) aspirations(1.0) of(0.0) their(0.0) own(0.0) ,(0.0) that(0.0) we(0.0) 
+are(0.0) going(0.0) to(0.0) help(0.0) you(0.0) get(0.0) your(0.0) slice(0.0) of(0.0) the(0.0) American(0.0) dream(0.0) .(0.0) In(0.0) doing(0.0) so(0.0) ,(0.0) we(0.0) build(0.0) a(0.0) 
+stronger(0.0) Nation(1.0) ,(0.0) because(0.0) we(0.0) build(0.0) a(0.0) Nation(1.0) that(0.0) can(0.0) compete(0.0) on(0.0) equal(1.0) footing(1.0) with(0.0) the(0.0) rest(0.0) of(0.0) the(0.0) world(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+opposition	amendment	vote	amendment	
+
+deficit	
+substitute	amendment	would	forceful	
+amendment	does	amendment	program	wasteful	expensive	
+program	costs	billion	billion	
+proposing	amendment	essentially	
+Federal	Government	lifting	
+Federal	Government	capital	
+guaranteeing	amounts	
+profits	
+amendment	needy	
+pay	bills	
+profits	
+proposal	bill	
+proposal	says	pay	Federal	tax	dollars	
+needy	college	
+privilege	serving	
+education	bill	does	bill	does	
+aspirations	
+
+Nation	Nation	equal	footing	
+
+
+reads % = 0.13122171945701358

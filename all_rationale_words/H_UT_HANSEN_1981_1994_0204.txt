@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) ask(1.0) unanimous(0.0) consent(0.0) that(0.0) the(0.0) time(0.0) for(0.0) debate(1.0) be(0.0) equally(1.0) divided(1.0) between(0.0) the(0.0) majority(0.0) and(0.0) the(0.0) minority(0.0) .(0.0) 
+point(0.0) of(0.0) order(0.0) 
+
+
+----- below are rationale words -----
+
+ask	debate	equally	divided	
+
+
+reads % = 0.16666666666666666

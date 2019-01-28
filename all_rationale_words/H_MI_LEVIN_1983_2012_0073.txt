@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+Yet(1.0) the(0.0) provisions(1.0) that(0.0) ,(0.0) in(0.0) fact(0.0) ,(0.0) disproportionately(1.0) benefit(1.0) the(0.0) wealthy(1.0) ,(0.0) including(0.0) the(0.0) reduction(1.0) for(0.0) capital(1.0) gains(0.0) and(0.0) dividends(1.0) 
+,(0.0) the(0.0) Republicans(1.0) would(1.0) protect(1.0) from(1.0) any(1.0) changes(1.0) .(1.0) The(1.0) Republican(1.0) priorities(1.0) could(1.0) not(1.0) be(1.0) clearer(1.0) when(1.0) it(1.0) comes(1.0) to(1.0) 
+Medicare(1.0) :(1.0) end(1.0) it(1.0) .(1.0) As(1.0) to(1.0) their(0.0) tax(1.0) provisions(1.0) :(1.0) help(0.0) the(0.0) very(0.0) wealthy(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+provisions	disproportionately	benefit	wealthy	reduction	capital	dividends	
+Republicans	would	protect	from	any	changes	.	The	Republican	priorities	could	not	be	clearer	when	it	comes	to	
+Medicare	:	end	it	.	As	to	tax	provisions	:	wealthy	
+
+reads % = 0.631578947368421

@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) journalism(1.0) has(0.0) taken(0.0) a(0.0) plunge(0.0) into(0.0) the(0.0) depth(0.0) of(0.0) disturbing(0.0) depravity(1.0) at(0.0) Central(0.0) Connecticut(1.0) University(0.0) .(0.0) A(0.0) writer(0.0) for(0.0) 
+the(0.0) college(0.0) newspaper(0.0) wrote(0.0) a(0.0) slam(0.0) piece(0.0) against(0.0) sexual(0.0) assault(0.0) victims(0.0) .(0.0) His(0.0) article(0.0) was(0.0) entitled(0.0) ,(0.0) ``(0.0) Rape(0.0) Only(0.0) 
+Hurts(0.0) if(0.0) You(0.0) Fight(1.0) It(0.0) .(0.0) ''(0.0) He(0.0) claims(0.0) rape(1.0) is(0.0) a(0.0) magical(0.0) experience(0.0) and(0.0) a(0.0) blessing(0.0) for(0.0) unattractive(0.0) women(1.0) 
+.(0.0) He(0.0) and(0.0) his(0.0) Third-World(1.0) college(0.0) newspaper(0.0) now(0.0) say(0.0) the(0.0) piece(0.0) was(0.0) satire(1.0) and(0.0) humor(0.0) .(0.0) This(0.0) mean-spirited(1.0) article(0.0) shows(0.0) 
+no(0.0) humor(0.0) ,(0.0) but(0.0) vile(1.0) and(0.0) vicious(1.0) and(0.0) abusive(1.0) words(0.0) about(0.0) women(1.0) .(0.0) Journalistic(1.0) attacks(0.0) on(0.0) rape(1.0) victims(1.0) dehumanize(1.0) them(0.0) 
+and(0.0) show(0.0) a(0.0) total(0.0) lack(0.0) of(0.0) understanding(0.0) of(0.0) this(0.0) crime(1.0) .(0.0) Rape(1.0) is(0.0) a(0.0) physical(0.0) and(0.0) emotional(0.0) crime(1.0) that(0.0) tries(0.0) 
+to(0.0) destroy(1.0) the(0.0) inner(0.0) soul(0.0) of(0.0) the(0.0) victim(1.0) .(0.0) Almost(0.0) one-fourth(0.0) of(0.0) the(0.0) women(1.0) on(0.0) college(1.0) campuses(1.0) are(0.0) rape(1.0) victims(1.0) 
+.(0.0) Journalists(0.0) who(0.0) are(0.0) out(0.0) of(0.0) touch(0.0) with(0.0) the(0.0) real(0.0) world(0.0) do(0.0) a(0.0) disservice(0.0) to(0.0) this(0.0) field(0.0) ,(0.0) and(0.0) tragically(1.0) 
+,(0.0) like(0.0) physical(0.0) abusers(1.0) ,(0.0) heap(0.0) journalistic(1.0) abuse(1.0) on(0.0) rape(1.0) victims(1.0) .(0.0) And(0.0) that(0.0) 's(0.0) just(0.0) the(0.0) way(0.0) it(0.0) is(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+journalism	depravity	Connecticut	
+
+Fight	rape	women	
+Third-World	satire	mean-spirited	
+vile	vicious	abusive	women	Journalistic	rape	victims	dehumanize	
+crime	Rape	crime	
+destroy	victim	women	college	campuses	rape	victims	
+tragically	
+abusers	journalistic	abuse	rape	victims	
+
+
+reads % = 0.1813186813186813

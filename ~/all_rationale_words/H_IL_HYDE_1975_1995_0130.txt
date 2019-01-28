@@ -1,0 +1,16 @@
+This is from a Republican
+----- below is the original text -----
+Booth(1.0) --(0.0) --(0.0) I(0.0) just(1.0) suggest(0.0) to(0.0) the(0.0) gentleman(0.0) that(0.0) we(0.0) are(0.0) in(0.0) the(0.0) anomalous(1.0) situation(0.0) of(0.0) the(0.0) gentleman(0.0) espousing(1.0) what(0.0) 
+the(0.0) gentleman(0.0) from(0.0) Georgia(1.0) [(0.0) Mr.(0.0) Gingrich(1.0) ](0.0) says(1.0) and(0.0) we(0.0) espousing(1.0) the(0.0) gentleman(0.0) from(0.0) Missouri(1.0) [(0.0) Mr.(0.0) Gephardt(1.0) ](0.0) 
+.(0.0) And(0.0) this(0.0) time(0.0) ,(0.0) and(0.0) this(0.0) time(0.0) alone(1.0) ,(0.0) I(0.0) think(1.0) the(0.0) gentleman(0.0) from(0.0) Missouri(1.0) [(0.0) Mr.(0.0) Gephardt(1.0) ](0.0) 
+has(0.0) the(0.0) better(0.0) of(0.0) them(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+just	anomalous	espousing	
+Georgia	Gingrich	says	espousing	Missouri	Gephardt	
+alone	think	Missouri	Gephardt	
+
+
+reads % = 0.19402985074626866

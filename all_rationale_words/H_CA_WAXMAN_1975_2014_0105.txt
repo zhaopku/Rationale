@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) this(0.0) bill(0.0) is(0.0) not(1.0) a(0.0) new(1.0) bill(0.0) to(0.0) be(0.0) presented(0.0) on(0.0) the(0.0) House(0.0) floor(0.0) .(0.0) It(0.0) is(0.0) a(0.0) 
+compilation(1.0) of(0.0) bills(0.0) that(0.0) have(0.0) already(0.0) been(0.0) proposed(0.0) and(0.0) passed(0.0) ,(0.0) for(0.0) the(0.0) most(1.0) part(0.0) ,(0.0) on(0.0) a(0.0) partisan(1.0) Republican(1.0) 
+basis(1.0) .(1.0) People(1.0) have(0.0) complained(1.0) on(0.0) the(0.0) other(0.0) side(0.0) of(0.0) the(0.0) aisle(1.0) that(0.0) their(0.0) bills(0.0) did(0.0) n't(0.0) go(0.0) anywhere(0.0) .(0.0) 
+Well(0.0) ,(0.0) they(0.0) did(0.0) n't(0.0) go(0.0) anywhere(0.0) because(0.0) they(0.0) did(0.0) n't(0.0) have(0.0) support(0.0) in(0.0) the(0.0) other(0.0) body(0.0) ,(0.0) the(0.0) U.S.(0.0) 
+Senate(1.0) .(0.0) The(0.0) President(1.0) of(0.0) the(0.0) United(0.0) States(0.0) said(0.0) he(0.0) would(1.0) veto(1.0) it(0.0) .(0.0) They(0.0) ca(0.0) n't(0.0) pass(1.0) a(0.0) bill(0.0) 
+in(0.0) the(0.0) House(0.0) with(0.0) Republican(1.0) votes(1.0) and(0.0) put(0.0) it(0.0) into(0.0) law(1.0) .(0.0) So(1.0) if(0.0) you(1.0) ca(0.0) n't(0.0) pass(1.0) a(0.0) law(1.0) 
+without(0.0) working(0.0) with(0.0) the(0.0) Democrats(1.0) and(0.0) reaching(1.0) compromises(1.0) ,(0.0) what(1.0) Republicans(1.0) think(1.0) is(0.0) the(0.0) most(1.0) effective(0.0) thing(0.0) to(0.0) do(0.0) is(0.0) 
+to(0.0) say(1.0) it(0.0) over(0.0) and(0.0) over(0.0) and(0.0) over(0.0) again(0.0) .(0.0) Let(1.0) 's(0.0) not(1.0) forget(0.0) ,(0.0) we(0.0) know(0.0) that(0.0) our(0.0) Republican(1.0) 
+colleagues(1.0) did(0.0) n't(0.0) like(0.0) the(0.0) Affordable(1.0) Care(0.0) Act(0.0) ,(0.0) sometimes(0.0) known(0.0) as(0.0) ObamaCare(1.0) ,(0.0) so(1.0) on(0.0) this(0.0) House(0.0) floor(0.0) we(0.0) 
+voted(1.0) over(0.0) 50(0.0) times(0.0) to(0.0) repeal(1.0) it(0.0) .(0.0) The(0.0) Republicans(1.0) said(1.0) we(0.0) are(0.0) going(0.0) to(0.0) repeal(1.0) it(0.0) and(0.0) replace(1.0) it(0.0) 
+.(0.0) Well(0.0) ,(0.0) we(0.0) never(0.0) heard(1.0) what(0.0) they(0.0) are(0.0) going(0.0) to(0.0) replace(0.0) it(0.0) with(0.0) .(0.0) They(0.0) just(0.0) wanted(0.0) to(0.0) repeal(1.0) 
+it(0.0) .(0.0) Well(0.0) ,(0.0) they(0.0) did(0.0) n't(0.0) repeal(1.0) it(0.0) when(0.0) they(0.0) passed(0.0) the(0.0) first(0.0) vote(1.0) ,(0.0) and(0.0) they(0.0) did(0.0) n't(0.0) 
+repeal(1.0) it(0.0) when(0.0) they(0.0) passed(0.0) the(0.0) 50th(1.0) vote(1.0) .(0.0) But(0.0) they(0.0) thought(0.0) if(0.0) they(0.0) say(1.0) it(0.0) over(0.0) and(0.0) over(0.0) and(0.0) 
+again(0.0) and(0.0) do(0.0) it(0.0) over(0.0) and(0.0) over(0.0) again(0.0) ,(0.0) they(0.0) would(1.0) get(0.0) somewhere(0.0) ,(0.0) I(0.0) presume(1.0) .(0.0) When(1.0) psychologists(0.0) talk(0.0) 
+about(0.0) this(0.0) ,(0.0) they(0.0) call(0.0) it(0.0) perseveration(1.0) ,(0.0) saying(0.0) the(0.0) same(1.0) thing(0.0) over(0.0) and(0.0) over(0.0) again(0.0) .(0.0) But(0.0) I(0.0) do(0.0) 
+n't(0.0) think(1.0) this(0.0) is(0.0) a(0.0) reasonable(0.0) way(0.0) to(0.0) legislate(1.0) .(0.0) If(1.0) they(0.0) want(1.0) to(0.0) legislate(1.0) and(0.0) you(1.0) do(0.0) n't(0.0) have(0.0) 
+the(0.0) power(1.0) ,(0.0) you(1.0) have(0.0) to(0.0) compromise(1.0) .(0.0) You(0.0) have(0.0) to(0.0) talk(0.0) with(0.0) the(0.0) President(1.0) .(0.0) You(0.0) have(0.0) to(0.0) talk(0.0) 
+with(0.0) the(0.0) Senate(1.0) majority(0.0) .(0.0) You(0.0) have(0.0) to(0.0) talk(0.0) with(0.0) your(0.0) own(0.0) colleagues(1.0) .(0.0) But(0.0) the(0.0) Republicans(1.0) do(0.0) n't(0.0) want(1.0) 
+to(0.0) talk(0.0) to(0.0) anybody(0.0) except(1.0) themselves(0.0) over(0.0) and(0.0) over(0.0) and(0.0) over(0.0) again(0.0) .(0.0) Let(1.0) me(0.0) give(0.0) you(0.0) an(0.0) example(0.0) .(0.0) 
+Since(0.0) Republicans(1.0) took(1.0) control(1.0) of(0.0) the(0.0) House(0.0) less(0.0) than(0.0) 4(1.0) years(0.0) ago(1.0) ,(0.0) they(0.0) have(0.0) cast(1.0) over(0.0) 500(0.0) antienvironmental(1.0) votes(1.0) 
+.(0.0) They(0.0) have(0.0) voted(1.0) over(0.0) 500(0.0) times(0.0) to(0.0) weaken(1.0) protection(0.0) for(0.0) public(0.0) health(1.0) and(0.0) the(0.0) environment(0.0) ,(0.0) to(0.0) let(0.0) polluters(1.0) 
+off(0.0) the(0.0) hook(1.0) ,(0.0) and(0.0) even(0.0) to(0.0) deny(1.0) science(0.0) .(0.0) Well(0.0) ,(0.0) I(0.0) presume(1.0) they(0.0) think(1.0) that(0.0) is(0.0) a(0.0) good(0.0) 
+idea(0.0) .(0.0) They(0.0) have(0.0) voted(1.0) against(0.0) clean(1.0) renewable(1.0) energy(1.0) and(0.0) energy(1.0) efficiency(0.0) .(0.0) They(0.0) have(0.0) voted(1.0) to(0.0) give(0.0) taxpayer(1.0) dollars(0.0) 
+to(0.0) oil(1.0) companies(1.0) .(0.0) They(0.0) have(0.0) voted(1.0) to(0.0) allow(0.0) more(0.0) toxic(1.0) mercury(1.0) pollution(1.0) in(0.0) our(0.0) air(0.0) and(0.0) more(0.0) contaminants(0.0) in(0.0) 
+our(0.0) drinking(0.0) water(0.0) .(0.0) I(0.0) suppose(1.0) they(0.0) think(1.0) that(0.0) is(0.0) a(0.0) good(0.0) idea(0.0) ,(0.0) but(0.0) others(0.0) do(0.0) n't(0.0) agree(1.0) 
+
+
+----- below are rationale words -----
+
+Speaker	not	new	
+compilation	most	partisan	Republican	
+basis	.	People	complained	aisle	
+
+Senate	President	would	veto	pass	
+Republican	votes	law	So	you	pass	law	
+Democrats	reaching	compromises	what	Republicans	think	most	
+say	Let	not	Republican	
+colleagues	Affordable	ObamaCare	so	
+voted	repeal	Republicans	said	repeal	replace	
+heard	repeal	
+repeal	vote	
+repeal	50th	vote	say	
+would	presume	When	
+perseveration	same	
+think	legislate	If	want	legislate	you	
+power	you	compromise	President	
+Senate	colleagues	Republicans	want	
+except	Let	
+Republicans	took	control	4	ago	cast	antienvironmental	votes	
+voted	weaken	health	polluters	
+hook	deny	presume	think	
+voted	clean	renewable	energy	energy	voted	taxpayer	
+oil	companies	voted	toxic	mercury	pollution	
+suppose	think	agree	
+
+reads % = 0.212

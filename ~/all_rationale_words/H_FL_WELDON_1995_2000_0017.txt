@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) me(0.0) the(0.0) time(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) rise(1.0) today(0.0) in(0.0) support(0.0) of(0.0) 
+H.R(0.0) .(0.0) 4051(1.0) ,(0.0) The(0.0) Safe(0.0) Streets(1.0) and(0.0) Neighborhoods(1.0) Act(0.0) of(0.0) 2000(0.0) .(0.0) This(0.0) bill(0.0) will(0.0) authorize(1.0) incentive(1.0) grants(1.0) to(0.0) 
+States(0.0) which(0.0) impose(0.0) 5-year(0.0) mandatory(0.0) minimum(1.0) sentences(0.0) on(0.0) convicted(1.0) violent(1.0) felons(0.0) who(0.0) possess(0.0) firearms(0.0) or(1.0) on(0.0) anyone(0.0) who(0.0) uses(1.0) a(0.0) 
+firearm(0.0) in(0.0) the(0.0) commission(1.0) of(0.0) a(0.0) violent(1.0) felony(1.0) .(0.0) This(0.0) program(0.0) has(0.0) proven(1.0) its(0.0) worth(0.0) by(0.0) imposing(1.0) swift(1.0) and(0.0) serious(0.0) 
+consequences(0.0) on(0.0) armed(0.0) criminals(1.0) and(0.0) produced(0.0) results(0.0) demonstrating(1.0) that(0.0) prosecution(1.0) is(0.0) prevention(1.0) .(0.0) A(1.0) recent(1.0) poll(1.0) has(0.0) shown(0.0) that(0.0) only(0.0) 
+2(0.0) percent(1.0) of(0.0) Americans(0.0) would(1.0) like(0.0) to(0.0) see(0.0) more(0.0) gun(0.0) control(1.0) legislation(0.0) coming(0.0) out(0.0) of(0.0) this(0.0) Congress(0.0) ,(0.0) whereas(1.0) a(0.0) 
+vast(1.0) majority(0.0) would(0.0) like(0.0) to(0.0) see(0.0) rigorous(1.0) prosecution(1.0) of(0.0) criminals(1.0) who(0.0) commit(0.0) crimes(0.0) with(0.0) a(0.0) weapon(0.0) .(0.0) The(0.0) recent(1.0) case(0.0) 
+of(0.0) Joseph(1.0) Palczynski(1.0) is(0.0) an(0.0) excellent(0.0) example(0.0) ,(0.0) after(0.0) multiple(0.0) convictions(1.0) for(0.0) violent(1.0) crimes(1.0) ,(0.0) some(0.0) with(0.0) a(0.0) weapon(0.0) ,(0.0) 
+he(0.0) ultimately(1.0) killed(1.0) four(0.0) people(0.0) and(0.0) held(0.0) three(0.0) people(0.0) hostage(0.0) for(0.0) many(0.0) weeks(1.0) in(0.0) Maryland(1.0) .(0.0) That(0.0) man(1.0) should(0.0) have(0.0) 
+been(0.0) behind(0.0) bars(0.0) .(0.0) This(0.0) legislation(0.0) is(0.0) needed(0.0) .(0.0) I(0.0) recommend(1.0) its(0.0) strong(0.0) support(0.0) .(0.0) The(0.0) SPEAKER(0.0) pro(1.0) tempore(1.0) ((0.0) 
+Mr.(0.0) Hansen(1.0) )(0.0) The(0.0) gentleman(0.0) from(0.0) Virginia(1.0) ((0.0) Mr.(0.0) Scott(1.0) )(0.0) has(0.0) 1(0.0) minute(1.0) remaining(1.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Florida(1.0) 
+((0.0) Mr.(0.0) MCCollum(1.0) )(0.0) has(0.0) 4\1/2\(1.0) minutes(1.0) remaining(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	rise	
+4051	Streets	Neighborhoods	authorize	incentive	grants	
+minimum	convicted	violent	or	uses	
+commission	violent	felony	proven	imposing	swift	
+criminals	demonstrating	prosecution	prevention	A	recent	poll	
+percent	would	control	whereas	
+vast	rigorous	prosecution	criminals	recent	
+Joseph	Palczynski	convictions	violent	crimes	
+ultimately	killed	weeks	Maryland	man	
+recommend	pro	tempore	
+Hansen	Virginia	Scott	minute	remaining	Florida	
+MCCollum	4\1/2\	minutes	remaining	
+
+reads % = 0.25217391304347825

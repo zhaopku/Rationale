@@ -1,0 +1,20 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) this(0.0) stunt(1.0) about(0.0) helping(0.0) a(0.0) few(0.0) people(0.0) who(0.0) are(0.0) embarrassing(0.0) the(0.0) Republicans(1.0) because(1.0) of(1.0) some(1.0) TV(1.0) coverage(1.0) is(1.0) the(1.0) 
+wrong(1.0) thing(1.0) ,(0.0) I(0.0) 'm(0.0) telling(0.0) you(0.0) .(0.0) What(0.0) about(0.0) the(0.0) folks(0.0) in(0.0) my(0.0) district(0.0) ?(0.0) In(0.0) the(0.0) Star(0.0) Tribune(0.0) 
+``(0.0) Hundreds(0.0) turned(0.0) away(0.0) from(0.0) Social(0.0) Security(0.0) office(0.0) .(0.0) ''(0.0) Hundreds(1.0) turned(0.0) away(0.0) --(0.0) what(0.0) about(0.0) them(0.0) ?(0.0) Look(0.0) ,(0.0) 
+we(0.0) could(0.0) reopen(1.0) the(0.0) government(1.0) right(0.0) now(0.0) if(0.0) we(0.0) put(0.0) this(0.0) Senate(1.0) CR(0.0) on(0.0) and(0.0) pass(0.0) it(0.0) and(0.0) then(0.0) argue(1.0) 
+about(0.0) all(0.0) that(0.0) stuff(0.0) you(0.0) want(0.0) to(0.0) talk(0.0) about(0.0) .(0.0) Open(0.0) up(0.0) the(0.0) government(1.0) ,(0.0) every(0.0) bit(0.0) of(0.0) it(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+stunt	Republicans	because	of	some	TV	coverage	is	the	
+wrong	thing	
+Hundreds	
+reopen	government	Senate	argue	
+government	
+
+
+reads % = 0.16831683168316833

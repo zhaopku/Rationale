@@ -1,0 +1,20 @@
+This is from a Republican
+----- below is the original text -----
+Hutchinson(1.0) ](0.0) for(0.0) yielding(0.0) me(0.0) the(1.0) time(0.0) .(0.0) Mr.(1.0) Chairman(1.0) ,(0.0) as(0.0) long(0.0) as(0.0) I(0.0) have(0.0) been(0.0) here(0.0) ,(0.0) I(0.0) have(0.0) 
+supported(1.0) term(0.0) limits(0.0) .(0.0) I(0.0) have(0.0) never(0.0) once(1.0) voted(1.0) against(0.0) term(0.0) limits(0.0) at(0.0) any(1.0) time(0.0) .(0.0) Today(0.0) I(0.0) have(0.0) to(0.0) 
+rise(0.0) in(0.0) support(0.0) of(0.0) the(0.0) Hutchinson(1.0) term(0.0) limits(0.0) substitute(1.0) and(0.0) tell(0.0) my(0.0) constituents(1.0) and(0.0) this(0.0) body(0.0) that(0.0) I(0.0) am(0.0) going(1.0) 
+to(0.0) vote(1.0) against(0.0) some(0.0) of(0.0) the(0.0) term(0.0) limits(0.0) .(0.0) The(0.0) Hutchinson(1.0) amendment(1.0) is(0.0) the(0.0) exact(1.0) language(0.0) that(0.0) passed(0.0) as(0.0) an(0.0) 
+amendment(1.0) to(0.0) the(0.0) Arkansas(0.0) State(0.0) Constitution(0.0) in(0.0) the(0.0) general(0.0) election(1.0) this(0.0) past(0.0) fall(0.0) ,(0.0) and(0.0) so(0.0) I(0.0) am(1.0) duty(1.0) bound(1.0) 
+to(0.0) support(0.0) this(0.0) .(0.0) I(0.0) therefore(1.0) urge(1.0) my(0.0) colleagues(1.0) to(0.0) vote(1.0) in(0.0) favor(1.0) of(0.0) the(0.0) Hutchinson(1.0) amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+the	Mr.	Chairman	
+supported	once	voted	any	
+Hutchinson	substitute	constituents	going	
+vote	Hutchinson	amendment	exact	
+amendment	election	am	duty	bound	
+therefore	urge	colleagues	vote	favor	Hutchinson	amendment	
+
+reads % = 0.226890756302521

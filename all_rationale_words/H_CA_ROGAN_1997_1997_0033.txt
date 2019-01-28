@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) during(0.0) this(0.0) last(0.0) week(0.0) ,(0.0) the(0.0) other(0.0) body(0.0) has(0.0) conducted(0.0) hearings(0.0) that(0.0) are(0.0) extremely(0.0) significant(0.0) to(0.0) all(0.0) Americans(1.0) 
+.(0.0) We(0.0) finally(0.0) had(0.0) a(0.0) congressional(0.0) committee(0.0) turn(0.0) over(0.0) the(0.0) rock(0.0) at(0.0) the(0.0) IRS(1.0) .(0.0) What(0.0) we(0.0) heard(0.0) were(0.0) horror(0.0) 
+stories(0.0) coming(0.0) from(0.0) citizens(1.0) ,(0.0) taxpayers(1.0) ,(0.0) and(0.0) even(0.0) from(0.0) IRS(1.0) agents(0.0) who(0.0) testified(0.0) anonymously(0.0) .(0.0) It(0.0) did(0.0) not(0.0) surprise(0.0) 
+me(0.0) ,(0.0) Madam(0.0) Speaker(1.0) ,(0.0) to(0.0) see(0.0) on(0.0) the(0.0) front(0.0) page(0.0) of(0.0) U.S.A.(1.0) Today(0.0) that(0.0) 69(0.0) percent(0.0) of(0.0) Americans(1.0) believe(0.0) 
+the(0.0) IRS(1.0) abuses(1.0) power(0.0) often(0.0) --(0.0) not(0.0) just(0.0) now(0.0) and(0.0) then(0.0) ,(0.0) but(0.0) often(0.0) .(0.0) What(0.0) did(0.0) surprise(0.0) me(0.0) ,(0.0) 
+Madam(0.0) Speaker(1.0) ,(0.0) was(0.0) to(0.0) see(0.0) on(0.0) the(0.0) front(0.0) page(0.0) of(0.0) the(0.0) Washington(1.0) Times(1.0) ,(0.0) in(0.0) response(0.0) to(0.0) a(0.0) Republican(0.0) 
+congressional(1.0) proposal(1.0) that(1.0) a(1.0) citizen(1.0) oversight(1.0) board(0.0) protect(1.0) Americans(1.0) from(0.0) the(0.0) IRS(1.0) ,(0.0) that(0.0) the(0.0) ``(0.0) White(0.0) House(0.0) champions(1.0) the(0.0) 
+IRS(1.0) .(0.0) ''(0.0) The(0.0) headlines(0.0) say(0.0) that(0.0) ``(0.0) the(0.0) President(1.0) opposes(1.0) citizen(1.0) oversight(0.0) .(0.0) ''(0.0) Republicans(1.0) in(1.0) this(1.0) Chamber(1.0) ,(0.0) 
+Madam(0.0) Speaker(0.0) ,(0.0) have(0.0) made(0.0) clear(0.0) that(0.0) the(0.0) status(0.0) quo(0.0) with(0.0) the(0.0) IRS(1.0) is(0.0) unacceptable(0.0) .(0.0) I(0.0) hope(0.0) that(0.0) the(0.0) 
+President(1.0) will(0.0) reconsider(1.0) his(0.0) apparent(0.0) refusal(1.0) to(0.0) see(0.0) citizens(1.0) oversee(0.0) the(0.0) IRS(1.0) ,(0.0) instead(0.0) of(0.0) having(0.0) it(0.0) the(0.0) other(0.0) way(0.0) 
+around(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Americans	
+IRS	
+citizens	taxpayers	IRS	
+Speaker	U.S.A.	Americans	
+IRS	abuses	
+Speaker	Washington	Times	
+congressional	proposal	that	a	citizen	oversight	protect	Americans	IRS	champions	
+IRS	President	opposes	citizen	Republicans	in	this	Chamber	
+IRS	
+President	reconsider	refusal	citizens	IRS	
+
+
+reads % = 0.18226600985221675

@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+You(0.0) want(0.0) to(0.0) remove(0.0) the(0.0) most(0.0) debated(1.0) provision(1.0) we(0.0) have(0.0) had(0.0) in(0.0) this(0.0) entire(0.0) Congress(0.0) ?(0.0) You(0.0) feel(0.0) that(0.0) has(0.0) n't(0.0) 
+been(0.0) debated(0.0) enough(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+debated	provision	
+
+
+reads % = 0.08

@@ -1,0 +1,46 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Chairman(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) strong(0.0) support(0.0) of(0.0) the(0.0) farm(0.0) bill(0.0) --(1.0) a(0.0) product(0.0) of(0.0) several(0.0) years(0.0) of(0.0) hard(0.0) 
+work(0.0) and(0.0) patience(0.0) from(0.0) Chairman(0.0) Lucas(1.0) ,(0.0) Ranking(0.0) Member(0.0) Peterson(1.0) ,(0.0) and(0.0) their(0.0) staffs(0.0) at(0.0) the(0.0) Agriculture(0.0) Committee(0.0) .(0.0) Madam(0.0) 
+Chairman(0.0) ,(0.0) I(0.0) would(0.0) like(0.0) to(0.0) call(0.0) attention(0.0) to(0.0) the(0.0) patience(0.0) of(0.0) our(0.0) farming(1.0) community(0.0) across(0.0) this(0.0) Nation(1.0) ,(0.0) the(0.0) 
+economic(1.0) engine(0.0) of(0.0) rural(1.0) America(0.0) ,(0.0) and(0.0) especially(0.0) to(0.0) the(0.0) farming(0.0) families(0.0) in(0.0) the(0.0) Eighth(1.0) District(0.0) of(0.0) North(0.0) Carolina(0.0) ,(0.0) 
+which(0.0) I(0.0) call(0.0) home(0.0) .(0.0) When(0.0) I(0.0) go(0.0) home(0.0) every(0.0) weekend(0.0) and(0.0) travel(0.0) across(0.0) my(0.0) district(0.0) ,(0.0) I(0.0) hear(0.0) one(0.0) 
+resounding(0.0) thing(0.0) ,(0.0) and(0.0) that(0.0) is(0.0) get(0.0) a(0.0) 5-year(0.0) farm(0.0) bill(0.0) done(0.0) to(0.0) provide(0.0) us(0.0) the(0.0) certainty(1.0) we(0.0) need(0.0) .(0.0) 
+Madam(0.0) Chairman(1.0) ,(0.0) this(0.0) bill(1.0) is(0.0) not(0.0) perfect(0.0) .(0.0) In(0.0) my(0.0) opinion(0.0) ,(0.0) it(0.0) does(0.0) not(0.0) contain(0.0) enough(0.0) cuts(1.0) or(0.0) 
+reforms(1.0) ,(0.0) but(0.0) our(0.0) alternative(1.0) is(0.0) the(0.0) status(0.0) quo(0.0) .(0.0) I(0.0) would(0.0) like(0.0) to(0.0) see(0.0) more(0.0) cuts(1.0) and(0.0) will(0.0) offer(0.0) 
+and(0.0) support(0.0) amendments(1.0) to(0.0) do(0.0) just(0.0) that(0.0) .(0.0) Ultimately(0.0) ,(0.0) I(0.0) will(0.0) support(0.0) this(0.0) bill(1.0) because(1.0) not(0.0) supporting(0.0) it(0.0) ,(0.0) 
+again(0.0) ,(0.0) means(0.0) the(0.0) status(0.0) quo(0.0) .(0.0) Not(0.0) supporting(0.0) this(0.0) bill(1.0) means(1.0) not(0.0) getting(0.0) over(0.0) $(0.0) 40(0.0) billion(1.0) in(0.0) mandatory(1.0) 
+cuts(1.0) when(0.0) we(0.0) had(0.0) the(0.0) chance(0.0) .(0.0) Not(0.0) supporting(0.0) this(0.0) bill(1.0) means(1.0) not(0.0) having(0.0) a(0.0) 5-year(0.0) bill(0.0) to(1.0) provide(0.0) certainty(0.0) 
+that(0.0) our(0.0) farmers(1.0) need(0.0) .(0.0) From(0.0) the(0.0) important(0.0) provisions(1.0) found(0.0) in(0.0) the(0.0) commodities(1.0) title(0.0) to(0.0) ensuring(0.0) the(0.0) critical(0.0) safety(0.0) net(0.0) 
+of(0.0) crop(1.0) insurance(0.0) remains(0.0) intact(0.0) to(0.0) making(0.0) responsible(0.0) cuts(1.0) and(0.0) reforms(1.0) to(0.0) bloated(1.0) programs(1.0) ,(0.0) saving(1.0) the(0.0) taxpayers(1.0) '(0.0) money(0.0) 
+,(0.0) this(0.0) bill(1.0) is(0.0) a(0.0) bill(0.0) we(0.0) need(0.0) to(0.0) support(0.0) .(0.0) This(0.0) a(0.0) bill(1.0) that(0.0) provides(0.0) the(0.0) tools(0.0) our(0.0) farmers(1.0) 
+need(0.0) to(0.0) keep(0.0) them(0.0) producing(0.0) food(1.0) and(0.0) fiber(0.0) for(0.0) our(0.0) country(1.0) and(0.0) the(0.0) world(0.0) .(0.0) Like(0.0) I(0.0) said(0.0) ,(0.0) this(0.0) 
+bill(1.0) is(0.0) not(0.0) perfect(0.0) and(0.0) I(0.0) look(0.0) forward(0.0) to(0.0) the(0.0) debate(1.0) we(0.0) will(0.0) have(0.0) in(0.0) the(0.0) coming(0.0) days(0.0) ,(0.0) and(0.0) 
+considering(0.0) the(0.0) amendments(1.0) my(0.0) colleagues(0.0) and(0.0) I(0.0) will(0.0) offer(0.0) to(0.0) make(0.0) this(0.0) the(0.0) best(0.0) bill(1.0) we(0.0) can(0.0) for(0.0) the(0.0) Agriculture(1.0) 
+Community(0.0) and(0.0) the(0.0) American(0.0) taxpayer(1.0) .(0.0) On(0.0) behalf(0.0) of(0.0) the(0.0) farmers(1.0) and(0.0) agribusiness(1.0) community(0.0) of(0.0) North(0.0) Carolina(0.0) ,(0.0) I(0.0) am(0.0) 
+eager(0.0) to(0.0) get(0.0) this(0.0) bill(1.0) finished(0.0) and(0.0) providing(0.0) long(0.0) awaited(0.0) certainty(0.0) and(0.0) reforms(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+--	
+Lucas	Peterson	
+farming	Nation	
+economic	rural	Eighth	
+
+certainty	
+Chairman	bill	cuts	
+reforms	alternative	cuts	
+amendments	bill	because	
+bill	means	billion	mandatory	
+cuts	bill	means	to	
+farmers	provisions	commodities	
+crop	cuts	reforms	bloated	programs	saving	taxpayers	
+bill	bill	farmers	
+food	country	
+bill	debate	
+amendments	bill	Agriculture	
+taxpayer	farmers	agribusiness	
+bill	reforms	
+
+reads % = 0.136

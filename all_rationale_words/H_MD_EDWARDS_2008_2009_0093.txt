@@ -1,0 +1,36 @@
+This is from a Democrat
+----- below is the original text -----
+And(0.0) I(0.0) 've(0.0) heard(0.0) the(0.0) rhetoric(1.0) before(0.0) .(0.0) But(0.0) I(0.0) tell(0.0) you(0.0) ,(0.0) it(0.0) rings(0.0) hollow(0.0) on(0.0) somebody(0.0) who(0.0) has(0.0) not(0.0) 
+had(0.0) health(1.0) care(0.0) and(0.0) who(0.0) 's(0.0) also(0.0) had(0.0) really(0.0) good(0.0) health(1.0) care(1.0) coverage(1.0) .(0.0) And(0.0) so(0.0) ,(0.0) you(0.0) know(0.0) ,(0.0) 
+I(0.0) think(0.0) the(0.0) detractors(1.0) ,(0.0) we(0.0) know(0.0) who(0.0) they(0.0) are(0.0) .(0.0) They(0.0) 're(0.0) all(0.0) the(0.0) vested(1.0) interests(0.0) who(0.0) are(0.0) making(0.0) 
+a(0.0) boatload(0.0) of(0.0) money(1.0) off(0.0) of(0.0) the(0.0) American(0.0) people(0.0) while(0.0) they(0.0) do(0.0) n't(0.0) have(0.0) health(1.0) care(1.0) .(0.0) And(0.0) so(0.0) we(0.0) 
+have(0.0) to(0.0) just(0.0) stop(0.0) that(0.0) .(0.0) It(0.0) 's(0.0) really(0.0) a(0.0) pretty(0.0) simple(0.0) formula(1.0) .(0.0) I(0.0) think(0.0) the(0.0) American(0.0) people(0.0) really(0.0) 
+get(0.0) that(0.0) .(0.0) I(0.0) think(0.0) the(0.0) American(0.0) people(0.0) understand(0.0) that(0.0) .(0.0) And(0.0) we(0.0) want(0.0) quality(0.0) care(1.0) ,(0.0) and(0.0) we(0.0) want(0.0) 
+to(0.0) lower(0.0) cost(1.0) for(0.0) everyone(0.0) ,(0.0) and(0.0) we(0.0) want(0.0) to(0.0) make(0.0) sure(0.0) that(0.0) we(0.0) engage(0.0) in(0.0) the(0.0) social(0.0) responsibility(0.0) that(0.0) 
+we(0.0) have(0.0) for(0.0) all(0.0) of(0.0) those(0.0) who(0.0) ,(0.0) at(0.0) some(0.0) time(0.0) or(0.0) another(0.0) ,(0.0) might(0.0) find(0.0) themselves(0.0) uninsured(1.0) or(0.0) underinsured(1.0) 
+.(0.0) And(0.0) so(0.0) the(0.0) detractors(1.0) actually(0.0) do(0.0) n't(0.0) have(0.0) anything(0.0) good(0.0) to(0.0) say(0.0) ,(0.0) and(0.0) so(0.0) they(0.0) want(0.0) to(0.0) try(0.0) 
+to(0.0) kill(0.0) our(0.0) opportunity(0.0) ,(0.0) and(0.0) a(0.0) meaningful(0.0) opportunity(0.0) for(0.0) the(0.0) American(0.0) people(0.0) for(0.0) health(1.0) care(1.0) reform(1.0) .(0.0) And(0.0) I(0.0) 
+think(0.0) that(0.0) those(0.0) of(0.0) us(0.0) who(0.0) know(0.0) what(0.0) the(0.0) problem(0.0) is(0.0) ,(0.0) who(0.0) understand(0.0) what(0.0) the(0.0) solution(0.0) is(0.0) ,(0.0) who(0.0) 
+believe(0.0) that(0.0) we(0.0) have(0.0) to(0.0) have(0.0) a(0.0) public(0.0) option(0.0) that(0.0) competes(0.0) with(0.0) the(0.0) private(0.0) insurers(0.0) ,(0.0) we(0.0) know(0.0) that(0.0) that(0.0) 
+kind(0.0) of(0.0) competition(0.0) in(0.0) the(0.0) marketplace(0.0) will(0.0) lower(0.0) cost(1.0) .(0.0) And(0.0) so(0.0) we(0.0) 've(0.0) got(0.0) to(0.0) ,(0.0) you(0.0) know(0.0) ,(0.0) 
+zone(0.0) out(0.0) the(0.0) detractors(1.0) and(0.0) focus(0.0) on(0.0) delivering(0.0) health(1.0) care(1.0) reform(1.0) for(0.0) the(0.0) American(0.0) people(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+rhetoric	
+health	health	care	coverage	
+detractors	vested	
+money	health	care	
+formula	
+care	
+cost	
+uninsured	underinsured	
+detractors	
+health	care	reform	
+
+
+cost	
+detractors	health	care	reform	
+
+reads % = 0.08664259927797834

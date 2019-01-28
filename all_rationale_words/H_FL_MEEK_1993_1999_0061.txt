@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentlewoman(0.0) for(0.0) yielding(0.0) to(0.0) me(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) Dr.(0.0) John(1.0) Lombardi(1.0) represented(1.0) and(0.0) carried(0.0) through(0.0) 
+a(0.0) renaissance(0.0) in(0.0) Florida(0.0) 's(0.0) public(0.0) education(0.0) .(0.0) He(0.0) chartered(0.0) a(0.0) new(0.0) course(0.0) for(0.0) a(0.0) university(0.0) which(0.0) many(0.0) times(0.0) before(0.0) 
+him(0.0) was(0.0) in(0.0) a(0.0) sleepy(0.0) existence(0.0) .(0.0) Dr.(0.0) Lombardi(1.0) came(0.0) along(0.0) ;(0.0) he(0.0) was(0.0) a(0.0) university(0.0) president(0.0) who(0.0) had(0.0) vision(0.0) 
+and(0.0) he(0.0) had(0.0) foresight(0.0) .(0.0) He(0.0) was(0.0) a(0.0) scholar(0.0) ,(0.0) respected(0.0) .(0.0) He(0.0) was(0.0) an(0.0) academic(0.0) ,(0.0) yet(0.0) he(0.0) was(0.0) 
+very(0.0) well-centered(0.0) in(0.0) the(0.0) community(0.0) ,(0.0) as(0.0) well(0.0) as(0.0) the(0.0) students(0.0) .(0.0) He(0.0) pulled(0.0) this(0.0) university(0.0) up(0.0) in(0.0) research(0.0) and(0.0) 
+development(0.0) .(0.0) He(0.0) shaped(0.0) and(0.0) defined(0.0) a(0.0) new(0.0) direction(0.0) for(0.0) the(0.0) university(0.0) .(0.0) I(0.0) had(0.0) quite(0.0) a(0.0) few(0.0) meetings(0.0) with(0.0) 
+President(0.0) Lombardi(1.0) .(0.0) I(0.0) respected(0.0) him(0.0) ,(0.0) as(0.0) I(0.0) was(0.0) a(0.0) member(0.0) of(0.0) the(0.0) Florida(1.0) Senate(0.0) Committee(0.0) on(0.0) High(0.0) Education(0.0) 
+.(0.0) I(0.0) must(0.0) say(0.0) to(0.0) the(0.0) graduates(0.0) and(0.0) the(0.0) students(0.0) of(0.0) the(0.0) University(0.0) of(0.0) Florida(0.0) ,(0.0) John(0.0) Lombardi(1.0) will(0.0) be(0.0) 
+missed(0.0) ;(0.0) and(0.0) to(0.0) that(0.0) entire(0.0) university(0.0) system(0.0) ,(0.0) he(0.0) brought(0.0) them(0.0) into(0.0) the(0.0) 21st(0.0) century(0.0) kicking(0.0) and(0.0) screaming(0.0) .(0.0) 
+We(0.0) are(0.0) hoping(0.0) that(0.0) they(0.0) will(0.0) be(0.0) able(0.0) to(0.0) replace(0.0) him(0.0) .(0.0) But(0.0) I(0.0) say(0.0) ,(0.0) no(0.0) ,(0.0) it(0.0) is(0.0) 
+hard(0.0) to(0.0) replace(0.0) a(0.0) man(0.0) with(0.0) the(0.0) genius(0.0) and(0.0) heart(0.0) of(0.0) a(0.0) John(0.0) Lombardi(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	John	Lombardi	represented	
+
+Lombardi	
+
+
+
+Lombardi	Florida	
+Lombardi	
+
+
+Lombardi	
+
+reads % = 0.041666666666666664

@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) want(0.0) to(0.0) start(0.0) out(0.0) by(0.0) expressing(0.0) my(0.0) deepest(0.0) appreciation(0.0) to(0.0) the(0.0) manager(0.0) of(0.0) this(0.0) bill(1.0) ,(0.0) Representative(1.0) 
+Biggert(1.0) ,(0.0) and(0.0) also(0.0) a(0.0) cosponsor(1.0) of(0.0) this(0.0) legislation(1.0) ,(0.0) in(0.0) addition(0.0) to(0.0) Representative(1.0) Bachus(1.0) and(0.0) Representative(1.0) Waters(1.0) ,(0.0) a(0.0) 
+bipartisan(1.0) initiative(1.0) .(0.0) As(0.0) Mrs.(0.0) Biggert(1.0) has(1.0) indicated(1.0) ,(0.0) this(0.0) study(0.0) was(0.0) originally(0.0) included(0.0) in(0.0) the(0.0) flood(0.0) insurance(0.0) bill(0.0) that(0.0) 
+passed(0.0) the(0.0) House(0.0) but(0.0) was(0.0) later(0.0) dropped(0.0) for(0.0) reasons(0.0) of(0.0) expediency(1.0) .(0.0) It(0.0) was(0.0) not(0.0) controversial(0.0) in(0.0) negotiations(1.0) with(0.0) the(0.0) 
+Senate(0.0) .(0.0) I(0.0) believe(0.0) that(0.0) a(0.0) community-based(1.0) flood(0.0) insurance(0.0) option(0.0) may(0.0) eventually(0.0) provide(0.0) a(0.0) wonderful(0.0) cost-saving(1.0) option(0.0) for(0.0) communities(1.0) within(0.0) 
+the(0.0) framework(0.0) of(0.0) the(0.0) overall(0.0) National(0.0) Flood(1.0) Insurance(0.0) Program(0.0) .(0.0) The(0.0) potential(0.0) for(0.0) savings(1.0) and(0.0) community(0.0) empowerment(1.0) certainly(0.0) merits(0.0) a(0.0) 
+study(0.0) .(0.0) H.R(0.0) .(0.0) 6186(0.0) would(0.0) require(0.0) FEMA(1.0) to(0.0) study(0.0) voluntary(1.0) community-(0.0) based(0.0) flood(0.0) insurance(1.0) options(0.0) and(0.0) examine(0.0) how(0.0) such(0.0) 
+options(0.0) could(0.0) be(0.0) incorporated(0.0) into(0.0) the(0.0) National(0.0) Flood(0.0) Insurance(0.0) Program(0.0) .(0.0) The(0.0) idea(0.0) is(0.0) to(0.0) study(0.0) group(0.0) flood(0.0) insurance(1.0) policies(1.0) 
+for(0.0) a(0.0) National(0.0) Flood(0.0) Insurance(0.0) Program-participating(0.0) community(0.0) or(0.0) a(0.0) FEMA-designated(0.0) flood(0.0) plain(0.0) so(0.0) that(0.0) everyone(0.0) in(0.0) the(0.0) community(0.0) would(0.0) pay(0.0) 
+the(0.0) same(0.0) rate(0.0) .(0.0) Now(0.0) ,(0.0) this(0.0) approach(0.0) has(0.0) merit(0.0) because(0.0) it(0.0) means(0.0) not(0.0) only(0.0) potentially(0.0) lower(0.0) rates(1.0) due(0.0) to(0.0) 
+increased(1.0) participation(1.0) ,(0.0) but(0.0) there(0.0) is(0.0) also(0.0) the(0.0) option(0.0) of(0.0) providing(0.0) lower-income(1.0) households(0.0) with(0.0) access(0.0) to(0.0) vouchers(1.0) to(0.0) purchase(0.0) flood(1.0) 
+insurance(1.0) as(0.0) part(0.0) of(0.0) the(0.0) group(0.0) .(0.0) The(0.0) group(0.0) rating(0.0) ,(0.0) of(0.0) course(0.0) ,(0.0) would(0.0) spread(0.0) the(0.0) risk(0.0) to(0.0) an(0.0) 
+affordable(1.0) extent(0.0) for(0.0) each(0.0) individual(0.0) homeowner(0.0) .(0.0) An(0.0) analogy(1.0) for(0.0) this(0.0) concept(0.0) is(0.0) group(0.0) or(0.0) employee(0.0) health(1.0) insurance(1.0) coverage(0.0) versus(0.0) 
+individual(0.0) coverage(1.0) .(0.0) We(0.0) all(0.0) understand(0.0) that(0.0) group(0.0) coverage(1.0) is(0.0) less(0.0) expensive(0.0) than(0.0) individual(0.0) coverage(1.0) due(0.0) to(0.0) the(0.0) economies(1.0) of(0.0) 
+scale(0.0) of(0.0) streamlined(0.0) underwriting(1.0) .(0.0) The(0.0) difference(0.0) is(0.0) ,(0.0) in(0.0) this(0.0) case(0.0) ,(0.0) a(0.0) community(0.0) ,(0.0) not(0.0) an(0.0) individual(0.0) ,(0.0) 
+would(0.0) be(0.0) the(0.0) policy(1.0) holder(0.0) .(0.0) Now(0.0) ,(0.0) this(0.0) brings(0.0) me(0.0) to(0.0) a(0.0) very(0.0) important(0.0) potential(0.0) benefit(1.0) of(0.0) this(0.0) approach(0.0) 
+:(0.0) increased(1.0) incentives(1.0) for(0.0) communities(1.0) to(0.0) take(0.0) affirmative(1.0) actions(0.0) to(0.0) mitigate(1.0) the(0.0) threat(1.0) from(0.0) floods(1.0) in(0.0) the(0.0) community(0.0) .(0.0) Now(0.0) 
+,(0.0) while(0.0) an(0.0) individual(0.0) flood(1.0) insurance(1.0) holder(0.0) has(0.0) absolutely(0.0) no(0.0) incentive(0.0) or(0.0) means(0.0) to(0.0) ,(0.0) say(0.0) ,(0.0) build(0.0) stronger(0.0) levees(1.0) 
+or(0.0) dikes(1.0) ,(0.0) a(0.0) community(0.0) policyholder(0.0) would(0.0) have(0.0) the(0.0) means(0.0) and(0.0) incentives(1.0) to(0.0) take(0.0) those(0.0) kinds(0.0) of(0.0) precautions(0.0) .(0.0) In(0.0) 
+theory(0.0) ,(0.0) under(0.0) this(0.0) model(0.0) ,(0.0) the(0.0) homeowner(1.0) would(0.0) pay(1.0) insurance(1.0) like(0.0) a(0.0) utility(0.0) bill(0.0) on(0.0) a(0.0) monthly(0.0) or(0.0) quarterly(0.0) 
+basis(0.0) .(0.0) Finally(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) point(0.0) out(0.0) that(0.0) there(0.0) is(0.0) precedent(1.0) for(0.0) this(0.0) idea(0.0) .(0.0) Under(0.0) current(0.0) regulations(1.0) 
+,(0.0) FEMA(1.0) could(0.0) issue(0.0) group(0.0) flood(1.0) insurance(1.0) policies(1.0) .(0.0) The(0.0) program(1.0) was(0.0) limited(0.0) ,(0.0) but(0.0) it(0.0) was(0.0) successful(0.0) .(0.0) This(0.0) 
+bill(1.0) only(0.0) adds(0.0) that(0.0) FEMA(1.0) examine(0.0) the(0.0) cost(1.0) and(0.0) benefits(0.0) of(0.0) using(0.0) this(0.0) approach(0.0) on(0.0) an(0.0) ongoing(0.0) basis(0.0) as(0.0) an(0.0) 
+option(0.0) for(0.0) communities(1.0) .(0.0) I(0.0) urge(0.0) all(0.0) my(0.0) House(0.0) colleagues(0.0) to(0.0) support(0.0) this(0.0) legislation(1.0) ,(0.0) and(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) 
+balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	bill	Representative	
+Biggert	cosponsor	legislation	Representative	Bachus	Representative	Waters	
+bipartisan	initiative	Biggert	has	indicated	
+expediency	negotiations	
+community-based	cost-saving	communities	
+Flood	savings	empowerment	
+FEMA	voluntary	insurance	
+insurance	policies	
+
+rates	
+increased	participation	lower-income	vouchers	flood	
+insurance	
+affordable	analogy	health	insurance	
+coverage	coverage	coverage	economies	
+underwriting	
+policy	benefit	
+increased	incentives	communities	affirmative	mitigate	threat	floods	
+flood	insurance	levees	
+dikes	incentives	
+homeowner	pay	insurance	
+precedent	regulations	
+FEMA	flood	insurance	policies	program	
+bill	FEMA	cost	
+communities	legislation	
+
+
+reads % = 0.15020576131687244

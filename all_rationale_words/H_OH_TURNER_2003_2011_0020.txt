@@ -1,0 +1,22 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Chair(0.0) ,(0.0) I(0.0) would(0.0) like(0.0) to(0.0) point(0.0) out(0.0) again(0.0) that(0.0) these(0.0) are(0.0) arbitrary(1.0) numbers(0.0) .(0.0) Our(0.0) troops(1.0) in(0.0) Europe(0.0) pose(0.0) 
+an(0.0) important(0.0) asset(0.0) for(0.0) all(0.0) of(0.0) our(0.0) operations(0.0) in(0.0) the(0.0) protection(0.0) of(0.0) national(1.0) security(0.0) ,(0.0) including(0.0) ,(0.0) as(0.0) has(0.0) been(0.0) 
+stated(0.0) ,(0.0) training(0.0) troops(0.0) that(0.0) go(0.0) into(0.0) Afghanistan(1.0) and(0.0) Iraq(1.0) .(0.0) This(0.0) amendment(1.0) would(1.0) not(0.0) save(0.0) money(1.0) .(0.0) It(0.0) would(0.0) 
+,(0.0) in(0.0) fact(0.0) ,(0.0) increase(1.0) our(0.0) overall(0.0) cost(1.0) .(0.0) It(0.0) also(0.0) includes(0.0) an(0.0) arbitrary(1.0) reduction(1.0) in(0.0) our(0.0) overall(0.0) end(0.0) strength(0.0) 
+that(0.0) would(0.0) have(0.0) a(0.0) negative(0.0) impact(0.0) on(0.0) our(0.0) national(1.0) security(0.0) .(0.0) The(0.0) Acting(0.0) CHAIR(0.0) .(0.0) The(0.0) question(0.0) is(0.0) on(0.0) the(0.0) 
+amendment(1.0) offered(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) Colorado(0.0) ((0.0) Mr.(0.0) Polis(1.0) )(0.0) .(0.0) The(0.0) question(0.0) was(0.0) taken(0.0) ;(0.0) and(0.0) the(0.0) Acting(0.0) 
+Chair(0.0) announced(0.0) that(0.0) the(0.0) noes(1.0) appeared(0.0) to(0.0) have(0.0) it(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+arbitrary	troops	
+national	
+Afghanistan	Iraq	amendment	would	money	
+increase	cost	arbitrary	reduction	
+national	
+amendment	Polis	
+noes	
+
+reads % = 0.12213740458015267

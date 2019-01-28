@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) for(0.0) 20(0.0) years(0.0) ,(0.0) the(0.0) Honorable(0.0) Jim(0.0) MCCrery(0.0) represented(1.0) Louisiana(1.0) 's(0.0) Fourth(0.0) Congressional(0.0) District(1.0) .(0.0) It(0.0) is(0.0) an(0.0) 
+honor(0.0) to(0.0) directly(0.0) follow(0.0) former(0.0) Congressman(1.0) MCCrery(0.0) and(0.0) represent(0.0) the(0.0) great(0.0) people(0.0) of(0.0) northwest(0.0) Louisiana(1.0) .(0.0) Earlier(0.0) this(0.0) week(0.0) ,(0.0) 
+former(0.0) Congressman(1.0) MCCrery(0.0) 's(0.0) son(0.0) ,(0.0) Scott(0.0) ,(0.0) received(0.0) his(0.0) Eagle(0.0) Scout(0.0) award(0.0) ,(0.0) the(0.0) highest(0.0) award(0.0) given(0.0) in(0.0) scouting(0.0) 
+.(0.0) Scott's(0.0) Eagle(0.0) project(0.0) was(0.0) a(0.0) rather(0.0) ambitious(0.0) undertaking(0.0) .(0.0) He(0.0) organized(0.0) nearly(0.0) 50(0.0) volunteers(0.0) to(0.0) remove(0.0) debris(0.0) from(0.0) the(0.0) 
+historic(0.0) grounds(0.0) of(0.0) Mount(0.0) Vernon(0.0) ,(0.0) home(0.0) of(0.0) George(0.0) Washington(1.0) .(0.0) The(0.0) debris(0.0) covered(0.0) an(0.0) area(0.0) the(0.0) size(0.0) of(0.0) two(0.0) 
+football(0.0) fields(0.0) .(0.0) In(0.0) addition(0.0) to(0.0) being(0.0) an(0.0) eyesore(0.0) ,(0.0) it(0.0) also(0.0) represented(0.0) a(0.0) fire(0.0) hazard(0.0) to(0.0) the(0.0) mansion(0.0) .(0.0) 
+Some(0.0) of(0.0) the(0.0) debris(0.0) Scott(0.0) and(0.0) his(0.0) volunteer(0.0) corps(0.0) gathered(0.0) was(0.0) used(0.0) to(0.0) build(0.0) habitat(0.0) for(0.0) the(0.0) wildlife(0.0) that(0.0) lives(0.0) 
+on(0.0) the(0.0) property(0.0) .(0.0) Scott(0.0) began(0.0) his(0.0) scouting(0.0) journey(0.0) in(0.0) Shreveport(1.0) 10(0.0) years(0.0) ago(0.0) when(0.0) ,(0.0) as(0.0) a(0.0) Tiger(0.0) Cub(0.0) 
+,(0.0) he(0.0) joined(0.0) the(0.0) Cub(0.0) Scout(0.0) pack(0.0) at(0.0) South(0.0) Highlands(0.0) Elementary(0.0) School(0.0) .(0.0) I(0.0) congratulate(0.0) Scott(1.0) MCCrery(0.0) on(0.0) this(0.0) prestigious(0.0) 
+award(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+represented	Louisiana	District	
+Congressman	Louisiana	
+Congressman	
+
+Washington	
+
+
+Shreveport	
+Scott	
+
+
+reads % = 0.04918032786885246

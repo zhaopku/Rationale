@@ -1,0 +1,22 @@
+This is from a Republican
+----- below is the original text -----
+Generally(0.0) ,(0.0) we(0.0) say(0.0) ,(0.0) ``(0.0) Let(0.0) Hyde(0.0) be(0.0) your(0.0) guide(0.0) .(0.0) ''(0.0) The(0.0) United(0.0) Nations(0.0) votes(0.0) against(0.0) the(0.0) United(0.0) States(0.0) 
+at(0.0) least(0.0) 90(0.0) percent(0.0) of(0.0) the(0.0) time(0.0) ,(0.0) even(0.0) though(0.0) we(0.0) pay(1.0) the(0.0) lion(0.0) 's(0.0) share(0.0) of(0.0) funding(1.0) for(0.0) the(0.0) 
+United(0.0) Nations(0.0) .(0.0) On(0.0) many(0.0) of(0.0) the(0.0) key(0.0) votes(0.0) ,(0.0) we(0.0) are(0.0) vetoed(1.0) out(0.0) of(0.0) the(0.0) process(0.0) .(0.0) I(0.0) do(0.0) 
+not(0.0) think(0.0) any(0.0) of(0.0) us(0.0) wants(1.0) our(0.0) men(0.0) and(0.0) women(0.0) that(0.0) we(0.0) ask(0.0) to(0.0) go(0.0) in(0.0) harm(1.0) 's(0.0) way(0.0) in(0.0) 
+our(0.0) military(1.0) ,(0.0) or(0.0) our(0.0) intelligence(0.0) agencies(1.0) and(0.0) their(0.0) members(0.0) ,(0.0) to(0.0) be(0.0) tried(0.0) in(0.0) a(0.0) kangaroo(0.0) court(0.0) without(0.0) the(0.0) 
+proper(0.0) jurisdiction(0.0) .(0.0) I(0.0) rise(0.0) in(0.0) strong(0.0) support(0.0) of(0.0) the(0.0) Hyde(1.0) amendment(1.0) .(0.0) I(0.0) think(0.0) it(0.0) is(0.0) a(0.0) good(0.0) amendment(1.0) 
+and(0.0) it(0.0) is(0.0) good(0.0) for(0.0) our(0.0) men(0.0) and(0.0) women(0.0) both(0.0) in(0.0) the(0.0) service(0.0) and(0.0) in(0.0) our(0.0) intelligence(0.0) agencies(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+pay	funding	
+vetoed	
+wants	harm	
+military	agencies	
+Hyde	amendment	amendment	
+
+
+reads % = 0.07142857142857142

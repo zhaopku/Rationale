@@ -1,0 +1,38 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) first(0.0) of(0.0) all(0.0) ,(0.0) I(0.0) would(0.0) like(0.0) to(0.0) say(0.0) that(0.0) regardless(0.0) of(0.0) what(0.0) your(0.0) position(0.0) is(0.0) on(0.0) this(0.0) issue(0.0) 
+,(0.0) whether(0.0) political(1.0) or(0.0) personal(0.0) belief(0.0) ,(0.0) it(0.0) is(0.0) a(0.0) legitimate(0.0) issue(0.0) ,(0.0) the(0.0) death(1.0) penalty(1.0) .(0.0) For(0.0) 40(0.0) years(0.0) 
+we(0.0) have(0.0) not(0.0) been(0.0) able(0.0) ,(0.0) as(0.0) the(0.0) gentleman(0.0) said(0.0) ,(0.0) to(0.0) have(0.0) habeas(1.0) corpus(1.0) or(0.0) death(0.0) penalty(1.0) reform(1.0) .(0.0) 
+There(0.0) is(0.0) a(0.0) new(0.0) majority(1.0) that(0.0) represents(0.0) the(0.0) majority(1.0) of(0.0) people(0.0) that(0.0) feel(0.0) that(0.0) there(0.0) should(0.0) be(0.0) some(0.0) reform(1.0) .(0.0) 
+Let(0.0) me(0.0) explain(0.0) ,(0.0) the(0.0) gentleman(0.0) mentioned(0.0) the(0.0) frivolous(1.0) cases(0.0) .(0.0) We(0.0) just(0.0) had(0.0) a(0.0) gentleman(0.0) in(0.0) California(1.0) to(0.0) kill(0.0) 
+14(0.0) kids(0.0) ,(0.0) we(0.0) just(0.0) executed(0.0) .(0.0) That(0.0) is(0.0) one(0.0) case(0.0) .(0.0) We(0.0) have(0.0) another(0.0) one(0.0) which(0.0) the(0.0) gentleman(0.0) knows(0.0) 
+about(0.0) ,(0.0) Alton(0.0) Harris(1.0) .(0.0) This(0.0) is(0.0) a(0.0) confessed(0.0) killer(0.0) in(0.0) my(0.0) district(0.0) .(0.0) He(0.0) went(0.0) out(0.0) and(0.0) killed(0.0) two(0.0) 
+young(0.0) boys(0.0) ,(0.0) after(0.0) eating(0.0) their(0.0) hamburgers(0.0) and(0.0) taunting(0.0) the(0.0) second(0.0) one(0.0) ,(0.0) and(0.0) then(0.0) killed(0.0) him(0.0) .(0.0) Yet(0.0) ,(0.0) 
+even(0.0) an(0.0) admitted(0.0) killer(0.0) took(0.0) 14(0.0) years(0.0) to(0.0) execute(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) the(0.0) gentleman(0.0) talks(0.0) about(0.0) we(0.0) are(0.0) building(0.0) 
+more(0.0) prisons(1.0) than(0.0) we(0.0) are(0.0) facilities(0.0) for(0.0) education(1.0) .(0.0) Let(0.0) us(0.0) press(0.0) on(0.0) with(0.0) it(0.0) .(0.0) let(0.0) us(0.0) take(0.0) care(1.0) 
+of(0.0) the(0.0) people(0.0) that(0.0) are(0.0) the(0.0) criminals(1.0) ,(0.0) and(0.0) have(0.0) justice(1.0) be(0.0) done(0.0) .(0.0) Think(0.0) about(0.0) the(0.0) injustice(1.0) to(0.0) the(0.0) 
+families(0.0) that(0.0) have(0.0) to(0.0) suffer(0.0) all(0.0) the(0.0) way(0.0) through(0.0) this(0.0) ,(0.0) for(0.0) the(0.0) period(0.0) of(0.0) time(0.0) .(0.0) Again(0.0) ,(0.0) I(0.0) 
+would(0.0) say(0.0) to(0.0) the(0.0) gentleman(0.0) ,(0.0) he(0.0) speaks(0.0) of(0.0) a(0.0) legitimate(0.0) issue(0.0) and(0.0) what(0.0) he(0.0) believes(0.0) in(0.0) ,(0.0) but(0.0) we(0.0) 
+need(0.0) to(0.0) press(0.0) on(0.0) with(0.0) this(0.0) .(0.0) The(0.0) American(0.0) people(0.0) support(0.0) it(0.0) .(0.0) I(0.0) ask(0.0) Members(0.0) to(0.0) support(0.0) the(0.0) position(0.0) 
+of(0.0) the(0.0) gentleman(0.0) from(0.0) Illinois(1.0) [(0.0) Mr.(0.0) Hyde(1.0) ](0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+political	death	penalty	
+habeas	corpus	penalty	reform	
+majority	majority	reform	
+frivolous	California	
+
+Harris	
+
+Chairman	
+prisons	education	care	
+criminals	justice	injustice	
+
+
+
+Illinois	Hyde	
+
+reads % = 0.07560137457044673

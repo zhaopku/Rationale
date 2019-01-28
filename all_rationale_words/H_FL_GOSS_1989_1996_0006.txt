@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) am(0.0) happy(0.0) to(0.0) yield(0.0) 1(0.0) minute(0.0) to(0.0) the(0.0) distinguished(0.0) gentleman(0.0) from(0.0) the(0.0) home(0.0) of(0.0) the(0.0) Independence(1.0) Bowl(0.0) ,(0.0) 
+Shreveport(1.0) ,(0.0) LA(1.0) [(0.0) Mr.(0.0) MCCrery(1.0) ](0.0) ,(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Ways(0.0) and(0.0) Means(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Independence	
+Shreveport	LA	MCCrery	
+
+reads % = 0.10810810810810811

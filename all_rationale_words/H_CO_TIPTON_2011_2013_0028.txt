@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) the(0.0) Affordable(1.0) Care(0.0) Act(0.0) missed(0.0) on(0.0) its(0.0) primary(0.0) goal(1.0) ,(0.0) addressing(1.0) affordability(1.0) and(0.0) accessibility(0.0) for(0.0) the(0.0) American(0.0) people(0.0) 
+.(0.0) Probably(1.0) no(0.0) one(0.0) said(1.0) it(0.0) better(0.0) than(0.0) the(0.0) AFL-CIO(1.0) just(0.0) a(0.0) few(0.0) weeks(1.0) ago(0.0) ,(0.0) saying(0.0) that(0.0) the(0.0) Affordable(1.0) 
+Care(0.0) Act(0.0) will(0.0) lead(0.0) to(0.0) the(0.0) destruction(1.0) of(0.0) the(0.0) 40-hour(1.0) work(0.0) week(1.0) ,(0.0) and(0.0) will(0.0) devastate(1.0) the(0.0) health(1.0) and(0.0) well-being(0.0) 
+of(0.0) their(0.0) members(1.0) .(0.0) There(0.0) was(0.0) a(0.0) time(0.0) in(0.0) America(0.0) when(0.0) we(0.0) worked(0.0) to(0.0) be(0.0) able(0.0) to(0.0) get(0.0) a(0.0) 40-(1.0) 
+hour(0.0) work(0.0) week(1.0) .(0.0) Now(0.0) ,(0.0) Americans(0.0) just(1.0) want(1.0) to(0.0) have(0.0) a(0.0) 40-hour(0.0) work(0.0) week(1.0) .(0.0) We(0.0) know(0.0) there(0.0) is(0.0) 
+a(0.0) problem(0.0) with(0.0) the(0.0) health(1.0) care(0.0) law(1.0) when(0.0) we(0.0) 're(0.0) seeing(0.0) fewer(0.0) doctors(0.0) ,(0.0) fewer(1.0) nurses(0.0) ,(0.0) fewer(1.0) hospital(1.0) beds(0.0) 
+,(0.0) but(0.0) yet(1.0) we(0.0) have(0.0) the(0.0) room(1.0) to(0.0) be(0.0) able(0.0) to(0.0) create(0.0) more(0.0) IRS(1.0) enforcers(1.0) .(0.0) This(0.0) is(0.0) legislation(0.0) that(0.0) 
+we(0.0) 're(0.0) reaching(0.0) out(0.0) to(0.0) the(0.0) administration(0.0) to(0.0) be(0.0) able(0.0) to(0.0) work(0.0) on(0.0) .(0.0) To(1.0) be(0.0) able(0.0) to(0.0) create(0.0) affordability(1.0) 
+and(0.0) accessibility(0.0) ,(0.0) we(0.0) must(0.0) defund(1.0) and(0.0) replace(1.0) this(0.0) broken(1.0) piece(0.0) of(0.0) legislation(0.0) on(0.0) behalf(0.0) of(0.0) the(0.0) American(0.0) people(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+Speaker	Affordable	goal	addressing	affordability	
+Probably	said	AFL-CIO	weeks	Affordable	
+destruction	40-hour	week	devastate	health	
+members	40-	
+week	just	want	week	
+health	law	fewer	fewer	hospital	
+yet	room	IRS	enforcers	
+To	affordability	
+defund	replace	broken	
+
+
+reads % = 0.19337016574585636

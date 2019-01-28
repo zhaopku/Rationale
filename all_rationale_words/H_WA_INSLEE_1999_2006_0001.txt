@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) we(0.0) have(0.0) another(0.0) concern(0.0) today(0.0) arising(0.0) about(0.0) the(0.0) administration(1.0) 's(0.0) potential(0.0) abuse(1.0) of(0.0) the(0.0) scientific(0.0) process(0.0) in(0.0) making(0.0) policy(1.0) 
+.(0.0) Today(0.0) ,(0.0) the(0.0) Associated(1.0) Press(0.0) reported(0.0) that(0.0) the(0.0) Bureau(0.0) of(0.0) Land(0.0) Management(0.0) under(0.0) this(0.0) administration(0.0) has(0.0) suspended(0.0) funding(0.0) for(0.0) 
+the(0.0) final(0.0) year(0.0) of(0.0) a(0.0) study(0.0) from(0.0) Oregon(1.0) State(0.0) University(0.0) on(0.0) the(0.0) impact(0.0) of(0.0) logging(0.0) in(0.0) national(1.0) forests(0.0) burned(0.0) by(0.0) 
+wildfires(1.0) .(0.0) Findings(0.0) of(0.0) these(0.0) studies(0.0) were(0.0) published(0.0) last(0.0) month(0.0) in(0.0) the(0.0) magazine(0.0) Science(0.0) ,(0.0) and(0.0) they(0.0) suggested(0.0) that(0.0) the(0.0) 
+administration(1.0) 's(0.0) stance(1.0) on(0.0) salvage(1.0) logging(0.0) runs(0.0) counter(0.0) to(0.0) the(0.0) real(0.0) goals(0.0) regarding(0.0) forest(0.0) regeneration(1.0) and(0.0) fire(0.0) prevention(1.0) .(0.0) I(0.0) 
+am(0.0) concerned(0.0) in(0.0) this(0.0) case(0.0) that(0.0) we(0.0) have(0.0) seen(0.0) yet(0.0) another(0.0) situation(0.0) where(0.0) funding(1.0) may(0.0) have(0.0) been(0.0) frozen(0.0) to(0.0) punish(1.0) 
+scientific(0.0) results(0.0) legitimately(0.0) conducted(0.0) at(0.0) Oregon(1.0) State(0.0) University(0.0) ,(0.0) and(0.0) that(0.0) is(0.0) why(0.0) I(0.0) have(0.0) called(0.0) on(0.0) the(0.0) Interior(0.0) Department(0.0) 
+'s(0.0) inspector(0.0) general(0.0) today(0.0) to(0.0) investigate(0.0) whether(0.0) or(0.0) not(0.0) this(0.0) in(0.0) fact(0.0) has(0.0) occurred(0.0) .(0.0) Did(0.0) Daniel(0.0) Donato(1.0) and(0.0) his(0.0) 
+research(0.0) team(0.0) from(0.0) OSU(1.0) lose(0.0) funding(1.0) because(0.0) of(0.0) this(0.0) cause(0.0) ?(0.0) Is(0.0) this(0.0) another(0.0) punishment(1.0) situation(0.0) ?(0.0) We(0.0) need(0.0) to(0.0) 
+find(0.0) out(0.0) .(0.0) We(0.0) have(0.0) got(0.0) to(0.0) respect(0.0) science(0.0) and(0.0) use(0.0) it(0.0) accordingly(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+administration	abuse	policy	
+Associated	
+Oregon	national	
+wildfires	
+administration	stance	salvage	regeneration	prevention	
+funding	punish	
+Oregon	
+Donato	
+OSU	funding	punishment	
+
+
+reads % = 0.09743589743589744

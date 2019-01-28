@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) distinguished(0.0) ranking(0.0) member(0.0) of(0.0) the(0.0) subcommittee(0.0) and(0.0) the(0.0) full(0.0) committee(0.0) for(0.0) the(0.0) work(0.0) they(0.0) have(0.0) done(0.0) 
+on(0.0) this(0.0) bill(0.0) .(0.0) We(0.0) stand(0.0) ready(0.0) to(0.0) pass(0.0) this(0.0) appropriation(1.0) bill(1.0) that(1.0) contains(0.0) an(0.0) egregious(1.0) error(1.0) that(0.0) not(0.0) only(0.0) 
+runs(0.0) counter(0.0) to(0.0) a(0.0) majority(0.0) in(0.0) this(0.0) Congress(0.0) ,(0.0) but(0.0) it(0.0) runs(0.0) counter(0.0) to(0.0) the(0.0) views(0.0) of(0.0) the(0.0) Attorney(1.0) General(0.0) 
+.(0.0) The(0.0) Attorney(1.0) General(0.0) ,(0.0) when(0.0) asked(0.0) about(0.0) the(0.0) COPS(1.0) program(0.0) during(0.0) his(0.0) confirmation(0.0) hearing(0.0) ,(0.0) said(0.0) ,(0.0) ``(0.0) Let(0.0) 
+me(0.0) say(0.0) that(0.0) I(0.0) think(0.0) the(0.0) COPS(1.0) program(0.0) has(0.0) been(0.0) successful(0.0) .(0.0) The(0.0) purpose(0.0) of(0.0) the(0.0) COPS(1.0) program(0.0) was(0.0) to(0.0) 
+demonstrate(0.0) to(0.0) local(0.0) police(0.0) departments(0.0) that(0.0) if(0.0) you(0.0) put(0.0) additional(0.0) people(0.0) ,(0.0) feet(0.0) on(0.0) the(0.0) street(0.0) ,(0.0) that(0.0) crime(1.0) will(0.0) 
+be(0.0) affected(0.0) and(0.0) that(0.0) people(0.0) will(0.0) be(0.0) safer(0.0) and(0.0) more(0.0) secure(0.0) .(0.0) We(0.0) believe(0.0) that(0.0) the(0.0) COPS(1.0) program(0.0) demonstrated(0.0) that(0.0) 
+conclusively(0.0) .(0.0) ''(0.0) That(0.0) was(0.0) June(0.0) 5(0.0) ,(0.0) 2003(0.0) ,(0.0) not(0.0) at(0.0) his(0.0) confirmation(0.0) hearing(0.0) .(0.0) Well(0.0) ,(0.0) in(0.0) addition(0.0) 
+to(0.0) Mr.(0.0) Ashcroft(1.0) ,(0.0) 224(0.0) Members(0.0) of(0.0) this(0.0) body(0.0) have(0.0) signed(0.0) on(0.0) to(0.0) legislation(0.0) that(0.0) I(0.0) and(0.0) others(0.0) are(0.0) cosponsoring(1.0) 
+to(0.0) reauthorize(1.0) the(0.0) COPS(1.0) program(1.0) .(0.0) The(0.0) COPS(1.0) program(1.0) ,(0.0) quite(0.0) literally(0.0) ,(0.0) gets(0.0) the(0.0) Federal(1.0) Government(1.0) off(0.0) the(0.0) sidelines(0.0) 
+in(0.0) the(0.0) war(1.0) against(0.0) crime(1.0) ,(0.0) the(0.0) war(1.0) against(0.0) terrorism(1.0) ,(0.0) and(0.0) hires(1.0) police(0.0) officers(0.0) in(0.0) all(0.0) our(0.0) communities(1.0) .(0.0) 
+This(0.0) bill(1.0) that(0.0) we(0.0) are(0.0) about(0.0) to(0.0) pass(0.0) contains(0.0) zero(1.0) money(1.0) ,(0.0) zero(1.0) dollars(1.0) and(0.0) zero(0.0) cents(0.0) ,(0.0) for(0.0) the(0.0) 
+most(0.0) important(0.0) component(0.0) ,(0.0) which(0.0) is(0.0) the(0.0) hiring(1.0) component(0.0) .(0.0) There(0.0) are(0.0) a(0.0) few(0.0) dollars(0.0) to(0.0) keep(0.0) the(0.0) COPS(1.0) office(0.0) 
+up(0.0) and(0.0) running(0.0) to(0.0) administer(0.0) the(0.0) last(0.0) remaining(0.0) contracts(1.0) that(0.0) are(0.0) out(0.0) there(0.0) ,(0.0) but(0.0) let(0.0) us(0.0) keep(0.0) in(0.0) mind(0.0) 
+what(0.0) it(0.0) is(0.0) that(0.0) the(0.0) program(1.0) has(0.0) already(0.0) accomplished(0.0) :(0.0) 110,000(0.0) cops(1.0) are(0.0) on(0.0) the(0.0) beat(0.0) in(0.0) more(0.0) than(0.0) 12,000(0.0) 
+communities(1.0) .(0.0) And(0.0) this(0.0) is(0.0) the(0.0) most(0.0) democratic(1.0) ,(0.0) with(0.0) a(0.0) small(0.0) ``(0.0) d(0.0) ''(0.0) ,(0.0) of(0.0) programs(1.0) in(0.0) that(0.0) 
+it(0.0) is(0.0) spread(0.0) almost(0.0) equally(0.0) throughout(0.0) the(0.0) country(1.0) .(0.0) More(0.0) than(0.0) 82(0.0) percent(0.0) of(0.0) the(0.0) grants(1.0) under(0.0) the(0.0) COPS(1.0) program(0.0) 
+have(0.0) gone(0.0) to(0.0) departments(0.0) serving(0.0) populations(1.0) of(0.0) 50,000(0.0) persons(0.0) or(0.0) less(0.0) .(0.0) Three(0.0) hundred(0.0) communities(1.0) around(0.0) this(0.0) country(1.0) now(0.0) have(0.0) 
+police(0.0) departments(0.0) that(0.0) did(0.0) not(0.0) even(0.0) have(0.0) them(0.0) until(0.0) the(0.0) COPS(1.0) program(0.0) was(0.0) put(0.0) into(0.0) place(0.0) .(0.0) Well(0.0) ,(0.0) not(0.0) 
+only(0.0) do(0.0) those(0.0) of(0.0) us(0.0) in(0.0) Congress(1.0) believe(0.0) in(0.0) this(0.0) program(1.0) ,(0.0) at(0.0) least(0.0) those(0.0) 224(0.0) of(0.0) us(0.0) who(0.0) have(0.0) 
+cosponsored(1.0) the(0.0) reauthorization(1.0) of(0.0) the(0.0) COPS(1.0) program(0.0) ,(0.0) but(0.0) the(0.0) Fraternal(1.0) Order(0.0) of(0.0) Police(0.0) ,(0.0) the(0.0) International(0.0) Association(0.0) of(0.0) Police(0.0) 
+Chiefs(0.0) ,(0.0) the(0.0) International(0.0) Brotherhood(0.0) of(0.0) Police(0.0) Officers(0.0) ,(0.0) the(0.0) National(0.0) Association(0.0) of(0.0) Police(0.0) Organizations(0.0) ,(0.0) the(0.0) National(0.0) Sheriffs(0.0) Association(0.0) 
+and(0.0) on(0.0) and(0.0) on(0.0) .(0.0) This(0.0) is(0.0) our(0.0) opportunity(0.0) to(0.0) fund(0.0) that(0.0) program(0.0) .(0.0) This(0.0) is(0.0) our(0.0) chance(0.0) to(0.0) say(0.0) 
+that(0.0) in(0.0) addition(0.0) to(0.0) supporting(0.0) it(0.0) and(0.0) cosponsoring(1.0) the(0.0) legislation(1.0) ,(0.0) we(0.0) also(0.0) want(0.0) to(0.0) provide(0.0) the(0.0) funding(1.0) for(0.0) it(0.0) 
+.(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) have(0.0) the(0.0) strange(0.0) suspicion(0.0) that(0.0) despite(0.0) the(0.0) great(0.0) success(0.0) of(0.0) this(0.0) program(1.0) ,(0.0) despite(0.0) 
+
+
+----- below are rationale words -----
+
+
+appropriation	bill	that	egregious	error	
+Attorney	
+Attorney	COPS	
+COPS	COPS	
+crime	
+COPS	
+
+Ashcroft	cosponsoring	
+reauthorize	COPS	program	COPS	program	Federal	Government	
+war	crime	war	terrorism	hires	communities	
+bill	zero	money	zero	dollars	
+hiring	COPS	
+contracts	
+program	cops	
+communities	democratic	programs	
+country	grants	COPS	
+populations	communities	country	
+COPS	
+Congress	program	
+cosponsored	reauthorization	COPS	Fraternal	
+
+
+cosponsoring	legislation	funding	
+Chairman	program	
+
+reads % = 0.116

@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) would(0.0) like(0.0) to(0.0) commend(0.0) my(0.0) colleague(0.0) from(0.0) Connecticut(1.0) for(0.0) bringing(0.0) this(0.0) motion(1.0) to(0.0) instruct(0.0) conferees(0.0) .(0.0) I(0.0) speak(0.0) 
+as(0.0) a(0.0) new(0.0) Member(0.0) of(0.0) the(0.0) House(0.0) of(0.0) Representatives(0.0) .(0.0) I(0.0) know(0.0) that(0.0) all(0.0) of(0.0) us(0.0) take(0.0) the(0.0) oath(1.0) of(0.0) 
+office(0.0) to(0.0) represent(0.0) and(0.0) do(0.0) our(0.0) due(0.0) diligence(0.0) of(0.0) representing(0.0) our(0.0) districts(1.0) .(0.0) Yet(0.0) the(0.0) Republican(1.0) tax(1.0) plans(1.0) to(1.0) me(1.0) 
+are(1.0) devastating(1.0) to(1.0) people(1.0) working(1.0) in(1.0) my(0.0) district(0.0) .(0.0) Every(0.0) city(1.0) in(0.0) my(0.0) district(0.0) in(0.0) California(1.0) ,(0.0) every(0.0) city(1.0) has(0.0) 
+lost(0.0) jobs(0.0) since(0.0) President(0.0) Bush(1.0) took(0.0) office(0.0) .(0.0) Believe(0.0) it(0.0) or(0.0) not(0.0) ,(0.0) the(0.0) number(0.0) of(0.0) unemployed(1.0) has(0.0) increased(0.0) more(0.0) 
+than(0.0) 30(0.0) percent(0.0) in(0.0) 2(0.0) years(0.0) in(0.0) most(0.0) of(0.0) my(0.0) cities(1.0) ;(0.0) and(0.0) in(0.0) one(0.0) city(0.0) alone(0.0) ,(0.0) the(0.0) city(1.0) 
+of(0.0) South(1.0) El(0.0) Monte(0.0) ,(0.0) the(0.0) unemployment(1.0) rate(1.0) is(0.0) 10.8(0.0) percent(0.0) .(0.0) It(0.0) started(0.0) out(0.0) 2(0.0) years(0.0) ago(0.0) at(0.0) about(0.0) 
+9(0.0) .(0.0) Now(0.0) it(0.0) is(0.0) at(0.0) 10.8(0.0) .(0.0) And(0.0) the(0.0) Republicans(1.0) call(1.0) cutting(1.0) taxes(1.0) for(1.0) rich(1.0) trickle-down(1.0) economics(1.0) ?(1.0) The(1.0) 
+only(1.0) thing(1.0) trickling(1.0) down(1.0) to(1.0) my(1.0) community(1.0) is(1.0) a(1.0) headache(1.0) and(1.0) budget(1.0) cuts(1.0) .(1.0) The(1.0) $(1.0) 450(1.0) billion(1.0) deficit(1.0) that(1.0) 
+has(1.0) accumulated(1.0) since(1.0) the(1.0) President(1.0) took(0.0) office(0.0) is(1.0) trickling(1.0) down(0.0) to(0.0) States(0.0) and(0.0) communities(1.0) like(0.0) mine(0.0) ,(0.0) and(0.0) it(0.0) all(0.0) 
+adds(0.0) up(0.0) to(0.0) a(0.0) lot(0.0) of(0.0) bad(0.0) news(0.0) for(0.0) working(0.0) class(0.0) people(0.0) .(0.0) Local(0.0) taxes(1.0) have(0.0) increased(0.0) ,(0.0) job(0.0) losses(1.0) 
+,(0.0) cuts(1.0) to(0.0) school(1.0) budgets(1.0) ,(0.0) cuts(1.0) in(0.0) health(1.0) and(0.0) first(0.0) responder(1.0) services(0.0) and(0.0) an(0.0) inability(1.0) to(0.0) deal(0.0) with(0.0) our(0.0) 
+environmental(1.0) issues(0.0) and(0.0) problems(0.0) like(0.0) the(0.0) quality(0.0) of(0.0) air(0.0) and(0.0) water(1.0) .(0.0) The(0.0) burden(1.0) of(0.0) these(0.0) cuts(1.0) are(0.0) hitting(0.0) hard(0.0) 
+working-class(1.0) families(1.0) like(0.0) those(0.0) in(0.0) my(0.0) district(0.0) ,(0.0) and(0.0) it(0.0) is(0.0) shameful(1.0) that(0.0) the(0.0) main(0.0) beneficiaries(1.0) of(0.0) the(0.0) Republican(1.0) tax(1.0) 
+cuts(1.0) are(1.0) the(1.0) millionaire(1.0) friends(1.0) of(1.0) the(1.0) folks(1.0) on(1.0) that(1.0) aisle(1.0) .(1.0) Republicans(1.0) found(1.0) $(1.0) 90(1.0) billion(1.0) to(1.0) give(1.0) to(1.0) 
+200,000(1.0) millionaire(1.0) families(1.0) .(1.0) They(1.0) got(0.0) $(0.0) 93,500(0.0) in(0.0) tax(1.0) breaks(1.0) .(1.0) Yet(1.0) 47(1.0) percent(1.0) of(1.0) Californians(1.0) ,(1.0) that(1.0) is(1.0) 
+almost(0.0) half(0.0) ,(0.0) will(0.0) get(0.0) a(0.0) total(0.0) cut(1.0) of(0.0) less(0.0) than(0.0) $(0.0) 100(0.0) ;(0.0) and(0.0) 28(0.0) percent(0.0) in(0.0) California(1.0) will(0.0) 
+get(0.0) absolutely(0.0) nothing(0.0) .(0.0) Nada(0.0) .(0.0) Tax(1.0) breaks(1.0) for(1.0) millionaires(1.0) will(1.0) not(1.0) make(1.0) it(1.0) in(0.0) my(0.0) district(0.0) because(0.0) I(0.0) do(0.0) 
+not(0.0) even(0.0) have(0.0) a(0.0) millionaire(0.0) that(0.0) lives(0.0) in(0.0) my(0.0) district(0.0) .(0.0) They(0.0) all(0.0) make(0.0) below(0.0) $(0.0) 200,000(0.0) a(0.0) year(0.0) .(0.0) 
+To(0.0) add(0.0) insult(0.0) to(0.0) injury(0.0) ,(0.0) the(0.0) last-minute(1.0) changes(0.0) made(0.0) by(0.0) the(0.0) Republicans(1.0) will(1.0) also(1.0) prevent(1.0) families(1.0) in(1.0) the(1.0) area(1.0) 
+of(1.0) $(1.0) 10,500(1.0) to(1.0) $(1.0) 26,625(1.0) who(1.0) have(1.0) 11.9(1.0) million(1.0) children(1.0) from(1.0) receiving(1.0) child(1.0) tax(1.0) credits(1.0) .(1.0) Democrats(1.0) did(1.0) offer(0.0) 
+an(0.0) economic(1.0) stimulus(1.0) plan(1.0) with(0.0) an(0.0) immediate(0.0) increase(1.0) in(0.0) the(0.0) child(0.0) tax(1.0) credit(1.0) ,(0.0) marriage(1.0) penalty(1.0) relief(1.0) for(0.0) all(0.0) ,(0.0) 
+and(0.0) the(0.0) expansion(1.0) of(0.0) the(0.0) 10(0.0) percent(0.0) tax(1.0) bracket(1.0) .(0.0) Democrats(0.0) tried(0.0) to(0.0) put(0.0) money(1.0) in(0.0) the(0.0) pockets(1.0) of(0.0) people(0.0) 
+who(0.0) earn(0.0) it(0.0) ;(0.0) and(0.0) ,(0.0) as(0.0) usual(0.0) ,(0.0) we(0.0) were(0.0) stifled(1.0) .(0.0) We(0.0) demand(1.0) to(0.0) see(0.0) this(0.0) restored(0.0) tax(1.0) 
+credit(1.0) for(0.0) our(0.0) families(1.0) ,(0.0) and(0.0) I(0.0) would(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) this(0.0) motion(1.0) to(0.0) instruct(0.0) conferees(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Connecticut	motion	
+oath	
+districts	Republican	tax	plans	to	me	
+are	devastating	to	people	working	in	city	California	city	
+Bush	unemployed	
+cities	city	
+South	unemployment	rate	
+Republicans	call	cutting	taxes	for	rich	trickle-down	economics	?	The	
+only	thing	trickling	down	to	my	community	is	a	headache	and	budget	cuts	.	The	$	450	billion	deficit	that	
+has	accumulated	since	the	President	is	trickling	communities	
+taxes	losses	
+cuts	school	budgets	cuts	health	responder	inability	
+environmental	water	burden	cuts	
+working-class	families	shameful	beneficiaries	Republican	tax	
+cuts	are	the	millionaire	friends	of	the	folks	on	that	aisle	.	Republicans	found	$	90	billion	to	give	to	
+200,000	millionaire	families	.	They	tax	breaks	.	Yet	47	percent	of	Californians	,	that	is	
+cut	California	
+Tax	breaks	for	millionaires	will	not	make	it	
+
+last-minute	Republicans	will	also	prevent	families	in	the	area	
+of	$	10,500	to	$	26,625	who	have	11.9	million	children	from	receiving	child	tax	credits	.	Democrats	did	
+economic	stimulus	plan	increase	tax	credit	marriage	penalty	relief	
+expansion	tax	bracket	money	pockets	
+stifled	demand	tax	
+credit	families	motion	
+
+reads % = 0.352

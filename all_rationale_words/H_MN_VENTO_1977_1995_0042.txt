@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) appreciate(0.0) the(0.0) gentleman(0.0) 's(0.0) comments(0.0) and(0.0) concerns(0.0) .(0.0) I(0.0) think(0.0) common(0.0) sense(0.0) dictates(0.0) this(0.0) amendment(1.0) would(0.0) be(0.0) 
+adopted(0.0) .(0.0) You(0.0) have(0.0) not(0.0) answered(0.0) the(0.0) questions(0.0) with(0.0) regard(0.0) to(0.0) differentials(1.0) ;(0.0) the(0.0) regulators(1.0) themselves(0.0) are(0.0) telling(0.0) you(0.0) that(0.0) 
+they(0.0) need(0.0) this(0.0) for(0.0) the(0.0) safety(0.0) and(0.0) soundness(1.0) of(0.0) the(0.0) financial(0.0) institutions(0.0) of(0.0) this(0.0) country(1.0) ,(0.0) for(0.0) the(0.0) deposit(0.0) funds(1.0) 
+.(0.0) To(0.0) issue(0.0) requirements(0.0) or(0.0) rules(0.0) on(0.0) accounting(0.0) standards(0.0) ,(0.0) on(0.0) safety(0.0) and(0.0) soundness(1.0) with(0.0) regard(0.0) to(0.0) capital(1.0) standards(0.0) and(0.0) 
+derivatives(1.0) .(0.0) How(0.0) in(0.0) all(0.0) good(0.0) conscience(1.0) can(0.0) this(0.0) House(0.0) disregard(1.0) these(0.0) particular(0.0) concerns(1.0) ?(0.0) I(0.0) would(0.0) think(0.0) that(0.0) no(0.0) 
+matter(0.0) the(0.0) ideology(1.0) and(0.0) concerns(0.0) about(0.0) unfunded(1.0) mandates(1.0) ,(0.0) these(0.0) regulators(1.0) said(1.0) ,(0.0) ``(0.0) We(0.0) need(0.0) these(0.0) tools(0.0) ,(0.0) and(0.0) 
+we(0.0) will(0.0) operate(0.0) with(0.0) them(0.0) .(0.0) ''(0.0) I(0.0) can(0.0) assure(0.0) you(0.0) because(0.0) oversight(1.0) would(0.0) occur(0.0) ,(0.0) how(0.0) can(0.0) you(0.0) differentiate(0.0) 
+between(0.0) leaving(0.0) some(0.0) agencies(1.0) in(0.0) and(0.0) out(0.0) because(0.0) of(0.0) the(0.0) way(0.0) they(0.0) are(0.0) organized(0.0) ?(0.0) It(0.0) just(0.0) stands(0.0) logic(0.0) on(0.0) 
+its(0.0) head(0.0) .(0.0) I(0.0) strongly(0.0) urge(1.0) Members(0.0) of(0.0) this(0.0) House(0.0) ,(0.0) as(0.0) Senator(1.0) D'Amato(1.0) ,(0.0) chairman(0.0) of(0.0) the(0.0) Banking(0.0) Committee(0.0) 
+,(0.0) has(0.0) accepted(0.0) an(0.0) amendment(0.0) ,(0.0) to(0.0) much(0.0) greater(0.0) extent(0.0) in(0.0) the(0.0) other(0.0) body(0.0) .(0.0) I(0.0) think(0.0) this(0.0) should(0.0) be(0.0) 
+a(0.0) signal(0.0) of(0.0) an(0.0) issue(0.0) that(0.0) is(0.0) quite(0.0) different(0.0) than(0.0) some(0.0) of(0.0) the(0.0) others(0.0) that(0.0) have(0.0) been(0.0) considered(0.0) by(0.0) this(0.0) 
+House(0.0) and(0.0) would(0.0) urge(0.0) ,(0.0) strongly(0.0) urge(1.0) ,(0.0) positive(0.0) action(1.0) on(0.0) this(0.0) particular(0.0) amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	amendment	
+differentials	regulators	
+soundness	country	funds	
+soundness	capital	
+derivatives	conscience	disregard	concerns	
+ideology	unfunded	mandates	regulators	said	
+oversight	
+agencies	
+urge	Senator	D'Amato	
+
+
+urge	action	amendment	
+
+reads % = 0.11016949152542373

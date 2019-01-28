@@ -1,0 +1,10 @@
+This is from a Democrat
+----- below is the original text -----
+If(0.0) Al(0.0) Bundy(1.0) is(0.0) not(0.0) against(0.0) privatization(1.0) ,(0.0) who(0.0) would(0.0) be(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+Bundy	privatization	
+
+reads % = 0.16666666666666666

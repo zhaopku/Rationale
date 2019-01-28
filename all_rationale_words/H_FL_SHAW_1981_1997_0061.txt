@@ -1,0 +1,22 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) would(0.0) like(0.0) to(0.0) take(0.0) this(0.0) opportunity(0.0) to(0.0) engage(0.0) in(0.0) a(0.0) brief(0.0) colloquy(0.0) with(0.0) the(0.0) chairman(0.0) of(0.0) the(0.0) 
+subcommittee(0.0) .(0.0) First(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) the(0.0) chairman(0.0) for(0.0) the(0.0) increase(0.0) he(0.0) has(0.0) given(0.0) to(0.0) the(0.0) National(0.0) Weather(0.0) 
+Service(0.0) in(0.0) its(0.0) base(0.0) operating(0.0) account(0.0) .(0.0) As(0.0) we(0.0) know(0.0) ,(0.0) the(0.0) NOAA(1.0) proposal(1.0) to(0.0) eliminate(1.0) important(0.0) staff(0.0) positions(0.0) at(0.0) 
+the(0.0) hurricane(1.0) center(0.0) in(0.0) South(0.0) Florida(0.0) during(0.0) the(0.0) past(0.0) year(0.0) caused(0.0) enormous(0.0) anxiety(0.0) throughout(0.0) Florida(1.0) .(0.0) Forecasters(0.0) as(0.0) well(0.0) as(0.0) 
+their(0.0) support(0.0) personnel(0.0) are(0.0) vital(0.0) to(0.0) the(0.0) safety(0.0) of(0.0) coastal(1.0) areas(0.0) like(0.0) my(0.0) district(0.0) in(0.0) the(0.0) event(0.0) of(0.0) a(0.0) hurricane(0.0) 
+,(0.0) and(0.0) my(0.0) district(0.0) goes(0.0) from(0.0) mid(0.0) Miami(1.0) beach(0.0) all(0.0) the(0.0) way(0.0) up(0.0) to(0.0) north(0.0) of(0.0) Palm(0.0) Beach(0.0) to(0.0) Juno(0.0) 
+Beach(0.0) at(0.0) the(0.0) south(0.0) end(0.0) of(0.0) Jupiter(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	
+
+NOAA	proposal	eliminate	
+hurricane	Florida	
+coastal	
+Miami	
+
+
+reads % = 0.06201550387596899

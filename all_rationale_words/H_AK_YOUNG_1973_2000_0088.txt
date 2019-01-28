@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(1.0) ,(0.0) reclaiming(0.0) my(0.0) time(0.0) ,(0.0) yes(1.0) ,(0.0) but(0.0) the(0.0) spending(1.0) could(0.0) not(1.0) occur(0.0) until(0.0) we(0.0) reach(0.0) that(0.0) goal(1.0) .(0.0) Although(0.0) 
+I(0.0) think(1.0) some(0.0) of(0.0) those(0.0) are(0.0) meritorious(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+yes	spending	not	goal	
+think	meritorious	
+
+reads % = 0.20689655172413793

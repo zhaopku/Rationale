@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) will(0.0) the(0.0) gentleman(0.0) yield(0.0) ?(0.0) Chairman(0.0) ,(0.0) the(0.0) volunteers(0.0) in(0.0) Desert(0.0) Wildlife(0.0) Unlimited(0.0) and(0.0) the(0.0) Society(0.0) for(0.0) the(0.0) Preservation(0.0) 
+of(0.0) Bighorn(0.0) Sheep(0.0) ,(0.0) Quail(0.0) Unlimited(0.0) ,(0.0) many(0.0) groups(0.0) throughout(0.0) California(1.0) have(0.0) gone(0.0) out(0.0) in(0.0) 120(0.0) degree(0.0) heat(0.0) and(0.0) built(0.0) 
+watering(0.0) holes(0.0) for(0.0) these(0.0) desert(0.0) animals(0.0) .(0.0) We(0.0) want(0.0) to(0.0) maintain(0.0) the(0.0) motorized(0.0) access(0.0) that(0.0) allows(0.0) them(0.0) to(0.0) go(0.0) out(0.0) 
+and(0.0) keep(0.0) these(0.0) waterholes(0.0) open(0.0) .(0.0) This(0.0) deer(0.0) has(0.0) had(0.0) to(0.0) come(0.0) to(0.0) the(0.0) Coachella(0.0) Canal(1.0) because(0.0) the(0.0) waterholes(0.0) have(0.0) 
+been(0.0) destroyed(0.0) in(0.0) parts(0.0) of(0.0) the(0.0) desert(0.0) ,(0.0) they(0.0) slide(0.0) down(0.0) the(0.0) steep(0.0) banks(1.0) and(0.0) they(0.0) literally(0.0) wear(0.0) their(0.0) hooves(0.0) 
+out(0.0) trying(0.0) to(0.0) climb(0.0) back(0.0) up(0.0) those(0.0) banks(1.0) and(0.0) they(0.0) drown(0.0) .(0.0) For(0.0) that(0.0) reason(0.0) ,(0.0) this(0.0) is(0.0) an(0.0) unusual(0.0) 
+amendment(1.0) .(0.0) The(0.0) Hunter-MCCandless-(0.0) Lewis(1.0) position(0.0) is(0.0) supported(0.0) by(0.0) Desert(0.0) Wildlife(0.0) Unlimited(0.0) ,(0.0) a(0.0) conservation(0.0) group(0.0) ,(0.0) The(0.0) Society(0.0) for(0.0) 
+the(0.0) Preservation(0.0) of(0.0) Bighorn(0.0) Sheep(0.0) ,(0.0) Quail(0.0) Unlimited(0.0) ,(0.0) a(0.0) conservation(0.0) group(0.0) ,(0.0) and(0.0) these(0.0) groups(0.0) feel(0.0) that(0.0) the(0.0) Vento(1.0) 
+amendment(1.0) which(0.0) gives(0.0) veto(1.0) power(0.0) to(0.0) the(0.0) Federal(1.0) Government(1.0) for(0.0) motorized(0.0) access(0.0) will(0.0) result(0.0) in(0.0) the(0.0) death(1.0) of(0.0) many(0.0) wildlife(1.0) 
+species(0.0) .(0.0) The(0.0) conservation(1.0) vote(1.0) here(0.0) is(0.0) against(0.0) the(0.0) Vento(1.0) amendment(1.0) and(0.0) for(0.0) the(0.0) MCCandless-Hunter(0.0) amendment(1.0) that(0.0) just(0.0) passed(0.0) .(0.0) 
+If(0.0) Members(0.0) voted(1.0) yes(0.0) on(0.0) the(0.0) amendment(1.0) that(0.0) just(0.0) passed(0.0) ,(0.0) they(0.0) should(0.0) vote(1.0) no(0.0) on(0.0) Vento(0.0) because(0.0) Vento(0.0) guts(1.0) 
+what(0.0) Members(0.0) of(0.0) the(0.0) House(0.0) just(0.0) did(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+California	
+
+Canal	
+banks	
+banks	
+amendment	Lewis	
+Vento	
+amendment	veto	Federal	Government	death	wildlife	
+conservation	vote	Vento	amendment	amendment	
+voted	amendment	vote	guts	
+Chairman	
+
+reads % = 0.09623430962343096

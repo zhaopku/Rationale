@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) on(0.0) behalf(0.0) of(0.0) the(0.0) forgotten(0.0) U.S.(0.0) taxpayer(1.0) .(0.0) On(0.0) Wednesday(0.0) ,(0.0) Neil(0.0) Barofsky(1.0) ,(0.0) the(0.0) special(0.0) inspector(0.0) 
+general(0.0) overseeing(0.0) TARP(1.0) ,(0.0) said(0.0) that(0.0) recouping(1.0) the(0.0) billions(1.0) of(0.0) dollars(1.0) given(0.0) to(0.0) the(0.0) insurer(1.0) AIG(1.0) and(0.0) automakers(1.0) GM(1.0) and(0.0) 
+Chrysler(0.0) ``(0.0) is(0.0) far(0.0) from(0.0) certain(0.0) .(0.0) ''(0.0) He(0.0) also(0.0) noted(0.0) that(0.0) $(0.0) 50(0.0) billion(1.0) set(0.0) aside(0.0) to(0.0) help(0.0) struggling(0.0) 
+homeowners(1.0) lower(0.0) their(0.0) mortgage(1.0) payments(0.0) will(0.0) yield(0.0) ``(0.0) no(0.0) direct(0.0) return(0.0) .(0.0) ''(0.0) Also(0.0) on(0.0) Wednesday(0.0) ,(0.0) the(0.0) former(0.0) chief(0.0) 
+of(0.0) the(0.0) Obama(1.0) administration's(0.0) task(0.0) force(0.0) on(0.0) the(0.0) auto(0.0) industry(0.0) ,(0.0) Steven(0.0) Rattner(1.0) ,(0.0) commented(0.0) on(0.0) the(0.0) $(0.0) 20(0.0) billion(1.0) 
+previously(0.0) lent(0.0) to(0.0) GM(0.0) ,(0.0) ``(0.0) I(0.0) do(0.0) n't(0.0) think(0.0) we(0.0) are(0.0) going(0.0) to(0.0) see(0.0) it(0.0) again(0.0) ,(0.0) ''(0.0) meaning(0.0) 
+that(0.0) all(0.0) the(0.0) money(1.0) is(0.0) gone(0.0) .(0.0) What(0.0) is(0.0) wrong(0.0) with(0.0) this(0.0) picture(0.0) ?(0.0) $(0.0) 50(0.0) billion(1.0) here(0.0) ,(0.0) $(0.0) 
+20(0.0) billion(1.0) there(0.0) .(0.0) What(0.0) am(0.0) I(0.0) missing(0.0) ?(0.0) How(0.0) can(0.0) we(0.0) spend(1.0) ,(0.0) spend(0.0) ,(0.0) spend(0.0) without(0.0) any(0.0) accountability(1.0) 
+?(0.0) I(0.0) am(0.0) concerned(0.0) as(0.0) I(0.0) travel(0.0) across(0.0) Kansas(1.0) ,(0.0) my(0.0) great(0.0) State(1.0) ,(0.0) that(0.0) I(0.0) hear(0.0) countless(0.0) Kansans(1.0) express(0.0) 
+doubts(0.0) that(0.0) Congress(0.0) and(0.0) bureaucrats(1.0) would(0.0) make(0.0) wise(0.0) decisions(0.0) with(0.0) their(0.0) tax(1.0) dollars(1.0) .(0.0) They(0.0) were(0.0) right(0.0) .(0.0) With(0.0) some(0.0) 
+of(0.0) these(0.0) unwise(1.0) investment(1.0) decisions(0.0) that(0.0) I(0.0) mentioned(0.0) today(0.0) ,(0.0) I(0.0) think(0.0) a(0.0) dose(0.0) of(0.0) Kansas(1.0) commonsense(1.0) is(0.0) desperately(0.0) needed(0.0) 
+in(0.0) Washington(1.0) ,(0.0) DC(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+taxpayer	Barofsky	
+TARP	recouping	billions	dollars	insurer	AIG	automakers	GM	
+billion	
+homeowners	mortgage	
+Obama	Rattner	billion	
+
+money	billion	
+billion	spend	accountability	
+Kansas	State	Kansans	
+bureaucrats	tax	dollars	
+unwise	investment	Kansas	commonsense	
+Washington	DC	
+
+reads % = 0.14601769911504425

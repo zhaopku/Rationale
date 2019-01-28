@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) time(0.0) to(0.0) me(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) let(0.0) me(0.0) say(0.0) at(0.0) the(0.0) outset(1.0) 
+that(0.0) I(0.0) am(0.0) disappointed(0.0) that(0.0) the(0.0) gentleman(0.0) from(0.0) Georgia(0.0) [(0.0) Mr.(0.0) Barr(1.0) ](0.0) did(1.0) not(1.0) include(1.0) in(0.0) his(0.0) amendment(0.0) a(0.0) 
+provision(0.0) to(0.0) take(0.0) the(0.0) habeas(1.0) corpus(0.0) provisions(0.0) out(0.0) of(0.0) this(0.0) bill(0.0) .(0.0) But(0.0) he(0.0) did(0.0) not(0.0) do(0.0) that(0.0) .(0.0) I(0.0) 
+have(0.0) to(0.0) evaluate(0.0) his(0.0) amendment(1.0) on(0.0) its(0.0) merits(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) want(0.0) to(0.0) say(0.0) this(0.0) to(0.0) my(0.0) colleagues(0.0) 
+.(0.0) There(0.0) is(0.0) politics(1.0) all(0.0) over(0.0) this(0.0) place(0.0) ,(0.0) on(0.0) the(0.0) right(0.0) ,(0.0) on(0.0) the(0.0) left(0.0) .(0.0) But(0.0) I(0.0) want(0.0) 
+to(0.0) tell(0.0) my(0.0) colleagues(0.0) that(0.0) the(0.0) Constitution(1.0) of(0.0) the(0.0) United(0.0) States(0.0) protects(0.0) conservatives(1.0) ,(0.0) protects(1.0) liberals(1.0) ,(0.0) protects(1.0) moderates(1.0) .(0.0) 
+The(0.0) Constitution(1.0) of(0.0) the(0.0) United(0.0) States(0.0) protects(0.0) black(1.0) people(0.0) and(0.0) white(0.0) people(0.0) and(0.0) Mexican-Americans(1.0) ,(0.0) and(0.0) the(0.0) whole(0.0) range(0.0) and(0.0) 
+array(0.0) of(0.0) people(0.0) .(0.0) To(0.0) the(0.0) extent(0.0) that(0.0) we(0.0) undercut(1.0) the(0.0) provisions(1.0) of(0.0) the(0.0) Constitution(1.0) of(0.0) the(0.0) United(0.0) States(0.0) ,(0.0) 
+we(0.0) do(0.0) our(0.0) whole(0.0) Nation(1.0) a(0.0) disservice(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) Georgia(0.0) [(0.0) Mr.(0.0) Barr(1.0) ](0.0) is(1.0) putting(1.0) back(0.0) in(0.0) 
+some(0.0) sanity(1.0) and(0.0) some(0.0) constitutional(1.0) provisions(1.0) .(0.0) I(0.0) think(0.0) we(0.0) ought(1.0) to(0.0) support(0.0) his(0.0) amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	outset	
+Barr	did	not	include	
+habeas	
+amendment	merits	Chairman	
+politics	
+Constitution	conservatives	protects	liberals	protects	moderates	
+Constitution	black	Mexican-Americans	
+undercut	provisions	Constitution	
+Nation	Barr	is	putting	
+sanity	constitutional	provisions	ought	amendment	
+
+reads % = 0.16243654822335024

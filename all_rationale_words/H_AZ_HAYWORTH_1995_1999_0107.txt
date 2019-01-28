@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) chairman(0.0) for(0.0) yielding(0.0) me(0.0) this(0.0) time(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) would(0.0) simply(0.0) point(0.0) out(0.0) to(0.0) 
+the(0.0) previous(0.0) speaker(0.0) that(0.0) in(0.0) attempting(1.0) to(0.0) deny(1.0) this(0.0) legislation(1.0) for(0.0) tax(1.0) fairness(1.0) and(0.0) tax(1.0) equity(1.0) ,(0.0) my(0.0) colleague(0.0) will(0.0) 
+deny(1.0) about(0.0) $(0.0) 3,299(0.0) per(0.0) capita(1.0) to(0.0) the(0.0) taxpayers(1.0) in(0.0) the(0.0) State(0.0) of(0.0) Florida(1.0) if(0.0) ,(0.0) in(0.0) fact(0.0) ,(0.0) my(0.0) 
+colleague(0.0) chooses(0.0) to(0.0) vote(1.0) against(0.0) this(0.0) bill(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) despite(0.0) all(0.0) of(0.0) the(0.0) talk(0.0) of(0.0) the(0.0) dead(0.0) of(0.0) 
+night(0.0) ,(0.0) it(0.0) is(0.0) prime(0.0) time(0.0) in(0.0) Arizona(1.0) ,(0.0) and(0.0) it(0.0) is(0.0) high(0.0) time(0.0) that(0.0) the(0.0) American(0.0) people(0.0) finally(0.0) get(0.0) 
+more(0.0) of(0.0) their(0.0) hard-earned(1.0) money(1.0) back(0.0) in(0.0) their(0.0) pocket(0.0) .(0.0) My(0.0) colleagues(0.0) will(0.0) hear(0.0) a(0.0) lot(0.0) of(0.0) mistaken(0.0) impressions(0.0) tonight(0.0) 
+from(0.0) my(0.0) friend(0.0) on(0.0) the(0.0) left(0.0) ,(0.0) one(0.0) of(0.0) them(0.0) being(0.0) that(0.0) somehow(0.0) we(0.0) want(0.0) to(0.0) sacrifice(0.0) Social(0.0) Security(0.0) and(0.0) 
+Medicare(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) my(0.0) friends(0.0) on(0.0) the(0.0) left(0.0) are(0.0) mistaken(0.0) .(0.0) Because(0.0) they(0.0) should(0.0) recall(0.0) that(0.0) we(0.0) voted(1.0) 
+to(0.0) install(0.0) a(0.0) lockbox(0.0) ,(0.0) to(0.0) save(0.0) 100(0.0) percent(0.0) of(0.0) the(0.0) Social(0.0) Security(0.0) surplus(1.0) for(0.0) Social(0.0) Security(0.0) and(0.0) Medicare(1.0) .(0.0) 
+Mr.(0.0) Speaker(1.0) ,(0.0) so(0.0) often(0.0) we(0.0) talk(0.0) about(0.0) trillions(1.0) of(0.0) dollars(1.0) ,(0.0) but(0.0) at(0.0) times(0.0) it(0.0) seems(0.0) all(0.0) of(0.0) our(0.0) 
+eyes(0.0) glaze(0.0) over(0.0) .(0.0) Let(0.0) us(0.0) put(0.0) it(0.0) in(0.0) simple(0.0) perspective(0.0) .(0.0) When(0.0) we(0.0) talk(0.0) about(0.0) the(0.0) surplus(1.0) that(0.0) will(0.0) 
+exist(0.0) over(0.0) the(0.0) next(0.0) 10(0.0) years(0.0) ,(0.0) think(0.0) about(0.0) it(0.0) in(0.0) terms(0.0) of(0.0) $(0.0) 3(0.0) billions(1.0) right(0.0) here(0.0) .(0.0) And(0.0) 
+this(0.0) is(0.0) what(0.0) our(0.0) common(0.0) sense(0.0) majority(1.0) proposes(1.0) .(0.0) That(0.0) we(0.0) save(0.0) about(0.0) 2(0.0) of(0.0) those(0.0) to(0.0) go(0.0) to(0.0) save(0.0) 
+and(0.0) strengthen(0.0) Social(0.0) Security(0.0) and(0.0) Medicare(1.0) .(0.0) But(0.0) then(0.0) the(0.0) question(0.0) remains(0.0) about(0.0) the(0.0) remaining(0.0) money(1.0) ,(0.0) the(0.0) overcharge(1.0) that(0.0) 
+has(0.0) been(0.0) charged(0.0) America's(0.0) taxpayers(1.0) .(0.0) What(0.0) should(0.0) we(0.0) do(0.0) with(0.0) this(0.0) ?(0.0) Our(0.0) friends(0.0) on(0.0) the(0.0) left(0.0) would(0.0) say(0.0) 
+,(0.0) spend(1.0) it(0.0) .(0.0) We(0.0) say(0.0) ,(0.0) that(0.0) is(0.0) not(0.0) what(0.0) people(0.0) want(0.0) .(0.0) The(0.0) American(0.0) people(0.0) gave(0.0) this(0.0) money(1.0) 
+to(0.0) run(0.0) this(0.0) government(1.0) ,(0.0) but(0.0) it(0.0) is(0.0) not(0.0) needed(0.0) ,(0.0) so(0.0) the(0.0) money(1.0) should(0.0) be(0.0) returned(0.0) to(0.0) the(0.0) American(0.0) 
+people(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) with(0.0) reference(0.0) to(0.0) the(0.0) alleged(1.0) saviors(1.0) of(0.0) Social(0.0) Security(0.0) ,(0.0) I(0.0) would(0.0) point(0.0) out(0.0) that(0.0) 
+the(0.0) President(1.0) of(0.0) the(0.0) United(0.0) States(0.0) came(0.0) to(0.0) this(0.0) podium(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) and(0.0) in(0.0) his(0.0) State(0.0) of(0.0) the(0.0) 
+Union(0.0) message(0.0) he(0.0) said(0.0) ,(0.0) now(0.0) ,(0.0) listen(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) he(0.0) said(0.0) he(0.0) proposed(1.0) to(0.0) save(0.0) 62(1.0) percent(0.0) of(0.0) 
+the(0.0) surplus(1.0) for(0.0) Social(1.0) Security(0.0) .(0.0) Hello(0.0) .(0.0) The(0.0) remaining(0.0) 38(0.0) percent(0.0) ,(0.0) almost(0.0) 40(0.0) percent(0.0) was(0.0) going(0.0) to(0.0) be(0.0) 
+spent(0.0) on(0.0) new(0.0) programs(1.0) .(0.0) And(0.0) then(0.0) the(0.0) next(0.0) day(0.0) ,(0.0) the(0.0) President(1.0) of(0.0) the(0.0) United(0.0) States(0.0) went(0.0) to(0.0) Buffalo(1.0) 
+,(0.0) New(1.0) York(1.0) and(0.0) in(0.0) a(0.0) rare(0.0) moment(0.0) of(0.0) candor(0.0) said(0.0) to(0.0) the(0.0) people(0.0) of(0.0) Buffalo(1.0) and(0.0) the(0.0) people(0.0) of(0.0) 
+America(1.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) now(0.0) ,(0.0) we(0.0) could(0.0) give(0.0) that(0.0) surplus(1.0) back(0.0) to(0.0) you(0.0) and(0.0) trust(0.0) you(0.0) to(0.0) spend(1.0) 
+it(0.0) right(0.0) .(0.0) Mike(0.0) Ritter(1.0) of(0.0) the(0.0) Mesa(0.0) Tribune(0.0) remembered(0.0) that(0.0) remark(0.0) from(0.0) the(0.0) President(1.0) of(0.0) the(0.0) United(0.0) States(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	
+attempting	deny	legislation	tax	fairness	tax	equity	
+deny	capita	taxpayers	Florida	
+vote	bill	Speaker	
+Arizona	
+hard-earned	money	
+
+Medicare	Speaker	voted	
+surplus	Medicare	
+Speaker	trillions	dollars	
+surplus	
+billions	
+majority	proposes	
+Medicare	money	overcharge	
+taxpayers	
+spend	money	
+government	money	
+Speaker	alleged	saviors	
+President	Speaker	
+Speaker	proposed	62	
+surplus	Social	
+programs	President	Buffalo	
+New	York	Buffalo	
+America	Speaker	surplus	spend	
+Ritter	President	
+
+reads % = 0.12

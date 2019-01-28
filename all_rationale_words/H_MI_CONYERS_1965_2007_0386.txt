@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) it(0.0) is(0.0) now(0.0) my(0.0) privilege(1.0) to(0.0) recognize(0.0) the(0.0) Speaker(0.0) of(0.0) the(0.0) House(0.0) ,(0.0) Ms.(1.0) Nancy(1.0) Pelosi(1.0) ,(0.0) for(0.0) 1(0.0) 
+minute(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+privilege	Ms.	Nancy	Pelosi	
+
+
+reads % = 0.17391304347826086

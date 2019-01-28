@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+Adoption(1.0) is(0.0) the(0.0) utmost(0.0) expression(0.0) of(0.0) family(0.0) values(1.0) ,(0.0) for(0.0) it(0.0) allows(0.0) people(0.0) the(0.0) opportunity(0.0) to(0.0) extend(0.0) their(0.0) homes(1.0) and(0.0) their(0.0) 
+hearts(1.0) to(0.0) people(0.0) in(0.0) need(1.0) .(0.0) But(0.0) adoption(1.0) should(0.0) not(1.0) be(0.0) a(0.0) selfish(1.0) act(0.0) .(0.0) Adoption(1.0) is(0.0) for(0.0) the(0.0) child(0.0) 
+'s(0.0) benefit(0.0) .(0.0) And(0.0) if(0.0) we(0.0) are(0.0) to(0.0) make(0.0) adoption(1.0) a(0.0) meaningful(1.0) life(0.0) opportunity(0.0) for(0.0) children(0.0) ,(0.0) they(0.0) must(0.0) be(0.0) 
+given(0.0) the(0.0) stability(0.0) any(1.0) child(0.0) needs(0.0) to(0.0) grow(1.0) and(0.0) thrive(1.0) .(0.0) People(1.0) who(0.0) are(0.0) not(0.0) married(1.0) but(0.0) sharing(0.0) a(0.0) house(1.0) 
+always(0.0) remain(0.0) as(0.0) free(1.0) to(0.0) adopt(1.0) as(0.0) ever(0.0) .(0.0) But(0.0) the(1.0) legal(0.0) relationship(0.0) created(0.0) by(0.0) the(0.0) adoption(1.0) should(0.0) be(0.0) one(0.0) 
+between(0.0) the(0.0) child(0.0) and(0.0) the(0.0) single(1.0) adoptive(1.0) parent(0.0) ,(0.0) rather(0.0) than(0.0) between(0.0) a(0.0) child(0.0) and(0.0) multiple(0.0) parents(0.0) who(0.0) have(0.0) no(1.0) 
+legal(1.0) relationships(1.0) amongst(0.0) each(0.0) other(0.0) .(0.0) If(1.0) we(0.0) really(0.0) love(1.0) our(0.0) children(0.0) ,(0.0) let(1.0) us(0.0) be(0.0) fair(1.0) to(0.0) them(0.0) .(0.0) 
+Let(1.0) them(0.0) grow(1.0) up(0.0) in(0.0) a(0.0) stable(0.0) environment(0.0) .(0.0) The(0.0) Largent(1.0) amendment(1.0) is(0.0) about(0.0) taking(0.0) family(0.0) relationships(0.0) and(0.0) raising(1.0) children(0.0) 
+seriously(1.0) .(0.0) It(0.0) is(0.0) fair(1.0) and(0.0) reasonable(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+values	homes	
+hearts	need	adoption	not	selfish	Adoption	
+adoption	meaningful	
+any	grow	thrive	People	married	house	
+free	adopt	the	adoption	
+single	adoptive	no	
+legal	relationships	If	love	let	fair	
+Let	grow	Largent	amendment	raising	
+seriously	fair	
+
+reads % = 0.21301775147928995

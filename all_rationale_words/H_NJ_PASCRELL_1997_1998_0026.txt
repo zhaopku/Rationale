@@ -1,0 +1,48 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) we(0.0) will(0.0) vote(1.0) on(0.0) a(0.0) motion(0.0) to(0.0) recommit(1.0) with(0.0) specific(0.0) instructions(0.0) to(0.0) strike(1.0) section(0.0) 425(0.0) .(0.0) This(0.0) section(0.0) puts(0.0) 
+the(0.0) interest(0.0) of(0.0) an(0.0) industry(0.0) over(0.0) the(0.0) interest(0.0) of(0.0) our(0.0) citizens(1.0) .(0.0) Today(0.0) we(0.0) won(0.0) a(0.0) victory(0.0) on(0.0) children(0.0) 's(0.0) 
+sleepwear(0.0) fire(0.0) safety(0.0) standards(1.0) .(0.0) We(0.0) demonstrated(0.0) Congress(0.0) '(0.0) bipartisan(1.0) commitment(1.0) to(0.0) ensuring(0.0) that(0.0) our(0.0) children(0.0) are(0.0) safer(1.0) from(0.0) fires(1.0) 
+.(0.0) Now(0.0) we(0.0) must(0.0) continue(0.0) that(0.0) commitment(1.0) by(0.0) allowing(0.0) the(0.0) Consumer(0.0) Product(0.0) Safety(0.0) Commission(0.0) to(0.0) proceed(0.0) on(0.0) upholstered(0.0) flammability(1.0) standards(1.0) 
+.(0.0) In(0.0) a(0.0) letter(0.0) to(0.0) the(0.0) Committee(0.0) on(0.0) Rules(0.0) ,(0.0) the(0.0) Consumer(0.0) Product(0.0) Safety(0.0) Commission(0.0) called(0.0) this(0.0) language(0.0) an(0.0) obstacle(0.0) 
+to(0.0) their(0.0) work(0.0) .(0.0) They(0.0) said(0.0) ,(0.0) and(0.0) I(0.0) quote(0.0) :(0.0) The(0.0) proposal(1.0) creates(0.0) additional(0.0) costs(1.0) to(0.0) an(0.0) ongoing(0.0) project(0.0) 
+and(0.0) adds(0.0) considerable(0.0) delay(1.0) and(0.0) redundancy(0.0) with(0.0) no(0.0) additional(0.0) benefits(1.0) to(0.0) the(0.0) American(0.0) public(1.0) .(0.0) This(0.0) is(0.0) only(0.0) intended(0.0) to(0.0) 
+interfere(0.0) and(0.0) disrupt(1.0) the(0.0) orderly(1.0) process(0.0) already(0.0) developed(0.0) by(0.0) the(0.0) Consumer(1.0) Product(0.0) Safety(0.0) Commission(0.0) to(0.0) consider(0.0) a(0.0) serious(0.0) hazard(0.0) facing(0.0) 
+American(0.0) consumers(1.0) .(0.0) That(0.0) is(0.0) not(0.0) stated(0.0) by(0.0) any(0.0) Congressperson(1.0) .(0.0) That(0.0) is(0.0) stated(0.0) by(0.0) the(0.0) CPSC(0.0) .(0.0) Unfortunately(0.0) ,(0.0) 
+if(0.0) this(0.0) VA-HUD(1.0) appropriations(1.0) bill(1.0) passes(1.0) with(0.0) section(0.0) 425(0.0) ,(0.0) the(0.0) $(0.0) 16(0.0) billion(1.0) upholstery(0.0) manufacturing(1.0) industry(1.0) will(0.0) receive(0.0) an(0.0) 
+early(0.0) Christmas(0.0) present(0.0) .(0.0) That(0.0) is(0.0) what(0.0) this(0.0) is(0.0) all(0.0) about(0.0) .(0.0) While(0.0) the(0.0) industry(1.0) is(0.0) laughing(0.0) its(0.0) way(0.0) to(0.0) 
+the(0.0) bank(0.0) ,(0.0) thousands(0.0) of(0.0) Americans(1.0) will(0.0) be(0.0) in(0.0) jeopardy(1.0) and(0.0) will(0.0) continue(0.0) to(0.0) be(0.0) in(0.0) jeopardy(1.0) .(0.0) They(0.0) will(0.0) 
+be(0.0) burned(0.0) because(0.0) the(0.0) industry(1.0) spent(0.0) thousands(0.0) of(0.0) dollars(1.0) lobbying(1.0) against(0.0) a(0.0) national(1.0) upholstery(0.0) flammability(1.0) standard(0.0) .(0.0) Thirty-seven(0.0) hundred(0.0) people(0.0) 
+a(0.0) year(0.0) are(0.0) killed(0.0) by(0.0) house(0.0) fires(0.0) .(0.0) Seventeen(0.0) hundred(0.0) youngsters(0.0) are(0.0) injured(0.0) due(0.0) to(0.0) residential(1.0) fires(0.0) ,(0.0) most(0.0) of(0.0) 
+which(0.0) are(0.0) starting(0.0) when(0.0) upholstery(0.0) furniture(0.0) catches(0.0) fire(0.0) .(0.0) This(0.0) bill(1.0) blocks(1.0) the(0.0) progress(0.0) that(0.0) has(0.0) been(0.0) made(0.0) by(0.0) the(0.0) 
+Consumer(1.0) Product(0.0) Safety(0.0) Commission(0.0) .(0.0) The(0.0) provision(1.0) not(0.0) only(0.0) delays(0.0) the(0.0) project(0.0) ,(0.0) but(0.0) it(0.0) is(0.0) totally(0.0) redundant(0.0) and(0.0) provides(0.0) 
+no(0.0) further(0.0) benefit(1.0) to(0.0) the(0.0) American(0.0) public(1.0) .(0.0) While(0.0) we(0.0) wait(0.0) ,(0.0) over(0.0) 25,000(0.0) men(0.0) ,(0.0) women(1.0) ,(0.0) and(0.0) children(0.0) 
+will(0.0) have(0.0) died(0.0) as(0.0) a(0.0) result(0.0) of(0.0) burning(1.0) furniture(0.0) if(0.0) we(0.0) wait(0.0) a(0.0) year(0.0) or(0.0) 18(0.0) months(0.0) .(0.0) The(0.0) Consumer(0.0) 
+Product(0.0) Safety(0.0) Commission(0.0) calculates(0.0) that(0.0) an(0.0) upholstery(0.0) flammability(1.0) standard(0.0) will(0.0) have(0.0) an(0.0) annual(0.0) net(0.0) savings(0.0) of(0.0) $(0.0) 300(0.0) million(0.0) .(0.0) 
+Amendment(1.0) No(1.0) .(0.0) 31(0.0) Offered(0.0) By(0.0) Mr.(0.0) Riggs(1.0) 
+
+
+----- below are rationale words -----
+
+vote	recommit	strike	
+citizens	
+standards	bipartisan	commitment	safer	fires	
+commitment	flammability	standards	
+
+proposal	costs	
+delay	benefits	public	
+disrupt	orderly	Consumer	
+consumers	Congressperson	
+VA-HUD	appropriations	bill	passes	billion	manufacturing	industry	
+industry	
+Americans	jeopardy	jeopardy	
+industry	dollars	lobbying	national	flammability	
+residential	
+bill	blocks	
+Consumer	provision	
+benefit	public	women	
+burning	
+flammability	
+Amendment	No	Riggs	
+
+reads % = 0.13110539845758354

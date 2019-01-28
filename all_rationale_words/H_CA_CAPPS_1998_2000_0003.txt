@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) support(0.0) this(0.0) bill(1.0) to(1.0) give(0.0) taxpayers(1.0) more(0.0) rights(1.0) when(0.0) dealing(0.0) with(0.0) the(0.0) IRS(1.0) ,(0.0) but(0.0) taxpayers(1.0) should(0.0) also(0.0) 
+be(0.0) protected(0.0) from(0.0) shady(1.0) political(1.0) organizations(1.0) .(0.0) This(0.0) would(0.0) be(0.0) a(0.0) better(0.0) bill(0.0) if(1.0) it(0.0) included(0.0) the(0.0) Doggett(1.0) amendment(1.0) on(0.0) 
+so-called(1.0) 527(1.0) groups(0.0) .(0.0) These(0.0) are(0.0) tax-exempt(1.0) political(1.0) organizations(0.0) trying(0.0) to(0.0) influence(0.0) elections(1.0) .(0.0) They(0.0) spend(0.0) millions(1.0) of(0.0) dollars(1.0) on(0.0) 
+negative(0.0) ads(0.0) ,(0.0) direct(0.0) mail(0.0) campaigns(1.0) ,(0.0) and(0.0) phone(0.0) banks(0.0) .(0.0) Where(0.0) do(0.0) they(0.0) get(0.0) their(0.0) money(1.0) ?(0.0) From(0.0) the(0.0) 
+shadows(0.0) .(0.0) 527(0.0) groups(0.0) do(0.0) not(0.0) have(0.0) to(0.0) disclose(0.0) how(0.0) much(0.0) money(0.0) they(0.0) raise(0.0) or(0.0) where(0.0) their(0.0) money(1.0) comes(0.0) from(0.0) 
+.(0.0) Voters(0.0) do(0.0) not(0.0) know(0.0) then(0.0) who(0.0) is(0.0) behind(0.0) the(0.0) 30-(0.0) second(0.0) TV(0.0) ads(0.0) trashing(1.0) their(0.0) candidates(0.0) .(0.0) There(0.0) is(0.0) 
+absolutely(0.0) no(0.0) accountability(1.0) ,(0.0) and(0.0) the(0.0) American(0.0) taxpayer(1.0) is(0.0) footing(0.0) the(0.0) bill(1.0) .(0.0) There(0.0) is(0.0) an(0.0) old(0.0) saying(0.0) ,(0.0) Sunshine(0.0) 
+is(0.0) the(0.0) best(0.0) disinfectant(0.0) .(0.0) The(0.0) Doggett(1.0) amendment(1.0) would(0.0) bring(0.0) a(0.0) little(0.0) sunshine(0.0) into(0.0) this(0.0) shadowy(1.0) corner(0.0) of(0.0) politics(1.0) .(0.0) 
+As(0.0) tax(1.0) day(0.0) approaches(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) urge(0.0) the(0.0) House(0.0) leadership(1.0) to(0.0) let(0.0) us(0.0) vote(1.0) on(0.0) the(0.0) Doggett(1.0) 
+amendment(1.0) so(0.0) we(0.0) can(0.0) give(0.0) the(0.0) American(0.0) taxpayer(1.0) and(0.0) the(0.0) American(0.0) voter(1.0) the(0.0) break(0.0) they(0.0) deserve(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+bill	to	taxpayers	rights	IRS	taxpayers	
+shady	political	organizations	if	Doggett	amendment	
+so-called	527	tax-exempt	political	elections	millions	dollars	
+campaigns	money	
+money	
+trashing	
+accountability	taxpayer	bill	
+Doggett	amendment	shadowy	politics	
+tax	Speaker	leadership	vote	Doggett	
+amendment	taxpayer	voter	deserve	
+
+reads % = 0.19696969696969696

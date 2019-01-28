@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+32(0.0) and(0.0) to(0.0) offer(0.0) my(0.0) thoughts(0.0) and(0.0) prayers(0.0) for(0.0) my(0.0) friend(0.0) and(0.0) colleague(0.0) Gabrielle(0.0) Giffords(1.0) ,(0.0) as(0.0) well(0.0) as(0.0) the(0.0) 18(0.0) 
+other(0.0) victims(1.0) of(0.0) Saturday(0.0) 's(0.0) unthinkable(0.0) tragedy(0.0) in(0.0) Tucson(1.0) .(0.0) I(0.0) hope(0.0) and(0.0) pray(0.0) for(0.0) the(0.0) wellbeing(1.0) of(0.0) all(0.0) those(0.0) 
+battling(0.0) for(0.0) their(0.0) lives(0.0) and(0.0) offer(0.0) my(0.0) deepest(0.0) condolences(0.0) to(0.0) those(0.0) who(0.0) did(0.0) not(0.0) survive(0.0) --(0.0) Christina(0.0) Taylor(1.0) Green(1.0) ,(0.0) 
+Dorothy(0.0) Morris(1.0) ,(0.0) Judge(0.0) John(1.0) M.(1.0) Roll(0.0) ,(0.0) Phyllis(0.0) Schneck(1.0) ,(0.0) Dorwin(1.0) Stoddard(1.0) ,(0.0) and(0.0) Gabe(0.0) Zimmerman(1.0) .(0.0) My(0.0) heart(0.0) 
+goes(0.0) out(0.0) to(0.0) the(0.0) families(0.0) and(0.0) loved(0.0) ones(0.0) of(0.0) all(0.0) involved(0.0) .(0.0) Congress(0.0) on(0.0) Your(0.0) Corner(0.0) is(0.0) democracy(1.0) in(0.0) action(1.0) 
+.(0.0) Ms.(0.0) Giffords(1.0) ,(0.0) her(0.0) staff(0.0) ,(0.0) and(0.0) everyone(0.0) attending(0.0) Saturday(0.0) 's(0.0) event(0.0) were(0.0) doing(0.0) what(0.0) this(0.0) country(1.0) is(0.0) built(0.0) 
+on(0.0) :(0.0) participating(0.0) in(0.0) a(0.0) conversation(0.0) between(0.0) an(0.0) elected(0.0) official(0.0) and(0.0) the(0.0) people(0.0) she(0.0) represents(0.0) .(0.0) As(0.0) sadness(0.0) gives(0.0) way(0.0) 
+to(0.0) reflection(0.0) ,(0.0) I(0.0) hope(0.0) we(0.0) will(0.0) remain(0.0) committed(0.0) to(0.0) that(0.0) ideal(0.0) .(0.0) Just(0.0) 2(0.0) years(0.0) ago(0.0) ,(0.0) I(0.0) was(0.0) 
+a(0.0) new(0.0) member(0.0) of(0.0) this(0.0) body(0.0) .(0.0) Gabby(0.0) Giffords(1.0) greeted(0.0) me(0.0) with(0.0) warmth(0.0) ,(0.0) kindness(0.0) ,(0.0) and(0.0) friendship(0.0) .(0.0) With(0.0) 
+all(0.0) my(0.0) heart(0.0) ,(0.0) I(0.0) hope(0.0) to(0.0) one(0.0) day(0.0) return(0.0) the(0.0) favor(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Giffords	
+victims	Tucson	wellbeing	
+Taylor	Green	
+Morris	John	M.	Schneck	Dorwin	Stoddard	Zimmerman	
+democracy	action	
+Giffords	country	
+
+
+Giffords	
+favor	
+
+reads % = 0.0979381443298969

@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+The(0.0) Clerk(0.0) read(0.0) as(0.0) follows(0.0) :(0.0) Amendment(0.0) offered(0.0) by(0.0) Mr.(0.0) Meehan(1.0) :(1.0) Page(1.0) 23(0.0) ,(0.0) line(0.0) 5(0.0) ,(0.0) after(0.0) the(0.0) dollar(0.0) 
+amount(0.0) ,(0.0) insert(0.0) ``(0.0) ((0.0) reduced(0.0) by(0.0) $(0.0) 30,000,000(0.0) )(0.0) ''(0.0) .(0.0) Page(0.0) 23(0.0) ,(0.0) line(0.0) 16(0.0) ,(0.0) after(0.0) the(0.0) 
+dollar(0.0) amount(0.0) ,(0.0) insert(0.0) ``(0.0) ((0.0) increased(0.0) by(0.0) $(0.0) 30,000,0000(0.0) ''(0.0) .(0.0) The(0.0) CHAIRMAN(0.0) pro(0.0) tempore(0.0) .(0.0) Pursuant(0.0) to(0.0) the(0.0) 
+order(0.0) of(0.0) the(0.0) House(0.0) of(0.0) today(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Massachusetts(1.0) ((0.0) Mr.(0.0) Meehan(1.0) )(0.0) and(0.0) a(0.0) Member(0.0) opposed(0.0) each(0.0) 
+will(0.0) control(0.0) 10(0.0) minutes(0.0) .(0.0) The(0.0) Chair(0.0) recognizes(0.0) the(0.0) gentleman(0.0) from(0.0) Massachusetts(1.0) ((0.0) Mr.(0.0) Meehan(1.0) )(0.0) .(0.0) Madam(0.0) Chairman(0.0) ,(0.0) 
+I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) Madam(0.0) Chairman(0.0) ,(0.0) this(0.0) amendment(1.0) provides(0.0) an(0.0) additional(0.0) $(0.0) 30(0.0) 
+million(0.0) for(0.0) the(0.0) Department(0.0) of(0.0) Energy(0.0) 's(0.0) Global(0.0) Threat(0.0) Reduction(0.0) Initiative(1.0) to(0.0) secure(0.0) ,(0.0) remove(0.0) ,(0.0) and(0.0) dispose(0.0) of(0.0) nuclear(1.0) 
+and(0.0) radiological(1.0) materials(0.0) around(0.0) the(0.0) world(0.0) .(0.0) In(0.0) February(0.0) ,(0.0) President(0.0) Bush(1.0) stated(0.0) in(0.0) a(0.0) speech(0.0) at(0.0) the(0.0) National(0.0) Defense(0.0) 
+University(0.0) that(0.0) the(0.0) greatest(0.0) risk(0.0) to(0.0) the(0.0) United(0.0) States(0.0) and(0.0) the(0.0) world(0.0) is(0.0) the(0.0) possibility(0.0) of(0.0) a(0.0) nuclear(0.0) or(0.0) radiological(0.0) 
+attack(0.0) .(0.0) And(0.0) I(0.0) could(0.0) not(0.0) agree(0.0) more(0.0) .(0.0) And(0.0) in(0.0) today(0.0) 's(0.0) world(0.0) ,(0.0) the(0.0) most(0.0) urgent(0.0) nuclear(1.0) threat(1.0) 
+might(0.0) not(0.0) be(0.0) from(0.0) hostile(1.0) states(1.0) ,(0.0) it(0.0) may(0.0) be(0.0) from(0.0) a(0.0) non-state(1.0) terrorist(1.0) group(0.0) .(0.0) The(0.0) technology(0.0) to(0.0) produce(0.0) 
+a(0.0) nuclear(1.0) bomb(0.0) is(0.0) easier(0.0) to(0.0) obtain(0.0) than(0.0) we(0.0) might(0.0) like(0.0) to(0.0) believe(0.0) .(0.0) Earlier(0.0) this(0.0) year(0.0) ,(0.0) a(0.0) Pakistani(0.0) 
+scientist(0.0) named(0.0) A.Q(1.0) .(0.0) Khan(0.0) confessed(0.0) to(0.0) operating(0.0) a(0.0) global(0.0) black(0.0) market(0.0) for(0.0) nuclear(1.0) technology(0.0) .(0.0) The(0.0) head(0.0) of(0.0) the(0.0) 
+International(0.0) Atomic(0.0) Energy(0.0) Agency(0.0) ,(0.0) Mohamed(0.0) El(0.0) Baradei(1.0) called(0.0) it(0.0) a(0.0) ``(0.0) veritable(0.0) nuclear(1.0) Wal-Mart(0.0) .(0.0) ''(0.0) The(0.0) design(0.0) for(0.0) 
+a(0.0) simple(0.0) nuclear(0.0) weapon(0.0) is(0.0) not(0.0) beyond(0.0) the(0.0) reach(0.0) of(0.0) many(0.0) terrorist(1.0) groups(0.0) .(0.0) The(0.0) best(0.0) way(0.0) ,(0.0) perhaps(0.0) the(0.0) 
+only(0.0) way(0.0) ,(0.0) to(0.0) prevent(0.0) terrorists(1.0) from(0.0) obtaining(1.0) nuclear(1.0) weapons(0.0) is(0.0) to(0.0) make(0.0) sure(0.0) they(0.0) do(0.0) not(0.0) get(0.0) the(0.0) ingredients(0.0) 
+to(0.0) make(0.0) one(0.0) .(0.0) Alarmingly(0.0) ,(0.0) fissile(1.0) material(0.0) is(0.0) in(0.0) abundant(1.0) supply(0.0) around(0.0) the(0.0) world(0.0) today(0.0) .(0.0) Some(0.0) 20(0.0) tons(0.0) 
+of(0.0) highly(0.0) enriched(1.0) uranium(1.0) exist(0.0) at(0.0) 345(0.0) civilian(0.0) facilities(0.0) in(0.0) 58(0.0) countries(0.0) ,(0.0) enough(0.0) to(0.0) make(0.0) 1,000(0.0) nuclear(1.0) weapons(0.0) .(0.0) 
+Many(0.0) of(0.0) these(0.0) are(0.0) academic(0.0) or(0.0) industrial(1.0) facilities(0.0) that(0.0) have(0.0) no(0.0) more(0.0) security(0.0) than(0.0) a(0.0) night(0.0) watchman(0.0) or(0.0) a(0.0) chain(0.0) 
+link(0.0) fence(0.0) .(0.0) The(0.0) threat(1.0) is(0.0) real(0.0) .(0.0) The(0.0) CIA(1.0) determined(0.0) in(0.0) 2002(0.0) that(0.0) weapons(0.0) grade(0.0) or(0.0) weapons-usable(1.0) materials(0.0) have(0.0) 
+been(0.0) stolen(0.0) from(0.0) Russia(0.0) .(0.0) According(0.0) to(0.0) the(0.0) IAEA(0.0) ,(0.0) there(0.0) have(0.0) been(0.0) 18(0.0) confirmed(0.0) thefts(0.0) involving(0.0) plutonium(1.0) or(0.0) enriched(0.0) 
+uranium(1.0) in(0.0) the(0.0) former(0.0) Soviet(0.0) Union(0.0) .(0.0) Highly(0.0) enriched(0.0) uranium(1.0) is(0.0) a(0.0) dangerous(0.0) tool(0.0) in(0.0) the(0.0) hands(0.0) of(0.0) terrorist(1.0) groups(0.0) 
+seeking(0.0) to(0.0) develop(0.0) nuclear(1.0) weapons(0.0) .(0.0) And(0.0) we(0.0) must(0.0) do(0.0) everything(0.0) in(0.0) our(0.0) power(0.0) to(0.0) deter(1.0) this(0.0) threat(1.0) .(0.0) The(0.0) 
+Energy(0.0) Department(0.0) already(0.0) has(0.0) several(0.0) programs(0.0) aimed(0.0) at(0.0) securing(0.0) nuclear(1.0) and(0.0) radiological(1.0) materials(0.0) around(0.0) the(0.0) world(0.0) ,(0.0) but(0.0) they(0.0) are(0.0) 
+seriously(0.0) underfunded(1.0) .(0.0) I(0.0) was(0.0) encouraged(0.0) to(0.0) hear(0.0) that(0.0) Secretary(1.0) of(0.0) Energy(0.0) Spence(1.0) Abraham(1.0) unveiled(1.0) a(0.0) new(0.0) global(1.0) threat(0.0) 
+
+
+----- below are rationale words -----
+
+Meehan	:	Page	
+
+
+Massachusetts	Meehan	
+Massachusetts	Meehan	
+amendment	
+Initiative	nuclear	
+radiological	Bush	
+
+nuclear	threat	
+hostile	states	non-state	terrorist	
+nuclear	
+A.Q	nuclear	
+Baradei	nuclear	
+terrorist	
+terrorists	obtaining	nuclear	
+fissile	abundant	
+enriched	uranium	nuclear	
+industrial	
+threat	CIA	weapons-usable	
+plutonium	
+uranium	uranium	terrorist	
+nuclear	deter	threat	
+nuclear	radiological	
+underfunded	Secretary	Spence	Abraham	unveiled	global	
+
+reads % = 0.102

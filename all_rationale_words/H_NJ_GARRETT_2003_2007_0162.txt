@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+We(0.0) are(0.0) number(0.0) one(0.0) in(0.0) a(0.0) number(0.0) of(0.0) things(0.0) ,(0.0) in(0.0) the(0.0) number(0.0) of(0.0) taxes(1.0) that(0.0) we(0.0) pay(0.0) and(0.0) the(0.0) number(0.0) 
+of(0.0) taxes(1.0) that(0.0) the(0.0) Democrats(1.0) are(0.0) going(0.0) to(0.0) make(0.0) us(0.0) pay(0.0) in(0.0) the(0.0) future(0.0) as(0.0) well(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+taxes	
+taxes	Democrats	
+
+reads % = 0.07894736842105263

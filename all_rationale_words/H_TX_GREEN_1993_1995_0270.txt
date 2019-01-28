@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) the(0.0) stage(0.0) is(0.0) set(0.0) for(0.0) another(0.0) Government(1.0) shutdown(1.0) tomorrow(0.0) night(0.0) .(0.0) That(0.0) means(0.0) that(0.0) citizens(1.0) will(0.0) not(0.0) be(0.0) able(0.0) 
+to(0.0) apply(0.0) for(0.0) Social(0.0) Security(0.0) or(0.0) veterans(1.0) '(0.0) benefits(0.0) .(0.0) We(0.0) find(0.0) ourselves(0.0) in(0.0) this(0.0) situation(0.0) because(0.0) the(0.0) congressional(1.0) Republicans(1.0) 
+have(1.0) not(1.0) sent(1.0) a(1.0) continuing(1.0) resolution(1.0) to(1.0) the(1.0) President(1.0) .(0.0) They(1.0) are(0.0) manufacturing(1.0) another(0.0) crisis(1.0) because(0.0) the(0.0) President(1.0) will(0.0) not(0.0) 
+cut(0.0) Medicare(1.0) and(0.0) education(1.0) the(0.0) way(0.0) the(0.0) Republicans(1.0) want(1.0) him(1.0) to(1.0) .(1.0) This(1.0) poster(1.0) was(1.0) given(1.0) to(1.0) me(1.0) by(1.0) a(1.0) 
+constituent(0.0) of(0.0) mine(0.0) ,(0.0) a(0.0) small(0.0) businessman(0.0) in(0.0) the(0.0) Houston(1.0) Heights(0.0) area(0.0) of(0.0) Houston(1.0) ,(0.0) that(0.0) he(0.0) is(0.0) worried(0.0) about(0.0) 
+what(0.0) is(0.0) happening(0.0) up(0.0) here(0.0) ,(0.0) and(0.0) obviously(0.0) he(0.0) is(0.0) a(0.0) fan(0.0) of(0.0) the(0.0) Speaker(0.0) when(0.0) he(0.0) says(0.0) the(0.0) rich(1.0) 
+get(0.0) richer(0.0) ,(0.0) we(0.0) see(0.0) the(0.0) end(0.0) of(0.0) a(0.0) great(0.0) Nation(1.0) in(0.0) Godnewtzilla(0.0) .(0.0) What(0.0) he(0.0) is(0.0) worried(0.0) about(0.0) is(0.0) 
+we(0.0) are(0.0) seeing(0.0) the(0.0) destruction(1.0) of(0.0) our(0.0) country(1.0) by(0.0) cutting(0.0) most(0.0) seniors(1.0) and(0.0) the(0.0) education(1.0) for(0.0) our(0.0) children(0.0) ,(0.0) and(0.0) 
+yet(0.0) he(0.0) wants(0.0) to(0.0) make(0.0) sure(0.0) that(0.0) he(0.0) can(0.0) earn(0.0) his(0.0) living(0.0) as(0.0) a(0.0) small(0.0) business(0.0) person(0.0) in(0.0) Houston(1.0) .(0.0) 
+Mr.(0.0) Speaker(1.0) ,(0.0) this(0.0) crisis(1.0) is(0.0) contrived(0.0) ,(0.0) and(0.0) it(0.0) is(0.0) taking(0.0) place(0.0) because(0.0) the(0.0) Republican(1.0) leadership(1.0) has(1.0) not(1.0) been(1.0) 
+able(1.0) to(1.0) get(1.0) their(1.0) own(1.0) appropriation(1.0) bills(1.0) to(1.0) the(1.0) President(1.0) .(1.0) 
+
+
+----- below are rationale words -----
+
+Government	shutdown	citizens	
+veterans	congressional	Republicans	
+have	not	sent	a	continuing	resolution	to	the	President	They	manufacturing	crisis	President	
+Medicare	education	Republicans	want	him	to	.	This	poster	was	given	to	me	by	a	
+Houston	Houston	
+rich	
+Nation	
+destruction	country	seniors	education	
+Houston	
+Speaker	crisis	Republican	leadership	has	not	been	
+able	to	get	their	own	appropriation	bills	to	the	President	.	
+
+reads % = 0.28773584905660377

@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) when(0.0) the(0.0) Saudi(1.0) Arabians(0.0) tell(0.0) you(0.0) you(0.0) have(0.0) a(0.0) problem(0.0) in(0.0) your(0.0) oil(1.0) speculation(1.0) market(1.0) ,(0.0) you(0.0) 've(0.0) got(0.0) 
+a(0.0) problem(0.0) in(0.0) your(0.0) oil(1.0) speculation(1.0) market(1.0) .(0.0) Now(0.0) ,(0.0) some(0.0) people(0.0) have(0.0) argued(1.0) that(0.0) a(0.0) 100(0.0) percent(0.0) increase(1.0) in(0.0) 
+the(0.0) amount(0.0) of(0.0) financial(1.0) speculation(1.0) in(0.0) these(0.0) markets(1.0) is(0.0) necessary(0.0) to(0.0) liquidity(1.0) of(0.0) the(0.0) markets(1.0) .(0.0) Hogwash(0.0) .(0.0) We(0.0) need(0.0) 
+more(0.0) liquidity(1.0) in(0.0) these(0.0) markets(1.0) the(0.0) way(0.0) Iowans(1.0) need(0.0) more(0.0) liquidity(1.0) in(0.0) the(0.0) rivers(0.0) right(0.0) now(0.0) .(0.0) We(0.0) are(0.0) drowning(1.0) 
+in(0.0) liquidity(1.0) .(0.0) There(0.0) has(0.0) been(0.0) over(0.0) 100(0.0) percent(0.0) increase(1.0) of(0.0) this(0.0) speculation(1.0) going(0.0) into(0.0) these(0.0) markets(1.0) ,(0.0) and(0.0) we(0.0) 
+have(0.0) now(0.0) had(0.0) clear(0.0) ,(0.0) cogent(0.0) and(0.0) convincing(0.0) testimony(0.0) this(0.0) is(0.0) one(0.0) of(0.0) the(0.0) reasons(0.0) for(0.0) 100(0.0) percent(0.0) increase(1.0) in(0.0) 
+prices(1.0) of(0.0) oil(1.0) in(0.0) the(0.0) last(0.0) year(0.0) .(0.0) We(0.0) have(0.0) seen(0.0) this(0.0) movie(0.0) before(0.0) .(0.0) It(0.0) was(0.0) called(0.0) Enron(1.0) .(0.0) 
+And(0.0) my(0.0) constituents(1.0) saw(0.0) their(0.0) electrical(0.0) bills(0.0) go(0.0) up(0.0) 1,000(0.0) percent(0.0) .(0.0) Now(0.0) ,(0.0) they(0.0) 're(0.0) seeing(0.0) their(0.0) oil(1.0) go(0.0) 
+up(0.0) double(0.0) per(0.0) barrel(1.0) in(0.0) one(0.0) year(0.0) in(0.0) this(0.0) bad(0.0) movie(0.0) .(0.0) Pass(0.0) this(0.0) bill(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Saudi	oil	speculation	market	
+oil	speculation	market	argued	increase	
+financial	speculation	markets	liquidity	markets	
+liquidity	markets	Iowans	liquidity	drowning	
+liquidity	increase	speculation	markets	
+increase	
+prices	oil	Enron	
+constituents	oil	
+barrel	bill	
+
+reads % = 0.1751412429378531

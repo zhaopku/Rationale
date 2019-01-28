@@ -1,0 +1,36 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) today(0.0) I(0.0) rise(0.0) in(0.0) solemn(1.0) remembrance(0.0) of(0.0) the(0.0) life(0.0) of(0.0) a(0.0) fallen(0.0) hero(0.0) ,(0.0) 1st(0.0) Lieutenant(0.0) Leevi(0.0) Khole(1.0) Barnard(1.0) 
+,(0.0) of(0.0) the(0.0) North(0.0) Carolina(0.0) National(0.0) Guard(0.0) .(0.0) Lieutenant(0.0) Barnard(0.0) was(0.0) killed(0.0) while(0.0) serving(0.0) his(0.0) country(0.0) in(0.0) Iraq(1.0) on(0.0) May(0.0) 
+21(0.0) when(0.0) an(0.0) improvised(0.0) explosive(0.0) device(0.0) targeted(0.0) his(0.0) unit(0.0) in(0.0) Baghdad(0.0) .(0.0) Lieutenant(0.0) Barnard(0.0) joined(0.0) the(0.0) North(0.0) Carolina(0.0) National(0.0) Guard(0.0) 
+in(0.0) 2004(0.0) after(0.0) graduating(0.0) as(0.0) a(0.0) Distinguished(0.0) Military(0.0) Graduate(0.0) from(0.0) the(0.0) Advanced(0.0) Individual(0.0) Training(0.0) Class(0.0) at(0.0) Fort(0.0) Sill(0.0) ,(0.0) Oklahoma(1.0) 
+.(0.0) His(0.0) unit(0.0) ,(0.0) the(0.0) 30th(0.0) Heavy(0.0) Brigade(0.0) Combat(0.0) Team(0.0) ,(0.0) was(0.0) recently(0.0) deployed(0.0) to(0.0) Iraq(0.0) this(0.0) April(0.0) .(0.0) Lieutenant(0.0) 
+Barnard(0.0) graduated(0.0) from(0.0) UNC(0.0) Charlotte(0.0) ,(0.0) where(0.0) he(0.0) participated(0.0) in(0.0) the(0.0) university(0.0) 's(0.0) ROTC(0.0) program(0.0) .(0.0) This(0.0) selfless(0.0) American(0.0) patriot(1.0) 
+,(0.0) who(0.0) paid(0.0) the(0.0) heaviest(0.0) price(0.0) for(0.0) his(0.0) country(0.0) ,(0.0) will(0.0) be(0.0) remembered(0.0) forever(0.0) as(0.0) a(0.0) young(0.0) man(0.0) whose(0.0) life(0.0) 
+was(0.0) overflowing(0.0) with(0.0) potential(0.0) and(0.0) whose(0.0) personality(0.0) filled(0.0) other(0.0) people(0.0) 's(0.0) lives(0.0) with(0.0) joy(0.0) .(0.0) His(0.0) tragic(0.0) death(0.0) in(0.0) the(0.0) 
+line(0.0) of(0.0) duty(0.0) is(0.0) an(0.0) irreplaceable(0.0) loss(0.0) for(0.0) his(0.0) family(0.0) and(0.0) friends(0.0) ,(0.0) his(0.0) community(0.0) and(0.0) his(0.0) country(0.0) .(0.0) Today(0.0) 
+we(0.0) mourn(0.0) with(0.0) those(0.0) who(0.0) mourn(0.0) .(0.0) And(0.0) we(0.0) pay(0.0) tribute(0.0) to(0.0) and(0.0) honor(0.0) this(0.0) soldier(0.0) and(0.0) his(0.0) inspiring(0.0) life(0.0) 
+that(0.0) was(0.0) cut(0.0) short(0.0) while(0.0) he(0.0) was(0.0) serving(0.0) his(0.0) country(0.0) .(0.0) His(0.0) country(1.0) owes(0.0) him(0.0) an(0.0) immeasurable(0.0) debt(1.0) of(0.0) gratitude(0.0) 
+for(0.0) his(0.0) 5(0.0) years(0.0) of(0.0) service(0.0) and(0.0) his(0.0) great(0.0) sacrifice(0.0) on(0.0) the(0.0) battlefield(0.0) .(0.0) May(0.0) God(0.0) 's(0.0) peace(0.0) be(0.0) with(0.0) 
+Lieutenant(0.0) Barnard(0.0) 's(0.0) family(0.0) ,(0.0) friends(0.0) and(0.0) all(0.0) those(0.0) who(0.0) continue(0.0) to(0.0) mourn(0.0) his(0.0) death(0.0) and(0.0) remember(0.0) his(0.0) life(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+solemn	Khole	Barnard	
+Iraq	
+
+Oklahoma	
+
+patriot	
+
+
+
+
+country	debt	
+
+
+
+
+reads % = 0.03065134099616858

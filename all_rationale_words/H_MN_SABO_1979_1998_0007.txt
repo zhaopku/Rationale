@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) congratulate(0.0) the(0.0) gentleman(0.0) from(0.0) Minnesota(1.0) ((0.0) Mr.(0.0) Vento(1.0) )(0.0) on(1.0) an(0.0) excellent(0.0) amendment(0.0) .(0.0) As(0.0) I(0.0) understand(0.0) the(0.0) 
+gentleman(0.0) 's(0.0) amendment(1.0) ,(0.0) it(0.0) requires(0.0) notice(0.0) to(0.0) both(0.0) the(0.0) residents(1.0) and(0.0) the(0.0) local(0.0) governments(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Minnesota	Vento	on	
+amendment	residents	
+
+reads % = 0.13513513513513514

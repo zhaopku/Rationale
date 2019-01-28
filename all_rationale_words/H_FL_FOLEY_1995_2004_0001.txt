@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) am(0.0) delighted(0.0) to(0.0) be(0.0) back(0.0) here(0.0) in(0.0) our(0.0) Nation(1.0) 's(0.0) capital(0.0) for(0.0) the(0.0) opening(0.0) of(0.0) the(0.0) 108th(0.0) second(0.0) 
+session(0.0) of(0.0) Congress(0.0) .(0.0) As(0.0) we(0.0) start(0.0) a(0.0) new(0.0) year(0.0) ,(0.0) we(0.0) often(0.0) pray(0.0) for(0.0) hope(0.0) and(0.0) optimism(0.0) to(0.0) help(0.0) 
+lift(0.0) the(0.0) Nation(1.0) ,(0.0) to(0.0) help(0.0) guide(0.0) the(0.0) Nation(1.0) ,(0.0) to(0.0) help(0.0) give(0.0) it(0.0) strength(0.0) and(0.0) to(0.0) honor(0.0) the(0.0) character(0.0) 
+of(0.0) this(0.0) Nation(1.0) that(0.0) we(0.0) all(0.0) love(0.0) so(0.0) dearly(0.0) .(0.0) So(0.0) it(0.0) is(0.0) troubling(0.0) that(0.0) when(0.0) ,(0.0) in(0.0) the(0.0) first(0.0) 
+hour(0.0) of(0.0) the(0.0) first(0.0) day(0.0) of(0.0) the(0.0) 108th(0.0) second(0.0) session(0.0) ,(0.0) the(0.0) negativity(0.0) ringing(0.0) in(0.0) this(0.0) Chamber(0.0) is(0.0) deafening(0.0) ,(0.0) 
+the(0.0) criticism(1.0) ,(0.0) the(0.0) constant(1.0) carping(1.0) ,(0.0) the(0.0) antagonism(1.0) towards(0.0) this(0.0) President(1.0) knows(0.0) no(0.0) boundaries(0.0) .(0.0) Yet(0.0) the(0.0) American(0.0) public(1.0) 
+remains(0.0) optimistic(0.0) and(0.0) hopeful(0.0) because(0.0) that(0.0) is(0.0) in(0.0) our(0.0) core(0.0) nature(0.0) .(0.0) That(0.0) is(0.0) our(0.0) core(0.0) ;(0.0) that(0.0) is(0.0) who(0.0) 
+we(0.0) are(0.0) as(0.0) people(0.0) .(0.0) There(0.0) is(0.0) a(0.0) reason(0.0) Howard(0.0) Dean(0.0) went(0.0) down(0.0) in(0.0) ashes(0.0) ,(0.0) in(0.0) flames(0.0) in(0.0) Iowa(1.0) 
+yesterday(0.0) ,(0.0) because(0.0) for(0.0) the(0.0) last(0.0) 11(0.0) months(0.0) he(0.0) has(0.0) done(0.0) nothing(0.0) but(0.0) characterize(0.0) and(0.0) criticize(1.0) the(0.0) President(1.0) of(0.0) the(0.0) 
+United(0.0) States(0.0) in(0.0) negative(0.0) tones(0.0) .(0.0) Consequently(0.0) ,(0.0) John(0.0) Edwards(1.0) comes(0.0) in(0.0) second(0.0) because(0.0) he(0.0) was(0.0) at(0.0) least(0.0) talking(0.0) about(0.0) 
+hopeful(0.0) optimism(0.0) ,(0.0) a(0.0) spirit(0.0) that(0.0) is(0.0) imbued(0.0) in(0.0) the(0.0) character(0.0) of(0.0) this(0.0) Nation(1.0) and(0.0) its(0.0) people(0.0) .(0.0) As(0.0) we(0.0) 
+proceed(0.0) in(0.0) this(0.0) year(0.0) of(0.0) trials(0.0) and(0.0) tribulations(0.0) ,(0.0) you(0.0) have(0.0) to(0.0) look(0.0) back(0.0) at(0.0) the(0.0) past(0.0) year(0.0) and(0.0) look(0.0) 
+forward(0.0) to(0.0) the(0.0) future(0.0) and(0.0) hope(0.0) that(0.0) ,(0.0) rather(0.0) than(0.0) fighting(1.0) one(0.0) another(0.0) ,(0.0) we(0.0) can(0.0) join(0.0) together(0.0) in(0.0) finding(0.0) 
+solutions(0.0) to(0.0) our(0.0) common(0.0) problems(0.0) .(0.0) In(0.0) the(0.0) last(0.0) hour(0.0) and(0.0) a(0.0) half(0.0) I(0.0) have(0.0) heard(0.0) how(0.0) bad(0.0) the(0.0) economy(1.0) 
+is(0.0) .(0.0) Yet(0.0) at(0.0) this(0.0) time(0.0) our(0.0) Dow(1.0) Jones(0.0) Industrial(0.0) Average(0.0) is(0.0) over(0.0) 10,500(0.0) ;(0.0) NASDAQ(0.0) has(0.0) passed(0.0) the(0.0) 2,000(0.0) 
+threshold(0.0) .(0.0) Unemployment(1.0) is(0.0) dropping(0.0) .(0.0) Statistics(0.0) prove(0.0) it(0.0) .(0.0) Last(0.0) month(0.0) was(0.0) not(0.0) the(0.0) best(0.0) month(0.0) ;(0.0) but(0.0) anyone(0.0) 
+who(0.0) follows(0.0) the(0.0) economy(1.0) recognizes(0.0) there(0.0) is(0.0) a(0.0) lag(0.0) behind(0.0) employment(1.0) and(0.0) robust(0.0) employment(1.0) numbers(0.0) and(0.0) optimism(1.0) in(0.0) the(0.0) sector(1.0) 
+that(0.0) is(0.0) gauged(0.0) by(0.0) Wall(1.0) Street(1.0) .(0.0) Factory(0.0) orders(0.0) .(0.0) Sale(0.0) of(0.0) durable(0.0) goods(0.0) .(0.0) Light(0.0) trucks(0.0) .(0.0) Look(0.0) at(0.0) 
+the(0.0) numbers(0.0) .(0.0) Real(0.0) estate(0.0) .(0.0) First(0.0) time(0.0) home(0.0) buyers(0.0) .(0.0) People(0.0) 's(0.0) 401(0.0) ((0.0) k(0.0) )(0.0) s(0.0) now(0.0) back(0.0) 
+to(0.0) where(0.0) they(0.0) were(0.0) pre-1999(0.0) .(0.0) Their(0.0) IRA(1.0) 's(0.0) are(0.0) gaining(0.0) momentum(0.0) again(0.0) .(0.0) Their(0.0) financial(1.0) status(0.0) is(0.0) better(0.0) .(0.0) 
+Not(0.0) perfect(0.0) ,(0.0) not(0.0) perfect(0.0) ,(0.0) but(0.0) better(0.0) .(0.0) And(0.0) what(0.0) fuels(1.0) that(0.0) basic(0.0) surge(1.0) in(0.0) investor(1.0) confidence(0.0) ?(0.0) Well(0.0) 
+,(0.0) that(0.0) is(0.0) the(0.0) term(1.0) .(0.0) Investors(0.0) '(0.0) confidence(0.0) .(0.0) In(0.0) order(0.0) to(0.0) have(0.0) confidence(0.0) ,(0.0) you(0.0) have(0.0) to(0.0) have(0.0) 
+some(0.0) optimism(0.0) ,(0.0) and(0.0) you(0.0) have(0.0) to(0.0) have(0.0) some(0.0) hope(0.0) that(0.0) times(0.0) will(0.0) in(0.0) fact(0.0) get(0.0) better(0.0) .(0.0) But(0.0) if(0.0) 
+you(0.0) listen(0.0) to(0.0) the(0.0) cacophony(1.0) of(0.0) voices(0.0) from(0.0) the(0.0) other(0.0) side(0.0) of(0.0) the(0.0) aisle(0.0) ,(0.0) woe(0.0) is(0.0) me(0.0) ,(0.0) and(0.0) 
+how(0.0) desperate(1.0) we(0.0) are(0.0) .(0.0) It(0.0) was(0.0) telling(0.0) ,(0.0) one(0.0) of(0.0) the(0.0) speakers(0.0) offered(0.0) the(0.0) President(1.0) an(0.0) olive(0.0) branch(0.0) 
+
+
+----- below are rationale words -----
+
+Nation	
+
+Nation	Nation	
+Nation	
+
+criticism	constant	carping	antagonism	President	public	
+
+Iowa	
+criticize	President	
+Edwards	
+Nation	
+
+fighting	
+economy	
+Dow	
+Unemployment	
+economy	employment	employment	optimism	sector	
+Wall	Street	
+
+IRA	financial	
+fuels	surge	investor	
+term	
+
+cacophony	
+desperate	President	
+
+reads % = 0.07

@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) my(0.0) colleague(0.0) from(0.0) Massachusetts(1.0) and(0.0) I(0.0) are(0.0) actually(0.0) ,(0.0) I(0.0) think(0.0) ,(0.0) getting(0.0) fairly(0.0) fond(0.0) of(0.0) each(0.0) other(0.0) 
+,(0.0) spending(1.0) so(0.0) much(0.0) time(0.0) in(0.0) the(0.0) Rules(0.0) Committee(0.0) as(0.0) we(0.0) do(0.0) .(0.0) However(0.0) ,(0.0) I(0.0) really(0.0) have(0.0) to(0.0) call(0.0) 
+into(0.0) question(0.0) a(0.0) couple(0.0) of(0.0) comments(0.0) that(0.0) he(0.0) has(0.0) made(0.0) .(0.0) Is(0.0) this(0.0) bill(1.0) really(0.0) a(0.0) step(0.0) backwards(0.0) when(0.0) we(0.0) 
+'re(0.0) funding(1.0) our(0.0) troops(1.0) for(0.0) the(0.0) rest(0.0) of(0.0) the(0.0) year(0.0) ,(0.0) taking(0.0) away(0.0) the(0.0) uncertainty(1.0) that(0.0) they(0.0) have(0.0) just(0.0) in(0.0) 
+case(0.0) the(0.0) government(1.0) votes(1.0) to(0.0) shut(1.0) down(0.0) or(0.0) the(0.0) Senate(0.0) doesn't(0.0) act(0.0) as(0.0) it(0.0) should(0.0) and(0.0) allows(0.0) the(0.0) government(1.0) to(0.0) 
+shut(1.0) down(0.0) ?(0.0) Do(0.0) we(0.0) really(0.0) need(0.0) to(0.0) continue(0.0) all(0.0) the(0.0) appropriations(1.0) for(0.0) LIHEAP(1.0) ,(0.0) the(0.0) funding(1.0) for(0.0) helping(0.0) people(0.0) 
+pay(1.0) their(0.0) heating(1.0) bills(1.0) ,(0.0) when(0.0) we(0.0) are(0.0) in(0.0) April(0.0) this(0.0) year(0.0) ?(0.0) This(0.0) is(0.0) money(1.0) that(0.0) goes(0.0) until(0.0) the(0.0) 
+end(0.0) of(0.0) September(0.0) .(0.0) I(0.0) hardly(0.0) think(0.0) that(0.0) we(0.0) 're(0.0) going(0.0) to(0.0) have(0.0) people(0.0) freezing(0.0) to(0.0) death(1.0) in(0.0) this(0.0) country(1.0) 
+between(0.0) now(0.0) and(0.0) September(0.0) 30(0.0) .(0.0) Do(0.0) we(0.0) need(0.0) to(0.0) be(0.0) looking(0.0) after(0.0) seniors(1.0) and(0.0) children(0.0) ?(0.0) Obviously(0.0) ,(0.0) we(0.0) 
+do(0.0) .(0.0) Republicans(0.0) are(0.0) not(0.0) heartless(1.0) people(0.0) .(0.0) But(0.0) we(0.0) have(0.0) to(0.0) look(0.0) after(0.0) them(0.0) in(0.0) a(0.0) responsible(0.0) way(0.0) .(0.0) 
+Cutting(0.0) spending(1.0) is(0.0) the(0.0) way(0.0) to(0.0) be(0.0) responsible(0.0) to(0.0) them(0.0) .(0.0) And(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) have(0.0) to(0.0) remind(0.0) 
+my(0.0) colleague(0.0) again(0.0) that(0.0) we(0.0) are(0.0) here(0.0) to(0.0) fix(0.0) a(0.0) problem(0.0) that(0.0) they(0.0) left(0.0) for(0.0) us(0.0) last(0.0) year(0.0) :(0.0) funding(1.0) 
+the(0.0) Federal(1.0) Government(1.0) for(0.0) the(0.0) rest(0.0) of(0.0) this(0.0) year(0.0) .(0.0) Yesterday(0.0) in(0.0) the(0.0) Rules(0.0) Committee(0.0) ,(0.0) one(0.0) of(0.0) our(0.0) colleagues(0.0) 
+said(0.0) ,(0.0) Let's(0.0) stop(0.0) talking(0.0) about(0.0) the(0.0) past(0.0) and(0.0) talk(0.0) about(0.0) the(0.0) future(0.0) ,(0.0) when(0.0) we(0.0) brought(0.0) this(0.0) up(0.0) .(0.0) 
+Well(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) Republicans(0.0) would(1.0) like(1.0) nothing(1.0) more(0.0) than(0.0) to(0.0) do(0.0) that(0.0) ,(0.0) but(0.0) we(0.0) 're(0.0) doing(0.0) all(0.0) 
+that(0.0) we(0.0) can(0.0) to(0.0) avoid(0.0) a(0.0) government(1.0) shutdown(1.0) ,(0.0) and(0.0) that(0.0) is(0.0) what(0.0) this(0.0) rule(1.0) and(0.0) bill(1.0) are(1.0) all(0.0) about(0.0) 
+this(0.0) morning(0.0) .(0.0) Republicans(0.0) understand(0.0) that(0.0) unless(0.0) we(0.0) change(0.0) course(0.0) ,(0.0) higher(0.0) taxes(1.0) ,(0.0) inflation(1.0) ,(0.0) interest(0.0) rates(1.0) and(0.0) unemployment(1.0) 
+will(0.0) cripple(1.0) our(0.0) economy(1.0) and(0.0) rob(1.0) our(0.0) children(0.0) of(0.0) the(0.0) opportunity(0.0) to(0.0) pursue(1.0) the(0.0) American(0.0) Dream(0.0) .(0.0) Let's(0.0) be(0.0) clear(0.0) 
+.(0.0) We(0.0) do(0.0) n't(0.0) have(0.0) deficits(1.0) because(0.0) Americans(1.0) are(0.0) taxed(1.0) too(0.0) little(0.0) .(0.0) We(0.0) have(0.0) deficits(1.0) because(0.0) Washington(1.0) spends(1.0) too(0.0) 
+much(0.0) .(0.0) We(0.0) 've(0.0) got(0.0) to(0.0) stop(0.0) spending(1.0) money(1.0) we(0.0) do(0.0) n't(0.0) have(0.0) .(0.0) Right(0.0) now(0.0) ,(0.0) we(0.0) 're(0.0) borrowing(1.0) 
+43(0.0) cents(0.0) for(0.0) every(0.0) dollar(1.0) that(0.0) we(0.0) spend(1.0) .(0.0) I(0.0) want(0.0) to(0.0) talk(0.0) a(0.0) little(0.0) bit(0.0) about(0.0) the(0.0) long-term(1.0) effects(0.0) 
+of(0.0) what(0.0) we're(0.0) planning(0.0) to(0.0) do(0.0) in(0.0) this(0.0) Congress(0.0) this(0.0) spring(0.0) under(0.0) Republican(0.0) majority(1.0) .(1.0) The(1.0) budget(1.0) resolution(1.0) introduced(1.0) by(1.0) 
+Budget(1.0) Chairman(1.0) Paul(1.0) Ryan(1.0) and(1.0) passed(0.0) out(0.0) of(0.0) the(0.0) Budget(0.0) Committee(0.0) last(0.0) evening(0.0) will(0.0) spur(0.0) job(0.0) creation(0.0) ,(0.0) stops(0.0) spending(1.0) 
+money(1.0) we(0.0) do(0.0) n't(0.0) have(0.0) ,(0.0) and(0.0) lifts(0.0) the(0.0) crushing(1.0) burden(1.0) of(0.0) debt(1.0) .(0.0) It(0.0) 's(0.0) a(0.0) plan(0.0) that(0.0) puts(0.0) 
+the(0.0) budget(1.0) on(0.0) a(0.0) path(0.0) to(0.0) fiscal(1.0) stability(0.0) and(0.0) our(0.0) country(1.0) on(0.0) a(0.0) path(0.0) to(0.0) prosperity(1.0) by(0.0) cutting(0.0) $(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	Massachusetts	
+spending	
+bill	
+funding	troops	uncertainty	
+government	votes	shut	government	
+shut	appropriations	LIHEAP	funding	
+pay	heating	bills	money	
+death	country	
+seniors	
+heartless	
+spending	Speaker	
+funding	
+Federal	Government	
+
+Speaker	would	like	nothing	
+government	shutdown	rule	bill	are	
+taxes	inflation	rates	unemployment	
+cripple	economy	rob	pursue	
+deficits	Americans	taxed	deficits	Washington	spends	
+spending	money	borrowing	
+dollar	spend	long-term	
+majority	.	The	budget	resolution	introduced	by	
+Budget	Chairman	Paul	Ryan	and	spending	
+money	crushing	burden	debt	
+budget	fiscal	country	prosperity	
+
+reads % = 0.156

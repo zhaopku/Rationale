@@ -1,0 +1,24 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) you(0.0) and(0.0) I(0.0) and(0.0) many(0.0) have(0.0) been(0.0) working(0.0) for(0.0) a(0.0) very(0.0) long(0.0) time(0.0) ,(0.0) many(0.0) years(0.0) in(0.0) fact(0.0) 
+,(0.0) on(0.0) a(0.0) balanced(0.0) budget(1.0) amendment(1.0) to(0.0) the(0.0) Constitution(1.0) .(0.0) It(0.0) has(0.0) come(0.0) to(0.0) votes(1.0) here(0.0) in(0.0) the(0.0) House(0.0) several(0.0) 
+times(0.0) falling(0.0) very(0.0) narrowly(1.0) short(0.0) .(0.0) But(0.0) again(0.0) today(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) with(0.0) your(0.0) help(0.0) and(0.0) the(0.0) help(0.0) of(0.0) 
+the(0.0) gentleman(0.0) in(0.0) the(0.0) well(0.0) ,(0.0) we(0.0) now(0.0) have(0.0) 218(0.0) signatures(0.0) on(0.0) a(0.0) discharge(0.0) petition(0.0) ,(0.0) which(0.0) means(0.0) that(0.0) the(0.0) 
+balanced(0.0) budget(1.0) amendment(1.0) to(0.0) the(0.0) Constitution(1.0) will(0.0) be(0.0) debated(1.0) and(0.0) voted(0.0) upon(0.0) probably(0.0) by(0.0) mid-March(0.0) .(0.0) I(0.0) am(0.0) delighted(0.0) that(0.0) 
+we(0.0) have(0.0) all(0.0) worked(0.0) so(0.0) closely(0.0) together(0.0) .(0.0) I(0.0) think(0.0) the(0.0) American(0.0) people(0.0) want(0.0) a(0.0) balanced(0.0) budget(1.0) amendment(1.0) to(0.0) the(0.0) 
+Constitution(1.0) .(0.0) And(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Pennsylvania(1.0) and(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) for(0.0) their(0.0) outstanding(0.0) support(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	
+budget	amendment	Constitution	votes	
+narrowly	Speaker	
+
+budget	amendment	Constitution	debated	
+budget	amendment	
+Constitution	Pennsylvania	
+
+
+reads % = 0.1056338028169014

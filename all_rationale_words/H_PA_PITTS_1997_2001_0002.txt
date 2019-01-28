@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) on(0.0) this(0.0) day(0.0) in(0.0) history(1.0) ,(0.0) February(0.0) 6(0.0) ,(0.0) 1865(0.0) ,(0.0) 136(0.0) years(0.0) ago(0.0) ,(0.0) the(0.0) 13th(0.0) amendment(0.0) went(0.0) 
+into(0.0) effect(0.0) ,(0.0) ending(0.0) 246(0.0) years(0.0) of(0.0) slavery(1.0) in(0.0) America(1.0) .(0.0) Slavery(1.0) was(0.0) introduced(0.0) into(0.0) America(1.0) in(0.0) 1619(1.0) by(0.0) the(0.0) 
+Dutch(0.0) and(0.0) subsequently(0.0) encouraged(0.0) in(0.0) the(0.0) Colonies(0.0) by(0.0) the(0.0) British(0.0) Crown(0.0) .(0.0) In(0.0) fact(0.0) ,(0.0) it(0.0) was(0.0) not(0.0) until(0.0) after(0.0) 
+the(0.0) Declaration(1.0) of(0.0) Independence(1.0) was(0.0) signed(0.0) that(0.0) it(0.0) became(0.0) possible(0.0) to(0.0) abolish(1.0) slavery(1.0) ,(0.0) and(0.0) half(0.0) of(0.0) the(0.0) States(0.0) promptly(0.0) 
+did(0.0) it(0.0) at(0.0) that(0.0) time(0.0) .(0.0) Significantly(0.0) ,(0.0) the(0.0) major(0.0) opposition(1.0) to(0.0) slavery(1.0) in(0.0) America(1.0) was(0.0) led(0.0) by(0.0) religious(1.0) groups(0.0) 
+like(0.0) the(0.0) Quakers(1.0) ,(0.0) Presbyterians(1.0) ,(0.0) Congregationalists(1.0) ,(0.0) and(0.0) Methodists(1.0) ,(0.0) and(0.0) was(0.0) joined(0.0) by(0.0) many(0.0) of(0.0) the(0.0) religious(1.0) Founding(0.0) 
+Fathers(0.0) ,(0.0) including(0.0) signers(1.0) of(0.0) the(0.0) Declaration(1.0) like(0.0) Benjamin(0.0) Rush(1.0) ,(0.0) John(0.0) Witherspoon(1.0) ,(0.0) Samuel(0.0) Adams(1.0) ,(0.0) John(0.0) Hancock(1.0) ,(0.0) 
+and(0.0) John(0.0) Adams(1.0) ,(0.0) as(0.0) well(0.0) as(0.0) the(0.0) signers(1.0) of(0.0) the(0.0) Constitution(0.0) like(0.0) Rufus(0.0) King(0.0) ,(0.0) John(0.0) Dickinson(1.0) ,(0.0) James(0.0) 
+Wilson(1.0) ,(0.0) and(0.0) William(0.0) Livingston(1.0) .(0.0) While(0.0) much(0.0) attention(0.0) today(0.0) is(0.0) often(0.0) paid(0.0) to(0.0) Founding(1.0) Fathers(0.0) who(0.0) owned(0.0) slaves(0.0) ,(0.0) 
+nearly(0.0) nothing(0.0) is(0.0) said(0.0) of(0.0) the(0.0) many(0.0) who(0.0) opposed(0.0) slavery(1.0) .(0.0) Therefore(0.0) ,(0.0) it(0.0) is(0.0) worth(0.0) remembering(0.0) that(0.0) the(0.0) work(0.0) 
+of(0.0) so(0.0) many(0.0) of(0.0) our(0.0) Founding(1.0) Fathers(0.0) to(0.0) end(0.0) slavery(1.0) finally(0.0) came(0.0) to(0.0) maturity(0.0) when(0.0) the(0.0) 13th(0.0) amendment(1.0) was(0.0) adopted(1.0) 
+,(0.0) 136(0.0) years(0.0) ago(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+history	
+slavery	America	Slavery	America	1619	
+
+Declaration	Independence	abolish	slavery	
+opposition	slavery	America	religious	
+Quakers	Presbyterians	Congregationalists	Methodists	religious	
+signers	Declaration	Rush	Witherspoon	Adams	Hancock	
+Adams	signers	Dickinson	
+Wilson	Livingston	Founding	
+slavery	
+Founding	slavery	amendment	adopted	
+
+
+reads % = 0.1592920353982301

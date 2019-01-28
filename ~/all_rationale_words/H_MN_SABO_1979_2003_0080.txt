@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) object(1.0) to(0.0) the(0.0) vote(1.0) on(0.0) the(0.0) ground(0.0) that(0.0) a(0.0) quorum(0.0) is(0.0) not(1.0) present(1.0) and(0.0) make(0.0) the(0.0) point(0.0) of(0.0) 
+order(0.0) that(0.0) a(0.0) quorum(0.0) is(0.0) not(0.0) present(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+object	vote	not	present	
+present	
+
+reads % = 0.1724137931034483

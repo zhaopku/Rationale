@@ -1,0 +1,44 @@
+This is from a Republican
+----- below is the original text -----
+The(0.0) CHAIR(0.0) .(0.0) The(0.0) Clerk(1.0) will(0.0) report(1.0) the(0.0) amendment(1.0) .(0.0) The(0.0) Clerk(0.0) read(1.0) as(0.0) follows(1.0) :(0.0) Page(0.0) 4(0.0) ,(0.0) line(0.0) 14(0.0) 
+,(0.0) after(0.0) the(0.0) dollar(0.0) amount(0.0) ,(0.0) insert(0.0) ``(0.0) ((0.0) reduced(1.0) by(0.0) $(0.0) 38,513,000(1.0) )(0.0) ''(0.0) Page(1.0) 5(0.0) ,(0.0) line(0.0) 6(0.0) 
+,(0.0) after(0.0) the(0.0) dollar(0.0) amount(0.0) ,(0.0) insert(0.0) ``(0.0) ((0.0) reduced(1.0) by(0.0) $(0.0) 38,513,000(1.0) )(0.0) ''(0.0) .(0.0) Page(1.0) 63(1.0) ,(0.0) line(0.0) 
+6(0.0) ,(0.0) after(0.0) the(0.0) dollar(0.0) amount(0.0) ,(0.0) insert(0.0) ``(0.0) ((0.0) increased(0.0) by(0.0) $(0.0) 38,513,000(1.0) )(0.0) ''(0.0) .(0.0) The(0.0) CHAIR(0.0) .(0.0) 
+The(0.0) gentleman(0.0) is(0.0) recognized(0.0) for(0.0) 5(0.0) minutes(1.0) .(0.0) Madam(1.0) Chairman(1.0) ,(0.0) my(0.0) amendment(1.0) would(0.0) zero(1.0) out(0.0) our(0.0) contribution(1.0) to(0.0) the(0.0) 
+brand-new(1.0) NATO(1.0) headquarters(1.0) in(0.0) Brussels(1.0) and(0.0) transfer(1.0) that(0.0) amount(0.0) ,(0.0) more(0.0) than(0.0) $(0.0) 38(0.0) million(0.0) ,(0.0) to(0.0) the(0.0) spending(1.0) reduction(1.0) 
+account(0.0) to(0.0) help(0.0) us(0.0) deal(1.0) with(0.0) our(0.0) debt(0.0) .(0.0) This(0.0) line(0.0) item(0.0) within(0.0) the(0.0) bill(0.0) is(0.0) the(0.0) very(0.0) definition(1.0) of(0.0) 
+ridiculous(1.0) .(0.0) The(0.0) U.S.(0.0) is(0.0) furloughing(1.0) civilian(1.0) military(1.0) personnel(1.0) and(0.0) sacrificing(0.0) our(0.0) own(0.0) military(1.0) readiness(1.0) here(0.0) at(0.0) home(0.0) ,(0.0) policies(1.0) 
+with(0.0) which(0.0) I(0.0) disagree(1.0) .(0.0) And(0.0) yet(1.0) ,(0.0) here(0.0) we(0.0) are(0.0) ,(0.0) sending(0.0) millions(1.0) of(0.0) dollars(1.0) overseas(1.0) to(0.0) build(0.0) a(0.0) 
+lavish(0.0) new(1.0) headquarters(1.0) for(0.0) the(0.0) international(0.0) bureaucrats(1.0) in(0.0) NATO(1.0) .(0.0) Madam(0.0) Chairman(1.0) ,(0.0) the(0.0) planned(1.0) NATO(0.0) headquarters(1.0) is(0.0) an(0.0) unfortunate(1.0) 
+example(0.0) of(0.0) excess(1.0) and(0.0) waste(0.0) .(0.0) While(1.0) every(0.0) NATO(1.0) member-nation(1.0) is(0.0) cutting(0.0) back(0.0) on(0.0) overall(0.0) spending(1.0) ,(0.0) the(0.0) new(1.0) headquarters(1.0) 
+remains(0.0) on(0.0) track(1.0) as(0.0) a(0.0) monument(1.0) to(0.0) bureaucracy(1.0) .(0.0) In(0.0) total(0.0) ,(0.0) the(0.0) building(0.0) will(0.0) cost(0.0) well(0.0) over(0.0) $(0.0) 1(0.0) 
+billion(1.0) to(0.0) build(0.0) ,(0.0) and(0.0) it(0.0) 's(0.0) taken(0.0) 13(1.0) years(0.0) just(1.0) to(0.0) finalize(0.0) the(0.0) plans(1.0) .(0.0) If(1.0) we(0.0) are(0.0) serious(0.0) 
+about(0.0) confronting(0.0) our(1.0) spending(1.0) problem(0.0) ,(0.0) we(0.0) must(0.0) fundamentally(1.0) re-evaluate(1.0) our(0.0) priorities(1.0) .(0.0) We(0.0) do(0.0) n't(0.0) need(0.0) to(0.0) help(0.0) NATO(0.0) 
+build(0.0) a(0.0) new(1.0) headquarters(1.0) .(0.0) We(0.0) need(0.0) to(0.0) ask(0.0) what(0.0) are(0.0) we(0.0) doing(0.0) in(0.0) NATO(1.0) in(0.0) the(0.0) first(0.0) place(0.0) .(0.0) 
+The(0.0) Cold(1.0) War(0.0) is(0.0) over(0.0) .(0.0) It(0.0) 's(0.0) time(0.0) to(0.0) stop(0.0) policing(1.0) Europe(1.0) and(0.0) start(0.0) worrying(0.0) about(0.0) our(0.0) deficit(1.0) .(0.0) 
+I(0.0) encourage(1.0) all(0.0) Members(0.0) to(0.0) support(0.0) this(0.0) commonsense(1.0) amendment(1.0) to(0.0) help(0.0) us(0.0) reduce(1.0) our(0.0) spending(1.0) and(0.0) to(0.0) pay(0.0) off(0.0) our(0.0) 
+unsustainable(1.0) debt(0.0) .(0.0) Madam(0.0) Chairman(1.0) ,(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Clerk	report	amendment	read	follows	
+reduced	38,513,000	Page	
+reduced	38,513,000	Page	63	
+38,513,000	
+minutes	Madam	Chairman	amendment	zero	contribution	
+brand-new	NATO	headquarters	Brussels	transfer	spending	reduction	
+deal	definition	
+ridiculous	furloughing	civilian	military	personnel	military	readiness	policies	
+disagree	yet	millions	dollars	overseas	
+new	headquarters	bureaucrats	NATO	Chairman	planned	headquarters	unfortunate	
+excess	While	NATO	member-nation	spending	new	headquarters	
+track	monument	bureaucracy	
+billion	13	just	plans	If	
+our	spending	fundamentally	re-evaluate	priorities	
+new	headquarters	NATO	
+Cold	policing	Europe	deficit	
+encourage	commonsense	amendment	reduce	spending	
+unsustainable	Chairman	time	
+
+reads % = 0.23595505617977527

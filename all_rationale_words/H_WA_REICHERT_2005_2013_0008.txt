@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) rise(0.0) today(0.0) with(0.0) my(0.0) colleague(0.0) from(0.0) Texas(0.0) ((0.0) Mr.(0.0) Doggett(1.0) )(0.0) to(1.0) urge(1.0) support(1.0) of(1.0) H.R(0.0) .(0.0) 
+1896(0.0) ,(0.0) the(0.0) International(0.0) Child(0.0) Support(0.0) Recovery(0.0) Improvement(0.0) Act(0.0) of(0.0) 2013(0.0) .(0.0) This(0.0) bill(0.0) provides(0.0) the(0.0) implementing(0.0) legislation(0.0) for(0.0) The(0.0) 
+Hague(0.0) Convention(0.0) on(0.0) International(0.0) Recovery(0.0) of(0.0) Child(0.0) Support(0.0) and(0.0) other(0.0) forms(0.0) of(0.0) family(0.0) maintenance(0.0) ,(0.0) ensuring(0.0) that(0.0) law(1.0) enforcement(1.0) authorities(0.0) 
+will(0.0) be(0.0) able(0.0) to(0.0) enforce(0.0) child(0.0) support(0.0) orders(0.0) even(0.0) when(0.0) a(0.0) child(0.0) or(0.0) parent(0.0) lives(0.0) overseas(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) 
+as(0.0) a(0.0) former(0.0) sheriff(1.0) in(0.0) King(0.0) County(1.0) ,(0.0) which(0.0) is(0.0) in(0.0) Seattle(1.0) ,(0.0) Washington(1.0) --(0.0) for(0.0) those(0.0) in(0.0) the(0.0) Chamber(0.0) 
+who(0.0) may(0.0) not(0.0) know(0.0) ,(0.0) I(0.0) worked(0.0) there(0.0) for(0.0) 33(0.0) years(0.0) --(0.0) I(0.0) had(0.0) the(0.0) opportunity(0.0) of(0.0) putting(0.0) together(0.0) a(0.0) 
+unit(0.0) that(0.0) was(0.0) devoted(0.0) to(0.0) finding(0.0) parents(0.0) who(0.0) were(0.0) n't(0.0) taking(0.0) on(0.0) their(0.0) financial(0.0) responsibility(0.0) for(0.0) their(0.0) children(0.0) and(0.0) providing(0.0) 
+those(0.0) financial(1.0) needs(0.0) .(0.0) What(0.0) we(0.0) learned(0.0) was(0.0) not(0.0) only(0.0) is(0.0) it(0.0) important(0.0) for(0.0) the(0.0) parents(0.0) to(0.0) be(0.0) a(0.0) part(0.0) 
+of(0.0) their(0.0) child(0.0) 's(0.0) life(0.0) when(0.0) they(0.0) leave(0.0) financially(1.0) --(0.0) to(0.0) give(0.0) them(0.0) the(0.0) health(1.0) care(1.0) benefits(1.0) they(0.0) need(0.0) ,(0.0) 
+the(0.0) education(1.0) that(0.0) they(0.0) might(0.0) need(0.0) ,(0.0) any(0.0) other(0.0) financial(1.0) needs(0.0) that(0.0) the(0.0) child(0.0) might(0.0) need(0.0) --(0.0) but(0.0) it(0.0) also(0.0) 
+provides(0.0) a(0.0) social(0.0) benefit(0.0) ,(0.0) a(0.0) real(0.0) benefit(0.0) of(0.0) involvement(1.0) by(0.0) that(0.0) parent(0.0) .(0.0) Once(0.0) that(0.0) parent(0.0) gets(0.0) financially(1.0) involved(0.0) 
+,(0.0) that(0.0) parent(0.0) is(0.0) intimately(0.0) involved(0.0) with(0.0) that(0.0) child(0.0) 's(0.0) life(0.0) .(0.0) Usually(0.0) it(0.0) is(0.0) the(0.0) father(0.0) --(0.0) sad(0.0) to(0.0) 
+say(0.0) just(0.0) a(0.0) couple(0.0) of(0.0) days(0.0) after(0.0) Father(0.0) 's(0.0) Day(0.0) .(0.0) Ninety-five(1.0) to(0.0) 98(0.0) percent(0.0) of(0.0) the(0.0) parents(0.0) who(0.0) leave(0.0) 
+and(0.0) do(0.0) n't(0.0) continue(0.0) to(0.0) support(0.0) their(0.0) child(0.0) financially(1.0) ,(0.0) it(0.0) is(0.0) usually(0.0) the(0.0) father(0.0) .(0.0) When(0.0) that(0.0) father(0.0) and(0.0) 
+that(0.0) parent(0.0) gets(0.0) involved(0.0) financially(1.0) ,(0.0) they(0.0) all(0.0) of(0.0) a(0.0) sudden(0.0) realize(0.0) they(0.0) 've(0.0) missed(0.0) out(0.0) on(0.0) that(0.0) child(0.0) 's(0.0) 
+life(0.0) .(0.0) They've(0.0) missed(0.0) soccer(0.0) games(0.0) ,(0.0) baseball(0.0) games(0.0) .(0.0) They(0.0) 've(0.0) missed(0.0) their(0.0) theatrical(1.0) performances(0.0) ,(0.0) their(0.0) participation(1.0) in(0.0) 
+every(0.0) school(1.0) support(0.0) ,(0.0) and(0.0) the(0.0) rest(0.0) of(0.0) their(0.0) lives(0.0) .(0.0) This(0.0) also(0.0) reduces(0.0) crime(1.0) in(0.0) my(0.0) experience(0.0) --(0.0) again(0.0) 
+,(0.0) going(0.0) back(0.0) as(0.0) the(0.0) sheriff(1.0) --(0.0) if(0.0) these(0.0) kids(0.0) have(0.0) both(0.0) parents(0.0) involved(0.0) .(0.0) It(0.0) keeps(0.0) them(0.0) involved(0.0) with(0.0) 
+the(0.0) family(0.0) and(0.0) not(0.0) in(0.0) other(0.0) activities(0.0) that(0.0) we(0.0) would(0.0) really(0.0) prefer(0.0) them(0.0) not(0.0) to(0.0) be(0.0) involved(0.0) in(0.0) .(0.0) Currently(0.0) 
+,(0.0) States(0.0) have(0.0) the(0.0) option(0.0) to(0.0) recognize(0.0) child(0.0) support(0.0) orders(0.0) from(0.0) other(0.0) countries(1.0) --(0.0) and(0.0) many(0.0) of(0.0) them(0.0) do(0.0) .(0.0) 
+However(0.0) ,(0.0) States(0.0) have(0.0) found(0.0) that(0.0) other(0.0) countries(1.0) are(0.0) less(0.0) cooperative(1.0) in(0.0) recognizing(1.0) our(0.0) orders(0.0) .(0.0) The(0.0) Hague(1.0) Convention(0.0) seeks(0.0) 
+to(0.0) address(0.0) this(0.0) issue(0.0) by(0.0) establishing(0.0) a(0.0) standardized(0.0) process(0.0) so(0.0) more(0.0) countries(1.0) cooperate(0.0) in(0.0) collecting(0.0) child(0.0) support(0.0) .(0.0) Negotiation(0.0) of(0.0) 
+this(0.0) treaty(1.0) began(0.0) in(0.0) 2003(0.0) ,(0.0) and(0.0) it(0.0) was(0.0) signed(0.0) eventually(0.0) in(0.0) 2007(0.0) .(0.0) The(0.0) Senate(1.0) acted(0.0) on(0.0) this(0.0) in(0.0) 
+2010(0.0) .(0.0) They(0.0) gave(0.0) their(0.0) consent(0.0) .(0.0) The(0.0) treaty(1.0) provides(0.0) many(0.0) protections(1.0) for(0.0) our(0.0) children(0.0) ,(0.0) but(0.0) States(1.0) can(0.0) not(0.0) 
+take(0.0) advantage(0.0) of(0.0) the(0.0) benefits(1.0) until(0.0) Congress(0.0) moves(0.0) forward(0.0) .(0.0) Enforcement(1.0) of(0.0) child(0.0) support(0.0) orders(0.0) should(0.0) not(0.0) end(0.0) at(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	Doggett	to	urge	support	of	
+
+law	enforcement	
+Speaker	
+sheriff	County	Seattle	Washington	
+
+
+financial	
+financially	health	care	benefits	
+education	financial	
+involvement	financially	
+
+Ninety-five	
+financially	
+financially	
+theatrical	participation	
+school	crime	
+sheriff	
+
+countries	
+countries	cooperative	recognizing	Hague	
+countries	
+treaty	Senate	
+treaty	protections	States	
+benefits	Enforcement	
+
+reads % = 0.086

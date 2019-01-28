@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) yield(0.0) 1(0.0) minute(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) Jersey(1.0) ((0.0) Mr.(0.0) Andrews(1.0) )(0.0) .(0.0) ((0.0) Mr.(0.0) ANDREWS(1.0) asked(0.0) 
+and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) )(0.0) 
+
+
+----- below are rationale words -----
+
+Jersey	Andrews	ANDREWS	
+
+
+reads % = 0.09090909090909091

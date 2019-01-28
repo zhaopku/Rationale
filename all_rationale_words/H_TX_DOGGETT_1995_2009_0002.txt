@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+What(0.0) progress(0.0) ,(0.0) when(0.0) this(0.0) Congress(0.0) and(0.0) our(0.0) new(0.0) President(1.0) accord(0.0) such(0.0) a(0.0) high(0.0) priority(0.0) to(0.0) the(0.0) health(1.0) of(0.0) our(0.0) children(0.0) 
+.(0.0) A(0.0) healthy(0.0) body(0.0) ,(0.0) like(0.0) an(0.0) educated(1.0) mind(0.0) ,(0.0) is(0.0) an(0.0) opportunity(0.0) that(0.0) all(0.0) children(0.0) should(0.0) share(0.0) --(0.0) an(0.0) 
+opportunity(0.0) denied(1.0) to(0.0) over(0.0) 1(0.0) million(0.0) Texas(1.0) children(0.0) because(0.0) of(0.0) the(0.0) failures(1.0) of(0.0) Governor(0.0) Bush(1.0) and(0.0) culminating(1.0) in(0.0) the(0.0) ignominious(1.0) 
+vetoes(1.0) of(0.0) President(0.0) Bush(1.0) .(0.0) Good(0.0) health(1.0) care(1.0) also(0.0) means(0.0) prevention(1.0) ,(0.0) preventing(1.0) the(0.0) scourge(1.0) of(0.0) tobacco-related(1.0) diseases(1.0) .(0.0) By(0.0) 
+hiking(0.0) tobacco(1.0) taxes(1.0) today(0.0) ,(0.0) we(0.0) will(0.0) reduce(1.0) childhood(0.0) nicotine(1.0) addiction(1.0) tomorrow(0.0) .(0.0) And(0.0) this(0.0) bill(1.0) takes(1.0) modest(0.0) steps(0.0) to(0.0) 
+reduce(1.0) tobacco(1.0) smuggling(1.0) ,(0.0) while(0.0) adding(0.0) a(0.0) new(0.0) provision(1.0) that(0.0) I(0.0) authored(0.0) directing(0.0) the(0.0) Treasury(1.0) Department(0.0) to(0.0) move(0.0) forward(0.0) promptly(0.0) 
+on(0.0) more(0.0) effective(0.0) ways(0.0) to(0.0) reduce(1.0) this(0.0) serious(0.0) public(1.0) health(1.0) and(0.0) law(1.0) enforcement(1.0) problem(0.0) .(0.0) It(0.0) is(0.0) ironic(0.0) that(0.0) today(0.0) 
+,(0.0) once(0.0) again(0.0) ,(0.0) the(0.0) Republican(1.0) leadership(1.0) has(1.0) one(1.0) complaint(1.0) :(1.0) That(1.0) we(1.0) Democrats(1.0) move(1.0) too(1.0) fast(1.0) ,(1.0) to(1.0) do(1.0) 
+too(1.0) much(1.0) ,(1.0) for(0.0) too(0.0) many(0.0) young(0.0) children(0.0) across(0.0) our(0.0) country(1.0) when(0.0) it(0.0) comes(0.0) to(0.0) health(1.0) care(1.0) .(0.0) We(0.0) plead(1.0) 
+guilty(1.0) .(0.0) And(0.0) we(0.0) will(0.0) keep(0.0) pushing(1.0) to(0.0) give(0.0) these(0.0) children(0.0) the(0.0) care(1.0) they(0.0) deserve(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+President	health	
+educated	
+denied	Texas	failures	Bush	culminating	ignominious	
+vetoes	Bush	health	care	prevention	preventing	scourge	tobacco-related	diseases	
+tobacco	taxes	reduce	nicotine	addiction	bill	takes	
+reduce	tobacco	smuggling	provision	Treasury	
+reduce	public	health	law	enforcement	
+Republican	leadership	has	one	complaint	:	That	we	Democrats	move	too	fast	,	to	do	
+too	much	,	country	health	care	plead	
+guilty	pushing	care	deserve	
+
+reads % = 0.3096446700507614

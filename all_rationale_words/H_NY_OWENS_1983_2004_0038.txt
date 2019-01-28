@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Are(0.0) you(0.0) wiping(0.0) one(0.0) bill(1.0) from(0.0) the(0.0) calendar(0.0) ?(0.0) Point(0.0) of(0.0) inquiry(0.0) .(0.0) Will(0.0) somebody(0.0) explain(0.0) what(0.0) happens(0.0) to(0.0) the(0.0) remaining(0.0) 
+bill(1.0) ?(1.0) 
+
+
+----- below are rationale words -----
+
+bill	
+bill	?	
+
+reads % = 0.13043478260869565

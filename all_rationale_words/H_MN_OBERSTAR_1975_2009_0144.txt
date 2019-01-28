@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Chairman(0.0) ,(0.0) we(0.0) have(0.0) only(0.0) one(0.0) speaker(0.0) left(0.0) ,(0.0) which(0.0) is(0.0) myself(0.0) .(0.0) Does(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) Jersey(1.0) have(0.0) 
+any(0.0) time(0.0) remaining(0.0) ?(0.0) The(0.0) CHAIR(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) New(0.0) Jersey(1.0) has(0.0) 30(0.0) seconds(0.0) remaining(0.0) .(0.0) Mr.(0.0) LoBIONDO(1.0) .(0.0) 
+Madam(0.0) Chairman(0.0) ,(0.0) once(0.0) again(0.0) I(0.0) would(0.0) like(0.0) to(0.0) thank(0.0) Chairman(0.0) Oberstar(1.0) ,(0.0) Chairman(0.0) Cummings(1.0) ,(0.0) Ranking(0.0) Member(0.0) Mica(1.0) and(0.0) 
+our(0.0) colleagues(0.0) who(0.0) have(0.0) worked(0.0) so(0.0) hard(0.0) on(0.0) this(0.0) .(0.0) I(0.0) want(0.0) to(0.0) reiterate(0.0) how(0.0) important(0.0) this(0.0) is(0.0) for(0.0) the(0.0) 
+men(0.0) and(0.0) women(0.0) of(0.0) the(0.0) Coast(0.0) Guard(0.0) ,(0.0) who(0.0) are(0.0) putting(0.0) their(0.0) lives(0.0) on(0.0) the(0.0) line(0.0) every(0.0) day(0.0) for(0.0) us(0.0) 
+,(0.0) and(0.0) to(0.0) repeat(0.0) what(0.0) I(0.0) said(0.0) earlier(0.0) ,(0.0) where(0.0) I(0.0) believe(0.0) that(0.0) this(0.0) is(0.0) one(0.0) of(0.0) those(0.0) rare(0.0) situations(0.0) 
+where(0.0) we(0.0) find(0.0) a(0.0) double(0.0) win(0.0) :(0.0) It(0.0) is(0.0) very(0.0) good(0.0) for(0.0) the(0.0) Coast(0.0) Guard(0.0) ,(0.0) and(0.0) it(0.0) is(0.0) very(0.0) 
+good(0.0) for(0.0) the(0.0) United(0.0) States(0.0) of(0.0) America(0.0) .(0.0) Madam(0.0) Chairman(1.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) 
+.(0.0) I(0.0) want(0.0) to(0.0) assure(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) Jersey(1.0) and(0.0) the(0.0) gentleman(0.0) from(0.0) Michigan(1.0) that(0.0) the(0.0) issue(0.0) of(0.0) ballast(0.0) 
+water(0.0) will(0.0) be(0.0) dealt(0.0) with(0.0) .(0.0) We(0.0) are(0.0) proceeding(0.0) already(0.0) .(0.0) We(0.0) have(0.0) had(0.0) staff-level(0.0) discussions(0.0) with(0.0) both(0.0) the(0.0) Coast(0.0) 
+Guard(0.0) Subcommittee(0.0) staff(0.0) and(0.0) the(0.0) Water(0.0) Resources(0.0) staff(0.0) on(0.0) the(0.0) Committee(0.0) on(0.0) Transportation(0.0) and(0.0) Infrastructure(0.0) ,(0.0) Madam(0.0) Chairman(0.0) .(0.0) And(0.0) 
+I(0.0) believe(0.0) we(0.0) can(0.0) reach(0.0) an(0.0) agreement(0.0) on(0.0) setting(0.0) a(0.0) strong(0.0) national(0.0) standard(0.0) and(0.0) language(0.0) that(0.0) will(0.0) establish(0.0) that(0.0) standard(0.0) 
+to(0.0) override(1.0) States(0.0) '(0.0) individual(0.0) standards(0.0) ,(0.0) as(0.0) we(0.0) have(0.0) discussed(0.0) in(0.0) our(0.0) several(0.0) meetings(0.0) ,(0.0) and(0.0) I(0.0) 'm(0.0) hopeful(0.0) 
+that(0.0) we(0.0) 'll(0.0) be(0.0) able(0.0) to(0.0) do(0.0) that(0.0) within(0.0) the(0.0) month(0.0) and(0.0) bring(0.0) that(0.0) bill(1.0) through(0.0) committee(0.0) to(0.0) the(0.0) floor(0.0) 
+on(0.0) suspension(0.0) if(0.0) the(0.0) product(0.0) is(0.0) acceptable(0.0) on(0.0) both(0.0) sides(0.0) of(0.0) the(0.0) aisle(0.0) ,(0.0) and(0.0) I'm(0.0) confident(0.0) we(0.0) 'll(0.0) get(0.0) 
+there(0.0) .(0.0) I(0.0) 'd(0.0) consume(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) to(0.0) emphasize(0.0) just(0.0) a(0.0) couple(0.0) of(0.0) points(0.0) .(0.0) One(0.0) ,(0.0) 
+which(0.0) the(0.0) gentleman(0.0) from(0.0) Maryland(1.0) has(0.0) already(0.0) addressed(0.0) ,(0.0) the(0.0) Chair(1.0) of(0.0) the(0.0) Subcommittee(0.0) on(0.0) Coast(0.0) Guard(0.0) ,(0.0) and(0.0) that(0.0) 
+is(0.0) diversity(1.0) in(0.0) the(0.0) Coast(0.0) Guard(0.0) .(0.0) It(0.0) was(0.0) a(0.0) shock(0.0) to(0.0) me(0.0) to(0.0) see(0.0) the(0.0) appallingly(1.0) low(0.0) level(0.0) of(0.0) 
+minority(1.0) participation(1.0) in(0.0) the(0.0) Coast(1.0) Guard(0.0) Academy(0.0) and(0.0) at(0.0) the(0.0) officer(0.0) level(0.0) within(0.0) the(0.0) Coast(0.0) Guard(0.0) .(0.0) I(0.0) visited(0.0) the(0.0) 
+Coast(0.0) Guard(0.0) Academy(0.0) .(0.0) I(0.0) had(0.0) lunch(0.0) with(0.0) the(0.0) Commandant(0.0) and(0.0) with(0.0) the(0.0) head(0.0) of(0.0) the(0.0) academic(0.0) program(0.0) and(0.0) with(0.0) 
+a(0.0) very(0.0) ,(0.0) very(0.0) astute(0.0) ,(0.0) learned(0.0) ,(0.0) talented(0.0) young(0.0) woman(0.0) ,(0.0) African(1.0) American(0.0) cadet(0.0) .(0.0) But(0.0) she(0.0) was(0.0) also(0.0) 
+not(0.0) only(0.0) distinguished(0.0) by(0.0) her(0.0) caliber(0.0) of(0.0) academic(0.0) performance(0.0) and(0.0) Coast(0.0) Guard(0.0) career(0.0) performance(0.0) ,(0.0) but(0.0) she(0.0) was(0.0) practically(0.0) the(0.0) 
+only(0.0) one(0.0) .(0.0) And(0.0) we(0.0) have(0.0) to(0.0) change(0.0) that(0.0) .(0.0) And(0.0) we(0.0) have(0.0) included(0.0) language(0.0) inspired(0.0) by(0.0) Mr.(0.0) Cummings(1.0) to(1.0) 
+give(1.0) Members(0.0) of(0.0) Congress(0.0) the(0.0) same(0.0) authority(0.0) in(0.0) nominating(0.0) candidates(0.0) for(0.0) the(0.0) Coast(0.0) Guard(0.0) as(0.0) we(0.0) do(0.0) for(0.0) the(0.0) other(0.0) 
+service(0.0) academies(0.0) .(0.0) I(0.0) think(0.0) that(0.0) will(0.0) make(0.0) a(0.0) major(0.0) step(0.0) toward(0.0) diversifying(1.0) the(0.0) Coast(1.0) Guard(0.0) and(0.0) reflecting(0.0) America(0.0) 
+
+
+----- below are rationale words -----
+
+Jersey	
+Jersey	LoBIONDO	
+Oberstar	Cummings	Mica	
+
+
+
+
+Chairman	
+Jersey	Michigan	
+
+
+
+override	
+bill	
+
+
+Maryland	Chair	
+diversity	appallingly	
+minority	participation	Coast	
+
+African	
+
+Cummings	to	
+give	
+diversifying	Coast	
+
+reads % = 0.048

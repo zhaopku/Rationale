@@ -1,0 +1,10 @@
+This is from a Republican
+----- below is the original text -----
+Did(0.0) I(0.0) hear(0.0) correctly(0.0) that(0.0) the(0.0) gentleman(0.0) is(0.0) going(0.0) to(0.0) support(0.0) the(0.0) underlying(0.0) legislation(1.0) ?(1.0) 
+
+
+----- below are rationale words -----
+
+legislation	?	
+
+reads % = 0.13333333333333333

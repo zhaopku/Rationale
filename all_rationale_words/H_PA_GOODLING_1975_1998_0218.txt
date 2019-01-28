@@ -1,0 +1,44 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(1.0) to(0.0) suspend(0.0) the(0.0) rules(1.0) and(0.0) pass(1.0) the(0.0) bill(0.0) ((0.0) H.R(0.0) .(0.0) 4257(1.0) )(0.0) to(0.0) amend(1.0) the(0.0) Fair(0.0) 
+Labor(1.0) Standards(0.0) Act(0.0) of(0.0) 1938(0.0) to(0.0) permit(0.0) certain(1.0) youth(0.0) to(0.0) perform(0.0) certain(1.0) work(0.0) with(0.0) wood(0.0) products(0.0) ,(0.0) as(0.0) amended(1.0) .(0.0) 
+The(0.0) Clerk(1.0) read(1.0) as(0.0) follows(1.0) :(0.0) H.R(0.0) .(0.0) 4257(1.0) Be(0.0) it(0.0) enacted(1.0) by(0.0) the(0.0) Senate(1.0) and(0.0) House(0.0) of(0.0) Representatives(0.0) of(0.0) 
+the(0.0) United(0.0) States(0.0) of(0.0) America(0.0) in(0.0) Congress(0.0) assembled(1.0) ,(0.0) SECTION(1.0) 1(0.0) .(0.0) EXEMPTION(1.0) .(0.0) Section(1.0) 13(1.0) ((0.0) c(0.0) )(0.0) of(0.0) 
+the(0.0) Fair(0.0) Labor(1.0) Standards(0.0) Act(0.0) of(0.0) 1938(0.0) ((0.0) 29(0.0) U.S.C(1.0) .(0.0) 213(1.0) ((0.0) c(0.0) )(0.0) )(0.0) is(0.0) amended(1.0) by(0.0) adding(0.0) 
+at(0.0) the(0.0) end(0.0) the(0.0) following(0.0) :(1.0) ``(0.0) ((0.0) 6(0.0) )(0.0) ((0.0) A(1.0) )(0.0) Subject(0.0) to(0.0) subparagraph(1.0) ((0.0) B(0.0) )(0.0) ,(0.0) 
+in(0.0) the(0.0) administration(0.0) and(0.0) enforcement(0.0) of(0.0) the(0.0) child(0.0) labor(1.0) provisions(0.0) of(0.0) this(0.0) Act(0.0) ,(0.0) it(0.0) shall(1.0) not(1.0) be(0.0) considered(0.0) oppressive(1.0) 
+child(0.0) labor(1.0) for(0.0) an(0.0) individual(0.0) who(0.0) --(0.0) ``(1.0) ((0.0) i(1.0) )(0.0) is(0.0) at(0.0) least(1.0) 14(0.0) but(0.0) under(0.0) the(0.0) age(1.0) of(0.0) 
+18(1.0) ,(0.0) and(0.0) ``(0.0) ((0.0) ii(1.0) )(0.0) is(0.0) a(0.0) member(0.0) of(0.0) a(0.0) religious(0.0) sect(1.0) or(1.0) division(1.0) thereof(0.0) whose(0.0) established(1.0) teachings(1.0) 
+do(0.0) not(1.0) permit(0.0) formal(0.0) education(1.0) beyond(0.0) the(0.0) eighth(1.0) grade(0.0) ,(0.0) to(0.0) be(0.0) employed(1.0) inside(0.0) or(1.0) outside(0.0) places(1.0) of(0.0) business(1.0) where(0.0) 
+machinery(0.0) is(0.0) used(0.0) to(0.0) process(0.0) wood(0.0) products(0.0) .(0.0) ``(1.0) ((0.0) B(0.0) )(0.0) The(0.0) employment(1.0) of(0.0) an(0.0) individual(0.0) under(0.0) subparagraph(1.0) ((0.0) 
+A(1.0) )(0.0) shall(1.0) be(0.0) permitted(1.0) --(0.0) ``(1.0) ((0.0) i(1.0) )(0.0) if(0.0) the(0.0) individual(0.0) is(0.0) supervised(1.0) by(0.0) an(0.0) adult(0.0) relative(0.0) of(0.0) 
+the(0.0) individual(0.0) or(1.0) is(0.0) supervised(1.0) by(0.0) an(0.0) adult(0.0) member(0.0) of(0.0) the(0.0) same(1.0) religious(0.0) sect(1.0) or(0.0) division(0.0) as(0.0) the(0.0) individual(0.0) ;(0.0) 
+``(1.0) ((0.0) ii(1.0) )(0.0) if(0.0) the(0.0) individual(0.0) does(0.0) not(0.0) operate(0.0) or(0.0) assist(0.0) in(0.0) the(0.0) operation(0.0) of(0.0) power-driven(1.0) woodworking(1.0) machines(1.0) ;(0.0) 
+``(1.0) ((0.0) iii(1.0) )(0.0) if(0.0) the(0.0) individual(0.0) is(0.0) protected(0.0) from(0.0) wood(0.0) particles(0.0) or(1.0) other(0.0) flying(1.0) debris(0.0) within(1.0) the(0.0) workplace(1.0) by(0.0) 
+a(0.0) barrier(0.0) appropriate(1.0) to(0.0) the(0.0) potential(0.0) hazard(1.0) of(0.0) such(0.0) wood(0.0) particles(0.0) or(1.0) flying(0.0) debris(0.0) or(1.0) by(0.0) maintaining(0.0) a(0.0) sufficient(1.0) distance(0.0) 
+from(0.0) machinery(0.0) in(0.0) operation(0.0) ;(0.0) and(0.0) ``(0.0) ((0.0) iv(0.0) )(0.0) if(0.0) the(0.0) individual(0.0) is(0.0) required(0.0) to(0.0) use(0.0) personal(1.0) protective(1.0) equipment(0.0) 
+to(0.0) prevent(0.0) exposure(0.0) to(0.0) excessive(0.0) levels(0.0) of(0.0) noise(0.0) and(0.0) saw(0.0) dust(0.0) .(0.0) ''(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+move	rules	pass	4257	amend	
+Labor	certain	certain	amended	
+Clerk	read	follows	4257	enacted	Senate	
+assembled	SECTION	EXEMPTION	Section	13	
+Labor	U.S.C	213	amended	
+:	A	subparagraph	
+labor	shall	not	oppressive	
+labor	``	i	least	age	
+18	ii	sect	or	division	established	teachings	
+not	education	eighth	employed	or	places	business	
+``	employment	subparagraph	
+A	shall	permitted	``	i	supervised	
+or	supervised	same	sect	
+``	ii	power-driven	woodworking	machines	
+``	iii	or	flying	within	workplace	
+appropriate	hazard	or	or	sufficient	
+personal	protective	
+
+
+reads % = 0.22816901408450704

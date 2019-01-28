@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Under(0.0) the(0.0) Clinton(1.0) administration(1.0) ,(0.0) we(0.0) created(0.0) 216,000(1.0) jobs(1.0) per(0.0) month(0.0) .(0.0) Under(0.0) the(0.0) Bush(1.0) plan(1.0) we(0.0) have(0.0) created(0.0) 21,000(0.0) ,(0.0) 
+on(0.0) average(0.0) ,(0.0) per(0.0) month(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Clinton	administration	216,000	jobs	Bush	plan	
+
+
+reads % = 0.2222222222222222

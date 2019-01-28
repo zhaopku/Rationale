@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) this(0.0) motion(1.0) to(0.0) recommit(1.0) offers(0.0) an(0.0) effective(1.0) date(0.0) for(0.0) fiscal(1.0) responsibility(0.0) .(0.0) H.R(0.0) .(0.0) 249(0.0) prohibits(1.0) the(0.0) commercial(0.0) sale(0.0) 
+of(0.0) wild(0.0) horses(0.0) and(0.0) burros(1.0) by(0.0) the(0.0) Bureau(0.0) of(0.0) Land(0.0) Management(0.0) .(0.0) Implementing(0.0) this(0.0) bill(1.0) will(0.0) cause(0.0) the(0.0) BLM(1.0) to(0.0) 
+lose(0.0) the(0.0) ability(0.0) to(0.0) sell(0.0) these(0.0) animals(0.0) and(0.0) incur(0.0) additional(0.0) costs(0.0) by(0.0) requiring(0.0) it(0.0) to(0.0) provide(0.0) long-term(1.0) care(0.0) for(0.0) the(0.0) 
+animals(0.0) that(0.0) they(0.0) otherwise(0.0) would(0.0) not(0.0) be(0.0) required(0.0) to(0.0) ,(0.0) thus(0.0) mandating(1.0) a(0.0) new(0.0) responsibility(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) according(0.0) 
+to(0.0) the(0.0) CBO(1.0) report(0.0) accompanying(0.0) this(0.0) bill(1.0) ,(0.0) it(0.0) said(0.0) ,(0.0) based(0.0) on(0.0) the(0.0) information(0.0) from(0.0) BLM(1.0) about(0.0) the(0.0) number(0.0) 
+of(0.0) animals(0.0) sold(0.0) and(0.0) the(0.0) cost(0.0) to(0.0) care(1.0) for(0.0) them(0.0) ,(0.0) CBO(1.0) estimates(1.0) that(0.0) the(0.0) resulting(0.0) net(0.0) changes(0.0) in(0.0) discretionary(1.0) 
+spending(1.0) under(0.0) H.R(0.0) .(0.0) 249(0.0) would(0.0) not(0.0) exceed(0.0) $(0.0) 500,000(0.0) annually(0.0) ,(0.0) assuming(0.0) the(0.0) availability(0.0) of(0.0) appropriated(1.0) funds(1.0) .(0.0) However(0.0) 
+,(0.0) the(0.0) Bureau(1.0) of(0.0) Land(0.0) Management(0.0) spends(0.0) roughly(0.0) $(0.0) 25(0.0) million(0.0) a(0.0) year(0.0) to(0.0) feed(0.0) and(0.0) shelter(0.0) 30,000(0.0) wild(0.0) horses(0.0) 
+in(0.0) its(0.0) management(0.0) program(0.0) .(0.0) This(0.0) motion(1.0) to(0.0) recommit(1.0) will(0.0) establish(0.0) an(0.0) effective(0.0) date(0.0) for(0.0) the(0.0) legislation(1.0) ,(0.0) requiring(1.0) the(0.0) 
+Secretary(1.0) to(0.0) certify(0.0) to(0.0) Congress(0.0) that(0.0) the(0.0) long-term(1.0) care(0.0) of(0.0) animals(0.0) spared(0.0) by(0.0) this(0.0) act(1.0) will(0.0) not(0.0) exceed(0.0) the(0.0) cost(0.0) 
+of(0.0) $(0.0) 500,000(0.0) ,(0.0) which(0.0) is(0.0) noted(0.0) in(0.0) the(0.0) bill(1.0) and(0.0) is(0.0) the(0.0) CBO(1.0) estimate(0.0) .(0.0) We(0.0) all(0.0) know(0.0) that(0.0) 
+the(0.0) CBO(1.0) is(0.0) noted(0.0) for(0.0) outrageously(1.0) poor(1.0) estimates(0.0) .(0.0) The(0.0) capital(1.0) gains(0.0) tax(1.0) reductions(1.0) from(0.0) 2003(1.0) to(0.0) 2006(0.0) ,(0.0) from(0.0) 
+20(0.0) to(0.0) 15(0.0) percent(0.0) ,(0.0) that(0.0) were(0.0) enacted(0.0) ,(0.0) CBO(1.0) estimated(0.0) revenue(1.0) at(0.0) $(0.0) 197(0.0) billion(1.0) .(0.0) In(0.0) fact(0.0) ,(0.0) 
+Mr.(0.0) Speaker(1.0) ,(0.0) $(0.0) 330(0.0) billion(1.0) were(0.0) gained(0.0) ,(0.0) an(0.0) error(0.0) of(0.0) 68(0.0) percent(0.0) .(0.0) This(0.0) is(0.0) after(0.0) the(0.0) CBO(1.0) 
+underestimated(0.0) capital(1.0) gains(0.0) revenue(1.0) following(0.0) the(0.0) 1997(0.0) decrease(0.0) by(0.0) $(0.0) 217(0.0) billion(1.0) .(0.0) Further(0.0) ,(0.0) CBO(0.0) underestimated(1.0) Federal(1.0) tax(1.0) revenue(1.0) 
+due(0.0) to(0.0) the(0.0) responsible(0.0) tax(1.0) decreases(1.0) that(0.0) were(0.0) enacted(1.0) earlier(0.0) this(0.0) decade(1.0) by(0.0) $(0.0) 255(0.0) billion(1.0) .(0.0) Of(0.0) course(0.0) ,(0.0) 
+Mr.(0.0) Speaker(1.0) ,(0.0) we(0.0) all(0.0) know(0.0) that(0.0) CBO(1.0) estimated(0.0) the(0.0) Medicare(1.0) part(0.0) D(0.0) premium(0.0) would(0.0) cost(1.0) $(0.0) 38(0.0) a(0.0) month(0.0) 
+,(0.0) and(0.0) in(0.0) fact(0.0) ,(0.0) it(0.0) costs(1.0) $(0.0) 22(0.0) per(0.0) month(0.0) ,(0.0) an(0.0) error(0.0) of(0.0) 72(0.0) percent(0.0) .(0.0) Mr.(0.0) Speaker(1.0) 
+,(0.0) this(0.0) week(0.0) in(0.0) The(0.0) Hill(0.0) newspaper(0.0) ,(0.0) former(0.0) Congressman(1.0) Charlie(1.0) Stenholm(1.0) appealed(1.0) to(0.0) Congress(0.0) not(0.0) to(0.0) pass(0.0) this(0.0) legislation(1.0) 
+for(0.0) budgetary(1.0) reasons(0.0) .(0.0) Under(0.0) the(0.0) new(0.0) PAYGO(1.0) regime(1.0) ,(0.0) Congress(0.0) should(0.0) not(0.0) be(0.0) perpetuating(1.0) long-term(0.0) options(0.0) when(0.0) another(0.0) ,(0.0) 
+less(0.0) costly(1.0) ,(0.0) option(0.0) is(0.0) available(0.0) .(0.0) As(0.0) of(0.0) December(0.0) 2004(0.0) ,(0.0) 8,400(0.0) wild(0.0) horses(0.0) and(0.0) burros(1.0) became(0.0) eligible(0.0) for(0.0) 
+sale(0.0) ,(0.0) and(0.0) as(0.0) of(0.0) April(0.0) 2007(0.0) ,(0.0) the(0.0) Bureau(0.0) of(0.0) Land(0.0) Management(0.0) has(0.0) sold(0.0) more(0.0) than(0.0) 2,300(0.0) horses(0.0) .(0.0) 
+If(0.0) the(0.0) remaining(0.0) horses(0.0) which(0.0) are(0.0) available(0.0) for(0.0) sale(0.0) are(0.0) safe(0.0) for(0.0) long-term(1.0) care(0.0) ,(0.0) then(0.0) the(0.0) Secretary(1.0) should(0.0) be(0.0) 
+required(0.0) to(0.0) clarify(0.0) that(0.0) the(0.0) care(0.0) will(0.0) not(0.0) create(0.0) an(0.0) undue(1.0) financial(0.0) burden(1.0) on(0.0) the(0.0) American(0.0) people(0.0) .(0.0) If(0.0) the(0.0) 
+Secretary(1.0) can(0.0) certify(0.0) that(0.0) this(0.0) legislation(1.0) will(0.0) not(0.0) exceed(0.0) $(0.0) 500,000(0.0) annually(0.0) ,(0.0) then(0.0) this(0.0) proposal(1.0) goes(0.0) forward(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+motion	recommit	effective	fiscal	prohibits	
+burros	bill	BLM	
+long-term	
+mandating	Speaker	
+CBO	bill	BLM	
+care	CBO	estimates	discretionary	
+spending	appropriated	funds	
+Bureau	
+motion	recommit	legislation	requiring	
+Secretary	long-term	act	
+bill	CBO	
+CBO	outrageously	poor	capital	tax	reductions	2003	
+CBO	revenue	billion	
+Speaker	billion	CBO	
+capital	revenue	billion	underestimated	Federal	tax	revenue	
+tax	decreases	enacted	decade	billion	
+Speaker	CBO	Medicare	cost	
+costs	Speaker	
+Congressman	Charlie	Stenholm	appealed	legislation	
+budgetary	PAYGO	regime	perpetuating	
+costly	burros	
+
+long-term	Secretary	
+undue	burden	
+Secretary	legislation	proposal	
+
+reads % = 0.16

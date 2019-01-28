@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+The(0.0) Acting(0.0) CHAIR(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) Indiana(1.0) is(0.0) recognized(0.0) for(0.0) 5(0.0) minutes(0.0) .(0.0) I(0.0) rise(0.0) also(0.0) to(0.0) join(0.0) my(0.0) chairman(0.0) 
+in(0.0) opposition(1.0) to(0.0) the(0.0) gentleman(0.0) 's(0.0) amendment(1.0) relative(1.0) to(0.0) ,(0.0) again(0.0) ,(0.0) cutting(0.0) back(0.0) on(0.0) what(0.0) I(0.0) think(0.0) are(0.0) very(0.0) 
+necessary(0.0) investments(1.0) in(0.0) our(0.0) economy(1.0) as(0.0) far(0.0) as(0.0) research(0.0) ,(0.0) both(0.0) as(0.0) far(0.0) as(0.0) renewables(1.0) ,(0.0) as(0.0) far(0.0) as(0.0) fossil(1.0) 
+energy(1.0) ,(0.0) as(0.0) far(0.0) as(0.0) the(0.0) science(0.0) account(0.0) .(0.0) The(0.0) gentleman(0.0) mentioned(0.0) advanced(0.0) solid-state(0.0) lighting(0.0) .(0.0) It(0.0) is(0.0) my(0.0) understanding(0.0) 
+that(0.0) Philips(0.0) has(0.0) indicated(0.0) that(0.0) a(0.0) small(0.0) investment(0.0) in(0.0) manufacturing(1.0) technology(0.0) to(0.0) improve(0.0) the(0.0) mechanisms(1.0) as(0.0) far(0.0) as(0.0) the(0.0) construction(0.0) 
+and(0.0) manufacturing(1.0) of(0.0) these(0.0) lightbulbs(1.0) would(0.0) allow(0.0) them(0.0) to(0.0) bring(0.0) back(0.0) jobs(1.0) that(0.0) are(0.0) currently(0.0) outsourced(0.0) overseas(0.0) .(0.0) If(0.0) we(0.0) 
+make(0.0) that(0.0) investment(1.0) ,(0.0) and(0.0) I(0.0) hope(0.0) we(0.0) do(0.0) ,(0.0) I(0.0) certainly(0.0) would(0.0) want(0.0) to(0.0) join(0.0) with(0.0) other(0.0) colleagues(0.0) to(0.0) 
+see(0.0) if(0.0) ,(0.0) in(0.0) fact(0.0) ,(0.0) Philips(0.0) Electronics(0.0) is(0.0) good(0.0) to(0.0) their(0.0) word(0.0) .(0.0) But(0.0) at(0.0) this(0.0) point(0.0) I(0.0) would(0.0) 
+state(1.0) my(0.0) objection(1.0) .(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) The(0.0) Acting(0.0) CHAIR(0.0) .(0.0) The(0.0) question(0.0) is(0.0) 
+on(0.0) the(0.0) amendment(1.0) offered(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) Jersey(1.0) ((0.0) Mr.(0.0) Garrett(1.0) )(0.0) .(0.0) The(0.0) question(0.0) was(0.0) taken(0.0) ;(0.0) 
+and(0.0) the(0.0) Acting(0.0) Chair(0.0) announced(0.0) that(0.0) the(0.0) noes(1.0) appeared(0.0) to(0.0) have(0.0) it(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Indiana	
+opposition	amendment	relative	
+investments	economy	renewables	fossil	
+energy	
+manufacturing	mechanisms	
+manufacturing	lightbulbs	jobs	
+investment	
+
+state	objection	
+amendment	Jersey	Garrett	
+noes	
+
+reads % = 0.09813084112149532

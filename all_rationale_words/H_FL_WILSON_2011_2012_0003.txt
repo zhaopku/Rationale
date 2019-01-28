@@ -1,0 +1,48 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) Trayvon(0.0) Martin(0.0) was(0.0) a(0.0) 17-year-(0.0) old(0.0) young(0.0) boy(0.0) who(0.0) lived(0.0) in(0.0) my(0.0) district(0.0) and(0.0) attended(0.0) school(0.0) within(0.0) walking(0.0) 
+distance(0.0) of(0.0) my(0.0) home(0.0) .(0.0) I(0.0) have(0.0) known(0.0) his(0.0) family(0.0) most(0.0) of(0.0) my(0.0) life(0.0) ,(0.0) and(0.0) they(0.0) are(0.0) pleading(1.0) ,(0.0) 
+begging(0.0) ,(0.0) crying(0.0) for(0.0) justice(1.0) .(0.0) The(0.0) whole(0.0) city(1.0) of(0.0) Miami(1.0) is(0.0) pleading(0.0) for(0.0) justice(1.0) as(0.0) they(0.0) try(0.0) to(0.0) remain(0.0) 
+calm(0.0) .(0.0) Every(0.0) day(0.0) ,(0.0) every(0.0) day(0.0) I(0.0) will(0.0) come(0.0) to(0.0) this(0.0) floor(0.0) and(0.0) announce(0.0) to(0.0) America(1.0) how(0.0) long(0.0) justice(1.0) 
+for(0.0) Trayvon(1.0) Martin(0.0) has(0.0) been(0.0) delayed(0.0) by(0.0) using(0.0) this(0.0) charge(0.0) .(0.0) Today(0.0) marks(0.0) the(0.0) 25th(0.0) day(0.0) .(0.0) Trayvon(1.0) Martin(0.0) was(0.0) 
+murdered(0.0) 25(0.0) days(0.0) ago(0.0) ,(0.0) and(0.0) still(0.0) there(0.0) has(0.0) been(0.0) no(0.0) arrest(0.0) .(0.0) The(0.0) evidence(0.0) is(0.0) overwhelming(0.0) .(0.0) Every(0.0) single(0.0) 
+day(0.0) new(0.0) evidence(0.0) emerges(0.0) ,(0.0) and(0.0) still(0.0) there(0.0) is(0.0) no(0.0) arrest(0.0) .(0.0) To(0.0) date(0.0) ,(0.0) the(0.0) FBI(1.0) ,(0.0) the(0.0) DOJ(1.0) 
+,(0.0) the(0.0) Florida(1.0) Department(0.0) of(0.0) Law(0.0) Enforcement(0.0) ,(0.0) FDLE(1.0) ,(0.0) and(0.0) the(0.0) State(0.0) Attorney(0.0) 's(0.0) Office(0.0) are(0.0) all(0.0) involved(0.0) in(0.0) 
+investigations(0.0) surrounding(0.0) his(0.0) death(0.0) .(0.0) And(0.0) still(0.0) there(0.0) has(0.0) been(0.0) no(0.0) arrest(0.0) .(0.0) What(0.0) does(0.0) it(0.0) take(0.0) ?(0.0) What(0.0) more(0.0) 
+does(0.0) it(0.0) take(0.0) ?(0.0) The(0.0) eyes(0.0) of(0.0) people(0.0) pleading(1.0) for(0.0) justice(1.0) in(0.0) this(0.0) Congress(1.0) and(0.0) everywhere(0.0) I(0.0) go(0.0) are(0.0) watching(0.0) 
+Sanford(1.0) ,(0.0) Florida(1.0) .(0.0) The(0.0) grand(0.0) jury(0.0) has(0.0) been(0.0) selected(0.0) ,(0.0) and(0.0) the(0.0) grand(0.0) jury(0.0) is(0.0) not(0.0) reflective(0.0) of(0.0) Trayvon(1.0) 
+'s(0.0) family(0.0) nor(0.0) Trayvon(1.0) .(0.0) That(0.0) must(0.0) be(0.0) corrected(0.0) immediately(0.0) .(0.0) I(0.0) 've(0.0) heard(0.0) from(0.0) Trayvon(1.0) 's(0.0) family(0.0) .(0.0) I(0.0) 
+'ve(0.0) heard(0.0) from(0.0) his(0.0) brother(0.0) ,(0.0) his(0.0) uncle(0.0) ,(0.0) his(0.0) classmates(0.0) ,(0.0) his(0.0) teachers(0.0) ,(0.0) community(0.0) leaders(0.0) ,(0.0) the(0.0) school(1.0) 
+superintendent(0.0) .(0.0) I(0.0) even(0.0) spoke(0.0) to(0.0) his(0.0) mother(0.0) again(0.0) late(0.0) last(0.0) night(0.0) .(0.0) Everyone(0.0) is(0.0) calling(0.0) for(0.0) justice(1.0) .(0.0) What(0.0) 
+happened(0.0) to(0.0) Trayvon(1.0) was(0.0) a(0.0) classic(0.0) example(0.0) of(0.0) racial(1.0) profiling(1.0) ,(0.0) quickly(0.0) followed(0.0) by(0.0) murder(1.0) of(0.0) our(0.0) dear(0.0) ,(0.0) sweet(0.0) 
+Trayvon(1.0) Martin(0.0) .(0.0) Do(0.0) you(0.0) know(0.0) that(0.0) it(0.0) took(0.0) 3(0.0) days(0.0) ,(0.0) 3(0.0) whole(0.0) days(0.0) ,(0.0) for(0.0) the(0.0) police(0.0) to(0.0) 
+release(0.0) Trayvon(1.0) 's(0.0) body(0.0) from(0.0) the(0.0) morgue(0.0) to(0.0) be(0.0) shipped(0.0) to(0.0) Miami(1.0) for(0.0) burial(0.0) and(0.0) the(0.0) funeral(0.0) simply(0.0) because(0.0) the(0.0) 
+Police(0.0) Department(0.0) would(0.0) not(0.0) submit(0.0) the(0.0) necessary(0.0) paperwork(0.0) ?(0.0) Sanford(0.0) Police(0.0) ,(0.0) do(0.0) your(0.0) duty(1.0) .(0.0) Arrest(0.0) the(0.0) murderer(1.0) today(0.0) 
+.(0.0) Twenty-five(0.0) days(0.0) is(0.0) much(0.0) too(0.0) long(0.0) .(0.0) We(0.0) must(0.0) stand(0.0) up(0.0) for(0.0) justice(1.0) .(0.0) We(0.0) must(0.0) stand(0.0) up(0.0) for(0.0) 
+Trayvon(1.0) .(0.0) And(0.0) we(0.0) must(0.0) stand(0.0) up(0.0) for(0.0) our(0.0) children(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+pleading	
+justice	city	Miami	justice	
+America	justice	
+Trayvon	Trayvon	
+
+FBI	DOJ	
+Florida	FDLE	
+
+pleading	justice	Congress	
+Sanford	Florida	Trayvon	
+Trayvon	Trayvon	
+school	
+justice	
+Trayvon	racial	profiling	murder	
+Trayvon	
+Trayvon	Miami	
+duty	murderer	
+justice	
+Trayvon	
+
+reads % = 0.08673469387755102

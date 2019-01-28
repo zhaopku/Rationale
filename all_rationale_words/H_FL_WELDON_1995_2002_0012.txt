@@ -1,0 +1,24 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) 30(0.0) seconds(0.0) just(0.0) to(0.0) say(0.0) that(0.0) the(0.0) period(0.0) during(0.0) which(0.0) Ronald(1.0) Reagan(1.0) was(0.0) President(0.0) during(0.0) the(0.0) 
+1980s(1.0) ,(0.0) the(0.0) Congress(0.0) engaged(0.0) in(0.0) a(0.0) dramatic(0.0) increase(0.0) in(0.0) social(1.0) spending(1.0) .(0.0) It(0.0) is(0.0) not(0.0) totally(0.0) correct(0.0) to(0.0) attribute(0.0) 
+the(0.0) deficits(1.0) of(0.0) the(0.0) 1980s(1.0) purely(0.0) to(0.0) the(0.0) defense(1.0) buildup(1.0) ,(0.0) but(0.0) indeed(0.0) can(0.0) equally(0.0) be(0.0) attributed(0.0) to(0.0) the(0.0) actions(1.0) 
+of(0.0) the(0.0) Democratic(1.0) Congress(0.0) at(0.0) the(0.0) time(0.0) which(0.0) engaged(0.0) in(0.0) a(0.0) dramatic(0.0) increase(0.0) in(0.0) social(1.0) spending(1.0) .(0.0) The(0.0) Reagan(1.0) defense(1.0) 
+buildup(1.0) was(0.0) essential(0.0) for(0.0) our(0.0) winning(0.0) the(0.0) Gulf(1.0) War(0.0) ,(0.0) it(0.0) was(0.0) the(0.0) right(0.0) thing(0.0) to(0.0) do(0.0) ,(0.0) and(0.0) the(0.0) 
+tax(1.0) cut(1.0) was(1.0) instrumental(1.0) in(0.0) lifting(1.0) us(0.0) out(0.0) of(0.0) a(0.0) recession(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) 2(0.0) minutes(0.0) to(0.0) 
+the(0.0) gentleman(0.0) from(0.0) California(0.0) ((0.0) Mr.(0.0) Dreier(1.0) )(0.0) ,(0.0) the(0.0) very(0.0) distinguished(0.0) chairman(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Rules(0.0) .(0.0) ((0.0) 
+Mr.(0.0) DREIER(1.0) asked(0.0) and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) )(0.0) 
+
+
+----- below are rationale words -----
+
+Ronald	Reagan	
+1980s	social	spending	
+deficits	1980s	defense	buildup	actions	
+Democratic	social	spending	Reagan	defense	
+buildup	Gulf	
+tax	cut	was	instrumental	lifting	recession	Speaker	
+Dreier	
+DREIER	
+
+reads % = 0.16666666666666666

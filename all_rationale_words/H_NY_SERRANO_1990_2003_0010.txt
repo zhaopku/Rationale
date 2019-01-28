@@ -1,0 +1,20 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(1.0) ,(0.0) reclaiming(0.0) my(0.0) time(0.0) ,(0.0) let(0.0) me(0.0) just(1.0) add(0.0) to(0.0) the(0.0) statement(0.0) of(0.0) the(0.0) gentleman(0.0) from(0.0) Wisconsin(1.0) ((0.0) Mr.(0.0) Obey(1.0) 
+)(0.0) ,(0.0) this(0.0) staff(0.0) that(0.0) we(0.0) see(0.0) around(0.0) us(0.0) ,(0.0) and(0.0) this(0.0) is(0.0) not(1.0) buttering(1.0) anybody(0.0) up(0.0) ,(0.0) works(0.0) 24-7(0.0) 
+,(0.0) especially(1.0) during(0.0) the(0.0) appropriations(1.0) period(0.0) ,(0.0) which(0.0) for(0.0) us(0.0) starts(0.0) in(0.0) January(0.0) with(0.0) over(0.0) 20-odd(1.0) hearings(0.0) .(0.0) All(0.0) I(0.0) 
+am(0.0) asking(1.0) as(0.0) a(0.0) ranking(1.0) member(0.0) ,(0.0) for(0.0) both(0.0) sides(0.0) ,(0.0) is(0.0) to(0.0) give(0.0) us(0.0) the(0.0) specifics(0.0) a(0.0) few(0.0) days(0.0) 
+before(1.0) .(0.0) That(0.0) is(0.0) what(1.0) the(0.0) gentleman(0.0) from(0.0) Wisconsin(1.0) ((0.0) Mr.(0.0) Obey(1.0) )(0.0) asked(0.0) for(0.0) and(0.0) that(0.0) is(0.0) all(0.0) that(0.0) 
+we(0.0) need(0.0) so(0.0) that(0.0) we(0.0) can(0.0) be(0.0) supportive(1.0) to(0.0) Members(0.0) '(0.0) needs(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+just	Wisconsin	Obey	
+not	buttering	
+especially	appropriations	20-odd	
+asking	ranking	
+before	what	Wisconsin	Obey	
+supportive	
+
+reads % = 0.13157894736842105

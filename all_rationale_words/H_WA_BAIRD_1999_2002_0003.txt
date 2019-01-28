@@ -1,0 +1,24 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) would(0.0) just(0.0) like(0.0) to(0.0) close(0.0) as(0.0) well(0.0) by(0.0) reiterating(0.0) my(0.0) thanks(0.0) to(0.0) Chairman(0.0) Boehlert(1.0) ,(0.0) Chairwoman(1.0) Morella(1.0) 
+,(0.0) Ranking(1.0) Member(0.0) Hall(1.0) ,(0.0) as(0.0) well(0.0) as(0.0) the(0.0) committee(0.0) staff(0.0) .(0.0) Chairman(0.0) Boehlert(1.0) has(0.0) stated(0.0) it(0.0) perfectly(0.0) well(0.0) :(0.0) 
+the(0.0) American(0.0) public(0.0) often(0.0) takes(0.0) for(0.0) granted(0.0) our(0.0) information(0.0) infrastructure(0.0) ;(0.0) but(0.0) a(0.0) coordinated(0.0) attack(0.0) on(0.0) ,(0.0) for(0.0) example(0.0) ,(0.0) 
+air(0.0) traffic(0.0) control(0.0) ,(0.0) electrical(0.0) power(0.0) systems(0.0) ,(0.0) or(0.0) other(0.0) major(0.0) vital(0.0) links(0.0) in(0.0) our(0.0) information(0.0) infrastructure(1.0) ,(0.0) particularly(0.0) if(0.0) 
+timed(0.0) with(0.0) a(0.0) more(0.0) conventional(0.0) or(0.0) even(0.0) a(0.0) more(0.0) unconventional(0.0) attack(0.0) ,(0.0) could(0.0) wreak(0.0) havoc(0.0) on(0.0) our(0.0) society(1.0) and(0.0) would(0.0) 
+clearly(0.0) cost(1.0) lives(0.0) .(0.0) The(0.0) importance(0.0) of(0.0) this(0.0) bill(1.0) can(0.0) not(0.0) be(0.0) overstated(1.0) ,(0.0) and(0.0) I(0.0) commend(0.0) the(0.0) Chair(1.0) and(0.0) 
+the(0.0) ranking(0.0) member(0.0) for(0.0) their(0.0) leadership(0.0) and(0.0) appreciate(0.0) the(0.0) opportunity(0.0) to(0.0) work(0.0) with(0.0) them(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) yield(0.0) 
+back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	Boehlert	Chairwoman	Morella	
+Ranking	Hall	Boehlert	
+
+infrastructure	
+society	
+cost	bill	overstated	Chair	
+Chairman	
+
+
+reads % = 0.0945945945945946

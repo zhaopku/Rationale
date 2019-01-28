@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) rise(0.0) in(0.0) strong(0.0) support(0.0) of(0.0) the(0.0) rule(1.0) and(0.0) the(0.0) underlying(0.0) bill(1.0) that(0.0) would(0.0) provide(0.0) 4(0.0) weeks(0.0) of(0.0) paid(0.0) leave(0.0) to(0.0) 
+Federal(1.0) employees(1.0) for(0.0) the(0.0) birth(0.0) ,(0.0) adoption(1.0) ,(0.0) or(0.0) fostering(1.0) of(0.0) a(0.0) child(0.0) .(0.0) It(0.0) is(0.0) identical(0.0) to(0.0) the(0.0) version(0.0) 
+of(0.0) the(0.0) bill(1.0) ,(0.0) H.R(0.0) .(0.0) 5781(0.0) ,(0.0) which(0.0) passed(0.0) the(0.0) House(0.0) last(0.0) Congress(0.0) with(0.0) strong(0.0) bipartisan(1.0) support(0.0) .(0.0) The(0.0) 
+vote(1.0) count(0.0) was(0.0) 278-146(0.0) ,(0.0) with(0.0) 50(0.0) Republicans(0.0) voting(1.0) for(1.0) the(1.0) bill(1.0) in(1.0) the(1.0) 110th(0.0) Congress(0.0) .(1.0) My(0.0) good(0.0) friend(0.0) 
+on(0.0) the(0.0) other(0.0) side(0.0) of(0.0) the(0.0) aisle(0.0) said(0.0) that(0.0) Federal(1.0) employees(1.0) are(0.0) not(0.0) asking(0.0) for(0.0) this(0.0) .(0.0) That(0.0) is(0.0) not(0.0) 
+the(0.0) truth(0.0) ,(0.0) and(0.0) I(0.0) would(0.0) like(0.0) permission(0.0) to(0.0) place(0.0) in(0.0) the(0.0) Record(0.0) various(0.0) letters(0.0) written(0.0) in(0.0) support(0.0) .(0.0) They(0.0) 
+actively(1.0) have(0.0) been(0.0) meeting(0.0) with(0.0) us(0.0) and(0.0) supporting(0.0) it(0.0) for(0.0) the(0.0) past(0.0) 15(0.0) years(0.0) .(0.0) Majority(0.0) Leader(0.0) Steny(1.0) Hoyer(1.0) and(0.0) 
+I(0.0) and(0.0) others(0.0) have(0.0) been(0.0) championing(0.0) this(0.0) bill(1.0) .(0.0) And(0.0) I(0.0) would(0.0) like(0.0) to(0.0) put(0.0) their(0.0) letters(0.0) of(0.0) support(0.0) in(0.0) 
+the(0.0) Record(0.0) .(0.0) American(0.0) Federation(0.0) of(0.0) Labor(1.0) and(0.0) Congress(0.0) of(0.0) Industrial(0.0) Organizations(0.0) ,(0.0) Washington(1.0) ,(0.0) DC(1.0) ,(0.0) June(0.0) 4(0.0) ,(0.0) 
+2009(0.0) .(0.0) Legislative(0.0) Alert(0.0) Dear(0.0) Representative(1.0) :(1.0) The(0.0) American(0.0) Federation(0.0) of(0.0) Labor(0.0) and(0.0) Congress(0.0) of(0.0) Industrial(0.0) Organizations(0.0) ((0.0) AFL-CIO(1.0) )(0.0) 
+strongly(0.0) supports(0.0) HR(0.0) 626(0.0) ,(0.0) the(0.0) Federal(0.0) Employees(0.0) Paid(0.0) Parental(0.0) Leave(0.0) Act(0.0) of(0.0) 2009(0.0) .(0.0) This(0.0) vital(0.0) legislation(0.0) would(0.0) provide(0.0) 
+all(0.0) Executive(0.0) and(0.0) Legislative(0.0) Branch(0.0) federal(0.0) employees(0.0) with(0.0) income(0.0) support(0.0) for(0.0) up(0.0) to(0.0) four(0.0) weeks(0.0) of(0.0) parental(0.0) leave(0.0) in(0.0) order(0.0) 
+to(0.0) facilitate(0.0) bonding(0.0) between(0.0) parents(0.0) with(0.0) newborn(0.0) infants(0.0) or(0.0) newly(0.0) adopted(0.0) children(0.0) .(0.0) Federal(0.0) workers(1.0) are(0.0) among(0.0) those(0.0) who(0.0) must(0.0) 
+choose(0.0) between(0.0) meeting(0.0) their(0.0) family(0.0) obligations(0.0) and(0.0) maintaining(0.0) family(0.0) income(0.0) because(0.0) under(0.0) current(0.0) law(0.0) ,(0.0) no(0.0) part(0.0) of(0.0) the(0.0) leave(0.0) 
+under(0.0) the(0.0) Family(0.0) and(0.0) Medical(0.0) Leave(0.0) Act(0.0) is(0.0) guaranteed(0.0) to(0.0) be(0.0) paid(0.0) leave(0.0) .(0.0) The(0.0) years(0.0) when(0.0) employees(0.0) are(0.0) most(0.0) 
+likely(0.0) to(0.0) become(0.0) parents(0.0) coincide(0.0) with(0.0) the(0.0) early(0.0) years(0.0) of(0.0) their(0.0) career(0.0) ,(0.0) when(0.0) they(0.0) are(0.0) least(0.0) likely(0.0) to(0.0) have(0.0) 
+accumulated(0.0) enough(0.0) savings(1.0) to(0.0) forgo(1.0) their(0.0) salary(0.0) for(0.0) several(0.0) weeks(0.0) .(0.0) Workers(1.0) early(0.0) in(0.0) their(0.0) career(0.0) are(0.0) also(0.0) least(0.0) likely(0.0) 
+to(0.0) have(0.0) accumulated(0.0) enough(0.0) annual(0.0) leave(0.0) to(0.0) cover(0.0) the(0.0) time(0.0) needed(0.0) to(0.0) provide(0.0) adequate(0.0) care(0.0) for(0.0) a(0.0) newborn(0.0) or(0.0) newly(0.0) 
+adopted(1.0) child(0.0) .(0.0) As(0.0) a(0.0) result(0.0) ,(0.0) many(0.0) workers(1.0) are(0.0) effectively(0.0) prevented(1.0) from(0.0) using(0.0) FMLA(1.0) leave(0.0) at(0.0) all(0.0) .(0.0) Spending(1.0) 
+time(0.0) with(0.0) a(0.0) newborn(0.0) or(0.0) a(0.0) newly(0.0) adopted(1.0) child(0.0) should(0.0) not(0.0) be(0.0) viewed(0.0) as(0.0) a(0.0) luxury(0.0) that(0.0) only(0.0) the(0.0) rich(1.0) 
+should(0.0) be(0.0) able(0.0) to(0.0) afford(1.0) .(0.0) Virtually(0.0) all(0.0) research(0.0) on(0.0) child(0.0) development(0.0) and(0.0) family(0.0) stability(0.0) supports(0.0) the(0.0) notion(1.0) that(0.0) parent-infant(1.0) 
+bonding(0.0) during(0.0) the(0.0) earliest(0.0) months(0.0) of(0.0) life(0.0) is(0.0) crucial(0.0) .(0.0) Children(0.0) who(0.0) form(0.0) strong(0.0) emotional(0.0) bonds(1.0) or(0.0) ``(0.0) attachment(0.0) ''(0.0) 
+with(0.0) their(0.0) parents(0.0) are(0.0) most(0.0) likely(0.0) to(0.0) enjoy(0.0) good(0.0) health(1.0) and(0.0) have(0.0) positive(0.0) relations(1.0) with(0.0) others(0.0) throughout(0.0) their(0.0) lifetimes(0.0) .(0.0) 
+H.R(0.0) .(0.0) 626(0.0) takes(0.0) as(0.0) a(0.0) given(0.0) that(0.0) all(0.0) children(0.0) who(0.0) become(0.0) new(0.0) members(0.0) of(0.0) a(0.0) family(0.0) need(0.0) this(0.0) critical(0.0) 
+time(0.0) with(0.0) their(0.0) parents(0.0) ,(0.0) and(0.0) provides(0.0) all(0.0) parents(0.0) --(0.0) adoptive(1.0) and(0.0) biological(0.0) --(0.0) equal(1.0) treatment(0.0) .(0.0) More(0.0) and(0.0) 
+
+
+----- below are rationale words -----
+
+rule	bill	
+Federal	employees	adoption	fostering	
+bill	bipartisan	
+vote	voting	for	the	bill	in	the	.	
+Federal	employees	
+
+actively	Steny	Hoyer	
+bill	
+Labor	Washington	DC	
+Representative	:	AFL-CIO	
+
+
+workers	
+
+
+
+savings	forgo	Workers	
+
+adopted	workers	prevented	FMLA	Spending	
+adopted	rich	
+afford	notion	parent-infant	
+bonds	
+health	relations	
+
+adoptive	equal	
+
+reads % = 0.094

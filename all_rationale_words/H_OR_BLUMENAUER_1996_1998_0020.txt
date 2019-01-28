@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) am(0.0) increasingly(0.0) disappointed(0.0) that(0.0) Members(0.0) of(0.0) the(0.0) House(0.0) are(0.0) presented(0.0) on(0.0) an(0.0) ongoing(0.0) basis(0.0) with(0.0) false(0.0) legislative(0.0) choices(0.0) 
+that(0.0) distort(1.0) problems(0.0) rather(0.0) than(0.0) seek(1.0) to(0.0) solve(0.0) them(0.0) .(0.0) H.R(0.0) .(0.0) 3989(0.0) is(0.0) the(0.0) latest(0.0) example(0.0) of(0.0) this(0.0) approach(0.0) 
+to(0.0) policy-(0.0) making(0.0) ,(0.0) where(0.0) serious(0.0) policy(1.0) questions(0.0) are(0.0) demoted(0.0) to(0.0) merely(0.0) political(1.0) ones(0.0) .(0.0) This(0.0) vote(1.0) is(0.0) meaningless(1.0) when(0.0) 
+devoid(0.0) of(0.0) the(0.0) larger(0.0) context(0.0) of(0.0) a(0.0) budget(1.0) resolution(1.0) ,(0.0) and(0.0) everyone(0.0) here(0.0) knows(0.0) that(0.0) .(0.0) I(0.0) refuse(0.0) to(0.0) participate(0.0) 
+in(0.0) this(0.0) legislative(1.0) charade(1.0) ,(0.0) and(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) do(0.0) the(0.0) same(0.0) .(0.0) Join(0.0) me(0.0) in(0.0) voting(1.0) ``(0.0) 
+present(0.0) ''(0.0) on(0.0) H.R(0.0) .(0.0) 3989(0.0) .(0.0) The(0.0) sooner(0.0) we(0.0) stop(0.0) the(0.0) pointless(1.0) political(1.0) gambits(1.0) ,(0.0) the(0.0) sooner(0.0) we(0.0) can(0.0) 
+deal(0.0) with(0.0) the(0.0) people(0.0) 's(0.0) business(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+distort	seek	
+policy	political	vote	meaningless	
+budget	resolution	
+legislative	charade	voting	
+pointless	political	gambits	
+
+
+reads % = 0.109375

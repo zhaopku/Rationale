@@ -1,0 +1,20 @@
+This is from a Democrat
+----- below is the original text -----
+Kratovil(1.0) for(1.0) his(0.0) amendment(1.0) .(0.0) We(0.0) have(0.0) certainly(0.0) seen(0.0) Centers(0.0) for(0.0) Excellence(0.0) do(0.0) some(0.0) very(0.0) good(0.0) work(0.0) not(1.0) only(0.0) in(0.0) the(0.0) 
+science(0.0) and(0.0) technology(0.0) field(0.0) ,(0.0) but(0.0) I(0.0) also(1.0) know(0.0) that(0.0) in(0.0) the(0.0) transportation(1.0) field(0.0) ,(0.0) we(0.0) have(0.0) also(1.0) seen(0.0) that(0.0) 
+.(0.0) I(0.0) think(1.0) this(0.0) amendment(1.0) that(0.0) would(1.0) establish(1.0) a(0.0) merit-based(1.0) and(0.0) a(0.0) competitive-based(1.0) Center(0.0) for(0.0) Excellence(0.0) for(0.0) Cybersecurity(1.0) will(0.0) be(0.0) 
+a(0.0) great(0.0) addition(0.0) to(0.0) our(0.0) IT(0.0) research(0.0) in(0.0) the(0.0) country(1.0) .(0.0) I(0.0) think(1.0) it(0.0) could(0.0) be(0.0) a(0.0) very(0.0) good(0.0) enhancement(0.0) 
+to(0.0) this(0.0) bill(0.0) ,(0.0) so(1.0) I(0.0) strongly(1.0) support(0.0) this(0.0) amendment(1.0) .(0.0) I(0.0) urge(1.0) my(0.0) colleagues(1.0) to(0.0) vote(1.0) for(0.0) this(0.0) amendment(1.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+for	amendment	not	
+also	transportation	also	
+think	amendment	would	establish	merit-based	competitive-based	Cybersecurity	
+country	think	
+so	strongly	amendment	urge	colleagues	vote	amendment	
+
+
+reads % = 0.21568627450980393

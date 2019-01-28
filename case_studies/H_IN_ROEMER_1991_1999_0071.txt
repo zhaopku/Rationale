@@ -1,4 +1,4 @@
 correct
 Chairman(1.0) 
-,(0.0) it(1.0) is(0.0) my(0.0) understanding(0.0) that(0.0) we(1.0) now(0.0) have(1.0) ,(0.0) due(0.0) to(0.0) the(0.0) generosity(0.0) of(1.0) the(0.0) gentleman(1.0) from(1.0) Pennsylvania(1.0) ((1.0) 
-Mr.(1.0) Goodling(1.0) )(0.0) ,(0.0) 3(1.0) additional(0.0) minutes(1.0) ,(1.0) so(0.0) that(1.0) we(0.0) now(0.0) have(0.0) 8(0.0) minutes(0.0) on(1.0) our(1.0) side(1.0) ?(0.0) 
+,(1.0) it(1.0) is(1.0) my(1.0) understanding(1.0) that(1.0) we(1.0) now(1.0) have(1.0) ,(1.0) due(1.0) to(1.0) the(1.0) generosity(1.0) of(1.0) the(1.0) gentleman(1.0) from(1.0) Pennsylvania(1.0) ((1.0) 
+Mr.(1.0) Goodling(1.0) )(1.0) ,(1.0) 3(1.0) additional(1.0) minutes(1.0) ,(1.0) so(1.0) that(1.0) we(1.0) now(1.0) have(1.0) 8(1.0) minutes(1.0) on(1.0) our(1.0) side(1.0) ?(1.0) 

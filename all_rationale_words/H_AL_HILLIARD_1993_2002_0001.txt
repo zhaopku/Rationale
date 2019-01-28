@@ -1,0 +1,10 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) ask(1.0) unanimous(0.0) consent(0.0) that(0.0) my(0.0) name(1.0) be(0.0) removed(1.0) as(0.0) a(0.0) cosponsor(1.0) of(0.0) H.R(0.0) .(0.0) 3252(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+ask	name	removed	cosponsor	3252	
+
+reads % = 0.2631578947368421

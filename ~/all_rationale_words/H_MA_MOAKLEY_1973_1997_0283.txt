@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) may(0.0) I(0.0) inquire(1.0) what(0.0) is(0.0) the(0.0) remaining(1.0) time(0.0) on(0.0) each(0.0) side(0.0) ?(0.0) The(0.0) SPEAKER(0.0) pro(1.0) tempore(1.0) ((0.0) Mrs.(1.0) 
+Emerson(1.0) )(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) Massachusetts(1.0) [(0.0) Mr.(0.0) Moakley(1.0) ](0.0) has(0.0) 11\1/2\(1.0) minutes(1.0) remaining(1.0) and(0.0) the(0.0) gentleman(0.0) from(0.0) Florida(1.0) 
+[(0.0) Mr.(0.0) Diaz-Balart(1.0) ](0.0) has(0.0) 12(1.0) minutes(1.0) remaining(1.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) 2(0.0) minutes(1.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) 
+Illinois(1.0) [(0.0) Mr.(0.0) Davis(1.0) ](0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+inquire	remaining	pro	tempore	Mrs.	
+Emerson	Massachusetts	Moakley	11\1/2\	minutes	remaining	Florida	
+Diaz-Balart	12	minutes	remaining	Speaker	minutes	
+Illinois	Davis	
+
+reads % = 0.29850746268656714

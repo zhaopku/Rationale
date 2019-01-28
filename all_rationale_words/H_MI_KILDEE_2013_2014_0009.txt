@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) yesterday(0.0) ,(0.0) I(0.0) signed(0.0) a(0.0) discharge(0.0) petition(0.0) in(0.0) an(0.0) effort(0.0) to(0.0) force(1.0) an(0.0) up-or-down(1.0) vote(1.0) on(0.0) legislation(1.0) that(0.0) I(0.0) 
+have(0.0) cosponsored(1.0) ,(0.0) and(0.0) that(0.0) is(0.0) H.R(0.0) .(0.0) 1010(0.0) ,(0.0) the(0.0) Fair(1.0) Minimum(0.0) Wage(1.0) Act(1.0) ,(0.0) which(0.0) would(0.0) increase(1.0) the(0.0) 
+Federal(1.0) minimum(1.0) wage(1.0) to(0.0) $(0.0) 10.10(0.0) over(0.0) the(0.0) period(0.0) of(0.0) the(0.0) next(0.0) few(0.0) years(0.0) ,(0.0) giving(0.0) up(0.0) to(0.0) 25(0.0) million(0.0) 
+Americans(1.0) a(0.0) well-deserved(0.0) pay(0.0) raise(0.0) .(0.0) Many(0.0) Americans(1.0) who(0.0) work(0.0) at(0.0) the(0.0) minimum(0.0) wage(1.0) live(0.0) in(0.0) poverty(1.0) ;(0.0) and(0.0) I(0.0) 
+know(0.0) that(0.0) there(0.0) are(0.0) some(0.0) in(0.0) this(0.0) body(0.0) ,(0.0) particularly(0.0) on(0.0) the(0.0) other(0.0) side(0.0) ,(0.0) who(0.0) fundamentally(1.0) do(0.0) n't(0.0) even(0.0) 
+believe(0.0) that(0.0) there(0.0) ought(1.0) to(0.0) be(0.0) a(0.0) minimum(0.0) wage(1.0) .(0.0) That(0.0) is(0.0) a(0.0) minority(0.0) view(0.0) .(0.0) Republicans(0.0) and(1.0) Democrats(1.0) across(0.0) 
+the(0.0) country(1.0) believe(0.0) that(0.0) not(0.0) only(0.0) should(0.0) we(0.0) have(0.0) a(0.0) minimum(0.0) wage(1.0) ,(0.0) but(0.0) that(0.0) it(0.0) ought(1.0) to(0.0) be(0.0) increased(0.0) 
+.(0.0) A(0.0) recent(0.0) poll(0.0) showed(0.0) that(0.0) 71(0.0) percent(0.0) of(0.0) Americans(1.0) favor(1.0) an(0.0) increase(1.0) in(0.0) the(0.0) minimum(1.0) wage(1.0) .(0.0) So(0.0) for(0.0) 
+those(0.0) who(0.0) believe(0.0) that(0.0) there(0.0) ought(0.0) to(0.0) be(0.0) a(0.0) wage(1.0) that(0.0) is(0.0) a(0.0) living(0.0) wage(1.0) ,(0.0) it(0.0) has(0.0) to(0.0) be(0.0) 
+a(0.0) wage(1.0) that(0.0) does(0.0) not(0.0) put(0.0) people(0.0) in(0.0) poverty(1.0) .(0.0) For(0.0) that(0.0) reason(0.0) ,(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) sign(0.0) 
+the(0.0) discharge(0.0) petition(1.0) ,(0.0) and(0.0) let(0.0) 's(0.0) have(0.0) a(0.0) vote(0.0) to(0.0) give(0.0) Americans(1.0) the(0.0) raise(1.0) that(0.0) they(0.0) deserve(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+force	up-or-down	vote	legislation	
+cosponsored	Fair	Wage	Act	increase	
+Federal	minimum	wage	
+Americans	Americans	wage	poverty	
+fundamentally	
+ought	wage	and	Democrats	
+country	wage	ought	
+Americans	favor	increase	minimum	wage	
+wage	wage	
+wage	poverty	
+petition	Americans	raise	deserve	
+
+reads % = 0.16818181818181818

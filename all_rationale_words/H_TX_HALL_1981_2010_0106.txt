@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+This(0.0) bill(1.0) was(0.0) improved(0.0) very(0.0) much(0.0) by(0.0) her(0.0) knowledge(0.0) and(0.0) history(0.0) of(0.0) a(0.0) bad(0.0) occurrence(0.0) that(0.0) happened(0.0) to(0.0) her(0.0) in(0.0) her(0.0) 
+district(0.0) that(0.0) she(0.0) is(0.0) trying(0.0) to(0.0) spare(0.0) the(0.0) rest(0.0) of(0.0) our(0.0) districts(1.0) .(0.0) I(0.0) thank(0.0) her(0.0) for(0.0) the(0.0) good(0.0) work(0.0) 
+on(0.0) this(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+bill	
+districts	
+
+
+reads % = 0.045454545454545456

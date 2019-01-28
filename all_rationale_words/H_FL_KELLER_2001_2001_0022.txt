@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) as(0.0) an(0.0) original(0.0) cosponsor(1.0) and(0.0) strong(0.0) supporter(1.0) of(0.0) the(0.0) No(0.0) Child(0.0) Left(1.0) Behind(1.0) Act(1.0) .(0.0) Mr.(0.0) 
+Speaker(1.0) ,(0.0) I(0.0) say(0.0) to(0.0) my(0.0) colleagues(0.0) ,(0.0) let(0.0) me(0.0) be(0.0) crystal(0.0) clear(0.0) ,(0.0) this(0.0) act(1.0) does(0.0) three(0.0) things(0.0) .(0.0) 
+First(0.0) ,(0.0) we(0.0) invest(1.0) $(0.0) 5(0.0) billion(1.0) in(0.0) reading(0.0) for(0.0) children(0.0) in(0.0) grades(1.0) K(0.0) through(0.0) 2(0.0) .(0.0) The(0.0) reason(0.0) is(0.0) 
+,(0.0) 70(0.0) percent(0.0) of(0.0) the(0.0) fourth(0.0) graders(0.0) in(0.0) our(0.0) inner(0.0) city(1.0) schools(1.0) can(0.0) not(0.0) read(0.0) .(0.0) We(0.0) must(0.0) address(0.0) this(0.0) 
+issue(0.0) head(0.0) on(0.0) .(0.0) Second(0.0) ,(0.0) we(0.0) measure(1.0) the(0.0) performance(0.0) of(0.0) each(0.0) child(0.0) in(0.0) grades(1.0) 3(0.0) through(0.0) 8(0.0) .(0.0) Why(0.0) 
+?(0.0) We(0.0) do(0.0) not(0.0) want(0.0) to(0.0) have(0.0) a(0.0) situation(0.0) where(0.0) a(0.0) child(0.0) falls(0.0) through(0.0) the(0.0) cracks(1.0) and(0.0) goes(0.0) to(0.0) college(1.0) 
+where(0.0) he(0.0) can(0.0) not(0.0) read(0.0) .(0.0) We(0.0) want(0.0) to(0.0) measure(1.0) that(0.0) performance(0.0) and(0.0) fix(0.0) it(0.0) .(0.0) Again(0.0) ,(0.0) we(0.0) are(0.0) 
+addressing(1.0) that(0.0) issue(0.0) head(0.0) on(0.0) .(0.0) Third(0.0) ,(0.0) and(0.0) for(0.0) those(0.0) children(0.0) trapped(0.0) in(0.0) a(0.0) failing(1.0) school(0.0) or(0.0) unsafe(1.0) schools(1.0) 
+,(0.0) they(0.0) will(0.0) have(0.0) a(0.0) safety(0.0) valve(0.0) in(0.0) the(0.0) form(0.0) of(0.0) immediate(0.0) public(1.0) school(0.0) choice(0.0) .(0.0) This(0.0) is(0.0) a(0.0) good(0.0) 
+bill(0.0) that(0.0) will(0.0) make(0.0) a(0.0) meaningful(0.0) difference(0.0) in(0.0) the(0.0) lives(0.0) of(0.0) young(0.0) children(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) ask(0.0) my(0.0) 
+colleagues(0.0) to(0.0) vote(1.0) yes(0.0) on(0.0) H.R(0.0) .(0.0) 1(0.0) this(0.0) week(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+cosponsor	supporter	Left	Behind	Act	
+Speaker	act	
+invest	billion	grades	
+city	schools	
+measure	grades	
+cracks	college	
+measure	
+addressing	failing	unsafe	schools	
+public	
+Speaker	
+vote	
+
+reads % = 0.11320754716981132

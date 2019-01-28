@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) will(0.0) the(0.0) gentleman(0.0) yield(0.0) ?(0.0) English(0.0) rule(0.0) does(0.0) not(0.0) apply(0.0) to(0.0) those(0.0) civil(1.0) cases(0.0) brought(0.0) by(0.0) an(0.0) indigent(1.0) plaintiff(0.0) 
+,(0.0) a(0.0) plaintiff(0.0) represented(0.0) by(0.0) the(0.0) legal(1.0) aid(0.0) society(1.0) in(0.0) Great(0.0) Britain(0.0) .(0.0) Is(0.0) there(0.0) any(0.0) provision(1.0) in(0.0) this(0.0) bill(1.0) 
+that(0.0) keeps(0.0) an(0.0) indigent(1.0) plaintiff(0.0) or(0.0) a(0.0) plaintiff(0.0) who(0.0) could(0.0) in(0.0) no(0.0) way(0.0) have(0.0) the(0.0) assets(0.0) to(0.0) pay(0.0) the(0.0) fee(0.0) 
+of(0.0) the(0.0) defendent(1.0) in(0.0) a(0.0) contingency(0.0) case(0.0) ,(0.0) let(0.0) us(0.0) say(0.0) ,(0.0) for(0.0) example(0.0) ,(0.0) from(0.0) being(0.0) assessed(0.0) the(0.0) fees(0.0) 
+that(0.0) might(0.0) ultimately(0.0) be(0.0) assessed(0.0) if(0.0) the(0.0) final(0.0) settlement(0.0) comes(0.0) in(0.0) ,(0.0) the(0.0) final(0.0) judgment(0.0) comes(0.0) in(0.0) higher(0.0) than(0.0) or(0.0) 
+less(0.0) than(0.0) the(0.0) defendant(1.0) had(0.0) offered(0.0) ?(0.0) Chairman(0.0) ,(0.0) if(0.0) the(0.0) gentleman(0.0) will(0.0) continue(0.0) to(0.0) yield(0.0) ,(0.0) in(0.0) section(0.0) 6(0.0) 
+,(0.0) the(0.0) Court(0.0) can(0.0) not(0.0) award(0.0) attorney(0.0) 's(0.0) fees(0.0) or(0.0) other(0.0) costs(0.0) and(0.0) expenses(0.0) if(0.0) they(0.0) find(0.0) that(0.0) doing(0.0) so(0.0) 
+would(0.0) be(0.0) manifestly(0.0) unjust(1.0) .(0.0) I(0.0) would(0.0) leave(0.0) that(0.0) entirely(0.0) to(0.0) the(0.0) discretion(0.0) of(0.0) the(0.0) court(0.0) .(0.0) I(0.0) think(0.0) that(0.0) 
+in(0.0) some(0.0) circumstances(0.0) ,(0.0) it(0.0) might(0.0) be(0.0) appropriate(0.0) to(0.0) award(0.0) attorney(1.0) 's(0.0) fees(0.0) regardless(0.0) of(0.0) those(0.0) circumstances(0.0) .(0.0) In(0.0) others(0.0) 
+,(0.0) I(0.0) feel(0.0) that(0.0) it(0.0) might(0.0) not(0.0) .(0.0) It(0.0) is(0.0) not(0.0) my(0.0) intention(0.0) to(0.0) define(0.0) that(0.0) in(0.0) that(0.0) fashion(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+civil	indigent	
+legal	society	provision	bill	
+indigent	
+defendent	
+
+defendant	
+
+unjust	
+attorney	
+
+
+
+reads % = 0.05472636815920398

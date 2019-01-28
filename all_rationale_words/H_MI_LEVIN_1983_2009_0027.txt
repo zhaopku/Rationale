@@ -1,0 +1,48 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) rise(0.0) in(0.0) strong(0.0) support(0.0) of(0.0) the(0.0) Advanced(0.0) Vehicle(0.0) Technology(0.0) Act(0.0) .(0.0) I(0.0) am(0.0) proud(0.0) to(0.0) be(0.0) an(0.0) original(0.0) 
+co-sponsor(1.0) of(0.0) this(0.0) important(0.0) bill(1.0) introduced(1.0) by(0.0) my(0.0) colleague(0.0) from(0.0) Michigan(1.0) ,(0.0) Mr.(0.0) Peters(1.0) .(0.0) This(1.0) legislation(1.0) builds(0.0) on(0.0) the(0.0) 
+success(0.0) of(0.0) the(0.0) Department(0.0) of(0.0) Energy's(0.0) vehicle(0.0) technology(0.0) programs(0.0) in(0.0) collaborating(0.0) with(0.0) industry(0.0) to(0.0) develop(0.0) the(0.0) cars(0.0) and(0.0) trucks(0.0) of(0.0) 
+the(0.0) future(0.0) .(0.0) Hybrids(0.0) ,(0.0) plug-in(0.0) hybrids(0.0) ,(0.0) pure(0.0) electric(0.0) cars(0.0) ,(0.0) fuel(1.0) cell(0.0) vehicles(0.0) ,(0.0) alternative(1.0) fuel(1.0) vehicles(0.0) :(0.0) 
+these(0.0) technologies(1.0) all(0.0) require(0.0) enormous(1.0) and(0.0) sustained(0.0) investments(1.0) in(0.0) R(1.0) &(0.0) D(0.0) .(0.0) Through(0.0) vehicle(0.0) technology(0.0) programs(1.0) like(0.0) FutureCar(0.0) and(0.0) 
+the(0.0) 21st(1.0) Century(0.0) Truck(0.0) Partnership(0.0) ,(0.0) DOE(1.0) is(0.0) partnering(0.0) with(0.0) industry(0.0) to(0.0) make(0.0) this(0.0) R(0.0) &(0.0) D(0.0) more(0.0) feasible(0.0) and(0.0) 
+more(0.0) fruitful(0.0) .(0.0) The(0.0) bill(1.0) before(0.0) us(0.0) would(0.0) rationalize(1.0) the(0.0) authorization(1.0) for(0.0) DOE's(0.0) varied(0.0) vehicle(0.0) technology(0.0) programs(1.0) and(0.0) substantially(0.0) increase(1.0) 
+the(0.0) authorized(0.0) funding(1.0) levels(0.0) .(0.0) In(0.0) total(0.0) this(0.0) bill(1.0) authorizes(1.0) $(0.0) 2.9(0.0) billion(1.0) over(0.0) the(0.0) next(0.0) 5(0.0) years(0.0) to(0.0) invest(1.0) 
+in(0.0) vehicle(0.0) technology(0.0) .(0.0) It(0.0) will(0.0) be(0.0) essential(0.0) for(0.0) Congress(0.0) to(0.0) follow(0.0) through(0.0) and(0.0) fully(0.0) fund(1.0) this(0.0) authorization(0.0) in(0.0) the(0.0) 
+annual(0.0) appropriations(0.0) process(0.0) .(0.0) I(0.0) am(0.0) particularly(0.0) pleased(0.0) that(0.0) this(0.0) bill(1.0) recognizes(1.0) the(0.0) enormous(1.0) fuel(1.0) savings(1.0) potential(0.0) in(0.0) the(0.0) medium(0.0) 
+and(0.0) heavy(0.0) duty(0.0) market(0.0) and(0.0) specifies(0.0) that(0.0) up(0.0) to(0.0) $(0.0) 200(0.0) million(0.0) per(0.0) year(0.0) be(0.0) devoted(0.0) to(0.0) developing(0.0) advanced(0.0) technology(0.0) 
+medium(0.0) and(0.0) heavy(0.0) duty(0.0) trucks(0.0) .(0.0) This(0.0) complements(0.0) legislation(1.0) I(0.0) 've(0.0) introduced(0.0) to(0.0) extend(0.0) the(0.0) tax(1.0) credits(1.0) for(0.0) the(0.0) purchase(0.0) 
+of(0.0) medium(0.0) and(0.0) heavy(0.0) duty(0.0) trucks(0.0) for(0.0) 5(0.0) years(0.0) and(0.0) double(0.0) the(0.0) amount(0.0) of(0.0) the(0.0) credits(0.0) .(0.0) These(0.0) vehicles(0.0) move(0.0) 
+80(0.0) percent(0.0) of(0.0) the(0.0) goods(0.0) transported(0.0) in(0.0) the(0.0) U.S.(0.0) ,(0.0) serve(0.0) as(0.0) utility(0.0) maintenance(0.0) vehicles(0.0) ,(0.0) and(0.0) perform(0.0) refuse(0.0) collection(0.0) 
+services(0.0) in(0.0) our(0.0) communities(1.0) .(0.0) It(0.0) is(0.0) estimated(0.0) that(0.0) the(0.0) fuel(1.0) consumption(1.0) of(0.0) the(0.0) 90,000(0.0) refuse(0.0) collection(0.0) trucks(0.0) in(0.0) the(0.0) 
+U.S.(0.0) is(0.0) equivalent(0.0) to(0.0) 2.5(0.0) million(0.0) passenger(0.0) vehicles(1.0) .(0.0) Putting(0.0) as(0.0) few(0.0) as(0.0) 10,000(0.0) hybrid(0.0) electric(0.0) trucks(1.0) on(0.0) the(0.0) road(0.0) 
+would(0.0) reduce(1.0) diesel(1.0) fuel(1.0) use(0.0) by(0.0) 7.2(1.0) million(0.0) gallons(1.0) per(0.0) year(0.0) and(0.0) reduce(1.0) carbon(1.0) dioxide(1.0) emissions(1.0) by(1.0) 83,000(1.0) tons(0.0) .(0.0) 
+In(0.0) a(0.0) word(0.0) Mr(0.0) .(0.0) Chair(1.0) ,(0.0) this(0.0) bill(1.0) is(0.0) vital(1.0) .(0.0) It(0.0) is(0.0) a(0.0) vital(0.0) step(0.0) toward(0.0) a(0.0) full(0.0) 
+partnership(0.0) between(0.0) the(0.0) Federal(1.0) Government(1.0) and(0.0) the(0.0) domestic(1.0) auto(0.0) industry(0.0) in(0.0) developing(0.0) the(0.0) cars(0.0) and(0.0) trucks(0.0) of(0.0) the(0.0) future(0.0) and(0.0) 
+building(0.0) them(0.0) here(0.0) in(0.0) the(0.0) United(0.0) States(0.0) .(0.0) I(0.0) urge(0.0) all(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) it(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+co-sponsor	bill	introduced	Michigan	Peters	This	legislation	
+
+fuel	alternative	fuel	
+technologies	enormous	investments	R	programs	
+21st	DOE	
+bill	rationalize	authorization	programs	increase	
+funding	bill	authorizes	billion	invest	
+fund	
+bill	recognizes	enormous	fuel	savings	
+
+legislation	tax	credits	
+
+
+communities	fuel	consumption	
+vehicles	trucks	
+reduce	diesel	fuel	7.2	gallons	reduce	carbon	dioxide	emissions	by	83,000	
+Chair	bill	vital	
+Federal	Government	domestic	
+
+
+reads % = 0.1457286432160804

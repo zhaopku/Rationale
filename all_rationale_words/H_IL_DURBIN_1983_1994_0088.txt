@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+If(0.0) the(0.0) gentleman(0.0) will(0.0) yield(0.0) further(0.0) ,(0.0) I(0.0) am(0.0) in(0.0) favor(1.0) of(0.0) private(0.0) property(0.0) rights(0.0) .(0.0) But(0.0) there(0.0) comes(0.0) a(0.0) time(0.0) 
+when(0.0) there(0.0) is(0.0) a(0.0) public(0.0) good(0.0) .(0.0) We(0.0) see(0.0) it(0.0) so(0.0) often(0.0) in(0.0) transportation(1.0) .(0.0) I(0.0) am(0.0) just(0.0) curious(0.0) ,(0.0) 
+and(0.0) maybe(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) could(0.0) explain(0.0) how(0.0) he(0.0) could(0.0) draw(0.0) the(0.0) distinction(0.0) between(0.0) what(0.0) we(0.0) do(0.0) in(0.0) transportation(1.0) 
+and(0.0) what(0.0) he(0.0) is(0.0) trying(0.0) to(0.0) do(0.0) here(0.0) .(0.0) Mr.(0.0) DeLAY(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) will(0.0) the(0.0) gentleman(0.0) yield(0.0) ?(0.0) 
+I(0.0) will(0.0) be(0.0) glad(0.0) to(0.0) explain(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+favor	
+transportation	
+transportation	
+DeLAY	Chairman	
+
+
+reads % = 0.056818181818181816

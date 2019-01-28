@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) it(0.0) is(0.0) unfortunate(1.0) that(0.0) once(1.0) again(0.0) we(0.0) yet(0.0) have(0.0) to(0.0) again(0.0) extend(0.0) the(0.0) time(0.0) for(0.0) the(0.0) budget(0.0) to(0.0) 
+be(0.0) completed(0.0) for(0.0) this(0.0) country(1.0) .(0.0) It(0.0) is(0.0) unfortunate(1.0) because(0.0) we(0.0) come(0.0) down(1.0) to(0.0) an(0.0) item(0.0) that(0.0) is(0.0) so(0.0) terribly(1.0) 
+important(0.0) to(0.0) America(0.0) 's(0.0) families(0.0) and(0.0) to(0.0) America(0.0) 's(0.0) children(0.0) ,(0.0) and(0.0) ,(0.0) that(0.0) is(0.0) ,(0.0) the(0.0) issue(1.0) of(0.0) school(0.0) 
+construction(1.0) ,(0.0) whether(1.0) or(1.0) not(0.0) we(0.0) are(0.0) going(0.0) to(0.0) try(0.0) to(0.0) end(0.0) the(0.0) process(1.0) by(0.0) which(0.0) children(0.0) are(0.0) being(0.0) educated(0.0) 
+in(0.0) storage(1.0) rooms(0.0) ,(0.0) in(0.0) split-up(1.0) gymnasiums(1.0) ,(0.0) on(0.0) the(0.0) stage(0.0) of(0.0) the(0.0) school(0.0) auditorium(0.0) ,(0.0) in(0.0) the(0.0) janitor(1.0) 's(0.0) 
+change(1.0) rooms(0.0) as(0.0) they(0.0) try(0.0) to(0.0) reduce(1.0) class(1.0) sizes(1.0) and(0.0) as(0.0) they(0.0) try(0.0) to(0.0) avoid(0.0) those(0.0) parts(0.0) of(0.0) schools(1.0) in(0.0) 
+many(0.0) cases(0.0) that(0.0) are(0.0) unsafe(1.0) for(0.0) children(0.0) to(0.0) go(0.0) .(0.0) We(0.0) think(0.0) that(0.0) the(0.0) Federal(1.0) Government(0.0) ought(1.0) to(0.0) help(0.0) these(0.0) 
+school(0.0) districts(0.0) .(0.0) They(0.0) can(0.0) do(0.0) it(0.0) by(0.0) providing(0.0) no-interest(1.0) loans(0.0) or(0.0) low-interest(1.0) loans(0.0) to(0.0) help(0.0) those(0.0) school(0.0) districts(0.0) that(0.0) 
+are(0.0) struggling(1.0) to(0.0) provide(0.0) for(0.0) safe(0.0) and(0.0) healthy(1.0) schools(1.0) for(0.0) our(0.0) children(0.0) .(0.0) The(0.0) other(0.0) one(0.0) is(0.0) class(1.0) size(0.0) reduction(0.0) 
+.(0.0) Here(1.0) we(0.0) have(0.0) an(0.0) opportunity(0.0) to(0.0) take(0.0) a(0.0) program(0.0) modeled(0.0) after(0.0) Cops(0.0) on(0.0) the(0.0) Beat(1.0) ,(0.0) a(0.0) program(0.0) that(0.0) 
+has(0.0) been(0.0) incredibly(0.0) successful(1.0) .(0.0) If(1.0) you(0.0) go(0.0) around(0.0) your(0.0) congressional(1.0) district(1.0) and(0.0) you(0.0) talk(0.0) to(0.0) the(0.0) police(1.0) officers(1.0) ,(0.0) 
+if(0.0) you(1.0) talk(0.0) to(0.0) the(0.0) chiefs(1.0) of(0.0) police(1.0) ,(0.0) they(0.0) will(0.0) tell(0.0) you(0.0) this(0.0) has(0.0) made(0.0) a(0.0) remarkable(0.0) difference(0.0) in(0.0) 
+their(0.0) police(1.0) department(0.0) 's(0.0) ability(0.0) to(0.0) talk(0.0) to(0.0) the(0.0) business(1.0) community(1.0) ,(0.0) to(0.0) talk(0.0) to(0.0) young(0.0) kids(0.0) on(0.0) the(0.0) street(1.0) 
+,(0.0) to(0.0) interact(0.0) with(0.0) the(0.0) schools(1.0) and(0.0) has(0.0) made(0.0) the(0.0) police(1.0) department(0.0) much(0.0) more(0.0) accessible(0.0) ,(0.0) much(0.0) more(0.0) effective(0.0) on(0.0) 
+the(0.0) streets(1.0) of(0.0) our(0.0) communities(0.0) ,(0.0) and(0.0) we(0.0) have(0.0) watched(0.0) as(0.0) the(0.0) crime(0.0) rate(0.0) has(0.0) continued(0.0) to(0.0) come(0.0) down(1.0) in(0.0) 
+most(1.0) American(0.0) communities(0.0) .(0.0) So(1.0) now(0.0) we(0.0) want(1.0) to(0.0) take(0.0) and(0.0) have(0.0) the(0.0) Federal(1.0) Government(1.0) provide(0.0) help(0.0) to(0.0) school(0.0) districts(0.0) 
+that(0.0) want(1.0) to(0.0) add(1.0) additional(0.0) teachers(0.0) to(0.0) reduce(1.0) class(1.0) size(0.0) ,(0.0) recognizing(0.0) that(0.0) teachers(1.0) are(0.0) far(0.0) more(0.0) effective(0.0) with(0.0) 18(1.0) 
+students(1.0) than(0.0) they(0.0) are(0.0) with(0.0) 30(0.0) students(0.0) .(0.0) Again(1.0) ,(0.0) do(0.0) not(1.0) trust(0.0) us(0.0) ;(0.0) trust(0.0) the(0.0) parents(0.0) ,(0.0) trust(0.0) 
+the(0.0) teachers(0.0) ,(0.0) trust(0.0) the(0.0) students(0.0) who(0.0) if(0.0) you(0.0) go(0.0) to(0.0) your(0.0) schools(1.0) and(0.0) you(1.0) talk(0.0) where(0.0) this(0.0) has(0.0) been(0.0) 
+done(0.0) ,(0.0) parents(0.0) are(0.0) excited(1.0) about(0.0) the(0.0) chance(0.0) that(0.0) teachers(1.0) are(0.0) spending(1.0) more(0.0) time(0.0) with(0.0) their(0.0) students(0.0) ,(0.0) helping(1.0) them(0.0) 
+with(0.0) reading(0.0) ,(0.0) helping(1.0) them(0.0) with(0.0) mathematics(1.0) .(0.0) The(0.0) teachers(0.0) feel(0.0) better(0.0) that(0.0) they(0.0) are(0.0) able(0.0) to(0.0) spend(1.0) better(0.0) time(0.0) 
+with(0.0) these(0.0) students(1.0) in(0.0) helping(1.0) those(0.0) students(0.0) who(0.0) may(0.0) be(0.0) having(1.0) a(0.0) little(0.0) bit(1.0) of(0.0) extra(0.0) problem(0.0) .(0.0) But(0.0) we(1.0) 
+are(0.0) right(1.0) back(0.0) to(0.0) where(0.0) we(0.0) were(0.0) before(1.0) Cops(0.0) on(0.0) the(0.0) Beat(1.0) .(0.0) Just(1.0) before(1.0) we(0.0) voted(1.0) for(0.0) Cops(1.0) on(0.0) 
+the(0.0) Beat(1.0) ,(0.0) the(0.0) Republicans(1.0) came(1.0) up(0.0) with(0.0) a(0.0) plan(1.0) to(0.0) spread(0.0) that(0.0) money(1.0) all(0.0) over(0.0) the(0.0) community(1.0) ,(0.0) to(0.0) 
+spread(0.0) it(0.0) all(0.0) over(0.0) the(0.0) community(1.0) .(0.0) They(0.0) said(0.0) they(0.0) were(0.0) going(0.0) to(0.0) call(0.0) it(0.0) Cops(1.0) on(0.0) the(0.0) Beat(1.0) 
+
+
+----- below are rationale words -----
+
+unfortunate	once	
+country	unfortunate	down	terribly	
+issue	
+construction	whether	or	process	
+storage	split-up	gymnasiums	janitor	
+change	reduce	class	sizes	schools	
+unsafe	Federal	ought	
+no-interest	low-interest	
+struggling	healthy	schools	class	
+Here	Beat	
+successful	If	congressional	district	police	officers	
+you	chiefs	police	
+police	business	community	street	
+schools	police	
+streets	down	
+most	So	want	Federal	Government	
+want	add	reduce	class	teachers	18	
+students	Again	not	
+schools	you	
+excited	teachers	spending	helping	
+helping	mathematics	spend	
+students	helping	having	bit	we	
+right	before	Beat	Just	before	voted	Cops	
+Beat	Republicans	came	plan	money	community	
+community	Cops	Beat	
+
+reads % = 0.184

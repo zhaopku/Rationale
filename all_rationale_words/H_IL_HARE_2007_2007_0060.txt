@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) request(0.0) 5(0.0) legislative(0.0) days(0.0) during(0.0) which(0.0) Members(0.0) may(0.0) insert(0.0) materials(0.0) relevant(0.0) to(0.0) House(0.0) Resolution(1.0) 474(0.0) into(0.0) the(0.0) Record(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+Resolution	
+
+
+reads % = 0.045454545454545456

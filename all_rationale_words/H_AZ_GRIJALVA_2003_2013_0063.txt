@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) as(0.0) much(0.0) time(0.0) as(0.0) she(0.0) may(0.0) consume(0.0) to(0.0) the(0.0) gentlelady(0.0) from(0.0) New(0.0) York(1.0) ,(0.0) Representative(1.0) Velazquez(1.0) ,(0.0) 
+the(0.0) ranking(0.0) member(0.0) of(0.0) the(0.0) Small(0.0) Business(0.0) Committee(0.0) ,(0.0) the(0.0) sponsor(0.0) of(0.0) this(0.0) legislation(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+York	Representative	Velazquez	
+
+
+reads % = 0.08333333333333333

@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) pass(0.0) the(0.0) bill(0.0) ((1.0) S.(1.0) 349(1.0) )(0.0) to(0.0) designate(0.0) the(0.0) facility(0.0) of(0.0) 
+the(0.0) United(0.0) States(0.0) Postal(0.0) Service(0.0) located(0.0) at(0.0) 4865(0.0) Tallmadge(1.0) Road(0.0) in(0.0) Rootstown(0.0) ,(0.0) Ohio(1.0) ,(0.0) as(0.0) the(0.0) ``(0.0) Marine(0.0) Sgt(0.0) 
+.(0.0) Jeremy(0.0) E.(1.0) Murray(1.0) Post(1.0) Office(0.0) ''(0.0) .(0.0) The(0.0) Clerk(0.0) read(0.0) the(0.0) title(0.0) of(0.0) the(0.0) bill(0.0) .(0.0) The(0.0) text(0.0) of(0.0) 
+the(0.0) bill(0.0) is(0.0) as(0.0) follows(0.0) :(0.0) S.(0.0) 349(0.0) Be(0.0) it(0.0) enacted(0.0) by(0.0) the(0.0) Senate(0.0) and(0.0) House(0.0) of(0.0) Representatives(0.0) of(0.0) the(0.0) 
+United(0.0) States(0.0) of(0.0) America(0.0) in(0.0) Congress(0.0) assembled(0.0) ,(0.0) SECTION(0.0) 1(0.0) .(0.0) MARINE(0.0) SGT(0.0) .(0.0) JEREMY(0.0) E.(0.0) MURRAY(0.0) POST(0.0) OFFICE(0.0) .(0.0) 
+((0.0) a(0.0) )(0.0) Designation.(0.0) --(0.0) The(0.0) facility(0.0) of(0.0) the(0.0) United(0.0) States(0.0) Postal(0.0) Service(0.0) located(0.0) at(0.0) 4865(0.0) Tallmadge(1.0) Road(0.0) in(0.0) Rootstown(0.0) 
+,(0.0) Ohio(1.0) ,(0.0) shall(0.0) be(0.0) known(0.0) and(0.0) designated(0.0) as(0.0) the(0.0) ``(0.0) Marine(0.0) Sgt(0.0) .(0.0) Jeremy(0.0) E.(0.0) Murray(1.0) Post(1.0) Office(0.0) ''(0.0) 
+.(0.0) ((0.0) b(0.0) )(0.0) References.(0.0) --(0.0) Any(0.0) reference(0.0) in(0.0) a(0.0) law(0.0) ,(0.0) map(0.0) ,(0.0) regulation(0.0) ,(0.0) document(0.0) ,(0.0) paper(0.0) ,(0.0) 
+or(0.0) other(0.0) record(0.0) of(0.0) the(0.0) United(0.0) States(0.0) to(0.0) the(0.0) facility(0.0) referred(0.0) to(0.0) in(0.0) subsection(0.0) ((0.0) a(0.0) )(0.0) shall(0.0) be(0.0) deemed(0.0) 
+to(0.0) be(0.0) a(0.0) reference(0.0) to(0.0) the(0.0) ``(0.0) Marine(0.0) Sgt(0.0) .(0.0) Jeremy(0.0) E.(0.0) Murray(1.0) Post(1.0) Office(0.0) ''(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+(	S.	349	
+Tallmadge	Ohio	
+E.	Murray	Post	
+
+
+Tallmadge	
+Ohio	Murray	Post	
+
+
+Murray	Post	
+
+reads % = 0.0707070707070707

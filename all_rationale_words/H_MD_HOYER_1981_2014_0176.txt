@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+Given(0.0) that(0.0) intention(0.0) ,(0.0) can(0.0) the(0.0) Majority(1.0) Leader(0.0) tell(0.0) us(0.0) whether(0.0) or(0.0) not(0.0) there(0.0) is(0.0) an(0.0) inclination(0.0) --(0.0) the(0.0) Senate(1.0) ,(0.0) 
+as(0.0) you(0.0) know(0.0) ,(0.0) had(0.0) a(0.0) different(0.0) approach(0.0) .(0.0) They(0.0) did(0.0) a(0.0) limited(0.0) extension(0.0) ,(0.0) not(0.0) permanent(0.0) extensions(0.0) ,(0.0) and(0.0) 
+they(0.0) dealt(0.0) with(0.0) all(0.0) of(0.0) the(0.0) extenders(1.0) ,(0.0) and(0.0) they(0.0) had(0.0) a(0.0) 2-(0.0) year(0.0) extension(0.0) ,(0.0) as(0.0) you(0.0) know(0.0) .(0.0) 
+Whether(0.0) or(0.0) not(0.0) we(0.0) are(0.0) looking(0.0) at(0.0) doing(0.0) something(0.0) temporarily(0.0) while(0.0) we(0.0) prepare(0.0) for(0.0) what(0.0) I(0.0) think(0.0) both(0.0) sides(0.0) think(0.0) 
+are(0.0) necessary(0.0) ,(0.0) and(0.0) that(0.0) is(0.0) a(0.0) major(0.0) tax(0.0) reform(1.0) bill(1.0) at(1.0) some(1.0) point(1.0) in(0.0) time(0.0) in(0.0) the(0.0) spring(0.0) or(0.0) 
+the(0.0) summer(0.0) ,(0.0) can(0.0) the(0.0) gentleman(0.0) tell(0.0) me(0.0) whether(0.0) there(0.0) is(0.0) that(0.0) component(0.0) of(0.0) the(0.0) consideration(0.0) of(0.0) the(0.0) tax(1.0) extenders(1.0) 
+legislation(1.0) ?(1.0) I(1.0) yield(1.0) to(0.0) my(0.0) friend(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Majority	Senate	
+
+extenders	
+
+reform	bill	at	some	point	
+tax	extenders	
+legislation	?	I	yield	
+
+reads % = 0.10852713178294573

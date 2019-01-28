@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) tonight(0.0) to(0.0) bring(0.0) to(0.0) the(0.0) attention(0.0) of(0.0) the(0.0) American(0.0) people(0.0) what(0.0) I(0.0) think(0.0) is(0.0) a(0.0) great(0.0) injustice(1.0) 
+that(0.0) is(0.0) occurring(0.0) in(0.0) our(0.0) country(1.0) .(0.0) It(0.0) is(0.0) injustice(1.0) that(0.0) seeks(1.0) to(0.0) pit(0.0) community(0.0) against(0.0) community(0.0) ,(0.0) color(0.0) against(0.0) 
+color(0.0) and(0.0) the(0.0) American(0.0) people(0.0) against(0.0) one(0.0) another(0.0) .(0.0) It(0.0) is(0.0) an(0.0) injustice(1.0) that(0.0) we(0.0) are(0.0) witnessing(0.0) in(0.0) my(0.0) district(0.0) 
+in(0.0) Staten(1.0) Island(1.0) ,(0.0) but(0.0) it(0.0) is(0.0) injustice(1.0) that(0.0) I(0.0) have(0.0) little(0.0) doubt(0.0) we(0.0) will(0.0) be(0.0) battling(0.0) throughout(0.0) the(0.0) Nation(1.0) 
+before(0.0) long(0.0) .(0.0) The(0.0) controversy(1.0) centers(1.0) around(0.0) the(0.0) seemingly(0.0) innocuous-sounding(1.0) policy(1.0) advanced(0.0) by(0.0) the(0.0) Environmental(1.0) Protection(0.0) Agency(0.0) known(0.0) as(0.0) ``(0.0) 
+environmental(0.0) justice(1.0) ''(0.0) .(0.0) In(0.0) theory(0.0) ,(0.0) this(0.0) legal(1.0) doctrine(1.0) is(0.0) supposed(0.0) to(0.0) reflect(0.0) the(0.0) notion(1.0) that(0.0) all(0.0) communities(1.0) ,(0.0) 
+regardless(0.0) of(0.0) race(1.0) or(0.0) ethnicity(1.0) ,(0.0) should(0.0) share(0.0) equally(0.0) in(0.0) the(0.0) burdens(1.0) and(0.0) risks(1.0) of(0.0) environmental(1.0) protection(1.0) policies(1.0) .(0.0) It(0.0) 
+sounds(0.0) reasonable(0.0) ,(0.0) except(0.0) ,(0.0) of(0.0) course(0.0) ,(0.0) until(0.0) the(0.0) theory(0.0) is(0.0) applied(0.0) .(0.0) Over(0.0) the(0.0) years(0.0) ,(0.0) the(0.0) policy(1.0) 
+has(0.0) been(0.0) twisted(0.0) like(0.0) a(0.0) pretzel(0.0) ,(0.0) so(0.0) that(0.0) today(0.0) ,(0.0) lawyers(1.0) and(0.0) activists(1.0) now(0.0) believe(0.0) that(0.0) different(0.0) people(0.0) deserve(1.0) 
+different(0.0) treatment(0.0) or(0.0) ,(0.0) more(0.0) precisely(0.0) ,(0.0) that(0.0) some(0.0) people(0.0) are(0.0) more(0.0) equal(1.0) than(0.0) others(0.0) .(0.0) Earlier(0.0) this(0.0) month(0.0) ,(0.0) 
+for(0.0) example(0.0) ,(0.0) top(0.0) Federal(1.0) officials(1.0) from(0.0) the(0.0) Environmental(0.0) Protection(0.0) Agency(0.0) ,(0.0) Department(0.0) of(0.0) Transportation(0.0) ,(0.0) Housing(1.0) and(0.0) Urban(0.0) Development(0.0) 
+,(0.0) and(0.0) even(0.0) the(0.0) White(1.0) House(0.0) Council(0.0) on(0.0) Environmental(0.0) Quality(0.0) came(0.0) to(0.0) New(1.0) York(1.0) for(0.0) a(0.0) day-long(0.0) tour(0.0) of(0.0) waste(1.0) 
+transfer(0.0) stations(0.0) in(0.0) the(0.0) South(0.0) Bronx(0.0) .(0.0) They(0.0) came(0.0) to(0.0) see(0.0) for(0.0) themselves(0.0) and(0.0) to(0.0) hear(0.0) the(0.0) residents(1.0) who(0.0) claim(0.0) 
+that(0.0) these(0.0) facilities(0.0) pose(0.0) an(0.0) environmental(1.0) injustice(1.0) on(0.0) their(0.0) community(0.0) .(0.0) Let(0.0) me(0.0) add(0.0) that(0.0) I(0.0) have(0.0) no(0.0) problem(0.0) with(0.0) 
+them(0.0) going(0.0) to(0.0) the(0.0) South(0.0) Bronx(0.0) .(0.0) The(0.0) morning(0.0) after(0.0) the(0.0) tour(0.0) ,(0.0) the(0.0) EPA(1.0) and(0.0) the(0.0) White(1.0) House(0.0) Council(0.0) 
+on(0.0) Environmental(0.0) Quality(0.0) organized(0.0) an(0.0) unprecedented(0.0) 8-hour(1.0) public(0.0) hearing(0.0) in(0.0) which(0.0) residents(0.0) had(0.0) the(0.0) opportunity(0.0) to(0.0) voice(0.0) their(0.0) outrage(1.0) over(0.0) 
+the(0.0) existence(0.0) of(0.0) the(0.0) transfer(0.0) stations(0.0) .(0.0) At(0.0) the(0.0) conclusion(0.0) of(0.0) the(0.0) event(0.0) ,(0.0) and(0.0) at(0.0) a(0.0) speed(0.0) in(0.0) which(0.0) 
+I(0.0) have(0.0) never(0.0) seen(0.0) the(0.0) Federal(1.0) Government(1.0) act(0.0) ,(0.0) the(0.0) White(1.0) House(0.0) Council(0.0) on(0.0) Environmental(0.0) Quality(0.0) announced(0.0) that(0.0) it(0.0) would(0.0) 
+undertake(0.0) an(0.0) environmental(1.0) justice(1.0) investigation(0.0) in(0.0) the(0.0) South(0.0) Bronx(0.0) .(0.0) This(0.0) is(0.0) ,(0.0) quite(0.0) possibly(0.0) ,(0.0) the(0.0) most(0.0) clear-cut(1.0) hypocrisy(1.0) 
+on(0.0) the(0.0) part(0.0) of(0.0) the(0.0) EPA(1.0) that(0.0) I(0.0) have(0.0) ever(0.0) witnessed(0.0) .(0.0) At(0.0) its(0.0) core(0.0) ,(0.0) the(0.0) doctrine(1.0) of(0.0) environmental(1.0) 
+justice(1.0) defies(1.0) the(0.0) most(0.0) fundamental(1.0) American(0.0) principles(1.0) of(0.0) equality(1.0) and(0.0) justice(1.0) .(0.0) Why(0.0) ?(0.0) Because(0.0) while(0.0) the(0.0) White(1.0) House(0.0) Council(0.0) 
+on(0.0) Environmental(0.0) Quality(0.0) mobilized(0.0) its(0.0) top(0.0) officials(0.0) for(0.0) a(0.0) tour(0.0) of(0.0) the(0.0) South(0.0) Bronx(0.0) ,(0.0) granted(0.0) a(0.0) predominantly(0.0) minority(0.0) community(0.0) 
+,(0.0) it(0.0) never(0.0) considered(0.0) traveling(0.0) just(0.0) a(0.0) few(0.0) miles(0.0) to(0.0) Staten(1.0) Island(1.0) ,(0.0) which(0.0) just(0.0) happens(0.0) to(0.0) be(0.0) a(0.0) predominantly(0.0) 
+white(0.0) community(0.0) ,(0.0) to(0.0) see(0.0) one(0.0) of(0.0) the(0.0) most(0.0) horrific(1.0) examples(0.0) and(0.0) nightmares(0.0) of(0.0) the(0.0) 20th(0.0) century(0.0) known(0.0) as(0.0) the(0.0) 
+Fresh(0.0) Kills(0.0) Landfill(1.0) .(0.0) To(0.0) me(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) it(0.0) was(0.0) an(0.0) insult(0.0) to(0.0) every(0.0) resident(0.0) of(0.0) Staten(1.0) 
+
+
+----- below are rationale words -----
+
+injustice	
+country	injustice	seeks	
+injustice	
+Staten	Island	injustice	Nation	
+controversy	centers	innocuous-sounding	policy	Environmental	
+justice	legal	doctrine	notion	communities	
+race	ethnicity	burdens	risks	environmental	protection	policies	
+policy	
+lawyers	activists	deserve	
+equal	
+Federal	officials	Housing	
+White	New	York	waste	
+residents	
+environmental	injustice	
+EPA	White	
+8-hour	outrage	
+
+Federal	Government	White	
+environmental	justice	clear-cut	hypocrisy	
+EPA	doctrine	environmental	
+justice	defies	fundamental	principles	equality	justice	White	
+
+Staten	Island	
+horrific	
+Landfill	Speaker	Staten	
+
+reads % = 0.136

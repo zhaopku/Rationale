@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) want(0.0) to(0.0) take(0.0) this(0.0) time(0.0) to(0.0) recognize(0.0) another(0.0) Texan(0.0) .(0.0) Being(0.0) from(0.0) Davy(0.0) Crockett's(0.0) district(1.0) ,(0.0) I(0.0) have(0.0) to(0.0) recognize(0.0) 
+these(0.0) Texans(1.0) ,(0.0) as(0.0) you(0.0) know(0.0) ,(0.0) but(0.0) one(0.0) of(0.0) the(0.0) leaders(0.0) in(0.0) the(0.0) House(0.0) on(0.0) financial(0.0) matters(0.0) and(0.0) fiscal(1.0) 
+conservative(0.0) business-like(1.0) principles(0.0) that(0.0) we(0.0) are(0.0) trying(0.0) to(0.0) advance(0.0) here(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) ((0.0) Mr.(0.0) Stenholm(1.0) )(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+district	
+Texans	fiscal	
+business-like	Stenholm	
+
+
+reads % = 0.08196721311475409

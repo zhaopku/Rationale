@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) 4(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Indiana(1.0) ((0.0) Mr.(0.0) Burton(1.0) )(0.0) ,(0.0) the(0.0) man(0.0) who(0.0) has(0.0) studied(0.0) 
+this(0.0) issue(0.0) and(0.0) realizes(0.0) that(0.0) Japan(0.0) and(0.0) Nazi(0.0) Germany(0.0) were(0.0) both(0.0) very(0.0) ,(0.0) very(0.0) developed(0.0) in(0.0) their(0.0) economy(1.0) ,(0.0) and(0.0) 
+they(0.0) also(0.0) were(0.0) aggressors(0.0) and(0.0) human(0.0) rights(1.0) abusers(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Indiana	Burton	
+economy	
+rights	abusers	
+
+reads % = 0.1

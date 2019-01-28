@@ -1,0 +1,50 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) thank(0.0) you(0.0) for(0.0) your(0.0) hard(0.0) work(0.0) on(0.0) this(0.0) legislation(1.0) ,(0.0) but(0.0) I(0.0) do(0.0) have(0.0) a(0.0) concern(0.0) about(0.0) funding(1.0) for(0.0) 
+the(0.0) Driver(0.0) Alcohol(0.0) Detection(0.0) System(0.0) for(0.0) Safety(0.0) ,(0.0) or(0.0) DADSS(0.0) ,(0.0) program(1.0) that(0.0) supports(0.0) research(0.0) of(0.0) advanced(0.0) alcohol(0.0) detection(0.0) technology(0.0) 
+.(0.0) MAP-21(1.0) authorized(0.0) and(0.0) Congress(0.0) provided(0.0) $(0.0) 5.44(0.0) million(0.0) for(0.0) this(0.0) program(1.0) in(0.0) fiscal(1.0) year(0.0) 2014(1.0) .(0.0) For(0.0) fiscal(1.0) year(0.0) 
+2015(1.0) ,(0.0) the(0.0) National(0.0) Highway(0.0) Traffic(0.0) Safety(0.0) Administration(0.0) requested(0.0) $(0.0) 5.72(0.0) million(0.0) .(0.0) Unfortunately(0.0) ,(0.0) the(0.0) report(0.0) attached(0.0) to(0.0) the(0.0) 
+T-HUD(0.0) bill(1.0) specifies(1.0) only(0.0) $(0.0) 2.72(0.0) million(0.0) for(0.0) this(0.0) program(1.0) .(0.0) The(0.0) DADSS(0.0) program(1.0) supports(0.0) a(0.0) cooperative(0.0) agreement(0.0) between(0.0) the(0.0) 
+Automotive(0.0) Coalition(0.0) for(0.0) Traffic(0.0) Safety(0.0) and(0.0) the(0.0) National(0.0) Traffic(0.0) Highway(0.0) Safety(0.0) Administration(0.0) to(0.0) work(0.0) together(0.0) to(0.0) create(0.0) a(0.0) passive(0.0) ,(0.0) 
+in-(0.0) vehicle(0.0) technology(0.0) that(0.0) can(0.0) determine(0.0) the(0.0) driver(0.0) 's(0.0) --(0.0) and(0.0) only(0.0) the(0.0) driver(0.0) 's(0.0) --(0.0) blood(0.0) alcohol(1.0) content(0.0) .(0.0) 
+If(0.0) the(0.0) driver(0.0) is(0.0) at(0.0) or(0.0) above(0.0) 0.08(0.0) ,(0.0) the(0.0) illegal(1.0) limit(1.0) in(0.0) all(0.0) 50(0.0) States(0.0) ,(0.0) the(0.0) car(0.0) would(0.0) 
+be(0.0) inoperable(0.0) .(0.0) The(0.0) current(0.0) operating(0.0) plan(0.0) for(0.0) the(0.0) program(1.0) runs(0.0) through(0.0) 2018(1.0) ,(0.0) and(0.0) the(0.0) goal(0.0) at(0.0) this(0.0) time(0.0) 
+would(0.0) be(0.0) to(0.0) have(0.0) ready(0.0) a(0.0) commercially(0.0) viable(0.0) technology(0.0) by(0.0) then(0.0) .(0.0) While(0.0) great(0.0) progress(0.0) has(0.0) been(0.0) made(0.0) ,(0.0) more(0.0) 
+research(0.0) must(0.0) take(0.0) place(0.0) .(0.0) Full(0.0) funding(1.0) for(0.0) this(0.0) research(0.0) should(0.0) be(0.0) a(0.0) priority(0.0) for(0.0) this(0.0) Congress(1.0) because(0.0) each(0.0) year(0.0) 
+,(0.0) over(0.0) 10,000(0.0) Americans(1.0) are(0.0) killed(0.0) due(0.0) to(0.0) drunk(1.0) driving(0.0) --(0.0) nearly(0.0) one-third(1.0) of(0.0) all(0.0) traffic(0.0) fatalities(1.0) .(0.0) Madam(0.0) Chairman(1.0) 
+,(0.0) Mothers(1.0) Against(1.0) Drunk(1.0) Driving(0.0) has(0.0) called(0.0) the(0.0) DADSS(0.0) program(1.0) its(0.0) highest(0.0) legislative(0.0) priority(1.0) .(0.0) The(0.0) Insurance(1.0) Institute(0.0) for(0.0) Highway(0.0) 
+Safety(0.0) has(0.0) looked(0.0) at(0.0) the(0.0) potential(0.0) of(0.0) this(0.0) technology(0.0) and(0.0) said(0.0) it(0.0) could(0.0) save(0.0) over(0.0) 7,000(0.0) lives(0.0) per(0.0) year(0.0) .(0.0) 
+Every(0.0) major(0.0) traffic(0.0) safety(0.0) group(0.0) in(0.0) this(0.0) country(1.0) supports(0.0) this(0.0) ,(0.0) including(0.0) the(0.0) National(0.0) Transportation(0.0) Safety(0.0) Board(0.0) .(0.0) The(0.0) National(0.0) 
+Highway(0.0) Traffic(0.0) Safety(0.0) Administration(0.0) has(0.0) identified(0.0) this(0.0) project(0.0) as(0.0) one(0.0) of(0.0) its(0.0) highest(0.0) priorities(0.0) .(0.0) The(0.0) authorized(0.0) funding(0.0) level(0.0) is(0.0) 
+not(0.0) a(0.0) tremendous(0.0) sum(0.0) when(0.0) you(0.0) consider(0.0) the(0.0) fact(0.0) that(0.0) drunk(0.0) driving(0.0) costs(1.0) Americans(1.0) over(0.0) $(0.0) 132(0.0) billion(1.0) each(0.0) year(0.0) 
+,(0.0) and(0.0) I(0.0) believe(0.0) that(0.0) fully(0.0) funding(1.0) this(0.0) project(0.0) and(0.0) including(0.0) the(0.0) administration(1.0) 's(0.0) request(0.0) of(0.0) $(0.0) 5.72(0.0) million(0.0) --(0.0) 
+which(0.0) is(0.0) already(0.0) included(0.0) in(0.0) the(0.0) Senate(1.0) fiscal(1.0) year(0.0) 2015(1.0) Transportation-HUD(0.0) Appropriations(1.0) bill(0.0) --(1.0) is(0.0) a(0.0) small(0.0) price(0.0) to(0.0) pay(1.0) 
+for(0.0) a(0.0) project(0.0) with(0.0) this(0.0) much(0.0) potential(0.0) .(0.0) I(0.0) would(0.0) respectfully(0.0) ask(0.0) the(0.0) chairman(0.0) that(0.0) we(0.0) work(0.0) together(0.0) to(0.0) restore(0.0) 
+this(0.0) critical(0.0) funding(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+legislation	funding	
+program	
+MAP-21	program	fiscal	2014	fiscal	
+2015	
+bill	specifies	program	program	
+
+alcohol	
+illegal	limit	
+program	2018	
+
+funding	Congress	
+Americans	drunk	one-third	fatalities	Chairman	
+Mothers	Against	Drunk	program	priority	Insurance	
+
+country	
+
+costs	Americans	billion	
+funding	administration	
+Senate	fiscal	2015	Appropriations	--	pay	
+
+funding	
+
+reads % = 0.10864197530864197

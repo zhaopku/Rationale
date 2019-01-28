@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Now(0.0) ,(0.0) we(0.0) are(0.0) planning(0.0) to(0.0) complete(0.0) final(0.0) passage(1.0) on(0.0) campaign(1.0) finance(1.0) reform(1.0) on(1.0) Wednesday(1.0) ,(0.0) or(1.0) go(0.0) over(0.0) until(0.0) Thursday(0.0) 
+,(0.0) if(0.0) necessary(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+passage	campaign	finance	reform	on	Wednesday	or	
+
+
+reads % = 0.28

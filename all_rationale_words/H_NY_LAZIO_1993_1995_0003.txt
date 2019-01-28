@@ -1,0 +1,40 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) every(0.0) day(0.0) ,(0.0) career(0.0) criminals(0.0) exact(0.0) an(0.0) untold(0.0) cost(0.0) on(0.0) American(0.0) societal(1.0) and(0.0) cultural(1.0) life(0.0) .(0.0) When(0.0) the(0.0) perpetrator(1.0) 
+of(0.0) a(0.0) crime(1.0) commits(0.0) his(0.0) illegal(1.0) act(0.0) ,(0.0) be(0.0) it(0.0) an(0.0) environmental(1.0) crime(1.0) ,(0.0) a(0.0) white(0.0) collar(0.0) crime(0.0) ,(0.0) or(0.0) 
+a(0.0) crime(0.0) of(0.0) violence(1.0) ,(0.0) the(0.0) effect(1.0) on(0.0) the(0.0) victims(1.0) goes(0.0) far(0.0) beyond(0.0) what(0.0) the(0.0) newspaper(0.0) headlines(0.0) tell(0.0) .(0.0) If(0.0) 
+the(0.0) person(0.0) responsible(0.0) for(0.0) injuring(0.0) the(0.0) victims(1.0) goes(0.0) to(0.0) prison(1.0) ,(0.0) he(0.0) may(0.0) pay(0.0) his(0.0) debt(0.0) to(0.0) society(1.0) .(0.0) But(0.0) 
+the(0.0) victims(1.0) of(0.0) the(0.0) crime(1.0) are(0.0) not(0.0) made(0.0) whole(0.0) .(0.0) There(0.0) are(0.0) physical(0.0) ,(0.0) emotional(0.0) ,(0.0) and(0.0) financial(1.0) costs(1.0) that(0.0) 
+are(0.0) not(0.0) compensated(0.0) unless(0.0) that(0.0) person(0.0) brings(0.0) a(0.0) civil(1.0) suit(0.0) ,(0.0) a(0.0) long(0.0) and(0.0) unpredictable(0.0) process(0.0) .(0.0) Sadly(0.0) ,(0.0) these(0.0) 
+individuals(0.0) are(0.0) often(0.0) not(0.0) paid(0.0) any(0.0) monetary(0.0) restitution(1.0) for(0.0) their(0.0) loss(0.0) .(0.0) Imagine(0.0) this(0.0) on(0.0) a(0.0) larger(0.0) scale(0.0) .(0.0) Imagine(0.0) 
+this(0.0) occurring(0.0) in(0.0) towns(1.0) and(0.0) cities(0.0) across(0.0) our(0.0) Nation(1.0) ,(0.0) all(0.0) those(0.0) victims(1.0) of(0.0) crimes(1.0) whose(0.0) lives(0.0) have(0.0) been(0.0) dramatically(0.0) 
+disrupted(0.0) by(0.0) individual(0.0) crimes(1.0) .(0.0) We(0.0) as(0.0) a(0.0) society(1.0) suffer(0.0) .(0.0) Indirectly(0.0) we(0.0) all(0.0) pay(1.0) these(0.0) costs(1.0) of(0.0) crime(1.0) in(0.0) 
+our(0.0) Nation(1.0) .(0.0) ``(0.0) No(0.0) [(0.0) person(0.0) ](0.0) is(0.0) an(0.0) island(0.0) *(0.0) *(0.0) *(0.0) every(0.0) [(0.0) person(0.0) ](0.0) is(0.0) a(0.0) 
+piece(0.0) of(0.0) the(0.0) continent(0.0) .(0.0) ''(0.0) Presently(0.0) ,(0.0) Federal(1.0) courts(1.0) have(0.0) discretion(0.0) to(0.0) order(0.0) restitution(0.0) be(0.0) paid(0.0) to(0.0) victims(0.0) by(0.0) 
+offenders(1.0) .(0.0) Why(0.0) not(0.0) make(0.0) this(0.0) a(0.0) requirement(0.0) ?(0.0) This(0.0) is(0.0) not(0.0) a(0.0) radical(0.0) notion(0.0) .(0.0) Although(0.0) a(0.0) small(0.0) step(0.0) 
+,(0.0) this(0.0) measure(1.0) will(0.0) ensure(0.0) that(0.0) to(0.0) some(0.0) extent(0.0) ,(0.0) there(0.0) will(0.0) be(0.0) compensation(1.0) for(0.0) those(0.0) victimized(1.0) by(0.0) Federal(1.0) crimes(1.0) 
+.(0.0) Steps(0.0) will(0.0) be(0.0) taken(0.0) to(0.0) make(0.0) those(0.0) affected(0.0) by(0.0) crime(1.0) whole(0.0) again(0.0) .(0.0) This(0.0) bill(1.0) also(0.0) prohibits(1.0) double-dipping(1.0) ,(0.0) 
+so(0.0) injured(0.0) parties(0.0) will(0.0) not(0.0) receive(0.0) undue(1.0) compensation(1.0) .(0.0) Passing(0.0) this(0.0) bill(1.0) is(0.0) the(0.0) least(0.0) we(0.0) can(0.0) do(0.0) here(0.0) in(0.0) 
+Congress(0.0) to(0.0) help(0.0) repair(0.0) the(0.0) damage(0.0) done(0.0) to(0.0) peoples(1.0) '(0.0) lives(0.0) by(0.0) this(0.0) epidemic(1.0) of(0.0) crime(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+societal	cultural	perpetrator	
+crime	illegal	environmental	crime	
+violence	effect	victims	
+victims	prison	society	
+victims	crime	financial	costs	
+civil	
+restitution	
+towns	Nation	victims	crimes	
+crimes	society	pay	costs	crime	
+Nation	
+Federal	courts	
+offenders	
+measure	compensation	victimized	Federal	crimes	
+crime	bill	prohibits	double-dipping	
+undue	compensation	bill	
+peoples	epidemic	crime	
+
+reads % = 0.14779874213836477

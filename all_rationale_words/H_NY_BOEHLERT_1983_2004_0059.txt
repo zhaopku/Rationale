@@ -1,0 +1,36 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) ,(0.0) and(0.0) before(0.0) I(0.0) actually(0.0) close(0.0) ,(0.0) let(0.0) me(0.0) thank(0.0) 
+all(0.0) of(0.0) the(0.0) staff(0.0) who(0.0) worked(0.0) so(0.0) hard(0.0) on(0.0) this(0.0) over(0.0) the(0.0) past(0.0) year(0.0) :(0.0) Olwen(0.0) Huzley(0.0) ,(0.0) Eric(0.0) Webster(1.0) 
+,(0.0) Amy(0.0) Carroll(1.0) ,(0.0) David(0.0) Goldston(1.0) on(0.0) the(0.0) committee(0.0) staff(0.0) ;(0.0) and(0.0) Cameron(0.0) Wilson(0.0) on(0.0) the(0.0) staff(0.0) of(0.0) the(0.0) gentleman(0.0) 
+from(0.0) Michigan(1.0) ((0.0) Mr.(0.0) Ehlers(1.0) )(0.0) ,(0.0) who(0.0) ,(0.0) happily(0.0) ,(0.0) could(0.0) not(0.0) be(0.0) with(0.0) us(0.0) today(0.0) because(0.0) of(0.0) the(0.0) 
+birth(0.0) of(0.0) Nolan(0.0) Eric(0.0) Wilson(1.0) .(0.0) We(0.0) wish(0.0) Nolan(0.0) ,(0.0) Cameron(0.0) and(0.0) Laura(0.0) Wilson(1.0) our(0.0) very(0.0) best(0.0) .(0.0) Our(0.0) staff(0.0) 
+finds(0.0) many(0.0) ways(0.0) to(0.0) contribute(0.0) to(0.0) the(0.0) Nation(1.0) 's(0.0) future(0.0) .(0.0) And(0.0) ,(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) let(0.0) me(0.0) thank(0.0) my(0.0) 
+colleagues(0.0) on(0.0) the(0.0) other(0.0) side(0.0) of(0.0) the(0.0) aisle(0.0) .(0.0) We(0.0) have(0.0) worked(0.0) in(0.0) a(0.0) bipartisan(1.0) fashion(0.0) to(0.0) create(0.0) a(0.0) good(0.0) 
+bill(0.0) .(0.0) There(0.0) are(0.0) some(0.0) differences(0.0) over(0.0) the(0.0) level(0.0) of(0.0) funding(1.0) ,(0.0) but(0.0) I(0.0) will(0.0) say(0.0) that(0.0) we(0.0) are(0.0) on(0.0) 
+the(0.0) same(0.0) wavelength(0.0) with(0.0) respect(0.0) to(0.0) our(0.0) admiration(0.0) and(0.0) affection(0.0) for(0.0) the(0.0) Manufacturing(0.0) Extension(0.0) Partnership(0.0) and(0.0) we(0.0) can(0.0) proudly(0.0) go(0.0) 
+forward(0.0) with(0.0) the(0.0) committee(0.0) 's(0.0) bill(0.0) .(0.0) That(0.0) is(0.0) what(0.0) this(0.0) bill(1.0) is(0.0) all(0.0) about(0.0) .(0.0) It(0.0) is(0.0) about(0.0) jobs(0.0) 
+,(0.0) it(0.0) is(0.0) about(0.0) helping(0.0) the(0.0) manufacturing(1.0) sector(1.0) .(0.0) And(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Arizona(0.0) ((0.0) Mr.(0.0) Flake(1.0) )(0.0) I(1.0) 
+would(0.0) point(0.0) out(0.0) ,(0.0) if(0.0) manufacturing(0.0) in(0.0) America(1.0) was(0.0) subsidized(1.0) to(0.0) the(0.0) extent(0.0) that(0.0) government(1.0) subsidized(1.0) professional(0.0) sports(0.0) is(0.0) ,(0.0) 
+they(0.0) would(0.0) be(0.0) in(0.0) heaven(0.0) .(0.0) H.R(0.0) .(0.0) 3598(0.0) will(0.0) help(0.0) ensure(0.0) that(0.0) our(0.0) Nation(1.0) has(0.0) good(0.0) ,(0.0) high-paying(1.0) ,(0.0) 
+productive(0.0) manufacturing(1.0) jobs(0.0) for(0.0) years(0.0) to(0.0) come(0.0) ,(0.0) and(0.0) I(0.0) urge(0.0) its(0.0) adoption(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Webster	
+Carroll	Goldston	
+Michigan	Ehlers	
+Wilson	Wilson	
+Nation	Chairman	
+bipartisan	
+funding	
+
+bill	
+manufacturing	sector	Flake	I	
+America	subsidized	government	subsidized	
+Nation	high-paying	
+manufacturing	adoption	
+
+reads % = 0.08727272727272728

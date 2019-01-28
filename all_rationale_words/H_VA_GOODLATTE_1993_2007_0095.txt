@@ -1,0 +1,50 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) strong(0.0) opposition(1.0) to(0.0) this(0.0) completely(0.0) closed(0.0) rule(1.0) for(0.0) the(0.0) consideration(0.0) of(0.0) the(0.0) Eightmile(1.0) Wild(0.0) and(0.0) 
+Scenic(0.0) River(0.0) Act(0.0) .(0.0) This(0.0) bill(0.0) is(0.0) a(0.0) controversial(0.0) one(0.0) because(0.0) of(0.0) the(0.0) chilling(0.0) effect(0.0) it(0.0) will(0.0) have(0.0) on(0.0) the(0.0) 
+private(0.0) property(0.0) rights(0.0) of(0.0) citizens(1.0) located(0.0) in(0.0) the(0.0) same(0.0) area(0.0) affected(0.0) by(0.0) the(0.0) infamous(1.0) Kelo(1.0) decision(0.0) .(0.0) In(0.0) Kelo(1.0) v.(0.0) 
+City(1.0) of(0.0) New(1.0) London(0.0) ,(0.0) the(0.0) Supreme(0.0) Court(0.0) gave(0.0) State(0.0) and(0.0) local(0.0) governments(0.0) broad(0.0) authority(0.0) to(0.0) seize(0.0) private(0.0) property(0.0) and(0.0) 
+give(0.0) it(0.0) to(0.0) another(0.0) private(0.0) entity(0.0) under(0.0) the(0.0) guise(0.0) of(0.0) economic(1.0) development(0.0) .(0.0) When(0.0) citizens(1.0) believe(0.0) that(0.0) their(0.0) land(0.0) can(0.0) 
+be(0.0) snatched(0.0) up(0.0) by(0.0) the(0.0) government(1.0) for(0.0) nearly(0.0) any(0.0) reason(0.0) ,(0.0) then(0.0) the(0.0) principle(1.0) of(0.0) private(0.0) property(0.0) rights(1.0) becomes(0.0) meaningless(1.0) 
+.(0.0) The(0.0) bill(1.0) before(0.0) us(0.0) today(0.0) will(0.0) severely(1.0) restrict(1.0) the(0.0) property(1.0) rights(1.0) of(0.0) individuals(1.0) who(0.0) happen(0.0) to(0.0) live(0.0) near(0.0) the(0.0) 
+Eightmile(1.0) River(1.0) by(0.0) tightening(1.0) zoning(1.0) restrictions(1.0) on(0.0) private(0.0) land(0.0) and(0.0) prohibiting(1.0) any(0.0) physical(0.0) alteration(0.0) to(0.0) private(0.0) property(0.0) .(0.0) Furthermore(0.0) ,(0.0) 
+and(0.0) perhaps(0.0) most(0.0) troubling(0.0) ,(0.0) the(0.0) bill(1.0) leaves(0.0) the(0.0) door(0.0) wide(0.0) open(0.0) to(0.0) actual(0.0) condemnation(1.0) proceedings(0.0) against(0.0) private(0.0) land(0.0) .(0.0) 
+The(0.0) majority(1.0) already(0.0) tried(0.0) once(0.0) to(0.0) ram(0.0) this(0.0) controversial(1.0) bill(1.0) through(0.0) the(0.0) House(0.0) without(0.0) an(0.0) opportunity(0.0) for(0.0) amendments(1.0) .(0.0) That(0.0) 
+attempt(0.0) ,(0.0) fortunately(0.0) ,(0.0) failed(0.0) to(0.0) garner(1.0) the(0.0) two-thirds(1.0) vote(1.0) necessary(0.0) to(0.0) pass(0.0) on(0.0) the(0.0) suspension(0.0) calendar(0.0) .(0.0) Now(0.0) the(0.0) 
+majority(1.0) is(0.0) back(0.0) at(0.0) it(0.0) again(0.0) .(0.0) It(0.0) 's(0.0) bad(0.0) enough(0.0) that(0.0) the(0.0) majority(1.0) is(0.0) bringing(0.0) this(0.0) bill(1.0) back(0.0) to(0.0) 
+the(0.0) floor(0.0) with(0.0) no(0.0) improvements(0.0) to(0.0) protect(1.0) private(0.0) property(0.0) rights(0.0) .(0.0) However(0.0) ,(0.0) it(0.0) is(0.0) worse(0.0) that(0.0) the(0.0) majority(1.0) has(0.0) 
+made(0.0) the(0.0) decision(1.0) to(0.0) suppress(1.0) debate(1.0) on(0.0) this(0.0) controversial(1.0) bill(1.0) and(0.0) deny(1.0) Members(0.0) the(0.0) opportunity(0.0) to(0.0) correct(0.0) the(0.0) land-grabbing(1.0) provisions(1.0) 
+with(0.0) constructive(1.0) amendments(1.0) .(0.0) Private(0.0) ownership(0.0) of(0.0) property(0.0) is(0.0) vital(0.0) to(0.0) our(0.0) freedom(1.0) and(0.0) our(0.0) prosperity(1.0) and(0.0) is(0.0) a(0.0) basic(0.0) 
+principle(1.0) embedded(0.0) in(0.0) our(0.0) Constitution(1.0) .(0.0) No(0.0) one(0.0) should(0.0) have(0.0) to(0.0) live(0.0) in(0.0) fear(1.0) of(0.0) the(0.0) government(1.0) snatching(1.0) up(0.0) their(0.0) 
+home(0.0) ,(0.0) farm(0.0) ,(0.0) church(1.0) or(0.0) business(0.0) .(0.0) I(0.0) introduced(0.0) legislation(1.0) earlier(0.0) this(0.0) year(0.0) ,(0.0) the(0.0) STOPP(1.0) Act(1.0) ,(0.0) along(0.0) 
+with(0.0) Representative(1.0) Herseth(1.0) Sandlin(1.0) to(1.0) rein(1.0) in(0.0) State(0.0) and(0.0) local(0.0) governments'(0.0) abuses(0.0) of(0.0) their(0.0) eminent(0.0) domain(0.0) powers(0.0) .(0.0) Unfortunately(0.0) ,(0.0) 
+H.R(0.0) .(0.0) 986(0.0) goes(0.0) in(0.0) the(0.0) opposite(0.0) direction(0.0) and(0.0) sets(0.0) a(0.0) precedent(0.0) for(0.0) more(0.0) land-grabbing(1.0) by(0.0) government(1.0) entities(0.0) .(0.0) I(0.0) 
+urge(0.0) the(0.0) Members(0.0) of(0.0) this(0.0) body(0.0) to(0.0) oppose(1.0) both(0.0) this(0.0) rule(1.0) ,(0.0) which(0.0) bans(1.0) debate(1.0) on(0.0) protecting(1.0) private(1.0) property(0.0) rights(0.0) 
+,(0.0) as(0.0) well(0.0) as(0.0) the(0.0) misguided(1.0) underlying(0.0) bill(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+opposition	rule	Eightmile	
+
+citizens	infamous	Kelo	Kelo	
+City	New	
+economic	citizens	
+government	principle	rights	meaningless	
+bill	severely	restrict	property	rights	individuals	
+Eightmile	River	tightening	zoning	restrictions	prohibiting	
+bill	condemnation	
+majority	controversial	bill	amendments	
+garner	two-thirds	vote	
+majority	majority	bill	
+protect	majority	
+decision	suppress	debate	controversial	bill	deny	land-grabbing	provisions	
+constructive	amendments	freedom	prosperity	
+principle	Constitution	fear	government	snatching	
+church	legislation	STOPP	Act	
+Representative	Herseth	Sandlin	to	rein	
+land-grabbing	government	
+oppose	rule	bans	debate	protecting	private	
+misguided	bill	
+
+reads % = 0.1878048780487805

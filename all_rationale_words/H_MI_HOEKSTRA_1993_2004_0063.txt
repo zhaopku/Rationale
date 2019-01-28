@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) want(0.0) to(0.0) again(0.0) talk(0.0) a(0.0) little(0.0) bit(0.0) about(0.0) the(0.0) war(1.0) that(0.0) we(0.0) are(0.0) in(0.0) .(0.0) The(0.0) Under(1.0) Secretary(0.0) of(0.0) Defense(0.0) 
+for(0.0) Intelligence(0.0) ,(0.0) Steve(0.0) Cambone(1.0) ,(0.0) gave(0.0) a(0.0) speech(0.0) back(0.0) in(0.0) January(0.0) that(0.0) I(0.0) think(0.0) kind(0.0) of(0.0) describes(0.0) the(0.0) challenges(0.0) 
+that(0.0) we(0.0) face(0.0) as(0.0) a(0.0) Nation(0.0) .(0.0) And(0.0) as(0.0) we(0.0) talk(0.0) about(0.0) the(0.0) progress(0.0) that(0.0) we(0.0) make(0.0) in(0.0) Iraq(1.0) ,(0.0) 
+as(0.0) we(0.0) talk(0.0) about(0.0) the(0.0) progress(0.0) that(0.0) we(0.0) make(0.0) in(0.0) Afghanistan(1.0) ,(0.0) we(0.0) can(0.0) not(0.0) lose(0.0) context(0.0) of(0.0) the(0.0) total(0.0) 
+situation(0.0) that(0.0) we(0.0) face(0.0) as(0.0) a(0.0) Nation(0.0) .(0.0) And(0.0) here(0.0) is(0.0) how(0.0) the(0.0) Under(0.0) Secretary(0.0) described(0.0) it(0.0) :(0.0) ``(0.0) We(0.0) 
+are(0.0) a(0.0) Nation(0.0) at(0.0) war(1.0) .(0.0) We(0.0) do(0.0) not(0.0) know(0.0) how(0.0) long(0.0) it(0.0) will(0.0) last(0.0) ,(0.0) but(0.0) it(0.0) is(0.0) unlikely(0.0) 
+to(0.0) be(0.0) short(0.0) .(0.0) We(0.0) can(0.0) not(0.0) know(0.0) where(0.0) or(0.0) against(0.0) whom(0.0) all(0.0) of(0.0) its(0.0) battles(0.0) will(0.0) be(0.0) fought(1.0) .(0.0) 
+There(0.0) are(0.0) multiple(0.0) fronts(0.0) in(0.0) this(0.0) war(1.0) ,(0.0) and(0.0) there(0.0) is(0.0) no(0.0) single(0.0) theatre(0.0) of(0.0) operations(0.0) .(0.0) We(0.0) do(0.0) know(0.0) 
+that(0.0) we(0.0) are(0.0) all(0.0) at(0.0) risk(0.0) ,(0.0) at(0.0) home(0.0) and(0.0) abroad(0.0) ,(0.0) civilians(1.0) and(0.0) military(0.0) alike(0.0) .(0.0) We(0.0) do(0.0) know(0.0) 
+that(0.0) battles(0.0) and(0.0) campaigns(1.0) will(0.0) both(0.0) be(0.0) conventional(0.0) and(0.0) unconventional(1.0) in(0.0) their(0.0) conduct(0.0) .(0.0) Some(0.0) of(0.0) those(0.0) battles(1.0) and(0.0) campaigns(1.0) 
+will(0.0) be(0.0) fought(1.0) in(0.0) the(0.0) open(0.0) ,(0.0) and(0.0) others(0.0) will(0.0) be(0.0) fought(1.0) in(0.0) secret(1.0) where(0.0) our(0.0) victories(1.0) will(0.0) be(0.0) known(0.0) 
+to(0.0) only(0.0) a(0.0) few(0.0) .(0.0) ''(0.0) Going(0.0) on(0.0) in(0.0) his(0.0) speech(0.0) he(0.0) says(0.0) :(0.0) ``(0.0) We(0.0) are(0.0) facing(0.0) a(0.0) turbulent(0.0) 
+and(0.0) volatile(0.0) world(0.0) populated(0.0) by(0.0) a(0.0) number(0.0) of(0.0) highly(0.0) adaptive(0.0) state(1.0) and(0.0) nonstate(1.0) actors(0.0) .(0.0) Some(0.0) of(0.0) these(0.0) are(0.0) weighing(0.0) 
+whether(0.0) ,(0.0) to(0.0) what(0.0) extent(0.0) ,(0.0) or(0.0) how(0.0) they(0.0) might(0.0) oppose(1.0) the(0.0) interests(1.0) of(0.0) the(0.0) United(0.0) States(0.0) and(0.0) its(0.0) friends(0.0) 
+.(0.0) Others(0.0) such(0.0) as(0.0) the(0.0) terrorist(1.0) organizations(0.0) responsible(0.0) for(0.0) attacks(0.0) on(0.0) the(0.0) United(0.0) States(0.0) ,(0.0) Turkey(0.0) ,(0.0) Indonesia(0.0) ,(0.0) Morocco(0.0) 
+,(0.0) Saudi(0.0) Arabia(0.0) ,(0.0) Israel(0.0) ,(0.0) Kenya(0.0) ,(0.0) the(0.0) Philippines(0.0) ,(0.0) Afghanistan(0.0) ,(0.0) Pakistan(0.0) ,(0.0) Iraq(0.0) ,(0.0) and(0.0) other(0.0) places(0.0) 
+have(0.0) committed(0.0) themselves(0.0) to(0.0) war(1.0) .(0.0) ''(0.0) I(0.0) think(0.0) this(0.0) gives(0.0) us(0.0) some(0.0) idea(0.0) as(0.0) to(0.0) the(0.0) full(0.0) context(0.0) of(0.0) 
+the(0.0) threat(1.0) that(0.0) we(0.0) face(0.0) and(0.0) the(0.0) number(0.0) of(0.0) different(0.0) places(0.0) that(0.0) we(0.0) face(0.0) that(0.0) threat(1.0) .(0.0) He(0.0) also(0.0) goes(0.0) 
+on(0.0) to(0.0) say(0.0) :(0.0) ``(0.0) It(0.0) is(0.0) impossible(0.0) to(0.0) predict(0.0) with(0.0) confidence(0.0) what(0.0) nation(1.0) or(0.0) entity(0.0) will(0.0) pose(0.0) a(0.0) threat(0.0) 
+in(0.0) 5(0.0) ,(0.0) 10(0.0) ,(0.0) or(0.0) 20(0.0) years(0.0) to(0.0) the(0.0) United(0.0) States(0.0) or(0.0) to(0.0) our(0.0) friends(0.0) and(0.0) allies(1.0) .(0.0) ''(0.0) 
+His(0.0) speech(0.0) goes(0.0) on(0.0) :(0.0) ``(0.0) But(0.0) not(0.0) everything(0.0) that(0.0) unfolds(0.0) in(0.0) the(0.0) coming(0.0) years(0.0) should(0.0) be(0.0) a(0.0) surprise(0.0) .(0.0) 
+''(0.0) Here(0.0) is(0.0) what(0.0) we(0.0) can(0.0) expect(0.0) :(0.0) ``(0.0) We(0.0) can(0.0) expect(0.0) that(0.0) an(0.0) adversary(0.0) will(0.0) continuously(0.0) search(0.0) for(0.0) effective(0.0) 
+means(0.0) to(0.0) attack(1.0) our(0.0) people(0.0) ,(0.0) our(0.0) economy(1.0) ,(0.0) military(0.0) and(0.0) political(1.0) power(0.0) ,(0.0) and(0.0) the(0.0) people(0.0) in(0.0) power(0.0) of(0.0) 
+our(0.0) friends(0.0) and(0.0) allies(1.0) .(0.0) We(0.0) can(0.0) also(0.0) expect(0.0) that(0.0) an(0.0) adversary(1.0) will(0.0) have(0.0) access(0.0) to(0.0) a(0.0) range(0.0) of(0.0) modern(0.0) 
+technologies(0.0) and(0.0) will(0.0) be(0.0) prepared(0.0) to(0.0) use(0.0) them(0.0) to(0.0) magnify(0.0) the(0.0) destructiveness(1.0) of(0.0) their(0.0) attacks(1.0) ,(0.0) using(0.0) truck(0.0) bombs(1.0) 
+
+
+----- below are rationale words -----
+
+war	Under	
+Cambone	
+Iraq	
+Afghanistan	
+
+war	
+fought	
+war	
+civilians	
+campaigns	unconventional	battles	campaigns	
+fought	fought	secret	victories	
+
+state	nonstate	
+oppose	interests	
+terrorist	
+
+war	
+threat	threat	
+nation	
+allies	
+
+
+attack	economy	political	
+allies	adversary	
+destructiveness	attacks	bombs	
+
+reads % = 0.07

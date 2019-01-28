@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) today(0.0) the(0.0) House(0.0) considers(1.0) a(0.0) bill(0.0) that(0.0) addresses(0.0) another(0.0) of(0.0) the(0.0) contentious(1.0) areas(0.0) where(0.0) capital(1.0) and(0.0) investment(1.0) needs(0.0) 
+of(0.0) American(0.0) business(0.0) intersect(0.0) with(0.0) the(0.0) needs(0.0) of(0.0) managing(0.0) economic(1.0) risk(0.0) in(0.0) a(0.0) global(1.0) market(0.0) .(0.0) Although(0.0) the(0.0) issues(0.0) in(0.0) 
+this(0.0) bill(1.0) do(1.0) not(0.0) have(0.0) the(0.0) long(0.0) history(0.0) associated(0.0) with(0.0) Glass-Steagall(1.0) reforms(1.0) ,(0.0) the(0.0) process(0.0) that(0.0) we(0.0) hope(0.0) to(0.0) be(0.0) 
+culminating(0.0) this(0.0) afternoon(0.0) actually(0.0) began(0.0) in(0.0) 1989(1.0) .(0.0) Then(0.0) it(0.0) took(0.0) the(0.0) Congress(0.0) 3(0.0) years(0.0) to(0.0) broker(0.0) a(0.0) solution(0.0) on(0.0) 
+how(0.0) to(0.0) deal(0.0) with(0.0) over-the-(0.0) counter(0.0) financial(1.0) instruments(0.0) that(0.0) had(0.0) many(0.0) of(0.0) the(0.0) economic(1.0) characteristics(0.0) of(0.0) agricultural(1.0) futures(0.0) .(0.0) While(0.0) 
+the(0.0) Futures(0.0) Trading(0.0) Practices(0.0) Act(0.0) of(0.0) 1992(0.0) proved(0.0) temporary(0.0) ,(0.0) we(0.0) hope(0.0) that(0.0) today's(0.0) legislation(1.0) will(0.0) be(0.0) more(0.0) lasting(0.0) .(0.0) 
+Let(0.0) me(0.0) emphasize(0.0) at(0.0) the(0.0) outset(0.0) of(0.0) this(0.0) bill(1.0) it(0.0) aligns(0.0) itself(0.0) closely(0.0) with(0.0) the(0.0) recommendations(0.0) of(0.0) the(0.0) President(1.0) 's(0.0) 
+Working(0.0) Group(0.0) on(0.0) Financial(0.0) Services(0.0) .(0.0) The(0.0) Department(0.0) of(0.0) the(0.0) Treasury(0.0) ,(0.0) the(0.0) Federal(1.0) Reserve(0.0) ,(0.0) the(0.0) Securities(0.0) and(0.0) Exchange(0.0) 
+Commission(0.0) and(0.0) the(0.0) Commodity(0.0) Futures(0.0) Trading(0.0) Commission(0.0) compromise(0.0) the(0.0) President(0.0) 's(0.0) Working(0.0) Group(0.0) .(0.0) The(0.0) PWG(0.0) urged(0.0) the(0.0) Congress(0.0) to(0.0) 
+steer(0.0) clear(0.0) of(0.0) allowing(0.0) over-the-(0.0) counter(0.0) financial(0.0) instruments(0.0) to(0.0) be(0.0) offered(0.0) to(0.0) unsuspecting(0.0) individuals(0.0) who(0.0) could(0.0) lose(0.0) their(0.0) life(0.0) 's(0.0) 
+savings(0.0) by(0.0) picking(0.0) an(0.0) unsuitable(0.0) investment(0.0) .(0.0) These(0.0) are(0.0) the(0.0) so-called(1.0) ``(0.0) retail(0.0) customers(0.0) ,(0.0) ''(0.0) and(0.0) in(0.0) all(0.0) instances(0.0) 
+this(0.0) bill(1.0) has(0.0) followed(0.0) the(0.0) PWG(0.0) 's(0.0) advice(0.0) .(0.0) Indeed(0.0) ,(0.0) the(0.0) three(0.0) committees(0.0) of(0.0) jurisdiction(1.0) here(0.0) in(0.0) the(0.0) House(0.0) 
+have(0.0) taken(0.0) a(0.0) cautious(0.0) approach(0.0) ,(0.0) while(0.0) making(0.0) the(0.0) three(0.0) remain(0.0) reforms(1.0) the(0.0) centerpiece(1.0) of(0.0) this(0.0) legislation(1.0) .(0.0) First(0.0) ,(0.0) 
+we(0.0) provide(0.0) legal(1.0) certainty(1.0) to(0.0) the(0.0) vast(0.0) multi-trillion(1.0) dollar(1.0) derivative(1.0) markets(1.0) ,(0.0) but(0.0) we(0.0) make(0.0) certain(0.0) that(0.0) only(0.0) highly(0.0) sophisticated(0.0) 
+,(0.0) deep-pocketed(1.0) companies(1.0) and(0.0) individuals(0.0) may(0.0) participate(0.0) in(0.0) these(0.0) markets(1.0) .(0.0) Second(0.0) ,(0.0) we(0.0) provide(0.0) the(0.0) U.S.(0.0) derivatives(0.0) industry(0.0) the(0.0) 
+ability(0.0) to(0.0) trade(1.0) single(0.0) stock(0.0) futures(0.0) ,(0.0) but(0.0) only(0.0) under(0.0) the(0.0) watchful(0.0) eyes(0.0) of(0.0) Federal(1.0) securities(1.0) and(0.0) futures(1.0) regulators(1.0) .(0.0) 
+Third(0.0) ,(0.0) we(0.0) allow(0.0) U.S.(0.0) futures(0.0) exchanges(0.0) to(0.0) set(0.0) their(0.0) own(0.0) course(0.0) in(0.0) operating(0.0) their(0.0) derivatives(1.0) markets(1.0) under(0.0) CFTC(1.0) oversight(1.0) 
+,(0.0) but(0.0) without(0.0) the(0.0) burdens(1.0) of(0.0) a(0.0) regulatory(1.0) regime(1.0) designed(0.0) for(0.0) the(0.0) mid-20th(1.0) century(0.0) .(0.0) These(0.0) accomplishments(0.0) were(0.0) realized(0.0) even(0.0) 
+though(0.0) three(0.0) committees(0.0) shared(0.0) legislative(0.0) jurisdiction(1.0) over(0.0) these(0.0) matters(0.0) .(0.0) The(0.0) Committee(0.0) on(0.0) Agriculture(0.0) ,(0.0) whose(0.0) jurisdiction(1.0) grew(0.0) from(0.0) the(0.0) 
+150-year-old(1.0) agricultural(1.0) futures(0.0) markets(0.0) ,(0.0) understands(0.0) the(0.0) urgency(1.0) of(0.0) giving(0.0) legal(1.0) certainty(0.0) to(0.0) a(0.0) $(0.0) 90(0.0) trillion(1.0) swaps(1.0) market(1.0) .(0.0) 
+The(0.0) Committee(0.0) on(0.0) Commerce(0.0) ,(0.0) with(0.0) jurisdiction(1.0) over(0.0) the(0.0) securities(0.0) laws(0.0) ,(0.0) knows(0.0) that(0.0) if(0.0) U.S.(0.0) financial(0.0) firms(0.0) are(0.0) to(0.0) 
+compete(0.0) in(0.0) global(1.0) markets(1.0) ,(0.0) single(0.0) stock(0.0) futures(0.0) must(0.0) be(0.0) allowed(0.0) to(0.0) trade(1.0) here(0.0) in(0.0) this(0.0) country(1.0) .(0.0) And(0.0) the(0.0) 
+Committee(0.0) on(0.0) Banking(0.0) and(0.0) Financial(0.0) Services(0.0) accepts(0.0) the(0.0) nexus(1.0) between(0.0) traditional(0.0) banking(1.0) activities(0.0) and(0.0) the(0.0) tools(0.0) of(0.0) risk(0.0) management(0.0) that(0.0) 
+are(0.0) not(0.0) of(0.0) their(0.0) making(0.0) .(0.0) In(0.0) conclusion(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) adopt(1.0) this(0.0) sound(0.0) 
+legislation(1.0) .(0.0) It(0.0) rounds(0.0) out(0.0) many(0.0) of(0.0) the(0.0) historic(1.0) financial(0.0) reforms(1.0) passed(0.0) by(0.0) the(0.0) 106th(0.0) Congress(0.0) .(0.0) To(0.0) fail(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	considers	contentious	capital	investment	
+economic	global	
+bill	do	Glass-Steagall	reforms	
+1989	
+financial	economic	agricultural	
+legislation	
+bill	President	
+Federal	
+
+
+so-called	
+bill	jurisdiction	
+reforms	centerpiece	legislation	
+legal	certainty	multi-trillion	dollar	derivative	markets	
+deep-pocketed	companies	markets	
+trade	Federal	securities	futures	regulators	
+derivatives	markets	CFTC	oversight	
+burdens	regulatory	regime	mid-20th	
+jurisdiction	jurisdiction	
+150-year-old	agricultural	urgency	legal	trillion	swaps	market	
+jurisdiction	
+global	markets	trade	country	
+nexus	banking	
+Speaker	adopt	
+legislation	historic	reforms	
+
+reads % = 0.136

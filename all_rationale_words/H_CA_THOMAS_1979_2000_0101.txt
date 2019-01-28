@@ -1,0 +1,44 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) agree(0.0) to(0.0) the(0.0) concurrent(0.0) resolution(0.0) ((0.0) H.(0.0) Con(1.0) .(0.0) Res(0.0) .(0.0) 368(0.0) 
+)(0.0) establishing(0.0) a(0.0) special(0.0) task(0.0) force(0.0) to(0.0) recommend(0.0) an(0.0) appropriate(0.0) recognition(0.0) for(0.0) the(0.0) slave(0.0) laborers(0.0) who(0.0) worked(0.0) on(0.0) the(0.0) construction(0.0) 
+of(0.0) the(0.0) United(0.0) States(0.0) Capitol(0.0) .(0.0) The(0.0) Clerk(0.0) read(0.0) as(0.0) follows(0.0) :(0.0) H.(0.0) Con(1.0) .(0.0) Res(0.0) .(0.0) 368(0.0) Whereas(0.0) the(0.0) 
+United(0.0) States(0.0) Capitol(0.0) stands(0.0) as(0.0) a(0.0) symbol(0.0) of(0.0) democracy(1.0) ,(0.0) equality(1.0) ,(0.0) and(0.0) freedom(1.0) to(0.0) the(0.0) entire(0.0) world(0.0) ;(0.0) Whereas(0.0) 
+the(0.0) year(0.0) 2000(0.0) marks(0.0) the(0.0) 200th(0.0) anniversary(0.0) of(0.0) the(0.0) opening(0.0) of(0.0) this(0.0) historic(1.0) structure(0.0) for(0.0) the(0.0) first(0.0) session(0.0) of(0.0) Congress(0.0) 
+to(0.0) be(0.0) held(0.0) in(0.0) the(0.0) new(0.0) Capital(0.0) City(0.0) ;(0.0) Whereas(0.0) slavery(1.0) was(0.0) not(0.0) prohibited(0.0) throughout(0.0) the(0.0) United(0.0) States(0.0) until(0.0) the(0.0) 
+ratification(0.0) of(0.0) the(0.0) 13th(0.0) amendment(0.0) to(0.0) the(0.0) Constitution(0.0) in(0.0) 1865(0.0) ;(0.0) Whereas(0.0) previous(0.0) to(0.0) that(0.0) date(0.0) ,(0.0) African(1.0) American(0.0) slave(0.0) 
+labor(0.0) was(0.0) both(0.0) legal(0.0) and(0.0) common(0.0) in(0.0) the(0.0) District(0.0) of(0.0) Columbia(0.0) and(0.0) the(0.0) adjoining(0.0) States(0.0) of(0.0) Maryland(0.0) and(0.0) Virginia(0.0) ;(0.0) 
+Whereas(0.0) public(0.0) records(0.0) attest(0.0) to(0.0) the(0.0) fact(0.0) that(0.0) African(1.0) American(0.0) slave(0.0) labor(0.0) was(0.0) used(0.0) in(0.0) the(0.0) construction(0.0) of(0.0) the(0.0) United(0.0) 
+States(0.0) Capitol(0.0) ;(0.0) Whereas(0.0) public(0.0) records(0.0) further(0.0) attest(0.0) to(0.0) the(0.0) fact(0.0) that(0.0) the(0.0) five-dollar-per-month(0.0) payment(0.0) for(0.0) that(0.0) African(1.0) American(0.0) slave(0.0) 
+labor(0.0) was(0.0) made(0.0) directly(0.0) to(0.0) slave(0.0) owners(0.0) and(0.0) not(0.0) to(0.0) the(0.0) laborer(1.0) ;(0.0) and(0.0) Whereas(0.0) African(1.0) Americans(0.0) made(0.0) significant(0.0) contributions(1.0) 
+and(0.0) fought(0.0) bravely(0.0) for(0.0) freedom(1.0) during(0.0) the(0.0) American(0.0) Revolutionary(1.0) War(0.0) :(0.0) Now(0.0) ,(0.0) therefore(0.0) ,(0.0) be(0.0) it(0.0) Resolved(0.0) by(0.0) the(0.0) 
+House(0.0) of(0.0) Representatives(0.0) ((1.0) the(0.0) Senate(0.0) concurring(0.0) )(0.0) ,(0.0) That(0.0) --(0.0) ((0.0) 1(0.0) )(0.0) the(0.0) Speaker(0.0) of(0.0) the(0.0) House(0.0) of(0.0) 
+Representatives(0.0) and(0.0) the(0.0) President(0.0) pro(0.0) tempore(0.0) of(0.0) the(0.0) Senate(0.0) shall(0.0) establish(0.0) a(0.0) special(0.0) task(0.0) force(0.0) to(0.0) study(0.0) the(0.0) history(0.0) and(0.0) 
+contributions(0.0) of(0.0) these(0.0) slave(0.0) laborers(0.0) in(0.0) the(0.0) construction(0.0) of(0.0) the(0.0) United(0.0) States(0.0) Capitol(0.0) ;(0.0) and(0.0) ((0.0) 2(0.0) )(0.0) such(0.0) special(0.0) 
+task(0.0) force(0.0) shall(0.0) recommend(0.0) to(0.0) the(0.0) Speaker(0.0) of(0.0) the(0.0) House(0.0) of(0.0) Representatives(0.0) and(0.0) the(0.0) President(0.0) pro(0.0) tempore(0.0) of(0.0) the(0.0) Senate(0.0) 
+an(0.0) appropriate(0.0) recognition(0.0) for(0.0) these(0.0) slave(0.0) laborers(0.0) which(0.0) could(0.0) be(0.0) displayed(0.0) in(0.0) a(0.0) prominent(0.0) location(0.0) in(0.0) the(0.0) United(0.0) States(0.0) Capitol(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+Con	
+
+Con	
+democracy	equality	freedom	
+historic	
+slavery	
+African	
+
+African	
+African	
+laborer	African	contributions	
+freedom	Revolutionary	
+(	
+
+
+
+
+
+
+reads % = 0.04678362573099415

@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) ask(0.0) unanimous(1.0) consent(0.0) that(0.0) on(0.0) page(0.0) 2(0.0) ,(0.0) after(0.0) line(0.0) 19(0.0) ,(0.0) that(0.0) the(0.0) resolution(1.0) may(0.0) be(0.0) amended(0.0) to(0.0) allow(0.0) 
+the(0.0) continuation(0.0) of(0.0) all(0.0) projects(0.0) and(0.0) activities(0.0) of(0.0) the(0.0) FBI(1.0) and(0.0) the(0.0) Border(0.0) Patrol(0.0) and(0.0) unemployment(1.0) compensation(1.0) benefits(0.0) activities(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+unanimous	resolution	
+FBI	unemployment	compensation	
+
+
+reads % = 0.12195121951219512

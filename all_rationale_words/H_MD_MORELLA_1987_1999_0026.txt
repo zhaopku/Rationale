@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(1.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) me(0.0) time(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(1.0) have(0.0) very(0.0) high(0.0) regard(1.0) for(0.0) the(0.0) 
+work(0.0) that(0.0) my(0.0) colleague(1.0) from(0.0) across(0.0) the(0.0) river(0.0) in(0.0) Virginia(1.0) has(0.0) offered(1.0) ,(0.0) so(0.0) I(0.0) rise(1.0) in(0.0) strong(0.0) support(0.0) of(0.0) 
+the(0.0) Davis(1.0) amendment(1.0) .(0.0) Again(1.0) ,(0.0) it(0.0) is(0.0) just(1.0) common(0.0) sense(0.0) .(0.0) It(0.0) will(0.0) protect(0.0) children(0.0) from(0.0) causing(0.0) unintended(1.0) harm(0.0) 
+should(0.0) they(0.0) find(1.0) a(0.0) gun(0.0) in(0.0) their(0.0) home(0.0) .(0.0) In(0.0) 1995(1.0) ,(0.0) 440(1.0) children(0.0) died(0.0) in(0.0) unintentional(1.0) shootings(1.0) .(0.0) Every(1.0) 
+day(0.0) in(0.0) this(0.0) country(1.0) at(0.0) least(1.0) one(0.0) child(0.0) is(0.0) killed(0.0) accidentally(1.0) ,(0.0) and(0.0) the(0.0) numbers(1.0) are(0.0) increasing(0.0) .(0.0) Firearms(1.0) are(0.0) 
+the(0.0) fourth(1.0) leading(1.0) cause(1.0) of(0.0) accidental(1.0) deaths(0.0) among(0.0) children(0.0) 5(0.0) to(0.0) 14(0.0) years(0.0) of(0.0) age(1.0) .(0.0) This(0.0) Davis(1.0) amendment(1.0) will(0.0) 
+require(1.0) that(0.0) new(1.0) handguns(0.0) sold(0.0) must(0.0) also(1.0) include(0.0) a(0.0) secure(0.0) gun(0.0) storage(1.0) or(1.0) safety(0.0) device(1.0) .(0.0) That(0.0) is(0.0) common(0.0) sense(0.0) 
+.(0.0) Similar(1.0) laws(1.0) exist(1.0) in(0.0) 16(0.0) States(0.0) ,(0.0) including(1.0) my(0.0) State(1.0) of(0.0) Maryland(1.0) .(0.0) We(0.0) can(0.0) put(0.0) an(0.0) end(0.0) to(0.0) 
+heartrending(1.0) stories(0.0) of(0.0) young(0.0) children(0.0) dying(0.0) when(0.0) they(0.0) find(1.0) an(0.0) unsecured(0.0) gun(0.0) in(0.0) the(0.0) house(1.0) .(0.0) Incidentally(1.0) ,(0.0) this(0.0) amendment(1.0) 
+is(0.0) supported(1.0) by(0.0) people(0.0) on(0.0) all(0.0) sides(0.0) of(0.0) the(0.0) issue(0.0) ,(0.0) the(0.0) Children(1.0) 's(0.0) Defense(1.0) Fund(0.0) ,(0.0) Handgun(1.0) Control(0.0) ,(0.0) 
+even(0.0) the(0.0) Senate(1.0) .(0.0) We(0.0) have(0.0) safety(0.0) devices(0.0) on(0.0) cigarette(1.0) lighters(0.0) ,(0.0) medicine(1.0) and(0.0) other(0.0) products(0.0) .(0.0) We(0.0) should(0.0) do(0.0) 
+the(0.0) same(1.0) for(0.0) guns(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+time	Chairman	I	regard	
+colleague	Virginia	offered	rise	
+Davis	amendment	Again	just	unintended	
+find	1995	440	unintentional	shootings	Every	
+country	least	accidentally	numbers	Firearms	
+fourth	leading	cause	accidental	age	Davis	amendment	
+require	new	also	storage	or	device	
+Similar	laws	exist	including	State	Maryland	
+heartrending	find	house	Incidentally	amendment	
+supported	Children	Defense	Handgun	
+Senate	cigarette	medicine	
+same	
+
+reads % = 0.24778761061946902

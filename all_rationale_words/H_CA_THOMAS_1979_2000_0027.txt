@@ -1,0 +1,38 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) the(0.0) chairman(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Ways(0.0) and(0.0) Means(0.0) .(0.0) It(0.0) was(0.0) a(0.0) long(0.0) ,(0.0) 
+hard(0.0) road(0.0) to(0.0) reach(0.0) this(0.0) day(0.0) ;(0.0) and(0.0) we(0.0) still(0.0) are(0.0) hearing(0.0) repeatedly(0.0) that(0.0) some(0.0) people(0.0) just(0.0) do(0.0) not(0.0) get(0.0) 
+it(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) Michigan(1.0) said(0.0) 98(1.0) percent(0.0) of(0.0) his(0.0) constituents(0.0) are(0.0) not(0.0) going(0.0) to(0.0) benefit(1.0) from(0.0) the(0.0) elimination(1.0) 
+of(0.0) the(0.0) death(1.0) tax(1.0) .(0.0) Why(0.0) did(0.0) the(0.0) polls(1.0) repeatedly(0.0) show(0.0) a(0.0) majority(0.0) of(0.0) Americans(1.0) support(0.0) repeal(1.0) ?(1.0) It(0.0) is(0.0) 
+pretty(0.0) simple(0.0) .(0.0) It(0.0) is(0.0) called(0.0) the(0.0) American(0.0) dream(0.0) .(0.0) All(0.0) one(0.0) has(0.0) to(0.0) do(0.0) is(0.0) go(0.0) to(0.0) Ellis(0.0) Island(1.0) 
+.(0.0) My(0.0) colleagues(0.0) know(0.0) the(0.0) words(0.0) :(0.0) ``(0.0) Give(0.0) me(0.0) your(0.0) tired(0.0) ,(0.0) your(0.0) poor(1.0) ,(0.0) your(0.0) huddled(1.0) masses(1.0) yearning(0.0) 
+to(0.0) breath(0.0) free(0.0) .(0.0) ''(0.0) Yearning(0.0) ?(0.0) The(0.0) dictionary(0.0) says(0.0) ,(0.0) Yearning(0.0) :(0.0) to(0.0) have(0.0) a(0.0) strong(0.0) or(0.0) deep(0.0) desire(0.0) 
+.(0.0) To(0.0) be(0.0) filled(0.0) with(0.0) longing(0.0) .(0.0) Free(0.0) .(0.0) Freedom(1.0) to(0.0) choose(0.0) ,(0.0) to(0.0) do(0.0) what(0.0) you(0.0) want(0.0) to(0.0) do(0.0) 
+;(0.0) freedom(1.0) from(0.0) want(0.0) ,(0.0) from(0.0) fear(0.0) .(0.0) If(0.0) someone(0.0) works(0.0) and(0.0) really(0.0) does(0.0) not(0.0) do(0.0) a(0.0) good(0.0) job(0.0) of(0.0) 
+developing(0.0) and(0.0) living(0.0) the(0.0) American(0.0) dream(0.0) ,(0.0) they(0.0) get(0.0) taxed(1.0) once(0.0) .(0.0) If(0.0) someone(0.0) works(0.0) hard(0.0) ,(0.0) saves(0.0) ,(0.0) takes(0.0) 
+care(1.0) of(0.0) their(0.0) family(0.0) ,(0.0) creates(0.0) ,(0.0) produces(0.0) jobs(0.0) ,(0.0) currently(0.0) ,(0.0) in(0.0) this(0.0) country(1.0) ,(0.0) they(0.0) get(0.0) taxed(1.0) twice(0.0) 
+.(0.0) Do(0.0) my(0.0) colleagues(0.0) know(0.0) what(0.0) ?(0.0) Those(0.0) 98(0.0) percent(0.0) who(0.0) are(0.0) not(0.0) going(0.0) to(0.0) get(0.0) the(0.0) immediate(0.0) benefits(1.0) of(0.0) 
+this(0.0) believe(0.0) in(0.0) the(0.0) American(0.0) dream(0.0) .(0.0) They(0.0) want(0.0) to(0.0) have(0.0) the(0.0) opportunity(0.0) ,(0.0) the(0.0) freedom(1.0) ,(0.0) to(0.0) leave(0.0) their(0.0) 
+fruits(0.0) to(0.0) their(0.0) children(0.0) .(0.0) Let(0.0) us(0.0) today(0.0) vote(1.0) yes(0.0) on(0.0) the(0.0) repeal(1.0) of(0.0) the(0.0) death(1.0) tax(1.0) and(0.0) yes(0.0) in(0.0) 
+favor(1.0) of(0.0) the(0.0) American(0.0) dream(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+Michigan	98	benefit	elimination	
+death	tax	polls	Americans	repeal	?	
+Island	
+poor	huddled	masses	
+
+Freedom	
+freedom	
+taxed	
+care	country	taxed	
+benefits	
+freedom	
+vote	repeal	death	tax	
+favor	
+
+reads % = 0.09407665505226481

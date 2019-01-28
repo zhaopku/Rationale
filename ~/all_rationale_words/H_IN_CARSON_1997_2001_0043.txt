@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(1.0) the(0.0) two(0.0) gentlemen(1.0) who(0.0) have(0.0) put(0.0) in(0.0) laborious(1.0) time(0.0) in(0.0) crafting(1.0) legislation(0.0) which(0.0) admittedly(1.0) does(0.0) advance(1.0) ,(0.0) 
+does(0.0) progress(1.0) the(0.0) electoral(1.0) system(0.0) .(0.0) We(0.0) attempted(0.0) last(0.0) night(0.0) through(0.0) the(0.0) gentleman(0.0) from(0.0) Florida(1.0) ((0.0) Mr.(0.0) Hastings(1.0) )(0.0) to(0.0) 
+offer(0.0) an(0.0) amendment(1.0) that(0.0) was(0.0) rejected(1.0) because(0.0) of(0.0) the(0.0) closed(1.0) rule(0.0) .(0.0) I(0.0) wanted(0.0) to(0.0) come(0.0) to(0.0) the(0.0) floor(0.0) and(0.0) 
+speak(0.0) in(0.0) a(0.0) bipartisan(0.0) way(0.0) ,(0.0) those(1.0) veterans(1.0) who(0.0) are(0.0) Democrats(1.0) and(0.0) those(0.0) who(0.0) are(0.0) Republicans(1.0) and(0.0) perhaps(0.0) those(1.0) who(1.0) 
+are(0.0) libertarians(1.0) but(0.0) who(0.0) form(1.0) this(0.0) bipartisan(0.0) coalition(1.0) of(0.0) suffering(1.0) posttraumatic(1.0) stress(1.0) and(0.0) who(0.0) end(0.0) up(0.0) after(0.0) war(1.0) ,(0.0) who(0.0) 
+have(0.0) been(0.0) there(0.0) protecting(0.0) this(0.0) country(1.0) ,(0.0) who(0.0) end(0.0) up(0.0) homeless(1.0) ,(0.0) who(0.0) end(0.0) up(0.0) in(0.0) prison(1.0) .(0.0) As(0.0) we(0.0) 
+know(0.0) ,(0.0) many(0.0) States(0.0) deny(1.0) those(0.0) individuals(0.0) who(0.0) have(0.0) been(0.0) convicted(1.0) of(0.0) felonies(1.0) from(0.0) ever(1.0) having(0.0) the(0.0) right(1.0) to(0.0) participate(0.0) 
+in(0.0) the(0.0) electoral(1.0) process(1.0) .(0.0) We(0.0) do(0.0) not(1.0) deny(1.0) Members(0.0) of(0.0) Congress(0.0) from(0.0) coming(1.0) to(0.0) Congress(0.0) because(1.0) they(0.0) are(0.0) convicted(1.0) 
+felons(0.0) ,(0.0) but(0.0) we(0.0) do(0.0) deny(1.0) people(0.0) who(0.0) have(0.0) sacrificed(1.0) their(0.0) life(0.0) and(0.0) their(0.0) well-being(0.0) .(0.0) Our(0.0) amendment(1.0) had(0.0) the(0.0) 
+support(0.0) of(0.0) the(0.0) Vietnam(1.0) Veterans(1.0) Coalition(1.0) and(0.0) many(0.0) others(0.0) .(0.0) I(0.0) would(1.0) just(1.0) encourage(1.0) that(0.0) we(0.0) defeat(0.0) the(0.0) rule(0.0) so(0.0) 
+that(0.0) we(0.0) can(0.0) ascertain(0.0) that(0.0) democracy(1.0) does(0.0) indeed(0.0) work(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+thank	gentlemen	laborious	crafting	admittedly	advance	
+progress	electoral	Florida	Hastings	
+amendment	rejected	closed	
+those	veterans	Democrats	Republicans	those	who	
+libertarians	form	coalition	suffering	posttraumatic	stress	war	
+country	homeless	prison	
+deny	convicted	felonies	ever	right	
+electoral	process	not	deny	coming	because	convicted	
+deny	sacrificed	amendment	
+Vietnam	Veterans	Coalition	would	just	encourage	
+democracy	
+
+reads % = 0.24170616113744076

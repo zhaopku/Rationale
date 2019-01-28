@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) want(1.0) to(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Illinois(1.0) for(0.0) organizing(1.0) this(0.0) special(0.0) order(0.0) tonight(0.0) and(0.0) for(0.0) yielding(0.0) time(0.0) .(0.0) 
+His(0.0) commitment(0.0) to(0.0) providing(0.0) quality(0.0) health(1.0) care(0.0) in(0.0) Illinois(1.0) and(0.0) across(0.0) the(0.0) Nation(0.0) is(0.0) unparalleled(0.0) .(0.0) There(1.0) is(0.0) probably(0.0) not(0.0) 
+a(0.0) Member(0.0) in(0.0) this(0.0) House(0.0) that(0.0) is(0.0) not(0.0) committed(1.0) to(0.0) and(0.0) has(0.0) not(1.0) talked(0.0) about(0.0) protecting(0.0) Medicare(1.0) ,(0.0) but(0.0) that(0.0) 
+means(1.0) more(0.0) than(0.0) just(1.0) the(0.0) benefits(1.0) under(0.0) the(0.0) Medicare(1.0) program(0.0) .(0.0) That(0.0) means(1.0) that(0.0) we(0.0) have(0.0) a(0.0) strong(0.0) and(0.0) vibrant(1.0) 
+delivery(0.0) system(0.0) in(0.0) place(0.0) .(0.0) That(0.0) is(0.0) what(0.0) we(0.0) need(0.0) ,(0.0) one(0.0) that(0.0) is(0.0) available(1.0) to(0.0) meet(1.0) the(0.0) needs(0.0) of(0.0) 
+Medicare(1.0) beneficiaries(0.0) .(0.0) Unfortunately(1.0) ,(0.0) the(0.0) payment(1.0) cuts(1.0) required(0.0) under(0.0) the(0.0) Balanced(1.0) Budget(0.0) Act(0.0) threaten(1.0) that(0.0) delivery(0.0) system(0.0) .(0.0) Inadequate(1.0) 
+payment(0.0) levels(0.0) are(0.0) jeopardizing(1.0) quality(0.0) care(0.0) at(0.0) nursing(0.0) homes(1.0) ,(0.0) in(0.0) hospices(1.0) ,(0.0) for(0.0) home(0.0) care(0.0) services(0.0) ,(0.0) and(0.0) the(0.0) 
+subject(0.0) of(0.0) tonight(1.0) 's(0.0) special(0.0) order(0.0) ,(0.0) hospitals(1.0) .(0.0) Now(0.0) ,(0.0) my(0.0) mother-in-law(1.0) in(0.0) Shreveport(1.0) ,(0.0) Louisiana(0.0) ,(0.0) Adelaide(0.0) Creamer(1.0) 
+,(0.0) was(0.0) director(1.0) of(0.0) volunteer(1.0) services(0.0) at(0.0) the(0.0) large(0.0) university(0.0) hospital(1.0) there(0.0) ;(0.0) and(0.0) she(0.0) knows(1.0) ,(0.0) as(0.0) good(0.0) as(0.0) 
+volunteers(1.0) are(0.0) ,(0.0) this(0.0) is(0.0) one(0.0) issue(0.0) where(0.0) we(0.0) are(0.0) going(0.0) to(0.0) need(0.0) far(0.0) more(0.0) than(0.0) that(0.0) in(0.0) order(1.0) to(0.0) 
+meet(0.0) the(0.0) needs(0.0) of(0.0) our(0.0) Medicare(1.0) patients(0.0) .(0.0) We(0.0) need(0.0) to(0.0) understand(0.0) as(0.0) policymakers(1.0) and(0.0) as(0.0) consumers(1.0) that(0.0) payment(1.0) cuts(1.0) 
+and(0.0) inadequate(1.0) reimbursement(1.0) levels(0.0) are(0.0) patient(1.0) issues(0.0) .(0.0) Patients(0.0) will(0.0) suffer(1.0) if(0.0) we(0.0) do(0.0) not(1.0) act(0.0) now(0.0) to(0.0) correct(0.0) the(0.0) 
+problems(0.0) created(0.0) by(0.0) the(0.0) Balanced(1.0) Budget(0.0) Act(0.0) .(0.0) The(0.0) Balanced(1.0) Budget(0.0) Act(0.0) ,(0.0) when(0.0) it(0.0) was(0.0) passed(0.0) ,(0.0) was(0.0) supposed(0.0) 
+to(0.0) cut(1.0) hospital(1.0) rates(0.0) by(0.0) $(0.0) 53(0.0) billion(1.0) ,(0.0) but(0.0) the(0.0) actual(0.0) cuts(1.0) are(0.0) now(0.0) estimated(1.0) to(0.0) be(0.0) $(0.0) 71(0.0) 
+billion(1.0) .(0.0) As(0.0) the(0.0) gentleman(0.0) from(0.0) Illinois(1.0) has(0.0) said(1.0) ,(0.0) cuts(1.0) in(0.0) Illinois(1.0) would(0.0) be(0.0) close(1.0) to(0.0) $(0.0) 3(0.0) billion(1.0) 
+,(0.0) and(0.0) ,(0.0) in(0.0) my(0.0) Congressional(1.0) District(0.0) alone(1.0) ,(0.0) the(0.0) cuts(1.0) could(0.0) approach(0.0) $(0.0) 270(1.0) million(1.0) over(0.0) 5(0.0) years(0.0) .(0.0) 
+Because(0.0) the(0.0) size(0.0) of(0.0) the(0.0) cuts(1.0) grows(1.0) every(0.0) year(0.0) ,(0.0) the(0.0) longer(0.0) we(0.0) wait(0.0) to(0.0) correct(0.0) this(0.0) problem(0.0) ,(0.0) the(0.0) 
+greater(0.0) the(0.0) impact(0.0) on(0.0) patients(0.0) and(0.0) healthcare(1.0) quality(0.0) .(0.0) I(0.0) want(1.0) to(0.0) emphasize(1.0) that(0.0) we(0.0) are(0.0) not(1.0) talking(0.0) here(0.0) about(0.0) 
+slowing(0.0) the(0.0) growth(1.0) rate(0.0) in(0.0) hospital(1.0) payments(0.0) in(0.0) the(0.0) coming(0.0) years(0.0) .(0.0) Without(0.0) a(0.0) correction(0.0) in(0.0) the(0.0) Balanced(1.0) Budget(0.0) Act(0.0) 
+provision(0.0) ,(0.0) Illinois(1.0) hospitals(1.0) will(0.0) face(0.0) actual(0.0) reductions(1.0) below(0.0) existing(0.0) payment(0.0) levels(0.0) .(0.0) That(0.0) is(0.0) why(0.0) the(0.0) Honorable(1.0) John(1.0) Stroger(1.0) 
+,(0.0) President(1.0) of(0.0) the(0.0) Cook(1.0) County(1.0) Board(1.0) ,(0.0) and(0.0) Robert(0.0) Maldonado(1.0) ,(0.0) County(1.0) Commissioner(1.0) ,(0.0) and(0.0) many(0.0) of(0.0) the(0.0) members(1.0) 
+of(0.0) the(0.0) Cook(1.0) County(1.0) board(0.0) ,(0.0) introduced(1.0) and(0.0) passed(0.0) a(0.0) resolution(0.0) that(0.0) calls(1.0) on(0.0) the(0.0) President(1.0) and(0.0) the(0.0) Members(0.0) of(0.0) 
+the(0.0) 106th(0.0) Congress(0.0) to(0.0) refrain(0.0) from(0.0) enacting(1.0) additional(0.0) Medicare(1.0) reductions(1.0) in(0.0) addition(0.0) to(0.0) those(0.0) contained(1.0) in(0.0) the(0.0) Balanced(1.0) Budget(0.0) Act(0.0) 
+of(0.0) 1997(1.0) ,(0.0) and(0.0) to(0.0) use(1.0) at(0.0) least(1.0) a(0.0) portion(0.0) of(0.0) the(0.0) Federal(1.0) budget(1.0) surplus(1.0) to(0.0) address(0.0) the(0.0) negative(0.0) impact(0.0) 
+caused(0.0) by(0.0) these(0.0) reductions(1.0) .(0.0) Obviously(1.0) ,(0.0) as(0.0) the(0.0) cost(0.0) of(0.0) healthcare(1.0) rises(0.0) ,(0.0) cuts(1.0) of(0.0) these(0.0) magnitudes(1.0) will(0.0) 
+
+
+----- below are rationale words -----
+
+want	Illinois	organizing	
+health	Illinois	There	
+committed	not	Medicare	
+means	just	benefits	Medicare	means	vibrant	
+available	meet	
+Medicare	Unfortunately	payment	cuts	Balanced	threaten	Inadequate	
+jeopardizing	homes	hospices	
+tonight	hospitals	mother-in-law	Shreveport	Creamer	
+director	volunteer	hospital	knows	
+volunteers	order	
+Medicare	policymakers	consumers	payment	cuts	
+inadequate	reimbursement	patient	suffer	not	
+Balanced	Balanced	
+cut	hospital	billion	cuts	estimated	
+billion	Illinois	said	cuts	Illinois	close	billion	
+Congressional	alone	cuts	270	million	
+cuts	grows	
+healthcare	want	emphasize	not	
+growth	hospital	Balanced	
+Illinois	hospitals	reductions	Honorable	John	Stroger	
+President	Cook	County	Board	Maldonado	County	Commissioner	members	
+Cook	County	introduced	calls	President	
+enacting	Medicare	reductions	contained	Balanced	
+1997	use	least	Federal	budget	surplus	
+reductions	Obviously	healthcare	cuts	magnitudes	
+
+reads % = 0.222

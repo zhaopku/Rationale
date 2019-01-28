@@ -1,0 +1,34 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) for(0.0) the(0.0) purpose(0.0) of(0.0) debate(1.0) only(0.0) ,(0.0) I(0.0) yield(0.0) the(0.0) customary(0.0) 30(0.0) minutes(0.0) to(0.0) the(0.0) gentlewoman(0.0) from(0.0) New(0.0) York(1.0) 
+((0.0) Ms(1.0) .(0.0) Slaughter(1.0) )(0.0) ,(0.0) pending(0.0) which(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) During(0.0) consideration(0.0) 
+of(0.0) this(0.0) resolution(1.0) ,(0.0) all(0.0) time(0.0) yielded(0.0) is(0.0) for(0.0) the(0.0) purpose(0.0) of(0.0) debate(1.0) only(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) House(0.0) Resolution(1.0) 
+338(0.0) is(0.0) an(0.0) open(0.0) rule(0.0) which(0.0) provides(0.0) 1(0.0) hour(0.0) of(0.0) general(0.0) debate(0.0) ,(0.0) equally(0.0) divided(0.0) between(0.0) the(0.0) chairman(0.0) and(0.0) ranking(0.0) 
+minority(0.0) member(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) H.R(1.0) .(0.0) 2861(0.0) ,(0.0) the(0.0) Fiscal(0.0) Year(0.0) 2004(0.0) Department(0.0) of(0.0) Veterans(0.0) Affairs(0.0) and(0.0) Housing(0.0) 
+and(0.0) Urban(0.0) Development(0.0) and(0.0) Independent(0.0) Agencies(0.0) Appropriation(0.0) Act(0.0) we(0.0) are(0.0) hearing(0.0) today(0.0) .(0.0) The(0.0) rule(0.0) waives(0.0) all(0.0) points(0.0) of(0.0) order(0.0) 
+against(0.0) consideration(0.0) of(0.0) the(0.0) bill(0.0) and(0.0) against(0.0) provisions(0.0) in(0.0) the(0.0) bill(0.0) ,(0.0) except(0.0) as(0.0) specified(0.0) in(0.0) the(0.0) resolution(0.0) .(0.0) After(0.0) 
+general(0.0) debate(0.0) ,(0.0) any(0.0) Member(0.0) wishing(0.0) to(0.0) offer(0.0) an(0.0) amendment(0.0) may(0.0) do(0.0) so(0.0) as(0.0) long(0.0) as(0.0) it(0.0) complies(0.0) with(0.0) the(0.0) 
+regular(0.0) rules(0.0) of(0.0) the(0.0) House(0.0) .(0.0) The(0.0) bill(0.0) shall(0.0) be(0.0) read(0.0) for(0.0) amendment(1.0) by(0.0) paragraph(0.0) and(0.0) the(0.0) rule(0.0) authorizes(0.0) the(0.0) 
+Chair(0.0) to(0.0) accord(0.0) priority(0.0) in(0.0) recognition(0.0) to(0.0) the(0.0) Members(0.0) who(0.0) have(0.0) preprinted(0.0) their(0.0) amendments(0.0) in(0.0) the(0.0) Congressional(0.0) Record(1.0) .(0.0) Finally(0.0) 
+,(0.0) the(0.0) rule(0.0) permits(0.0) the(0.0) minority(1.0) to(0.0) offer(0.0) a(0.0) motion(0.0) to(0.0) recommit(1.0) with(0.0) or(0.0) without(0.0) instructions(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) 
+there(0.0) is(0.0) much(0.0) to(0.0) be(0.0) said(0.0) about(0.0) what(0.0) is(0.0) good(0.0) in(0.0) this(0.0) bill(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) reserve(0.0) the(0.0) 
+balance(0.0) of(0.0) my(0.0) time(0.0) at(0.0) this(0.0) point(0.0) ,(0.0) and(0.0) will(0.0) speak(0.0) about(0.0) it(0.0) later(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+debate	York	
+Ms	Slaughter	
+resolution	debate	Speaker	Resolution	
+
+Speaker	H.R	
+
+
+
+amendment	
+Record	
+minority	recommit	Speaker	
+bill	Speaker	
+
+
+reads % = 0.06640625

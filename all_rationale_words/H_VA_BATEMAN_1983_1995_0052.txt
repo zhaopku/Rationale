@@ -1,0 +1,10 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) offer(0.0) an(0.0) amendment(1.0) ,(0.0) printed(0.0) in(0.0) House(0.0) Report(1.0) 104-375(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+amendment	Report	
+
+reads % = 0.15384615384615385

@@ -1,0 +1,38 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) rise(0.0) to(0.0) offer(0.0) this(0.0) amendment(1.0) to(0.0) require(1.0) the(0.0) President(1.0) to(0.0) make(0.0) an(0.0) annual(0.0) report(0.0) to(0.0) Congress(0.0) and(0.0) 
+to(0.0) the(0.0) American(0.0) people(0.0) on(0.0) the(0.0) number(0.0) of(0.0) nuclear(1.0) warheads(0.0) that(0.0) are(0.0) dismantled(1.0) each(0.0) year(0.0) by(0.0) either(0.0) the(0.0) Americans(1.0) or(0.0) 
+by(0.0) the(0.0) Russians(1.0) under(0.0) the(0.0) terms(0.0) of(0.0) the(0.0) Moscow(0.0) Treaty(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) one(0.0) of(0.0) the(0.0) most(0.0) pressing(0.0) issues(0.0) 
+we(0.0) face(0.0) is(0.0) the(0.0) question(0.0) of(0.0) nuclear(1.0) nonproliferation(1.0) .(0.0) A(0.0) year(0.0) ago(0.0) ,(0.0) Presidents(1.0) Bush(1.0) and(0.0) Putin(1.0) signed(0.0) the(0.0) Moscow(0.0) 
+Treaty(0.0) ,(0.0) the(0.0) Treaty(0.0) on(0.0) Strategic(0.0) Defensive(0.0) Reductions(0.0) .(0.0) It(0.0) is(0.0) a(0.0) good(0.0) treaty(1.0) and(0.0) is(0.0) good(0.0) for(0.0) this(0.0) country(1.0) 
+.(0.0) It(0.0) is(0.0) only(0.0) three(0.0) pages(0.0) long(0.0) ,(0.0) however(0.0) ,(0.0) quite(0.0) a(0.0) change(0.0) from(0.0) the(0.0) 900-page(1.0) START(1.0) treaties(0.0) of(0.0) prior(0.0) 
+negotiations(0.0) .(0.0) It(0.0) does(0.0) not(0.0) establish(0.0) a(0.0) timetable(0.0) for(0.0) implementation(0.0) .(0.0) It(0.0) lacks(0.0) verification(0.0) .(0.0) But(0.0) the(0.0) most(0.0) striking(0.0) change(0.0) 
+that(0.0) I(0.0) think(0.0) we(0.0) need(0.0) to(0.0) address(0.0) is(0.0) that(0.0) there(0.0) is(0.0) no(0.0) requirement(0.0) that(0.0) the(0.0) warheads(1.0) that(0.0) are(0.0) reduced(0.0) from(0.0) 
+the(0.0) 5,000(0.0) or(0.0) 6,000(0.0) that(0.0) each(0.0) side(0.0) currently(0.0) possesses(0.0) down(0.0) to(0.0) 1,700(0.0) or(0.0) 2,000(0.0) ,(0.0) there(0.0) is(0.0) no(0.0) requirement(0.0) that(0.0) 
+those(0.0) warheads(0.0) be(0.0) dismantled(0.0) .(0.0) They(0.0) could(0.0) be(0.0) retired(0.0) ,(0.0) put(0.0) into(0.0) a(0.0) closet(0.0) someplace(0.0) and(0.0) brought(0.0) back(0.0) on(0.0) a(0.0) 
+moment's(0.0) notice(0.0) .(0.0) I(0.0) think(0.0) it(0.0) is(0.0) in(0.0) the(0.0) best(0.0) interests(1.0) of(0.0) this(0.0) country(1.0) that(0.0) those(0.0) warheads(0.0) be(0.0) dismantled(0.0) and(0.0) 
+that(0.0) the(0.0) President(1.0) make(0.0) an(0.0) annual(0.0) report(0.0) to(0.0) the(0.0) Congress(0.0) on(0.0) how(0.0) many(0.0) of(0.0) those(0.0) warheads(0.0) are(0.0) being(0.0) dismantled(0.0) ,(0.0) 
+both(0.0) by(0.0) this(0.0) country(1.0) and(0.0) by(0.0) the(0.0) other(0.0) side(0.0) ,(0.0) so(0.0) that(0.0) Congress(0.0) can(0.0) ,(0.0) through(0.0) that(0.0) mechanism(0.0) ,(0.0) verify(0.0) 
+the(0.0) progress(0.0) and(0.0) verify(0.0) that(0.0) the(0.0) disarmament(1.0) is(0.0) occurring(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	amendment	require	President	
+nuclear	dismantled	Americans	
+Russians	Chairman	
+nuclear	nonproliferation	Presidents	Bush	Putin	
+treaty	country	
+900-page	START	
+
+warheads	
+
+
+interests	country	
+President	
+country	
+disarmament	Chairman	
+
+
+reads % = 0.08865248226950355

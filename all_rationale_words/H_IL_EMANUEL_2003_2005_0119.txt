@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) yesterday(0.0) we(0.0) marked(0.0) a(0.0) solemn(0.0) milestone(0.0) :(1.0) over(0.0) 2,000(0.0) American(0.0) military(1.0) personnel(1.0) have(0.0) now(0.0) given(0.0) their(0.0) lives(0.0) fighting(1.0) 
+in(0.0) Iraq(1.0) .(0.0) 246(1.0) Americans(0.0) have(0.0) also(1.0) fallen(1.0) in(0.0) the(0.0) line(0.0) of(0.0) duty(1.0) in(0.0) Afghanistan(1.0) .(0.0) We(0.0) owe(1.0) these(0.0) brave(0.0) 
+men(0.0) and(0.0) women(0.0) and(0.0) their(0.0) families(0.0) a(0.0) debt(1.0) of(0.0) gratitude(1.0) that(0.0) can(1.0) never(0.0) fully(0.0) be(0.0) repaid(1.0) .(0.0) In(0.0) July(0.0) of(0.0) 
+this(0.0) year(0.0) ,(0.0) I(0.0) led(0.0) a(0.0) bipartisan(0.0) group(0.0) of(0.0) 21(1.0) Members(0.0) of(0.0) Congress(0.0) in(0.0) reading(0.0) the(0.0) names(0.0) of(0.0) the(0.0) fallen(1.0) 
+into(0.0) the(0.0) Congressional(0.0) Record(1.0) .(0.0) Tonight(1.0) we(0.0) continue(0.0) this(0.0) tribute(1.0) by(0.0) reading(0.0) the(0.0) names(0.0) of(0.0) some(0.0) of(0.0) those(0.0) who(1.0) have(0.0) 
+fallen(1.0) recently(0.0) to(0.0) complete(0.0) the(0.0) list(0.0) .(0.0) At(0.0) that(0.0) point(0.0) we(0.0) had(0.0) said(1.0) we(0.0) would(1.0) read(0.0) every(0.0) American(0.0) 's(1.0) name(1.0) 
+as(0.0) an(0.0) official(1.0) part(0.0) of(0.0) the(0.0) Congressional(1.0) Record(1.0) .(0.0) In(0.0) the(0.0) words(0.0) of(0.0) President(1.0) Franklin(1.0) Delano(1.0) Roosevelt(1.0) ,(0.0) each(0.0) of(0.0) 
+these(1.0) heroes(1.0) stands(0.0) in(0.0) the(0.0) unbroken(1.0) line(0.0) of(0.0) patriots(1.0) who(0.0) have(0.0) dared(1.0) to(0.0) die(0.0) that(0.0) freedom(1.0) might(0.0) live(0.0) and(0.0) grow(1.0) 
+and(0.0) increase(1.0) in(0.0) its(0.0) blessings(1.0) .(0.0) God(0.0) bless(1.0) each(0.0) of(0.0) them(0.0) and(0.0) keep(1.0) each(0.0) of(0.0) the(0.0) brave(0.0) Americans(0.0) whose(0.0) memory(0.0) 
+we(0.0) honor(1.0) tonight(1.0) in(0.0) our(0.0) hearts(1.0) :(1.0) 1st(0.0) Sergeant(0.0) Alan(1.0) Nye(1.0) Gifford(1.0) ,(0.0) Specialist(1.0) David(1.0) H.(1.0) Ford(0.0) IV(0.0) ,(0.0) Staff(1.0) 
+Sergeant(0.0) Regilio(1.0) E.(1.0) Nelom(1.0) ,(0.0) Sergeant(0.0) 1st(0.0) Class(0.0) Lawrence(1.0) E.(1.0) Morrison(1.0) ,(0.0) Specialist(1.0) William(0.0) L.(1.0) Evans(1.0) ,(0.0) Specialist(1.0) William(0.0) V.(1.0) 
+Fernandez(1.0) ,(0.0) Sergeant(0.0) Michael(1.0) Egan(1.0) ,(0.0) 1st(0.0) Lieutenant(1.0) Mark(1.0) H.(0.0) Dooley(1.0) ,(0.0) Sergeant(0.0) Pierre(1.0) A.(1.0) Raymond(1.0) ,(0.0) Staff(1.0) Sergeant(0.0) William(0.0) 
+Alvin(1.0) Allers(1.0) III(1.0) ,(0.0) Sergeant(0.0) Travis(0.0) M.(1.0) Arndt(1.0) ,(0.0) Specialist(1.0) Scott(0.0) P.(1.0) MCLaughlin(1.0) ,(0.0) Specialist(1.0) Kevin(0.0) M.(1.0) Jones(0.0) ,(0.0) Specialist(1.0) 
+Mike(0.0) T.(1.0) Sonoda(1.0) Jr.(0.0) ,(0.0) Sergeant(0.0) Paul(1.0) C.(1.0) Neubauer(1.0) ,(0.0) Sergeant(0.0) Andrew(0.0) Joseph(1.0) Derrick(1.0) ,(0.0) Sergeant(0.0) Brian(0.0) E.(1.0) Dunlap(1.0) ,(0.0) 
+Staff(1.0) Sergeant(0.0) Daniel(1.0) R.(0.0) Schelle(1.0) ,(0.0) Sergeant(0.0) Shawn(1.0) A.(1.0) Graham(0.0) ,(0.0) Sergeant(0.0) Kenneth(1.0) G.(1.0) Ross(0.0) ,(0.0) Sergeant(0.0) Tane(1.0) T.(1.0) Baum(1.0) 
+,(0.0) Warrant(1.0) Officer(1.0) Adrian(1.0) B.(1.0) Stump(1.0) ,(0.0) Sergeant(0.0) Patrick(0.0) D.(1.0) Stewart(1.0) ,(0.0) Chief(1.0) Warrant(1.0) Officer(1.0) John(0.0) M.(1.0) Flynn(0.0) ,(0.0) Sergeant(0.0) 
+1st(0.0) Class(0.0) Casey(1.0) E.(1.0) Howe(1.0) ,(0.0) Master(0.0) Sergeant(0.0) Tulsa(1.0) T.(1.0) Tuliau(1.0) ,(0.0) Private(1.0) Elijah(0.0) M.(1.0) Ortega(1.0) ,(0.0) Sergeant(0.0) Andrew(0.0) P.(1.0) 
+Wallace(1.0) ,(0.0) Specialist(1.0) Michael(1.0) J.(1.0) Wendling(1.0) ,(0.0) Sergeant(0.0) Howard(1.0) P.(1.0) Allen(1.0) ,(0.0) Lance(1.0) Corporal(1.0) Steven(1.0) A.(1.0) Valdez(1.0) ,(0.0) Staff(1.0) Sergeant(0.0) 
+Robert(0.0) F.(1.0) White(0.0) ,(0.0) Staff(1.0) Sergeant(0.0) Jason(1.0) A.(1.0) Benford(1.0) ,(0.0) Private(1.0) 1st(0.0) Class(0.0) Oliver(0.0) J(0.0) .(0.0) Brown(1.0) ,(0.0) Specialist(1.0) Lee(1.0) 
+A.(1.0) Wiegand(1.0) ,(0.0) Sergeant(0.0) Eric(1.0) W.(1.0) Slebodnik(1.0) ,(0.0) Staff(1.0) Sergeant(0.0) George(0.0) A.(1.0) Pugliese(1.0) ,(0.0) Staff(1.0) Sergeant(0.0) Daniel(1.0) L.(1.0) Arnold(1.0) ,(0.0) 
+Airman(1.0) 1st(0.0) Class(0.0) Elizabeth(0.0) N.(1.0) Jacobson(1.0) ,(0.0) Sergeant(0.0) Steve(1.0) Morin(1.0) Jr.(0.0) ,(0.0) Sergeant(0.0) 1st(0.0) Class(0.0) James(0.0) J.(1.0) Stoddard(1.0) Jr.(0.0) ,(0.0) 
+Staff(1.0) Sergeant(0.0) John(1.0) G.(1.0) Doles(1.0) ,(0.0) Staff(1.0) Sergeant(0.0) Jens(1.0) E.(1.0) Schelbert(1.0) ,(0.0) Specialist(1.0) Joshua(1.0) J.(1.0) Kynoch(1.0) ,(0.0) Sergeant(0.0) Marshall(0.0) A.(1.0) 
+Westbrook(1.0) ,(0.0) Staff(1.0) Sergeant(0.0) Timothy(1.0) J.(1.0) Roark(1.0) ,(0.0) Sergeant(0.0) Larry(1.0) Wayne(1.0) Pankey(1.0) Jr.(1.0) ,(0.0) Private(1.0) 1st(0.0) Class(0.0) Roberto(0.0) C.(1.0) Baez(1.0) 
+,(0.0) Specialist(1.0) Jacob(0.0) T.(1.0) Vanderbosch(1.0) ,(0.0) Sergeant(0.0) Bryan(1.0) W.(1.0) Large(0.0) ,(0.0) Corporal(1.0) John(1.0) R.(1.0) Stalvey(1.0) ,(0.0) Sergeant(0.0) Sean(1.0) B.(1.0) Berry(0.0) 
+,(0.0) Petty(1.0) Officer(1.0) 2nd(0.0) Class(0.0) Brian(0.0) K.(0.0) Joplin(1.0) ,(0.0) Private(1.0) 1st(0.0) Class(0.0) Andrew(0.0) D.(1.0) Bedard(1.0) ,(0.0) Lance(1.0) Corporal(0.0) Carl(0.0) 
+
+
+----- below are rationale words -----
+
+:	military	personnel	fighting	
+Iraq	246	also	fallen	duty	Afghanistan	owe	
+debt	gratitude	can	repaid	
+21	fallen	
+Record	Tonight	tribute	who	
+fallen	said	would	's	name	
+official	Congressional	Record	President	Franklin	Delano	Roosevelt	
+these	heroes	unbroken	patriots	dared	freedom	grow	
+increase	blessings	bless	keep	
+honor	tonight	hearts	:	Alan	Nye	Gifford	Specialist	David	H.	Staff	
+Regilio	E.	Nelom	Lawrence	E.	Morrison	Specialist	L.	Evans	Specialist	V.	
+Fernandez	Michael	Egan	Lieutenant	Mark	Dooley	Pierre	A.	Raymond	Staff	
+Alvin	Allers	III	M.	Arndt	Specialist	P.	MCLaughlin	Specialist	M.	Specialist	
+T.	Sonoda	Paul	C.	Neubauer	Joseph	Derrick	E.	Dunlap	
+Staff	Daniel	Schelle	Shawn	A.	Kenneth	G.	Tane	T.	Baum	
+Warrant	Officer	Adrian	B.	Stump	D.	Stewart	Chief	Warrant	Officer	M.	
+Casey	E.	Howe	Tulsa	T.	Tuliau	Private	M.	Ortega	P.	
+Wallace	Specialist	Michael	J.	Wendling	Howard	P.	Allen	Lance	Corporal	Steven	A.	Valdez	Staff	
+F.	Staff	Jason	A.	Benford	Private	Brown	Specialist	Lee	
+A.	Wiegand	Eric	W.	Slebodnik	Staff	A.	Pugliese	Staff	Daniel	L.	Arnold	
+Airman	N.	Jacobson	Steve	Morin	J.	Stoddard	
+Staff	John	G.	Doles	Staff	Jens	E.	Schelbert	Specialist	Joshua	J.	Kynoch	A.	
+Westbrook	Staff	Timothy	J.	Roark	Larry	Wayne	Pankey	Jr.	Private	C.	Baez	
+Specialist	T.	Vanderbosch	Bryan	W.	Corporal	John	R.	Stalvey	Sean	B.	
+Petty	Officer	Joplin	Private	D.	Bedard	Lance	
+
+reads % = 0.424

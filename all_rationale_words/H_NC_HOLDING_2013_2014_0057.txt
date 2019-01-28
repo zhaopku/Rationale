@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) the(0.0) issue(0.0) is(0.0) no(0.0) longer(0.0) whether(0.0) Congress(0.0) and(0.0) the(0.0) President(1.0) can(0.0) agree(0.0) on(0.0) immigration(1.0) policy(1.0) .(0.0) The(0.0) question(0.0) is(0.0) 
+:(0.0) Does(0.0) a(0.0) President(0.0) have(0.0) the(0.0) power(0.0) to(0.0) alter(0.0) our(0.0) Nation(1.0) 's(0.0) laws(1.0) without(0.0) passing(0.0) new(0.0) statutes(1.0) ?(1.0) Throughout(0.0) the(0.0) 
+history(0.0) of(0.0) this(0.0) great(0.0) country(1.0) ,(0.0) since(0.0) the(0.0) time(0.0) of(0.0) our(0.0) Founding(1.0) Fathers(1.0) ,(0.0) the(0.0) answer(0.0) to(0.0) this(0.0) question(0.0) has(0.0) 
+been(0.0) ``(0.0) no(0.0) .(0.0) ''(0.0) Yet(0.0) President(0.0) Obama(1.0) struck(0.0) a(0.0) blow(0.0) to(0.0) the(0.0) system(0.0) of(0.0) checks(1.0) and(0.0) balances(0.0) that(0.0) has(0.0) 
+been(0.0) at(0.0) the(0.0) heart(0.0) of(0.0) our(0.0) government(1.0) and(0.0) our(0.0) Constitution(1.0) for(0.0) over(0.0) 200(0.0) years(0.0) .(0.0) The(0.0) constitutionality(1.0) of(0.0) the(0.0) President(1.0) 
+'s(0.0) actions(0.0) are(0.0) in(0.0) question(0.0) as(0.0) the(0.0) President(1.0) has(0.0) said(0.0) time(0.0) and(0.0) time(0.0) again(0.0) that(0.0) he(0.0) does(0.0) not(0.0) have(0.0) the(0.0) 
+constitutional(1.0) authority(0.0) to(0.0) change(0.0) our(0.0) Nation(1.0) 's(0.0) immigration(1.0) laws(1.0) on(0.0) his(0.0) own(0.0) .(0.0) From(0.0) 2008(0.0) up(0.0) to(0.0) this(0.0) August(0.0) ,(0.0) 
+at(0.0) least(0.0) 22(0.0) times(0.0) the(0.0) President(1.0) has(0.0) said(0.0) that(0.0) he(0.0) could(0.0) n't(0.0) ignore(0.0) the(0.0) laws(1.0) on(0.0) the(0.0) books(0.0) or(0.0) create(0.0) 
+his(0.0) own(0.0) immigration(1.0) laws(1.0) .(0.0) In(0.0) 2011(0.0) ,(0.0) the(0.0) President(1.0) said(0.0) :(0.0) ``(0.0) America(0.0) is(0.0) a(0.0) nation(0.0) of(0.0) laws(1.0) ,(0.0) 
+which(0.0) means(0.0) I(0.0) ,(0.0) as(0.0) the(0.0) President(1.0) ,(0.0) am(0.0) obligated(0.0) to(0.0) enforce(1.0) the(0.0) law(1.0) .(0.0) I(0.0) don't(0.0) have(0.0) a(0.0) choice(0.0) 
+about(0.0) that(0.0) .(0.0) That(0.0) 's(0.0) part(0.0) of(0.0) my(0.0) job(0.0) .(0.0) ``(0.0) We(0.0) 've(0.0) got(0.0) three(0.0) branches(0.0) of(0.0) government(1.0) .(0.0) Congress(0.0) 
+passes(0.0) the(0.0) law(1.0) .(0.0) The(0.0) executive(0.0) branch(0.0) 's(0.0) job(0.0) is(0.0) to(0.0) enforce(1.0) and(0.0) implement(0.0) those(0.0) laws(1.0) .(0.0) And(0.0) then(0.0) the(0.0) 
+judiciary(1.0) has(0.0) to(0.0) interpret(0.0) the(0.0) laws(1.0) .(0.0) There(0.0) are(0.0) enough(0.0) laws(1.0) on(0.0) the(0.0) books(0.0) by(0.0) Congress(0.0) that(0.0) are(0.0) very(0.0) clear(0.0) 
+in(0.0) terms(1.0) of(0.0) how(0.0) we(0.0) have(0.0) to(0.0) enforce(1.0) our(0.0) immigration(1.0) system(1.0) that(0.0) for(0.0) me(0.0) to(0.0) simply(0.0) ,(0.0) through(0.0) executive(0.0) order(0.0) 
+,(0.0) ignore(0.0) those(0.0) congressional(1.0) mandates(1.0) would(0.0) not(0.0) conform(0.0) with(0.0) my(0.0) appropriate(0.0) role(0.0) as(0.0) President(0.0) .(0.0) ''(0.0) Very(0.0) well(0.0) spoken(0.0) ,(0.0) 
+President(0.0) Obama(1.0) ,(0.0) the(0.0) constitutional(1.0) scholar(0.0) that(0.0) he(0.0) is(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) this(0.0) is(0.0) the(0.0) framework(1.0) of(0.0) our(0.0) Nation(1.0) 
+'s(0.0) system(0.0) of(0.0) checks(0.0) and(0.0) balances(0.0) .(0.0) The(0.0) Constitution(1.0) is(0.0) clear(0.0) .(0.0) It(0.0) is(0.0) clear(0.0) that(0.0) it(0.0) is(0.0) Congress(0.0) '(0.0) 
+duty(0.0) to(0.0) write(0.0) the(0.0) laws(1.0) ,(0.0) and(0.0) it(0.0) is(0.0) the(0.0) President's(0.0) responsibility(0.0) to(0.0) enforce(1.0) them(0.0) .(0.0) While(0.0) law(1.0) enforcement(1.0) agencies(1.0) 
+do(0.0) have(0.0) the(0.0) inherent(1.0) power(0.0) to(0.0) exercise(0.0) prosecutorial(1.0) discretion(0.0) ,(0.0) the(0.0) authority(0.0) as(0.0) to(0.0) whether(0.0) to(0.0) enforce(1.0) or(0.0) not(0.0) enforce(0.0) 
+the(0.0) law(1.0) against(0.0) particular(0.0) individuals(0.0) ,(0.0) this(0.0) power(0.0) must(0.0) be(0.0) used(0.0) judiciously(0.0) and(0.0) is(0.0) n't(0.0) an(0.0) invitation(0.0) to(0.0) violate(1.0) or(0.0) 
+ignore(0.0) a(0.0) law(1.0) in(0.0) its(0.0) entirety(0.0) .(0.0) By(0.0) granting(1.0) amnesty(1.0) to(0.0) 5(0.0) million(0.0) illegal(1.0) immigrants(1.0) ,(0.0) this(0.0) administration(1.0) has(0.0) crossed(0.0) 
+the(0.0) line(0.0) from(0.0) any(0.0) justifiable(1.0) use(0.0) of(0.0) its(0.0) executive(0.0) authority(0.0) to(0.0) a(0.0) failure(0.0) to(0.0) faithfully(0.0) execute(0.0) the(0.0) laws(1.0) .(0.0) Mr.(0.0) 
+Speaker(1.0) ,(0.0) whether(0.0) you(0.0) are(0.0) a(0.0) Democrat(0.0) or(0.0) a(0.0) Republican(0.0) ,(1.0) whether(1.0) you(1.0) agree(1.0) or(1.0) disagree(1.0) with(1.0) the(0.0) President(1.0) 's(0.0) 
+policy(1.0) on(0.0) illegal(1.0) immigrants(1.0) and(0.0) immigration(1.0) ,(1.0) you(0.0) can(0.0) not(0.0) agree(0.0) with(0.0) the(0.0) President(1.0) 's(0.0) actions(0.0) .(0.0) No(0.0) one(0.0) is(0.0) 
+vested(1.0) with(0.0) the(0.0) power(0.0) to(0.0) be(0.0) both(0.0) President(0.0) and(0.0) legislator(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+President	immigration	policy	
+Nation	laws	statutes	?	
+country	Founding	Fathers	
+Obama	checks	
+government	Constitution	constitutionality	President	
+President	
+constitutional	Nation	immigration	laws	
+President	laws	
+immigration	laws	President	laws	
+President	enforce	law	
+government	
+law	enforce	laws	
+judiciary	laws	laws	
+terms	enforce	immigration	system	
+congressional	mandates	
+Obama	constitutional	Speaker	framework	Nation	
+Constitution	
+laws	enforce	law	enforcement	agencies	
+inherent	prosecutorial	enforce	
+law	violate	
+law	granting	amnesty	illegal	immigrants	administration	
+justifiable	laws	
+Speaker	,	whether	you	agree	or	disagree	with	President	
+policy	illegal	immigrants	immigration	,	President	
+vested	legislator	
+
+reads % = 0.17073170731707318

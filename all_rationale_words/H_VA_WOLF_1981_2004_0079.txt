@@ -1,0 +1,16 @@
+This is from a Republican
+----- below is the original text -----
+The(0.0) gentleman(0.0) from(0.0) North(0.0) Carolina(0.0) over(0.0) the(0.0) past(0.0) year(0.0) has(0.0) demonstrated(0.0) that(0.0) the(0.0) rules(0.0) governing(0.0) media(0.0) ownership(0.0) are(0.0) of(0.0) great(0.0) importance(0.0) 
+to(0.0) the(0.0) American(0.0) people(0.0) .(0.0) I(0.0) agree(0.0) that(0.0) the(0.0) FCC(1.0) 's(0.0) new(0.0) media(0.0) consolidation(1.0) proceedings(0.0) should(0.0) be(0.0) as(0.0) open(0.0) and(0.0) 
+as(0.0) inclusive(0.0) as(0.0) possible(0.0) and(0.0) should(0.0) include(0.0) full(0.0) periods(0.0) of(0.0) public(1.0) comment(0.0) on(0.0) proposed(1.0) rules(1.0) and(0.0) full(0.0) consideration(0.0) of(0.0) any(0.0) 
+relevant(0.0) independent(0.0) studies(0.0) as(0.0) part(0.0) of(0.0) the(0.0) process(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+FCC	consolidation	
+public	proposed	rules	
+
+
+reads % = 0.07142857142857142

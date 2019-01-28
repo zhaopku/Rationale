@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) rise(1.0) today(1.0) to(0.0) discuss(0.0) an(0.0) unrelated(0.0) issue(0.0) that(0.0) has(0.0) been(0.0) neatly(1.0) tucked(0.0) into(0.0) this(0.0) bill(0.0) .(0.0) The(0.0) 
+issue(0.0) is(0.0) timely(1.0) access(0.0) to(0.0) quality(0.0) hospital(1.0) care(0.0) in(0.0) our(0.0) Nation(0.0) 's(0.0) communities(0.0) .(0.0) The(0.0) Majority(0.0) says(1.0) we(0.0) do(0.0) n't(0.0) 
+need(0.0) any(1.0) regular(0.0) legislative(1.0) process(1.0) with(0.0) this(0.0) bill(0.0) because(0.0) everyone(0.0) knows(0.0) what(0.0) 's(0.0) in(0.0) it(0.0) .(0.0) Well(0.0) ,(0.0) my(0.0) staff(0.0) 
+received(0.0) this(0.0) 285-page(1.0) bill(0.0) at(0.0) 11:20(1.0) a.m.(0.0) yesterday(0.0) .(0.0) Even(1.0) with(0.0) full(0.0) knowledge(0.0) of(0.0) what(1.0) went(0.0) into(0.0) previous(0.0) versions(0.0) of(0.0) 
+this(0.0) legislation(0.0) ,(0.0) it(0.0) isn't(1.0) reasonable(1.0) to(0.0) expect(0.0) that(0.0) people(0.0) will(0.0) be(0.0) able(0.0) to(0.0) gain(1.0) a(0.0) good(0.0) understanding(0.0) of(0.0) the(0.0) 
+new(1.0) bill(0.0) with(0.0) that(0.0) sort(1.0) of(0.0) time(0.0) constraint(1.0) .(0.0) I(0.0) would(1.0) also(1.0) note(0.0) that(0.0) since(0.0) the(0.0) last(1.0) time(0.0) the(0.0) House(0.0) 
+voted(1.0) on(0.0) an(0.0) SCHIP(0.0) bill(0.0) ,(0.0) we(0.0) 've(0.0) added(0.0) more(0.0) than(0.0) 60(0.0) new(1.0) Members(0.0) .(0.0) This(0.0) is(0.0) politics(1.0) as(0.0) usual(0.0) 
+,(0.0) and(0.0) it(0.0) should(0.0) give(0.0) every(0.0) new(1.0) Member(0.0) great(0.0) pause(1.0) before(1.0) voting(1.0) for(0.0) this(0.0) bill(0.0) ,(0.0) or(1.0) any(1.0) bill(0.0) .(0.0) 
+I(0.0) do(0.0) n't(0.0) believe(0.0) that(0.0) any(1.0) of(0.0) our(0.0) new(0.0) Members(0.0) comes(0.0) from(0.0) a(0.0) background(1.0) where(0.0) they(0.0) were(0.0) expected(0.0) to(0.0) approve(1.0) 
+a(0.0) major(1.0) policy(1.0) on(0.0) the(0.0) basis(1.0) of(0.0) the(0.0) idea(1.0) that(0.0) ,(0.0) well(0.0) ,(0.0) it's(0.0) been(0.0) here(0.0) before(1.0) ,(0.0) so(1.0) we(0.0) 
+do(0.0) n't(0.0) need(0.0) to(0.0) read(0.0) it(0.0) or(1.0) understand(0.0) it(0.0) .(0.0) In(0.0) fact(1.0) ,(0.0) did(0.0) n't(0.0) most(1.0) of(0.0) us(0.0) run(0.0) against(0.0) 
+that(0.0) sort(1.0) of(0.0) deceptive(1.0) politics(1.0) in(0.0) Washington(1.0) ?(0.0) I(0.0) want(1.0) to(0.0) point(0.0) out(1.0) to(0.0) the(0.0) new(1.0) Members(0.0) that(0.0) your(0.0) vote(1.0) 
+today(0.0) could(0.0) also(1.0) cause(1.0) hospitals(1.0) in(0.0) your(0.0) district(1.0) to(0.0) close(0.0) .(0.0) Hospitals(1.0) that(0.0) are(0.0) under(0.0) construction(1.0) now(0.0) and(0.0) intended(1.0) to(0.0) 
+serve(0.0) your(0.0) constituents(1.0) soon(0.0) may(0.0) never(0.0) see(0.0) a(0.0) patient(1.0) .(0.0) And(0.0) why(0.0) will(0.0) that(0.0) happen(0.0) ?(1.0) Because(0.0) a(0.0) few(0.0) Members(0.0) 
+of(0.0) your(0.0) conference(0.0) with(0.0) clout(1.0) believe(0.0) physicians(1.0) in(0.0) your(0.0) communities(0.0) should(0.0) n't(0.0) own(0.0) hospitals(0.0) .(0.0) They(0.0) say(1.0) that(0.0) the(0.0) people(0.0) 
+who(0.0) care(0.0) for(0.0) and(0.0) about(0.0) their(0.0) communities(0.0) ,(0.0) who(0.0) have(0.0) a(0.0) personal(1.0) stake(1.0) in(0.0) the(0.0) care(0.0) that(0.0) is(0.0) delivered(0.0) ,(0.0) 
+those(0.0) people(0.0) should(0.0) not(1.0) be(0.0) trusted(0.0) .(0.0) We(0.0) have(0.0) had(0.0) no(0.0) hearings(0.0) on(0.0) the(0.0) issue(1.0) of(0.0) physician(1.0) ownership(1.0) of(0.0) hospitals(1.0) 
+in(0.0) the(0.0) last(1.0) two(0.0) Congresses(1.0) .(0.0) The(0.0) Health(0.0) Subcommittee(0.0) did(0.0) have(0.0) one(0.0) hearing(0.0) last(1.0) year(0.0) to(0.0) discuss(0.0) health(1.0) disparities(1.0) and(0.0) 
+we(0.0) heard(1.0) from(0.0) a(0.0) physician(1.0) from(0.0) Louisiana(0.0) .(0.0) His(0.0) story(1.0) illustrates(0.0) what(0.0) can(0.0) happen(0.0) when(0.0) physicians(1.0) are(0.0) able(0.0) to(0.0) help(0.0) 
+their(0.0) communities(0.0) .(0.0) After(0.0) Katrina(1.0) ,(0.0) hospitals(1.0) were(0.0) closing(1.0) and(0.0) residents(1.0) could(0.0) n't(0.0) get(0.0) care(0.0) .(0.0) The(0.0) doctors(0.0) in(0.0) these(0.0) 
+communities(0.0) made(0.0) a(0.0) difference(0.0) by(0.0) coming(0.0) together(0.0) to(0.0) make(0.0) sure(1.0) people(0.0) could(0.0) continue(0.0) to(0.0) receive(0.0) health(1.0) care(0.0) .(0.0) Why(1.0) on(0.0) 
+earth(1.0) would(1.0) we(0.0) want(1.0) to(0.0) eliminate(0.0) people(0.0) 's(0.0) ability(0.0) to(0.0) serve(0.0) their(0.0) community(1.0) ?(0.0) Why(0.0) are(0.0) the(0.0) opponents(1.0) of(0.0) physician-owned(1.0) 
+hospitals(0.0) so(0.0) antagonistic(1.0) ?(0.0) I(0.0) 'm(0.0) not(1.0) sure(1.0) ,(0.0) because(1.0) these(0.0) hospitals(1.0) provide(0.0) higher(0.0) quality(0.0) care(0.0) at(0.0) lower(1.0) costs(0.0) than(0.0) 
+other(0.0) hospitals(0.0) .(0.0) They(0.0) have(0.0) higher(0.0) patient(1.0) satisfaction(1.0) rates(0.0) and(0.0) do(0.0) n't(0.0) experience(0.0) workforce(1.0) shortages(0.0) like(0.0) other(0.0) hospitals(0.0) do(0.0) .(0.0) 
+I(0.0) offered(1.0) an(0.0) amendment(1.0) along(0.0) with(0.0) Congressman(1.0) Johnson(1.0) and(0.0) Dr.(0.0) Burgess(1.0) to(0.0) strike(0.0) the(0.0) section(0.0) that(0.0) was(0.0) written(0.0) to(0.0) 
+
+
+----- below are rationale words -----
+
+rise	today	neatly	
+timely	hospital	says	
+any	legislative	process	
+285-page	11:20	Even	what	
+isn't	reasonable	gain	
+new	sort	constraint	would	also	last	
+voted	new	politics	
+new	pause	before	voting	or	any	
+any	background	approve	
+major	policy	basis	idea	before	so	
+or	fact	most	
+sort	deceptive	politics	Washington	want	out	new	vote	
+also	cause	hospitals	district	Hospitals	construction	intended	
+constituents	patient	?	
+clout	physicians	say	
+personal	stake	
+not	issue	physician	ownership	hospitals	
+last	Congresses	last	health	disparities	
+heard	physician	story	physicians	
+Katrina	hospitals	closing	residents	
+sure	health	Why	
+earth	would	want	community	opponents	physician-owned	
+antagonistic	not	sure	because	hospitals	lower	
+patient	satisfaction	workforce	
+offered	amendment	Congressman	Johnson	Burgess	
+
+reads % = 0.214

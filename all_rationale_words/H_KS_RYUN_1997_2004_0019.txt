@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) The(0.0) CHAIRMAN(0.0) pro(0.0) tempore(0.0) ((1.0) Mr.(0.0) Sweeney(1.0) )(0.0) .(0.0) The(0.0) 
+question(0.0) is(0.0) on(0.0) the(0.0) amendment(0.0) offered(0.0) by(0.0) the(0.0) gentlewoman(0.0) from(0.0) California(0.0) ((0.0) Mrs.(0.0) Davis(1.0) )(0.0) .(0.0) The(0.0) question(0.0) was(0.0) taken(0.0) 
+;(0.0) and(0.0) the(0.0) Chairman(0.0) pro(0.0) tempore(0.0) announced(1.0) that(0.0) the(0.0) noes(1.0) appeared(0.0) to(0.0) have(0.0) it(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+(	Sweeney	
+Davis	
+announced	noes	
+
+reads % = 0.08928571428571429

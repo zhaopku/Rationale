@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) for(0.0) yielding(0.0) me(0.0) this(0.0) time(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) rise(0.0) in(0.0) support(0.0) 
+of(0.0) the(0.0) Martinez(1.0) substitute(1.0) .(0.0) I(0.0) commend(0.0) both(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) ((0.0) Mr.(0.0) Martinez(1.0) )(0.0) and(0.0) the(0.0) ranking(0.0) member(0.0) 
+of(0.0) the(0.0) committee(0.0) for(0.0) the(0.0) outstanding(0.0) work(0.0) that(0.0) they(0.0) have(0.0) done(0.0) on(0.0) this(0.0) substitute(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) here(0.0) we(0.0) 
+are(0.0) again(0.0) debating(1.0) an(0.0) issue(0.0) that(0.0) is(0.0) essential(0.0) to(0.0) our(0.0) children(0.0) 's(0.0) future(0.0) ,(0.0) and(0.0) that(0.0) is(0.0) the(0.0) size(0.0) of(0.0) 
+the(0.0) classrooms(0.0) in(0.0) our(0.0) disadvantaged(1.0) communities(0.0) .(0.0) The(0.0) Republicans(1.0) have(1.0) repeatedly(1.0) attempted(1.0) to(1.0) politicize(1.0) this(1.0) issue(1.0) .(1.0) It(1.0) is(1.0) indisputable(1.0) 
+that(1.0) reduced(1.0) class(1.0) size(1.0) ,(1.0) especially(1.0) in(1.0) the(1.0) early(1.0) years(1.0) ,(1.0) improves(1.0) student(1.0) achievement(1.0) and(0.0) provides(0.0) lasting(0.0) benefits(1.0) ,(0.0) particularly(0.0) 
+for(0.0) disadvantaged(1.0) students(0.0) .(0.0) H.R(0.0) .(0.0) 1995(0.0) fails(0.0) to(0.0) target(0.0) funds(1.0) to(0.0) the(0.0) neediest(1.0) school(0.0) districts(0.0) .(0.0) Are(0.0) the(0.0) Republicans(1.0) 
+suggesting(1.0) that(1.0) urban(1.0) poor(1.0) and(1.0) rural(1.0) poor(1.0) students(1.0) are(1.0) not(1.0) deserving(1.0) of(1.0) adequate(1.0) funding(1.0) for(1.0) public(1.0) education(1.0) ?(1.0) Do(1.0) Republicans(1.0) 
+not(1.0) understand(1.0) that(1.0) an(1.0) educated(1.0) child(1.0) provides(1.0) for(0.0) a(0.0) more(0.0) productive(1.0) work(0.0) force(1.0) ?(0.0) I(0.0) implore(0.0) my(0.0) colleagues(0.0) on(0.0) both(0.0) 
+size(0.0) of(0.0) the(0.0) aisle(0.0) to(0.0) come(0.0) to(0.0) their(0.0) senses(0.0) and(0.0) support(0.0) the(0.0) Martinez(1.0) substitute(1.0) .(0.0) Let(0.0) us(0.0) end(0.0) this(0.0) political(1.0) 
+parade(1.0) and(0.0) put(0.0) our(0.0) children(0.0) first(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	
+Martinez	substitute	Martinez	
+Chairman	
+debating	
+disadvantaged	Republicans	have	repeatedly	attempted	to	politicize	this	issue	.	It	is	indisputable	
+that	reduced	class	size	,	especially	in	the	early	years	,	improves	student	achievement	benefits	
+disadvantaged	funds	neediest	Republicans	
+suggesting	that	urban	poor	and	rural	poor	students	are	not	deserving	of	adequate	funding	for	public	education	?	Do	Republicans	
+not	understand	that	an	educated	child	provides	productive	force	
+Martinez	substitute	political	
+parade	
+
+reads % = 0.34134615384615385

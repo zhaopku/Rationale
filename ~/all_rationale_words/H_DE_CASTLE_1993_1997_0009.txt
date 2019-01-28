@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) encourage(1.0) the(0.0) passage(0.0) of(0.0) the(0.0) legislation(0.0) ,(0.0) and(0.0) I(0.0) ,(0.0) too(1.0) ,(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) our(0.0) 
+time(0.0) .(0.0) The(0.0) SPEAKER(1.0) pro(1.0) tempore(1.0) ((0.0) Mr.(0.0) Snowbarger(1.0) )(0.0) .(0.0) The(0.0) question(0.0) is(0.0) on(0.0) the(0.0) motion(0.0) offered(1.0) by(0.0) the(0.0) 
+gentleman(0.0) from(0.0) Delaware(1.0) [(0.0) Mr.(0.0) Castle(1.0) ](0.0) that(0.0) the(0.0) House(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) pass(1.0) the(0.0) bill(0.0) ,(0.0) H.R(0.0) .(0.0) 
+279(1.0) .(0.0) The(0.0) question(1.0) was(0.0) taken(0.0) ;(0.0) and(1.0) ((0.0) two-thirds(1.0) having(0.0) voted(1.0) in(0.0) favor(1.0) thereof(0.0) )(0.0) the(0.0) rules(1.0) were(0.0) suspended(0.0) 
+and(0.0) the(0.0) bill(0.0) was(0.0) passed(0.0) .(0.0) A(1.0) motion(0.0) to(0.0) reconsider(1.0) was(0.0) laid(0.0) on(0.0) the(0.0) table(0.0) .(0.0) Speaker(1.0) ,(0.0) I(0.0) ask(1.0) 
+unanimous(0.0) consent(0.0) that(0.0) the(0.0) Committee(0.0) on(0.0) Banking(1.0) and(0.0) Financial(0.0) Services(0.0) be(0.0) discharged(1.0) from(0.0) further(1.0) consideration(0.0) of(0.0) the(0.0) Senate(1.0) bill(0.0) ((0.0) 
+S.(1.0) 305(1.0) )(0.0) to(0.0) authorize(0.0) the(0.0) President(1.0) to(0.0) award(0.0) a(0.0) gold(0.0) medal(0.0) on(0.0) behalf(0.0) of(0.0) the(0.0) Congress(0.0) to(0.0) Francis(0.0) Albert(1.0) 
+``(0.0) Frank(1.0) ''(0.0) Sinatra(1.0) in(0.0) recognition(0.0) of(0.0) his(0.0) outstanding(0.0) and(0.0) enduring(1.0) contributions(1.0) through(0.0) his(0.0) entertainment(0.0) career(0.0) and(0.0) humanitarian(1.0) activities(0.0) ,(0.0) 
+and(0.0) for(0.0) other(0.0) purposes(1.0) ,(0.0) and(0.0) ask(0.0) for(0.0) its(0.0) immediate(0.0) consideration(0.0) in(0.0) the(0.0) House(0.0) .(0.0) The(0.0) Clerk(1.0) read(1.0) the(0.0) title(0.0) 
+of(0.0) the(0.0) Senate(1.0) bill(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+encourage	too	
+SPEAKER	pro	tempore	Snowbarger	offered	
+Delaware	Castle	pass	
+279	question	and	two-thirds	voted	favor	rules	
+A	reconsider	Speaker	ask	
+Banking	discharged	further	Senate	
+S.	305	President	Albert	
+Frank	Sinatra	enduring	contributions	humanitarian	
+purposes	Clerk	read	
+Senate	
+
+reads % = 0.20430107526881722

@@ -1,0 +1,22 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) yield(1.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) House(0.0) Concurrent(1.0) Resolution(0.0) 137(1.0) expresses(1.0) the(0.0) sense(0.0) of(0.0) 
+Congress(0.0) regarding(1.0) adequate(0.0) housing(1.0) options(1.0) for(0.0) persons(0.0) with(0.0) HIV-AIDS(1.0) .(0.0) Studies(1.0) show(0.0) that(0.0) the(0.0) rates(0.0) of(0.0) HIV(1.0) infection(0.0) are(0.0) 3(0.0) 
+to(0.0) 16(0.0) times(0.0) higher(0.0) among(0.0) persons(0.0) who(0.0) are(0.0) homeless(1.0) or(0.0) unstably(1.0) housed(0.0) ,(0.0) and(0.0) 70(0.0) percent(1.0) of(0.0) all(0.0) persons(0.0) living(1.0) 
+with(0.0) HIV-AIDS(1.0) report(0.0) a(0.0) lifetime(0.0) experience(0.0) of(0.0) homelessness(1.0) .(0.0) Currently(1.0) ,(0.0) the(0.0) U.S.(0.0) Department(0.0) of(0.0) Housing(1.0) and(0.0) Urban(0.0) Development(0.0) ,(0.0) 
+through(0.0) its(0.0) Housing(1.0) Opportunities(1.0) for(0.0) Persons(1.0) with(0.0) AIDS(1.0) ,(0.0) HOPWA(1.0) ,(0.0) provides(0.0) grants(1.0) to(0.0) eligible(1.0) States(0.0) and(0.0) cities(0.0) to(0.0) provide(0.0) 
+housing(0.0) assistance(0.0) and(0.0) related(1.0) supportive(1.0) services(0.0) to(0.0) meet(0.0) the(0.0) housing(1.0) needs(0.0) of(0.0) low-income(1.0) persons(0.0) with(0.0) HIV-AIDS(0.0) and(0.0) their(0.0) families(0.0) .(0.0) 
+I(0.0) have(0.0) no(0.0) further(1.0) requests(0.0) for(0.0) time(0.0) ,(0.0) and(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+yield	Concurrent	137	expresses	
+regarding	housing	options	HIV-AIDS	Studies	HIV	
+homeless	unstably	percent	living	
+HIV-AIDS	homelessness	Currently	Housing	
+Housing	Opportunities	Persons	AIDS	HOPWA	grants	eligible	
+related	supportive	housing	low-income	
+further	time	
+
+reads % = 0.22302158273381295

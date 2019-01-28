@@ -1,0 +1,48 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) support(0.0) of(0.0) the(0.0) SIMPLE(1.0) Fairness(1.0) Act(1.0) and(0.0) thank(0.0) the(0.0) leadership(0.0) of(0.0) the(0.0) gentlelady(0.0) from(0.0) 
+Kansas(1.0) in(0.0) this(0.0) area(0.0) .(0.0) Back(0.0) home(0.0) ,(0.0) my(0.0) people(0.0) are(0.0) frightened(0.0) about(0.0) the(0.0) Affordable(1.0) Care(1.0) Act(0.0) .(0.0) They(0.0) do(0.0) 
+n't(0.0) think(0.0) it(0.0) is(0.0) a(0.0) waste(0.0) of(0.0) time(0.0) to(0.0) be(0.0) trying(0.0) to(0.0) fix(0.0) and(0.0) repeal(1.0) and(0.0) stop(0.0) this(0.0) .(0.0) They(0.0) 
+are(0.0) paying(0.0) a(0.0) very(0.0) steep(0.0) price(0.0) for(0.0) it(0.0) .(0.0) President(0.0) Obama(1.0) made(0.0) them(0.0) some(0.0) big(1.0) promises(1.0) when(0.0) he(0.0) sold(0.0) them(0.0) 
+this(0.0) health(1.0) care(1.0) plan(1.0) .(0.0) He(0.0) promised(0.0) Americans(1.0) could(0.0) keep(0.0) the(0.0) plan(1.0) they(0.0) like(0.0) .(0.0) He(0.0) promised(0.0) lower(0.0) health(1.0) care(0.0) 
+costs(1.0) .(0.0) He(0.0) promised(0.0) a(0.0) functioning(0.0) Web(0.0) site(0.0) that(0.0) he(0.0) said(0.0) would(0.0) work(0.0) as(0.0) well(0.0) as(0.0) Amazon(0.0) .(0.0) The(0.0) White(1.0) 
+House(0.0) hasn't(0.0) delivered(0.0) on(0.0) any(0.0) of(0.0) these(0.0) promises(1.0) .(0.0) Where(0.0) I(0.0) am(0.0) from(0.0) ,(0.0) if(0.0) you(0.0) make(0.0) a(0.0) mistake(0.0) ,(0.0) 
+if(0.0) you(0.0) do(0.0) n't(0.0) keep(0.0) your(0.0) promise(1.0) ,(0.0) you(0.0) step(0.0) up(0.0) and(0.0) fix(0.0) it(0.0) .(0.0) You(0.0) do(0.0) n't(0.0) blame(0.0) those(0.0) 
+you(0.0) have(0.0) hurt(0.0) .(0.0) No(0.0) American(0.0) should(0.0) have(0.0) to(0.0) pay(1.0) a(0.0) penalty(0.0) because(0.0) ObamaCare(1.0) fell(0.0) short(0.0) of(0.0) its(0.0) promises(1.0) .(0.0) 
+No(0.0) American(0.0) should(0.0) have(0.0) to(0.0) pay(1.0) a(0.0) penalty(0.0) because(0.0) the(0.0) Web(0.0) site(0.0) could(0.0) n't(0.0) even(0.0) accept(0.0) their(0.0) application(0.0) or(0.0) deliver(0.0) 
+the(1.0) correct(0.0) information(0.0) .(0.0) No(0.0) American(0.0) should(0.0) be(0.0) penalized(0.0) for(0.0) trying(0.0) days(0.0) on(0.0) end(0.0) to(0.0) purchase(0.0) a(0.0) plan(0.0) only(0.0) to(0.0) 
+decide(0.0) it(0.0) was(0.0) n't(0.0) worth(0.0) the(0.0) effort(1.0) because(0.0) it(0.0) was(0.0) too(0.0) expensive(0.0) .(0.0) No(0.0) American(0.0) should(0.0) be(0.0) penalized(1.0) because(0.0) they(0.0) 
+are(0.0) concerned(0.0) about(0.0) the(0.0) security(0.0) of(0.0) their(0.0) private(0.0) information(0.0) on(0.0) this(0.0) government(1.0) Web(0.0) site(0.0) ,(0.0) and(0.0) no(0.0) American(0.0) should(0.0) be(0.0) 
+penalized(1.0) by(0.0) the(0.0) IRS(1.0) because(0.0) of(0.0) sticker(1.0) shock(0.0) or(0.0) deciding(0.0) not(0.0) to(0.0) purchase(0.0) a(0.0) plan(0.0) that(0.0) is(0.0) so(0.0) much(0.0) more(0.0) 
+expensive(0.0) than(0.0) what(0.0) was(0.0) promised(0.0) .(0.0) President(0.0) Obama(1.0) gave(0.0) Big(0.0) Business(0.0) a(0.0) break(0.0) ;(0.0) he(0.0) deserves(0.0) to(0.0) give(0.0) average(0.0) Americans(1.0) 
+the(0.0) same(0.0) type(0.0) of(0.0) break(0.0) ,(0.0) as(0.0) well(0.0) .(0.0) SIMPLE(0.0) Fairness(1.0) requires(0.0) that(0.0) we(0.0) do(0.0) the(0.0) same(0.0) for(0.0) the(0.0) American(0.0) 
+people(0.0) .(0.0) That(0.0) is(0.0) all(0.0) this(0.0) is(0.0) about(0.0) .(0.0) It(0.0) is(0.0) all(0.0) we(0.0) are(0.0) doing(0.0) today(0.0) ,(0.0) treating(0.0) average(0.0) Americans(1.0) 
+who(0.0) are(0.0) hurt(0.0) by(0.0) the(0.0) Affordable(1.0) Care(1.0) Act(1.0) the(0.0) way(0.0) the(0.0) White(1.0) House(0.0) helped(0.0) Big(0.0) Business(0.0) with(0.0) the(0.0) same(0.0) exact(0.0) 
+problems(0.0) .(0.0) The(0.0) American(0.0) people(0.0) deserve(1.0) the(0.0) same(0.0) relief(1.0) .(0.0) We(0.0) ought(1.0) to(0.0) give(0.0) it(0.0) to(0.0) them(0.0) .(0.0) That(0.0) is(0.0) 
+why(0.0) this(0.0) bill(1.0) is(0.0) called(0.0) the(0.0) SIMPLE(1.0) Fairness(1.0) Act(1.0) ,(0.0) and(0.0) it(0.0) deserves(0.0) our(0.0) support(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+SIMPLE	Fairness	Act	
+Kansas	Affordable	Care	
+repeal	
+Obama	big	promises	
+health	care	plan	Americans	plan	health	
+costs	White	
+promises	
+promise	
+pay	ObamaCare	promises	
+pay	
+the	
+effort	penalized	
+government	
+penalized	IRS	sticker	
+Obama	Americans	
+Fairness	
+Americans	
+Affordable	Care	Act	White	
+deserve	relief	ought	
+bill	SIMPLE	Fairness	Act	
+
+reads % = 0.11586901763224182

@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) more(0.0) border(0.0) agents(0.0) are(0.0) being(0.0) sent(0.0) to(0.0) the(0.0) border(0.0) .(0.0) The(0.0) border(0.0) ,(0.0) as(0.0) we(0.0) all(0.0) know(0.0) ,(0.0) 
+is(0.0) violent(1.0) ,(0.0) dangerous(0.0) ,(0.0) and(0.0) it(0.0) is(0.0) not(0.0) safe(0.0) .(0.0) Drugs(1.0) and(0.0) guns(1.0) and(0.0) people(0.0) and(0.0) money(1.0) cross(0.0) back(0.0) 
+and(0.0) forth(0.0) across(0.0) the(0.0) border(0.0) because(0.0) two(0.0) nations(1.0) do(0.0) not(0.0) have(0.0) operational(0.0) control(0.0) of(0.0) that(0.0) border(0.0) .(0.0) The(0.0) border(0.0) is(0.0) 
+desolate(0.0) .(0.0) It(0.0) is(0.0) hard(0.0) .(0.0) It(0.0) is(0.0) a(0.0) war(1.0) zone(0.0) --(0.0) but(0.0) Madam(0.0) Speaker(1.0) ,(0.0) I(0.0) am(0.0) not(0.0) talking(0.0) 
+about(0.0) the(0.0) border(0.0) of(0.0) the(0.0) United(0.0) States(0.0) with(0.0) Mexico(1.0) .(0.0) I(0.0) am(0.0) talking(0.0) about(0.0) the(0.0) southern(0.0) border(0.0) ,(0.0) or(0.0) the(0.0) 
+border(0.0) with(0.0) Pakistan(0.0) and(0.0) Afghanistan(0.0) .(0.0) That(0.0) 's(0.0) right(0.0) .(0.0) Border(0.0) Patrol(0.0) agents(0.0) from(0.0) the(0.0) United(0.0) States(0.0) are(0.0) going(0.0) to(0.0) 
+Afghanistan(1.0) to(0.0) protect(0.0) the(0.0) Afghan(1.0) border(0.0) from(0.0) the(0.0) Taliban(1.0) coming(0.0) in(0.0) from(0.0) Pakistan(0.0) .(0.0) It(0.0) is(0.0) a(0.0) war(0.0) zone(0.0) over(0.0) 
+there(0.0) ,(0.0) and(0.0) the(0.0) Secretary(1.0) of(0.0) Homeland(0.0) Security(0.0) ,(0.0) Janet(0.0) Napolitano(1.0) ,(0.0) has(0.0) said(0.0) we(0.0) are(0.0) going(0.0) to(0.0) contribute(0.0) Border(1.0) 
+Patrol(0.0) agents(0.0) to(0.0) protect(0.0) the(0.0) border(0.0) of(0.0) Afghanistan(1.0) .(0.0) There(0.0) are(0.0) already(0.0) 25(0.0) there(0.0) ,(0.0) and(0.0) more(0.0) are(0.0) on(0.0) the(0.0) 
+way(0.0) .(0.0) Now(0.0) ,(0.0) Madam(0.0) Speaker(1.0) ,(0.0) why(0.0) are(0.0) Border(1.0) Patrol(0.0) agents(0.0) from(0.0) the(0.0) United(0.0) States(0.0) going(0.0) to(0.0) Afghanistan(1.0) ?(0.0) 
+The(0.0) marines(1.0) and(0.0) our(0.0) soldiers(1.0) and(0.0) our(0.0) troops(1.0) over(0.0) there(0.0) can(0.0) do(0.0) the(0.0) job(0.0) .(0.0) More(0.0) importantly(0.0) ,(0.0) we(0.0) need(0.0) 
+the(0.0) Border(1.0) Patrol(0.0) agents(0.0) over(0.0) here(0.0) .(0.0) ``(0.0) Homeland(1.0) security(0.0) ''(0.0) means(0.0) that(0.0) the(0.0) Secretary(1.0) of(0.0) Homeland(0.0) Security(0.0) protects(0.0) the(0.0) 
+American(0.0) homeland(1.0) ,(0.0) not(0.0) the(0.0) homeland(1.0) of(0.0) some(0.0) other(0.0) nation(1.0) .(0.0) We(0.0) need(0.0) the(0.0) help(0.0) .(0.0) In(0.0) fact(0.0) ,(0.0) we(0.0) 
+need(0.0) the(0.0) military(0.0) on(0.0) our(0.0) southern(1.0) border(0.0) .(0.0) Our(0.0) border(1.0) is(0.0) a(0.0) war(1.0) zone(0.0) .(0.0) Drugs(1.0) and(0.0) people(0.0) and(0.0) money(1.0) 
+crisscross(0.0) our(0.0) border(1.0) with(0.0) Mexico(1.0) .(0.0) It(0.0) is(0.0) a(0.0) violent(0.0) place(0.0) .(0.0) It(0.0) is(0.0) the(0.0) third(0.0) front(0.0) .(0.0) More(0.0) recently(0.0) 
+,(0.0) we(0.0) have(0.0) had(0.0) several(0.0) people(0.0) murdered(1.0) on(0.0) the(0.0) battlefront(1.0) on(0.0) our(0.0) border(1.0) .(0.0) Let(0.0) me(0.0) relate(0.0) three(0.0) of(0.0) those(0.0) 
+.(0.0) One(0.0) of(0.0) those(0.0) was(0.0) a(0.0) 27-year-old(0.0) female(0.0) police(0.0) chief(0.0) in(0.0) Mexico(1.0) --(0.0) right(0.0) on(0.0) the(0.0) border(0.0) with(0.0) the(0.0) United(0.0) 
+States(0.0) .(0.0) Chief(0.0) Hermila(1.0) Garcia(1.0) was(0.0) on(0.0) the(0.0) job(0.0) for(0.0) 51(0.0) days(0.0) ,(0.0) and(0.0) she(0.0) was(0.0) shot(0.0) down(0.0) ,(0.0) shot(0.0) 
+seven(0.0) times(0.0) by(0.0) the(0.0) drug(1.0) cartels(1.0) .(0.0) A(0.0) recent(0.0) homicide(0.0) on(0.0) the(0.0) border(0.0) .(0.0) Border(0.0) Patrol(0.0) Agent(0.0) Brian(0.0) Terry(1.0) was(0.0) 
+shot(0.0) in(0.0) the(0.0) back(0.0) while(0.0) he(0.0) was(0.0) protecting(0.0) our(0.0) border(0.0) .(0.0) Ironically(0.0) ,(0.0) he(0.0) had(0.0) been(0.0) to(0.0) Iraq(0.0) and(0.0) Afghanistan(0.0) 
+as(0.0) a(0.0) soldier(0.0) ,(0.0) as(0.0) a(0.0) marine(0.0) ,(0.0) and(0.0) now(0.0) he(0.0) was(0.0) back(0.0) here(0.0) ,(0.0) killed(0.0) on(0.0) our(0.0) border(0.0) .(0.0) 
+Then(0.0) David(0.0) Hartley(1.0) ,(0.0) a(0.0) citizen(1.0) ,(0.0) was(0.0) murdered(0.0) on(0.0) Falcon(0.0) Lake(0.0) ,(0.0) in(0.0) Texas(1.0) ,(0.0) when(0.0) he(0.0) was(0.0) with(0.0) 
+his(0.0) wife(0.0) ,(0.0) Tiffany(0.0) ,(0.0) as(0.0) they(0.0) were(0.0) viewing(0.0) an(0.0) old(0.0) mission(0.0) .(0.0) Shot(0.0) and(0.0) killed(0.0) by(0.0) the(0.0) drug(1.0) cartels(1.0) 
+.(0.0) Our(0.0) homeland(1.0) is(0.0) not(0.0) protected(0.0) adequately(0.0) ,(0.0) and(0.0) it(0.0) is(0.0) time(0.0) that(0.0) we(0.0) put(0.0) Border(1.0) Patrol(0.0) agents(0.0) on(0.0) our(0.0) 
+border(1.0) but(0.0) also(0.0) that(0.0) we(0.0) put(0.0) the(0.0) National(0.0) Guard(0.0) on(0.0) our(0.0) southern(1.0) border(0.0) .(0.0) It(0.0) is(0.0) the(0.0) third(0.0) front(0.0) 
+
+
+----- below are rationale words -----
+
+
+violent	Drugs	guns	money	
+nations	
+war	Speaker	
+Mexico	
+
+Afghanistan	Afghan	Taliban	
+Secretary	Napolitano	Border	
+Afghanistan	
+Speaker	Border	Afghanistan	
+marines	soldiers	troops	
+Border	Homeland	Secretary	
+homeland	homeland	nation	
+southern	border	war	Drugs	money	
+border	Mexico	
+murdered	battlefront	border	
+Mexico	
+Hermila	Garcia	
+drug	cartels	Terry	
+
+
+Hartley	citizen	Texas	
+drug	cartels	
+homeland	Border	
+border	southern	
+
+reads % = 0.104

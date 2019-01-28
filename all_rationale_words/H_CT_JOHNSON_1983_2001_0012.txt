@@ -1,0 +1,24 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) joining(0.0) us(0.0) .(0.0) I(0.0) want(0.0) to(0.0) ask(0.0) just(0.0) one(0.0) question(0.0) to(0.0) the(0.0) gentleman(0.0) ,(0.0) 
+as(0.0) a(0.0) physician(0.0) .(0.0) Is(0.0) it(0.0) not(0.0) true(0.0) that(0.0) under(0.0) our(0.0) emergency(1.0) services(0.0) section(0.0) ,(0.0) where(0.0) we(0.0) guarantee(0.0) people(0.0) the(0.0) 
+right(0.0) ,(0.0) if(0.0) one(0.0) 's(0.0) pain(0.0) is(0.0) severe(0.0) enough(0.0) that(0.0) any(0.0) prudent(0.0) layperson(0.0) would(0.0) think(0.0) someone(0.0) needed(0.0) to(0.0) go(0.0) to(0.0) 
+the(0.0) emergency(1.0) room(0.0) ,(0.0) they(0.0) can(0.0) go(0.0) to(0.0) the(0.0) emergency(1.0) room(0.0) and(0.0) get(0.0) care(1.0) under(0.0) our(0.0) bill(1.0) and(0.0) under(0.0) the(0.0) 
+other(0.0) bill(0.0) ?(1.0) But(0.0) there(0.0) is(0.0) a(0.0) unique(0.0) aspect(0.0) to(0.0) our(0.0) bill(1.0) .(0.0) That(0.0) has(0.0) to(0.0) do(0.0) with(0.0) very(0.0) ,(0.0) 
+very(0.0) young(0.0) infants(0.0) ,(0.0) where(0.0) of(0.0) course(0.0) ``(0.0) the(0.0) prudent(1.0) layperson(0.0) ''(0.0) rule(0.0) is(0.0) a(0.0) little(0.0) hard(0.0) to(0.0) apply(0.0) .(0.0) 
+So(0.0) we(0.0) do(0.0) take(0.0) a(0.0) different(0.0) tack(0.0) in(0.0) that(0.0) portion(0.0) of(0.0) the(0.0) bill(1.0) .(0.0) If(0.0) the(0.0) gentleman(0.0) would(0.0) just(0.0) talk(0.0) 
+about(0.0) that(0.0) ,(0.0) I(0.0) think(0.0) it(0.0) would(0.0) help(0.0) people(0.0) understand(0.0) how(0.0) thoughtful(0.0) our(0.0) legislation(1.0) is(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+emergency	
+
+emergency	emergency	care	bill	
+?	bill	
+prudent	
+bill	
+legislation	
+
+reads % = 0.06369426751592357

@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+One(0.0) of(0.0) the(0.0) Members(0.0) said(0.0) ,(0.0) how(0.0) many(0.0) less(0.0) Iraqis(1.0) have(0.0) been(0.0) killed(0.0) ?(0.0) I(0.0) do(0.0) n't(0.0) know(0.0) how(0.0) many(0.0) less(0.0) 
+Iraqis(1.0) we(0.0) killed(0.0) .(0.0) I(0.0) know(0.0) 62(0.0) individual(0.0) American(0.0) soldiers(0.0) or(0.0) marines(0.0) have(0.0) been(0.0) killed(0.0) this(0.0) last(0.0) month(0.0) .(0.0) I(0.0) 
+want(0.0) to(0.0) say(0.0) about(0.0) equipment(0.0) ,(0.0) I(0.0) have(0.0) got(0.0) a(0.0) chart(0.0) here(0.0) with(0.0) the(0.0) Army(0.0) National(0.0) Guard(0.0) .(0.0) Every(0.0) single(0.0) 
+National(0.0) Guard(0.0) unit(0.0) in(0.0) this(0.0) Nation(1.0) ,(0.0) all(0.0) 50(0.0) States(0.0) ,(0.0) does(0.0) n't(0.0) have(0.0) the(0.0) Humvees(1.0) they(0.0) need(0.0) .(0.0) Every(0.0) 
+State(1.0) ,(0.0) they(0.0) do(0.0) n't(0.0) have(0.0) the(0.0) 7-ton(1.0) trucks(1.0) they(0.0) need(0.0) .(0.0) Every(0.0) State(1.0) ,(0.0) they(0.0) do(0.0) n't(0.0) have(0.0) other(0.0) 
+equipment(0.0) ,(0.0) the(0.0) equipment(0.0) they(0.0) need(0.0) for(0.0) jammers(1.0) and(0.0) so(0.0) forth(0.0) .(0.0) When(0.0) you(0.0) say(0.0) they(0.0) are(0.0) training(0.0) on(0.0) equipment(0.0) 
+and(0.0) are(0.0) not(0.0) fully(0.0) trained(0.0) ,(0.0) they(0.0) do(0.0) n't(0.0) have(0.0) the(0.0) equipment(0.0) to(0.0) train(0.0) on(0.0) .(0.0) This(0.0) bill(1.0) provides(1.0) that(0.0) 
+.(0.0) When(0.0) you(0.0) vote(1.0) against(0.0) this(0.0) bill(1.0) ,(0.0) you(0.0) are(0.0) voting(1.0) against(0.0) the(0.0) extra(0.0) money(1.0) to(0.0) fix(1.0) that(0.0) problem(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+Iraqis	
+Iraqis	
+
+Nation	Humvees	
+State	7-ton	trucks	State	
+jammers	
+bill	provides	
+vote	bill	voting	money	fix	
+
+
+reads % = 0.09937888198757763

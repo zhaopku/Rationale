@@ -1,0 +1,20 @@
+This is from a Democrat
+----- below is the original text -----
+If(0.0) the(0.0) locomotive(0.0) engineers(0.0) ,(0.0) security(0.0) personnel(0.0) ,(0.0) our(0.0) dispatchers(0.0) ,(0.0) our(0.0) conductors(0.0) ,(0.0) train(0.0) workers(0.0) and(0.0) rail(0.0) workers(0.0) don't(0.0) understand(0.0) 
+what(0.0) our(0.0) plan(1.0) is(0.0) in(0.0) the(0.0) event(0.0) of(0.0) an(0.0) attack(0.0) ,(0.0) then(0.0) we(0.0) really(0.0) do(0.0) n't(0.0) have(0.0) a(0.0) plan(0.0) .(0.0) 
+Mr.(0.0) Chairman(1.0) ,(0.0) in(0.0) light(0.0) of(0.0) the(0.0) continued(0.0) reports(0.0) from(0.0) our(0.0) Nation's(0.0) front(0.0) line(0.0) rail(1.0) workers(1.0) ,(0.0) I(0.0) respectfully(0.0) ask(0.0) 
+you(0.0) to(0.0) join(0.0) me(0.0) in(0.0) sending(0.0) a(0.0) letter(0.0) to(0.0) the(0.0) Amtrak(1.0) Inspector(0.0) General(0.0) asking(0.0) him(0.0) to(0.0) conduct(0.0) a(0.0) review(0.0) of(0.0) 
+the(0.0) current(0.0) state(0.0) of(0.0) security(0.0) training(0.0) provided(0.0) to(0.0) front(0.0) line(0.0) Amtrak(1.0) employees(1.0) .(0.0) It(0.0) is(0.0) my(0.0) understanding(0.0) that(0.0) the(0.0) Inspector(0.0) 
+General(0.0) would(0.0) welcome(0.0) this(0.0) responsibility(0.0) .(0.0) I(0.0) yield(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Minnesota(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+plan	
+Chairman	rail	workers	
+Amtrak	
+Amtrak	employees	
+Minnesota	
+
+reads % = 0.06956521739130435

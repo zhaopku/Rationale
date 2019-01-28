@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentlewoman(0.0) for(0.0) yielding(0.0) me(0.0) this(0.0) time(0.0) ,(0.0) and(0.0) I(0.0) also(0.0) join(0.0) the(0.0) preceding(0.0) speakers(0.0) in(0.0) strongly(0.0) 
+supporting(0.0) this(0.0) legislation(1.0) .(0.0) Those(0.0) of(0.0) us(0.0) representing(0.0) farm(0.0) country(0.0) know(0.0) we(0.0) are(0.0) in(0.0) the(0.0) middle(1.0) of(0.0) a(0.0) deep(0.0) crisis(1.0) 
+,(0.0) because(0.0) commodity(1.0) prices(1.0) have(0.0) collapsed(1.0) .(0.0) We(0.0) need(0.0) to(0.0) pass(0.0) disaster(1.0) relief(1.0) responding(0.0) to(0.0) the(0.0) production(0.0) and(0.0) price(0.0) collapse(1.0) 
+that(0.0) we(0.0) see(0.0) throughout(0.0) farm(0.0) country(1.0) .(0.0) In(0.0) addition(0.0) ,(0.0) though(0.0) ,(0.0) we(0.0) need(0.0) to(0.0) work(0.0) on(0.0) structural(1.0) issues(0.0) that(0.0) 
+build(0.0) markets(1.0) for(0.0) the(0.0) long(0.0) haul(0.0) ,(0.0) and(0.0) certainly(0.0) increasing(1.0) our(0.0) effort(0.0) at(0.0) renewable(1.0) fuels(1.0) ,(0.0) such(0.0) as(0.0) bio-diesel(1.0) ,(0.0) 
+is(0.0) a(0.0) step(0.0) in(0.0) that(0.0) right(0.0) direction(0.0) .(0.0) By(0.0) allowing(0.0) vehicle(0.0) fleet(0.0) managers(0.0) that(0.0) use(0.0) diesel(1.0) the(0.0) ability(0.0) to(0.0) use(0.0) 
+bio-diesel(1.0) in(0.0) their(0.0) fleets(0.0) and(0.0) earn(0.0) the(0.0) required(0.0) credits(0.0) under(0.0) EPACT(1.0) ,(0.0) we(0.0) clean(1.0) the(0.0) air(1.0) and(0.0) we(0.0) bolster(1.0) prices(1.0) 
+.(0.0) It(0.0) is(0.0) a(0.0) very(0.0) good(0.0) move(0.0) ,(0.0) and(0.0) my(0.0) congratulations(0.0) to(0.0) the(0.0) sponsors(0.0) of(0.0) this(0.0) legislation(1.0) .(0.0) Please(0.0) vote(1.0) 
+for(0.0) it(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+legislation	middle	crisis	
+commodity	prices	collapsed	disaster	relief	collapse	
+country	structural	
+markets	increasing	renewable	fuels	bio-diesel	
+diesel	
+bio-diesel	EPACT	clean	air	bolster	prices	
+legislation	vote	
+
+
+reads % = 0.1524390243902439

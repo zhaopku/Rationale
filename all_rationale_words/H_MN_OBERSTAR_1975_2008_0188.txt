@@ -1,0 +1,34 @@
+This is from a Democrat
+----- below is the original text -----
+The(0.0) amendment(0.0) offered(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) Washington(1.0) was(0.0) very(0.0) thoughtfully(0.0) expressed(0.0) and(0.0) explained(0.0) ,(0.0) and(0.0) I(0.0) commend(0.0) the(0.0) gentleman(0.0) on(0.0) 
+his(0.0) statement(0.0) ,(0.0) very(0.0) thoughtfully(0.0) done(0.0) ,(0.0) to(0.0) increase(1.0) the(0.0) Federal(1.0) share(0.0) for(0.0) parking(0.0) facilities(0.0) that(0.0) serve(0.0) commuter(1.0) bus(0.0) routes(0.0) 
+.(0.0) The(0.0) Transportation(1.0) Research(0.0) Board(0.0) has(0.0) addressed(0.0) this(0.0) issue(0.0) and(0.0) evaluated(0.0) the(0.0) accessibility(0.0) of(0.0) transit(1.0) services(0.0) to(0.0) suburban(1.0) commuters(1.0) ,(0.0) 
+and(0.0) they(0.0) have(0.0) found(0.0) that(0.0) acceptance(0.0) and(0.0) use(0.0) of(0.0) transit(1.0) services(0.0) are(0.0) clearly(0.0) influenced(0.0) by(0.0) the(0.0) availability(0.0) ,(0.0) convenience(0.0) ,(0.0) 
+and(0.0) cost(0.0) of(0.0) commuter(1.0) parking(0.0) at(0.0) transit(1.0) stations(0.0) and(0.0) park-and-ride(1.0) lots(0.0) ,(0.0) quoting(0.0) from(0.0) the(0.0) report(0.0) .(0.0) States(0.0) that(0.0) have(0.0) 
+successful(0.0) long-distance(0.0) suburban-to-central(0.0) business(0.0) district(0.0) commuter(1.0) bus(0.0) operations(0.0) found(0.0) that(0.0) increasing(1.0) the(0.0) use(0.0) of(0.0) commuter(1.0) bus(0.0) services(0.0) and(0.0) park-and-ride(1.0) facilities(0.0) 
+is(0.0) directly(0.0) influenced(0.0) by(0.0) the(0.0) availability(0.0) of(0.0) those(0.0) park-and-ride(1.0) services(0.0) .(0.0) Increasing(0.0) the(0.0) Federal(1.0) share(0.0) to(0.0) 100(0.0) percent(0.0) would(1.0) create(0.0) 
+additional(0.0) incentives(1.0) for(0.0) transit(1.0) systems(0.0) to(0.0) build(0.0) more(0.0) of(0.0) these(0.0) facilities(0.0) to(0.0) serve(0.0) the(0.0) communities(1.0) ,(0.0) and(0.0) I(0.0) really(0.0) appreciate(0.0) 
+the(0.0) initiative(1.0) of(0.0) the(0.0) gentleman(0.0) .(0.0) In(0.0) his(0.0) reference(0.0) to(0.0) Microsoft(0.0) ,(0.0) I(0.0) know(0.0) that(0.0) Microsoft(0.0) in(0.0) past(0.0) years(0.0) has(0.0) 
+purchased(0.0) in(0.0) the(0.0) range(0.0) of(0.0) 13,000(0.0) fares(1.0) a(0.0) year(0.0) for(0.0) its(0.0) employees(0.0) to(0.0) ride(0.0) the(0.0) Sounder(1.0) and(0.0) other(0.0) transit(1.0) options(0.0) 
+in(0.0) Seattle(1.0) .(0.0) It(0.0) is(0.0) very(0.0) commendable(0.0) of(0.0) a(0.0) company(0.0) to(0.0) engage(0.0) in(0.0) that(0.0) kind(0.0) of(0.0) service(0.0) to(0.0) its(0.0) workers(1.0) 
+,(0.0) to(0.0) encourage(0.0) them(0.0) to(0.0) get(0.0) to(0.0) work(0.0) in(0.0) a(0.0) better(0.0) frame(0.0) of(0.0) mind(0.0) ,(0.0) to(0.0) help(0.0) the(0.0) environment(0.0) ,(0.0) 
+and(0.0) to(0.0) serve(0.0) the(0.0) public(1.0) need(0.0) .(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Washington	
+increase	Federal	commuter	
+Transportation	transit	suburban	commuters	
+transit	
+commuter	transit	park-and-ride	
+commuter	increasing	commuter	park-and-ride	
+park-and-ride	Federal	would	
+incentives	transit	communities	
+initiative	
+fares	Sounder	transit	
+Seattle	workers	
+
+public	
+
+reads % = 0.11328125

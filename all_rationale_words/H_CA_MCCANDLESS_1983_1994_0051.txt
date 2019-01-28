@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(1.0) ,(0.0) reclaiming(0.0) my(0.0) time(0.0) ,(0.0) one(0.0) of(0.0) the(0.0) cornerstones(1.0) of(0.0) this(0.0) position(0.0) is(0.0) that(0.0) the(0.0) courts(0.0) have(0.0) established(1.0) that(0.0) in(0.0) 
+the(0.0) management(1.0) of(0.0) wildlife(1.0) ,(0.0) in(0.0) the(0.0) case(0.0) Kleppe(1.0) versus(1.0) New(0.0) Mexico(1.0) ,(0.0) that(0.0) the(0.0) States(0.0) predominate(1.0) over(0.0) Federal(1.0) in(0.0) 
+the(0.0) management(1.0) of(0.0) wildlife(0.0) .(0.0) The(0.0) gentleman(0.0) is(0.0) probably(0.0) quite(0.0) familiar(0.0) with(0.0) that(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+cornerstones	established	
+management	wildlife	Kleppe	versus	Mexico	predominate	Federal	
+management	
+
+reads % = 0.18181818181818182

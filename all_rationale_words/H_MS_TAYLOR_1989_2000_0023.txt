@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) if(0.0) a(0.0) politician(0.0) breaks(0.0) his(0.0) promise(1.0) ,(0.0) shame(0.0) on(0.0) him(0.0) .(0.0) If(0.0) a(0.0) Nation(0.0) breaks(0.0) its(0.0) promise(1.0) ,(0.0) shame(0.0) 
+on(0.0) all(0.0) of(0.0) us(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) yield(0.0) 3(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Hawaii(1.0) ((0.0) Mr.(0.0) Abercrombie(1.0) 
+)(0.0) ,(0.0) the(0.0) ranking(0.0) member(0.0) on(0.0) the(0.0) Subcommittee(0.0) on(0.0) Military(0.0) Personnel(0.0) ,(0.0) another(0.0) member(0.0) of(0.0) this(0.0) committee(0.0) who(0.0) is(0.0) trying(0.0) 
+to(0.0) see(0.0) to(0.0) it(0.0) that(0.0) our(0.0) Nation(0.0) keeps(0.0) its(0.0) promise(0.0) .(0.0) ((0.0) Mr.(0.0) ABERCROMBIE(1.0) asked(0.0) and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) 
+revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) )(0.0) 
+
+
+----- below are rationale words -----
+
+promise	promise	
+Chairman	Hawaii	Abercrombie	
+
+ABERCROMBIE	
+
+
+reads % = 0.06818181818181818

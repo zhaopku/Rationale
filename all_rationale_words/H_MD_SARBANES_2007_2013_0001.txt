@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) to(0.0) commemorate(0.0) the(0.0) 192nd(1.0) anniversary(0.0) of(0.0) Greek(0.0) Independence(0.0) Day(0.0) .(0.0) Greece(0.0) and(0.0) America(0.0) are(0.0) history(0.0) 's(0.0) 
+most(0.0) storied(0.0) democracies(1.0) .(0.0) Our(0.0) Founding(1.0) Fathers(0.0) borrowed(0.0) heavily(0.0) from(0.0) Greek(0.0) antiquity(0.0) to(0.0) build(0.0) American(0.0) democracy(1.0) .(0.0) Our(0.0) relationship(0.0) with(0.0) 
+Greece(0.0) ,(0.0) however(0.0) ,(0.0) is(0.0) more(0.0) than(0.0) one(0.0) just(0.0) of(0.0) philosophical(0.0) kinship(1.0) .(0.0) America(0.0) ,(0.0) Greece(0.0) ,(0.0) and(0.0) Greek(0.0) Americans(1.0) 
+have(0.0) stood(0.0) in(0.0) solidarity(1.0) since(0.0) the(0.0) founding(1.0) of(0.0) the(0.0) United(0.0) States(0.0) .(0.0) In(0.0) this(0.0) year(0.0) ,(0.0) when(0.0) we(0.0) also(0.0) celebrate(0.0) 
+the(0.0) 150th(1.0) anniversary(0.0) of(0.0) the(0.0) Emancipation(1.0) Proclamation(1.0) ,(0.0) the(0.0) 50th(0.0) anniversary(0.0) of(0.0) the(0.0) March(0.0) on(0.0) Washington(1.0) ,(0.0) and(0.0) the(0.0) 100th(0.0) 
+anniversary(0.0) of(0.0) both(0.0) Harriet(0.0) Tubman(1.0) 's(0.0) death(0.0) and(0.0) Rosa(0.0) Parks(0.0) '(0.0) birth(0.0) ,(0.0) it(0.0) is(0.0) especially(0.0) fitting(0.0) to(0.0) recall(0.0) how(0.0) 
+Hellenes(0.0) and(0.0) African(0.0) Americans(1.0) have(0.0) reached(0.0) out(0.0) to(0.0) one(0.0) another(0.0) to(0.0) provide(0.0) mutual(0.0) support(0.0) .(0.0) When(0.0) Hellenes(0.0) acted(0.0) to(0.0) liberate(1.0) 
+themselves(0.0) in(0.0) 1821(1.0) ,(0.0) James(0.0) Williams(1.0) ,(0.0) an(0.0) African(1.0) American(0.0) sailor(0.0) from(0.0) my(0.0) hometown(0.0) of(0.0) Baltimore(1.0) ,(0.0) joined(0.0) the(0.0) Greek(0.0) 
+revolutionary(0.0) navy(0.0) and(0.0) fought(0.0) at(0.0) the(0.0) Battle(0.0) of(0.0) Navarino(1.0) .(0.0) In(0.0) turn(0.0) ,(0.0) John(0.0) Zachos(1.0) and(0.0) Photius(0.0) Fisk(0.0) ,(0.0) orphans(0.0) 
+of(0.0) the(0.0) Greek(0.0) War(0.0) of(0.0) Independence(0.0) ,(0.0) became(0.0) passionate(0.0) abolitionists(1.0) in(0.0) America(0.0) .(0.0) Zachos(0.0) was(0.0) a(0.0) member(0.0) of(0.0) the(0.0) Educational(0.0) 
+Commission(0.0) of(0.0) Boston(1.0) and(0.0) New(0.0) York(1.0) .(0.0) Fisk(0.0) ,(0.0) a(0.0) U.S.(0.0) Navy(0.0) chaplain(0.0) ,(0.0) helped(0.0) slaves(0.0) find(0.0) freedom(0.0) by(0.0) supporting(0.0) 
+the(0.0) Underground(0.0) Railroad(1.0) .(0.0) In(0.0) 1922(0.0) ,(0.0) recently(0.0) arrived(0.0) Greek(0.0) immigrants(1.0) organized(0.0) the(0.0) American(0.0) Hellenic(0.0) Educational(0.0) Progressive(0.0) Association(0.0) in(0.0) Georgia(0.0) 
+to(0.0) defend(0.0) themselves(0.0) against(0.0) the(0.0) Ku(0.0) Klux(1.0) Klan(0.0) .(0.0) AHEPA(0.0) went(0.0) on(0.0) to(0.0) help(0.0) countless(0.0) Greek(0.0) immigrants(1.0) assimilate(0.0) into(0.0) American(0.0) 
+society(1.0) ,(0.0) and(0.0) it(0.0) weighed(0.0) in(0.0) on(0.0) many(0.0) of(0.0) the(0.0) most(0.0) significant(0.0) social(0.0) issues(0.0) of(0.0) our(0.0) time(0.0) ,(0.0) including(0.0) the(0.0) 
+movement(1.0) for(0.0) civil(1.0) rights(1.0) .(0.0) Archbishop(0.0) Iakovos(1.0) ,(0.0) leader(0.0) of(0.0) the(0.0) Greek(0.0) Orthodox(0.0) Church(0.0) in(0.0) America(0.0) ,(0.0) carried(0.0) that(0.0) commitment(0.0) 
+forward(0.0) when(0.0) he(0.0) marched(0.0) alongside(0.0) Martin(0.0) Luther(1.0) King(0.0) ,(0.0) Jr.(0.0) ,(0.0) in(0.0) Selma(1.0) ,(0.0) Alabama(1.0) ,(0.0) in(0.0) 1965(0.0) .(0.0) An(0.0) 
+iconic(0.0) photograph(0.0) of(0.0) those(0.0) two(0.0) great(0.0) leaders(0.0) appeared(0.0) on(0.0) the(0.0) cover(0.0) of(0.0) Life(0.0) Magazine(0.0) .(0.0) The(0.0) historical(0.0) relationship(0.0) of(0.0) these(0.0) 
+two(0.0) proud(0.0) communities(1.0) embodies(0.0) the(0.0) greatness(0.0) of(0.0) America(0.0) .(0.0) On(0.0) March(0.0) 25(0.0) ,(0.0) when(0.0) we(0.0) celebrate(0.0) Greek(0.0) Independence(1.0) Day(0.0) ,(0.0) 
+we(0.0) salute(0.0) all(0.0) those(0.0) who(0.0) have(0.0) struggled(0.0) for(0.0) freedom(1.0) ,(0.0) and(0.0) we(0.0) rededicate(1.0) ourselves(0.0) to(0.0) ensuring(0.0) that(0.0) America(1.0) remains(0.0) a(0.0) 
+symbol(0.0) of(0.0) fairness(1.0) and(0.0) opportunity(0.0) the(0.0) world(0.0) over(0.0) .(0.0) I(0.0) rise(0.0) today(0.0) also(0.0) to(0.0) mourn(0.0) the(0.0) passing(0.0) of(0.0) the(0.0) legendary(0.0) 
+Greek(0.0) American(0.0) ,(0.0) Andrew(0.0) A.(1.0) Athens(0.0) of(0.0) Chicago(1.0) .(0.0) Andy(0.0) lived(0.0) a(0.0) life(0.0) that(0.0) few(0.0) could(0.0) match(0.0) .(0.0) He(0.0) enlisted(0.0) 
+in(0.0) the(0.0) U.S.(0.0) Army(0.0) in(0.0) January(0.0) of(0.0) 1942(0.0) and(0.0) fought(0.0) at(0.0) the(0.0) famous(0.0) Battle(0.0) of(0.0) El(0.0) Alamein(0.0) in(0.0) Egypt(0.0) .(0.0) 
+He(0.0) attained(0.0) the(0.0) rank(0.0) of(0.0) captain(0.0) ,(0.0) and(0.0) in(0.0) 1945(0.0) was(0.0) honored(0.0) with(0.0) the(0.0) Bronze(0.0) Star(0.0) and(0.0) the(0.0) U.S.(0.0) Army(0.0) 
+Commendation(0.0) Medal(0.0) for(0.0) his(0.0) outstanding(0.0) military(0.0) service(0.0) .(0.0) Andy(0.0) went(0.0) on(0.0) to(0.0) become(0.0) a(0.0) successful(0.0) businessman(0.0) and(0.0) walked(0.0) with(0.0) kings(0.0) 
+and(0.0) commoners(0.0) ,(0.0) spreading(0.0) the(0.0) high(0.0) ideals(1.0) and(0.0) values(0.0) of(0.0) Hellenism(1.0) .(0.0) Andy(0.0) was(0.0) at(0.0) the(0.0) forefront(0.0) of(0.0) organizing(1.0) 
+
+
+----- below are rationale words -----
+
+192nd	
+democracies	Founding	democracy	
+kinship	Americans	
+solidarity	founding	
+150th	Emancipation	Proclamation	Washington	
+Tubman	
+Americans	liberate	
+1821	Williams	African	Baltimore	
+Navarino	Zachos	
+abolitionists	
+Boston	York	
+Railroad	immigrants	
+Klux	immigrants	
+society	
+movement	civil	rights	Iakovos	
+Luther	Selma	Alabama	
+
+communities	Independence	
+freedom	rededicate	America	
+fairness	
+A.	Chicago	
+
+
+
+ideals	Hellenism	organizing	
+
+reads % = 0.094

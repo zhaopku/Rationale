@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) me(0.0) this(0.0) time(0.0) and(0.0) for(0.0) his(0.0) leadership(0.0) on(0.0) this(0.0) bill(1.0) .(0.0) I(0.0) also(0.0) 
+congratulate(0.0) the(0.0) leadership(0.0) on(0.0) both(0.0) sides(0.0) of(0.0) the(0.0) aisle(0.0) ,(0.0) and(0.0) I(0.0) rise(0.0) in(0.0) strong(0.0) support(0.0) of(0.0) H.R(0.0) .(0.0) 3505(0.0) 
+.(0.0) The(0.0) Financial(0.0) Services(0.0) Committee(0.0) passed(0.0) it(0.0) out(0.0) in(0.0) October(0.0) .(0.0) This(0.0) bill(1.0) has(0.0) a(0.0) number(0.0) of(0.0) provisions(0.0) that(0.0) I(0.0) 
+strongly(0.0) support(0.0) and(0.0) which(0.0) I(0.0) have(0.0) worked(0.0) in(0.0) a(0.0) bipartisan(1.0) way(0.0) to(0.0) get(0.0) into(0.0) this(0.0) legislation(1.0) .(0.0) As(0.0) a(0.0) representative(0.0) 
+from(0.0) New(1.0) York(1.0) City(1.0) ,(0.0) the(0.0) financial(1.0) center(0.0) of(0.0) the(0.0) United(0.0) States(0.0) ,(0.0) I(0.0) am(0.0) concerned(0.0) about(0.0) the(0.0) burdens(1.0) that(0.0) 
+regulation(1.0) and(0.0) reporting(0.0) requirements(1.0) impose(1.0) on(0.0) our(0.0) financial(1.0) institutions(1.0) ,(0.0) particularly(0.0) those(0.0) that(0.0) are(0.0) not(0.0) mega-institutions(0.0) but(0.0) are(0.0) mid-sized(0.0) and(0.0) 
+smaller(0.0) .(0.0) I(0.0) know(0.0) that(0.0) the(0.0) vast(0.0) majority(1.0) of(0.0) my(0.0) colleagues(0.0) on(0.0) both(0.0) sides(0.0) of(0.0) the(0.0) aisle(0.0) share(0.0) this(0.0) concern(1.0) 
+,(0.0) and(0.0) we(0.0) have(0.0) worked(0.0) together(0.0) to(0.0) address(0.0) it(0.0) in(0.0) this(0.0) legislation(1.0) .(0.0) Last(0.0) year(0.0) ,(0.0) we(0.0) passed(0.0) regulatory(1.0) relief(1.0) 
+by(0.0) an(0.0) overwhelming(1.0) majority(1.0) in(0.0) the(0.0) House(0.0) but(0.0) it(0.0) failed(1.0) in(0.0) the(0.0) Senate(0.0) .(0.0) I(0.0) voted(1.0) for(0.0) that(0.0) bill(1.0) ,(0.0) 
+although(0.0) I(0.0) thought(0.0) it(0.0) could(0.0) use(0.0) some(0.0) improvement(0.0) ,(0.0) and(0.0) this(0.0) bill(1.0) is(0.0) improved(0.0) by(0.0) the(0.0) addition(0.0) of(0.0) several(0.0) provisions(0.0) 
+dealing(0.0) with(0.0) issues(0.0) that(0.0) are(0.0) of(0.0) special(0.0) concern(0.0) to(0.0) me(0.0) ,(0.0) such(0.0) as(0.0) the(0.0) extraordinary(0.0) burden(1.0) of(0.0) compliance(1.0) under(0.0) which(0.0) 
+our(0.0) financial(1.0) institutions(1.0) are(0.0) required(0.0) to(0.0) operate(0.0) .(0.0) Wherever(0.0) I(0.0) go(0.0) in(0.0) my(0.0) district(0.0) ,(0.0) smaller(0.0) institutions(1.0) tell(0.0) me(0.0) how(0.0) 
+hard(0.0) and(0.0) costly(1.0) it(0.0) is(0.0) to(0.0) comply(1.0) with(0.0) the(0.0) new(0.0) requirements(0.0) of(0.0) the(0.0) Bank(0.0) Secrecy(0.0) Act(0.0) ,(0.0) to(0.0) file(0.0) currency(0.0) 
+transaction(0.0) reports(0.0) ,(0.0) and(0.0) to(0.0) comply(0.0) with(0.0) the(0.0) new(0.0) requirements(0.0) of(0.0) the(0.0) PATRIOT(1.0) Act(1.0) Know(0.0) Your(0.0) Customer(0.0) requirements(0.0) .(0.0) They(0.0) 
+say(0.0) these(0.0) requirements(0.0) in(0.0) many(0.0) cases(0.0) are(0.0) redundant(0.0) and(0.0) are(0.0) excessively(0.0) burdensome(1.0) .(0.0) The(0.0) burdens(1.0) are(0.0) particularly(0.0) heavy(0.0) for(0.0) smaller(0.0) 
+institutions(1.0) .(0.0) I(0.0) worked(0.0) with(0.0) Representative(1.0) Renzi(1.0) to(1.0) develop(0.0) the(0.0) language(0.0) in(0.0) this(0.0) bill(0.0) that(0.0) eliminates(0.0) unnecessary(1.0) currency(1.0) transaction(1.0) reports(0.0) 
+so(0.0) that(0.0) banks(1.0) can(0.0) focus(0.0) on(0.0) suspicious(0.0) activity(0.0) reports(0.0) ,(0.0) or(0.0) SARS(1.0) ,(0.0) which(0.0) are(0.0) a(0.0) much(0.0) more(0.0) useful(0.0) tool(0.0) 
+,(0.0) according(0.0) to(0.0) law(1.0) enforcement(1.0) ,(0.0) to(0.0) track(0.0) money(1.0) laundering(1.0) and(0.0) terrorist(1.0) financing(1.0) .(0.0) This(0.0) measure(1.0) was(0.0) proposed(0.0) by(0.0) the(0.0) 
+Treasury(1.0) Department(0.0) and(0.0) law(1.0) enforcement(1.0) .(0.0) We(0.0) heard(0.0) from(0.0) FinCEN(1.0) ,(0.0) the(0.0) lead(0.0) agency(0.0) on(0.0) money(0.0) laundering(1.0) ,(0.0) that(0.0) the(0.0) 
+masses(1.0) of(0.0) useless(1.0) CTRs(0.0) being(0.0) filed(0.0) impeded(0.0) law(1.0) enforcement(1.0) and(0.0) were(0.0) often(0.0) not(0.0) even(0.0) looked(0.0) at(0.0) .(0.0) And(0.0) the(0.0) General(0.0) 
+Accounting(0.0) Office(0.0) ,(0.0) the(0.0) independent(0.0) body(0.0) that(0.0) reviews(0.0) government(0.0) activities(0.0) ,(0.0) confirmed(0.0) that(0.0) in(0.0) a(0.0) report(0.0) last(0.0) year(0.0) also(0.0) supporting(0.0) 
+streamlining(1.0) the(0.0) process(0.0) .(0.0) The(0.0) banking(1.0) regulators(1.0) also(0.0) expressed(0.0) strong(0.0) support(0.0) for(0.0) this(0.0) proposal(1.0) .(0.0) OCC(0.0) and(0.0) OTS(0.0) both(0.0) agreed(0.0) 
+with(0.0) FinCEN(1.0) that(0.0) the(0.0) CTR(0.0) filing(0.0) process(0.0) had(0.0) become(0.0) counterproductive(1.0) in(0.0) terms(1.0) of(0.0) national(1.0) security(0.0) .(0.0) This(0.0) bill(1.0) also(0.0) includes(0.0) 
+other(0.0) provisions(0.0) relieving(0.0) the(0.0) unnecessary(1.0) burden(1.0) on(0.0) community(0.0) banks(1.0) ,(0.0) including(0.0) increased(0.0) commercial(1.0) and(0.0) small(0.0) business(0.0) lending(1.0) authority(0.0) for(0.0) Federal(1.0) 
+savings(1.0) associations(0.0) ,(0.0) regulation(1.0) of(0.0) thrift(1.0) trust(0.0) activities(0.0) in(0.0) a(0.0) manner(0.0) comparable(0.0) to(0.0) bank(0.0) trust(0.0) activities(0.0) ,(0.0) and(0.0) an(0.0) 
+
+
+----- below are rationale words -----
+
+bill	
+
+bill	
+bipartisan	legislation	
+New	York	City	financial	burdens	
+regulation	requirements	impose	financial	institutions	
+majority	concern	
+legislation	regulatory	relief	
+overwhelming	majority	failed	voted	bill	
+bill	
+burden	compliance	
+financial	institutions	institutions	
+costly	comply	
+PATRIOT	Act	
+burdensome	burdens	
+institutions	Representative	Renzi	to	unnecessary	currency	transaction	
+banks	SARS	
+law	enforcement	money	laundering	terrorist	financing	measure	
+Treasury	law	enforcement	FinCEN	laundering	
+masses	useless	law	enforcement	
+
+streamlining	banking	regulators	proposal	
+FinCEN	counterproductive	terms	national	bill	
+unnecessary	burden	banks	commercial	lending	Federal	
+savings	regulation	thrift	
+
+reads % = 0.158

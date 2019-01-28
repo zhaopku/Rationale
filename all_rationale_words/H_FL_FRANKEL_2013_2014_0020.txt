@@ -1,0 +1,20 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) tonight(0.0) 's(0.0) Special(0.0) Order(0.0) is(0.0) meant(0.0) to(0.0) honor(0.0) Israel(0.0) 's(0.0) 66th(0.0) Independence(0.0) Day(0.0) .(0.0) Last(0.0) year(0.0) ,(0.0) I(0.0) also(0.0) 
+had(0.0) the(0.0) honor(0.0) of(0.0) leading(0.0) a(0.0) similar(0.0) Special(0.0) Order(0.0) .(0.0) Much(0.0) is(0.0) made(0.0) about(0.0) the(0.0) contention(1.0) in(0.0) the(0.0) United(0.0) States(0.0) 
+Congress(0.0) .(0.0) Therefore(0.0) ,(0.0) it(0.0) pleases(0.0) me(0.0) to(0.0) say(0.0) that(0.0) the(0.0) security(0.0) of(0.0) Israel(0.0) remains(0.0) bipartisan(1.0) in(0.0) every(0.0) aspect(0.0) .(0.0) 
+I(0.0) have(0.0) a(0.0) number(0.0) of(0.0) Members(0.0) with(0.0) us(0.0) tonight(0.0) who(0.0) I(0.0) will(0.0) yield(0.0) my(0.0) time(0.0) to(0.0) to(0.0) celebrate(0.0) this(0.0) wonderful(0.0) 
+occasion(0.0) .(0.0) First(0.0) ,(0.0) I(0.0) yield(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Rhode(1.0) Island(0.0) ((0.0) Mr.(0.0) Cicilline(1.0) )(0.0) ,(0.0) my(0.0) colleague(0.0) ,(0.0) 
+a(0.0) distinguished(0.0) member(0.0) of(0.0) the(0.0) Foreign(0.0) Affairs(0.0) Committee(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+contention	
+bipartisan	
+
+Rhode	Cicilline	
+
+
+reads % = 0.03636363636363636

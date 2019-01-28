@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+Our(0.0) friends(0.0) on(0.0) the(0.0) other(0.0) side(0.0) who(0.0) say(0.0) we(0.0) are(0.0) always(0.0) being(0.0) negative(0.0) .(0.0) Figure(0.0) out(0.0) ,(0.0) if(0.0) they(0.0) can(0.0) explain(0.0) 
+to(0.0) us(0.0) a(0.0) positive(0.0) way(0.0) of(0.0) saying(0.0) that(0.0) this(0.0) country(1.0) is(0.0) being(0.0) sold(0.0) off(0.0) to(0.0) other(0.0) countries(0.0) piece(0.0) by(0.0) piece(0.0) 
+.(0.0) If(0.0) they(0.0) can(0.0) find(0.0) a(0.0) positive(0.0) way(0.0) of(0.0) explaining(0.0) that(0.0) ,(0.0) we(0.0) are(0.0) open(0.0) to(0.0) it(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+country	
+
+
+reads % = 0.01694915254237288

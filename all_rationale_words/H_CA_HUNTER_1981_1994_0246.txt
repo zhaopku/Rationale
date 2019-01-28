@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) have(0.0) made(0.0) a(0.0) unanimous-consent(0.0) request(0.0) that(0.0) I(0.0) might(0.0) be(0.0) given(0.0) 5(0.0) minutes(0.0) out(0.0) of(0.0) order(0.0) and(0.0) be(0.0) allowed(0.0) 
+to(0.0) yield(0.0) that(0.0) time(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) [(0.0) Mr.(0.0) Dornan(1.0) ](0.0) .(0.0) Mr.(0.0) SPEAKER(1.0) pro(0.0) tempore(0.0) .(0.0) Is(0.0) 
+there(0.0) objection(0.0) to(0.0) the(0.0) request(0.0) of(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) ?(0.0) There(0.0) was(0.0) no(0.0) objection(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Dornan	SPEAKER	
+
+
+reads % = 0.03508771929824561

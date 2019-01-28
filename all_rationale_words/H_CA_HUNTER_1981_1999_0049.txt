@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) ask(0.0) the(0.0) esteemed(0.0) ranking(0.0) member(0.0) and(0.0) anybody(0.0) else(0.0) who(0.0) wants(0.0) to(0.0) speak(0.0) on(0.0) this(0.0) ,(0.0) we(0.0) 
+have(0.0) heard(0.0) a(0.0) number(0.0) of(0.0) statements(0.0) about(0.0) how(0.0) much(0.0) you(0.0) love(0.0) the(0.0) troops(1.0) .(0.0) I(0.0) do(0.0) not(0.0) have(0.0) any(0.0) influence(0.0) 
+with(0.0) the(0.0) President(1.0) .(0.0) The(0.0) President(1.0) is(0.0) sending(0.0) budgets(1.0) down(0.0) that(0.0) do(0.0) not(0.0) pay(1.0) for(0.0) ammunition(1.0) ,(0.0) do(0.0) not(0.0) give(0.0) 
+adequate(1.0) pay(1.0) to(0.0) our(0.0) troops(1.0) ,(0.0) keep(0.0) them(0.0) on(0.0) food(1.0) stamps(0.0) ,(0.0) do(0.0) not(0.0) give(0.0) them(0.0) spare(0.0) parts(0.0) and(0.0) do(0.0) 
+not(0.0) give(0.0) them(0.0) planes(0.0) new(0.0) enough(0.0) to(0.0) avoid(0.0) a(0.0) 55(0.0) crash(0.0) a(0.0) year(0.0) crash(0.0) rate(0.0) .(0.0) We(0.0) all(0.0) know(0.0) what(0.0) 
+we(0.0) are(0.0) trying(0.0) to(0.0) do(0.0) .(0.0) We(0.0) are(0.0) trying(0.0) to(0.0) keep(0.0) our(0.0) money(1.0) in(0.0) the(0.0) ammunition(1.0) coffers(1.0) so(0.0) we(0.0) do(0.0) 
+not(0.0) spend(1.0) that(0.0) on(0.0) other(0.0) things(0.0) and(0.0) have(0.0) empty(0.0) ammunition(1.0) coffers(1.0) when(0.0) the(0.0) next(0.0) war(1.0) comes(0.0) around(0.0) .(0.0) I(0.0) want(0.0) 
+to(0.0) ask(0.0) the(0.0) gentleman(0.0) ,(0.0) will(0.0) the(0.0) gentleman(0.0) work(0.0) to(0.0) get(0.0) the(0.0) $(0.0) 13(0.0) billion(1.0) ammunition(1.0) shortage(1.0) plussed(1.0) up(0.0) to(0.0) 
+where(0.0) it(0.0) is(0.0) at(0.0) parity(1.0) with(0.0) what(0.0) we(0.0) need(0.0) to(0.0) fight(1.0) the(0.0) two(0.0) wars(1.0) ?(0.0) Will(0.0) the(0.0) gentleman(0.0) make(0.0) a(0.0) 
+pitch(0.0) to(0.0) the(0.0) President(1.0) to(0.0) do(0.0) that(0.0) ?(0.0) Chairman(0.0) ,(0.0) I(0.0) will(0.0) work(0.0) with(0.0) the(0.0) gentleman(0.0) over(0.0) the(0.0) next(0.0) couple(0.0) 
+of(0.0) weeks(0.0) ,(0.0) and(0.0) I(0.0) hope(0.0) all(0.0) the(0.0) other(0.0) leaders(0.0) and(0.0) Members(0.0) who(0.0) have(0.0) spoken(0.0) on(0.0) the(0.0) Democrat(1.0) side(0.0) will(0.0) 
+use(0.0) their(0.0) influence(0.0) to(0.0) get(0.0) this(0.0) funding(1.0) executed(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+troops	
+President	President	budgets	pay	ammunition	
+adequate	pay	troops	food	
+
+money	ammunition	coffers	
+spend	ammunition	coffers	war	
+billion	ammunition	shortage	plussed	
+parity	fight	wars	
+President	
+Democrat	
+funding	
+
+reads % = 0.11739130434782609

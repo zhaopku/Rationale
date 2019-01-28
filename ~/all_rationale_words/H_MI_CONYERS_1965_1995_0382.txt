@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+Then(0.0) I(0.0) take(0.0) it(0.0) that(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) agrees(1.0) with(0.0) me(0.0) that(0.0) a(0.0) working(0.0) person(0.0) bringing(1.0) a(0.0) suit(1.0) where(0.0) he(0.0) 
+thought(0.0) he(0.0) had(1.0) a(0.0) 70-percent(1.0) chance(0.0) of(0.0) recovery(1.0) would(0.0) be(0.0) under(0.0) the(0.0) gun(0.0) if(0.0) he(0.0) had(0.0) to(0.0) go(0.0) into(0.0) court(0.0) 
+with(0.0) the(0.0) assumption(1.0) that(0.0) if(0.0) he(0.0) did(0.0) not(1.0) win(0.0) ,(0.0) and(0.0) he(0.0) thinks(0.0) he(0.0) only(0.0) has(0.0) a(0.0) partial(0.0) chance(0.0) of(0.0) 
+winning(0.0) ,(0.0) that(0.0) he(0.0) would(1.0) be(0.0) stuck(1.0) with(0.0) attorney(1.0) fees(1.0) .(0.0) Are(1.0) you(0.0) telling(0.0) me(0.0) that(0.0) this(0.0) bill(0.0) would(0.0) exonerate(1.0) 
+him(0.0) from(0.0) having(1.0) to(0.0) pay(0.0) the(0.0) defendant(1.0) 's(0.0) fees(1.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+agrees	bringing	suit	
+had	70-percent	recovery	
+assumption	not	
+would	stuck	attorney	fees	Are	exonerate	
+having	defendant	fees	
+
+reads % = 0.18681318681318682

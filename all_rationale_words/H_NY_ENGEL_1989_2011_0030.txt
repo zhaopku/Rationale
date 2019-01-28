@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) rise(0.0) today(0.0) in(0.0) continued(0.0) opposition(1.0) to(0.0) the(0.0) Airport(0.0) and(0.0) Airway(0.0) Extension(0.0) Act(0.0) of(0.0) 2011(0.0) ,(0.0) H.R(0.0) .(0.0) 2553(0.0) .(0.0) I(0.0) 
+will(0.0) continue(0.0) to(0.0) oppose(1.0) the(0.0) FAA(1.0) reauthorization(1.0) until(0.0) the(0.0) FAA(1.0) rethinks(1.0) their(0.0) ill-advised(1.0) redesign(1.0) for(0.0) the(0.0) airspace(1.0) around(0.0) New(1.0) York(1.0) 
+,(0.0) New(1.0) Jersey(1.0) ,(0.0) and(0.0) Philadelphia(1.0) .(0.0) I(0.0) have(0.0) opposed(0.0) this(0.0) airspace(1.0) redesign(0.0) from(0.0) day(0.0) one(0.0) ,(0.0) along(0.0) with(0.0) some(0.0) 
+of(0.0) my(0.0) Republican(1.0) colleagues(1.0) in(1.0) New(1.0) Jersey(1.0) as(1.0) well(1.0) ,(1.0) and(1.0) have(1.0) thwarted(1.0) its(1.0) implementation(1.0) every(1.0) step(1.0) of(1.0) the(1.0) way(0.0) 
+.(0.0) Time(1.0) and(0.0) time(0.0) again(0.0) ,(0.0) the(0.0) FAA(1.0) has(0.0) pursued(0.0) the(0.0) airspace(1.0) redesign(0.0) while(0.0) ignoring(0.0) the(0.0) concerns(1.0) of(0.0) my(0.0) constituents(1.0) 
+in(0.0) Rockland(1.0) County(1.0) ,(0.0) New(1.0) York(1.0) .(0.0) The(0.0) FAA(0.0) created(0.0) their(0.0) proposal(1.0) with(0.0) zero(0.0) input(0.0) from(0.0) the(0.0) very(0.0) people(0.0) whose(0.0) 
+lives(0.0) would(0.0) be(0.0) most(0.0) harmed(1.0) by(0.0) the(0.0) proposal(1.0) .(0.0) In(0.0) fact(0.0) ,(0.0) even(0.0) when(0.0) we(0.0) brought(0.0) this(0.0) up(0.0) to(0.0) the(0.0) 
+FAA(1.0) ,(0.0) they(0.0) had(0.0) to(0.0) be(0.0) dragged(0.0) kicking(0.0) and(0.0) screaming(0.0) into(0.0) holding(0.0) a(0.0) public(0.0) forum(0.0) in(0.0) Rockland(1.0) County(1.0) .(0.0) This(0.0) 
+plan(1.0) ,(0.0) which(0.0) will(0.0) only(0.0) save(0.0) minutes(0.0) on(0.0) flight(0.0) time(0.0) ,(0.0) will(0.0) disrupt(1.0) the(0.0) lives(0.0) of(0.0) thousands(1.0) of(0.0) residents(1.0) in(0.0) 
+my(0.0) district(0.0) in(0.0) Rockland(1.0) County(1.0) in(0.0) New(1.0) York(1.0) and(0.0) in(0.0) northern(0.0) New(0.0) Jersey(1.0) who(0.0) live(0.0) under(0.0) the(0.0) new(0.0) flight(0.0) plans(0.0) 
+.(0.0) As(0.0) my(0.0) constituents(1.0) have(0.0) noted(0.0) to(0.0) me(0.0) ,(0.0) the(0.0) noise(0.0) and(0.0) air(0.0) pollution(1.0) in(0.0) the(0.0) area(0.0) will(0.0) increase(1.0) .(0.0) 
+It(0.0) is(0.0) unknown(0.0) how(0.0) this(0.0) increase(1.0) in(0.0) air(1.0) pollution(1.0) will(0.0) affect(1.0) the(0.0) disproportionate(1.0) rate(1.0) of(0.0) childhood(1.0) asthma(1.0) in(0.0) my(0.0) district(0.0) 
+.(0.0) The(0.0) modernization(1.0) of(0.0) our(0.0) aviation(1.0) system(0.0) is(0.0) necessary(0.0) to(0.0) bring(0.0) it(0.0) into(0.0) the(0.0) 21st(0.0) century(0.0) ,(0.0) to(0.0) keep(0.0) pace(0.0) 
+with(0.0) the(0.0) increased(0.0) number(0.0) of(0.0) flights(0.0) ,(0.0) and(0.0) to(0.0) also(0.0) maintain(0.0) our(0.0) technological(1.0) advancements(1.0) by(0.0) implementing(1.0) new(0.0) equipment(0.0) to(0.0) keep(0.0) 
+our(0.0) system(0.0) the(0.0) safest(1.0) in(0.0) the(0.0) world(0.0) .(0.0) However(0.0) ,(0.0) there(0.0) are(0.0) several(0.0) alternatives(1.0) to(0.0) this(0.0) plan(1.0) ,(0.0) and(0.0) I(0.0) 
+encourage(0.0) my(0.0) colleagues(0.0) to(0.0) join(0.0) me(0.0) in(0.0) opposition(1.0) to(0.0) this(0.0) reauthorization(1.0) .(0.0) Not(0.0) only(0.0) are(0.0) we(0.0) going(0.0) to(0.0) have(0.0) planes(1.0) 
+going(0.0) into(0.0) Newark(1.0) Airport(0.0) fly(0.0) directly(0.0) over(0.0) my(0.0) constituents(1.0) ,(0.0) but(0.0) now(0.0) there(0.0) are(0.0) other(0.0) paths(0.0) of(0.0) planes(0.0) coming(0.0) in(0.0) 
+from(0.0) JFK(1.0) airport(0.0) as(0.0) well(0.0) .(0.0) This(0.0) is(0.0) government(1.0) at(0.0) its(0.0) worst(0.0) running(0.0) roughshod(1.0) over(0.0) the(0.0) people(0.0) that(0.0) it(0.0) 's(0.0) 
+supposed(0.0) to(0.0) serve(0.0) ,(0.0) not(0.0) taking(0.0) any(0.0) kind(0.0) of(0.0) input(0.0) .(0.0) In(0.0) fact(0.0) ,(0.0) they(0.0) come(0.0) up(0.0) with(0.0) a(0.0) redesign(0.0) 
+plan(1.0) .(0.0) And(0.0) then(0.0) when(0.0) it(0.0) 's(0.0) challenged(1.0) ,(0.0) the(0.0) person(0.0) who(0.0) decides(0.0) the(0.0) challenge(0.0) was(0.0) the(0.0) very(0.0) author(0.0) of(0.0) 
+the(0.0) redesign(0.0) plan(1.0) to(0.0) begin(0.0) with(0.0) .(0.0) Sounds(0.0) like(0.0) a(0.0) kangaroo(0.0) court(0.0) to(0.0) me(0.0) .(0.0) So(0.0) I(0.0) am(0.0) going(0.0) to(0.0) 
+continue(0.0) to(0.0) oppose(1.0) these(0.0) things(0.0) .(0.0) I(0.0) think(0.0) at(0.0) a(0.0) time(0.0) when(0.0) we(0.0) 're(0.0) all(0.0) talking(0.0) about(0.0) government(1.0) spending(1.0) less(0.0) 
+and(0.0) being(0.0) more(0.0) sensitive(0.0) ,(0.0) this(0.0) is(0.0) a(0.0) good(0.0) place(0.0) to(0.0) start(0.0) .(0.0) And(0.0) I(0.0) will(0.0) continue(0.0) to(0.0) oppose(1.0) the(0.0) 
+FAA(1.0) reauthorization(1.0) until(0.0) the(0.0) FAA(1.0) halts(1.0) and(0.0) revises(0.0) their(0.0) deeply(0.0) flawed(1.0) airspace(1.0) redesign(0.0) plan(1.0) for(0.0) New(1.0) York(1.0) ,(0.0) New(1.0) Jersey(1.0) 
+,(0.0) and(0.0) Philadelphia(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+opposition	
+oppose	FAA	reauthorization	FAA	rethinks	ill-advised	redesign	airspace	New	York	
+New	Jersey	Philadelphia	airspace	
+Republican	colleagues	in	New	Jersey	as	well	,	and	have	thwarted	its	implementation	every	step	of	the	
+Time	FAA	airspace	concerns	constituents	
+Rockland	County	New	York	proposal	
+harmed	proposal	
+FAA	Rockland	County	
+plan	disrupt	thousands	residents	
+Rockland	County	New	York	Jersey	
+constituents	pollution	increase	
+increase	air	pollution	affect	disproportionate	rate	childhood	asthma	
+modernization	aviation	
+technological	advancements	implementing	
+safest	alternatives	plan	
+opposition	reauthorization	planes	
+Newark	constituents	
+JFK	government	roughshod	
+
+plan	challenged	
+plan	
+oppose	government	spending	
+oppose	
+FAA	reauthorization	FAA	halts	flawed	airspace	plan	New	York	New	Jersey	
+Philadelphia	
+
+reads % = 0.21030927835051547

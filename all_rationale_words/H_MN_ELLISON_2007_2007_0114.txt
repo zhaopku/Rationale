@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) today(1.0) I(0.0) rise(1.0) to(0.0) pay(1.0) tribute(1.0) to(0.0) the(0.0) life(0.0) of(0.0) Vernon(1.0) Bellecourt(1.0) of(0.0) Minnesota(0.0) ,(0.0) a(0.0) selfless(1.0) servant(1.0) who(0.0) 
+committed(1.0) his(0.0) life(0.0) not(1.0) just(0.0) to(0.0) fight(0.0) for(0.0) American(0.0) Indians(0.0) but(0.0) for(0.0) the(0.0) rights(0.0) of(0.0) all(0.0) people(0.0) .(0.0) Last(0.0) night(0.0) 
+I(0.0) was(0.0) at(0.0) a(0.0) funeral(1.0) service(0.0) for(0.0) Mr.(0.0) Bellecourt(1.0) ,(0.0) and(0.0) while(0.0) I(0.0) regret(1.0) to(0.0) report(1.0) the(0.0) recent(1.0) passing(0.0) of(0.0) 
+Mr.(0.0) Bellecourt(1.0) at(0.0) age(1.0) 75(0.0) ,(0.0) I(0.0) am(1.0) grateful(1.0) for(0.0) his(0.0) spirit(0.0) of(0.0) equality(1.0) and(0.0) inclusiveness(1.0) which(0.0) will(0.0) continue(0.0) to(0.0) 
+live(0.0) on(0.0) in(0.0) the(0.0) Twin(1.0) Cities(1.0) of(0.0) Minnesota(0.0) and(0.0) around(0.0) the(0.0) world(0.0) .(0.0) Mr.(0.0) Bellecourt(1.0) ,(0.0) a(0.0) member(0.0) of(0.0) the(0.0) 
+Ojibwe(1.0) Band(0.0) of(0.0) the(0.0) Minnesota(0.0) Chippewa(1.0) Tribe(1.0) ,(0.0) came(0.0) to(0.0) St.(1.0) Paul(1.0) from(0.0) Minnesota(0.0) 's(0.0) White(0.0) Earth(1.0) Indian(1.0) Reservation(1.0) .(0.0) 
+As(0.0) a(0.0) skilled(0.0) communicator(0.0) and(0.0) a(0.0) natural(1.0) leader(1.0) ,(0.0) Vernon(1.0) championed(1.0) the(0.0) power(1.0) of(0.0) community(1.0) .(0.0) He(0.0) practiced(1.0) what(0.0) he(0.0) 
+preached(0.0) ,(0.0) solidifying(1.0) his(0.0) commitment(0.0) to(0.0) community(0.0) by(0.0) operating(0.0) several(0.0) small(1.0) businesses(1.0) .(0.0) And(0.0) while(0.0) Vernon(1.0) was(0.0) a(0.0) businessman(1.0) ,(0.0) 
+his(0.0) greatest(0.0) contribution(1.0) was(0.0) as(0.0) a(0.0) human(0.0) rights(0.0) leader(1.0) around(0.0) the(0.0) world(0.0) and(0.0) in(0.0) Minnesota(0.0) .(0.0) Let(1.0) me(0.0) read(1.0) a(0.0) 
+little(0.0) bit(1.0) from(0.0) the(1.0) Washington(1.0) Post(0.0) obituary(1.0) that(0.0) appeared(0.0) today(1.0) in(0.0) the(0.0) paper(0.0) :(1.0) ``(0.0) Vernon(1.0) Bellecourt(1.0) ,(0.0) who(0.0) fought(0.0) 
+to(0.0) restore(0.0) land(0.0) and(0.0) dignity(1.0) to(0.0) Native(1.0) Americans(0.0) and(0.0) against(0.0) the(0.0) use(1.0) of(0.0) Indian(1.0) nicknames(1.0) for(0.0) sports(0.0) teams(0.0) as(0.0) a(0.0) 
+longtime(1.0) leader(1.0) of(0.0) the(0.0) American(0.0) Indian(1.0) Movement(1.0) ((0.0) AIM(0.0) )(0.0) died(0.0) October(0.0) 13(1.0) of(0.0) complications(1.0) of(0.0) pneumonia(0.0) at(0.0) a(0.0) Minneapolis(1.0) 
+hospital(1.0) .(0.0) ``(1.0) Since(0.0) leaving(1.0) behind(0.0) careers(0.0) as(0.0) a(0.0) hair(0.0) stylist(1.0) and(0.0) real(0.0) estate(1.0) agent(0.0) and(0.0) joining(0.0) his(0.0) brother(0.0) ''(0.0) 
+Clyde(0.0) Bellecourt(1.0) ``(0.0) at(0.0) AIM(0.0) in(0.0) the(0.0) 1970s(0.0) ,(0.0) Mr.(0.0) Bellecourt(1.0) had(0.0) been(0.0) in(0.0) the(0.0) forefront(1.0) of(0.0) the(0.0) movement(0.0) to(0.0) 
+ensure(0.0) that(0.0) treaty(0.0) rights(0.0) of(0.0) Native(1.0) American(0.0) tribes(1.0) and(0.0) the(0.0) U.S.(0.0) Government(0.0) would(1.0) be(0.0) fulfilled(0.0) .(0.0) He(0.0) was(0.0) president(1.0) of(0.0) 
+the(0.0) National(0.0) Coalition(1.0) of(0.0) Racism(1.0) in(0.0) Sports(1.0) and(0.0) the(0.0) Media(0.0) and(0.0) a(0.0) principal(1.0) spokesman(1.0) for(0.0) AIM(0.0) .(0.0) ``(1.0) He(0.0) was(0.0) 
+involved(0.0) in(0.0) numerous(0.0) demonstrations(1.0) to(0.0) bring(0.0) attention(0.0) to(0.0) his(0.0) causes(0.0) ,(0.0) including(1.0) the(0.0) 1972(0.0) occupation(1.0) of(0.0) the(0.0) Bureau(1.0) of(0.0) Indian(1.0) 
+Affairs(0.0) in(0.0) Washington(1.0) and(0.0) the(0.0) 1992(0.0) Super(0.0) Bowl(0.0) rally(0.0) to(0.0) protest(0.0) the(0.0) name(1.0) of(0.0) Washington(1.0) 's(0.0) football(0.0) team(0.0) .(0.0) He(0.0) 
+also(1.0) spoke(0.0) at(0.0) colleges(1.0) and(0.0) universities(1.0) around(0.0) the(0.0) world(0.0) about(0.0) more(0.0) than(0.0) 400(0.0) treaties(1.0) that(0.0) the(0.0) group(0.0) believed(0.0) the(0.0) U.S.(0.0) 
+was(0.0) not(1.0) honoring(0.0) .(0.0) ``(1.0) Clyde(0.0) Bellecourt(1.0) ,(0.0) a(0.0) founding(1.0) member(0.0) of(0.0) AIM(0.0) ,(0.0) said(1.0) yesterday(0.0) that(0.0) his(0.0) brother(0.0) had(0.0) 
+been(0.0) in(0.0) Venezuela(1.0) about(0.0) 4(0.0) weeks(1.0) ago(1.0) ''(0.0) to(0.0) talk(0.0) about(0.0) ``(0.0) providing(0.0) heating(1.0) assistance(0.0) to(0.0) American(0.0) tribes(1.0) .(0.0) ''(0.0) 
+Mr.(0.0) Speaker(1.0) ,(0.0) let(0.0) me(0.0) wrap(1.0) up(0.0) and(0.0) say(1.0) that(0.0) Vernon(1.0) Bellecourt(1.0) brought(0.0) an(0.0) issue(0.0) to(0.0) the(0.0) attention(0.0) of(0.0) the(0.0) 
+American(0.0) people(0.0) that(0.0) most(1.0) of(0.0) us(0.0) walk(0.0) past(0.0) very(0.0) quickly(0.0) .(0.0) Most(0.0) of(0.0) us(0.0) would(0.0) look(1.0) at(0.0) Native(1.0) American(0.0) sports(0.0) 
+team(0.0) mascots(1.0) and(0.0) think(0.0) no(0.0) big(1.0) deal(1.0) .(0.0) But(0.0) just(1.0) imagine(1.0) ,(0.0) if(0.0) you(0.0) would(1.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) teams(1.0) 
+called(0.0) the(0.0) Chicago(1.0) Negroes(1.0) or(1.0) the(1.0) Washington(1.0) Caucasians(1.0) .(0.0) None(0.0) of(0.0) us(0.0) would(0.0) appreciate(1.0) that(0.0) kind(1.0) of(0.0) depiction(1.0) of(0.0) 
+
+
+----- below are rationale words -----
+
+today	rise	pay	tribute	Vernon	Bellecourt	selfless	servant	
+committed	not	
+funeral	Bellecourt	regret	report	recent	
+Bellecourt	age	am	grateful	equality	inclusiveness	
+Twin	Cities	Bellecourt	
+Ojibwe	Chippewa	Tribe	St.	Paul	Earth	Indian	Reservation	
+natural	leader	Vernon	championed	power	community	practiced	
+solidifying	small	businesses	Vernon	businessman	
+contribution	leader	Let	read	
+bit	the	Washington	obituary	today	:	Vernon	Bellecourt	
+dignity	Native	use	Indian	nicknames	
+longtime	leader	Indian	Movement	13	complications	Minneapolis	
+hospital	``	leaving	stylist	estate	
+Bellecourt	Bellecourt	forefront	
+Native	tribes	would	president	
+Coalition	Racism	Sports	principal	spokesman	``	
+demonstrations	including	occupation	Bureau	Indian	
+Washington	name	Washington	
+also	colleges	universities	treaties	
+not	``	Bellecourt	founding	said	
+Venezuela	weeks	ago	heating	tribes	
+Speaker	wrap	say	Vernon	Bellecourt	
+most	look	Native	
+mascots	big	deal	just	imagine	would	Speaker	teams	
+Chicago	Negroes	or	the	Washington	Caucasians	appreciate	kind	depiction	
+
+reads % = 0.266

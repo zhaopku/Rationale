@@ -1,0 +1,16 @@
+This is from a Republican
+----- below is the original text -----
+The(0.0) SPEAKER(0.0) pro(0.0) tempore(0.0) ((1.0) Mrs.(0.0) Biggert(1.0) )(0.0) .(0.0) The(0.0) question(0.0) is(0.0) on(0.0) the(0.0) motion(0.0) offered(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) 
+((0.0) Mr.(0.0) Calvert(1.0) )(0.0) that(1.0) the(0.0) House(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) agree(0.0) to(0.0) the(0.0) resolution(0.0) ,(0.0) House(0.0) Resolution(1.0) 630(0.0) .(0.0) 
+The(0.0) question(0.0) was(0.0) taken(0.0) ;(0.0) and(0.0) ((0.0) two-thirds(0.0) having(0.0) voted(0.0) in(0.0) favor(0.0) thereof(0.0) )(0.0) the(0.0) rules(0.0) were(0.0) suspended(0.0) and(0.0) the(0.0) 
+resolution(0.0) was(0.0) agreed(0.0) to(0.0) .(0.0) A(0.0) motion(0.0) to(0.0) reconsider(0.0) was(0.0) laid(0.0) on(0.0) the(0.0) table(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+(	Biggert	
+Calvert	that	Resolution	
+
+
+
+reads % = 0.06578947368421052

@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+President(1.0) Bush(1.0) initially(1.0) wanted(0.0) the(0.0) authority(0.0) in(0.0) the(0.0) October(0.0) 16(0.0) ,(0.0) 2002(0.0) Act(0.0) of(0.0) War(0.0) to(0.0) use(0.0) force(0.0) to(0.0) restore(0.0) peace(0.0) 
+and(0.0) security(0.0) in(0.0) the(0.0) region(0.0) ,(0.0) not(1.0) just(1.0) Iraq(1.0) .(0.0) We(0.0) rejected(1.0) that(0.0) .(0.0) The(0.0) Congress(0.0) of(0.0) the(0.0) United(0.0) States(0.0) 
+,(0.0) Mr.(1.0) Speaker(1.0) ,(0.0) rejected(1.0) that(0.0) and(0.0) said(0.0) no(0.0) .(0.0) The(0.0) exercise(0.0) of(0.0) the(0.0) authority(1.0) granted(0.0) in(0.0) the(0.0) resolution(0.0) ,(0.0) 
+read(1.0) the(0.0) resolution(0.0) ,(0.0) is(0.0) conditioned(0.0) on(0.0) the(0.0) President(1.0) certifying(0.0) that(0.0) war(1.0) in(0.0) Iraq(1.0) would(1.0) not(0.0) harm(0.0) the(0.0) war(1.0) on(0.0) 
+terrorism(1.0) .(0.0) We(0.0) will(0.0) make(0.0) a(0.0) point(0.0) of(0.0) that(0.0) over(0.0) the(0.0) next(0.0) 3(0.0) days(0.0) .(0.0) Iran(1.0) has(0.0) an(0.0) oppressive(1.0) economy(1.0) 
+.(0.0) We(0.0) must(0.0) understand(0.0) Iranian(1.0) culture(1.0) in(0.0) order(0.0) not(0.0) to(0.0) make(0.0) the(0.0) same(1.0) mistakes(1.0) we(0.0) made(0.0) in(0.0) Iraq(1.0) .(0.0) Ethnically(1.0) 
+,(0.0) Iranians(1.0) are(0.0) of(0.0) Indo-European(0.0) descent(0.0) and(0.0) have(0.0) no(0.0) kinship(1.0) to(0.0) their(0.0) neighbors(0.0) in(0.0) the(0.0) Middle(1.0) East(0.0) .(0.0) Their(1.0) language(0.0) 
+is(0.0) Indo-European(0.0) ,(0.0) with(0.0) grammar(1.0) and(0.0) structure(0.0) similar(0.0) to(0.0) classical(1.0) Latin(1.0) .(0.0) They(0.0) do(0.0) not(1.0) identify(0.0) with(0.0) Arabs(1.0) .(0.0) We(0.0) 
+do(0.0) not(1.0) understand(0.0) the(0.0) Middle(1.0) East(0.0) .(0.0) We(0.0) made(0.0) that(0.0) mistake(1.0) once(1.0) ,(0.0) we(0.0) should(0.0) not(0.0) make(0.0) that(0.0) mistake(1.0) again(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+Bush	initially	
+not	just	Iraq	rejected	
+Mr.	Speaker	rejected	authority	
+read	President	war	Iraq	would	war	
+terrorism	Iran	oppressive	economy	
+Iranian	culture	same	mistakes	Iraq	Ethnically	
+Iranians	kinship	Middle	Their	
+grammar	classical	Latin	not	Arabs	
+not	Middle	mistake	once	mistake	
+
+
+reads % = 0.21978021978021978

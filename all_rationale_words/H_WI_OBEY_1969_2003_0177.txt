@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Because(0.0) what(0.0) I(0.0) think(0.0) the(0.0) Chair(0.0) just(0.0) said(0.0) is(0.0) that(0.0) the(0.0) Committee(0.0) on(0.0) Rules(0.0) ,(0.0) in(0.0) contrast(0.0) to(0.0) the(0.0) way(0.0) it(0.0) 
+handled(0.0) majority(1.0) provisions(1.0) ,(0.0) that(0.0) the(0.0) Committee(0.0) on(0.0) Rules(0.0) did(0.0) not(0.0) make(0.0) in(0.0) order(0.0) a(0.0) waiver(1.0) for(0.0) our(0.0) side(0.0) of(0.0) 
+the(0.0) aisle(0.0) .(0.0) But(0.0) let(0.0) me(0.0) ask(0.0) the(0.0) Chair(0.0) as(0.0) a(0.0) parliamentary(0.0) inquiry(0.0) ,(0.0) is(0.0) it(0.0) not(0.0) correct(0.0) that(0.0) on(0.0) 
+the(0.0) omnibus(1.0) appropriations(1.0) bill(1.0) just(0.0) a(0.0) few(0.0) months(0.0) ago(0.0) that(0.0) we(0.0) amended(1.0) the(0.0) Medicare(1.0) Act(1.0) not(0.0) once(0.0) ,(0.0) but(0.0) in(0.0) 
+two(0.0) separate(0.0) areas(0.0) ,(0.0) to(0.0) provide(0.0) a(0.0) 6(0.0) percent(0.0) increase(1.0) in(0.0) funding(1.0) for(0.0) providers(1.0) under(0.0) the(0.0) Medicare(1.0) Act(1.0) ,(0.0) even(0.0) 
+though(0.0) that(0.0) was(0.0) considered(0.0) invading(0.0) another(0.0) committee(0.0) 's(0.0) jurisdiction(1.0) ?(0.0) Is(0.0) it(0.0) also(0.0) not(0.0) true(0.0) that(0.0) on(0.0) that(0.0) omnibus(1.0) legislation(1.0) 
+the(0.0) committee(0.0) was(0.0) allowed(0.0) to(0.0) increase(1.0) payments(1.0) under(0.0) division(0.0) N(0.0) ,(0.0) section(0.0) 401(0.0) ((0.0) b(0.0) )(0.0) of(0.0) the(0.0) Medicare(0.0) Act(0.0) 
+for(0.0) rural(1.0) hospitals(0.0) ?(0.0) Is(0.0) it(0.0) not(0.0) true(0.0) that(0.0) we(0.0) waived(1.0) the(0.0) rules(1.0) to(0.0) allow(0.0) the(0.0) U.S.(0.0) Customs(0.0) Service(0.0) to(0.0) 
+conduct(0.0) vehicle(0.0) inspections(0.0) on(0.0) the(0.0) Canadian(0.0) side(0.0) of(0.0) the(0.0) U.S.-Canada(1.0) border(0.0) ?(0.0) And(0.0) is(0.0) it(0.0) not(0.0) also(0.0) true(0.0) that(0.0) during(0.0) 
+the(0.0) tumultuous(1.0) debate(1.0) about(0.0) what(0.0) to(0.0) do(0.0) about(0.0) the(0.0) dilemma(1.0) of(0.0) the(0.0) airlines(1.0) ,(0.0) that(0.0) we(0.0) waived(1.0) rules(0.0) again(0.0) to(0.0) 
+allow(0.0) the(0.0) committee(0.0) to(0.0) include(0.0) in(0.0) its(0.0) appropriation(1.0) bill(0.0) the(0.0) bailout(1.0) for(0.0) the(0.0) airlines(1.0) as(0.0) well(0.0) as(0.0) the(0.0) extension(0.0) of(0.0) 
+unemployment(1.0) benefits(1.0) to(0.0) those(0.0) in(0.0) that(0.0) industry(1.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+
+majority	provisions	waiver	
+
+omnibus	appropriations	bill	amended	Medicare	Act	
+increase	funding	providers	Medicare	Act	
+jurisdiction	omnibus	legislation	
+increase	payments	
+rural	waived	rules	
+U.S.-Canada	
+tumultuous	debate	dilemma	airlines	waived	
+appropriation	bailout	airlines	
+unemployment	benefits	industry	
+
+reads % = 0.14847161572052403

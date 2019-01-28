@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) in(0.0) strong(0.0) support(0.0) of(0.0) the(0.0) Senate(1.0) amendments(0.0) to(0.0) H.R(0.0) .(0.0) 1114(0.0) ,(0.0) and(0.0) urge(0.0) the(0.0) House(0.0) to(0.0) 
+once(0.0) again(0.0) pass(0.0) this(0.0) important(0.0) legislation(1.0) and(0.0) send(0.0) it(0.0) to(0.0) President(1.0) Clinton(1.0) 's(0.0) desk(0.0) for(0.0) his(0.0) quick(0.0) signature(0.0) .(0.0) Action(0.0) 
+by(0.0) the(0.0) House(0.0) will(0.0) encourage(0.0) grocery(0.0) stores(0.0) to(0.0) start(0.0) hiring(0.0) teenagers(0.0) again(0.0) this(0.0) summer(0.0) .(0.0) As(0.0) my(0.0) colleagues(0.0) know(0.0) from(0.0) 
+the(0.0) previous(0.0) consideration(0.0) of(0.0) this(0.0) legislation(1.0) ,(0.0) the(0.0) Labor(1.0) Department(1.0) has(0.0) been(0.0) vigorously(1.0) enforcing(1.0) Hazardous(1.0) Occupation(0.0) Order(0.0) 12(0.0) ,(0.0) a(0.0) 
+regulation(1.0) which(0.0) has(0.0) n't(0.0) been(0.0) updated(0.0) in(0.0) about(0.0) 40(0.0) years(0.0) and(0.0) which(0.0) prohibits(1.0) teenage(1.0) workers(1.0) from(0.0) in(0.0) any(0.0) way(0.0) coming(0.0) 
+in(0.0) contact(0.0) with(0.0) paper(0.0) balers(1.0) and(0.0) compactors(0.0) .(0.0) My(0.0) colleagues(0.0) know(0.0) that(0.0) the(0.0) modern(0.0) machines(0.0) are(0.0) extremely(0.0) safe(0.0) ,(0.0) but(0.0) 
+the(0.0) Labor(1.0) Department(0.0) has(0.0) been(0.0) handing(0.0) out(0.0) fines(1.0) up(0.0) to(0.0) $(0.0) 10,000(0.0) for(0.0) a(0.0) single(0.0) violation(1.0) of(0.0) H.O(0.0) .(0.0) 12(0.0) 
+.(0.0) This(0.0) final(0.0) legislation(1.0) will(0.0) only(0.0) allow(0.0) 16-(0.0) and(0.0) 17-year-old(0.0) workers(1.0) to(0.0) load(0.0) modern(0.0) machines(0.0) ,(0.0) but(0.0) retains(0.0) the(0.0) prohibition(1.0) 
+on(0.0) teenagers(0.0) operating(0.0) or(0.0) unloading(0.0) any(0.0) paper(0.0) balers(1.0) or(0.0) compactors(0.0) .(0.0) Before(0.0) teens(1.0) could(0.0) load(0.0) a(0.0) machine(0.0) ,(0.0) it(0.0) must(0.0) 
+meet(0.0) modern(0.0) safety(0.0) standards(1.0) set(0.0) by(0.0) the(0.0) American(0.0) National(0.0) Standards(0.0) Institute(0.0) [(0.0) ANSI(1.0) ](0.0) including(0.0) an(0.0) on-off(0.0) switch(0.0) with(0.0) a(0.0) 
+key-lock(0.0) system(0.0) and(0.0) which(0.0) can(0.0) not(0.0) be(0.0) operated(0.0) while(0.0) being(0.0) loaded(0.0) ,(0.0) and(0.0) requires(0.0) the(0.0) on-off(0.0) switch(0.0) to(0.0) be(0.0) in(0.0) 
+the(0.0) off(0.0) position(0.0) when(0.0) the(0.0) equipment(0.0) is(0.0) not(0.0) in(0.0) operation(0.0) .(0.0) The(0.0) legislation(1.0) also(1.0) requires(0.0) the(0.0) key(0.0) to(0.0) be(0.0) maintained(0.0) 
+is(0.0) not(0.0) in(0.0) operation(0.0) .(0.0) The(0.0) legislation(1.0) also(0.0) requires(0.0) the(0.0) key(0.0) to(0.0) be(0.0) maintained(0.0) in(0.0) the(0.0) custody(1.0) of(0.0) adult(0.0) employees(0.0) 
+and(0.0) requires(0.0) the(0.0) employer(0.0) to(0.0) post(0.0) notice(0.0) that(0.0) the(0.0) machine(0.0) meets(0.0) safety(0.0) standards(0.0) and(0.0) that(0.0) 16(0.0) and(0.0) 17(0.0) year(0.0) olds(0.0) 
+may(0.0) load(0.0) only(0.0) ,(0.0) but(0.0) not(0.0) operate(0.0) or(0.0) unload(0.0) .(0.0) In(0.0) addition(0.0) ,(0.0) the(0.0) Senate(1.0) added(0.0) two(0.0) additional(0.0) safety(0.0) provisions(0.0) 
+allowing(0.0) the(0.0) Secretary(1.0) of(0.0) Labor(1.0) to(0.0) certify(0.0) that(0.0) future(0.0) ANSI(1.0) safety(0.0) standards(0.0) are(0.0) at(0.0) least(0.0) as(0.0) protective(0.0) as(0.0) the(0.0) current(0.0) 
+standards(0.0) ,(0.0) and(0.0) requiring(1.0) that(0.0) for(0.0) 2(0.0) years(0.0) any(0.0) injuries(0.0) involving(0.0) teenagers(1.0) working(0.0) with(0.0) these(0.0) machines(0.0) be(0.0) reported(0.0) to(0.0) the(0.0) 
+Labor(1.0) Department(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) it(0.0) is(0.0) unfortunate(0.0) that(0.0) while(0.0) this(0.0) Congress(1.0) clearly(0.0) has(0.0) determined(0.0) that(0.0) H.O(0.0) .(0.0) 12(0.0) 
+is(0.0) outdated(1.0) ,(0.0) the(0.0) Labor(1.0) Department(1.0) has(0.0) continued(0.0) its(0.0) excessive(0.0) and(0.0) unreasonable(1.0) enforcement(1.0) while(0.0) this(0.0) legislation(1.0) was(0.0) being(0.0) written(0.0) .(0.0) 
+For(0.0) example(0.0) ,(0.0) the(0.0) Department(0.0) 's(0.0) Wage(1.0) and(0.0) Hour(0.0) Division(0.0) recently(0.0) cited(0.0) a(0.0) grocery(0.0) store(0.0) in(0.0) the(0.0) Midwest(0.0) for(0.0) alleged(1.0) 
+violations(1.0) involving(0.0) six(0.0) teenage(0.0) employees(0.0) .(0.0) The(0.0) store(0.0) is(0.0) facing(0.0) fines(1.0) in(0.0) excess(0.0) of(0.0) $(0.0) 14,000(0.0) .(0.0) The(0.0) supermarket(0.0) has(0.0) 
+a(0.0) compactor(0.0) which(0.0) is(0.0) not(0.0) inside(0.0) the(0.0) store(0.0) ,(0.0) but(0.0) is(0.0) located(0.0) outside(0.0) ,(0.0) on(0.0) a(0.0) back(0.0) lot(0.0) .(0.0) It(0.0) 
+is(0.0) connected(0.0) by(0.0) an(0.0) 8(0.0) foot(0.0) long(0.0) chute(0.0) which(0.0) goes(0.0) from(0.0) the(0.0) building(0.0) to(0.0) the(0.0) compactor(1.0) and(0.0) is(0.0) loaded(0.0) through(0.0) 
+the(0.0) chute(0.0) from(0.0) inside(0.0) the(0.0) supermarket(0.0) .(0.0) Adequate(1.0) notice(0.0) and(0.0) safety(0.0) precautions(0.0) were(0.0) posted(0.0) on(0.0) the(0.0) door(0.0) of(0.0) the(0.0) chute(0.0) 
+,(0.0) indicating(0.0) that(0.0) minors(1.0) are(0.0) not(0.0) to(0.0) load(0.0) or(0.0) operate(0.0) the(0.0) machine(0.0) .(0.0) The(0.0) manager(0.0) told(0.0) the(0.0) employees(0.0) that(0.0) 
+
+
+----- below are rationale words -----
+
+Senate	
+legislation	President	Clinton	
+
+legislation	Labor	Department	vigorously	enforcing	Hazardous	
+regulation	prohibits	teenage	workers	
+balers	
+Labor	fines	violation	
+legislation	workers	prohibition	
+balers	teens	
+standards	ANSI	
+
+legislation	also	
+legislation	custody	
+
+Senate	
+Secretary	Labor	ANSI	
+requiring	teenagers	
+Labor	Speaker	Congress	
+outdated	Labor	Department	unreasonable	enforcement	legislation	
+Wage	alleged	
+violations	fines	
+
+compactor	
+Adequate	
+minors	
+
+reads % = 0.102

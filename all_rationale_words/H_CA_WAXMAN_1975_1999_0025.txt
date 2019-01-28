@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) allowing(0.0) me(0.0) to(0.0) express(0.0) not(0.0) only(0.0) my(0.0) support(0.0) for(0.0) this(0.0) proposal(1.0) but(0.0) my(0.0) appreciation(0.0) to(0.0) the(0.0) 
+chairman(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) York(1.0) ((0.0) Mr.(0.0) MCHugh(1.0) )(0.0) and(0.0) the(0.0) gentleman(0.0) from(0.0) Indiana(0.0) ((0.0) Mr.(0.0) Burton(1.0) )(0.0) for(1.0) 
+moving(0.0) this(0.0) so(0.0) expeditiously(0.0) .(0.0) I(0.0) want(0.0) to(0.0) congratulate(0.0) the(0.0) gentleman(0.0) from(0.0) Pennsylvania(1.0) ((0.0) Mr.(0.0) Fattah(1.0) )(0.0) on(1.0) his(0.0) leadership(0.0) 
+in(0.0) all(0.0) of(0.0) these(0.0) issues(0.0) that(0.0) have(0.0) come(0.0) before(0.0) the(0.0) Committee(0.0) on(0.0) Government(0.0) Reform(0.0) .(0.0) I(0.0) urge(0.0) all(0.0) Members(0.0) to(0.0) 
+support(0.0) the(0.0) resolution(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+proposal	
+York	MCHugh	Burton	for	
+Pennsylvania	Fattah	on	
+
+resolution	
+
+reads % = 0.10588235294117647

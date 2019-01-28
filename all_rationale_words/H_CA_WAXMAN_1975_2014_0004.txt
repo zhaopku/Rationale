@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Bipartisan(1.0) staff(1.0) on(1.0) our(1.0) committee(1.0) met(0.0) with(0.0) the(0.0) Department(0.0) of(0.0) Justice(0.0) and(0.0) the(0.0) Department(0.0) of(0.0) Defense(0.0) to(0.0) hear(0.0) a(0.0) long(0.0) list(0.0) 
+of(0.0) objections(0.0) they(0.0) had(0.0) to(0.0) the(0.0) bill(0.0) that(0.0) was(0.0) before(0.0) the(0.0) markup(0.0) in(0.0) committee(0.0) .(0.0) When(0.0) we(0.0) went(0.0) into(0.0) the(0.0) 
+markup(1.0) in(0.0) committee(0.0) ,(0.0) I(0.0) personally(0.0) asked(0.0) in(0.0) the(0.0) public(1.0) session(0.0) if(0.0) Chairman(0.0) Shimkus(1.0) ,(0.0) the(0.0) chairman(0.0) of(0.0) the(0.0) subcommittee(0.0) 
+,(0.0) would(0.0) meet(0.0) personally(0.0) with(0.0) the(0.0) Department(0.0) of(0.0) Justice(0.0) and(0.0) Department(0.0) of(0.0) Defense(0.0) because(0.0) they(0.0) had(0.0) great(0.0) concerns(0.0) about(0.0) the(0.0) 
+bill(0.0) .(0.0) He(0.0) said(0.0) at(0.0) that(0.0) markup(0.0) that(0.0) he(0.0) would(0.0) .(0.0) We(0.0) checked(0.0) with(0.0) the(0.0) Department(0.0) of(0.0) Defense(0.0) ,(0.0) we(0.0) 
+checked(0.0) with(0.0) the(0.0) Department(0.0) of(0.0) Justice(0.0) ,(0.0) and(0.0) there(0.0) has(0.0) been(0.0) no(0.0) such(0.0) meeting(0.0) .(0.0) There(0.0) has(0.0) been(0.0) some(0.0) change(0.0) 
+,(0.0) but(0.0) they(0.0) have(0.0) not(0.0) really(0.0) addressed(0.0) all(0.0) the(0.0) issues(0.0) that(0.0) I(0.0) think(0.0) Members(0.0) should(0.0) have(0.0) been(0.0) taking(0.0) into(0.0) consideration(1.0) 
+.(0.0) There(0.0) was(0.0) really(0.0) not(0.0) an(0.0) attempt(0.0) ,(0.0) if(0.0) the(0.0) gentleman(0.0) would(0.0) permit(0.0) ,(0.0) to(0.0) work(0.0) this(0.0) out(0.0) on(0.0) a(0.0) 
+bipartisan(1.0) basis(0.0) ,(0.0) to(0.0) hear(0.0) what(0.0) other(0.0) people(0.0) had(0.0) to(0.0) say(0.0) about(0.0) it(0.0) .(0.0) This(0.0) bill(1.0) was(0.0) driven(0.0) through(0.0) and(0.0) 
+was(0.0) being(0.0) written(0.0) whether(0.0) we(0.0) had(0.0) a(0.0) hearing(0.0) ,(0.0) written(0.0) after(0.0) the(0.0) hearings(1.0) where(0.0) they(0.0) had(0.0) a(0.0) markup(0.0) ,(0.0) written(0.0) 
+after(0.0) the(0.0) markup(0.0) without(0.0) getting(0.0) all(0.0) the(0.0) facts(0.0) ;(0.0) and(0.0) it(0.0) is(0.0) a(0.0) flawed(0.0) bill(1.0) as(0.0) a(0.0) result(0.0) of(0.0) it(0.0) 
+.(0.0) Thank(0.0) you(0.0) for(0.0) yielding(0.0) to(0.0) me(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+staff	on	our	committee	
+
+markup	public	Shimkus	
+
+
+
+consideration	
+
+bipartisan	bill	
+hearings	
+bill	
+
+
+reads % = 0.05240174672489083

@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) know(0.0) it(0.0) by(0.0) the(0.0) old(0.0) name(0.0) ,(0.0) and(0.0) they(0.0) are(0.0) still(0.0) up(0.0) to(0.0) their(0.0) old(0.0) practices(0.0) which(0.0) is(0.0) pork(1.0) ,(0.0) 
+pork(1.0) at(0.0) all(0.0) costs(1.0) ,(0.0) pork(1.0) at(0.0) any(0.0) cost(0.0) ,(0.0) pork(0.0) without(0.0) responsibility(0.0) ,(0.0) pork(1.0) without(0.0) need(0.0) ,(0.0) pork(1.0) .(0.0) 
+We(0.0) perhaps(0.0) should(0.0) change(0.0) their(0.0) name(0.0) to(0.0) the(0.0) committee(0.0) on(0.0) pork(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+pork	
+pork	costs	pork	pork	pork	
+pork	
+
+reads % = 0.1320754716981132

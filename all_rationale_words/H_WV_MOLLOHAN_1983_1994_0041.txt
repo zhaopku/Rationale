@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+If(0.0) I(0.0) may(0.0) reclaim(0.0) my(0.0) time(0.0) ,(0.0) it(0.0) is(0.0) not(0.0) prison(1.0) construction(1.0) ,(0.0) it(0.0) is(0.0) the(0.0) salaries(1.0) and(0.0) expenses(0.0) account(0.0) that(0.0) 
+the(0.0) gentleman(0.0) is(0.0) reducing(0.0) .(0.0) It(0.0) is(0.0) not(0.0) prison(1.0) construction(0.0) .(0.0) Out(0.0) of(0.0) that(0.0) money(1.0) is(0.0) the(0.0) activation(0.0) of(0.0) our(0.0) 
+prisons(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+prison	construction	salaries	
+prison	money	
+prisons	
+
+reads % = 0.13953488372093023

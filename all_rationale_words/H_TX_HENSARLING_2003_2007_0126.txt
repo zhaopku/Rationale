@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+This(0.0) particular(0.0) amendment(1.0) mirrors(0.0) the(0.0) TANF(1.0) statute(1.0) ,(0.0) and(0.0) so(0.0) there(0.0) may(0.0) be(0.0) confusion(0.0) there(0.0) .(0.0) The(0.0) Acting(0.0) CHAIRMAN(0.0) .(0.0) The(0.0) 
+gentleman(0.0) from(0.0) Missouri(1.0) 's(0.0) time(0.0) has(0.0) expired(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+amendment	TANF	statute	
+Missouri	
+
+reads % = 0.13793103448275862

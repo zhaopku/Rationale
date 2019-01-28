@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) distinguished(0.0) chairman(0.0) and(0.0) my(0.0) colleague(0.0) for(0.0) yielding(0.0) time(0.0) to(0.0) me(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) wish(0.0) 
+to(0.0) come(0.0) back(0.0) to(0.0) something(0.0) that(0.0) is(0.0) very(0.0) important(0.0) ,(0.0) that(0.0) we(0.0) repeat(0.0) several(0.0) times(0.0) to(0.0) make(0.0) certain(0.0) all(0.0) clearly(0.0) 
+understand(0.0) this(0.0) .(0.0) This(0.0) bill(1.0) does(1.0) not(0.0) have(0.0) any(0.0) earmarks(1.0) .(0.0) That(0.0) is(0.0) very(0.0) important(0.0) .(0.0) The(0.0) funding(1.0) for(0.0) the(0.0) 
+grants(1.0) program(0.0) ,(0.0) incidentally(0.0) ,(0.0) is(0.0) in(0.0) response(0.0) to(0.0) the(0.0) demand(1.0) ,(0.0) the(0.0) cry(0.0) ,(0.0) the(0.0) plea(1.0) from(0.0) our(0.0) Governors(1.0) 
+,(0.0) our(0.0) county(1.0) officials(0.0) ,(0.0) and(0.0) our(0.0) mayors(1.0) that(0.0) we(0.0) come(0.0) up(0.0) with(0.0) a(0.0) grants(1.0) program(0.0) .(0.0) The(0.0) grants(1.0) program(0.0) 
+is(0.0) contingent(1.0) on(0.0) Congress(0.0) first(0.0) appropriating(1.0) at(0.0) least(0.0) 745(0.0) percent(0.0) of(0.0) the(0.0) amount(0.0) authorized(0.0) for(0.0) the(0.0) revolving(0.0) loan(0.0) fund(0.0) .(0.0) 
+They(0.0) are(0.0) intended(0.0) for(0.0) hardship(1.0) communities(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) think(0.0) my(0.0) colleagues(0.0) on(0.0) both(0.0) sides(0.0) of(0.0) the(0.0) aisle(0.0) 
+should(0.0) be(0.0) working(0.0) hand(0.0) in(0.0) glove(0.0) ,(0.0) as(0.0) the(0.0) gentleman(0.0) from(0.0) Pennsylvania(1.0) [(0.0) Mr.(0.0) Borski(1.0) ](0.0) has(1.0) with(0.0) me(0.0) on(0.0) 
+this(0.0) subcommittee(0.0) as(0.0) we(0.0) have(0.0) brought(0.0) this(0.0) out(0.0) on(0.0) a(0.0) bipartisan(1.0) basis(0.0) ,(0.0) because(0.0) we(0.0) recognize(0.0) there(0.0) are(0.0) communities(1.0) that(0.0) 
+have(0.0) legitimate(1.0) needs(0.0) and(0.0) just(0.0) do(0.0) not(0.0) have(0.0) the(0.0) wherewithal(1.0) to(0.0) address(0.0) those(0.0) needs(0.0) .(0.0) Thus(0.0) ,(0.0) the(0.0) creation(0.0) of(0.0) 
+this(0.0) grants(1.0) program(0.0) .(0.0) It(0.0) is(0.0) a(0.0) good(0.0) program(0.0) ,(0.0) and(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) ,(0.0) on(0.0) a(0.0) bipartisan(1.0) basis(0.0) 
+,(0.0) to(0.0) join(0.0) me(0.0) in(0.0) supporting(1.0) it(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	
+
+bill	does	earmarks	funding	
+grants	demand	plea	Governors	
+county	mayors	grants	grants	
+contingent	appropriating	
+hardship	Speaker	
+Pennsylvania	Borski	has	
+bipartisan	communities	
+legitimate	wherewithal	
+grants	bipartisan	
+supporting	
+
+reads % = 0.11790393013100436

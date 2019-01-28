@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+Reclaiming(1.0) my(0.0) time(0.0) ,(0.0) this(0.0) country(1.0) has(0.0) long(0.0) had(0.0) a(0.0) history(0.0) of(0.0) the(0.0) examination(0.0) of(0.0) the(0.0) safety(0.0) and(0.0) soundness(0.0) of(0.0) our(0.0) 
+banks(1.0) .(0.0) And(0.0) what(0.0) we(0.0) are(0.0) saying(0.0) now(0.0) is(0.0) that(0.0) we(0.0) will(0.0) assist(0.0) and(0.0) support(0.0) the(0.0) safety(0.0) and(0.0) soundness(1.0) of(0.0) 
+our(0.0) banks(1.0) by(0.0) keeping(0.0) the(0.0) customers(0.0) of(0.0) those(0.0) banks(1.0) from(0.0) defaulting(1.0) through(0.0) good(0.0) consumer(1.0) protection(1.0) .(0.0) So(0.0) I(0.0) support(0.0) the(0.0) 
+Holt(1.0) amendment(1.0) and(0.0) think(0.0) this(0.0) is(0.0) terribly(0.0) ,(0.0) terribly(0.0) important(0.0) to(0.0) American(0.0) families(0.0) and(0.0) the(0.0) safety(0.0) and(0.0) soundness(1.0) of(0.0) the(0.0) 
+system(0.0) .(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+country	
+banks	soundness	
+banks	banks	defaulting	consumer	protection	
+Holt	amendment	soundness	
+
+
+reads % = 0.11956521739130435

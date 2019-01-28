@@ -1,0 +1,10 @@
+This is from a Republican
+----- below is the original text -----
+If(0.0) I(0.0) might(0.0) ask(0.0) you(0.0) a(0.0) question(1.0) ,(0.0) Have(0.0) you(1.0) read(1.0) the(0.0) entire(1.0) Tax(1.0) Code(0.0) ?(1.0) 
+
+
+----- below are rationale words -----
+
+question	you	read	entire	Tax	?	
+
+reads % = 0.375

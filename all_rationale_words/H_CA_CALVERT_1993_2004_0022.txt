@@ -1,0 +1,18 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) will(0.0) the(0.0) gentleman(0.0) yield(0.0) ?(1.0) Speaker(1.0) ,(0.0) I(0.0) thank(1.0) the(0.0) gentleman(0.0) for(0.0) his(0.0) support(0.0) of(0.0) the(0.0) Salton(0.0) Sea(0.0) .(0.0) 
+I(0.0) would(1.0) like(0.0) to(0.0) assure(0.0) him(0.0) that(0.0) I(0.0) and(0.0) many(0.0) of(0.0) our(0.0) Southern(0.0) California(0.0) colleagues(1.0) ,(0.0) including(1.0) the(0.0) gentlewoman(0.0) from(0.0) 
+California(0.0) ((0.0) Mrs.(1.0) Bono(1.0) )(0.0) and(0.0) certainly(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) ((0.0) Mr.(0.0) Hunter(1.0) )(0.0) ,(0.0) continue(1.0) to(0.0) strongly(1.0) support(0.0) 
+the(0.0) restoration(0.0) of(0.0) the(0.0) Salton(0.0) Sea(0.0) ,(0.0) and(0.0) we(0.0) will(0.0) work(0.0) with(0.0) him(0.0) and(0.0) others(0.0) in(0.0) our(0.0) delegation(1.0) to(0.0) continue(0.0) 
+these(0.0) efforts(1.0) .(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(1.0) 30(0.0) seconds(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) ((0.0) Mr.(0.0) Ose(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+?	Speaker	thank	
+would	colleagues	including	
+Mrs.	Bono	Hunter	continue	strongly	
+delegation	
+efforts	Speaker	yield	Ose	
+
+reads % = 0.16

@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) was(0.0) going(0.0) to(0.0) ask(0.0) about(0.0) lobbying(1.0) reform(1.0) ,(0.0) if(0.0) you(0.0) thought(0.0) there(0.0) was(0.0) a(0.0) chance(0.0) for(0.0) that(0.0) .(0.0) Water(0.0) Resources(0.0) 
+or(0.0) the(0.0) competitive(0.0) science(0.0) bills(0.0) ,(0.0) do(0.0) you(0.0) have(0.0) a(0.0) report(0.0) on(0.0) where(0.0) those(0.0) might(0.0) be(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+lobbying	reform	
+
+
+reads % = 0.05263157894736842

@@ -1,0 +1,36 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) am(0.0) proud(0.0) to(0.0) rise(0.0) today(0.0) and(0.0) pay(0.0) tribute(0.0) to(0.0) one(0.0) of(0.0) Washington(1.0) State(0.0) 's(0.0) leading(0.0) citizens(1.0) ,(0.0) Dr.(0.0) 
+Lee(1.0) Hartwell(1.0) .(0.0) I(0.0) join(0.0) my(0.0) colleagues(0.0) in(0.0) honoring(1.0) Dr.(0.0) Hartwell(1.0) for(0.0) winning(0.0) the(0.0) Nobel(0.0) prize(0.0) in(0.0) Physiology(0.0) or(0.0) Medicine(0.0) 
+.(0.0) This(0.0) award(0.0) ,(0.0) as(0.0) we(0.0) all(0.0) know(0.0) ,(0.0) is(0.0) recognized(0.0) as(0.0) one(0.0) of(0.0) the(0.0) world(0.0) 's(0.0) most(0.0) distinguished(0.0) honors(0.0) 
+for(0.0) those(0.0) involved(0.0) in(0.0) basic(0.0) medicine(1.0) and(0.0) clinical(0.0) research(0.0) .(0.0) During(0.0) his(0.0) more(0.0) than(0.0) 30(0.0) years(0.0) involved(0.0) in(0.0) groundbreaking(1.0) research(0.0) 
+studying(0.0) cell(0.0) division(0.0) and(0.0) its(0.0) relation(0.0) to(0.0) cancer(1.0) ,(0.0) Dr.(0.0) Hartwell(1.0) has(0.0) won(0.0) numerous(0.0) awards(0.0) ,(0.0) including(0.0) the(0.0) Massry(1.0) Prize(0.0) 
+,(0.0) the(0.0) American(0.0) Cancer(1.0) Society(0.0) 's(0.0) Medal(0.0) of(0.0) Honor(0.0) Basic(0.0) Research(0.0) Award(0.0) ,(0.0) the(0.0) General(0.0) Motors(0.0) Sloan(0.0) Award(0.0) ,(0.0) the(0.0) 
+Albert(0.0) Lasker(0.0) Basic(0.0) Medical(0.0) Research(0.0) Prize(0.0) ,(0.0) the(0.0) Leopold(0.0) Griffuel(0.0) Prize(0.0) ,(0.0) and(0.0) the(0.0) Gardiner(0.0) Foundation(0.0) International(0.0) Award(0.0) for(0.0) Achievements(0.0) 
+in(0.0) Science(0.0) ,(0.0) and(0.0) now(0.0) the(0.0) Nobel(0.0) Prize(0.0) .(0.0) Much(0.0) of(0.0) Dr.(0.0) Hartwell(1.0) 's(0.0) pioneering(0.0) research(0.0) has(0.0) been(0.0) conducted(0.0) at(0.0) 
+the(0.0) University(0.0) of(0.0) Washington(1.0) .(0.0) He(0.0) began(0.0) his(0.0) service(0.0) with(0.0) the(0.0) university(0.0) in(0.0) 1968(0.0) and(0.0) has(0.0) been(0.0) Professor(0.0) of(0.0) Genetics(0.0) 
+since(0.0) 1973(0.0) .(0.0) Twenty-three(0.0) years(0.0) later(0.0) ,(0.0) Dr.(0.0) Hartwell(1.0) joined(0.0) the(0.0) faculty(0.0) of(0.0) the(0.0) Fred(0.0) Hutchinson(1.0) Cancer(0.0) Center(0.0) ,(0.0) and(0.0) 
+in(0.0) 1997(0.0) became(0.0) its(0.0) president(0.0) and(0.0) director(0.0) .(0.0) Since(0.0) it(0.0) opened(0.0) its(0.0) doors(0.0) in(0.0) 1975(0.0) ,(0.0) the(0.0) research(0.0) undertaken(0.0) by(0.0) 
+the(0.0) Hutchinson(0.0) Center(0.0) has(0.0) given(0.0) hope(0.0) and(0.0) extended(0.0) life(0.0) to(0.0) thousands(0.0) of(0.0) people(0.0) .(0.0) My(0.0) cousin(0.0) is(0.0) among(0.0) one(0.0) of(0.0) 
+those(0.0) whose(0.0) life(0.0) was(0.0) so(0.0) extended(0.0) ,(0.0) and(0.0) I(0.0) am(0.0) deeply(0.0) grateful(0.0) ,(0.0) and(0.0) I(0.0) join(0.0) my(0.0) colleagues(0.0) in(0.0) honoring(1.0) 
+Dr.(0.0) Hartwell(1.0) for(0.0) his(0.0) life(0.0) 's(0.0) work(0.0) and(0.0) becoming(0.0) the(0.0) recipient(0.0) of(0.0) the(0.0) Nobel(0.0) Prize(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Washington	citizens	
+Lee	Hartwell	honoring	Hartwell	
+
+medicine	groundbreaking	
+cancer	Hartwell	Massry	
+Cancer	
+
+Hartwell	
+Washington	
+Hartwell	Hutchinson	
+
+
+honoring	
+Hartwell	
+
+reads % = 0.06498194945848375

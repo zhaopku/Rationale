@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) in(0.0) a(0.0) cynical(1.0) ploy(1.0) to(0.0) distort(0.0) reality(0.0) for(0.0) political(1.0) gain(0.0) ,(0.0) the(0.0) minority(1.0) party(0.0) continues(0.0) to(0.0) decry(1.0) the(0.0) so-called(1.0) 
+student(0.0) loan(0.0) cuts(0.0) in(0.0) our(0.0) budget(1.0) .(0.0) It(0.0) is(0.0) time(0.0) to(0.0) start(0.0) telling(0.0) the(0.0) American(0.0) people(0.0) the(0.0) truth(1.0) .(0.0) My(0.0) 
+Republican(0.0) colleagues(1.0) understand(1.0) the(1.0) importance(1.0) of(1.0) helping(1.0) low-(1.0) income(1.0) students(1.0) pay(1.0) for(0.0) college(1.0) .(0.0) That(0.0) is(0.0) why(0.0) we(0.0) protect(0.0) student(0.0) 
+aid(1.0) in(0.0) our(0.0) budget(1.0) .(0.0) Contrary(0.0) to(0.0) the(0.0) battle(0.0) cry(0.0) of(0.0) the(0.0) minority(1.0) ,(0.0) there(0.0) are(0.0) no(0.0) student(0.0) loan(0.0) cuts(0.0) 
+in(0.0) the(0.0) Balanced(1.0) Budget(1.0) Act(1.0) of(0.0) 1995(0.0) .(0.0) In(0.0) fact(0.0) ,(0.0) total(0.0) student(0.0) loan(0.0) volume(0.0) will(0.0) grow(0.0) from(0.0) $(0.0) 24(0.0) 
+billion(1.0) this(0.0) year(0.0) to(0.0) $(0.0) 36(0.0) billion(1.0) in(0.0) 2002(1.0) .(0.0) And(0.0) more(0.0) loans(1.0) will(0.0) be(0.0) available(0.0) next(0.0) year(0.0) than(0.0) ever(0.0) 
+before(0.0) .(0.0) Student(0.0) loans(1.0) are(0.0) preserved(0.0) .(0.0) No(0.0) student(0.0) will(0.0) be(0.0) cut(0.0) off(0.0) .(0.0) And(0.0) no(0.0) student(0.0) will(0.0) be(0.0) required(0.0) 
+to(0.0) pay(1.0) more(0.0) for(0.0) his(0.0) or(0.0) her(0.0) loan(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) it(0.0) does(0.0) n't(0.0) take(0.0) a(0.0) Harvard(0.0) professor(0.0) to(0.0) 
+figure(0.0) out(0.0) what's(0.0) going(0.0) on(0.0) .(0.0) Democrats(0.0) are(0.0) trying(0.0) to(0.0) regain(0.0) power(0.0) by(0.0) scaring(1.0) the(0.0) American(0.0) people(0.0) with(0.0) imaginary(0.0) spending(1.0) 
+cuts(1.0) .(0.0) This(0.0) is(0.0) downright(0.0) dishonest(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+cynical	ploy	political	minority	decry	so-called	
+budget	truth	
+colleagues	understand	the	importance	of	helping	low-	income	students	pay	college	
+aid	budget	minority	
+Balanced	Budget	Act	
+billion	billion	2002	loans	
+loans	
+pay	Speaker	
+scaring	spending	
+cuts	dishonest	
+
+reads % = 0.19148936170212766

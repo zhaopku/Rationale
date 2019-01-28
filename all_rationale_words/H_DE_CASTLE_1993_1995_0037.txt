@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(1.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) me(0.0) the(0.0) time(0.0) .(0.0) Mr.(1.0) Chairman(1.0) ,(0.0) I(0.0) rise(1.0) in(0.0) support(0.0) of(0.0) the(0.0) 
+Boehlert(1.0) substitute(1.0) here(0.0) today(1.0) .(0.0) I(0.0) would(1.0) like(0.0) to(0.0) say(1.0) why(0.0) because(0.0) I(0.0) have(0.0) a(0.0) great(0.0) deal(1.0) of(0.0) respect(1.0) for(0.0) 
+the(0.0) sponsor(0.0) of(0.0) the(0.0) bill(0.0) itself(0.0) .(0.0) of(0.0) Delaware(1.0) ,(0.0) I(0.0) have(0.0) seen(0.0) that(0.0) of(0.0) all(0.0) the(0.0) pieces(0.0) of(0.0) environmental(1.0) 
+legislation(0.0) which(0.0) I(0.0) think(1.0) have(0.0) actually(1.0) worked(0.0) ,(0.0) that(0.0) the(0.0) Clean(1.0) Water(0.0) Act(0.0) probably(0.0) stands(0.0) at(0.0) the(0.0) top(0.0) .(0.0) I(0.0) 
+believe(1.0) that(0.0) the(0.0) substitute(1.0) does(0.0) more(0.0) to(0.0) support(0.0) that(0.0) original(0.0) piece(1.0) of(0.0) legislation(0.0) ,(0.0) but(0.0) correcting(1.0) or(1.0) remedying(1.0) some(0.0) of(0.0) 
+the(0.0) problems(0.0) which(0.0) existed(0.0) ,(0.0) than(0.0) does(1.0) the(0.0) actual(0.0) bill(0.0) before(0.0) us(0.0) .(0.0) I(0.0) believe(1.0) that(0.0) the(0.0) substitute(1.0) deals(0.0) with(0.0) 
+the(0.0) problems(0.0) of(0.0) wetlands(1.0) ,(0.0) it(0.0) gives(1.0) more(0.0) control(1.0) to(0.0) the(0.0) States(0.0) ,(0.0) but(0.0) it(0.0) does(0.0) not(0.0) give(0.0) up(0.0) the(0.0) 
+wetlands(1.0) which(0.0) are(0.0) a(0.0) valuable(0.0) source(1.0) of(0.0) nutrients(0.0) ,(0.0) as(0.0) we(0.0) know(0.0) .(0.0) I(0.0) believe(1.0) that(0.0) it(0.0) preserves(1.0) the(0.0) Coastal(0.0) 
+Zone(0.0) Management(0.0) Act(0.0) ,(0.0) which(0.0) is(0.0) extremely(0.0) important(0.0) .(0.0) We(0.0) have(0.0) the(0.0) Delaware(1.0) River(0.0) and(0.0) Bay(0.0) in(0.0) my(0.0) State(1.0) ,(0.0) 
+and(0.0) I(0.0) can(1.0) not(0.0) tell(0.0) you(0.0) how(0.0) important(0.0) that(0.0) is(0.0) to(0.0) the(0.0) environment(0.0) of(0.0) our(0.0) State(0.0) .(0.0) The(0.0) revolving(1.0) loan(0.0) 
+fund(1.0) is(0.0) extremely(0.0) important(0.0) for(0.0) infrastructure(1.0) as(0.0) far(0.0) as(0.0) water(0.0) is(0.0) concerned(0.0) .(0.0) The(0.0) financial(0.0) and(0.0) technical(0.0) needs(0.0) of(0.0) the(0.0) 
+farmers(0.0) are(0.0) something(0.0) else(0.0) that(0.0) sometimes(1.0) we(0.0) overlook(1.0) .(0.0) That(0.0) is(0.0) a(0.0) very(0.0) dramatic(0.0) problem(0.0) that(0.0) they(0.0) are(0.0) dealing(0.0) with(0.0) 
+,(0.0) and(0.0) they(0.0) are(0.0) right(1.0) on(0.0) the(0.0) edge(0.0) of(0.0) the(0.0) water(0.0) in(0.0) many(0.0) instances(0.0) .(0.0) The(0.0) stormwater(1.0) program(0.0) ,(0.0) which(0.0) 
+would(0.0) be(0.0) repealed(0.0) by(0.0) H.R(0.0) .(0.0) 961(1.0) ,(0.0) is(0.0) of(0.0) vital(1.0) importance(0.0) .(0.0) We(0.0) have(0.0) had(0.0) to(0.0) close(0.0) our(0.0) oceans(0.0) 
+,(0.0) I(0.0) have(0.0) had(0.0) to(0.0) actually(1.0) close(0.0) down(1.0) swimming(0.0) in(0.0) Rehoboth(1.0) Beach(1.0) ,(0.0) DE(1.0) ,(0.0) because(0.0) of(0.0) stormwater(1.0) runoff(1.0) ,(0.0) 
+and(0.0) the(0.0) same(1.0) thing(0.0) is(0.0) true(1.0) of(0.0) non-point(1.0) source(1.0) pollution(1.0) .(0.0) It(0.0) is(0.0) the(0.0) exact(1.0) same(1.0) thing(0.0) .(0.0) We(0.0) get(0.0) 
+to(0.0) the(0.0) point(0.0) where(0.0) we(0.0) actually(1.0) have(0.0) to(0.0) close(0.0) swimming(0.0) and(0.0) take(0.0) other(0.0) measures(1.0) because(0.0) of(0.0) pollution(1.0) caused(0.0) by(0.0) non-point(1.0) 
+source(1.0) pollution(1.0) .(0.0) It(0.0) does(0.0) not(0.0) have(0.0) what(0.0) I(0.0) consider(0.0) to(0.0) be(0.0) an(0.0) onerous(1.0) takings(1.0) provision(0.0) .(0.0) For(1.0) all(0.0) of(0.0) 
+those(0.0) reasons(1.0) ,(0.0) but(0.0) mostly(0.0) because(0.0) ultimately(1.0) when(0.0) you(0.0) are(0.0) managing(1.0) these(0.0) kinds(0.0) of(0.0) programs(1.0) and(0.0) trying(0.0) to(0.0) create(0.0) clean(1.0) 
+water(0.0) in(0.0) your(0.0) jurisdiction(1.0) ,(0.0) you(1.0) have(0.0) to(0.0) take(0.0) all(0.0) these(0.0) different(1.0) aspects(1.0) and(0.0) you(0.0) have(0.0) to(0.0) add(0.0) them(0.0) all(0.0) 
+up(0.0) .(0.0) In(0.0) the(0.0) aggregate(1.0) ,(0.0) eventually(0.0) you(0.0) begin(0.0) to(0.0) clean(1.0) your(0.0) water(0.0) and(0.0) you(0.0) get(0.0) rid(0.0) of(0.0) the(0.0) burning(0.0) 
+rivers(1.0) and(0.0) you(1.0) get(0.0) rid(0.0) of(0.0) where(0.0) the(0.0) fish(0.0) could(0.0) not(1.0) live(0.0) .(0.0) Eventually(1.0) you(0.0) get(0.0) to(0.0) the(0.0) point(0.0) where(0.0) 
+waters(0.0) are(0.0) swimmable(1.0) ,(0.0) and(0.0) you(0.0) get(0.0) to(0.0) the(0.0) point(0.0) where(0.0) our(0.0) children(0.0) can(0.0) enjoy(0.0) it(0.0) for(0.0) some(0.0) period(0.0) of(0.0) 
+time(0.0) into(0.0) their(0.0) futures(0.0) .(0.0) For(1.0) all(0.0) those(0.0) reasons(1.0) ,(0.0) I(0.0) do(0.0) support(0.0) the(0.0) bipartisan(0.0) substitute(1.0) .(0.0) I(0.0) would(1.0) encourage(1.0) 
+all(0.0) of(0.0) us(0.0) to(0.0) do(0.0) it(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Mr.	Chairman	rise	
+Boehlert	substitute	today	would	say	deal	respect	
+Delaware	environmental	
+think	actually	Clean	
+believe	substitute	piece	correcting	or	remedying	
+does	believe	substitute	
+wetlands	gives	control	
+wetlands	source	believe	preserves	
+Delaware	State	
+can	revolving	
+fund	infrastructure	
+sometimes	overlook	
+right	stormwater	
+961	vital	
+actually	down	Rehoboth	Beach	DE	stormwater	runoff	
+same	true	non-point	source	pollution	exact	same	
+actually	measures	pollution	non-point	
+source	pollution	onerous	takings	For	
+reasons	ultimately	managing	programs	clean	
+jurisdiction	you	different	aspects	
+aggregate	clean	
+rivers	you	not	Eventually	
+swimmable	
+For	reasons	substitute	would	encourage	
+
+
+reads % = 0.17827868852459017

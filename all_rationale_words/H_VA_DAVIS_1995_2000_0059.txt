@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) my(0.0) compliments(0.0) to(0.0) Chairman(0.0) Istook(1.0) for(0.0) the(0.0) time(0.0) and(0.0) energy(1.0) he(0.0) and(0.0) his(0.0) staff(0.0) have(0.0) once(0.0) again(0.0) devoted(0.0) to(0.0) 
+reviewing(0.0) the(0.0) D.C.(1.0) budget(1.0) and(0.0) bringing(0.0) this(0.0) bill(1.0) to(1.0) the(0.0) floor(0.0) .(0.0) Just(0.0) a(0.0) few(0.0) years(0.0) ago(0.0) ,(0.0) the(0.0) D.C.(1.0) 
+government(1.0) faced(0.0) a(0.0) financial(0.0) crisis(1.0) of(0.0) epic(1.0) proportions(1.0) .(0.0) The(0.0) situation(0.0) was(0.0) dire(0.0) :(0.0) the(0.0) District(0.0) could(0.0) not(0.0) deliver(0.0) basic(0.0) 
+services(0.0) ,(0.0) and(0.0) there(0.0) was(0.0) very(0.0) real(0.0) concern(0.0) that(0.0) it(0.0) would(0.0) run(0.0) out(0.0) of(0.0) cash(0.0) to(0.0) pay(1.0) its(0.0) debt(1.0) service(0.0) 
+and(0.0) meet(0.0) its(0.0) payroll(1.0) .(0.0) Today(0.0) ,(0.0) the(0.0) city(1.0) 's(0.0) population(1.0) is(0.0) stabilizing(0.0) ,(0.0) the(0.0) real(0.0) estate(0.0) market(0.0) is(0.0) up(0.0) 
+,(0.0) suburban(1.0) residents(1.0) are(0.0) making(0.0) more(0.0) leisure(0.0) trips(0.0) into(0.0) the(0.0) city(0.0) ,(0.0) and(0.0) jobs(0.0) have(0.0) increased(0.0) dramatically(0.0) .(0.0) Next(0.0) year(0.0) 
+the(0.0) Control(0.0) Board(0.0) will(0.0) go(0.0) into(0.0) a(0.0) dormant(0.0) state(0.0) ,(0.0) as(0.0) anticipated(0.0) in(0.0) legislation(1.0) we(0.0) passed(0.0) in(0.0) 1995(0.0) .(0.0) The(0.0) 
+city(1.0) has(0.0) balanced(0.0) its(0.0) budget(1.0) for(0.0) a(0.0) fourth(0.0) straight(0.0) year(0.0) and(0.0) its(0.0) leaders(0.0) are(0.0) showing(0.0) ,(0.0) with(0.0) only(0.0) a(0.0) handful(0.0) 
+of(0.0) exceptions(1.0) ,(0.0) that(0.0) they(0.0) are(0.0) focused(0.0) on(0.0) fostering(1.0) economic(1.0) growth(1.0) and(0.0) delivering(0.0) basic(0.0) services(0.0) .(0.0) With(0.0) the(0.0) guidance(0.0) of(0.0) 
+this(0.0) Congress(0.0) ,(0.0) D.C.(1.0) 's(0.0) elected(0.0) officials(0.0) implemented(0.0) tax(0.0) cuts(1.0) and(0.0) backed(0.0) the(0.0) procurement(1.0) and(0.0) regulatory(1.0) reforms(1.0) that(0.0) have(0.0) spawned(0.0) 
+the(0.0) renaissance(1.0) at(0.0) the(0.0) Nation(1.0) 's(0.0) Capital(0.0) .(0.0) As(0.0) an(0.0) editorial(1.0) in(0.0) The(0.0) Washington(1.0) Times(1.0) said(0.0) just(0.0) a(0.0) few(0.0) weeks(0.0) 
+ago(0.0) ,(0.0) the(0.0) face(0.0) of(0.0) D.C.(1.0) is(0.0) ,(0.0) indeed(0.0) ,(0.0) changing(0.0) .(0.0) This(0.0) budget(1.0) goes(0.0) a(0.0) long(0.0) way(0.0) toward(0.0) continuing(1.0) 
+the(0.0) tremendous(0.0) strides(0.0) made(0.0) in(0.0) the(0.0) Nation(1.0) 's(0.0) Capitol(0.0) over(0.0) the(0.0) past(0.0) six(0.0) years(0.0) .(0.0) It(0.0) funds(1.0) a(0.0) wide(0.0) number(0.0) 
+of(0.0) programs(1.0) that(0.0) will(0.0) greatly(0.0) enhance(0.0) the(0.0) quality(0.0) of(0.0) life(0.0) for(0.0) D.C.(1.0) residents(1.0) and(0.0) those(0.0) who(0.0) visit(0.0) and(0.0) work(0.0) in(0.0) 
+this(0.0) wonderful(0.0) city(1.0) --(0.0) from(0.0) enhanced(0.0) resources(1.0) for(0.0) foster(1.0) care(0.0) ,(0.0) drug(1.0) treatment(0.0) and(0.0) public(1.0) education(1.0) to(0.0) money(1.0) to(0.0) clean(1.0) 
+up(0.0) the(0.0) Anacostia(1.0) River(0.0) .(0.0) This(0.0) legislation(1.0) provides(0.0) full(0.0) and(0.0) vital(0.0) federal(1.0) funding(1.0) to(0.0) construct(0.0) a(0.0) Metrorail(0.0) station(0.0) on(0.0) New(0.0) 
+York(1.0) Avenue(1.0) .(0.0) There(0.0) are(0.0) funds(1.0) for(0.0) a(0.0) number(0.0) of(0.0) programs(1.0) to(0.0) bolster(1.0) opportunities(0.0) for(0.0) the(0.0) city(1.0) 's(0.0) youth(1.0) population(1.0) 
+,(0.0) including(0.0) $(0.0) 500,000(0.0) for(0.0) character(0.0) education(1.0) and(0.0) $(0.0) 250,000(0.0) for(0.0) youth(1.0) mentoring(1.0) programs(1.0) .(0.0) And(0.0) there(0.0) 's(0.0) much(0.0) more(0.0) 
+:(0.0) $(0.0) 1(0.0) million(0.0) for(0.0) the(0.0) Washington(1.0) Interfaith(1.0) Network(0.0) for(0.0) affordable(1.0) housing(1.0) in(0.0) low-income(1.0) neighborhoods(1.0) and(0.0) another(0.0) $(0.0) 250,000(0.0) for(0.0) 
+new(0.0) initiatives(1.0) to(0.0) battle(1.0) homelessness(1.0) .(0.0) $(0.0) 6(0.0) million(0.0) to(0.0) cover(0.0) the(0.0) city(1.0) 's(0.0) costs(1.0) associated(0.0) with(0.0) the(0.0) 2001(0.0) Presidential(0.0) 
+Inauguration(1.0) .(0.0) $(0.0) 250,000(0.0) for(0.0) Mayor(0.0) Williams(1.0) to(0.0) simplify(0.0) personnel(0.0) practices(0.0) ,(0.0) money(0.0) that(0.0) will(0.0) allow(0.0) the(0.0) city(1.0) to(0.0) build(0.0) 
+on(0.0) the(0.0) many(0.0) improvements(0.0) already(0.0) underway(0.0) in(0.0) the(0.0) area(0.0) of(0.0) management(0.0) reform(1.0) .(0.0) I(0.0) am(0.0) very(0.0) pleased(0.0) that(0.0) the(0.0) conference(0.0) 
+report(0.0) fully(0.0) funds(1.0) the(0.0) D.C.(1.0) College(0.0) Access(0.0) Program(0.0) --(0.0) a(0.0) program(0.0) created(0.0) by(0.0) legislation(0.0) I(0.0) authored(0.0) that(0.0) levels(0.0) the(0.0) playing(0.0) 
+field(0.0) for(0.0) D.C.(1.0) students(0.0) by(0.0) allowing(0.0) them(0.0) to(0.0) attend(0.0) state(0.0) colleges(1.0) and(0.0) universities(1.0) at(0.0) in-state(0.0) rates(0.0) .(0.0) This(0.0) funding(1.0) ensures(0.0) 
+that(0.0) the(0.0) program(0.0) will(0.0) continue(0.0) to(0.0) grow(0.0) ,(0.0) so(0.0) no(0.0) students(0.0) are(0.0) denied(1.0) the(0.0) opportunity(0.0) offered(0.0) to(0.0) those(0.0) who(0.0) 
+
+
+----- below are rationale words -----
+
+Istook	energy	
+D.C.	budget	bill	to	D.C.	
+government	crisis	epic	proportions	
+pay	debt	
+payroll	city	population	
+suburban	residents	
+legislation	
+city	budget	
+exceptions	fostering	economic	growth	
+D.C.	cuts	procurement	regulatory	reforms	
+renaissance	Nation	editorial	Washington	Times	
+D.C.	budget	continuing	
+Nation	funds	
+programs	D.C.	residents	
+city	resources	foster	drug	public	education	money	clean	
+Anacostia	legislation	federal	funding	
+York	Avenue	funds	programs	bolster	city	youth	population	
+education	youth	mentoring	programs	
+Washington	Interfaith	affordable	housing	low-income	neighborhoods	
+initiatives	battle	homelessness	city	costs	
+Inauguration	Williams	city	
+reform	
+funds	D.C.	
+D.C.	colleges	universities	funding	
+denied	
+
+reads % = 0.178

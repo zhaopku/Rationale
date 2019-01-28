@@ -1,0 +1,20 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) ,(0.0) simply(0.0) to(0.0) echo(0.0) the(0.0) sentiments(0.0) of(0.0) my(0.0) colleague(0.0) ,(0.0) 
+the(0.0) gentleman(0.0) from(0.0) Pennsylvania(1.0) .(0.0) What(0.0) we(0.0) are(0.0) talking(0.0) about(0.0) here(0.0) is(0.0) dealing(0.0) with(0.0) regulations(1.0) ,(0.0) not(0.0) allowing(0.0) regulations(1.0) to(0.0) 
+deal(0.0) with(0.0) us(0.0) .(0.0) The(0.0) House(0.0) version(1.0) allows(0.0) us(0.0) to(0.0) deal(0.0) with(0.0) those(0.0) regulations(1.0) .(0.0) The(0.0) Senate(0.0) version(0.0) permits(0.0) the(0.0) 
+regulatory(1.0) process(0.0) to(0.0) overwhelm(0.0) us(0.0) ,(0.0) which(0.0) it(0.0) now(0.0) does(0.0) ,(0.0) and(0.0) which(0.0) we(0.0) are(0.0) trying(0.0) to(0.0) rectify(0.0) .(0.0) Mr.(0.0) 
+Speaker(1.0) ,(0.0) I(0.0) yield(0.0) such(0.0) time(0.0) as(0.0) he(0.0) may(0.0) consume(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Washington(1.0) [(0.0) Mr.(0.0) Tate(1.0) ](0.0) .(0.0) 
+((0.0) Mr.(0.0) TATE(1.0) asked(0.0) and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) )(0.0) 
+
+
+----- below are rationale words -----
+
+
+Pennsylvania	regulations	regulations	
+version	regulations	
+regulatory	
+Speaker	Washington	Tate	
+TATE	
+
+reads % = 0.08547008547008547

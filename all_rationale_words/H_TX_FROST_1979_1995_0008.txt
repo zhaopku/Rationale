@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) for(0.0) the(0.0) purpose(0.0) of(0.0) debate(1.0) only(0.0) ,(0.0) I(0.0) yield(0.0) 5(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Massachusetts(1.0) [(0.0) Mr.(0.0) Moakley(1.0) 
+](0.0) ,(0.0) ranking(0.0) member(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Rules(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+debate	Massachusetts	Moakley	
+
+
+reads % = 0.0967741935483871

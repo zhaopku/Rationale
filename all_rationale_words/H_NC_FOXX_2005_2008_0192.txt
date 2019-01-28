@@ -1,0 +1,40 @@
+This is from a Republican
+----- below is the original text -----
+Well(0.0) ,(0.0) I(0.0) thank(0.0) my(0.0) colleague(0.0) ,(0.0) Congresswoman(1.0) Bachmann(1.0) from(1.0) Minnesota(1.0) .(0.0) And(0.0) I(0.0) want(0.0) to(0.0) say(0.0) she(0.0) has(0.0) boiled(0.0) it(0.0) 
+down(0.0) to(0.0) a(0.0) very(0.0) simple(0.0) fact(0.0) .(0.0) And(0.0) I(0.0) say(0.0) that(0.0) people(0.0) in(0.0) this(0.0) Congress(0.0) are(0.0) either(0.0) pro(0.0) American(0.0) energy(1.0) 
+or(0.0) anti(1.0) American(0.0) energy(1.0) .(0.0) And(0.0) I(0.0) think(0.0) we(0.0) know(0.0) the(0.0) difference(0.0) in(0.0) the(0.0) two(0.0) groups(0.0) of(0.0) folks(0.0) .(0.0) The(0.0) 
+people(0.0) who(0.0) do(0.0) n't(0.0) want(0.0) us(0.0) to(0.0) produce(0.0) energy(1.0) in(0.0) this(0.0) country(1.0) are(0.0) anti(1.0) American(0.0) energy(1.0) .(0.0) They(0.0) do(0.0) n't(0.0) 
+want(0.0) us(0.0) to(0.0) be(0.0) independent(0.0) of(0.0) these(0.0) foreign(1.0) countries(0.0) .(0.0) It(0.0) is(0.0) a(0.0) difficult(0.0) thing(0.0) for(0.0) me(0.0) to(0.0) understand(0.0) ,(0.0) 
+it(0.0) 's(0.0) a(0.0) difficult(0.0) thing(0.0) for(0.0) my(0.0) constituents(1.0) to(0.0) understand(0.0) .(0.0) And(0.0) as(0.0) our(0.0) colleague(0.0) ,(0.0) Mr.(0.0) Dent(1.0) from(0.0) Pennsylvania(1.0) 
+,(0.0) said(0.0) ,(0.0) we(0.0) want(0.0) all(0.0) those(0.0) alternatives(1.0) ,(0.0) but(0.0) they(0.0) only(0.0) produce(0.0) a(0.0) small(0.0) part(0.0) of(0.0) what(0.0) we're(0.0) going(0.0) 
+to(0.0) need(0.0) .(0.0) Perhaps(0.0) eventually(0.0) we(0.0) will(0.0) have(0.0) the(0.0) technology(0.0) to(0.0) produce(0.0) more(0.0) of(0.0) it(0.0) .(0.0) But(0.0) we(0.0) have(0.0) to(0.0) 
+increase(0.0) our(0.0) supply(1.0) of(0.0) gas(1.0) and(0.0) oil(1.0) and(0.0) other(0.0) fossil(1.0) fuels(1.0) to(0.0) get(0.0) us(0.0) through(0.0) this(0.0) situation(0.0) that(0.0) we(0.0) 're(0.0) 
+in(0.0) now(0.0) until(0.0) we(0.0) get(0.0) to(0.0) those(0.0) alternatives(1.0) .(0.0) And(0.0) certainly(0.0) we(0.0) want(0.0) them(0.0) ,(0.0) but(0.0) they(0.0) 're(0.0) a(0.0) small(0.0) 
+part(0.0) right(0.0) now(0.0) of(0.0) what(0.0) we(0.0) can(0.0) produce(0.0) .(0.0) Other(0.0) people(0.0) who(0.0) have(0.0) joined(0.0) us(0.0) tonight(0.0) include(0.0) my(0.0) great(0.0) colleague(0.0) 
+who(0.0) is(0.0) on(0.0) the(0.0) Constitution(1.0) Caucus(0.0) with(0.0) me(0.0) and(0.0) is(0.0) often(0.0) here(0.0) speaking(0.0) on(0.0) the(0.0) Constitution(1.0) ,(0.0) a(0.0) former(0.0) teacher(0.0) 
+from(0.0) the(0.0) State(0.0) of(0.0) Utah(1.0) .(0.0) Now(0.0) ,(0.0) former(0.0) teachers(0.0) like(0.0) Congressman(1.0) Bishop(1.0) and(0.0) I(0.0) often(0.0) have(0.0) tendencies(0.0) to(0.0) speak(0.0) 
+for(0.0) 50(0.0) minutes(0.0) at(0.0) a(0.0) time(0.0) ,(0.0) but(0.0) since(0.0) there(0.0) are(0.0) other(0.0) folks(0.0) here(0.0) tonight(0.0) ,(0.0) I(0.0) 'm(0.0) hoping(0.0) he(0.0) 
+is(0.0) not(0.0) going(0.0) to(0.0) speak(0.0) for(0.0) 50(0.0) minutes(0.0) .(0.0) But(0.0) he(0.0) is(0.0) going(0.0) to(0.0) be(0.0) very(0.0) eloquent(0.0) in(0.0) what(0.0) he(0.0) 
+shares(0.0) with(0.0) us(0.0) .(0.0) I(0.0) yield(0.0) to(0.0) my(0.0) colleague(0.0) ,(0.0) Mr.(0.0) Bishop(1.0) from(0.0) Utah(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Congresswoman	Bachmann	from	Minnesota	
+energy	
+anti	energy	
+energy	country	anti	energy	
+foreign	
+constituents	Dent	Pennsylvania	
+alternatives	
+
+supply	gas	oil	fossil	fuels	
+alternatives	
+
+Constitution	Constitution	
+Utah	Congressman	Bishop	
+
+
+Bishop	
+
+reads % = 0.08860759493670886

@@ -1,0 +1,56 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) me(0.0) the(0.0) time(0.0) ,(0.0) Madam(0.0) Chairman(1.0) .(0.0) Madam(0.0) Chairman(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) support(0.0) 
+of(0.0) the(0.0) freshman(1.0) bill(1.0) ,(0.0) the(0.0) Bipartisan(1.0) Campaign(1.0) Integrity(1.0) Act(1.0) of(0.0) 1997(0.0) .(0.0) With(0.0) great(0.0) respect(0.0) for(0.0) the(0.0) gentlewoman(0.0) from(0.0) 
+Kentucky(1.0) who(0.0) just(0.0) spoke(0.0) recently(0.0) ,(0.0) and(0.0) another(0.0) freshman(0.0) Member(0.0) ,(0.0) I(0.0) am(0.0) one(0.0) of(0.0) those(0.0) self-(0.0) proclaimed(1.0) reformers(1.0) .(0.0) 
+There(0.0) has(0.0) been(0.0) a(0.0) lot(0.0) of(0.0) discussion(0.0) about(0.0) the(0.0) Shays-Meehan(1.0) bill(1.0) .(0.0) One(0.0) part(0.0) that(0.0) I(0.0) happen(0.0) to(0.0) agree(0.0) with(0.0) 
+the(0.0) gentlewoman(0.0) from(0.0) Kentucky(1.0) is(0.0) that(0.0) even(0.0) with(0.0) the(0.0) motive(1.0) ,(0.0) the(0.0) good(0.0) motive(0.0) that(0.0) I(0.0) think(0.0) is(0.0) underlying(0.0) the(0.0) 
+bill(1.0) ,(0.0) I(0.0) think(0.0) it(0.0) is(0.0) unconstitutional(1.0) .(0.0) I(0.0) think(0.0) that(0.0) it(0.0) is(0.0) an(0.0) unconstitutional(1.0) infringement(1.0) upon(0.0) the(0.0) right(0.0) of(0.0) 
+free(0.0) speech(0.0) .(0.0) The(0.0) freshman(1.0) bill(0.0) ,(0.0) I(0.0) think(0.0) ,(0.0) cuts(1.0) a(0.0) swath(0.0) down(0.0) the(0.0) middle(1.0) .(0.0) As(0.0) newly(0.0) elected(1.0) 
+Members(0.0) of(0.0) Congress(0.0) just(0.0) off(0.0) the(0.0) 1996(0.0) campaign(0.0) trail(0.0) ,(0.0) our(0.0) class(0.0) is(0.0) bringing(0.0) a(0.0) fresh(0.0) look(0.0) at(0.0) reforming(1.0) the(0.0) 
+way(0.0) that(0.0) Federal(1.0) elections(1.0) are(0.0) financed(1.0) in(0.0) this(0.0) country(1.0) .(0.0) Increasingly(0.0) the(0.0) American(0.0) people(0.0) are(0.0) losing(0.0) faith(1.0) .(0.0) They(0.0) are(0.0) 
+losing(0.0) confidence(0.0) in(0.0) the(0.0) current(0.0) system(0.0) of(0.0) campaign(1.0) financing(1.0) which(0.0) reflects(0.0) upon(0.0) those(0.0) of(0.0) us(0.0) who(0.0) come(0.0) here(0.0) .(0.0) The(0.0) 
+freshman(1.0) bill(1.0) is(0.0) truly(0.0) a(0.0) bipartisan(1.0) bill(1.0) .(0.0) It(0.0) was(0.0) crafted(0.0) to(0.0) meet(0.0) the(0.0) needs(0.0) of(0.0) reform(1.0) without(0.0) unfairly(1.0) impacting(1.0) 
+one(0.0) side(0.0) over(0.0) the(0.0) other(0.0) .(0.0) With(0.0) all(0.0) due(0.0) respect(0.0) ,(0.0) last(0.0) night(0.0) we(0.0) had(0.0) a(0.0) very(0.0) passionate(0.0) debate(1.0) on(0.0) 
+the(0.0) rule(1.0) and(0.0) the(0.0) majority(1.0) whip(0.0) ,(0.0) right(0.0) where(0.0) I(0.0) am(0.0) standing(0.0) ,(0.0) talked(0.0) very(0.0) passionately(0.0) about(0.0) the(0.0) First(0.0) Amendment(1.0) 
+.(0.0) But(0.0) with(0.0) all(0.0) due(0.0) respect(0.0) ,(0.0) there(0.0) is(0.0) no(0.0) constitutional(1.0) protection(1.0) to(0.0) soft(0.0) money(1.0) .(0.0) There(0.0) is(0.0) nothing(0.0) in(0.0) 
+the(0.0) Constitution(1.0) that(0.0) says(0.0) this(0.0) unregulated(1.0) ,(0.0) nondisclosed(0.0) ,(0.0) big(0.0) money(1.0) in(0.0) politics(1.0) somehow(0.0) enjoys(0.0) the(0.0) protections(1.0) of(0.0) the(0.0) First(0.0) 
+Amendment(1.0) of(0.0) the(0.0) United(0.0) States(0.0) Constitution(1.0) .(0.0) The(0.0) freshman(1.0) bill(0.0) bans(1.0) soft(0.0) money(1.0) .(0.0) The(0.0) other(0.0) area(0.0) that(0.0) I(0.0) think(0.0) 
+that(0.0) our(0.0) bill(1.0) is(0.0) actually(0.0) an(0.0) improvement(0.0) over(0.0) other(0.0) measures(1.0) that(0.0) will(0.0) be(0.0) fully(0.0) debated(1.0) after(0.0) we(0.0) get(0.0) back(0.0) from(0.0) 
+our(0.0) recess(1.0) is(0.0) on(0.0) the(0.0) issue(0.0) of(0.0) issue(0.0) advocacy(1.0) .(0.0) Where(0.0) this(0.0) bill(1.0) is(0.0) an(0.0) improvement(0.0) over(0.0) the(0.0) Shays-Meehan(1.0) bill(1.0) 
+is(1.0) simply(1.0) we(0.0) are(0.0) asking(0.0) for(0.0) disclosure(1.0) .(0.0) It(0.0) is(0.0) interesting(0.0) that(0.0) when(0.0) you(0.0) have(0.0) a(0.0) broadcast(0.0) commercial(0.0) either(0.0) on(0.0) 
+the(0.0) radio(0.0) or(0.0) television(0.0) ,(0.0) the(0.0) FCC(1.0) requires(0.0) that(0.0) the(0.0) advertisement(0.0) 's(0.0) sponsor(0.0) must(0.0) be(0.0) disclosed(0.0) .(0.0) Should(0.0) we(0.0) not(0.0) 
+at(0.0) least(0.0) require(0.0) some(0.0) disclosure(1.0) from(0.0) the(0.0) FEC(1.0) when(0.0) you(0.0) are(0.0) engaging(0.0) in(0.0) broadcast(1.0) ?(0.0) We(0.0) are(0.0) not(0.0) asking(0.0) for(0.0) 
+disclosure(1.0) of(0.0) who(0.0) has(0.0) contributed(0.0) to(0.0) these(0.0) particular(0.0) third(0.0) party(0.0) groups(0.0) .(0.0) We(0.0) simply(0.0) are(0.0) asking(0.0) for(0.0) full(0.0) disclosure(1.0) .(0.0) 
+That(0.0) is(0.0) why(0.0) I(0.0) think(0.0) that(0.0) this(0.0) freshman(1.0) bill(1.0) is(0.0) the(0.0) best(0.0) measure(0.0) .(0.0) I(0.0) urge(0.0) its(0.0) support(0.0) .(0.0) Madam(0.0) 
+Chairman(1.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) me(0.0) the(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	
+freshman	bill	Bipartisan	Campaign	Integrity	Act	
+Kentucky	proclaimed	reformers	
+Shays-Meehan	bill	
+Kentucky	motive	
+bill	unconstitutional	unconstitutional	infringement	
+freshman	cuts	middle	elected	
+reforming	
+Federal	elections	financed	country	faith	
+campaign	financing	
+freshman	bill	bipartisan	bill	reform	unfairly	impacting	
+debate	
+rule	majority	Amendment	
+constitutional	protection	money	
+Constitution	unregulated	money	politics	protections	
+Amendment	Constitution	freshman	bans	money	
+bill	measures	debated	
+recess	advocacy	bill	Shays-Meehan	bill	
+is	simply	disclosure	
+FCC	
+disclosure	FEC	broadcast	
+disclosure	disclosure	
+freshman	bill	
+Chairman	
+
+reads % = 0.15644820295983086

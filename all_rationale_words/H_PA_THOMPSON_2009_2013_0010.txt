@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) it(0.0) 's(0.0) been(0.0) almost(0.0) 300(0.0) days(0.0) since(0.0) the(0.0) House(0.0) first(0.0) acted(0.0) to(0.0) replace(0.0) sequestration(1.0) with(0.0) targeted(0.0) reforms(1.0) that(0.0) achieve(0.0) 
+the(0.0) same(0.0) level(0.0) of(0.0) deficit(1.0) reduction(1.0) without(0.0) harming(1.0) the(0.0) economy(1.0) ,(0.0) yet(0.0) the(0.0) Senate(0.0) has(0.0) failed(0.0) to(0.0) act(0.0) .(0.0) The(0.0) 
+administration(1.0) states(1.0) that(0.0) the(0.0) Commonwealth(0.0) of(0.0) Pennsylvania(1.0) is(0.0) set(0.0) to(0.0) feel(0.0) the(0.0) impact(0.0) of(0.0) sequestration(1.0) more(0.0) than(0.0) most(0.0) States(0.0) yet(0.0) 
+has(0.0) offered(0.0) no(0.0) constructive(0.0) plan(1.0) forward(0.0) .(0.0) The(0.0) House(0.0) has(0.0) put(0.0) forward(0.0) two(0.0) concrete(0.0) proposals(1.0) for(0.0) a(0.0) commonsense(1.0) path(0.0) to(0.0) 
+deficit(1.0) reduction(1.0) that(0.0) will(0.0) not(0.0) harm(0.0) our(0.0) national(1.0) security(0.0) and(0.0) will(0.0) not(0.0) harm(0.0) our(0.0) fragile(1.0) economic(1.0) recovery(1.0) .(0.0) We(0.0) all(0.0) 
+must(0.0) make(0.0) sacrifices(0.0) in(0.0) order(0.0) to(0.0) reduce(1.0) the(0.0) debt(1.0) and(0.0) fix(0.0) Washington(1.0) ,(0.0) for(0.0) we(0.0) can(0.0) no(0.0) longer(0.0) spend(1.0) $(0.0) 
+1(0.0) trillion(1.0) more(0.0) than(0.0) we(0.0) take(0.0) in(0.0) each(0.0) year(0.0) .(0.0) Raising(1.0) taxes(1.0) to(0.0) chase(0.0) after(0.0) trillion(1.0) dollar(1.0) deficits(1.0) ,(0.0) as(0.0) 
+the(0.0) President(1.0) suggests(0.0) ,(0.0) is(0.0) a(0.0) recipe(0.0) for(0.0) economic(1.0) decline(1.0) .(0.0) Spending(1.0) is(0.0) the(0.0) problem(0.0) .(0.0) It(0.0) 's(0.0) time(0.0) for(0.0) 
+the(0.0) President(1.0) to(0.0) stop(0.0) campaigning(1.0) and(0.0) call(0.0) on(0.0) the(0.0) Democrat-led(1.0) Senate(0.0) to(1.0) act(1.0) .(0.0) No(0.0) more(0.0) 11th-hour(1.0) negotiations(1.0) ;(0.0) no(0.0) 
+more(0.0) unnecessary(1.0) harm(1.0) to(0.0) families(0.0) and(0.0) small(0.0) businesses(1.0) .(0.0) It(0.0) 's(0.0) time(0.0) for(0.0) us(0.0) to(0.0) come(0.0) together(0.0) and(0.0) work(0.0) on(0.0) 
+serious(0.0) solutions(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+sequestration	reforms	
+deficit	reduction	harming	economy	
+administration	states	Pennsylvania	sequestration	
+plan	proposals	commonsense	
+deficit	reduction	national	fragile	economic	recovery	
+reduce	debt	Washington	spend	
+trillion	Raising	taxes	trillion	dollar	deficits	
+President	economic	decline	Spending	
+President	campaigning	Democrat-led	to	act	11th-hour	negotiations	
+unnecessary	harm	businesses	
+
+
+reads % = 0.2107843137254902

@@ -1,0 +1,40 @@
+This is from a Republican
+----- below is the original text -----
+If(0.0) the(0.0) gentleman(0.0) will(0.0) yield(0.0) further(0.0) ,(0.0) let(0.0) me(0.0) just(1.0) say(1.0) ,(0.0) there(0.0) are(0.0) some(0.0) people(0.0) that(0.0) are(0.0) talking(0.0) about(0.0) different(0.0) 
+forms(1.0) of(0.0) reining(1.0) in(0.0) the(0.0) Federal(1.0) judiciary(1.0) .(0.0) I(0.0) know(1.0) that(0.0) the(0.0) whip(0.0) has(0.0) been(0.0) talking(0.0) about(0.0) certain(1.0) things(0.0) .(0.0) 
+I(0.0) would(1.0) like(0.0) to(0.0) see(0.0) us(0.0) do(0.0) it(0.0) in(0.0) a(0.0) calm(0.0) ,(0.0) rational(1.0) manner(0.0) .(0.0) I(0.0) think(1.0) it(0.0) is(0.0) time(0.0) 
+for(0.0) us(0.0) to(0.0) come(0.0) together(0.0) as(0.0) a(0.0) country(1.0) and(0.0) as(0.0) a(0.0) legislative(1.0) body(0.0) and(0.0) reexamine(1.0) the(0.0) realities(1.0) of(0.0) the(0.0) judiciary(1.0) 
+in(0.0) the(0.0) late(0.0) 20th(0.0) century(1.0) and(0.0) recognize(1.0) that(0.0) things(1.0) have(0.0) moved(0.0) in(0.0) a(0.0) certain(0.0) direction(0.0) ,(0.0) a(0.0) bit(1.0) away(0.0) from(0.0) 
+what(1.0) our(0.0) Founding(1.0) Fathers(1.0) anticipated(1.0) ,(0.0) and(0.0) get(0.0) Congress(0.0) to(0.0) start(0.0) looking(0.0) into(0.0) the(0.0) issue(0.0) of(0.0) judicial(1.0) activism(1.0) ,(0.0) which(0.0) 
+we(0.0) have(0.0) heard(1.0) hues(1.0) and(0.0) cries(1.0) about(0.0) for(0.0) many(0.0) years(0.0) now(0.0) ,(0.0) and(0.0) just(0.0) see(0.0) if(0.0) judicial(1.0) activism(1.0) really(0.0) does(1.0) 
+pose(0.0) the(0.0) type(0.0) of(0.0) threat(0.0) to(0.0) the(0.0) Constitution(0.0) that(0.0) many(0.0) of(0.0) us(0.0) believe(0.0) it(0.0) does(0.0) ,(0.0) and(0.0) ,(0.0) if(0.0) so(0.0) 
+,(0.0) hopefully(1.0) ,(0.0) we(0.0) can(0.0) enact(1.0) some(0.0) commonsense(1.0) solutions(1.0) without(0.0) going(0.0) after(0.0) any(1.0) judge(1.0) ,(0.0) without(0.0) attacking(1.0) any(1.0) particular(0.0) viewpoint(1.0) 
+and(0.0) just(1.0) have(0.0) a(0.0) thoughtful(1.0) examination(0.0) of(0.0) what(0.0) type(0.0) of(0.0) institutional(1.0) changes(1.0) that(0.0) Republicans(1.0) and(0.0) Democrats(1.0) and(0.0) conservatives(1.0) and(0.0) liberals(1.0) 
+can(0.0) all(0.0) come(0.0) together(0.0) on(0.0) to(0.0) make(0.0) sure(1.0) that(0.0) the(0.0) judiciary(1.0) does(0.0) its(0.0) job(1.0) ,(0.0) does(1.0) the(0.0) job(1.0) that(0.0) our(0.0) 
+Founders(1.0) intended(1.0) it(0.0) to(0.0) do(0.0) and(0.0) ,(0.0) while(0.0) doing(0.0) that(0.0) ,(0.0) we(0.0) maintain(0.0) a(0.0) clear(1.0) separation(0.0) of(0.0) powers(1.0) between(0.0) all(0.0) 
+branches(1.0) .(0.0) I(0.0) can(1.0) tell(0.0) the(0.0) gentleman(0.0) that(0.0) right(1.0) now(0.0) the(0.0) judiciary(1.0) may(0.0) be(0.0) perceived(1.0) as(0.0) liberal(1.0) .(0.0) But(0.0) in(0.0) 
+the(0.0) years(0.0) to(0.0) come(0.0) ,(0.0) there(0.0) certainly(0.0) will(0.0) be(0.0) a(0.0) shift(1.0) to(0.0) the(0.0) right(1.0) ,(0.0) and(0.0) at(0.0) that(0.0) time(0.0) I(0.0) 
+would(1.0) certainly(0.0) hope(0.0) that(0.0) the(0.0) more(0.0) liberal(1.0) Members(0.0) in(0.0) this(0.0) legislative(1.0) body(0.0) would(1.0) also(1.0) be(0.0) protected(1.0) in(0.0) the(0.0) way(1.0) that(0.0) 
+our(0.0) Founders(1.0) would(0.0) want(1.0) their(0.0) legislative(1.0) items(0.0) to(0.0) be(0.0) protected(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+just	say	
+forms	reining	Federal	judiciary	know	certain	
+would	rational	think	
+country	legislative	reexamine	realities	judiciary	
+century	recognize	things	bit	
+what	Founding	Fathers	anticipated	judicial	activism	
+heard	hues	cries	judicial	activism	does	
+
+hopefully	enact	commonsense	solutions	any	judge	attacking	any	viewpoint	
+just	thoughtful	institutional	changes	Republicans	Democrats	conservatives	liberals	
+sure	judiciary	job	does	job	
+Founders	intended	clear	powers	
+branches	can	right	judiciary	perceived	liberal	
+shift	right	
+would	liberal	legislative	would	also	protected	way	
+Founders	want	legislative	protected	
+
+reads % = 0.2467948717948718

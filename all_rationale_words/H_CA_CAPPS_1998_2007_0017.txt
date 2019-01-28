@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) thank(0.0) my(0.0) colleague(0.0) for(0.0) yielding(0.0) ,(0.0) and(0.0) it(0.0) is(0.0) such(0.0) a(0.0) pleasure(0.0) to(0.0) rise(0.0) in(0.0) strong(0.0) support(0.0) 
+of(0.0) H.(0.0) Res(1.0) .(0.0) 149(0.0) and(0.0) to(0.0) commend(0.0) my(0.0) colleague(0.0) from(0.0) Illinois(1.0) ,(0.0) Jan(0.0) Schakowsky(1.0) ,(0.0) for(0.0) bringing(0.0) attention(0.0) through(0.0) 
+this(0.0) resolution(1.0) to(0.0) International(0.0) Women(1.0) 's(0.0) Day(0.0) ,(0.0) and(0.0) to(0.0) thank(0.0) my(0.0) colleagues(0.0) here(0.0) in(0.0) the(0.0) House(0.0) for(0.0) their(0.0) support(0.0) 
+of(0.0) this(0.0) resolution(1.0) .(0.0) As(0.0) my(0.0) friend(0.0) from(0.0) Illinois(1.0) has(0.0) pointed(0.0) out(0.0) ,(0.0) with(0.0) today(0.0) 's(0.0) passage(1.0) of(0.0) this(0.0) resolution(1.0) 
+,(0.0) the(0.0) Congressional(1.0) Caucus(1.0) for(1.0) Women(1.0) 's(0.0) Issues(0.0) is(0.0) passing(0.0) the(0.0) first(0.0) item(0.0) on(0.0) its(0.0) must-pass(1.0) agenda(1.0) list(0.0) for(0.0) the(0.0) 
+110th(0.0) Congress(0.0) .(0.0) What(0.0) a(0.0) fitting(0.0) way(0.0) that(0.0) we(0.0) begin(0.0) this(0.0) session(0.0) and(0.0) acknowledge(0.0) the(0.0) importance(0.0) of(0.0) International(0.0) Women(1.0) 's(0.0) 
+Day(0.0) and(0.0) the(0.0) significance(0.0) of(0.0) it(0.0) in(0.0) our(0.0) country(1.0) and(0.0) around(0.0) the(0.0) world(0.0) .(0.0) As(0.0) we(0.0) look(0.0) around(0.0) this(0.0) world(0.0) 
+and(0.0) we(0.0) look(0.0) here(0.0) at(0.0) home(0.0) ,(0.0) we(0.0) see(0.0) that(0.0) women(1.0) are(0.0) reaching(0.0) the(0.0) highest(0.0) levels(0.0) of(0.0) power(0.0) in(0.0) many(0.0) 
+parts(0.0) of(0.0) the(0.0) world(0.0) and(0.0) with(0.0) our(0.0) own(0.0) country(1.0) as(0.0) well(0.0) .(0.0) They(0.0) are(0.0) being(0.0) elected(0.0) and(0.0) appointed(0.0) into(0.0) positions(0.0) 
+previously(0.0) reserved(0.0) only(0.0) for(0.0) men(0.0) .(0.0) We(0.0) see(0.0) this(0.0) in(0.0) our(0.0) communities(1.0) ,(0.0) in(0.0) business(0.0) positions(0.0) and(0.0) education(1.0) and(0.0) in(0.0) 
+civic(1.0) life(0.0) and(0.0) we(0.0) see(0.0) it(0.0) here(0.0) in(0.0) Congress(0.0) .(0.0) As(0.0) has(0.0) been(0.0) noted(0.0) ,(0.0) we(0.0) have(0.0) for(0.0) the(0.0) first(0.0) 
+time(0.0) in(0.0) our(0.0) 200-year(1.0) history(0.0) as(0.0) a(0.0) democracy(1.0) we(0.0) have(0.0) a(0.0) woman(0.0) Speaker(0.0) of(0.0) the(0.0) House(0.0) .(0.0) We(0.0) have(0.0) in(0.0) 
+this(0.0) 110th(1.0) Congress(0.0) the(0.0) most(0.0) women(1.0) who(0.0) have(0.0) every(0.0) served(0.0) in(0.0) this(0.0) House(0.0) .(0.0) The(0.0) Senate(0.0) can(0.0) say(0.0) the(0.0) same(0.0) 
+this(0.0) year(0.0) .(0.0) At(0.0) the(0.0) same(0.0) time(0.0) ,(0.0) today(0.0) ,(0.0) women(1.0) remain(0.0) around(0.0) the(0.0) world(0.0) and(0.0) here(0.0) in(0.0) this(0.0) country(1.0) 
+more(0.0) likely(0.0) to(0.0) live(0.0) in(0.0) poverty(1.0) ,(0.0) lack(1.0) education(1.0) ,(0.0) be(0.0) victimized(1.0) by(0.0) violence(1.0) than(0.0) ever(0.0) before(0.0) .(0.0) It(0.0) is(0.0) 
+my(0.0) pleasure(0.0) and(0.0) privilege(1.0) to(0.0) serve(0.0) on(0.0) the(0.0) House(0.0) Democracy(1.0) Assistance(1.0) Commission(0.0) .(0.0) In(0.0) that(0.0) capacity(0.0) ,(0.0) I(0.0) have(0.0) visited(0.0) 
+several(0.0) emerging(0.0) democracies(1.0) and(0.0) have(0.0) met(0.0) with(0.0) parliamentarians(0.0) of(0.0) other(0.0) countries(0.0) where(0.0) these(0.0) democracies(1.0) are(0.0) emerging(0.0) .(0.0) In(0.0) each(0.0) case(0.0) 
+,(0.0) it(0.0) is(0.0) the(0.0) women(1.0) Members(0.0) who(0.0) reach(0.0) out(0.0) to(0.0) me(0.0) on(0.0) behalf(0.0) of(0.0) their(0.0) sisters(0.0) throughout(0.0) their(0.0) country(1.0) ,(0.0) 
+and(0.0) note(0.0) with(0.0) dismay(0.0) that(0.0) they(0.0) have(0.0) so(0.0) many(0.0) challenges(0.0) to(0.0) meet(0.0) the(0.0) needs(0.0) of(0.0) the(0.0) women(1.0) that(0.0) they(0.0) serve(0.0) 
+.(0.0) I(0.0) was(0.0) especially(0.0) touched(0.0) when(0.0) I(0.0) visited(0.0) the(0.0) women(1.0) of(0.0) Afghanistan(1.0) in(0.0) their(0.0) 1-year-old(1.0) democracy(1.0) who(0.0) have(0.0) struggled(0.0) over(0.0) 
+the(0.0) years(0.0) and(0.0) are(0.0) still(0.0) struggling(0.0) and(0.0) are(0.0) so(0.0) determined(0.0) ,(0.0) despite(0.0) the(0.0) extreme(0.0) oppression(1.0) by(0.0) the(0.0) Taliban(1.0) ,(0.0) determined(0.0) 
+to(0.0) take(0.0) their(0.0) role(0.0) in(0.0) the(0.0) parliament(1.0) .(0.0) Both(0.0) threats(0.0) on(0.0) their(0.0) lives(0.0) and(0.0) harassment(1.0) and(0.0) violence(1.0) have(0.0) marred(1.0) that(0.0) 
+passage(1.0) .(0.0) Determined(0.0) to(0.0) make(0.0) a(0.0) better(0.0) life(0.0) for(0.0) themselves(0.0) and(0.0) their(0.0) children(0.0) .(0.0) Let(0.0) me(0.0) call(0.0) out(0.0) a(0.0) similar(0.0) 
+kind(0.0) of(0.0) situation(0.0) ,(0.0) a(0.0) grassroots(1.0) networking(0.0) that(0.0) I(0.0) have(0.0) seen(0.0) and(0.0) we(0.0) have(0.0) all(0.0) experienced(0.0) around(0.0) this(0.0) world(0.0) today(0.0) 
+,(0.0) networking(0.0) to(0.0) provide(0.0) microloans(1.0) from(0.0) woman(1.0) to(0.0) woman(0.0) ,(0.0) as(0.0) is(0.0) one(0.0) of(0.0) the(0.0) nonprofit(1.0) organizations(0.0) called(0.0) ,(0.0) 
+
+
+----- below are rationale words -----
+
+
+Res	Illinois	Schakowsky	
+resolution	Women	
+resolution	Illinois	passage	resolution	
+Congressional	Caucus	for	Women	must-pass	agenda	
+Women	
+country	
+women	
+country	
+communities	education	
+civic	
+200-year	democracy	
+110th	women	
+women	country	
+poverty	lack	education	victimized	violence	
+privilege	Democracy	Assistance	
+democracies	democracies	
+women	country	
+women	
+women	Afghanistan	1-year-old	democracy	
+oppression	Taliban	
+parliament	harassment	violence	marred	
+passage	
+grassroots	
+microloans	woman	nonprofit	
+
+reads % = 0.112

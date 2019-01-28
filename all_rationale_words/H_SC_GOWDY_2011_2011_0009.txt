@@ -1,0 +1,16 @@
+This is from a Republican
+----- below is the original text -----
+While(0.0) my(0.0) colleague(0.0) was(0.0) talking(0.0) so(0.0) eloquently(0.0) in(0.0) defense(1.0) of(0.0) freedom(1.0) ,(0.0) not(0.0) in(0.0) defense(1.0) of(0.0) South(1.0) Carolina(0.0) ,(0.0) but(0.0) in(0.0) 
+defense(1.0) of(0.0) freedom(1.0) and(0.0) the(0.0) freedom(1.0) to(0.0) pursue(0.0) the(0.0) free(0.0) market(0.0) ,(0.0) something(0.0) as(0.0) fundamental(1.0) as(0.0) that(0.0) ,(0.0) we(0.0) have(0.0) 
+been(0.0) joined(0.0) by(0.0) our(0.0) colleague(0.0) from(0.0) South(0.0) Carolina(0.0) ,(0.0) Congressman(1.0) Jeff(1.0) Duncan(1.0) ,(0.0) and(0.0) I(0.0) would(0.0) yield(0.0) him(0.0) such(0.0) time(0.0) 
+as(0.0) he(0.0) may(0.0) consume(0.0) on(0.0) this(0.0) issue(0.0) and(0.0) any(0.0) other(0.0) issue(0.0) on(0.0) his(0.0) heart(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+defense	freedom	defense	South	
+defense	freedom	freedom	fundamental	
+Congressman	Jeff	Duncan	
+
+
+reads % = 0.14473684210526316

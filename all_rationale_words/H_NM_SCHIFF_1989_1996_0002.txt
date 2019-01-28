@@ -1,0 +1,18 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) since(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) mentioned(0.0) my(0.0) name(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) say(0.0) that(0.0) the(0.0) Republican(1.0) side(1.0) believes(1.0) that(1.0) 
+it(1.0) has(1.0) provided(1.0) sufficient(1.0) funds(1.0) for(1.0) Medicare(1.0) .(1.0) We(1.0) believe(1.0) that(1.0) the(0.0) Medicare(1.0) level(0.0) of(0.0) funding(1.0) we(0.0) proposed(1.0) is(0.0) exactly(0.0) 
+what(0.0) the(0.0) President(1.0) proposed(1.0) last(0.0) year(0.0) in(0.0) his(0.0) health(1.0) care(0.0) reform(1.0) proposal(1.0) .(0.0) The(0.0) point(0.0) is(0.0) ,(0.0) until(0.0) we(0.0) get(0.0) 
+the(0.0) President(1.0) 's(0.0) specific(0.0) numbers(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) we(0.0) will(0.0) never(0.0) know(0.0) how(0.0) much(0.0) he(0.0) thinks(0.0) is(0.0) sufficient(0.0) funding(1.0) 
+for(0.0) Medicare(1.0) and(0.0) other(0.0) programs(1.0) and(0.0) how(0.0) it(0.0) differs(0.0) from(0.0) ours(0.0) ,(0.0) and(0.0) that(0.0) is(0.0) our(0.0) point(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Republican	side	believes	that	
+it	has	provided	sufficient	funds	for	Medicare	.	We	believe	that	Medicare	funding	proposed	
+President	proposed	health	reform	proposal	
+President	Speaker	funding	
+Medicare	programs	
+
+reads % = 0.2828282828282828

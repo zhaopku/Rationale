@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) The(0.0) bill(0.0) before(1.0) the(0.0) House(0.0) today(1.0) is(0.0) one(0.0) that(0.0) 
+will(0.0) provide(0.0) much(0.0) needed(0.0) transparency(1.0) to(0.0) the(0.0) FDIC(1.0) ,(0.0) the(0.0) Federal(1.0) Reserve(0.0) ,(0.0) and(0.0) the(0.0) OCC(0.0) bank(1.0) examination(0.0) and(0.0) resolution(0.0) 
+procedures(0.0) .(0.0) First(1.0) ,(0.0) I(0.0) 'd(1.0) like(0.0) to(0.0) thank(0.0) Chairman(1.0) Bachus(0.0) and(0.0) Subcommittee(0.0) Chairwoman(0.0) Capito(1.0) ,(0.0) Ranking(1.0) Member(0.0) Frank(1.0) ,(0.0) 
+and(0.0) Subcommittee(0.0) Ranking(1.0) Member(0.0) Maloney(1.0) for(0.0) their(0.0) support(0.0) of(0.0) H.R(0.0) .(0.0) 2056(1.0) .(0.0) I(0.0) 'd(1.0) also(1.0) like(0.0) to(0.0) thank(0.0) Senator(1.0) 
+Chambliss(1.0) and(0.0) his(0.0) staff(0.0) for(0.0) working(0.0) to(0.0) pass(1.0) this(0.0) bill(0.0) on(0.0) the(0.0) Senate(1.0) side(0.0) .(0.0) We(0.0) are(0.0) pleased(0.0) to(0.0) have(0.0) 
+an(0.0) agreement(1.0) with(0.0) the(0.0) other(0.0) Chamber(0.0) ,(0.0) which(0.0) is(0.0) highly(0.0) unusual(1.0) ,(0.0) and(0.0) look(0.0) forward(0.0) to(0.0) the(0.0) outcome(1.0) of(0.0) this(0.0) 
+study(0.0) .(0.0) As(0.0) I(0.0) have(0.0) said(1.0) many(0.0) times(0.0) before(1.0) ,(0.0) there(0.0) is(0.0) no(0.0) greater(0.0) threat(0.0) to(0.0) our(0.0) communities(0.0) than(0.0) bank(1.0) 
+failures(0.0) ,(0.0) especially(1.0) in(0.0) my(0.0) State(1.0) of(0.0) Georgia(1.0) .(0.0) Since(0.0) the(0.0) House(0.0) last(1.0) debated(0.0) this(0.0) bill(0.0) in(0.0) July(0.0) ,(0.0) more(0.0) 
+banks(1.0) in(0.0) Georgia(1.0) have(0.0) been(0.0) closed(0.0) by(0.0) the(0.0) regulators(1.0) .(0.0) Now(0.0) 73(1.0) banks(1.0) are(0.0) no(0.0) longer(0.0) serving(0.0) their(0.0) communities(0.0) ,(0.0) 
+and(0.0) 22(1.0) banks(1.0) alone(1.0) have(0.0) failed(0.0) in(0.0) 2011(0.0) .(0.0) Sadly(1.0) ,(0.0) there(0.0) are(0.0) some(0.0) communities(0.0) in(0.0) my(0.0) district(1.0) that(0.0) are(0.0) 
+no(0.0) longer(0.0) served(1.0) by(0.0) a(0.0) community(1.0) bank(0.0) .(0.0) I(0.0) have(0.0) often(0.0) referenced(1.0) the(0.0) so-called(1.0) ``(0.0) ten(0.0) over(0.0) ten(0.0) .(0.0) ''(0.0) 
+These(0.0) are(0.0) the(0.0) 10(0.0) States(0.0) that(0.0) have(0.0) had(0.0) more(0.0) than(0.0) 10(0.0) bank(1.0) failures(0.0) since(0.0) 2008(1.0) .(0.0) These(0.0) 10(0.0) unlucky(1.0) States(0.0) 
+are(0.0) Georgia(1.0) ,(0.0) Florida(1.0) ,(0.0) Illinois(1.0) ,(0.0) California(0.0) ,(0.0) Minnesota(1.0) ,(0.0) Washington(1.0) ,(0.0) Michigan(1.0) ,(0.0) Nevada(1.0) ,(0.0) Missouri(1.0) and(0.0) Arizona(1.0) 
+.(0.0) In(0.0) fact(0.0) ,(0.0) six(1.0) of(0.0) the(0.0) 10(0.0) States(0.0) have(0.0) had(0.0) more(0.0) than(0.0) 10(0.0) percent(1.0) of(0.0) their(0.0) banks(1.0) fail(0.0) in(0.0) 
+the(0.0) last(1.0) 3(0.0) years(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) the(0.0) deeper(1.0) I(0.0) dig(1.0) into(0.0) the(0.0) actions(0.0) of(0.0) the(0.0) FDIC(1.0) ,(0.0) the(0.0) 
+Fed(1.0) and(0.0) the(0.0) OCC(0.0) ,(0.0) the(0.0) more(0.0) concerned(0.0) I(0.0) am(1.0) that(0.0) our(0.0) community(0.0) banks(0.0) are(0.0) being(0.0) regulated(0.0) like(0.0) public(0.0) utilities(1.0) 
+rather(0.0) than(0.0) the(0.0) job(1.0) creators(1.0) they(0.0) are(0.0) .(0.0) H.R(0.0) .(0.0) 2056(1.0) is(0.0) designed(0.0) to(0.0) cut(1.0) through(0.0) all(0.0) the(0.0) information(0.0) to(0.0) 
+analyze(1.0) the(0.0) underlying(0.0) fundamentals(0.0) that(0.0) continue(0.0) to(0.0) cause(1.0) bank(1.0) failures(0.0) across(0.0) this(0.0) country(1.0) .(0.0) The(0.0) bill(0.0) directs(1.0) the(0.0) FDIC(1.0) Inspector(0.0) 
+General(1.0) ,(0.0) in(0.0) consultation(0.0) with(0.0) Treasury(0.0) and(0.0) the(0.0) Federal(1.0) Reserve(0.0) IGs(1.0) ,(0.0) to(0.0) study(0.0) the(0.0) bank(1.0) regulators'(1.0) policies(1.0) and(0.0) practices(1.0) 
+with(0.0) regard(1.0) to(0.0) loss(0.0) share(0.0) agreements(0.0) ,(0.0) the(0.0) fair(1.0) application(0.0) of(0.0) regulatory(1.0) capital(1.0) standards(0.0) ,(0.0) appraisals(0.0) ,(0.0) the(0.0) FDIC(1.0) procedures(0.0) 
+for(0.0) loan(0.0) modifications(0.0) ,(0.0) and(0.0) the(0.0) FDIC(1.0) 's(0.0) handling(0.0) of(0.0) consent(0.0) orders(1.0) in(0.0) cease(1.0) and(0.0) desist(1.0) orders(1.0) .(0.0) Further(0.0) ,(0.0) 
+the(0.0) GAO(1.0) also(0.0) has(0.0) a(0.0) study(0.0) in(0.0) the(0.0) bill(0.0) to(0.0) pursue(0.0) those(0.0) questions(1.0) that(0.0) the(0.0) FDIC(1.0) IG(1.0) is(0.0) unable(1.0) to(0.0) 
+fully(0.0) explore(0.0) ,(0.0) such(0.0) as(0.0) the(0.0) causes(0.0) of(0.0) the(0.0) high(0.0) number(0.0) of(0.0) bank(1.0) failures(0.0) .(0.0) The(0.0) impact(0.0) of(0.0) fair(1.0) market(0.0) 
+value(1.0) accounting(1.0) has(0.0) been(0.0) a(0.0) tremendous(0.0) impact(0.0) on(0.0) our(0.0) banks(1.0) .(0.0) Analysis(0.0) of(0.0) this(0.0) impact(0.0) of(0.0) the(0.0) failures(0.0) on(0.0) the(0.0) 
+community(1.0) banks(0.0) is(0.0) especially(1.0) needed(0.0) .(0.0) The(0.0) overall(0.0) effectiveness(1.0) of(0.0) loss(0.0) share(0.0) agreements(0.0) for(0.0) resolving(1.0) banks(1.0) is(0.0) another(0.0) thing(0.0) 
+
+
+----- below are rationale words -----
+
+before	today	
+transparency	FDIC	Federal	bank	
+First	'd	Chairman	Capito	Ranking	Frank	
+Ranking	Maloney	2056	'd	also	Senator	
+Chambliss	pass	Senate	
+agreement	unusual	outcome	
+said	before	bank	
+especially	State	Georgia	last	
+banks	Georgia	regulators	73	banks	
+22	banks	alone	Sadly	district	
+served	community	referenced	so-called	
+bank	2008	unlucky	
+Georgia	Florida	Illinois	Minnesota	Washington	Michigan	Nevada	Missouri	Arizona	
+six	percent	banks	
+last	Speaker	deeper	dig	FDIC	
+Fed	am	utilities	
+job	creators	2056	cut	
+analyze	cause	bank	country	directs	FDIC	
+General	Federal	IGs	bank	regulators'	policies	practices	
+regard	fair	regulatory	capital	FDIC	
+FDIC	orders	cease	desist	orders	
+GAO	questions	FDIC	IG	unable	
+bank	fair	
+value	accounting	banks	
+community	especially	effectiveness	resolving	banks	
+
+reads % = 0.22

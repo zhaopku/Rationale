@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) the(0.0) FDA(1.0) defense(1.0) has(0.0) been(0.0) a(0.0) topic(0.0) of(0.0) considerable(0.0) discussion(0.0) and(0.0) controversy(1.0) over(0.0) the(0.0) years(0.0) .(0.0) In(0.0) the(0.0) 
+past(0.0) I(0.0) have(0.0) supported(0.0) the(0.0) adoption(1.0) of(0.0) provisions(1.0) affording(1.0) the(0.0) FDA(1.0) defense(1.0) .(0.0) This(0.0) was(0.0) done(0.0) based(0.0) on(0.0) my(0.0) belief(0.0) 
+that(0.0) strong(0.0) support(0.0) and(0.0) appropriate(0.0) oversight(1.0) by(0.0) the(0.0) Congress(0.0) would(0.0) enable(0.0) the(0.0) FDA(1.0) to(0.0) provide(0.0) thoughtful(0.0) ,(0.0) careful(0.0) review(0.0) for(0.0) 
+drug(1.0) and(0.0) medical(1.0) device(0.0) approvals(0.0) and(0.0) scrupulous(0.0) post-market(1.0) surveillance(0.0) ,(0.0) all(0.0) of(0.0) which(0.0) are(0.0) essential(0.0) to(0.0) the(0.0) protection(0.0) of(0.0) the(0.0) 
+American(0.0) consuming(0.0) public(1.0) .(0.0) If(0.0) this(0.0) were(0.0) to(0.0) be(0.0) the(0.0) case(0.0) ,(0.0) there(0.0) would(0.0) be(0.0) no(0.0) question(0.0) but(0.0) what(0.0) Congress(0.0) 
+should(0.0) afford(1.0) the(0.0) FDA(1.0) approval(0.0) as(0.0) a(0.0) defense(0.0) against(0.0) punitive(1.0) damages(1.0) .(0.0) Regrettably(0.0) ,(0.0) that(0.0) appears(0.0) not(0.0) ,(0.0) however(0.0) ,(0.0) 
+to(0.0) be(0.0) the(0.0) case(0.0) .(0.0) Times(0.0) have(0.0) changed(0.0) and(0.0) it(0.0) appears(0.0) that(0.0) congressional(1.0) support(0.0) for(0.0) FDA(1.0) and(0.0) support(0.0) for(0.0) a(0.0) 
+strong(0.0) ,(0.0) viable(1.0) ,(0.0) adequately-funded(0.0) ,(0.0) well-staffed(1.0) agency(1.0) is(0.0) at(0.0) risk(0.0) at(0.0) this(0.0) particular(0.0) time(0.0) .(0.0) We(0.0) have(0.0) been(0.0) hearing(0.0) 
+about(0.0) privatizing(1.0) ,(0.0) cutting(0.0) back(0.0) ,(0.0) reducing(1.0) and(0.0) eliminating(1.0) FDA(1.0) .(0.0) It(0.0) is(0.0) my(0.0) strong(0.0) belief(0.0) that(0.0) until(0.0) these(0.0) questions(0.0) 
+have(0.0) been(0.0) satisfactorily(0.0) resolved(0.0) and(0.0) until(0.0) we(0.0) are(0.0) satisfied(0.0) that(0.0) FDA(0.0) approval(1.0) really(0.0) means(0.0) something(0.0) ,(0.0) that(0.0) we(0.0) should(0.0) not(0.0) 
+then(0.0) afford(0.0) a(0.0) weakening(0.0) of(0.0) the(0.0) civil(1.0) suit(0.0) process(0.0) which(0.0) affords(0.0) protection(1.0) to(0.0) the(0.0) American(0.0) consumer(1.0) from(0.0) misbehavior(1.0) by(0.0) manufacturers(0.0) 
+of(0.0) devices(0.0) and(0.0) prescription(0.0) pharmaceuticals(1.0) .(0.0) The(0.0) ability(0.0) of(0.0) FDA(1.0) to(0.0) properly(0.0) process(0.0) the(0.0) business(0.0) before(0.0) them(0.0) ,(0.0) to(0.0) see(0.0) 
+to(0.0) it(0.0) that(0.0) the(0.0) new(0.0) drugs(1.0) are(0.0) properly(0.0) approved(0.0) ,(0.0) that(0.0) all(0.0) information(0.0) necessary(0.0) is(0.0) produced(0.0) ,(0.0) to(0.0) see(0.0) to(0.0) 
+it(0.0) that(0.0) there(0.0) is(0.0) no(0.0) deceit(0.0) or(0.0) duplicity(1.0) in(0.0) the(0.0) offer(0.0) ,(0.0) to(0.0) see(0.0) to(0.0) it(0.0) that(0.0) there(0.0) are(0.0) no(0.0) 
+changes(0.0) in(0.0) the(0.0) drugs(1.0) as(0.0) manufactured(0.0) ,(0.0) to(0.0) see(0.0) to(0.0) it(0.0) that(0.0) the(0.0) Food(1.0) and(0.0) Drug(1.0) Administration(0.0) 's(0.0) requirement(1.0) for(0.0) 
+good(0.0) manufacturing(1.0) practices(1.0) be(0.0) met(0.0) during(0.0) the(0.0) manufacturing(0.0) of(0.0) the(0.0) drugs(1.0) is(0.0) absolutely(0.0) essential(0.0) to(0.0) consumer(1.0) safety(0.0) .(0.0) If(0.0) that(0.0) 
+is(0.0) to(0.0) be(0.0) tampered(0.0) with(0.0) or(0.0) impaired(0.0) with(0.0) through(0.0) the(0.0) budget(1.0) process(0.0) or(0.0) through(0.0) actions(1.0) of(0.0) Congress(0.0) or(0.0) through(0.0) less(0.0) 
+than(0.0) vigorous(1.0) enforcement(1.0) by(0.0) the(0.0) administration(1.0) because(0.0) of(0.0) lack(1.0) of(0.0) adequate(1.0) funds(1.0) or(0.0) because(0.0) of(0.0) congressional(1.0) pressure(1.0) ,(0.0) then(0.0) clearly(0.0) 
+this(0.0) kind(0.0) of(0.0) amendment(1.0) is(0.0) not(0.0) in(0.0) the(0.0) public(1.0) interest(0.0) .(0.0) I(0.0) would(0.0) urge(0.0) ,(0.0) therefore(0.0) ,(0.0) that(0.0) until(0.0) we(0.0) 
+have(0.0) seen(0.0) more(0.0) fully(0.0) the(0.0) state(1.0) of(0.0) affairs(1.0) with(0.0) regard(0.0) to(0.0) the(0.0) strength(0.0) and(0.0) the(0.0) adequacy(1.0) of(0.0) FDA(0.0) supervision(0.0) of(0.0) 
+new(0.0) drugs(1.0) ,(0.0) new(0.0) drug(1.0) applications(0.0) ,(0.0) and(0.0) with(0.0) regard(0.0) to(0.0) the(0.0) safety(0.0) and(0.0) adequacy(1.0) of(0.0) supervision(0.0) by(0.0) FDA(0.0) of(0.0) 
+devices(0.0) ,(0.0) that(0.0) this(0.0) Congress(0.0) should(0.0) not(0.0) relax(0.0) the(0.0) supervision(0.0) that(0.0) is(0.0) given(0.0) to(0.0) manufacturers(0.0) of(0.0) both(0.0) devices(0.0) and(0.0) prescription(0.0) 
+pharmaceuticals(1.0) until(0.0) we(0.0) are(0.0) more(0.0) sure(0.0) that(0.0) the(0.0) protections(1.0) of(0.0) FDA(1.0) are(0.0) meaningful(0.0) and(0.0) have(0.0) not(0.0) been(0.0) impaired(0.0) by(0.0) budget(1.0) 
+cuts(1.0) ,(0.0) by(0.0) reductions(1.0) in(0.0) the(0.0) authority(1.0) of(0.0) the(0.0) agency(0.0) ,(0.0) by(0.0) roll(0.0) back(0.0) of(0.0) the(0.0) abilities(0.0) of(0.0) the(0.0) agency(0.0) 
+to(0.0) carry(0.0) out(0.0) its(0.0) responsibility(0.0) or(0.0) by(0.0) actions(0.0) like(0.0) those(0.0) taken(0.0) more(0.0) recently(0.0) by(0.0) the(0.0) Congress(0.0) in(0.0) setting(0.0) up(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	FDA	defense	controversy	
+adoption	provisions	affording	FDA	defense	
+oversight	FDA	
+drug	medical	post-market	
+public	
+afford	FDA	punitive	damages	
+congressional	FDA	
+viable	well-staffed	agency	
+privatizing	reducing	eliminating	FDA	
+approval	
+civil	protection	consumer	misbehavior	
+pharmaceuticals	FDA	
+drugs	
+duplicity	
+drugs	Food	Drug	requirement	
+manufacturing	practices	drugs	consumer	
+budget	actions	
+vigorous	enforcement	administration	lack	adequate	funds	congressional	pressure	
+amendment	public	
+state	affairs	adequacy	
+drugs	drug	adequacy	
+
+pharmaceuticals	protections	FDA	budget	
+cuts	reductions	authority	
+
+
+reads % = 0.14

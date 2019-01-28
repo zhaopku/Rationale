@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Is(0.0) it(0.0) in(0.0) order(0.0) for(0.0) me(0.0) to(0.0) ask(0.0) unanimous(1.0) consent(0.0) to(0.0) waive(0.0) the(0.0) reading(0.0) so(0.0) I(0.0) can(0.0) explain(0.0) my(0.0) amendment(1.0) ?(0.0) 
+The(0.0) CHAIRMAN(0.0) pro(0.0) tempore(0.0) .(0.0) The(0.0) Clerk(0.0) will(0.0) read(0.0) the(0.0) amendment(0.0) .(0.0) The(0.0) Clerk(0.0) read(0.0) as(0.0) follows(0.0) :(0.0) Amendment(0.0) offered(0.0) 
+by(0.0) Mr.(0.0) Serrano(1.0) :(1.0) Insert(1.0) at(0.0) the(0.0) end(0.0) ,(0.0) the(0.0) following(0.0) new(0.0) title(0.0) :(0.0) Assurance(0.0) against(0.0) lost(0.0) shifting(0.0) --(0.0) Notwithstanding(0.0) 
+Sec(0.0) .(0.0) 852(0.0) of(0.0) this(0.0) Act(0.0) --(0.0) None(0.0) of(0.0) the(0.0) funds(0.0) made(0.0) available(0.0) in(0.0) this(0.0) may(0.0) be(0.0) used(0.0) to(0.0) implement(0.0) 
+,(0.0) administer(0.0) ,(0.0) or(0.0) enforce(0.0) any(0.0) requirement(0.0) or(0.0) restriction(0.0) established(0.0) in(0.0) this(0.0) section(0.0) when(0.0) the(0.0) requirement(0.0) or(0.0) restriction(0.0) --(0.0) ((0.0) 
+1(0.0) )(0.0) is(0.0) based(0.0) on(0.0) immigration(0.0) status(0.0) ;(0.0) and(0.0) ((0.0) 2(0.0) )(0.0) either(0.0) --(0.0) ((0.0) A(0.0) )(0.0) imposes(0.0) any(0.0) additional(0.0) 
+administrative(0.0) burden(0.0) on(0.0) ((0.0) i(0.0) )(0.0) the(0.0) Federal(0.0) Government(0.0) ;(0.0) ((0.0) ii(0.0) )(0.0) any(0.0) State(0.0) or(0.0) local(0.0) government(0.0) ;(0.0) or(0.0) 
+((0.0) iii(0.0) )(0.0) any(0.0) contractor(0.0) or(0.0) grantee(0.0) receiving(0.0) such(0.0) funds(0.0) ;(0.0) or(0.0) ((0.0) B(0.0) )(0.0) shifts(0.0) the(0.0) cost(0.0) of(0.0) providing(0.0) 
+any(0.0) service(0.0) from(0.0) the(0.0) Federal(0.0) Government(0.0) to(0.0) ((0.0) i(0.0) )(0.0) any(0.0) State(0.0) or(0.0) local(0.0) government(0.0) ;(0.0) or(0.0) ((0.0) ii(0.0) )(0.0) 
+any(0.0) contractor(0.0) or(0.0) grantee(0.0) receiving(0.0) such(0.0) funds(0.0) .(0.0) Mr.(0.0) SERRANO(1.0) ((0.0) during(0.0) the(0.0) reading(0.0) )(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) 
+ask(0.0) unanimous(1.0) consent(0.0) that(0.0) the(0.0) amendment(1.0) be(0.0) considered(0.0) as(0.0) read(0.0) and(0.0) printed(0.0) in(0.0) the(0.0) Record(0.0) .(0.0) The(0.0) CHAIRMAN(0.0) pro(0.0) tempore(0.0) 
+.(0.0) Is(0.0) there(0.0) objection(0.0) to(0.0) the(0.0) request(0.0) of(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) York(1.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+unanimous	amendment	
+
+Serrano	:	Insert	
+
+
+
+
+
+
+SERRANO	Chairman	
+unanimous	amendment	
+York	
+
+reads % = 0.0425531914893617

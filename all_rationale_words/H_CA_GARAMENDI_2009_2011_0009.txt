@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+Cohen(1.0) ,(0.0) it(0.0) just(0.0) happens(0.0) that(0.0) we(0.0) prepared(0.0) this(0.0) little(0.0) blue(0.0) chart(0.0) here(0.0) .(0.0) Actually(0.0) ,(0.0) it(0.0) probably(0.0) ought(0.0) to(0.0) be(0.0) 
+in(0.0) the(0.0) red(0.0) .(0.0) The(0.0) repeal(1.0) of(0.0) the(0.0) Affordable(1.0) Health(1.0) Care(0.0) Act(0.0) obviously(0.0) deals(0.0) with(0.0) the(0.0) Patients(0.0) '(0.0) Bill(0.0) of(0.0) 
+Rights(1.0) ,(0.0) but(0.0) it(0.0) also(0.0) deals(0.0) with(0.0) the(0.0) deficit(1.0) .(0.0) This(0.0) week(0.0) ,(0.0) the(0.0) Congressional(1.0) Budget(1.0) Office(0.0) ,(0.0) nonpartisan(1.0) ,(0.0) 
+not(0.0) Democrat(1.0) ,(0.0) not(0.0) Republican(0.0) ,(1.0) they(1.0) answer(1.0) to(1.0) neither(1.0) party(1.0) .(1.0) They(1.0) answer(1.0) to(0.0) the(0.0) general(0.0) public(1.0) .(0.0) They(0.0) 
+said(0.0) that(0.0) the(0.0) repeal(1.0) of(0.0) the(0.0) Affordable(1.0) Health(1.0) Care(0.0) Act(1.0) will(0.0) increase(1.0) the(0.0) deficit(1.0) by(0.0) $(0.0) 230(0.0) billion(1.0) ,(0.0) $(0.0) 
+230(0.0) billion(1.0) in(0.0) the(0.0) next(0.0) 9(0.0) years(0.0) ,(0.0) and(0.0) in(0.0) the(0.0) out(0.0) years(0.0) ,(0.0) the(0.0) next(0.0) 10(0.0) years(0.0) ,(0.0) well(0.0) 
+over(0.0) 1(0.0) trillion(1.0) ,(0.0) $(0.0) 200(0.0) billion(1.0) increase(1.0) in(0.0) the(0.0) deficit(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+repeal	Affordable	Health	
+Rights	deficit	Congressional	Budget	nonpartisan	
+Democrat	,	they	answer	to	neither	party	.	They	answer	public	
+repeal	Affordable	Health	Act	increase	deficit	billion	
+billion	
+trillion	billion	increase	deficit	
+
+reads % = 0.23308270676691728

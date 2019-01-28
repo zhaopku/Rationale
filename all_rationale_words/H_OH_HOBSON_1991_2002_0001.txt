@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(1.0) in(0.0) support(0.0) of(0.0) this(0.0) resolution(0.0) ,(0.0) and(0.0) recognize(1.0) the(0.0) accomplishments(1.0) and(0.0) life(0.0) of(0.0) Dave(1.0) Thomas(1.0) .(0.0) Throughout(1.0) 
+his(0.0) life(0.0) ,(0.0) Dave(1.0) Thomas(1.0) continually(0.0) displayed(0.0) the(0.0) qualities(0.0) and(0.0) work(0.0) ethic(1.0) that(0.0) exemplified(1.0) the(0.0) American(0.0) dream(1.0) .(0.0) Whether(0.0) with(0.0) 
+his(0.0) family(0.0) ,(0.0) friends(0.0) ,(0.0) or(1.0) his(0.0) work(0.0) ,(0.0) Dave(1.0) Thomas(1.0) always(0.0) sought(1.0) to(0.0) improve(1.0) the(0.0) way(0.0) of(0.0) life(0.0) for(0.0) 
+those(0.0) around(0.0) him(0.0) .(0.0) Having(0.0) been(0.0) adopted(0.0) at(0.0) a(0.0) young(0.0) age(1.0) ,(0.0) Dave(1.0) Thomas(1.0) devoted(0.0) much(0.0) of(0.0) his(0.0) life(0.0) to(0.0) 
+raising(1.0) awareness(1.0) and(0.0) creating(0.0) better(0.0) opportunities(0.0) for(0.0) adopted(0.0) children(0.0) everywhere(1.0) .(0.0) As(0.0) a(0.0) fellow(0.0) restaurateur(1.0) and(0.0) small(1.0) businessman(1.0) ,(0.0) I(0.0) 
+can(1.0) certainly(0.0) appreciate(1.0) the(0.0) devotion(1.0) and(0.0) hard(0.0) work(0.0) necessary(1.0) to(0.0) turn(0.0) the(0.0) first(0.0) Wendy(0.0) 's(0.0) Old(0.0) Fashion(0.0) Hamburgers(1.0) in(0.0) downtown(1.0) 
+Columbus(1.0) ,(0.0) OH(0.0) ,(0.0) into(0.0) something(0.0) people(0.0) worldwide(0.0) know(0.0) and(0.0) love(1.0) .(0.0) Behind(1.0) his(0.0) business(1.0) expertise(0.0) and(0.0) a(0.0) promotional(1.0) campaign(1.0) 
+driven(1.0) by(0.0) his(0.0) warm(0.0) smile(1.0) ,(0.0) Wendy(1.0) 's(0.0) has(0.0) become(0.0) a(0.0) standard(1.0) to(0.0) which(0.0) all(0.0) other(0.0) restaurants(0.0) must(0.0) be(0.0) compared(0.0) 
+.(0.0) As(0.0) I(0.0) travel(1.0) around(0.0) Ohio(1.0) ,(0.0) the(0.0) birthplace(1.0) and(0.0) home(0.0) of(0.0) the(0.0) Wendy's(1.0) tradition(1.0) ,(0.0) I(0.0) will(0.0) be(0.0) constantly(1.0) 
+reminded(0.0) of(0.0) just(1.0) how(0.0) many(0.0) lives(0.0) Dave(1.0) Thomas(1.0) has(0.0) actually(1.0) touched(0.0) .(0.0) Whether(1.0) I(0.0) am(0.0) visiting(1.0) one(0.0) of(0.0) the(0.0) several(0.0) 
+Wendy(1.0) 's(0.0) locations(1.0) within(1.0) Ohio(0.0) 's(0.0) Seventh(0.0) Congressional(0.0) District(0.0) ,(0.0) or(1.0) affixing(1.0) an(0.0) Adoption(1.0) Awareness(0.0) stamp(1.0) on(0.0) an(0.0) envelope(1.0) ,(0.0) 
+Dave(1.0) Thomas(1.0) will(0.0) be(0.0) in(0.0) my(0.0) thoughts(0.0) and(0.0) will(0.0) be(0.0) missed(1.0) dearly(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+rise	recognize	accomplishments	Dave	Thomas	Throughout	
+Dave	Thomas	ethic	exemplified	dream	
+or	Dave	Thomas	sought	improve	
+age	Dave	Thomas	
+raising	awareness	everywhere	restaurateur	small	businessman	
+can	appreciate	devotion	necessary	Hamburgers	downtown	
+Columbus	love	Behind	business	promotional	campaign	
+driven	smile	Wendy	standard	
+travel	Ohio	birthplace	Wendy's	tradition	constantly	
+just	Dave	Thomas	actually	Whether	visiting	
+Wendy	locations	within	or	affixing	Adoption	stamp	envelope	
+Dave	Thomas	missed	
+
+reads % = 0.27350427350427353

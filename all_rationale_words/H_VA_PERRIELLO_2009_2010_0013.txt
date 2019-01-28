@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Well(0.0) ,(0.0) thank(0.0) you(0.0) very(0.0) much(0.0) for(0.0) that(0.0) news(0.0) and(0.0) for(0.0) the(0.0) news(0.0) from(0.0) our(0.0) friends(0.0) in(0.0) the(0.0) house(0.0) of(0.0) lords(1.0) 
+--(0.0) I(0.0) mean(0.0) the(0.0) Senate(0.0) --(0.0) that(0.0) has(0.0) just(0.0) come(0.0) this(0.0) way(0.0) .(0.0) It(0.0) 's(0.0) very(0.0) ,(0.0) very(0.0) exciting(0.0) because(0.0) 
+we(0.0) ,(0.0) as(0.0) a(0.0) caucus(0.0) ,(0.0) have(0.0) been(0.0) fighting(0.0) so(0.0) hard(0.0) to(0.0) shift(0.0) the(0.0) focus(0.0) from(0.0) speculation(1.0) on(0.0) Wall(1.0) Street(1.0) 
+to(0.0) job(0.0) creation(0.0) on(0.0) Main(0.0) Street(0.0) .(0.0) We(0.0) understand(0.0) that(0.0) two(0.0) out(0.0) of(0.0) every(0.0) three(0.0) new(0.0) jobs(0.0) in(0.0) this(0.0) country(1.0) 
+are(0.0) coming(0.0) from(0.0) small(0.0) business(0.0) .(0.0) Now(0.0) ,(0.0) they(0.0) may(0.0) not(0.0) make(0.0) the(0.0) headlines(1.0) .(0.0) It(0.0) may(0.0) mean(0.0) you(0.0) have(0.0) 
+lots(0.0) and(0.0) lots(0.0) of(0.0) small(0.0) businesses(1.0) ,(0.0) but(0.0) that(0.0) 's(0.0) the(0.0) engine(0.0) of(0.0) our(0.0) growth(1.0) .(0.0) One(0.0) thing(0.0) we(0.0) still(0.0) 
+do(0.0) better(0.0) than(0.0) any(0.0) other(0.0) country(1.0) in(0.0) the(0.0) world(0.0) is(0.0) innovate(0.0) .(0.0) We(0.0) are(0.0) better(0.0) entrepreneurs(1.0) .(0.0) We(0.0) are(0.0) really(0.0) 
+good(0.0) at(0.0) this(0.0) .(0.0) It's(0.0) within(0.0) our(0.0) small(0.0) businesses(1.0) that(0.0) we(0.0) see(0.0) this(0.0) innovation(1.0) taking(0.0) place(0.0) ,(0.0) and(0.0) we(0.0) need(0.0) 
+to(0.0) make(0.0) sure(0.0) that(0.0) we(0.0) are(0.0) giving(0.0) the(0.0) kind(0.0) of(0.0) support(0.0) that(0.0) small(0.0) businesses(1.0) need(0.0) ,(0.0) whether(0.0) that(0.0) 's(0.0) through(0.0) 
+direct(0.0) lending(1.0) ,(0.0) whether(0.0) that(0.0) 's(0.0) through(0.0) the(0.0) suspension(0.0) of(0.0) capital(1.0) gains(0.0) tax(1.0) for(0.0) small(0.0) business(0.0) to(0.0) bring(0.0) nontraditional(1.0) lenders(1.0) 
+in(0.0) ,(0.0) or(0.0) whether(0.0) that(0.0) 's(0.0) providing(0.0) the(0.0) infrastructure(1.0) and(0.0) the(0.0) workforce(1.0) development(0.0) that(0.0) allows(0.0) those(0.0) small(0.0) businesses(1.0) to(0.0) flourish(0.0) 
+.(0.0) We(0.0) also(0.0) need(0.0) to(0.0) understand(0.0) that(0.0) the(0.0) phrase(0.0) ``(0.0) buy(0.0) American(0.0) ''(0.0) should(0.0) not(0.0) be(0.0) seen(0.0) as(0.0) bad(0.0) language(0.0) 
+.(0.0) I(0.0) think(0.0) it(0.0) 's(0.0) timely(0.0) that(0.0) we(0.0) look(0.0) at(0.0) this(0.0) extension(0.0) because(0.0) ,(0.0) while(0.0) there(0.0) are(0.0) many(0.0) policies(1.0) out(0.0) 
+there(0.0) which(0.0) may(0.0) seem(0.0) fancy(0.0) ,(0.0) sometimes(0.0) we(0.0) have(0.0) to(0.0) get(0.0) back(0.0) to(0.0) the(0.0) basics(0.0) .(0.0) We(0.0) are(0.0) within(0.0) weeks(0.0) 
+of(0.0) the(0.0) new(0.0) building(0.0) season(0.0) 's(0.0) beginning(0.0) ,(0.0) the(0.0) spring(0.0) building(0.0) season(0.0) leading(0.0) into(0.0) the(0.0) summer(0.0) building(0.0) season(0.0) .(0.0) There(0.0) 
+are(0.0) thousands(0.0) of(0.0) small(0.0) businesses(1.0) around(0.0) this(0.0) country(1.0) that(0.0) have(0.0) held(0.0) on(0.0) and(0.0) have(0.0) taken(0.0) losses(0.0) for(0.0) 2(0.0) years(0.0) ,(0.0) 
+whether(0.0) it(0.0) has(0.0) been(0.0) the(0.0) construction(0.0) firms(1.0) ,(0.0) the(0.0) engineering(0.0) firms(0.0) ,(0.0) the(0.0) supply(1.0) stores(0.0) that(0.0) have(0.0) supplied(0.0) those(0.0) guys(0.0) 
+,(0.0) or(0.0) whether(0.0) it(0.0) has(0.0) been(0.0) the(0.0) diners(1.0) where(0.0) folks(0.0) have(0.0) gone(0.0) to(0.0) eat(0.0) .(0.0) If(0.0) we(0.0) are(0.0) not(0.0) building(0.0) 
+anything(0.0) in(0.0) this(0.0) country(1.0) ,(0.0) we(0.0) will(0.0) not(0.0) continue(0.0) this(0.0) path(0.0) of(0.0) recovery(1.0) that(0.0) we(0.0) have(0.0) worked(0.0) so(0.0) hard(0.0) to(0.0) 
+lay(0.0) out(0.0) .(0.0) This(0.0) is(0.0) a(0.0) chance(0.0) ,(0.0) and(0.0) we(0.0) need(0.0) to(0.0) act(0.0) here(0.0) in(0.0) Washington(1.0) with(0.0) the(0.0) same(0.0) urgency(0.0) 
+that(0.0) the(0.0) previous(0.0) Congress(0.0) did(0.0) when(0.0) Wall(1.0) Street(1.0) was(0.0) in(0.0) trouble(0.0) .(0.0) Well(0.0) ,(0.0) Main(0.0) Street(0.0) is(0.0) in(0.0) crisis(1.0) ,(0.0) 
+and(0.0) we(0.0) need(0.0) to(0.0) understand(0.0) that(0.0) we(0.0) can(0.0) rebuild(1.0) this(0.0) country(1.0) .(0.0) We(0.0) may(0.0) not(0.0) see(0.0) housing(1.0) start(0.0) to(0.0) pick(0.0) 
+up(0.0) this(0.0) summer(0.0) in(0.0) the(0.0) way(0.0) that(0.0) some(0.0) would(0.0) like(0.0) ,(0.0) but(0.0) we(0.0) can(0.0) rebuild(1.0) our(0.0) infrastructure(1.0) ,(0.0) and(0.0) we(0.0) 
+can(0.0) reinvest(1.0) in(0.0) the(0.0) existing(0.0) building(0.0) stock(0.0) ,(0.0) whether(0.0) that(0.0) 's(0.0) municipal(1.0) ,(0.0) commercial(1.0) ,(0.0) or(0.0) residential(0.0) ,(0.0) through(0.0) major(1.0) 
+retrofit(1.0) programs(1.0) .(0.0) It(0.0) puts(0.0) people(0.0) to(0.0) work(0.0) in(0.0) rebuilding(1.0) America(0.0) 's(0.0) competitive(0.0) advantage(0.0) ,(0.0) because(0.0) what(0.0) you(0.0) understand(0.0) 
+
+
+----- below are rationale words -----
+
+lords	
+
+speculation	Wall	Street	
+country	
+headlines	
+businesses	growth	
+country	entrepreneurs	
+businesses	innovation	
+businesses	
+lending	capital	tax	nontraditional	lenders	
+infrastructure	workforce	businesses	
+
+policies	
+
+
+businesses	country	
+firms	supply	
+diners	
+country	recovery	
+Washington	
+Wall	Street	crisis	
+rebuild	country	housing	
+rebuild	infrastructure	
+reinvest	municipal	commercial	major	
+retrofit	programs	rebuilding	
+
+reads % = 0.09

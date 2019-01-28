@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Nebraska(1.0) and(0.0) the(0.0) other(0.0) supporters(0.0) of(0.0) this(0.0) amendment(1.0) should(0.0) be(0.0) appreciative(0.0) of(0.0) the(0.0) chairman's(0.0) efforts(1.0) with(0.0) 
+regard(0.0) to(0.0) law(1.0) enforcement(1.0) .(0.0) They(0.0) have(0.0) a(0.0) focus(0.0) on(0.0) methamphetamine(1.0) and(0.0) the(0.0) plague(1.0) that(0.0) it(0.0) represents(0.0) across(0.0) our(0.0) country(1.0) 
+.(0.0) They(0.0) should(0.0) know(0.0) that(0.0) there(0.0) is(0.0) hardly(0.0) a(0.0) hearing(0.0) that(0.0) goes(0.0) by(0.0) that(0.0) the(0.0) gentleman(0.0) from(0.0) Virginia(1.0) ((0.0) Chairman(0.0) 
+Wolf(1.0) )(0.0) does(1.0) not(1.0) bemoan(1.0) the(0.0) condition(0.0) that(0.0) the(0.0) country(1.0) and(0.0) the(0.0) challenge(0.0) that(0.0) the(0.0) Nation(1.0) faces(0.0) with(0.0) regard(0.0) to(0.0) 
+methamphetamine(1.0) and(0.0) illegal(1.0) drug(1.0) use(0.0) .(0.0) He(0.0) is(0.0) totally(0.0) supportive(0.0) of(0.0) their(0.0) efforts(1.0) in(0.0) principle(1.0) .(0.0) The(0.0) problem(0.0) is(0.0) we(0.0) 
+have(0.0) a(0.0) tough(0.0) bill(1.0) ,(0.0) and(0.0) when(0.0) they(0.0) go(0.0) to(0.0) an(0.0) across-(0.0) the-board(0.0) cut(0.0) ,(0.0) that(0.0) is(0.0) an(0.0) expression(0.0) of(0.0) 
+extreme(1.0) desperation(1.0) with(0.0) regard(0.0) to(0.0) the(0.0) appropriation(1.0) process(0.0) .(0.0) When(0.0) they(0.0) offer(0.0) an(0.0) across-the-board(1.0) cut(0.0) as(0.0) an(0.0) offset(1.0) ,(0.0) what(0.0) 
+they(0.0) are(0.0) really(0.0) saying(0.0) is(0.0) that(0.0) this(0.0) bill(1.0) is(0.0) so(0.0) incredibly(0.0) tight(1.0) that(0.0) we(0.0) can(0.0) not(0.0) find(0.0) offsets(1.0) anywhere(0.0) else(0.0) 
+.(0.0) It(0.0) is(0.0) absolutely(0.0) the(0.0) wrong(0.0) place(0.0) to(0.0) go(0.0) .(0.0) I(0.0) would(0.0) suggest(0.0) to(0.0) the(0.0) gentlemen(0.0) that(0.0) are(0.0) down(0.0) to(0.0) 
+offering(0.0) across-(0.0) the-board(0.0) cuts(1.0) to(0.0) reassess(1.0) their(0.0) vote(1.0) on(0.0) the(0.0) budget(1.0) resolution(1.0) .(0.0) We(0.0) need(0.0) more(0.0) money(1.0) in(0.0) these(0.0) bills(1.0) 
+for(0.0) law(1.0) enforcement(1.0) ,(0.0) to(0.0) provide(0.0) funds(1.0) to(0.0) State(1.0) and(0.0) localities(1.0) which(0.0) are(0.0) being(0.0) cut(0.0) from(0.0) last(0.0) year(0.0) .(0.0) I(0.0) 
+oppose(1.0) the(0.0) amendment(1.0) ,(0.0) Mr.(0.0) Chairman(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Nebraska	amendment	efforts	
+law	enforcement	methamphetamine	plague	country	
+Virginia	
+Wolf	does	not	bemoan	country	Nation	
+methamphetamine	illegal	drug	efforts	principle	
+bill	
+extreme	desperation	appropriation	across-the-board	offset	
+bill	tight	offsets	
+
+cuts	reassess	vote	budget	resolution	money	bills	
+law	enforcement	funds	State	localities	
+oppose	amendment	Chairman	
+
+reads % = 0.19298245614035087

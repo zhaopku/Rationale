@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) we(0.0) are(0.0) here(0.0) this(0.0) evening(0.0) to(0.0) talk(0.0) about(0.0) the(0.0) impact(0.0) of(0.0) this(0.0) very(0.0) cynical(0.0) prescription(1.0) drug(0.0) bill(1.0) that(0.0) is(0.0) 
+proposed(1.0) by(0.0) the(0.0) majority(1.0) side(0.0) and(0.0) what(0.0) would(0.0) happen(0.0) if(0.0) that(0.0) bill(1.0) ,(0.0) were(0.0) we(0.0) so(0.0) unfortunate(0.0) as(0.0) a(0.0) Nation(0.0) 
+as(0.0) to(0.0) have(0.0) that(0.0) bill(1.0) enacted(1.0) into(0.0) law(1.0) and(0.0) put(0.0) upon(0.0) our(0.0) senior(0.0) citizens(0.0) .(0.0) We(0.0) are(0.0) indeed(0.0) pleased(0.0) that(0.0) 
+the(0.0) gentleman(0.0) from(0.0) North(0.0) Carolina(0.0) ((0.0) Mr.(0.0) Ballance(1.0) )(0.0) is(1.0) here(0.0) with(0.0) us(0.0) ,(0.0) and(0.0) at(0.0) this(0.0) time(0.0) I(0.0) would(0.0) 
+like(0.0) to(0.0) yield(0.0) the(0.0) floor(0.0) to(0.0) him(0.0) and(0.0) let(0.0) him(0.0) make(0.0) whatever(0.0) comments(0.0) he(0.0) sees(0.0) fitting(0.0) in(0.0) regard(0.0) to(0.0) this(0.0) 
+particular(0.0) issue(0.0) ;(0.0) and(0.0) we(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) North(0.0) Carolina(0.0) .(0.0) ((0.0) Mr.(0.0) BALLANCE(1.0) asked(0.0) and(0.0) was(0.0) given(0.0) permission(0.0) 
+to(0.0) revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) )(0.0) 
+
+
+----- below are rationale words -----
+
+prescription	bill	
+proposed	majority	bill	
+bill	enacted	law	
+Ballance	is	
+
+BALLANCE	
+
+
+reads % = 0.08527131782945736

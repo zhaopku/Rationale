@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) it(0.0) is(0.0) a(0.0) sad(0.0) commentary(0.0) on(0.0) the(0.0) performance(0.0) of(0.0) the(0.0) Republican(1.0) leadership(1.0) who(1.0) control(1.0) the(1.0) White(1.0) House(1.0) and(1.0) both(1.0) 
+Houses(1.0) of(1.0) Congress(1.0) that(1.0) they(1.0) still(1.0) can(1.0) not(1.0) get(1.0) the(1.0) appropriations(1.0) work(1.0) done(0.0) on(0.0) time(0.0) .(0.0) I(0.0) voted(1.0) against(0.0) several(0.0) 
+of(0.0) these(0.0) measures(1.0) as(0.0) stand-alone(0.0) bills(0.0) .(0.0) Rolling(0.0) them(0.0) together(0.0) and(0.0) adding(0.0) special(0.0) interest(0.0) provisions(1.0) has(0.0) not(0.0) made(0.0) them(0.0) any(0.0) 
+better(0.0) .(0.0) Indeed(0.0) ,(0.0) in(0.0) several(0.0) instances(0.0) this(0.0) bill(1.0) represents(1.0) a(0.0) repudiation(1.0) of(0.0) the(0.0) will(0.0) of(0.0) the(0.0) public(1.0) and(0.0) express(0.0) 
+decisions(0.0) of(0.0) Congress(0.0) .(0.0) Examples(0.0) include(0.0) the(0.0) fact(0.0) that(0.0) a(0.0) bipartisan(1.0) majority(0.0) of(0.0) Congress(0.0) had(0.0) already(0.0) voted(0.0) to(0.0) prevent(1.0) the(0.0) 
+Bush(1.0) administration(1.0) regulations(1.0) that(0.0) would(0.0) deny(1.0) overtime(1.0) pay(1.0) to(0.0) 8(0.0) million(0.0) employees(1.0) .(0.0) This(0.0) bill(1.0) strips(1.0) the(0.0) ban(1.0) .(0.0) Additionally(0.0) 
+,(0.0) this(0.0) bill(1.0) abandons(1.0) an(0.0) overwhelming(1.0) bipartisan(1.0) agreement(1.0) of(1.0) both(1.0) bodies(0.0) of(0.0) Congress(0.0) to(0.0) block(0.0) Federal(0.0) Communications(0.0) Commission(0.0) ((0.0) FCC(0.0) 
+)(0.0) regulations(1.0) permitting(0.0) broadcast(0.0) networks(0.0) to(0.0) expand(0.0) their(0.0) reach(0.0) and(0.0) consolidate(0.0) the(0.0) industry(0.0) .(0.0) This(0.0) omnibus(0.0) appropriations(0.0) bill(0.0) spends(1.0) too(0.0) 
+much(0.0) on(0.0) the(0.0) wrong(0.0) things(0.0) and(0.0) shortchanges(1.0) critical(0.0) needs(0.0) such(0.0) as(0.0) education(1.0) ,(0.0) veterans'(0.0) healthcare(1.0) ,(0.0) and(0.0) state(1.0) and(0.0) local(0.0) 
+law(0.0) enforcement(1.0) .(0.0) It(0.0) 's(0.0) made(0.0) all(0.0) the(0.0) worse(1.0) that(0.0) this(0.0) funding(1.0) is(0.0) borrowed(0.0) money(0.0) that(0.0) will(0.0) add(0.0) to(0.0) our(0.0) 
+budget(1.0) deficit(1.0) .(0.0) I(0.0) vote(1.0) ``(0.0) no(0.0) .(0.0) ''(0.0) 
+
+
+----- below are rationale words -----
+
+Republican	leadership	who	control	the	White	House	and	both	
+Houses	of	Congress	that	they	still	can	not	get	the	appropriations	work	voted	
+measures	provisions	
+bill	represents	repudiation	public	
+bipartisan	prevent	
+Bush	administration	regulations	deny	overtime	pay	employees	bill	strips	ban	
+bill	abandons	overwhelming	bipartisan	agreement	of	both	
+regulations	spends	
+shortchanges	education	healthcare	state	
+enforcement	worse	funding	
+budget	deficit	vote	
+
+reads % = 0.28095238095238095

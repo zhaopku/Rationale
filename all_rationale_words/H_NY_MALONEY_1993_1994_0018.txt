@@ -1,0 +1,10 @@
+This is from a Democrat
+----- below is the original text -----
+As(0.0) Frederic(0.0) Lewis(1.0) Allen(1.0) ,(0.0) the(0.0) noted(0.0) historian(0.0) ,(0.0) said(0.0) --(0.0) --(0.0) 
+
+
+----- below are rationale words -----
+
+Lewis	Allen	
+
+reads % = 0.16666666666666666

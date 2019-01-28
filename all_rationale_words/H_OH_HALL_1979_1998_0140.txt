@@ -1,0 +1,54 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) ,(0.0) and(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Florida(1.0) ((0.0) Mr.(0.0) 
+Diaz-Balart(1.0) )(0.0) for(0.0) yielding(0.0) me(0.0) this(0.0) time(0.0) .(0.0) Madam(1.0) Speaker(1.0) ,(0.0) this(0.0) resolution(0.0) is(0.0) an(0.0) open(0.0) rule(0.0) .(0.0) It(0.0) will(0.0) 
+allow(0.0) for(0.0) full(0.0) and(0.0) fair(1.0) debate(1.0) on(0.0) H.R(0.0) .(0.0) 2863(1.0) .(0.0) As(0.0) the(0.0) gentleman(0.0) from(0.0) Florida(1.0) has(0.0) described(1.0) ,(0.0) this(0.0) 
+rule(0.0) will(0.0) provide(0.0) 1(0.0) hour(0.0) of(0.0) general(0.0) debate(0.0) to(0.0) be(0.0) equally(1.0) divided(1.0) and(0.0) controlled(1.0) by(0.0) the(0.0) chairman(1.0) and(0.0) the(0.0) ranking(1.0) 
+minority(0.0) member(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Resources(0.0) .(0.0) The(0.0) rule(0.0) permits(0.0) amendments(0.0) under(0.0) the(0.0) 5-minute(1.0) rule(0.0) .(0.0) This(0.0) is(0.0) the(0.0) 
+normal(0.0) amending(1.0) process(0.0) in(0.0) the(0.0) House(0.0) .(0.0) All(1.0) Members(0.0) on(0.0) both(0.0) sides(0.0) of(0.0) the(0.0) aisle(1.0) will(0.0) have(0.0) the(0.0) opportunity(0.0) to(0.0) 
+offer(0.0) amendments(0.0) .(0.0) As(0.0) my(0.0) colleague(1.0) said(1.0) ,(0.0) this(0.0) bill(0.0) amends(0.0) and(0.0) clarifies(1.0) a(0.0) provision(0.0) of(0.0) the(0.0) Migratory(1.0) Bird(0.0) Treaty(0.0) 
+Act(0.0) which(0.0) restricts(1.0) the(0.0) hunting(0.0) of(0.0) birds(0.0) over(0.0) fields(0.0) that(0.0) have(0.0) been(0.0) baited(1.0) with(0.0) food(0.0) to(0.0) attract(1.0) them(0.0) .(0.0) The(0.0) 
+U.S(1.0) .(0.0) Fish(0.0) and(0.0) Wildlife(0.0) Service(0.0) has(0.0) concerns(0.0) about(0.0) this(0.0) bill(0.0) because(0.0) it(0.0) will(0.0) preempt(1.0) the(0.0) service(0.0) 's(0.0) ability(0.0) to(0.0) 
+issue(0.0) regulations(1.0) .(0.0) Also(0.0) some(0.0) animal(0.0) welfare(1.0) advocates(1.0) believe(0.0) the(0.0) bill(0.0) would(0.0) harm(0.0) waterfowl(0.0) populations(1.0) .(0.0) Because(0.0) the(0.0) bill(0.0) will(0.0) 
+be(0.0) considered(0.0) under(0.0) an(0.0) open(0.0) rule(0.0) ,(0.0) Members(0.0) will(0.0) have(0.0) the(0.0) opportunity(0.0) ,(0.0) they(0.0) will(0.0) be(0.0) able(0.0) to(0.0) offer(0.0) improving(0.0) 
+amendments(0.0) .(0.0) This(0.0) is(0.0) an(0.0) open(0.0) rule(0.0) ,(0.0) as(0.0) I(0.0) said(1.0) before(1.0) .(0.0) It(0.0) was(0.0) adopted(0.0) by(0.0) the(0.0) Committee(0.0) on(0.0) 
+Rules(0.0) by(0.0) voice(0.0) vote(1.0) .(0.0) I(0.0) urge(1.0) its(0.0) adoption(1.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) I(0.0) have(0.0) no(1.0) further(1.0) speakers(0.0) ,(0.0) and(0.0) 
+I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(1.0) .(0.0) Mr.(0.0) DIAZ-BALART(1.0) .(1.0) Madam(0.0) Speaker(1.0) ,(0.0) I(0.0) also(1.0) yield(0.0) back(0.0) the(0.0) 
+balance(0.0) of(0.0) my(0.0) time(1.0) ,(0.0) and(0.0) I(0.0) move(0.0) the(0.0) previous(0.0) question(1.0) on(0.0) the(0.0) resolution(0.0) .(0.0) The(0.0) previous(0.0) question(0.0) was(0.0) ordered(0.0) 
+.(0.0) The(0.0) resolution(0.0) was(0.0) agreed(1.0) to(0.0) .(0.0) A(1.0) motion(0.0) to(0.0) reconsider(1.0) was(0.0) laid(0.0) on(0.0) the(0.0) table(0.0) .(0.0) The(0.0) SPEAKER(0.0) pro(1.0) 
+tempore(1.0) ((0.0) Mr.(0.0) Diaz-Balart(1.0) )(0.0) .(0.0) Pursuant(0.0) to(0.0) House(0.0) Resolution(0.0) 521(1.0) and(0.0) rule(0.0) XXIII(0.0) ,(0.0) the(0.0) Chair(1.0) declares(1.0) the(0.0) House(0.0) 
+in(0.0) the(0.0) Committee(0.0) of(0.0) the(0.0) Whole(0.0) House(0.0) on(0.0) the(0.0) State(1.0) of(0.0) the(0.0) Union(1.0) for(0.0) the(0.0) consideration(0.0) of(0.0) the(0.0) bill(0.0) ,(0.0) 
+H.R(0.0) .(0.0) 2863(1.0) .(0.0) In(0.0) the(0.0) Committee(0.0) of(0.0) the(0.0) Whole(0.0) Accordingly(1.0) ,(0.0) the(0.0) House(0.0) resolved(1.0) itself(0.0) into(0.0) the(0.0) Committee(0.0) of(0.0) 
+the(0.0) Whole(0.0) House(0.0) on(0.0) the(0.0) State(1.0) of(0.0) the(0.0) Union(1.0) for(0.0) the(0.0) consideration(0.0) of(0.0) the(0.0) bill(0.0) ((0.0) H.R(0.0) .(0.0) 2863(1.0) )(0.0) 
+to(0.0) amend(1.0) the(0.0) Migratory(1.0) Bird(0.0) Treaty(0.0) Act(0.0) to(0.0) clarify(0.0) restrictions(1.0) under(0.0) that(0.0) Act(0.0) on(0.0) baiting(1.0) ,(0.0) to(0.0) facilitate(0.0) acquisition(0.0) of(0.0) 
+migratory(0.0) bird(0.0) habitat(1.0) ,(0.0) and(0.0) for(0.0) other(0.0) purposes(0.0) ,(0.0) with(0.0) Mrs.(1.0) Emerson(1.0) in(0.0) the(0.0) chair(0.0) .(0.0) The(0.0) Clerk(1.0) read(1.0) the(0.0) 
+title(0.0) of(0.0) the(0.0) bill(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Florida	
+Diaz-Balart	Madam	Speaker	
+fair	debate	2863	Florida	described	
+equally	divided	controlled	chairman	ranking	
+5-minute	
+amending	All	aisle	
+colleague	said	clarifies	Migratory	
+restricts	baited	attract	
+U.S	preempt	
+regulations	welfare	advocates	populations	
+
+said	before	
+vote	urge	adoption	Speaker	no	further	
+time	DIAZ-BALART	.	Speaker	also	
+time	question	
+agreed	A	reconsider	pro	
+tempore	Diaz-Balart	521	Chair	declares	
+State	Union	
+2863	Accordingly	resolved	
+State	Union	2863	
+amend	Migratory	restrictions	baiting	
+habitat	Mrs.	Emerson	Clerk	read	
+
+
+reads % = 0.16143497757847533

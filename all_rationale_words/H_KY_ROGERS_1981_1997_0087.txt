@@ -1,0 +1,18 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) the(0.0) glue(0.0) that(0.0) holds(0.0) this(0.0) body(0.0) together(0.0) is(0.0) comity(1.0) and(0.0) fairness(1.0) on(0.0) both(0.0) sides(0.0) of(0.0) the(0.0) aisle(0.0) .(0.0) The(0.0) 
+gentleman(0.0) from(0.0) Vermont(1.0) [(0.0) Mr.(0.0) Sanders(1.0) ](0.0) ,(0.0) in(0.0) my(0.0) opinion(0.0) ,(0.0) has(0.0) a(0.0) legitimate(0.0) complaint(0.0) procedurally(1.0) ,(0.0) about(0.0) not(0.0) 
+being(0.0) able(0.0) to(0.0) offer(0.0) his(0.0) amendment(1.0) .(0.0) In(0.0) the(0.0) spirit(0.0) of(0.0) fairness(1.0) and(0.0) comity(1.0) ,(0.0) I(0.0) ask(0.0) unanimous(1.0) consent(0.0) that(0.0) 
+the(0.0) gentleman(0.0) from(0.0) Vermont(1.0) [(0.0) Mr.(0.0) Sanders(1.0) ](0.0) ,(0.0) be(0.0) allowed(0.0) to(0.0) offer(0.0) his(0.0) amendment(1.0) and(0.0) that(0.0) debate(1.0) on(0.0) the(0.0) 
+amendment(1.0) be(0.0) limited(0.0) to(0.0) 20(0.0) minutes(0.0) ,(0.0) 10(0.0) per(0.0) side(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+comity	fairness	
+Vermont	Sanders	procedurally	
+amendment	fairness	comity	unanimous	
+Vermont	Sanders	amendment	debate	
+amendment	
+
+reads % = 0.15217391304347827

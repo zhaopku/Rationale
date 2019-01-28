@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+327(0.0) ,(0.0) the(0.0) Small(0.0) Business(0.0) Paperwork(0.0) Relief(0.0) Act(0.0) .(0.0) The(0.0) Office(0.0) of(0.0) Management(0.0) and(0.0) Budget(0.0) estimates(0.0) that(0.0) small(0.0) businesses(0.0) spend(0.0) 7.2(0.0) 
+billion(0.0) man-hours(1.0) to(0.0) fill(0.0) out(0.0) Federal(1.0) Government(1.0) paperwork(1.0) .(0.0) This(0.0) means(0.0) it(0.0) takes(0.0) an(0.0) army(0.0) of(0.0) 3.5(0.0) million(0.0) workers(1.0) ,(0.0) 
+working(0.0) 8(0.0) hours(0.0) a(0.0) day(0.0) ,(0.0) 260(0.0) days(0.0) a(0.0) year(0.0) ,(0.0) to(0.0) fill(0.0) out(0.0) the(0.0) paperwork(1.0) that(0.0) the(0.0) Federal(1.0) Government(1.0) 
+requires(0.0) .(0.0) Think(0.0) now(0.0) ,(0.0) how(0.0) many(0.0) government(1.0) employees(1.0) it(0.0) takes(0.0) to(0.0) read(0.0) ,(0.0) file(0.0) ,(0.0) store(0.0) ,(0.0) analyze(0.0) ,(0.0) 
+and(0.0) then(0.0) answer(0.0) this(0.0) same(0.0) paperwork(0.0) .(0.0) For(0.0) the(0.0) hard-working(1.0) American(0.0) people(0.0) who(0.0) own(0.0) and(0.0) operate(0.0) small(0.0) businesses(1.0) ,(0.0) we(0.0) 
+must(0.0) stop(0.0) these(0.0) regulations(1.0) now(0.0) ;(0.0) and(0.0) by(0.0) doing(0.0) so(0.0) ,(0.0) we(0.0) create(0.0) an(0.0) opportunity(0.0) for(0.0) them(0.0) to(0.0) become(0.0) more(0.0) 
+efficient(0.0) ,(0.0) drive(0.0) down(0.0) costs(1.0) ,(0.0) stimulate(1.0) the(0.0) economy(1.0) ,(0.0) and(0.0) let(0.0) them(0.0) spend(1.0) more(0.0) time(0.0) of(0.0) that(0.0) 7.2(0.0) billion(1.0) 
+hours(0.0) with(0.0) their(0.0) families(0.0) and(0.0) keeping(0.0) their(0.0) businesses(1.0) competitive(0.0) .(0.0) It(0.0) is(0.0) the(0.0) American(0.0) consumer(1.0) that(0.0) buys(0.0) the(0.0) products(0.0) from(0.0) 
+these(0.0) companies(0.0) that(0.0) pays(0.0) the(0.0) bill(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) once(0.0) again(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) for(0.0) yielding(0.0) 
+me(0.0) this(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+man-hours	Federal	Government	paperwork	workers	
+paperwork	Federal	Government	
+government	employees	
+hard-working	businesses	
+regulations	
+costs	stimulate	economy	spend	billion	
+businesses	consumer	
+bill	Chairman	
+
+
+reads % = 0.11891891891891893

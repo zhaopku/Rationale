@@ -1,0 +1,38 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) support(0.0) of(0.0) H.R(0.0) .(0.0) 6772(0.0) ,(0.0) a(0.0) resolution(1.0) designating(0.0) the(0.0) post(0.0) office(0.0) located(0.0) at(0.0) 
+1717(0.0) Orange(0.0) Avenue(0.0) in(0.0) Fort(0.0) Pierce(0.0) ,(0.0) Florida(0.0) ,(0.0) as(0.0) the(0.0) ``(0.0) CeeCee(0.0) Ross(0.0) Lyles(1.0) Post(0.0) Office(0.0) Building(0.0) .(0.0) ''(0.0) 
+As(0.0) a(0.0) cosponsor(0.0) of(0.0) this(0.0) legislation(0.0) ,(0.0) I(0.0) would(0.0) like(0.0) to(0.0) like(0.0) to(0.0) express(0.0) my(0.0) appreciation(0.0) for(0.0) the(0.0) effort(0.0) of(0.0) 
+my(0.0) good(0.0) friend(0.0) from(0.0) Florida(0.0) ,(0.0) Congressman(1.0) Tim(1.0) Mahoney(1.0) ,(0.0) for(0.0) introducing(0.0) this(0.0) important(0.0) legislation(1.0) .(0.0) He(0.0) and(0.0) I(0.0) share(0.0) 
+the(0.0) privilege(1.0) of(0.0) representing(1.0) Fort(0.0) Pierce(0.0) in(0.0) the(0.0) House(0.0) .(0.0) Through(0.0) the(0.0) designation(0.0) of(0.0) this(0.0) post(0.0) office(0.0) we(0.0) honor(0.0) the(0.0) 
+memory(0.0) of(0.0) Ms.(0.0) CeeCee(1.0) Ross(1.0) Lyles(1.0) .(0.0) Ms.(1.0) Lyles(1.0) was(0.0) a(0.0) flight(0.0) attendant(0.0) aboard(0.0) United(0.0) Flight(0.0) 93(0.0) on(0.0) that(0.0) fateful(0.0) 
+day(0.0) ,(0.0) 9/11(0.0) over(0.0) 7(0.0) years(0.0) ago(0.0) .(0.0) Shortly(0.0) before(0.0) the(0.0) plane(0.0) crashed(0.0) ,(0.0) Ms.(1.0) Lyles(1.0) called(0.0) her(0.0) husband(0.0) to(0.0) 
+tell(0.0) her(0.0) that(0.0) she(0.0) loved(0.0) him(0.0) .(0.0) While(0.0) her(0.0) time(0.0) on(0.0) earth(0.0) was(0.0) cut(0.0) short(0.0) by(0.0) terrorists(1.0) ,(0.0) her(0.0) memory(0.0) 
+will(0.0) live(0.0) on(0.0) in(0.0) our(0.0) community(0.0) .(0.0) This(0.0) post(0.0) office(0.0) designation(0.0) will(0.0) forever(0.0) commemorate(0.0) the(0.0) life(0.0) of(0.0) Ms.(0.0) Lyles(1.0) .(0.0) 
+Ms.(0.0) Lyles(1.0) was(0.0) a(0.0) true(0.0) Fort(0.0) Pierce(0.0) Floridian(1.0) through(0.0) and(0.0) through(0.0) .(0.0) She(0.0) was(0.0) born(0.0) and(0.0) raised(0.0) in(0.0) Fort(0.0) Pierce(0.0) 
+and(0.0) later(0.0) served(0.0) as(0.0) a(0.0) police(0.0) officer(0.0) for(0.0) 6(0.0) years(0.0) there(0.0) .(0.0) In(0.0) 2003(0.0) ,(0.0) the(0.0) City(0.0) of(0.0) Fort(0.0) Pierce(0.0) 
+erected(0.0) a(0.0) statue(0.0) of(0.0) Ms.(0.0) Lyles(1.0) in(0.0) the(0.0) Liberty(0.0) Garden(0.0) at(0.0) Veteran(0.0) Memorial(0.0) Park(0.0) .(0.0) The(0.0) legislation(0.0) before(0.0) us(0.0) today(0.0) 
+ensures(0.0) the(0.0) memory(0.0) of(0.0) Ms.(1.0) Lyles(1.0) and(0.0) all(0.0) other(0.0) 9/11(1.0) victims(1.0) live(0.0) on(0.0) in(0.0) our(0.0) collective(1.0) memory(0.0) .(0.0) I(0.0) urge(0.0) 
+swift(1.0) passage(1.0) of(0.0) this(0.0) legislation(1.0) to(0.0) properly(0.0) recognize(0.0) and(0.0) memorialize(0.0) the(0.0) heroes(0.0) of(0.0) 9/11(1.0) and(0.0) the(0.0) life(0.0) of(0.0) Ms.(1.0) CeeCee(1.0) 
+Ross(1.0) Lyles(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+resolution	
+Lyles	
+
+Congressman	Tim	Mahoney	legislation	
+privilege	representing	
+CeeCee	Ross	Lyles	Ms.	Lyles	
+Ms.	Lyles	
+terrorists	
+Lyles	
+Lyles	Floridian	
+
+Lyles	
+Ms.	Lyles	9/11	victims	collective	
+swift	passage	legislation	9/11	Ms.	CeeCee	
+Ross	Lyles	
+
+reads % = 0.11619718309859155

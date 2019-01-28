@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentlewoman(0.0) for(0.0) yielding(0.0) me(0.0) this(0.0) time(0.0) .(0.0) I(0.0) come(0.0) here(0.0) tonight(0.0) in(0.0) order(0.0) to(0.0) urge(1.0) the(0.0) 
+House(0.0) to(0.0) support(0.0) the(0.0) gentlewoman(0.0) 's(0.0) motion(1.0) .(0.0) It(0.0) is(0.0) absolutely(0.0) clear(0.0) that(0.0) the(0.0) Republican(1.0) bills(1.0) ,(1.0) both(1.0) in(1.0) the(1.0) 
+House(0.0) and(1.0) the(1.0) Senate(0.0) ,(1.0) do(1.0) encourage(1.0) people(1.0) to(0.0) move(0.0) away(0.0) from(0.0) traditional(1.0) fee-for-service(1.0) Medicare(1.0) .(0.0) As(0.0) the(0.0) gentleman(0.0) from(0.0) 
+Ohio(1.0) ((0.0) Mr.(0.0) Brown(1.0) )(0.0) said(1.0) earlier(1.0) ,(0.0) when(0.0) asked(0.0) on(0.0) a(0.0) television(0.0) program(0.0) about(0.0) the(0.0) damage(0.0) that(0.0) these(0.0) proposals(1.0) 
+might(0.0) do(0.0) to(0.0) traditional(0.0) Medicare(1.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) ((0.0) Mr.(0.0) Thomas(1.0) )(0.0) ,(0.0) the(0.0) Chair(0.0) of(0.0) the(0.0) Committee(0.0) 
+on(0.0) Ways(0.0) and(0.0) Means(0.0) said(0.0) ,(0.0) ``(0.0) I(0.0) certainly(0.0) hope(0.0) so(0.0) ''(0.0) when(0.0) asked(0.0) if(0.0) it(0.0) would(0.0) destroy(0.0) Medicare(1.0) as(0.0) 
+we(0.0) know(0.0) it(0.0) .(0.0) But(0.0) let(0.0) us(0.0) look(0.0) back(0.0) at(0.0) what(0.0) is(0.0) happening(0.0) in(0.0) the(0.0) State(0.0) of(0.0) Maine(1.0) .(0.0) In(0.0) 
+Maine(1.0) today(0.0) there(0.0) is(0.0) no(0.0) private(0.0) sector(0.0) health(1.0) insurance(1.0) for(0.0) people(0.0) on(0.0) Medicare(1.0) .(0.0) It(0.0) is(0.0) all(0.0) Medicare(1.0) fee-for-service(1.0) .(0.0) 
+So(0.0) when(0.0) people(0.0) in(0.0) Washington(1.0) say(0.0) we(0.0) are(0.0) going(0.0) to(0.0) change(0.0) your(0.0) health(1.0) care(1.0) system(0.0) ,(0.0) we(0.0) are(0.0) going(0.0) to(0.0) 
+move(0.0) people(0.0) out(0.0) of(0.0) traditional(0.0) fee-for-service(1.0) into(0.0) insurance(0.0) company(0.0) coverage(0.0) ,(0.0) well(0.0) ,(0.0) they(0.0) are(0.0) going(0.0) to(0.0) have(0.0) trouble(0.0) persuading(0.0) 
+people(0.0) from(0.0) Maine(1.0) that(0.0) makes(0.0) any(0.0) sense(0.0) .(0.0) I(0.0) speak(0.0) from(0.0) personal(0.0) experience(0.0) .(0.0) Both(0.0) of(0.0) my(0.0) parents(0.0) passed(0.0) away(0.0) 
+in(0.0) the(0.0) last(0.0) couple(0.0) of(0.0) years(0.0) .(0.0) But(0.0) before(0.0) they(0.0) did(0.0) ,(0.0) in(0.0) their(0.0) mid-to-late(1.0) eighties(0.0) ,(0.0) they(0.0) spent(0.0) 1(0.0) 
+year(0.0) on(0.0) a(0.0) plan(0.0) called(0.0) Golden(0.0) Care(0.0) ,(0.0) a(0.0) wraparound(0.0) private(0.0) insurance(0.0) plan(0.0) that(0.0) included(0.0) Medicare(1.0) .(0.0) It(0.0) was(0.0) not(0.0) 
+golden(0.0) ;(0.0) it(0.0) was(0.0) a(0.0) nightmare(0.0) because(0.0) the(0.0) insurance(1.0) company(0.0) did(0.0) what(0.0) insurance(1.0) companies(1.0) do(0.0) :(0.0) deny(1.0) coverage(1.0) .(0.0) My(0.0) 
+mother(0.0) would(0.0) go(0.0) to(0.0) the(0.0) doctor(0.0) .(0.0) She(0.0) thought(0.0) she(0.0) had(0.0) authorization(0.0) ,(0.0) and(0.0) it(0.0) would(0.0) come(0.0) back(0.0) and(0.0) the(0.0) 
+claim(0.0) would(0.0) be(0.0) denied(1.0) .(0.0) That(0.0) is(0.0) what(0.0) insurance(0.0) companies(1.0) do(0.0) .(0.0) We(0.0) can(0.0) not(0.0) let(0.0) that(0.0) happen(0.0) to(0.0) seniors(1.0) 
+on(0.0) Medicare(1.0) .(0.0) My(0.0) chief(0.0) of(0.0) staff(0.0) has(0.0) a(0.0) father(0.0) who(0.0) spent(0.0) most(0.0) of(0.0) the(0.0) last(0.0) 10(0.0) days(0.0) in(0.0) the(0.0) 
+hospital(0.0) .(0.0) He(0.0) had(0.0) a(0.0) very(0.0) serious(0.0) heart(0.0) problem(0.0) .(0.0) He(0.0) was(0.0) in(0.0) for(0.0) one(0.0) test(0.0) after(0.0) another(0.0) test(0.0) .(0.0) 
+He(0.0) was(0.0) in(0.0) overnight(0.0) .(0.0) His(0.0) situation(0.0) on(0.0) more(0.0) than(0.0) one(0.0) night(0.0) was(0.0) extremely(0.0) grave(0.0) .(0.0) At(0.0) one(0.0) point(0.0) ,(0.0) 
+finally(0.0) ,(0.0) after(0.0) a(0.0) week(0.0) in(0.0) the(0.0) hospital(0.0) with(0.0) round-the-clock(1.0) care(0.0) ,(0.0) he(0.0) looked(0.0) up(0.0) at(0.0) his(0.0) wife(0.0) and(0.0) he(0.0) 
+said(0.0) ,(0.0) thank(0.0) God(0.0) for(0.0) Medicare(1.0) .(0.0) Thank(0.0) God(0.0) for(0.0) Medicare(1.0) .(0.0) What(0.0) the(0.0) Republican(1.0) bills(1.0) are(1.0) doing(1.0) is(1.0) making(1.0) 
+sure(1.0) that(1.0) Medicare(1.0) as(1.0) we(0.0) know(0.0) it(0.0) gradually(0.0) withers(0.0) on(0.0) the(0.0) vine(0.0) and(0.0) that(0.0) it(0.0) is(0.0) replaced(0.0) by(0.0) your(0.0) friendly(0.0) 
+insurance(0.0) company(0.0) .(0.0) I(0.0) do(0.0) not(0.0) have(0.0) a(0.0) single(0.0) constituent(0.0) in(0.0) Maine(1.0) who(0.0) has(0.0) ever(0.0) come(0.0) to(0.0) me(0.0) and(0.0) said(0.0) 
+I(0.0) am(0.0) ready(0.0) to(0.0) give(0.0) up(0.0) the(0.0) choice(0.0) of(0.0) doctors(1.0) and(0.0) hospitals(1.0) under(0.0) Medicare(1.0) ,(0.0) but(0.0) what(0.0) I(0.0) really(0.0) want(0.0) 
+is(0.0) a(0.0) choice(0.0) of(0.0) insurance(1.0) plans(1.0) .(0.0) Send(0.0) me(0.0) those(0.0) brochures(0.0) ,(0.0) those(0.0) insurance(1.0) plans(1.0) ,(0.0) that(0.0) is(0.0) what(0.0) 
+
+
+----- below are rationale words -----
+
+urge	
+motion	Republican	bills	,	both	in	the	
+and	the	,	do	encourage	people	traditional	fee-for-service	Medicare	
+Ohio	Brown	said	earlier	proposals	
+Medicare	Thomas	
+Medicare	
+Maine	
+Maine	health	insurance	Medicare	Medicare	fee-for-service	
+Washington	health	care	
+fee-for-service	
+Maine	
+mid-to-late	
+Medicare	
+insurance	insurance	companies	deny	coverage	
+
+denied	companies	seniors	
+Medicare	
+
+
+round-the-clock	
+Medicare	Medicare	Republican	bills	are	doing	is	making	
+sure	that	Medicare	as	
+Maine	
+doctors	hospitals	Medicare	
+insurance	plans	insurance	plans	
+
+reads % = 0.138

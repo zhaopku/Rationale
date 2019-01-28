@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) today(1.0) I(0.0) rise(1.0) because(0.0) America(0.0) needs(0.0) a(0.0) new(1.0) direction(0.0) for(0.0) homeland(1.0) security(0.0) .(0.0) Our(0.0) Republican(1.0) colleagues(1.0) are(0.0) ignoring(1.0) our(0.0) 
+Nation(0.0) 's(0.0) real(0.0) security(0.0) needs(0.0) .(0.0) The(0.0) 9/11(1.0) Commission(0.0) made(0.0) 41(1.0) recommendations(0.0) on(0.0) ways(1.0) to(0.0) make(0.0) our(0.0) Nation(0.0) safer(0.0) ,(0.0) 
+but(0.0) just(1.0) this(0.0) December(1.0) America(0.0) received(0.0) a(0.0) flunked(1.0) Homeland(0.0) Security(1.0) 101(0.0) ,(0.0) receiving(0.0) 10(0.0) Cs(1.0) ,(0.0) 12(1.0) Ds(1.0) and(0.0) 4(0.0) 
+Fs(1.0) .(0.0) Only(0.0) 6(0.0) percent(1.0) of(0.0) containers(1.0) at(0.0) our(0.0) ports(1.0) are(0.0) being(0.0) screened(1.0) ,(0.0) most(1.0) air(0.0) cargo(1.0) is(0.0) not(1.0) being(0.0) 
+screened(1.0) ,(0.0) and(0.0) 5(0.0) years(0.0) after(0.0) 9/11(1.0) ,(0.0) the(0.0) Nation(0.0) still(0.0) lacks(0.0) a(0.0) unified(1.0) terrorist(1.0) watch(0.0) list(0.0) for(0.0) airline(1.0) passengers(1.0) 
+.(0.0) We(0.0) need(0.0) a(0.0) new(1.0) direction(0.0) for(0.0) America(0.0) 's(0.0) security(0.0) .(0.0) We(0.0) must(0.0) guard(1.0) against(0.0) future(0.0) attacks(0.0) by(0.0) implementing(0.0) all(0.0) 
+the(0.0) 9/11(1.0) Commission(0.0) recommendations(0.0) ;(0.0) and(0.0) we(0.0) must(0.0) screen(0.0) 100(1.0) percent(1.0) of(0.0) our(0.0) containers(0.0) and(0.0) cargo(1.0) bound(1.0) to(0.0) the(0.0) United(0.0) 
+States(0.0) in(0.0) ships(0.0) and(0.0) planes(1.0) ;(0.0) and(0.0) we(0.0) must(0.0) ensure(0.0) our(0.0) first(0.0) responders(0.0) have(0.0) the(0.0) training(0.0) ,(0.0) equipment(1.0) and(0.0) technology(0.0) 
+they(0.0) need(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+today	rise	new	homeland	Republican	colleagues	ignoring	
+9/11	41	ways	
+just	December	flunked	Security	Cs	12	Ds	
+Fs	percent	containers	ports	screened	most	cargo	not	
+screened	9/11	unified	terrorist	airline	passengers	
+new	guard	
+9/11	100	percent	cargo	bound	
+planes	equipment	
+
+
+reads % = 0.24390243902439024

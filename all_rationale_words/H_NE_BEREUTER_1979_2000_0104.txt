@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) this(0.0) Member(1.0) support(0.0) 's(0.0) the(0.0) conference(0.0) report(0.0) for(0.0) H.R(0.0) .(0.0) 4461(0.0) ,(0.0) the(0.0) FY2001(1.0) Agriculture(0.0) Appropriations(0.0) bill(0.0) .(0.0) In(0.0) 
+particular(0.0) ,(0.0) this(0.0) Member(0.0) commends(1.0) the(0.0) distinguished(0.0) gentleman(0.0) from(0.0) New(0.0) Mexico(1.0) ((0.0) Mr.(0.0) Skeen(1.0) )(0.0) ,(0.0) Chairman(0.0) of(0.0) the(0.0) Agriculture(0.0) 
+Appropriations(0.0) Subcommittee(0.0) and(0.0) the(0.0) distinguished(0.0) gentlelady(0.0) from(0.0) Ohio(0.0) ((0.0) Ms.(1.0) Kaptur(1.0) )(0.0) ,(0.0) Ranking(0.0) Member(0.0) of(0.0) the(0.0) Subcommittee(0.0) for(0.0) their(0.0) 
+hard(0.0) work(0.0) on(0.0) this(0.0) critically(0.0) important(0.0) bill(0.0) .(0.0) This(0.0) conference(0.0) report(0.0) contains(0.0) $(0.0) 3.5(0.0) billion(0.0) in(0.0) critical(0.0) emergency(0.0) disaster(0.0) relief(0.0) 
+for(0.0) agriculture(0.0) producers(0.0) .(0.0) This(0.0) ,(0.0) of(0.0) course(0.0) ,(0.0) is(0.0) in(0.0) addition(0.0) to(0.0) the(0.0) $(0.0) 7.1(0.0) billion(0.0) in(0.0) economic(1.0) assistance(0.0) 
+for(0.0) agriculture(1.0) producers(1.0) including(0.0) $(0.0) 5.5(0.0) billion(1.0) in(0.0) higher(0.0) Agricultural(1.0) Market(0.0) Transition(0.0) Act(0.0) ((0.0) AMTA(1.0) )(0.0) payments(0.0) as(0.0) part(0.0) of(0.0) 
+the(0.0) crop(0.0) insurance(0.0) reform(0.0) legislation(0.0) signed(1.0) into(0.0) law(0.0) earlier(0.0) this(0.0) year(0.0) on(0.0) June(0.0) 22(0.0) ,(0.0) 2000(0.0) .(0.0) The(0.0) emergency(0.0) funds(0.0) 
+in(0.0) the(0.0) conference(0.0) report(0.0) we(0.0) are(0.0) considering(0.0) today(0.0) are(0.0) particularly(0.0) important(0.0) to(0.0) Nebraska(1.0) farmers(0.0) ,(0.0) because(0.0) drought(1.0) conditions(0.0) in(0.0) the(0.0) 
+Great(0.0) Plains(0.0) have(0.0) substantially(0.0) lowered(0.0) production(0.0) at(0.0) a(0.0) time(0.0) when(0.0) we(0.0) have(0.0) low(0.0) commodity(1.0) prices(1.0) .(0.0) Included(0.0) in(0.0) the(0.0) $(0.0) 
+3.5(0.0) billion(1.0) funding(1.0) amount(0.0) is(0.0) $(0.0) 1.6(0.0) billion(1.0) for(0.0) crop(1.0) loss(0.0) disaster(1.0) assistance(1.0) ,(0.0) $(0.0) 490(0.0) million(0.0) for(0.0) livestock(1.0) assistance(1.0) 
+,(0.0) $(0.0) 473(0.0) million(0.0) for(0.0) dairy(1.0) assistance(1.0) and(0.0) $(0.0) 80(0.0) million(0.0) for(0.0) the(0.0) Emergency(1.0) Conservation(0.0) Program(0.0) .(0.0) Also(0.0) ,(0.0) the(0.0) 
+crop(1.0) loss(0.0) disaster(1.0) assistance(1.0) includes(0.0) the(0.0) following(0.0) three(0.0) areas(0.0) :(0.0) general(0.0) crop(0.0) assistance(0.0) ,(0.0) quality(0.0) loss(0.0) assistance(0.0) ,(0.0) and(0.0) a(0.0) 
+category(0.0) for(0.0) severe(0.0) economic(1.0) disaster(1.0) assistance(0.0) .(0.0) These(0.0) funds(1.0) should(0.0) provide(0.0) much(0.0) needed(0.0) additional(0.0) help(0.0) for(0.0) Nebraska(1.0) producers(1.0) .(0.0) This(0.0) 
+Member(0.0) is(0.0) pleased(0.0) that(0.0) the(0.0) conference(0.0) report(0.0) for(0.0) H.R(0.0) .(0.0) 4461(0.0) provides(0.0) $(0.0) 462,000(0.0) for(0.0) the(0.0) Midwest(0.0) Advanced(0.0) Food(0.0) Manufacturing(0.0) 
+Alliance(0.0) ((0.0) MAFMA(0.0) )(0.0) .(0.0) The(0.0) Alliance(0.0) is(0.0) an(0.0) association(0.0) of(0.0) twelve(0.0) leading(0.0) research(0.0) universities(0.0) and(0.0) corporate(0.0) partners(0.0) .(0.0) Its(0.0) 
+purpose(0.0) is(0.0) to(0.0) develop(0.0) and(0.0) facilitate(0.0) the(0.0) transfer(0.0) of(0.0) new(0.0) food(0.0) manufacturing(0.0) and(0.0) processing(0.0) technologies(0.0) .(0.0) The(0.0) MAFMA(0.0) awards(0.0) grants(1.0) 
+for(0.0) research(0.0) projects(0.0) on(0.0) a(0.0) peer(0.0) review(0.0) basis(0.0) .(0.0) These(0.0) awards(0.0) must(0.0) be(0.0) supported(0.0) by(0.0) an(0.0) industry(0.0) partner(0.0) willing(0.0) to(0.0) 
+provide(0.0) matching(0.0) funds(1.0) .(0.0) In(0.0) the(0.0) first(0.0) six(0.0) years(0.0) of(0.0) funding(1.0) ,(0.0) MAFMA(0.0) has(0.0) directed(0.0) $(0.0) 2,142,317(0.0) toward(0.0) a(0.0) research(0.0) 
+competition(0.0) at(0.0) the(0.0) 12(0.0) universities(0.0) .(0.0) Projects(0.0) must(0.0) receive(0.0) matching(0.0) funds(0.0) .(0.0) Over(0.0) the(0.0) first(0.0) six(0.0) years(0.0) ,(0.0) matching(0.0) funds(1.0) 
+of(0.0) $(0.0) 2,666,129(0.0) plus(0.0) in-kind(1.0) contributions(0.0) of(0.0) $(0.0) 625,407(0.0) were(0.0) received(0.0) for(0.0) MAFMA(0.0) funded(1.0) projects(0.0) from(0.0) 105(0.0) companies(1.0) or(0.0) organizations(0.0) 
+.(0.0) These(0.0) figures(0.0) convincingly(0.0) demonstrate(0.0) how(0.0) successful(0.0) the(0.0) Alliance(1.0) has(0.0) been(0.0) in(0.0) leveraging(1.0) support(0.0) from(0.0) the(0.0) food(1.0) manufacturing(0.0) and(0.0) processing(0.0) 
+industries(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) the(0.0) future(0.0) viability(1.0) and(0.0) competitiveness(1.0) of(0.0) the(0.0) U.S.(0.0) agricultural(0.0) industry(0.0) depends(0.0) on(0.0) its(0.0) ability(0.0) to(0.0) 
+adapt(0.0) to(0.0) link(0.0) between(0.0) universities(1.0) and(0.0) industries(1.0) for(0.0) the(0.0) development(0.0) of(0.0) competitive(0.0) food(1.0) manufacturing(1.0) and(0.0) processing(0.0) technologies(0.0) .(0.0) This(0.0) will(0.0) 
+,(0.0) in(0.0) turn(0.0) ,(0.0) ensure(0.0) that(0.0) the(0.0) United(0.0) States(0.0) agricultural(1.0) industry(1.0) remains(0.0) competitive(0.0) in(0.0) a(0.0) increasingly(0.0) competitive(0.0) global(1.0) economy(1.0) .(0.0) 
+This(0.0) Member(1.0) is(0.0) also(0.0) pleased(0.0) that(0.0) the(0.0) conference(0.0) report(0.0) includes(0.0) $(0.0) 200,000(0.0) to(0.0) fund(1.0) the(0.0) National(0.0) Drought(1.0) Mitigation(0.0) Center(0.0) 
+
+
+----- below are rationale words -----
+
+Member	FY2001	
+commends	Mexico	Skeen	
+Ms.	Kaptur	
+
+economic	
+agriculture	producers	billion	Agricultural	AMTA	
+signed	
+Nebraska	drought	
+commodity	prices	
+billion	funding	billion	crop	disaster	assistance	livestock	assistance	
+dairy	assistance	Emergency	
+crop	disaster	assistance	
+economic	disaster	funds	Nebraska	producers	
+
+
+grants	
+
+funds	funding	
+funds	
+in-kind	funded	companies	
+Alliance	leveraging	food	
+industries	Speaker	viability	competitiveness	
+universities	industries	food	manufacturing	
+agricultural	industry	global	economy	
+Member	fund	Drought	
+
+reads % = 0.124

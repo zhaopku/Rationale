@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Florida(1.0) misdescribed(1.0) 1995(1.0) and(0.0) 1996(0.0) .(0.0) I(0.0) do(0.0) not(1.0) think(0.0) it(0.0) does(0.0) any(1.0) credit(0.0) for(0.0) him(0.0) 
+to(0.0) describe(0.0) it(0.0) that(0.0) way(1.0) .(0.0) There(0.0) was(0.0) a(0.0) major(0.0) effort(0.0) ,(0.0) there(0.0) were(0.0) differences(1.0) ;(0.0) but(0.0) we(0.0) worked(0.0) together(0.0) 
+.(0.0) There(1.0) were(0.0) differences(1.0) .(0.0) We(0.0) worked(0.0) together(0.0) on(0.0) a(0.0) bipartisan(0.0) basis(1.0) .(0.0) He(0.0) misdescribed(1.0) President(1.0) Clinton(1.0) 's(0.0) position(0.0) ,(0.0) 
+also(1.0) ,(0.0) who(0.0) ,(0.0) before(1.0) he(0.0) became(0.0) President(1.0) ,(0.0) talked(0.0) about(0.0) reform(0.0) of(0.0) welfare(1.0) and(0.0) who(0.0) worked(0.0) as(0.0) President(1.0) to(0.0) 
+make(0.0) sure(1.0) it(0.0) happened(1.0) in(0.0) the(0.0) right(1.0) way(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Florida	misdescribed	1995	not	any	
+way	differences	
+There	differences	basis	misdescribed	President	Clinton	
+also	before	President	welfare	President	
+sure	happened	right	
+
+reads % = 0.23333333333333334

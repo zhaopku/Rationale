@@ -1,0 +1,36 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) we(0.0) are(0.0) still(0.0) here(0.0) tonight(0.0) for(0.0) one(0.0) very(0.0) simple(0.0) reason(0.0) .(0.0) We(0.0) are(0.0) here(0.0) with(0.0) another(0.0) battling(0.0) with(0.0) the(0.0) 
+President(1.0) of(0.0) the(0.0) United(0.0) States(0.0) .(0.0) He(0.0) would(0.0) like(0.0) us(0.0) to(0.0) spend(1.0) more(0.0) money(1.0) ,(0.0) and(0.0) he(0.0) would(0.0) like(0.0) us(0.0) 
+not(0.0) to(0.0) cut(1.0) taxes(1.0) for(0.0) the(0.0) American(0.0) people(0.0) .(0.0) It(0.0) is(0.0) unbelievable(0.0) .(0.0) As(0.0) we(0.0) are(0.0) working(0.0) here(0.0) tonight(0.0) ,(0.0) 
+the(0.0) President(1.0) is(0.0) threatening(0.0) to(0.0) veto(1.0) very(0.0) reasonable(0.0) ,(0.0) even(0.0) targeted(1.0) tax(1.0) relief(1.0) that(0.0) helps(0.0) people(0.0) save(0.0) more(0.0) for(0.0) retirement(1.0) 
+,(0.0) helps(0.0) people(0.0) obtain(0.0) health(1.0) care(1.0) ,(0.0) helps(0.0) people(0.0) be(0.0) able(0.0) to(0.0) improve(0.0) our(0.0) schools(1.0) and(0.0) construct(0.0) more(0.0) schools(1.0) around(0.0) 
+this(0.0) country(1.0) .(0.0) He(0.0) has(0.0) even(0.0) threatened(0.0) to(0.0) veto(1.0) tonight(0.0) the(0.0) repeal(1.0) of(0.0) the(0.0) Federal(1.0) excise(1.0) tax(1.0) on(0.0) telephones(1.0) .(0.0) 
+This(0.0) is(0.0) the(0.0) 1898(0.0) temporary(0.0) luxury(0.0) tax(0.0) put(0.0) in(0.0) place(0.0) on(0.0) telephones(0.0) that(0.0) lives(0.0) on(0.0) today(0.0) .(0.0) This(0.0) tax(1.0) hits(1.0) 
+particularly(1.0) people(1.0) that(0.0) have(0.0) fixed(0.0) incomes(1.0) very(0.0) hard(0.0) .(0.0) Think(0.0) about(0.0) it(0.0) ,(0.0) everyone(0.0) in(0.0) America(1.0) needs(0.0) a(0.0) telephone(0.0) .(0.0) 
+It(0.0) is(0.0) very(0.0) important(0.0) to(0.0) those(0.0) of(0.0) us(0.0) who(0.0) are(0.0) worried(0.0) about(0.0) our(0.0) economy(1.0) and(0.0) worried(0.0) about(0.0) what(0.0) is(0.0) going(0.0) 
+to(0.0) keep(0.0) our(0.0) economy(1.0) going(0.0) that(0.0) telecommunications(1.0) not(0.0) be(0.0) taxed(1.0) .(0.0) Yet(0.0) the(0.0) President(1.0) believes(1.0) this(0.0) tax(1.0) ,(0.0) this(0.0) 3(0.0) 
+percent(0.0) tax(1.0) that(0.0) is(0.0) on(0.0) every(0.0) one(0.0) of(0.0) our(0.0) phone(0.0) bills(0.0) that(0.0) goes(0.0) into(0.0) general(0.0) revenues(1.0) that(0.0) was(0.0) put(0.0) in(0.0) 
+place(0.0) in(0.0) 1898(1.0) as(0.0) a(0.0) temporary(0.0) luxury(0.0) tax(0.0) ought(1.0) to(0.0) continue(0.0) in(0.0) existence(1.0) .(0.0) We(0.0) have(0.0) a(0.0) surplus(0.0) all(0.0) created(0.0) 
+by(0.0) the(0.0) American(0.0) people(0.0) .(0.0) Let(0.0) us(0.0) hope(0.0) this(0.0) President(1.0) begins(0.0) to(0.0) give(0.0) a(0.0) little(0.0) meaningful(0.0) ,(0.0) serious(0.0) ,(0.0) reasonable(0.0) 
+tax(1.0) relief(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+President	spend	money	
+cut	taxes	
+President	veto	targeted	tax	relief	retirement	
+health	care	schools	schools	
+country	veto	repeal	Federal	excise	tax	telephones	
+tax	hits	
+particularly	people	incomes	America	
+economy	
+economy	telecommunications	taxed	President	believes	tax	
+tax	revenues	
+1898	ought	existence	
+President	
+tax	relief	
+
+reads % = 0.16287878787878787

@@ -1,0 +1,18 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) do(0.0) n't(0.0) want(0.0) to(0.0) take(0.0) any(0.0) more(0.0) time(0.0) because(0.0) I(0.0) know(0.0) this(0.0) is(0.0) going(0.0) to(0.0) ,(0.0) we(0.0) need(0.0) to(0.0) go(0.0) 
+ahead(0.0) and(0.0) get(0.0) on(0.0) with(0.0) this(0.0) thing(0.0) .(0.0) But(0.0) I(0.0) think(0.0) we(0.0) do(0.0) have(0.0) a(0.0) serious(0.0) opportunity(0.0) here(0.0) to(0.0) do(0.0) 
+some(0.0) really(0.0) good(0.0) things(0.0) .(0.0) And(0.0) there(0.0) are(0.0) some(0.0) really(0.0) good(0.0) things(0.0) in(0.0) this(0.0) bill(1.0) .(0.0) I(0.0) just(0.0) do(0.0) n't(0.0) 
+think(0.0) it(0.0) goes(0.0) far(0.0) enough(0.0) if(0.0) we(0.0) are(0.0) really(0.0) to(0.0) have(0.0) the(0.0) reform(1.0) kind(0.0) of(0.0) package(0.0) that(0.0) many(0.0) of(0.0) us(0.0) 
+would(0.0) like(0.0) to(0.0) see(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+bill	
+reform	
+
+
+reads % = 0.023255813953488372

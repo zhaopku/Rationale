@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+Would(1.0) the(0.0) gentleman(0.0) also(0.0) agree(0.0) that(0.0) it(0.0) is(0.0) the(0.0) intent(1.0) of(0.0) Congress(0.0) ,(0.0) through(0.0) this(0.0) legislation(1.0) ,(0.0) that(0.0) as(0.0) many(0.0) people(0.0) 
+as(0.0) possible(0.0) have(0.0) an(0.0) equal(1.0) opportunity(0.0) to(0.0) buy(0.0) these(0.0) commemorative(0.0) coin(0.0) sets(0.0) or(0.0) individual(0.0) coins(0.0) once(0.0) the(0.0) Mint(0.0) initially(0.0) issues(0.0) 
+them(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+intent	legislation	
+equal	
+
+
+reads % = 0.06976744186046512

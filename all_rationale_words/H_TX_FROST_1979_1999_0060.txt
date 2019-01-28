@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) by(0.0) direction(0.0) of(0.0) the(0.0) Democratic(1.0) Caucus(1.0) ,(0.0) I(0.0) offer(0.0) a(0.0) privileged(0.0) resolution(1.0) ((0.0) H.(0.0) Res(1.0) .(0.0) 188(0.0) )(0.0) and(0.0) 
+ask(0.0) for(0.0) its(0.0) immediate(0.0) consideration(0.0) .(0.0) The(0.0) Clerk(0.0) read(0.0) the(0.0) resolution(0.0) ,(0.0) as(0.0) follows(0.0) :(0.0) H.(0.0) Res(1.0) .(0.0) 188(0.0) Resolved(0.0) 
+,(0.0) That(0.0) the(0.0) following(0.0) named(0.0) Members(0.0) be(0.0) ,(0.0) and(0.0) are(0.0) hereby(0.0) ,(0.0) elected(0.0) to(0.0) the(0.0) following(0.0) standing(0.0) committee(0.0) of(0.0) the(0.0) 
+House(0.0) of(0.0) Representatives(0.0) :(1.0) Committee(0.0) on(0.0) Small(0.0) Business(0.0) :(0.0) Ms.(0.0) Berkley(1.0) of(0.0) Nevada(0.0) ;(0.0) Mr.(0.0) Udall(1.0) of(0.0) Colorado(0.0) The(0.0) resolution(1.0) 
+was(0.0) agreed(0.0) to(0.0) .(0.0) A(0.0) motion(0.0) to(0.0) reconsider(0.0) was(0.0) laid(0.0) on(0.0) the(0.0) table(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Democratic	Caucus	resolution	Res	
+Res	
+
+:	Berkley	Udall	resolution	
+
+
+reads % = 0.09473684210526316

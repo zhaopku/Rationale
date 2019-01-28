@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) chairman(0.0) for(0.0) yielding(0.0) me(0.0) this(0.0) time(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) rise(0.0) in(0.0) strong(0.0) support(0.0) of(0.0) 
+this(0.0) bill(1.0) and(0.0) would(0.0) urge(1.0) this(0.0) body(0.0) to(0.0) adopt(1.0) it(0.0) .(0.0) I(0.0) would(0.0) like(0.0) to(0.0) adopt(1.0) the(0.0) words(0.0) of(0.0) Edith(0.0) 
+Jones(0.0) ,(0.0) who(0.0) served(0.0) on(0.0) the(0.0) Bankruptcy(1.0) Commission(0.0) and(0.0) is(0.0) on(0.0) the(0.0) Fifth(0.0) Circuit(0.0) Court(0.0) of(0.0) Appeals(0.0) ,(0.0) when(0.0) she(0.0) 
+said(0.0) ``(0.0) bankruptcy(0.0) reform(0.0) legislation(1.0) is(0.0) essential(0.0) to(0.0) restoring(1.0) integrity(0.0) to(0.0) personal(0.0) and(0.0) business(0.0) bankruptcies(0.0) ,(0.0) redressing(1.0) the(0.0) imbalances(1.0) and(0.0) 
+opportunities(0.0) for(0.0) manipulation(1.0) that(0.0) plague(1.0) current(0.0) law(1.0) ,(0.0) and(0.0) encouraging(1.0) individual(0.0) responsibility(0.0) in(0.0) financial(1.0) affairs(0.0) .(0.0) ''(0.0) However(0.0) ,(0.0) and(0.0) 
+I(0.0) say(0.0) this(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Wisconsin(1.0) ((0.0) Chairman(0.0) Sensenbrenner(1.0) )(0.0) ,(0.0) he(0.0) has(0.0) done(0.0) an(0.0) outstanding(0.0) job(0.0) on(0.0) 
+this(0.0) legislation(0.0) .(0.0) It(0.0) is(0.0) very(0.0) much(0.0) a(0.0) thankless(0.0) job(0.0) ,(0.0) and(0.0) it(0.0) is(0.0) with(0.0) some(0.0) hesitancy(0.0) that(0.0) I(0.0) rise(0.0) 
+simply(0.0) to(0.0) point(0.0) out(0.0) one(0.0) provision(1.0) that(0.0) I(0.0) share(0.0) with(0.0) Judge(0.0) Jones(1.0) when(0.0) she(0.0) says(0.0) ,(0.0) however(0.0) ,(0.0) ``(0.0) Section(0.0) 
+414(0.0) ,(0.0) in(0.0) removing(0.0) investment(1.0) bankers(1.0) from(0.0) a(0.0) rigorous(0.0) standard(0.0) of(0.0) disinterestedness(1.0) ,(0.0) is(0.0) out(0.0) of(0.0) character(0.0) with(0.0) the(0.0) rest(0.0) 
+of(0.0) this(0.0) important(0.0) legislation(1.0) and(0.0) should(0.0) be(0.0) eliminated(0.0) .(0.0) ''(0.0) Section(0.0) 414(0.0) of(0.0) the(0.0) present(0.0) legislation(0.0) ,(0.0) I(0.0) think(0.0) ,(0.0) 
+is(0.0) a(0.0) large(0.0) snake(0.0) .(0.0) It(0.0) is(0.0) the(0.0) proverbial(0.0) fox(0.0) in(0.0) the(0.0) henhouse(1.0) .(0.0) And(0.0) what(0.0) section(0.0) 414(0.0) does(0.0) is(0.0) 
+it(0.0) eliminates(0.0) the(0.0) disinterested(0.0) rule(0.0) .(0.0) That(0.0) rule(1.0) has(0.0) existed(0.0) in(0.0) bankruptcy(1.0) law(1.0) for(0.0) 66(0.0) years(0.0) .(0.0) Under(0.0) current(0.0) law(1.0) 
+,(0.0) a(0.0) person(0.0) that(0.0) advises(0.0) the(0.0) trustee(0.0) must(0.0) be(0.0) ``(0.0) disinterested(0.0) ''(0.0) in(0.0) order(0.0) to(0.0) avoid(0.0) conflicts(0.0) of(0.0) interest(0.0) .(0.0) 
+Section(0.0) 414(0.0) eliminates(0.0) that(0.0) exclusion(1.0) .(0.0) Consequently(0.0) ,(0.0) section(0.0) 414(0.0) would(0.0) allow(0.0) the(0.0) same(0.0) entities(0.0) that(0.0) may(0.0) be(0.0) engaged(0.0) in(0.0) 
+negligence(1.0) or(0.0) even(0.0) fraud(1.0) prior(0.0) to(0.0) bankruptcy(1.0) to(0.0) advise(0.0) the(0.0) trustee(0.0) during(0.0) the(0.0) bankruptcy(0.0) process(0.0) .(0.0) Our(0.0) experience(0.0) alone(0.0) with(0.0) 
+the(0.0) recent(0.0) wave(0.0) of(0.0) corporate(1.0) scandals(1.0) means(0.0) that(0.0) we(0.0) need(0.0) to(0.0) carefully(0.0) examine(0.0) any(0.0) provision(1.0) that(0.0) would(0.0) weaken(0.0) the(0.0) conflict(1.0) 
+of(0.0) interest(0.0) standards(1.0) .(0.0) Weakening(1.0) those(0.0) standards(0.0) in(0.0) the(0.0) bankruptcy(1.0) code(0.0) promotes(1.0) conflicts(1.0) of(0.0) interest(0.0) rather(0.0) than(0.0) corporate(1.0) reform(1.0) .(0.0) 
+Let(0.0) me(0.0) quote(0.0) the(0.0) Wall(1.0) Street(1.0) Journal(0.0) addressing(0.0) this(0.0) section(0.0) 414(0.0) :(0.0) ``(0.0) Relaxing(0.0) the(0.0) disinterestedness(0.0) rules(0.0) will(0.0) serve(0.0) to(0.0) 
+reward(0.0) firms(1.0) that(0.0) had(0.0) some(0.0) part(0.0) of(0.0) the(0.0) company(0.0) 's(0.0) demise(0.0) .(0.0) .(0.0) .(0.0) By(0.0) allowing(0.0) firms(1.0) that(0.0) helped(0.0) the(0.0) 
+company(0.0) into(0.0) bankruptcy(1.0) continue(0.0) to(0.0) stay(0.0) on(0.0) the(0.0) payroll(1.0) ,(0.0) the(0.0) firms(1.0) are(0.0) being(0.0) rewarded(0.0) for(0.0) essentially(0.0) failing(1.0) at(0.0) the(0.0) 
+task(0.0) for(0.0) which(0.0) they(0.0) were(0.0) hired(0.0) .(0.0) ''(0.0) Eliot(1.0) Spitzer(1.0) has(0.0) testified(0.0) against(0.0) section(0.0) 414(0.0) .(0.0) He(0.0) says(0.0) ,(0.0) ``(0.0) 
+The(0.0) inherent(0.0) conflict(0.0) of(0.0) interest(0.0) created(0.0) by(0.0) section(0.0) 414(0.0) and(0.0) the(0.0) perverse(1.0) incentives(1.0) created(0.0) by(0.0) such(0.0) a(0.0) section(0.0) ought(0.0) to(0.0) 
+be(0.0) clear(0.0) to(0.0) all(0.0) ,(0.0) ''(0.0) and(0.0) I(0.0) would(0.0) agree(0.0) with(0.0) him(0.0) .(0.0) And(0.0) here(0.0) we(0.0) have(0.0) the(0.0) Attorney(1.0) General(0.0) 
+of(0.0) New(1.0) York(1.0) and(0.0) we(0.0) have(0.0) the(0.0) very(0.0) conservative(0.0) Judge(1.0) Jones(1.0) agreeing(1.0) on(0.0) this(0.0) point(0.0) ,(0.0) as(0.0) did(0.0) almost(0.0) all(0.0) 
+the(0.0) bankruptcy(1.0) commissioners(0.0) .(0.0) No(0.0) convincing(0.0) case(0.0) has(0.0) been(0.0) made(0.0) for(0.0) drastically(0.0) weakening(1.0) the(0.0) current(0.0) standard(0.0) as(0.0) section(0.0) 414(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	
+bill	urge	adopt	adopt	
+Bankruptcy	
+legislation	restoring	redressing	imbalances	
+manipulation	plague	law	encouraging	financial	
+Wisconsin	Sensenbrenner	
+
+provision	Jones	
+investment	bankers	disinterestedness	
+legislation	
+henhouse	
+rule	bankruptcy	law	law	
+
+exclusion	
+negligence	fraud	bankruptcy	
+corporate	scandals	provision	conflict	
+standards	Weakening	bankruptcy	promotes	conflicts	corporate	reform	
+Wall	Street	
+firms	firms	
+bankruptcy	payroll	firms	failing	
+Eliot	Spitzer	
+perverse	incentives	
+Attorney	
+New	York	Judge	Jones	agreeing	
+bankruptcy	weakening	
+
+reads % = 0.126

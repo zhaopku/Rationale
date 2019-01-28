@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) just(0.0) wanted(0.0) to(0.0) respond(0.0) to(0.0) the(0.0) comments(0.0) that(0.0) we(0.0) just(0.0) heard(0.0) and(0.0) put(0.0) some(0.0) of(0.0) this(0.0) in(0.0) perspective(0.0) 
+.(0.0) I(0.0) think(0.0) it(0.0) is(0.0) sad(0.0) when(0.0) we(0.0) start(0.0) using(0.0) words(0.0) like(0.0) ``(0.0) gutting(1.0) ''(0.0) and(0.0) ``(0.0) slashing(0.0) ,(0.0) ''(0.0) 
+when(0.0) in(0.0) fact(0.0) there(0.0) is(0.0) no(0.0) change(0.0) to(0.0) the(0.0) OSHA(1.0) funding(1.0) level(0.0) in(0.0) this(0.0) particular(0.0) amendment(1.0) proposal(1.0) .(0.0) There(0.0) is(0.0) 
+no(0.0) change(0.0) to(0.0) funding(1.0) at(0.0) all(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) the(0.0) only(0.0) question(0.0) is(0.0) whether(0.0) it(0.0) goes(0.0) to(0.0) the(0.0) enforcement(1.0) 
+part(0.0) or(0.0) to(0.0) the(0.0) part(0.0) that(0.0) helps(0.0) businesses(1.0) provide(0.0) compliance(0.0) and(0.0) provide(0.0) a(0.0) safe(0.0) workplace(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) 
+heard(0.0) the(0.0) gentleman(0.0) from(0.0) Wisconsin(1.0) [(0.0) Mr.(0.0) Obey(1.0) ](0.0) say(1.0) that(1.0) we(1.0) need(1.0) both(0.0) .(0.0) We(0.0) definitely(0.0) need(0.0) to(0.0) do(0.0) 
+both(0.0) of(0.0) these(0.0) ,(0.0) and(0.0) for(0.0) a(0.0) change(0.0) I(0.0) absolutely(0.0) agree(0.0) with(0.0) the(0.0) gentleman(0.0) .(0.0) We(0.0) do(0.0) need(0.0) to(0.0) do(0.0) 
+both(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) what(0.0) this(0.0) amendment(1.0) is(0.0) doing(0.0) is(0.0) creating(0.0) more(0.0) of(0.0) a(0.0) balance(0.0) between(0.0) how(0.0) much(0.0) we(0.0) 
+spend(1.0) in(0.0) each(0.0) place(0.0) .(0.0) We(0.0) are(0.0) currently(0.0) spending(1.0) $(0.0) 127(0.0) million(0.0) on(0.0) enforcement(1.0) and(0.0) only(0.0) $(0.0) 45(0.0) million(0.0) on(0.0) 
+the(0.0) other(0.0) portion(0.0) of(0.0) this(0.0) ,(0.0) or(0.0) the(0.0) compliance(1.0) portion(0.0) .(0.0) What(0.0) this(0.0) amendment(1.0) is(0.0) doing(0.0) is(0.0) trying(0.0) to(0.0) create(0.0) 
+a(0.0) stronger(0.0) and(0.0) a(0.0) better(0.0) balance(0.0) between(0.0) these(0.0) two(0.0) so(0.0) that(0.0) the(0.0) OSHA(1.0) group(0.0) can(0.0) become(0.0) a(0.0) group(0.0) that(0.0) is(0.0) 
+worker(0.0) friendly(0.0) and(0.0) that(0.0) can(0.0) actually(0.0) accomplish(0.0) the(0.0) goal(0.0) of(0.0) providing(0.0) a(0.0) safer(0.0) workplace(0.0) for(0.0) our(0.0) work(0.0) force(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+gutting	
+OSHA	funding	amendment	proposal	
+funding	Chairman	enforcement	
+businesses	Chairman	
+Wisconsin	Obey	say	that	we	need	
+
+Chairman	amendment	
+spend	spending	enforcement	
+compliance	amendment	
+OSHA	
+
+
+reads % = 0.1

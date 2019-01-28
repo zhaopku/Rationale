@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) such(0.0) time(0.0) as(0.0) he(0.0) may(0.0) consume(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Florida(1.0) ((0.0) Mr.(0.0) Lincoln(1.0) Diaz-Balart(1.0) )(0.0) .(0.0) 
+Mr.(1.0) LINCOLN(1.0) DIAZ-BALART(1.0) of(0.0) Florida(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) thank(1.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) Jersey(0.0) ((0.0) Mr.(0.0) Smith(1.0) )(0.0) 
+for(0.0) yielding(0.0) me(0.0) time(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) know(1.0) the(0.0) hard(0.0) work(0.0) that(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) ((0.0) Mr.(0.0) 
+Cox(1.0) )(0.0) has(0.0) put(0.0) into(0.0) this(0.0) ,(0.0) along(1.0) with(0.0) ,(0.0) obviously(1.0) ,(0.0) the(0.0) leadership(1.0) of(0.0) the(0.0) Committee(0.0) on(0.0) International(0.0) Relations(1.0) 
+that(0.0) have(0.0) made(0.0) it(0.0) possible(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Illinois(1.0) ((0.0) Mr.(0.0) Hyde(1.0) )(0.0) and(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) ((0.0) 
+Mr.(1.0) Lantos(1.0) )(0.0) ,(0.0) for(0.0) this(0.0) resolution(0.0) to(0.0) come(0.0) forward(0.0) in(0.0) a(0.0) timely(1.0) basis(1.0) .(0.0) Timeliness(1.0) is(0.0) critical(1.0) here(0.0) .(0.0) 
+Time(1.0) is(0.0) of(0.0) the(0.0) essence(1.0) because(0.0) of(0.0) what(0.0) the(0.0) Chinese(0.0) Communist(1.0) regime(1.0) is(0.0) seeking(0.0) to(0.0) do(0.0) precisely(0.0) in(0.0) these(0.0) weeks(1.0) 
+in(0.0) Hong(0.0) Kong(1.0) .(0.0) It(0.0) seems(0.0) as(0.0) though(0.0) ,(0.0) Mr.(1.0) Speaker(1.0) ,(0.0) tyranny(1.0) knows(0.0) only(0.0) one(0.0) modus(1.0) operandi(0.0) ,(0.0) to(0.0) 
+repress(1.0) the(0.0) people(0.0) by(0.0) any(1.0) means(0.0) necessary(0.0) to(0.0) prevent(0.0) dissent(0.0) .(0.0) We(0.0) have(0.0) seen(0.0) this(0.0) all(0.0) too(0.0) clearly(1.0) with(0.0) the(0.0) 
+dictator(1.0) only(0.0) 90(0.0) miles(0.0) off(0.0) our(0.0) shores(1.0) here(0.0) ,(0.0) off(0.0) the(0.0) shores(1.0) of(0.0) the(0.0) United(0.0) States(0.0) .(0.0) And(0.0) now(0.0) a(0.0) 
+bastion(1.0) of(0.0) freedom(1.0) in(0.0) the(0.0) face(0.0) of(0.0) one(0.0) of(0.0) the(0.0) most(1.0) tyrannical(1.0) regimes(0.0) in(0.0) the(0.0) world(0.0) is(0.0) facing(1.0) a(0.0) dire(1.0) 
+threat(1.0) .(0.0) Hong(0.0) Kong(1.0) may(0.0) soon(0.0) have(0.0) its(0.0) important(0.0) freedoms(1.0) destroyed(1.0) by(0.0) the(0.0) so-called(1.0) People(0.0) 's(0.0) Republic(1.0) of(0.0) China(1.0) ,(0.0) 
+the(0.0) PRC(1.0) .(0.0) In(0.0) an(0.0) act(0.0) of(0.0) complete(0.0) cowardice(1.0) and(0.0) desperation(1.0) ,(0.0) the(0.0) PRC(1.0) has(0.0) prepared(1.0) new(0.0) legislation(0.0) called(0.0) article(1.0) 
+23(0.0) of(0.0) the(0.0) Basic(0.0) Law(1.0) which(0.0) seeks(1.0) to(0.0) severely(1.0) restrict(1.0) the(0.0) freedoms(1.0) of(0.0) the(0.0) people(0.0) of(0.0) Hong(0.0) Kong(1.0) .(0.0) The(0.0) 
+communist(1.0) government(1.0) in(0.0) Beijing(1.0) is(0.0) pressuring(1.0) the(0.0) local(0.0) government(1.0) in(0.0) Hong(0.0) Kong(1.0) to(0.0) pass(1.0) this(0.0) legislation(0.0) before(1.0) July(0.0) 9(0.0) .(0.0) 
+Freedom(1.0) of(0.0) the(0.0) press(1.0) and(0.0) freedom(1.0) of(0.0) expression(0.0) are(0.0) in(0.0) great(0.0) jeopardy(1.0) because(0.0) of(0.0) this(0.0) legislation(0.0) .(0.0) The(0.0) actions(0.0) of(0.0) 
+the(0.0) Chinese(0.0) regime(1.0) fly(1.0) in(0.0) the(0.0) face(0.0) of(0.0) promise(0.0) made(0.0) by(0.0) Beijing(1.0) of(0.0) ``(1.0) one(0.0) country(1.0) ,(0.0) two(0.0) systems(0.0) ,(0.0) 
+''(0.0) a(0.0) 50-year(1.0) commitment(0.0) that(0.0) was(0.0) made(0.0) to(0.0) the(0.0) world(0.0) to(0.0) preserve(0.0) Hong(0.0) Kong(1.0) 's(0.0) respect(1.0) for(0.0) human(0.0) liberties(1.0) .(0.0) 
+But(0.0) a(0.0) mere(0.0) 6(0.0) years(0.0) after(0.0) the(0.0) British(0.0) handed(1.0) Hong(0.0) Kong(1.0) to(0.0) the(0.0) Communist(1.0) Chinese(0.0) ,(0.0) we(0.0) see(0.0) that(0.0) the(0.0) 
+totalitarianism(1.0) has(0.0) no(1.0) patience(1.0) .(0.0) It(0.0) can(0.0) not(0.0) stand(0.0) to(0.0) see(0.0) the(0.0) failures(0.0) of(0.0) its(0.0) regime(1.0) in(0.0) the(0.0) very(0.0) face(0.0) 
+of(0.0) the(0.0) shining(1.0) example(0.0) that(0.0) Hong(0.0) Kong(1.0) has(0.0) been(0.0) of(0.0) freedom(1.0) and(0.0) civil(1.0) liberties(1.0) .(0.0) The(0.0) elimination(0.0) of(0.0) freedom(1.0) of(0.0) 
+speech(0.0) holds(1.0) countless(0.0) dangers(1.0) .(0.0) For(0.0) example(0.0) ,(0.0) the(0.0) recent(1.0) SARS(0.0) outbreak(0.0) in(0.0) China(1.0) and(0.0) many(0.0) parts(0.0) of(0.0) the(0.0) world(0.0) 
+was(0.0) hastened(1.0) in(0.0) fact(0.0) by(0.0) the(0.0) PRC(1.0) 's(0.0) inability(1.0) to(0.0) deal(1.0) with(0.0) the(0.0) truths(1.0) .(0.0) The(0.0) regime(1.0) 's(0.0) lies(0.0) and(0.0) 
+deception(1.0) hamstrung(1.0) the(0.0) world(0.0) from(0.0) dealing(0.0) effectively(0.0) with(0.0) the(0.0) crisis(1.0) .(0.0) The(0.0) truths(0.0) about(0.0) the(0.0) epidemic(0.0) 's(0.0) extent(1.0) were(0.0) unclear(1.0) 
+;(0.0) totalitarianism(1.0) simply(0.0) could(0.0) not(1.0) face(0.0) or(1.0) did(0.0) not(1.0) know(0.0) how(0.0) to(0.0) face(0.0) reality(1.0) .(0.0) Now(0.0) ,(0.0) this(0.0) created(0.0) 
+
+
+----- below are rationale words -----
+
+Florida	Lincoln	Diaz-Balart	
+Mr.	LINCOLN	DIAZ-BALART	Florida	Speaker	thank	Smith	
+time	Speaker	know	
+Cox	along	obviously	leadership	Relations	
+Illinois	Hyde	
+Mr.	Lantos	timely	basis	Timeliness	critical	
+Time	essence	Communist	regime	weeks	
+Kong	Mr.	Speaker	tyranny	modus	
+repress	any	clearly	
+dictator	shores	shores	
+bastion	freedom	most	tyrannical	facing	dire	
+threat	Kong	freedoms	destroyed	so-called	Republic	China	
+PRC	cowardice	desperation	PRC	prepared	article	
+Law	seeks	severely	restrict	freedoms	Kong	
+communist	government	Beijing	pressuring	government	Kong	pass	before	
+Freedom	press	freedom	jeopardy	
+regime	fly	Beijing	``	country	
+50-year	Kong	respect	liberties	
+handed	Kong	Communist	
+totalitarianism	no	patience	regime	
+shining	Kong	freedom	civil	liberties	freedom	
+holds	dangers	recent	China	
+hastened	PRC	inability	deal	truths	regime	
+deception	hamstrung	crisis	extent	unclear	
+totalitarianism	not	or	not	reality	
+
+reads % = 0.242

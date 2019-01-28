@@ -1,0 +1,48 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) opposition(1.0) to(0.0) the(0.0) conference(0.0) report(0.0) on(0.0) H.R(0.0) .(0.0) 3199(0.0) ,(0.0) the(0.0) USA(0.0) PATRIOT(1.0) and(0.0) 
+Terrorism(0.0) Prevention(0.0) Reauthorization(0.0) Act(0.0) of(0.0) 2005(0.0) .(0.0) Last(0.0) week(0.0) ,(0.0) Republican(0.0) House(1.0) and(1.0) Senate(1.0) negotiators(1.0) reached(1.0) an(1.0) agreement(1.0) to(1.0) reauthorize(1.0) 
+the(0.0) PATRIOT(1.0) Act(1.0) .(0.0) As(0.0) part(0.0) of(0.0) the(0.0) deal(0.0) agreed(0.0) to(0.0) by(0.0) House(0.0) and(0.0) Senate(0.0) Republican(0.0) conferees(1.0) ,(1.0) Federal(1.0) law(1.0) 
+enforcement(1.0) authorities(1.0) will(1.0) retain(1.0) the(1.0) right(1.0) to(1.0) :(1.0) Investigate(1.0) American(0.0) citizens(1.0) without(1.0) judicial(1.0) oversight(1.0) ,(1.0) a(1.0) power(1.0) that(0.0) is(1.0) invoked(1.0) 
+more(0.0) than(0.0) 30,000(0.0) times(0.0) each(0.0) year(0.0) ;(0.0) search(0.0) individuals(0.0) '(0.0) private(0.0) property(0.0) without(0.0) notifying(0.0) them(0.0) ;(0.0) access(0.0) citizens(1.0) '(0.0) library(0.0) 
+records(0.0) ,(0.0) medical(1.0) records(0.0) ,(0.0) school(0.0) records(0.0) ,(0.0) and(0.0) financial(0.0) records(0.0) virtually(0.0) unchecked(1.0) by(0.0) the(0.0) judiciary(1.0) .(0.0) The(0.0) House-Senate(1.0) conference(0.0) 
+committee(0.0) had(0.0) an(0.0) opportunity(0.0) to(0.0) revise(0.0) the(0.0) PATRIOT(0.0) Act(0.0) 's(0.0) expiring(0.0) provisions(0.0) to(0.0) protect(0.0) the(0.0) rights(1.0) and(0.0) liberties(1.0) of(0.0) all(0.0) 
+Americans(1.0) more(0.0) effectively(0.0) .(0.0) Regrettably(0.0) ,(0.0) the(0.0) opportunity(0.0) was(0.0) lost(0.0) when(0.0) Democratic(0.0) conferees(1.0) were(0.0) excluded(1.0) from(0.0) key(0.0) negotiations(1.0) .(0.0) The(0.0) 
+resulting(0.0) conference(0.0) report(0.0) falls(0.0) short(0.0) of(0.0) what(0.0) the(0.0) American(0.0) people(0.0) have(0.0) every(0.0) reason(0.0) to(0.0) expect(0.0) Congress(0.0) to(0.0) achieve(0.0) in(0.0) defending(1.0) 
+their(0.0) rights(1.0) while(0.0) advancing(1.0) their(0.0) security(0.0) .(0.0) The(0.0) conference(0.0) report(0.0) drops(0.0) key(0.0) protections(1.0) in(0.0) the(0.0) Senate-passed(1.0) bill(1.0) regarding(1.0) ``(1.0) national(0.0) 
+security(0.0) letters(0.0) .(0.0) ''(0.0) National(0.0) security(0.0) letters(0.0) ,(0.0) NSLs(1.0) ,(0.0) are(0.0) ,(0.0) in(0.0) effect(0.0) ,(0.0) a(0.0) form(0.0) of(0.0) secret(0.0) administrative(0.0) 
+subpoena(0.0) .(0.0) They(0.0) are(0.0) issued(0.0) by(0.0) Federal(0.0) authorities(1.0) --(0.0) most(0.0) often(0.0) FBI(1.0) agents(0.0) --(0.0) without(0.0) any(0.0) court(0.0) supervision(0.0) ,(0.0) and(0.0) 
+recipients(1.0) are(0.0) prohibited(0.0) from(0.0) telling(0.0) anyone(0.0) that(0.0) they(0.0) have(0.0) been(0.0) served(0.0) .(0.0) The(0.0) conference(0.0) report(0.0) also(0.0) fails(0.0) to(0.0) protect(0.0) the(0.0) 
+records(0.0) of(0.0) innocent(1.0) Americans(1.0) collected(0.0) by(0.0) means(0.0) of(0.0) these(0.0) NSLs(1.0) .(0.0) Under(0.0) the(0.0) conference(0.0) report(0.0) ,(0.0) such(0.0) records(0.0) may(0.0) be(0.0) 
+kept(0.0) forever(0.0) in(0.0) government(1.0) databases(0.0) ,(0.0) shared(0.0) with(0.0) the(0.0) intelligence(0.0) community(0.0) ,(0.0) and(0.0) used(0.0) for(0.0) data-mining(1.0) .(0.0) There(0.0) is(0.0) no(0.0) 
+more(0.0) difficult(0.0) task(0.0) I(0.0) have(0.0) as(0.0) a(0.0) legislator(0.0) than(0.0) balancing(0.0) the(0.0) Nation(1.0) 's(0.0) security(0.0) with(0.0) our(0.0) civil(1.0) liberties(1.0) ,(0.0) but(0.0) 
+this(0.0) task(0.0) is(0.0) not(0.0) a(0.0) zero(0.0) sum(0.0) game(0.0) .(0.0) By(0.0) passing(0.0) a(0.0) conference(0.0) report(0.0) that(0.0) allows(0.0) the(0.0) troubling(1.0) aspects(0.0) of(0.0) 
+the(0.0) PATRIOT(1.0) Act(0.0) to(0.0) continue(0.0) ,(0.0) we(0.0) pursue(1.0) a(0.0) false(0.0) sense(0.0) of(0.0) national(1.0) security(0.0) at(0.0) the(0.0) expense(0.0) of(0.0) our(0.0) civil(1.0) 
+liberties(1.0) .(0.0) I(0.0) opposed(1.0) the(0.0) PATRIOT(1.0) Act(1.0) when(0.0) it(0.0) first(0.0) came(0.0) to(0.0) us(0.0) in(0.0) 2001(0.0) and(0.0) I(0.0) vote(1.0) against(0.0) it(0.0) 
+today(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+opposition	PATRIOT	
+House	and	Senate	negotiators	reached	an	agreement	to	reauthorize	
+PATRIOT	Act	conferees	,	Federal	law	
+enforcement	authorities	will	retain	the	right	to	:	Investigate	citizens	without	judicial	oversight	,	a	power	is	invoked	
+citizens	
+medical	unchecked	judiciary	House-Senate	
+rights	liberties	
+Americans	conferees	excluded	negotiations	
+defending	
+rights	advancing	protections	Senate-passed	bill	regarding	``	
+NSLs	
+authorities	FBI	
+recipients	
+innocent	Americans	NSLs	
+government	data-mining	
+Nation	civil	liberties	
+troubling	
+PATRIOT	pursue	national	civil	
+liberties	opposed	PATRIOT	Act	vote	
+
+
+reads % = 0.19843342036553524

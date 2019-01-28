@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+It(0.0) is(0.0) ultimately(0.0) about(0.0) the(0.0) patients(0.0) that(0.0) we(0.0) take(0.0) care(0.0) of(0.0) .(0.0) Really(0.0) ,(0.0) it(0.0) 's(0.0) not(0.0) about(0.0) systems(0.0) and(0.0) organizations(1.0) 
+and(0.0) insurance(0.0) --(0.0) it(0.0) 's(0.0) about(0.0) people(0.0) .(0.0) That(0.0) 's(0.0) the(0.0) frustrating(0.0) part(0.0) to(0.0) me(0.0) because(0.0) I(0.0) think(0.0) people(0.0) are(0.0) 
+going(0.0) to(0.0) be(0.0) harmed(1.0) by(0.0) this(0.0) .(0.0) I(0.0) know(0.0) Dr.(0.0) Fleming(1.0) mentioned(0.0) small(0.0) business(0.0) .(0.0) I(0.0) was(0.0) in(0.0) North(0.0) Carolina(0.0) 
+last(0.0) Tuesday(0.0) ,(0.0) a(0.0) week(0.0) ago(0.0) today(0.0) ,(0.0) holding(0.0) a(0.0) hearing(0.0) ,(0.0) which(0.0) I(0.0) hope(0.0) we(0.0) have(0.0) time(0.0) to(0.0) go(0.0) 
+through(0.0) maybe(0.0) a(0.0) little(0.0) later(0.0) ,(0.0) on(0.0) small(0.0) businesses(1.0) and(0.0) how(0.0) this(0.0) is(0.0) going(0.0) to(0.0) affect(0.0) them(0.0) .(0.0) It(0.0) 's(0.0) 
+really(0.0) eye(0.0) opening(0.0) to(0.0) see(0.0) businesses(1.0) that(0.0) have(0.0) done(0.0) everything(0.0) exactly(0.0) right(0.0) .(0.0) Mr.(0.0) Horn(1.0) is(1.0) someone(0.0) I(0.0) want(0.0) to(0.0) 
+talk(0.0) about(0.0) in(0.0) just(0.0) a(0.0) minute(0.0) who(0.0) provided(0.0) health(1.0) insurance(1.0) --(0.0) all(0.0) preventative(1.0) services(0.0) .(0.0) He(0.0) is(0.0) self-insured(1.0) .(0.0) He(0.0) 
+did(0.0) everything(0.0) right(0.0) .(0.0) It(0.0) should(0.0) n't(0.0) have(0.0) cost(0.0) him(0.0) a(0.0) nickel(0.0) ,(0.0) and(0.0) yet(0.0) it(0.0) is(0.0) going(0.0) to(0.0) cost(0.0) 
+his(0.0) business(0.0) thousands(0.0) of(0.0) dollars(1.0) .(0.0) So(0.0) we(0.0) 'll(0.0) go(0.0) into(0.0) that(0.0) .(0.0) At(0.0) this(0.0) point(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) 
+yield(0.0) some(0.0) time(0.0) to(0.0) my(0.0) good(0.0) friend(0.0) G.T(0.0) .(0.0) Thompson(0.0) from(0.0) Pennsylvania(1.0) ,(0.0) who(0.0) is(0.0) part(0.0) of(0.0) our(0.0) Health(1.0) Care(1.0) 
+Caucus(1.0) and(0.0) who(0.0) is(0.0) a(0.0) health(0.0) care(0.0) administrator(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+organizations	
+
+harmed	Fleming	
+
+businesses	
+businesses	Horn	is	
+health	insurance	preventative	self-insured	
+
+dollars	
+Pennsylvania	Health	Care	
+Caucus	
+
+reads % = 0.0761904761904762

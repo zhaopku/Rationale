@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) in(0.0) the(0.0) spring(0.0) of(0.0) 1981(0.0) ,(0.0) I(0.0) was(0.0) applying(0.0) for(0.0) the(0.0) White(1.0) House(0.0) Fellow(0.0) 's(0.0) Program(0.0) ,(0.0) which(0.0) is(0.0) 
+a(0.0) program(0.0) where(0.0) you(0.0) work(0.0) for(0.0) the(0.0) President(1.0) of(0.0) the(0.0) United(0.0) States(0.0) for(0.0) 1(0.0) year(0.0) in(0.0) one(0.0) of(0.0) the(0.0) executive(0.0) 
+agencies(1.0) like(0.0) the(0.0) Department(0.0) of(0.0) Energy(0.0) or(0.0) the(0.0) Department(0.0) of(0.0) State(0.0) .(0.0) Our(0.0) regional(1.0) seminar(0.0) was(0.0) in(0.0) Austin(0.0) ,(0.0) Texas(1.0) 
+,(0.0) at(0.0) the(0.0) LBJ(1.0) School(0.0) of(0.0) Government(0.0) .(0.0) We(0.0) had(0.0) a(0.0) lunch(0.0) ,(0.0) and(0.0) I(0.0) sat(0.0) at(0.0) lunch(0.0) with(0.0) Hillary(1.0) 
+Rodham(1.0) Clinton(1.0) and(0.0) a(0.0) lady(0.0) name(0.0) Sarah(0.0) Weddington(1.0) ,(0.0) who(0.0) was(0.0) the(0.0) lead(0.0) attorney(0.0) in(0.0) the(0.0) Roe(1.0) v.(0.0) Wade(1.0) Supreme(1.0) 
+Court(0.0) case(0.0) .(0.0) Little(0.0) did(0.0) I(0.0) know(0.0) then(0.0) ,(0.0) back(0.0) in(0.0) 1981(1.0) ,(0.0) that(0.0) that(0.0) case(0.0) would(0.0) still(0.0) be(0.0) the(0.0) 
+law(1.0) of(0.0) the(0.0) land(0.0) .(0.0) Today(0.0) ,(0.0) thousands(0.0) of(0.0) people(0.0) from(0.0) all(0.0) over(0.0) the(0.0) United(0.0) States(0.0) came(0.0) to(0.0) protest(1.0) that(0.0) 
+court(0.0) case(0.0) and(0.0) asked(0.0) the(0.0) Congress(0.0) to(0.0) help(0.0) overturn(1.0) it(0.0) .(0.0) I(0.0) 'm(0.0) a(0.0) lifetime(0.0) 95(0.0) percent(0.0) pro-life(1.0) voting(1.0) Member(0.0) 
+,(0.0) and(0.0) I(0.0) pledged(1.0) to(0.0) the(0.0) crowd(0.0) on(0.0) the(0.0) Mall(0.0) that(0.0) I(0.0) would(0.0) do(0.0) everything(0.0) I(0.0) could(0.0) in(0.0) Congress(0.0) to(0.0) 
+help(0.0) overturn(1.0) that(0.0) decision(1.0) .(0.0) Life(0.0) is(0.0) precious(0.0) .(0.0) Life(0.0) begins(0.0) at(0.0) conception(1.0) ,(0.0) and(0.0) we(0.0) need(0.0) to(0.0) recognize(0.0) that(0.0) 
+in(0.0) the(0.0) Congress(0.0) of(0.0) the(0.0) United(0.0) States(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+White	
+President	
+agencies	regional	Texas	
+LBJ	Hillary	
+Rodham	Clinton	Weddington	Roe	Wade	Supreme	
+1981	
+law	protest	
+overturn	pro-life	voting	
+pledged	
+overturn	decision	conception	
+
+
+reads % = 0.11004784688995216

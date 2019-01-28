@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) support(1.0) of(0.0) this(0.0) rule(1.0) and(0.0) the(0.0) underlying(0.0) bill(1.0) ,(0.0) H.R(0.0) .(0.0) 2187(0.0) .(0.0) I(0.0) also(0.0) 
+must(0.0) comment(0.0) ,(0.0) I(0.0) 'm(0.0) sorry(0.0) that(0.0) my(0.0) friend(0.0) and(0.0) colleague(0.0) from(0.0) Florida(0.0) feels(0.0) that(0.0) things(0.0) like(0.0) the(0.0) 2009(0.0) appropriations(0.0) 
+bill(0.0) was(0.0) somehow(0.0) closed(0.0) ,(0.0) because(0.0) not(0.0) only(0.0) was(0.0) it(0.0) agreed(0.0) to(0.0) last(0.0) year(0.0) in(0.0) committee(0.0) and(0.0) subcommittee(0.0) and(0.0) through(0.0) 
+the(0.0) normal(0.0) appropriations(0.0) process(0.0) ,(0.0) but(0.0) there(0.0) were(0.0) hundreds(0.0) ,(0.0) if(0.0) not(0.0) thousands(0.0) ,(0.0) of(0.0) special(0.0) appropriations(1.0) or(0.0) earmarks(1.0) that(0.0) 
+some(0.0) would(0.0) say(0.0) that(0.0) were(0.0) asked(0.0) for(0.0) and(0.0) granted(0.0) to(0.0) Republican(0.0) Members(1.0) of(1.0) Congress(0.0) .(1.0) So(0.0) it(0.0) 's(0.0) simply(0.0) in(0.0) 
+that(0.0) case(0.0) not(0.0) true(0.0) that(0.0) --(0.0) --(0.0) Mr.(0.0) LINCOLN(1.0) DIAZ-BALART(0.0) of(0.0) Florida(0.0) .(0.0) Will(0.0) my(0.0) friend(0.0) yield(0.0) ?(0.0) Mr.(0.0) LINCOLN(1.0) 
+DIAZ-BALART(0.0) of(0.0) Florida(0.0) .(0.0) I(0.0) was(0.0) talking(0.0) about(0.0) the(0.0) process(0.0) that(0.0) does(0.0) not(0.0) permit(0.0) amendments(1.0) on(0.0) the(0.0) floor(0.0) .(0.0) That(0.0) 
+'s(0.0) what(0.0) we're(0.0) referring(0.0) to(0.0) when(0.0) we(0.0) talk(0.0) about(0.0) closed(0.0) rules(0.0) .(0.0) Reclaiming(1.0) my(0.0) time(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) talk(0.0) 
+--(0.0) --(0.0) Mr.(0.0) LINCOLN(1.0) DIAZ-BALART(0.0) of(0.0) Florida(0.0) .(0.0) The(0.0) fact(0.0) that(0.0) there(0.0) were(0.0) earmarks(1.0) in(0.0) the(0.0) bill(1.0) is(0.0) a(0.0) separate(0.0) 
+debate(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+support	rule	bill	
+
+
+appropriations	earmarks	
+Members	of	.	
+LINCOLN	LINCOLN	
+amendments	
+Reclaiming	
+LINCOLN	earmarks	bill	
+debate	
+
+reads % = 0.08743169398907104

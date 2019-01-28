@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Chairman(1.0) ,(0.0) on(0.0) the(0.0) Democratic(1.0) side(0.0) ,(0.0) we(0.0) strongly(1.0) support(0.0) the(0.0) amendments(0.0) ,(0.0) and(0.0) I(0.0) want(1.0) to(0.0) commend(1.0) our(0.0) friend(0.0) 
+from(0.0) Texas(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	Democratic	strongly	want	commend	
+
+
+reads % = 0.20833333333333334

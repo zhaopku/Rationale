@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) this(0.0) is(0.0) ,(0.0) since(0.0) April(0.0) 1(0.0) ,(0.0) the(0.0) 16th(0.0) day(0.0) the(0.0) House(0.0) has(0.0) been(0.0) in(0.0) session(0.0) .(0.0) And(0.0) here(0.0) 
+is(0.0) a(0.0) sample(0.0) of(0.0) what(0.0) we(0.0) have(0.0) done(0.0) :(0.0) we(0.0) have(0.0) named(0.0) 11(0.0) post(0.0) offices(1.0) ,(0.0) recognized(0.0) the(0.0) Garden(0.0) Club(0.0) 
+of(0.0) America(0.0) ,(0.0) recognized(1.0) the(0.0) importance(0.0) of(0.0) music(0.0) education(1.0) in(0.0) America(1.0) ,(0.0) and(0.0) authorized(0.0) the(0.0) use(0.0) of(0.0) the(0.0) Capitol(0.0) grounds(1.0) 
+for(0.0) the(0.0) Soap(0.0) Box(0.0) Derby(0.0) .(0.0) What(0.0) has(0.0) happened(0.0) to(0.0) our(0.0) troops(1.0) in(0.0) Iraq(1.0) in(0.0) that(0.0) time(0.0) ?(0.0) We(0.0) lost(0.0) 
+184(0.0) Americans(1.0) ,(0.0) our(0.0) loved(0.0) ones(0.0) ,(0.0) bringing(0.0) the(0.0) total(0.0) to(0.0) 785(0.0) .(0.0) As(0.0) we(0.0) name(0.0) post(0.0) offices(0.0) ,(0.0) our(0.0) 
+constituents(1.0) are(0.0) asking(0.0) questions(0.0) of(0.0) the(0.0) whys(0.0) and(0.0) hows(0.0) of(0.0) Iraq(1.0) and(0.0) want(0.0) us(0.0) to(0.0) get(0.0) the(0.0) answers(0.0) .(0.0) This(0.0) 
+week(0.0) how(0.0) are(0.0) we(0.0) handling(0.0) the(0.0) controversies(1.0) in(0.0) Iraq(1.0) ?(0.0) We(0.0) are(0.0) going(0.0) to(0.0) name(0.0) three(0.0) more(0.0) post(0.0) offices(0.0) ;(0.0) 
+authorize(0.0) the(0.0) use(0.0) of(0.0) the(0.0) Capitol(1.0) grounds(1.0) ,(0.0) appropriately(0.0) ,(0.0) for(0.0) the(0.0) World(0.0) War(0.0) II(0.0) memorial(0.0) services(0.0) ;(0.0) and(0.0) consider(0.0) 
+the(0.0) Paperwork(1.0) Reduction(0.0) Act(0.0) .(0.0) Then(0.0) we(0.0) are(0.0) going(0.0) on(0.0) recess(1.0) .(0.0) This(0.0) House(0.0) has(0.0) surrendered(0.0) its(0.0) oversight(1.0) role(0.0) ,(0.0) 
+which(0.0) is(0.0) constitutionally(1.0) enacted(1.0) and(0.0) guaranteed(0.0) ,(0.0) by(0.0) rubber-stamping(1.0) the(0.0) policy(1.0) in(0.0) Iraq(1.0) without(0.0) asking(0.0) the(0.0) questions(0.0) our(0.0) constituents(1.0) are(0.0) 
+asking(0.0) and(0.0) not(0.0) seeking(0.0) the(0.0) answers(0.0) they(0.0) need(0.0) .(0.0) As(0.0) President(0.0) Kennedy(1.0) once(0.0) said(0.0) ,(0.0) ``(0.0) To(0.0) govern(0.0) is(0.0) to(0.0) 
+choose(0.0) .(0.0) ''(0.0) We(0.0) need(0.0) to(0.0) make(0.0) choices(0.0) here(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+offices	
+recognized	education	America	grounds	
+troops	Iraq	
+Americans	
+constituents	Iraq	
+controversies	Iraq	
+Capitol	grounds	
+Paperwork	recess	oversight	
+constitutionally	enacted	rubber-stamping	policy	Iraq	constituents	
+Kennedy	
+
+
+reads % = 0.1038961038961039

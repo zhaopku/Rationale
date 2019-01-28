@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) strike(1.0) the(0.0) requisite(0.0) number(0.0) of(0.0) words(0.0) ,(0.0) and(0.0) I(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) the(0.0) gentleman(0.0) 's(0.0) 
+amendment(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) am(0.0) pleased(0.0) to(0.0) support(0.0) the(0.0) gentleman(0.0) 's(0.0) amendment(1.0) .(0.0) In(0.0) today(0.0) 's(0.0) tight(0.0) economic(1.0) 
+times(0.0) ,(0.0) it(0.0) is(0.0) important(0.0) that(0.0) we(0.0) attempt(0.0) to(0.0) maximize(0.0) the(0.0) resources(0.0) available(0.0) for(0.0) environmental(1.0) protection(1.0) .(0.0) This(0.0) amendment(1.0) would(1.0) 
+assure(0.0) that(0.0) the(0.0) fines(1.0) and(0.0) penalties(1.0) which(0.0) are(0.0) assessed(0.0) and(0.0) collected(0.0) for(0.0) violations(1.0) of(0.0) the(0.0) Clean(1.0) Water(0.0) Act(0.0) are(0.0) used(0.0) 
+to(0.0) benefit(0.0) the(0.0) environment(0.0) in(0.0) the(0.0) area(0.0) where(0.0) the(0.0) violation(1.0) occurred(0.0) .(0.0) This(0.0) amendment(1.0) will(0.0) put(0.0) these(0.0) fines(1.0) and(0.0) penalties(1.0) 
+to(0.0) use(0.0) to(0.0) create(0.0) remedial(1.0) projects(0.0) to(0.0) restore(1.0) and(0.0) recover(0.0) from(0.0) damages(1.0) resulting(0.0) from(0.0) the(0.0) violation(1.0) .(0.0) While(0.0) consent(0.0) orders(0.0) 
+often(0.0) include(0.0) environmental(1.0) remediation(1.0) ,(0.0) when(0.0) cases(0.0) go(0.0) to(0.0) trial(0.0) ,(0.0) fines(1.0) and(0.0) penalties(0.0) often(0.0) end(0.0) up(0.0) as(0.0) miscellaneous(0.0) receipts(0.0) 
+in(0.0) the(0.0) Treasury(0.0) .(0.0) This(0.0) may(0.0) assist(0.0) the(0.0) general(0.0) fund(0.0) ,(0.0) but(0.0) it(0.0) does(0.0) n't(0.0) help(0.0) the(0.0) local(0.0) environment(0.0) which(0.0) 
+has(0.0) suffered(0.0) the(0.0) harm(1.0) .(0.0) Funding(1.0) at(0.0) all(0.0) levels(0.0) of(0.0) government(1.0) is(0.0) under(0.0) increasing(0.0) pressure(1.0) .(0.0) If(0.0) we(0.0) can(0.0) increase(1.0) 
+funding(1.0) for(0.0) environmental(1.0) cleanup(1.0) ,(0.0) without(0.0) using(0.0) tax(1.0) receipts(1.0) ,(0.0) I(0.0) believe(0.0) that(0.0) we(0.0) should(0.0) pursue(0.0) such(0.0) an(0.0) option(0.0) .(0.0) 
+Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) support(0.0) the(0.0) amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+strike	
+amendment	Chairman	amendment	economic	
+environmental	protection	amendment	would	
+fines	penalties	violations	Clean	
+violation	amendment	fines	penalties	
+remedial	restore	damages	violation	
+environmental	remediation	fines	
+
+harm	Funding	government	pressure	increase	
+funding	environmental	cleanup	tax	receipts	
+Chairman	amendment	
+
+reads % = 0.1722488038277512

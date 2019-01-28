@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+Let(0.0) me(0.0) note(0.0) that(0.0) if(0.0) we(0.0) really(0.0) want(0.0) to(0.0) have(0.0) the(0.0) spread(0.0) of(0.0) disease(0.0) in(0.0) this(0.0) country(1.0) ,(0.0) let(0.0) us(0.0) set(0.0) 
+ourselves(0.0) up(0.0) as(0.0) the(0.0) HMO(1.0) for(0.0) the(0.0) whole(0.0) world(0.0) .(0.0) Let(0.0) us(0.0) make(0.0) sure(0.0) that(0.0) everybody(0.0) in(0.0) the(0.0) world(0.0) knows(0.0) 
+that(0.0) if(0.0) they(0.0) can(0.0) get(0.0) their(0.0) kids(0.0) to(0.0) the(0.0) United(0.0) States(0.0) ,(0.0) we(0.0) will(0.0) take(0.0) care(1.0) of(0.0) them(0.0) ,(0.0) and(0.0) 
+see(0.0) how(0.0) many(0.0) diseases(0.0) we(0.0) are(0.0) going(0.0) to(0.0) get(0.0) .(0.0) That(0.0) is(0.0) what(0.0) is(0.0) happening(0.0) in(0.0) California(1.0) right(0.0) now(0.0) .(0.0) 
+Diseases(0.0) are(0.0) beginning(0.0) to(0.0) materialize(0.0) because(0.0) people(0.0) have(0.0) brought(0.0) their(0.0) children(0.0) and(0.0) brought(0.0) their(0.0) seniors(1.0) as(0.0) well(0.0) to(0.0) come(0.0) to(0.0) 
+the(0.0) United(0.0) States(0.0) to(0.0) be(0.0) treated(0.0) .(0.0) We(0.0) have(0.0) got(0.0) to(0.0) end(0.0) that(0.0) syndrome(0.0) because(0.0) the(0.0) money(1.0) is(0.0) coming(0.0) directly(0.0) 
+from(0.0) the(0.0) health(1.0) care(0.0) dollars(1.0) that(0.0) should(0.0) go(0.0) to(0.0) our(0.0) own(0.0) citizens(1.0) ,(0.0) and(0.0) it(0.0) is(0.0) luring(0.0) more(0.0) people(0.0) with(0.0) 
+disease(0.0) into(0.0) our(0.0) country(1.0) .(0.0) This(0.0) is(0.0) a(0.0) catastrophe(0.0) .(0.0) The(0.0) best(0.0) way(0.0) to(0.0) prevent(0.0) it(0.0) is(0.0) to(0.0) vote(1.0) yes(0.0) 
+on(0.0) H.R(0.0) .(0.0) 3722(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) 3\1/2\(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Georgia(1.0) ((0.0) Mr.(0.0) Norwood(1.0) 
+)(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+country	
+HMO	
+care	
+California	
+seniors	
+money	
+health	dollars	citizens	
+country	vote	
+Speaker	Georgia	Norwood	
+
+
+reads % = 0.07650273224043716

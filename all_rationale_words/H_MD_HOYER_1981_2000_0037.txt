@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) further(0.0) reserving(1.0) the(0.0) right(0.0) to(0.0) object(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Florida(0.0) has(0.0) informed(0.0) me(0.0) of(0.0) that(0.0) and(0.0) ,(0.0) as(0.0) 
+always(0.0) ,(0.0) I(0.0) know(0.0) the(0.0) gentleman(0.0) will(0.0) be(0.0) eminently(0.0) fair(0.0) .(0.0) The(0.0) Speaker(0.0) is(0.0) in(0.0) the(0.0) chair(0.0) ,(0.0) and(0.0) I(0.0) 
+would(0.0) like(0.0) to(0.0) say(0.0) as(0.0) one(0.0) member(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Appropriations(0.0) ,(0.0) but(0.0) I(0.0) think(0.0) that(0.0) I(0.0) speak(0.0) for(0.0) 
+every(0.0) member(0.0) on(0.0) our(0.0) side(0.0) of(0.0) the(0.0) aisle(0.0) ,(0.0) that(0.0) we(0.0) perceive(0.0) the(0.0) gentleman(0.0) from(0.0) Florida(0.0) ((0.0) Chairman(0.0) Young(1.0) )(0.0) 
+to(1.0) be(0.0) a(0.0) man(0.0) of(0.0) great(0.0) fairness(0.0) who(0.0) runs(0.0) the(0.0) committee(0.0) so(0.0) that(0.0) everybody(0.0) has(0.0) the(0.0) opportunity(0.0) to(0.0) participate(0.0) fully(0.0) 
+.(0.0) I(0.0) want(0.0) the(0.0) gentleman(0.0) to(0.0) know(0.0) that(0.0) we(0.0) appreciate(0.0) that(0.0) consideration(0.0) and(0.0) that(0.0) involvement(0.0) on(0.0) his(0.0) behalf(0.0) .(0.0) It(0.0) 
+is(0.0) very(0.0) impressive(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) Jersey(1.0) ((0.0) Mr.(0.0) Pascrell(1.0) )(0.0) is(1.0) here(0.0) ,(0.0) the(0.0) 
+gentleman(0.0) from(0.0) New(0.0) Jersey(1.0) ((0.0) Mr.(0.0) Andrews(1.0) )(0.0) is(1.0) here(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Maryland(1.0) ((0.0) Mr.(0.0) Hoyer(1.0) )(0.0) is(1.0) 
+here(0.0) .(0.0) Now(0.0) if(0.0) we(0.0) had(0.0) the(0.0) gentleman(0.0) from(0.0) Pennsylvania(1.0) ((0.0) Mr.(0.0) Weldon(1.0) )(0.0) ,(0.0) we(0.0) would(0.0) be(0.0) in(0.0) good(0.0) 
+shape(0.0) .(0.0) And(0.0) ,(0.0) of(0.0) course(0.0) ,(0.0) the(0.0) distinguished(0.0) gentleman(0.0) from(0.0) Alabama(1.0) is(0.0) here(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) withdraw(0.0) 
+my(0.0) reservation(0.0) of(0.0) objection(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+reserving	
+
+
+Young	
+to	
+
+Speaker	Jersey	Pascrell	is	
+Jersey	Andrews	is	Maryland	Hoyer	is	
+Pennsylvania	Weldon	
+Alabama	Speaker	
+objection	
+
+reads % = 0.08737864077669903

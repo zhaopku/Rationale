@@ -1,0 +1,20 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) under(0.0) rule(0.0) XXII(0.0) ,(0.0) clause(0.0) 7(0.0) ((0.0) c(0.0) )(0.0) ,(0.0) I(0.0) hereby(0.0) announce(0.0) my(0.0) intention(0.0) to(0.0) offer(0.0) a(0.0) motion(0.0) 
+to(0.0) instruct(0.0) on(0.0) H.R(0.0) .(0.0) 2419(0.0) .(0.0) The(0.0) form(0.0) of(0.0) the(0.0) motion(0.0) is(0.0) as(0.0) follows(0.0) :(0.0) Mr.(0.0) Shimkus(1.0) moves(1.0) that(0.0) 
+the(0.0) managers(0.0) on(0.0) the(0.0) part(0.0) of(0.0) the(0.0) House(0.0) at(0.0) the(0.0) conference(0.0) on(0.0) the(0.0) disagreeing(0.0) votes(0.0) of(0.0) the(0.0) two(0.0) Houses(0.0) on(0.0) 
+the(0.0) Senate(0.0) amendment(0.0) to(0.0) the(0.0) bill(0.0) H.R(0.0) .(0.0) 2419(0.0) ((0.0) an(0.0) Act(0.0) to(0.0) provide(0.0) for(0.0) the(0.0) continuation(0.0) of(0.0) agricultural(0.0) programs(0.0) 
+through(0.0) fiscal(0.0) year(0.0) 2012(0.0) )(0.0) be(0.0) instructed(0.0) to(0.0) recede(0.0) to(0.0) the(0.0) provisions(0.0) contained(0.0) in(0.0) section(0.0) 9021(0.0) of(0.0) the(0.0) Senate(0.0) amendment(0.0) 
+((0.0) relating(0.0) to(0.0) the(0.0) E(0.0) 85(0.0) Fuel(0.0) Program(0.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Shimkus	moves	
+
+
+
+
+
+reads % = 0.018018018018018018

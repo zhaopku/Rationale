@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) would(0.0) tell(0.0) the(0.0) gentleman(0.0) that(0.0) it(0.0) is(0.0) negligible(0.0) .(0.0) But(0.0) the(0.0) fact(0.0) is(0.0) these(0.0) are(0.0) innocent(1.0) people(0.0) ,(0.0) 
+most(0.0) of(0.0) them(0.0) .(0.0) Let(0.0) me(0.0) explain(0.0) to(0.0) the(0.0) gentleman(0.0) what(0.0) happened(0.0) .(0.0) They(0.0) were(0.0) forced(0.0) to(0.0) go(0.0) before(0.0) the(0.0) 
+Merit(0.0) Protection(0.0) Board(0.0) before(0.0) they(0.0) went(0.0) to(0.0) the(0.0) court(0.0) ,(0.0) and(0.0) the(0.0) Merit(0.0) Protection(0.0) Board(0.0) found(0.0) them(0.0) guilty(1.0) based(0.0) on(0.0) 
+the(0.0) tainted(1.0) information(0.0) of(0.0) the(0.0) paid(0.0) informants(0.0) .(0.0) They(0.0) they(0.0) went(0.0) to(0.0) court(0.0) and(0.0) were(0.0) exonerated(0.0) .(0.0) Now(0.0) the(0.0) Postal(1.0) 
+Service(0.0) is(0.0) saying(0.0) we(0.0) can(0.0) not(0.0) hire(0.0) them(0.0) back(0.0) because(0.0) the(0.0) Merit(0.0) Protection(0.0) Board(0.0) found(0.0) them(0.0) guilty(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+innocent	
+
+guilty	
+tainted	Postal	
+guilty	
+
+reads % = 0.050505050505050504

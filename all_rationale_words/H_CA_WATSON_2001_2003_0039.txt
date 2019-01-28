@@ -1,0 +1,36 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) time(0.0) to(0.0) me(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) just(0.0) a(0.0) few(0.0) minutes(0.0) ago(0.0) we(0.0) 
+had(0.0) the(0.0) pleasure(0.0) and(0.0) the(0.0) honor(0.0) of(0.0) hosting(0.0) Specialist(0.0) POW(0.0) Shoshana(1.0) Johnson(1.0) .(0.0) Shoshana(0.0) Johnson(1.0) was(0.0) the(0.0) young(0.0) woman(0.0) who(0.0) 
+we(0.0) saw(0.0) worldwide(0.0) taken(0.0) captive(0.0) by(0.0) the(0.0) Iraqi(0.0) military(0.0) .(0.0) She(0.0) served(0.0) well(0.0) .(0.0) She(0.0) endured(0.0) ,(0.0) shot(0.0) through(0.0) both(0.0) 
+of(0.0) her(0.0) ankles(0.0) .(0.0) Once(0.0) she(0.0) was(0.0) freed(0.0) ,(0.0) they(0.0) took(0.0) care(0.0) of(0.0) her(0.0) and(0.0) flew(0.0) her(0.0) home(0.0) .(0.0) She(0.0) 
+has(0.0) been(0.0) in(0.0) the(0.0) States(0.0) a(0.0) few(0.0) weeks(0.0) ,(0.0) and(0.0) agreed(0.0) to(0.0) come(0.0) here(0.0) so(0.0) we(0.0) could(0.0) pay(0.0) the(0.0) most(0.0) 
+deserving(1.0) tribute(0.0) to(0.0) her(0.0) .(0.0) I(0.0) want(0.0) Members(0.0) to(0.0) know(0.0) she(0.0) has(0.0) a(0.0) 2-year-old(0.0) child(0.0) .(0.0) She(0.0) is(0.0) a(0.0) specialist(0.0) 
+.(0.0) She(0.0) will(0.0) make(0.0) less(0.0) than(0.0) $(0.0) 18,000(0.0) this(0.0) year(0.0) .(0.0) She(0.0) will(0.0) be(0.0) denied(1.0) the(0.0) child(0.0) tax(1.0) credit(1.0) under(0.0) 
+the(0.0) bill(1.0) that(0.0) just(0.0) passed(0.0) .(0.0) These(0.0) young(0.0) people(0.0) who(0.0) were(0.0) willing(0.0) not(0.0) only(0.0) to(0.0) serve(0.0) their(0.0) country(1.0) ,(0.0) but(0.0) 
+to(0.0) give(0.0) their(0.0) lives(0.0) and(0.0) their(0.0) limbs(0.0) .(0.0) I(0.0) want(0.0) Members(0.0) to(0.0) know(0.0) she(0.0) was(0.0) up(0.0) there(0.0) in(0.0) Rayburn(1.0) with(0.0) 
+a(0.0) cast(0.0) on(0.0) her(0.0) left(0.0) leg(0.0) .(0.0) She(0.0) was(0.0) brought(0.0) in(0.0) with(0.0) a(0.0) wheelchair(0.0) .(0.0) She(0.0) is(0.0) proud(0.0) ,(0.0) and(0.0) 
+did(0.0) not(0.0) even(0.0) realize(0.0) what(0.0) she(0.0) did(0.0) for(0.0) her(0.0) country(1.0) .(0.0) But(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) if(0.0) we(0.0) do(0.0) not(0.0) 
+take(0.0) care(1.0) of(0.0) the(0.0) Shoshana(1.0) Johnsons(0.0) and(0.0) take(0.0) care(0.0) of(0.0) the(0.0) very(0.0) wealthy(1.0) ,(0.0) we(0.0) are(0.0) abdicating(1.0) our(0.0) values(0.0) under(0.0) 
+a(0.0) democracy(1.0) .(0.0) I(0.0) ask(0.0) Members(0.0) to(0.0) please(0.0) let(0.0) us(0.0) accept(0.0) the(0.0) Senate(1.0) proposal(1.0) for(0.0) the(0.0) child(0.0) tax(1.0) credit(1.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+Speaker	
+Shoshana	Johnson	Johnson	
+
+
+
+deserving	
+denied	tax	credit	
+bill	country	
+Rayburn	
+
+country	Speaker	
+care	Shoshana	wealthy	abdicating	
+democracy	Senate	proposal	tax	credit	
+
+
+reads % = 0.0842911877394636

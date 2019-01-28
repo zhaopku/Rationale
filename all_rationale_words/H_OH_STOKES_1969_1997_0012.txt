@@ -1,0 +1,48 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) rise(0.0) in(0.0) strong(0.0) support(0.0) of(0.0) the(0.0) Congressional(1.0) Black(1.0) Caucus(1.0) alternative(1.0) budget(1.0) .(0.0) I(0.0) want(0.0) to(0.0) commend(0.0) the(0.0) gentlewoman(0.0) 
+from(0.0) California(0.0) [(0.0) Ms(1.0) .(0.0) Waters(1.0) ](0.0) and(1.0) the(0.0) gentleman(0.0) from(0.0) Mississippi(0.0) [(0.0) Mr.(0.0) Thompson(1.0) ](0.0) for(1.0) their(1.0) leadership(1.0) in(0.0) 
+developing(0.0) this(0.0) budget(1.0) .(0.0) This(0.0) substitute(1.0) firmly(0.0) supports(0.0) the(0.0) fact(0.0) that(0.0) the(0.0) budget(1.0) can(0.0) be(0.0) fairly(0.0) balanced(0.0) while(0.0) responsibly(1.0) addressing(1.0) 
+the(0.0) needs(0.0) of(0.0) the(0.0) American(0.0) people(0.0) ,(0.0) especially(0.0) the(0.0) needs(0.0) of(0.0) our(0.0) Nation(1.0) 's(0.0) most(0.0) vulnerable(0.0) populations(1.0) :(0.0) seniors(1.0) and(0.0) 
+children(0.0) ,(0.0) in(0.0) the(0.0) areas(0.0) of(0.0) education(1.0) ,(0.0) health(1.0) ,(0.0) housing(1.0) ,(0.0) and(0.0) human(0.0) services(0.0) .(0.0) The(0.0) CBC(0.0) budget(1.0) fully(0.0) 
+funds(1.0) the(0.0) Head(0.0) Start(0.0) Program(0.0) to(0.0) help(0.0) prepare(0.0) our(0.0) Nation(1.0) 's(0.0) children(0.0) to(0.0) achieve(0.0) their(0.0) highest(0.0) developmental(1.0) and(0.0) academic(0.0) potential(0.0) 
+.(0.0) Over(0.0) 2(0.0) million(0.0) children(1.0) would(0.0) be(0.0) served(0.0) .(0.0) Currently(0.0) ,(0.0) no(0.0) more(0.0) than(0.0) 40(0.0) percent(0.0) of(0.0) all(0.0) eligible(1.0) 3-(0.0) 
+to(0.0) 5-(0.0) year-olds(1.0) participate(0.0) in(0.0) Head(0.0) Start(0.0) .(0.0) Our(0.0) substitute(1.0) also(0.0) fully(0.0) funds(0.0) section(0.0) 8(0.0) housing(1.0) to(0.0) help(0.0) ensure(0.0) that(0.0) 
+needy(1.0) citizens(1.0) have(0.0) a(0.0) roof(0.0) over(0.0) their(0.0) heads(0.0) ,(0.0) it(0.0) fully(0.0) funds(1.0) chapter(0.0) 1(0.0) to(0.0) ensure(0.0) that(0.0) children(0.0) in(0.0) need(0.0) 
+of(0.0) assistance(1.0) in(0.0) basic(1.0) reading(0.0) and(0.0) math(0.0) receive(0.0) the(0.0) help(0.0) they(0.0) need(0.0) ,(0.0) and(0.0) fully(0.0) funds(1.0) summer(0.0) jobs(0.0) to(0.0) help(0.0) 
+prepare(0.0) our(0.0) Nation(1.0) 's(0.0) young(0.0) people(0.0) to(0.0) enter(0.0) the(0.0) work(0.0) force(0.0) .(0.0) The(0.0) bill(1.0) protects(1.0) and(0.0) improves(0.0) the(0.0) health(1.0) of(0.0) 
+the(0.0) poor(1.0) and(0.0) the(0.0) elderly(1.0) by(0.0) ensuring(0.0) funding(1.0) and(0.0) Medicaid(1.0) and(0.0) Medicare(1.0) .(0.0) The(0.0) $(0.0) 25.5(0.0) billion(1.0) in(0.0) Medicare(1.0) savings(1.0) 
+will(0.0) begin(0.0) to(0.0) ensure(0.0) the(0.0) program(1.0) 's(0.0) solvency(1.0) .(0.0) The(0.0) measure(1.0) also(0.0) restores(0.0) funding(1.0) for(0.0) the(0.0) Nation(1.0) 's(0.0) health(1.0) professions(1.0) 
+training(0.0) program(0.0) .(0.0) These(0.0) programs(1.0) are(0.0) actually(0.0) essential(0.0) to(0.0) help(0.0) ensure(0.0) access(0.0) to(0.0) health(1.0) care(1.0) services(0.0) for(0.0) all(0.0) Americans(1.0) .(0.0) 
+For(0.0) the(0.0) TRIO(1.0) programs(1.0) ,(0.0) the(0.0) budget(1.0) provides(0.0) $(0.0) 625(0.0) million(0.0) to(0.0) ensure(1.0) that(0.0) disadvantaged(1.0) students(0.0) not(0.0) only(0.0) have(0.0) the(0.0) 
+opportunity(0.0) to(0.0) attend(0.0) college(1.0) ,(0.0) but(0.0) most(0.0) important(0.0) ,(0.0) they(0.0) graduate(0.0) .(0.0) The(0.0) bill(1.0) provides(0.0) adequate(0.0) funding(1.0) for(0.0) basic(0.0) quality(0.0) 
+of(0.0) life(0.0) necessities(1.0) ,(0.0) including(0.0) meals(0.0) for(0.0) the(0.0) elderly(1.0) ,(0.0) energy(1.0) assistance(1.0) for(0.0) low-income(1.0) families(0.0) ,(0.0) and(0.0) with(0.0) respect(0.0) to(0.0) 
+AIDS/HIV(1.0) ,(0.0) the(0.0) bill(1.0) addresses(1.0) the(0.0) needs(0.0) of(0.0) communities(1.0) across(0.0) this(0.0) country(1.0) by(0.0) fully(0.0) funding(1.0) Ryan(1.0) White(1.0) and(0.0) providing(0.0) critical(1.0) 
+funding(1.0) for(0.0) AIDS(1.0) research(0.0) ,(0.0) outreach(1.0) ,(0.0) and(0.0) public(1.0) education(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) urge(0.0) all(0.0) of(0.0) my(0.0) colleagues(0.0) 
+to(0.0) support(0.0) the(0.0) CBC(0.0) substitute(1.0) bill(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Congressional	Black	Caucus	alternative	budget	
+Ms	Waters	and	Thompson	for	their	leadership	
+budget	substitute	budget	responsibly	addressing	
+Nation	populations	seniors	
+education	health	housing	budget	
+funds	Nation	developmental	
+children	eligible	
+year-olds	substitute	housing	
+needy	citizens	funds	
+assistance	basic	funds	
+Nation	bill	protects	health	
+poor	elderly	funding	Medicaid	Medicare	billion	Medicare	savings	
+program	solvency	measure	funding	Nation	health	professions	
+programs	health	care	Americans	
+TRIO	programs	budget	ensure	disadvantaged	
+college	bill	funding	
+necessities	elderly	energy	assistance	low-income	
+AIDS/HIV	bill	addresses	communities	country	funding	Ryan	White	critical	
+funding	AIDS	outreach	public	education	Chairman	
+substitute	bill	
+
+reads % = 0.2345360824742268

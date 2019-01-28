@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+In(0.0) this(0.0) bipartisan(1.0) amendment(1.0) ,(0.0) my(0.0) colleagues(0.0) seek(1.0) to(0.0) recognize(0.0) the(0.0) unique(0.0) requirements(0.0) of(0.0) the(0.0) types(0.0) of(0.0) vehicles(0.0) commonly(0.0) known(0.0) as(0.0) 
+recreational(0.0) vehicles(0.0) .(0.0) They(0.0) highlight(0.0) an(0.0) important(0.0) industry(1.0) within(0.0) the(0.0) medium(0.0) to(0.0) heavy(0.0) duty(0.0) truck(0.0) sector(1.0) ,(0.0) and(0.0) I(0.0) would(0.0) 
+point(0.0) out(0.0) that(0.0) these(0.0) are(0.0) heavy(0.0) users(0.0) of(0.0) fuel(1.0) .(0.0) If(0.0) we(0.0) can(0.0) make(0.0) them(0.0) more(0.0) fuel(1.0) efficient(0.0) ,(0.0) we(0.0) 
+certainly(0.0) are(0.0) going(0.0) to(0.0) make(0.0) our(0.0) country(1.0) less(0.0) dependent(0.0) on(0.0) foreign(1.0) oil(1.0) .(0.0) I(0.0) think(0.0) that(0.0) this(0.0) is(0.0) an(0.0) excellent(0.0) 
+use(0.0) of(0.0) these(0.0) research(0.0) dollars(1.0) ,(0.0) and(0.0) I(0.0) support(0.0) the(0.0) amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+bipartisan	amendment	seek	
+industry	sector	
+fuel	fuel	
+country	foreign	oil	
+dollars	amendment	
+
+reads % = 0.12903225806451613

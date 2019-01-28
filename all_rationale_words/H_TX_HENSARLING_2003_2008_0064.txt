@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+Perhaps(0.0) the(0.0) distinguished(0.0) majority(1.0) leader(0.0) could(0.0) get(0.0) some(0.0) additional(0.0) time(0.0) on(0.0) his(0.0) side(0.0) .(0.0) At(0.0) this(0.0) time(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) 
+I(0.0) yield(0.0) 2\1/2\(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Indiana(1.0) ((0.0) Mr.(0.0) Pence(1.0) )(0.0) .(0.0) ((0.0) Mr.(0.0) PENCE(1.0) asked(0.0) and(0.0) was(0.0) 
+given(0.0) permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) )(0.0) 
+
+
+----- below are rationale words -----
+
+majority	Speaker	
+Indiana	Pence	PENCE	
+
+
+reads % = 0.09803921568627451

@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) pass(0.0) the(0.0) Senate(0.0) joint(0.0) resolution(1.0) ((0.0) S.J(1.0) .(0.0) Res(0.0) .(0.0) 8(0.0) )(0.0) 
+providing(0.0) for(0.0) the(0.0) appointment(0.0) of(0.0) David(0.0) M.(1.0) Rubenstein(1.0) as(0.0) a(0.0) citizen(0.0) regent(0.0) of(0.0) the(0.0) Board(0.0) of(0.0) Regents(0.0) of(0.0) the(0.0) Smithsonian(0.0) 
+Institution(0.0) .(0.0) The(0.0) Clerk(0.0) read(0.0) the(0.0) title(0.0) of(0.0) the(0.0) Senate(0.0) joint(0.0) resolution(0.0) .(0.0) The(0.0) text(0.0) of(0.0) the(0.0) Senate(0.0) joint(0.0) resolution(0.0) 
+is(0.0) as(0.0) follows(0.0) :(0.0) S.J(0.0) .(0.0) Res(0.0) .(0.0) 8(0.0) Resolved(0.0) by(0.0) the(0.0) Senate(0.0) and(0.0) House(0.0) of(0.0) Representatives(0.0) of(0.0) the(0.0) United(0.0) 
+States(0.0) of(0.0) America(0.0) in(0.0) Congress(0.0) assembled(0.0) ,(0.0) That(0.0) ,(0.0) in(0.0) accordance(0.0) with(0.0) section(0.0) 5581(0.0) of(0.0) the(0.0) Revised(0.0) Statutes(0.0) ((0.0) 20(0.0) 
+U.S.C(0.0) .(0.0) 43(0.0) )(0.0) ,(0.0) the(0.0) vacancy(0.0) on(0.0) the(0.0) Board(0.0) of(0.0) Regents(0.0) of(0.0) the(0.0) Smithsonian(0.0) Institution(0.0) ,(0.0) in(0.0) the(0.0) class(0.0) 
+other(0.0) than(0.0) Members(0.0) of(0.0) Congress(0.0) ,(0.0) occurring(0.0) because(0.0) of(0.0) the(0.0) expiration(0.0) of(0.0) the(0.0) term(0.0) of(0.0) Anne(0.0) d'Harnoncourt(1.0) of(0.0) Pennsylvania(1.0) is(0.0) 
+filled(0.0) by(0.0) the(0.0) appointment(0.0) of(0.0) David(0.0) M.(1.0) Rubenstein(1.0) of(0.0) Maryland(0.0) .(0.0) The(0.0) appointment(0.0) is(0.0) for(0.0) a(0.0) term(0.0) of(0.0) 6(0.0) years(0.0) 
+,(0.0) effective(0.0) on(0.0) the(0.0) date(0.0) of(0.0) enactment(0.0) of(0.0) this(0.0) joint(0.0) resolution(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+resolution	S.J	
+M.	Rubenstein	
+
+
+
+
+d'Harnoncourt	Pennsylvania	
+M.	Rubenstein	
+
+
+reads % = 0.046242774566473986

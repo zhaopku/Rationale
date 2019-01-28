@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) rise(0.0) in(0.0) strong(0.0) opposition(1.0) to(0.0) the(0.0) Klug(1.0) amendment(1.0) .(0.0) Here(0.0) is(0.0) the(0.0) headline(1.0) in(0.0) one(0.0) of(0.0) my(0.0) newspapers(0.0) 
+this(0.0) morning(0.0) ``(0.0) Old(0.0) Ben(0.0) No(0.0) .(0.0) 25(0.0) To(0.0) close(0.0) --(0.0) 200(0.0) Jobs(0.0) Lost(0.0) by(0.0) August(0.0) .(0.0) ''(0.0) Those(0.0) are(0.0) 
+families(0.0) in(0.0) my(0.0) district(0.0) who(0.0) have(0.0) about(0.0) 60(0.0) days(0.0) to(0.0) determine(0.0) what(0.0) they(0.0) 're(0.0) going(0.0) to(0.0) do(0.0) next(0.0) --(0.0) and(0.0) 
+perhaps(0.0) they(0.0) will(0.0) have(0.0) no(0.0) choice(0.0) but(0.0) to(0.0) leave(0.0) a(0.0) profession(0.0) which(0.0) has(0.0) been(0.0) in(0.0) their(0.0) families(0.0) for(0.0) generations(0.0) .(0.0) 
+The(0.0) Clean(1.0) Air(0.0) Act(0.0) has(0.0) taken(0.0) hope(0.0) from(0.0) these(0.0) families(0.0) .(0.0) What(0.0) hope(0.0) they(0.0) have(0.0) left(0.0) is(0.0) largely(0.0) invested(0.0) in(0.0) 
+the(0.0) promise(0.0) of(0.0) research(0.0) --(0.0) research(0.0) into(0.0) promising(1.0) technologies(1.0) which(0.0) will(0.0) enable(0.0) us(0.0) to(0.0) use(0.0) these(0.0) coal(1.0) resources(0.0) and(0.0) provide(0.0) 
+jobs(0.0) for(0.0) our(0.0) people(0.0) .(0.0) The(0.0) Interior(0.0) appropriations(1.0) committee(0.0) has(0.0) done(0.0) difficult(0.0) work(0.0) in(0.0) parceling(1.0) out(0.0) scarce(1.0) resources(0.0) .(0.0) We(0.0) 
+are(0.0) already(0.0) operating(0.0) under(0.0) very(0.0) austere(1.0) conditions(0.0) and(0.0) can(0.0) not(0.0) afford(1.0) additional(0.0) reductions(1.0) in(0.0) this(0.0) account(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) 
+I(0.0) urge(0.0) opposition(1.0) to(0.0) the(0.0) amendment(1.0) .(0.0) Old(0.0) Ben(0.0) No(1.0) .(0.0) 25(0.0) To(0.0) Close(0.0) --(0.0) 200(0.0) Jobs(0.0) Lost(0.0) by(0.0) August(0.0) 
+((0.0) By(0.0) Nick(0.0) Mariano(1.0) )(0.0) Zeigler(1.0) Coal(1.0) Co.(0.0) will(0.0) stop(0.0) mining(1.0) coal(1.0) at(0.0) Old(0.0) Ben(0.0) No(0.0) .(0.0) 25(0.0) near(0.0) West(0.0) 
+Frankfort(0.0) in(0.0) two(0.0) months(0.0) ,(0.0) the(0.0) firm(0.0) announced(0.0) Tuesday(0.0) .(0.0) Company(0.0) officials(0.0) told(0.0) the(0.0) mine(0.0) 's(0.0) 200(0.0) employees(0.0) about(0.0) the(0.0) 
+decision(0.0) on(0.0) Friday(0.0) ,(0.0) when(0.0) the(0.0) workers(0.0) received(0.0) 60(0.0) days(0.0) '(0.0) notice(0.0) of(0.0) the(0.0) impending(0.0) layoffs(0.0) .(0.0) Company(0.0) sopkesman(0.0) Vic(0.0) 
+Svec(1.0) said(1.0) the(0.0) closing(0.0) is(0.0) a(0.0) result(0.0) of(0.0) the(0.0) 1990(0.0) Clean(0.0) Air(0.0) Act(0.0) ,(0.0) which(0.0) sets(0.0) limits(0.0) on(0.0) sulfur(0.0) dioxide(1.0) 
+emissions(1.0) .(0.0) ``(0.0) We(0.0) will(0.0) cease(0.0) mining(1.0) operations(0.0) in(0.0) mid-August(0.0) .(0.0) This(0.0) is(0.0) a(0.0) direct(0.0) result(0.0) of(0.0) the(0.0) Clean(1.0) Air(0.0) 
+Act(0.0) ,(0.0) ''(0.0) he(0.0) said(0.0) .(0.0) The(0.0) mine(0.0) will(0.0) remain(0.0) open(0.0) to(0.0) recover(0.0) equipment(0.0) and(0.0) to(0.0) remove(0.0) stockpiles(1.0) of(0.0) coal(1.0) 
+.(0.0) Reclamation(0.0) work(0.0) also(0.0) will(0.0) continue(0.0) ,(0.0) Svec(0.0) said(1.0) .(0.0) He(0.0) said(0.0) the(0.0) contrast(0.0) with(0.0) the(0.0) mine(0.0) 's(0.0) only(0.0) customer(0.0) 
+,(0.0) Georgia(1.0) Power(0.0) ,(0.0) expires(0.0) on(0.0) June(0.0) 30(0.0) and(0.0) will(0.0) not(0.0) be(0.0) renewed(0.0) .(0.0) The(0.0) contract(0.0) was(0.0) in(0.0) effect(0.0) from(0.0) 
+the(0.0) mid-1970s(1.0) until(0.0) 1993(0.0) ,(0.0) and(0.0) then(0.0) was(0.0) extended(0.0) for(0.0) one(0.0) year(0.0) .(0.0) The(0.0) mine(0.0) produced(0.0) 1.6(0.0) million(0.0) tons(0.0) of(0.0) 
+coal(1.0) in(0.0) 1993(1.0) .(0.0) United(0.0) Mine(0.0) Workers(1.0) Local(0.0) 2250(0.0) President(0.0) Kenneth(0.0) Craig(1.0) said(1.0) the(0.0) announcement(0.0) was(0.0) not(0.0) a(0.0) surprise(0.0) .(0.0) 
+The(0.0) closing(0.0) has(0.0) been(0.0) rumored(0.0) since(0.0) the(0.0) UMW(0.0) strike(0.0) ended(0.0) in(0.0) December(0.0) .(0.0) He(0.0) ,(0.0) too(0.0) ,(0.0) blamed(0.0) federal(1.0) regulations(1.0) 
+.(0.0) ``(0.0) The(0.0) Clean(1.0) Air(0.0) Act(0.0) is(0.0) the(0.0) culprit(0.0) behind(0.0) the(0.0) closing(0.0) .(0.0) Companies(0.0) buying(0.0) western(0.0) coal(1.0) will(0.0) make(0.0) Illinois(1.0) 
+suffer(0.0) and(0.0) Illinois(1.0) will(0.0) continue(0.0) to(0.0) suffer(0.0) until(0.0) politicians(1.0) put(0.0) scrubbers(1.0) on(0.0) power(0.0) plants(0.0) ''(0.0) he(0.0) said(0.0) .(0.0) Southern(0.0) Illinois(0.0) 
+coal(1.0) is(0.0) high(0.0) in(0.0) sulfur(1.0) ,(0.0) while(0.0) that(0.0) mined(1.0) in(0.0) the(0.0) western(0.0) United(0.0) State(0.0) contains(0.0) less(0.0) of(0.0) the(0.0) pollutant(1.0) .(0.0) 
+The(0.0) union(1.0) represents(0.0) 160(0.0) of(0.0) the(0.0) employees(0.0) at(0.0) the(0.0) mine(0.0) .(0.0) The(0.0) remaining(0.0) 40(0.0) employees(0.0) hold(0.0) management(0.0) positions(0.0) .(0.0) West(0.0) 
+Frankfort(0.0) Mayor(0.0) John(1.0) Simmons(1.0) said(1.0) losing(0.0) the(0.0) nine(0.0) will(0.0) not(0.0) only(0.0) damage(0.0) the(0.0) income(0.0) base(0.0) in(0.0) the(0.0) city(0.0) ,(0.0) 
+
+
+----- below are rationale words -----
+
+opposition	Klug	amendment	headline	
+
+
+
+Clean	
+promising	technologies	coal	
+appropriations	parceling	scarce	
+austere	afford	reductions	Chairman	
+opposition	amendment	No	
+Mariano	Zeigler	Coal	mining	coal	
+
+
+Svec	said	dioxide	
+emissions	mining	Clean	
+stockpiles	coal	
+said	
+Georgia	
+mid-1970s	
+coal	1993	Workers	Craig	said	
+federal	regulations	
+Clean	coal	Illinois	
+Illinois	politicians	scrubbers	
+coal	sulfur	mined	pollutant	
+union	
+John	Simmons	said	
+
+reads % = 0.11

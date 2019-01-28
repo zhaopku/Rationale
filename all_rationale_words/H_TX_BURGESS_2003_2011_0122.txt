@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) on(0.0) behalf(0.0) of(0.0) doctors(0.0) around(0.0) the(0.0) country(1.0) .(0.0) As(0.0) a(0.0) physician(0.0) ,(0.0) and(0.0) now(0.0) a(0.0) legislator(0.0) 
+,(0.0) I(0.0) am(0.0) personally(0.0) devastated(0.0) at(0.0) the(0.0) way(0.0) our(0.0) government(1.0) continues(0.0) to(0.0) treat(0.0) those(0.0) who(0.0) care(0.0) for(0.0) America's(0.0) patients(0.0) ,(0.0) 
+particularly(0.0) those(0.0) who(0.0) care(0.0) for(0.0) America(1.0) 's(0.0) seniors(1.0) .(0.0) Physicians(1.0) have(0.0) staff(0.0) to(0.0) pay(0.0) ,(0.0) electricity(1.0) bills(1.0) ,(0.0) building(0.0) leases(1.0) 
+,(0.0) and(0.0) numerous(0.0) other(0.0) costs(0.0) associated(0.0) with(0.0) running(0.0) a(0.0) practice(0.0) .(0.0) The(0.0) 2-month(1.0) patch(0.0) that(0.0) the(0.0) Senate(0.0) sent(0.0) back(0.0) to(0.0) 
+us(0.0) as(0.0) part(0.0) of(0.0) the(0.0) payroll(0.0) tax(1.0) package(0.0) does(0.0) not(0.0) provide(0.0) doctors(0.0) and(0.0) their(0.0) practices(0.0) with(0.0) the(0.0) stability(0.0) that(0.0) they(0.0) 
+need(0.0) to(0.0) do(0.0) their(0.0) job(0.0) --(0.0) caring(0.0) for(0.0) America(1.0) 's(0.0) seniors(1.0) .(0.0) At(0.0) a(0.0) time(0.0) when(0.0) American(0.0) businesses(1.0) need(0.0) certainty(0.0) 
+,(0.0) Congress(0.0) gives(0.0) them(0.0) a(0.0) brief(0.0) ,(0.0) unpredictable(0.0) ,(0.0) and(0.0) unreliable(0.0) timeline(0.0) .(0.0) Two(0.0) months(0.0) of(0.0) tax(1.0) payment(1.0) relief(0.0) is(0.0) 
+just(0.0) another(0.0) short-term(0.0) fix(0.0) ,(0.0) and(0.0) it(0.0) 's(0.0) simply(0.0) not(0.0) good(0.0) enough(0.0) .(0.0) Physicians(1.0) deserve(1.0) better(0.0) .(0.0) Patients(0.0) deserve(1.0) better(0.0) 
+.(0.0) The(0.0) American(0.0) people(0.0) deserve(1.0) better(0.0) .(0.0) I(0.0) will(0.0) vote(1.0) ``(0.0) no(0.0) ''(0.0) on(0.0) the(0.0) Senate(0.0) bill(0.0) and(0.0) urge(0.0) my(0.0) 
+colleagues(0.0) to(0.0) do(0.0) the(0.0) same(0.0) .(0.0) Then(0.0) let(0.0) 's(0.0) come(0.0) back(0.0) with(0.0) a(0.0) policy(1.0) that(0.0) will(0.0) ,(0.0) for(0.0) heaven's(0.0) sakes(0.0) 
+,(0.0) at(0.0) least(0.0) take(0.0) us(0.0) through(0.0) the(0.0) year(0.0) ahead(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+country	
+government	
+America	seniors	Physicians	electricity	bills	leases	
+2-month	
+tax	
+America	seniors	businesses	
+tax	payment	
+Physicians	deserve	deserve	
+deserve	vote	
+policy	
+
+
+reads % = 0.0995260663507109

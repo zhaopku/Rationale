@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) recent(0.0) news(0.0) reports(0.0) reflect(0.0) that(0.0) American(0.0) children(0.0) are(0.0) not(0.0) doing(0.0) very(0.0) well(0.0) in(0.0) math(1.0) and(0.0) science(0.0) when(0.0) compared(0.0) to(0.0) 
+other(0.0) countries(1.0) .(0.0) This(0.0) is(0.0) not(0.0) good(0.0) news(0.0) ,(0.0) especially(0.0) when(0.0) we(0.0) think(0.0) of(0.0) how(0.0) well(0.0) Americans(1.0) will(0.0) compete(0.0) in(0.0) 
+the(0.0) future(0.0) .(0.0) Our(0.0) world(0.0) is(0.0) becoming(0.0) more(0.0) and(0.0) more(0.0) technological(1.0) and(0.0) we(0.0) rely(0.0) on(0.0) math(1.0) and(0.0) science(0.0) every(0.0) day(0.0) 
+,(0.0) and(0.0) so(0.0) when(0.0) we(0.0) see(0.0) this(0.0) lack(1.0) of(0.0) an(0.0) ability(0.0) to(0.0) compete(0.0) ,(0.0) we(0.0) should(0.0) all(0.0) be(0.0) concerned(0.0) .(0.0) 
+Now(0.0) the(0.0) solution(0.0) to(0.0) this(0.0) problem(0.0) is(0.0) not(0.0) simple(0.0) ;(0.0) it(0.0) is(0.0) a(0.0) multifaceted(0.0) solution(0.0) that(0.0) is(0.0) needed(0.0) .(0.0) But(0.0) 
+today(0.0) I(0.0) want(0.0) to(0.0) focus(0.0) on(0.0) one(0.0) of(0.0) the(0.0) facets(0.0) :(0.0) getting(0.0) parents(0.0) involved(0.0) in(0.0) the(0.0) education(1.0) process(0.0) .(0.0) Today(0.0) 
+there(0.0) are(0.0) barriers(1.0) in(0.0) place(0.0) ,(0.0) obstacles(0.0) that(0.0) keep(0.0) parents(0.0) from(0.0) becoming(0.0) involved(0.0) .(0.0) Teachers(0.0) and(0.0) principals(0.0) have(0.0) told(0.0) me(0.0) 
+that(0.0) when(0.0) parents(0.0) are(0.0) involved(0.0) with(0.0) their(0.0) children(0.0) 's(0.0) education(1.0) ,(0.0) the(0.0) kids(0.0) do(0.0) better(0.0) and(0.0) the(0.0) schools(1.0) are(0.0) stronger(0.0) 
+.(0.0) So(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) have(0.0) submitted(0.0) legislation(1.0) to(0.0) encourage(0.0) parental(1.0) involvement(0.0) by(0.0) ensuring(0.0) that(0.0) parents(0.0) have(0.0) access(0.0) 
+to(0.0) their(0.0) children(0.0) 's(0.0) public(1.0) school(0.0) records(0.0) .(0.0) I(0.0) believe(0.0) an(0.0) informed(0.0) parent(0.0) is(0.0) an(0.0) involved(0.0) parent(0.0) ,(0.0) an(0.0) involved(0.0) 
+parent(0.0) in(0.0) their(0.0) child(0.0) 's(0.0) education(1.0) .(0.0) The(0.0) Parental(1.0) Freedom(1.0) of(0.0) Information(0.0) Act(0.0) is(0.0) based(0.0) on(0.0) the(0.0) need(0.0) to(0.0) provide(0.0) 
+active(0.0) involved(0.0) parents(0.0) with(0.0) information(0.0) that(0.0) is(0.0) vital(0.0) for(0.0) them(0.0) to(0.0) exercise(0.0) their(0.0) right(0.0) to(0.0) guide(0.0) the(0.0) upbringing(1.0) of(0.0) their(0.0) 
+children(0.0) .(0.0) The(0.0) rationale(1.0) for(0.0) this(0.0) legislation(1.0) derives(1.0) from(0.0) an(0.0) alarming(1.0) number(0.0) of(0.0) recent(0.0) cases(0.0) in(0.0) which(0.0) the(0.0) rights(1.0) of(0.0) 
+parents(0.0) have(0.0) been(0.0) ignored(0.0) and(0.0) they(0.0) have(0.0) had(0.0) to(0.0) go(0.0) to(0.0) court(1.0) to(0.0) secure(0.0) the(0.0) basic(0.0) information(0.0) which(0.0) the(0.0) parental(1.0) 
+Freedom(1.0) of(0.0) Information(0.0) Act(0.0) provides(0.0) for(0.0) .(0.0) The(0.0) current(0.0) hodgepodge(1.0) of(0.0) State(1.0) and(0.0) Federal(1.0) laws(1.0) and(0.0) legal(1.0) precedents(1.0) simply(0.0) does(0.0) 
+not(0.0) provide(0.0) parents(0.0) of(0.0) public(1.0) school(0.0) children(0.0) with(0.0) a(0.0) clear-(0.0) cut(0.0) right(0.0) to(0.0) access(0.0) information(0.0) regarding(0.0) the(0.0) content(0.0) of(0.0) the(0.0) 
+education(1.0) their(0.0) children(0.0) are(0.0) receiving(0.0) .(0.0) The(0.0) Parental(1.0) Freedom(1.0) of(0.0) Information(0.0) Act(0.0) will(0.0) amend(1.0) the(0.0) 1974(1.0) Family(0.0) Education(0.0) Rights(1.0) and(0.0) 
+Privacy(0.0) Act(0.0) ,(0.0) called(0.0) FERPA(1.0) ,(0.0) and(0.0) strengthen(0.0) the(0.0) right(0.0) of(0.0) parents(0.0) of(0.0) elementary(1.0) and(0.0) secondary(0.0) public(1.0) school(0.0) students(0.0) by(0.0) 
+guaranteeing(1.0) parents(0.0) access(0.0) to(0.0) the(0.0) curriculum(0.0) their(0.0) children(0.0) are(0.0) exposed(0.0) to(0.0) .(0.0) This(0.0) includes(0.0) textbooks(0.0) ,(0.0) audiovisual(1.0) materials(0.0) ,(0.0) manuals(0.0) 
+,(0.0) journals(0.0) ,(0.0) films(0.0) and(0.0) any(0.0) supplementary(0.0) materials(0.0) .(0.0) It(0.0) will(0.0) provide(0.0) access(0.0) to(0.0) testing(0.0) materials(0.0) administered(0.0) to(0.0) their(0.0) children(0.0) 
+.(0.0) It(0.0) will(0.0) also(0.0) require(0.0) parental(1.0) consent(0.0) prior(0.0) to(0.0) any(0.0) student(0.0) being(0.0) required(0.0) to(0.0) undergo(0.0) medical(0.0) ,(0.0) psychological(0.0) or(0.0) psychiatric(0.0) 
+examination(0.0) ,(0.0) testing(0.0) or(0.0) treatment(0.0) at(0.0) school(0.0) ,(0.0) except(0.0) for(0.0) emergency(1.0) care(0.0) .(0.0) Now(0.0) ,(0.0) this(0.0) provision(1.0) does(0.0) not(0.0) apply(0.0) 
+to(0.0) children(0.0) who(0.0) voluntarily(0.0) wish(0.0) to(0.0) meet(0.0) with(0.0) a(0.0) school(0.0) counselor(0.0) or(0.0) visit(0.0) the(0.0) nurse(0.0) 's(0.0) office(0.0) for(0.0) medical(0.0) assistance(0.0) 
+and(0.0) services(0.0) .(0.0) The(0.0) Parental(0.0) Freedom(0.0) of(0.0) Information(0.0) Act(0.0) will(0.0) withhold(0.0) Federal(1.0) funds(1.0) from(0.0) educational(1.0) institutions(1.0) which(0.0) deny(1.0) parents(0.0) access(0.0) 
+to(0.0) this(0.0) information(0.0) .(0.0) In(0.0) addition(0.0) ,(0.0) the(0.0) act(0.0) will(0.0) allow(0.0) parents(0.0) to(0.0) seek(0.0) judicial(1.0) relief(1.0) and(0.0) recoup(1.0) legal(1.0) 
+
+
+----- below are rationale words -----
+
+math	
+countries	Americans	
+technological	math	
+lack	
+
+education	
+barriers	
+education	schools	
+Speaker	legislation	parental	
+public	
+education	Parental	Freedom	
+upbringing	
+rationale	legislation	derives	alarming	rights	
+court	parental	
+Freedom	hodgepodge	State	Federal	laws	legal	precedents	
+public	
+education	Parental	Freedom	amend	1974	Rights	
+FERPA	elementary	public	
+guaranteeing	audiovisual	
+
+parental	
+emergency	provision	
+
+Federal	funds	educational	institutions	deny	
+judicial	relief	recoup	legal	
+
+reads % = 0.112

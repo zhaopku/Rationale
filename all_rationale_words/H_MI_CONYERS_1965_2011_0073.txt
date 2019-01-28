@@ -1,0 +1,20 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Chairman(0.0) ,(0.0) how(0.0) much(0.0) time(0.0) have(0.0) I(0.0) remaining(0.0) ?(0.0) The(0.0) Acting(0.0) CHAIR(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) Michigan(1.0) has(0.0) 2\1/4\(0.0) minutes(0.0) 
+remaining(0.0) .(0.0) I(0.0) yield(0.0) as(0.0) much(0.0) time(0.0) as(0.0) she(0.0) may(0.0) consume(0.0) to(0.0) the(0.0) gentlelady(0.0) from(0.0) California(0.0) ,(0.0) the(0.0) head(0.0) of(0.0) 
+the(0.0) Progressive(1.0) Caucus(1.0) for(1.0) so(0.0) many(0.0) years(0.0) ,(0.0) Ms.(0.0) Lynn(1.0) Woolsey(1.0) .(0.0) The(0.0) time(0.0) has(0.0) come(0.0) for(0.0) Congress(0.0) to(0.0) once(0.0) 
+again(0.0) exercise(0.0) its(0.0) constitutional(1.0) authority(0.0) to(0.0) place(0.0) boundaries(0.0) on(0.0) the(0.0) use(0.0) of(0.0) our(0.0) military(0.0) forces(0.0) overseas(0.0) and(0.0) clearly(0.0) state(0.0) that(0.0) 
+this(0.0) conflict(0.0) in(0.0) Libya(1.0) will(0.0) not(0.0) escalate(0.0) into(0.0) an(0.0) expensive(0.0) occupation(1.0) that(0.0) could(0.0) strain(0.0) our(0.0) resources(1.0) and(0.0) harm(0.0) our(0.0) national(1.0) 
+security(0.0) interests(0.0) .(0.0) I(0.0) beg(0.0) the(0.0) Members(0.0) of(0.0) this(0.0) House(0.0) to(0.0) give(0.0) favorable(0.0) consideration(0.0) to(0.0) our(0.0) amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Michigan	
+
+Progressive	Caucus	for	Lynn	Woolsey	
+constitutional	
+Libya	occupation	resources	national	
+amendment	
+
+reads % = 0.10084033613445378

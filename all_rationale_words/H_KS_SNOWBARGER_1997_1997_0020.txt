@@ -1,0 +1,40 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) to(0.0) urge(1.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) this(0.0) violent(1.0) offender(1.0) registration(0.0) proposal(0.0) .(0.0) For(0.0) the(0.0) last(0.0) 
+several(0.0) years(0.0) I(0.0) have(0.0) been(0.0) working(0.0) on(0.0) similar(0.0) legislation(1.0) ,(0.0) first(0.0) in(0.0) the(0.0) Kansas(1.0) legislature(0.0) and(0.0) now(0.0) here(0.0) in(0.0) Congress(0.0) 
+.(0.0) I(0.0) was(0.0) encouraged(0.0) in(0.0) this(0.0) effort(1.0) by(0.0) my(0.0) friends(0.0) ,(0.0) the(0.0) Schmidts(1.0) ,(0.0) whose(0.0) daughter(0.0) Stephanie(0.0) was(0.0) murdered(0.0) .(0.0) 
+I(0.0) know(0.0) we(0.0) would(0.0) all(0.0) like(0.0) to(0.0) think(0.0) this(0.0) kind(0.0) of(0.0) thing(0.0) happens(0.0) in(0.0) other(0.0) places(0.0) ,(0.0) to(0.0) other(0.0) people(0.0) 
+'s(0.0) children(0.0) in(0.0) other(0.0) parts(0.0) of(0.0) the(0.0) country(1.0) ,(0.0) but(0.0) no(0.0) community(0.0) is(0.0) immune(0.0) from(0.0) violence(1.0) .(0.0) Stephanie(0.0) Schmidt(1.0) was(0.0) 
+a(0.0) beautiful(0.0) young(0.0) woman(0.0) who(0.0) was(0.0) violently(0.0) murdered(0.0) by(0.0) a(0.0) coworker(0.0) in(0.0) 1993(1.0) .(0.0) Her(0.0) parents(0.0) ,(0.0) my(0.0) constituents(1.0) ,(0.0) 
+Gene(0.0) and(0.0) Peggy(0.0) Schmidt(1.0) ,(0.0) have(0.0) made(0.0) it(0.0) their(0.0) life(0.0) 's(0.0) work(0.0) to(0.0) make(0.0) sure(0.0) that(0.0) other(0.0) families(0.0) are(0.0) spared(0.0) 
+the(0.0) grief(0.0) they(0.0) so(0.0) well(0.0) know(0.0) .(0.0) There(0.0) is(0.0) something(0.0) we(0.0) can(0.0) do(0.0) to(0.0) help(0.0) solve(0.0) this(0.0) problem(0.0) .(0.0) That(0.0) 
+is(0.0) why(0.0) I(0.0) have(0.0) been(0.0) a(0.0) consistent(0.0) supporter(0.0) of(0.0) community(1.0) notification(0.0) statutes(1.0) .(0.0) It(0.0) is(0.0) my(0.0) hope(0.0) that(0.0) this(0.0) information(0.0) 
+,(0.0) used(0.0) responsibly(1.0) ,(0.0) will(0.0) keep(0.0) dangerous(0.0) sex(1.0) offenders(1.0) away(0.0) from(0.0) potential(0.0) victims(1.0) .(0.0) Specifically(0.0) ,(0.0) this(0.0) act(1.0) 's(0.0) provisions(1.0) 
+will(0.0) require(0.0) that(0.0) sex(1.0) offenders(1.0) who(0.0) work(0.0) or(0.0) go(0.0) to(0.0) school(0.0) in(0.0) a(0.0) State(0.0) other(0.0) than(0.0) the(0.0) State(0.0) in(0.0) which(0.0) 
+they(0.0) reside(0.0) will(0.0) be(0.0) required(0.0) to(0.0) register(0.0) in(0.0) those(0.0) other(0.0) States(0.0) .(0.0) This(0.0) is(0.0) especially(0.0) important(0.0) to(0.0) the(0.0) families(0.0) of(0.0) 
+the(0.0) Kansas(1.0) City(0.0) area(0.0) ,(0.0) which(0.0) is(0.0) a(0.0) major(0.0) metropolitan(0.0) area(0.0) that(0.0) straddles(0.0) the(0.0) State(0.0) line(0.0) .(0.0) I(0.0) would(0.0) like(0.0) 
+to(0.0) thank(0.0) Chairman(0.0) MCCollum(0.0) and(0.0) my(0.0) distinguished(0.0) colleagues(0.0) from(0.0) the(0.0) other(0.0) side(0.0) of(0.0) the(0.0) aisle(0.0) for(0.0) leading(0.0) this(0.0) fight(1.0) .(0.0) 
+Today(0.0) as(0.0) we(0.0) pass(0.0) these(0.0) important(0.0) changes(0.0) to(0.0) the(0.0) Jacob(0.0) Wetterling(1.0) Act(1.0) and(0.0) Megan(0.0) 's(0.0) Law(0.0) ,(0.0) I(0.0) will(0.0) think(0.0) 
+of(0.0) Stephanie(0.0) Schmidt(1.0) and(0.0) hope(0.0) that(0.0) what(0.0) we(0.0) do(0.0) today(0.0) will(0.0) help(0.0) prevent(0.0) another(0.0) tragedy(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+urge	violent	offender	
+legislation	Kansas	
+effort	Schmidts	
+
+country	violence	Schmidt	
+1993	constituents	
+Schmidt	
+
+community	statutes	
+responsibly	sex	offenders	victims	act	provisions	
+sex	offenders	
+
+Kansas	
+fight	
+Wetterling	Act	
+Schmidt	tragedy	
+
+reads % = 0.0914826498422713

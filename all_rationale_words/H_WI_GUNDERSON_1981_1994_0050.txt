@@ -1,0 +1,20 @@
+This is from a Republican
+----- below is the original text -----
+What(0.0) we(0.0) want(0.0) to(0.0) do(0.0) is(0.0) make(0.0) sure(0.0) that(0.0) groups(0.0) which(0.0) use(0.0) outside(0.0) management(0.0) companies(0.0) make(0.0) it(0.0) clear(0.0) how(0.0) those(0.0) outside(0.0) 
+management(0.0) companies(0.0) spend(0.0) funds(1.0) paid(0.0) to(0.0) them(0.0) .(0.0) For(0.0) those(0.0) organizations(1.0) which(0.0) rely(0.0) on(0.0) outside(0.0) management(0.0) ,(0.0) such(0.0) as(0.0) the(0.0) 
+Congressional(1.0) Youth(1.0) Leadership(0.0) Council(0.0) ,(0.0) we(0.0) expect(0.0) the(0.0) education(1.0) organization(0.0) 's(0.0) disclosure(1.0) of(0.0) each(0.0) category(0.0) to(0.0) include(0.0) all(0.0) spending(1.0) ,(0.0) 
+either(0.0) by(0.0) the(0.0) organization(0.0) or(0.0) by(0.0) the(0.0) management(0.0) company(0.0) ,(0.0) on(0.0) that(0.0) organization(0.0) 's(0.0) activities(0.0) .(0.0) Organizations(0.0) such(0.0) as(0.0) the(0.0) 
+Close(0.0) Up(0.0) Foundation(0.0) ,(0.0) which(0.0) do(0.0) not(0.0) contract(0.0) with(0.0) a(0.0) single(0.0) management(0.0) company(0.0) ,(0.0) could(0.0) meet(0.0) the(0.0) disclosure(1.0) requirements(0.0) by(0.0) 
+providing(0.0) two(0.0) parents(0.0) the(0.0) aggregate(0.0) costs(1.0) of(0.0) all(0.0) vendors(0.0) for(0.0) each(0.0) category(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+funds	organizations	
+Congressional	Youth	education	disclosure	spending	
+
+disclosure	
+costs	
+
+reads % = 0.07894736842105263

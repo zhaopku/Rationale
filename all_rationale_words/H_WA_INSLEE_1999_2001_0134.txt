@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Greg(1.0) is(0.0) a(0.0) computer(0.0) software(0.0) genius(0.0) at(0.0) Microsoft(0.0) .(0.0) His(0.0) intellectual(0.0) property(0.0) is(0.0) frequently(0.0) stolen(0.0) from(0.0) him(0.0) overseas(0.0) ,(0.0) and(0.0) he(0.0) 
+could(0.0) use(0.0) a(0.0) President(0.0) with(0.0) Trade(0.0) Promotion(0.0) Authority(0.0) to(0.0) try(0.0) to(0.0) prevent(0.0) that(0.0) theft(0.0) .(0.0) And(0.0) now(0.0) consider(0.0) my(0.0) constituent(1.0) 
+,(0.0) John(0.0) ,(0.0) who(0.0) came(0.0) up(0.0) to(0.0) me(0.0) in(0.0) the(0.0) lobby(1.0) of(0.0) a(0.0) building(0.0) the(0.0) other(0.0) day(0.0) and(0.0) said(0.0) ,(0.0) 
+``(0.0) I(0.0) just(0.0) got(0.0) laid(0.0) off(0.0) from(0.0) Boeing(1.0) .(0.0) I(0.0) am(0.0) 56(0.0) years(0.0) old(0.0) .(0.0) I(0.0) am(0.0) worried(0.0) .(0.0) I(0.0) 
+do(0.0) n't(0.0) know(0.0) what(0.0) I(0.0) am(0.0) going(0.0) to(0.0) do(0.0) ,(0.0) and(0.0) I(0.0) need(0.0) help(0.0) .(0.0) ''(0.0) For(0.0) the(0.0) last(0.0) 2(0.0) 
+months(0.0) ,(0.0) while(0.0) we(0.0) have(0.0) passed(0.0) bailout(1.0) after(0.0) bailout(1.0) ,(0.0) this(0.0) Congress(1.0) has(0.0) done(0.0) nothing(0.0) for(0.0) the(0.0) American(0.0) worker(1.0) .(0.0) 
+Nothing(0.0) .(0.0) And(0.0) we(0.0) have(0.0) to(0.0) learn(0.0) if(0.0) we(0.0) are(0.0) going(0.0) to(0.0) advance(0.0) a(0.0) trade(0.0) agenda(1.0) ,(0.0) we(0.0) have(0.0) to(0.0) 
+make(0.0) sure(0.0) we(0.0) respect(0.0) both(0.0) the(0.0) Gregs(1.0) and(0.0) the(0.0) Johns(1.0) of(0.0) the(0.0) world(0.0) .(0.0) Yes(0.0) ,(0.0) you(0.0) can(0.0) run(0.0) over(0.0) 
+the(0.0) Democrats(1.0) on(0.0) the(0.0) floor(0.0) of(0.0) this(0.0) House(0.0) ,(0.0) but(0.0) you(0.0) can(0.0) not(0.0) run(0.0) over(0.0) the(0.0) legitimate(1.0) needs(0.0) of(0.0) working(0.0) 
+people(0.0) and(0.0) the(0.0) environment(0.0) time(0.0) after(0.0) time(0.0) ,(0.0) and(0.0) then(0.0) expect(0.0) us(0.0) to(0.0) develop(0.0) a(0.0) trade(0.0) agenda(1.0) with(0.0) the(0.0) support(0.0) 
+of(0.0) the(0.0) American(0.0) people(0.0) .(0.0) Vote(1.0) no(0.0) on(0.0) this(0.0) today(0.0) .(0.0) Come(0.0) back(0.0) ,(0.0) develop(0.0) a(0.0) realistic(0.0) package(0.0) of(0.0) worker(1.0) 
+protection(0.0) ,(0.0) and(0.0) we(0.0) will(0.0) pass(0.0) what(0.0) we(0.0) need(0.0) for(0.0) our(0.0) international(1.0) agenda(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+constituent	
+lobby	
+Boeing	
+
+bailout	bailout	Congress	worker	
+agenda	
+Gregs	Johns	
+Democrats	legitimate	
+agenda	
+Vote	worker	
+international	agenda	
+
+reads % = 0.07234042553191489

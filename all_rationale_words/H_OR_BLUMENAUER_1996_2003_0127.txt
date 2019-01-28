@@ -1,0 +1,34 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) initially(0.0) ,(0.0) I(0.0) had(0.0) significant(0.0) reservations(0.0) about(0.0) the(0.0) trade(1.0) agreement(0.0) with(0.0) Singapore(0.0) .(0.0) The(0.0) Integrated(0.0) Sourcing(0.0) Initiative(1.0) was(0.0) too(0.0) 
+open-ended(0.0) and(0.0) Singaporean(0.0) enforcement(1.0) of(0.0) environmental(1.0) laws(1.0) regarding(0.0) commerce(1.0) in(0.0) endangered(1.0) species(0.0) was(0.0) not(0.0) as(0.0) rigorous(0.0) as(0.0) it(0.0) could(0.0) be(0.0) 
+.(0.0) However(0.0) ,(0.0) a(0.0) willingness(0.0) to(0.0) compromise(1.0) and(0.0) address(0.0) these(0.0) concerns(0.0) makes(0.0) me(0.0) optimistic(0.0) about(0.0) future(0.0) trade(1.0) between(0.0) the(0.0) United(0.0) 
+States(0.0) and(0.0) Singapore(0.0) .(0.0) The(0.0) progress(0.0) I(0.0) have(0.0) seen(0.0) regarding(0.0) the(0.0) tightening(1.0) of(0.0) the(0.0) Integrated(0.0) Sourcing(0.0) Initiative(1.0) encourages(1.0) me(0.0) .(0.0) 
+The(0.0) implementing(1.0) language(0.0) that(0.0) we(0.0) are(0.0) voting(1.0) on(0.0) today(0.0) makes(0.0) it(0.0) clear(0.0) that(0.0) ISI(1.0) expansion(0.0) can(0.0) only(0.0) occur(0.0) by(0.0) express(0.0) 
+approval(1.0) of(0.0) Congress(0.0) and(0.0) can(0.0) only(0.0) apply(0.0) to(0.0) products(0.0) that(0.0) are(0.0) already(0.0) approved(0.0) to(0.0) enter(0.0) the(0.0) U.S.(0.0) tariff-free(1.0) .(0.0) Regarding(0.0) 
+the(0.0) transshipment(1.0) of(0.0) endangered(1.0) species(0.0) and(0.0) illegal(1.0) timber(1.0) ,(0.0) I(0.0) was(0.0) buoyed(0.0) by(0.0) the(0.0) Memorandum(0.0) of(0.0) Intent(0.0) in(0.0) Environmental(1.0) Matters(0.0) 
+signed(0.0) between(0.0) the(0.0) U.S.(0.0) and(0.0) Singapore(0.0) last(0.0) month(0.0) .(0.0) The(0.0) statement(0.0) directly(0.0) addresses(0.0) endangered(1.0) species(0.0) conservation(1.0) and(0.0) the(0.0) intent(1.0) to(0.0) 
+work(0.0) regionally(0.0) in(0.0) Asia(1.0) on(0.0) best(0.0) practices(0.0) and(0.0) capacity(0.0) building(0.0) .(0.0) I(0.0) am(0.0) confident(0.0) that(0.0) by(0.0) continuing(0.0) in(0.0) this(0.0) spirit(0.0) 
+of(0.0) cooperation(1.0) ,(0.0) we(0.0) can(0.0) work(0.0) to(0.0) address(0.0) transshipment(1.0) of(0.0) this(0.0) contraband(1.0) that(0.0) is(0.0) devastating(0.0) to(0.0) critical(0.0) ecosystems(1.0) .(0.0) The(0.0) 
+legislative(1.0) process(0.0) has(0.0) ,(0.0) in(0.0) fact(0.0) ,(0.0) worked(0.0) ,(0.0) and(0.0) appropriate(0.0) actions(0.0) are(0.0) being(0.0) taken(0.0) to(0.0) answer(0.0) critics(1.0) .(0.0) I(0.0) 
+hope(0.0) that(0.0) we(0.0) are(0.0) able(0.0) to(0.0) bring(0.0) this(0.0) atmosphere(0.0) of(0.0) discussion(0.0) and(0.0) debate(1.0) to(0.0) upcoming(0.0) free(0.0) trade(1.0) agreements(1.0) ,(0.0) thus(0.0) 
+ensuring(1.0) that(0.0) each(0.0) is(0.0) tailored(0.0) to(0.0) the(0.0) specific(0.0) needs(0.0) and(0.0) opportunities(0.0) that(0.0) we(0.0) may(0.0) encounter(0.0) with(0.0) future(0.0) partners(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+trade	Initiative	
+enforcement	environmental	laws	commerce	endangered	
+compromise	trade	
+tightening	Initiative	encourages	
+implementing	voting	ISI	
+approval	tariff-free	
+transshipment	endangered	illegal	timber	Environmental	
+endangered	conservation	intent	
+Asia	
+cooperation	transshipment	contraband	ecosystems	
+legislative	critics	
+debate	trade	agreements	
+ensuring	
+
+reads % = 0.13846153846153847

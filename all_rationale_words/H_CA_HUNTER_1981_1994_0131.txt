@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) let(0.0) me(0.0) answer(0.0) my(0.0) friend(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Minnesota(1.0) [(0.0) Mr.(0.0) Vento(1.0) ](0.0) .(0.0) Of(0.0) course(0.0) ,(0.0) both(0.0) 
+Federal(1.0) agencies(1.0) right(0.0) now(0.0) under(0.0) the(0.0) 1964(0.0) Wilderness(0.0) Act(0.0) arguably(0.0) have(0.0) the(0.0) right(0.0) to(0.0) take(0.0) motorized(0.0) vehicles(0.0) into(0.0) wilderness(0.0) areas(0.0) 
+.(0.0) Theoretically(0.0) they(0.0) can(0.0) do(0.0) that(0.0) ,(0.0) but(0.0) they(0.0) have(0.0) not(0.0) given(0.0) that(0.0) right(0.0) historically(0.0) in(0.0) places(0.0) like(0.0) Arizona(1.0) ,(0.0) 
+where(0.0) they(0.0) decided(0.0) the(0.0) right(0.0) of(0.0) the(0.0) Arizona(1.0) Fish(0.0) and(0.0) Game(0.0) to(0.0) go(0.0) in(0.0) and(0.0) save(0.0) a(0.0) bighorn(0.0) sheep(0.0) population(1.0) 
+.(0.0) They(0.0) did(0.0) not(0.0) allow(0.0) them(0.0) to(0.0) go(0.0) in(0.0) ,(0.0) and(0.0) in(0.0) another(0.0) case(0.0) they(0.0) forced(0.0) them(0.0) to(0.0) rent(0.0) hay(0.0) 
+wagons(0.0) to(0.0) carry(0.0) in(0.0) equipment(0.0) to(0.0) keep(0.0) these(0.0) waterholes(0.0) open(0.0) .(0.0) The(0.0) gentleman(0.0) and(0.0) I(0.0) want(0.0) to(0.0) keep(0.0) the(0.0) waterholes(0.0) 
+open(0.0) ,(0.0) so(0.0) we(0.0) are(0.0) not(0.0) preventing(0.0) the(0.0) Federal(1.0) Government(1.0) from(0.0) coming(0.0) in(0.0) ,(0.0) but(0.0) we(0.0) certainly(0.0) do(0.0) not(0.0) want(0.0) 
+to(0.0) have(0.0) ,(0.0) in(0.0) this(0.0) 120(0.0) degree(0.0) heat(0.0) during(0.0) the(0.0) summer(0.0) time(0.0) ,(0.0) we(0.0) do(0.0) not(0.0) want(0.0) our(0.0) desert(0.0) bighorn(0.0) 
+sheep(0.0) dying(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Minnesota	Vento	
+Federal	agencies	
+Arizona	
+Arizona	population	
+
+
+Federal	Government	
+
+
+
+reads % = 0.054878048780487805

@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) wish(1.0) to(0.0) inquire(1.0) of(0.0) the(0.0) distinguished(0.0) majority(0.0) leader(1.0) the(0.0) schedule(1.0) for(0.0) the(0.0) coming(0.0) week(1.0) .(0.0) Mr.(0.0) DeLAY(1.0) .(0.0) 
+Mr.(0.0) Speaker(1.0) ,(0.0) will(0.0) the(0.0) gentleman(0.0) yield(0.0) ?(1.0) Mr.(0.0) DeLAY(1.0) .(0.0) Mr.(1.0) Speaker(1.0) ,(0.0) I(0.0) thank(0.0) the(0.0) distinguished(0.0) whip(0.0) for(0.0) 
+yielding(0.0) to(0.0) me(0.0) .(0.0) Mr.(1.0) Speaker(1.0) ,(0.0) the(0.0) House(0.0) will(0.0) convene(1.0) on(0.0) Tuesday(1.0) at(0.0) 12:30(0.0) p.m.(0.0) for(0.0) morning(0.0) hour(0.0) and(0.0) 
+2(0.0) p.m.(0.0) for(0.0) legislative(1.0) business(1.0) .(0.0) We(0.0) will(0.0) consider(0.0) several(0.0) measures(1.0) under(0.0) suspension(0.0) of(0.0) the(0.0) rules(1.0) ,(0.0) and(0.0) a(0.0) final(0.0) 
+list(0.0) of(0.0) the(0.0) bills(0.0) will(0.0) be(0.0) sent(1.0) to(0.0) the(0.0) Members(0.0) '(0.0) offices(1.0) early(0.0) next(0.0) week(1.0) .(0.0) I(0.0) might(1.0) alert(0.0) the(0.0) 
+Members(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) that(0.0) in(0.0) a(0.0) change(1.0) from(0.0) our(0.0) traditional(0.0) schedule(1.0) ,(0.0) I(0.0) would(1.0) like(0.0) to(0.0) put(0.0) the(0.0) 
+Members(0.0) on(0.0) notice(1.0) that(0.0) we(0.0) plan(1.0) to(0.0) vote(1.0) one-half(1.0) hour(0.0) earlier(0.0) than(0.0) usual(0.0) on(0.0) Tuesday(1.0) ,(0.0) at(0.0) 6(0.0) p.m.(0.0) Members(0.0) 
+from(0.0) both(0.0) sides(0.0) of(0.0) the(0.0) aisle(1.0) have(0.0) asked(0.0) for(0.0) flexibility(0.0) this(0.0) Tuesday(1.0) because(0.0) a(0.0) number(0.0) of(0.0) them(0.0) and(0.0) their(0.0) spouses(0.0) 
+are(0.0) involved(0.0) in(0.0) the(0.0) annual(0.0) March(0.0) of(0.0) Dimes(1.0) Dinner(0.0) Gala(0.0) ,(0.0) which(0.0) begins(1.0) at(0.0) 6:30(1.0) .(0.0) So(1.0) Members(0.0) should(0.0) be(0.0) 
+aware(1.0) that(0.0) we(0.0) are(0.0) still(0.0) trying(0.0) to(0.0) work(0.0) it(0.0) out(1.0) with(0.0) the(0.0) minority(0.0) ,(0.0) but(0.0) be(0.0) aware(1.0) that(0.0) they(0.0) could(0.0) 
+be(0.0) notified(0.0) that(0.0) votes(1.0) will(0.0) start(0.0) at(0.0) 6(0.0) p.m.(0.0) Tuesday(1.0) rather(0.0) than(0.0) the(0.0) normal(0.0) 6:30(1.0) .(0.0) Next(1.0) week(1.0) we(0.0) expect(0.0) 
+to(0.0) consider(0.0) H.R(0.0) .(0.0) 975(1.0) ,(0.0) the(0.0) Bankruptcy(1.0) Abuse(0.0) Prevention(0.0) and(0.0) Consumer(0.0) Protection(0.0) Act(0.0) of(0.0) 2003(0.0) ,(0.0) as(0.0) well(0.0) as(0.0) 
+the(0.0) 2004(0.0) Budget(0.0) Resolution(0.0) .(0.0) Earlier(1.0) this(0.0) week(1.0) ,(0.0) the(0.0) Subcommittee(0.0) on(0.0) Crime(0.0) of(0.0) the(1.0) Committee(0.0) on(0.0) the(0.0) Judiciary(0.0) marked(0.0) 
+up(0.0) H.R(0.0) .(0.0) 1104(1.0) ,(0.0) the(0.0) Child(0.0) Abduction(1.0) Prevention(0.0) Act(0.0) .(0.0) Nearly(1.0) identical(1.0) legislation(0.0) passed(0.0) the(0.0) House(0.0) last(1.0) Congress(0.0) with(0.0) 
+close(0.0) to(0.0) 400(0.0) ``(0.0) yea(0.0) ''(0.0) votes(1.0) .(0.0) Chairman(1.0) Sensenbrenner(1.0) has(0.0) announced(1.0) that(0.0) the(0.0) Committee(0.0) on(0.0) the(0.0) Judiciary(0.0) will(0.0) report(1.0) 
+the(0.0) bill(0.0) out(0.0) from(0.0) a(0.0) markup(0.0) on(0.0) Tuesday(1.0) .(0.0) This(0.0) important(0.0) legislation(0.0) would(1.0) codify(1.0) a(0.0) current(0.0) judicial(1.0) program(0.0) to(0.0) implement(0.0) 
+a(0.0) nationwide(0.0) Amber(1.0) Alert(1.0) System(0.0) .(0.0) In(0.0) addition(0.0) ,(0.0) this(0.0) bill(0.0) eliminates(1.0) the(0.0) statute(1.0) of(0.0) limitations(1.0) for(0.0) child(0.0) abduction(0.0) and(0.0) 
+sex(1.0) crimes(1.0) ,(0.0) prohibits(0.0) pretrial(1.0) release(0.0) in(0.0) cases(0.0) of(0.0) rape(1.0) or(1.0) child(0.0) kidnapping(1.0) ,(0.0) provides(0.0) for(0.0) mandatory(0.0) minimum(1.0) sentencing(1.0) for(0.0) 
+child(0.0) kidnapping(0.0) ,(0.0) and(0.0) establishes(1.0) a(0.0) ``(0.0) two(0.0) strikes(1.0) and(0.0) you(0.0) 're(0.0) out(0.0) ''(0.0) for(0.0) child(0.0) sex(1.0) offenders(0.0) .(0.0) We(0.0) 
+hope(0.0) to(0.0) work(0.0) with(0.0) the(0.0) minority(0.0) to(0.0) find(0.0) a(0.0) way(0.0) to(0.0) bring(0.0) this(0.0) important(0.0) legislation(0.0) to(0.0) the(0.0) floor(0.0) next(0.0) Wednesday(1.0) 
+,(0.0) realizing(1.0) that(0.0) the(0.0) House(0.0) rules(1.0) require(1.0) a(0.0) 2-day(0.0) layover(1.0) ,(0.0) after(0.0) committee(0.0) markup(1.0) ,(0.0) to(0.0) allow(0.0) the(0.0) minority(0.0) to(0.0) 
+express(1.0) their(0.0) dissenting(1.0) and(0.0) minority(0.0) views(1.0) on(0.0) legislation(0.0) .(0.0) But(0.0) I(0.0) hope(0.0) we(0.0) can(0.0) work(0.0) together(0.0) in(0.0) expediting(1.0) this(0.0) very(0.0) 
+important(0.0) legislation(0.0) to(0.0) the(0.0) floor(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) to(0.0) me(0.0) ,(0.0) and(0.0) I(0.0) 
+am(0.0) happy(1.0) to(0.0) answer(0.0) any(1.0) questions(1.0) .(0.0) Speaker(1.0) ,(0.0) reclaiming(0.0) my(0.0) time(1.0) ,(0.0) I(0.0) thank(1.0) the(0.0) gentleman(0.0) for(0.0) the(0.0) information(0.0) 
+he(0.0) has(0.0) provided(0.0) us(0.0) ,(0.0) and(0.0) I(0.0) will(0.0) have(0.0) a(0.0) number(0.0) of(0.0) questions(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+wish	inquire	leader	schedule	week	DeLAY	
+Speaker	?	DeLAY	Mr.	Speaker	
+Mr.	Speaker	convene	Tuesday	
+legislative	business	measures	rules	
+sent	offices	week	might	
+Speaker	change	schedule	would	
+notice	plan	vote	one-half	Tuesday	
+aisle	Tuesday	
+Dimes	begins	6:30	So	
+aware	out	aware	
+votes	Tuesday	6:30	Next	week	
+975	Bankruptcy	
+Earlier	week	the	
+1104	Abduction	Nearly	identical	last	
+votes	Chairman	Sensenbrenner	announced	report	
+Tuesday	would	codify	judicial	
+Amber	Alert	eliminates	statute	limitations	
+sex	crimes	pretrial	rape	or	kidnapping	minimum	sentencing	
+establishes	strikes	sex	
+Wednesday	
+realizing	rules	require	layover	markup	
+express	dissenting	views	expediting	
+Speaker	
+happy	any	questions	Speaker	time	thank	
+questions	
+
+reads % = 0.2

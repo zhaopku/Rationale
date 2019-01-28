@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) 4(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) ((0.0) Mr.(0.0) Sam(1.0) Johnson(1.0) )(0.0) ,(0.0) the(0.0) chairman(0.0) of(0.0) the(0.0) 
+Subcommittee(0.0) on(0.0) Employer-(0.0) Employee(0.0) Relations(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Education(0.0) and(0.0) the(0.0) Workforce(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Sam	Johnson	
+
+
+reads % = 0.05714285714285714

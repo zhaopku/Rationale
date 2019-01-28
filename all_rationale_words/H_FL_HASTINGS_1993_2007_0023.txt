@@ -1,0 +1,20 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) I(0.0) would(0.0) say(0.0) to(0.0) Mr.(0.0) 
+Ryan(1.0) that(1.0) the(0.0) Democrats(1.0) are(0.0) 2(0.0) days(0.0) in(0.0) the(0.0) majority(0.0) .(0.0) The(0.0) Republicans(1.0) were(1.0) 12(1.0) years(1.0) in(1.0) the(1.0) majority(1.0) with(0.0) 
+the(0.0) purse(1.0) strings(1.0) ,(0.0) and(0.0) this(0.0) deficit(1.0) ran(0.0) up(0.0) on(0.0) your(0.0) watch(0.0) .(0.0) On(0.0) the(0.0) second(0.0) day(0.0) that(0.0) we(0.0) are(0.0) 
+here(0.0) talking(0.0) about(0.0) what(0.0) we(0.0) are(0.0) going(0.0) to(0.0) do(0.0) as(0.0) a(0.0) first(0.0) step(0.0) to(0.0) clean(0.0) up(0.0) your(0.0) mess(1.0) ,(0.0) you(0.0) 
+would(0.0) complain(0.0) ?(0.0) Cut(0.0) me(0.0) some(0.0) slack(0.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Illinois(1.0) ((0.0) Mr.(0.0) 
+Emanuel(1.0) )(0.0) such(1.0) time(0.0) as(0.0) he(0.0) may(0.0) consume(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	
+Ryan	that	Democrats	Republicans	were	12	years	in	the	majority	
+purse	strings	deficit	
+mess	
+Speaker	Illinois	
+Emanuel	such	
+
+reads % = 0.17272727272727273

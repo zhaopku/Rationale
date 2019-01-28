@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) tonight(0.0) I(0.0) rise(0.0) to(0.0) commemorate(0.0) the(0.0) life(0.0) of(0.0) Andrew(0.0) Burris(1.0) ,(0.0) a(0.0) professional(0.0) carpenter(0.0) by(0.0) trade(1.0) ,(0.0) who(0.0) gave(0.0) 
+his(0.0) life(0.0) today(0.0) in(0.0) Toledo(1.0) ,(0.0) Ohio(1.0) ,(0.0) as(0.0) he(0.0) helped(0.0) place(0.0) the(0.0) finishing(0.0) touches(0.0) on(0.0) the(0.0) largest(0.0) Federal(1.0) transportation(1.0) 
+project(0.0) in(0.0) Ohio(1.0) 's(0.0) history(0.0) .(0.0) Burris(0.0) suffered(0.0) fatal(0.0) injury(0.0) as(0.0) he(0.0) worked(0.0) to(0.0) complete(0.0) Interstate(0.0) 280(0.0) 's(0.0) new(0.0) river(0.0) 
+crossing(0.0) known(0.0) as(0.0) the(0.0) Veterans(0.0) Glass(0.0) City(0.0) Skyway(1.0) that(0.0) spans(0.0) the(0.0) Maumee(1.0) River(0.0) ,(0.0) the(0.0) largest(0.0) river(0.0) flowing(0.0) into(0.0) the(0.0) 
+Great(0.0) Lakes(0.0) .(0.0) At(0.0) approximately(0.0) 9:15(0.0) this(0.0) morning(0.0) ,(0.0) 36-year-old(0.0) Andrew(0.0) W.(1.0) Burris(1.0) ,(0.0) of(0.0) Curtice(0.0) ,(0.0) Ohio(1.0) ,(0.0) fell(0.0) 
+to(0.0) his(0.0) death(0.0) from(0.0) a(0.0) scaffolding(0.0) on(0.0) the(0.0) north(0.0) side(0.0) of(0.0) the(0.0) bridge(0.0) .(0.0) He(0.0) was(0.0) a(0.0) faithful(0.0) and(0.0) dedicated(0.0) 
+member(0.0) of(0.0) the(0.0) Carpenters(0.0) Union(0.0) Local(0.0) 1138(0.0) .(0.0) As(0.0) a(0.0) carpenter(0.0) for(0.0) nearly(0.0) 10(0.0) years(0.0) ,(0.0) his(0.0) union(0.0) brothers(0.0) said(0.0) 
+Andrew(0.0) loved(0.0) his(0.0) work(0.0) and(0.0) was(0.0) an(0.0) excellent(0.0) carpenter(0.0) .(0.0) The(0.0) new(0.0) skyway(1.0) replaces(0.0) the(0.0) last(0.0) drawbridge(0.0) left(0.0) on(0.0) our(0.0) 
+Nation's(0.0) interstate(0.0) system(0.0) .(0.0) The(0.0) cable-stayed(1.0) bridge(0.0) will(0.0) carry(0.0) three(0.0) lanes(0.0) of(0.0) traffic(0.0) in(0.0) each(0.0) direction(0.0) over(0.0) the(0.0) river(0.0) extending(0.0) 
+from(0.0) I-75(0.0) on(0.0) the(0.0) north(0.0) end(0.0) to(0.0) Navarre(0.0) Avenue(0.0) on(0.0) the(0.0) south(0.0) end(0.0) .(0.0) The(0.0) surface(0.0) of(0.0) the(0.0) roadway(0.0) will(0.0) 
+reach(0.0) about(0.0) 130(0.0) feet(0.0) above(0.0) the(0.0) center(0.0) of(0.0) the(0.0) river(0.0) .(0.0) As(0.0) our(0.0) Nation(1.0) builds(0.0) forward(0.0) ,(0.0) brick(0.0) by(0.0) brick(0.0) 
+,(0.0) steel(0.0) rod(0.0) by(0.0) steel(0.0) rod(0.0) ,(0.0) cement(0.0) block(0.0) by(0.0) cement(0.0) block(0.0) ,(0.0) wood(0.0) beam(0.0) by(0.0) wood(0.0) beam(0.0) ,(0.0) sometimes(0.0) 
+we(0.0) forget(0.0) the(0.0) danger(1.0) faced(0.0) by(0.0) the(0.0) men(0.0) and(0.0) women(0.0) skilled(0.0) in(0.0) these(0.0) trades(0.0) as(0.0) they(0.0) craft(0.0) our(0.0) monuments(0.0) to(0.0) 
+civilization(1.0) .(0.0) It(0.0) takes(0.0) a(0.0) tragedy(0.0) like(0.0) this(0.0) to(0.0) give(0.0) us(0.0) pause(0.0) and(0.0) say(0.0) a(0.0) silent(0.0) prayer(0.0) for(0.0) all(0.0) workers(1.0) 
+in(0.0) their(0.0) daily(0.0) arduous(0.0) labor(1.0) .(0.0) Andrew(0.0) 's(0.0) death(0.0) is(0.0) not(0.0) the(0.0) first(0.0) tragedy(0.0) to(0.0) befall(0.0) the(0.0) workers(1.0) on(0.0) this(0.0) 
+new(0.0) highway(1.0) in(0.0) the(0.0) sky(0.0) .(0.0) On(0.0) President(0.0) 's(0.0) Day(0.0) ,(0.0) 2004(0.0) ,(0.0) a(0.0) crane(0.0) collapse(0.0) on(0.0) the(0.0) Maumee(1.0) River(0.0) 
+Crossing(0.0) Bridge(0.0) led(0.0) to(0.0) the(0.0) death(0.0) of(0.0) four(0.0) iron(0.0) workers(1.0) .(0.0) This(0.0) bridge(0.0) to(0.0) the(0.0) future(0.0) these(0.0) men(0.0) and(0.0) women(0.0) 
+have(0.0) been(0.0) building(0.0) is(0.0) a(0.0) monument(0.0) and(0.0) a(0.0) testament(0.0) to(0.0) their(0.0) work(0.0) .(0.0) In(0.0) the(0.0) Record(0.0) entry(0.0) I(0.0) offered(0.0) following(0.0) 
+the(0.0) death(1.0) of(0.0) those(0.0) four(0.0) iron(0.0) workers(1.0) on(0.0) that(0.0) fateful(0.0) February(0.0) day(0.0) ,(0.0) I(0.0) noted(0.0) the(0.0) men(0.0) and(0.0) women(0.0) building(0.0) 
+the(0.0) bridge(0.0) had(0.0) been(0.0) about(0.0) great(0.0) deeds(0.0) .(0.0) We(0.0) watch(0.0) their(0.0) incredible(0.0) feats(0.0) daily(0.0) with(0.0) admiration(0.0) and(0.0) ,(0.0) yes(0.0) ,(0.0) 
+with(0.0) awe(0.0) .(0.0) We(0.0) witness(0.0) their(0.0) minds(0.0) ,(0.0) their(0.0) muscles(0.0) and(0.0) hands(0.0) forming(0.0) of(0.0) the(0.0) Earth(0.0) a(0.0) new(0.0) and(0.0) better(0.0) 
+future(0.0) for(0.0) us(0.0) all(0.0) .(0.0) On(0.0) the(0.0) hottest(0.0) summer(0.0) days(0.0) ,(0.0) as(0.0) well(0.0) as(0.0) bone-chilling(0.0) ,(0.0) subzero(0.0) temperatures(0.0) of(0.0) winter(0.0) 
+in(0.0) the(0.0) north(0.0) ,(0.0) they(0.0) toiled(0.0) fearlessly(0.0) above(0.0) us(0.0) creating(0.0) a(0.0) majestic(0.0) expression(0.0) of(0.0) who(0.0) they(0.0) were(0.0) and(0.0) who(0.0) we(0.0) 
+are(0.0) as(0.0) a(0.0) people(0.0) .(0.0) We(0.0) humbly(0.0) acknowledge(0.0) and(0.0) publicly(0.0) recognize(0.0) them(0.0) for(0.0) their(0.0) heroic(1.0) ,(0.0) steadfast(1.0) ,(0.0) and(0.0) artful(0.0) 
+deeds(0.0) as(0.0) building(0.0) tradesmen(0.0) .(0.0) The(0.0) men(0.0) who(0.0) lost(0.0) their(0.0) lives(0.0) leave(0.0) not(0.0) only(0.0) their(0.0) mastery(0.0) of(0.0) iron(0.0) and(0.0) 
+
+
+----- below are rationale words -----
+
+Burris	trade	
+Toledo	Ohio	Federal	transportation	
+Ohio	
+Skyway	Maumee	
+W.	Burris	Ohio	
+
+
+skyway	
+cable-stayed	
+
+Nation	
+
+danger	
+civilization	workers	
+labor	workers	
+highway	Maumee	
+workers	
+
+death	workers	
+
+
+
+
+heroic	steadfast	
+
+
+reads % = 0.054

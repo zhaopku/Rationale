@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) support(0.0) of(0.0) health(1.0) care(1.0) choices(0.0) for(0.0) our(0.0) seniors(1.0) .(0.0) Nearly(0.0) 30(0.0) percent(0.0) of(0.0) all(0.0) seniors(1.0) 
+,(0.0) 15(0.0) million(0.0) Americans(1.0) ,(0.0) choose(0.0) Medicare(1.0) Advantage(1.0) .(0.0) Individuals(0.0) have(0.0) testified(0.0) before(0.0) the(0.0) Energy(0.0) and(0.0) Commerce(0.0) Committee(0.0) that(0.0) Medicare(1.0) 
+Advantage(1.0) provides(0.0) better(0.0) results(0.0) than(0.0) traditional(0.0) Medicare(1.0) by(0.0) embracing(1.0) free-market(1.0) principles(0.0) .(0.0) Medicare(1.0) Advantage(1.0) focuses(1.0) on(0.0) preventive(1.0) care(0.0) .(0.0) Before(0.0) 
+ObamaCare(1.0) ,(0.0) competition(1.0) in(0.0) Medicare(1.0) Advantage(1.0) kept(0.0) costs(1.0) for(0.0) beneficiaries(1.0) low(0.0) and(0.0) choices(0.0) for(0.0) plans(1.0) abundant(0.0) .(0.0) With(0.0) ObamaCare(1.0) ,(0.0) 
+choices(0.0) will(0.0) be(0.0) reduced(0.0) and(0.0) costs(1.0) for(0.0) seniors(1.0) ,(0.0) unfortunately(0.0) ,(0.0) will(0.0) increase(1.0) .(0.0) ObamaCare(1.0) cuts(1.0) Medicare(1.0) by(1.0) $(0.0) 700(0.0) 
+billion(1.0) .(0.0) Medicare(1.0) Advantage(1.0) has(0.0) been(0.0) successful(0.0) for(0.0) its(0.0) enrollees(1.0) .(0.0) These(0.0) cuts(1.0) will(0.0) reduce(1.0) the(0.0) access(0.0) seniors(1.0) have(0.0) to(0.0) 
+Medicare(1.0) Advantage(1.0) .(0.0) This(0.0) is(0.0) unacceptable(1.0) as(0.0) far(0.0) as(0.0) I(0.0) am(0.0) concerned(0.0) .(0.0) Medicare(1.0) Advantage(1.0) should(0.0) be(0.0) touted(1.0) .(0.0) Instead(0.0) 
+,(0.0) seniors(1.0) are(0.0) facing(0.0) an(0.0) on-average(0.0) 13(0.0) percent(0.0) rate(0.0) cut(1.0) in(0.0) 2014(1.0) ,(0.0) compared(0.0) to(0.0) 2013(0.0) .(0.0) We(0.0) should(0.0) not(0.0) 
+be(0.0) penalizing(1.0) seniors(1.0) and(0.0) reducing(1.0) their(0.0) access(0.0) to(0.0) health(1.0) care(1.0) to(0.0) pay(1.0) for(0.0) others(0.0) .(0.0) Medicare(1.0) Advantage(1.0) is(0.0) a(0.0) successful(0.0) 
+program(0.0) ,(0.0) and(0.0) Congress(0.0) should(0.0) protect(0.0) it(0.0) from(0.0) being(0.0) gutted(1.0) by(0.0) the(0.0) Obama(1.0) administration(1.0) and(0.0) the(0.0) Affordable(1.0) Care(0.0) Act(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+health	care	seniors	seniors	
+Americans	Medicare	Advantage	Medicare	
+Advantage	Medicare	embracing	free-market	Medicare	Advantage	focuses	preventive	
+ObamaCare	competition	Medicare	Advantage	costs	beneficiaries	plans	ObamaCare	
+costs	seniors	increase	ObamaCare	cuts	Medicare	by	
+billion	Medicare	Advantage	enrollees	cuts	reduce	seniors	
+Medicare	Advantage	unacceptable	Medicare	Advantage	touted	
+seniors	cut	2014	
+penalizing	seniors	reducing	health	care	pay	Medicare	Advantage	
+gutted	Obama	administration	Affordable	
+
+
+reads % = 0.2935323383084577

@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) thank(0.0) my(0.0) friend(0.0) for(0.0) his(0.0) very(0.0) ,(0.0) very(0.0) eloquent(0.0) remarks(0.0) .(0.0) I(0.0) yield(0.0) to(0.0) the(0.0) gentlewoman(0.0) from(0.0) Minnesota(1.0) ,(0.0) Michele(1.0) 
+Bachmann(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Minnesota	Michele	
+Bachmann	
+
+reads % = 0.13043478260869565

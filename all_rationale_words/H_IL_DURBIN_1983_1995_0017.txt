@@ -1,0 +1,24 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) think(0.0) in(0.0) some(0.0) areas(0.0) you(0.0) have(0.0) to(0.0) draw(0.0) lines(0.0) where(0.0) you(0.0) can(0.0) go(0.0) too(0.0) far(0.0) .(0.0) I(0.0) do(0.0) n't(0.0) argue(0.0) 
+that(0.0) you(0.0) can(0.0) .(0.0) Let(0.0) me(0.0) say(0.0) to(0.0) the(0.0) gentleman(0.0) ,(0.0) I(0.0) think(0.0) many(0.0) times(0.0) what(0.0) the(0.0) Republican(1.0) Party(1.0) misses(1.0) 
+is(1.0) that(1.0) aspect(1.0) of(1.0) our(1.0) Federal(1.0) Government(1.0) which(1.0) talks(1.0) about(1.0) the(1.0) common(1.0) good(0.0) .(0.0) The(0.0) common(0.0) good(0.0) in(0.0) many(0.0) instances(0.0) 
+requires(1.0) us(0.0) all(0.0) to(0.0) basically(0.0) give(0.0) up(0.0) some(0.0) of(0.0) our(0.0) power(0.0) and(0.0) authority(0.0) so(0.0) as(0.0) a(0.0) nation(0.0) we(0.0) are(0.0) doing(0.0) 
+the(0.0) right(0.0) thing(0.0) .(0.0) I(0.0) am(0.0) sure(0.0) the(0.0) gentleman(0.0) would(0.0) agree(0.0) that(0.0) that(0.0) is(0.0) something(0.0) that(0.0) is(0.0) very(0.0) important(0.0) to(0.0) 
+our(0.0) country(1.0) ,(0.0) and(0.0) yet(0.0) it(0.0) seems(0.0) the(0.0) Republicans(1.0) are(1.0) so(1.0) troubled(1.0) by(1.0) that(1.0) that(1.0) they(1.0) would(1.0) push(1.0) through(0.0) this(1.0) 
+unfunded(1.0) mandate(1.0) bill(1.0) so(1.0) quickly(1.0) and(1.0) so(0.0) extreme(1.0) that(1.0) when(0.0) you(0.0) sit(0.0) down(0.0) and(0.0) apply(0.0) it(0.0) to(0.0) specific(0.0) instances(0.0) ,(0.0) 
+it(0.0) just(0.0) does(0.0) n't(0.0) make(0.0) sense(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Republican	Party	misses	
+is	that	aspect	of	our	Federal	Government	which	talks	about	the	common	
+requires	
+
+country	Republicans	are	so	troubled	by	that	that	they	would	push	this	
+unfunded	mandate	bill	so	quickly	and	extreme	that	
+
+
+reads % = 0.24324324324324326

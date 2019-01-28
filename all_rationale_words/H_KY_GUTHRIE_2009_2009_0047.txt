@@ -1,0 +1,22 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Chair(0.0) ,(0.0) I(0.0) rise(0.0) to(0.0) claim(0.0) time(0.0) in(0.0) opposition(1.0) though(0.0) I(0.0) 'm(0.0) not(0.0) opposed(0.0) to(0.0) the(0.0) amendment(1.0) .(0.0) The(0.0) Acting(0.0) 
+CHAIR(0.0) .(0.0) Without(0.0) objection(1.0) ,(0.0) the(0.0) gentleman(0.0) is(0.0) recognized(0.0) for(0.0) 5(0.0) minutes(0.0) .(0.0) There(0.0) was(0.0) no(0.0) objection(0.0) .(0.0) Madam(0.0) Chair(1.0) 
+,(0.0) as(0.0) I(0.0) understand(0.0) it(0.0) ,(0.0) the(0.0) purpose(0.0) of(0.0) this(0.0) amendment(1.0) is(0.0) to(0.0) ensure(0.0) States(0.0) applying(1.0) for(0.0) this(0.0) new(0.0) pre-K(1.0) 
+funding(1.0) understand(0.0) any(0.0) geographic(1.0) disparity(1.0) between(0.0) early(0.0) learning(0.0) programs(1.0) for(0.0) low-income(1.0) children(0.0) and(0.0) consider(0.0) steps(0.0) to(0.0) reduce(1.0) the(0.0) disparity(1.0) .(0.0) 
+This(0.0) amendment(1.0) 's(0.0) a(0.0) positive(0.0) step(0.0) .(0.0) It(0.0) may(0.0) even(0.0) move(0.0) us(0.0) closer(0.0) to(0.0) ensuring(0.0) more(0.0) low-income(1.0) children(0.0) are(0.0) served(0.0) 
+by(0.0) this(0.0) program(1.0) ,(0.0) something(0.0) that's(0.0) really(0.0) not(0.0) clearly(0.0) spelled(0.0) out(0.0) in(0.0) the(0.0) bill(1.0) .(0.0) Madam(0.0) Chair(1.0) ,(0.0) I(0.0) reserve(0.0) 
+the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+opposition	amendment	
+objection	Chair	
+amendment	applying	pre-K	
+funding	geographic	disparity	programs	low-income	reduce	disparity	
+amendment	low-income	
+program	bill	Chair	
+
+
+reads % = 0.14960629921259844

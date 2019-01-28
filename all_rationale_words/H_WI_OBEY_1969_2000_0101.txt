@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) wondered(0.0) how(0.0) long(0.0) it(0.0) would(0.0) take(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) before(0.0) he(0.0) gets(0.0) to(0.0) his(0.0) usual(0.0) accusation(0.0) that(0.0) 
+those(0.0) who(0.0) disagree(0.0) with(0.0) him(0.0) are(0.0) socialists(1.0) or(0.0) worse(0.0) .(0.0) I(0.0) would(0.0) simply(0.0) say(0.0) that(0.0) the(0.0) assertion(1.0) that(0.0) amendments(1.0) like(0.0) 
+this(0.0) have(0.0) somehow(0.0) killed(0.0) people(0.0) is(0.0) absurd(1.0) .(0.0) This(0.0) House(0.0) has(0.0) not(0.0) adopted(0.0) an(0.0) amendment(1.0) to(0.0) cut(1.0) back(0.0) any(0.0) major(1.0) 
+defense(1.0) program(1.0) in(0.0) 20(0.0) years(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+socialists	assertion	amendments	
+absurd	amendment	cut	major	
+defense	program	
+
+reads % = 0.13432835820895522

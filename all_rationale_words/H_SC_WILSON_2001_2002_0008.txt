@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) as(0.0) a(0.0) member(0.0) of(0.0) the(0.0) Welfare(0.0) Reform(0.0) Action(0.0) Team(0.0) ,(0.0) I(0.0) am(0.0) here(0.0) today(0.0) to(0.0) reopen(1.0) the(0.0) discussion(0.0) on(0.0) 
+welfare(1.0) reform(1.0) .(0.0) In(0.0) 1996(0.0) ,(0.0) after(0.0) a(0.0) contentious(1.0) debate(1.0) that(0.0) will(0.0) not(0.0) soon(0.0) be(0.0) forgotten(0.0) ,(0.0) Republicans(0.0) rallied(1.0) to(1.0) 
+pass(1.0) welfare(1.0) reform(1.0) .(1.0) Another(1.0) thing(1.0) that(1.0) will(1.0) not(1.0) be(0.0) soon(0.0) forgotten(0.0) is(0.0) welfare(1.0) reform's(0.0) historic(1.0) results(0.0) .(0.0) Republican-led(1.0) welfare(1.0) 
+reform(1.0) has(0.0) proven(0.0) successful(0.0) in(0.0) replacing(1.0) welfare(1.0) checks(1.0) with(0.0) paychecks(1.0) ,(0.0) fostering(1.0) independence(1.0) ,(0.0) boosting(1.0) personal(0.0) incomes(1.0) and(0.0) improving(0.0) the(0.0) 
+well-being(1.0) of(0.0) children(0.0) .(0.0) In(0.0) 1996(1.0) ,(0.0) Congress(0.0) fixed(0.0) a(0.0) welfare(1.0) system(0.0) that(0.0) was(0.0) completely(0.0) broken(0.0) .(0.0) The(0.0) proof(0.0) is(0.0) 
+in(0.0) the(0.0) numbers(0.0) .(0.0) Since(0.0) 1994(0.0) ,(0.0) welfare(1.0) caseloads(1.0) have(0.0) been(0.0) reduced(0.0) by(0.0) 9(0.0) million(0.0) .(0.0) The(0.0) number(0.0) of(0.0) individuals(0.0) 
+receiving(0.0) cash(0.0) assistance(0.0) has(0.0) dropped(0.0) by(0.0) 56(0.0) percent(0.0) .(0.0) Nearly(0.0) 3(0.0) million(0.0) children(0.0) have(0.0) been(0.0) lifted(0.0) from(0.0) poverty(1.0) ,(0.0) and(0.0) 
+the(0.0) child(0.0) poverty(1.0) rate(1.0) is(0.0) at(0.0) its(0.0) lowest(1.0) level(0.0) since(0.0) 1978(1.0) .(0.0) That(0.0) is(0.0) real(0.0) progress(0.0) .(0.0) Now(0.0) that(0.0) the(0.0) 
+success(0.0) stories(0.0) from(0.0) many(0.0) and(0.0) the(0.0) naysayers(1.0) are(0.0) few(0.0) ,(0.0) it(0.0) is(0.0) my(0.0) sincere(0.0) hope(0.0) that(0.0) this(0.0) House(0.0) will(0.0) support(0.0) 
+the(0.0) President(1.0) in(0.0) reauthorizing(1.0) welfare(1.0) reform(1.0) in(0.0) a(0.0) strong(0.0) bipartisan(1.0) fashion(1.0) .(0.0) There(0.0) is(0.0) still(0.0) more(0.0) work(0.0) to(0.0) be(0.0) done(0.0) 
+.(0.0) We(0.0) must(0.0) continue(0.0) to(0.0) strengthen(1.0) the(0.0) path(0.0) toward(0.0) independence(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+reopen	
+welfare	reform	contentious	debate	rallied	to	
+pass	welfare	reform	.	Another	thing	that	will	not	welfare	historic	Republican-led	welfare	
+reform	replacing	welfare	checks	paychecks	fostering	independence	boosting	incomes	
+well-being	1996	welfare	
+welfare	caseloads	
+poverty	
+poverty	rate	lowest	1978	
+naysayers	
+President	reauthorizing	welfare	reform	bipartisan	fashion	
+strengthen	independence	
+
+reads % = 0.22641509433962265

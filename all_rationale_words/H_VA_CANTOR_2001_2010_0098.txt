@@ -1,0 +1,16 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) 'd(0.0) say(0.0) that(0.0) in(0.0) order(0.0) to(0.0) get(0.0) a(0.0) handle(0.0) on(0.0) spending(1.0) ,(0.0) just(0.0) stop(0.0) .(0.0) And(0.0) that(0.0) is(0.0) why(0.0) we(0.0) 
+should(0.0) n't(0.0) allow(0.0) for(0.0) discussion(0.0) of(0.0) hiking(0.0) taxes(1.0) .(0.0) It(0.0) allows(0.0) this(0.0) body(0.0) ,(0.0) this(0.0) Federal(1.0) Government(1.0) ,(0.0) to(0.0) have(0.0) 
+yet(0.0) even(0.0) more(0.0) of(0.0) the(0.0) taxpayer(1.0) dollars(1.0) to(0.0) decide(0.0) how(0.0) to(0.0) spend(1.0) .(0.0) It(0.0) 's(0.0) time(0.0) for(0.0) us(0.0) to(0.0) stop(0.0) 
+and(0.0) practice(0.0) fiscal(1.0) discipline(0.0) and(0.0) get(0.0) this(0.0) economy(1.0) back(0.0) on(0.0) track(0.0) .(0.0) I(0.0) yield(0.0) back(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+spending	
+taxes	Federal	Government	
+taxpayer	dollars	spend	
+fiscal	economy	
+
+reads % = 0.11688311688311688

@@ -1,0 +1,50 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) strike(1.0) the(0.0) requisite(0.0) number(0.0) of(0.0) words(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) the(0.0) 
+amendment(1.0) offered(0.0) by(0.0) the(0.0) addresses(0.0) one(0.0) of(0.0) the(0.0) most(0.0) egregious(1.0) aspects(0.0) in(0.0) this(0.0) bad(1.0) bill(1.0) .(0.0) The(0.0) problem(0.0) with(0.0) the(0.0) 
+proposal(1.0) to(0.0) gut(1.0) the(0.0) Agency(0.0) for(0.0) International(0.0) Development(0.0) ,(0.0) the(0.0) United(0.0) States(0.0) Information(0.0) Agency(0.0) and(0.0) the(0.0) Arms(0.0) Control(0.0) and(0.0) Disarmament(0.0) 
+Agency(0.0) by(0.0) putting(0.0) them(0.0) into(0.0) the(0.0) State(0.0) Department(0.0) is(0.0) that(0.0) it(0.0) compromises(1.0) the(0.0) mission(0.0) of(0.0) every(0.0) one(0.0) of(0.0) those(0.0) agencies(1.0) 
+.(0.0) The(0.0) mission(0.0) of(0.0) the(0.0) State(0.0) Department(0.0) ,(0.0) my(0.0) colleagues(0.0) ,(0.0) in(0.0) diplomacy(1.0) .(0.0) That(0.0) is(0.0) not(0.0) the(0.0) mission(0.0) of(0.0) 
+AID(1.0) ,(0.0) USIA(1.0) and(0.0) ACDA(0.0) .(0.0) The(0.0) mission(0.0) of(0.0) the(0.0) United(0.0) States(0.0) Agency(0.0) for(0.0) International(0.0) Development(0.0) is(0.0) to(0.0) maximize(0.0) the(0.0) 
+economic(1.0) and(0.0) the(0.0) human(0.0) potential(0.0) of(0.0) everyone(0.0) around(0.0) the(0.0) world(0.0) and(0.0) ,(0.0) by(0.0) doing(0.0) so(0.0) ,(0.0) create(0.0) market(0.0) opportunities(0.0) for(0.0) 
+American(0.0) industry(1.0) .(0.0) The(0.0) mission(1.0) of(0.0) the(0.0) U.S.(0.0) Information(0.0) Agency(0.0) is(0.0) very(0.0) simply(0.0) truth(0.0) ,(0.0) not(0.0) truth(0.0) that(0.0) complies(0.0) with(0.0) 
+State(0.0) Department(0.0) policy(0.0) that(0.0) is(0.0) politically(1.0) oriented(0.0) ,(0.0) that(0.0) is(0.0) acceptable(0.0) ,(0.0) but(0.0) simply(0.0) ,(0.0) plainly(0.0) credible(1.0) truth(0.0) .(0.0) That(0.0) 
+is(0.0) what(0.0) the(0.0) USIA(1.0) delivers(0.0) around(0.0) the(0.0) world(0.0) .(0.0) And(0.0) the(0.0) mission(0.0) of(0.0) the(0.0) Arms(0.0) Control(0.0) and(0.0) Disarmament(1.0) Agency(0.0) is(0.0) 
+to(0.0) save(0.0) us(0.0) expenditures(1.0) and(0.0) arms(0.0) procurement(1.0) by(0.0) enabling(0.0) us(0.0) to(0.0) control(0.0) the(0.0) proliferation(1.0) of(0.0) nuclear(1.0) ,(0.0) chemical(1.0) and(0.0) biological(0.0) 
+weapons(0.0) .(0.0) Of(0.0) all(0.0) the(0.0) times(0.0) in(0.0) history(0.0) to(0.0) think(0.0) about(0.0) gutting(1.0) the(0.0) mission(0.0) of(0.0) the(0.0) Arms(0.0) Control(0.0) Disarmament(0.0) Agency(0.0) 
+,(0.0) when(0.0) we(0.0) know(0.0) how(0.0) able(0.0) dictators(1.0) ,(0.0) tyrants(1.0) ,(0.0) crazy(0.0) nuts(0.0) around(0.0) the(0.0) world(0.0) have(0.0) access(0.0) to(0.0) lethal(1.0) weapons(1.0) 
+,(0.0) and(0.0) we(0.0) are(0.0) going(0.0) to(0.0) gut(1.0) the(0.0) mission(1.0) of(0.0) the(0.0) Arms(0.0) Control(0.0) and(0.0) Disarmament(1.0) Agency(0.0) ?(0.0) Of(0.0) all(0.0) the(0.0) 
+times(0.0) to(0.0) gut(1.0) the(0.0) mission(1.0) ,(0.0) to(0.0) compromise(1.0) the(0.0) mission(1.0) or(0.0) the(0.0) Agency(0.0) for(0.0) International(0.0) Development(0.0) .(0.0) Consider(0.0) the(0.0) fact(0.0) 
+that(0.0) as(0.0) we(0.0) move(0.0) into(0.0) the(0.0) next(0.0) millennium(1.0) ,(0.0) the(0.0) 21st(0.0) century(0.0) ,(0.0) there(0.0) will(0.0) be(0.0) five(0.0) new(0.0) human(0.0) beings(0.0) 
+born(0.0) every(0.0) second(0.0) of(0.0) every(0.0) day(0.0) ,(0.0) and(0.0) three(0.0) of(0.0) them(0.0) are(0.0) going(0.0) to(0.0) go(0.0) hungry(1.0) ,(0.0) without(0.0) adequate(1.0) housing(1.0) 
+,(0.0) without(0.0) decent(0.0) medical(1.0) care(1.0) .(0.0) The(0.0) Agency(0.0) for(0.0) International(0.0) Development(0.0) can(0.0) enable(0.0) them(0.0) to(0.0) become(0.0) not(0.0) desperate(0.0) ,(0.0) hostile(0.0) 
+people(0.0) ,(0.0) but(0.0) constructive(1.0) members(0.0) and(0.0) contributing(0.0) to(0.0) a(0.0) world(0.0) of(0.0) peace(1.0) and(0.0) economic(1.0) and(0.0) social(0.0) stability(0.0) and(0.0) ,(0.0) by(0.0) 
+doing(0.0) so(0.0) ,(0.0) create(0.0) markets(1.0) throughout(0.0) the(0.0) world(0.0) for(0.0) the(0.0) American(0.0) economy(1.0) .(0.0) That(0.0) is(0.0) what(0.0) the(0.0) Agency(0.0) for(0.0) International(0.0) 
+Development(0.0) does(0.0) ,(0.0) and(0.0) let(0.0) me(0.0) quote(0.0) just(0.0) from(0.0) the(0.0) New(1.0) York(1.0) Times(1.0) here(0.0) on(0.0) USIA(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+strike	Chairman	
+amendment	egregious	bad	bill	
+proposal	gut	
+compromises	agencies	
+diplomacy	
+AID	USIA	
+economic	
+industry	mission	
+politically	credible	
+USIA	Disarmament	
+expenditures	procurement	proliferation	nuclear	chemical	
+gutting	
+dictators	tyrants	lethal	weapons	
+gut	mission	Disarmament	
+gut	mission	compromise	mission	
+millennium	
+hungry	adequate	housing	
+medical	care	
+constructive	peace	economic	
+markets	economy	
+New	York	Times	USIA	
+
+reads % = 0.12440191387559808

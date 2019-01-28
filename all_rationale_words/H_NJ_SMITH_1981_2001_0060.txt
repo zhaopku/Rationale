@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) in(0.0) an(0.0) emotional(0.0) appeal(0.0) before(0.0) 
+the(0.0) House(0.0) Committee(0.0) on(0.0) International(0.0) Relations(0.0) last(0.0) Tuesday(0.0) ,(0.0) the(0.0) wife(0.0) of(0.0) Dr.(0.0) Li(0.0) Shaomin(1.0) and(0.0) the(0.0) husband(0.0) of(0.0) Dr.(0.0) 
+Gao(1.0) Zhan(1.0) ,(0.0) two(0.0) highly(0.0) respected(0.0) scholars(0.0) held(0.0) hostage(0.0) by(0.0) the(0.0) People(0.0) 's(0.0) Republic(0.0) of(0.0) China(0.0) ,(0.0) asked(0.0) Congress(0.0) and(0.0) 
+the(0.0) President(0.0) to(0.0) leave(0.0) no(0.0) stone(0.0) unturned(0.0) in(0.0) securing(0.0) the(0.0) release(0.0) of(0.0) their(0.0) loved(0.0) ones(0.0) .(0.0) Also(0.0) at(0.0) that(0.0) hearing(0.0) 
+,(0.0) Mike(0.0) Jendrzejczyk(0.0) of(0.0) Human(0.0) Rights(0.0) Watch(0.0) made(0.0) a(0.0) number(0.0) of(0.0) incisive(0.0) comments(0.0) and(0.0) said(0.0) ,(0.0) ``(0.0) The(0.0) detentions(0.0) of(0.0) 
+respected(0.0) China(0.0) scholars(0.0) have(0.0) sent(0.0) a(0.0) shock(0.0) wave(0.0) through(0.0) the(0.0) international(0.0) academic(0.0) community(0.0) .(0.0) Many(0.0) researchers(0.0) are(0.0) increasingly(0.0) worried(0.0) about(0.0) 
+the(0.0) risks(0.0) of(0.0) working(0.0) in(0.0) China(1.0) ,(0.0) and(0.0) have(0.0) taken(0.0) extraordinary(0.0) steps(0.0) to(0.0) speak(0.0) out(0.0) .(0.0) ''(0.0) He(0.0) noted(0.0) on(0.0) 
+April(0.0) 17(0.0) ,(0.0) more(0.0) than(0.0) 400(0.0) leading(0.0) scholars(0.0) from(0.0) 14(0.0) countries(0.0) ,(0.0) as(0.0) well(0.0) as(0.0) Taiwan(0.0) and(0.0) Hong(0.0) Kong(0.0) ,(0.0) 
+all(0.0) of(0.0) them(0.0) who(0.0) work(0.0) in(0.0) the(0.0) field(0.0) of(0.0) China(0.0) studies(0.0) ,(0.0) sent(0.0) a(0.0) petition(0.0) to(0.0) President(0.0) Jiang(0.0) Zemin(0.0) .(0.0) 
+The(0.0) authors(0.0) of(0.0) the(0.0) letter(0.0) noted(0.0) that(0.0) the(0.0) International(0.0) Covenant(0.0) on(0.0) Civil(0.0) and(0.0) Political(0.0) Rights(0.0) and(0.0) the(0.0) International(0.0) Covenant(0.0) on(0.0) 
+Economic(0.0) ,(0.0) Social(0.0) and(0.0) Cultural(0.0) Rights(0.0) ,(0.0) the(0.0) latter(0.0) ,(0.0) which(0.0) was(0.0) ratified(0.0) last(0.0) February(0.0) ,(0.0) makes(0.0) it(0.0) very(0.0) clear(0.0) 
+that(0.0) holding(0.0) academics(1.0) and(0.0) scholars(0.0) are(0.0) precluded(1.0) by(0.0) international(0.0) law(1.0) .(0.0) Movever(0.0) ,(0.0) China(0.0) 's(0.0) intolerance(1.0) to(0.0) free(0.0) expression(0.0) will(0.0) 
+likely(0.0) deter(0.0) other(0.0) academics(0.0) from(0.0) pursuing(1.0) research(0.0) in(0.0) the(0.0) People(0.0) 's(0.0) Republic(1.0) of(0.0) China(0.0) .(0.0) The(0.0) respected(0.0) human(0.0) rights(1.0) leader(0.0) 
+bottom-lines(1.0) it(0.0) and(0.0) says(0.0) ,(0.0) ``(0.0) The(0.0) detentions(1.0) raise(0.0) serious(0.0) questions(0.0) about(0.0) the(0.0) rule(1.0) of(0.0) law(1.0) in(0.0) China(1.0) and(0.0) whether(0.0) 
+it(0.0) exists(0.0) .(0.0) ''(0.0) Indeed(0.0) ,(0.0) Madam(0.0) Speaker(1.0) ,(0.0) at(0.0) least(0.0) six(0.0) Chinese(0.0) American(0.0) scholars(0.0) and(0.0) intellectuals(1.0) are(0.0) today(0.0) being(0.0) 
+unjustly(1.0) detained(0.0) .(0.0) They(0.0) are(0.0) being(0.0) held(0.0) hostage(0.0) by(0.0) the(0.0) PRC(0.0) ,(0.0) an(0.0) outrage(1.0) that(0.0) demands(0.0) immediate(0.0) relief(1.0) .(0.0) H.(0.0) 
+Res(1.0) .(0.0) 160(0.0) ,(0.0) which(0.0) I(0.0) introduced(0.0) on(0.0) June(0.0) 8(0.0) and(0.0) now(0.0) has(0.0) approximately(0.0) 40(0.0) cosponsors(1.0) ,(0.0) calls(0.0) for(0.0) the(0.0) 
+immediate(0.0) and(0.0) unconditional(1.0) release(0.0) of(0.0) these(0.0) scholars(0.0) and(0.0) academics(0.0) .(0.0) These(0.0) include(0.0) :(0.0) Dr.(0.0) Li(1.0) Shaomin(1.0) ,(0.0) who(0.0) is(0.0) a(0.0) 
+United(0.0) States(0.0) citizen(1.0) and(0.0) scholar(0.0) who(0.0) has(0.0) been(0.0) detained(0.0) by(0.0) the(0.0) PRC(0.0) for(0.0) 120(0.0) days(0.0) and(0.0) counting(0.0) .(0.0) He(0.0) has(0.0) 
+been(0.0) deprived(0.0) of(0.0) his(0.0) basic(0.0) human(0.0) rights(0.0) by(0.0) arbitrary(0.0) arrest(0.0) ,(0.0) detention(0.0) and(0.0) indictment(0.0) ,(0.0) and(0.0) has(0.0) not(0.0) been(0.0) allowed(0.0) 
+to(0.0) contact(0.0) his(0.0) wife(0.0) and(0.0) child(0.0) ,(0.0) both(0.0) of(0.0) whom(0.0) are(0.0) American(0.0) citizens(1.0) as(0.0) well(0.0) ,(0.0) nor(0.0) has(0.0) he(0.0) been(0.0) 
+in(0.0) contact(0.0) with(0.0) his(0.0) lawyer(0.0) .(0.0) Dr.(0.0) Gao(1.0) Zhan(1.0) is(0.0) a(0.0) permanent(0.0) resident(0.0) of(0.0) the(0.0) United(0.0) States(0.0) and(0.0) is(0.0) a(0.0) 
+member(0.0) of(0.0) the(0.0) faculty(0.0) of(0.0) American(0.0) University(0.0) .(0.0) She(0.0) has(0.0) been(0.0) detained(0.0) by(0.0) the(0.0) People(0.0) 's(0.0) Republic(0.0) of(0.0) China(0.0) for(0.0) 
+134(0.0) days(0.0) and(0.0) counting(0.0) .(0.0) Mr.(0.0) Wu(1.0) Jianmin(1.0) is(0.0) an(0.0) American(0.0) citizen(0.0) and(0.0) author(0.0) who(0.0) has(0.0) been(0.0) detained(0.0) by(0.0) China(0.0) 
+and(0.0) deprived(0.0) of(0.0) his(0.0) basic(0.0) human(0.0) rights(0.0) by(0.0) arbitrary(0.0) arrest(0.0) and(0.0) detention(0.0) .(0.0) Qin(0.0) Guangguang(0.0) is(0.0) a(0.0) permanent(0.0) resident(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	
+Shaomin	
+Gao	Zhan	
+
+
+
+China	
+
+
+
+
+academics	precluded	law	intolerance	
+pursuing	Republic	rights	
+bottom-lines	detentions	rule	law	China	
+Speaker	intellectuals	
+unjustly	outrage	relief	
+Res	cosponsors	
+unconditional	Li	Shaomin	
+citizen	
+
+citizens	
+Gao	Zhan	
+
+Wu	Jianmin	
+
+
+reads % = 0.066

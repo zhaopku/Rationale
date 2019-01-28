@@ -1,0 +1,50 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) we(0.0) have(0.0) a(0.0) world(0.0) crisis(1.0) and(0.0) an(0.0) acute(0.0) national(1.0) emergency(1.0) .(0.0) I(0.0) support(0.0) this(0.0) $(0.0) 12.9(0.0) billion(1.0) spending(1.0) package(0.0) 
+.(0.0) I(0.0) have(0.0) opposed(0.0) past(0.0) defense(1.0) spending(1.0) bills(1.0) because(0.0) we(0.0) have(0.0) failed(1.0) ,(0.0) in(0.0) my(0.0) judgment(0.0) ,(0.0) to(0.0) take(0.0) four(0.0) 
+difficult(0.0) but(0.0) necessary(0.0) steps(0.0) to(0.0) realize(0.0) savings(1.0) and(0.0) modernize(1.0) our(0.0) military(1.0) .(0.0) We(0.0) failed(0.0) to(0.0) :(0.0) cancel(0.0) procurement(1.0) of(0.0) expensive(0.0) 
+,(0.0) unnecessary(1.0) weapon(1.0) systems(1.0) ;(0.0) close(0.0) unnecessary(1.0) military(0.0) bases(0.0) and(0.0) depots(0.0) at(0.0) home(0.0) and(0.0) abroad(0.0) ;(0.0) and(0.0) require(0.0) our(0.0) allies(1.0) 
+,(0.0) particularly(0.0) Europeans(1.0) ,(0.0) to(0.0) pay(1.0) their(0.0) fair(0.0) share(0.0) of(0.0) stationing(1.0) U.S.(0.0) troops(0.0) in(0.0) their(0.0) countries(0.0) .(0.0) And(0.0) we(0.0) are(0.0) 
+still(0.0) funding(1.0) a(0.0) military(0.0) designed(0.0) to(0.0) fight(1.0) the(0.0) Cold(1.0) War(0.0) ,(0.0) but(0.0) the(0.0) Cold(1.0) War(0.0) has(0.0) ended(0.0) .(0.0) The(0.0) world(0.0) 
+today(0.0) is(0.0) different(0.0) ,(0.0) and(0.0) it(0.0) is(0.0) a(0.0) more(0.0) dangerous(0.0) place(0.0) .(0.0) The(0.0) war(1.0) in(0.0) Kosovo(1.0) costs(1.0) money(1.0) ,(0.0) and(0.0) 
+lots(0.0) of(0.0) money(1.0) .(0.0) As(0.0) a(0.0) fiscal(0.0) conservative(0.0) during(0.0) my(0.0) 11(0.0) years(0.0) in(0.0) Congress(0.0) with(0.0) consistently(0.0) high(0.0) marks(0.0) from(0.0) the(0.0) 
+National(0.0) Taxpayers(1.0) Union(1.0) ,(0.0) Citizens(1.0) Against(1.0) Government(1.0) Waste(1.0) ,(0.0) and(0.0) other(0.0) fiscal(1.0) watch(0.0) dog(0.0) organizations(1.0) ,(0.0) I(0.0) am(0.0) on(0.0) the(0.0) 
+floor(0.0) to(0.0) say(0.0) we(0.0) need(0.0) to(0.0) appropriate(0.0) this(0.0) money(1.0) .(0.0) The(0.0) fact(0.0) is(0.0) that(0.0) we(0.0) have(0.0) already(0.0) spent(0.0) it(0.0) .(0.0) 
+Over(0.0) the(0.0) past(0.0) 40(0.0) years(0.0) ,(0.0) the(0.0) United(0.0) States(0.0) has(0.0) deployed(0.0) troops(0.0) around(0.0) the(0.0) world(0.0) 41(0.0) times(0.0) ,(0.0) but(0.0) 33(0.0) 
+of(0.0) these(0.0) 41(0.0) missions(0.0) have(0.0) come(0.0) in(0.0) just(0.0) the(0.0) past(0.0) 8(0.0) years(0.0) .(0.0) We(0.0) need(0.0) to(0.0) realize(0.0) the(0.0) tremendous(0.0) costs(1.0) 
+we(0.0) accrue(0.0) when(0.0) we(0.0) deploy(0.0) our(0.0) military(1.0) to(0.0) troubled(1.0) spots(0.0) all(0.0) over(0.0) the(0.0) world(0.0) .(0.0) These(0.0) missions(0.0) cost(0.0) money(1.0) and(0.0) 
+resources(0.0) which(0.0) we(0.0) have(0.0) taken(0.0) from(0.0) other(0.0) parts(0.0) of(0.0) the(0.0) defense(1.0) budget(1.0) .(0.0) Today(0.0) ,(0.0) our(0.0) military(1.0) has(0.0) a(0.0) number(0.0) 
+of(0.0) acute(0.0) needs(0.0) that(0.0) must(0.0) be(0.0) addressed(0.0) .(0.0) We(0.0) need(0.0) to(0.0) do(0.0) a(0.0) better(0.0) job(0.0) attracting(0.0) new(0.0) enlistees(1.0) and(0.0) maintaining(0.0) 
+the(0.0) necessary(0.0) level(0.0) of(0.0) reenlistment(1.0) .(0.0) Our(0.0) soldiers(1.0) ,(0.0) sailors(0.0) ,(0.0) pilots(0.0) and(0.0) Marines(0.0) are(0.0) overworked(0.0) and(0.0) underpaid(1.0) .(0.0) Our(0.0) 
+training(0.0) has(0.0) suffered(0.0) .(0.0) We(0.0) do(0.0) not(0.0) have(0.0) the(0.0) necessary(0.0) munitions(1.0) for(0.0) potential(0.0) new(0.0) encounters(0.0) .(0.0) And(0.0) we(0.0) are(0.0) cannibalizing(1.0) 
+existing(0.0) planes(1.0) ,(0.0) tanks(0.0) ,(0.0) and(0.0) other(0.0) equipment(0.0) for(0.0) their(0.0) parts(0.0) in(0.0) order(0.0) to(0.0) make(0.0) other(0.0) equipment(0.0) operational(0.0) .(0.0) Mr.(0.0) 
+Chairman(1.0) ,(0.0) many(0.0) of(0.0) us(0.0) have(0.0) not(0.0) supported(0.0) the(0.0) President(1.0) 's(0.0) decision(0.0) to(0.0) use(0.0) military(0.0) force(0.0) in(0.0) Yugoslavia(1.0) and(0.0) did(0.0) 
+not(0.0) vote(0.0) for(0.0) last(0.0) week's(0.0) resolution(1.0) endorsing(1.0) air(0.0) strikes(1.0) .(0.0) But(0.0) the(0.0) fact(0.0) is(0.0) ,(0.0) there(0.0) is(0.0) a(0.0) war(1.0) in(0.0) 
+Kosovo(1.0) and(0.0) we(0.0) need(0.0) to(0.0) pay(1.0) for(0.0) it(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+crisis	national	emergency	billion	spending	
+defense	spending	bills	failed	
+savings	modernize	military	procurement	
+unnecessary	weapon	systems	unnecessary	allies	
+Europeans	pay	stationing	
+funding	fight	Cold	Cold	
+war	Kosovo	costs	money	
+money	
+Taxpayers	Union	Citizens	Against	Government	Waste	fiscal	organizations	
+money	
+
+costs	
+military	troubled	money	
+defense	budget	military	
+enlistees	
+reenlistment	soldiers	underpaid	
+munitions	cannibalizing	
+planes	
+Chairman	President	Yugoslavia	
+resolution	endorsing	strikes	war	
+Kosovo	pay	
+
+reads % = 0.15121951219512195

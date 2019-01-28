@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) stand(0.0) here(0.0) tonight(0.0) as(0.0) a(0.0) daughter(0.0) ,(0.0) a(0.0) wife(0.0) ,(0.0) and(0.0) a(0.0) mother(0.0) of(0.0) veterans(1.0) ;(0.0) and(0.0) I(0.0) 
+am(0.0) an(0.0) ardent(0.0) supporter(1.0) of(0.0) our(0.0) Nation's(0.0) military(0.0) .(0.0) These(0.0) brave(0.0) men(0.0) and(0.0) women(0.0) can(0.0) never(0.0) be(0.0) thanked(0.0) enough(0.0) for(0.0) 
+their(0.0) service(0.0) to(0.0) our(0.0) country(1.0) ,(0.0) and(0.0) this(0.0) Congress(1.0) must(0.0) do(0.0) everything(0.0) that(0.0) we(0.0) can(0.0) to(0.0) stand(0.0) up(0.0) for(0.0) those(0.0) 
+who(0.0) defend(0.0) America(0.0) .(0.0) That(0.0) is(0.0) why(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) protect(0.0) the(0.0) military(0.0) paychecks(1.0) and(0.0) to(0.0) ensure(0.0) that(0.0) 
+if(0.0) the(0.0) government(1.0) shutdown(1.0) were(0.0) to(0.0) occur(0.0) ,(0.0) that(0.0) the(0.0) members(0.0) of(0.0) our(0.0) Armed(0.0) Forces(0.0) and(0.0) their(0.0) families(0.0) will(0.0) receive(0.0) 
+their(0.0) salaries(0.0) on(0.0) time(0.0) .(0.0) This(0.0) is(0.0) not(0.0) an(0.0) issue(0.0) that(0.0) we(0.0) can(0.0) play(0.0) politics(1.0) with(0.0) ,(0.0) and(0.0) my(0.0) colleagues(0.0) 
+on(0.0) the(0.0) other(0.0) side(0.0) of(0.0) the(0.0) aisle(0.0) who(0.0) seek(0.0) to(0.0) use(0.0) these(0.0) paychecks(1.0) of(0.0) our(0.0) military(1.0) as(0.0) part(0.0) of(0.0) their(0.0) 
+plan(1.0) to(0.0) force(0.0) a(0.0) government(1.0) shutdown(1.0) should(0.0) absolutely(0.0) be(0.0) ashamed(0.0) of(0.0) themselves(0.0) .(0.0) Military(0.0) families(0.0) have(0.0) already(0.0) sacrificed(0.0) so(0.0) much(0.0) 
+for(0.0) this(0.0) country(1.0) .(0.0) Back(0.0) in(0.0) Tennessee(1.0) ,(0.0) there(0.0) are(0.0) families(0.0) who(0.0) are(0.0) worried(0.0) right(0.0) now(0.0) about(0.0) whether(0.0) their(0.0) loved(0.0) 
+ones(0.0) are(0.0) safe(0.0) overseas(0.0) in(0.0) Iraq(1.0) and(0.0) Afghanistan(1.0) and(0.0) other(0.0) places(0.0) even(0.0) around(0.0) the(0.0) country(1.0) ,(0.0) and(0.0) they(0.0) are(0.0) praying(0.0) 
+for(0.0) their(0.0) safe(0.0) return(0.0) home(0.0) .(0.0) Those(0.0) military(1.0) families(0.0) should(0.0) not(0.0) ,(0.0) under(0.0) any(0.0) circumstances(0.0) ,(0.0) have(0.0) to(0.0) worry(0.0) about(0.0) 
+when(0.0) and(0.0) where(0.0) the(0.0) next(0.0) paycheck(1.0) is(0.0) coming(0.0) from(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+veterans	
+supporter	
+country	Congress	
+paychecks	
+government	shutdown	
+politics	
+paychecks	military	
+plan	government	shutdown	
+country	Tennessee	
+Iraq	Afghanistan	country	
+military	
+paycheck	
+
+reads % = 0.08658008658008658

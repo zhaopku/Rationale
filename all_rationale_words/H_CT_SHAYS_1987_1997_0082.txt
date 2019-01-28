@@ -1,0 +1,42 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) rise(0.0) in(0.0) opposition(1.0) to(0.0) the(0.0) amendment(1.0) offered(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) [(0.0) Mr.(0.0) Doolittle(1.0) ](0.0) to(1.0) 
+the(1.0) budget(1.0) agreement(1.0) for(1.0) a(1.0) variety(0.0) of(0.0) reasons(1.0) .(0.0) I(0.0) do(0.0) so(0.0) with(0.0) the(0.0) knowledge(0.0) that(0.0) this(0.0) represents(0.0) the(0.0) position(0.0) 
+of(0.0) many(0.0) on(0.0) my(0.0) side(0.0) of(0.0) the(0.0) aisle(0.0) if(0.0) we(0.0) did(0.0) not(0.0) have(0.0) a(0.0) Democrat(0.0) President(0.0) .(0.0) But(0.0) this(0.0) last(0.0) 
+election(1.0) we(0.0) elected(0.0) a(0.0) Democrat(0.0) President(0.0) and(0.0) a(0.0) Republican(0.0) Congress(1.0) ,(1.0) and(1.0) this(0.0) amendment(1.0) ,(0.0) if(0.0) it(0.0) were(0.0) to(0.0) pass(0.0) 
+,(0.0) would(0.0) in(0.0) fact(0.0) kill(0.0) the(0.0) budget(1.0) agreement(0.0) made(0.0) between(0.0) Republicans(1.0) and(1.0) Democrats(1.0) in(1.0) the(0.0) House(0.0) and(0.0) Senate(0.0) with(0.0) the(0.0) 
+President(0.0) of(0.0) the(0.0) United(0.0) States(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) vote(1.0) against(0.0) this(0.0) amendment(1.0) in(0.0) spite(1.0) 
+of(0.0) the(0.0) fact(0.0) that(0.0) they(0.0) believe(0.0) it(0.0) is(0.0) somewhat(0.0) seductive(0.0) and(0.0) point(0.0) out(0.0) that(0.0) in(0.0) this(0.0) budget(1.0) agreement(0.0) we(0.0) have(0.0) 
+with(0.0) the(0.0) White(1.0) House(0.0) Republicans(0.0) took(1.0) a(0.0) very(0.0) strong(0.0) position(0.0) that(0.0) we(0.0) should(0.0) control(0.0) the(0.0) growth(1.0) in(0.0) entitlements(1.0) and(0.0) get(0.0) 
+our(0.0) country(1.0) 's(0.0) financial(0.0) house(0.0) in(0.0) order(0.0) .(0.0) This(0.0) budget(1.0) agreement(1.0) controls(0.0) the(0.0) growth(1.0) of(0.0) entitlements(1.0) .(0.0) We(0.0) also(0.0) said(0.0) 
+that(0.0) we(0.0) wanted(0.0) tax(1.0) cuts(1.0) .(1.0) This(1.0) budget(1.0) agreement(1.0) provides(1.0) for(0.0) $(0.0) 135(0.0) billion(1.0) of(0.0) tax(1.0) cuts(1.0) .(1.0) That(1.0) is(1.0) 
+what(1.0) Republicans(0.0) got(1.0) out(1.0) of(0.0) this(0.0) budget(1.0) agreement(1.0) .(0.0) What(0.0) the(0.0) President(1.0) wanted(0.0) was(0.0) more(0.0) domestic(1.0) spending(1.0) ,(0.0) and(0.0) that(0.0) 
+is(0.0) ,(0.0) in(0.0) fact(0.0) ,(0.0) what(0.0) he(0.0) received(0.0) in(0.0) this(0.0) budget(1.0) negotiation(1.0) .(0.0) While(0.0) many(0.0) on(0.0) our(0.0) side(0.0) of(0.0) the(0.0) 
+aisle(0.0) would(0.0) like(0.0) to(0.0) reduce(1.0) domestic(1.0) spending(1.0) and(0.0) do(0.0) not(0.0) agree(0.0) with(0.0) the(0.0) President(1.0) of(0.0) the(0.0) United(0.0) States(0.0) ,(0.0) the(0.0) 
+fact(0.0) is(0.0) this(0.0) is(0.0) an(0.0) agreement(0.0) we(0.0) have(0.0) in(0.0) order(0.0) to(0.0) have(0.0) a(0.0) tax(1.0) cut(1.0) of(1.0) $(0.0) 135(0.0) billion(1.0) in(1.0) 
+order(1.0) to(1.0) control(1.0) the(0.0) growth(1.0) of(0.0) entitlements(1.0) .(0.0) So(0.0) ,(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) rise(0.0) with(0.0) some(0.0) reluctance(0.0) but(0.0) with(0.0) 
+conviction(1.0) that(0.0) this(0.0) amendment(1.0) needs(0.0) to(0.0) be(0.0) defeated(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+Chairman	opposition	amendment	Doolittle	to	
+the	budget	agreement	for	a	reasons	
+
+election	Congress	,	and	amendment	
+budget	Republicans	and	Democrats	in	
+Chairman	vote	amendment	spite	
+budget	
+White	took	growth	entitlements	
+country	budget	agreement	growth	entitlements	
+tax	cuts	.	This	budget	agreement	provides	billion	tax	cuts	.	That	is	
+what	got	out	budget	agreement	President	domestic	spending	
+budget	negotiation	
+reduce	domestic	spending	President	
+tax	cut	of	billion	in	
+order	to	control	growth	entitlements	Chairman	
+conviction	amendment	defeated	Chairman	
+
+
+reads % = 0.2398753894080997

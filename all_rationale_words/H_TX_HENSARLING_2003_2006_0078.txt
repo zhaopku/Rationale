@@ -1,0 +1,38 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) ,(0.0) and(0.0) I(0.0) wish(1.0) to(0.0) add(0.0) my(0.0) own(0.0) meager(1.0) voice(1.0) to(0.0) those(0.0) who(0.0) celebrate(0.0) the(0.0) 
+career(0.0) of(0.0) Ernest(0.0) Istook(1.0) ,(0.0) truly(0.0) one(0.0) of(0.0) the(0.0) great(0.0) leaders(1.0) in(0.0) the(0.0) conservative(0.0) movement(0.0) in(0.0) the(0.0) last(1.0) decade(0.0) .(0.0) 
+Certainly(1.0) his(0.0) vision(0.0) ,(0.0) his(0.0) forethought(1.0) ,(0.0) his(0.0) courage(0.0) to(0.0) help(0.0) found(0.0) the(0.0) modern(0.0) Republican(1.0) Study(1.0) Committee(1.0) has(0.0) been(0.0) critical(1.0) 
+to(0.0) any(1.0) progress(1.0) that(0.0) the(0.0) conservative(0.0) movement(0.0) has(0.0) achieved(0.0) in(0.0) this(0.0) House(0.0) .(0.0) And(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) it(0.0) has(0.0) 
+been(0.0) much(0.0) .(0.0) It(0.0) has(0.0) been(0.0) much(0.0) .(0.0) So(1.0) as(0.0) a(0.0) Texan(0.0) ,(0.0) I(0.0) will(0.0) certainly(1.0) miss(1.0) my(0.0) colleague(1.0) from(0.0) 
+north(1.0) of(0.0) the(0.0) Red(1.0) River(0.0) .(0.0) Again(1.0) ,(0.0) as(0.0) the(0.0) incoming(1.0) chairman(1.0) of(0.0) the(0.0) Republican(1.0) Study(1.0) Committee(0.0) ,(0.0) I(0.0) will(0.0) 
+certainly(0.0) miss(1.0) the(0.0) wisdom(0.0) and(0.0) leadership(1.0) that(0.0) he(0.0) has(0.0) to(0.0) provide(0.0) .(0.0) But(0.0) I(0.0) know(1.0) that(0.0) he(0.0) hopefully(1.0) will(0.0) not(1.0) 
+go(0.0) far(0.0) and(0.0) be(0.0) available(1.0) to(0.0) us(0.0) at(0.0) all(0.0) times(0.0) .(0.0) I(0.0) want(1.0) to(0.0) say(1.0) again(0.0) how(1.0) proud(0.0) I(0.0) am(0.0) 
+to(0.0) know(0.0) this(0.0) man(1.0) and(0.0) celebrate(0.0) his(0.0) work(0.0) to(0.0) try(0.0) to(0.0) balance(0.0) the(0.0) Federal(1.0) budget(0.0) as(0.0) families(0.0) have(0.0) to(0.0) balance(0.0) 
+their(0.0) budget(0.0) every(0.0) single(1.0) day(0.0) .(0.0) And(0.0) even(0.0) more(0.0) importantly(1.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) for(0.0) the(0.0) work(0.0) that(0.0) he(0.0) has(0.0) 
+done(0.0) to(0.0) ensure(0.0) that(0.0) in(0.0) this(0.0) Nation(0.0) that(0.0) it(0.0) is(0.0) truly(0.0) one(0.0) Nation(0.0) under(0.0) God(0.0) because(0.0) we(0.0) know(0.0) that(0.0) our(0.0) 
+unalienable(1.0) rights(0.0) are(0.0) granted(0.0) to(0.0) us(0.0) by(0.0) our(0.0) creator(1.0) ,(0.0) and(0.0) that(0.0) unless(0.0) we(0.0) champion(1.0) the(0.0) cause(1.0) of(0.0) public(0.0) affirmation(1.0) 
+of(0.0) faith(0.0) ,(0.0) we(0.0) can(0.0) not(0.0) preserve(0.0) liberty(1.0) unless(0.0) we(0.0) know(0.0) and(0.0) allow(0.0) people(0.0) to(0.0) affirm(0.0) their(0.0) faith(0.0) in(0.0) public(0.0) 
+that(0.0) these(1.0) rights(1.0) are(0.0) given(0.0) by(0.0) God(0.0) himself(0.0) ,(0.0) and(0.0) that(0.0) is(0.0) the(0.0) work(0.0) of(0.0) Ernest(0.0) Istook(1.0) ,(0.0) and(0.0) I(0.0) 
+am(0.0) proud(1.0) to(0.0) know(0.0) him(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+wish	meager	voice	
+Istook	leaders	last	
+Certainly	forethought	Republican	Study	Committee	critical	
+any	progress	Speaker	
+So	certainly	miss	colleague	
+north	Red	Again	incoming	chairman	Republican	Study	
+miss	leadership	know	hopefully	not	
+available	want	say	how	
+man	Federal	
+single	importantly	Speaker	
+
+unalienable	creator	champion	cause	affirmation	
+liberty	
+these	rights	Istook	
+proud	
+
+reads % = 0.17421602787456447

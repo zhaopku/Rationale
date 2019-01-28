@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) the(0.0) conference(0.0) report(0.0) includes(0.0) a(0.0) provision(0.0) that(0.0) corrects(0.0) an(0.0) unintentional(0.0) consequence(0.0) in(0.0) the(0.0) 1996(0.0) welfare(1.0) law(1.0) reform(1.0) .(0.0) 
+That(0.0) provision(1.0) would(0.0) have(0.0) allowed(0.0) some(0.0) States(0.0) to(0.0) be(0.0) paid(0.0) twice(0.0) for(0.0) the(0.0) same(0.0) administrative(0.0) costs(0.0) for(0.0) determining(0.0) eligibility(0.0) for(0.0) 
+food(1.0) stamps(0.0) .(0.0) That(0.0) is(0.0) corrected(0.0) in(0.0) the(0.0) conference(0.0) report(0.0) .(0.0) What(0.0) we(0.0) are(0.0) presented(0.0) with(0.0) is(0.0) a(0.0) situation(0.0) in(0.0) 
+which(0.0) it(0.0) is(0.0) an(0.0) obvious(0.0) windfall(1.0) extra(0.0) payment(0.0) to(0.0) some(0.0) States(0.0) that(0.0) must(0.0) be(0.0) corrected(0.0) .(0.0) If(0.0) I(0.0) were(0.0) one(0.0) 
+of(0.0) those(0.0) States(0.0) or(0.0) representing(0.0) one(0.0) of(0.0) those(0.0) States(0.0) ,(0.0) I(0.0) would(0.0) probably(0.0) like(0.0) to(0.0) be(0.0) a(0.0) part(0.0) of(0.0) the(0.0) 
+recipient(0.0) of(0.0) $(0.0) 2.5(0.0) billion(1.0) of(0.0) Federal(1.0) money(1.0) that(0.0) is(0.0) not(0.0) due(0.0) to(0.0) those(0.0) States(0.0) .(0.0) If(0.0) in(0.0) fact(0.0) that(0.0) 
+is(0.0) the(0.0) desire(0.0) of(0.0) Members(0.0) ,(0.0) to(0.0) give(0.0) them(0.0) $(0.0) 2.5(0.0) billion(1.0) more(0.0) than(0.0) is(0.0) necessary(0.0) ,(0.0) then(0.0) vote(1.0) with(0.0) 
+the(0.0) gentleman(0.0) from(0.0) New(0.0) York(1.0) ((0.0) Mr.(0.0) Solomon(1.0) )(0.0) .(0.0) If(0.0) it(0.0) is(0.0) not(0.0) and(0.0) you(0.0) have(0.0) a(0.0) desire(0.0) to(0.0) 
+see(0.0) the(0.0) bill(1.0) continue(1.0) to(0.0) move(0.0) forward(0.0) ,(0.0) vote(1.0) on(0.0) the(0.0) position(0.0) of(0.0) the(0.0) gentleman(0.0) from(0.0) Oregon(1.0) ((0.0) Mr.(0.0) Smith(1.0) 
+)(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	welfare	law	reform	
+provision	
+food	
+windfall	
+
+billion	Federal	money	
+billion	vote	
+York	Solomon	
+bill	continue	vote	Oregon	Smith	
+
+
+reads % = 0.10382513661202186

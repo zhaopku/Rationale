@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) think(0.0) the(0.0) gentleman(0.0) is(0.0) very(0.0) accurate(0.0) ,(0.0) and(0.0) it(0.0) 's(0.0) multiple(0.0) ,(0.0) multiple(0.0) piping(0.0) with(0.0) cement(0.0) in(0.0) between(0.0) each(0.0) one(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+
+reads % = 0.0

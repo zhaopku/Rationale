@@ -1,0 +1,40 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(1.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) I(0.0) agree(1.0) with(0.0) the(0.0) gentleman(0.0) when(0.0) he(0.0) says(1.0) that(0.0) 
+this(0.0) will(0.0) not(1.0) prevent(0.0) anyone(0.0) from(0.0) obtaining(1.0) services(0.0) ,(0.0) and(0.0) it(0.0) is(0.0) not(0.0) my(0.0) intent(1.0) to(0.0) prevent(0.0) anyone(0.0) from(0.0) obtaining(1.0) 
+services(0.0) .(0.0) That(0.0) is(0.0) really(0.0) not(1.0) the(0.0) purpose(0.0) of(0.0) this(0.0) .(0.0) Hospitals(1.0) ,(0.0) yes(1.0) ,(0.0) they(0.0) will(0.0) provide(0.0) the(0.0) services(0.0) 
+.(0.0) They(0.0) must(0.0) under(0.0) EMTALA(1.0) .(0.0) It(0.0) is(0.0) absolutely(1.0) accurate(0.0) to(0.0) say(1.0) that(0.0) the(0.0) burden(0.0) falls(1.0) somewhere(0.0) ,(0.0) taxpayers(1.0) ,(0.0) 
+somewhere(1.0) along(0.0) the(0.0) line(0.0) ,(0.0) he(0.0) is(0.0) right(1.0) .(0.0) To(0.0) me(0.0) it(0.0) is(0.0) just(1.0) peculiar(1.0) ,(0.0) to(0.0) say(1.0) the(0.0) least(1.0) 
+,(0.0) that(0.0) we(0.0) actually(1.0) take(0.0) part(0.0) of(0.0) the(0.0) law(1.0) and(0.0) identify(0.0) a(0.0) program(0.0) for(0.0) $(0.0) 1(0.0) billion(1.0) for(0.0) services(0.0) for(0.0) 
+people(0.0) who(0.0) have(0.0) broken(1.0) the(0.0) law(1.0) .(0.0) That(0.0) is(0.0) the(0.0) peculiar(1.0) aspect(1.0) of(0.0) this(0.0) .(0.0) If(1.0) we(0.0) had(0.0) to(0.0) add(0.0) 
+$(0.0) 1(1.0) billion(1.0) to(0.0) the(0.0) $(0.0) 34.6(1.0) billion(1.0) that(0.0) we(0.0) give(0.0) hospitals(0.0) in(0.0) order(0.0) to(0.0) care(0.0) for(0.0) the(0.0) poor(0.0) ,(0.0) 
+if(0.0) that(0.0) is(0.0) the(0.0) place(0.0) to(0.0) do(0.0) it(0.0) ,(0.0) that(0.0) is(0.0) the(0.0) place(0.0) to(0.0) do(0.0) it(0.0) .(0.0) It(0.0) is(0.0) this(0.0) 
+odd(1.0) identifying(0.0) in(0.0) law(1.0) a(0.0) provision(0.0) for(0.0) services(0.0) for(0.0) people(0.0) who(0.0) have(0.0) broken(1.0) the(0.0) law(1.0) ,(0.0) other(0.0) than(0.0) incarceration(1.0) services(0.0) 
+.(0.0) It(0.0) is(0.0) also(1.0) odd(1.0) ,(0.0) I(0.0) would(1.0) say(1.0) ,(0.0) that(0.0) there(0.0) are(0.0) really(0.0) only(0.0) two(0.0) groups(0.0) of(0.0) people(0.0) in(0.0) 
+this(0.0) country(1.0) that(0.0) can(1.0) obtain(0.0) free(1.0) medical(1.0) health(1.0) care(0.0) ,(0.0) health(1.0) services(0.0) ,(0.0) at(0.0) any(1.0) time(0.0) they(0.0) want(1.0) ,(0.0) and(0.0) 
+that(0.0) is(0.0) people(0.0) who(0.0) are(0.0) incarcerated(1.0) and(0.0) people(0.0) who(0.0) are(0.0) here(0.0) illegally(1.0) .(0.0) What(0.0) a(0.0) strange(0.0) situation(0.0) .(0.0) I(0.0) just(1.0) 
+believe(0.0) that(0.0) the(0.0) $(0.0) 1(1.0) billion(1.0) should(0.0) be(0.0) reallocated(1.0) .(0.0) There(0.0) are(0.0) better(0.0) uses(1.0) ,(0.0) or(1.0) at(0.0) least(1.0) better(0.0) placement(0.0) 
+of(0.0) it(0.0) ,(0.0) than(0.0) in(0.0) this(0.0) bill(0.0) .(0.0) That(0.0) is(0.0) my(0.0) only(0.0) purpose(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) reserve(1.0) the(0.0) 
+balance(0.0) of(0.0) my(0.0) time(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+agree	says	
+not	obtaining	intent	obtaining	
+not	Hospitals	yes	
+EMTALA	absolutely	say	falls	taxpayers	
+somewhere	right	just	peculiar	say	least	
+actually	law	billion	
+broken	law	peculiar	aspect	If	
+1	billion	34.6	billion	
+
+odd	law	broken	law	incarceration	
+also	odd	would	say	
+country	can	free	medical	health	health	any	want	
+incarcerated	illegally	just	
+1	billion	reallocated	uses	or	least	
+Chairman	reserve	
+time	
+
+reads % = 0.19934640522875818

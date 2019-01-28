@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Starting(0.0) in(0.0) 2006(1.0) ,(0.0) the(0.0) average(0.0) sales(0.0) price(0.0) system(0.0) included(0.0) drugs(1.0) used(0.0) to(0.0) treat(0.0) anemia(1.0) and(0.0) end-stage(1.0) renal(0.0) disease(0.0) patients(0.0) as(0.0) 
+well(0.0) as(0.0) other(0.0) end-stage(1.0) renal(0.0) disease(0.0) drugs(0.0) .(0.0) Additionally(0.0) ,(0.0) there(0.0) are(0.0) provisions(1.0) in(0.0) the(0.0) bill(1.0) that(0.0) propose(1.0) to(0.0) institute(1.0) 
+a(0.0) statutory(1.0) price(0.0) control(0.0) rate(0.0) .(0.0) It(0.0) would(0.0) be(0.0) a(0.0) mistake(0.0) to(0.0) change(0.0) a(0.0) system(0.0) that(0.0) has(0.0) reduced(0.0) prices(1.0) for(0.0) 
+this(0.0) medicine(1.0) by(0.0) 6.8(0.0) percent(0.0) since(0.0) the(0.0) average(0.0) sales(0.0) price-based(1.0) reimbursement(1.0) system(0.0) was(0.0) implemented(0.0) in(0.0) January(0.0) of(0.0) 2006(0.0) ;(0.0) 9(0.0) 
+percent(0.0) compared(0.0) to(0.0) what(0.0) Medicare(1.0) paid(0.0) for(0.0) the(0.0) drug(1.0) back(0.0) in(0.0) 1994(1.0) under(0.0) a(0.0) statutory(1.0) price(0.0) control(0.0) rate(0.0) .(0.0) This(0.0) 
+market-based(1.0) system(0.0) is(0.0) working(0.0) to(0.0) drive(0.0) down(0.0) prices(1.0) for(0.0) Medicare(1.0) in(0.0) Congress(0.0) ,(0.0) and(0.0) Congress(0.0) should(0.0) n't(0.0) try(0.0) to(0.0) fix(0.0) 
+something(0.0) that(0.0) 's(0.0) not(0.0) broken(0.0) .(0.0) Most(0.0) importantly(0.0) ,(0.0) I(0.0) also(0.0) question(0.0) how(0.0) a(0.0) cut(0.0) in(0.0) payment(0.0) would(0.0) affect(0.0) patient(0.0) 
+care(0.0) .(0.0) A(0.0) payment(0.0) cut(0.0) may(0.0) create(0.0) financial(1.0) incentives(1.0) to(0.0) reduce(0.0) or(0.0) ration(1.0) clinically(0.0) beneficial(0.0) drugs(1.0) .(0.0) Dialysis(0.0) providers(0.0) may(0.0) 
+reduce(0.0) their(0.0) costs(1.0) by(0.0) providing(0.0) fewer(0.0) services(0.0) and(0.0) drugs(1.0) ,(0.0) transferring(0.0) patients(0.0) to(0.0) another(0.0) setting(0.0) of(0.0) care(1.0) ,(0.0) or(0.0) discharging(0.0) 
+patients(0.0) more(0.0) quickly(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) in(0.0) 1997(1.0) a(0.0) Republican-led(1.0) Congress(0.0) passed(0.0) the(0.0) State(0.0) Children(0.0) 's(0.0) Heath(0.0) Insurance(0.0) Program(0.0) 
+((0.0) SCHIP(1.0) )(0.0) --(0.0) a(0.0) progam(0.0) that(0.0) combines(0.0) the(0.0) best(0.0) of(0.0) public(0.0) and(0.0) private(0.0) approaches(0.0) to(0.0) delivering(0.0) vital(0.0) health(1.0) coverage(1.0) 
+to(0.0) low-income(1.0) children(0.0) across(0.0) this(0.0) country(1.0) .(0.0) Today(0.0) this(0.0) program(1.0) provides(0.0) coverage(0.0) to(0.0) 6.6(0.0) million(0.0) children(1.0) and(0.0) has(0.0) lowered(0.0) the(0.0) 
+uninsured(1.0) rate(1.0) by(0.0) nearly(0.0) 25(0.0) percent(0.0) .(0.0) Unfortunately(0.0) ,(0.0) our(0.0) colleagues(0.0) on(0.0) the(0.0) other(0.0) side(0.0) of(0.0) the(0.0) aisle(0.0) decided(0.0) not(0.0) 
+to(0.0) include(0.0) us(0.0) in(0.0) crafting(1.0) the(0.0) reauthorization(1.0) of(0.0) SCHIP(1.0) and(0.0) in(0.0) addition(0.0) ,(0.0) included(0.0) many(0.0) other(0.0) provisions(1.0) affecting(1.0) Medicare(1.0) without(0.0) 
+any(0.0) input(0.0) from(0.0) the(0.0) minority(1.0) .(0.0) The(0.0) legislation(1.0) put(0.0) forth(0.0) by(0.0) the(0.0) Democrats(1.0) has(0.0) many(0.0) problems(0.0) ,(0.0) and(0.0) I(0.0) have(0.0) 
+serious(0.0) reservations(0.0) on(0.0) how(0.0) they(0.0) propose(1.0) to(0.0) fund(1.0) this(0.0) legislation(1.0) .(0.0) Specifically(0.0) ,(0.0) there(0.0) are(0.0) proposed(1.0) funding(1.0) streams(0.0) in(0.0) the(0.0) 
+bill(1.0) passed(0.0) out(0.0) of(0.0) the(0.0) Ways(1.0) and(0.0) Means(0.0) Committee(0.0) that(0.0) seeks(1.0) to(0.0) take(0.0) money(1.0) out(0.0) of(0.0) the(0.0) End(0.0) Stage(0.0) Renal(0.0) 
+Disease(0.0) ((0.0) ESRD(1.0) )(0.0) program(0.0) by(0.0) establishing(0.0) policies(1.0) that(0.0) are(0.0) shortsighted(1.0) and(0.0) ill-advised(1.0) .(0.0) As(0.0) currently(0.0) structured(0.0) ,(0.0) this(0.0) proposal(1.0) 
+takes(0.0) funding(1.0) from(0.0) among(0.0) the(0.0) sickest(1.0) patients(0.0) in(0.0) the(0.0) Medicare(1.0) program(1.0) ,(0.0) those(0.0) that(0.0) have(0.0) ESRD(1.0) ,(0.0) and(0.0) reallocates(1.0) it(0.0) 
+to(0.0) a(0.0) massive(0.0) SCHIP(1.0) expansion(1.0) .(0.0) As(0.0) a(0.0) member(0.0) of(0.0) the(0.0) Energy(0.0) &(0.0) Commerce(0.0) Committee(0.0) ,(0.0) I(0.0) was(0.0) pleased(0.0) to(0.0) 
+learn(0.0) that(0.0) Chairman(0.0) Dingell(1.0) was(0.0) prepared(0.0) to(0.0) offer(0.0) an(0.0) amended(0.0) version(0.0) of(0.0) the(0.0) CHAMP(0.0) Act(0.0) that(0.0) did(0.0) not(0.0) include(0.0) any(0.0) 
+ESRD(1.0) cuts(0.0) as(0.0) indicated(0.0) by(0.0) CBO(1.0) score(0.0) sheets(0.0) of(0.0) Chairman(0.0) Dingell(1.0) 's(0.0) amendment(1.0) that(0.0) do(0.0) not(0.0) include(0.0) entries(0.0) for(0.0) any(0.0) 
+ESRD(0.0) provisions(0.0) .(0.0) It(0.0) was(0.0) unfortunate(0.0) that(0.0) the(0.0) bill(1.0) was(0.0) discharged(0.0) from(0.0) Energy(0.0) and(0.0) Commerce(0.0) before(0.0) amendments(0.0) could(0.0) be(0.0) offered(0.0) 
+to(0.0) strike(1.0) these(0.0) ESRD(1.0) cuts(0.0) ,(0.0) but(0.0) I(0.0) wholeheartedly(0.0) agree(0.0) that(0.0) we(0.0) should(0.0) not(0.0) be(0.0) making(0.0) cuts(0.0) to(0.0) the(0.0) ESRD(1.0) 
+,(0.0) which(0.0) treats(0.0) some(0.0) of(0.0) the(0.0) sickest(1.0) patients(0.0) in(0.0) Medicare(1.0) ,(0.0) to(0.0) fund(1.0) SCHIP(1.0) expansion(1.0) .(0.0) As(0.0) the(0.0) CHAMP(1.0) 
+
+
+----- below are rationale words -----
+
+2006	drugs	anemia	end-stage	
+end-stage	provisions	bill	propose	institute	
+statutory	prices	
+medicine	price-based	reimbursement	
+Medicare	drug	1994	statutory	
+market-based	prices	Medicare	
+
+financial	incentives	ration	drugs	
+costs	drugs	care	
+Chairman	1997	Republican-led	
+SCHIP	health	coverage	
+low-income	country	program	children	
+uninsured	rate	
+crafting	reauthorization	SCHIP	provisions	affecting	Medicare	
+minority	legislation	Democrats	
+propose	fund	legislation	proposed	funding	
+bill	Ways	seeks	money	
+ESRD	policies	shortsighted	ill-advised	proposal	
+funding	sickest	Medicare	program	ESRD	reallocates	
+SCHIP	expansion	
+Dingell	
+ESRD	CBO	Dingell	amendment	
+bill	
+strike	ESRD	ESRD	
+sickest	Medicare	fund	SCHIP	expansion	CHAMP	
+
+reads % = 0.172

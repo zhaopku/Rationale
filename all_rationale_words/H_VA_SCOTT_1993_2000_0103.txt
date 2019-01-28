@@ -1,0 +1,24 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) this(0.0) came(0.0) to(0.0) our(0.0) attention(0.0) late(0.0) Friday(0.0) afternoon(0.0) that(0.0) it(0.0) would(0.0) be(0.0) on(0.0) suspension(0.0) and(0.0) not(0.0) available(0.0) for(0.0) 
+amendment(1.0) or(0.0) any(0.0) discussion(0.0) .(0.0) So(0.0) I(0.0) have(0.0) been(0.0) having(0.0) a(0.0) little(0.0) trouble(0.0) getting(0.0) the(0.0) details(0.0) on(0.0) it(0.0) .(0.0) We(0.0) 
+have(0.0) contacted(0.0) the(0.0) sentencing(1.0) commission(1.0) that(0.0) indicated(0.0) a(0.0) problem(0.0) with(0.0) the(0.0) bill(1.0) and(0.0) ,(0.0) that(0.0) is(0.0) ,(0.0) there(0.0) are(0.0) certain(0.0) 
+sentencing(1.0) inconsistencies(0.0) .(0.0) For(0.0) example(0.0) ,(0.0) if(0.0) an(0.0) 18-year-old(0.0) were(0.0) to(0.0) have(0.0) consensual(1.0) sex(1.0) with(0.0) a(0.0) 17-year-old(0.0) ,(0.0) that(0.0) would(0.0) 
+not(0.0) be(0.0) a(0.0) Federal(1.0) crime(1.0) nor(0.0) a(0.0) crime(0.0) in(0.0) most(0.0) States(0.0) .(0.0) However(0.0) ,(0.0) if(0.0) they(0.0) shared(0.0) dirty(1.0) pictures(0.0) ,(0.0) 
+then(0.0) that(0.0) would(0.0) be(0.0) a(0.0) Federal(1.0) crime(1.0) .(0.0) Perhaps(0.0) the(0.0) sponsor(0.0) of(0.0) the(0.0) bill(1.0) or(0.0) someone(0.0) on(0.0) the(0.0) other(0.0) side(0.0) 
+could(0.0) explain(0.0) to(0.0) me(0.0) what(0.0) the(0.0) probable(0.0) effect(0.0) of(0.0) this(0.0) legislation(1.0) would(1.0) be(0.0) for(0.0) the(0.0) 18-year-old(1.0) sharing(0.0) pictures(0.0) with(0.0) a(0.0) 
+17-(0.0) year-old(0.0) ,(0.0) what(0.0) the(0.0) effect(1.0) of(0.0) this(0.0) legislation(1.0) would(0.0) be(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	
+amendment	
+sentencing	commission	bill	
+sentencing	consensual	sex	
+Federal	crime	dirty	
+Federal	crime	bill	
+legislation	would	18-year-old	
+effect	legislation	
+
+reads % = 0.12418300653594772

@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+If(0.0) the(0.0) gentleman(0.0) from(0.0) Florida(1.0) 's(0.0) words(0.0) are(0.0) taken(0.0) down(1.0) ,(0.0) are(0.0) not(0.0) his(0.0) privileges(1.0) on(0.0) the(0.0) floor(0.0) suspended(0.0) for(0.0) the(0.0) 
+day(0.0) ?(1.0) 
+
+
+----- below are rationale words -----
+
+Florida	down	privileges	
+?	
+
+reads % = 0.17391304347826086

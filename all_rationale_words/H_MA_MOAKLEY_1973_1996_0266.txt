@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+It(0.0) has(0.0) been(0.0) referred(0.0) to(0.0) some(0.0) people(0.0) on(0.0) my(0.0) side(0.0) as(0.0) being(0.0) for(0.0) the(0.0) status(0.0) quo(0.0) .(0.0) Two(0.0) weeks(0.0) ago(0.0) we(0.0) 
+voted(1.0) for(0.0) the(0.0) Tanner-Castle(0.0) bill(1.0) ,(0.0) which(0.0) was(0.0) a(0.0) reform(1.0) bill(1.0) .(0.0) It(0.0) had(0.0) much(0.0) more(0.0) reform(1.0) than(0.0) this(0.0) .(0.0) 
+So(0.0) it(0.0) is(0.0) not(0.0) that(0.0) we(0.0) are(0.0) for(0.0) the(0.0) status(0.0) quo(0.0) .(0.0) We(0.0) want(0.0) a(0.0) real(0.0) reform(1.0) bill(1.0) .(0.0) This(0.0) 
+is(0.0) not(0.0) it(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) 2(0.0) minutes(0.0) to(0.0) the(0.0) gentlewoman(0.0) from(0.0) North(0.0) Carolina(0.0) [(0.0) Mrs.(0.0) Clayton(1.0) 
+](0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+voted	bill	reform	bill	reform	
+reform	bill	
+Speaker	Clayton	
+
+
+reads % = 0.10843373493975904

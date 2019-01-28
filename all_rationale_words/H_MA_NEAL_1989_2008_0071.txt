@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) support(0.0) of(0.0) the(0.0) Emergency(1.0) Economic(0.0) Stabilization(1.0) Act(0.0) of(0.0) 2008(0.0) .(0.0) I(0.0) want(0.0) to(0.0) applaud(0.0) 
+the(0.0) work(0.0) of(0.0) my(0.0) friend(0.0) ,(0.0) Chairman(0.0) Barney(1.0) Frank(1.0) ,(0.0) in(0.0) negotiating(0.0) this(0.0) agreement(0.0) on(0.0) behalf(0.0) of(0.0) the(0.0) House(0.0) .(0.0) 
+Compared(0.0) with(0.0) the(0.0) proposal(1.0) of(0.0) a(0.0) week(0.0) ago(0.0) from(0.0) the(0.0) Bush(1.0) administration(1.0) ,(0.0) this(0.0) agreement(1.0) has(0.0) much(0.0) improved(0.0) .(0.0) I(0.0) 
+have(0.0) already(0.0) heard(0.0) from(0.0) a(0.0) number(0.0) of(0.0) my(0.0) constituents(1.0) this(0.0) morning(0.0) who(0.0) oppose(1.0) the(0.0) bill(1.0) and(0.0) I(0.0) understand(0.0) their(0.0) opposition(1.0) 
+.(0.0) I(0.0) think(0.0) it(0.0) is(0.0) clear(0.0) that(0.0) we(0.0) are(0.0) not(0.0) done(0.0) with(0.0) this(0.0) matter(0.0) .(0.0) There(0.0) is(0.0) more(0.0) to(0.0) do(0.0) 
+,(0.0) and(0.0) even(0.0) under(0.0) this(0.0) bill(1.0) ,(0.0) Congress(0.0) will(0.0) revisit(0.0) the(0.0) agreement(0.0) in(0.0) 5(0.0) years(0.0) to(0.0) determine(0.0) whether(0.0) the(0.0) taxpayers(1.0) 
+are(0.0) due(0.0) some(0.0) repayment(0.0) from(0.0) the(0.0) industry(0.0) saved(0.0) by(0.0) this(0.0) bailout(1.0) .(0.0) At(0.0) this(0.0) time(0.0) ,(0.0) though(0.0) ,(0.0) it(0.0) is(0.0) 
+important(0.0) that(0.0) we(0.0) proceed(0.0) forward(0.0) with(0.0) this(0.0) limited(0.0) authority(0.0) ,(0.0) which(0.0) is(0.0) only(0.0) provided(0.0) with(0.0) substantial(1.0) oversight(1.0) .(0.0) It(0.0) is(0.0) 
+an(0.0) appropriate(0.0) balance(0.0) and(0.0) that(0.0) is(0.0) why(0.0) I(0.0) will(0.0) support(0.0) the(0.0) bill(1.0) .(0.0) But(0.0) as(0.0) I(0.0) said(0.0) ,(0.0) there(0.0) is(0.0) 
+more(0.0) to(0.0) be(0.0) done(0.0) .(0.0) John(0.0) F.(0.0) Kennedy(1.0) said(0.0) that(0.0) victory(0.0) has(0.0) a(0.0) thousand(0.0) fathers(0.0) ,(0.0) but(0.0) defeat(1.0) is(0.0) an(0.0) 
+orphan(1.0) .(0.0) It(0.0) is(0.0) true(0.0) that(0.0) no(0.0) one(0.0) has(0.0) stepped(0.0) forward(0.0) to(0.0) claim(0.0) responsibility(0.0) for(0.0) the(0.0) economic(1.0) quandary(0.0) we(0.0) find(0.0) 
+ourselves(0.0) in(0.0) .(0.0) But(0.0) if(0.0) we(0.0) simply(0.0) look(0.0) back(0.0) to(0.0) the(0.0) last(0.0) time(0.0) the(0.0) financial(1.0) services(0.0) industry(0.0) teetered(0.0) on(0.0) the(0.0) 
+brink(1.0) of(0.0) disaster(1.0) ,(0.0) we(0.0) can(0.0) see(0.0) roots(0.0) that(0.0) lead(0.0) to(0.0) the(0.0) crisis(1.0) we(0.0) confront(0.0) today(0.0) .(0.0) A(0.0) decade(0.0) ago(0.0) 
+,(0.0) Long(1.0) Term(0.0) Capital(0.0) Management(0.0) ,(0.0) a(0.0) billion-dollar(1.0) hedge(0.0) fund(0.0) lost(0.0) half(0.0) its(0.0) value(0.0) due(0.0) to(0.0) sour(0.0) derivative(0.0) contracts(0.0) and(0.0) 
+the(0.0) Federal(1.0) Reserve(0.0) Chairman(0.0) had(0.0) to(0.0) arrange(0.0) a(0.0) bailout(1.0) .(0.0) Complexity(0.0) is(0.0) the(0.0) name(0.0) of(0.0) the(0.0) game(0.0) in(0.0) the(0.0) derivatives(0.0) 
+market(0.0) ,(0.0) and(0.0) that(0.0) fact(0.0) has(0.0) not(0.0) changed(0.0) over(0.0) the(0.0) last(0.0) decade(0.0) .(0.0) Derivatives(0.0) are(0.0) financial(1.0) products(0.0) with(0.0) a(0.0) value(0.0) 
+derived(0.0) from(0.0) an(0.0) underlying(0.0) asset(0.0) ,(0.0) such(0.0) as(0.0) a(0.0) stock(0.0) or(0.0) commodity(0.0) .(0.0) The(0.0) accounting(0.0) and(0.0) tax(1.0) rules(1.0) regarding(1.0) these(0.0) 
+products(1.0) ,(0.0) though(0.0) ,(0.0) are(0.0) anything(0.0) but(0.0) clear(0.0) and(0.0) that(0.0) part(0.0) of(0.0) the(0.0) game(0.0) has(0.0) also(0.0) not(0.0) changed(0.0) over(0.0) the(0.0) 
+last(0.0) decade(0.0) .(0.0) I(0.0) am(0.0) concerned(0.0) about(0.0) one(0.0) section(0.0) of(0.0) the(0.0) bill(1.0) we(0.0) are(0.0) considering(0.0) today(0.0) which(0.0) would(0.0) grant(1.0) the(0.0) 
+SEC(1.0) authority(0.0) to(0.0) suspend(0.0) mark-to-market(1.0) accounting(0.0) .(0.0) This(0.0) accounting(0.0) rule(0.0) requires(0.0) companies(0.0) to(0.0) declare(0.0) the(0.0) market(0.0) value(0.0) of(0.0) assets(0.0) .(0.0) 
+With(0.0) financial(1.0) products(0.0) ,(0.0) this(0.0) may(0.0) differ(0.0) from(0.0) the(0.0) purchase(0.0) price(0.0) .(0.0) Plus(0.0) ,(0.0) the(0.0) value(0.0) might(0.0) be(0.0) hard(0.0) to(0.0) 
+determine(0.0) until(0.0) the(0.0) contract(0.0) expires(0.0) some(0.0) time(0.0) in(0.0) the(0.0) future(0.0) .(0.0) However(0.0) ,(0.0) in(0.0) valuing(1.0) derivatives(1.0) ,(0.0) I(0.0) believe(0.0) it(0.0) 
+is(0.0) important(0.0) that(0.0) there(0.0) be(0.0) transparency(1.0) in(0.0) the(0.0) market(0.0) ,(0.0) and(0.0) mark-to-market(1.0) accounting(0.0) is(0.0) probably(0.0) the(0.0) closest(0.0) to(0.0) the(0.0) actual(0.0) 
+value(0.0) and(0.0) is(0.0) therefore(0.0) ,(0.0) an(0.0) essential(0.0) tool(0.0) for(0.0) investors(1.0) .(0.0) Think(0.0) of(0.0) it(0.0) this(0.0) way(0.0) :(0.0) if(0.0) someone(0.0) asked(0.0) 
+you(0.0) for(0.0) a(0.0) loan(0.0) and(0.0) their(0.0) only(0.0) asset(0.0) is(0.0) their(0.0) house(0.0) which(0.0) could(0.0) be(0.0) sold(0.0) for(0.0) $(0.0) 100,000(0.0) ,(0.0) 
+
+
+----- below are rationale words -----
+
+Emergency	Stabilization	
+Barney	Frank	
+proposal	Bush	administration	agreement	
+constituents	oppose	bill	opposition	
+
+bill	taxpayers	
+bailout	
+substantial	oversight	
+bill	
+Kennedy	defeat	
+orphan	economic	
+financial	
+brink	disaster	crisis	
+Long	billion-dollar	
+Federal	bailout	
+financial	
+tax	rules	regarding	
+products	
+bill	grant	
+SEC	mark-to-market	
+financial	
+valuing	derivatives	
+transparency	mark-to-market	
+investors	
+
+
+reads % = 0.09

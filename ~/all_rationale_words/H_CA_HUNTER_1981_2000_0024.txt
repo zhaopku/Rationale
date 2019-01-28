@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+If(0.0) the(0.0) gentleman(0.0) will(0.0) continue(0.0) to(0.0) yield(0.0) ,(0.0) absolutely(1.0) we(0.0) will(0.0) continue(1.0) to(0.0) press(1.0) for(0.0) that(0.0) figure(1.0) ,(0.0) make(0.0) sure(1.0) that(0.0) 
+that(0.0) amount(0.0) of(0.0) money(1.0) is(0.0) available(1.0) .(0.0) As(0.0) the(0.0) gentleman(0.0) knows(0.0) ,(0.0) there(0.0) is(0.0) money(0.0) that(0.0) is(0.0) in(0.0) the(0.0) first(0.0) 
+$(0.0) 491(1.0) million(1.0) that(0.0) was(0.0) a(0.0) tranche(0.0) of(0.0) money(1.0) that(0.0) was(0.0) approved(0.0) initially(0.0) for(0.0) the(0.0) BNFL(1.0) contractor(1.0) and(0.0) that(0.0) contract(1.0) 
+is(0.0) now(0.0) no(0.0) longer(0.0) with(0.0) us(0.0) .(0.0) So(1.0) there(0.0) is(0.0) some(0.0) question(0.0) in(0.0) DOE(1.0) as(0.0) to(0.0) how(0.0) much(0.0) is(0.0) carryover(1.0) 
+and(0.0) how(1.0) much(0.0) is(0.0) not(1.0) carryover(1.0) ,(0.0) but(0.0) we(0.0) do(0.0) agree(1.0) because(0.0) of(0.0) the(0.0) gentleman(0.0) 's(0.0) leadership(1.0) that(0.0) $(0.0) 370(0.0) 
+million(0.0) is(0.0) needed(0.0) .(0.0) I(0.0) will(0.0) work(0.0) in(0.0) the(0.0) conference(0.0) to(0.0) make(0.0) sure(1.0) that(0.0) we(0.0) get(0.0) that(0.0) .(0.0) As(1.0) the(0.0) 
+gentleman(0.0) knows(0.0) ,(0.0) the(0.0) Department(0.0) is(0.0) currently(1.0) unable(1.0) to(0.0) give(0.0) us(0.0) a(0.0) firm(0.0) funding(1.0) requirement(0.0) for(0.0) 2001(0.0) due(0.0) to(0.0) the(0.0) 
+fact(0.0) that(0.0) they(0.0) have(0.0) ongoing(0.0) contract(1.0) negotiations(0.0) right(1.0) now(0.0) that(0.0) resulted(0.0) from(0.0) this(0.0) new(0.0) path(1.0) that(0.0) they(0.0) are(0.0) taking(0.0) .(0.0) 
+I(0.0) just(1.0) want(1.0) to(0.0) assure(0.0) the(0.0) gentleman(0.0) I(0.0) will(0.0) continue(0.0) to(0.0) work(0.0) with(0.0) him(0.0) in(0.0) conference(0.0) and(0.0) we(0.0) will(0.0) make(0.0) 
+sure(1.0) that(0.0) we(0.0) fully(0.0) fund(1.0) that(0.0) $(0.0) 370(0.0) million(0.0) required(0.0) for(0.0) this(0.0) work(0.0) .(0.0) So(1.0) under(0.0) the(0.0) steady(0.0) leadership(1.0) of(0.0) 
+the(0.0) gentleman(0.0) from(0.0) Washington(1.0) ,(0.0) these(1.0) other(0.0) problems(0.0) notwithstanding(1.0) ,(0.0) we(0.0) are(0.0) going(0.0) to(0.0) continue(0.0) to(0.0) move(0.0) the(0.0) Hanford(1.0) cleanup(0.0) 
+forward(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+absolutely	continue	press	figure	sure	
+money	available	
+491	million	money	BNFL	contractor	contract	
+So	DOE	carryover	
+how	not	carryover	agree	leadership	
+sure	As	
+currently	unable	funding	
+contract	right	path	
+just	want	
+sure	fund	So	leadership	
+Washington	these	notwithstanding	Hanford	
+
+
+reads % = 0.17488789237668162

@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) just(0.0) want(0.0) to(0.0) say(0.0) that(0.0) the(0.0) wife(0.0) of(0.0) the(0.0) gentleman(0.0) from(0.0) Florida(0.0) ((0.0) Mr.(0.0) Young(1.0) )(0.0) was(1.0) 
+instrumental(1.0) in(0.0) pointing(0.0) out(0.0) to(0.0) me(0.0) that(0.0) one(0.0) young(0.0) man(0.0) did(0.0) not(0.0) get(0.0) a(0.0) Purple(0.0) Heart(0.0) ,(0.0) so(0.0) the(0.0) Commandant(0.0) 
+is(0.0) going(0.0) to(0.0) present(0.0) him(0.0) with(0.0) a(0.0) Purple(0.0) Heart(0.0) on(0.0) Thursday(0.0) ,(0.0) I(0.0) believe(0.0) .(0.0) She(0.0) is(0.0) out(0.0) there(0.0) all(0.0) 
+the(0.0) time(0.0) ,(0.0) and(0.0) all(0.0) of(0.0) us(0.0) are(0.0) indebted(0.0) to(0.0) the(0.0) work(0.0) that(0.0) she(0.0) does(0.0) at(0.0) the(0.0) hospitals(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Young	was	
+instrumental	
+
+hospitals	
+
+reads % = 0.05

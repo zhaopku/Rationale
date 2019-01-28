@@ -1,0 +1,34 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(1.0) ,(0.0) I(0.0) move(0.0) to(0.0) strike(0.0) the(0.0) requisite(0.0) number(0.0) of(0.0) words(0.0) .(0.0) Mr.(1.0) Chairman(1.0) ,(0.0) I(0.0) rise(1.0) today(1.0) in(0.0) support(0.0) of(0.0) 
+the(0.0) Dingell(1.0) amendment(1.0) to(0.0) H.R(0.0) .(0.0) 2605(1.0) .(0.0) H.R(0.0) .(0.0) 2605(1.0) ,(0.0) as(0.0) currently(1.0) drafted(0.0) ,(0.0) seeks(1.0) to(0.0) close(0.0) the(0.0) 
+Army(1.0) Corps(1.0) of(0.0) Engineers(0.0) '(0.0) regional(1.0) office(0.0) located(1.0) in(0.0) the(0.0) City(0.0) of(0.0) Chicago(1.0) .(0.0) It(0.0) was(0.0) only(0.0) after(0.0) a(0.0) few(0.0) 
+years(0.0) ago(1.0) that(0.0) we(0.0) negotiated(0.0) the(0.0) continued(0.0) existence(1.0) of(0.0) the(0.0) Chicago(1.0) regional(1.0) office(0.0) with(0.0) a(0.0) plan(1.0) which(0.0) was(0.0) both(0.0) cost(0.0) 
+effective(0.0) and(0.0) streamlined(0.0) .(0.0) I(0.0) recall(1.0) those(0.0) days(0.0) ,(0.0) Mr.(0.0) Chairman(1.0) .(0.0) Long(0.0) meetings(0.0) ,(0.0) meetings(0.0) where(0.0) there(0.0) was(0.0) a(0.0) 
+very(0.0) intense(0.0) discussion(0.0) ,(0.0) but(0.0) we(0.0) agreed(1.0) that(0.0) the(0.0) Chicago(1.0) office(1.0) should(0.0) be(0.0) open(0.0) .(0.0) Now(0.0) ,(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) 
+this(0.0) bill(0.0) seeks(1.0) to(0.0) undo(1.0) the(0.0) work(0.0) that(0.0) we(0.0) did(0.0) accomplish(0.0) in(0.0) 1996(0.0) .(0.0) The(0.0) Chicago(1.0) Corps(1.0) office(0.0) is(0.0) a(0.0) 
+recognized(0.0) national(0.0) leader(1.0) among(0.0) the(0.0) Army(1.0) Corps(1.0) of(0.0) Engineers(0.0) '(0.0) division(0.0) and(0.0) the(0.0) professional(0.0) development(1.0) in(0.0) environmental(1.0) projects(0.0) .(0.0) Moreover(1.0) 
+,(0.0) surrounding(1.0) cities(1.0) and(0.0) States(0.0) have(0.0) long(1.0) depended(0.0) upon(0.0) the(0.0) services(0.0) provided(0.0) by(0.0) the(0.0) Corps(1.0) .(0.0) Currently(1.0) because(0.0) of(0.0) the(0.0) 
+Corps(1.0) ,(0.0) Chicago(1.0) is(0.0) in(0.0) the(0.0) process(1.0) of(0.0) repairing(0.0) its(0.0) deteriorating(1.0) shoreline(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) understand(0.0) that(0.0) this(0.0) 
+amendment(1.0) will(0.0) be(0.0) withdrawn(1.0) .(0.0) That(0.0) said(1.0) ,(0.0) I(0.0) nonetheless(1.0) stand(0.0) in(0.0) support(0.0) of(0.0) the(0.0) amendment(1.0) with(0.0) the(0.0) trust(0.0) that(0.0) 
+between(0.0) now(0.0) and(0.0) the(0.0) conference(0.0) that(0.0) a(0.0) partnership(0.0) will(0.0) be(0.0) formed(0.0) between(0.0) the(0.0) Committee(0.0) on(0.0) Appropriations(0.0) ,(0.0) the(0.0) members(1.0) of(0.0) 
+the(0.0) Great(0.0) Lakes(1.0) States(0.0) ,(0.0) and(0.0) the(0.0) Army(1.0) Corps(1.0) of(0.0) Engineers(0.0) to(0.0) resolve(0.0) this(0.0) important(0.0) issue(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Mr.	Chairman	rise	today	
+Dingell	amendment	2605	2605	currently	seeks	
+Army	Corps	regional	located	Chicago	
+ago	existence	Chicago	regional	plan	
+recall	Chairman	
+agreed	Chicago	office	Chairman	
+seeks	undo	Chicago	Corps	
+leader	Army	Corps	development	environmental	Moreover	
+surrounding	cities	long	Corps	Currently	
+Corps	Chicago	process	deteriorating	Chairman	
+amendment	withdrawn	said	nonetheless	amendment	
+members	
+Lakes	Army	Corps	
+
+reads % = 0.2131782945736434

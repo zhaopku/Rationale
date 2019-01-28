@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Today(0.0) ,(0.0) America(1.0) 's(0.0) consumers(1.0) can(0.0) see(0.0) what(0.0) a(0.0) Democratic(0.0) President(0.0) and(0.0) a(0.0) Democratic(0.0) majority(0.0) means(0.0) to(0.0) their(0.0) lives(0.0) .(0.0) We(0.0) 
+can(0.0) stop(0.0) these(0.0) abusive(1.0) practices(1.0) by(0.0) voting(1.0) down(0.0) the(0.0) motion(1.0) to(0.0) recommit(1.0) and(0.0) voting(1.0) for(0.0) the(0.0) bill(1.0) .(0.0) Small(0.0) businesses(1.0) 
+,(0.0) the(0.0) Small(1.0) Business(0.0) Association(0.0) was(0.0) part(0.0) of(0.0) our(0.0) coalition(1.0) .(0.0) They(0.0) support(0.0) the(0.0) bill(1.0) .(0.0) The(0.0) National(0.0) Federation(0.0) of(0.0) 
+Independent(0.0) Businesses(1.0) ,(0.0) they(0.0) call(0.0) it(0.0) a(0.0) key(0.0) vote(0.0) alert(0.0) .(0.0) They(0.0) will(0.0) score(0.0) people(0.0) on(0.0) this(0.0) vote(1.0) ,(0.0) a(0.0) 
+vote(1.0) in(0.0) support(0.0) of(0.0) the(0.0) legislation(1.0) .(0.0) So(0.0) we(0.0) have(0.0) a(0.0) chance(0.0) to(0.0) vote(1.0) with(0.0) the(0.0) regulators(1.0) of(0.0) this(0.0) country(1.0) 
+that(0.0) support(0.0) the(0.0) bill(1.0) and(0.0) have(0.0) called(0.0) these(0.0) practices(0.0) unfair(1.0) ,(0.0) deceptive(1.0) and(0.0) anticompetitive(1.0) .(0.0) We(0.0) get(0.0) to(0.0) vote(1.0) with(0.0) 
+54(0.0) editorial(1.0) boards(0.0) across(0.0) the(0.0) country(1.0) that(0.0) have(0.0) endorsed(1.0) the(0.0) bill(1.0) ,(0.0) with(0.0) every(0.0) consumer(1.0) group(0.0) ,(0.0) every(0.0) civil(1.0) rights(1.0) 
+group(0.0) ,(0.0) and(0.0) many(0.0) grassroots(1.0) organizations(0.0) that(0.0) have(0.0) called(0.0) this(0.0) their(0.0) number(0.0) 1(0.0) legislative(0.0) priority(1.0) .(0.0) We(0.0) do(0.0) not(0.0) need(0.0) 
+to(0.0) delay(0.0) .(0.0) We(0.0) need(0.0) to(0.0) vote(1.0) against(0.0) this(0.0) motion(1.0) to(0.0) recommit(1.0) ,(0.0) and(0.0) we(0.0) need(0.0) to(0.0) move(0.0) forward(0.0) in(0.0) 
+enacting(1.0) these(0.0) provisions(1.0) to(0.0) protect(0.0) America(1.0) 's(0.0) working(0.0) men(0.0) and(0.0) women(0.0) ,(0.0) particularly(0.0) when(0.0) our(0.0) economy(1.0) is(0.0) downturning(0.0) ,(0.0) many(0.0) 
+people(0.0) are(0.0) losing(0.0) their(0.0) jobs(0.0) .(0.0) We(0.0) need(0.0) to(0.0) protect(0.0) our(0.0) consumers(1.0) ,(0.0) not(0.0) delay(0.0) provisions(1.0) that(0.0) can(0.0) help(0.0) them(0.0) 
+better(0.0) manage(0.0) their(0.0) credit(0.0) and(0.0) stop(0.0) abusive(1.0) practices(1.0) .(0.0) Vote(1.0) for(0.0) the(0.0) Democratic(1.0) bill(1.0) .(1.0) 
+
+
+----- below are rationale words -----
+
+America	consumers	
+abusive	practices	voting	motion	recommit	voting	bill	businesses	
+Small	coalition	bill	
+Businesses	vote	
+vote	legislation	vote	regulators	country	
+bill	unfair	deceptive	anticompetitive	vote	
+editorial	country	endorsed	bill	consumer	civil	rights	
+grassroots	priority	
+vote	motion	recommit	
+enacting	provisions	America	economy	
+consumers	provisions	
+abusive	practices	Vote	Democratic	bill	.	
+
+reads % = 0.2076271186440678

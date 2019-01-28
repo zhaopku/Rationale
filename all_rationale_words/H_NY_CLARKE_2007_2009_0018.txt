@@ -1,0 +1,46 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) and(0.0) my(0.0) colleagues(1.0) ,(0.0) I(0.0) would(1.0) like(0.0) to(0.0) just(1.0) highlight(0.0) today(0.0) section(0.0) 201(0.0) of(0.0) H.R(0.0) .(0.0) 2200(1.0) ,(0.0) the(0.0) Transportation(0.0) 
+Security(0.0) Administration(0.0) Authorization(0.0) Act(0.0) of(0.0) 2009(1.0) ,(0.0) which(0.0) requires(0.0) the(0.0) TSA(1.0) to(0.0) establish(1.0) a(0.0) system(0.0) to(0.0) verify(0.0) that(0.0) all(0.0) cargo(1.0) 
+transported(0.0) on(0.0) passenger(0.0) aircraft(1.0) operated(1.0) by(0.0) an(0.0) air(0.0) carrier(0.0) or(0.0) by(0.0) a(0.0) foreign(0.0) air(0.0) carrier(0.0) inbound(0.0) to(0.0) the(0.0) United(0.0) States(0.0) 
+be(0.0) screened(1.0) for(0.0) explosives(1.0) within(1.0) 2(0.0) years(0.0) of(0.0) its(0.0) enactment(1.0) .(0.0) Notwithstanding(1.0) the(0.0) contrary(0.0) rhetoric(1.0) we(0.0) have(0.0) heard(1.0) from(0.0) the(0.0) 
+opponents(1.0) of(0.0) H.R(0.0) .(0.0) 2200(1.0) ,(0.0) the(0.0) committee(0.0) is(0.0) taking(1.0) the(0.0) responsible(1.0) ,(0.0) necessary(1.0) steps(0.0) to(0.0) implement(0.0) the(0.0) cargo(1.0) screening(1.0) 
+requirement(1.0) originally(0.0) authorized(1.0) in(0.0) the(0.0) 9/11(1.0) Act(0.0) by(0.0) requiring(0.0) that(0.0) all(0.0) cargo(1.0) transported(0.0) between(0.0) the(0.0) United(0.0) States(0.0) airports(1.0) on(0.0) passenger(0.0) 
+planes(1.0) be(0.0) screened(1.0) by(0.0) August(0.0) of(0.0) 2010(0.0) ,(0.0) by(0.0) maintaining(0.0) the(0.0) commitment(0.0) to(0.0) screen(0.0) inbound(1.0) cargo(1.0) ,(0.0) by(0.0) responding(0.0) in(0.0) 
+a(0.0) timely(1.0) manner(0.0) to(0.0) the(0.0) needs(0.0) of(0.0) the(0.0) TSA(1.0) rather(0.0) than(0.0) taking(1.0) a(0.0) wait-and-see(1.0) approach(0.0) until(0.0) 2010(0.0) ,(0.0) and(0.0) by(0.0) 
+dedicating(0.0) the(0.0) committee(0.0) to(0.0) receiving(0.0) monthly(0.0) briefings(1.0) on(0.0) the(0.0) program(0.0) so(0.0) that(0.0) the(0.0) necessary(1.0) oversight(0.0) is(0.0) exercised(0.0) to(0.0) ensure(0.0) that(0.0) 
+TSA(1.0) will(0.0) meet(1.0) the(0.0) 2010(1.0) deadline(1.0) and(0.0) the(0.0) deadline(1.0) for(0.0) inbound(0.0) cargo(1.0) created(0.0) by(0.0) this(0.0) provision(0.0) .(0.0) The(0.0) previous(0.0) administration(0.0) 
+'s(0.0) delay(1.0) and(0.0) confusion(1.0) have(0.0) disadvantaged(0.0) TSA(0.0) and(0.0) have(0.0) necessitated(1.0) this(0.0) action(0.0) .(0.0) I(0.0) am(0.0) committed(1.0) to(0.0) achieving(1.0) 100(0.0) percent(1.0) 
+screening(0.0) of(0.0) all(0.0) cargo(1.0) transported(0.0) on(0.0) passenger(0.0) planes(1.0) .(0.0) This(0.0) is(0.0) arguably(1.0) the(0.0) largest(0.0) screening(0.0) vulnerability(0.0) given(0.0) that(0.0) all(0.0) passengers(1.0) 
+,(0.0) their(0.0) carry-ons(1.0) and(0.0) checked(0.0) baggage(1.0) currently(1.0) get(0.0) screened(1.0) .(0.0) I(0.0) would(1.0) like(0.0) to(0.0) thank(0.0) Chairman(1.0) Thompson(0.0) and(0.0) Ranking(1.0) Member(0.0) 
+King(0.0) for(0.0) their(0.0) vigilance(0.0) and(0.0) leadership(1.0) ,(0.0) and(0.0) I(0.0) would(1.0) like(0.0) to(0.0) thank(0.0) subcommittee(0.0) Chairwoman(0.0) Sheila(1.0) Jackson-Lee(1.0) and(0.0) the(0.0) ranking(1.0) 
+member(0.0) for(0.0) their(0.0) diligence(1.0) and(0.0) leadership(1.0) on(0.0) this(0.0) authorization(0.0) .(0.0) As(0.0) a(0.0) member(0.0) of(0.0) the(0.0) New(0.0) York(0.0) delegation(1.0) ,(0.0) as(0.0) 
+one(0.0) who(0.0) serves(0.0) on(0.0) this(0.0) committee(0.0) and(0.0) as(0.0) one(0.0) who(0.0) holds(0.0) very(0.0) vivid(1.0) memories(0.0) of(0.0) the(0.0) most(1.0) devastating(1.0) airliner-based(1.0) attack(0.0) 
+on(0.0) U.S.(0.0) soil(0.0) ,(0.0) I(0.0) kindly(1.0) ask(0.0) my(0.0) colleagues(1.0) to(0.0) support(0.0) the(0.0) rule(0.0) of(0.0) H.R(0.0) .(0.0) 2200(1.0) as(0.0) well(0.0) as(0.0) 
+the(0.0) underlying(1.0) bill(0.0) .(0.0) Mr.(0.0) LINCOLN(1.0) DIAZ-BALART(1.0) of(0.0) Florida(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) we(0.0) reserve(1.0) the(0.0) balance(0.0) of(0.0) our(0.0) time(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+colleagues	would	just	2200	
+2009	TSA	establish	cargo	
+aircraft	operated	
+screened	explosives	within	enactment	Notwithstanding	rhetoric	heard	
+opponents	2200	taking	responsible	necessary	cargo	screening	
+requirement	authorized	9/11	cargo	airports	
+planes	screened	inbound	cargo	
+timely	TSA	taking	wait-and-see	
+briefings	necessary	
+TSA	meet	2010	deadline	deadline	cargo	
+delay	confusion	necessitated	committed	achieving	percent	
+cargo	planes	arguably	passengers	
+carry-ons	baggage	currently	screened	would	Chairman	Ranking	
+leadership	would	Sheila	Jackson-Lee	ranking	
+diligence	leadership	delegation	
+vivid	most	devastating	airliner-based	
+kindly	colleagues	2200	
+underlying	LINCOLN	DIAZ-BALART	Florida	Speaker	reserve	
+
+
+reads % = 0.2292817679558011

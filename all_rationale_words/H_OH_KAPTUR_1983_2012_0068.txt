@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Washington(1.0) for(0.0) yielding(0.0) me(0.0) this(0.0) time(0.0) .(0.0) I(0.0) want(0.0) to(0.0) acknowledge(0.0) the(0.0) 
+work(0.0) of(0.0) our(0.0) full(0.0) committee(0.0) under(0.0) the(0.0) chairmanship(0.0) of(0.0) Mr.(0.0) Rogers(1.0) ,(0.0) and(0.0) obviously(0.0) the(0.0) wonderful(0.0) work(0.0) of(0.0) our(0.0) chairman(0.0) 
+,(0.0) Bill(0.0) Young(1.0) ,(0.0) and(0.0) of(0.0) our(0.0) subcommittee(0.0) ranking(0.0) member(0.0) ,(0.0) Mr.(0.0) Dicks(1.0) .(0.0) Their(0.0) collegial(0.0) work(0.0) has(0.0) made(0.0) this(0.0) 
+bill(0.0) possible(1.0) ,(0.0) and(0.0) it(0.0) will(0.0) benefit(0.0) our(0.0) entire(0.0) Nation(1.0) ,(0.0) our(0.0) men(0.0) and(0.0) women(0.0) in(0.0) uniform(0.0) ,(0.0) our(0.0) Armed(0.0) 
+Forces(0.0) ,(0.0) and(0.0) all(0.0) of(0.0) those(0.0) who(0.0) are(0.0) touched(0.0) by(0.0) this(0.0) legislation(1.0) .(0.0) I(0.0) would(0.0) like(0.0) to(0.0) add(0.0) my(0.0) voice(0.0) 
+to(0.0) those(0.0) who(0.0) wish(0.0) to(0.0) recognize(0.0) the(0.0) magnificent(0.0) work(0.0) that(0.0) Congressman(1.0) Dicks(1.0) has(0.0) done(0.0) during(0.0) his(0.0) years(0.0) of(0.0) service(0.0) to(0.0) 
+our(0.0) country(1.0) back(0.0) from(0.0) the(0.0) time(0.0) when(0.0) he(0.0) first(0.0) worked(0.0) for(0.0) Senator(1.0) Warren(1.0) Magnuson(1.0) .(0.0) We(0.0) would(0.0) like(0.0) to(0.0) wish(0.0) 
+him(0.0) ,(0.0) his(0.0) wife(0.0) ,(0.0) Suzie(0.0) ,(0.0) and(0.0) their(0.0) beautiful(0.0) family(0.0) many(0.0) healthy(0.0) and(0.0) productive(0.0) years(0.0) ahead(0.0) .(0.0) We(0.0) thank(0.0) 
+him(0.0) for(0.0) his(0.0) distinguished(0.0) and(0.0) honorable(0.0) and(0.0) intrepid(0.0) service(0.0) --(0.0) always(0.0) dutiful(0.0) ,(0.0) always(0.0) enlightened(1.0) .(0.0) When(0.0) he(0.0) walks(0.0) from(0.0) 
+these(0.0) Halls(0.0) officially(0.0) ,(0.0) he(0.0) takes(0.0) great(0.0) knowledge(0.0) and(0.0) should(0.0) take(0.0) great(0.0) satisfaction(0.0) with(0.0) him(0.0) for(0.0) a(0.0) job(0.0) well(0.0) done(0.0) 
+,(0.0) indeed(0.0) .(0.0) I(0.0) want(0.0) to(0.0) extend(0.0) to(0.0) Congressman(1.0) Jerry(1.0) Lewis(1.0) ,(0.0) as(0.0) well(0.0) ,(0.0) deep(0.0) appreciation(0.0) from(0.0) the(0.0) people(0.0) 
+of(0.0) our(0.0) States(0.0) and(0.0) country(0.0) for(0.0) your(0.0) incredible(0.0) service(0.0) .(0.0) I(0.0) would(0.0) venture(0.0) to(0.0) say(0.0) ,(0.0) when(0.0) both(0.0) of(0.0) you(0.0) 
+gentlemen(0.0) leave(0.0) these(0.0) Chambers(0.0) ,(0.0) nearly(0.0) a(0.0) century(0.0) of(0.0) knowledge(0.0) will(0.0) walk(0.0) with(0.0) you(0.0) .(0.0) You(0.0) have(0.0) left(0.0) America(0.0) with(0.0) 
+her(0.0) strongest(0.0) defense(1.0) globally(0.0) ,(0.0) and(0.0) you(0.0) have(0.0) been(0.0) a(0.0) part(0.0) of(0.0) crafting(0.0) every(0.0) single(0.0) line(0.0) of(0.0) these(0.0) bills(1.0) .(0.0) 
+America(0.0) thanks(0.0) you(0.0) and(0.0) the(0.0) free(0.0) world(0.0) thanks(0.0) you(0.0) .(0.0) This(0.0) bill(1.0) has(0.0) been(0.0) written(0.0) in(0.0) a(0.0) bipartisan(1.0) way(0.0) by(0.0) 
+our(0.0) subcommittee(0.0) ,(0.0) and(0.0) I(0.0) thank(0.0) the(0.0) members(0.0) for(0.0) working(0.0) collaboratively(0.0) together(0.0) .(0.0) It(0.0) is(0.0) a(0.0) model(0.0) for(0.0) our(0.0) committee(0.0) 
+and(0.0) Congress(0.0) on(0.0) how(0.0) to(0.0) do(0.0) the(0.0) work(0.0) necessary(0.0) to(0.0) meet(0.0) the(0.0) needs(0.0) of(0.0) the(0.0) American(0.0) people(0.0) .(0.0) The(0.0) bill(1.0) 
+includes(0.0) $(0.0) 125(0.0) million(0.0) above(0.0) the(0.0) President(1.0) 's(0.0) request(0.0) for(0.0) funding(1.0) health(1.0) research(0.0) for(0.0) traumatic(0.0) brain(0.0) injuries(0.0) and(0.0) posttraumatic(1.0) stress(0.0) 
+,(0.0) which(0.0) are(0.0) the(0.0) signature(0.0) wounds(0.0) of(0.0) the(0.0) wars(1.0) in(0.0) Iraq(1.0) and(0.0) Afghanistan(1.0) .(0.0) Our(0.0) bill(1.0) includes(0.0) an(0.0) additional(0.0) $(0.0) 
+246(0.0) million(0.0) for(0.0) cancer(1.0) research(0.0) ,(0.0) including(0.0) breast(1.0) cancer(1.0) ,(0.0) prostate(1.0) cancer(1.0) ,(0.0) ovarian(1.0) cancer(1.0) ,(0.0) and(0.0) lung(1.0) cancer(1.0) .(0.0) 
+The(0.0) bill(1.0) also(0.0) includes(0.0) necessary(0.0) funding(1.0) for(0.0) the(0.0) Iron(0.0) Dome(0.0) .(0.0) During(0.0) the(0.0) last(0.0) decade(1.0) of(0.0) war(1.0) ,(0.0) our(0.0) National(1.0) 
+Guard(0.0) and(0.0) Reserve(0.0) units(0.0) have(0.0) proven(0.0) themselves(0.0) as(0.0) the(0.0) strategic(0.0) reserve(0.0) force(0.0) for(0.0) our(0.0) Nation(1.0) .(0.0) The(0.0) Air(0.0) Force(0.0) ,(0.0) 
+in(0.0) submitting(0.0) its(0.0) FY13(0.0) budget(0.0) ,(0.0) did(0.0) not(0.0) appear(0.0) to(0.0) appropriately(0.0) appreciate(0.0) the(0.0) importance(0.0) of(0.0) the(0.0) Guard(0.0) and(0.0) Reserve(0.0) because(0.0) 
+they(0.0) targeted(0.0) those(0.0) units(0.0) for(0.0) mission(1.0) reductions(1.0) and(0.0) cancellations(0.0) .(0.0) Our(0.0) subcommittee(0.0) has(0.0) fixed(0.0) this(0.0) oversight(1.0) by(0.0) providing(0.0) the(0.0) necessary(0.0) 
+funding(1.0) to(0.0) allow(0.0) the(0.0) Guard(0.0) and(0.0) Reserve(0.0) to(0.0) continue(0.0) their(0.0) missions(0.0) ,(0.0) which(0.0) they(0.0) do(0.0) extremely(0.0) well(0.0) and(0.0) at(0.0) 
+
+
+----- below are rationale words -----
+
+Washington	
+Rogers	
+Young	Dicks	
+possible	Nation	
+legislation	
+Congressman	Dicks	
+country	Senator	Warren	Magnuson	
+
+enlightened	
+
+Congressman	Jerry	Lewis	
+
+
+defense	bills	
+bill	bipartisan	
+
+bill	
+President	funding	health	posttraumatic	
+wars	Iraq	Afghanistan	bill	
+cancer	breast	cancer	prostate	cancer	ovarian	cancer	lung	cancer	
+bill	funding	decade	war	National	
+Nation	
+
+mission	reductions	oversight	
+funding	
+
+reads % = 0.098

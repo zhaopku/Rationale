@@ -1,0 +1,38 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) also(0.0) want(0.0) to(0.0) thank(0.0) the(0.0) chairman(0.0) of(0.0) the(0.0) committee(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) ((0.0) Mr.(0.0) Archer(1.0) )(0.0) 
+,(0.0) for(0.0) bringing(0.0) forth(0.0) this(0.0) piece(0.0) of(0.0) legislation(0.0) and(0.0) for(0.0) allowing(0.0) us(0.0) this(0.0) debate(1.0) today(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) from(0.0) 
+looking(0.0) over(0.0) the(0.0) different(0.0) letters(0.0) from(0.0) different(0.0) and(0.0) various(0.0) Members(0.0) of(0.0) Congress(0.0) ,(0.0) I(0.0) am(0.0) not(0.0) surprised(0.0) to(0.0) see(0.0) claims(0.0) 
+that(0.0) imports(1.0) have(0.0) dropped(0.0) ,(0.0) claims(0.0) that(0.0) have(0.0) been(0.0) offered(0.0) in(0.0) an(0.0) effort(0.0) to(0.0) convince(0.0) all(0.0) of(0.0) us(0.0) that(0.0) the(0.0) 
+crisis(1.0) in(0.0) this(0.0) country(1.0) with(0.0) steel(0.0) dumping(1.0) is(0.0) over(0.0) .(0.0) Let(0.0) me(0.0) be(0.0) very(0.0) clear(0.0) on(0.0) three(0.0) points(0.0) .(0.0) First(0.0) 
+,(0.0) when(0.0) finally(0.0) faced(0.0) with(0.0) a(0.0) trade(0.0) petition(0.0) like(0.0) the(0.0) one(0.0) filed(0.0) in(0.0) September(0.0) of(0.0) 1998(0.0) ,(0.0) foreign(0.0) countries(0.0) which(0.0) 
+dump(0.0) steel(1.0) on(0.0) the(0.0) U.S.(0.0) market(0.0) simply(0.0) switch(0.0) from(0.0) one(0.0) category(0.0) to(0.0) another(0.0) .(0.0) All(0.0) the(0.0) while(0.0) they(0.0) are(0.0) laughing(0.0) 
+at(0.0) the(0.0) slowness(0.0) and(0.0) the(0.0) expense(1.0) of(0.0) our(0.0) trade(1.0) enforcement(1.0) process(0.0) .(0.0) Second(0.0) ,(0.0) I(0.0) appreciate(0.0) the(0.0) hard(0.0) work(0.0) of(0.0) 
+the(0.0) Commerce(0.0) Department(0.0) but(0.0) when(0.0) we(0.0) hear(0.0) about(0.0) an(0.0) expedited(1.0) trade(1.0) process(0.0) we(0.0) must(0.0) realize(0.0) that(0.0) this(0.0) is(0.0) merely(0.0) shaving(0.0) 
+off(0.0) 20(0.0) to(0.0) 30(0.0) days(0.0) off(0.0) a(0.0) 9-(0.0) to(0.0) 12-month(0.0) process(0.0) .(0.0) Third(0.0) ,(0.0) by(0.0) allowing(0.0) dumping(1.0) we(0.0) are(0.0) deliberately(0.0) 
+sacrificing(0.0) productive(1.0) ,(0.0) nonobsolete(0.0) but(0.0) productive(0.0) United(0.0) States(0.0) jobs(0.0) .(0.0) I(0.0) would(0.0) just(0.0) ask(0.0) my(0.0) colleagues(0.0) today(0.0) ,(0.0) as(0.0) they(0.0) 
+are(0.0) looking(0.0) over(0.0) this(0.0) piece(0.0) of(0.0) legislation(1.0) ,(0.0) to(0.0) look(0.0) at(0.0) it(0.0) very(0.0) closely(0.0) before(0.0) voting(1.0) .(0.0) Get(0.0) a(0.0) complete(0.0) 
+look(0.0) at(0.0) the(0.0) issue(0.0) of(0.0) steel(0.0) and(0.0) the(0.0) steel(0.0) imports(1.0) that(0.0) have(0.0) come(0.0) into(0.0) this(0.0) country(1.0) ,(0.0) and(0.0) I(0.0) think(0.0) 
+when(0.0) my(0.0) colleagues(0.0) see(0.0) an(0.0) accurate(0.0) picture(0.0) of(0.0) this(0.0) they(0.0) will(0.0) be(0.0) led(0.0) to(0.0) support(0.0) this(0.0) bill(1.0) .(0.0) I(0.0) just(0.0) 
+ask(0.0) for(0.0) support(0.0) today(0.0) on(0.0) H.R(0.0) .(0.0) 975(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Archer	
+debate	Speaker	
+
+imports	
+crisis	country	dumping	
+
+steel	
+expense	trade	enforcement	
+expedited	trade	
+dumping	
+productive	
+legislation	voting	
+imports	country	
+bill	
+
+
+reads % = 0.06896551724137931

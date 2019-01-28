@@ -1,0 +1,56 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Florida(0.0) for(0.0) yielding(0.0) and(0.0) I(0.0) thank(0.0) Ms.(0.0) Sanchez(1.0) and(0.0) Mr.(0.0) Lipinski(1.0) as(0.0) well(0.0) ,(0.0) and(0.0) I(0.0) 
+rise(0.0) today(0.0) in(0.0) strong(0.0) support(0.0) of(0.0) H.(0.0) Res(1.0) .(0.0) 916(0.0) honoring(1.0) the(0.0) contributions(0.0) of(0.0) Catholic(1.0) schools(0.0) across(0.0) the(0.0) country(1.0) ,(0.0) 
+for(0.0) the(0.0) upcoming(0.0) commemoration(1.0) of(0.0) National(0.0) Catholic(1.0) Schools(0.0) Week(0.0) from(0.0) January(0.0) 27(0.0) to(0.0) February(0.0) 2(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) as(0.0) 
+a(0.0) graduate(0.0) of(0.0) Catholic(1.0) elementary(0.0) and(0.0) high(0.0) schools(0.0) ,(0.0) Sacred(0.0) Heart(0.0) Academy(0.0) and(0.0) Aquinas(0.0) High(0.0) School(0.0) in(0.0) Augusta(0.0) ,(0.0) Georgia(1.0) 
+,(0.0) I(0.0) am(0.0) keenly(0.0) aware(0.0) of(0.0) the(0.0) contributions(0.0) that(0.0) they(0.0) provide(0.0) to(0.0) the(0.0) 2.3(0.0) million(0.0) students(0.0) across(0.0) this(0.0) country(1.0) they(0.0) 
+teach(0.0) every(0.0) year(0.0) .(0.0) These(0.0) include(0.0) 1,176(0.0) students(0.0) at(0.0) three(0.0) Catholic(1.0) schools(0.0) in(0.0) my(0.0) district(0.0) ,(0.0) the(0.0) 11th(0.0) of(0.0) Georgia(1.0) 
+:(0.0) St.(0.0) Catherine(0.0) of(0.0) Siena(0.0) in(0.0) Kennesaw(1.0) ,(0.0) Georgia(1.0) ;(0.0) St.(1.0) Joseph(0.0) 's(0.0) in(0.0) my(0.0) hometown(0.0) of(0.0) Marietta(1.0) ,(0.0) Georgia(1.0) 
+;(0.0) and(0.0) St.(1.0) Mary(0.0) 's(0.0) in(0.0) Floyd(0.0) County(1.0) ,(0.0) Rome(0.0) ,(0.0) Georgia(1.0) .(0.0) Not(0.0) only(0.0) do(0.0) Catholic(1.0) schools(1.0) ,(0.0) like(0.0) 
+Sacred(0.0) Heart(0.0) and(0.0) Aquinas(1.0) ,(0.0) provide(0.0) a(0.0) strong(0.0) and(0.0) competitive(0.0) academic(0.0) environment(0.0) ,(0.0) they(0.0) also(0.0) teach(0.0) moral(1.0) and(0.0) ethical(1.0) standards(0.0) 
+,(0.0) skills(0.0) for(0.0) living(0.0) and(0.0) self(0.0) esteem(0.0) ,(0.0) and(0.0) a(0.0) Christian(0.0) integration(0.0) of(0.0) spirit(0.0) ,(0.0) mind(0.0) ,(0.0) and(0.0) body(0.0) in(0.0) 
+each(0.0) of(0.0) their(0.0) students(0.0) .(0.0) Upon(0.0) graduating(0.0) from(0.0) Aquinas(1.0) ,(0.0) I(0.0) thought(0.0) that(0.0) the(0.0) Catholic(1.0) school(0.0) curriculum(0.0) would(0.0) be(0.0) what(0.0) 
+best(0.0) prepared(0.0) me(0.0) for(0.0) my(0.0) future(0.0) .(0.0) But(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) must(0.0) admit(0.0) that(0.0) I(0.0) was(0.0) wrong(0.0) .(0.0) 
+While(0.0) the(0.0) strenuous(0.0) academics(1.0) at(0.0) Sacred(0.0) Heart(0.0) and(0.0) Aquinas(1.0) did(0.0) lay(0.0) the(0.0) foundation(0.0) for(0.0) success(0.0) at(0.0) Georgia(1.0) Tech(0.0) and(0.0) the(0.0) 
+Medical(0.0) College(0.0) of(0.0) Georgia(0.0) ,(0.0) it(0.0) was(0.0) the(0.0) faith(0.0) and(0.0) ethical(0.0) standards(0.0) taught(0.0) at(0.0) these(0.0) schools(1.0) that(0.0) truly(0.0) prepared(0.0) me(0.0) 
+for(0.0) life(0.0) 's(0.0) struggles(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) while(0.0) opening(0.0) and(0.0) running(0.0) my(0.0) medical(0.0) practice(0.0) ,(0.0) the(0.0) respect(0.0) for(0.0) life(0.0) 
+at(0.0) Sacred(0.0) Heart(0.0) and(0.0) Aquinas(1.0) led(0.0) me(0.0) to(0.0) value(0.0) and(0.0) care(0.0) for(0.0) life(0.0) at(0.0) all(0.0) stages(0.0) from(0.0) conception(1.0) on(0.0) .(0.0) 
+And(0.0) now(0.0) that(0.0) I(0.0) have(0.0) left(0.0) my(0.0) medical(0.0) career(0.0) to(0.0) serve(0.0) as(0.0) Member(0.0) of(0.0) this(0.0) great(0.0) body(0.0) ,(0.0) I(0.0) find(0.0) 
+my(0.0) lessons(0.0) from(0.0) these(0.0) Catholic(1.0) schools(1.0) more(0.0) valuable(0.0) than(0.0) ever(0.0) on(0.0) a(0.0) daily(0.0) basis(0.0) .(0.0) We(0.0) are(0.0) all(0.0) confronted(0.0) with(0.0) 
+difficult(0.0) questions(0.0) that(0.0) affect(0.0) millions(1.0) of(0.0) lives(0.0) .(0.0) If(0.0) it(0.0) were(0.0) not(0.0) for(0.0) the(0.0) moral(1.0) standards(0.0) and(0.0) the(0.0) faith(1.0) in(0.0) 
+God(0.0) taught(0.0) at(0.0) Sacred(0.0) Heart(0.0) and(0.0) Aquinas(1.0) ,(0.0) I(0.0) do(0.0) not(0.0) believe(0.0) that(0.0) I(0.0) could(0.0) properly(0.0) represent(0.0) the(0.0) people(0.0) of(0.0) 
+northwest(1.0) Georgia(1.0) .(0.0) So(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) Catholic(1.0) schools(1.0) in(0.0) northwest(1.0) Georgia(1.0) and(0.0) all(0.0) across(0.0) our(0.0) great(0.0) country(1.0) provide(0.0) 
+an(0.0) incredible(0.0) valuable(0.0) service(0.0) to(0.0) our(0.0) education(1.0) system(0.0) and(0.0) truly(0.0) prepare(0.0) their(0.0) students(0.0) for(0.0) a(0.0) bright(0.0) future(0.0) .(0.0) I(0.0) urge(0.0) 
+all(0.0) of(0.0) my(0.0) colleagues(0.0) ,(0.0) support(0.0) H.(0.0) Res(1.0) .(0.0) 916(0.0) .(0.0) Ms.(1.0) LINDA(1.0) T.(1.0) SANCHEZ(1.0) of(0.0) California(0.0) .(0.0) Mr.(0.0) Speaker(1.0) 
+,(0.0) if(0.0) I(0.0) could(0.0) inquire(0.0) from(0.0) my(0.0) colleague(0.0) how(0.0) many(0.0) more(0.0) speakers(0.0) he(0.0) has(0.0) remaining(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Sanchez	Lipinski	
+Res	honoring	Catholic	country	
+commemoration	Catholic	Speaker	
+Catholic	Georgia	
+country	
+Catholic	Georgia	
+Kennesaw	Georgia	St.	Marietta	Georgia	
+St.	County	Georgia	Catholic	schools	
+Aquinas	moral	ethical	
+
+Aquinas	Catholic	
+Speaker	
+academics	Aquinas	Georgia	
+schools	
+Speaker	
+Aquinas	conception	
+
+Catholic	schools	
+millions	moral	faith	
+Aquinas	
+northwest	Georgia	Speaker	Catholic	schools	northwest	Georgia	country	
+education	
+Res	Ms.	LINDA	T.	SANCHEZ	Speaker	
+
+
+reads % = 0.12159329140461216

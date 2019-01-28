@@ -1,0 +1,16 @@
+This is from a Republican
+----- below is the original text -----
+To(0.0) try(0.0) to(0.0) make(0.0) it(0.0) a(0.0) little(0.0) more(0.0) understandable(0.0) ,(0.0) if(0.0) you(0.0) were(0.0) a(0.0) baseball(0.0) player(0.0) ,(0.0) maybe(0.0) you(0.0) could(0.0) understand(0.0) 
+it(0.0) if(0.0) we(0.0) put(0.0) 48(0.0) baseballs(0.0) in(0.0) one(0.0) basket(0.0) and(0.0) in(0.0) another(0.0) basket(0.0) we(0.0) put(0.0) 67(0.0) baseballs(0.0) ,(0.0) and(0.0) ask(0.0) 
+them(0.0) ,(0.0) ``(0.0) Which(0.0) basket(0.0) has(0.0) more(0.0) balls(0.0) ?(0.0) ''(0.0) I(0.0) think(0.0) they(0.0) would(0.0) say(0.0) the(0.0) one(0.0) with(0.0) 67(0.0) baseballs(0.0) 
+in(0.0) it(0.0) has(0.0) more(0.0) .(0.0) That(0.0) would(0.0) be(0.0) an(0.0) increase(1.0) ,(0.0) would(0.0) it(0.0) not(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+
+increase	
+
+reads % = 0.013157894736842105

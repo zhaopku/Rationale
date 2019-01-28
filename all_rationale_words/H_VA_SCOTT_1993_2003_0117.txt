@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) a(0.0) couple(0.0) of(0.0) things(0.0) that(0.0) have(0.0) been(0.0) said(0.0) that(0.0) I(0.0) think(0.0) need(0.0) direct(0.0) response(0.0) to(0.0) .(0.0) One(0.0) is(0.0) you(0.0) 
+could(0.0) serve(0.0) more(0.0) children(0.0) if(0.0) you(0.0) allow(0.0) people(0.0) to(0.0) discriminate(1.0) .(0.0) That(0.0) is(0.0) not(0.0) true(0.0) .(0.0) You(0.0) will(0.0) serve(0.0) more(0.0) 
+people(0.0) if(0.0) you(0.0) put(0.0) more(0.0) money(1.0) into(0.0) the(0.0) Head(0.0) Start(0.0) program(1.0) .(0.0) There(0.0) are(0.0) plenty(0.0) of(0.0) sponsors(0.0) who(0.0) are(0.0) willing(0.0) 
+to(0.0) provide(0.0) services(0.0) without(0.0) discriminating(1.0) .(0.0) Second(0.0) ,(0.0) you(0.0) lose(0.0) your(0.0) right(0.0) to(0.0) discriminate(1.0) .(0.0) You(0.0) do(0.0) not(0.0) lose(0.0) your(0.0) 
+right(0.0) to(0.0) discriminate(1.0) with(0.0) your(0.0) church(1.0) money(0.0) if(0.0) you(0.0) sponsor(0.0) a(0.0) federally(1.0) funded(1.0) program(0.0) ,(0.0) but(0.0) you(0.0) can(0.0) not(0.0) discriminate(1.0) 
+with(0.0) the(0.0) taxpayers(1.0) '(0.0) money(0.0) .(0.0) I(0.0) think(0.0) that(0.0) needs(0.0) to(0.0) be(0.0) said(0.0) in(0.0) response(0.0) to(0.0) some(0.0) of(0.0) the(0.0) comments(0.0) 
+previously(0.0) made(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+discriminate	
+money	program	
+discriminating	discriminate	
+discriminate	church	federally	funded	discriminate	
+taxpayers	
+
+
+reads % = 0.08870967741935484

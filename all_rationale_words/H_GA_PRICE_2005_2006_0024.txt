@@ -1,0 +1,24 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) am(0.0) so(0.0) glad(0.0) you(0.0) joined(0.0) us(0.0) to(0.0) talk(0.0) about(0.0) this(0.0) ,(0.0) because(0.0) that(0.0) is(0.0) what(0.0) the(0.0) Official(0.0) Truth(0.0) Squad(0.0) is(0.0) 
+all(0.0) about(0.0) ,(0.0) bringing(0.0) to(0.0) light(0.0) the(0.0) truth(0.0) of(0.0) issues(1.0) ,(0.0) but(0.0) also(0.0) understanding(0.0) and(0.0) appreciating(0.0) and(0.0) articulating(1.0) what(0.0) our(0.0) 
+constituents(1.0) know(0.0) ,(0.0) and(0.0) that(0.0) is(0.0) that(0.0) these(0.0) challenges(1.0) are(0.0) not(0.0) Republican(0.0) challenges(1.0) or(0.0) Democrat(1.0) challenges(1.0) ;(0.0) they(0.0) are(0.0) American(0.0) 
+challenges(0.0) .(0.0) They(0.0) are(0.0) challenges(0.0) we(0.0) all(0.0) have(0.0) to(0.0) face(0.0) together(0.0) .(0.0) I(0.0) know(0.0) the(0.0) gentleman(0.0) joins(0.0) me(0.0) in(0.0) just(0.0) 
+calling(0.0) on(0.0) our(0.0) colleagues(0.0) to(0.0) step(0.0) up(0.0) ,(0.0) to(0.0) recognize(0.0) that(0.0) the(0.0) Iraqi(1.0) people(0.0) need(0.0) our(0.0) support(0.0) now(0.0) more(0.0) than(0.0) 
+ever(0.0) before(0.0) ,(0.0) and(0.0) to(0.0) recognize(0.0) that(0.0) we(0.0) have(0.0) a(0.0) lot(0.0) of(0.0) hurdles(1.0) ,(0.0) a(0.0) lot(0.0) of(0.0) challenges(0.0) ,(0.0) but(0.0) 
+together(0.0) we(0.0) can(0.0) overcome(0.0) them(0.0) ,(0.0) as(0.0) can(0.0) they(0.0) .(0.0) I(0.0) appreciate(0.0) the(0.0) gentleman(0.0) 's(0.0) participation(0.0) tonight(0.0) and(0.0) his(0.0) expertise(0.0) 
+and(0.0) perspective(0.0) to(0.0) the(0.0) Official(0.0) Truth(0.0) Squad(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+issues	articulating	
+constituents	challenges	challenges	Democrat	challenges	
+
+Iraqi	
+hurdles	
+
+
+
+reads % = 0.06040268456375839

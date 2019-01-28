@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+It(0.0) is(0.0) the(0.0) same(0.0) language(0.0) ;(0.0) that(0.0) is(0.0) ,(0.0) the(0.0) State(0.0) political(0.0) subdivision(0.0) is(0.0) the(0.0) same(0.0) definition(1.0) that(0.0) is(0.0) defined(0.0) in(0.0) 
+the(0.0) underlying(0.0) bill(0.0) as(0.0) the(0.0) local(0.0) political(0.0) jurisdiction(1.0) immediately(0.0) below(0.0) the(0.0) level(0.0) of(0.0) State(0.0) government(0.0) ,(0.0) including(0.0) counties(1.0) ,(0.0) parishes(1.0) 
+and(0.0) boroughs(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+definition	
+jurisdiction	counties	parishes	
+boroughs	
+
+reads % = 0.11363636363636363

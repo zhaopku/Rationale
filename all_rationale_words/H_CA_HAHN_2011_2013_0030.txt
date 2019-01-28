@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) today(0.0) we(0.0) find(0.0) our(0.0) Nation(1.0) in(0.0) the(0.0) midst(0.0) of(0.0) a(0.0) government(1.0) shutdown(1.0) and(0.0) in(0.0) the(0.0) shadows(0.0) of(0.0) a(0.0) debt(1.0) 
+default(0.0) .(0.0) A(0.0) week(0.0) into(0.0) the(0.0) shutdown(1.0) ,(0.0) the(0.0) partisan(1.0) gridlock(1.0) in(0.0) Congress(0.0) is(0.0) as(0.0) bad(0.0) as(0.0) ever(0.0) ;(0.0) but(0.0) 
+across(0.0) the(0.0) country(1.0) ,(0.0) millions(1.0) of(0.0) Americans(1.0) are(0.0) finding(0.0) new(0.0) hope(0.0) in(0.0) the(0.0) affordable(1.0) health(1.0) coverage(1.0) on(0.0) the(0.0) online(0.0) exchanges(0.0) 
+.(0.0) Despite(0.0) the(0.0) more(0.0) than(0.0) 40(0.0) Republican(0.0) attempts(1.0) to(1.0) repeal(1.0) ,(1.0) defund(1.0) ,(1.0) or(1.0) derail(1.0) this(1.0) law(1.0) ,(1.0) the(1.0) Affordable(1.0) 
+Care(1.0) Act(1.0) is(1.0) finally(1.0) fulfilling(1.0) the(0.0) promise(1.0) of(0.0) dependable(1.0) ,(0.0) affordable(1.0) health(1.0) coverage(1.0) for(0.0) millions(1.0) of(0.0) our(0.0) fellow(0.0) Americans(1.0) .(0.0) 
+On(0.0) opening(0.0) day(0.0) ,(0.0) the(0.0) exchanges(1.0) were(0.0) inundated(0.0) with(0.0) millions(1.0) of(0.0) users(0.0) --(0.0) Americans(1.0) excited(0.0) to(0.0) learn(0.0) more(0.0) about(0.0) their(0.0) 
+new(0.0) coverage(1.0) options(0.0) .(0.0) It(0.0) was(0.0) a(0.0) little(0.0) bumpy(0.0) ,(0.0) as(0.0) expected(0.0) ,(0.0) but(0.0) no(0.0) fleeting(0.0) Web(0.0) page(0.0) glitches(0.0) can(0.0) 
+distract(0.0) us(0.0) from(0.0) the(0.0) fact(0.0) that(0.0) for(0.0) the(0.0) first(0.0) time(0.0) millions(1.0) of(0.0) uninsured(1.0) Americans(1.0) who(0.0) have(0.0) lived(0.0) in(0.0) dread(0.0) that(0.0) 
+an(0.0) illness(0.0) or(0.0) an(0.0) accident(0.0) could(0.0) plunge(0.0) them(0.0) into(0.0) financial(1.0) ruin(1.0) will(0.0) finally(0.0) have(0.0) access(0.0) to(0.0) good(0.0) coverage(1.0) that(0.0) they(0.0) 
+can(0.0) afford(1.0) .(0.0) Today(0.0) is(0.0) a(0.0) dark(0.0) day(0.0) here(0.0) in(0.0) D.C.(1.0) ,(0.0) but(0.0) for(0.0) the(0.0) thousands(0.0) of(0.0) people(0.0) I(0.0) represent(0.0) 
+,(0.0) a(0.0) long(0.0) night(0.0) is(0.0) ending(0.0) .(0.0) And(0.0) that(0.0) 's(0.0) worth(0.0) celebrating(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Nation	government	shutdown	debt	
+shutdown	partisan	gridlock	
+country	millions	Americans	affordable	health	coverage	
+attempts	to	repeal	,	defund	,	or	derail	this	law	,	the	Affordable	
+Care	Act	is	finally	fulfilling	promise	dependable	affordable	health	coverage	millions	Americans	
+exchanges	millions	Americans	
+coverage	
+millions	uninsured	Americans	
+financial	ruin	coverage	
+afford	D.C.	
+
+
+reads % = 0.2336448598130841

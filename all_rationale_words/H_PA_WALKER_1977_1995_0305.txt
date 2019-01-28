@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(1.0) ,(0.0) I(0.0) would(1.0) certainly(0.0) interpret(1.0) ``(0.0) person(0.0) ''(0.0) narrowly(1.0) to(0.0) mean(0.0) only(0.0) an(0.0) awardee(1.0) institution(0.0) and(0.0) not(0.0) its(0.0) affiliates(1.0) or(0.0) 
+subcontractors(1.0) .(0.0) Similarly(1.0) ,(0.0) we(0.0) would(1.0) not(0.0) view(0.0) contracts(0.0) that(0.0) receive(0.0) funding(1.0) under(0.0) the(0.0) Federal(1.0) acquisition(1.0) regulation(1.0) procedures(0.0) for(0.0) noncompetitive(1.0) 
+procurements(1.0) as(0.0) ``(1.0) not(0.0) subjected(1.0) to(0.0) a(0.0) competitive(0.0) ,(0.0) merit-(1.0) based(1.0) award(0.0) process(1.0) .(0.0) ''(0.0) 
+
+
+----- below are rationale words -----
+
+would	interpret	narrowly	awardee	affiliates	
+subcontractors	Similarly	would	funding	Federal	acquisition	regulation	noncompetitive	
+procurements	``	subjected	merit-	based	process	
+
+reads % = 0.3392857142857143

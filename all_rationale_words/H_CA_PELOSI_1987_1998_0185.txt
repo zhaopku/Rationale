@@ -1,0 +1,34 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) to(0.0) commend(0.0) President(1.0) Clinton(1.0) for(0.0) his(0.0) strong(0.0) commitment(1.0) to(0.0) the(0.0) education(1.0) of(0.0) America(1.0) 's(0.0) children(0.0) .(0.0) This(0.0) 
+issue(0.0) has(0.0) been(0.0) central(0.0) to(0.0) his(0.0) public(0.0) service(0.0) ,(0.0) and(0.0) it(0.0) is(0.0) central(0.0) to(0.0) the(0.0) lives(0.0) of(0.0) America(1.0) 's(0.0) children(0.0) 
+.(0.0) It(0.0) is(0.0) important(0.0) for(0.0) our(0.0) children(0.0) to(0.0) receive(0.0) a(0.0) clear(0.0) message(0.0) from(0.0) us(0.0) ,(0.0) and(0.0) I(0.0) am(0.0) afraid(0.0) that(0.0) 
+our(0.0) Republican(1.0) colleagues(1.0) are(1.0) sending(1.0) a(1.0) mixed(1.0) message(1.0) to(1.0) America(1.0) 's(1.0) children(1.0) .(1.0) Children(1.0) are(1.0) smart(1.0) .(1.0) When(1.0) we(1.0) tell(1.0) 
+them(0.0) that(0.0) education(1.0) is(0.0) important(0.0) for(0.0) their(0.0) own(0.0) self(0.0) fulfillment(0.0) ,(0.0) for(0.0) the(0.0) competitiveness(1.0) of(0.0) our(0.0) country(1.0) ,(0.0) indeed(0.0) for(0.0) 
+our(0.0) national(1.0) defense(1.0) ,(0.0) they(0.0) get(0.0) one(0.0) message(0.0) .(0.0) They(0.0) get(0.0) another(0.0) message(0.0) when(0.0) we(0.0) say(0.0) it(0.0) is(0.0) important(0.0) ,(0.0) 
+but(0.0) we(0.0) are(0.0) going(0.0) to(0.0) send(0.0) you(0.0) to(0.0) a(0.0) school(0.0) that(0.0) is(0.0) crumbling(1.0) ,(0.0) leaking(1.0) ,(0.0) not(0.0) equipped(0.0) with(0.0) the(0.0) 
+wiring(0.0) for(0.0) modernization(1.0) ,(0.0) and(0.0) we(0.0) are(0.0) not(0.0) going(0.0) to(0.0) support(0.0) ,(0.0) the(0.0) Republicans(1.0) are(1.0) not(1.0) going(1.0) to(1.0) support(1.0) ,(1.0) 
+school(1.0) construction(1.0) so(1.0) that(1.0) they(1.0) can(0.0) be(0.0) in(0.0) smaller(0.0) classes(0.0) .(0.0) Smaller(0.0) classes(0.0) net(0.0) more(0.0) teachers(0.0) .(0.0) That(0.0) is(0.0) why(0.0) 
+President(0.0) Clinton's(0.0) proposal(1.0) for(0.0) 100,000(0.0) new(0.0) teachers(1.0) is(0.0) so(0.0) important(0.0) .(0.0) It(0.0) is(0.0) not(0.0) for(0.0) administrative(0.0) cost(0.0) ,(0.0) and(0.0) it(0.0) 
+is(0.0) not(0.0) about(0.0) local(0.0) control(0.0) .(0.0) It(0.0) is(0.0) about(0.0) saying(0.0) to(0.0) local(0.0) governments(1.0) this(0.0) money(1.0) is(0.0) for(0.0) teachers(0.0) ,(0.0) it(0.0) 
+is(0.0) not(0.0) for(0.0) administration(1.0) .(0.0) Stop(0.0) insulting(1.0) the(0.0) intelligence(0.0) of(0.0) America(1.0) 's(0.0) children(0.0) .(0.0) Support(0.0) President(0.0) Clinton(1.0) 's(0.0) school(0.0) construction(0.0) 
+plan(0.0) and(0.0) 100,000(0.0) new(0.0) teachers(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+President	Clinton	commitment	education	America	
+America	
+
+Republican	colleagues	are	sending	a	mixed	message	to	America	's	children	.	Children	are	smart	.	When	we	tell	
+education	competitiveness	country	
+national	defense	
+crumbling	leaking	
+modernization	Republicans	are	not	going	to	support	,	
+school	construction	so	that	they	
+proposal	teachers	
+governments	money	
+administration	insulting	America	Clinton	
+teachers	
+
+reads % = 0.21862348178137653

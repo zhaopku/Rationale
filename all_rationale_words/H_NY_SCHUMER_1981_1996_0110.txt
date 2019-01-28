@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) trust(0.0) the(0.0) gentleman(0.0) will(0.0) do(0.0) the(0.0) right(0.0) thing(0.0) ,(0.0) and(0.0) I(0.0) appreciate(0.0) that(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) would(0.0) just(0.0) 
+like(0.0) to(0.0) say(0.0) that(0.0) this(0.0) is(0.0) an(0.0) amendment(1.0) that(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) Mexico(1.0) and(0.0) I(0.0) worked(0.0) on(0.0) and(0.0) the(0.0) 
+fact(0.0) that(0.0) we(0.0) can(0.0) come(0.0) to(0.0) an(0.0) amiable(0.0) agreement(0.0) .(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Kentucky(1.0) and(0.0) the(0.0) 
+gentleman(0.0) from(0.0) West(0.0) Virginia(0.0) for(0.0) helping(0.0) facilitate(0.0) that(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	
+amendment	Mexico	
+Kentucky	
+
+
+reads % = 0.05714285714285714

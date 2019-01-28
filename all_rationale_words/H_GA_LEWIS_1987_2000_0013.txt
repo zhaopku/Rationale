@@ -1,0 +1,40 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Pennsylvania(1.0) ((0.0) Mr.(0.0) Coyne(1.0) )(0.0) for(1.0) yielding(1.0) me(0.0) this(0.0) time(0.0) .(0.0) I(0.0) 
+rise(0.0) today(0.0) in(0.0) support(0.0) of(0.0) the(0.0) amendment(1.0) of(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) ((0.0) Mr.(0.0) Doggett(1.0) )(0.0) that(1.0) the(0.0) Republicans(1.0) voted(1.0) 
+down(1.0) in(1.0) committee(1.0) and(1.0) blocked(1.0) from(1.0) being(1.0) offered(1.0) to(1.0) the(1.0) Taxpayers(1.0) '(1.0) Bill(1.0) of(1.0) Rights(1.0) today(1.0) .(1.0) Every(1.0) person(1.0) in(0.0) 
+America(1.0) realizes(1.0) the(0.0) importance(0.0) and(0.0) the(0.0) necessity(1.0) of(0.0) fixing(1.0) our(0.0) system(0.0) of(0.0) financing(1.0) elections(1.0) .(0.0) This(0.0) amendment(1.0) is(0.0) an(0.0) important(0.0) 
+step(0.0) toward(0.0) campaign(1.0) finance(1.0) reform(1.0) .(0.0) It(0.0) will(0.0) close(0.0) another(0.0) loophole(1.0) in(0.0) the(0.0) financial(1.0) disclosure(1.0) laws(1.0) .(0.0) It(0.0) would(0.0) clean(0.0) 
+up(0.0) the(0.0) mess(1.0) created(0.0) by(0.0) section(0.0) 527(1.0) political(1.0) organizations(1.0) .(0.0) These(0.0) organizations(1.0) can(0.0) take(0.0) unlimited(0.0) money(0.0) from(0.0) almost(0.0) any(0.0) source(0.0) 
+,(0.0) even(0.0) foreign(1.0) money(1.0) ,(0.0) and(0.0) make(0.0) expenditures(1.0) without(0.0) any(0.0) disclosure(1.0) to(0.0) anyone(0.0) .(0.0) It(0.0) is(0.0) a(0.0) sham(1.0) ,(0.0) it(0.0) 
+is(0.0) a(0.0) shame(0.0) ,(0.0) and(0.0) it(0.0) is(0.0) a(0.0) disgrace(1.0) .(0.0) The(0.0) American(0.0) people(0.0) deserve(1.0) better(0.0) .(0.0) Much(0.0) better(0.0) .(0.0) The(0.0) 
+amendment(1.0) requires(1.0) simple(0.0) disclosure(1.0) by(0.0) these(0.0) organizations(1.0) .(0.0) The(0.0) American(0.0) people(0.0) have(0.0) a(0.0) right(0.0) to(0.0) know(0.0) .(0.0) They(0.0) have(0.0) a(0.0) 
+right(0.0) to(0.0) know(0.0) who(0.0) is(0.0) funding(1.0) political(1.0) campaigns(0.0) in(0.0) our(0.0) country(1.0) .(0.0) They(0.0) have(0.0) a(0.0) right(0.0) to(0.0) know(0.0) who(0.0) is(0.0) 
+behind(0.0) the(0.0) attack(1.0) ads(0.0) .(0.0) The(0.0) American(0.0) people(0.0) have(0.0) a(0.0) right(0.0) to(0.0) a(0.0) free(0.0) and(0.0) fair(0.0) election(1.0) process(0.0) .(0.0) We(0.0) 
+need(0.0) to(0.0) end(0.0) the(0.0) pollution(1.0) of(0.0) the(0.0) political(1.0) process(0.0) in(0.0) our(0.0) country(1.0) .(0.0) There(0.0) is(0.0) already(0.0) too(0.0) much(0.0) money(1.0) in(0.0) 
+the(0.0) political(1.0) process(0.0) .(0.0) There(0.0) is(0.0) no(0.0) room(0.0) for(0.0) secrecy(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) am(0.0) very(0.0) disappointed(0.0) that(0.0) the(0.0) 
+Doggett(1.0) amendment(1.0) will(0.0) not(0.0) be(0.0) included(0.0) in(0.0) this(0.0) bill(1.0) .(0.0) We(0.0) need(0.0) to(0.0) fix(0.0) the(0.0) mess(1.0) and(0.0) we(0.0) need(0.0) to(0.0) 
+fix(0.0) it(0.0) now(0.0) .(0.0) I(0.0) urge(0.0) all(0.0) of(0.0) my(0.0) colleagues(0.0) to(0.0) vote(1.0) for(0.0) the(0.0) Doggett(1.0) amendment(1.0) when(0.0) it(0.0) finally(0.0) comes(0.0) 
+up(0.0) for(0.0) a(0.0) vote(0.0) on(0.0) the(0.0) House(0.0) floor(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Pennsylvania	Coyne	for	yielding	
+amendment	Doggett	that	Republicans	voted	
+down	in	committee	and	blocked	from	being	offered	to	the	Taxpayers	'	Bill	of	Rights	today	.	Every	person	
+America	realizes	necessity	fixing	financing	elections	amendment	
+campaign	finance	reform	loophole	financial	disclosure	laws	
+mess	527	political	organizations	organizations	
+foreign	money	expenditures	disclosure	sham	
+disgrace	deserve	
+amendment	requires	disclosure	organizations	
+funding	political	country	
+attack	election	
+pollution	political	country	money	
+political	secrecy	Speaker	
+Doggett	amendment	bill	mess	
+vote	Doggett	amendment	
+
+
+reads % = 0.24838709677419354

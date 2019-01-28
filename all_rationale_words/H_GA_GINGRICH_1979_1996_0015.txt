@@ -1,0 +1,22 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) want(1.0) to(0.0) take(0.0) this(0.0) opportunity(0.0) to(0.0) remember(0.0) the(0.0) 11(0.0) Israeli(1.0) Olympic(1.0) athletes(0.0) and(0.0) coaches(0.0) who(0.0) were(0.0) victims(0.0) of(0.0) 
+terrorism(1.0) on(0.0) September(0.0) 6(0.0) ,(0.0) 1972(0.0) ,(0.0) during(0.0) the(0.0) Olympic(1.0) games(0.0) in(0.0) Munich(1.0) ,(0.0) Germany(1.0) .(0.0) On(0.0) Sunday(0.0) ,(0.0) July(0.0) 
+28(1.0) ,(0.0) 1996(0.0) ,(0.0) the(0.0) Atlanta(0.0) Jewish(1.0) Federation(0.0) along(0.0) with(0.0) the(0.0) Olympic(1.0) Committee(0.0) of(0.0) Israel(0.0) will(0.0) host(0.0) a(0.0) memorial(1.0) service(0.0) 
+honoring(0.0) the(0.0) Olympic(0.0) competitors(0.0) who(0.0) were(0.0) killed(0.0) by(0.0) terrorists(1.0) in(0.0) 1972(0.0) .(0.0) During(1.0) this(0.0) occasion(0.0) ,(0.0) a(0.0) sculpture(1.0) with(0.0) an(0.0) 
+eternal(1.0) flame(0.0) ,(0.0) the(0.0) Olympic(1.0) rings(0.0) ,(0.0) and(0.0) the(0.0) names(0.0) of(0.0) the(0.0) victims(1.0) will(0.0) be(0.0) unveiled(1.0) as(0.0) a(0.0) reminder(0.0) of(0.0) 
+the(0.0) tragedy(1.0) and(0.0) loss(0.0) suffered(0.0) on(0.0) that(0.0) dreadful(1.0) day(0.0) 24(0.0) years(0.0) ago(1.0) .(0.0) We(0.0) remember(0.0) again(0.0) today(1.0) the(0.0) families(0.0) and(0.0) 
+friends(0.0) of(0.0) these(0.0) athletes(0.0) and(0.0) coaches(0.0) who(0.0) suffered(0.0) such(0.0) a(0.0) terrible(0.0) loss(0.0) at(0.0) the(0.0) hands(0.0) of(0.0) ruthless(1.0) terrorists(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+want	Israeli	Olympic	
+terrorism	Olympic	Munich	Germany	
+28	Jewish	Olympic	memorial	
+terrorists	During	sculpture	
+eternal	Olympic	victims	unveiled	
+tragedy	dreadful	ago	today	
+ruthless	terrorists	
+
+reads % = 0.17142857142857143

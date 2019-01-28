@@ -1,0 +1,36 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) regarding(0.0) Ed(1.0) Madigan(1.0) ,(0.0) are(0.0) there(0.0) are(0.0) lots(0.0) of(0.0) things(0.0) that(0.0) could(0.0) be(0.0) said(0.0) ;(0.0) we(0.0) could(0.0) go(0.0) 
+through(0.0) a(0.0) litany(0.0) of(0.0) those(0.0) things(0.0) which(0.0) he(0.0) did(0.0) as(0.0) Secretary(1.0) of(0.0) Agriculture(0.0) or(0.0) as(0.0) a(0.0) Member(0.0) of(0.0) the(0.0) House(0.0) 
+here(0.0) for(0.0) 10(0.0) years(0.0) .(0.0) But(0.0) that(0.0) is(0.0) not(0.0) what(0.0) I(0.0) want(0.0) to(0.0) talk(0.0) about(0.0) .(0.0) In(0.0) the(0.0) few(0.0) seconds(0.0) 
+that(0.0) I(0.0) have(0.0) I(0.0) would(0.0) just(0.0) like(0.0) to(0.0) mention(0.0) a(0.0) couple(0.0) of(0.0) things(0.0) .(0.0) George(0.0) Romney(1.0) used(1.0) to(1.0) describe(1.0) friends(0.0) 
+of(0.0) his(0.0) as(0.0) ``(0.0) a(0.0) great(0.0) human(0.0) .(0.0) ''(0.0) Ed(0.0) was(0.0) a(0.0) great(0.0) human(0.0) .(0.0) He(0.0) had(0.0) an(0.0) impact(0.0) on(0.0) 
+all(0.0) of(0.0) us(0.0) here(0.0) ;(0.0) whether(0.0) it(0.0) was(0.0) ,(0.0) as(0.0) the(0.0) gentleman(0.0) from(0.0) Illinois(1.0) [(0.0) Mr.(0.0) Ewing(1.0) ](0.0) mentioned(1.0) ,(0.0) 
+consensus(1.0) building(0.0) or(0.0) whatever(0.0) ,(0.0) he(0.0) recognized(0.0) and(0.0) emulated(0.0) those(0.0) great(0.0) human(0.0) qualities(0.0) which(0.0) I(0.0) would(0.0) like(0.0) to(0.0) feel(0.0) we(0.0) 
+all(0.0) aspire(0.0) to(0.0) .(0.0) But(0.0) another(0.0) thing(0.0) ,(0.0) President(0.0) Eisenhower(1.0) used(0.0) to(0.0) have(0.0) on(0.0) his(0.0) desk(0.0) a(0.0) saying(0.0) that(0.0) said(0.0) 
+,(0.0) ``(0.0) Suaviter(0.0) in(0.0) modo(0.0) fortiter(1.0) in(0.0) re(0.0) .(0.0) ''(0.0) That(0.0) means(0.0) ,(0.0) ``(0.0) Softly(0.0) in(0.0) manner(0.0) ,(0.0) strongly(0.0) in(0.0) 
+deed(0.0) .(0.0) ''(0.0) That(0.0) is(0.0) what(0.0) Ed(0.0) represented(1.0) .(0.0) We(0.0) talk(0.0) ,(0.0) we(0.0) show(0.0) our(0.0) emotion(0.0) on(0.0) a(0.0) variety(0.0) of(0.0) 
+different(0.0) issues(0.0) ,(0.0) but(0.0) Ed(0.0) was(0.0) always(0.0) interested(0.0) in(0.0) the(0.0) deed(0.0) rather(0.0) than(0.0) the(0.0) emotion(0.0) or(0.0) the(0.0) show(0.0) .(0.0) I(0.0) 
+would(0.0) like(0.0) to(0.0) feel(0.0) that(0.0) as(0.0) he(0.0) was(0.0) trying(0.0) to(0.0) build(0.0) sort(0.0) of(0.0) a(0.0) family-(0.0) friendly(0.0) Agriculture(0.0) Department(0.0) atmosphere(0.0) ,(0.0) 
+down(0.0) here(0.0) we(0.0) are(0.0) trying(0.0) to(0.0) build(0.0) a(0.0) citizen-friendly(1.0) atmosphere(0.0) .(0.0) I(0.0) hope(0.0) he(0.0) would(0.0) be(0.0) proud(0.0) of(0.0) us(0.0) .(0.0) 
+I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	Ed	Madigan	
+Secretary	
+
+Romney	used	to	describe	
+
+Illinois	Ewing	mentioned	
+consensus	
+Eisenhower	
+fortiter	
+represented	
+
+
+citizen-friendly	
+
+
+reads % = 0.05970149253731343

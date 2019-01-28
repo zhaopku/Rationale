@@ -1,0 +1,24 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) withdraw(0.0) my(0.0) reservation(0.0) ,(0.0) because(0.0) it(0.0) is(0.0) so(0.0) important(0.0) to(0.0) my(0.0) city(0.0) that(0.0) we(0.0) get(0.0) as(0.0) much(0.0) relief(1.0) 
+as(0.0) possible(0.0) from(0.0) both(0.0) Houses(0.0) .(0.0) But(0.0) it(0.0) really(0.0) never(0.0) ceases(0.0) to(0.0) amaze(0.0) me(0.0) of(0.0) the(0.0) creative(0.0) legislative(1.0) ability(0.0) of(0.0) 
+our(0.0) distinguished(0.0) chairman(0.0) to(0.0) bring(0.0) together(0.0) ideas(0.0) and(0.0) to(0.0) pull(0.0) them(0.0) together(0.0) without(0.0) the(0.0) input(0.0) of(0.0) the(0.0) members(0.0) of(0.0) the(0.0) 
+committee(0.0) ,(0.0) without(0.0) hearings(0.0) ;(0.0) it(0.0) is(0.0) just(0.0) absolutely(0.0) fascinating(0.0) how(0.0) the(0.0) things(0.0) that(0.0) we(0.0) have(0.0) taken(0.0) for(0.0) granted(1.0) that(0.0) 
+we(0.0) do(0.0) as(0.0) a(0.0) Congress(0.0) or(0.0) we(0.0) do(0.0) as(0.0) a(0.0) committee(0.0) have(0.0) been(0.0) substituted(0.0) by(0.0) the(0.0) inquiries(0.0) that(0.0) the(0.0) Chair(0.0) 
+can(0.0) make(0.0) in(0.0) the(0.0) great(0.0) City(0.0) of(0.0) New(1.0) York(1.0) and(0.0) with(0.0) people(0.0) that(0.0) have(0.0) an(0.0) interest(0.0) in(0.0) the(0.0) City(0.0) of(0.0) 
+New(1.0) York(1.0) .(0.0) So(0.0) this(0.0) is(0.0) not(0.0) the(0.0) time(0.0) to(0.0) object(0.0) ;(0.0) this(0.0) is(0.0) the(0.0) time(0.0) to(0.0) move(0.0) the(0.0) consideration(1.0) 
+of(0.0) this(0.0) bill(1.0) forward(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) withdraw(0.0) my(0.0) reservation(0.0) of(0.0) objection(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+relief	
+legislative	
+
+granted	
+
+New	York	
+New	York	consideration	
+bill	Speaker	objection	
+
+reads % = 0.07051282051282051

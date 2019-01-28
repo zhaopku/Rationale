@@ -1,0 +1,10 @@
+This is from a Republican
+----- below is the original text -----
+What(0.0) I(0.0) heard(0.0) the(0.0) Speaker(0.0) say(0.0) was(0.0) under(0.0) the(0.0) rule(1.0) it(0.0) is(0.0) postponed(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+rule	
+
+reads % = 0.07142857142857142

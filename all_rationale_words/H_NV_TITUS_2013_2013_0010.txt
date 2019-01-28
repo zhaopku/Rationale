@@ -1,0 +1,20 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) the(0.0) Working(0.0) Families(0.0) Flexibility(1.0) Act(0.0) ,(0.0) more(0.0) aptly(0.0) called(0.0) the(0.0) ``(0.0) Paying(0.0) Working(0.0) Families(1.0) Less(0.0) Act(0.0) ,(0.0) ''(0.0) would(0.0) 
+have(0.0) a(0.0) negative(0.0) impact(0.0) on(0.0) families(0.0) in(0.0) Nevada(1.0) and(0.0) across(0.0) the(0.0) country(1.0) .(0.0) H.R(0.0) .(0.0) 1406(0.0) offers(0.0) the(0.0) empty(0.0) choice(0.0) 
+of(0.0) comp(1.0) time(0.0) in(0.0) lieu(1.0) of(0.0) overtime(0.0) wages(1.0) without(0.0) providing(0.0) sufficient(0.0) employee(0.0) protections(1.0) or(0.0) real(0.0) flexibility(0.0) for(0.0) workers(1.0) to(0.0) use(0.0) 
+their(0.0) comp(0.0) time(0.0) when(0.0) they(0.0) need(0.0) it(0.0) the(0.0) most(0.0) .(0.0) Nevadans(1.0) are(0.0) already(0.0) struggling(0.0) to(0.0) make(0.0) ends(0.0) meet(0.0) while(0.0) caring(0.0) 
+for(0.0) their(0.0) families(0.0) .(0.0) I(0.0) oppose(1.0) H.R(0.0) .(0.0) 1406(0.0) because(0.0) I(0.0) believe(0.0) that(0.0) our(0.0) nation(1.0) needs(0.0) legislation(1.0) that(0.0) will(0.0) protect(1.0) 
+working(0.0) Americans(1.0) and(0.0) strengthen(1.0) the(0.0) middle(1.0) class(1.0) .(0.0) This(0.0) legislation(1.0) does(1.0) the(0.0) opposite(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Flexibility	Families	
+Nevada	country	
+comp	lieu	wages	protections	workers	
+Nevadans	
+oppose	nation	legislation	protect	
+Americans	strengthen	middle	class	legislation	does	
+
+reads % = 0.17391304347826086

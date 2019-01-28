@@ -1,0 +1,38 @@
+This is from a Republican
+----- below is the original text -----
+The(0.0) Acting(0.0) CHAIRMAN(1.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) Michigan(1.0) is(0.0) recognized(0.0) for(0.0) 5(0.0) minutes(1.0) .(0.0) Chairman(1.0) ,(0.0) first(0.0) let(0.0) me(0.0) state(1.0) that(0.0) 
+I(0.0) am(0.0) a(0.0) supporter(1.0) of(0.0) the(0.0) High(0.0) Intensity(1.0) Drug(0.0) Trafficking(0.0) Areas(0.0) program(0.0) .(0.0) I(0.0) think(1.0) it(0.0) is(0.0) apparent(0.0) from(0.0) the(0.0) 
+recommended(0.0) level(0.0) of(0.0) funding(1.0) in(0.0) our(0.0) bill(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) the(0.0) President(1.0) requested(0.0) that(0.0) this(0.0) program(0.0) be(0.0) transferred(1.0) to(0.0) 
+the(0.0) Department(0.0) of(0.0) Justice(0.0) ,(0.0) a(0.0) Department(0.0) not(0.0) under(0.0) the(0.0) jurisdiction(1.0) of(0.0) this(0.0) subcommittee(0.0) ,(0.0) at(0.0) a(0.0) level(0.0) of(0.0) $(0.0) 
+207(0.0) million(1.0) .(0.0) Given(1.0) the(0.0) wide(0.0) support(0.0) for(0.0) this(0.0) program(0.0) ,(0.0) we(0.0) retain(1.0) the(0.0) oversight(0.0) of(0.0) the(0.0) program(0.0) in(0.0) the(0.0) 
+TTHUD(1.0) subcommittee(1.0) and(0.0) increased(0.0) funding(1.0) above(0.0) the(0.0) President(1.0) 's(0.0) request(0.0) $(0.0) 20(0.0) million(0.0) to(0.0) that(0.0) $(0.0) 227(1.0) million(0.0) level(0.0) .(0.0) 
+I(0.0) would(1.0) support(0.0) my(0.0) colleague(1.0) 's(0.0) amount(0.0) if(0.0) this(0.0) were(0.0) not(1.0) a(0.0) zero-sum(1.0) situation(0.0) .(0.0) But(0.0) this(1.0) increase(1.0) has(0.0) to(0.0) 
+come(0.0) from(0.0) another(0.0) program(0.0) ,(0.0) in(0.0) this(0.0) case(0.0) the(0.0) National(0.0) Archives(1.0) and(0.0) Records(1.0) Administration(0.0) ,(0.0) or(1.0) NARA(1.0) .(0.0) NARA(1.0) has(0.0) 
+a(0.0) projected(1.0) $(0.0) 12(1.0) million(0.0) shortfall(1.0) right(1.0) now(0.0) ,(0.0) even(0.0) if(0.0) they(0.0) receive(0.0) full(0.0) funding(1.0) for(0.0) fiscal(0.0) year(0.0) 2007(1.0) .(0.0) 
+A(1.0) hiring(1.0) freeze(0.0) goes(0.0) into(0.0) effect(0.0) on(0.0) the(0.0) beginning(1.0) of(0.0) July(0.0) .(0.0) A(1.0) cut(1.0) of(0.0) $(0.0) 12(1.0) million(0.0) could(0.0) result(0.0) 
+in(0.0) serious(0.0) staffing(1.0) issues(0.0) at(0.0) the(0.0) National(0.0) Archives(1.0) .(0.0) Additionally(1.0) ,(0.0) there(0.0) is(0.0) a(0.0) projected(1.0) reduction(1.0) in(0.0) research(1.0) hours(0.0) and(0.0) 
+hours(0.0) open(0.0) to(0.0) the(0.0) public(0.0) and(0.0) other(0.0) measures(1.0) that(0.0) have(0.0) to(0.0) be(0.0) taken(0.0) even(0.0) with(0.0) full(0.0) funding(1.0) .(0.0) A(1.0) $(0.0) 
+12(0.0) million(0.0) cut(1.0) would(1.0) impose(1.0) further(0.0) reductions(1.0) on(0.0) operating(0.0) hours(0.0) ,(0.0) something(0.0) that(0.0) I(0.0) oppose(1.0) ;(0.0) and(0.0) I(0.0) urge(1.0) my(0.0) 
+colleagues(1.0) ,(0.0) therefore(1.0) ,(0.0) to(0.0) oppose(1.0) this(0.0) amendment(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(1.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+CHAIRMAN	Michigan	minutes	Chairman	state	
+supporter	Intensity	think	
+funding	Chairman	President	transferred	
+jurisdiction	
+million	Given	retain	
+TTHUD	subcommittee	funding	President	227	
+would	colleague	not	zero-sum	this	increase	
+Archives	Records	or	NARA	NARA	
+projected	12	shortfall	right	funding	2007	
+A	hiring	beginning	A	cut	12	
+staffing	Archives	Additionally	projected	reduction	research	
+measures	funding	A	
+cut	would	impose	reductions	oppose	urge	
+colleagues	therefore	oppose	amendment	Chairman	time	
+
+
+reads % = 0.23049645390070922

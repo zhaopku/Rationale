@@ -1,0 +1,40 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(1.0) today(1.0) to(0.0) congratulate(0.0) the(0.0) California(0.0) State(1.0) University(0.0) on(0.0) its(0.0) 50th(1.0) anniversary(1.0) .(0.0) I(0.0) am(1.0) a(0.0) proud(0.0) alumnus(1.0) 
+of(0.0) the(0.0) CSU(1.0) system(0.0) --(0.0) I(0.0) earned(0.0) my(0.0) bachelor(1.0) 's(0.0) degrees(1.0) in(0.0) biological(1.0) sciences(0.0) and(0.0) Spanish(1.0) ,(0.0) and(0.0) my(0.0) master(1.0) 
+'s(0.0) degree(0.0) in(0.0) education(1.0) from(0.0) San(1.0) Jose(1.0) State(0.0) University(0.0) .(0.0) The(0.0) California(0.0) State(1.0) University(1.0) ,(0.0) the(0.0) largest(0.0) state(1.0) university(0.0) system(0.0) 
+in(0.0) the(0.0) nation(1.0) ,(0.0) plays(1.0) a(0.0) significant(0.0) role(0.0) in(0.0) California(0.0) 's(0.0) success(0.0) ,(0.0) with(0.0) graduates(1.0) numbering(0.0) one(0.0) in(0.0) every(0.0) ten(0.0) 
+members(1.0) of(0.0) California(0.0) 's(0.0) workforce(1.0) .(0.0) The(0.0) California(0.0) State(1.0) University(0.0) is(0.0) also(1.0) on(0.0) the(0.0) forefront(1.0) of(0.0) ensuring(0.0) the(0.0) opportunity(0.0) to(0.0) 
+receive(0.0) a(0.0) quality(0.0) college(1.0) education(1.0) for(0.0) the(0.0) state(0.0) 's(0.0) increasingly(0.0) diverse(1.0) population(0.0) .(0.0) With(1.0) 23(0.0) distinct(0.0) campuses(1.0) ,(0.0) from(0.0) my(0.0) 
+alma(1.0) mater(1.0) in(0.0) San(1.0) Jose(1.0) to(0.0) CSU(1.0) Long(0.0) Beach(1.0) and(0.0) the(0.0) California(0.0) Maritime(1.0) Academy(0.0) in(0.0) Vallejo(1.0) ,(0.0) the(0.0) CSU(1.0) system(0.0) 
+brings(0.0) higher(0.0) education(1.0) to(0.0) a(0.0) diverse(1.0) student(0.0) body(0.0) of(0.0) nearly(0.0) 400,000(0.0) students(0.0) every(0.0) year(0.0) .(0.0) In(0.0) 2002-03(1.0) ,(0.0) more(0.0) than(0.0) 
+half(0.0) of(0.0) all(0.0) undergraduate(1.0) degrees(1.0) granted(0.0) to(0.0) Latino(1.0) ,(0.0) African(1.0) American(0.0) and(0.0) Native(1.0) American(0.0) students(1.0) in(0.0) California(0.0) were(0.0) awarded(1.0) by(0.0) 
+the(0.0) CSU(1.0) .(0.0) The(0.0) impact(0.0) of(0.0) the(0.0) CSU(1.0) far(0.0) exceeds(1.0) the(0.0) number(0.0) of(0.0) students(0.0) it(0.0) educates(1.0) .(0.0) The(0.0) CSU(1.0) provides(0.0) 
+more(0.0) than(0.0) 200,000(0.0) jobs(1.0) for(0.0) Californians(1.0) ,(0.0) and(0.0) research(0.0) by(0.0) CSU(1.0) faculty(0.0) and(0.0) staff(0.0) is(0.0) solving(0.0) critical(1.0) problems(0.0) for(0.0) the(0.0) 
+state(0.0) and(0.0) creating(0.0) innovative(0.0) solutions(1.0) for(0.0) business(1.0) and(0.0) industry(1.0) .(0.0) Additionally(1.0) ,(0.0) CSU(1.0) students(0.0) give(0.0) back(0.0) to(0.0) their(0.0) communities(0.0) by(0.0) 
+participating(1.0) in(0.0) 32(0.0) million(0.0) hours(0.0) of(0.0) service(0.0) annually(0.0) .(0.0) In(0.0) conclusion(1.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) it(0.0) is(0.0) with(0.0) great(0.0) pride(1.0) 
+that(0.0) I(0.0) rise(1.0) today(0.0) to(0.0) commend(1.0) the(0.0) California(0.0) State(1.0) University(0.0) system(0.0) on(0.0) 50(0.0) years(0.0) of(0.0) not(1.0) only(0.0) providing(0.0) high-quality(0.0) ,(0.0) 
+affordable(1.0) higher(0.0) education(1.0) to(0.0) meet(1.0) the(0.0) changing(0.0) workforce(1.0) needs(0.0) of(0.0) California(0.0) ,(0.0) but(0.0) also(1.0) preparing(0.0) students(0.0) to(0.0) become(0.0) engaged(0.0) members(1.0) 
+of(0.0) their(0.0) community(1.0) ,(0.0) state(0.0) and(0.0) nation(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+rise	today	State	50th	anniversary	am	alumnus	
+CSU	bachelor	degrees	biological	Spanish	master	
+education	San	Jose	State	University	state	
+nation	plays	graduates	
+members	workforce	State	also	forefront	
+college	education	diverse	With	campuses	
+alma	mater	San	Jose	CSU	Beach	Maritime	Vallejo	CSU	
+education	diverse	2002-03	
+undergraduate	degrees	Latino	African	Native	students	awarded	
+CSU	CSU	exceeds	educates	CSU	
+jobs	Californians	CSU	critical	
+solutions	business	industry	Additionally	CSU	
+participating	conclusion	Speaker	pride	
+rise	commend	State	not	
+affordable	education	meet	workforce	also	members	
+community	nation	
+
+reads % = 0.2621359223300971

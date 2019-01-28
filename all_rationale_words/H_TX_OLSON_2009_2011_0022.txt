@@ -1,0 +1,16 @@
+This is from a Republican
+----- below is the original text -----
+In(0.0) conclusion(0.0) ,(0.0) the(0.0) Keystone(1.0) XL(1.0) pipeline(1.0) will(0.0) strengthen(1.0) America(1.0) 's(0.0) economy(1.0) ,(0.0) reduce(1.0) our(0.0) dependence(1.0) on(0.0) Middle(0.0) Eastern(0.0) oil(0.0) ,(0.0) 
+and(0.0) produce(0.0) hundreds(0.0) of(0.0) thousands(0.0) of(0.0) jobs(0.0) right(0.0) here(0.0) in(0.0) America(1.0) .(0.0) It(0.0) 's(0.0) a(0.0) win/win/win(0.0) .(0.0) I(0.0) urge(0.0) my(0.0) 
+colleagues(0.0) to(0.0) support(0.0) this(0.0) very(0.0) important(0.0) energy(1.0) security(1.0) bill(1.0) that(0.0) creates(0.0) ,(0.0) jobs(0.0) ,(0.0) jobs(0.0) ,(0.0) jobs(0.0) right(0.0) here(0.0) in(0.0) 
+America(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Keystone	XL	pipeline	strengthen	America	economy	reduce	dependence	
+America	
+energy	security	bill	
+America	
+
+reads % = 0.20634920634920634

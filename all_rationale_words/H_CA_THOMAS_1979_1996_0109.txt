@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) the(0.0) gentleman(0.0) correctly(0.0) described(0.0) the(0.0) Democratic(1.0) bill(1.0) .(0.0) What(0.0) it(0.0) does(0.0) is(0.0) coerce(0.0) people(0.0) to(0.0) provide(0.0) subsidies(1.0) so(0.0) 
+that(0.0) government(1.0) can(0.0) attempt(0.0) to(0.0) convince(1.0) people(0.0) they(0.0) should(0.0) not(0.0) exercise(0.0) their(0.0) free(0.0) speech(0.0) rights(1.0) .(0.0) That(0.0) is(0.0) the(0.0) typical(0.0) 
+approach(0.0) that(0.0) the(0.0) Democrats(1.0) use(0.0) in(0.0) the(0.0) use(0.0) of(0.0) government(1.0) ;(0.0) that(0.0) is(0.0) ,(0.0) coercion(1.0) ,(0.0) control(0.0) ,(0.0) and(0.0) limits(1.0) 
+.(0.0) But(0.0) I(0.0) really(0.0) would(0.0) like(0.0) to(0.0) focus(0.0) on(0.0) the(0.0) bill(1.0) itself(0.0) .(0.0) If(0.0) anyone(0.0) is(0.0) interested(0.0) ,(0.0) section(0.0) 304(0.0) 
+says(0.0) ,(0.0) merchandising(0.0) and(0.0) affinity(0.0) cards(0.0) .(0.0) We(0.0) have(0.0) heard(0.0) the(0.0) term(1.0) ``(0.0) true(0.0) reform(1.0) .(0.0) ''(0.0) We(0.0) have(0.0) heard(0.0) 
+common(0.0) sense(0.0) in(0.0) terms(0.0) of(0.0) the(0.0) way(0.0) the(0.0) Democrats(1.0) are(0.0) approaching(0.0) this(0.0) .(0.0) Take(0.0) a(0.0) look(0.0) at(0.0) section(0.0) 304(0.0) .(0.0) 
+It(0.0) says(0.0) ,(0.0) Notwithstanding(0.0) the(0.0) provisions(1.0) of(0.0) this(0.0) section(0.0) or(0.0) any(0.0) other(0.0) provision(1.0) of(0.0) this(0.0) Act(1.0) to(0.0) the(0.0) contrary(1.0) ,(0.0) 
+an(0.0) amount(0.0) received(0.0) from(0.0) a(0.0) corporation(0.0) shall(0.0) be(0.0) deemed(0.0) to(0.0) meet(0.0) the(0.0) limitations(0.0) and(0.0) prohibitions(1.0) of(0.0) this(0.0) act(0.0) if(0.0) such(0.0) 
+amount(0.0) represents(0.0) a(0.0) commission(0.0) or(0.0) a(0.0) royalty(0.0) .(0.0) True(0.0) reform(1.0) or(0.0) a(0.0) scam(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	Democratic	bill	subsidies	
+government	convince	rights	
+Democrats	government	coercion	limits	
+bill	
+term	reform	
+Democrats	
+provisions	provision	Act	contrary	
+prohibitions	
+reform	
+
+reads % = 0.12

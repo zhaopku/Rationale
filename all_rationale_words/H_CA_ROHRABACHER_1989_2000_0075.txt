@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) the(0.0) gentleman(0.0) may(0.0) or(0.0) may(0.0) not(0.0) be(0.0) correct(0.0) in(0.0) terms(0.0) of(0.0) what(0.0) the(0.0) issue(0.0) is(0.0) .(0.0) The(0.0) President(1.0) always(0.0) 
+is(0.0) pushing(0.0) us(0.0) to(0.0) spend(1.0) a(0.0) little(0.0) more(0.0) on(0.0) health(1.0) care(0.0) ,(0.0) a(0.0) little(0.0) more(0.0) on(0.0) education(1.0) .(0.0) But(0.0) the(0.0) 
+fact(0.0) is(0.0) what(0.0) is(0.0) the(0.0) real(0.0) issue(0.0) that(0.0) is(0.0) keeping(0.0) us(0.0) here(0.0) ?(0.0) The(0.0) real(0.0) issue(0.0) is(0.0) the(0.0) President(1.0) has(0.0) 
+demanded(0.0) a(0.0) blanket(0.0) amnesty(1.0) for(0.0) millions(1.0) of(0.0) illegal(1.0) aliens(1.0) in(0.0) our(0.0) society(1.0) .(0.0) So(0.0) all(0.0) this(0.0) money(1.0) that(0.0) he(0.0) is(0.0) 
+talking(0.0) about(0.0) ,(0.0) a(0.0) little(0.0) more(0.0) for(0.0) education(1.0) ,(0.0) a(0.0) little(0.0) more(0.0) for(0.0) health(1.0) care(1.0) ,(0.0) will(0.0) be(0.0) totally(0.0) negated(0.0) 
+even(0.0) if(0.0) we(0.0) give(0.0) in(0.0) to(0.0) the(0.0) President(1.0) because(0.0) we(0.0) will(0.0) be(0.0) then(0.0) adding(0.0) millions(1.0) of(0.0) more(0.0) people(0.0) into(0.0) eligibility(1.0) 
+for(0.0) these(0.0) same(0.0) government(1.0) programs(1.0) .(0.0) The(0.0) President(1.0) is(0.0) keeping(0.0) us(0.0) here(0.0) in(0.0) order(0.0) to(0.0) pressure(0.0) Congress(0.0) to(0.0) issue(0.0) a(0.0) 
+blanket(0.0) amnesty(1.0) for(0.0) millions(1.0) of(0.0) illegal(1.0) aliens(1.0) and(0.0) then(0.0) thus(0.0) making(0.0) them(0.0) eligible(1.0) for(0.0) every(0.0) government(1.0) benefit(0.0) that(0.0) supposedly(0.0) should(0.0) 
+be(0.0) going(0.0) to(0.0) the(0.0) American(0.0) people(0.0) .(0.0) This(0.0) is(0.0) a(0.0) noble(0.0) cause(0.0) for(0.0) us(0.0) to(0.0) stand(0.0) our(0.0) ground(0.0) here(0.0) in(0.0) 
+Congress(1.0) to(0.0) protect(0.0) the(0.0) American(0.0) people(0.0) ,(0.0) not(0.0) to(0.0) let(0.0) the(0.0) President(1.0) bring(0.0) in(0.0) millions(1.0) of(0.0) illegal(1.0) aliens(1.0) in(0.0) order(0.0) 
+to(0.0) consume(1.0) the(0.0) scarce(1.0) resources(0.0) available(0.0) for(0.0) them(0.0) in(0.0) health(1.0) care(1.0) ,(0.0) Social(1.0) Security(0.0) ,(0.0) and(0.0) education(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+President	
+spend	health	education	
+President	
+amnesty	millions	illegal	aliens	society	money	
+education	health	care	
+President	millions	eligibility	
+government	programs	President	
+amnesty	millions	illegal	aliens	eligible	government	
+
+Congress	President	millions	illegal	aliens	
+consume	scarce	health	care	Social	education	
+
+reads % = 0.1689497716894977

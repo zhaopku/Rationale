@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) pursuant(0.0) to(0.0) rule(0.0) XXII(0.0) ,(0.0) clause(0.0) 7(0.0) ((0.0) c(0.0) )(0.0) ,(0.0) I(0.0) hereby(0.0) announce(0.0) my(0.0) intention(0.0) to(0.0) offer(0.0) a(0.0) 
+motion(0.0) to(0.0) instruct(0.0) on(0.0) H.R(0.0) .(0.0) 1588(0.0) ,(0.0) the(0.0) defense(0.0) authorization(0.0) bill(0.0) .(0.0) The(0.0) form(0.0) of(0.0) the(0.0) motion(0.0) is(0.0) as(0.0) 
+follows(0.0) :(0.0) Mr.(0.0) Crowley(1.0) moves(1.0) that(0.0) the(0.0) managers(0.0) on(0.0) the(0.0) part(0.0) of(0.0) the(0.0) House(0.0) at(0.0) the(0.0) conference(0.0) on(0.0) the(0.0) disagreeing(0.0) 
+votes(0.0) of(0.0) the(0.0) two(0.0) Houses(0.0) on(0.0) the(0.0) Senate(0.0) amendment(0.0) to(0.0) the(0.0) bill(0.0) H.R(0.0) .(0.0) 1588(0.0) be(0.0) instructed(0.0) to(0.0) agree(0.0) to(0.0) 
+the(0.0) provisions(0.0) contained(0.0) in(0.0) paragraphs(0.0) ((0.0) 3(0.0) )(0.0) and(0.0) ((0.0) 4(0.0) )(0.0) of(0.0) section(0.0) 1074a(0.0) ((0.0) f(0.0) )(0.0) of(0.0) title(0.0) 
+10(0.0) ,(0.0) United(0.0) States(0.0) Code(0.0) ,(0.0) as(0.0) proposed(0.0) to(0.0) be(0.0) added(0.0) by(0.0) section(0.0) 701(0.0) of(0.0) the(0.0) Senate(0.0) amendment(0.0) ((0.0) relating(0.0) 
+to(0.0) health(0.0) care(0.0) for(0.0) members(0.0) of(0.0) reserve(0.0) components(0.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+Crowley	moves	
+
+
+
+
+
+reads % = 0.015267175572519083

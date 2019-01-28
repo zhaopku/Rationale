@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) lately(0.0) ,(0.0) in(0.0) a(0.0) rare(0.0) turn(0.0) of(0.0) events(0.0) ,(0.0) House(0.0) Democrats(1.0) have(0.0) adopted(1.0) the(0.0) old(0.0) adage(0.0) of(0.0) Republican(0.0) leaders(1.0) 
+and(1.0) ,(1.0) in(1.0) floor(1.0) communications(1.0) ,(1.0) they(1.0) have(1.0) posed(1.0) the(1.0) famous(0.0) question(0.0) from(0.0) Reagan(1.0) ,(0.0) Are(1.0) you(0.0) better(0.0) off(0.0) than(0.0) 
+you(0.0) were(0.0) 4(0.0) years(0.0) ago(0.0) ?(0.0) Well(0.0) ,(0.0) when(0.0) the(0.0) quote(0.0) came(0.0) ,(0.0) I(0.0) think(0.0) Democrats(0.0) have(0.0) found(0.0) a(0.0) moment(0.0) 
+of(0.0) despair(0.0) .(0.0) We(0.0) will(0.0) welcome(0.0) their(0.0) call(0.0) for(0.0) comparison(0.0) of(0.0) today(0.0) 's(0.0) economic(1.0) ,(0.0) international(1.0) and(0.0) domestic(1.0) status(0.0) to(0.0) 
+that(0.0) of(0.0) 4(0.0) years(0.0) .(0.0) Yes(0.0) ,(0.0) we(0.0) are(0.0) better(0.0) off(0.0) now(0.0) .(0.0) Just(0.0) look(0.0) at(0.0) the(0.0) war(1.0) on(0.0) terror(1.0) 
+.(0.0) The(0.0) attacks(1.0) on(0.0) September(0.0) 11(0.0) awakened(0.0) the(0.0) Nation(1.0) to(0.0) the(0.0) threat(1.0) of(0.0) terror(1.0) .(0.0) Republicans(0.0) have(0.0) a(0.0) clear(0.0) strategy(0.0) 
+to(0.0) keep(0.0) Americans(1.0) safe(0.0) and(0.0) to(0.0) spread(0.0) freedom(1.0) and(0.0) peace(1.0) throughout(0.0) the(0.0) world(0.0) .(0.0) In(0.0) the(0.0) past(0.0) 3(0.0) years(0.0) ,(0.0) 
+we(0.0) have(0.0) seen(0.0) great(0.0) progress(0.0) .(0.0) Afghanistan(1.0) is(0.0) free(0.0) ,(0.0) Libya(1.0) is(0.0) now(0.0) disarmed(1.0) ,(0.0) Saddam(1.0) Hussein(1.0) is(0.0) no(0.0) longer(0.0) 
+in(0.0) power(0.0) .(0.0) Iraq(1.0) is(0.0) becoming(0.0) a(0.0) free(0.0) country(0.0) ,(0.0) making(0.0) the(0.0) heart(0.0) of(0.0) the(0.0) Middle(0.0) East(0.0) more(0.0) stable(0.0) and(0.0) 
+America(0.0) more(0.0) secure(0.0) .(0.0) The(0.0) Republican-controlled(1.0) House(0.0) quickly(1.0) passed(0.0) legislation(1.0) creating(0.0) the(0.0) Department(0.0) of(0.0) Homeland(0.0) Security(0.0) in(0.0) 2002(0.0) .(0.0) All(0.0) 
+border(0.0) activity(0.0) has(0.0) been(0.0) consolidated(0.0) into(0.0) the(0.0) Department(0.0) of(0.0) Homeland(0.0) Security(0.0) ,(0.0) a(0.0) single(0.0) agency(0.0) ,(0.0) doing(0.0) away(0.0) with(0.0) the(0.0) 
+fallible(0.0) INS(0.0) ,(0.0) or(0.0) Immigration(1.0) and(0.0) Naturalization(1.0) Service(0.0) ,(0.0) that(0.0) allowed(0.0) the(0.0) September(0.0) 11(0.0) hijackers(0.0) to(0.0) slip(0.0) through(0.0) our(0.0) borders(0.0) 
+,(0.0) rent(0.0) apartments(0.0) ,(0.0) find(0.0) employment(1.0) and(0.0) train(0.0) in(0.0) flight(0.0) schools(1.0) ,(0.0) only(0.0) to(0.0) have(0.0) their(0.0) visas(1.0) approved(0.0) by(0.0) INS(0.0) 
+after(0.0) they(0.0) carried(0.0) out(0.0) attacks(0.0) on(0.0) the(0.0) Twin(0.0) Towers(0.0) and(0.0) the(0.0) Pentagon(1.0) .(0.0) The(0.0) Department(0.0) of(0.0) Homeland(0.0) Security(0.0) is(0.0) implementing(0.0) 
+background(0.0) checks(0.0) on(0.0) 100(0.0) percent(0.0) of(0.0) applications(0.0) for(0.0) U.S.(0.0) citizenship(1.0) and(0.0) has(0.0) registered(0.0) over(0.0) 1.5(0.0) million(1.0) travelers(1.0) into(0.0) the(0.0) United(0.0) 
+States(0.0) VISIT(0.0) program(0.0) .(0.0) Over(0.0) 500,000(0.0) first(0.0) responders(1.0) have(0.0) been(0.0) trained(0.0) in(0.0) weapons(0.0) of(0.0) mass(1.0) destruction(1.0) ,(0.0) awareness(1.0) and(0.0) response(0.0) 
+since(0.0) September(0.0) 11(0.0) ,(0.0) 2001(0.0) .(0.0) The(0.0) USA(0.0) PATRIOT(1.0) Act(0.0) has(0.0) broken(0.0) down(0.0) unnecessary(1.0) barriers(1.0) between(0.0) intelligence(0.0) and(0.0) law(1.0) enforcement(1.0) 
+officers(0.0) ,(0.0) ensuring(0.0) that(0.0) the(0.0) best(0.0) available(0.0) information(0.0) about(0.0) terrorist(1.0) threats(0.0) is(0.0) provided(0.0) to(0.0) people(0.0) who(0.0) need(0.0) it(0.0) most(0.0) .(0.0) 
+After(0.0) two(0.0) rounds(0.0) of(0.0) across-the-board(1.0) ,(0.0) Republican-led(1.0) tax(1.0) cuts(1.0) in(1.0) 2001(1.0) and(1.0) 2003(0.0) ,(0.0) America(1.0) 's(0.0) economy(1.0) is(0.0) strong(0.0) and(0.0) 
+growing(0.0) stronger(0.0) ,(0.0) and(0.0) we(0.0) have(0.0) overcome(0.0) the(0.0) triple(1.0) shock(0.0) of(0.0) terrorist(1.0) attacks(1.0) ,(0.0) corporate(1.0) scandals(1.0) and(1.0) recession(1.0) .(0.0) Americans(1.0) 
+are(0.0) seeing(0.0) the(0.0) benefit(1.0) of(0.0) the(0.0) Republican(1.0) progrowth(1.0) agenda(1.0) .(1.0) In(1.0) the(1.0) eighth(1.0) straight(1.0) month(1.0) of(1.0) growth(1.0) ,(0.0) the(0.0) economy(1.0) 
+created(1.0) 288,000(1.0) jobs(1.0) in(0.0) April(1.0) ,(0.0) bringing(0.0) the(0.0) total(0.0) increase(1.0) since(0.0) August(0.0) to(0.0) more(0.0) than(0.0) 1.1(0.0) million(0.0) jobs(1.0) created(0.0) .(0.0) 
+The(0.0) real(0.0) gross(0.0) domestic(1.0) product(0.0) has(0.0) grown(0.0) at(0.0) its(0.0) fastest(0.0) rate(0.0) in(0.0) almost(0.0) 20(0.0) years(0.0) over(0.0) the(0.0) last(0.0) three-quarters(1.0) .(0.0) 
+Productivity(0.0) has(0.0) grown(0.0) at(0.0) its(0.0) fastest(0.0) rate(0.0) in(0.0) 40(0.0) years(0.0) .(0.0) Homeownership(1.0) is(0.0) at(0.0) an(0.0) all-time(0.0) high(0.0) ,(0.0) 68.6(1.0) percent(0.0) 
+,(0.0) with(0.0) substantial(1.0) gains(0.0) among(0.0) minority(1.0) homeowners(1.0) .(0.0) We(0.0) have(0.0) the(0.0) highest(0.0) total(0.0) number(0.0) of(0.0) people(0.0) working(0.0) in(0.0) the(0.0) 
+
+
+----- below are rationale words -----
+
+Democrats	adopted	leaders	
+and	,	in	floor	communications	,	they	have	posed	the	Reagan	Are	
+
+economic	international	domestic	
+war	terror	
+attacks	Nation	threat	terror	
+Americans	freedom	peace	
+Afghanistan	Libya	disarmed	Saddam	Hussein	
+Iraq	
+Republican-controlled	quickly	legislation	
+
+Immigration	Naturalization	
+employment	schools	visas	
+Pentagon	
+citizenship	million	travelers	
+responders	mass	destruction	awareness	
+PATRIOT	unnecessary	barriers	law	enforcement	
+terrorist	
+across-the-board	Republican-led	tax	cuts	in	2001	and	America	economy	
+triple	terrorist	attacks	corporate	scandals	and	recession	Americans	
+benefit	Republican	progrowth	agenda	.	In	the	eighth	straight	month	of	growth	economy	
+created	288,000	jobs	April	increase	jobs	
+domestic	three-quarters	
+Homeownership	68.6	
+substantial	minority	homeowners	
+
+reads % = 0.196

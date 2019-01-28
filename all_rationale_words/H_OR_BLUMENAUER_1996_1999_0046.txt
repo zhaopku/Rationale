@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Michigan(1.0) for(0.0) yielding(0.0) me(0.0) this(0.0) time(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) the(0.0) modest(1.0) provisions(1.0) that(0.0) 
+we(0.0) have(0.0) before(0.0) us(0.0) today(0.0) have(0.0) sent(0.0) the(0.0) gun(1.0) lobby(1.0) into(0.0) a(1.0) frenzy(1.0) because(1.0) it(0.0) explodes(1.0) the(0.0) myth(1.0) that(0.0) we(0.0) 
+are(0.0) powerless(1.0) to(0.0) act(1.0) only(0.0) to(0.0) pass(0.0) foolish(1.0) symbolic(0.0) legislation(1.0) .(0.0) We(0.0) can(0.0) explode(0.0) that(0.0) myth(1.0) .(0.0) We(0.0) can(0.0) stand(0.0) 
+up(0.0) to(0.0) the(0.0) gun(1.0) lobby(1.0) .(1.0) Every(0.0) day(0.0) in(0.0) America(1.0) we(0.0) have(0.0) another(0.0) Littleton(0.0) .(0.0) It(0.0) is(0.0) just(0.0) that(0.0) the(0.0) 
+dead(0.0) children(0.0) are(0.0) scattered(0.0) across(0.0) America(1.0) rather(0.0) than(0.0) concentrated(0.0) in(0.0) one(0.0) place(0.0) for(0.0) the(0.0) media(1.0) .(0.0) I(0.0) pray(0.0) that(0.0) our(0.0) 
+hearts(0.0) are(0.0) not(0.0) so(0.0) hardened(0.0) that(0.0) all(0.0) the(0.0) carnage(1.0) has(0.0) to(0.0) be(0.0) in(0.0) one(0.0) place(0.0) before(0.0) we(0.0) have(0.0) the(0.0) courage(0.0) 
+to(0.0) act(0.0) .(0.0) Please(0.0) vote(1.0) for(0.0) the(0.0) Conyers(1.0) amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Michigan	Chairman	modest	provisions	
+gun	lobby	a	frenzy	because	explodes	myth	
+powerless	act	foolish	legislation	myth	
+gun	lobby	.	America	
+America	media	
+carnage	
+vote	Conyers	amendment	
+
+reads % = 0.1984732824427481

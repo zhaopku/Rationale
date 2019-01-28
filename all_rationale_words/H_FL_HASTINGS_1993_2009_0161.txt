@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) did(0.0) not(0.0) ask(0.0) my(0.0) distinguished(0.0) good(0.0) friend(0.0) ,(0.0) because(0.0) I(0.0) did(0.0) n't(0.0) know(0.0) how(0.0) many(0.0) speakers(0.0) he(0.0) had(0.0) ,(0.0) and(0.0) 
+I(0.0) did(0.0) n't(0.0) want(0.0) to(0.0) interdict(1.0) the(0.0) program(1.0) as(0.0) it(0.0) is(0.0) set(0.0) forth(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) rise(0.0) in(0.0) 
+very(0.0) strong(0.0) support(0.0) of(0.0) the(0.0) resolution(1.0) offered(0.0) in(0.0) a(0.0) bipartisan(1.0) fashion(1.0) and(0.0) demonstrating(0.0) very(0.0) strongly(0.0) how(0.0) we(0.0) do(0.0) respond(0.0) to(0.0) 
+those(0.0) who(0.0) are(0.0) in(0.0) need(0.0) .(0.0) In(0.0) the(0.0) case(0.0) of(0.0) Eni(1.0) Faleomavaega(1.0) ,(0.0) American(0.0) Samoa(1.0) has(0.0) had(0.0) for(0.0) a(0.0) considerable(0.0) 
+period(0.0) of(0.0) time(0.0) a(0.0) distinguished(0.0) Member(0.0) of(0.0) this(0.0) body(0.0) who(0.0) has(0.0) helped(0.0) so(0.0) many(0.0) of(0.0) us(0.0) when(0.0) we(0.0) have(0.0) had(0.0) 
+difficulties(0.0) such(0.0) as(0.0) in(0.0) Hurricane(1.0) Andrew(0.0) .(0.0) Those(0.0) that(0.0) live(0.0) in(0.0) these(0.0) areas(0.0) ,(0.0) or(0.0) my(0.0) friend(0.0) that(0.0) just(0.0) spoke(0.0) 
+from(0.0) Hawaii(1.0) ,(0.0) all(0.0) of(0.0) us(0.0) understand(0.0) these(0.0) dynamics(0.0) .(0.0) Eni(0.0) ,(0.0) our(0.0) heart(0.0) goes(0.0) out(0.0) to(0.0) you(0.0) .(0.0) As(0.0) 
+one(0.0) who(0.0) has(0.0) visited(0.0) American(0.0) Samoa(1.0) with(0.0) you(0.0) on(0.0) three(0.0) different(0.0) occasions(0.0) and(0.0) had(0.0) the(0.0) good(0.0) fortune(0.0) of(0.0) bringing(0.0) my(0.0) 
+son(0.0) there(0.0) ,(0.0) I(0.0) just(0.0) want(0.0) you(0.0) to(0.0) know(0.0) how(0.0) heavy(0.0) my(0.0) heart(0.0) was(0.0) when(0.0) I(0.0) saw(0.0) those(0.0) places(0.0) ,(0.0) 
+and(0.0) my(0.0) heart(0.0) goes(0.0) out(0.0) to(0.0) you(0.0) and(0.0) all(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+interdict	program	Speaker	
+resolution	bipartisan	fashion	
+Eni	Faleomavaega	Samoa	
+
+Hurricane	
+Hawaii	
+Samoa	
+
+
+
+reads % = 0.06282722513089005

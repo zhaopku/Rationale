@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) pursuant(0.0) to(0.0) House(0.0) Resolution(1.0) 139(0.0) ,(0.0) I(0.0) call(0.0) up(0.0) the(0.0) bill(1.0) ((1.0) H.R(1.0) .(0.0) 5(0.0) )(0.0) to(0.0) improve(0.0) patient(0.0) 
+access(0.0) to(0.0) health(0.0) care(0.0) services(0.0) and(0.0) provide(0.0) improved(0.0) medical(0.0) care(0.0) by(0.0) reducing(1.0) the(0.0) excessive(0.0) burden(1.0) the(0.0) liability(0.0) system(0.0) places(0.0) on(0.0) 
+the(0.0) health(1.0) care(0.0) delivery(0.0) system(0.0) ,(0.0) and(0.0) ask(0.0) for(0.0) its(0.0) immediate(0.0) consideration(0.0) .(0.0) The(0.0) Clerk(0.0) read(0.0) the(0.0) title(0.0) of(0.0) the(0.0) 
+bill(0.0) .(0.0) The(0.0) SPEAKER(0.0) pro(0.0) tempore(0.0) ((1.0) Mr.(0.0) Simpson(1.0) )(0.0) .(0.0) Pursuant(0.0) to(0.0) House(0.0) Resolution(0.0) 139(0.0) ,(0.0) the(0.0) bill(0.0) is(0.0) 
+considered(0.0) read(0.0) for(0.0) amendment(0.0) .(0.0) The(0.0) text(0.0) of(0.0) H.R(0.0) .(0.0) 5(0.0) is(0.0) as(0.0) follows(0.0) :(0.0) H.R(0.0) .(0.0) 5(0.0) Be(0.0) it(0.0) 
+enacted(0.0) by(0.0) the(0.0) Senate(0.0) and(0.0) House(0.0) of(0.0) Representatives(0.0) of(0.0) the(0.0) United(0.0) States(0.0) of(0.0) America(0.0) in(0.0) Congress(0.0) assembled(0.0) ,(0.0) SECTION(0.0) 1(0.0) 
+.(0.0) SHORT(0.0) TITLE(0.0) .(0.0) This(0.0) Act(0.0) may(0.0) be(0.0) cited(0.0) as(0.0) the(0.0) ``(0.0) Help(0.0) Efficient(0.0) ,(0.0) Accessible(0.0) ,(0.0) Low-Cost(0.0) ,(0.0) Timely(0.0) 
+Healthcare(0.0) ((0.0) HEALTH(0.0) )(0.0) Act(0.0) of(0.0) 2003(0.0) ''(0.0) .(0.0) SEC(0.0) .(0.0) 2(0.0) .(0.0) FINDINGS(0.0) AND(0.0) PURPOSE(0.0) .(0.0) ((0.0) a(0.0) )(0.0) 
+Findings.(0.0) --(0.0) ((0.0) 1(0.0) )(0.0) Effect(0.0) on(0.0) health(0.0) care(0.0) access(0.0) and(0.0) costs.(0.0) --(0.0) Congress(0.0) finds(0.0) that(0.0) our(0.0) current(0.0) civil(0.0) justice(0.0) 
+system(0.0) is(0.0) adversely(0.0) affecting(0.0) patient(0.0) access(0.0) to(0.0) health(0.0) care(0.0) services(0.0) ,(0.0) better(0.0) patient(0.0) care(0.0) ,(0.0) and(0.0) cost-efficient(1.0) health(1.0) care(0.0) ,(0.0) 
+in(0.0) that(0.0) the(0.0) health(1.0) care(0.0) liability(0.0) system(0.0) is(0.0) a(0.0) costly(0.0) and(0.0) ineffective(0.0) mechanism(0.0) for(0.0) resolving(0.0) claims(0.0) of(0.0) health(1.0) care(0.0) liability(0.0) 
+and(0.0) compensating(0.0) injured(0.0) patients(0.0) ,(0.0) and(0.0) is(0.0) a(0.0) deterrent(0.0) to(0.0) the(0.0) sharing(0.0) of(0.0) information(0.0) among(0.0) health(1.0) care(0.0) professionals(0.0) which(0.0) impedes(1.0) 
+efforts(1.0) to(0.0) improve(0.0) patient(0.0) safety(0.0) and(0.0) quality(0.0) of(0.0) care(0.0) .(0.0) ((0.0) 2(0.0) )(0.0) Effect(0.0) on(0.0) interstate(1.0) commerce.(0.0) --(0.0) Congress(0.0) finds(0.0) 
+that(0.0) the(0.0) health(1.0) care(0.0) and(0.0) insurance(0.0) industries(1.0) are(0.0) industries(1.0) affecting(0.0) interstate(1.0) commerce(1.0) and(0.0) the(0.0) health(1.0) care(0.0) liability(1.0) litigation(1.0) systems(0.0) existing(0.0) 
+throughout(0.0) the(0.0) United(0.0) States(0.0) are(0.0) activities(0.0) that(0.0) affect(0.0) interstate(1.0) commerce(1.0) by(0.0) contributing(0.0) to(0.0) the(0.0) high(0.0) costs(1.0) of(0.0) health(1.0) care(0.0) and(0.0) 
+premiums(1.0) for(0.0) health(1.0) care(0.0) liability(1.0) insurance(1.0) purchased(0.0) by(0.0) health(1.0) care(1.0) system(0.0) providers(1.0) .(0.0) ((0.0) 3(0.0) )(0.0) Effect(0.0) on(0.0) federal(1.0) spending.(0.0) 
+--(0.0) Congress(0.0) finds(0.0) that(0.0) the(0.0) health(1.0) care(0.0) liability(1.0) litigation(1.0) systems(0.0) existing(0.0) throughout(0.0) the(0.0) United(0.0) States(0.0) have(0.0) a(0.0) significant(0.0) effect(0.0) on(0.0) 
+the(0.0) amount(0.0) ,(0.0) distribution(0.0) ,(0.0) and(0.0) use(0.0) of(0.0) Federal(1.0) funds(1.0) because(0.0) of(0.0) --(0.0) ((0.0) A(0.0) )(0.0) the(0.0) large(0.0) number(0.0) of(0.0) 
+individuals(0.0) who(0.0) receive(0.0) health(0.0) care(0.0) benefits(0.0) under(0.0) programs(0.0) operated(0.0) or(0.0) financed(0.0) by(0.0) the(0.0) Federal(1.0) Government(1.0) ;(0.0) ((0.0) B(0.0) )(0.0) the(0.0) 
+large(0.0) number(0.0) of(0.0) individuals(0.0) who(0.0) benefit(0.0) because(0.0) of(0.0) the(0.0) exclusion(0.0) from(0.0) Federal(0.0) taxes(1.0) of(0.0) the(0.0) amounts(0.0) spent(0.0) to(0.0) provide(0.0) them(0.0) 
+with(0.0) health(1.0) insurance(0.0) benefits(0.0) ;(0.0) and(0.0) ((0.0) C(0.0) )(0.0) the(0.0) large(0.0) number(0.0) of(0.0) health(0.0) care(0.0) providers(0.0) who(0.0) provide(0.0) items(0.0) or(0.0) 
+services(0.0) for(0.0) which(0.0) the(0.0) Federal(0.0) Government(0.0) makes(0.0) payments(0.0) .(0.0) ((0.0) b(0.0) )(0.0) Purpose.(0.0) --(0.0) It(0.0) is(0.0) the(0.0) purpose(0.0) of(0.0) this(0.0) 
+Act(0.0) to(0.0) implement(0.0) reasonable(0.0) ,(0.0) comprehensive(0.0) ,(0.0) and(0.0) effective(0.0) health(1.0) care(0.0) liability(1.0) reforms(1.0) designed(0.0) to(0.0) --(0.0) ((0.0) 1(0.0) )(0.0) improve(0.0) 
+the(0.0) availability(0.0) of(0.0) health(1.0) care(0.0) services(0.0) in(0.0) cases(0.0) in(0.0) which(0.0) health(1.0) care(0.0) liability(1.0) actions(0.0) have(0.0) been(0.0) shown(0.0) to(0.0) be(0.0) a(0.0) 
+factor(0.0) in(0.0) the(0.0) decreased(0.0) availability(0.0) of(0.0) services(0.0) ;(0.0) ((0.0) 2(0.0) )(0.0) reduce(0.0) the(0.0) incidence(0.0) of(0.0) ``(0.0) defensive(0.0) medicine(0.0) ''(0.0) 
+
+
+----- below are rationale words -----
+
+Resolution	bill	(	H.R	
+reducing	burden	
+health	
+(	Simpson	
+
+
+
+
+
+cost-efficient	health	
+health	health	
+health	impedes	
+efforts	interstate	
+health	industries	industries	interstate	commerce	health	liability	litigation	
+interstate	commerce	costs	health	
+premiums	health	liability	insurance	health	care	providers	federal	
+health	liability	litigation	
+Federal	funds	
+Federal	Government	
+taxes	
+health	
+
+health	liability	reforms	
+health	health	liability	
+
+
+reads % = 0.104

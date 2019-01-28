@@ -1,0 +1,16 @@
+This is from a Republican
+----- below is the original text -----
+If(0.0) I(0.0) may(0.0) say(0.0) ,(0.0) I(0.0) admire(0.0) your(0.0) verbal(0.0) sleight-of-hand(0.0) because(0.0) never(0.0) in(0.0) the(0.0) past(0.0) has(0.0) royalty(0.0) sharing(0.0) been(0.0) considered(0.0) earmarks(0.0) 
+.(0.0) But(0.0) if(0.0) now(0.0) we(0.0) 're(0.0) going(0.0) to(0.0) start(0.0) considering(0.0) royalty(1.0) sharing(0.0) earmarks(1.0) ,(0.0) heck(0.0) ,(0.0) let(0.0) 's(0.0) go(0.0) back(0.0) 
+and(0.0) look(0.0) at(0.0) every(0.0) State(1.0) .(0.0) But(0.0) that(0.0) is(0.0) ,(0.0) again(0.0) ,(0.0) a(0.0) verbal(0.0) sleight-of-hand(0.0) .(0.0) That(0.0) is(0.0) not(0.0) under(0.0) 
+the(0.0) definition(1.0) of(0.0) an(0.0) earmark(1.0) ,(0.0) and(0.0) I(0.0) think(0.0) the(0.0) gentleman(0.0) knows(0.0) that(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+royalty	earmarks	
+State	
+definition	earmark	
+
+reads % = 0.06666666666666667

@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) greed(1.0) has(0.0) won(0.0) and(0.0) America(1.0) and(0.0) baseball(0.0) fans(0.0) have(0.0) lost(0.0) .(0.0) Baseball(0.0) has(0.0) become(0.0) just(0.0) another(0.0) big(0.0) faceless(0.0) conglomerate(1.0) 
+and(0.0) no(0.0) longer(0.0) the(0.0) national(1.0) pastime(0.0) .(0.0) The(0.0) owners(0.0) wo(0.0) n't(0.0) give(0.0) .(0.0) The(0.0) players(0.0) wo(0.0) n't(0.0) give(0.0) .(0.0) The(0.0) 
+White(1.0) House(0.0) tried(0.0) its(0.0) best(0.0) .(0.0) Now(0.0) it(0.0) 's(0.0) time(0.0) for(0.0) the(0.0) Congress(0.0) to(0.0) step(0.0) up(0.0) to(0.0) the(0.0) plate(0.0) and(0.0) 
+not(0.0) stay(0.0) in(0.0) the(0.0) bleachers(0.0) .(0.0) Let(0.0) us(0.0) support(0.0) the(0.0) President(1.0) and(0.0) his(0.0) call(0.0) for(0.0) binding(0.0) arbitration(1.0) .(0.0) That(0.0) does(0.0) 
+n't(0.0) mean(0.0) taking(0.0) sides(0.0) between(0.0) these(0.0) two(0.0) Goliaths(0.0) .(0.0) This(0.0) is(0.0) just(0.0) a(0.0) dispute(1.0) about(0.0) money(1.0) and(0.0) the(0.0) heck(0.0) with(0.0) 
+everyone(0.0) else(0.0) .(0.0) On(0.0) behalf(0.0) of(0.0) America(1.0) 's(0.0) fans(0.0) ,(0.0) we(0.0) should(0.0) not(0.0) stand(0.0) for(0.0) this(0.0) .(0.0) And(0.0) who(0.0) will(0.0) 
+stand(0.0) for(0.0) the(0.0) hot(0.0) dog(0.0) vendors(0.0) and(0.0) the(0.0) ushers(0.0) and(0.0) the(0.0) concessionaires(1.0) and(0.0) all(0.0) of(0.0) those(0.0) who(0.0) depend(0.0) on(0.0) baseball(0.0) 
+for(0.0) a(0.0) job(0.0) ?(0.0) Can(0.0) we(0.0) imagine(0.0) even(0.0) another(0.0) summer(0.0) without(0.0) baseball(0.0) ?(0.0) For(0.0) many(0.0) of(0.0) us(0.0) ,(0.0) that(0.0) is(0.0) 
+a(0.0) matter(0.0) of(0.0) national(1.0) security(0.0) that(0.0) requires(0.0) us(0.0) to(0.0) intervene(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+greed	America	conglomerate	
+national	
+White	
+President	arbitration	
+dispute	money	
+America	
+concessionaires	
+
+national	
+
+reads % = 0.06976744186046512

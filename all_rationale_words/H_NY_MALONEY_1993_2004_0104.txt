@@ -1,0 +1,56 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) while(0.0) I(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) this(0.0) conference(0.0) report(0.0) ,(0.0) I(0.0) would(0.0) like(0.0) to(0.0) go(0.0) on(0.0) record(0.0) with(0.0) a(0.0) 
+concern(0.0) that(0.0) the(0.0) New(1.0) York(1.0) City(1.0) Mayor(0.0) 's(0.0) office(0.0) has(0.0) brought(0.0) to(0.0) my(0.0) attention(0.0) .(0.0) Mr.(0.0) Speaker(1.0) it(0.0) is(0.0) my(0.0) 
+hope(0.0) that(0.0) we(0.0) can(0.0) work(0.0) to(0.0) make(0.0) sure(0.0) that(0.0) New(1.0) York(1.0) City(1.0) 's(0.0) concerns(0.0) are(0.0) addressed(0.0) as(0.0) we(0.0) implement(0.0) this(0.0) 
+legislation(1.0) .(0.0) New(0.0) York(1.0) City(1.0) had(0.0) attempted(0.0) to(0.0) address(0.0) concerns(0.0) regarding(0.0) vital(0.0) statistics(0.0) earlier(0.0) this(0.0) year(0.0) in(0.0) this(0.0) bill(1.0) but(0.0) 
+it(0.0) appears(0.0) that(0.0) in(0.0) conference(0.0) some(0.0) matters(0.0) of(0.0) importance(0.0) to(0.0) New(1.0) York(1.0) City(1.0) have(0.0) been(0.0) dropped(0.0) .(0.0) First(0.0) of(0.0) all(0.0) 
+,(0.0) New(1.0) York(1.0) City(1.0) maintains(0.0) vital(1.0) statistical(0.0) data(0.0) on(0.0) its(0.0) own(0.0) much(0.0) like(0.0) Washington(1.0) ,(0.0) DC(1.0) and(0.0) therefore(0.0) there(0.0) is(0.0) 
+a(0.0) need(0.0) to(0.0) treat(0.0) New(1.0) York(1.0) City(1.0) and(0.0) Washington(1.0) ,(0.0) DC(1.0) as(0.0) States(0.0) relative(0.0) to(0.0) minimum(0.0) standards(1.0) for(0.0) birth(1.0) certificates(0.0) 
+.(0.0) While(0.0) the(0.0) bill(1.0) calls(1.0) for(0.0) there(0.0) being(0.0) grants(1.0) to(0.0) States(0.0) ,(0.0) for(0.0) assistance(1.0) in(0.0) meeting(0.0) federal(1.0) standard(0.0) allocation(0.0) of(0.0) 
+grants(1.0) ,(0.0) this(0.0) program(1.0) is(0.0) estimated(0.0) to(0.0) cost(1.0) in(0.0) excess(1.0) of(0.0) $(0.0) 400(0.0) million(0.0) nationwide(1.0) ,(0.0) of(0.0) which(0.0) New(1.0) York(1.0) 
+City(1.0) needs(0.0) --(0.0) which(0.0) would(0.0) be(0.0) dependent(0.0) on(0.0) many(0.0) factors(0.0) ,(0.0) including(0.0) the(0.0) costs(1.0) of(0.0) modifying(0.0) legacy(1.0) computer(0.0) systems(0.0) ,(0.0) 
+converting(0.0) birth(1.0) and(0.0) death(0.0) records(0.0) that(0.0) may(0.0) be(0.0) decades(0.0) old(0.0) ,(0.0) and(0.0) the(0.0) number(0.0) of(0.0) records(0.0) --(0.0) will(0.0) be(0.0) more(0.0) 
+than(0.0) $(0.0) 7(0.0) million(0.0) .(0.0) This(0.0) funding(1.0) need(0.0) is(0.0) not(0.0) reflected(0.0) in(0.0) the(0.0) bill(1.0) which(0.0) calls(0.0) for(0.0) these(0.0) grants(1.0) to(0.0) 
+be(0.0) based(0.0) on(0.0) a(0.0) proportion(0.0) of(0.0) the(0.0) birth(1.0) and(0.0) death(0.0) records(0.0) created(0.0) by(0.0) the(0.0) State(0.0) .(0.0) These(0.0) number(0.0) of(0.0) records(0.0) 
+are(0.0) only(0.0) a(0.0) small(0.0) factor(0.0) in(0.0) the(0.0) formula(0.0) that(0.0) needs(0.0) to(0.0) be(0.0) developed(0.0) and(0.0) should(0.0) not(0.0) be(0.0) the(0.0) sole(1.0) factor(0.0) 
+in(0.0) funding(1.0) allotments(0.0) .(0.0) The(0.0) formula(1.0) for(0.0) such(0.0) should(0.0) be(0.0) developed(0.0) after(0.0) consultation(0.0) with(0.0) State(1.0) vital(0.0) statistic(0.0) offices(0.0) .(0.0) Furthermore(0.0) 
+,(0.0) the(0.0) section(0.0) Driver(0.0) 's(0.0) Licenses(1.0) and(0.0) Personal(0.0) Identification(0.0) Cards(0.0) --(0.0) Standards(0.0) for(0.0) Acceptance(0.0) by(0.0) Federal(1.0) Agencies(1.0) --(0.0) Minimum(0.0) Standards(0.0) 
+will(0.0) likely(0.0) require(0.0) the(0.0) Electronic(0.0) Verification(0.0) of(0.0) Vital(1.0) Events(0.0) ((0.0) EVVE(0.0) )(0.0) .(0.0) However(0.0) ,(0.0) the(0.0) bill(1.0) does(1.0) not(0.0) provide(0.0) 
+for(0.0) consultation(0.0) with(0.0) State(0.0) vital(0.0) statistics(0.0) offices(0.0) ,(0.0) or(0.0) for(0.0) funding(1.0) the(0.0) vital(1.0) statistics(0.0) systems(0.0) needed(0.0) for(0.0) EVVE(0.0) .(0.0) Similarly(0.0) 
+,(0.0) the(0.0) section(0.0) on(0.0) Social(0.0) Security(0.0) Cards(0.0) and(0.0) Numbers(0.0) :(0.0) Security(0.0) Enhancements(0.0) requires(0.0) independent(0.0) verification(0.0) of(0.0) any(0.0) birth(0.0) record(0.0) submitted(0.0) 
+by(0.0) an(0.0) individual(0.0) to(0.0) SSA(0.0) for(0.0) purposes(0.0) other(0.0) than(0.0) enumeration(0.0) at(0.0) birth(0.0) .(0.0) However(0.0) ,(0.0) it(0.0) does(0.0) not(0.0) provide(0.0) for(0.0) 
+systems(0.0) or(0.0) funding(1.0) to(0.0) vital(1.0) statistics(0.0) offices(0.0) .(0.0) And(0.0) while(0.0) this(0.0) section(0.0) requires(0.0) the(0.0) Commissioner(0.0) of(0.0) Social(0.0) Security(0.0) to(0.0) undertake(0.0) 
+improvements(0.0) to(0.0) the(0.0) Enumeration(0.0) At(0.0) Birth(0.0) ((0.0) EAB(0.0) )(0.0) program(0.0) .(0.0) The(0.0) Commissioner(0.0) of(0.0) Social(0.0) Security(0.0) should(0.0) do(0.0) this(0.0) in(0.0) 
+consultation(0.0) with(0.0) State(0.0) vital(0.0) statistics(0.0) offices(0.0) as(0.0) should(0.0) the(0.0) Commissioner(0.0) of(0.0) Social(0.0) Security(0.0) 's(0.0) study(0.0) to(0.0) determine(0.0) the(0.0) most(0.0) efficient(0.0) 
+options(0.0) for(0.0) ensuring(0.0) the(0.0) integrity(0.0) of(0.0) the(0.0) process(0.0) for(0.0) enumeration(0.0) at(0.0) birth(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+New	York	City	Speaker	
+New	York	City	
+legislation	York	City	bill	
+New	York	City	
+New	York	City	vital	Washington	DC	
+New	York	City	Washington	DC	standards	birth	
+bill	calls	grants	assistance	federal	
+grants	program	cost	excess	nationwide	New	York	
+City	costs	legacy	
+birth	
+funding	bill	grants	
+birth	
+sole	
+funding	formula	State	
+Licenses	Federal	Agencies	
+Vital	bill	does	
+funding	vital	
+
+
+funding	vital	
+
+
+
+
+reads % = 0.12869198312236288

@@ -1,0 +1,34 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Chair(0.0) ,(0.0) I(0.0) rise(0.0) to(0.0) claim(0.0) time(0.0) in(0.0) opposition(1.0) to(0.0) the(0.0) amendment(1.0) ,(0.0) although(0.0) at(0.0) this(0.0) time(0.0) I(0.0) do(0.0) not(0.0) 
+expect(0.0) to(0.0) oppose(1.0) it(0.0) .(0.0) The(0.0) Acting(0.0) CHAIR(0.0) .(0.0) Without(0.0) objection(1.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Minnesota(1.0) is(0.0) recognized(0.0) for(0.0) 5(0.0) 
+minutes(0.0) .(0.0) There(0.0) was(0.0) no(0.0) objection(0.0) .(0.0) Madam(0.0) Chair(1.0) ,(0.0) this(0.0) amendment(1.0) kind(0.0) of(0.0) attempts(1.0) to(0.0) cobble(1.0) together(0.0) a(0.0) new(0.0) 
+system(0.0) that(0.0) will(0.0) provide(0.0) students(0.0) ,(0.0) families(0.0) and(0.0) colleges(1.0) the(0.0) types(0.0) of(0.0) delinquency(1.0) prevention(1.0) ,(0.0) default(0.0) aversion(0.0) and(0.0) financial(1.0) literacy(1.0) 
+services(0.0) available(0.0) today(0.0) under(0.0) the(0.0) FFEL(1.0) Program(0.0) .(0.0) I(0.0) do(0.0) not(0.0) oppose(1.0) these(0.0) types(0.0) of(0.0) activities(0.0) ;(0.0) I(0.0) support(0.0) them(0.0) 
+.(0.0) But(0.0) the(0.0) existence(0.0) of(0.0) this(0.0) amendment(1.0) ,(0.0) it(0.0) seems(0.0) to(0.0) me(0.0) ,(0.0) is(0.0) proof(0.0) that(0.0) we(0.0) are(0.0) eliminating(1.0) these(0.0) 
+important(0.0) benefits(1.0) by(0.0) eliminating(1.0) the(0.0) FFEL(1.0) Program(0.0) .(0.0) Rather(0.0) than(0.0) figuring(0.0) out(0.0) a(0.0) better(0.0) way(0.0) to(0.0) keep(0.0) the(0.0) FFEL(1.0) Program(0.0) 
+,(0.0) to(0.0) keep(0.0) the(0.0) private(0.0) sector(0.0) involved(0.0) ,(0.0) the(0.0) majority(1.0) is(0.0) attempting(0.0) to(0.0) wedge(1.0) some(0.0) of(0.0) its(0.0) components(0.0) into(0.0) the(0.0) 
+direct(0.0) loan(0.0) program(0.0) .(0.0) I(0.0) am(0.0) concerned(0.0) that(0.0) the(0.0) net(0.0) result(0.0) will(0.0) mean(0.0) fewer(0.0) students(0.0) served(0.0) with(0.0) more(0.0) red(0.0) tape(0.0) 
+for(0.0) those(0.0) who(0.0) do(0.0) wish(0.0) to(0.0) obtain(0.0) these(0.0) services(0.0) .(0.0) As(0.0) I(0.0) said(0.0) ,(0.0) Madam(0.0) Chair(1.0) ,(0.0) I(0.0) am(0.0) not(0.0) 
+going(0.0) to(0.0) oppose(1.0) this(0.0) amendment(1.0) ,(0.0) but(0.0) Members(0.0) should(0.0) know(0.0) there(0.0) is(0.0) a(0.0) much(0.0) easier(0.0) way(0.0) to(0.0) preserve(1.0) the(0.0) value-(0.0) 
+added(0.0) elements(0.0) of(0.0) FFEL(1.0) .(0.0) Rather(0.0) than(0.0) destroying(1.0) the(0.0) program(1.0) and(0.0) working(0.0) to(0.0) recreate(0.0) it(0.0) ,(0.0) we(0.0) can(0.0) work(0.0) to(0.0) 
+preserve(1.0) and(0.0) improve(0.0) the(0.0) FFEL(1.0) Program(0.0) .(0.0) Madam(0.0) Chair(1.0) ,(0.0) I(0.0) yield(0.0) back(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+opposition	amendment	
+oppose	objection	Minnesota	
+Chair	amendment	attempts	cobble	
+colleges	delinquency	prevention	financial	literacy	
+FFEL	oppose	
+amendment	eliminating	
+benefits	eliminating	FFEL	FFEL	
+majority	wedge	
+
+Chair	
+oppose	amendment	preserve	
+FFEL	destroying	program	
+preserve	FFEL	Chair	
+
+reads % = 0.13333333333333333

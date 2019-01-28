@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) if(0.0) the(0.0) gentleman(0.0) will(0.0) continue(0.0) to(0.0) yield(0.0) ,(0.0) I(0.0) will(0.0) say(0.0) two(0.0) things(0.0) .(0.0) We(0.0) will(0.0) withdraw(0.0) the(0.0) amendment(1.0) 
+at(0.0) this(0.0) time(0.0) ,(0.0) but(0.0) I(0.0) do(0.0) think(0.0) it(0.0) very(0.0) important(0.0) for(0.0) us(0.0) in(0.0) this(0.0) Chamber(0.0) to(0.0) find(0.0) out(0.0) how(0.0) 
+we(0.0) can(0.0) get(0.0) the(0.0) developing(0.0) nations(1.0) to(0.0) join(0.0) us(0.0) to(0.0) go(0.0) forward(0.0) on(0.0) solving(0.0) this(0.0) problem(0.0) so(0.0) that(0.0) our(0.0) institution(1.0) 
+is(0.0) not(0.0) seen(0.0) as(0.0) the(0.0) institution(1.0) that(0.0) puts(0.0) our(0.0) head(0.0) in(0.0) the(0.0) sand(0.0) on(0.0) this(0.0) issue(0.0) .(0.0) I(0.0) will(0.0) have(0.0) 
+a(0.0) dialogue(0.0) with(0.0) the(0.0) Chair(0.0) and(0.0) other(0.0) Members(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+amendment	
+
+nations	institution	
+institution	
+
+
+reads % = 0.044444444444444446

@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) such(0.0) time(0.0) as(0.0) he(0.0) may(0.0) consume(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Illinois(1.0) ((0.0) Mr.(0.0) Davis(1.0) )(0.0) ,(0.0) my(0.0) 
+good(0.0) friend(0.0) and(0.0) colleague(0.0) ,(0.0) a(0.0) man(0.0) whose(0.0) own(0.0) voice(0.0) has(0.0) remarkable(0.0) musical(0.0) qualities(0.0) .(0.0) It(0.0) is(0.0) bass(0.0) ,(0.0) but(0.0) 
+it(0.0) is(0.0) music(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Illinois	Davis	
+
+
+
+reads % = 0.044444444444444446

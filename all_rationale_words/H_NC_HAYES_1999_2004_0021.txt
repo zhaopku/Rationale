@@ -1,0 +1,22 @@
+This is from a Republican
+----- below is the original text -----
+Ose(1.0) )(1.0) for(1.0) this(1.0) vital(1.0) legislation(1.0) ,(1.0) and(1.0) I(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) the(0.0) gentleman(0.0) 's(0.0) effort(0.0) to(0.0) reduce(1.0) the(0.0) paperwork(1.0) 
+and(0.0) the(0.0) regulatory(1.0) costs(1.0) that(0.0) do(0.0) not(0.0) provide(0.0) health(1.0) ,(0.0) protection(1.0) and(0.0) safety(0.0) for(0.0) people(0.0) in(0.0) America(1.0) today(0.0) .(0.0) There(0.0) 
+is(0.0) $(0.0) 843(0.0) billion(1.0) that(0.0) could(0.0) be(0.0) used(0.0) to(0.0) grow(0.0) this(0.0) economy(1.0) ,(0.0) to(0.0) create(0.0) jobs(1.0) ,(0.0) to(0.0) do(0.0) the(0.0) 
+things(0.0) that(0.0) our(0.0) workers(1.0) need(0.0) .(0.0) We(0.0) have(0.0) to(0.0) get(0.0) this(0.0) study(0.0) out(0.0) of(0.0) the(0.0) way(0.0) so(0.0) we(0.0) can(0.0) do(0.0) 
+the(0.0) right(0.0) thing(0.0) and(0.0) make(0.0) sure(0.0) that(0.0) the(0.0) regulations(1.0) we(0.0) have(0.0) are(0.0) transparent(1.0) ,(0.0) they(0.0) can(0.0) be(0.0) seen(0.0) by(0.0) the(0.0) 
+people(0.0) that(0.0) write(0.0) them(0.0) ,(0.0) that(0.0) are(0.0) impacted(0.0) by(0.0) them(0.0) ,(0.0) and(0.0) make(0.0) sure(0.0) that(0.0) these(0.0) regulations(1.0) do(0.0) what(0.0) they(0.0) 
+are(0.0) intended(0.0) to(0.0) do(0.0) ,(0.0) not(0.0) sap(0.0) the(0.0) economy(1.0) ,(0.0) not(0.0) cut(1.0) jobs(1.0) .(0.0) I(0.0) support(0.0) the(0.0) bill(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+)	for	this	vital	legislation	,	and	reduce	paperwork	
+regulatory	costs	health	protection	America	
+billion	economy	jobs	
+workers	
+regulations	transparent	
+regulations	
+economy	cut	jobs	bill	
+
+reads % = 0.17857142857142858

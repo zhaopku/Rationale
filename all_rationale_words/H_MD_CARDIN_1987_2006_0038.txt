@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) earlier(0.0) today(0.0) ,(0.0) I(0.0) was(0.0) unavoidably(0.0) detained(0.0) and(0.0) missed(0.0) three(0.0) rollcall(0.0) votes(1.0) .(0.0) Had(0.0) I(0.0) been(0.0) present(0.0) ,(0.0) I(0.0) 
+would(0.0) have(0.0) voted(0.0) ``(0.0) no(0.0) ''(0.0) on(0.0) rollcall(1.0) vote(1.0) No(1.0) .(0.0) 160(0.0) ;(0.0) ``(0.0) no(0.0) ''(0.0) on(0.0) rollcall(0.0) vote(1.0) No(0.0) 
+.(0.0) 161(0.0) ;(0.0) and(0.0) ``(0.0) yea(0.0) ''(0.0) on(0.0) rollcall(0.0) vote(1.0) No(1.0) .(0.0) 162(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+votes	
+rollcall	vote	No	vote	
+vote	No	
+
+reads % = 0.12727272727272726

@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) many(0.0) hardworking(1.0) Americans(1.0) are(0.0) losing(0.0) their(0.0) jobs(0.0) because(0.0) of(0.0) this(0.0) recession(1.0) .(0.0) We(0.0) must(0.0) use(0.0) every(0.0) tool(0.0) in(0.0) 
+our(0.0) arsenal(1.0) to(0.0) help(0.0) stop(0.0) the(0.0) loss(0.0) of(0.0) jobs(1.0) and(0.0) put(0.0) Americans(1.0) back(0.0) to(0.0) work(0.0) .(0.0) Yesterday(0.0) ,(0.0) I(0.0) testified(0.0) 
+in(0.0) front(0.0) of(0.0) the(0.0) International(0.0) Trade(0.0) Commission(0.0) ,(0.0) urging(0.0) them(0.0) to(0.0) strictly(0.0) enforce(1.0) our(0.0) anti-dumping(1.0) and(0.0) countervailing(1.0) duty(0.0) laws(1.0) to(0.0) 
+protect(0.0) American(0.0) workers(1.0) against(0.0) unfair(1.0) subsidies(1.0) of(0.0) steel(1.0) tube(0.0) products(0.0) from(0.0) China(1.0) .(0.0) My(0.0) constituents(1.0) depend(1.0) upon(0.0) the(0.0) ITC(0.0) to(0.0) 
+enforce(1.0) our(0.0) laws(1.0) and(0.0) ensure(0.0) that(0.0) our(0.0) trade(1.0) partners(0.0) play(0.0) fair(0.0) .(0.0) As(0.0) we(0.0) look(0.0) for(0.0) more(0.0) ways(0.0) to(0.0) create(0.0) 
+and(0.0) save(0.0) jobs(1.0) ,(0.0) it(0.0) is(0.0) imperative(1.0) that(0.0) both(0.0) the(0.0) Congress(0.0) and(0.0) the(0.0) Federal(1.0) Government(1.0) remain(0.0) vigilant(0.0) in(0.0) our(0.0) enforcement(1.0) 
+of(0.0) our(0.0) strong(0.0) trade(1.0) policies(1.0) .(0.0) We(0.0) can(0.0) not(0.0) allow(0.0) any(0.0) foreign(1.0) producer(0.0) to(0.0) have(0.0) an(0.0) unfair(1.0) advantage(0.0) over(0.0) U.S.(0.0) 
+workers(1.0) .(0.0) We(0.0) owe(0.0) it(0.0) to(0.0) our(0.0) constituents(1.0) to(0.0) protect(0.0) their(0.0) jobs(1.0) and(0.0) enforce(1.0) the(0.0) laws(1.0) that(0.0) we(0.0) have(0.0) on(0.0) 
+the(0.0) books(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+hardworking	Americans	recession	
+arsenal	jobs	Americans	
+enforce	anti-dumping	countervailing	laws	
+workers	unfair	subsidies	steel	China	constituents	depend	
+enforce	laws	trade	
+jobs	imperative	Federal	Government	enforcement	
+trade	policies	foreign	unfair	
+workers	constituents	jobs	enforce	laws	
+
+
+reads % = 0.2073170731707317

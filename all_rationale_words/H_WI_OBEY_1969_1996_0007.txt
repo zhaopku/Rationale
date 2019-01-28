@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) would(0.0) simply(0.0) like(0.0) to(0.0) point(0.0) out(0.0) that(0.0) despite(0.0) all(0.0) of(0.0) the(0.0) rhetoric(1.0) that(0.0) we(0.0) have(0.0) heard(0.0) on(0.0) this(0.0) 
+floor(0.0) today(0.0) ,(0.0) there(0.0) are(0.0) three(0.0) appropriations(1.0) bills(0.0) which(0.0) have(0.0) still(0.0) not(0.0) even(0.0) made(0.0) it(0.0) to(0.0) the(0.0) President(1.0) ,(0.0) the(0.0) 
+first(0.0) being(0.0) the(0.0) District(0.0) of(0.0) Columbia(1.0) bill(0.0) which(0.0) we(0.0) are(0.0) discussing(0.0) right(0.0) now(0.0) ;(0.0) the(0.0) second(0.0) being(0.0) the(0.0) Foreign(0.0) Operations(0.0) 
+bill(0.0) which(0.0) is(0.0) hung(0.0) up(0.0) because(0.0) of(0.0) differences(0.0) between(0.0) Republicans(0.0) in(1.0) the(1.0) Senate(0.0) and(0.0) Republicans(1.0) in(1.0) the(1.0) House(0.0) on(1.0) the(1.0) 
+issue(0.0) of(0.0) family(0.0) planning(0.0) and(0.0) abortion(1.0) ;(0.0) and(0.0) third(0.0) ,(0.0) the(0.0) Labor(1.0) ,(0.0) Health(1.0) ,(0.0) Education(1.0) and(0.0) Social(0.0) Services(0.0) appropriations(0.0) 
+bill(0.0) ,(0.0) a(0.0) huge(0.0) share(0.0) of(0.0) the(0.0) Federal(1.0) Government(1.0) .(0.0) All(0.0) of(0.0) those(0.0) programs(1.0) at(0.0) this(0.0) point(0.0) are(0.0) in(0.0) limbo(1.0) 
+because(0.0) we(0.0) still(0.0) have(0.0) not(0.0) had(0.0) resolutions(1.0) worked(0.0) out(0.0) between(0.0) the(0.0) House(0.0) and(0.0) the(0.0) Senate(0.0) .(0.0) So(0.0) it(0.0) seems(0.0) to(0.0) 
+me(0.0) that(0.0) there(0.0) is(0.0) a(0.0) high(0.0) degree(0.0) of(0.0) congressional(0.0) culpability(1.0) for(0.0) the(0.0) fact(0.0) that(0.0) this(0.0) Government(1.0) is(0.0) not(0.0) operating(0.0) under(0.0) 
+regular(0.0) appropriations(0.0) bills(0.0) ;(0.0) and(0.0) it(0.0) also(0.0) seems(0.0) to(0.0) me(0.0) that(0.0) it(0.0) comes(0.0) with(0.0) considerable(0.0) ill(0.0) grace(0.0) to(0.0) blame(1.0) the(0.0) 
+President(1.0) for(0.0) the(0.0) fact(0.0) that(0.0) he(0.0) has(0.0) not(0.0) even(0.0) been(0.0) able(0.0) to(0.0) consider(0.0) whether(0.0) to(0.0) veto(1.0) bills(1.0) ,(0.0) because(0.0) three(0.0) 
+of(0.0) them(0.0) have(0.0) not(0.0) gotten(0.0) to(0.0) him(0.0) yet(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+rhetoric	
+appropriations	President	
+Columbia	
+in	the	Republicans	in	the	on	the	
+abortion	Labor	Health	Education	
+Federal	Government	programs	limbo	
+resolutions	
+culpability	Government	
+blame	
+President	veto	bills	
+
+
+reads % = 0.12380952380952381

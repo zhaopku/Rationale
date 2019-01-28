@@ -1,0 +1,48 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) as(0.0) both(0.0) sides(0.0) explained(0.0) at(0.0) the(0.0) outset(0.0) of(0.0) this(0.0) debate(1.0) ,(0.0) what(0.0) we(0.0) have(0.0) before(0.0) us(0.0) tonight(0.0) in(0.0) the(0.0) 
+base(0.0) bill(0.0) ,(0.0) House(0.0) Concurrent(1.0) Resolution(0.0) 84(0.0) ,(0.0) is(0.0) a(0.0) compromise(0.0) ,(0.0) hard(0.0) fought(1.0) ,(0.0) hard(0.0) wrought(0.0) ,(0.0) carefully(0.0) balanced(0.0) 
+compromise(1.0) .(0.0) I(0.0) explained(0.0) in(0.0) my(0.0) earlier(0.0) comments(0.0) that(0.0) the(0.0) design(0.0) of(0.0) this(0.0) compromise(1.0) intentionally(0.0) was(0.0) to(0.0) allow(0.0) each(0.0) side(0.0) 
+to(0.0) have(0.0) a(0.0) few(0.0) victories(0.0) it(0.0) could(0.0) claim(0.0) as(0.0) clearly(0.0) its(0.0) own(0.0) .(0.0) The(0.0) Republicans(1.0) would(1.0) get(1.0) some(1.0) in(1.0) the(1.0) 
+way(1.0) of(1.0) tax(1.0) reduction(1.0) ;(1.0) Democrats(1.0) would(1.0) get(1.0) some(1.0) in(0.0) the(0.0) way(0.0) of(0.0) children(0.0) 's(0.0) health(1.0) care(0.0) and(0.0) education(1.0) and(0.0) 
+social(1.0) initiatives(1.0) ,(0.0) like(0.0) that(0.0) .(0.0) One(0.0) of(0.0) the(0.0) victories(1.0) allocated(0.0) to(0.0) us(0.0) as(0.0) Democrats(0.0) as(0.0) part(0.0) of(0.0) this(0.0) compromise(1.0) 
+comes(0.0) in(0.0) the(0.0) area(0.0) of(0.0) NDD(1.0) ,(0.0) nondefense(1.0) discretionary(1.0) spending(1.0) .(0.0) In(0.0) this(0.0) particular(0.0) budget(1.0) resolution(1.0) discretionary(1.0) spending(1.0) increases(1.0) in(0.0) 
+outlay(1.0) terms(0.0) from(0.0) $(0.0) 538(0.0) billion(1.0) this(0.0) year(0.0) ,(0.0) FY(1.0) 1997(0.0) ,(0.0) to(0.0) all(0.0) of(0.0) $(0.0) 562(0.0) billion(1.0) 5(0.0) years(0.0) 
+from(0.0) now(0.0) .(0.0) It(0.0) goes(0.0) up(0.0) by(0.0) $(0.0) 14(0.0) billion(1.0) over(0.0) a(0.0) 5-year(0.0) period(0.0) of(0.0) time(0.0) .(0.0) Half(0.0) of(0.0) the(0.0) 
+increase(0.0) goes(0.0) to(0.0) defense(1.0) ,(0.0) half(0.0) to(0.0) nondefense(1.0) .(0.0) So(0.0) what(0.0) we(0.0) have(0.0) achieved(0.0) as(0.0) a(0.0) victory(0.0) is(0.0) to(0.0) save(0.0) 
+discretionary(1.0) spending(1.0) from(0.0) deep(0.0) devastating(1.0) cuts(1.0) .(0.0) Even(0.0) so(0.0) ,(0.0) it(0.0) goes(0.0) up(0.0) by(0.0) only(0.0) a(0.0) half(0.0) a(0.0) percent(0.0) .(0.0) 
+It(0.0) is(0.0) still(0.0) 9(0.0) percent(0.0) below(0.0) inflation(1.0) .(0.0) We(0.0) consider(0.0) this(0.0) a(0.0) victory(0.0) because(0.0) we(0.0) at(0.0) least(0.0) allowed(0.0) enough(0.0) to(0.0) 
+keep(0.0) most(0.0) of(0.0) the(0.0) programs(1.0) that(0.0) we(0.0) consider(0.0) priorities(1.0) relatively(0.0) fully(0.0) funded(1.0) ,(0.0) but(0.0) everybody(0.0) would(0.0) have(0.0) to(0.0) agree(0.0) that(0.0) 
+is(0.0) not(0.0) amply(0.0) funded(1.0) by(0.0) any(0.0) means(0.0) .(0.0) This(0.0) particular(0.0) substitute(1.0) would(0.0) take(0.0) that(0.0) hard(0.0) wrought(1.0) compromise(1.0) ,(0.0) take(0.0) $(0.0) 
+109(0.0) billion(1.0) more(0.0) out(0.0) over(0.0) 5(0.0) years(0.0) out(0.0) of(0.0) discretionary(1.0) spending(1.0) and(0.0) put(0.0) it(0.0) into(0.0) tax(1.0) increases(1.0) .(0.0) So(0.0) it(0.0) 
+would(0.0) take(0.0) this(0.0) carefully(0.0) balanced(0.0) agreement(0.0) and(0.0) tilt(0.0) it(0.0) to(0.0) one(0.0) side(0.0) ,(0.0) it(0.0) would(0.0) destroy(1.0) the(0.0) compromise(1.0) .(0.0) It(0.0) 
+has(0.0) no(0.0) chance(0.0) of(0.0) being(0.0) passed(0.0) by(0.0) the(0.0) Senate(0.0) ,(0.0) no(0.0) chance(0.0) of(0.0) being(0.0) signed(0.0) by(0.0) the(0.0) President(1.0) .(0.0) Mr.(0.0) 
+Chairman(1.0) ,(0.0) it(0.0) would(0.0) be(0.0) a(0.0) dreadful(0.0) waste(1.0) of(0.0) time(0.0) .(0.0) We(0.0) need(0.0) to(0.0) go(0.0) on(0.0) with(0.0) what(0.0) is(0.0) possible(0.0) 
+,(0.0) pass(0.0) the(0.0) resolution(1.0) that(0.0) we(0.0) have(0.0) carefully(0.0) prepared(0.0) and(0.0) not(0.0) get(0.0) off(0.0) on(0.0) a(0.0) side(0.0) track(0.0) like(0.0) this(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+debate	
+Concurrent	fought	
+compromise	compromise	
+Republicans	would	get	some	in	the	
+way	of	tax	reduction	;	Democrats	would	get	some	health	education	
+social	initiatives	victories	compromise	
+NDD	nondefense	discretionary	spending	budget	resolution	discretionary	spending	increases	
+outlay	billion	FY	billion	
+billion	
+defense	nondefense	
+discretionary	spending	devastating	cuts	
+inflation	
+programs	priorities	funded	
+funded	substitute	wrought	compromise	
+billion	discretionary	spending	tax	increases	
+destroy	compromise	
+President	
+Chairman	waste	
+resolution	
+
+
+reads % = 0.17060367454068243

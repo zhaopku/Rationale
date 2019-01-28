@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+Rural(1.0) America(0.0) is(0.0) hurting(1.0) economically(1.0) .(0.0) Our(0.0) families(1.0) are(0.0) faced(0.0) with(0.0) the(0.0) highest(0.0) fuel(1.0) prices(1.0) in(0.0) history(1.0) .(0.0) And(0.0) this(0.0) bill(1.0) 
+cuts(1.0) $(0.0) 142(0.0) million(0.0) from(0.0) last(0.0) year(0.0) 's(0.0) funding(1.0) level(0.0) for(0.0) essential(1.0) services(1.0) like(0.0) environmental(1.0) protection(1.0) .(0.0) These(0.0) cuts(1.0) come(0.0) 
+from(0.0) state(1.0) grants(1.0) that(0.0) help(0.0) fund(1.0) rural(1.0) water(0.0) ,(0.0) sewer(1.0) ,(0.0) and(0.0) infrastructure(1.0) projects(0.0) .(0.0) They(0.0) come(0.0) from(0.0) state(1.0) wildlife(1.0) 
+preservations(1.0) grants(1.0) and(0.0) wetland(1.0) preservation(1.0) funds(1.0) .(0.0) This(0.0) bill(1.0) even(0.0) cuts(1.0) funding(1.0) to(0.0) EPA(1.0) programs(1.0) like(0.0) the(0.0) clean(1.0) air(1.0) diesel(1.0) 
+program(1.0) ;(0.0) all(0.0) while(0.0) rolling(0.0) back(0.0) the(0.0) mandatory(1.0) pollution(1.0) control(0.0) standards(1.0) for(0.0) power(0.0) plants(0.0) for(0.0) the(0.0) first(0.0) time(0.0) ever(0.0) .(0.0) 
+This(0.0) bill(1.0) would(1.0) also(0.0) allow(0.0) drilling(1.0) off(0.0) of(0.0) our(0.0) pristine(1.0) coastlines(1.0) ,(0.0) and(0.0) it(0.0) would(0.0) provide(0.0) for(0.0) the(0.0) exploration(0.0) and(0.0) 
+development(0.0) of(0.0) drilling(1.0) in(0.0) the(0.0) Alaska(1.0) National(0.0) Wildlife(0.0) Refuge(0.0) ((0.0) ANWR(1.0) )(0.0) ,(0.0) an(0.0) area(0.0) that(0.0) is(0.0) currently(0.0) off(0.0) limits(0.0) 
+for(0.0) drilling(0.0) ,(0.0) at(0.0) a(0.0) cost(0.0) of(0.0) $(0.0) 113(0.0) million(0.0) .(0.0) The(0.0) priorities(1.0) of(0.0) this(0.0) Congress(0.0) are(0.0) wrong(0.0) for(0.0) the(0.0) 
+American(0.0) people(0.0) .(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) vote(1.0) against(0.0) this(0.0) legislation(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+hurting	economically	families	fuel	prices	history	bill	
+cuts	funding	essential	services	environmental	protection	cuts	
+state	grants	fund	rural	sewer	infrastructure	state	wildlife	
+preservations	grants	wetland	preservation	funds	bill	cuts	funding	EPA	programs	clean	air	diesel	
+program	mandatory	pollution	standards	
+bill	would	drilling	pristine	coastlines	
+drilling	Alaska	ANWR	
+priorities	
+vote	legislation	
+
+reads % = 0.28735632183908044

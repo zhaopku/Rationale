@@ -1,0 +1,36 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) would(0.0) just(0.0) like(0.0) to(0.0) make(0.0) some(0.0) concluding(0.0) remarks(0.0) .(0.0) All(0.0) of(0.0) us(0.0) on(0.0) this(0.0) side(0.0) of(0.0) the(0.0) aisle(0.0) 
+support(0.0) Mr.(0.0) Lipinski(1.0) 's(0.0) effort(1.0) .(0.0) We(0.0) believe(0.0) that(0.0) this(0.0) legislation(1.0) is(0.0) good(0.0) and(0.0) we(0.0) commend(0.0) Mr(0.0) .(1.0) Rush(1.0) and(0.0) 
+Mr.(0.0) Lipinski(1.0) .(0.0) But(1.0) we(0.0) reiterate(0.0) that(0.0) this(0.0) administration(1.0) is(0.0) not(0.0) doing(0.0) enough(0.0) to(0.0) improve(0.0) manufacturing(1.0) in(0.0) America(1.0) .(0.0) The(0.0) 
+majority(1.0) leader(0.0) said(0.0) we(0.0) want(0.0) more(0.0) products(0.0) produced(0.0) in(0.0) America(1.0) .(0.0) But(0.0) in(0.0) order(0.0) to(0.0) do(0.0) that(0.0) ,(0.0) we(0.0) need(0.0) 
+a(0.0) tax(0.0) policy(1.0) that(0.0) encourages(1.0) investment(1.0) ,(0.0) not(0.0) making(0.0) it(0.0) more(0.0) expensive(1.0) to(0.0) do(0.0) business(0.0) in(0.0) America(1.0) .(0.0) We(0.0) need(0.0) 
+a(0.0) policy(1.0) to(0.0) provide(0.0) incentives(1.0) for(0.0) more(0.0) research(0.0) and(0.0) development(0.0) to(0.0) be(0.0) more(0.0) competitive(0.0) in(0.0) the(0.0) global(1.0) marketplace(0.0) .(0.0) We(0.0) 
+need(0.0) a(0.0) strong(0.0) program(0.0) to(0.0) defend(1.0) and(0.0) protect(0.0) intellectual(1.0) property(0.0) developed(0.0) by(0.0) our(0.0) manufacturers(1.0) .(0.0) We(0.0) need(0.0) a(0.0) strong(0.0) international(0.0) 
+trade(1.0) policy(1.0) that(0.0) encourages(1.0) more(0.0) American(0.0) products(0.0) to(0.0) be(0.0) sold(0.0) abroad(0.0) .(0.0) And(0.0) as(0.0) the(0.0) gentleman(0.0) from(0.0) Illinois(0.0) said(0.0) ,(0.0) 
+we(0.0) need(0.0) an(0.0) energy(1.0) policy(1.0) that(0.0) does(0.0) not(0.0) raise(0.0) energy(1.0) costs(1.0) .(0.0) And(0.0) every(0.0) objective(0.0) analysis(0.0) of(0.0) the(0.0) Obama(1.0) administration(1.0) 
+'s(0.0) cap-and-trade(1.0) system(0.0) indicates(0.0) that(0.0) that(0.0) bill(1.0) would(1.0) dramatically(1.0) increase(1.0) electricity(1.0) costs(1.0) making(0.0) American(0.0) manufacturers(1.0) less(0.0) competitive(0.0) ,(0.0) not(0.0) more(0.0) 
+competitive(1.0) .(0.0) I(0.0) have(0.0) already(0.0) talked(0.0) about(0.0) China(1.0) and(0.0) the(0.0) steps(0.0) that(0.0) they(0.0) 're(0.0) taking(0.0) to(0.0) decrease(1.0) their(0.0) electricity(1.0) costs(1.0) 
+.(0.0) So(0.0) we(0.0) support(0.0) this(0.0) bill(1.0) ,(0.0) but(0.0) we(0.0) need(0.0) to(0.0) do(0.0) more(0.0) .(0.0) And(0.0) we(0.0) call(0.0) upon(0.0) the(0.0) administration(1.0) 
+to(0.0) do(0.0) more(0.0) than(0.0) just(0.0) talk(0.0) about(0.0) these(0.0) issues(0.0) .(0.0) With(0.0) that(0.0) ,(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) 
+time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Lipinski	effort	legislation	.	Rush	
+Lipinski	But	administration	manufacturing	America	
+majority	America	
+policy	encourages	investment	expensive	America	
+policy	incentives	global	
+defend	intellectual	manufacturers	
+trade	policy	encourages	
+energy	policy	energy	costs	Obama	administration	
+cap-and-trade	bill	would	dramatically	increase	electricity	costs	manufacturers	
+competitive	China	decrease	electricity	costs	
+bill	administration	
+
+
+
+reads % = 0.17870722433460076

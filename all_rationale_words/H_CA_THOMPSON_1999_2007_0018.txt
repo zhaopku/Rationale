@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) keeping(0.0) kids(0.0) healthy(0.0) today(0.0) means(0.0) that(0.0) the(0.0) government(1.0) will(0.0) inherit(0.0) a(0.0) healthier(0.0) Medicare(1.0) population(1.0) tomorrow(0.0) .(0.0) Investing(1.0) in(0.0) our(0.0) 
+children(0.0) is(0.0) both(0.0) common(0.0) sense(0.0) and(0.0) it(0.0) 's(0.0) cost-(0.0) effective(0.0) .(0.0) It(0.0) was(0.0) very(0.0) difficult(0.0) to(0.0) watch(0.0) the(0.0) former(0.0) majority(0.0) 
+allow(0.0) the(0.0) national(1.0) debt(1.0) to(0.0) grow(0.0) to(0.0) record(0.0) heights(0.0) .(0.0) Today(0.0) ,(0.0) I(0.0) am(0.0) proud(0.0) that(0.0) the(0.0) new(0.0) Democratic(1.0) leadership(0.0) 
+has(0.0) said(0.0) no(0.0) to(0.0) deficit(1.0) spending(1.0) .(0.0) The(0.0) CHAMP(1.0) Act(0.0) is(0.0) emblematic(1.0) of(0.0) that(0.0) shift(0.0) .(0.0) It(0.0) is(0.0) completely(0.0) paid(0.0) 
+for(0.0) .(0.0) The(0.0) CHAMP(1.0) Act(0.0) guarantees(0.0) that(0.0) both(0.0) eligible(1.0) children(0.0) and(0.0) Medicare(1.0) seniors(1.0) can(0.0) access(0.0) qualify(0.0) health(1.0) care(1.0) .(0.0) Make(0.0) 
+no(0.0) mistake(0.0) .(0.0) Without(0.0) this(0.0) legislation(1.0) ,(0.0) 5(0.0) million(0.0) new(1.0) kids(1.0) won't(0.0) be(0.0) able(0.0) to(0.0) get(0.0) health(1.0) care(1.0) ,(0.0) and(0.0) 
+millions(1.0) more(0.0) already(0.0) in(0.0) the(0.0) program(1.0) will(0.0) see(0.0) their(0.0) benefits(1.0) cut(1.0) .(0.0) Without(0.0) this(0.0) legislation(1.0) ,(0.0) physicians(1.0) will(0.0) take(0.0) the(0.0) 
+biggest(1.0) rate(1.0) cut(0.0) in(0.0) the(0.0) history(0.0) of(0.0) the(0.0) Medicare(1.0) program(0.0) .(0.0) Without(0.0) this(0.0) legislation(1.0) ,(0.0) Medicare(1.0) benefits(1.0) that(0.0) are(0.0) critical(0.0) 
+to(0.0) rural(1.0) communities(0.0) will(0.0) expire(1.0) .(0.0) Today(0.0) ,(0.0) with(0.0) the(0.0) passage(1.0) of(0.0) the(0.0) CHAMP(1.0) Act(0.0) ,(0.0) Congress(0.0) has(0.0) taken(0.0) an(0.0) 
+historic(1.0) step(0.0) .(0.0) So(0.0) be(0.0) a(0.0) champion(0.0) for(0.0) kids(0.0) ,(0.0) be(0.0) a(0.0) champion(0.0) for(0.0) seniors(1.0) and(0.0) be(0.0) a(0.0) champion(0.0) for(0.0) 
+common(0.0) sense(0.0) .(0.0) Vote(1.0) ``(0.0) aye(0.0) ''(0.0) on(0.0) the(0.0) CHAMP(0.0) Act(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+government	Medicare	population	Investing	
+
+national	debt	Democratic	
+deficit	spending	CHAMP	emblematic	
+CHAMP	eligible	Medicare	seniors	health	care	
+legislation	new	kids	health	care	
+millions	program	benefits	cut	legislation	physicians	
+biggest	rate	Medicare	legislation	Medicare	benefits	
+rural	expire	passage	CHAMP	
+historic	seniors	
+Vote	
+
+reads % = 0.19248826291079812

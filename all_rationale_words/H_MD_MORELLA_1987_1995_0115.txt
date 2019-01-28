@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) time(0.0) to(0.0) me(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) with(0.0) the(0.0) beginning(0.0) of(0.0) this(0.0) Congress(0.0) 
+,(0.0) the(0.0) Science(0.0) Committee(0.0) ,(0.0) under(0.0) the(0.0) leadership(0.0) of(0.0) the(0.0) gentleman(0.0) from(0.0) Pennsylvania(1.0) ,(0.0) has(0.0) engaged(0.0) in(0.0) a(0.0) new(0.0) process(0.0) 
+which(0.0) strives(0.0) to(0.0) put(0.0) us(0.0) ,(0.0) as(0.0) an(0.0) authorizing(0.0) committee(0.0) ,(0.0) at(0.0) the(0.0) table(0.0) with(0.0) the(0.0) Appropriations(0.0) Committee(0.0) and(0.0) the(0.0) 
+Budget(0.0) Committee(0.0) in(0.0) the(0.0) setting(0.0) of(0.0) public(0.0) policy(0.0) and(0.0) in(0.0) directing(0.0) how(0.0) our(0.0) Federal(1.0) moneys(0.0) are(0.0) spent(0.0) .(0.0) As(0.0) a(0.0) 
+result(0.0) ,(0.0) the(0.0) committee(0.0) has(0.0) been(0.0) exercising(0.0) our(0.0) policy(1.0) setting(0.0) responsibilities(0.0) with(0.0) a(0.0) strong(0.0) voice(0.0) in(0.0) the(0.0) funding(1.0) process(0.0) .(0.0) 
+The(0.0) gentleman(0.0) from(0.0) Pennsylvania(1.0) ,(0.0) as(0.0) chairman(0.0) of(0.0) the(0.0) committee(0.0) ,(0.0) has(0.0) asked(0.0) all(0.0) the(0.0) subcommittee(0.0) Chairs(0.0) to(0.0) produce(0.0) authorization(0.0) 
+bills(0.0) which(0.0) reflect(0.0) the(0.0) House-passed(0.0) budget(0.0) resolution(1.0) ,(0.0) moving(0.0) us(0.0) to(0.0) a(0.0) balanced(0.0) budget(1.0) in(0.0) 7(0.0) years(0.0) .(0.0) We(0.0) needed(0.0) 
+to(0.0) do(0.0) this(0.0) because(0.0) otherwise(0.0) the(0.0) committee(0.0) 's(0.0) authorization(0.0) might(0.0) not(0.0) have(0.0) been(0.0) considered(0.0) credible(0.0) or(0.0) realistic(0.0) in(0.0) our(0.0) work(0.0) 
+product(0.0) .(0.0) As(0.0) difficult(0.0) as(0.0) it(0.0) has(0.0) been(0.0) ,(0.0) the(0.0) committee(0.0) is(0.0) being(0.0) guided(0.0) by(0.0) the(0.0) same(0.0) budgetary(1.0) limitations(0.0) affecting(0.0) 
+the(0.0) Appropriations(0.0) Committee(0.0) .(0.0) Accordingly(0.0) ,(0.0) these(0.0) budget(1.0) limitations(1.0) have(0.0) forced(0.0) us(0.0) to(0.0) prioritize(1.0) our(0.0) Federal(1.0) spending(1.0) ,(0.0) resulting(0.0) in(0.0) 
+a(0.0) limitation(0.0) of(0.0) our(0.0) ability(0.0) to(0.0) fund(1.0) every(0.0) worthwhile(0.0) program(1.0) .(0.0) H.R(0.0) .(0.0) 2405(0.0) ,(0.0) the(0.0) Omnibus(0.0) Civilian(0.0) Science(0.0) Authorization(0.0) 
+Act(0.0) ,(0.0) reflects(0.0) the(0.0) need(0.0) to(0.0) prioritize(0.0) our(0.0) Nation(1.0) 's(0.0) scientific(0.0) research(0.0) funding(1.0) under(0.0) tight(0.0) fiscal(1.0) limitations(1.0) which(0.0) moves(0.0) us(0.0) 
+to(0.0) a(0.0) balanced(0.0) Federal(1.0) budget(1.0) .(0.0) It(0.0) also(0.0) incorporates(0.0) as(0.0) title(0.0) VI(0.0) ,(0.0) the(0.0) committee-passed(0.0) version(0.0) of(0.0) H.R(0.0) .(0.0) 1870(0.0) 
+,(0.0) the(0.0) American(0.0) Technology(0.0) Advancement(0.0) Act(0.0) of(0.0) 1995(0.0) ,(0.0) which(0.0) provides(0.0) for(0.0) the(0.0) authorization(0.0) of(0.0) programs(0.0) within(0.0) the(0.0) technology(0.0) administration(0.0) 
+,(0.0) especially(0.0) the(0.0) laboratory(0.0) functions(0.0) of(0.0) the(0.0) National(0.0) Institute(0.0) of(0.0) Standards(0.0) and(0.0) Technology(0.0) [(0.0) NIST(0.0) ](0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) 
+I(0.0) believe(0.0) NIST(0.0) is(0.0) a(0.0) well-run(0.0) agency(0.0) with(0.0) a(0.0) well-defined(0.0) mission(0.0) .(0.0) NIST(0.0) 's(0.0) mission(0.0) to(0.0) promote(0.0) economic(1.0) growth(1.0) by(0.0) 
+working(0.0) with(0.0) industry(1.0) to(0.0) develop(0.0) technology(0.0) ,(0.0) measurements(0.0) ,(0.0) and(0.0) standards(1.0) is(0.0) integral(0.0) to(0.0) our(0.0) Nation(1.0) 's(0.0) competitiveness(1.0) in(0.0) the(0.0) 
+global(1.0) marketplace(0.0) .(0.0) Title(0.0) VI(0.0) of(0.0) H.R(0.0) .(0.0) 2405(0.0) sends(0.0) out(0.0) the(0.0) strong(0.0) signal(0.0) that(0.0) the(0.0) core(0.0) scientific(0.0) work(0.0) being(0.0) 
+done(0.0) at(0.0) the(0.0) NIST(0.0) laboratories(0.0) must(0.0) be(0.0) a(0.0) priority(0.0) .(0.0) In(0.0) addition(0.0) ,(0.0) NIST(0.0) 's(0.0) construction(0.0) account(0.0) must(0.0) also(0.0) be(0.0) 
+maintained(0.0) as(0.0) another(0.0) priority(0.0) .(0.0) Without(0.0) the(0.0) necessary(0.0) renovation(0.0) and(0.0) construction(0.0) of(0.0) facilities(0.0) ,(0.0) NIST(0.0) will(0.0) simply(0.0) not(0.0) be(0.0) able(0.0) 
+to(0.0) adequately(0.0) fulfill(0.0) its(0.0) basic(0.0) mission(0.0) in(0.0) the(0.0) future(0.0) .(0.0) The(0.0) bill(1.0) before(0.0) us(0.0) today(0.0) reinforces(0.0) this(0.0) priority(1.0) with(0.0) its(0.0) 
+funding(1.0) of(0.0) NIST(1.0) construction(0.0) and(0.0) modernization(1.0) of(0.0) its(0.0) laboratories(0.0) .(0.0) Title(0.0) VI(0.0) of(0.0) H.R(0.0) .(0.0) 2405(0.0) provides(0.0) fiscal(0.0) year(0.0) 1996(0.0) 
+authorizations(0.0) for(0.0) the(0.0) Under(0.0) Secretary(0.0) for(0.0) Technology(0.0) ,(0.0) for(0.0) the(0.0) NIST(0.0) core(0.0) programs(0.0) ,(0.0) and(0.0) for(0.0) construction(0.0) of(0.0) research(0.0) facilities(0.0) 
+.(0.0) It(0.0) also(0.0) contains(0.0) language(0.0) permitting(0.0) NIST(0.0) to(0.0) perform(0.0) important(0.0) administrative(0.0) functions(0.0) .(0.0) These(0.0) include(0.0) :(0.0) expanding(0.0) NIST(0.0) 's(0.0) ability(0.0) 
+to(0.0) continue(0.0) hiring(0.0) the(0.0) best(0.0) and(0.0) the(0.0) brightest(0.0) scientists(0.0) ;(0.0) permanently(0.0) extending(0.0) the(0.0) NIST(0.0) personnel(0.0) demonstration(0.0) project(0.0) ;(0.0) increasing(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	
+Pennsylvania	
+
+Federal	
+policy	funding	
+Pennsylvania	
+resolution	budget	
+
+budgetary	
+budget	limitations	prioritize	Federal	spending	
+fund	program	
+Nation	funding	fiscal	limitations	
+Federal	budget	
+
+Chairman	
+economic	growth	
+industry	standards	Nation	competitiveness	
+global	
+
+
+bill	priority	
+funding	NIST	modernization	
+
+
+
+
+reads % = 0.07

@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) for(0.0) purposes(0.0) of(0.0) debate(1.0) only(0.0) ,(0.0) I(0.0) yield(0.0) the(0.0) customary(0.0) 30(0.0) minutes(0.0) to(0.0) the(0.0) distinguished(0.0) gentleman(0.0) from(0.0) the(0.0) Commonwealth(0.0) 
+of(0.0) Massachusetts(1.0) [(0.0) Mr.(0.0) Moakley(1.0) ](0.0) ,(0.0) pending(0.0) which(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) During(0.0) 
+consideration(0.0) of(0.0) this(0.0) resolution(1.0) all(0.0) time(0.0) yielded(0.0) is(0.0) for(0.0) the(0.0) purpose(0.0) of(0.0) debate(1.0) only(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) this(0.0) rule(1.0) 
+allows(0.0) the(0.0) House(0.0) to(0.0) consider(0.0) and(0.0) hopefully(0.0) pass(0.0) H.R(0.0) .(0.0) 2076(0.0) ,(0.0) the(0.0) fiscal(1.0) year(0.0) 1996(0.0) Commerce(0.0) ,(0.0) Justice(0.0) ,(0.0) 
+and(0.0) State(0.0) Appropriations(0.0) Conference(0.0) Report(0.0) .(0.0) As(0.0) most(0.0) Americans(1.0) know(0.0) ,(0.0) we(0.0) are(0.0) charged(0.0) each(0.0) year(0.0) with(0.0) enacting(1.0) 13(0.0) appropriations(0.0) 
+bills(0.0) to(1.0) fund(1.0) the(0.0) major(1.0) functions(0.0) of(0.0) Government(1.0) .(0.0) This(0.0) year(0.0) we(0.0) have(0.0) had(0.0) a(0.0) difficult(0.0) time(0.0) in(0.0) meeting(0.0) that(0.0) 
+goal(0.0) ,(0.0) given(0.0) the(0.0) extraordinarily(0.0) complex(0.0) challenge(0.0) of(0.0) reducing(1.0) the(0.0) size(0.0) and(0.0) scope(0.0) of(0.0) Government(1.0) as(0.0) we(0.0) attempt(0.0) to(0.0) balance(0.0) 
+our(0.0) Federal(1.0) budget(1.0) .(0.0) To(0.0) date(0.0) ,(0.0) 7(0.0) of(0.0) the(0.0) 13(0.0) spending(0.0) bills(0.0) have(0.0) become(0.0) law(1.0) ,(0.0) and(0.0) we(0.0) are(0.0) 
+working(0.0) hard(0.0) to(0.0) have(0.0) the(0.0) others(0.0) on(0.0) the(0.0) President(1.0) 's(0.0) desk(0.0) as(0.0) quickly(0.0) as(0.0) possible(0.0) .(0.0) We(0.0) are(0.0) seeking(0.0) to(0.0) 
+work(0.0) with(0.0) the(0.0) White(1.0) House(0.0) --(0.0) but(0.0) we(0.0) will(0.0) not(0.0) abandon(0.0) our(0.0) commitment(1.0) to(0.0) balancing(0.0) the(0.0) budget(1.0) in(0.0) 7(0.0) years(0.0) 
+.(0.0) This(0.0) conference(0.0) report(0.0) makes(0.0) a(0.0) tangible(0.0) contribution(0.0) to(0.0) the(0.0) deficit(1.0) reduction(1.0) effort(0.0) ,(0.0) providing(0.0) for(0.0) a(0.0) real(0.0) cut(0.0) of(0.0) 
+$(0.0) 700(0.0) million(0.0) from(0.0) last(0.0) year(0.0) 's(0.0) spending(1.0) levels(0.0) .(0.0) I(0.0) wish(0.0) to(0.0) commend(0.0) Chairman(0.0) Rogers(1.0) and(0.0) his(0.0) entire(0.0) subcommittee(0.0) 
+for(0.0) their(0.0) excellent(0.0) work(0.0) in(0.0) making(0.0) the(0.0) tough(0.0) choices(0.0) needed(0.0) to(0.0) bring(0.0) about(0.0) such(0.0) substantial(1.0) savings(1.0) ,(0.0) and(0.0) believe(0.0) me(0.0) 
+,(0.0) I(0.0) know(0.0) these(0.0) were(0.0) tough(0.0) choices(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) this(0.0) rule(1.0) is(0.0) a(0.0) standard(0.0) one(0.0) providing(0.0) for(0.0) the(0.0) 
+consideration(1.0) of(0.0) appropriations(0.0) conference(0.0) reports(0.0) .(0.0) There(0.0) is(0.0) nothing(0.0) unusual(0.0) about(0.0) the(0.0) rule(1.0) .(0.0) It(0.0) is(0.0) the(0.0) way(0.0) we(0.0) do(0.0) 
+business(0.0) .(0.0) The(0.0) rule(1.0) waives(1.0) all(0.0) points(0.0) of(0.0) order(0.0) against(0.0) the(0.0) conference(0.0) report(0.0) and(0.0) against(0.0) its(0.0) consideration(0.0) ,(0.0) allowing(0.0) us(0.0) 
+to(0.0) proceed(0.0) with(0.0) getting(0.0) this(0.0) bill(1.0) passed(1.0) and(0.0) ,(0.0) hopefully(0.0) ,(0.0) one(0.0) step(0.0) closer(0.0) to(0.0) being(0.0) signed(0.0) into(0.0) law(1.0) .(0.0) 
+Under(0.0) House(0.0) rules(1.0) ,(0.0) this(0.0) conference(0.0) report(0.0) will(0.0) be(0.0) debatable(0.0) for(0.0) 1(0.0) hour(0.0) and(0.0) the(0.0) minority(1.0) will(0.0) have(0.0) its(0.0) traditional(0.0) 
+right(0.0) to(0.0) recommit(1.0) with(0.0) or(0.0) without(0.0) instructions(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) we(0.0) had(0.0) considerable(0.0) discussion(0.0) about(0.0) the(0.0) merits(1.0) of(0.0) this(0.0) 
+bill(1.0) during(0.0) our(0.0) Rules(1.0) Committee(0.0) hearing(0.0) yesterday(0.0) as(0.0) sometimes(0.0) happens(0.0) ,(0.0) and(0.0) I(0.0) know(0.0) there(0.0) is(0.0) concern(0.0) among(0.0) our(0.0) friends(0.0) 
+in(0.0) the(0.0) minority(1.0) about(0.0) the(0.0) crime(1.0) provisions(1.0) of(0.0) this(0.0) legislation(1.0) .(0.0) I(0.0) should(0.0) point(0.0) out(0.0) that(0.0) the(0.0) Contract(0.0) With(0.0) America(1.0) 
+outlined(0.0) a(0.0) series(0.0) of(0.0) important(0.0) tough-on-crime(1.0) provisions(1.0) that(0.0) the(0.0) congressional(1.0) majority(1.0) promised(1.0) to(0.0) deliver(0.0) .(0.0) Although(0.0) those(0.0) provisions(1.0) --(0.0) including(0.0) 
+truth-in-sentencing(1.0) and(0.0) prison(1.0) litigation(1.0) reform(1.0) --(0.0) passed(0.0) the(0.0) House(0.0) this(0.0) spring(0.0) ,(0.0) they(0.0) have(0.0) not(0.0) yet(0.0) moved(0.0) through(0.0) the(0.0) other(0.0) 
+body(0.0) ,(0.0) I(0.0) am(0.0) sorry(0.0) to(0.0) say(0.0) .(0.0) Because(0.0) we(0.0) know(0.0) how(0.0) important(0.0) these(0.0) anticrime(1.0) measures(1.0) are(0.0) to(0.0) the(0.0) American(0.0) 
+people(0.0) ,(0.0) we(0.0) are(0.0) cutting(1.0) through(0.0) the(0.0) legislative(1.0) logjam(1.0) that(0.0) has(0.0) held(0.0) them(0.0) up(0.0) .(0.0) I(0.0) am(0.0) speaking(0.0) of(0.0) 
+
+
+----- below are rationale words -----
+
+debate	
+Massachusetts	Moakley	
+resolution	debate	Speaker	rule	
+fiscal	
+Americans	enacting	
+to	fund	major	Government	
+reducing	Government	
+Federal	budget	law	
+President	
+White	commitment	budget	
+deficit	reduction	
+spending	Rogers	
+substantial	savings	
+Speaker	rule	
+consideration	rule	
+rule	waives	
+bill	passed	law	
+rules	minority	
+recommit	Speaker	merits	
+bill	Rules	
+minority	crime	provisions	legislation	America	
+tough-on-crime	provisions	congressional	majority	promised	provisions	
+truth-in-sentencing	prison	litigation	reform	
+anticrime	measures	
+cutting	legislative	logjam	
+
+reads % = 0.13

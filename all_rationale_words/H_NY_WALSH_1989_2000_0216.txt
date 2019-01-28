@@ -1,0 +1,22 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) pursuant(0.0) to(0.0) the(0.0) rule(0.0) just(0.0) adopted(0.0) ,(0.0) I(0.0) call(0.0) up(0.0) the(0.0) conference(0.0) report(0.0) on(0.0) the(0.0) bill(0.0) ((1.0) H.R(1.0) .(0.0) 
+4635(0.0) )(0.0) making(0.0) appropriations(0.0) for(0.0) the(0.0) Departments(0.0) of(0.0) Veterans(0.0) Affairs(0.0) and(0.0) Housing(0.0) and(0.0) Urban(0.0) Development(0.0) ,(0.0) and(0.0) for(0.0) sundry(0.0) independent(0.0) 
+agencies(0.0) ,(0.0) boards(0.0) ,(0.0) commissions(0.0) ,(0.0) corporations(0.0) ,(0.0) and(0.0) offices(0.0) for(0.0) the(0.0) fiscal(0.0) year(0.0) ending(0.0) September(0.0) 30(0.0) ,(0.0) 2001(0.0) ,(0.0) 
+and(0.0) for(0.0) other(0.0) purposes(0.0) .(0.0) The(0.0) Clerk(0.0) read(0.0) the(0.0) title(0.0) of(0.0) the(0.0) bill(0.0) .(0.0) The(0.0) SPEAKER(0.0) pro(0.0) tempore(0.0) ((1.0) Mr.(0.0) 
+LaTourette(1.0) )(0.0) .(0.0) Pursuant(0.0) to(0.0) House(0.0) Resolution(0.0) 638(0.0) ,(0.0) the(0.0) conference(0.0) report(0.0) is(0.0) considered(0.0) as(0.0) having(0.0) been(0.0) read(0.0) .(0.0) ((0.0) 
+For(0.0) conference(0.0) report(0.0) and(0.0) statement(0.0) ,(0.0) see(0.0) proceedings(0.0) of(0.0) the(0.0) House(0.0) of(0.0) October(0.0) 18(0.0) ,(0.0) 2000(0.0) ,(0.0) at(0.0) page(0.0) H10083(0.0) 
+.(0.0) )(0.0) 
+
+
+----- below are rationale words -----
+
+(	H.R	
+
+
+(	
+LaTourette	
+
+
+
+reads % = 0.032520325203252036

@@ -1,0 +1,16 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) ask(0.0) unanimous(1.0) consent(0.0) that(0.0) the(0.0) Committee(0.0) on(0.0) Resources(0.0) be(0.0) discharged(0.0) from(0.0) further(0.0) consideration(0.0) of(0.0) the(0.0) Senate(0.0) bill(0.0) ((1.0) 
+S.(0.0) 2241(1.0) )(0.0) to(0.0) provide(0.0) for(0.0) the(0.0) acquisition(0.0) of(0.0) lands(0.0) formerly(0.0) occupied(0.0) by(0.0) the(0.0) Franklin(0.0) D.(0.0) Roosevelt(0.0) family(0.0) at(0.0) Hyde(0.0) 
+Park(0.0) ,(0.0) New(0.0) York(1.0) ,(0.0) and(0.0) for(0.0) other(0.0) purposes(0.0) ,(0.0) and(0.0) ask(0.0) for(0.0) its(0.0) immediate(0.0) consideration(0.0) in(0.0) the(0.0) House(0.0) .(0.0) 
+The(0.0) Clerk(0.0) read(0.0) the(0.0) title(0.0) of(0.0) the(0.0) Senate(0.0) bill(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+unanimous	(	
+2241	
+York	
+
+
+reads % = 0.056338028169014086

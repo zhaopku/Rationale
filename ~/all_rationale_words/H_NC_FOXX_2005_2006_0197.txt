@@ -1,0 +1,22 @@
+This is from a Republican
+----- below is the original text -----
+House(0.0) Republicans(1.0) have(0.0) been(0.0) committed(1.0) to(0.0) taking(0.0) action(0.0) which(0.0) will(0.0) strengthen(1.0) border(0.0) security(0.0) now(0.0) .(0.0) I(0.0) have(0.0) long(1.0) been(0.0) committed(1.0) to(0.0) 
+this(0.0) issue(0.0) .(0.0) The(0.0) people(0.0) of(0.0) the(0.0) Fifth(1.0) District(0.0) of(0.0) North(0.0) Carolina(0.0) and(0.0) the(0.0) people(0.0) of(0.0) this(0.0) country(1.0) want(1.0) us(0.0) 
+to(0.0) fulfill(0.0) our(0.0) constitutional(1.0) duty(1.0) to(0.0) secure(0.0) our(0.0) borders(0.0) .(0.0) H.R(0.0) .(0.0) 6061(1.0) ,(0.0) the(0.0) Secure(1.0) Fence(0.0) Act(0.0) ,(0.0) will(0.0) 
+address(1.0) our(0.0) immediate(0.0) need(0.0) to(0.0) secure(0.0) our(0.0) borders(0.0) .(0.0) We(0.0) must(0.0) address(0.0) our(0.0) vulnerability(0.0) and(0.0) strengthen(0.0) our(0.0) operational(0.0) controls(1.0) on(0.0) 
+our(0.0) borders(0.0) through(0.0) more(0.0) personnel(1.0) ,(0.0) greater(0.0) state-of-the-art(1.0) technology(0.0) and(0.0) surveillance(1.0) ,(0.0) and(0.0) additional(0.0) physical(0.0) barriers(1.0) .(0.0) We(0.0) know(0.0) there(0.0) 
+is(0.0) more(0.0) that(0.0) needs(0.0) to(0.0) be(0.0) done(0.0) to(0.0) deal(1.0) with(0.0) the(0.0) illegal(1.0) alien(1.0) issue(0.0) ,(0.0) but(0.0) this(0.0) is(0.0) definitely(0.0) the(0.0) 
+right(1.0) first(0.0) step(0.0) .(0.0) I(0.0) urge(1.0) my(0.0) colleagues(1.0) to(0.0) vote(1.0) in(0.0) support(0.0) of(0.0) the(0.0) Secure(1.0) Fence(0.0) Act(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Republicans	committed	strengthen	long	committed	
+Fifth	country	want	
+constitutional	duty	6061	Secure	
+address	controls	
+personnel	state-of-the-art	surveillance	barriers	
+deal	illegal	alien	
+right	urge	colleagues	vote	Secure	
+
+reads % = 0.18705035971223022

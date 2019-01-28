@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) guess(0.0) the(0.0) politics(1.0) of(0.0) Bill(1.0) Emerson(1.0) and(0.0) myself(0.0) were(0.0) 180(0.0) degrees(0.0) apart(0.0) .(0.0) We(0.0) were(0.0) diagonally(0.0) opposite(0.0) .(0.0) 
+He(0.0) is(0.0) a(0.0) conservative(0.0) ,(0.0) I(0.0) am(0.0) a(0.0) liberal(0.0) .(0.0) He(0.0) was(0.0) for(0.0) a(0.0) constitutional(1.0) amendment(1.0) against(0.0) flag(1.0) burning(0.0) ,(0.0) 
+I(0.0) was(0.0) against(0.0) that(0.0) .(0.0) He(0.0) was(0.0) for(0.0) English(0.0) only(0.0) ,(0.0) I(0.0) was(0.0) against(0.0) that(0.0) .(0.0) He(0.0) was(0.0) pro-life(0.0) ,(0.0) 
+I(0.0) am(0.0) pro-choice(0.0) .(0.0) But(0.0) Bill(0.0) Emerson(1.0) is(0.0) pro-life(1.0) in(0.0) the(1.0) ultimate(0.0) sense(0.0) .(0.0) Without(0.0) him(0.0) ,(0.0) without(0.0) Frank(0.0) ,(0.0) 
+who(0.0) just(0.0) spoke(0.0) ,(0.0) without(0.0) Tony(0.0) Hall(1.0) ,(0.0) a(0.0) lot(0.0) of(0.0) Africans(1.0) would(0.0) die(0.0) this(0.0) year(0.0) of(0.0) starvation(1.0) .(0.0) Bill(0.0) 
+Emerson(1.0) interceded(1.0) ,(0.0) and(0.0) Frank(0.0) Wolf(1.0) and(0.0) he(0.0) went(0.0) to(0.0) the(0.0) leadership(0.0) and(0.0) got(0.0) food(0.0) aid(0.0) put(0.0) back(0.0) in(0.0) the(0.0) 
+budget(1.0) last(0.0) year(0.0) .(0.0) He(0.0) was(0.0) a(0.0) close(0.0) friend(0.0) ,(0.0) and(0.0) I(0.0) personally(0.0) will(0.0) miss(0.0) him(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+politics	Bill	Emerson	
+constitutional	amendment	flag	
+
+Emerson	pro-life	the	
+Hall	Africans	starvation	
+Emerson	interceded	Wolf	
+budget	
+
+reads % = 0.11594202898550725

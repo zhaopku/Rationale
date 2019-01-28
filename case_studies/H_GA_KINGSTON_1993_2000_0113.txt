@@ -1,4 +1,4 @@
-wrong
-Now(0.0) 
-,(0.0) maybe(0.0) combining(0.0) all(0.0) three(1.0) of(0.0) the(0.0) gentleman(0.0) 's(1.0) hats(0.0) of(1.0) agriculture(1.0) ,(0.0) armed(0.0) services(1.0) and(0.0) budget(1.0) ,(0.0) the(0.0) gentleman(0.0) 
-also(0.0) is(0.0) providing(0.0) money(0.0) to(0.0) get(1.0) active(1.0) duty(0.0) personnel(1.0) off(1.0) of(1.0) food(0.0) stamps(1.0) .(0.0) 
+correct
+Now(1.0) 
+,(1.0) maybe(1.0) combining(1.0) all(1.0) three(1.0) of(1.0) the(1.0) gentleman(1.0) 's(1.0) hats(1.0) of(1.0) agriculture(1.0) ,(1.0) armed(1.0) services(1.0) and(1.0) budget(1.0) ,(1.0) the(1.0) gentleman(1.0) 
+also(1.0) is(1.0) providing(1.0) money(1.0) to(1.0) get(1.0) active(1.0) duty(1.0) personnel(1.0) off(1.0) of(1.0) food(1.0) stamps(1.0) .(1.0) 

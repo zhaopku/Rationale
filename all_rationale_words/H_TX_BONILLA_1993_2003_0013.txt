@@ -1,0 +1,50 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) will(0.0) be(0.0) brief(0.0) and(0.0) to(0.0) the(0.0) point(0.0) .(0.0) This(0.0) has(0.0) been(0.0) a(0.0) tough(0.0) budget(1.0) year(0.0) .(0.0) This(0.0) 
+is(0.0) a(0.0) tough(0.0) bill(1.0) ,(0.0) but(0.0) it(0.0) is(0.0) a(0.0) fair(0.0) bill(1.0) ,(0.0) and(0.0) the(0.0) gentleman(0.0) brings(0.0) up(0.0) some(0.0) very(0.0) good(0.0) 
+points(0.0) that(0.0) need(0.0) to(0.0) be(0.0) addressed(0.0) .(0.0) But(0.0) ,(0.0) again(0.0) ,(0.0) having(0.0) done(0.0) the(0.0) best(0.0) we(0.0) can(0.0) possibly(0.0) do(0.0) under(0.0) 
+the(0.0) circumstances(0.0) ,(0.0) I(0.0) hope(0.0) that(0.0) people(0.0) understand(0.0) that(0.0) we(0.0) wished(0.0) we(0.0) could(0.0) have(0.0) done(0.0) more(0.0) but(0.0) we(0.0) were(0.0) just(0.0) 
+not(0.0) able(0.0) to(0.0) .(0.0) Certainly(0.0) the(0.0) accounts(0.0) that(0.0) this(0.0) amendment(1.0) would(0.0) increase(1.0) were(0.0) not(0.0) treated(0.0) unfairly(0.0) in(0.0) any(0.0) way(0.0) ,(0.0) 
+and(0.0) this(0.0) is(0.0) how(0.0) they(0.0) are(0.0) funded(1.0) in(0.0) the(0.0) bill(1.0) .(0.0) For(0.0) example(0.0) ,(0.0) the(0.0) Office(0.0) of(0.0) Civil(1.0) Rights(1.0) is(0.0) 
+at(0.0) last(0.0) year(0.0) 's(0.0) level(0.0) plus(0.0) increased(0.0) pay(1.0) cost(0.0) .(0.0) Departmental(0.0) Administration(0.0) is(0.0) at(0.0) last(0.0) year's(0.0) level(0.0) plus(0.0) increased(0.0) pay(1.0) 
+cost(0.0) .(0.0) Hispanic-Serving(1.0) Institutions(0.0) is(0.0) held(0.0) at(0.0) last(0.0) year(0.0) 's(0.0) level(0.0) ,(0.0) so(0.0) there(0.0) is(0.0) no(0.0) cut(0.0) there(0.0) ,(0.0) which(0.0) 
+in(0.0) this(0.0) day(0.0) and(0.0) age(0.0) I(0.0) believe(0.0) people(0.0) should(0.0) be(0.0) pleased(0.0) with(0.0) an(0.0) outcome(0.0) like(0.0) that(0.0) .(0.0) The(0.0) Outreach(1.0) Program(0.0) 
+is(0.0) also(0.0) at(0.0) last(0.0) year(0.0) 's(0.0) level(0.0) .(0.0) The(0.0) gentleman(0.0) 's(0.0) amendment(1.0) would(1.0) do(0.0) the(0.0) following(0.0) :(0.0) It(0.0) would(0.0) more(0.0) 
+than(0.0) double(0.0) the(0.0) Office(0.0) of(0.0) Civil(0.0) Rights(1.0) ,(0.0) giving(0.0) that(0.0) office(0.0) a(0.0) 104(0.0) percent(0.0) increase(1.0) ;(0.0) increase(0.0) the(0.0) Departmental(0.0) Administration(0.0) 
+account(0.0) by(0.0) 5(0.0) percent(0.0) ;(0.0) increase(0.0) Hispanic-Service(0.0) Institutions(1.0) programs(1.0) by(0.0) 15(0.0) percent(0.0) ;(0.0) and(0.0) increase(1.0) the(0.0) Outreach(0.0) Program(0.0) by(0.0) a(0.0) 
+whooping(0.0) 144(0.0) percent(0.0) .(0.0) Let(0.0) me(0.0) emphasize(0.0) that(0.0) if(0.0) we(0.0) had(0.0) the(0.0) money(1.0) to(0.0) do(0.0) this(0.0) we(0.0) would(0.0) be(0.0) doing(0.0) 
+cartwheels(0.0) in(0.0) supporting(1.0) these(0.0) kinds(0.0) of(0.0) increases(1.0) ,(0.0) but(0.0) we(0.0) are(0.0) doing(0.0) the(0.0) best(0.0) we(0.0) can(0.0) under(0.0) the(0.0) limitations(0.0) we(0.0) 
+have(0.0) in(0.0) putting(0.0) this(0.0) bill(1.0) together(0.0) .(0.0) The(0.0) money(1.0) that(0.0) would(0.0) be(0.0) taken(0.0) from(0.0) the(0.0) USDA(1.0) 's(0.0) Common(0.0) Computing(0.0) Environment(0.0) 
+Account(0.0) ,(0.0) and(0.0) while(0.0) that(0.0) does(0.0) not(0.0) sound(0.0) like(0.0) a(0.0) grand(0.0) program(0.0) ,(0.0) let(0.0) me(0.0) emphasize(0.0) that(0.0) this(0.0) takes(0.0) care(1.0) 
+of(0.0) the(0.0) way(0.0) that(0.0) a(0.0) lot(0.0) of(0.0) these(0.0) programs(1.0) are(0.0) processed(0.0) ,(0.0) like(0.0) the(0.0) work(0.0) at(0.0) the(0.0) Farm(0.0) Service(0.0) Agency(0.0) 
+,(0.0) the(0.0) Natural(1.0) Resources(0.0) Conservation(0.0) Service(0.0) and(0.0) the(0.0) Rural(1.0) Economic(0.0) and(0.0) Community(0.0) Development(0.0) Programs(0.0) .(0.0) This(0.0) amendment(1.0) would(0.0) take(0.0) $(0.0) 
+8.6(0.0) million(0.0) away(0.0) from(0.0) USDA(1.0) 's(0.0) ability(0.0) to(0.0) meet(0.0) those(0.0) needs(0.0) ,(0.0) and(0.0) that(0.0) would(0.0) indeed(0.0) create(0.0) a(0.0) lot(0.0) of(0.0) 
+hardship(1.0) out(0.0) in(0.0) the(0.0) heartland(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) we(0.0) worked(0.0) very(0.0) hard(0.0) to(0.0) present(0.0) a(0.0) well-considered(0.0) and(0.0) fair(0.0) bill(1.0) 
+to(1.0) the(0.0) House(0.0) .(0.0) I(0.0) ask(0.0) Members(0.0) to(0.0) stick(0.0) with(0.0) the(0.0) committee(0.0) and(0.0) defeat(0.0) this(0.0) amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	budget	
+bill	bill	
+
+
+amendment	increase	
+funded	bill	Civil	Rights	
+pay	pay	
+Hispanic-Serving	
+Outreach	
+amendment	would	
+Rights	increase	
+Institutions	programs	increase	
+money	
+supporting	increases	
+bill	money	USDA	
+care	
+programs	
+Natural	Rural	amendment	
+USDA	
+hardship	heartland	Chairman	bill	
+to	amendment	
+
+reads % = 0.09330143540669857

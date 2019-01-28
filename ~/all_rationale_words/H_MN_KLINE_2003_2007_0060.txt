@@ -1,0 +1,50 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) the(0.0) proponents(1.0) of(0.0) this(0.0) bill(0.0) are(0.0) fond(0.0) of(0.0) citing(1.0) historical(0.0) examples(1.0) as(0.0) they(0.0) declare(1.0) the(0.0) futility(1.0) of(0.0) combat(1.0) 
+operations(1.0) in(0.0) Iraq(1.0) .(0.0) The(0.0) Congressional(0.0) Record(1.0) is(0.0) full(0.0) of(0.0) stories(0.0) describing(1.0) the(0.0) failed(0.0) British(0.0) invasion(0.0) of(0.0) Gallipoli(1.0) or(0.0) the(0.0) 
+far(0.0) more(0.0) popular(0.0) comparisons(1.0) to(0.0) the(0.0) American(0.0) experience(0.0) in(0.0) Vietnam(1.0) .(0.0) Another(1.0) more(0.0) prescient(1.0) historical(0.0) comparison(1.0) ,(0.0) however(0.0) ,(0.0) was(0.0) 
+made(0.0) by(0.0) the(0.0) British(0.0) author(0.0) George(1.0) Orwell(1.0) .(0.0) Contemplating(1.0) the(0.0) defeatist(1.0) rhetoric(0.0) of(0.0) the(0.0) English(1.0) intelligentsia(1.0) during(0.0) the(0.0) German(0.0) offensive(0.0) 
+against(0.0) Britain(1.0) in(0.0) World(1.0) War(0.0) II(0.0) ,(0.0) he(0.0) remarked(1.0) ,(0.0) ``(1.0) The(0.0) quickest(1.0) way(0.0) of(0.0) ending(0.0) a(0.0) war(1.0) is(0.0) to(0.0) 
+lose(0.0) it(0.0) .(0.0) And(0.0) if(0.0) one(0.0) finds(0.0) the(0.0) prospect(1.0) of(0.0) a(0.0) long(1.0) war(1.0) intolerable(1.0) ,(0.0) it(0.0) is(0.0) natural(1.0) to(0.0) disbelieve(1.0) 
+in(0.0) the(0.0) possibility(0.0) of(0.0) victory(0.0) .(0.0) ''(0.0) Those(1.0) in(0.0) favor(1.0) of(0.0) the(0.0) bill(0.0) presented(0.0) on(0.0) the(0.0) floor(0.0) today(0.0) ,(0.0) Mr.(0.0) 
+Speaker(1.0) ,(0.0) do(0.0) not(1.0) believe(0.0) in(0.0) the(0.0) possibility(0.0) of(0.0) victory(0.0) ,(0.0) despite(0.0) the(0.0) protests(1.0) of(0.0) the(0.0) soldiers(1.0) and(0.0) Marines(1.0) returning(0.0) 
+from(0.0) the(0.0) battlefield(1.0) saying(0.0) otherwise(0.0) .(0.0) By(1.0) advocating(1.0) a(0.0) rapid(1.0) withdrawal(1.0) ,(0.0) they(0.0) endorse(1.0) the(0.0) quickest(1.0) way(0.0) of(0.0) ending(0.0) the(0.0) 
+war(1.0) ,(0.0) by(0.0) losing(0.0) it(0.0) .(0.0) It(0.0) has(0.0) been(0.0) less(0.0) than(0.0) a(0.0) month(0.0) since(0.0) the(0.0) full(0.0) force(0.0) of(0.0) troops(0.0) requested(0.0) 
+by(0.0) military(1.0) commanders(1.0) arrived(0.0) in(0.0) Iraq(1.0) ,(0.0) but(0.0) already(0.0) some(0.0) have(0.0) declared(1.0) the(0.0) operation(0.0) to(0.0) be(0.0) a(0.0) failure(1.0) .(0.0) General(1.0) 
+Petraeus(1.0) arrived(0.0) in(0.0) Baghdad(1.0) in(0.0) February(1.0) with(0.0) a(0.0) new(0.0) strategy(1.0) designed(0.0) to(0.0) reinforce(0.0) the(0.0) Iraqi(1.0) security(0.0) forces(1.0) confronting(1.0) al(0.0) Qaeda(0.0) 
+,(0.0) terrorists(1.0) and(0.0) Iranian-supplied(1.0) insurgents(0.0) .(0.0) Rather(1.0) than(0.0) giving(0.0) him(0.0) the(0.0) opportunity(0.0) to(0.0) fully(0.0) implement(0.0) his(0.0) surge(0.0) strategy(1.0) ,(0.0) opponents(1.0) 
+in(0.0) Congress(0.0) immediately(0.0) sought(1.0) to(0.0) undermine(1.0) his(0.0) credibility(0.0) and(0.0) his(0.0) ability(0.0) to(0.0) command(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) our(0.0) troops(0.0) serving(0.0) 
+in(0.0) Iraq(1.0) do(0.0) n't(0.0) need(0.0) 435(1.0) armchair(1.0) generals(1.0) dictating(1.0) the(0.0) tactical(1.0) movements(1.0) of(0.0) troops(0.0) ,(0.0) as(0.0) this(0.0) legislation(0.0) would(1.0) surely(1.0) 
+do(0.0) .(0.0) They(1.0) have(0.0) true(1.0) commanders(1.0) whose(0.0) professional(0.0) military(1.0) skills(1.0) have(0.0) been(0.0) honed(0.0) by(0.0) decades(0.0) of(0.0) military(1.0) service(0.0) .(0.0) They(0.0) 
+need(0.0) us(0.0) to(0.0) renew(0.0) our(0.0) commitment(0.0) to(0.0) them(0.0) and(0.0) their(0.0) commanders(1.0) .(0.0) And(0.0) more(0.0) importantly(1.0) ,(0.0) they(0.0) need(1.0) us(0.0) to(0.0) 
+trust(0.0) their(0.0) commanders(1.0) '(0.0) decisions(0.0) .(0.0) General(1.0) Petraeus(1.0) said(1.0) in(0.0) a(0.0) letter(0.0) to(0.0) his(0.0) troops(0.0) ,(0.0) ``(1.0) Success(1.0) will(0.0) require(1.0) 
+discipline(0.0) ,(0.0) fortitude(1.0) and(0.0) initiative(1.0) ,(0.0) qualities(1.0) that(0.0) you(1.0) have(0.0) in(0.0) abundance(0.0) .(0.0) ''(0.0) The(0.0) question(1.0) before(1.0) us(0.0) today(0.0) ,(0.0) 
+Mr.(0.0) Speaker(1.0) ,(0.0) is(0.0) ,(0.0) do(0.0) we(0.0) have(0.0) those(0.0) qualities(1.0) ?(1.0) Mr.(0.0) PATRICK(1.0) J.(1.0) MURPHY(1.0) of(0.0) Pennsylvania(1.0) .(0.0) I(0.0) yield(0.0) 
+1(0.0) minute(1.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Ohio(1.0) ((0.0) Mr.(0.0) Kucinich(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	proponents	citing	examples	declare	futility	combat	
+operations	Iraq	Record	describing	Gallipoli	
+comparisons	Vietnam	Another	prescient	comparison	
+George	Orwell	Contemplating	defeatist	English	intelligentsia	
+Britain	World	remarked	``	quickest	war	
+prospect	long	war	intolerable	natural	disbelieve	
+Those	favor	
+Speaker	not	protests	soldiers	Marines	
+battlefield	By	advocating	rapid	withdrawal	endorse	quickest	
+war	
+military	commanders	Iraq	declared	failure	General	
+Petraeus	Baghdad	February	strategy	Iraqi	forces	confronting	
+terrorists	Iranian-supplied	Rather	strategy	opponents	
+sought	undermine	command	Speaker	
+Iraq	435	armchair	generals	dictating	tactical	movements	would	surely	
+They	true	commanders	military	skills	military	
+commanders	importantly	need	
+commanders	General	Petraeus	said	``	Success	require	
+fortitude	initiative	qualities	you	question	before	
+Speaker	qualities	?	PATRICK	J.	MURPHY	Pennsylvania	
+minute	Ohio	Kucinich	
+
+reads % = 0.2736077481840194

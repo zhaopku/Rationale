@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+In(0.0) 1993(0.0) President(1.0) Clinton(1.0) and(0.0) a(0.0) Democrat(1.0) Congress(0.0) rammed(1.0) through(0.0) a(0.0) budget(0.0) that(0.0) contained(0.0) the(0.0) largest(0.0) tax(1.0) increases(1.0) in(0.0) the(0.0) history(0.0) 
+of(0.0) this(0.0) country(1.0) and(0.0) $(0.0) 200(1.0) billion(1.0) deficits(1.0) as(0.0) far(0.0) as(0.0) the(0.0) eye(0.0) could(0.0) see(0.0) .(0.0) With(1.0) a(0.0) determination(0.0) to(0.0) 
+save(0.0) the(0.0) American(0.0) dream(1.0) for(0.0) the(0.0) next(0.0) generation(1.0) ,(0.0) the(0.0) Republican(1.0) Congress(1.0) turned(1.0) the(0.0) tax-and-spend(1.0) culture(1.0) of(0.0) Washington(1.0) upside(1.0) down(1.0) 
+and(0.0) produced(1.0) a(0.0) balanced(1.0) budget(0.0) with(0.0) tax(1.0) cuts(1.0) for(0.0) the(0.0) American(0.0) people(0.0) .(0.0) Now(0.0) that(0.0) the(0.0) Federal(1.0) Government(0.0) 's(0.0) financial(0.0) 
+house(0.0) is(0.0) finally(0.0) in(0.0) order(0.0) ,(0.0) the(0.0) big(1.0) question(1.0) facing(1.0) Congress(0.0) ,(0.0) and(0.0) the(0.0) President(1.0) ,(0.0) by(0.0) the(0.0) way(1.0) ,(0.0) 
+is(0.0) what(1.0) is(0.0) next(0.0) ?(1.0) With(0.0) the(0.0) average(0.0) family(0.0) still(0.0) paying(0.0) more(0.0) in(0.0) taxes(1.0) than(0.0) they(0.0) do(0.0) for(0.0) the(0.0) basic(1.0) 
+necessities(0.0) ,(0.0) the(0.0) obvious(0.0) answer(0.0) is(0.0) ,(0.0) an(0.0) across-the-board(1.0) tax(1.0) cut(1.0) for(0.0) everybody(0.0) .(0.0) As(0.0) we(0.0) move(0.0) from(0.0) the(0.0) era(1.0) 
+of(0.0) big(1.0) budgets(0.0) and(0.0) budget(0.0) deficits(1.0) to(0.0) budget(0.0) surpluses(1.0) ,(0.0) some(0.0) in(0.0) this(0.0) town(0.0) will(0.0) argue(0.0) that(0.0) we(0.0) can(0.0) afford(0.0) 
+to(0.0) spend(1.0) more(0.0) money(1.0) on(0.0) more(0.0) Washington(1.0) programs(1.0) .(0.0) This(0.0) is(0.0) the(0.0) mindset(1.0) that(0.0) created(0.0) the(0.0) problem(0.0) in(0.0) the(0.0) first(0.0) 
+place(0.0) .(0.0) For(1.0) our(0.0) children(0.0) 's(0.0) sake(1.0) ,(0.0) it(0.0) should(0.0) be(0.0) rejected(1.0) .(0.0) I(0.0) urge(1.0) ,(0.0) Madam(0.0) Speaker(1.0) ,(0.0) to(0.0) 
+continue(0.0) fighting(1.0) for(0.0) more(0.0) tax(1.0) relief(1.0) for(0.0) the(0.0) American(0.0) people(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+President	Clinton	Democrat	rammed	tax	increases	
+country	200	billion	deficits	With	
+dream	generation	Republican	Congress	turned	tax-and-spend	culture	Washington	upside	down	
+produced	balanced	tax	cuts	Federal	
+big	question	facing	President	way	
+what	?	taxes	basic	
+across-the-board	tax	cut	era	
+big	deficits	surpluses	
+spend	money	Washington	programs	mindset	
+For	sake	rejected	urge	Speaker	
+fighting	tax	relief	
+
+reads % = 0.25943396226415094

@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) mean(0.0) ,(0.0) we(0.0) do(0.0) get(0.0) analyses(0.0) now(0.0) with(0.0) respect(0.0) to(0.0) the(0.0) economic(1.0) impact(0.0) .(0.0) There(0.0) 's(0.0) a(0.0) provision(1.0) in(0.0) the(0.0) 
+House(0.0) rules(1.0) that(0.0) I(0.0) referenced(0.0) earlier(0.0) that(0.0) asked(0.0) for(0.0) that(0.0) ,(0.0) and(0.0) in(0.0) fact(0.0) ,(0.0) Joint(0.0) Tax(1.0) has(0.0) done(0.0) exactly(0.0) 
+that(0.0) .(0.0) The(0.0) figures(0.0) I(0.0) was(0.0) reading(0.0) with(0.0) respect(0.0) to(0.0) the(0.0) negative(0.0) impact(0.0) on(0.0) growth(1.0) in(0.0) the(0.0) out-years(1.0) were(0.0) from(0.0) 
+a(0.0) dynamic(0.0) analysis(0.0) the(0.0) Joint(0.0) Tax(0.0) Committee(0.0) has(0.0) done(0.0) pursuant(0.0) to(0.0) House(0.0) rules(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+economic	provision	
+rules	Tax	
+growth	out-years	
+
+
+reads % = 0.08

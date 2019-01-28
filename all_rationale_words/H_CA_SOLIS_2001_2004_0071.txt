@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+1284(1.0) ,(0.0) additional(0.0) funding(1.0) for(0.0) the(0.0) San(1.0) Gabriel(0.0) Valley(1.0) Basin(1.0) Demonstration(1.0) Project(0.0) .(0.0) The(0.0) San(1.0) Gabriel(0.0) Valley(1.0) is(0.0) facing(0.0) serious(0.0) water(1.0) 
+quality(0.0) and(0.0) public(1.0) health(1.0) problems(0.0) .(0.0) The(0.0) aquifer(1.0) is(0.0) contaminated(1.0) with(0.0) volatile(0.0) organic(1.0) compounds(0.0) and(0.0) perchlorate(1.0) ,(0.0) or(0.0) rocket-fuel(1.0) .(0.0) 
+Water(0.0) providers(1.0) in(0.0) the(0.0) San(1.0) Gabriel(0.0) Valley(0.0) draw(0.0) water(1.0) from(0.0) the(0.0) Basin(1.0) ,(0.0) home(0.0) to(0.0) Superfund(1.0) sites(0.0) that(0.0) span(0.0) more(0.0) 
+than(0.0) 170(0.0) square(0.0) miles(0.0) .(0.0) Despite(0.0) its(0.0) contamination(1.0) ,(0.0) the(0.0) Basin(1.0) is(0.0) needed(0.0) to(0.0) provide(0.0) water(0.0) to(0.0) more(0.0) than(0.0) 1.5(0.0) 
+million(0.0) people(0.0) .(0.0) Our(0.0) water(1.0) agencies(1.0) have(0.0) done(0.0) a(0.0) wonderful(0.0) job(0.0) working(0.0) to(0.0) maintain(0.0) a(0.0) reliable(0.0) ,(0.0) dependable(0.0) and(0.0) safe(0.0) 
+source(0.0) of(0.0) water(1.0) ,(0.0) but(0.0) they(0.0) can(0.0) not(0.0) do(0.0) it(0.0) alone(0.0) .(0.0) This(0.0) bill(1.0) authorizes(1.0) an(0.0) additional(0.0) $(0.0) 6.5(0.0) million(0.0) 
+to(0.0) expand(1.0) the(0.0) Basin(1.0) Demonstration(0.0) Project(0.0) to(0.0) El(0.0) Monte(0.0) ,(0.0) South(0.0) El(0.0) Monte(0.0) ,(0.0) and(0.0) Puente(1.0) Valley(0.0) .(0.0) I(0.0) am(0.0) 
+proud(0.0) to(0.0) represent(0.0) a(0.0) community(0.0) working(0.0) so(0.0) diligently(0.0) to(0.0) ensure(0.0) long(0.0) term(0.0) reliability(0.0) of(0.0) its(0.0) water(0.0) supply(0.0) ,(0.0) and(0.0) I(0.0) 
+am(0.0) proud(0.0) that(0.0) ,(0.0) together(0.0) with(0.0) Congresswoman(1.0) Napolitano(1.0) and(1.0) Congressman(1.0) Dreier(1.0) ,(0.0) that(0.0) we(0.0) could(0.0) secure(0.0) these(0.0) funds(1.0) to(0.0) help(0.0) 
+ensure(0.0) a(0.0) safe(0.0) ,(0.0) reliable(0.0) and(0.0) dependable(0.0) source(0.0) of(0.0) water(0.0) for(0.0) southern(1.0) California(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+funding	San	Valley	Basin	Demonstration	San	Valley	water	
+public	health	aquifer	contaminated	organic	perchlorate	rocket-fuel	
+providers	San	water	Basin	Superfund	
+contamination	Basin	
+water	agencies	
+water	bill	authorizes	
+expand	Basin	Puente	
+
+Congresswoman	Napolitano	and	Congressman	Dreier	funds	
+southern	
+
+reads % = 0.18974358974358974

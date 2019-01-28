@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) over(0.0) the(0.0) next(0.0) several(0.0) weeks(0.0) what(0.0) this(0.0) great(0.0) country(1.0) of(0.0) ours(0.0) is(0.0) going(0.0) to(0.0) hear(0.0) is(0.0) an(0.0) important(0.0) debate(1.0) 
+.(0.0) And(0.0) that(0.0) is(0.0) what(0.0) to(0.0) do(0.0) with(0.0) the(0.0) money(1.0) generated(0.0) by(0.0) millions(1.0) of(0.0) American(0.0) taxpayers(1.0) who(0.0) get(0.0) up(0.0) to(0.0) 
+work(0.0) every(0.0) single(0.0) morning(0.0) ,(0.0) some(0.0) of(0.0) whom(0.0) work(0.0) two(0.0) jobs(0.0) ,(0.0) the(0.0) husband(0.0) and(0.0) the(0.0) wife(0.0) work(0.0) as(0.0) well(0.0) 
+.(0.0) So(0.0) ,(0.0) you(0.0) have(0.0) a(0.0) husband(0.0) and(0.0) wife(0.0) working(0.0) two(0.0) or(0.0) three(0.0) jobs(0.0) a(0.0) week(0.0) ,(0.0) sometimes(0.0) working(0.0) 6(0.0) 
+or(0.0) 7(0.0) days(0.0) to(0.0) put(0.0) food(1.0) on(0.0) the(0.0) table(0.0) ,(0.0) to(0.0) pay(1.0) the(0.0) mortgage(1.0) or(0.0) to(0.0) pay(0.0) the(0.0) rent(0.0) ,(0.0) 
+to(0.0) make(0.0) that(0.0) car(0.0) payment(0.0) ,(0.0) to(0.0) put(0.0) away(0.0) for(0.0) your(0.0) child(0.0) 's(0.0) education(1.0) ,(0.0) college(1.0) ,(0.0) law(1.0) school(1.0) or(0.0) 
+med(0.0) school(0.0) .(0.0) Whatever(0.0) hopes(0.0) and(0.0) dreams(0.0) you(0.0) have(0.0) for(0.0) your(0.0) family(0.0) ,(0.0) you(0.0) are(0.0) getting(0.0) up(0.0) every(0.0) single(0.0) day(0.0) 
+to(0.0) fulfill(0.0) your(0.0) dream(0.0) .(0.0) And(0.0) at(0.0) the(0.0) end(0.0) of(0.0) the(0.0) week(0.0) ,(0.0) when(0.0) that(0.0) paycheck(1.0) comes(0.0) ,(0.0) a(0.0) big(0.0) 
+chunk(0.0) of(0.0) that(0.0) comes(0.0) right(0.0) here(0.0) to(0.0) Washington(1.0) .(0.0) And(0.0) the(0.0) American(0.0) people(0.0) have(0.0) been(0.0) working(0.0) so(0.0) hard(0.0) in(0.0) the(0.0) 
+last(0.0) several(0.0) years(0.0) sustaining(1.0) economic(1.0) growth(1.0) that(0.0) we(0.0) really(0.0) have(0.0) not(0.0) seen(0.0) in(0.0) recent(0.0) times(0.0) and(0.0) generating(0.0) a(0.0) surplus(1.0) here(0.0) 
+in(0.0) Washington(1.0) .(0.0) Now(0.0) there(0.0) are(0.0) those(0.0) here(0.0) in(0.0) Washington(1.0) who(0.0) think(0.0) it(0.0) is(0.0) all(0.0) their(0.0) money(1.0) .(0.0) And(0.0) there(0.0) 
+are(0.0) those(0.0) who(0.0) want(0.0) to(0.0) spend(1.0) every(0.0) single(0.0) dime(1.0) on(0.0) their(0.0) favorite(0.0) projects(0.0) or(0.0) programs(1.0) .(0.0) And(0.0) then(0.0) there(0.0) are(0.0) 
+those(0.0) who(0.0) feel(0.0) that(0.0) ,(0.0) you(0.0) know(0.0) what(0.0) our(0.0) job(0.0) here(0.0) is(0.0) to(0.0) represent(0.0) and(0.0) do(0.0) what(0.0) is(0.0) right(0.0) for(0.0) 
+the(0.0) American(0.0) people(0.0) ,(0.0) for(0.0) those(0.0) taxpayers(1.0) who(0.0) generated(0.0) this(0.0) surplus(1.0) .(0.0) And(0.0) when(0.0) we(0.0) do(0.0) things(0.0) like(0.0) address(0.0) adequately(0.0) 
+Social(1.0) Security(0.0) and(0.0) Medicare(1.0) and(0.0) education(1.0) and(0.0) protecting(1.0) the(0.0) environment(0.0) and(0.0) strengthening(1.0) our(0.0) national(1.0) defense(1.0) ,(0.0) then(0.0) we(0.0) can(0.0) believe(0.0) 
+that(0.0) those(0.0) things(0.0) are(0.0) right(0.0) .(0.0) Then(0.0) we(0.0) decide(0.0) ,(0.0) well(0.0) ,(0.0) what(0.0) is(0.0) left(0.0) ?(0.0) Right(0.0) now(0.0) Washington(1.0) is(0.0) 
+projecting(0.0) a(0.0) $(0.0) 3(0.0) trillion(1.0) surplus(1.0) .(0.0) Now(0.0) for(0.0) whatever(0.0) those(0.0) assumptions(0.0) are(0.0) worth(0.0) ,(0.0) the(0.0) bottom(0.0) line(0.0) here(0.0) is(0.0) 
+there(0.0) is(0.0) money(1.0) that(0.0) is(0.0) going(0.0) to(0.0) be(0.0) left(0.0) on(0.0) the(0.0) table(0.0) .(0.0) It(0.0) is(0.0) important(0.0) for(0.0) the(0.0) American(0.0) people(0.0) 
+and(0.0) the(0.0) people(0.0) back(0.0) home(0.0) where(0.0) I(0.0) am(0.0) from(0.0) in(0.0) Staten(1.0) Island(0.0) and(0.0) Brooklyn(1.0) to(0.0) understand(0.0) the(0.0) core(0.0) principles(1.0) that(0.0) 
+are(0.0) going(0.0) to(0.0) really(0.0) drive(0.0) this(0.0) debate(1.0) .(0.0) There(0.0) are(0.0) those(0.0) of(0.0) us(0.0) who(0.0) believe(0.0) in(0.0) personal(0.0) freedom(1.0) more(0.0) for(0.0) 
+the(0.0) American(0.0) people(0.0) ,(0.0) and(0.0) there(0.0) are(0.0) those(0.0) who(0.0) say(0.0) we(0.0) need(0.0) more(0.0) government(1.0) control(0.0) .(0.0) There(0.0) are(0.0) those(0.0) who(0.0) 
+want(0.0) lower(0.0) taxes(1.0) ,(0.0) because(0.0) we(0.0) believe(0.0) in(0.0) the(0.0) American(0.0) spirit(0.0) that(0.0) when(0.0) we(0.0) reduce(1.0) taxes(1.0) and(0.0) allow(0.0) hard-working(1.0) people(0.0) 
+to(0.0) keep(0.0) more(0.0) of(0.0) what(0.0) they(0.0) earn(0.0) ,(0.0) it(0.0) drives(0.0) economic(1.0) growth(1.0) ,(0.0) it(0.0) creates(0.0) more(0.0) jobs(0.0) ,(0.0) and(0.0) we(0.0) 
+reinforce(0.0) what(0.0) we(0.0) all(0.0) tell(0.0) and(0.0) what(0.0) we(0.0) all(0.0) believe(0.0) in(0.0) ,(0.0) and(0.0) that(0.0) is(0.0) that(0.0) in(0.0) this(0.0) great(0.0) country(1.0) 
+,(0.0) one(0.0) can(0.0) follow(0.0) their(0.0) dreams(0.0) if(0.0) given(0.0) the(0.0) chance(0.0) .(0.0) On(0.0) the(0.0) other(0.0) side(0.0) are(0.0) those(0.0) who(0.0) want(0.0) 
+
+
+----- below are rationale words -----
+
+country	debate	
+money	millions	taxpayers	
+
+
+food	pay	mortgage	
+education	college	law	school	
+
+paycheck	
+Washington	
+sustaining	economic	growth	surplus	
+Washington	Washington	money	
+spend	dime	programs	
+
+taxpayers	surplus	
+Social	Medicare	education	protecting	strengthening	national	defense	
+Washington	
+trillion	surplus	
+money	
+Staten	Brooklyn	principles	
+debate	freedom	
+government	
+taxes	reduce	taxes	hard-working	
+economic	growth	
+country	
+
+
+reads % = 0.1

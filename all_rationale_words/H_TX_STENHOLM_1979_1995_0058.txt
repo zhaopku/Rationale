@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) in(0.0) opposition(1.0) to(0.0) this(0.0) conference(0.0) report(0.0) .(0.0) Like(0.0) many(0.0) of(0.0) my(0.0) colleagues(0.0) in(0.0) the(0.0) coalition(1.0) and(0.0) some(0.0) 
+beyond(0.0) in(0.0) my(0.0) party(1.0) ,(0.0) I(0.0) believe(0.0) in(0.0) many(0.0) of(0.0) the(0.0) rescissions(1.0) included(0.0) in(0.0) this(0.0) conference(0.0) report(0.0) .(0.0) I(0.0) am(0.0) 
+absolutely(0.0) dead(0.0) set(0.0) ,(0.0) however(0.0) ,(0.0) against(0.0) taking(0.0) these(0.0) spending(1.0) cuts(1.0) and(0.0) using(0.0) them(0.0) for(0.0) a(0.0) tax(1.0) cut(1.0) or(1.0) for(1.0) 
+other(1.0) spending(1.0) .(1.0) We(0.0) had(0.0) a(0.0) way(0.0) to(0.0) guarantee(0.0) that(0.0) the(0.0) cuts(1.0) would(1.0) go(0.0) to(0.0) deficit(1.0) reduction(1.0) .(0.0) The(0.0) Brewster-Minge(0.0) 
+lock(0.0) box(0.0) sealed(0.0) up(0.0) $(0.0) 66.2(0.0) billion(1.0) over(0.0) the(0.0) next(0.0) 5(0.0) years(0.0) .(0.0) I(0.0) am(0.0) not(0.0) only(0.0) willing(0.0) to(0.0) make(0.0) 
+that(0.0) sort(0.0) of(0.0) cut(1.0) ,(0.0) I(0.0) am(0.0) eager(0.0) to(0.0) do(0.0) so(0.0) .(0.0) But(0.0) I(0.0) am(0.0) not(0.0) going(0.0) to(0.0) give(0.0) up(0.0) 
+Rural(1.0) Health(1.0) grants(1.0) ,(0.0) AHEC(1.0) money(1.0) ,(0.0) Safe(1.0) &(0.0) Drug(1.0) Free(0.0) School(0.0) money(0.0) ,(0.0) funds(1.0) for(0.0) Vocational(1.0) Education(0.0) --(0.0) and(0.0) 
+much(0.0) more(0.0) ,(0.0) just(0.0) so(0.0) that(0.0) money(1.0) can(0.0) be(0.0) used(0.0) for(0.0) tax(1.0) cuts(1.0) .(1.0) There(1.0) has(0.0) been(0.0) a(0.0) weakening(0.0) of(0.0) 
+trust(1.0) over(0.0) the(0.0) way(0.0) the(0.0) lock(0.0) box(0.0) in(0.0) this(0.0) bill(1.0) was(0.0) handled(0.0) .(0.0) An(0.0) early(0.0) understanding(0.0) of(0.0) $(0.0) 66(0.0) billion(1.0) 
+in(0.0) savings(1.0) disintegrated(0.0) into(0.0) something(0.0) much(0.0) smaller(0.0) ,(0.0) $(0.0) 15.5(0.0) billion(1.0) in(0.0) this(0.0) conference(0.0) report(0.0) .(0.0) I(0.0) would(0.0) love(0.0) to(0.0) 
+vote(1.0) for(0.0) a(0.0) rescission(1.0) bill(1.0) --(0.0) but(0.0) not(0.0) for(0.0) the(0.0) sake(1.0) of(0.0) tax(1.0) cuts(1.0) .(1.0) If(1.0) the(1.0) President(1.0) vetoes(1.0) this(0.0) 
+bill(1.0) ,(0.0) I(0.0) intend(0.0) to(0.0) support(0.0) him(0.0) in(0.0) that(0.0) veto(1.0) for(0.0) purposes(1.0) of(0.0) restoring(1.0) the(0.0) lock(1.0) box(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+opposition	coalition	
+party	rescissions	
+spending	cuts	tax	cut	or	for	
+other	spending	.	cuts	would	deficit	reduction	
+billion	
+cut	
+Rural	Health	grants	AHEC	money	Safe	Drug	funds	Vocational	
+money	tax	cuts	.	There	
+trust	bill	billion	
+savings	billion	
+vote	rescission	bill	sake	tax	cuts	.	If	the	President	vetoes	
+bill	veto	purposes	restoring	lock	
+
+reads % = 0.22594142259414227

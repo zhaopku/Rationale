@@ -1,0 +1,42 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) ((0.0) Mr.(0.0) YOUNG(1.0) of(0.0) Alaska(1.0) asked(0.0) and(0.0) was(0.0) given(0.0) 
+permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) )(0.0) 4635(0.0) ,(0.0) the(0.0) Surface(0.0) Transportation(0.0) Extension(0.0) Act(0.0) of(0.0) 2004(0.0) Part(0.0) III(0.0) 
+is(0.0) the(0.0) continuation(0.0) of(0.0) the(0.0) highway(0.0) construction(0.0) and(0.0) highway(0.0) safety(0.0) transit(0.0) ,(0.0) motor(0.0) carrier(0.0) ,(0.0) and(0.0) surface(0.0) transportation(0.0) research(0.0) programs(0.0) 
+for(0.0) an(0.0) additional(0.0) 10(0.0) months(0.0) beyond(0.0) the(0.0) end(0.0) of(0.0) fiscal(0.0) year(0.0) 2003(0.0) .(0.0) This(0.0) is(0.0) the(0.0) fourth(0.0) extension(0.0) of(0.0) the(0.0) 
+Transportation(0.0) Equity(0.0) Act(0.0) of(0.0) the(0.0) 21st(0.0) Century(0.0) ,(0.0) which(0.0) expired(0.0) on(0.0) September(0.0) 30(0.0) ,(0.0) 2003(0.0) .(0.0) In(0.0) September(0.0) 2003(0.0) ,(0.0) 
+we(0.0) extended(0.0) these(0.0) programs(1.0) for(0.0) 5(0.0) months(0.0) until(0.0) February(0.0) 29(0.0) ,(0.0) 2004(0.0) .(0.0) Since(0.0) then(0.0) ,(0.0) we(0.0) have(0.0) passed(0.0) two(0.0) 
+subsequent(0.0) 2-month(0.0) extensions(0.0) ,(0.0) STEA(1.0) 2004(0.0) ,(0.0) parts(0.0) 1(0.0) and(0.0) 2(0.0) ,(0.0) and(0.0) are(0.0) now(0.0) facing(0.0) the(0.0) expiration(0.0) of(0.0) the(0.0) 
+current(0.0) extension(0.0) on(0.0) June(0.0) 30(0.0) .(0.0) This(0.0) extension(0.0) will(0.0) continue(0.0) highway(0.0) transit(1.0) and(0.0) highway(0.0) safety(0.0) programs(1.0) for(0.0) one(0.0) more(0.0) month(0.0) 
+until(0.0) July(0.0) 31(0.0) ,(0.0) 2004(0.0) .(0.0) It(0.0) is(0.0) the(0.0) hope(0.0) of(0.0) the(0.0) conferees(0.0) that(0.0) H.R(0.0) .(0.0) 3550(0.0) ,(0.0) the(0.0) 6-year(1.0) 
+service(0.0) transportation(0.0) reauthorization(0.0) bill(0.0) ,(0.0) that(0.0) we(0.0) will(0.0) complete(0.0) conference(0.0) before(0.0) the(0.0) extension(0.0) expires(0.0) .(0.0) H.R(0.0) .(0.0) 4635(0.0) authorizes(0.0) almost(0.0) 
+$(0.0) 27(0.0) billion(1.0) in(0.0) contract(1.0) authority(0.0) to(0.0) the(0.0) States(0.0) to(0.0) continue(0.0) the(0.0) core(0.0) Federal(1.0) aid(1.0) highway(0.0) program(0.0) .(0.0) This(0.0) bill(1.0) 
+also(0.0) authorizes(0.0) $(0.0) 6(0.0) billion(0.0) to(0.0) continued(0.0) grants(1.0) to(0.0) transit(1.0) agencies(1.0) around(0.0) the(0.0) country(1.0) and(0.0) other(0.0) programs(1.0) of(0.0) the(0.0) Federal(0.0) 
+Transit(1.0) Administration(0.0) .(0.0) It(0.0) authorizes(0.0) $(0.0) 306(0.0) million(0.0) for(0.0) the(0.0) Federal(1.0) Motor(0.0) Carrier(0.0) Safety(0.0) Administration(0.0) for(0.0) State(0.0) grants(0.0) to(0.0) enforce(0.0) 
+safety(0.0) regulation(0.0) on(0.0) our(0.0) Nation(1.0) 's(0.0) highways(1.0) and(0.0) to(0.0) continue(0.0) safety(0.0) inspections(1.0) at(0.0) our(0.0) border(1.0) with(0.0) Mexico(1.0) .(0.0) And(0.0) ,(0.0) 
+finally(0.0) ,(0.0) the(0.0) bill(1.0) authorizes(1.0) $(0.0) 249(0.0) million(0.0) to(0.0) the(0.0) National(0.0) Highway(0.0) Traffic(0.0) Safety(0.0) Administration(0.0) for(0.0) highway(0.0) safety(0.0) grants(1.0) ,(0.0) 
+occupant(0.0) protection(1.0) grants(1.0) ,(0.0) and(0.0) impaired(0.0) driving(0.0) countermeasure(0.0) grants(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+YOUNG	Alaska	
+
+
+
+
+programs	
+STEA	
+transit	programs	
+6-year	
+
+billion	contract	Federal	aid	bill	
+grants	transit	agencies	country	programs	
+Transit	Federal	
+Nation	highways	inspections	border	Mexico	
+bill	authorizes	grants	
+protection	grants	grants	Speaker	
+
+
+reads % = 0.09627329192546584

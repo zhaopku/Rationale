@@ -1,0 +1,22 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) let(0.0) me(0.0) point(0.0) out(0.0) to(0.0) my(0.0) friend(0.0) from(0.0) Wisconsin(1.0) [(0.0) Mr.(0.0) Obey(1.0) ](0.0) that(1.0) I(0.0) am(0.0) absolutely(0.0) sure(0.0) the(0.0) 
+gentleman(0.0) does(0.0) not(0.0) know(0.0) why(0.0) I(0.0) am(0.0) doing(0.0) this(0.0) .(0.0) I(0.0) know(0.0) the(0.0) gentleman(0.0) just(0.0) told(0.0) the(0.0) Members(0.0) why(0.0) I(0.0) 
+am(0.0) doing(0.0) this(0.0) ,(0.0) but(0.0) I(0.0) am(0.0) confident(0.0) that(0.0) the(0.0) gentleman(0.0) does(0.0) not(0.0) know(0.0) .(0.0) Second(0.0) ,(0.0) let(0.0) me(0.0) point(0.0) 
+out(0.0) that(0.0) ,(0.0) yes(0.0) ,(0.0) I(0.0) voted(0.0) against(0.0) special(0.0) education(1.0) ,(0.0) but(0.0) that(0.0) was(0.0) before(0.0) the(0.0) Republican(1.0) Congress(1.0) came(1.0) in(1.0) 
+and(1.0) helped(0.0) straighten(0.0) that(0.0) bill(1.0) out(0.0) .(0.0) At(0.0) the(0.0) time(0.0) ,(0.0) a(0.0) considerable(0.0) amount(0.0) of(0.0) that(0.0) money(1.0) was(0.0) going(0.0) to(0.0) 
+the(0.0) attorneys(1.0) ,(0.0) and(0.0) until(0.0) we(0.0) could(0.0) stop(0.0) that(0.0) particular(0.0) bleeding(0.0) problem(0.0) ,(0.0) then(0.0) it(0.0) did(0.0) not(0.0) make(0.0) sense(0.0) to(0.0) 
+put(0.0) taxpayer(1.0) dollars(1.0) in(0.0) it(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Wisconsin	Obey	that	
+
+
+education	Republican	Congress	came	in	
+and	bill	money	
+attorneys	
+taxpayer	dollars	
+
+reads % = 0.11023622047244094

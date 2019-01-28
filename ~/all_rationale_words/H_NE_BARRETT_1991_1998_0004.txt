@@ -1,0 +1,44 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(1.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Pennsylvania(1.0) ((0.0) Mr.(0.0) Goodling(1.0) )(0.0) for(0.0) yielding(0.0) me(0.0) this(0.0) time(0.0) .(0.0) Mr.(1.0) Chairman(1.0) ,(0.0) 
+I(0.0) rise(1.0) in(0.0) support(0.0) of(0.0) H.R(0.0) .(0.0) 3246(1.0) .(0.0) The(0.0) purpose(0.0) of(0.0) the(0.0) legislation(0.0) ,(0.0) as(0.0) I(0.0) see(0.0) it(0.0) ,(0.0) 
+is(0.0) to(0.0) help(0.0) small(0.0) businesses(1.0) and(0.0) labor(1.0) organizations(0.0) in(0.0) defending(1.0) themselves(0.0) against(0.0) government(1.0) bureaucracy(1.0) ,(0.0) to(0.0) ensure(0.0) that(0.0) employees(1.0) entitled(1.0) 
+to(0.0) reinstatement(1.0) get(0.0) their(0.0) jobs(1.0) back(0.0) quickly(0.0) ,(0.0) and(0.0) to(0.0) protect(0.0) the(0.0) right(1.0) of(0.0) employers(1.0) to(0.0) have(0.0) a(0.0) hearing(0.0) to(0.0) 
+present(1.0) their(0.0) case(0.0) in(0.0) certain(1.0) representation(1.0) cases(0.0) and(0.0) ,(0.0) of(0.0) course(0.0) ,(0.0) to(0.0) prevent(0.0) the(0.0) use(1.0) of(0.0) the(0.0) National(0.0) Labor(0.0) 
+Relations(1.0) Act(0.0) for(0.0) the(0.0) purpose(0.0) of(0.0) disrupting(1.0) or(0.0) inflicting(1.0) economic(0.0) harm(0.0) on(0.0) employers(1.0) .(0.0) H.R(0.0) .(0.0) 3246(1.0) contains(0.0) four(0.0) narrowly(1.0) 
+drafted(0.0) titles(0.0) addressing(1.0) four(1.0) specific(1.0) problem(0.0) in(0.0) the(0.0) National(0.0) Labor(0.0) Relations(1.0) Act(0.0) .(0.0) The(0.0) legislation(0.0) recognizes(0.0) that(0.0) the(0.0) NLRB(1.0) ,(0.0) 
+which(0.0) is(0.0) supposed(0.0) to(0.0) be(0.0) a(0.0) neutral(1.0) referee(1.0) in(0.0) labor(1.0) disputes(0.0) ,(0.0) is(0.0) applying(0.0) the(0.0) law(1.0) in(0.0) a(0.0) way(0.0) that(0.0) 
+not(1.0) only(0.0) harms(1.0) small(0.0) employers(1.0) ,(0.0) business(1.0) and(0.0) unions(1.0) ,(0.0) but(0.0) does(0.0) a(0.0) great(0.0) disservice(1.0) to(0.0) hardworking(0.0) men(0.0) and(0.0) women(0.0) 
+who(0.0) may(0.0) have(0.0) been(0.0) wrongly(1.0) discharged(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) title(0.0) 4(0.0) of(0.0) the(0.0) bill(0.0) is(0.0) modeled(1.0) on(0.0) the(0.0) effective(0.0) 
+``(0.0) loser(1.0) pays(0.0) ''(0.0) concept(1.0) and(0.0) requires(0.0) the(0.0) NLRB(1.0) to(0.0) pay(1.0) attorney(1.0) 's(0.0) fees(0.0) and(0.0) expenses(0.0) of(0.0) small(1.0) employers(1.0) of(0.0) 
+modest(1.0) means(1.0) ,(0.0) including(1.0) businesses(1.0) and(0.0) labor(1.0) organizations(0.0) ,(0.0) who(0.0) win(0.0) their(0.0) cases(0.0) against(0.0) the(0.0) Board(1.0) .(0.0) H.R(0.0) .(0.0) 3246(1.0) 
+only(0.0) applies(1.0) to(0.0) the(0.0) smallest(0.0) businesses(1.0) and(0.0) unions(1.0) which(0.0) have(0.0) 100(0.0) employees(1.0) or(0.0) fewer(0.0) and(0.0) a(0.0) net(0.0) worth(0.0) of(0.0) $(0.0) 
+1.4(0.0) million(0.0) or(0.0) less(0.0) .(0.0) The(0.0) bill(0.0) before(0.0) us(0.0) today(0.0) would(0.0) force(0.0) the(0.0) government(1.0) to(0.0) consider(0.0) carefully(1.0) the(0.0) merits(0.0) of(0.0) 
+the(0.0) case(0.0) before(0.0) it(0.0) proceeded(1.0) against(0.0) a(0.0) small(0.0) entity(1.0) with(0.0) few(0.0) financial(0.0) resources(0.0) .(0.0) Right(1.0) now(0.0) ,(0.0) small(1.0) employers(1.0) often(0.0) 
+settle(1.0) with(0.0) the(0.0) Board(1.0) rather(0.0) than(0.0) spend(1.0) significant(0.0) amounts(1.0) of(0.0) money(1.0) and(0.0) time(0.0) in(0.0) litigation(1.0) .(0.0) I(1.0) believe(1.0) Chairman(1.0) Goodling(1.0) 
+'s(0.0) legislation(0.0) would(1.0) make(0.0) certain(1.0) that(0.0) small(1.0) employers(1.0) and(0.0) unions(1.0) have(0.0) an(0.0) incentive(1.0) to(0.0) stand(1.0) up(0.0) for(0.0) their(0.0) rights(0.0) by(0.0) 
+fighting(1.0) cases(0.0) of(0.0) questionable(1.0) merit(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) urge(1.0) my(0.0) colleagues(1.0) to(0.0) support(0.0) H.R(0.0) .(0.0) 3246(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Pennsylvania	Goodling	Mr.	Chairman	
+rise	3246	
+businesses	labor	defending	government	bureaucracy	employees	entitled	
+reinstatement	jobs	right	employers	
+present	certain	representation	use	
+Relations	disrupting	inflicting	employers	3246	narrowly	
+addressing	four	specific	Relations	NLRB	
+neutral	referee	labor	law	
+not	harms	employers	business	unions	disservice	
+wrongly	discharged	Chairman	modeled	
+loser	concept	NLRB	pay	attorney	small	employers	
+modest	means	including	businesses	labor	Board	3246	
+applies	businesses	unions	employees	
+government	carefully	
+proceeded	entity	Right	small	employers	
+settle	Board	spend	amounts	money	litigation	I	believe	Chairman	Goodling	
+would	certain	small	employers	unions	incentive	stand	
+fighting	questionable	Chairman	urge	colleagues	3246	
+
+reads % = 0.2611111111111111

@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+We(0.0) have(0.0) been(0.0) meeting(0.0) with(0.0) a(0.0) lot(0.0) of(0.0) our(0.0) Members(0.0) today(0.0) to(0.0) talk(0.0) about(0.0) the(0.0) crime(1.0) bill(1.0) .(0.0) We(0.0) are(0.0) trying(0.0) 
+to(0.0) work(0.0) toward(0.0) a(0.0) solution(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+crime	bill	
+
+
+reads % = 0.07407407407407407

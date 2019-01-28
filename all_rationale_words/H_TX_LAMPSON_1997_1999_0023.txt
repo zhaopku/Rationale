@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) tomorrow(0.0) thousands(0.0) and(0.0) thousands(0.0) of(0.0) African(1.0) Americans(1.0) in(0.0) Galveston(1.0) ,(0.0) Texas(1.0) ,(0.0) the(0.0) birthplace(1.0) of(0.0) Juneteenth(1.0) ,(0.0) and(0.0) around(0.0) 
+the(0.0) Nation(1.0) will(0.0) celebrate(0.0) this(0.0) holiday(0.0) of(0.0) freedom(1.0) and(0.0) justice(1.0) .(0.0) President(0.0) Abraham(1.0) Lincoln(1.0) technically(0.0) ended(0.0) the(0.0) right(0.0) to(0.0) own(0.0) 
+human(0.0) beings(0.0) in(0.0) 1863(1.0) ,(0.0) but(0.0) most(0.0) slaves(1.0) gained(0.0) their(0.0) freedom(1.0) only(0.0) after(0.0) Union(1.0) troops(1.0) took(0.0) control(0.0) of(0.0) Confederate(1.0) territory(0.0) 
+and(0.0) released(0.0) them(0.0) from(0.0) bondage(0.0) .(0.0) It(0.0) took(0.0) 2\1/2\(0.0) years(0.0) after(0.0) the(0.0) Emancipation(1.0) Proclamation(1.0) for(0.0) the(0.0) Union(0.0) Army(0.0) to(0.0) reach(0.0) 
+Texas(0.0) ,(0.0) the(0.0) last(0.0) place(0.0) where(0.0) slavery(1.0) was(0.0) not(0.0) only(0.0) allowed(0.0) ,(0.0) but(0.0) also(0.0) enforced(1.0) .(0.0) After(0.0) Union(1.0) General(0.0) Gordon(0.0) 
+Granger(1.0) rode(0.0) into(0.0) Galveston(1.0) and(0.0) announced(0.0) to(0.0) the(0.0) States(0.0) '(0.0) 200,000(0.0) slaves(1.0) that(0.0) they(0.0) were(0.0) free(0.0) ,(0.0) they(0.0) immediately(0.0) erupted(0.0) 
+into(0.0) jubilant(0.0) celebration(0.0) ,(0.0) much(0.0) like(0.0) the(0.0) 4th(0.0) of(0.0) July(0.0) .(0.0) As(0.0) we(0.0) look(0.0) ahead(0.0) to(0.0) the(0.0) next(0.0) millennium(1.0) ,(0.0) 
+I(0.0) challenge(0.0) all(0.0) of(0.0) us(0.0) to(0.0) take(0.0) this(0.0) opportunity(0.0) while(0.0) we(0.0) celebrate(0.0) the(0.0) rich(1.0) history(0.0) of(0.0) this(0.0) celebration(1.0) of(0.0) freedom(1.0) 
+to(0.0) rededicate(1.0) ourselves(0.0) to(0.0) the(0.0) value(0.0) of(0.0) equal(1.0) opportunity(0.0) for(0.0) all(0.0) Americans(1.0) ,(0.0) because(0.0) that(0.0) is(0.0) at(0.0) the(0.0) heart(0.0) of(0.0) 
+Juneteenth(1.0) and(0.0) the(0.0) American(0.0) ideal(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+African	Americans	Galveston	Texas	birthplace	Juneteenth	
+Nation	freedom	justice	Abraham	Lincoln	
+1863	slaves	freedom	Union	troops	Confederate	
+Emancipation	Proclamation	
+slavery	enforced	Union	
+Granger	Galveston	slaves	
+millennium	
+rich	celebration	freedom	
+rededicate	equal	Americans	
+Juneteenth	
+
+reads % = 0.17647058823529413

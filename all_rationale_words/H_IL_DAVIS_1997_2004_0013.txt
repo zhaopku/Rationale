@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) would(0.0) indicate(0.0) that(0.0) California(1.0) is(0.0) 
+leading(0.0) the(0.0) way(0.0) on(0.0) this(0.0) issue(0.0) ,(0.0) and(0.0) the(0.0) rest(0.0) of(0.0) us(0.0) are(0.0) very(0.0) pleased(0.0) to(0.0) follow(0.0) their(0.0) example(0.0) .(0.0) 
+I(0.0) urge(0.0) swift(1.0) passage(1.0) of(0.0) this(0.0) bill(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	California	
+
+swift	passage	bill	
+
+reads % = 0.10204081632653061

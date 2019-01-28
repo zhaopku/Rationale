@@ -1,0 +1,10 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(1.0) ,(0.0) I(0.0) yield(0.0) 20(0.0) seconds(0.0) to(0.0) the(0.0) gentlewoman(0.0) from(0.0) the(0.0) District(1.0) of(0.0) Columbia(1.0) ((0.0) Ms.(1.0) Norton(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+District	Columbia	Ms.	Norton	
+
+reads % = 0.21052631578947367

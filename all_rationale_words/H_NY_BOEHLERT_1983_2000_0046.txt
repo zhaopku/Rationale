@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) this(0.0) is(0.0) an(0.0) amendment(1.0) that(0.0) has(0.0) been(0.0) negotiated(0.0) with(0.0) the(0.0) gentleman(0.0) from(0.0) Utah(1.0) ((0.0) Mr.(0.0) Hansen(1.0) )(0.0) and(0.0) the(0.0) 
+gentleman(0.0) from(0.0) Utah(0.0) ((0.0) Mr.(0.0) Cannon(1.0) )(0.0) .(0.0) The(0.0) amendment(0.0) would(0.0) expand(0.0) the(0.0) boundaries(0.0) of(0.0) the(0.0) San(1.0) Rafael(0.0) Conservation(0.0) Area(0.0) 
+to(0.0) include(0.0) parts(0.0) of(0.0) the(0.0) Factory(0.0) Butte(0.0) and(0.0) Muddy(0.0) Creek(0.0) areas(0.0) in(0.0) Wayne(0.0) County(1.0) .(0.0) These(0.0) are(0.0) areas(0.0) that(0.0) ,(0.0) 
+appropriately(0.0) ,(0.0) environmental(1.0) groups(0.0) have(0.0) been(0.0) most(0.0) interested(0.0) in(0.0) protecting(1.0) and(0.0) so(0.0) am(0.0) I(0.0) ,(0.0) and(0.0) thus(0.0) this(0.0) amendment(1.0) .(0.0) 
+I(0.0) know(0.0) that(0.0) some(0.0) Members(0.0) and(0.0) outside(0.0) groups(0.0) would(0.0) like(0.0) to(0.0) include(0.0) even(0.0) more(0.0) terrain(0.0) in(0.0) the(0.0) Conservation(0.0) Area(0.0) .(0.0) 
+But(0.0) this(0.0) is(0.0) the(0.0) most(0.0) we(0.0) can(0.0) get(0.0) right(0.0) now(0.0) without(0.0) destroying(1.0) the(0.0) fragile(1.0) coalition(1.0) that(0.0) reached(0.0) the(0.0) agreement(0.0) that(0.0) 
+is(0.0) embodied(1.0) in(0.0) this(0.0) bill(1.0) .(0.0) There(0.0) is(0.0) nothing(0.0) in(0.0) the(0.0) bill(1.0) that(0.0) prejudices(1.0) or(0.0) prevents(0.0) any(0.0) decision(1.0) to(0.0) add(0.0) 
+further(0.0) territory(0.0) later(0.0) on(0.0) .(0.0) So(0.0) I(0.0) urge(0.0) support(0.0) for(0.0) this(0.0) amendment(1.0) ,(0.0) which(0.0) will(0.0) extend(0.0) the(0.0) protection(1.0) of(0.0) this(0.0) 
+bill(1.0) to(0.0) two(0.0) key(0.0) scenic(0.0) areas(0.0) .(0.0) Let(0.0) us(0.0) make(0.0) the(0.0) San(1.0) Rafael(0.0) Conservation(0.0) Area(0.0) as(0.0) large(0.0) as(0.0) we(0.0) can(0.0) 
+right(0.0) now(0.0) for(0.0) the(0.0) protection(0.0) of(0.0) the(0.0) environment(0.0) and(0.0) the(0.0) enjoyment(0.0) of(0.0) all(0.0) Americans(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) urge(0.0) 
+adoption(1.0) of(0.0) my(0.0) amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+amendment	Utah	Hansen	
+Cannon	San	
+County	
+environmental	protecting	amendment	
+
+destroying	fragile	coalition	
+embodied	bill	bill	prejudices	decision	
+amendment	protection	
+bill	San	
+Americans	Chairman	
+adoption	amendment	
+
+reads % = 0.12135922330097088

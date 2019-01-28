@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) have(0.0) here(0.0) from(0.0) the(0.0) sentencing(1.0) project(0.0) ,(0.0) which(0.0) did(0.0) a(0.0) study(0.0) called(0.0) ``(0.0) Young(0.0) Black(1.0) Americans(1.0) and(0.0) the(0.0) Criminal(1.0) Justice(0.0) 
+System(0.0) Five(0.0) Years(0.0) Later(0.0) .(0.0) ''(0.0) They(0.0) end(0.0) their(0.0) summary(0.0) of(0.0) that(0.0) report(0.0) with(0.0) a(0.0) chart(0.0) showing(0.0) the(0.0) percentages(0.0) of(0.0) 
+African-Americans(1.0) in(0.0) the(0.0) population(1.0) among(0.0) the(0.0) monthly(0.0) drug(0.0) users(0.0) ,(0.0) what(0.0) percentage(0.0) they(0.0) constitute(0.0) of(0.0) drug(1.0) arrests(1.0) ,(0.0) of(0.0) drug(1.0) 
+convictions(1.0) and(0.0) prison(1.0) sentences(1.0) .(0.0) Here(0.0) I(0.0) think(0.0) ,(0.0) I(0.0) say(0.0) to(0.0) my(0.0) colleagues(0.0) ,(0.0) is(0.0) where(0.0) we(0.0) can(0.0) get(0.0) 
+an(0.0) idea(0.0) about(0.0) the(0.0) unfairness(1.0) of(0.0) the(0.0) system(0.0) without(0.0) any(0.0) doubt(0.0) whatsoever(0.0) .(0.0) The(0.0) first(0.0) chart(0.0) ,(0.0) the(0.0) first(0.0) bar(0.0) 
+is(0.0) of(0.0) the(0.0) U.S.(0.0) population(0.0) of(0.0) African-(0.0) Americans(1.0) by(0.0) percentage(0.0) ,(0.0) 12(0.0) percent(0.0) .(0.0) The(0.0) next(0.0) bar(0.0) is(0.0) monthly(0.0) drug(1.0) 
+users(0.0) who(0.0) are(0.0) African-Americans(1.0) ,(0.0) 13(0.0) percent(0.0) .(0.0) The(0.0) third(0.0) bar(0.0) is(0.0) drug(1.0) arrests(1.0) ,(0.0) African-Americans(1.0) arrested(1.0) for(0.0) drug(1.0) use(0.0) 
+,(0.0) 35(0.0) percent(0.0) of(0.0) all(0.0) those(0.0) arrested(0.0) .(0.0) But(0.0) 13(0.0) percent(0.0) are(0.0) drug(1.0) users(0.0) ,(0.0) 35(0.0) percent(0.0) arrested(1.0) .(0.0) The(0.0) 
+next(0.0) bar(0.0) is(0.0) drug(1.0) convictions(1.0) ,(0.0) 55(0.0) percent(0.0) .(0.0) And(0.0) the(0.0) last(0.0) bar(0.0) is(0.0) prison(1.0) sentences(0.0) ,(0.0) 74(0.0) percent(0.0) .(0.0) 
+So(0.0) from(0.0) 12(0.0) percent(0.0) of(0.0) the(0.0) population(1.0) ,(0.0) to(0.0) 13(0.0) percent(0.0) of(0.0) the(0.0) monthly(0.0) drug(0.0) users(0.0) ,(0.0) to(0.0) 35(0.0) percent(0.0) 
+of(0.0) the(0.0) drug(1.0) arrests(1.0) ,(0.0) to(0.0) 55(0.0) percent(0.0) of(0.0) the(0.0) drug(1.0) convictions(1.0) ,(0.0) to(0.0) 74(0.0) percent(0.0) of(0.0) the(0.0) prison(1.0) sentences(0.0) 
+,(0.0) it(0.0) seems(0.0) to(0.0) me(0.0) a(0.0) good(0.0) time(0.0) this(0.0) evening(0.0) ,(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) for(0.0) the(0.0) Subcommittee(0.0) on(0.0) Crime(0.0) of(0.0) 
+the(0.0) House(0.0) Committee(0.0) on(0.0) the(0.0) Judiciary(0.0) ,(0.0) that(0.0) we(0.0) begin(0.0) to(0.0) plan(0.0) for(0.0) an(0.0) investigation(0.0) into(0.0) the(0.0) relationships(0.0) between(0.0) race(1.0) 
+and(0.0) the(0.0) criminal(1.0) justice(1.0) system(0.0) .(0.0) Now(0.0) ,(0.0) we(0.0) have(0.0) done(0.0) that(0.0) in(0.0) a(0.0) couple(0.0) of(0.0) important(0.0) respects(0.0) this(0.0) year(0.0) 
+.(0.0) I(0.0) would(0.0) like(0.0) all(0.0) of(0.0) our(0.0) colleagues(0.0) to(0.0) know(0.0) about(0.0) what(0.0) the(0.0) gentleman(0.0) has(0.0) done(0.0) in(0.0) that(0.0) regard(0.0) ,(0.0) 
+because(0.0) we(0.0) are(0.0) having(0.0) hearings(0.0) on(0.0) the(0.0) militia(1.0) in(0.0) America(1.0) very(0.0) soon(0.0) ,(0.0) next(0.0) month(0.0) .(0.0) That(0.0) was(0.0) a(0.0) result(0.0) 
+of(0.0) the(0.0) gentleman(0.0) 's(0.0) cooperation(0.0) and(0.0) the(0.0) gentleman(0.0) from(0.0) Illinois(1.0) [(0.0) Mr.(0.0) Hyde(1.0) ](0.0) ,(0.0) the(0.0) chairman(0.0) ,(0.0) that(0.0) we(0.0) 
+would(0.0) look(0.0) into(0.0) these(0.0) militia(1.0) ,(0.0) also(0.0) these(0.0) other(0.0) organizations(0.0) ,(0.0) the(0.0) skinheads(1.0) ,(0.0) the(0.0) Aryan(1.0) Nations(0.0) and(0.0) other(0.0) sorts(0.0) 
+of(0.0) groups(0.0) .(0.0) I(0.0) have(0.0) been(0.0) trying(0.0) to(0.0) get(0.0) that(0.0) investigation(0.0) and(0.0) hearing(0.0) for(0.0) many(0.0) years(0.0) .(0.0) We(0.0) now(0.0) have(0.0) 
+another(0.0) request(0.0) in(0.0) to(0.0) the(0.0) chairman(0.0) ,(0.0) not(0.0) unrelated(0.0) to(0.0) this(0.0) subject(0.0) ,(0.0) about(0.0) investigating(0.0) police(0.0) activity(0.0) in(0.0) America(1.0) now(0.0) 
+that(0.0) we(0.0) have(0.0) found(0.0) that(0.0) ,(0.0) in(0.0) Philadelphia(1.0) ,(0.0) police(0.0) have(0.0) been(0.0) planting(0.0) drugs(0.0) ,(0.0) planting(0.0) evidence(0.0) to(0.0) the(0.0) extent(0.0) 
+that(0.0) they(0.0) have(0.0) spoiled(0.0) hundreds(0.0) of(0.0) cases(0.0) pending(1.0) and(0.0) that(0.0) have(0.0) occurred(0.0) in(0.0) the(0.0) criminal(1.0) justice(1.0) system(0.0) in(0.0) that(0.0) city(1.0) 
+.(0.0) We(0.0) know(0.0) about(0.0) the(0.0) Fuhrman(1.0) tapes(0.0) ,(0.0) 12(0.0) hours(0.0) of(0.0) tapes(0.0) that(0.0) recount(1.0) an(0.0) incredible(0.0) amount(0.0) of(0.0) intentional(0.0) lawbreaking(1.0) 
+not(0.0) only(0.0) on(0.0) the(0.0) part(0.0) of(0.0) former(0.0) Detective(0.0) Fuhrman(0.0) but(0.0) that(0.0) was(0.0) endemic(0.0) throughout(0.0) the(0.0) police(0.0) department(0.0) in(0.0) which(0.0) he(0.0) 
+served(0.0) for(0.0) many(0.0) years(0.0) .(0.0) We(0.0) have(0.0) complaints(0.0) coming(0.0) from(0.0) as(0.0) close(0.0) in(0.0) as(0.0) Maryland(1.0) ,(0.0) as(0.0) far(0.0) as(0.0) 
+
+
+----- below are rationale words -----
+
+sentencing	Black	Americans	Criminal	
+
+African-Americans	population	drug	arrests	drug	
+convictions	prison	sentences	
+unfairness	
+Americans	drug	
+African-Americans	drug	arrests	African-Americans	arrested	drug	
+drug	arrested	
+drug	convictions	prison	
+population	
+drug	arrests	drug	convictions	prison	
+Chairman	
+race	
+criminal	justice	
+
+militia	America	
+Illinois	Hyde	
+militia	skinheads	Aryan	
+
+America	
+Philadelphia	
+pending	criminal	justice	city	
+Fuhrman	recount	lawbreaking	
+
+Maryland	
+
+reads % = 0.106

@@ -1,0 +1,24 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) 30(0.0) seconds(0.0) ,(0.0) and(0.0) I(0.0) would(0.0) like(0.0) to(0.0) then(0.0) yield(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) [(0.0) 
+Mr.(0.0) Cunningham(1.0) ](0.0) .(0.0) I(0.0) just(0.0) point(0.0) out(0.0) that(0.0) ,(0.0) as(0.0) my(0.0) colleagues(0.0) know(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Pennsylvania(1.0) [(0.0) 
+Mr.(0.0) Goodling(1.0) ](0.0) chairman(1.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Economic(0.0) and(0.0) Educational(0.0) Opportunities(0.0) ,(0.0) pointed(0.0) out(0.0) there(0.0) are(0.0) 760(0.0) education(0.0) programs(0.0) 
+.(0.0) Only(0.0) 6(0.0) percent(0.0) are(0.0) actually(0.0) dedicated(0.0) to(0.0) math(0.0) ,(0.0) reading(0.0) and(0.0) science(0.0) .(0.0) Now(0.0) this(0.0) country(1.0) spends(0.0) $(0.0) 26(0.0) 
+billion(0.0) on(0.0) just(0.0) the(0.0) Education(0.0) Department(0.0) alone(0.0) ,(0.0) and(0.0) by(0.0) some(0.0) estimates(0.0) when(0.0) we(0.0) include(0.0) all(0.0) the(0.0) other(0.0) departments(0.0) in(0.0) 
+the(0.0) Government(0.0) ,(0.0) we(0.0) may(0.0) spend(0.0) some(0.0) $(0.0) 200(0.0) billion(1.0) on(0.0) education(1.0) ,(0.0) and(0.0) yet(0.0) the(0.0) other(0.0) side(0.0) never(0.0) wants(0.0) 
+to(0.0) eliminate(1.0) a(0.0) program(0.0) ,(0.0) they(0.0) never(0.0) want(0.0) to(0.0) close(0.0) a(0.0) program(1.0) .(0.0) Lord(0.0) ,(0.0) do(0.0) we(0.0) need(0.0) 760(1.0) education(1.0) 
+programs(1.0) ?(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) 2\1/2\(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) [(0.0) Mr.(0.0) Cunningham(1.0) ](0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Cunningham	Pennsylvania	
+Goodling	chairman	
+country	
+
+billion	education	
+eliminate	program	760	education	
+programs	Speaker	Cunningham	
+
+reads % = 0.0875

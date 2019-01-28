@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) this(0.0) is(0.0) what(0.0) a(0.0) prominent(0.0) Governor(0.0) has(1.0) to(0.0) say(0.0) about(0.0) reforming(1.0) Medicaid(1.0) :(0.0) ``(0.0) If(0.0) the(0.0) Federal(1.0) Government(1.0) would(0.0) 
+just(0.0) release(0.0) us(0.0) from(0.0) its(0.0) bureaucracy(1.0) and(0.0) nonsense(1.0) ,(0.0) we(0.0) 'd(0.0) make(0.0) these(0.0) programs(1.0) better(0.0) for(0.0) those(0.0) they(0.0) serve(0.0) ,(0.0) 
+and(0.0) we(0.0) 'd(0.0) do(0.0) it(0.0) for(0.0) less(0.0) money(1.0) .(0.0) ''(0.0) Any(0.0) guesses(0.0) on(0.0) who(0.0) said(0.0) this(0.0) ?(0.0) It(0.0) was(0.0) Massachusetts(1.0) 
+Governor(0.0) Bill(1.0) Weld(1.0) in(0.0) a(0.0) Wall(0.0) Street(0.0) Journal(0.0) article(0.0) from(0.0) Monday(0.0) .(0.0) Here(0.0) 's(0.0) quote(0.0) from(0.0) another(0.0) well-known(0.0) Governor(0.0) :(1.0) 
+``(0.0) Medicaid(0.0) mandates(1.0) have(0.0) put(0.0) great(0.0) stress(0.0) on(0.0) State(0.0) budgets(0.0) and(0.0) undermined(1.0) the(0.0) States'(0.0) ability(0.0) to(0.0) properly(0.0) fund(1.0) education(1.0) and(0.0) 
+other(0.0) important(0.0) services(0.0) .(0.0) ''(0.0) Any(0.0) guesses(0.0) on(0.0) this(0.0) one(0.0) ?(0.0) Well(0.0) ,(0.0) this(0.0) quote(0.0) is(0.0) from(0.0) a(0.0) document(0.0) coauthored(0.0) 
+by(0.0) Governor(0.0) Bill(1.0) Clinton(1.0) in(0.0) 1989(0.0) .(0.0) As(0.0) Governor(0.0) ,(0.0) Bill(0.0) Clinton(1.0) warned(1.0) that(0.0) Medicaid(1.0) mandates(1.0) were(0.0) too(0.0) burdensome(1.0) and(0.0) 
+in(0.0) need(0.0) of(0.0) more(0.0) State-level(1.0) control(0.0) .(0.0) Now(0.0) ,(0.0) as(0.0) President(1.0) ,(0.0) Mr.(0.0) Clinton(1.0) has(1.0) the(0.0) opportunity(0.0) to(0.0) take(0.0) care(0.0) 
+of(0.0) that(0.0) problem(0.0) ,(0.0) but(0.0) he(0.0) has(0.0) changed(0.0) his(0.0) position(0.0) ,(0.0) and(0.0) he(0.0) has(0.0) vetoed(0.0) a(0.0) bill(1.0) that(0.0) would(0.0) have(0.0) 
+accomplished(0.0) that(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) urge(0.0) the(0.0) President(1.0) to(0.0) join(0.0) us(0.0) in(0.0) giving(0.0) the(0.0) States(0.0) better(0.0) control(0.0) over(0.0) 
+our(0.0) Medicaid(1.0) system(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+has	reforming	Medicaid	Federal	Government	
+bureaucracy	nonsense	programs	
+money	Massachusetts	
+Bill	Weld	:	
+mandates	undermined	fund	education	
+
+Bill	Clinton	Clinton	warned	Medicaid	mandates	burdensome	
+State-level	President	Clinton	has	
+bill	
+Speaker	President	
+Medicaid	system	
+
+reads % = 0.16097560975609757

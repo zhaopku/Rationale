@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Murrow(1.0) High(0.0) School(0.0) is(0.0) known(0.0) for(0.0) a(0.0) great(0.0) many(0.0) things(0.0) ,(0.0) not(0.0) the(0.0) least(0.0) of(0.0) which(0.0) is(0.0) producing(0.0) the(0.0) only(0.0) two(0.0) 
+truly(0.0) talented(0.0) members(0.0) of(0.0) the(0.0) Weiner(1.0) family(0.0) ,(0.0) my(0.0) brothers(0.0) Jason(0.0) and(0.0) Seth(0.0) ;(0.0) but(0.0) this(0.0) year(0.0) they(0.0) are(0.0) also(0.0) 
+known(0.0) as(0.0) the(0.0) 2004(0.0) national(0.0) chess(0.0) champs(0.0) ,(0.0) defeating(0.0) over(0.0) 150(0.0) schools(0.0) ,(0.0) 300,000(0.0) student(0.0) .(0.0) This(0.0) goes(0.0) with(0.0) their(0.0) 
+dynasty-building(0.0) wins(0.0) in(0.0) 1992(0.0) ,(0.0) 1993(0.0) and(0.0) 1994(0.0) ,(0.0) under(0.0) the(0.0) excellent(0.0) coaching(0.0) of(0.0) Eliot(1.0) Weiss(1.0) .(0.0) We(0.0) have(0.0) to(0.0) 
+recognize(0.0) they(0.0) do(0.0) belong(0.0) in(0.0) the(0.0) pantheon(0.0) of(0.0) dynasties(0.0) ,(0.0) as(0.0) they(0.0) defeated(0.0) every(0.0) school(0.0) in(0.0) the(0.0) country(1.0) and(0.0) are(0.0) 
+soon(0.0) going(0.0) to(0.0) be(0.0) taking(0.0) on(0.0) those(0.0) in(0.0) this(0.0) world(0.0) .(0.0) And(0.0) as(0.0) soon(0.0) as(0.0) NASA(0.0) makes(0.0) it(0.0) possible(0.0) ,(0.0) 
+I(0.0) am(0.0) sure(0.0) they(0.0) will(0.0) defeat(1.0) teams(0.0) from(0.0) other(0.0) planets(0.0) .(0.0) Let(0.0) me(0.0) read(0.0) the(0.0) roll(0.0) call(0.0) of(0.0) this(0.0) great(0.0) 
+team(0.0) :(0.0) Salvijus(0.0) Bercys(0.0) ,(0.0) Dimitry(1.0) Minevich(0.0) ,(0.0) Olga(0.0) Novikova(1.0) ,(0.0) Alex(0.0) Lidnerman(0.0) ,(0.0) Ilya(0.0) Kotlyanskiy(0.0) ,(0.0) Oscar(0.0) Santana(1.0) ,(0.0) 
+Willy(0.0) Edgard(1.0) ,(0.0) and(0.0) Niles(0.0) Smith(0.0) .(0.0) There(0.0) is(0.0) a(0.0) reason(0.0) they(0.0) call(0.0) this(0.0) team(0.0) the(0.0) Brooklyn(1.0) Kings(0.0) .(0.0) We(0.0) 
+offer(0.0) them(0.0) our(0.0) congratulations(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Weiner	
+
+Eliot	Weiss	
+country	
+
+defeat	
+Dimitry	Novikova	Santana	
+Edgard	Brooklyn	
+
+
+reads % = 0.053763440860215055

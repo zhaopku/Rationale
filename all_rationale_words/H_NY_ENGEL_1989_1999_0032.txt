@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) as(0.0) I(0.0) mentioned(0.0) before(0.0) ,(0.0) the(0.0) Parliamentary(0.0) Assembly(0.0) of(0.0) the(0.0) OSCE(0.0) ,(0.0) Organization(0.0) for(0.0) Security(0.0) and(0.0) Cooperation(0.0) in(0.0) Europe(0.0) 
+,(0.0) passed(0.0) a(0.0) resolution(0.0) similar(0.0) to(0.0) our(0.0) amendment(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) yield(0.0) 1(0.0) minute(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) 
+Maryland(1.0) ((0.0) Mr.(0.0) Cardin(1.0) )(0.0) ,(0.0) the(0.0) author(0.0) of(0.0) that(0.0) resolution(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+amendment	Chairman	
+Maryland	Cardin	
+
+reads % = 0.07547169811320754

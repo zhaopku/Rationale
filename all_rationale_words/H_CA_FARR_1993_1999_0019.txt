@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentlewoman(0.0) for(0.0) yielding(0.0) me(0.0) the(0.0) time(0.0) .(0.0) I(0.0) rise(0.0) as(0.0) a(0.0) new(0.0) member(0.0) of(0.0) the(0.0) Committee(0.0) 
+on(0.0) Appropriations(0.0) and(0.0) of(0.0) the(0.0) Subcommittee(0.0) of(0.0) Agriculture(0.0) ,(0.0) first(0.0) of(0.0) all(0.0) to(0.0) tell(0.0) them(0.0) how(0.0) much(0.0) I(0.0) appreciated(0.0) the(0.0) 
+leadership(0.0) that(0.0) was(0.0) given(0.0) in(0.0) this(0.0) markup(1.0) by(0.0) the(0.0) chairman(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) Mexico(1.0) ((0.0) Mr.(0.0) Skeen(1.0) )(0.0) 
+and(0.0) also(0.0) by(0.0) our(0.0) ranking(0.0) member(0.0) ,(0.0) the(0.0) gentlewoman(0.0) from(0.0) Ohio(1.0) ((0.0) Ms.(1.0) Kaptur(1.0) )(0.0) .(0.0) I(0.0) represent(0.0) a(0.0) productive(0.0) 
+part(0.0) of(0.0) our(0.0) country(1.0) .(0.0) We(0.0) produce(0.0) about(0.0) 84(0.0) crops(1.0) ,(0.0) which(0.0) no(0.0) other(0.0) State(0.0) in(0.0) the(0.0) United(0.0) States(0.0) produces(0.0) 
+that(0.0) many(0.0) as(0.0) are(0.0) produced(0.0) in(0.0) my(0.0) district(0.0) ,(0.0) about(0.0) $(0.0) 2.5(0.0) billion(1.0) in(0.0) agricultural(1.0) sales(0.0) .(0.0) And(0.0) most(0.0) of(0.0) 
+it(0.0) does(0.0) not(0.0) receive(0.0) any(0.0) help(0.0) from(0.0) the(0.0) Federal(1.0) Government(1.0) .(0.0) But(0.0) they(0.0) are(0.0) interested(0.0) in(0.0) research(0.0) and(0.0) they(0.0) are(0.0) 
+interested(0.0) in(0.0) sort(0.0) of(0.0) cutting-edge(1.0) issues(0.0) .(0.0) I(0.0) would(0.0) just(0.0) like(0.0) to(0.0) point(0.0) out(0.0) ,(0.0) for(0.0) those(0.0) that(0.0) are(0.0) interested(0.0) 
+in(0.0) these(0.0) budgetary(1.0) issues(0.0) ,(0.0) that(0.0) this(0.0) markup(1.0) is(0.0) about(0.0) a(0.0) 1.8(0.0) percent(0.0) increase(1.0) over(0.0) last(0.0) year(0.0) 's(0.0) discretionary(1.0) money(0.0) 
+.(0.0) Now(0.0) ,(0.0) remember(0.0) ,(0.0) last(0.0) year(0.0) we(0.0) had(0.0) a(0.0) lot(0.0) of(0.0) agricultural(1.0) debate(1.0) on(0.0) the(0.0) floor(0.0) because(0.0) we(0.0) were(0.0) 
+putting(0.0) money(1.0) into(0.0) supplementals(1.0) ,(0.0) into(0.0) emergency(1.0) aid(1.0) .(0.0) If(0.0) we(0.0) take(0.0) the(0.0) total(0.0) amount(0.0) that(0.0) was(0.0) spent(0.0) last(0.0) year(0.0) 
+on(0.0) agriculture(1.0) and(0.0) we(0.0) look(0.0) at(0.0) the(0.0) amount(0.0) that(0.0) was(0.0) spent(0.0) this(0.0) year(0.0) ,(0.0) we(0.0) are(0.0) $(0.0) 6.4(0.0) billion(1.0) below(0.0) 
+what(0.0) Congress(0.0) spent(0.0) last(0.0) year(0.0) ,(0.0) or(0.0) about(0.0) a(0.0) 31(0.0) percent(0.0) cut(1.0) .(0.0) So(0.0) this(0.0) is(0.0) a(0.0) very(0.0) ,(0.0) very(0.0) 
+,(0.0) very(0.0) tight(0.0) budget(1.0) .(0.0) And(0.0) I(0.0) might(0.0) add(0.0) ,(0.0) as(0.0) tight(0.0) as(0.0) it(0.0) is(0.0) ,(0.0) it(0.0) still(0.0) ranks(0.0) number(0.0) 
+four(0.0) of(0.0) all(0.0) the(0.0) appropriation(1.0) committees(0.0) in(0.0) the(0.0) amount(0.0) of(0.0) spending(1.0) it(0.0) does(0.0) .(0.0) Why(0.0) ?(0.0) Because(0.0) in(0.0) America(1.0) we(0.0) 
+created(0.0) the(0.0) Department(0.0) of(0.0) Agriculture(1.0) when(0.0) President(0.0) Lincoln(0.0) was(0.0) here(0.0) ,(0.0) and(0.0) he(0.0) indicated(0.0) that(0.0) we(0.0) needed(0.0) a(0.0) department(0.0) that(0.0) 
+essentially(0.0) had(0.0) a(0.0) little(0.0) bit(0.0) for(0.0) everybody(0.0) in(0.0) America(1.0) ,(0.0) kind(0.0) of(0.0) a(0.0) consumers(0.0) department(0.0) .(0.0) So(0.0) the(0.0) department(0.0) has(0.0) 
+all(0.0) the(0.0) rural(1.0) America(0.0) issues(0.0) ,(0.0) which(0.0) are(0.0) as(0.0) true(0.0) today(0.0) as(0.0) they(0.0) were(0.0) a(0.0) hundred(0.0) years(0.0) ago(0.0) .(0.0) Rural(1.0) 
+America(0.0) always(0.0) needs(0.0) more(0.0) help(0.0) .(0.0) We(0.0) have(0.0) all(0.0) the(0.0) commodities(1.0) programs(1.0) .(0.0) We(0.0) have(0.0) all(0.0) the(0.0) foreign(1.0) sales(0.0) programs(0.0) 
+,(0.0) whether(0.0) we(0.0) are(0.0) going(0.0) to(0.0) have(0.0) commodities(1.0) abroad(0.0) .(0.0) And(0.0) I(0.0) know(0.0) there(0.0) will(0.0) be(0.0) Members(0.0) up(0.0) here(0.0) attacking(1.0) 
+the(0.0) fact(0.0) we(0.0) put(0.0) taxpayers'(0.0) money(1.0) into(0.0) foreign(1.0) sales(0.0) .(0.0) But(0.0) my(0.0) colleagues(0.0) ,(0.0) wake(0.0) up(0.0) and(0.0) smell(0.0) the(0.0) coffee(0.0) 
+.(0.0) Every(0.0) day(0.0) we(0.0) have(0.0) Juan(0.0) Valdez(1.0) telling(0.0) us(0.0) to(0.0) drink(0.0) Colombian(1.0) coffee(0.0) ,(0.0) and(0.0) we(0.0) do(0.0) .(0.0) Why(0.0) ?(0.0) 
+Because(0.0) that(0.0) country(1.0) puts(0.0) money(1.0) in(0.0) advertising(1.0) in(0.0) America(1.0) and(0.0) Americans(1.0) buy(0.0) it(0.0) .(0.0) So(0.0) we(0.0) do(0.0) a(0.0) little(0.0) quid(0.0) 
+pro(0.0) quo(1.0) in(0.0) the(0.0) same(0.0) way(0.0) .(0.0) We(0.0) take(0.0) money(1.0) here(0.0) and(0.0) we(0.0) take(0.0) products(0.0) and(0.0) try(0.0) to(0.0) get(0.0) them(0.0) 
+to(0.0) sell(0.0) abroad(0.0) .(0.0) Why(0.0) ?(0.0) Because(0.0) we(0.0) export(1.0) four(0.0) times(0.0) more(0.0) than(0.0) we(0.0) import(0.0) .(0.0) Our(0.0) balance(0.0) of(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+markup	Mexico	Skeen	
+Ohio	Ms.	Kaptur	
+country	crops	
+billion	agricultural	
+Federal	Government	
+cutting-edge	
+budgetary	markup	increase	discretionary	
+agricultural	debate	
+money	supplementals	emergency	aid	
+agriculture	billion	
+cut	
+budget	
+appropriation	spending	America	
+Agriculture	
+America	
+rural	Rural	
+commodities	programs	foreign	
+commodities	attacking	
+money	foreign	
+Valdez	Colombian	
+country	money	advertising	America	Americans	
+quo	money	
+export	
+
+reads % = 0.102

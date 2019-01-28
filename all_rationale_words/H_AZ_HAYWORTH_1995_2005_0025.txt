@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) thank(0.0) my(0.0) colleague(0.0) from(0.0) Arizona(1.0) for(0.0) yielding(0.0) me(0.0) time(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) 
+this(0.0) bipartisan(1.0) amendment(1.0) because(1.0) it(0.0) is(0.0) important(0.0) not(0.0) only(0.0) to(0.0) the(0.0) State(0.0) of(0.0) Arizona(1.0) but(0.0) to(0.0) the(0.0) entire(0.0) Nation(1.0) .(0.0) 
+As(0.0) of(0.0) last(0.0) year(0.0) ,(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) 40(0.0) of(0.0) our(0.0) 50(0.0) States(0.0) as(0.0) well(0.0) as(0.0) the(0.0) District(0.0) of(0.0) Columbia(0.0) 
+and(0.0) Puerto(0.0) Rico(1.0) have(0.0) passed(0.0) charter(0.0) school(0.0) laws(0.0) .(0.0) My(0.0) good(0.0) friend(0.0) ,(0.0) a(0.0) member(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Appropriations(0.0) 
+,(0.0) pointed(0.0) out(0.0) that(0.0) charter(1.0) schools(1.0) are(0.0) public(1.0) schools(1.0) ,(0.0) that(0.0) charter(1.0) schools(1.0) in(0.0) fact(0.0) offer(0.0) services(0.0) to(0.0) children(0.0) with(0.0) 
+special(0.0) needs(0.0) .(0.0) And(0.0) we(0.0) can(0.0) not(0.0) stand(0.0) by(0.0) and(0.0) allow(0.0) the(0.0) Department(0.0) of(0.0) Education(0.0) by(0.0) bureaucratic(1.0) fiat(1.0) to(0.0) decide(0.0) 
+to(0.0) cut(1.0) off(0.0) these(0.0) funds(1.0) to(0.0) deserving(1.0) children(0.0) in(0.0) what(0.0) are(0.0) public(1.0) schools(1.0) as(0.0) set(0.0) forth(0.0) by(0.0) State(0.0) standards(0.0) .(0.0) 
+Education(0.0) is(0.0) a(0.0) national(0.0) priority(0.0) and(0.0) ultimately(0.0) a(0.0) local(0.0) concern(0.0) .(0.0) And(0.0) just(0.0) as(0.0) Arizona(1.0) has(0.0) taken(0.0) the(0.0) lead(0.0) in(0.0) 
+terms(1.0) of(0.0) formation(1.0) and(0.0) the(0.0) flourishing(0.0) of(0.0) charter(1.0) schools(1.0) ,(0.0) we(0.0) want(0.0) to(0.0) see(0.0) the(0.0) funds(1.0) there(0.0) for(0.0) the(0.0) children(0.0) 
+who(0.0) deserve(1.0) them(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Arizona	Chairman	
+bipartisan	amendment	because	Arizona	Nation	
+Chairman	
+Rico	
+charter	schools	public	schools	charter	schools	
+bureaucratic	fiat	
+cut	funds	deserving	public	schools	
+Arizona	
+terms	formation	charter	schools	funds	
+deserve	
+
+reads % = 0.15675675675675677

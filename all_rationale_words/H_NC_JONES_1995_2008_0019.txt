@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) this(0.0) week(0.0) I(0.0) received(0.0) a(0.0) notice(0.0) from(0.0) the(0.0) Chief(0.0) Administrative(0.0) Officer(0.0) and(0.0) the(0.0) Architect(0.0) of(0.0) the(0.0) Capitol(0.0) directing(0.0) 
+me(0.0) to(0.0) remove(0.0) a(0.0) memorial(0.0) outside(0.0) of(0.0) my(0.0) office(0.0) ,(0.0) which(0.0) honors(0.0) fallen(0.0) marines(0.0) from(0.0) Camp(0.0) Lejeune(1.0) ,(0.0) North(0.0) Carolina(0.0) 
+,(0.0) because(0.0) it(0.0) does(0.0) not(0.0) comply(0.0) with(0.0) the(0.0) new(0.0) hallway(0.0) policy(0.0) of(0.0) the(0.0) House(0.0) .(0.0) The(0.0) hallway(0.0) policy(0.0) states(0.0) that(0.0) 
+items(0.0) such(0.0) as(0.0) flags(0.0) ,(0.0) equipment(0.0) ,(0.0) furnishings(0.0) ,(0.0) and(0.0) trash(1.0) must(0.0) be(0.0) removed(0.0) from(0.0) the(0.0) hallways(0.0) .(0.0) The(0.0) policy(1.0) 
+defines(0.0) furnishings(0.0) ,(0.0) in(0.0) part(0.0) ,(0.0) as(0.0) easels(0.0) and(0.0) exhibits(0.0) and(0.0) posters(0.0) .(0.0) While(0.0) the(0.0) Faces(1.0) of(0.0) the(0.0) Fallen(0.0) memorial(0.0) 
+displayed(0.0) outside(0.0) my(0.0) office(0.0) does(0.0) include(0.0) posters(0.0) and(0.0) easels(0.0) ,(0.0) I(0.0) can(0.0) not(0.0) believe(0.0) that(0.0) these(0.0) symbols(0.0) of(0.0) service(0.0) to(0.0) 
+our(0.0) Nation(1.0) could(0.0) be(0.0) considered(0.0) mere(0.0) furnishings(0.0) .(0.0) Discarded(0.0) office(0.0) equipment(0.0) and(0.0) trash(1.0) are(0.0) certainly(0.0) a(0.0) hindrance(0.0) to(0.0) the(0.0) public(1.0) 
+who(0.0) passes(0.0) through(0.0) the(0.0) hallways(0.0) of(0.0) congressional(1.0) office(1.0) buildings(0.0) .(0.0) However(0.0) ,(0.0) memorials(1.0) to(0.0) honor(0.0) the(0.0) lives(0.0) of(0.0) those(0.0) killed(0.0) 
+in(0.0) Iraq(1.0) and(0.0) Afghanistan(0.0) are(0.0) a(0.0) welcome(0.0) tribute(0.0) that(0.0) should(0.0) not(0.0) fall(0.0) under(0.0) the(0.0) hallway(0.0) policy(1.0) jurisdiction(1.0) .(0.0) Yesterday(0.0) ,(0.0) 
+I(0.0) wrote(0.0) a(0.0) letter(0.0) to(0.0) Speaker(0.0) Nancy(1.0) Pelosi(1.0) to(0.0) explain(0.0) the(0.0) history(0.0) of(0.0) this(0.0) memorial(0.0) and(0.0) its(0.0) importance(0.0) .(0.0) In(0.0) 
+2004(0.0) ,(0.0) Congressman(1.0) Rahm(1.0) Emanuel(1.0) and(0.0) I(0.0) introduced(0.0) legislation(1.0) directing(1.0) the(0.0) Architect(0.0) of(0.0) the(0.0) Capitol(0.0) to(0.0) establish(0.0) an(0.0) exhibit(0.0) in(0.0) 
+the(0.0) Capitol(0.0) rotunda(1.0) to(0.0) honor(0.0) the(0.0) memory(0.0) of(0.0) members(0.0) of(0.0) the(0.0) United(0.0) States(0.0) Armed(0.0) Forces(0.0) who(0.0) have(0.0) died(0.0) in(0.0) Operation(0.0) 
+Iraqi(0.0) Freedom(0.0) and(0.0) Operation(0.0) Enduring(0.0) Freedom(0.0) .(0.0) Our(0.0) legislation(0.0) was(0.0) never(0.0) considered(0.0) .(0.0) Instead(0.0) ,(0.0) House(0.0) Speaker(1.0) Denny(1.0) Hastert(1.0) directed(1.0) 
+the(0.0) construction(0.0) of(0.0) a(0.0) modest(0.0) memorial(0.0) listing(0.0) names(0.0) of(0.0) the(0.0) fallen(0.0) in(0.0) the(0.0) foyer(0.0) of(0.0) the(0.0) Rayburn(0.0) House(0.0) Office(0.0) Building(0.0) 
+.(0.0) Because(0.0) we(0.0) consider(0.0) the(0.0) listing(0.0) of(0.0) names(0.0) to(0.0) be(0.0) an(0.0) insufficient(0.0) way(0.0) to(0.0) honor(0.0) the(0.0) lives(0.0) of(0.0) our(0.0) fallen(0.0) 
+servicemembers(1.0) ,(0.0) I(0.0) ,(0.0) along(0.0) with(0.0) other(0.0) Members(0.0) of(0.0) Congress(0.0) ,(0.0) began(0.0) to(0.0) display(0.0) more(0.0) proper(0.0) memorials(0.0) outside(0.0) of(0.0) our(0.0) 
+own(0.0) office(0.0) areas(0.0) .(0.0) To(0.0) fully(0.0) appreciate(0.0) the(0.0) loss(0.0) of(0.0) a(0.0) military(0.0) hero(0.0) ,(0.0) I(0.0) believe(0.0) it(0.0) is(0.0) important(0.0) to(0.0) 
+see(0.0) the(0.0) face(0.0) of(0.0) what(0.0) might(0.0) have(0.0) been(0.0) the(0.0) fathers(1.0) ,(0.0) the(0.0) mothers(1.0) ,(0.0) the(0.0) sons(0.0) ,(0.0) the(0.0) daughters(0.0) .(0.0) 
+Hundreds(0.0) of(0.0) visitors(0.0) from(0.0) my(0.0) district(0.0) ,(0.0) and(0.0) others(0.0) ,(0.0) have(0.0) stopped(0.0) to(0.0) view(0.0) the(0.0) faces(1.0) of(0.0) fallen(0.0) marines(1.0) from(0.0) 
+Camp(0.0) Lejeune(1.0) displayed(0.0) outside(0.0) my(0.0) office(0.0) door(0.0) ,(0.0) and(0.0) they(0.0) have(0.0) been(0.0) impacted(0.0) deeply(0.0) by(0.0) this(0.0) memorial(0.0) .(0.0) Madam(0.0) Speaker(1.0) 
+,(0.0) on(0.0) one(0.0) occasion(0.0) ,(0.0) a(0.0) mother(0.0) from(0.0) Minnesota(1.0) came(0.0) into(0.0) my(0.0) office(0.0) with(0.0) tears(0.0) in(0.0) her(0.0) eyes(0.0) and(0.0) thanked(0.0) 
+me(0.0) for(0.0) displaying(0.0) the(0.0) picture(0.0) of(0.0) her(0.0) son(0.0) ,(0.0) who(0.0) had(0.0) been(0.0) killed(0.0) while(0.0) serving(0.0) our(0.0) Nation(1.0) .(0.0) I(0.0) know(0.0) 
+that(0.0) Speaker(0.0) Pelosi(1.0) understands(1.0) the(0.0) importance(0.0) of(0.0) honoring(1.0) the(0.0) men(0.0) and(0.0) women(0.0) who(0.0) have(0.0) died(0.0) in(0.0) service(0.0) to(0.0) our(0.0) country(1.0) 
+.(0.0) I(0.0) am(0.0) very(0.0) grateful(0.0) that(0.0) the(0.0) Speaker(0.0) has(0.0) honored(0.0) my(0.0) request(0.0) and(0.0) the(0.0) request(0.0) of(0.0) others(0.0) that(0.0) the(0.0) House(0.0) 
+observe(0.0) a(0.0) moment(0.0) of(0.0) silence(0.0) each(0.0) month(0.0) in(0.0) honor(0.0) of(0.0) those(0.0) killed(0.0) or(0.0) wounded(0.0) in(0.0) Iraq(1.0) or(0.0) Afghanistan(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Lejeune	
+
+trash	policy	
+Faces	
+
+Nation	trash	public	
+congressional	office	memorials	
+Iraq	policy	jurisdiction	
+Nancy	Pelosi	
+Congressman	Rahm	Emanuel	legislation	directing	
+rotunda	
+Speaker	Denny	Hastert	directed	
+
+
+servicemembers	
+
+fathers	mothers	
+faces	marines	
+Lejeune	Speaker	
+Minnesota	
+Nation	
+Pelosi	understands	honoring	country	
+
+Iraq	
+
+reads % = 0.078

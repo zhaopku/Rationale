@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) would(1.0) you(1.0) work(0.0) for(0.0) an(0.0) employer(1.0) who(0.0) told(0.0) you(0.0) he(0.0) was(0.0) going(0.0) to(0.0) cut(1.0) your(0.0) pay(1.0) next(0.0) year(0.0) 4\1/2\(1.0) 
+percent(1.0) ?(1.0) Would(1.0) you(0.0) work(0.0) for(0.0) an(0.0) employer(1.0) who(0.0) told(0.0) you(0.0) he(0.0) was(0.0) going(0.0) to(0.0) cut(1.0) your(0.0) pay(1.0) every(0.0) year(0.0) 
+for(0.0) the(0.0) next(0.0) 6(0.0) years(0.0) 4\1/2\(1.0) percent(1.0) ?(1.0) Would(0.0) you(0.0) work(0.0) for(0.0) an(0.0) employer(1.0) who(0.0) told(0.0) you(0.0) he(0.0) was(0.0) going(0.0) 
+to(0.0) cut(1.0) your(0.0) pay(1.0) every(0.0) year(0.0) for(0.0) the(0.0) next(0.0) 6(0.0) years(0.0) 4\1/2\(1.0) percent(1.0) and(0.0) your(0.0) costs(0.0) were(0.0) going(0.0) up(0.0) 21(0.0) 
+percent(1.0) ?(1.0) Of(1.0) course(0.0) you(1.0) would(0.0) not(0.0) .(0.0) Our(0.0) seniors(0.0) are(0.0) already(0.0) finding(0.0) it(0.0) hard(0.0) to(0.0) find(1.0) a(0.0) doctor(0.0) who(0.0) 
+will(0.0) take(0.0) a(0.0) new(1.0) Medicare(1.0) patient(1.0) .(0.0) What(0.0) a(0.0) hollow(1.0) promise(1.0) Medicare(1.0) is(0.0) if(0.0) you(0.0) can(0.0) not(0.0) choose(0.0) your(0.0) own(0.0) 
+doctor(0.0) .(0.0) Only(1.0) you(0.0) ,(0.0) Mr.(0.0) President(1.0) ,(0.0) can(1.0) require(1.0) bureaucratic(1.0) minds(1.0) to(0.0) take(0.0) the(0.0) actions(0.0) necessary(0.0) ,(0.0) fair(1.0) and(0.0) 
+appropriate(1.0) to(0.0) break(1.0) through(0.0) the(0.0) barriers(1.0) to(0.0) a(0.0) destructive(0.0) ,(0.0) unworkable(1.0) ,(0.0) and(0.0) outdated(1.0) law(1.0) .(0.0) Only(0.0) you(0.0) ,(0.0) Mr.(0.0) 
+President(1.0) ,(0.0) can(1.0) give(0.0) the(0.0) order(0.0) for(0.0) administrative(0.0) actions(0.0) to(0.0) allow(0.0) budget-neutral(1.0) repeal(1.0) of(0.0) the(0.0) old(1.0) SGR(1.0) law(1.0) and(0.0) adoption(1.0) 
+of(0.0) a(0.0) modern(0.0) pay-for-performance(1.0) bill(0.0) so(0.0) you(1.0) can(0.0) fulfill(0.0) the(0.0) progressive(1.0) vision(1.0) that(0.0) you(1.0) have(0.0) had(0.0) that(0.0) we(0.0) all(0.0) share(0.0) 
+of(0.0) a(0.0) Medicare(1.0) program(0.0) that(0.0) can(1.0) control(1.0) costs(0.0) by(0.0) improving(0.0) the(0.0) quality(0.0) of(0.0) health(1.0) care(0.0) delivered(0.0) to(0.0) our(0.0) seniors(0.0) .(0.0) 
+I(0.0) call(0.0) on(0.0) you(0.0) to(0.0) act(0.0) ,(0.0) Mr.(0.0) President(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+would	you	employer	cut	pay	4\1/2\	
+percent	?	Would	employer	cut	pay	
+4\1/2\	percent	?	employer	
+cut	pay	4\1/2\	percent	
+percent	?	Of	you	find	
+new	Medicare	patient	hollow	promise	Medicare	
+Only	President	can	require	bureaucratic	minds	fair	
+appropriate	break	barriers	unworkable	outdated	law	
+President	can	budget-neutral	repeal	old	SGR	law	adoption	
+pay-for-performance	you	progressive	vision	you	
+Medicare	can	control	health	
+President	
+
+reads % = 0.2683982683982684

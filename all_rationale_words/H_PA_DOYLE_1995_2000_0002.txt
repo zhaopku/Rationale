@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) strong(0.0) support(0.0) of(0.0) the(0.0) LaHood-Rush-Moakley-Peterson(0.0) amendment(1.0) ,(0.0) and(0.0) I(0.0) commend(0.0) the(0.0) bipartisan(1.0) manner(1.0) in(0.0) which(1.0) 
+this(0.0) amendment(1.0) was(0.0) drafted(0.0) .(0.0) This(0.0) amendment(1.0) includes(0.0) recommendations(0.0) made(0.0) by(0.0) the(0.0) Institute(0.0) of(0.0) Medicine(0.0) on(0.0) organ(1.0) allocation(0.0) policies(0.0) ,(0.0) 
+recommendations(0.0) from(0.0) a(0.0) study(0.0) that(0.0) was(0.0) mandated(1.0) by(0.0) Congress(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) this(0.0) amendment(1.0) is(0.0) about(0.0) maintaining(0.0) public(1.0) accountability(1.0) 
+for(0.0) taxpayer(1.0) funds(1.0) and(0.0) ensuring(0.0) that(0.0) medical(1.0) professionals(0.0) establish(0.0) organ(0.0) allocation(1.0) policies(1.0) .(0.0) I(0.0) have(0.0) heard(0.0) arguments(0.0) that(0.0) ,(0.0) for(0.0) 
+the(0.0) past(0.0) 16(0.0) years(0.0) ,(0.0) the(0.0) public(1.0) has(0.0) been(0.0) content(0.0) with(0.0) the(0.0) present(0.0) organ(0.0) allocation(1.0) system(0.0) .(0.0) How(0.0) many(0.0) sick(0.0) 
+patients(0.0) have(0.0) died(0.0) on(0.0) long(0.0) waiting(0.0) lists(0.0) watching(0.0) healthier(1.0) and(0.0) wealthier(1.0) patients(0.0) receive(0.0) organs(0.0) ?(0.0) Are(0.0) those(0.0) the(0.0) individuals(0.0) that(0.0) 
+do(0.0) not(0.0) have(0.0) a(0.0) problem(0.0) with(0.0) the(0.0) present(0.0) policy(1.0) ?(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) if(0.0) my(0.0) colleagues(0.0) '(0.0) constituents(0.0) want(0.0) a(0.0) 
+private(0.0) organization(0.0) who(0.0) could(0.0) care(0.0) less(0.0) about(0.0) holding(0.0) themselves(0.0) accountable(0.0) to(0.0) the(0.0) public(1.0) for(0.0) transplant(1.0) decisions(0.0) ,(0.0) then(0.0) vote(1.0) for(0.0) 
+H.R(0.0) .(0.0) 2418(0.0) .(0.0) But(0.0) if(0.0) my(0.0) colleagues(0.0) '(0.0) constituents(0.0) want(0.0) to(0.0) put(0.0) a(0.0) public(0.0) accountable(1.0) organization(0.0) and(0.0) medical(0.0) professionals(0.0) 
+in(0.0) charge(0.0) of(0.0) such(0.0) decisions(0.0) ,(0.0) then(0.0) vote(1.0) for(0.0) the(0.0) LaHood(1.0) amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+amendment	bipartisan	manner	which	
+amendment	amendment	organ	
+mandated	Chairman	amendment	public	accountability	
+taxpayer	funds	medical	allocation	policies	
+public	allocation	
+healthier	wealthier	
+policy	Chairman	
+public	transplant	vote	
+accountable	
+vote	LaHood	amendment	
+
+reads % = 0.15463917525773196

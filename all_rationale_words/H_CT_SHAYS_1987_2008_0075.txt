@@ -1,0 +1,36 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) rise(0.0) in(0.0) strong(0.0) support(0.0) of(0.0) House(0.0) Resolution(1.0) 1237(1.0) ,(0.0) which(0.0) recognizes(1.0) the(0.0) historic(1.0) significance(0.0) of(0.0) Juneteenth(1.0) Independence(0.0) 
+Day(0.0) and(0.0) encourages(0.0) its(0.0) continued(0.0) celebration(0.0) so(0.0) all(0.0) Americans(1.0) can(0.0) learn(0.0) more(0.0) about(0.0) our(0.0) country(1.0) 's(0.0) past(0.0) .(0.0) The(0.0) resolution(1.0) 
+also(0.0) rightly(1.0) expresses(0.0) the(0.0) sense(0.0) of(0.0) Congress(0.0) that(0.0) knowing(0.0) our(0.0) history(1.0) helps(0.0) us(0.0) solve(0.0) challenges(0.0) we(0.0) face(0.0) in(0.0) the(0.0) future(0.0) 
+,(0.0) and(0.0) that(0.0) the(0.0) celebration(0.0) of(0.0) the(0.0) end(0.0) of(0.0) slavery(1.0) is(0.0) an(0.0) important(0.0) part(0.0) of(0.0) the(0.0) history(0.0) and(0.0) heritage(0.0) of(0.0) 
+the(0.0) United(0.0) States(0.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) Juneteenth(1.0) has(0.0) long(0.0) been(0.0) recognized(0.0) as(0.0) the(0.0) day(0.0) to(0.0) celebrate(0.0) the(0.0) end(0.0) of(0.0) 
+slavery(1.0) in(0.0) the(0.0) United(0.0) States(0.0) .(0.0) Juneteenth(1.0) is(0.0) the(0.0) traditional(0.0) celebration(0.0) of(0.0) the(0.0) day(0.0) on(0.0) which(0.0) the(0.0) last(0.0) slaves(1.0) in(0.0) 
+America(1.0) learned(0.0) they(0.0) had(0.0) been(0.0) freed(0.0) .(0.0) Although(0.0) slavery(1.0) was(0.0) abolished(1.0) officially(0.0) in(0.0) 1863(0.0) ,(0.0) it(0.0) took(0.0) over(0.0) 2(0.0) years(0.0) 
+for(0.0) news(0.0) of(0.0) freedom(1.0) to(0.0) spread(0.0) to(0.0) slaves(1.0) .(0.0) On(0.0) June(0.0) 19th(0.0) ,(0.0) 1865(0.0) ,(0.0) U.S.(0.0) General(0.0) Gordon(0.0) Granger(1.0) rode(0.0) 
+into(0.0) Galveston(0.0) ,(0.0) Texas(1.0) and(0.0) announced(0.0) that(0.0) the(0.0) State(0.0) 's(0.0) 200,000(0.0) slaves(0.0) were(0.0) free(0.0) .(0.0) Vowing(0.0) never(0.0) to(0.0) forget(0.0) the(0.0) 
+date(0.0) ,(0.0) the(0.0) former(0.0) slaves(0.0) coined(0.0) the(0.0) nickname(0.0) Juneteenth(1.0) ,(0.0) a(0.0) blend(0.0) of(0.0) the(0.0) words(0.0) June(0.0) and(0.0) 19th(0.0) .(0.0) This(0.0) 
+holiday(0.0) originated(0.0) in(0.0) the(0.0) Southwest(1.0) ,(0.0) but(0.0) today(0.0) it(0.0) is(0.0) celebrated(0.0) throughout(0.0) the(0.0) Nation(1.0) .(0.0) H.(0.0) Res(1.0) .(0.0) 1237(0.0) underscores(0.0) 
+that(0.0) the(0.0) observance(1.0) of(0.0) Juneteenth(1.0) Independence(0.0) Day(0.0) is(0.0) an(0.0) opportunity(0.0) for(0.0) all(0.0) Americans(1.0) to(0.0) learn(0.0) more(0.0) about(0.0) our(0.0) common(0.0) past(0.0) 
+and(0.0) to(0.0) better(0.0) understand(0.0) the(0.0) experiences(0.0) that(0.0) have(0.0) shaped(0.0) our(0.0) great(0.0) Nation(1.0) .(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) this(0.0) 
+important(0.0) resolution(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Resolution	1237	recognizes	historic	Juneteenth	
+Americans	country	resolution	
+rightly	history	
+slavery	
+Speaker	Juneteenth	
+slavery	Juneteenth	slaves	
+America	slavery	abolished	
+freedom	slaves	Granger	
+Texas	
+Juneteenth	
+Southwest	Nation	Res	
+observance	Juneteenth	Americans	
+Nation	
+resolution	
+
+reads % = 0.12121212121212122

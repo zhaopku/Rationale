@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) pass(0.0) the(0.0) bill(0.0) ((1.0) H.R(1.0) .(0.0) 3048(0.0) )(0.0) to(0.0) resolve(0.0) the(0.0) claims(0.0) 
+of(0.0) Cook(0.0) Inlet(0.0) Region(0.0) ,(0.0) Inc.(0.0) ,(0.0) to(0.0) lands(0.0) adjacent(0.0) to(0.0) the(0.0) Russian(0.0) River(0.0) in(0.0) the(0.0) State(0.0) of(0.0) Alaska(1.0) ,(0.0) 
+as(0.0) amended(0.0) .(0.0) The(0.0) Clerk(0.0) read(0.0) as(0.0) follows(0.0) :(0.0) H.R(0.0) .(0.0) 3048(0.0) Be(0.0) it(0.0) enacted(0.0) by(0.0) the(0.0) Senate(0.0) and(0.0) House(0.0) 
+of(0.0) Representatives(0.0) of(0.0) the(0.0) United(0.0) States(0.0) of(0.0) America(0.0) in(0.0) Congress(0.0) assembled(0.0) ,(0.0) SECTION(0.0) 1(0.0) .(0.0) SHORT(0.0) TITLE(0.0) .(0.0) This(0.0) Act(0.0) 
+may(0.0) be(0.0) cited(0.0) as(0.0) the(0.0) ``(0.0) Russian(0.0) River(0.0) Land(0.0) Act(0.0) ''(0.0) .(0.0) SEC(0.0) .(0.0) 2(0.0) .(0.0) FINDINGS(0.0) AND(0.0) PURPOSES(0.0) .(0.0) 
+((0.0) a(0.0) )(0.0) Findings.(0.0) --(0.0) Congress(0.0) makes(0.0) the(0.0) following(0.0) findings(0.0) :(0.0) ((0.0) 1(0.0) )(0.0) Certain(0.0) lands(0.0) adjacent(0.0) to(0.0) the(0.0) Russian(0.0) 
+River(0.0) in(0.0) the(0.0) area(0.0) of(0.0) its(0.0) confluence(0.0) with(0.0) the(0.0) Kenai(0.0) River(0.0) contain(0.0) abundant(0.0) archaeological(0.0) resources(0.0) of(0.0) significance(0.0) to(0.0) the(0.0) Native(0.0) 
+people(0.0) of(0.0) the(0.0) Cook(0.0) Inlet(0.0) Region(0.0) ,(0.0) the(0.0) Kenaitze(1.0) Indian(0.0) Tribe(0.0) ,(0.0) and(0.0) the(0.0) citizens(0.0) of(0.0) the(0.0) United(0.0) States(0.0) .(0.0) 
+((0.0) 2(0.0) )(0.0) Those(0.0) lands(0.0) at(0.0) the(0.0) confluence(0.0) of(0.0) the(0.0) Russian(0.0) River(0.0) and(0.0) Kenai(0.0) River(0.0) contain(0.0) abundant(0.0) fisheries(1.0) resources(0.0) of(0.0) 
+great(0.0) significance(0.0) to(0.0) the(0.0) citizens(0.0) of(0.0) Alaska(1.0) .(0.0) ((0.0) 3(0.0) )(0.0) Cook(0.0) Inlet(0.0) Region(0.0) ,(0.0) Inc.(0.0) ,(0.0) an(0.0) Alaska(1.0) Native(0.0) 
+Regional(0.0) Corporation(0.0) formed(0.0) under(0.0) the(0.0) provisions(0.0) of(0.0) the(0.0) Alaska(0.0) Native(0.0) Claims(0.0) Settlement(0.0) Act(0.0) of(0.0) 1971(0.0) ((0.0) 43(0.0) U.S.C(0.0) .(0.0) 1601(0.0) 
+et(0.0) .(0.0) seq(0.0) .(0.0) )(0.0) ((0.0) hereinafter(0.0) in(0.0) this(0.0) Act(0.0) referred(0.0) to(0.0) as(0.0) ``(0.0) ANCSA(0.0) ''(0.0) )(0.0) ,(0.0) has(0.0) selected(0.0) 
+lands(0.0) in(0.0) the(0.0) area(0.0) pursuant(0.0) to(0.0) section(0.0) 14(0.0) ((0.0) h(0.0) )(0.0) ((0.0) 1(0.0) )(0.0) of(0.0) such(0.0) Act(0.0) ((0.0) 43(0.0) U.S.C(0.0) 
+.(0.0) 1613(0.0) ((0.0) h(0.0) )(0.0) ((0.0) 1(0.0) )(0.0) )(0.0) ,(0.0) for(0.0) their(0.0) values(0.0) as(0.0) historic(0.0) and(0.0) cemetery(0.0) sites(0.0) .(0.0) ((0.0) 
+4(0.0) )(0.0) The(0.0) United(0.0) States(0.0) Bureau(0.0) of(0.0) Land(0.0) Management(0.0) ,(0.0) the(0.0) Federal(0.0) agency(0.0) responsible(0.0) for(0.0) the(0.0) adjudication(0.0) of(0.0) ANCSA(0.0) selections(0.0) 
+has(0.0) not(0.0) finished(0.0) adjudicating(0.0) Cook(0.0) Inlet(0.0) Region(0.0) ,(0.0) Inc.(0.0) 's(0.0) selections(0.0) under(0.0) section(0.0) 14(0.0) ((0.0) h(0.0) )(0.0) ((0.0) 1(0.0) )(0.0) 
+of(0.0) that(0.0) Act(0.0) as(0.0) of(0.0) the(0.0) date(0.0) of(0.0) the(0.0) enactment(0.0) of(0.0) this(0.0) Act(0.0) .(0.0) ((0.0) 5(0.0) )(0.0) The(0.0) Bureau(0.0) of(0.0) 
+Indian(0.0) Affairs(0.0) has(0.0) certified(0.0) a(0.0) portion(0.0) of(0.0) Cook(0.0) Inlet(0.0) Region(0.0) ,(0.0) Inc.(0.0) 's(0.0) selections(0.0) under(0.0) section(0.0) 14(0.0) ((0.0) h(0.0) )(0.0) 
+((0.0) 1(0.0) )(0.0) of(0.0) ANCSA(0.0) as(0.0) containing(0.0) prehistoric(0.0) and(0.0) historic(0.0) cultural(0.0) artifacts(0.0) ,(0.0) and(0.0) meeting(0.0) the(0.0) requirements(0.0) of(0.0) section(0.0) 14(0.0) 
+((0.0) h(0.0) )(0.0) ((0.0) 1(0.0) )(0.0) of(0.0) that(0.0) Act(0.0) .(0.0) ((0.0) 6(0.0) )(0.0) A(0.0) portion(0.0) of(0.0) the(0.0) selections(0.0) under(0.0) section(0.0) 
+14(0.0) ((0.0) h(0.0) )(0.0) ((0.0) 1(0.0) )(0.0) of(0.0) ANCSA(0.0) made(0.0) by(0.0) Cook(0.0) Inlet(0.0) Region(0.0) ,(0.0) Inc.(0.0) ,(0.0) and(0.0) certified(0.0) by(0.0) 
+the(0.0) Bureau(0.0) of(0.0) Indian(0.0) Affairs(0.0) lies(0.0) within(0.0) the(0.0) Chugach(0.0) National(0.0) Forest(0.0) over(0.0) which(0.0) the(0.0) United(0.0) States(0.0) Forest(0.0) Service(0.0) is(0.0) the(0.0) 
+agency(0.0) currently(0.0) responsible(0.0) for(0.0) the(0.0) administration(0.0) of(0.0) public(0.0) activities(0.0) ,(0.0) archaeological(0.0) features(0.0) ,(0.0) and(0.0) natural(0.0) resources(0.0) .(0.0) ((0.0) 7(0.0) )(0.0) 
+A(0.0) portion(0.0) of(0.0) the(0.0) selections(0.0) under(0.0) section(0.0) 14(0.0) ((0.0) h(0.0) )(0.0) ((0.0) 1(0.0) )(0.0) of(0.0) ANCSA(0.0) and(0.0) the(0.0) lands(0.0) certified(0.0) 
+by(0.0) the(0.0) Bureau(0.0) of(0.0) Indian(0.0) Affairs(0.0) lies(0.0) within(0.0) the(0.0) Kenai(0.0) National(0.0) Wildlife(0.0) Refuge(0.0) over(0.0) which(0.0) the(0.0) United(0.0) States(0.0) Fish(0.0) 
+
+
+----- below are rationale words -----
+
+(	H.R	
+Alaska	
+
+
+
+
+
+Kenaitze	
+fisheries	
+Alaska	Alaska	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+reads % = 0.014

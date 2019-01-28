@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) would(1.0) ask(0.0) that(0.0) every(0.0) young(0.0) person(0.0) under(0.0) the(0.0) age(1.0) of(0.0) 35(0.0) years(0.0) old(1.0) in(0.0) this(0.0) country(1.0) listen(0.0) to(0.0) 
+what(0.0) I(0.0) have(0.0) to(0.0) say(1.0) .(0.0) We(0.0) are(0.0) almost(0.0) $(0.0) 6(0.0) trillion(1.0) in(0.0) debt(1.0) as(0.0) a(0.0) Nation(0.0) ,(0.0) as(0.0) a(0.0) 
+people(0.0) ,(0.0) we(0.0) owe(1.0) .(0.0) That(0.0) is(0.0) 16(0.0) percent(1.0) of(0.0) the(0.0) money(1.0) that(0.0) comes(0.0) here(0.0) every(0.0) year(0.0) .(0.0) That(0.0) means(1.0) 
+we(0.0) have(0.0) a(0.0) 16(0.0) percent(1.0) mortgage(0.0) on(0.0) this(0.0) country(1.0) .(0.0) The(0.0) President(1.0) has(0.0) submitted(1.0) a(0.0) request(0.0) to(0.0) the(0.0) Congress(0.0) for(0.0) 
+authority(0.0) to(0.0) borrow(1.0) another(0.0) three-quarters(1.0) of(0.0) a(0.0) trillion(1.0) dollars(0.0) .(0.0) That(0.0) is(0.0) another(0.0) $(0.0) 750(0.0) billion(1.0) .(0.0) The(0.0) administration(0.0) has(0.0) 
+submitted(1.0) a(0.0) budget(0.0) that(0.0) is(0.0) not(1.0) balanced(0.0) for(0.0) the(0.0) next(0.0) 10(0.0) years(0.0) .(0.0) If(1.0) there(0.0) ever(0.0) was(0.0) a(0.0) recipe(0.0) for(0.0) 
+financial(0.0) disaster(0.0) ,(0.0) if(0.0) there(0.0) ever(0.0) was(0.0) a(0.0) generational(1.0) mugging(1.0) going(0.0) on(0.0) in(0.0) this(0.0) Congress(0.0) because(1.0) we(0.0) will(0.0) not(1.0) cut(1.0) 
+spending(1.0) or(0.0) raise(1.0) the(0.0) money(0.0) that(0.0) we(0.0) need(0.0) to(0.0) finance(1.0) the(0.0) war(1.0) and(0.0) other(0.0) things(0.0) that(0.0) we(0.0) want(1.0) today(0.0) ,(0.0) 
+then(1.0) let(0.0) me(0.0) just(1.0) say(1.0) to(0.0) all(0.0) of(0.0) you(0.0) young(0.0) people(0.0) ,(0.0) under(0.0) these(0.0) policies(1.0) ,(0.0) you(1.0) are(0.0) going(0.0) to(0.0) 
+be(0.0) overtaxed(1.0) the(0.0) rest(0.0) of(0.0) your(0.0) lives(0.0) because(0.0) you(0.0) are(0.0) going(0.0) to(0.0) have(0.0) to(0.0) pay(0.0) 16(0.0) or(1.0) 18(1.0) percent(1.0) interest(0.0) 
+before(1.0) you(0.0) ever(0.0) get(0.0) to(0.0) what(0.0) you(0.0) need(0.0) in(0.0) your(0.0) day(0.0) when(0.0) it(0.0) comes(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+would	age	old	country	
+say	trillion	debt	
+owe	percent	money	means	
+percent	country	President	submitted	
+borrow	three-quarters	trillion	billion	
+submitted	not	If	
+generational	mugging	because	not	cut	
+spending	raise	finance	war	want	
+then	just	say	policies	you	
+overtaxed	or	18	percent	
+before	
+
+reads % = 0.19444444444444445

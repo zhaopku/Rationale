@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) and(0.0) for(0.0) his(0.0) outstanding(0.0) work(0.0) on(0.0) this(0.0) important(0.0) bill(1.0) .(0.0) I(0.0) rise(0.0) 
+in(0.0) strong(0.0) support(0.0) of(0.0) H.R(0.0) .(0.0) 2847(0.0) ,(0.0) the(0.0) HIRE(1.0) Act(0.0) ,(0.0) which(0.0) will(0.0) strengthen(0.0) our(0.0) economy(1.0) by(0.0) limiting(1.0) job(0.0) 
+loss(0.0) and(0.0) creating(0.0) new(0.0) employment(1.0) opportunities(0.0) .(0.0) In(0.0) addition(0.0) to(0.0) provisions(1.0) that(0.0) will(0.0) spur(1.0) investment(1.0) in(0.0) infrastructure(1.0) and(0.0) construction(0.0) projects(0.0) 
+,(0.0) this(0.0) bill(1.0) provides(0.0) much-(0.0) needed(0.0) assistance(1.0) and(0.0) attention(0.0) and(0.0) support(0.0) for(0.0) small(0.0) businesses(1.0) in(0.0) America(1.0) .(0.0) This(0.0) bill(1.0) includes(1.0) 
+a(0.0) payroll(0.0) tax(1.0) holiday(1.0) for(0.0) businesses(1.0) that(0.0) hire(0.0) unemployed(1.0) workers(1.0) and(0.0) tax(1.0) cuts(1.0) to(1.0) help(1.0) small(1.0) businesses(1.0) expand(1.0) and(1.0) hire(1.0) 
+more(0.0) workers(1.0) .(0.0) Small(0.0) businesses(1.0) ,(0.0) Madam(0.0) Speaker(1.0) ,(0.0) have(0.0) borne(0.0) the(0.0) brunt(1.0) of(0.0) this(0.0) economic(1.0) crisis(1.0) ,(0.0) and(0.0) their(0.0) 
+inability(0.0) to(0.0) access(0.0) credit(0.0) to(0.0) keep(0.0) their(0.0) businesses(1.0) operating(0.0) has(0.0) clearly(0.0) added(0.0) to(0.0) the(0.0) high(0.0) unemployment(1.0) rate(1.0) across(0.0) the(0.0) Nation(1.0) 
+,(0.0) especially(0.0) in(0.0) my(0.0) home(0.0) State(0.0) of(0.0) Rhode(1.0) Island(1.0) ,(0.0) which(0.0) has(0.0) right(0.0) now(0.0) the(0.0) second(0.0) highest(0.0) unemployment(1.0) rate(1.0) in(0.0) 
+the(0.0) country(1.0) .(0.0) So(0.0) ,(0.0) Madam(0.0) Speaker(1.0) ,(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) this(0.0) jobs(0.0) measure(0.0) ,(0.0) as(0.0) well(0.0) 
+as(0.0) working(0.0) on(0.0) additional(0.0) legislation(1.0) that(0.0) helps(0.0) small(0.0) businesses(1.0) and(0.0) unemployed(1.0) workers(1.0) .(0.0) Our(0.0) job(0.0) is(0.0) to(0.0) create(0.0) jobs(0.0) ,(0.0) 
+Madam(0.0) Speaker(1.0) ,(0.0) and(0.0) that(0.0) is(0.0) exactly(0.0) what(0.0) this(0.0) piece(0.0) of(0.0) legislation(1.0) before(0.0) us(0.0) does(0.0) today(0.0) .(0.0) I(0.0) thank(0.0) you(0.0) 
+and(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) this(0.0) important(0.0) jobs(1.0) bill(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+bill	
+HIRE	economy	limiting	
+employment	provisions	spur	investment	infrastructure	
+bill	assistance	businesses	America	bill	includes	
+tax	holiday	businesses	unemployed	workers	tax	cuts	to	help	small	businesses	expand	and	hire	
+workers	businesses	Speaker	brunt	economic	crisis	
+businesses	unemployment	rate	Nation	
+Rhode	Island	unemployment	rate	
+country	Speaker	
+legislation	businesses	unemployed	workers	
+Speaker	legislation	
+jobs	bill	
+
+reads % = 0.22844827586206898

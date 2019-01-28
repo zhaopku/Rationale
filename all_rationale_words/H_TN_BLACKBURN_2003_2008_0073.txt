@@ -1,0 +1,18 @@
+This is from a Republican
+----- below is the original text -----
+Rhetoric(1.0) is(0.0) what(0.0) the(0.0) Democrats(1.0) have(0.0) given(0.0) us(0.0) on(0.0) the(0.0) issue(0.0) of(0.0) the(0.0) price(0.0) at(0.0) the(0.0) pump(0.0) ,(0.0) on(0.0) the(0.0) issue(0.0) 
+of(0.0) home(0.0) heating(0.0) oil(1.0) .(0.0) The(0.0) American(0.0) people(0.0) want(0.0) answers(0.0) and(0.0) they(0.0) want(0.0) solutions(0.0) .(0.0) And(0.0) what(0.0) they(0.0) are(0.0) getting(0.0) 
+from(0.0) the(0.0) Democrat(1.0) leadership(0.0) is(0.0) prices(0.0) that(0.0) are(0.0) going(0.0) up(0.0) and(0.0) up(0.0) and(0.0) up(0.0) and(0.0) up(0.0) ,(0.0) in(0.0) my(0.0) district(0.0) 
+,(0.0) from(0.0) $(0.0) 2.20(0.0) a(0.0) gallon(0.0) to(0.0) $(0.0) 3.99(0.0) .(0.0) $(0.0) 3.99(0.0) .(0.0) That(0.0) is(0.0) what(0.0) Democrat(0.0) leadership(0.0) of(0.0) this(0.0) 
+body(0.0) has(0.0) given(0.0) you(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Democrats	
+oil	
+Democrat	
+
+
+
+reads % = 0.03488372093023256

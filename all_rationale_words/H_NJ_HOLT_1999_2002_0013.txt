@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) despite(0.0) the(0.0) fact(0.0) that(0.0) a(0.0) majority(1.0) of(0.0) Americans(0.0) believe(0.0) that(0.0) we(0.0) should(0.0) do(0.0) more(0.0) ,(0.0) not(1.0) less(0.0) ,(0.0) to(0.0) 
+protect(0.0) our(0.0) environment(0.0) ,(0.0) President(1.0) Bush(1.0) is(0.0) pursuing(1.0) several(0.0) policies(1.0) to(0.0) roll(0.0) back(0.0) environmental(1.0) progress(1.0) .(0.0) Let(1.0) us(0.0) look(1.0) at(0.0) 
+our(0.0) national(0.0) parks(0.0) .(0.0) Despite(1.0) the(0.0) clear(0.0) evidence(0.0) that(0.0) snowmobile(1.0) use(0.0) is(0.0) not(0.0) compatible(1.0) with(0.0) the(0.0) preservation(0.0) and(0.0) public(0.0) enjoyment(0.0) 
+of(0.0) Yellowstone(0.0) ,(0.0) our(0.0) world(0.0) 's(0.0) oldest(0.0) national(0.0) park(0.0) ,(0.0) the(0.0) President(1.0) is(0.0) pushing(1.0) to(0.0) roll(0.0) back(0.0) a(0.0) rule(0.0) that(0.0) 
+would(1.0) prevent(0.0) snowmobile(1.0) use(0.0) there(0.0) ,(0.0) a(0.0) rule(0.0) that(0.0) the(0.0) EPA(1.0) said(0.0) was(0.0) among(0.0) the(0.0) most(1.0) thorough(0.0) and(0.0) substantial(1.0) scientifically(1.0) 
+based(0.0) rules(0.0) they(0.0) had(0.0) seen(0.0) .(0.0) Right(0.0) now(0.0) ,(0.0) the(0.0) administration(0.0) and(0.0) the(0.0) Republican(1.0) majority(1.0) here(0.0) is(0.0) also(1.0) trying(0.0) to(0.0) 
+roll(0.0) back(0.0) a(0.0) ban(0.0) on(0.0) personal(0.0) watercraft(1.0) like(0.0) jet(1.0) skis(0.0) in(0.0) our(0.0) national(0.0) parks(0.0) ,(0.0) despite(0.0) the(0.0) clear(1.0) indication(0.0) from(0.0) 
+rangers(0.0) that(0.0) these(0.0) have(0.0) a(0.0) negative(0.0) effect(0.0) on(0.0) the(0.0) enjoyment(0.0) and(0.0) preservation(0.0) of(0.0) the(0.0) parks(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) our(0.0) 
+environment(0.0) and(0.0) our(0.0) national(0.0) parks(0.0) belong(1.0) to(0.0) all(0.0) of(0.0) us(0.0) ,(0.0) and(0.0) we(0.0) can(0.0) not(0.0) let(0.0) these(0.0) series(0.0) of(0.0) environmental(1.0) 
+rollbacks(1.0) ruin(1.0) them(0.0) for(0.0) us(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+majority	not	
+President	Bush	pursuing	policies	environmental	progress	Let	look	
+Despite	snowmobile	compatible	
+President	pushing	
+would	snowmobile	EPA	most	substantial	scientifically	
+Republican	majority	also	
+watercraft	jet	clear	
+parks	Speaker	
+belong	environmental	
+rollbacks	ruin	
+
+reads % = 0.17647058823529413

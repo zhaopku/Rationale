@@ -1,0 +1,24 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) to(0.0) call(0.0) attention(0.0) to(0.0) the(0.0) administration(1.0) 's(0.0) recent(0.0) decision(0.0) to(0.0) extend(0.0) talks(0.0) with(0.0) Iran(1.0) into(0.0) 2015(1.0) 
+.(0.0) Iran(1.0) is(0.0) simply(0.0) stalling(0.0) and(0.0) buying(0.0) time(0.0) ,(0.0) time(0.0) that(0.0) we(0.0) and(0.0) our(0.0) closest(0.0) ally(1.0) in(0.0) the(0.0) region(0.0) ,(0.0) 
+Israel(0.0) ,(0.0) do(0.0) not(0.0) have(0.0) .(0.0) Many(0.0) months(0.0) ago(0.0) ,(0.0) when(0.0) sanctions(1.0) were(0.0) starting(0.0) to(0.0) have(0.0) an(0.0) impact(0.0) on(0.0) Iran(1.0) 
+,(0.0) the(0.0) administration(1.0) relaxed(0.0) them(0.0) .(0.0) All(0.0) we(0.0) have(0.0) to(0.0) show(0.0) for(0.0) these(0.0) weakened(1.0) sanctions(1.0) is(0.0) months(0.0) of(0.0) stalled(1.0) talks(1.0) 
+.(0.0) It(0.0) is(0.0) long(0.0) overdue(1.0) to(0.0) increase(1.0) the(0.0) pressure(1.0) on(0.0) Iran(1.0) .(0.0) I(0.0) call(0.0) for(0.0) new(0.0) and(0.0) immediate(0.0) sanctions(1.0) with(0.0) 
+the(0.0) teeth(1.0) to(0.0) force(1.0) Iran(1.0) to(0.0) give(0.0) up(0.0) its(0.0) nuclear(1.0) ambitions(1.0) .(0.0) Without(0.0) new(0.0) pressures(1.0) ,(0.0) Iran(1.0) wo(0.0) n't(0.0) see(0.0) 
+any(0.0) reason(0.0) to(0.0) change(0.0) its(0.0) current(0.0) course(0.0) .(0.0) Congress(0.0) must(0.0) act(0.0) now(0.0) in(0.0) increasing(1.0) sanctions(1.0) to(0.0) prevent(1.0) Iran(1.0) from(0.0) developing(0.0) 
+nuclear(1.0) weapons(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+administration	Iran	2015	
+Iran	ally	
+sanctions	Iran	
+administration	weakened	sanctions	stalled	talks	
+overdue	increase	pressure	Iran	sanctions	
+teeth	force	Iran	nuclear	ambitions	pressures	Iran	
+increasing	sanctions	prevent	Iran	
+nuclear	weapons	
+
+reads % = 0.20833333333333334

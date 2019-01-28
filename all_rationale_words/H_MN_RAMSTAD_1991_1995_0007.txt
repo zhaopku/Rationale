@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) too(0.0) rise(0.0) in(0.0) strong(0.0) support(0.0) of(0.0) this(0.0) amendment(1.0) .(0.0) Vicarious(0.0) liability(1.0) is(0.0) plain(0.0) and(0.0) simple(0.0) :(0.0) liability(1.0) 
+without(0.0) fault(0.0) .(0.0) Every(0.0) month(0.0) car(0.0) dealers(0.0) ,(0.0) rental(0.0) companies(0.0) and(0.0) leasing(0.0) firms(0.0) are(0.0) held(0.0) liable(0.0) under(0.0) these(0.0) vicarious(0.0) liability(0.0) 
+laws(0.0) for(0.0) harm(0.0) to(0.0) third(0.0) parties(0.0) that(0.0) they(0.0) in(0.0) no(0.0) way(0.0) could(0.0) prevent(0.0) .(0.0) There(0.0) is(0.0) no(0.0) negligence(0.0) whatsoever(0.0) ,(0.0) 
+and(0.0) I(0.0) believe(0.0) that(0.0) this(0.0) clarifying(0.0) amendment(1.0) is(0.0) essential(0.0) because(0.0) of(0.0) the(0.0) cost(1.0) to(0.0) American(1.0) consumers(1.0) literally(0.0) equaling(0.0) tens(1.0) of(0.0) 
+millions(1.0) of(0.0) dollars(1.0) in(0.0) higher(1.0) prices(1.0) for(0.0) car(0.0) rental(0.0) leases(1.0) and(0.0) also(0.0) we(0.0) are(0.0) paying(1.0) a(0.0) price(0.0) in(0.0) terms(1.0) of(0.0) 
+competition(0.0) in(0.0) these(0.0) industries(1.0) .(0.0) This(0.0) bill(1.0) has(0.0) the(0.0) support(0.0) of(0.0) the(0.0) auto(1.0) manufacturers(0.0) ,(0.0) the(0.0) new(0.0) and(0.0) used(0.0) car(0.0) 
+dealers(0.0) and(0.0) the(0.0) car(0.0) rental(0.0) industry(0.0) .(0.0) If(0.0) there(0.0) is(0.0) any(0.0) opposition(1.0) ,(0.0) it(0.0) comes(0.0) from(0.0) those(0.0) who(0.0) have(0.0) used(0.0) 
+the(0.0) vicarious(1.0) liability(1.0) laws(1.0) to(0.0) coerce(0.0) companies(0.0) into(0.0) unfair(1.0) and(0.0) inequitable(1.0) settlements(1.0) .(0.0) This(0.0) reform(1.0) is(0.0) long(0.0) overdue(1.0) .(0.0) I(0.0) 
+commend(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) for(0.0) bringing(0.0) this(0.0) amendment(1.0) to(0.0) the(0.0) floor(0.0) .(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) it(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	amendment	liability	liability	
+
+
+amendment	cost	American	consumers	tens	
+millions	dollars	higher	prices	leases	paying	terms	
+industries	bill	auto	
+opposition	
+vicarious	liability	laws	unfair	inequitable	settlements	reform	overdue	
+amendment	
+
+
+reads % = 0.15934065934065933

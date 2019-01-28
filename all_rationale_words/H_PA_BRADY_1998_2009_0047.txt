@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) H.R(0.0) .(0.0) 586(0.0) ,(0.0) which(0.0) would(0.0) create(0.0) the(0.0) Civil(1.0) Rights(1.0) History(0.0) Project(0.0) .(0.0) 
+The(0.0) bill(0.0) directs(0.0) the(0.0) Library(0.0) of(0.0) Congress(0.0) and(0.0) the(0.0) Smithsonian(0.0) Institution(0.0) ,(0.0) through(0.0) the(0.0) Museum(0.0) of(0.0) African(0.0) American(0.0) History(0.0) and(0.0) 
+Culture(0.0) ,(0.0) to(0.0) collaborate(0.0) and(0.0) establish(0.0) an(0.0) oral(0.0) history(0.0) project(0.0) .(0.0) This(0.0) joint(0.0) venture(0.0) will(0.0) collect(0.0) and(0.0) preserve(0.0) audio(0.0) and(0.0) 
+video(0.0) recordings(0.0) by(0.0) participants(0.0) in(0.0) the(0.0) civil(1.0) rights(0.0) movement(0.0) .(0.0) A(0.0) fundamental(0.0) principle(0.0) of(0.0) our(0.0) American(0.0) democracy(1.0) is(0.0) that(0.0) individuals(0.0) 
+stand(0.0) up(0.0) for(0.0) their(0.0) rights(1.0) and(0.0) beliefs(0.0) ,(0.0) and(0.0) pursue(1.0) justice(1.0) through(0.0) peaceful(1.0) action(1.0) .(0.0) Many(0.0) who(0.0) participated(0.0) in(0.0) the(0.0) 
+civil(1.0) rights(1.0) movement(1.0) did(0.0) so(0.0) at(0.0) great(0.0) personal(0.0) sacrifice(0.0) .(0.0) Their(0.0) actions(0.0) were(0.0) heroic(0.0) and(0.0) tireless(1.0) and(0.0) challenged(0.0) the(0.0) practice(0.0) 
+of(0.0) racial(1.0) segregation(1.0) in(0.0) the(0.0) Nation(1.0) .(0.0) They(0.0) challenged(0.0) the(0.0) status(0.0) quo(0.0) and(0.0) won(0.0) equal(0.0) rights(1.0) for(0.0) all(0.0) American(0.0) citizens(1.0) 
+.(0.0) Much(0.0) of(0.0) this(0.0) history(1.0) has(0.0) never(0.0) been(0.0) written(0.0) down(0.0) from(0.0) the(0.0) perspective(0.0) of(0.0) those(0.0) who(0.0) were(0.0) there(0.0) .(0.0) As(0.0) 
+these(0.0) pioneers(1.0) age(0.0) ,(0.0) it(0.0) is(0.0) important(0.0) that(0.0) their(0.0) memories(0.0) of(0.0) events(0.0) are(0.0) documented(0.0) so(0.0) that(0.0) future(0.0) generations(0.0) can(0.0) witness(0.0) 
+their(0.0) testimony(1.0) regarding(0.0) the(0.0) lives(0.0) and(0.0) times(0.0) of(0.0) that(0.0) era(1.0) .(0.0) This(0.0) bill(1.0) would(1.0) ensure(0.0) that(0.0) the(0.0) record(0.0) of(0.0) this(0.0) 
+important(0.0) period(0.0) of(0.0) our(0.0) Nation(1.0) 's(0.0) history(0.0) is(0.0) not(0.0) lost(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) 
+time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	Civil	Rights	
+
+
+civil	democracy	
+rights	pursue	justice	peaceful	action	
+civil	rights	movement	tireless	
+racial	segregation	Nation	rights	citizens	
+history	
+pioneers	
+testimony	era	bill	would	
+Nation	Speaker	
+
+
+reads % = 0.1210762331838565

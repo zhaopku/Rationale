@@ -1,0 +1,24 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) Mr.(1.0) Speaker(1.0) ,(0.0) I(0.0) strongly(1.0) support(0.0) H.R(0.0) .(0.0) 549(1.0) 
+,(0.0) and(0.0) believe(0.0) that(0.0) authorizing(0.0) the(0.0) Office(0.0) of(0.0) Bombing(1.0) Prevention(0.0) will(0.0) greatly(0.0) enhance(1.0) our(0.0) Nation(0.0) 's(0.0) preparedness(1.0) and(0.0) response(0.0) to(0.0) 
+arguably(0.0) the(0.0) most(1.0) likely(0.0) method(0.0) of(0.0) terrorist(1.0) attack(0.0) .(0.0) In(0.0) addition(0.0) to(0.0) authorizing(0.0) the(0.0) Office(0.0) to(0.0) develop(0.0) a(0.0) strategic(0.0) vision(0.0) 
+and(0.0) establish(1.0) the(0.0) capabilities(1.0) level(0.0) around(0.0) the(0.0) Nation(0.0) ,(0.0) the(0.0) bill(0.0) provides(0.0) support(0.0) for(0.0) efforts(0.0) to(0.0) research(0.0) explosives(1.0) detection(1.0) and(0.0) 
+mitigation(0.0) .(0.0) It(0.0) is(0.0) important(0.0) to(0.0) note(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) that(0.0) an(0.0) informed(1.0) public(0.0) is(0.0) a(0.0) prepared(1.0) public(0.0) .(0.0) 
+In(0.0) this(0.0) spirit(0.0) ,(0.0) the(0.0) bill(0.0) also(1.0) directs(1.0) the(0.0) Office(0.0) to(0.0) develop(0.0) and(0.0) implement(0.0) a(0.0) public(0.0) awareness(0.0) campaign(0.0) that(0.0) can(1.0) 
+reach(0.0) the(0.0) private(0.0) sector(1.0) ,(0.0) as(0.0) well(0.0) as(0.0) ordinary(1.0) citizens(1.0) .(0.0) Again(1.0) ,(0.0) I(0.0) 'd(1.0) like(0.0) to(0.0) commend(1.0) Ranking(1.0) Member(0.0) 
+King(0.0) for(0.0) bringing(1.0) forth(1.0) this(0.0) important(0.0) bipartisan(0.0) legislation(0.0) ,(0.0) and(0.0) I(0.0) urge(1.0) immediate(0.0) passage(0.0) of(0.0) H.R(0.0) .(0.0) 549(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Mr.	Speaker	strongly	549	
+Bombing	enhance	preparedness	
+most	terrorist	
+establish	capabilities	explosives	detection	
+Speaker	informed	prepared	
+also	directs	can	
+sector	ordinary	citizens	Again	'd	commend	Ranking	
+bringing	forth	urge	549	
+
+reads % = 0.1875

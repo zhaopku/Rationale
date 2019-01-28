@@ -1,0 +1,18 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) think(0.0) we(0.0) are(0.0) all(0.0) in(0.0) agreement(1.0) that(0.0) it(0.0) is(0.0) marvelous(0.0) to(0.0) have(0.0) this(0.0) time(0.0) together(0.0) ,(0.0) even(0.0) under(0.0) the(0.0) guise(1.0) 
+of(0.0) a(0.0) special(0.0) order(0.0) ,(0.0) to(0.0) actually(0.0) engage(0.0) in(0.0) this(0.0) meaningful(0.0) ,(0.0) I(0.0) believe(0.0) ,(0.0) debate(1.0) ,(0.0) because(0.0) I(0.0) believe(0.0) 
+this(0.0) Nation(1.0) is(0.0) better(0.0) for(0.0) it(0.0) .(0.0) To(0.0) be(0.0) certain(0.0) ,(0.0) we(0.0) may(0.0) be(0.0) of(0.0) two(0.0) minds(0.0) ,(0.0) we(0.0) may(0.0) 
+be(0.0) of(0.0) 435(0.0) minds(0.0) in(0.0) this(0.0) august(0.0) Chamber(0.0) ,(0.0) as(0.0) to(0.0) how(0.0) to(0.0) redress(1.0) the(0.0) problems(0.0) of(0.0) our(0.0) society(1.0) ,(0.0) 
+but(0.0) it(0.0) is(0.0) helpful(0.0) to(0.0) have(0.0) a(0.0) chance(0.0) to(0.0) represent(0.0) our(0.0) districts(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+agreement	guise	
+debate	
+Nation	
+redress	society	
+districts	
+
+reads % = 0.07446808510638298

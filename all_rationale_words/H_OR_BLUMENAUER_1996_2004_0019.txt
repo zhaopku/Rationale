@@ -1,0 +1,20 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) voted(1.0) against(0.0) this(0.0) legislation(1.0) as(0.0) it(0.0) does(0.0) not(0.0) seem(0.0) fair(0.0) to(0.0) cut(1.0) off(0.0) federal(1.0) funds(1.0) to(0.0) institutions(1.0) that(0.0) 
+have(0.0) policies(1.0) against(0.0) allowing(0.0) recruiters(0.0) on(0.0) campus(0.0) from(0.0) employers(1.0) that(0.0) have(0.0) an(0.0) open(0.0) policy(1.0) of(0.0) discrimination(1.0) .(0.0) We(0.0) should(0.0) not(0.0) 
+be(0.0) punishing(0.0) universities(1.0) that(0.0) have(0.0) legitimate(1.0) policy(0.0) differences(0.0) .(0.0) As(0.0) long(0.0) as(0.0) the(0.0) military(0.0) continues(0.0) its(0.0) ill-advised(1.0) policy(1.0) of(0.0) prohibiting(1.0) 
+service(0.0) by(0.0) openly(1.0) gay(1.0) members(0.0) ((0.0) although(0.0) it(0.0) 's(0.0) interesting(0.0) that(0.0) ,(0.0) in(0.0) times(0.0) of(0.0) war(1.0) ,(0.0) gays(1.0) and(0.0) lesbians(1.0) 
+are(0.0) considered(0.0) valuable(0.0) to(0.0) our(0.0) country(1.0) and(0.0) not(0.0) forced(0.0) out(0.0) of(0.0) the(0.0) military(0.0) )(0.0) we(0.0) should(0.0) not(0.0) force(0.0) them(0.0) to(0.0) 
+break(0.0) their(0.0) non-(0.0) discrimination(1.0) policies(1.0) for(0.0) the(0.0) military(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+voted	legislation	cut	federal	funds	institutions	
+policies	employers	policy	discrimination	
+universities	legitimate	ill-advised	policy	prohibiting	
+openly	gay	war	gays	lesbians	
+country	
+discrimination	policies	
+
+reads % = 0.20909090909090908

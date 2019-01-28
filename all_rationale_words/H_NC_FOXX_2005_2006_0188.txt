@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) agree(0.0) to(0.0) the(0.0) resolution(1.0) ((0.0) H.(0.0) Res(1.0) .(0.0) 605(0.0) )(0.0) recognizing(0.0) the(0.0) 
+life(0.0) of(0.0) Preston(0.0) Robert(0.0) Tisch(1.0) and(0.0) his(0.0) outstanding(0.0) contributions(0.0) to(0.0) New(0.0) York(1.0) City(0.0) ,(0.0) the(0.0) New(1.0) York(1.0) Giants(1.0) Football(0.0) Club(0.0) 
+,(0.0) the(0.0) National(0.0) Football(0.0) League(0.0) ,(0.0) and(0.0) the(0.0) United(0.0) States(0.0) .(0.0) The(0.0) Clerk(0.0) read(0.0) as(0.0) follows(0.0) :(0.0) H.(0.0) Res(1.0) .(0.0) 
+605(0.0) Whereas(0.0) Preston(0.0) Robert(0.0) ``(1.0) Bob(0.0) ''(1.0) Tisch(1.0) was(0.0) born(0.0) on(0.0) April(0.0) 29th(0.0) ,(0.0) 1926(0.0) ,(0.0) in(0.0) the(0.0) Bensonhurst(1.0) neighborhood(0.0) 
+of(0.0) Brooklyn(1.0) to(0.0) a(0.0) middle(0.0) class(0.0) family(0.0) ;(0.0) Whereas(0.0) Bob(0.0) Tisch(1.0) attended(1.0) Erasmus(1.0) Hall(0.0) High(0.0) School(0.0) in(0.0) Brooklyn(1.0) for(0.0) 3(0.0) 
+years(0.0) and(0.0) DeWitt(0.0) Clinton(0.0) High(0.0) School(0.0) in(0.0) the(0.0) Bronx(1.0) for(0.0) one(0.0) year(0.0) ;(0.0) Whereas(0.0) Bob(0.0) Tisch(1.0) earned(0.0) a(0.0) Bachelor(0.0) of(0.0) 
+Arts(0.0) degree(0.0) in(0.0) economics(0.0) from(0.0) the(0.0) University(0.0) of(0.0) Michigan(1.0) in(0.0) 1948(0.0) ;(0.0) Whereas(0.0) in(0.0) 1948(0.0) Bob(0.0) Tisch(1.0) joined(1.0) a(0.0) family(0.0) 
+hotel(0.0) business(0.0) venture(0.0) ,(0.0) the(0.0) Laurel-in-the-Pines(0.0) in(0.0) Lakewood(0.0) ,(0.0) New(1.0) Jersey(1.0) ,(0.0) establishing(0.0) the(0.0) foundation(0.0) for(0.0) his(0.0) success(0.0) ;(0.0) Whereas(0.0) 
+from(0.0) 1946(0.0) through(0.0) 1959(0.0) Bob(0.0) and(0.0) Larry(0.0) Tisch(1.0) built(0.0) a(0.0) thriving(0.0) hotel(0.0) chain(0.0) spanning(0.0) New(0.0) York(1.0) ,(0.0) New(0.0) Jersey(1.0) ,(0.0) 
+and(0.0) Florida(0.0) ;(0.0) Whereas(0.0) in(0.0) 1959(0.0) Bob(0.0) and(0.0) Larry(0.0) Tisch(1.0) acquired(0.0) a(0.0) controlling(0.0) interest(0.0) in(0.0) Loew(1.0) 's(0.0) Theatres(0.0) ,(0.0) consisting(0.0) 
+of(0.0) 102(0.0) movie(0.0) theatres(0.0) and(0.0) a(0.0) New(0.0) York(1.0) radio(0.0) station(0.0) ,(0.0) WMGM(1.0) ;(0.0) Whereas(0.0) the(0.0) investment(0.0) in(0.0) Loew(1.0) 's(0.0) Theatres(0.0) 
+formed(0.0) the(0.0) basis(0.0) for(0.0) the(0.0) modern-day(0.0) Loews(0.0) Corporation(0.0) ,(0.0) which(0.0) was(0.0) created(0.0) in(0.0) 1969(0.0) ;(0.0) Whereas(0.0) Bob(0.0) and(0.0) Larry(0.0) Tisch(1.0) 
+built(0.0) Loews(0.0) Corporation(0.0) into(0.0) one(0.0) of(0.0) the(0.0) largest(0.0) diversified(0.0) financial(0.0) corporations(0.0) in(0.0) the(0.0) United(0.0) States(0.0) ;(0.0) Whereas(0.0) in(0.0) 1986(0.0) Bob(0.0) 
+Tisch(1.0) was(0.0) appointed(0.0) by(0.0) the(0.0) Board(0.0) of(0.0) Governors(0.0) of(0.0) the(0.0) United(0.0) States(0.0) Postal(0.0) Service(0.0) as(0.0) Postmaster(0.0) General(0.0) under(0.0) the(0.0) administration(0.0) 
+of(0.0) President(0.0) Ronald(1.0) Reagan(1.0) ;(0.0) Whereas(0.0) in(0.0) 1991(0.0) Bob(0.0) Tisch(1.0) purchased(0.0) a(0.0) 50(0.0) percent(0.0) share(0.0) in(0.0) the(0.0) New(1.0) York(1.0) Giants(1.0) 
+Football(0.0) Club(0.0) ;(0.0) Whereas(0.0) Bob(0.0) Tisch(1.0) helped(1.0) create(0.0) the(0.0) Meals-on-Wheels(1.0) program(0.0) and(0.0) served(0.0) as(0.0) its(0.0) president(0.0) for(0.0) over(0.0) 10(0.0) years(0.0) 
+,(0.0) frequently(0.0) delivering(0.0) meals(0.0) himself(0.0) ;(0.0) Whereas(0.0) Bob(0.0) Tisch(1.0) founded(1.0) the(0.0) Take(0.0) the(0.0) Field(0.0) program(0.0) ,(0.0) a(0.0) program(0.0) which(0.0) during(0.0) 
+the(0.0) 1990s(0.0) raised(0.0) over(0.0) $(0.0) 100,000,000(0.0) in(0.0) public(0.0) and(0.0) private(0.0) funds(0.0) to(0.0) rebuild(0.0) 43(0.0) athletic(0.0) fields(0.0) in(0.0) New(1.0) York(1.0) City(1.0) 
+for(0.0) the(0.0) use(0.0) of(0.0) hundreds(0.0) of(0.0) thousands(0.0) of(0.0) public(0.0) school(0.0) students(0.0) ;(0.0) Whereas(0.0) Bob(1.0) Tisch(1.0) gave(0.0) countless(0.0) millions(1.0) of(0.0) dollars(1.0) 
+to(0.0) hospitals(1.0) ,(0.0) charities(1.0) ,(0.0) and(0.0) universities(1.0) in(0.0) the(0.0) spirit(0.0) of(0.0) improving(0.0) the(0.0) lives(0.0) of(0.0) Americans(1.0) ;(0.0) Whereas(0.0) on(0.0) November(0.0) 
+15(0.0) ,(0.0) 2005(0.0) ,(0.0) Bob(0.0) Tisch(1.0) died(0.0) of(0.0) a(0.0) brain(0.0) tumor(0.0) at(0.0) the(0.0) age(0.0) of(0.0) 79(0.0) ;(0.0) and(0.0) Whereas(0.0) the(0.0) 
+life(0.0) of(0.0) Bob(0.0) Tisch(1.0) serves(1.0) as(0.0) a(0.0) model(0.0) for(0.0) self-(0.0) made(0.0) success(0.0) and(0.0) positive(0.0) American(0.0) philanthropy(1.0) :(0.0) Now(0.0) ,(0.0) therefore(0.0) 
+,(0.0) be(0.0) it(0.0) Resolved(0.0) ,(0.0) That(0.0) the(0.0) House(0.0) of(0.0) Representatives(0.0) ,(0.0) on(0.0) the(0.0) occasion(0.0) of(0.0) the(0.0) death(0.0) of(0.0) Preston(0.0) Robert(0.0) 
+Tisch(1.0) --(0.0) ((0.0) 1(0.0) )(0.0) expresses(0.0) its(0.0) deepest(0.0) condolences(0.0) to(0.0) his(0.0) wife(0.0) of(0.0) 57(0.0) years(0.0) Joan(0.0) and(0.0) their(0.0) 3(0.0) children(0.0) 
+;(0.0) and(0.0) ((0.0) 2(0.0) )(0.0) recognizes(0.0) the(0.0) outstanding(0.0) contributions(0.0) Preston(0.0) Robert(0.0) Tisch(1.0) made(0.0) throughout(0.0) his(0.0) life(0.0) to(0.0) New(0.0) York(1.0) 
+
+
+----- below are rationale words -----
+
+resolution	Res	
+Tisch	York	New	York	Giants	
+Res	
+``	''	Tisch	Bensonhurst	
+Brooklyn	Tisch	attended	Erasmus	Brooklyn	
+Bronx	Tisch	
+Michigan	Tisch	joined	
+New	Jersey	
+Tisch	York	Jersey	
+Tisch	Loew	
+York	WMGM	Loew	
+Tisch	
+
+Tisch	
+Ronald	Reagan	Tisch	New	York	Giants	
+Tisch	helped	Meals-on-Wheels	
+Tisch	founded	
+New	York	City	
+Bob	Tisch	millions	dollars	
+hospitals	charities	universities	Americans	
+Tisch	
+Tisch	serves	philanthropy	
+
+Tisch	
+Tisch	York	
+
+reads % = 0.126

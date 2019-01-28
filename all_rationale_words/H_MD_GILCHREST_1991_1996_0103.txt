@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) me(0.0) this(0.0) time(0.0) .(0.0) I(0.0) would(0.0) like(0.0) to(0.0) ask(0.0) the(0.0) body(0.0) this(0.0) question(0.0) 
+:(0.0) Are(0.0) there(0.0) any(0.0) areas(0.0) in(0.0) their(0.0) districts(1.0) that(0.0) are(0.0) depressed(0.0) ?(0.0) Is(0.0) there(0.0) any(0.0) section(0.0) of(0.0) their(0.0) district(0.0) that(0.0) 
+they(0.0) would(0.0) consider(0.0) in(0.0) poverty(1.0) ;(0.0) in(0.0) need(0.0) of(0.0) jobs(1.0) ?(0.0) If(0.0) the(0.0) answer(0.0) is(0.0) ``(0.0) yes(0.0) ,(0.0) ''(0.0) then(0.0) 
+I(0.0) would(0.0) like(0.0) them(0.0) to(0.0) find(0.0) an(0.0) answer(0.0) to(0.0) the(0.0) following(0.0) question(0.0) :(0.0) What(0.0) is(0.0) the(0.0) Federal(1.0) Government(1.0) 's(0.0) role(0.0) 
+in(0.0) economic(1.0) development(0.0) ?(0.0) I(0.0) want(0.0) to(0.0) give(0.0) my(0.0) colleagues(0.0) three(0.0) ideas(0.0) about(0.0) the(0.0) Federal(1.0) Government(1.0) 's(0.0) role(0.0) in(0.0) economic(1.0) 
+development(0.0) and(0.0) include(0.0) in(0.0) that(0.0) a(0.0) vastly(0.0) reformed(1.0) Economic(1.0) Development(0.0) Administration(0.0) where(0.0) there(0.0) is(0.0) no(0.0) pork(0.0) .(0.0) No(0.0) .(0.0) 1(0.0) 
+,(0.0) the(0.0) Federal(1.0) Government(1.0) 's(0.0) role(0.0) is(0.0) to(0.0) create(0.0) an(0.0) environment(0.0) conducive(0.0) for(0.0) economic(1.0) productivity(1.0) in(0.0) the(0.0) private(0.0) sector(0.0) .(0.0) 
+We(0.0) would(0.0) agree(0.0) with(0.0) that(0.0) .(0.0) No(0.0) .(0.0) 2(0.0) ,(0.0) the(0.0) Federal(1.0) Government(1.0) should(0.0) enhance(0.0) the(0.0) competitive(0.0) nature(0.0) of(0.0) the(0.0) 
+market(0.0) economy(1.0) .(0.0) Nobody(0.0) would(0.0) deny(1.0) that(0.0) .(0.0) And(0.0) No(0.0) .(0.0) 3(0.0) ,(0.0) our(0.0) role(0.0) in(0.0) that(0.0) mix(0.0) is(0.0) to(0.0) 
+act(1.0) as(0.0) a(0.0) team(0.0) player(0.0) with(0.0) the(0.0) community(0.0) ,(0.0) with(0.0) superintendents(1.0) of(0.0) schools(1.0) ,(0.0) for(0.0) example(0.0) ,(0.0) to(0.0) create(0.0) a(0.0) 
+job(0.0) base(0.0) .(0.0) EDA(0.0) ensures(0.0) a(0.0) market(0.0) economy(0.0) .(0.0) Vote(1.0) against(0.0) the(0.0) amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+districts	
+poverty	jobs	
+Federal	Government	
+economic	Federal	Government	economic	
+reformed	Economic	
+Federal	Government	economic	productivity	
+Federal	Government	
+economy	deny	
+act	superintendents	schools	
+Vote	amendment	
+
+reads % = 0.11162790697674418

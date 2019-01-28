@@ -1,0 +1,38 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) to(0.0) join(0.0) my(0.0) colleagues(0.0) on(0.0) the(0.0) House(0.0) Agriculture(0.0) Committee(0.0) in(0.0) saying(0.0) farewell(0.0) to(0.0) an(0.0) old(0.0) friend(0.0) and(0.0) 
+statesman(0.0) ,(0.0) retiring(0.0) Congressman(1.0) Larry(1.0) Combest(1.0) of(0.0) Texas(0.0) .(0.0) I(0.0) 've(0.0) known(0.0) Larry(0.0) since(0.0) I(0.0) first(0.0) came(0.0) to(0.0) Congress(0.0) and(0.0) 
+joined(0.0) the(0.0) Agriculture(0.0) Committee(0.0) in(0.0) 1993(0.0) and(0.0) I(0.0) have(0.0) the(0.0) utmost(0.0) respect(0.0) for(0.0) his(0.0) continual(0.0) dedication(0.0) to(0.0) the(0.0) Nation(1.0) and(0.0) 
+our(0.0) farmers(1.0) and(0.0) ranchers(1.0) .(0.0) Larry(0.0) Combest(1.0) 's(0.0) long(0.0) and(0.0) distinguished(0.0) career(0.0) has(0.0) included(0.0) the(0.0) chairmanships(1.0) of(0.0) the(0.0) House(0.0) Intelligence(0.0) 
+and(0.0) Agriculture(0.0) committees(0.0) .(0.0) I(0.0) had(0.0) the(0.0) pleasure(0.0) of(0.0) working(0.0) side(0.0) by(0.0) side(0.0) with(0.0) Chairman(0.0) Combest(1.0) as(0.0) he(0.0) forged(0.0) the(0.0) 
+Farm(0.0) Security(0.0) and(0.0) Rural(0.0) Investment(0.0) Act(0.0) of(0.0) 2002(0.0) .(0.0) From(0.0) holding(0.0) ten(0.0) historic(0.0) nationwide(0.0) Agriculture(0.0) Committee(0.0) field(0.0) hearings(0.0) ,(0.0) one(0.0) 
+of(0.0) which(0.0) he(0.0) conducted(0.0) in(0.0) my(0.0) state(0.0) of(0.0) Alabama(0.0) ,(0.0) to(0.0) personally(0.0) securing(0.0) a(0.0) $(0.0) 73.5(0.0) billion(1.0) funding(1.0) commitment(0.0) from(0.0) 
+the(0.0) House(0.0) leadership(1.0) for(0.0) the(0.0) new(0.0) Farm(0.0) Bill(0.0) ,(0.0) Larry(0.0) Combest(1.0) was(0.0) largely(0.0) responsible(0.0) for(0.0) the(0.0) successful(0.0) passage(0.0) of(0.0) the(0.0) 
+landmark(0.0) legislation(0.0) for(0.0) farmers(0.0) and(0.0) ranchers(1.0) .(0.0) Chairman(0.0) Combest(1.0) 's(0.0) determination(0.0) made(0.0) it(0.0) possible(0.0) for(0.0) the(0.0) Committee(0.0) to(0.0) write(0.0) a(0.0) 
+bipartisan(0.0) ,(0.0) effective(0.0) bill(0.0) in(0.0) a(0.0) relatively(0.0) short(0.0) time(0.0) and(0.0) ensure(0.0) its(0.0) ultimate(0.0) passage(0.0) into(0.0) law(1.0) .(0.0) This(0.0) legislation(1.0) restored(0.0) 
+a(0.0) much-(0.0) needed(0.0) safety(0.0) net(0.0) to(0.0) production(0.0) agriculture(1.0) that(0.0) has(0.0) been(0.0) missing(0.0) for(0.0) too(0.0) long(0.0) .(0.0) And(0.0) when(0.0) agriculture(1.0) funding(1.0) 
+was(0.0) under(0.0) attack(0.0) earlier(0.0) this(0.0) year(0.0) ,(0.0) Larry(0.0) Combest(1.0) once(0.0) again(0.0) stood(0.0) up(0.0) for(0.0) farmers(1.0) by(0.0) standing(0.0) fast(0.0) against(0.0) harmful(0.0) 
+proposed(1.0) budget(1.0) cuts(1.0) .(1.0) As(0.0) we(0.0) in(0.0) the(0.0) House(0.0) say(0.0) goodbye(0.0) to(0.0) Larry(0.0) ,(0.0) I(0.0) thank(0.0) him(0.0) for(0.0) his(0.0) service(0.0) 
+to(0.0) America(1.0) and(0.0) wish(0.0) he(0.0) and(0.0) his(0.0) wife(0.0) Sharon(0.0) the(0.0) very(0.0) best(0.0) as(0.0) they(0.0) pursue(0.0) a(0.0) future(0.0) life(0.0) outside(0.0) of(0.0) 
+Washington(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Congressman	Larry	Combest	
+Nation	
+farmers	ranchers	Combest	chairmanships	
+Combest	
+
+billion	funding	
+leadership	Combest	
+ranchers	Combest	
+law	legislation	
+agriculture	agriculture	funding	
+Combest	farmers	
+proposed	budget	cuts	.	
+America	
+Washington	
+
+reads % = 0.0989399293286219

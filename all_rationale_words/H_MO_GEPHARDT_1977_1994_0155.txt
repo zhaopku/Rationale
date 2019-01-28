@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+If(0.0) the(0.0) gentlewoman(0.0) would(0.0) yield(0.0) ,(0.0) it(0.0) is(0.0) my(0.0) understanding(0.0) that(0.0) the(0.0) witnesses(0.0) in(0.0) this(0.0) type(0.0) hearing(0.0) are(0.0) invited(0.0) ,(0.0) that(0.0) 
+the(0.0) minority(1.0) has(0.0) the(0.0) ability(0.0) to(0.0) invite(0.0) people(0.0) to(0.0) come(0.0) .(0.0) And(0.0) then(0.0) the(0.0) questions(0.0) and(0.0) the(0.0) appropriateness(0.0) of(0.0) the(0.0) 
+questions(0.0) as(0.0) you(0.0) go(0.0) through(0.0) the(0.0) hearings(1.0) is(0.0) determined(0.0) by(0.0) the(0.0) procedures(0.0) of(0.0) the(0.0) committee(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+minority	
+hearings	
+
+reads % = 0.03508771929824561

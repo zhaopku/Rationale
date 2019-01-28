@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(1.0) ,(0.0) just(1.0) to(0.0) be(0.0) clear(1.0) ,(0.0) the(0.0) bill(0.0) that(0.0) is(0.0) before(1.0) the(0.0) House(0.0) today(1.0) is(0.0) not(1.0) a(0.0) repeal(1.0) bill(0.0) 
+of(0.0) the(0.0) CFPB(0.0) .(0.0) It(0.0) is(0.0) a(0.0) modification(0.0) ,(0.0) a(0.0) reform(0.0) package(0.0) to(0.0) the(0.0) CFPB(0.0) .(0.0) So(1.0) when(0.0) my(0.0) colleagues(1.0) 
+and(0.0) friends(0.0) across(0.0) the(0.0) aisle(1.0) talk(0.0) about(0.0) how(0.0) there(0.0) will(0.0) be(0.0) no(1.0) consumer(1.0) protection(0.0) ,(0.0) that(0.0) is(0.0) absolutely(1.0) false(0.0) .(0.0) 
+We(0.0) just(1.0) want(1.0) to(0.0) make(0.0) sure(1.0) the(0.0) Consumer(0.0) Financial(0.0) Protection(0.0) Bureau(0.0) works(0.0) better(0.0) and(0.0) is(0.0) more(0.0) responsive(0.0) to(0.0) the(0.0) American(0.0) 
+people(0.0) .(0.0) So(1.0) I(0.0) want(1.0) to(0.0) talk(0.0) about(0.0) a(0.0) few(0.0) of(0.0) the(0.0) things(0.0) that(0.0) this(0.0) bill(0.0) does(0.0) .(0.0) The(0.0) first(0.0) 
+thing(0.0) is(0.0) it(0.0) moves(1.0) the(0.0) Director(0.0) of(0.0) the(0.0) CFPB(0.0) over(0.0) to(0.0) a(0.0) bipartisan(0.0) commission(1.0) of(0.0) five(0.0) .(0.0) Now(0.0) ,(0.0) I(0.0) 
+know(1.0) my(0.0) friends(0.0) across(0.0) the(0.0) aisle(1.0) have(0.0) taken(0.0) issue(1.0) with(0.0) this(0.0) .(0.0) However(0.0) ,(0.0) when(0.0) ,(0.0) under(0.0) Dodd-Frank(1.0) ,(0.0) the(0.0) 
+CFPB(0.0) was(0.0) originally(0.0) envisioned(1.0) by(0.0) House(0.0) Democrats(1.0) and(0.0) the(0.0) former(0.0) chairman(1.0) Barney(1.0) Frank(1.0) ,(0.0) they(0.0) did(0.0) n't(0.0) have(0.0) a(0.0) single(1.0) 
+director(1.0) ;(0.0) they(0.0) actually(1.0) had(0.0) a(0.0) commission(1.0) .(0.0) When(1.0) Elizabeth(1.0) Warren(1.0) ,(0.0) now(0.0) Senator(1.0) Warren(1.0) ,(0.0) envisioned(1.0) this(0.0) package(0.0) ,(0.0) 
+it(0.0) was(0.0) n't(0.0) a(0.0) director(1.0) ;(0.0) it(0.0) was(0.0) a(0.0) commission(1.0) .(0.0) So(1.0) now(0.0) that(0.0) my(0.0) friends(0.0) across(0.0) the(0.0) aisle(1.0) take(0.0) 
+issue(0.0) with(0.0) the(0.0) reform(0.0) package(0.0) that(0.0) has(0.0) a(0.0) commission(1.0) and(0.0) not(1.0) a(0.0) director(1.0) ,(0.0) it(0.0) was(0.0) their(0.0) original(0.0) idea(0.0) .(0.0) 
+So(1.0) let(0.0) 's(0.0) not(0.0) play(0.0) partisan(1.0) politics(1.0) .(0.0) Let(1.0) 's(0.0) join(1.0) together(0.0) on(0.0) points(0.0) of(0.0) agreement(1.0) ,(0.0) and(0.0) this(0.0) is(0.0) 
+one(0.0) of(0.0) them(1.0) .(0.0) Another(1.0) concern(0.0) ,(0.0) the(0.0) Consumer(0.0) Financial(0.0) Protection(0.0) Bureau(0.0) is(0.0) not(1.0) responsive(0.0) to(0.0) Congress(0.0) because(1.0) it(0.0) does(0.0) 
+n't(0.0) get(0.0) its(0.0) funding(1.0) from(0.0) Congress(0.0) .(0.0) It(0.0) does(0.0) n't(0.0) go(0.0) through(0.0) the(0.0) appropriations(1.0) process(0.0) ,(0.0) which(0.0) gives(1.0) us(0.0) great(0.0) 
+oversight(0.0) here(0.0) in(0.0) the(0.0) House(0.0) .(0.0) Their(1.0) funding(1.0) comes(0.0) from(0.0) the(0.0) Federal(1.0) Reserve(0.0) .(0.0) We(0.0) think(0.0) it(0.0) is(0.0) appropriate(1.0) ,(0.0) 
+when(0.0) you(0.0) have(0.0) an(0.0) agency(1.0) that(0.0) is(0.0) so(0.0) powerful(0.0) and(0.0) so(0.0) unaccountable(1.0) ,(0.0) that(0.0) we(0.0) give(0.0) the(0.0) elected(1.0) Members(0.0) of(0.0) 
+the(0.0) American(0.0) people(0.0) power(1.0) to(0.0) say(1.0) how(0.0) much(0.0) money(0.0) they(0.0) should(0.0) have(0.0) and(0.0) how(0.0) they(0.0) should(0.0) use(1.0) it(0.0) .(0.0) We(0.0) 
+do(0.0) n't(0.0) have(0.0) that(0.0) ability(0.0) right(1.0) now(0.0) .(0.0) And(0.0) who(0.0) on(0.0) God(0.0) 's(0.0) green(1.0) Earth(1.0) says(1.0) that(0.0) we(0.0) should(0.0) take(0.0) 
+power(1.0) away(0.0) from(0.0) Congress(0.0) and(0.0) let(0.0) them(0.0) set(0.0) their(0.0) own(0.0) budgets(0.0) ?(0.0) Going(1.0) to(0.0) the(0.0) point(0.0) of(0.0) unaccountability(1.0) ,(0.0) the(0.0) 
+Consumer(0.0) Financial(0.0) Protection(0.0) Bureau(0.0) sets(0.0) their(0.0) own(0.0) pay(1.0) .(0.0) Where(0.0) in(0.0) the(0.0) free-market(1.0) system(0.0) does(0.0) any(1.0) employee(1.0) tell(0.0) the(0.0) employer(1.0) 
+,(0.0) This(0.0) is(0.0) what(0.0) you(0.0) are(0.0) going(0.0) to(0.0) pay(0.0) me(0.0) ;(0.0) I(0.0) am(1.0) setting(1.0) my(0.0) own(0.0) pay(1.0) ?(0.0) That(0.0) is(0.0) 
+what(0.0) they(0.0) do(0.0) at(0.0) the(0.0) Consumer(0.0) Financial(0.0) Protection(0.0) Bureau(0.0) .(0.0) And(0.0) all(0.0) we(0.0) say(1.0) is(0.0) we(0.0) ,(0.0) the(0.0) Congress(0.0) ,(0.0) 
+the(0.0) elected(1.0) representatives(0.0) of(0.0) the(0.0) American(0.0) people(0.0) ,(0.0) we(0.0) should(0.0) set(0.0) the(0.0) pay(1.0) of(0.0) the(0.0) Consumer(0.0) Financial(0.0) Protection(0.0) Bureau(0.0) .(0.0) 
+These(0.0) are(0.0) commonsense(1.0) reforms(1.0) that(0.0) actually(1.0) work(0.0) for(0.0) the(0.0) American(0.0) people(0.0) ,(0.0) and(0.0) ,(0.0) frankly(1.0) ,(0.0) it(0.0) will(0.0) work(0.0) for(0.0) 
+the(0.0) CFPB(0.0) to(0.0) make(0.0) them(0.0) far(0.0) more(0.0) accountable(1.0) .(0.0) The(0.0) way(0.0) this(0.0) bill(0.0) is(0.0) set(0.0) up(0.0) ,(0.0) not(1.0) the(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	just	clear	before	today	not	repeal	
+So	colleagues	
+aisle	no	consumer	absolutely	
+just	want	sure	
+So	want	
+moves	commission	
+know	aisle	issue	Dodd-Frank	
+envisioned	Democrats	chairman	Barney	Frank	single	
+director	actually	commission	When	Elizabeth	Warren	Senator	Warren	envisioned	
+director	commission	So	aisle	
+commission	not	director	
+So	partisan	politics	Let	join	agreement	
+them	Another	not	because	
+funding	appropriations	gives	
+Their	funding	Federal	appropriate	
+agency	unaccountable	elected	
+power	say	use	
+right	green	Earth	says	
+power	Going	unaccountability	
+pay	free-market	any	employee	employer	
+am	setting	pay	
+say	
+elected	pay	
+commonsense	reforms	actually	frankly	
+accountable	not	
+
+reads % = 0.186

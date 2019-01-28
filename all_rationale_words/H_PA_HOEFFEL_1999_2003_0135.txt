@@ -1,0 +1,38 @@
+This is from a Democrat
+----- below is the original text -----
+2443(1.0) ,(0.0) the(0.0) Coast(0.0) Guard(0.0) and(0.0) Marine(0.0) Transportation(0.0) Act(0.0) of(0.0) 2003(0.0) .(0.0) This(0.0) legislation(0.0) highlights(0.0) the(0.0) need(0.0) to(0.0) expand(0.0) our(0.0) Coast(1.0) 
+Guard(0.0) aviation(0.0) assets(0.0) to(0.0) fight(0.0) the(0.0) war(0.0) against(0.0) drugs(0.0) .(0.0) I(0.0) strongly(0.0) support(0.0) the(0.0) provision(1.0) in(0.0) this(0.0) measure(1.0) which(0.0) permits(1.0) 
+the(0.0) Coast(0.0) Guard(0.0) to(0.0) establish(0.0) a(0.0) West(0.0) Coast(0.0) fleet(0.0) of(0.0) HITRON(0.0) drug(0.0) interdiction(1.0) helicopters(0.0) .(0.0) This(0.0) provision(1.0) will(0.0) afford(1.0) the(0.0) 
+Coast(0.0) Guard(0.0) the(0.0) opportunity(0.0) to(0.0) select(0.0) a(0.0) new(0.0) state-of-the-art(0.0) ,(0.0) multi-mission(1.0) helicopter(0.0) to(0.0) assist(0.0) in(0.0) its(0.0) drug(1.0) interdiction(1.0) efforts(0.0) .(0.0) 
+The(0.0) HITRON(0.0) MH-68A(0.0) Sting(0.0) Ray(0.0) was(0.0) designed(0.0) ,(0.0) built(0.0) ,(0.0) and(0.0) maintained(0.0) by(0.0) the(0.0) Agusta(0.0) Aerospace(0.0) facility(0.0) in(0.0) Philadelphia(1.0) .(0.0) 
+Constructed(0.0) on(0.0) the(0.0) frame(0.0) of(0.0) an(0.0) A109E(0.0) Power(0.0) civilian(0.0) helicopter(0.0) ,(0.0) the(0.0) Sting(0.0) Ray(0.0) employs(0.0) state-of-(0.0) the-art(0.0) navigation(0.0) ,(0.0) communication(0.0) 
+,(0.0) and(0.0) avionics(0.0) equipment(0.0) .(0.0) In(0.0) 2000(0.0) ,(0.0) eight(0.0) Sting(0.0) Rays(0.0) were(0.0) leased(0.0) to(0.0) the(0.0) Coast(0.0) Guard(0.0) for(0.0) the(0.0) purpose(0.0) 
+of(0.0) establishing(0.0) an(0.0) armed(0.0) HITRON(0.0) Squadron(0.0) in(0.0) Jacksonville(0.0) ,(0.0) specifically(0.0) for(0.0) drug(0.0) interdiction(0.0) efforts(0.0) .(0.0) This(0.0) Fleet(0.0) has(0.0) enjoyed(0.0) a(0.0) 
+fabulous(0.0) success(0.0) rate(0.0) in(0.0) its(0.0) missions(0.0) .(0.0) HITRON(0.0) aircrews(0.0) have(0.0) interdicted(0.0) 30(0.0) tons(0.0) of(0.0) illegal(0.0) drugs(0.0) on(0.0) the(0.0) high(0.0) seas(0.0) 
+valued(0.0) at(0.0) more(0.0) than(0.0) $(0.0) 2.1(0.0) billion(0.0) .(0.0) In(0.0) addition(0.0) ,(0.0) the(0.0) Sting(0.0) Ray(0.0) is(0.0) the(0.0) only(0.0) Homeland(0.0) Security(0.0) helicopter(0.0) 
+authorized(0.0) for(0.0) airborne(0.0) use(0.0) of(0.0) force(0.0) over(0.0) civilian(0.0) populations(0.0) .(0.0) Since(0.0) September(0.0) 11(0.0) ,(0.0) the(0.0) Sting(0.0) Rays(0.0) have(0.0) also(0.0) been(0.0) 
+pressed(0.0) into(0.0) port(0.0) security(0.0) service(0.0) for(0.0) all(0.0) U.S.(0.0) ports(0.0) and(0.0) associated(0.0) waterways(1.0) .(0.0) Therefore(0.0) ,(0.0) I(0.0) am(0.0) pleased(0.0) to(0.0) support(0.0) 
+H.R(0.0) .(0.0) 2443(0.0) which(0.0) accommodates(0.0) the(0.0) leasing(0.0) and(0.0) stationing(0.0) of(0.0) six(0.0) HITRON(0.0) helicopters(0.0) in(0.0) Southern(1.0) California(0.0) .(0.0) The(0.0) failure(0.0) to(0.0) 
+establish(0.0) a(0.0) permanent(0.0) West(0.0) Coast(0.0) Fleet(0.0) will(0.0) result(0.0) in(0.0) a(0.0) serious(0.0) shortage(0.0) of(0.0) armed(1.0) assets(0.0) for(0.0) drug(1.0) interdiction(1.0) and(0.0) homeland(1.0) 
+defense(0.0) .(0.0) Thank(0.0) you(0.0) for(0.0) your(0.0) consideration(0.0) of(0.0) this(0.0) important(0.0) piece(0.0) of(0.0) legislation(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Coast	
+provision	measure	permits	
+interdiction	provision	afford	
+multi-mission	drug	interdiction	
+Philadelphia	
+
+
+
+
+
+
+waterways	
+Southern	
+armed	drug	interdiction	homeland	
+legislation	
+
+reads % = 0.061016949152542375

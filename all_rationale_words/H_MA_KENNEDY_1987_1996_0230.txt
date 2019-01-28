@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Does(0.0) the(0.0) gentleman(0.0) really(0.0) believe(0.0) that(0.0) we(0.0) should(0.0) be(0.0) providing(0.0) Government(1.0) tax(1.0) subsidies(1.0) to(0.0) the(0.0) richest(1.0) companies(1.0) in(0.0) the(0.0) U.S.(0.0) regardless(0.0) 
+of(0.0) what(0.0) their(0.0) profit(1.0) lines(0.0) are(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+Government	tax	subsidies	richest	companies	
+profit	
+
+reads % = 0.21428571428571427

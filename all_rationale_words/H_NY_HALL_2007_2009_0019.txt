@@ -1,0 +1,52 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) rise(0.0) today(0.0) to(0.0) pay(1.0) tribute(0.0) to(0.0) a(0.0) great(0.0) American(0.0) ,(0.0) First(0.0) Lieutenant(0.0) Lou(0.0) Allen(1.0) .(0.0) My(0.0) bill(0.0) 
+,(0.0) H.R(0.0) .(0.0) 2877(0.0) ,(0.0) would(0.0) designate(0.0) the(0.0) post(0.0) office(0.0) in(0.0) Chester(0.0) ,(0.0) New(0.0) York(1.0) ,(0.0) as(0.0) the(0.0) ``(0.0) 1st(0.0) 
+Lieutenant(0.0) Louis(1.0) Allen(1.0) Post(1.0) Office(0.0) .(0.0) ''(0.0) First(0.0) Lieutenant(0.0) Allen(0.0) was(0.0) killed(0.0) in(0.0) Iraq(0.0) over(0.0) 4(0.0) years(0.0) ago(0.0) by(0.0) a(0.0) 
+mine(0.0) explosion(0.0) for(0.0) which(0.0) another(0.0) member(0.0) of(0.0) the(0.0) Armed(0.0) Forces(0.0) was(0.0) charged(0.0) and(0.0) shockingly(0.0) acquitted(0.0) .(0.0) First(0.0) Lieutenant(0.0) Allen(0.0) was(0.0) 
+34(0.0) years(0.0) old(0.0) .(0.0) A(0.0) pillar(0.0) of(0.0) his(0.0) community(0.0) ,(0.0) a(0.0) model(0.0) National(0.0) Guardsman(0.0) ,(0.0) Lou(1.0) joined(1.0) the(0.0) New(0.0) York(1.0) 
+National(0.0) Guard(0.0) in(0.0) the(0.0) year(0.0) 2000(0.0) .(0.0) But(0.0) when(0.0) he(0.0) was(0.0) not(0.0) serving(0.0) in(0.0) uniform(1.0) ,(0.0) he(0.0) served(0.0) his(0.0) community(0.0) 
+as(0.0) a(0.0) science(0.0) teacher(0.0) at(0.0) George(0.0) F.(1.0) Baker(1.0) High(0.0) School(0.0) in(0.0) Tuxedo(0.0) .(0.0) He(0.0) was(0.0) deployed(0.0) to(0.0) New(0.0) York(1.0) City(0.0) 
+with(0.0) the(0.0) National(0.0) Guard(0.0) to(0.0) respond(0.0) to(0.0) the(0.0) terrorist(1.0) attacks(0.0) of(0.0) September(0.0) 11(0.0) ,(0.0) 2001(0.0) .(0.0) Lou(0.0) 's(0.0) service(0.0) to(0.0) 
+his(0.0) community(0.0) and(0.0) country(0.0) made(0.0) him(0.0) a(0.0) great(0.0) American(0.0) whom(0.0) we(0.0) are(0.0) all(0.0) proud(0.0) of(0.0) .(0.0) Lou(0.0) is(0.0) survived(0.0) by(0.0) 
+his(0.0) loving(0.0) wife(0.0) ,(0.0) Barbara(1.0) ;(0.0) and(0.0) their(0.0) four(0.0) young(0.0) sons(0.0) ,(0.0) Trevor(0.0) ,(0.0) Colin(0.0) ,(0.0) Sean(0.0) and(0.0) Jeremy(0.0) ;(0.0) 
+his(0.0) parents(0.0) ,(0.0) Bob(0.0) and(0.0) Vivian(0.0) ;(0.0) and(0.0) his(0.0) siblings(0.0) and(0.0) other(0.0) friends(0.0) and(0.0) family(0.0) who(0.0) are(0.0) all(0.0) so(0.0) proud(0.0) 
+of(0.0) him(0.0) .(0.0) Renaming(0.0) this(0.0) post(0.0) office(0.0) in(0.0) his(0.0) honor(0.0) will(0.0) be(0.0) a(0.0) tangible(0.0) reminder(0.0) of(0.0) the(0.0) joy(0.0) he(0.0) brought(0.0) 
+to(0.0) them(0.0) and(0.0) the(0.0) contributions(1.0) he(0.0) made(0.0) to(0.0) our(0.0) Nation(1.0) ,(0.0) the(0.0) Hudson(1.0) Valley(0.0) community(0.0) ,(0.0) and(0.0) the(0.0) lives(0.0) of(0.0) 
+those(0.0) who(0.0) knew(0.0) him(0.0) .(0.0) I(0.0) can(0.0) not(0.0) imagine(0.0) how(0.0) difficult(0.0) the(0.0) last(0.0) few(0.0) years(0.0) have(0.0) been(0.0) in(0.0) Lou's(0.0) family(0.0) 
+,(0.0) and(0.0) their(0.0) grace(0.0) in(0.0) dealing(0.0) with(0.0) this(0.0) tragedy(1.0) is(0.0) an(0.0) inspiration(0.0) to(0.0) us(0.0) all(0.0) .(0.0) I(0.0) have(0.0) had(0.0) the(0.0) 
+honor(0.0) of(0.0) meeting(0.0) them(0.0) at(0.0) Bob(0.0) and(0.0) Vivian's(0.0) house(0.0) when(0.0) I(0.0) introduced(0.0) this(0.0) bill(1.0) .(0.0) And(0.0) I(0.0) am(0.0) honored(0.0) to(0.0) 
+represent(0.0) them(0.0) in(0.0) Congress(0.0) and(0.0) to(0.0) be(0.0) able(0.0) to(0.0) come(0.0) here(0.0) to(0.0) Washington(1.0) and(0.0) help(0.0) redesignate(1.0) the(0.0) U.S.(0.0) Post(0.0) Office(0.0) 
+at(0.0) 76(0.0) Brookside(0.0) Avenue(0.0) in(0.0) Chester(0.0) ,(0.0) New(0.0) York(1.0) ,(0.0) as(0.0) the(0.0) ``(0.0) 1st(0.0) Lieutenant(0.0) Louis(1.0) Allen(1.0) Post(1.0) Office(0.0) .(0.0) 
+''(0.0) Renaming(0.0) this(0.0) post(0.0) office(0.0) is(0.0) not(0.0) about(0.0) mourning(0.0) Lou(0.0) 's(0.0) death(0.0) ,(0.0) but(0.0) about(0.0) celebrating(0.0) his(0.0) life(0.0) .(0.0) I(0.0) 
+am(0.0) glad(0.0) that(0.0) we(0.0) have(0.0) the(0.0) support(0.0) of(0.0) the(0.0) entire(0.0) New(1.0) York(1.0) State(0.0) congressional(0.0) delegation(1.0) ,(0.0) who(0.0) are(0.0) all(0.0) signed(0.0) 
+on(0.0) to(0.0) the(0.0) bill(0.0) as(1.0) original(0.0) cosponsors(1.0) .(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) honor(0.0) First(0.0) Lieutenant(0.0) Allen(0.0) and(0.0) support(0.0) this(0.0) 
+bill(1.0) so(0.0) that(0.0) he(0.0) and(0.0) his(0.0) family(0.0) will(0.0) finally(0.0) receive(0.0) the(0.0) tribute(0.0) to(0.0) his(0.0) sacrifice(0.0) that(0.0) they(0.0) deserve(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	pay	Allen	
+York	
+Louis	Allen	Post	
+
+Lou	joined	York	
+uniform	
+F.	Baker	York	
+terrorist	
+
+Barbara	
+
+
+contributions	Nation	Hudson	
+
+tragedy	
+bill	
+Washington	redesignate	
+York	Louis	Allen	Post	
+
+New	York	delegation	
+as	cosponsors	
+bill	deserve	
+
+reads % = 0.07727272727272727

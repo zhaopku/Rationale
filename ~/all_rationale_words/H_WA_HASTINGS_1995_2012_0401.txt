@@ -1,0 +1,10 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(1.0) and(0.0) urge(1.0) adoption(1.0) of(0.0) the(0.0) bill(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+time	urge	adoption	
+
+reads % = 0.2

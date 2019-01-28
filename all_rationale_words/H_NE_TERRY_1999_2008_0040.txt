@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) had(0.0) a(0.0) constituent(0.0) come(0.0) up(0.0) to(0.0) me(0.0) over(0.0) the(0.0) weekend(0.0) and(0.0) say(0.0) Congress(0.0) has(0.0) no(0.0) energy(0.0) plan(1.0) .(0.0) 
+I(0.0) corrected(0.0) that(0.0) person(0.0) .(0.0) The(0.0) Democrats(1.0) '(0.0) leadership(0.0) is(0.0) no(0.0) energy(0.0) .(0.0) Just(0.0) in(0.0) the(0.0) last(0.0) few(0.0) months(0.0) ,(0.0) 
+Congress(0.0) has(0.0) voted(1.0) under(0.0) their(0.0) leadership(0.0) to(0.0) take(0.0) shale(1.0) from(0.0) Colorado(1.0) and(0.0) Wyoming(1.0) off(0.0) limits(1.0) for(0.0) extracting(0.0) the(0.0) oil(1.0) .(0.0) 
+Last(0.0) week(0.0) coal-to-liquid(1.0) for(0.0) aviation(1.0) fuel(1.0) was(0.0) banned(0.0) .(0.0) The(0.0) Air(0.0) Force(0.0) is(0.0) not(0.0) allowed(0.0) to(0.0) enter(0.0) into(0.0) a(0.0) long-term(0.0) 
+contract(0.0) to(0.0) buy(0.0) that(0.0) type(0.0) of(0.0) synthetic(1.0) fuel(1.0) .(0.0) We(0.0) are(0.0) going(0.0) backwards(0.0) .(0.0) The(0.0) reality(0.0) is(0.0) if(0.0) we(0.0) bring(0.0) 
+all(0.0) of(0.0) our(0.0) resources(1.0) together(0.0) ,(0.0) yes(0.0) ,(0.0) conservation(1.0) ,(0.0) yes(0.0) ,(0.0) alternative(1.0) fuels(1.0) ,(0.0) and(0.0) open(0.0) up(0.0) the(0.0) resources(0.0) 
+that(0.0) we(0.0) have(0.0) right(0.0) here(0.0) in(0.0) America(1.0) offshore(1.0) where(0.0) there(0.0) is(0.0) a(0.0) moratorium(1.0) that(0.0) Congress(0.0) can(0.0) lift(0.0) ,(0.0) a(0.0) moratorium(1.0) 
+that(0.0) was(0.0) imposed(1.0) by(0.0) Congress(0.0) on(0.0) shale(1.0) oil(1.0) that(0.0) can(0.0) be(0.0) lifted(0.0) by(0.0) Congress(0.0) ,(0.0) and(0.0) in(0.0) Alaska(1.0) where(0.0) Congress(0.0) 
+can(0.0) lift(0.0) that(0.0) moratorium(1.0) ,(0.0) if(0.0) we(0.0) combine(0.0) all(0.0) of(0.0) those(0.0) resources(0.0) ,(0.0) we(0.0) can(0.0) be(0.0) free(0.0) of(0.0) OPEC(1.0) .(0.0) 
+It(0.0) is(0.0) time(0.0) for(0.0) a(0.0) real(0.0) energy(0.0) policy(1.0) where(0.0) we(0.0) free(0.0) our(0.0) resources(1.0) for(0.0) American-made(1.0) energy(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+plan	
+Democrats	
+voted	shale	Colorado	Wyoming	limits	oil	
+coal-to-liquid	aviation	fuel	
+synthetic	fuel	
+resources	conservation	alternative	fuels	
+America	offshore	moratorium	moratorium	
+imposed	shale	oil	Alaska	
+moratorium	OPEC	
+policy	resources	American-made	energy	
+
+reads % = 0.15656565656565657

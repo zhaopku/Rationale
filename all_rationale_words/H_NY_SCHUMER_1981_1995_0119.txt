@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+The(0.0) gentleman(0.0) is(0.0) raising(1.0) problems(0.0) with(0.0) LEAA(1.0) .(0.0) We(0.0) agree(1.0) it(0.0) had(0.0) problems(0.0) .(0.0) But(0.0) what(1.0) Speaker(0.0) Gingrich(1.0) was(0.0) referring(1.0) to(0.0) 
+in(0.0) these(0.0) quotes(1.0) was(0.0) not(1.0) the(0.0) LEAA(1.0) .(0.0) It(0.0) was(0.0) the(0.0) LPA(1.0) ,(0.0) the(0.0) Local(1.0) Partnership(0.0) Act(0.0) which(0.0) was(0.0) in(0.0) 
+last(1.0) year(0.0) 's(0.0) bill(0.0) which(0.0) was(0.0) virtually(0.0) the(0.0) same(1.0) thing(0.0) as(0.0) the(0.0) block(0.0) grant(0.0) proposed(0.0) this(0.0) year(0.0) .(0.0) So(1.0) I(0.0) 
+would(1.0) like(0.0) to(0.0) ask(0.0) the(0.0) gentleman(0.0) ,(0.0) when(0.0) the(0.0) Speaker(0.0) says(1.0) ,(0.0) ``(1.0) What(0.0) I(0.0) can(1.0) not(0.0) defend(1.0) is(0.0) sending(0.0) 
+a(0.0) blank(1.0) check(1.0) to(0.0) local(0.0) politicians(1.0) across(0.0) the(0.0) country(1.0) for(0.0) them(0.0) to(0.0) decide(1.0) how(0.0) to(0.0) spend(1.0) it(0.0) ,(0.0) ''(0.0) how(1.0) 
+is(0.0) the(0.0) program(0.0) in(0.0) H.R(0.0) .(0.0) 728(1.0) any(1.0) different(1.0) than(0.0) that(0.0) quote(1.0) from(0.0) the(0.0) Speaker(0.0) ?(1.0) Where(0.0) is(0.0) the(0.0) difference(0.0) 
+?(0.0) 
+
+
+----- below are rationale words -----
+
+raising	LEAA	agree	what	Gingrich	referring	
+quotes	not	LEAA	LPA	Local	
+last	same	So	
+would	says	``	can	defend	
+blank	check	politicians	country	decide	spend	how	
+728	any	different	quote	?	
+
+
+reads % = 0.2540983606557377

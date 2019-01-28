@@ -1,0 +1,24 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) just(0.0) want(0.0) to(0.0) point(0.0) out(0.0) as(0.0) I(0.0) read(0.0) this(0.0) amendment(1.0) ,(0.0) it(0.0) is(0.0) not(0.0) limited(0.0) to(0.0) any(0.0) Federal(1.0) 
+issue(0.0) .(0.0) In(0.0) the(0.0) last(0.0) crime(1.0) bill(1.0) that(0.0) this(0.0) body(0.0) passed(0.0) ,(0.0) we(0.0) made(0.0) carjacking(1.0) ,(0.0) whether(0.0) the(0.0) car(0.0) went(0.0) 
+interstate(1.0) or(0.0) not(0.0) interstate(1.0) ,(0.0) a(0.0) Federal(1.0) offense(1.0) .(0.0) We(0.0) made(0.0) drive-by(1.0) shooting(0.0) ,(0.0) whether(0.0) the(0.0) bullet(0.0) was(0.0) fired(0.0) across(0.0) 
+State(1.0) lines(0.0) or(0.0) not(0.0) ,(0.0) a(0.0) Federal(1.0) offense(1.0) .(0.0) Now(0.0) ,(0.0) apparently(0.0) under(0.0) this(0.0) amendment(1.0) ,(0.0) we(0.0) would(0.0) make(0.0) any(0.0) 
+multiple(0.0) killing(1.0) ,(0.0) manslaughter(1.0) ,(0.0) any(0.0) kind(0.0) of(0.0) circumstances(0.0) ,(0.0) a(0.0) Federal(1.0) offense(1.0) .(0.0) Where(0.0) are(0.0) the(0.0) people(0.0) who(0.0) for(0.0) 
+so(0.0) long(0.0) in(0.0) this(0.0) body(0.0) have(0.0) been(0.0) advocating(1.0) for(0.0) States(0.0) rights(1.0) ?(0.0) Where(0.0) have(0.0) you(0.0) gone(0.0) ?(0.0) This(0.0) is(0.0) not(0.0) 
+an(0.0) issue(0.0) that(0.0) ought(1.0) to(0.0) be(0.0) a(0.0) Federal(1.0) issue(0.0) .(0.0) If(0.0) we(0.0) are(0.0) going(0.0) to(0.0) do(0.0) it(0.0) for(0.0) Federal(1.0) offenses(1.0) 
+,(0.0) at(0.0) least(0.0) limit(1.0) it(0.0) to(0.0) Federal(1.0) offenses(1.0) and(0.0) not(0.0) State(0.0) offenses(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+amendment	Federal	
+crime	bill	carjacking	
+interstate	interstate	Federal	offense	drive-by	
+State	Federal	offense	amendment	
+killing	manslaughter	Federal	offense	
+advocating	rights	
+ought	Federal	Federal	offenses	
+limit	Federal	offenses	
+
+reads % = 0.17532467532467533

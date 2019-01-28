@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+About(0.0) 30(0.0) percent(0.0) of(0.0) Social(0.0) Security(0.0) benefits(0.0) go(0.0) to(0.0) those(0.0) who(0.0) are(0.0) disabled(0.0) and(0.0) those(0.0) who(0.0) are(0.0) family(0.0) members(0.0) .(0.0) And(0.0) 
+the(0.0) President(0.0) said(0.0) ,(0.0) if(0.0) I(0.0) might(0.0) take(0.0) another(0.0) 30(0.0) seconds(0.0) ,(0.0) that(0.0) they(0.0) would(0.0) not(0.0) be(0.0) affected(0.0) ,(0.0) the(0.0) 
+disabled(1.0) .(0.0) But(0.0) that(0.0) does(0.0) not(0.0) work(0.0) out(0.0) because(0.0) what(0.0) he(0.0) has(0.0) called(0.0) a(0.0) good(0.0) blueprint(0.0) provides(0.0) for(0.0) major(0.0) benefits(1.0) 
+cut(1.0) .(0.0) And(0.0) the(0.0) plan(1.0) ,(0.0) the(0.0) second(0.0) plan(0.0) of(0.0) the(0.0) commission(0.0) that(0.0) is(0.0) part(0.0) of(0.0) that(0.0) good(0.0) blueprint(1.0) does(0.0) 
+affect(0.0) the(0.0) disabled(1.0) .(0.0) And(0.0) if(0.0) you(0.0) were(0.0) to(0.0) have(0.0) these(0.0) massive(1.0) cuts(1.0) over(0.0) time(0.0) ,(0.0) especially(0.0) hurting(1.0) younger(0.0) workers(1.0) 
+,(0.0) for(0.0) retirees(1.0) and(0.0) not(0.0) for(0.0) the(0.0) disabled(1.0) ,(0.0) it(0.0) would(0.0) mean(0.0) deeper(0.0) cuts(1.0) yet(0.0) for(0.0) younger(0.0) workers(1.0) who(0.0) are(0.0) 
+going(0.0) to(0.0) retire(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+disabled	benefits	
+cut	plan	blueprint	
+disabled	massive	cuts	hurting	workers	
+retirees	disabled	cuts	workers	
+retire	
+
+reads % = 0.12

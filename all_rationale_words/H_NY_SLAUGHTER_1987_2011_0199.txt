@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) am(0.0) delighted(0.0) to(0.0) yield(0.0) 1\1/2\(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Massachusetts(1.0) ((0.0) Mr.(0.0) Frank(1.0) )(0.0) ,(0.0) the(0.0) 
+ranking(0.0) Democrat(0.0) on(0.0) the(0.0) Financial(0.0) Services(0.0) Committee(0.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) I(0.0) am(0.0) pleased(0.0) to(0.0) yield(0.0) 1\1/2\(0.0) minutes(0.0) to(0.0) the(0.0) 
+gentlewoman(0.0) from(0.0) Maryland(1.0) ((0.0) Ms.(1.0) Edwards(1.0) )(0.0) .(0.0) Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) am(0.0) pleased(0.0) to(0.0) yield(0.0) 1(0.0) minute(0.0) to(0.0) the(0.0) 
+gentleman(0.0) from(0.0) Virginia(1.0) ((0.0) Mr.(0.0) Connolly(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Massachusetts	Frank	
+Speaker	
+Maryland	Ms.	Edwards	
+Virginia	Connolly	
+
+reads % = 0.11594202898550725

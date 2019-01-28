@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) would(0.0) ask(0.0) my(0.0) colleagues(0.0) on(0.0) the(0.0) other(0.0) side(0.0) if(0.0) they(0.0) would(0.0) tell(0.0) me(0.0) ,(0.0) what(0.0) is(0.0) their(0.0) health(1.0) care(1.0) plan(1.0) 
+?(0.0) Is(0.0) it(0.0) just(0.0) that(0.0) we(0.0) should(0.0) n't(0.0) do(0.0) health(1.0) care(1.0) ?(0.0) What(0.0) part(0.0) of(0.0) it(0.0) would(0.0) you(0.0) not(0.0) do(0.0) 
+?(0.0) is(0.0) the(0.0) question(0.0) that(0.0) I(0.0) ask(0.0) .(0.0) But(0.0) I(0.0) really(0.0) rise(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) to(0.0) take(0.0) cognizance(0.0) of(0.0) 
+a(0.0) very(0.0) fine(0.0) day(0.0) yesterday(0.0) of(0.0) bipartisanship(1.0) .(0.0) A(0.0) former(0.0) colleague(0.0) of(0.0) ours(0.0) ,(0.0) the(0.0) now-(0.0) Secretary(1.0) of(0.0) Transportation(0.0) ,(0.0) 
+Ray(0.0) LaHood(1.0) ,(0.0) came(0.0) to(0.0) south(0.0) Florida(0.0) along(0.0) with(0.0) FAA(1.0) Director(0.0) Randy(1.0) Babbitt(1.0) to(0.0) meet(0.0) with(0.0) several(0.0) of(0.0) us(0.0) regarding(0.0) 
+radar(0.0) in(0.0) south(0.0) Florida(0.0) .(0.0) On(0.0) the(0.0) flight(0.0) from(0.0) USAir(1.0) here(0.0) ,(0.0) Administrator(0.0) Babbitt(1.0) and(0.0) I(0.0) had(0.0) an(0.0) opportunity(0.0) to(0.0) 
+hear(0.0) a(0.0) flight(0.0) attendant(0.0) do(0.0) something(0.0) very(0.0) nice(0.0) .(0.0) She(0.0) recognized(0.0) and(0.0) complimented(0.0) 30(0.0) members(0.0) of(0.0) the(0.0) Booker(0.0) T.(0.0) Washington(1.0) 
+High(0.0) School(0.0) class(0.0) of(0.0) 1949(0.0) in(0.0) Miami(0.0) who(0.0) were(0.0) en(0.0) route(0.0) here(0.0) to(0.0) Washington(1.0) .(0.0) It(0.0) was(0.0) a(0.0) wonderful(0.0) gesture(0.0) 
+,(0.0) and(0.0) it(0.0) made(0.0) for(0.0) a(0.0) wonderful(0.0) day(0.0) .(0.0) My(0.0) colleagues(0.0) here(0.0) who(0.0) continue(0.0) to(0.0) rant(0.0) about(0.0) us(0.0) not(0.0) having(0.0) 
+health(1.0) care(1.0) ,(0.0) I(0.0) wonder(0.0) what(0.0) they(0.0) would(0.0) say(0.0) if(0.0) we(0.0) do(0.0) nothing(0.0) ?(0.0) Will(0.0) health(1.0) care(1.0) stay(0.0) the(0.0) same(0.0) 
+?(0.0) Or(0.0) will(0.0) it(0.0) rot(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+health	care	plan	
+health	care	
+Speaker	
+bipartisanship	Secretary	
+LaHood	FAA	Randy	Babbitt	
+USAir	Babbitt	
+Washington	
+Washington	
+
+health	care	health	care	
+
+
+reads % = 0.0966183574879227

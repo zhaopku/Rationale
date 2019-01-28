@@ -1,0 +1,16 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) yield(0.0) such(0.0) time(0.0) as(0.0) he(0.0) may(0.0) consume(0.0) to(0.0) the(0.0) distinguished(0.0) gentleman(0.0) from(0.0) Maryland(1.0) [(0.0) Mr.(0.0) Bartlett(1.0) ](0.0) .(0.0) 
+((0.0) Mr.(0.0) BARTLETT(1.0) of(0.0) Maryland(0.0) asked(0.0) and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) )(0.0) Chairman(0.0) ,(0.0) 
+I(0.0) yield(0.0) 2(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) Mexico(1.0) [(0.0) Mr.(0.0) Schiff(1.0) ](0.0) .(0.0) ((0.0) Mr.(0.0) SCHIFF(1.0) asked(0.0) and(0.0) 
+was(0.0) given(0.0) permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) )(0.0) 
+
+
+----- below are rationale words -----
+
+Maryland	Bartlett	
+BARTLETT	
+Mexico	Schiff	SCHIFF	
+
+
+reads % = 0.08333333333333333

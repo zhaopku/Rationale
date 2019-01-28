@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) realize(0.0) the(0.0) ruling(1.0) on(0.0) the(0.0) comment(0.0) of(0.0) the(0.0) gentleman(0.0) from(0.0) Virginia(1.0) [(0.0) Mr.(0.0) Moran(1.0) ](0.0) being(1.0) in(0.0) order(0.0) 
+and(0.0) not(0.0) violative(1.0) of(0.0) the(0.0) rules(0.0) .(0.0) What(0.0) is(0.0) the(0.0) general(0.0) standard(0.0) that(0.0) would(0.0) be(0.0) violative(1.0) of(0.0) the(0.0) rules(1.0) ?(0.0) 
+
+
+
+----- below are rationale words -----
+
+ruling	Virginia	Moran	being	
+violative	violative	rules	
+
+
+reads % = 0.17073170731707318

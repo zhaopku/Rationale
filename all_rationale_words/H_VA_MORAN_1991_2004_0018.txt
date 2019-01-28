@@ -1,0 +1,56 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) in(0.0) strong(0.0) opposition(1.0) to(0.0) the(0.0) Undocumented(1.0) Alien(0.0) Emergency(0.0) Medical(0.0) Assistance(0.0) Amendments(0.0) of(0.0) 2004(0.0) ,(0.0) H.R(0.0) .(0.0) 3722(0.0) 
+,(0.0) because(0.0) it(0.0) will(0.0) place(0.0) a(0.0) new(0.0) burden(1.0) on(0.0) already(0.0) struggling(0.0) emergency(1.0) health(1.0) care(1.0) systems(0.0) nationwide(1.0) and(0.0) will(0.0) deter(1.0) immigrants(1.0) 
+and(0.0) their(0.0) family(0.0) members(0.0) from(0.0) seeking(0.0) much(0.0) needed(0.0) health(1.0) services(0.0) .(0.0) It(0.0) is(0.0) interesting(0.0) to(0.0) note(0.0) that(0.0) this(0.0) month(0.0) ,(0.0) 
+at(0.0) medical(0.0) school(0.0) graduations(1.0) nationwide(1.0) ,(0.0) a(0.0) new(0.0) community(0.0) of(0.0) physicians(1.0) were(0.0) called(0.0) upon(0.0) to(0.0) take(0.0) the(0.0) Hippocratic(1.0) Oath(0.0) ,(0.0) 
+which(0.0) remains(0.0) a(0.0) sacredly(0.0) held(0.0) principle(0.0) to(0.0) the(0.0) medical(0.0) community(0.0) today(0.0) .(0.0) Unfortunately(0.0) H.R(0.0) .(0.0) 3722(0.0) would(0.0) allow(0.0) hospitals(1.0) which(0.0) 
+receive(0.0) federal(1.0) funding(1.0) to(0.0) decide(0.0) whether(0.0) or(0.0) not(0.0) they(0.0) would(0.0) like(0.0) to(0.0) make(0.0) emergency(1.0) medical(1.0) services(0.0) available(0.0) to(0.0) certain(0.0) immigrants(1.0) 
+,(0.0) even(0.0) if(0.0) they(0.0) are(0.0) suffering(0.0) from(0.0) an(0.0) emergency(1.0) medical(0.0) condition(0.0) .(0.0) This(0.0) is(0.0) a(0.0) right(0.0) that(0.0) hospitals(1.0) and(0.0) other(0.0) 
+health(1.0) care(1.0) organizations(1.0) do(0.0) not(0.0) want(0.0) ,(0.0) as(0.0) evidenced(1.0) by(0.0) the(0.0) strong(0.0) opposition(1.0) of(0.0) the(0.0) American(0.0) Hospital(0.0) Association(0.0) ,(0.0) the(0.0) 
+American(0.0) Medical(0.0) Association(0.0) and(0.0) countless(0.0) other(0.0) public(0.0) health(1.0) organizations(0.0) .(0.0) This(0.0) seems(0.0) to(0.0) be(0.0) in(0.0) direct(0.0) conflict(1.0) of(0.0) the(0.0) Hippocratic(1.0) 
+Oath(0.0) and(0.0) will(0.0) deny(1.0) basic(0.0) medical(0.0) services(0.0) to(0.0) some(0.0) of(0.0) the(0.0) most(0.0) vulnerable(0.0) of(0.0) our(0.0) society(1.0) .(0.0) In(0.0) Northern(1.0) Virginia(0.0) 
+,(0.0) which(0.0) encompasses(0.0) my(0.0) congressional(1.0) district(1.0) ,(0.0) the(0.0) INOVA(1.0) Health(0.0) System(0.0) serves(0.0) nearly(0.0) 400,000(0.0) residents(1.0) a(0.0) year(0.0) and(0.0) has(0.0) about(0.0) 
+240,000(0.0) visitors(0.0) to(0.0) its(0.0) emergency(1.0) rooms(0.0) alone(0.0) .(0.0) The(0.0) emergency(1.0) room(0.0) personnel(0.0) at(0.0) INOVA(0.0) hospitals(0.0) are(0.0) some(0.0) of(0.0) the(0.0) same(0.0) 
+nurses(0.0) and(0.0) doctors(0.0) who(0.0) serve(0.0) as(0.0) our(0.0) First(0.0) Responders(0.0) and(0.0) were(0.0) certainly(0.0) heroic(0.0) on(0.0) September(0.0) 11th(0.0) in(0.0) aiding(1.0) the(0.0) victims(1.0) 
+of(0.0) the(0.0) Pentagon(1.0) attack(0.0) .(0.0) Proponents(1.0) of(0.0) H.R(0.0) .(0.0) 3722(0.0) claim(0.0) that(0.0) this(0.0) measure(1.0) will(0.0) help(0.0) to(0.0) lower(0.0) the(0.0) cost(1.0) 
+of(0.0) health(1.0) care(0.0) in(0.0) our(0.0) country(1.0) ,(0.0) but(0.0) in(0.0) reality(1.0) ,(0.0) will(0.0) do(0.0) little(0.0) to(0.0) alleviate(0.0) the(0.0) growing(0.0) cost(1.0) of(0.0) 
+health(1.0) care(1.0) needs(0.0) and(0.0) will(0.0) force(1.0) hospitals(1.0) to(0.0) expand(1.0) staff(0.0) and(0.0) technological(1.0) resources(0.0) to(0.0) implement(1.0) the(0.0) reporting(0.0) requirements(0.0) such(0.0) as(0.0) 
+obtaining(0.0) signed(0.0) statements(0.0) relating(0.0) to(0.0) citizenship(1.0) ,(0.0) immigration(1.0) status(1.0) ,(0.0) address(0.0) ,(0.0) financial(1.0) data(0.0) and(0.0) current(0.0) employee(1.0) status(0.0) as(0.0) well(0.0) 
+as(0.0) purchase(0.0) a(0.0) digital(0.0) electronic(0.0) biometric(0.0) identifier(0.0) .(0.0) I(0.0) am(0.0) greatly(0.0) disappointed(0.0) that(0.0) the(0.0) House(0.0) Republican(1.0) Leadership(1.0) would(1.0) bring(1.0) to(1.0) 
+the(1.0) floor(1.0) for(1.0) a(1.0) vote(1.0) ,(1.0) a(1.0) measure(1.0) which(1.0) strives(1.0) to(0.0) deny(1.0) even(1.0) basic(1.0) health(1.0) services(1.0) to(0.0) some(1.0) of(0.0) the(0.0) 
+most(0.0) vulnerable(1.0) in(0.0) our(0.0) society(1.0) ,(0.0) while(0.0) our(0.0) military(1.0) is(0.0) working(0.0) hard(0.0) to(0.0) establish(0.0) health(1.0) services(0.0) for(0.0) citizens(1.0) in(0.0) some(0.0) 
+of(0.0) the(0.0) most(0.0) war-torn(1.0) and(0.0) poverty-ridden(1.0) countries(1.0) in(0.0) the(0.0) world(0.0) .(0.0) H.R(0.0) .(0.0) 3722(0.0) will(0.0) do(0.0) little(0.0) to(0.0) address(0.0) the(0.0) 
+important(0.0) issue(0.0) of(0.0) rising(1.0) health(1.0) care(0.0) costs(1.0) and(0.0) its(0.0) intent(1.0) seems(0.0) to(0.0) have(0.0) been(0.0) influenced(0.0) more(0.0) by(0.0) political(1.0) considerations(0.0) than(0.0) 
+sound(0.0) policy(1.0) .(0.0) I(0.0) urge(0.0) all(0.0) my(0.0) colleagues(0.0) from(0.0) both(0.0) sides(0.0) of(0.0) the(0.0) aisle(0.0) to(0.0) vote(1.0) against(0.0) the(0.0) Undocumented(1.0) Alien(0.0) 
+Emergency(0.0) Medical(0.0) Assistance(0.0) Amendments(0.0) of(0.0) 2004(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+opposition	Undocumented	
+burden	emergency	health	care	nationwide	deter	immigrants	
+health	
+graduations	nationwide	physicians	Hippocratic	
+hospitals	
+federal	funding	emergency	medical	immigrants	
+emergency	hospitals	
+health	care	organizations	evidenced	opposition	
+health	conflict	Hippocratic	
+deny	society	Northern	
+congressional	district	INOVA	residents	
+emergency	emergency	
+aiding	victims	
+Pentagon	Proponents	measure	cost	
+health	country	reality	cost	
+health	care	force	hospitals	expand	technological	implement	
+citizenship	immigration	status	financial	employee	
+Republican	Leadership	would	bring	to	
+the	floor	for	a	vote	,	a	measure	which	strives	deny	even	basic	health	services	some	
+vulnerable	society	military	health	citizens	
+war-torn	poverty-ridden	countries	
+rising	health	costs	intent	political	
+policy	vote	Undocumented	
+
+
+reads % = 0.2094017094017094

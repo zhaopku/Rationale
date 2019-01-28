@@ -1,0 +1,16 @@
+This is from a Republican
+----- below is the original text -----
+That(0.0) job(0.0) for(0.0) us(0.0) is(0.0) a(0.0) job(0.0) of(0.0) leveling(0.0) the(0.0) playing(0.0) field(0.0) and(0.0) of(0.0) reforming(1.0) our(0.0) trade(1.0) policies(1.0) so(0.0) that(0.0) free(0.0) 
+trade(1.0) moves(0.0) in(0.0) both(0.0) directions(0.0) .(0.0) Right(0.0) now(0.0) ,(0.0) we(0.0) have(0.0) trade(1.0) that(0.0) is(0.0) free(0.0) in(0.0) only(0.0) one(0.0) direction(0.0) ,(0.0) 
+and(0.0) that(0.0) is(0.0) for(0.0) products(0.0) coming(0.0) into(0.0) the(0.0) United(0.0) States(0.0) .(0.0) I(0.0) thank(0.0) my(0.0) colleagues(0.0) ,(0.0) and(0.0) I(0.0) thank(0.0) the(0.0) 
+gentleman(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+reforming	trade	policies	
+trade	trade	
+
+
+
+reads % = 0.07936507936507936

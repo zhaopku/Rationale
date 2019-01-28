@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) H.R(1.0) .(0.0) 3645(0.0) was(0.0) introduced(0.0) by(0.0) 
+the(0.0) gentleman(0.0) from(0.0) Illinois(1.0) ((0.0) Mr.(0.0) Evans(1.0) )(0.0) earlier(1.0) this(0.0) year(0.0) .(0.0) I(0.0) would(0.0) like(0.0) to(0.0) take(0.0) this(0.0) time(0.0) to(0.0) 
+commend(0.0) the(0.0) gentleman(0.0) from(0.0) Illinois(0.0) as(0.0) well(0.0) as(0.0) our(0.0) chairman(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) Jersey(1.0) ((0.0) Mr.(0.0) Smith(1.0) )(0.0) 
+,(0.0) and(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) ((0.0) Mr.(0.0) Filner(1.0) )(0.0) ,(0.0) the(0.0) ranking(0.0) member(0.0) of(0.0) our(0.0) Subcommittee(0.0) on(0.0) Health(0.0) ,(0.0) 
+which(0.0) I(0.0) am(0.0) privileged(0.0) to(0.0) chair(0.0) .(0.0) In(0.0) addition(0.0) ,(0.0) I(0.0) would(0.0) like(0.0) to(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Indiana(1.0) ((0.0) 
+Mr(0.0) .(1.0) Buyer(0.0) )(0.0) ,(0.0) chairman(0.0) of(0.0) the(0.0) Subcommittee(0.0) on(0.0) Oversight(0.0) and(0.0) Investigations(0.0) and(0.0) the(0.0) gentleman(0.0) from(0.0) Connecticut(1.0) ((0.0) Mr.(0.0) 
+Simmons(1.0) )(0.0) for(1.0) their(0.0) work(0.0) on(0.0) this(0.0) bill(0.0) .(0.0) Introduced(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) Illinois(0.0) ((0.0) Mr.(0.0) Evans(1.0) )(0.0) ,(0.0) 
+H.R(0.0) .(0.0) 3645(0.0) represents(0.0) an(0.0) important(0.0) reform(0.0) to(0.0) the(0.0) manner(0.0) in(0.0) which(0.0) the(0.0) VA(0.0) obtains(0.0) medical(0.0) supply(0.0) items(0.0) for(0.0) VA(0.0) 
+health(0.0) care(0.0) ,(0.0) and(0.0) it(0.0) is(0.0) a(0.0) good-government(0.0) measure(0.0) .(0.0) On(0.0) June(0.0) 26(0.0) of(0.0) this(0.0) year(0.0) ,(0.0) the(0.0) VA(0.0) Subcommittee(0.0) 
+on(0.0) Health(0.0) held(0.0) a(0.0) legislative(0.0) hearing(0.0) to(0.0) explore(0.0) the(0.0) merits(0.0) of(0.0) this(0.0) bill(0.0) .(0.0) As(0.0) a(0.0) result(0.0) of(0.0) our(0.0) hearing(0.0) 
+and(0.0) subsequent(0.0) meetings(0.0) with(0.0) veterans(0.0) '(0.0) organizations(0.0) ,(0.0) changes(0.0) were(0.0) made(0.0) to(0.0) the(0.0) bill(0.0) to(0.0) ensure(0.0) that(0.0) the(0.0) VA(0.0) may(0.0) 
+continue(0.0) to(0.0) obtain(0.0) specialized(0.0) health(0.0) care(0.0) items(0.0) that(0.0) severely(0.0) disabled(0.0) veterans(0.0) require(0.0) .(0.0) These(0.0) changes(0.0) are(0.0) addressed(0.0) in(0.0) section(0.0) 3(0.0) 
+of(0.0) the(0.0) bill(0.0) .(0.0) Also(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) several(0.0) other(0.0) measures(1.0) were(0.0) incorporated(0.0) into(0.0) this(0.0) legislation(1.0) .(0.0) To(0.0) summarize(0.0) 
+,(0.0) the(0.0) VA(0.0) Subcommittee(0.0) on(0.0) Health(0.0) held(0.0) a(0.0) hearing(0.0) on(0.0) June(0.0) 13(0.0) regarding(0.0) access(0.0) to(0.0) VA(0.0) health(0.0) care(0.0) to(0.0) Filipino(0.0) 
+veterans(1.0) of(0.0) World(0.0) War(0.0) II(0.0) who(0.0) now(0.0) reside(0.0) in(0.0) this(0.0) country(1.0) .(0.0) These(0.0) veterans(1.0) fought(0.0) alongside(0.0) our(0.0) troops(0.0) in(0.0) the(0.0) 
+Philippines(0.0) and(0.0) deserve(0.0) access(0.0) to(0.0) VA(0.0) health(0.0) care(0.0) .(0.0) Section(0.0) 5(0.0) of(0.0) the(0.0) amendment(0.0) includes(0.0) the(0.0) health(0.0) care-related(0.0) provisions(0.0) of(0.0) 
+H.R(0.0) .(0.0) 4904(0.0) ,(0.0) a(0.0) bill(0.0) that(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) ((0.0) Mr.(0.0) Filner(1.0) )(0.0) introduced(1.0) that(0.0) would(0.0) extend(0.0) these(0.0) 
+services(0.0) to(0.0) our(0.0) World(0.0) War(0.0) II(0.0) allies(1.0) who(0.0) served(0.0) in(0.0) the(0.0) Commonwealth(0.0) Army(0.0) of(0.0) the(0.0) Philippines(0.0) .(0.0) The(0.0) VA(0.0) Subcommittees(0.0) 
+on(0.0) Health(0.0) and(0.0) Oversight(0.0) and(0.0) Investigations(0.0) held(0.0) a(0.0) joint(0.0) hearing(0.0) on(0.0) May(0.0) 16(0.0) to(0.0) address(0.0) our(0.0) concerns(0.0) about(0.0) activities(0.0) of(0.0) 
+the(0.0) research(0.0) and(0.0) education(0.0) corporations(0.0) that(0.0) aid(0.0) the(0.0) VA(0.0) in(0.0) conducting(0.0) outside(0.0) funded(0.0) research(0.0) and(0.0) provide(0.0) certain(0.0) health(0.0) education(0.0) funding(1.0) 
+for(0.0) VA(0.0) clinicians(0.0) .(0.0) As(0.0) a(0.0) result(0.0) of(0.0) issues(0.0) arising(0.0) at(0.0) that(0.0) hearing(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Indiana(1.0) ((0.0) Mr(0.0) 
+.(1.0) Buyer(0.0) )(0.0) introduced(0.0) H.R(0.0) .(0.0) 5084(0.0) ,(0.0) the(0.0) contents(0.0) of(0.0) which(0.0) are(0.0) now(0.0) included(0.0) in(0.0) section(0.0) 7(0.0) of(0.0) this(0.0) 
+bill(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) the(0.0) VA(1.0) also(0.0) requested(0.0) the(0.0) inclusion(0.0) of(0.0) three(0.0) additional(0.0) provisions(0.0) ,(0.0) provisions(0.0) to(0.0) streamline(0.0) the(0.0) 
+procedures(0.0) for(0.0) awarding(0.0) enhanced-use(0.0) leases(0.0) of(0.0) certain(0.0) VA(0.0) real(0.0) properties(0.0) ,(0.0) to(0.0) expand(0.0) dental(1.0) care(0.0) for(0.0) all(0.0) former(0.0) prisoners(1.0) of(0.0) 
+war(0.0) ,(0.0) and(0.0) to(0.0) authorize(0.0) the(0.0) VA(0.0) Secretary(0.0) to(0.0) permit(0.0) the(0.0) Department(0.0) of(0.0) Defense(0.0) to(0.0) use(0.0) the(0.0) VA(0.0) supply(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	H.R	
+Illinois	Evans	earlier	
+Jersey	Smith	
+Filner	
+Indiana	
+.	Connecticut	
+Simmons	for	Evans	
+
+
+
+
+
+Speaker	measures	legislation	
+
+veterans	country	veterans	
+
+Filner	introduced	
+allies	
+
+funding	
+Indiana	
+.	
+Speaker	VA	
+dental	prisoners	
+
+
+reads % = 0.06

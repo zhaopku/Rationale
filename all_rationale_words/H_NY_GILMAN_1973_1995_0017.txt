@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+The(0.0) order(0.0) of(0.0) amendments(0.0) that(0.0) were(0.0) read(0.0) consumes(0.0) all(0.0) of(0.0) the(0.0) remaining(0.0) time(0.0) .(0.0) As(0.0) a(0.0) further(0.0) response(0.0) to(0.0) the(0.0) gentleman(0.0) 
+,(0.0) the(0.0) remaining(0.0) time(0.0) is(0.0) all(0.0) consumed(0.0) by(0.0) the(0.0) order(0.0) of(0.0) amendments(1.0) .(0.0) However(0.0) ,(0.0) if(0.0) there(0.0) is(0.0) any(0.0) remaining(0.0) 
+time(0.0) ,(0.0) we(0.0) will(0.0) be(0.0) pleased(0.0) to(0.0) consider(0.0) the(0.0) gentleman(0.0) 's(0.0) request(0.0) tomorrow(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+amendments	
+
+
+reads % = 0.01818181818181818

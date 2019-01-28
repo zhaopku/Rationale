@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) rise(1.0) in(0.0) support(0.0) of(0.0) the(0.0) bill(0.0) ,(0.0) and(0.0) commend(1.0) the(0.0) chairman(1.0) of(0.0) the(0.0) subcommittee(0.0) ,(0.0) the(0.0) gentleman(0.0) 
+from(0.0) Michigan(1.0) [(0.0) Mr.(0.0) Kildee(1.0) ](0.0) and(0.0) the(0.0) ranking(1.0) member(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Education(0.0) and(0.0) Labor(1.0) ,(0.0) the(0.0) gentleman(0.0) 
+from(0.0) Pennsylvania(1.0) [(0.0) Mr.(0.0) Goodling(1.0) ](0.0) for(0.0) bringing(1.0) this(0.0) bill(0.0) to(0.0) the(0.0) floor(0.0) .(0.0) Mr.(1.0) Speaker(1.0) ,(0.0) I(0.0) rise(1.0) in(0.0) 
+support(0.0) of(0.0) S.(1.0) 1614(0.0) ,(0.0) the(0.0) ``(1.0) Healthy(0.0) Meals(1.0) for(0.0) Healthy(1.0) Americans(0.0) Act(0.0) of(0.0) 1994(0.0) ''(0.0) .(0.0) This(0.0) legislation(0.0) reauthorizes(1.0) 
+and(0.0) improves(0.0) programs(1.0) in(0.0) both(0.0) the(0.0) National(0.0) School(0.0) Lunch(1.0) Act(0.0) and(0.0) the(0.0) Child(0.0) Nutrition(0.0) Act(0.0) .(0.0) These(0.0) programs(1.0) include(0.0) :(1.0) 
+the(0.0) Special(0.0) Supplemental(0.0) Nutrition(0.0) Program(0.0) for(0.0) Women(1.0) ,(0.0) Infants(0.0) ,(0.0) and(0.0) Children(1.0) [(0.0) WIC(1.0) ](0.0) ;(0.0) the(0.0) Summer(1.0) Food(0.0) Service(0.0) 
+Program(0.0) ,(0.0) the(0.0) Nutrition(1.0) Education(0.0) and(0.0) Training(0.0) [(0.0) NET(1.0) ](0.0) Program(0.0) ,(0.0) the(0.0) School(1.0) Breakfast(0.0) Start-up(1.0) Grant(0.0) Program(0.0) ;(0.0) the(0.0) 
+authorization(0.0) of(0.0) funding(1.0) for(0.0) the(0.0) Food(1.0) Service(0.0) Management(0.0) Institute(0.0) ,(0.0) and(0.0) the(0.0) Nutrition(1.0) Education(0.0) and(0.0) Training(0.0) Program(0.0) [(0.0) NET(1.0) ](0.0) 
+.(0.0) The(0.0) Special(0.0) Supplemental(1.0) Nutrition(0.0) Program(0.0) for(0.0) Women(1.0) ,(0.0) Infants(0.0) ,(0.0) and(0.0) Children(1.0) [(0.0) WIC(1.0) ](0.0) provides(0.0) nutritious(1.0) supplemental(0.0) food(0.0) 
+to(0.0) pregnant(0.0) and(0.0) postpartum(1.0) women(0.0) ,(0.0) infants(0.0) and(0.0) children(0.0) through(0.0) age(1.0) 4(0.0) .(0.0) In(0.0) current(0.0) law(1.0) ,(0.0) eligible(1.0) recipients(0.0) must(0.0) 
+be(0.0) at(0.0) nutritional(1.0) risk(0.0) because(1.0) of(0.0) inadequate(1.0) nutrition(1.0) and(0.0) inadequate(1.0) income(1.0) .(0.0) This(0.0) legislation(0.0) improves(1.0) upon(0.0) the(0.0) current(0.0) program(0.0) by(0.0) 
+permitting(0.0) a(0.0) pregnant(1.0) women(0.0) to(0.0) participate(0.0) in(0.0) the(0.0) program(0.0) immediately(0.0) if(0.0) she(0.0) meets(0.0) the(0.0) income(1.0) eligibility(1.0) standards(0.0) instead(0.0) of(0.0) having(1.0) 
+to(0.0) wait(0.0) on(0.0) a(0.0) nutritional(1.0) risk(0.0) evaluation(0.0) .(0.0) A(1.0) nutritional(1.0) risk(0.0) evaluation(0.0) has(0.0) to(0.0) be(0.0) completed(0.0) no(1.0) later(0.0) than(0.0) 60(0.0) 
+days(1.0) however(0.0) .(0.0) The(0.0) Summer(1.0) Food(0.0) Service(0.0) Program(0.0) for(0.0) children(0.0) provides(0.0) food(0.0) for(0.0) children(0.0) in(0.0) low-income(1.0) areas(0.0) during(0.0) the(0.0) summer(0.0) 
+months(1.0) .(0.0) In(0.0) effect(0.0) ,(0.0) it(0.0) is(0.0) an(0.0) extension(0.0) of(0.0) the(0.0) School(1.0) Lunch(1.0) Program(0.0) for(0.0) poor(0.0) children(0.0) during(0.0) the(0.0) time(0.0) 
+that(0.0) school(0.0) is(0.0) out(1.0) of(0.0) session(1.0) .(0.0) The(0.0) Committee(0.0) is(0.0) concerned(0.0) that(0.0) the(0.0) program(0.0) is(0.0) under(0.0) utilized(1.0) .(0.0) Over(0.0) 12(1.0) 
+million(0.0) low-income(1.0) children(0.0) receive(0.0) free(1.0) and(0.0) reduced(0.0) price(0.0) lunches(1.0) every(0.0) day(0.0) during(0.0) the(0.0) school(0.0) year(0.0) .(0.0) In(1.0) 1992(0.0) ,(0.0) only(0.0) 
+1.9(0.0) million(0.0) children(0.0) ate(0.0) a(0.0) meal(0.0) at(0.0) a(0.0) summer(0.0) food(0.0) service(0.0) site(0.0) .(0.0) This(0.0) legislation(0.0) will(0.0) eliminate(1.0) the(0.0) 1-year(1.0) waiting(0.0) 
+period(0.0) for(0.0) private(0.0) nonprofit(1.0) organizations(0.0) that(0.0) want(1.0) to(0.0) operate(1.0) programs(0.0) so(0.0) that(0.0) more(0.0) children(0.0) can(0.0) be(0.0) fed(0.0) during(0.0) the(0.0) summer(0.0) 
+months(1.0) .(0.0) The(0.0) Nutrition(0.0) Education(0.0) and(0.0) Training(0.0) Program(0.0) [(0.0) NET(1.0) ](0.0) provides(0.0) grants(1.0) to(0.0) instruct(1.0) students(0.0) on(0.0) the(0.0) nutritional(1.0) value(0.0) 
+of(0.0) food(0.0) and(0.0) to(0.0) train(0.0) school(0.0) food(0.0) personnel(1.0) in(0.0) improving(0.0) their(0.0) management(1.0) of(0.0) these(1.0) programs(1.0) .(0.0) Considering(1.0) the(0.0) current(0.0) emphasis(1.0) 
+on(0.0) nutritional(1.0) requirements(0.0) and(0.0) complying(1.0) with(0.0) the(0.0) dietary(1.0) guidelines(0.0) ,(0.0) extending(0.0) this(0.0) program(0.0) will(0.0) help(0.0) students(0.0) and(0.0) school(0.0) food(0.0) service(0.0) 
+personnel(1.0) better(0.0) understand(0.0) the(0.0) value(0.0) of(0.0) certain(1.0) foods(1.0) .(0.0) This(0.0) legislation(0.0) makes(0.0) permanent(1.0) the(0.0) School(1.0) Breakfast(0.0) Start-up(1.0) Grant(0.0) Program(0.0) .(0.0) 
+Congress(0.0) approved(1.0) a(0.0) new(1.0) School(0.0) Breakfast(0.0) Start-up(1.0) Program(0.0) in(0.0) 1989(0.0) .(0.0) The(0.0) success(0.0) of(0.0) the(0.0) Breakfast(1.0) Start-up(1.0) Program(0.0) has(0.0) convinced(1.0) 
+the(0.0) committee(0.0) that(0.0) it(0.0) is(0.0) an(0.0) important(0.0) tool(0.0) in(0.0) meeting(0.0) the(0.0) committee(0.0) 's(0.0) goal(1.0) of(0.0) providing(0.0) breakfast(0.0) to(0.0) children(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	rise	commend	chairman	
+Michigan	Kildee	ranking	Labor	
+Pennsylvania	Goodling	bringing	Mr.	Speaker	rise	
+S.	``	Meals	Healthy	reauthorizes	
+programs	Lunch	programs	:	
+Women	Children	WIC	Summer	
+Nutrition	NET	School	Start-up	
+funding	Food	Nutrition	NET	
+Supplemental	Women	Children	WIC	nutritious	
+postpartum	age	law	eligible	
+nutritional	because	inadequate	nutrition	inadequate	income	improves	
+pregnant	income	eligibility	having	
+nutritional	A	nutritional	no	
+days	Summer	low-income	
+months	School	Lunch	
+out	session	utilized	12	
+low-income	free	lunches	In	
+eliminate	1-year	
+nonprofit	want	operate	
+months	NET	grants	instruct	nutritional	
+personnel	management	these	programs	Considering	emphasis	
+nutritional	complying	dietary	
+personnel	certain	foods	permanent	School	Start-up	
+approved	new	Start-up	Breakfast	Start-up	convinced	
+goal	
+
+reads % = 0.21

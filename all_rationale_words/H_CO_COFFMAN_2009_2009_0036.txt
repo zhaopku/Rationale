@@ -1,0 +1,20 @@
+This is from a Republican
+----- below is the original text -----
+In(0.0) this(0.0) proposal(1.0) ,(0.0) that(0.0) it(0.0) is(0.0) not(0.0) --(0.0) I(0.0) think(0.0) the(0.0) Congressman(1.0) well-stated(1.0) it(0.0) as(0.0) to(0.0) the(0.0) issues(0.0) on(0.0) the(0.0) 
+income(1.0) tax(1.0) and(0.0) that(0.0) this(0.0) is(0.0) an(0.0) additional(0.0) burden(1.0) ,(0.0) but(0.0) this(0.0) is(0.0) on(0.0) the(0.0) payroll(1.0) tax(1.0) .(0.0) This(0.0) is(0.0) 
+a(0.0) payroll(0.0) tax(1.0) .(0.0) This(0.0) is(0.0) whether(0.0) or(0.0) not(0.0) the(0.0) business(0.0) is(0.0) profitable(0.0) .(0.0) The(0.0) business(0.0) could(0.0) be(0.0) hit(0.0) hard(0.0) 
+,(0.0) could(0.0) be(0.0) stressed(0.0) ,(0.0) losing(0.0) money(1.0) ,(0.0) trying(0.0) to(0.0) keep(0.0) his(0.0) doors(0.0) open(0.0) .(0.0) If(0.0) it(0.0) can(0.0) not(0.0) afford(0.0) 
+health(1.0) care(1.0) ,(0.0) then(0.0) it(0.0) will(0.0) be(0.0) hit(0.0) with(0.0) an(0.0) 8(0.0) percent(0.0) surcharge(1.0) of(0.0) its(0.0) gross(1.0) annual(0.0) payroll(0.0) .(0.0) We(0.0) 
+also(0.0) have(0.0) Congressman(1.0) Rob(1.0) Bishop(1.0) .(0.0) I(0.0) yield(0.0) to(0.0) Congressman(1.0) Bishop(1.0) to(0.0) address(0.0) this(0.0) issue(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+proposal	Congressman	well-stated	
+income	tax	burden	payroll	tax	
+tax	
+money	
+health	care	surcharge	gross	
+Congressman	Rob	Bishop	Congressman	Bishop	
+
+reads % = 0.1623931623931624

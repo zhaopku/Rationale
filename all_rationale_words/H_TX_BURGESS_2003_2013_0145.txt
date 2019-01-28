@@ -1,0 +1,48 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) the(0.0) Food(1.0) and(0.0) Drug(0.0) Administration(1.0) historically(1.0) has(0.0) been(0.0) one(0.0) of(0.0) the(0.0) bipartisan(1.0) efforts(1.0) that(0.0) this(0.0) House(0.0) has(0.0) enjoyed(0.0) 
+.(0.0) In(0.0) fact(0.0) ,(0.0) a(0.0) little(0.0) over(0.0) a(0.0) year(0.0) ago(0.0) ,(0.0) the(0.0) Food(1.0) and(0.0) Drug(1.0) User(0.0) Fee(0.0) Reauthorization(0.0) Act(0.0) passed(0.0) 
+both(0.0) the(0.0) House(0.0) and(0.0) the(0.0) Senate(0.0) ,(0.0) went(0.0) to(0.0) a(0.0) conference(0.0) committee(0.0) ,(0.0) was(0.0) signed(0.0) by(0.0) the(0.0) President(0.0) of(0.0) the(0.0) 
+United(0.0) States(0.0) on(0.0) July(0.0) 9(0.0) ,(0.0) 2012(0.0) ,(0.0) in(0.0) the(0.0) middle(0.0) of(0.0) an(0.0) election(0.0) year(0.0) when(0.0) partisanship(1.0) was(0.0) at(0.0) its(0.0) 
+fever(0.0) pitch(0.0) ,(0.0) and(0.0) yet(0.0) this(0.0) House(0.0) came(0.0) together(0.0) and(0.0) passed(0.0) that(0.0) reauthorization(1.0) bill(1.0) .(0.0) You(0.0) 've(0.0) heard(0.0) the(0.0) chairman(0.0) 
+of(0.0) the(0.0) full(0.0) Appropriations(0.0) Committee(0.0) say(0.0) that(0.0) he(0.0) hoped(0.0) this(0.0) bill(1.0) would(1.0) pass(0.0) today(0.0) to(0.0) allow(0.0) the(0.0) Food(1.0) and(0.0) Drug(1.0) 
+Administration(1.0) to(0.0) utilize(0.0) those(0.0) user(0.0) fees(0.0) that(0.0) have(0.0) been(0.0) remitted(0.0) by(0.0) the(0.0) companies(0.0) that(0.0) are(0.0) actually(0.0) looking(0.0) to(0.0) have(0.0) their(0.0) 
+products(0.0) approved(0.0) by(0.0) the(0.0) FDA(1.0) .(0.0) I(0.0) support(0.0) him(0.0) in(0.0) that(0.0) ,(0.0) and(0.0) I(0.0) hope(0.0) he(0.0) 's(0.0) correct(0.0) .(0.0) One(0.0) 
+of(0.0) the(0.0) most(0.0) important(0.0) missions(0.0) of(0.0) the(0.0) government(1.0) ,(0.0) one(0.0) of(0.0) the(0.0) premier(0.0) agencies(0.0) of(0.0) the(0.0) Federal(1.0) Government(1.0) is(0.0) the(0.0) 
+Food(1.0) and(0.0) Drug(1.0) Administration(0.0) .(0.0) Its(0.0) job(0.0) is(0.0) to(0.0) ensure(0.0) that(0.0) medical(1.0) drugs(0.0) and(0.0) medical(1.0) devices(0.0) are(0.0) safe(0.0) and(0.0) effective(0.0) 
+.(0.0) The(0.0) FDA(1.0) is(0.0) also(0.0) a(0.0) gateway(0.0) for(0.0) patients(0.0) who(0.0) are(0.0) suffering(0.0) disease(0.0) and(0.0) disability(1.0) with(0.0) the(0.0) hope(0.0) of(0.0) one(0.0) 
+day(0.0) getting(0.0) past(0.0) that(0.0) disease(0.0) and(0.0) disability(1.0) .(0.0) The(0.0) FDA(1.0) is(0.0) the(0.0) gateway(0.0) for(0.0) those(0.0) patients(0.0) .(0.0) We(0.0) 've(0.0) taken(0.0) 
+legislative(0.0) steps(0.0) to(0.0) fix(0.0) some(0.0) of(0.0) the(0.0) issues(0.0) with(0.0) the(0.0) FDA(1.0) .(0.0) They(0.0) are(0.0) n't(0.0) always(0.0) functioning(0.0) in(0.0) a(0.0) perfect(0.0) 
+manner(0.0) ,(0.0) but(0.0) I(0.0) know(0.0) one(0.0) thing(0.0) for(0.0) sure(0.0) :(0.0) keeping(0.0) FDA(1.0) employees(0.0) away(0.0) from(0.0) their(0.0) jobs(0.0) is(0.0) not(0.0) the(0.0) 
+way(0.0) to(0.0) accomplish(0.0) those(0.0) goals(0.0) .(0.0) This(0.0) is(0.0) a(0.0) good(0.0) bill(1.0) today(0.0) ,(0.0) the(0.0) Food(1.0) and(0.0) Drug(1.0) Safety(1.0) Act(0.0) .(0.0) 
+I(0.0) hope(0.0) the(0.0) Senate(1.0) will(0.0) take(0.0) this(0.0) up(0.0) .(0.0) The(0.0) House(0.0) is(0.0) going(0.0) to(0.0) pass(0.0) it(0.0) in(0.0) a(0.0) bipartisan(1.0) manner(0.0) 
+in(0.0) just(0.0) a(0.0) very(0.0) short(0.0) period(0.0) of(0.0) time(0.0) .(0.0) We(0.0) will(0.0) send(0.0) it(0.0) over(0.0) to(0.0) the(0.0) Senate(1.0) ,(0.0) as(0.0) we(0.0) 
+have(0.0) many(0.0) other(0.0) bills(0.0) last(0.0) week(0.0) ,(0.0) and(0.0) we(0.0) 'll(0.0) continue(0.0) to(0.0) send(0.0) bills(1.0) .(0.0) This(0.0) is(0.0) the(0.0) way(0.0) the(0.0) 
+process(0.0) should(0.0) work(0.0) .(0.0) Appropriations(0.0) should(0.0) n't(0.0) be(0.0) done(0.0) in(0.0) one(0.0) large(0.0) lump(0.0) .(0.0) They(0.0) should(0.0) be(0.0) done(0.0) in(0.0) the(0.0) 
+individual(0.0) departments(0.0) .(0.0) I(0.0) support(0.0) this(0.0) bill(1.0) today(1.0) .(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) do(0.0) the(0.0) same(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	Food	Administration	historically	bipartisan	efforts	
+Food	Drug	
+
+partisanship	
+reauthorization	bill	
+bill	would	Food	Drug	
+Administration	
+FDA	
+government	Federal	Government	
+Food	Drug	medical	medical	
+FDA	disability	
+disability	FDA	
+FDA	
+FDA	
+bill	Food	Drug	Safety	
+Senate	bipartisan	
+Senate	
+bills	
+
+bill	today	
+
+reads % = 0.10025062656641603

@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) think(1.0) that(0.0) ,(0.0) again(0.0) ,(0.0) the(0.0) example(0.0) you(0.0) gave(0.0) is(0.0) something(0.0) that(0.0) is(0.0) on(0.0) our(0.0) front(0.0) pages(0.0) .(0.0) We(0.0) are(0.0) 
+hearing(0.0) about(0.0) it(0.0) and(0.0) we(0.0) are(0.0) listening(0.0) .(0.0) Some(1.0) people(0.0) have(0.0) said(1.0) ,(0.0) well(0.0) ,(0.0) what(1.0) is(0.0) the(0.0) difference(0.0) if(0.0) 
+someone(0.0) is(0.0) coming(0.0) forward(0.0) or(0.0) if(0.0) they(0.0) are(0.0) coming(0.0) forward(0.0) under(0.0) oath(1.0) .(0.0) Well(0.0) ,(0.0) I(0.0) like(0.0) to(0.0) see(0.0) ,(0.0) 
+when(0.0) someone(0.0) comes(0.0) forward(0.0) ,(0.0) that(0.0) they(0.0) put(0.0) their(0.0) hand(0.0) up(0.0) and(0.0) say(1.0) ,(0.0) I(0.0) swear(1.0) to(0.0) tell(0.0) the(0.0) whole(0.0) 
+truth(0.0) .(0.0) I(0.0) ca(1.0) n't(0.0) imagine(1.0) somebody(0.0) wouldn't(1.0) want(1.0) to(0.0) do(0.0) that(0.0) and(0.0) what(0.0) are(0.0) they(0.0) hiding(1.0) if(0.0) they(0.0) are(0.0) 
+not(1.0) prepared(0.0) to(0.0) do(0.0) that(0.0) .(0.0) That(0.0) seems(0.0) to(0.0) be(0.0) a(0.0) little(0.0) battle(1.0) going(0.0) on(0.0) between(0.0) the(0.0) Congress(0.0) and(0.0) its(0.0) 
+investigative(1.0) authority(1.0) and(0.0) the(0.0) President(1.0) .(0.0) But(0.0) ,(0.0) again(0.0) ,(0.0) I(0.0) think(1.0) you(0.0) put(0.0) your(0.0) hand(0.0) up(0.0) ,(0.0) we(0.0) are(0.0) 
+expecting(0.0) the(0.0) truth(1.0) anyway(0.0) ,(0.0) and(0.0) I(0.0) think(1.0) that(0.0) is(0.0) an(0.0) appropriate(1.0) thing(0.0) to(0.0) do(0.0) .(0.0) Mr.(1.0) Welch(1.0) ,(0.0) our(0.0) 
+representative(1.0) from(0.0) Vermont(1.0) in(0.0) our(0.0) class(1.0) ,(0.0) why(0.0) don't(1.0) you(0.0) share(0.0) with(0.0) us(0.0) some(0.0) of(0.0) your(0.0) thoughts(0.0) on(0.0) this(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+think	
+Some	said	what	
+oath	
+say	swear	
+ca	imagine	wouldn't	want	hiding	
+not	battle	
+investigative	authority	President	think	
+truth	think	appropriate	Mr.	Welch	
+representative	Vermont	class	don't	
+
+
+reads % = 0.14917127071823205

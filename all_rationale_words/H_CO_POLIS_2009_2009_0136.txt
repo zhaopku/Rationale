@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+The(0.0) program(0.0) is(0.0) fully(0.0) funded(1.0) with(0.0) user(0.0) fees(0.0) to(0.0) set(0.0) up(0.0) within(0.0) the(0.0) FDA(0.0) the(0.0) ability(0.0) to(0.0) regulate(1.0) tobacco(1.0) products(1.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+funded	regulate	tobacco	products	
+
+
+reads % = 0.19047619047619047

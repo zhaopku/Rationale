@@ -1,0 +1,10 @@
+This is from a Democrat
+----- below is the original text -----
+So(0.0) the(0.0) Black(1.0) Caucus(1.0) is(0.0) the(0.0) last(0.0) amendment(1.0) ;(0.0) Solomon(0.0) is(0.0) second(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+Black	Caucus	amendment	
+
+reads % = 0.23076923076923078

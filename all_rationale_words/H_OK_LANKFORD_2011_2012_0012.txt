@@ -1,0 +1,54 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) it(0.0) is(0.0) good(0.0) to(0.0) get(0.0) a(0.0) chance(0.0) to(0.0) have(0.0) this(0.0) debate(1.0) that(0.0) is(0.0) unique(0.0) on(0.0) the(0.0) House(0.0) floor(0.0) ,(0.0) 
+to(0.0) be(0.0) able(0.0) to(0.0) go(0.0) through(0.0) this(0.0) .(0.0) Obviously(0.0) ,(0.0) we(0.0) look(0.0) forward(0.0) to(0.0) the(0.0) day(0.0) that(0.0) the(0.0) Senate(0.0) has(0.0) 
+this(0.0) same(0.0) kind(0.0) of(0.0) dialog(0.0) back(0.0) and(0.0) forth(0.0) on(0.0) what(0.0) are(0.0) spending(1.0) priorities(1.0) in(0.0) the(0.0) budget(1.0) .(0.0) It(0.0) 's(0.0) now(0.0) 
+well(0.0) over(0.0) 1,000(0.0) days(0.0) since(0.0) the(0.0) Senate(1.0) has(0.0) had(0.0) any(0.0) kind(0.0) of(0.0) conversation(0.0) like(0.0) this(0.0) .(0.0) It(0.0) 's(0.0) terrific(0.0) to(0.0) 
+be(0.0) able(0.0) to(0.0) have(0.0) this(0.0) .(0.0) There(0.0) are(0.0) some(0.0) areas(0.0) of(0.0) this(0.0) budget(1.0) that(0.0) I(0.0) 'd(0.0) take(0.0) a(0.0) look(0.0) at(0.0) 
+and(0.0) I(0.0) would(0.0) say(0.0) I(0.0) would(0.0) completely(0.0) concur(0.0) with(0.0) .(0.0) This(0.0) budget(1.0) takes(0.0) on(0.0) things(0.0) like(0.0) the(0.0) AMT(1.0) fix(1.0) ,(0.0) 
+the(0.0) alternative(1.0) minimum(0.0) tax(1.0) ,(0.0) and(0.0) tries(1.0) to(0.0) resolve(0.0) that(0.0) over(0.0) time(0.0) .(0.0) I(0.0) think(0.0) that(0.0) 's(0.0) a(0.0) terrific(0.0) idea(0.0) 
+,(0.0) and(0.0) we(0.0) need(0.0) to(0.0) get(0.0) a(0.0) chance(0.0) to(0.0) move(0.0) forward(0.0) on(0.0) that(0.0) .(0.0) But(0.0) it(0.0) does(0.0) some(0.0) things(0.0) that(0.0) 
+I(0.0) don't(0.0) think(0.0) many(0.0) people(0.0) in(0.0) my(0.0) district(0.0) would(0.0) be(0.0) in(0.0) favor(1.0) of(0.0) .(0.0) Many(0.0) people(0.0) in(0.0) my(0.0) district(0.0) look(0.0) 
+at(0.0) the(0.0) tax(1.0) policy(1.0) and(0.0) say(0.0) it's(0.0) incredibly(0.0) complicated(0.0) and(0.0) complex(0.0) .(0.0) This(0.0) budget(1.0) moves(0.0) the(0.0) tax(1.0) system(1.0) from(0.0) six(0.0) 
+tiers(0.0) to(0.0) 10(0.0) tiers(0.0) and(0.0) dramatically(0.0) increases(1.0) the(0.0) complexity(0.0) of(0.0) our(0.0) Tax(1.0) Code(1.0) .(0.0) It(0.0) also(0.0) changes(0.0) the(0.0) death(1.0) tax(1.0) 
+to(0.0) a(0.0) 65(0.0) percent(0.0) death(1.0) tax(1.0) .(0.0) It(0.0) puts(0.0) Uncle(0.0) Sam(0.0) squarely(1.0) on(0.0) the(0.0) end(0.0) of(0.0) coffins(1.0) ,(0.0) and(0.0) as(0.0) 
+the(0.0) grieving(0.0) family(0.0) is(0.0) there(0.0) ,(0.0) Uncle(0.0) Sam(1.0) is(0.0) standing(0.0) there(0.0) saying(0.0) ,(0.0) I(0.0) 'm(0.0) waiting(0.0) for(0.0) my(0.0) cut(1.0) .(0.0) 
+I(0.0) think(0.0) that(0.0) 's(0.0) the(0.0) wrong(0.0) way(0.0) to(0.0) go(0.0) .(0.0) There(0.0) 's(0.0) a(0.0) large(0.0) carbon(1.0) tax(1.0) that(0.0) 's(0.0) included(0.0) with(0.0) 
+this(0.0) .(0.0) With(0.0) gas(1.0) prices(1.0) going(0.0) up(0.0) ,(0.0) energy(1.0) prices(1.0) on(0.0) the(0.0) rise(1.0) ,(0.0) I(0.0) do(0.0) n't(0.0) think(0.0) this(0.0) is(0.0) 
+the(0.0) time(0.0) to(0.0) also(0.0) increase(0.0) the(0.0) price(0.0) of(0.0) energy(1.0) again(0.0) in(0.0) that(0.0) .(0.0) It(0.0) also(0.0) raises(0.0) taxes(1.0) ,(0.0) ironically(1.0) enough(0.0) 
+,(0.0) on(0.0) MCDonalds(1.0) and(0.0) on(0.0) fast-(0.0) food(1.0) places(0.0) ,(0.0) to(0.0) be(0.0) able(0.0) to(0.0) punish(1.0) them(0.0) ,(0.0) I(0.0) guess(0.0) ,(0.0) for(0.0) 
+supplying(1.0) food(1.0) to(0.0) people(0.0) that(0.0) are(0.0) on(0.0) the(0.0) run(0.0) .(0.0) It(0.0) increases(1.0) taxes(1.0) on(0.0) that(0.0) .(0.0) It(0.0) also(0.0) provides(0.0) public(1.0) 
+funding(1.0) for(0.0) elections(1.0) so(0.0) that(0.0) people(0.0) that(0.0) are(0.0) running(0.0) for(0.0) office(0.0) ,(0.0) like(0.0) myself(0.0) and(0.0) others(0.0) ,(0.0) will(0.0) actually(0.0) get(0.0) 
+public(1.0) funding(1.0) for(0.0) that(0.0) ,(0.0) which(0.0) many(0.0) people(0.0) do(0.0) n't(0.0) want(0.0) to(0.0) be(0.0) a(0.0) part(0.0) of(0.0) .(0.0) It(0.0) does(0.0) also(0.0) 
+provide(0.0) State(1.0) flexibility(0.0) though(0.0) ,(0.0) but(0.0) it(0.0) 's(0.0) State(1.0) flexibility(0.0) for(0.0) a(0.0) new(0.0) system(0.0) of(0.0) health(1.0) care(0.0) oversight(1.0) .(0.0) We(0.0) 
+'d(0.0) like(0.0) to(0.0) see(0.0) it(0.0) have(0.0) flexibility(0.0) for(0.0) things(0.0) like(0.0) Medicare(1.0) and(0.0) Medicaid(1.0) and(0.0) such(0.0) .(0.0) So(0.0) ,(0.0) with(0.0) that(0.0) 
+,(0.0) I(0.0) would(0.0) oppose(1.0) this(0.0) and(0.0) would(0.0) support(0.0) the(0.0) House(0.0) Republican(1.0) budget(1.0) .(1.0) 
+
+
+----- below are rationale words -----
+
+debate	
+
+spending	priorities	budget	
+Senate	
+budget	
+budget	AMT	fix	
+alternative	tax	tries	
+
+favor	
+tax	policy	budget	tax	system	
+increases	Tax	Code	death	tax	
+death	tax	squarely	coffins	
+Sam	cut	
+carbon	tax	
+gas	prices	energy	prices	rise	
+energy	taxes	ironically	
+MCDonalds	food	punish	
+supplying	food	increases	taxes	public	
+funding	elections	
+public	funding	
+State	State	health	oversight	
+Medicare	Medicaid	
+oppose	Republican	budget	.	
+
+reads % = 0.1343612334801762

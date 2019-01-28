@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+If(0.0) the(0.0) gentleman(0.0) will(0.0) yield(0.0) further(0.0) ,(0.0) the(0.0) gentleman(0.0) is(0.0) talking(0.0) about(0.0) increases(0.0) in(0.0) defense(1.0) spending(1.0) ,(0.0) an(0.0) overall(0.0) number(0.0) .(0.0) 
+We(0.0) are(0.0) talking(0.0) about(0.0) what(0.0) are(0.0) those(0.0) dollars(1.0) spent(0.0) on(0.0) and(0.0) how(0.0) can(0.0) there(0.0) be(0.0) savings(1.0) of(0.0) waste(1.0) ,(0.0) fraud(1.0) 
+and(0.0) abuse(0.0) and(0.0) inefficiencies(1.0) in(0.0) the(0.0) defense(1.0) budget(1.0) that(0.0) is(0.0) subjected(1.0) to(0.0) the(0.0) same(0.0) kind(0.0) of(0.0) scrutiny(1.0) that(0.0) the(0.0) rest(0.0) 
+of(0.0) the(0.0) budget(1.0) is(0.0) ?(0.0) It(0.0) is(0.0) about(0.0) that(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+defense	spending	
+dollars	savings	waste	fraud	
+inefficiencies	defense	budget	subjected	scrutiny	
+budget	
+
+reads % = 0.16901408450704225

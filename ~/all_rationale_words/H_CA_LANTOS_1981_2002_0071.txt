@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Chairman(1.0) ,(0.0) I(0.0) move(0.0) to(0.0) strike(0.0) the(0.0) requisite(0.0) number(0.0) of(0.0) words(0.0) .(0.0) I(0.0) want(1.0) to(0.0) thank(0.0) the(0.0) gentlewoman(0.0) from(0.0) California(0.0) 
+((0.0) Ms(1.0) .(1.0) Waters(1.0) )(0.0) for(0.0) her(0.0) interest(0.0) and(0.0) concern(0.0) on(1.0) this(0.0) issue(0.0) and(0.0) for(0.0) her(0.0) tireless(0.0) efforts(0.0) on(0.0) behalf(0.0) 
+of(0.0) the(0.0) poor(0.0) and(0.0) disenfranchised(1.0) not(1.0) only(0.0) in(0.0) Afghanistan(1.0) but(0.0) around(0.0) the(0.0) world(0.0) ,(0.0) and(0.0) on(0.0) our(0.0) side(0.0) we(0.0) strongly(0.0) 
+support(0.0) her(0.0) modified(0.0) amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	want	
+Ms	.	Waters	on	
+disenfranchised	not	Afghanistan	
+amendment	
+
+reads % = 0.15151515151515152

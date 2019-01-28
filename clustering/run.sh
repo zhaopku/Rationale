@@ -1,0 +1,24 @@
+python visualize.py --mode combined --clusters 2 --party dem --sample 1.0 &&
+python visualize.py --mode combined --clusters 3 --party dem --sample 1.0 &&
+python visualize.py --mode combined --clusters 4 --party dem --sample 1.0 &&
+python visualize.py --mode combined --clusters 5 --party dem --sample 1.0 &&
+python visualize.py --mode combined --clusters 6 --party dem --sample 1.0 &&
+python visualize.py --mode combined --clusters 7 --party dem --sample 1.0 &&
+python visualize.py --mode combined --clusters 8 --party dem --sample 1.0 &&
+python visualize.py --mode combined --clusters 10 --party dem --sample 1.0 &&
+python visualize.py --mode separated --clusters 2 --party dem --sample 1.0 &&
+python visualize.py --mode separated --clusters 2 --party rep --sample 1.0 &&
+python visualize.py --mode separated --clusters 3 --party dem --sample 1.0 &&
+python visualize.py --mode separated --clusters 3 --party rep --sample 1.0 &&
+python visualize.py --mode separated --clusters 4 --party dem --sample 1.0 &&
+python visualize.py --mode separated --clusters 4 --party rep --sample 1.0 &&
+python visualize.py --mode separated --clusters 5 --party dem --sample 1.0 &&
+python visualize.py --mode separated --clusters 5 --party rep --sample 1.0 &&
+python visualize.py --mode separated --clusters 6 --party dem --sample 1.0 &&
+python visualize.py --mode separated --clusters 6 --party rep --sample 1.0 &&
+python visualize.py --mode separated --clusters 7 --party dem --sample 1.0 &&
+python visualize.py --mode separated --clusters 7 --party rep --sample 1.0 &&
+python visualize.py --mode separated --clusters 8 --party dem --sample 1.0 &&
+python visualize.py --mode separated --clusters 8 --party rep --sample 1.0 &&
+python visualize.py --mode separated --clusters 10 --party dem --sample 1.0 &&
+python visualize.py --mode separated --clusters 10 --party rep --sample 1.0

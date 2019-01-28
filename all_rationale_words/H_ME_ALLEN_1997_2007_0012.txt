@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) tomorrow(0.0) the(0.0) House(0.0) will(0.0) vote(1.0) on(0.0) legislation(1.0) to(1.0) set(0.0) a(0.0) path(0.0) for(0.0) the(0.0) responsible(0.0) redeployment(1.0) of(0.0) American(0.0) troops(1.0) from(0.0) 
+Iraq(1.0) .(0.0) I(0.0) will(0.0) support(0.0) this(0.0) bill(1.0) because(1.0) it(0.0) will(0.0) end(0.0) American(0.0) involvement(1.0) in(0.0) the(0.0) Iraqi(1.0) civil(1.0) war(1.0) and(0.0) bring(0.0) 
+our(0.0) troops(1.0) safely(0.0) home(0.0) .(0.0) This(0.0) week(0.0) marks(0.0) the(0.0) fourth(0.0) anniversary(0.0) of(0.0) a(0.0) war(1.0) born(0.0) in(0.0) deceit(1.0) and(0.0) prolonged(0.0) by(0.0) 
+mismanagement(1.0) .(0.0) I(0.0) voted(1.0) against(0.0) the(0.0) invasion(1.0) in(0.0) 2002(0.0) ;(0.0) I(0.0) will(0.0) vote(1.0) now(0.0) to(0.0) end(0.0) this(0.0) war(1.0) by(0.0) supporting(0.0) 
+the(0.0) Iraq(1.0) Accountability(1.0) Act(0.0) with(0.0) its(0.0) benchmarks(0.0) and(0.0) timetables(0.0) for(0.0) redeploying(1.0) U.S.(0.0) forces(0.0) from(0.0) Iraq(1.0) .(0.0) For(0.0) 4(0.0) years(0.0) ,(0.0) 
+previous(0.0) Congresses(0.0) neglected(0.0) their(0.0) oversight(1.0) responsibilities(0.0) while(0.0) the(0.0) administration(1.0) made(0.0) mistake(0.0) after(0.0) mistake(0.0) .(0.0) The(0.0) congressional(1.0) majority(1.0) failed(0.0) to(0.0) conduct(0.0) 
+thorough(0.0) investigations(0.0) ,(0.0) demand(0.0) accountability(1.0) ,(0.0) or(0.0) offer(0.0) policy(1.0) alternatives(1.0) .(0.0) We(0.0) have(0.0) paid(0.0) a(0.0) steep(0.0) price(0.0) for(0.0) that(0.0) neglect(1.0) 
+,(0.0) including(0.0) the(0.0) lives(0.0) of(0.0) more(0.0) than(0.0) 3,200(0.0) American(0.0) Armed(1.0) Forces(0.0) ,(0.0) with(0.0) another(0.0) 24,000(0.0) wounded(0.0) ,(0.0) many(0.0) critically(0.0) .(0.0) 
+The(0.0) new(0.0) Congress(0.0) is(0.0) providing(0.0) long(0.0) overdue(1.0) leadership(0.0) ,(0.0) taking(0.0) action(1.0) to(0.0) end(0.0) U.S.(0.0) involvement(0.0) in(0.0) a(0.0) civil(1.0) war(1.0) with(0.0) 
+no(0.0) end(0.0) in(0.0) sight(0.0) .(0.0) Responsible(0.0) military(1.0) disengagement(1.0) from(0.0) Iraq(1.0) is(0.0) in(0.0) the(0.0) national(1.0) security(0.0) interests(0.0) of(0.0) the(0.0) United(0.0) States(0.0) 
+.(0.0) There(0.0) are(0.0) no(0.0) easy(0.0) ,(0.0) cost-free(0.0) options(0.0) .(0.0) But(0.0) our(0.0) perpetual(1.0) presence(0.0) in(0.0) Iraq(1.0) has(0.0) sapped(1.0) our(0.0) military(1.0) strength(0.0) 
+,(0.0) undermined(1.0) our(0.0) credibility(1.0) around(0.0) the(0.0) world(0.0) ,(0.0) and(0.0) limited(0.0) our(0.0) investments(1.0) in(0.0) domestic(1.0) priorities(1.0) like(0.0) health(1.0) care(1.0) and(0.0) education(1.0) 
+.(0.0) This(0.0) week(0.0) ,(0.0) the(0.0) House(0.0) of(0.0) Representatives(1.0) has(0.0) a(0.0) choice(0.0) :(0.0) Either(0.0) endorse(1.0) the(0.0) President(1.0) 's(0.0) open-ended(0.0) commitment(1.0) ,(0.0) 
+or(0.0) adopt(1.0) a(0.0) plan(1.0) that(0.0) demands(1.0) accountability(1.0) ,(0.0) sets(0.0) a(0.0) timeline(0.0) for(0.0) redeployment(1.0) ,(0.0) and(0.0) restores(1.0) the(0.0) readiness(1.0) of(0.0) our(0.0) 
+Armed(1.0) Forces(0.0) .(0.0) The(0.0) President(1.0) 's(0.0) strategy(0.0) of(0.0) indefinite(1.0) intervention(1.0) is(0.0) simply(0.0) not(0.0) sustainable(1.0) .(0.0) The(0.0) situation(0.0) in(0.0) Iraq(1.0) has(0.0) 
+moved(0.0) beyond(0.0) our(0.0) military's(0.0) ability(0.0) to(0.0) shape(0.0) events(0.0) in(0.0) a(0.0) positive(0.0) direction(0.0) .(0.0) Extending(0.0) our(0.0) presence(0.0) merely(0.0) delays(0.0) our(0.0) ability(0.0) 
+to(0.0) recover(0.0) the(0.0) ground(0.0) we(0.0) have(0.0) lost(0.0) ,(0.0) our(0.0) diplomatic(1.0) initiative(1.0) ,(0.0) our(0.0) global(1.0) reputation(0.0) ,(0.0) and(0.0) the(0.0) broken(0.0) state(1.0) 
+of(0.0) our(0.0) ground(0.0) forces(0.0) .(0.0) The(0.0) Iraq(1.0) Accountability(1.0) Act(0.0) has(0.0) three(0.0) key(0.0) components(0.0) :(0.0) First(0.0) ,(0.0) it(0.0) uses(0.0) President(0.0) Bush(1.0) 
+'s(0.0) own(0.0) benchmarks(0.0) to(0.0) require(0.0) the(0.0) Iraqis(1.0) to(0.0) assume(0.0) responsibility(0.0) for(0.0) their(0.0) own(0.0) security(0.0) .(0.0) If(0.0) they(0.0) meet(0.0) those(0.0) benchmarks(0.0) 
+,(0.0) all(0.0) American(0.0) forces(0.0) would(0.0) leave(0.0) Iraq(1.0) by(0.0) the(0.0) summer(0.0) of(0.0) 2008(0.0) .(0.0) If(0.0) they(0.0) do(0.0) not(0.0) ,(0.0) American(0.0) forces(1.0) 
+will(0.0) leave(0.0) as(0.0) early(0.0) as(0.0) the(0.0) end(0.0) of(0.0) this(0.0) year(0.0) .(0.0) Second(0.0) ,(0.0) the(0.0) bill(1.0) supports(1.0) our(0.0) Armed(1.0) Forces(0.0) by(0.0) 
+requiring(1.0) the(0.0) President(1.0) to(0.0) certify(0.0) that(0.0) any(0.0) troops(0.0) deployed(0.0) to(0.0) Iraq(1.0) are(0.0) fully(0.0) and(0.0) properly(0.0) equipped(0.0) ,(0.0) and(0.0) that(0.0) their(0.0) 
+deployment(0.0) follows(0.0) Department(0.0) of(0.0) Defense(0.0) standards(0.0) for(0.0) readiness(0.0) and(0.0) rest(0.0) between(0.0) deployments(0.0) .(0.0) Third(0.0) ,(0.0) it(0.0) provides(0.0) funds(1.0) needed(0.0) to(0.0) 
+ensure(0.0) that(0.0) returning(0.0) troops(1.0) and(0.0) veterans(1.0) receive(0.0) the(0.0) best(0.0) possible(0.0) health(1.0) care(1.0) and(0.0) other(0.0) services(0.0) they(0.0) deserve(1.0) .(0.0) The(0.0) American(0.0) 
+people(0.0) expect(0.0) us(0.0) to(0.0) say(0.0) where(0.0) we(0.0) stand(0.0) on(0.0) the(0.0) war(1.0) in(0.0) Iraq(1.0) .(0.0) By(0.0) supporting(0.0) the(0.0) Iraq(1.0) Accountability(1.0) 
+
+
+----- below are rationale words -----
+
+vote	legislation	to	redeployment	troops	
+Iraq	bill	because	involvement	Iraqi	civil	war	
+troops	war	deceit	
+mismanagement	voted	invasion	vote	war	
+Iraq	Accountability	redeploying	Iraq	
+oversight	administration	congressional	majority	
+accountability	policy	alternatives	neglect	
+Armed	
+overdue	action	civil	war	
+military	disengagement	Iraq	national	
+perpetual	Iraq	sapped	military	
+undermined	credibility	investments	domestic	priorities	health	care	education	
+Representatives	endorse	President	commitment	
+adopt	plan	demands	accountability	redeployment	restores	readiness	
+Armed	President	indefinite	intervention	sustainable	Iraq	
+
+diplomatic	initiative	global	state	
+Iraq	Accountability	Bush	
+Iraqis	
+Iraq	forces	
+bill	supports	Armed	
+requiring	President	Iraq	
+funds	
+troops	veterans	health	care	deserve	
+war	Iraq	Iraq	Accountability	
+
+reads % = 0.192

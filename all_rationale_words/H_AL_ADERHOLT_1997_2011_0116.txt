@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+The(0.0) Acting(0.0) CHAIR(0.0) .(0.0) The(0.0) gentleman(0.0) will(0.0) state(1.0) his(0.0) point(0.0) of(0.0) order(0.0) .(0.0) I(0.0) make(0.0) a(0.0) point(0.0) of(0.0) order(0.0) against(0.0) the(0.0) 
+amendment(1.0) because(0.0) it(0.0) proposes(1.0) to(0.0) change(0.0) existing(0.0) law(1.0) ,(0.0) and(0.0) constitutes(1.0) legislation(1.0) on(0.0) an(0.0) appropriation(1.0) bill(1.0) .(0.0) It(0.0) therefore(0.0) violates(1.0) 
+clause(1.0) 2(0.0) of(0.0) rule(1.0) XXI(0.0) .(0.0) The(0.0) rule(0.0) states(0.0) in(0.0) pertinent(0.0) part(0.0) :(0.0) An(0.0) amendment(1.0) to(0.0) a(0.0) general(0.0) appropriation(0.0) bill(0.0) 
+shall(1.0) not(0.0) be(0.0) in(0.0) order(0.0) if(0.0) changing(0.0) existing(0.0) law(1.0) requires(0.0) a(0.0) new(0.0) determination(0.0) .(0.0) I(0.0) request(0.0) a(0.0) ruling(0.0) from(0.0) the(0.0) 
+Chair(0.0) .(0.0) The(0.0) Acting(0.0) CHAIR(0.0) .(0.0) Does(0.0) any(0.0) other(0.0) Member(0.0) wish(0.0) to(0.0) be(0.0) heard(0.0) on(0.0) the(0.0) point(0.0) of(0.0) order(0.0) ?(0.0) 
+If(0.0) not(0.0) ,(0.0) the(0.0) Chair(1.0) is(0.0) prepared(0.0) to(0.0) rule(1.0) .(0.0) The(0.0) Chair(1.0) finds(0.0) that(0.0) this(0.0) amendment(1.0) includes(0.0) language(0.0) requiring(1.0) a(0.0) 
+new(0.0) determination(1.0) .(0.0) The(0.0) amendment(1.0) therefore(0.0) constitutes(1.0) legislation(1.0) in(0.0) violation(1.0) of(0.0) clause(1.0) 2(0.0) of(0.0) rule(1.0) XXI(0.0) .(0.0) The(0.0) point(0.0) of(0.0) 
+order(0.0) is(0.0) sustained(0.0) ,(0.0) and(0.0) the(0.0) amendment(1.0) is(0.0) not(0.0) in(0.0) order(0.0) .(0.0) Amendment(1.0) Offered(0.0) by(0.0) Ms.(0.0) Jackson(1.0) Lee(1.0) of(0.0) Texas(0.0) 
+
+
+
+----- below are rationale words -----
+
+state	
+amendment	proposes	law	constitutes	legislation	appropriation	bill	violates	
+clause	rule	amendment	
+shall	law	
+
+Chair	rule	Chair	amendment	requiring	
+determination	amendment	constitutes	legislation	violation	clause	rule	
+amendment	Amendment	Jackson	Lee	
+
+
+reads % = 0.18633540372670807

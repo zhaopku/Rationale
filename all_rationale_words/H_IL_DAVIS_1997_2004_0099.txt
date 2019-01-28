@@ -1,0 +1,50 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Georgia(1.0) ((0.0) Mr.(0.0) Scott(1.0) )(0.0) for(1.0) yielding(1.0) me(0.0) time(0.0) .(0.0) I(0.0) also(0.0) 
+want(0.0) to(0.0) commend(0.0) the(0.0) subcommittee(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Financial(0.0) Services(0.0) that(0.0) is(0.0) dealing(0.0) effectively(0.0) in(0.0) many(0.0) ways(0.0) with(0.0) the(0.0) 
+creation(0.0) and(0.0) development(0.0) of(0.0) instruments(0.0) that(0.0) lend(0.0) themselves(0.0) to(0.0) increasing(1.0) homeownership(1.0) .(0.0) So(0.0) I(0.0) come(0.0) to(0.0) support(0.0) this(0.0) resolution(1.0) .(0.0) 
+We(0.0) have(0.0) heard(0.0) how(0.0) home(0.0) ownership(0.0) is(0.0) a(0.0) part(0.0) of(0.0) the(0.0) American(0.0) dream(0.0) .(0.0) I(0.0) think(0.0) it(0.0) is(0.0) commendable(0.0) that(0.0) 
+we(0.0) can(0.0) boast(0.0) of(0.0) 68(0.0) percent(0.0) homeownership(1.0) in(0.0) America(1.0) .(0.0) But(0.0) ,(0.0) at(0.0) the(0.0) same(0.0) time(0.0) ,(0.0) I(0.0) am(0.0) reminded(0.0) 
+of(0.0) disparities(1.0) that(0.0) exist(0.0) .(0.0) For(0.0) example(0.0) ,(0.0) in(0.0) my(0.0) Congressional(1.0) district(1.0) only(0.0) 38(0.0) percent(0.0) of(0.0) the(0.0) people(0.0) own(0.0) their(0.0) 
+homes(0.0) .(0.0) Only(0.0) 28(0.0) percent(0.0) of(0.0) the(0.0) African(1.0) Americans(1.0) in(0.0) my(0.0) Congressional(1.0) district(1.0) own(0.0) their(0.0) homes(0.0) .(0.0) Yet(0.0) I(0.0) commend(0.0) 
+Fannie(1.0) Mae(1.0) ,(0.0) Freddie(1.0) Mac(0.0) ,(0.0) local(0.0) mortgage(0.0) companies(0.0) ,(0.0) banks(1.0) ,(0.0) the(0.0) City(0.0) of(0.0) Chicago(1.0) ,(0.0) for(0.0) programs(1.0) that(0.0) 
+have(0.0) been(0.0) established(0.0) and(0.0) are(0.0) working(0.0) well(0.0) .(0.0) I(0.0) also(0.0) commend(0.0) the(0.0) Congressional(1.0) Black(1.0) Caucus(1.0) ,(1.0) who(0.0) recognized(0.0) that(0.0) with(0.0) 
+ownership(0.0) comes(0.0) wealth(1.0) ,(0.0) and(0.0) has(0.0) created(0.0) a(0.0) national(0.0) program(0.0) called(0.0) WOW(0.0) ,(0.0) With(0.0) Ownership(1.0) Wealth(0.0) ,(0.0) pointing(0.0) out(0.0) to(0.0) 
+people(0.0) that(0.0) you(0.0) can(0.0) spend(1.0) 50(0.0) years(0.0) paying(1.0) rent(0.0) ,(0.0) and(0.0) at(0.0) the(0.0) end(0.0) of(0.0) 50(0.0) years(0.0) all(0.0) that(0.0) you(0.0) 
+really(0.0) have(0.0) to(0.0) show(0.0) is(0.0) a(0.0) drawer(0.0) full(0.0) or(0.0) a(0.0) desk(0.0) full(0.0) of(0.0) rent(0.0) receipts(0.0) ;(0.0) that(0.0) you(0.0) have(0.0) no(0.0) 
+ownership(0.0) ,(0.0) no(0.0) equity(0.0) value(0.0) ,(0.0) nothing(0.0) that(0.0) you(0.0) can(0.0) pass(0.0) on(0.0) to(0.0) those(0.0) coming(0.0) after(0.0) you(0.0) .(0.0) So(0.0) we(0.0) 
+still(0.0) need(0.0) additional(0.0) instruments(0.0) ,(0.0) because(0.0) ,(0.0) for(0.0) many(0.0) Americans(1.0) ,(0.0) the(0.0) dream(0.0) is(0.0) still(0.0) a(0.0) horrible(0.0) nightmare(0.0) ,(0.0) because(0.0) 
+they(0.0) feel(0.0) that(0.0) there(0.0) is(0.0) no(0.0) way(0.0) they(0.0) can(0.0) purchase(0.0) a(0.0) home(0.0) .(0.0) They(0.0) think(0.0) that(0.0) you(0.0) have(0.0) got(0.0) to(0.0) 
+have(0.0) too(0.0) much(0.0) down(0.0) payment(0.0) .(0.0) They(0.0) think(0.0) that(0.0) their(0.0) credit(0.0) does(0.0) not(0.0) meet(0.0) the(0.0) standards(1.0) or(0.0) the(0.0) requirements(0.0) .(0.0) 
+So(0.0) as(0.0) we(0.0) commend(0.0) ourselves(0.0) ,(0.0) we(0.0) also(0.0) need(0.0) to(0.0) continue(0.0) to(0.0) look(0.0) for(0.0) instruments(0.0) that(0.0) can(0.0) help(0.0) make(0.0) the(0.0) 
+American(0.0) dream(0.0) for(0.0) more(0.0) of(0.0) our(0.0) citizens(1.0) a(0.0) reality(0.0) ,(0.0) so(0.0) that(0.0) they(0.0) too(0.0) can(0.0) have(0.0) that(0.0) dream(0.0) of(0.0) living(0.0) 
+in(0.0) the(0.0) house(0.0) by(0.0) the(0.0) side(0.0) of(0.0) the(0.0) road(0.0) ,(0.0) watching(0.0) men(0.0) and(0.0) women(0.0) go(0.0) by(0.0) .(0.0) So(0.0) I(0.0) commend(0.0) 
+the(0.0) subcommittee(1.0) for(0.0) its(0.0) progress(0.0) ,(0.0) I(0.0) support(0.0) this(0.0) resolution(1.0) ,(0.0) and(0.0) urge(1.0) that(0.0) we(0.0) continue(0.0) to(0.0) find(0.0) those(0.0) ways(0.0) 
+that(0.0) can(0.0) include(0.0) and(0.0) bring(0.0) more(0.0) people(0.0) into(0.0) the(0.0) system(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Georgia	Scott	for	yielding	
+
+increasing	homeownership	resolution	
+
+homeownership	America	
+disparities	Congressional	district	
+African	Americans	Congressional	district	
+Fannie	Mae	Freddie	banks	Chicago	programs	
+Congressional	Black	Caucus	,	
+wealth	Ownership	
+spend	paying	
+
+
+Americans	
+
+standards	
+
+citizens	
+
+subcommittee	resolution	urge	
+
+
+reads % = 0.08737864077669903

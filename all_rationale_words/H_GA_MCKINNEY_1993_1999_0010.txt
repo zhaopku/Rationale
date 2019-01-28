@@ -1,0 +1,10 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(1.0) ,(0.0) I(0.0) yield(0.0) 3(0.0) minutes(1.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) ((0.0) Mr.(1.0) Filner(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+minutes	Mr.	Filner	
+
+reads % = 0.1875

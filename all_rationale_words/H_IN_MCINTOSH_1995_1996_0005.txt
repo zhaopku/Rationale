@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) am(0.0) pleased(0.0) to(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) the(0.0) bill(1.0) of(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) [(0.0) Mr.(0.0) Thomas(1.0) ](0.0) 
+to(1.0) repeal(1.0) the(1.0) Medicare-Medicaid(1.0) data(1.0) bank(1.0) requirement(1.0) .(1.0) As(1.0) cochairman(1.0) of(0.0) the(0.0) Speaker's(0.0) Advisory(0.0) Committee(0.0) on(0.0) Corrections(0.0) ,(0.0) I(0.0) want(0.0) 
+to(0.0) commend(0.0) the(0.0) gentleman(0.0) and(0.0) his(0.0) committee(0.0) for(0.0) their(0.0) work(0.0) on(0.0) this(0.0) very(0.0) good(0.0) corrections(0.0) bill(1.0) .(0.0) Before(0.0) I(0.0) describe(0.0) 
+the(0.0) bill(1.0) and(0.0) the(0.0) reason(0.0) the(0.0) Corrections(0.0) Committee(0.0) supports(0.0) it(0.0) ,(0.0) let(0.0) me(0.0) pause(0.0) for(0.0) a(0.0) moment(0.0) and(0.0) say(0.0) the(0.0) 
+real(0.0) issues(0.0) here(0.0) is(0.0) one(0.0) of(0.0) jobs(0.0) .(0.0) Jobs(0.0) ,(0.0) jobs(0.0) ,(0.0) jobs(0.0) .(0.0) The(0.0) reason(0.0) is(0.0) that(0.0) what(0.0) we(0.0) 
+are(0.0) doing(0.0) is(0.0) getting(0.0) rid(0.0) of(0.0) an(0.0) obsolete(1.0) ,(0.0) unnecessary(1.0) paperwork(1.0) requirement(1.0) that(0.0) makes(0.0) it(0.0) more(0.0) expensive(0.0) for(0.0) businesses(1.0) ,(0.0) 
+particularly(0.0) small(0.0) businesses(1.0) ,(0.0) to(0.0) create(0.0) new(0.0) jobs(1.0) .(0.0) It(0.0) is(0.0) the(0.0) Republican(1.0) hope(1.0) ,(1.0) along(1.0) with(1.0) many(1.0) Democrats(1.0) who(1.0) 
+have(1.0) supported(1.0) this(0.0) bill(1.0) ,(0.0) that(0.0) we(0.0) will(0.0) be(0.0) able(0.0) to(0.0) help(0.0) small(0.0) businesses(1.0) create(0.0) jobs(0.0) by(0.0) passing(1.0) this(0.0) bill(1.0) 
+,(0.0) eliminating(1.0) unnecessary(1.0) redtape(1.0) and(0.0) paperwork(1.0) .(0.0) Now(0.0) ,(0.0) this(0.0) bill(1.0) does(1.0) just(0.0) what(0.0) a(0.0) corrections(0.0) bill(1.0) should(1.0) do(0.0) .(0.0) 
+It(0.0) eliminates(0.0) a(0.0) government-imposed(1.0) paperwork(0.0) burden(1.0) that(0.0) is(0.0) not(0.0) achieving(0.0) any(0.0) conceivable(0.0) intended(0.0) result(0.0) .(0.0) The(0.0) Medicare-Medicaid(1.0) data(0.0) bank(0.0) was(0.0) 
+established(0.0) in(0.0) 1993(0.0) with(0.0) good(0.0) intentions(0.0) ,(0.0) to(0.0) compile(0.0) data(0.0) on(0.0) secondary(0.0) insurers(1.0) for(0.0) Medicare(1.0) subscribers(0.0) ,(0.0) to(0.0) help(0.0) identify(0.0) 
+those(0.0) cases(0.0) in(0.0) which(0.0) an(0.0) employer-based(1.0) insurance(1.0) company(0.0) should(0.0) be(0.0) the(0.0) primary(0.0) insurance(1.0) provider(0.0) rather(0.0) than(0.0) Medicaid(1.0) .(0.0) That(0.0) is(0.0) 
+to(0.0) say(0.0) ,(0.0) if(0.0) somebody(0.0) needs(0.0) additional(0.0) coverage(1.0) from(0.0) the(0.0) Medicare(1.0) coverage(1.0) they(0.0) are(0.0) receiving(0.0) ,(0.0) should(0.0) the(0.0) government(1.0) pay(1.0) 
+for(0.0) it(0.0) through(0.0) Medicaid(1.0) or(0.0) should(0.0) the(0.0) employer(1.0) pay(0.0) for(0.0) it(0.0) through(0.0) their(0.0) primary(0.0) insurance(1.0) coverage(0.0) for(0.0) their(0.0) employees(0.0) ?(0.0) 
+Potentially(0.0) this(0.0) could(0.0) have(0.0) saved(0.0) the(0.0) government(1.0) a(0.0) great(0.0) deal(0.0) of(0.0) money(1.0) by(0.0) identifying(0.0) those(0.0) cases(0.0) where(0.0) the(0.0) government(1.0) ,(0.0) 
+under(0.0) the(0.0) Medicaid(1.0) Program(0.0) ,(0.0) would(0.0) not(0.0) need(0.0) to(0.0) pay(1.0) for(0.0) that(0.0) secondary(0.0) insurance(1.0) .(0.0) Unfortunately(0.0) it(0.0) has(0.0) not(0.0) ,(0.0) 
+and(0.0) will(0.0) not(0.0) ,(0.0) work(0.0) .(0.0) The(0.0) Government(1.0) Accounting(1.0) Office(0.0) has(0.0) testified(0.0) regarding(0.0) this(0.0) data(0.0) bank(0.0) that(0.0) ,(0.0) and(0.0) I(0.0) 
+will(0.0) quote(0.0) from(0.0) their(0.0) statement(0.0) :(0.0) Enormous(0.0) administrative(0.0) burden(0.0) the(0.0) data(0.0) bank(0.0) would(0.0) place(0.0) on(0.0) the(0.0) Health(0.0) Care(0.0) Financing(1.0) Administration(0.0) 
+,(0.0) known(0.0) as(0.0) HCFA(1.0) here(0.0) in(0.0) Washington(1.0) ,(0.0) and(0.0) the(0.0) Nation(1.0) 's(0.0) employers(1.0) likely(0.0) would(0.0) do(0.0) little(0.0) or(0.0) nothing(0.0) to(0.0) 
+enhance(0.0) the(0.0) current(0.0) efforts(1.0) to(0.0) identify(0.0) those(0.0) beneficiaries(1.0) who(0.0) have(0.0) other(0.0) health(1.0) insurance(1.0) coverage(1.0) ,(0.0) *(0.0) *(0.0) *(0.0) That(0.0) is(0.0) 
+to(0.0) say(0.0) the(0.0) health(1.0) care(1.0) Medicare-Medicaid(1.0) data(0.0) bank(1.0) has(0.0) not(0.0) been(0.0) able(0.0) to(0.0) do(0.0) what(0.0) it(0.0) was(0.0) supposed(0.0) to(0.0) do(0.0) 
+,(0.0) which(0.0) is(0.0) streamline(1.0) the(0.0) process(0.0) and(0.0) make(0.0) it(0.0) less(0.0) costly(1.0) for(0.0) the(0.0) government(1.0) .(0.0) There(0.0) are(0.0) several(0.0) reasons(0.0) to(0.0) 
+be(0.0) against(0.0) this(0.0) program(1.0) and(0.0) the(0.0) need(0.0) for(0.0) this(0.0) bill(1.0) .(0.0) The(0.0) first(0.0) is(0.0) it(0.0) is(0.0) a(0.0) burden(0.0) on(0.0) the(0.0) 
+government(1.0) itself(0.0) .(0.0) The(0.0) Health(1.0) Care(0.0) Finance(1.0) Administration(0.0) has(0.0) itself(0.0) stated(0.0) that(0.0) the(0.0) costs(1.0) involved(0.0) in(0.0) collecting(0.0) the(0.0) information(0.0) will(0.0) 
+outweigh(1.0) the(0.0) costs(1.0) that(0.0) may(0.0) be(0.0) recovered(0.0) by(0.0) the(0.0) data(0.0) bank(0.0) .(0.0) That(0.0) is(0.0) to(0.0) say(0.0) it(0.0) frankly(0.0) does(0.0) 
+
+
+----- below are rationale words -----
+
+bill	Thomas	
+to	repeal	the	Medicare-Medicaid	data	bank	requirement	.	As	cochairman	
+bill	
+bill	
+
+obsolete	unnecessary	paperwork	requirement	businesses	
+businesses	jobs	Republican	hope	,	along	with	many	Democrats	who	
+have	supported	bill	businesses	passing	bill	
+eliminating	unnecessary	redtape	paperwork	bill	does	bill	should	
+government-imposed	burden	Medicare-Medicaid	
+insurers	Medicare	
+employer-based	insurance	insurance	Medicaid	
+coverage	Medicare	coverage	government	pay	
+Medicaid	employer	insurance	
+government	money	government	
+Medicaid	pay	insurance	
+Government	Accounting	
+Financing	
+HCFA	Washington	Nation	employers	
+efforts	beneficiaries	health	insurance	coverage	
+health	care	Medicare-Medicaid	bank	
+streamline	costly	government	
+program	bill	
+government	Health	Finance	costs	
+outweigh	costs	
+
+reads % = 0.186

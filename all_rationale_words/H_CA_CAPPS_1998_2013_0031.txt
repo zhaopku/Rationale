@@ -1,0 +1,38 @@
+This is from a Democrat
+----- below is the original text -----
+Mr(0.0) .(1.0) Chair(1.0) ,(0.0) this(0.0) amendment(1.0) simply(0.0) ensures(0.0) that(0.0) the(0.0) express(0.0) will(0.0) of(0.0) my(0.0) constituents(1.0) and(0.0) the(0.0) people(0.0) of(0.0) California(1.0) is(0.0) 
+respected(0.0) .(0.0) I(0.0) find(0.0) it(0.0) ironic(0.0) that(0.0) some(0.0) of(0.0) the(0.0) same(0.0) people(0.0) in(0.0) this(0.0) body(0.0) who(0.0) decry(1.0) the(0.0) overarching(1.0) Federal(1.0) 
+Government(1.0) seem(0.0) to(0.0) have(0.0) no(0.0) qualms(0.0) about(0.0) forcing(0.0) new(0.0) drilling(1.0) upon(0.0) a(0.0) local(0.0) population(0.0) directly(0.0) against(1.0) its(0.0) wishes(0.0) .(0.0) The(0.0) 
+American(0.0) people(0.0) are(0.0) tired(0.0) of(0.0) these(0.0) political(1.0) games(0.0) ,(0.0) especially(0.0) those(0.0) that(0.0) put(0.0) our(0.0) coasts(1.0) ,(0.0) our(0.0) communities(1.0) ,(0.0) and(0.0) 
+our(0.0) way(0.0) of(0.0) life(0.0) at(0.0) risk(0.0) .(0.0) Instead(0.0) of(0.0) expanding(1.0) oil(1.0) and(0.0) gas(1.0) drilling(1.0) ,(0.0) we(0.0) should(0.0) be(0.0) working(0.0) together(0.0) 
+on(0.0) a(0.0) responsible(0.0) ,(0.0) sustainable(1.0) energy(1.0) policy(1.0) for(0.0) the(0.0) future(1.0) .(0.0) We(0.0) ca(0.0) n't(0.0) end(0.0) our(0.0) dependence(1.0) on(0.0) oil(1.0) overnight(1.0) 
+,(0.0) but(0.0) we(0.0) can(0.0) certainly(0.0) do(0.0) more(0.0) to(0.0) encourage(0.0) innovation(1.0) and(0.0) clean(1.0) energy(1.0) technologies(1.0) like(0.0) solar(1.0) ,(0.0) wind(1.0) ,(0.0) and(0.0) 
+biofuels(1.0) .(0.0) We(0.0) can(0.0) enact(1.0) better(0.0) efficiency(1.0) standards(1.0) to(0.0) make(0.0) the(0.0) resources(1.0) we(0.0) do(0.0) have(0.0) last(0.0) longer(0.0) ,(0.0) and(0.0) we(0.0) 
+can(0.0) end(0.0) the(0.0) billions(1.0) of(0.0) dollars(1.0) in(0.0) giveaways(1.0) for(0.0) Big(1.0) Oil(1.0) and(0.0) finally(0.0) level(0.0) the(0.0) playing(0.0) field(0.0) for(0.0) all(0.0) types(0.0) 
+of(0.0) energy(1.0) technology(1.0) .(0.0) A(0.0) clean(0.0) energy(1.0) future(1.0) is(0.0) good(0.0) for(0.0) jobs(1.0) ,(0.0) it(0.0) 's(0.0) good(0.0) for(0.0) our(0.0) environment(0.0) ,(0.0) 
+and(0.0) it(0.0) 's(0.0) good(0.0) for(0.0) the(0.0) American(0.0) people(0.0) .(0.0) This(0.0) bill(1.0) is(0.0) just(0.0) another(0.0) recycled(0.0) bad(0.0) idea(0.0) designed(0.0) to(0.0) go(0.0) 
+nowhere(0.0) .(0.0) Doubling(0.0) down(0.0) on(0.0) oil(1.0) drilling(1.0) may(1.0) be(0.0) good(0.0) policy(1.0) for(0.0) oil(1.0) companies(1.0) ,(0.0) but(0.0) it(0.0) 's(0.0) terrible(0.0) policy(1.0) 
+for(0.0) the(0.0) American(0.0) people(0.0) .(0.0) This(0.0) amendment(1.0) would(1.0) help(0.0) stop(0.0) these(0.0) games(0.0) and(0.0) stop(0.0) the(0.0) reckless(1.0) expansion(1.0) of(0.0) oil(1.0) drilling(1.0) 
+off(1.0) the(0.0) southern(0.0) California(0.0) coast(0.0) .(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) respect(0.0) the(0.0) will(0.0) of(0.0) California(1.0) 's(0.0) voters(1.0) and(0.0) support(0.0) 
+this(0.0) amendment(1.0) .(0.0) The(0.0) Acting(0.0) CHAIR(0.0) .(0.0) The(0.0) time(0.0) of(0.0) the(0.0) gentlewoman(0.0) has(0.0) expired(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+.	Chair	amendment	constituents	California	
+decry	overarching	Federal	
+Government	drilling	against	
+political	coasts	communities	
+expanding	oil	gas	drilling	
+sustainable	energy	policy	future	dependence	oil	overnight	
+innovation	clean	energy	technologies	solar	wind	
+biofuels	enact	efficiency	standards	resources	
+billions	dollars	giveaways	Big	Oil	
+energy	technology	energy	future	jobs	
+bill	
+oil	drilling	may	policy	oil	companies	policy	
+amendment	would	reckless	expansion	oil	drilling	
+off	California	voters	
+amendment	
+
+reads % = 0.21621621621621623

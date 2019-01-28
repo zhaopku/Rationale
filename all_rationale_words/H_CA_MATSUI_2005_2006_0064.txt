@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(1.0) LINCOLN(1.0) DIAZ-BALART(1.0) of(0.0) Florida(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) such(0.0) time(0.0) as(0.0) he(0.0) may(0.0) consume(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) 
+Texas(0.0) ((0.0) Mr.(0.0) Hall(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+LINCOLN	DIAZ-BALART	Florida	Speaker	
+Hall	
+
+reads % = 0.18518518518518517

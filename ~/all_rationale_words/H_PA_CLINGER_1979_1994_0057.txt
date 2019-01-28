@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(1.0) Speaker(1.0) ,(0.0) I(0.0) rise(1.0) in(0.0) support(0.0) of(0.0) H.R(0.0) .(0.0) 3110(1.0) ,(0.0) a(0.0) bill(0.0) to(0.0) designate(1.0) the(0.0) Federal(1.0) building(1.0) under(0.0) construction(1.0) 
+in(0.0) Reno(1.0) ,(0.0) NV(1.0) ,(0.0) as(0.0) the(0.0) ``(0.0) Bruce(0.0) R.(0.0) Thompson(0.0) U.S(1.0) .(0.0) Courthouse(1.0) .(0.0) ''(0.0) Bruce(0.0) Thompson(0.0) was(0.0) born(1.0) 
+in(0.0) Reno(1.0) ,(0.0) NV(1.0) ,(0.0) on(0.0) July(0.0) 31(1.0) ,(0.0) 1911(1.0) .(0.0) He(0.0) attended(1.0) the(0.0) University(0.0) of(0.0) Nevada(1.0) ,(0.0) and(0.0) received(0.0) 
+a(0.0) law(1.0) degree(0.0) from(0.0) Stanford(1.0) Law(1.0) School(0.0) in(0.0) 1936(0.0) .(0.0) Following(1.0) admission(0.0) to(0.0) the(0.0) Nevada(1.0) bar(0.0) ,(0.0) he(0.0) entered(0.0) the(0.0) 
+legal(0.0) profession(1.0) ,(0.0) and(0.0) from(0.0) 1942(1.0) to(0.0) 1952(1.0) he(0.0) served(1.0) as(0.0) assistant(1.0) U.S.(0.0) attorney(1.0) for(0.0) the(0.0) District(0.0) of(0.0) Nevada(1.0) .(0.0) 
+On(0.0) August(0.0) 13(1.0) ,(0.0) 1963(0.0) ,(0.0) President(1.0) John(1.0) F.(1.0) Kennedy(0.0) appointed(0.0) Bruce(0.0) Thompson(0.0) as(0.0) U.S.(0.0) judge(1.0) for(0.0) the(0.0) District(0.0) of(0.0) 
+Nevada(1.0) .(0.0) In(0.0) 1978(0.0) ,(0.0) Judge(1.0) Thompson(1.0) took(1.0) senior(1.0) status(0.0) .(0.0) Naming(1.0) of(0.0) this(0.0) building(0.0) to(0.0) be(0.0) built(1.0) has(0.0) the(0.0) 
+endorsement(0.0) of(0.0) the(0.0) Nevada(1.0) Chapter(1.0) of(0.0) the(0.0) Federal(1.0) Bar(0.0) Association(0.0) and(0.0) the(0.0) Washoe(1.0) County(1.0) Bar(0.0) Association(0.0) .(0.0) I(0.0) urge(1.0) enactment(1.0) 
+of(0.0) the(0.0) legislation(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) such(0.0) time(0.0) as(0.0) she(0.0) may(0.0) consume(0.0) to(0.0) the(0.0) gentlewoman(0.0) from(0.0) Nevada(1.0) 
+,(0.0) [(0.0) Mrs.(1.0) Vucanovich(1.0) ](0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	rise	3110	designate	Federal	building	construction	
+Reno	NV	U.S	Courthouse	born	
+Reno	NV	31	1911	attended	Nevada	
+law	Stanford	Law	Following	Nevada	
+profession	1942	1952	served	assistant	attorney	Nevada	
+13	President	John	F.	judge	
+Nevada	Judge	Thompson	took	senior	Naming	built	
+Nevada	Chapter	Federal	Washoe	County	urge	enactment	
+Speaker	Nevada	
+Mrs.	Vucanovich	
+
+reads % = 0.28342245989304815

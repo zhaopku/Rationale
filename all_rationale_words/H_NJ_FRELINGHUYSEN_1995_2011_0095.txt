@@ -1,0 +1,38 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) continue(0.0) to(0.0) reserve(0.0) my(0.0) point(0.0) of(0.0) order(0.0) ,(0.0) and(0.0) I(0.0) move(0.0) to(0.0) strike(1.0) the(0.0) last(0.0) word(0.0) .(0.0) The(0.0) 
+CHAIR(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) New(0.0) Jersey(1.0) is(0.0) recognized(0.0) for(0.0) 5(0.0) minutes(0.0) .(0.0) Chairman(0.0) ,(0.0) while(0.0) I(0.0) strongly(0.0) support(0.0) the(0.0) 
+gentleman(0.0) from(0.0) Connecticut(1.0) 's(0.0) overall(0.0) intent(0.0) ,(0.0) I(0.0) must(0.0) regretfully(0.0) oppose(1.0) his(0.0) amendment(1.0) .(0.0) I(0.0) share(0.0) my(0.0) colleague(0.0) 's(0.0) concern(0.0) 
+for(0.0) sufficiently(0.0) maintaining(0.0) our(0.0) waterways(1.0) .(0.0) These(0.0) waterways(1.0) contribute(0.0) significantly(0.0) to(0.0) our(0.0) national(1.0) economy(1.0) by(0.0) providing(0.0) a(0.0) means(0.0) of(0.0) cost-effective(1.0) 
+cargo(0.0) transportation(1.0) .(0.0) In(0.0) recognition(0.0) of(0.0) the(0.0) economic(1.0) benefits(1.0) of(0.0) navigation(0.0) generally(0.0) and(0.0) maintenance(0.0) dredging(1.0) specifically(0.0) ,(0.0) the(0.0) bill(1.0) before(0.0) 
+us(0.0) provides(0.0) funds(1.0) above(0.0) the(0.0) President(1.0) 's(0.0) budget(0.0) request(0.0) for(0.0) navigation(0.0) needs(0.0) --(0.0) $(0.0) 191(0.0) million(0.0) in(0.0) total(0.0) and(0.0) $(0.0) 
+99(0.0) million(0.0) specifically(1.0) for(0.0) the(0.0) operation(0.0) and(0.0) maintenance(0.0) activities(0.0) .(0.0) This(0.0) funding(1.0) represents(0.0) a(0.0) 12(0.0) percent(0.0) increase(1.0) over(0.0) the(0.0) President(1.0) 
+'s(0.0) own(0.0) budget(1.0) for(0.0) navigation(0.0) .(0.0) I(0.0) also(0.0) agree(0.0) with(0.0) the(0.0) gentleman(0.0) from(0.0) Connecticut(1.0) 's(0.0) idea(0.0) that(0.0) if(0.0) the(0.0) Federal(1.0) 
+Government(1.0) levies(1.0) a(0.0) tax(1.0) for(0.0) a(0.0) specific(0.0) purpose(0.0) ,(0.0) the(0.0) revenue(1.0) should(0.0) be(0.0) used(0.0) for(0.0) that(0.0) purpose(0.0) .(0.0) Unfortunately(0.0) ,(0.0) 
+the(0.0) only(0.0) way(0.0) to(0.0) do(0.0) that(0.0) at(0.0) this(0.0) point(0.0) would(0.0) be(0.0) to(0.0) make(0.0) substantial(0.0) reductions(1.0) in(0.0) other(0.0) priorities(1.0) in(0.0) our(0.0) 
+bill(1.0) .(0.0) The(0.0) gentleman(0.0) 's(0.0) amendment(1.0) would(1.0) avoid(0.0) those(0.0) difficult(0.0) decisions(1.0) by(0.0) simply(0.0) not(0.0) offsetting(1.0) the(0.0) additional(0.0) spending(1.0) ,(0.0) but(0.0) 
+our(0.0) debt(1.0) crisis(1.0) makes(0.0) that(0.0) ,(0.0) too(0.0) ,(0.0) an(0.0) untenable(1.0) option(0.0) .(0.0) For(0.0) these(0.0) reasons(0.0) ,(0.0) even(0.0) though(0.0) I(0.0) am(0.0) 
+very(0.0) much(0.0) in(0.0) support(0.0) of(0.0) what(0.0) he(0.0) is(0.0) trying(0.0) to(0.0) achieve(0.0) ,(0.0) which(0.0) is(0.0) things(0.0) for(0.0) navigation(0.0) ,(0.0) keeping(0.0) America(1.0) 
+open(0.0) for(0.0) business(0.0) ,(0.0) I(0.0) must(0.0) oppose(1.0) his(0.0) amendment(1.0) ,(0.0) and(0.0) I(0.0) will(0.0) insist(1.0) on(0.0) my(0.0) point(0.0) of(0.0) order(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+strike	
+Jersey	
+Connecticut	oppose	amendment	
+waterways	waterways	national	economy	cost-effective	
+transportation	economic	benefits	dredging	bill	
+funds	President	
+specifically	funding	increase	President	
+budget	Connecticut	Federal	
+Government	levies	tax	revenue	
+reductions	priorities	
+bill	amendment	would	decisions	offsetting	spending	
+debt	crisis	untenable	
+America	
+oppose	amendment	insist	
+
+
+reads % = 0.15302491103202848

@@ -1,0 +1,38 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) ask(1.0) unanimous(0.0) consent(0.0) that(0.0) on(0.0) Mondays(1.0) and(0.0) Tuesdays(0.0) of(0.0) each(0.0) week(0.0) through(0.0) the(0.0) second(0.0) session(1.0) of(0.0) the(0.0) 105th(0.0) 
+Congress(0.0) ,(0.0) the(0.0) House(0.0) shall(1.0) convene(1.0) 90(0.0) minutes(1.0) earlier(0.0) than(0.0) the(0.0) time(0.0) otherwise(1.0) established(1.0) by(0.0) order(0.0) of(0.0) the(0.0) House(0.0) solely(1.0) 
+for(0.0) the(0.0) purpose(0.0) of(0.0) conducting(0.0) morning(0.0) hour(0.0) debate(0.0) and(0.0) that(0.0) the(0.0) time(0.0) for(0.0) such(0.0) debate(1.0) shall(1.0) be(0.0) limited(0.0) to(0.0) 30(0.0) 
+minutes(1.0) allocated(1.0) to(0.0) each(0.0) party(1.0) ;(0.0) except(1.0) that(0.0) on(0.0) Tuesdays(0.0) of(0.0) each(0.0) week(0.0) after(0.0) the(0.0) first(0.0) Tuesday(1.0) in(0.0) May(0.0) of(0.0) 
+a(0.0) session(0.0) the(0.0) House(0.0) shall(1.0) convene(1.0) for(0.0) morning(0.0) hour(0.0) debate(0.0) 1(0.0) hour(0.0) earlier(0.0) than(0.0) the(0.0) time(0.0) otherwise(1.0) established(1.0) by(0.0) order(0.0) 
+of(0.0) the(0.0) House(0.0) ,(0.0) that(0.0) the(0.0) time(0.0) for(0.0) such(0.0) debate(0.0) shall(1.0) be(0.0) limited(0.0) to(0.0) 25(0.0) minutes(1.0) allocated(1.0) to(0.0) each(0.0) party(1.0) 
+,(0.0) and(0.0) that(0.0) in(0.0) no(0.0) event(1.0) shall(1.0) morning(0.0) hour(0.0) debate(0.0) continue(0.0) beyond(0.0) 10(0.0) minutes(1.0) before(1.0) the(0.0) hour(0.0) appointed(0.0) for(0.0) the(0.0) 
+resumption(1.0) of(0.0) the(0.0) House(0.0) session(1.0) ;(0.0) and(0.0) that(0.0) all(0.0) morning(0.0) hour(0.0) debate(0.0) shall(1.0) be(0.0) conducted(1.0) under(0.0) the(0.0) following(0.0) conditions(0.0) :(1.0) 
+First(0.0) ,(0.0) the(0.0) prayer(1.0) by(0.0) the(0.0) Chaplain(0.0) ,(0.0) the(0.0) approval(1.0) of(0.0) the(0.0) Journal(0.0) ,(0.0) and(0.0) the(0.0) Pledge(1.0) of(0.0) Allegiance(1.0) to(0.0) 
+the(0.0) flag(0.0) shall(0.0) be(0.0) postponed(0.0) until(0.0) resumption(1.0) of(0.0) the(0.0) House(0.0) session(1.0) following(0.0) morning(0.0) hour(0.0) debate(0.0) ;(0.0) second(0.0) ,(0.0) initial(1.0) and(0.0) 
+subsequent(1.0) recognition(0.0) for(0.0) debate(1.0) shall(1.0) alternate(0.0) between(0.0) parties(0.0) ;(0.0) third(1.0) ,(0.0) recognition(0.0) shall(1.0) be(0.0) conferred(1.0) by(0.0) the(0.0) Speaker(0.0) only(0.0) pursuant(1.0) 
+to(0.0) lists(0.0) submitted(1.0) by(0.0) the(0.0) majority(1.0) leader(1.0) or(0.0) the(0.0) minority(0.0) leader(1.0) ;(0.0) fourth(1.0) ,(0.0) no(1.0) Member(0.0) may(0.0) address(0.0) the(0.0) House(0.0) 
+for(0.0) more(0.0) than(0.0) 5(0.0) minutes(1.0) except(1.0) for(0.0) the(0.0) majority(1.0) leader(1.0) ,(0.0) the(0.0) minority(0.0) leader(1.0) ,(0.0) or(1.0) the(0.0) minority(0.0) whip(0.0) ;(0.0) 
+and(0.0) ,(0.0) fifth(1.0) ,(0.0) pursuant(1.0) to(0.0) clause(1.0) 12(0.0) of(0.0) rule(0.0) I(0.0) the(1.0) Speaker(1.0) shall(1.0) declare(1.0) a(0.0) recess(1.0) following(0.0) morning(0.0) hour(0.0) 
+debate(0.0) until(0.0) the(0.0) hour(0.0) appointed(0.0) for(0.0) the(0.0) resumption(1.0) of(0.0) the(0.0) House(0.0) session(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+ask	Mondays	session	
+shall	convene	minutes	otherwise	established	solely	
+debate	shall	
+minutes	allocated	party	except	Tuesday	
+shall	convene	otherwise	established	
+shall	minutes	allocated	party	
+event	shall	minutes	before	
+resumption	session	shall	conducted	:	
+prayer	approval	Pledge	Allegiance	
+resumption	session	initial	
+subsequent	debate	shall	third	shall	conferred	pursuant	
+submitted	majority	leader	leader	fourth	no	
+minutes	except	majority	leader	leader	or	
+fifth	pursuant	clause	the	Speaker	shall	declare	recess	
+resumption	session	
+
+reads % = 0.23469387755102042

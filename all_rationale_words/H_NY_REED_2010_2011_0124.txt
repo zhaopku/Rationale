@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) ,(0.0) and(0.0) I(0.0) 'm(0.0) proud(1.0) to(0.0) join(1.0) him(0.0) and(0.0) my(0.0) other(0.0) colleague(0.0) from(0.0) Wisconsin(1.0) tonight(1.0) 
+to(0.0) talk(0.0) about(0.0) jobs(1.0) and(0.0) what(1.0) we(0.0) are(0.0) doing(0.0) here(0.0) in(0.0) this(0.0) Chamber(0.0) on(0.0) that(0.0) issue(1.0) .(0.0) I(0.0) listen(1.0) many(0.0) 
+times(0.0) to(0.0) my(0.0) colleagues(1.0) from(0.0) the(0.0) other(0.0) side(0.0) of(0.0) the(0.0) aisle(1.0) ,(0.0) and(0.0) they(0.0) say(1.0) we(0.0) have(0.0) n't(0.0) put(0.0) forth(1.0) 
+a(0.0) jobs(1.0) bill(0.0) ,(0.0) as(0.0) if(0.0) there's(1.0) some(0.0) simple(0.0) fix(1.0) that(0.0) we(0.0) here(0.0) in(0.0) Washington(1.0) ,(0.0) some(0.0) bureaucrat(1.0) sitting(0.0) in(0.0) 
+a(0.0) cubicle(1.0) over(0.0) at(0.0) the(0.0) White(0.0) House(0.0) is(0.0) going(0.0) to(0.0) come(0.0) up(0.0) with(0.0) a(0.0) plan(1.0) that(0.0) 's(0.0) going(0.0) to(0.0) cure(0.0) 
+this(0.0) economy(1.0) with(0.0) a(0.0) magic(0.0) wave(0.0) of(0.0) the(0.0) wand(0.0) here(0.0) in(0.0) the(0.0) U.S.(0.0) House(0.0) or(1.0) in(0.0) Washington(1.0) ,(0.0) D.C(1.0) .(0.0) 
+I(0.0) join(1.0) my(0.0) colleague(1.0) in(0.0) his(0.0) sentiments(1.0) that(0.0) I(0.0) 'd(1.0) rather(0.0) be(0.0) listening(1.0) to(0.0) the(0.0) people(0.0) on(0.0) the(0.0) front(1.0) line(0.0) 
+.(0.0) I(0.0) 'd(1.0) rather(0.0) be(0.0) listening(0.0) to(0.0) the(0.0) people(0.0) that(0.0) are(0.0) in(0.0) the(0.0) position(0.0) to(0.0) really(0.0) create(0.0) those(0.0) jobs(1.0) ,(0.0) 
+because(1.0) I(0.0) believe(1.0) in(0.0) a(0.0) private(0.0) sector-based(1.0) economy(1.0) .(0.0) I(0.0) believe(1.0) it(0.0) 's(0.0) going(0.0) to(0.0) be(0.0) the(0.0) private(0.0) sector(1.0) that(0.0) 
+is(0.0) going(0.0) to(0.0) be(0.0) the(0.0) primary(0.0) engine(0.0) of(0.0) pulling(1.0) us(0.0) out(0.0) of(0.0) this(0.0) economic(0.0) crisis(1.0) that(0.0) we(0.0) now(0.0) find(1.0) ourselves(0.0) 
+--(0.0) not(1.0) the(0.0) public(0.0) sector(1.0) ,(0.0) not(1.0) more(0.0) spending(1.0) out(0.0) of(0.0) Washington(1.0) ,(0.0) D.C(1.0) .(0.0) But(0.0) rather(0.0) ,(0.0) what(1.0) we(0.0) 
+need(0.0) to(0.0) do(0.0) in(0.0) this(0.0) House(0.0) is(0.0) come(0.0) together(0.0) to(0.0) create(0.0) an(0.0) environment(0.0) so(0.0) that(0.0) the(0.0) private(0.0) sector(1.0) can(0.0) be(0.0) 
+competitive(0.0) in(0.0) this(0.0) world(0.0) economy(1.0) and(0.0) this(0.0) world(0.0) market(0.0) ,(0.0) and(0.0) it(0.0) can(0.0) really(0.0) lead(0.0) us(0.0) to(0.0) a(0.0) better(0.0) condition(0.0) 
+tomorrow(0.0) so(0.0) that(0.0) generations(1.0) of(0.0) families(0.0) ,(0.0) of(0.0) American(0.0) families(1.0) ,(0.0) will(0.0) have(0.0) the(0.0) opportunities(0.0) that(0.0) generations(1.0) of(0.0) families(0.0) before(0.0) 
+us(0.0) so(0.0) enjoyed(0.0) .(0.0) I(0.0) 've(0.0) gone(0.0) out(1.0) and(0.0) I(0.0) 've(0.0) also(1.0) had(0.0) those(0.0) town(0.0) halls(0.0) ,(0.0) and(0.0) I(0.0) 've(0.0) 
+talked(0.0) to(0.0) people(0.0) on(0.0) the(0.0) front(1.0) line(0.0) .(0.0) And(0.0) really(1.0) ,(0.0) it(0.0) boils(1.0) down(1.0) to(0.0) some(0.0) simple(0.0) philosophies(1.0) .(0.0) We(0.0) 
+run(0.0) our(0.0) office(0.0) here(0.0) in(0.0) the(0.0) New(0.0) York(0.0) 29th(0.0) Congressional(0.0) District(0.0) like(0.0) a(0.0) business(1.0) .(0.0) I(0.0) come(0.0) at(0.0) this(0.0) from(0.0) 
+a(0.0) business(1.0) perspective(0.0) .(0.0) Having(1.0) started(0.0) four(0.0) businesses(0.0) on(0.0) my(0.0) own(0.0) ,(0.0) I(0.0) 've(0.0) always(0.0) had(0.0) a(0.0) business(1.0) plan(1.0) ,(0.0) 
+and(0.0) I(0.0) 've(0.0) always(0.0) had(0.0) accountability(1.0) metrics(1.0) built(0.0) into(0.0) those(0.0) plans(1.0) .(0.0) So(1.0) we(0.0) put(0.0) forth(1.0) a(0.0) mission(1.0) statement(0.0) .(0.0) 
+We(0.0) developed(0.0) themes(1.0) ,(0.0) we(0.0) developed(0.0) goals(0.0) ,(0.0) and(0.0) we(0.0) put(0.0) metrics(1.0) to(0.0) those(0.0) themes(1.0) and(0.0) goals(0.0) to(0.0) make(0.0) sure(1.0) 
+that(0.0) we(0.0) accomplish(0.0) them(0.0) .(0.0) And(0.0) the(0.0) primary(0.0) theme(0.0) that(0.0) we(0.0) have(0.0) adopted(0.0) in(0.0) our(0.0) office(0.0) is(0.0) to(0.0) create(0.0) economic(1.0) 
+opportunity(0.0) through(0.0) the(0.0) private(0.0) sector(1.0) .(0.0) How(0.0) do(0.0) you(1.0) do(0.0) that(0.0) ?(1.0) We(0.0) have(0.0) adopted(1.0) four(0.0) main(0.0) goals(0.0) that(0.0) we(0.0) 
+work(0.0) on(0.0) each(0.0) day(0.0) .(0.0) We(0.0) tackle(0.0) this(0.0) debt(0.0) in(0.0) a(0.0) credible(1.0) way(0.0) ,(0.0) as(0.0) my(0.0) colleague(1.0) from(0.0) Arkansas(0.0) has(0.0) 
+indicated(1.0) ,(0.0) because(1.0) it(0.0) has(0.0) so(1.0) many(0.0) indirect(1.0) implications(1.0) to(0.0) our(0.0) private-sector(1.0) economy(1.0) ,(0.0) be(0.0) it(0.0) in(0.0) the(0.0) financing(1.0) world(0.0) 
+and(0.0) be(0.0) it(0.0) in(0.0) just(1.0) the(0.0) uncertainty(1.0) of(0.0) the(0.0) U.S.(0.0) markets(0.0) .(0.0) And(0.0) we(0.0) really(0.0) have(0.0) got(1.0) to(0.0) get(0.0) 
+
+
+----- below are rationale words -----
+
+proud	join	Wisconsin	tonight	
+jobs	what	issue	listen	
+colleagues	aisle	say	forth	
+jobs	there's	fix	Washington	bureaucrat	
+cubicle	plan	
+economy	or	Washington	D.C	
+join	colleague	sentiments	'd	listening	front	
+'d	jobs	
+because	believe	sector-based	economy	believe	sector	
+pulling	crisis	find	
+not	sector	not	spending	Washington	D.C	what	
+sector	
+economy	
+generations	families	generations	
+out	also	
+front	really	boils	down	philosophies	
+business	
+business	Having	business	plan	
+accountability	metrics	plans	So	forth	mission	
+themes	metrics	themes	sure	
+economic	
+sector	you	?	adopted	
+credible	colleague	
+indicated	because	so	indirect	implications	private-sector	economy	financing	
+just	uncertainty	got	
+
+reads % = 0.184

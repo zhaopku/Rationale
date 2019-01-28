@@ -1,0 +1,54 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) to(0.0) urge(0.0) my(0.0) colleagues(0.0) on(0.0) both(0.0) sides(0.0) of(0.0) the(0.0) aisle(0.0) to(0.0) support(0.0) H.R(0.0) .(0.0) 2672(0.0) 
+,(0.0) the(0.0) Helping(1.0) Expand(0.0) Lending(1.0) Practices(0.0) in(0.0) Rural(1.0) Communities(0.0) Act(0.0) ,(0.0) as(0.0) amended(0.0) .(0.0) I(0.0) would(0.0) like(0.0) to(0.0) thank(0.0) my(0.0) 
+distinguished(0.0) colleague(0.0) ,(0.0) Congressman(1.0) Barr(1.0) of(0.0) Kentucky(0.0) ,(0.0) for(0.0) your(0.0) leadership(0.0) on(0.0) this(0.0) bill(0.0) .(0.0) As(0.0) the(0.0) chairman(0.0) of(0.0) the(0.0) 
+Congressional(0.0) Rural(1.0) Housing(0.0) Caucus(0.0) ,(0.0) I(0.0) have(0.0) dealt(0.0) with(0.0) the(0.0) varying(0.0) definitions(0.0) of(0.0) rural(1.0) for(0.0) many(0.0) years(0.0) .(0.0) Given(0.0) that(0.0) 
+the(0.0) definitions(0.0) promulgated(1.0) by(0.0) the(0.0) USDA(1.0) are(0.0) problematic(0.0) on(0.0) many(0.0) counts(0.0) ,(0.0) I(0.0) was(0.0) very(0.0) concerned(0.0) when(0.0) I(0.0) learned(0.0) that(0.0) 
+the(0.0) CFPB(1.0) originally(0.0) used(0.0) them(0.0) as(0.0) a(0.0) guide(0.0) for(0.0) their(0.0) rule(1.0) .(0.0) The(0.0) original(0.0) rule(1.0) by(0.0) the(0.0) CFPB(1.0) would(0.0) exclude(0.0) 
+Hidalgo(0.0) County(1.0) in(0.0) my(0.0) 15th(0.0) Congressional(0.0) District(1.0) in(0.0) deep(0.0) south(0.0) Texas(0.0) .(0.0) Hidalgo(1.0) County(1.0) includes(0.0) some(0.0) urban(1.0) areas(0.0) ,(0.0) but(0.0) 
+much(0.0) of(0.0) it(0.0) is(0.0) also(0.0) rural(1.0) .(0.0) It(0.0) is(0.0) home(0.0) to(0.0) the(0.0) most(0.0) colonias(1.0) in(0.0) the(0.0) Nation(1.0) .(0.0) Colonias(1.0) often(0.0) 
+lack(0.0) basic(0.0) infrastructure(1.0) ,(0.0) such(0.0) as(0.0) indoor(0.0) plumbing(0.0) and(0.0) electricity(1.0) .(0.0) They(0.0) are(0.0) rural(1.0) by(0.0) definition(1.0) .(0.0) We(0.0) need(0.0) to(0.0) 
+ensure(0.0) that(0.0) community(0.0) banks(1.0) and(0.0) credit(0.0) unions(1.0) are(0.0) not(0.0) prevented(0.0) from(0.0) investing(1.0) in(0.0) such(0.0) rural(1.0) communities(0.0) .(0.0) The(0.0) CFPB(1.0) 's(0.0) 
+new(0.0) mortgage(1.0) rules(0.0) discourage(0.0) risky(1.0) mortgage(0.0) lending(0.0) practices(0.0) that(0.0) sparked(0.0) the(0.0) financial(1.0) crisis(1.0) .(0.0) However(0.0) ,(0.0) community(0.0) banks(1.0) and(0.0) credit(0.0) 
+unions(1.0) did(0.0) not(0.0) cause(0.0) the(0.0) crisis(1.0) and(0.0) have(0.0) legitimate(1.0) reasons(0.0) for(0.0) flexibility(0.0) when(0.0) it(0.0) comes(0.0) to(0.0) serving(0.0) rural(1.0) America(0.0) .(0.0) 
+Rural(1.0) community(0.0) bankers(1.0) know(0.0) their(0.0) customers(0.0) by(0.0) name(0.0) ;(0.0) often(0.0) ,(0.0) they(0.0) are(0.0) the(0.0) only(0.0) option(0.0) for(0.0) credit(0.0) within(0.0) hundreds(0.0) 
+of(0.0) miles(0.0) .(0.0) They(0.0) understand(0.0) the(0.0) unique(0.0) financial(1.0) needs(0.0) of(0.0) their(0.0) community(0.0) and(0.0) how(0.0) best(0.0) to(0.0) serve(0.0) the(0.0) farmers(1.0) ,(0.0) 
+to(0.0) serve(0.0) the(0.0) ranchers(1.0) and(0.0) small(0.0) businesses(1.0) that(0.0) rely(0.0) on(0.0) them(0.0) .(0.0) I(0.0) appreciate(0.0) that(0.0) the(0.0) CFPB(1.0) has(0.0) heard(0.0) our(0.0) 
+concerns(1.0) and(0.0) has(0.0) responded(0.0) by(0.0) offering(0.0) a(0.0) short(0.0) exemption(0.0) .(0.0) I(0.0) believe(0.0) the(0.0) petition(1.0) process(0.0) enacted(1.0) by(0.0) this(0.0) legislation(1.0) will(0.0) 
+only(0.0) strengthen(1.0) the(0.0) CFPB(1.0) 's(0.0) final(0.0) rule(1.0) .(0.0) This(0.0) is(0.0) an(0.0) important(0.0) opportunity(0.0) given(0.0) that(0.0) rural(1.0) is(0.0) not(0.0) easily(0.0) defined(0.0) 
+and(0.0) looks(0.0) different(0.0) by(0.0) region(0.0) .(0.0) It(0.0) makes(0.0) good(0.0) sense(0.0) for(0.0) the(0.0) CFPB(1.0) to(0.0) follow(0.0) the(0.0) USDA(1.0) 's(0.0) lead(0.0) and(0.0) 
+for(0.0) communities(1.0) to(0.0) be(0.0) able(0.0) to(0.0) petition(1.0) their(0.0) rural(1.0) status(0.0) .(0.0) I(0.0) thank(0.0) Congressman(1.0) Barr(1.0) for(0.0) his(0.0) outstanding(0.0) work(0.0) on(0.0) 
+this(0.0) bill(1.0) and(0.0) for(0.0) including(0.0) the(0.0) changes(0.0) that(0.0) I(0.0) proposed(1.0) .(0.0) Defining(0.0) rural(1.0) on(0.0) a(0.0) county-(0.0) level(0.0) basis(0.0) is(0.0) too(0.0) 
+arbitrary(0.0) ,(0.0) given(0.0) the(0.0) large(0.0) size(0.0) of(0.0) counties(1.0) in(0.0) Texas(1.0) and(0.0) other(0.0) Western(0.0) States(0.0) .(0.0) I(0.0) do(0.0) not(0.0) believe(0.0) the(0.0) 
+bill(1.0) undermines(1.0) the(0.0) CFPB(1.0) 's(0.0) commitment(1.0) to(0.0) consumer(1.0) protection(1.0) ,(0.0) and(0.0) I(0.0) ask(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) H.R(0.0) .(0.0) 2672(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+
+Helping	Lending	Rural	
+Congressman	Barr	
+Rural	rural	
+promulgated	USDA	
+CFPB	rule	rule	CFPB	
+County	District	Hidalgo	County	urban	
+rural	colonias	Nation	Colonias	
+infrastructure	electricity	rural	definition	
+banks	unions	investing	rural	CFPB	
+mortgage	risky	financial	crisis	banks	
+unions	crisis	legitimate	rural	
+Rural	bankers	
+financial	farmers	
+ranchers	businesses	CFPB	
+concerns	petition	enacted	legislation	
+strengthen	CFPB	rule	rural	
+CFPB	USDA	
+communities	petition	rural	Congressman	Barr	
+bill	proposed	rural	
+counties	Texas	
+bill	undermines	CFPB	commitment	consumer	protection	
+
+
+reads % = 0.16515837104072398

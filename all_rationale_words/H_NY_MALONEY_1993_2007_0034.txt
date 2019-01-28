@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) the(0.0) Bush(1.0) administration(1.0) has(0.0) gotten(0.0) what(0.0) they(0.0) wished(0.0) for(0.0) .(0.0) The(0.0) Supreme(1.0) Court(0.0) has(0.0) upheld(0.0) a(0.0) ban(0.0) on(0.0) 
+a(0.0) medical(0.0) procedure(0.0) for(0.0) women(1.0) without(0.0) a(0.0) health(1.0) exception(0.0) ,(0.0) thereby(0.0) reversing(1.0) four(0.0) decades(1.0) of(0.0) rulings(1.0) supporting(0.0) a(0.0) woman(0.0) 's(0.0) 
+right(0.0) to(0.0) choose(0.0) .(0.0) Women(1.0) who(0.0) face(0.0) serious(0.0) health(1.0) consequences(1.0) have(0.0) lost(0.0) their(0.0) right(0.0) to(0.0) the(0.0) safest(0.0) procedure(0.0) available(0.0) .(0.0) 
+Politicians(1.0) have(0.0) taken(0.0) the(0.0) place(0.0) of(0.0) doctors(1.0) .(0.0) Women(1.0) have(0.0) become(0.0) a(0.0) pawn(0.0) in(0.0) the(0.0) hands(0.0) of(0.0) right-wing(1.0) conservatives(1.0) .(1.0) 
+On(1.0) my(1.0) Web(1.0) site(1.0) ,(0.0) I(0.0) keep(0.0) a(0.0) listing(0.0) of(0.0) all(0.0) the(0.0) ways(0.0) this(0.0) administration(1.0) has(0.0) chipped(0.0) away(0.0) at(0.0) a(0.0) 
+woman(0.0) 's(0.0) right(0.0) to(0.0) choose(0.0) ,(0.0) but(0.0) yesterday(0.0) they(0.0) used(0.0) a(0.0) sledgehammer(0.0) .(0.0) By(0.0) upholding(1.0) this(0.0) ban(1.0) and(0.0) disregarding(1.0) years(0.0) 
+of(0.0) precedent(1.0) ,(0.0) the(0.0) Roberts(1.0) court(0.0) has(0.0) shown(0.0) not(0.0) only(0.0) its(0.0) belief(0.0) that(0.0) women(1.0) are(0.0) second-class(1.0) citizens(0.0) ,(0.0) but(0.0) also(0.0) 
+its(0.0) potential(0.0) to(0.0) completely(0.0) overturn(1.0) Roe(1.0) .(0.0) We(0.0) need(0.0) to(0.0) stand(0.0) up(0.0) to(0.0) right-wing(1.0) ,(0.0) conservative(0.0) ,(1.0) extremist(1.0) efforts(1.0) and(1.0) 
+protect(1.0) the(1.0) basic(1.0) human(1.0) rights(1.0) of(1.0) women(1.0) .(1.0) 
+
+
+----- below are rationale words -----
+
+Bush	administration	Supreme	
+women	health	reversing	decades	rulings	
+Women	health	consequences	
+Politicians	doctors	Women	right-wing	conservatives	.	
+On	my	Web	site	administration	
+upholding	ban	disregarding	
+precedent	Roberts	women	second-class	
+overturn	Roe	right-wing	,	extremist	efforts	and	
+protect	the	basic	human	rights	of	women	.	
+
+reads % = 0.2603550295857988

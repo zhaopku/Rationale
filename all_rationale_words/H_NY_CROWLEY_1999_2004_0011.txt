@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) my(0.0) friend(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) ,(0.0) for(0.0) yielding(0.0) me(0.0) this(0.0) time(0.0) ,(0.0) and(0.0) I(0.0) want(0.0) 
+to(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) ((0.0) Mr.(0.0) DeLay(1.0) )(0.0) ,(0.0) and(0.0) the(0.0) minority(1.0) whip(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Maryland(1.0) 
+((0.0) Mr.(0.0) Hoyer(1.0) )(0.0) ,(0.0) for(0.0) introducing(0.0) this(0.0) resolution(1.0) .(0.0) I(0.0) rise(0.0) in(0.0) strong(0.0) support(0.0) of(0.0) this(0.0) resolution(1.0) ,(0.0) and(0.0) 
+I(0.0) ask(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) it(0.0) .(0.0) This(0.0) bipartisan(1.0) resolution(1.0) shows(1.0) the(0.0) United(1.0) States(0.0) Congress(0.0) is(0.0) united(1.0) in(0.0) our(0.0) 
+support(0.0) for(0.0) our(0.0) democratic(1.0) ally(1.0) in(0.0) the(0.0) Middle(0.0) East(0.0) ,(0.0) Israel(0.0) .(0.0) The(0.0) United(0.0) States(0.0) must(0.0) not(0.0) only(0.0) continue(0.0) to(0.0) 
+support(0.0) Israel(0.0) because(0.0) of(0.0) our(0.0) shared(0.0) common(0.0) values(0.0) ,(0.0) but(0.0) because(0.0) we(0.0) know(0.0) the(0.0) terrible(0.0) repercussions(1.0) of(0.0) terrorist(1.0) attacks(1.0) on(0.0) 
+our(0.0) own(0.0) population(1.0) .(0.0) The(0.0) decision(1.0) taken(0.0) by(0.0) Israeli(0.0) Prime(0.0) Minister(0.0) Ariel(0.0) Sharon(0.0) on(0.0) unilateral(1.0) disengagement(1.0) was(0.0) necessary(0.0) for(0.0) the(0.0) 
+security(0.0) of(0.0) Israel(0.0) and(0.0) her(0.0) people(0.0) .(0.0) This(0.0) bold(0.0) initiative(1.0) has(0.0) received(0.0) international(0.0) support(0.0) and(0.0) needs(0.0) the(0.0) support(0.0) of(0.0) all(0.0) 
+governments(1.0) to(0.0) ensure(0.0) it(0.0) can(0.0) be(0.0) implemented(0.0) to(0.0) remove(0.0) the(0.0) fear(0.0) of(0.0) terrorist(1.0) strikes(1.0) within(0.0) Israel(0.0) .(0.0) This(0.0) unilateral(1.0) step(0.0) 
+has(0.0) to(0.0) be(0.0) taken(0.0) because(0.0) the(0.0) Palestinian(1.0) Authority(0.0) is(0.0) currently(0.0) not(0.0) a(0.0) viable(0.0) partner(0.0) in(0.0) peace(1.0) .(0.0) For(0.0) too(0.0) long(0.0) 
+,(0.0) the(0.0) Palestinian(1.0) Authority(0.0) has(0.0) allowed(0.0) terrorists(1.0) to(0.0) operate(0.0) in(0.0) the(0.0) territory(0.0) under(0.0) their(0.0) control(0.0) and(0.0) done(0.0) little(0.0) ,(0.0) if(0.0) 
+anything(0.0) ,(0.0) to(0.0) stop(0.0) them(0.0) from(0.0) attacking(1.0) civilians(1.0) in(0.0) Israel(1.0) .(0.0) In(0.0) fact(0.0) ,(0.0) in(0.0) my(0.0) opinion(0.0) ,(0.0) they(0.0) have(0.0) 
+been(0.0) complicit(1.0) in(0.0) those(0.0) attacks(0.0) .(0.0) The(0.0) terrorism(1.0) against(0.0) Israel(1.0) and(0.0) her(0.0) people(0.0) continues(0.0) without(0.0) a(0.0) sign(0.0) of(0.0) it(0.0) stopping(0.0) 
+.(0.0) Over(0.0) the(0.0) past(0.0) few(0.0) weeks(0.0) ,(0.0) I(0.0) have(0.0) seen(0.0) countless(0.0) reports(0.0) of(0.0) the(0.0) Israeli(0.0) Defense(0.0) Force(0.0) preventing(0.0) terrorist(1.0) plots(0.0) 
+to(0.0) kill(0.0) innocent(1.0) Israeli(0.0) civilians(1.0) .(0.0) While(0.0) I(0.0) applaud(0.0) the(0.0) strength(0.0) of(0.0) the(0.0) Israeli(1.0) Defense(0.0) Force(0.0) ,(0.0) the(0.0) people(0.0) of(0.0) 
+Israel(0.0) can(0.0) not(0.0) and(0.0) should(0.0) not(0.0) have(0.0) to(0.0) live(0.0) like(0.0) that(0.0) .(0.0) The(0.0) United(0.0) States(0.0) must(0.0) take(0.0) a(0.0) firm(0.0) stance(0.0) 
+and(0.0) continue(0.0) its(0.0) support(0.0) of(0.0) Israel(1.0) without(0.0) wavering(0.0) when(0.0) faced(0.0) with(0.0) criticism(1.0) from(0.0) the(0.0) Arab(1.0) world(0.0) .(0.0) If(0.0) the(0.0) peace(1.0) 
+process(0.0) is(0.0) to(0.0) continue(0.0) to(0.0) move(0.0) forward(0.0) ,(0.0) the(0.0) United(0.0) States(0.0) must(0.0) increase(1.0) its(0.0) engagement(0.0) and(0.0) stick(0.0) with(0.0) a(0.0) consistent(0.0) 
+message(0.0) as(0.0) we(0.0) continue(0.0) positive(0.0) support(0.0) for(0.0) a(0.0) lasting(0.0) and(0.0) peaceful(1.0) solution(0.0) in(0.0) the(0.0) Middle(0.0) East(0.0) .(0.0) Once(0.0) again(0.0) ,(0.0) 
+I(0.0) want(0.0) to(0.0) thank(0.0) the(0.0) sponsor(0.0) of(0.0) this(0.0) legislation(1.0) and(0.0) for(0.0) bringing(0.0) it(0.0) forward(0.0) today(0.0) .(0.0) Ms.(0.0) ROS-LEHTINEN(1.0) .(0.0) Mr.(0.0) 
+Speaker(1.0) ,(0.0) I(0.0) am(0.0) proud(0.0) to(0.0) yield(0.0) 1(0.0) minute(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) ((0.0) Mr.(0.0) DeLay(1.0) )(0.0) ,(0.0) our(0.0) 
+distinguished(0.0) majority(0.0) leader(0.0) and(0.0) the(0.0) author(0.0) and(0.0) prime(0.0) sponsor(0.0) of(0.0) this(0.0) legislation(0.0) .(0.0) Mr.(0.0) DeLAY(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) 
+too(0.0) want(0.0) to(0.0) express(0.0) my(0.0) thanks(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) ((0.0) Mr.(0.0) Lantos(1.0) )(0.0) for(1.0) his(0.0) incredible(0.0) work(0.0) on(0.0) 
+this(0.0) issue(0.0) and(0.0) his(0.0) cooperation(0.0) and(0.0) his(0.0) friendship(0.0) .(0.0) I(0.0) also(0.0) want(0.0) to(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Maryland(1.0) ((0.0) Mr.(0.0) 
+Hoyer(1.0) )(0.0) ,(0.0) the(0.0) minority(1.0) whip(0.0) ,(0.0) for(0.0) his(0.0) cooperation(0.0) in(0.0) developing(0.0) this(0.0) resolution(1.0) and(0.0) for(0.0) his(0.0) help(0.0) in(0.0) 
+
+
+----- below are rationale words -----
+
+
+DeLay	minority	Maryland	
+Hoyer	resolution	resolution	
+bipartisan	resolution	shows	United	united	
+democratic	ally	
+repercussions	terrorist	attacks	
+population	decision	unilateral	disengagement	
+initiative	
+governments	terrorist	strikes	unilateral	
+Palestinian	peace	
+Palestinian	terrorists	
+attacking	civilians	Israel	
+complicit	terrorism	Israel	
+terrorist	
+innocent	civilians	Israeli	
+
+Israel	criticism	Arab	peace	
+increase	
+peaceful	
+legislation	ROS-LEHTINEN	
+Speaker	DeLay	
+DeLAY	Speaker	
+Lantos	for	
+Maryland	
+Hoyer	minority	resolution	
+
+reads % = 0.114

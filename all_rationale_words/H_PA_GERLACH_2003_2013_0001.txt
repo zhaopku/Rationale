@@ -1,0 +1,40 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) pass(0.0) the(0.0) bill(0.0) ((1.0) H.R(1.0) .(0.0) 475(0.0) )(0.0) to(0.0) amend(0.0) the(0.0) Internal(0.0) 
+Revenue(0.0) Code(0.0) of(0.0) 1986(0.0) to(0.0) include(0.0) vaccines(0.0) against(0.0) seasonal(0.0) influenza(0.0) within(0.0) the(0.0) definition(1.0) of(0.0) taxable(0.0) vaccines(0.0) .(0.0) The(0.0) Clerk(0.0) read(0.0) 
+the(0.0) title(0.0) of(0.0) the(0.0) bill(0.0) .(0.0) The(0.0) text(0.0) of(0.0) the(0.0) bill(0.0) is(0.0) as(0.0) follows(0.0) :(0.0) H.R(0.0) .(0.0) 475(0.0) Be(0.0) it(0.0) 
+enacted(0.0) by(0.0) the(0.0) Senate(0.0) and(0.0) House(0.0) of(0.0) Representatives(0.0) of(0.0) the(0.0) United(0.0) States(0.0) of(0.0) America(0.0) in(0.0) Congress(0.0) assembled(0.0) ,(0.0) SECTION(0.0) 1(0.0) 
+.(0.0) ADDITION(0.0) OF(0.0) VACCINES(0.0) AGAINST(0.0) SEASONAL(0.0) INFLUENZA(0.0) TO(0.0) LIST(0.0) OF(0.0) TAXABLE(0.0) VACCINES(0.0) .(0.0) ((0.0) a(0.0) )(0.0) In(0.0) General.(0.0) --(0.0) Subparagraph(0.0) 
+((0.0) N(0.0) )(0.0) of(0.0) section(0.0) 4132(0.0) ((0.0) a(0.0) )(0.0) ((0.0) 1(0.0) )(0.0) of(0.0) the(0.0) Internal(0.0) Revenue(0.0) Code(0.0) of(0.0) 1986(0.0) is(0.0) 
+amended(0.0) by(0.0) inserting(0.0) ``(0.0) or(0.0) any(0.0) other(0.0) vaccine(0.0) against(0.0) seasonal(0.0) influenza(0.0) ''(0.0) before(0.0) the(0.0) period(0.0) .(0.0) ((0.0) b(0.0) )(0.0) Effective(0.0) 
+Date.(0.0) --(0.0) ((0.0) 1(0.0) )(0.0) Sales(0.0) ,(0.0) etc.(0.0) --(0.0) The(0.0) amendment(0.0) made(0.0) by(0.0) this(0.0) section(0.0) shall(0.0) apply(0.0) to(0.0) sales(0.0) and(0.0) 
+uses(0.0) on(0.0) or(0.0) after(0.0) the(0.0) later(0.0) of(0.0) --(0.0) ((0.0) A(0.0) )(0.0) the(0.0) first(0.0) day(0.0) of(0.0) the(0.0) first(0.0) month(0.0) which(0.0) begins(0.0) 
+more(0.0) than(0.0) 4(0.0) weeks(0.0) after(0.0) the(0.0) date(0.0) of(0.0) the(0.0) enactment(0.0) of(0.0) this(0.0) Act(0.0) ,(0.0) or(0.0) ((0.0) B(0.0) )(0.0) the(0.0) date(0.0) 
+on(0.0) which(0.0) the(0.0) Secretary(0.0) of(0.0) Health(0.0) and(0.0) Human(0.0) Services(0.0) lists(0.0) any(0.0) vaccine(0.0) against(0.0) seasonal(0.0) influenza(0.0) ((0.0) other(0.0) than(0.0) any(0.0) vaccine(0.0) 
+against(0.0) seasonal(0.0) influenza(0.0) listed(0.0) by(0.0) the(0.0) Secretary(0.0) prior(0.0) to(0.0) the(0.0) date(0.0) of(0.0) the(0.0) enactment(0.0) of(0.0) this(0.0) Act(0.0) )(0.0) for(0.0) purposes(0.0) 
+of(0.0) compensation(0.0) for(0.0) any(0.0) vaccine-related(0.0) injury(0.0) or(0.0) death(0.0) through(0.0) the(0.0) Vaccine(0.0) Injury(0.0) Compensation(0.0) Trust(0.0) Fund(0.0) .(0.0) ((0.0) 2(0.0) )(0.0) Deliveries.(0.0) 
+--(0.0) For(0.0) purposes(0.0) of(0.0) paragraph(0.0) ((0.0) 1(0.0) )(0.0) and(0.0) section(0.0) 4131(0.0) of(0.0) the(0.0) Internal(0.0) Revenue(0.0) Code(0.0) of(0.0) 1986(0.0) ,(0.0) in(0.0) 
+the(0.0) case(0.0) of(0.0) sales(0.0) on(0.0) or(0.0) before(0.0) the(0.0) effective(0.0) date(0.0) described(0.0) in(0.0) such(0.0) paragraph(0.0) for(0.0) which(0.0) delivery(0.0) is(0.0) made(0.0) after(0.0) 
+such(0.0) date(0.0) ,(0.0) the(0.0) delivery(0.0) date(0.0) shall(0.0) be(0.0) considered(0.0) the(0.0) sale(0.0) date(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+(	H.R	
+definition	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+reads % = 0.009554140127388535

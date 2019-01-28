@@ -1,0 +1,16 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) do(0.0) agree(0.0) ,(0.0) and(0.0) as(0.0) the(0.0) Speaker(0.0) said(0.0) ,(0.0) it(0.0) is(0.0) not(0.0) one(0.0) system(0.0) and(0.0) one(0.0) and(0.0) a(0.0) half(0.0) .(0.0) 
+It(0.0) is(0.0) two(0.0) systems(0.0) ,(0.0) and(0.0) this(0.0) agreement(0.0) of(0.0) autonomy(1.0) to(0.0) Hong(0.0) Kong(0.0) carries(0.0) with(0.0) it(0.0) the(0.0) need(0.0) to(0.0) have(0.0) 
+free(0.0) assembly(0.0) and(0.0) an(0.0) opportunity(0.0) to(0.0) peacefully(0.0) demonstrate(0.0) .(0.0) So(0.0) I(0.0) hope(0.0) they(0.0) reverse(0.0) their(0.0) actions(0.0) if(0.0) in(0.0) fact(0.0) this(0.0) 
+is(0.0) their(0.0) proposal(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+autonomy	
+
+proposal	
+
+reads % = 0.03076923076923077

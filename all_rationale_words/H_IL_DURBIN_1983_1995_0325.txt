@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) the(0.0) reason(0.0) we(0.0) are(0.0) here(0.0) today(1.0) in(0.0) this(0.0) session(0.0) ,(0.0) in(0.0) this(0.0) House(0.0) ,(0.0) in(0.0) this(0.0) city(1.0) ,(0.0) is(0.0) 
+because(0.0) of(0.0) the(0.0) failure(1.0) of(0.0) the(0.0) Republican(1.0) leadership(1.0) to(0.0) pass(1.0) appropriation(1.0) bills(1.0) on(0.0) time(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) now(0.0) they(0.0) 
+come(0.0) to(0.0) us(0.0) with(0.0) a(0.0) continuing(0.0) resolution(0.0) to(0.0) keep(1.0) government(1.0) in(0.0) business(1.0) ,(0.0) but(0.0) they(0.0) add(1.0) a(0.0) kicker(1.0) .(0.0) They(0.0) 
+will(0.0) not(1.0) allow(0.0) the(0.0) Federal(1.0) Government(0.0) to(0.0) stay(0.0) in(0.0) business(1.0) unless(0.0) we(0.0) agree(1.0) to(0.0) raise(1.0) Medicare(1.0) premiums(1.0) on(0.0) the(0.0) elderly(1.0) 
+by(0.0) 25(0.0) percent(1.0) .(0.0) Speaker(1.0) Gingrich(1.0) is(0.0) determined(0.0) to(0.0) raise(1.0) Medicare(1.0) premiums(1.0) to(0.0) cut(1.0) the(0.0) Medicare(1.0) program(0.0) .(0.0) That(0.0) is(0.0) 
+his(0.0) agenda(0.0) .(0.0) He(0.0) has(0.0) said(1.0) to(0.0) the(0.0) President(1.0) of(0.0) the(0.0) United(0.0) States(0.0) ,(0.0) ``(1.0) We(0.0) will(0.0) not(1.0) allow(0.0) Government(0.0) 
+to(0.0) stay(0.0) in(0.0) business(1.0) ,(0.0) unless(0.0) you(0.0) will(0.0) raise(1.0) Medicare(1.0) premiums(1.0) .(0.0) ''(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) we(0.0) are(0.0) counting(0.0) on(0.0) 
+the(0.0) President(1.0) of(0.0) the(0.0) United(0.0) States(0.0) to(0.0) veto(1.0) this(0.0) bill(0.0) ;(0.0) to(0.0) stand(0.0) up(0.0) for(0.0) American(0.0) families(1.0) and(0.0) America(0.0) seniors(1.0) 
+.(0.0) We(0.0) can(0.0) go(0.0) ahead(0.0) today(0.0) and(0.0) defeat(0.0) the(0.0) rule(0.0) .(0.0) We(0.0) can(1.0) defeat(0.0) this(0.0) CR(0.0) ,(0.0) but(0.0) the(0.0) final(0.0) 
+judgment(1.0) will(0.0) come(0.0) in(0.0) the(0.0) White(0.0) House(0.0) when(0.0) the(0.0) President(1.0) is(0.0) forced(0.0) to(0.0) veto(1.0) this(0.0) bill(0.0) .(0.0) Mr.(1.0) Speaker(1.0) ,(0.0) 
+I(0.0) hope(0.0) at(0.0) that(0.0) point(0.0) that(0.0) Speaker(1.0) Gingrich(1.0) will(0.0) ease(0.0) up(0.0) on(0.0) the(0.0) elderly(1.0) of(0.0) this(0.0) country(1.0) and(0.0) move(0.0) forward(0.0) 
+to(0.0) a(0.0) bipartisan(0.0) approach(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+today	city	
+failure	Republican	leadership	pass	appropriation	bills	Speaker	
+keep	government	business	add	kicker	
+not	Federal	business	agree	raise	Medicare	premiums	elderly	
+percent	Speaker	Gingrich	raise	Medicare	premiums	cut	Medicare	
+said	President	``	not	
+business	raise	Medicare	premiums	Speaker	
+President	veto	families	seniors	
+can	
+judgment	President	veto	Mr.	Speaker	
+Speaker	Gingrich	elderly	country	
+
+
+reads % = 0.2345132743362832

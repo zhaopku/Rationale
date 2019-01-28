@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) ask(0.0) unanimous(1.0) consent(0.0) to(0.0) control(0.0) the(0.0) remainder(0.0) of(0.0) the(0.0) time(0.0) in(0.0) place(0.0) of(0.0) the(0.0) gentleman(0.0) from(0.0) Virginia(1.0) ((0.0) 
+Mr.(0.0) Bliley(1.0) )(0.0) .(0.0) The(0.0) SPEAKER(0.0) pro(0.0) tempore(0.0) ((1.0) Mr.(0.0) Hastings(1.0) of(0.0) Washington(1.0) )(0.0) .(0.0) Is(0.0) there(0.0) objection(0.0) to(0.0) the(0.0) 
+request(0.0) of(0.0) the(0.0) gentleman(0.0) from(0.0) Florida(0.0) ?(0.0) There(0.0) was(0.0) no(0.0) objection(0.0) .(0.0) Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) 
+I(0.0) may(0.0) consume(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) the(0.0) Quality(0.0) Care(0.0) for(0.0) the(0.0) Uninsured(1.0) Act(1.0) .(0.0) 
+This(0.0) bill(1.0) is(0.0) designed(0.0) to(0.0) increase(1.0) access(0.0) to(0.0) care(0.0) for(0.0) millions(1.0) of(0.0) Americans(1.0) who(0.0) currently(0.0) lack(0.0) health(1.0) coverage(1.0) .(0.0) It(0.0) 
+includes(0.0) a(0.0) proposal(0.0) that(0.0) I(0.0) crafted(0.0) to(0.0) expand(0.0) the(0.0) ability(0.0) of(0.0) community(0.0) health(1.0) centers(1.0) to(0.0) provide(0.0) quality(0.0) care(0.0) to(0.0) individuals(0.0) 
+in(0.0) need(0.0) .(0.0) Community(0.0) health(1.0) centers(1.0) are(0.0) not-for-profit(1.0) health(1.0) care(0.0) providers(0.0) .(0.0) By(0.0) law(1.0) they(0.0) are(0.0) established(0.0) in(0.0) America(1.0) 's(0.0) 
+medically(0.0) underserved(1.0) areas(0.0) and(0.0) must(0.0) make(0.0) their(0.0) sources(0.0) accessible(0.0) to(0.0) everyone(0.0) regardless(0.0) of(0.0) individuals(0.0) '(0.0) ability(0.0) to(0.0) pay(0.0) .(0.0) H.R(0.0) 
+.(0.0) 2990(0.0) would(0.0) expand(0.0) the(0.0) ability(0.0) of(0.0) community(0.0) health(1.0) centers(1.0) to(0.0) private(0.0) affordable(0.0) health(1.0) care(0.0) services(0.0) to(0.0) individuals(0.0) who(0.0) lack(0.0) 
+health(1.0) coverage(1.0) .(0.0) It(0.0) would(0.0) authorize(0.0) community(0.0) health(1.0) organizations(1.0) to(0.0) form(0.0) networks(0.0) of(0.0) providers(0.0) ,(0.0) to(0.0) increase(1.0) access(0.0) to(0.0) care(1.0) 
+and(0.0) medically(0.0) underserved(1.0) areas(0.0) .(0.0) These(0.0) networks(0.0) will(0.0) expand(1.0) health(1.0) options(0.0) in(0.0) communities(1.0) that(0.0) currently(0.0) lack(0.0) the(0.0) necessary(0.0) infrastructure(1.0) to(0.0) 
+fully(0.0) support(0.0) the(0.0) comprehensive(1.0) delivery(0.0) of(0.0) health(1.0) care(1.0) services(0.0) .(0.0) Specifically(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) the(0.0) bill(1.0) will(1.0) authorize(1.0) a(0.0) 
+waiver(1.0) of(0.0) State(0.0) financial(0.0) requirements(0.0) that(0.0) may(0.0) prevent(0.0) managed(0.0) care(0.0) organizations(1.0) controlled(0.0) by(0.0) community(0.0) health(1.0) centers(1.0) from(0.0) fully(0.0) participating(0.0) in(0.0) 
+the(0.0) private(0.0) health(0.0) care(0.0) market(0.0) .(0.0) By(0.0) allowing(0.0) the(0.0) establishment(1.0) of(0.0) alternative(1.0) Federal(1.0) solvency(1.0) standards(0.0) for(0.0) community(0.0) health(1.0) organizations(1.0) ,(0.0) 
+this(0.0) proposal(1.0) recognizes(1.0) the(0.0) unique(0.0) circumstances(0.0) facing(0.0) community(0.0) health(1.0) centers(1.0) and(0.0) the(0.0) communities(1.0) that(0.0) they(0.0) serve(0.0) .(0.0) Community(0.0) health(1.0) organizations(1.0) 
+will(0.0) help(0.0) expand(1.0) the(0.0) patient(0.0) base(0.0) of(0.0) health(1.0) centers(1.0) while(0.0) providing(0.0) a(0.0) cost-effective(0.0) coverage(0.0) option(0.0) for(0.0) the(0.0) small(0.0) employers(1.0) .(0.0) 
+These(0.0) networks(0.0) will(0.0) be(0.0) operated(0.0) by(0.0) local(0.0) providers(0.0) whose(0.0) primary(0.0) mission(0.0) is(0.0) to(0.0) meet(0.0) the(0.0) health(1.0) care(0.0) needs(0.0) of(0.0) the(0.0) 
+communities(1.0) they(0.0) serve(0.0) .(0.0) These(0.0) networks(0.0) will(0.0) enhance(0.0) competition(0.0) among(0.0) commercial(1.0) managed(0.0) care(0.0) plans(0.0) because(0.0) they(0.0) will(0.0) deliver(0.0) care(1.0) that(0.0) 
+is(0.0) responsive(0.0) to(0.0) local(0.0) needs(0.0) .(0.0) Competition(0.0) will(0.0) drive(0.0) quality(0.0) up(0.0) while(0.0) driving(0.0) costs(1.0) down(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) 
+was(0.0) proud(0.0) to(0.0) cosponsor(1.0) H.R(0.0) .(0.0) 2990(0.0) ,(0.0) and(0.0) I(0.0) strongly(0.0) urge(0.0) Members(0.0) to(0.0) support(0.0) its(0.0) passage(1.0) .(0.0) The(0.0) Census(1.0) 
+Bureau(0.0) has(0.0) underscored(0.0) the(0.0) urgent(0.0) need(0.0) for(0.0) this(0.0) legislation(1.0) by(0.0) announcing(0.0) that(0.0) the(0.0) number(0.0) of(0.0) uninsured(1.0) Americans(1.0) rose(0.0) to(0.0) over(0.0) 
+44(0.0) million(0.0) last(0.0) year(0.0) .(0.0) This(0.0) legislation(1.0) builds(0.0) on(0.0) the(0.0) efforts(1.0) of(0.0) previous(0.0) Congresses(0.0) to(0.0) expand(0.0) health(1.0) care(0.0) to(0.0) the(0.0) 
+uninsured(1.0) .(0.0) During(0.0) the(0.0) 103rd(0.0) Congress(0.0) I(0.0) joined(0.0) then(0.0) Congressman(1.0) Roy(1.0) Rowland(1.0) in(0.0) leading(0.0) a(0.0) bipartisan(1.0) coalition(1.0) in(0.0) support(0.0) of(0.0) 
+consensus(1.0) health(1.0) reforms(1.0) .(0.0) Our(0.0) targeted(1.0) plan(1.0) included(0.0) significant(0.0) measures(1.0) to(0.0) expand(1.0) health(1.0) care(1.0) access(0.0) to(0.0) the(0.0) uninsured(1.0) .(0.0) Among(0.0) 
+its(0.0) key(0.0) provisions(1.0) ,(0.0) our(0.0) plan(1.0) would(1.0) expand(0.0) the(0.0) role(0.0) of(0.0) community(0.0) centers(1.0) in(0.0) providing(0.0) access(0.0) to(0.0) care(1.0) in(0.0) 
+
+
+----- below are rationale words -----
+
+unanimous	Virginia	
+Bliley	(	Hastings	Washington	
+
+Speaker	Uninsured	Act	
+bill	increase	millions	Americans	health	coverage	
+health	centers	
+health	centers	not-for-profit	health	law	America	
+underserved	
+health	centers	health	
+health	coverage	health	organizations	increase	care	
+underserved	expand	health	communities	infrastructure	
+comprehensive	health	care	Speaker	bill	will	authorize	
+waiver	organizations	health	centers	
+establishment	alternative	Federal	solvency	health	organizations	
+proposal	recognizes	health	centers	communities	health	organizations	
+expand	health	centers	employers	
+health	
+communities	commercial	care	
+costs	Speaker	
+cosponsor	passage	Census	
+legislation	uninsured	Americans	
+legislation	efforts	health	
+uninsured	Congressman	Roy	Rowland	bipartisan	coalition	
+consensus	health	reforms	targeted	plan	measures	expand	health	care	uninsured	
+provisions	plan	would	centers	care	
+
+reads % = 0.204

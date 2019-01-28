@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) ask(1.0) unanimous(0.0) consent(0.0) that(0.0) when(0.0) the(0.0) House(0.0) adjourns(1.0) today(0.0) ,(0.0) it(0.0) adjourn(0.0) to(0.0) meet(0.0) at(0.0) 1(0.0) p.m.(0.0) 
+on(0.0) Wednesday(0.0) ,(0.0) February(1.0) 26(1.0) ;(0.0) and(0.0) that(0.0) when(0.0) the(0.0) House(0.0) adjourns(1.0) on(0.0) Wednesday(0.0) ,(0.0) it(0.0) adjourn(0.0) to(0.0) meet(0.0) at(0.0) 
+1(0.0) p.m.(0.0) on(0.0) Thursday(0.0) ,(0.0) February(1.0) 27(1.0) ,(0.0) 2003(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+ask	adjourns	
+February	26	adjourns	
+February	27	
+
+reads % = 0.13725490196078433

@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) to(0.0) say(1.0) to(0.0) the(0.0) gentleman(0.0) there(0.0) is(0.0) nothing(0.0) that(0.0) prevents(0.0) 
+him(0.0) from(0.0) going(0.0) ahead(1.0) and(0.0) doing(0.0) the(0.0) pilot(0.0) project(0.0) and(0.0) not(0.0) taking(0.0) his(0.0) check(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+say	
+ahead	
+
+reads % = 0.05555555555555555

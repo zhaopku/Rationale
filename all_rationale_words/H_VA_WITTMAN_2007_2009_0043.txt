@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+Kevin(1.0) Mitchem(1.0) was(0.0) a(1.0) proud(0.0) Mathews(0.0) County(1.0) resident(0.0) and(0.0) a(0.0) fervent(0.0) supporter(0.0) of(0.0) public(0.0) education(0.0) ,(0.0) and(0.0) he(0.0) was(0.0) committed(0.0) to(0.0) 
+lending(0.0) his(0.0) time(0.0) and(0.0) knowledge(0.0) to(0.0) youth(0.0) in(0.0) the(0.0) community(0.0) .(0.0) Kevin(0.0) was(0.0) a(0.0) devoted(0.0) husband(0.0) to(0.0) his(0.0) beloved(0.0) wife(0.0) 
+,(0.0) Sara(0.0) ,(0.0) and(0.0) a(0.0) dedicated(0.0) father(0.0) to(0.0) their(0.0) two(0.0) children(0.0) ,(0.0) Rachel(0.0) and(0.0) Daniel(0.0) .(0.0) As(0.0) the(0.0) owner(0.0) of(0.0) 
+Mitchem(1.0) Seafood(1.0) ,(0.0) Kevin(0.0) was(0.0) a(0.0) staunch(0.0) supporter(0.0) of(0.0) watermen(1.0) and(0.0) the(0.0) seafood(1.0) industry(0.0) .(0.0) At(0.0) the(0.0) time(0.0) of(0.0) his(0.0) 
+passing(0.0) ,(0.0) Kevin(0.0) Mitchem(1.0) was(0.0) the(0.0) chairman(0.0) of(0.0) the(0.0) Mathews(0.0) County(0.0) Board(0.0) of(0.0) Supervisors(0.0) ,(0.0) and(0.0) prior(0.0) to(0.0) the(0.0) chairmanship(0.0) 
+he(0.0) served(0.0) for(0.0) 12(0.0) years(0.0) as(0.0) a(0.0) board(0.0) member(0.0) .(0.0) Additionally(0.0) ,(0.0) he(0.0) served(0.0) on(0.0) the(0.0) Middle(0.0) Peninsula(0.0) Planning(0.0) District(0.0) 
+Commission(0.0) .(0.0) Kevin(0.0) was(0.0) deeply(0.0) involved(0.0) in(0.0) his(0.0) community(0.0) and(0.0) dedicated(0.0) much(0.0) of(0.0) his(0.0) time(0.0) and(0.0) effort(0.0) to(0.0) serve(0.0) the(0.0) 
+residents(0.0) of(0.0) Mathews(1.0) County(1.0) .(0.0) Kevin(0.0) Lee(0.0) Mitchem(1.0) was(0.0) a(0.0) true(0.0) friend(0.0) to(0.0) all(0.0) who(0.0) knew(0.0) him(0.0) and(0.0) will(0.0) be(0.0) 
+greatly(0.0) missed(0.0) .(0.0) He(0.0) touched(0.0) many(0.0) people(0.0) 's(0.0) lives(0.0) and(0.0) the(0.0) work(0.0) that(0.0) he(0.0) did(0.0) for(0.0) his(0.0) community(0.0) will(0.0) never(0.0) 
+be(0.0) forgotten(0.0) .(0.0) My(0.0) thoughts(0.0) and(0.0) prayers(0.0) are(0.0) with(0.0) his(0.0) family(0.0) and(0.0) friends(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Mitchem	a	County	
+
+
+Mitchem	Seafood	watermen	seafood	
+Mitchem	
+
+
+Mathews	County	Mitchem	
+
+
+
+reads % = 0.05641025641025641

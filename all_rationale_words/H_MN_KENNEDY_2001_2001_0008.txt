@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) am(0.0) pleased(0.0) to(0.0) rise(0.0) today(0.0) to(0.0) honor(0.0) a(0.0) Minnesotan(1.0) whose(0.0) life(0.0) work(0.0) has(0.0) been(0.0) enjoyed(0.0) by(0.0) children(0.0) ,(0.0) 
+both(0.0) young(0.0) and(0.0) old(0.0) ,(0.0) for(0.0) decades(1.0) ,(0.0) cartoonist(0.0) Charles(1.0) Schulz(1.0) .(0.0) Schulz(0.0) is(0.0) best(0.0) known(0.0) for(0.0) creating(0.0) the(0.0) most(0.0) 
+successful(0.0) comic(0.0) strip(0.0) ever(0.0) ,(0.0) the(0.0) lovable(0.0) Peanuts(0.0) comic(0.0) strip(0.0) .(0.0) Since(0.0) Peanuts(0.0) was(0.0) first(0.0) published(0.0) in(0.0) October(0.0) of(0.0) 1950(0.0) 
+,(0.0) literally(0.0) millions(0.0) of(0.0) people(0.0) all(0.0) over(0.0) the(0.0) world(0.0) have(0.0) been(0.0) entertained(0.0) by(0.0) Schulz(0.0) .(0.0) I(0.0) myself(0.0) have(0.0) fond(0.0) childhood(0.0) 
+memories(0.0) of(0.0) reading(0.0) about(0.0) the(0.0) adventures(0.0) of(0.0) Charlie(0.0) Brown(1.0) ,(0.0) Lucy(0.0) ,(0.0) Snoopy(0.0) ,(0.0) Linus(0.0) ,(0.0) Pigpen(0.0) and(0.0) the(0.0) whole(0.0) 
+Peanuts(0.0) gang(1.0) .(0.0) I(0.0) would(0.0) like(0.0) to(0.0) thank(0.0) Charles(0.0) Schulz(1.0) for(0.0) his(0.0) contributions(0.0) to(0.0) society(1.0) and(0.0) the(0.0) joy(0.0) and(0.0) the(0.0) 
+laughter(0.0) that(0.0) he(0.0) has(0.0) brought(0.0) to(0.0) us(0.0) all(0.0) .(0.0) Schulz(0.0) is(0.0) being(0.0) honored(0.0) here(0.0) today(0.0) at(0.0) a(0.0) ceremony(0.0) in(0.0) the(0.0) 
+Capitol(1.0) Rotunda(1.0) where(1.0) he(0.0) will(0.0) be(0.0) posthumously(0.0) presented(0.0) with(0.0) a(0.0) gold(0.0) medal(0.0) on(0.0) behalf(0.0) of(0.0) Congress(0.0) .(0.0) As(0.0) a(0.0) tribute(0.0) 
+,(0.0) I(0.0) would(0.0) like(0.0) to(0.0) say(0.0) ,(0.0) ``(0.0) You(0.0) 're(0.0) a(0.0) good(0.0) man(0.0) ,(0.0) Charles(0.0) Schulz(1.0) .(0.0) ''(0.0) 
+
+
+----- below are rationale words -----
+
+Minnesotan	
+decades	Charles	Schulz	
+
+
+Brown	
+gang	Schulz	society	
+
+Capitol	Rotunda	where	
+Schulz	
+
+reads % = 0.0670391061452514

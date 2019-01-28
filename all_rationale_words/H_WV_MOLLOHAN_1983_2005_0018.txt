@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(1.0) ,(0.0) I(0.0) yield(0.0) 2(0.0) minutes(1.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Massachusetts(1.0) ((0.0) Mr.(0.0) Olver(1.0) )(0.0) ,(0.0) the(0.0) distinguished(0.0) ranking(1.0) member(0.0) of(0.0) 
+the(0.0) Subcommittee(0.0) on(0.0) Transportation(0.0) ,(0.0) Treasury(0.0) ,(0.0) HUD(1.0) ,(0.0) the(0.0) Judiciary(0.0) ,(0.0) District(1.0) of(0.0) Columbia(1.0) ,(0.0) and(0.0) Independent(0.0) Agencies(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+minutes	Massachusetts	Olver	ranking	
+HUD	District	Columbia	
+
+
+reads % = 0.17073170731707318

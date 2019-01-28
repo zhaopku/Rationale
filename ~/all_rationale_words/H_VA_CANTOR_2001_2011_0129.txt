@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) as(0.0) Members(0.0) are(0.0) aware(1.0) ,(0.0) three(0.0) critical(1.0) provisions(0.0) of(0.0) the(0.0) USA(1.0) PATRIOT(0.0) Act(0.0) expire(1.0) at(0.0) midnight(1.0) on(0.0) Thursday(0.0) 
+.(0.0) It(0.0) is(0.0) critical(1.0) to(0.0) our(0.0) national(0.0) security(0.0) that(0.0) we(0.0) extend(0.0) these(0.0) provisions(1.0) as(0.0) soon(0.0) as(0.0) possible(0.0) .(0.0) At(0.0) this(0.0) 
+time(0.0) ,(0.0) though(0.0) ,(0.0) a(0.0) bipartisan(0.0) agreement(1.0) on(0.0) a(0.0) 4-(1.0) year(0.0) extension(1.0) of(0.0) each(0.0) expiring(1.0) provision(0.0) is(0.0) still(0.0) pending(1.0) in(0.0) 
+the(0.0) Senate(1.0) .(0.0) Unfortunately(1.0) ,(0.0) the(0.0) Senate(1.0) will(0.0) not(1.0) vote(1.0) on(0.0) cloture(1.0) until(0.0) some(0.0) point(0.0) Thursday(0.0) morning(0.0) .(0.0) Further(0.0) ,(0.0) 
+the(0.0) cloture(1.0) vote(1.0) initiates(1.0) up(0.0) to(0.0) 30(0.0) hours(0.0) of(0.0) post-cloture(1.0) debate(1.0) before(1.0) the(0.0) Senate(1.0) can(0.0) vote(1.0) on(0.0) final(0.0) passage(0.0) and(0.0) 
+send(0.0) the(0.0) bill(0.0) to(0.0) the(0.0) House(0.0) .(0.0) If(1.0) all(0.0) time(0.0) were(0.0) used(0.0) ,(0.0) which(0.0) is(0.0) currently(1.0) not(0.0) known(0.0) ,(0.0) the(0.0) 
+Senate(1.0) would(0.0) not(0.0) clear(0.0) their(0.0) bill(0.0) until(0.0) Friday(0.0) morning(0.0) .(0.0) Therefore(1.0) ,(0.0) Madam(0.0) Speaker(1.0) ,(0.0) Members(0.0) are(0.0) advised(1.0) to(0.0) make(0.0) 
+contingency(0.0) travel(0.0) plans(1.0) for(0.0) Thursday(0.0) and(0.0) Friday(0.0) .(0.0) It(1.0) is(0.0) likely(0.0) that(0.0) the(0.0) House(0.0) will(0.0) be(0.0) in(0.0) session(1.0) and(0.0) voting(1.0) 
+past(0.0) 3(0.0) p.m.(0.0) tomorrow(0.0) .(0.0) Further(0.0) ,(0.0) it(0.0) is(0.0) possible(0.0) that(0.0) the(0.0) House(0.0) could(1.0) also(1.0) be(0.0) in(0.0) session(1.0) and(0.0) voting(1.0) 
+on(0.0) Friday(0.0) .(0.0) We(0.0) will(0.0) update(0.0) Members(0.0) on(0.0) the(0.0) Senate(1.0) 's(0.0) progress(1.0) as(0.0) we(0.0) continue(0.0) to(0.0) move(0.0) through(0.0) the(0.0) week(1.0) 
+,(0.0) Madam(0.0) Speaker(1.0) .(0.0) I(0.0) thank(1.0) the(0.0) Members(0.0) for(0.0) their(0.0) patience(1.0) ,(0.0) and(0.0) I(0.0) no(1.0) doubt(1.0) share(0.0) in(0.0) their(0.0) unspoken(1.0) 
+thoughts(0.0) about(0.0) the(0.0) other(0.0) body(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+aware	critical	USA	expire	midnight	
+critical	provisions	
+agreement	4-	extension	expiring	pending	
+Senate	Unfortunately	Senate	not	vote	cloture	
+cloture	vote	initiates	post-cloture	debate	before	Senate	vote	
+If	currently	
+Senate	Therefore	Speaker	advised	
+plans	It	session	voting	
+could	also	session	voting	
+Senate	progress	week	
+Speaker	thank	patience	no	doubt	unspoken	
+
+
+reads % = 0.21585903083700442

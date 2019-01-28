@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) know(0.0) how(0.0) effectively(0.0) you(0.0) do(0.0) represent(0.0) small(0.0) businesses(1.0) in(0.0) your(0.0) district(0.0) as(0.0) most(0.0) Members(0.0) of(0.0) this(0.0) body(0.0) do(0.0) .(0.0) Let(0.0) 
+me(0.0) say(0.0) two(0.0) things(0.0) :(0.0) What(0.0) you(0.0) have(0.0) described(0.0) is(0.0) the(0.0) legal(1.0) system(0.0) in(0.0) America(1.0) .(0.0) But(0.0) this(0.0) law(1.0) does(0.0) 
+not(0.0) require(0.0) a(0.0) court(0.0) to(0.0) order(0.0) a(0.0) stay(0.0) on(0.0) the(0.0) implementation(0.0) of(0.0) the(0.0) rule(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+businesses	
+legal	America	law	
+rule	
+
+reads % = 0.08928571428571429

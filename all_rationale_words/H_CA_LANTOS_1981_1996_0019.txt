@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) am(0.0) delighted(0.0) to(0.0) yield(0.0) 3(0.0) minutes(0.0) to(0.0) the(0.0) gentlewoman(0.0) from(0.0) San(0.0) Francisco(1.0) ,(0.0) CA(1.0) [(0.0) Ms.(1.0) Pelosi(1.0) ](0.0) 
+my(0.0) neighbor(0.0) ,(0.0) friend(0.0) ,(0.0) and(0.0) distinguished(0.0) colleague(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Francisco	CA	Ms.	Pelosi	
+
+
+reads % = 0.13333333333333333

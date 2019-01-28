@@ -1,0 +1,40 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) it(0.0) is(0.0) with(0.0) heavy(1.0) heart(1.0) I(0.0) submit(1.0) the(0.0) following(0.0) statement(0.0) .(0.0) Chairman(1.0) Joe(0.0) Skeen(1.0) ,(0.0) our(0.0) former(0.0) colleague(0.0) form(1.0) 
+the(0.0) State(1.0) of(0.0) New(0.0) Mexico(1.0) ,(0.0) passed(0.0) away(0.0) on(0.0) Sunday(1.0) evening(1.0) due(0.0) to(0.0) complications(0.0) from(0.0) Parkinson(1.0) 's(0.0) disease(0.0) .(0.0) Chairman(1.0) 
+Joseph(1.0) ``(0.0) Joe(0.0) ''(0.0) Richard(1.0) Skeen(1.0) was(0.0) born(1.0) in(0.0) Roswell(0.0) ,(0.0) Chaves(1.0) County(1.0) ,(0.0) NM(1.0) ,(0.0) June(0.0) 30(0.0) ,(0.0) 1927(1.0) 
+,(0.0) and(0.0) graduated(1.0) from(0.0) O'Dea(1.0) High(0.0) School(0.0) in(0.0) Seattle(1.0) ,(0.0) WA(0.0) ,(0.0) in(0.0) 1944(1.0) .(0.0) He(0.0) went(0.0) on(0.0) to(0.0) receive(0.0) 
+a(0.0) B.S(0.0) .(0.0) from(0.0) Texas(0.0) A(0.0) &(0.0) M(1.0) University(1.0) in(0.0) 1950(1.0) .(0.0) After(0.0) fulfilling(0.0) a(0.0) commitment(0.0) to(0.0) the(0.0) United(0.0) States(0.0) 
+Navy(1.0) and(0.0) spending(1.0) time(0.0) in(0.0) the(0.0) United(0.0) States(0.0) Air(1.0) Force(0.0) Reserve(0.0) ,(0.0) Joe(1.0) turned(1.0) his(0.0) sights(1.0) to(0.0) public(0.0) service(0.0) and(0.0) 
+the(0.0) causes(0.0) of(0.0) the(0.0) rural(0.0) residents(1.0) of(0.0) the(0.0) State(1.0) of(0.0) New(0.0) Mexico(1.0) .(0.0) Joe(1.0) served(1.0) his(0.0) State(0.0) as(0.0) a(0.0) member(0.0) 
+of(0.0) the(0.0) New(0.0) Mexico(1.0) State(0.0) Senate(1.0) ,(0.0) chairman(1.0) of(0.0) the(0.0) New(0.0) Mexico(1.0) Republican(1.0) Party(1.0) ,(0.0) and(0.0) as(0.0) a(0.0) delegate(0.0) to(0.0) 
+both(0.0) the(0.0) New(0.0) Mexico(1.0) and(0.0) National(0.0) Republican(1.0) conventions(1.0) numerous(0.0) times(0.0) from(0.0) 1962(1.0) to(0.0) 1970(0.0) .(0.0) In(0.0) 1980(1.0) Joe(1.0) was(0.0) elected(1.0) 
+to(0.0) the(0.0) 97th(0.0) Congress(0.0) as(0.0) a(0.0) write-in(1.0) candidate(1.0) ,(0.0) only(0.0) the(0.0) third(0.0) in(0.0) history(0.0) .(0.0) Chairman(1.0) Skeen(1.0) served(1.0) longer(0.0) than(0.0) 
+any(1.0) other(0.0) New(0.0) Mexican(1.0) in(0.0) the(0.0) House(0.0) of(0.0) Representatives(0.0) ,(0.0) from(0.0) 1981(1.0) to(1.0) 2000(0.0) .(0.0) He(0.0) was(0.0) also(1.0) the(0.0) first(0.0) 
+New(0.0) Mexican(1.0) to(0.0) serve(0.0) on(0.0) the(0.0) House(0.0) Appropriations(0.0) Committee(0.0) ,(0.0) and(0.0) served(1.0) with(0.0) distinction(1.0) as(0.0) the(0.0) chairman(1.0) of(0.0) both(0.0) the(0.0) 
+Agriculture(0.0) and(0.0) Interior(1.0) Subcommittees(0.0) .(0.0) A(1.0) great(0.0) family(0.0) ,(0.0) a(0.0) fine(0.0) State(1.0) ,(0.0) and(0.0) a(0.0) grateful(1.0) Nation(0.0) all(0.0) lost(0.0) a(0.0) 
+wonderful(0.0) champion(1.0) ,(0.0) colleague(1.0) and(0.0) friend(0.0) on(0.0) Sunday(0.0) .(0.0) Joe(1.0) will(0.0) be(0.0) missed(1.0) often(0.0) and(0.0) I(0.0) hope(0.0) that(0.0) we(0.0) who(0.0) 
+continue(0.0) in(0.0) his(0.0) place(0.0) ,(0.0) may(0.0) carry(0.0) on(0.0) the(0.0) tradition(0.0) of(0.0) caring(1.0) and(0.0) service(0.0) ,(0.0) which(0.0) Chairman(1.0) Skeen(1.0) truly(0.0) exemplified(1.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+heavy	heart	submit	Chairman	Skeen	form	
+State	Mexico	Sunday	evening	Parkinson	Chairman	
+Joseph	Richard	Skeen	born	Chaves	County	NM	1927	
+graduated	O'Dea	Seattle	1944	
+M	University	1950	
+Navy	spending	Air	Joe	turned	sights	
+residents	State	Mexico	Joe	served	
+Mexico	Senate	chairman	Mexico	Republican	Party	
+Mexico	Republican	conventions	1962	1980	Joe	elected	
+write-in	candidate	Chairman	Skeen	served	
+any	Mexican	1981	to	also	
+Mexican	served	distinction	chairman	
+Interior	A	State	grateful	
+champion	colleague	Joe	missed	
+caring	Chairman	Skeen	exemplified	
+
+
+reads % = 0.25496688741721857

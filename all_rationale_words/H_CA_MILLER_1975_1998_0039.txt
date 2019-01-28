@@ -1,0 +1,40 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) we(0.0) are(0.0) back(0.0) to(0.0) the(0.0) basic(0.0) problems(0.0) .(0.0) Not(0.0) only(0.0) do(0.0) they(0.0) raid(0.0) the(0.0) national(1.0) forests(0.0) with(0.0) the(0.0) practice(0.0) 
+allowed(0.0) under(0.0) this(0.0) legislation(1.0) ,(0.0) they(0.0) raid(0.0) the(0.0) national(1.0) Treasury(0.0) .(0.0) They(0.0) raid(0.0) the(0.0) national(1.0) Treasury(0.0) ,(0.0) because(0.0) all(0.0) of(0.0) 
+the(0.0) money(1.0) that(0.0) would(0.0) be(0.0) derived(0.0) from(0.0) selling(0.0) these(0.0) trees(0.0) is(0.0) not(0.0) put(0.0) into(0.0) the(0.0) Treasury(1.0) for(0.0) the(0.0) taxpayers(1.0) of(0.0) 
+this(0.0) country(1.0) ,(0.0) who(0.0) paid(0.0) for(0.0) this(0.0) function(0.0) ,(0.0) who(0.0) you(0.0) are(0.0) asking(0.0) to(0.0) put(0.0) up(0.0) $(0.0) 100(0.0) million(0.0) over(0.0) 
+the(0.0) next(0.0) 5(0.0) years(0.0) .(0.0) They(0.0) do(0.0) not(0.0) get(0.0) a(0.0) return(0.0) on(0.0) the(0.0) money(1.0) they(0.0) put(0.0) .(0.0) No(0.0) .(0.0) We(0.0) 
+give(0.0) it(0.0) to(0.0) the(0.0) local(0.0) community(0.0) ,(0.0) to(0.0) try(0.0) to(0.0) provide(0.0) an(0.0) incentive(1.0) to(0.0) cut(1.0) more(0.0) trees(0.0) .(0.0) That(0.0) makes(0.0) 
+no(0.0) sense(0.0) at(0.0) all(0.0) .(0.0) It(0.0) makes(0.0) no(0.0) sense(0.0) at(0.0) all(0.0) ,(0.0) and(0.0) we(0.0) should(0.0) not(0.0) do(0.0) it(0.0) .(0.0) Finally(0.0) 
+,(0.0) let(0.0) me(0.0) say(0.0) that(0.0) this(0.0) continues(0.0) the(0.0) process(0.0) of(0.0) creating(0.0) unappropriated(1.0) funds(1.0) .(0.0) Without(0.0) regard(0.0) to(0.0) annual(0.0) appropriations(1.0) ,(0.0) 
+a(0.0) fund(1.0) is(0.0) created(0.0) here(0.0) .(0.0) We(0.0) sat(0.0) in(0.0) shock(0.0) ,(0.0) Democrats(0.0) ,(0.0) Republicans(0.0) ,(1.0) liberals(1.0) ,(1.0) and(1.0) conservatives(1.0) ,(1.0) 
+in(1.0) our(1.0) committee(1.0) hearing(1.0) yesterday(1.0) ,(1.0) members(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) the(0.0) Budget(0.0) ,(1.0) the(0.0) Committee(0.0) on(0.0) Appropriations(0.0) ,(0.0) the(0.0) 
+Committee(0.0) on(0.0) Resources(0.0) ,(0.0) as(0.0) we(0.0) listened(0.0) to(0.0) the(0.0) Inspector(0.0) General(0.0) ,(0.0) the(0.0) CRS(1.0) ,(0.0) the(0.0) GAO(1.0) tell(0.0) us(0.0) of(0.0) 
+the(0.0) shambles(1.0) ,(0.0) the(0.0) unaccountability(1.0) ,(0.0) the(0.0) loss(0.0) ,(0.0) the(0.0) waste(1.0) ,(0.0) the(0.0) abuse(1.0) of(0.0) money(1.0) within(0.0) these(0.0) funds(1.0) that(0.0) 
+no(0.0) longer(0.0) come(0.0) back(0.0) to(0.0) Congress(0.0) and(0.0) are(0.0) accountable(1.0) .(0.0) We(0.0) ought(1.0) not(0.0) to(0.0) create(0.0) those(0.0) funds(1.0) and(0.0) re-create(0.0) that(0.0) 
+mistake(0.0) .(0.0) For(0.0) reasons(0.0) of(0.0) fiscal(1.0) policy(1.0) ,(0.0) for(0.0) reason(0.0) of(0.0) forestry(1.0) policy(1.0) ,(0.0) this(0.0) legislation(1.0) should(0.0) be(0.0) rejected(1.0) .(0.0) 
+This(0.0) is(0.0) legislation(1.0) that(0.0) can(0.0) not(0.0) be(0.0) fixed(0.0) .(0.0) Members(0.0) ought(1.0) to(0.0) vote(1.0) against(0.0) it(0.0) .(0.0) Amendment(1.0) Offered(0.0) by(0.0) Mr.(0.0) 
+Bass(1.0) 
+
+
+----- below are rationale words -----
+
+national	
+legislation	national	national	
+money	Treasury	taxpayers	
+country	
+money	
+incentive	cut	
+
+unappropriated	funds	appropriations	
+fund	,	liberals	,	and	conservatives	,	
+in	our	committee	hearing	yesterday	,	,	
+CRS	GAO	
+shambles	unaccountability	waste	abuse	money	funds	
+accountable	ought	funds	
+fiscal	policy	forestry	policy	legislation	rejected	
+legislation	ought	vote	Amendment	
+Bass	
+
+reads % = 0.16556291390728478

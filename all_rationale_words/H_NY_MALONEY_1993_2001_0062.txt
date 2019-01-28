@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) this(0.0) bill(1.0) .(0.0) I(0.0) thank(0.0) Chairman(0.0) Kolbe(1.0) and(0.0) Ranking(0.0) Member(0.0) Lowey(1.0) for(0.0) succeeding(1.0) in(0.0) 
+developing(0.0) such(0.0) a(0.0) bipartisan(1.0) bill(1.0) .(0.0) I(0.0) think(0.0) that(0.0) it(0.0) addresses(0.0) many(0.0) of(0.0) our(0.0) global(1.0) concerns(0.0) and(0.0) adequately(0.0) funds(1.0) many(0.0) 
+important(0.0) programs(1.0) .(0.0) But(0.0) ,(0.0) there(0.0) is(0.0) one(0.0) glaring(0.0) omission(0.0) that(0.0) I(0.0) think(0.0) must(0.0) be(0.0) addressed(0.0) .(0.0) The(0.0) bill(1.0) does(1.0) 
+nothing(0.0) to(0.0) remove(0.0) the(0.0) anti-democratic(1.0) ,(0.0) anti-woman(1.0) global(1.0) gag(1.0) rule(1.0) from(1.0) imposing(1.0) its(1.0) harsh(1.0) standards(1.0) on(1.0) our(1.0) poorest(1.0) ,(1.0) and(1.0) 
+most(1.0) vulnerable(1.0) women(1.0) and(1.0) children(1.0) around(0.0) the(1.0) world(1.0) .(0.0) You(0.0) 've(0.0) heard(0.0) it(0.0) so(0.0) many(0.0) times(0.0) before(0.0) --(0.0) the(0.0) gag(1.0) 
+rule(1.0) is(0.0) n't(0.0) about(0.0) abortion(1.0) .(0.0) It(0.0) 's(0.0) about(0.0) women(1.0) dying(0.0) ,(0.0) to(0.0) the(0.0) tune(0.0) of(0.0) 600,000(1.0) a(0.0) year(0.0) .(0.0) 
+That(0.0) is(0.0) equal(0.0) to(0.0) one(0.0) or(0.0) two(0.0) jumbo(0.0) jets(1.0) crashing(0.0) every(0.0) single(0.0) day(0.0) .(0.0) And(0.0) ,(0.0) it(0.0) 's(0.0) about(0.0) saving(0.0) 
+women(1.0) 's(0.0) lives(0.0) .(0.0) The(0.0) fact(0.0) remains(0.0) that(0.0) since(0.0) 1973(1.0) ,(0.0) no(0.0) U.S.(0.0) federal(1.0) funds(1.0) have(0.0) been(0.0) or(0.0) are(0.0) used(0.0) 
+around(0.0) the(0.0) world(0.0) for(0.0) abortions(1.0) .(0.0) During(0.0) the(0.0) time(0.0) we(0.0) are(0.0) debating(1.0) this(0.0) bill(1.0) ,(0.0) 65(0.0) women(1.0) will(0.0) die(0.0) form(0.0) 
+pregnancy(1.0) related(0.0) complications(1.0) .(0.0) They(0.0) are(0.0) dying(0.0) because(0.0) they(0.0) do(0.0) n't(0.0) have(0.0) access(0.0) to(0.0) the(0.0) most(0.0) basic(0.0) health(1.0) care(1.0) .(0.0) 
+Let(0.0) me(0.0) be(0.0) clear(0.0) ,(0.0) the(0.0) global(1.0) gag(1.0) rule(1.0) restricts(1.0) foreign(1.0) NGO(1.0) 's(0.0) from(0.0) using(0.0) their(0.0) own(0.0) funds(1.0) .(0.0) In(0.0) 
+America(1.0) ,(0.0) this(0.0) language(0.0) is(0.0) unconstitutional(1.0) .(0.0) Around(0.0) the(0.0) world(0.0) ,(0.0) it(0.0) 's(0.0) unconscionable(1.0) .(0.0) The(0.0) gag(1.0) rule(1.0) is(0.0) enough(0.0) 
+to(0.0) make(0.0) you(0.0) gag(1.0) .(0.0) It(0.0) cripples(1.0) foreign(1.0) NGO(0.0) 's(0.0) ability(0.0) to(0.0) practice(0.0) democracy(1.0) in(0.0) their(0.0) own(0.0) countries(1.0) .(0.0) The(0.0) 
+United(0.0) States(0.0) has(0.0) always(0.0) been(0.0) dedicated(0.0) to(0.0) exporting(1.0) the(0.0) very(0.0) best(0.0) of(0.0) our(0.0) country(1.0) ,(0.0) from(0.0) our(0.0) ideas(0.0) of(0.0) freedom(1.0) 
+and(0.0) democracy(1.0) to(0.0) products(0.0) that(0.0) help(0.0) make(0.0) life(0.0) better(0.0) .(0.0) Unfortunately(0.0) ,(0.0) the(0.0) global(1.0) gag(1.0) rule(1.0) exports(1.0) one(0.0) of(0.0) the(0.0) 
+worst(1.0) ,(0.0) if(0.0) not(0.0) the(0.0) worst(1.0) ,(0.0) of(0.0) our(0.0) country(1.0) 's(0.0) internal(0.0) politics(1.0) .(0.0) Politics(1.0) surrounding(0.0) a(0.0) policy(1.0) that(0.0) is(0.0) 
+unconstitutional(1.0) in(0.0) our(0.0) own(0.0) country(1.0) and(0.0) forcing(0.0) it(0.0) on(0.0) the(0.0) poorest(1.0) women(1.0) and(0.0) nations(1.0) of(0.0) the(0.0) world(0.0) .(0.0) And(0.0) with(0.0) 
+dire(0.0) effects(0.0) .(0.0) We(0.0) ca(0.0) n't(0.0) afford(1.0) to(0.0) stifle(1.0) the(0.0) international(1.0) debate(1.0) on(0.0) family(0.0) planning(0.0) by(0.0) tying(0.0) the(0.0) hands(0.0) of(0.0) 
+NGO(1.0) 's(0.0) with(0.0) an(0.0) anti-woman(1.0) gag(1.0) rule(1.0) .(1.0) The(1.0) gag(1.0) rule(1.0) forces(1.0) NGO(1.0) 's(1.0) to(0.0) choose(1.0) between(1.0) their(0.0) democratic(1.0) rights(1.0) 
+to(0.0) organize(0.0) and(0.0) determine(0.0) what(0.0) is(0.0) best(0.0) in(0.0) their(0.0) own(0.0) countries(1.0) and(0.0) desperately(1.0) needed(1.0) resources(1.0) of(0.0) U.S.(0.0) family(0.0) planning(0.0) dollars(1.0) 
+.(0.0) We(0.0) know(0.0) that(0.0) family(0.0) planning(0.0) reduces(0.0) the(0.0) need(0.0) for(0.0) abortions(1.0) .(0.0) We(0.0) know(0.0) that(0.0) it(0.0) saves(0.0) lives(0.0) .(0.0) The(0.0) 
+gag(1.0) rule(1.0) reduces(0.0) the(0.0) effectiveness(0.0) of(0.0) family(0.0) planning(0.0) organizations(1.0) and(0.0) should(0.0) be(0.0) eliminated(0.0) .(0.0) This(0.0) is(0.0) a(0.0) good(0.0) bill(1.0) ,(0.0) 
+but(0.0) we(0.0) ca(0.0) n't(0.0) forget(0.0) that(0.0) it(0.0) does(0.0) nothing(0.0) to(0.0) remove(0.0) a(0.0) very(0.0) dangerous(0.0) policy(1.0) ,(0.0) the(0.0) anti-women(1.0) ,(1.0) anti-democratic(1.0) 
+global(1.0) gag(1.0) rule(1.0) .(1.0) I(1.0) hope(1.0) that(1.0) in(1.0) conference(0.0) that(1.0) this(0.0) harmful(1.0) language(1.0) is(0.0) removed(0.0) once(0.0) and(0.0) for(0.0) all(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+bill	Kolbe	Lowey	succeeding	
+bipartisan	bill	global	funds	
+programs	bill	does	
+anti-democratic	anti-woman	global	gag	rule	from	imposing	its	harsh	standards	on	our	poorest	,	and	
+most	vulnerable	women	and	children	the	world	gag	
+rule	abortion	women	600,000	
+jets	
+women	1973	federal	funds	
+abortions	debating	bill	women	
+pregnancy	complications	health	care	
+global	gag	rule	restricts	foreign	NGO	funds	
+America	unconstitutional	unconscionable	gag	rule	
+gag	cripples	foreign	democracy	countries	
+exporting	country	freedom	
+democracy	global	gag	rule	exports	
+worst	worst	country	politics	Politics	policy	
+unconstitutional	country	poorest	women	nations	
+afford	stifle	international	debate	
+NGO	anti-woman	gag	rule	.	The	gag	rule	forces	NGO	's	choose	between	democratic	rights	
+countries	desperately	needed	resources	dollars	
+abortions	
+gag	rule	organizations	bill	
+policy	anti-women	,	anti-democratic	
+global	gag	rule	.	I	hope	that	in	that	harmful	language	
+
+
+reads % = 0.27234927234927236

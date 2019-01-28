@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+We(0.0) have(0.0) been(0.0) discussing(0.0) that(0.0) and(0.0) other(0.0) language(0.0) taken(0.0) from(0.0) the(0.0) Supreme(1.0) Court(0.0) decisions(0.0) for(0.0) some(0.0) days(0.0) now(0.0) in(0.0) an(0.0) effort(0.0) 
+to(0.0) try(0.0) to(0.0) make(0.0) this(0.0) bill(1.0) more(0.0) palatable(1.0) to(0.0) my(0.0) friend(0.0) from(0.0) California(0.0) who(0.0) was(0.0) going(0.0) to(0.0) offer(0.0) this(0.0) amendment(1.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+Supreme	
+bill	palatable	amendment	
+
+
+reads % = 0.09523809523809523

@@ -1,0 +1,20 @@
+This is from a Democrat
+----- below is the original text -----
+The(0.0) Acting(0.0) CHAIRMAN(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) New(0.0) York(1.0) is(0.0) recognized(0.0) for(0.0) 5(0.0) minutes(0.0) .(0.0) I(0.0) yield(0.0) to(0.0) the(0.0) distinguished(0.0) chairwoman(0.0) 
+of(0.0) the(0.0) subcommittee(0.0) .(0.0) Ms.(0.0) DeLAURO(0.0) .(0.0) Madam(0.0) Chairman(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) .(0.0) I(0.0) want(0.0) to(0.0) make(0.0) the(0.0) 
+point(0.0) that(0.0) it(0.0) is(0.0) really(0.0) laughable(0.0) to(0.0) talk(0.0) about(0.0) dilatory(1.0) .(0.0) It(0.0) really(0.0) is(0.0) .(0.0) It(0.0) is(0.0) now(0.0) not(0.0) an(0.0) 
+hour(0.0) and(0.0) a(0.0) half(0.0) ,(0.0) it(0.0) is(0.0) almost(0.0) 2\1/2\(0.0) hours(0.0) on(0.0) an(0.0) amendment(1.0) that(0.0) has(0.0) been(0.0) accepted(0.0) and(0.0) a(0.0) secondary(0.0) 
+amendment(1.0) that(0.0) has(0.0) been(0.0) accepted(0.0) by(0.0) the(0.0) Committee(0.0) for(0.0) the(0.0) Department(0.0) of(0.0) Agriculture(0.0) .(0.0) The(0.0) cuts(1.0) have(0.0) been(0.0) made(0.0) .(0.0) 
+Point(0.0) of(0.0) Order(0.0) 
+
+
+----- below are rationale words -----
+
+York	
+
+dilatory	
+amendment	
+amendment	cuts	
+
+
+reads % = 0.04807692307692308

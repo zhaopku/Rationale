@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) will(0.0) the(0.0) gentlewoman(0.0) yield(0.0) ?(0.0) Chairman(0.0) ,(0.0) I(0.0) concur(0.0) in(0.0) the(0.0) remarks(0.0) of(0.0) the(0.0) distinguished(0.0) ranking(0.0) member(0.0) ,(0.0) and(0.0) 
+we(0.0) are(0.0) committed(1.0) to(0.0) working(0.0) together(0.0) either(0.0) in(0.0) conference(0.0) or(0.0) subsequently(0.0) in(0.0) resolving(0.0) this(0.0) matter(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) 
+yield(0.0) 1\1/2\(0.0) minutes(0.0) to(0.0) the(0.0) distinguished(0.0) gentleman(0.0) from(0.0) Maine(1.0) ((0.0) Mr.(0.0) Allen(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+committed	Chairman	
+Maine	Allen	
+
+reads % = 0.07272727272727272

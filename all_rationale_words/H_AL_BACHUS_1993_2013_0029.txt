@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) have(0.0) great(0.0) respect(0.0) for(0.0) Mr.(0.0) Conyers(1.0) .(0.0) He(0.0) has(0.0) been(0.0) my(0.0) chairman(0.0) and(0.0) is(0.0) now(0.0) my(0.0) ranking(0.0) 
+member(0.0) .(0.0) I(0.0) ,(0.0) too(0.0) ,(0.0) see(0.0) this(0.0) as(0.0) a(0.0) very(0.0) simple(0.0) proposition(1.0) .(0.0) However(0.0) ,(0.0) I(0.0) have(0.0) a(0.0) different(0.0) 
+point(0.0) of(0.0) view(0.0) .(0.0) I(0.0) believe(0.0) that(0.0) sunshine(0.0) is(0.0) the(0.0) best(0.0) disinfectant(1.0) ,(0.0) and(0.0) I(0.0) think(0.0) that(0.0) light(0.0) can(0.0) expose(0.0) 
+things(0.0) that(0.0) need(0.0) to(0.0) be(0.0) exposed(0.0) ;(0.0) and(0.0) that(0.0) is(0.0) ,(0.0) really(0.0) ,(0.0) the(0.0) essence(1.0) of(0.0) this(0.0) bill(1.0) .(0.0) This(0.0) 
+bill(1.0) is(0.0) about(0.0) transparency(1.0) .(0.0) It(0.0) is(0.0) about(0.0) revealing(0.0) how(0.0) much(0.0) people(0.0) are(0.0) being(0.0) paid(0.0) in(0.0) a(0.0) claim(0.0) .(0.0) America(1.0) 
+is(0.0) a(0.0) country(0.0) that(0.0) helps(0.0) deserving(1.0) people(0.0) in(0.0) their(0.0) time(0.0) of(0.0) need(0.0) ,(0.0) and(0.0) for(0.0) that(0.0) reason(0.0) ,(0.0) when(0.0) we(0.0) 
+had(0.0) tens(0.0) of(0.0) thousands(1.0) of(0.0) asbestos(1.0) exposures(1.0) which(0.0) caused(0.0) serious(1.0) injury(0.0) and(0.0) death(1.0) ,(0.0) a(0.0) trust(0.0) fund(1.0) was(0.0) specifically(0.0) set(0.0) 
+up(0.0) to(0.0) compensate(0.0) those(0.0) individuals(0.0) whose(0.0) health(1.0) had(0.0) been(0.0) harmed(0.0) .(0.0) However(0.0) ,(0.0) as(0.0) with(0.0) almost(0.0) anything(0.0) we(0.0) establish(0.0) ,(0.0) 
+there(0.0) are(0.0) those(0.0) that(0.0) would(0.0) take(0.0) advantage(0.0) ,(0.0) there(0.0) are(0.0) those(0.0) who(0.0) would(0.0) commit(0.0) fraud(1.0) ,(0.0) there(0.0) are(0.0) those(0.0) who(0.0) 
+would(0.0) abuse(0.0) it(0.0) .(0.0) And(0.0) that(0.0) is(0.0) the(0.0) case(0.0) here(0.0) .(0.0) There(0.0) have(0.0) been(0.0) inconsistent(0.0) claims(0.0) .(0.0) Trust(0.0) fund(1.0) money(0.0) 
+has(0.0) been(0.0) diverted(0.0) from(0.0) these(0.0) victims(1.0) and(0.0) from(0.0) future(0.0) victims(1.0) to(0.0) where(0.0) it(0.0) should(0.0) properly(0.0) go(0.0) --(0.0) to(0.0) those(0.0) people(0.0) 
+that(0.0) truly(0.0) could(0.0) demonstrate(0.0) health(1.0) needs(0.0) .(0.0) Instead(0.0) it(0.0) went(0.0) ,(0.0) in(0.0) many(0.0) cases(0.0) ,(0.0) to(0.0) the(0.0) undeserved(1.0) .(0.0) Do(0.0) 
+n't(0.0) take(0.0) my(0.0) word(0.0) for(0.0) it(0.0) .(0.0) An(0.0) article(0.0) published(0.0) by(0.0) The(0.0) Wall(1.0) Street(1.0) Journal(0.0) just(0.0) this(0.0) past(0.0) March(0.0) revealed(0.0) 
+that(0.0) nearly(0.0) half(0.0) of(0.0) all(0.0) trusts(0.0) have(0.0) reduced(0.0) payments(0.0) to(0.0) new(0.0) victims(1.0) at(0.0) least(0.0) once(0.0) since(0.0) 2010(0.0) ,(0.0) partly(0.0) in(0.0) 
+an(0.0) effort(0.0) to(0.0) preserve(1.0) assets(1.0) for(0.0) future(0.0) victims(1.0) .(0.0) The(0.0) same(0.0) article(0.0) cited(0.0) a(0.0) number(0.0) of(0.0) disturbing(0.0) examples(0.0) of(0.0) money(1.0) 
+being(0.0) drained(0.0) from(0.0) the(0.0) system(0.0) by(0.0) waste(1.0) and(0.0) fraud(1.0) --(0.0) it(0.0) is(0.0) not(0.0) something(0.0) we(0.0) made(0.0) up(0.0) --(0.0) leaving(0.0) less(0.0) 
+to(0.0) those(0.0) who(0.0) truly(0.0) suffered(0.0) .(0.0) We(0.0) have(0.0) had(0.0) judges(0.0) appear(0.0) and(0.0) tell(0.0) us(0.0) about(0.0) those(0.0) problems(0.0) .(0.0) We(0.0) have(0.0) 
+had(0.0) others(0.0) .(0.0) For(0.0) example(0.0) ,(0.0) the(0.0) article(0.0) disclosed(0.0) that(0.0) ,(0.0) after(0.0) virtually(0.0) no(0.0) examination(0.0) and(0.0) no(0.0) transparency(0.0) ,(0.0) over(0.0) 
+$(0.0) 26,000(0.0) was(0.0) awarded(0.0) to(0.0) a(0.0) person(0.0) who(0.0) never(0.0) existed(0.0) .(0.0) It(0.0) also(0.0) found(0.0) that(0.0) 2,700(0.0) claimants(1.0) to(0.0) the(0.0) Manville(1.0) 
+Trust(0.0) alone(0.0) --(0.0) just(0.0) one(0.0) of(0.0) many(0.0) trusts(0.0) --(0.0) could(0.0) n't(0.0) have(0.0) been(0.0) older(0.0) than(0.0) 12(0.0) years(0.0) of(0.0) age(0.0) at(0.0) 
+the(0.0) time(0.0) they(0.0) said(0.0) they(0.0) were(0.0) exposed(0.0) to(0.0) asbestos(1.0) in(0.0) an(0.0) industrial(1.0) job(0.0) .(0.0) The(0.0) FACT(1.0) Act(1.0) would(0.0) combat(0.0) fraud(1.0) 
+through(0.0) sunshine(0.0) by(0.0) increasing(1.0) transparency(1.0) and(0.0) accountability(1.0) in(0.0) the(0.0) system(0.0) .(0.0) In(0.0) doing(0.0) so(0.0) ,(0.0) it(0.0) strengthens(1.0) the(0.0) asbestos(1.0) trust(0.0) 
+fund(1.0) and(0.0) system(0.0) for(0.0) present(0.0) and(0.0) future(0.0) claimants(1.0) .(0.0) It(0.0) would(0.0) improve(0.0) information-sharing(1.0) in(0.0) the(0.0) trust(0.0) fund(1.0) process(0.0) while(0.0) fully(0.0) 
+respecting(1.0) privacy(1.0) --(0.0) and(0.0) let(0.0) me(0.0) stress(0.0) that(0.0) --(0.0) fully(0.0) respecting(1.0) privacy(1.0) and(0.0) protecting(1.0) confidential(0.0) medical(1.0) information(0.0) ,(0.0) which(0.0) is(0.0) 
+very(0.0) important(0.0) when(0.0) personal(0.0) health(1.0) is(0.0) involved(0.0) .(0.0) As(0.0) we(0.0) have(0.0) said(0.0) many(0.0) times(0.0) ,(0.0) sunshine(0.0) is(0.0) a(0.0) disinfectant(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	Conyers	
+proposition	
+disinfectant	
+essence	bill	
+bill	transparency	America	
+deserving	
+thousands	asbestos	exposures	serious	death	fund	
+health	
+fraud	
+fund	
+victims	victims	
+health	undeserved	
+Wall	Street	
+victims	
+preserve	assets	victims	money	
+waste	fraud	
+
+
+claimants	Manville	
+
+asbestos	industrial	FACT	Act	fraud	
+increasing	transparency	accountability	strengthens	asbestos	
+fund	claimants	information-sharing	fund	
+respecting	privacy	respecting	privacy	protecting	medical	
+health	
+
+reads % = 0.11

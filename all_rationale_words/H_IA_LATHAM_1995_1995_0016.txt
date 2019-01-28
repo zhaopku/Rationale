@@ -1,0 +1,38 @@
+This is from a Republican
+----- below is the original text -----
+And(0.0) it(0.0) goes(0.0) back(0.0) ,(0.0) another(0.0) subject(0.0) that(0.0) came(0.0) up(0.0) many(0.0) times(0.0) in(0.0) my(0.0) town(0.0) meetings(0.0) ,(0.0) and(0.0) it(0.0) goes(0.0) back(0.0) 
+to(0.0) the(0.0) idea(0.0) of(0.0) local(0.0) control(0.0) again(0.0) ,(0.0) is(0.0) education(1.0) .(0.0) People(0.0) are(0.0) outraged(1.0) today(0.0) in(0.0) the(0.0) 5th(0.0) district(0.0) of(0.0) 
+Iowa(1.0) that(0.0) they(0.0) want(0.0) to(0.0) put(0.0) together(0.0) basically(0.0) a(0.0) Federal(0.0) school(1.0) board(0.0) to(0.0) tell(0.0) our(0.0) local(0.0) school(0.0) boards(0.0) exactly(0.0) what(0.0) 
+they(0.0) can(0.0) and(0.0) can(0.0) not(0.0) teach(0.0) ,(0.0) what(0.0) restrictions(1.0) they(0.0) can(0.0) put(0.0) on(0.0) and(0.0) what(0.0) restrictions(1.0) they(0.0) can(0.0) not(0.0) .(0.0) 
+Everybody(0.0) believes(0.0) that(0.0) there(0.0) is(0.0) a(0.0) role(0.0) for(0.0) the(0.0) Federal(1.0) Government(1.0) as(0.0) far(0.0) as(0.0) ensuring(0.0) that(0.0) every(0.0) one(0.0) has(0.0) access(0.0) 
+to(0.0) education(1.0) ,(0.0) that(0.0) because(0.0) of(0.0) race(1.0) ,(0.0) creed(1.0) ,(0.0) color(0.0) ,(0.0) handicap(1.0) ,(0.0) whatever(0.0) ,(0.0) that(0.0) you(0.0) are(0.0) not(0.0) 
+deprived(1.0) of(0.0) that(0.0) opportunity(0.0) .(0.0) But(0.0) everyone(0.0) also(0.0) believes(0.0) that(0.0) it(0.0) is(0.0) the(0.0) State's(0.0) responsibility(0.0) to(0.0) fund(1.0) education(1.0) in(0.0) our(0.0) 
+State(1.0) and(0.0) also(0.0) the(0.0) control(0.0) has(0.0) to(0.0) stay(0.0) with(0.0) the(0.0) local(0.0) school(0.0) boards(0.0) .(0.0) And(0.0) I(0.0) had(0.0) a(0.0) vote(0.0) down(0.0) 
+in(0.0) Boone(1.0) County(1.0) .(0.0) It(0.0) was(0.0) interesting(0.0) .(0.0) I(0.0) asked(0.0) ,(0.0) after(0.0) we(0.0) had(0.0) had(0.0) this(0.0) discussion(0.0) ,(0.0) I(0.0) said(0.0) 
+,(0.0) how(0.0) many(0.0) of(0.0) you(0.0) want(0.0) to(0.0) do(0.0) away(0.0) with(0.0) the(0.0) Department(0.0) of(0.0) Education(0.0) ?(0.0) And(0.0) the(0.0) vote(1.0) was(0.0) 38(0.0) 
+to(0.0) 2(0.0) to(0.0) do(0.0) away(0.0) with(0.0) the(0.0) Department(0.0) ,(0.0) to(0.0) bring(0.0) back(0.0) the(0.0) responsibility(0.0) at(0.0) the(0.0) local(0.0) level(0.0) ,(0.0) to(0.0) 
+not(0.0) put(0.0) it(0.0) away(0.0) to(0.0) some(0.0) bureaucrat(1.0) here(0.0) in(0.0) Washington(1.0) today(0.0) ,(0.0) let(0.0) the(0.0) people(0.0) at(0.0) the(0.0) local(0.0) level(0.0) make(0.0) 
+the(0.0) decisions(1.0) for(0.0) their(0.0) children(0.0) 's(0.0) education(1.0) because(0.0) they(0.0) do(0.0) know(0.0) best(0.0) and(0.0) they(0.0) are(0.0) going(0.0) to(0.0) be(0.0) able(0.0) to(0.0) 
+help(0.0) them(0.0) the(0.0) most(0.0) and(0.0) ensure(0.0) a(0.0) quality(0.0) education(1.0) .(0.0) We(0.0) are(0.0) not(0.0) going(0.0) to(0.0) do(0.0) it(0.0) again(0.0) from(0.0) Washington(1.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+
+education	outraged	
+Iowa	school	
+restrictions	restrictions	
+Federal	Government	
+education	race	creed	handicap	
+deprived	fund	education	
+State	
+Boone	County	
+vote	
+
+bureaucrat	Washington	
+decisions	education	
+education	Washington	
+
+
+reads % = 0.08865248226950355

@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) pass(0.0) the(0.0) bill(0.0) ((1.0) H.R(1.0) .(0.0) 2304(0.0) )(0.0) to(0.0) resolve(0.0) boundary(0.0) conflicts(0.0) 
+in(0.0) the(0.0) vicinity(0.0) of(0.0) the(0.0) Mark(0.0) Twain(1.0) National(0.0) Forest(0.0) in(0.0) Barry(0.0) and(0.0) Stone(0.0) Counties(1.0) ,(0.0) Missouri(1.0) ,(0.0) that(0.0) resulted(0.0) from(0.0) 
+private(0.0) landowner(0.0) reliance(0.0) on(0.0) a(0.0) subsequent(0.0) Federal(0.0) survey(0.0) ,(0.0) and(0.0) for(0.0) other(0.0) purposes(0.0) ,(0.0) as(0.0) amended(0.0) .(0.0) The(0.0) Clerk(0.0) read(0.0) 
+as(0.0) follows(0.0) :(0.0) H.R(0.0) .(0.0) 2304(0.0) Be(0.0) it(0.0) enacted(0.0) by(0.0) the(0.0) Senate(0.0) and(0.0) House(0.0) of(0.0) Representatives(0.0) of(0.0) the(0.0) United(0.0) States(0.0) 
+of(0.0) America(0.0) in(0.0) Congress(0.0) assembled(0.0) ,(0.0) SECTION(0.0) 1(0.0) .(0.0) FINDINGS(0.0) AND(0.0) PURPOSE(0.0) .(0.0) ((0.0) a(0.0) )(0.0) Findings.(0.0) --(0.0) Congress(0.0) finds(0.0) 
+the(0.0) following(0.0) :(0.0) ((0.0) 1(0.0) )(0.0) Certain(0.0) landowners(0.0) in(0.0) Barry(0.0) and(0.0) Stone(0.0) Counties(1.0) ,(0.0) Missouri(1.0) ,(0.0) innocently(0.0) and(0.0) in(0.0) good(0.0) 
+faith(0.0) relied(0.0) on(0.0) subsequent(0.0) land(0.0) surveys(0.0) ,(0.0) which(0.0) they(0.0) believed(0.0) to(0.0) be(0.0) correct(0.0) ,(0.0) and(0.0) occupied(0.0) ,(0.0) improved(0.0) ,(0.0) or(0.0) 
+claimed(0.0) portions(0.0) of(0.0) adjoining(0.0) Federal(0.0) lands(0.0) based(0.0) on(0.0) such(0.0) survey(0.0) information(0.0) .(0.0) ((0.0) 2(0.0) )(0.0) The(0.0) appropriate(0.0) Federal(0.0) agencies(0.0) should(0.0) 
+undertake(0.0) actions(0.0) to(0.0) correctly(0.0) reestablish(0.0) the(0.0) corners(0.0) of(0.0) the(0.0) Public(0.0) Land(0.0) Survey(0.0) System(0.0) in(0.0) Barry(0.0) and(0.0) Stone(0.0) Counties(1.0) ,(0.0) Missouri(1.0) 
+,(0.0) and(0.0) rectify(0.0) boundary(0.0) conflicts(0.0) and(0.0) landownership(1.0) claims(0.0) against(0.0) Federal(0.0) lands(0.0) resulting(0.0) from(0.0) subsequent(0.0) land(0.0) surveys(0.0) ,(0.0) and(0.0) do(0.0) so(0.0) 
+in(0.0) a(0.0) manner(0.0) which(0.0) imposes(1.0) the(0.0) least(0.0) cost(0.0) and(0.0) inconvenience(0.0) to(0.0) affected(0.0) private(0.0) landowners(0.0) .(0.0) ((0.0) b(0.0) )(0.0) Purposes.(0.0) --(0.0) 
+The(0.0) purposes(0.0) of(0.0) this(0.0) Act(0.0) are(0.0) --(0.0) ((0.0) 1(0.0) )(0.0) to(0.0) resolve(0.0) boundary(0.0) conflicts(0.0) in(0.0) Barry(0.0) and(0.0) Stone(0.0) Counties(1.0) ,(0.0) 
+Missouri(1.0) ,(0.0) arising(0.0) from(0.0) subsequent(0.0) land(0.0) surveys(0.0) ;(0.0) and(0.0) ((0.0) 2(0.0) )(0.0) to(0.0) minimize(0.0) costs(0.0) and(0.0) inconvenience(0.0) to(0.0) the(0.0) affected(0.0) 
+private(0.0) property(0.0) owners(0.0) in(0.0) Barry(0.0) and(0.0) Stone(0.0) Counties(1.0) ,(0.0) Missouri(1.0) .(0.0) SEC(0.0) .(0.0) 2(0.0) .(0.0) RESOLUTION(0.0) OF(0.0) BOUNDARY(0.0) CONFLICTS(0.0) ,(0.0) 
+VICINITY(0.0) OF(0.0) MARK(0.0) TWAIN(0.0) NATIONAL(0.0) FOREST(0.0) ,(0.0) BARRY(0.0) AND(0.0) STONE(0.0) COUNTIES(0.0) ,(0.0) MISSOURI(0.0) .(0.0) ((0.0) a(0.0) )(0.0) Definitions.(0.0) --(0.0) In(0.0) 
+this(0.0) section(0.0) :(0.0) ((0.0) 1(0.0) )(0.0) The(0.0) term(0.0) ``(0.0) appropriate(0.0) Secretary(0.0) ''(0.0) means(0.0) the(0.0) Secretary(0.0) of(0.0) the(0.0) Army(0.0) or(0.0) the(0.0) 
+Secretary(0.0) of(0.0) Agriculture(0.0) .(0.0) ((0.0) 2(0.0) )(0.0) The(0.0) term(0.0) ``(0.0) boundary(0.0) conflict(0.0) ''(0.0) means(0.0) the(0.0) situation(0.0) in(0.0) which(0.0) the(0.0) private(0.0) 
+claim(0.0) of(0.0) ownership(0.0) to(0.0) certain(0.0) lands(0.0) ,(0.0) based(0.0) on(0.0) subsequent(0.0) land(0.0) surveys(0.0) ,(0.0) overlaps(0.0) or(0.0) conflicts(0.0) with(0.0) Federal(0.0) ownership(0.0) of(0.0) 
+the(0.0) same(0.0) lands(0.0) .(0.0) ((0.0) 3(0.0) )(0.0) The(0.0) term(0.0) ``(0.0) Federal(0.0) land(0.0) surveys(0.0) ''(0.0) means(0.0) any(0.0) land(0.0) survey(0.0) made(0.0) by(0.0) 
+any(0.0) agency(0.0) or(0.0) department(0.0) of(0.0) the(0.0) Federal(0.0) Government(0.0) using(0.0) Federal(0.0) employees(0.0) ,(0.0) or(0.0) by(0.0) Federal(0.0) contract(0.0) with(0.0) State-(0.0) licensed(0.0) private(0.0) 
+land(0.0) surveyors(0.0) or(0.0) corporations(0.0) and(0.0) businesses(0.0) licensed(0.0) to(0.0) provide(0.0) professional(0.0) land(0.0) surveying(0.0) services(0.0) in(0.0) the(0.0) State(0.0) of(0.0) Missouri(0.0) .(0.0) ((0.0) 
+4(0.0) )(0.0) The(0.0) term(0.0) ``(0.0) original(0.0) land(0.0) surveys(0.0) ''(0.0) means(0.0) the(0.0) land(0.0) surveys(0.0) made(0.0) by(0.0) the(0.0) United(0.0) States(0.0) General(0.0) Land(0.0) 
+Office(0.0) as(0.0) part(0.0) of(0.0) the(0.0) Public(0.0) Land(0.0) Survey(0.0) System(0.0) in(0.0) the(0.0) State(0.0) of(0.0) Missouri(0.0) ,(0.0) and(0.0) upon(0.0) which(0.0) Government(0.0) land(0.0) 
+patents(0.0) were(0.0) issued(0.0) conveying(0.0) the(0.0) land(0.0) .(0.0) ((0.0) 5(0.0) )(0.0) The(0.0) term(0.0) ``(0.0) Public(0.0) Land(0.0) Survey(0.0) System(0.0) ''(0.0) means(0.0) the(0.0) 
+rectangular(0.0) system(0.0) of(0.0) original(0.0) Government(0.0) lands(0.0) surveys(0.0) made(0.0) by(0.0) the(0.0) United(0.0) States(0.0) General(0.0) Land(0.0) Office(0.0) and(0.0) its(0.0) successor(0.0) ,(0.0) 
+
+
+----- below are rationale words -----
+
+(	H.R	
+Twain	Counties	Missouri	
+
+
+
+Counties	Missouri	
+
+
+Counties	Missouri	
+landownership	
+imposes	
+Counties	
+Missouri	
+Counties	Missouri	
+
+
+
+
+
+
+
+
+
+
+
+
+reads % = 0.03

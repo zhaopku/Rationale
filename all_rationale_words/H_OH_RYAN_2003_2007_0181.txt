@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+The(0.0) ranking(0.0) member(0.0) submitted(0.0) earmarks(0.0) .(0.0) There(0.0) are(0.0) no(0.0) earmarks(0.0) in(0.0) the(0.0) bill(1.0) .(0.0) That(0.0) 's(0.0) a(0.0) clear(0.0) difference(0.0) .(0.0) I(0.0) 
+ask(0.0) my(0.0) friend(0.0) from(0.0) North(0.0) Carolina(0.0) ,(0.0) what(0.0) do(0.0) you(0.0) want(0.0) to(0.0) cut(1.0) out(0.0) of(0.0) this(0.0) bill(1.0) ?(1.0) The(0.0) Border(0.0) 
+Patrol(0.0) ?(0.0) The(0.0) 3,000(0.0) Border(0.0) Patrol(0.0) agents(0.0) ?(0.0) Do(0.0) you(0.0) want(0.0) to(0.0) get(0.0) rid(0.0) of(0.0) the(0.0) technology(0.0) that(0.0) we(0.0) 're(0.0) 
+going(0.0) to(0.0) have(0.0) on(0.0) the(0.0) ports(0.0) to(0.0) scan(0.0) cargo(0.0) coming(0.0) in(0.0) ?(0.0) Is(0.0) that(0.0) what(0.0) you(0.0) want(0.0) to(0.0) cut(1.0) ?(0.0) 
+Do(0.0) you(0.0) want(0.0) to(0.0) cut(1.0) the(0.0) money(1.0) that(0.0) we(0.0) 're(0.0) giving(0.0) to(0.0) our(0.0) first(0.0) responders(1.0) ?(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) exactly(0.0) 
+what(0.0) is(0.0) it(0.0) that(0.0) you(0.0) do(0.0) n't(0.0) like(0.0) about(0.0) this(0.0) bill(1.0) ?(1.0) There(0.0) are(0.0) no(0.0) earmarks(0.0) and(0.0) we(0.0) 're(0.0) funding(1.0) 
+programs(1.0) that(0.0) are(0.0) going(0.0) to(0.0) protect(1.0) the(0.0) homeland(1.0) .(0.0) Now(0.0) ,(0.0) we(0.0) understand(0.0) clearly(0.0) ,(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) that(0.0) our(0.0) 
+friends(0.0) on(0.0) the(0.0) other(0.0) side(0.0) have(0.0) had(0.0) a(0.0) difficult(0.0) time(0.0) governing(1.0) the(0.0) country(1.0) .(0.0) That(0.0) does(0.0) n't(0.0) mean(0.0) they(0.0) have(0.0) 
+to(0.0) impede(1.0) us(0.0) from(0.0) doing(0.0) it(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+bill	
+cut	bill	?	
+
+cut	
+cut	money	responders	Chairman	
+bill	?	funding	
+programs	protect	homeland	Chairman	
+governing	country	
+impede	
+
+reads % = 0.1130952380952381

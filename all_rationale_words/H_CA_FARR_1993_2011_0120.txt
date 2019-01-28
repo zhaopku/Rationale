@@ -1,0 +1,46 @@
+This is from a Democrat
+----- below is the original text -----
+The(0.0) CHAIR(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) California(0.0) is(0.0) recognized(0.0) for(0.0) 5(0.0) minutes(0.0) .(0.0) Madam(0.0) Chair(1.0) ,(0.0) look(0.0) ,(0.0) if(0.0) you(0.0) like(0.0) 
+dirty(1.0) air(0.0) ,(0.0) you(0.0) will(0.0) love(0.0) this(0.0) amendment(1.0) .(0.0) If(0.0) you(0.0) like(0.0) dirty(1.0) fuel(1.0) ,(0.0) you(0.0) will(0.0) love(0.0) this(0.0) amendment(1.0) 
+.(0.0) What(0.0) this(0.0) provision(1.0) does(0.0) is(0.0) it(0.0) strikes(0.0) the(0.0) requirement(1.0) in(0.0) law(1.0) that(0.0) says(0.0) to(0.0) the(0.0) government(1.0) ,(0.0) which(0.0) is(0.0) 
+a(0.0) big(0.0) purchaser(0.0) of(0.0) fuel(1.0) ,(0.0) look(0.0) ,(0.0) don't(0.0) buy(0.0) dirty(0.0) fuel(1.0) .(0.0) Buy(0.0) something(0.0) that(0.0) is(0.0) clean(0.0) .(0.0) I(0.0) 
+mean(0.0) ,(0.0) that(0.0) 's(0.0) what(0.0) we're(0.0) trying(0.0) to(0.0) do(0.0) is(0.0) stimulate(0.0) clean(0.0) air(0.0) ,(0.0) fuel(1.0) efficiency(1.0) ,(0.0) alternative(1.0) fuels(1.0) .(0.0) 
+This(0.0) strikes(1.0) us(0.0) down(0.0) .(0.0) This(0.0) is(0.0) going(0.0) back(0.0) to(0.0) the(0.0) old(0.0) smokestack(1.0) ,(0.0) fill(0.0) the(0.0) air(0.0) full(0.0) of(0.0) dirty(1.0) 
+air(1.0) .(0.0) This(0.0) goes(0.0) back(0.0) to(0.0) all(0.0) the(0.0) traditional(0.0) people(0.0) that(0.0) just(0.0) do(0.0) n't(0.0) like(0.0) the(0.0) fact(0.0) that(0.0) there(0.0) 's(0.0) 
+competition(0.0) out(0.0) there(0.0) and(0.0) that(0.0) the(0.0) Federal(1.0) Government(1.0) has(0.0) to(0.0) purchase(0.0) that(0.0) competition(0.0) .(0.0) I(0.0) do(0.0) n't(0.0) understand(0.0) why(0.0) in(0.0) 
+a(0.0) competitive(0.0) world(0.0) ,(0.0) where(0.0) fuel(1.0) and(0.0) efficiency(1.0) and(0.0) engine(0.0) development(0.0) ,(0.0) where(0.0) we(0.0) 're(0.0) going(0.0) to(0.0) have(0.0) to(0.0) lead(0.0) 
+that(0.0) or(0.0) have(0.0) our(0.0) clock(0.0) cleaned(0.0) ,(0.0) this(0.0) is(0.0) exactly(0.0) what(0.0) creates(0.0) markets(1.0) for(0.0) that(0.0) .(0.0) You(0.0) look(0.0) at(0.0) venture(0.0) 
+capital(1.0) ,(0.0) you(0.0) look(0.0) at(0.0) all(0.0) these(0.0) people(0.0) that(0.0) go(0.0) in(0.0) and(0.0) put(0.0) private(0.0) risk(0.0) capital(1.0) out(0.0) .(0.0) Then(0.0) they(0.0) 
+have(0.0) got(0.0) to(0.0) have(0.0) a(0.0) market(0.0) .(0.0) And(0.0) fortunately(0.0) ,(0.0) the(0.0) government(1.0) tries(0.0) to(0.0) be(0.0) that(0.0) market(0.0) ,(0.0) whether(0.0) we're(0.0) 
+buying(0.0) healthy(0.0) foods(1.0) for(0.0) children(0.0) ,(0.0) whether(0.0) we(0.0) 're(0.0) buying(0.0) food(1.0) for(0.0) our(0.0) troops(1.0) ,(0.0) whether(0.0) we(0.0) 're(0.0) trying(0.0) to(0.0) 
+encourage(0.0) alternative(1.0) fuels(1.0) ,(0.0) as(0.0) we(0.0) have(0.0) under(0.0) this(0.0) program(1.0) where(0.0) the(0.0) Navy(1.0) planes(0.0) have(0.0) found(0.0) a(0.0) proven(0.0) alternative(0.0) to(0.0) 
+traditional(0.0) aviation(0.0) fuel(0.0) that(0.0) they(0.0) 've(0.0) tested(0.0) in(0.0) supersonic(1.0) speed(0.0) jets(1.0) .(0.0) This(0.0) is(0.0) a(0.0) program(0.0) that(0.0) tells(0.0) the(0.0) American(0.0) 
+ingenuity(1.0) ,(0.0) Get(0.0) out(0.0) there(0.0) and(0.0) invent(0.0) something(0.0) .(0.0) Because(0.0) guess(0.0) what(0.0) ,(0.0) if(0.0) you(0.0) invent(0.0) it(0.0) ,(0.0) we(0.0) ,(0.0) 
+as(0.0) a(0.0) purchaser(0.0) of(0.0) cleaner(1.0) and(0.0) better(0.0) standards(1.0) ,(0.0) are(0.0) going(0.0) to(0.0) be(0.0) your(0.0) market(0.0) .(0.0) And(0.0) this(0.0) amendment(1.0) just(0.0) 
+wipes(0.0) that(0.0) all(0.0) out(0.0) .(0.0) It(0.0) 's(0.0) really(0.0) back(0.0) to(0.0) dirty(1.0) smokestacks(1.0) ,(0.0) dirty(1.0) air(1.0) ,(0.0) and(0.0) no(0.0) competition(0.0) and(0.0) 
+no(0.0) ability(0.0) for(0.0) America(1.0) to(0.0) succeed(0.0) in(0.0) the(0.0) future(0.0) .(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chair	
+dirty	amendment	dirty	fuel	amendment	
+provision	requirement	law	government	
+fuel	fuel	
+fuel	efficiency	alternative	fuels	
+strikes	smokestack	dirty	
+air	
+Federal	Government	
+fuel	efficiency	
+markets	
+capital	capital	
+government	
+foods	food	troops	
+alternative	fuels	program	Navy	
+supersonic	jets	
+ingenuity	
+cleaner	standards	amendment	
+dirty	smokestacks	dirty	air	
+America	
+
+reads % = 0.12105263157894737

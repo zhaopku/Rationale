@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) yield(0.0) 1(0.0) minute(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Ohio(1.0) ,(0.0) Dennis(0.0) Kucinich(1.0) ,(0.0) a(0.0) distinguished(0.0) Member(0.0) of(0.0) this(0.0) 
+body(0.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) I(0.0) am(0.0) pleased(0.0) now(0.0) to(0.0) yield(0.0) 1(0.0) minute(0.0) to(0.0) my(0.0) good(0.0) friend(0.0) from(0.0) Virginia(1.0) ,(0.0) 
+James(0.0) Moran(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Ohio	Kucinich	
+Speaker	Virginia	
+Moran	
+
+reads % = 0.11363636363636363

@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) this(0.0) amendment(1.0) is(0.0) consistent(0.0) with(0.0) the(0.0) underlying(0.0) legislation(0.0) .(0.0) It(0.0) would(0.0) treat(0.0) the(0.0) U.S.(0.0) Customs(0.0) Service(0.0) in(0.0) a(0.0) 
+similar(0.0) way(1.0) that(0.0) the(0.0) Secret(1.0) Service(0.0) and(0.0) the(0.0) Coast(1.0) Guard(0.0) are(0.0) treated(0.0) under(0.0) the(0.0) bill(0.0) .(0.0) All(0.0) three(0.0) of(0.0) these(0.0) 
+agencies(0.0) have(0.0) critical(1.0) homeland(1.0) security(0.0) functions(1.0) as(0.0) well(0.0) as(0.0) non-homeland(1.0) security(0.0) functions(1.0) .(0.0) It(0.0) does(0.0) not(0.0) affect(0.0) the(0.0) provisions(1.0) in(0.0) 
+the(0.0) bill(0.0) that(0.0) deal(1.0) with(0.0) the(0.0) trade(1.0) and(0.0) revenue(0.0) functions(0.0) of(0.0) the(0.0) Customs(0.0) Service(0.0) that(0.0) was(0.0) included(0.0) in(0.0) the(0.0) bill(0.0) 
+.(0.0) That(0.0) actually(1.0) has(0.0) a(0.0) greater(0.0) protection(0.0) than(0.0) would(1.0) be(0.0) for(0.0) the(0.0) nontrade(1.0) and(0.0) revenue(0.0) services(0.0) within(1.0) the(0.0) Customs(0.0) Agency(0.0) 
+.(0.0) This(0.0) affects(0.0) about(0.0) 75(0.0) percent(1.0) of(0.0) the(0.0) agency(1.0) ,(0.0) and(0.0) 25(0.0) percent(1.0) is(0.0) already(0.0) covered(0.0) under(0.0) the(0.0) trade(1.0) and(0.0) 
+revenue(0.0) functions(0.0) .(0.0) Basically(1.0) this(0.0) provides(0.0) for(0.0) congressional(1.0) oversight(0.0) on(0.0) reorganizations(1.0) that(0.0) may(0.0) occur(0.0) in(0.0) the(0.0) Customs(0.0) Service(0.0) .(0.0) This(0.0) 
+is(0.0) particularly(0.0) important(0.0) because(0.0) it(0.0) deals(0.0) with(0.0) such(0.0) a(0.0) large(0.0) part(0.0) of(0.0) the(0.0) agency(1.0) involved(0.0) .(0.0) The(0.0) Secretary(1.0) ,(0.0) the(0.0) 
+administration(0.0) ,(0.0) would(1.0) have(0.0) the(0.0) ability(0.0) to(0.0) reorganize(1.0) the(0.0) Customs(0.0) Service(0.0) upon(0.0) giving(0.0) notice(1.0) to(0.0) Congress(0.0) ,(0.0) and(0.0) we(0.0) would(0.0) 
+be(0.0) preserving(0.0) congressional(1.0) oversight(1.0) in(0.0) regards(0.0) to(0.0) the(0.0) functions(1.0) of(0.0) the(0.0) Customs(0.0) Service(0.0) .(0.0) I(0.0) think(1.0) this(0.0) is(0.0) an(0.0) amendment(1.0) 
+that(0.0) is(0.0) totally(1.0) consistent(0.0) with(0.0) the(0.0) way(1.0) that(0.0) we(0.0) have(0.0) treated(0.0) other(0.0) agencies(0.0) that(0.0) are(0.0) going(0.0) into(0.0) this(0.0) new(0.0) Department(0.0) 
+.(0.0) I(0.0) would(1.0) encourage(1.0) Members(0.0) to(0.0) accept(1.0) this(0.0) amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	amendment	
+way	Secret	Coast	
+critical	homeland	functions	non-homeland	functions	provisions	
+deal	trade	
+actually	would	nontrade	within	
+percent	agency	percent	trade	
+Basically	congressional	reorganizations	
+agency	Secretary	
+would	reorganize	notice	
+congressional	oversight	functions	think	amendment	
+totally	way	
+would	encourage	accept	amendment	
+
+reads % = 0.17316017316017315

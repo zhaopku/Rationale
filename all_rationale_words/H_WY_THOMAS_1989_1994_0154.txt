@@ -1,0 +1,22 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) we(0.0) have(0.0) no(0.0) objection(0.0) on(0.0) this(0.0) side(0.0) to(0.0) this(0.0) legislation(1.0) ,(0.0) but(0.0) we(0.0) have(0.0) already(0.0) passed(0.0) this(0.0) legislation(1.0) 
+in(0.0) August(0.0) and(0.0) it(0.0) was(0.0) also(0.0) a(0.0) part(0.0) of(0.0) S.(0.0) 1146(1.0) .(0.0) So(0.0) we(0.0) are(0.0) a(0.0) little(0.0) perplexed(0.0) why(0.0) we(0.0) 
+need(0.0) to(0.0) pass(0.0) this(0.0) bill(1.0) three(0.0) times(0.0) .(0.0) The(0.0) normal(0.0) procedure(0.0) is(0.0) to(0.0) pass(0.0) the(0.0) bill(1.0) out(0.0) of(0.0) the(0.0) House(0.0) 
+and(0.0) then(0.0) wait(0.0) for(0.0) the(0.0) Senate(0.0) to(0.0) take(0.0) action(0.0) .(0.0) Passing(0.0) the(0.0) bill(1.0) out(0.0) of(0.0) the(0.0) House(0.0) three(0.0) times(0.0) is(0.0) 
+simply(0.0) not(0.0) a(0.0) good(0.0) use(0.0) of(0.0) our(0.0) limited(0.0) time(0.0) .(0.0) I(0.0) urge(0.0) adoption(1.0) of(0.0) this(0.0) measure(1.0) ,(0.0) but(0.0) we(0.0) may(0.0) 
+not(0.0) be(0.0) as(0.0) accommodating(0.0) the(0.0) fourth(0.0) time(0.0) around(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	legislation	legislation	
+1146	
+bill	bill	
+bill	
+adoption	measure	
+Speaker	
+
+
+reads % = 0.08196721311475409

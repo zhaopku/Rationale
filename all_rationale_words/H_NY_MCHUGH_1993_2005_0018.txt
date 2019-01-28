@@ -1,0 +1,22 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) if(0.0) I(0.0) may(0.0) reclaim(1.0) my(0.0) time(0.0) ,(0.0) I(0.0) do(0.0) not(0.0) disagree(0.0) with(0.0) the(0.0) gentleman(0.0) that(0.0) the(0.0) Senate(1.0) ,(0.0) as(0.0) 
+the(0.0) Senate(0.0) does(0.0) ,(0.0) has(0.0) done(0.0) something(0.0) that(0.0) should(0.0) not(0.0) be(0.0) done(0.0) .(0.0) It(0.0) is(0.0) something(0.0) inappropriate(0.0) and(0.0) something(0.0) totally(0.0) 
+based(0.0) upon(0.0) the(0.0) rule(1.0) of(0.0) no(0.0) rule(0.0) .(0.0) I(0.0) agree(0.0) with(0.0) the(0.0) gentleman(0.0) .(0.0) However(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Hawaii(0.0) 
+'s(0.0) context(0.0) was(0.0) to(0.0) the(0.0) House(0.0) bill(1.0) ,(0.0) which(0.0) has(0.0) no(0.0) application(0.0) ,(0.0) no(0.0) provision(1.0) ,(0.0) to(0.0) this(0.0) .(0.0) That(0.0) 
+was(0.0) the(0.0) relevancy(0.0) in(0.0) my(0.0) comments(0.0) .(0.0) That(0.0) is(0.0) all(0.0) I(0.0) was(0.0) questioning(0.0) was(0.0) his(0.0) comment(0.0) relevant(0.0) to(0.0) the(0.0) House(0.0) 
+bill(1.0) .(0.0) There(0.0) is(0.0) no(0.0) provision(0.0) ,(0.0) as(0.0) there(0.0) should(0.0) have(0.0) not(0.0) have(0.0) been(0.0) ,(0.0) because(0.0) this(0.0) is(0.0) not(0.0) relevant(0.0) 
+to(0.0) the(0.0) House(0.0) bill(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+reclaim	Senate	
+
+rule	
+bill	provision	
+
+bill	
+bill	Speaker	
+
+reads % = 0.058394160583941604

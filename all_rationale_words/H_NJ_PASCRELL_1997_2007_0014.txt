@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+It(0.0) is(0.0) not(0.0) surprising(0.0) to(0.0) learn(0.0) that(0.0) during(0.0) the(0.0) Scooter(0.0) Libby(0.0) trial(0.0) ,(0.0) Vice(0.0) President(1.0) Cheney(1.0) 's(0.0) former(0.0) communications(0.0) aide(0.0) ,(0.0) 
+Catherine(1.0) Martin(1.0) ,(0.0) said(0.0) that(0.0) delivering(0.0) a(0.0) message(0.0) on(0.0) Meet(0.0) the(0.0) Press(0.0) was(0.0) a(0.0) tactic(0.0) we(0.0) often(0.0) use(0.0) .(0.0) By(0.0) 
+the(0.0) way(0.0) ,(0.0) within(0.0) the(0.0) last(0.0) 10(0.0) minutes(0.0) ,(0.0) Mr.(0.0) Libby(1.0) has(1.0) been(0.0) found(0.0) guilty(1.0) on(0.0) four(0.0) of(0.0) five(0.0) counts(0.0) 
+.(0.0) The(0.0) truth(0.0) shall(0.0) lead(0.0) America(1.0) .(0.0) The(0.0) truth(0.0) is(0.0) that(0.0) the(0.0) 9/11(1.0) Commission(0.0) found(0.0) no(0.0) credible(0.0) evidence(0.0) of(0.0) a(0.0) 
+link(0.0) between(0.0) Iraq(1.0) and(0.0) Al(0.0) Qaeda(1.0) and(0.0) the(0.0) attacks(0.0) upon(0.0) the(0.0) United(0.0) States(0.0) .(0.0) The(0.0) epicenter(1.0) of(0.0) our(0.0) war(1.0) against(0.0) 
+terror(1.0) is(0.0) not(0.0) Iraq(1.0) but(0.0) on(0.0) the(0.0) border(0.0) of(0.0) Pakistan(0.0) and(0.0) on(0.0) the(0.0) border(0.0) of(0.0) Afghanistan(1.0) .(0.0) The(0.0) American(0.0) people(0.0) 
+deserve(1.0) the(0.0) truth(0.0) instead(0.0) of(0.0) deceptive(1.0) tactics(0.0) .(0.0) And(0.0) if(0.0) this(0.0) administration(1.0) wo(0.0) n't(0.0) give(0.0) the(0.0) people(0.0) the(0.0) truth(0.0) about(0.0) 
+this(0.0) war(1.0) ,(0.0) then(0.0) this(0.0) Congress(0.0) will(0.0) .(0.0) He(0.0) stated(0.0) ,(0.0) Mr.(0.0) Cheney(1.0) ,(0.0) five(0.0) separate(0.0) occasions(0.0) that(0.0) Saddam(1.0) Hussein(0.0) 
+was(0.0) joined(0.0) at(0.0) the(0.0) hip(0.0) with(0.0) bin(0.0) Laden(1.0) .(0.0) He(0.0) told(0.0) the(0.0) American(0.0) people(0.0) five(0.0) times(0.0) a(0.0) lie(0.0) and(0.0) repeated(0.0) 
+it(0.0) year(0.0) after(0.0) year(0.0) on(0.0) the(0.0) same(0.0) TV(0.0) station(0.0) .(0.0) The(0.0) epicenter(1.0) of(0.0) our(0.0) war(1.0) on(0.0) terror(1.0) is(0.0) on(0.0) the(0.0) 
+border(0.0) of(0.0) Afghanistan(1.0) and(0.0) Pakistan(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+President	Cheney	
+Catherine	Martin	
+Libby	has	guilty	
+America	9/11	
+Iraq	Qaeda	epicenter	war	
+terror	Iraq	Afghanistan	
+deserve	deceptive	administration	
+war	Cheney	Saddam	
+Laden	
+epicenter	war	terror	
+Afghanistan	
+
+reads % = 0.13043478260869565

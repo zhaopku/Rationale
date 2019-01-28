@@ -1,0 +1,56 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) am(0.0) sorry(0.0) that(0.0) the(0.0) gentleman(0.0) from(0.0) North(0.0) Carolina(0.0) ,(0.0) who(0.0) offered(0.0) the(0.0) amendment(1.0) ,(0.0) felt(0.0) that(0.0) my(0.0) 
+opposition(1.0) to(0.0) it(0.0) was(0.0) based(0.0) in(0.0) some(0.0) way(0.0) in(0.0) some(0.0) personal(0.0) fashion(0.0) .(0.0) I(0.0) would(0.0) point(0.0) out(0.0) that(0.0) in(0.0) the(0.0) 
+last(0.0) vote(1.0) ,(0.0) 12(0.0) of(0.0) my(0.0) party(0.0) voted(1.0) with(0.0) the(0.0) gentleman(0.0) and(0.0) 14(0.0) Members(0.0) of(0.0) his(0.0) party(0.0) voted(0.0) with(0.0) me(0.0) 
+against(0.0) it(0.0) .(0.0) I(0.0) want(0.0) to(0.0) make(0.0) two(0.0) points(0.0) .(0.0) First(0.0) of(0.0) all(0.0) ,(0.0) if(0.0) we(0.0) have(0.0) misjudged(0.0) the(0.0) situation(0.0) 
+,(0.0) I(0.0) can(0.0) not(0.0) say(0.0) ,(0.0) but(0.0) we(0.0) had(0.0) received(0.0) ideas(0.0) that(0.0) amendment(1.0) after(0.0) amendment(1.0) after(0.0) amendment(1.0) was(0.0) going(0.0) to(0.0) 
+be(0.0) offered(0.0) .(0.0) We(0.0) have(0.0) seen(0.0) drafts(0.0) that(0.0) included(0.0) no(0.0) purchase(0.0) of(0.0) rocket(0.0) launchers(0.0) ,(0.0) no(0.0) purchase(0.0) of(0.0) farm(0.0) equipment(0.0) 
+.(0.0) Now(0.0) the(0.0) majority(1.0) party(0.0) in(0.0) the(0.0) Committee(0.0) on(0.0) the(0.0) Judiciary(0.0) helped(0.0) to(0.0) pass(0.0) an(0.0) amendment(1.0) to(0.0) this(0.0) bill(0.0) which(0.0) 
+provided(0.0) several(0.0) limitations(1.0) such(0.0) as(0.0) the(0.0) gentleman(0.0) from(0.0) North(0.0) Carolina(0.0) is(0.0) talking(0.0) about(0.0) .(0.0) We(0.0) said(0.0) things(0.0) like(0.0) no(0.0) purchase(0.0) 
+of(0.0) limousines(1.0) and(0.0) no(0.0) fixed(0.0) wing(0.0) aircraft(0.0) ,(0.0) and(0.0) so(0.0) forth(0.0) .(0.0) Second(0.0) of(0.0) all(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Florida(0.0) 
+,(0.0) the(0.0) chairman(0.0) of(0.0) our(0.0) subcommittee(0.0) ,(0.0) accepted(0.0) an(0.0) amendment(1.0) offered(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) York(1.0) [(0.0) Mr.(0.0) Schumer(1.0) 
+](0.0) ,(0.0) which(0.0) said(0.0) no(0.0) use(0.0) of(0.0) consultants(0.0) and(0.0) no(0.0) use(0.0) of(0.0) unconventional(0.0) vehicles(0.0) for(0.0) the(0.0) police(0.0) department(0.0) .(0.0) The(0.0) 
+point(0.0) is(0.0) ,(0.0) our(0.0) belief(0.0) was(0.0) these(0.0) amendments(1.0) were(0.0) going(0.0) to(0.0) come(0.0) endlessly(0.0) ,(0.0) not(0.0) necessarily(0.0) for(0.0) their(0.0) individual(0.0) merit(0.0) 
+,(0.0) but(0.0) to(0.0) make(0.0) the(0.0) general(0.0) point(0.0) that(0.0) there(0.0) are(0.0) Members(0.0) here(0.0) who(0.0) do(0.0) not(0.0) approve(0.0) of(0.0) the(0.0) block(0.0) grant(1.0) 
+approach(0.0) and(0.0) intend(0.0) to(0.0) oppose(1.0) this(0.0) bill(1.0) no(1.0) matter(0.0) how(0.0) many(0.0) amendments(1.0) are(0.0) accepted(0.0) .(0.0) We(0.0) accepted(0.0) some(0.0) amendments(1.0) as(0.0) 
+an(0.0) acknowledgment(0.0) that(0.0) ,(0.0) in(0.0) fact(0.0) ,(0.0) there(0.0) have(0.0) been(0.0) past(0.0) problems(0.0) with(0.0) block(0.0) grants(1.0) .(0.0) Most(0.0) of(0.0) us(0.0) continue(0.0) 
+to(0.0) support(0.0) H.R(0.0) .(0.0) 728(0.0) because(0.0) we(0.0) think(0.0) the(0.0) block(0.0) grant(1.0) is(0.0) still(0.0) appropriate(0.0) when(0.0) compared(0.0) to(0.0) Washington(1.0) and(0.0) congressional(0.0) 
+micromanagement(1.0) .(0.0) My(0.0) point(0.0) is(0.0) that(0.0) nothing(0.0) here(0.0) was(0.0) designed(0.0) or(0.0) intended(0.0) to(0.0) be(0.0) personal(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) North(0.0) 
+Carolina(0.0) in(0.0) any(0.0) way(0.0) .(0.0) It(0.0) was(0.0) just(0.0) to(0.0) stop(0.0) what(0.0) we(0.0) thought(0.0) was(0.0) a(0.0) flurry(0.0) of(0.0) these(0.0) amendments(1.0) ,(0.0) 
+duplicative(1.0) in(0.0) spirit(0.0) ,(0.0) if(0.0) not(0.0) in(0.0) letter(0.0) .(0.0) Second(0.0) ,(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) have(0.0) to(0.0) say(0.0) ,(0.0) with(0.0) 
+the(0.0) utmost(0.0) regard(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) North(0.0) Carolina(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) say(0.0) that(0.0) this(0.0) particular(0.0) amendment(1.0) was(0.0) a(0.0) 
+mistake(0.0) .(0.0) When(0.0) we(0.0) say(0.0) that(0.0) no(0.0) money(0.0) can(0.0) be(0.0) used(0.0) for(0.0) roads(1.0) ,(0.0) that(0.0) could(0.0) be(0.0) no(0.0) lighting(0.0) to(0.0) 
+improve(0.0) security(0.0) ,(0.0) it(0.0) could(0.0) mean(0.0) no(0.0) rerouting(0.0) of(0.0) traffic(0.0) to(0.0) prevent(0.0) gang(1.0) attacks(1.0) and(0.0) to(0.0) prevent(0.0) carjackings(1.0) .(0.0) I(0.0) 
+was(0.0) given(0.0) one(0.0) example(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) [(0.0) Mr.(0.0) Bilbray(1.0) ](0.0) of(1.0) a(1.0) road(0.0) built(0.0) to(0.0) a(0.0) county(0.0) 
+jail(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) yield(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) [(0.0) Mr.(0.0) Bilbray(1.0) ](0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	amendment	
+opposition	
+vote	voted	
+
+amendment	amendment	amendment	
+
+majority	amendment	
+limitations	
+limousines	
+amendment	York	Schumer	
+
+amendments	
+grant	
+oppose	bill	no	amendments	amendments	
+grants	
+grant	Washington	
+micromanagement	
+amendments	
+duplicative	Chairman	
+amendment	
+roads	
+gang	attacks	carjackings	
+Bilbray	of	a	
+Chairman	Bilbray	
+
+reads % = 0.08158995815899582

@@ -1,0 +1,20 @@
+This is from a Republican
+----- below is the original text -----
+In(0.0) closing(0.0) ,(0.0) may(0.0) I(0.0) just(0.0) say(0.0) that(0.0) I(0.0) want(0.0) to(0.0) commend(0.0) the(0.0) gentleman(0.0) from(0.0) Colorado(0.0) ((0.0) Mr.(0.0) Tipton(1.0) )(0.0) for(1.0) 
+taking(1.0) the(0.0) time(0.0) and(0.0) the(0.0) effort(0.0) to(0.0) put(0.0) forth(0.0) a(0.0) well(0.0) thought-out(0.0) and(0.0) locally(0.0) supported(0.0) piece(0.0) of(0.0) legislation(1.0) that(0.0) designates(0.0) 
+an(0.0) area(0.0) of(0.0) special(0.0) significance(0.0) in(0.0) the(0.0) district(0.0) that(0.0) he(0.0) happens(0.0) to(0.0) represent(0.0) .(0.0) This(0.0) legislation(1.0) is(0.0) an(0.0) example(0.0) of(0.0) 
+the(0.0) way(0.0) this(0.0) type(0.0) of(0.0) designation(0.0) should(0.0) be(0.0) done(0.0) ,(0.0) as(0.0) opposed(0.0) to(0.0) by(0.0) administrative(1.0) fiat(1.0) under(0.0) things(0.0) like(0.0) the(0.0) 
+Antiquities(0.0) Act(0.0) .(0.0) I(0.0) urge(0.0) the(0.0) adoption(1.0) of(0.0) this(0.0) measure(1.0) ,(0.0) and(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+Tipton	for	
+taking	legislation	
+legislation	
+administrative	fiat	
+adoption	measure	
+
+
+reads % = 0.08823529411764706

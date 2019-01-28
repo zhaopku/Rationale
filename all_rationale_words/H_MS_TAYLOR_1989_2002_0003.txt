@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) when(0.0) I(0.0) was(0.0) a(0.0) kid(0.0) ,(0.0) and(0.0) when(0.0) a(0.0) guy(0.0) named(0.0) Mike(0.0) Parker(1.0) was(0.0) a(0.0) kid(0.0) ,(0.0) it(0.0) was(0.0) 
+fairly(0.0) common(0.0) for(0.0) schoolteachers(1.0) to(0.0) talk(0.0) about(0.0) a(0.0) story(0.0) .(0.0) We(0.0) do(0.0) not(0.0) know(0.0) if(0.0) it(0.0) is(0.0) true(0.0) or(0.0) not(0.0) 
+,(0.0) but(0.0) they(0.0) certainly(0.0) told(0.0) kids(0.0) about(0.0) a(0.0) young(0.0) man(0.0) who(0.0) ,(0.0) as(0.0) a(0.0) child(0.0) ,(0.0) had(0.0) a(0.0) hatchet(0.0) ,(0.0) 
+and(0.0) he(0.0) took(0.0) that(0.0) hatchet(1.0) to(0.0) his(0.0) father(0.0) 's(0.0) favorite(0.0) cherry(0.0) tree(0.0) and(0.0) chopped(0.0) it(0.0) down(0.0) .(0.0) And(0.0) when(0.0) his(0.0) 
+father(0.0) confronted(0.0) him(0.0) very(0.0) angrily(0.0) over(0.0) whether(0.0) or(0.0) not(0.0) he(0.0) had(0.0) done(0.0) that(0.0) ,(0.0) he(0.0) said(0.0) ,(0.0) Sir(0.0) ,(0.0) I(0.0) 
+can(0.0) not(0.0) tell(0.0) a(0.0) lie(0.0) ,(0.0) I(0.0) chopped(0.0) down(0.0) that(0.0) cherry(0.0) tree(0.0) .(0.0) We(0.0) do(0.0) not(0.0) know(0.0) whether(0.0) or(0.0) not(0.0) 
+that(0.0) is(0.0) true(0.0) ,(0.0) but(0.0) it(0.0) certainly(0.0) is(0.0) an(0.0) important(0.0) lesson(0.0) .(0.0) The(0.0) important(0.0) lesson(0.0) is(0.0) that(0.0) the(0.0) person(0.0) who(0.0) 
+is(0.0) said(0.0) to(0.0) have(0.0) told(0.0) the(0.0) truth(0.0) went(0.0) on(0.0) to(0.0) become(0.0) the(0.0) father(0.0) of(0.0) our(0.0) country(1.0) ,(0.0) and(0.0) this(0.0) town(0.0) 
+is(0.0) named(0.0) after(0.0) him(0.0) .(0.0) I(0.0) regret(0.0) to(0.0) say(0.0) that(0.0) that(0.0) sort(0.0) of(0.0) reward(0.0) seems(0.0) missing(0.0) in(0.0) this(0.0) town(0.0) right(0.0) 
+now(0.0) .(0.0) I(0.0) know(0.0) of(0.0) another(0.0) person(0.0) who(0.0) in(0.0) this(0.0) town(0.0) just(0.0) last(0.0) week(0.0) told(0.0) the(0.0) truth(0.0) and(0.0) for(0.0) that(0.0) 
+he(0.0) was(0.0) asked(0.0) to(0.0) resign(1.0) .(0.0) That(0.0) person(0.0) is(0.0) my(0.0) fellow(0.0) Mississippian(1.0) ,(0.0) Mike(0.0) Parker(1.0) ,(0.0) a(0.0) former(0.0) member(0.0) of(0.0) 
+this(0.0) body(0.0) who(0.0) served(0.0) in(0.0) both(0.0) the(0.0) Democrat(1.0) and(0.0) Republican(0.0) Parties(1.0) .(1.0) Mike(1.0) appeared(1.0) before(0.0) the(0.0) Subcommittee(0.0) on(0.0) Energy(0.0) and(0.0) 
+Water(0.0) Development(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Appropriations(0.0) last(0.0) week(0.0) .(0.0) As(0.0) the(0.0) head(0.0) of(0.0) the(0.0) United(0.0) States(0.0) Army(0.0) Corps(0.0) of(0.0) 
+Engineers(0.0) ,(0.0) the(0.0) Under(0.0) Secretary(0.0) of(0.0) the(0.0) Army(0.0) for(0.0) that(0.0) job(0.0) ,(0.0) Mike(0.0) told(1.0) the(0.0) Members(0.0) of(0.0) that(0.0) committee(0.0) that(0.0) 
+he(0.0) did(0.0) not(0.0) feel(0.0) that(0.0) the(0.0) budget(1.0) was(0.0) enough(0.0) .(0.0) He(0.0) went(0.0) on(0.0) to(0.0) say(0.0) that(0.0) he(0.0) felt(0.0) like(0.0) the(0.0) 
+Office(0.0) of(0.0) Management(0.0) and(0.0) Budget(0.0) had(0.0) intentionally(0.0) underestimated(0.0) the(0.0) amount(0.0) of(0.0) money(0.0) that(0.0) would(0.0) be(0.0) needed(0.0) to(0.0) run(0.0) the(0.0) Corps(0.0) 
+of(0.0) Engineers(0.0) .(0.0) That(0.0) is(0.0) the(0.0) agency(0.0) that(0.0) builds(0.0) the(0.0) levees(1.0) that(0.0) keeps(0.0) low-lying(1.0) communities(1.0) from(0.0) flooding(1.0) ;(0.0) that(0.0) dredges(1.0) 
+channels(0.0) so(0.0) that(0.0) inland(0.0) commerce(1.0) can(0.0) take(0.0) place(0.0) ;(0.0) that(0.0) dredges(1.0) the(0.0) channels(0.0) for(0.0) oceangoing(1.0) ships(0.0) ;(0.0) that(0.0) agency(1.0) that(0.0) 
+helps(0.0) people(0.0) with(0.0) their(0.0) sewage(1.0) problems(0.0) ,(0.0) with(0.0) their(0.0) drainage(1.0) problems(0.0) .(0.0) He(0.0) said(0.0) that(0.0) the(0.0) administration(1.0) 's(0.0) budget(1.0) did(0.0) 
+not(0.0) have(0.0) enough(0.0) money(1.0) in(0.0) it(0.0) for(0.0) him(0.0) to(0.0) do(0.0) his(0.0) job(0.0) .(0.0) He(0.0) went(0.0) on(0.0) to(0.0) say(0.0) that(0.0) he(0.0) 
+felt(0.0) like(0.0) the(0.0) Office(0.0) of(0.0) Management(0.0) and(0.0) Budget(0.0) intentionally(1.0) low-balled(1.0) that(0.0) to(0.0) try(0.0) to(0.0) make(0.0) the(0.0) President's(0.0) budget(1.0) look(0.0) a(0.0) 
+little(0.0) closer(0.0) to(0.0) being(0.0) balanced(0.0) than(0.0) it(0.0) really(0.0) was(0.0) ,(0.0) and(0.0) knowing(0.0) that(0.0) Congress(0.0) would(0.0) put(0.0) the(0.0) money(1.0) back(0.0) in(0.0) 
+the(0.0) budget(1.0) .(0.0) He(0.0) even(0.0) went(0.0) so(0.0) far(0.0) as(0.0) to(0.0) say(0.0) that(0.0) the(0.0) Constitution(1.0) of(0.0) the(0.0) United(0.0) States(0.0) under(0.0) article(0.0) 
+I(0.0) gives(0.0) Congress(0.0) the(0.0) power(0.0) to(0.0) decide(0.0) where(0.0) the(0.0) money(0.0) goes(0.0) ,(0.0) not(0.0) the(0.0) administration(1.0) .(0.0) The(0.0) administration(1.0) is(0.0) certainly(0.0) 
+correct(0.0) to(0.0) request(0.0) a(0.0) budget(0.0) ,(0.0) but(0.0) it(0.0) is(0.0) Congress(0.0) '(0.0) job(0.0) to(0.0) pass(0.0) a(0.0) budget(0.0) .(0.0) For(0.0) telling(0.0) 
+
+
+----- below are rationale words -----
+
+Parker	
+schoolteachers	
+
+hatchet	
+
+
+
+country	
+
+
+resign	Mississippian	Parker	
+Democrat	Parties	.	Mike	appeared	
+
+told	
+budget	
+
+levees	low-lying	communities	flooding	dredges	
+commerce	dredges	oceangoing	agency	
+sewage	drainage	administration	budget	
+money	
+intentionally	low-balled	budget	
+money	
+budget	Constitution	
+administration	administration	
+
+
+reads % = 0.072

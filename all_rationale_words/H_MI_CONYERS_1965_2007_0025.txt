@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) 30(0.0) seconds(0.0) to(0.0) point(0.0) out(0.0) that(0.0) a(0.0) constitutional(1.0) amendment(1.0) could(0.0) take(0.0) 10(0.0) years(0.0) ,(0.0) who(0.0) 
+knows(0.0) ,(0.0) to(0.0) have(0.0) a(0.0) part(0.0) of(0.0) a(0.0) State(0.0) ceded(0.0) back(0.0) .(0.0) The(0.0) three(0.0) methods(0.0) that(0.0) have(0.0) been(0.0) suggested(0.0) by(0.0) 
+the(0.0) former(0.0) chairman(0.0) of(0.0) Judiciary(0.0) Committee(0.0) ,(0.0) who(0.0) has(0.0) worked(0.0) very(0.0) hard(0.0) on(0.0) this(0.0) ,(0.0) are(0.0) ,(0.0) in(0.0) effect(0.0) ,(0.0) 
+impractical(0.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) I(0.0) am(0.0) pleased(0.0) now(0.0) to(0.0) recognize(0.0) the(0.0) chairman(0.0) of(0.0) the(0.0) Constitutional(0.0) Subcommittee(0.0) on(0.0) the(0.0) Judiciary(0.0) 
+,(0.0) Mr.(0.0) Nadler(1.0) ,(0.0) who(0.0) has(0.0) done(0.0) extraordinary(0.0) work(0.0) in(0.0) this(0.0) regard(0.0) ,(0.0) 5(0.0) minutes(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+constitutional	amendment	
+
+
+Speaker	
+Nadler	
+
+reads % = 0.041237113402061855

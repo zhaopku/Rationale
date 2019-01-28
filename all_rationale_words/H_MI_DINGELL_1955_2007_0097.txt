@@ -1,0 +1,36 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) am(0.0) going(0.0) to(0.0) make(0.0) the(0.0) same(0.0) unanimous(1.0) consent(0.0) request(0.0) ,(0.0) and(0.0) then(0.0) I(0.0) will(0.0) withdraw(0.0) it(0.0) .(0.0) But(0.0) 
+first(0.0) I(0.0) want(0.0) to(0.0) make(0.0) an(0.0) observation(0.0) here(0.0) for(0.0) the(0.0) benefit(1.0) of(0.0) all(0.0) of(0.0) my(0.0) colleagues(0.0) and(0.0) friends(0.0) .(0.0) This(0.0) 
+is(0.0) a(0.0) very(0.0) important(0.0) piece(0.0) of(0.0) legislation(1.0) .(0.0) I(0.0) am(0.0) not(0.0) going(0.0) to(0.0) defend(1.0) the(0.0) behavior(0.0) of(0.0) any(0.0) Member(0.0) here(0.0) 
+,(0.0) and(0.0) I(0.0) am(0.0) not(0.0) going(0.0) to(0.0) criticize(1.0) the(0.0) behavior(0.0) of(0.0) any(0.0) Member(0.0) ,(0.0) but(0.0) I(0.0) am(0.0) going(0.0) to(0.0) make(0.0) 
+an(0.0) observation(0.0) that(0.0) I(0.0) think(0.0) is(0.0) important(0.0) .(0.0) This(0.0) is(0.0) a(0.0) very(0.0) important(0.0) piece(0.0) of(0.0) legislation(1.0) .(0.0) Twelve(0.0) million(0.0) of(0.0) 
+our(0.0) kids(0.0) are(0.0) going(0.0) to(0.0) have(0.0) their(0.0) health(1.0) insurance(1.0) increased(1.0) or(0.0) not(0.0) depending(0.0) on(0.0) how(0.0) we(0.0) conduct(0.0) ourselves(0.0) today(0.0) .(0.0) 
+I(0.0) want(0.0) to(0.0) have(0.0) a(0.0) broad(0.0) exposition(0.0) .(0.0) If(0.0) you(0.0) look(0.0) at(0.0) the(0.0) time(0.0) that(0.0) we(0.0) have(0.0) to(0.0) give(0.0) to(0.0) 
+Members(0.0) who(0.0) wish(0.0) to(0.0) be(0.0) heard(0.0) on(0.0) this(0.0) ,(0.0) we(0.0) are(0.0) talking(0.0) about(0.0) a(0.0) minute(0.0) or(0.0) 30(0.0) seconds(0.0) ,(0.0) hardly(0.0) 
+enough(0.0) time(0.0) for(0.0) any(0.0) Member(0.0) to(0.0) adequately(0.0) make(0.0) a(0.0) position(0.0) on(0.0) something(0.0) which(0.0) is(0.0) important(0.0) to(0.0) him(0.0) and(0.0) to(0.0) the(0.0) 
+kids(0.0) .(0.0) I(0.0) think(0.0) that(0.0) we(0.0) have(0.0) a(0.0) chance(0.0) to(0.0) do(0.0) a(0.0) great(0.0) deal(0.0) of(0.0) good(0.0) for(0.0) our(0.0) young(0.0) people(0.0) 
+.(0.0) I(0.0) do(0.0) n't(0.0) think(0.0) that(0.0) it(0.0) is(0.0) excessive(0.0) to(0.0) say(0.0) we(0.0) are(0.0) going(0.0) to(0.0) give(0.0) enough(0.0) time(0.0) so(0.0) that(0.0) 
+this(0.0) matter(0.0) can(0.0) be(0.0) properly(0.0) discussed(0.0) ,(0.0) nor(0.0) do(0.0) I(0.0) think(0.0) there(0.0) is(0.0) any(0.0) benefit(0.0) in(0.0) denying(1.0) our(0.0) Members(0.0) the(0.0) 
+time(0.0) to(0.0) do(0.0) this(0.0) and(0.0) denying(1.0) the(0.0) Members(0.0) a(0.0) chance(0.0) to(0.0) be(0.0) heard(0.0) .(0.0) Now(0.0) ,(0.0) I(0.0) am(0.0) going(0.0) to(0.0) 
+withdraw(0.0) this(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+unanimous	
+benefit	
+legislation	defend	
+criticize	
+legislation	
+health	insurance	increased	
+
+
+
+
+
+denying	
+denying	
+
+
+reads % = 0.041666666666666664

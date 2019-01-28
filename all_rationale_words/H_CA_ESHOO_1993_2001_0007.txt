@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) yesterday(0.0) afternoon(0.0) ,(0.0) the(0.0) California(1.0) delegation(0.0) ,(0.0) 52(0.0) strong(0.0) ,(0.0) including(0.0) our(0.0) two(0.0) United(0.0) States(0.0) Senators(1.0) ,(0.0) Republicans(0.0) and(1.0) 
+Democrats(1.0) ,(0.0) met(0.0) with(0.0) the(0.0) Vice(0.0) President(0.0) .(0.0) The(0.0) subject(0.0) of(0.0) the(0.0) meeting(0.0) was(0.0) energy(0.0) .(0.0) Californians(0.0) are(0.0) reeling(0.0) from(0.0) 
+the(0.0) sticker(1.0) shock(0.0) in(0.0) the(0.0) bills(1.0) that(0.0) they(0.0) are(0.0) receiving(0.0) .(0.0) We(0.0) know(0.0) that(0.0) the(0.0) Federal(1.0) Energy(1.0) Commission(0.0) has(0.0) said(0.0) 
+that(0.0) there(0.0) is(0.0) gouging(1.0) .(0.0) We(0.0) know(0.0) that(0.0) there(0.0) is(0.0) gaming(0.0) .(0.0) Californians(1.0) are(0.0) hurt(0.0) and(0.0) hurting(1.0) badly(0.0) by(0.0) this(0.0) 
+.(0.0) I(0.0) will(0.0) place(0.0) into(0.0) the(0.0) Record(0.0) as(0.0) part(0.0) of(0.0) what(0.0) I(0.0) am(0.0) saying(0.0) this(0.0) morning(0.0) a(0.0) report(0.0) that(0.0) has(0.0) 
+come(0.0) out(0.0) from(0.0) CNN(1.0) .(0.0) It(0.0) is(0.0) entitled(0.0) ``(0.0) Power(0.0) of(0.0) advertising(0.0) fights(0.0) electricity(1.0) rate(1.0) caps(1.0) ''(0.0) .(0.0) Well(0.0) ,(0.0) 
+together(0.0) with(0.0) the(0.0) White(1.0) House(0.0) and(0.0) the(0.0) GOP(1.0) majority(1.0) in(1.0) the(1.0) House(1.0) ,(1.0) those(1.0) gouged(1.0) prices(1.0) from(1.0) Californians(1.0) are(1.0) now(1.0) 
+going(1.0) to(1.0) be(1.0) put(1.0) into(0.0) an(0.0) advertising(1.0) campaign(1.0) .(0.0) The(0.0) dollars(1.0) that(0.0) we(0.0) are(0.0) paying(1.0) are(0.0) going(0.0) to(0.0) be(0.0) placed(0.0) 
+into(0.0) an(0.0) advertising(0.0) campaign(0.0) to(0.0) try(0.0) to(0.0) defeat(1.0) price(0.0) relief(1.0) in(0.0) California(1.0) .(0.0) This(0.0) is(0.0) an(0.0) outrage(1.0) ,(0.0) and(0.0) it(0.0) 
+is(0.0) an(0.0) equivalent(0.0) to(0.0) what(0.0) the(0.0) tobacco(1.0) companies(1.0) did(0.0) as(0.0) they(0.0) tried(0.0) to(0.0) wage(1.0) their(0.0) war(1.0) on(0.0) America(1.0) and(0.0) say(0.0) 
+that(0.0) tobacco(1.0) was(0.0) good(0.0) .(0.0) This(0.0) is(0.0) an(0.0) outrage(1.0) ,(0.0) and(0.0) we(0.0) are(0.0) going(0.0) to(0.0) fight(1.0) this(0.0) .(0.0) Mr.(0.0) Speaker(1.0) 
+,(0.0) I(0.0) include(0.0) the(0.0) article(0.0) that(0.0) I(0.0) referred(0.0) to(0.0) earlier(0.0) as(0.0) follows(0.0) :(0.0) Power(0.0) of(0.0) Advertising(0.0) Fights(1.0) Electricity(1.0) Rate(1.0) Caps(0.0) 
+Worried(0.0) GOP(0.0) ,(1.0) White(1.0) House(1.0) give(1.0) blessing(1.0) to(0.0) utilities(1.0) '(0.0) California(0.0) campaign(1.0) ((1.0) By(1.0) Major(1.0) Garrett(1.0) )(0.0) Washington(1.0) ((0.0) CNN(1.0) 
+)(0.0) .(0.0) --(0.0) Major(0.0) U.S.(0.0) utility(0.0) companies(0.0) --(0.0) at(0.0) the(0.0) behest(0.0) of(0.0) senior(0.0) congressional(0.0) Republicans(1.0) and(1.0) with(0.0) White(1.0) House(0.0) approval(0.0) 
+--(0.0) will(0.0) launch(0.0) a(0.0) multimillion-dollar(0.0) advertising(0.0) campaign(0.0) this(0.0) week(0.0) to(0.0) fight(1.0) federal(1.0) caps(1.0) on(0.0) electricity(1.0) prices(1.0) in(0.0) California(1.0) ,(0.0) several(0.0) 
+sources(0.0) tell(0.0) CNN(1.0) .(0.0) No(0.0) exact(0.0) dollar(1.0) figure(0.0) has(0.0) been(0.0) set(0.0) for(0.0) the(0.0) television(0.0) campaign(0.0) ,(0.0) but(0.0) congressional(1.0) and(0.0) administration(1.0) 
+sources(0.0) said(0.0) the(0.0) first(0.0) phase(0.0) will(0.0) cost(0.0) less(0.0) than(0.0) $(0.0) 5(0.0) million(0.0) and(0.0) run(0.0) only(0.0) in(0.0) California(1.0) .(0.0) Media(0.0) buyers(0.0) 
+for(0.0) the(0.0) utilities(1.0) will(0.0) also(0.0) purchase(0.0) airtime(0.0) on(0.0) Spanish-language(1.0) television(0.0) .(0.0) ``(0.0) Every(0.0) penny(1.0) right(0.0) now(0.0) will(0.0) be(0.0) spent(0.0) in(0.0) 
+the(0.0) Golden(0.0) State(0.0) ,(0.0) ''(0.0) said(0.0) a(0.0) source(0.0) intimately(0.0) involved(0.0) in(0.0) the(0.0) ad(0.0) campaign(0.0) .(0.0) Over(0.0) time(0.0) ,(0.0) the(0.0) utilities(1.0) 
+'(0.0) ad(0.0) campaign(1.0) could(0.0) easily(0.0) cost(0.0) more(0.0) than(0.0) $(0.0) 10(0.0) million(0.0) .(0.0) Leading(0.0) congressional(1.0) Republicans(1.0) have(1.0) urged(1.0) the(1.0) entire(1.0) energy(1.0) 
+industry(1.0) to(1.0) spend(1.0) upwards(1.0) of(1.0) $(1.0) 50(1.0) million(1.0) on(1.0) the(1.0) ads(1.0) --(1.0) or(1.0) about(1.0) as(1.0) much(1.0) as(1.0) the(0.0) tobacco(1.0) industry(1.0) 
+spent(0.0) to(0.0) defeat(1.0) comprehensive(1.0) tobacco(1.0) legislation(1.0) in(0.0) 1998(1.0) .(0.0) Congressional(0.0) GOP(1.0) leaders(1.0) have(1.0) issued(1.0) dire(1.0) ,(1.0) albeit(1.0) private(1.0) ,(1.0) warnings(1.0) 
+to(1.0) the(1.0) energy(1.0) industry(1.0) that(1.0) they(1.0) may(1.0) not(1.0) be(1.0) able(0.0) to(0.0) block(0.0) legislation(1.0) imposing(1.0) caps(1.0) on(0.0) prices(1.0) or(1.0) other(1.0) measures(1.0) 
+designed(1.0) to(0.0) give(0.0) the(0.0) federal(1.0) government(1.0) a(0.0) greater(0.0) role(0.0) in(0.0) setting(0.0) rates(1.0) for(0.0) wholesale(1.0) electricity(1.0) ,(0.0) oil(1.0) or(0.0) natural(1.0) gas(1.0) 
+.(0.0) The(0.0) ad(0.0) campaign(1.0) reflects(0.0) a(0.0) deepening(1.0) sense(0.0) of(0.0) dread(0.0) among(0.0) congressional(1.0) Republicans(1.0) that(1.0) the(1.0) Bush(1.0) energy(1.0) policy(1.0) ,(1.0) 
+
+
+----- below are rationale words -----
+
+California	Senators	and	
+Democrats	
+sticker	bills	Federal	Energy	
+gouging	Californians	hurting	
+
+CNN	electricity	rate	caps	
+White	GOP	majority	in	the	House	,	those	gouged	prices	from	Californians	are	now	
+going	to	be	put	advertising	campaign	dollars	paying	
+defeat	relief	California	outrage	
+tobacco	companies	wage	war	America	
+tobacco	outrage	fight	Speaker	
+Fights	Electricity	Rate	
+,	White	House	give	blessing	utilities	campaign	(	By	Major	Garrett	Washington	CNN	
+Republicans	and	White	
+fight	federal	caps	electricity	prices	California	
+CNN	dollar	congressional	administration	
+California	
+utilities	Spanish-language	penny	
+utilities	
+campaign	congressional	Republicans	have	urged	the	entire	energy	
+industry	to	spend	upwards	of	$	50	million	on	the	ads	--	or	about	as	much	as	tobacco	industry	
+defeat	comprehensive	tobacco	legislation	1998	GOP	leaders	have	issued	dire	,	albeit	private	,	warnings	
+to	the	energy	industry	that	they	may	not	be	legislation	imposing	caps	prices	or	other	measures	
+designed	federal	government	rates	wholesale	electricity	oil	natural	gas	
+campaign	deepening	congressional	Republicans	that	the	Bush	energy	policy	,	
+
+reads % = 0.322

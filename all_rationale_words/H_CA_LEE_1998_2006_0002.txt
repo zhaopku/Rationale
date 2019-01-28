@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) in(0.0) total(0.0) opposition(1.0) to(0.0) the(0.0) extension(1.0) of(0.0) this(0.0) unpatriotic(1.0) act(0.0) .(0.0) The(0.0) NSA(1.0) 's(0.0) warrantless(1.0) domestic(1.0) spying(1.0) 
+scandal(1.0) has(0.0) shown(0.0) how(0.0) this(0.0) President(1.0) has(0.0) a(0.0) tendency(0.0) to(0.0) overstep(0.0) the(0.0) rule(1.0) of(0.0) law(1.0) .(0.0) Expanding(0.0) the(0.0) administration(1.0) 's(0.0) 
+powers(0.0) ,(0.0) in(0.0) light(0.0) of(0.0) these(0.0) recent(0.0) developments(0.0) ,(0.0) may(0.0) even(0.0) be(0.0) unnecessary(0.0) .(0.0) That(0.0) said(0.0) ,(0.0) we(0.0) should(0.0) be(0.0) 
+repealing(1.0) these(0.0) undemocratic(1.0) provisions(1.0) ,(0.0) not(0.0) continuing(1.0) to(0.0) expand(0.0) government(1.0) 's(0.0) reach(0.0) into(0.0) the(0.0) private(0.0) lives(0.0) of(0.0) the(0.0) American(0.0) people(0.0) 
+.(0.0) Since(0.0) 2001(0.0) ,(0.0) the(0.0) PATRIOT(1.0) Act(1.0) has(0.0) been(0.0) used(0.0) more(0.0) than(0.0) 150(0.0) times(0.0) to(0.0) secretly(0.0) search(0.0) private(0.0) homes(0.0) ,(0.0) 
+and(0.0) nearly(0.0) 90(0.0) percent(0.0) of(0.0) those(0.0) cases(0.0) had(0.0) nothing(0.0) to(0.0) do(0.0) with(0.0) terrorism(1.0) .(0.0) Americans(0.0) have(0.0) rejected(1.0) provisions(1.0) in(0.0) this(0.0) 
+legislation(1.0) like(0.0) sneak-(0.0) and-peek(0.0) searches(0.0) ,(0.0) national(1.0) security(0.0) letters(0.0) ,(0.0) and(0.0) roving(0.0) John(0.0) Doe(1.0) wiretaps(1.0) .(0.0) And(0.0) Americans(1.0) have(0.0) rejected(1.0) 
+unwarranted(1.0) searches(0.0) of(0.0) private(0.0) residences(0.0) ,(0.0) libraries(1.0) ,(0.0) businesses(1.0) ,(0.0) and(0.0) medical(1.0) records(0.0) .(0.0) I(0.0) do(0.0) n't(0.0) know(0.0) how(0.0) much(0.0) 
+clearer(0.0) we(0.0) need(0.0) to(0.0) be(0.0) .(0.0) All(0.0) the(0.0) administration(1.0) 's(0.0) word(0.0) games(0.0) and(0.0) sugar-coating(1.0) will(0.0) do(0.0) nothing(0.0) to(0.0) change(0.0) the(0.0) 
+fact(0.0) that(0.0) we(0.0) can(0.0) protect(0.0) our(0.0) nation(1.0) and(0.0) protect(0.0) civil(1.0) liberties(1.0) at(0.0) the(0.0) same(0.0) time(0.0) .(0.0) The(0.0) PATRIOT(1.0) Act(1.0) fails(1.0) 
+to(0.0) do(0.0) so(0.0) .(0.0) Vote(1.0) ``(0.0) no(0.0) ''(0.0) on(0.0) this(0.0) extension(0.0) ,(0.0) and(0.0) keep(0.0) our(0.0) civil(1.0) liberties(1.0) and(0.0) our(0.0) civil(1.0) 
+rights(1.0) off(0.0) the(0.0) chopping(1.0) board(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+opposition	extension	unpatriotic	NSA	warrantless	domestic	spying	
+scandal	President	rule	law	administration	
+
+repealing	undemocratic	provisions	continuing	government	
+PATRIOT	Act	
+terrorism	rejected	provisions	
+legislation	national	Doe	wiretaps	Americans	rejected	
+unwarranted	libraries	businesses	medical	
+administration	sugar-coating	
+nation	civil	liberties	PATRIOT	Act	fails	
+Vote	civil	liberties	civil	
+rights	chopping	
+
+reads % = 0.2026431718061674

@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) to(0.0) urge(1.0) my(0.0) colleagues(0.0) to(0.0) right(0.0) a(0.0) shameful(1.0) wrong(0.0) committed(0.0) by(0.0) the(0.0) Supreme(1.0) Court(0.0) and(0.0) update(0.0) 
+the(0.0) Voting(1.0) Rights(1.0) Act(0.0) to(0.0) restore(0.0) an(0.0) essential(0.0) protection(0.0) against(0.0) voter(1.0) discrimination(1.0) .(0.0) By(0.0) gutting(1.0) the(0.0) Voting(1.0) Rights(1.0) Act(0.0) ,(0.0) 
+the(0.0) Court(1.0) greatly(0.0) dishonored(1.0) those(0.0) who(0.0) fought(0.0) and(0.0) died(0.0) to(0.0) protect(0.0) the(0.0) rights(1.0) of(0.0) the(0.0) disenfranchised(1.0) ,(0.0) who(0.0) continue(0.0) to(0.0) 
+face(0.0) pervasive(1.0) voting(1.0) discrimination(1.0) .(0.0) Recent(0.0) efforts(1.0) in(0.0) parts(0.0) of(0.0) the(0.0) country(1.0) to(0.0) impose(1.0) voter(1.0) ID(0.0) laws(1.0) ,(0.0) to(0.0) limit(1.0) 
+access(0.0) to(0.0) early(0.0) voting(1.0) and(0.0) to(0.0) gerrymander(1.0) districts(1.0) to(0.0) hinder(1.0) the(0.0) minority(1.0) vote(1.0) serve(0.0) as(0.0) irrefutable(1.0) proof(0.0) that(0.0) voter(1.0) discrimination(1.0) 
+remains(0.0) a(0.0) real(0.0) threat(0.0) to(0.0) our(0.0) democracy(1.0) .(0.0) The(0.0) Voting(1.0) Rights(1.0) Act(0.0) prevented(0.0) discrimination(1.0) in(0.0) these(0.0) cases(0.0) ,(0.0) something(0.0) it(0.0) 
+ca(0.0) n't(0.0) do(0.0) as(0.0) it(0.0) exists(0.0) now(0.0) .(0.0) We(0.0) must(0.0) act(0.0) immediately(0.0) to(0.0) fix(0.0) the(0.0) gaping(1.0) hole(1.0) in(0.0) this(0.0) vital(1.0) 
+protection(1.0) of(0.0) the(0.0) right(0.0) to(0.0) vote(1.0) .(0.0) Each(0.0) day(0.0) that(0.0) passes(0.0) without(0.0) a(0.0) strong(0.0) Voting(0.0) Rights(1.0) Act(0.0) is(0.0) another(0.0) day(0.0) 
+justice(1.0) is(0.0) deferred(0.0) .(0.0) We(0.0) have(0.0) a(0.0) moral(1.0) imperative(0.0) to(0.0) act(0.0) swiftly(0.0) in(0.0) a(0.0) bipartisan(1.0) manner(0.0) to(0.0) get(0.0) this(0.0) done(0.0) 
+.(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) act(0.0) now(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+urge	shameful	Supreme	
+Voting	Rights	voter	discrimination	gutting	Voting	Rights	
+Court	dishonored	rights	disenfranchised	
+pervasive	voting	discrimination	efforts	country	impose	voter	laws	limit	
+voting	gerrymander	districts	hinder	minority	vote	irrefutable	voter	discrimination	
+democracy	Voting	Rights	discrimination	
+gaping	hole	vital	
+protection	vote	Rights	
+justice	moral	bipartisan	
+
+
+reads % = 0.23684210526315788

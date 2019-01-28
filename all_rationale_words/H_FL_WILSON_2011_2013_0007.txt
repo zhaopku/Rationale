@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) head(0.0) back(0.0) to(0.0) my(0.0) district(0.0) tomorrow(0.0) to(0.0) face(0.0) the(0.0) thousands(0.0) of(0.0) people(0.0) who(0.0) sent(0.0) me(0.0) here(0.0) to(0.0) help(0.0) them(0.0) find(0.0) 
+jobs(0.0) --(0.0) 800(0.0) days(0.0) ago(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) what(0.0) do(0.0) I(0.0) say(0.0) to(0.0) them(0.0) ?(0.0) They(0.0) know(0.0) the(0.0) real(0.0) 
+deficit(1.0) is(0.0) jobs(0.0) .(0.0) Do(0.0) I(0.0) say(0.0) that(0.0) the(0.0) Republicans(1.0) in(1.0) Congress(1.0) do(1.0) n't(1.0) get(1.0) it(1.0) and(1.0) that(1.0) they(1.0) do(1.0) 
+n't(1.0) understand(0.0) that(0.0) people(0.0) are(0.0) suffering(0.0) and(0.0) struggling(0.0) and(0.0) starving(1.0) and(0.0) looking(0.0) for(0.0) work(0.0) ?(0.0) Millions(0.0) of(0.0) people(0.0) are(0.0) out(0.0) 
+of(0.0) work(0.0) ,(0.0) and(0.0) this(0.0) body(0.0) seeks(1.0) to(0.0) fire(0.0) millions(1.0) more(0.0) .(0.0) Wake(0.0) up(0.0) ,(0.0) America(0.0) .(0.0) It(0.0) 's(0.0) time(0.0) 
+to(0.0) bring(0.0) the(0.0) President(1.0) 's(0.0) American(0.0) Jobs(0.0) Act(0.0) to(0.0) the(0.0) floor(0.0) for(0.0) a(0.0) vote(0.0) .(0.0) It(0.0) deserves(1.0) a(0.0) vote(0.0) .(0.0) 
+Mr.(0.0) Speaker(1.0) ,(0.0) our(0.0) mantra(1.0) should(0.0) be(0.0) ``(0.0) jobs(0.0) ,(0.0) jobs(0.0) ,(0.0) jobs(0.0) --(0.0) and(0.0) more(0.0) jobs(0.0) .(0.0) ''(0.0) 
+
+
+----- below are rationale words -----
+
+
+Speaker	
+deficit	Republicans	in	Congress	do	n't	get	it	and	that	they	do	
+n't	starving	
+seeks	millions	
+President	deserves	
+Speaker	mantra	
+
+reads % = 0.15

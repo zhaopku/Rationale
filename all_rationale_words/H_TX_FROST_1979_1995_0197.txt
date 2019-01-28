@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) recall(0.0) seeing(0.0) on(0.0) videotape(0.0) this(0.0) exact(0.0) quote(0.0) from(0.0) the(0.0) Senate(0.0) majority(0.0) leader(0.0) ,(0.0) speaking(0.0) on(0.0) Medicare(1.0) to(0.0) the(0.0) 
+American(0.0) Conservative(1.0) Union(1.0) :(1.0) I(1.0) was(0.0) there(0.0) ,(0.0) fighting(0.0) the(0.0) fight(1.0) ,(0.0) voting(1.0) against(0.0) Medicare(1.0) ,(0.0) 1(0.0) out(0.0) of(0.0) 12(0.0) 
+,(0.0) because(0.0) we(0.0) knew(0.0) it(0.0) would(0.0) not(0.0) work(0.0) in(0.0) 1965(1.0) .(0.0) That(0.0) is(0.0) an(0.0) exact(0.0) quote(0.0) from(0.0) the(0.0) Senate(0.0) majority(0.0) 
+leader(0.0) ,(0.0) Mr.(0.0) Dole(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Medicare	
+Conservative	Union	:	I	fight	voting	Medicare	
+1965	
+Dole	
+
+reads % = 0.15151515151515152

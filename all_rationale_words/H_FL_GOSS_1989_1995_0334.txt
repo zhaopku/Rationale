@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) for(0.0) the(0.0) purpose(0.0) of(0.0) debate(1.0) only(0.0) ,(0.0) I(0.0) yield(0.0) the(0.0) customary(0.0) 30(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) [(0.0) 
+Mr(0.0) .(1.0) Frost(1.0) ](0.0) pending(1.0) which(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) During(0.0) consideration(0.0) of(0.0) this(0.0) 
+resolution(1.0) ,(0.0) all(0.0) time(0.0) yielded(0.0) is(0.0) for(0.0) the(0.0) purpose(0.0) of(0.0) debate(1.0) only(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) this(0.0) is(0.0) an(0.0) open(0.0) 
+rule(1.0) ,(0.0) providing(0.0) for(0.0) the(0.0) consideration(0.0) of(0.0) H.R(0.0) .(0.0) 1162(0.0) ,(0.0) the(0.0) Deficit(1.0) Reduction(1.0) Lockbox(1.0) Act(0.0) of(0.0) 1995(0.0) ,(0.0) an(0.0) 
+important(0.0) budget(1.0) tool(0.0) to(0.0) hold(0.0) us(0.0) accountable(1.0) for(0.0) making(0.0) sure(0.0) that(0.0) spending(1.0) cuts(1.0) translate(1.0) into(0.0) savings(1.0) for(0.0) the(0.0) American(0.0) people(0.0) 
+.(0.0) I(0.0) am(0.0) delighted(0.0) that(0.0) we(0.0) are(0.0) following(0.0) through(0.0) on(0.0) the(0.0) promise(1.0) of(0.0) considering(0.0) the(0.0) lockbox(1.0) as(0.0) a(0.0) freestanding(0.0) bill(1.0) 
+.(0.0) As(0.0) Members(0.0) know(0.0) ,(0.0) this(0.0) House(0.0) approved(1.0) the(0.0) lockbox(1.0) as(0.0) an(0.0) amendment(1.0) to(0.0) the(0.0) Labor-HHS(1.0) spending(1.0) bill(1.0) in(1.0) early(0.0) 
+August(0.0) .(0.0) If(0.0) it(0.0) were(0.0) up(0.0) to(0.0) the(0.0) clear(0.0) majority(1.0) of(0.0) this(0.0) House(0.0) ,(0.0) lockbox(1.0) would(0.0) be(0.0) the(0.0) law(1.0) of(0.0) 
+the(0.0) land(0.0) .(0.0) But(0.0) of(0.0) course(0.0) we(0.0) know(0.0) that(0.0) ours(0.0) is(0.0) a(0.0) bicameral(1.0) legislature(1.0) ,(0.0) and(0.0) we(0.0) must(0.0) secure(0.0) enactment(1.0) 
+of(0.0) our(0.0) good(0.0) ideas(0.0) by(0.0) convincing(0.0) our(0.0) friends(0.0) in(0.0) the(0.0) other(0.0) body(0.0) to(0.0) concur(0.0) .(0.0) In(0.0) sending(0.0) them(0.0) lockbox(1.0) legislation(1.0) 
+as(0.0) part(0.0) of(0.0) a(0.0) spending(1.0) bill(1.0) and(0.0) a(0.0) freestanding(0.0) bill(1.0) ,(0.0) we(0.0) are(0.0) sending(0.0) a(0.0) clear(0.0) signal(0.0) that(0.0) we(0.0) are(0.0) 
+committed(0.0) to(0.0) lockbox(1.0) and(0.0) we(0.0) want(0.0) them(0.0) to(0.0) act(0.0) .(0.0) Although(0.0) there(0.0) was(0.0) much(0.0) agreement(0.0) on(0.0) the(0.0) Rules(0.0) Committee(0.0) proposal(0.0) 
+,(0.0) we(0.0) do(0.0) expect(0.0) several(0.0) issues(0.0) to(0.0) be(0.0) raised(0.0) during(0.0) the(0.0) debate(1.0) .(0.0) The(0.0) open(0.0) amendment(1.0) process(0.0) will(0.0) provide(0.0) Members(0.0) 
+the(0.0) chance(0.0) to(0.0) air(1.0) any(0.0) remaining(0.0) concerns(0.0) they(0.0) have(0.0) in(0.0) a(0.0) full(0.0) and(0.0) fair(0.0) way(0.0) .(0.0) Once(0.0) again(0.0) the(0.0) rule(1.0) 
+provides(0.0) the(0.0) option(0.0) for(0.0) priority(1.0) recognition(0.0) to(0.0) those(0.0) Members(0.0) who(0.0) have(0.0) had(0.0) their(0.0) amendments(0.0) printed(0.0) in(0.0) the(0.0) Congressional(0.0) Record(1.0) .(0.0) 
+Mr.(0.0) Speaker(1.0) ,(0.0) this(0.0) rule(1.0) provides(0.0) an(0.0) hour(0.0) of(0.0) general(0.0) debate(1.0) and(0.0) makes(0.0) in(0.0) order(0.0) as(0.0) an(0.0) original(0.0) bill(1.0) for(0.0) 
+the(0.0) purpose(0.0) of(0.0) amendment(1.0) the(0.0) amendment(1.0) in(0.0) the(0.0) nature(0.0) of(0.0) a(0.0) substitute(0.0) recommended(0.0) by(0.0) the(0.0) Committee(0.0) on(0.0) Rules(0.0) .(0.0) The(0.0) 
+rule(1.0) also(0.0) provides(0.0) that(0.0) the(0.0) amendment(1.0) considered(0.0) as(0.0) read(0.0) and(0.0) open(0.0) to(0.0) amendment(1.0) at(0.0) any(0.0) point(0.0) .(0.0) On(0.0) the(0.0) advice(0.0) 
+of(0.0) the(0.0) Parliamentarian(1.0) ,(0.0) this(0.0) rule(1.0) waives(1.0) clause(1.0) 7(0.0) of(0.0) rule(1.0) XVI(0.0) against(0.0) consideration(0.0) of(0.0) the(0.0) committee(0.0) amendment(0.0) in(0.0) the(0.0) 
+nature(0.0) of(0.0) a(0.0) substitute(0.0) .(0.0) The(0.0) reason(0.0) for(0.0) this(0.0) germaneness(1.0) waiver(1.0) is(0.0) somewhat(0.0) technical(0.0) .(0.0) The(0.0) original(0.0) bill(1.0) as(0.0) introduced(0.0) 
+by(0.0) Mr.(0.0) Crapo(1.0) in(0.0) March(0.0) proposed(1.0) a(0.0) lockbox(0.0) mechanism(0.0) called(0.0) a(0.0) trust(0.0) fund(0.0) to(0.0) be(0.0) maintained(0.0) in(0.0) the(0.0) Treasury(0.0) ,(0.0) 
+while(0.0) the(0.0) Rules(0.0) Committee(0.0) has(0.0) recommended(0.0) a(0.0) lockbox(0.0) mechanism(0.0) called(0.0) an(0.0) account(0.0) to(0.0) be(0.0) maintained(0.0) by(0.0) the(0.0) Congressional(0.0) Budget(1.0) Office(0.0) 
+.(0.0) The(0.0) end(0.0) result(0.0) of(0.0) this(0.0) is(0.0) the(0.0) same(0.0) :(0.0) we(0.0) want(0.0) to(0.0) ensure(0.0) that(0.0) a(0.0) cut(0.0) is(0.0) really(0.0) a(0.0) 
+cut(0.0) ;(0.0) that(0.0) when(0.0) we(0.0) say(0.0) we(0.0) are(0.0) saving(0.0) money(1.0) by(0.0) spending(1.0) less(0.0) in(0.0) appropriations(1.0) bills(0.0) we(0.0) follow(0.0) through(0.0) on(0.0) 
+that(0.0) commitment(1.0) .(0.0) The(0.0) change(0.0) in(0.0) terminology(0.0) apparently(0.0) raises(0.0) some(0.0) germaneness(1.0) questions(0.0) but(0.0) the(0.0) outcome(0.0) is(0.0) the(0.0) same(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+debate	
+.	Frost	pending	
+resolution	debate	Speaker	
+rule	Deficit	Reduction	Lockbox	
+budget	accountable	spending	cuts	translate	savings	
+promise	lockbox	bill	
+approved	lockbox	amendment	Labor-HHS	spending	bill	in	
+majority	lockbox	law	
+bicameral	legislature	enactment	
+lockbox	legislation	
+spending	bill	bill	
+lockbox	
+debate	amendment	
+air	rule	
+priority	Record	
+Speaker	rule	debate	bill	
+amendment	amendment	
+rule	amendment	amendment	
+Parliamentarian	rule	waives	clause	rule	
+germaneness	waiver	bill	
+Crapo	proposed	
+Budget	
+
+money	spending	appropriations	
+commitment	germaneness	
+
+reads % = 0.14

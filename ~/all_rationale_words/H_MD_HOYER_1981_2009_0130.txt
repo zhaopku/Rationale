@@ -1,0 +1,10 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) rise(1.0) to(0.0) a(0.0) question(0.0) of(0.0) the(0.0) privileges(1.0) of(0.0) the(0.0) House(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+rise	privileges	
+
+reads % = 0.13333333333333333

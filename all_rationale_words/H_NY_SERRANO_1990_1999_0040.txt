@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) we(0.0) have(0.0) worked(0.0) together(0.0) on(0.0) this(0.0) issue(0.0) .(0.0) This(0.0) is(0.0) a(0.0) very(0.0) serious(0.0) issue(0.0) ,(0.0) to(0.0) the(0.0) point(0.0) where(0.0) 
+the(0.0) gentleman(0.0) and(0.0) I(0.0) gave(0.0) ourselves(0.0) up(0.0) for(0.0) arrest(1.0) during(0.0) demonstrations(0.0) that(0.0) took(0.0) place(0.0) in(0.0) New(1.0) York(1.0) .(0.0) We(0.0) did(0.0) 
+not(0.0) do(0.0) that(0.0) lightly(0.0) .(0.0) We(0.0) took(0.0) that(0.0) very(0.0) seriously(0.0) at(0.0) this(0.0) stage(0.0) in(0.0) our(0.0) development(0.0) as(0.0) human(0.0) beings(0.0) ,(0.0) 
+and(0.0) at(0.0) this(0.0) stage(0.0) in(0.0) our(0.0) careers(0.0) .(0.0) I(0.0) give(0.0) the(0.0) gentleman(0.0) my(0.0) word(0.0) that(0.0) on(0.0) the(0.0) way(0.0) to(0.0) passage(1.0) 
+and(0.0) signature(0.0) of(0.0) this(0.0) bill(1.0) ,(0.0) to(0.0) approval(1.0) by(0.0) the(0.0) President(1.0) ,(0.0) I(0.0) will(0.0) do(0.0) whatever(0.0) I(0.0) have(0.0) to(0.0) do(0.0) 
+to(0.0) see(0.0) that(0.0) we(0.0) make(0.0) changes(0.0) in(0.0) the(0.0) language(0.0) that(0.0) will(0.0) fit(0.0) the(0.0) gentleman(0.0) 's(0.0) request(0.0) and(0.0) our(0.0) desire(1.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+
+arrest	New	York	
+
+passage	
+bill	approval	President	
+desire	
+
+
+reads % = 0.06611570247933884

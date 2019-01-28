@@ -1,0 +1,22 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) that(0.0) ,(0.0) yes(0.0) ,(0.0) we(0.0) are(0.0) looking(0.0) forward(0.0) to(0.0) the(0.0) legislative(1.0) activity(0.0) for(0.0) the(0.0) remainder(0.0) of(0.0) this(0.0) month(0.0) ,(0.0) 
+as(0.0) I(0.0) said(0.0) earlier(0.0) ,(0.0) to(0.0) include(0.0) appropriations(0.0) bills(0.0) .(0.0) We(0.0) also(0.0) look(0.0) towards(0.0) the(0.0) prospect(0.0) of(0.0) the(0.0) other(0.0) body(0.0) 
+perhaps(0.0) beginning(0.0) to(0.0) act(0.0) ,(0.0) as(0.0) the(0.0) gentleman(0.0) indicated(0.0) ,(0.0) at(0.0) all(0.0) on(0.0) appropriations(1.0) bills(0.0) .(0.0) It(0.0) does(0.0) take(0.0) two(0.0) 
+to(0.0) be(0.0) bicameral(1.0) .(0.0) We(0.0) need(0.0) that(0.0) body(0.0) to(0.0) act(0.0) as(0.0) well(0.0) .(0.0) I(0.0) look(0.0) forward(0.0) to(0.0) seeing(0.0) how(0.0) we(0.0) 
+resolve(0.0) differences(0.0) on(0.0) spending(1.0) levels(0.0) and(0.0) policy(1.0) differences(0.0) as(0.0) we(0.0) approach(0.0) the(0.0) end(0.0) of(0.0) the(0.0) fiscal(1.0) year(0.0) ,(0.0) very(0.0) well(0.0) 
+aware(0.0) that(0.0) we(0.0) have(0.0) challenges(0.0) ahead(0.0) ,(0.0) and(0.0) look(0.0) to(0.0) find(0.0) resolution(1.0) to(0.0) those(0.0) ,(0.0) yes(0.0) ,(0.0) in(0.0) a(0.0) bipartisan(1.0) 
+way(0.0) and(0.0) necessarily(0.0) in(0.0) a(0.0) bicameral(1.0) way(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+legislative	
+
+appropriations	
+bicameral	
+spending	policy	fiscal	
+resolution	bipartisan	
+bicameral	
+
+reads % = 0.06976744186046512

@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) am(0.0) new(0.0) here(0.0) ,(0.0) me(0.0) and(0.0) about(0.0) 86(0.0) new(0.0) people(0.0) on(0.0) my(0.0) side(0.0) .(0.0) I(0.0) watched(0.0) last(0.0) year(0.0) as(0.0) I(0.0) 
+was(0.0) running(0.0) for(0.0) office(0.0) to(0.0) represent(0.0) the(0.0) 11th(0.0) District(0.0) of(0.0) Illinois(1.0) .(0.0) I(0.0) watched(0.0) as(0.0) this(0.0) House(0.0) failed(1.0) to(0.0) produce(0.0) 
+a(0.0) budget(0.0) ,(0.0) which(0.0) is(0.0) why(0.0) we(0.0) are(0.0) where(0.0) we(0.0) are(0.0) today(0.0) .(0.0) But(0.0) I(0.0) also(0.0) watched(0.0) as(0.0) this(0.0) body(0.0) 
+,(0.0) the(0.0) Democrat-(0.0) controlled(0.0) body(0.0) ,(0.0) attempted(0.0) to(0.0) implement(0.0) net(0.0) neutrality(1.0) through(0.0) the(0.0) legislative(1.0) process(0.0) but(0.0) failed(0.0) to(0.0) garner(1.0) enough(0.0) 
+votes(1.0) .(0.0) They(0.0) did(0.0) n't(0.0) ,(0.0) and(0.0) that(0.0) 's(0.0) fine(0.0) .(0.0) That(0.0) 's(0.0) good(0.0) .(0.0) Everybody(0.0) has(0.0) a(0.0) right(0.0) to(0.0) 
+do(0.0) that(0.0) .(0.0) This(0.0) is(0.0) the(0.0) people(0.0) 's(0.0) House(0.0) .(0.0) But(0.0) what(0.0) happens(0.0) if(0.0) you(0.0) are(0.0) unable(0.0) to(0.0) do(0.0) that(0.0) 
+through(0.0) a(0.0) legislative(1.0) process(0.0) ?(0.0) Well(0.0) ,(0.0) why(0.0) not(0.0) call(0.0) a(0.0) regulatory(1.0) agency(0.0) in(0.0) to(0.0) do(0.0) it(0.0) by(0.0) fiat(1.0) .(0.0) 
+Ladies(0.0) and(0.0) gentlemen(0.0) ,(0.0) the(0.0) FCC(1.0) and(0.0) a(0.0) whole(0.0) host(0.0) of(0.0) other(0.0) regulatory(1.0) agencies(1.0) have(0.0) acted(0.0) outside(0.0) the(0.0) will(0.0) of(0.0) 
+the(0.0) people(0.0) .(0.0) It(0.0) is(0.0) high(0.0) time(0.0) that(0.0) the(0.0) regulatory(1.0) agencies(1.0) do(0.0) what(0.0) their(0.0) job(0.0) is(0.0) ,(0.0) which(0.0) is(0.0) to(0.0) 
+regulate(1.0) ,(0.0) not(0.0) to(0.0) legislate(1.0) .(0.0) We(0.0) were(0.0) sent(0.0) here(0.0) in(0.0) November(0.0) to(0.0) stand(0.0) up(0.0) and(0.0) say(0.0) the(0.0) will(0.0) of(0.0) 
+the(0.0) people(0.0) will(0.0) be(0.0) respected(0.0) in(0.0) the(0.0) House(0.0) of(0.0) Representatives(0.0) and(0.0) the(0.0) will(0.0) of(0.0) the(0.0) people(0.0) will(0.0) be(0.0) respected(0.0) by(0.0) 
+the(0.0) Federal(1.0) Government(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Illinois	failed	
+
+neutrality	legislative	garner	
+votes	
+
+legislative	regulatory	fiat	
+FCC	regulatory	agencies	
+regulatory	agencies	
+regulate	legislate	
+
+Federal	Government	
+
+reads % = 0.08

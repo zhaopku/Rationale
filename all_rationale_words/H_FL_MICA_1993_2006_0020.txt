@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) again(0.0) for(0.0) the(0.0) record(0.0) ,(0.0) first(0.0) of(0.0) all(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) York(1.0) just(0.0) talked(0.0) about(0.0) this(0.0) 
+unfair(1.0) process(0.0) .(0.0) This(0.0) is(0.0) the(0.0) same(0.0) process(0.0) that(0.0) was(0.0) put(0.0) into(0.0) effect(0.0) during(0.0) the(0.0) Clinton(1.0) administration(1.0) in(0.0) 1996(1.0) ,(0.0) 
+and(0.0) in(0.0) 1998(0.0) gave(0.0) the(0.0) air(0.0) traffic(0.0) controllers(0.0) a(0.0) 75(0.0) percent(0.0) increase(1.0) ,(0.0) the(0.0) same(0.0) exact(0.0) process(0.0) that(0.0) we(0.0) are(0.0) 
+working(0.0) under(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) New(0.0) York(1.0) ((0.0) Mr.(0.0) Bishop(1.0) )(0.0) and(0.0) my(0.0) good(0.0) friend(0.0) ,(0.0) the(0.0) gentlewoman(0.0) from(0.0) 
+New(0.0) York(1.0) ((0.0) Mrs.(0.0) Kelly(1.0) )(0.0) ,(0.0) the(0.0) average(0.0) median(0.0) household(0.0) incomes(0.0) by(0.0) State(0.0) that(0.0) I(0.0) have(0.0) for(0.0) New(0.0) York(1.0) 
+is(0.0) $(0.0) 47,349(0.0) .(0.0) Now(0.0) ,(0.0) I(0.0) do(0.0) not(0.0) want(0.0) anyone(0.0) to(0.0) think(0.0) that(0.0) we(0.0) are(0.0) cutting(0.0) existing(0.0) air(1.0) traffic(0.0) 
+controllers(0.0) .(0.0) Under(0.0) the(0.0) contract(1.0) that(0.0) went(0.0) into(0.0) effect(0.0) on(0.0) Monday(0.0) ,(0.0) their(0.0) compensation(1.0) and(0.0) their(0.0) benefits(1.0) ,(0.0) they(0.0) will(0.0) 
+rise(1.0) from(0.0) 2007(0.0) to(0.0) 2011(0.0) from(0.0) $(0.0) 173,000(0.0) to(0.0) $(0.0) 185,000(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) 
+my(0.0) time(0.0) .(0.0) Mr.(0.0) LaTOURETTE(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) Mr.(0.0) 
+Speaker(1.0) ,(0.0) I(0.0) just(0.0) want(0.0) to(0.0) make(0.0) a(0.0) brief(0.0) comment(0.0) before(0.0) yielding(0.0) to(0.0) my(0.0) friend(0.0) from(0.0) New(0.0) Jersey(1.0) ((0.0) Mr.(0.0) 
+LoBiondo(1.0) )(0.0) .(0.0) Mr.(0.0) Mica(1.0) continues(1.0) to(0.0) talk(0.0) this(0.0) bill(1.0) reaching(0.0) back(0.0) .(0.0) I(0.0) just(0.0) want(0.0) to(0.0) focus(0.0) on(0.0) the(0.0) 
+60(0.0) days(0.0) that(0.0) was(0.0) in(0.0) the(0.0) current(0.0) law(1.0) .(0.0) It(0.0) is(0.0) inconceivable(0.0) that(0.0) anybody(0.0) that(0.0) has(0.0) been(0.0) here(0.0) for(0.0) any(0.0) 
+period(0.0) of(0.0) time(0.0) thinks(0.0) that(0.0) this(0.0) Congress(1.0) can(0.0) act(0.0) in(0.0) 60(0.0) calendar(0.0) days(0.0) on(0.0) anything(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) 
+have(0.0) been(0.0) here(0.0) 12(0.0) years(0.0) .(0.0) For(0.0) that(0.0) entire(0.0) 12(0.0) years(0.0) we(0.0) have(0.0) been(0.0) trying(0.0) to(0.0) repeal(1.0) a(0.0) telephone(0.0) tax(0.0) 
+that(0.0) was(0.0) put(0.0) into(0.0) effect(0.0) to(0.0) pay(1.0) for(0.0) a(0.0) war(1.0) .(0.0) Now(0.0) some(0.0) people(0.0) say(0.0) ,(0.0) oh(0.0) ,(0.0) was(0.0) it(0.0) 
+the(0.0) Iraq(1.0) war(1.0) ?(0.0) Maybe(0.0) the(0.0) gulf(1.0) war(1.0) ?(0.0) Maybe(0.0) Korea(1.0) ?(0.0) No(0.0) ,(0.0) the(0.0) Spanish-American(1.0) War(0.0) .(0.0) The(0.0) Treasury(0.0) 
+Department(0.0) just(0.0) announced(0.0) this(0.0) week(0.0) that(0.0) they(0.0) are(0.0) going(0.0) to(0.0) let(0.0) us(0.0) repeal(1.0) the(0.0) tax(1.0) that(0.0) is(0.0) 100(0.0) years(0.0) old(0.0) 
+,(0.0) but(0.0) we(0.0) were(0.0) supposed(0.0) to(0.0) act(0.0) in(0.0) 60(0.0) days(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) 1(0.0) minute(0.0) to(0.0) the(0.0) 
+gentleman(0.0) from(0.0) New(0.0) Jersey(1.0) ((0.0) Mr.(0.0) LoBiondo(1.0) )(0.0) .(0.0) Mr.(0.0) LoBIONDO(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) thank(0.0) my(0.0) colleague(0.0) for(0.0) 
+yielding(0.0) me(0.0) time(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) rise(0.0) in(0.0) strong(0.0) support(0.0) of(0.0) H.R(0.0) .(0.0) 5449(0.0) .(0.0) I(0.0) would(0.0) like(0.0) 
+to(0.0) thank(0.0) Congressman(1.0) LaTourette(1.0) for(0.0) his(0.0) dogged(0.0) determination(0.0) in(0.0) pursuing(1.0) this(0.0) issue(0.0) .(0.0) Also(0.0) I(0.0) thank(0.0) Congresswoman(1.0) Kelly(1.0) and(0.0) Congressman(1.0) 
+Costello(1.0) for(0.0) their(0.0) help(0.0) on(0.0) this(0.0) very(0.0) important(0.0) issue(0.0) ,(0.0) and(0.0) also(0.0) Speaker(0.0) Hastert(1.0) and(1.0) Majority(1.0) Leader(1.0) Boehner(1.0) .(0.0) H.R(1.0) 
+.(0.0) 5449(0.0) is(0.0) a(0.0) fair(0.0) way(0.0) of(0.0) resolving(0.0) the(0.0) contract(0.0) dispute(0.0) between(0.0) the(0.0) controllers(0.0) and(0.0) the(0.0) FAA(0.0) .(0.0) It(0.0) simply(0.0) 
+brings(0.0) both(0.0) parties(0.0) back(0.0) to(0.0) the(0.0) table(0.0) to(0.0) reach(0.0) a(0.0) mutually(0.0) acceptable(0.0) solution(0.0) .(0.0) I(0.0) share(0.0) the(0.0) concerns(0.0) regarding(0.0) the(0.0) 
+budget(1.0) shortfall(1.0) at(0.0) the(0.0) FAA(1.0) and(0.0) the(0.0) need(0.0) to(0.0) free(0.0) up(0.0) funds(1.0) to(0.0) modernize(1.0) our(0.0) air(1.0) traffic(0.0) control(0.0) system(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	York	
+unfair	Clinton	administration	1996	
+increase	
+York	Bishop	
+York	Kelly	York	
+air	
+contract	compensation	benefits	
+rise	Speaker	
+LaTOURETTE	Speaker	
+Speaker	Jersey	
+LoBiondo	Mica	continues	bill	
+law	
+Congress	Speaker	
+repeal	
+pay	war	
+Iraq	war	gulf	war	Korea	Spanish-American	
+repeal	tax	
+Speaker	
+Jersey	LoBiondo	LoBIONDO	Speaker	
+Speaker	
+Congressman	LaTourette	pursuing	Congresswoman	Kelly	Congressman	
+Costello	Hastert	and	Majority	Leader	Boehner	H.R	
+
+
+budget	shortfall	FAA	funds	modernize	air	
+
+reads % = 0.13

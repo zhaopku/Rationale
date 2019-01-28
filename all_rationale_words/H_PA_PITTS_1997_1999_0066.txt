@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) rise(0.0) today(0.0) to(0.0) urge(0.0) the(0.0) House(0.0) to(0.0) pass(0.0) my(0.0) child(0.0) survival(1.0) protection(1.0) amendment(1.0) to(0.0) the(0.0) foreign(1.0) ops(1.0) 
+appropriations(0.0) bill(0.0) .(0.0) This(0.0) amendment(1.0) is(0.0) simple(0.0) ,(0.0) it(0.0) is(0.0) rational(1.0) ,(0.0) and(0.0) it(0.0) represents(0.0) taxpayer(1.0) honesty(0.0) .(0.0) It(0.0) is(0.0) 
+one(0.0) that(0.0) many(0.0) on(0.0) both(0.0) sides(0.0) of(0.0) the(0.0) aisle(0.0) can(0.0) vote(1.0) for(0.0) .(0.0) Simply(0.0) ,(0.0) it(0.0) puts(0.0) a(0.0) firewall(0.0) around(0.0) 
+child(0.0) survival(1.0) funding(1.0) ,(0.0) stating(0.0) that(0.0) child(0.0) survival(0.0) funds(1.0) should(0.0) be(0.0) used(0.0) for(0.0) child(0.0) survival(1.0) ,(0.0) to(0.0) save(0.0) lives(0.0) of(0.0) 
+children(0.0) ,(0.0) and(0.0) not(0.0) be(0.0) used(0.0) for(0.0) population(1.0) control(0.0) .(0.0) This(0.0) is(0.0) merely(0.0) honesty(0.0) in(0.0) budgeting(1.0) ,(0.0) honesty(0.0) in(0.0) appropriations(1.0) 
+.(0.0) Money(0.0) appropriated(1.0) for(0.0) child(0.0) survival(0.0) should(0.0) be(0.0) used(0.0) for(0.0) child(0.0) survival(1.0) .(0.0) Money(1.0) appropriated(1.0) for(0.0) population(1.0) control(0.0) should(0.0) be(0.0) 
+used(0.0) for(0.0) population(1.0) control(0.0) .(0.0) Many(0.0) of(0.0) my(0.0) colleagues(0.0) might(0.0) not(0.0) be(0.0) familiar(0.0) with(0.0) the(0.0) child(0.0) survival(0.0) program(1.0) .(0.0) Let(0.0) 
+me(0.0) take(0.0) a(0.0) few(0.0) minutes(0.0) to(0.0) give(0.0) some(0.0) background(0.0) .(0.0) In(0.0) developing(0.0) countries(1.0) ,(0.0) more(0.0) than(0.0) 12(0.0) million(0.0) children(1.0) under(0.0) 
+the(0.0) age(0.0) of(0.0) 5(0.0) die(0.0) each(0.0) year(0.0) of(0.0) easily(0.0) preventable(1.0) diseases(1.0) .(0.0) This(0.0) is(0.0) the(0.0) equivalent(0.0) of(0.0) half(0.0) of(0.0) the(0.0) 
+children(0.0) under(0.0) 5(0.0) in(0.0) America(1.0) dying(0.0) in(0.0) a(0.0) single(0.0) year(0.0) .(0.0) It(0.0) is(0.0) an(0.0) enormous(1.0) number(0.0) of(0.0) children(0.0) .(0.0) It(0.0) 
+is(0.0) tragic(0.0) .(0.0) The(0.0) child(0.0) survival(0.0) funds(1.0) in(0.0) the(0.0) foreign(1.0) ops(1.0) bill(0.0) were(0.0) created(0.0) to(0.0) help(0.0) these(0.0) children(0.0) live(0.0) long(0.0) 
+enough(0.0) to(0.0) celebrate(0.0) even(0.0) their(0.0) fifth(0.0) birthday(0.0) .(0.0) Children(0.0) in(0.0) developing(1.0) countries(1.0) die(0.0) every(0.0) day(0.0) of(0.0) illnesses(1.0) that(0.0) would(0.0) never(0.0) 
+be(0.0) fatal(0.0) to(0.0) our(0.0) children(0.0) here(0.0) in(0.0) America(1.0) ,(0.0) things(0.0) like(0.0) dehydration(0.0) ,(0.0) measles(1.0) ,(0.0) pneumonia(0.0) ,(0.0) malaria(1.0) ,(0.0) respiratory(1.0) 
+infections(1.0) .(0.0) Our(0.0) children(0.0) do(0.0) not(0.0) die(0.0) of(0.0) these(0.0) things(0.0) because(0.0) we(0.0) have(0.0) access(0.0) to(0.0) medicines(1.0) ,(0.0) immunizations(1.0) ,(0.0) and(0.0) 
+clean(1.0) water(1.0) .(0.0) But(0.0) poor(1.0) mothers(1.0) around(0.0) the(0.0) world(0.0) are(0.0) often(0.0) helpless(0.0) to(0.0) provide(0.0) this(0.0) care(1.0) for(0.0) their(0.0) children(0.0) ,(0.0) 
+and(0.0) that(0.0) is(0.0) why(0.0) child(0.0) survival(1.0) funding(1.0) is(0.0) absolutely(0.0) essential(0.0) .(0.0) Just(0.0) take(0.0) a(0.0) look(0.0) at(0.0) this(0.0) chart(0.0) ,(0.0) which(0.0) 
+details(0.0) the(0.0) simple(0.0) ways(0.0) that(0.0) child(0.0) survival(1.0) funds(1.0) can(0.0) literally(0.0) save(0.0) millions(1.0) of(0.0) lives(1.0) of(0.0) the(0.0) most(0.0) helpless(1.0) people(0.0) around(0.0) 
+the(0.0) world(0.0) ,(0.0) the(0.0) children(0.0) .(0.0) First(0.0) ,(0.0) seven(0.0) cents(0.0) .(0.0) That(0.0) is(0.0) all(0.0) it(0.0) costs(1.0) for(0.0) oral(0.0) rehydration(1.0) salts(1.0) 
+that(0.0) can(0.0) save(0.0) a(0.0) child(0.0) from(0.0) dying(1.0) of(0.0) dehydration(1.0) that(0.0) has(0.0) dysentery(0.0) .(0.0) Nearly(0.0) 2(0.0) million(0.0) children(1.0) die(1.0) of(0.0) that(0.0) 
+a(0.0) year(0.0) .(0.0) Fifteen(0.0) dollars(1.0) provides(0.0) a(0.0) child(0.0) with(0.0) immunization(1.0) against(0.0) six(0.0) major(1.0) childhood(0.0) diseases(1.0) .(0.0) Two(0.0) million(0.0) more(0.0) children(0.0) 
+die(0.0) of(0.0) those(0.0) around(0.0) the(0.0) world(0.0) .(0.0) Six(0.0) cents(0.0) can(0.0) provide(0.0) three(0.0) vitamin(0.0) A(0.0) capsules(0.0) to(0.0) save(0.0) a(0.0) child(0.0) from(0.0) 
+going(0.0) blind(0.0) .(0.0) One(0.0) hundred(0.0) million(0.0) children(1.0) suffer(0.0) from(0.0) this(0.0) deficiency(1.0) .(0.0) Fifteen(0.0) dollars(1.0) ,(0.0) a(0.0) bed(0.0) net(0.0) ,(0.0) protects(1.0) 
+a(0.0) child(0.0) from(0.0) malaria(1.0) .(0.0) More(0.0) than(0.0) a(0.0) million(0.0) children(0.0) a(0.0) year(0.0) die(0.0) from(0.0) malaria(1.0) .(0.0) Twenty-five(0.0) cents(0.0) could(0.0) provide(0.0) 
+proper(0.0) antibiotics(1.0) to(0.0) treat(0.0) pneumonia(1.0) .(0.0) Two(0.0) million(0.0) children(0.0) die(0.0) of(0.0) that(0.0) .(0.0) One(0.0) dollar(1.0) and(0.0) seventy(0.0) cents(0.0) improves(0.0) sanitation(1.0) 
+to(0.0) prevent(1.0) water-(0.0) borne(0.0) diseases(1.0) .(0.0) Three(0.0) million(0.0) children(1.0) die(0.0) from(0.0) that(0.0) .(0.0) I(0.0) think(0.0) my(0.0) colleagues(0.0) can(0.0) see(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	survival	protection	amendment	foreign	ops	
+amendment	rational	taxpayer	
+vote	
+survival	funding	funds	survival	
+population	budgeting	appropriations	
+appropriated	survival	Money	appropriated	population	
+population	program	
+countries	children	
+preventable	diseases	
+America	enormous	
+funds	foreign	ops	
+developing	countries	illnesses	
+America	measles	malaria	respiratory	
+infections	medicines	immunizations	
+clean	water	poor	mothers	care	
+survival	funding	
+survival	funds	millions	lives	helpless	
+costs	rehydration	salts	
+dying	dehydration	children	die	
+dollars	immunization	major	diseases	
+
+children	deficiency	dollars	protects	
+malaria	malaria	
+antibiotics	pneumonia	dollar	sanitation	
+prevent	diseases	children	
+
+reads % = 0.158

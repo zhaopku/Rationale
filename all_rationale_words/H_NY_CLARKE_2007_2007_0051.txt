@@ -1,0 +1,20 @@
+This is from a Democrat
+----- below is the original text -----
+A(0.0) fraction(0.0) of(0.0) the(0.0) cost(0.0) ,(0.0) my(0.0) colleague(0.0) ;(0.0) a(0.0) fraction(0.0) of(0.0) the(0.0) cost(0.0) of(0.0) what(0.0) we(0.0) are(0.0) spending(1.0) every(0.0) day(0.0) 
+to(0.0) build(0.0) democracies(1.0) overseas(0.0) .(0.0) He(0.0) is(0.0) not(0.0) willing(0.0) to(0.0) invest(1.0) in(0.0) strengthening(1.0) our(0.0) democracy(1.0) here(0.0) at(0.0) home(0.0) .(0.0) It(0.0) 
+is(0.0) fundamental(1.0) .(0.0) It(0.0) just(0.0) almost(0.0) seems(0.0) like(0.0) a(0.0) bad(0.0) dream(0.0) .(0.0) Another(0.0) thing(0.0) that(0.0) the(0.0) President(1.0) has(0.0) said(0.0) ,(0.0) 
+the(0.0) SCHIP(1.0) proposal(1.0) would(1.0) move(0.0) millions(1.0) of(0.0) American(0.0) children(1.0) who(0.0) now(0.0) have(0.0) private(0.0) health(1.0) insurance(1.0) into(0.0) government-run(1.0) health(1.0) care(0.0) .(0.0) 
+What(0.0) planet(0.0) is(0.0) he(0.0) on(0.0) ,(0.0) Doctor(0.0) ?(0.0) The(0.0) main(0.0) impact(0.0) of(0.0) this(0.0) bill(1.0) would(1.0) be(0.0) extending(0.0) coverage(1.0) to(0.0) low-income(1.0) 
+children(0.0) who(0.0) would(0.0) otherwise(0.0) be(0.0) uninsured(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+spending	
+democracies	invest	strengthening	democracy	
+fundamental	President	
+SCHIP	proposal	would	millions	children	health	insurance	government-run	health	
+bill	would	coverage	low-income	
+uninsured	
+
+reads % = 0.19444444444444445

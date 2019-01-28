@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) on(0.0) November(0.0) 8(0.0) ,(0.0) the(0.0) American(0.0) people(0.0) sent(0.0) Washington(1.0) a(0.0) message(0.0) that(0.0) the(0.0) Federal(1.0) Government(1.0) is(0.0) too(0.0) big(0.0) ,(0.0) 
+too(0.0) powerful(0.0) ,(0.0) and(0.0) spends(1.0) too(0.0) much(0.0) money(1.0) .(0.0) That(0.0) is(0.0) why(0.0) they(0.0) overwhelmingly(1.0) support(0.0) a(0.0) balanced(0.0) budget(1.0) amendment(1.0) .(0.0) 
+But(0.0) not(0.0) just(0.0) any(0.0) amendment(1.0) .(0.0) The(0.0) American(0.0) people(0.0) want(0.0) an(0.0) amendment(1.0) that(0.0) makes(0.0) it(0.0) more(0.0) difficult(0.0) to(0.0) raise(1.0) taxes(1.0) 
+and(0.0) forces(0.0) Congress(0.0) to(0.0) make(0.0) tough(0.0) spending(1.0) decisions(0.0) .(0.0) That(0.0) is(0.0) why(0.0) it(0.0) is(0.0) imperative(0.0) that(0.0) the(0.0) balanced(0.0) budget(1.0) amendment(1.0) 
+include(0.0) strong(0.0) taxpayer(1.0) protection(1.0) .(0.0) The(0.0) three-fifths(1.0) provision(1.0) does(0.0) just(0.0) that(0.0) .(0.0) It(0.0) requires(0.0) not(0.0) just(0.0) a(0.0) simple(0.0) majority(0.0) ,(0.0) 
+but(0.0) a(0.0) three-fifths(1.0) supermajority(1.0) to(0.0) raise(0.0) taxes(1.0) .(0.0) If(0.0) we(0.0) do(0.0) not(0.0) ensure(0.0) the(0.0) inclusion(1.0) of(0.0) the(0.0) three-fifths(1.0) provision(1.0) in(0.0) 
+a(0.0) balanced(0.0) budget(1.0) amendment(1.0) ,(0.0) then(0.0) we(0.0) are(0.0) giving(0.0) this(0.0) body(0.0) license(0.0) to(0.0) continue(0.0) its(0.0) cycle(0.0) of(0.0) wasteful(1.0) spending(1.0) and(0.0) 
+irresponsible(1.0) tax(1.0) increases(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) want(0.0) the(0.0) Government(1.0) 's(0.0) license(0.0) revoked(0.0) .(0.0) We(0.0) must(0.0) empower(1.0) people(0.0) ,(0.0) 
+not(0.0) Government(1.0) .(0.0) Passage(1.0) of(0.0) the(0.0) balanced(0.0) budget(1.0) amendment(1.0) with(0.0) the(0.0) three-fifths(1.0) provision(1.0) is(0.0) the(0.0) first(0.0) step(0.0) in(0.0) the(0.0) right(0.0) 
+direction(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Washington	Federal	Government	
+spends	money	overwhelmingly	budget	amendment	
+amendment	amendment	raise	taxes	
+spending	budget	amendment	
+taxpayer	protection	three-fifths	provision	
+three-fifths	supermajority	taxes	inclusion	three-fifths	provision	
+budget	amendment	wasteful	spending	
+irresponsible	tax	increases	Speaker	Government	empower	
+Government	Passage	budget	amendment	three-fifths	provision	
+
+
+reads % = 0.22404371584699453

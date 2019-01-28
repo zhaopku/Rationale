@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) H.R(0.0) .(0.0) 3969(0.0) ,(0.0) the(0.0) Freedom(1.0) Promotion(0.0) Act(0.0) of(0.0) 2002(0.0) .(0.0) As(0.0) Americans(1.0) 
+,(0.0) we(0.0) are(0.0) justly(0.0) proud(0.0) of(0.0) our(0.0) country(1.0) .(0.0) If(0.0) any(0.0) Nation(1.0) has(0.0) been(0.0) a(0.0) greater(0.0) force(0.0) for(0.0) good(0.0) in(0.0) 
+the(0.0) long(0.0) and(0.0) tormented(0.0) history(0.0) of(0.0) this(0.0) world(0.0) ,(0.0) I(0.0) am(0.0) unaware(0.0) of(0.0) it(0.0) .(0.0) We(0.0) have(0.0) guarded(0.0) whole(0.0) continents(0.0) 
+from(0.0) conquests(0.0) ,(0.0) showered(0.0) aid(1.0) on(0.0) distant(0.0) lands(0.0) ,(0.0) sent(0.0) thousands(0.0) of(0.0) youthful(0.0) idealists(1.0) to(0.0) remote(0.0) and(0.0) often(0.0) inhospitable(0.0) areas(0.0) 
+to(0.0) help(0.0) the(0.0) world(0.0) 's(0.0) forgotten(0.0) .(0.0) Why(0.0) then(0.0) when(0.0) we(0.0) read(0.0) or(0.0) listen(0.0) to(0.0) descriptions(0.0) of(0.0) Americans(1.0) in(0.0) foreign(1.0) 
+press(0.0) ,(0.0) do(0.0) we(0.0) so(0.0) often(0.0) seem(0.0) to(0.0) be(0.0) entering(0.0) a(0.0) fantasyland(0.0) of(0.0) hatred(1.0) ?(0.0) Much(0.0) of(0.0) the(0.0) popular(0.0) press(0.0) 
+overseas(0.0) ,(0.0) often(0.0) including(0.0) the(0.0) government-(0.0) owned(0.0) media(0.0) ,(0.0) daily(0.0) depict(0.0) the(0.0) United(0.0) States(0.0) as(0.0) a(0.0) force(0.0) for(0.0) evil(1.0) ,(0.0) 
+accusing(1.0) this(0.0) country(1.0) of(0.0) an(0.0) endless(0.0) number(0.0) of(0.0) malevolent(1.0) plots(0.0) against(0.0) the(0.0) world(0.0) .(0.0) As(0.0) we(0.0) battle(1.0) the(0.0) terrorists(1.0) who(0.0) 
+masterminded(1.0) the(0.0) murder(1.0) of(0.0) thousands(1.0) of(0.0) Americans(1.0) ,(0.0) our(0.0) actions(1.0) are(0.0) widely(0.0) depicted(0.0) in(0.0) the(0.0) Muslim(1.0) world(0.0) as(0.0) a(0.0) war(1.0) 
+against(0.0) Islam(1.0) .(0.0) Our(0.0) efforts(1.0) at(0.0) self-defense(1.0) ,(0.0) which(0.0) should(0.0) be(0.0) supported(0.0) by(0.0) every(0.0) decent(0.0) person(0.0) on(0.0) this(0.0) planet(1.0) ,(0.0) 
+instead(0.0) spark(0.0) riots(1.0) that(0.0) threaten(1.0) governments(1.0) that(0.0) dare(0.0) to(0.0) cooperate(0.0) with(0.0) us(0.0) .(0.0) How(0.0) is(0.0) it(0.0) that(0.0) the(0.0) country(1.0) that(0.0) 
+invented(0.0) Hollywood(0.0) and(0.0) Madison(1.0) Avenue(0.0) has(0.0) such(0.0) trouble(0.0) promoting(1.0) a(0.0) positive(0.0) image(0.0) of(0.0) itself(0.0) overseas(0.0) ?(0.0) Over(0.0) the(0.0) years(0.0) ,(0.0) 
+the(0.0) images(0.0) of(0.0) mindless(1.0) hatred(1.0) directed(0.0) at(0.0) us(0.0) have(0.0) become(0.0) familiar(0.0) fixtures(0.0) on(0.0) our(0.0) television(0.0) screens(0.0) .(0.0) All(0.0) this(0.0) time(0.0) 
+,(0.0) we(0.0) have(0.0) heard(0.0) calls(0.0) that(0.0) ``(0.0) something(0.0) must(0.0) be(0.0) done(0.0) .(0.0) ''(0.0) Clearly(0.0) ,(0.0) whatever(0.0) has(0.0) been(0.0) done(0.0) has(0.0) 
+not(0.0) been(0.0) enough(0.0) .(0.0) I(0.0) believe(0.0) that(0.0) the(0.0) problem(0.0) is(0.0) too(0.0) great(0.0) and(0.0) too(0.0) entrenched(1.0) to(0.0) be(0.0) solved(0.0) by(0.0) tweaking(0.0) 
+an(0.0) agency(0.0) here(0.0) or(0.0) reshuffling(1.0) a(0.0) program(0.0) there(0.0) .(0.0) We(0.0) must(0.0) rethink(1.0) our(0.0) entire(0.0) approach(0.0) and(0.0) seek(0.0) out(0.0) new(0.0) perspectives(1.0) 
+and(0.0) methods(0.0) .(0.0) We(0.0) must(0.0) both(0.0) address(0.0) our(0.0) immediate(0.0) needs(0.0) and(0.0) also(0.0) lay(0.0) the(0.0) groundwork(1.0) for(0.0) long-term(1.0) changes(0.0) ,(0.0) changes(0.0) 
+that(0.0) must(0.0) include(0.0) utilizing(0.0) the(0.0) full(0.0) range(0.0) of(0.0) modern(0.0) media(0.0) and(0.0) tapping(0.0) into(0.0) the(0.0) private(0.0) sector's(0.0) vast(0.0) expertise(0.0) in(0.0) the(0.0) 
+creation(0.0) and(0.0) promotion(0.0) of(0.0) compelling(0.0) messages(0.0) and(0.0) images(0.0) .(0.0) To(0.0) begin(0.0) this(0.0) process(0.0) ,(0.0) with(0.0) the(0.0) assistance(0.0) of(0.0) my(0.0) cosponsors(1.0) 
+,(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) ((0.0) Mr.(0.0) Lantos(1.0) )(0.0) and(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) ((0.0) Mr.(0.0) Berman(1.0) )(0.0) ,(0.0) I(0.0) 
+have(0.0) introduced(0.0) the(0.0) bipartisan(1.0) bill(1.0) now(1.0) before(1.0) us(1.0) ,(0.0) H.R(0.0) .(0.0) 3969(0.0) ,(0.0) the(0.0) Freedom(1.0) Promotion(0.0) Act(0.0) of(0.0) 2002(0.0) .(0.0) 
+This(0.0) legislation(0.0) is(0.0) designed(0.0) to(0.0) meet(0.0) a(0.0) number(0.0) of(0.0) pressing(0.0) needs(0.0) by(0.0) reorienting(1.0) and(0.0) reinvigorating(1.0) our(0.0) approach(0.0) to(0.0) public(1.0) diplomacy(1.0) 
+.(0.0) The(0.0) bill(1.0) is(0.0) divided(0.0) into(0.0) three(0.0) titles(0.0) .(0.0) The(0.0) major(0.0) provisions(0.0) of(0.0) title(0.0) I(0.0) elevate(0.0) the(0.0) role(0.0) and(0.0) prominence(1.0) 
+of(0.0) public(0.0) diplomacy(1.0) in(0.0) the(0.0) State(0.0) Department(0.0) 's(0.0) programs(1.0) and(0.0) decision-making(0.0) and(0.0) include(0.0) a(0.0) requirement(0.0) that(0.0) the(0.0) Secretary(0.0) of(0.0) State(0.0) 
+prepare(0.0) an(0.0) annual(0.0) strategic(0.0) plan(0.0) for(0.0) the(0.0) use(0.0) of(0.0) public(0.0) diplomacy(0.0) along(0.0) with(0.0) an(0.0) operational(0.0) plan(0.0) for(0.0) its(0.0) implementation(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	Freedom	Americans	
+country	Nation	
+
+aid	idealists	
+Americans	foreign	
+hatred	
+evil	
+accusing	country	malevolent	battle	terrorists	
+masterminded	murder	thousands	Americans	actions	Muslim	war	
+Islam	efforts	self-defense	planet	
+riots	threaten	governments	country	
+Madison	promoting	
+mindless	hatred	
+
+entrenched	
+reshuffling	rethink	perspectives	
+groundwork	long-term	
+
+cosponsors	
+Lantos	Berman	
+bipartisan	bill	now	before	us	Freedom	
+reorienting	reinvigorating	public	diplomacy	
+bill	prominence	
+diplomacy	programs	
+
+
+reads % = 0.116

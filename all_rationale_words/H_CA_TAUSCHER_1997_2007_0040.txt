@@ -1,0 +1,36 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Chairman(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) as(0.0) the(0.0) Chair(1.0) of(0.0) the(0.0) House(0.0) New(1.0) Democrat(1.0) Coalition(1.0) in(0.0) strong(0.0) support(0.0) of(0.0) the(0.0) Employee(0.0) 
+Free(0.0) Choice(0.0) Act(0.0) .(0.0) Passage(0.0) of(0.0) today(0.0) 's(0.0) legislation(1.0) will(0.0) give(0.0) working(0.0) Americans(1.0) a(0.0) basic(0.0) right(0.0) --(0.0) the(0.0) ability(0.0) to(0.0) 
+choose(0.0) ,(0.0) unabated(1.0) ,(0.0) whether(0.0) to(0.0) join(0.0) with(0.0) their(0.0) coworkers(0.0) and(0.0) bargain(0.0) for(0.0) a(0.0) better(0.0) life(0.0) .(0.0) As(0.0) Americans(1.0) strive(0.0) 
+for(0.0) fairer(1.0) treatment(0.0) at(0.0) work(0.0) and(0.0) greater(0.0) economic(1.0) prosperity(1.0) ,(0.0) it(0.0) is(0.0) a(0.0) right(0.0) which(0.0) we(0.0) must(0.0) not(0.0) deny(0.0) them(0.0) 
+.(0.0) There(0.0) is(0.0) powerful(0.0) evidence(0.0) that(0.0) America(1.0) 's(0.0) middle(0.0) class(0.0) is(0.0) stronger(0.0) when(0.0) workers(1.0) join(0.0) together(0.0) and(0.0) bargain(0.0) for(0.0) better(0.0) 
+wages(1.0) ,(0.0) better(0.0) working(0.0) conditions(0.0) and(0.0) better(0.0) benefits(1.0) .(0.0) In(0.0) fact(0.0) ,(0.0) union(1.0) workers(1.0) '(0.0) median(0.0) weekly(0.0) earnings(0.0) are(0.0) thirty(0.0) 
+percent(0.0) higher(0.0) than(0.0) nonunion(1.0) workers(1.0) '(0.0) .(0.0) Eighty(0.0) percent(0.0) of(0.0) union(1.0) workers(1.0) have(0.0) employer-provided(1.0) health(1.0) insurance(1.0) .(0.0) And(0.0) sixty-eight(0.0) percent(0.0) 
+of(0.0) union(1.0) workers(1.0) have(0.0) a(0.0) guaranteed(0.0) pension(1.0) through(0.0) a(0.0) defined(0.0) benefit(0.0) pension(1.0) plan(1.0) .(0.0) Contrary(0.0) to(0.0) what(0.0) opponents(1.0) of(0.0) the(0.0) 
+legislation(1.0) will(0.0) say(0.0) ,(0.0) the(0.0) Employee(1.0) Free(0.0) Choice(0.0) Act(0.0) does(0.0) not(0.0) mandate(1.0) that(0.0) workers(1.0) join(0.0) a(0.0) union(1.0) .(0.0) It(0.0) does(0.0) 
+not(0.0) abolish(1.0) the(0.0) secret(1.0) ballot(1.0) election(1.0) process(0.0) .(0.0) And(0.0) it(0.0) will(0.0) not(0.0) make(0.0) union(1.0) organization(1.0) more(0.0) vulnerable(0.0) to(0.0) fraud(1.0) and(0.0) 
+coercion(1.0) .(0.0) It(0.0) will(0.0) ,(0.0) however(0.0) ,(0.0) provide(0.0) American(0.0) workers(1.0) with(0.0) a(0.0) choice(0.0) --(0.0) a(0.0) choice(0.0) and(0.0) a(0.0) hand(0.0) in(0.0) 
+determining(1.0) their(0.0) future(0.0) economic(1.0) prosperity(1.0) .(0.0) This(0.0) is(0.0) the(0.0) least(0.0) we(0.0) can(0.0) do(0.0) for(0.0) America(1.0) 's(0.0) workers(1.0) .(0.0) I(0.0) strongly(0.0) 
+encourage(0.0) all(0.0) my(0.0) Colleagues(0.0) to(0.0) join(0.0) with(0.0) me(0.0) and(0.0) support(0.0) H.R(0.0) .(0.0) 800(0.0) ,(0.0) the(0.0) Employee(1.0) Free(0.0) Choice(0.0) Act(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+Chair	New	Democrat	Coalition	
+legislation	Americans	
+unabated	Americans	
+fairer	economic	prosperity	
+America	workers	
+wages	benefits	union	workers	
+nonunion	workers	union	workers	employer-provided	health	insurance	
+union	workers	pension	pension	plan	opponents	
+legislation	Employee	mandate	workers	union	
+abolish	secret	ballot	election	union	organization	fraud	
+coercion	workers	
+determining	economic	prosperity	America	workers	
+Employee	
+
+
+reads % = 0.19157088122605365

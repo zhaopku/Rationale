@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) once(0.0) again(0.0) we(0.0) are(0.0) told(0.0) that(0.0) the(0.0) White(1.0) House(0.0) is(0.0) cooperating(1.0) fully(0.0) with(0.0) Judge(0.0) Starr(1.0) and(0.0) other(0.0) investigators(0.0) assigned(0.0) 
+by(0.0) Attorney(1.0) General(0.0) Reno(1.0) to(0.0) discover(0.0) the(0.0) truth(0.0) about(0.0) allegations(1.0) of(0.0) wrongdoing(1.0) .(0.0) Their(0.0) idea(0.0) of(0.0) cooperating(1.0) fully(0.0) is(0.0) somewhat(0.0) 
+laughable(0.0) .(0.0) Consider(0.0) recent(0.0) revelations(1.0) about(0.0) how(0.0) the(0.0) White(1.0) House(0.0) is(0.0) cooperating(0.0) fully(0.0) with(0.0) the(0.0) independent(0.0) counsel(0.0) .(0.0) The(0.0) White(1.0) 
+House(0.0) hired(0.0) private(0.0) investigator(0.0) Terry(0.0) Lenzner(1.0) to(0.0) dig(0.0) up(0.0) dirt(0.0) on(0.0) Federal(0.0) investigators(0.0) .(0.0) The(0.0) White(1.0) House(0.0) has(0.0) spread(0.0) false(0.0) 
+rumors(0.0) to(0.0) reporters(0.0) including(0.0) a(0.0) false(0.0) allegation(0.0) about(0.0) the(0.0) conduct(0.0) of(0.0) a(0.0) Starr(0.0) investigator(0.0) during(0.0) a(0.0) 1994(0.0) trial(0.0) .(0.0) The(0.0) 
+White(1.0) House(0.0) has(0.0) repeatedly(0.0) leaked(0.0) information(0.0) to(0.0) the(0.0) press(0.0) and(0.0) then(0.0) turned(0.0) around(0.0) and(0.0) blamed(0.0) Starr's(0.0) office(0.0) for(0.0) leaks(0.0) .(0.0) 
+Mr.(0.0) Speaker(1.0) ,(0.0) two(0.0) questions(0.0) need(0.0) to(0.0) be(0.0) answered(0.0) .(0.0) One(0.0) ,(0.0) what(0.0) money(1.0) paid(0.0) for(0.0) the(0.0) private(0.0) investigators(0.0) ,(0.0) 
+tax(1.0) dollars(1.0) or(0.0) private(0.0) funds(0.0) ?(0.0) And(0.0) ,(0.0) two(0.0) ,(0.0) who(0.0) got(0.0) the(0.0) results(0.0) of(0.0) the(0.0) investigation(0.0) ,(0.0) the(0.0) dirt(0.0) 
+?(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) do(0.0) not(0.0) know(0.0) what(0.0) others(0.0) think(0.0) ,(0.0) but(0.0) I(0.0) am(0.0) getting(0.0) tired(0.0) of(0.0) falsehoods(1.0) .(0.0) 
+Regardless(0.0) of(0.0) what(0.0) the(0.0) polls(1.0) say(0.0) ,(0.0) the(0.0) American(0.0) people(0.0) deserve(0.0) better(0.0) ,(0.0) the(0.0) whole(0.0) truth(0.0) ,(0.0) and(0.0) nothing(0.0) but(0.0) 
+the(0.0) truth(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+White	cooperating	Starr	
+Attorney	Reno	allegations	wrongdoing	cooperating	
+revelations	White	White	
+Lenzner	White	
+
+White	
+Speaker	money	
+tax	dollars	
+Speaker	falsehoods	
+polls	
+
+
+reads % = 0.10294117647058823

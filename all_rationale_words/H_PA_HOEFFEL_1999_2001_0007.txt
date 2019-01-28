@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) rise(0.0) in(0.0) opposition(1.0) to(0.0) the(0.0) Hyde-Smith(1.0) amendment(1.0) .(0.0) The(0.0) distinguished(0.0) chairman(0.0) started(0.0) this(0.0) debate(0.0) by(0.0) saying(0.0) there(0.0) is(0.0) 
+a(0.0) difference(0.0) between(0.0) the(0.0) issues(0.0) of(0.0) abortion(1.0) and(0.0) family(0.0) planning(0.0) ,(0.0) and(0.0) he(0.0) is(0.0) correct(0.0) .(0.0) The(0.0) underlying(0.0) issue(0.0) in(0.0) 
+the(0.0) Hyde-Smith(1.0) amendment(1.0) is(0.0) not(0.0) the(0.0) question(0.0) of(0.0) stopping(0.0) abortion(1.0) ,(0.0) although(0.0) they(0.0) would(0.0) like(0.0) us(0.0) to(0.0) believe(0.0) that(0.0) .(0.0) 
+The(0.0) underlying(0.0) issue(0.0) is(0.0) how(0.0) do(0.0) we(0.0) best(0.0) deliver(0.0) family(0.0) planning(0.0) services(0.0) to(0.0) women(1.0) around(0.0) the(0.0) world(0.0) .(0.0) We(0.0) do(0.0) 
+that(0.0) by(0.0) abolishing(1.0) the(0.0) gag(1.0) rule(1.0) ,(0.0) by(0.0) voting(1.0) against(1.0) this(0.0) amendment(1.0) .(0.0) This(0.0) amendment(1.0) would(1.0) prevent(1.0) women(1.0) around(0.0) the(0.0) 
+world(0.0) from(0.0) getting(0.0) fundamental(1.0) family(0.0) planning(0.0) information(0.0) ,(0.0) the(0.0) most(0.0) basic(0.0) information(0.0) that(0.0) would(0.0) go(0.0) directly(0.0) to(0.0) the(0.0) issue(0.0) of(0.0) 
+them(0.0) controlling(0.0) their(0.0) reproductive(1.0) freedom(1.0) and(0.0) not(0.0) needing(0.0) to(0.0) turn(0.0) to(0.0) abortions(1.0) .(0.0) It(0.0) is(0.0) contrary(0.0) to(0.0) what(0.0) my(0.0) Republican(1.0) 
+colleagues(1.0) say(1.0) they(1.0) stand(1.0) for(1.0) to(1.0) cut(1.0) off(1.0) funding(1.0) for(1.0) international(1.0) family(1.0) planning(1.0) ,(1.0) and(1.0) we(1.0) would(1.0) cut(1.0) it(1.0) off(1.0) 
+to(1.0) the(1.0) poorest(1.0) women(1.0) in(1.0) the(1.0) world(1.0) ,(1.0) not(1.0) women(1.0) in(1.0) our(0.0) districts(1.0) ,(0.0) but(0.0) women(1.0) around(0.0) the(0.0) world(0.0) that(0.0) 
+need(0.0) this(0.0) information(0.0) .(0.0) Vote(1.0) ``(0.0) no(0.0) ''(0.0) on(0.0) the(0.0) amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+opposition	Hyde-Smith	amendment	
+abortion	
+Hyde-Smith	amendment	abortion	
+women	
+abolishing	gag	rule	voting	against	amendment	amendment	would	prevent	women	
+fundamental	
+reproductive	freedom	abortions	Republican	
+colleagues	say	they	stand	for	to	cut	off	funding	for	international	family	planning	,	and	we	would	cut	it	off	
+to	the	poorest	women	in	the	world	,	not	women	in	districts	women	
+Vote	amendment	
+
+reads % = 0.3005181347150259

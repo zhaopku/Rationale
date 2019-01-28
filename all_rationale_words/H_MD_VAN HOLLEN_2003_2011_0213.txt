@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) there(0.0) are(0.0) some(0.0) things(0.0) that(0.0) we(0.0) want(0.0) to(0.0) change(0.0) ,(0.0) and(0.0) there(0.0) are(0.0) some(0.0) things(0.0) we(0.0) do(0.0) n't(0.0) want(0.0) 
+to(0.0) change(0.0) .(0.0) One(0.0) of(0.0) the(0.0) things(0.0) we(0.0) do(0.0) n't(0.0) want(0.0) to(0.0) change(0.0) capriciously(0.0) is(0.0) the(0.0) Constitution(1.0) of(0.0) the(0.0) United(0.0) 
+States(0.0) of(0.0) America(0.0) .(0.0) I(0.0) think(0.0) many(0.0) of(0.0) us(0.0) think(0.0) it(0.0) is(0.0) a(0.0) corruption(1.0) to(0.0) the(0.0) Constitution(1.0) to(0.0) write(0.0) in(0.0) 
+provisions(1.0) that(0.0) say(0.0) you(0.0) can(0.0) only(0.0) balance(0.0) the(0.0) budget(1.0) the(0.0) way(0.0) the(0.0) Republicans(1.0) want(1.0) to(1.0) balance(1.0) the(1.0) budget(1.0) ;(1.0) you(1.0) 
+can(1.0) only(1.0) do(1.0) it(1.0) by(1.0) capping(1.0) things(1.0) at(1.0) 18(1.0) percent(1.0) even(1.0) if(1.0) that(1.0) means(1.0) deep(1.0) cuts(1.0) to(1.0) Social(1.0) Security(1.0) and(0.0) 
+deep(1.0) cuts(1.0) to(0.0) Medicare(1.0) .(0.0) We(0.0) think(0.0) it(0.0) 's(0.0) a(0.0) corruption(1.0) of(0.0) the(0.0) Constitution(1.0) to(0.0) write(0.0) into(0.0) the(0.0) founding(1.0) document(0.0) 
+a(0.0) provision(0.0) that(0.0) says(0.0) it(0.0) 's(0.0) easier(0.0) to(0.0) cut(1.0) Medicare(1.0) and(0.0) Social(0.0) Security(0.0) than(0.0) corporate(1.0) tax(1.0) breaks(1.0) .(1.0) That(1.0) is(0.0) 
+in(0.0) here(0.0) .(0.0) We(0.0) keep(0.0) hearing(0.0) 49(0.0) out(0.0) of(0.0) 50(0.0) States(0.0) .(0.0) Forty-nine(0.0) out(0.0) of(0.0) 50(0.0) States(0.0) do(0.0) not(0.0) write(0.0) 
+those(0.0) kind(0.0) of(0.0) provisions(1.0) into(0.0) their(0.0) State(0.0) Constitutions(0.0) --(0.0) a(0.0) very(0.0) few(0.0) do(0.0) --(0.0) and(0.0) for(0.0) good(0.0) reason(0.0) :(0.0) They(0.0) 
+'re(0.0) bad(0.0) ideas(0.0) ,(0.0) they(0.0) 're(0.0) bad(0.0) ideas(0.0) now(0.0) ,(0.0) and(0.0) they(0.0) will(0.0) be(0.0) bad(0.0) ideas(0.0) in(0.0) the(0.0) future(0.0) which(0.0) 
+would(0.0) constrain(1.0) a(0.0) Congress(0.0) from(0.0) balancing(0.0) the(0.0) budget(1.0) in(0.0) a(0.0) way(0.0) that(0.0) reflects(0.0) the(0.0) will(0.0) of(0.0) the(0.0) American(0.0) people(0.0) .(0.0) 
+I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Constitution	
+corruption	Constitution	
+provisions	budget	Republicans	want	to	balance	the	budget	;	you	
+can	only	do	it	by	capping	things	at	18	percent	even	if	that	means	deep	cuts	to	Social	Security	
+deep	cuts	Medicare	corruption	Constitution	founding	
+cut	Medicare	corporate	tax	breaks	.	That	
+
+provisions	
+
+constrain	budget	
+
+
+reads % = 0.2096069868995633

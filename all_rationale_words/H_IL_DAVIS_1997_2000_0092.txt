@@ -1,0 +1,54 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) as(0.0) the(0.0) debate(1.0) continues(0.0) around(0.0) the(0.0) issues(0.0) of(0.0) vouchers(1.0) ,(0.0) charter(1.0) schools(1.0) ,(0.0) and(0.0) what(0.0) some(0.0) call(0.0) alternatives(1.0) to(0.0) 
+traditional(0.0) public(1.0) education(1.0) ,(0.0) I(0.0) take(0.0) this(0.0) opportunity(0.0) to(0.0) pay(1.0) tribute(0.0) to(0.0) the(0.0) Whitney(0.0) M.(0.0) Young(0.0) Public(0.0) High(0.0) School(0.0) in(0.0) 
+Chicago(1.0) ,(0.0) Illinois(1.0) ,(0.0) which(0.0) has(0.0) the(0.0) distinction(0.0) of(0.0) being(0.0) hailed(0.0) number(0.0) one(0.0) in(0.0) the(0.0) Nation(1.0) in(0.0) college(1.0) preparatory(0.0) education(0.0) 
+.(0.0) For(0.0) 15(0.0) years(0.0) ,(0.0) the(0.0) Whitney(1.0) M.(0.0) Young(0.0) magnet(0.0) school(0.0) has(0.0) been(0.0) number(0.0) one(0.0) in(0.0) the(0.0) State(0.0) of(0.0) Illinois(1.0) 
+.(0.0) This(0.0) year(0.0) ,(0.0) the(0.0) year(0.0) 2000(0.0) ,(0.0) it(0.0) leads(0.0) the(0.0) United(0.0) States(0.0) in(0.0) the(0.0) numbers(0.0) of(0.0) its(0.0) students(0.0) who(0.0) 
+qualified(0.0) as(0.0) semi-finalists(0.0) in(0.0) the(0.0) National(0.0) Merit(0.0) Scholarship(0.0) Competition(0.0) for(0.0) outstanding(0.0) black(0.0) students(0.0) .(0.0) Twenty(0.0) seniors(0.0) put(0.0) Whitney(0.0) M.(0.0) Young(0.0) 
+on(0.0) the(0.0) top(0.0) of(0.0) the(0.0) list(0.0) as(0.0) a(0.0) result(0.0) of(0.0) their(0.0) ranking(0.0) in(0.0) the(0.0) top(0.0) 2(0.0) percent(0.0) of(0.0) youngsters(0.0) in(0.0) 
+competition(0.0) .(0.0) Graduates(0.0) of(0.0) Young(0.0) go(0.0) on(0.0) to(0.0) college(1.0) at(0.0) the(0.0) astronomical(0.0) rate(0.0) of(0.0) 96(0.0) percent(0.0) ,(0.0) with(0.0) the(0.0) University(0.0) 
+of(0.0) Illinois(1.0) enrolling(0.0) more(0.0) than(0.0) any(0.0) other(0.0) college(0.0) or(0.0) university(0.0) .(0.0) Princeton(0.0) ,(0.0) Harvard(0.0) ,(0.0) Stanford(0.0) ,(0.0) Yale(0.0) and(0.0) the(0.0) 
+Massachusetts(1.0) Institute(0.0) of(0.0) Technology(0.0) lead(0.0) other(0.0) schools(0.0) in(0.0) enrollment(0.0) of(0.0) Whitney(0.0) Young(0.0) alumni(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) Principal(0.0) Joyce(1.0) Kenner(1.0) 
+,(0.0) her(0.0) staff(0.0) ,(0.0) local(0.0) school(0.0) council(0.0) ,(0.0) parents(0.0) ,(0.0) the(0.0) Chicago(1.0) Board(0.0) of(0.0) Education(0.0) ,(0.0) and(0.0) the(0.0) students(0.0) themselves(0.0) 
+are(0.0) to(0.0) be(0.0) commended(0.0) for(0.0) proving(0.0) ,(0.0) and(0.0) for(0.0) proving(0.0) conclusively(0.0) ,(0.0) that(0.0) a(0.0) student(0.0) does(0.0) not(0.0) have(0.0) to(0.0) have(0.0) 
+a(0.0) voucher(0.0) or(0.0) go(0.0) to(0.0) a(0.0) private(0.0) or(0.0) charter(0.0) school(0.0) to(0.0) achieve(0.0) ,(0.0) and(0.0) indeed(0.0) to(0.0) excel(0.0) academically(0.0) .(0.0) So(0.0) 
+,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) a(0.0) school(0.0) located(0.0) in(0.0) the(0.0) inner(0.0) city(0.0) of(0.0) Chicago(1.0) ,(0.0) with(0.0) a(0.0) diverse(0.0) student(0.0) population(0.0) ,(0.0) 
+50(0.0) percent(0.0) of(0.0) whom(0.0) are(0.0) black(1.0) ,(0.0) leads(0.0) the(0.0) Nation(1.0) in(0.0) the(0.0) number(0.0) of(0.0) its(0.0) students(0.0) who(0.0) qualified(0.0) as(0.0) semi-finalists(0.0) 
+in(0.0) the(0.0) National(0.0) Merit(0.0) Scholarship(0.0) Competition(0.0) for(0.0) outstanding(0.0) students(0.0) .(0.0) So(0.0) just(0.0) as(0.0) Whitney(0.0) Young(0.0) practiced(0.0) excellence(0.0) in(0.0) his(0.0) life(0.0) 
+and(0.0) work(0.0) ,(0.0) the(0.0) Whitney(1.0) M.(0.0) Young(0.0) High(0.0) School(0.0) has(0.0) built(0.0) and(0.0) continues(0.0) to(0.0) develop(0.0) a(0.0) legacy(0.0) of(0.0) excellence(0.0) in(0.0) 
+preparation(0.0) of(0.0) its(0.0) students(0.0) for(0.0) college(0.0) ,(0.0) for(0.0) life(0.0) ,(0.0) and(0.0) for(0.0) service(0.0) to(0.0) humanity(0.0) .(0.0) Again(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) 
+,(0.0) I(0.0) commend(0.0) all(0.0) of(0.0) those(0.0) who(0.0) have(0.0) been(0.0) a(0.0) part(0.0) of(0.0) the(0.0) development(0.0) of(0.0) this(0.0) outstanding(0.0) institution(0.0) :(0.0) the(0.0) 
+parents(0.0) of(0.0) the(0.0) community(0.0) where(0.0) the(0.0) school(0.0) is(0.0) located(0.0) ,(0.0) the(0.0) parents(0.0) who(0.0) serve(0.0) on(0.0) the(0.0) local(0.0) school(0.0) advisory(0.0) council(0.0) 
+,(0.0) the(0.0) principal(0.0) ,(0.0) members(0.0) of(0.0) the(0.0) faculty(0.0) ,(0.0) and(0.0) the(0.0) Chicago(1.0) Board(0.0) of(0.0) Education(0.0) itself(0.0) ,(0.0) who(0.0) continue(0.0) to(0.0) 
+prove(0.0) that(0.0) public(0.0) education(1.0) can(0.0) in(0.0) fact(0.0) thrive(0.0) ;(0.0) that(0.0) it(0.0) can(0.0) flourish(0.0) ;(0.0) that(0.0) it(0.0) has(0.0) worked(0.0) and(0.0) continues(0.0) 
+to(0.0) work(0.0) when(0.0) we(0.0) put(0.0) the(0.0) resources(0.0) where(0.0) the(0.0) need(0.0) exists(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+debate	vouchers	charter	schools	alternatives	
+public	education	pay	
+Chicago	Illinois	Nation	college	
+Whitney	Illinois	
+
+
+
+college	
+Illinois	
+Massachusetts	Speaker	Joyce	Kenner	
+Chicago	
+
+
+Speaker	Chicago	
+black	Nation	
+
+Whitney	
+Speaker	
+
+
+Chicago	
+education	
+
+
+reads % = 0.0640176600441501

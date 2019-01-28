@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) deeply(0.0) care(0.0) about(0.0) my(0.0) mother(0.0) ,(0.0) who(0.0) 's(0.0) on(0.0) Social(0.0) Security(0.0) and(0.0) Medicare(1.0) ,(0.0) and(0.0) my(0.0) two(0.0) little(0.0) girls(0.0) ,(0.0) 
+who(0.0) are(0.0) counting(0.0) on(0.0) their(0.0) daddy(0.0) to(0.0) make(0.0) sure(0.0) that(0.0) those(0.0) programs(1.0) are(0.0) available(0.0) when(0.0) the(0.0) time(0.0) comes(0.0) ,(0.0) and(0.0) 
+,(0.0) of(0.0) course(0.0) ,(0.0) for(0.0) the(0.0) constituents(1.0) that(0.0) are(0.0) counting(0.0) on(0.0) me(0.0) to(0.0) make(0.0) sure(0.0) that(0.0) those(0.0) programs(1.0) are(0.0) available(0.0) 
+for(0.0) them(0.0) .(0.0) So(0.0) I(0.0) commend(0.0) Chairman(0.0) Ryan(1.0) on(0.0) his(0.0) leadership(0.0) in(0.0) drafting(0.0) a(0.0) budget(0.0) that(0.0) responsibly(1.0) addresses(0.0) our(0.0) national(1.0) 
+debt(1.0) and(0.0) ensures(0.0) that(0.0) my(0.0) own(0.0) children(0.0) and(0.0) all(0.0) the(0.0) residents(1.0) of(0.0) the(0.0) Fourth(1.0) District(0.0) of(0.0) Pennsylvania(1.0) are(0.0) not(0.0) burdened(0.0) 
+with(0.0) Washington's(0.0) spending(1.0) problem(0.0) any(0.0) longer(0.0) .(0.0) This(0.0) legislation(1.0) balances(1.0) our(0.0) budget(1.0) in(0.0) 10(0.0) years(0.0) .(0.0) I(0.0) know(0.0) some(0.0) folks(0.0) 
+are(0.0) saying(0.0) ,(0.0) Why(0.0) 10(0.0) years(0.0) ?(0.0) And(0.0) I(0.0) say(0.0) ,(0.0) Why(0.0) not(0.0) ever(0.0) in(0.0) your(0.0) budgets(1.0) ?(0.0) Why(0.0) not(0.0) 
+ever(0.0) ?(0.0) It(0.0) reduces(0.0) spending(1.0) and(0.0) makes(0.0) responsible(0.0) reforms(1.0) to(0.0) mandatory(1.0) spending(1.0) programs(1.0) .(0.0) For(0.0) the(0.0) past(0.0) few(0.0) weeks(0.0) ,(0.0) 
+I(0.0) 've(0.0) heard(0.0) from(0.0) hundreds(0.0) of(0.0) constituents(1.0) ,(0.0) including(0.0) my(0.0) very(0.0) own(0.0) mother(0.0) ,(0.0) about(0.0) how(0.0) this(0.0) budget(1.0) will(0.0) change(0.0) 
+Social(0.0) Security(0.0) for(0.0) current(0.0) beneficiaries(1.0) ,(0.0) and(0.0) I(0.0) want(0.0) to(0.0) make(0.0) clear(0.0) that(0.0) the(0.0) Ryan(1.0) budget(1.0) does(0.0) not(0.0) do(0.0) that(0.0) 
+.(0.0) It(0.0) does(0.0) not(0.0) cut(0.0) Social(0.0) Security(0.0) .(0.0) But(0.0) I(0.0) will(0.0) remind(0.0) everybody(0.0) that(0.0) the(0.0) Social(0.0) Security(0.0) Disability(1.0) Insurance(0.0) fund(0.0) 
+will(0.0) be(0.0) insolvent(1.0) by(0.0) 2016(0.0) .(0.0) That(0.0) 's(0.0) 3(0.0) years(0.0) from(0.0) now(0.0) .(0.0) So(0.0) if(0.0) you're(0.0) 21(0.0) years(0.0) old(0.0) ,(0.0) 
+when(0.0) you(0.0) 're(0.0) 24(0.0) ,(0.0) it(0.0) 's(0.0) insolvent(1.0) .(0.0) If(0.0) you(0.0) 're(0.0) 45(0.0) years(0.0) old(0.0) ,(0.0) when(0.0) you(0.0) 're(0.0) 48(0.0) 
+,(0.0) it(0.0) 's(0.0) insolvent(1.0) .(0.0) The(0.0) Medicare(1.0) part(0.0) A(0.0) trust(0.0) fund(0.0) will(0.0) be(0.0) exhausted(0.0) by(0.0) 2024(1.0) .(0.0) This(0.0) is(0.0) not(0.0) 
+a(0.0) long(0.0) time(0.0) away(0.0) for(0.0) young(0.0) people(0.0) or(0.0) old(0.0) people(0.0) .(0.0) I(0.0) had(0.0) to(0.0) remind(0.0) my(0.0) mom(0.0) that(0.0) ,(0.0) if(0.0) 
+these(0.0) programs(1.0) were(0.0) not(0.0) reformed(1.0) ,(0.0) there(0.0) would(0.0) be(0.0) nothing(0.0) left(0.0) for(0.0) her(0.0) grandchildren(0.0) ,(0.0) there(0.0) would(0.0) be(0.0) nothing(0.0) let(0.0) 
+for(0.0) her(0.0) son(0.0) ,(0.0) and(0.0) very(0.0) likely(0.0) there(0.0) will(0.0) be(0.0) nothing(0.0) left(0.0) for(0.0) her(0.0) .(0.0) This(0.0) legislation(1.0) makes(0.0) those(0.0) reforms(1.0) 
+responsible(0.0) by(0.0) allowing(0.0) Medicare(1.0) recipients(1.0) the(0.0) opportunity(0.0) to(0.0) choose(0.0) options(0.0) specific(0.0) to(0.0) their(0.0) needs(0.0) ,(0.0) and(0.0) it(0.0) repeals(1.0) the(0.0) President's(0.0) 
+plan(1.0) to(0.0) have(0.0) a(0.0) group(0.0) of(0.0) unelected(1.0) ,(0.0) unaccountable(1.0) bureaucrats(1.0) to(0.0) slash(1.0) Medicare(1.0) benefits(1.0) for(1.0) seniors(1.0) ,(0.0) including(0.0) my(0.0) mom(0.0) 
+.(0.0) It(0.0) also(0.0) repeals(1.0) the(0.0) President(0.0) 's(0.0) health(1.0) care(0.0) law(1.0) ,(0.0) which(0.0) has(0.0) placed(0.0) an(0.0) undue(1.0) burden(1.0) on(0.0) our(0.0) job(0.0) 
+creators(0.0) and(0.0) their(0.0) families(0.0) .(0.0) Penn(1.0) Waste(1.0) ,(0.0) a(0.0) company(0.0) in(0.0) the(0.0) district(0.0) I(0.0) represent(0.0) ,(0.0) has(0.0) told(0.0) me(0.0) that(0.0) 
+ObamaCare(1.0) health(1.0) care(0.0) costs(1.0) ,(0.0) the(0.0) Affordable(1.0) Health(1.0) Care(1.0) law(1.0) ,(0.0) will(0.0) cost(1.0) their(0.0) employees(1.0) a(0.0) minimum(0.0) of(0.0) $(0.0) 68(0.0) 
+a(0.0) week(0.0) more(0.0) right(0.0) now(0.0) .(0.0) That(0.0) 's(0.0) a(0.0) meal(0.0) out(0.0) with(0.0) your(0.0) family(0.0) .(0.0) That(0.0) 's(0.0) an(0.0) extra(0.0) tank(0.0) 
+of(0.0) gas(1.0) in(0.0) your(0.0) car(0.0) .(0.0) This(0.0) budget(1.0) also(0.0) ensures(0.0) our(0.0) servicemen(1.0) and(0.0) -women(0.0) are(0.0) protected(0.0) by(0.0) providing(0.0) $(0.0) 560(0.0) 
+billion(1.0) for(0.0) defense(1.0) spending(1.0) in(0.0) fiscal(1.0) year(0.0) 2014(1.0) ,(0.0) an(0.0) amount(1.0) consistent(0.0) with(0.0) America(1.0) 's(0.0) military(1.0) goals(0.0) and(0.0) strategies(0.0) 
+
+
+----- below are rationale words -----
+
+Medicare	
+programs	
+constituents	programs	
+Ryan	responsibly	national	
+debt	residents	Fourth	Pennsylvania	
+spending	legislation	balances	budget	
+budgets	
+spending	reforms	mandatory	spending	programs	
+constituents	budget	
+beneficiaries	Ryan	budget	
+Disability	
+insolvent	
+insolvent	
+insolvent	Medicare	2024	
+
+programs	reformed	
+legislation	reforms	
+Medicare	recipients	repeals	
+plan	unelected	unaccountable	bureaucrats	slash	Medicare	benefits	for	seniors	
+repeals	health	law	undue	burden	
+Penn	Waste	
+ObamaCare	health	costs	Affordable	Health	Care	law	cost	employees	
+
+gas	budget	servicemen	
+billion	defense	spending	fiscal	2014	amount	America	military	
+
+reads % = 0.15

@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Is(0.0) this(0.0) the(0.0) amendment(1.0) that(0.0) deals(0.0) with(0.0) the(0.0) fishing(0.0) and(0.0) hunting(0.0) savings(1.0) clause(1.0) to(0.0) be(0.0) offered(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) Alaska(0.0) 
+[(0.0) Mr.(0.0) Young(1.0) ](0.0) and(1.0) ,(0.0) I(0.0) understand(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Oklahoma(1.0) [(0.0) Mr.(0.0) Brewster(1.0) ](0.0) ?(1.0) 
+
+
+----- below are rationale words -----
+
+amendment	savings	clause	
+Young	and	Oklahoma	Brewster	?	
+
+reads % = 0.20512820512820512

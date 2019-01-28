@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) inadvertently(0.0) missed(0.0) a(0.0) vote(0.0) on(0.0) the(0.0) Paperwork(1.0) Reduction(1.0) Act(0.0) .(0.0) Had(0.0) I(0.0) been(0.0) present(0.0) ,(0.0) I(0.0) would(0.0) have(0.0) 
+voted(0.0) ``(0.0) yes(0.0) .(0.0) ''(0.0) 
+
+
+----- below are rationale words -----
+
+Paperwork	Reduction	
+
+
+reads % = 0.07692307692307693

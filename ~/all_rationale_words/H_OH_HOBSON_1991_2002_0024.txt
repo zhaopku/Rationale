@@ -1,0 +1,16 @@
+This is from a Republican
+----- below is the original text -----
+Pursuant(0.0) to(0.0) the(0.0) rule(0.0) just(1.0) adopted(0.0) ,(0.0) I(0.0) call(0.0) up(0.0) the(0.0) conference(0.0) reported(0.0) to(0.0) accompany(0.0) the(0.0) bill(0.0) ,(0.0) ((0.0) H.R(0.0) .(0.0) 
+5011(1.0) )(0.0) making(0.0) appropriations(1.0) for(0.0) military(1.0) construction(1.0) ,(0.0) family(0.0) housing(1.0) ,(0.0) and(0.0) base(0.0) realignment(1.0) and(0.0) closure(0.0) for(0.0) the(0.0) Department(0.0) of(0.0) 
+Defense(1.0) for(0.0) the(0.0) fiscal(0.0) year(0.0) ending(0.0) September(0.0) 30(0.0) ,(0.0) 2003(0.0) ,(0.0) and(0.0) for(0.0) other(0.0) purposes(1.0) .(0.0) The(0.0) Clerk(1.0) read(1.0) the(0.0) 
+title(0.0) of(0.0) the(0.0) bill(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+just	
+5011	appropriations	military	construction	housing	realignment	
+Defense	purposes	Clerk	read	
+
+
+reads % = 0.16666666666666666

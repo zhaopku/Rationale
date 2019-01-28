@@ -1,0 +1,20 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) my(0.0) friend(0.0) from(0.0) North(0.0) Carolina(0.0) for(0.0) yielding(0.0) .(0.0) I(0.0) too(0.0) want(0.0) to(0.0) express(0.0) appreciation(0.0) to(0.0) everyone(0.0) in(0.0) 
+the(0.0) Sportsmen's(0.0) Caucus(1.0) who(0.0) came(0.0) out(0.0) ,(0.0) put(0.0) aside(0.0) the(0.0) partisan(1.0) battles(1.0) and(0.0) entered(0.0) into(0.0) some(0.0) good(0.0) fun(0.0) and(0.0) sportsmanship(0.0) 
+in(0.0) advance(0.0) of(0.0) the(0.0) shooting(0.0) sports(0.0) and(0.0) to(0.0) congratulate(0.0) everyone(0.0) who(0.0) participated(0.0) .(0.0) This(0.0) year(0.0) we(0.0) had(0.0) a(0.0) record(0.0) turnout(0.0) 
+,(0.0) 13(0.0) Democrats(1.0) ,(0.0) 13(0.0) Republicans(1.0) .(1.0) Most(1.0) important(1.0) ,(1.0) a(1.0) whole(0.0) group(0.0) of(0.0) new(0.0) Members(0.0) who(0.0) came(0.0) out(0.0) had(0.0) 
+never(0.0) participated(0.0) in(0.0) the(0.0) event(0.0) in(0.0) the(0.0) past(0.0) .(0.0) Next(0.0) year(0.0) ,(0.0) I(0.0) would(0.0) only(0.0) ask(0.0) that(0.0) you(0.0) not(0.0) spray(0.0) 
+the(0.0) Democrats(1.0) '(0.0) targets(0.0) with(0.0) the(0.0) bulletproof(0.0) spray(0.0) paint(0.0) so(0.0) we(0.0) have(0.0) at(0.0) least(0.0) a(0.0) chance(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Caucus	partisan	battles	
+
+Democrats	Republicans	.	Most	important	,	a	
+
+Democrats	
+
+reads % = 0.09322033898305085

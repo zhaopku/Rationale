@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) the(0.0) motion(1.0) to(0.0) recommit(1.0) is(0.0) based(0.0) on(0.0) bipartisan(1.0) legislation(1.0) that(1.0) I(0.0) introduced(1.0) ,(0.0) along(0.0) with(0.0) Representatives(1.0) Flake(1.0) ,(0.0) Harman(1.0) 
+and(0.0) Inglis(1.0) ,(0.0) dealing(0.0) with(0.0) the(0.0) NSA(1.0) surveillance(0.0) program(0.0) .(0.0) And(0.0) the(0.0) basic(0.0) premise(0.0) of(0.0) this(0.0) legislation(1.0) is(0.0) that(0.0) the(0.0) 
+Government(1.0) must(0.0) have(0.0) all(0.0) the(0.0) tools(0.0) it(0.0) needs(0.0) ,(0.0) it(0.0) must(0.0) have(0.0) all(0.0) the(0.0) authority(0.0) it(0.0) needs(0.0) to(0.0) pursue(0.0) al(0.0) 
+Qaeda(0.0) using(0.0) every(0.0) tool(0.0) in(0.0) the(0.0) toolbox(0.0) .(0.0) But(0.0) the(0.0) premise(1.0) is(0.0) also(0.0) that(0.0) we(0.0) are(0.0) a(0.0) Nation(1.0) of(0.0) laws(1.0) 
+,(0.0) and(0.0) that(0.0) whereas(0.0) the(0.0) Commander(0.0) in(0.0) Chief(0.0) has(0.0) the(0.0) authority(0.0) to(0.0) eavesdrop(0.0) and(0.0) surveil(1.0) off(0.0) American(0.0) shores(0.0) ,(0.0) when(0.0) 
+it(0.0) comes(0.0) to(0.0) the(0.0) electronic(0.0) surveillance(0.0) of(0.0) Americans(1.0) on(0.0) American(0.0) soil(0.0) ,(0.0) Congress(0.0) has(0.0) the(0.0) authority(0.0) to(0.0) regulate(0.0) that(0.0) surveillance(0.0) 
+.(0.0) And(0.0) ,(0.0) in(0.0) fact(0.0) ,(0.0) Congress(0.0) has(0.0) regulated(1.0) that(0.0) surveillance(0.0) through(0.0) title(0.0) III(0.0) and(0.0) through(0.0) the(0.0) Foreign(0.0) Intelligence(0.0) Surveillance(0.0) 
+Act(0.0) ;(0.0) and(0.0) ,(0.0) in(0.0) fact(0.0) ,(0.0) those(0.0) two(0.0) laws(1.0) form(0.0) the(0.0) exclusive(0.0) authority(0.0) to(0.0) surveil(0.0) Americans(1.0) on(0.0) American(0.0) soil(0.0) 
+.(0.0) Now(0.0) ,(0.0) we(0.0) have(0.0) learned(0.0) ,(0.0) both(0.0) through(0.0) a(0.0) disclosure(0.0) in(0.0) The(0.0) New(0.0) York(1.0) Times(1.0) and(0.0) through(0.0) the(0.0) disclosures(1.0) 
+of(0.0) the(0.0) present(0.0) administration(0.0) ,(0.0) that(0.0) there(0.0) is(0.0) an(0.0) NSA(1.0) surveillance(1.0) program(0.0) that(0.0) ,(0.0) among(0.0) others(0.0) things(0.0) ,(0.0) surveils(0.0) conversations(0.0) 
+between(0.0) Americans(1.0) or(0.0) people(0.0) on(0.0) U.S.(0.0) soil(0.0) and(0.0) people(0.0) overseas(0.0) who(0.0) may(0.0) be(0.0) affiliated(0.0) with(0.0) al(0.0) Qaeda(0.0) .(0.0) Other(0.0) than(0.0) 
+a(0.0) small(0.0) number(0.0) of(0.0) us(0.0) ,(0.0) we(0.0) do(0.0) n't(0.0) know(0.0) much(0.0) about(0.0) the(0.0) contours(0.0) of(0.0) this(0.0) program(1.0) .(0.0) Recently(0.0) when(0.0) 
+the(0.0) Attorney(1.0) General(0.0) testified(0.0) in(0.0) the(0.0) Judiciary(0.0) Committee(0.0) ,(0.0) I(0.0) asked(0.0) about(0.0) the(0.0) limiting(1.0) principle(1.0) of(0.0) this(0.0) program(1.0) :(0.0) Was(0.0) 
+it(0.0) restricted(0.0) only(0.0) to(0.0) these(0.0) international(0.0) calls(0.0) ?(0.0) What(0.0) if(0.0) the(0.0) Attorney(1.0) General(0.0) decided(0.0) tomorrow(0.0) or(0.0) the(0.0) administration(1.0) decided(0.0) tomorrow(0.0) 
+that(0.0) it(0.0) had(0.0) the(0.0) inherent(1.0) authority(0.0) as(0.0) Commander(0.0) in(0.0) Chief(0.0) to(0.0) tap(0.0) purely(0.0) domestic(1.0) calls(0.0) between(0.0) two(0.0) Americans(1.0) ;(0.0) did(0.0) 
+it(0.0) feel(0.0) it(0.0) would(0.0) need(0.0) to(0.0) go(0.0) to(0.0) court(0.0) for(0.0) that(0.0) authority(0.0) ?(0.0) And(0.0) the(0.0) Attorney(1.0) General(0.0) said(0.0) he(0.0) would(0.0) 
+not(0.0) rule(0.0) it(0.0) out(0.0) .(0.0) He(0.0) would(0.0) not(0.0) rule(0.0) out(0.0) having(0.0) the(0.0) pure(0.0) authority(0.0) ,(0.0) without(0.0) going(0.0) to(0.0) court(1.0) ,(0.0) 
+to(0.0) tap(0.0) the(0.0) calls(0.0) between(0.0) two(0.0) Americans(1.0) on(0.0) American(0.0) soil(0.0) .(0.0) So(0.0) what(0.0) is(0.0) the(0.0) limiting(1.0) principle(1.0) if(0.0) this(0.0) program(1.0) 
+can(0.0) change(0.0) from(0.0) day(0.0) to(0.0) day(0.0) without(0.0) the(0.0) input(0.0) of(0.0) Congress(0.0) ?(0.0) The(0.0) only(0.0) limiting(1.0) principle(1.0) is(0.0) the(0.0) good(0.0) faith(0.0) 
+of(0.0) the(0.0) executive(0.0) ,(0.0) which(0.0) when(0.0) the(0.0) executive(0.0) shows(0.0) it(0.0) is(0.0) infallible(0.0) might(0.0) be(0.0) a(0.0) sufficient(0.0) limiting(0.0) principle(1.0) .(0.0) But(0.0) 
+the(0.0) executive(0.0) is(0.0) no(0.0) more(0.0) infallible(0.0) than(0.0) we(0.0) are(0.0) here(0.0) in(0.0) Congress(1.0) ,(0.0) and(0.0) so(0.0) we(0.0) have(0.0) a(0.0) role(0.0) to(0.0) 
+play(0.0) .(0.0) And(0.0) this(0.0) motion(1.0) to(0.0) recommit(1.0) says(1.0) that(0.0) that(0.0) role(0.0) is(0.0) the(0.0) following(0.0) :(0.0) that(0.0) ,(0.0) first(0.0) ,(0.0) when(0.0) 
+we(0.0) pass(0.0) a(0.0) law(1.0) ,(0.0) like(0.0) FISA(1.0) and(0.0) Title(0.0) III(0.0) ,(0.0) where(0.0) we(0.0) say(0.0) the(0.0) exclusive(0.0) means(0.0) of(0.0) domestic(1.0) eavesdropping(1.0) 
+is(0.0) under(0.0) these(0.0) provisions(1.0) with(0.0) court(0.0) approval(0.0) ,(0.0) we(0.0) mean(0.0) what(0.0) we(0.0) say(0.0) ;(0.0) that(0.0) ,(0.0) second(0.0) ,(0.0) the(0.0) authorization(0.0) 
+to(0.0) use(0.0) military(0.0) force(0.0) that(0.0) we(0.0) voted(1.0) on(0.0) in(0.0) the(0.0) immediate(0.0) aftermath(1.0) of(0.0) 9/11(1.0) did(0.0) not(0.0) create(0.0) an(0.0) exception(0.0) 
+
+
+----- below are rationale words -----
+
+motion	recommit	bipartisan	legislation	that	introduced	Representatives	Flake	Harman	
+Inglis	NSA	legislation	
+Government	
+premise	Nation	laws	
+surveil	
+Americans	
+regulated	
+laws	Americans	
+York	Times	disclosures	
+NSA	surveillance	
+Americans	
+program	
+Attorney	limiting	principle	program	
+Attorney	administration	
+inherent	domestic	Americans	
+Attorney	
+court	
+Americans	limiting	principle	program	
+limiting	principle	
+principle	
+Congress	
+motion	recommit	says	
+law	FISA	domestic	eavesdropping	
+provisions	
+voted	aftermath	9/11	
+
+reads % = 0.116

@@ -1,0 +1,40 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) support(0.0) of(0.0) H.R(0.0) .(0.0) 85(0.0) 
+,(0.0) the(0.0) Energy(0.0) Technology(0.0) Transfer(0.0) Act(0.0) ,(0.0) that(0.0) was(0.0) introduced(0.0) by(0.0) Congresswoman(1.0) Judy(1.0) Biggert(1.0) ,(0.0) a(0.0) most(0.0) valuable(0.0) and(0.0) respected(0.0) 
+member(0.0) of(0.0) the(0.0) Science(0.0) Committee(0.0) and(0.0) former(0.0) chairwoman(0.0) of(0.0) the(0.0) Energy(0.0) Subcommittee(0.0) .(0.0) I(0.0) thank(0.0) her(0.0) and(0.0) Mr.(0.0) Miller(1.0) from(0.0) 
+North(0.0) Carolina(0.0) for(0.0) their(0.0) work(0.0) on(0.0) this(0.0) bill(0.0) .(0.0) There(0.0) is(0.0) concern(0.0) that(0.0) there(0.0) is(0.0) not(0.0) enough(0.0) assistance(1.0) or(0.0) education(1.0) 
+available(0.0) in(0.0) the(0.0) area(0.0) of(0.0) transferring(0.0) technologies(0.0) in(0.0) energy(1.0) efficiency(1.0) and(0.0) distributed(0.0) clean(1.0) energy(1.0) that(0.0) has(0.0) been(0.0) developed(0.0) by(0.0) the(0.0) 
+Department(0.0) of(0.0) Energy(0.0) and(0.0) the(0.0) national(0.0) laboratories(0.0) to(0.0) energy(1.0) end(0.0) users(0.0) .(0.0) In(0.0) this(0.0) time(0.0) of(0.0) heightened(1.0) awareness(0.0) of(0.0) how(0.0) 
+much(0.0) energy(1.0) we(0.0) are(0.0) using(0.0) and(0.0) how(0.0) much(0.0) energy(1.0) costs(1.0) ,(0.0) how(0.0) dependent(1.0) we(0.0) are(0.0) on(0.0) foreign(1.0) countries(0.0) for(0.0) energy(1.0) 
+feedstocks(1.0) and(0.0) how(0.0) to(0.0) continue(0.0) the(0.0) emissions(1.0) reductions(1.0) achieved(0.0) thus(0.0) far(0.0) under(0.0) various(0.0) programs(1.0) ,(0.0) it(0.0) makes(0.0) sense(0.0) to(0.0) do(0.0) 
+all(0.0) we(0.0) can(0.0) to(0.0) make(0.0) sure(0.0) that(0.0) energy(1.0) end(0.0) users(0.0) are(0.0) as(0.0) informed(0.0) as(0.0) possible(0.0) about(0.0) what(0.0) is(0.0) available(0.0) to(0.0) 
+them(0.0) to(0.0) help(0.0) them(0.0) become(0.0) more(0.0) energy(1.0) efficient(1.0) .(0.0) H.R(0.0) .(0.0) 85(0.0) would(0.0) amend(1.0) section(0.0) 917(0.0) of(0.0) the(0.0) Energy(0.0) Policy(0.0) 
+Act(0.0) of(0.0) 2005(0.0) ,(0.0) which(0.0) requires(0.0) the(0.0) Secretary(1.0) of(0.0) Energy(0.0) to(0.0) distribute(0.0) grants(1.0) to(0.0) establish(0.0) a(0.0) network(0.0) of(0.0) advanced(0.0) energy(0.0) 
+technology(0.0) transfer(0.0) centers(0.0) for(0.0) the(0.0) transfer(0.0) of(0.0) advanced(0.0) energy(0.0) technologies(1.0) and(0.0) methods(0.0) to(0.0) a(0.0) wide(0.0) range(0.0) of(0.0) energy(1.0) end(0.0) users(0.0) 
+,(0.0) including(0.0) individuals(0.0) ,(0.0) businesses(0.0) and(0.0) building(0.0) and(0.0) industrial(1.0) professionals(0.0) .(0.0) The(0.0) bill(0.0) does(0.0) not(0.0) create(0.0) a(0.0) new(0.0) program(0.0) .(0.0) 
+It(0.0) simply(0.0) improves(0.0) upon(0.0) the(0.0) current(0.0) section(0.0) 917(0.0) by(0.0) specifying(0.0) types(0.0) of(0.0) activities(0.0) that(0.0) may(0.0) be(0.0) funded(1.0) ,(0.0) minimum(1.0) criteria(0.0) 
+and(0.0) priorities(1.0) for(0.0) qualifying(0.0) applications(0.0) ,(0.0) duration(0.0) of(0.0) funding(1.0) ,(0.0) and(0.0) grantee(1.0) evaluation(0.0) requirements(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) this(0.0) is(0.0) 
+a(0.0) good(0.0) bill(0.0) and(0.0) I(0.0) encourage(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) it(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Congresswoman	Judy	Biggert	
+Miller	
+assistance	education	
+energy	efficiency	clean	energy	
+energy	heightened	
+energy	energy	costs	dependent	foreign	energy	
+feedstocks	emissions	reductions	programs	
+energy	
+energy	efficient	amend	
+Secretary	grants	
+technologies	energy	
+industrial	
+funded	minimum	
+priorities	funding	grantee	Speaker	
+
+
+reads % = 0.1182108626198083

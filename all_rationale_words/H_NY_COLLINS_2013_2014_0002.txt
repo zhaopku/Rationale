@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) tomorrow(1.0) ,(0.0) on(0.0) February(1.0) 12(1.0) ,(0.0) 2014(1.0) ,(0.0) we(0.0) honor(1.0) the(0.0) fifth(0.0) anniversary(1.0) of(0.0) the(0.0) crash(1.0) of(0.0) Flight(1.0) 3407(1.0) 
+in(0.0) Clarence(0.0) Center(0.0) ,(0.0) New(0.0) York(0.0) ,(0.0) and(0.0) remember(0.0) the(0.0) 50(0.0) men(0.0) and(0.0) women(0.0) and(0.0) the(0.0) one(0.0) unborn(1.0) child(0.0) who(0.0) 
+died(0.0) that(0.0) tragic(1.0) night(0.0) .(0.0) As(0.0) Erie(1.0) County(1.0) executive(1.0) ,(0.0) I(0.0) was(0.0) on(0.0) the(0.0) scene(1.0) following(0.0) the(0.0) crash(1.0) ,(0.0) and(0.0) 
+witnessing(0.0) the(0.0) grief(0.0) of(0.0) the(0.0) victims(1.0) '(0.0) families(0.0) will(0.0) remain(0.0) with(0.0) me(0.0) forever(0.0) .(0.0) Flight(1.0) 3407(1.0) families(0.0) had(0.0) their(0.0) loved(0.0) 
+ones(1.0) ripped(0.0) away(0.0) in(0.0) such(0.0) a(0.0) horrible(0.0) and(0.0) preventable(1.0) accident(1.0) ,(0.0) but(0.0) with(0.0) grace(0.0) and(0.0) courage(0.0) ,(0.0) these(0.0) families(1.0) turned(0.0) 
+their(0.0) loss(0.0) into(0.0) a(0.0) crusade(1.0) to(0.0) make(0.0) the(0.0) skies(1.0) safer(1.0) for(0.0) all(0.0) of(0.0) our(0.0) families(0.0) .(0.0) Against(0.0) very(0.0) steep(0.0) obstacles(0.0) 
+,(0.0) Flight(1.0) 3407(1.0) families(0.0) prevailed(1.0) and(0.0) forced(0.0) Congress(0.0) to(0.0) pass(1.0) legislation(0.0) requiring(0.0) airlines(1.0) to(0.0) put(0.0) well-trained(1.0) pilots(1.0) in(0.0) every(0.0) cockpit(1.0) 
+.(0.0) On(0.0) the(0.0) fifth(0.0) anniversary(1.0) ,(0.0) we(0.0) remember(0.0) those(0.0) who(0.0) died(0.0) that(0.0) night(0.0) and(0.0) extend(0.0) our(0.0) gratitude(1.0) to(0.0) their(0.0) families(0.0) 
+for(0.0) fighting(1.0) to(0.0) make(0.0) sure(1.0) their(0.0) loved(0.0) ones(1.0) did(0.0) not(1.0) die(0.0) in(0.0) vain(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+tomorrow	February	12	2014	honor	anniversary	crash	Flight	3407	
+unborn	
+tragic	Erie	County	executive	scene	crash	
+victims	Flight	3407	
+ones	preventable	accident	families	
+crusade	skies	safer	
+Flight	3407	prevailed	pass	airlines	well-trained	pilots	cockpit	
+anniversary	gratitude	
+fighting	sure	ones	not	
+
+reads % = 0.22857142857142856

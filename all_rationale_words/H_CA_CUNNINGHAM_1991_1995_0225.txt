@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) this(0.0) is(0.0) a(0.0) very(0.0) difficult(0.0) subject(0.0) for(0.0) me(0.0) to(0.0) even(0.0) speak(0.0) about(0.0) .(0.0) It(0.0) is(0.0) wrapped(0.0) with(0.0) emotion(0.0) ,(0.0) 
+it(0.0) is(0.0) wrapped(0.0) with(0.0) anger(0.0) ,(0.0) and(0.0) it(0.0) is(0.0) wrapped(0.0) with(0.0) pain(0.0) .(0.0) I(0.0) do(0.0) not(0.0) think(0.0) ,(0.0) no(0.0) matter(0.0) 
+what(0.0) you(0.0) vote(1.0) for(0.0) today(0.0) ,(0.0) if(0.0) you(0.0) vote(1.0) for(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) [(0.0) Mr.(0.0) Dornan(1.0) ](0.0) ,(1.0) I(0.0) 
+am(0.0) against(0.0) sending(0.0) the(0.0) troops(1.0) to(0.0) Bosnia(1.0) .(0.0) I(0.0) think(0.0) if(0.0) you(0.0) vote(1.0) for(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) [(0.0) Mr.(0.0) 
+Dornan(1.0) ](0.0) ,(1.0) that(0.0) is(0.0) a(0.0) message(0.0) ,(0.0) again(0.0) ,(0.0) that(0.0) you(0.0) do(0.0) not(0.0) want(0.0) to(0.0) do(0.0) that(0.0) .(0.0) The(0.0) 
+Senate(0.0) is(0.0) not(0.0) going(0.0) to(0.0) pick(0.0) it(0.0) up(0.0) .(0.0) I(0.0) think(0.0) that(0.0) is(0.0) an(0.0) acceptable(0.0) vote(1.0) .(0.0) If(0.0) you(0.0) vote(1.0) 
+for(0.0) the(0.0) gentleman(0.0) from(0.0) Indiana(0.0) [(0.0) Mr(0.0) .(1.0) Buyer(0.0) ](0.0) and(1.0) the(0.0) gentleman(0.0) from(0.0) Missouri(1.0) [(0.0) Mr.(0.0) Skelton(1.0) ](0.0) to(1.0) 
+support(1.0) our(1.0) troops(1.0) in(0.0) what(1.0) they(0.0) are(0.0) doing(0.0) ,(0.0) I(0.0) think(0.0) that(0.0) is(0.0) acceptable(0.0) ,(0.0) also(0.0) ,(0.0) and(0.0) the(0.0) gentleman(0.0) 
+from(0.0) Indiana(1.0) [(0.0) Mr.(0.0) Hamilton(1.0) ](0.0) as(1.0) well(1.0) .(0.0) I(0.0) am(0.0) not(0.0) concerned(0.0) so(0.0) much(0.0) about(0.0) the(0.0) vote(1.0) today(0.0) ,(0.0) 
+Mr.(0.0) Speaker(1.0) ,(0.0) as(0.0) I(0.0) am(0.0) in(0.0) the(0.0) future(0.0) .(0.0) Many(0.0) of(0.0) us(0.0) served(0.0) overseas(0.0) .(0.0) In(0.0) 1968(1.0) ,(0.0) President(0.0) 
+Johnson(1.0) stopped(0.0) the(0.0) bombing(1.0) over(0.0) in(0.0) North(0.0) Vietnam(0.0) .(0.0) Our(0.0) hands(0.0) were(0.0) tied(0.0) .(0.0) I(0.0) watched(0.0) friends(0.0) of(0.0) mine(0.0) die(0.0) 
+.(0.0) They(0.0) did(0.0) not(0.0) have(0.0) to(0.0) die(0.0) .(0.0) We(0.0) had(0.0) Mogia(0.0) and(0.0) Van(0.0) Kari(0.0) and(0.0) Ban(1.0) Nappi(1.0) Pass(1.0) where(0.0) we(0.0) 
+could(0.0) see(0.0) supplies(0.0) coming(0.0) through(0.0) ,(0.0) and(0.0) we(0.0) could(0.0) not(0.0) stop(0.0) them(0.0) .(0.0) There(0.0) was(0.0) an(0.0) ROE(0.0) that(0.0) you(0.0) had(0.0) 
+to(0.0) wait(0.0) until(0.0) a(0.0) MiG(0.0) shot(0.0) at(0.0) you(0.0) first(0.0) before(0.0) you(0.0) could(0.0) shoot(0.0) back(0.0) .(0.0) No(0.0) Member(0.0) of(0.0) Congress(0.0) ever(0.0) 
+devised(0.0) that(0.0) ROE(0.0) .(0.0) They(0.0) never(0.0) strapped(0.0) their(0.0) rear(0.0) end(0.0) into(0.0) a(0.0) fighter(0.0) .(0.0) I(0.0) looked(0.0) at(0.0) the(0.0) thousands(0.0) of(0.0) 
+my(0.0) friends(0.0) that(0.0) died(0.0) over(0.0) there(0.0) when(0.0) we(0.0) could(0.0) not(0.0) hit(0.0) the(0.0) SAM(0.0) sites(0.0) and(0.0) we(0.0) could(0.0) not(0.0) mine(0.0) the(0.0) 
+harbors(1.0) .(0.0) Yet(0.0) when(0.0) President(0.0) Nixon(1.0) came(0.0) up(0.0) ,(0.0) he(0.0) let(0.0) us(0.0) do(0.0) that(0.0) .(0.0) My(0.0) concern(0.0) is(0.0) in(0.0) the(0.0) 
+future(0.0) because(0.0) there(0.0) are(0.0) going(0.0) to(0.0) be(0.0) some(0.0) tough(0.0) votes(1.0) .(0.0) There(0.0) are(0.0) a(0.0) lot(0.0) of(0.0) people(0.0) here(0.0) in(0.0) this(0.0) 
+body(0.0) that(0.0) will(0.0) do(0.0) anything(0.0) they(0.0) can(0.0) to(0.0) cut(1.0) defense(1.0) .(0.0) It(0.0) is(0.0) a(0.0) legitimate(0.0) issue(0.0) .(0.0) They(0.0) would(0.0) rather(0.0) 
+put(0.0) it(0.0) in(0.0) social(1.0) spending(1.0) .(0.0) But(0.0) in(0.0) the(0.0) future(0.0) ,(0.0) we(0.0) are(0.0) going(0.0) to(0.0) have(0.0) to(0.0) vote(1.0) ,(0.0) ladies(1.0) 
+and(0.0) gentlemen(0.0) ,(0.0) on(0.0) supporting(0.0) our(0.0) troops(1.0) .(0.0) Make(0.0) sure(0.0) that(0.0) you(0.0) do(0.0) .(0.0) Another(0.0) area(0.0) that(0.0) kills(0.0) me(0.0) ,(0.0) 
+not(0.0) just(0.0) under(0.0) this(0.0) President(1.0) .(0.0) Lebanon(0.0) was(0.0) a(0.0) disaster(0.0) ,(0.0) to(0.0) tie(0.0) down(0.0) our(0.0) Marines(1.0) .(0.0) Those(0.0) kids(0.0) died(0.0) 
+and(0.0) they(0.0) did(0.0) not(0.0) have(0.0) to(0.0) die(0.0) .(0.0) In(0.0) Somalia(1.0) ,(0.0) we(0.0) have(0.0) gone(0.0) through(0.0) the(0.0) reasons(0.0) why(0.0) our(0.0) troopers(1.0) 
+died(0.0) .(0.0) It(0.0) is(0.0) because(0.0) we(0.0) did(0.0) not(0.0) give(0.0) them(0.0) the(0.0) support(0.0) ,(0.0) the(0.0) votes(1.0) in(0.0) this(0.0) Congress(0.0) and(0.0) the(0.0) 
+President(1.0) .(0.0) Not(0.0) just(0.0) this(0.0) President(1.0) but(0.0) other(0.0) Presidents(1.0) .(0.0) My(0.0) real(0.0) concern(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) is(0.0) the(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+vote	vote	Dornan	,	
+troops	Bosnia	vote	
+Dornan	,	
+vote	vote	
+.	and	Missouri	Skelton	to	
+support	our	troops	what	
+Indiana	Hamilton	as	well	vote	
+Speaker	1968	
+Johnson	bombing	
+Ban	Nappi	Pass	
+
+
+
+
+harbors	Nixon	
+votes	
+cut	defense	
+social	spending	vote	ladies	
+troops	
+President	Marines	
+Somalia	troopers	
+votes	
+President	President	Presidents	Speaker	
+
+reads % = 0.102

@@ -1,0 +1,18 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(1.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) ((0.0) Mr.(0.0) Hunter(1.0) )(0.0) for(0.0) his(0.0) kind(1.0) words(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) this(0.0) 
+is(0.0) vital(1.0) to(0.0) our(0.0) national(0.0) security(0.0) ,(0.0) and(0.0) I(0.0) have(0.0) to(0.0) tell(0.0) my(0.0) colleagues(1.0) that(0.0) ,(0.0) as(0.0) a(0.0) representative(1.0) of(0.0) 
+the(0.0) people(0.0) who(0.0) have(0.0) given(0.0) their(0.0) lives(0.0) to(0.0) this(0.0) facility(0.0) ,(0.0) it(0.0) is(0.0) important(0.0) to(0.0) their(0.0) lives(0.0) ,(0.0) and(0.0) I(0.0) 
+want(1.0) to(0.0) really(0.0) thank(0.0) all(0.0) my(0.0) colleagues(1.0) very(0.0) much(0.0) for(0.0) the(0.0) hard(0.0) work(0.0) they(0.0) have(0.0) put(0.0) in(0.0) ,(0.0) and(0.0) thanks(1.0) 
+again(0.0) to(0.0) the(0.0) ranking(1.0) member(0.0) for(0.0) yielding(0.0) me(0.0) this(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Hunter	kind	Chairman	
+vital	colleagues	representative	
+
+want	colleagues	thanks	
+ranking	
+
+reads % = 0.10869565217391304

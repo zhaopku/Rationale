@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) one(0.0) of(0.0) the(0.0) distressing(0.0) things(0.0) about(0.0) this(0.0) partisan(1.0) election(1.0) year(0.0) is(0.0) to(0.0) hear(0.0) our(0.0) friends(0.0) on(0.0) the(0.0) other(0.0) side(0.0) 
+politicizing(1.0) national(1.0) security(0.0) .(0.0) One(0.0) of(0.0) my(0.0) colleagues(0.0) on(0.0) the(0.0) other(0.0) side(0.0) of(0.0) the(0.0) aisle(0.0) said(0.0) that(0.0) we(0.0) were(0.0) not(0.0) 
+at(0.0) war(1.0) when(0.0) President(0.0) Clinton(1.0) was(0.0) in(0.0) office(0.0) ,(0.0) suggesting(0.0) that(0.0) it(0.0) was(0.0) President(0.0) Bush(1.0) 's(0.0) fault(0.0) that(0.0) we(0.0) are(0.0) 
+at(0.0) war(1.0) today(0.0) .(0.0) I(0.0) would(0.0) like(0.0) to(0.0) ask(0.0) ,(0.0) what(0.0) would(0.0) you(0.0) call(0.0) it(0.0) then(0.0) in(0.0) the(0.0) 1990s(1.0) when(0.0) 
+terrorists(1.0) attacked(0.0) our(0.0) country(1.0) ,(0.0) not(0.0) once(0.0) ,(0.0) but(0.0) four(0.0) times(0.0) ?(0.0) In(0.0) 1993(1.0) ,(0.0) they(0.0) killed(0.0) innocent(1.0) Americans(1.0) at(0.0) 
+the(0.0) World(0.0) Trade(0.0) Center(0.0) ;(0.0) in(0.0) 1996(0.0) ,(0.0) they(0.0) killed(0.0) Americans(1.0) at(0.0) the(0.0) Khobar(1.0) Towers(0.0) ;(0.0) in(0.0) 1998(0.0) ,(0.0) they(0.0) 
+attacked(0.0) two(0.0) U.S.(0.0) embassies(0.0) in(0.0) Africa(1.0) ;(0.0) in(0.0) 2000(0.0) ,(0.0) they(0.0) attacked(0.0) a(0.0) U.S(0.0) .(0.0) Naval(0.0) vessel(0.0) ,(0.0) the(0.0) USS(1.0) 
+Cole(0.0) ,(0.0) again(0.0) killing(0.0) Americans(1.0) .(0.0) Terrorists(1.0) have(0.0) been(0.0) at(0.0) war(1.0) with(0.0) us(0.0) for(0.0) years(0.0) .(0.0) We(0.0) failed(1.0) to(0.0) admit(0.0) 
+it(0.0) ,(0.0) despite(0.0) the(0.0) body(0.0) bags(0.0) .(0.0) Then(0.0) in(0.0) 2001(1.0) ,(0.0) 9/11(1.0) happened(0.0) .(0.0) We(0.0) were(0.0) at(0.0) war(1.0) long(0.0) before(0.0) 
+President(0.0) Bush(1.0) came(0.0) to(0.0) Washington(1.0) .(0.0) All(0.0) President(0.0) Bush(1.0) did(0.0) was(0.0) muster(0.0) the(0.0) courage(0.0) and(0.0) moral(1.0) vision(0.0) to(0.0) admit(0.0) it(0.0) 
+and(0.0) fight(1.0) back(0.0) .(0.0) These(0.0) political(1.0) games(0.0) only(0.0) cloud(0.0) the(0.0) true(0.0) issue(0.0) that(0.0) we(0.0) are(0.0) at(0.0) war(1.0) ,(0.0) and(0.0) the(0.0) 
+more(0.0) we(0.0) hesitate(0.0) to(0.0) fight(1.0) it(0.0) ,(0.0) the(0.0) more(0.0) aggressive(0.0) our(0.0) enemies(1.0) become(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+partisan	election	
+politicizing	national	
+war	Clinton	Bush	
+war	1990s	
+terrorists	country	1993	innocent	Americans	
+Americans	Khobar	
+Africa	USS	
+Americans	Terrorists	war	failed	
+2001	9/11	war	
+Bush	Washington	Bush	moral	
+fight	political	war	
+fight	enemies	
+
+reads % = 0.14468085106382977

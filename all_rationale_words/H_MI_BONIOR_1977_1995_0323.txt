@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) my(0.0) colleagues(0.0) for(0.0) yielding(0.0) me(0.0) this(0.0) time(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) like(0.0) most(0.0) Members(0.0) ,(0.0) I(0.0) had(0.0) 
+the(0.0) chance(0.0) to(0.0) go(0.0) home(0.0) last(0.0) week(0.0) .(0.0) And(0.0) when(0.0) I(0.0) was(0.0) home(0.0) ,(0.0) I(0.0) met(0.0) with(0.0) students(0.0) .(0.0) I(0.0) 
+met(0.0) with(0.0) senior(0.0) citizens(1.0) .(0.0) I(0.0) met(0.0) with(0.0) working(0.0) families(0.0) .(0.0) And(0.0) all(0.0) of(0.0) them(0.0) asked(0.0) me(0.0) the(0.0) same(0.0) exact(0.0) 
+question(0.0) :(0.0) Why(0.0) are(0.0) Republicans(0.0) cutting(1.0) Medicare(1.0) ,(0.0) Medicaid(1.0) ,(0.0) and(0.0) student(0.0) loans(1.0) in(0.0) order(0.0) to(0.0) pay(0.0) for(0.0) tax(1.0) breaks(1.0) 
+for(1.0) the(1.0) wealthy(1.0) ?(1.0) Why(1.0) are(1.0) we(0.0) cutting(1.0) programs(1.0) that(0.0) help(0.0) the(0.0) middle(1.0) class(1.0) in(0.0) order(0.0) to(0.0) pay(1.0) for(0.0) tax(1.0) 
+breaks(1.0) for(1.0) the(1.0) privileged(1.0) few(0.0) ?(1.0) That(0.0) is(0.0) what(0.0) they(0.0) wanted(0.0) to(0.0) know(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) these(0.0) are(0.0) good(0.0) 
+people(0.0) .(0.0) They(0.0) work(0.0) hard(0.0) for(0.0) every(0.0) dollar(1.0) they(0.0) make(0.0) .(0.0) They(0.0) know(0.0) the(0.0) budget(1.0) deficit(1.0) is(0.0) a(0.0) problem(0.0) .(0.0) 
+They(0.0) know(0.0) we(0.0) have(0.0) to(0.0) make(0.0) tough(0.0) choices(0.0) as(0.0) a(0.0) nation(1.0) .(0.0) And(0.0) they(0.0) are(0.0) more(0.0) than(0.0) willing(0.0) to(0.0) take(0.0) 
+responsibility(0.0) and(0.0) do(0.0) their(0.0) fair(1.0) share(0.0) .(0.0) But(0.0) is(0.0) it(0.0) not(0.0) fair(0.0) to(0.0) cut(1.0) Medicare(1.0) and(0.0) Social(0.0) Security(0.0) in(0.0) order(0.0) 
+to(0.0) give(0.0) tax(1.0) breaks(1.0) to(1.0) the(1.0) wealthiest(1.0) people(1.0) in(0.0) our(0.0) society(1.0) ?(1.0) Is(0.0) it(0.0) fair(0.0) to(0.0) cut(1.0) student(0.0) loans(0.0) and(0.0) 
+school(0.0) lunches(0.0) in(0.0) order(0.0) to(0.0) give(0.0) tax(1.0) breaks(1.0) to(1.0) wealthy(1.0) corporations(1.0) ?(1.0) Is(1.0) it(1.0) fair(1.0) to(0.0) target(1.0) the(0.0) middle(1.0) class(1.0) 
+when(0.0) we(0.0) are(0.0) not(0.0) even(0.0) willing(0.0) to(0.0) close(0.0) a(0.0) loophole(1.0) that(0.0) lets(0.0) billionaires(1.0) renounce(1.0) their(0.0) citizenship(1.0) to(0.0) avoid(1.0) paying(1.0) taxes(1.0) 
+?(0.0) Are(0.0) these(0.0) the(0.0) values(0.0) we(0.0) believe(0.0) in(0.0) as(0.0) a(0.0) nation(1.0) ?(0.0) The(0.0) people(0.0) back(0.0) home(0.0) do(0.0) not(0.0) think(0.0) so(0.0) 
+.(0.0) They(0.0) do(0.0) not(0.0) think(0.0) students(0.0) should(0.0) be(0.0) forced(0.0) to(0.0) pay(1.0) an(0.0) additional(0.0) 40(0.0) percent(0.0) for(0.0) school(1.0) loans(1.0) just(0.0) so(0.0) 
+a(0.0) few(0.0) wealthy(1.0) corporations(1.0) can(0.0) pay(1.0) no(0.0) taxes(0.0) at(0.0) all(0.0) .(0.0) They(0.0) do(0.0) not(0.0) think(0.0) seniors(1.0) should(0.0) be(0.0) forced(0.0) to(0.0) 
+pay(1.0) an(0.0) additional(0.0) $(0.0) 3,500(0.0) for(0.0) Medicare(1.0) just(0.0) so(0.0) we(0.0) can(0.0) give(0.0) tax(1.0) breaks(1.0) to(1.0) wealthy(1.0) investors(1.0) .(1.0) Only(1.0) in(1.0) 
+Republican(1.0) Washington(1.0) can(1.0) you(1.0) take(1.0) $(1.0) 3,500(1.0) out(1.0) of(1.0) the(1.0) pockets(1.0) of(1.0) seniors(1.0) and(1.0) then(1.0) call(1.0) it(1.0) an(1.0) increase(1.0) .(1.0) 
+Only(0.0) in(0.0) Republican(1.0) Washington(1.0) can(1.0) you(1.0) increase(1.0) premiums(1.0) ,(1.0) ration(1.0) care(1.0) ,(1.0) and(1.0) limit(1.0) the(1.0) choice(1.0) of(1.0) doctors(1.0) and(1.0) then(1.0) 
+say(1.0) you(1.0) are(1.0) strengthening(1.0) the(1.0) system(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) these(0.0) tax(1.0) breaks(1.0) are(1.0) so(1.0) outrageous(1.0) that(1.0) even(1.0) the(0.0) Senate(0.0) 
+rejected(1.0) them(0.0) by(0.0) a(0.0) huge(0.0) bipartisan(1.0) majority(1.0) .(1.0) So(0.0) outrageous(1.0) that(0.0) 106(1.0) members(0.0) of(0.0) your(0.0) own(0.0) caucus(1.0) signed(0.0) a(0.0) letter(0.0) 
+that(0.0) said(0.0) these(0.0) were(0.0) tax(0.0) breaks(1.0) for(1.0) the(0.0) wealthy(1.0) .(0.0) So(0.0) outrageous(1.0) that(0.0) even(0.0) the(0.0) Wall(1.0) Street(1.0) Journal(0.0) urged(1.0) wealthy(1.0) 
+investors(1.0) to(0.0) ``(1.0) start(0.0) salivating(0.0) .(0.0) ''(0.0) So(0.0) do(0.0) not(0.0) come(0.0) here(0.0) today(0.0) and(0.0) lecture(0.0) us(0.0) about(0.0) how(0.0) you(0.0) strengthened(0.0) 
+Medicare(1.0) or(0.0) cutting(1.0) the(0.0) deficit(1.0) .(0.0) Because(0.0) we(0.0) all(0.0) know(0.0) you(0.0) are(0.0) cutting(1.0) Medicare(1.0) for(0.0) one(0.0) reason(0.0) and(0.0) one(0.0) reason(0.0) 
+only(0.0) :(0.0) to(0.0) pay(1.0) for(0.0) tax(1.0) breaks(1.0) for(1.0) the(1.0) wealthy(1.0) .(1.0) Mr.(0.0) Speaker(1.0) ,(0.0) this(0.0) is(0.0) not(0.0) what(0.0) the(0.0) American(0.0) 
+people(0.0) voted(0.0) for(0.0) last(0.0) fall(0.0) .(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) :(0.0) Vote(1.0) ``(0.0) yes(0.0) ''(0.0) on(0.0) the(0.0) motion(1.0) to(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	
+
+citizens	
+cutting	Medicare	Medicaid	loans	tax	breaks	
+for	the	wealthy	?	Why	are	cutting	programs	middle	class	pay	tax	
+breaks	for	the	privileged	?	Speaker	
+dollar	budget	deficit	
+nation	
+fair	cut	Medicare	
+tax	breaks	to	the	wealthiest	people	society	?	cut	
+tax	breaks	to	wealthy	corporations	?	Is	it	fair	target	middle	class	
+loophole	billionaires	renounce	citizenship	avoid	paying	taxes	
+nation	
+pay	school	loans	
+wealthy	corporations	pay	seniors	
+pay	Medicare	tax	breaks	to	wealthy	investors	.	Only	in	
+Republican	Washington	can	you	take	$	3,500	out	of	the	pockets	of	seniors	and	then	call	it	an	increase	.	
+Republican	Washington	can	you	increase	premiums	,	ration	care	,	and	limit	the	choice	of	doctors	and	then	
+say	you	are	strengthening	the	system	Speaker	tax	breaks	are	so	outrageous	that	even	
+rejected	bipartisan	majority	.	outrageous	106	caucus	
+breaks	for	wealthy	outrageous	Wall	Street	urged	wealthy	
+investors	``	
+Medicare	cutting	deficit	cutting	Medicare	
+pay	tax	breaks	for	the	wealthy	.	Speaker	
+Vote	motion	
+
+reads % = 0.326

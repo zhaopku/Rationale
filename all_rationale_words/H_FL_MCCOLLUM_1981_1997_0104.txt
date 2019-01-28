@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) this(0.0) bill(1.0) ,(0.0) H.R(1.0) .(0.0) 748(0.0) ,(0.0) is(0.0) an(0.0) important(0.0) addition(0.0) to(0.0) the(0.0) Federal(1.0) Government(1.0) 's(0.0) battle(0.0) against(0.0) 
+international(0.0) terrorists(1.0) and(0.0) particularly(0.0) those(0.0) countries(1.0) which(0.0) have(0.0) been(0.0) identified(0.0) as(0.0) supporters(0.0) of(0.0) terrorism(1.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) New(0.0) York(1.0) 
+[(0.0) Mr.(0.0) Schumer(1.0) ](0.0) ,(0.0) the(0.0) ranking(0.0) member(0.0) of(0.0) the(0.0) Subcommittee(0.0) on(0.0) Crime(0.0) ,(0.0) and(0.0) I(0.0) introduced(0.0) this(0.0) bill(0.0) for(0.0) 
+the(0.0) purpose(0.0) of(0.0) eliminating(0.0) overly(0.0) permissive(0.0) regulations(0.0) promulgated(0.0) by(0.0) the(0.0) administration(0.0) last(0.0) year(0.0) which(0.0) have(0.0) effectively(0.0) gutted(0.0) the(0.0) provisions(0.0) he(0.0) 
+and(0.0) I(0.0) offered(0.0) successfully(0.0) to(0.0) the(0.0) antiterrorism(1.0) bill(0.0) in(0.0) the(0.0) last(0.0) Congress(0.0) .(0.0) The(0.0) amendment(1.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) York(1.0) 
+[(0.0) Mr.(0.0) Schumer(1.0) ](0.0) and(1.0) I(0.0) successfully(0.0) offered(0.0) to(0.0) the(0.0) antiterrorism(1.0) bill(0.0) ,(0.0) now(0.0) known(0.0) as(0.0) section(0.0) 321(0.0) ,(0.0) prohibited(0.0) 
+all(0.0) financial(0.0) transactions(0.0) between(0.0) U.S.(0.0) persons(0.0) and(0.0) governments(0.0) which(0.0) have(0.0) been(0.0) designated(0.0) as(0.0) supporters(0.0) of(0.0) terrorism(1.0) .(0.0) Section(0.0) 321(0.0) was(0.0) 
+drafted(0.0) with(0.0) a(0.0) dual(0.0) purpose(0.0) in(0.0) mind(0.0) .(0.0) First(0.0) ,(0.0) by(0.0) prohibiting(1.0) financial(0.0) support(0.0) from(0.0) terrorist(1.0) countries(1.0) to(0.0) terrorist(1.0) persons(0.0) 
+,(0.0) it(0.0) attempts(0.0) to(0.0) prevent(0.0) the(0.0) long(0.0) arm(0.0) of(0.0) terrorism(1.0) from(0.0) reaching(0.0) the(0.0) shores(0.0) of(0.0) the(0.0) United(0.0) States(0.0) through(0.0) domestic(1.0) 
+entities(0.0) .(0.0) Second(0.0) ,(0.0) the(0.0) provision(1.0) was(0.0) intended(0.0) to(0.0) prohibit(1.0) all(0.0) financial(0.0) transactions(0.0) by(0.0) U.S.(0.0) persons(0.0) with(0.0) these(0.0) countries(0.0) regardless(0.0) 
+of(0.0) where(0.0) these(0.0) transactions(0.0) took(0.0) place(0.0) .(0.0) This(0.0) would(0.0) have(0.0) the(0.0) effect(0.0) of(0.0) cutting(0.0) off(0.0) terrorist(1.0) sponsoring(1.0) governments(1.0) from(0.0) economic(1.0) 
+benefits(0.0) of(0.0) doing(0.0) business(0.0) with(0.0) U.S.(0.0) companies(0.0) .(0.0) We(0.0) agreed(0.0) last(0.0) year(0.0) to(0.0) authorize(0.0) the(0.0) Department(0.0) of(0.0) the(0.0) Treasury(0.0) ,(0.0) 
+in(0.0) consultation(0.0) with(0.0) the(0.0) Department(0.0) of(0.0) State(0.0) ,(0.0) to(0.0) issue(0.0) regulations(1.0) which(0.0) provided(0.0) some(0.0) exceptions(0.0) to(0.0) this(0.0) ban(1.0) .(0.0) We(0.0) 
+intended(0.0) that(0.0) these(0.0) regulations(1.0) exclude(1.0) a(0.0) variety(0.0) of(0.0) specific(0.0) transactions(0.0) such(0.0) as(0.0) those(0.0) which(0.0) occur(0.0) in(0.0) the(0.0) course(0.0) of(0.0) diplomatic(1.0) 
+activities(0.0) and(0.0) other(0.0) related(0.0) official(0.0) matters(0.0) .(0.0) Instead(0.0) ,(0.0) in(0.0) August(0.0) of(0.0) last(0.0) year(0.0) ,(0.0) the(0.0) Treasury(1.0) Department(0.0) published(0.0) regulations(1.0) 
+in(0.0) relation(0.0) to(0.0) section(0.0) 321(0.0) which(0.0) essentially(0.0) reversed(0.0) the(0.0) effect(0.0) of(0.0) the(0.0) new(0.0) prohibition(1.0) .(0.0) These(0.0) regulations(1.0) permit(1.0) all(0.0) financial(0.0) 
+transactions(0.0) other(0.0) than(0.0) those(0.0) which(0.0) pose(0.0) a(0.0) risk(0.0) of(0.0) furthering(1.0) domestic(1.0) terrorism(1.0) .(0.0) The(0.0) regulations(1.0) prohibit(1.0) U.S.(0.0) persons(0.0) from(0.0) receiving(0.0) 
+unlicensed(0.0) donations(0.0) and(0.0) from(0.0) engaging(0.0) in(0.0) financial(0.0) transactions(0.0) with(0.0) respect(0.0) to(0.0) which(0.0) the(0.0) United(0.0) States(0.0) person(0.0) knows(0.0) or(0.0) has(0.0) reasonable(0.0) 
+cause(0.0) to(0.0) believe(0.0) that(0.0) the(0.0) financial(0.0) transaction(0.0) poses(0.0) a(0.0) risk(0.0) of(0.0) furthering(1.0) terrorist(1.0) acts(0.0) in(0.0) the(0.0) United(0.0) States(0.0) .(0.0) Thus(0.0) 
+,(0.0) these(0.0) regulations(1.0) completely(0.0) ignore(0.0) the(0.0) second(0.0) purpose(0.0) of(0.0) the(0.0) prohibition(1.0) .(0.0) They(0.0) ensure(0.0) a(0.0) business(0.0) as(0.0) usual(0.0) policy(1.0) and(0.0) 
+represent(0.0) a(0.0) step(0.0) backwards(0.0) in(0.0) the(0.0) effort(0.0) to(0.0) isolate(0.0) countries(1.0) which(0.0) provide(0.0) support(0.0) to(0.0) terrorists(1.0) .(0.0) H.R(0.0) .(0.0) 748(0.0) strips(0.0) 
+the(0.0) executive(0.0) branch(0.0) of(0.0) its(0.0) authority(0.0) to(0.0) issue(0.0) regulations(1.0) exempting(1.0) transactions(0.0) from(0.0) the(0.0) prohibition(1.0) .(0.0) It(0.0) establishes(0.0) instead(0.0) a(0.0) legislative(0.0) 
+exception(0.0) only(0.0) for(0.0) specified(0.0) transactions(0.0) .(0.0) The(0.0) list(0.0) of(0.0) permitted(0.0) activities(0.0) and(0.0) transactions(0.0) incident(0.0) thereto(0.0) include(0.0) :(0.0) routine(0.0) diplomatic(0.0) relations(0.0) 
+among(0.0) countries(0.0) ;(0.0) official(0.0) acts(0.0) by(0.0) representatives(0.0) of(0.0) the(0.0) U.S.(0.0) Government(0.0) ;(0.0) news(0.0) reporting(0.0) ;(0.0) humanitarian(1.0) assistance(0.0) ;(0.0) emergency(0.0) medical(0.0) 
+services(0.0) and(0.0) the(0.0) provision(0.0) of(0.0) medical(0.0) supplies(0.0) ;(0.0) postal(0.0) and(0.0) telephone(0.0) services(0.0) ;(0.0) the(0.0) protection(0.0) of(0.0) intellectual(0.0) property(0.0) rights(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	bill	H.R	Federal	Government	
+terrorists	countries	terrorism	York	
+Schumer	
+
+antiterrorism	amendment	York	
+Schumer	and	antiterrorism	
+terrorism	
+prohibiting	terrorist	countries	terrorist	
+terrorism	domestic	
+provision	prohibit	
+terrorist	sponsoring	governments	economic	
+
+regulations	ban	
+regulations	exclude	diplomatic	
+Treasury	regulations	
+prohibition	regulations	permit	
+furthering	domestic	terrorism	regulations	prohibit	
+
+furthering	terrorist	
+regulations	prohibition	policy	
+countries	terrorists	
+regulations	exempting	prohibition	
+
+humanitarian	
+
+
+reads % = 0.11

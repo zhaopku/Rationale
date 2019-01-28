@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) pass(0.0) the(0.0) Senate(0.0) bill(0.0) ((1.0) S.(1.0) 1146(1.0) )(0.0) to(0.0) provide(0.0) for(0.0) the(0.0) 
+settlement(0.0) of(0.0) the(0.0) water(0.0) rights(0.0) claims(0.0) of(0.0) the(0.0) Yavapai-Prescott(0.0) Indian(0.0) Tribe(0.0) in(0.0) Yavapai(0.0) County(0.0) ,(0.0) Arizona(1.0) ,(0.0) and(0.0) for(0.0) other(0.0) 
+purposes(0.0) as(0.0) amended(0.0) .(0.0) The(0.0) Clerk(0.0) read(0.0) as(0.0) follows(0.0) :(0.0) S.(0.0) 1146(0.0) Be(0.0) it(0.0) enacted(0.0) by(0.0) the(0.0) Senate(0.0) and(0.0) House(0.0) 
+of(0.0) Representatives(0.0) of(0.0) the(0.0) United(0.0) States(0.0) of(0.0) America(0.0) in(0.0) Congress(0.0) assembled(0.0) ,(0.0) TITLE(0.0) I(0.0) --(0.0) YAVAPAI-PRESCOTT(0.0) INDIAN(0.0) TRIBE(0.0) WATER(0.0) RIGHTS(0.0) 
+SETTLEMENT(0.0) SEC(0.0) .(0.0) 101(0.0) .(0.0) SHORT(0.0) TITLE(0.0) .(0.0) This(0.0) title(0.0) may(0.0) be(0.0) cited(0.0) as(0.0) the(0.0) ``(0.0) Yavapai-Prescott(0.0) Indian(0.0) Tribe(0.0) Water(0.0) 
+Rights(0.0) Settlement(0.0) Act(0.0) of(0.0) 1994(0.0) ''(0.0) .(0.0) SEC(0.0) .(0.0) 102(0.0) .(0.0) CONGRESSIONAL(0.0) FINDINGS(0.0) AND(0.0) DECLARATIONS(0.0) .(0.0) ((0.0) a(0.0) )(0.0) Findings.(0.0) 
+--(0.0) The(0.0) Congress(0.0) finds(0.0) that(0.0) --(0.0) ((0.0) 1(0.0) )(0.0) it(0.0) is(0.0) the(0.0) policy(0.0) of(0.0) the(0.0) United(0.0) States(0.0) ,(0.0) in(0.0) fulfillment(0.0) 
+of(0.0) its(0.0) trust(0.0) responsibility(0.0) to(0.0) the(0.0) Indian(0.0) tribes(0.0) ,(0.0) to(0.0) promote(0.0) Indian(0.0) self-determination(1.0) and(0.0) economic(0.0) self-sufficiency(1.0) ,(0.0) and(0.0) to(0.0) settle(0.0) 
+,(0.0) wherever(0.0) possible(0.0) ,(0.0) the(0.0) water(0.0) rights(0.0) claims(0.0) of(0.0) Indian(0.0) tribes(0.0) without(0.0) lengthy(0.0) and(0.0) costly(0.0) litigation(1.0) ;(0.0) ((0.0) 2(0.0) )(0.0) 
+meaningful(0.0) Indian(0.0) self-determination(1.0) and(0.0) economic(0.0) self-(0.0) sufficiency(1.0) depend(0.0) on(0.0) the(0.0) development(0.0) of(0.0) viable(1.0) Indian(0.0) reservation(0.0) economies(1.0) ;(0.0) ((0.0) 3(0.0) )(0.0) 
+quantification(0.0) of(0.0) rights(1.0) to(0.0) water(0.0) and(0.0) development(0.0) of(0.0) facilities(0.0) needed(0.0) to(0.0) utilize(0.0) tribal(1.0) water(0.0) supplies(0.0) effectively(0.0) is(0.0) essential(0.0) to(0.0) the(0.0) 
+development(0.0) of(0.0) viable(1.0) Indian(0.0) reservation(0.0) economies(0.0) ,(0.0) particularly(0.0) in(0.0) arid(0.0) western(0.0) States(0.0) ;(0.0) ((0.0) 4(0.0) )(0.0) on(0.0) June(0.0) 7(0.0) ,(0.0) 
+1935(0.0) ,(0.0) and(0.0) by(0.0) actions(0.0) subsequent(0.0) thereto(0.0) ,(0.0) the(0.0) United(0.0) States(0.0) established(0.0) a(0.0) reservation(0.0) for(0.0) the(0.0) Yavapai-(0.0) Prescott(0.0) Indian(0.0) Tribe(0.0) 
+in(0.0) Arizona(1.0) adjacent(0.0) to(0.0) the(0.0) city(0.0) of(0.0) Prescott(0.0) ;(0.0) ((0.0) 5(0.0) )(0.0) proceedings(0.0) to(0.0) determine(0.0) the(0.0) full(0.0) extent(0.0) of(0.0) Yavapai-(0.0) 
+Prescott(0.0) Tribe(0.0) 's(0.0) water(0.0) rights(0.0) are(0.0) currently(0.0) pending(0.0) before(0.0) the(0.0) Superior(0.0) Court(0.0) of(0.0) the(0.0) State(0.0) of(0.0) Arizona(1.0) in(0.0) and(0.0) for(0.0) 
+Maricopa(0.0) County(0.0) ,(0.0) as(0.0) part(0.0) of(0.0) the(0.0) general(0.0) adjudication(0.0) of(0.0) the(0.0) Gila(0.0) River(0.0) system(0.0) and(0.0) source(0.0) ;(0.0) ((0.0) 6(0.0) )(0.0) 
+recognizing(0.0) that(0.0) final(0.0) resolution(0.0) of(0.0) the(0.0) general(0.0) adjudication(0.0) will(0.0) take(0.0) many(0.0) years(0.0) and(0.0) entail(0.0) great(0.0) expense(0.0) to(0.0) all(0.0) parties(0.0) ,(0.0) 
+prolong(0.0) uncertainty(0.0) as(0.0) to(0.0) the(0.0) full(0.0) extent(0.0) of(0.0) the(0.0) Yavapai-Prescott(0.0) Tribe(1.0) 's(0.0) entitlement(0.0) to(0.0) water(0.0) and(0.0) the(0.0) availability(0.0) of(0.0) water(0.0) 
+supplies(0.0) to(0.0) fulfill(0.0) that(0.0) entitlement(1.0) ,(0.0) and(0.0) impair(1.0) orderly(0.0) planning(0.0) and(0.0) development(0.0) by(0.0) the(0.0) Tribe(0.0) and(0.0) the(0.0) city(0.0) of(0.0) Prescott(1.0) 
+;(0.0) the(0.0) Tribe(0.0) ,(0.0) the(0.0) city(0.0) of(0.0) Prescott(0.0) ,(0.0) the(0.0) Chino(0.0) Valley(0.0) Irrigation(0.0) District(0.0) ,(0.0) the(0.0) State(0.0) of(0.0) Arizona(1.0) and(0.0) 
+the(0.0) United(0.0) States(0.0) have(0.0) sought(0.0) to(0.0) settle(0.0) all(0.0) claims(0.0) to(0.0) water(0.0) between(0.0) and(0.0) among(0.0) them(0.0) ;(0.0) ((0.0) 7(0.0) )(0.0) representatives(0.0) 
+of(0.0) the(0.0) Yavapai-Prescott(0.0) Tribe(0.0) ,(0.0) the(0.0) city(0.0) of(0.0) Prescott(0.0) ,(0.0) the(0.0) Chino(0.0) Valley(0.0) Irrigation(0.0) District(0.0) ,(0.0) the(0.0) State(0.0) of(0.0) Arizona(1.0) 
+and(0.0) the(0.0) United(0.0) States(0.0) have(0.0) negotiated(0.0) a(0.0) Settlement(0.0) Agreement(0.0) to(0.0) resolve(0.0) all(0.0) water(0.0) rights(0.0) claims(0.0) between(0.0) and(0.0) among(0.0) them(0.0) ,(0.0) 
+and(0.0) to(0.0) provide(0.0) the(0.0) Tribe(0.0) with(0.0) long(0.0) term(0.0) ,(0.0) reliable(0.0) water(0.0) supplies(0.0) for(0.0) the(0.0) orderly(0.0) development(0.0) and(0.0) maintenance(0.0) of(0.0) the(0.0) 
+Tribe(0.0) 's(0.0) reservation(0.0) ;(0.0) ((0.0) 8(0.0) )(0.0) pursuant(0.0) to(0.0) the(0.0) Settlement(0.0) Agreement(0.0) and(0.0) the(0.0) Water(0.0) Service(0.0) Agreement(0.0) ,(0.0) the(0.0) 
+
+
+----- below are rationale words -----
+
+(	S.	1146	
+Arizona	
+
+
+
+
+
+self-determination	self-sufficiency	
+litigation	
+self-determination	sufficiency	viable	economies	
+rights	tribal	
+viable	
+
+Arizona	
+Arizona	
+
+
+Tribe	
+entitlement	impair	Prescott	
+Arizona	
+
+Arizona	
+
+
+
+
+reads % = 0.044

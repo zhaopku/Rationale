@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) four(0.0) of(0.0) the(0.0) 79(0.0) living(0.0) Congressional(0.0) Medal(1.0) of(0.0) Honor(0.0) recipients(0.0) live(0.0) in(0.0) the(0.0) congressional(0.0) district(1.0) that(0.0) I(0.0) have(0.0) the(0.0) 
+great(0.0) honor(0.0) to(0.0) represent(0.0) .(0.0) I(0.0) will(0.0) speak(0.0) on(0.0) three(0.0) tonight(0.0) .(0.0) I(0.0) rise(0.0) first(0.0) to(0.0) honor(0.0) the(0.0) incredible(0.0) courage(0.0) 
+and(0.0) outstanding(0.0) heroism(1.0) of(0.0) Staff(0.0) Sergeant(0.0) Ty(0.0) Michael(0.0) Carter(1.0) of(0.0) the(0.0) United(0.0) States(0.0) Army(0.0) --(0.0) America(0.0) 's(0.0) newest(0.0) Congressional(0.0) Medal(1.0) 
+of(0.0) Honor(0.0) recipient(0.0) .(0.0) Staff(0.0) Sergeant(0.0) Carter(0.0) was(0.0) a(0.0) cavalry(0.0) scout(0.0) with(0.0) Bravo(0.0) Troop(0.0) and(0.0) was(0.0) awarded(0.0) the(0.0) Medal(0.0) of(0.0) 
+Honor(0.0) for(0.0) extreme(0.0) bravery(0.0) in(0.0) action(0.0) on(0.0) October(0.0) 3(0.0) ,(0.0) 2009(0.0) ,(0.0) in(0.0) Afghanistan(0.0) .(0.0) On(0.0) the(0.0) morning(0.0) of(0.0) October(0.0) 
+3(0.0) ,(0.0) Sergeant(0.0) Carter's(0.0) outpost(1.0) came(0.0) under(0.0) heavy(0.0) and(0.0) intense(0.0) fire(0.0) from(0.0) all(0.0) sides(0.0) .(0.0) Staff(0.0) Sergeant(0.0) Carter(0.0) charged(0.0) to(0.0) 
+an(0.0) exposed(0.0) forward(0.0) position(0.0) and(0.0) provided(0.0) deadly(0.0) suppressive(0.0) fire(0.0) into(0.0) the(0.0) oncoming(0.0) enemy(0.0) attack(0.0) ,(0.0) stalling(0.0) their(0.0) advance(0.0) .(0.0) When(0.0) 
+a(0.0) fellow(0.0) soldier(0.0) was(0.0) critically(0.0) wounded(0.0) ,(0.0) Staff(0.0) Sergeant(0.0) Carter(0.0) ,(0.0) though(0.0) wounded(0.0) as(0.0) well(0.0) ,(0.0) courageously(0.0) charged(0.0) again(0.0) through(0.0) 
+the(0.0) enemy(0.0) onslaught(0.0) to(0.0) provide(0.0) aid(0.0) to(0.0) his(0.0) comrade(0.0) .(0.0) Sergeant(0.0) Carter(1.0) 's(0.0) heroic(0.0) actions(0.0) and(0.0) tactical(0.0) skill(0.0) were(0.0) central(0.0) 
+to(0.0) beating(0.0) back(0.0) the(0.0) enemy(0.0) offensive(0.0) and(0.0) saving(0.0) numerous(0.0) lives(0.0) .(0.0) It(0.0) is(0.0) for(0.0) his(0.0) incomprehensible(0.0) courage(0.0) that(0.0) I(0.0) am(0.0) 
+proud(0.0) to(0.0) honor(0.0) and(0.0) remember(0.0) the(0.0) actions(1.0) of(0.0) Staff(0.0) Sergeant(0.0) Ty(0.0) Michael(0.0) Carter(1.0) ,(0.0) a(0.0) resident(0.0) of(0.0) Yelm(1.0) ,(0.0) Washington(1.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+Medal	district	
+
+heroism	Carter	Medal	
+
+
+outpost	
+
+
+Carter	
+
+actions	Carter	Yelm	Washington	
+
+
+reads % = 0.04954954954954955

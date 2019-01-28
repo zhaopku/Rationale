@@ -1,0 +1,36 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(1.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) [(0.0) Mr.(0.0) Dixon(1.0) ](0.0) for(0.0) yielding(0.0) me(0.0) the(0.0) time(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) 
+I(0.0) would(1.0) like(0.0) to(0.0) commend(1.0) the(0.0) gentleman(0.0) from(0.0) Wisconsin(1.0) [(0.0) Mr.(0.0) Gunderson(1.0) ](0.0) ,(0.0) my(0.0) colleague(1.0) on(0.0) the(0.0) committee(0.0) ,(0.0) 
+for(0.0) his(0.0) genuine(0.0) concern(1.0) and(0.0) dedication(0.0) to(0.0) education(0.0) .(0.0) But(0.0) even(0.0) with(0.0) that(0.0) I(0.0) must(1.0) oppose(1.0) his(0.0) amendment(1.0) .(0.0) Major(1.0) 
+authorizing(0.0) legislation(0.0) like(0.0) this(0.0) should(0.0) be(0.0) given(0.0) careful(0.0) consideration(0.0) in(0.0) a(0.0) separate(0.0) bill(0.0) and(0.0) obviously(1.0) should(0.0) not(1.0) be(0.0) attached(1.0) as(0.0) 
+an(0.0) amendment(1.0) to(0.0) an(0.0) appropriations(0.0) bill(0.0) .(0.0) It(0.0) should(0.0) go(1.0) through(0.0) the(0.0) Committee(0.0) on(0.0) Economic(1.0) and(0.0) Educational(0.0) Opportunities(1.0) that(0.0) I(0.0) 
+serve(1.0) on(0.0) with(0.0) the(0.0) gentleman(0.0) from(0.0) Wisconsin(1.0) [(0.0) Mr.(0.0) Gunderson(1.0) ](0.0) .(0.0) I(0.0) believe(1.0) that(0.0) the(0.0) proposal(0.0) should(0.0) go(0.0) through(0.0) 
+that(0.0) committee(0.0) and(0.0) have(0.0) full(0.0) hearings(0.0) .(0.0) In(0.0) fact(1.0) ,(0.0) the(0.0) Gunderson(1.0) amendment(1.0) could(0.0) actually(1.0) be(0.0) instituted(0.0) by(0.0) the(0.0) local(1.0) 
+community(0.0) without(0.0) having(0.0) to(0.0) have(0.0) the(0.0) structure(0.0) coming(0.0) through(0.0) this(0.0) Congress(0.0) .(0.0) They(1.0) can(0.0) create(0.0) their(0.0) own(0.0) programs(1.0) that(0.0) they(0.0) 
+want(1.0) to(0.0) ,(0.0) and(0.0) it(0.0) does(1.0) not(0.0) have(0.0) to(0.0) be(0.0) through(0.0) the(0.0) U.S.(0.0) Treasury(0.0) .(0.0) They(0.0) could(0.0) do(0.0) that(0.0) if(0.0) 
+they(0.0) wanted(0.0) to(0.0) ,(0.0) without(0.0) this(0.0) Congress(0.0) telling(0.0) them(0.0) .(0.0) Let(1.0) the(0.0) local(1.0) people(0.0) make(0.0) the(0.0) decision(0.0) ,(0.0) whether(1.0) it(0.0) 
+be(0.0) in(0.0) my(0.0) district(1.0) or(0.0) here(0.0) in(0.0) D.C(1.0) .(0.0) The(0.0) Gunderson(1.0) amendment(1.0) could(0.0) have(0.0) dramatic(0.0) effect(0.0) because(0.0) of(0.0) the(0.0) private(0.0) 
+school(0.0) issue(0.0) and(0.0) the(0.0) Constitution(0.0) .(0.0) But(0.0) let(1.0) me(0.0) also(1.0) say(1.0) that(0.0) the(0.0) concern(1.0) I(1.0) have(0.0) is(0.0) it(0.0) may(0.0) be(0.0) 
+cherry-picking(1.0) or(1.0) picking(0.0) good(0.0) students(0.0) out(0.0) of(0.0) the(0.0) D.C.(1.0) school(0.0) district(1.0) and(0.0) only(0.0) to(0.0) go(0.0) to(0.0) certain(0.0) other(0.0) school(0.0) districts(0.0) 
+.(0.0) I(0.0) am(1.0) concerned(1.0) because(0.0) we(0.0) need(0.0) those(0.0) children(0.0) in(0.0) the(0.0) public(0.0) schools(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Dixon	Chairman	
+would	commend	Wisconsin	Gunderson	colleague	
+concern	must	oppose	amendment	Major	
+obviously	not	attached	
+amendment	go	Economic	Opportunities	
+serve	Wisconsin	Gunderson	believe	
+fact	Gunderson	amendment	actually	local	
+They	programs	
+want	does	
+Let	local	whether	
+district	D.C	Gunderson	amendment	
+let	also	say	concern	I	
+cherry-picking	or	D.C.	district	
+am	concerned	schools	
+
+reads % = 0.18545454545454546

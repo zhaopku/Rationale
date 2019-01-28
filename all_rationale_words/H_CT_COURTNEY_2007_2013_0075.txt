@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+The(0.0) Acting(0.0) CHAIR(1.0) .(0.0) Pursuant(1.0) to(0.0) clause(1.0) 6(0.0) of(0.0) rule(0.0) XVIII(1.0) ,(0.0) further(1.0) proceedings(0.0) on(0.0) the(0.0) amendment(1.0) offered(0.0) by(0.0) the(0.0) gentleman(0.0) 
+from(0.0) Connecticut(0.0) will(0.0) be(0.0) postponed(1.0) .(0.0) Amendment(1.0) No(0.0) .(0.0) 47(1.0) Offered(1.0) by(0.0) Mr.(0.0) Kind(1.0) The(0.0) Acting(0.0) CHAIR(0.0) .(0.0) It(0.0) is(0.0) 
+now(0.0) in(0.0) order(0.0) to(0.0) consider(0.0) amendment(1.0) No(0.0) .(0.0) 47(0.0) printed(1.0) in(0.0) part(0.0) B(0.0) of(0.0) House(0.0) Report(0.0) 113-117(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+CHAIR	Pursuant	clause	XVIII	further	amendment	
+postponed	Amendment	47	Offered	Kind	
+amendment	printed	113-117	
+
+reads % = 0.23728813559322035

@@ -1,0 +1,20 @@
+This is from a Democrat
+----- below is the original text -----
+LDRD(1.0) is(0.0) an(0.0) important(0.0) program(0.0) for(0.0) the(0.0) labs(0.0) to(0.0) recruit(0.0) and(0.0) retain(0.0) the(0.0) top(0.0) talent(0.0) that(0.0) is(0.0) needed(0.0) to(0.0) accomplish(0.0) their(0.0) 
+mission(1.0) .(0.0) I(0.0) join(0.0) the(0.0) chair(0.0) in(0.0) agreeing(1.0) to(0.0) work(0.0) with(0.0) our(0.0) colleagues(0.0) so(0.0) that(0.0) the(0.0) national(1.0) security(0.0) capabilities(0.0) of(0.0) 
+the(0.0) labs(0.0) are(0.0) not(0.0) adversely(0.0) impacted(0.0) by(0.0) the(0.0) levels(0.0) allowed(0.0) for(0.0) LDRD(1.0) .(0.0) Mr.(0.0) BEN(1.0) RAY(1.0) LUJAN(1.0) of(0.0) New(0.0) Mexico(1.0) 
+.(0.0) Madam(0.0) Chair(1.0) ,(0.0) I(0.0) thank(0.0) the(0.0) chairman(0.0) and(0.0) the(0.0) ranking(0.0) member(0.0) for(0.0) their(0.0) service(0.0) and(0.0) for(0.0) agreeing(0.0) to(0.0) work(0.0) 
+with(0.0) us(0.0) on(0.0) this(0.0) important(0.0) issue(0.0) .(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) Amendment(1.0) Offered(0.0) by(0.0) Mrs.(0.0) 
+Noem(1.0) 
+
+
+----- below are rationale words -----
+
+
+mission	agreeing	national	
+LDRD	BEN	RAY	LUJAN	Mexico	
+Chair	
+Amendment	
+Noem	
+
+reads % = 0.10784313725490197

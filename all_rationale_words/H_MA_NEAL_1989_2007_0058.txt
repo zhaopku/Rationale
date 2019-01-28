@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+With(0.0) that(0.0) ,(0.0) I(0.0) would(0.0) like(0.0) to(0.0) yield(0.0) 2(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) Jersey(1.0) ,(0.0) who(0.0) has(0.0) been(0.0) a(0.0) 
+longtime(0.0) advocate(1.0) of(0.0) repealing(1.0) the(0.0) AMT(0.0) ,(0.0) Mr.(0.0) Pascrell(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Jersey	
+advocate	repealing	Pascrell	
+
+reads % = 0.12903225806451613

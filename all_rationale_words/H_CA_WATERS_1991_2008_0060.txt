@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Chairwoman(0.0) ,(0.0) I(0.0) was(0.0) hopeful(0.0) that(0.0) the(0.0) ranking(0.0) member(0.0) of(0.0) the(0.0) subcommittee(0.0) would(0.0) offer(0.0) support(0.0) for(0.0) this(0.0) amendment(1.0) .(0.0) I(0.0) 
+know(0.0) that(0.0) there(0.0) are(0.0) some(0.0) differences(0.0) that(0.0) she(0.0) has(0.0) and(0.0) others(0.0) have(0.0) on(0.0) this(0.0) bill(1.0) .(0.0) However(0.0) ,(0.0) the(0.0) attempts(1.0) 
+that(0.0) we(0.0) have(0.0) made(0.0) to(0.0) make(0.0) sure(0.0) that(0.0) it(0.0) is(0.0) a(0.0) bill(0.0) that(0.0) can(0.0) operate(0.0) efficiently(0.0) ,(0.0) such(0.0) as(0.0) identifying(0.0) 
+those(0.0) 100(0.0) cities(0.0) ,(0.0) those(0.0) 100(0.0) counties(1.0) and(0.0) those(0.0) 50(0.0) cities(0.0) of(0.0) a(0.0) certain(0.0) size(0.0) would(0.0) be(0.0) the(0.0) kind(0.0) of(0.0) 
+amendment(1.0) that(0.0) the(0.0) ranking(0.0) member(0.0) and(0.0) others(0.0) would(0.0) understand(0.0) makes(0.0) this(0.0) a(0.0) better(0.0) bill(1.0) and(0.0) would(0.0) formulate(0.0) ways(0.0) by(0.0) which(0.0) 
+it(0.0) could(0.0) efficiently(0.0) and(0.0) effectively(0.0) get(0.0) that(0.0) money(1.0) into(0.0) the(0.0) communities(1.0) that(0.0) are(0.0) needed(0.0) .(0.0) Madam(0.0) Chairman(1.0) ,(0.0) I(0.0) yield(0.0) 
+back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) The(0.0) Acting(0.0) CHAIRMAN(0.0) .(0.0) The(0.0) question(0.0) is(0.0) on(0.0) the(0.0) amendment(1.0) offered(0.0) by(0.0) the(0.0) 
+gentlewoman(0.0) from(0.0) California(0.0) ((0.0) Ms(1.0) .(0.0) Waters(1.0) )(0.0) .(0.0) The(0.0) question(0.0) was(0.0) taken(0.0) ;(0.0) and(0.0) the(0.0) Acting(0.0) Chairman(0.0) announced(0.0) that(0.0) 
+the(0.0) ayes(1.0) appeared(0.0) to(0.0) have(0.0) it(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+amendment	
+bill	attempts	
+
+counties	
+amendment	bill	
+money	communities	Chairman	
+amendment	
+Ms	Waters	
+ayes	
+
+reads % = 0.07738095238095238

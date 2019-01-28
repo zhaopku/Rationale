@@ -1,0 +1,48 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) me(0.0) the(0.0) time(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) think(0.0) the(0.0) decision(1.0) we(0.0) have(0.0) 
+today(0.0) is(0.0) whether(0.0) we(0.0) want(0.0) to(0.0) put(0.0) the(0.0) government(1.0) on(0.0) automatic(0.0) pilot(0.0) .(0.0) Are(0.0) we(0.0) going(0.0) to(0.0) have(0.0) more(0.0) entitlement(1.0) 
+programs(1.0) ?(0.0) When(0.0) do(0.0) we(0.0) stop(0.0) ?(0.0) That(0.0) is(0.0) what(0.0) really(0.0) is(0.0) at(0.0) issue(0.0) here(0.0) .(0.0) We(0.0) give(0.0) this(0.0) money(1.0) 
+to(0.0) the(0.0) States(0.0) ,(0.0) about(0.0) $(0.0) 2.4(0.0) billion(1.0) .(0.0) There(0.0) are(0.0) no(0.0) restrictions(0.0) .(0.0) My(0.0) colleagues(0.0) keep(0.0) talking(0.0) about(0.0) how(0.0) 
+we(0.0) are(0.0) going(0.0) to(0.0) save(0.0) resources(1.0) ;(0.0) the(0.0) resource(1.0) may(0.0) be(0.0) a(0.0) swimming(0.0) pool(0.0) or(0.0) a(0.0) tennis(0.0) court(0.0) .(0.0) There(0.0) 
+is(0.0) no(0.0) guarantee(0.0) as(0.0) to(0.0) how(0.0) it(0.0) will(0.0) be(0.0) used(0.0) .(0.0) We(0.0) ,(0.0) in(0.0) our(0.0) positions(0.0) of(0.0) responsibility(0.0) ,(0.0) make(0.0) 
+those(0.0) decisions(0.0) .(0.0) We(0.0) are(0.0) going(0.0) to(0.0) abdicate(1.0) that(0.0) responsibility(0.0) to(0.0) the(0.0) others(0.0) for(0.0) $(0.0) 2.4(0.0) billion(1.0) worth(0.0) of(0.0) funding(1.0) 
+,(0.0) in(0.0) the(0.0) face(0.0) of(0.0) $(0.0) 15(0.0) billion(1.0) ,(0.0) plus(0.0) or(0.0) minus(0.0) ,(0.0) of(0.0) backlog(1.0) maintenance(0.0) ,(0.0) in(0.0) the(0.0) face(0.0) 
+of(0.0) the(0.0) fact(0.0) that(0.0) we(0.0) already(0.0) give(0.0) the(0.0) States(0.0) $(0.0) 1.7(0.0) billion(1.0) out(0.0) of(0.0) the(0.0) Federal(1.0) resources(1.0) that(0.0) are(0.0) generated(0.0) 
+from(0.0) leases(1.0) on(0.0) public(1.0) lands(0.0) ,(0.0) some(0.0) that(0.0) comes(0.0) already(0.0) from(0.0) drilling(1.0) ,(0.0) in(0.0) the(0.0) face(0.0) of(0.0) the(0.0) fact(0.0) that(0.0) 
+every(0.0) state(1.0) in(0.0) the(0.0) Nation(1.0) has(0.0) a(0.0) balanced(0.0) budget(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) ladies(0.0) and(0.0) gentlemen(0.0) of(0.0) the(0.0) House(0.0) ,(0.0) 
+I(0.0) think(0.0) that(0.0) we(0.0) have(0.0) a(0.0) responsibility(0.0) to(0.0) set(0.0) the(0.0) priorities(1.0) for(0.0) this(0.0) government(1.0) ,(0.0) for(0.0) the(0.0) people(0.0) of(0.0) this(0.0) 
+Nation(1.0) ,(0.0) to(0.0) take(0.0) care(0.0) of(0.0) the(0.0) 379(0.0) parks(0.0) that(0.0) are(0.0) in(0.0) the(0.0) portfolio(0.0) ,(0.0) to(0.0) take(0.0) care(0.0) of(0.0) the(0.0) 
+millions(1.0) of(0.0) acres(0.0) of(0.0) national(1.0) forests(0.0) ,(0.0) of(0.0) the(0.0) many(0.0) U.S(0.0) .(0.0) Fish(0.0) and(0.0) Wildlife(0.0) Service(0.0) facilities(0.0) ,(0.0) and(0.0) the(0.0) 
+lands(0.0) that(0.0) are(0.0) under(0.0) our(0.0) jurisdiction(1.0) ,(0.0) as(0.0) well(0.0) as(0.0) the(0.0) responsibility(0.0) to(0.0) the(0.0) Indian(0.0) tribes(0.0) ,(0.0) the(0.0) responsibility(0.0) for(0.0) 
+the(0.0) cultural(1.0) institutions(0.0) in(0.0) this(0.0) city(0.0) ,(0.0) the(0.0) Smithsonian(1.0) ,(0.0) the(0.0) Kennedy(1.0) Center(0.0) ,(0.0) the(0.0) National(0.0) Gallery(0.0) of(0.0) Art(0.0) ,(0.0) 
+and(0.0) the(0.0) Holocaust(1.0) Museum(0.0) .(0.0) They(0.0) all(0.0) ,(0.0) too(0.0) ,(0.0) have(0.0) great(0.0) needs(0.0) .(0.0) The(0.0) States(0.0) should(0.0) take(0.0) their(0.0) responsibility(0.0) 
+.(0.0) We(0.0) should(0.0) take(0.0) ours(0.0) .(0.0) I(0.0) think(0.0) to(0.0) create(0.0) a(0.0) new(0.0) entitlement(1.0) could(0.0) just(0.0) be(0.0) the(0.0) beginning(0.0) of(0.0) many(0.0) 
+more(0.0) of(0.0) these(0.0) .(0.0) This(0.0) bill(1.0) is(0.0) certainly(0.0) a(0.0) case(0.0) of(0.0) abdicating(1.0) responsibility(0.0) that(0.0) we(0.0) are(0.0) elected(0.0) to(0.0) make(0.0) ,(0.0) 
+in(0.0) terms(1.0) of(0.0) priority(1.0) decisions(0.0) and(0.0) the(0.0) allocation(1.0) of(0.0) this(0.0) Nation(1.0) 's(0.0) resources(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	decision	
+government	entitlement	
+programs	money	
+billion	
+resources	resource	
+
+abdicate	billion	funding	
+billion	backlog	
+billion	Federal	resources	
+leases	public	drilling	
+state	Nation	budget	Chairman	
+priorities	government	
+Nation	
+millions	national	
+jurisdiction	
+cultural	Smithsonian	Kennedy	
+Holocaust	
+entitlement	
+bill	abdicating	
+terms	priority	allocation	Nation	
+
+reads % = 0.10379746835443038

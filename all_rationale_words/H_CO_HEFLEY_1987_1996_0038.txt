@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) will(0.0) the(0.0) gentleman(0.0) yield(0.0) ?(0.0) Chairman(0.0) ,(0.0) I(0.0) would(0.0) say(0.0) to(0.0) the(0.0) gentleman(0.0) ,(0.0) after(0.0) he(0.0) referred(0.0) to(0.0) the(0.0) 
+Hefley(1.0) LUST(1.0) Program(1.0) ,(0.0) he(0.0) should(0.0) yield(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) let(0.0) me(0.0) just(0.0) point(0.0) out(0.0) that(0.0) in(0.0) 1995(0.0) there(0.0) 
+were(0.0) 11(0.0) States(0.0) that(0.0) had(0.0) more(0.0) claims(0.0) than(0.0) they(0.0) had(0.0) balance(0.0) ,(0.0) and(0.0) in(0.0) 1996(0.0) there(0.0) were(0.0) 19(0.0) more(0.0) States(0.0) 
+,(0.0) so(0.0) that(0.0) is(0.0) going(0.0) the(0.0) wrong(0.0) direction(0.0) for(0.0) us(0.0) .(0.0) And(0.0) ,(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) we(0.0) are(0.0) not(0.0) talking(0.0) 
+about(0.0) simply(0.0) having(0.0) States(0.0) keep(0.0) the(0.0) program(1.0) going(0.0) ,(0.0) we(0.0) are(0.0) talking(0.0) about(0.0) solving(0.0) a(0.0) rather(0.0) vast(0.0) and(0.0) extensive(0.0) problem(0.0) 
+that(0.0) lies(0.0) out(0.0) there(0.0) ,(0.0) and(0.0) particularly(0.0) across(0.0) rural(1.0) America(0.0) .(0.0) To(0.0) the(0.0) gentleman(0.0) from(0.0) Ohio(1.0) [(0.0) Mr.(0.0) Stokes(1.0) ](0.0) 
+,(0.0) who(0.0) expressed(0.0) great(0.0) and(0.0) sincere(0.0) concern(0.0) about(0.0) us(0.0) taking(0.0) away(0.0) this(0.0) amount(0.0) of(0.0) money(0.0) from(0.0) the(0.0) HUD(1.0) management(0.0) account(0.0) 
+because(0.0) they(0.0) would(0.0) not(0.0) be(0.0) able(0.0) to(0.0) complete(0.0) their(0.0) job(0.0) ,(0.0) I(0.0) might(0.0) point(0.0) out(0.0) ,(0.0) Mr.(0.0) Stokes(1.0) ,(0.0) that(0.0) 
+we(0.0) are(0.0) talking(0.0) about(0.0) $(0.0) 42(0.0) million(0.0) ,(0.0) which(0.0) of(0.0) course(0.0) is(0.0) a(0.0) sizable(0.0) amount(0.0) of(0.0) money(1.0) ,(0.0) but(0.0) it(0.0) 
+is(0.0) not(0.0) a(0.0) sizable(0.0) amount(0.0) of(0.0) money(1.0) out(0.0) of(0.0) a(0.0) budget(0.0) of(0.0) $(0.0) 1(0.0) billion(1.0) ,(0.0) which(0.0) is(0.0) essentially(0.0) what(0.0) 
+this(0.0) account(0.0) has(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Hefley	LUST	Program	Chairman	
+
+Chairman	
+program	
+rural	Ohio	Stokes	
+HUD	
+Stokes	
+money	
+money	billion	
+
+
+reads % = 0.06829268292682927

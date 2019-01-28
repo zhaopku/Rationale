@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) as(0.0) I(0.0) have(0.0) in(0.0) the(0.0) past(0.0) several(0.0) weeks(0.0) ,(0.0) I(0.0) come(0.0) to(0.0) the(0.0) floor(0.0) of(0.0) the(0.0) House(0.0) again(0.0) asking(0.0) 
+my(0.0) colleagues(0.0) to(0.0) give(0.0) some(0.0) consideration(0.0) to(0.0) becoming(0.0) cosponsors(1.0) to(0.0) a(0.0) bill(1.0) that(0.0) I(0.0) have(0.0) done(0.0) with(0.0) the(0.0) gentleman(0.0) from(0.0) 
+Michigan(1.0) [(0.0) Mr.(0.0) Upton(1.0) ](0.0) ,(0.0) a(0.0) Republican(0.0) from(1.0) Michigan(1.0) ,(1.0) and(1.0) the(1.0) gentleman(0.0) from(0.0) Virginia(0.0) [(0.0) Mr.(0.0) Boucher(1.0) ](0.0) 
+,(0.0) a(0.0) Democrat(0.0) .(0.0) It(0.0) is(0.0) a(0.0) bipartisan(1.0) effort(0.0) to(0.0) try(0.0) to(0.0) say(0.0) to(0.0) the(0.0) Environmental(1.0) Protection(0.0) Agency(0.0) that(0.0) we(0.0) 
+in(0.0) the(0.0) United(0.0) States(0.0) of(0.0) America(0.0) ,(0.0) we(0.0) the(0.0) people(0.0) ,(0.0) are(0.0) working(0.0) toward(0.0) cleaning(0.0) up(0.0) our(0.0) air(1.0) .(0.0) We(0.0) 
+have(0.0) done(0.0) a(0.0) tremendous(0.0) job(0.0) of(0.0) cleaning(1.0) up(0.0) the(0.0) air(0.0) of(0.0) this(0.0) Nation(1.0) .(0.0) Industries(0.0) have(0.0) spent(0.0) hundreds(0.0) of(0.0) millions(1.0) 
+of(0.0) dollars(1.0) .(0.0) Workers(1.0) have(0.0) done(0.0) their(0.0) part(0.0) .(0.0) Automobile(0.0) owners(0.0) have(0.0) done(0.0) their(0.0) part(0.0) .(0.0) We(0.0) have(0.0) gone(0.0) to(0.0) 
+catalytic(1.0) converters(0.0) and(0.0) unleaded(1.0) gasoline(1.0) .(0.0) I(0.0) will(0.0) tell(0.0) my(0.0) colleagues(0.0) ,(0.0) coming(0.0) from(0.0) southwestern(1.0) Pennsylvania(1.0) in(0.0) an(0.0) area(0.0) that(0.0) 
+was(0.0) once(0.0) referred(0.0) to(0.0) as(0.0) ``(0.0) hell(0.0) with(0.0) the(0.0) lid(0.0) off(0.0) ''(0.0) that(0.0) we(0.0) in(0.0) fact(0.0) have(0.0) made(0.0) tremendous(0.0) strides(0.0) 
+in(0.0) cleaning(1.0) the(0.0) air(1.0) and(0.0) even(0.0) according(0.0) to(0.0) Carol(0.0) Browner(1.0) ,(0.0) Director(0.0) of(0.0) the(0.0) EPA(1.0) ,(0.0) we(0.0) will(0.0) continue(0.0) to(0.0) 
+do(0.0) that(0.0) .(0.0) But(0.0) now(0.0) comes(0.0) the(0.0) Director(0.0) of(0.0) the(0.0) EPA(1.0) and(0.0) now(0.0) comes(0.0) the(0.0) President(1.0) of(0.0) the(0.0) United(0.0) States(0.0) 
+refusing(1.0) to(0.0) talk(0.0) to(0.0) those(0.0) of(0.0) us(0.0) who(0.0) are(0.0) from(0.0) their(0.0) own(0.0) party(0.0) ,(0.0) the(0.0) Democratic(1.0) Party(1.0) ,(0.0) refusing(1.0) to(0.0) 
+even(0.0) acknowledge(0.0) our(0.0) letters(0.0) when(0.0) we(0.0) say(0.0) to(0.0) them(0.0) that(0.0) you(0.0) are(0.0) threatening(1.0) the(0.0) very(0.0) livelihood(1.0) of(0.0) the(0.0) people(0.0) of(0.0) 
+our(0.0) district(0.0) .(0.0) You(0.0) are(0.0) threatening(1.0) the(0.0) economic(1.0) revitalization(1.0) that(0.0) has(0.0) been(0.0) decades(0.0) in(0.0) coming(0.0) by(0.0) changing(0.0) the(0.0) target(0.0) at(0.0) 
+the(0.0) midway(0.0) point(0.0) in(0.0) the(0.0) race(0.0) .(0.0) The(0.0) President(1.0) ,(0.0) at(0.0) the(0.0) suggestion(0.0) of(0.0) Ms.(0.0) Browner(1.0) ,(0.0) at(0.0) EPA(1.0) is(0.0) 
+going(0.0) to(0.0) change(0.0) two(0.0) standards(0.0) ,(0.0) that(0.0) dealing(0.0) with(0.0) soot(1.0) or(0.0) fine(0.0) particulate(1.0) matter(0.0) ,(0.0) and(0.0) that(0.0) dealing(0.0) with(0.0) ozone(1.0) 
+,(0.0) or(0.0) smog(1.0) .(0.0) There(0.0) is(0.0) no(0.0) reason(0.0) to(0.0) do(0.0) that(0.0) .(0.0) By(0.0) their(0.0) own(0.0) admission(0.0) ,(0.0) we(0.0) are(0.0) making(0.0) 
+progress(0.0) .(0.0) By(0.0) their(0.0) own(0.0) admission(0.0) ,(0.0) particularly(0.0) when(0.0) dealing(0.0) with(0.0) fine(0.0) particulate(1.0) matter(0.0) ,(0.0) there(0.0) are(0.0) only(0.0) 50(0.0) monitors(0.0) 
+in(0.0) this(0.0) entire(0.0) country(1.0) which(0.0) will(0.0) deal(0.0) with(0.0) what(0.0) is(0.0) known(0.0) as(0.0) PM-2.5(0.0) .(0.0) That(0.0) is(0.0) something(0.0) about(0.0) \1/28\th(0.0) the(0.0) 
+width(0.0) of(0.0) a(0.0) human(0.0) hair(0.0) .(0.0) Why(0.0) are(0.0) we(0.0) doing(0.0) this(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ?(1.0) Why(0.0) are(0.0) we(0.0) changing(0.0) the(0.0) 
+rules(1.0) and(0.0) regulations(1.0) for(0.0) industry(1.0) ?(0.0) The(0.0) governors(1.0) certainly(0.0) do(0.0) not(0.0) want(0.0) it(0.0) .(0.0) They(0.0) have(0.0) encouraged(0.0) this(0.0) President(1.0) ,(0.0) 
+who(0.0) was(0.0) a(0.0) Governor(0.0) ,(0.0) not(0.0) to(0.0) make(0.0) this(0.0) change(0.0) at(0.0) this(0.0) time(0.0) ,(0.0) many(0.0) Governors(0.0) .(0.0) State(1.0) legislators(0.0) have(0.0) 
+urged(0.0) us(0.0) .(0.0) The(0.0) burden(1.0) will(0.0) fall(0.0) on(0.0) them(0.0) .(0.0) The(0.0) Mayors(1.0) Conference(0.0) overwhelmingly(0.0) suggested(0.0) to(0.0) this(0.0) President(0.0) ,(0.0) do(0.0) 
+not(0.0) change(0.0) the(0.0) rules(1.0) ,(0.0) the(0.0) burden(1.0) will(0.0) fall(0.0) on(0.0) us(0.0) .(0.0) We(0.0) are(0.0) the(0.0) ones(0.0) that(0.0) will(0.0) have(0.0) to(0.0) 
+come(0.0) up(0.0) with(0.0) methods(0.0) of(0.0) complying(1.0) .(0.0) We(0.0) are(0.0) the(0.0) people(0.0) who(0.0) will(0.0) have(0.0) to(0.0) say(0.0) ,(0.0) no(0.0) building(0.0) 
+
+
+----- below are rationale words -----
+
+
+cosponsors	bill	
+Michigan	Upton	from	Michigan	,	and	the	Boucher	
+bipartisan	Environmental	
+air	
+cleaning	Nation	millions	
+dollars	Workers	
+catalytic	unleaded	gasoline	southwestern	Pennsylvania	
+
+cleaning	air	Browner	EPA	
+EPA	President	
+refusing	Democratic	Party	refusing	
+threatening	livelihood	
+threatening	economic	revitalization	
+President	Browner	EPA	
+soot	particulate	ozone	
+smog	
+particulate	
+country	
+Speaker	?	
+rules	regulations	industry	governors	President	
+State	
+burden	Mayors	
+rules	burden	
+complying	
+
+reads % = 0.12

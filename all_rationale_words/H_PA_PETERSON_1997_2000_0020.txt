@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Illinois(1.0) ((0.0) Mr.(0.0) Crane(1.0) )(0.0) ,(0.0) the(0.0) chairman(0.0) ,(0.0) for(0.0) putting(0.0) this(0.0) together(0.0) tonight(0.0) 
+and(0.0) for(0.0) bringing(0.0) this(0.0) issue(0.0) to(0.0) this(0.0) Congress(0.0) .(0.0) I(0.0) guess(0.0) a(0.0) year(0.0) or(0.0) two(0.0) ago(0.0) ,(0.0) we(0.0) heard(0.0) the(0.0) 
+demagogues(1.0) say(0.0) that(0.0) the(0.0) capital(1.0) gains(0.0) tax(1.0) did(1.0) not(0.0) need(0.0) to(0.0) be(0.0) cut(0.0) ;(0.0) that(0.0) it(0.0) was(0.0) going(0.0) to(0.0) cost(1.0) 
+necessary(0.0) revenues(1.0) for(0.0) this(0.0) country(1.0) to(0.0) run(0.0) off(0.0) .(0.0) It(0.0) was(0.0) going(0.0) to(0.0) cause(0.0) all(0.0) kinds(0.0) of(0.0) economic(1.0) chaos(1.0) .(0.0) 
+What(0.0) happened(0.0) when(0.0) we(0.0) cut(0.0) the(0.0) capital(1.0) gains(0.0) tax(1.0) from(0.0) 28(0.0) percent(0.0) to(0.0) 20(0.0) percent(0.0) ?(0.0) It(0.0) released(0.0) capital(1.0) .(0.0) 
+People(0.0) began(0.0) to(0.0) sell(0.0) properties(0.0) and(0.0) sell(0.0) stocks(1.0) and(0.0) sell(0.0) things(0.0) that(0.0) they(0.0) paid(0.0) capital(1.0) gains(0.0) on(0.0) ,(0.0) because(0.0) that(0.0) 
+28(0.0) percent(0.0) tax(1.0) had(0.0) been(0.0) reduced(0.0) to(0.0) 20(0.0) percent(0.0) .(0.0) They(0.0) were(0.0) willing(0.0) to(0.0) pay(1.0) 20(0.0) percent(0.0) where(0.0) they(0.0) were(0.0) 
+not(0.0) willing(0.0) to(0.0) pay(1.0) 28(0.0) percent(0.0) .(0.0) What(0.0) happened(0.0) the(0.0) first(0.0) year(0.0) ?(0.0) $(0.0) 38(0.0) billion(1.0) of(0.0) additional(0.0) revenue(1.0) came(0.0) 
+into(0.0) the(0.0) Federal(1.0) Government(1.0) .(0.0) It(0.0) did(0.0) not(0.0) cost(0.0) to(0.0) cut(1.0) that(0.0) tax(1.0) .(0.0) I(0.0) think(0.0) if(0.0) we(0.0) would(0.0) have(0.0) 
+cut(1.0) it(0.0) to(0.0) 15(0.0) percent(0.0) last(0.0) year(0.0) as(0.0) we(0.0) talked(0.0) ,(0.0) we(0.0) probably(0.0) would(0.0) have(0.0) increased(1.0) revenues(1.0) again(0.0) .(0.0) We(0.0) 
+certainly(0.0) would(0.0) have(0.0) helped(0.0) the(0.0) growth(1.0) of(0.0) business(0.0) .(0.0) Today(0.0) and(0.0) this(0.0) week(0.0) we(0.0) are(0.0) going(0.0) to(0.0) be(0.0) dealing(0.0) with(0.0) 
+the(0.0) death(1.0) tax(1.0) ,(0.0) the(0.0) estate(1.0) tax(0.0) .(0.0) We(0.0) are(0.0) going(0.0) to(0.0) hear(0.0) the(0.0) same(0.0) arguments(1.0) ,(0.0) we(0.0) heard(0.0) it(0.0) 
+tonight(0.0) ,(0.0) that(0.0) it(0.0) is(0.0) about(0.0) billionaires(1.0) .(0.0) It(0.0) is(0.0) not(0.0) about(0.0) billionaires(1.0) .(0.0) It(0.0) is(0.0) about(0.0) small(0.0) business(0.0) ,(0.0) 
+small(0.0) farmers(1.0) ,(0.0) small(0.0) sawmills(1.0) ,(0.0) small(0.0) manufacturers(0.0) ,(0.0) supermarket(0.0) operators(0.0) ,(0.0) locally-owned(1.0) ones(0.0) ,(0.0) locally-owned(1.0) hardware(0.0) stores(0.0) ,(0.0) the(0.0) 
+people(0.0) that(0.0) are(0.0) in(0.0) our(0.0) communities(1.0) that(0.0) serve(0.0) on(0.0) our(0.0) borough(1.0) councils(1.0) ,(0.0) that(0.0) serve(0.0) on(0.0) our(0.0) local(0.0) advisory(0.0) boards(0.0) 
+,(0.0) that(0.0) serve(0.0) in(0.0) the(0.0) recreations(0.0) commission(0.0) that(0.0) give(0.0) back(0.0) to(0.0) their(0.0) community(0.0) .(0.0) It(0.0) is(0.0) not(0.0) corporate(0.0) America(1.0) .(0.0) 
+It(0.0) is(0.0) the(0.0) local(0.0) business(0.0) people(0.0) .(0.0) We(0.0) heard(0.0) that(0.0) it(0.0) was(0.0) about(0.0) billionaires(1.0) .(0.0) Well(0.0) ,(0.0) here(0.0) are(0.0) the(0.0) 
+numbers(0.0) .(0.0) 53(0.0) percent(0.0) are(0.0) 1(0.0) million(0.0) or(0.0) less(0.0) ,(0.0) 39(0.0) percent(0.0) are(0.0) 1(0.0) million(0.0) to(0.0) 2\1/2\(0.0) million(0.0) ,(0.0) 7(0.0) 
+percent(0.0) from(0.0) 2\1/2\(0.0) million(0.0) to(0.0) 5(0.0) million(0.0) ,(0.0) and(0.0) 3.7(0.0) percent(0.0) of(0.0) the(0.0) cases(0.0) are(0.0) over(0.0) 5(0.0) million(0.0) .(0.0) You(0.0) 
+do(0.0) not(0.0) have(0.0) to(0.0) have(0.0) a(0.0) very(0.0) big(0.0) business(0.0) today(0.0) to(0.0) have(0.0) a(0.0) couple(0.0) million(0.0) dollar(1.0) business(0.0) .(0.0) You(0.0) can(0.0) 
+have(0.0) 4(0.0) machines(0.0) in(0.0) a(0.0) building(0.0) ,(0.0) a(0.0) couple(0.0) of(0.0) trucks(0.0) and(0.0) some(0.0) other(0.0) office(0.0) equipment(0.0) ,(0.0) and(0.0) you(0.0) have(0.0) 
+a(0.0) several(0.0) million(0.0) dollar(1.0) business(0.0) .(0.0) Let(0.0) us(0.0) say(0.0) it(0.0) is(0.0) a(0.0) family(0.0) business(0.0) and(0.0) the(0.0) children(0.0) are(0.0) involved(0.0) .(0.0) 
+Oftentimes(0.0) ,(0.0) the(0.0) children(0.0) helped(0.0) grow(0.0) the(0.0) business(0.0) .(0.0) It(0.0) was(0.0) a(0.0) partnership(0.0) between(0.0) fathers(1.0) and(0.0) sons(0.0) and(0.0) mothers(1.0) and(0.0) 
+daughters(0.0) ,(0.0) and(0.0) as(0.0) they(0.0) made(0.0) this(0.0) business(0.0) grow(0.0) and(0.0) the(0.0) parents(0.0) passed(0.0) on(0.0) ,(0.0) the(0.0) only(0.0) way(0.0) they(0.0) could(0.0) 
+protect(0.0) themselves(0.0) was(0.0) to(0.0) spend(1.0) a(0.0) lot(0.0) of(0.0) capital(1.0) and(0.0) buy(0.0) insurance(1.0) to(0.0) pay(1.0) the(0.0) taxes(1.0) ,(0.0) and(0.0) some(0.0) 
+
+
+----- below are rationale words -----
+
+Illinois	Crane	
+
+demagogues	capital	tax	did	cost	
+revenues	country	economic	chaos	
+capital	tax	capital	
+stocks	capital	
+tax	pay	
+pay	billion	revenue	
+Federal	Government	cut	tax	
+cut	increased	revenues	
+growth	
+death	tax	estate	arguments	
+billionaires	billionaires	
+farmers	sawmills	locally-owned	locally-owned	
+communities	borough	councils	
+America	
+billionaires	
+
+
+dollar	
+
+dollar	
+fathers	mothers	
+
+spend	capital	insurance	pay	taxes	
+
+reads % = 0.106

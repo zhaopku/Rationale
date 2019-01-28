@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) both(0.0) Common(0.0) Cause(0.0) and(0.0) I(0.0) insist(1.0) that(0.0) in(0.0) order(0.0) to(0.0) carry(0.0) out(0.0) the(0.0) responsibilities(0.0) of(0.0) an(0.0) outside(0.0) counsel(1.0) effectively(0.0) 
+,(0.0) it(0.0) is(0.0) necessary(0.0) for(0.0) the(0.0) counsel(1.0) 's(0.0) authority(1.0) and(0.0) independence(0.0) to(0.0) be(0.0) clearly(1.0) and(0.0) publicly(0.0) established(1.0) .(0.0) The(0.0) special(0.0) 
+counsel(0.0) must(0.0) have(0.0) the(0.0) authority(1.0) and(0.0) independence(0.0) necessary(0.0) to(0.0) conduct(0.0) the(0.0) inquiry(0.0) in(0.0) an(0.0) effective(0.0) and(0.0) credible(1.0) manner(0.0) .(0.0) The(0.0) 
+House(0.0) of(0.0) Representatives(0.0) ,(0.0) as(0.0) well(0.0) as(0.0) the(0.0) American(0.0) public(1.0) ,(0.0) deserve(1.0) an(0.0) investigation(0.0) which(0.0) will(0.0) uncover(0.0) the(0.0) truth(1.0) .(0.0) 
+At(0.0) this(0.0) moment(0.0) ,(0.0) I(0.0) am(1.0) afraid(1.0) that(0.0) the(0.0) apparent(0.0) restrictions(1.0) placed(0.0) on(0.0) this(0.0) special(0.0) counsel(1.0) will(0.0) not(1.0) allow(0.0) the(0.0) 
+truth(1.0) to(0.0) be(0.0) uncovered(1.0) .(0.0) ``(1.0) The(0.0) rules(0.0) normally(0.0) applied(0.0) by(0.0) the(0.0) Ethics(0.0) Committee(0.0) to(0.0) an(0.0) investigation(0.0) of(0.0) a(0.0) typical(0.0) 
+Member(0.0) are(0.0) insufficient(1.0) in(0.0) an(0.0) investigation(0.0) of(0.0) the(0.0) Speaker(1.0) of(0.0) the(0.0) House(0.0) .(0.0) Clearly(1.0) ,(0.0) this(0.0) investigation(0.0) has(0.0) to(0.0) meet(0.0) 
+a(0.0) higher(0.0) standard(1.0) of(0.0) public(0.0) accountability(0.0) and(0.0) integrity(0.0) .(0.0) ''(0.0) Prophetic(1.0) words(0.0) ,(0.0) indeed(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) .(0.0) These(0.0) are(0.0) 
+the(0.0) words(0.0) of(0.0) the(0.0) current(0.0) Speaker(0.0) of(0.0) the(0.0) House(0.0) in(0.0) 1988(1.0) referring(1.0) to(0.0) the(0.0) investigation(0.0) of(0.0) a(0.0) former(0.0) Speaker(0.0) of(0.0) 
+this(0.0) House(0.0) .(0.0) This(0.0) House(0.0) can(1.0) not(0.0) and(0.0) must(0.0) not(1.0) tolerate(0.0) a(0.0) double(0.0) standard(1.0) .(0.0) The(0.0) Ethics(0.0) Committee(0.0) must(0.0) follow(0.0) 
+the(0.0) standard(1.0) set(0.0) by(0.0) Speaker(0.0) Gingrich(1.0) himself(1.0) .(0.0) We(0.0) need(0.0) an(0.0) outside(0.0) counsel(1.0) to(0.0) investigate(0.0) Speaker(0.0) Gingrich(1.0) and(0.0) we(0.0) must(0.0) 
+not(1.0) restrict(1.0) the(0.0) scope(0.0) of(0.0) that(0.0) counsel(1.0) 's(0.0) investigation(0.0) .(0.0) Let(1.0) 's(0.0) get(0.0) on(0.0) with(0.0) it(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+insist	counsel	
+counsel	authority	clearly	established	
+authority	credible	
+public	deserve	truth	
+am	afraid	restrictions	counsel	not	
+truth	uncovered	``	
+insufficient	Speaker	Clearly	
+standard	Prophetic	Speaker	
+1988	referring	
+can	not	standard	
+standard	Gingrich	himself	counsel	Gingrich	
+not	restrict	counsel	Let	
+
+reads % = 0.1638655462184874

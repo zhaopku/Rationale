@@ -1,0 +1,16 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) want(0.0) to(0.0) say(0.0) thank(0.0) you(0.0) to(0.0) the(0.0) gentlewoman(0.0) from(0.0) Tennessee(1.0) for(0.0) all(0.0) her(0.0) passion(0.0) and(0.0) vigor(0.0) and(0.0) also(0.0) for(0.0) the(0.0) 
+wonderful(0.0) piece(0.0) of(0.0) legislation(1.0) because(0.0) I(0.0) think(0.0) it(0.0) 's(0.0) a(0.0) good(0.0) compromise(1.0) at(0.0) this(0.0) point(0.0) on(0.0) ObamaCare(1.0) .(0.0) And(0.0) if(0.0) 
+the(0.0) truth(0.0) be(0.0) told(0.0) ,(0.0) I(0.0) think(0.0) a(0.0) lot(0.0) of(0.0) Democrats(1.0) secretly(0.0) hope(0.0) that(0.0) the(0.0) gentlelady(0.0) 's(0.0) bill(1.0) passes(1.0) because(0.0) 
+they(0.0) know(0.0) this(0.0) is(0.0) unworkable(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Tennessee	
+legislation	compromise	ObamaCare	
+Democrats	bill	passes	
+unworkable	
+
+reads % = 0.11940298507462686

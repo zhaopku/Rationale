@@ -1,0 +1,34 @@
+This is from a Republican
+----- below is the original text -----
+The(0.0) purpose(0.0) of(0.0) this(0.0) amendment(1.0) is(0.0) very(0.0) simple(0.0) .(0.0) It(0.0) restores(0.0) the(0.0) funding(1.0) for(0.0) the(0.0) National(0.0) Drug(1.0) Intelligence(0.0) Center(0.0) to(0.0) the(0.0) 
+levels(0.0) contained(0.0) in(0.0) the(0.0) President(0.0) 's(0.0) fiscal(0.0) year(0.0) 2005(0.0) budget(1.0) request(0.0) .(0.0) In(0.0) fact(0.0) ,(0.0) a(0.0) number(0.0) of(0.0) actions(0.0) were(0.0) 
+taken(0.0) in(0.0) committee(0.0) regarding(0.0) NDIC(1.0) this(0.0) year(0.0) in(0.0) response(0.0) to(0.0) an(0.0) ongoing(0.0) investigation(0.0) into(0.0) activities(0.0) there(0.0) .(0.0) This(0.0) amendment(1.0) does(1.0) 
+nothing(0.0) to(0.0) affect(0.0) these(0.0) investigations(1.0) that(0.0) are(0.0) ongoing(0.0) in(0.0) any(0.0) way(0.0) .(0.0) It(0.0) does(0.0) not(0.0) change(0.0) in(0.0) any(0.0) reporting(0.0) requirements(0.0) 
+nor(0.0) does(0.0) it(0.0) lift(0.0) any(0.0) fences(0.0) that(0.0) were(0.0) put(0.0) in(0.0) place(0.0) .(0.0) But(0.0) what(0.0) it(0.0) does(0.0) do(0.0) is(0.0) it(0.0) restores(0.0) 
+the(0.0) authorization(1.0) level(0.0) to(0.0) include(0.0) $(0.0) 8(0.0) million(0.0) that(0.0) had(0.0) been(0.0) cut(0.0) from(0.0) the(0.0) President(1.0) 's(0.0) fiscal(1.0) year(0.0) 2005(0.0) budget(1.0) 
+request(0.0) .(0.0) I(0.0) am(0.0) doing(0.0) this(0.0) to(0.0) address(0.0) the(0.0) concern(1.0) that(0.0) the(0.0) cut(1.0) might(0.0) significantly(0.0) impact(1.0) the(0.0) important(0.0) mission(0.0) of(0.0) 
+the(0.0) National(0.0) Drug(0.0) Intelligence(0.0) Center(0.0) ,(0.0) and(0.0) the(0.0) reason(0.0) I(0.0) have(0.0) brought(0.0) the(0.0) amendment(1.0) forward(0.0) is(0.0) because(0.0) I(0.0) wanted(0.0) to(0.0) 
+have(0.0) the(0.0) distinguished(0.0) gentleman(0.0) from(0.0) the(0.0) Commonwealth(0.0) of(0.0) Pennsylvania(1.0) ((0.0) Mr.(0.0) Murtha(1.0) )(0.0) ,(0.0) who(0.0) I(0.0) felt(0.0) has(0.0) actually(0.0) been(0.0) 
+the(0.0) person(0.0) who(0.0) is(0.0) most(0.0) instrumental(0.0) in(0.0) this(0.0) particular(0.0) program(0.0) ,(0.0) have(0.0) as(0.0) much(0.0) time(0.0) as(0.0) he(0.0) wanted(0.0) to(0.0) address(0.0) 
+this(0.0) issue(0.0) .(0.0) I(0.0) wanted(0.0) to(0.0) make(0.0) sure(0.0) he(0.0) had(0.0) the(0.0) opportunity(0.0) .(0.0) In(0.0) any(0.0) event(0.0) ,(0.0) I(0.0) am(0.0) assuming(0.0) 
+he(0.0) would(0.0) support(0.0) the(0.0) amendment(1.0) .(0.0) In(0.0) the(0.0) absence(0.0) of(0.0) knowing(0.0) nothing(0.0) beyond(0.0) that(0.0) ,(0.0) I(0.0) am(0.0) going(0.0) to(0.0) suggest(0.0) 
+that(0.0) this(0.0) amendment(1.0) be(0.0) adopted(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+amendment	funding	Drug	
+budget	
+NDIC	amendment	does	
+investigations	
+
+authorization	President	fiscal	budget	
+concern	cut	impact	
+amendment	
+Pennsylvania	Murtha	
+
+
+amendment	
+amendment	adopted	Chairman	
+
+reads % = 0.08527131782945736

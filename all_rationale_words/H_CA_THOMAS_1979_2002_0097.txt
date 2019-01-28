@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) ask(1.0) unanimous(0.0) consent(0.0) that(0.0) the(0.0) Clerk(1.0) have(0.0) the(0.0) authority(1.0) to(0.0) make(0.0) technical(0.0) and(0.0) conforming(1.0) changes(1.0) in(0.0) the(0.0) engrossment(1.0) 
+of(0.0) H.R(0.0) .(0.0) 4737(1.0) ,(0.0) the(0.0) bill(0.0) just(0.0) passed(0.0) .(0.0) The(0.0) SPEAKER(0.0) pro(1.0) tempore(1.0) ((0.0) Mr.(0.0) Simpson(1.0) )(0.0) .(0.0) Is(1.0) 
+there(0.0) objection(0.0) to(0.0) the(0.0) request(0.0) of(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) ?(1.0) There(0.0) was(0.0) no(1.0) objection(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+ask	Clerk	authority	conforming	changes	engrossment	
+4737	pro	tempore	Simpson	Is	
+?	no	objection	
+
+reads % = 0.24561403508771928

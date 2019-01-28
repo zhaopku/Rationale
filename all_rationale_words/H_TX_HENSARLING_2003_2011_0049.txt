@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) if(0.0) my(0.0) friends(0.0) on(0.0) the(0.0) other(0.0) side(0.0) of(0.0) the(0.0) aisle(0.0) are(0.0) confused(0.0) about(0.0) why(0.0) we(0.0) 're(0.0) here(0.0) ,(0.0) 
+let(0.0) me(0.0) enlighten(0.0) them(0.0) .(0.0) It(0.0) 's(0.0) because(0.0) the(0.0) President(1.0) 's(0.0) policies(1.0) have(0.0) failed(0.0) .(0.0) In(0.0) the(0.0) Obama(1.0) economy(1.0) ,(0.0) 
+employment(1.0) has(0.0) been(0.0) at(0.0) ,(0.0) near(0.0) or(0.0) above(0.0) 9(0.0) percent(0.0) ever(0.0) since(0.0) the(0.0) gentleman(0.0) was(0.0) elected(0.0) .(0.0) One(0.0) in(0.0) seven(0.0) 
+are(0.0) on(0.0) food(1.0) stamps(0.0) ,(0.0) and(0.0) small(0.0) business(0.0) start-ups(1.0) are(0.0) at(0.0) a(0.0) 17-year(0.0) low(0.0) .(0.0) So(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) 
+that(0.0) 's(0.0) why(0.0) we(0.0) 're(0.0) here(0.0) today(0.0) .(0.0) I(0.0) think(0.0) almost(0.0) everyone(0.0) in(0.0) this(0.0) Chamber(0.0) agrees(0.0) ,(0.0) yes(0.0) ,(0.0) we(0.0) 
+want(0.0) to(0.0) extend(0.0) the(0.0) Social(0.0) Security(0.0) payroll(0.0) tax(1.0) holiday(1.0) .(0.0) But(0.0) what(0.0) is(0.0) so(0.0) curious(0.0) to(0.0) me(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) 
+,(0.0) is(0.0) I(0.0) hear(0.0) my(0.0) friends(0.0) on(0.0) the(0.0) other(0.0) side(0.0) of(0.0) the(0.0) aisle(0.0) say(0.0) ,(0.0) we(0.0) need(0.0) to(0.0) do(0.0) it(0.0) 
+for(0.0) a(0.0) year(0.0) ,(0.0) but(0.0) we're(0.0) only(0.0) willing(0.0) to(0.0) vote(1.0) for(0.0) 60(0.0) days(0.0) .(0.0) I(0.0) do(0.0) n't(0.0) understand(0.0) that(0.0) ,(0.0) 
+Mr.(0.0) Speaker(1.0) .(0.0) And(0.0) I(0.0) hear(0.0) my(0.0) friends(0.0) on(0.0) the(0.0) other(0.0) side(0.0) of(0.0) the(0.0) aisle(0.0) saying(0.0) ,(0.0) middle-(0.0) income(1.0) families(0.0) 
+deserve(1.0) this(0.0) $(0.0) 1,000(0.0) tax(1.0) cut(1.0) ;(1.0) yet(1.0) they(1.0) 're(1.0) only(0.0) willing(0.0) to(0.0) vote(1.0) for(0.0) $(0.0) 160(0.0) .(0.0) And(0.0) then(0.0) 
+they(0.0) say(0.0) ,(0.0) we(0.0) have(0.0) to(0.0) pass(0.0) it(0.0) today(0.0) ,(0.0) we(0.0) can't(0.0) let(0.0) New(1.0) Year(0.0) 's(0.0) Day(0.0) come(0.0) without(0.0) passing(0.0) 
+this(0.0) ;(0.0) and(0.0) yet(0.0) they(0.0) won't(0.0) appoint(0.0) anybody(0.0) to(0.0) a(0.0) conference(0.0) committee(0.0) ,(0.0) and(0.0) everyone(0.0) is(0.0) getting(0.0) ready(0.0) to(0.0) run(0.0) 
+to(0.0) the(0.0) airport(0.0) .(0.0) I(0.0) do(0.0) n't(0.0) understand(0.0) it(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) .(0.0) So(0.0) the(0.0) question(0.0) is(0.0) ,(0.0) are(0.0) my(0.0) 
+friends(0.0) on(0.0) the(0.0) other(0.0) side(0.0) of(0.0) the(0.0) aisle(0.0) interested(0.0) in(0.0) making(0.0) a(0.0) law(1.0) that(0.0) will(0.0) help(0.0) American(0.0) families(0.0) and(0.0) hardworking(1.0) 
+taxpayers(1.0) ,(0.0) or(0.0) are(0.0) they(0.0) interested(0.0) in(0.0) making(0.0) a(0.0) campaign(0.0) issue(0.0) that(0.0) they(0.0) can(0.0) recycle(1.0) every(0.0) 60(0.0) days(0.0) ?(0.0) Only(0.0) 
+they(0.0) can(0.0) answer(0.0) the(0.0) question(0.0) .(0.0) Now(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) it(0.0) is(0.0) inconvenient(1.0) in(0.0) tough(1.0) economic(1.0) times(0.0) that(0.0) our(0.0) 
+constituents(1.0) have(0.0) to(0.0) work(0.0) over(0.0) the(0.0) holidays(0.0) .(0.0) Maybe(0.0) it(0.0) should(0.0) be(0.0) inconvenient(0.0) to(0.0) us(0.0) as(0.0) well(0.0) .(0.0) We(0.0) stand(0.0) 
+ready(0.0) .(0.0) We(0.0) just(0.0) ca(0.0) n't(0.0) do(0.0) our(0.0) job(0.0) if(0.0) the(0.0) Senate(1.0) Democratic(1.0) leader(0.0) refuses(1.0) to(0.0) appoint(0.0) anybody(0.0) and(0.0) if(0.0) 
+the(0.0) House(0.0) Democratic(1.0) leader(0.0) refuses(1.0) to(1.0) appoint(0.0) anybody(0.0) to(0.0) sit(0.0) down(0.0) and(0.0) negotiate(0.0) in(0.0) good(0.0) faith(0.0) .(0.0) I(0.0) 'm(0.0) sorry(0.0) 
+it(0.0) 's(0.0) inconvenient(0.0) for(0.0) my(0.0) friends(0.0) on(0.0) the(0.0) other(0.0) side(0.0) of(0.0) the(0.0) aisle(0.0) to(0.0) work(0.0) during(0.0) the(0.0) holidays(0.0) .(0.0) Then(0.0) 
+last(0.0) but(0.0) not(0.0) least(0.0) ,(0.0) I(0.0) hear(0.0) my(0.0) friends(0.0) on(0.0) the(0.0) other(0.0) side(0.0) of(0.0) the(0.0) aisle(0.0) saying(0.0) we(0.0) need(0.0) something(0.0) 
+that(0.0) works(0.0) for(0.0) the(0.0) American(0.0) people(0.0) .(0.0) Well(0.0) ,(0.0) guess(0.0) what(0.0) ?(0.0) Once(0.0) again(0.0) ,(0.0) they(0.0) did(0.0) n't(0.0) consult(0.0) with(0.0) 
+the(0.0) American(0.0) people(0.0) .(0.0) All(0.0) of(0.0) the(0.0) employers(1.0) that(0.0) we(0.0) hear(0.0) about(0.0) are(0.0) saying(0.0) this(0.0) is(0.0) unworkable(1.0) .(0.0) The(0.0) Associated(1.0) 
+Builders(0.0) and(0.0) Contractors(1.0) ,(0.0) I(0.0) quote(0.0) ,(0.0) talking(0.0) about(0.0) their(0.0) 60-day(1.0) plan(1.0) :(0.0) ``(0.0) This(0.0) sort(0.0) of(0.0) temporary(1.0) fix(0.0) underscores(0.0) 
+Congress(0.0) '(0.0) uneven(0.0) ad(0.0) hoc(0.0) approach(0.0) toward(0.0) the(0.0) economy(1.0) and(0.0) causes(0.0) more(0.0) harm(1.0) than(0.0) good(0.0) for(0.0) America(1.0) 's(0.0) job(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	
+President	policies	Obama	economy	
+employment	
+food	start-ups	Speaker	
+
+tax	holiday	Speaker	
+
+vote	
+Speaker	income	
+deserve	tax	cut	;	yet	they	're	vote	
+New	
+
+Speaker	
+law	hardworking	
+taxpayers	recycle	
+Speaker	inconvenient	tough	economic	
+constituents	
+Senate	Democratic	refuses	
+Democratic	refuses	to	
+
+
+
+employers	unworkable	Associated	
+Contractors	60-day	plan	temporary	
+economy	harm	America	
+
+reads % = 0.1

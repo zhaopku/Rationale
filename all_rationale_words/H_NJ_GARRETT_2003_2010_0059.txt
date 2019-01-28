@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+The(0.0) Acting(1.0) CHAIR(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) New(0.0) Jersey(0.0) has(0.0) 1(0.0) minute(1.0) remaining(1.0) .(0.0) In(0.0) conclusion(1.0) ,(0.0) I(0.0) will(0.0) end(0.0) where(0.0) 
+I(0.0) started(1.0) ,(0.0) and(0.0) that(0.0) is(0.0) to(0.0) say(1.0) ,(0.0) there(0.0) is(0.0) a(0.0) need(0.0) for(0.0) the(0.0) cemeteries(1.0) not(0.0) just(1.0) in(0.0) the(0.0) 
+state(0.0) of(0.0) New(0.0) Jersey(0.0) but(0.0) across(0.0) the(0.0) country(1.0) as(0.0) well(0.0) .(0.0) In(0.0) a(0.0) bipartisan(0.0) manner(0.0) we(0.0) passed(0.0) this(0.0) bill(0.0) with(0.0) 
+the(0.0) support(0.0) presumably(1.0) from(0.0) the(0.0) chairman(1.0) last(0.0) year(0.0) in(0.0) a(0.0) similar(0.0) manner(0.0) as(0.0) we(0.0) are(0.0) doing(0.0) this(0.0) year(0.0) .(0.0) As(1.0) 
+was(0.0) stated(1.0) already(0.0) ,(0.0) the(0.0) amount(0.0) of(0.0) money(1.0) that(0.0) is(0.0) already(0.0) appropriated(1.0) is(0.0) $(0.0) 40(0.0) million(1.0) more(0.0) than(0.0) not(1.0) only(0.0) 
+what(1.0) the(0.0) White(0.0) House(0.0) wants(1.0) but(0.0) also(1.0) what(0.0) the(0.0) VA(0.0) wants(1.0) .(0.0) I(0.0) do(0.0) find(1.0) it(0.0) curious(1.0) that(0.0) the(0.0) chairman(1.0) 
+is(0.0) able(0.0) to(0.0) come(0.0) to(0.0) the(0.0) floor(0.0) and(0.0) cite(0.0) specifically(1.0) what(0.0) programs(1.0) would(0.0) be(0.0) cut(1.0) when(0.0) our(0.0) staff(0.0) tried(1.0) diligently(1.0) 
+through(0.0) the(0.0) committee(0.0) to(0.0) ask(0.0) them(0.0) to(0.0) identify(0.0) exactly(1.0) which(0.0) ones(1.0) would(0.0) be(0.0) cut(1.0) and(0.0) we(0.0) could(0.0) never(0.0) get(0.0) an(0.0) 
+answer(0.0) from(0.0) them(0.0) as(0.0) to(0.0) what(0.0) would(0.0) be(0.0) cut(1.0) whatsoever(0.0) with(0.0) regard(1.0) to(0.0) priorities(1.0) .(0.0) Now(0.0) the(0.0) chair(0.0) comes(0.0) and(0.0) 
+says(1.0) ,(0.0) well(0.0) ,(0.0) this(0.0) program(0.0) ,(0.0) this(0.0) program(0.0) ,(0.0) and(0.0) this(0.0) program(0.0) will(0.0) be(0.0) cut(1.0) .(0.0) How(0.0) can(0.0) anybody(0.0) 
+say(1.0) it(0.0) 's(0.0) being(0.0) cut(1.0) when(1.0) we(0.0) 're(0.0) already(0.0) spending(1.0) $(0.0) 40(0.0) million(1.0) more(0.0) than(0.0) what(1.0) the(0.0) VA(0.0) and(0.0) the(0.0) 
+administration(0.0) is(0.0) asking(0.0) for(0.0) ?(1.0) This(0.0) is(0.0) a(0.0) duty(1.0) that(0.0) we(0.0) owe(1.0) to(0.0) our(0.0) veterans(1.0) ,(0.0) and(0.0) we(0.0) should(0.0) do(0.0) 
+it(0.0) in(0.0) a(0.0) proper(0.0) manner(0.0) ,(0.0) and(0.0) we(0.0) should(0.0) do(0.0) it(0.0) now(0.0) .(0.0) We(0.0) should(0.0) not(1.0) be(0.0) pointing(0.0) fingers(0.0) saying(0.0) 
+that(0.0) we(0.0) want(1.0) a(0.0) cut(1.0) from(0.0) this(0.0) or(0.0) a(0.0) cut(1.0) from(0.0) that(0.0) .(0.0) We(0.0) have(0.0) set(0.0) out(1.0) the(0.0) program(0.0) this(0.0) 
+year(0.0) as(0.0) we(0.0) have(0.0) done(0.0) in(0.0) the(0.0) past(0.0) .(0.0) And(0.0) we(0.0) should(0.0) meet(1.0) that(0.0) moral(1.0) obligation(0.0) .(0.0) The(0.0) Acting(0.0) CHAIR(0.0) 
+.(0.0) The(0.0) question(1.0) is(0.0) on(0.0) the(0.0) amendment(1.0) offered(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) Jersey(0.0) ((0.0) Mr.(0.0) Garrett(1.0) )(0.0) .(0.0) The(0.0) 
+question(0.0) was(0.0) taken(0.0) ;(0.0) and(0.0) the(0.0) Acting(0.0) Chair(1.0) announced(1.0) that(0.0) the(0.0) noes(1.0) appeared(0.0) to(0.0) have(0.0) it(0.0) .(0.0) The(0.0) Acting(0.0) CHAIR(0.0) 
+.(0.0) Pursuant(1.0) to(0.0) clause(1.0) 6(0.0) of(0.0) rule(0.0) XVIII(1.0) ,(0.0) further(1.0) proceedings(0.0) on(0.0) the(0.0) amendment(1.0) offered(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) 
+Jersey(0.0) will(0.0) be(0.0) postponed(1.0) .(0.0) Announcement(1.0) by(0.0) the(0.0) Acting(0.0) Chair(1.0) The(0.0) Acting(0.0) CHAIR(0.0) .(0.0) Pursuant(1.0) to(0.0) clause(1.0) 6(0.0) of(0.0) rule(0.0) 
+XVIII(1.0) ,(0.0) proceedings(1.0) will(0.0) now(0.0) resume(1.0) on(0.0) those(0.0) amendments(1.0) printed(1.0) in(0.0) House(0.0) Report(0.0) 111-570(1.0) on(0.0) which(0.0) further(0.0) proceedings(0.0) were(0.0) postponed(0.0) 
+,(0.0) in(0.0) the(0.0) following(0.0) order(0.0) :(0.0) Amendment(0.0) No(0.0) .(0.0) 9(0.0) by(0.0) Mr.(0.0) Gingrey(1.0) of(0.0) Georgia(1.0) .(0.0) Amendment(1.0) No(0.0) .(0.0) 14(0.0) 
+by(0.0) Mr.(0.0) Garrett(1.0) of(0.0) New(0.0) Jersey(0.0) .(0.0) The(0.0) first(0.0) electronic(0.0) vote(1.0) will(0.0) be(0.0) conducted(1.0) as(0.0) a(0.0) 15-minute(1.0) vote(1.0) .(0.0) The(0.0) 
+second(0.0) electronic(0.0) vote(1.0) will(0.0) be(0.0) conducted(1.0) as(0.0) a(0.0) 5-minute(1.0) vote(1.0) .(0.0) Amendment(1.0) No(0.0) .(0.0) 9(0.0) Offered(1.0) by(0.0) Mr.(0.0) Gingrey(1.0) of(0.0) 
+Georgia(1.0) The(0.0) Acting(0.0) CHAIR(1.0) .(0.0) The(0.0) unfinished(1.0) business(0.0) is(0.0) the(0.0) demand(1.0) for(0.0) a(0.0) recorded(0.0) vote(1.0) on(0.0) the(0.0) amendment(1.0) offered(0.0) by(0.0) 
+the(0.0) gentleman(0.0) from(0.0) Georgia(1.0) ((0.0) Mr.(0.0) Gingrey(1.0) )(0.0) on(0.0) which(0.0) further(0.0) proceedings(0.0) were(0.0) postponed(0.0) and(0.0) on(0.0) which(0.0) the(0.0) ayes(1.0) 
+
+
+----- below are rationale words -----
+
+Acting	minute	remaining	conclusion	
+started	say	cemeteries	just	
+country	
+presumably	chairman	As	
+stated	money	appropriated	million	not	
+what	wants	also	wants	find	curious	chairman	
+specifically	programs	cut	tried	diligently	
+exactly	ones	cut	
+cut	regard	priorities	
+says	cut	
+say	cut	when	spending	million	what	
+?	duty	owe	veterans	
+not	
+want	cut	cut	out	
+meet	moral	
+question	amendment	Garrett	
+Chair	announced	noes	
+Pursuant	clause	XVIII	further	amendment	
+postponed	Announcement	Chair	Pursuant	clause	
+XVIII	proceedings	resume	amendments	printed	111-570	
+Gingrey	Georgia	Amendment	
+Garrett	vote	conducted	15-minute	vote	
+vote	conducted	5-minute	vote	Amendment	Offered	Gingrey	
+Georgia	CHAIR	unfinished	demand	vote	amendment	
+Georgia	Gingrey	ayes	
+
+reads % = 0.2

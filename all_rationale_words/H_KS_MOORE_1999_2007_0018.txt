@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) would(0.0) like(0.0) to(0.0) return(0.0) the(0.0) compliment(0.0) to(0.0) Ms.(0.0) Ginny(0.0) Brown-Waite(1.0) ,(0.0) the(0.0) gentlewoman(0.0) from(0.0) Florida(0.0) ,(0.0) and(0.0) thank(0.0) 
+her(0.0) very(0.0) ,(0.0) very(0.0) much(0.0) for(0.0) her(0.0) hard(0.0) work(0.0) on(0.0) this(0.0) legislation(1.0) and(0.0) for(0.0) her(0.0) leadership(0.0) .(0.0) She(0.0) also(0.0) works(0.0) 
+in(0.0) a(0.0) bipartisan(1.0) manner(0.0) in(0.0) the(0.0) times(0.0) I(0.0) have(0.0) seen(0.0) her(0.0) in(0.0) our(0.0) committee(0.0) and(0.0) on(0.0) the(0.0) House(0.0) floor(0.0) .(0.0) 
+I(0.0) very(0.0) much(0.0) appreciate(0.0) it(0.0) .(0.0) We(0.0) need(0.0) more(0.0) of(0.0) that(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) have(0.0) no(0.0) further(0.0) requests(0.0) 
+for(0.0) time(0.0) ,(0.0) and(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Brown-Waite	
+legislation	
+bipartisan	
+Speaker	
+
+
+reads % = 0.0425531914893617

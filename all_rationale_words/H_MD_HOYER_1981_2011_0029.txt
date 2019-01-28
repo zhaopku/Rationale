@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Let(0.0) me(0.0) say(0.0) what(0.0) I(0.0) think(0.0) is(0.0) so(0.0) good(0.0) about(0.0) this(0.0) agenda(1.0) Make(0.0) It(0.0) In(0.0) America(1.0) .(0.0) It(0.0) is(0.0) an(0.0) agenda(1.0) 
+that(0.0) ,(0.0) unlike(0.0) some(0.0) ,(0.0) brings(0.0) us(0.0) together(0.0) and(0.0) doesn't(0.0) divide(0.0) us(0.0) .(0.0) From(0.0) left(0.0) to(0.0) right(0.0) --(0.0) Republican(0.0) ,(1.0) 
+Democrat(1.0) --(1.0) people(1.0) all(0.0) over(0.0) this(0.0) country(1.0) understand(0.0) that(0.0) ,(0.0) if(0.0) we(0.0) are(0.0) going(0.0) to(0.0) be(0.0) a(0.0) great(0.0) country(1.0) ,(0.0) 
+as(0.0) we(0.0) are(0.0) today(0.0) ,(0.0) and(0.0) if(0.0) we(0.0) are(0.0) going(0.0) to(0.0) remain(0.0) so(0.0) in(0.0) the(0.0) future(0.0) ,(0.0) it(0.0) will(0.0) be(0.0) 
+because(0.0) we(0.0) continue(0.0) to(0.0) be(0.0) a(0.0) manufacturing(0.0) country(1.0) ,(0.0) a(0.0) country(1.0) that(0.0) makes(0.0) it(0.0) in(0.0) America(1.0) .(0.0) I(0.0) have(0.0) talked(0.0) 
+to(0.0) the(0.0) National(0.0) Association(0.0) of(0.0) Manufacturers(0.0) ,(0.0) the(0.0) Chamber(0.0) of(0.0) Commerce(0.0) ,(0.0) and(0.0) organized(0.0) labor(1.0) .(0.0) This(0.0) is(0.0) an(0.0) agenda(1.0) 
+item(0.0) that(0.0) will(0.0) bring(0.0) labor(1.0) and(0.0) management(0.0) ,(0.0) business(0.0) and(0.0) workers(1.0) together(0.0) to(0.0) cooperate(0.0) so(0.0) that(0.0) America(1.0) will(0.0) continue(0.0) ,(0.0) 
+not(0.0) only(0.0) to(0.0) make(0.0) it(0.0) in(0.0) America(1.0) ,(0.0) but(0.0) to(0.0) do(0.0) so(0.0) in(0.0) an(0.0) expanding(1.0) way(0.0) rather(0.0) than(0.0) in(0.0) a(0.0) 
+shrinking(1.0) way(0.0) .(0.0) We(0.0) 've(0.0) been(0.0) doing(0.0) some(0.0) growth(1.0) in(0.0) the(0.0) last(0.0) few(0.0) months(0.0) ,(0.0) in(0.0) the(0.0) last(0.0) year(0.0) ,(0.0) 
+in(0.0) the(0.0) last(0.0) 2(0.0) years(0.0) ,(0.0) in(0.0) the(0.0) last(0.0) 3(0.0) years(0.0) ,(0.0) but(0.0) not(0.0) enough(0.0) .(0.0) We(0.0) can(0.0) do(0.0) more(0.0) 
+.(0.0) Make(0.0) It(0.0) In(0.0) America(1.0) is(0.0) the(0.0) agenda(1.0) for(0.0) the(0.0) future(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+agenda	America	agenda	
+,	
+Democrat	--	people	country	country	
+
+country	country	America	
+labor	agenda	
+labor	workers	America	
+America	expanding	
+shrinking	growth	
+
+America	agenda	
+
+reads % = 0.107981220657277

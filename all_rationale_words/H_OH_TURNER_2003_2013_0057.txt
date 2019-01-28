@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) yesterday(0.0) in(0.0) Dayton(1.0) ,(0.0) I(0.0) hosted(0.0) a(0.0) community(0.0) forum(0.0) regarding(0.0) the(0.0) impacts(1.0) of(0.0) sequestration(1.0) on(0.0) Wright-Patterson(0.0) Air(0.0) Force(0.0) 
+Base(0.0) in(0.0) the(0.0) Dayton(0.0) community(0.0) .(0.0) We(0.0) had(0.0) a(0.0) distinguished(0.0) group(0.0) of(0.0) local(0.0) leaders(0.0) who(0.0) participated(0.0) in(0.0) the(0.0) event(0.0) .(0.0) 
+The(0.0) expert(0.0) panel(0.0) included(0.0) Colonel(0.0) Cassie(0.0) B.(0.0) Barlow(0.0) ,(0.0) 88th(0.0) Air(0.0) Base(0.0) Wing(0.0) and(0.0) installation(0.0) commander(0.0) ;(0.0) Jeffrey(0.0) C.(1.0) Hoagland(1.0) 
+,(0.0) president(0.0) and(0.0) CEO(0.0) of(0.0) the(0.0) Dayton(0.0) Development(0.0) Coalition(0.0) ;(0.0) Chris(0.0) Kershner(1.0) of(0.0) the(0.0) Dayton(0.0) Chamber(0.0) of(0.0) Commerce(0.0) ;(0.0) and(0.0) 
+Carl(0.0) Francis(1.0) of(0.0) Dayton(0.0) Defense(0.0) ,(0.0) a(0.0) nonprofit(0.0) group(0.0) that(0.0) is(0.0) an(0.0) advocacy(0.0) group(0.0) for(0.0) the(0.0) defense(0.0) community(0.0) in(0.0) Dayton(0.0) 
+,(0.0) Ohio(1.0) .(0.0) Each(0.0) of(0.0) these(0.0) local(0.0) leaders(0.0) explained(0.0) how(0.0) sequestration(1.0) has(0.0) affected(0.0) our(0.0) community(0.0) in(0.0) 2013(0.0) ,(0.0) and(0.0) what(0.0) 
+the(0.0) effect(0.0) would(0.0) be(0.0) if(0.0) the(0.0) sequester(1.0) continues(0.0) .(0.0) For(0.0) a(0.0) community(0.0) like(0.0) Dayton(1.0) with(0.0) such(0.0) a(0.0) strong(0.0) relationship(0.0) to(0.0) 
+Wright-Patterson(0.0) Air(0.0) Force(0.0) Base(0.0) ,(0.0) Ohio(1.0) 's(0.0) largest(0.0) single-site(0.0) employer(0.0) ,(0.0) the(0.0) message(0.0) was(0.0) devastating(0.0) .(0.0) The(0.0) Budget(0.0) Control(0.0) Act(0.0) 
+of(0.0) 2011(0.0) ,(0.0) which(0.0) I(0.0) voted(1.0) against(0.0) ,(0.0) was(0.0) signed(0.0) into(0.0) law(1.0) on(0.0) August(0.0) 2(0.0) ,(0.0) 2011(0.0) .(0.0) The(0.0) Budget(0.0) 
+Control(0.0) Act(0.0) established(0.0) a(0.0) series(0.0) of(0.0) spending(0.0) caps(1.0) and(0.0) forced(0.0) reductions(1.0) designed(0.0) to(0.0) indiscriminately(0.0) reduce(1.0) government(1.0) spending(1.0) by(0.0) nearly(0.0) $(0.0) 
+2(0.0) trillion(1.0) over(0.0) 10(0.0) years(0.0) .(0.0) These(0.0) forced(1.0) reductions(1.0) ,(0.0) also(0.0) known(0.0) as(0.0) sequestration(1.0) ,(0.0) greatly(0.0) impact(1.0) our(0.0) national(1.0) security(0.0) 
+by(0.0) requiring(1.0) the(0.0) Department(0.0) of(0.0) Defense(0.0) to(0.0) reduce(0.0) its(0.0) budget(1.0) by(0.0) roughly(0.0) $(0.0) 500(0.0) billion(1.0) .(0.0) Already(0.0) in(0.0) its(0.0) second(0.0) 
+year(0.0) ,(0.0) this(0.0) poorly(0.0) conceived(0.0) and(0.0) flawed(1.0) process(0.0) continues(0.0) to(0.0) compromise(1.0) our(0.0) defense(1.0) capabilities(0.0) and(0.0) greatly(0.0) impacts(1.0) military(1.0) communities(0.0) like(0.0) 
+Dayton(1.0) ,(0.0) Ohio(1.0) .(0.0) Reducing(0.0) Federal(1.0) spending(1.0) is(0.0) important(0.0) ,(0.0) but(0.0) the(0.0) sequester(1.0) ,(0.0) as(0.0) proposed(1.0) by(0.0) President(1.0) Obama(1.0) ,(0.0) 
+applies(1.0) 50(0.0) percent(0.0) of(0.0) the(0.0) cuts(1.0) to(0.0) less(0.0) than(0.0) 18(0.0) percent(0.0) of(0.0) the(0.0) spending(1.0) .(0.0) The(0.0) Department(0.0) of(0.0) Defense(0.0) represents(0.0) 
+less(0.0) than(0.0) 18(0.0) percent(0.0) of(0.0) overall(0.0) Federal(1.0) spending(1.0) .(0.0) Due(0.0) to(0.0) the(0.0) President(1.0) 's(0.0) sequester(1.0) ,(0.0) this(0.0) year(0.0) roughly(0.0) 14,000(0.0) 
+Air(0.0) Force(0.0) civilian(0.0) men(0.0) and(0.0) women(0.0) have(0.0) been(0.0) furloughed(0.0) in(0.0) the(0.0) State(0.0) of(0.0) Ohio(1.0) as(0.0) a(0.0) direct(0.0) result(0.0) of(0.0) the(0.0) 
+sequester(1.0) .(0.0) These(0.0) forced(0.0) furloughs(1.0) have(0.0) not(0.0) only(0.0) cost(0.0) our(0.0) State(1.0) tens(0.0) of(0.0) millions(1.0) of(0.0) dollars(1.0) in(0.0) lost(1.0) revenue(1.0) but(0.0) 
+have(0.0) negatively(0.0) impacted(1.0) nearly(0.0) 30,000(1.0) men(0.0) and(0.0) women(0.0) who(0.0) work(0.0) at(0.0) Wright-Patterson(0.0) and(0.0) reside(0.0) in(0.0) our(0.0) community(0.0) .(0.0) If(0.0) allowed(0.0) 
+to(0.0) continue(0.0) ,(0.0) I(0.0) fear(0.0) the(0.0) effects(0.0) of(0.0) sequestration(1.0) will(0.0) devastate(1.0) the(0.0) region(0.0) and(0.0) potentially(0.0) result(0.0) in(0.0) a(0.0) loss(0.0) of(0.0) 
+13,000(0.0) jobs(0.0) .(0.0) The(0.0) loss(0.0) of(0.0) jobs(1.0) ,(0.0) matched(0.0) with(0.0) reductions(1.0) in(0.0) spending(1.0) ,(0.0) could(0.0) cost(1.0) our(0.0) community(0.0) in(0.0) Dayton(1.0) 
+roughly(0.0) $(0.0) 8.6(0.0) billion(1.0) .(0.0) While(0.0) it(0.0) is(0.0) important(0.0) to(0.0) note(0.0) the(0.0) impacts(1.0) to(0.0) Dayton(1.0) ,(0.0) we(0.0) must(0.0) also(0.0) take(0.0) 
+into(0.0) consideration(0.0) the(0.0) impacts(1.0) to(0.0) our(0.0) national(1.0) security(0.0) and(0.0) the(0.0) future(0.0) of(0.0) our(0.0) country(1.0) .(0.0) The(0.0) President(1.0) promised(1.0) sequester(1.0) would(0.0) 
+not(0.0) happen(0.0) ,(0.0) and(0.0) yet(0.0) ,(0.0) the(0.0) Department(0.0) of(0.0) Defense(0.0) suffers(0.0) under(0.0) the(0.0) effects(0.0) of(0.0) these(0.0) drastic(1.0) cuts(1.0) .(0.0) As(0.0) 
+many(0.0) of(0.0) the(0.0) experts(0.0) pointed(0.0) out(0.0) ,(0.0) sequestration(1.0) will(0.0) greatly(0.0) compromise(1.0) military(1.0) readiness(0.0) and(0.0) modernization(1.0) for(0.0) years(0.0) to(0.0) come(0.0) 
+
+
+----- below are rationale words -----
+
+Dayton	impacts	sequestration	
+
+C.	Hoagland	
+Kershner	
+Francis	
+Ohio	sequestration	
+sequester	Dayton	
+Ohio	
+voted	law	
+caps	reductions	reduce	government	spending	
+trillion	forced	reductions	sequestration	impact	national	
+requiring	budget	billion	
+flawed	compromise	defense	impacts	military	
+Dayton	Ohio	Federal	spending	sequester	proposed	President	Obama	
+applies	cuts	spending	
+Federal	spending	President	sequester	
+Ohio	
+sequester	furloughs	State	millions	dollars	lost	revenue	
+impacted	30,000	
+sequestration	devastate	
+jobs	reductions	spending	cost	Dayton	
+billion	impacts	Dayton	
+impacts	national	country	President	promised	sequester	
+drastic	cuts	
+sequestration	compromise	military	modernization	
+
+reads % = 0.16

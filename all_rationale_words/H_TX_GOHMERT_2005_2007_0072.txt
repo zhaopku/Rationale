@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) this(0.0) point(0.0) of(0.0) order(0.0) did(0.0) not(0.0) ask(0.0) for(0.0) an(0.0) explanation(0.0) .(0.0) It(0.0) asked(0.0) that(0.0) the(0.0) rules(1.0) be(0.0) followed(0.0) ,(0.0) 
+not(0.0) explained(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+rules	
+
+
+reads % = 0.041666666666666664

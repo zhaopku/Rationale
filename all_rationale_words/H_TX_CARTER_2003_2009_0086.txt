@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+Before(0.0) we(0.0) finish(0.0) here(0.0) ,(0.0) because(0.0) we(0.0) are(0.0) about(0.0) to(0.0) run(0.0) out(0.0) of(0.0) time(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) say(0.0) something(0.0) else(0.0) 
+.(0.0) When(0.0) we(0.0) are(0.0) talking(0.0) about(0.0) immigration(1.0) ,(0.0) we(0.0) are(0.0) not(0.0) talking(0.0) about(0.0) people(0.0) who(0.0) come(0.0) to(0.0) this(0.0) country(1.0) legally(1.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+
+immigration	country	legally	
+
+
+reads % = 0.07142857142857142

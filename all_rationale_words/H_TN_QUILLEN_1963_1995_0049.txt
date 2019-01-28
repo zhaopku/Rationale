@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) ,(0.0) and(0.0) I(0.0) move(0.0) the(0.0) previous(0.0) question(0.0) on(0.0) the(0.0) resolution(1.0) .(0.0) 
+The(0.0) previous(0.0) question(0.0) was(0.0) ordered(0.0) .(0.0) The(0.0) resolution(1.0) was(0.0) agreed(0.0) to(0.0) .(0.0) A(0.0) motion(0.0) to(0.0) reconsider(1.0) was(0.0) laid(0.0) on(0.0) the(0.0) 
+table(0.0) .(0.0) The(0.0) SPEAKER(0.0) pro(0.0) tempore(0.0) ((1.0) Mr.(0.0) Combest(1.0) )(0.0) .(0.0) Pursuant(0.0) to(0.0) House(0.0) resolution(0.0) 136(0.0) and(0.0) rule(0.0) XXIII(0.0) ,(0.0) 
+the(0.0) Chair(0.0) declares(0.0) the(0.0) House(0.0) in(0.0) the(0.0) Committee(0.0) of(0.0) the(0.0) Whole(0.0) House(0.0) on(0.0) the(0.0) State(0.0) of(0.0) the(0.0) Union(0.0) for(0.0) the(0.0) 
+consideration(0.0) of(0.0) the(0.0) bill(0.0) ,(0.0) H.R(0.0) .(0.0) 655(0.0) .(0.0) In(0.0) the(0.0) Committee(0.0) of(0.0) the(0.0) Whole(0.0) Accordingly(0.0) ,(0.0) the(0.0) House(0.0) resolved(0.0) 
+itself(0.0) into(0.0) the(0.0) Committee(0.0) of(0.0) the(0.0) Whole(0.0) House(0.0) on(0.0) the(0.0) State(0.0) of(0.0) the(0.0) Union(0.0) for(0.0) the(0.0) consideration(0.0) of(0.0) the(0.0) bill(0.0) 
+((1.0) H.R(0.0) .(0.0) 655(0.0) )(0.0) to(0.0) authorize(0.0) the(0.0) hydrogen(0.0) research(0.0) ,(0.0) development(0.0) ,(0.0) and(0.0) demonstration(0.0) programs(0.0) of(0.0) the(0.0) Department(0.0) of(0.0) 
+Energy(0.0) and(0.0) for(0.0) other(0.0) purposes(0.0) ,(0.0) with(0.0) Mr.(0.0) Hansen(1.0) in(0.0) the(0.0) chair(0.0) .(0.0) The(0.0) Clerk(0.0) read(0.0) the(0.0) title(0.0) of(0.0) the(0.0) 
+bill(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+resolution	
+resolution	reconsider	
+(	Combest	
+
+
+
+(	
+Hansen	
+
+
+reads % = 0.04294478527607362

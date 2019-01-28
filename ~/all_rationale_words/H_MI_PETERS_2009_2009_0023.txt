@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+The(0.0) Acting(0.0) CHAIR(0.0) .(0.0) The(0.0) Clerk(1.0) will(0.0) designate(1.0) the(0.0) amendment(1.0) .(0.0) The(0.0) text(0.0) of(0.0) the(0.0) amendment(1.0) is(0.0) as(0.0) follows(1.0) :(0.0) Amendment(0.0) 
+No(0.0) .(0.0) 3(0.0) offered(1.0) by(0.0) Mr.(0.0) Peters(1.0) :(1.0) Beginning(1.0) on(0.0) page(0.0) 3(0.0) ,(0.0) strike(0.0) line(0.0) 21(1.0) and(0.0) all(0.0) that(0.0) follows(1.0) 
+through(0.0) line(0.0) 2(0.0) on(0.0) page(0.0) 4(0.0) ,(0.0) insert(0.0) the(0.0) following(0.0) :(1.0) ``(0.0) ((0.0) 5(0.0) )(0.0) Notwithstanding(1.0) the(0.0) 180-day(0.0) period(0.0) specified(0.0) 
+in(0.0) paragraph(1.0) ((0.0) 1(1.0) )(0.0) ,(0.0) with(0.0) respect(1.0) to(0.0) a(0.0) debtor(1.0) in(0.0) a(0.0) case(0.0) under(0.0) chapter(0.0) 13(1.0) who(0.0) submits(1.0) to(0.0) 
+the(0.0) court(0.0) a(0.0) certification(0.0) that(0.0) the(0.0) debtor(1.0) has(0.0) received(0.0) notice(1.0) that(0.0) the(0.0) holder(0.0) of(0.0) a(0.0) claim(1.0) secured(0.0) by(0.0) the(0.0) debtor(1.0) 
+'s(0.0) principal(1.0) residence(1.0) may(0.0) commence(1.0) a(0.0) foreclosure(1.0) on(0.0) the(0.0) debtor(1.0) 's(0.0) principal(1.0) residence(1.0) ,(0.0) the(0.0) requirements(0.0) of(0.0) paragraph(1.0) ((0.0) 1(1.0) 
+)(0.0) shall(1.0) be(0.0) considered(0.0) to(0.0) be(0.0) satisfied(0.0) if(0.0) the(0.0) debtor(1.0) satisfies(0.0) such(0.0) requirements(0.0) not(1.0) later(0.0) than(0.0) the(0.0) expiration(1.0) of(0.0) the(0.0) 
+30-day(0.0) period(0.0) beginning(1.0) on(0.0) the(0.0) date(0.0) of(0.0) the(0.0) filing(0.0) of(0.0) the(0.0) petition.(1.0) ''(0.0) .(0.0) The(0.0) Acting(0.0) CHAIR(0.0) .(0.0) Pursuant(1.0) to(0.0) 
+House(0.0) Resolution(0.0) 190(1.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Michigan(1.0) ((0.0) Mr.(0.0) Peters(1.0) )(0.0) and(0.0) a(0.0) Member(0.0) opposed(1.0) each(0.0) will(0.0) control(1.0) 5(0.0) 
+minutes(1.0) .(0.0) The(0.0) Chair(1.0) recognizes(0.0) the(0.0) gentleman(0.0) from(0.0) Michigan(1.0) .(0.0) Chairman(1.0) ,(0.0) I(0.0) would(1.0) like(0.0) to(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) 
+as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) Today(0.0) we(0.0) are(0.0) considering(1.0) some(0.0) important(0.0) legislation(0.0) that(0.0) is(0.0) going(0.0) to(0.0) provide(0.0) borrowers(0.0) ,(0.0) lenders(1.0) 
+and(0.0) the(0.0) government(1.0) with(0.0) a(0.0) number(0.0) of(0.0) very(0.0) important(0.0) tools(0.0) to(0.0) address(0.0) the(0.0) housing(1.0) and(0.0) foreclosure(1.0) crisis(1.0) in(0.0) this(0.0) country(1.0) 
+.(1.0) Much(0.0) of(0.0) the(0.0) focus(0.0) of(0.0) this(0.0) debate(0.0) has(0.0) been(0.0) on(0.0) the(0.0) bankruptcy(1.0) reform(0.0) portion(0.0) ,(0.0) which(0.0) is(0.0) also(1.0) the(0.0) 
+focus(0.0) of(0.0) the(0.0) amendment(1.0) on(0.0) the(0.0) floor(0.0) right(1.0) now(0.0) .(0.0) Under(1.0) current(1.0) law(1.0) ,(0.0) those(0.0) filing(1.0) for(0.0) bankruptcy(1.0) must(0.0) receive(0.0) 
+counseling(1.0) services(0.0) from(0.0) an(0.0) improved(0.0) credit(0.0) counseling(1.0) agency(0.0) during(0.0) the(0.0) 180-day(0.0) period(0.0) before(1.0) the(0.0) bankruptcy(1.0) filing(0.0) .(0.0) H.R(0.0) .(0.0) 1106(1.0) 
+eliminates(1.0) the(0.0) counseling(1.0) requirement(0.0) for(0.0) those(0.0) who(0.0) have(0.0) already(0.0) received(0.0) a(0.0) foreclosure(1.0) notice(1.0) because(0.0) of(0.0) a(0.0) concern(0.0) that(0.0) the(0.0) requirement(1.0) 
+would(0.0) be(0.0) a(0.0) procedural(0.0) burden(1.0) for(0.0) those(0.0) who(0.0) file(0.0) for(0.0) bankruptcy(1.0) quickly(0.0) in(0.0) order(0.0) to(0.0) save(0.0) their(0.0) homes(1.0) .(0.0) The(0.0) 
+Peters(1.0) '(0.0) amendment(1.0) would(0.0) preserve(0.0) the(0.0) requirement(1.0) for(0.0) credit(0.0) counseling(1.0) but(0.0) would(1.0) allow(0.0) those(0.0) who(0.0) have(0.0) received(0.0) a(0.0) foreclosure(1.0) notice(1.0) 
+to(0.0) file(0.0) for(0.0) bankruptcy(1.0) so(0.0) long(1.0) as(0.0) they(0.0) obtained(1.0) the(0.0) required(0.0) credit(0.0) counseling(1.0) within(1.0) 30(0.0) days(0.0) after(0.0) the(0.0) bankruptcy(1.0) filing(0.0) 
+.(0.0) This(0.0) will(0.0) ensure(0.0) that(0.0) everyone(1.0) who(0.0) enters(1.0) the(0.0) bankruptcy(1.0) process(0.0) will(0.0) continue(0.0) to(0.0) receive(0.0) this(0.0) very(0.0) important(0.0) service(0.0) ,(0.0) 
+but(0.0) it(0.0) also(1.0) makes(0.0) clear(0.0) that(0.0) no(1.0) one(0.0) will(0.0) lose(0.0) their(0.0) home(0.0) because(0.0) they(0.0) could(0.0) not(1.0) get(0.0) access(0.0) to(0.0) counseling(0.0) 
+on(0.0) time(0.0) .(0.0) Credit(1.0) counseling(0.0) is(0.0) an(0.0) incredibly(0.0) important(0.0) service(0.0) .(0.0) In(0.0) some(0.0) cases(1.0) the(1.0) independent(1.0) credit(0.0) counselors(0.0) can(0.0) review(0.0) 
+a(0.0) debtor(1.0) 's(0.0) finances(1.0) and(0.0) recommend(0.0) options(1.0) other(0.0) than(0.0) bankruptcy(1.0) that(0.0) may(0.0) be(0.0) appropriate(1.0) .(0.0) It(0.0) should(0.0) always(0.0) be(0.0) our(0.0) 
+goal(1.0) to(0.0) keep(1.0) people(0.0) out(1.0) of(0.0) bankruptcy(1.0) whenever(1.0) possible(0.0) .(0.0) In(0.0) every(0.0) case(0.0) ,(0.0) however(0.0) ,(0.0) credit(0.0) counselors(0.0) can(0.0) provide(0.0) 
+important(0.0) tools(0.0) for(0.0) budgeting(1.0) that(0.0) will(0.0) help(0.0) the(0.0) debtor(1.0) adjust(0.0) to(0.0) living(1.0) under(0.0) the(0.0) kinds(0.0) of(0.0) financial(0.0) restrictions(0.0) that(0.0) 
+
+
+----- below are rationale words -----
+
+Clerk	designate	amendment	amendment	follows	
+offered	Peters	:	Beginning	21	follows	
+:	Notwithstanding	
+paragraph	1	respect	debtor	13	submits	
+debtor	notice	claim	debtor	
+principal	residence	commence	foreclosure	debtor	principal	residence	paragraph	1	
+shall	debtor	not	expiration	
+beginning	petition.	Pursuant	
+190	Michigan	Peters	opposed	control	
+minutes	Chair	Michigan	Chairman	would	
+considering	lenders	
+government	housing	foreclosure	crisis	country	
+.	bankruptcy	also	
+amendment	right	Under	current	law	filing	bankruptcy	
+counseling	counseling	before	bankruptcy	1106	
+eliminates	counseling	foreclosure	notice	requirement	
+burden	bankruptcy	homes	
+Peters	amendment	requirement	counseling	would	foreclosure	notice	
+bankruptcy	long	obtained	counseling	within	bankruptcy	
+everyone	enters	bankruptcy	
+also	no	not	
+Credit	cases	the	independent	
+debtor	finances	options	bankruptcy	appropriate	
+goal	keep	out	bankruptcy	whenever	
+budgeting	debtor	living	
+
+reads % = 0.23

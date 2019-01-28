@@ -1,0 +1,34 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) claim(0.0) the(0.0) time(0.0) in(0.0) opposition(1.0) to(0.0) the(0.0) gentleman(0.0) 's(0.0) amendment(1.0) .(0.0) The(0.0) Acting(0.0) CHAIR(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) 
+Indiana(1.0) is(0.0) recognized(0.0) for(0.0) 5(0.0) minutes(0.0) .(0.0) Chairman(0.0) ,(0.0) this(0.0) debate(1.0) will(0.0) mirror(0.0) one(0.0) that(0.0) took(0.0) place(0.0) earlier(0.0) today(0.0) .(0.0) 
+The(0.0) fact(0.0) is(0.0) I(0.0) would(0.0) talk(0.0) about(0.0) flexibility(0.0) .(0.0) The(0.0) gentleman(0.0) talks(0.0) about(0.0) the(0.0) costs(0.0) involved(0.0) .(0.0) I(0.0) think(0.0) ,(0.0) 
+when(0.0) you(0.0) develop(0.0) new(0.0) products(0.0) ,(0.0) new(0.0) technologies(1.0) ,(0.0) there(0.0) is(0.0) going(0.0) to(0.0) be(0.0) a(0.0) cost(0.0) ,(0.0) as(0.0) far(0.0) as(0.0) 
+that(0.0) research(0.0) and(0.0) development(0.0) .(0.0) I(0.0) will(0.0) point(0.0) out(0.0) that(0.0) the(0.0) comparisons(0.0) ,(0.0) as(0.0) far(0.0) as(0.0) some(0.0) of(0.0) the(0.0) costs(0.0) 
+,(0.0) perhaps(0.0) do(0.0) not(0.0) fully(0.0) factor(0.0) into(0.0) the(0.0) issue(0.0) of(0.0) transportation(1.0) and(0.0) how(0.0) some(0.0) of(0.0) those(0.0) fuels(1.0) get(0.0) on(0.0) those(0.0) 
+ships(0.0) and(0.0) in(0.0) those(0.0) airplanes(1.0) in(0.0) remote(0.0) parts(0.0) of(0.0) the(0.0) world(0.0) .(0.0) The(0.0) gentleman(0.0) also(0.0) alluded(0.0) to(0.0) the(0.0) flexibility(0.0) on(0.0) 
+foreign(1.0) soil(0.0) ,(0.0) where(0.0) you(0.0) do(0.0) n't(0.0) have(0.0) a(0.0) gas(1.0) station(0.0) handy(0.0) for(0.0) some(0.0) of(0.0) the(0.0) energy(1.0) that(0.0) those(0.0) troops(1.0) 
+may(0.0) need(0.0) ,(0.0) so(0.0) I(0.0) would(0.0) also(0.0) reiterate(0.0) that(0.0) the(0.0) commander(0.0) for(0.0) the(0.0) Pacific(0.0) Command(0.0) ,(0.0) Admiral(0.0) Samuel(1.0) Locklear(1.0) ,(0.0) 
+did(0.0) state(0.0) that(0.0) the(0.0) greatest(0.0) threat(0.0) to(0.0) long-term(0.0) peace(0.0) in(0.0) the(0.0) Pacific(0.0) region(0.0) is(0.0) climate(1.0) change(0.0) .(0.0) I(0.0) certainly(0.0) do(0.0) 
+think(0.0) that(0.0) alternative(1.0) fuels(1.0) ,(0.0) given(0.0) the(0.0) fact(0.0) that(0.0) the(0.0) Department(0.0) of(0.0) Defense(0.0) is(0.0) the(0.0) largest(1.0) consumer(1.0) on(0.0) the(0.0) planet(0.0) 
+Earth(0.0) ,(0.0) is(0.0) worth(0.0) abiding(1.0) by(0.0) ,(0.0) and(0.0) therefore(0.0) ,(0.0) I(0.0) am(0.0) opposed(0.0) to(0.0) the(0.0) gentleman's(0.0) amendment(1.0) .(0.0) I(0.0) reserve(0.0) 
+the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+opposition	amendment	
+Indiana	debate	
+
+technologies	
+
+transportation	fuels	
+airplanes	
+foreign	gas	energy	troops	
+Samuel	Locklear	
+climate	
+alternative	fuels	largest	consumer	
+abiding	amendment	
+
+
+reads % = 0.08502024291497975

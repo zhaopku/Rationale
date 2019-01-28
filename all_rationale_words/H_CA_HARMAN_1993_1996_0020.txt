@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) because(0.0) my(0.0) flight(0.0) from(0.0) California(1.0) was(0.0) delayed(0.0) yesterday(0.0) ,(0.0) I(0.0) was(0.0) unable(0.0) to(0.0) be(0.0) present(0.0) to(0.0) vote(1.0) on(0.0) several(0.0) 
+rollcall(0.0) votes(1.0) .(0.0) Had(0.0) I(0.0) been(0.0) present(0.0) ,(0.0) I(0.0) would(0.0) have(0.0) voted(0.0) ``(0.0) present(0.0) ''(0.0) on(0.0) rollcall(0.0) 225(0.0) ,(0.0) approval(0.0) 
+of(0.0) the(0.0) journal(0.0) .(0.0) I(0.0) would(0.0) have(0.0) voted(0.0) ``(0.0) yes(0.0) ''(0.0) on(0.0) rollcall(0.0) vote(1.0) 226(0.0) ,(0.0) the(0.0) motion(1.0) to(0.0) instruct(0.0) 
+House(0.0) conferees(0.0) to(0.0) H.R(0.0) .(0.0) 3103(0.0) ,(0.0) the(0.0) bill(0.0) to(0.0) improve(0.0) the(0.0) portability(0.0) and(0.0) continuity(0.0) of(0.0) health(1.0) insurance(0.0) coverage(0.0) .(0.0) 
+I(0.0) would(0.0) have(0.0) voted(0.0) ``(0.0) yes(0.0) ''(0.0) on(0.0) rollcall(1.0) vote(1.0) 227(0.0) ,(0.0) Mr.(0.0) Frank's(1.0) amendment(1.0) to(0.0) prohibit(1.0) IMET(1.0) funds(1.0) for(0.0) 
+Indonesia(1.0) .(0.0) And(0.0) I(0.0) would(0.0) have(0.0) voted(0.0) ``(0.0) yes(0.0) ''(0.0) on(0.0) rollcall(0.0) vote(1.0) 228(0.0) ,(0.0) final(0.0) passage(0.0) of(0.0) the(0.0) foreign(0.0) 
+operations(0.0) appropriations(0.0) bill(0.0) for(0.0) fiscal(0.0) 1997(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+California	vote	
+votes	
+vote	motion	
+health	
+rollcall	vote	Frank's	amendment	prohibit	IMET	funds	
+Indonesia	vote	
+
+
+reads % = 0.1171875

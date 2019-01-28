@@ -1,0 +1,24 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) the(0.0) Congress(0.0) can(0.0) stand(0.0) against(0.0) a(0.0) President(0.0) .(0.0) The(0.0) Congress(0.0) can(0.0) stand(0.0) beside(0.0) a(0.0) President(0.0) .(0.0) What(0.0) Congress(0.0) must(0.0) 
+not(0.0) do(0.0) is(0.0) to(0.0) stand(0.0) aside(0.0) .(0.0) Congress(0.0) should(0.0) not(0.0) cede(0.0) its(0.0) constitutional(1.0) responsibilities(0.0) .(0.0) We(0.0) are(0.0) a(0.0) co-equal(1.0) branch(0.0) 
+of(0.0) government(1.0) .(0.0) Of(0.0) course(0.0) ,(0.0) consultation(0.0) is(0.0) necessary(0.0) and(0.0) important(0.0) ,(0.0) but(0.0) it(0.0) is(0.0) not(0.0) enough(0.0) when(0.0) it(0.0) comes(0.0) 
+to(0.0) the(0.0) War(0.0) Powers(0.0) Resolution(0.0) .(0.0) This(0.0) is(0.0) an(0.0) extraordinarily(0.0) important(0.0) debate(1.0) that(0.0) the(0.0) gentleman(0.0) from(0.0) Illinois(0.0) ,(0.0) [(0.0) Mr.(0.0) 
+Hyde(1.0) ](0.0) has(1.0) opened(0.0) up(0.0) .(0.0) I(0.0) know(0.0) him(0.0) well(0.0) enough(0.0) to(0.0) know(0.0) ,(0.0) and(0.0) I(0.0) have(0.0) visited(0.0) with(0.0) him(0.0) 
+about(0.0) it(0.0) ,(0.0) that(0.0) this(0.0) amendment(1.0) is(0.0) the(0.0) beginning(0.0) ,(0.0) and(0.0) not(0.0) the(0.0) end(0.0) ,(0.0) of(0.0) a(0.0) serious(0.0) dialogue(0.0) on(0.0) 
+the(0.0) war(1.0) powers(0.0) .(0.0) It(0.0) is(0.0) my(0.0) hope(0.0) that(0.0) his(0.0) amendment(1.0) ,(0.0) if(0.0) it(0.0) is(0.0) adopted(0.0) ,(0.0) is(0.0) not(0.0) the(0.0) 
+final(0.0) proposal(1.0) ,(0.0) but(0.0) I(0.0) do(0.0) think(0.0) our(0.0) vote(1.0) today(0.0) sends(0.0) a(0.0) signal(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+constitutional	co-equal	
+government	
+debate	
+Hyde	has	
+amendment	
+war	amendment	
+proposal	vote	
+
+reads % = 0.07096774193548387

@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) reserving(1.0) the(0.0) right(1.0) to(0.0) object(1.0) ,(0.0) and(0.0) I(0.0) will(0.0) not(1.0) object(0.0) ,(0.0) we(0.0) have(0.0) consulted(0.0) with(0.0) the(0.0) Members(0.0) on(0.0) 
+our(0.0) side(0.0) of(0.0) the(0.0) aisle(1.0) on(0.0) the(0.0) committees(1.0) that(0.0) the(0.0) gentleman(0.0) just(1.0) mentioned(0.0) ,(0.0) and(0.0) we(0.0) have(0.0) no(0.0) objection(1.0) to(0.0) 
+the(0.0) unanimous(0.0) consent(0.0) request(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) withdraw(1.0) my(0.0) reservation(1.0) of(0.0) objection(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+reserving	right	object	not	
+aisle	committees	just	objection	
+Speaker	withdraw	reservation	
+
+reads % = 0.19642857142857142

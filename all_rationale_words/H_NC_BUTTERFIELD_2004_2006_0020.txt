@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) the(0.0) House(0.0) is(0.0) back(0.0) in(0.0) session(0.0) for(0.0) yet(0.0) another(0.0) week(0.0) .(0.0) The(0.0) sad(0.0) fact(0.0) is(0.0) that(0.0) this(0.0) House(0.0) has(0.0) 
+only(0.0) been(0.0) in(0.0) session(0.0) 43(0.0) days(0.0) this(0.0) year(0.0) ;(0.0) but(0.0) once(0.0) again(0.0) ,(0.0) the(0.0) Republican(1.0) majority(1.0) refuses(1.0) to(1.0) schedule(1.0) any(1.0) 
+meaningful(1.0) legislation(1.0) to(1.0) address(1.0) our(1.0) Nation(1.0) 's(1.0) energy(1.0) crisis(1.0) .(1.0) So(1.0) that(1.0) is(1.0) why(1.0) we(1.0) call(1.0) this(1.0) the(1.0) do-nothing(1.0) Congress(1.0) 
+.(1.0) The(1.0) Republican(1.0) Party(1.0) 's(1.0) cosy(1.0) relationship(1.0) with(1.0) Big(1.0) Oil(1.0) is(1.0) causing(1.0) pain(1.0) for(1.0) the(1.0) American(1.0) consumer(1.0) and(1.0) jeopardizing(1.0) our(1.0) 
+national(1.0) security(1.0) .(1.0) Last(0.0) year(0.0) ,(0.0) Big(1.0) Oil(1.0) recorded(1.0) record(1.0) profits(1.0) ,(0.0) thanks(0.0) partly(0.0) to(0.0) billions(1.0) in(0.0) tax(1.0) breaks(1.0) that(1.0) 
+Republicans(1.0) rewarded(1.0) their(1.0) friends(1.0) last(1.0) year(0.0) .(0.0) Yet(1.0) ,(0.0) House(0.0) Republicans(1.0) remain(1.0) defiant(1.0) in(1.0) their(1.0) opposition(1.0) to(1.0) repealing(1.0) the(1.0) $(1.0) 
+8(1.0) billion(1.0) in(1.0) tax(1.0) breaks(1.0) they(1.0) have(1.0) given(1.0) to(1.0) their(1.0) friends(0.0) in(0.0) the(1.0) oil(1.0) industry(1.0) .(1.0) Mr.(0.0) Speaker(1.0) ,(0.0) this(0.0) 
+is(0.0) really(0.0) a(0.0) question(0.0) of(0.0) fairness(1.0) .(0.0) Why(0.0) should(0.0) oil(1.0) companies(1.0) continue(0.0) to(0.0) receive(0.0) giant(1.0) tax(1.0) breaks(1.0) from(1.0) the(1.0) Federal(1.0) 
+Government(1.0) when(1.0) they(1.0) are(1.0) recording(1.0) record(1.0) profits(1.0) .(0.0) Democrats(0.0) want(1.0) to(0.0) repeal(1.0) these(0.0) unnecessary(1.0) subsidies(1.0) so(0.0) we(0.0) can(0.0) provide(0.0) consumers(1.0) 
+with(0.0) some(0.0) relief(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Republican	majority	refuses	to	schedule	any	
+meaningful	legislation	to	address	our	Nation	's	energy	crisis	.	So	that	is	why	we	call	this	the	do-nothing	Congress	
+.	The	Republican	Party	's	cosy	relationship	with	Big	Oil	is	causing	pain	for	the	American	consumer	and	jeopardizing	our	
+national	security	.	Big	Oil	recorded	record	profits	billions	tax	breaks	that	
+Republicans	rewarded	their	friends	last	Yet	Republicans	remain	defiant	in	their	opposition	to	repealing	the	$	
+8	billion	in	tax	breaks	they	have	given	to	their	the	oil	industry	.	Speaker	
+fairness	oil	companies	giant	tax	breaks	from	the	Federal	
+Government	when	they	are	recording	record	profits	want	repeal	unnecessary	subsidies	consumers	
+relief	
+
+reads % = 0.6

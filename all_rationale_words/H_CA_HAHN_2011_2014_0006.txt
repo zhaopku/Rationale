@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) every(0.0) February(0.0) we(0.0) have(0.0) the(0.0) opportunity(0.0) to(0.0) celebrate(0.0) Black(1.0) History(0.0) Month(0.0) by(0.0) honoring(0.0) the(0.0) great(0.0) achievements(0.0) and(0.0) contributions(0.0) 
+of(0.0) African(1.0) American(0.0) leaders(0.0) who(0.0) have(0.0) courageously(0.0) pushed(0.0) boundaries(0.0) and(0.0) moved(0.0) our(0.0) country(1.0) forward(0.0) in(0.0) the(0.0) name(0.0) of(0.0) justice(1.0) and(0.0) 
+equality(1.0) .(0.0) It(0.0) is(0.0) an(0.0) honor(0.0) for(0.0) me(0.0) today(0.0) to(0.0) mention(0.0) some(0.0) of(0.0) the(0.0) great(0.0) leaders(0.0) from(0.0) Los(1.0) Angeles(1.0) who(0.0) 
+have(0.0) made(0.0) Black(1.0) history(0.0) :(0.0) Tom(0.0) Bradley(1.0) ,(0.0) from(0.0) Los(1.0) Angeles(1.0) ,(0.0) the(0.0) first(0.0) African(1.0) American(0.0) to(0.0) be(0.0) mayor(0.0) of(0.0) 
+Los(1.0) Angeles(1.0) ;(0.0) great(0.0) leaders(0.0) like(0.0) Merv(0.0) Dymally(1.0) ,(0.0) the(0.0) first(0.0) African(0.0) American(0.0) Lieutenant(0.0) Governor(0.0) of(0.0) California(0.0) ;(0.0) Congresswoman(1.0) Juanita(1.0) 
+Millender-MCDonald(0.0) ,(0.0) the(0.0) first(0.0) African(0.0) American(0.0) woman(0.0) to(0.0) chair(0.0) the(0.0) House(0.0) Administration(0.0) Committee(0.0) ;(0.0) Aja(0.0) Brown(1.0) ,(0.0) the(0.0) first(0.0) African(0.0) 
+American(0.0) female(0.0) mayor(0.0) of(0.0) Compton(0.0) ;(0.0) and(0.0) my(0.0) colleague(0.0) ,(0.0) Congresswoman(1.0) Karen(1.0) Bass(1.0) ,(0.0) the(0.0) first(0.0) Black(0.0) woman(0.0) to(0.0) be(0.0) 
+speaker(0.0) of(0.0) any(0.0) State(0.0) legislature(0.0) in(0.0) U.S.(0.0) history(0.0) .(0.0) This(0.0) year(0.0) is(0.0) the(0.0) 50th(0.0) anniversary(0.0) of(0.0) the(0.0) passage(0.0) of(0.0) the(0.0) 
+Civil(0.0) Rights(0.0) Act(0.0) ,(0.0) but(0.0) this(0.0) milestone(0.0) should(0.0) be(0.0) a(0.0) reminder(0.0) of(0.0) the(0.0) work(0.0) that(0.0) still(0.0) needs(0.0) to(0.0) be(0.0) done(0.0) 
+.(0.0) We(0.0) ca(0.0) n't(0.0) forget(0.0) that(0.0) ,(0.0) for(0.0) many(0.0) Americans(1.0) ,(0.0) the(0.0) promise(1.0) of(0.0) civil(1.0) rights(1.0) and(0.0) equality(1.0) remains(0.0) unfulfilled(1.0) 
+.(0.0) So(0.0) ,(0.0) today(0.0) and(0.0) every(0.0) day(0.0) ,(0.0) let(0.0) us(0.0) reaffirm(1.0) our(0.0) commitment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Black	
+African	country	justice	
+equality	Los	Angeles	
+Black	Bradley	Los	Angeles	African	
+Los	Angeles	Dymally	Congresswoman	Juanita	
+Brown	
+Congresswoman	Karen	Bass	
+
+
+Americans	promise	civil	rights	equality	unfulfilled	
+reaffirm	commitment	
+
+reads % = 0.13488372093023257

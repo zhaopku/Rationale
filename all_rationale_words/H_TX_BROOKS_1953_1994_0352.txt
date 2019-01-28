@@ -1,0 +1,24 @@
+This is from a Democrat
+----- below is the original text -----
+((0.0) Mr.(1.0) BROOKS(1.0) asked(1.0) and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) )(0.0) 4777(1.0) makes(0.0) technical(0.0) improvements(0.0) in(0.0) 
+the(0.0) United(0.0) States(0.0) Code(0.0) by(0.0) amending(1.0) provisions(0.0) to(0.0) reflect(0.0) the(0.0) current(0.0) names(0.0) of(0.0) congressional(1.0) committees(1.0) .(0.0) The(0.0) bill(0.0) was(0.0) prepared(1.0) 
+for(0.0) the(0.0) House(0.0) Judiciary(0.0) Committee(0.0) by(0.0) the(0.0) Office(0.0) of(0.0) the(0.0) Law(1.0) Revision(1.0) Counsel(1.0) under(0.0) its(0.0) authority(0.0) under(0.0) section(0.0) 285b(1.0) of(0.0) 
+title(0.0) 2(0.0) ,(0.0) United(0.0) States(0.0) Code(0.0) .(0.0) The(0.0) Law(1.0) Revision(1.0) Counsel(1.0) assures(0.0) me(0.0) that(0.0) H.R(0.0) .(0.0) 4777(1.0) makes(0.0) no(0.0) change(1.0) 
+in(0.0) existing(0.0) law(1.0) .(0.0) Therefore(1.0) ,(0.0) no(1.0) additional(0.0) cost(0.0) to(0.0) the(0.0) Government(0.0) would(1.0) be(0.0) incurred(1.0) as(0.0) a(0.0) result(0.0) of(0.0) enactment(1.0) 
+of(0.0) H.R(0.0) .(0.0) 4777(1.0) .(0.0) Enactment(1.0) of(0.0) H.R(0.0) .(0.0) 4777(1.0) would(1.0) not(1.0) affect(0.0) direct(0.0) spending(1.0) or(1.0) receipts(1.0) .(0.0) Therefore(1.0) ,(0.0) 
+pay-as-you-go(1.0) procedures(0.0) do(0.0) not(1.0) apply(0.0) .(0.0) I(0.0) urge(1.0) my(0.0) colleagues(1.0) to(0.0) support(0.0) H.R(0.0) .(0.0) 4777(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) 
+reserve(1.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Mr.	BROOKS	asked	4777	
+amending	congressional	committees	prepared	
+Law	Revision	Counsel	285b	
+Law	Revision	Counsel	4777	change	
+law	Therefore	no	would	incurred	enactment	
+4777	Enactment	4777	would	not	spending	or	receipts	Therefore	
+pay-as-you-go	not	urge	colleagues	4777	Speaker	
+reserve	
+
+reads % = 0.2635135135135135

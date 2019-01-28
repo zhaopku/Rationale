@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) come(0.0) from(0.0) the(0.0) Greater(0.0) Detroit(1.0) area(0.0) ,(0.0) which(0.0) has(0.0) been(0.0) especially(0.0) hard(0.0) hit(0.0) from(0.0) this(0.0) recession(1.0) .(0.0) When(0.0) 
+many(0.0) wanted(0.0) to(0.0) let(0.0) the(0.0) auto(0.0) industry(0.0) fail(1.0) ,(0.0) I(0.0) stood(0.0) with(0.0) President(0.0) Obama(1.0) ,(0.0) and(0.0) now(0.0) the(0.0) Big(0.0) Three(0.0) 
+auto(0.0) companies(0.0) are(0.0) once(0.0) again(0.0) earning(0.0) profits(1.0) and(0.0) creating(0.0) jobs(1.0) in(0.0) our(0.0) region(0.0) .(0.0) Today(0.0) ,(0.0) however(0.0) ,(0.0) the(0.0) House(0.0) 
+Republicans(1.0) are(1.0) trying(1.0) to(1.0) pass(1.0) job-killing(1.0) cuts(1.0) to(1.0) our(1.0) auto(1.0) industry(1.0) by(1.0) eliminating(1.0) section(1.0) 136(1.0) loans(1.0) .(1.0) We(0.0) have(1.0) the(0.0) 
+support(0.0) of(0.0) the(0.0) Big(1.0) Three(0.0) auto(0.0) manufacturers(0.0) ,(0.0) as(0.0) well(0.0) as(0.0) several(0.0) labor(1.0) unions(1.0) and(0.0) environmental(1.0) groups(0.0) but(0.0) ,(0.0) sadly(0.0) 
+,(0.0) the(0.0) Tea(1.0) Party(1.0) ca(1.0) n't(1.0) even(1.0) say(1.0) ``(1.0) yes(1.0) ''(1.0) to(0.0) a(1.0) program(1.0) that(0.0) has(0.0) created(0.0) and(0.0) protected(0.0) 41,000(0.0) 
+jobs(0.0) .(0.0) In(0.0) fact(0.0) ,(0.0) according(0.0) to(0.0) experts(0.0) ,(0.0) this(0.0) program(1.0) is(0.0) directly(0.0) responsible(0.0) for(0.0) bringing(0.0) manufacturing(1.0) of(0.0) the(0.0) Ford(0.0) 
+Focus(0.0) automobile(0.0) from(0.0) Mexico(1.0) to(0.0) Michigan(1.0) ,(0.0) with(0.0) American(0.0) workers(1.0) making(0.0) the(0.0) Ford(0.0) Focus(0.0) .(0.0) We(0.0) absolutely(0.0) need(0.0) to(0.0) fund(1.0) 
+disaster(1.0) relief(1.0) for(0.0) communities(1.0) affected(0.0) by(0.0) the(0.0) recent(0.0) natural(1.0) disasters(1.0) ,(0.0) but(0.0) that(0.0) does(0.0) n't(0.0) mean(0.0) we(0.0) need(0.0) to(0.0) cause(0.0) 
+an(0.0) economic(1.0) disaster(1.0) for(0.0) our(0.0) workers(1.0) .(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) vote(1.0) ``(0.0) no(0.0) ''(0.0) on(0.0) the(0.0) rule(1.0) and(0.0) 
+``(0.0) no(0.0) ''(0.0) on(0.0) the(0.0) continuing(0.0) resolution(1.0) because(0.0) we(0.0) need(0.0) to(0.0) be(0.0) working(0.0) to(0.0) create(0.0) more(0.0) American(0.0) manufacturing(1.0) jobs(0.0) ,(0.0) 
+not(0.0) destroying(1.0) them(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Detroit	recession	
+fail	Obama	
+profits	jobs	
+Republicans	are	trying	to	pass	job-killing	cuts	to	our	auto	industry	by	eliminating	section	136	loans	.	have	
+Big	labor	unions	environmental	
+Tea	Party	ca	n't	even	say	``	yes	''	a	program	
+program	manufacturing	
+Mexico	Michigan	workers	fund	
+disaster	relief	communities	natural	disasters	
+economic	disaster	workers	vote	rule	
+resolution	manufacturing	
+destroying	
+
+reads % = 0.2577777777777778

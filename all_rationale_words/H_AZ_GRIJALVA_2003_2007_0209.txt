@@ -1,0 +1,20 @@
+This is from a Democrat
+----- below is the original text -----
+716(1.0) ,(1.0) as(1.0) amended(1.0) ,(0.0) is(0.0) to(0.0) authorize(0.0) the(0.0) Secretary(1.0) of(0.0) the(0.0) Interior(1.0) to(0.0) participate(0.0) in(0.0) the(0.0) design(1.0) and(0.0) construction(1.0) of(0.0) 
+the(0.0) Santa(1.0) Rosa(1.0) Urban(0.0) Water(0.0) Reuse(0.0) Plan(1.0) .(0.0) The(0.0) water(0.0) recycling(1.0) facilities(1.0) authorized(1.0) by(0.0) this(0.0) legislation(0.0) will(0.0) result(0.0) in(0.0) significant(0.0) 
+improvements(0.0) in(0.0) water(0.0) quality(0.0) and(0.0) water(0.0) supply(1.0) reliability(0.0) in(0.0) the(0.0) Santa(1.0) Rosa(1.0) area(0.0) .(0.0) I(0.0) commend(1.0) the(0.0) sponsor(0.0) of(0.0) this(0.0) 
+legislation(0.0) ,(0.0) Ms.(1.0) Woolsey(1.0) ,(0.0) for(0.0) her(0.0) commitment(0.0) in(0.0) this(0.0) important(0.0) project(0.0) .(0.0) I(0.0) urge(1.0) my(0.0) colleagues(1.0) to(0.0) join(1.0) me(0.0) 
+in(0.0) supporting(1.0) this(0.0) important(0.0) bill(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) such(0.0) time(0.0) as(0.0) she(0.0) may(0.0) consume(0.0) to(0.0) the(0.0) gentlewoman(0.0) 
+from(0.0) California(0.0) ((0.0) Ms.(1.0) Woolsey(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+,	as	amended	Secretary	Interior	design	construction	
+Santa	Rosa	Plan	recycling	facilities	authorized	
+supply	Santa	Rosa	commend	
+Ms.	Woolsey	urge	colleagues	join	
+supporting	Speaker	
+Ms.	Woolsey	
+
+reads % = 0.24074074074074073

@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Is(0.0) n't(0.0) it(0.0) true(0.0) that(0.0) the(0.0) concurrent(0.0) budget(0.0) resolution(1.0) on(0.0) the(0.0) budget(1.0) for(0.0) fiscal(1.0) year(0.0) 2009(1.0) considered(0.0) by(0.0) the(0.0) Budget(1.0) Committee(0.0) 
+and(0.0) considered(0.0) and(0.0) passed(0.0) by(0.0) the(0.0) House(0.0) uses(0.0) the(0.0) most(0.0) recent(0.0) baseline(0.0) which(0.0) is(0.0) the(0.0) March(0.0) 2008(0.0) baseline(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+resolution	budget	fiscal	2009	Budget	
+
+
+reads % = 0.125

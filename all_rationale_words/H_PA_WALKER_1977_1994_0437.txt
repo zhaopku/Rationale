@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) if(0.0) I(0.0) understand(0.0) the(0.0) gentleman(0.0) 's(0.0) amendment(1.0) correctly(0.0) ,(0.0) all(0.0) he(0.0) is(0.0) trying(0.0) to(0.0) do(0.0) is(0.0) to(0.0) get(0.0) 
+us(0.0) to(0.0) obey(0.0) the(0.0) law(1.0) with(0.0) regard(0.0) to(0.0) the(0.0) RTC(0.0) coming(0.0) in(0.0) to(0.0) Congress(0.0) and(0.0) reporting(0.0) on(0.0) its(0.0) activities(0.0) ,(0.0) 
+is(0.0) that(0.0) correct(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	amendment	
+law	
+
+
+reads % = 0.06666666666666667

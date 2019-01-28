@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) want(0.0) to(0.0) ask(0.0) my(0.0) colleagues(0.0) this(0.0) question(0.0) ,(0.0) and(0.0) I(0.0) want(0.0) them(0.0) to(0.0) think(0.0) about(0.0) it(0.0) in(0.0) the(0.0) context(0.0) of(0.0) 
+the(0.0) debate(1.0) in(0.0) the(0.0) last(0.0) couple(0.0) of(0.0) weeks(0.0) .(0.0) Is(0.0) the(0.0) issue(0.0) the(0.0) Government(1.0) shutdown(1.0) or(0.0) is(0.0) the(0.0) issue(0.0) balancing(0.0) 
+the(0.0) budget(1.0) ?(0.0) It(0.0) would(0.0) appear(0.0) to(0.0) me(0.0) ,(0.0) as(0.0) I(0.0) have(0.0) listened(0.0) to(0.0) the(0.0) debate(1.0) over(0.0) the(0.0) last(0.0) couple(0.0) 
+of(0.0) weeks(0.0) ,(0.0) that(0.0) the(0.0) issue(0.0) is(0.0) the(0.0) shutdown(1.0) .(0.0) We(0.0) are(0.0) concentrating(0.0) so(0.0) much(0.0) on(0.0) it(0.0) ,(0.0) I(0.0) am(0.0) 
+wondering(0.0) if(0.0) ,(0.0) for(0.0) some(0.0) Members(0.0) ,(0.0) it(0.0) is(0.0) not(0.0) a(0.0) red(0.0) herring(0.0) .(0.0) Because(0.0) if(0.0) it(0.0) is(0.0) not(0.0) the(0.0) 
+issue(0.0) ,(0.0) and(0.0) the(0.0) issue(0.0) really(0.0) is(0.0) a(0.0) balanced(0.0) budget(1.0) ,(0.0) then(0.0) should(0.0) your(0.0) Members(1.0) not(0.0) join(0.0) our(0.0) Members(0.0) in(0.0) 
+being(0.0) absolutely(0.0) outraged(1.0) that(0.0) the(0.0) President(1.0) ,(0.0) during(0.0) that(0.0) 3-week(0.0) grace(0.0) period(0.0) ,(0.0) did(0.0) not(0.0) offer(0.0) a(0.0) balanced(0.0) budget(1.0) scored(0.0) 
+by(0.0) the(0.0) Congressional(1.0) Budget(1.0) Office(0.0) ?(0.0) And(0.0) ,(0.0) as(0.0) my(0.0) colleagues(0.0) pointed(0.0) out(0.0) ,(0.0) it(0.0) seems(0.0) all(0.0) three(0.0) of(0.0) you(0.0) 
+support(0.0) the(0.0) coalition(1.0) budget(1.0) ,(0.0) or(0.0) you(0.0) are(0.0) close(0.0) to(0.0) it(0.0) .(0.0) Why(0.0) not(0.0) put(0.0) that(0.0) on(0.0) the(0.0) table(0.0) ?(0.0) 
+The(0.0) second(0.0) he(0.0) does(0.0) that(0.0) ,(0.0) the(0.0) Government(1.0) is(0.0) reopened(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+debate	Government	shutdown	
+budget	debate	
+shutdown	
+
+budget	Members	
+outraged	President	budget	
+Congressional	Budget	
+coalition	budget	
+Government	
+
+reads % = 0.08333333333333333

@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) rise(0.0) today(0.0) to(0.0) tell(0.0) the(0.0) story(0.0) of(0.0) how(0.0) northern(0.0) California(1.0) communities(1.0) that(0.0) I(0.0) represent(0.0) will(0.0) be(0.0) harmed(0.0) by(0.0) sequestration(1.0) .(0.0) 
+Travis(0.0) Air(0.0) Force(0.0) Base(0.0) in(0.0) my(0.0) district(0.0) makes(0.0) sure(0.0) that(0.0) the(0.0) equipment(0.0) and(0.0) personnel(0.0) that(0.0) our(0.0) military(0.0) needs(0.0) are(0.0) delivered(0.0) 
+quickly(0.0) and(0.0) safely(0.0) around(0.0) the(0.0) world(0.0) .(0.0) They(0.0) 're(0.0) the(0.0) world(0.0) 's(0.0) first(0.0) responder(0.0) when(0.0) disaster(1.0) strikes(0.0) .(0.0) Thirty-two(0.0) hundred(0.0) 
+civilians(1.0) will(0.0) be(0.0) furloughed(1.0) beginning(0.0) next(0.0) week(0.0) .(0.0) They(0.0) will(0.0) have(0.0) a(0.0) loss(0.0) of(0.0) some(0.0) $(0.0) 30(0.0) million(0.0) of(0.0) income(1.0) 
+over(0.0) the(0.0) next(0.0) 6(0.0) months(0.0) .(0.0) Near(0.0) Marysville(1.0) ,(0.0) California(1.0) ,(0.0) Beale(1.0) Air(0.0) Force(0.0) Base(0.0) operates(0.0) an(0.0) intelligence(0.0) ,(0.0) surveillance(0.0) 
+,(0.0) and(0.0) reconnaissance(0.0) mission(0.0) that(0.0) supplies(0.0) our(0.0) Nation(1.0) 's(0.0) military(0.0) with(0.0) timely(0.0) information(0.0) to(0.0) save(0.0) American(0.0) lives(0.0) on(0.0) the(0.0) battlefield(0.0) 
+.(0.0) Fourteen(0.0) hundred(0.0) civilians(1.0) will(0.0) be(0.0) furloughed(1.0) ,(0.0) with(0.0) $(0.0) 13(0.0) million(0.0) in(0.0) lost(0.0) wages(1.0) .(0.0) Families(1.0) and(0.0) their(0.0) income(1.0) 
+are(0.0) important(0.0) .(0.0) But(0.0) so(0.0) is(0.0) national(1.0) security(0.0) ,(0.0) which(0.0) will(0.0) be(0.0) compromised(0.0) by(0.0) sequestration(1.0) .(0.0) Yuba(0.0) City(0.0) ,(0.0) one(0.0) 
+of(0.0) the(0.0) major(0.0) places(0.0) in(0.0) the(0.0) United(0.0) States(0.0) prone(0.0) to(0.0) flood(1.0) problems(0.0) ,(0.0) will(0.0) see(0.0) their(0.0) critical(0.0) levee(1.0) protection(1.0) that(0.0) 
+the(0.0) Army(0.0) Corps(0.0) of(0.0) Engineers(0.0) is(0.0) working(0.0) on(0.0) delayed(0.0) and(0.0) not(0.0) completed(0.0) for(0.0) next(0.0) winter(0.0) 's(0.0) floods(1.0) .(0.0) The(0.0) University(0.0) 
+of(0.0) California-Davis(1.0) will(0.0) similarly(0.0) be(0.0) harmed(0.0) .(0.0) It(0.0) 's(0.0) time(0.0) to(0.0) end(0.0) sequestration(1.0) ,(0.0) and(0.0) I(0.0) ask(0.0) unanimous(1.0) consent(0.0) that(0.0) 
+H.R(0.0) .(0.0) 699(0.0) be(0.0) brought(0.0) up(0.0) for(0.0) a(0.0) vote(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+California	communities	sequestration	
+
+disaster	
+civilians	furloughed	income	
+Marysville	California	Beale	
+Nation	
+civilians	furloughed	wages	Families	income	
+national	sequestration	
+flood	levee	protection	
+floods	
+California-Davis	sequestration	unanimous	
+
+
+reads % = 0.10822510822510822

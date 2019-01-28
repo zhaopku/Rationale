@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+The(0.0) gentleman(0.0) ,(0.0) I(0.0) think(1.0) ,(0.0) would(1.0) agree(1.0) that(0.0) ,(0.0) pursuant(1.0) to(0.0) the(0.0) language(0.0) ,(0.0) the(0.0) cart(1.0) can(0.0) not(0.0) get(0.0) there(0.0) 
+without(0.0) the(0.0) horse(0.0) .(0.0) What(0.0) I(0.0) mean(1.0) by(0.0) that(0.0) is(0.0) the(0.0) process(1.0) that(0.0) the(0.0) gentleman(0.0) referred(0.0) to(0.0) is(0.0) required(0.0) by(0.0) 
+this(0.0) bill(0.0) .(0.0) The(0.0) gentleman(0.0) is(0.0) correct(0.0) obviously(1.0) ;(0.0) the(0.0) cart(1.0) ,(0.0) as(0.0) he(0.0) says(1.0) ,(0.0) is(0.0) before(1.0) the(0.0) horse(0.0) 
+,(0.0) they(0.0) both(0.0) have(0.0) to(0.0) get(0.0) there(0.0) or(0.0) this(0.0) project(0.0) does(0.0) not(1.0) go(0.0) forward(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+think	would	agree	pursuant	cart	
+mean	process	
+obviously	cart	says	before	
+not	
+
+reads % = 0.15789473684210525

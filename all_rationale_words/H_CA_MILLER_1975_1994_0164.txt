@@ -1,0 +1,40 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) ,(0.0) too(0.0) ,(0.0) am(0.0) very(0.0) disturbed(0.0) that(0.0) the(0.0) DeFazio(1.0) amendment(1.0) was(0.0) not(0.0) allowed(0.0) to(0.0) be(0.0) made(0.0) in(0.0) order(0.0) 
+under(0.0) this(0.0) rule(1.0) .(0.0) We(0.0) had(0.0) an(0.0) opportunity(0.0) to(0.0) address(0.0) the(0.0) concerns(0.0) of(0.0) the(0.0) economy(1.0) in(0.0) California(1.0) and(0.0) elsewhere(0.0) in(0.0) 
+the(0.0) country(1.0) by(0.0) reducing(1.0) the(0.0) price(0.0) of(0.0) timber(1.0) or(0.0) lumber(0.0) to(0.0) the(0.0) home(0.0) building(0.0) industry(1.0) and(0.0) to(0.0) others(0.0) and(0.0) to(0.0) 
+address(0.0) the(0.0) question(0.0) of(0.0) workers(1.0) in(0.0) the(0.0) northwest(0.0) and(0.0) to(0.0) realize(0.0) what(0.0) this(0.0) country(1.0) has(0.0) done(0.0) in(0.0) trying(0.0) to(0.0) settle(0.0) 
+the(0.0) northwest(0.0) dispute(0.0) and(0.0) bringing(0.0) the(0.0) settlement(0.0) of(0.0) that(0.0) onto(0.0) Federal(1.0) lands(1.0) which(0.0) would(0.0) reduce(0.0) the(0.0) cut(1.0) and(0.0) ,(0.0) therefore(0.0) 
+,(0.0) we(0.0) were(0.0) hoping(0.0) that(0.0) some(0.0) of(0.0) the(0.0) private(0.0) companies(0.0) would(0.0) assist(0.0) us(0.0) in(0.0) putting(0.0) that(0.0) timber(0.0) onto(0.0) the(0.0) market(0.0) 
+so(0.0) that(0.0) those(0.0) mills(1.0) could(0.0) stay(0.0) open(0.0) in(0.0) Oregon(1.0) and(0.0) Washington(1.0) .(0.0) And(0.0) we(0.0) could(0.0) realize(0.0) the(0.0) benefits(1.0) elsewhere(0.0) in(0.0) 
+the(0.0) country(1.0) in(0.0) lower(0.0) lumber(1.0) prices(1.0) .(0.0) This(0.0) is(0.0) good(0.0) for(0.0) the(0.0) home(0.0) builders(0.0) .(0.0) It(0.0) is(0.0) good(0.0) for(0.0) the(0.0) 
+real(0.0) estate(0.0) industry(0.0) .(0.0) It(0.0) is(0.0) good(0.0) for(0.0) the(0.0) carpenters(1.0) .(0.0) It(0.0) is(0.0) good(0.0) for(0.0) the(0.0) laborers(1.0) and(0.0) people(0.0) who(0.0) 
+work(0.0) in(0.0) that(0.0) field(0.0) .(0.0) It(0.0) is(0.0) good(0.0) for(0.0) the(0.0) people(0.0) who(0.0) are(0.0) trying(0.0) to(0.0) find(0.0) jobs(0.0) in(0.0) small(0.0) mills(1.0) 
+,(0.0) and(0.0) it(0.0) is(0.0) very(0.0) good(0.0) for(0.0) the(0.0) American(0.0) economy(1.0) .(0.0) But(0.0) unfortunately(0.0) ,(0.0) it(0.0) was(0.0) not(0.0) allowed(0.0) in(0.0) .(0.0) 
+We(0.0) should(0.0) vote(1.0) against(0.0) this(0.0) rule(1.0) for(0.0) that(0.0) reason(0.0) .(0.0) As(0.0) has(0.0) already(0.0) been(0.0) pointed(0.0) out(0.0) here(0.0) ,(0.0) this(0.0) is(0.0) 
+the(0.0) only(0.0) commodity(1.0) ,(0.0) the(0.0) only(0.0) subject(0.0) matter(0.0) of(0.0) this(0.0) entire(0.0) bill(1.0) where(0.0) we(0.0) can(0.0) offer(0.0) no(0.0) amendment(1.0) ,(0.0) no(0.0) 
+discussion(0.0) of(0.0) this(0.0) ,(0.0) because(0.0) of(0.0) the(0.0) nature(0.0) of(0.0) this(0.0) closed(0.0) rule(1.0) .(0.0) It(0.0) ought(1.0) to(0.0) be(0.0) voted(1.0) against(0.0) .(0.0) 
+The(0.0) minority(1.0) leader(0.0) ought(0.0) to(0.0) vote(1.0) with(0.0) me(0.0) because(0.0) I(0.0) have(0.0) supported(0.0) open(0.0) rules(1.0) all(0.0) the(0.0) time(0.0) .(0.0) I(0.0) have(0.0) 
+been(0.0) on(0.0) the(0.0) floor(0.0) under(0.0) an(0.0) open(0.0) rule(1.0) longer(0.0) than(0.0) any(0.0) member(0.0) in(0.0) history(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+DeFazio	amendment	
+rule	economy	California	
+country	reducing	timber	industry	
+workers	country	
+Federal	lands	cut	
+
+mills	Oregon	Washington	benefits	
+country	lumber	prices	
+carpenters	laborers	
+mills	
+economy	
+vote	rule	
+commodity	bill	amendment	
+rule	ought	voted	
+minority	vote	rules	
+rule	
+
+reads % = 0.11708860759493671

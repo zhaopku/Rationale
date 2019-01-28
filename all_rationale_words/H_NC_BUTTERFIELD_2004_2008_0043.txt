@@ -1,0 +1,24 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) three(0.0) members(0.0) of(0.0) the(0.0) Army(0.0) National(0.0) Guard(0.0) 's(0.0) 1132nd(0.0) Military(0.0) Police(0.0) Company(0.0) based(0.0) in(0.0) Rocky(0.0) Mount(0.0) ,(0.0) North(0.0) 
+Carolina(0.0) ,(0.0) were(0.0) recently(0.0) killed(0.0) in(0.0) support(0.0) of(0.0) our(0.0) Operation(0.0) Iraqi(0.0) Freedom(0.0) after(0.0) an(0.0) improvised(0.0) explosive(0.0) device(0.0) detonated(0.0) near(0.0) their(0.0) 
+vehicle(0.0) .(0.0) Twenty-seven-year(0.0) old(0.0) Sergeant(0.0) David(0.0) B(0.0) .(0.0) ``(0.0) Blake(0.0) ''(0.0) Williams(0.0) ,(0.0) of(0.0) Tarboro(1.0) ,(0.0) North(0.0) Carolina(0.0) ,(0.0) was(0.0) 
+from(0.0) my(0.0) district(0.0) .(0.0) He(0.0) was(0.0) serving(0.0) a(0.0) second(0.0) tour(0.0) of(0.0) duty(0.0) in(0.0) Iraq(0.0) ,(0.0) and(0.0) was(0.0) recently(0.0) awarded(0.0) a(0.0) 
+second(0.0) Army(0.0) Commendation(0.0) Medal(0.0) for(0.0) his(0.0) exceptional(0.0) service(0.0) during(0.0) combat(0.0) duty(0.0) .(0.0) A(0.0) few(0.0) moments(0.0) ago(0.0) ,(0.0) Madam(0.0) Speaker(1.0) ,(0.0) 
+I(0.0) spoke(0.0) to(0.0) Susan(0.0) Legett(1.0) Williams(1.0) ,(0.0) the(0.0) mother(0.0) ,(0.0) and(0.0) Mary(0.0) Beth(1.0) Williams(1.0) ,(0.0) the(0.0) sister(0.0) ,(0.0) to(0.0) express(0.0) 
+not(0.0) only(0.0) sympathy(0.0) from(0.0) the(0.0) Congress(0.0) of(0.0) the(0.0) United(0.0) States(0.0) of(0.0) America(0.0) but(0.0) to(0.0) express(0.0) appreciation(0.0) from(0.0) a(0.0) grateful(0.0) Nation(1.0) 
+.(0.0) May(0.0) God(0.0) bless(0.0) the(0.0) entire(0.0) Williams(0.0) family(0.0) during(0.0) this(0.0) difficult(0.0) time(0.0) in(0.0) their(0.0) lives(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+Tarboro	
+
+Speaker	
+Legett	Williams	Beth	Williams	
+Nation	
+
+
+reads % = 0.044585987261146494

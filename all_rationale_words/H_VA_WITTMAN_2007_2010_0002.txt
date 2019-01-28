@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) 'm(0.0) hearing(0.0) loud(0.0) and(0.0) clear(0.0) from(0.0) people(0.0) of(0.0) America(1.0) 's(0.0) First(0.0) District(0.0) in(0.0) Virginia(1.0) that(0.0) this(0.0) health(1.0) 
+care(0.0) bill(1.0) before(0.0) us(0.0) will(0.0) not(0.0) reduce(1.0) costs(1.0) ,(0.0) will(0.0) not(0.0) increase(1.0) access(0.0) ,(0.0) and(0.0) is(0.0) full(0.0) of(0.0) sweetheart(1.0) ,(0.0) 
+backroom(1.0) deals(0.0) that(0.0) they(0.0) find(0.0) highly(0.0) objectionable(1.0) and(0.0) that(0.0) now(0.0) we(0.0) are(0.0) proposing(1.0) to(0.0) put(0.0) this(0.0) bill(1.0) through(0.0) without(0.0) having(0.0) 
+to(0.0) directly(0.0) vote(1.0) on(0.0) the(0.0) bill(1.0) .(0.0) That(0.0) also(0.0) makes(0.0) them(0.0) mad(0.0) .(0.0) Let(0.0) me(0.0) tell(0.0) you(0.0) what(0.0) they(0.0) 're(0.0) 
+saying(0.0) .(0.0) Jimmy(0.0) from(0.0) Yorktown(1.0) says(1.0) ,(0.0) ``(0.0) We(0.0) are(0.0) very(0.0) concerned(0.0) with(0.0) the(0.0) direction(0.0) congressional(1.0) leadership(0.0) is(0.0) taking(0.0) health(1.0) 
+care(0.0) reform(1.0) .(0.0) It(0.0) is(0.0) apparent(0.0) Congress(0.0) is(0.0) not(0.0) listening(0.0) to(0.0) the(0.0) American(0.0) public(1.0) .(0.0) We(0.0) understand(0.0) the(0.0) need(0.0) to(0.0) 
+address(0.0) health(1.0) care(0.0) reform(1.0) .(0.0) However(0.0) ,(0.0) Congress(0.0) must(0.0) include(0.0) fiscal(0.0) responsibility(0.0) in(0.0) any(0.0) reform(1.0) legislation(1.0) .(0.0) Congress(0.0) needs(0.0) to(0.0) 
+listen(0.0) to(0.0) the(0.0) American(0.0) voter(1.0) and(0.0) taxpayer(1.0) instead(0.0) of(0.0) holding(0.0) our(0.0) views(1.0) in(0.0) contempt(1.0) .(0.0) ''(0.0) There(0.0) are(0.0) many(0.0) other(0.0) 
+people(0.0) from(0.0) the(0.0) First(0.0) District(0.0) that(0.0) have(0.0) very(0.0) similar(0.0) views(0.0) .(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) vote(1.0) ``(0.0) no(0.0) .(0.0) 
+''(0.0) Let(0.0) 's(0.0) listen(0.0) to(0.0) the(0.0) American(0.0) people(0.0) ,(0.0) listen(0.0) to(0.0) their(0.0) concerns(0.0) ,(0.0) and(0.0) do(0.0) the(0.0) right(0.0) thing(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+America	Virginia	health	
+bill	reduce	costs	increase	sweetheart	
+backroom	objectionable	proposing	bill	
+vote	bill	
+Yorktown	says	congressional	health	
+reform	public	
+health	reform	reform	legislation	
+voter	taxpayer	views	contempt	
+vote	
+
+
+
+reads % = 0.14427860696517414

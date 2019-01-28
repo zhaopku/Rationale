@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(1.0) .(0.0) I(0.0) would(1.0) like(0.0) to(0.0) conclude(0.0) by(0.0) thanking(0.0) all(0.0) of(0.0) those(0.0) 
+who(1.0) have(0.0) participated(1.0) this(0.0) evening(1.0) as(0.0) well(0.0) as(0.0) some(0.0) of(0.0) our(0.0) colleagues(1.0) who(0.0) were(0.0) unable(1.0) to(0.0) actually(1.0) physically(0.0) be(0.0) here(0.0) 
+but(0.0) who(0.0) have(0.0) prepared(1.0) their(0.0) statements(1.0) for(0.0) our(0.0) colleague(0.0) ,(0.0) a(0.0) giant(0.0) of(0.0) the(0.0) legislature(1.0) ,(0.0) a(0.0) man(1.0) who(0.0) warmed(0.0) 
+our(0.0) hearts(1.0) ,(0.0) who(0.0) broke(0.0) our(0.0) hearts(1.0) when(0.0) he(0.0) died(0.0) ,(0.0) someone(1.0) who(0.0) was(0.0) never(0.0) petty(1.0) ,(0.0) always(0.0) modest(1.0) but(0.0) 
+always(0.0) a(0.0) leader(1.0) ,(0.0) always(0.0) someone(0.0) who(0.0) could(0.0) make(0.0) America(0.0) proud(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+time	would	
+who	participated	evening	colleagues	unable	actually	
+prepared	statements	legislature	man	
+hearts	hearts	someone	petty	modest	
+leader	
+
+reads % = 0.1935483870967742

@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) to(0.0) continue(0.0) this(0.0) question(0.0) of(0.0) :(0.0) Where(0.0) are(0.0) the(0.0) jobs(0.0) ?(0.0) The(0.0) gentleman(0.0) who(0.0) spoke(0.0) just(0.0) 
+before(0.0) me(0.0) is(0.0) from(0.0) Michigan(1.0) ,(0.0) where(0.0) their(0.0) unemployment(1.0) is(0.0) upwards(0.0) of(0.0) 14(0.0) percent(0.0) .(0.0) Oregon(1.0) 's(0.0) unemployment(1.0) rate(1.0) is(0.0) 
+now(0.0) over(0.0) 12.2(0.0) percent(0.0) and(0.0) is(0.0) second(0.0) only(0.0) to(0.0) Michigan(1.0) .(0.0) Our(0.0) basic(0.0) industries(1.0) have(0.0) been(0.0) shut(0.0) down(0.0) .(0.0) My(0.0) 
+part(0.0) of(0.0) the(0.0) State(0.0) ,(0.0) by(0.0) Federal(1.0) policy(1.0) ,(0.0) prevents(1.0) us(0.0) from(0.0) even(0.0) harvesting(1.0) burned(0.0) dead(0.0) trees(0.0) in(0.0) a(0.0) timely(0.0) 
+manner(0.0) from(0.0) our(0.0) Federal(1.0) forest(0.0) lands(0.0) and(0.0) accessing(0.0) our(0.0) resources(0.0) .(0.0) Now(0.0) along(0.0) comes(0.0) legislation(1.0) that(0.0) says(0.0) if(0.0) you(0.0) take(0.0) 
+woody(0.0) biomass(1.0) off(0.0) Federal(1.0) land(1.0) and(0.0) use(0.0) it(0.0) to(0.0) make(0.0) new(0.0) ,(0.0) clean(0.0) ,(0.0) efficient(0.0) energy(1.0) ,(0.0) if(0.0) it(0.0) comes(0.0) 
+up(0.0) as(0.0) certain(0.0) types(0.0) of(0.0) stands(0.0) ,(0.0) it(0.0) does(0.0) n't(0.0) count(0.0) .(0.0) It(0.0) 's(0.0) not(0.0) renewable(1.0) .(0.0) So(0.0) the(0.0) jobs(0.0) 
+that(0.0) would(0.0) go(0.0) with(0.0) the(0.0) creation(0.0) of(0.0) that(0.0) were(0.0) really(0.0) diminished(0.0) or(0.0) were(0.0) taken(0.0) away(0.0) fully(0.0) by(0.0) the(0.0) cap-and-tax(1.0) legislation(1.0) 
+,(0.0) which(0.0) we(0.0) know(0.0) is(0.0) going(0.0) to(0.0) cost(1.0) 1(0.0) million(0.0) or(0.0) 2(0.0) million(0.0) jobs(1.0) in(0.0) this(0.0) great(0.0) State(1.0) of(0.0) ours(0.0) 
+.(0.0) I(0.0) was(0.0) out(0.0) in(0.0) John(0.0) Day(0.0) and(0.0) Nyssa(0.0) and(0.0) Burns(0.0) this(0.0) weekend(0.0) and(0.0) Baker(0.0) City(0.0) .(0.0) Everywhere(0.0) I(0.0) went(0.0) 
+at(0.0) town(0.0) meetings(0.0) ,(0.0) the(0.0) rooms(0.0) were(0.0) full(0.0) ,(0.0) and(0.0) people(0.0) were(0.0) asking(0.0) ,(0.0) What(0.0) are(0.0) they(0.0) doing(0.0) to(0.0) us(0.0) 
+in(0.0) Washington(1.0) ?(0.0) Where(0.0) are(0.0) the(0.0) jobs(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+
+Michigan	unemployment	Oregon	unemployment	rate	
+Michigan	industries	
+Federal	policy	prevents	harvesting	
+Federal	legislation	
+biomass	Federal	land	energy	
+renewable	
+cap-and-tax	legislation	
+cost	jobs	State	
+
+
+Washington	
+
+reads % = 0.10480349344978165

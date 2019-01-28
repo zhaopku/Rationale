@@ -1,0 +1,18 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) would(0.0) say(0.0) to(0.0) my(0.0) good(0.0) friend(0.0) that(0.0) after(0.0) conferring(0.0) with(0.0) our(0.0) leadership(0.0) ,(0.0) we(0.0) indeed(0.0) were(0.0) prepared(0.0) to(0.0) 
+accept(0.0) the(0.0) gentleman(0.0) 's(0.0) amendment(1.0) .(0.0) I(0.0) understand(0.0) it(0.0) is(0.0) precisely(0.0) the(0.0) same(0.0) language(0.0) that(0.0) is(0.0) in(0.0) the(0.0) Senate(1.0) .(0.0) 
+Therefore(0.0) ,(0.0) it(0.0) would(0.0) be(0.0) my(0.0) hope(0.0) and(0.0) intention(0.0) to(0.0) accept(0.0) the(0.0) Senate(0.0) 's(0.0) version(0.0) of(0.0) the(0.0) language(0.0) ,(0.0) which(0.0) 
+would(0.0) then(0.0) conform(0.0) with(0.0) what(0.0) the(0.0) gentleman(0.0) are(0.0) attempting(0.0) to(0.0) do(0.0) .(0.0) I(0.0) regret(0.0) that(0.0) our(0.0) colleagues(0.0) on(0.0) the(0.0) other(0.0) 
+side(0.0) have(0.0) indicated(0.0) their(0.0) opposition(1.0) to(0.0) including(0.0) the(0.0) name(0.0) ``(0.0) Washington(1.0) ''(0.0) in(0.0) the(0.0) name(0.0) of(0.0) the(0.0) airport(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+amendment	Senate	
+
+
+opposition	Washington	
+
+reads % = 0.04

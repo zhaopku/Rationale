@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) you(1.0) know(0.0) ,(0.0) this(0.0) budget(0.0) of(0.0) the(0.0) President(1.0) taxes(1.0) too(0.0) much(0.0) ,(0.0) it(0.0) borrows(1.0) too(0.0) much(0.0) ,(0.0) and(0.0) it(0.0) 
+spends(1.0) way(1.0) too(0.0) much(0.0) money(0.0) .(0.0) And(0.0) the(0.0) focus(0.0) of(0.0) the(0.0) White(0.0) House(0.0) should(0.0) be(0.0) on(1.0) what(0.0) they(0.0) can(0.0) do(0.0) 
+to(0.0) generate(0.0) economic(0.0) growth(1.0) rather(0.0) than(0.0) finding(0.0) new(1.0) ways(0.0) to(0.0) tax(1.0) our(1.0) families(0.0) ,(0.0) hardworking(0.0) families(1.0) .(0.0) And(0.0) we(0.0) hear(0.0) 
+they(0.0) are(0.0) going(0.0) to(0.0) be(0.0) taxed(1.0) to(0.0) the(0.0) tune(0.0) of(0.0) $(0.0) 1.9(0.0) trillion(1.0) --(0.0) with(0.0) a(0.0) ``(0.0) T(0.0) ''(0.0) --(0.0) 
+in(0.0) new(1.0) taxes(1.0) .(0.0) My(0.0) constituents(1.0) have(0.0) had(0.0) enough(0.0) of(0.0) this(0.0) economic(0.0) abuse(1.0) and(0.0) so(0.0) have(0.0) our(0.0) children(0.0) and(0.0) our(0.0) 
+grandchildren(1.0) .(0.0) They(0.0) do(0.0) n't(0.0) want(1.0) the(0.0) government(1.0) to(0.0) continue(0.0) to(0.0) spend(1.0) money(0.0) they(0.0) have(0.0) not(0.0) made(0.0) for(0.0) programs(1.0) that(0.0) 
+they(0.0) do(0.0) not(1.0) want(0.0) .(0.0) They(0.0) are(0.0) worried(1.0) about(0.0) the(0.0) future(0.0) of(0.0) their(0.0) small(0.0) businesses(1.0) ,(0.0) they(0.0) are(0.0) worried(1.0) about(0.0) 
+their(0.0) retirement(1.0) plans(1.0) ,(0.0) and(0.0) they(0.0) are(0.0) worried(1.0) about(0.0) the(0.0) future(0.0) of(0.0) those(0.0) children(1.0) and(0.0) grandchildren(1.0) .(0.0) So(1.0) Republicans(1.0) are(0.0) 
+offering(0.0) an(0.0) alternative(0.0) that(0.0) will(0.0) be(0.0) there(0.0) to(0.0) help(0.0) ensure(0.0) our(0.0) economic(0.0) prosperity(1.0) .(0.0) I(0.0) would(1.0) encourage(1.0) all(0.0) of(0.0) my(0.0) 
+colleagues(1.0) to(0.0) support(0.0) this(0.0) alternative(0.0) because(0.0) Americans(0.0) deserve(0.0) more(0.0) than(0.0) wasteful(1.0) government(1.0) spending(1.0) at(0.0) unprecedented(0.0) levels(0.0) .(0.0) They(0.0) deserve(0.0) freedom(1.0) 
+and(0.0) economic(1.0) prosperity(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+you	President	taxes	borrows	
+spends	way	on	
+growth	new	tax	our	families	
+taxed	trillion	
+new	taxes	constituents	abuse	
+grandchildren	want	government	spend	programs	
+not	worried	businesses	worried	
+retirement	plans	worried	children	grandchildren	So	Republicans	
+prosperity	would	encourage	
+colleagues	wasteful	government	spending	freedom	
+economic	prosperity	
+
+reads % = 0.2146341463414634

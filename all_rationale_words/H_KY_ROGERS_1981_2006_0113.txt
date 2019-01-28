@@ -1,0 +1,34 @@
+This is from a Republican
+----- below is the original text -----
+The(0.0) Acting(0.0) CHAIRMAN(0.0) .(0.0) The(0.0) Clerk(0.0) will(0.0) designate(0.0) the(0.0) amendment(0.0) .(0.0) The(0.0) text(0.0) of(0.0) the(0.0) amendment(0.0) is(0.0) as(0.0) follows(0.0) :(0.0) Amendment(0.0) 
+offered(0.0) by(0.0) Mr.(0.0) Rogers(1.0) of(0.0) Kentucky(0.0) :(0.0) Sec.__(0.0) .(0.0) The(0.0) amounts(0.0) otherwise(0.0) provided(0.0) by(0.0) this(0.0) Act(0.0) are(0.0) revised(0.0) by(0.0) increasing(0.0) 
+the(0.0) amount(0.0) made(0.0) available(0.0) for(0.0) ``(0.0) United(0.0) States(0.0) Secret(0.0) Service(0.0) --(0.0) Protection(0.0) ,(0.0) Administration(0.0) ,(0.0) and(0.0) Training(0.0) ''(0.0) and(0.0) the(0.0) 
+amount(0.0) made(0.0) available(0.0) for(0.0) ``(0.0) Federal(0.0) Emergency(0.0) Management(0.0) Agency(0.0) --(0.0) Readiness(0.0) ,(0.0) Mitigation(0.0) ,(0.0) Response(0.0) ,(0.0) and(0.0) Recovery(0.0) ''(0.0) by(0.0) 
+$(0.0) 2,000,000(0.0) respectively(0.0) .(0.0) The(0.0) Acting(0.0) CHAIRMAN(0.0) .(0.0) Pursuant(0.0) to(0.0) the(0.0) order(0.0) of(0.0) the(0.0) House(0.0) of(0.0) May(0.0) 25(0.0) ,(0.0) 2006(0.0) 
+,(0.0) the(0.0) gentleman(0.0) from(0.0) Kentucky(1.0) ((0.0) Mr.(0.0) Rogers(1.0) )(0.0) and(0.0) a(0.0) Member(0.0) opposed(0.0) each(0.0) will(0.0) control(0.0) 5(0.0) minutes(0.0) .(0.0) The(0.0) 
+Chair(0.0) recognizes(0.0) the(0.0) gentleman(0.0) from(0.0) Kentucky(1.0) .(0.0) Now(0.0) that(0.0) pretty(0.0) much(0.0) everything(0.0) is(0.0) said(0.0) and(0.0) done(0.0) on(0.0) this(0.0) appropriations(1.0) bill(0.0) 
+,(0.0) according(0.0) to(0.0) CBO(1.0) scoring(0.0) ,(0.0) the(0.0) bill(1.0) is(0.0) now(0.0) under(0.0) its(0.0) section(0.0) 302(0.0) ((0.0) b(0.0) )(0.0) allocation(0.0) by(0.0) $(0.0) 
+4(0.0) million(0.0) .(0.0) My(0.0) amendment(1.0) simply(0.0) takes(0.0) that(0.0) $(0.0) 4(0.0) million(0.0) and(0.0) makes(0.0) modest(0.0) funding(1.0) adjustments(1.0) to(0.0) two(0.0) accounts(0.0) :(0.0) 
+FEMA(1.0) 's(0.0) Readiness(0.0) Mitigation(0.0) Response(0.0) and(0.0) Recovery(1.0) program(0.0) and(0.0) the(0.0) U.S.(0.0) Secret(0.0) Services(0.0) Protection(0.0) Administration(0.0) and(0.0) Training(0.0) program(0.0) .(0.0) Mr.(0.0) 
+Chairman(1.0) ,(0.0) the(0.0) FEMA(1.0) dollars(1.0) will(0.0) be(0.0) used(0.0) to(0.0) continue(0.0) work(0.0) to(0.0) upgrade(0.0) the(0.0) National(0.0) Response(0.0) Plan(0.0) .(0.0) For(0.0) the(0.0) 
+Secret(0.0) Service(0.0) ,(0.0) funds(1.0) will(0.0) be(0.0) used(0.0) to(0.0) support(0.0) critical(0.0) protective(0.0) operations(0.0) .(0.0) This(0.0) amendment(1.0) has(0.0) been(0.0) cleared(0.0) by(0.0) both(0.0) 
+sides(0.0) of(0.0) the(0.0) aisle(0.0) ,(0.0) and(0.0) I(0.0) ask(0.0) that(0.0) it(0.0) be(0.0) agreed(0.0) to(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Rogers	
+
+
+
+Kentucky	Rogers	
+Kentucky	appropriations	
+CBO	bill	
+amendment	funding	adjustments	
+FEMA	Recovery	
+Chairman	FEMA	dollars	
+funds	amendment	
+
+
+reads % = 0.06666666666666667

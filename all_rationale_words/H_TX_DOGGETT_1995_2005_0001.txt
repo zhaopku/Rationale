@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) me(0.0) this(0.0) time(0.0) .(0.0) I(0.0) rise(0.0) to(0.0) join(0.0) my(0.0) colleagues(0.0) in(0.0) paying(1.0) tribute(0.0) 
+to(0.0) an(0.0) extraordinary(0.0) human(0.0) being(0.0) ,(0.0) Bob(0.0) Matsui(1.0) .(0.0) Like(0.0) so(0.0) many(0.0) others(0.0) across(0.0) this(0.0) country(1.0) ,(0.0) the(0.0) celebration(0.0) of(0.0) 
+this(0.0) new(0.0) year(0.0) was(0.0) for(0.0) me(0.0) shaken(0.0) by(0.0) the(0.0) incredibly(0.0) sad(0.0) news(0.0) of(0.0) Bob(0.0) 's(0.0) demise(0.0) .(0.0) I(0.0) awoke(0.0) this(0.0) 
+Sunday(0.0) expecting(0.0) to(0.0) be(0.0) consumed(0.0) with(0.0) the(0.0) challenges(0.0) and(0.0) work(0.0) of(0.0) the(0.0) new(0.0) year(0.0) ,(0.0) only(0.0) to(0.0) be(0.0) stunned(0.0) to(0.0) 
+learn(0.0) of(0.0) the(0.0) passing(0.0) of(0.0) an(0.0) old(0.0) friend(0.0) .(0.0) Libby(0.0) and(0.0) I(0.0) had(0.0) only(0.0) a(0.0) couple(0.0) of(0.0) days(0.0) before(0.0) shared(0.0) 
+the(0.0) beauty(0.0) of(0.0) Bob(0.0) 's(0.0) family(0.0) that(0.0) he(0.0) and(0.0) Doris(0.0) send(0.0) out(0.0) each(0.0) year(0.0) at(0.0) this(0.0) time(0.0) ,(0.0) reflecting(0.0) on(0.0) 
+the(0.0) last(0.0) time(0.0) we(0.0) shared(0.0) a(0.0) meal(0.0) with(0.0) them(0.0) ,(0.0) only(0.0) a(0.0) couple(0.0) weeks(0.0) before(0.0) at(0.0) a(0.0) dinner(0.0) table(0.0) here(0.0) 
+in(0.0) Washington(1.0) ,(0.0) knowing(0.0) of(0.0) the(0.0) pride(0.0) that(0.0) Bob(0.0) felt(0.0) in(0.0) Doris(1.0) '(0.0) professional(0.0) accomplishments(0.0) and(0.0) how(0.0) often(0.0) he(0.0) mentioned(0.0) 
+Doris(0.0) and(0.0) Brian(0.0) and(0.0) his(0.0) family(0.0) in(0.0) conversations(0.0) on(0.0) subjects(0.0) here(0.0) in(0.0) Washington(1.0) .(0.0) There(0.0) is(0.0) a(0.0) Greek(0.0) proverb(0.0) :(0.0) 
+``(0.0) The(0.0) measure(1.0) of(0.0) man(0.0) is(0.0) what(0.0) he(0.0) does(0.0) with(0.0) power(0.0) .(0.0) ''(0.0) By(0.0) this(0.0) measure(1.0) ,(0.0) or(0.0) really(0.0) by(0.0) 
+any(0.0) measure(1.0) ,(0.0) Bob(0.0) was(1.0) indeed(0.0) a(0.0) great(0.0) human(0.0) being(0.0) .(0.0) Although(0.0) he(0.0) had(0.0) significant(0.0) power(0.0) here(0.0) in(0.0) Washington(1.0) as(0.0) 
+a(0.0) senior(0.0) Member(0.0) of(0.0) this(0.0) House(0.0) ,(0.0) he(0.0) was(0.0) viewed(0.0) as(0.0) a(0.0) soft-spoken(0.0) advocate(0.0) for(0.0) the(0.0) things(0.0) that(0.0) he(0.0) believed(0.0) 
+in(0.0) and(0.0) the(0.0) people(0.0) he(0.0) represented(0.0) .(0.0) And(0.0) yet(0.0) on(0.0) more(0.0) than(0.0) one(0.0) occasion(0.0) I(0.0) have(0.0) seen(0.0) his(0.0) temper(0.0) flare(0.0) 
+at(0.0) injustice(1.0) .(0.0) Bob(0.0) was(0.0) a(0.0) great(0.0) and(0.0) principled(1.0) policymaker(1.0) .(0.0) He(0.0) gave(0.0) a(0.0) great(0.0) deal(0.0) of(0.0) thought(0.0) to(0.0) the(0.0) 
+issues(0.0) and(0.0) the(0.0) decisions(0.0) before(0.0) he(0.0) spoke(0.0) ,(0.0) and(0.0) often(0.0) took(0.0) positions(0.0) that(0.0) were(0.0) not(0.0) popular(0.0) but(0.0) that(0.0) represented(0.0) his(0.0) 
+principles(0.0) .(0.0) He(0.0) also(0.0) was(0.0) willing(0.0) to(0.0) grow(0.0) and(0.0) adjust(0.0) those(0.0) principles(1.0) ,(0.0) certainly(0.0) being(0.0) committed(0.0) to(0.0) more(0.0) trade(1.0) ,(0.0) 
+and(0.0) yet(0.0) over(0.0) time(0.0) he(0.0) recognized(0.0) that(0.0) trade(1.0) was(0.0) more(0.0) than(0.0) just(0.0) counting(0.0) how(0.0) many(0.0) widgets(0.0) crossed(0.0) country(1.0) lines(0.0) ,(0.0) 
+but(0.0) how(0.0) that(0.0) trade(1.0) affects(0.0) people(0.0) .(0.0) He(0.0) was(0.0) committed(0.0) to(0.0) not(0.0) only(0.0) Social(0.0) Security(0.0) but(0.0) to(0.0) retirement(1.0) security(0.0) ,(0.0) 
+and(0.0) took(0.0) a(0.0) very(0.0) forceful(0.0) stance(1.0) in(0.0) this(0.0) House(0.0) about(0.0) the(0.0) concern(0.0) that(0.0) we(0.0) do(0.0) more(0.0) to(0.0) help(0.0) those(0.0) who(0.0) 
+have(0.0) no(0.0) retirement(0.0) ,(0.0) not(0.0) just(0.0) to(0.0) add(0.0) to(0.0) the(0.0) retirement(1.0) of(0.0) those(0.0) who(0.0) already(0.0) have(0.0) much(0.0) .(0.0) It(0.0) was(0.0) 
+my(0.0) good(0.0) fortune(0.0) to(0.0) serve(0.0) with(0.0) him(0.0) on(0.0) the(0.0) Committee(0.0) on(0.0) Ways(0.0) and(0.0) Means(0.0) ,(0.0) to(0.0) come(0.0) on(0.0) that(0.0) committee(0.0) 
+as(0.0) a(0.0) new(0.0) member(0.0) and(0.0) find(0.0) Bob(0.0) as(0.0) someone(0.0) that(0.0) I(0.0) could(0.0) turn(0.0) to(0.0) when(0.0) I(0.0) had(0.0) a(0.0) problem(0.0) for(0.0) 
+personal(0.0) advice(0.0) and(0.0) always(0.0) get(0.0) a(0.0) thoughtful(0.0) hearing(0.0) and(0.0) sound(0.0) advice(0.0) .(0.0) While(0.0) his(0.0) passing(0.0) is(0.0) most(0.0) premature(1.0) ,(0.0) we(0.0) 
+can(0.0) only(0.0) seek(0.0) to(0.0) renew(0.0) our(0.0) strength(0.0) inspired(0.0) by(0.0) his(0.0) very(0.0) strong(0.0) example(0.0) ,(0.0) to(0.0) remember(0.0) the(0.0) causes(0.0) that(0.0) he(0.0) 
+championed(1.0) and(0.0) how(0.0) he(0.0) championed(1.0) them(0.0) ,(0.0) and(0.0) to(0.0) be(0.0) strengthened(0.0) in(0.0) our(0.0) efforts(1.0) by(0.0) his(0.0) spirit(0.0) and(0.0) his(0.0) 
+
+
+----- below are rationale words -----
+
+paying	
+Matsui	country	
+
+
+
+
+
+Washington	Doris	
+Washington	
+measure	measure	
+measure	was	Washington	
+
+
+injustice	principled	policymaker	
+
+principles	trade	
+trade	country	
+trade	retirement	
+stance	
+retirement	
+
+
+premature	
+
+championed	championed	efforts	
+
+reads % = 0.052

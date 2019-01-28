@@ -1,0 +1,54 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) am(0.0) pleased(0.0) that(0.0) the(0.0) gentleman(0.0) from(0.0) the(0.0) State(0.0) of(0.0) Washington(1.0) is(0.0) concerned(0.0) about(0.0) the(0.0) expanding(0.0) Federal(1.0) bureaucracy(1.0) ,(0.0) and(0.0) I(0.0) 
+look(0.0) forward(0.0) to(0.0) working(0.0) with(0.0) him(0.0) to(0.0) make(0.0) sure(0.0) that(0.0) our(0.0) Federal(1.0) Government(1.0) does(0.0) not(0.0) grow(0.0) at(0.0) fast(0.0) of(0.0) a(0.0) 
+pace(0.0) because(0.0) when(0.0) it(0.0) does(0.0) it(0.0) makes(0.0) us(0.0) less(0.0) competitive(0.0) ,(0.0) but(0.0) the(0.0) issue(0.0) here(0.0) is(0.0) whether(0.0) we(0.0) should(0.0) divert(0.0) 
+money(1.0) to(0.0) the(0.0) issue(0.0) that(0.0) the(0.0) gentleman(0.0) would(0.0) like(0.0) to(0.0) have(0.0) it(0.0) diverted(1.0) to(0.0) .(0.0) $(0.0) 260(0.0) million(0.0) is(0.0) a(0.0) 
+lot(0.0) of(0.0) money(1.0) .(0.0) There(0.0) has(0.0) been(0.0) a(0.0) lot(0.0) of(0.0) preparation(0.0) in(0.0) the(0.0) allocation(1.0) of(0.0) the(0.0) money(1.0) that(0.0) has(0.0) come(0.0) 
+to(0.0) the(0.0) subcommittee(0.0) and(0.0) to(0.0) the(0.0) full(0.0) Committee(0.0) of(0.0) Appropriations(0.0) .(0.0) Difficult(0.0) decisions(0.0) were(0.0) made(0.0) ,(0.0) but(0.0) more(0.0) importantly(0.0) ,(0.0) 
+this(0.0) money(1.0) that(0.0) would(0.0) be(0.0) taken(0.0) from(0.0) the(0.0) GSA(1.0) is(0.0) to(0.0) address(0.0) a(0.0) very(0.0) important(0.0) ,(0.0) vital(0.0) need(0.0) in(0.0) our(0.0) 
+society(1.0) today(0.0) ,(0.0) and(0.0) that(0.0) is(0.0) the(0.0) immigration(1.0) challenge(0.0) that(0.0) we(0.0) are(0.0) facing(0.0) today(0.0) .(0.0) Many(0.0) of(0.0) you(0.0) have(0.0) received(0.0) 
+bricks(0.0) in(0.0) your(0.0) office(0.0) from(0.0) constituents(1.0) .(0.0) Those(0.0) bricks(0.0) represent(0.0) the(0.0) necessity(1.0) of(0.0) building(0.0) a(0.0) stronger(0.0) border(0.0) along(0.0) the(0.0) southern(0.0) 
+part(0.0) of(0.0) this(0.0) country(1.0) .(0.0) This(0.0) money(1.0) that(0.0) is(0.0) being(0.0) diverted(0.0) in(0.0) this(0.0) amendment(1.0) would(1.0) take(0.0) money(1.0) from(0.0) six(0.0) border(1.0) 
+stations(0.0) :(0.0) MCAllen(0.0) ,(0.0) Texas(1.0) ;(0.0) El(0.0) Paso(1.0) ,(0.0) Texas(1.0) ;(0.0) San(1.0) Luis(1.0) ,(0.0) New(0.0) Mexico(1.0) ;(0.0) Columbus(1.0) ,(0.0) New(1.0) 
+Mexico(1.0) ;(0.0) Calexico(0.0) ,(0.0) California(1.0) ;(0.0) and(0.0) Nogales(1.0) ,(0.0) Arizona(0.0) .(0.0) People(0.0) are(0.0) coming(0.0) across(0.0) because(0.0) we(0.0) have(0.0) not(0.0) established(0.0) 
+our(0.0) own(0.0) borders(0.0) in(0.0) this(0.0) country(1.0) .(0.0) We(0.0) have(0.0) not(0.0) established(0.0) our(0.0) southern(1.0) border(0.0) .(0.0) These(0.0) six(0.0) border(0.0) stations(0.0) will(0.0) 
+help(0.0) do(0.0) this(0.0) establishment(1.0) of(0.0) our(0.0) borders(1.0) .(0.0) Now(0.0) ,(0.0) there(0.0) is(0.0) always(0.0) something(0.0) that(0.0) people(0.0) feel(0.0) like(0.0) is(0.0) a(0.0) 
+higher(0.0) priority(1.0) ,(0.0) but(0.0) today(0.0) ,(0.0) if(0.0) you(0.0) stop(0.0) the(0.0) first(0.0) 12(0.0) people(0.0) on(0.0) Main(0.0) Street(0.0) ,(0.0) America(0.0) ,(0.0) and(0.0) 
+ask(0.0) them(0.0) do(0.0) what(0.0) you(0.0) want(0.0) with(0.0) this(0.0) $(0.0) 260(0.0) million(0.0) going(0.0) to(0.0) this(0.0) Federal(1.0) housing(1.0) project(0.0) or(0.0) do(0.0) you(0.0) 
+want(0.0) it(0.0) to(0.0) go(0.0) to(0.0) the(0.0) border(0.0) to(0.0) stop(0.0) the(0.0) illegal(1.0) flow(1.0) of(0.0) immigrants(1.0) coming(0.0) in(0.0) ,(0.0) I(0.0) guarantee(0.0) you(0.0) 
+that(0.0) all(0.0) of(0.0) them(0.0) will(0.0) say(0.0) to(0.0) you(0.0) ,(0.0) let(0.0) us(0.0) stop(0.0) the(0.0) flow(0.0) of(0.0) illegal(1.0) immigrants(1.0) into(0.0) the(0.0) country(1.0) 
+.(0.0) First(0.0) ,(0.0) let(0.0) us(0.0) take(0.0) care(1.0) of(0.0) the(0.0) ones(0.0) that(0.0) are(0.0) here(0.0) ,(0.0) find(0.0) a(0.0) system(0.0) that(0.0) incorporates(0.0) them(0.0) 
+into(0.0) our(0.0) work(0.0) needs(0.0) and(0.0) into(0.0) our(0.0) culture(1.0) ,(0.0) and(0.0) then(0.0) let(0.0) us(0.0) move(0.0) on(0.0) to(0.0) something(0.0) else(0.0) .(0.0) Let(0.0) 
+us(0.0) move(0.0) on(0.0) to(0.0) the(0.0) needs(0.0) that(0.0) we(0.0) have(0.0) in(0.0) meeting(0.0) the(0.0) challenges(0.0) of(0.0) those(0.0) who(0.0) are(0.0) lower(0.0) income(1.0) groups(0.0) 
+.(0.0) This(0.0) amendment(1.0) would(1.0) take(0.0) away(0.0) from(0.0) that(0.0) goal(0.0) of(0.0) fixing(1.0) our(0.0) borders(1.0) ,(0.0) and(0.0) I(0.0) would(0.0) suggest(0.0) that(0.0) we(0.0) 
+vote(1.0) it(0.0) down(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Washington	Federal	bureaucracy	
+Federal	Government	
+
+money	diverted	
+money	allocation	money	
+
+money	GSA	
+society	immigration	
+constituents	necessity	
+country	money	amendment	would	money	border	
+Texas	Paso	Texas	San	Luis	Mexico	Columbus	New	
+Mexico	California	Nogales	
+country	southern	
+establishment	borders	
+priority	
+Federal	housing	
+illegal	flow	immigrants	
+illegal	immigrants	country	
+care	
+culture	
+income	
+amendment	would	fixing	borders	
+vote	
+
+reads % = 0.12134831460674157

@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) was(0.0) unavoidably(0.0) detained(0.0) during(0.0) rollcall(0.0) vote(1.0) No(0.0) .(0.0) 460(0.0) .(0.0) Had(0.0) I(0.0) been(0.0) present(0.0) I(0.0) would(0.0) have(0.0) voted(0.0) 
+``(0.0) yes(0.0) .(0.0) ''(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) was(0.0) unavoidably(0.0) detained(0.0) during(0.0) rollcall(0.0) vote(1.0) No(1.0) .(0.0) 461(0.0) .(0.0) Had(0.0) I(0.0) 
+been(0.0) present(0.0) I(0.0) would(0.0) have(0.0) voted(0.0) ``(0.0) yes(0.0) .(0.0) ''(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) was(0.0) unavoidably(0.0) detained(0.0) during(0.0) rollcall(0.0) vote(1.0) 
+No(0.0) .(0.0) 462(0.0) .(0.0) Had(0.0) I(0.0) been(0.0) present(0.0) I(0.0) would(0.0) have(0.0) voted(0.0) ``(0.0) yes(0.0) .(0.0) ''(0.0) 
+
+
+----- below are rationale words -----
+
+vote	
+Speaker	vote	No	
+Speaker	vote	
+
+
+reads % = 0.07792207792207792

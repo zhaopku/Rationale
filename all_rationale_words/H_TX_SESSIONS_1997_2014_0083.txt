@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+MCGovern(0.0) )(0.0) for(0.0) yielding(0.0) to(0.0) me(0.0) ,(0.0) and(0.0) I(0.0) appreciate(0.0) him(0.0) bringing(0.0) this(0.0) issue(0.0) up(0.0) ,(0.0) as(0.0) he(0.0) did(0.0) in(0.0) the(0.0) 
+Rules(0.0) Committee(0.0) at(0.0) the(0.0) time(0.0) of(0.0) the(0.0) hearing(0.0) .(0.0) I(0.0) want(0.0) to(0.0) assure(0.0) the(0.0) gentleman(0.0) and(0.0) each(0.0) of(0.0) the(0.0) Members(0.0) 
+of(0.0) this(0.0) body(0.0) that(0.0) the(0.0) gentleman(0.0) who(0.0) will(0.0) be(0.0) the(0.0) new(0.0) chairman(0.0) of(0.0) the(0.0) committee(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) South(0.0) 
+Carolina(0.0) ((0.0) Mr.(0.0) Gowdy(1.0) )(0.0) ,(0.0) has(0.0) every(0.0) intent(0.0) to(0.0) make(0.0) sure(0.0) that(0.0) his(0.0) work(0.0) ,(0.0) the(0.0) assignments(0.0) that(0.0) will(0.0) 
+be(0.0) given(0.0) as(0.0) they(0.0) move(0.0) forward(0.0) ,(0.0) including(0.0) travel(0.0) ,(0.0) will(0.0) be(0.0) done(0.0) on(0.0) a(0.0) fair(0.0) basis(0.0) .(0.0) Mr.(0.0) Gowdy(1.0) 
+is(1.0) aware(1.0) of(0.0) and(0.0) knows(0.0) the(0.0) sensitive(0.0) nature(0.0) of(0.0) not(0.0) only(0.0) the(0.0) investigation(0.0) ,(0.0) but(0.0) also(0.0) how(0.0) this(0.0) will(0.0) be(0.0) 
+handled(0.0) ;(0.0) and(0.0) Mr.(0.0) Gowdy(1.0) ,(0.0) I(0.0) assure(0.0) you(0.0) ,(0.0) is(0.0) very(0.0) prepared(0.0) to(0.0) match(0.0) and(0.0) to(0.0) meet(0.0) the(0.0) Members(0.0) 
+that(0.0) Ms.(0.0) Pelosi(1.0) has(0.0) put(0.0) on(0.0) the(0.0) committee(0.0) ,(0.0) and(0.0) I(0.0) think(0.0) that(0.0) you(0.0) will(0.0) see(0.0) that(0.0) the(0.0) Members(0.0) who(0.0) 
+will(0.0) serve(0.0) as(0.0) a(0.0) result(0.0) of(0.0) the(0.0) Speaker(0.0) appointing(0.0) them(0.0) will(0.0) serve(0.0) with(0.0) honor(0.0) and(0.0) distinction(0.0) and(0.0) will(0.0) work(0.0) well(0.0) 
+and(0.0) fairly(0.0) together(0.0) .(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) asking(0.0) the(0.0) question(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+
+Gowdy	
+Gowdy	
+is	aware	
+Gowdy	
+Pelosi	
+
+
+
+reads % = 0.030927835051546393

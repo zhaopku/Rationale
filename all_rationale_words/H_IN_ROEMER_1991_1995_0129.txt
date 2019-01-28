@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) just(1.0) want(1.0) to(0.0) say(1.0) there(0.0) are(0.0) many(0.0) Governors(0.0) and(0.0) State(0.0) legislators(1.0) in(0.0) favor(1.0) of(0.0) this(0.0) substitute(1.0) .(0.0) 
+The(0.0) National(0.0) Governors'(0.0) Association(1.0) wrote(1.0) ,(0.0) ``(1.0) We(0.0) believe(0.0) the(0.0) provisions(1.0) on(0.0) wetlands(1.0) in(0.0) H.R(0.0) .(0.0) 961(1.0) are(0.0) inconsistent(0.0) with(0.0) 
+the(0.0) Governors(0.0) '(0.0) wetlands(1.0) policy(1.0) in(0.0) several(0.0) important(1.0) respects(1.0) .(0.0) ''(0.0) The(0.0) National(0.0) Conference(0.0) of(0.0) State(1.0) Legislators(1.0) ,(0.0) ``(1.0) We(0.0) 
+could(0.0) not(1.0) support(0.0) the(0.0) bill(0.0) unless(0.0) a(0.0) number(0.0) of(0.0) important(0.0) revisions(1.0) are(0.0) made(0.0) .(0.0) ''(0.0) Finally(0.0) ,(0.0) the(0.0) South(1.0) Carolina(0.0) 
+Department(0.0) of(0.0) Health(0.0) and(0.0) Environmental(0.0) Control(0.0) on(0.0) coastal(1.0) nonpoint(0.0) programs(1.0) ,(0.0) ``(1.0) Significantly(0.0) changing(0.0) this(0.0) portion(0.0) at(0.0) this(0.0) time(0.0) would(1.0) 
+not(0.0) only(0.0) waste(0.0) taxpayer(1.0) money(0.0) ,(0.0) but(0.0) would(1.0) send(0.0) the(0.0) wrong(0.0) message(0.0) .(0.0) ''(0.0) I(0.0) think(1.0) that(0.0) is(0.0) just(1.0) some(0.0) 
+quotes(1.0) from(0.0) a(0.0) number(0.0) of(0.0) States(0.0) '(0.0) legislators(1.0) that(0.0) support(0.0) the(0.0) substitute(1.0) .(0.0) And(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	just	want	say	legislators	favor	substitute	
+Association	wrote	``	provisions	wetlands	961	
+wetlands	policy	important	respects	State	Legislators	``	
+not	revisions	South	
+coastal	programs	``	would	
+taxpayer	would	think	just	
+quotes	legislators	substitute	
+
+reads % = 0.24285714285714285

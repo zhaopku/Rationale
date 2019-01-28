@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) agree(0.0) to(0.0) the(0.0) resolution(1.0) ((0.0) H.(0.0) Res(1.0) .(0.0) 501(0.0) )(0.0) providing(0.0) for(0.0) 
+the(0.0) concurrence(0.0) by(0.0) the(0.0) House(0.0) with(0.0) amendments(0.0) in(0.0) the(0.0) amendment(0.0) of(0.0) the(0.0) Senate(0.0) to(0.0) H.R(0.0) .(0.0) 3971(0.0) .(0.0) The(0.0) Clerk(0.0) 
+read(0.0) as(0.0) follows(0.0) :(0.0) H.(0.0) Res(0.0) .(0.0) 501(0.0) Resolved(0.0) ,(0.0) That(0.0) ,(0.0) upon(0.0) the(0.0) adoption(0.0) of(0.0) this(0.0) resolution(0.0) ,(0.0) the(0.0) 
+House(0.0) shall(0.0) be(0.0) considered(0.0) to(0.0) have(0.0) taken(0.0) from(0.0) the(0.0) Speaker's(0.0) table(0.0) the(0.0) bill(0.0) H.R(0.0) .(0.0) 3971(0.0) ,(0.0) with(0.0) the(0.0) Senate(0.0) 
+amendment(0.0) thereto(0.0) ,(0.0) and(0.0) to(0.0) have(0.0) concurred(0.0) in(0.0) the(0.0) Senate(0.0) amendment(0.0) to(0.0) the(0.0) bill(0.0) with(0.0) the(0.0) following(0.0) amendments(0.0) :(0.0) In(0.0) 
+lieu(0.0) of(0.0) the(0.0) matter(0.0) proposed(0.0) to(0.0) be(0.0) inserted(0.0) by(0.0) the(0.0) amendment(1.0) of(0.0) the(0.0) Senate(0.0) to(0.0) the(0.0) bill(0.0) ,(0.0) insert(0.0) the(0.0) 
+following(0.0) :(0.0) SECTION(0.0) 1(0.0) .(0.0) SHORT(0.0) TITLE(0.0) .(0.0) This(0.0) Act(0.0) may(0.0) be(0.0) cited(0.0) as(0.0) the(0.0) ``(0.0) QI(0.0) ,(0.0) TMA(1.0) ,(0.0) 
+and(0.0) Abstinence(1.0) Programs(0.0) Extension(0.0) and(0.0) Hurricane(0.0) Katrina(0.0) Unemployment(1.0) Relief(0.0) Act(0.0) of(0.0) 2005(0.0) ''(0.0) .(0.0) TITLE(0.0) I(0.0) --(0.0) HEALTH(0.0) PROVISIONS(0.0) SEC(0.0) 
+.(0.0) 101(0.0) .(0.0) EXTENSION(0.0) OF(0.0) QUALIFIED(0.0) INDIVIDUAL(0.0) ((0.0) QI(0.0) )(0.0) PROGRAM(0.0) .(0.0) ((0.0) a(0.0) )(0.0) Through(0.0) September(0.0) 2007.(0.0) --(0.0) Section(0.0) 
+1902(0.0) ((0.0) a(0.0) )(0.0) ((0.0) 10(0.0) )(0.0) ((0.0) E(0.0) )(0.0) ((0.0) iv(0.0) )(0.0) of(0.0) the(0.0) Social(0.0) Security(0.0) Act(0.0) ((0.0) 42(0.0) 
+U.S.C(0.0) .(0.0) 1396a(0.0) ((0.0) a(0.0) )(0.0) ((0.0) 10(0.0) )(0.0) ((0.0) E(0.0) )(0.0) ((0.0) iv(0.0) )(0.0) )(0.0) is(0.0) amended(0.0) by(0.0) striking(0.0) 
+``(0.0) September(0.0) 2005(0.0) ''(0.0) and(0.0) inserting(0.0) ``(0.0) September(0.0) 2007(0.0) ''(0.0) .(0.0) ((0.0) b(0.0) )(0.0) Extending(0.0) Total(0.0) Amount(0.0) Available(0.0) for(0.0) Allocation.(0.0) 
+--(0.0) Section(0.0) 1933(0.0) ((0.0) g(0.0) )(0.0) of(0.0) such(0.0) Act(0.0) ((0.0) 42(0.0) U.S.C(0.0) .(0.0) 1396u-3(0.0) ((0.0) g(0.0) )(0.0) )(0.0) is(0.0) amended(0.0) 
+--(0.0) ((0.0) 1(0.0) )(0.0) in(0.0) paragraph(0.0) ((0.0) 2(0.0) )(0.0) --(0.0) ((0.0) A(0.0) )(0.0) by(0.0) striking(0.0) ``(0.0) and(0.0) ''(0.0) at(0.0) the(0.0) 
+end(0.0) of(0.0) subparagraph(0.0) ((0.0) B(0.0) )(0.0) ;(0.0) ((0.0) B(0.0) )(0.0) by(0.0) striking(0.0) the(0.0) period(0.0) at(0.0) the(0.0) end(0.0) of(0.0) subparagraph(0.0) ((0.0) 
+C(0.0) )(0.0) and(0.0) inserting(0.0) a(0.0) semicolon(0.0) ;(0.0) and(0.0) ((0.0) C(0.0) )(0.0) by(0.0) adding(0.0) at(0.0) the(0.0) end(0.0) the(0.0) following(0.0) new(0.0) subparagraphs(0.0) 
+:(0.0) ``(0.0) ((0.0) D(0.0) )(0.0) for(0.0) the(0.0) period(0.0) that(0.0) begins(0.0) on(0.0) October(0.0) 1(0.0) ,(0.0) 2005(0.0) ,(0.0) and(0.0) ends(0.0) on(0.0) December(0.0) 
+31(0.0) ,(0.0) 2005(0.0) ,(0.0) the(0.0) total(0.0) allocation(0.0) amount(0.0) is(0.0) $(0.0) 100,000,000(0.0) ;(0.0) ``(0.0) ((0.0) E(0.0) )(0.0) for(0.0) the(0.0) period(0.0) that(0.0) 
+begins(0.0) on(0.0) January(0.0) 1(0.0) ,(0.0) 2006(0.0) ,(0.0) and(0.0) ends(0.0) on(0.0) September(0.0) 30(0.0) ,(0.0) 2006(0.0) ,(0.0) the(0.0) total(0.0) allocation(0.0) amount(0.0) is(0.0) 
+$(0.0) 300,000,000(0.0) ;(0.0) ``(0.0) ((0.0) F(0.0) )(0.0) for(0.0) the(0.0) period(0.0) that(0.0) begins(0.0) on(0.0) October(0.0) 1(0.0) ,(0.0) 2006(0.0) ,(0.0) and(0.0) ends(0.0) 
+on(0.0) December(0.0) 31(0.0) ,(0.0) 2006(0.0) ,(0.0) the(0.0) total(0.0) allocation(0.0) amount(0.0) is(0.0) $(0.0) 100,000,000(0.0) ;(0.0) and(0.0) ``(0.0) ((0.0) G(0.0) )(0.0) for(0.0) 
+the(0.0) period(0.0) that(0.0) begins(0.0) on(0.0) January(0.0) 1(0.0) ,(0.0) 2007(0.0) ,(0.0) and(0.0) ends(0.0) on(0.0) September(0.0) 30(0.0) ,(0.0) 2007(0.0) ,(0.0) the(0.0) total(0.0) 
+allocation(0.0) amount(0.0) is(0.0) $(0.0) 300,000,000(0.0) .(0.0) ''(0.0) ;(0.0) and(0.0) ((0.0) 2(0.0) )(0.0) in(0.0) paragraph(0.0) ((0.0) 3(0.0) )(0.0) ,(0.0) in(0.0) the(0.0) 
+matter(0.0) preceding(0.0) subparagraph(0.0) ((0.0) A(0.0) )(0.0) ,(0.0) by(0.0) inserting(0.0) ``(0.0) ,(0.0) ((0.0) D(0.0) )(0.0) ,(0.0) or(0.0) ((0.0) F(0.0) )(0.0) ''(0.0) 
+after(0.0) ``(0.0) subparagraph(0.0) ((0.0) B(0.0) )(0.0) ''(0.0) .(0.0) ((0.0) c(0.0) )(0.0) Effective(0.0) Date.(0.0) --(0.0) The(0.0) amendments(0.0) made(0.0) by(0.0) this(0.0) 
+
+
+----- below are rationale words -----
+
+resolution	Res	
+
+
+
+
+amendment	
+TMA	
+Abstinence	Unemployment	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+reads % = 0.012

@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+The(0.0) Clerk(0.0) read(0.0) as(0.0) follows(0.0) :(0.0) Amendment(0.0) offered(0.0) by(0.0) Traficant(1.0) :(1.0) Page(1.0) 7(0.0) ,(0.0) line(0.0) 8(0.0) ,(0.0) insert(0.0) ``(0.0) ,(0.0) with(0.0) 
+particular(0.0) emphasis(0.0) on(0.0) activities(0.0) carried(0.0) out(0.0) pursuant(0.0) to(0.0) section(0.0) 7(0.0) of(0.0) this(0.0) Act(0.0) ''(0.0) after(0.0) ``(0.0) research(0.0) and(0.0) development(0.0) program(0.0) 
+''(0.0) .(0.0) Chairman(0.0) ,(0.0) during(0.0) the(0.0) amendment(0.0) process(0.0) and(0.0) markup(0.0) I(0.0) was(0.0) able(0.0) to(0.0) include(0.0) language(0.0) which(0.0) says(0.0) the(0.0) Secretary(0.0) 
+shall(0.0) ensure(0.0) that(0.0) economic(0.0) benefits(0.0) of(0.0) such(0.0) exchange(0.0) of(0.0) information(0.0) and(0.0) technology(0.0) accrue(0.0) to(0.0) the(0.0) U.S.(0.0) economy(0.0) .(0.0) My(0.0) amendment(1.0) 
+simply(0.0) says(0.0) when(0.0) we(0.0) get(0.0) a(0.0) report(0.0) back(0.0) ,(0.0) as(0.0) this(0.0) bill(1.0) requires(1.0) ,(0.0) that(0.0) it(0.0) would(0.0) give(0.0) some(0.0) emphasis(0.0) 
+to(0.0) in(0.0) fact(0.0) if(0.0) that(0.0) accrual(1.0) of(0.0) benefit(1.0) to(0.0) the(0.0) U.S.(0.0) economy(1.0) has(0.0) occurred(0.0) ,(0.0) and(0.0) give(0.0) us(0.0) some(0.0) information(0.0) 
+in(0.0) that(0.0) regard(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Traficant	:	Page	
+
+
+amendment	
+bill	requires	
+accrual	benefit	economy	
+
+
+reads % = 0.072

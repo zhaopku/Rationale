@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) rise(1.0) ,(0.0) Mr.(1.0) Speaker(1.0) ,(0.0) in(0.0) opposition(1.0) to(0.0) H.R(0.0) .(0.0) 24(1.0) .(0.0) Let(1.0) me(0.0) be(0.0) clear(1.0) .(0.0) I(0.0) support(0.0) transparency(1.0) 
+surrounding(1.0) the(0.0) operations(1.0) of(0.0) the(0.0) Federal(1.0) Reserve(0.0) .(0.0) Transparency(1.0) helps(0.0) ensure(0.0) that(0.0) the(0.0) Federal(1.0) Reserve(0.0) is(0.0) implementing(0.0) policies(1.0) that(0.0) will(0.0) 
+achieve(0.0) the(0.0) objectives(0.0) given(0.0) to(0.0) it(0.0) by(0.0) Congress(0.0) :(1.0) supporting(1.0) maximum(0.0) employment(1.0) ,(0.0) price(0.0) stability(0.0) ,(0.0) and(0.0) moderate(0.0) ,(0.0) long-term(1.0) 
+interest(0.0) rates(0.0) .(0.0) I(0.0) emphasize(1.0) ,(0.0) however(0.0) ,(0.0) that(0.0) the(0.0) Federal(1.0) Reserve(0.0) has(0.0) been(0.0) subject(0.0) to(0.0) audit(0.0) since(0.0) 1978(0.0) .(0.0) 
+Further(1.0) ,(0.0) the(0.0) Dodd-Frank(1.0) Wall(0.0) Street(0.0) Reform(0.0) and(0.0) Consumer(0.0) Protection(0.0) Act(0.0) ,(0.0) which(0.0) I(0.0) supported(1.0) ,(1.0) significantly(1.0) expanded(0.0) the(0.0) authority(0.0) 
+of(0.0) the(0.0) Government(0.0) Accountability(1.0) Office(0.0) to(0.0) examine(0.0) the(0.0) Federal(1.0) Reserve(0.0) 's(0.0) operations(1.0) .(0.0) It(0.0) also(1.0) required(0.0) the(0.0) Federal(1.0) Reserve(0.0) to(0.0) 
+make(0.0) public(0.0) a(0.0) wider(0.0) range(0.0) of(0.0) data(0.0) than(0.0) it(0.0) had(0.0) previously(0.0) disclosed(0.0) .(0.0) For(1.0) example(0.0) ,(0.0) Dodd-Frank(1.0) authorized(1.0) GAO(1.0) to(0.0) 
+begin(0.0) auditing(0.0) discount(0.0) window(0.0) operations(1.0) and(0.0) required(0.0) the(0.0) Federal(1.0) Reserve(0.0) to(0.0) begin(0.0) releasing(0.0) information(0.0) about(0.0) emergency(1.0) credit(0.0) transactions(1.0) and(0.0) discount(0.0) 
+lending(0.0) programs(1.0) .(0.0) Critically(1.0) ,(0.0) however(0.0) ,(0.0) Dodd-Frank(1.0) ensured(0.0) that(0.0) transparency(1.0) surrounding(0.0) the(0.0) Fed(1.0) 's(0.0) operations(1.0) was(0.0) expanded(0.0) in(0.0) a(0.0) 
+way(0.0) that(0.0) would(1.0) not(0.0) compromise(1.0) the(0.0) Fed(1.0) 's(0.0) ability(0.0) to(0.0) review(0.0) and(0.0) alter(0.0) monetary(1.0) policy(1.0) without(0.0) fear(0.0) that(0.0) its(0.0) internal(1.0) 
+deliberations(1.0) would(0.0) be(0.0) made(0.0) public(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) if(0.0) enacted(1.0) ,(0.0) this(0.0) bill(0.0) would(0.0) severely(1.0) curtail(1.0) the(0.0) independence(0.0) that(0.0) 
+has(0.0) been(0.0) a(0.0) hallmark(1.0) for(0.0) the(0.0) Federal(1.0) Reserve(0.0) and(0.0) has(0.0) been(0.0) essential(1.0) to(0.0) its(0.0) ability(0.0) to(0.0) strengthen(0.0) our(0.0) country(1.0) .(0.0) 
+Specifically(1.0) ,(0.0) H.R(0.0) .(0.0) 24(1.0) would(1.0) permit(0.0) GAO(1.0) to(0.0) audit(0.0) the(0.0) communications(0.0) that(0.0) members(1.0) of(0.0) the(0.0) Federal(1.0) Reserve(0.0) 's(0.0) Board(0.0) 
+of(0.0) Governors(0.0) have(0.0) with(0.0) each(0.0) other(0.0) and(0.0) with(0.0) staff(0.0) regarding(0.0) monetary(1.0) policy(1.0) .(0.0) The(0.0) act(0.0) would(1.0) also(1.0) permit(0.0) GAO(0.0) to(0.0) 
+audit(0.0) transactions(1.0) conducted(1.0) under(0.0) the(0.0) direction(0.0) of(0.0) the(0.0) Federal(1.0) Open(1.0) Market(0.0) Committee(0.0) .(0.0) Such(1.0) audits(1.0) ,(0.0) which(0.0) could(0.0) be(0.0) conducted(1.0) 
+on(0.0) an(0.0) almost(0.0) real-time(0.0) basis(1.0) under(0.0) this(0.0) bill(0.0) ,(0.0) could(1.0) have(0.0) a(0.0) chilling(1.0) effect(0.0) on(0.0) the(0.0) Fed(1.0) .(0.0) If(1.0) board(0.0) 
+members(1.0) know(0.0) that(0.0) their(0.0) statements(1.0) may(0.0) become(0.0) public(0.0) ,(0.0) they(0.0) may(0.0) be(0.0) inhibited(1.0) from(0.0) speaking(0.0) candidly(1.0) about(0.0) the(0.0) economic(0.0) trends(1.0) 
+they(0.0) are(0.0) observing(1.0) or(0.0) the(0.0) monetary(1.0) policies(1.0) they(0.0) believe(0.0) would(1.0) best(0.0) respond(1.0) to(0.0) current(0.0) conditions(0.0) .(0.0) Further(0.0) ,(0.0) simply(0.0) by(0.0) 
+requesting(1.0) that(0.0) the(0.0) GAO(1.0) conduct(0.0) certain(1.0) audits(1.0) ,(0.0) Members(0.0) of(0.0) Congress(0.0) could(0.0) seek(0.0) to(0.0) influence(0.0) the(0.0) Fed(1.0) 's(0.0) deliberations(1.0) and(0.0) 
+policy(0.0) decisions(0.0) .(0.0) The(0.0) Federal(1.0) Reserve(0.0) is(0.0) responsible(1.0) for(0.0) stewarding(1.0) monetary(1.0) policies(1.0) that(0.0) will(0.0) support(0.0) our(0.0) Nation(0.0) 's(0.0) long-term(0.0) growth(1.0) 
+.(0.0) We(0.0) should(0.0) expand(0.0) transparency(1.0) surrounding(1.0) the(0.0) Federal(1.0) Reserve(0.0) in(0.0) a(0.0) way(0.0) that(0.0) will(0.0) ensure(0.0) short-term(1.0) political(1.0) considerations(0.0) do(0.0) not(1.0) 
+unduly(1.0) influence(0.0) the(0.0) Federal(1.0) Reserve(0.0) 's(0.0) monetary(1.0) policymaking(1.0) responsibilities(0.0) .(0.0) The(0.0) Oversight(0.0) Committee(0.0) has(0.0) not(1.0) held(0.0) a(0.0) single(1.0) hearing(0.0) or(1.0) 
+heard(1.0) a(0.0) single(1.0) witness(0.0) regarding(0.0) the(0.0) far-reaching(1.0) consequences(0.0) that(0.0) passage(0.0) of(0.0) this(0.0) legislation(0.0) could(0.0) have(0.0) .(0.0) I(0.0) oppose(1.0) this(0.0) legislation(0.0) 
+,(0.0) and(0.0) I(0.0) urge(1.0) Members(0.0) to(0.0) vote(1.0) against(0.0) it(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) reserve(1.0) the(0.0) balance(1.0) of(0.0) my(0.0) time(1.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+rise	Mr.	Speaker	opposition	24	Let	clear	transparency	
+surrounding	operations	Federal	Transparency	Federal	policies	
+:	supporting	employment	long-term	
+emphasize	Federal	
+Further	Dodd-Frank	supported	,	significantly	
+Accountability	Federal	operations	also	Federal	
+For	Dodd-Frank	authorized	GAO	
+operations	Federal	emergency	transactions	
+programs	Critically	Dodd-Frank	transparency	Fed	operations	
+would	compromise	Fed	monetary	policy	internal	
+deliberations	Speaker	enacted	severely	curtail	
+hallmark	Federal	essential	country	
+Specifically	24	would	GAO	members	Federal	
+monetary	policy	would	also	
+transactions	conducted	Federal	Open	Such	audits	conducted	
+basis	could	chilling	Fed	If	
+members	statements	inhibited	candidly	trends	
+observing	monetary	policies	would	respond	
+requesting	GAO	certain	audits	Fed	deliberations	
+Federal	responsible	stewarding	monetary	policies	growth	
+transparency	surrounding	Federal	short-term	political	not	
+unduly	Federal	monetary	policymaking	not	single	or	
+heard	single	far-reaching	oppose	
+urge	vote	Speaker	reserve	balance	time	
+
+
+reads % = 0.26141078838174275

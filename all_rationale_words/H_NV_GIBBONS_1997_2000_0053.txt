@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) yesterday(0.0) the(0.0) White(1.0) House(0.0) announced(0.0) that(0.0) it(0.0) would(0.0) work(0.0) to(0.0) compensate(0.0) the(0.0) victims(1.0) of(0.0) the(0.0) Los(1.0) Alamos(0.0) wildfire(1.0) .(0.0) 
+Well(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) how(0.0) generous(0.0) of(0.0) the(0.0) administration(1.0) to(0.0) compensate(0.0) the(0.0) victims(1.0) of(0.0) a(0.0) wildfire(0.0) which(0.0) its(0.0) own(0.0) 
+agency(0.0) ,(0.0) the(0.0) National(0.0) Park(0.0) Service(0.0) ,(0.0) is(0.0) responsible(0.0) for(0.0) starting(0.0) .(0.0) Of(0.0) course(0.0) ,(0.0) neither(0.0) the(0.0) administration(1.0) or(0.0) the(0.0) 
+Park(0.0) Service(0.0) accepts(0.0) responsibility(0.0) for(0.0) the(0.0) environmental(1.0) disaster(1.0) that(0.0) has(0.0) left(0.0) hundreds(0.0) of(0.0) people(0.0) stranded(0.0) ,(0.0) over(0.0) 400(0.0) homes(0.0) destroyed(0.0) 
+,(0.0) and(0.0) has(0.0) burned(0.0) almost(0.0) 50,000(0.0) acres(0.0) .(0.0) Instead(0.0) ,(0.0) they(0.0) have(0.0) pledged(1.0) compensation(1.0) ,(0.0) which(0.0) will(0.0) ultimately(1.0) cost(1.0) the(0.0) 
+American(0.0) taxpayers(1.0) millions(1.0) of(0.0) dollars(1.0) .(0.0) Meanwhile(0.0) ,(0.0) the(0.0) local(0.0) superintendent(0.0) who(0.0) has(0.0) acknowledged(0.0) responsibility(0.0) for(0.0) igniting(1.0) the(0.0) blaze(0.0) ,(0.0) 
+in(0.0) spite(0.0) of(0.0) adverse(0.0) weather(0.0) warnings(0.0) ,(0.0) was(0.0) given(0.0) a(0.0) paid(0.0) vacation(0.0) .(0.0) They(0.0) might(0.0) as(0.0) well(0.0) have(0.0) said(0.0) congratulations(0.0) 
+.(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) the(0.0) National(0.0) Park(0.0) Service(0.0) and(0.0) its(0.0) personnel(0.0) need(0.0) to(0.0) be(0.0) held(0.0) responsible(0.0) for(0.0) their(0.0) actions(0.0) ,(0.0) 
+especially(0.0) when(0.0) those(0.0) actions(0.0) result(0.0) in(0.0) such(0.0) extensive(0.0) environmental(1.0) devastation(1.0) .(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) administration(1.0) 's(0.0) disgraceful(1.0) inability(0.0) to(0.0) 
+accept(0.0) responsibility(0.0) for(0.0) its(0.0) own(0.0) negligence(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+White	victims	Los	wildfire	
+Speaker	administration	victims	
+administration	
+environmental	disaster	
+pledged	compensation	ultimately	cost	
+taxpayers	millions	dollars	igniting	
+
+Speaker	
+environmental	devastation	administration	disgraceful	
+
+
+reads % = 0.12234042553191489

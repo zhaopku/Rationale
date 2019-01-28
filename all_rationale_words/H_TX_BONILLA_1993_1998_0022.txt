@@ -1,0 +1,16 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) if(0.0) the(0.0) gentleman(0.0) will(0.0) yield(0.0) further(0.0) ,(0.0) the(0.0) earthquake(1.0) did(0.0) cause(0.0) damage(0.0) ,(0.0) enough(0.0) to(0.0) cause(0.0) concern(0.0) out(0.0) in(0.0) 
+the(0.0) West(0.0) Texas(0.0) area(0.0) .(0.0) And(0.0) ,(0.0) as(0.0) the(0.0) gentleman(0.0) knows(0.0) ,(0.0) even(0.0) though(0.0) it(0.0) covers(0.0) vast(0.0) distances(0.0) that(0.0) community(0.0) 
+is(0.0) considered(0.0) 100(0.0) miles(0.0) up(0.0) the(0.0) road(0.0) .(0.0) As(0.0) my(0.0) friend(0.0) knows(0.0) ,(0.0) in(0.0) that(0.0) part(0.0) of(0.0) Texas(1.0) ,(0.0) that(0.0) 
+is(0.0) ,(0.0) in(0.0) fact(0.0) ,(0.0) just(0.0) up(0.0) the(0.0) road(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+earthquake	
+
+Texas	
+
+
+reads % = 0.028169014084507043

@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+1048(1.0) ,(1.0) the(0.0) Welfare(1.0) Reform(0.0) Technical(0.0) Corrections(1.0) Act(0.0) of(0.0) 1997(1.0) .(0.0) This(0.0) legislation(0.0) makes(0.0) a(0.0) number(0.0) of(0.0) technical(0.0) and(0.0) clarifying(0.0) amendments(0.0) 
+to(0.0) the(0.0) Personal(1.0) Responsibility(0.0) and(0.0) Work(0.0) Opportunity(1.0) Reconciliation(0.0) Act(0.0) of(0.0) 1996(0.0) --(0.0) the(1.0) welfare(1.0) reform(0.0) law(1.0) --(0.0) that(0.0) Congress(1.0) passed(0.0) 
+and(0.0) President(0.0) Clinton(1.0) signed(0.0) last(1.0) year(0.0) .(0.0) I(0.0) want(1.0) to(0.0) emphasize(1.0) that(0.0) these(0.0) amendments(1.0) are(0.0) technical(0.0) and(0.0) clarifying(0.0) in(0.0) nature(0.0) 
+and(0.0) do(0.0) not(1.0) change(0.0) or(1.0) undercut(1.0) the(0.0) important(0.0) reforms(1.0) of(0.0) welfare(1.0) that(0.0) we(0.0) made(0.0) last(0.0) year(0.0) .(0.0) A(1.0) number(0.0) of(0.0) 
+the(0.0) provisions(0.0) in(0.0) H.R(0.0) .(0.0) 1048(1.0) fall(0.0) within(1.0) the(0.0) jurisdiction(1.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Education(0.0) and(0.0) the(0.0) Workforce(1.0) .(0.0) Our(0.0) 
+committee(0.0) has(0.0) worked(0.0) very(0.0) closely(0.0) with(0.0) the(0.0) Ways(0.0) and(0.0) Means(0.0) Committee(0.0) in(0.0) putting(0.0) this(0.0) bill(0.0) together(0.0) ,(0.0) and(0.0) I(0.0) want(1.0) 
+to(0.0) thank(0.0) Chairman(1.0) Archer(0.0) and(0.0) Chairman(1.0) Shaw(0.0) and(0.0) their(0.0) staffs(1.0) for(0.0) working(0.0) with(0.0) us(0.0) in(0.0) this(0.0) process(0.0) and(0.0) accommodating(1.0) our(0.0) 
+concerns(0.0) along(1.0) the(0.0) way(1.0) .(0.0) I(0.0) want(1.0) to(0.0) particularly(0.0) highlight(0.0) provisions(0.0) that(0.0) fall(0.0) within(1.0) the(0.0) jurisdiction(1.0) of(0.0) the(0.0) Committee(0.0) on(0.0) 
+Education(0.0) and(0.0) the(0.0) Workforce(1.0) regarding(0.0) mandatory(0.0) work(0.0) requirements(0.0) in(0.0) section(0.0) 105(1.0) ,(0.0) child(0.0) care(0.0) provisions(0.0) in(0.0) title(0.0) VI(0.0) ,(0.0) and(0.0) 
+ERISA(1.0) amendments(0.0) relating(0.0) to(0.0) medical(1.0) child(0.0) support(0.0) orders(1.0) in(0.0) title(0.0) VII(0.0) .(0.0) In(0.0) the(0.0) area(1.0) of(0.0) mandatory(0.0) work(0.0) requirements(0.0) ,(0.0) 
+H.R(0.0) .(0.0) 1048(1.0) makes(0.0) the(0.0) following(0.0) technical(0.0) and(0.0) clarifying(0.0) changes(1.0) :(0.0) First(1.0) ,(0.0) it(0.0) allows(0.0) States(0.0) to(0.0) count(0.0) 2-parent(1.0) families(0.0) 
+in(0.0) which(0.0) one(0.0) parent(0.0) is(0.0) disabled(1.0) as(0.0) a(0.0) 1-parent(1.0) family(0.0) for(0.0) purposes(1.0) of(0.0) calculating(1.0) the(0.0) State(1.0) work(0.0) participation(0.0) rate(0.0) .(0.0) 
+Second(0.0) ,(0.0) it(0.0) clarifies(1.0) that(0.0) States(0.0) may(0.0) exclude(0.0) persons(0.0) covered(0.0) by(0.0) a(0.0) tribal(1.0) work(0.0) program(0.0) from(0.0) their(0.0) calculation(0.0) of(0.0) work(0.0) 
+participation(0.0) rates(0.0) .(0.0) Third(1.0) ,(0.0) it(0.0) allows(0.0) States(0.0) flexibility(0.0) in(0.0) counting(0.0) the(0.0) ours(0.0) of(0.0) work(0.0) by(0.0) each(0.0) parent(0.0) in(0.0) 2-parent(1.0) 
+families(0.0) .(0.0) Fourth(1.0) ,(0.0) it(0.0) amends(1.0) the(0.0) conditions(0.0) under(0.0) which(0.0) States(0.0) may(0.0) count(0.0) up(0.0) to(0.0) 12(0.0) weeks(1.0) of(0.0) job(1.0) search(0.0) 
+as(0.0) meeting(0.0) work(0.0) participation(0.0) requirements(0.0) to(0.0) better(0.0) reflect(0.0) the(0.0) type(0.0) of(0.0) economic(1.0) conditions(0.0) that(0.0) were(0.0) intended(1.0) by(0.0) that(0.0) provision(0.0) of(0.0) 
+the(0.0) welfare(1.0) reform(0.0) law(1.0) .(0.0) Fifth(1.0) ,(0.0) it(0.0) addresses(1.0) the(0.0) work(0.0) participation(0.0) rate(0.0) requirements(0.0) for(0.0) caretaker(1.0) relatives(0.0) for(0.0) children(0.0) under(0.0) 
+age(1.0) 6(0.0) and(0.0) makes(0.0) those(0.0) requirements(1.0) consistent(0.0) with(0.0) those(0.0) for(0.0) parents(0.0) .(0.0) Sixth(1.0) ,(0.0) it(0.0) clarifies(1.0) language(0.0) regarding(0.0) the(0.0) qualifying(0.0) 
+number(0.0) of(0.0) hours(0.0) for(0.0) teenage(0.0) head(0.0) of(0.0) households(1.0) .(0.0) In(0.0) the(0.0) area(1.0) of(0.0) child(0.0) care(0.0) ,(0.0) H.R(0.0) .(0.0) 1048(1.0) makes(0.0) 
+a(0.0) number(0.0) of(0.0) drafting(1.0) clarifications(0.0) to(0.0) the(0.0) funding(1.0) allocation(0.0) language(0.0) of(0.0) the(0.0) welfare(1.0) reform(0.0) law(1.0) .(0.0) In(1.0) addition(0.0) ,(0.0) H.R(0.0) 
+.(0.0) 1048(1.0) repeals(1.0) the(0.0) authorization(0.0) for(0.0) four(0.0) narrowly(0.0) targeted(1.0) child(0.0) care(0.0) programs(1.0) which(0.0) we(0.0) had(0.0) intended(1.0) to(0.0) repeal(1.0) as(0.0) part(0.0) 
+of(0.0) the(0.0) welfare(1.0) reform(0.0) law(1.0) ,(0.0) and(0.0) as(0.0) part(0.0) of(0.0) the(0.0) consolidation(0.0) of(0.0) child(0.0) care(0.0) programs(1.0) in(0.0) that(0.0) law(1.0) .(0.0) 
+Because(0.0) of(0.0) the(0.0) rules(1.0) of(0.0) the(0.0) Senate(1.0) ,(0.0) the(0.0) provisions(0.0) to(0.0) repeal(1.0) these(0.0) programs(1.0) were(0.0) dropped(0.0) from(0.0) last(1.0) year's(1.0) welfare(1.0) 
+reform(0.0) law(1.0) ,(0.0) but(0.0) are(0.0) now(0.0) included(0.0) in(0.0) this(0.0) bill(0.0) .(0.0) Finally(0.0) ,(0.0) title(0.0) VII(0.0) of(0.0) H.R(0.0) .(0.0) 1048(1.0) contains(0.0) 
+four(1.0) changes(1.0) to(0.0) the(0.0) Employee(1.0) Retirement(1.0) Income(0.0) Security(0.0) Act(0.0) [(0.0) ERISA(1.0) ](0.0) ,(0.0) each(0.0) of(0.0) which(0.0) relate(0.0) to(0.0) medical(1.0) 
+
+
+----- below are rationale words -----
+
+,	Welfare	Corrections	1997	
+Personal	Opportunity	the	welfare	law	Congress	
+Clinton	last	want	emphasize	amendments	
+not	or	undercut	reforms	welfare	A	
+1048	within	jurisdiction	Workforce	
+want	
+Chairman	Chairman	staffs	accommodating	
+along	way	want	within	jurisdiction	
+Workforce	105	
+ERISA	medical	orders	area	
+1048	changes	First	2-parent	
+disabled	1-parent	purposes	calculating	State	
+clarifies	tribal	
+Third	2-parent	
+Fourth	amends	weeks	job	
+economic	intended	
+welfare	law	Fifth	addresses	caretaker	
+age	requirements	Sixth	clarifies	
+households	area	1048	
+drafting	funding	welfare	law	In	
+1048	repeals	targeted	programs	intended	repeal	
+welfare	law	programs	law	
+rules	Senate	repeal	programs	last	year's	welfare	
+law	1048	
+four	changes	Employee	Retirement	ERISA	medical	
+
+reads % = 0.204

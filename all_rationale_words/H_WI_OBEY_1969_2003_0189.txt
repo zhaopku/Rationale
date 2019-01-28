@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) think(0.0) the(0.0) gentleman(0.0) 's(0.0) last(0.0) words(0.0) indicate(0.0) the(0.0) validity(0.0) of(0.0) the(0.0) point(0.0) of(0.0) order(0.0) .(0.0) As(0.0) I(0.0) understand(0.0) it(0.0) ,(0.0) 
+under(0.0) the(0.0) gentleman(0.0) 's(0.0) amendment(1.0) ,(0.0) if(0.0) States(0.0) prohibit(1.0) information(0.0) from(0.0) going(0.0) to(0.0) the(0.0) Homeland(1.0) Security(0.0) agency(0.0) ,(0.0) then(0.0) the(0.0) 
+State(0.0) can(0.0) get(0.0) no(0.0) dollars(0.0) under(0.0) this(0.0) act(1.0) .(0.0) My(0.0) understanding(0.0) of(0.0) current(0.0) law(1.0) is(0.0) that(0.0) it(0.0) only(0.0) prohibits(1.0) States(0.0) 
+from(0.0) providing(0.0) information(0.0) to(0.0) the(0.0) INS(1.0) .(0.0) But(0.0) Homeland(1.0) Security(0.0) ,(0.0) as(0.0) the(0.0) gentleman(0.0) from(0.0) Minnesota(1.0) has(0.0) indicated(0.0) ,(0.0) includes(0.0) 
+TSA(1.0) ,(0.0) it(0.0) includes(0.0) the(0.0) Coast(0.0) Guard(0.0) ,(0.0) it(0.0) includes(0.0) Secret(0.0) Service(0.0) ,(0.0) FEMA(1.0) ,(0.0) and(0.0) a(0.0) number(0.0) of(0.0) other(0.0) 
+agencies(1.0) .(0.0) To(0.0) me(0.0) ,(0.0) this(0.0) amendment(1.0) substantially(1.0) expands(0.0) the(0.0) scope(0.0) of(0.0) the(0.0) coverage(0.0) and(0.0) ,(0.0) therefore(0.0) ,(0.0) I(0.0) think(0.0) 
+is(0.0) legislation(1.0) on(0.0) an(0.0) appropriations(1.0) bill(1.0) and(0.0) not(0.0) in(0.0) order(0.0) under(0.0) the(0.0) House(0.0) rules(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+amendment	prohibit	Homeland	
+act	law	prohibits	
+INS	Homeland	Minnesota	
+TSA	FEMA	
+agencies	amendment	substantially	
+legislation	appropriations	bill	
+
+reads % = 0.125

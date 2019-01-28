@@ -1,0 +1,38 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) send(1.0) to(0.0) the(0.0) desk(1.0) a(0.0) privileged(0.0) concurrent(1.0) resolution(0.0) and(0.0) ask(0.0) for(0.0) its(0.0) immediate(0.0) consideration(0.0) .(0.0) The(0.0) Clerk(1.0) read(1.0) 
+the(0.0) concurrent(1.0) resolution(0.0) ,(0.0) as(0.0) follows(1.0) :(0.0) H.(0.0) Con(0.0) .(0.0) Res(1.0) .(1.0) 321(1.0) Resolved(1.0) by(0.0) the(0.0) House(0.0) of(0.0) Representatives(0.0) ((0.0) 
+the(0.0) Senate(1.0) concurring(1.0) )(0.0) ,(0.0) That(0.0) when(0.0) the(0.0) House(0.0) adjourns(1.0) on(0.0) any(1.0) legislative(1.0) day(0.0) from(0.0) Wednesday(1.0) ,(0.0) September(0.0) 29(0.0) ,(0.0) 
+2010(1.0) ,(0.0) through(0.0) Friday(0.0) ,(0.0) October(1.0) 8(0.0) ,(0.0) 2010(1.0) ,(0.0) on(0.0) a(0.0) motion(0.0) offered(1.0) pursuant(1.0) to(0.0) this(0.0) concurrent(1.0) resolution(0.0) by(0.0) 
+its(0.0) Majority(0.0) Leader(1.0) or(1.0) his(0.0) designee(1.0) ,(0.0) it(0.0) stand(1.0) adjourned(1.0) until(0.0) 2(0.0) p.m.(0.0) on(0.0) Monday(0.0) ,(0.0) November(0.0) 15(0.0) ,(0.0) 2010(1.0) 
+,(0.0) or(1.0) until(0.0) the(0.0) time(0.0) of(0.0) any(1.0) reassembly(1.0) pursuant(1.0) to(0.0) section(0.0) 2(0.0) of(0.0) this(0.0) concurrent(1.0) resolution(0.0) ,(0.0) whichever(1.0) occurs(0.0) first(0.0) 
+;(0.0) and(0.0) that(0.0) when(0.0) the(0.0) Senate(1.0) recesses(0.0) or(1.0) adjourns(1.0) on(0.0) any(1.0) day(0.0) from(0.0) Wednesday(0.0) ,(0.0) September(0.0) 29(0.0) ,(0.0) 2010(1.0) ,(0.0) 
+through(0.0) Friday(0.0) ,(0.0) November(0.0) 12(1.0) ,(0.0) 2010(1.0) ,(0.0) on(0.0) a(0.0) motion(0.0) offered(1.0) pursuant(1.0) to(0.0) this(0.0) concurrent(1.0) resolution(0.0) by(0.0) its(0.0) Majority(0.0) 
+Leader(1.0) or(0.0) his(0.0) designee(1.0) ,(0.0) it(0.0) stand(1.0) recessed(1.0) or(1.0) adjourned(1.0) until(0.0) noon(1.0) on(0.0) Monday(0.0) ,(0.0) November(0.0) 15(0.0) ,(0.0) 2010(1.0) ,(0.0) 
+or(1.0) such(0.0) other(0.0) time(0.0) on(0.0) that(0.0) day(0.0) as(0.0) may(0.0) be(0.0) specified(1.0) in(0.0) the(0.0) motion(0.0) to(0.0) recess(1.0) or(1.0) adjourn(0.0) ,(0.0) or(1.0) 
+until(0.0) the(0.0) time(0.0) of(0.0) any(1.0) reassembly(1.0) pursuant(1.0) to(0.0) section(0.0) 2(0.0) of(0.0) this(0.0) concurrent(1.0) resolution(0.0) ,(0.0) whichever(1.0) occurs(0.0) first(0.0) .(0.0) Sec(0.0) 
+.(0.0) 2(1.0) .(1.0) The(0.0) Speaker(1.0) of(0.0) the(0.0) House(0.0) and(0.0) the(0.0) Majority(0.0) Leader(1.0) of(0.0) the(0.0) Senate(1.0) ,(0.0) or(1.0) their(0.0) respective(1.0) designees(1.0) 
+,(0.0) acting(1.0) jointly(0.0) after(0.0) consultation(0.0) with(0.0) the(0.0) Minority(1.0) Leader(1.0) of(0.0) the(0.0) House(0.0) and(0.0) the(0.0) Minority(1.0) Leader(1.0) of(0.0) the(0.0) Senate(1.0) ,(0.0) 
+shall(1.0) notify(1.0) the(0.0) Members(0.0) of(0.0) the(0.0) House(0.0) and(0.0) the(0.0) Senate(1.0) ,(0.0) respectively(0.0) ,(0.0) to(0.0) reassemble(0.0) at(0.0) such(0.0) place(0.0) and(0.0) time(0.0) 
+as(0.0) they(0.0) may(0.0) designate(1.0) if(0.0) ,(0.0) in(0.0) their(0.0) opinion(0.0) ,(0.0) the(0.0) public(0.0) interest(0.0) shall(1.0) warrant(0.0) it(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+send	desk	concurrent	Clerk	read	
+concurrent	follows	Res	.	321	Resolved	
+Senate	concurring	adjourns	any	legislative	Wednesday	
+2010	October	2010	offered	pursuant	concurrent	
+Leader	or	designee	stand	adjourned	2010	
+or	any	reassembly	pursuant	concurrent	whichever	
+Senate	or	adjourns	any	2010	
+12	2010	offered	pursuant	concurrent	
+Leader	designee	stand	recessed	or	adjourned	noon	2010	
+or	specified	recess	or	or	
+any	reassembly	pursuant	concurrent	whichever	
+2	.	Speaker	Leader	Senate	or	respective	designees	
+acting	Minority	Leader	Minority	Leader	Senate	
+shall	notify	Senate	
+designate	shall	
+
+reads % = 0.2751677852348993

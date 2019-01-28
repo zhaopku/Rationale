@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) appreciate(0.0) the(0.0) opportunity(0.0) to(0.0) address(0.0) the(0.0) House(0.0) today(0.0) ,(0.0) and(0.0) I(0.0) wanted(0.0) to(0.0) take(0.0) a(0.0) few(0.0) minutes(0.0) to(0.0) 
+talk(0.0) about(0.0) not(0.0) only(0.0) the(0.0) accomplishments(0.0) of(0.0) this(0.0) Congress(0.0) ,(0.0) but(0.0) also(0.0) to(0.0) talk(0.0) about(0.0) a(0.0) major(0.0) issue(0.0) of(0.0) fairness(1.0) 
+,(0.0) a(0.0) fundamental(1.0) issue(0.0) of(0.0) fairness(1.0) in(0.0) the(0.0) Tax(1.0) Code(1.0) .(0.0) I(0.0) represent(0.0) the(0.0) south(0.0) side(0.0) of(0.0) Chicago(1.0) .(0.0) I(0.0) 
+represent(0.0) the(0.0) south(0.0) suburbs(0.0) and(0.0) Cook(0.0) and(0.0) Will(0.0) ,(0.0) Grundy(1.0) and(0.0) Kankakee(0.0) and(0.0) La(0.0) Salle(0.0) Counties(1.0) .(0.0) This(0.0) is(0.0) a(0.0) 
+very(0.0) ,(0.0) very(0.0) diverse(0.0) district(0.0) of(0.0) city(1.0) and(0.0) suburbs(1.0) and(0.0) country(1.0) .(0.0) The(0.0) message(0.0) that(0.0) I(0.0) have(0.0) heard(0.0) time(0.0) and(0.0) 
+time(0.0) again(0.0) since(0.0) I(0.0) was(0.0) a(0.0) candidate(0.0) for(0.0) Congress(0.0) in(0.0) 1994(1.0) the(0.0) first(0.0) time(0.0) ,(0.0) was(0.0) that(0.0) folks(0.0) back(0.0) home(0.0) 
+want(0.0) us(0.0) to(0.0) look(0.0) for(0.0) solutions(0.0) to(0.0) the(0.0) challenges(0.0) that(0.0) we(0.0) face(0.0) .(0.0) I(0.0) remember(0.0) when(0.0) I(0.0) was(0.0) first(0.0) elected(0.0) 
+in(0.0) 1994(1.0) ,(0.0) we(0.0) wanted(0.0) to(0.0) do(0.0) some(0.0) pretty(0.0) radical(1.0) things(0.0) .(0.0) We(0.0) wanted(0.0) to(0.0) balance(0.0) the(0.0) budget(1.0) ,(0.0) we(0.0) 
+wanted(0.0) to(0.0) reform(1.0) the(0.0) welfare(1.0) system(0.0) ,(0.0) we(0.0) wanted(0.0) to(0.0) pay(1.0) off(0.0) the(0.0) national(1.0) debt(1.0) ,(0.0) we(0.0) wanted(0.0) to(0.0) stop(0.0) 
+the(0.0) raid(1.0) on(0.0) Social(0.0) Security(0.0) and(0.0) Medicare(1.0) .(0.0) We(0.0) were(0.0) called(0.0) radical(0.0) for(0.0) having(0.0) those(0.0) kind(0.0) of(0.0) ideas(0.0) and(0.0) that(0.0) 
+kind(0.0) of(0.0) agenda(1.0) .(0.0) I(0.0) am(0.0) proud(0.0) to(0.0) say(0.0) in(0.0) the(0.0) 6(0.0) past(0.0) years(0.0) that(0.0) this(0.0) Republican(1.0) Congress(1.0) has(1.0) accomplished(1.0) 
+those(1.0) very(0.0) goals(0.0) .(0.0) Not(0.0) only(0.0) have(0.0) we(0.0) balanced(1.0) the(0.0) budget(1.0) 4(0.0) years(0.0) in(0.0) a(0.0) row(0.0) ,(0.0) but(0.0) we(0.0) have(0.0) 
+paid(0.0) down(0.0) almost(0.0) $(0.0) 600(0.0) billion(1.0) of(0.0) the(0.0) national(1.0) debt(1.0) .(0.0) And(0.0) according(0.0) to(0.0) the(0.0) nonpartisan(1.0) Congressional(0.0) Budget(1.0) Office(1.0) ,(0.0) 
+we(0.0) are(0.0) projected(1.0) to(0.0) see(0.0) a(0.0) surplus(0.0) of(0.0) extra(0.0) tax(1.0) revenue(1.0) ,(0.0) a(0.0) tax(1.0) surplus(1.0) of(0.0) almost(1.0) $(0.0) 5.6(0.0) trillion(1.0) 
+over(0.0) the(0.0) next(0.0) 10(0.0) years(0.0) .(0.0) Think(0.0) about(0.0) that(0.0) .(0.0) Our(0.0) Federal(1.0) budget(1.0) this(0.0) year(0.0) is(0.0) $(0.0) 1.9(0.0) trillion(1.0) ,(0.0) 
+but(0.0) over(0.0) the(0.0) next(0.0) 10(0.0) years(0.0) we(0.0) are(0.0) expected(0.0) to(0.0) collect(0.0) $(0.0) 5.6(0.0) trillion(1.0) in(0.0) more(0.0) tax(1.0) revenue(1.0) than(0.0) we(0.0) 
+are(0.0) projected(1.0) to(0.0) spend(1.0) .(0.0) A(0.0) huge(0.0) surplus(1.0) .(0.0) I(0.0) am(0.0) also(0.0) proud(0.0) to(0.0) say(0.0) that(0.0) we(0.0) did(0.0) something(0.0) that(0.0) 
+our(0.0) grandparents(1.0) ,(0.0) many(0.0) seniors(1.0) and(0.0) those(0.0) who(0.0) aspire(0.0) to(0.0) be(0.0) seniors(1.0) have(0.0) complained(0.0) about(0.0) over(0.0) the(0.0) years(0.0) ,(0.0) and(0.0) 
+that(0.0) is(0.0) we(0.0) stopped(0.0) the(0.0) raid(1.0) on(0.0) Social(0.0) Security(0.0) .(0.0) Three(0.0) years(0.0) ago(0.0) ,(0.0) this(0.0) Republican(1.0) Congress(1.0) took(1.0) the(1.0) initiative(1.0) 
+and(1.0) passed(0.0) legislation(1.0) which(1.0) locked(1.0) away(1.0) 100(0.0) percent(0.0) of(0.0) Social(1.0) Security(0.0) for(0.0) Social(0.0) Security(0.0) .(0.0) This(0.0) past(0.0) year(0.0) we(0.0) did(0.0) 
+the(0.0) same(0.0) for(0.0) Medicare(1.0) .(0.0) And(0.0) yesterday(0.0) we(0.0) did(0.0) it(0.0) again(0.0) for(0.0) the(0.0) coming(0.0) budget(1.0) year(0.0) .(0.0) We(0.0) passed(0.0) the(0.0) 
+Social(0.0) Security(0.0) and(0.0) Medicare(1.0) lockbox(1.0) ,(0.0) setting(0.0) aside(0.0) 100(0.0) percent(0.0) of(0.0) the(0.0) Social(0.0) Security(0.0) and(0.0) Medicare(1.0) trust(0.0) fund(1.0) surpluses(1.0) for(0.0) 
+Social(1.0) Security(0.0) and(0.0) Medicare(1.0) to(0.0) use(0.0) those(0.0) dollars(1.0) not(0.0) only(0.0) to(0.0) run(0.0) our(0.0) current(0.0) program(1.0) of(0.0) Social(1.0) Security(0.0) and(0.0) Medicare(1.0) 
+,(0.0) but(0.0) to(0.0) set(0.0) them(0.0) aside(0.0) as(0.0) we(0.0) modernize(1.0) those(0.0) programs(1.0) to(0.0) assure(0.0) that(0.0) Social(0.0) Security(0.0) and(0.0) Medicare(1.0) are(0.0) there(0.0) 
+for(0.0) future(0.0) generations(0.0) .(0.0) When(0.0) it(0.0) comes(0.0) to(0.0) welfare(1.0) reform(1.0) ,(0.0) I(0.0) am(0.0) proud(0.0) to(0.0) say(0.0) that(0.0) we(0.0) reformed(1.0) 
+
+
+----- below are rationale words -----
+
+
+fairness	
+fundamental	fairness	Tax	Code	Chicago	
+Grundy	Counties	
+city	suburbs	country	
+1994	
+
+1994	radical	budget	
+reform	welfare	pay	national	debt	
+raid	Medicare	
+agenda	Republican	Congress	has	accomplished	
+those	balanced	budget	
+billion	national	debt	nonpartisan	Budget	Office	
+projected	tax	revenue	tax	surplus	almost	trillion	
+Federal	budget	trillion	
+trillion	tax	revenue	
+projected	spend	surplus	
+grandparents	seniors	seniors	
+raid	Republican	Congress	took	the	initiative	
+and	legislation	which	locked	away	Social	
+Medicare	budget	
+Medicare	lockbox	Medicare	fund	surpluses	
+Social	Medicare	dollars	program	Social	Medicare	
+modernize	programs	Medicare	
+welfare	reform	reformed	
+
+reads % = 0.172

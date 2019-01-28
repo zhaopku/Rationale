@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Colorado(0.0) [(0.0) Mr.(0.0) Hefley(1.0) ](0.0) for(1.0) yielding(1.0) me(0.0) the(0.0) time(0.0) and(0.0) for(0.0) 
+bringing(0.0) this(0.0) matter(0.0) before(0.0) us(0.0) at(0.0) this(0.0) time(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) it(0.0) is(0.0) most(0.0) regrettable(1.0) that(0.0) we(0.0) have(0.0) come(0.0) 
+to(0.0) this(0.0) juncture(1.0) on(0.0) the(0.0) question(0.0) of(0.0) whether(0.0) United(0.0) States(0.0) armed(1.0) forces(0.0) should(0.0) be(0.0) deployed(0.0) to(0.0) Bosnia(1.0) to(0.0) help(0.0) implement(0.0) 
+a(0.0) peace(0.0) agreement(0.0) .(0.0) Ideally(0.0) we(0.0) would(0.0) not(0.0) be(0.0) voting(0.0) on(0.0) this(0.0) matter(0.0) before(0.0) an(0.0) agreement(0.0) has(0.0) been(0.0) reached(0.0) .(0.0) 
+Ideally(0.0) we(0.0) would(0.0) wait(0.0) until(0.0) an(0.0) agreement(0.0) was(0.0) reached(0.0) ,(0.0) carefully(0.0) consider(0.0) that(0.0) agreement(0.0) ,(0.0) assess(0.0) the(0.0) proposed(1.0) mission(0.0) of(0.0) 
+our(0.0) forces(1.0) ,(0.0) the(0.0) likehood(1.0) that(0.0) our(0.0) forces(1.0) will(0.0) be(0.0) able(0.0) to(0.0) successfully(0.0) accomplish(0.0) that(0.0) mission(1.0) ,(0.0) and(0.0) then(0.0) ,(0.0) 
+after(0.0) careful(0.0) deliberation(0.0) ,(0.0) we(0.0) would(0.0) vote(1.0) on(0.0) whether(0.0) to(0.0) approve(1.0) or(0.0) disapprove(0.0) the(0.0) deployment(0.0) of(0.0) United(0.0) States(0.0) forces(0.0) to(0.0) 
+Bosnia(1.0) to(0.0) help(0.0) implement(0.0) the(0.0) agreement(1.0) .(0.0) Regrettably(0.0) ,(0.0) we(0.0) are(0.0) not(0.0) in(0.0) the(0.0) ideal(0.0) situation(0.0) with(0.0) regard(0.0) to(0.0) Bosnia(1.0) 
+.(0.0) That(0.0) is(0.0) because(0.0) the(0.0) Clinton(1.0) administration(1.0) is(0.0) apparently(0.0) circumventing(1.0) the(0.0) Congress(0.0) in(0.0) its(0.0) determination(0.0) to(0.0) deploy(0.0) up(0.0) to(0.0) 20,000(0.0) 
+of(0.0) our(0.0) armed(1.0) forces(0.0) to(0.0) Bosnia(1.0) .(0.0) The(0.0) administration(1.0) has(0.0) kept(0.0) us(0.0) in(0.0) the(0.0) dark(0.0) about(0.0) the(0.0) negotiations(1.0) in(0.0) Dayton(1.0) 
+.(0.0) They(0.0) have(0.0) been(0.0) evasive(0.0) about(0.0) what(0.0) the(0.0) precise(0.0) mission(1.0) of(0.0) the(0.0) U.S.(0.0) forces(0.0) would(0.0) be(0.0) ,(0.0) particularly(0.0) the(0.0) degree(0.0) 
+to(0.0) which(0.0) our(0.0) forces(1.0) will(0.0) be(0.0) called(0.0) on(0.0) to(0.0) coerce(1.0) the(0.0) parties(0.0) into(0.0) complying(1.0) with(0.0) the(0.0) agreement(0.0) .(0.0) By(0.0) refusing(1.0) 
+to(0.0) talk(0.0) about(0.0) the(0.0) degree(0.0) to(0.0) which(0.0) the(0.0) mission(0.0) will(0.0) be(0.0) one(0.0) of(0.0) Somalia-style(0.0) peace(1.0) enforcement(1.0) rather(0.0) than(0.0) Cyprus-style(0.0) peacekeeping(1.0) 
+,(0.0) they(0.0) have(0.0) precluded(1.0) any(0.0) serious(0.0) consideration(0.0) of(0.0) the(0.0) risk(0.0) that(0.0) this(0.0) mission(1.0) will(0.0) turn(0.0) out(0.0) like(0.0) the(0.0) earlier(0.0) United(0.0) 
+States(0.0) operations(0.0) in(0.0) Somalia(1.0) and(0.0) Lebanon(0.0) ,(0.0) where(0.0) the(0.0) United(0.0) States(0.0) became(0.0) not(0.0) a(0.0) peacekeeper(0.0) ,(0.0) but(0.0) rather(0.0) just(0.0) another(0.0) 
+party(0.0) to(0.0) the(0.0) conflict(1.0) .(0.0) Most(0.0) importantly(0.0) ,(0.0) the(0.0) administration(1.0) has(0.0) declined(0.0) repeated(0.0) invitations(0.0) to(0.0) commit(0.0) that(0.0) the(0.0) Congress(0.0) will(0.0) 
+have(0.0) a(0.0) reasonable(0.0) period(0.0) of(0.0) time(0.0) to(0.0) consider(0.0) whether(0.0) to(0.0) approve(1.0) or(0.0) disapprove(0.0) the(0.0) deployment(0.0) before(0.0) any(0.0) United(0.0) States(0.0) forces(1.0) 
+are(0.0) sent(0.0) to(0.0) Bosnia(1.0) .(0.0) They(0.0) have(0.0) ,(0.0) of(0.0) course(0.0) ,(0.0) hinted(0.0) that(0.0) Congress(0.0) will(0.0) have(0.0) plenty(0.0) of(0.0) time(0.0) to(0.0) 
+act(0.0) .(0.0) They(0.0) have(0.0) told(0.0) us(0.0) not(0.0) to(0.0) worry(0.0) ;(0.0) the(0.0) check(0.0) is(0.0) in(0.0) the(0.0) mail(0.0) .(0.0) But(0.0) ,(0.0) every(0.0) 
+assurance(0.0) we(0.0) have(0.0) been(0.0) given(0.0) has(0.0) been(0.0) carefully(0.0) hedged(0.0) .(0.0) Most(0.0) recently(0.0) ,(0.0) in(0.0) the(0.0) President(1.0) 's(0.0) November(0.0) 13(0.0) letter(0.0) 
+to(0.0) the(0.0) Speaker(0.0) ,(0.0) the(0.0) President(1.0) told(0.0) us(0.0) there(0.0) would(0.0) be(0.0) a(0.0) timely(0.0) opportunity(0.0) for(0.0) Congress(0.0) to(0.0) consider(0.0) and(0.0) act(0.0) 
+,(0.0) but(0.0) then(0.0) he(0.0) went(0.0) on(0.0) to(0.0) say(0.0) in(0.0) the(0.0) next(0.0) sentence(1.0) that(0.0) :(0.0) ``(0.0) However(0.0) ,(0.0) there(0.0) is(0.0) a(0.0) 
+requirement(0.0) for(0.0) some(0.0) early(0.0) prepositioning(1.0) of(0.0) a(0.0) small(0.0) amount(0.0) of(0.0) communications(0.0) and(0.0) other(0.0) support(0.0) personnel(0.0) .(0.0) ''(0.0) We(0.0) have(0.0) tried(0.0) 
+to(0.0) find(0.0) out(0.0) what(0.0) that(0.0) means(0.0) .(0.0) We(0.0) have(0.0) been(0.0) told(0.0) it(0.0) means(0.0) that(0.0) as(0.0) many(0.0) as(0.0) 4,000(0.0) NATO(1.0) personnel(0.0) 
+may(0.0) be(0.0) deployed(0.0) into(0.0) Bosnia(1.0) starting(0.0) about(0.0) 72(0.0) hours(0.0) after(0.0) an(0.0) agreement(0.0) is(0.0) initialed(0.0) in(0.0) Dayton(1.0) ,(0.0) up(0.0) to(0.0) 
+
+
+----- below are rationale words -----
+
+Hefley	for	yielding	
+Speaker	regrettable	
+juncture	armed	Bosnia	
+
+proposed	
+forces	likehood	forces	mission	
+vote	approve	
+Bosnia	agreement	Bosnia	
+Clinton	administration	circumventing	
+armed	Bosnia	administration	negotiations	Dayton	
+mission	
+forces	coerce	complying	refusing	
+peace	enforcement	peacekeeping	
+precluded	mission	
+Somalia	
+conflict	administration	
+approve	forces	
+Bosnia	
+
+President	
+President	
+sentence	
+prepositioning	
+NATO	
+Bosnia	Dayton	
+
+reads % = 0.098

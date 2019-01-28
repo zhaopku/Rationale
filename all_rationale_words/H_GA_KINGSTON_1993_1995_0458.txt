@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+One(0.0) of(0.0) the(0.0) things(0.0) that(0.0) I(0.0) think(0.0) the(0.0) gentleman(0.0) from(0.0) Connecticut(1.0) [(0.0) Mr.(0.0) Shays(1.0) ](0.0) said(1.0) that(1.0) is(1.0) extremely(1.0) important(1.0) and(0.0) 
+I(0.0) wish(0.0) we(0.0) could(0.0) really(0.0) front-page(1.0) bold-type(0.0) your(0.0) words(0.0) about(0.0) the(0.0) warring(1.0) factions(0.0) asking(0.0) for(0.0) our(0.0) troops(1.0) to(0.0) come(0.0) there(0.0) 
+to(0.0) help(0.0) them(0.0) keep(0.0) peace(1.0) .(0.0) Because(0.0) they(0.0) are(0.0) not(0.0) asking(0.0) .(0.0) You(0.0) had(0.0) said(0.0) that(0.0) you(0.0) were(0.0) part(0.0) of(0.0) 
+a(0.0) group(0.0) inviting(0.0) them(0.0) to(0.0) come(0.0) to(0.0) Washington(1.0) and(0.0) assure(0.0) us(0.0) that(0.0) it(0.0) was(0.0) their(0.0) wish(0.0) and(0.0) desire(0.0) to(0.0) have(0.0) 
+American(0.0) troops(0.0) there(0.0) as(0.0) an(0.0) integral(0.0) part(0.0) of(0.0) them(0.0) resolving(0.0) their(0.0) problems(0.0) peacefully(0.0) .(0.0) They(0.0) are(0.0) not(0.0) going(0.0) to(0.0) do(0.0) 
+that(0.0) .(0.0) As(0.0) you(0.0) recall(0.0) in(0.0) Ohio(1.0) last(0.0) week(0.0) ,(0.0) they(0.0) would(0.0) barely(0.0) shake(0.0) hands(0.0) and(0.0) they(0.0) avoided(0.0) eye(0.0) contact(0.0) 
+.(0.0) So(0.0) I(0.0) think(0.0) you(0.0) have(0.0) really(0.0) hit(0.0) something(0.0) very(0.0) key(0.0) to(0.0) this(0.0) whole(0.0) debate(1.0) .(0.0) Are(0.0) we(0.0) thrusting(0.0) our(0.0) 
+troops(1.0) and(0.0) our(0.0) American(0.0) ,(0.0) quote(0.0) ,(0.0) good(0.0) will(0.0) on(0.0) these(0.0) folks(0.0) ,(0.0) or(0.0) are(0.0) they(0.0) saying(0.0) ,(0.0) ``(0.0) We(0.0) 
+ca(0.0) n't(0.0) do(0.0) it(0.0) without(0.0) you(0.0) ''(0.0) ?(0.0) I(0.0) am(0.0) not(0.0) sure(0.0) .(0.0) We(0.0) need(0.0) to(0.0) find(0.0) out(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Connecticut	Shays	said	that	is	extremely	important	
+front-page	warring	troops	
+peace	
+Washington	
+
+Ohio	
+debate	
+troops	
+
+
+reads % = 0.08333333333333333

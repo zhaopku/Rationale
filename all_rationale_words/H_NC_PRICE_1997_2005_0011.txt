@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+Does(0.0) the(0.0) gentleman(0.0) yield(0.0) ?(0.0) I(0.0) spoke(0.0) to(0.0) the(0.0) Raleigh(1.0) Kiwanis(0.0) Club(0.0) just(0.0) as(0.0) tax(0.0) filing(1.0) deadline(1.0) approached(0.0) a(0.0) couple(0.0) of(0.0) 
+weeks(0.0) ago(0.0) and(0.0) said(0.0) something(0.0) about(0.0) the(0.0) alternative(1.0) minimum(0.0) tax(1.0) ,(0.0) that(0.0) if(0.0) the(0.0) Members(0.0) in(0.0) this(0.0) room(0.0) have(0.0) not(0.0) 
+figured(0.0) that(0.0) alternative(1.0) minimum(0.0) tax(1.0) ,(0.0) you(0.0) had(0.0) better(0.0) do(0.0) it(0.0) because(0.0) I(0.0) ,(0.0) for(0.0) one(0.0) ,(0.0) and(0.0) sounds(0.0) like(0.0) 
+the(0.0) gentleman(0.0) from(0.0) South(0.0) Carolina(0.0) ((0.0) Mr.(0.0) Spratt(1.0) )(0.0) had(1.0) the(0.0) same(0.0) experience(0.0) ,(0.0) I(0.0) found(0.0) just(0.0) exactly(0.0) how(0.0) this(0.0) 
+is(0.0) biting(0.0) ,(0.0) and(0.0) there(0.0) were(0.0) many(0.0) heads(0.0) nodding(0.0) in(0.0) that(0.0) room(0.0) .(0.0) This(0.0) alternative(1.0) minimum(0.0) tax(1.0) is(0.0) reaching(0.0) deep(0.0) 
+into(0.0) the(0.0) middle(0.0) class(0.0) .(0.0) And(0.0) as(0.0) the(0.0) gentleman(0.0) says(0.0) ,(0.0) the(0.0) President(1.0) 's(0.0) budget(0.0) takes(0.0) no(0.0) account(0.0) of(0.0) the(0.0) 
+need(0.0) to(0.0) fix(0.0) that(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Raleigh	filing	deadline	
+alternative	tax	
+alternative	tax	
+Spratt	had	
+alternative	tax	
+President	
+
+
+reads % = 0.09523809523809523

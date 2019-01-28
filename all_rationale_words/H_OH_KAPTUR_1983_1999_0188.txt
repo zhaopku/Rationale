@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) the(0.0) distinguished(0.0) gentleman(0.0) from(0.0) Ohio(1.0) for(0.0) yielding(0.0) me(0.0) this(0.0) time(0.0) .(0.0) I(0.0) would(0.0) say(0.0) to(0.0) 
+my(0.0) colleagues(0.0) that(0.0) I(0.0) rise(0.0) in(0.0) opposition(1.0) to(0.0) the(0.0) rule(1.0) and(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) vote(1.0) against(0.0) the(0.0) bill(1.0) 
+.(0.0) For(0.0) me(0.0) ,(0.0) this(0.0) is(0.0) a(0.0) very(0.0) sad(0.0) day(0.0) personally(0.0) ,(0.0) I(0.0) think(0.0) it(0.0) is(0.0) a(0.0) sad(0.0) day(0.0) for(0.0) 
+our(0.0) committee(0.0) ,(0.0) it(0.0) is(0.0) a(0.0) sad(0.0) day(0.0) for(0.0) this(0.0) institution(1.0) ,(0.0) and(0.0) it(0.0) is(0.0) really(0.0) a(0.0) sad(0.0) day(0.0) for(0.0) 
+the(0.0) people(0.0) that(0.0) this(0.0) bill(1.0) is(0.0) meant(0.0) to(0.0) assist(0.0) ,(0.0) the(0.0) farmers(1.0) in(0.0) rural(1.0) communities(0.0) across(0.0) this(0.0) country(1.0) that(0.0) are(0.0) 
+being(0.0) pounded(0.0) by(0.0) the(0.0) lowest(1.0) prices(1.0) in(0.0) the(0.0) last(0.0) decade(0.0) and(0.0) a(0.0) half(0.0) ,(0.0) and(0.0) by(0.0) horrendous(1.0) weather(0.0) conditions(0.0) .(0.0) 
+Now(0.0) ,(0.0) why(0.0) do(0.0) I(0.0) ask(0.0) my(0.0) colleagues(0.0) to(0.0) vote(1.0) against(0.0) the(0.0) rule(1.0) and(0.0) this(0.0) bill(1.0) ?(1.0) I(0.0) believe(0.0) that(0.0) 
+if(0.0) we(0.0) do(0.0) this(0.0) ,(0.0) the(0.0) leadership(0.0) of(0.0) this(0.0) institution(1.0) --(0.0) that(0.0) should(0.0) feel(0.0) very(0.0) bad(0.0) about(0.0) what(0.0) it(0.0) has(0.0) 
+done(0.0) in(0.0) this(0.0) bill(1.0) --(0.0) the(0.0) President(1.0) of(0.0) the(0.0) United(0.0) States(0.0) ,(0.0) and(0.0) the(0.0) rest(0.0) of(0.0) the(0.0) membership(0.0) of(0.0) this(0.0) 
+institution(1.0) will(0.0) do(0.0) what(0.0) is(0.0) necessary(0.0) to(0.0) meet(0.0) the(0.0) needs(0.0) of(0.0) the(0.0) farmers(1.0) and(0.0) rural(1.0) dwellers(0.0) of(0.0) this(0.0) country(1.0) .(0.0) 
+Let(0.0) me(0.0) tell(0.0) my(0.0) colleagues(0.0) what(0.0) the(0.0) process(0.0) has(0.0) done(0.0) over(0.0) the(0.0) last(0.0) week(0.0) and(0.0) a(0.0) half(0.0) .(0.0) I(0.0) have(0.0) 
+been(0.0) here(0.0) 17(0.0) years(0.0) .(0.0) This(0.0) has(0.0) never(0.0) happened(0.0) in(0.0) a(0.0) committee(0.0) on(0.0) which(0.0) I(0.0) have(0.0) served(0.0) .(0.0) Twice(0.0) last(0.0) 
+week(0.0) we(0.0) were(0.0) recessed(0.0) because(0.0) the(0.0) majority(1.0) could(0.0) not(0.0) reach(0.0) agreement(0.0) on(0.0) some(0.0) of(0.0) the(0.0) amendments(1.0) that(0.0) our(0.0) committee(0.0) was(0.0) 
+duly(0.0) debating(0.0) .(0.0) And(0.0) so(0.0) we(0.0) were(0.0) sent(0.0) out(0.0) into(0.0) the(0.0) woods(0.0) ,(0.0) and(0.0) we(0.0) were(0.0) never(0.0) called(0.0) back(0.0) .(0.0) 
+And(0.0) all(0.0) of(0.0) a(0.0) sudden(0.0) the(0.0) deal(0.0) began(0.0) to(0.0) be(0.0) brokered(1.0) in(0.0) the(0.0) offices(0.0) of(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) ((0.0) 
+Mr.(0.0) DeLay(1.0) )(0.0) and(1.0) Speaker(0.0) Hastert(1.0) .(0.0) There(1.0) were(0.0) a(0.0) lot(0.0) of(0.0) special(0.0) interests(1.0) that(0.0) were(0.0) accommodated(0.0) as(0.0) these(0.0) discussions(0.0) 
+ensued(0.0) ,(0.0) but(0.0) the(0.0) truth(0.0) is(0.0) that(0.0) the(0.0) needs(0.0) of(0.0) the(0.0) American(0.0) people(0.0) were(0.0) shelved(0.0) as(0.0) people(0.0) took(0.0) care(0.0) of(0.0) 
+their(0.0) regional(1.0) interests(0.0) .(0.0) I(0.0) do(0.0) not(0.0) have(0.0) a(0.0) problem(0.0) with(0.0) milk(0.0) .(0.0) I(0.0) do(0.0) not(0.0) have(0.0) a(0.0) problem(0.0) with(0.0) 
+citrus(0.0) .(0.0) I(0.0) do(0.0) not(0.0) have(0.0) a(0.0) problem(0.0) with(0.0) hogs(0.0) or(0.0) specialty(0.0) crops(0.0) or(0.0) corn(0.0) or(0.0) wheat(0.0) or(0.0) beans(0.0) .(0.0) 
+But(0.0) the(0.0) issue(0.0) is(0.0) really(0.0) bigger(0.0) than(0.0) that(0.0) .(0.0) The(0.0) issue(0.0) really(0.0) is(0.0) ,(0.0) will(0.0) all(0.0) interests(1.0) of(0.0) this(0.0) country(1.0) 
+get(0.0) a(0.0) fair(0.0) hearing(0.0) in(0.0) the(0.0) normal(0.0) committee(0.0) process(0.0) ?(0.0) That(0.0) has(0.0) not(0.0) happened(0.0) .(0.0) This(0.0) rule(1.0) and(0.0) bill(1.0) were(0.0) 
+discussed(0.0) after(0.0) midnight(0.0) last(0.0) night(0.0) up(0.0) in(0.0) the(0.0) chambers(0.0) here(0.0) .(0.0) Who(0.0) was(0.0) really(0.0) present(0.0) to(0.0) hear(0.0) that(0.0) ?(0.0) And(0.0) 
+members(0.0) of(0.0) our(0.0) committees(1.0) never(0.0) even(0.0) had(0.0) the(0.0) text(0.0) of(0.0) the(0.0) bill(0.0) .(0.0) Now(0.0) ,(0.0) at(0.0) some(0.0) point(0.0) ,(0.0) somebody(0.0) 
+has(0.0) to(0.0) say(0.0) ,(0.0) stop(0.0) ,(0.0) this(0.0) game(0.0) ought(1.0) to(0.0) be(0.0) over(0.0) .(0.0) Members(0.0) of(0.0) our(0.0) committee(0.0) were(0.0) appointed(0.0) in(0.0) 
+good(0.0) faith(0.0) by(0.0) the(0.0) members(0.0) of(0.0) this(0.0) institution(0.0) to(0.0) discharge(0.0) our(0.0) duties(0.0) .(0.0) We(0.0) have(0.0) a(0.0) crisis(0.0) situation(0.0) in(0.0) 
+
+
+----- below are rationale words -----
+
+Ohio	
+opposition	rule	vote	bill	
+
+institution	
+bill	farmers	rural	country	
+lowest	prices	horrendous	
+vote	rule	bill	?	
+institution	
+bill	President	
+institution	farmers	rural	country	
+
+
+majority	amendments	
+
+brokered	
+DeLay	and	Hastert	There	interests	
+
+regional	
+
+interests	country	
+rule	bill	
+
+committees	
+ought	
+
+
+reads % = 0.078

@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) as(0.0) I(0.0) told(0.0) the(0.0) gentleman(0.0) from(0.0) Maryland(1.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Virginia(1.0) ((0.0) Mr.(0.0) Wolf(1.0) )(0.0) has(1.0) been(0.0) very(0.0) 
+much(0.0) aware(0.0) and(0.0) supportive(0.0) of(0.0) these(0.0) kinds(0.0) of(0.0) issues(0.0) ,(0.0) and(0.0) as(0.0) this(0.0) bill(1.0) moves(1.0) to(0.0) conference(0.0) ,(0.0) sometimes(0.0) there(0.0) 
+is(0.0) a(0.0) window(0.0) of(0.0) opportunity(0.0) to(0.0) do(0.0) some(0.0) things(0.0) .(0.0) While(0.0) we(0.0) can(0.0) not(0.0) promise(0.0) what(0.0) the(0.0) end(0.0) result(0.0) will(0.0) 
+be(0.0) ,(0.0) we(0.0) certainly(0.0) promise(0.0) the(0.0) gentleman(0.0) from(0.0) Maryland(1.0) that(0.0) we(0.0) will(0.0) work(0.0) together(0.0) with(0.0) him(0.0) to(0.0) see(0.0) that(0.0) this(0.0) 
+moves(0.0) along(0.0) in(0.0) a(0.0) better(0.0) way(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Maryland	Virginia	Wolf	has	
+bill	moves	
+
+Maryland	
+
+
+reads % = 0.07954545454545454

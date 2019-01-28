@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) this(0.0) afternoon(0.0) with(0.0) my(0.0) colleagues(0.0) in(0.0) the(0.0) Congressional(1.0) Black(1.0) Caucus(1.0) to(0.0) discuss(0.0) what(0.0) I(0.0) hope(0.0) President(0.0) Bush(1.0) 
+will(0.0) address(0.0) this(0.0) evening(0.0) in(0.0) his(0.0) State(0.0) of(0.0) the(0.0) Union(0.0) message(0.0) .(0.0) Specifically(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) would(0.0) like(0.0) 
+to(0.0) place(0.0) President(0.0) Bush's(0.0) speech(1.0) in(0.0) some(0.0) context(0.0) which(0.0) I(0.0) believe(0.0) America(1.0) should(0.0) use(0.0) in(0.0) evaluating(0.0) the(0.0) President(1.0) 's(0.0) address(0.0) 
+.(0.0) We(0.0) can(0.0) all(0.0) agree(0.0) that(0.0) the(0.0) President(1.0) will(0.0) give(0.0) a(0.0) good(0.0) speech(0.0) .(0.0) He(0.0) has(0.0) practiced(0.0) ,(0.0) he(0.0) has(0.0) 
+rehearsed(0.0) and(0.0) he(0.0) will(0.0) do(0.0) a(0.0) good(0.0) job(0.0) .(0.0) However(0.0) ,(0.0) I(0.0) hope(0.0) that(0.0) his(0.0) rhetoric(1.0) will(0.0) match(0.0) actions(1.0) that(0.0) 
+will(0.0) benefit(1.0) all(0.0) Americans(1.0) and(0.0) benefit(1.0) all(0.0) Americans(1.0) soon(0.0) .(0.0) It(0.0) was(0.0) just(0.0) last(0.0) year(0.0) that(0.0) the(0.0) President(1.0) stood(0.0) in(0.0) 
+this(0.0) hallowed(0.0) hall(0.0) and(0.0) set(0.0) forth(0.0) a(0.0) number(0.0) of(0.0) priorities(1.0) that(0.0) were(0.0) to(0.0) guide(0.0) this(0.0) Nation(1.0) throughout(0.0) 2003(0.0) .(0.0) I(0.0) 
+,(0.0) along(0.0) with(0.0) the(0.0) rest(0.0) of(0.0) the(0.0) Nation(1.0) ,(0.0) listened(0.0) very(0.0) intently(0.0) to(0.0) the(0.0) President(1.0) searching(0.0) for(0.0) some(0.0) affirmation(1.0) in(0.0) 
+his(0.0) speech(0.0) of(0.0) the(0.0) principles(1.0) that(0.0) have(0.0) successfully(0.0) guided(0.0) our(0.0) constitutional(1.0) democracy(1.0) thus(0.0) far(0.0) .(0.0) The(0.0) Founding(1.0) Fathers(0.0) of(0.0) the(0.0) 
+United(0.0) States(0.0) understood(0.0) that(0.0) governments(1.0) are(0.0) instituted(1.0) to(0.0) secure(0.0) the(0.0) God-given(1.0) rights(1.0) of(0.0) all(0.0) men(0.0) and(0.0) women(0.0) to(0.0) life(0.0) ,(0.0) 
+liberty(1.0) and(0.0) the(0.0) pursuit(1.0) of(0.0) happiness(0.0) .(0.0) In(0.0) 1976(1.0) ,(0.0) the(0.0) late(0.0) Senator(0.0) Hubert(1.0) Humphrey(1.0) said(1.0) ,(0.0) ``(0.0) The(0.0) moral(1.0) 
+test(0.0) of(0.0) government(1.0) is(0.0) how(0.0) it(0.0) treats(0.0) those(0.0) who(0.0) are(0.0) at(0.0) the(0.0) dawn(0.0) of(0.0) life(0.0) ,(0.0) the(0.0) children(0.0) ;(0.0) those(0.0) 
+who(0.0) are(0.0) in(0.0) the(0.0) twilight(0.0) of(0.0) life(0.0) ,(0.0) the(0.0) aged(0.0) ;(0.0) and(0.0) those(0.0) who(0.0) are(0.0) in(0.0) the(0.0) shadow(0.0) of(0.0) life(0.0) 
+,(0.0) the(0.0) sick(0.0) ,(0.0) the(0.0) needy(1.0) and(0.0) the(0.0) handicapped(0.0) .(0.0) Unfortunately(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) this(0.0) administration(1.0) has(0.0) miserably(0.0) failed(0.0) 
+that(0.0) test(0.0) .(0.0) As(0.0) stewards(1.0) of(0.0) the(0.0) government(1.0) ,(0.0) we(0.0) have(0.0) a(0.0) moral(1.0) responsibility(0.0) to(0.0) ensure(0.0) that(0.0) the(0.0) poor(1.0) are(0.0) 
+granted(0.0) the(0.0) same(0.0) access(0.0) to(0.0) opportunity(0.0) as(0.0) the(0.0) rich(0.0) ;(0.0) the(0.0) sick(1.0) are(0.0) afforded(1.0) the(0.0) medical(1.0) attention(0.0) needed(0.0) to(0.0) restore(1.0) 
+health(1.0) ;(0.0) and(0.0) that(0.0) the(0.0) scourge(1.0) of(0.0) racism(1.0) and(0.0) discrimination(1.0) is(0.0) forever(0.0) dispelled(0.0) from(0.0) our(0.0) national(1.0) identity(0.0) .(0.0) Mr.(0.0) Speaker(1.0) 
+,(0.0) I(0.0) submit(0.0) that(0.0) the(0.0) true(0.0) measure(0.0) of(0.0) our(0.0) Union(1.0) is(0.0) the(0.0) state(1.0) of(0.0) the(0.0) least(0.0) among(0.0) us(0.0) .(0.0) So(0.0) 
+long(0.0) as(0.0) there(0.0) are(0.0) 9(0.0) million(0.0) Americans(1.0) looking(0.0) for(0.0) work(0.0) ,(0.0) 43(0.0) million(0.0) Americans(1.0) without(0.0) health(1.0) insurance(1.0) and(0.0) nearly(0.0) 2.5(0.0) 
+million(1.0) American(0.0) men(0.0) ,(0.0) women(1.0) and(0.0) children(0.0) without(0.0) a(0.0) place(0.0) to(0.0) call(0.0) home(0.0) ,(0.0) then(0.0) America(1.0) has(0.0) not(0.0) reached(0.0) her(0.0) 
+full(0.0) potential(0.0) .(0.0) We(0.0) need(0.0) leadership(0.0) that(0.0) demands(1.0) equity(1.0) ,(0.0) parity(1.0) and(0.0) equality(1.0) .(0.0) We(0.0) need(0.0) leadership(0.0) that(0.0) is(0.0) progressive(1.0) 
+and(0.0) forward-thinking(1.0) .(0.0) And(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) we(0.0) need(0.0) leadership(0.0) that(0.0) delivers(0.0) results(0.0) to(0.0) all(0.0) of(0.0) the(0.0) American(0.0) people(0.0) 
+.(0.0) The(0.0) American(0.0) people(0.0) deserve(1.0) bold(0.0) leadership(0.0) ,(0.0) the(0.0) demands(1.0) of(0.0) frank(1.0) and(0.0) honest(0.0) discussion(0.0) of(0.0) the(0.0) issues(0.0) that(0.0) are(0.0) 
+at(0.0) the(0.0) center(0.0) of(0.0) people's(0.0) lives(0.0) .(0.0) Just(0.0) yesterday(0.0) ,(0.0) we(0.0) celebrated(0.0) the(0.0) birth(0.0) of(0.0) Dr.(0.0) Martin(1.0) Luther(1.0) King(0.0) ,(0.0) 
+and(0.0) I(0.0) have(0.0) noted(0.0) so(0.0) often(0.0) we(0.0) listen(0.0) to(0.0) the(0.0) ``(0.0) I(0.0) Have(0.0) a(0.0) Dream(0.0) ''(0.0) speech(1.0) ;(0.0) but(0.0) 
+
+
+----- below are rationale words -----
+
+Congressional	Black	Caucus	Bush	
+Speaker	
+speech	America	President	
+President	
+rhetoric	actions	
+benefit	Americans	benefit	Americans	President	
+priorities	Nation	
+Nation	President	affirmation	
+principles	constitutional	democracy	Founding	
+governments	instituted	God-given	rights	
+liberty	pursuit	1976	Hubert	Humphrey	said	moral	
+government	
+
+needy	Speaker	administration	
+stewards	government	moral	poor	
+sick	afforded	medical	restore	
+health	scourge	racism	discrimination	national	Speaker	
+Union	state	
+Americans	Americans	health	insurance	
+million	women	America	
+demands	equity	parity	equality	progressive	
+forward-thinking	Speaker	
+deserve	demands	frank	
+Martin	Luther	
+speech	
+
+reads % = 0.152

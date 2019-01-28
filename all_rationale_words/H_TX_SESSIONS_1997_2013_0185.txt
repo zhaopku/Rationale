@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+It(0.0) is(0.0) a(0.0) meeting(0.0) all(0.0) Republican(0.0) Members(1.0) are(1.0) attending(1.0) ,(1.0) and(1.0) we(1.0) are(1.0) meeting(0.0) together(0.0) and(0.0) speaking(0.0) .(0.0) We(0.0) will(0.0) be(0.0) 
+up(0.0) in(0.0) the(0.0) Rules(0.0) Committee(0.0) this(0.0) afternoon(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Members	are	attending	,	and	we	are	
+
+
+reads % = 0.2413793103448276

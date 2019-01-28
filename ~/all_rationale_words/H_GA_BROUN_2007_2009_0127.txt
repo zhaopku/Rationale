@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+As(0.0) a(0.0) medical(1.0) doctor(0.0) ,(0.0) I(0.0) rise(1.0) today(1.0) to(0.0) diagnose(0.0) the(0.0) Obama(1.0) administration(0.0) and(0.0) the(0.0) majority(1.0) leadership(1.0) in(0.0) this(0.0) Congress(0.0) with(0.0) 
+an(0.0) addiction(0.0) to(0.0) raising(1.0) taxes(1.0) .(0.0) According(0.0) to(0.0) the(0.0) Wall(1.0) Street(0.0) Journal(0.0) ,(0.0) the(0.0) Obama(1.0) budget(0.0) calls(1.0) for(0.0) more(0.0) than(0.0) 
+$(0.0) 1.1(0.0) trillion(1.0) in(0.0) new(1.0) taxes(1.0) over(0.0) the(0.0) course(0.0) of(0.0) the(0.0) next(0.0) decade(0.0) ,(0.0) including(1.0) $(0.0) 646(1.0) billion(1.0) in(0.0) new(1.0) 
+taxes(1.0) for(0.0) their(0.0) cap-and-tax(1.0) scheme(1.0) alone(1.0) .(0.0) Cap-and-tax(1.0) will(0.0) raise(1.0) the(0.0) American(0.0) family(0.0) 's(0.0) energy(1.0) costs(0.0) by(0.0) more(0.0) than(0.0) $(0.0) 
+3,100(1.0) each(0.0) year(0.0) .(0.0) That(0.0) amounts(0.0) to(0.0) the(0.0) largest(0.0) tax(1.0) increase(1.0) in(0.0) the(0.0) history(0.0) of(0.0) our(0.0) Nation(0.0) .(0.0) Cap-and-tax(1.0) is(0.0) 
+an(0.0) overdose(0.0) of(0.0) new(1.0) taxes(1.0) .(0.0) And(0.0) mark(1.0) my(0.0) words(0.0) ,(0.0) it(0.0) will(0.0) lead(0.0) to(0.0) catastrophic(0.0) consequences(1.0) .(0.0) Experts(1.0) almost(0.0) 
+unanimously(1.0) agree(1.0) that(0.0) the(0.0) cap-and-tax(1.0) will(0.0) destroy(0.0) millions(1.0) of(0.0) jobs(1.0) and(0.0) devastate(1.0) our(0.0) economy(1.0) ,(0.0) all(0.0) of(0.0) this(0.0) while(0.0) having(0.0) 
+marginal(0.0) ,(0.0) if(0.0) any(1.0) ,(0.0) impact(0.0) on(0.0) global(0.0) emissions(1.0) .(0.0) I(0.0) urge(1.0) my(0.0) colleagues(1.0) and(0.0) the(0.0) American(0.0) people(0.0) to(0.0) stand(0.0) 
+up(0.0) against(0.0) these(0.0) tax(1.0) increases(1.0) and(0.0) oppose(1.0) this(0.0) legislation(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+medical	rise	today	Obama	majority	leadership	
+raising	taxes	Wall	Obama	calls	
+trillion	new	taxes	including	646	billion	new	
+taxes	cap-and-tax	scheme	alone	Cap-and-tax	raise	energy	
+3,100	tax	increase	Cap-and-tax	
+new	taxes	mark	consequences	Experts	
+unanimously	agree	cap-and-tax	millions	jobs	devastate	economy	
+any	emissions	urge	colleagues	
+tax	increases	oppose	
+
+reads % = 0.2807017543859649

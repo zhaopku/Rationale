@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) support(0.0) of(0.0) strong(0.0) ,(0.0) meaningful(0.0) welfare(1.0) reform(1.0) .(0.0) I(0.0) was(0.0) not(0.0) a(0.0) member(0.0) of(0.0) this(0.0) 
+body(0.0) when(0.0) welfare(1.0) reform(1.0) was(0.0) first(0.0) debated(1.0) in(0.0) 1996(1.0) .(0.0) But(0.0) ,(0.0) the(0.0) changes(0.0) that(0.0) came(0.0) about(0.0) as(0.0) a(0.0) result(0.0) 
+of(0.0) that(0.0) debate(1.0) have(0.0) brought(0.0) significant(0.0) and(0.0) positive(0.0) developments(0.0) to(0.0) my(0.0) home(0.0) state(0.0) of(0.0) California(1.0) .(0.0) Under(0.0) TANF(1.0) ,(0.0) California(1.0) 
+has(0.0) tripled(0.0) the(0.0) number(0.0) of(0.0) welfare(1.0) recipients(1.0) working(0.0) and(0.0) their(0.0) average(0.0) monthly(0.0) earnings(0.0) have(0.0) significantly(0.0) increased(1.0) .(0.0) Cash(0.0) aid(1.0) has(0.0) 
+decreased(0.0) by(0.0) 45(0.0) percent(0.0) and(0.0) caseloads(1.0) have(0.0) declined(0.0) more(0.0) than(0.0) 40(0.0) percent(0.0) .(0.0) These(0.0) are(0.0) the(0.0) types(0.0) of(0.0) results(0.0) that(0.0) 
+the(0.0) 1996(0.0) reforms(1.0) intended(0.0) our(0.0) states(1.0) to(0.0) achieve(0.0) and(0.0) we(0.0) must(0.0) build(0.0) upon(0.0) them(0.0) in(0.0) a(0.0) way(0.0) that(0.0) will(0.0) continue(0.0) 
+to(0.0) bring(0.0) people(0.0) out(0.0) of(0.0) poverty(1.0) and(0.0) into(0.0) meaningful(0.0) employment(1.0) .(0.0) Unfortunately(0.0) ,(0.0) the(0.0) bill(1.0) that(0.0) we(0.0) debate(1.0) today(0.0) places(0.0) 
+unrealistic(1.0) expectations(0.0) on(0.0) both(0.0) our(0.0) states(1.0) and(0.0) our(0.0) welfare(1.0) recipients(1.0) .(0.0) Worse(0.0) ,(0.0) it(0.0) calls(0.0) for(0.0) the(0.0) enactment(1.0) of(0.0) work(0.0) 
+requirements(0.0) that(0.0) can(0.0) not(0.0) be(0.0) met(0.0) without(0.0) enhancing(0.0) childcare(1.0) ,(0.0) job(0.0) training(0.0) and(0.0) transportation(1.0) benefits(0.0) --(0.0) but(0.0) minimal(0.0) funds(1.0) are(0.0) 
+provided(0.0) for(0.0) these(0.0) support(0.0) services(0.0) .(0.0) Tough(0.0) work(0.0) requirements(0.0) are(0.0) a(0.0) critical(0.0) component(0.0) of(0.0) any(0.0) welfare(1.0) reform(1.0) legislation(1.0) and(0.0) I(0.0) 
+strongly(0.0) support(0.0) strengthening(1.0) our(0.0) current(0.0) provisions(1.0) .(0.0) But(0.0) ,(0.0) I(0.0) can(0.0) not(0.0) support(0.0) a(0.0) plan(0.0) that(0.0) shifts(0.0) a(0.0) disproportionate(1.0) financial(1.0) 
+responsibility(0.0) onto(0.0) our(0.0) states(1.0) simply(0.0) because(0.0) the(0.0) federal(1.0) government(1.0) has(0.0) squandered(1.0) our(0.0) surplus(1.0) .(0.0) The(0.0) underlying(1.0) legislation(1.0) contains(0.0) approximately(0.0) $(0.0) 
+11(0.0) billion(1.0) in(0.0) unfunded(1.0) mandates(1.0) --(0.0) costs(1.0) that(0.0) our(0.0) states(1.0) will(0.0) have(0.0) to(0.0) bear(0.0) alone(0.0) in(0.0) order(0.0) to(0.0) comply(1.0) with(0.0) 
+these(0.0) new(0.0) provisions(1.0) .(0.0) These(0.0) mandates(1.0) will(0.0) cost(1.0) California(1.0) almost(0.0) $(0.0) 2.5(0.0) billion(1.0) --(0.0) a(0.0) tremendous(0.0) hit(0.0) particularly(0.0) at(0.0) a(0.0) 
+time(0.0) when(0.0) the(0.0) state(1.0) is(0.0) struggling(0.0) with(0.0) a(0.0) budget(1.0) shortfall(1.0) of(0.0) $(0.0) 35(0.0) billion(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) as(0.0) evidenced(0.0) 
+by(0.0) the(0.0) Cardin/Kind/Woolsey(0.0) substitute(1.0) ,(0.0) we(0.0) can(0.0) balance(0.0) tougher(1.0) work(0.0) requirements(0.0) with(0.0) the(0.0) financial(1.0) resources(0.0) necessary(0.0) to(0.0) truly(0.0) move(0.0) people(0.0) 
+from(0.0) welfare(1.0) to(0.0) work(0.0) .(0.0) This(0.0) substitute(1.0) calls(0.0) for(0.0) tough(0.0) ,(0.0) real(0.0) work(0.0) requirements(0.0) that(0.0) move(0.0) welfare(1.0) recipients(1.0) into(0.0) meaningful(0.0) 
+employment(1.0) .(0.0) This(0.0) substitute(1.0) gives(0.0) states(1.0) the(0.0) flexibility(0.0) to(0.0) create(0.0) programs(1.0) that(0.0) prioritize(1.0) efficiency(1.0) over(0.0) the(0.0) majority(1.0) 's(0.0) ``(0.0) one-size-fits-all(1.0) 
+''(0.0) model(0.0) .(0.0) Flexibility(1.0) has(0.0) enabled(0.0) California(1.0) to(0.0) implement(0.0) individual(0.0) responsibility(0.0) plans(0.0) following(0.0) job(0.0) search(0.0) and(0.0) job(0.0) preparation(0.0) activities(0.0) .(0.0) 
+We(0.0) have(0.0) been(0.0) very(0.0) successful(0.0) in(0.0) placing(0.0) people(0.0) into(0.0) work(0.0) first(0.0) ,(0.0) rather(0.0) than(0.0) wasting(1.0) both(0.0) funds(1.0) and(0.0) time(0.0) to(0.0) 
+develop(0.0) plans(1.0) for(0.0) individuals(0.0) who(0.0) have(0.0) already(0.0) attained(0.0) employment(1.0) .(0.0) These(0.0) innovative(0.0) approaches(0.0) are(0.0) supported(0.0) by(0.0) this(0.0) substitute(1.0) ,(0.0) which(0.0) 
+encourages(1.0) states(1.0) to(0.0) implement(1.0) sensible(1.0) reforms(1.0) and(0.0) to(0.0) tailor(0.0) their(0.0) programs(1.0) to(0.0) the(0.0) needs(0.0) of(0.0) their(0.0) beneficiaries(1.0) --(0.0) combining(0.0) though(0.0) 
+work(0.0) requirements(0.0) with(0.0) vocational(1.0) training(0.0) or(0.0) ESL(0.0) education(1.0) .(0.0) Finally(0.0) ,(0.0) this(0.0) substitute(1.0) gives(0.0) states(1.0) the(0.0) resources(0.0) they(0.0) need(0.0) to(0.0) 
+enact(1.0) these(0.0) new(0.0) ,(0.0) tougher(1.0) mandates(1.0) --(0.0) providing(0.0) the(0.0) $(0.0) 11(0.0) billion(1.0) in(0.0) additional(0.0) child(0.0) care(1.0) funding(1.0) that(0.0) CBO(1.0) has(0.0) 
+indicated(0.0) states(0.0) will(0.0) need(0.0) in(0.0) order(0.0) for(0.0) recipients(1.0) to(0.0) meet(0.0) these(0.0) new(0.0) work(0.0) requirements(0.0) .(0.0) By(0.0) preventing(0.0) unfunded(1.0) mandates(1.0) 
+
+
+----- below are rationale words -----
+
+welfare	reform	
+welfare	reform	debated	1996	
+debate	California	TANF	California	
+welfare	recipients	increased	aid	
+caseloads	
+reforms	states	
+poverty	employment	bill	debate	
+unrealistic	states	welfare	recipients	enactment	
+childcare	transportation	funds	
+welfare	reform	legislation	
+strengthening	provisions	disproportionate	financial	
+states	federal	government	squandered	surplus	underlying	legislation	
+billion	unfunded	mandates	costs	states	comply	
+provisions	mandates	cost	California	billion	
+state	budget	shortfall	billion	Chairman	
+substitute	tougher	financial	
+welfare	substitute	welfare	recipients	
+employment	substitute	states	programs	prioritize	efficiency	majority	one-size-fits-all	
+Flexibility	California	
+wasting	funds	
+plans	employment	substitute	
+encourages	states	implement	sensible	reforms	programs	beneficiaries	
+vocational	education	substitute	states	
+enact	tougher	mandates	billion	care	funding	CBO	
+recipients	unfunded	mandates	
+
+reads % = 0.204

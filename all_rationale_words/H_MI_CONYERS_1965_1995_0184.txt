@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) let(0.0) me(0.0) point(0.0) out(0.0) to(0.0) the(0.0) gentleman(0.0) that(0.0) a(0.0) point(0.0) of(0.0) order(0.0) could(0.0) have(0.0) lain(0.0) against(0.0) this(0.0) whole(0.0) amendment(1.0) 
+.(0.0) So(0.0) I(0.0) am(0.0) sorry(0.0) .(0.0) A(0.0) point(0.0) of(0.0) germaneness(1.0) could(0.0) have(0.0) lain(0.0) against(0.0) this(0.0) amendment(1.0) itself(0.0) and(0.0) was(0.0) not(0.0) 
+raised(0.0) .(0.0) And(0.0) so(0.0) I(0.0) would(0.0) ask(0.0) the(0.0) gentleman(0.0) if(0.0) that(0.0) is(0.0) his(0.0) only(0.0) problem(0.0) ,(0.0) that(0.0) he(0.0) would(0.0) use(0.0) 
+the(0.0) same(0.0) comity(1.0) with(0.0) us(0.0) that(0.0) we(0.0) used(0.0) with(0.0) him(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+amendment	
+germaneness	amendment	
+
+comity	
+
+reads % = 0.05555555555555555

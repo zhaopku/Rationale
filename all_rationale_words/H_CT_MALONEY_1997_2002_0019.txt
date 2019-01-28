@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(1.0) the(0.0) gentleman(0.0) from(0.0) Mississippi(1.0) ((0.0) Mr.(0.0) Taylor(1.0) )(0.0) for(0.0) yielding(0.0) me(0.0) this(0.0) time(0.0) .(0.0) I(0.0) want(1.0) to(0.0) 
+associate(1.0) myself(0.0) with(0.0) his(0.0) remarks(0.0) in(0.0) urging(1.0) the(0.0) House(0.0) to(0.0) instruct(1.0) the(0.0) conferees(0.0) to(0.0) adopt(1.0) the(0.0) Senate(1.0) 's(0.0) concurrent(1.0) receipt(0.0) 
+provisions(0.0) in(0.0) the(0.0) fiscal(0.0) year(0.0) 2003(0.0) defense(1.0) authorization(0.0) bill(0.0) .(0.0) The(0.0) Bob(0.0) Stump(1.0) National(0.0) Defense(1.0) Authorization(0.0) Act(0.0) for(0.0) 2003(0.0) contains(0.0) 
+a(0.0) provision(0.0) to(0.0) authorize(0.0) military(1.0) retirees(1.0) who(0.0) are(0.0) 60(0.0) percent(1.0) or(0.0) greater(0.0) disabled(0.0) to(0.0) receive(0.0) their(0.0) full(0.0) retirement(1.0) pay(0.0) as(0.0) 
+well(0.0) as(0.0) disability(0.0) compensation(1.0) benefits(1.0) by(0.0) fiscal(0.0) year(0.0) 2007(1.0) .(0.0) The(0.0) Senate(1.0) bill(0.0) ,(0.0) however(0.0) ,(0.0) S.(1.0) 2514(1.0) ,(0.0) authorizes(1.0) 
+the(0.0) concurrent(1.0) receipt(0.0) of(0.0) retired(0.0) pay(1.0) and(0.0) veterans(1.0) disability(0.0) compensation(1.0) immediately(0.0) and(0.0) for(0.0) all(0.0) disabled(0.0) military(1.0) retirees(1.0) with(0.0) at(0.0) least(1.0) 
+20(0.0) years(0.0) of(0.0) service(0.0) .(0.0) Concurrent(1.0) receipt(0.0) can(0.0) not(0.0) come(0.0) soon(0.0) enough(0.0) for(0.0) the(0.0) veterans(1.0) of(0.0) Connecticut(0.0) .(0.0) Veterans(1.0) have(0.0) 
+made(0.0) possible(0.0) the(0.0) very(0.0) existence(1.0) and(0.0) continuation(1.0) of(0.0) our(0.0) country(1.0) and(0.0) our(0.0) way(0.0) of(0.0) life(0.0) .(0.0) Disabled(1.0) veterans(1.0) have(0.0) made(0.0) 
+a(0.0) great(0.0) personal(1.0) sacrifice(1.0) to(0.0) the(0.0) security(0.0) of(0.0) the(0.0) United(0.0) States(0.0) and(0.0) are(0.0) entitled(1.0) to(0.0) their(0.0) due(0.0) compensation(1.0) as(0.0) well(0.0) 
+as(0.0) their(0.0) retirement(1.0) benefits(1.0) in(0.0) full(0.0) .(0.0) So(1.0) I(0.0) join(1.0) with(0.0) the(0.0) veterans(1.0) of(0.0) my(0.0) State(1.0) and(0.0) my(0.0) colleagues(1.0) on(0.0) 
+the(0.0) House(0.0) Committee(0.0) on(0.0) Armed(0.0) Services(0.0) in(0.0) urging(1.0) support(0.0) for(0.0) this(0.0) stronger(0.0) ,(0.0) timely(1.0) ,(0.0) and(0.0) comprehensive(1.0) Senate(1.0) language(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+thank	Mississippi	Taylor	want	
+associate	urging	instruct	adopt	Senate	concurrent	
+defense	Stump	Defense	
+military	retirees	percent	retirement	
+compensation	benefits	2007	Senate	S.	2514	authorizes	
+concurrent	pay	veterans	compensation	military	retirees	least	
+Concurrent	veterans	Veterans	
+existence	continuation	country	Disabled	veterans	
+personal	sacrifice	entitled	compensation	
+retirement	benefits	So	join	veterans	State	colleagues	
+urging	timely	comprehensive	Senate	
+
+
+reads % = 0.24434389140271492

@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(1.0) ,(0.0) the(0.0) fact(0.0) of(0.0) the(0.0) matter(0.0) is(0.0) that(0.0) legal(0.0) costs(0.0) in(0.0) this(0.0) country(1.0) are(0.0) rising(0.0) at(0.0) a(0.0) rate(0.0) of(0.0) 12(1.0) 
+percent(1.0) a(0.0) year(0.0) ,(0.0) far(1.0) in(0.0) excess(1.0) ,(0.0) far(1.0) in(0.0) excess(1.0) of(0.0) what(1.0) is(0.0) happening(1.0) even(0.0) in(0.0) the(0.0) cost(0.0) of(0.0) 
+medical(1.0) care(0.0) ,(0.0) but(0.0) certainly(0.0) three(0.0) or(1.0) four(0.0) times(0.0) the(0.0) rate(0.0) of(0.0) inflation(1.0) in(0.0) this(0.0) country(1.0) .(0.0) And(0.0) this(0.0) amendment(1.0) 
+will(0.0) reduce(1.0) drastically(1.0) the(0.0) ability(0.0) to(0.0) use(0.0) this(0.0) provision(0.0) to(0.0) say(1.0) ,(0.0) when(0.0) you(0.0) file(0.0) a(0.0) lawsuit(1.0) ,(0.0) you(1.0) take(0.0) 
+a(0.0) risk(0.0) .(0.0) You(1.0) have(0.0) made(0.0) the(0.0) risk(0.0) way(1.0) too(0.0) small(0.0) ,(0.0) I(0.0) would(1.0) say(1.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Indiana(0.0) 
+.(0.0) Reclaiming(1.0) my(0.0) time(0.0) ,(0.0) I(0.0) would(1.0) say(1.0) to(0.0) the(0.0) gentleman(0.0) that(0.0) the(0.0) mechanism(1.0) I(0.0) offered(1.0) to(0.0) deal(1.0) with(0.0) the(0.0) 
+case(0.0) where(0.0) the(0.0) plaintiff(1.0) proves(0.0) the(0.0) case(0.0) but(0.0) has(0.0) been(0.0) unreasonable(0.0) in(0.0) their(0.0) settlement(1.0) negotiations(0.0) and(0.0) gives(1.0) them(0.0) some(0.0) relief(0.0) 
+there(0.0) would(0.0) be(0.0) something(1.0) that(0.0) would(1.0) be(0.0) tolerable(1.0) .(0.0) But(0.0) 25(0.0) percent(1.0) in(0.0) all(0.0) cases(0.0) regardless(1.0) of(0.0) whether(1.0) or(1.0) not(1.0) 
+they(0.0) are(0.0) meritorious(1.0) or(1.0) not(0.0) ,(0.0) we(0.0) know(0.0) that(0.0) when(0.0) discretion(1.0) is(0.0) given(0.0) to(0.0) judges(0.0) in(0.0) these(0.0) cases(1.0) --(0.0) --(0.0) 
+
+
+
+----- below are rationale words -----
+
+country	12	
+percent	far	excess	far	excess	what	happening	
+medical	or	inflation	country	amendment	
+reduce	drastically	say	lawsuit	you	
+You	way	would	say	
+Reclaiming	would	say	mechanism	offered	deal	
+plaintiff	settlement	gives	
+something	would	tolerable	percent	regardless	whether	or	not	
+meritorious	or	discretion	cases	
+
+
+reads % = 0.2430939226519337

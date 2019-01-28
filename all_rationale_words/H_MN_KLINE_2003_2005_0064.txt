@@ -1,0 +1,44 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) support(0.0) of(0.0) H.(0.0) Con(1.0) .(0.0) Res(0.0) .(0.0) 47(0.0) commending(1.0) the(0.0) establishment(1.0) of(0.0) the(0.0) first(0.0) 
+free(0.0) public(0.0) kindergarten(0.0) in(0.0) the(0.0) United(0.0) States(0.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) we(0.0) can(0.0) all(0.0) agree(0.0) on(0.0) the(0.0) merits(1.0) of(0.0) early(0.0) 
+education(1.0) to(0.0) the(0.0) academic(0.0) success(0.0) of(0.0) America(1.0) 's(0.0) children(0.0) .(0.0) From(0.0) the(0.0) time(0.0) that(0.0) Conrad(1.0) Poppenhusen(1.0) offered(0.0) free(0.0) ,(0.0) public(1.0) 
+kindergarten(1.0) to(0.0) his(0.0) community(0.0) in(0.0) College(0.0) Point(0.0) ,(0.0) New(1.0) York(1.0) ,(0.0) millions(1.0) of(0.0) American(0.0) children(0.0) have(0.0) benefited(1.0) from(0.0) a(0.0) foundational(0.0) 
+first(0.0) year(0.0) of(0.0) school(1.0) .(0.0) Kindergarten(0.0) is(0.0) a(0.0) common(0.0) experience(0.0) for(0.0) most(0.0) American(0.0) children(0.0) .(0.0) Today(0.0) ,(0.0) 98(0.0) percent(0.0) of(0.0) 
+children(0.0) of(0.0) kindergarten(1.0) age(0.0) in(0.0) America(1.0) attend(0.0) kindergarten(0.0) programs(1.0) for(0.0) at(0.0) least(0.0) half(0.0) of(0.0) the(0.0) school(0.0) day(0.0) ,(0.0) and(0.0) a(0.0) 
+growing(0.0) number(0.0) of(0.0) schools(1.0) ,(0.0) today(0.0) about(0.0) 60(0.0) percent(0.0) ,(0.0) now(0.0) offer(0.0) full-day(1.0) kindergarten(1.0) programs(1.0) .(0.0) At(0.0) age(0.0) 5(0.0) ,(0.0) 
+the(0.0) age(0.0) at(0.0) which(0.0) most(0.0) children(0.0) enter(0.0) kindergarten(0.0) ,(0.0) children(0.0) 's(0.0) development(0.0) varies(0.0) greatly(0.0) .(0.0) Because(0.0) they(0.0) often(0.0) begin(0.0) with(0.0) 
+a(0.0) range(0.0) of(0.0) knowledge(0.0) and(0.0) skills(0.0) ,(0.0) the(0.0) kindergarten(0.0) experience(0.0) can(0.0) substantially(0.0) reduce(1.0) educational(1.0) disparities(1.0) and(0.0) help(0.0) build(0.0) a(0.0) foundation(0.0) 
+for(0.0) future(0.0) school(0.0) success(0.0) .(0.0) Research(0.0) demonstrates(0.0) that(0.0) children(0.0) generally(0.0) develop(0.0) both(0.0) cognitive(0.0) and(0.0) noncognitive(1.0) knowledge(0.0) and(0.0) skills(0.0) during(0.0) the(0.0) 
+kindergarten(0.0) year(0.0) .(0.0) In(0.0) the(0.0) year(0.0) 2000(0.0) ,(0.0) the(0.0) National(0.0) Center(0.0) For(0.0) Education(0.0) Statistics(0.0) ,(0.0) a(0.0) research(0.0) arm(0.0) of(0.0) the(0.0) 
+U.S.(0.0) Department(0.0) of(0.0) Education(0.0) ,(0.0) published(0.0) findings(0.0) from(0.0) a(0.0) large-scale(0.0) study(0.0) to(0.0) evaluate(0.0) the(0.0) effectiveness(0.0) of(0.0) kindergarten(0.0) .(0.0) The(0.0) study(0.0) 
+showed(0.0) that(0.0) after(0.0) a(0.0) year(0.0) of(0.0) kindergarten(0.0) ,(0.0) children(0.0) demonstrate(0.0) a(0.0) greater(0.0) understanding(0.0) of(0.0) reading(0.0) and(0.0) mathematics(0.0) concepts(0.0) ,(0.0) as(0.0) 
+well(0.0) as(0.0) specific(0.0) knowledge(0.0) and(0.0) skills(0.0) .(0.0) By(0.0) the(0.0) end(0.0) of(0.0) the(0.0) kindergarten(0.0) year(0.0) ,(0.0) nearly(0.0) all(0.0) children(0.0) recognized(0.0) letters(0.0) 
+,(0.0) numbers(0.0) ,(0.0) and(0.0) shapes(0.0) ,(0.0) and(0.0) an(0.0) increased(1.0) number(0.0) of(0.0) children(0.0) can(0.0) add(0.0) and(0.0) subtract(0.0) numbers(0.0) .(0.0) Madam(0.0) Speaker(1.0) 
+,(0.0) in(0.0) closing(0.0) ,(0.0) I(0.0) would(0.0) like(0.0) to(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) York(1.0) ((0.0) Mr.(0.0) Crowley(1.0) )(0.0) for(1.0) recognizing(1.0) 
+the(0.0) importance(0.0) of(0.0) kindergarten(0.0) and(0.0) the(0.0) contribution(0.0) of(0.0) Conrad(0.0) Poppenhusen(1.0) for(0.0) establishing(0.0) the(0.0) first(0.0) free(0.0) ,(0.0) public(1.0) American(0.0) kindergarten(0.0) .(0.0) 
+Madam(0.0) Speaker(1.0) ,(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Con	commending	establishment	
+Speaker	merits	
+education	America	Conrad	Poppenhusen	public	
+kindergarten	New	York	millions	benefited	
+school	
+kindergarten	America	programs	
+schools	full-day	kindergarten	programs	
+
+reduce	educational	disparities	
+noncognitive	
+
+
+
+
+increased	Speaker	
+York	Crowley	for	recognizing	
+Poppenhusen	public	
+Speaker	
+
+reads % = 0.10227272727272728

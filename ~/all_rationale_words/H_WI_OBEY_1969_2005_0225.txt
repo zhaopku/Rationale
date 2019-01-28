@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(1.0) ,(0.0) I(0.0) would(1.0) simply(0.0) say(1.0) that(0.0) while(0.0) I(0.0) am(1.0) dubious(1.0) about(0.0) the(0.0) content(0.0) of(0.0) several(0.0) of(0.0) these(0.0) amendments(1.0) ,(0.0) in(0.0) 
+the(0.0) interest(0.0) of(0.0) moving(1.0) the(0.0) bill(0.0) forward(0.0) ,(0.0) I(0.0) would(1.0) also(1.0) urge(1.0) that(0.0) we(0.0) accept(1.0) the(0.0) en(1.0) bloc(1.0) amendments(0.0) and(0.0) 
+move(0.0) on(0.0) to(0.0) the(0.0) others(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+would	say	am	dubious	amendments	
+moving	would	also	urge	accept	en	bloc	
+reads % = 0.2553191489361702

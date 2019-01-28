@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(1.0) ,(0.0) I(0.0) would(1.0) like(0.0) to(0.0) thank(0.0) my(0.0) good(0.0) friend(0.0) for(0.0) giving(0.0) me(0.0) the(1.0) time(0.0) to(0.0) express(1.0) my(0.0) strong(0.0) opposition(1.0) to(0.0) 
+H.R(0.0) .(0.0) 2122(1.0) .(0.0) In(0.0) lieu(1.0) of(0.0) recent(1.0) events(1.0) --(0.0) more(0.0) specifically(1.0) ,(0.0) the(0.0) tragedy(1.0) in(0.0) Littleton(0.0) ,(0.0) Colorado(1.0) --(0.0) 
+I(0.0) share(0.0) the(0.0) concern(1.0) and(0.0) fear(0.0) for(0.0) the(0.0) future(0.0) of(0.0) our(0.0) great(0.0) nation(1.0) --(0.0) especially(1.0) for(0.0) our(0.0) children(0.0) .(0.0) Such(1.0) 
+tragic(1.0) occurrences(1.0) demand(1.0) serious(0.0) reflection(1.0) by(0.0) all(0.0) of(0.0) us(0.0) --(0.0) parents(0.0) ,(0.0) children(0.0) ,(0.0) educators(1.0) and(0.0) legislators(1.0) alike(0.0) .(0.0) I(1.0) 
+pray(1.0) that(0.0) such(0.0) reflection(1.0) will(0.0) create(0.0) serious(0.0) dialogue(0.0) between(0.0) parents(0.0) and(0.0) their(0.0) children(0.0) ,(0.0) for(0.0) I(0.0) believe(1.0) that(0.0) the(0.0) true(1.0) 
+solution(0.0) to(0.0) such(0.0) tragedies(0.0) lies(0.0) within(1.0) the(0.0) family(0.0) unit(1.0) .(0.0) We(0.0) are(0.0) united(0.0) in(0.0) our(0.0) compassion(0.0) for(0.0) those(0.0) involved(1.0) in(0.0) 
+these(0.0) recent(1.0) tragedies(0.0) ,(0.0) but(0.0) we(0.0) must(0.0) be(0.0) careful(0.0) not(1.0) to(0.0) confuse(0.0) the(0.0) issues(0.0) surrounding(1.0) these(0.0) terrible(1.0) events(1.0) .(0.0) It(0.0) 
+seems(0.0) that(0.0) every(0.0) time(0.0) there(0.0) is(0.0) a(0.0) drive-by(1.0) shooting(0.0) --(0.0) or(1.0) every(0.0) time(0.0) some(0.0) mal-contented(1.0) ,(0.0) misguided(1.0) ,(0.0) or(1.0) incorrigible(0.0) 
+youth(0.0) decides(1.0) to(0.0) obtain(0.0) guns(0.0) in(0.0) order(0.0) to(0.0) kill(1.0) innocent(1.0) people(0.0) --(0.0) there(0.0) is(0.0) a(0.0) rush(1.0) to(0.0) jump(0.0) on(0.0) the(0.0) 
+bandwagon(1.0) to(0.0) take(0.0) away(0.0) our(0.0) Second(0.0) Amendment(0.0) rights(0.0) .(0.0) These(0.0) tragedies(0.0) ought(1.0) ,(0.0) instead(0.0) ,(0.0) to(0.0) spawn(0.0) a(0.0) resurgence(1.0) of(0.0) 
+the(0.0) effort(0.0) to(0.0) put(0.0) God(0.0) back(0.0) in(0.0) our(0.0) schools(1.0) and(0.0) in(0.0) the(0.0) hearts(1.0) of(0.0) every(0.0) student(0.0) .(0.0) Such(1.0) tragedies(0.0) should(0.0) 
+also(1.0) spawn(0.0) a(0.0) resurgence(1.0) in(0.0) parents'(1.0) commitment(1.0) to(0.0) raise(1.0) their(0.0) children(0.0) to(0.0) respect(1.0) the(0.0) sanctity(0.0) of(0.0) life(0.0) and(0.0) to(0.0) be(0.0) 
+responsible(1.0) ,(0.0) law-abiding(1.0) citizens(1.0) .(0.0) We(0.0) need(0.0) to(0.0) focus(0.0) our(0.0) efforts(0.0) where(0.0) we(0.0) know(0.0) the(0.0) problem(0.0) lies(0.0) --(0.0) on(1.0) the(0.0) 
+number(0.0) of(0.0) broken(1.0) families(0.0) in(0.0) our(0.0) country(1.0) ,(0.0) on(0.0) our(0.0) over-sized(0.0) classrooms(1.0) ,(0.0) on(0.0) the(0.0) amount(0.0) of(0.0) sex(1.0) and(0.0) violence(1.0) 
+in(0.0) our(0.0) children(0.0) 's(0.0) music(0.0) ,(0.0) movies(0.0) and(0.0) games(0.0) ,(0.0) and(0.0) on(0.0) the(0.0) drugs(0.0) and(0.0) drug(0.0) dealers(0.0) that(0.0) are(0.0) infiltrating(1.0) 
+our(0.0) inner(0.0) cities(1.0) .(0.0) The(0.0) root(0.0) of(0.0) the(0.0) problem(0.0) is(0.0) the(0.0) absence(0.0) of(0.0) God(0.0) in(0.0) our(0.0) homes(0.0) and(0.0) in(0.0) our(0.0) 
+schools(1.0) --(0.0) not(1.0) the(0.0) presence(0.0) of(0.0) guns(0.0) in(0.0) our(0.0) society(0.0) .(0.0) Despite(1.0) the(1.0) hundreds(1.0) of(0.0) gun(0.0) laws(1.0) that(0.0) exist(1.0) today(0.0) 
+,(0.0) none(0.0) prevented(1.0) such(0.0) horrifying(1.0) events(0.0) .(0.0) And(0.0) none(0.0) ever(0.0) will(0.0) .(0.0) In(0.0) Washington(1.0) ,(0.0) D.C.(1.0) ,(0.0) it(0.0) is(0.0) a(0.0) 
+felony(1.0) to(0.0) possess(0.0) a(0.0) handgun(1.0) in(0.0) your(0.0) home(0.0) --(0.0) yet(1.0) this(0.0) has(0.0) had(0.0) little(0.0) effect(0.0) on(0.0) the(0.0) crime(0.0) rate(0.0) in(0.0) 
+our(0.0) nation(0.0) 's(0.0) capital(1.0) .(0.0) We(0.0) must(0.0) not(1.0) punish(1.0) the(0.0) majority(1.0) of(0.0) our(0.0) law-abiding(1.0) citizens(1.0) by(0.0) making(0.0) it(0.0) harder(0.0) on(0.0) 
+them(0.0) to(0.0) --(0.0) legally(1.0) --(0.0) pursue(1.0) a(0.0) constitutional(1.0) right(1.0) .(0.0) Instead(1.0) ,(0.0) we(0.0) must(0.0) empower(1.0) our(0.0) law(1.0) enforcement(0.0) agencies(0.0) and(0.0) 
+judicial(1.0) system(0.0) to(0.0) track(1.0) down(1.0) and(0.0) convict(1.0) those(0.0) who(0.0) choose(0.0) to(0.0) use(0.0) guns(0.0) illegally(1.0) --(0.0) regardless(1.0) of(0.0) their(0.0) age(1.0) .(0.0) 
+In(0.0) short(0.0) ,(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) we(0.0) need(0.0) to(0.0) focus(0.0) our(0.0) efforts(0.0) on(0.0) strengthening(0.0) our(0.0) juvenile(1.0) justice(0.0) system(0.0) .(0.0) We(0.0) 
+need(0.0) to(0.0) instill(1.0) values(1.0) and(0.0) build(0.0) character(1.0) in(0.0) our(0.0) children(0.0) at(0.0) home(0.0) ,(0.0) in(0.0) our(0.0) schools(1.0) and(0.0) in(0.0) our(0.0) churches(1.0) 
+.(0.0) We(0.0) need(0.0) to(0.0) advocate(1.0) more(0.0) parental(1.0) control(0.0) --(0.0) not(1.0) more(0.0) gun(0.0) control(1.0) .(0.0) I(0.0) urge(1.0) colleagues(1.0) to(0.0) vote(1.0) 
+
+
+----- below are rationale words -----
+
+would	the	express	opposition	
+2122	lieu	recent	events	specifically	tragedy	Colorado	
+concern	nation	especially	Such	
+tragic	occurrences	demand	reflection	educators	legislators	I	
+pray	reflection	believe	true	
+within	unit	involved	
+recent	not	surrounding	terrible	events	
+drive-by	or	mal-contented	misguided	or	
+decides	kill	innocent	rush	
+bandwagon	ought	resurgence	
+schools	hearts	Such	
+also	resurgence	parents'	commitment	raise	respect	
+responsible	law-abiding	citizens	on	
+broken	country	classrooms	sex	violence	
+infiltrating	
+cities	
+schools	not	Despite	the	hundreds	laws	exist	
+prevented	horrifying	Washington	D.C.	
+felony	handgun	yet	
+capital	not	punish	majority	law-abiding	citizens	
+legally	pursue	constitutional	right	Instead	empower	law	
+judicial	track	down	convict	illegally	regardless	age	
+Chairman	juvenile	
+instill	values	character	schools	churches	
+advocate	parental	not	control	urge	colleagues	vote	
+
+reads % = 0.228

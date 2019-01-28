@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Arizona(0.0) ((0.0) Chairman(0.0) Kolbe(1.0) )(0.0) for(1.0) his(0.0) leadership(0.0) in(0.0) steering(0.0) another(0.0) bill(0.0) to(0.0) committee(0.0) 
+under(0.0) difficult(0.0) times(0.0) .(0.0) To(0.0) the(0.0) gentlewoman(0.0) from(0.0) New(0.0) York(1.0) ((0.0) Mrs.(0.0) Lowey(1.0) )(0.0) ,(0.0) our(0.0) ranking(0.0) member(0.0) ,(0.0) who(0.0) 
+is(0.0) committed(0.0) to(0.0) the(0.0) international(0.0) community(0.0) and(0.0) has(0.0) shown(0.0) that(0.0) in(0.0) the(0.0) leadership(0.0) ,(0.0) I(0.0) thank(0.0) her(0.0) for(0.0) yielding(0.0) me(0.0) 
+this(0.0) time(0.0) and(0.0) for(0.0) crafting(0.0) a(0.0) bill(0.0) that(0.0) I(0.0) will(0.0) support(0.0) in(0.0) the(0.0) end(0.0) as(0.0) we(0.0) go(0.0) through(0.0) this(0.0) debate(1.0) 
+.(0.0) As(0.0) most(0.0) Members(0.0) of(0.0) Congress(0.0) know(0.0) and(0.0) very(0.0) few(0.0) members(0.0) of(0.0) the(0.0) country(0.0) know(0.0) ,(0.0) the(0.0) foreign(1.0) assistance(1.0) bill(0.0) 
+is(0.0) only(0.0) 1(0.0) percent(0.0) of(0.0) the(0.0) total(0.0) budget(1.0) of(0.0) the(0.0) United(0.0) States(0.0) of(0.0) America(0.0) .(0.0) Our(0.0) budget(1.0) is(0.0) $(0.0) 2.2(0.0) 
+trillion(1.0) ,(0.0) and(0.0) as(0.0) the(0.0) leading(0.0) power(0.0) in(0.0) the(0.0) world(0.0) ,(0.0) this(0.0) foreign(1.0) assistance(1.0) bill(0.0) is(0.0) not(0.0) quite(0.0) 1(0.0) percent(0.0) 
+of(0.0) that(0.0) .(0.0) A(0.0) good(0.0) sum(0.0) and(0.0) we(0.0) should(0.0) be(0.0) there(0.0) for(0.0) the(0.0) other(0.0) countries(0.0) of(0.0) the(0.0) world(0.0) .(0.0) This(0.0) 
+budget(1.0) funds(1.0) many(0.0) countries(1.0) of(0.0) the(0.0) world(0.0) ,(0.0) as(0.0) was(0.0) mentioned(0.0) by(0.0) our(0.0) chairperson(0.0) .(0.0) Israel(0.0) ,(0.0) Jordan(0.0) ,(0.0) and(0.0) 
+Egypt(0.0) are(0.0) fully(0.0) funded(1.0) ,(0.0) and(0.0) I(0.0) think(0.0) they(0.0) should(0.0) be(0.0) .(0.0) Other(0.0) countries(0.0) of(0.0) the(0.0) world(0.0) are(0.0) not(0.0) so(0.0) 
+taken(0.0) care(0.0) of(0.0) ,(0.0) and(0.0) I(0.0) think(0.0) we(0.0) can(0.0) do(0.0) better(0.0) .(0.0) At(0.0) a(0.0) time(0.0) when(0.0) we(0.0) find(0.0) the(0.0) budget(1.0) 
+shrinking(1.0) ,(0.0) deficits(1.0) soaring(1.0) ,(0.0) and(0.0) this(0.0) year(0.0) we(0.0) expect(0.0) a(0.0) $(0.0) 455(0.0) billion(1.0) deficit(1.0) at(0.0) least(0.0) ,(0.0) we(0.0) do(0.0) 
+have(0.0) to(0.0) make(0.0) certain(0.0) decisions(0.0) in(0.0) how(0.0) we(0.0) fund(1.0) our(0.0) Government(1.0) ,(0.0) how(0.0) we(0.0) fund(1.0) our(0.0) domestic(1.0) programs(1.0) ,(0.0) how(0.0) 
+we(0.0) fund(1.0) education(1.0) ,(0.0) health(1.0) care(1.0) ,(0.0) housing(1.0) ,(0.0) and(0.0) those(0.0) things(0.0) that(0.0) Americans(1.0) need(0.0) .(0.0) So(0.0) I(0.0) understand(0.0) it(0.0) 
+when(0.0) some(0.0) Americans(1.0) do(0.0) not(0.0) understand(0.0) that(0.0) we(0.0) have(0.0) a(0.0) responsibility(0.0) as(0.0) a(0.0) superpower(1.0) in(0.0) the(0.0) world(0.0) to(0.0) help(0.0) other(0.0) 
+countries(1.0) less(0.0) fortunate(0.0) and(0.0) who(0.0) are(0.0) strategic(0.0) allies(1.0) to(0.0) this(0.0) country(1.0) of(0.0) the(0.0) United(0.0) States(0.0) of(0.0) America(0.0) .(0.0) So(0.0) the(0.0) 
+budget(1.0) before(0.0) us(0.0) today(0.0) crafted(0.0) by(0.0) both(0.0) the(0.0) gentleman(0.0) from(0.0) Arizona(0.0) ((0.0) Mr.(0.0) Kolbe(1.0) )(0.0) and(1.0) the(0.0) gentlewoman(0.0) from(0.0) New(0.0) 
+York(1.0) ((0.0) Mrs.(0.0) Lowey(1.0) )(0.0) is(1.0) a(0.0) good(0.0) budget(0.0) .(0.0) It(0.0) does(0.0) have(0.0) shortcomings(0.0) ,(0.0) as(0.0) was(0.0) mentioned(0.0) ,(0.0) and(0.0) 
+I(0.0) would(0.0) like(0.0) to(0.0) go(0.0) over(0.0) a(0.0) few(0.0) of(0.0) those(0.0) .(0.0) The(0.0) Child(1.0) Survival(0.0) and(0.0) Health(1.0) account(0.0) needs(0.0) to(0.0) be(0.0) 
+more(0.0) fully(0.0) funded(1.0) to(0.0) take(0.0) care(0.0) of(0.0) the(0.0) problems(0.0) of(0.0) the(0.0) world(0.0) .(0.0) We(0.0) have(0.0) heard(0.0) much(0.0) discussion(0.0) and(0.0) we(0.0) 
+will(0.0) hear(0.0) more(0.0) today(0.0) about(0.0) the(0.0) pandemic(1.0) of(0.0) HIV(1.0) and(0.0) AIDS(1.0) .(0.0) India(0.0) with(0.0) over(0.0) 1(0.0) billion(1.0) people(0.0) ,(0.0) China(1.0) 
+with(0.0) nearly(0.0) the(0.0) same(0.0) or(0.0) more(0.0) people(0.0) ,(0.0) the(0.0) Caribbean(1.0) ,(0.0) Russia(1.0) ,(0.0) and(0.0) other(0.0) countries(0.0) are(0.0) now(0.0) finding(0.0) epidemic(1.0) 
+proportions(0.0) of(0.0) HIV(1.0) and(0.0) AIDS(1.0) .(0.0) We(0.0) have(0.0) servicemen(1.0) and(0.0) women(1.0) in(0.0) those(0.0) countries(1.0) who(0.0) may(0.0) be(0.0) afflicted(0.0) if(0.0) we(0.0) 
+do(0.0) not(0.0) act(0.0) now(0.0) .(0.0) The(0.0) President(1.0) was(0.0) recently(0.0) in(0.0) Africa(0.0) ,(0.0) and(0.0) I(0.0) commend(0.0) him(0.0) for(0.0) going(0.0) .(0.0) I(0.0) 
+also(0.0) commend(0.0) him(0.0) for(0.0) beginning(0.0) in(0.0) setting(0.0) up(0.0) the(0.0) Millenium(1.0) Challenge(0.0) Account(0.0) .(0.0) Any(0.0) additional(0.0) foreign(1.0) assistance(0.0) that(0.0) we(0.0) 
+
+
+----- below are rationale words -----
+
+Kolbe	for	
+York	Lowey	
+
+debate	
+foreign	assistance	
+budget	budget	
+trillion	foreign	assistance	
+
+budget	funds	countries	
+funded	
+budget	
+shrinking	deficits	soaring	billion	deficit	
+fund	Government	fund	domestic	programs	
+fund	education	health	care	housing	Americans	
+Americans	superpower	
+countries	allies	country	
+budget	Kolbe	and	
+York	Lowey	is	
+Child	Health	
+funded	
+pandemic	HIV	AIDS	billion	China	
+Caribbean	Russia	epidemic	
+HIV	AIDS	servicemen	women	countries	
+President	
+Millenium	foreign	
+
+reads % = 0.126

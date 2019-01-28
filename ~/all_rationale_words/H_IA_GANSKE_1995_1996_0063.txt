@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+And(0.0) for(0.0) large(0.0) areas(0.0) of(0.0) our(0.0) country(1.0) ,(0.0) we(0.0) would(1.0) also(1.0) have(0.0) an(0.0) equalization(1.0) in(0.0) the(0.0) funding(1.0) that(0.0) would(1.0) be(0.0) very(0.0) 
+important(0.0) as(0.0) well(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+country	would	also	equalization	funding	would	
+
+
+reads % = 0.24

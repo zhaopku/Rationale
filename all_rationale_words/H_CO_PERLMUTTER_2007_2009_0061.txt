@@ -1,0 +1,24 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) would(0.0) like(0.0) to(0.0) respond(0.0) to(0.0) my(0.0) friend(0.0) from(0.0) North(0.0) Carolina(0.0) .(0.0) I(0.0) just(0.0) have(0.0) to(0.0) remind(0.0) her(0.0) 
+that(0.0) it(0.0) was(0.0) President(0.0) Bush's(0.0) Secretary(1.0) of(0.0) the(0.0) Treasury(0.0) who(0.0) came(0.0) to(0.0) the(0.0) Congress(0.0) ,(0.0) hat(0.0) in(0.0) hand(0.0) ,(0.0) because(0.0) 
+of(0.0) a(0.0) potential(0.0) collapse(0.0) of(0.0) the(0.0) financial(0.0) system(0.0) ,(0.0) asking(0.0) for(0.0) immediate(0.0) assistance(1.0) from(0.0) this(0.0) Congress(0.0) to(0.0) right(0.0) the(0.0) financial(1.0) 
+system(0.0) ,(0.0) to(0.0) put(0.0) it(0.0) back(0.0) on(0.0) some(0.0) sort(0.0) of(0.0) stable(0.0) footing(0.0) .(0.0) Since(0.0) then(0.0) ,(0.0) we(0.0) have(0.0) seen(0.0) a(0.0) 
+variety(0.0) of(0.0) financial(1.0) institutions(1.0) take(0.0) advantage(0.0) of(0.0) the(0.0) assistance(0.0) that(0.0) was(0.0) given(0.0) .(0.0) This(0.0) is(0.0) designed(0.0) to(0.0) restrict(1.0) the(0.0) way(0.0) 
+companies(0.0) can(0.0) take(0.0) advantage(0.0) of(0.0) taxpayer(1.0) dollars(1.0) until(0.0) they(0.0) have(0.0) repaid(0.0) the(0.0) loans(0.0) and(0.0) capital(1.0) that(0.0) have(0.0) been(0.0) advanced(0.0) to(0.0) 
+these(0.0) companies(1.0) .(0.0) With(0.0) that(0.0) ,(0.0) I(0.0) would(0.0) like(0.0) to(0.0) yield(0.0) 2(0.0) minutes(0.0) to(0.0) my(0.0) friend(0.0) from(0.0) New(0.0) York(1.0) ((0.0) 
+Mr.(0.0) Arcuri(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Secretary	
+assistance	financial	
+
+financial	institutions	restrict	
+taxpayer	dollars	capital	
+companies	York	
+Arcuri	
+
+reads % = 0.08275862068965517

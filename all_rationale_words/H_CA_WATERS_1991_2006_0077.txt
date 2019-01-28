@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) the(0.0) President(0.0) of(0.0) the(0.0) United(0.0) States(0.0) continues(0.0) to(0.0) try(0.0) and(0.0) sell(0.0) Americans(1.0) on(0.0) the(0.0) fact(0.0) that(0.0) we(0.0) should(0.0) be(0.0) 
+in(0.0) Iraq(1.0) .(0.0) Mr.(0.0) President(1.0) ,(0.0) where(0.0) is(0.0) Osama(1.0) bin(0.0) Laden(1.0) ?(0.0) Mr.(0.0) President(1.0) ,(0.0) you(0.0) have(0.0) spent(0.0) over(0.0) $(0.0) 
+300(0.0) billion(1.0) on(0.0) this(0.0) occupation(1.0) in(0.0) Iraq(1.0) .(0.0) You(0.0) have(0.0) misled(1.0) this(0.0) country(1.0) .(0.0) We(0.0) have(0.0) over(0.0) 2,700(0.0) soldiers(1.0) that(0.0) 
+are(0.0) dead(0.0) and(0.0) the(0.0) occupation(1.0) continues(0.0) .(0.0) We(0.0) are(0.0) less(0.0) safe(0.0) .(0.0) The(0.0) real(0.0) war(1.0) is(0.0) in(0.0) Afghanistan(1.0) .(0.0) We(0.0) 
+have(0.0) not(0.0) dedicated(0.0) the(0.0) soldiers(1.0) or(0.0) the(0.0) money(1.0) there(0.0) .(0.0) That(0.0) border(1.0) between(0.0) Afghanistan(1.0) and(0.0) Pakistan(0.0) is(0.0) a(0.0) staging(0.0) ground(0.0) 
+for(0.0) our(0.0) soldiers(0.0) to(0.0) be(0.0) attacked(0.0) ,(0.0) yet(0.0) we(0.0) wrap(0.0) our(0.0) arms(1.0) around(0.0) Mr.(0.0) Musharraf(1.0) ,(0.0) the(0.0) President(1.0) of(0.0) Pakistan(0.0) 
+.(0.0) They(0.0) wo(0.0) n't(0.0) even(0.0) let(0.0) us(0.0) come(0.0) into(0.0) Pakistan(1.0) to(0.0) get(0.0) the(0.0) terrorists(1.0) who(0.0) are(0.0) attacking(0.0) our(0.0) soldiers(1.0) .(0.0) 
+It(0.0) is(0.0) time(0.0) for(0.0) the(0.0) President(1.0) of(0.0) the(0.0) United(0.0) States(0.0) to(0.0) own(0.0) up(0.0) to(0.0) the(0.0) fact(0.0) that(0.0) he(0.0) has(0.0) made(0.0) 
+a(0.0) mistake(0.0) .(0.0) He(0.0) has(0.0) misled(0.0) the(0.0) American(0.0) people(0.0) .(0.0) We(0.0) can(0.0) not(0.0) continue(0.0) this(0.0) occupation(1.0) .(0.0) It(0.0) is(0.0) draining(0.0) 
+us(0.0) of(0.0) our(0.0) resources(1.0) ,(0.0) and(0.0) it(0.0) is(0.0) placing(0.0) us(0.0) in(0.0) real(0.0) danger(0.0) .(0.0) Mr.(0.0) President(1.0) ,(0.0) go(0.0) get(0.0) Osama(1.0) 
+bin(0.0) Laden(1.0) 
+
+
+----- below are rationale words -----
+
+Americans	
+Iraq	President	Osama	Laden	President	
+billion	occupation	Iraq	misled	country	soldiers	
+occupation	war	Afghanistan	
+soldiers	money	border	Afghanistan	
+arms	Musharraf	President	
+Pakistan	terrorists	soldiers	
+President	
+occupation	
+resources	President	Osama	
+Laden	
+
+reads % = 0.15270935960591134

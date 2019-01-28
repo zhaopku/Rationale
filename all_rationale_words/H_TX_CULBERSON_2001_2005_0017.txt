@@ -1,0 +1,34 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) the(0.0) President(1.0) of(0.0) the(0.0) United(0.0) States(0.0) for(0.0) speaking(0.0) out(0.0) so(0.0) forcefully(1.0) yesterday(0.0) with(0.0) Secretary(1.0) 
+Chertoff(1.0) and(0.0) reiterating(1.0) that(0.0) they(0.0) are(0.0) determined(0.0) to(0.0) protect(0.0) our(0.0) borders(1.0) and(0.0) to(0.0) prevent(0.0) or(0.0) stop(0.0) the(0.0) uncontrolled(1.0) flood(1.0) of(0.0) 
+illegal(1.0) immigration(1.0) into(0.0) this(0.0) country(1.0) .(0.0) This(0.0) is(0.0) a(0.0) law-and-order(1.0) issue(0.0) .(0.0) I(0.0) just(0.0) returned(0.0) form(0.0) a(0.0) visit(0.0) to(0.0) the(0.0) 
+Rio(1.0) Grande(0.0) River(1.0) ,(0.0) and(0.0) you(0.0) do(0.0) not(0.0) need(0.0) to(0.0) go(0.0) to(0.0) Baghdad(0.0) to(0.0) see(0.0) the(0.0) war(1.0) on(0.0) terror(1.0) .(0.0) 
+Nuevo(0.0) Laredo(1.0) is(0.0) essentially(0.0) a(0.0) ghost(0.0) town(0.0) .(0.0) Laredo(0.0) is(0.0) under(0.0) siege(1.0) .(0.0) The(0.0) largest(1.0) inland(0.0) port(0.0) in(0.0) the(0.0) United(0.0) 
+States(0.0) ,(0.0) Laredo(0.0) ,(0.0) is(0.0) in(0.0) a(0.0) state(0.0) of(0.0) war(1.0) .(0.0) It(0.0) is(0.0) besieged(0.0) by(0.0) narcoterrorists(1.0) who(0.0) are(0.0) equipped(0.0) with(0.0) 
+the(0.0) very(0.0) best(0.0) weapons(0.0) and(0.0) best(0.0) equipment(0.0) .(0.0) The(0.0) sheriff(0.0) and(0.0) the(0.0) local(0.0) authorities(0.0) are(0.0) outgunned(0.0) and(0.0) overmatched(0.0) .(0.0) Our(0.0) 
+Border(1.0) Patrol(0.0) is(0.0) outgunned(1.0) and(0.0) overmatched(0.0) .(0.0) Mr.(0.0) President(1.0) ,(0.0) thank(0.0) you(0.0) ,(0.0) sir(0.0) .(0.0) We(0.0) need(0.0) you(0.0) ,(0.0) with(0.0) 
+the(0.0) stroke(0.0) of(0.0) a(0.0) pen(0.0) ,(0.0) please(0.0) reinforce(0.0) the(0.0) Border(1.0) Patrol(0.0) .(0.0) Help(0.0) our(0.0) local(0.0) law(1.0) enforcement(1.0) authorities(1.0) defend(0.0) the(0.0) 
+peace(1.0) and(0.0) prosperity(1.0) of(0.0) the(0.0) United(0.0) States(0.0) or(0.0) our(0.0) way(0.0) of(0.0) life(0.0) may(0.0) ,(0.0) indeed(0.0) ,(0.0) change(0.0) .(0.0) Thank(0.0) you(0.0) 
+,(0.0) Mr.(0.0) President(1.0) .(0.0) The(0.0) American(0.0) people(0.0) are(0.0) way(0.0) beyond(0.0) the(0.0) tipping(1.0) point(0.0) in(0.0) frustration(0.0) and(0.0) outrage(1.0) at(0.0) the(0.0) unprotected(1.0) 
+borders(0.0) and(0.0) this(0.0) flood(1.0) of(0.0) illegal(1.0) immigration(1.0) ,(0.0) and(0.0) we(0.0) are(0.0) very(0.0) grateful(0.0) to(0.0) you(0.0) ,(0.0) sir(0.0) ,(0.0) for(0.0) stepping(0.0) 
+up(0.0) to(0.0) protect(0.0) our(0.0) borders(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+President	forcefully	Secretary	
+Chertoff	reiterating	borders	uncontrolled	flood	
+illegal	immigration	country	law-and-order	
+Rio	River	war	terror	
+Laredo	siege	largest	
+war	narcoterrorists	
+
+Border	outgunned	President	
+Border	law	enforcement	authorities	
+peace	prosperity	
+President	tipping	outrage	unprotected	
+flood	illegal	immigration	
+
+
+reads % = 0.14979757085020243

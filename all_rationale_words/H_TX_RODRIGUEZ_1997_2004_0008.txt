@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) most(0.0) Americans(1.0) believe(0.0) that(0.0) our(0.0) troops(1.0) should(0.0) be(0.0) given(0.0) the(0.0) opportunity(0.0) to(0.0) provide(0.0) the(0.0) services(0.0) that(0.0) they(0.0) are(0.0) entitled(0.0) 
+to(0.0) and(0.0) as(0.0) they(0.0) battle(0.0) we(0.0) all(0.0) recognize(0.0) and(0.0) we(0.0) are(0.0) extremely(0.0) supportive(0.0) of(0.0) their(0.0) efforts(1.0) .(0.0) But(0.0) we(0.0) also(0.0) 
+need(0.0) to(0.0) respect(0.0) them(0.0) when(0.0) they(0.0) come(0.0) home(0.0) .(0.0) We(0.0) know(0.0) that(0.0) the(0.0) spouses(1.0) also(0.0) sacrifice(0.0) .(0.0) But(0.0) this(0.0) House(0.0) 
+has(0.0) refused(1.0) to(0.0) keep(0.0) the(0.0) promise(1.0) and(0.0) provide(0.0) the(0.0) military(0.0) retirees(0.0) and(0.0) their(0.0) spouses(1.0) with(0.0) the(0.0) retirement(1.0) benefits(0.0) that(0.0) they(0.0) 
+earned(0.0) in(0.0) this(0.0) country(1.0) .(0.0) Over(0.0) 225,000(0.0) military(0.0) spouses(0.0) are(0.0) currently(0.0) paying(1.0) the(0.0) survivor(1.0) benefit(1.0) penalty(1.0) and(0.0) it(0.0) eventually(0.0) will(0.0) 
+be(0.0) 1.2(0.0) million(0.0) military(1.0) retirees(1.0) enrolled(0.0) in(0.0) this(0.0) survivor(1.0) benefit(0.0) plan(0.0) .(0.0) Today(0.0) we(0.0) ask(0.0) you(0.0) to(0.0) sign(0.0) and(0.0) we(0.0) 
+launched(0.0) a(0.0) discharge(0.0) petition(1.0) to(0.0) force(1.0) this(0.0) House(0.0) in(0.0) a(0.0) bipartisan(1.0) way(0.0) to(0.0) reach(0.0) out(0.0) to(0.0) end(0.0) the(0.0) survivor(1.0) benefit(0.0) 
+penalty(1.0) and(0.0) change(0.0) it(0.0) so(0.0) that(0.0) our(0.0) military(1.0) individuals(0.0) and(0.0) spouses(1.0) will(0.0) be(0.0) able(0.0) to(0.0) get(0.0) that(0.0) service(0.0) that(0.0) is(0.0) 
+needed(0.0) .(0.0) The(0.0) survivors(1.0) penalty(1.0) hurts(1.0) military(1.0) widows(1.0) .(0.0) We(0.0) need(0.0) to(0.0) do(0.0) the(0.0) right(0.0) thing(0.0) .(0.0) Sign(0.0) the(0.0) discharge(0.0) 
+petition(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Americans	troops	
+efforts	
+spouses	
+refused	promise	spouses	retirement	
+country	paying	survivor	benefit	penalty	
+military	retirees	survivor	
+petition	force	bipartisan	survivor	
+penalty	military	spouses	
+survivors	penalty	hurts	military	widows	
+petition	
+
+reads % = 0.15846994535519127

@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) am(1.0) very(1.0) pleased(0.0) to(0.0) yield(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Washington(1.0) ((0.0) Mr.(0.0) Inslee(1.0) )(0.0) .(0.0) I(0.0) mentioned(0.0) 
+earlier(0.0) the(0.0) losses(0.0) .(0.0) I(1.0) am(1.0) sure(1.0) that(0.0) the(0.0) gentleman(0.0) from(0.0) Washington(1.0) will(0.0) be(0.0) able(0.0) to(0.0) bring(0.0) us(0.0) current(0.0) .(0.0) 
+I(0.0) am(1.0) sure(1.0) that(0.0) my(0.0) statistics(1.0) do(0.0) not(1.0) reflect(1.0) all(0.0) of(0.0) the(0.0) collateral(0.0) damage(0.0) that(0.0) has(0.0) been(0.0) done(0.0) in(0.0) his(0.0) 
+great(0.0) State(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	am	very	Washington	Inslee	
+I	am	sure	Washington	
+am	sure	statistics	not	reflect	
+State	
+
+reads % = 0.234375

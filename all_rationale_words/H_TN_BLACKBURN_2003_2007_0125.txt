@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Iowa(1.0) ,(0.0) and(0.0) I(0.0) do(0.0) rise(0.0) to(0.0) support(0.0) his(0.0) amendment(1.0) .(0.0) As(0.0) a(0.0) point(0.0) 
+of(0.0) clarification(0.0) ,(0.0) I(0.0) think(0.0) the(0.0) gentleman(0.0) from(0.0) Iowa(1.0) ,(0.0) who(0.0) has(0.0) worked(0.0) in(0.0) the(0.0) business(0.0) world(0.0) and(0.0) has(0.0) dealt(0.0) 
+with(0.0) ICE(0.0) on(0.0) employment(1.0) issues(0.0) ,(0.0) has(0.0) such(0.0) a(0.0) good(0.0) understanding(0.0) of(0.0) how(0.0) this(0.0) works(0.0) .(0.0) To(0.0) the(0.0) esteemed(0.0) chairman(0.0) 
+from(0.0) North(0.0) Carolina(0.0) ,(0.0) who(0.0) has(0.0) spent(0.0) much(0.0) of(0.0) his(0.0) life(0.0) in(0.0) academia(1.0) ,(0.0) I(0.0) think(0.0) that(0.0) what(0.0) we(0.0) have(0.0) 
+got(0.0) is(0.0) apples(0.0) and(0.0) oranges(0.0) and(0.0) what(0.0) we(0.0) need(0.0) to(0.0) do(0.0) is(0.0) pull(0.0) it(0.0) together(0.0) .(0.0) Having(0.0) trained(0.0) people(0.0) with(0.0) 
+ICE(1.0) who(0.0) are(0.0) in(0.0) the(0.0) field(0.0) ,(0.0) who(0.0) actually(0.0) would(0.0) help(0.0) encourage(0.0) employers(1.0) to(0.0) use(0.0) this(0.0) program(1.0) ,(0.0) it(0.0) is(0.0) 
+an(0.0) important(0.0) part(0.0) of(0.0) internal(0.0) enforcement(1.0) for(0.0) our(0.0) employers(1.0) ,(0.0) knowing(0.0) how(0.0) to(0.0) use(0.0) it(0.0) ,(0.0) having(0.0) that(0.0) tool(0.0) to(0.0) 
+be(0.0) certain(0.0) that(0.0) they(0.0) know(0.0) how(0.0) to(0.0) use(0.0) the(0.0) Basic(0.0) Pilot(0.0) Program(0.0) ,(0.0) to(0.0) be(0.0) certain(0.0) that(0.0) individuals(0.0) who(0.0) are(0.0) 
+going(0.0) to(0.0) work(0.0) for(0.0) them(0.0) are(0.0) indeed(0.0) who(0.0) they(0.0) say(0.0) they(0.0) are(0.0) and(0.0) that(0.0) they(0.0) are(0.0) in(0.0) the(0.0) country(1.0) legally(0.0) 
+.(0.0) That(0.0) is(0.0) important(0.0) for(0.0) employers(1.0) .(0.0) It(0.0) is(0.0) an(0.0) important(0.0) tool(0.0) for(0.0) having(0.0) immigration(1.0) enforcement(1.0) in(0.0) this(0.0) country(1.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+Iowa	amendment	
+Iowa	
+employment	
+academia	
+
+ICE	employers	program	
+enforcement	employers	
+
+country	
+employers	immigration	enforcement	country	
+
+
+reads % = 0.07462686567164178

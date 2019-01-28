@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) it(0.0) is(0.0) my(0.0) pleasure(0.0) to(0.0) yield(0.0) such(0.0) time(0.0) as(0.0) he(0.0) may(0.0) consume(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Hawaii(0.0) ((0.0) Mr.(0.0) 
+Abercrombie(1.0) )(0.0) .(0.0) Speaker(0.0) ,(0.0) I(0.0) have(0.0) been(0.0) told(0.0) that(0.0) music(0.0) is(0.0) a(0.0) universal(0.0) language(0.0) ,(0.0) and(0.0) it(0.0) is(0.0) my(0.0) 
+pleasure(0.0) to(0.0) yield(0.0) such(0.0) time(0.0) as(0.0) he(0.0) might(0.0) consume(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Michigan(1.0) ((0.0) Mr.(0.0) Conyers(1.0) )(0.0) ,(0.0) one(0.0) 
+who(0.0) is(0.0) known(0.0) as(0.0) a(0.0) culturist(0.0) ,(0.0) but(0.0) also(0.0) an(0.0) impresario(0.0) himself(0.0) .(0.0) ((0.0) Mr.(0.0) CONYERS(1.0) asked(0.0) and(0.0) was(0.0) given(0.0) 
+permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) remarks(0.0) .(0.0) )(0.0) 
+
+
+----- below are rationale words -----
+
+
+Abercrombie	
+Michigan	Conyers	
+CONYERS	
+
+
+reads % = 0.0449438202247191

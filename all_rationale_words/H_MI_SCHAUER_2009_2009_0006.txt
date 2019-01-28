@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) appreciate(0.0) the(0.0) comments(0.0) from(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) in(0.0) support(0.0) of(0.0) the(0.0) amendment(1.0) .(0.0) My(0.0) amendment(1.0) does(1.0) n't(0.0) change(0.0) the(0.0) 
+content(0.0) of(0.0) the(0.0) disclosure(1.0) ,(0.0) only(0.0) its(0.0) dissemination(1.0) through(0.0) a(0.0) Web(0.0) site(0.0) that(0.0) the(0.0) Federal(1.0) Reserve(0.0) Board(0.0) would(0.0) collect(0.0) and(0.0) 
+post(0.0) those(0.0) disclosures(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) am(0.0) happy(0.0) to(0.0) yield(0.0) 1(0.0) minute(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Illinois(1.0) ((0.0) 
+Mr.(0.0) Gutierrez(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+amendment	amendment	does	
+disclosure	dissemination	Federal	
+Chairman	Illinois	
+Gutierrez	
+
+reads % = 0.13846153846153847

@@ -1,0 +1,42 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(1.0) ,(0.0) I(0.0) move(0.0) to(0.0) strike(0.0) the(0.0) requisite(0.0) number(0.0) of(0.0) words(0.0) .(0.0) Mr.(1.0) Chairman(1.0) ,(0.0) I(0.0) know(1.0) that(0.0) our(0.0) debate(0.0) has(0.0) 
+been(0.0) moving(1.0) along(0.0) and(0.0) we(0.0) are(0.0) trying(0.0) to(0.0) get(0.0) to(0.0) a(0.0) vote(1.0) before(1.0) our(0.0) time(0.0) runs(1.0) out(0.0) ,(0.0) but(0.0) I(0.0) 
+want(1.0) to(0.0) make(0.0) a(0.0) point(0.0) .(0.0) In(0.0) listening(0.0) to(0.0) the(0.0) debate(1.0) from(0.0) those(0.0) who(0.0) are(0.0) opposing(1.0) this(0.0) piece(0.0) of(0.0) legislation(0.0) 
+,(0.0) I(0.0) do(0.0) not(1.0) believe(0.0) that(0.0) disclosure(1.0) is(0.0) against(0.0) the(0.0) public(0.0) interest(0.0) .(0.0) That(0.0) is(0.0) what(0.0) this(0.0) bill(0.0) is(0.0) all(0.0) 
+about(0.0) .(0.0) It(0.0) is(0.0) about(0.0) disclosure(1.0) .(0.0) When(1.0) we(0.0) bring(0.0) this(0.0) information(0.0) forward(0.0) so(0.0) Members(0.0) understand(0.0) what(0.0) they(0.0) are(0.0) voting(1.0) 
+for(0.0) ,(0.0) the(0.0) cost(0.0) ,(0.0) how(1.0) much(0.0) it(0.0) is(0.0) going(0.0) to(0.0) cost(0.0) and(0.0) how(0.0) that(0.0) is(0.0) going(0.0) to(0.0) be(0.0) allocated(1.0) 
+among(0.0) the(0.0) States(0.0) ,(0.0) I(0.0) do(0.0) not(1.0) think(0.0) it(0.0) is(0.0) bad(0.0) .(0.0) In(1.0) fact(1.0) ,(0.0) I(0.0) think(1.0) it(0.0) benefits(1.0) the(0.0) 
+public(0.0) interest(0.0) .(0.0) I(0.0) come(0.0) from(0.0) a(0.0) State(1.0) legislature(1.0) where(0.0) ,(0.0) when(0.0) legislation(0.0) came(1.0) before(1.0) us(0.0) ,(0.0) we(0.0) understood(0.0) what(0.0) 
+that(0.0) piece(0.0) of(0.0) legislation(0.0) was(0.0) going(0.0) to(0.0) cost(0.0) because(0.0) we(0.0) had(0.0) some(0.0) estimates(1.0) before(0.0) us(0.0) .(0.0) We(0.0) not(0.0) only(0.0) understood(0.0) 
+how(0.0) it(0.0) was(0.0) going(0.0) to(0.0) affect(0.0) our(0.0) State(0.0) general(0.0) fund(1.0) ,(0.0) but(0.0) we(0.0) understood(0.0) how(1.0) it(0.0) was(0.0) going(0.0) to(0.0) impact(0.0) 
+potentially(1.0) the(0.0) special(1.0) districts(0.0) that(0.0) were(0.0) within(1.0) the(0.0) State(1.0) ,(0.0) to(0.0) understand(0.0) what(0.0) it(0.0) was(0.0) going(0.0) to(0.0) cost(0.0) the(0.0) cities(1.0) 
+and(0.0) the(0.0) school(0.0) districts(0.0) .(0.0) When(1.0) we(0.0) became(0.0) better(0.0) informed(1.0) ,(0.0) we(0.0) began(0.0) to(0.0) understand(0.0) how(1.0) best(0.0) to(0.0) apply(0.0) the(0.0) 
+piece(0.0) of(0.0) legislation(0.0) .(0.0) In(0.0) some(0.0) instances(0.0) where(0.0) it(0.0) may(0.0) have(0.0) become(0.0) too(0.0) expensive(1.0) for(0.0) small(0.0) communities(0.0) ,(0.0) then(0.0) we(0.0) 
+would(0.0) provide(0.0) an(0.0) exemption(1.0) .(0.0) When(1.0) we(0.0) looked(1.0) at(0.0) what(1.0) the(0.0) benefits(1.0) were(0.0) to(0.0) be(0.0) accrued(1.0) and(0.0) what(0.0) it(0.0) was(0.0) 
+going(0.0) to(0.0) cost(0.0) a(0.0) small(0.0) community(1.0) ,(0.0) then(0.0) we(0.0) could(0.0) begin(0.0) to(0.0) apply(0.0) the(0.0) knowledge(0.0) to(0.0) come(0.0) up(0.0) with(0.0) a(0.0) 
+better(0.0) piece(0.0) of(0.0) legislation(0.0) .(0.0) I(1.0) am(1.0) standing(0.0) here(0.0) today(0.0) to(0.0) support(0.0) this(0.0) piece(0.0) of(0.0) legislation(0.0) because(1.0) I(0.0) happen(0.0) to(0.0) 
+believe(0.0) that(0.0) disclosure(1.0) benefits(1.0) the(0.0) public(0.0) interest(0.0) .(0.0) That(0.0) is(0.0) what(0.0) this(0.0) bill(0.0) is(0.0) all(0.0) about(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Mr.	Chairman	know	
+moving	vote	before	runs	
+want	debate	opposing	
+not	disclosure	
+disclosure	When	voting	
+how	allocated	
+not	In	fact	think	benefits	
+State	legislature	came	before	
+estimates	
+fund	how	
+potentially	special	within	State	cities	
+When	informed	how	
+expensive	
+exemption	When	looked	what	benefits	accrued	
+community	
+I	am	because	
+disclosure	benefits	
+
+reads % = 0.14792899408284024

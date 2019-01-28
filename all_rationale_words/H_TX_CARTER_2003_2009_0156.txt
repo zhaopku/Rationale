@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) the(0.0) lady(0.0) on(0.0) television(0.0) said(0.0) ,(0.0) ``(0.0) Where(0.0) 's(0.0) the(0.0) beef(0.0) ?(0.0) ''(0.0) The(0.0) American(0.0) people(0.0) are(0.0) now(0.0) saying(0.0) 
+,(0.0) ``(0.0) Where(0.0) 's(0.0) the(0.0) jobs(0.0) ?(0.0) ''(0.0) One(0.0) of(0.0) the(0.0) things(0.0) that(0.0) the(0.0) President(1.0) promised(1.0) was(0.0) jobs(0.0) for(0.0) this(0.0) 
+country(1.0) .(0.0) The(0.0) Speaker(0.0) said(0.0) ,(0.0) It(0.0) 's(0.0) about(0.0) jobs(0.0) ,(0.0) jobs(0.0) ,(0.0) jobs(0.0) ,(0.0) jobs(0.0) ,(0.0) but(0.0) the(0.0) national(1.0) 
+unemployment(1.0) is(0.0) 9.5(0.0) percent(0.0) ,(0.0) and(0.0) in(0.0) the(0.0) Midwest(1.0) it(0.0) 's(0.0) in(0.0) double(0.0) digits(0.0) .(0.0) Are(0.0) those(0.0) the(0.0) jobs(0.0) ?(0.0) 
+Yes(0.0) ,(0.0) the(0.0) Democrats(1.0) have(0.0) given(0.0) us(0.0) some(0.0) jobs(0.0) .(0.0) They(0.0) 've(0.0) given(0.0) us(0.0) this(0.0) cap-and-tax(1.0) bill(1.0) which(1.0) is(0.0) going(0.0) 
+to(0.0) stick(0.0) a(0.0) tax(1.0) collector(1.0) in(0.0) everybody's(0.0) pocket(0.0) ,(0.0) destroy(0.0) small(0.0) businesses(1.0) ,(0.0) and(0.0) destroy(1.0) jobs(1.0) in(0.0) the(0.0) country(1.0) .(0.0) 
+They(0.0) 've(0.0) given(0.0) us(0.0) 33(0.0) czars(1.0) at(0.0) $(0.0) 170,000(0.0) a(0.0) year(0.0) to(0.0) reward(0.0) their(0.0) cronies(1.0) who(0.0) helped(0.0) them(0.0) get(0.0) elected(0.0) 
+up(0.0) here(0.0) by(0.0) creating(0.0) new(0.0) jobs(0.0) in(0.0) Washington(1.0) for(0.0) them(0.0) .(0.0) Last(0.0) night(0.0) the(0.0) Energy(0.0) and(0.0) Commerce(0.0) Committee(0.0) voted(0.0) to(0.0) 
+put(0.0) a(0.0) bureaucrat(0.0) between(0.0) a(0.0) doctor(0.0) and(0.0) his(0.0) patient(0.0) to(0.0) tell(0.0) him(0.0) how(0.0) he(0.0) 's(0.0) going(0.0) to(0.0) treat(0.0) that(0.0) sick(0.0) 
+person(0.0) .(0.0) That(0.0) 's(0.0) a(0.0) new(0.0) job(0.0) they(0.0) want(0.0) to(0.0) create(0.0) .(0.0) They(0.0) 've(0.0) got(0.0) this(0.0) idea(0.0) that(0.0) if(0.0) they(0.0) 
+throw(0.0) enough(0.0) money(1.0) to(0.0) ACORN(1.0) ,(0.0) they're(0.0) going(0.0) to(0.0) create(0.0) jobs(1.0) for(0.0) ACORN(1.0) --(0.0) if(0.0) they(0.0) can(0.0) keep(0.0) the(0.0) indictments(1.0) 
+away(0.0) from(0.0) them(0.0) .(0.0) These(0.0) are(0.0) not(0.0) jobs(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+President	promised	
+country	national	
+unemployment	Midwest	
+Democrats	cap-and-tax	bill	which	
+tax	collector	businesses	destroy	jobs	country	
+czars	cronies	
+Washington	
+
+
+money	ACORN	jobs	ACORN	indictments	
+
+
+reads % = 0.10434782608695652

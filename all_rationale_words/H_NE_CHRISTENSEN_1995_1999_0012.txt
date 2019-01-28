@@ -1,0 +1,38 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) me(0.0) this(0.0) time(0.0) ,(0.0) and(0.0) I(0.0) rise(0.0) in(0.0) wholehearted(1.0) support(0.0) of(0.0) H.R(0.0) .(0.0) 
+434(0.0) ,(0.0) the(0.0) African(1.0) Growth(1.0) and(0.0) Opportunity(1.0) Act(0.0) ,(0.0) a(0.0) landmark(1.0) piece(0.0) of(0.0) legislation(0.0) that(0.0) is(0.0) long(0.0) overdue(1.0) .(0.0) I(0.0) 
+also(0.0) want(0.0) to(0.0) applaud(0.0) my(0.0) colleagues(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) York(1.0) ((0.0) Mr.(0.0) Rangel(1.0) )(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) 
+Illinois(0.0) ((0.0) Mr.(0.0) Crane(1.0) )(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) Jersey(1.0) ((0.0) Mr.(0.0) Payne(1.0) )(0.0) ,(0.0) and(0.0) all(0.0) of(0.0) the(0.0) 
+others(0.0) who(0.0) have(0.0) worked(0.0) so(0.0) hard(0.0) through(0.0) several(0.0) Congresses(0.0) to(0.0) bring(0.0) us(0.0) to(0.0) this(0.0) day(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) the(0.0) 
+United(0.0) States(0.0) has(0.0) come(0.0) to(0.0) the(0.0) aid(0.0) of(0.0) many(0.0) countries(0.0) ,(0.0) some(0.0) of(0.0) which(0.0) have(0.0) not(0.0) made(0.0) the(0.0) strides(0.0) in(0.0) 
+democracy(1.0) we(0.0) are(0.0) seeing(0.0) in(0.0) many(0.0) parts(0.0) of(0.0) the(0.0) African(1.0) continent(0.0) .(0.0) Today(0.0) ,(0.0) with(0.0) very(0.0) little(0.0) impact(0.0) on(0.0) jobs(0.0) 
+in(0.0) the(0.0) U.S.(0.0) ,(0.0) we(0.0) can(0.0) begin(0.0) a(0.0) process(0.0) that(0.0) has(0.0) the(0.0) potential(0.0) to(0.0) turn(0.0) Sub-Saharan(1.0) Africa(0.0) into(0.0) a(0.0) model(0.0) 
+of(0.0) economic(1.0) progress(0.0) .(0.0) Through(0.0) enacting(1.0) this(0.0) important(0.0) piece(0.0) of(0.0) legislation(1.0) ,(0.0) we(0.0) will(0.0) also(0.0) see(0.0) a(0.0) win(0.0) for(0.0) this(0.0) 
+country(1.0) in(0.0) terms(0.0) of(0.0) increased(1.0) trade(1.0) and(0.0) ,(0.0) thus(0.0) ,(0.0) more(0.0) jobs(0.0) ,(0.0) not(0.0) less(0.0) ,(0.0) as(0.0) the(0.0) charts(0.0) next(0.0) 
+to(0.0) me(0.0) support(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) also(0.0) want(0.0) to(0.0) strongly(0.0) support(0.0) amendments(1.0) which(0.0) will(0.0) address(0.0) what(0.0) would(0.0) be(0.0) 
+a(0.0) major(0.0) obstacle(0.0) to(0.0) the(0.0) success(0.0) we(0.0) envision(1.0) through(0.0) H.R(0.0) .(0.0) 434(0.0) ,(0.0) that(0.0) of(0.0) AIDS(1.0) in(0.0) Africa(1.0) ,(0.0) a(0.0) 
+pandemic(1.0) which(0.0) is(0.0) destroying(1.0) families(0.0) and(0.0) decimating(1.0) the(0.0) populations(1.0) of(0.0) many(0.0) of(0.0) the(0.0) countries(0.0) we(0.0) seek(0.0) to(0.0) help(0.0) .(0.0) Mr.(0.0) 
+Chairman(1.0) ,(0.0) I(0.0) urge(0.0) the(0.0) passage(1.0) of(0.0) this(0.0) bill(1.0) and(0.0) ask(0.0) my(0.0) colleagues(0.0) to(0.0) join(0.0) us(0.0) in(0.0) the(0.0) effort(1.0) to(0.0) 
+bring(0.0) affordable(1.0) medication(0.0) and(0.0) health(1.0) care(1.0) to(0.0) the(0.0) people(0.0) of(0.0) Africa(1.0) and(0.0) the(0.0) rest(0.0) of(0.0) the(0.0) world(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+wholehearted	
+African	Growth	Opportunity	landmark	overdue	
+York	Rangel	
+Crane	Jersey	Payne	
+Chairman	
+
+democracy	African	
+Sub-Saharan	
+economic	enacting	legislation	
+country	increased	trade	
+Chairman	amendments	
+envision	AIDS	Africa	
+pandemic	destroying	decimating	populations	
+Chairman	passage	bill	effort	
+affordable	health	care	Africa	
+
+reads % = 0.12709030100334448

@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+Pat(1.0) Durante(1.0) ,(0.0) who(0.0) has(0.0) worked(0.0) for(0.0) Henry(0.0) Hyde(1.0) since(0.0) 1974(0.0) ,(0.0) said(0.0) that(0.0) Henry(0.0) is(0.0) now(0.0) in(0.0) the(0.0) Guinness(0.0) Book(0.0) 
+of(0.0) World(0.0) Records(0.0) as(0.0) having(0.0) done(0.0) the(0.0) most(0.0) number(0.0) of(0.0) parades(0.0) of(0.0) any(0.0) sitting(0.0) Member(0.0) of(0.0) Congress(0.0) at(0.0) that(0.0) time(0.0) 
+.(0.0) To(0.0) mark(0.0) that(0.0) service(0.0) ,(0.0) I(0.0) yield(0.0) to(0.0) my(0.0) colleague(0.0) from(0.0) Illinois(1.0) ((0.0) Mr.(0.0) Manzullo(1.0) )(0.0) ,(0.0) the(0.0) chairman(0.0) 
+of(0.0) the(0.0) Small(0.0) Business(0.0) Committee(0.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) I(0.0) would(0.0) just(0.0) note(0.0) that(0.0) the(0.0) conference(0.0) report(0.0) on(0.0) the(0.0) bill(0.0) 
+that(0.0) we(0.0) just(0.0) filed(0.0) ,(0.0) H.R(0.0) .(0.0) 5692(0.0) ,(0.0) is(0.0) called(0.0) the(0.0) Henry(0.0) J.(1.0) Hyde(1.0) United(0.0) States-India(1.0) Peaceful(0.0) Atomic(0.0) Energy(0.0) 
+Cooperation(0.0) Act(0.0) of(0.0) 2006(0.0) .(0.0) To(0.0) mark(0.0) that(0.0) bipartisan(1.0) spirit(0.0) of(0.0) Henry(0.0) 's(0.0) leadership(0.0) on(0.0) our(0.0) foreign(1.0) policy(0.0) ,(0.0) that(0.0) 
+partisanship(1.0) should(0.0) end(0.0) at(0.0) the(0.0) water(0.0) 's(0.0) edge(0.0) ,(0.0) I(0.0) recognize(0.0) my(0.0) colleague(0.0) ,(0.0) Congressman(1.0) Faleomavaega(1.0) .(0.0) I(0.0) yield(0.0) to(0.0) 
+my(0.0) colleague(0.0) ,(0.0) Henry(0.0) Hyde(1.0) ,(0.0) a(0.0) neighbor(0.0) and(0.0) colleague(0.0) representing(0.0) DuPage(1.0) County(0.0) ,(0.0) the(0.0) gentlewoman(0.0) from(0.0) Illinois(1.0) ((0.0) Mrs.(0.0) 
+Biggert(1.0) )(0.0) .(0.0) Hastert(1.0) )(0.0) ,(0.0) the(0.0) Speaker(0.0) of(0.0) the(0.0) House(0.0) ,(0.0) and(0.0) also(0.0) a(0.0) next-door(0.0) neighbor(0.0) of(0.0) Henry(0.0) Hyde(1.0) 
+in(0.0) his(0.0) service(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Durante	Hyde	
+
+Illinois	Manzullo	
+Speaker	
+J.	Hyde	States-India	
+bipartisan	foreign	
+partisanship	Congressman	Faleomavaega	
+Hyde	DuPage	Illinois	
+Biggert	Hastert	Hyde	
+
+
+reads % = 0.10270270270270271

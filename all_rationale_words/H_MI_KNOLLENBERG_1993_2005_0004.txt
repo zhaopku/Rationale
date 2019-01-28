@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) strong(0.0) support(0.0) of(0.0) the(0.0) Fiscal(1.0) Year(0.0) 2006(0.0) Science(0.0) ,(0.0) State(1.0) ,(0.0) Justice(0.0) Appropriations(0.0) bill(0.0) and(0.0) 
+to(0.0) compliment(0.0) my(0.0) colleague(0.0) ,(0.0) Frank(0.0) Wolf(1.0) ,(0.0) for(0.0) a(0.0) job(0.0) well(0.0) done(0.0) .(0.0) I(0.0) am(0.0) particularly(0.0) pleased(0.0) with(0.0) the(0.0) 
+increase(1.0) given(0.0) to(0.0) the(0.0) Manufacturing(0.0) Extension(0.0) Partnership(1.0) ,(0.0) MEP(1.0) and(0.0) I(0.0) would(0.0) like(0.0) to(0.0) commend(0.0) Chairman(0.0) Wolf(1.0) for(0.0) his(0.0) support(0.0) 
+of(0.0) this(0.0) important(0.0) program(1.0) .(0.0) The(0.0) manufacturing(0.0) sector(1.0) in(0.0) this(0.0) country(1.0) faces(0.0) many(0.0) challenges(0.0) .(0.0) There(0.0) are(0.0) several(0.0) major(0.0) issues(0.0) 
+that(0.0) we(0.0) and(0.0) other(0.0) policy(1.0) makers(0.0) on(0.0) the(0.0) Federal(1.0) level(0.0) need(0.0) to(0.0) address(0.0) to(0.0) improve(0.0) the(0.0) business(0.0) environment(0.0) for(0.0) manufacturers(0.0) 
+.(0.0) Those(0.0) will(0.0) take(0.0) time(0.0) .(0.0) But(0.0) the(0.0) MEP(1.0) program(1.0) has(0.0) a(0.0) direct(0.0) impact(0.0) on(0.0) thousands(0.0) of(0.0) small(0.0) and(0.0) medium(0.0) 
+manufacturers(0.0) each(0.0) year(0.0) .(0.0) MEP(0.0) is(0.0) a(0.0) Federal-State-private(0.0) network(0.0) of(0.0) over(0.0) 60(0.0) centers(1.0) with(0.0) 400(0.0) locations(0.0) in(0.0) all(0.0) 50(0.0) States(0.0) 
+.(0.0) These(0.0) not-for-profit(1.0) centers(1.0) work(0.0) with(0.0) small(0.0) and(0.0) medium-sized(0.0) manufacturers(0.0) to(0.0) help(0.0) them(0.0) adopt(1.0) and(0.0) use(0.0) the(0.0) latest(0.0) and(0.0) most(0.0) 
+efficient(0.0) technologies(0.0) ,(0.0) processes(0.0) ,(0.0) and(0.0) business(0.0) practices(0.0) .(0.0) The(0.0) MEP(1.0) Center(0.0) in(0.0) my(0.0) home(0.0) State(0.0) ,(0.0) the(0.0) Michigan(1.0) Manufacturing(0.0) 
+Technology(0.0) Center(0.0) ,(0.0) or(0.0) MMTC(1.0) ,(0.0) helps(0.0) Michigan(1.0) 's(0.0) small(0.0) and(0.0) medium-sized(0.0) manufacturing(0.0) companies(0.0) get(0.0) competitive(0.0) and(0.0) remain(0.0) that(0.0) way(0.0) 
+.(0.0) Founded(1.0) in(0.0) 1991(1.0) ,(0.0) MMTC(1.0) has(0.0) six(0.0) offices(0.0) in(0.0) Michigan(1.0) .(0.0) I(0.0) have(0.0) heard(0.0) from(0.0) numerous(0.0) companies(0.0) throughout(0.0) Michigan(1.0) 
+that(0.0) have(0.0) benefited(1.0) from(0.0) MMTC(1.0) 's(0.0) services(0.0) .(0.0) Let(0.0) me(0.0) point(0.0) out(0.0) one(0.0) such(0.0) company(0.0) ,(0.0) Tru-Val(0.0) Tubing(0.0) Company(0.0) in(0.0) 
+Waterford(1.0) ,(0.0) Michigan(1.0) ,(0.0) which(0.0) is(0.0) located(0.0) in(0.0) my(0.0) district(0.0) .(0.0) Tru-Val(0.0) fabricates(1.0) metal(0.0) tubing(0.0) for(0.0) General(0.0) Motors(0.0) and(0.0) DaimlerChrysler(0.0) 
+as(0.0) well(0.0) as(0.0) several(0.0) other(0.0) Tier(0.0) I(0.0) automotive(0.0) suppliers(0.0) and(0.0) employs(0.0) approximately(0.0) 120(0.0) people(0.0) .(0.0) Tru-Val(0.0) Tubing(0.0) began(0.0) working(0.0) with(0.0) 
+the(0.0) MMTC(1.0) in(0.0) 1999(0.0) ,(0.0) and(0.0) over(0.0) the(0.0) past(0.0) 6(0.0) years(0.0) of(0.0) improvements(0.0) ,(0.0) the(0.0) company(0.0) 's(0.0) defective(0.0) parts-per-million(0.0) have(0.0) 
+dropped(0.0) from(0.0) 3,500(0.0) to(0.0) zero(0.0) .(0.0) This(0.0) resulted(1.0) in(0.0) General(0.0) Motors(0.0) reclassifying(1.0) Tru-Val(0.0) from(0.0) the(0.0) bottom(0.0) 5(0.0) percent(0.0) to(0.0) the(0.0) 
+top(0.0) 5(0.0) percent(0.0) of(0.0) their(0.0) supply(0.0) base(0.0) .(0.0) Furthermore(0.0) ,(0.0) Tru-Val(0.0) 's(0.0) employees(0.0) are(0.0) much(0.0) more(0.0) satisfied(0.0) with(0.0) their(0.0) jobs(0.0) 
+than(0.0) they(0.0) once(0.0) were(0.0) ,(0.0) as(0.0) the(0.0) company(0.0) has(0.0) seen(0.0) a(0.0) dramatic(0.0) reduction(1.0) in(0.0) employee(0.0) turnover(0.0) .(0.0) Most(0.0) importantly(0.0) ,(0.0) 
+Tru-Val(0.0) increased(0.0) its(0.0) employment(1.0) from(0.0) 85(0.0) to(0.0) 120(0.0) as(0.0) a(0.0) result(0.0) of(0.0) the(0.0) improvement(0.0) in(0.0) the(0.0) company(0.0) .(0.0) Helro(0.0) Corporation(0.0) 
+of(0.0) Rochester(1.0) ,(0.0) Michigan(1.0) ,(0.0) also(0.0) located(0.0) in(0.0) my(0.0) district(0.0) ,(0.0) is(0.0) another(0.0) excellent(0.0) example(0.0) .(0.0) Helro(0.0) ,(0.0) a(0.0) small(0.0) 
+manufacturer(0.0) with(0.0) 19(0.0) employees(0.0) ,(0.0) was(0.0) established(0.0) in(0.0) the(0.0) 1960s(0.0) as(0.0) a(0.0) form(0.0) toolmaker(0.0) ,(0.0) using(0.0) a(0.0) patented(0.0) carbide(0.0) coating(0.0) 
+and(0.0) whitewall(0.0) tire(0.0) buffing(0.0) .(0.0) After(0.0) relocating(0.0) to(0.0) Rochester(1.0) ,(0.0) Michigan(1.0) ,(0.0) in(0.0) April(0.0) 1998(0.0) ,(0.0) Helro(0.0) recognized(0.0) that(0.0) it(0.0) 
+would(0.0) need(0.0) to(0.0) achieve(0.0) certification(0.0) if(0.0) it(0.0) wanted(0.0) to(0.0) compete(0.0) in(0.0) the(0.0) tooling(0.0) marketplace(0.0) .(0.0) Finding(0.0) the(0.0) idea(0.0) of(0.0) a(0.0) 
+peer(0.0) group(0.0) exchange(0.0) of(0.0) information(0.0) appealing(0.0) ,(0.0) Helro(0.0) quickly(0.0) joined(0.0) MMTC(1.0) 's(0.0) ISO(0.0) 9000(0.0) User(0.0) Group(0.0) and(0.0) got(0.0) everyone(0.0) in(0.0) 
+the(0.0) company(0.0) involved(0.0) .(0.0) As(0.0) a(0.0) result(0.0) ,(0.0) Helro(0.0) came(0.0) through(0.0) its(0.0) ISO(0.0) 9001(0.0) certification(0.0) audit(0.0) with(0.0) flying(0.0) colors(0.0) 
+
+
+----- below are rationale words -----
+
+Fiscal	State	
+Wolf	
+increase	Partnership	MEP	Wolf	
+program	sector	country	
+policy	Federal	
+MEP	program	
+centers	
+not-for-profit	centers	adopt	
+MEP	Michigan	
+MMTC	Michigan	
+Founded	1991	MMTC	Michigan	Michigan	
+benefited	MMTC	
+Waterford	Michigan	fabricates	
+
+MMTC	
+resulted	reclassifying	
+
+reduction	
+employment	
+Rochester	Michigan	
+
+Rochester	Michigan	
+
+MMTC	
+
+
+reads % = 0.084

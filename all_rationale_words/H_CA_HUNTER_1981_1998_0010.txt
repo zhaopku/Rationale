@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+He(0.0) has(0.0) done(0.0) a(0.0) lot(0.0) to(0.0) help(0.0) this(0.0) committee(0.0) .(0.0) I(0.0) want(0.0) to(0.0) recognize(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) Jersey(1.0) ((0.0) Mr.(0.0) 
+Saxton(1.0) )(0.0) ,(0.0) an(0.0) expert(0.0) in(0.0) lots(0.0) of(0.0) military(0.0) areas(0.0) who(0.0) really(0.0) has(0.0) great(0.0) expertise(0.0) ,(0.0) especially(0.0) in(0.0) airlift(1.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+Jersey	
+Saxton	airlift	
+
+
+reads % = 0.07317073170731707

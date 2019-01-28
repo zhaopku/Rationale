@@ -1,0 +1,20 @@
+This is from a Democrat
+----- below is the original text -----
+The(0.0) Clerk(0.0) read(0.0) as(0.0) follows(0.0) :(0.0) Amendment(0.0) offered(0.0) by(0.0) Mr.(0.0) Fields(1.0) of(0.0) Louisiana(0.0) :(0.0) In(0.0) the(0.0) matter(0.0) proposed(0.0) to(0.0) be(0.0) inserted(0.0) 
+in(0.0) section(0.0) 3593(0.0) ((0.0) e(0.0) )(0.0) of(0.0) title(0.0) 18(0.0) ,(0.0) United(0.0) States(0.0) Code(0.0) ,(0.0) by(0.0) section(0.0) 201(0.0) ,(0.0) insert(0.0) ``(0.0) 
+or(0.0) a(0.0) sentence(0.0) of(0.0) life(0.0) imprisonment(0.0) without(0.0) the(0.0) possibility(0.0) of(0.0) release(0.0) ''(0.0) after(0.0) ``(0.0) shall(0.0) recommend(0.0) a(0.0) sentence(0.0) of(0.0) death(0.0) 
+''(0.0) .(0.0) Strike(0.0) subsection(0.0) ((0.0) b(0.0) )(0.0) of(0.0) section(0.0) 201(0.0) and(0.0) eliminate(0.0) the(0.0) subsection(0.0) designation(0.0) and(0.0) heading(0.0) of(0.0) subsection(0.0) ((0.0) 
+a(0.0) )(0.0) .(0.0) Chairman(0.0) ,(0.0) I(0.0) ask(0.0) unanimous(1.0) consent(0.0) that(0.0) time(0.0) on(0.0) my(0.0) amendment(1.0) and(0.0) all(0.0) amendments(1.0) thereto(1.0) be(0.0) limited(0.0) 
+to(0.0) 10(0.0) minutes(0.0) ,(0.0) equally(0.0) divided(0.0) on(0.0) both(0.0) sides(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Fields	
+
+
+
+unanimous	amendment	amendments	thereto	
+
+
+reads % = 0.04504504504504504

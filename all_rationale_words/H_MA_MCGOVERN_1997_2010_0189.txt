@@ -1,0 +1,46 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) support(0.0) the(0.0) rule(1.0) and(0.0) I(0.0) support(0.0) the(0.0) CR(1.0) ,(0.0) and(0.0) I(0.0) hope(0.0) that(0.0) we(0.0) will(0.0) promptly(0.0) act(0.0) 
+on(0.0) it(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) rather(0.0) than(0.0) taking(0.0) my(0.0) time(0.0) to(0.0) talk(0.0) about(0.0) how(0.0) the(0.0) disgraceful(1.0) policies(1.0) of(0.0) my(0.0) 
+Republican(1.0) friends(1.0) drove(1.0) this(1.0) economy(1.0) into(1.0) a(1.0) ditch(1.0) nearly(1.0) bankrupting(1.0) us(1.0) and(1.0) how(1.0) we(1.0) have(1.0) had(1.0) to(1.0) spend(1.0) all(1.0) this(1.0) 
+time(1.0) trying(1.0) to(1.0) clean(1.0) up(0.0) their(0.0) awful(1.0) mess(1.0) ,(0.0) and(0.0) rather(0.0) than(0.0) talk(0.0) about(0.0) the(0.0) Republicans(1.0) '(1.0) new(1.0) pledge(1.0) that(1.0) 
+they(1.0) all(1.0) just(1.0) took(1.0) that(1.0) would(1.0) drive(1.0) this(1.0) economy(1.0) deeper(1.0) into(1.0) debt(1.0) by(1.0) ,(0.0) get(1.0) this(1.0) ,(0.0) passing(0.0) tax(1.0) cuts(1.0) 
+for(1.0) millionaires(1.0) and(1.0) billionaires(1.0) --(1.0) not(1.0) about(1.0) middle-class(1.0) tax(1.0) cuts(1.0) ,(1.0) but(1.0) millionaires(1.0) and(1.0) billionaires(1.0) ;(1.0) and(1.0) that(1.0) will(1.0) be(1.0) 
+debt(1.0) on(0.0) the(1.0) backs(1.0) of(0.0) our(0.0) kids(0.0) ,(0.0) and(0.0) we(0.0) will(0.0) have(0.0) to(0.0) borrow(1.0) that(0.0) money(1.0) from(0.0) China(1.0) and(0.0) other(0.0) 
+countries(1.0) --(0.0) and(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) rather(0.0) than(0.0) talking(0.0) about(0.0) how(0.0) my(0.0) Republican(0.0) friends(1.0) opposed(1.0) all(1.0) of(0.0) our(0.0) Democratic(1.0) 
+efforts(1.0) to(0.0) try(0.0) to(0.0) close(0.0) corporate(1.0) tax(1.0) loopholes(1.0) that(1.0) eliminated(1.0) tax(1.0) incentives(1.0) that(1.0) allowed(1.0) companies(1.0) to(0.0) ship(1.0) jobs(1.0) overseas(1.0) ,(1.0) 
+losing(1.0) American(1.0) jobs(1.0) ;(0.0) and(0.0) rather(0.0) than(0.0) talking(0.0) about(0.0) a(0.0) number(0.0) of(0.0) the(0.0) policies(1.0) that(0.0) they(0.0) have(0.0) stood(0.0) for(0.0) that(0.0) 
+I(0.0) think(0.0) have(0.0) brought(0.0) this(0.0) country(1.0) right(0.0) to(0.0) the(0.0) edge(0.0) of(0.0) a(0.0) cliff(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) take(0.0) my(0.0) time(0.0) 
+instead(0.0) to(0.0) join(0.0) with(0.0) the(0.0) distinguished(0.0) chairwoman(0.0) to(0.0) praise(0.0) my(0.0) colleague(0.0) and(0.0) my(0.0) friend(0.0) ,(0.0) Sophie(0.0) Hayford(1.0) ,(0.0) who(0.0) I(0.0) 
+am(0.0) going(0.0) to(0.0) miss(0.0) very(0.0) much(0.0) ,(0.0) not(0.0) only(0.0) because(0.0) I(0.0) think(0.0) she(0.0) represents(0.0) the(0.0) civility(1.0) that(0.0) desperately(1.0) needs(0.0) to(0.0) 
+come(0.0) back(0.0) to(0.0) this(0.0) House(0.0) ,(0.0) but(0.0) because(0.0) she(0.0) has(0.0) been(0.0) an(0.0) incredible(0.0) public(1.0) servant(0.0) .(0.0) At(0.0) a(0.0) time(0.0) when(0.0) 
+we(0.0) hear(0.0) people(0.0) denigrate(1.0) those(0.0) who(0.0) work(0.0) for(0.0) the(0.0) government(1.0) ,(0.0) she(0.0) is(0.0) an(0.0) example(0.0) of(0.0) what(0.0) a(0.0) government(1.0) worker(1.0) 
+is(0.0) all(0.0) about(0.0) --(0.0) somebody(0.0) who(0.0) dedicates(0.0) her(0.0) entire(0.0) life(0.0) to(0.0) trying(0.0) to(0.0) make(0.0) the(0.0) lives(0.0) of(0.0) others(0.0) in(0.0) this(0.0) 
+country(1.0) better(0.0) .(0.0) I(0.0) have(0.0) learned(0.0) an(0.0) awful(0.0) lot(0.0) from(0.0) Sophie(0.0) .(0.0) I(0.0) first(0.0) met(0.0) her(0.0) back(0.0) in(0.0) 1982(1.0) ,(0.0) 
+when(0.0) I(0.0) came(0.0) to(0.0) work(0.0) here(0.0) for(0.0) Congressman(1.0) Joe(1.0) Moakley(1.0) of(0.0) South(0.0) Boston(0.0) ,(0.0) and(0.0) Sophie(0.0) was(0.0) already(0.0) a(0.0) seasoned(0.0) 
+staffer(0.0) when(0.0) I(0.0) arrived(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	rule	CR	
+Speaker	disgraceful	policies	
+Republican	friends	drove	this	economy	into	a	ditch	nearly	bankrupting	us	and	how	we	have	had	to	spend	all	this	
+time	trying	to	clean	awful	mess	Republicans	'	new	pledge	that	
+they	all	just	took	that	would	drive	this	economy	deeper	into	debt	by	get	this	tax	cuts	
+for	millionaires	and	billionaires	--	not	about	middle-class	tax	cuts	,	but	millionaires	and	billionaires	;	and	that	will	be	
+debt	the	backs	borrow	money	China	
+countries	Speaker	friends	opposed	all	Democratic	
+efforts	corporate	tax	loopholes	that	eliminated	tax	incentives	that	allowed	companies	ship	jobs	overseas	,	
+losing	American	jobs	policies	
+country	
+Hayford	
+civility	desperately	
+public	
+denigrate	government	government	worker	
+
+country	1982	
+Congressman	Joe	Moakley	
+
+
+reads % = 0.3251366120218579

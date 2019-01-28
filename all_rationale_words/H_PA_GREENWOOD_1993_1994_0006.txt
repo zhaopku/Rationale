@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) me(0.0) this(0.0) time(0.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) this(0.0) week(0.0) the(0.0) Congress(0.0) will(0.0) 
+begin(0.0) a(0.0) momentous(0.0) and(0.0) controversial(1.0) debate(1.0) about(0.0) health(1.0) care(1.0) .(0.0) What(0.0) will(0.0) not(0.0) be(0.0) of(0.0) controversy(1.0) is(0.0) the(0.0) excellent(0.0) progress(0.0) 
+that(0.0) has(0.0) been(0.0) made(0.0) by(0.0) our(0.0) emergency(1.0) medical(1.0) service(0.0) system(0.0) .(0.0) We(0.0) now(0.0) have(0.0) enhanced(0.0) abilities(0.0) to(0.0) rapidly(0.0) respond(0.0) to(0.0) 
+the(0.0) scene(0.0) of(0.0) vehicle(0.0) accidents(0.0) and(0.0) other(0.0) mishaps(0.0) with(0.0) highly(0.0) trained(0.0) personnel(0.0) to(0.0) airlift(1.0) victims(0.0) to(0.0) state-of-the-art(0.0) trauma(1.0) centers(1.0) and(0.0) 
+provide(0.0) them(0.0) with(0.0) miraculous(0.0) life-saving(1.0) procedures(0.0) during(0.0) the(0.0) postinjury(1.0) golden(0.0) hour(0.0) .(0.0) Ironically(0.0) ,(0.0) we(0.0) now(0.0) have(0.0) thousands(0.0) of(0.0) our(0.0) 
+sons(0.0) and(0.0) daughters(0.0) ,(0.0) and(0.0) fathers(1.0) and(0.0) mothers(0.0) who(0.0) have(0.0) survived(0.0) serious(0.0) brain(0.0) injury(0.0) and(0.0) who(0.0) must(0.0) be(0.0) cared(0.0) for(0.0) 
+humanely(1.0) .(0.0) We(0.0) must(0.0) continue(0.0) to(0.0) develop(0.0) in-home(1.0) residential(0.0) and(0.0) long-term(0.0) care(1.0) facilities(0.0) where(0.0) those(0.0) recovering(0.0) from(0.0) head(0.0) injury(0.0) can(0.0) 
+receive(0.0) physical(0.0) therapy(0.0) ,(0.0) occupational(1.0) therapy(0.0) and(0.0) cognitive(0.0) rehabilitation(0.0) so(0.0) that(0.0) ,(0.0) whenever(0.0) possible(0.0) ,(0.0) they(0.0) may(0.0) resume(0.0) their(0.0) places(0.0) 
+at(0.0) home(0.0) with(0.0) their(0.0) loved(0.0) ones(0.0) .(0.0) I(0.0) rise(0.0) in(0.0) strong(0.0) support(0.0) of(0.0) S.(0.0) 725(0.0) ,(0.0) the(0.0) Traumatic(1.0) Brain(0.0) Injury(0.0) 
+Act(0.0) .(0.0) I(0.0) am(0.0) pleased(0.0) to(0.0) report(0.0) that(0.0) this(0.0) legislation(1.0) is(0.0) the(0.0) result(0.0) of(0.0) a(0.0) strong(0.0) bipartisan(1.0) effort(1.0) in(0.0) both(0.0) 
+Chambers(0.0) .(0.0) I(0.0) want(0.0) to(0.0) especially(0.0) thank(0.0) Chairmen(1.0) Kennedy(1.0) and(0.0) Waxman(1.0) ,(0.0) as(0.0) well(0.0) as(0.0) Senator(1.0) Hatch(1.0) and(0.0) Representatives(0.0) Slattery(1.0) 
+and(0.0) Pallone(1.0) for(0.0) their(0.0) willingness(0.0) to(0.0) work(0.0) with(0.0) me(0.0) to(0.0) secure(0.0) enactment(1.0) of(0.0) this(0.0) important(0.0) bill(1.0) .(0.0) The(0.0) beneficiaries(1.0) of(0.0) 
+this(0.0) cooperation(0.0) are(0.0) the(0.0) millions(1.0) of(0.0) individuals(0.0) who(0.0) sustain(0.0) a(0.0) severe(0.0) brain(0.0) injury(0.0) each(0.0) year(0.0) .(0.0) Traumatic(0.0) brain(0.0) injury(0.0) has(0.0) 
+become(0.0) the(0.0) No(0.0) .(0.0) 1(0.0) killer(0.0) and(0.0) cause(0.0) of(0.0) disability(1.0) of(0.0) young(0.0) people(0.0) in(0.0) this(0.0) country(1.0) .(0.0) Millions(0.0) of(0.0) individuals(0.0) 
+,(0.0) in(0.0) every(0.0) age(0.0) bracket(0.0) ,(0.0) suffer(0.0) serious(0.0) head(0.0) injuries(0.0) resulting(0.0) from(0.0) automobile(1.0) and(0.0) bicycle(0.0) accidents(0.0) ,(0.0) assaults(1.0) ,(0.0) abuse(1.0) 
+,(0.0) falls(0.0) or(0.0) other(0.0) tragic(0.0) circumstances(0.0) .(0.0) According(0.0) to(0.0) the(0.0) National(0.0) Head(0.0) Injury(0.0) Foundation(0.0) [(0.0) NHIF(1.0) ](0.0) ,(0.0) a(0.0) survivor(0.0) 
+of(0.0) a(0.0) severe(0.0) brain(0.0) injury(0.0) typically(0.0) faces(0.0) 5-10(0.0) years(0.0) of(0.0) intensive(0.0) medical(0.0) and(0.0) related(0.0) services(0.0) at(0.0) an(0.0) annual(0.0) cost(0.0) of(0.0) 
+approximately(0.0) $(0.0) 86,000(0.0) .(0.0) Estimated(0.0) lifetime(0.0) costs(0.0) to(0.0) care(0.0) for(0.0) a(0.0) traumatic(0.0) brain(0.0) injury(0.0) survivor(0.0) can(0.0) exceed(0.0) $(0.0) 4,000,000(0.0) .(0.0) 
+Through(0.0) enactment(0.0) of(0.0) this(0.0) legislation(1.0) ,(0.0) the(0.0) Congress(0.0) has(0.0) recognized(0.0) the(0.0) need(0.0) to(0.0) coordinate(0.0) traumatic(0.0) brain(0.0) injury(0.0) services(0.0) at(0.0) the(0.0) 
+Federal(0.0) and(0.0) State(0.0) level(0.0) .(0.0) This(0.0) bipartisan(1.0) compromise(1.0) will(1.0) :(1.0) First(0.0) ,(0.0) expand(0.0) efforts(1.0) to(0.0) identify(0.0) methods(0.0) to(0.0) prevent(0.0) traumatic(1.0) 
+brain(0.0) injury(0.0) ;(0.0) second(0.0) ,(0.0) expand(0.0) biomedical(1.0) research(0.0) efforts(1.0) to(0.0) prevent(0.0) or(0.0) minimize(0.0) the(0.0) extent(1.0) ,(0.0) severity(0.0) and(0.0) progression(0.0) of(0.0) 
+dysfunction(1.0) as(0.0) a(0.0) result(0.0) of(0.0) traumatic(0.0) brain(0.0) injury(0.0) ;(0.0) and(0.0) third(0.0) ,(0.0) develop(0.0) initiatives(1.0) to(0.0) improve(0.0) the(0.0) quality(0.0) of(0.0) care(0.0) 
+of(0.0) individuals(0.0) who(0.0) have(0.0) suffered(0.0) traumatic(0.0) brain(0.0) injuries(0.0) .(0.0) The(0.0) Secretary(1.0) of(0.0) Health(0.0) and(0.0) Human(0.0) Services(0.0) ,(0.0) in(0.0) collaboration(0.0) with(0.0) 
+appropriate(0.0) State(0.0) and(0.0) local(0.0) health-related(0.0) agencies(0.0) ,(0.0) is(0.0) directed(0.0) to(0.0) conduct(0.0) a(0.0) study(0.0) to(0.0) determine(0.0) the(0.0) incidence(0.0) and(0.0) prevalence(0.0) of(0.0) 
+traumatic(0.0) brain(0.0) injury(0.0) and(0.0) establish(0.0) a(0.0) unified(0.0) reporting(0.0) system(0.0) under(0.0) which(0.0) hospitals(1.0) ,(0.0) State(1.0) and(0.0) local(0.0) health-related(0.0) agencies(0.0) would(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	
+controversial	debate	health	care	controversy	
+emergency	medical	
+airlift	trauma	centers	
+life-saving	postinjury	
+fathers	
+humanely	in-home	care	
+occupational	
+Traumatic	
+legislation	bipartisan	effort	
+Chairmen	Kennedy	Waxman	Senator	Hatch	Slattery	
+Pallone	enactment	bill	beneficiaries	
+millions	
+disability	country	
+automobile	assaults	abuse	
+NHIF	
+
+
+legislation	
+bipartisan	compromise	will	:	efforts	traumatic	
+biomedical	efforts	extent	
+dysfunction	initiatives	
+Secretary	
+
+hospitals	State	
+
+reads % = 0.108

@@ -1,0 +1,36 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) dean(0.0) of(0.0) our(0.0) delegation(0.0) ,(0.0) Howard(0.0) Coble(1.0) ,(0.0) for(0.0) yielding(0.0) ,(0.0) and(0.0) I(0.0) want(0.0) to(0.0) add(0.0) 
+to(0.0) his(0.0) words(0.0) of(0.0) introduction(0.0) for(0.0) our(0.0) new(0.0) colleague(0.0) ,(0.0) Alma(0.0) Adams(1.0) .(0.0) She(0.0) was(0.0) elected(0.0) this(0.0) past(0.0) election(1.0) to(0.0) 
+fill(0.0) the(0.0) unexpired(1.0) term(0.0) of(0.0) our(0.0) colleague(0.0) Mel(0.0) Watt(1.0) ,(0.0) who(0.0) has(0.0) taken(0.0) the(0.0) leadership(0.0) of(0.0) the(0.0) Federal(0.0) Housing(0.0) Finance(0.0) 
+Agency(0.0) .(0.0) She(0.0) represents(0.0) the(0.0) 12th(0.0) Congressional(0.0) District(1.0) of(0.0) North(0.0) Carolina(0.0) .(0.0) Alma(0.0) Adams(0.0) was(0.0) born(0.0) in(0.0) High(0.0) Point(0.0) ,(0.0) 
+North(0.0) Carolina(0.0) .(0.0) She(0.0) attended(0.0) college(0.0) at(0.0) North(0.0) Carolina(0.0) A(0.0) &(0.0) T(0.0) University(0.0) .(0.0) She(0.0) got(0.0) her(0.0) Ph.D.(0.0) from(0.0) Ohio(1.0) 
+State(0.0) University(0.0) ,(0.0) and(0.0) she(0.0) became(0.0) a(0.0) teacher(0.0) .(0.0) She(0.0) had(0.0) a(0.0) 40-year(0.0) career(0.0) as(0.0) a(0.0) professor(0.0) at(0.0) Bennett(0.0) College(0.0) 
+in(0.0) North(0.0) Carolina(0.0) .(0.0) Alma(0.0) Adams(0.0) '(0.0) career(0.0) in(0.0) politics(1.0) began(0.0) on(0.0) the(0.0) Greensboro(0.0) school(0.0) board(0.0) .(0.0) She(0.0) served(0.0) on(0.0) 
+the(0.0) city(0.0) council(0.0) .(0.0) She(0.0) was(0.0) appointed(0.0) to(0.0) the(0.0) general(0.0) assembly(0.0) in(0.0) 1994(0.0) by(0.0) Governor(0.0) Jim(1.0) Hunt(1.0) and(0.0) then(0.0) was(0.0) 
+elected(0.0) in(0.0) her(0.0) own(0.0) right(0.0) for(0.0) successive(0.0) terms(0.0) .(0.0) She(0.0) has(0.0) had(0.0) a(0.0) distinguished(0.0) term(0.0) of(0.0) service(0.0) in(0.0) our(0.0) general(0.0) 
+assembly(0.0) .(0.0) She(0.0) is(0.0) known(0.0) for(0.0) her(0.0) unceasing(0.0) desire(0.0) to(0.0) improve(0.0) the(0.0) lives(0.0) of(0.0) women(1.0) and(0.0) children(0.0) and(0.0) families(0.0) .(0.0) 
+Her(0.0) issues(0.0) include(0.0) domestic(0.0) violence(1.0) ,(0.0) teenage(1.0) pregnancy(0.0) ,(0.0) affordable(1.0) health(1.0) care(1.0) ,(0.0) and(0.0) public(1.0) education(1.0) .(0.0) She(0.0) chaired(0.0) the(0.0) 
+Legislative(0.0) Black(1.0) Caucus(1.0) .(0.0) She(0.0) also(0.0) chaired(0.0) the(0.0) bipartisan(1.0) Women(1.0) 's(0.0) Legislative(0.0) Caucus(0.0) .(0.0) So(0.0) Alma(0.0) Adams(1.0) ,(0.0) my(0.0) colleagues(0.0) 
+,(0.0) comes(0.0) to(0.0) us(0.0) very(0.0) ,(0.0) very(0.0) well-equipped(0.0) to(0.0) be(0.0) a(0.0) productive(0.0) and(0.0) constructive(0.0) and(0.0) cooperative(0.0) Member(0.0) of(0.0) this(0.0) body(0.0) 
+,(0.0) and(0.0) it(0.0) is(0.0) my(0.0) honor(0.0) and(0.0) pleasure(0.0) to(0.0) introduce(0.0) you(0.0) to(0.0) her(0.0) tonight(0.0) ,(0.0) Alma(0.0) Adams(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Coble	
+Adams	election	
+unexpired	Watt	
+District	
+Ohio	
+
+politics	
+Jim	Hunt	
+
+women	
+violence	teenage	affordable	health	care	public	education	
+Black	Caucus	bipartisan	Women	Adams	
+
+Adams	
+
+reads % = 0.08602150537634409

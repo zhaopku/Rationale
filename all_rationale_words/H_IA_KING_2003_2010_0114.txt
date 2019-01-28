@@ -1,0 +1,36 @@
+This is from a Republican
+----- below is the original text -----
+We(0.0) ca(0.0) n't(0.0) hardly(0.0) go(0.0) by(0.0) what(0.0) he(0.0) says(0.0) .(0.0) So(0.0) I(0.0) think(0.0) he(0.0) is(0.0) closer(0.0) to(0.0) the(0.0) Senate(1.0) than(0.0) he(0.0) 
+is(0.0) to(0.0) the(0.0) House(0.0) because(0.0) he(0.0) served(0.0) in(0.0) the(0.0) Senate(0.0) .(0.0) But(0.0) I(0.0) think(0.0) the(0.0) answer(0.0) is(0.0) probably(0.0) ,(0.0) yes(0.0) 
+,(0.0) but(0.0) we(0.0) have(0.0) to(0.0) qualify(0.0) it(0.0) .(0.0) Yes(0.0) ,(0.0) depending(0.0) .(0.0) Here(0.0) 's(0.0) what(0.0) I(0.0) think(0.0) .(0.0) I(0.0) think(0.0) 
+the(0.0) President(1.0) will(0.0) sign(0.0) any(0.0) bill(1.0) that(0.0) says(0.0) National(0.0) Health(0.0) Care(0.0) Act(0.0) in(0.0) it(0.0) .(0.0) I(0.0) do(0.0) n't(0.0) think(0.0) the(0.0) 
+substance(1.0) of(0.0) it(0.0) matters(0.0) .(0.0) I(0.0) do(0.0) n't(0.0) think(0.0) if(0.0) it(0.0) costs(1.0) more(0.0) than(0.0) $(0.0) 900(0.0) billion(1.0) to(0.0) them(0.0) it(0.0) 
+matters(0.0) .(0.0) I(0.0) do(0.0) n't(0.0) think(0.0) if(0.0) he(0.0) said(0.0) that(0.0) it(0.0) 's(0.0) not(0.0) going(0.0) to(0.0) fund(1.0) abortion(1.0) --(0.0) and(0.0) it(0.0) 
+does(0.0) --(0.0) he(0.0) will(0.0) sign(0.0) it(0.0) anyway(0.0) .(0.0) He(0.0) says(0.0) it(0.0) does(0.0) n't(0.0) fund(1.0) illegals(1.0) --(0.0) and(0.0) it(0.0) does(0.0) :(0.0) 
+6.1(0.0) million(0.0) according(0.0) to(0.0) the(0.0) Congressional(1.0) Budget(1.0) Office(1.0) .(0.0) 6.1(0.0) million(0.0) illegals(1.0) would(1.0) have(0.0) access(0.0) to(0.0) American(0.0) taxpayers(1.0) '(0.0) dollars(0.0) 
+'(0.0) benefits(0.0) under(0.0) the(0.0) Senate(0.0) version(0.0) of(0.0) the(0.0) bill(0.0) ,(0.0) and(0.0) the(0.0) President(1.0) says(0.0) it(0.0) does(0.0) n't(0.0) have(0.0) anything(0.0) to(0.0) 
+benefit(1.0) illegals(1.0) .(0.0) And(0.0) the(0.0) Speaker(0.0) pointed(0.0) her(0.0) finger(0.0) at(0.0) our(0.0) leader(0.0) ,(0.0) John(0.0) Boehner(1.0) ,(0.0) on(0.0) February(0.0) 25(0.0) and(0.0) 
+said(0.0) ,(0.0) This(0.0) bill(1.0) does(1.0) n't(0.0) fund(1.0) abortion(1.0) ,(0.0) and(0.0) we(0.0) know(0.0) it(0.0) does(0.0) .(0.0) So(0.0) if(0.0) people(0.0) ca(0.0) n't(0.0) 
+be(0.0) held(0.0) accountable(1.0) to(0.0) their(0.0) word(0.0) ,(0.0) and(0.0) if(0.0) the(0.0) language(0.0) ,(0.0) the(0.0) plain(0.0) language(0.0) in(0.0) the(0.0) bill(1.0) says(1.0) one(0.0) 
+thing(0.0) and(0.0) people's(0.0) word(0.0) says(0.0) another(0.0) thing(0.0) ,(0.0) I(0.0) do(0.0) n't(0.0) know(0.0) what(0.0) their(0.0) intentions(0.0) are(0.0) or(0.0) where(0.0) they(0.0) 'd(0.0) 
+say(0.0) ``(0.0) no(0.0) .(0.0) ''(0.0) I(0.0) think(0.0) he(0.0) 's(0.0) salivating(0.0) to(0.0) sign(0.0) a(0.0) bill(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Senate	
+
+
+President	bill	
+substance	costs	billion	
+fund	abortion	
+fund	illegals	
+Congressional	Budget	Office	illegals	would	taxpayers	
+President	
+benefit	illegals	Boehner	
+bill	does	fund	abortion	
+accountable	bill	says	
+
+bill	
+
+reads % = 0.10144927536231885

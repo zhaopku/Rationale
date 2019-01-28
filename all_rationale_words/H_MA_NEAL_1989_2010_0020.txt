@@ -1,0 +1,46 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) more(0.0) than(0.0) 100(0.0) years(0.0) ago(0.0) ,(0.0) the(0.0) first(0.0) U.S.(0.0) mutual(0.0) fund(1.0) was(0.0) started(0.0) in(0.0) Boston(1.0) .(0.0) Mutual(0.0) funds(1.0) 
+have(0.0) been(0.0) a(0.0) way(0.0) of(0.0) life(0.0) for(0.0) ``(0.0) everyman(0.0) ''(0.0) to(0.0) invest(1.0) in(0.0) the(0.0) market(0.0) ,(0.0) with(0.0) the(0.0) benefits(1.0) of(0.0) 
+pooling(1.0) and(0.0) diversification(1.0) .(0.0) Indeed(0.0) ,(0.0) it(0.0) invites(0.0) the(0.0) term(0.0) ``(0.0) mutualization(0.0) .(0.0) ''(0.0) Today(0.0) ,(0.0) more(0.0) than(0.0) 50(0.0) million(0.0) 
+households(1.0) invest(1.0) through(0.0) mutual(1.0) funds(1.0) with(0.0) a(0.0) median(0.0) household(0.0) income(1.0) of(0.0) $(0.0) 80,000(0.0) .(0.0) More(0.0) than(0.0) 50(0.0) percent(0.0) of(0.0) 401(1.0) 
+((0.0) k(0.0) )(0.0) plan(1.0) assets(1.0) were(0.0) invested(0.0) in(0.0) mutual(1.0) funds(1.0) at(0.0) the(0.0) end(0.0) of(0.0) 2009(0.0) .(0.0) H.R(0.0) .(0.0) 4337(0.0) was(0.0) 
+introduced(0.0) last(0.0) year(0.0) by(0.0) Mr.(0.0) Rangel(1.0) and(0.0) me(0.0) to(0.0) modernize(1.0) the(0.0) tax(1.0) laws(1.0) regarding(1.0) regulated(1.0) investment(1.0) companies(1.0) ,(1.0) better(1.0) known(1.0) 
+as(0.0) mutual(1.0) funds(1.0) .(0.0) A(0.0) technical(0.0) explanation(0.0) and(0.0) revenue(1.0) table(0.0) for(0.0) this(0.0) bill(1.0) may(1.0) be(0.0) found(0.0) on(0.0) the(0.0) Joint(0.0) Tax(0.0) 
+Web(0.0) site(0.0) ,(0.0) <(0.0) a(0.0) href=(0.0) ''(0.0) http(0.0) :(0.0) //www.jct.gov(0.0) ''(0.0) >(0.0) www.jct.gov(0.0) <(0.0) /a(0.0) >(0.0) .(0.0) The(0.0) tax(0.0) rules(1.0) 
+that(0.0) relate(0.0) to(0.0) mutual(0.0) funds(0.0) date(0.0) back(0.0) more(0.0) than(0.0) a(0.0) half(0.0) century(0.0) .(0.0) Although(0.0) these(0.0) rules(0.0) have(0.0) been(0.0) updated(0.0) from(0.0) 
+time(0.0) to(0.0) time(0.0) ,(0.0) it(0.0) has(0.0) been(0.0) over(0.0) 20(0.0) years(0.0) since(0.0) they(0.0) were(0.0) last(0.0) revisited(0.0) .(0.0) The(0.0) bill(1.0) before(0.0) us(0.0) 
+today(0.0) would(0.0) make(0.0) several(0.0) changes(0.0) to(0.0) the(0.0) Tax(1.0) Code(1.0) to(0.0) address(0.0) outdated(1.0) provisions(1.0) ,(0.0) such(0.0) as(0.0) rules(0.0) that(0.0) relate(0.0) to(0.0) 
+preferential(1.0) dividends(1.0) and(0.0) rules(0.0) that(0.0) require(0.0) mutual(1.0) funds(1.0) to(0.0) send(0.0) separate(0.0) annual(0.0) dividend(0.0) designation(0.0) notices(0.0) to(0.0) shareholders(0.0) and(0.0) rules(0.0) that(0.0) 
+prevent(0.0) mutual(1.0) funds(1.0) from(0.0) earning(0.0) income(0.0) from(0.0) commodities(1.0) .(0.0) In(0.0) June(0.0) ,(0.0) my(0.0) subcommittee(0.0) ,(0.0) the(0.0) Select(0.0) Revenue(0.0) Measures(0.0) Subcommittee(0.0) 
+,(0.0) reviewed(0.0) this(0.0) legislation(0.0) with(0.0) a(0.0) panel(0.0) of(0.0) experts(0.0) who(0.0) expressed(0.0) support(0.0) for(0.0) these(0.0) changes(0.0) .(0.0) Today(0.0) ,(0.0) I(0.0) am(0.0) 
+pleased(0.0) to(0.0) be(0.0) joined(0.0) by(0.0) my(0.0) friend(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Michigan(1.0) ((0.0) Mr.(0.0) Camp(1.0) )(0.0) ,(0.0) in(0.0) bringing(0.0) this(0.0) 
+bill(0.0) to(0.0) the(0.0) floor(0.0) with(0.0) a(0.0) few(0.0) technical(0.0) changes(0.0) and(0.0) revenue(0.0) offsets(1.0) from(0.0) within(0.0) the(0.0) industry(0.0) .(0.0) The(0.0) Ways(1.0) and(0.0) 
+Means(0.0) Committee(0.0) has(0.0) the(0.0) responsibility(0.0) to(0.0) review(0.0) our(0.0) tax(0.0) rules(1.0) from(0.0) time(0.0) to(0.0) time(0.0) ,(0.0) remove(0.0) the(0.0) dead(0.0) wood(0.0) ,(0.0) 
+and(0.0) update(0.0) where(0.0) necessary(0.0) .(0.0) This(0.0) bill(1.0) accomplishes(1.0) that(0.0) to(0.0) the(0.0) benefit(1.0) of(0.0) investors(1.0) ,(0.0) taxpayers(1.0) ,(0.0) and(0.0) mutual(1.0) fund(1.0) 
+companies(1.0) .(0.0) I(0.0) urge(0.0) its(0.0) adoption(1.0) .(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+fund	Boston	funds	
+invest	benefits	
+pooling	diversification	
+households	invest	mutual	funds	income	401	
+plan	assets	mutual	funds	
+Rangel	modernize	tax	laws	regarding	regulated	investment	companies	,	better	known	
+mutual	funds	revenue	bill	may	
+rules	
+
+bill	
+Tax	Code	outdated	provisions	
+preferential	dividends	mutual	funds	
+mutual	funds	commodities	
+
+Michigan	Camp	
+offsets	Ways	
+rules	
+bill	accomplishes	benefit	investors	taxpayers	mutual	fund	
+companies	adoption	
+
+reads % = 0.1595744680851064

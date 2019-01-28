@@ -1,0 +1,50 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) ,(0.0) and(0.0) I(0.0) really(0.0) wish(0.0) this(0.0) debate(1.0) was(0.0) about(0.0) what(0.0) my(0.0) colleagues(0.0) on(0.0) the(0.0) other(0.0) 
+side(0.0) want(0.0) to(0.0) make(0.0) it(0.0) about(0.0) .(0.0) I(0.0) wish(0.0) this(0.0) bill(1.0) was(0.0) a(0.0) debate(1.0) about(0.0) the(0.0) uninsured(1.0) children(0.0) of(0.0) the(0.0) 
+near(0.0) poor(1.0) or(0.0) the(0.0) working(0.0) poor(1.0) .(0.0) I(0.0) wish(0.0) it(0.0) was(0.0) a(0.0) debate(0.0) like(0.0) we(0.0) had(0.0) 10(0.0) years(0.0) ago(0.0) about(0.0) 
+insuring(1.0) children(0.0) too(0.0) well(0.0) off(0.0) to(0.0) get(0.0) Medicaid(1.0) but(0.0) not(0.0) well(0.0) enough(0.0) to(0.0) buy(0.0) insurance(1.0) .(0.0) But(0.0) that(0.0) is(0.0) not(0.0) 
+what(0.0) it(0.0) is(0.0) about(0.0) .(0.0) It(0.0) is(0.0) about(0.0) cutting(0.0) Medicare(1.0) to(0.0) provide(0.0) health(1.0) care(1.0) services(0.0) to(0.0) middle-(0.0) and(0.0) upper(0.0) middle-income(1.0) 
+children(0.0) and(0.0) to(0.0) provide(0.0) health(1.0) care(1.0) services(0.0) to(0.0) adults(0.0) .(0.0) And(0.0) when(0.0) you(0.0) hear(0.0) SCHIP(1.0) ,(0.0) children(0.0) ,(0.0) you(0.0) do(0.0) 
+n't(0.0) expect(0.0) that(0.0) .(0.0) When(0.0) you(0.0) think(0.0) it(0.0) is(0.0) to(0.0) go(0.0) to(0.0) the(0.0) uninsured(1.0) ,(0.0) you(0.0) do(0.0) n't(0.0) expect(0.0) that(0.0) 
+.(0.0) The(0.0) median(0.0) income(1.0) in(0.0) America(1.0) ,(0.0) listen(0.0) carefully(0.0) ,(0.0) is(0.0) $(0.0) 45,000(0.0) .(0.0) This(0.0) bill(1.0) will(1.0) extend(1.0) SCHIP(1.0) benefits(1.0) 
+to(0.0) families(1.0) earning(0.0) $(0.0) 60,000(0.0) and(0.0) up(0.0) to(0.0) $(0.0) 80,000(0.0) .(0.0) That(0.0) means(0.0) it(0.0) does(0.0) not(0.0) provide(0.0) money(1.0) for(0.0) health(1.0) 
+insurance(1.0) to(0.0) the(0.0) poor(1.0) or(0.0) the(0.0) near(0.0) poor(0.0) or(0.0) the(0.0) working(0.0) poor(1.0) .(0.0) We(0.0) are(0.0) all(0.0) for(0.0) that(0.0) .(0.0) That(0.0) 
+is(0.0) why(0.0) we(0.0) initiated(0.0) the(0.0) program(1.0) .(0.0) We(0.0) just(0.0) do(0.0) n't(0.0) think(0.0) it(0.0) ought(1.0) to(0.0) go(0.0) to(0.0) upper(0.0) middle-income(1.0) Americans(1.0) 
+.(0.0) And(0.0) let(0.0) 's(0.0) see(0.0) what(0.0) the(0.0) program(1.0) has(0.0) done(0.0) .(0.0) Sixty-one(0.0) percent(0.0) of(0.0) the(0.0) children(0.0) who(0.0) are(0.0) in(0.0) the(0.0) 
+SCHIP(1.0) program(1.0) today(0.0) had(0.0) private(0.0) health(1.0) insurance(0.0) before(0.0) the(0.0) program(0.0) was(0.0) created(0.0) .(0.0) They(0.0) dropped(0.0) their(0.0) private(0.0) health(0.0) insurance(0.0) to(0.0) 
+take(0.0) SCHIP(1.0) .(0.0) Is(0.0) that(0.0) what(0.0) generous(0.0) ,(0.0) compassionate(1.0) Americans(1.0) want(0.0) to(0.0) do(0.0) for(0.0) the(0.0) poor(1.0) ?(0.0) I(0.0) do(0.0) n't(0.0) 
+think(0.0) so(0.0) .(0.0) They(0.0) dropped(0.0) their(0.0) private(0.0) insurance(0.0) to(0.0) take(0.0) SCHIP(1.0) .(0.0) CBO(0.0) says(1.0) that(0.0) the(0.0) Democrats(1.0) '(0.0) billions(1.0) of(0.0) 
+dollars(0.0) larger(0.0) program(1.0) will(0.0) produce(0.0) one(0.0) person(0.0) dropping(0.0) private(0.0) insurance(0.0) for(0.0) every(0.0) one(0.0) person(0.0) who(0.0) gets(0.0) SCHIP(1.0) insurance(1.0) .(0.0) Speaker(0.0) 
+after(0.0) speaker(0.0) on(0.0) the(0.0) other(0.0) side(0.0) has(0.0) said(0.0) this(0.0) will(0.0) insure(0.0) 5(0.0) million(0.0) more(0.0) children(0.0) .(0.0) What(0.0) they(0.0) do(0.0) n't(0.0) 
+tell(0.0) you(0.0) is(0.0) that(0.0) 5(0.0) million(0.0) children(1.0) ,(0.0) according(0.0) to(0.0) SCHIP(1.0) ,(0.0) will(0.0) drop(0.0) their(0.0) private(0.0) insurance(0.0) .(0.0) Obviously(0.0) ,(0.0) 
+what(0.0) they(0.0) want(0.0) is(0.0) to(0.0) take(0.0) people(0.0) off(0.0) of(0.0) private(0.0) insurance(0.0) and(0.0) put(0.0) them(0.0) on(0.0) SCHIP(1.0) .(0.0) That's(0.0) not(0.0) what(0.0) 
+the(0.0) American(0.0) people(0.0) understand(0.0) when(0.0) they(0.0) understand(0.0) that(0.0) that(0.0) is(0.0) supposed(0.0) to(0.0) be(0.0) a(0.0) bill(1.0) about(0.0) the(0.0) children(0.0) of(0.0) the(0.0) 
+working(0.0) poor(1.0) .(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) oppose(1.0) this(0.0) bill(1.0) .(0.0) It(0.0) 's(0.0) a(0.0) fraud(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+debate	
+bill	debate	uninsured	
+poor	poor	
+insuring	Medicaid	insurance	
+Medicare	health	care	middle-income	
+health	care	SCHIP	
+uninsured	
+income	America	bill	will	extend	SCHIP	benefits	
+families	money	health	
+insurance	poor	poor	
+program	ought	middle-income	Americans	
+program	
+SCHIP	program	health	
+SCHIP	compassionate	Americans	poor	
+SCHIP	says	Democrats	billions	
+program	SCHIP	insurance	
+
+children	SCHIP	
+SCHIP	
+bill	
+poor	oppose	bill	fraud	
+
+reads % = 0.13636363636363635

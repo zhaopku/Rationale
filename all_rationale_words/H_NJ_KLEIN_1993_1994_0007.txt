@@ -1,0 +1,36 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) support(0.0) of(0.0) H.R(0.0) .(0.0) 3254(0.0) ,(0.0) the(0.0) National(0.0) Science(0.0) Foundation(0.0) Act(0.0) .(0.0) NSF(0.0) is(0.0) 
+the(0.0) only(0.0) Federal(0.0) agency(0.0) with(0.0) the(0.0) sole(0.0) mission(0.0) to(0.0) support(0.0) basic(0.0) science(0.0) and(0.0) engineering(0.0) research(0.0) and(0.0) education(0.0) in(0.0) our(0.0) Nation(1.0) 
+'s(0.0) schools(0.0) ,(0.0) colleges(1.0) and(0.0) universities(0.0) .(0.0) NSF(0.0) is(0.0) an(0.0) important(0.0) participant(0.0) in(0.0) research(0.0) efforts(0.0) in(0.0) areas(0.0) such(0.0) as(0.0) high(0.0) 
+performance(0.0) computing(0.0) ,(0.0) and(0.0) communications(0.0) ,(0.0) advanced(0.0) materials(0.0) ,(0.0) biotechnology(1.0) and(0.0) advanced(0.0) manufacturing(0.0) .(0.0) Innovation(0.0) in(0.0) these(0.0) areas(0.0) is(0.0) key(0.0) 
+to(0.0) creating(0.0) the(0.0) economy(1.0) of(0.0) the(0.0) future(0.0) .(0.0) If(0.0) we(0.0) are(0.0) to(0.0) realize(0.0) the(0.0) fullest(0.0) potential(0.0) for(0.0) our(0.0) Nation(1.0) 's(0.0) 
+economic(1.0) future(0.0) ,(0.0) we(0.0) must(0.0) ensure(0.0) that(0.0) opportunities(0.0) exist(0.0) for(0.0) all(0.0) Americans(1.0) .(0.0) To(0.0) that(0.0) end(0.0) ,(0.0) I(0.0) am(0.0) pleased(0.0) 
+that(0.0) the(0.0) Science(0.0) ,(0.0) Space(0.0) ,(0.0) and(0.0) Technology(0.0) Committee(0.0) adopted(0.0) my(0.0) amendment(1.0) to(0.0) support(0.0) education(1.0) efforts(1.0) for(0.0) underrepresented(1.0) groups(0.0) in(0.0) 
+science(1.0) and(0.0) engineering(0.0) .(0.0) There(0.0) is(0.0) a(0.0) vast(0.0) untapped(1.0) resource(0.0) in(0.0) the(0.0) children(0.0) of(0.0) our(0.0) Nation(1.0) .(0.0) We(0.0) must(0.0) not(0.0) 
+let(0.0) value(0.0) of(0.0) our(0.0) young(0.0) people(0.0) 's(0.0) imagination(0.0) be(0.0) diminished(1.0) by(0.0) a(0.0) failure(0.0) to(0.0) acknowledge(0.0) that(0.0) everyone(0.0) --(0.0) regardless(0.0) of(0.0) 
+race(1.0) ,(0.0) ethnicity(1.0) ,(0.0) gender(1.0) ,(0.0) disability(1.0) ,(0.0) or(0.0) financial(1.0) situation(0.0) --(0.0) may(0.0) have(0.0) something(0.0) valuable(0.0) to(0.0) offer(0.0) for(0.0) the(0.0) 
+future(0.0) of(0.0) our(0.0) great(0.0) Nation(1.0) .(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) Science(0.0) Subcommittee(0.0) Chairman(0.0) Boucher(1.0) and(0.0) ranking(0.0) member(0.0) Boehlert(1.0) for(0.0) their(0.0) 
+leadership(0.0) and(0.0) vision(0.0) on(0.0) this(0.0) matter(0.0) .(0.0) By(0.0) investing(1.0) in(0.0) our(0.0) future(0.0) now(0.0) through(0.0) funding(1.0) the(0.0) National(0.0) Science(0.0) Foundation(0.0) ,(0.0) 
+we(0.0) can(0.0) provide(0.0) hope(0.0) for(0.0) all(0.0) Americans(1.0) that(0.0) they(0.0) will(0.0) have(0.0) a(0.0) high-paying(0.0) ,(0.0) high-quality(1.0) job(0.0) that(0.0) will(0.0) give(0.0) the(0.0) 
+men(0.0) and(0.0) women(0.0) of(0.0) this(0.0) country(1.0) the(0.0) financial(1.0) security(0.0) they(0.0) need(0.0) to(0.0) raise(1.0) a(0.0) family(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	
+Nation	
+colleges	
+biotechnology	
+economy	Nation	
+economic	Americans	
+amendment	education	efforts	underrepresented	
+science	untapped	Nation	
+diminished	
+race	ethnicity	gender	disability	financial	
+Nation	Boucher	Boehlert	
+investing	funding	
+Americans	high-quality	
+country	financial	raise	
+
+reads % = 0.11191335740072202

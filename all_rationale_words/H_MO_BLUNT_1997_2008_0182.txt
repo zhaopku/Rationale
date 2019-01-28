@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+Well(0.0) ,(0.0) to(0.0) make(0.0) the(0.0) point(0.0) ,(0.0) I(0.0) 'm(0.0) not(0.0) sure(0.0) in(0.0) my(0.0) statement(0.0) there(0.0) that(0.0) I(0.0) mentioned(0.0) a(0.0) veto-sustaining(0.0) majority(0.0) 
+.(0.0) I(0.0) 'll(0.0) just(0.0) point(0.0) out(0.0) ,(0.0) if(0.0) we(0.0) had(0.0) that(0.0) veto-sustaining(0.0) number(0.0) ,(0.0) rather(0.0) ,(0.0) it(0.0) would(0.0) also(0.0) mean(0.0) 
+that(0.0) the(0.0) bill(1.0) would(1.0) n't(0.0) pass(0.0) and(0.0) that(0.0) it(0.0) would(0.0) fail(0.0) on(0.0) suspension(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+bill	would	
+
+reads % = 0.03636363636363636

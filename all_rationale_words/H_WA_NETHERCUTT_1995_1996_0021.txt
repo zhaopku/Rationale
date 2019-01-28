@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) today(0.0) is(0.0) a(0.0) new(0.0) day(0.0) in(0.0) the(0.0) fight(1.0) to(0.0) cure(0.0) diabetes(1.0) .(0.0) Not(0.0) only(0.0) Members(0.0) of(0.0) Congress(0.0) but(0.0) 
+every(0.0) group(0.0) who(0.0) is(0.0) dedicated(0.0) to(0.0) curing(0.0) this(0.0) disease(0.0) and(0.0) preventing(1.0) its(0.0) health(1.0) consequences(1.0) ,(0.0) from(0.0) the(0.0) Juvenile(0.0) Diabetes(0.0) Foundation(0.0) 
+to(0.0) the(0.0) American(0.0) Diabetes(1.0) Foundation(1.0) to(0.0) the(0.0) Coalition(1.0) for(0.0) Diabetes(1.0) Research(0.0) ,(0.0) they(0.0) are(0.0) all(0.0) concerned(0.0) about(0.0) and(0.0) they(0.0) are(0.0) 
+united(1.0) behind(0.0) legislation(1.0) that(0.0) has(0.0) been(0.0) introduced(0.0) by(0.0) the(0.0) gentlewoman(0.0) from(0.0) Oregon(1.0) [(0.0) Ms.(1.0) Furse(1.0) ](0.0) and(1.0) me(0.0) and(0.0) sponsored(0.0) 
+by(0.0) over(0.0) 230(0.0) other(0.0) Members(0.0) of(0.0) Congress(0.0) .(0.0) We(0.0) all(0.0) realize(0.0) that(0.0) the(0.0) complications(0.0) of(0.0) diabetes(1.0) can(0.0) be(0.0) prevented(0.0) if(0.0) 
+the(0.0) 16(0.0) million(0.0) American(0.0) diabetics(1.0) and(0.0) over(0.0) 100(0.0) million(0.0) diabetics(1.0) internationally(1.0) have(0.0) the(0.0) proper(0.0) education(1.0) about(0.0) their(0.0) disease(0.0) and(0.0) the(0.0) 
+means(0.0) to(0.0) take(0.0) care(1.0) of(0.0) themselves(0.0) .(0.0) This(0.0) legislation(1.0) does(0.0) just(0.0) that(0.0) ,(0.0) Madam(0.0) Speaker(1.0) .(0.0) It(0.0) allows(0.0) Medicare(1.0) to(0.0) 
+cover(0.0) the(0.0) cost(0.0) of(0.0) diabetes(1.0) education(1.0) and(0.0) the(0.0) cost(1.0) of(0.0) blood(0.0) testing(0.0) and(0.0) monitoring(0.0) ,(0.0) critical(0.0) factors(0.0) if(0.0) we(0.0) are(0.0) 
+to(0.0) reduce(1.0) the(0.0) $(0.0) 100(0.0) billion(1.0) it(0.0) costs(1.0) American(0.0) society(1.0) each(0.0) year(0.0) to(0.0) combat(1.0) the(0.0) results(0.0) of(0.0) diabetes(1.0) .(0.0) I(0.0) 
+urge(0.0) all(0.0) my(0.0) colleagues(0.0) and(0.0) the(0.0) other(0.0) 200(0.0) who(0.0) have(0.0) not(0.0) sponsored(0.0) it(0.0) yet(0.0) to(0.0) support(0.0) this(0.0) legislation(1.0) and(0.0) give(0.0) 
+life(0.0) to(0.0) the(0.0) fight(1.0) against(0.0) diabetes(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+fight	diabetes	
+preventing	health	consequences	
+Diabetes	Foundation	Coalition	Diabetes	
+united	legislation	Oregon	Ms.	Furse	and	
+diabetes	
+diabetics	diabetics	internationally	education	
+care	legislation	Speaker	Medicare	
+diabetes	education	cost	
+reduce	billion	costs	society	combat	diabetes	
+legislation	
+fight	diabetes	
+
+reads % = 0.17307692307692307

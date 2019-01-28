@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) 1\1/2\(0.0) minutes(1.0) to(0.0) the(0.0) distinguished(0.0) gentleman(0.0) from(0.0) South(1.0) Carolina(0.0) ((0.0) Mr.(0.0) Spratt(1.0) )(0.0) ,(0.0) the(0.0) ranking(1.0) Democrat(1.0) 
+on(0.0) the(0.0) Committee(0.0) on(0.0) the(0.0) Budget(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+minutes	South	Spratt	ranking	Democrat	
+
+
+reads % = 0.17857142857142858

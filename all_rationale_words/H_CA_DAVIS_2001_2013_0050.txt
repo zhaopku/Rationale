@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Well(0.0) ,(0.0) I(0.0) think(0.0) we(0.0) saw(0.0) the(0.0) leadership(0.0) coming(0.0) from(0.0) President(1.0) Bush(1.0) at(0.0) that(0.0) time(0.0) .(0.0) And(0.0) because(0.0) we(0.0) also(0.0) had(0.0) 
+--(0.0) those(0.0) of(0.0) us(0.0) here(0.0) on(0.0) this(0.0) side(0.0) of(0.0) the(0.0) aisle(0.0) ,(0.0) I(0.0) think(0.0) ,(0.0) in(0.0) support(0.0) ,(0.0) it(0.0) was(0.0) 
+a(0.0) bipartisan(1.0) effort(0.0) .(0.0) We(0.0) saw(0.0) that(0.0) leadership(0.0) coming(0.0) from(0.0) the(0.0) top(0.0) ;(0.0) and(0.0) that(0.0) is(0.0) what(0.0) made(0.0) a(0.0) difference(0.0) 
+,(0.0) because(0.0) it(0.0) was(0.0) written(0.0) into(0.0) the(0.0) budget(1.0) .(0.0) Now(0.0) ,(0.0) I(0.0) must(0.0) say(0.0) ,(0.0) we(0.0) were(0.0) n't(0.0) able(0.0) to(0.0) 
+sustain(1.0) some(0.0) of(0.0) that(0.0) because(0.0) of(0.0) a(0.0) number(0.0) of(0.0) reasons(0.0) .(0.0) And(0.0) we(0.0) were(0.0) fighting(0.0) two(0.0) wars(1.0) and(0.0) then(0.0) had(0.0) 
+a(0.0) number(0.0) of(0.0) other(0.0) issues(0.0) that(0.0) we(0.0) needed(0.0) to(0.0) look(0.0) at(0.0) .(0.0) But(0.0) the(0.0) reality(0.0) is(0.0) that(0.0) that(0.0) was(0.0) maybe(0.0) 
+unique(0.0) in(0.0) some(0.0) ways(0.0) because(0.0) it(0.0) really(0.0) came(0.0) from(0.0) leadership(1.0) at(0.0) the(0.0) top(0.0) .(0.0) It(0.0) was(0.0) here(0.0) ,(0.0) on(0.0) our(0.0) 
+side(0.0) of(0.0) the(0.0) House(0.0) ,(0.0) and(0.0) the(0.0) House(0.0) was(0.0) supportive(0.0) .(0.0) The(0.0) Senate(0.0) was(0.0) supportive(0.0) ,(0.0) and(0.0) the(0.0) President(1.0) was(0.0) 
+supportive(0.0) .(0.0) So(0.0) it(0.0) was(0.0) really(0.0) altogether(0.0) .(0.0) We(0.0) do(0.0) n't(0.0) see(0.0) that(0.0) leadership(0.0) right(0.0) now(0.0) from(0.0) the(0.0) other(0.0) side(0.0) 
+of(0.0) the(0.0) aisle(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+President	Bush	
+
+bipartisan	
+budget	
+sustain	wars	
+
+leadership	
+President	
+
+
+
+reads % = 0.043243243243243246

@@ -1,0 +1,20 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) if(0.0) the(0.0) gentleman(0.0) would(0.0) yield(0.0) further(0.0) ,(0.0) I(0.0) would(0.0) hope(0.0) so(0.0) .(0.0) I(0.0) can(0.0) not(0.0) guarantee(0.0) .(0.0) As(0.0) the(0.0) 
+gentleman(0.0) from(0.0) Texas(0.0) knows(0.0) ,(0.0) it(0.0) is(0.0) very(0.0) difficult(0.0) to(0.0) guarantee(0.0) anything(0.0) in(0.0) terms(0.0) of(0.0) a(0.0) date(0.0) certain(0.0) time-(0.0) line(0.0) 
+and(0.0) so(0.0) forth(0.0) .(0.0) But(0.0) let(0.0) me(0.0) just(0.0) say(0.0) to(0.0) the(0.0) gentleman(0.0) ,(0.0) if(0.0) I(0.0) can(0.0) say(0.0) it(0.0) in(0.0) perhaps(0.0) 
+the(0.0) most(0.0) colorful(0.0) way(0.0) that(0.0) is(0.0) allowable(0.0) within(0.0) the(0.0) rules(0.0) of(0.0) discourse(1.0) under(0.0) debate(1.0) ,(0.0) it(0.0) is(0.0) my(0.0) intent(1.0) to(0.0) 
+have(0.0) this(0.0) done(0.0) ,(0.0) completed(0.0) ,(0.0) thoroughly(0.0) giving(0.0) everybody(0.0) their(0.0) opportunity(0.0) ,(0.0) and(0.0) out(0.0) of(0.0) my(0.0) life(0.0) by(0.0) July(0.0) 4(0.0) 
+,(0.0) if(0.0) at(0.0) all(0.0) possible(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+
+discourse	debate	intent	
+
+
+
+reads % = 0.028037383177570093

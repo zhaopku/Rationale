@@ -1,0 +1,36 @@
+This is from a Republican
+----- below is the original text -----
+Well(0.0) ,(0.0) this(0.0) is(0.0) an(0.0) interesting(0.0) conversation(0.0) when(0.0) you(0.0) deal(0.0) with(0.0) how(0.0) this(0.0) all(0.0) came(0.0) about(0.0) .(0.0) In(0.0) January(0.0) of(0.0) 2009(0.0) 
+,(0.0) the(0.0) Sierra(0.0) Club(0.0) and(0.0) several(0.0) other(0.0) organizations(1.0) sued(1.0) the(0.0) EPA(1.0) to(0.0) expand(0.0) their(0.0) authority(0.0) ,(0.0) to(0.0) expand(0.0) what(0.0) was(0.0) 
+the(0.0) law(1.0) .(0.0) The(0.0) EPA(1.0) ruled(1.0) out(0.0) of(0.0) court(0.0) in(0.0) a(0.0) settlement(0.0) with(0.0) them(0.0) ,(0.0) and(0.0) what(0.0) was(0.0) taken(0.0) to(0.0) 
+a(0.0) judge(0.0) is(0.0) a(0.0) consent(0.0) decree(0.0) to(0.0) expand(0.0) what(0.0) was(0.0) the(0.0) policy(1.0) ,(0.0) what(0.0) was(0.0) the(0.0) law(1.0) .(0.0) So(0.0) several(0.0) 
+questions(0.0) have(0.0) to(0.0) be(0.0) answered(0.0) here(0.0) .(0.0) One(0.0) is(0.0) :(0.0) Does(0.0) the(0.0) executive(0.0) branch(0.0) have(0.0) the(0.0) authority(0.0) to(0.0) be(0.0) able(0.0) 
+to(0.0) change(0.0) a(0.0) law(0.0) through(0.0) an(0.0) agreement(0.0) with(0.0) the(0.0) Sierra(0.0) Club(0.0) or(0.0) any(0.0) other(0.0) organization(0.0) ?(0.0) Number(0.0) 2(0.0) is(0.0) :(0.0) 
+What(0.0) is(0.0) this(0.0) all(0.0) about(0.0) ?(0.0) If(0.0) you(0.0) 're(0.0) dealing(0.0) with(0.0) visibility(0.0) issues(0.0) ,(0.0) you(0.0) 're(0.0) dealing(0.0) not(0.0) with(0.0) health(1.0) 
+issues(0.0) specifically(0.0) stated(0.0) in(0.0) the(0.0) air(0.0) quality(0.0) --(0.0) and(0.0) all(0.0) that(0.0) happened(0.0) with(0.0) regional(1.0) haze(0.0) was(0.0) this(0.0) is(0.0) not(0.0) about(0.0) 
+health(1.0) ;(0.0) this(0.0) is(0.0) about(0.0) visibility(0.0) .(0.0) In(0.0) my(0.0) State(0.0) ,(0.0) there(0.0) 's(0.0) one(0.0) of(0.0) the(0.0) national(1.0) parks(0.0) that(0.0) will(0.0) 
+change(0.0) 2(0.0) deciviews(0.0) with(0.0) the(0.0) Federal(1.0) implementation(1.0) plan(1.0) rather(0.0) than(0.0) the(0.0) State(0.0) implementation(0.0) plan(0.0) .(0.0) That(0.0) will(0.0) cost(0.0) ratepayers(1.0) in(0.0) 
+Oklahoma(1.0) millions(0.0) and(0.0) millions(1.0) of(0.0) dollars(1.0) for(0.0) something(0.0) that(0.0) can(0.0) not(0.0) be(0.0) seen(0.0) by(0.0) the(0.0) human(0.0) eye(0.0) .(0.0) This(0.0) is(0.0) 
+about(0.0) jobs(0.0) ,(0.0) and(0.0) this(0.0) is(0.0) about(0.0) who(0.0) makes(0.0) the(0.0) decision(1.0) .(0.0) I(0.0) do(0.0) not(0.0) like(0.0) the(0.0) assumption(1.0) that(0.0) only(0.0) 
+people(0.0) in(0.0) Washington(1.0) ,(0.0) D.C.(1.0) ,(0.0) care(1.0) about(0.0) the(0.0) people(0.0) of(0.0) Oklahoma(1.0) .(0.0) The(0.0) people(0.0) of(0.0) Oklahoma(1.0) care(0.0) about(0.0) the(0.0) 
+health(1.0) and(0.0) safety(0.0) of(0.0) the(0.0) people(0.0) of(0.0) Oklahoma(1.0) .(0.0) I(0.0) would(0.0) vote(1.0) ``(0.0) yes(0.0) ''(0.0) for(0.0) this(0.0) amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+organizations	sued	EPA	
+law	EPA	ruled	
+policy	law	
+
+
+health	
+regional	
+health	national	
+Federal	implementation	plan	ratepayers	
+Oklahoma	millions	dollars	
+decision	assumption	
+Washington	D.C.	care	Oklahoma	Oklahoma	
+health	Oklahoma	vote	amendment	
+
+reads % = 0.10714285714285714

@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) the(0.0) Democratic(1.0) majority(1.0) pays(1.0) lip(0.0) service(0.0) to(0.0) their(0.0) support(0.0) of(0.0) religious(1.0) people(0.0) and(0.0) faith-based(1.0) groups(0.0) ,(0.0) but(0.0) now(0.0) 
+they(0.0) are(0.0) here(0.0) today(0.0) ,(0.0) in(0.0) this(0.0) House(0.0) ,(0.0) enacting(1.0) a(0.0) piece(0.0) of(0.0) legislation(1.0) that(0.0) I(0.0) believe(0.0) is(0.0) a(0.0) shot(0.0) 
+across(0.0) the(0.0) bow(0.0) to(0.0) all(0.0) faith-based(1.0) organizations(0.0) that(0.0) are(0.0) involved(0.0) in(0.0) social(1.0) services(0.0) in(0.0) this(0.0) country(1.0) .(0.0) The(0.0) Head(0.0) Start(0.0) 
+bill(1.0) today(0.0) says(0.0) that(0.0) if(0.0) you(0.0) participate(0.0) in(0.0) the(0.0) grant(1.0) process(0.0) ,(0.0) you(0.0) will(0.0) not(0.0) be(0.0) able(0.0) to(0.0) hire(0.0) like-minded(0.0) 
+people(0.0) to(0.0) work(0.0) in(0.0) your(0.0) child-care(1.0) facility(0.0) .(0.0) The(0.0) Democrats(1.0) are(0.0) saying(0.0) that(0.0) a(0.0) bureaucracy(1.0) in(0.0) Washington(1.0) ,(0.0) D.C.(1.0) ,(0.0) 
+has(0.0) more(0.0) wisdom(0.0) to(0.0) decide(0.0) who(0.0) you(0.0) can(0.0) and(0.0) ca(0.0) n't(0.0) hire(0.0) than(0.0) the(0.0) hundreds(0.0) ,(0.0) thousands(0.0) of(0.0) small(0.0) businesses(1.0) 
+that(0.0) run(0.0) these(0.0) Head(0.0) Start(0.0) programs(1.0) .(0.0) The(0.0) Democrats(1.0) are(0.0) essentially(0.0) saying(0.0) ,(0.0) with(0.0) this(0.0) legislation(1.0) ,(0.0) while(0.0) we(0.0) thank(0.0) 
+you(0.0) for(0.0) your(0.0) tireless(1.0) dedication(0.0) and(0.0) recognize(0.0) that(0.0) you(0.0) are(0.0) an(0.0) integral(0.0) part(0.0) of(0.0) this(0.0) process(0.0) ,(0.0) we(0.0) do(0.0) n't(0.0) 
+trust(0.0) you(0.0) to(0.0) make(0.0) fair(1.0) choices(0.0) in(0.0) the(0.0) employees(0.0) that(0.0) you(0.0) hire(0.0) .(0.0) Do(0.0) n't(0.0) be(0.0) misled(0.0) .(0.0) This(0.0) is(0.0) 
+in(0.0) direct(0.0) contradiction(1.0) to(0.0) the(0.0) Civil(1.0) Rights(1.0) Act(0.0) of(0.0) 1964(0.0) and(0.0) the(0.0) Supreme(1.0) Court(0.0) ,(0.0) both(0.0) of(0.0) which(0.0) came(0.0) to(0.0) 
+the(0.0) conclusion(0.0) that(0.0) faith-based(1.0) organizations(0.0) had(0.0) the(0.0) right(0.0) to(0.0) hire(0.0) employees(0.0) on(0.0) a(0.0) religious(0.0) basis(0.0) .(0.0) Faith-based(1.0) organizations(0.0) such(0.0) as(0.0) 
+churches(1.0) ,(0.0) synagogues(0.0) and(0.0) other(0.0) faith-based(1.0) charities(1.0) are(0.0) a(0.0) central(0.0) part(0.0) of(0.0) the(0.0) fabric(0.0) of(0.0) communities(1.0) all(0.0) across(0.0) America(1.0) .(0.0) 
+Many(0.0) of(0.0) these(0.0) organizations(1.0) provide(0.0) assistance(0.0) and(0.0) services(0.0) to(0.0) the(0.0) neediest(1.0) members(0.0) of(0.0) society(1.0) ,(0.0) offering(0.0) a(0.0) helping(0.0) hand(0.0) to(0.0) 
+the(0.0) less(0.0) fortunate(0.0) among(0.0) us(0.0) .(0.0) Many(0.0) faith-based(1.0) organizations(0.0) can(0.0) and(0.0) want(0.0) to(0.0) make(0.0) a(0.0) vital(0.0) contribution(0.0) to(0.0) the(0.0) Federal(1.0) 
+assistance(1.0) programs(0.0) .(0.0) The(0.0) landmark(1.0) 1964(0.0) Civil(1.0) Rights(1.0) Act(0.0) explicitly(1.0) protects(0.0) the(0.0) rights(1.0) of(0.0) religious(1.0) organizations(1.0) to(0.0) take(0.0) religion(1.0) into(0.0) 
+account(0.0) in(0.0) their(0.0) hiring(0.0) practices(0.0) .(0.0) In(0.0) fact(0.0) ,(0.0) the(0.0) Civil(1.0) Rights(1.0) Act(0.0) made(0.0) clear(0.0) that(0.0) when(0.0) faith-(0.0) based(0.0) organizations(1.0) 
+hire(0.0) employees(0.0) on(0.0) a(0.0) religious(1.0) basis(0.0) ,(0.0) it(0.0) is(0.0) an(0.0) exercise(0.0) of(0.0) the(0.0) organization(0.0) 's(0.0) civil(1.0) liberties(1.0) and(0.0) does(0.0) not(0.0) 
+constitute(0.0) discrimination(1.0) under(0.0) Federal(1.0) law(1.0) .(0.0) The(0.0) freedom(1.0) to(0.0) hire(0.0) those(0.0) who(0.0) share(0.0) religious(1.0) beliefs(0.0) was(0.0) upheld(1.0) in(0.0) a(0.0) unanimous(1.0) 
+1987(0.0) Supreme(0.0) Court(0.0) decision(0.0) ,(0.0) Corporation(0.0) of(0.0) the(0.0) Presiding(0.0) Bishop(0.0) v.(0.0) Amos(1.0) ,(0.0) in(0.0) which(0.0) the(0.0) Court(0.0) observed(0.0) ,(0.0) ``(0.0) 
+A(0.0) law(0.0) is(0.0) not(0.0) unconstitutional(1.0) simply(0.0) because(0.0) it(0.0) allows(0.0) churches(1.0) to(0.0) advance(0.0) religion(1.0) ,(0.0) which(0.0) is(0.0) their(0.0) very(0.0) purpose(0.0) .(0.0) 
+For(0.0) a(0.0) law(1.0) to(0.0) have(0.0) forbidden(0.0) 'effect(0.0) '(0.0) .(0.0) .(0.0) .(0.0) it(0.0) must(0.0) be(0.0) fair(0.0) to(0.0) say(0.0) that(0.0) the(0.0) government(1.0) 
+itself(0.0) has(0.0) advanced(0.0) religion(1.0) through(0.0) its(0.0) own(0.0) activities(0.0) and(0.0) influence(0.0) .(0.0) ''(0.0) Now(0.0) ,(0.0) in(0.0) an(0.0) attempt(0.0) to(0.0) appease(1.0) Republicans(0.0) 
+and(1.0) conservative(1.0) Democrats(1.0) ,(1.0) an(1.0) alternative(1.0) amendment(1.0) will(1.0) be(1.0) provided(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) North(0.0) Carolina(0.0) .(0.0) This(0.0) amendment(1.0) ,(0.0) 
+in(0.0) effect(1.0) ,(0.0) praises(1.0) the(0.0) work(0.0) of(0.0) faith-based(1.0) organizations(0.0) ,(0.0) but(0.0) tells(0.0) them(0.0) they(0.0) have(0.0) to(0.0) give(0.0) up(0.0) their(0.0) right(0.0) 
+to(0.0) hire(0.0) who(0.0) they(0.0) want(0.0) to(0.0) hire(0.0) to(0.0) participate(0.0) in(0.0) Head(0.0) Start(0.0) .(0.0) Current(0.0) Federal(1.0) law(1.0) protects(1.0) the(0.0) Civil(1.0) 
+
+
+----- below are rationale words -----
+
+Speaker	Democratic	majority	pays	religious	faith-based	
+enacting	legislation	
+faith-based	social	country	
+bill	grant	
+child-care	Democrats	bureaucracy	Washington	D.C.	
+businesses	
+programs	Democrats	legislation	
+tireless	
+fair	
+contradiction	Civil	Rights	Supreme	
+faith-based	Faith-based	
+churches	faith-based	charities	communities	America	
+organizations	neediest	society	
+faith-based	Federal	
+assistance	landmark	Civil	Rights	explicitly	rights	religious	organizations	religion	
+Civil	Rights	organizations	
+religious	civil	liberties	
+discrimination	Federal	law	freedom	religious	upheld	unanimous	
+Amos	
+unconstitutional	churches	religion	
+law	government	
+religion	appease	
+and	conservative	Democrats	,	an	alternative	amendment	will	be	amendment	
+effect	praises	faith-based	
+Federal	law	protects	Civil	
+
+reads % = 0.174

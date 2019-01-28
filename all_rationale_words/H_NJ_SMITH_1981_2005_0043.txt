@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) agree(0.0) to(0.0) the(0.0) resolution(1.0) ((0.0) H.(0.0) Res(1.0) .(0.0) 195(0.0) )(0.0) recognizing(0.0) 
+the(0.0) 60th(0.0) anniversary(0.0) of(0.0) Victory(0.0) in(0.0) Europe(0.0) ((0.0) VE(0.0) )(0.0) Day(0.0) and(0.0) the(0.0) Liberation(0.0) of(0.0) Western(0.0) Bohemia(0.0) .(0.0) The(0.0) Clerk(0.0) 
+read(0.0) as(0.0) follows(0.0) :(0.0) H.(0.0) Res(1.0) .(0.0) 195(0.0) Whereas(0.0) the(0.0) final(0.0) major(0.0) offensive(0.0) in(0.0) the(0.0) European(0.0) theater(0.0) of(0.0) operations(0.0) during(0.0) 
+World(0.0) War(0.0) II(0.0) ,(0.0) known(0.0) as(0.0) the(0.0) Liberation(0.0) of(0.0) Western(0.0) Bohemia(0.0) ,(0.0) was(0.0) fought(0.0) from(0.0) April(0.0) 25(0.0) ,(0.0) 1945(0.0) ,(0.0) 
+to(0.0) May(0.0) 8(0.0) ,(0.0) 1945(0.0) ,(0.0) with(0.0) Victory(0.0) in(0.0) Europe(0.0) ((0.0) VE(0.0) )(0.0) Day(0.0) declared(0.0) on(0.0) May(0.0) 8(0.0) ,(0.0) 1945(0.0) 
+;(0.0) Whereas(0.0) the(0.0) Liberation(0.0) of(0.0) Western(0.0) Bohemia(0.0) was(0.0) the(0.0) closing(0.0) offensive(0.0) of(0.0) World(0.0) War(0.0) II(0.0) ,(0.0) which(0.0) decisively(0.0) contributed(0.0) to(0.0) 
+the(0.0) ultimate(0.0) capitulation(0.0) of(0.0) the(0.0) German(0.0) Third(0.0) Reich(0.0) ;(0.0) Whereas(0.0) on(0.0) May(0.0) 4(0.0) ,(0.0) 1945(0.0) ,(0.0) General(0.0) George(0.0) S.(1.0) Patton(1.0) 
+gave(0.0) the(0.0) order(0.0) for(0.0) the(0.0) American(0.0) Third(0.0) Army(0.0) ,(0.0) consisting(0.0) of(0.0) 18(0.0) divisions(0.0) and(0.0) 500,000(0.0) men(0.0) ,(0.0) to(0.0) resume(0.0) the(0.0) 
+Allied(0.0) offensive(0.0) into(0.0) Western(0.0) Bohemia(0.0) ;(0.0) Whereas(0.0) on(0.0) May(0.0) 5(0.0) ,(0.0) 1945(0.0) ,(0.0) the(0.0) Third(0.0) Army(0.0) liberated(0.0) the(0.0) city(0.0) of(0.0) 
+Plzen(0.0) ((0.0) Pilsen(0.0) )(0.0) ,(0.0) the(0.0) western-most(0.0) city(0.0) in(0.0) then-(0.0) Czechoslovakia(0.0) ;(0.0) Whereas(0.0) on(0.0) May(0.0) 6(0.0) ,(0.0) 1945(0.0) ,(0.0) as(0.0) 
+Americans(0.0) entered(0.0) Pilsen(0.0) ,(0.0) flowers(0.0) were(0.0) strewn(0.0) along(0.0) the(0.0) paths(0.0) and(0.0) into(0.0) the(0.0) vehicles(0.0) of(0.0) the(0.0) troops(0.0) ,(0.0) while(0.0) young(0.0) 
+girls(0.0) and(0.0) old(0.0) men(0.0) and(0.0) women(0.0) ran(0.0) to(0.0) kiss(0.0) the(0.0) soldiers(0.0) ;(0.0) Whereas(0.0) during(0.0) the(0.0) communist(1.0) era(0.0) ,(0.0) Czechs(1.0) celebrated(0.0) 
+their(0.0) liberation(1.0) from(0.0) Nazi(1.0) Germany(0.0) on(0.0) May(0.0) 9(0.0) of(0.0) each(0.0) year(0.0) in(0.0) commemoration(0.0) of(0.0) the(0.0) Soviet(0.0) liberation(0.0) of(0.0) Prague(0.0) ;(0.0) 
+however(0.0) ,(0.0) after(0.0) the(0.0) 1989(0.0) ``(0.0) Velvet(0.0) Revolution(0.0) ''(0.0) ,(0.0) the(0.0) date(0.0) of(0.0) commemoration(0.0) was(0.0) moved(0.0) to(0.0) May(0.0) 8(0.0) of(0.0) 
+each(0.0) year(0.0) ;(0.0) Whereas(0.0) thousands(0.0) of(0.0) American(0.0) veterans(0.0) of(0.0) the(0.0) Liberation(0.0) of(0.0) Western(0.0) Bohemia(0.0) have(0.0) traveled(0.0) to(0.0) Pilsen(0.0) in(0.0) the(0.0) 
+years(0.0) since(0.0) the(0.0) liberation(1.0) to(0.0) honor(0.0) their(0.0) fallen(0.0) comrades(0.0) ;(0.0) Whereas(0.0) the(0.0) people(0.0) of(0.0) the(0.0) Czech(0.0) Republic(0.0) ,(0.0) symbolizing(1.0) their(0.0) 
+friendship(0.0) and(0.0) gratitude(0.0) toward(0.0) the(0.0) American(0.0) soldiers(0.0) who(0.0) fought(0.0) to(0.0) secure(0.0) their(0.0) freedom(1.0) ,(0.0) have(0.0) graciously(0.0) hosted(0.0) countless(0.0) veterans(1.0) groups(0.0) 
+over(0.0) the(0.0) years(0.0) ;(0.0) Whereas(0.0) between(0.0) April(0.0) 25(0.0) and(0.0) May(0.0) 9(0.0) ,(0.0) 2005(0.0) ,(0.0) some(0.0) 50(0.0) communities(0.0) across(0.0) the(0.0) western(0.0) 
+part(0.0) of(0.0) the(0.0) Czech(0.0) Republic(0.0) will(0.0) be(0.0) celebrating(0.0) the(0.0) 60th(0.0) anniversary(0.0) of(0.0) their(0.0) liberation(1.0) by(0.0) United(0.0) States(0.0) ,(0.0) Czech(0.0) ,(0.0) 
+and(0.0) Belgian(0.0) soldiers(0.0) under(0.0) the(0.0) command(0.0) of(0.0) General(0.0) Patton(0.0) ;(0.0) Whereas(0.0) the(0.0) citizens(0.0) of(0.0) Pilsen(1.0) will(0.0) dedicate(0.0) a(0.0) statue(0.0) of(0.0) 
+General(0.0) Patton(0.0) which(0.0) will(0.0) be(0.0) unveiled(0.0) on(0.0) the(0.0) town(0.0) square(0.0) on(0.0) the(0.0) 60th(0.0) anniversary(0.0) of(0.0) the(0.0) liberation(1.0) of(0.0) Pilsen(0.0) ,(0.0) 
+commemorating(0.0) the(0.0) Liberation(0.0) of(0.0) Western(0.0) Bohemia(0.0) by(0.0) United(0.0) States(0.0) Armed(0.0) Forces(0.0) during(0.0) World(0.0) War(0.0) II(0.0) ;(0.0) and(0.0) Whereas(0.0) the(0.0) friendship(0.0) 
+between(0.0) the(0.0) United(0.0) States(0.0) and(0.0) the(0.0) Czech(0.0) Republic(0.0) is(0.0) strong(0.0) today(0.0) in(0.0) part(0.0) because(0.0) of(0.0) the(0.0) Liberation(0.0) of(0.0) Western(0.0) Bohemia(0.0) 
+:(0.0) Now(0.0) ,(0.0) therefore(0.0) ,(0.0) be(0.0) it(0.0) Resolved(0.0) ,(0.0) That(0.0) the(0.0) House(0.0) of(0.0) Representatives(0.0) --(0.0) ((0.0) 1(0.0) )(0.0) recognizes(0.0) the(0.0) 
+60th(0.0) anniversary(0.0) of(0.0) the(0.0) Liberation(0.0) of(0.0) Western(0.0) Bohemia(0.0) in(0.0) the(0.0) European(0.0) theater(0.0) of(0.0) operations(0.0) during(0.0) World(0.0) War(0.0) II(0.0) which(0.0) 
+
+
+----- below are rationale words -----
+
+resolution	Res	
+
+Res	
+
+
+
+S.	Patton	
+
+
+
+
+communist	Czechs	
+liberation	Nazi	
+
+
+liberation	symbolizing	
+freedom	veterans	
+
+liberation	
+Pilsen	
+liberation	
+
+
+
+
+
+reads % = 0.032

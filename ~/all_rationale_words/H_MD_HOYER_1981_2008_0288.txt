@@ -1,0 +1,10 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) do(0.0) n't(0.0) want(1.0) to(0.0) get(0.0) too(0.0) testy(1.0) ,(0.0) and(0.0) you(0.0) and(0.0) I(0.0) are(0.0) good(0.0) friends(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+want	testy	
+
+reads % = 0.11764705882352941

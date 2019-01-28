@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(1.0) ,(0.0) the(0.0) proposed(0.0) Conyers(0.0) amendment(1.0) seeks(1.0) to(0.0) codify(1.0) the(0.0) 1984(1.0) Supreme(0.0) Court(0.0) decision(0.0) in(0.0) United(0.0) States(0.0) versus(0.0) Leon(0.0) ,(0.0) where(0.0) 
+the(0.0) Court(0.0) held(0.0) that(0.0) the(0.0) exclusionary(1.0) rule(0.0) should(0.0) not(0.0) be(0.0) used(0.0) to(0.0) bar(0.0) evidence(0.0) gathered(0.0) by(0.0) officers(1.0) acting(0.0) in(0.0) a(0.0) 
+reasonable(0.0) reliance(1.0) on(0.0) a(0.0) search(1.0) warrant(0.0) issued(1.0) by(0.0) a(0.0) magistrate(1.0) but(0.0) ultimately(1.0) found(0.0) to(0.0) be(0.0) improper(1.0) .(0.0) Although(0.0) this(0.0) amendment(1.0) 
+in(0.0) and(0.0) of(0.0) itself(1.0) dilutes(1.0) the(0.0) exclusionary(1.0) rule(0.0) ,(0.0) I(0.0) support(0.0) it(0.0) for(0.0) it(0.0) does(0.0) far(0.0) less(0.0) damage(0.0) to(0.0) fourth(0.0) 
+amendment(1.0) rights(0.0) than(0.0) the(0.0) bill(0.0) before(0.0) us(0.0) and(0.0) does(0.0) not(0.0) go(0.0) further(0.0) than(0.0) what(1.0) is(0.0) already(0.0) current(0.0) Supreme(0.0) Court(0.0) case(0.0) 
+law(1.0) .(0.0) On(0.0) the(0.0) other(0.0) hand(0.0) ,(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) the(0.0) underlying(0.0) bill(0.0) is(0.0) a(0.0) radical(1.0) departure(0.0) from(0.0) established(1.0) precedent(0.0) 
+and(0.0) would(1.0) radically(0.0) extend(0.0) the(0.0) permissibility(1.0) of(0.0) warrantless(1.0) searches(1.0) .(0.0) It(0.0) would(0.0) allow(0.0) evidence(0.0) gathered(0.0) from(0.0) warrantless(1.0) searches(1.0) to(0.0) be(0.0) 
+admitted(1.0) .(0.0) Indeed(1.0) ,(0.0) the(0.0) Leon(1.0) court(0.0) explicitly(0.0) states(1.0) that(0.0) it(0.0) strongly(1.0) prefers(1.0) searches(1.0) with(0.0) warrants(0.0) to(0.0) warrantless(1.0) searches(1.0) ,(0.0) 
+because(0.0) the(0.0) process(1.0) of(0.0) obtaining(0.0) a(0.0) warrant(0.0) ,(0.0) that(0.0) process(1.0) by(0.0) itself(1.0) provides(0.0) safeguards(1.0) against(0.0) improper(1.0) searches(1.0) .(0.0) Mr.(0.0) Chairman(1.0) 
+,(0.0) the(0.0) fourth(1.0) amendment(1.0) allows(0.0) the(0.0) State(1.0) to(0.0) breach(1.0) the(0.0) individual(0.0) 's(0.0) right(1.0) to(0.0) privacy(1.0) only(0.0) when(0.0) the(0.0) amendment(1.0) 's(0.0) 
+rules(1.0) are(0.0) followed(0.0) .(0.0) As(0.0) Justice(0.0) Oliver(1.0) Wendell(1.0) Holmes(1.0) said(1.0) ,(0.0) the(0.0) fourth(1.0) amendment(1.0) protects(0.0) the(0.0) individual(0.0) 's(0.0) legitimate(0.0) expectation(1.0) 
+of(0.0) privacy(1.0) --(0.0) ``(1.0) the(0.0) right(1.0) to(0.0) be(0.0) let(0.0) alone(1.0) --(0.0) the(0.0) most(1.0) comprehensive(1.0) right(1.0) and(0.0) the(0.0) right(1.0) most(1.0) valued(0.0) 
+by(0.0) civilized(1.0) man(1.0) .(0.0) ''(0.0) The(0.0) heart(0.0) of(0.0) the(0.0) fourth(1.0) amendment(1.0) is(0.0) the(0.0) issuance(0.0) of(0.0) a(0.0) warrant(0.0) based(0.0) on(0.0) probable(0.0) 
+cause(1.0) .(0.0) In(0.0) obtaining(1.0) a(0.0) warrant(0.0) the(0.0) police(1.0) officer(0.0) goes(0.0) before(1.0) a(0.0) magistrate(1.0) and(0.0) shows(1.0) that(0.0) the(0.0) totality(1.0) of(0.0) the(0.0) 
+circumstances(1.0) indicate(0.0) that(0.0) there(0.0) is(0.0) evidence(0.0) of(0.0) a(0.0) crime(0.0) ,(0.0) in(0.0) effect(0.0) ,(0.0) that(0.0) he(0.0) has(0.0) probable(0.0) cause(1.0) .(0.0) The(0.0) 
+cost(0.0) of(0.0) conducting(0.0) constitutional(1.0) searches(1.0) is(0.0) not(1.0) high(0.0) .(0.0) The(0.0) process(1.0) of(0.0) obtaining(0.0) a(0.0) warrant(0.0) is(0.0) not(1.0) cumbersome(1.0) for(0.0) police(1.0) 
+.(0.0) It(0.0) has(0.0) been(0.0) shown(0.0) that(0.0) a(0.0) magistrate(1.0) will(0.0) take(0.0) an(0.0) average(0.0) of(0.0) 2(0.0) minutes(1.0) and(0.0) 45(0.0) seconds(0.0) to(0.0) approve(1.0) 
+a(0.0) search(1.0) warrant(0.0) .(0.0) The(0.0) vast(1.0) majority(0.0) --(0.0) over(0.0) 90(0.0) percent(1.0) --(0.0) of(0.0) warrant(0.0) applications(1.0) are(0.0) approved(0.0) .(0.0) Police(1.0) officers(1.0) 
+can(0.0) even(0.0) obtain(0.0) a(0.0) warrant(0.0) over(0.0) the(0.0) telephone(1.0) .(0.0) Critics(1.0) of(0.0) the(0.0) exclusionary(1.0) rule(0.0) exaggerate(1.0) its(0.0) practical(0.0) significance(0.0) in(0.0) the(0.0) 
+disposition(0.0) of(0.0) cases(1.0) .(0.0) They(0.0) talk(0.0) vaguely(1.0) of(0.0) enormous(0.0) numbers(1.0) of(0.0) criminals(1.0) walking(0.0) because(0.0) evidence(0.0) either(1.0) was(0.0) or(1.0) probably(0.0) will(0.0) 
+be(0.0) excluded(1.0) .(0.0) This(0.0) argument(1.0) is(0.0) simply(0.0) not(0.0) supported(1.0) by(0.0) responsible(1.0) statistical(0.0) studies(0.0) .(0.0) Adherence(1.0) to(0.0) the(0.0) fourth(1.0) amendment(1.0) and(0.0) 
+use(1.0) of(0.0) the(0.0) exclusionary(1.0) rule(0.0) does(0.0) not(0.0) result(0.0) in(0.0) large(0.0) numbers(0.0) of(0.0) criminals(1.0) being(0.0) set(0.0) free(1.0) .(0.0) For(0.0) example(0.0) ,(0.0) 
+a(0.0) study(1.0) by(0.0) the(0.0) Comptroller(1.0) General(1.0) 's(0.0) office(0.0) found(0.0) that(0.0) suppression(1.0) motions(1.0) were(0.0) granted(0.0) in(0.0) only(0.0) 1.3(1.0) percent(1.0) of(0.0) Federal(1.0) 
+cases(1.0) .(0.0) The(0.0) leading(1.0) commentator(1.0) on(0.0) search(1.0) and(0.0) seizure(0.0) law(1.0) has(0.0) found(0.0) that(0.0) ,(0.0) .(0.0) .(1.0) .(0.0) the(1.0) most(1.0) careful(0.0) 
+and(0.0) balanced(1.0) assessment(1.0) of(0.0) all(0.0) available(1.0) empirical(0.0) evidence(0.0) shows(1.0) that(0.0) .(0.0) .(0.0) .(1.0) the(1.0) cumulative(0.0) loss(0.0) in(0.0) felony(1.0) cases(0.0) 
+
+
+----- below are rationale words -----
+
+amendment	seeks	codify	1984	
+exclusionary	officers	
+reliance	search	issued	magistrate	ultimately	improper	amendment	
+itself	dilutes	exclusionary	
+amendment	what	
+law	Chairman	radical	established	
+would	permissibility	warrantless	searches	warrantless	searches	
+admitted	Indeed	Leon	states	strongly	prefers	searches	warrantless	searches	
+process	process	itself	safeguards	improper	searches	Chairman	
+fourth	amendment	State	breach	right	privacy	amendment	
+rules	Oliver	Wendell	Holmes	said	fourth	amendment	expectation	
+privacy	``	right	alone	most	comprehensive	right	right	most	
+civilized	man	fourth	amendment	
+cause	obtaining	police	before	magistrate	shows	totality	
+circumstances	cause	
+constitutional	searches	not	process	not	cumbersome	police	
+magistrate	minutes	approve	
+search	vast	percent	applications	Police	officers	
+telephone	Critics	exclusionary	exaggerate	
+cases	vaguely	numbers	criminals	either	or	
+excluded	argument	supported	responsible	Adherence	fourth	amendment	
+use	exclusionary	criminals	free	
+study	Comptroller	General	suppression	motions	1.3	percent	Federal	
+cases	leading	commentator	search	law	.	the	most	
+balanced	assessment	available	shows	.	the	felony	
+
+reads % = 0.282

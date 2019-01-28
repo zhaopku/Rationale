@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+The(0.0) gentleman(0.0) ,(0.0) along(0.0) with(0.0) other(0.0) speakers(0.0) ,(0.0) has(0.0) indicated(0.0) that(0.0) President(0.0) Aristide(1.0) 's(0.0) regime(0.0) was(0.0) a(0.0) murderous(0.0) regime(1.0) or(0.0) his(0.0) 
+followers(0.0) were(0.0) murderers(0.0) .(0.0) There(0.0) is(0.0) no(0.0) documentation(0.0) of(0.0) this(0.0) anywhere(0.0) in(0.0) the(0.0) observations(0.0) of(0.0) the(0.0) United(0.0) States(0.0) ,(0.0) in(0.0) 
+the(0.0) observations(0.0) of(0.0) the(0.0) OAS(1.0) or(0.0) in(0.0) the(0.0) observations(0.0) of(0.0) Amnesty(1.0) International(0.0) .(0.0) All(0.0) three(0.0) groups(0.0) ,(0.0) Amnesty(1.0) International(0.0) ,(0.0) 
+the(0.0) OAS(1.0) observers(0.0) ,(0.0) the(0.0) U.N.(1.0) observers(0.0) ,(0.0) all(0.0) agree(0.0) that(0.0) the(0.0) criminal(1.0) regime(1.0) which(0.0) overthrew(1.0) President(0.0) Aristide(1.0) is(0.0) responsible(0.0) 
+for(0.0) at(0.0) least(0.0) 3,000(0.0) killings(1.0) ,(0.0) at(0.0) least(0.0) 3,000(0.0) killings(1.0) during(0.0) the(0.0) time(0.0) that(0.0) they(0.0) have(0.0) been(0.0) in(0.0) power(0.0) .(0.0) 
+What(0.0) body(0.0) does(0.0) the(0.0) gentleman(0.0) cite(0.0) that(0.0) can(0.0) document(0.0) murders(1.0) committed(1.0) by(0.0) the(0.0) followers(0.0) of(0.0) President(0.0) Aristide(1.0) ?(0.0) What(0.0) credible(0.0) 
+body(0.0) can(0.0) the(0.0) gentleman(0.0) cite(0.0) as(0.0) documentation(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+Aristide	regime	
+
+OAS	Amnesty	Amnesty	
+OAS	U.N.	criminal	regime	overthrew	Aristide	
+killings	killings	
+murders	committed	Aristide	
+
+
+reads % = 0.12403100775193798

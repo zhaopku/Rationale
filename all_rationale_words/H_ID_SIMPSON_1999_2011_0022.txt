@@ -1,0 +1,36 @@
+This is from a Republican
+----- below is the original text -----
+Beginning(0.0) in(0.0) 2005(0.0) ,(0.0) the(0.0) Shell(0.0) Oil(1.0) Company(1.0) purchased(0.0) leases(0.0) in(0.0) the(0.0) Beaufort(0.0) and(0.0) the(0.0) Chukchi(0.0) Seas(0.0) located(0.0) within(0.0) the(0.0) Arctic(0.0) 
+Outer(0.0) Continental(0.0) Shelf(0.0) .(0.0) The(0.0) company(0.0) paid(0.0) over(0.0) $(0.0) 2.1(0.0) billion(1.0) for(0.0) these(0.0) lease(0.0) rights(1.0) ,(0.0) a(0.0) reflection(0.0) of(0.0) the(0.0) 
+potentially(0.0) vast(0.0) reserves(1.0) off(0.0) of(0.0) Alaska(1.0) 's(0.0) coast(0.0) .(0.0) Shell(0.0) applied(0.0) for(0.0) air(0.0) permits(1.0) from(0.0) the(0.0) EPA(1.0) for(0.0) its(0.0) Beaufort(0.0) 
+leases(0.0) in(0.0) 2006(0.0) and(0.0) for(0.0) the(0.0) Chukchi(1.0) in(0.0) 2008(0.0) .(0.0) The(0.0) company(0.0) went(0.0) through(0.0) a(0.0) lengthy(0.0) and(0.0) burdensome(1.0) administrative(0.0) process(0.0) 
+.(0.0) Shell(0.0) 's(0.0) permits(0.0) were(0.0) initially(0.0) approved(0.0) ,(0.0) but(0.0) subsequently(0.0) overturned(0.0) by(0.0) the(0.0) EPA(1.0) 's(0.0) Environmental(0.0) Appeals(0.0) Board(0.0) .(0.0) Last(0.0) 
+year(0.0) ,(0.0) the(0.0) Appropriations(0.0) Committee(0.0) addressed(0.0) the(0.0) problem(0.0) by(0.0) including(0.0) language(0.0) in(0.0) the(0.0) FY(0.0) 2010(0.0) conference(0.0) report(0.0) specifically(0.0) directing(0.0) the(0.0) 
+agency(0.0) to(0.0) allocate(0.0) sufficient(0.0) funds(0.0) and(0.0) personnel(0.0) to(0.0) process(0.0) the(0.0) OCS(0.0) permits(0.0) in(0.0) a(0.0) timely(0.0) manner(0.0) .(0.0) This(0.0) simply(0.0) did(0.0) 
+not(0.0) happen(0.0) .(0.0) The(0.0) company(0.0) is(0.0) effectively(0.0) at(0.0) square(0.0) one(0.0) after(0.0) spending(1.0) millions(1.0) of(0.0) dollars(1.0) and(0.0) thousands(0.0) of(0.0) man-hours(1.0) .(0.0) 
+Shell(0.0) announced(0.0) just(0.0) this(0.0) month(0.0) that(0.0) it(0.0) had(0.0) cancelled(0.0) plans(0.0) for(0.0) drilling(1.0) in(0.0) the(0.0) Arctic(0.0) in(0.0) the(0.0) 2011(0.0) drilling(1.0) season(0.0) 
+,(0.0) which(0.0) is(0.0) a(0.0) very(0.0) short(0.0) drilling(1.0) season(0.0) .(0.0) They(0.0) have(0.0) spent(0.0) millions(1.0) on(0.0) this(0.0) and(0.0) done(0.0) everything(0.0) by(0.0) the(0.0) 
+book(0.0) .(0.0) And(0.0) the(0.0) appeals(1.0) board(0.0) has(0.0) decided(0.0) that(0.0) because(0.0) they(0.0) should(0.0) have(0.0) foreseen(0.0) that(0.0) the(0.0) rules(1.0) were(0.0) going(0.0) to(0.0) 
+change(0.0) ,(0.0) that(0.0) they(0.0) should(0.0) n't(0.0) have(0.0) issued(0.0) these(0.0) air(0.0) permits(1.0) .(0.0) I(0.0) think(0.0) it(0.0) 's(0.0) an(0.0) overreach(1.0) by(0.0) the(0.0) 
+EPA(1.0) and(0.0) by(0.0) the(0.0) appeals(1.0) board(0.0) ,(0.0) and(0.0) I(0.0) support(0.0) this(0.0) amendment(1.0) and(0.0) would(0.0) encourage(0.0) my(0.0) colleagues(0.0) to(0.0) vote(1.0) for(0.0) 
+it(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Oil	Company	
+billion	rights	
+reserves	Alaska	permits	EPA	
+Chukchi	burdensome	
+EPA	
+
+
+spending	millions	dollars	man-hours	
+drilling	drilling	
+drilling	millions	
+appeals	rules	
+permits	overreach	
+EPA	appeals	amendment	vote	
+
+
+reads % = 0.10266159695817491

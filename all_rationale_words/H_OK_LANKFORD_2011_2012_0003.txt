@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) due(0.0) to(0.0) a(0.0) clerical(0.0) error(0.0) ,(0.0) I(0.0) ask(0.0) that(0.0) the(0.0) name(0.0) of(0.0) the(0.0) gentleman(0.0) from(0.0) Michigan(1.0) ,(0.0) Justin(0.0) Amash(1.0) 
+,(0.0) be(0.0) removed(0.0) as(0.0) a(0.0) cosponsor(1.0) from(0.0) H.R(0.0) .(0.0) 3609(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Michigan	Amash	
+cosponsor	
+
+reads % = 0.09375

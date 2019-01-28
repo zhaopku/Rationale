@@ -1,0 +1,24 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) in(0.0) the(0.0) aftermath(1.0) of(0.0) the(0.0) Great(0.0) Recession(1.0) ,(0.0) Congress(0.0) established(1.0) the(0.0) Consumer(0.0) Financial(0.0) Protection(0.0) Bureau(0.0) for(0.0) a(0.0) very(0.0) 
+clear(0.0) reason(0.0) :(0.0) to(0.0) ensure(0.0) that(0.0) financial(1.0) markets(0.0) and(0.0) services(0.0) work(0.0) for(0.0) all(0.0) Americans(0.0) ,(0.0) not(1.0) just(1.0) the(0.0) big(1.0) banks(1.0) 
+and(0.0) best(0.0) connected(0.0) .(0.0) Today(0.0) ,(0.0) the(0.0) CFPB(0.0) makes(0.0) sure(1.0) that(0.0) consumers(1.0) get(0.0) the(0.0) information(0.0) they(0.0) need(0.0) to(0.0) make(0.0) smart(1.0) 
+financial(1.0) decisions(0.0) on(0.0) everything(0.0) from(0.0) mortgages(1.0) to(0.0) credit(0.0) cards(0.0) to(0.0) student(0.0) loans(0.0) .(0.0) Today(0.0) ,(0.0) the(0.0) House(0.0) majority(1.0) will(0.0) introduce(0.0) 
+a(0.0) purely(1.0) partisan(1.0) measure(1.0) called(0.0) the(0.0) Consumer(0.0) Financial(0.0) Protection(0.0) Safety(0.0) and(0.0) Soundness(0.0) Improvement(0.0) Act(0.0) .(0.0) That(0.0) is(0.0) a(0.0) mouthful(1.0) ,(0.0) 
+if(0.0) nothing(1.0) else(0.0) ,(0.0) but(0.0) rather(0.0) than(0.0) improve(1.0) the(0.0) CFPB(0.0) ,(0.0) it(0.0) would(1.0) do(0.0) precisely(0.0) the(0.0) opposite(0.0) by(0.0) undermining(1.0) its(0.0) 
+independence(1.0) and(0.0) eliminating(1.0) its(0.0) rulemaking(1.0) authority(0.0) .(0.0) Consumer(0.0) protections(1.0) could(0.0) be(0.0) scrapped(1.0) .(0.0) We(0.0) must(0.0) not(1.0) repeat(0.0) the(0.0) same(1.0) costly(1.0) 
+mistakes(1.0) that(0.0) put(0.0) our(0.0) economy(1.0) in(0.0) the(0.0) free(1.0) fall(0.0) of(0.0) the(0.0) Great(0.0) Recession(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+aftermath	Recession	established	
+financial	not	just	big	banks	
+sure	consumers	smart	
+financial	mortgages	majority	
+purely	partisan	measure	mouthful	
+nothing	improve	would	undermining	
+independence	eliminating	rulemaking	protections	scrapped	not	same	costly	
+mistakes	economy	free	Recession	
+
+reads % = 0.21935483870967742

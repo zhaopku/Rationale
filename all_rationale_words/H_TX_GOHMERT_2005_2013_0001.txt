@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) just(0.0) wanted(0.0) to(0.0) thank(0.0) so(0.0) many(0.0) on(0.0) the(0.0) other(0.0) side(0.0) after(0.0) all(0.0) these(0.0) years(0.0) for(0.0) finally(0.0) acknowledging(0.0) publicly(1.0) that(0.0) 98(0.0) 
+percent(0.0) of(0.0) the(0.0) Bush(1.0) tax(1.0) cuts(1.0) helped(0.0) the(0.0) middle(1.0) class(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+publicly	
+Bush	tax	cuts	middle	class	
+
+reads % = 0.1875

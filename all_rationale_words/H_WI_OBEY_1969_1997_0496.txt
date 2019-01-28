@@ -1,0 +1,10 @@
+This is from a Democrat
+----- below is the original text -----
+Rogers(1.0) ](0.0) renew(1.0) his(1.0) motion(1.0) ?(1.0) We(0.0) could(0.0) not(0.0) hear(0.0) it(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+renew	his	motion	?	
+
+reads % = 0.3333333333333333

@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) last(0.0) week(0.0) I(0.0) was(0.0) at(0.0) home(0.0) in(0.0) Ohio(1.0) ,(0.0) as(0.0) were(0.0) many(0.0) of(0.0) my(0.0) colleagues(0.0) ,(0.0) talking(0.0) to(0.0) my(0.0) 
+constituents(1.0) about(0.0) what(0.0) was(0.0) on(0.0) their(0.0) minds(0.0) .(0.0) Health(1.0) care(1.0) came(0.0) up(0.0) quite(0.0) a(0.0) bit(0.0) as(0.0) I(0.0) toured(0.0) around(0.0) my(0.0) 
+district(0.0) .(0.0) There(0.0) was(0.0) great(0.0) concern(0.0) expressed(0.0) by(0.0) many(0.0) people(0.0) about(0.0) what(0.0) was(0.0) going(0.0) to(0.0) happen(0.0) in(0.0) this(0.0) Congress(0.0) with(0.0) 
+regard(0.0) to(0.0) health(1.0) care(1.0) reform(1.0) .(0.0) Were(0.0) we(0.0) going(0.0) to(0.0) get(0.0) the(0.0) Bill(1.0) Clinton(1.0) type(0.0) health(1.0) care(0.0) reform(1.0) that(0.0) was(0.0) 
+going(0.0) to(0.0) put(0.0) the(0.0) Government(1.0) in(0.0) a(0.0) larger(0.0) role(0.0) with(0.0) regard(0.0) to(0.0) health(1.0) care(1.0) that(0.0) I(0.0) and(0.0) the(0.0) constituents(1.0) of(0.0) 
+my(0.0) district(0.0) would(0.0) receive(0.0) ?(0.0) One(0.0) issue(0.0) that(0.0) came(0.0) up(0.0) repeatedly(0.0) was(0.0) the(0.0) issue(0.0) of(0.0) rationing(1.0) .(0.0) We(0.0) will(0.0) not(0.0) 
+hear(0.0) the(0.0) proponents(1.0) of(0.0) these(0.0) big(1.0) government(1.0) health(1.0) bills(1.0) talk(0.0) about(0.0) rationing(1.0) .(0.0) We(0.0) will(0.0) hear(0.0) words(0.0) such(0.0) as(0.0) cost(0.0) 
+control(0.0) ,(0.0) trying(0.0) to(0.0) make(0.0) health(1.0) care(1.0) more(0.0) affordable(1.0) .(0.0) But(0.0) the(0.0) fact(0.0) is(0.0) ,(0.0) the(0.0) American(0.0) people(0.0) are(0.0) beginning(0.0) 
+to(0.0) sense(0.0) rather(0.0) acutely(0.0) that(0.0) all(0.0) of(0.0) this(0.0) means(0.0) rationing(1.0) .(0.0) What(0.0) is(0.0) rationing(1.0) ?(0.0) Rationing(1.0) means(0.0) denying(1.0) service(0.0) for(0.0) 
+certain(0.0) procedures(0.0) to(0.0) certain(0.0) parts(0.0) of(0.0) our(0.0) society(1.0) that(0.0) the(0.0) Government(1.0) would(0.0) decide(0.0) is(0.0) not(0.0) in(0.0) the(0.0) best(0.0) interest(0.0) of(0.0) 
+the(0.0) country(1.0) as(0.0) a(0.0) whole(0.0) ,(0.0) in(0.0) order(0.0) to(0.0) hold(0.0) down(0.0) costs(1.0) .(0.0) Last(0.0) month(0.0) in(0.0) the(0.0) Committee(0.0) on(0.0) Education(0.0) 
+and(0.0) Labor(1.0) I(0.0) offered(0.0) an(0.0) amendment(1.0) during(0.0) the(0.0) markup(1.0) of(0.0) the(0.0) President(1.0) 's(0.0) health(0.0) care(0.0) bill(1.0) that(0.0) would(0.0) allow(0.0) the(0.0) 
+American(0.0) people(0.0) to(0.0) buy(0.0) supplemental(1.0) insurance(1.0) policies(1.0) in(0.0) case(0.0) they(0.0) have(0.0) been(0.0) denied(1.0) care(0.0) ,(0.0) in(0.0) case(0.0) they(0.0) have(0.0) been(0.0) 
+denied(1.0) services(0.0) under(0.0) one(0.0) of(0.0) these(0.0) big(0.0) government(1.0) bills(1.0) .(0.0) During(0.0) the(0.0) debate(1.0) on(0.0) my(0.0) amendment(1.0) some(0.0) interesting(0.0) points(0.0) were(0.0) 
+made(0.0) by(0.0) my(0.0) colleagues(0.0) on(0.0) the(0.0) Democrat(1.0) side(0.0) of(0.0) the(0.0) aisle(0.0) ,(0.0) most(0.0) notably(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) Montana(1.0) [(0.0) 
+Mr.(0.0) Williams(1.0) ](0.0) ,(0.0) who(0.0) is(0.0) the(0.0) chairman(0.0) of(0.0) the(0.0) Labor(0.0) Management(0.0) Subcommittee(0.0) that(0.0) had(0.0) jurisdiction(0.0) over(0.0) this(0.0) health(0.0) care(0.0) 
+bill(0.0) .(0.0) Let(0.0) me(0.0) read(0.0) what(0.0) he(0.0) had(0.0) to(0.0) say(0.0) when(0.0) we(0.0) got(0.0) into(0.0) the(0.0) discussion(0.0) on(0.0) my(0.0) amendment(1.0) .(0.0) 
+But(0.0) at(0.0) the(0.0) end(0.0) of(0.0) the(0.0) day(0.0) ,(0.0) the(0.0) only(0.0) way(0.0) the(0.0) American(0.0) people(0.0) are(0.0) really(0.0) going(0.0) to(0.0) get(0.0) health(1.0) 
+costs(1.0) reduced(0.0) is(0.0) through(0.0) some(0.0) type(0.0) of(0.0) a(0.0) competitive(0.0) arrangement(0.0) that(0.0) moves(0.0) toward(0.0) restricting(1.0) unnecessary(1.0) procedures(1.0) .(0.0) Now(0.0) ,(0.0) who(0.0) 
+is(0.0) going(0.0) to(0.0) decide(0.0) what(0.0) is(0.0) necessary(0.0) ,(0.0) who(0.0) is(0.0) going(0.0) to(0.0) decide(0.0) what(0.0) is(0.0) unnecessary(0.0) ,(0.0) we(0.0) could(0.0) all(0.0) 
+go(0.0) through(0.0) that(0.0) forever(0.0) .(0.0) Sometimes(0.0) this(0.0) goes(0.0) by(0.0) the(0.0) name(0.0) of(0.0) rationing(1.0) .(0.0) The(0.0) gentleman(0.0) 's(0.0) amendment(1.0) would(1.0) allow(0.0) 
+an(0.0) off(0.0) ramp(0.0) ,(0.0) at(0.0) least(0.0) for(0.0) those(0.0) who(0.0) could(0.0) afford(0.0) it(0.0) ,(0.0) to(0.0) continue(0.0) to(0.0) pay(1.0) more(0.0) .(0.0) It(0.0) 
+seems(0.0) to(0.0) me(0.0) that(0.0) it(0.0) may(0.0) be(0.0) that(0.0) off(0.0) ramp(0.0) is(0.0) necessary(0.0) .(0.0) I(0.0) am(0.0) not(0.0) as(0.0) opposed(0.0) to(0.0) the(0.0) 
+gentleman(0.0) 's(0.0) amendment(1.0) ,(0.0) as(0.0) some(0.0) of(0.0) my(0.0) colleagues(0.0) on(0.0) this(0.0) side(0.0) .(0.0) But(0.0) what(0.0) we(0.0) have(0.0) to(0.0) decide(0.0) as(0.0) 
+we(0.0) vote(1.0) here(0.0) is(0.0) do(0.0) we(0.0) want(0.0) to(0.0) restrain(0.0) health(1.0) care(1.0) costs(1.0) or(0.0) do(0.0) n't(0.0) we(0.0) ?(0.0) Because(0.0) the(0.0) 
+
+
+----- below are rationale words -----
+
+Ohio	
+constituents	Health	care	
+
+health	care	reform	Bill	Clinton	health	reform	
+Government	health	care	constituents	
+rationing	
+proponents	big	government	health	bills	rationing	
+health	care	affordable	
+rationing	rationing	Rationing	denying	
+society	Government	
+country	costs	
+Labor	amendment	markup	President	bill	
+supplemental	insurance	policies	denied	
+denied	government	bills	debate	amendment	
+Democrat	Montana	
+Williams	
+amendment	
+health	
+costs	restricting	unnecessary	procedures	
+
+rationing	amendment	would	
+pay	
+
+amendment	
+vote	health	care	costs	
+
+reads % = 0.13

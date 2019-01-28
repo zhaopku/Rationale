@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) last(1.0) fall(0.0) the(0.0) American(0.0) people(0.0) went(0.0) to(0.0) the(0.0) polls(1.0) and(0.0) they(0.0) voted(1.0) for(0.0) positive(0.0) change(1.0) and(0.0) new(1.0) direction(0.0) ,(0.0) 
+not(1.0) only(0.0) in(0.0) the(0.0) way(1.0) we(0.0) do(0.0) business(1.0) here(0.0) in(0.0) Washington(1.0) ,(0.0) but(0.0) also(1.0) in(0.0) Iraq(1.0) .(0.0) The(0.0) 110th(1.0) Congress(0.0) 
+is(0.0) fulfilling(0.0) the(0.0) mandate(1.0) the(0.0) American(0.0) people(0.0) provided(0.0) by(0.0) putting(0.0) forward(0.0) a(0.0) supplemental(1.0) bill(0.0) that(0.0) will(0.0) guarantee(0.0) three(0.0) things(0.0) :(1.0) 
+First(1.0) ,(0.0) support(0.0) for(0.0) our(0.0) troops(0.0) before(1.0) ,(0.0) during(0.0) and(0.0) after(0.0) being(0.0) in(0.0) harm's(1.0) way(1.0) ;(0.0) second(0.0) ,(0.0) accountability(1.0) and(0.0) 
+responsibility(0.0) ,(0.0) not(1.0) only(0.0) from(0.0) our(0.0) own(0.0) administration(0.0) ,(0.0) but(0.0) from(0.0) the(0.0) newly(1.0) elected(1.0) Iraqi(1.0) government(1.0) as(0.0) well(0.0) ;(0.0) and(0.0) 
+,(0.0) third(0.0) ,(0.0) a(0.0) positive(0.0) change(1.0) away(0.0) from(0.0) Iraq(1.0) and(0.0) back(0.0) towards(0.0) al(0.0) Qaeda(0.0) by(0.0) guaranteeing(0.0) an(0.0) end(0.0) to(0.0) our(0.0) 
+involvement(0.0) in(0.0) the(0.0) civil(1.0) war(1.0) in(0.0) Iraq(1.0) .(0.0) The(0.0) American(0.0) people(0.0) will(0.0) no(1.0) longer(0.0) write(0.0) blank(1.0) checks(0.0) to(0.0) this(0.0) administration(0.0) 
+,(0.0) and(0.0) neither(1.0) will(0.0) this(0.0) Congress(0.0) ;(0.0) nor(1.0) will(0.0) we(0.0) continue(0.0) to(0.0) send(0.0) our(0.0) sons(0.0) and(0.0) daughters(0.0) to(0.0) the(0.0) sands(1.0) 
+of(0.0) Iraq(1.0) in(0.0) an(0.0) open-ended(0.0) commitment(0.0) .(0.0) The(0.0) time(0.0) has(0.0) come(0.0) for(0.0) this(0.0) administration(0.0) to(0.0) listen(0.0) to(0.0) the(0.0) will(0.0) of(0.0) 
+the(0.0) people(0.0) .(0.0) The(0.0) American(0.0) people(0.0) demanded(1.0) new(1.0) leadership(1.0) ,(0.0) positive(0.0) change(1.0) and(0.0) a(0.0) new(0.0) direction(0.0) ,(0.0) and(0.0) that(0.0) is(0.0) 
+exactly(1.0) what(0.0) this(0.0) Congress(0.0) is(0.0) delivering(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+last	polls	voted	change	new	
+not	way	business	Washington	also	Iraq	110th	
+mandate	supplemental	:	
+First	before	harm's	way	accountability	
+not	newly	elected	Iraqi	government	
+change	Iraq	
+civil	war	Iraq	no	blank	
+neither	nor	sands	
+Iraq	
+demanded	new	leadership	change	
+exactly	delivering	
+
+reads % = 0.20192307692307693

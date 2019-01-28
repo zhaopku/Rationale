@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) it(0.0) is(0.0) bad(0.0) enough(0.0) that(0.0) the(0.0) Gingrich(1.0) Republicans(1.0) are(0.0) proposing(0.0) a(0.0) tax(1.0) cut(1.0) for(0.0) the(0.0) wealthiest(1.0) people(0.0) in(0.0) America(0.0) 
+.(0.0) We(0.0) expect(0.0) the(0.0) Gingrich(1.0) Republicans(1.0) to(0.0) continue(0.0) to(0.0) slather(1.0) the(0.0) fattest(1.0) cats(0.0) with(0.0) tax(1.0) cuts(1.0) and(0.0) without(0.0) so(0.0) much(0.0) 
+as(0.0) the(0.0) slightest(1.0) regrets(1.0) ,(0.0) these(1.0) same(1.0) Republicans(1.0) cut(1.0) children(0.0) 's(0.0) programs(1.0) like(0.0) school(0.0) lunches(1.0) to(0.0) pay(1.0) for(0.0) them(0.0) .(0.0) 
+But(0.0) today(1.0) the(0.0) Gingrich(1.0) Republicans(1.0) take(0.0) this(0.0) extremism(1.0) to(0.0) a(0.0) new(0.0) low(0.0) .(0.0) Late(1.0) Tuesday(1.0) night(0.0) ,(0.0) a(0.0) handful(0.0) of(0.0) 
+lobbyists(1.0) met(0.0) secretly(0.0) with(0.0) Republican(1.0) congressional(1.0) leaders(1.0) and(0.0) killed(0.0) a(0.0) provision(0.0) that(0.0) would(1.0) have(0.0) closed(1.0) a(0.0) tax(1.0) loophole(1.0) for(0.0) billionaires(1.0) 
+who(0.0) renounce(1.0) their(0.0) American(0.0) citizenship(1.0) ,(0.0) that(0.0) is(0.0) right(1.0) ,(0.0) billionaires(1.0) who(0.0) made(0.0) their(0.0) fortunes(1.0) in(0.0) America(0.0) using(0.0) our(0.0) country(1.0) 
+'s(0.0) freedoms(1.0) and(0.0) opportunities(0.0) ,(0.0) our(0.0) economy(1.0) ,(0.0) our(0.0) infrastructure(1.0) ,(0.0) our(0.0) national(0.0) defense(0.0) ,(0.0) renounce(1.0) their(0.0) citizenship(1.0) to(0.0) escape(1.0) 
+taxes(1.0) ,(0.0) and(0.0) the(0.0) Republicans(1.0) want(1.0) to(0.0) protect(0.0) these(0.0) economic(1.0) traitors(1.0) .(0.0) And(0.0) our(1.0) Treasury(0.0) loses(1.0) $(0.0) 3.6(0.0) billion(1.0) because(0.0) 
+of(0.0) this(0.0) .(0.0) These(0.0) super-rich(1.0) traitors(1.0) and(0.0) their(0.0) well-paid(1.0) lobbyists(1.0) are(0.0) the(0.0) big(1.0) winners(1.0) .(0.0) The(0.0) Republicans(1.0) have(0.0) once(1.0) again(0.0) 
+rolled(1.0) outrage(1.0) does(0.0) not(1.0) steam(0.0) the(0.0) dumplings(1.0) of(0.0) every(0.0) American(0.0) who(0.0) ever(0.0) pledged(1.0) allegiance(1.0) to(0.0) our(0.0) flag(0.0) ,(0.0) nothing(1.0) will(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+Gingrich	Republicans	tax	cut	wealthiest	
+Gingrich	Republicans	slather	fattest	tax	cuts	
+slightest	regrets	these	same	Republicans	cut	programs	lunches	pay	
+today	Gingrich	Republicans	extremism	Late	Tuesday	
+lobbyists	Republican	congressional	leaders	would	closed	tax	loophole	billionaires	
+renounce	citizenship	right	billionaires	fortunes	country	
+freedoms	economy	infrastructure	renounce	citizenship	escape	
+taxes	Republicans	want	economic	traitors	our	loses	billion	
+super-rich	traitors	well-paid	lobbyists	big	winners	Republicans	once	
+rolled	outrage	not	dumplings	pledged	allegiance	nothing	
+
+
+reads % = 0.3465346534653465

@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) reclaiming(1.0) my(0.0) time(0.0) ,(0.0) history(0.0) has(0.0) indicated(0.0) to(0.0) me(0.0) in(0.0) my(0.0) long(0.0) time(0.0) working(0.0) with(0.0) the(0.0) chairman(0.0) ,(0.0) I(0.0) 
+know(0.0) that(0.0) as(0.0) this(0.0) bill(1.0) moves(1.0) through(0.0) the(0.0) Senate(0.0) ,(0.0) we(0.0) 'll(0.0) be(0.0) working(0.0) together(0.0) on(0.0) these(0.0) things(0.0) through(0.0) conference(0.0) 
+and(0.0) address(0.0) the(0.0) concerns(0.0) that(0.0) we(0.0) have(0.0) raised(0.0) .(0.0) We(0.0) support(0.0) the(0.0) committee(0.0) ,(0.0) and(0.0) I(0.0) thank(0.0) the(0.0) chairman(0.0) for(0.0) 
+his(0.0) discussion(0.0) .(0.0) Mr(0.0) .(1.0) Chair(1.0) ,(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+reclaiming	
+bill	moves	
+
+.	Chair	
+
+reads % = 0.06578947368421052

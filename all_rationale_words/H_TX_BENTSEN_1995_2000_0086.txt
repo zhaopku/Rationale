@@ -1,0 +1,24 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) me(0.0) this(0.0) time(0.0) ,(0.0) and(0.0) I(0.0) would(0.0) like(0.0) to(0.0) engage(0.0) the(0.0) subcommittee(0.0) chairman(0.0) 
+in(0.0) a(0.0) colloquy(0.0) ,(0.0) if(0.0) I(0.0) might(0.0) .(0.0) The(0.0) previous(0.0) speaker(0.0) just(0.0) mentioned(0.0) that(0.0) the(0.0) House(0.0) passed(0.0) the(0.0) bill(1.0) 313(1.0) 
+,(0.0) or(0.0) whatever(0.0) ,(0.0) by(0.0) a(0.0) wide(0.0) margin(0.0) .(0.0) The(0.0) House(0.0) also(0.0) adopted(1.0) language(0.0) that(0.0) allowed(1.0) States(0.0) to(0.0) opt(0.0) out(0.0) 
+of(0.0) the(0.0) cap(0.0) on(0.0) the(0.0) exemption(1.0) of(0.0) homestead(1.0) .(0.0) This(0.0) is(0.0) something(0.0) that(0.0) the(0.0) Federal(1.0) Government(1.0) has(0.0) allowed(0.0) the(0.0) States(0.0) 
+to(0.0) determine(0.0) since(0.0) the(0.0) founding(1.0) of(0.0) the(0.0) country(1.0) .(0.0) What(0.0) I(0.0) would(0.0) ask(0.0) the(0.0) distinguished(0.0) chairman(0.0) is(0.0) whether(0.0) or(0.0) not(0.0) 
+the(0.0) conference(0.0) report(0.0) ,(0.0) which(0.0) we(0.0) do(0.0) not(0.0) know(0.0) ,(0.0) have(0.0) not(0.0) seen(0.0) ,(0.0) that(0.0) someone(0.0) has(0.0) written(0.0) somewhere(0.0) ,(0.0) 
+overrides(0.0) the(0.0) will(0.0) of(0.0) the(0.0) House(0.0) that(0.0) overwhelmingly(1.0) passed(0.0) the(0.0) manager(0.0) 's(0.0) amendment(1.0) that(0.0) included(0.0) this(0.0) opt(1.0) out(0.0) ?(0.0) Does(0.0) 
+this(0.0) conference(0.0) report(0.0) override(0.0) State(0.0) law(0.0) and(0.0) State(0.0) constitution(0.0) with(0.0) respect(0.0) to(0.0) homestead(1.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+
+bill	313	
+adopted	allowed	
+exemption	homestead	Federal	Government	
+founding	country	
+
+overwhelmingly	amendment	opt	
+homestead	
+
+reads % = 0.09032258064516129

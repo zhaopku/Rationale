@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) 2(0.0) minutes(1.0) to(0.0) the(0.0) distinguished(0.0) Chair(1.0) of(0.0) the(0.0) Select(0.0) Revenue(0.0) Measures(0.0) Committee(0.0) and(0.0) a(0.0) champion(1.0) of(0.0) tax(1.0) 
+fairness(0.0) ,(0.0) Mr.(0.0) Neal(1.0) from(0.0) Massachusetts(1.0) .(0.0) ((0.0) Mr.(1.0) NEAL(1.0) of(0.0) Massachusetts(1.0) asked(0.0) and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) revise(0.0) and(0.0) 
+extend(0.0) his(0.0) remarks(0.0) .(0.0) )(0.0) 
+
+
+----- below are rationale words -----
+
+minutes	Chair	champion	tax	
+Neal	Massachusetts	Mr.	NEAL	Massachusetts	
+
+
+reads % = 0.1956521739130435

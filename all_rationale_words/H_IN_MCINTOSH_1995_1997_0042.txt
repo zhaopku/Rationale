@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) strike(1.0) the(0.0) requisite(0.0) number(0.0) of(0.0) words(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) this(0.0) 
+amendment(1.0) .(0.0) For(0.0) 3(0.0) years(0.0) now(0.0) my(0.0) subcommittee(0.0) on(0.0) National(0.0) Economic(1.0) Growth(0.0) ,(0.0) Natural(1.0) Resources(0.0) ,(0.0) and(0.0) Regulatory(0.0) Affairs(0.0) has(0.0) 
+held(0.0) field(0.0) hearings(0.0) all(0.0) over(0.0) this(0.0) country(1.0) .(0.0) We(0.0) have(0.0) talked(0.0) to(0.0) Americans(1.0) outside(0.0) of(0.0) Washington(1.0) about(0.0) what(0.0) works(0.0) in(0.0) 
+our(0.0) regulatory(1.0) system(0.0) and(0.0) what(0.0) does(0.0) not(0.0) work(0.0) .(0.0) Time(0.0) and(0.0) time(0.0) again(0.0) we(0.0) heard(0.0) from(0.0) people(0.0) that(0.0) OSHA(1.0) fails(0.0) 
+to(0.0) perform(0.0) its(0.0) mission(0.0) .(0.0) Rather(0.0) than(0.0) protecting(1.0) the(0.0) safety(0.0) of(0.0) workers(1.0) ,(0.0) it(0.0) spends(1.0) time(0.0) playing(0.0) ``(0.0) gotcha(0.0) ''(0.0) 
+with(0.0) America(1.0) 's(0.0) small(0.0) businesses(0.0) .(0.0) Time(0.0) and(0.0) time(0.0) again(0.0) we(0.0) heard(0.0) from(0.0) people(0.0) about(0.0) how(0.0) OSHA(1.0) inspectors(0.0) were(0.0) supposed(0.0) 
+to(0.0) come(0.0) and(0.0) tell(0.0) a(0.0) small(0.0) business(0.0) how(0.0) they(0.0) can(0.0) be(0.0) safer(0.0) at(0.0) their(0.0) workplace(1.0) ,(0.0) but(0.0) instead(0.0) ,(0.0) they(0.0) 
+come(0.0) and(0.0) they(0.0) harass(0.0) them(0.0) because(0.0) they(0.0) failed(0.0) to(0.0) fill(0.0) out(0.0) the(0.0) paperwork(1.0) .(0.0) We(0.0) have(0.0) found(0.0) out(0.0) in(0.0) these(0.0) 
+subcommittee(0.0) hearings(0.0) that(0.0) 8(0.0) out(0.0) of(0.0) 10(0.0) of(0.0) the(0.0) top(0.0) OSHA(1.0) citations(0.0) are(0.0) for(0.0) paperwork(0.0) ,(0.0) not(0.0) real(0.0) safety(0.0) concerns(0.0) 
+;(0.0) not(0.0) efforts(1.0) to(0.0) protect(1.0) America(1.0) 's(0.0) workers(1.0) ,(0.0) but(0.0) gotcha(1.0) ,(0.0) because(0.0) the(0.0) businesses(1.0) failed(0.0) to(0.0) fill(0.0) out(0.0) a(0.0) 
+Federal(1.0) form(0.0) .(0.0) I(0.0) had(0.0) one(0.0) gentleman(0.0) come(0.0) and(0.0) talk(0.0) to(0.0) me(0.0) in(0.0) Minnesota(1.0) who(0.0) explained(0.0) that(0.0) he(0.0) purposely(0.0) keeps(0.0) 
+his(0.0) employee(0.0) work(0.0) force(0.0) below(0.0) 50(0.0) ,(0.0) so(0.0) he(0.0) does(0.0) not(0.0) get(0.0) caught(0.0) up(0.0) in(0.0) what(0.0) he(0.0) views(0.0) as(0.0) an(0.0) 
+even(0.0) larger(0.0) web(0.0) of(0.0) Federal(1.0) regulations(1.0) .(0.0) I(0.0) want(0.0) to(0.0) share(0.0) with(0.0) the(0.0) Congress(0.0) a(0.0) couple(0.0) of(0.0) examples(0.0) we(0.0) heard(0.0) 
+from(0.0) people(0.0) ,(0.0) real(0.0) Americans(1.0) ,(0.0) outside(0.0) of(0.0) Washington(1.0) about(0.0) whether(0.0) OSHA(1.0) works(0.0) for(0.0) them(0.0) or(0.0) not(0.0) .(0.0) One(0.0) gentleman(0.0) 
+named(0.0) Rod(0.0) Stewart(1.0) owns(0.0) and(0.0) operates(0.0) a(0.0) small(0.0) manufacturing(0.0) company(0.0) in(0.0) Union(1.0) City(0.0) ,(0.0) IN(0.0) .(0.0) He(0.0) makes(0.0) brooms(0.0) out(0.0) 
+of(0.0) corn(1.0) husks(0.0) ,(0.0) and(0.0) cotton(0.0) mops(0.0) .(0.0) He(0.0) found(0.0) out(0.0) that(0.0) when(0.0) OSHA(1.0) came(0.0) and(0.0) inspected(0.0) his(0.0) plant(0.0) ,(0.0) 
+they(0.0) did(0.0) not(0.0) want(0.0) to(0.0) give(0.0) him(0.0) advice(0.0) about(0.0) how(0.0) to(0.0) help(0.0) those(0.0) workers(1.0) .(0.0) He(0.0) did(0.0) not(0.0) have(0.0) any(0.0) 
+help(0.0) from(0.0) the(0.0) Government(1.0) .(0.0) The(0.0) Government(1.0) did(0.0) not(0.0) find(0.0) any(0.0) safety(0.0) concerns(0.0) .(0.0) But(0.0) nonetheless(0.0) ,(0.0) they(0.0) fined(0.0) Mr.(0.0) 
+Stewart(1.0) $(0.0) 500(0.0) because(0.0) he(0.0) did(0.0) not(0.0) have(0.0) the(0.0) paperwork(1.0) warning(0.0) people(0.0) about(0.0) the(0.0) grave(0.0) danger(0.0) of(0.0) WD-40(0.0) .(0.0) When(0.0) 
+we(0.0) have(0.0) a(0.0) bureaucracy(1.0) that(0.0) has(0.0) to(0.0) go(0.0) and(0.0) talk(0.0) and(0.0) harass(1.0) the(0.0) American(0.0) small(0.0) businesses(0.0) about(0.0) the(0.0) grave(0.0) danger(0.0) 
+of(0.0) not(0.0) having(0.0) a(0.0) form(0.0) about(0.0) the(0.0) dangers(1.0) of(0.0) WD-40(1.0) ,(0.0) and(0.0) ,(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) for(0.0) those(0.0) who(0.0) are(0.0) 
+not(0.0) that(0.0) mechanical(0.0) ,(0.0) this(0.0) is(0.0) something(0.0) you(0.0) can(0.0) buy(0.0) at(0.0) any(0.0) hardware(0.0) store(0.0) in(0.0) America(1.0) ,(0.0) and(0.0) OSHA(1.0) is(0.0) 
+fining(0.0) this(0.0) small(0.0) businessman(0.0) $(0.0) 500(0.0) because(0.0) he(0.0) did(0.0) not(0.0) have(0.0) paperwork(0.0) warning(0.0) of(0.0) the(0.0) grave(0.0) dangers(0.0) of(0.0) this(0.0) common(0.0) 
+household(0.0) substance(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) we(0.0) also(0.0) heard(0.0) from(0.0) people(0.0) who(0.0) said(0.0) that(0.0) they(0.0) had(0.0) similar(0.0) fines(1.0) because(0.0) they(0.0) 
+did(0.0) not(0.0) have(0.0) the(0.0) right(0.0) paperwork(0.0) for(0.0) Dawn(0.0) dishwashing(0.0) liquid(0.0) ,(0.0) again(0.0) ,(0.0) an(0.0) item(0.0) that(0.0) you(0.0) can(0.0) buy(0.0) 
+
+
+----- below are rationale words -----
+
+strike	Chairman	
+amendment	Economic	Natural	
+country	Americans	Washington	
+regulatory	OSHA	
+protecting	workers	spends	
+America	OSHA	
+workplace	
+paperwork	
+OSHA	
+efforts	protect	America	workers	gotcha	businesses	
+Federal	Minnesota	
+
+Federal	regulations	
+Americans	Washington	OSHA	
+Stewart	Union	
+corn	OSHA	
+workers	
+Government	Government	
+Stewart	paperwork	
+bureaucracy	harass	
+dangers	WD-40	Chairman	
+America	OSHA	
+
+Chairman	fines	
+
+
+reads % = 0.098

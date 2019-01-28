@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) as(0.0) someone(0.0) who(0.0) farms(0.0) myself(0.0) ,(0.0) I(0.0) understand(0.0) the(0.0) value(0.0) of(0.0) water(0.0) ,(0.0) and(0.0) when(0.0) the(0.0) State(0.0) Water(0.0) Resources(0.0) 
+Control(0.0) Board(0.0) issues(0.0) a(0.0) cease(0.0) and(0.0) desist(0.0) order(0.0) in(0.0) the(0.0) gentleman(0.0) 's(0.0) district(0.0) for(0.0) illegally(0.0) diverting(1.0) water(0.0) --(0.0) that(0.0) was(0.0) 
+something(0.0) when(0.0) I(0.0) spent(0.0) some(0.0) time(0.0) up(0.0) in(0.0) Sacramento(1.0) ,(0.0) I(0.0) actually(0.0) got(0.0) on(0.0) a(0.0) boat(0.0) and(0.0) went(0.0) around(0.0) the(0.0) 
+delta(0.0) and(0.0) noticed(0.0) so(0.0) many(0.0) pumps(0.0) out(0.0) there(0.0) with(0.0) no(0.0) meters(0.0) pumping(0.0) water(1.0) and(0.0) pumping(1.0) above(0.0) their(0.0) right(0.0) ,(0.0) taking(0.0) 
+more(0.0) water(1.0) than(0.0) they(0.0) were(0.0) supposed(0.0) to(0.0) to(0.0) the(0.0) level(0.0) of(0.0) 77.7(1.0) cubic(0.0) feet(0.0) per(0.0) second(0.0) illegally(1.0) .(0.0) So(0.0) when(0.0) 
+we(0.0) talk(0.0) about(0.0) stealing(1.0) water(0.0) ,(0.0) there(0.0) is(0.0) a(0.0) lot(0.0) going(0.0) on(0.0) there(0.0) that(0.0) needs(0.0) to(0.0) be(0.0) talked(0.0) about(0.0) .(0.0) 
+More(0.0) importantly(0.0) ,(0.0) yes(0.0) ,(0.0) water(0.0) is(0.0) an(0.0) important(0.0) resource(0.0) ,(0.0) and(0.0) we(0.0) should(0.0) respect(0.0) that(0.0) and(0.0) appreciate(0.0) the(0.0) quality(0.0) 
+,(0.0) but(0.0) to(0.0) insert(0.0) more(0.0) bureaucracy(1.0) in(0.0) the(0.0) middle(1.0) to(0.0) prevent(1.0) us(0.0) from(0.0) taking(0.0) what(0.0) is(0.0) rightfully(1.0) ours(0.0) and(0.0) then(0.0) 
+have(0.0) the(0.0) audacity(1.0) to(0.0) dump(1.0) sewage(1.0) in(0.0) this(0.0) water(1.0) and(0.0) then(0.0) claim(0.0) you(0.0) are(0.0) trying(0.0) to(0.0) protect(0.0) it(0.0) and(0.0) keep(0.0) 
+it(0.0) clean(0.0) ,(0.0) we(0.0) are(0.0) talking(0.0) sewage(1.0) from(0.0) these(0.0) communities(1.0) ,(0.0) 380(1.0) million(1.0) gallons(1.0) per(0.0) day(0.0) being(0.0) dumped(1.0) in(0.0) the(0.0) 
+delta(1.0) ,(0.0) and(0.0) then(0.0) they(0.0) come(0.0) and(0.0) tell(0.0) us(0.0) they(0.0) are(0.0) trying(0.0) to(0.0) protect(1.0) and(0.0) keep(0.0) this(0.0) water(1.0) clean(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+
+diverting	
+Sacramento	
+water	pumping	
+water	77.7	illegally	
+stealing	
+
+bureaucracy	middle	prevent	rightfully	
+audacity	dump	sewage	water	
+sewage	communities	380	million	gallons	dumped	
+delta	protect	water	
+
+
+reads % = 0.11312217194570136

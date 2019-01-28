@@ -1,0 +1,54 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) join(0.0) my(0.0) colleagues(0.0) in(0.0) honoring(1.0) the(0.0) entire(0.0) crew(0.0) of(0.0) the(0.0) U.S.S(1.0) .(0.0) Cole(0.0) ,(0.0) and(0.0) in(0.0) offering(0.0) my(0.0) 
+heartfelt(0.0) condolences(0.0) to(0.0) the(0.0) families(0.0) of(0.0) those(0.0) sailors(0.0) who(0.0) gave(0.0) their(0.0) lives(0.0) in(0.0) service(0.0) to(0.0) their(0.0) country(1.0) .(0.0) As(0.0) often(0.0) 
+as(0.0) I(0.0) can(0.0) ,(0.0) I(0.0) offer(0.0) my(0.0) sincere(0.0) appreciation(0.0) and(0.0) admiration(0.0) to(0.0) the(0.0) men(0.0) and(0.0) women(0.0) who(0.0) proudly(0.0) serve(0.0) in(0.0) 
+uniform(1.0) on(0.0) behalf(0.0) of(0.0) the(0.0) United(0.0) States(0.0) of(0.0) America(0.0) .(0.0) The(0.0) efforts(1.0) of(0.0) these(0.0) fine(0.0) Americans(1.0) ,(0.0) both(0.0) in(0.0) peacetime(1.0) 
+and(0.0) in(0.0) war(1.0) ,(0.0) not(0.0) only(0.0) have(0.0) allowed(0.0) this(0.0) nation(1.0) to(0.0) achieve(0.0) its(0.0) stature(0.0) as(0.0) the(0.0) greatest(0.0) institution(0.0) of(0.0) democracy(1.0) 
+and(0.0) liberty(1.0) the(0.0) world(0.0) has(0.0) ever(0.0) known(0.0) ,(0.0) but(0.0) have(0.0) ensured(0.0) the(0.0) high(0.0) level(0.0) of(0.0) security(0.0) and(0.0) prosperity(1.0) we(0.0) now(0.0) 
+know(0.0) .(0.0) However(0.0) ,(0.0) on(0.0) this(0.0) day(0.0) we(0.0) must(0.0) sadly(0.0) confront(0.0) the(0.0) harsh(1.0) reality(0.0) that(0.0) national(1.0) security(0.0) is(0.0) not(0.0) without(0.0) 
+risk(0.0) .(0.0) Today(0.0) we(0.0) are(0.0) reminded(0.0) that(0.0) our(0.0) soldiers(1.0) ,(0.0) sailors(0.0) and(0.0) airmen(0.0) are(0.0) ,(0.0) in(0.0) fact(0.0) ,(0.0) our(0.0) front(0.0) 
+line(0.0) of(0.0) defense(1.0) in(0.0) an(0.0) unpredictable(0.0) and(0.0) sometimes(0.0) dangerous(0.0) world(0.0) .(0.0) We(0.0) realize(0.0) ,(0.0) as(0.0) is(0.0) carved(0.0) in(0.0) granite(0.0) at(0.0) 
+the(0.0) National(0.0) Korean(0.0) War(0.0) Memorial(0.0) ,(0.0) ``(0.0) peace(0.0) is(0.0) not(0.0) free(0.0) .(0.0) ''(0.0) Sometimes(0.0) the(0.0) cost(1.0) of(0.0) peace(1.0) comes(0.0) at(0.0) 
+a(0.0) very(0.0) high(0.0) price(0.0) .(0.0) The(0.0) sailors(1.0) of(0.0) the(0.0) U.S.S(1.0) .(0.0) Cole(0.0) ,(0.0) those(0.0) cruelly(1.0) snatched(0.0) from(0.0) this(0.0) Earth(0.0) ,(0.0) 
+those(0.0) injured(0.0) in(0.0) the(0.0) blast(0.0) ,(0.0) and(0.0) those(0.0) still(0.0) on(0.0) board(0.0) who(0.0) bravely(0.0) worked(0.0) to(0.0) assist(0.0) their(0.0) mates(0.0) and(0.0) who(0.0) 
+continue(0.0) to(0.0) struggle(0.0) to(0.0) maintain(0.0) their(0.0) ship(0.0) ,(0.0) represent(0.0) the(0.0) noblest(0.0) principles(0.0) of(0.0) our(0.0) nation(1.0) and(0.0) of(0.0) our(0.0) history(0.0) .(0.0) 
+Almost(0.0) 140(0.0) years(0.0) ago(0.0) ,(0.0) when(0.0) consecrating(1.0) the(0.0) graves(0.0) of(0.0) Americans(1.0) who(0.0) gave(0.0) their(0.0) lives(0.0) in(0.0) the(0.0) fields(0.0) of(0.0) Gettysburg(1.0) 
+,(0.0) President(0.0) Abraham(1.0) Lincoln(1.0) said(0.0) :(0.0) ``(0.0) The(0.0) world(0.0) will(0.0) little(0.0) note(0.0) nor(0.0) long(0.0) remember(0.0) what(0.0) we(0.0) say(0.0) here(0.0) ,(0.0) 
+but(0.0) we(0.0) must(0.0) never(0.0) forget(0.0) what(0.0) they(0.0) did(0.0) here(0.0) .(0.0) ''(0.0) Few(0.0) words(0.0) ring(0.0) as(0.0) true(0.0) through(0.0) the(0.0) ages(0.0) ,(0.0) 
+or(0.0) as(0.0) appropriate(0.0) on(0.0) this(0.0) solemn(1.0) day(0.0) .(0.0) Today(0.0) ,(0.0) my(0.0) colleagues(0.0) and(0.0) I(0.0) grieve(0.0) and(0.0) pray(0.0) with(0.0) the(0.0) families(0.0) 
+who(0.0) lost(0.0) loved(0.0) ones(0.0) on(0.0) board(0.0) the(0.0) Cole(0.0) ,(0.0) and(0.0) with(0.0) the(0.0) sailors(1.0) recovering(0.0) from(0.0) injuries(0.0) sustained(0.0) in(0.0) the(0.0) vicious(1.0) 
+attack(1.0) .(0.0) Our(0.0) nation(1.0) 's(0.0) resolve(0.0) to(0.0) find(0.0) those(0.0) responsible(0.0) for(0.0) this(0.0) tragedy(1.0) is(0.0) strong(0.0) ,(0.0) and(0.0) our(0.0) will(0.0) to(0.0) 
+ensure(0.0) justice(1.0) is(0.0) unbending(1.0) .(0.0) All(0.0) Americans(1.0) ,(0.0) across(0.0) this(0.0) nation(1.0) and(0.0) at(0.0) all(0.0) points(0.0) of(0.0) the(0.0) globe(0.0) ,(0.0) must(0.0) 
+never(0.0) forget(0.0) the(0.0) ultimate(0.0) sacrifice(0.0) of(0.0) these(0.0) men(0.0) and(0.0) women(0.0) and(0.0) of(0.0) their(0.0) families(0.0) .(0.0) But(0.0) ,(0.0) I(0.0) submit(0.0) ,(0.0) 
+each(0.0) of(0.0) us(0.0) must(0.0) also(0.0) strive(0.0) to(0.0) better(0.0) remember(0.0) and(0.0) honor(0.0) the(0.0) acts(0.0) of(0.0) bravery(0.0) and(0.0) sacrifice(0.0) our(0.0) men(0.0) and(0.0) 
+women(0.0) in(0.0) uniform(1.0) commit(0.0) each(0.0) and(0.0) every(0.0) day(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+honoring	U.S.S	
+country	
+
+uniform	efforts	Americans	peacetime	
+war	nation	democracy	
+liberty	prosperity	
+harsh	national	
+soldiers	
+defense	
+cost	peace	
+sailors	U.S.S	cruelly	
+
+nation	
+consecrating	Americans	Gettysburg	
+Abraham	Lincoln	
+
+solemn	
+sailors	vicious	
+attack	nation	tragedy	
+justice	unbending	Americans	nation	
+
+
+uniform	
+
+reads % = 0.08444444444444445

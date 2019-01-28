@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) strike(1.0) the(0.0) requisite(0.0) number(0.0) of(0.0) words(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) we(0.0) are(0.0) fixing(0.0) to(0.0) take(0.0) a(0.0) 
+vote(0.0) ,(0.0) and(0.0) the(0.0) gentleman(0.0) from(0.0) Massachusetts(1.0) on(0.0) the(0.0) Democratic(1.0) side(0.0) I(0.0) think(0.0) framed(0.0) the(0.0) entire(0.0) issue(0.0) from(0.0) here(0.0) ,(0.0) 
+and(0.0) I(0.0) think(0.0) that(0.0) if(0.0) you(0.0) believe(0.0) him(0.0) ,(0.0) you(0.0) should(0.0) vote(1.0) for(0.0) this(0.0) amendment(1.0) .(0.0) If(0.0) you(0.0) do(0.0) not(0.0) 
+believe(0.0) him(0.0) ,(0.0) you(0.0) should(0.0) oppose(1.0) this(0.0) amendment(1.0) with(0.0) every(0.0) fiber(0.0) in(0.0) your(0.0) body(0.0) .(0.0) Let(0.0) me(0.0) repeat(0.0) what(0.0) the(0.0) 
+gentleman(0.0) from(0.0) Massachusetts(1.0) said(0.0) .(0.0) He(0.0) said(0.0) ,(0.0) ``(0.0) There(0.0) is(0.0) no(0.0) more(0.0) Darth(0.0) Vader(0.0) .(0.0) ''(0.0) He(0.0) said(0.0) ,(0.0) 
+``(0.0) The(0.0) world(0.0) is(0.0) not(0.0) the(0.0) dangerous(1.0) place(0.0) that(0.0) it(0.0) used(0.0) to(0.0) be(0.0) .(0.0) ''(0.0) If(0.0) I(0.0) believed(0.0) that(0.0) there(0.0) 
+were(0.0) no(0.0) Darth(0.0) Vaders(1.0) in(0.0) the(0.0) world(0.0) today(0.0) ,(0.0) I(0.0) would(0.0) probably(0.0) vote(0.0) for(0.0) this(0.0) amendment(1.0) .(0.0) But(0.0) ,(0.0) Mr.(0.0) 
+Chairman(1.0) ,(0.0) before(0.0) we(0.0) take(0.0) this(0.0) vote(1.0) ,(0.0) every(0.0) Member(0.0) of(0.0) this(0.0) House(0.0) needs(0.0) to(0.0) remember(0.0) what(0.0) the(0.0) Central(0.0) Intelligence(0.0) 
+Agency(0.0) has(0.0) advised(0.0) this(0.0) Congress(0.0) .(0.0) It(0.0) says(0.0) there(0.0) are(0.0) 25(0.0) nations(1.0) a(0.0) ballistic(0.0) missile(0.0) capable(0.0) of(0.0) hitting(0.0) ,(0.0) not(0.0) 
+Kuwait(0.0) ,(0.0) not(0.0) our(0.0) carriers(1.0) ,(0.0) not(0.0) eastern(0.0) Europe(0.0) ,(0.0) capable(0.0) of(0.0) hitting(0.0) the(0.0) United(0.0) States(0.0) .(0.0) I(0.0) recently(0.0) read(0.0) 
+that(0.0) a(0.0) poll(0.0) in(0.0) this(0.0) country(1.0) conducted(0.0) of(0.0) American(0.0) citizens(1.0) said(0.0) 58(0.0) percent(0.0) of(0.0) Americans(1.0) believe(0.0) that(0.0) we(0.0) have(0.0) the(0.0) 
+technology(0.0) to(0.0) stop(0.0) such(0.0) a(0.0) missile(0.0) attack(0.0) .(0.0) I(0.0) believe(0.0) that(0.0) an(0.0) equal(1.0) number(0.0) in(0.0) this(0.0) House(0.0) apparently(0.0) are(0.0) under(0.0) 
+that(0.0) misconception(1.0) .(0.0) Ladies(0.0) and(0.0) gentlemen(0.0) ,(0.0) we(0.0) do(0.0) not(0.0) have(0.0) the(0.0) technology(0.0) to(0.0) stop(0.0) a(0.0) long-(0.0) range(0.0) ballistic(0.0) missile(0.0) 
+attack(0.0) .(0.0) That(0.0) is(0.0) what(0.0) this(0.0) bill(1.0) is(0.0) about(0.0) .(0.0) If(0.0) this(0.0) amendment(1.0) passes(1.0) ,(0.0) then(0.0) among(0.0) those(0.0) 25(0.0) nations(1.0) 
+,(0.0) we(0.0) have(0.0) Iran(0.0) ,(0.0) we(0.0) have(0.0) North(0.0) Korea(0.0) ,(0.0) and(0.0) we(0.0) have(0.0) Libya(1.0) ,(0.0) 3(0.0) nations(1.0) that(0.0) have(0.0) said(0.0) 
+,(0.0) ``(0.0) We(0.0) will(0.0) destroy(1.0) America(0.0) if(0.0) we(0.0) can(0.0) .(0.0) ''(0.0) And(0.0) they(0.0) are(0.0) building(0.0) the(0.0) technology(0.0) to(0.0) do(0.0) just(0.0) 
+that(0.0) .(0.0) So(0.0) we(0.0) are(0.0) fixing(0.0) to(0.0) vote(1.0) .(0.0) You(0.0) can(0.0) vote(1.0) to(0.0) give(0.0) the(0.0) military(0.0) the(0.0) technology(0.0) and(0.0) the(0.0) 
+ability(0.0) to(0.0) stop(0.0) such(0.0) an(0.0) attack(0.0) ,(0.0) or(0.0) ,(0.0) as(0.0) the(0.0) gentleman(0.0) from(0.0) Massachusetts(1.0) said(0.0) ,(0.0) you(0.0) can(0.0) say(0.0) there(0.0) 
+is(0.0) no(0.0) Darth(0.0) Vader(0.0) .(0.0) You(0.0) can(0.0) say(0.0) that(0.0) Russia(1.0) is(0.0) stable(0.0) and(0.0) that(0.0) Russia(0.0) is(0.0) our(0.0) friend(0.0) ,(0.0) and(0.0) 
+you(0.0) can(0.0) ignore(0.0) one(0.0) of(0.0) the(0.0) lead(0.0) stories(0.0) on(0.0) NBC(1.0) News(0.0) tonight(0.0) that(0.0) said(0.0) Yeltsin(1.0) is(0.0) unstable(0.0) .(0.0) Or(0.0) you(0.0) 
+can(0.0) vote(1.0) against(0.0) this(0.0) amendment(1.0) ,(0.0) vote(1.0) for(0.0) the(0.0) safety(0.0) of(0.0) the(0.0) American(0.0) public(1.0) that(0.0) you(0.0) represent(0.0) .(0.0) If(0.0) you(0.0) 
+believe(0.0) that(0.0) this(0.0) world(0.0) is(0.0) safe(0.0) ,(0.0) and(0.0) that(0.0) those(0.0) 25(0.0) countries(1.0) that(0.0) the(0.0) CIA(1.0) says(0.0) exist(0.0) ,(0.0) if(0.0) you(0.0) 
+do(0.0) not(0.0) believe(0.0) that(0.0) ,(0.0) then(0.0) vote(1.0) for(0.0) this(0.0) amendment(1.0) .(0.0) But(0.0) if(0.0) you(0.0) want(0.0) to(0.0) protect(0.0) your(0.0) families(0.0) ,(0.0) 
+your(0.0) neighbors(0.0) ,(0.0) and(0.0) those(0.0) people(0.0) you(0.0) represent(0.0) ,(0.0) you(0.0) will(0.0) vote(1.0) against(0.0) this(0.0) amendment(1.0) and(0.0) you(0.0) will(0.0) vote(1.0) for(0.0) 
+this(0.0) bill(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+strike	Chairman	
+Massachusetts	Democratic	
+vote	amendment	
+oppose	amendment	
+Massachusetts	
+dangerous	
+Vaders	amendment	
+Chairman	vote	
+nations	
+carriers	
+country	citizens	Americans	
+equal	
+misconception	
+bill	amendment	passes	nations	
+Libya	nations	
+destroy	
+vote	vote	
+Massachusetts	
+Russia	
+NBC	Yeltsin	
+vote	amendment	vote	public	
+countries	CIA	
+vote	amendment	
+vote	amendment	vote	
+bill	
+
+reads % = 0.09504132231404959

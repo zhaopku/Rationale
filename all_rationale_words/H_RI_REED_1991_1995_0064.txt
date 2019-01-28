@@ -1,0 +1,54 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) it(0.0) is(0.0) my(0.0) pleasure(0.0) to(0.0) introduce(0.0) legislation(1.0) today(0.0) ,(0.0) along(0.0) with(0.0) my(0.0) colleague(0.0) from(0.0) Rhode(1.0) Island(0.0) ,(0.0) Mr.(0.0) Kennedy(1.0) 
+,(0.0) to(0.0) designate(0.0) the(0.0) main(0.0) U.S.(0.0) Post(0.0) Office(0.0) in(0.0) Providence(1.0) ,(0.0) RI(1.0) ,(0.0) as(0.0) the(0.0) ``(0.0) Harry(0.0) Kizirian(0.0) Post(0.0) Office(0.0) 
+.(0.0) ''(0.0) Harry(0.0) Kizirian(0.0) is(0.0) a(0.0) truly(0.0) remarkable(0.0) individual(0.0) .(0.0) The(0.0) most(0.0) decorated(0.0) living(0.0) veteran(0.0) in(0.0) Rhode(1.0) Island(0.0) ,(0.0) Harry(0.0) 
+displayed(0.0) qualities(0.0) of(0.0) leadership(0.0) and(0.0) courage(0.0) at(0.0) a(0.0) very(0.0) young(0.0) age(0.0) .(0.0) At(0.0) the(0.0) age(0.0) of(0.0) 15(0.0) ,(0.0) Harry(0.0) had(0.0) 
+to(0.0) go(0.0) to(0.0) work(0.0) to(0.0) support(0.0) his(0.0) widowed(0.0) mother(0.0) ,(0.0) but(0.0) he(0.0) continued(0.0) to(0.0) maintain(0.0) his(0.0) excellent(0.0) academic(0.0) record(0.0) at(0.0) 
+Mt(0.0) .(0.0) Pleasant(0.0) High(0.0) School(0.0) in(0.0) Providence(1.0) .(0.0) Upon(0.0) graduation(0.0) ,(0.0) Harry(0.0) enlisted(1.0) in(0.0) the(0.0) United(0.0) States(0.0) Marine(0.0) Corps(0.0) and(0.0) 
+was(0.0) sent(0.0) to(0.0) Okinawa(0.0) .(0.0) On(0.0) Okinawa(0.0) ,(0.0) Harry(0.0) fought(1.0) with(0.0) tenacity(0.0) and(0.0) courage(0.0) ,(0.0) while(0.0) engaged(0.0) continuously(0.0) in(0.0) fierce(0.0) 
+combat(0.0) .(0.0) Harry(0.0) was(0.0) severely(0.0) wounded(0.0) while(0.0) leading(0.0) an(0.0) infantry(0.0) assault(0.0) .(0.0) For(0.0) his(0.0) extraordinary(0.0) heroism(0.0) ,(0.0) Harry(0.0) was(0.0) awarded(0.0) 
+the(0.0) Navy(0.0) Cross(0.0) ,(0.0) the(0.0) Bronze(0.0) Star(0.0) with(0.0) V(0.0) Device(0.0) for(0.0) Valor(0.0) ,(0.0) the(0.0) Purple(1.0) Heart(0.0) with(0.0) a(0.0) Gold(0.0) Star(0.0) 
+,(0.0) and(0.0) the(0.0) Rhode(1.0) Island(0.0) Cross(0.0) .(0.0) Upon(0.0) Harry(0.0) 's(0.0) return(0.0) ,(0.0) he(0.0) immediately(0.0) went(0.0) to(0.0) work(0.0) at(0.0) the(0.0) main(0.0) 
+post(0.0) office(0.0) in(0.0) Providence(1.0) where(0.0) he(0.0) had(0.0) worked(0.0) during(0.0) high(0.0) school(0.0) .(0.0) At(0.0) work(0.0) ,(0.0) Harry(0.0) displayed(0.0) the(0.0) same(0.0) commitment(0.0) 
+and(0.0) teamwork(0.0) he(0.0) showed(0.0) on(0.0) the(0.0) frontlines(1.0) at(0.0) Okinawa(0.0) ,(0.0) and(0.0) was(0.0) eventually(0.0) appointed(0.0) as(0.0) the(0.0) Postmaster(0.0) .(0.0) He(0.0) was(0.0) 
+confirmed(0.0) by(0.0) the(0.0) United(0.0) States(0.0) Senate(0.0) in(0.0) 1961(0.0) ,(0.0) and(0.0) held(0.0) the(0.0) position(0.0) of(0.0) Postmaster(0.0) for(0.0) 25(0.0) years(0.0) .(0.0) Throughout(0.0) 
+his(0.0) career(0.0) with(0.0) the(0.0) Postal(0.0) Service(0.0) ,(0.0) Harry(0.0) also(0.0) devoted(0.0) much(0.0) of(0.0) his(0.0) time(0.0) to(0.0) the(0.0) community(0.0) ,(0.0) serving(0.0) on(0.0) 
+numerous(0.0) boards(0.0) and(0.0) committees(0.0) .(0.0) Harry(0.0) served(1.0) on(0.0) the(0.0) board(0.0) of(0.0) directors(0.0) for(0.0) Butler(0.0) Hospital(0.0) ,(0.0) Big(0.0) Brothers(0.0) of(0.0) RI(0.0) 
+,(0.0) RI(0.0) Blue(1.0) Cross(0.0) ,(0.0) the(0.0) RI(0.0) Heart(0.0) and(0.0) Lung(0.0) Associations(0.0) ,(0.0) and(0.0) numerous(0.0) others(0.0) .(0.0) One(0.0) of(0.0) Harry(0.0) 's(0.0) 
+greatest(0.0) accomplishments(0.0) was(0.0) raising(0.0) a(0.0) wonderful(0.0) family(0.0) .(0.0) He(0.0) and(0.0) his(0.0) wife(0.0) ,(0.0) Hazel(0.0) ,(0.0) raised(0.0) five(0.0) children(0.0) and(0.0) have(0.0) 
+three(0.0) grandchildren(0.0) .(0.0) Harry(0.0) has(0.0) served(0.0) his(0.0) country(0.0) in(0.0) every(0.0) capacity(0.0) :(0.0) in(0.0) the(0.0) military(0.0) ,(0.0) as(0.0) a(0.0) civil(0.0) servant(0.0) 
+,(0.0) as(0.0) a(0.0) devoted(0.0) husband(0.0) and(0.0) father(0.0) ,(0.0) and(0.0) as(0.0) a(0.0) loyal(0.0) American(0.0) .(0.0) Harry(0.0) Kizirian(0.0) is(0.0) a(0.0) source(0.0) of(0.0) 
+inspiration(0.0) for(0.0) the(0.0) young(0.0) and(0.0) old(0.0) ,(0.0) and(0.0) he(0.0) is(0.0) a(0.0) particularly(0.0) cherished(0.0) member(0.0) of(0.0) Rhode(1.0) Island(0.0) 's(0.0) proud(0.0) and(0.0) 
+vibrant(0.0) Armenian(0.0) community(0.0) .(0.0) This(0.0) bill(0.0) would(1.0) commemorate(0.0) his(0.0) generosity(0.0) and(0.0) valor(0.0) for(0.0) future(0.0) generations(0.0) ,(0.0) and(0.0) it(0.0) would(0.0) pay(1.0) 
+tribute(0.0) to(0.0) a(0.0) remarkable(0.0) gentleman(0.0) who(0.0) has(0.0) given(0.0) so(0.0) much(0.0) to(0.0) his(0.0) nation(1.0) ,(0.0) his(0.0) community(0.0) ,(0.0) and(0.0) his(0.0) family(0.0) 
+.(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) join(0.0) me(0.0) in(0.0) honoring(1.0) Harry(0.0) Kizirian(0.0) by(0.0) supporting(0.0) this(0.0) bill(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+legislation	Rhode	Kennedy	
+Providence	RI	
+Rhode	
+
+
+Providence	enlisted	
+fought	
+
+Purple	
+Rhode	
+Providence	
+frontlines	
+
+
+served	
+Blue	
+
+
+
+Rhode	
+would	pay	
+nation	
+honoring	bill	
+
+reads % = 0.04585152838427948

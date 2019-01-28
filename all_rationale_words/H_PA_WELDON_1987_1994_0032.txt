@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) to(0.0) pay(1.0) tribute(0.0) to(0.0) some(0.0) of(0.0) the(0.0) most(0.0) selfless(1.0) men(0.0) and(0.0) women(0.0) in(0.0) our(0.0) country(1.0) ,(0.0) 
+our(0.0) emergency(1.0) responders(1.0) .(0.0) Last(0.0) week(0.0) ,(0.0) on(0.0) July(0.0) 6(0.0) ,(0.0) 14(0.0) firefighters(0.0) gave(0.0) their(0.0) lives(0.0) in(0.0) the(0.0) line(0.0) of(0.0) 
+duty(0.0) as(0.0) they(0.0) fought(0.0) a(0.0) forest(0.0) fire(0.0) in(0.0) Glenwood(1.0) Springs(0.0) ,(0.0) CO(1.0) .(0.0) These(0.0) men(0.0) and(0.0) women(0.0) were(0.0) among(0.0) the(0.0) 
+best(0.0) our(0.0) country(1.0) has(0.0) to(0.0) offer(0.0) .(0.0) In(0.0) this(0.0) case(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) they(0.0) came(0.0) from(0.0) the(0.0) elite(0.0) U.S.(0.0) 
+Forest(0.0) Service(0.0) firefighting(1.0) groups(0.0) including(0.0) the(0.0) Smokejumpers(1.0) ,(0.0) the(0.0) Helitacks(0.0) ,(0.0) and(0.0) the(0.0) Hotshots(0.0) .(0.0) Fourteen(0.0) of(0.0) the(0.0) fifty-two(0.0) firefighters(1.0) 
+on(0.0) that(0.0) Colorado(1.0) ridge(0.0) did(0.0) not(0.0) escape(0.0) ,(0.0) including(0.0) nearly(0.0) half(0.0) of(0.0) the(0.0) Preneville(0.0) ,(0.0) OR(0.0) ,(0.0) Hotshots(1.0) .(0.0) Fires(0.0) 
+,(0.0) floods(0.0) ,(0.0) hurricanes(0.0) ,(0.0) tornados(0.0) ,(0.0) earthquakes(0.0) ,(0.0) manmade(1.0) disasters(1.0) are(0.0) handled(0.0) every(0.0) day(0.0) in(0.0) this(0.0) country(1.0) by(0.0) the(0.0) 
+1\1/2\(0.0) million(0.0) men(0.0) and(0.0) women(0.0) who(0.0) are(0.0) our(0.0) bravest(1.0) Americans(1.0) .(0.0) In(0.0) honor(1.0) of(0.0) these(0.0) 14(0.0) fallen(0.0) heroes(0.0) ,(0.0) Mr.(0.0) 
+Speaker(1.0) ,(0.0) let(0.0) us(0.0) recommit(1.0) ourselves(0.0) to(0.0) the(0.0) fullest(0.0) possible(0.0) support(0.0) of(0.0) America(1.0) 's(0.0) domestic(0.0) defenders(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+pay	selfless	country	
+emergency	responders	
+Glenwood	CO	
+country	Speaker	
+firefighting	Smokejumpers	firefighters	
+Colorado	Hotshots	
+manmade	disasters	country	
+bravest	Americans	honor	
+Speaker	recommit	America	
+
+reads % = 0.12921348314606743

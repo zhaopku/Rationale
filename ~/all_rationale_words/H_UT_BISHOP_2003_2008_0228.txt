@@ -1,0 +1,22 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(1.0) ,(0.0) though(0.0) not(1.0) in(0.0) opposition(1.0) ,(0.0) I(0.0) claim(1.0) the(0.0) time(0.0) in(0.0) opposition(1.0) on(0.0) this(0.0) amendment(1.0) .(0.0) The(0.0) Acting(0.0) CHAIRMAN(1.0) .(0.0) 
+Without(0.0) objection(0.0) ,(0.0) the(0.0) gentleman(0.0) is(0.0) recognized(0.0) for(0.0) 5(0.0) minutes(1.0) .(0.0) There(1.0) was(0.0) no(1.0) objection(1.0) .(0.0) Chairman(1.0) ,(0.0) we(0.0) find(0.0) 
+ourselves(0.0) in(0.0) a(0.0) unique(0.0) situation(0.0) on(0.0) this(0.0) particular(0.0) amendment(1.0) .(0.0) The(0.0) gentleman(0.0) who(0.0) proposed(0.0) it(0.0) thinks(0.0) it(0.0) is(0.0) unnecessary(1.0) .(0.0) 
+I(0.0) think(1.0) this(0.0) is(0.0) a(0.0) wonderful(0.0) amendment(1.0) .(0.0) It(0.0) was(0.0) great(0.0) when(0.0) somebody(0.0) first(0.0) wrote(1.0) it(0.0) ,(0.0) and(0.0) now(0.0) that(0.0) 
+you(1.0) have(0.0) incorporated(1.0) it(0.0) into(0.0) the(0.0) general(0.0) discussion(0.0) on(0.0) these(0.0) bills(1.0) ,(0.0) I(0.0) am(0.0) equally(1.0) as(0.0) enthralled(1.0) with(0.0) that(0.0) amendment(1.0) 
+.(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) at(0.0) this(0.0) time(0.0) I(0.0) wish(1.0) to(0.0) yield(0.0) such(0.0) time(0.0) as(0.0) he(0.0) may(0.0) consume(0.0) to(0.0) the(0.0) gentleman(0.0) 
+from(0.0) Georgia(1.0) ((0.0) Mr.(0.0) Gingrey(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+not	opposition	claim	opposition	amendment	CHAIRMAN	
+minutes	There	no	objection	Chairman	
+amendment	unnecessary	
+think	amendment	wrote	
+you	incorporated	bills	equally	enthralled	amendment	
+Chairman	wish	
+Georgia	Gingrey	
+
+reads % = 0.203125

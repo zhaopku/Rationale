@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) have(0.0) conducted(0.0) numerous(0.0) town(0.0) meetings(0.0) and(0.0) hearings(0.0) in(0.0) my(0.0) district(0.0) on(0.0) Medicare(1.0) .(0.0) As(0.0) my(0.0) friend(0.0) ,(0.0) the(0.0) 
+gentleman(0.0) from(0.0) Illinois(1.0) [(0.0) Mr.(0.0) Durbin(1.0) ](0.0) ,(0.0) just(0.0) said(0.0) ,(0.0) unfortunately(0.0) ,(0.0) hearings(1.0) have(0.0) not(0.0) taken(0.0) place(0.0) in(0.0) this(0.0) 
+institution(0.0) in(0.0) this(0.0) body(0.0) for(0.0) the(0.0) public(0.0) to(0.0) hear(0.0) them(0.0) .(0.0) But(0.0) at(0.0) these(0.0) hearings(1.0) which(0.0) I(0.0) have(0.0) conducted(0.0) ,(0.0) 
+and(0.0) in(0.0) town(0.0) meetings(0.0) ,(0.0) I(0.0) have(0.0) heard(0.0) over(0.0) and(0.0) over(0.0) again(0.0) people(0.0) 's(0.0) anger(0.0) about(0.0) the(0.0) $(0.0) 270(0.0) billion(1.0) 
+in(0.0) Medicare(1.0) cuts(1.0) in(0.0) order(0.0) to(0.0) pay(1.0) for(0.0) tax(1.0) breaks(1.0) for(1.0) the(1.0) wealthiest(1.0) citizens(1.0) in(1.0) this(1.0) country(1.0) ,(1.0) the(1.0) people(0.0) 
+who(0.0) need(0.0) them(0.0) the(0.0) least(0.0) .(0.0) But(0.0) what(0.0) also(0.0) concerns(0.0) me(0.0) and(0.0) what(0.0) troubles(0.0) me(0.0) is(0.0) something(0.0) else(0.0) that(0.0) I(0.0) 
+hear(0.0) at(0.0) these(0.0) hearings(1.0) ,(0.0) these(0.0) town(0.0) meetings(0.0) ,(0.0) and(0.0) that(0.0) is(0.0) people(0.0) believe(0.0) there(0.0) is(0.0) a(0.0) good(0.0) deal(0.0) of(0.0) 
+fraud(1.0) in(0.0) the(0.0) Medicare(1.0) system(0.0) .(0.0) That(0.0) fraud(1.0) is(0.0) something(0.0) we(0.0) have(0.0) to(0.0) aggressively(0.0) pursue(0.0) and(0.0) prosecute(1.0) and(0.0) root(0.0) out(0.0) 
+and(0.0) do(0.0) something(0.0) about(0.0) .(0.0) That(0.0) is(0.0) why(0.0) it(0.0) particularly(0.0) troubles(0.0) me(0.0) and(0.0) concerned(0.0) me(0.0) to(0.0) see(0.0) an(0.0) article(0.0) in(0.0) 
+USA(1.0) Today(0.0) ,(0.0) an(0.0) editorial(1.0) on(0.0) Friday(0.0) ,(0.0) and(0.0) the(0.0) headline(0.0) reads(0.0) ,(0.0) ``(0.0) Medicare(1.0) Reform(1.0) Invites(0.0) Doctors(0.0) To(0.0) Bend(0.0) 
+the(0.0) Rules(0.0) .(0.0) Easing(0.0) Limits(1.0) on(0.0) Physicians(1.0) '(0.0) Self-Referral(1.0) Is(0.0) Bound(0.0) To(0.0) Cost(0.0) the(0.0) Medicare(1.0) Program(0.0) Billions(1.0) of(0.0) Dollars(0.0) That(0.0) 
+It(0.0) Ca(0.0) n't(0.0) Afford(0.0) .(0.0) ''(0.0) USA(0.0) Today(0.0) goes(0.0) on(0.0) to(0.0) say(0.0) :(0.0) No(0.0) wonder(0.0) the(0.0) American(0.0) Medical(0.0) Association(0.0) has(0.0) 
+signed(0.0) on(0.0) to(0.0) Medicare(1.0) reform(1.0) ,(0.0) with(0.0) the(0.0) deal(0.0) that(0.0) they(0.0) made(0.0) with(0.0) Republican(0.0) leadership(1.0) .(1.0) The(1.0) Republican(1.0) Medicare(1.0) bill(1.0) 
+actually(1.0) promotes(1.0) fraud(1.0) ,(1.0) waste(1.0) and(1.0) abuse(1.0) in(1.0) several(1.0) areas(1.0) ,(1.0) particularly(1.0) in(1.0) its(1.0) weakening(1.0) of(1.0) the(0.0) ban(1.0) on(1.0) physician(1.0) 
+referral(0.0) of(0.0) Medicare(1.0) and(0.0) Medicaid(1.0) patients(0.0) for(0.0) tests(0.0) and(0.0) treatment(0.0) in(0.0) places(0.0) where(0.0) the(0.0) doctor(0.0) has(0.0) a(0.0) financial(0.0) interest(0.0) .(0.0) 
+Another(0.0) newspaper(0.0) talking(0.0) about(0.0) this(0.0) agreement(0.0) made(0.0) between(0.0) Republican(0.0) leadership(1.0) and(1.0) the(1.0) American(1.0) Medical(1.0) Association(1.0) says(1.0) :(1.0) Regrettably(1.0) the(1.0) Speaker(0.0) 
+'s(1.0) concessions(1.0) made(1.0) an(1.0) already(1.0) bad(1.0) Medicare(1.0) bill(1.0) substantially(1.0) worse(1.0) .(1.0) The(0.0) Gingrich(1.0) bill(1.0) was(1.0) never(1.0) designed(1.0) to(1.0) give(1.0) the(0.0) 
+elderly(1.0) high-quality(1.0) health(1.0) care(1.0) .(0.0) It(0.0) is(0.0) less(0.0) likely(0.0) to(0.0) do(0.0) so(0.0) now(0.0) .(0.0) Unfortunately(0.0) ,(0.0) this(0.0) piece(0.0) of(0.0) legislation(1.0) 
+,(0.0) this(0.0) Medicare(1.0) bill(1.0) which(1.0) the(0.0) American(0.0) people(0.0) have(0.0) not(0.0) been(0.0) able(0.0) to(0.0) find(0.0) out(0.0) much(0.0) about(0.0) ,(0.0) because(0.0) there(0.0) 
+have(0.0) not(0.0) been(0.0) hearings(0.0) in(0.0) this(0.0) institution(1.0) ,(0.0) that(0.0) Gingrich(1.0) Medicare(1.0) bill(1.0) eliminates(1.0) fraud(1.0) by(1.0) legalizing(1.0) it(1.0) .(1.0) It(1.0) simply(1.0) 
+makes(1.0) things(0.0) legal(1.0) that(0.0) were(0.0) not(0.0) legal(1.0) before(0.0) .(0.0) It(0.0) encourages(1.0) more(0.0) fraud(1.0) ,(0.0) instead(0.0) of(0.0) less(0.0) .(0.0) Not(0.0) too(0.0) 
+long(0.0) ago(0.0) ,(0.0) about(0.0) a(0.0) week(0.0) ago(0.0) ,(0.0) in(0.0) the(0.0) Committee(0.0) on(0.0) Commerce(0.0) ,(0.0) a(0.0) committee(0.0) on(0.0) which(0.0) I(0.0) sit(0.0) 
+,(0.0) the(0.0) committee(0.0) that(0.0) heard(0.0) the(0.0) Medicare(1.0) and(0.0) Medicaid(1.0) bills(1.0) .(0.0) Rather(0.0) ,(0.0) did(0.0) not(0.0) really(0.0) hear(0.0) them(0.0) ,(0.0) because(0.0) 
+we(0.0) were(0.0) not(0.0) allowed(0.0) to(0.0) have(0.0) hearings(1.0) ,(0.0) but(0.0) a(0.0) committee(0.0) that(0.0) discussed(0.0) Medicare(1.0) and(0.0) Medicaid(1.0) and(0.0) allowed(0.0) amendments(1.0) and(0.0) 
+we(0.0) talked(0.0) about(0.0) the(0.0) bill(1.0) ,(0.0) my(0.0) colleague(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Michigan(1.0) [(0.0) Mr.(0.0) Stupak(1.0) ](0.0) ,(0.0) offered(0.0) 
+
+
+----- below are rationale words -----
+
+Medicare	
+Illinois	Durbin	hearings	
+hearings	
+billion	
+Medicare	cuts	pay	tax	breaks	for	the	wealthiest	citizens	in	this	country	,	the	
+
+hearings	
+fraud	Medicare	fraud	prosecute	
+
+USA	editorial	Medicare	Reform	
+Limits	Physicians	Self-Referral	Medicare	Billions	
+
+Medicare	reform	leadership	.	The	Republican	Medicare	bill	
+actually	promotes	fraud	,	waste	and	abuse	in	several	areas	,	particularly	in	its	weakening	of	ban	on	physician	
+Medicare	Medicaid	
+leadership	and	the	American	Medical	Association	says	:	Regrettably	the	
+'s	concessions	made	an	already	bad	Medicare	bill	substantially	worse	.	Gingrich	bill	was	never	designed	to	give	
+elderly	high-quality	health	care	legislation	
+Medicare	bill	which	
+institution	Gingrich	Medicare	bill	eliminates	fraud	by	legalizing	it	.	It	simply	
+makes	legal	legal	encourages	fraud	
+
+Medicare	Medicaid	bills	
+hearings	Medicare	Medicaid	amendments	
+bill	Michigan	Stupak	
+
+reads % = 0.252

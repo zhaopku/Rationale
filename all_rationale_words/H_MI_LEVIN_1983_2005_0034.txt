@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) very(0.0) much(0.0) for(0.0) yielding(0.0) ,(0.0) and(0.0) I(0.0) want(0.0) to(0.0) join(0.0) all(0.0) of(0.0) my(0.0) colleagues(0.0) in(0.0) 
+emphasizing(1.0) the(0.0) importance(0.0) of(0.0) this(0.0) and(0.0) congratulating(0.0) the(0.0) chairman(0.0) and(0.0) everybody(0.0) concerned(0.0) with(0.0) willingness(0.0) to(0.0) take(0.0) action(1.0) on(0.0) this(0.0) .(0.0) 
+As(0.0) mentioned(0.0) ,(0.0) this(0.0) indeed(0.0) is(0.0) a(0.0) serious(0.0) problem(0.0) .(0.0) Each(0.0) year(0.0) about(0.0) 80,000(0.0) women(1.0) are(0.0) diagnosed(0.0) with(0.0) gynecological(1.0) cancers(1.0) 
+.(0.0) If(0.0) they(0.0) are(0.0) detected(0.0) early(0.0) ,(0.0) they(0.0) are(0.0) among(0.0) the(0.0) most(0.0) curable(1.0) .(0.0) If(0.0) they(0.0) are(0.0) not(0.0) ,(0.0) they(0.0) 
+are(0.0) among(0.0) the(0.0) most(0.0) deadly(1.0) ,(0.0) and(0.0) so(0.0) this(0.0) education(1.0) effort(0.0) is(0.0) so(0.0) critical(0.0) .(0.0) So(0.0) I(0.0) know(0.0) the(0.0) gentleman(0.0) 
+from(0.0) California(0.0) ((0.0) Mr.(0.0) Lewis(1.0) )(0.0) cares(1.0) so(1.0) much(0.0) about(0.0) this(0.0) .(0.0) I(0.0) do(0.0) hope(0.0) and(0.0) trust(0.0) that(0.0) a(0.0) way(0.0) 
+will(0.0) be(0.0) found(0.0) to(0.0) address(0.0) this(0.0) issue(0.0) .(0.0) So(0.0) many(0.0) lives(0.0) are(0.0) at(0.0) stake(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+emphasizing	action	
+women	gynecological	cancers	
+curable	
+deadly	education	
+Lewis	cares	so	
+
+
+reads % = 0.08088235294117647

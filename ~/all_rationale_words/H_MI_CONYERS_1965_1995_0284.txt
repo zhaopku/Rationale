@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(1.0) ,(0.0) I(0.0) think(1.0) we(0.0) have(0.0) had(0.0) a(0.0) sufficient(1.0) discussion(0.0) on(0.0) the(0.0) issue(0.0) .(0.0) I(0.0) wanted(0.0) to(0.0) flag(0.0) this(0.0) problem(0.0) .(0.0) 
+I(0.0) am(0.0) going(1.0) to(0.0) see(0.0) if(0.0) it(0.0) is(0.0) tracked(1.0) in(0.0) the(0.0) old(1.0) crime(0.0) bill(0.0) .(0.0) I(0.0) want(1.0) to(0.0) make(0.0) it(0.0) 
+clear(1.0) that(0.0) this(0.0) may(0.0) come(0.0) back(0.0) up(0.0) in(0.0) conference(0.0) .(0.0) I(0.0) withdraw(1.0) any(1.0) of(0.0) my(0.0) own(0.0) personal(1.0) feelings(1.0) about(0.0) it(0.0) 
+,(0.0) but(0.0) let(0.0) me(0.0) remind(1.0) you(0.0) ,(0.0) relations(1.0) are(0.0) not(1.0) as(0.0) harmonious(0.0) as(0.0) they(0.0) are(0.0) reported(0.0) to(0.0) be(0.0) in(0.0) Cook(1.0) 
+County(1.0) and(0.0) Chicago(1.0) between(0.0) the(0.0) city(1.0) and(0.0) the(0.0) county(1.0) .(0.0) I(0.0) am(1.0) delighted(1.0) to(0.0) hear(0.0) how(0.0) well(0.0) the(0.0) local(0.0) governments(1.0) 
+work(0.0) together(0.0) .(0.0) Unfortunately(1.0) ,(0.0) I(0.0) know(1.0) better(0.0) across(0.0) the(0.0) Nation(0.0) that(0.0) there(0.0) are(0.0) a(0.0) lot(0.0) of(0.0) places(1.0) where(0.0) that(0.0) 
+is(0.0) not(0.0) the(0.0) case(0.0) .(0.0) Also(0.0) remember(0.0) ,(0.0) please(0.0) ,(0.0) that(0.0) Chicago(1.0) is(0.0) not(1.0) getting(0.0) the(0.0) money(0.0) because(0.0) they(0.0) are(0.0) 
+Chicago(1.0) .(0.0) They(0.0) are(0.0) getting(0.0) the(0.0) money(1.0) because(0.0) that(0.0) is(0.0) where(0.0) the(0.0) crime(0.0) is(0.0) .(0.0) That(0.0) is(0.0) where(0.0) the(0.0) problem(0.0) 
+is(0.0) .(0.0) The(0.0) county(1.0) does(0.0) have(0.0) to(0.0) lock(0.0) them(0.0) up(0.0) and(0.0) have(0.0) some(0.0) prosecutorial(1.0) responsibility(0.0) ,(0.0) but(0.0) Chicago(1.0) is(0.0) getting(0.0) 
+the(0.0) bulk(1.0) of(0.0) the(0.0) money(1.0) because(0.0) the(0.0) way(1.0) we(0.0) have(0.0) derived(0.0) the(0.0) formulas(1.0) ,(0.0) they(0.0) are(0.0) entitled(1.0) to(0.0) it(0.0) .(0.0) 
+So(1.0) I(0.0) want(1.0) everyone(0.0) to(0.0) know(0.0) that(0.0) ,(0.0) stay(0.0) tuned(0.0) on(0.0) this(0.0) .(0.0) I(0.0) will(0.0) withdraw(1.0) my(0.0) reluctance(1.0) about(0.0) this(0.0) 
+amendment(1.0) ,(0.0) because(1.0) we(0.0) have(0.0) one(0.0) more(0.0) we(0.0) would(0.0) like(0.0) to(0.0) get(0.0) through(0.0) tonight(1.0) before(1.0) we(0.0) conclude(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+think	sufficient	
+going	tracked	old	want	
+clear	withdraw	any	personal	feelings	
+remind	relations	not	Cook	
+County	Chicago	city	county	am	delighted	governments	
+Unfortunately	know	places	
+Chicago	not	
+Chicago	money	
+county	prosecutorial	Chicago	
+bulk	money	way	formulas	entitled	
+So	want	withdraw	reluctance	
+amendment	because	tonight	before	
+
+reads % = 0.18828451882845187

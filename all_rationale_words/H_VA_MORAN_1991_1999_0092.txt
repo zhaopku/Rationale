@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) would(0.0) say(0.0) to(0.0) the(0.0) distinguished(0.0) gentleman(0.0) from(0.0) Oklahoma(1.0) ((0.0) Mr.(0.0) Istook(1.0) )(0.0) that(1.0) we(1.0) are(0.0) prepared(0.0) to(0.0) conclude(0.0) 
+.(0.0) So(0.0) if(0.0) the(0.0) gentleman(0.0) from(0.0) Oklahoma(1.0) is(0.0) prepared(0.0) ,(0.0) the(0.0) gentleman(0.0) can(0.0) conclude(0.0) ,(0.0) and(0.0) we(0.0) will(0.0) renew(0.0) this(0.0) 
+debate(1.0) on(0.0) Thursday(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Oklahoma	Istook	that	we	
+Oklahoma	
+debate	Chairman	
+
+reads % = 0.12280701754385964

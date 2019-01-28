@@ -1,0 +1,18 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) this(0.0) is(0.0) a(0.0) very(0.0) simple(0.0) amendment(1.0) .(0.0) This(0.0) is(0.0) not(0.0) a(0.0) cutting(0.0) amendment(1.0) nor(1.0) is(0.0) it(0.0) an(0.0) increasing(1.0) 
+amendment(1.0) .(0.0) This(0.0) is(0.0) an(0.0) amendment(1.0) that(0.0) says(0.0) that(0.0) this(0.0) Congress(0.0) will(0.0) authorize(0.0) and(0.0) appropriate(0.0) the(0.0) same(0.0) amount(0.0) next(0.0) year(0.0) 
+as(0.0) we(0.0) have(0.0) appropriated(1.0) this(0.0) year(0.0) ,(0.0) $(0.0) 243,251,297,000(0.0) .(0.0) This(0.0) is(0.0) an(0.0) amendment(1.0) that(0.0) freezes(0.0) defense(1.0) spending(1.0) for(0.0) next(0.0) 
+year(0.0) at(0.0) the(0.0) level(0.0) that(0.0) it(0.0) is(0.0) this(0.0) year(0.0) .(0.0) With(0.0) that(0.0) ,(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) 
+of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	amendment	amendment	nor	increasing	
+amendment	amendment	
+appropriated	amendment	defense	spending	
+Chairman	
+
+
+reads % = 0.1411764705882353

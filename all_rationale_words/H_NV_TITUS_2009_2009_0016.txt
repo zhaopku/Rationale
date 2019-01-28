@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) to(0.0) congratulate(0.0) the(0.0) Las(1.0) Vegas(0.0) Sun(0.0) and(0.0) reporter(0.0) Alexandra(0.0) Berzon(1.0) for(0.0) the(0.0) top-notch(0.0) reporting(0.0) that(0.0) carried(0.0) 
+them(0.0) and(0.0) earned(0.0) them(0.0) the(0.0) prestigious(0.0) Pulitzer(1.0) Prize(0.0) for(0.0) public(0.0) service(0.0) earlier(0.0) this(0.0) week(0.0) .(0.0) Alexandra(0.0) 's(0.0) investigation(0.0) into(0.0) the(0.0) 
+deaths(1.0) of(0.0) construction(0.0) workers(1.0) on(0.0) the(0.0) Las(0.0) Vegas(0.0) Strip(0.0) ,(0.0) combined(0.0) with(0.0) the(0.0) efforts(1.0) of(0.0) editorial(1.0) writers(0.0) ,(0.0) Matt(0.0) Hufman(1.0) 
+and(0.0) David(0.0) Clayton(1.0) brought(0.0) attention(0.0) to(0.0) this(0.0) serious(0.0) issue(0.0) and(0.0) resulted(0.0) in(0.0) critical(1.0) safety(0.0) reforms(1.0) that(0.0) will(0.0) save(0.0) lives(0.0) in(0.0) 
+Nevada(1.0) .(0.0) Nine(0.0) workers(1.0) had(0.0) died(0.0) on(0.0) the(0.0) job(0.0) when(0.0) Alexandra(0.0) wrote(0.0) her(0.0) first(0.0) of(0.0) more(0.0) than(0.0) 50(0.0) stories(0.0) chronicling(1.0) 
+the(0.0) dangers(1.0) construction(1.0) workers(1.0) face(0.0) when(0.0) safety(0.0) is(0.0) sacrificed(0.0) for(0.0) speed(0.0) or(0.0) profit(0.0) .(0.0) Her(0.0) findings(0.0) will(0.0) be(0.0) very(0.0) valuable(0.0) 
+to(0.0) Congress(0.0) as(0.0) the(0.0) Education(0.0) and(0.0) Labor(0.0) Committee(0.0) examines(0.0) this(0.0) issue(0.0) further(0.0) .(0.0) The(0.0) first(0.0) Pulitzer(1.0) for(0.0) the(0.0) Las(0.0) Vegas(0.0) 
+Sun(0.0) is(0.0) a(0.0) momentous(0.0) occasion(0.0) for(0.0) the(0.0) paper(0.0) and(0.0) for(0.0) our(0.0) community(0.0) ,(0.0) so(0.0) I(0.0) ,(0.0) again(0.0) ,(0.0) congratulate(0.0) the(0.0) 
+Sun(0.0) and(0.0) Alexandra(0.0) for(0.0) earning(0.0) journalism(1.0) 's(0.0) highest(0.0) honor(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Las	Berzon	
+Pulitzer	
+deaths	workers	efforts	editorial	Hufman	
+Clayton	critical	reforms	
+Nevada	workers	chronicling	
+dangers	construction	workers	
+Pulitzer	
+
+journalism	
+
+reads % = 0.1111111111111111

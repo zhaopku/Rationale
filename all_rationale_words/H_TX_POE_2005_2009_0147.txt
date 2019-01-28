@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) tonight(0.0) and(0.0) today(0.0) we(0.0) have(0.0) been(0.0) hearing(0.0) a(0.0) lot(0.0) about(0.0) the(0.0) economic(1.0) crisis(1.0) throughout(0.0) the(0.0) globe(0.0) .(0.0) Parallel(0.0) to(0.0) 
+the(0.0) concern(0.0) about(0.0) the(0.0) economic(1.0) crisis(1.0) is(0.0) another(0.0) concern(0.0) that(0.0) we(0.0) have(0.0) been(0.0) told(0.0) about(0.0) ,(0.0) and(0.0) that(0.0) is(0.0) the(0.0) 
+fear(0.0) of(0.0) global(1.0) warming(1.0) .(0.0) It(0.0) preoccupies(0.0) much(0.0) of(0.0) what(0.0) we(0.0) do(0.0) here(0.0) in(0.0) this(0.0) House(0.0) ,(0.0) and(0.0) it(0.0) preoccupies(1.0) 
+much(0.0) of(0.0) what(0.0) is(0.0) in(0.0) the(0.0) media(0.0) ,(0.0) not(0.0) only(0.0) in(0.0) the(0.0) United(0.0) States(0.0) but(0.0) throughout(0.0) the(0.0) world(0.0) .(0.0) I(0.0) 
+would(0.0) like(0.0) to(0.0) read(0.0) a(0.0) portion(0.0) of(0.0) a(0.0) Newsweek(0.0) article(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) .(0.0) It(0.0) says(0.0) :(0.0) There(0.0) are(0.0) ominous(0.0) 
+signs(0.0) that(0.0) the(0.0) earth(0.0) 's(0.0) weather(0.0) patterns(0.0) have(0.0) begun(0.0) to(0.0) change(0.0) dramatically(0.0) ,(0.0) and(0.0) that(0.0) these(0.0) changes(0.0) may(0.0) bring(0.0) a(0.0) 
+drastic(0.0) decline(0.0) in(0.0) food(1.0) production(0.0) with(0.0) serious(0.0) political(1.0) implications(1.0) for(0.0) just(0.0) about(0.0) every(0.0) nation(1.0) on(0.0) this(0.0) earth(0.0) .(0.0) The(0.0) drop(0.0) 
+in(0.0) food(1.0) output(0.0) could(0.0) begin(0.0) quite(0.0) soon(0.0) ,(0.0) perhaps(0.0) in(0.0) only(0.0) 10(0.0) years(0.0) .(0.0) The(0.0) regions(0.0) destined(0.0) to(0.0) feel(0.0) its(0.0) 
+impact(0.0) are(0.0) the(0.0) great(0.0) wheat-producing(1.0) lands(0.0) of(0.0) Canada(0.0) and(0.0) Russia(0.0) in(0.0) the(0.0) north(0.0) ,(0.0) along(0.0) with(0.0) a(0.0) number(0.0) of(0.0) marginally(0.0) 
+self-sufficient(0.0) tropical(0.0) areas(0.0) ,(0.0) parts(0.0) of(0.0) India(0.0) ,(0.0) Pakistan(0.0) ,(0.0) Bangladesh(0.0) ,(0.0) Indo-China(0.0) and(0.0) Indonesia(0.0) ,(0.0) where(0.0) the(0.0) growing(0.0) season(0.0) 
+is(0.0) dependent(0.0) upon(0.0) the(0.0) rains(0.0) brought(0.0) by(0.0) the(0.0) monsoons(0.0) .(0.0) The(0.0) evidence(0.0) in(0.0) support(0.0) of(0.0) these(0.0) predictions(0.0) has(0.0) now(0.0) begun(0.0) 
+to(0.0) accumulate(0.0) so(0.0) massively(1.0) that(0.0) meteorologists(0.0) are(0.0) hard-pressed(1.0) to(0.0) keep(0.0) up(0.0) with(0.0) it(0.0) .(0.0) In(0.0) England(0.0) ,(0.0) farmers(1.0) have(0.0) seen(0.0) 
+their(0.0) growing(0.0) season(0.0) decline(1.0) by(0.0) 2(0.0) weeks(0.0) since(0.0) 1950(1.0) ,(0.0) with(0.0) the(0.0) result(0.0) overall(0.0) loss(0.0) in(0.0) grain(0.0) production(0.0) estimated(0.0) up(0.0) 
+to(0.0) 100,000(0.0) tons(1.0) every(0.0) year(0.0) .(0.0) During(0.0) this(0.0) same(0.0) time(0.0) ,(0.0) the(0.0) average(0.0) temperature(0.0) around(0.0) the(0.0) equator(0.0) has(0.0) arisen(0.0) by(0.0) 
+a(0.0) fraction(0.0) of(0.0) a(0.0) degree(0.0) ,(0.0) a(0.0) fraction(0.0) that(0.0) in(0.0) some(0.0) areas(0.0) can(0.0) mean(0.0) drought(1.0) and(0.0) desolation(0.0) .(0.0) Last(0.0) April(0.0) 
+,(0.0) the(0.0) most(0.0) devastating(0.0) outbreak(1.0) of(0.0) tornadoes(1.0) ever(0.0) recorded(0.0) ,(0.0) 148(0.0) twisters(1.0) ,(0.0) killed(0.0) more(0.0) than(0.0) 300(0.0) people(0.0) and(0.0) caused(0.0) 
+one-half(1.0) billion(1.0) dollars(1.0) worth(0.0) of(0.0) damage(1.0) in(0.0) 13(0.0) States(0.0) in(0.0) the(0.0) United(0.0) States(0.0) .(0.0) To(0.0) scientists(0.0) ,(0.0) these(0.0) seemingly(0.0) disparate(0.0) 
+incidents(0.0) represent(0.0) the(0.0) advanced(0.0) signs(0.0) of(0.0) a(0.0) fundamental(1.0) change(0.0) in(0.0) the(0.0) world(0.0) 's(0.0) weather(0.0) .(0.0) The(0.0) central(0.0) fact(0.0) --(0.0) and(0.0) 
+you(0.0) note(0.0) here(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) it(0.0) is(0.0) a(0.0) fact(0.0) .(0.0) It(0.0) says(0.0) :(0.0) The(0.0) central(0.0) fact(0.0) is(0.0) that(0.0) 
+after(0.0) three-quarters(1.0) of(0.0) a(0.0) century(0.0) of(0.0) extraordinarily(0.0) mild(0.0) conditions(0.0) ,(0.0) the(0.0) earth(0.0) 's(0.0) climate(1.0) is(0.0) beginning(0.0) to(0.0) cool(0.0) down(0.0) .(0.0) 
+That(0.0) is(0.0) right(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) this(0.0) article(0.0) says(0.0) the(0.0) world(0.0) is(0.0) cooling(0.0) down(0.0) .(0.0) Meteorologists(0.0) disagree(0.0) about(0.0) the(0.0) 
+cause(0.0) and(0.0) extent(0.0) of(0.0) this(0.0) cooling(1.0) trend(0.0) as(0.0) well(0.0) as(0.0) over(0.0) its(0.0) specific(0.0) impact(0.0) on(0.0) local(0.0) weather(0.0) conditions(0.0) ,(0.0) but(0.0) 
+they(0.0) are(0.0) almost(0.0) unanimous(1.0) in(0.0) the(0.0) view(0.0) that(0.0) the(0.0) trend(0.0) will(0.0) produce(0.0) agricultural(1.0) productivity(0.0) for(0.0) rest(0.0) of(0.0) the(0.0) century(0.0) .(0.0) 
+If(0.0) the(0.0) climate(1.0) change(0.0) is(0.0) as(0.0) profound(0.0) as(0.0) some(0.0) of(0.0) the(0.0) pessimists(1.0) fear(0.0) ,(0.0) the(0.0) resulting(0.0) famines(1.0) could(0.0) be(0.0) catastrophic(1.0) 
+.(0.0) A(0.0) major(0.0) climate(1.0) change(0.0) would(0.0) force(0.0) economic(1.0) and(0.0) social(1.0) adjustments(0.0) on(0.0) a(0.0) worldwide(0.0) scale(0.0) ,(0.0) warns(1.0) a(0.0) recent(0.0) 
+
+
+----- below are rationale words -----
+
+economic	crisis	
+economic	crisis	
+global	warming	preoccupies	
+
+Speaker	
+
+food	political	implications	nation	
+food	
+wheat-producing	
+
+
+massively	hard-pressed	farmers	
+decline	1950	
+tons	
+drought	
+outbreak	tornadoes	twisters	
+one-half	billion	dollars	damage	
+fundamental	
+Speaker	
+three-quarters	climate	
+Speaker	
+cooling	
+unanimous	agricultural	
+climate	pessimists	famines	catastrophic	
+climate	economic	social	warns	
+
+reads % = 0.088

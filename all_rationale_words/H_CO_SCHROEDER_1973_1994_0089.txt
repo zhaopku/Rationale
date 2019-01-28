@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) want(1.0) to(0.0) compliment(0.0) the(0.0) gentleman(0.0) for(0.0) bringing(1.0) this(0.0) up(0.0) .(0.0) I(0.0) think(1.0) the(0.0) gentleman(0.0) 's(0.0) statistics(0.0) are(0.0) 
+correct(0.0) vis-a-(1.0) vis(1.0) the(0.0) apprehension(0.0) of(0.0) criminals(1.0) ,(0.0) but(0.0) I(0.0) hope(0.0) the(0.0) gentleman(0.0) is(0.0) not(1.0) implying(1.0) we(0.0) are(0.0) not(1.0) doing(0.0) 
+anything(0.0) about(0.0) it(0.0) .(0.0) I(0.0) think(1.0) one(0.0) of(0.0) the(0.0) most(1.0) exciting(0.0) things(0.0) that(0.0) happened(1.0) was(0.0) the(0.0) April(0.0) 20(0.0) signing(1.0) of(0.0) 
+the(0.0) memorandum(1.0) of(0.0) understanding(0.0) between(0.0) the(0.0) Department(0.0) of(0.0) Justice(0.0) and(0.0) the(0.0) Department(0.0) of(0.0) Defense(1.0) to(0.0) try(0.0) and(0.0) get(0.0) some(0.0) of(0.0) 
+this(0.0) equipment(0.0) transferred(1.0) from(0.0) defense(1.0) to(0.0) law(1.0) enforcement(0.0) ,(0.0) because(1.0) law(1.0) enforcement(0.0) basically(1.0) has(0.0) no(1.0) more(0.0) tools(1.0) than(0.0) Wyatt(0.0) Earp(1.0) 
+had(0.0) except(1.0) that(0.0) they(0.0) have(0.0) a(0.0) car(0.0) rather(0.0) than(0.0) a(0.0) horse(0.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) I(0.0) think(1.0) that(0.0) is(0.0) the(0.0) 
+type(0.0) of(0.0) thing(0.0) we(0.0) are(0.0) trying(0.0) to(0.0) do(0.0) in(0.0) the(0.0) crime(0.0) bill(0.0) ,(0.0) and(0.0) trying(0.0) to(0.0) do(0.0) on(0.0) this(0.0) side(0.0) 
+of(0.0) the(0.0) aisle(1.0) .(0.0) I(0.0) hope(0.0) the(0.0) gentleman(0.0) would(1.0) be(0.0) applauding(1.0) that(0.0) ,(0.0) because(1.0) our(0.0) law(1.0) enforcement(0.0) people(0.0) tell(0.0) us(0.0) 
+that(0.0) is(0.0) long(1.0) overdue(1.0) ,(0.0) and(0.0) they(0.0) have(0.0) been(0.0) waiting(0.0) ,(0.0) where(0.0) have(0.0) we(0.0) been(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+want	bringing	think	
+vis-a-	vis	criminals	not	implying	not	
+think	most	happened	signing	
+memorandum	Defense	
+transferred	defense	law	because	law	basically	no	tools	Earp	
+except	Speaker	think	
+
+aisle	would	applauding	because	law	
+long	overdue	
+
+reads % = 0.192090395480226

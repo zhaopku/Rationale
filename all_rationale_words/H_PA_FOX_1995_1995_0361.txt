@@ -1,0 +1,22 @@
+This is from a Republican
+----- below is the original text -----
+Reclaiming(1.0) the(0.0) time(0.0) ,(0.0) I(0.0) appreciate(0.0) the(0.0) comments(0.0) of(0.0) my(0.0) colleague(0.0) .(0.0) The(0.0) fact(0.0) of(0.0) the(0.0) matter(0.0) is(0.0) a(0.0) balanced(0.0) budget(1.0) 
+is(0.0) going(0.0) to(0.0) help(0.0) everyone(0.0) in(0.0) every(0.0) region(0.0) of(0.0) the(0.0) country(1.0) ,(0.0) all(0.0) ages(0.0) ,(0.0) and(0.0) the(0.0) fact(0.0) is(0.0) by(0.0) 
+decreasing(0.0) the(0.0) cost(1.0) of(0.0) mortgage(1.0) payments(1.0) for(0.0) the(0.0) balanced(0.0) budget(1.0) ,(0.0) decreasing(1.0) costs(1.0) for(0.0) car(0.0) payments(0.0) ,(0.0) decreasing(0.0) costs(1.0) of(0.0) 
+college(1.0) tuition(1.0) ,(0.0) we(0.0) are(0.0) going(0.0) to(0.0) do(0.0) what(0.0) every(0.0) other(0.0) government(1.0) is(0.0) required(0.0) to(0.0) do(0.0) ,(0.0) school(1.0) government(1.0) ,(0.0) 
+local(1.0) government(1.0) ,(0.0) and(0.0) families(0.0) .(0.0) So(0.0) the(0.0) balanced(0.0) budget(1.0) is(0.0) an(0.0) idea(0.0) whose(0.0) time(0.0) has(0.0) arrived(0.0) .(0.0) We(0.0) need(0.0) 
+to(0.0) have(0.0) the(0.0) political(1.0) will(0.0) to(0.0) make(0.0) sure(0.0) we(0.0) talk(0.0) to(0.0) the(0.0) White(1.0) House(0.0) ,(0.0) that(0.0) we(0.0) have(0.0) more(0.0) of(0.0) 
+both(0.0) sides(0.0) of(0.0) the(0.0) aisle(0.0) working(0.0) together(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+budget	
+country	
+cost	mortgage	payments	budget	decreasing	costs	costs	
+college	tuition	government	school	government	
+local	government	budget	
+political	White	
+
+
+reads % = 0.14728682170542637

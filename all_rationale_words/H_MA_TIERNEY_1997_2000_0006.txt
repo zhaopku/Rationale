@@ -1,0 +1,38 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) throughout(0.0) the(0.0) history(0.0) of(0.0) our(0.0) Nation(0.0) ,(0.0) our(0.0) elected(1.0) officials(0.0) have(0.0) recognized(0.0) when(0.0) it(0.0) is(0.0) time(0.0) to(0.0) set(0.0) aside(0.0) 
+specific(0.0) philosophical(0.0) differences(0.0) and(0.0) act(0.0) in(0.0) the(0.0) best(0.0) interests(0.0) of(0.0) the(0.0) public(0.0) with(0.0) regard(0.0) to(0.0) our(0.0) precious(0.0) natural(0.0) resources(0.0) .(0.0) 
+Whether(0.0) we(0.0) have(0.0) been(0.0) inspired(0.0) by(0.0) conservationists(1.0) such(0.0) as(0.0) John(0.0) Muir(1.0) or(0.0) led(0.0) by(0.0) visionaries(1.0) such(0.0) as(0.0) Theodore(0.0) Roosevelt(1.0) ,(0.0) 
+we(0.0) have(0.0) always(0.0) managed(0.0) to(0.0) meet(0.0) the(0.0) next(0.0) step(0.0) in(0.0) the(0.0) challenge(0.0) to(0.0) protect(0.0) our(0.0) land(0.0) and(0.0) to(0.0) ensure(0.0) that(0.0) 
+our(0.0) children(0.0) can(0.0) enjoy(0.0) a(0.0) clean(0.0) and(0.0) healthy(1.0) environment(0.0) .(0.0) And(0.0) now(0.0) ,(0.0) another(0.0) one(0.0) of(0.0) those(0.0) landmark(1.0) moments(0.0) is(0.0) 
+upon(0.0) us(0.0) ,(0.0) and(0.0) I(0.0) am(0.0) glad(0.0) to(0.0) see(0.0) that(0.0) the(0.0) House(0.0) is(0.0) responding(0.0) with(0.0) the(0.0) Conservation(0.0) and(0.0) Reinvestment(1.0) Act(0.0) 
+of(0.0) 2000(0.0) .(0.0) Many(0.0) of(0.0) my(0.0) colleagues(0.0) have(0.0) already(0.0) ,(0.0) and(0.0) will(0.0) continue(0.0) to(0.0) talk(0.0) about(0.0) the(0.0) provisions(1.0) in(0.0) the(0.0) 
+bill(1.0) that(0.0) will(0.0) benefit(1.0) generation(1.0) after(0.0) generation(1.0) of(0.0) Americans(1.0) .(0.0) My(0.0) home(0.0) State(0.0) of(0.0) Massachusetts(1.0) will(0.0) receive(0.0) millions(1.0) of(0.0) needed(0.0) 
+dollars(1.0) for(0.0) vital(1.0) Land(0.0) and(0.0) Water(0.0) Conservation(1.0) Fund(1.0) projects(0.0) as(0.0) well(0.0) as(0.0) urban(1.0) parks(0.0) and(0.0) recreation(0.0) programs(0.0) .(0.0) Upon(0.0) final(0.0) 
+action(0.0) by(0.0) the(0.0) Congress(0.0) on(0.0) this(0.0) legislation(1.0) ,(0.0) we(0.0) will(0.0) finally(0.0) support(0.0) with(0.0) a(0.0) meaningful(0.0) commitment(0.0) a(0.0) significant(0.0) increase(0.0) in(0.0) 
+efforts(1.0) to(0.0) restore(1.0) and(0.0) protect(1.0) precious(0.0) coastal(1.0) habitats(0.0) and(0.0) wetlands(1.0) .(0.0) Certain(0.0) refinements(0.0) may(0.0) be(0.0) necessary(0.0) as(0.0) this(0.0) bill(1.0) continues(1.0) 
+through(0.0) the(0.0) legislative(1.0) process(0.0) ,(0.0) but(0.0) I(0.0) am(0.0) sure(0.0) we(0.0) will(0.0) do(0.0) that(0.0) by(0.0) making(0.0) sure(0.0) that(0.0) the(0.0) Department(0.0) of(0.0) 
+Commerce(0.0) is(0.0) included(0.0) as(0.0) a(0.0) participant(0.0) in(0.0) the(0.0) management(0.0) of(0.0) the(0.0) funds(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) commend(0.0) both(0.0) the(0.0) 
+gentleman(0.0) from(0.0) Alaska(0.0) ((0.0) Chairman(0.0) Young(1.0) )(0.0) and(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) ((0.0) Mr.(0.0) George(1.0) Miller(1.0) )(0.0) ,(0.0) the(0.0) ranking(0.0) 
+member(0.0) ,(0.0) for(0.0) the(0.0) fine(0.0) work(0.0) they(0.0) have(0.0) done(0.0) ,(0.0) and(0.0) I(0.0) urge(0.0) passage(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+elected	
+
+conservationists	Muir	visionaries	Roosevelt	
+
+healthy	landmark	
+Reinvestment	
+provisions	
+bill	benefit	generation	generation	Americans	Massachusetts	millions	
+dollars	vital	Conservation	Fund	urban	
+legislation	
+efforts	restore	protect	coastal	wetlands	bill	continues	
+legislative	
+Chairman	
+Young	George	Miller	
+passage	
+
+reads % = 0.11824324324324324

@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) rise(1.0) today(1.0) ,(0.0) first(0.0) of(0.0) all(0.0) ,(0.0) to(0.0) express(1.0) my(0.0) gratitude(1.0) to(0.0) the(0.0) chairman(1.0) for(0.0) crafting(1.0) a(0.0) 
+bill(0.0) which(0.0) tries(0.0) to(0.0) do(0.0) what(1.0) we(0.0) want(1.0) to(0.0) do(0.0) ,(0.0) which(0.0) is(0.0) to(0.0) take(0.0) seriously(1.0) the(0.0) admonition(1.0) by(0.0) former(0.0) 
+Department(0.0) of(0.0) Homeland(0.0) Security(1.0) Secretary(0.0) Tom(0.0) Ridge(0.0) that(0.0) homeland(1.0) security(0.0) starts(0.0) in(0.0) our(0.0) hometowns(1.0) ,(0.0) and(0.0) tried(0.0) to(0.0) officially(1.0) get(0.0) 
+homeland(1.0) security(0.0) funds(0.0) to(0.0) our(0.0) neighborhoods(1.0) .(0.0) Congressman(1.0) Cantor(1.0) and(0.0) I(0.0) were(0.0) going(0.0) to(0.0) be(0.0) offering(1.0) an(0.0) amendment(1.0) on(0.0) the(0.0) 
+floor(0.0) to(0.0) address(0.0) a(0.0) program(0.0) that(0.0) has(0.0) been(0.0) funded(1.0) in(0.0) the(0.0) last(1.0) couple(1.0) of(0.0) years(0.0) ,(0.0) albeit(1.0) inefficiently(1.0) ,(0.0) by(0.0) 
+the(0.0) Department(0.0) of(0.0) Homeland(0.0) Security(1.0) ,(0.0) to(0.0) deal(1.0) with(0.0) the(0.0) problem(0.0) that(0.0) local(1.0) neighborhood(1.0) nonprofit(1.0) organizations(0.0) ,(0.0) churches(1.0) ,(0.0) synagogues(1.0) 
+,(0.0) civic(1.0) institutions(1.0) ,(0.0) are(0.0) being(0.0) visited(0.0) by(0.0) local(0.0) law(1.0) enforcement(0.0) all(0.0) the(0.0) time(0.0) saying(0.0) ,(0.0) here(0.0) are(0.0) the(0.0) things(0.0) 
+you(1.0) need(0.0) to(0.0) do(0.0) to(0.0) make(0.0) your(0.0) institution(0.0) more(0.0) hardened(1.0) for(0.0) the(0.0) challenge(1.0) of(0.0) homeland(1.0) security(0.0) .(0.0) Yet(1.0) ,(0.0) with(0.0) 
+all(0.0) the(0.0) things(0.0) they(0.0) are(0.0) being(0.0) told(0.0) to(0.0) do(0.0) ,(0.0) unlike(0.0) a(0.0) business(1.0) that(0.0) can(1.0) pass(1.0) along(0.0) its(0.0) expenses(0.0) to(0.0) 
+stockholders(1.0) ,(0.0) or(1.0) unlike(0.0) a(0.0) government(1.0) entity(1.0) that(0.0) can(1.0) raise(1.0) taxes(1.0) or(1.0) make(0.0) choices(1.0) on(0.0) what(0.0) they(0.0) want(1.0) to(0.0) allocate(1.0) 
+,(0.0) these(0.0) nonprofit(1.0) organizations(0.0) really(0.0) have(0.0) no(1.0) way(1.0) to(0.0) find(0.0) the(0.0) funds(0.0) for(0.0) things(0.0) like(0.0) security(0.0) cameras(1.0) ,(0.0) for(0.0) emergency(1.0) 
+escape(1.0) hatches(0.0) ,(0.0) for(0.0) communication(0.0) devices(0.0) within(1.0) their(0.0) facilities(1.0) .(0.0) The(0.0) nonprofit(1.0) Homeland(0.0) Security(1.0) grants(0.0) have(0.0) done(0.0) that(0.0) .(0.0) They(1.0) 
+have(0.0) done(0.0) it(0.0) in(0.0) a(0.0) relatively(0.0) efficient(0.0) way(1.0) .(0.0) You(0.0) have(0.0) n't(0.0) read(0.0) the(0.0) stories(0.0) about(0.0) great(0.0) waste(1.0) because(0.0) they(0.0) 
+are(0.0) relatively(0.0) small(0.0) amounts(1.0) of(0.0) money(1.0) to(0.0) pay(1.0) for(0.0) the(0.0) things(0.0) like(0.0) I(0.0) described(1.0) .(0.0) This(0.0) section(0.0) of(0.0) the(0.0) bill(0.0) 
+,(0.0) the(0.0) administrative(1.0) section(0.0) ,(0.0) was(0.0) where(0.0) we(0.0) thought(0.0) maybe(0.0) we(0.0) could(0.0) take(0.0) some(0.0) of(0.0) the(0.0) money(1.0) to(0.0) allocate(1.0) for(0.0) 
+the(0.0) nonprofit(1.0) grants(0.0) .(0.0) The(0.0) other(0.0) body(0.0) ,(0.0) an(0.0) earmark(1.0) ,(0.0) is(0.0) going(0.0) to(0.0) take(0.0) $(0.0) 20(0.0) million(0.0) and(0.0) allocate(1.0) 
+it(0.0) for(0.0) that(0.0) purpose(0.0) .(0.0) It(0.0) 's(0.0) only(0.0) a(0.0) $(0.0) 25(0.0) million(0.0) program(0.0) that(0.0) we(0.0) have(0.0) allocated(1.0) for(0.0) the(0.0) past(0.0) 
+couple(1.0) of(0.0) Congresses(1.0) .(0.0) I(0.0) think(1.0) that(0.0) ,(0.0) frankly(1.0) ,(0.0) the(0.0) knowledge(0.0) that(0.0) this(0.0) is(0.0) going(0.0) to(0.0) be(0.0) worked(1.0) out(0.0) 
+in(0.0) conference(1.0) is(0.0) comforting(0.0) .(0.0) But(0.0) we(0.0) need(0.0) to(0.0) realize(0.0) that(0.0) one(0.0) of(0.0) the(0.0) things(0.0) we(0.0) need(0.0) to(0.0) do(0.0) ,(0.0) 
+and(0.0) frankly(0.0) ,(0.0) it(0.0) 's(0.0) a(0.0) program(0.0) that(0.0) has(0.0) been(0.0) administered(0.0) in(0.0) a(0.0) remarkably(1.0) democratic(1.0) ,(0.0) with(0.0) a(0.0) small(0.0) D(1.0) 
+,(0.0) way(1.0) .(0.0) It(0.0) has(0.0) been(0.0) distributed(0.0) to(0.0) small(0.0) towns(0.0) ,(0.0) big(1.0) cities(1.0) ,(0.0) nonprofit(1.0) organizations(0.0) .(0.0) They(0.0) get(0.0) visited(0.0) 
+by(0.0) local(0.0) law(1.0) enforcement(0.0) :(1.0) These(0.0) are(0.0) the(0.0) things(0.0) you(1.0) do(0.0) to(0.0) become(0.0) more(0.0) safe(1.0) .(0.0) They(0.0) have(0.0) gone(0.0) out(1.0) 
+and(0.0) done(0.0) it(0.0) .(0.0) They(0.0) have(0.0) made(0.0) applications(1.0) to(0.0) the(0.0) States(0.0) that(0.0) have(0.0) then(0.0) funded(1.0) these(0.0) programs(1.0) as(0.0) they(0.0) see(0.0) 
+fit(0.0) .(0.0) We(0.0) are(0.0) not(0.0) going(0.0) to(0.0) be(0.0) offering(1.0) the(0.0) amendment(1.0) ,(0.0) although(1.0) I(0.0) am(0.0) grateful(1.0) for(0.0) the(0.0) bipartisan(0.0) work(0.0) 
+that(0.0) we(0.0) have(0.0) done(0.0) on(0.0) this(0.0) .(0.0) I(0.0) would(1.0) like(0.0) to(0.0) ask(0.0) the(0.0) chairman(1.0) ,(0.0) as(0.0) this(0.0) moves(1.0) forward(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	rise	today	express	gratitude	chairman	crafting	
+what	want	seriously	admonition	
+Security	homeland	hometowns	officially	
+homeland	neighborhoods	Congressman	Cantor	offering	amendment	
+funded	last	couple	albeit	inefficiently	
+Security	deal	local	neighborhood	nonprofit	churches	synagogues	
+civic	institutions	law	
+you	hardened	challenge	homeland	Yet	
+business	can	pass	
+stockholders	or	government	entity	can	raise	taxes	or	choices	want	allocate	
+nonprofit	no	way	cameras	emergency	
+escape	within	facilities	nonprofit	Security	They	
+way	waste	
+amounts	money	pay	described	
+administrative	money	allocate	
+nonprofit	earmark	allocate	
+allocated	
+couple	Congresses	think	frankly	worked	
+conference	
+remarkably	democratic	D	
+way	big	cities	nonprofit	
+law	:	you	safe	out	
+applications	funded	programs	
+offering	amendment	although	grateful	
+would	chairman	moves	
+
+reads % = 0.214

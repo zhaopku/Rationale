@@ -1,0 +1,24 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) today(1.0) I(0.0) rise(1.0) in(0.0) celebration(1.0) of(0.0) Asian(1.0) Pacific(1.0) Islander(0.0) American(0.0) Heritage(0.0) Month(1.0) .(0.0) As(0.0) a(0.0) member(0.0) of(0.0) the(0.0) Congressional(0.0) 
+Asian(1.0) Pacific(1.0) Islander(0.0) American(0.0) Caucus(1.0) ,(0.0) I(0.0) am(0.0) proud(1.0) to(0.0) pay(1.0) tribute(1.0) to(0.0) the(0.0) 120,000(1.0) individuals(0.0) of(0.0) Asian(1.0) descent(1.0) that(0.0) 
+I(0.0) represent(1.0) in(0.0) the(0.0) 32nd(1.0) Congressional(0.0) District(0.0) in(0.0) California(0.0) .(0.0) Communities(1.0) like(0.0) Rosemead(1.0) ,(0.0) Monterey(1.0) Park(0.0) ,(0.0) West(0.0) Covina(1.0) and(0.0) 
+other(0.0) cities(1.0) throughout(0.0) my(0.0) district(1.0) have(0.0) experienced(0.0) firsthand(1.0) the(0.0) economic(1.0) and(0.0) cultural(0.0) contributions(1.0) of(0.0) Asian(1.0) and(0.0) Pacific(1.0) Islanders(1.0) .(0.0) Asian(1.0) 
+and(0.0) Pacific(1.0) Islanders(1.0) in(0.0) my(0.0) district(1.0) represent(1.0) local(0.0) government(1.0) ,(0.0) entrepreneurs(1.0) ,(0.0) educators(1.0) ,(0.0) and(0.0) patriots(1.0) .(0.0) This(0.0) month(0.0) we(0.0) 
+should(0.0) also(1.0) remember(0.0) the(0.0) great(0.0) contributions(1.0) that(0.0) were(0.0) provided(0.0) by(0.0) Congressman(0.0) Robert(1.0) Matsui(1.0) ,(0.0) who(0.0) was(0.0) a(0.0) great(0.0) advocate(1.0) and(0.0) 
+champion(1.0) of(0.0) Asian(1.0) American(0.0) issues(0.0) throughout(0.0) our(0.0) country(1.0) .(0.0) I(0.0) encourage(1.0) all(0.0) my(0.0) colleagues(1.0) to(0.0) celebrate(0.0) with(0.0) us(0.0) throughout(0.0) the(0.0) 
+month(0.0) of(0.0) May(0.0) to(0.0) learn(0.0) more(0.0) about(0.0) the(0.0) rich(0.0) cultures(1.0) of(0.0) Asian(1.0) and(0.0) Pacific(1.0) Islander(0.0) Americans(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+today	rise	celebration	Asian	Pacific	Month	
+Asian	Pacific	Caucus	proud	pay	tribute	120,000	Asian	descent	
+represent	32nd	Communities	Rosemead	Monterey	Covina	
+cities	district	firsthand	economic	contributions	Asian	Pacific	Islanders	Asian	
+Pacific	Islanders	district	represent	government	entrepreneurs	educators	patriots	
+also	contributions	Robert	Matsui	advocate	
+champion	Asian	country	encourage	colleagues	
+cultures	Asian	Pacific	
+
+reads % = 0.3227848101265823

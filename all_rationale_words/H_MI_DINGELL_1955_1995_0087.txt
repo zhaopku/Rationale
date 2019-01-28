@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) there(0.0) are(0.0) ways(0.0) of(0.0) cleaning(0.0) up(0.0) the(0.0) abuses(1.0) that(0.0) exist(0.0) with(0.0) regard(0.0) to(0.0) citizens(1.0) '(0.0) suits(0.0) regarding(0.0) securities(0.0) .(0.0) 
+But(0.0) this(0.0) legislation(1.0) is(0.0) not(0.0) the(0.0) way(0.0) that(0.0) it(0.0) should(0.0) be(0.0) done(0.0) .(0.0) My(0.0) colleagues(0.0) on(0.0) the(0.0) Republican(1.0) side(1.0) would(1.0) 
+have(1.0) us(1.0) believe(1.0) that(1.0) the(1.0) securities(1.0) industry(1.0) and(1.0) the(1.0) marketplaces(1.0) of(1.0) this(1.0) country(1.0) are(1.0) some(1.0) kind(1.0) of(1.0) kindergarten(1.0) or(1.0) perhaps(1.0) 
+a(1.0) cloistered(1.0) nunnery(1.0) where(1.0) nothing(1.0) that(1.0) is(1.0) good(0.0) for(0.0) us(0.0) is(0.0) brought(0.0) out(0.0) .(0.0) No(0.0) ,(0.0) sir(0.0) ,(0.0) nothing(0.0) could(0.0) 
+be(0.0) further(0.0) from(0.0) the(0.0) truth(0.0) .(0.0) The(0.0) hard(0.0) fact(0.0) of(0.0) the(0.0) matter(0.0) is(0.0) this(0.0) is(0.0) the(0.0) place(0.0) where(0.0) rascals(1.0) and(0.0) 
+rogues(0.0) go(0.0) to(0.0) plunder(1.0) the(0.0) American(0.0) people(0.0) ,(0.0) honest(0.0) investors(1.0) who(0.0) invest(1.0) their(0.0) life(0.0) savings(1.0) and(0.0) that(0.0) is(0.0) all(0.0) .(0.0) 
+And(0.0) this(0.0) legislation(1.0) ,(0.0) while(0.0) it(0.0) might(0.0) correct(0.0) abuses(1.0) of(0.0) which(0.0) the(0.0) other(0.0) side(0.0) complains(0.0) ,(0.0) will(0.0) also(0.0) strip(0.0) law-abiding(1.0) 
+citizens(1.0) of(0.0) their(0.0) rights(1.0) to(0.0) litigate(1.0) where(0.0) wrongdoing(1.0) has(0.0) been(0.0) done(0.0) to(0.0) them(0.0) and(0.0) where(0.0) their(0.0) assets(0.0) have(0.0) been(0.0) stolen(0.0) 
+by(0.0) wrongdoing(1.0) .(0.0) This(0.0) is(0.0) not(0.0) a(0.0) handout(0.0) from(0.0) the(0.0) trial(0.0) lawyers(0.0) .(0.0) This(0.0) is(0.0) a(0.0) prestigious(0.0) business(0.0) publication(0.0) .(0.0) 
+It(0.0) says(0.0) ,(0.0) ``(0.0) Can(0.0) you(0.0) trust(0.0) your(0.0) broker(0.0) ?(0.0) ''(0.0) The(0.0) answer(0.0) is(0.0) you(0.0) may(0.0) be(0.0) able(0.0) to(0.0) ,(0.0) 
+but(0.0) you(0.0) may(0.0) not(0.0) .(0.0) It(0.0) is(0.0) inside(0.0) the(0.0) publication(0.0) ,(0.0) and(0.0) I(0.0) would(0.0) commend(0.0) it(0.0) to(0.0) the(0.0) reading(0.0) of(0.0) 
+my(0.0) colleagues(0.0) .(0.0) Look(0.0) at(0.0) some(0.0) of(0.0) the(0.0) things(0.0) that(0.0) have(0.0) had(0.0) happened(0.0) recently(0.0) in(0.0) the(0.0) securities(1.0) industry(0.0) ,(0.0) and(0.0) 
+you(0.0) will(0.0) understand(0.0) why(0.0) collapse(1.0) of(0.0) Barings(1.0) investment(1.0) banking(1.0) firm(1.0) in(0.0) England(0.0) .(0.0) The(0.0) lawsuits(1.0) against(0.0) the(0.0) perpetrators(1.0) of(0.0) that(0.0) 
+wrongdoing(1.0) would(0.0) have(0.0) probably(0.0) been(0.0) sheltered(0.0) by(0.0) this(0.0) legislation(1.0) .(0.0) Similarly(0.0) ,(0.0) the(0.0) $(0.0) 2(0.0) billion(1.0) collapse(1.0) of(0.0) Orange(1.0) County(1.0) 
+investments(1.0) that(0.0) led(0.0) that(0.0) county(1.0) to(0.0) declare(0.0) bankruptcy(1.0) probably(0.0) would(0.0) be(0.0) sheltered(0.0) by(0.0) this(0.0) legislation(1.0) .(0.0) Limited(0.0) partnership(0.0) fraud(1.0) so(0.0) 
+far(0.0) has(0.0) cost(0.0) Prudential(0.0) Securities(0.0) better(0.0) than(0.0) $(0.0) 1(0.0) billion(1.0) .(0.0) Twelve(0.0) billion(1.0) dollars(1.0) in(0.0) litigation(1.0) in(0.0) a(0.0) fraud(1.0) case(0.0) 
+against(0.0) Drexel(1.0) Burnham(1.0) Lambert(1.0) ;(0.0) the(0.0) case(0.0) was(0.0) settled(0.0) for(0.0) $(0.0) 3(0.0) billion(0.0) ,(0.0) no(0.0) shakedown(1.0) by(0.0) trial(0.0) lawyers(1.0) ,(0.0) 
+but(0.0) action(0.0) by(0.0) the(0.0) Federal(1.0) Government(1.0) .(0.0) How(0.0) about(0.0) the(0.0) securities(0.0) fraud(0.0) and(0.0) insider(1.0) trading(1.0) scandals(1.0) perpetrated(1.0) by(0.0) Ivan(0.0) Boesky(1.0) 
+,(0.0) Dennis(0.0) Levine(1.0) ,(0.0) Martin(0.0) Siegel(1.0) and(0.0) others(0.0) on(0.0) Wall(1.0) Street(0.0) ?(0.0) What(0.0) about(0.0) some(0.0) other(0.0) splendid(0.0) securities(0.0) frauds(0.0) which(0.0) 
+probably(0.0) would(0.0) have(0.0) been(0.0) sheltered(0.0) under(0.0) this(0.0) legislation(1.0) ?(1.0) Lincoln(0.0) Savings(1.0) and(0.0) Loan(0.0) ,(0.0) Charlie(0.0) Keating(1.0) and(0.0) his(0.0) cohorts(0.0) ;(0.0) 
+they(0.0) sold(0.0) worthless(0.0) bonds(0.0) to(0.0) the(0.0) elderly(1.0) in(0.0) bank(0.0) lobbies(1.0) ;(0.0) Washington(1.0) Public(0.0) Power(0.0) Supply(0.0) System(0.0) ,(0.0) a(0.0) massive(0.0) default(0.0) 
+of(0.0) $(0.0) 10(0.0) billion(1.0) and(0.0) more(0.0) in(0.0) bonds(1.0) ,(0.0) led(0.0) to(0.0) a(0.0) class-action(1.0) lawsuit(1.0) which(0.0) resulted(0.0) in(0.0) more(0.0) than(0.0) an(0.0) 
+$(0.0) 800(0.0) million(0.0) settlement(1.0) ,(0.0) probably(0.0) would(0.0) have(0.0) been(0.0) proscribed(0.0) under(0.0) the(0.0) legislation(1.0) that(0.0) we(0.0) are(0.0) addressing(1.0) .(0.0) In(0.0) Salomon(0.0) 
+Brothers(0.0) ,(0.0) a(0.0) group(0.0) of(0.0) elite(1.0) institutions(0.0) worked(0.0) together(0.0) to(0.0) raid(0.0) government(1.0) bonds(1.0) auctions(0.0) ;(0.0) probably(0.0) lawsuits(1.0) would(0.0) have(0.0) been(0.0) 
+banned(0.0) under(0.0) the(0.0) legislation(1.0) we(0.0) are(0.0) talking(0.0) about(0.0) .(0.0) At(0.0) Miniscribe(0.0) ,(0.0) the(0.0) company(0.0) shipped(0.0) bricks(0.0) in(0.0) boxes(0.0) instead(0.0) 
+
+
+----- below are rationale words -----
+
+abuses	citizens	
+legislation	Republican	side	would	
+have	us	believe	that	the	securities	industry	and	the	marketplaces	of	this	country	are	some	kind	of	kindergarten	or	perhaps	
+a	cloistered	nunnery	where	nothing	that	is	
+rascals	
+plunder	investors	invest	savings	
+legislation	abuses	law-abiding	
+citizens	rights	litigate	wrongdoing	
+wrongdoing	
+
+
+securities	
+collapse	Barings	investment	banking	firm	lawsuits	perpetrators	
+wrongdoing	legislation	billion	collapse	Orange	County	
+investments	county	bankruptcy	legislation	fraud	
+billion	billion	dollars	litigation	fraud	
+Drexel	Burnham	Lambert	shakedown	lawyers	
+Federal	Government	insider	trading	scandals	perpetrated	Boesky	
+Levine	Siegel	Wall	
+legislation	?	Savings	Keating	
+elderly	lobbies	Washington	
+billion	bonds	class-action	lawsuit	
+settlement	legislation	addressing	
+elite	government	bonds	lawsuits	
+legislation	
+
+reads % = 0.208

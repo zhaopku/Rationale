@@ -1,0 +1,40 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) a(0.0) co-chair(0.0) of(0.0) the(0.0) Congressional(0.0) Caucus(1.0) on(1.0) Intellectual(0.0) Property(0.0) Promotion(0.0) ,(0.0) I(0.0) rise(0.0) in(0.0) strong(0.0) support(0.0) of(0.0) this(0.0) patent(1.0) 
+reform(1.0) legislation(1.0) because(1.0) it(0.0) is(0.0) critical(0.0) for(0.0) the(0.0) continued(0.0) growth(0.0) of(0.0) American(0.0) businesses(1.0) and(0.0) the(0.0) creation(0.0) of(0.0) high-paying(1.0) jobs(0.0) in(0.0) 
+America(1.0) .(0.0) This(0.0) bill(1.0) will(1.0) nurture(1.0) and(0.0) protect(1.0) inventors(1.0) ,(0.0) thereby(0.0) promoting(1.0) future(1.0) Alexander(0.0) Graham(1.0) Bells(1.0) and(0.0) tomorrow(0.0) 's(0.0) Microsofts(0.0) 
+.(0.0) For(0.0) more(0.0) than(0.0) 200(0.0) years(0.0) ,(0.0) strong(0.0) patent(1.0) protection(1.0) ,(0.0) along(0.0) with(0.0) timely(0.0) examination(0.0) of(0.0) patent(1.0) applications(0.0) ,(0.0) has(0.0) 
+helped(0.0) secure(0.0) the(0.0) economic(1.0) success(0.0) of(0.0) the(0.0) United(0.0) States(0.0) by(0.0) empowering(1.0) inventors(1.0) and(0.0) encouraging(0.0) the(0.0) development(0.0) of(0.0) American(0.0) business(0.0) both(0.0) 
+large(0.0) and(0.0) small(0.0) .(0.0) Every(0.0) day(0.0) ,(0.0) Americans(1.0) rely(0.0) on(0.0) the(0.0) innovation(1.0) that(0.0) comes(0.0) from(0.0) our(0.0) patent(1.0) system(0.0) .(0.0) From(0.0) 
+new(0.0) computer(0.0) technologies(0.0) to(0.0) medicines(1.0) for(0.0) America(1.0) 's(0.0) seniors(1.0) ,(0.0) the(0.0) American(0.0) patent(1.0) system(0.0) provides(0.0) the(0.0) fuel(1.0) for(0.0) our(0.0) most(0.0) 
+important(0.0) technological(1.0) accomplishments(0.0) .(0.0) In(0.0) America(1.0) today(0.0) ,(0.0) our(0.0) capacity(0.0) to(0.0) come(0.0) up(0.0) with(0.0) new(0.0) ideas(0.0) actually(0.0) outstrips(1.0) the(0.0) value(0.0) 
+of(0.0) the(0.0) goods(0.0) we(0.0) make(0.0) .(0.0) The(0.0) licensing(1.0) of(0.0) U.S.(0.0) patents(0.0) contributes(0.0) approximately(0.0) $(0.0) 150(0.0) billion(1.0) to(0.0) our(0.0) annual(0.0) economy(1.0) 
+,(0.0) and(0.0) intellectual(1.0) property(0.0) ,(0.0) including(0.0) patents(1.0) ,(0.0) is(0.0) the(0.0) only(0.0) economic(1.0) area(0.0) where(0.0) the(0.0) United(0.0) States(0.0) maintains(0.0) a(0.0) solid(0.0) 
+trade(0.0) surplus(1.0) with(0.0) the(0.0) rest(0.0) of(0.0) the(0.0) world(0.0) .(0.0) A(0.0) well-functioning(1.0) patent(0.0) system(0.0) is(0.0) vital(1.0) to(0.0) America(1.0) 's(0.0) commercial(0.0) and(0.0) 
+scientific(0.0) entrepreneurs(1.0) and(0.0) preserves(0.0) the(0.0) incentives(1.0) for(0.0) innovation(1.0) guaranteed(0.0) under(0.0) the(0.0) United(0.0) States(0.0) Constitution(1.0) .(0.0) This(0.0) legislation(1.0) will(0.0) make(0.0) America(1.0) 
+more(0.0) competitive(0.0) in(0.0) the(0.0) global(1.0) marketplace(0.0) ,(0.0) not(0.0) less(0.0) .(0.0) We(0.0) need(0.0) to(0.0) support(0.0) Mr.(0.0) Berman(1.0) and(0.0) Mr.(0.0) Conyers(1.0) in(0.0) 
+their(0.0) effort(0.0) to(0.0) produce(0.0) what(0.0) I(0.0) would(0.0) respectfully(0.0) suggest(0.0) is(0.0) the(0.0) most(0.0) important(0.0) economic(1.0) legislation(1.0) that(0.0) this(0.0) House(0.0) will(0.0) pass(0.0) 
+.(0.0) This(0.0) is(0.0) excellent(0.0) for(0.0) America(1.0) 's(0.0) workers(1.0) ;(0.0) it(0.0) 's(0.0) excellent(0.0) for(0.0) America's(0.0) universities(1.0) and(0.0) our(0.0) economy(1.0) at(0.0) large(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+Caucus	on	patent	
+reform	legislation	because	businesses	high-paying	
+America	bill	will	nurture	protect	inventors	promoting	future	Graham	Bells	
+patent	protection	patent	
+economic	empowering	inventors	
+Americans	innovation	patent	
+medicines	America	seniors	patent	fuel	
+technological	America	outstrips	
+licensing	billion	economy	
+intellectual	patents	economic	
+surplus	well-functioning	vital	America	
+entrepreneurs	incentives	innovation	Constitution	legislation	America	
+global	Berman	Conyers	
+economic	legislation	
+America	workers	universities	economy	
+
+
+reads % = 0.1986754966887417

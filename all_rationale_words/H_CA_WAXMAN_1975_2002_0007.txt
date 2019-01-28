@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) have(0.0) some(0.0) serious(0.0) reservations(0.0) about(0.0) H.R(0.0) .(0.0) 3925(0.0) ,(0.0) the(0.0) Digital(0.0) Tech(0.0) Corps(0.0) Act(0.0) ,(0.0) in(0.0) its(0.0) 
+current(0.0) form(0.0) .(0.0) But(0.0) before(0.0) I(0.0) explain(0.0) my(0.0) objections(1.0) ,(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Virginia(1.0) ((0.0) Mr.(0.0) 
+Tom(1.0) Davis(1.0) )(0.0) for(1.0) his(0.0) efforts(1.0) to(0.0) work(0.0) with(0.0) us(0.0) and(0.0) other(0.0) members(0.0) of(0.0) the(0.0) minority(1.0) on(0.0) this(0.0) legislation(1.0) .(0.0) 
+Although(0.0) I(0.0) ultimately(0.0) have(0.0) a(0.0) different(0.0) view(0.0) about(0.0) the(0.0) merits(1.0) of(0.0) this(0.0) bill(1.0) than(0.0) the(0.0) gentleman(0.0) from(0.0) Virginia(1.0) ,(0.0) he(0.0) 
+tried(0.0) to(0.0) accommodate(0.0) our(0.0) concerns(1.0) in(0.0) several(0.0) areas(0.0) and(0.0) did(0.0) adopt(1.0) many(0.0) of(0.0) the(0.0) suggestions(0.0) that(0.0) the(0.0) minority(1.0) made(0.0) .(0.0) 
+I(0.0) thank(0.0) him(0.0) very(0.0) much(0.0) for(0.0) that(0.0) .(0.0) I(0.0) want(0.0) to(0.0) ,(0.0) in(0.0) addition(0.0) ,(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) 
+((0.0) Mr.(0.0) Turner(1.0) )(0.0) for(1.0) all(1.0) his(0.0) hard(0.0) work(0.0) to(0.0) improve(0.0) this(0.0) bill(1.0) .(0.0) Unfortunately(0.0) ,(0.0) as(0.0) the(0.0) bill(1.0) stands(0.0) 
+,(0.0) it(0.0) blurs(0.0) the(0.0) line(0.0) that(0.0) should(0.0) exist(0.0) between(0.0) the(0.0) government(1.0) and(0.0) the(0.0) private(0.0) sector(0.0) .(0.0) When(0.0) we(0.0) fail(0.0) to(0.0) 
+draw(0.0) a(0.0) clear(0.0) line(0.0) between(0.0) the(0.0) public(0.0) and(0.0) the(0.0) private(0.0) sectors(0.0) ,(0.0) we(0.0) invite(0.0) abuse(1.0) and(0.0) conflicts(0.0) of(0.0) interest(0.0) .(0.0) 
+There(0.0) has(0.0) been(0.0) an(0.0) attempt(0.0) to(0.0) deal(0.0) with(0.0) these(0.0) problems(0.0) by(0.0) applying(0.0) Federal(1.0) ethics(1.0) rules(1.0) to(0.0) the(0.0) private(0.0) sector(0.0) employees(0.0) 
+who(0.0) enter(0.0) the(0.0) Federal(0.0) workforce(1.0) .(0.0) But(0.0) I(0.0) am(0.0) not(0.0) sure(0.0) that(0.0) rules(0.0) alone(0.0) will(0.0) prevent(0.0) abuses(1.0) .(0.0) As(0.0) it(0.0) 
+is(0.0) currently(0.0) drafted(0.0) ,(0.0) this(0.0) bill(1.0) allows(1.0) technology(1.0) executives(1.0) from(0.0) drug(1.0) companies(1.0) ,(0.0) oil(1.0) companies(1.0) ,(0.0) and(0.0) other(0.0) sectors(1.0) of(0.0) 
+corporate(1.0) America(1.0) to(0.0) work(0.0) in(0.0) the(0.0) Federal(1.0) Government(1.0) for(0.0) up(0.0) to(0.0) 2(0.0) years(0.0) .(0.0) During(0.0) that(0.0) time(0.0) ,(0.0) these(0.0) corporate(1.0) 
+executives(1.0) can(0.0) have(0.0) unrestricted(1.0) access(0.0) to(0.0) sensitive(0.0) government(1.0) databases(0.0) .(0.0) Under(0.0) this(0.0) bill(1.0) ,(0.0) a(0.0) technology(0.0) executive(0.0) from(0.0) Merck(1.0) could(0.0) 
+gain(0.0) access(0.0) to(0.0) the(0.0) confidential(0.0) data(0.0) on(0.0) drug(1.0) prices(1.0) that(0.0) Pfizer(1.0) and(0.0) other(0.0) drug(1.0) companies(1.0) are(0.0) required(0.0) to(0.0) submit(0.0) to(0.0) 
+the(0.0) Department(0.0) of(0.0) Health(0.0) and(0.0) Human(0.0) Services(0.0) .(0.0) Or(0.0) a(0.0) technology(0.0) executive(0.0) from(0.0) Monsanto(1.0) could(0.0) gain(0.0) access(0.0) to(0.0) confidential(0.0) data(0.0) 
+on(0.0) pesticides(1.0) maintained(0.0) by(0.0) the(0.0) Environmental(0.0) Protection(0.0) Agency(0.0) .(0.0) There(0.0) is(0.0) a(0.0) reason(0.0) we(0.0) have(0.0) and(0.0) need(0.0) a(0.0) vigorous(0.0) Federal(1.0) 
+workforce(1.0) .(0.0) The(0.0) Federal(1.0) Government(1.0) is(0.0) a(0.0) repository(0.0) of(0.0) an(0.0) enormous(1.0) amount(0.0) of(0.0) sensitive(0.0) information(0.0) .(0.0) We(0.0) can(0.0) trust(0.0) this(0.0) 
+information(0.0) to(0.0) career(0.0) civil(1.0) servants(1.0) who(0.0) have(0.0) dedicated(0.0) their(0.0) lives(0.0) to(0.0) public(1.0) service(0.0) ,(0.0) but(0.0) can(0.0) we(0.0) trust(0.0) this(0.0) information(0.0) 
+to(0.0) corporate(1.0) executives(1.0) on(0.0) loan(0.0) from(0.0) the(0.0) private(0.0) sector(0.0) ?(0.0) This(0.0) bill(1.0) is(0.0) written(0.0) on(0.0) the(0.0) assumption(1.0) that(0.0) everybody(0.0) will(0.0) 
+be(0.0) honorable(0.0) and(0.0) no(0.0) one(0.0) will(0.0) try(0.0) to(0.0) take(0.0) advantage(0.0) of(0.0) the(0.0) system(0.0) .(0.0) But(0.0) after(0.0) all(0.0) we(0.0) have(0.0) seen(0.0) 
+,(0.0) and(0.0) I(0.0) want(0.0) to(0.0) refer(0.0) to(0.0) the(0.0) Enron(1.0) scandal(1.0) ,(0.0) is(0.0) it(0.0) a(0.0) reasonable(0.0) assumption(0.0) to(0.0) make(0.0) that(0.0) everybody(0.0) 
+is(0.0) going(0.0) to(0.0) do(0.0) the(0.0) proper(0.0) thing(0.0) and(0.0) we(0.0) can(0.0) simply(0.0) trust(0.0) people(0.0) ?(0.0) I(0.0) have(0.0) also(0.0) grave(0.0) concerns(0.0) about(0.0) 
+the(0.0) precedent(1.0) of(0.0) sending(0.0) Federal(1.0) employees(1.0) who(0.0) are(0.0) paid(0.0) by(0.0) the(0.0) taxpayers(1.0) to(0.0) work(0.0) for(0.0) private(0.0) sector(0.0) employers(1.0) for(0.0) up(0.0) 
+to(0.0) 2(0.0) years(0.0) .(0.0) I(0.0) think(0.0) this(0.0) is(0.0) a(0.0) new(0.0) and(0.0) potentially(0.0) egregious(1.0) form(0.0) of(0.0) corporate(1.0) welfare(1.0) .(0.0) Congress(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	
+objections	Virginia	
+Tom	Davis	for	efforts	minority	legislation	
+merits	bill	Virginia	
+concerns	adopt	minority	
+
+Turner	for	all	bill	bill	
+government	
+abuse	
+Federal	ethics	rules	
+workforce	abuses	
+bill	allows	technology	executives	drug	companies	oil	companies	sectors	
+corporate	America	Federal	Government	corporate	
+executives	unrestricted	government	bill	Merck	
+drug	prices	Pfizer	drug	companies	
+Monsanto	
+pesticides	Federal	
+workforce	Federal	Government	enormous	
+civil	servants	public	
+corporate	executives	bill	assumption	
+
+Enron	scandal	
+
+precedent	Federal	employees	taxpayers	employers	
+egregious	corporate	welfare	
+
+reads % = 0.15

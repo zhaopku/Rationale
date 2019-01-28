@@ -1,0 +1,24 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) reclaiming(1.0) my(0.0) time(0.0) ,(0.0) as(0.0) the(0.0) gentleman(0.0) knows(0.0) ,(0.0) I(0.0) worked(0.0) with(0.0) the(0.0) authors(0.0) of(0.0) H.R(0.0) .(0.0) 123(0.0) to(0.0) 
+include(0.0) certain(0.0) sections(0.0) of(0.0) the(0.0) bill(0.0) that(0.0) recognize(0.0) the(0.0) unique(0.0) status(0.0) of(0.0) Native(1.0) Americans(1.0) under(0.0) our(0.0) Constitution(1.0) and(0.0) various(0.0) treaties(1.0) 
+.(0.0) Section(0.0) 167(0.0) of(0.0) H.R(0.0) .(0.0) 123(0.0) explicitly(0.0) states(1.0) ,(0.0) ``(0.0) Nothing(0.0) in(0.0) this(0.0) chapter(0.0) shall(0.0) be(0.0) construed(0.0) to(0.0) limit(0.0) 
+the(0.0) preservation(1.0) or(0.0) use(0.0) of(0.0) Native(1.0) Alaskans(1.0) or(0.0) Native(1.0) American(0.0) languages(0.0) as(0.0) defined(0.0) in(0.0) the(0.0) Native(0.0) American(0.0) Languages(0.0) Act(0.0) .(0.0) 
+''(0.0) Section(0.0) 169(0.0) of(0.0) the(0.0) bill(0.0) further(0.0) states(0.0) that(0.0) the(0.0) measure(0.0) does(0.0) not(0.0) apply(0.0) to(0.0) ``(0.0) the(0.0) teaching(0.0) of(0.0) these(0.0) 
+languages(0.0) .(0.0) ''(0.0) These(0.0) provisions(0.0) were(0.0) added(0.0) at(0.0) my(0.0) behest(0.0) to(0.0) protect(0.0) the(0.0) unique(0.0) obligations(1.0) we(0.0) have(0.0) to(0.0) Native(0.0) Americans(1.0) 
+.(0.0) Again(0.0) ,(0.0) asking(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) ,(0.0) was(0.0) it(0.0) the(0.0) intention(0.0) of(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) York(1.0) ((0.0) 
+Mr.(0.0) Solomon(1.0) )(0.0) to(1.0) protect(1.0) the(0.0) various(0.0) obligations(0.0) of(0.0) our(0.0) native(0.0) people(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+reclaiming	
+Native	Americans	Constitution	treaties	
+states	
+preservation	Native	Alaskans	Native	
+
+obligations	Americans	
+York	
+Solomon	to	protect	
+
+reads % = 0.1038961038961039

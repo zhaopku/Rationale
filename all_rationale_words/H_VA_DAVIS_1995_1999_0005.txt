@@ -1,0 +1,36 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) it(0.0) just(0.0) seems(0.0) to(0.0) me(0.0) that(0.0) the(0.0) health(1.0) ,(0.0) the(0.0) safety(0.0) ,(0.0) the(0.0) environment(0.0) does(0.0) not(0.0) need(0.0) to(0.0) be(0.0) 
+jeopardized(1.0) with(0.0) this(0.0) amendment(1.0) .(0.0) We(0.0) can(0.0) in(0.0) fact(0.0) protect(0.0) that(0.0) .(0.0) We(0.0) can(0.0) give(0.0) our(0.0) regulatory(1.0) agencies(1.0) the(0.0) ultimate(0.0) 
+judgment(0.0) .(0.0) But(0.0) when(0.0) we(0.0) get(0.0) into(0.0) these(0.0) technical(0.0) violations(1.0) ,(0.0) when(0.0) a(0.0) company(0.0) is(0.0) late(0.0) filing(1.0) some(0.0) paperwork(0.0) or(0.0) 
+a(0.0) new(0.0) form(0.0) comes(0.0) in(0.0) that(0.0) maybe(0.0) they(0.0) did(0.0) not(0.0) get(0.0) it(0.0) when(0.0) they(0.0) inquired(0.0) ,(0.0) or(0.0) their(0.0) country(1.0) attorney(1.0) 
+went(0.0) and(0.0) inquired(0.0) and(0.0) did(0.0) not(0.0) know(0.0) about(0.0) ,(0.0) that(0.0) instead(0.0) of(0.0) saying(0.0) ,(0.0) ``(0.0) We(0.0) got(0.0) you(0.0) ,(0.0) you(0.0) 
+owe(1.0) us(0.0) ,(0.0) we(0.0) 're(0.0) going(0.0) to(0.0) put(0.0) you(0.0) out(0.0) of(0.0) business(0.0) and(0.0) we(0.0) 're(0.0) going(0.0) to(0.0) make(0.0) you(0.0) pay(1.0) 
+,(0.0) ''(0.0) that(0.0) we(0.0) can(0.0) work(0.0) with(0.0) these(0.0) small(0.0) companies(0.0) ,(0.0) help(0.0) them(0.0) nurture(0.0) and(0.0) grow(0.0) ,(0.0) help(0.0) employ(0.0) people(0.0) 
+,(0.0) help(0.0) tax(1.0) bases(0.0) in(0.0) these(0.0) small(0.0) communities(1.0) across(0.0) the(0.0) country(1.0) and(0.0) suburban(1.0) areas(0.0) as(0.0) well(0.0) .(0.0) And(0.0) it(0.0) is(0.0) 
+a(0.0) question(0.0) ,(0.0) I(0.0) think(0.0) as(0.0) the(0.0) gentleman(0.0) noted(0.0) ,(0.0) do(0.0) we(0.0) trust(0.0) the(0.0) businesses(1.0) to(0.0) do(0.0) the(0.0) right(0.0) thing(0.0) 
+,(0.0) or(0.0) do(0.0) we(0.0) think(0.0) to(0.0) come(0.0) after(0.0) them(0.0) as(0.0) if(0.0) they(0.0) are(0.0) somehow(0.0) crooks(1.0) to(0.0) begin(0.0) with(0.0) ?(0.0) The(0.0) 
+vast(0.0) majority(1.0) of(0.0) small(0.0) businesses(1.0) are(0.0) trying(0.0) to(0.0) do(0.0) the(0.0) right(0.0) thing(0.0) by(0.0) their(0.0) employees(0.0) ,(0.0) by(0.0) their(0.0) customers(0.0) and(0.0) 
+by(0.0) the(0.0) Federal(1.0) rules(1.0) and(0.0) regulations(1.0) ,(0.0) and(0.0) I(0.0) think(0.0) this(0.0) is(0.0) a(0.0) good(0.0) sound(0.0) amendment(1.0) that(0.0) gets(0.0) to(0.0) the(0.0) 
+crux(1.0) of(0.0) a(0.0) lot(0.0) of(0.0) the(0.0) opposition(1.0) of(0.0) this(0.0) bill(1.0) ,(0.0) and(0.0) I(0.0) congratulate(0.0) the(0.0) gentleman(0.0) and(0.0) hope(0.0) that(0.0) the(0.0) 
+House(0.0) will(0.0) support(0.0) it(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+health	
+jeopardized	amendment	regulatory	agencies	
+violations	filing	
+country	attorney	
+
+owe	pay	
+
+tax	communities	country	suburban	
+businesses	
+crooks	
+majority	businesses	
+Federal	rules	regulations	amendment	
+crux	opposition	bill	
+
+
+reads % = 0.09774436090225563

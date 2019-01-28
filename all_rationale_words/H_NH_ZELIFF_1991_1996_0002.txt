@@ -1,0 +1,40 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Illinois(0.0) ,(0.0) Denny(1.0) Hastert(1.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Florida(0.0) ,(0.0) John(0.0) Mica(1.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) 
+Indiana(0.0) ,(0.0) Mark(0.0) Souder(1.0) ,(0.0) and(0.0) I(0.0) just(0.0) returned(0.0) from(0.0) a(0.0) counternarcotics(0.0) trip(0.0) to(0.0) Mexico(1.0) ,(0.0) Panama(0.0) ,(0.0) Colombia(0.0) ,(0.0) 
+Bolivia(0.0) ,(0.0) and(0.0) Peru(0.0) .(0.0) We(0.0) met(0.0) with(0.0) various(0.0) leaders(0.0) in(0.0) the(0.0) anti-drug(1.0) effort(0.0) ,(0.0) including(0.0) Peru(0.0) 's(0.0) President(0.0) Fujimori(1.0) 
+and(0.0) Colombia's(0.0) National(0.0) Police(0.0) Chief(0.0) Serrano(1.0) .(0.0) We(0.0) also(0.0) met(0.0) the(0.0) brave(0.0) Americans(1.0) from(0.0) several(0.0) of(0.0) our(0.0) Government(1.0) agencies(1.0) in(0.0) 
+those(0.0) countries(1.0) ,(0.0) with(0.0) armed(1.0) patrols(0.0) who(0.0) went(0.0) into(0.0) the(0.0) jungles(0.0) of(0.0) Bolivia(1.0) and(0.0) Peru(0.0) where(0.0) the(0.0) bulk(0.0) of(0.0) the(0.0) 
+world(0.0) 's(0.0) coca(1.0) leaf(0.0) is(0.0) grown(0.0) and(0.0) processed(0.0) in(0.0) primitive(0.0) drug(0.0) labs(0.0) .(0.0) We(0.0) watched(0.0) as(0.0) Bolivian(0.0) antidrug(1.0) units(0.0) destroyed(0.0) 
+a(0.0) pit(0.0) where(0.0) cocaine(1.0) was(0.0) made(0.0) to(0.0) ship(0.0) to(0.0) Colombia(1.0) and(0.0) Mexico(1.0) ,(0.0) and(0.0) then(0.0) be(0.0) shipped(0.0) into(0.0) our(0.0) country(1.0) 
+.(0.0) The(0.0) deadly(1.0) cocaine(1.0) and(0.0) heroin(1.0) destroying(1.0) our(0.0) communities(1.0) starts(0.0) in(0.0) the(0.0) jungle(0.0) and(0.0) ends(0.0) up(0.0) in(0.0) the(0.0) streets(0.0) of(0.0) 
+New(1.0) Hampshire(1.0) .(0.0) We(0.0) have(0.0) people(0.0) risking(0.0) and(0.0) even(0.0) losing(0.0) their(0.0) lives(0.0) on(0.0) the(0.0) front(0.0) line(0.0) .(0.0) We(0.0) need(0.0) to(0.0) 
+get(0.0) a(0.0) commitment(0.0) from(0.0) our(0.0) people(0.0) and(0.0) our(0.0) national(1.0) leaders(0.0) to(0.0) refocus(1.0) our(0.0) efforts(1.0) on(0.0) winning(0.0) this(0.0) war(1.0) .(0.0) Drugs(1.0) 
+and(0.0) crime(1.0) together(0.0) are(0.0) our(0.0) Nation(1.0) 's(0.0) No(0.0) .(0.0) 1(0.0) national(1.0) security(0.0) threat(0.0) .(0.0) We(0.0) need(0.0) to(0.0) get(0.0) everybody(0.0) ,(0.0) 
+from(0.0) the(0.0) President(1.0) and(0.0) Congress(0.0) to(0.0) teachers(0.0) ,(0.0) parents(0.0) ,(0.0) and(0.0) media(0.0) ,(0.0) talking(0.0) about(0.0) this(0.0) threat(1.0) to(0.0) our(0.0) Nation(1.0) 
+.(0.0) We(0.0) also(0.0) need(0.0) a(0.0) plan(0.0) that(0.0) puts(0.0) a(0.0) priority(0.0) on(0.0) educating(1.0) our(0.0) people(0.0) about(0.0) the(0.0) risk(0.0) of(0.0) narcotics(1.0) ,(0.0) 
+that(0.0) includes(0.0) treatment(0.0) for(0.0) those(0.0) who(0.0) are(0.0) already(0.0) addicted(0.0) ,(0.0) as(0.0) well(0.0) as(0.0) sufficient(0.0) funds(1.0) for(0.0) law(1.0) enforcement(1.0) interdiction(1.0) and(0.0) 
+eradication(1.0) .(0.0) We(0.0) can(0.0) win(0.0) the(0.0) war(1.0) on(0.0) drugs(1.0) if(0.0) we(0.0) can(0.0) put(0.0) a(0.0) man(0.0) on(0.0) the(0.0) moon(0.0) .(0.0) We(0.0) 
+need(0.0) to(0.0) get(0.0) moving(0.0) now(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Denny	Hastert	Mica	
+Souder	Mexico	
+anti-drug	Fujimori	
+Serrano	Americans	Government	agencies	
+countries	armed	Bolivia	
+coca	antidrug	
+cocaine	Colombia	Mexico	country	
+deadly	cocaine	heroin	destroying	communities	
+New	Hampshire	
+national	refocus	efforts	war	Drugs	
+crime	Nation	national	
+President	threat	Nation	
+educating	narcotics	
+funds	law	enforcement	interdiction	
+eradication	war	drugs	
+
+
+reads % = 0.15309446254071662

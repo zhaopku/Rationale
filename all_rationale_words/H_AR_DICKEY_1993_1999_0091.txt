@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Of(0.0) course(0.0) that(0.0) employment(1.0) now(0.0) ,(0.0) unemployment(1.0) is(0.0) at(0.0) an(0.0) all-(0.0) time(0.0) low(0.0) for(0.0) an(0.0) all-time(0.0) period(0.0) of(0.0) time(0.0) .(0.0) Now(0.0) 
+I(0.0) do(0.0) not(0.0) understand(0.0) what(0.0) the(0.0) gentleman(0.0) is(0.0) saying(0.0) now(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+employment	unemployment	
+
+
+reads % = 0.0625

@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+3123(1.0) ,(0.0) a(0.0) bill(0.0) that(0.0) will(0.0) extend(0.0) temporary(1.0) immigration(0.0) status(1.0) for(0.0) Liberian(1.0) refugees(1.0) here(0.0) in(0.0) the(0.0) United(0.0) States(0.0) .(0.0) Minnesota(1.0) is(0.0) 
+proud(0.0) to(0.0) be(0.0) the(0.0) home(0.0) of(0.0) over(0.0) 1,000(0.0) Liberian(1.0) refugees(1.0) ,(0.0) people(0.0) who(0.0) have(0.0) became(0.0) our(0.0) friends(0.0) and(0.0) neighbors(0.0) .(0.0) 
+Forcing(1.0) them(0.0) to(0.0) return(0.0) now(0.0) would(0.0) be(0.0) an(0.0) injustice(1.0) to(0.0) not(0.0) only(0.0) the(0.0) Liberians(1.0) themselves(0.0) ,(0.0) but(0.0) to(0.0) everyone(0.0) in(0.0) 
+Minnesota(1.0) who(0.0) has(0.0) come(0.0) to(0.0) care(0.0) for(0.0) their(0.0) welfare(1.0) .(0.0) The(0.0) civil(1.0) war(1.0) that(0.0) shook(0.0) their(0.0) county(1.0) in(0.0) the(0.0) early(0.0) 
+1990s(0.0) left(0.0) 150,000(0.0) people(0.0) dead(0.0) and(0.0) nearly(0.0) a(0.0) million(0.0) others(0.0) displaced(1.0) .(0.0) These(0.0) 1,000(0.0) refugees(1.0) turned(0.0) to(0.0) America(1.0) in(0.0) their(0.0) 
+hour(0.0) of(0.0) need(0.0) ,(0.0) and(0.0) Madam(0.0) Speaker(1.0) ,(0.0) I(0.0) am(0.0) proud(0.0) to(0.0) serve(0.0) in(0.0) the(0.0) Congress(0.0) of(0.0) a(0.0) country(0.0) that(0.0) 
+has(0.0) been(0.0) willing(0.0) to(0.0) help(0.0) these(0.0) individuals(0.0) in(0.0) their(0.0) time(0.0) of(0.0) greatest(0.0) hardship(1.0) .(0.0) It(0.0) has(0.0) been(0.0) well(0.0) over(0.0) a(0.0) 
+decade(0.0) since(0.0) these(0.0) Liberian(1.0) refugees(1.0) sought(0.0) Minnesota(1.0) as(0.0) a(0.0) home(0.0) ,(0.0) and(0.0) since(0.0) then(0.0) they(0.0) have(0.0) become(0.0) upstanding(0.0) citizens(1.0) ,(0.0) 
+an(0.0) important(0.0) part(0.0) of(0.0) the(0.0) fabric(0.0) that(0.0) makes(0.0) up(0.0) our(0.0) communities(1.0) and(0.0) economies(1.0) and(0.0) neighborhoods(1.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) I(0.0) 
+strongly(0.0) request(0.0) that(0.0) my(0.0) colleagues(0.0) join(0.0) me(0.0) in(0.0) supporting(1.0) H.R(0.0) .(0.0) 3121(0.0) 
+
+
+----- below are rationale words -----
+
+temporary	status	Liberian	refugees	Minnesota	
+Liberian	refugees	
+Forcing	injustice	Liberians	
+Minnesota	welfare	civil	war	county	
+displaced	refugees	America	
+Speaker	
+hardship	
+Liberian	refugees	Minnesota	citizens	
+communities	economies	neighborhoods	Speaker	
+supporting	
+
+reads % = 0.15025906735751296

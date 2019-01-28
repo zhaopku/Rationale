@@ -1,0 +1,34 @@
+This is from a Republican
+----- below is the original text -----
+534(0.0) ,(0.0) a(0.0) bill(0.0) that(0.0) allows(0.0) parties(0.0) who(0.0) have(0.0) signed(0.0) motor(0.0) vehicle(0.0) franchise(0.0) contracts(0.0) containing(0.0) arbitration(0.0) clauses(0.0) to(0.0) accept(0.0) or(0.0) reject(0.0) 
+arbitration(0.0) as(0.0) a(0.0) means(0.0) of(0.0) settling(0.0) their(0.0) contractual(0.0) disputes(0.0) .(0.0) Arbitration(0.0) is(0.0) an(0.0) increasingly(0.0) common(0.0) form(0.0) of(0.0) dispute(1.0) settlement(0.0) where(0.0) 
+parties(0.0) submit(0.0) their(0.0) contractual(0.0) claims(0.0) for(0.0) resolution(1.0) by(0.0) a(0.0) neutral(0.0) arbitrator(0.0) .(0.0) Arbitration(0.0) and(0.0) other(0.0) forms(0.0) of(0.0) alternative(0.0) dispute(0.0) resolution(0.0) 
+have(0.0) greatly(0.0) reduced(0.0) formal(0.0) litigation(0.0) costs(0.0) while(0.0) providing(0.0) parties(0.0) with(0.0) a(0.0) fair(0.0) ,(0.0) efficient(0.0) ,(0.0) and(0.0) timely(0.0) venue(0.0) to(0.0) resolve(0.0) 
+their(0.0) disputes(1.0) .(0.0) Some(0.0) parties(0.0) ,(0.0) however(0.0) ,(0.0) claim(0.0) that(0.0) arbitration(1.0) may(0.0) be(0.0) burdensome(1.0) and(0.0) unfair(1.0) .(0.0) Motor(0.0) vehicle(0.0) dealers(0.0) 
+in(0.0) particular(0.0) have(0.0) complained(0.0) that(0.0) manufacturers(0.0) use(0.0) superior(0.0) bargaining(1.0) power(0.0) to(0.0) require(0.0) that(0.0) they(0.0) accept(0.0) nonnegotiable(1.0) franchise(0.0) contracts(1.0) containing(0.0) binding(0.0) 
+arbitration(1.0) clauses(0.0) .(0.0) These(0.0) mandatory(1.0) arbitration(1.0) clauses(0.0) place(0.0) dealers(0.0) in(0.0) the(0.0) position(0.0) of(0.0) having(0.0) to(0.0) forego(0.0) state(1.0) legal(1.0) protections(1.0) designed(0.0) 
+to(0.0) remedy(1.0) the(0.0) bargaining(1.0) imbalance(1.0) between(0.0) dealers(0.0) and(0.0) manufacturers(0.0) .(0.0) H.R(0.0) .(0.0) 534(0.0) addresses(0.0) this(0.0) concern(0.0) by(0.0) allowing(0.0) dealers(0.0) or(0.0) 
+manufacturers(0.0) to(0.0) reject(1.0) arbitration(1.0) and(0.0) seek(0.0) legal(1.0) relief(1.0) for(0.0) breach(1.0) of(0.0) contract(1.0) .(0.0) Since(0.0) passage(1.0) of(0.0) the(0.0) Federal(1.0) Arbitration(1.0) Act(0.0) 
+in(0.0) 1925(0.0) ,(0.0) the(0.0) Congress(0.0) has(0.0) unequivocally(0.0) encouraged(0.0) alternative(1.0) dispute(1.0) resolution(0.0) .(0.0) We(0.0) will(0.0) continue(0.0) to(0.0) do(0.0) so(0.0) .(0.0) However(0.0) 
+,(0.0) we(0.0) must(0.0) also(0.0) periodically(0.0) examine(0.0) the(0.0) efficacy(0.0) of(0.0) binding(0.0) arbitration(1.0) clauses(0.0) in(0.0) exceptional(0.0) circumstances(0.0) to(0.0) ensure(0.0) that(0.0) arbitration(1.0) continues(0.0) 
+to(0.0) serve(0.0) as(0.0) a(0.0) fair(0.0) and(0.0) efficient(0.0) alternative(0.0) to(0.0) formal(0.0) litigation(1.0) .(0.0) H.R(0.0) .(0.0) 534(0.0) addresses(0.0) one(0.0) such(0.0) exceptional(0.0) circumstance(0.0) 
+,(0.0) and(0.0) I(0.0) urge(0.0) your(0.0) support(0.0) of(0.0) the(0.0) bill(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+dispute	
+resolution	
+
+disputes	arbitration	burdensome	unfair	
+bargaining	nonnegotiable	contracts	
+arbitration	mandatory	arbitration	state	legal	protections	
+remedy	bargaining	imbalance	
+reject	arbitration	legal	relief	breach	contract	passage	Federal	Arbitration	
+alternative	dispute	
+arbitration	arbitration	
+litigation	
+bill	
+
+reads % = 0.13147410358565736

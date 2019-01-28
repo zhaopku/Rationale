@@ -1,0 +1,54 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) agree(0.0) to(0.0) the(0.0) resolution(1.0) ((0.0) H.(0.0) Res(1.0) .(0.0) 45(0.0) )(0.0) raising(0.0) awareness(0.0) 
+and(0.0) promoting(0.0) education(1.0) on(0.0) the(0.0) criminal(1.0) justice(1.0) system(0.0) by(0.0) establishing(0.0) March(0.0) as(0.0) ``(0.0) National(0.0) Criminal(0.0) Justice(0.0) Month(0.0) ''(0.0) .(0.0) The(0.0) 
+Clerk(0.0) read(0.0) the(0.0) title(0.0) of(0.0) the(0.0) resolution(0.0) .(0.0) The(0.0) text(0.0) of(0.0) the(0.0) resolution(0.0) is(0.0) as(0.0) follows(0.0) :(0.0) H.(0.0) Res(0.0) .(0.0) 
+45(0.0) Whereas(0.0) there(0.0) are(0.0) approximately(0.0) three(0.0) million(0.0) Americans(0.0) employed(0.0) within(0.0) the(0.0) justice(1.0) system(0.0) ;(0.0) Whereas(0.0) approximately(0.0) seven(0.0) million(0.0) adults(0.0) are(0.0) 
+on(0.0) probation(1.0) ,(0.0) parole(1.0) ,(0.0) or(0.0) are(0.0) incarcerated(1.0) ;(0.0) Whereas(0.0) millions(0.0) of(0.0) Americans(1.0) have(0.0) been(0.0) victims(0.0) of(0.0) crime(1.0) and(0.0) ,(0.0) 
+consequently(0.0) ,(0.0) lost(0.0) income(1.0) ,(0.0) incurred(0.0) medical(0.0) expenses(0.0) ,(0.0) and(0.0) suffered(0.0) emotionally(0.0) ;(0.0) Whereas(0.0) the(0.0) cost(0.0) of(0.0) crime(1.0) to(0.0) individuals(0.0) 
+,(0.0) communities(1.0) ,(0.0) businesses(1.0) ,(0.0) and(0.0) the(0.0) various(0.0) levels(0.0) of(0.0) government(1.0) exceeds(0.0) the(0.0) billions(1.0) of(0.0) dollars(1.0) spent(0.0) each(0.0) year(0.0) in(0.0) 
+administering(1.0) the(0.0) criminal(1.0) justice(1.0) system(0.0) ;(0.0) Whereas(0.0) ,(0.0) in(0.0) 2006(0.0) ,(0.0) fifty(0.0) percent(0.0) of(0.0) Americans(1.0) admitted(0.0) they(0.0) fear(0.0) that(0.0) their(0.0) 
+home(0.0) would(0.0) be(0.0) burglarized(0.0) when(0.0) they(0.0) are(0.0) not(0.0) home(0.0) ;(0.0) thirty-four(0.0) percent(0.0) of(0.0) American(0.0) women(1.0) feared(1.0) that(0.0) they(0.0) would(0.0) be(0.0) 
+sexually(0.0) assaulted(0.0) ;(0.0) and(0.0) forty-four(0.0) percent(0.0) of(0.0) Americans(1.0) feared(1.0) they(0.0) would(0.0) be(0.0) a(0.0) victim(0.0) of(0.0) a(0.0) terrorist(1.0) attack(0.0) ;(0.0) Whereas(0.0) 
+approximately(0.0) thirty-five(0.0) percent(0.0) of(0.0) Americans(1.0) have(0.0) very(0.0) little(0.0) or(0.0) no(0.0) confidence(0.0) in(0.0) the(0.0) criminal(1.0) justice(1.0) system(0.0) and(0.0) the(0.0) negative(0.0) effects(0.0) 
+of(0.0) crime(1.0) in(0.0) regard(1.0) to(0.0) confidence(0.0) in(0.0) governmental(1.0) agencies(1.0) and(0.0) overall(0.0) social(1.0) stability(0.0) are(0.0) immeasurable(1.0) ;(0.0) Whereas(0.0) crime(1.0) rates(1.0) have(0.0) 
+dropped(0.0) since(0.0) the(0.0) early(0.0) 1990s(1.0) ,(0.0) but(0.0) most(0.0) Americans(1.0) believe(0.0) that(0.0) the(0.0) rate(1.0) of(0.0) crime(1.0) is(0.0) increasing(1.0) ;(0.0) Whereas(0.0) Federal(1.0) 
+,(0.0) State(1.0) ,(0.0) and(0.0) local(0.0) governments(1.0) increased(0.0) their(0.0) spending(1.0) for(0.0) police(1.0) protection(1.0) ,(0.0) corrections(1.0) ,(0.0) judicial(1.0) ,(0.0) and(0.0) legal(1.0) activities(0.0) 
+in(0.0) fiscal(1.0) year(0.0) 2005(1.0) by(0.0) 5.5(0.0) percent(0.0) or(0.0) $(0.0) 204(0.0) billion(1.0) ;(0.0) and(0.0) Whereas(0.0) there(0.0) is(0.0) a(0.0) need(0.0) to(0.0) educate(1.0) 
+Americans(1.0) and(0.0) to(0.0) promote(1.0) awareness(1.0) within(0.0) American(0.0) society(1.0) as(0.0) to(0.0) the(0.0) causes(0.0) and(0.0) consequences(1.0) of(0.0) crime(1.0) ,(0.0) as(0.0) well(0.0) as(0.0) 
+the(0.0) strategies(1.0) and(0.0) developments(0.0) for(0.0) preventing(1.0) and(0.0) responding(0.0) to(0.0) crime(1.0) :(0.0) Now(0.0) ,(0.0) therefore(0.0) ,(0.0) be(0.0) it(0.0) Resolved(0.0) ,(0.0) That(0.0) 
+--(0.0) ((0.0) 1(0.0) )(0.0) it(0.0) is(0.0) the(0.0) sense(0.0) of(0.0) the(0.0) House(0.0) of(0.0) Representatives(0.0) that(0.0) --(0.0) ((0.0) A(0.0) )(0.0) National(0.0) Criminal(0.0) 
+Justice(0.0) Month(0.0) provides(0.0) an(0.0) opportunity(0.0) to(0.0) educate(0.0) Americans(1.0) on(0.0) the(0.0) criminal(1.0) justice(1.0) system(0.0) ;(0.0) and(0.0) ((0.0) B(0.0) )(0.0) Americans(0.0) should(0.0) 
+be(0.0) aware(0.0) of(0.0) the(0.0) causes(0.0) and(0.0) consequences(0.0) of(0.0) crime(1.0) ,(0.0) how(0.0) to(0.0) prevent(0.0) crime(1.0) ,(0.0) and(0.0) how(0.0) to(0.0) respond(0.0) to(0.0) 
+crime(1.0) ;(0.0) and(0.0) ((0.0) 2(0.0) )(0.0) the(0.0) House(0.0) of(0.0) Representatives(0.0) urges(1.0) policymakers(1.0) ,(0.0) criminal(1.0) justice(1.0) officials(0.0) ,(0.0) educators(1.0) ,(0.0) victim(1.0) 
+service(0.0) providers(0.0) ,(0.0) nonprofits(1.0) ,(0.0) community(0.0) leaders(0.0) ,(0.0) and(0.0) others(0.0) to(0.0) promote(0.0) awareness(0.0) of(0.0) how(0.0) to(0.0) prevent(0.0) and(0.0) respond(0.0) to(0.0) 
+crime(1.0) through(0.0) National(0.0) Criminal(0.0) Justice(0.0) Month(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+resolution	Res	
+education	criminal	justice	
+
+justice	
+probation	parole	incarcerated	Americans	crime	
+income	crime	
+communities	businesses	government	billions	dollars	
+administering	criminal	justice	Americans	
+women	feared	
+Americans	feared	terrorist	
+Americans	criminal	justice	
+crime	regard	governmental	agencies	social	immeasurable	crime	rates	
+1990s	Americans	rate	crime	increasing	Federal	
+State	governments	spending	police	protection	corrections	judicial	legal	
+fiscal	2005	billion	educate	
+Americans	promote	awareness	society	consequences	crime	
+strategies	preventing	crime	
+
+Americans	criminal	justice	
+crime	crime	
+crime	urges	policymakers	criminal	justice	educators	victim	
+nonprofits	
+crime	
+
+reads % = 0.17633928571428573

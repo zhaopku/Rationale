@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) just(0.0) a(0.0) few(0.0) months(0.0) ago(0.0) ,(0.0) I(0.0) was(0.0) on(0.0) the(0.0) other(0.0) side(0.0) of(0.0) C-(0.0) SPAN(0.0) .(0.0) I(0.0) was(0.0) 
+watching(0.0) what(0.0) was(0.0) going(0.0) on(0.0) .(0.0) I(0.0) was(0.0) only(0.0) elected(0.0) in(0.0) December(0.0) .(0.0) I(0.0) come(0.0) from(0.0) North(0.0) Louisiana(0.0) ,(0.0) where(0.0) 
+people(0.0) respect(0.0) the(0.0) institutions(1.0) ,(0.0) and(0.0) we(0.0) are(0.0) talking(0.0) about(0.0) two(0.0) very(0.0) big(0.0) and(0.0) very(0.0) important(0.0) institutions(1.0) :(0.0) AIG(1.0) ,(0.0) 
+which(0.0) we(0.0) know(0.0) is(0.0) too(0.0) big(0.0) to(0.0) fail(0.0) .(0.0) That(0.0) is(0.0) the(0.0) reason(0.0) why(0.0) we(0.0) have(0.0) been(0.0) bailing(1.0) AIG(1.0) out(0.0) 
+.(0.0) And(0.0) then(0.0) ,(0.0) of(0.0) course(0.0) ,(0.0) our(0.0) Presidency(1.0) and(0.0) Congress(0.0) itself(0.0) .(0.0) I(0.0) guess(0.0) the(0.0) rhetorical(1.0) question(0.0) I(0.0) have(0.0) 
+after(0.0) this(0.0) embarrassment(1.0) ,(0.0) which(0.0) is(0.0) ,(0.0) first(0.0) of(0.0) all(0.0) ,(0.0) how(0.0) did(0.0) this(0.0) screw-up(1.0) happen(0.0) ?(0.0) And(0.0) ,(0.0) where(0.0) 
+is(0.0) that(0.0) person(0.0) or(0.0) persons(0.0) who(0.0) is(0.0) willing(0.0) to(0.0) own(0.0) up(0.0) to(0.0) the(0.0) mistake(0.0) that(0.0) was(0.0) made(0.0) here(0.0) ?(0.0) But(0.0) 
+going(0.0) back(0.0) to(0.0) the(0.0) beginning(0.0) .(0.0) We(0.0) remember(0.0) that(0.0) in(0.0) the(0.0) first(0.0) TARP(1.0) issue(0.0) ,(0.0) money(1.0) was(0.0) of(0.0) course(0.0) dealt(0.0) 
+out(0.0) very(0.0) quickly(0.0) ,(0.0) almost(0.0) overnight(0.0) ,(0.0) as(0.0) a(0.0) result(0.0) of(0.0) the(0.0) need(0.0) or(0.0) perceived(0.0) need(0.0) for(0.0) bailout(1.0) ,(0.0) and(0.0) 
+we(0.0) found(0.0) that(0.0) money(1.0) was(0.0) going(0.0) to(0.0) spas(0.0) in(0.0) California(1.0) ,(0.0) and(0.0) pheasant(1.0) hunting(0.0) in(0.0) the(0.0) U.K.(0.0) That(0.0) should(0.0) have(0.0) 
+at(0.0) least(0.0) given(0.0) us(0.0) some(0.0) warning(0.0) that(0.0) this(0.0) kind(0.0) of(0.0) abuse(1.0) would(0.0) happen(0.0) .(0.0) Then(0.0) ,(0.0) we(0.0) fast(0.0) forward(0.0) .(0.0) 
+We(0.0) released(0.0) the(0.0) money(1.0) again(0.0) ,(0.0) no(0.0) strings(0.0) attached(0.0) ,(0.0) and(0.0) we(0.0) find(0.0) out(0.0) that(0.0) some(0.0) kind(0.0) of(0.0) deal(0.0) was(0.0) 
+struck(0.0) ,(0.0) only(0.0) with(0.0) Democrats(0.0) in(0.0) the(0.0) room(0.0) ,(0.0) that(0.0) first(0.0) put(0.0) in(0.0) and(0.0) of(0.0) course(0.0) then(0.0) took(0.0) out(0.0) in(0.0) 
+conference(0.0) ,(0.0) we(0.0) think(0.0) ,(0.0) this(0.0) very(0.0) important(0.0) clause(1.0) that(0.0) would(0.0) have(0.0) avoided(0.0) bonuses(1.0) ,(0.0) very(0.0) rich(1.0) bonuses(1.0) ,(0.0) over(0.0) 
+$(0.0) 1(0.0) million(0.0) in(0.0) some(0.0) cases(0.0) ,(0.0) to(0.0) people(0.0) who(0.0) were(0.0) part(0.0) of(0.0) the(0.0) problem(0.0) .(0.0) It(0.0) really(0.0) comes(0.0) down(0.0) 
+to(0.0) this(0.0) :(0.0) Is(0.0) it(0.0) incompetency(1.0) ,(0.0) or(0.0) is(0.0) it(0.0) dishonesty(1.0) ?(0.0) I(0.0) think(0.0) that(0.0) is(0.0) the(0.0) second(0.0) question(0.0) that(0.0) 
+we(0.0) have(0.0) to(0.0) answer(0.0) beyond(0.0) who(0.0) was(0.0) involved(0.0) in(0.0) this(0.0) .(0.0) Certainly(0.0) ,(0.0) we(0.0) have(0.0) the(0.0) Secretary(1.0) of(0.0) the(0.0) Treasury(0.0) 
+,(0.0) who(0.0) was(0.0) approved(0.0) under(0.0) dubious(1.0) conditions(0.0) to(0.0) begin(0.0) with(0.0) ,(0.0) having(0.0) somehow(0.0) forgotten(0.0) to(0.0) pay(1.0) or(0.0) perhaps(0.0) incompetently(1.0) did(0.0) 
+not(0.0) pay(0.0) his(0.0) taxes(1.0) .(0.0) And(0.0) then(0.0) he(0.0) was(0.0) up(0.0) to(0.0) his(0.0) hips(0.0) in(0.0) this(0.0) whole(0.0) situation(0.0) with(0.0) the(0.0) bailout(1.0) 
+but(0.0) somehow(0.0) did(0.0) n't(0.0) realize(0.0) that(0.0) this(0.0) clause(1.0) would(0.0) be(0.0) put(0.0) in(0.0) and(0.0) then(0.0) somehow(0.0) jerked(0.0) out(0.0) .(0.0) Even(0.0) the(0.0) 
+administration(1.0) has(0.0) more(0.0) or(0.0) less(0.0) offered(0.0) him(0.0) up(0.0) as(0.0) a(0.0) scapegoat(0.0) by(0.0) saying(0.0) that(0.0) they(0.0) really(0.0) did(0.0) n't(0.0) know(0.0) really(0.0) 
+what(0.0) was(0.0) going(0.0) on(0.0) and(0.0) that(0.0) really(0.0) happened(0.0) on(0.0) his(0.0) watch(0.0) .(0.0) I(0.0) certainly(0.0) think(0.0) first(0.0) and(0.0) foremost(0.0) that(0.0) Mr.(0.0) 
+Geithner(1.0) should(1.0) resign(1.0) .(0.0) I(0.0) think(0.0) he(0.0) has(0.0) done(0.0) enough(0.0) damage(0.0) as(0.0) it(0.0) is(0.0) .(0.0) Also(0.0) today(0.0) there(0.0) was(0.0) a(0.0) 
+disgrace(0.0) in(0.0) the(0.0) House(0.0) where(0.0) we(0.0) had(0.0) rammed(0.0) down(0.0) our(0.0) throats(1.0) a(0.0) stimulus(1.0) bill(1.0) which(1.0) no(1.0) Republican(0.0) supported(1.0) and(1.0) which(0.0) 
+did(0.0) not(0.0) contain(0.0) a(0.0) protective(0.0) measure(0.0) that(0.0) should(0.0) have(0.0) been(0.0) in(0.0) to(0.0) avoid(0.0) these(0.0) disgraceful(1.0) bonuses(1.0) .(0.0) It(0.0) was(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	
+
+institutions	institutions	AIG	
+bailing	AIG	
+Presidency	rhetorical	
+embarrassment	screw-up	
+
+TARP	money	
+bailout	
+money	California	pheasant	
+abuse	
+money	
+
+clause	bonuses	rich	bonuses	
+
+incompetency	dishonesty	
+Secretary	
+dubious	pay	incompetently	
+taxes	bailout	
+clause	
+administration	
+
+Geithner	should	resign	
+throats	stimulus	bill	which	no	supported	and	
+disgraceful	bonuses	
+
+reads % = 0.088

@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) concur(0.0) in(0.0) the(0.0) Senate(0.0) amendment(0.0) to(0.0) the(0.0) bill(0.0) ((1.0) H.R(1.0) .(0.0) 1964(0.0) 
+)(0.0) to(0.0) assist(0.0) the(0.0) States(0.0) of(0.0) Connecticut(1.0) ,(0.0) New(1.0) Jersey(1.0) ,(0.0) New(1.0) York(1.0) ,(0.0) and(0.0) Pennsylvania(1.0) in(0.0) conserving(1.0) priority(0.0) lands(0.0) 
+and(0.0) natural(0.0) resources(0.0) in(0.0) the(0.0) Highlands(0.0) region(0.0) ,(0.0) and(0.0) for(0.0) other(0.0) purposes(0.0) .(0.0) The(0.0) Clerk(0.0) read(0.0) as(0.0) follows(0.0) :(0.0) Senate(0.0) 
+amendment(0.0) :(0.0) Strike(0.0) out(0.0) all(0.0) after(0.0) the(0.0) enacting(0.0) clause(0.0) and(0.0) insert(0.0) :(0.0) SECTION(0.0) 1(0.0) .(0.0) SHORT(0.0) TITLE(0.0) .(0.0) This(0.0) Act(0.0) 
+may(0.0) be(0.0) cited(0.0) as(0.0) the(0.0) ``(0.0) Highlands(0.0) Conservation(0.0) Act(0.0) ''(0.0) .(0.0) SEC(0.0) .(0.0) 2(0.0) .(0.0) PURPOSES(0.0) .(0.0) The(0.0) purposes(0.0) of(0.0) 
+this(0.0) Act(0.0) are(0.0) --(0.0) ((0.0) 1(0.0) )(0.0) to(0.0) recognize(0.0) the(0.0) importance(0.0) of(0.0) the(0.0) water(0.0) ,(0.0) forest(0.0) ,(0.0) agricultural(1.0) ,(0.0) wildlife(0.0) 
+,(0.0) recreational(0.0) ,(0.0) and(0.0) cultural(1.0) resources(0.0) of(0.0) the(0.0) Highlands(0.0) region(0.0) ,(0.0) and(0.0) the(0.0) national(0.0) significance(0.0) of(0.0) the(0.0) Highlands(0.0) region(0.0) to(0.0) 
+the(0.0) United(0.0) States(0.0) ;(0.0) ((0.0) 2(0.0) )(0.0) to(0.0) authorize(0.0) the(0.0) Secretary(0.0) of(0.0) the(0.0) Interior(0.0) to(0.0) work(0.0) in(0.0) partnership(0.0) with(0.0) the(0.0) 
+Secretary(0.0) of(0.0) Agriculture(0.0) to(0.0) provide(0.0) financial(0.0) assistance(0.0) to(0.0) the(0.0) Highlands(0.0) States(0.0) to(0.0) preserve(0.0) and(0.0) protect(0.0) high(0.0) priority(0.0) conservation(1.0) land(0.0) in(0.0) 
+the(0.0) Highlands(0.0) region(0.0) ;(0.0) and(0.0) ((0.0) 3(0.0) )(0.0) to(0.0) continue(0.0) the(0.0) ongoing(0.0) Forest(0.0) Service(0.0) programs(0.0) in(0.0) the(0.0) Highlands(0.0) region(0.0) to(0.0) 
+assist(0.0) the(0.0) Highlands(0.0) States(0.0) ,(0.0) local(0.0) units(0.0) of(0.0) government(0.0) ,(0.0) and(0.0) private(0.0) forest(0.0) and(0.0) farm(0.0) landowners(0.0) in(0.0) the(0.0) conservation(0.0) of(0.0) 
+land(0.0) and(0.0) natural(0.0) resources(0.0) in(0.0) the(0.0) Highlands(0.0) region(0.0) .(0.0) SEC(0.0) .(0.0) 3(0.0) .(0.0) DEFINITIONS(0.0) .(0.0) In(0.0) this(0.0) Act(0.0) :(0.0) ((0.0) 
+1(0.0) )(0.0) Highlands(0.0) region.(0.0) --(0.0) The(0.0) term(0.0) ``(0.0) Highlands(0.0) region(0.0) ''(0.0) means(0.0) the(0.0) area(0.0) depicted(0.0) on(0.0) the(0.0) map(0.0) entitled(0.0) ``(0.0) 
+The(0.0) Highlands(0.0) Region(0.0) ''(0.0) ,(0.0) dated(0.0) June(0.0) 2004(0.0) ,(0.0) including(0.0) the(0.0) list(0.0) of(0.0) municipalities(0.0) included(0.0) in(0.0) the(0.0) Highlands(0.0) region(0.0) ,(0.0) 
+and(0.0) maintained(0.0) in(0.0) the(0.0) headquarters(0.0) of(0.0) the(0.0) Forest(0.0) Service(0.0) in(0.0) Washington(1.0) ,(0.0) District(0.0) of(0.0) Columbia(0.0) .(0.0) ((0.0) 2(0.0) )(0.0) Highlands(0.0) 
+state.(0.0) --(0.0) The(0.0) term(0.0) ``(0.0) Highlands(0.0) State(0.0) ''(0.0) means(0.0) --(0.0) ((0.0) A(0.0) )(0.0) the(0.0) State(0.0) of(0.0) Connecticut(1.0) ;(0.0) ((0.0) B(0.0) 
+)(0.0) the(0.0) State(0.0) of(0.0) New(0.0) Jersey(1.0) ;(0.0) ((0.0) C(0.0) )(0.0) the(0.0) State(0.0) of(0.0) New(0.0) York(1.0) ;(0.0) and(0.0) ((0.0) D(0.0) )(0.0) 
+the(0.0) State(0.0) of(0.0) Pennsylvania(1.0) .(0.0) ((0.0) 3(0.0) )(0.0) Land(0.0) conservation(0.0) partnership(0.0) project.(0.0) --(0.0) The(0.0) term(0.0) ``(0.0) land(0.0) conservation(0.0) partnership(0.0) project(0.0) 
+''(0.0) means(0.0) a(0.0) land(0.0) conservation(0.0) project(0.0) --(0.0) ((0.0) A(0.0) )(0.0) located(0.0) in(0.0) the(0.0) Highlands(0.0) region(0.0) ;(0.0) ((0.0) B(0.0) )(0.0) identified(0.0) 
+by(0.0) the(0.0) Forest(0.0) Service(0.0) in(0.0) the(0.0) Study(0.0) ,(0.0) the(0.0) Update(0.0) ,(0.0) or(0.0) any(0.0) subsequent(0.0) Pennsylvania(1.0) and(0.0) Connecticut(0.0) Update(0.0) as(0.0) having(0.0) 
+high(0.0) conservation(0.0) value(0.0) ;(0.0) and(0.0) ((0.0) C(0.0) )(0.0) in(0.0) which(0.0) a(0.0) non-Federal(0.0) entity(0.0) acquires(0.0) land(0.0) or(0.0) an(0.0) interest(0.0) in(0.0) land(0.0) 
+from(0.0) a(0.0) willing(0.0) seller(0.0) to(0.0) permanently(0.0) protect(0.0) ,(0.0) conserve(0.0) ,(0.0) or(0.0) preserve(0.0) the(0.0) land(0.0) through(0.0) a(0.0) partnership(0.0) with(0.0) the(0.0) Federal(0.0) 
+Government(0.0) .(0.0) ((0.0) 4(0.0) )(0.0) Non-federal(0.0) entity.(0.0) --(0.0) The(0.0) term(0.0) ``(0.0) non-Federal(0.0) entity(0.0) ''(0.0) means(0.0) --(0.0) ((0.0) A(0.0) )(0.0) any(0.0) 
+Highlands(0.0) State(0.0) ;(0.0) or(0.0) ((0.0) B(0.0) )(0.0) any(0.0) agency(0.0) or(0.0) department(0.0) of(0.0) any(0.0) Highlands(0.0) State(0.0) with(0.0) authority(0.0) to(0.0) own(0.0) and(0.0) 
+manage(0.0) land(0.0) for(0.0) conservation(0.0) purposes(0.0) ,(0.0) including(0.0) the(0.0) Palisades(0.0) Interstate(0.0) Park(0.0) Commission(0.0) .(0.0) ((0.0) 5(0.0) )(0.0) Study.(0.0) --(0.0) The(0.0) 
+
+
+----- below are rationale words -----
+
+(	H.R	
+Connecticut	New	Jersey	New	York	Pennsylvania	conserving	
+
+
+
+agricultural	
+cultural	
+
+conservation	
+
+
+
+
+
+Washington	
+Connecticut	
+Jersey	York	
+Pennsylvania	
+
+Pennsylvania	
+
+
+
+
+
+
+reads % = 0.036

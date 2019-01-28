@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) before(0.0) I(0.0) yield(0.0) back(0.0) my(0.0) time(0.0) ,(0.0) I(0.0) would(0.0) just(0.0) say(0.0) that(0.0) I(0.0) think(0.0) the(0.0) gentlelady(0.0) from(0.0) North(0.0) 
+Carolina(0.0) makes(0.0) an(0.0) outstanding(0.0) point(0.0) .(0.0) This(0.0) cap-and-trade/cap-and-tax(0.0) concept(0.0) ,(0.0) all(0.0) you've(0.0) got(0.0) to(0.0) do(0.0) is(0.0) look(0.0) at(0.0) the(0.0) Heritage(0.0) 
+Foundation(0.0) study(0.0) ,(0.0) which(0.0) rank-orders(0.0) all(0.0) 435(0.0) Congressional(0.0) districts(1.0) in(0.0) this(0.0) country(1.0) who(0.0) would(0.0) be(0.0) most(0.0) negatively(0.0) impacted(0.0) ,(0.0) who(0.0) 
+would(0.0) lose(0.0) jobs(0.0) because(0.0) of(0.0) this(0.0) proposal(1.0) .(0.0) And(0.0) it(0.0) hits(0.0) home(0.0) because(0.0) nine(0.0) of(0.0) the(0.0) top(0.0) 10(0.0) most(0.0) affected(0.0) 
+districts(0.0) are(0.0) in(0.0) Ohio(1.0) and(0.0) Indiana(1.0) .(0.0) I(0.0) happen(0.0) to(0.0) represent(0.0) one(0.0) of(0.0) those(0.0) districts(1.0) in(0.0) Ohio(1.0) .(0.0) We(0.0) 'd(0.0) 
+be(0.0) fourth(0.0) hardest(0.0) hit(0.0) in(0.0) the(0.0) country(1.0) .(0.0) It(0.0) does(0.0) n't(0.0) take(0.0) a(0.0) genius(0.0) to(0.0) figure(0.0) out(0.0) if(0.0) you(0.0) are(0.0) 
+heavy(0.0) into(0.0) manufacturing(1.0) ,(0.0) as(0.0) we(0.0) are(0.0) ,(0.0) and(0.0) frankly(0.0) ,(0.0) rely(0.0) on(0.0) coal(1.0) ,(0.0) from(0.0) coal-fired(1.0) plants(0.0) on(0.0) the(0.0) 
+Ohio(1.0) River(0.0) to(0.0) provide(0.0) your(0.0) electricity(1.0) needs(0.0) ,(0.0) you(0.0) 're(0.0) going(0.0) to(0.0) get(0.0) hit(0.0) hard(0.0) .(0.0) This(0.0) is(0.0) a(0.0) terrible(0.0) 
+move(0.0) for(0.0) our(0.0) country(1.0) ,(0.0) but(0.0) it(0.0) will(0.0) have(0.0) disproportionately(1.0) negative(0.0) impacts(0.0) on(0.0) the(0.0) Midwest(1.0) .(0.0) That(0.0) 's(0.0) why(0.0) we(0.0) 
+should(0.0) defeat(1.0) this(0.0) proposal(1.0) .(0.0) With(0.0) that(0.0) ,(0.0) I(0.0) would(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) our(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+districts	country	
+proposal	
+Ohio	Indiana	districts	Ohio	
+country	
+manufacturing	coal	coal-fired	
+Ohio	electricity	
+country	disproportionately	Midwest	
+defeat	proposal	
+
+reads % = 0.09045226130653267

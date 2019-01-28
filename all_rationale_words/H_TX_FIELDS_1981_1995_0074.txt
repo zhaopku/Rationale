@@ -1,0 +1,22 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(1.0) ,(0.0) just(1.0) very(0.0) quickly(0.0) ,(0.0) I(0.0) ask(1.0) the(0.0) gentleman(0.0) if(0.0) he(0.0) concurs(1.0) with(0.0) me(0.0) .(0.0) Two(1.0) examples(1.0) that(0.0) have(0.0) been(0.0) 
+prominently(0.0) used(0.0) in(0.0) this(0.0) particular(0.0) debate(1.0) on(0.0) this(0.0) amendment(1.0) ,(0.0) Barings(1.0) and(0.0) Orange(1.0) County(1.0) .(0.0) If(1.0) we(0.0) apply(0.0) the(0.0) requirements(0.0) 
+of(0.0) Scienter(1.0) under(0.0) this(0.0) particular(0.0) statute(1.0) that(0.0) we(0.0) are(0.0) discussing(0.0) ,(0.0) the(0.0) defendant(1.0) directly(0.0) or(1.0) indirectly(1.0) made(0.0) a(0.0) fraudulent(0.0) statement(0.0) 
+,(0.0) the(0.0) defendant(1.0) possessed(1.0) the(0.0) intention(0.0) to(0.0) deceive(1.0) ,(0.0) manipulate(1.0) ,(0.0) or(1.0) defraud(1.0) ,(0.0) the(0.0) defendant(1.0) made(0.0) such(0.0) fraudulent(0.0) statement(0.0) 
+knowingly(0.0) or(0.0) recklessly(1.0) .(0.0) As(0.0) we(0.0) know(0.0) the(0.0) facts(1.0) of(0.0) these(0.0) two(0.0) particular(0.0) cases(1.0) ,(0.0) in(0.0) these(0.0) two(0.0) particular(0.0) cases(1.0) 
+,(0.0) they(0.0) would(1.0) not(0.0) be(0.0) afforded(1.0) any(1.0) of(0.0) the(0.0) benefits(1.0) under(0.0) the(0.0) statute(1.0) frivolous(0.0) lawsuits(1.0) .(0.0) Is(1.0) that(0.0) the(0.0) gentleman(0.0) 
+'s(0.0) understanding(0.0) ?(1.0) 
+
+
+----- below are rationale words -----
+
+just	ask	concurs	Two	examples	
+debate	amendment	Barings	Orange	County	If	
+Scienter	statute	defendant	or	indirectly	
+defendant	possessed	deceive	manipulate	or	defraud	defendant	
+recklessly	facts	cases	cases	
+would	afforded	any	benefits	statute	lawsuits	Is	
+?	
+
+reads % = 0.28225806451612906

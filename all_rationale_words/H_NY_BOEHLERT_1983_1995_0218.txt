@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) 1(0.0) minute(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Delaware(1.0) [(0.0) Mr.(0.0) Castle(1.0) ](0.0) ,(0.0) another(0.0) Republican(0.0) leader(1.0) in(1.0) the(1.0) 
+environmental(1.0) movement(1.0) and(1.0) former(1.0) Governor(0.0) of(0.0) Delaware(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Delaware	Castle	leader	in	the	
+environmental	movement	and	former	Delaware	
+
+reads % = 0.3448275862068966

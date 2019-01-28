@@ -1,0 +1,34 @@
+This is from a Republican
+----- below is the original text -----
+H.R(1.0) .(0.0) 1995(0.0) ,(0.0) the(0.0) Eliminating(1.0) Disparities(1.0) in(0.0) Diabetes(1.0) Prevention(0.0) and(0.0) Access(0.0) and(0.0) Care(0.0) Act(0.0) ,(0.0) would(0.0) authorize(0.0) a(0.0) study(0.0) on(0.0) 
+how(0.0) diabetes(0.0) affects(0.0) those(0.0) with(0.0) health(1.0) disparities(1.0) .(0.0) Diabetes(1.0) affects(0.0) an(0.0) estimated(0.0) 24(0.0) million(0.0) Americans(1.0) .(0.0) Approximately(0.0) 57(0.0) million(0.0) Americans(1.0) 
+have(0.0) a(0.0) pre-diabetic(0.0) condition(0.0) .(0.0) Type(0.0) 1(0.0) diabetes(1.0) is(0.0) a(0.0) disease(0.0) which(0.0) results(0.0) from(0.0) the(0.0) body(0.0) 's(0.0) failure(0.0) to(0.0) produce(0.0) 
+insulin(0.0) .(0.0) Type(0.0) 2(0.0) diabetes(1.0) ,(0.0) which(0.0) is(0.0) far(0.0) more(0.0) common(0.0) ,(0.0) results(0.0) from(0.0) the(0.0) body(0.0) 's(0.0) inability(0.0) to(0.0) make(0.0) 
+enough(0.0) insulin(0.0) or(0.0) properly(0.0) use(0.0) insulin(0.0) ,(0.0) or(0.0) the(0.0) body(0.0) is(0.0) peripherally(0.0) resistant(0.0) to(0.0) insulin(0.0) .(0.0) According(0.0) to(0.0) the(0.0) World(0.0) 
+Health(0.0) Organization(0.0) ,(0.0) an(0.0) astonishing(0.0) 6(0.0) percent(0.0) of(0.0) the(0.0) world(0.0) 's(0.0) population(0.0) is(0.0) affected(0.0) with(0.0) diabetes(1.0) ,(0.0) causing(0.0) six(0.0) deaths(1.0) 
+every(0.0) minute(0.0) and(0.0) 3.2(0.0) million(1.0) deaths(1.0) yearly(1.0) .(0.0) In(0.0) the(0.0) United(0.0) States(0.0) we(0.0) spend(1.0) well(0.0) over(0.0) $(0.0) 200(0.0) billion(1.0) a(0.0) 
+year(0.0) on(0.0) diabetes(1.0) ,(0.0) yet(0.0) the(0.0) 2006(0.0) diabetes(1.0) mortality(1.0) rate(1.0) for(0.0) Texas(1.0) was(0.0) 27(0.0) deaths(1.0) per(0.0) 100,000(0.0) persons(0.0) .(0.0) For(0.0) 
+my(0.0) Hispanic(1.0) and(0.0) African(1.0) American(0.0) constituents(1.0) ,(0.0) the(0.0) rate(0.0) was(0.0) 42(0.0) and(0.0) 49(0.0) per(0.0) 100,000(0.0) ;(0.0) 1.7(0.0) million(0.0) Texans(1.0) over(0.0) 
+18(0.0) years(0.0) old(0.0) have(0.0) diabetes(0.0) ,(0.0) and(0.0) it(0.0) is(0.0) our(0.0) State(1.0) 's(0.0) sixth(0.0) leading(0.0) cause(0.0) of(0.0) death(0.0) .(0.0) This(0.0) bill(1.0) 
+would(1.0) allow(0.0) us(0.0) to(0.0) understand(0.0) if(0.0) minorities(1.0) have(0.0) a(0.0) higher(0.0) prevalence(0.0) of(0.0) type(0.0) 2(0.0) diabetes(0.0) ,(0.0) understand(0.0) the(0.0) reason(0.0) for(0.0) 
+that(0.0) higher(0.0) rate(1.0) ,(0.0) and(0.0) begin(0.0) to(0.0) provide(0.0) some(0.0) relief(1.0) for(0.0) this(0.0) condition(0.0) .(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) 
+this(0.0) bill(1.0) .(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Eliminating	Disparities	Diabetes	
+health	disparities	Diabetes	Americans	Americans	
+diabetes	
+diabetes	
+
+diabetes	deaths	
+million	deaths	yearly	spend	billion	
+diabetes	diabetes	mortality	rate	Texas	deaths	
+Hispanic	African	constituents	Texans	
+State	bill	
+would	minorities	
+rate	relief	
+bill	
+
+reads % = 0.13438735177865613

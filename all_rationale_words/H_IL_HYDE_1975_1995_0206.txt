@@ -1,0 +1,36 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) 33(0.0) States(0.0) have(0.0) abolished(0.0) joint(0.0) and(0.0) several(0.0) liability(0.0) .(0.0) That(0.0) is(0.0) the(0.0) problem(0.0) .(0.0) There(0.0) are(0.0) 33(0.0) different(0.0) 
+laws(1.0) ,(0.0) different(0.0) methods(0.0) of(0.0) avoiding(0.0) and(0.0) evading(1.0) joint(0.0) and(0.0) several(0.0) liability(1.0) ,(0.0) which(0.0) is(0.0) very(0.0) unfair(1.0) .(0.0) The(0.0) serious(0.0) 
+problem(0.0) of(0.0) inconsistency(1.0) in(0.0) the(0.0) tort(1.0) laws(1.0) of(0.0) the(0.0) 50(0.0) States(0.0) is(0.0) there(0.0) .(0.0) This(0.0) seeks(1.0) uniformity(1.0) ,(0.0) which(0.0) makes(0.0) 
+legal(1.0) common(0.0) sense(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) let(0.0) me(0.0) briefly(0.0) address(0.0) the(0.0) federalism(1.0) aspect(0.0) that(0.0) I(0.0) have(0.0) heard(0.0) so(0.0) much(0.0) 
+about(0.0) today(0.0) .(0.0) I(0.0) have(0.0) heard(0.0) from(0.0) Members(0.0) on(0.0) our(0.0) side(0.0) of(0.0) the(0.0) aisle(0.0) who(0.0) are(0.0) troubled(0.0) by(0.0) our(0.0) preempting(1.0) 
+of(0.0) State(0.0) laws(1.0) .(0.0) They(0.0) insist(0.0) that(0.0) the(0.0) States(0.0) are(0.0) important(0.0) and(0.0) should(0.0) not(0.0) be(0.0) administrative(0.0) districts(0.0) of(0.0) the(0.0) Federal(1.0) 
+Government(1.0) .(0.0) I(0.0) just(0.0) want(0.0) them(0.0) to(0.0) know(0.0) what(0.0) the(0.0) passing(0.0) of(0.0) time(0.0) has(0.0) done(0.0) to(0.0) that(0.0) notion(1.0) .(0.0) We(0.0) 
+have(0.0) the(0.0) Environmental(0.0) Protection(0.0) Agency(0.0) ,(0.0) Food(1.0) and(0.0) Drug(0.0) Administration(0.0) ,(0.0) Occupational(1.0) Safety(0.0) and(0.0) Health(0.0) Administration(0.0) ,(0.0) Consumer(0.0) Product(0.0) Safety(0.0) 
+Commission(0.0) ,(0.0) Equal(1.0) Employment(1.0) Opportunity(1.0) Commission(0.0) ,(0.0) National(0.0) Labor(1.0) Relations(0.0) Board(0.0) ,(0.0) Federal(1.0) Trade(1.0) Commission(0.0) ,(0.0) Federal(0.0) Energy(1.0) Regulatory(1.0) Commission(0.0) 
+,(0.0) the(0.0) Securities(0.0) and(0.0) Exchange(0.0) Commission(0.0) ,(0.0) the(0.0) Commodities(0.0) Futures(0.0) Trading(0.0) Commission(0.0) .(0.0) Every(0.0) aspect(0.0) of(0.0) life(0.0) is(0.0) regulated(0.0) by(0.0) 
+the(0.0) Federal(0.0) Government(1.0) .(0.0) I(0.0) have(0.0) not(0.0) mentioned(0.0) the(0.0) Americans(1.0) with(0.0) Disabilities(1.0) Act(0.0) ,(0.0) ERISA(1.0) .(0.0) The(0.0) only(0.0) facet(0.0) of(0.0) 
+our(0.0) great(0.0) economy(1.0) that(0.0) is(0.0) left(0.0) untouched(0.0) is(0.0) the(0.0) multibillion-dollar(1.0) litigation(1.0) industry(1.0) .(0.0) It(0.0) seems(0.0) to(0.0) me(0.0) it(0.0) is(0.0) eminently(0.0) 
+justified(1.0) that(0.0) we(0.0) try(0.0) to(0.0) put(0.0) some(0.0) common(0.0) sense(0.0) and(0.0) rationality(1.0) ,(0.0) predictability(1.0) ,(0.0) into(0.0) this(0.0) big(0.0) business(0.0) of(0.0) lawsuits(1.0) 
+.(0.0) That(0.0) is(0.0) what(0.0) the(0.0) gentleman(0.0) is(0.0) trying(0.0) to(0.0) do(0.0) .(0.0) I(0.0) support(0.0) it(0.0) wholeheartedly(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	
+laws	evading	liability	unfair	
+inconsistency	tort	laws	seeks	uniformity	
+legal	Chairman	federalism	
+preempting	
+laws	Federal	
+Government	notion	
+Food	Occupational	
+Equal	Employment	Opportunity	Labor	Federal	Trade	Energy	Regulatory	
+
+Government	Americans	Disabilities	ERISA	
+economy	multibillion-dollar	litigation	industry	
+justified	rationality	predictability	lawsuits	
+
+
+reads % = 0.1444043321299639

@@ -1,0 +1,24 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) to(0.0) honor(0.0) the(0.0) heroic(1.0) efforts(0.0) of(0.0) Specialist(0.0) Fourth(0.0) Class(0.0) Frank(0.0) A.(1.0) Herda(1.0) of(0.0) the(0.0) United(0.0) States(0.0) 
+Army(0.0) .(0.0) Specialist(0.0) Herda(1.0) was(0.0) with(0.0) Company(0.0) A(0.0) ,(0.0) 506th(0.0) Infantry(0.0) Regiment(0.0) of(0.0) the(0.0) 101st(0.0) Airborne(0.0) Division(0.0) and(0.0) was(0.0) awarded(0.0) 
+the(0.0) Medal(0.0) of(0.0) Honor(0.0) for(0.0) extreme(0.0) bravery(0.0) in(0.0) action(0.0) on(0.0) January(0.0) 29(0.0) ,(0.0) 1968(0.0) ,(0.0) in(0.0) Vietnam(0.0) .(0.0) When(0.0) five(0.0) 
+enemy(0.0) soldiers(0.0) charged(0.0) the(0.0) position(0.0) held(0.0) by(0.0) Specialist(0.0) Herda(1.0) and(0.0) two(0.0) fellow(0.0) soldiers(0.0) ,(0.0) one(0.0) of(0.0) the(0.0) attacker(0.0) 's(0.0) grenades(0.0) 
+landed(0.0) amongst(0.0) the(0.0) men(0.0) .(0.0) Without(0.0) hesitating(0.0) ,(0.0) Specialist(0.0) Herda(1.0) threw(1.0) himself(0.0) on(0.0) it(0.0) ,(0.0) shielding(0.0) the(0.0) blast(0.0) with(0.0) his(0.0) 
+body(0.0) .(0.0) Specialist(0.0) Herda(1.0) 's(0.0) valiant(0.0) and(0.0) selfless(0.0) actions(0.0) saved(0.0) the(0.0) lives(0.0) of(0.0) his(0.0) two(0.0) comrades(0.0) .(0.0) For(0.0) his(0.0) extraordinary(0.0) 
+bravery(0.0) and(0.0) commitment(0.0) ,(0.0) I(0.0) am(0.0) proud(0.0) today(0.0) to(0.0) honor(0.0) and(0.0) remember(0.0) the(0.0) actions(0.0) of(0.0) Specialist(0.0) Frank(0.0) A.(1.0) Herda(1.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+heroic	A.	Herda	
+Herda	
+
+Herda	
+Herda	threw	
+Herda	
+A.	Herda	
+
+
+reads % = 0.07092198581560284

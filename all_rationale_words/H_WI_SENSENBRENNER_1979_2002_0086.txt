@@ -1,0 +1,44 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) again(0.0) ,(0.0) I(0.0) am(0.0) not(0.0) opposed(0.0) 
+to(0.0) this(0.0) motion(1.0) to(0.0) instruct(0.0) ,(0.0) but(0.0) I(0.0) think(0.0) that(0.0) everybody(0.0) ought(1.0) to(0.0) know(0.0) what(0.0) section(0.0) 1071(1.0) of(0.0) the(0.0) Senate(0.0) 
+bill(0.0) leaves(1.0) out(0.0) which(0.0) is(0.0) in(0.0) the(0.0) agreed-upon(0.0) provision(0.0) relative(0.0) to(0.0) family(0.0) farms(0.0) in(0.0) the(0.0) House-Senate(1.0) compromise(1.0) and(0.0) the(0.0) bankruptcy(1.0) 
+bill(0.0) .(0.0) First(0.0) of(0.0) all(0.0) ,(0.0) both(0.0) 1071(1.0) and(0.0) the(0.0) compromise(1.0) make(0.0) Chapter(0.0) 12(0.0) permanent(0.0) .(0.0) But(0.0) what(0.0) 1071(0.0) does(0.0) 
+not(0.0) do(0.0) is(0.0) to(0.0) increase(1.0) the(0.0) debt(1.0) limits(1.0) and(0.0) index(0.0) that(0.0) debt(1.0) limit(1.0) to(0.0) inflation(1.0) .(0.0) What(0.0) is(0.0) being(0.0) proposed(0.0) 
+in(0.0) the(0.0) Senate(1.0) version(0.0) of(0.0) the(0.0) farm(0.0) bill(0.0) is(0.0) going(0.0) to(0.0) have(0.0) the(0.0) debt(1.0) limit(1.0) be(0.0) frozen(0.0) on(0.0) what(0.0) it(0.0) 
+is(0.0) now(0.0) .(0.0) There(0.0) also(0.0) is(0.0) a(0.0) provision(0.0) in(0.0) the(0.0) compromise(1.0) that(0.0) makes(0.0) more(0.0) flexible(0.0) the(0.0) percentage(1.0) of(0.0) income(1.0) derived(0.0) 
+from(0.0) farming(1.0) for(0.0) both(0.0) spouses(1.0) .(0.0) And(0.0) where(0.0) one(0.0) spouse(0.0) works(0.0) on(0.0) the(0.0) farm(0.0) and(0.0) another(0.0) spouse(0.0) has(0.0) got(0.0) a(0.0) 
+job(0.0) off(0.0) the(0.0) farm(0.0) ,(0.0) the(0.0) current(0.0) law(1.0) which(0.0) they(0.0) are(0.0) proposing(1.0) to(0.0) make(0.0) permanent(1.0) without(0.0) any(0.0) improvements(0.0) ,(0.0) is(0.0) 
+going(0.0) to(0.0) make(0.0) these(0.0) types(0.0) of(0.0) farmers(1.0) ineligible(1.0) for(0.0) Chapter(0.0) 12(0.0) ,(0.0) and(0.0) they(0.0) will(0.0) have(0.0) to(0.0) go(0.0) to(0.0) either(0.0) 
+Chapter(0.0) 11(0.0) or(0.0) Chapter(0.0) 13(0.0) .(0.0) One(0.0) of(0.0) the(0.0) improvements(0.0) that(0.0) has(0.0) been(0.0) agreed(0.0) to(0.0) in(0.0) the(0.0) bankruptcy(1.0) conference(0.0) is(0.0) 
+a(0.0) prohibition(1.0) on(0.0) the(0.0) retroactive(1.0) assessment(0.0) of(0.0) disposable(0.0) income(1.0) ,(0.0) not(0.0) in(0.0) section(0.0) 1071(0.0) ;(0.0) and(0.0) finally(0.0) ,(0.0) the(0.0) House-Senate(1.0) 
+bankruptcy(1.0) conference(0.0) has(0.0) agreed(0.0) to(0.0) include(0.0) family(0.0) fishermen(0.0) under(0.0) Chapter(0.0) 12(0.0) which(0.0) is(0.0) not(0.0) in(0.0) section(0.0) 1071(0.0) .(0.0) So(0.0) even(0.0) 
+though(0.0) I(0.0) am(0.0) supporting(0.0) the(0.0) gentleman(0.0) 's(0.0) motion(0.0) ,(0.0) I(0.0) would(0.0) really(0.0) hope(0.0) that(0.0) the(0.0) proponents(1.0) of(0.0) this(0.0) motion(1.0) would(0.0) 
+start(0.0) putting(0.0) pressure(1.0) on(0.0) the(0.0) conferees(0.0) over(0.0) in(0.0) the(0.0) other(0.0) side(0.0) on(0.0) the(0.0) bankruptcy(1.0) bill(1.0) because(1.0) we(0.0) can(0.0) make(0.0) Chapter(0.0) 
+12(0.0) much(0.0) better(0.0) by(0.0) using(0.0) the(0.0) bankruptcy(1.0) bill(1.0) as(1.0) a(0.0) vehicle(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) such(0.0) time(0.0) as(0.0) 
+he(0.0) may(0.0) consume(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Pennsylvania(1.0) ((0.0) Mr.(0.0) Gekas(1.0) )(0.0) ,(0.0) the(0.0) principal(0.0) author(0.0) of(0.0) the(0.0) bankruptcy(0.0) bill(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	
+motion	ought	1071	
+leaves	House-Senate	compromise	bankruptcy	
+1071	compromise	
+increase	debt	limits	debt	limit	inflation	
+Senate	debt	limit	
+compromise	percentage	income	
+farming	spouses	
+law	proposing	permanent	
+farmers	ineligible	
+bankruptcy	
+prohibition	retroactive	income	House-Senate	
+bankruptcy	
+proponents	motion	
+pressure	bankruptcy	bill	because	
+bankruptcy	bill	as	Speaker	
+Pennsylvania	Gekas	
+
+
+reads % = 0.13742690058479531

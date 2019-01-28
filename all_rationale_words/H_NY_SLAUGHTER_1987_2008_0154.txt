@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) ask(0.0) unanimous(1.0) consent(0.0) that(0.0) all(0.0) Members(0.0) have(0.0) 5(0.0) legislative(0.0) days(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) their(0.0) remarks(0.0) on(0.0) the(0.0) 
+subject(0.0) of(0.0) the(0.0) resolution(1.0) just(0.0) adopted(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+unanimous	
+resolution	adopted	
+
+reads % = 0.10714285714285714

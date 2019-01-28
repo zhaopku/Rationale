@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) yield(0.0) 1(0.0) minute(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) ((0.0) Mr.(0.0) LaMalfa(1.0) )(0.0) .(0.0) Mr.(0.0) LaMALFA(1.0) Mr.(0.0) Chairman(1.0) ,(0.0) 
+the(0.0) changes(0.0) made(0.0) to(0.0) SNAP(1.0) are(0.0) directed(0.0) at(0.0) reducing(0.0) fraud(1.0) ,(0.0) not(0.0) at(0.0) those(0.0) in(0.0) true(0.0) need(0.0) .(0.0) And(0.0) affecting(0.0) 
+inefficiencies(1.0) that(0.0) we(0.0) 've(0.0) been(0.0) dealing(0.0) with(0.0) for(0.0) years(0.0) ,(0.0) we(0.0) have(0.0) a(0.0) chance(0.0) to(0.0) affect(0.0) those(0.0) inefficiencies(1.0) right(0.0) now(0.0) 
+in(0.0) this(0.0) year(0.0) 's(0.0) farm(0.0) bill(0.0) ,(0.0) not(0.0) 5(0.0) years(0.0) from(0.0) now(0.0) .(0.0) Without(0.0) the(0.0) changes(0.0) proposed(1.0) by(0.0) the(0.0) committee(0.0) 
+,(0.0) and(0.0) made(0.0) with(0.0) bipartisan(1.0) support(1.0) ,(0.0) Congress(0.0) tells(1.0) the(0.0) American(0.0) people(0.0) that(0.0) taxpayers(1.0) should(0.0) support(0.0) fraudulent(1.0) payments(1.0) .(0.0) Are(0.0) 
+we(0.0) seriously(0.0) debating(1.0) a(0.0) 2(0.0) percent(0.0) reduction(1.0) that(0.0) centers(1.0) on(0.0) fraud(1.0) elimination(1.0) and(0.0) ensuring(0.0) that(0.0) those(0.0) we(0.0) help(0.0) actually(0.0) qualify(1.0) 
+?(0.0) This(0.0) farm(0.0) bill(0.0) eliminates(1.0) advertising(1.0) for(0.0) food(1.0) stamps(0.0) ,(0.0) eliminates(0.0) recruitment(0.0) bonuses(0.0) and(0.0) payments(0.0) to(0.0) lottery(1.0) winners(0.0) ,(0.0) all(0.0) 
+of(0.0) which(0.0) divert(0.0) funds(1.0) away(0.0) from(0.0) the(0.0) program(0.0) 's(0.0) actual(0.0) goal(0.0) .(0.0) Any(0.0) individual(0.0) can(0.0) apply(0.0) or(0.0) reapply(0.0) by(0.0) simply(0.0) 
+meeting(0.0) the(0.0) income(1.0) and(0.0) asset(0.0) requirements(0.0) .(0.0) These(0.0) are(0.0) simple(0.0) ,(0.0) commonsense(1.0) reforms(1.0) that(0.0) save(0.0) taxpayers(1.0) billions(1.0) and(0.0) continue(0.0) to(0.0) 
+protect(1.0) those(0.0) truly(0.0) in(0.0) need(0.0) .(0.0) I(0.0) ask(0.0) my(0.0) colleagues(0.0) to(0.0) oppose(1.0) this(0.0) amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+LaMalfa	LaMALFA	Chairman	
+SNAP	fraud	
+inefficiencies	inefficiencies	
+proposed	
+bipartisan	support	tells	taxpayers	fraudulent	payments	
+debating	reduction	centers	fraud	elimination	qualify	
+eliminates	advertising	food	lottery	
+funds	
+income	commonsense	reforms	taxpayers	billions	
+protect	oppose	amendment	
+
+reads % = 0.1683673469387755

@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) by(0.0) direction(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Rules(0.0) ,(0.0) I(0.0) call(0.0) up(0.0) House(0.0) Resolution(0.0) 516(1.0) and(0.0) ask(0.0) for(0.0) its(0.0) immediate(0.0) 
+consideration(0.0) .(0.0) The(0.0) Clerk(1.0) read(1.0) the(0.0) resolution(0.0) ,(0.0) as(0.0) follows(1.0) :(0.0) H.(0.0) Res(0.0) .(0.0) 516(1.0) Resolved(0.0) ,(0.0) That(0.0) at(0.0) any(1.0) 
+time(0.0) after(0.0) the(0.0) adoption(1.0) of(0.0) this(0.0) resolution(0.0) the(0.0) Speaker(1.0) may(0.0) ,(0.0) pursuant(1.0) to(0.0) clause(1.0) 1(0.0) ((0.0) b(1.0) )(0.0) of(0.0) rule(0.0) 
+XXIII(0.0) ,(0.0) declare(1.0) the(0.0) House(0.0) resolved(1.0) into(0.0) the(0.0) Committee(0.0) of(0.0) the(0.0) Whole(0.0) House(0.0) on(0.0) the(0.0) state(0.0) of(0.0) the(0.0) Union(1.0) for(0.0) 
+consideration(0.0) of(0.0) the(0.0) bill(0.0) ((0.0) H.R(0.0) .(0.0) 3892(1.0) )(0.0) to(0.0) amend(1.0) the(0.0) Elementary(0.0) and(0.0) Secondary(0.0) Education(0.0) Act(0.0) of(0.0) 1965(0.0) to(0.0) 
+establish(1.0) a(0.0) program(0.0) to(0.0) help(0.0) children(0.0) and(0.0) youth(0.0) learn(0.0) English(0.0) ,(0.0) and(0.0) for(0.0) other(0.0) purposes(0.0) .(0.0) The(0.0) first(0.0) reading(0.0) of(0.0) 
+the(0.0) bill(0.0) shall(0.0) be(0.0) dispensed(1.0) with(0.0) .(0.0) General(1.0) debate(0.0) shall(1.0) be(0.0) confined(1.0) to(0.0) the(0.0) bill(0.0) and(0.0) shall(1.0) not(0.0) exceed(0.0) one(0.0) 
+hour(0.0) equally(1.0) divided(1.0) and(0.0) controlled(1.0) by(0.0) the(0.0) chairman(1.0) and(0.0) ranking(1.0) minority(0.0) member(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Education(0.0) and(0.0) the(0.0) Workforce(1.0) 
+.(0.0) After(0.0) general(0.0) debate(1.0) the(0.0) bill(0.0) shall(0.0) be(0.0) considered(0.0) for(0.0) amendment(1.0) under(0.0) the(1.0) five-minute(1.0) rule(0.0) for(0.0) a(0.0) period(0.0) not(1.0) to(0.0) 
+exceed(1.0) three(0.0) hours(0.0) and(0.0) ,(0.0) thereafter(1.0) ,(0.0) as(0.0) provided(0.0) in(0.0) section(0.0) 2(0.0) of(0.0) this(0.0) resolution(0.0) .(0.0) It(1.0) shall(1.0) be(0.0) in(0.0) 
+order(0.0) to(0.0) consider(0.0) as(0.0) an(0.0) original(0.0) bill(0.0) for(0.0) the(0.0) purpose(0.0) of(0.0) amendment(1.0) under(0.0) the(0.0) five-(0.0) minute(1.0) rule(0.0) the(0.0) amendment(1.0) in(0.0) 
+the(0.0) nature(0.0) of(0.0) a(0.0) substitute(1.0) recommended(0.0) by(0.0) the(0.0) Committee(0.0) on(0.0) Education(1.0) and(0.0) the(0.0) Workforce(1.0) now(0.0) printed(1.0) in(0.0) the(0.0) bill(0.0) .(0.0) 
+The(0.0) committee(0.0) amendment(1.0) in(0.0) the(0.0) nature(0.0) of(0.0) a(0.0) substitute(1.0) shall(1.0) be(0.0) considered(0.0) as(0.0) read(0.0) .(0.0) Before(0.0) consideration(0.0) of(0.0) any(1.0) other(0.0) 
+amendment(1.0) it(0.0) shall(1.0) be(0.0) in(0.0) order(0.0) to(0.0) consider(0.0) the(0.0) amendment(1.0) printed(1.0) in(0.0) the(0.0) Congressional(1.0) Record(1.0) and(0.0) numbered(1.0) 1(0.0) pursuant(1.0) to(0.0) 
+clause(1.0) 6(0.0) of(0.0) rule(0.0) XXIII(0.0) ,(0.0) if(0.0) offered(0.0) by(0.0) Representative(1.0) Riggs(1.0) of(0.0) California(0.0) or(1.0) his(0.0) designee(1.0) .(0.0) That(0.0) amendment(1.0) shall(1.0) 
+be(0.0) considered(0.0) as(0.0) read(1.0) ,(0.0) be(0.0) debatable(1.0) for(0.0) 10(0.0) minutes(1.0) equally(1.0) divided(1.0) and(0.0) controlled(1.0) by(0.0) the(0.0) proponent(1.0) and(0.0) an(0.0) opponent(1.0) 
+,(0.0) shall(1.0) not(0.0) be(0.0) subject(0.0) to(0.0) amendment(1.0) ,(0.0) and(0.0) shall(0.0) not(0.0) be(0.0) subject(0.0) to(0.0) a(0.0) demand(0.0) for(0.0) division(1.0) of(0.0) the(0.0) 
+question(1.0) in(0.0) the(0.0) House(0.0) or(1.0) in(0.0) the(0.0) Committee(0.0) of(0.0) the(0.0) Whole(0.0) .(0.0) If(1.0) that(0.0) amendment(1.0) is(0.0) adopted(1.0) ,(0.0) the(0.0) provisions(0.0) 
+of(0.0) the(0.0) amendment(1.0) in(0.0) the(0.0) nature(0.0) of(0.0) a(0.0) substitute(1.0) as(0.0) then(0.0) perfected(1.0) shall(1.0) be(0.0) considered(0.0) as(0.0) original(0.0) text(1.0) for(0.0) the(0.0) 
+purpose(0.0) of(0.0) further(0.0) amendment(1.0) under(0.0) the(0.0) five-(0.0) minute(1.0) rule(0.0) .(0.0) After(0.0) disposition(0.0) of(0.0) the(0.0) amendment(1.0) numbered(1.0) 1(0.0) ,(0.0) it(0.0) shall(1.0) 
+be(0.0) in(0.0) order(0.0) to(0.0) consider(0.0) the(0.0) amendment(1.0) printed(1.0) in(0.0) the(0.0) Congressional(1.0) Record(1.0) and(0.0) numbered(1.0) 2(0.0) pursuant(1.0) to(0.0) clause(1.0) 6(0.0) of(0.0) 
+rule(0.0) XXIII(0.0) ,(0.0) if(0.0) offered(0.0) by(0.0) Representative(1.0) Riggs(1.0) of(0.0) California(0.0) or(1.0) his(0.0) designee(1.0) ,(0.0) which(0.0) shall(1.0) be(0.0) considered(0.0) as(0.0) read(1.0) 
+.(0.0) That(0.0) amendment(1.0) and(0.0) all(0.0) amendments(0.0) thereto(1.0) shall(0.0) be(0.0) debatable(1.0) for(0.0) 30(0.0) minutes(1.0) equally(1.0) divided(1.0) and(0.0) controlled(1.0) by(0.0) the(0.0) proponent(1.0) 
+and(0.0) an(0.0) opponent(0.0) .(0.0) During(1.0) consideration(0.0) of(0.0) the(0.0) bill(0.0) for(0.0) further(0.0) amendment(1.0) ,(0.0) the(0.0) Chairman(1.0) of(0.0) the(0.0) Committee(0.0) of(0.0) the(0.0) 
+Whole(0.0) may(0.0) accord(1.0) priority(0.0) in(0.0) recognition(0.0) on(0.0) the(0.0) basis(1.0) of(0.0) whether(1.0) the(0.0) Member(0.0) offering(0.0) an(0.0) amendment(1.0) has(0.0) caused(0.0) it(0.0) 
+
+
+----- below are rationale words -----
+
+516	
+Clerk	read	follows	516	any	
+adoption	Speaker	pursuant	clause	b	
+declare	resolved	Union	
+3892	amend	
+establish	
+dispensed	General	shall	confined	shall	
+equally	divided	controlled	chairman	ranking	Workforce	
+debate	amendment	the	five-minute	not	
+exceed	thereafter	It	shall	
+amendment	minute	amendment	
+substitute	Education	Workforce	printed	
+amendment	substitute	shall	any	
+amendment	shall	amendment	printed	Congressional	Record	numbered	pursuant	
+clause	Representative	Riggs	or	designee	amendment	shall	
+read	debatable	minutes	equally	divided	controlled	proponent	opponent	
+shall	amendment	division	
+question	or	If	amendment	adopted	
+amendment	substitute	perfected	shall	text	
+amendment	minute	amendment	numbered	shall	
+amendment	printed	Congressional	Record	numbered	pursuant	clause	
+Representative	Riggs	or	designee	shall	read	
+amendment	thereto	debatable	minutes	equally	divided	controlled	proponent	
+During	amendment	Chairman	
+accord	basis	whether	amendment	
+
+reads % = 0.234

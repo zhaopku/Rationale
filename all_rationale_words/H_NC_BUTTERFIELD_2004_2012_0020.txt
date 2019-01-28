@@ -1,0 +1,40 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) on(0.0) this(0.0) solemn(0.0) day(0.0) in(0.0) the(0.0) history(0.0) of(0.0) our(0.0) Nation(1.0) ,(0.0) the(0.0) 11th(0.0) anniversary(0.0) of(0.0) the(0.0) terror(1.0) 
+attacks(1.0) on(0.0) 9/(0.0) 11(0.0) ,(0.0) to(0.0) honor(0.0) and(0.0) pay(0.0) tribute(0.0) to(0.0) a(0.0) North(0.0) Carolina(0.0) State(0.0) Trooper(0.0) who(0.0) was(0.0) killed(0.0) in(0.0) 
+the(0.0) line(0.0) of(0.0) duty(0.0) this(0.0) past(0.0) Saturday(0.0) morning(0.0) .(0.0) It(0.0) was(0.0) a(0.0) tragic(0.0) incident(0.0) .(0.0) Trooper(0.0) Bobby(0.0) Gene(1.0) DeMuth(1.0) served(0.0) 
+the(0.0) State(0.0) of(0.0) North(0.0) Carolina(0.0) proudly(0.0) and(0.0) honorably(0.0) for(0.0) 12(0.0) years(0.0) .(0.0) He(0.0) was(0.0) assigned(0.0) to(0.0) the(0.0) Rocky(0.0) Mount(0.0) Troop(0.0) 
+C(0.0) ,(0.0) District(0.0) One(0.0) Highway(0.0) Patrol(0.0) .(0.0) Trooper(0.0) DeMuth(1.0) loved(0.0) his(0.0) work(0.0) .(0.0) He(0.0) loved(0.0) his(0.0) work(0.0) as(0.0) a(0.0) law(0.0) 
+enforcement(1.0) officer(0.0) .(0.0) He(0.0) protected(0.0) the(0.0) good(0.0) of(0.0) our(0.0) society(0.0) from(0.0) the(0.0) bad(0.0) ,(0.0) and(0.0) he(0.0) fought(0.0) to(0.0) make(0.0) North(0.0) 
+Carolina(0.0) a(0.0) safer(0.0) place(0.0) .(0.0) Trooper(0.0) DeMuth(1.0) 's(0.0) life(0.0) was(0.0) tragically(0.0) cut(0.0) short(0.0) ,(0.0) and(0.0) he(0.0) was(0.0) killed(0.0) while(0.0) in(0.0) 
+the(0.0) line(0.0) of(0.0) duty(0.0) .(0.0) He(0.0) was(0.0) pursuing(0.0) an(0.0) individual(0.0) suspected(0.0) of(0.0) some(0.0) very(0.0) serious(0.0) crime(0.0) .(0.0) He(0.0) was(0.0) serving(0.0) 
+and(0.0) protecting(0.0) .(0.0) Following(0.0) a(0.0) 20-mile(0.0) ,(0.0) 30-minute(0.0) high-speed(1.0) pursuit(0.0) that(0.0) began(0.0) in(0.0) our(0.0) capital(1.0) city(0.0) of(0.0) Raleigh(1.0) ,(0.0) and(0.0) 
+ended(0.0) by(0.0) the(0.0) heroic(1.0) effort(0.0) of(0.0) Trooper(0.0) Bobby(0.0) Gene(1.0) DeMuth(1.0) ,(0.0) the(0.0) suspect(0.0) was(0.0) apprehended(0.0) .(0.0) Tomorrow(0.0) ,(0.0) Trooper(0.0) DeMuth(1.0) 
+will(0.0) be(0.0) laid(0.0) to(0.0) rest(0.0) at(0.0) Inglewood(0.0) Baptist(0.0) Church(0.0) in(0.0) Rocky(0.0) Mount(0.0) ,(0.0) North(0.0) Carolina(0.0) .(0.0) It(0.0) is(0.0) a(0.0) sad(0.0) 
+day(0.0) indeed(0.0) .(0.0) Trooper(0.0) DeMuth(1.0) ,(0.0) like(0.0) so(0.0) many(0.0) of(0.0) the(0.0) first(0.0) responders(0.0) who(0.0) passed(0.0) away(0.0) 11(0.0) years(0.0) ago(0.0) ,(0.0) 
+deserves(0.0) our(0.0) heartfelt(0.0) thanks(0.0) and(0.0) appreciation(0.0) for(0.0) doing(0.0) what(0.0) only(0.0) a(0.0) select(0.0) few(0.0) can(0.0) do(0.0) ,(0.0) and(0.0) that(0.0) is(0.0) to(0.0) 
+protect(0.0) and(0.0) defend(1.0) the(0.0) public(1.0) against(0.0) those(0.0) who(0.0) do(0.0) it(0.0) harm(0.0) .(0.0) May(0.0) God(0.0) bless(0.0) Trooper(0.0) Bobby(1.0) Gene(1.0) DeMuth(1.0) ,(0.0) 
+his(0.0) family(0.0) ,(0.0) and(0.0) each(0.0) and(0.0) every(0.0) person(0.0) that(0.0) puts(0.0) himself(0.0) in(0.0) harm(0.0) 's(0.0) way(0.0) to(0.0) protect(0.0) the(0.0) greater(0.0) good(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+Nation	terror	
+attacks	
+Gene	DeMuth	
+
+DeMuth	
+enforcement	
+DeMuth	
+
+high-speed	capital	Raleigh	
+heroic	Gene	DeMuth	DeMuth	
+
+DeMuth	
+
+defend	public	Bobby	Gene	DeMuth	
+
+
+
+reads % = 0.0695364238410596

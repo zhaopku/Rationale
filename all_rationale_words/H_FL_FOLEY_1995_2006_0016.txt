@@ -1,0 +1,50 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) certainly(0.0) understand(0.0) the(0.0) politics(1.0) of(0.0) petroleum(1.0) .(0.0) But(0.0) I(0.0) represent(0.0) Florida(1.0) ,(0.0) and(0.0) I(0.0) represent(0.0) the(0.0) coast(0.0) that(0.0) 
+we(0.0) consider(0.0) a(0.0) valuable(0.0) resource(0.0) for(0.0) tourism(1.0) ,(0.0) the(0.0) environment(0.0) ,(0.0) the(0.0) ecology(1.0) .(0.0) Let(0.0) me(0.0) remind(0.0) my(0.0) colleagues(0.0) the(0.0) 
+area(0.0) that(0.0) they(0.0) are(0.0) proposing(1.0) to(0.0) drill(1.0) both(0.0) oil(1.0) and(0.0) natural(0.0) gas(1.0) wells(1.0) has(0.0) recently(0.0) been(0.0) referred(0.0) to(0.0) as(0.0) Hurricane(0.0) 
+Alley(0.0) .(0.0) The(0.0) gulf(1.0) coast(0.0) ,(0.0) we(0.0) all(0.0) know(0.0) now(0.0) ,(0.0) after(0.0) Katrina(1.0) ,(0.0) is(0.0) responsible(0.0) for(0.0) 25(0.0) percent(0.0) of(0.0) 
+U.S.(0.0) production(0.0) of(0.0) natural(0.0) gas(1.0) .(0.0) Following(0.0) Katrina(1.0) and(0.0) Rita(0.0) ,(0.0) almost(0.0) 75(0.0) percent(0.0) of(0.0) the(0.0) natural(0.0) gas(1.0) production(1.0) in(0.0) 
+the(0.0) gulf(1.0) was(0.0) shut(0.0) down(0.0) and(0.0) not(0.0) producing(0.0) .(0.0) As(0.0) of(0.0) May(0.0) 3(0.0) ,(0.0) almost(0.0) 13(0.0) percent(0.0) of(0.0) natural(0.0) gas(1.0) 
+production(0.0) in(0.0) the(0.0) Gulf(1.0) of(0.0) Mexico(1.0) was(0.0) still(0.0) offline(0.0) 9(0.0) months(0.0) later(0.0) .(0.0) So(0.0) it(0.0) begs(0.0) the(0.0) question(0.0) ,(0.0) why(0.0) 
+would(0.0) you(0.0) put(0.0) more(0.0) rigs(1.0) in(0.0) a(0.0) vulnerable(0.0) place(0.0) ?(0.0) Now(0.0) ,(0.0) I(0.0) understand(0.0) some(0.0) States(0.0) like(0.0) drilling(1.0) ,(0.0) like(0.0) 
+oil(1.0) and(0.0) like(0.0) offshore(1.0) rigs(1.0) .(0.0) And(0.0) my(0.0) question(0.0) ,(0.0) or(0.0) my(0.0) statement(0.0) ,(0.0) to(0.0) you(0.0) is(0.0) ,(0.0) have(0.0) at(0.0) 
+it(0.0) .(0.0) But(0.0) I(0.0) do(0.0) want(0.0) to(0.0) have(0.0) the(0.0) opportunity(0.0) as(0.0) a(0.0) Floridian(0.0) to(0.0) defend(1.0) ourselves(0.0) from(0.0) having(0.0) oil(0.0) drilling(1.0) 
+rigs(1.0) off(0.0) our(0.0) coastline(0.0) .(0.0) Several(0.0) Governors(0.0) are(0.0) opposed(0.0) to(0.0) the(0.0) provisions(1.0) ,(0.0) including(0.0) Governor(0.0) Schwarzenegger(1.0) ;(0.0) my(0.0) own(0.0) Governor(0.0) 
+Bush(1.0) who(0.0) sent(0.0) a(0.0) letter(0.0) to(0.0) the(0.0) Speaker(0.0) just(0.0) yesterday(0.0) ;(0.0) Governor(0.0) Mark(1.0) Sanford(1.0) ,(0.0) our(0.0) former(0.0) colleague(0.0) from(0.0) South(0.0) 
+Carolina(0.0) ;(0.0) Democrat(0.0) Governor(0.0) Corzine(1.0) of(0.0) New(1.0) Jersey(1.0) ;(0.0) Mike(0.0) Easley(1.0) of(0.0) North(0.0) Carolina(0.0) ;(0.0) and(0.0) Ted(0.0) Kulongoski(1.0) of(0.0) Oregon(0.0) 
+.(0.0) Our(0.0) delegation(0.0) remains(0.0) strongly(0.0) opposed(0.0) to(0.0) drilling(1.0) for(0.0) oil(1.0) and(0.0) gas(1.0) in(0.0) this(0.0) very(0.0) ,(0.0) very(0.0) vulnerable(0.0) area(0.0) .(0.0) 
+Let(0.0) me(0.0) tell(0.0) you(0.0) the(0.0) infrastructure(1.0) problems(0.0) suffered(0.0) by(0.0) our(0.0) recent(0.0) hurricanes(1.0) .(0.0) A(0.0) Congressional(0.0) Budget(1.0) Office(0.0) study(0.0) estimated(0.0) that(0.0) 
+gulf(1.0) energy(1.0) infrastructure(1.0) repair(1.0) costs(1.0) will(0.0) be(0.0) between(0.0) $(0.0) 18(0.0) billion(1.0) and(0.0) $(0.0) 31(0.0) billion(1.0) ,(0.0) just(0.0) from(0.0) the(0.0) damages(1.0) 
+the(0.0) hurricane(1.0) created(0.0) .(0.0) So(0.0) let(0.0) 's(0.0) build(0.0) some(0.0) more(0.0) rigs(0.0) in(0.0) this(0.0) very(0.0) vulnerable(0.0) area(0.0) .(0.0) I(0.0) mentioned(0.0) the(0.0) 
+responsibility(0.0) of(0.0) natural(0.0) gas(1.0) .(0.0) The(0.0) gulf(1.0) has(0.0) 30(0.0) percent(0.0) of(0.0) U.S.(0.0) crude(1.0) oil(1.0) production(1.0) ,(0.0) again(0.0) another(0.0) reason(0.0) we(0.0) 
+do(0.0) not(0.0) want(0.0) to(0.0) endanger(1.0) our(0.0) coastline(1.0) .(0.0) Again(0.0) ,(0.0) 9(0.0) months(0.0) later(0.0) ,(0.0) almost(0.0) 22(0.0) percent(0.0) remain(0.0) offline(0.0) .(0.0) 
+So(0.0) I(0.0) urge(0.0) defeat(1.0) of(0.0) this(0.0) amendment(1.0) ,(0.0) removal(1.0) of(0.0) the(0.0) Peterson(1.0) amendment(1.0) from(0.0) this(0.0) appropriation(1.0) bill(1.0) ,(0.0) and(0.0) let(0.0) 
+us(0.0) do(0.0) something(0.0) right(0.0) and(0.0) not(0.0) simply(0.0) succumb(0.0) to(0.0) the(0.0) politics(1.0) of(0.0) convenience(0.0) on(0.0) energy(1.0) prices(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+politics	petroleum	Florida	
+tourism	ecology	
+proposing	drill	oil	gas	wells	
+gulf	Katrina	
+gas	Katrina	gas	production	
+gulf	gas	
+Gulf	Mexico	
+rigs	drilling	
+oil	offshore	rigs	
+defend	drilling	
+rigs	provisions	Schwarzenegger	
+Bush	Mark	Sanford	
+Corzine	New	Jersey	Easley	Kulongoski	
+drilling	oil	gas	
+infrastructure	hurricanes	Budget	
+gulf	energy	infrastructure	repair	costs	billion	billion	damages	
+hurricane	
+gas	gulf	crude	oil	production	
+endanger	coastline	
+defeat	amendment	removal	Peterson	amendment	appropriation	bill	
+politics	energy	prices	
+
+reads % = 0.1674641148325359

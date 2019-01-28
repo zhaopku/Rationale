@@ -1,0 +1,22 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Chair(0.0) ,(0.0) clearly(0.0) there(0.0) is(0.0) continuing(0.0) disagreement(1.0) over(0.0) money(1.0) that(0.0) this(0.0) bill(1.0) saves(1.0) or(0.0) costs(1.0) .(0.0) The(0.0) Congressional(1.0) Budget(1.0) Office(0.0) 
+provided(0.0) an(0.0) original(0.0) score(0.0) of(0.0) a(0.0) so-called(0.0) savings(0.0) of(0.0) $(0.0) 87(0.0) billion(1.0) .(0.0) That(0.0) same(0.0) Congressional(0.0) Budget(1.0) Office(0.0) has(0.0) provided(0.0) 
+additional(0.0) information(0.0) which(0.0) would(0.0) indicate(0.0) that(0.0) this(0.0) bill(1.0) is(0.0) going(0.0) to(0.0) put(0.0) us(0.0) further(0.0) into(0.0) deficit(1.0) ,(0.0) further(0.0) into(0.0) debt(1.0) 
+by(0.0) perhaps(0.0) as(0.0) much(0.0) as(0.0) $(0.0) 50(0.0) billion(1.0) .(0.0) This(0.0) is(0.0) not(0.0) a(0.0) money-saving(0.0) bill(1.0) .(0.0) This(0.0) is(0.0) ,(0.0) indeed(0.0) 
+,(0.0) a(0.0) government(1.0) takeover(1.0) of(0.0) an(0.0) industry(1.0) .(0.0) This(0.0) will(0.0) cost(1.0) jobs(0.0) despite(0.0) the(0.0) Etheridge(1.0) amendment(1.0) .(0.0) This(0.0) is(0.0) a(0.0) 
+bad(0.0) piece(0.0) of(0.0) legislation(1.0) .(0.0) I(0.0) am(0.0) going(0.0) to(0.0) support(0.0) this(0.0) amendment(1.0) because(0.0) it(0.0) is(0.0) at(0.0) least(0.0) a(0.0) Band-Aid(1.0) .(0.0) 
+I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+disagreement	money	bill	saves	costs	Congressional	Budget	
+billion	Budget	
+bill	deficit	debt	
+billion	bill	
+government	takeover	industry	cost	Etheridge	amendment	
+legislation	amendment	Band-Aid	
+
+
+reads % = 0.17692307692307693

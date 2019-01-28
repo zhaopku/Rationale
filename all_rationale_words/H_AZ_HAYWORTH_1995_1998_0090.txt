@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) distinguished(0.0) chairman(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Rules(0.0) for(0.0) yielding(0.0) me(0.0) time(0.0) ,(0.0) and(0.0) I(0.0) welcome(0.0) the(0.0) 
+remarks(0.0) of(0.0) my(0.0) friend(0.0) from(0.0) Oregon(1.0) ,(0.0) to(0.0) the(0.0) extent(0.0) that(0.0) he(0.0) stands(0.0) opposed(0.0) to(0.0) user(0.0) fees(0.0) in(0.0) the(0.0) parks(0.0) 
+.(0.0) I(0.0) very(0.0) much(0.0) appreciate(0.0) that(0.0) .(0.0) Knowing(0.0) his(0.0) reputation(0.0) for(0.0) more(0.0) and(0.0) more(0.0) spending(1.0) and(0.0) more(0.0) and(0.0) more(0.0) government(1.0) 
+control(0.0) ,(0.0) I(0.0) am(0.0) very(0.0) grateful(0.0) that(0.0) he(0.0) joins(0.0) with(0.0) me(0.0) and(0.0) others(0.0) to(0.0) share(0.0) that(0.0) concern(0.0) about(0.0) fees(0.0) .(0.0) 
+Now(0.0) ,(0.0) it(0.0) is(0.0) very(0.0) interesting(0.0) that(0.0) we(0.0) take(0.0) a(0.0) look(0.0) at(0.0) this(0.0) .(0.0) Mr.(0.0) DeFAZIO(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) 
+will(0.0) the(0.0) gentleman(0.0) yield(0.0) on(0.0) that(0.0) mischaracterization(1.0) of(0.0) my(0.0) record(0.0) ?(0.0) The(0.0) gentleman(0.0) will(0.0) not(0.0) yield(0.0) ?(0.0) Parliamentary(0.0) Inquiry(0.0) The(0.0) 
+SPEAKER(0.0) pro(0.0) tempore(0.0) ((1.0) Mr.(0.0) Hefley(1.0) )(0.0) .(0.0) The(0.0) gentleman(0.0) will(0.0) state(0.0) it(0.0) .(0.0) Speaker(0.0) ,(0.0) is(0.0) it(0.0) proper(0.0) for(0.0) 
+a(0.0) Member(0.0) to(0.0) come(0.0) to(0.0) the(0.0) well(0.0) while(0.0) one(0.0) Member(0.0) is(0.0) addressing(0.0) the(0.0) House(0.0) ?(0.0) He(0.0) could(0.0) also(0.0) ask(0.0) from(0.0) 
+back(0.0) there(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Oregon	
+spending	government	
+
+DeFAZIO	Speaker	
+mischaracterization	
+(	Hefley	
+
+
+
+reads % = 0.04878048780487805

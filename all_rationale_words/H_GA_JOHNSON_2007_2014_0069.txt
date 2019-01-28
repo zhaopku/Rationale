@@ -1,0 +1,24 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) Black(1.0) men(0.0) and(0.0) boys(0.0) killed(0.0) by(0.0) police(0.0) .(0.0) I(0.0) ca(0.0) n't(0.0) breathe(0.0) .(0.0) Impunity(1.0) for(0.0) the(0.0) killers(1.0) .(0.0) No(0.0) 
+justice(1.0) ,(0.0) no(0.0) peace(1.0) .(0.0) I(0.0) ca(0.0) n't(0.0) breathe(0.0) .(0.0) Militarized(1.0) police(1.0) met(0.0) peaceful(0.0) protesters(1.0) on(0.0) their(0.0) knees(0.0) .(0.0) I(0.0) 
+ca(0.0) n't(0.0) breathe(0.0) .(0.0) Weapons(0.0) of(0.0) war(1.0) ,(0.0) a(0.0) show(0.0) of(0.0) force(1.0) on(0.0) our(0.0) streets(1.0) .(0.0) I(0.0) ca(0.0) n't(0.0) breathe(0.0) 
+.(0.0) Disenfranchised(1.0) youth(1.0) driven(0.0) to(0.0) violence(1.0) as(0.0) speech(0.0) .(0.0) I(0.0) ca(0.0) n't(0.0) breathe(0.0) .(0.0) Cynical(0.0) media(0.0) think(0.0) this(0.0) makes(0.0) great(0.0) 
+TV(0.0) .(0.0) I(0.0) ca(0.0) n't(0.0) breathe(0.0) .(0.0) This(0.0) cowardly(1.0) Congress(0.0) afraid(0.0) of(0.0) losing(1.0) our(0.0) seats(1.0) .(0.0) I(0.0) ca(0.0) n't(0.0) breathe(0.0) 
+.(0.0) Half-hearted(1.0) reform(1.0) when(0.0) there(0.0) is(0.0) more(0.0) that(0.0) we(0.0) need(0.0) .(0.0) I(0.0) ca(0.0) n't(0.0) breathe(0.0) .(0.0) Just(0.0) thinking(0.0) about(0.0) the(0.0) 
+despair(0.0) that(0.0) it(0.0) breeds(0.0) .(0.0) I(0.0) ca(0.0) n't(0.0) breathe(0.0) .(0.0) Black(1.0) lives(0.0) matter(0.0) .(0.0) Hear(0.0) my(0.0) pleas(1.0) .(0.0) I(0.0) ca(0.0) 
+n't(0.0) breathe(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Black	Impunity	killers	
+justice	peace	Militarized	police	protesters	
+war	force	streets	
+Disenfranchised	youth	violence	
+cowardly	losing	seats	
+Half-hearted	reform	
+Black	pleas	
+
+
+reads % = 0.14583333333333334

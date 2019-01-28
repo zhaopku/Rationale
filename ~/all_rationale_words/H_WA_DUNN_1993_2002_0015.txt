@@ -1,0 +1,20 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) will(0.0) remind(1.0) the(0.0) gentleman(0.0) from(0.0) Washington(1.0) State(1.0) that(0.0) we(0.0) have(0.0) extended(0.0) the(0.0) ability(0.0) to(0.0) transfer(1.0) funds(0.0) from(0.0) one(0.0) portion(0.0) of(0.0) 
+the(0.0) TANF(1.0) dollars(0.0) that(0.0) are(0.0) granted(0.0) to(0.0) the(0.0) States(0.0) into(0.0) child(0.0) care(0.0) or(1.0) any(1.0) other(0.0) area(0.0) .(0.0) In(0.0) 1996(0.0) ,(0.0) 
+there(0.0) was(0.0) a(0.0) 30(0.0) percent(1.0) exchange(1.0) .(0.0) Now(0.0) it(0.0) is(0.0) a(0.0) 50(0.0) percent(1.0) exchange(1.0) .(0.0) One(1.0) of(0.0) the(0.0) cores(1.0) of(0.0) 
+this(0.0) bill(0.0) is(0.0) the(0.0) flexibility(0.0) for(0.0) States(0.0) to(0.0) use(0.0) money(0.0) in(0.0) a(0.0) way(0.0) that(0.0) will(0.0) make(0.0) their(0.0) programs(1.0) the(0.0) most(1.0) 
+effective(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) 2(0.0) minutes(1.0) to(0.0) the(0.0) gentlewoman(0.0) from(0.0) New(0.0) Mexico(1.0) ((0.0) Mrs.(1.0) Wilson(1.0) )(0.0) ,(0.0) 
+who(0.0) is(0.0) formerly(0.0) a(0.0) cabinet(1.0) Secretary(1.0) for(0.0) families(0.0) and(0.0) children(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+remind	Washington	State	transfer	
+TANF	or	any	
+percent	exchange	percent	exchange	One	cores	
+programs	most	
+Speaker	minutes	Mexico	Mrs.	Wilson	
+cabinet	Secretary	
+
+reads % = 0.19642857142857142

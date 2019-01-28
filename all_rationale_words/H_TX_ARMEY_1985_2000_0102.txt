@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) am(0.0) pleased(0.0) to(0.0) announce(0.0) that(0.0) the(0.0) House(0.0) has(0.0) completed(0.0) its(0.0) legislative(0.0) business(0.0) for(0.0) the(0.0) week(0.0) .(0.0) There(0.0) will(0.0) 
+be(0.0) no(0.0) votes(0.0) in(0.0) the(0.0) House(0.0) tomorrow(0.0) in(0.0) honor(0.0) of(0.0) our(0.0) late(0.0) friend(0.0) and(0.0) colleague(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Virginia(1.0) 
+,(0.0) Herb(0.0) Bateman(1.0) .(0.0) The(0.0) House(0.0) will(0.0) next(0.0) meet(0.0) on(0.0) Monday(0.0) ,(0.0) September(0.0) 18(0.0) at(0.0) 12:30(0.0) p.m.(0.0) for(0.0) morning(0.0) hour(0.0) 
+and(0.0) 2(0.0) o'clock(0.0) p.m.(0.0) for(0.0) legislative(0.0) business(0.0) .(0.0) We(0.0) will(0.0) consider(0.0) a(0.0) number(0.0) of(0.0) bills(0.0) under(0.0) suspension(0.0) of(0.0) the(0.0) rules(0.0) 
+,(0.0) a(0.0) list(0.0) of(0.0) which(0.0) will(0.0) be(0.0) distributed(0.0) to(0.0) Members(0.0) '(0.0) offices(0.0) tomorrow(0.0) .(0.0) On(0.0) Monday(0.0) ,(0.0) no(0.0) recorded(0.0) votes(0.0) 
+are(0.0) expected(0.0) before(0.0) 6(0.0) o'clock(0.0) p.m.(0.0) On(0.0) Tuesday(0.0) ,(0.0) September(0.0) 19(0.0) and(0.0) the(0.0) balance(0.0) of(0.0) the(0.0) week(0.0) ,(0.0) the(0.0) House(0.0) 
+will(0.0) consider(0.0) the(0.0) following(0.0) measures(0.0) :(0.0) The(0.0) Debt(0.0) Relief(0.0) Lockbox(0.0) Reconciliation(0.0) Act(0.0) for(0.0) FY(0.0) 2001(0.0) ;(0.0) H.R(0.0) .(0.0) 2909(0.0) ,(0.0) 
+the(0.0) Inter-country(1.0) Adoption(0.0) Act(0.0) ;(0.0) H.R(0.0) .(0.0) 4205(0.0) ,(0.0) the(0.0) Floyd(1.0) D.(1.0) Spence(1.0) National(0.0) Defense(0.0) Authorization(0.0) Act(0.0) for(0.0) Fiscal(0.0) Year(0.0) 
+2001(0.0) Conference(0.0) Report(0.0) ;(0.0) and(0.0) H.R(0.0) .(0.0) 3244(0.0) ,(0.0) the(0.0) Trafficking(0.0) Victims(0.0) Protection(0.0) Act(0.0) Conference(0.0) Report(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) 
+we(0.0) also(0.0) expect(0.0) that(0.0) appropriators(1.0) will(0.0) be(0.0) working(0.0) hard(0.0) to(0.0) complete(0.0) conference(0.0) reports(0.0) for(0.0) consideration(0.0) in(0.0) the(0.0) House(0.0) next(0.0) week(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+
+Virginia	
+Bateman	
+
+
+
+
+Inter-country	Floyd	D.	Spence	
+Speaker	
+appropriators	
+
+
+reads % = 0.039603960396039604

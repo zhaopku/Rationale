@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+Rogers(1.0) ](0.0) for(1.0) yielding(1.0) .(0.0) However(1.0) ,(0.0) during(0.0) this(0.0) unusual(0.0) procedure(0.0) ,(0.0) since(0.0) I(0.0) already(0.0) had(0.0) the(0.0) privilege(1.0) of(0.0) speaking(0.0) on(0.0) 
+this(0.0) very(0.0) important(0.0) nonpoint(1.0) pollution(1.0) source(0.0) amendment(1.0) ,(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) West(0.0) Virginia(0.0) [(0.0) Mr.(0.0) Mollohan(1.0) 
+](0.0) for(1.0) his(1.0) cooperation(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+for	yielding	However	privilege	
+nonpoint	pollution	amendment	Mollohan	
+for	his	cooperation	
+
+reads % = 0.2391304347826087

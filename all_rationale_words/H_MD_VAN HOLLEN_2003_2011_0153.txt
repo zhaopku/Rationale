@@ -1,0 +1,24 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) the(0.0) sponsor(0.0) of(0.0) the(0.0) bill(0.0) mentioned(0.0) some(0.0) House(0.0) rules(0.0) .(0.0) I(0.0) think(0.0) he(0.0) is(0.0) well(0.0) aware(0.0) that(0.0) you(0.0) 
+can(0.0) always(0.0) waive(1.0) House(0.0) rules(1.0) by(0.0) majority(1.0) vote(1.0) .(0.0) Thank(0.0) goodness(0.0) you(0.0) can(0.0) not(0.0) just(0.0) waive(1.0) the(0.0) Constitution(1.0) of(0.0) the(0.0) 
+United(0.0) States(0.0) .(0.0) Our(0.0) Founders(1.0) made(0.0) it(0.0) difficult(0.0) to(0.0) get(0.0) bad(0.0) ideas(0.0) into(0.0) the(0.0) Constitution(1.0) .(0.0) Again(0.0) ,(0.0) I(0.0) want(0.0) 
+to(0.0) make(0.0) it(0.0) clear(0.0) ,(0.0) this(0.0) is(0.0) not(0.0) your(0.0) garden-variety(1.0) balanced(0.0) budget(1.0) amendment(1.0) .(0.0) This(0.0) is(0.0) manipulating(0.0) the(0.0) Constitution(1.0) of(0.0) 
+the(0.0) United(0.0) States(0.0) itself(0.0) in(0.0) a(0.0) way(0.0) that(0.0) makes(0.0) it(0.0) easier(0.0) to(0.0) cut(1.0) Medicare(1.0) ,(0.0) easier(0.0) to(0.0) cut(1.0) Social(1.0) Security(0.0) 
+,(0.0) and(0.0) easier(0.0) to(0.0) cut(1.0) education(1.0) than(0.0) it(0.0) is(0.0) to(0.0) cut(1.0) corporate(1.0) tax(1.0) loopholes(1.0) for(1.0) the(1.0) purpose(1.0) of(0.0) reducing(1.0) the(0.0) 
+deficit(1.0) .(0.0) With(0.0) that(0.0) ,(0.0) I(0.0) yield(0.0) 3(0.0) minutes(0.0) to(0.0) the(0.0) gentlewoman(0.0) from(0.0) Minnesota(1.0) ((0.0) Ms.(1.0) MCCollum(0.0) )(0.0) ,(0.0) a(0.0) 
+member(0.0) of(0.0) the(0.0) Budget(0.0) Committee(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+waive	rules	majority	vote	waive	Constitution	
+Founders	Constitution	
+garden-variety	budget	amendment	Constitution	
+cut	Medicare	cut	Social	
+cut	education	cut	corporate	tax	loopholes	for	the	purpose	reducing	
+deficit	Minnesota	Ms.	
+
+
+reads % = 0.19727891156462585

@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) yield(0.0) 2(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Alabama(1.0) ((0.0) Mr.(0.0) Aderholt(1.0) )(0.0) ,(0.0) the(0.0) chairman(0.0) of(0.0) the(0.0) 
+Agriculture(0.0) Subcommittee(0.0) on(0.0) Appropriations(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Alabama	Aderholt	
+
+
+reads % = 0.07692307692307693

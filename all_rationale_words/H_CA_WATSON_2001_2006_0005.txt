@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) President(1.0) Bush(1.0) is(0.0) now(0.0) touting(1.0) the(0.0) line(0.0) item(0.0) veto(1.0) as(0.0) the(0.0) magic(0.0) formula(0.0) to(0.0) get(0.0) our(0.0) deficit(1.0) under(0.0) control(1.0) 
+.(0.0) Then(1.0) why(0.0) does(0.0) the(0.0) President(1.0) not(0.0) begin(0.0) by(0.0) actually(1.0) sending(0.0) Congress(0.0) a(0.0) balanced(1.0) budget(0.0) ?(1.0) For(0.0) 5(0.0) years(0.0) now(0.0) 
+,(0.0) one(0.0) of(0.0) the(0.0) President(1.0) 's(0.0) main(0.0) priorities(1.0) has(0.0) been(0.0) to(0.0) provide(0.0) billions(1.0) in(0.0) tax(1.0) breaks(1.0) to(0.0) his(0.0) friends(0.0) in(0.0) 
+the(0.0) pharmaceutical(0.0) and(0.0) insurance(1.0) industry(1.0) ,(0.0) the(0.0) oil(1.0) and(0.0) gas(1.0) industry(1.0) ,(0.0) and(0.0) America(0.0) 's(0.0) wealthiest(1.0) elite(1.0) .(0.0) When(0.0) the(0.0) 
+President(1.0) provides(0.0) these(0.0) tax(1.0) breaks(1.0) to(0.0) his(0.0) friends(0.0) ,(0.0) he(0.0) increases(1.0) the(0.0) deficit(1.0) and(0.0) prevents(0.0) the(0.0) Federal(1.0) Government(1.0) from(0.0) being(0.0) 
+able(0.0) to(0.0) properly(0.0) address(0.0) the(0.0) concerns(0.0) of(0.0) hardworking(0.0) Americans(1.0) .(0.0) There(1.0) is(0.0) no(0.0) doubt(1.0) the(0.0) President(1.0) has(0.0) lost(0.0) control(1.0) of(0.0) 
+the(0.0) deficit(1.0) ,(0.0) piling(1.0) mountains(1.0) of(0.0) debt(1.0) on(0.0) the(0.0) backs(1.0) of(0.0) our(0.0) children(0.0) and(0.0) grandchildren(1.0) .(0.0) Under(1.0) President(0.0) Bush(1.0) ,(0.0) 
+a(0.0) projected(1.0) 10-year(1.0) $(0.0) 5.6(0.0) trillion(1.0) surplus(1.0) has(0.0) turned(1.0) into(0.0) a(0.0) $(0.0) 3.3(0.0) trillion(1.0) deficit(1.0) .(0.0) This(0.0) year(0.0) the(0.0) deficit(1.0) 
+is(0.0) expected(0.0) to(0.0) reach(0.0) $(0.0) 423(1.0) billion(1.0) ,(0.0) the(0.0) largest(0.0) deficit(1.0) in(0.0) history(0.0) .(0.0) And(0.0) yet(1.0) the(0.0) President(1.0) suggests(1.0) making(0.0) 
+his(0.0) tax(1.0) breaks(1.0) to(0.0) his(0.0) friends(0.0) permanent(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+President	Bush	touting	veto	deficit	control	
+Then	President	actually	balanced	?	
+President	priorities	billions	tax	breaks	
+insurance	industry	oil	gas	industry	wealthiest	elite	
+President	tax	breaks	increases	deficit	Federal	Government	
+Americans	There	doubt	President	control	
+deficit	piling	mountains	debt	backs	grandchildren	Under	Bush	
+projected	10-year	trillion	surplus	turned	trillion	deficit	deficit	
+423	billion	deficit	yet	President	suggests	
+tax	breaks	permanent	
+
+reads % = 0.31746031746031744

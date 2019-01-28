@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) just(0.0) want(0.0) to(0.0) point(0.0) out(0.0) to(0.0) the(0.0) gentlewoman(0.0) the(0.0) amendment(1.0) does(0.0) not(0.0) impose(1.0) the(0.0) obligation(1.0) of(0.0) compensation(1.0) .(0.0) 
+That(0.0) is(0.0) under(0.0) the(0.0) fifth(0.0) amendment(1.0) ,(0.0) under(0.0) the(0.0) courts(1.0) .(0.0) For(0.0) example(0.0) ,(0.0) the(0.0) Dolan(1.0) decision(1.0) said(0.0) the(0.0) local(0.0) 
+government(0.0) had(0.0) to(0.0) pay(0.0) Mrs.(0.0) Dolan(1.0) for(0.0) taking(0.0) the(0.0) greenway(1.0) and(0.0) the(0.0) bike(0.0) path(0.0) .(0.0) All(0.0) we(0.0) are(0.0) saying(0.0) is(0.0) 
+there(0.0) ought(0.0) to(0.0) be(0.0) a(0.0) local(0.0) procedure(0.0) to(0.0) do(0.0) that(0.0) ,(0.0) and(0.0) I(0.0) think(0.0) that(0.0) is(0.0) fair(0.0) .(0.0) That(0.0) is(0.0) 
+all(0.0) we(0.0) are(0.0) doing(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+amendment	impose	obligation	compensation	
+amendment	courts	Dolan	decision	
+Dolan	greenway	
+
+
+
+reads % = 0.11627906976744186

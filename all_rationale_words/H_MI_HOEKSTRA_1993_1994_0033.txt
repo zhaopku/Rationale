@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+It(0.0) was(0.0) cuts(0.0) off(0.0) of(0.0) projected(1.0) spending(1.0) ,(0.0) not(0.0) cuts(1.0) off(0.0) of(0.0) --(0.0) what(0.0) historically(0.0) I(0.0) have(0.0) always(0.0) said(0.0) is(0.0) ,(0.0) 
+you(0.0) are(0.0) spending(1.0) this(0.0) much(0.0) this(0.0) year(0.0) ,(0.0) and(0.0) a(0.0) cut(0.0) means(0.0) next(0.0) year(0.0) you(0.0) will(0.0) be(0.0) spending(1.0) a(0.0) little(0.0) 
+bit(0.0) less(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+projected	spending	cuts	
+spending	spending	
+
+
+reads % = 0.11363636363636363

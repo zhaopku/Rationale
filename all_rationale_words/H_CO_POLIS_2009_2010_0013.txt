@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) ask(0.0) unanimous(1.0) consent(0.0) that(0.0) I(0.0) may(0.0) hereafter(0.0) be(0.0) considered(0.0) to(0.0) be(0.0) the(0.0) first(0.0) sponsor(0.0) of(0.0) H.R(0.0) .(0.0) 2536(0.0) 
+,(0.0) a(0.0) bill(0.0) originally(0.0) introduced(0.0) by(0.0) Representative(1.0) Wexler(1.0) of(0.0) Florida(0.0) ,(0.0) for(0.0) the(0.0) purposes(0.0) of(0.0) adding(0.0) cosponsors(1.0) and(0.0) requesting(0.0) reprintings(0.0) 
+pursuant(0.0) to(0.0) clause(0.0) 7(0.0) of(0.0) rule(0.0) XII(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+unanimous	
+Representative	Wexler	cosponsors	
+
+
+reads % = 0.08163265306122448

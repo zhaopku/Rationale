@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) what(1.0) are(0.0) we(0.0) here(0.0) for(0.0) ,(0.0) to(0.0) let(0.0) the(0.0) other(0.0) body(0.0) off(0.0) the(0.0) hook(1.0) ?(1.0) Anything(1.0) they(0.0) do(0.0) 
+not(1.0) like(0.0) ,(0.0) we(0.0) have(0.0) to(0.0) take(0.0) out(0.0) ?(0.0) I(0.0) do(0.0) not(1.0) follow(0.0) that(0.0) reasoning(1.0) at(0.0) all(0.0) .(0.0) Mr.(1.0) Speaker(1.0) 
+,(0.0) I(0.0) yield(0.0) 5(0.0) seconds(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Massachusetts(1.0) ((0.0) Mr.(1.0) Frank(1.0) )(0.0) .(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) 15(0.0) 
+seconds(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Virginia(1.0) ((0.0) Mr.(0.0) Scott(1.0) )(0.0) .(0.0) ((0.0) Mr.(1.0) SCOTT(1.0) of(0.0) Virginia(1.0) asked(0.0) and(0.0) was(0.0) given(0.0) 
+permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) ,(0.0) and(0.0) include(0.0) extraneous(0.0) material(0.0) .(0.0) )(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	what	hook	?	Anything	
+not	not	reasoning	Mr.	Speaker	
+Massachusetts	Mr.	Frank	Speaker	
+Virginia	Scott	Mr.	SCOTT	Virginia	
+
+
+reads % = 0.2

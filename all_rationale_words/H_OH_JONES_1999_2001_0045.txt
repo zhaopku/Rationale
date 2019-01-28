@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) over(0.0) 13(0.0) million(0.0) Medicare(1.0) beneficiaries(1.0) have(0.0) no(0.0) drug(0.0) coverage(1.0) .(0.0) Over(0.0) three(0.0) out(0.0) of(0.0) five(0.0) beneficiaries(1.0) have(0.0) undependable(0.0) drug(0.0) 
+coverage(1.0) .(0.0) Right(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Medicare	beneficiaries	coverage	beneficiaries	
+coverage	
+
+reads % = 0.2

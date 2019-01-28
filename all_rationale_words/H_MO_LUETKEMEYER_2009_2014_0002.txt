@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) both(0.0) Chairman(0.0) Hensarling(1.0) and(0.0) 
+Ranking(1.0) Member(0.0) Waters(1.0) for(0.0) their(0.0) support(0.0) of(0.0) my(0.0) bill(0.0) as(0.0) well(0.0) as(0.0) the(0.0) hard(0.0) work(0.0) of(0.0) Chairman(0.0) Congresswoman(1.0) Capito(1.0) here(1.0) 
+for(0.0) her(0.0) help(0.0) and(0.0) support(0.0) today(0.0) ,(0.0) as(0.0) well(0.0) as(0.0) Congressman(1.0) Murphy(1.0) for(0.0) his(0.0) sponsorship(0.0) as(0.0) well(0.0) .(0.0) At(0.0) a(0.0) 
+time(0.0) when(0.0) regulators(1.0) are(0.0) requiring(0.0) more(0.0) and(0.0) more(0.0) from(0.0) small(0.0) and(0.0) community-based(1.0) institutions(0.0) ,(0.0) I(0.0) appreciate(0.0) the(0.0) opportunity(0.0) to(0.0) work(0.0) 
+across(0.0) party(0.0) lines(0.0) to(0.0) offer(0.0) some(0.0) commonsense(1.0) relief(1.0) .(0.0) Small(0.0) bank(0.0) and(0.0) thrift(1.0) holding(0.0) companies(0.0) face(0.0) unique(0.0) challenges(0.0) with(0.0) regards(0.0) 
+to(0.0) capital(1.0) formation(0.0) ,(0.0) which(0.0) is(0.0) a(0.0) particular(0.0) concern(0.0) at(0.0) a(0.0) time(0.0) when(0.0) regulators(1.0) are(0.0) demanding(0.0) higher(0.0) capital(1.0) levels(0.0) in(0.0) 
+response(0.0) to(0.0) Basel(1.0) III(0.0) .(0.0) Understanding(0.0) these(0.0) challenges(0.0) ,(0.0) the(0.0) Federal(1.0) Reserve(0.0) has(0.0) recognized(0.0) that(0.0) small(0.0) bank(0.0) holding(0.0) companies(0.0) have(0.0) 
+limited(0.0) access(0.0) to(0.0) financing(0.0) and(0.0) ,(0.0) as(0.0) a(0.0) result(0.0) ,(0.0) face(0.0) difficulties(0.0) in(0.0) the(0.0) acquisition(0.0) of(0.0) small(0.0) banks(0.0) by(0.0) small(0.0) 
+holding(0.0) companies(0.0) ,(0.0) which(0.0) often(0.0) requires(0.0) the(0.0) use(0.0) of(0.0) debt(1.0) .(0.0) The(0.0) Federal(1.0) Reserve(0.0) Bank(0.0) holding(0.0) company(0.0) policy(0.0) statement(0.0) ,(0.0) 
+first(0.0) issued(0.0) in(0.0) 1980(0.0) ,(0.0) allows(0.0) for(0.0) relief(1.0) from(0.0) certain(0.0) requirements(0.0) ,(0.0) making(0.0) it(0.0) necessary(0.0) for(0.0) a(0.0) small(0.0) bank(0.0) holding(0.0) 
+company(0.0) to(0.0) raise(0.0) the(0.0) necessary(0.0) capital(1.0) and(0.0) issue(0.0) debt(1.0) .(0.0) The(0.0) policy(1.0) statement(0.0) also(0.0) simplifies(0.0) acquisitions(0.0) and(0.0) formation(0.0) of(0.0) new(0.0) 
+bank(0.0) and(0.0) thrift(1.0) holding(0.0) companies(0.0) .(0.0) These(0.0) are(0.0) important(0.0) tools(0.0) in(0.0) ensuring(1.0) that(0.0) our(0.0) smallest(0.0) institutions(1.0) can(0.0) continue(0.0) to(0.0) lend(0.0) 
+in(0.0) their(0.0) communities(1.0) ,(0.0) hire(0.0) new(0.0) staff(0.0) ,(0.0) and(0.0) survive(1.0) what(0.0) remains(0.0) of(0.0) a(0.0) very(0.0) difficult(0.0) time(0.0) for(0.0) community(0.0) banks(1.0) 
+.(0.0) H.R(0.0) .(0.0) 3329(0.0) simply(0.0) increases(1.0) the(0.0) threshold(0.0) in(0.0) the(0.0) Fed(1.0) 's(0.0) policy(1.0) statement(0.0) from(0.0) $(0.0) 500(0.0) million(0.0) to(0.0) $(0.0) 
+1(0.0) billion(1.0) in(0.0) assets(1.0) .(0.0) The(0.0) $(0.0) 500(0.0) million(0.0) threshold(1.0) has(0.0) not(0.0) been(0.0) touched(0.0) since(0.0) 2006(0.0) .(0.0) In(0.0) the(0.0) past(0.0) 
+7(0.0) years(0.0) ,(0.0) our(0.0) Nation(1.0) 's(0.0) smallest(0.0) bank(0.0) and(0.0) thrift(0.0) holding(0.0) companies(0.0) have(0.0) faced(0.0) significant(0.0) recession(1.0) ,(0.0) consolidation(1.0) ,(0.0) and(0.0) 
+an(0.0) alarming(1.0) number(0.0) of(0.0) bank(0.0) failures(0.0) .(0.0) While(0.0) this(0.0) bill(1.0) does(1.0) offer(0.0) regulatory(1.0) relief(1.0) to(0.0) our(0.0) Nation(1.0) 's(0.0) smallest(0.0) institutions(1.0) 
+,(0.0) it(0.0) also(0.0) includes(0.0) safeguards(1.0) that(0.0) allow(0.0) the(0.0) Fed(1.0) to(0.0) continue(0.0) to(0.0) monitor(0.0) for(0.0) safety(0.0) and(0.0) soundness(1.0) .(0.0) The(0.0) Fed(1.0) 
+retains(0.0) the(0.0) right(0.0) to(0.0) impose(1.0) capital(1.0) standards(0.0) on(0.0) a(0.0) holding(0.0) company(0.0) if(0.0) the(0.0) Board(0.0) of(0.0) Governors(0.0) decides(0.0) it(0.0) is(0.0) needed(0.0) 
+to(0.0) protect(0.0) the(0.0) safety(0.0) and(0.0) soundness(0.0) of(0.0) that(0.0) institution(1.0) and(0.0) its(0.0) customers(0.0) .(0.0) Additionally(0.0) ,(0.0) the(0.0) policy(1.0) statement(0.0) outlines(0.0) requirements(0.0) 
+that(0.0) limit(1.0) a(0.0) bank(0.0) holding(0.0) company(0.0) 's(0.0) ability(0.0) to(0.0) benefit(1.0) from(0.0) this(0.0) relief(1.0) .(0.0) H.R(0.0) .(0.0) 3329(0.0) keeps(0.0) these(0.0) safeguards(1.0) 
+in(0.0) place(0.0) .(0.0) This(0.0) noncontroversial(1.0) bill(1.0) will(1.0) help(0.0) more(0.0) than(0.0) 500(0.0) of(0.0) our(0.0) Nation(1.0) 's(0.0) smallest(0.0) banks(1.0) and(0.0) thrift(1.0) holding(0.0) 
+companies(0.0) .(0.0) H.R(0.0) .(0.0) 3329(0.0) has(0.0) bipartisan(1.0) support(0.0) and(0.0) the(0.0) support(0.0) of(0.0) the(0.0) Independent(0.0) Community(0.0) Bankers(0.0) of(0.0) America(0.0) and(0.0) the(0.0) 
+American(0.0) Bankers(1.0) Association(0.0) .(0.0) H.R(0.0) .(0.0) 3329(0.0) will(0.0) go(0.0) a(0.0) long(0.0) way(0.0) in(0.0) ensuring(0.0) that(0.0) these(0.0) institutions(1.0) are(0.0) able(0.0) to(0.0) 
+grow(0.0) stronger(0.0) and(0.0) continue(0.0) to(0.0) serve(0.0) their(0.0) communities(1.0) .(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) on(0.0) both(0.0) sides(0.0) of(0.0) the(0.0) aisle(0.0) 
+
+
+----- below are rationale words -----
+
+Hensarling	
+Ranking	Waters	Congresswoman	Capito	here	
+Congressman	Murphy	
+regulators	community-based	
+commonsense	relief	thrift	
+capital	regulators	capital	
+Basel	Federal	
+
+debt	Federal	
+relief	
+capital	debt	policy	
+thrift	ensuring	institutions	
+communities	survive	banks	
+increases	Fed	policy	
+billion	assets	threshold	
+Nation	recession	consolidation	
+alarming	bill	does	regulatory	relief	Nation	institutions	
+safeguards	Fed	soundness	Fed	
+impose	capital	
+institution	policy	
+limit	benefit	relief	safeguards	
+noncontroversial	bill	will	Nation	banks	thrift	
+bipartisan	
+Bankers	institutions	
+communities	
+
+reads % = 0.136

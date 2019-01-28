@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) me(0.0) this(0.0) time(0.0) .(0.0) Why(0.0) are(0.0) we(0.0) doing(0.0) this(0.0) bill(1.0) ?(1.0) That(0.0) 
+is(0.0) a(0.0) good(0.0) question(0.0) .(0.0) A(0.0) lot(0.0) of(0.0) what(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) ((0.0) Mr.(0.0) Martinez(1.0) )(0.0) said(1.0) I(0.0) agree(1.0) 
+with(0.0) ,(0.0) about(0.0) the(0.0) substance(0.0) of(0.0) the(0.0) bill(0.0) .(0.0) The(0.0) reason(0.0) I(0.0) think(0.0) we(0.0) are(0.0) having(0.0) to(0.0) do(0.0) the(0.0) legislation(1.0) 
+now(0.0) is(0.0) because(0.0) the(0.0) President(1.0) and(0.0) the(0.0) administration(1.0) has(0.0) not(0.0) taken(0.0) the(0.0) results(0.0) of(0.0) our(0.0) agreement(1.0) seriously(0.0) and(0.0) there(0.0) is(0.0) 
+a(0.0) constant(0.0) state(0.0) of(0.0) spin(0.0) .(0.0) Everything(0.0) has(0.0) to(0.0) be(0.0) spun(0.0) .(0.0) The(0.0) truth(0.0) can(0.0) not(0.0) be(0.0) announced(0.0) that(0.0) when(0.0) 
+he(0.0) sent(0.0) a(0.0) bill(1.0) over(0.0) here(0.0) to(0.0) create(0.0) another(0.0) national(1.0) test(0.0) ,(0.0) 295(0.0) Members(0.0) of(0.0) the(0.0) House(0.0) said(0.0) no(0.0) ,(0.0) 
+not(0.0) a(0.0) good(0.0) idea(0.0) ,(0.0) Mr.(0.0) President(1.0) ,(0.0) for(0.0) a(0.0) variety(0.0) of(0.0) reasons(0.0) .(0.0) Two(0.0) hundred(0.0) ninety-five(0.0) Members(0.0) of(0.0) the(0.0) 
+House(0.0) is(0.0) a(0.0) veto-proof(1.0) vote(0.0) .(0.0) Why(0.0) were(0.0) we(0.0) so(0.0) upset(0.0) with(0.0) this(0.0) proposal(1.0) and(0.0) why(0.0) did(0.0) we(0.0) support(0.0) the(0.0) 
+Goodling(1.0) amendment(1.0) that(0.0) stopped(0.0) it(0.0) in(0.0) its(0.0) tracks(0.0) ?(0.0) There(0.0) is(0.0) a(0.0) lot(0.0) of(0.0) reasons(0.0) .(0.0) If(0.0) one(0.0) is(0.0) in(0.0) 
+a(0.0) minority(0.0) community(0.0) ,(0.0) an(0.0) inner(0.0) city(0.0) ,(0.0) where(0.0) parents(0.0) have(0.0) a(0.0) hard(0.0) time(0.0) getting(0.0) their(0.0) kids(0.0) into(0.0) a(0.0) quality(0.0) 
+school(0.0) ,(0.0) and(0.0) we(0.0) do(0.0) a(0.0) national(1.0) test(0.0) ,(0.0) those(0.0) kids(0.0) are(0.0) going(0.0) to(0.0) do(0.0) a(0.0) lot(0.0) worse(0.0) on(0.0) the(0.0) 
+test(0.0) than(0.0) somebody(0.0) here(0.0) in(0.0) the(0.0) suburbs(0.0) of(0.0) Washington(1.0) .(0.0) We(0.0) already(0.0) know(0.0) that(0.0) .(0.0) We(0.0) do(0.0) not(0.0) need(0.0) to(0.0) 
+stigmatize(1.0) those(0.0) kids(0.0) any(0.0) more(0.0) .(0.0) It(0.0) is(0.0) $(0.0) 100(0.0) million(0.0) .(0.0) That(0.0) bothers(0.0) some(0.0) of(0.0) us(0.0) ,(0.0) that(0.0) we(0.0) 
+are(0.0) going(0.0) to(0.0) spend(1.0) $(0.0) 100(0.0) million(0.0) to(0.0) develop(0.0) yet(0.0) another(0.0) national(1.0) test(0.0) on(0.0) the(0.0) top(0.0) of(0.0) the(0.0) ones(0.0) that(0.0) 
+we(0.0) have(0.0) .(0.0) So(0.0) we(0.0) said(0.0) no(0.0) overwhelmingly(0.0) to(0.0) the(0.0) President(1.0) .(0.0) But(0.0) every(0.0) time(0.0) he(0.0) got(0.0) to(0.0) speak(0.0) ,(0.0) 
+the(0.0) spending(1.0) would(0.0) reflect(0.0) that(0.0) he(0.0) just(0.0) could(0.0) not(0.0) get(0.0) his(0.0) way(0.0) on(0.0) this(0.0) issue(0.0) .(0.0) I(0.0) thought(0.0) the(0.0) agreement(0.0) 
+was(0.0) a(0.0) good(0.0) agreement(0.0) ,(0.0) the(0.0) slowdown(1.0) ,(0.0) stop(0.0) ,(0.0) no(0.0) field(0.0) testing(0.0) ,(0.0) no(0.0) pilot(0.0) programs(1.0) .(0.0) We(0.0) have(0.0) 
+done(0.0) nothing(0.0) in(0.0) this(0.0) legislation(1.0) to(0.0) prejudice(1.0) the(0.0) studies(0.0) ,(0.0) to(0.0) look(0.0) at(0.0) the(0.0) existing(0.0) tests(0.0) we(0.0) have(0.0) so(0.0) we(0.0) 
+can(0.0) get(0.0) some(0.0) useful(0.0) information(0.0) out(0.0) of(0.0) it(0.0) .(0.0) This(0.0) bill(1.0) does(1.0) not(0.0) prejudice(1.0) those(0.0) studies(0.0) that(0.0) this(0.0) House(0.0) and(0.0) 
+the(0.0) President(1.0) agreed(0.0) on(0.0) .(0.0) The(0.0) President(1.0) said(0.0) in(0.0) the(0.0) State(0.0) of(0.0) the(0.0) Union(0.0) ,(0.0) ``(0.0) Thanks(0.0) to(0.0) the(0.0) actions(0.0) 
+of(0.0) this(0.0) Congress(0.0) last(0.0) year(0.0) ,(0.0) we(0.0) will(0.0) soon(0.0) have(0.0) for(0.0) the(0.0) first(0.0) time(0.0) a(0.0) voluntary(1.0) national(0.0) test(0.0) based(0.0) on(0.0) 
+national(1.0) standards(0.0) in(0.0) fourth(0.0) grade(0.0) reading(0.0) and(0.0) eighth(0.0) grade(0.0) math(0.0) .(0.0) ''(0.0) That(0.0) is(0.0) not(0.0) true(0.0) .(0.0) That(0.0) is(0.0) not(0.0) 
+what(0.0) we(0.0) agreed(0.0) to(0.0) .(0.0) On(0.0) the(0.0) website(0.0) for(0.0) the(0.0) Department(0.0) of(0.0) Education(0.0) ,(0.0) they(0.0) are(0.0) advertising(0.0) the(0.0) implementation(0.0) of(0.0) 
+a(0.0) national(1.0) test(0.0) that(0.0) Congress(0.0) said(0.0) ,(0.0) whoa(0.0) ,(0.0) stop(0.0) ,(0.0) slow(0.0) down(0.0) ,(0.0) no(0.0) go(0.0) .(0.0) We(0.0) are(0.0) not(0.0) 
+going(0.0) to(0.0) give(0.0) you(0.0) the(0.0) money(1.0) .(0.0) This(0.0) is(0.0) about(0.0) keeping(0.0) your(0.0) word(0.0) .(0.0) We(0.0) need(0.0) a(0.0) legion(0.0) of(0.0) 
+
+
+----- below are rationale words -----
+
+bill	?	
+Martinez	said	agree	
+legislation	
+President	administration	agreement	
+
+bill	national	
+President	
+veto-proof	proposal	
+Goodling	amendment	
+
+national	
+Washington	
+stigmatize	
+spend	national	
+President	
+spending	
+slowdown	programs	
+legislation	prejudice	
+bill	does	prejudice	
+President	President	
+voluntary	
+national	
+
+national	
+money	
+
+reads % = 0.072

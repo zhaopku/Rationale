@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) time(0.0) to(0.0) me(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) rise(0.0) in(0.0) opposition(1.0) to(0.0) this(0.0) 
+substitute(1.0) ,(0.0) and(0.0) urge(1.0) every(0.0) Member(0.0) of(0.0) this(0.0) House(0.0) to(0.0) vote(1.0) for(0.0) this(0.0) historic(1.0) opportunity(0.0) to(0.0) vote(1.0) for(0.0) a(0.0) real(0.0) 
+balanced(0.0) budget(1.0) ,(0.0) and(0.0) that(0.0) is(0.0) the(0.0) Kasich(1.0) balanced(1.0) budget(1.0) amendment(1.0) .(1.0) That(1.0) is(0.0) what(0.0) is(0.0) going(0.0) to(0.0) solve(0.0) the(0.0) 
+problems(0.0) of(0.0) this(0.0) country(1.0) .(0.0) It(0.0) is(0.0) going(0.0) to(0.0) return(0.0) more(0.0) money(1.0) to(0.0) the(0.0) hard-working(1.0) taxpayers(1.0) of(0.0) this(0.0) country(1.0) .(0.0) 
+That(0.0) is(0.0) what(0.0) is(0.0) going(0.0) to(0.0) be(0.0) fair(0.0) to(0.0) all(0.0) people(0.0) all(0.0) across(0.0) this(0.0) country(1.0) .(0.0) It(0.0) does(0.0) so(0.0) in(0.0) 
+such(0.0) a(0.0) way(0.0) that(0.0) it(0.0) does(0.0) not(0.0) create(0.0) the(0.0) kind(0.0) of(0.0) division(0.0) that(0.0) the(0.0) Democrats(1.0) on(0.0) the(0.0) other(0.0) side(0.0) would(0.0) 
+like(0.0) to(0.0) create(0.0) in(0.0) this(0.0) debate(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) this(0.0) is(0.0) not(0.0) about(0.0) class(0.0) warfare(1.0) ,(0.0) this(0.0) is(0.0) about(0.0) 
+protecting(1.0) the(0.0) future(0.0) of(0.0) our(0.0) children(0.0) ,(0.0) our(0.0) grandchildren(1.0) ,(0.0) and(0.0) about(0.0) what(0.0) is(0.0) happening(0.0) right(0.0) now(0.0) in(0.0) this(0.0) Congress(0.0) 
+,(0.0) and(0.0) what(0.0) is(0.0) happening(0.0) right(0.0) now(0.0) in(0.0) this(0.0) country(1.0) .(0.0) The(0.0) fact(0.0) of(0.0) the(0.0) matter(0.0) is(0.0) that(0.0) with(0.0) interest(0.0) 
+rates(0.0) rising(0.0) ,(0.0) the(0.0) fact(0.0) that(0.0) the(0.0) Federal(1.0) Government(1.0) borrows(1.0) $(0.0) 200(0.0) million(0.0) a(0.0) year(0.0) means(0.0) that(0.0) interest(0.0) rates(1.0) continue(0.0) 
+to(0.0) rise(1.0) ,(0.0) and(0.0) we(0.0) can(0.0) save(0.0) a(0.0) substantial(0.0) amount(0.0) of(0.0) money(1.0) if(0.0) we(0.0) can(0.0) balance(0.0) the(0.0) budget(1.0) and(0.0) go(0.0) 
+about(0.0) the(0.0) business(0.0) of(0.0) this(0.0) country(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	opposition	
+substitute	urge	vote	historic	vote	
+budget	Kasich	balanced	budget	amendment	.	That	
+country	money	hard-working	taxpayers	country	
+country	
+Democrats	
+debate	Chairman	warfare	
+protecting	grandchildren	
+country	
+Federal	Government	borrows	rates	
+rise	money	budget	
+country	
+
+reads % = 0.15350877192982457

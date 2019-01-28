@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+It(0.0) is(0.0) my(0.0) understanding(0.0) ,(0.0) and(0.0) I(0.0) would(0.0) like(0.0) to(0.0) be(0.0) corrected(0.0) if(0.0) not(0.0) ,(0.0) that(0.0) in(0.0) fact(0.0) there(0.0) was(0.0) a(0.0) 
+substitute(0.0) that(0.0) was(0.0) brought(0.0) to(0.0) the(0.0) committee(0.0) .(0.0) My(0.0) understanding(0.0) is(0.0) that(0.0) it(0.0) was(0.0) out(0.0) of(0.0) order(0.0) .(0.0) But(0.0) is(0.0) 
+it(0.0) not(0.0) customary(0.0) ,(0.0) on(0.0) occasion(0.0) ,(0.0) that(0.0) we(0.0) have(0.0) the(0.0) opportunity(0.0) to(0.0) waive(1.0) the(0.0) rules(1.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+waive	rules	
+
+reads % = 0.034482758620689655

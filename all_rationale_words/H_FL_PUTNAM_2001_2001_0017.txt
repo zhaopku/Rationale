@@ -1,0 +1,44 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) represent(0.0) an(0.0) area(0.0) that(0.0) should(0.0) be(0.0) the(0.0) target(0.0) population(0.0) for(0.0) this(0.0) amendment(1.0) ,(0.0) a(0.0) State(0.0) that(0.0) does(0.0) 
+not(0.0) benefit(0.0) from(0.0) the(0.0) traditional(0.0) commodities(0.0) programs(0.0) ,(0.0) a(0.0) State(0.0) that(0.0) has(0.0) a(0.0) tremendous(0.0) agricultural(1.0) base(0.0) ,(0.0) a(0.0) lot(0.0) of(0.0) 
+family(0.0) farms(0.0) .(0.0) But(0.0) contrary(0.0) to(0.0) what(0.0) the(0.0) propaganda(1.0) has(0.0) been(0.0) that(0.0) has(0.0) been(0.0) put(0.0) out(0.0) there(0.0) ,(0.0) this(0.0) bill(1.0) 
+gives(0.0) the(0.0) perception(0.0) that(0.0) the(0.0) money(1.0) is(0.0) going(0.0) to(0.0) States(0.0) like(0.0) Florida(1.0) ,(0.0) like(0.0) fruit(0.0) and(0.0) vegetable(0.0) producing(0.0) States(0.0) that(0.0) 
+do(0.0) not(0.0) have(0.0) the(0.0) grains(0.0) ,(0.0) but(0.0) it(0.0) takes(0.0) it(0.0) away(0.0) with(0.0) these(0.0) size(0.0) limitations(1.0) .(0.0) Forty(0.0) percent(0.0) of(0.0) the(0.0) 
+dairy(1.0) farms(0.0) in(0.0) Florida(1.0) would(0.0) not(0.0) qualify(0.0) for(0.0) any(0.0) of(0.0) the(0.0) benefits(1.0) placed(0.0) under(0.0) the(0.0) Kind(0.0) amendment(1.0) .(0.0) Ninety(0.0) percent(0.0) 
+of(0.0) the(0.0) poultry(1.0) farms(0.0) would(0.0) not(0.0) qualify(0.0) as(0.0) put(0.0) out(0.0) by(0.0) our(0.0) Commissioner(1.0) of(0.0) Agriculture(0.0) in(0.0) a(0.0) letter(0.0) to(0.0) the(0.0) 
+delegation(0.0) this(0.0) morning(0.0) .(0.0) It(0.0) is(0.0) time(0.0) for(0.0) some(0.0) of(0.0) those(0.0) environmental(1.0) groups(0.0) and(0.0) sportsmen's(0.0) groups(0.0) to(0.0) pull(0.0) off(0.0) the(0.0) 
+interstate(1.0) ,(0.0) step(0.0) out(0.0) of(0.0) the(0.0) Range(0.0) Rover(0.0) ,(0.0) get(0.0) your(0.0) feet(0.0) dirty(1.0) and(0.0) see(0.0) what(0.0) farmers(1.0) need(0.0) .(0.0) Farmers(1.0) 
+need(0.0) the(0.0) ability(0.0) to(0.0) continue(0.0) to(0.0) produce(0.0) food(1.0) and(0.0) fiber(0.0) for(0.0) this(0.0) Nation(1.0) .(0.0) Farmers(1.0) need(0.0) the(0.0) ability(0.0) to(0.0) stay(0.0) 
+in(0.0) business(0.0) ,(0.0) with(0.0) working(0.0) lands(0.0) ,(0.0) with(0.0) productive(0.0) lands(0.0) ,(0.0) with(0.0) assistance(1.0) to(0.0) do(0.0) what(0.0) they(0.0) want(0.0) to(0.0) do(0.0) 
+,(0.0) to(0.0) raise(1.0) crops(0.0) ,(0.0) to(0.0) grow(0.0) livestock(1.0) ,(0.0) not(0.0) to(0.0) raise(1.0) government(1.0) payments(1.0) ,(0.0) not(0.0) to(0.0) harvest(0.0) checks(0.0) from(0.0) 
+the(0.0) mailbox(0.0) ,(0.0) not(0.0) to(0.0) be(0.0) a(0.0) part(0.0) of(0.0) an(0.0) environmental(1.0) movement(1.0) .(0.0) If(0.0) the(0.0) farm(0.0) organizations(0.0) were(0.0) going(0.0) to(0.0) 
+benefit(1.0) from(0.0) this(0.0) program(1.0) ,(0.0) then(0.0) how(0.0) come(0.0) none(0.0) of(0.0) them(0.0) support(0.0) this(0.0) amendment(1.0) ?(1.0) Do(0.0) not(0.0) scratch(0.0) our(0.0) ear(0.0) 
+and(0.0) walk(0.0) us(0.0) to(0.0) the(0.0) kill(1.0) floor(0.0) .(0.0) This(0.0) amendment(1.0) is(0.0) bad(0.0) for(0.0) farmers(1.0) .(0.0) It(0.0) is(0.0) bad(0.0) for(0.0) agriculture(1.0) 
+.(0.0) It(0.0) is(0.0) time(0.0) that(0.0) we(0.0) step(0.0) back(0.0) and(0.0) support(0.0) the(0.0) original(0.0) bill(1.0) that(0.0) bumps(0.0) up(0.0) conservation(1.0) support(0.0) ,(0.0) encourages(1.0) 
+good(0.0) stewardship(1.0) of(0.0) the(0.0) land(0.0) and(0.0) reinforces(0.0) private(0.0) property(0.0) rights(0.0) and(0.0) entrepreneurial(1.0) spirit(0.0) in(0.0) the(0.0) United(0.0) States(0.0) and(0.0) in(0.0) the(0.0) 
+agricultural(1.0) economy(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	amendment	
+agricultural	
+propaganda	bill	
+money	Florida	
+limitations	
+dairy	Florida	benefits	amendment	
+poultry	Commissioner	
+environmental	
+interstate	dirty	farmers	Farmers	
+food	Nation	Farmers	
+assistance	
+raise	livestock	raise	government	payments	
+environmental	movement	
+benefit	program	amendment	?	
+kill	amendment	farmers	agriculture	
+bill	conservation	encourages	
+stewardship	entrepreneurial	
+agricultural	economy	
+
+reads % = 0.1308139534883721

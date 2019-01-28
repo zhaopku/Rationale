@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) would(0.0) like(0.0) to(0.0) ask(0.0) the(0.0) gentleman(0.0) from(0.0) South(0.0) Carolina(0.0) [(0.0) Mr.(0.0) Spence(1.0) ](0.0) if(1.0) he(1.0) would(1.0) engage(1.0) in(0.0) 
+a(0.0) colloquy(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) would(0.0) ask(0.0) the(0.0) gentleman(0.0) if(0.0) I(0.0) am(0.0) correct(0.0) in(0.0) understanding(0.0) that(0.0) the(0.0) conference(0.0) 
+report(0.0) provides(0.0) $(0.0) 40.2(0.0) million(0.0) for(0.0) upgrades(0.0) and(0.0) modifications(0.0) to(0.0) the(0.0) Army(0.0) 's(0.0) M-113(0.0) armored(0.0) personnel(0.0) carrier(0.0) ?(0.0) And(0.0) is(0.0) 
+there(0.0) any(0.0) amount(0.0) of(0.0) funding(1.0) authorized(0.0) for(0.0) reactive(0.0) armor(0.0) tiles(0.0) for(0.0) the(0.0) M-113(1.0) vehicle(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+Spence	if	he	would	engage	
+Speaker	
+
+funding	M-113	
+
+reads % = 0.10526315789473684

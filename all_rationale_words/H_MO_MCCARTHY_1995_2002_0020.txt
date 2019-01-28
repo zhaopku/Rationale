@@ -1,0 +1,48 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) the(0.0) conference(0.0) report(0.0) on(0.0) H.R(0.0) .(0.0) 3295(0.0) ,(0.0) the(0.0) Help(0.0) American(0.0) Vote(1.0) Act(1.0) .(0.0) 
+I(0.0) wholeheartedly(0.0) endorse(1.0) the(0.0) meaningful(1.0) collaboration(0.0) of(0.0) the(0.0) bipartisan(1.0) group(0.0) ,(0.0) led(0.0) by(0.0) my(0.0) colleagues(0.0) Congressman(1.0) Ney(1.0) and(0.0) Congressman(1.0) Hoyer(1.0) 
+.(0.0) The(0.0) Help(0.0) American(0.0) Vote(1.0) Act(0.0) corrects(0.0) the(0.0) mistakes(0.0) with(0.0) our(0.0) election(1.0) system(0.0) that(0.0) were(0.0) highlighted(0.0) in(0.0) the(0.0) aftermath(1.0) of(0.0) 
+the(0.0) 2000(0.0) election(0.0) .(0.0) I(0.0) have(0.0) seen(0.0) firsthand(0.0) the(0.0) challenges(0.0) inadequately(1.0) equipped(0.0) polling(0.0) places(0.0) and(0.0) poorly(0.0) trained(0.0) poll(0.0) workers(0.0) pose(0.0) 
+to(0.0) our(0.0) communities(1.0) .(0.0) This(0.0) measure(1.0) will(0.0) go(0.0) far(0.0) in(0.0) ensuring(0.0) everyone(0.0) 's(0.0) right(0.0) and(0.0) access(0.0) to(0.0) a(0.0) vote(0.0) .(0.0) 
+I(0.0) introduced(0.0) bipartisan(1.0) election(1.0) reform(1.0) legislation(1.0) to(1.0) establish(1.0) a(1.0) federal(1.0) grant(1.0) program(1.0) to(0.0) provide(0.0) assistance(1.0) to(0.0) States(0.0) for(0.0) modernizing(1.0) and(0.0) 
+enhancing(0.0) voting(1.0) procedures(1.0) and(0.0) administration(1.0) .(0.0) The(0.0) substantive(1.0) changes(0.0) that(0.0) my(0.0) legislation(1.0) proposes(1.0) are(0.0) contained(0.0) in(0.0) the(0.0) detailed(0.0) election(0.0) reform(1.0) 
+conference(0.0) report(0.0) we(0.0) will(0.0) pass(0.0) today(0.0) .(0.0) I(0.0) applaud(0.0) this(0.0) bill(1.0) because(1.0) it(0.0) provides(0.0) states(1.0) with(0.0) both(0.0) the(0.0) standards(1.0) and(0.0) 
+the(0.0) funding(1.0) to(0.0) make(0.0) real(0.0) election(0.0) reform(1.0) happen(0.0) .(0.0) This(0.0) legislation(1.0) authorizes(1.0) $(0.0) 3.0(0.0) billion(1.0) over(0.0) 3(0.0) years(0.0) --(0.0) for(0.0) 
+a(0.0) grant(1.0) program(0.0) administered(0.0) by(0.0) the(0.0) commission(0.0) to(0.0) help(0.0) States(0.0) meet(0.0) election(0.0) requirements(1.0) ,(0.0) train(0.0) poll(0.0) workers(1.0) ,(0.0) provide(0.0) voter(1.0) 
+education(1.0) ,(0.0) and(0.0) administer(1.0) elections(0.0) .(0.0) The(0.0) Help(0.0) American(0.0) Vote(1.0) Act(1.0) also(0.0) requires(0.0) States(0.0) to(0.0) abide(0.0) by(0.0) uniform(1.0) and(0.0) nondiscriminatory(1.0) 
+requirements(0.0) ,(0.0) such(0.0) as(0.0) providing(0.0) provisional(0.0) ballots(0.0) ,(0.0) implementing(0.0) statewide(1.0) voter(1.0) registration(1.0) databases(0.0) and(0.0) ensuring(0.0) that(0.0) each(0.0) precinct(0.0) has(0.0) at(0.0) 
+least(0.0) one(0.0) machine(0.0) that(0.0) is(0.0) accessible(0.0) to(0.0) the(0.0) disabled(0.0) .(0.0) It(0.0) also(0.0) establishes(0.0) an(0.0) Election(0.0) Assistance(1.0) Commission(0.0) ,(0.0) a(0.0) bipartisan(1.0) 
+commission(0.0) that(0.0) will(0.0) issue(0.0) voluntary(1.0) guidelines(0.0) ,(0.0) issue(0.0) grants(1.0) ,(0.0) and(0.0) administer(0.0) research(0.0) grants(0.0) ,(0.0) and(0.0) pilot(0.0) projects(0.0) .(0.0) Mr.(0.0) 
+Speaker(1.0) ,(0.0) this(0.0) bill(1.0) would(1.0) provide(0.0) the(0.0) most(0.0) meaningful(1.0) reform(1.0) to(0.0) our(0.0) democratic(1.0) election(1.0) system(0.0) since(0.0) the(0.0) civil(1.0) rights(1.0) laws(1.0) 
+were(0.0) enacted(0.0) in(0.0) the(0.0) 1960s(1.0) .(0.0) It(0.0) is(0.0) time(0.0) to(0.0) pass(0.0) real(0.0) election(0.0) reform(1.0) ,(0.0) time(0.0) to(0.0) Help(0.0) American(0.0) Vote(1.0) 
+.(0.0) This(0.0) legislation(1.0) will(0.0) restore(1.0) the(0.0) confidence(0.0) of(0.0) the(0.0) American(0.0) people(0.0) in(0.0) our(0.0) election(1.0) process(0.0) and(0.0) encourage(0.0) all(0.0) citizens(1.0) to(0.0) 
+take(0.0) part(0.0) in(0.0) one(0.0) of(0.0) the(0.0) paramount(0.0) processes(0.0) that(0.0) defines(1.0) us(0.0) as(0.0) a(0.0) nation(0.0) .(0.0) Strengthening(1.0) our(0.0) election(1.0) system(0.0) strengthens(0.0) 
+our(0.0) democracy(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) vote(1.0) ``(0.0) yes(0.0) ''(0.0) on(0.0) this(0.0) conference(0.0) report(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+Vote	Act	
+endorse	meaningful	bipartisan	Congressman	Ney	Congressman	Hoyer	
+Vote	election	aftermath	
+inadequately	
+communities	measure	
+bipartisan	election	reform	legislation	to	establish	a	federal	grant	program	assistance	modernizing	
+voting	procedures	administration	substantive	legislation	proposes	reform	
+bill	because	states	standards	
+funding	reform	legislation	authorizes	billion	
+grant	requirements	workers	voter	
+education	administer	Vote	Act	uniform	nondiscriminatory	
+statewide	voter	registration	
+Assistance	bipartisan	
+voluntary	grants	
+Speaker	bill	would	meaningful	reform	democratic	election	civil	rights	laws	
+1960s	reform	Vote	
+legislation	restore	election	citizens	
+defines	Strengthening	election	
+democracy	Speaker	vote	
+
+
+reads % = 0.2178477690288714

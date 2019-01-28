@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+212(0.0) I(0.0) was(0.0) unable(0.0) to(0.0) vote(1.0) due(0.0) to(0.0) a(0.0) medical(0.0) procedure(0.0) .(0.0) Had(0.0) I(0.0) been(0.0) present(0.0) ,(0.0) I(0.0) would(0.0) have(0.0) voted(0.0) 
+``(0.0) yes(0.0) .(0.0) ''(0.0) 
+
+
+----- below are rationale words -----
+
+vote	
+
+
+reads % = 0.04

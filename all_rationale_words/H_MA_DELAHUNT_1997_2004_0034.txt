@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Two(0.0) values(0.0) and(0.0) two(0.0) budgets(1.0) ,(0.0) a(0.0) budget(1.0) for(0.0) the(0.0) United(0.0) States(0.0) of(0.0) America(0.0) and(0.0) a(0.0) budget(0.0) for(0.0) Iraq(1.0) .(0.0) But(0.0) 
+the(0.0) truth(0.0) is(0.0) ,(0.0) the(0.0) reality(0.0) is(0.0) that(0.0) it(0.0) is(0.0) the(0.0) American(0.0) taxpayer(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+budgets	budget	Iraq	
+taxpayer	
+
+reads % = 0.11428571428571428

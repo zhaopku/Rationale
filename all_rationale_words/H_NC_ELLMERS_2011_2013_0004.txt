@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) support(0.0) of(0.0) the(0.0) House(0.0) budget(1.0) proposal(1.0) for(0.0) the(0.0) 2014(1.0) fiscal(1.0) year(0.0) .(0.0) This(0.0) proposal(1.0) sets(0.0) 
+real(0.0) practical(0.0) goals(0.0) that(0.0) will(0.0) stop(0.0) spending(1.0) money(1.0) we(0.0) do(0.0) n't(0.0) have(0.0) by(0.0) cutting(1.0) wasteful(1.0) spending(1.0) ,(0.0) fix(1.0) our(0.0) broken(1.0) 
+Tax(1.0) Code(1.0) to(0.0) create(0.0) jobs(1.0) and(0.0) increase(1.0) wages(1.0) ,(0.0) protect(1.0) and(0.0) strengthen(1.0) important(0.0) priorities(1.0) like(0.0) Medicare(1.0) and(0.0) national(1.0) security(0.0) ,(0.0) 
+reform(1.0) welfare(1.0) programs(1.0) like(0.0) Medicaid(1.0) so(0.0) that(0.0) we(0.0) can(0.0) deliver(0.0) on(0.0) the(0.0) promises(1.0) that(0.0) we(0.0) have(0.0) made(0.0) for(0.0) those(0.0) who(0.0) 
+truly(0.0) need(0.0) it(0.0) ,(0.0) and(0.0) repeal(1.0) the(0.0) President(1.0) 's(0.0) health(1.0) care(0.0) bill(1.0) so(0.0) that(0.0) we(0.0) can(0.0) finally(0.0) replace(0.0) it(0.0) with(0.0) 
+meaningful(0.0) patient-centered(1.0) health(1.0) care(1.0) .(0.0) Most(0.0) importantly(0.0) ,(0.0) it(0.0) reduces(0.0) the(0.0) deficit(1.0) and(0.0) the(0.0) debt(1.0) that(0.0) we(0.0) have(0.0) ,(0.0) and(0.0) 
+it(0.0) becomes(0.0) balanced(0.0) in(0.0) 10(0.0) years(0.0) .(0.0) I(0.0) am(0.0) continuously(0.0) amazed(0.0) by(0.0) those(0.0) on(0.0) the(0.0) other(0.0) side(0.0) of(0.0) the(0.0) aisle(0.0) 
+who(0.0) say(0.0) that(0.0) this(0.0) is(0.0) just(0.0) crazy(0.0) talk(0.0) that(0.0) we(0.0) would(0.0) balance(0.0) the(0.0) Federal(1.0) budget(1.0) in(0.0) 10(0.0) years(0.0) .(0.0) Mr.(0.0) 
+Speaker(1.0) ,(0.0) this(0.0) addresses(1.0) the(0.0) issues(0.0) and(0.0) the(0.0) goals(0.0) that(0.0) will(0.0) create(0.0) a(0.0) pro-growth(1.0) economy(1.0) and(0.0) which(0.0) will(0.0) affect(0.0) every(0.0) 
+American(0.0) family(0.0) across(0.0) this(0.0) country(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+budget	proposal	2014	fiscal	proposal	
+spending	money	cutting	wasteful	spending	fix	broken	
+Tax	Code	jobs	increase	wages	protect	strengthen	priorities	Medicare	national	
+reform	welfare	programs	Medicaid	promises	
+repeal	President	health	bill	
+patient-centered	health	care	deficit	debt	
+
+Federal	budget	
+Speaker	addresses	pro-growth	economy	
+country	
+
+reads % = 0.22994652406417113

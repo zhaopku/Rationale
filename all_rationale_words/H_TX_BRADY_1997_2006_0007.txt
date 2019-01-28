@@ -1,0 +1,22 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) as(0.0) you(0.0) know(0.0) ,(0.0) many(0.0) veterans(1.0) live(0.0) hours(0.0) from(0.0) major(0.0) hospitals(1.0) ,(0.0) making(0.0) it(0.0) very(0.0) difficult(0.0) for(0.0) them(0.0) to(0.0) 
+get(0.0) the(0.0) care(0.0) they(0.0) need(0.0) ;(0.0) and(0.0) oftentimes(0.0) ,(0.0) for(0.0) those(0.0) who(0.0) have(0.0) to(0.0) travel(0.0) there(0.0) two(0.0) or(0.0) three(0.0) times(0.0) 
+a(0.0) week(0.0) ,(0.0) they(0.0) have(0.0) a(0.0) terrible(0.0) quality(0.0) of(0.0) life(0.0) .(0.0) That(0.0) is(0.0) why(0.0) our(0.0) local(0.0) veterans(0.0) health(1.0) care(0.0) clinics(1.0) 
+,(0.0) known(0.0) as(0.0) Community-Based(1.0) Outpatient(1.0) Clinics(0.0) ,(0.0) are(0.0) just(0.0) so(0.0) important(0.0) to(0.0) deliver(0.0) quality(0.0) care(0.0) for(0.0) veterans(1.0) .(0.0) These(0.0) have(0.0) 
+been(0.0) stalled(0.0) in(0.0) recent(0.0) years(0.0) ;(0.0) yet(0.0) ,(0.0) my(0.0) understanding(0.0) is(0.0) that(0.0) in(0.0) this(0.0) bill(1.0) there(0.0) is(0.0) a(0.0) strong(0.0) commitment(0.0) 
+of(0.0) $(0.0) 25(0.0) million(0.0) to(0.0) build(0.0) the(0.0) highest(0.0) priority(1.0) Community-Based(1.0) Outpatient(1.0) Clinics(1.0) in(0.0) the(0.0) country(1.0) .(0.0) Is(0.0) that(0.0) the(0.0) case(0.0) 
+?(0.0) 
+
+
+----- below are rationale words -----
+
+veterans	hospitals	
+
+health	clinics	
+Community-Based	Outpatient	veterans	
+bill	
+priority	Community-Based	Outpatient	Clinics	country	
+
+
+reads % = 0.10655737704918032

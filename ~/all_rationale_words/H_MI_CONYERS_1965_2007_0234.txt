@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) am(1.0) delighted(1.0) to(0.0) yield(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(1.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Virginia(1.0) ((0.0) Mr.(0.0) Moran(1.0) )(0.0) 
+to(0.0) close(0.0) on(0.0) our(0.0) side(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+am	delighted	time	Virginia	Moran	
+
+
+reads % = 0.18518518518518517

@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(1.0) ,(0.0) once(1.0) again(0.0) ,(0.0) and(0.0) I(0.0) have(0.0) risen(1.0) so(0.0) many(0.0) times(0.0) in(0.0) the(0.0) last(1.0) several(0.0) years(0.0) talking(0.0) about(0.0) the(0.0) very(0.0) 
+ill-conceived(1.0) program(0.0) that(0.0) the(0.0) administration(0.0) fostered(1.0) in(0.0) creating(0.0) an(0.0) ability(0.0) of(0.0) the(0.0) United(0.0) States(0.0) to(0.0) fund(1.0) houses(0.0) for(0.0) Russian(1.0) soldiers(1.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+once	risen	last	
+ill-conceived	fostered	fund	Russian	soldiers	
+
+
+reads % = 0.19047619047619047

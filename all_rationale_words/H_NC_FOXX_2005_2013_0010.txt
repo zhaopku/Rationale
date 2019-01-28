@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) the(0.0) President(1.0) seems(0.0) to(0.0) think(0.0) that(0.0) the(0.0) only(0.0) way(0.0) for(0.0) us(0.0) to(0.0) replace(1.0) the(0.0) arbitrary(1.0) spending(1.0) cuts(1.0) ,(0.0) known(0.0) 
+as(0.0) the(0.0) sequester(1.0) --(0.0) the(0.0) sequester(1.0) which(0.0) the(0.0) President(1.0) 's(0.0) own(0.0) operatives(0.0) came(0.0) up(0.0) with(0.0) --(0.0) is(0.0) to(0.0) enact(1.0) more(0.0) 
+tax(1.0) increases(1.0) .(0.0) But(0.0) should(0.0) we(0.0) really(0.0) be(0.0) talking(0.0) about(0.0) raising(1.0) taxes(1.0) when(0.0) so(0.0) many(0.0) examples(0.0) of(0.0) government(1.0) waste(1.0) abound(0.0) 
+?(0.0) Do(0.0) we(0.0) need(0.0) to(0.0) spend(1.0) $(0.0) 1.2(0.0) million(0.0) to(0.0) have(0.0) the(0.0) National(0.0) Science(0.0) Foundation(0.0) pay(0.0) people(0.0) to(0.0) play(0.0) video(0.0) 
+games(0.0) ?(0.0) Do(0.0) we(0.0) need(0.0) the(0.0) EPA(1.0) to(0.0) give(0.0) away(0.0) over(0.0) $(0.0) 100(0.0) million(0.0) in(0.0) grants(1.0) to(0.0) foreign(1.0) countries(0.0) like(0.0) 
+China(1.0) ?(0.0) Or(0.0) what(0.0) about(0.0) bankrolling(1.0) Tax(1.0) TV(0.0) ?(0.0) The(0.0) IRS(1.0) spends(1.0) $(0.0) 4(0.0) million(0.0) of(0.0) our(0.0) tax(1.0) dollars(1.0) every(0.0) 
+year(0.0) to(0.0) run(1.0) its(0.0) very(0.0) own(0.0) full-service(1.0) television(0.0) studio(0.0) .(0.0) Instead(0.0) of(0.0) raising(1.0) taxes(1.0) ,(0.0) let(0.0) 's(0.0) get(0.0) serious(0.0) about(0.0) 
+cutting(1.0) waste(1.0) .(0.0) The(0.0) House(0.0) has(0.0) acted(0.0) to(0.0) replace(1.0) the(0.0) sequester(1.0) with(0.0) commonsense(1.0) cuts(1.0) and(0.0) reforms(1.0) .(0.0) It(0.0) 's(0.0) time(0.0) 
+to(0.0) see(0.0) a(0.0) serious(0.0) plan(0.0) from(0.0) the(0.0) President(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+President	replace	arbitrary	spending	cuts	
+sequester	sequester	President	enact	
+tax	increases	raising	taxes	government	waste	
+spend	
+EPA	grants	foreign	
+China	bankrolling	Tax	IRS	spends	tax	dollars	
+run	full-service	raising	taxes	
+cutting	waste	replace	sequester	commonsense	cuts	reforms	
+President	
+
+reads % = 0.2235294117647059

@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+The(0.0) American(0.0) people(0.0) want(0.0) both(0.0) sides(0.0) of(0.0) the(0.0) aisle(0.0) working(0.0) together(0.0) to(0.0) help(0.0) lower(0.0) the(0.0) cost(1.0) of(0.0) health(1.0) care(1.0) .(0.0) However(0.0) 
+,(0.0) according(0.0) to(0.0) a(0.0) story(0.0) in(0.0) today(0.0) 's(0.0) New(1.0) York(1.0) Times(1.0) ,(0.0) even(0.0) all(0.0) but(0.0) a(0.0) few(0.0) Democrats(0.0) ,(0.0) in(0.0) 
+addition(0.0) to(0.0) Republicans(1.0) ,(1.0) are(1.0) being(0.0) left(1.0) out(0.0) of(0.0) the(0.0) talks(1.0) .(0.0) Some(0.0) Washington(1.0) Democrats(1.0) are(0.0) more(0.0) concerned(0.0) with(0.0) implementing(1.0) 
+a(0.0) government-run(1.0) ,(0.0) bureaucratic(1.0) health(1.0) care(1.0) system(0.0) than(0.0) achieving(1.0) real(0.0) solutions(0.0) .(0.0) Working(0.0) together(0.0) ,(0.0) we(0.0) can(0.0) lower(0.0) the(0.0) cost(1.0) 
+of(0.0) health(1.0) care(1.0) in(0.0) America(1.0) while(0.0) increasing(1.0) access(0.0) to(0.0) a(0.0) doctor(0.0) and(0.0) high-quality(0.0) care(1.0) .(0.0) Both(0.0) sides(0.0) have(0.0) good(0.0) answers(0.0) 
+,(0.0) which(0.0) we(0.0) should(0.0) consider(0.0) .(0.0) However(0.0) ,(0.0) a(0.0) silver(0.0) bullet(0.0) does(0.0) not(0.0) exist(0.0) to(0.0) solve(0.0) all(0.0) the(0.0) problems(0.0) .(0.0) 
+Compromise(1.0) and(0.0) common(0.0) sense(0.0) could(0.0) produce(0.0) results(0.0) --(0.0) such(0.0) as(0.0) lower(0.0) costs(1.0) ,(0.0) better(0.0) access(0.0) to(0.0) a(0.0) doctor(0.0) ,(0.0) and(0.0) 
+coverage(1.0) for(0.0) all(0.0) .(0.0) And(0.0) that(0.0) 's(0.0) what(0.0) we(0.0) should(0.0) be(0.0) working(0.0) toward(0.0) .(0.0) Health(1.0) care(1.0) is(0.0) a(0.0) complex(0.0) issue(0.0) 
+that(0.0) affects(0.0) individuals(0.0) and(0.0) businesses(1.0) ,(0.0) young(0.0) and(0.0) old(0.0) --(0.0) everyone(0.0) .(0.0) And(0.0) that(0.0) 's(0.0) why(0.0) it(0.0) 's(0.0) more(0.0) important(0.0) 
+than(0.0) ever(0.0) to(0.0) work(0.0) together(0.0) to(0.0) come(0.0) up(0.0) with(0.0) good(0.0) policies(1.0) that(0.0) will(0.0) help(0.0) the(0.0) American(0.0) people(0.0) .(0.0) They(0.0) want(0.0) 
+us(0.0) to(0.0) work(0.0) together(0.0) to(0.0) achieve(0.0) real(0.0) solutions(0.0) --(0.0) and(0.0) that(0.0) 's(0.0) what(0.0) we(0.0) should(0.0) be(0.0) working(0.0) to(0.0) ,(0.0) Madam(0.0) 
+Speaker(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+cost	health	care	
+New	York	Times	
+Republicans	,	are	left	talks	Washington	Democrats	implementing	
+government-run	bureaucratic	health	care	achieving	cost	
+health	care	America	increasing	care	
+
+Compromise	costs	
+coverage	Health	care	
+businesses	
+policies	
+
+Speaker	
+
+reads % = 0.14798206278026907

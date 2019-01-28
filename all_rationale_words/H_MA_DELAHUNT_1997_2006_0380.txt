@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+With(0.0) the(0.0) end(0.0) game(0.0) being(0.0) the(0.0) forging(1.0) of(0.0) an(0.0) alliance(1.0) between(0.0) Iran(1.0) and(0.0) Iraq(1.0) ,(0.0) what(0.0) we(0.0) have(0.0) done(0.0) is(0.0) ,(0.0) 
+the(0.0) policies(1.0) of(0.0) this(0.0) administration(1.0) ,(0.0) without(0.0) a(0.0) single(0.0) question(0.0) being(0.0) posed(0.0) by(0.0) this(0.0) majority(1.0) ,(0.0) we(0.0) have(0.0) created(0.0) a(0.0) 
+hegemony(1.0) in(0.0) the(0.0) Middle(0.0) East(0.0) ,(0.0) and(0.0) that(0.0) is(0.0) the(0.0) Islamic(1.0) Republic(0.0) of(0.0) Iran(0.0) .(0.0) Do(0.0) n't(0.0) think(0.0) that(0.0) this(0.0) 
+photo(0.0) is(0.0) the(0.0) last(0.0) time(0.0) we(0.0) will(0.0) see(0.0) these(0.0) gentlemen(0.0) together(0.0) .(0.0) The(0.0) current(0.0) prime(0.0) minister(0.0) during(0.0) the(0.0) Saddam(1.0) Hussein(0.0) 
+years(0.0) spent(0.0) considerable(0.0) time(0.0) in(0.0) Tehran(1.0) and(0.0) in(0.0) Syria(1.0) .(0.0) I(0.0) am(0.0) not(0.0) even(0.0) blaming(0.0) him(0.0) .(0.0) Where(0.0) is(0.0) the(0.0) 
+administration(1.0) ?(0.0) Where(0.0) is(0.0) the(0.0) House(0.0) International(0.0) Relations(0.0) Committee(0.0) ,(0.0) which(0.0) I(0.0) serve(0.0) on(0.0) with(0.0) my(0.0) friend(0.0) and(0.0) colleague(0.0) from(0.0) 
+California(0.0) ,(0.0) Diane(1.0) Watson(1.0) ?(1.0) Why(1.0) is(0.0) n't(0.0) there(0.0) hearing(0.0) after(0.0) hearing(0.0) after(0.0) hearing(0.0) asking(0.0) these(0.0) questions(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+forging	alliance	Iran	Iraq	
+policies	administration	majority	
+hegemony	Islamic	
+Saddam	
+Tehran	Syria	
+administration	
+Diane	Watson	?	Why	
+
+reads % = 0.1223021582733813

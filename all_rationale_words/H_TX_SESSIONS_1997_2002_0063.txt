@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) 4(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Illinois(1.0) ((0.0) Mr.(0.0) Weller(1.0) )(0.0) ,(0.0) the(0.0) sponsor(0.0) of(0.0) the(0.0) Marriage(0.0) 
+Penalty(0.0) Relief(0.0) Act(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Illinois	Weller	
+
+
+reads % = 0.08

@@ -1,0 +1,34 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) in(0.0) reference(0.0) to(0.0) the(0.0) gentleman(0.0) that(0.0) just(0.0) spoke(0.0) in(0.0) regards(0.0) to(0.0) the(0.0) classrooms(0.0) ,(0.0) I(0.0) know(0.0) ,(0.0) in(0.0) our(0.0) 
+State(1.0) ,(0.0) we(0.0) did(0.0) an(0.0) analysis(0.0) ,(0.0) and(0.0) almost(0.0) $(0.0) 200(0.0) million(0.0) is(0.0) going(0.0) to(0.0) be(0.0) needed(0.0) to(0.0) increase(0.0) the(0.0) 
+safety(0.0) because(0.0) of(0.0) lead(0.0) in(0.0) the(0.0) drinking(1.0) water(0.0) in(0.0) school(1.0) ,(0.0) because(0.0) of(0.0) the(0.0) asbestos(1.0) around(0.0) the(0.0) pipes(1.0) ,(0.0) to(0.0) 
+increase(1.0) the(0.0) safety(0.0) in(0.0) environment(1.0) for(0.0) our(0.0) children(0.0) .(0.0) Because(0.0) as(0.0) we(0.0) try(0.0) to(0.0) decrease(1.0) the(0.0) class(0.0) size(0.0) so(0.0) that(0.0) 
+they(0.0) can(0.0) learn(0.0) more(0.0) ,(0.0) they(0.0) can(0.0) be(0.0) more(0.0) disciplined(0.0) there(0.0) ,(0.0) they(0.0) have(0.0) to(0.0) have(0.0) the(0.0) environment(0.0) so(0.0) that(0.0) 
+they(0.0) are(0.0) not(0.0) gaining(0.0) any(0.0) other(0.0) outside(0.0) hazards(0.0) .(0.0) In(0.0) the(0.0) relationship(0.0) to(0.0) the(0.0) young(0.0) man(0.0) who(0.0) died(0.0) from(0.0) the(0.0) 
+hate(1.0) crime(1.0) in(0.0) Wyoming(1.0) ,(0.0) I(0.0) think(0.0) it(0.0) points(0.0) back(0.0) to(0.0) the(0.0) fact(0.0) that(0.0) ,(0.0) by(0.0) increasing(1.0) discipline(0.0) ,(0.0) by(0.0) 
+reducing(1.0) class(1.0) size(0.0) ,(0.0) we(0.0) are(0.0) going(0.0) to(0.0) increase(1.0) the(0.0) likelihood(0.0) where(0.0) children(0.0) will(0.0) be(0.0) raised(0.0) differently(0.0) ,(0.0) and(0.0) they(0.0) 
+will(0.0) not(0.0) have(0.0) these(0.0) problems(0.0) stemming(1.0) from(0.0) lack(1.0) of(0.0) supervision(0.0) .(0.0) So(0.0) by(0.0) reducing(1.0) the(0.0) class(0.0) size(0.0) ,(0.0) we(0.0) are(0.0) 
+reducing(1.0) the(0.0) violence(1.0) .(0.0) By(0.0) reducing(1.0) the(0.0) class(0.0) size(0.0) ,(0.0) we(0.0) are(0.0) increasing(1.0) the(0.0) education(1.0) children(0.0) get(0.0) and(0.0) raising(1.0) their(0.0) 
+aspirations(1.0) so(0.0) that(0.0) ,(0.0) in(0.0) my(0.0) state(1.0) ,(0.0) the(0.0) fourth(0.0) and(0.0) eighth(0.0) graders(0.0) who(0.0) are(0.0) doing(0.0) tops(0.0) in(0.0) the(0.0) country(1.0) 
+can(0.0) have(0.0) the(0.0) aspirations(1.0) to(0.0) go(0.0) on(0.0) to(0.0) college(1.0) and(0.0) to(0.0) reach(0.0) the(0.0) American(0.0) dream(0.0) .(0.0) That(0.0) is(0.0) why(0.0) we(0.0) 
+support(0.0) education(1.0) ,(0.0) and(0.0) that(0.0) is(0.0) why(0.0) education(1.0) is(0.0) in(0.0) support(0.0) of(0.0) programs(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+State	
+drinking	school	asbestos	pipes	
+increase	environment	decrease	
+
+
+hate	crime	Wyoming	increasing	
+reducing	class	increase	
+stemming	lack	reducing	
+reducing	violence	reducing	increasing	education	raising	
+aspirations	state	country	
+aspirations	college	
+education	education	programs	
+
+reads % = 0.12549019607843137

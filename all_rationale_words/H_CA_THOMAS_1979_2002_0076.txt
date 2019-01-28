@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) had(0.0) not(0.0) expected(0.0) in(0.0) the(0.0) very(0.0) first(0.0) comments(0.0) to(0.0) find(0.0) out(0.0) that(0.0) ,(0.0) in(0.0) fact(0.0) ,(0.0) misrepresentations(1.0) are(0.0) rampant(1.0) on(0.0) 
+the(0.0) floor(0.0) of(0.0) the(0.0) House(0.0) .(0.0) What(0.0) the(0.0) Congressional(1.0) Budget(1.0) Office(0.0) said(0.0) was(0.0) ,(0.0) ``(0.0) Because(0.0) the(0.0) TANF(1.0) program(0.0) affords(0.0) 
+States(0.0) such(0.0) broad(0.0) flexibility(0.0) ,(0.0) new(0.0) requirements(1.0) would(0.0) not(0.0) be(0.0) considered(0.0) ,(0.0) ''(0.0) would(0.0) not(0.0) be(0.0) considered(0.0) ,(0.0) ``(0.0) intergovernmental(1.0) 
+mandates(1.0) as(0.0) defined(0.0) by(0.0) the(0.0) Unfunded(1.0) Mandates(1.0) Reform(1.0) Act(0.0) .(0.0) ''(0.0) The(0.0) CBO(1.0) said(0.0) they(0.0) are(0.0) not(0.0) unfunded(1.0) mandates(1.0) ,(0.0) 
+and(0.0) now(0.0) to(0.0) focus(0.0) on(0.0) an(0.0) area(0.0) that(0.0) I(0.0) think(0.0) is(0.0) absolutely(0.0) critical(0.0) to(0.0) the(0.0) success(0.0) of(0.0) this(0.0) program(1.0) ,(0.0) 
+which(0.0) is(0.0) the(0.0) expansion(1.0) in(0.0) this(0.0) bill(1.0) of(0.0) child(1.0) care(1.0) support(0.0) of(0.0) between(0.0) 2(0.0) and(0.0) $(0.0) 4(0.0) billion(0.0) additional(0.0) to(0.0) 
+the(0.0) underlying(0.0) almost-(0.0) $(0.0) 5(0.0) billion(1.0) contained(0.0) in(0.0) the(0.0) bill(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) 10(0.0) minutes(0.0) of(0.0) my(0.0) 
+time(0.0) to(0.0) the(0.0) gentlewoman(0.0) from(0.0) Washington(1.0) ((0.0) Ms.(1.0) Dunn(1.0) )(0.0) ,(0.0) a(0.0) member(0.0) of(0.0) the(0.0) Ways(0.0) and(0.0) Means(0.0) Committee(0.0) ;(0.0) 
+and(0.0) I(0.0) ask(0.0) unanimous(1.0) consent(0.0) that(0.0) she(0.0) control(0.0) the(0.0) 10(0.0) minutes(0.0) of(0.0) time(0.0) .(0.0) The(0.0) SPEAKER(0.0) pro(0.0) tempore(0.0) ((1.0) Mr.(0.0) 
+Simpson(1.0) )(0.0) .(0.0) Is(0.0) there(0.0) objection(0.0) to(0.0) the(0.0) request(0.0) of(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) ?(0.0) There(0.0) was(0.0) no(0.0) objection(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+misrepresentations	rampant	
+Congressional	Budget	TANF	
+requirements	intergovernmental	
+mandates	Unfunded	Mandates	Reform	CBO	unfunded	mandates	
+program	
+expansion	bill	child	care	
+billion	bill	Speaker	
+Washington	Ms.	Dunn	
+unanimous	(	
+Simpson	
+
+
+reads % = 0.13930348258706468

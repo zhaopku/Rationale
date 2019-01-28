@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) by(0.0) direction(0.0) of(0.0) the(0.0) Democratic(1.0) Caucus(1.0) ,(0.0) I(0.0) offer(0.0) a(0.0) privileged(0.0) resolution(1.0) and(0.0) ask(0.0) for(0.0) its(0.0) immediate(0.0) consideration(0.0) 
+.(0.0) The(0.0) Clerk(0.0) read(0.0) the(0.0) resolution(0.0) ,(0.0) as(0.0) follows(0.0) :(0.0) H.(0.0) Res(0.0) .(0.0) 1035(0.0) Resolved(0.0) ,(0.0) That(0.0) the(0.0) following(0.0) named(0.0) 
+Members(0.0) be(0.0) ,(0.0) and(0.0) are(0.0) hereby(0.0) ,(0.0) elected(0.0) to(0.0) the(0.0) following(0.0) standing(0.0) committees(0.0) of(0.0) the(0.0) House(0.0) of(0.0) Representatives(0.0) :(1.0) ((0.0) 
+1(0.0) )(0.0) Committee(0.0) on(0.0) foreign(0.0) affairs.(0.0) --(0.0) Mr(0.0) .(1.0) Berman(1.0) ,(0.0) Chairman(0.0) .(0.0) ((0.0) 2(0.0) )(0.0) Committee(0.0) on(0.0) transportation(0.0) and(0.0) 
+infrastructure.(0.0) --(0.0) Mr(0.0) .(1.0) Sires(1.0) .(0.0) The(0.0) resolution(0.0) was(0.0) agreed(0.0) to(0.0) .(0.0) A(0.0) motion(0.0) to(0.0) reconsider(0.0) was(0.0) laid(0.0) on(0.0) the(0.0) 
+table(0.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) I(0.0) move(0.0) to(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) agree(0.0) to(0.0) the(0.0) concurrent(0.0) resolution(0.0) ((0.0) H.(0.0) Con(1.0) 
+.(0.0) Res(0.0) .(0.0) 290(0.0) )(0.0) commemorating(0.0) the(0.0) 175th(0.0) anniversary(0.0) of(0.0) the(0.0) special(0.0) relationship(0.0) between(0.0) the(0.0) United(0.0) States(0.0) and(0.0) the(0.0) Kingdom(0.0) 
+of(0.0) Thailand(0.0) ,(0.0) as(0.0) amended(0.0) .(0.0) The(0.0) Clerk(0.0) read(0.0) the(0.0) title(0.0) of(0.0) the(0.0) concurrent(0.0) resolution(0.0) .(0.0) The(0.0) text(0.0) of(0.0) the(0.0) 
+concurrent(0.0) resolution(0.0) is(0.0) as(0.0) follows(0.0) :(0.0) H.(0.0) Con(1.0) .(0.0) Res(0.0) .(0.0) 290(0.0) Whereas(0.0) the(0.0) United(0.0) States(0.0) will(0.0) celebrate(0.0) the(0.0) 175th(0.0) 
+anniversary(0.0) of(0.0) its(0.0) relationship(0.0) with(0.0) the(0.0) Kingdom(0.0) of(0.0) Thailand(0.0) since(0.0) the(0.0) signing(0.0) of(0.0) the(0.0) original(0.0) Treaty(0.0) of(0.0) Amity(0.0) and(0.0) Commerce(0.0) 
+in(0.0) 1833(0.0) during(0.0) President(0.0) Andrew(0.0) Jackson's(0.0) administration(0.0) and(0.0) the(0.0) reign(0.0) of(0.0) King(0.0) Rama(0.0) III(0.0) ;(0.0) Whereas(0.0) the(0.0) Kingdom(0.0) of(0.0) Thailand(0.0) 
+was(0.0) the(0.0) United(0.0) States'(0.0) first(0.0) treaty(0.0) ally(0.0) in(0.0) the(0.0) Asia-Pacific(0.0) region(0.0) and(0.0) remains(0.0) a(0.0) steadfast(0.0) friend(0.0) with(0.0) the(0.0) Thai(0.0) and(0.0) 
+American(0.0) people(0.0) sharing(0.0) the(0.0) values(0.0) of(0.0) freedom(1.0) ,(0.0) democracy(1.0) ,(0.0) and(0.0) liberty(1.0) ;(0.0) Whereas(0.0) Thailand(0.0) was(0.0) designated(0.0) as(0.0) a(0.0) major(0.0) 
+non-NATO(0.0) ally(0.0) in(0.0) December(0.0) 2003(0.0) ,(0.0) which(0.0) improved(0.0) the(0.0) security(0.0) of(0.0) both(0.0) nations(0.0) ,(0.0) particularly(0.0) through(0.0) joint(0.0) counterterrorism(1.0) efforts(0.0) ;(0.0) 
+Whereas(0.0) for(0.0) more(0.0) than(0.0) a(0.0) quarter(0.0) century(0.0) Thailand(0.0) has(0.0) been(0.0) the(0.0) host(0.0) country(0.0) of(0.0) Cobra(0.0) Gold(0.0) ,(0.0) the(0.0) United(0.0) States(0.0) 
+Pacific(0.0) Command(0.0) 's(0.0) annual(0.0) multinational(0.0) military(0.0) training(0.0) exercise(0.0) designed(0.0) to(0.0) ensure(0.0) regional(1.0) peace(0.0) and(0.0) promote(0.0) regional(0.0) security(0.0) cooperation(0.0) ;(0.0) Whereas(0.0) 
+the(0.0) United(0.0) States(0.0) and(0.0) Thailand(0.0) launched(0.0) joint(0.0) relief(0.0) operations(0.0) in(0.0) the(0.0) wake(0.0) of(0.0) the(0.0) tragic(0.0) 2004(0.0) tsunami(1.0) from(0.0) Utapao(1.0) ,(0.0) 
+Thailand(0.0) ,(0.0) thus(0.0) strengthening(0.0) the(0.0) overall(0.0) capacity(0.0) of(0.0) the(0.0) forces(0.0) involved(0.0) in(0.0) providing(0.0) relief(0.0) and(0.0) setting(0.0) the(0.0) model(0.0) for(0.0) effective(0.0) 
+humanitarian(1.0) operations(0.0) throughout(0.0) the(0.0) entire(0.0) region(0.0) affected(0.0) by(0.0) the(0.0) deadly(1.0) tsunami(1.0) ;(0.0) Whereas(0.0) Thailand(0.0) is(0.0) a(0.0) key(0.0) partner(0.0) of(0.0) the(0.0) 
+United(0.0) States(0.0) in(0.0) Southeast(0.0) Asia(0.0) and(0.0) has(0.0) supported(0.0) closer(0.0) relations(0.0) between(0.0) the(0.0) United(0.0) States(0.0) and(0.0) the(0.0) Association(0.0) of(0.0) Southeast(0.0) Asian(0.0) 
+Nations(0.0) ((0.0) ``(0.0) ASEAN(0.0) ''(0.0) )(0.0) ;(0.0) Whereas(0.0) Congress(0.0) passed(0.0) H.(0.0) Con(1.0) .(0.0) Res(0.0) .(0.0) 409(0.0) in(0.0) 2006(0.0) commemorating(0.0) the(0.0) 
+60th(0.0) Anniversary(0.0) of(0.0) the(0.0) Ascension(0.0) to(0.0) the(0.0) Throne(0.0) of(0.0) His(0.0) Majesty(0.0) King(0.0) Bhumibol(0.0) Adulyadej(0.0) of(0.0) Thailand(0.0) ;(0.0) Whereas(0.0) on(0.0) December(0.0) 
+5(0.0) ,(0.0) 2007(0.0) ,(0.0) the(0.0) people(0.0) of(0.0) Thailand(0.0) celebrated(0.0) the(0.0) 80th(0.0) birthday(0.0) of(0.0) His(0.0) Majesty(0.0) King(0.0) Bhumibol(0.0) Adulyadej(0.0) ,(0.0) the(0.0) 
+world(0.0) 's(0.0) longest(0.0) serving(0.0) monarch(0.0) ,(0.0) who(0.0) is(0.0) loved(0.0) and(0.0) respected(0.0) by(0.0) Thai(0.0) for(0.0) his(0.0) lifelong(0.0) dedication(0.0) to(0.0) the(0.0) social(0.0) 
+and(0.0) economic(0.0) development(0.0) of(0.0) the(0.0) Thai(0.0) people(0.0) ;(0.0) Whereas(0.0) on(0.0) December(0.0) 23(0.0) ,(0.0) 2007(0.0) ,(0.0) the(0.0) Royal(0.0) Thai(0.0) Government(0.0) 
+
+
+----- below are rationale words -----
+
+Democratic	Caucus	resolution	
+
+:	
+.	Berman	
+.	Sires	
+Speaker	Con	
+
+
+Con	
+
+
+
+freedom	democracy	liberty	
+counterterrorism	
+
+regional	
+tsunami	Utapao	
+
+humanitarian	deadly	tsunami	
+
+Con	
+
+
+
+
+
+reads % = 0.044

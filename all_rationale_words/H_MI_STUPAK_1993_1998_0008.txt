@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+FDA(1.0) inspections(1.0) ,(0.0) talking(0.0) about(0.0) domestic(1.0) and(0.0) imported(0.0) foods(1.0) ,(0.0) in(0.0) 1981(1.0) we(0.0) had(0.0) 21,000(0.0) inspections(1.0) in(0.0) this(0.0) country(1.0) .(0.0) 21,000(0.0) 
+.(0.0) In(0.0) 1996(0.0) we(0.0) have(0.0) ,(0.0) domestic(1.0) and(0.0) imported(0.0) ,(0.0) 5,000(0.0) inspections(1.0) .(0.0) In(0.0) 1981(0.0) we(0.0) had(0.0) 21,000(0.0) inspections(1.0) of(0.0) 
+our(0.0) food(1.0) supply(0.0) ;(0.0) 1996(0.0) we(0.0) had(0.0) 5,000(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+inspections	domestic	foods	1981	inspections	country	
+domestic	inspections	inspections	
+food	
+
+reads % = 0.2

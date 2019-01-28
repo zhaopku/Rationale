@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) pursuant(0.0) to(0.0) the(0.0) instructions(0.0) of(0.0) the(0.0) House(0.0) on(0.0) the(0.0) motion(0.0) to(0.0) recommit(1.0) ,(0.0) I(0.0) report(0.0) the(0.0) bill(1.0) ,(0.0) H.R(0.0) 
+.(0.0) 569(0.0) ,(0.0) back(0.0) to(0.0) the(0.0) House(0.0) with(0.0) an(0.0) amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+recommit	bill	
+amendment	
+
+reads % = 0.09375

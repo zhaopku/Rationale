@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) Representative(1.0) Scott(1.0) again(0.0) for(0.0) leading(0.0) the(0.0) charge(0.0) in(0.0) the(0.0) Judiciary(0.0) Committee(0.0) to(0.0) make(0.0) sure(0.0) 
+that(0.0) this(0.0) legislation(1.0) was(0.0) in(0.0) fact(0.0) passed(0.0) .(0.0) It(0.0) has(0.0) passed(0.0) out(0.0) of(0.0) Judiciary(1.0) .(0.0) Without(0.0) your(0.0) leadership(0.0) and(0.0) the(0.0) 
+leadership(0.0) of(0.0) Chairman(0.0) Conyers(1.0) and(0.0) the(0.0) help(0.0) of(0.0) individuals(0.0) like(0.0) Representative(1.0) Waters(1.0) and(0.0) Representative(1.0) Watts(1.0) and(0.0) Representative(1.0) Sensenbrenner(1.0) and(0.0) a(0.0) 
+number(0.0) of(0.0) others(0.0) ,(0.0) it(0.0) never(0.0) would(0.0) have(0.0) happened(0.0) .(0.0) So(0.0) we(0.0) definitely(0.0) appreciate(0.0) that(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Representative	Scott	
+legislation	Judiciary	
+Conyers	Representative	Waters	Representative	Watts	Representative	Sensenbrenner	
+
+
+reads % = 0.14285714285714285

@@ -1,0 +1,44 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(1.0) ,(0.0) I(0.0) would(1.0) like(0.0) to(0.0) ask(0.0) the(0.0) chairman(1.0) of(0.0) the(0.0) subcommittee(0.0) ,(0.0) my(0.0) good(0.0) friend(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) 
+((0.0) Mr.(0.0) Lewis(1.0) )(0.0) to(0.0) enter(1.0) into(0.0) a(0.0) colloquy(0.0) to(0.0) clarify(0.0) report(0.0) language(0.0) in(0.0) this(0.0) bill(0.0) pertaining(0.0) to(0.0) a(0.0) rulemaking(1.0) 
+being(0.0) considered(0.0) by(0.0) the(0.0) EPA(1.0) .(0.0) As(0.0) my(0.0) colleague(1.0) knows(0.0) ,(0.0) report(1.0) language(0.0) in(0.0) this(0.0) bill(0.0) addresses(0.0) the(0.0) security(0.0) risks(0.0) 
+associated(1.0) with(0.0) making(0.0) risk(0.0) management(1.0) plan(1.0) data(0.0) available(1.0) on(0.0) the(0.0) Internet(0.0) under(0.0) an(0.0) EPA(1.0) rulemaking(1.0) according(0.0) to(0.0) section(0.0) 112(0.0) ((0.0) 
+r(1.0) )(0.0) of(0.0) the(0.0) Clean(1.0) Air(0.0) Act(0.0) .(0.0) Members(0.0) of(0.0) our(0.0) committee(0.0) have(0.0) heard(1.0) from(0.0) many(0.0) members(1.0) of(0.0) their(0.0) community(1.0) 
+who(0.0) expressed(0.0) concern(1.0) that(0.0) making(0.0) this(0.0) information(0.0) available(1.0) to(0.0) the(0.0) public(0.0) via(0.0) the(0.0) Internet(0.0) could(0.0) have(0.0) grave(1.0) consequences(1.0) .(0.0) This(0.0) 
+type(0.0) of(0.0) data(1.0) ,(0.0) which(0.0) is(0.0) already(0.0) available(1.0) to(0.0) relevant(0.0) businesses(1.0) and(0.0) public(0.0) safety(0.0) and(0.0) law(1.0) enforcement(0.0) officers(1.0) ,(0.0) could(1.0) 
+result(0.0) in(0.0) mass(0.0) destruction(1.0) in(0.0) the(0.0) hands(1.0) of(0.0) those(0.0) intent(1.0) on(0.0) doing(0.0) harm(0.0) .(0.0) These(0.0) security(0.0) concerns(0.0) have(0.0) been(0.0) echoed(1.0) 
+by(0.0) law(1.0) enforcement(0.0) and(0.0) national(0.0) intelligence(0.0) representatives(0.0) in(0.0) discussions(1.0) with(0.0) the(0.0) EPA(1.0) .(0.0) However(0.0) ,(0.0) the(0.0) EPA(1.0) has(0.0) been(0.0) unable(1.0) 
+to(0.0) adequately(0.0) address(0.0) the(0.0) national(0.0) security(0.0) concerns(0.0) that(0.0) have(0.0) been(0.0) raised(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) it(0.0) is(0.0) my(0.0) understanding(0.0) that(0.0) 
+discussions(1.0) between(0.0) representative(1.0) law(1.0) enforcement(0.0) ,(0.0) the(0.0) intelligence(1.0) community(1.0) and(0.0) the(0.0) EPA(1.0) are(0.0) ongoing(0.0) and(0.0) that(0.0) a(0.0) resolution(0.0) of(0.0) this(0.0) 
+issue(0.0) will(0.0) occur(0.0) by(0.0) the(0.0) end(0.0) of(0.0) this(0.0) year(0.0) .(0.0) Would(1.0) the(0.0) gentleman(0.0) agree(1.0) that(0.0) this(0.0) is(0.0) an(0.0) accurate(0.0) statement(0.0) 
+?(1.0) Chairman(1.0) ,(0.0) when(0.0) will(0.0) the(0.0) agency(1.0) actually(1.0) implement(0.0) the(0.0) protocol(1.0) ?(0.0) Thank(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) for(0.0) his(0.0) clarification(0.0) 
+.(0.0) I(0.0) think(1.0) we(0.0) both(0.0) agree(1.0) that(0.0) this(0.0) issue(0.0) is(0.0) one(0.0) of(0.0) vital(1.0) importance(0.0) to(0.0) our(0.0) communities(0.0) and(0.0) law(1.0) enforcement(0.0) 
+officials(1.0) ,(0.0) and(0.0) I(0.0) appreciate(1.0) the(0.0) gentleman(0.0) 's(0.0) assistance(0.0) in(0.0) this(0.0) matter(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) before(1.0) I(0.0) conclude(0.0) ,(0.0) 
+I(0.0) would(1.0) just(1.0) like(0.0) to(0.0) take(0.0) this(0.0) moment(0.0) to(0.0) thank(0.0) a(0.0) member(0.0) of(0.0) my(0.0) staff(0.0) who(0.0) has(0.0) worked(0.0) on(0.0) this(0.0) 
+.(0.0) She(0.0) has(0.0) been(0.0) with(0.0) me(0.0) for(0.0) 7(0.0) years(0.0) .(0.0) Jennifer(1.0) Cutcher(1.0) is(0.0) leaving(1.0) to(0.0) get(0.0) married(1.0) and(0.0) move(0.0) to(0.0) 
+Florida(1.0) ,(0.0) and(0.0) we(0.0) are(0.0) sorry(0.0) to(0.0) lose(0.0) her(0.0) in(0.0) our(0.0) office(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+would	chairman	
+Lewis	enter	rulemaking	
+EPA	colleague	report	
+associated	management	plan	available	EPA	rulemaking	
+r	Clean	heard	members	community	
+concern	available	grave	consequences	
+data	available	businesses	law	officers	could	
+destruction	hands	intent	echoed	
+law	discussions	EPA	EPA	unable	
+Chairman	
+discussions	representative	law	intelligence	community	EPA	
+Would	agree	
+?	Chairman	agency	actually	protocol	
+think	agree	vital	law	
+officials	appreciate	Chairman	before	
+would	just	
+Jennifer	Cutcher	leaving	married	
+Florida	
+
+reads % = 0.18926553672316385

@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+First(0.0) of(0.0) all(0.0) ,(0.0) thank(0.0) you(0.0) ,(0.0) Congressman(1.0) ,(0.0) for(0.0) your(0.0) leadership(0.0) on(0.0) this(0.0) issue(0.0) and(0.0) on(0.0) this(0.0) legislation(1.0) Make(0.0) It(0.0) 
+In(0.0) America(1.0) .(0.0) Thank(0.0) you(0.0) to(0.0) Congressman(1.0) Delaney(1.0) for(0.0) all(0.0) of(0.0) the(0.0) work(0.0) that(0.0) he(0.0) 's(0.0) doing(0.0) on(0.0) infrastructure(1.0) .(0.0) 
+In(0.0) Texas(1.0) ,(0.0) infrastructure(1.0) obviously(0.0) is(0.0) very(0.0) important(0.0) to(0.0) us(0.0) .(0.0) We(0.0) have(0.0) a(0.0) State(0.0) that(0.0) ,(0.0) obviously(0.0) ,(0.0) is(0.0) 
+incredibly(0.0) large(0.0) in(0.0) land(0.0) mass(0.0) ,(0.0) second(0.0) only(0.0) to(0.0) Alaska(1.0) .(0.0) We(0.0) have(0.0) ,(0.0) for(0.0) example(0.0) ,(0.0) the(0.0) most(0.0) number(0.0) 
+of(0.0) bridges(1.0) of(0.0) any(0.0) State(0.0) in(0.0) the(0.0) Nation(1.0) ,(0.0) miles(0.0) and(0.0) miles(0.0) of(0.0) interstate(1.0) highways(1.0) and(0.0) roads(0.0) .(0.0) So(0.0) I(0.0) 
+stand(0.0) here(0.0) tonight(0.0) with(0.0) you(0.0) to(0.0) reaffirm(1.0) the(0.0) point(0.0) that(0.0) we(0.0) must(0.0) never(0.0) neglect(1.0) our(0.0) infrastructure(1.0) of(0.0) transportation(1.0) ;(0.0) building(0.0) 
+out(0.0) our(0.0) roads(1.0) ,(0.0) our(0.0) highways(1.0) ,(0.0) our(0.0) waterways(1.0) ,(0.0) our(0.0) mass(1.0) transit(1.0) systems(1.0) ,(0.0) making(0.0) sure(0.0) that(0.0) Americans(1.0) can(0.0) 
+get(0.0) to(0.0) where(0.0) they(0.0) want(0.0) to(0.0) go(0.0) by(0.0) air(0.0) ,(0.0) by(0.0) land(0.0) ,(0.0) by(0.0) sea(0.0) .(0.0) We(0.0) must(0.0) make(0.0) sure(0.0) 
+that(0.0) our(0.0) infrastructure(1.0) of(0.0) transportation(1.0) keeps(0.0) up(0.0) also(0.0) and(0.0) is(0.0) competitive(0.0) with(0.0) that(0.0) of(0.0) places(0.0) in(0.0) Europe(1.0) and(0.0) in(0.0) Asia(1.0) 
+,(0.0) particularly(0.0) for(0.0) commercial(0.0) purposes(0.0) .(0.0) But(0.0) also(0.0) ,(0.0) Congressman(1.0) ,(0.0) I(0.0) wanted(0.0) to(0.0) point(0.0) out(0.0) that(0.0) just(0.0) as(0.0) there(0.0) 
+is(0.0) an(0.0) infrastructure(1.0) of(0.0) transportation(1.0) ,(0.0) there(0.0) is(0.0) in(0.0) America(1.0) another(0.0) kind(0.0) of(0.0) infrastructure(1.0) ,(0.0) and(0.0) that(0.0) is(0.0) an(0.0) infrastructure(1.0) 
+of(0.0) opportunity(0.0) that(0.0) allows(0.0) each(0.0) of(0.0) us(0.0) to(0.0) pursue(0.0) our(0.0) American(0.0) Dreams(0.0) .(0.0) So(0.0) ,(0.0) for(0.0) example(0.0) ,(0.0) just(0.0) as(0.0) 
+there(0.0) are(0.0) streets(0.0) and(0.0) highways(1.0) that(0.0) help(0.0) us(0.0) get(0.0) to(0.0) where(0.0) we(0.0) want(0.0) to(0.0) go(0.0) on(0.0) the(0.0) road(0.0) ,(0.0) there(0.0) 
+is(0.0) an(0.0) infrastructure(1.0) of(0.0) opportunity(0.0) in(0.0) America(1.0) that(0.0) allows(0.0) us(0.0) to(0.0) get(0.0) to(0.0) where(0.0) we(0.0) want(0.0) to(0.0) go(0.0) in(0.0) life(0.0) 
+.(0.0) That(0.0) infrastructure(1.0) of(0.0) opportunity(0.0) would(0.0) include(0.0) ,(0.0) for(0.0) example(0.0) ,(0.0) great(0.0) public(1.0) schools(1.0) and(0.0) universities(1.0) ,(0.0) a(0.0) strong(0.0) health(1.0) 
+care(1.0) system(0.0) in(0.0) an(0.0) economy(1.0) that(0.0) 's(0.0) built(0.0) around(0.0) well-paying(1.0) jobs(0.0) so(0.0) that(0.0) people(0.0) can(0.0) support(0.0) themselves(0.0) and(0.0) their(0.0) family(0.0) 
+members(0.0) .(0.0) In(0.0) fact(0.0) ,(0.0) when(0.0) we(0.0) ask(0.0) the(0.0) question(0.0) here(0.0) in(0.0) Congress(0.0) :(0.0) What(0.0) is(0.0) it(0.0) that(0.0) distinguishes(0.0) America(1.0) 
+from(0.0) among(0.0) the(0.0) nations(1.0) of(0.0) the(0.0) world(0.0) ,(0.0) I(0.0) would(0.0) argue(1.0) that(0.0) it(0.0) is(0.0) the(0.0) fact(0.0) that(0.0) over(0.0) the(0.0) generations(0.0) 
+,(0.0) Americans(1.0) have(0.0) come(0.0) together(0.0) to(0.0) build(0.0) out(0.0) that(0.0) infrastructure(1.0) of(0.0) opportunity(0.0) that(0.0) allows(0.0) each(0.0) of(0.0) us(0.0) ,(0.0) no(0.0) matter(0.0) 
+our(0.0) race(1.0) ,(0.0) our(0.0) class(1.0) ,(0.0) where(0.0) we(0.0) come(0.0) from(0.0) ,(0.0) allows(0.0) each(0.0) of(0.0) us(0.0) to(0.0) chase(0.0) our(0.0) American(1.0) Dream(0.0) 
+.(0.0) I(0.0) think(0.0) all(0.0) of(0.0) us(0.0) understand(0.0) ,(0.0) and(0.0) I(0.0) think(0.0) you(0.0) would(0.0) agree(0.0) with(0.0) me(0.0) ,(0.0) I(0.0) have(0.0) never(0.0) 
+met(0.0) any(0.0) American(0.0) who(0.0) has(0.0) asked(0.0) for(0.0) a(0.0) guarantee(0.0) of(0.0) success(0.0) in(0.0) our(0.0) Nation(1.0) .(0.0) Folks(0.0) do(0.0) n't(0.0) ask(0.0) for(0.0) 
+a(0.0) guarantee(0.0) of(0.0) success(0.0) .(0.0) What(0.0) they(0.0) ask(0.0) for(0.0) is(0.0) the(0.0) opportunity(0.0) to(0.0) pursue(1.0) that(0.0) success(0.0) .(0.0) So(0.0) we(0.0) must(0.0) 
+continue(0.0) building(0.0) not(0.0) only(0.0) the(0.0) roads(1.0) that(0.0) we(0.0) need(0.0) and(0.0) the(0.0) highways(1.0) ,(0.0) but(0.0) also(0.0) the(0.0) great(0.0) schools(0.0) and(0.0) universities(1.0) 
+,(0.0) a(0.0) strong(0.0) health(1.0) care(1.0) system(0.0) ,(0.0) and(0.0) as(0.0) you(0.0) mentioned(0.0) ,(0.0) with(0.0) the(0.0) American(0.0) Jobs(0.0) Act(0.0) making(0.0) sure(0.0) 
+
+
+----- below are rationale words -----
+
+Congressman	legislation	
+America	Congressman	Delaney	infrastructure	
+Texas	infrastructure	
+Alaska	
+bridges	Nation	interstate	highways	
+reaffirm	neglect	infrastructure	transportation	
+roads	highways	waterways	mass	transit	systems	Americans	
+
+infrastructure	transportation	Europe	Asia	
+Congressman	
+infrastructure	transportation	America	infrastructure	infrastructure	
+
+highways	
+infrastructure	America	
+infrastructure	public	schools	universities	health	
+care	economy	well-paying	
+America	
+nations	argue	
+Americans	infrastructure	
+race	class	American	
+
+Nation	
+pursue	
+roads	highways	universities	
+health	care	
+
+reads % = 0.12

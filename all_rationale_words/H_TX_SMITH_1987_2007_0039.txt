@@ -1,0 +1,50 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) the(0.0) motion(1.0) to(0.0) recommit(1.0) I(0.0) have(0.0) offered(0.0) contains(0.0) a(0.0) bipartisan(1.0) proposal(1.0) by(1.0) Representatives(0.0) Mike(1.0) Ross(1.0) and(0.0) Mark(0.0) Souder(1.0) 
+,(0.0) the(0.0) District(0.0) of(0.0) Columbia(0.0) Personal(0.0) Protection(0.0) Act(0.0) .(0.0) My(0.0) colleagues(0.0) on(0.0) the(0.0) other(0.0) side(0.0) of(0.0) the(0.0) aisle(0.0) have(0.0) suggested(0.0) 
+today(0.0) that(0.0) District(0.0) of(0.0) Columbia(0.0) citizens(0.0) have(0.0) the(0.0) right(0.0) to(0.0) vote(1.0) in(0.0) Congress(0.0) .(0.0) If(0.0) that(0.0) is(0.0) the(0.0) case(0.0) ,(0.0) 
+then(0.0) they(0.0) must(0.0) also(0.0) agree(0.0) that(0.0) the(0.0) citizens(1.0) of(0.0) the(0.0) District(0.0) should(0.0) have(0.0) a(0.0) constitutionally(0.0) guaranteed(0.0) right(0.0) to(0.0) possess(0.0) firearms(0.0) 
+.(0.0) Currently(0.0) ,(0.0) D.C.(1.0) citizens(1.0) are(0.0) prevented(0.0) from(0.0) owning(1.0) any(0.0) handgun(0.0) at(0.0) all(0.0) .(0.0) Even(0.0) those(0.0) who(0.0) lawfully(0.0) own(0.0) and(0.0) 
+store(0.0) a(0.0) rifle(0.0) or(0.0) shotgun(0.0) are(0.0) prohibited(0.0) from(0.0) using(0.0) them(0.0) to(0.0) defend(1.0) themselves(0.0) ,(0.0) their(0.0) families(0.0) or(0.0) their(0.0) homes(0.0) .(0.0) 
+District(0.0) law(1.0) threatens(1.0) honest(0.0) people(0.0) with(0.0) imprisonment(1.0) if(0.0) they(0.0) unlock(0.0) ,(0.0) assemble(0.0) or(0.0) load(0.0) their(0.0) guns(1.0) even(0.0) under(0.0) attack(0.0) .(0.0) 
+Although(0.0) the(0.0) District(0.0) has(0.0) the(0.0) most(0.0) stringent(1.0) gun(1.0) control(0.0) laws(1.0) in(0.0) the(0.0) Nation(1.0) ,(0.0) they(0.0) still(0.0) suffer(0.0) from(0.0) one(0.0) of(0.0) 
+the(0.0) highest(0.0) murder(1.0) rates(0.0) .(0.0) Since(0.0) January(0.0) 1(0.0) of(0.0) this(0.0) year(0.0) alone(0.0) ,(0.0) 35(0.0) people(0.0) have(0.0) been(0.0) murdered(0.0) in(0.0) the(0.0) 
+District(0.0) .(0.0) Last(0.0) year(0.0) over(0.0) 150(0.0) people(0.0) were(0.0) murdered(0.0) ,(0.0) and(0.0) 2,000(0.0) suffered(0.0) gun(0.0) assaults(1.0) .(0.0) This(0.0) violence(1.0) continues(0.0) unabated(1.0) 
+,(0.0) despite(0.0) the(0.0) strict(1.0) gun(1.0) control(1.0) laws(1.0) .(0.0) It(0.0) is(0.0) time(0.0) to(0.0) restore(1.0) the(0.0) rights(1.0) of(0.0) law-abiding(1.0) citizens(1.0) to(0.0) protect(1.0) 
+themselves(0.0) and(0.0) to(0.0) defend(1.0) their(0.0) families(0.0) .(0.0) On(0.0) March(0.0) 9(0.0) ,(0.0) 2007(0.0) ,(0.0) the(0.0) U.S.(0.0) Court(0.0) of(0.0) Appeals(0.0) for(0.0) the(0.0) 
+District(0.0) of(0.0) Columbia(0.0) Circuit(0.0) struck(0.0) down(0.0) some(0.0) ,(0.0) but(0.0) not(0.0) all(0.0) ,(0.0) of(0.0) the(0.0) District(0.0) of(0.0) Columbia(0.0) 's(0.0) gun(0.0) control(0.0) 
+laws(1.0) as(0.0) unconstitutional(1.0) .(0.0) The(0.0) court(1.0) agreed(0.0) with(0.0) the(0.0) U.S.(0.0) Court(0.0) of(0.0) Appeals(0.0) for(0.0) the(0.0) Fifth(0.0) Circuit(0.0) ,(0.0) the(0.0) Justice(0.0) 
+Department(0.0) and(0.0) constitutional(0.0) scholars(0.0) ,(0.0) present(0.0) and(0.0) past(0.0) ,(0.0) that(0.0) the(0.0) second(0.0) amendment(0.0) protects(0.0) the(0.0) right(0.0) of(0.0) individuals(0.0) to(0.0) possess(0.0) 
+firearms(0.0) .(0.0) This(0.0) court(0.0) decision(0.0) ,(0.0) which(0.0) will(0.0) continue(0.0) to(0.0) wind(0.0) its(0.0) way(0.0) through(0.0) the(0.0) judicial(1.0) system(0.0) ,(0.0) compels(0.0) Congress(0.0) 
+to(0.0) act(0.0) now(0.0) to(0.0) protect(0.0) all(0.0) second(0.0) amendment(1.0) rights(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) the(0.0) prohibition(1.0) of(0.0) firearms(1.0) in(0.0) the(0.0) District(0.0) 
+of(0.0) Columbia(1.0) is(0.0) as(0.0) ineffective(0.0) as(0.0) it(0.0) is(0.0) unconstitutional(1.0) .(0.0) It(0.0) is(0.0) high(0.0) time(0.0) we(0.0) rectify(0.0) this(0.0) wrong(0.0) .(0.0) I(0.0) 
+urge(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) this(0.0) measure(1.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) to(0.0) the(0.0) 
+gentleman(0.0) from(0.0) Indiana(1.0) ((0.0) Mr.(0.0) Souder(1.0) )(0.0) ,(0.0) who(0.0) in(0.0) the(0.0) last(0.0) Congress(0.0) passed(0.0) a(0.0) piece(0.0) of(0.0) legislation(0.0) very(0.0) similar(0.0) 
+to(0.0) the(0.0) motion(0.0) to(0.0) recommit(1.0) that(0.0) we(0.0) consider(0.0) now(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+motion	recommit	bipartisan	proposal	by	Mike	Ross	Souder	
+
+vote	
+citizens	
+D.C.	citizens	owning	
+defend	
+law	threatens	imprisonment	guns	
+stringent	gun	laws	Nation	
+murder	
+assaults	violence	unabated	
+strict	gun	control	laws	restore	rights	law-abiding	citizens	protect	
+defend	
+
+laws	unconstitutional	court	
+
+judicial	
+amendment	rights	Speaker	prohibition	firearms	
+Columbia	unconstitutional	
+measure	Speaker	
+Indiana	Souder	
+recommit	
+
+reads % = 0.12652068126520682

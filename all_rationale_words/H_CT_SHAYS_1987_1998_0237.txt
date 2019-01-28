@@ -1,0 +1,44 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) to(0.0) recognize(0.0) the(0.0) career(0.0) of(0.0) a(0.0) valued(0.0) employee(0.0) ,(0.0) Joan(0.0) Zimmerman(1.0) .(0.0) I(0.0) feel(0.0) fortunate(0.0) to(0.0) 
+have(0.0) had(0.0) Joan(0.0) on(0.0) my(0.0) staff(0.0) since(0.0) I(0.0) was(0.0) first(0.0) elected(0.0) to(0.0) Congress(0.0) back(0.0) in(0.0) 1987(1.0) .(0.0) But(0.0) her(0.0) time(0.0) 
+on(0.0) the(0.0) Hill(0.0) did(0.0) not(0.0) start(0.0) with(0.0) me(0.0) .(0.0) She(0.0) worked(0.0) for(0.0) my(0.0) predecessor(0.0) ,(0.0) the(0.0) Honorable(0.0) Stewart(0.0) B.(1.0) MCKinney(0.0) 
+,(0.0) as(0.0) well(0.0) as(0.0) Stan(0.0) Parris(1.0) from(0.0) Virginia(0.0) and(0.0) Robin(0.0) Beard(1.0) from(0.0) Tennessee(0.0) .(0.0) Joan(0.0) has(0.0) worked(0.0) for(0.0) the(0.0) United(0.0) 
+States(0.0) Congress(0.0) for(0.0) a(0.0) quarter(0.0) century(0.0) .(0.0) She(0.0) is(0.0) a(0.0) witness(0.0) to(0.0) many(0.0) major(0.0) changes(0.0) in(0.0) this(0.0) institution(0.0) and(0.0) has(0.0) 
+seen(0.0) many(0.0) things(0.0) :(0.0) from(0.0) Watergate(1.0) to(0.0) the(0.0) Iran(0.0) hostage(0.0) crisis(1.0) ,(0.0) to(0.0) the(0.0) end(0.0) of(0.0) the(0.0) Cold(0.0) War(0.0) and(0.0) 
+seemingly(0.0) never-ending(0.0) budget(1.0) deficits(1.0) to(0.0) an(0.0) eventual(1.0) surplus(1.0) this(0.0) year(0.0) .(0.0) Joan(0.0) is(0.0) not(0.0) just(0.0) a(0.0) friend(0.0) and(0.0) colleague(0.0) in(0.0) 
+our(0.0) office(0.0) but(0.0) throughout(0.0) the(0.0) buildings(0.0) of(0.0) the(0.0) Capitol(1.0) .(0.0) She(0.0) talks(0.0) to(0.0) her(0.0) loading(0.0) dock(0.0) buddies(0.0) about(0.0) possible(0.0) dates(0.0) 
+of(0.0) adjournment(0.0) and(0.0) counts(0.0) many(0.0) of(0.0) the(0.0) Capitol(0.0) Police(0.0) force(0.0) as(0.0) dear(0.0) friends(0.0) .(0.0) When(0.0) the(0.0) tragic(0.0) shooting(0.0) of(0.0) officers(0.0) 
+John(0.0) Gibson(1.0) and(0.0) J.J(0.0) .(0.0) Chestnut(0.0) at(0.0) the(0.0) Capitol(0.0) occurred(0.0) earlier(0.0) this(0.0) year(0.0) ,(0.0) Joan(0.0) offered(0.0) her(0.0) advice(0.0) ,(0.0) guidance(0.0) 
+and(0.0) sympathies(0.0) to(0.0) the(0.0) many(0.0) friends(0.0) she(0.0) has(0.0) on(0.0) the(0.0) force(0.0) who(0.0) were(0.0) deeply(0.0) shaken(0.0) by(0.0) the(0.0) death(1.0) of(0.0) these(0.0) 
+two(0.0) American(0.0) heroes(0.0) .(0.0) I(0.0) know(0.0) they(0.0) appreciated(0.0) her(0.0) support(0.0) as(0.0) we(0.0) appreciate(0.0) her(0.0) years(0.0) of(0.0) dedication(0.0) .(0.0) Joan(0.0) ,(0.0) 
+our(0.0) office(0.0) sage(0.0) ,(0.0) after(0.0) years(0.0) of(0.0) dedicated(0.0) service(0.0) is(0.0) retiring(0.0) this(0.0) December(0.0) and(0.0) so(0.0) many(0.0) in(0.0) our(0.0) Capitol(1.0) community(0.0) 
+will(0.0) miss(0.0) her(0.0) .(0.0) She(0.0) always(0.0) approached(0.0) her(0.0) job(0.0) with(0.0) a(0.0) calm(0.0) and(0.0) consistent(0.0) demeanor(0.0) ,(0.0) steadfastly(1.0) getting(0.0) the(0.0) work(0.0) 
+done(0.0) in(0.0) an(0.0) often(0.0) hectic(0.0) environment(0.0) .(0.0) Her(0.0) perspective(0.0) and(0.0) wisdom(0.0) about(0.0) this(0.0) House(0.0) has(0.0) soothed(0.0) the(0.0) jagged(0.0) nerves(0.0) of(0.0) 
+a(0.0) generation(0.0) of(0.0) young(0.0) staffers(0.0) .(0.0) We(0.0) will(0.0) remember(0.0) her(0.0) for(0.0) her(0.0) sweetness(0.0) of(0.0) manner(0.0) and(0.0) her(0.0) quiet(0.0) determination(0.0) ,(0.0) 
+and(0.0) a(0.0) wonderful(0.0) love(0.0) and(0.0) devotion(0.0) to(0.0) her(0.0) two(0.0) cats(0.0) .(0.0) We(0.0) know(0.0) our(0.0) office(0.0) will(0.0) never(0.0) be(0.0) able(0.0) to(0.0) 
+properly(0.0) replace(0.0) her(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Zimmerman	
+1987	
+B.	
+Parris	Beard	
+
+Watergate	crisis	
+budget	deficits	eventual	surplus	
+Capitol	
+
+Gibson	
+death	
+
+Capitol	
+steadfastly	
+
+
+
+
+
+reads % = 0.0463768115942029

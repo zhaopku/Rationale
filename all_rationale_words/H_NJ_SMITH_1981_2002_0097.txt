@@ -1,0 +1,24 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) I(0.0) want(0.0) to(0.0) reiterate(0.0) to(0.0) my(0.0) colleagues(0.0) that(0.0) in(0.0) 
+a(0.0) letter(0.0) dated(0.0) July(0.0) 11(0.0) ,(0.0) 2002(0.0) ,(0.0) Secretary(1.0) of(0.0) State(0.0) ,(0.0) Colin(0.0) Powell(1.0) ;(0.0) and(0.0) Paul(0.0) O'Neill(1.0) ,(0.0) Secretary(0.0) 
+of(0.0) the(0.0) Treasury(0.0) ,(0.0) have(0.0) made(0.0) it(0.0) very(0.0) clear(0.0) that(0.0) ,(0.0) and(0.0) I(0.0) quote(0.0) them(0.0) .(0.0) ``(0.0) We(0.0) are(0.0) writing(0.0) 
+to(0.0) reiterate(0.0) the(0.0) administration(1.0) 's(0.0) strong(0.0) opposition(1.0) to(0.0) any(0.0) legislative(1.0) efforts(1.0) that(0.0) weaken(1.0) the(0.0) United(0.0) States(0.0) '(0.0) current(0.0) Cuba(1.0) policy(1.0) 
+by(0.0) permitting(1.0) U.S.(0.0) citizens(0.0) to(0.0) finance(1.0) the(0.0) Cuban(1.0) purchase(0.0) of(0.0) American(0.0) agriculture(1.0) commodities(1.0) or(0.0) by(0.0) changing(0.0) the(0.0) restrictions(1.0) on(0.0) travel(0.0) 
+.(0.0) ''(0.0) They(0.0) would(0.0) recommend(0.0) a(0.0) veto(0.0) if(0.0) the(0.0) legislation(1.0) reaches(0.0) his(0.0) desk(0.0) with(0.0) those(0.0) changes(0.0) .(0.0) I(0.0) urge(0.0) a(0.0) 
+``(0.0) no(0.0) ''(0.0) vote(1.0) on(0.0) the(0.0) Moran(1.0) amendment(1.0) .(0.0) I(0.0) certainly(0.0) respect(0.0) my(0.0) good(0.0) friend(0.0) and(0.0) colleague(0.0) ,(0.0) but(0.0) I(0.0) 
+urge(0.0) a(0.0) ``(0.0) no(0.0) ''(0.0) vote(1.0) ,(0.0) nevertheless(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Secretary	Powell	O'Neill	
+
+administration	opposition	legislative	efforts	weaken	Cuba	policy	
+permitting	finance	Cuban	agriculture	commodities	restrictions	
+legislation	
+vote	Moran	amendment	
+vote	
+
+reads % = 0.14

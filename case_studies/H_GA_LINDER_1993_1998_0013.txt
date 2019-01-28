@@ -1,4 +1,4 @@
-wrong
-Speaker(0.0) 
-,(1.0) I(0.0) yield(0.0) such(0.0) time(0.0) as(0.0) he(0.0) may(0.0) consume(0.0) to(1.0) the(0.0) gentleman(1.0) from(0.0) New(1.0) York(1.0) ((0.0) Mr.(1.0) Solomon(0.0) )(0.0) ,(0.0) 
-the(1.0) chairman(0.0) of(0.0) the(0.0) Committee(1.0) on(1.0) Rules(0.0) .(1.0) 
+correct
+Speaker(1.0) 
+,(1.0) I(1.0) yield(1.0) such(1.0) time(1.0) as(1.0) he(1.0) may(1.0) consume(1.0) to(1.0) the(1.0) gentleman(1.0) from(1.0) New(1.0) York(1.0) ((1.0) Mr.(1.0) Solomon(1.0) )(1.0) ,(1.0) 
+the(1.0) chairman(1.0) of(1.0) the(1.0) Committee(1.0) on(1.0) Rules(1.0) .(1.0) 

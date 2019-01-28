@@ -1,0 +1,36 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) President(0.0) Obama(1.0) misled(1.0) the(0.0) American(0.0) people(0.0) about(0.0) ObamaCare(1.0) ,(0.0) and(0.0) now(0.0) he(0.0) has(0.0) admitted(0.0) it(0.0) .(0.0) And(0.0) here(0.0) is(0.0) 
+a(0.0) letter(0.0) to(0.0) me(0.0) from(0.0) a(0.0) small(0.0) business(0.0) owner(0.0) in(0.0) my(0.0) district(0.0) :(0.0) My(0.0) husband(0.0) and(0.0) I(0.0) have(0.0) a(0.0) small(0.0) 
+medical(0.0) education(0.0) business(0.0) ,(0.0) and(0.0) ever(0.0) since(0.0) ObamaCare(1.0) passed(0.0) ,(0.0) our(0.0) business(0.0) has(0.0) been(0.0) cut(0.0) in(0.0) half(0.0) .(0.0) Doctors(0.0) are(0.0) 
+not(0.0) spending(1.0) money(1.0) on(0.0) education(1.0) ,(0.0) so(0.0) for(0.0) the(0.0) last(0.0) 4(0.0) years(0.0) ,(0.0) our(0.0) business(0.0) has(0.0) really(0.0) suffered(0.0) .(0.0) Then(0.0) 
+we(0.0) were(0.0) told(0.0) we(0.0) could(0.0) keep(0.0) our(0.0) insurance(1.0) .(0.0) We(0.0) had(0.0) good(0.0) insurance(0.0) ,(0.0) not(0.0) junk(1.0) .(0.0) We(0.0) currently(0.0) paid(0.0) 
+$(0.0) 514(0.0) a(0.0) month(0.0) with(0.0) a(0.0) $(0.0) 2,000(0.0) deductible(1.0) .(0.0) We(0.0) were(0.0) canceled(0.0) as(0.0) of(0.0) 12/31/13(1.0) .(0.0) To(0.0) get(0.0) anything(0.0) 
+near(0.0) what(0.0) we(0.0) had(0.0) ,(0.0) we(0.0) will(0.0) have(0.0) to(0.0) pay(1.0) $(0.0) 1,900(0.0) a(0.0) month(0.0) ,(0.0) which(0.0) we(0.0) can(0.0) not(0.0) afford(0.0) 
+.(0.0) So(0.0) much(0.0) for(0.0) affordable(1.0) health(1.0) care(1.0) .(0.0) This(0.0) is(0.0) the(0.0) first(0.0) time(0.0) in(0.0) 30(0.0) years(0.0) that(0.0) we(0.0) might(0.0) not(0.0) 
+be(0.0) able(0.0) to(0.0) have(0.0) health(1.0) insurance(1.0) .(0.0) We(0.0) have(0.0) always(0.0) run(0.0) our(0.0) life(0.0) not(0.0) depending(0.0) on(0.0) the(0.0) government(1.0) for(0.0) handouts(1.0) 
+,(0.0) and(0.0) now(0.0) we(0.0) are(0.0) losing(0.0) our(0.0) insurance(1.0) .(0.0) I(0.0) ask(0.0) you(0.0) ,(0.0) what(0.0) are(0.0) we(0.0) to(0.0) do(0.0) ?(0.0) Americans(1.0) 
+are(0.0) suffering(0.0) .(0.0) This(0.0) is(0.0) just(0.0) wrong(0.0) .(0.0) Yes(0.0) ,(0.0) I(0.0) believe(0.0) that(0.0) something(0.0) needed(0.0) to(0.0) be(0.0) done(0.0) ,(0.0) but(0.0) 
+not(0.0) this(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) it(0.0) is(0.0) time(0.0) to(0.0) keep(0.0) the(0.0) promise(0.0) to(0.0) the(0.0) American(0.0) people(0.0) .(0.0) The(0.0) SPEAKER(0.0) 
+pro(0.0) tempore(0.0) ((1.0) Mr.(0.0) Collins(1.0) of(0.0) New(0.0) York(1.0) )(0.0) .(0.0) Members(0.0) are(0.0) reminded(0.0) to(0.0) refrain(0.0) from(0.0) engaging(0.0) in(0.0) personalities(0.0) toward(0.0) 
+the(0.0) President(0.0) ,(0.0) such(0.0) as(0.0) alleging(0.0) that(0.0) he(0.0) misled(0.0) the(0.0) public(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Obama	misled	ObamaCare	
+
+ObamaCare	
+spending	money	education	
+insurance	junk	
+deductible	12/31/13	
+pay	
+affordable	health	care	
+health	insurance	government	handouts	
+insurance	Americans	
+
+Speaker	
+(	Collins	York	
+
+
+reads % = 0.09157509157509157

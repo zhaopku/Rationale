@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Resolution(1.0) providing(0.0) for(0.0) motions(1.0) to(0.0) suspend(0.0) the(0.0) rules(0.0) ((0.0) Rept(0.0) .(0.0) 108-179(0.0) )(0.0) .(0.0) Referred(0.0) to(0.0) the(0.0) House(0.0) Calendar(0.0) .(0.0) Mrs.(0.0) 
+MYRICK(1.0) :(1.0) Committee(0.0) on(0.0) Rules(0.0) .(0.0) House(0.0) Resolution(0.0) 298(0.0) .(0.0) Resolution(0.0) providing(0.0) for(0.0) consideration(0.0) of(0.0) the(0.0) bill(0.0) ((1.0) H.R(0.0) .(0.0) 
+2559(0.0) )(0.0) making(0.0) appropriations(0.0) for(0.0) military(0.0) construction(0.0) ,(0.0) family(0.0) housing(0.0) ,(0.0) and(0.0) base(0.0) realignment(0.0) and(0.0) closure(0.0) for(0.0) the(0.0) Department(0.0) of(0.0) 
+Defense(0.0) for(0.0) the(0.0) fiscal(0.0) year(0.0) ending(0.0) September(0.0) 30(0.0) ,(0.0) 2004(0.0) ,(0.0) and(0.0) for(0.0) other(0.0) purposes(0.0) ((0.0) Rept(0.0) .(0.0) 108-180(0.0) )(0.0) 
+.(0.0) Referred(0.0) to(0.0) the(0.0) House(0.0) Calendar(0.0) .(0.0) Ms.(0.0) PRYCE(1.0) of(0.0) Ohio(0.0) :(0.0) Committee(0.0) on(0.0) Rules(0.0) .(0.0) House(0.0) Resolution(0.0) 299(0.0) .(0.0) 
+Resolution(0.0) providing(0.0) for(0.0) consideration(0.0) of(0.0) the(0.0) bill(0.0) ((1.0) H.R(0.0) .(0.0) 1(0.0) )(0.0) to(0.0) amend(0.0) title(0.0) XVIII(0.0) of(0.0) the(0.0) Social(0.0) Security(0.0) 
+Act(0.0) to(0.0) provide(0.0) for(0.0) a(0.0) voluntary(0.0) program(0.0) for(0.0) prescription(0.0) drug(0.0) coverage(0.0) under(0.0) the(0.0) Medicare(0.0) Program(0.0) ,(0.0) to(0.0) modernize(1.0) the(0.0) Medicare(0.0) 
+Program(0.0) ,(0.0) and(0.0) for(0.0) other(0.0) purposes(0.0) and(0.0) providing(0.0) for(0.0) consideration(0.0) of(0.0) the(0.0) bill(0.0) ((1.0) H.R(0.0) .(0.0) 2596(0.0) )(0.0) to(0.0) amend(0.0) 
+the(0.0) Internal(0.0) Revenue(0.0) Code(0.0) of(0.0) 1986(0.0) to(0.0) allow(0.0) a(0.0) deduction(0.0) to(0.0) individuals(0.0) for(0.0) amounts(0.0) contributed(0.0) to(0.0) health(0.0) savings(0.0) security(0.0) accounts(0.0) 
+and(0.0) health(0.0) savings(0.0) accounts(0.0) ,(0.0) to(0.0) provide(0.0) for(0.0) the(0.0) disposition(0.0) of(0.0) unused(0.0) health(0.0) benefits(0.0) in(0.0) cafeteria(0.0) plans(0.0) and(0.0) flexible(0.0) spending(0.0) 
+arrangements(0.0) ,(0.0) and(0.0) for(0.0) other(0.0) purposes(0.0) ((0.0) Rept(0.0) .(0.0) 108-181(0.0) )(0.0) .(0.0) Referred(0.0) to(0.0) the(0.0) House(0.0) Calendar(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+motions	
+MYRICK	:	(	
+
+
+PRYCE	
+(	
+modernize	
+(	
+
+
+
+
+reads % = 0.0365296803652968

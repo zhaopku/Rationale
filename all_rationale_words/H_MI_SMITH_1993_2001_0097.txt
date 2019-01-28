@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) as(0.0) chairman(0.0) of(0.0) the(0.0) Subcommittee(0.0) on(0.0) Research(0.0) ,(0.0) Committee(0.0) on(0.0) Science(0.0) ,(0.0) I(0.0) am(0.0) excited(0.0) about(0.0) this(0.0) amendment(1.0) .(0.0) 
+This(0.0) fund(1.0) could(0.0) provide(0.0) additional(0.0) billions(1.0) of(0.0) dollars(1.0) on(0.0) top(0.0) of(0.0) the(0.0) already(0.0) existing(0.0) funding(1.0) for(0.0) renewable(1.0) energy(1.0) research(0.0) and(0.0) 
+development(0.0) .(0.0) The(0.0) renewable(1.0) energy(1.0) technology(1.0) investment(1.0) fund(1.0) will(0.0) fund(1.0) additional(0.0) renewable(1.0) energy(1.0) research(0.0) and(0.0) development(0.0) into(0.0) renewable(1.0) and(0.0) alternative(1.0) 
+fuels(1.0) ,(0.0) including(0.0) wind(1.0) ,(0.0) solar(1.0) ,(0.0) geothermal(1.0) ,(0.0) energy(1.0) from(0.0) biomass(1.0) .(0.0) Using(0.0) the(0.0) revenues(1.0) from(0.0) ANWR(1.0) ,(0.0) leasing(1.0) 
+for(0.0) these(0.0) purposes(1.0) would(0.0) pay(1.0) permanent(0.0) dividends(0.0) to(0.0) the(0.0) American(0.0) people(0.0) by(0.0) lowering(0.0) the(0.0) cost(1.0) of(0.0) developing(0.0) renewable(1.0) energy(1.0) resources(1.0) 
+.(0.0) It(0.0) is(0.0) going(0.0) to(0.0) restore(1.0) and(0.0) protect(0.0) wildlife(1.0) habitat(1.0) on(0.0) public(1.0) lands(0.0) .(0.0) It(0.0) is(0.0) an(0.0) amazing(0.0) return(0.0) on(0.0) 
+investment(1.0) ,(0.0) and(0.0) by(0.0) allowing(0.0) for(0.0) the(0.0) wise(0.0) and(0.0) prudent(0.0) development(0.0) of(0.0) just(0.0) 2,000(0.0) acres(0.0) in(0.0) a(0.0) remote(0.0) area(0.0) of(0.0) 
+Alaska(1.0) previously(0.0) set(0.0) aside(0.0) for(0.0) this(0.0) specific(0.0) purpose(0.0) ,(0.0) we(0.0) can(0.0) produce(0.0) benefits(1.0) for(0.0) generations(0.0) to(0.0) come(0.0) .(0.0) It(0.0) is(0.0) 
+the(0.0) wise(0.0) use(0.0) of(0.0) our(0.0) public(1.0) lands(0.0) that(0.0) our(0.0) children(0.0) and(0.0) grandchildren(0.0) will(0.0) thank(0.0) us(0.0) for(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) 
+I(0.0) urge(0.0) adoption(1.0) of(0.0) the(0.0) Sununu(1.0) amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+amendment	
+fund	billions	dollars	funding	renewable	energy	
+renewable	energy	technology	investment	fund	fund	renewable	energy	renewable	alternative	
+fuels	wind	solar	geothermal	energy	biomass	revenues	ANWR	leasing	
+purposes	pay	cost	renewable	energy	resources	
+restore	wildlife	habitat	public	
+investment	
+Alaska	benefits	
+public	Chairman	
+adoption	Sununu	amendment	
+
+reads % = 0.2328042328042328

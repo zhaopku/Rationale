@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+The(0.0) Clerk(0.0) read(0.0) as(0.0) follows(0.0) :(0.0) Amendment(0.0) offered(0.0) by(0.0) Mr.(0.0) Gilchrest(1.0) :(1.0) Page(1.0) 4(0.0) ,(0.0) strike(0.0) line(0.0) 19(0.0) and(0.0) all(0.0) that(0.0) 
+follows(0.0) through(0.0) page(0.0) 5(0.0) ,(0.0) line(0.0) 14(0.0) ,(0.0) and(0.0) insert(0.0) the(0.0) following(0.0) :(0.0) ((0.0) 4(0.0) )(0.0) by(0.0) amending(0.0) paragraph(0.0) ((0.0) 
+21(0.0) )(0.0) to(0.0) read(0.0) as(0.0) follows(0.0) :(0.0) ``(0.0) ((0.0) 21(0.0) )(0.0) The(0.0) term(0.0) `(0.0) optimum(0.0) '(0.0) ,(0.0) when(0.0) used(0.0) in(0.0) 
+reference(0.0) to(0.0) the(0.0) yield(0.0) from(0.0) a(0.0) fishery(0.0) ,(0.0) means(0.0) the(0.0) amount(0.0) of(0.0) fish(0.0) which(0.0) --(0.0) ``(0.0) ((0.0) A(0.0) )(0.0) will(0.0) 
+provide(0.0) the(0.0) greatest(0.0) overall(0.0) benefit(0.0) to(0.0) the(0.0) Nation(0.0) ,(0.0) particularly(0.0) with(0.0) respect(0.0) to(0.0) food(0.0) production(0.0) and(0.0) recreational(0.0) opportunities(0.0) ,(0.0) taking(0.0) 
+into(0.0) account(0.0) the(0.0) protection(0.0) of(0.0) marine(0.0) ecosystems(0.0) ;(0.0) ``(0.0) ((0.0) B(0.0) )(0.0) is(0.0) prescribed(0.0) on(0.0) the(0.0) basis(0.0) of(0.0) the(0.0) maximum(0.0) 
+sustainable(0.0) yield(0.0) from(0.0) the(0.0) fishery(0.0) ,(0.0) as(0.0) reduced(0.0) by(0.0) an(0.0) relevant(0.0) ,(0.0) social(0.0) ,(0.0) economic(0.0) ,(0.0) or(0.0) ecological(0.0) factor(0.0) ,(0.0) 
+and(0.0) ``(0.0) ((0.0) C(0.0) )(0.0) in(0.0) the(0.0) case(0.0) of(0.0) an(0.0) overfished(0.0) fishery(1.0) resource(0.0) ,(0.0) provides(0.0) for(0.0) rebuilding(0.0) of(0.0) the(0.0) resource(0.0) 
+to(0.0) a(0.0) level(0.0) consistent(0.0) with(0.0) providing(0.0) the(0.0) maximum(0.0) sustainable(0.0) yield(0.0) from(0.0) the(0.0) resource(0.0) .(0.0) ''(0.0) ;(0.0) Mr.(0.0) GILCHREST(1.0) ((0.0) during(0.0) 
+the(0.0) reading(0.0) )(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) ask(0.0) unanimous(1.0) consent(0.0) the(0.0) amendment(1.0) be(0.0) considered(0.0) as(0.0) read(0.0) and(0.0) printed(0.0) in(0.0) 
+the(0.0) Record(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Gilchrest	:	Page	
+
+
+
+
+
+
+fishery	
+GILCHREST	
+Chairman	unanimous	amendment	
+
+
+reads % = 0.0392156862745098

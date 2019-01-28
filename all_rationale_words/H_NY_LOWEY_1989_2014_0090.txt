@@ -1,0 +1,48 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) am(0.0) very(0.0) pleased(0.0) to(0.0) yield(0.0) 2\1/2\(0.0) minutes(0.0) to(0.0) the(0.0) distinguished(0.0) gentlewoman(0.0) from(0.0) Connecticut(1.0) ((0.0) Ms.(1.0) DeLauro(1.0) )(0.0) ,(0.0) 
+the(0.0) ranking(0.0) minority(0.0) member(0.0) of(0.0) the(0.0) Labor(0.0) ,(0.0) Health(0.0) and(0.0) Human(0.0) Services(0.0) Appropriations(0.0) Subcommittee(0.0) .(0.0) Ms.(0.0) DeLAURO(0.0) .(0.0) Mr.(0.0) Speaker(1.0) 
+,(0.0) as(0.0) ranking(1.0) member(0.0) of(0.0) the(0.0) Labor(0.0) ,(0.0) Health(0.0) and(0.0) Human(0.0) Services(0.0) Subcommittee(0.0) ,(0.0) I(0.0) worked(0.0) hard(0.0) on(0.0) this(0.0) portion(0.0) 
+of(0.0) the(0.0) legislation(0.0) ,(0.0) and(0.0) there(0.0) are(0.0) some(0.0) real(0.0) bright(0.0) spots(0.0) .(0.0) But(0.0) our(0.0) problem(0.0) is(0.0) simple(0.0) .(0.0) The(0.0) resources(1.0) 
+provided(0.0) in(0.0) this(0.0) bill(1.0) are(0.0) not(0.0) adequate(1.0) to(0.0) tackle(0.0) the(0.0) challenges(0.0) middle(0.0) class(1.0) families(0.0) face(0.0) every(0.0) day(0.0) .(0.0) The(0.0) bill(1.0) 
+does(1.0) not(0.0) keep(0.0) pace(0.0) with(0.0) inflation(1.0) .(0.0) It(0.0) continues(0.0) to(0.0) underfund(1.0) some(0.0) of(0.0) our(0.0) Nation(1.0) 's(0.0) highest(0.0) priorities(1.0) :(0.0) education(1.0) 
+,(0.0) health(1.0) care(1.0) ,(0.0) medical(1.0) research(0.0) ,(0.0) and(0.0) job(0.0) training(0.0) .(0.0) However(0.0) ,(0.0) there(0.0) are(0.0) many(0.0) more(0.0) troubling(0.0) aspects(0.0) of(0.0) 
+this(0.0) bill(1.0) .(0.0) The(0.0) Department(0.0) of(0.0) Homeland(0.0) Security(0.0) is(0.0) only(0.0) funded(1.0) for(0.0) 9(0.0) weeks(0.0) .(0.0) Why(0.0) ?(0.0) Because(0.0) the(0.0) majority(1.0) 
+disagrees(1.0) with(0.0) the(0.0) President(1.0) on(0.0) immigration(1.0) .(0.0) Holding(0.0) up(0.0) full-year(0.0) funding(1.0) for(0.0) national(1.0) security(0.0) over(0.0) an(0.0) immigration(1.0) disagreement(1.0) is(0.0) a(0.0) 
+game(0.0) that(0.0) poses(1.0) a(0.0) serious(0.0) risk(0.0) to(0.0) our(0.0) border(1.0) ,(0.0) our(0.0) Secret(0.0) Service(0.0) ,(0.0) and(0.0) our(0.0) ability(0.0) to(0.0) respond(0.0) to(0.0) 
+natural(0.0) disasters(1.0) .(0.0) The(0.0) bill(1.0) gambles(1.0) with(0.0) our(0.0) financial(1.0) system(0.0) .(0.0) It(0.0) would(0.0) reverse(0.0) Dodd-(0.0) Frank(0.0) safeguards(1.0) ,(0.0) allow(0.0) banks(1.0) 
+to(0.0) engage(0.0) in(0.0) some(0.0) of(0.0) Wall(1.0) Street's(0.0) riskiest(1.0) transactions(0.0) ,(0.0) the(0.0) same(0.0) transactions(0.0) that(0.0) caused(0.0) a(0.0) crisis(1.0) in(0.0) which(0.0) millions(1.0) 
+of(0.0) hardworking(1.0) Americans(1.0) lost(0.0) their(0.0) jobs(0.0) ,(0.0) their(0.0) homes(0.0) ,(0.0) and(0.0) their(0.0) savings(1.0) .(0.0) Why(0.0) ?(0.0) Why(0.0) would(0.0) we(0.0) want(0.0) 
+to(0.0) put(0.0) families(0.0) at(0.0) risk(0.0) once(0.0) again(0.0) ?(0.0) Public(1.0) funds(1.0) should(0.0) be(0.0) used(0.0) to(0.0) protect(0.0) our(0.0) families(0.0) ,(0.0) not(0.0) to(0.0) 
+prop(1.0) up(0.0) casino(1.0) banking(1.0) .(0.0) This(0.0) bill(1.0) threatens(1.0) injustice(1.0) to(0.0) millions(1.0) of(0.0) seniors(1.0) .(0.0) It(0.0) allows(0.0) pension(1.0) funds(1.0) to(0.0) reduce(1.0) 
+benefits(1.0) to(0.0) current(0.0) retirees(1.0) .(0.0) They(0.0) worked(0.0) hard(0.0) for(0.0) their(0.0) retirement(1.0) .(0.0) They(0.0) earned(0.0) it(0.0) .(0.0) Would(0.0) we(0.0) want(0.0) to(0.0) 
+put(0.0) their(0.0) economic(1.0) security(0.0) in(0.0) jeopardy(1.0) ?(0.0) Finally(0.0) ,(0.0) the(0.0) bill(1.0) seeks(1.0) to(0.0) overturn(1.0) some(0.0) of(0.0) the(0.0) last(0.0) remaining(0.0) campaign(1.0) 
+finance(1.0) laws(1.0) ,(0.0) as(0.0) if(0.0) they(0.0) were(0.0) not(0.0) generous(0.0) enough(0.0) .(0.0) The(0.0) American(0.0) public(1.0) is(0.0) angry(0.0) about(0.0) a(0.0) government(1.0) that(0.0) 
+responds(0.0) to(0.0) the(0.0) highest(0.0) bidder(0.0) .(0.0) The(0.0) majority(1.0) 's(0.0) dangerous(1.0) games(0.0) benefit(0.0) big(0.0) corporations(1.0) and(0.0) the(0.0) wealthy(1.0) at(0.0) the(0.0) expense(0.0) 
+of(0.0) working(0.0) families(0.0) and(0.0) seniors(1.0) ,(0.0) and(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) vote(1.0) against(0.0) this(0.0) bill(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Connecticut	Ms.	DeLauro	
+Speaker	
+ranking	
+resources	
+bill	adequate	class	bill	
+does	inflation	underfund	Nation	priorities	education	
+health	care	medical	
+bill	funded	majority	
+disagrees	President	immigration	funding	national	immigration	disagreement	
+poses	border	
+disasters	bill	gambles	financial	safeguards	banks	
+Wall	riskiest	crisis	millions	
+hardworking	Americans	savings	
+Public	funds	
+prop	casino	banking	bill	threatens	injustice	millions	seniors	pension	funds	reduce	
+benefits	retirees	retirement	
+economic	jeopardy	bill	seeks	overturn	campaign	
+finance	laws	public	government	
+majority	dangerous	corporations	wealthy	
+seniors	vote	bill	
+
+reads % = 0.1934673366834171

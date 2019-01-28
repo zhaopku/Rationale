@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) in(0.0) my(0.0) southern(0.0) Ohio(1.0) district(0.0) ,(0.0) there(0.0) are(0.0) over(0.0) 100,000(0.0) men(0.0) ,(0.0) women(1.0) ,(0.0) and(0.0) children(0.0) who(0.0) do(0.0) not(0.0) 
+have(0.0) health(1.0) care(1.0) insurance(1.0) .(0.0) For(0.0) that(0.0) reason(0.0) ,(0.0) when(0.0) I(0.0) was(0.0) elected(0.0) to(0.0) Congress(0.0) ,(0.0) I(0.0) made(0.0) the(0.0) decision(0.0) 
+that(0.0) my(0.0) wife(0.0) and(0.0) I(0.0) would(0.0) not(0.0) accept(0.0) the(0.0) generous(0.0) congressional(1.0) health(1.0) coverage(1.0) until(0.0) the(0.0) people(0.0) that(0.0) I(0.0) represent(0.0) have(0.0) 
+access(0.0) to(0.0) affordable(1.0) health(1.0) care(1.0) .(0.0) We(0.0) have(0.0) gone(0.0) out(0.0) into(0.0) the(0.0) open(0.0) market(0.0) and(0.0) purchased(0.0) private(0.0) insurance(0.0) ,(0.0) for(0.0) 
+which(0.0) we(0.0) pay(1.0) 100(0.0) percent(0.0) of(0.0) the(0.0) cost(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) am(0.0) not(0.0) saying(0.0) that(0.0) other(0.0) Members(0.0) should(0.0) 
+do(0.0) as(0.0) I(0.0) have(0.0) done(0.0) .(0.0) But(0.0) ,(0.0) I(0.0) am(0.0) saying(0.0) that(0.0) those(0.0) Members(0.0) who(0.0) oppose(0.0) universal(1.0) coverage(1.0) for(0.0) all(0.0) 
+citizens(1.0) ,(0.0) paid(0.0) for(0.0) in(0.0) part(0.0) by(0.0) employers(1.0) ,(0.0) should(0.0) in(0.0) the(0.0) name(0.0) of(0.0) fairness(1.0) give(0.0) up(0.0) their(0.0) congressional(1.0) health(1.0) 
+care(0.0) benefits(1.0) which(0.0) exist(0.0) ,(0.0) in(0.0) part(0.0) ,(0.0) as(0.0) the(0.0) result(0.0) of(0.0) employer(1.0) contributions(1.0) --(0.0) contributions(1.0) from(0.0) the(0.0) taxpayers(1.0) of(0.0) 
+this(0.0) country(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) this(0.0) is(0.0) simply(0.0) a(0.0) matter(0.0) of(0.0) practicing(1.0) what(0.0) we(0.0) preach(1.0) .(0.0) If(0.0) affordable(1.0) health(1.0) 
+care(1.0) ,(0.0) partially(0.0) paid(1.0) for(0.0) by(0.0) employers(1.0) ,(0.0) is(0.0) something(0.0) we(0.0) would(0.0) deny(1.0) the(0.0) ordinary(0.0) American(0.0) ,(0.0) then(0.0) it(0.0) ought(1.0) 
+not(0.0) be(0.0) available(0.0) to(0.0) Members(0.0) of(0.0) Congress(0.0) .(0.0) The(0.0) average(0.0) American(0.0) citizen(1.0) deserves(1.0) what(0.0) we've(0.0) got(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Ohio	women	
+health	care	insurance	
+congressional	health	coverage	
+affordable	health	care	
+pay	cost	Speaker	
+universal	coverage	
+citizens	employers	fairness	congressional	health	
+benefits	employer	contributions	contributions	taxpayers	
+country	Speaker	practicing	preach	affordable	health	
+care	paid	employers	deny	ought	
+citizen	deserves	
+
+reads % = 0.17889908256880735

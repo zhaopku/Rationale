@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) just(0.0) want(0.0) to(0.0) bring(0.0) to(0.0) your(0.0) attention(0.0) that(0.0) the(0.0) public(1.0) watching(0.0) this(0.0) today(0.0) on(0.0) C-SPAN(1.0) does(0.0) not(0.0) 
+receive(0.0) a(0.0) single(0.0) Federal(1.0) dollar(1.0) in(0.0) regards(0.0) to(0.0) the(0.0) operation(0.0) of(0.0) C-SPAN(1.0) .(0.0) We(0.0) 're(0.0) not(0.0) closing(0.0) down(0.0) local(0.0) radio(0.0) 
+stations(0.0) .(0.0) We(0.0) 're(0.0) actually(0.0) giving(0.0) them(0.0) the(0.0) ability(0.0) to(0.0) liberate(1.0) themselves(0.0) from(0.0) Federal(1.0) dollars(1.0) .(0.0) My(0.0) good(0.0) friends(0.0) on(0.0) 
+the(0.0) other(0.0) side(0.0) of(0.0) the(0.0) aisle(0.0) continue(0.0) to(0.0) refuse(1.0) to(0.0) prioritize(1.0) about(0.0) what(0.0) 's(0.0) important(0.0) for(0.0) America(1.0) .(0.0) They(0.0) continue(0.0) 
+on(0.0) a(0.0) path(0.0) of(0.0) just(0.0) spend(0.0) ,(0.0) because(0.0) all(0.0) programs(1.0) are(0.0) inherently(0.0) good(0.0) .(0.0) While(0.0) you(0.0) 've(0.0) heard(0.0) a(0.0) lot(0.0) 
+of(0.0) us(0.0) like(0.0) NPR(1.0) in(0.0) regard(1.0) to(0.0) certain(0.0) programming(0.0) ,(0.0) there(0.0) 's(0.0) others(0.0) that(0.0) we(0.0) do(0.0) not(0.0) .(0.0) Mr.(0.0) Speaker(1.0) 
+,(0.0) I(0.0) was(0.0) reminded(0.0) the(0.0) other(0.0) day(0.0) of(0.0) a(0.0) quote(0.0) by(0.0) Thomas(0.0) Jefferson(1.0) :(0.0) ``(0.0) To(0.0) compel(0.0) a(0.0) man(0.0) to(0.0) 
+furnish(0.0) contributions(0.0) of(0.0) money(0.0) for(0.0) the(0.0) propagation(0.0) of(0.0) opinions(0.0) which(0.0) he(0.0) disbelieves(0.0) and(0.0) abhors(1.0) is(0.0) sinful(1.0) and(0.0) tyrannical(1.0) .(0.0) ''(0.0) 
+With(0.0) that(0.0) in(0.0) mind(0.0) ,(0.0) I(0.0) ca(0.0) n't(0.0) in(0.0) good(0.0) conscience(1.0) support(0.0) continuing(0.0) to(0.0) fund(1.0) NPR(1.0) with(0.0) tax(1.0) dollars(1.0) .(0.0) 
+A(0.0) large(0.0) number(0.0) of(0.0) Americans(1.0) fundamentally(1.0) disagree(0.0) with(0.0) the(0.0) content(0.0) and(0.0) mission(0.0) of(0.0) NPR(1.0) .(0.0) Moreover(0.0) ,(0.0) this(0.0) is(0.0) a(0.0) 
+program(0.0) that(0.0) can(0.0) be(0.0) privately(0.0) funded(1.0) .(0.0) NPR(0.0) 's(0.0) own(0.0) officials(0.0) said(0.0) they(0.0) do(0.0) n't(0.0) need(0.0) Federal(1.0) dollars(1.0) to(0.0) continue(1.0) 
+.(0.0) We(0.0) are(0.0) not(0.0) trying(0.0) to(0.0) harm(1.0) NPR(1.0) .(0.0) We(0.0) are(0.0) actually(0.0) trying(0.0) to(0.0) liberate(1.0) them(0.0) from(0.0) Federal(1.0) tax(1.0) dollars(1.0) 
+.(0.0) We(0.0) need(0.0) to(0.0) get(0.0) back(0.0) to(0.0) the(0.0) core(0.0) mission(0.0) of(0.0) the(0.0) Federal(1.0) Government(1.0) .(0.0) As(0.0) much(0.0) as(0.0) any(0.0) of(0.0) 
+us(0.0) here(0.0) ,(0.0) including(0.0) myself(0.0) ,(0.0) may(0.0) enjoy(0.0) programs(1.0) like(0.0) ``(0.0) Car(0.0) Talk(0.0) ''(0.0) and(0.0) ``(0.0) Wait(0.0) ,(0.0) Wait(0.0) ,(0.0) 
+Do(0.0) n't(0.0) Tell(0.0) Me(0.0) ,(0.0) ''(0.0) you(0.0) ca(0.0) n't(0.0) tell(0.0) me(0.0) that(0.0) that(0.0) is(0.0) a(0.0) core(0.0) mission(0.0) of(0.0) the(0.0) Federal(1.0) 
+Government(1.0) .(0.0) Our(0.0) good(0.0) friends(0.0) in(0.0) the(0.0) same(0.0) sentence(0.0) talked(0.0) about(0.0) war(1.0) ,(0.0) national(1.0) defense(1.0) ,(0.0) and(0.0) NPR(1.0) .(0.0) They(0.0) 
+do(0.0) n't(0.0) equate(0.0) .(0.0) The(0.0) Constitution(1.0) is(0.0) clear(0.0) about(0.0) our(0.0) requirement(1.0) to(0.0) protect(1.0) the(0.0) American(0.0) people(0.0) .(0.0) H.R(0.0) .(0.0) 1076(0.0) 
+is(0.0) a(0.0) return(0.0) to(0.0) the(0.0) normal(0.0) procedure(0.0) of(0.0) the(0.0) House(0.0) .(0.0) Authorizing(0.0) committees(0.0) provide(0.0) us(0.0) with(0.0) bills(0.0) that(0.0) set(0.0) out(0.0) 
+the(0.0) priorities(1.0) for(0.0) the(0.0) House(0.0) and(0.0) the(0.0) Appropriations(0.0) Committee(0.0) funds(0.0) based(0.0) on(0.0) authorizations(0.0) .(0.0) With(0.0) H.R(0.0) .(0.0) 1076(0.0) ,(0.0) we(0.0) 
+let(0.0) the(0.0) Appropriations(0.0) Committee(0.0) know(0.0) that(0.0) National(0.0) Public(0.0) Radio(0.0) does(0.0) n't(0.0) need(0.0) Federal(1.0) tax(1.0) dollars(1.0) anymore(0.0) .(0.0) Local(1.0) stations(0.0) can(0.0) 
+create(0.0) their(0.0) own(0.0) programs(1.0) .(0.0) They(0.0) can(0.0) reorganize(1.0) their(0.0) financing(1.0) so(0.0) that(0.0) grant(1.0) money(0.0) they(0.0) might(0.0) use(0.0) for(0.0) membership(0.0) and(0.0) 
+programming(0.0) fees(0.0) can(0.0) go(0.0) elsewhere(0.0) ,(0.0) and(0.0) they(0.0) can(0.0) do(0.0) private(0.0) fund-raising(0.0) they(0.0) need(0.0) for(0.0) the(0.0) dues(1.0) and(0.0) programming(0.0) from(0.0) 
+NPR(1.0) .(0.0) The(0.0) material(0.0) previously(0.0) referred(0.0) to(0.0) by(0.0) Ms(0.0) .(0.0) Slaughter(0.0) is(0.0) as(0.0) follows(0.0) :(0.0) An(0.0) Amendment(1.0) to(0.0) H.(0.0) Res(1.0) 
+.(0.0) 174(0.0) Offered(0.0) by(0.0) Ms(0.0) .(0.0) Slaughter(0.0) of(0.0) New(1.0) York(1.0) At(0.0) the(0.0) end(0.0) of(0.0) the(0.0) resolution(0.0) ,(0.0) add(0.0) the(0.0) following(0.0) 
+new(0.0) sections(0.0) :(0.0) Sec(0.0) .(0.0) 2(0.0) .(0.0) Immediately(0.0) upon(0.0) adoption(1.0) of(0.0) this(0.0) resolution(1.0) the(0.0) Speaker(0.0) shall(0.0) ,(0.0) pursuant(0.0) to(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	public	C-SPAN	
+Federal	dollar	C-SPAN	
+liberate	Federal	dollars	
+refuse	prioritize	America	
+programs	
+NPR	regard	Speaker	
+Jefferson	
+abhors	sinful	tyrannical	
+conscience	fund	NPR	tax	dollars	
+Americans	fundamentally	NPR	
+funded	Federal	dollars	continue	
+harm	NPR	liberate	Federal	tax	dollars	
+Federal	Government	
+programs	
+Federal	
+Government	war	national	defense	NPR	
+Constitution	requirement	protect	
+
+priorities	
+Federal	tax	dollars	Local	
+programs	reorganize	financing	grant	
+dues	
+NPR	Amendment	Res	
+New	York	
+adoption	resolution	
+
+reads % = 0.134

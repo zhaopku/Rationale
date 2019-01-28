@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) may(0.0) I(0.0) inquire(0.0) as(0.0) to(0.0) how(0.0) much(0.0) time(0.0) is(0.0) remaining(0.0) ?(0.0) The(0.0) Acting(0.0) CHAIR(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) Maryland(1.0) 
+has(0.0) 5(0.0) minutes(0.0) remaining(0.0) ,(0.0) and(0.0) the(0.0) gentleman(0.0) from(0.0) South(0.0) Carolina(0.0) has(0.0) 4(0.0) minutes(0.0) remaining(0.0) .(0.0) Let(0.0) 's(0.0) talk(0.0) a(0.0) 
+little(0.0) bit(0.0) about(0.0) energy(1.0) policy(1.0) .(0.0) One(0.0) of(0.0) the(0.0) things(0.0) you(0.0) would(0.0) n't(0.0) know(0.0) from(0.0) the(0.0) document(0.0) that(0.0) Mr.(0.0) Mulvaney(1.0) 
+put(0.0) forward(0.0) claiming(1.0) it(0.0) 's(0.0) the(0.0) President(1.0) 's(0.0) budget(0.0) is(0.0) that(0.0) the(0.0) President(1.0) actually(0.0) provides(0.0) the(0.0) resources(0.0) to(0.0) the(0.0) Commodity(0.0) 
+Futures(0.0) Trading(0.0) Commission(0.0) to(0.0) help(0.0) police(0.0) speculators(1.0) in(0.0) the(0.0) oil(1.0) market(1.0) .(0.0) Because(0.0) what(0.0) we(0.0) 're(0.0) seeing(0.0) today(0.0) is(0.0) that(0.0) 
+,(0.0) because(0.0) of(0.0) conditions(0.0) around(0.0) the(0.0) world(0.0) ,(0.0) a(0.0) lot(0.0) of(0.0) those(0.0) are(0.0) being(0.0) taken(0.0) advantage(0.0) of(0.0) by(0.0) people(0.0) who(0.0) 
+are(0.0) engaged(0.0) in(0.0) excessive(1.0) speculation(1.0) on(0.0) the(0.0) oil(1.0) market(1.0) ,(0.0) driving(0.0) it(0.0) up(0.0) .(0.0) But(0.0) the(0.0) Republican(1.0) budget(1.0) does(1.0) n't(1.0) 
+want(1.0) the(1.0) cop(1.0) on(1.0) the(1.0) beat(1.0) .(1.0) The(1.0) Republican(1.0) budget(1.0) does(1.0) n't(1.0) want(1.0) to(1.0) police(1.0) the(1.0) speculators(1.0) because(1.0) ,(1.0) you(1.0) 
+know(1.0) what(1.0) ,(1.0) they(1.0) 're(1.0) just(0.0) doing(0.0) fine(0.0) .(0.0) But(0.0) again(0.0) ,(0.0) Mr.(0.0) Mulvaney(1.0) 's(0.0) budget(1.0) --(0.0) what(0.0) he(0.0) pretends(0.0) 
+is(0.0) the(0.0) President(1.0) 's(0.0) budget(1.0) --(0.0) you(0.0) would(0.0) n't(0.0) know(0.0) that(0.0) .(0.0) But(0.0) if(0.0) you(0.0) looked(0.0) in(0.0) the(0.0) President(1.0) 's(0.0) 
+real(0.0) budget(1.0) ,(0.0) you(0.0) would(0.0) know(0.0) that(0.0) kind(0.0) of(0.0) thing(0.0) .(0.0) That(0.0) 's(0.0) why(0.0) this(0.0) exercise(0.0) is(0.0) such(0.0) a(0.0) farce(0.0) 
+.(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Maryland	
+
+energy	policy	Mulvaney	
+claiming	President	President	
+speculators	oil	market	
+
+excessive	speculation	oil	market	Republican	budget	does	n't	
+want	the	cop	on	the	beat	.	The	Republican	budget	does	n't	want	to	police	the	speculators	because	,	you	
+know	what	,	they	're	Mulvaney	budget	
+President	budget	President	
+budget	
+Chairman	
+
+reads % = 0.2145922746781116

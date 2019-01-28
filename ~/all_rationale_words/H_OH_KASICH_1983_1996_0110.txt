@@ -1,0 +1,24 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) hereby(1.0) submit(1.0) the(0.0) following(0.0) revised(1.0) levels(0.0) of(0.0) new(1.0) budget(0.0) authority(1.0) and(0.0) outlays(0.0) for(0.0) fiscal(0.0) year(0.0) 1997(1.0) .(0.0) These(0.0) 
+levels(0.0) supersede(1.0) those(0.0) printed(1.0) in(0.0) the(0.0) Congressional(0.0) Record(1.0) on(0.0) July(0.0) 10(0.0) ,(0.0) 1996(0.0) ,(0.0) in(0.0) compliance(1.0) with(0.0) section(0.0) 606(0.0) ((0.0) 
+e(1.0) )(0.0) of(0.0) the(0.0) Congressional(1.0) Budget(1.0) Act(0.0) .(0.0) Section(1.0) 606(1.0) ((0.0) e(1.0) )(0.0) of(0.0) the(0.0) Congressional(1.0) budget(0.0) Act(0.0) provides(0.0) for(0.0) 
+the(0.0) revision(0.0) of(0.0) the(0.0) budgetary(1.0) levels(0.0) established(1.0) by(0.0) concurrent(1.0) budget(0.0) resolutions(1.0) and(0.0) accompanying(0.0) reports(0.0) to(0.0) accommodate(1.0) additional(0.0) appropriations(0.0) for(0.0) continuing(0.0) 
+disability(0.0) reviews(0.0) under(0.0) the(0.0) Supplemental(1.0) Security(0.0) Income(0.0) Program(0.0) .(0.0) The(0.0) revised(1.0) levels(0.0) of(0.0) total(0.0) new(1.0) budget(0.0) authority(1.0) and(0.0) total(0.0) budget(0.0) 
+outlays(0.0) printed(1.0) in(0.0) the(0.0) Record(1.0) on(0.0) July(0.0) 10(0.0) were(0.0) not(1.0) based(0.0) on(0.0) the(0.0) appropriate(1.0) levels(0.0) in(0.0) the(0.0) fiscal(0.0) year(0.0) 1997(1.0) 
+budget(0.0) resolution(0.0) conference(0.0) report(0.0) ((0.0) H.(1.0) Rept(1.0) .(0.0) 104-612(1.0) )(0.0) .(0.0) For(1.0) fiscal(0.0) year(0.0) 1997(1.0) ,(0.0) the(0.0) revised(1.0) level(0.0) of(0.0) 
+total(0.0) new(0.0) budget(0.0) authority(0.0) is(0.0) $(0.0) 1,314,785,000,000(1.0) and(0.0) the(0.0) revised(1.0) level(0.0) of(0.0) total(0.0) budget(0.0) outlays(0.0) is(0.0) $(0.0) 1,311,171,000,000(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+hereby	submit	revised	new	authority	1997	
+supersede	printed	Record	compliance	
+e	Congressional	Budget	Section	606	e	Congressional	
+budgetary	established	concurrent	resolutions	accommodate	
+Supplemental	revised	new	authority	
+printed	Record	not	appropriate	1997	
+H.	Rept	104-612	For	1997	revised	
+1,314,785,000,000	revised	1,311,171,000,000	
+
+reads % = 0.25

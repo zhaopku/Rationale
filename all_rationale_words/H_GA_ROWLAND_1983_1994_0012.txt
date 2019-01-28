@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+Claude(1.0) Harris(1.0) not(0.0) being(0.0) with(0.0) us(0.0) anymore(0.0) is(0.0) certainly(0.0) a(0.0) great(0.0) loss(0.0) to(0.0) this(0.0) institution(1.0) ,(0.0) to(0.0) his(0.0) State(0.0) ,(0.0) and(0.0) 
+the(0.0) country(1.0) .(0.0) I(0.0) knew(0.0) Claude(0.0) and(0.0) his(0.0) wife(0.0) ,(0.0) Barbara(0.0) ,(0.0) on(0.0) very(0.0) many(0.0) occasions(0.0) having(0.0) visited(0.0) in(0.0) their(0.0) 
+home(0.0) in(0.0) Alabama(1.0) ,(0.0) and(0.0) I(0.0) came(0.0) to(0.0) know(0.0) them(0.0) and(0.0) their(0.0) family(0.0) very(0.0) well(0.0) .(0.0) Claude(0.0) is(0.0) going(0.0) to(0.0) 
+be(0.0) missed(0.0) greatly(0.0) by(0.0) the(0.0) people(0.0) in(0.0) his(0.0) home(0.0) county(0.0) ,(0.0) and(0.0) his(0.0) home(0.0) State(0.0) ;(0.0) and(0.0) the(0.0) country(1.0) is(0.0) 
+going(0.0) to(0.0) be(0.0) worse(0.0) off(0.0) for(0.0) having(0.0) lost(0.0) this(0.0) truly(0.0) great(0.0) American(0.0) .(0.0) I(0.0) want(0.0) to(0.0) commend(0.0) the(0.0) gentleman(0.0) from(0.0) 
+Arizona(0.0) [(0.0) Mr.(0.0) Stump(1.0) ](0.0) ,(0.0) and(0.0) the(0.0) gentleman(0.0) from(0.0) Mississippi(0.0) [(0.0) Mr.(0.0) Montgomery(1.0) ](0.0) ,(0.0) for(0.0) this(0.0) resolution(1.0) naming(0.0) 
+this(0.0) building(0.0) for(0.0) a(0.0) wonderful(0.0) man(0.0) from(0.0) Alabama(1.0) ,(0.0) Claude(0.0) Harris(1.0) ,(0.0) Jr(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Harris	institution	
+country	
+Alabama	
+country	
+
+Stump	Montgomery	resolution	
+Alabama	Harris	
+
+reads % = 0.07407407407407407

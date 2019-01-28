@@ -1,0 +1,10 @@
+This is from a Democrat
+----- below is the original text -----
+We(0.0) have(0.0) had(0.0) a(0.0) swing(0.0) in(0.0) the(0.0) wrong(0.0) direction(0.0) of(0.0) nearly(0.0) $(0.0) 9(0.0) trillion(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+trillion	
+
+reads % = 0.06666666666666667

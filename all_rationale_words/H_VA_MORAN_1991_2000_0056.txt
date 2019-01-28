@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) think(0.0) I(0.0) may(0.0) get(0.0) wound(0.0) up(0.0) a(0.0) little(0.0) more(0.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) let(0.0) us(0.0) yield(0.0) ourselves(0.0) 
+at(0.0) least(0.0) 3(0.0) minutes(0.0) for(0.0) this(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	
+
+
+reads % = 0.03571428571428571

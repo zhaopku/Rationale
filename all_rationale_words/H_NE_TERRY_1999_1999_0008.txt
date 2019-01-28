@@ -1,0 +1,40 @@
+This is from a Republican
+----- below is the original text -----
+Before(0.0) coming(0.0) to(0.0) Congress(0.0) ,(0.0) I(0.0) spent(1.0) 8(0.0) years(0.0) as(0.0) a(0.0) Member(0.0) of(0.0) the(0.0) Omaha(1.0) Nebraska(1.0) City(0.0) Council(1.0) .(0.0) This(0.0) gave(0.0) 
+me(0.0) an(0.0) opportunity(0.0) to(0.0) observe(1.0) firsthand(0.0) the(0.0) impact(0.0) of(0.0) Federal(1.0) regulations(1.0) on(0.0) our(0.0) cities(0.0) .(0.0) Many(0.0) of(0.0) the(0.0) regulations(1.0) may(0.0) 
+not(1.0) cost(0.0) the(0.0) Federal(1.0) Government(1.0) much(0.0) ,(0.0) but(0.0) the(0.0) cost(0.0) to(0.0) the(0.0) States(0.0) and(0.0) the(0.0) localities(1.0) can(0.0) often(0.0) be(0.0) great(0.0) 
+.(0.0) Washington(1.0) regulators(0.0) need(0.0) to(0.0) appreciate(1.0) how(0.0) much(0.0) of(0.0) a(0.0) financial(0.0) burden(0.0) their(0.0) rules(0.0) are(0.0) on(0.0) other(0.0) forms(1.0) of(0.0) government(1.0) 
+.(0.0) They(0.0) might(0.0) even(0.0) be(0.0) encouraged(1.0) to(0.0) find(0.0) more(0.0) cost-effective(1.0) ways(0.0) of(0.0) accomplishing(0.0) their(0.0) goals(0.0) .(0.0) This(0.0) is(0.0) why(0.0) this(0.0) 
+legislation(0.0) is(0.0) so(1.0) necessary(1.0) .(0.0) Let(1.0) me(0.0) tell(0.0) the(0.0) Members(0.0) ,(0.0) just(1.0) to(0.0) build(0.0) a(0.0) road(1.0) within(1.0) the(0.0) city(1.0) of(0.0) 
+Omaha(1.0) ,(0.0) some(0.0) firsthand(1.0) experience(0.0) .(0.0) About(0.0) 30(0.0) to(0.0) 40(0.0) percent(1.0) of(0.0) the(0.0) time(0.0) and(0.0) talent(0.0) to(0.0) get(0.0) that(0.0) road(1.0) 
+built(0.0) is(0.0) spent(0.0) in(0.0) trying(1.0) to(0.0) comply(1.0) with(0.0) Federal(1.0) rules(1.0) and(0.0) regulations(1.0) .(0.0) It(0.0) is(0.0) very(0.0) costly(1.0) .(0.0) The(0.0) irony(1.0) 
+here(0.0) is(0.0) that(0.0) some(0.0) of(0.0) those(0.0) Federal(1.0) regulations(1.0) that(0.0) we(0.0) must(0.0) comply(1.0) with(0.0) at(0.0) the(0.0) local(1.0) level(0.0) to(0.0) try(0.0) and(0.0) 
+build(0.0) that(0.0) road(1.0) demand(1.0) cost-benefit(1.0) analysis(0.0) .(0.0) I(0.0) would(1.0) say(1.0) what(0.0) is(0.0) good(0.0) for(0.0) the(0.0) goose(0.0) is(0.0) good(0.0) for(0.0) the(0.0) 
+gander(1.0) .(0.0) Perhaps(0.0) some(0.0) of(0.0) those(0.0) rules(1.0) and(0.0) regulations(1.0) are(0.0) not(1.0) necessary(0.0) ,(0.0) and(0.0) we(0.0) could(0.0) streamline(1.0) and(0.0) create(0.0) efficiencies(1.0) 
+and(0.0) cost(0.0) savings(1.0) at(0.0) the(0.0) local(0.0) level(0.0) .(0.0) Information(1.0) on(0.0) the(0.0) costs(0.0) and(0.0) the(0.0) benefits(1.0) of(0.0) the(0.0) Federal(1.0) regulatory(1.0) programs(1.0) 
+has(0.0) been(0.0) available(1.0) since(0.0) 1997(1.0) .(0.0) The(0.0) existing(0.0) legislation(0.0) before(1.0) us(0.0) today(0.0) strengthens(1.0) the(0.0) existing(0.0) requirements(0.0) and(0.0) makes(0.0) them(0.0) permanent(1.0) 
+law(1.0) .(0.0) From(0.0) the(0.0) City(0.0) Council(0.0) service(0.0) ,(0.0) I(0.0) can(1.0) appreciate(1.0) why(0.0) all(0.0) the(0.0) major(1.0) organizations(0.0) representing(0.0) State(0.0) and(0.0) local(0.0) 
+elected(1.0) officials(1.0) support(0.0) the(0.0) Regulatory(1.0) Right-to-Know(1.0) Act(0.0) .(0.0) As(0.0) a(0.0) sponsor(0.0) of(0.0) H.R(0.0) .(0.0) 1074(1.0) ,(0.0) I(0.0) urge(1.0) all(0.0) my(0.0) 
+colleagues(1.0) to(0.0) join(1.0) me(0.0) in(0.0) supporting(1.0) it(0.0) ,(0.0) and(0.0) oppose(1.0) the(0.0) Hoeffel(1.0) amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+spent	Omaha	Nebraska	Council	
+observe	Federal	regulations	regulations	
+not	Federal	Government	localities	
+Washington	appreciate	forms	government	
+encouraged	cost-effective	
+so	necessary	Let	just	road	within	city	
+Omaha	firsthand	percent	road	
+trying	comply	Federal	rules	regulations	costly	irony	
+Federal	regulations	comply	local	
+road	demand	cost-benefit	would	say	
+gander	rules	regulations	not	streamline	efficiencies	
+savings	Information	benefits	Federal	regulatory	programs	
+available	1997	before	strengthens	permanent	
+law	can	appreciate	major	
+elected	officials	Regulatory	Right-to-Know	1074	urge	
+colleagues	join	supporting	oppose	Hoeffel	amendment	
+
+reads % = 0.24761904761904763

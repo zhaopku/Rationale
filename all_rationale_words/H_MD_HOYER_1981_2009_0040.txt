@@ -1,0 +1,34 @@
+This is from a Democrat
+----- below is the original text -----
+Reclaiming(1.0) my(0.0) time(0.0) ,(0.0) I(0.0) know(0.0) the(0.0) gentlelady(0.0) voted(1.0) against(0.0) yesterday(0.0) 's(0.0) bill(1.0) .(0.0) But(0.0) in(0.0) response(0.0) to(0.0) the(0.0) gentlelady(0.0) 's(0.0) 
+question(0.0) ,(0.0) it's(0.0) certainly(0.0) my(0.0) intent(1.0) as(0.0) the(0.0) majority(1.0) leader(0.0) ,(0.0) dealing(0.0) with(0.0) the(0.0) majority(1.0) leader(0.0) in(0.0) the(0.0) Senate(0.0) ,(0.0) 
+to(0.0) urge(0.0) him(0.0) to(0.0) take(0.0) up(0.0) the(0.0) bill(1.0) ,(0.0) to(0.0) pass(0.0) the(0.0) bill(1.0) ,(0.0) and(0.0) it(0.0) will(0.0) be(0.0) my(0.0) recommendation(0.0) 
+to(0.0) President(0.0) Obama(1.0) that(0.0) he(0.0) sign(0.0) the(0.0) bill(1.0) ,(0.0) because(0.0) I(0.0) believe(0.0) it(0.0) is(0.0) a(0.0) bill(0.0) which(0.0) responds(0.0) to(0.0) the(0.0) 
+concerns(1.0) of(0.0) the(0.0) American(0.0) public(1.0) regarding(0.0) the(0.0) accountability(1.0) for(0.0) their(0.0) money(1.0) ,(0.0) transparency(1.0) in(0.0) how(0.0) it(0.0) is(0.0) spent(0.0) ,(0.0) and(0.0) 
+a(0.0) focus(0.0) on(0.0) some(0.0) of(0.0) the(0.0) issues(0.0) on(0.0) Main(0.0) Street(0.0) that(0.0) were(0.0) ,(0.0) frankly(0.0) ,(0.0) not(0.0) addressed(0.0) by(0.0) the(0.0) previous(0.0) 
+TARP(1.0) money(1.0) .(0.0) So(0.0) ,(0.0) for(0.0) all(0.0) of(0.0) those(0.0) reasons(0.0) ,(0.0) I(0.0) am(0.0) hopeful(0.0) the(0.0) Senate(1.0) will(0.0) pass(0.0) it(0.0) ,(0.0) 
+I(0.0) am(0.0) hopeful(0.0) the(0.0) President(1.0) will(0.0) sign(0.0) it(0.0) ,(0.0) I(0.0) am(0.0) hopeful(0.0) that(0.0) it(0.0) will(0.0) be(0.0) law(1.0) .(0.0) But(0.0) ,(0.0) 
+as(0.0) I(0.0) said(0.0) earlier(0.0) ,(0.0) the(0.0) good(0.0) news(0.0) from(0.0) my(0.0) perspective(0.0) is(0.0) that(0.0) in(0.0) discussions(0.0) ,(0.0) as(0.0) I(0.0) understand(0.0) it(0.0) 
+,(0.0) with(0.0) Mr.(0.0) Frank(1.0) ,(0.0) and(0.0) I(0.0) 'll(0.0) yield(0.0) to(0.0) him(0.0) in(0.0) just(0.0) a(0.0) second(0.0) ,(0.0) that(0.0) the(0.0) administration(1.0) has(0.0) 
+indicated(0.0) that(0.0) even(0.0) if(0.0) the(0.0) Senate(1.0) does(0.0) n't(0.0) pass(0.0) it(0.0) ,(0.0) they(0.0) intend(0.0) to(0.0) focus(0.0) on(0.0) those(0.0) ,(0.0) I(0.0) think(0.0) 
+,(0.0) very(0.0) important(0.0) and(0.0) salutary(1.0) requirements(0.0) in(0.0) Mr.(0.0) Frank(1.0) 's(1.0) bill(1.0) .(0.0) I(0.0) yield(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Massachusetts(1.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+voted	bill	
+intent	majority	majority	
+bill	bill	
+Obama	bill	
+concerns	public	accountability	money	transparency	
+
+TARP	money	Senate	
+President	law	
+
+Frank	administration	
+Senate	
+salutary	Frank	's	bill	Massachusetts	
+
+
+reads % = 0.11203319502074689

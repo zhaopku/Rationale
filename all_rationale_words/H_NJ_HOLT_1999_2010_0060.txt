@@ -1,0 +1,34 @@
+This is from a Democrat
+----- below is the original text -----
+4785(1.0) ,(0.0) the(0.0) Rural(0.0) Energy(0.0) Savings(0.0) Program(0.0) Act(0.0) ,(0.0) which(0.0) also(0.0) authorizes(0.0) the(0.0) Home(0.0) Star(0.0) Energy(0.0) Efficiency(0.0) Loan(0.0) Program(0.0) .(0.0) Residential(0.0) 
+housing(0.0) accounts(0.0) for(0.0) one-third(0.0) of(0.0) the(0.0) Nation(0.0) 's(0.0) total(0.0) electricity(0.0) demand(0.0) and(0.0) about(0.0) 22(0.0) percent(0.0) of(0.0) all(0.0) energy(1.0) use(0.0) in(0.0) 
+the(0.0) United(0.0) States(0.0) .(0.0) Moreover(0.0) ,(0.0) it(0.0) is(0.0) estimated(0.0) that(0.0) existing(0.0) technologies(0.0) and(0.0) practices(1.0) could(0.0) reduce(0.0) energy(1.0) use(0.0) --(0.0) and(0.0) 
+therefore(0.0) home(0.0) energy(1.0) costs(1.0) for(0.0) American(0.0) families(0.0) --(0.0) by(0.0) up(0.0) to(0.0) 40(0.0) percent(0.0) per(0.0) home(0.0) .(0.0) This(0.0) legislation(1.0) will(0.0) allow(0.0) 
+electric(1.0) utilities(1.0) and(0.0) co-ops(1.0) to(0.0) make(0.0) low-interest(1.0) loans(0.0) of(0.0) a(0.0) few(0.0) thousand(0.0) dollars(1.0) to(0.0) consumers(1.0) who(0.0) wish(0.0) to(0.0) make(0.0) energy(1.0) 
+efficient(1.0) upgrades(1.0) to(0.0) their(0.0) homes(0.0) .(0.0) The(0.0) loans(0.0) can(0.0) then(0.0) be(0.0) repaid(0.0) on(0.0) the(0.0) consumers(1.0) '(0.0) electric(0.0) bill(0.0) ,(0.0) with(0.0) 
+most(0.0) of(0.0) the(0.0) loan(0.0) costs(0.0) covered(0.0) by(0.0) their(0.0) savings(1.0) in(0.0) electricity(1.0) .(0.0) The(0.0) Rural(1.0) Energy(0.0) Savings(1.0) and(0.0) Home(0.0) Star(0.0) Energy(1.0) 
+Efficiency(1.0) programs(1.0) will(0.0) help(0.0) homeowners(1.0) with(0.0) the(0.0) upfront(0.0) costs(1.0) of(0.0) installing(0.0) energy(1.0) efficiency(1.0) retrofits(1.0) while(0.0) boosting(1.0) markets(1.0) for(0.0) U.S.(1.0) manufacturers(0.0) 
+of(0.0) energy(1.0) efficiency(1.0) products(1.0) and(0.0) creating(0.0) new(0.0) jobs(1.0) for(0.0) our(0.0) construction(1.0) workers(1.0) and(0.0) contractors(1.0) .(0.0) It(0.0) is(0.0) estimated(0.0) that(0.0) the(0.0) 
+two(0.0) programs(1.0) will(0.0) create(0.0) nearly(0.0) 200,000(0.0) jobs(1.0) in(0.0) the(0.0) construction(0.0) ,(0.0) manufacturing(1.0) ,(0.0) and(0.0) retail(0.0) sectors(1.0) that(0.0) have(0.0) been(0.0) devastated(0.0) 
+by(0.0) the(0.0) recent(0.0) recession(1.0) .(0.0) At(0.0) the(0.0) same(0.0) time(0.0) ,(0.0) these(0.0) programs(1.0) will(0.0) help(0.0) curb(1.0) our(0.0) Nation(1.0) 's(0.0) carbon(1.0) emissions(1.0) 
+and(0.0) reduce(1.0) our(0.0) unsustainable(1.0) dependence(1.0) on(0.0) fossil(1.0) fuels(1.0) .(0.0) This(0.0) legislation(1.0) is(0.0) good(0.0) for(0.0) our(0.0) economy(1.0) ,(0.0) good(0.0) for(0.0) American(0.0) 
+worker(1.0) and(0.0) consumers(1.0) ,(0.0) good(0.0) for(0.0) the(0.0) environment(0.0) ,(0.0) and(0.0) good(0.0) for(0.0) our(0.0) Nation(1.0) 's(0.0) energy(1.0) security(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+energy	
+practices	energy	
+energy	costs	legislation	
+electric	utilities	co-ops	low-interest	dollars	consumers	energy	
+efficient	upgrades	consumers	
+savings	electricity	Rural	Savings	Energy	
+Efficiency	programs	homeowners	costs	energy	efficiency	retrofits	boosting	markets	U.S.	
+energy	efficiency	products	jobs	construction	workers	contractors	
+programs	jobs	manufacturing	sectors	
+recession	programs	curb	Nation	carbon	emissions	
+reduce	unsustainable	dependence	fossil	fuels	legislation	economy	
+worker	consumers	Nation	energy	
+
+reads % = 0.2277992277992278

@@ -1,0 +1,24 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) appreciate(0.0) the(0.0) gentleman(0.0) bringing(0.0) up(0.0) this(0.0) problem(0.0) .(0.0) The(0.0) increase(1.0) in(0.0) the(0.0) bill(1.0) is(0.0) targeted(0.0) at(0.0) resolving(1.0) the(0.0) 
+backlog(1.0) of(0.0) individual(0.0) charges(0.0) of(0.0) discrimination(1.0) ,(0.0) charges(0.0) brought(0.0) by(0.0) actual(0.0) individuals(0.0) claiming(1.0) discrimination(1.0) .(0.0) These(0.0) are(0.0) actual(0.0) employers(1.0) and(0.0) 
+employees(0.0) who(0.0) deserve(0.0) prompt(0.0) and(0.0) fair(1.0) resolutions(1.0) .(0.0) A(0.0) major(0.0) part(0.0) of(0.0) the(0.0) increase(0.0) is(0.0) for(0.0) alternative(0.0) dispute(1.0) resolution(1.0) to(0.0) 
+avoid(0.0) the(0.0) costs(1.0) and(0.0) delays(0.0) of(0.0) litigation(1.0) ,(0.0) which(0.0) the(0.0) gentleman(0.0) has(0.0) mentioned(0.0) .(0.0) At(0.0) the(0.0) same(0.0) time(0.0) ,(0.0) we(0.0) 
+have(0.0) included(0.0) report(0.0) language(0.0) that(0.0) tells(0.0) the(0.0) EEOC(1.0) to(0.0) give(0.0) priority(1.0) to(0.0) the(0.0) backlog(1.0) over(0.0) litigation(1.0) .(0.0) The(0.0) report(0.0) language(0.0) 
+requires(0.0) the(0.0) EEOC(1.0) to(0.0) track(0.0) and(0.0) report(0.0) the(0.0) resources(0.0) spent(0.0) on(0.0) litigation(1.0) compared(0.0) to(0.0) resources(1.0) spent(0.0) on(0.0) clearing(0.0) the(0.0) backlog(1.0) 
+,(0.0) so(0.0) we(0.0) can(0.0) make(0.0) sure(0.0) they(0.0) are(0.0) adhering(0.0) to(0.0) our(0.0) guidance(0.0) .(0.0) I(0.0) would(0.0) be(0.0) happy(0.0) to(0.0) work(0.0) with(0.0) 
+the(0.0) gentleman(0.0) as(0.0) the(0.0) bill(1.0) moves(1.0) to(0.0) conference(0.0) and(0.0) beyond(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+increase	bill	resolving	
+backlog	discrimination	claiming	discrimination	employers	
+fair	resolutions	dispute	resolution	
+costs	litigation	
+EEOC	priority	backlog	litigation	
+EEOC	litigation	resources	backlog	
+
+bill	moves	
+
+reads % = 0.15789473684210525

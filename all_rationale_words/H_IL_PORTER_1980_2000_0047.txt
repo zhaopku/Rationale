@@ -1,0 +1,48 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) know(0.0) how(0.0) strongly(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) Hampshire(1.0) feels(0.0) about(0.0) the(0.0) importance(0.0) of(0.0) the(0.0) IDEA(0.0) program(0.0) ,(0.0) 
+and(0.0) I(0.0) share(0.0) those(0.0) feelings(0.0) .(0.0) But(0.0) in(0.0) order(0.0) to(0.0) increase(0.0) IDEA(1.0) State(0.0) grants(0.0) by(0.0) over(0.0) $(0.0) 1(0.0) billion(1.0) dollars(1.0) 
+,(0.0) it(0.0) would(0.0) cut(1.0) Job(0.0) Corps(0.0) $(0.0) 42(0.0) million(0.0) ,(0.0) health(1.0) professions(1.0) $(0.0) 69(0.0) million(0.0) ,(0.0) Ryan(1.0) White(1.0) $(0.0) 65(0.0) 
+million(0.0) ,(0.0) abstinence(1.0) education(1.0) $(0.0) 10(0.0) million(0.0) ,(0.0) CDC(1.0) by(0.0) $(0.0) 130(0.0) million(0.0) ,(0.0) SAMSHA(1.0) by(0.0) $(0.0) 60(0.0) million(0.0) ,(0.0) 
+mental(1.0) health(1.0) by(0.0) $(0.0) 15(0.0) million(0.0) ,(0.0) Impact(1.0) Aid(1.0) by(0.0) $(0.0) 78(0.0) million(0.0) ,(0.0) the(0.0) Teacher(0.0) Empowerment(1.0) Act(0.0) by(0.0) $(0.0) 
+450(0.0) million(0.0) ,(0.0) charter(1.0) schools(1.0) by(0.0) $(0.0) 30(0.0) million(0.0) ,(0.0) Indian(0.0) education(1.0) by(0.0) $(0.0) 30(0.0) million(0.0) ,(0.0) Gallaudet(1.0) University(0.0) by(0.0) 
+$(0.0) 3(0.0) million(0.0) ,(0.0) vocational(1.0) ed(0.0) by(0.0) $(0.0) 22(0.0) million(0.0) ,(0.0) and(0.0) Howard(0.0) University(0.0) by(0.0) $(0.0) 7(0.0) million(0.0) .(0.0) Now(0.0) 
+,(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) the(0.0) reason(0.0) these(0.0) programs(1.0) are(0.0) funded(1.0) above(0.0) the(0.0) budget(1.0) request(0.0) or(0.0) above(0.0) last(0.0) year(0.0) 's(0.0) level(0.0) 
+in(0.0) the(0.0) bill(0.0) is(0.0) that(0.0) these(0.0) programs(1.0) are(0.0) doing(0.0) a(0.0) good(0.0) job(0.0) of(0.0) meeting(0.0) the(0.0) needs(0.0) of(0.0) people(0.0) .(0.0) We(0.0) 
+have(0.0) increased(0.0) funding(1.0) for(0.0) IDEA(1.0) at(0.0) a(0.0) very(0.0) ,(0.0) very(0.0) fast(0.0) rate(0.0) .(0.0) It(0.0) has(0.0) been(0.0) a(0.0) high(0.0) priority(0.0) for(0.0) 
+us(0.0) .(0.0) We(0.0) have(0.0) added(0.0) $(0.0) 2.7(0.0) billion(1.0) of(0.0) new(0.0) funding(1.0) to(0.0) IDEA(1.0) during(0.0) our(0.0) tenure(1.0) ;(0.0) and(0.0) we(0.0) have(0.0) 
+brought(0.0) the(0.0) additional(0.0) per(0.0) pupil(0.0) percentage(1.0) costs(1.0) to(0.0) serve(0.0) disabled(0.0) children(0.0) up(0.0) to(0.0) 13(0.0) percent(0.0) .(0.0) It(0.0) was(0.0) at(0.0) 9(0.0) 
+percent(0.0) in(0.0) 1995(0.0) .(0.0) Other(0.0) Federal(1.0) funding(1.0) brings(0.0) it(0.0) to(0.0) 18(0.0) percent(0.0) .(0.0) We(0.0) have(0.0) put(0.0) this(0.0) particular(0.0) account(0.0) ,(0.0) 
+IDEA(1.0) ,(0.0) at(0.0) a(0.0) very(0.0) ,(0.0) very(0.0) high(0.0) priority(1.0) .(0.0) We(0.0) have(0.0) added(0.0) a(0.0) $(0.0) 500(0.0) million(0.0) to(0.0) the(0.0) bill(1.0) 
+already(1.0) .(0.0) We(0.0) would(0.0) like(0.0) to(0.0) ,(0.0) and(0.0) hope(0.0) that(0.0) in(0.0) some(0.0) time(0.0) in(0.0) the(0.0) course(0.0) of(0.0) the(0.0) process(0.0) of(0.0) 
+considering(0.0) this(0.0) bill(1.0) in(0.0) conference(0.0) with(0.0) the(0.0) Senate(0.0) and(0.0) in(0.0) negotiation(0.0) with(0.0) the(0.0) White(1.0) House(0.0) ,(0.0) we(0.0) can(0.0) add(0.0) more(0.0) 
+.(0.0) At(0.0) this(0.0) time(0.0) ,(0.0) I(0.0) think(0.0) that(0.0) the(0.0) cuts(1.0) that(0.0) would(0.0) be(0.0) made(0.0) in(0.0) very(0.0) important(0.0) programs(1.0) would(0.0) be(0.0) 
+very(0.0) severe(0.0) and(0.0) would(0.0) not(0.0) serve(0.0) the(0.0) interests(1.0) of(0.0) the(0.0) persons(0.0) served(0.0) by(0.0) those(0.0) programs(1.0) at(0.0) all(0.0) well(0.0) .(0.0) These(0.0) 
+are(0.0) needed(0.0) monies(1.0) in(0.0) every(0.0) case(0.0) .(0.0) For(0.0) that(0.0) reason(0.0) ,(0.0) while(0.0) I(0.0) respect(0.0) the(0.0) gentleman(0.0) 's(0.0) concern(0.0) about(0.0) IDEA(1.0) 
+,(0.0) I(0.0) believe(0.0) that(0.0) this(0.0) amendment(1.0) should(0.0) not(0.0) be(0.0) adopted(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	Hampshire	
+IDEA	billion	dollars	
+cut	health	professions	Ryan	White	
+abstinence	education	CDC	SAMSHA	
+mental	health	Impact	Aid	Empowerment	
+charter	schools	education	Gallaudet	
+vocational	
+Chairman	programs	funded	budget	
+programs	
+funding	IDEA	
+billion	funding	IDEA	tenure	
+percentage	costs	
+Federal	funding	
+IDEA	priority	bill	
+already	
+bill	White	
+cuts	programs	
+interests	programs	
+monies	IDEA	
+amendment	adopted	
+
+reads % = 0.13520408163265307

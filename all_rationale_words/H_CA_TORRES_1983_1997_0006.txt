@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(1.0) ,(0.0) I(0.0) want(1.0) to(0.0) speak(0.0) in(0.0) opposition(1.0) to(0.0) the(0.0) point(0.0) of(0.0) order(0.0) raised(0.0) against(0.0) the(0.0) important(0.0) counternarcotics(1.0) human(0.0) rights(0.0) provision(0.0) 
+in(0.0) this(0.0) bill(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+want	opposition	counternarcotics	
+
+
+reads % = 0.12

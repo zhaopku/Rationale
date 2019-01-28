@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) yield(0.0) 2(0.0) minutes(1.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) ((0.0) Mr.(0.0) Gohmert(1.0) )(0.0) ,(0.0) a(0.0) member(0.0) of(0.0) the(0.0) 
+Judiciary(0.0) Committee(0.0) and(0.0) the(0.0) deputy(1.0) and(0.0) ranking(1.0) member(0.0) of(0.0) the(0.0) Crime(1.0) Subcommittee(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+minutes	Gohmert	
+deputy	ranking	Crime	
+
+reads % = 0.14705882352941177

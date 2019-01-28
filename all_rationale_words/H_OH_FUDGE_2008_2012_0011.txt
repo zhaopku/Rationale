@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) the(0.0) National(0.0) Women(1.0) 's(0.0) Law(0.0) Center(0.0) recently(0.0) reported(0.0) that(0.0) 90(0.0) percent(0.0) of(0.0) the(0.0) best(0.0) selling(0.0) health(1.0) plans(0.0) charge(0.0) women(1.0) 
+more(0.0) than(0.0) men(0.0) for(0.0) the(0.0) same(0.0) coverage(0.0) .(0.0) In(0.0) addition(0.0) ,(0.0) insurers(1.0) have(0.0) classified(0.0) millions(0.0) of(0.0) women(1.0) as(0.0) having(0.0) preexisting(0.0) 
+conditions(0.0) because(0.0) of(0.0) a(0.0) previous(0.0) cesarean(1.0) section(0.0) or(0.0) having(0.0) been(0.0) pregnant(0.0) ,(0.0) even(0.0) for(0.0) being(0.0) a(0.0) victim(0.0) of(0.0) domestic(1.0) violence(1.0) 
+.(0.0) For(0.0) decades(1.0) ,(0.0) women(1.0) have(0.0) unfairly(0.0) been(0.0) charged(0.0) excessive(0.0) costs(1.0) for(0.0) their(0.0) health(1.0) care(1.0) .(0.0) Well(0.0) ,(0.0) that(0.0) changes(0.0) 
+now(0.0) .(0.0) Because(0.0) of(0.0) the(0.0) Affordable(1.0) Care(0.0) Act(0.0) ,(0.0) the(0.0) discriminatory(1.0) practice(0.0) known(0.0) as(0.0) ``(0.0) gender(0.0) rating(0.0) ,(0.0) ''(0.0) or(0.0) 
+charging(0.0) women(1.0) more(0.0) than(0.0) men(0.0) for(0.0) care(0.0) ,(0.0) will(0.0) be(0.0) prohibited(0.0) starting(0.0) in(0.0) 2014(1.0) ;(0.0) and(0.0) women(1.0) in(0.0) private(0.0) plans(0.0) 
+can(0.0) obtain(0.0) free(0.0) lifesaving(1.0) procedures(0.0) ,(0.0) such(0.0) as(0.0) mammograms(1.0) and(0.0) colonoscopies(1.0) .(0.0) The(0.0) Affordable(1.0) Care(1.0) Act(0.0) bans(1.0) insurance(1.0) companies(1.0) from(0.0) 
+imposing(1.0) lifetime(0.0) limits(1.0) on(0.0) care(1.0) ,(0.0) so(0.0) Americans(1.0) will(0.0) not(0.0) go(0.0) bankrupt(1.0) simply(0.0) because(0.0) they(0.0) are(0.0) trying(0.0) to(0.0) be(0.0) healthy(0.0) 
+.(0.0) And(0.0) in(0.0) 2014(1.0) ,(0.0) because(0.0) of(0.0) health(1.0) care(1.0) reform(1.0) ,(0.0) women(1.0) can(0.0) not(0.0) be(0.0) denied(1.0) access(0.0) because(0.0) of(0.0) a(0.0) 
+preexisting(1.0) condition(0.0) .(0.0) There(0.0) is(0.0) no(0.0) better(0.0) time(0.0) than(0.0) today(0.0) to(0.0) stand(0.0) up(0.0) and(0.0) demand(0.0) quality(0.0) ,(0.0) accessible(0.0) health(1.0) care(1.0) 
+for(0.0) women(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Women	health	women	
+insurers	women	
+cesarean	domestic	violence	
+decades	women	costs	health	care	
+Affordable	discriminatory	
+women	2014	women	
+lifesaving	mammograms	colonoscopies	Affordable	Care	bans	insurance	companies	
+imposing	limits	care	Americans	bankrupt	
+2014	health	care	reform	women	denied	
+preexisting	health	care	
+women	
+
+reads % = 0.20098039215686275

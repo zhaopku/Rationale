@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) am(0.0) just(0.0) curious(0.0) if(0.0) my(0.0) distinguished(0.0) colleague(0.0) has(0.0) any(0.0) concern(0.0) for(0.0) our(0.0) credibility(1.0) in(0.0) the(0.0) NATO(1.0) alliance(0.0) and(0.0) whether(0.0) or(0.0) 
+not(0.0) our(0.0) decision(1.0) here(0.0) would(0.0) impact(0.0) that(0.0) alliance(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+credibility	NATO	
+decision	alliance	
+
+reads % = 0.13333333333333333

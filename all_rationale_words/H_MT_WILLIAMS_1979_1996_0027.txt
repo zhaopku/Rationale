@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) me(0.0) the(0.0) time(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) this(0.0) meager(1.0) bill(1.0) ,(0.0) a(0.0) very(0.0) 
+long(0.0) time(0.0) coming(0.0) ,(0.0) is(0.0) the(0.0) symbol(0.0) of(0.0) the(0.0) inability(0.0) of(0.0) this(0.0) Congress(0.0) to(0.0) even(0.0) reach(0.0) obvious(0.0) compromise(1.0) in(0.0) a(0.0) 
+timely(0.0) manner(0.0) .(0.0) This(0.0) bill(1.0) is(0.0) wildly(0.0) insufficient(1.0) .(0.0) It(0.0) represents(0.0) not(0.0) health(1.0) care(1.0) reform(1.0) but(0.0) congressional(0.0) retreat(1.0) from(0.0) bold(0.0) 
+legislative(1.0) reform(1.0) .(0.0) This(0.0) bill(1.0) is(0.0) not(0.0) a(0.0) bold(0.0) first(0.0) step(0.0) .(0.0) It(0.0) is(0.0) a(0.0) final(0.0) ,(0.0) sad(0.0) stumble(0.0) toward(0.0) 
+the(0.0) pretense(1.0) of(0.0) health(1.0) reform(1.0) .(0.0) Of(0.0) course(0.0) ,(0.0) there(0.0) are(0.0) a(0.0) few(0.0) good(0.0) elements(0.0) in(0.0) this(0.0) bill(1.0) .(0.0) However(0.0) 
+,(0.0) the(0.0) legislation(1.0) will(0.0) increase(1.0) health(1.0) insurance(1.0) costs(1.0) for(0.0) millions(1.0) of(0.0) Americans(1.0) .(0.0) It(0.0) does(0.0) nothing(0.0) to(0.0) create(0.0) comprehensive(1.0) reform(1.0) 
+,(0.0) nothing(0.0) to(0.0) ensure(0.0) universal(1.0) coverage(1.0) ,(0.0) little(0.0) to(0.0) restrain(1.0) the(0.0) inequities(1.0) caused(1.0) by(0.0) the(0.0) American(0.0) health(1.0) care(1.0) insurance(1.0) industry(1.0) 
+.(0.0) Will(0.0) most(0.0) of(0.0) my(0.0) colleagues(0.0) vote(1.0) for(0.0) this(0.0) bill(1.0) ?(1.0) Of(0.0) course(0.0) .(0.0) Because(0.0) it(0.0) is(0.0) the(0.0) very(0.0) best(0.0) 
+bill(1.0) the(0.0) President(1.0) can(0.0) get(0.0) out(0.0) of(0.0) a(0.0) very(0.0) bad(0.0) Congress(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	meager	bill	
+compromise	
+bill	insufficient	health	care	reform	retreat	
+legislative	reform	bill	
+pretense	health	reform	bill	
+legislation	increase	health	insurance	costs	millions	Americans	comprehensive	reform	
+universal	coverage	restrain	inequities	caused	health	care	insurance	industry	
+vote	bill	?	
+bill	President	
+
+reads % = 0.23121387283236994

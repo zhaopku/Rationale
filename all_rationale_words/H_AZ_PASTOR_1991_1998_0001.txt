@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) to(0.0) express(0.0) my(0.0) strong(0.0) support(0.0) for(0.0) the(0.0) Indian(0.0) Reservation(0.0) Roads(0.0) program(0.0) ((0.0) IRR(0.0) )(0.0) .(0.0) As(0.0) 
+the(0.0) House(0.0) considers(0.0) BESTEA(0.0) ,(0.0) I(0.0) urge(0.0) the(0.0) conferees(0.0) to(0.0) fully(0.0) support(0.0) the(0.0) Senate(0.0) amount(0.0) of(0.0) $(0.0) 250(0.0) million(0.0) annually(0.0) 
+for(0.0) the(0.0) program(0.0) .(0.0) The(0.0) needs(0.0) of(0.0) the(0.0) Native(0.0) American(0.0) community(1.0) are(0.0) often(0.0) overlooked(0.0) and(0.0) under(0.0) funded(1.0) .(0.0) The(0.0) conditions(0.0) 
+of(0.0) reservation(0.0) roads(0.0) are(0.0) the(0.0) worst(1.0) in(0.0) this(0.0) country(1.0) and(0.0) immediate(0.0) attention(0.0) and(0.0) funding(1.0) is(0.0) badly(0.0) needed(0.0) in(0.0) order(0.0) for(0.0) 
+tribes(0.0) to(0.0) attract(0.0) economic(1.0) development(0.0) .(0.0) We(0.0) must(0.0) not(0.0) ignore(0.0) these(0.0) needs(0.0) .(0.0) In(0.0) the(0.0) bill(1.0) under(0.0) consideration(0.0) today(0.0) ,(0.0) 
+the(0.0) House(0.0) has(0.0) authorized(0.0) up(0.0) to(0.0) $(0.0) 212(0.0) million(0.0) annually(1.0) for(0.0) the(0.0) IRR(0.0) program(0.0) .(0.0) While(0.0) I(0.0) am(0.0) pleased(0.0) that(0.0) 
+the(0.0) Committee(0.0) recognized(0.0) the(0.0) need(0.0) for(0.0) an(0.0) increase(0.0) in(0.0) the(0.0) program(0.0) ,(0.0) I(0.0) am(0.0) hopeful(0.0) that(0.0) the(0.0) Committee(0.0) will(0.0) recede(0.0) 
+to(0.0) the(0.0) Senate(0.0) 's(0.0) amount(0.0) of(0.0) $(0.0) 250(0.0) million(0.0) annually(0.0) for(0.0) the(0.0) IRR(0.0) program(0.0) .(0.0) I(0.0) believe(0.0) that(0.0) this(0.0) modest(1.0) 
+increase(1.0) is(0.0) essential(0.0) to(0.0) the(0.0) continued(0.0) economic(1.0) progress(0.0) and(0.0) improvement(0.0) of(0.0) our(0.0) nation(1.0) 's(0.0) tribal(1.0) communities(0.0) .(0.0) Again(0.0) ,(0.0) I(0.0) 
+urge(0.0) the(0.0) conferees(1.0) to(0.0) support(0.0) this(0.0) vital(1.0) program(1.0) for(0.0) Indian(0.0) reservations(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+community	funded	
+worst	country	funding	
+economic	bill	
+annually	
+
+modest	
+increase	economic	nation	tribal	
+conferees	vital	program	
+
+reads % = 0.08290155440414508

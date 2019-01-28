@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+With(0.0) an(0.0) unemployment(1.0) rate(1.0) of(0.0) 15.2(1.0) percent(0.0) ,(0.0) we(0.0) were(0.0) hoping(0.0) that(0.0) the(0.0) President(1.0) would(0.0) answer(0.0) the(0.0) question(0.0) :(0.0) Mr.(0.0) President(1.0) 
+,(0.0) where(0.0) are(0.0) the(0.0) jobs(0.0) ?(0.0) When(0.0) will(0.0) the(0.0) jobs(0.0) come(0.0) back(0.0) to(0.0) Michigan(1.0) ?(0.0) We(0.0) had(0.0) hoped(0.0) that(0.0) the(0.0) 
+President(1.0) would(0.0) have(0.0) come(0.0) to(0.0) Michigan(1.0) and(0.0) would(0.0) have(0.0) recognized(0.0) that(0.0) raising(1.0) taxes(1.0) ,(0.0) that(0.0) excessive(1.0) spending(1.0) and(0.0) that(0.0) more(0.0) 
+regulation(1.0) would(0.0) n't(0.0) work(0.0) ,(0.0) because(0.0) that(0.0) is(0.0) what(0.0) we(0.0) 've(0.0) done(0.0) in(0.0) Michigan(1.0) .(0.0) We(0.0) now(0.0) have(0.0) the(0.0) highest(0.0) 
+unemployment(1.0) rate(1.0) in(0.0) the(0.0) country(1.0) .(0.0) Mr.(0.0) President(1.0) ,(0.0) take(0.0) a(0.0) look(0.0) at(0.0) Michigan(1.0) .(0.0) Recognize(0.0) that(0.0) we(0.0) need(0.0) to(0.0) 
+reduce(0.0) taxes(1.0) ,(0.0) that(0.0) we(0.0) need(0.0) to(0.0) control(0.0) spending(1.0) and(0.0) that(0.0) we(0.0) need(0.0) to(0.0) reduce(1.0) regulation(1.0) to(0.0) get(0.0) this(0.0) economy(1.0) 
+moving(0.0) .(0.0) America(1.0) and(0.0) Michigan(1.0) will(0.0) begin(0.0) moving(0.0) forward(0.0) again(0.0) when(0.0) we(0.0) empower(1.0) its(0.0) people(0.0) ,(0.0) not(0.0) when(0.0) we(0.0) empower(1.0) 
+the(0.0) bureaucracy(1.0) and(0.0) the(0.0) governments(1.0) in(0.0) Washington(1.0) or(0.0) in(0.0) Lansing(1.0) .(0.0) It(0.0) 's(0.0) about(0.0) freedom(1.0) .(0.0) Give(0.0) our(0.0) constituents(1.0) the(0.0) 
+freedom(1.0) to(0.0) spend(1.0) their(0.0) money(1.0) to(0.0) create(0.0) their(0.0) jobs(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+unemployment	rate	15.2	President	President	
+Michigan	
+President	Michigan	raising	taxes	excessive	spending	
+regulation	Michigan	
+unemployment	rate	country	President	Michigan	
+taxes	spending	reduce	regulation	economy	
+America	Michigan	empower	empower	
+bureaucracy	governments	Washington	Lansing	freedom	constituents	
+freedom	spend	money	jobs	
+
+reads % = 0.2222222222222222

@@ -1,0 +1,38 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) in(0.0) accordance(0.0) with(0.0) sections(0.0) 213(0.0) and(0.0) 221(0.0) of(0.0) H.(0.0) Con(0.0) .(0.0) Res(0.0) .(0.0) 83(0.0) ,(0.0) I(0.0) hereby(0.0) submit(0.0) for(0.0) 
+printing(0.0) in(0.0) the(0.0) Congressional(0.0) Record(1.0) adjustments(0.0) to(0.0) the(0.0) section(0.0) 302(0.0) ((0.0) a(0.0) )(0.0) allocation(0.0) to(0.0) the(0.0) House(0.0) Committee(0.0) on(0.0) Agriculture(0.0) 
+,(0.0) set(0.0) forth(0.0) in(0.0) H.(0.0) Rept(0.0) .(0.0) 107-60(0.0) ,(0.0) to(0.0) reflect(0.0) $(0.0) 0(0.0) billion(0.0) in(0.0) additional(0.0) new(0.0) budget(1.0) authority(0.0) and(0.0) 
+outlays(0.0) for(0.0) fiscal(0.0) year(0.0) 2002(0.0) and(0.0) $(0.0) 28.492(0.0) billion(0.0) in(0.0) additional(0.0) budget(0.0) authority(0.0) and(0.0) $(0.0) 25.860(0.0) billion(0.0) in(0.0) additional(0.0) outlays(1.0) 
+for(0.0) the(0.0) period(0.0) of(0.0) fiscal(0.0) years(0.0) 2002(0.0) through(0.0) 2006(0.0) .(0.0) Section(0.0) 213(0.0) of(0.0) H.(0.0) Con(0.0) .(0.0) Res(0.0) .(0.0) 83(0.0) authorizes(0.0) 
+the(0.0) Chairman(0.0) of(0.0) the(0.0) House(0.0) Budget(0.0) Committee(0.0) to(0.0) increase(0.0) the(0.0) 302(0.0) ((0.0) a(0.0) )(0.0) allocation(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Agriculture(0.0) 
+for(0.0) legislation(0.0) that(0.0) reauthorizes(0.0) the(0.0) Federal(0.0) Agriculture(0.0) Improvement(0.0) Act(0.0) of(0.0) 1996(0.0) ,(0.0) title(0.0) I(0.0) of(0.0) that(0.0) Act(0.0) ,(0.0) or(0.0) other(0.0) 
+appropriate(0.0) agricultural(1.0) production(0.0) legislation(0.0) .(0.0) Section(0.0) 221(0.0) provides(0.0) that(0.0) for(0.0) the(0.0) purpose(0.0) of(0.0) enforcing(0.0) H.(0.0) Con(0.0) .(0.0) Res(0.0) .(0.0) 83(0.0) 
+,(0.0) the(0.0) applicable(0.0) allocations(0.0) are(0.0) those(0.0) set(0.0) forth(0.0) for(0.0) fiscal(0.0) year(0.0) 2002(0.0) and(0.0) for(0.0) the(0.0) total(0.0) for(0.0) the(0.0) period(0.0) of(0.0) 
+Fiscal(0.0) Years(0.0) 2002(0.0) through(0.0) 2006(0.0) .(0.0) This(0.0) section(0.0) further(0.0) provides(0.0) that(0.0) the(0.0) Chairman(0.0) is(0.0) authorized(0.0) to(0.0) make(0.0) the(0.0) necessary(0.0) adjustments(0.0) 
+in(0.0) the(0.0) allocations(0.0) and(0.0) aggregates(0.0) to(0.0) carry(0.0) out(0.0) the(0.0) purposes(0.0) of(0.0) the(0.0) budget(0.0) resolution(0.0) .(0.0) Both(0.0) as(0.0) reported(0.0) by(0.0) the(0.0) 
+Committee(0.0) on(0.0) Agriculture(0.0) and(0.0) as(0.0) modified(0.0) by(0.0) the(0.0) rule(0.0) ,(0.0) the(0.0) bill(0.0) is(0.0) within(0.0) the(0.0) levels(0.0) assumed(0.0) for(0.0) this(0.0) bill(0.0) 
+in(0.0) the(0.0) two(0.0) periods(0.0) applicable(0.0) to(0.0) the(0.0) House(0.0) ;(0.0) Fiscal(0.0) Year(0.0) 2002(0.0) and(0.0) for(0.0) the(0.0) total(0.0) of(0.0) Fiscal(0.0) Years(0.0) 2002(0.0) 
+through(0.0) 2006(0.0) as(0.0) required(0.0) under(0.0) section(0.0) 302(0.0) ((0.0) f(0.0) )(0.0) of(0.0) the(0.0) Congressional(0.0) Budget(1.0) Act(0.0) of(0.0) 1974(0.0) .(0.0) If(0.0) you(0.0) 
+have(0.0) any(0.0) questions(0.0) ,(0.0) please(0.0) contact(0.0) Jim(0.0) Bates(1.0) of(0.0) my(0.0) staff(0.0) at(0.0) 6-(0.0) 7270(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Record	
+budget	
+outlays	
+
+
+
+agricultural	
+
+
+
+
+
+Budget	
+Bates	7270	
+
+reads % = 0.02364864864864865

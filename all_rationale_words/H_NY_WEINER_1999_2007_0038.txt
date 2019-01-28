@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+2347(1.0) ,(0.0) the(0.0) Iran(0.0) Sanctions(0.0) Enabling(0.0) Act(0.0) ,(0.0) during(0.0) the(0.0) period(0.0) of(0.0) consideration(0.0) of(0.0) that(0.0) bill(0.0) Congressman(1.0) Wexler(1.0) and(0.0) I(0.0) were(0.0) 
+away(0.0) from(0.0) the(0.0) floor(0.0) ,(0.0) organizing(0.0) efforts(1.0) to(0.0) stop(0.0) the(0.0) wrong-(0.0) headed(0.0) arms(0.0) sale(0.0) to(0.0) Saudi(1.0) Arabia(0.0) .(0.0) Had(0.0) I(0.0) 
+been(0.0) present(0.0) ,(0.0) I(0.0) would(0.0) have(0.0) voted(0.0) in(0.0) favor(1.0) ,(0.0) and(0.0) believe(0.0) we(0.0) need(0.0) to(0.0) keep(0.0) on(0.0) sanctioning(1.0) Iran(0.0) .(0.0) 
+I(0.0) yield(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Florida(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Congressman	Wexler	
+efforts	Saudi	
+favor	sanctioning	
+
+
+reads % = 0.08695652173913043

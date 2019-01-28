@@ -1,0 +1,18 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) ask(0.0) unanimous(1.0) consent(0.0) that(0.0) it(0.0) shall(0.0) be(0.0) in(0.0) order(0.0) at(0.0) any(0.0) time(0.0) to(0.0) consider(0.0) House(0.0) Resolution(1.0) 691(0.0) in(0.0) 
+the(0.0) House(0.0) ;(0.0) the(0.0) resolution(1.0) shall(0.0) be(0.0) considered(0.0) as(0.0) read(0.0) for(0.0) amendment(1.0) ;(0.0) the(0.0) resolution(1.0) shall(0.0) be(0.0) debatable(0.0) for(0.0) one(0.0) 
+hour(0.0) equally(0.0) divided(0.0) and(0.0) controlled(0.0) by(0.0) the(0.0) majority(1.0) leader(0.0) and(0.0) the(0.0) minority(1.0) leader(0.0) or(0.0) their(0.0) designees(0.0) ;(0.0) and(0.0) the(0.0) previous(0.0) 
+question(0.0) shall(0.0) be(0.0) considered(0.0) as(0.0) ordered(0.0) on(0.0) the(0.0) resolution(1.0) to(0.0) final(0.0) adoption(1.0) without(0.0) intervening(0.0) motion(0.0) or(0.0) demand(0.0) for(0.0) division(0.0) of(0.0) 
+the(0.0) question(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+unanimous	Resolution	
+resolution	amendment	resolution	
+majority	minority	
+resolution	adoption	
+
+
+reads % = 0.10714285714285714

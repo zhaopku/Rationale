@@ -1,0 +1,18 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) have(0.0) voted(0.0) every(0.0) time(0.0) to(0.0) continue(0.0) our(0.0) process(0.0) against(0.0) my(0.0) leadership(0.0) .(0.0) I(0.0) was(0.0) not(0.0) going(0.0) to(0.0) say(0.0) anything(0.0) ,(0.0) 
+but(0.0) when(0.0) you(0.0) referred(0.0) to(0.0) the(0.0) bridge-to-nowhere(0.0) as(0.0) a(0.0) scandal(1.0) ,(0.0) when(0.0) you(0.0) voted(1.0) for(0.0) it(0.0) four(0.0) times(0.0) ,(0.0) most(0.0) 
+of(0.0) the(0.0) people(0.0) in(0.0) this(0.0) room(0.0) voted(1.0) for(0.0) it(0.0) four(0.0) times(0.0) .(0.0) It(0.0) was(0.0) always(0.0) transparent(0.0) .(0.0) I(0.0) was(0.0) always(0.0) 
+proud(0.0) of(0.0) my(0.0) earmarks(1.0) .(0.0) I(0.0) believe(0.0) in(0.0) earmarks(1.0) ,(0.0) always(0.0) have(0.0) ,(0.0) as(0.0) long(0.0) as(0.0) they(0.0) are(0.0) exposed(0.0) .(0.0) 
+But(0.0) do(0.0) n't(0.0) you(0.0) ever(0.0) call(0.0) that(0.0) a(0.0) scandal(1.0) .(0.0) Announcement(0.0) by(0.0) the(0.0) Chairman(0.0) 
+
+
+----- below are rationale words -----
+
+
+scandal	voted	
+voted	
+earmarks	earmarks	
+scandal	
+
+reads % = 0.06315789473684211

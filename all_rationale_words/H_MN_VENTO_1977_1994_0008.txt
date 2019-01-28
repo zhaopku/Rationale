@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) pass(0.0) the(0.0) bill(0.0) ((1.0) H.R(1.0) .(0.0) 2815(0.0) )(0.0) to(0.0) designate(0.0) a(0.0) portion(0.0) 
+of(0.0) the(0.0) Farmington(0.0) River(0.0) in(0.0) Connecticut(1.0) as(0.0) a(0.0) component(0.0) of(0.0) the(0.0) National(0.0) Wild(0.0) and(0.0) Scenic(0.0) Rivers(0.0) System(0.0) ,(0.0) as(0.0) amended(0.0) 
+.(0.0) The(0.0) Clerk(0.0) read(0.0) as(0.0) follows(0.0) :(0.0) H.R(0.0) .(0.0) 2815(0.0) Be(0.0) it(0.0) enacted(0.0) by(0.0) the(0.0) Senate(0.0) and(0.0) House(0.0) of(0.0) Representatives(0.0) 
+of(0.0) the(0.0) United(0.0) States(0.0) of(0.0) America(0.0) in(0.0) Congress(0.0) assembled(0.0) ,(0.0) SECTION(0.0) 1(0.0) .(0.0) SHORT(0.0) TITLE(0.0) .(0.0) This(0.0) Act(0.0) may(0.0) be(0.0) 
+cited(0.0) as(0.0) the(0.0) ``(0.0) Farmington(0.0) Wild(0.0) and(0.0) Scenic(0.0) River(0.0) Act(0.0) ''(0.0) .(0.0) SEC(0.0) .(0.0) 2(0.0) .(0.0) FINDINGS(0.0) .(0.0) The(0.0) Congress(0.0) 
+finds(0.0) that(0.0) --(0.0) ((0.0) 1(0.0) )(0.0) Public(0.0) Law(0.0) 99-590(0.0) authorized(0.0) the(0.0) study(0.0) of(0.0) 2(0.0) segments(0.0) of(0.0) the(0.0) West(0.0) Branch(0.0) of(0.0) 
+the(0.0) Farmington(0.0) River(0.0) ,(0.0) including(0.0) an(0.0) 11-mile(1.0) headwater(1.0) segment(0.0) in(0.0) Massachusetts(1.0) and(0.0) the(0.0) uppermost(0.0) 14-mile(1.0) segment(0.0) in(0.0) Connecticut(1.0) ,(0.0) for(0.0) 
+potential(0.0) inclusion(0.0) in(0.0) the(0.0) National(0.0) Wild(0.0) and(0.0) Scenic(0.0) Rivers(0.0) System(0.0) ,(0.0) and(0.0) created(0.0) the(0.0) Farmington(0.0) River(0.0) Study(0.0) Committee(0.0) ,(0.0) consisting(0.0) 
+of(0.0) representatives(0.0) from(0.0) the(0.0) 2(0.0) States(0.0) ,(0.0) the(0.0) towns(0.0) bordering(0.0) the(0.0) 2(0.0) segments(0.0) ,(0.0) and(0.0) other(0.0) river(0.0) interests(0.0) ,(0.0) to(0.0) 
+advise(0.0) the(0.0) Secretary(0.0) of(0.0) the(0.0) Interior(0.0) in(0.0) conducting(0.0) the(0.0) study(0.0) and(0.0) concerning(0.0) management(0.0) alternatives(0.0) should(0.0) the(0.0) river(0.0) be(0.0) included(0.0) in(0.0) 
+the(0.0) National(0.0) Wild(0.0) and(0.0) Scenic(0.0) Rivers(0.0) System(0.0) ;(0.0) ((0.0) 2(0.0) )(0.0) the(0.0) study(0.0) determined(0.0) that(0.0) both(0.0) segments(0.0) of(0.0) the(0.0) river(0.0) 
+are(0.0) eligible(0.0) for(0.0) inclusion(0.0) in(0.0) the(0.0) National(0.0) Wild(0.0) and(0.0) Scenic(0.0) Rivers(0.0) System(0.0) based(0.0) upon(0.0) their(0.0) free-flowing(0.0) condition(0.0) and(0.0) outstanding(0.0) fisheries(1.0) 
+,(0.0) recreation(0.0) ,(0.0) wildlife(0.0) ,(0.0) and(0.0) historic(1.0) values(0.0) ;(0.0) ((0.0) 3(0.0) )(0.0) the(0.0) towns(0.0) that(0.0) directly(0.0) abut(0.0) the(0.0) Connecticut(1.0) segment(0.0) 
+((0.0) Hartland(1.0) ,(0.0) Barkhamsted(1.0) ,(0.0) New(0.0) Hartford(1.0) ,(0.0) and(0.0) Canton(0.0) )(0.0) ,(0.0) as(0.0) well(0.0) as(0.0) the(0.0) Town(0.0) of(0.0) Colebrook(0.0) ,(0.0) 
+which(0.0) abuts(1.0) the(0.0) segment(0.0) 's(0.0) major(0.0) tributary(0.0) have(0.0) demonstrated(0.0) their(0.0) desire(0.0) for(0.0) national(0.0) wild(0.0) and(0.0) scenic(0.0) river(0.0) designation(0.0) through(0.0) town(0.0) 
+meeting(0.0) actions(0.0) endorsing(0.0) designations(0.0) ;(0.0) in(0.0) addition(0.0) ,(0.0) the(0.0) 4(0.0) abutting(0.0) towns(0.0) have(0.0) demonstrated(0.0) their(0.0) commitment(0.0) to(0.0) protect(0.0) the(0.0) river(0.0) 
+throught(0.0) he(0.0) adoption(0.0) of(0.0) ``(0.0) river(0.0) protection(0.0) overlay(0.0) districts(0.0) ,(0.0) ''(0.0) which(0.0) establish(0.0) a(0.0) uniform(0.0) setback(0.0) for(0.0) new(0.0) structures(0.0) ,(0.0) 
+new(0.0) septic(1.0) systems(0.0) ,(0.0) sand(0.0) and(0.0) gravel(0.0) extraction(0.0) ,(0.0) and(0.0) vegetation(0.0) removal(0.0) along(0.0) the(0.0) entire(0.0) length(0.0) of(0.0) the(0.0) Connecticut(1.0) segment(0.0) 
+;(0.0) ((0.0) 4(0.0) )(0.0) during(0.0) the(0.0) study(0.0) ,(0.0) the(0.0) Farmington(0.0) River(0.0) Study(0.0) Committee(0.0) and(0.0) the(0.0) National(0.0) Park(0.0) Service(0.0) prepared(0.0) a(0.0) 
+comprehensive(0.0) management(0.0) plan(0.0) for(0.0) the(0.0) Connecticut(1.0) segment(0.0) ((0.0) the(0.0) ``(0.0) Upper(0.0) Farmington(0.0) River(0.0) Management(0.0) Plan(0.0) ''(0.0) ,(0.0) dated(0.0) April(0.0) 29(0.0) 
+,(0.0) 1993(0.0) )(0.0) which(0.0) establishes(0.0) objectives(0.0) ,(0.0) standards(0.0) ,(0.0) and(0.0) action(0.0) programs(0.0) that(0.0) will(0.0) ensure(0.0) long-term(0.0) protection(0.0) of(0.0) the(0.0) river's(0.0) 
+outstanding(0.0) values(0.0) and(0.0) compatible(0.0) management(0.0) of(0.0) its(0.0) land(0.0) and(0.0) water(0.0) resources(0.0) ,(0.0) without(0.0) Federal(1.0) management(0.0) of(0.0) affected(0.0) lands(0.0) not(0.0) owned(0.0) 
+by(0.0) the(0.0) United(0.0) States(0.0) ;(0.0) ((0.0) 5(0.0) )(0.0) the(0.0) Farmington(0.0) River(0.0) Study(0.0) Committee(0.0) voted(0.0) unanimously(0.0) on(0.0) April(0.0) 29(0.0) ,(0.0) 1993(0.0) 
+,(0.0) to(0.0) adopt(0.0) the(0.0) Upper(0.0) Farmington(0.0) River(0.0) Management(0.0) Plan(0.0) and(0.0) to(0.0) recommend(0.0) that(0.0) Congress(0.0) include(0.0) the(0.0) Connecticut(1.0) segment(0.0) in(0.0) the(0.0) 
+National(0.0) Wild(0.0) and(0.0) Scenic(0.0) Rivers(0.0) System(0.0) in(0.0) accordance(0.0) with(0.0) the(0.0) spirit(0.0) and(0.0) provisions(0.0) of(0.0) the(0.0) Upper(0.0) Farmington(0.0) River(0.0) Management(0.0) 
+
+
+----- below are rationale words -----
+
+(	H.R	
+Connecticut	
+
+
+
+
+11-mile	headwater	Massachusetts	14-mile	Connecticut	
+
+
+
+
+fisheries	
+historic	Connecticut	
+Hartland	Barkhamsted	Hartford	
+abuts	
+
+
+septic	Connecticut	
+
+Connecticut	
+
+Federal	
+
+Connecticut	
+
+
+reads % = 0.04

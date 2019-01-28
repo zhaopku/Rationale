@@ -1,0 +1,38 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) me(0.0) the(0.0) time(0.0) .(0.0) I(0.0) rise(0.0) in(0.0) opposition(1.0) to(0.0) the(0.0) rule(1.0) .(0.0) There(0.0) 
+has(0.0) been(0.0) a(0.0) lot(0.0) of(0.0) discussion(0.0) this(0.0) morning(0.0) about(0.0) the(0.0) merits(1.0) or(0.0) lack(0.0) of(0.0) merits(1.0) of(0.0) particular(0.0) amendments(1.0) .(0.0) Unfortunately(0.0) 
+,(0.0) a(0.0) number(0.0) of(0.0) those(0.0) amendments(1.0) will(0.0) never(0.0) get(0.0) to(0.0) be(0.0) debated(0.0) on(0.0) the(0.0) floor(0.0) ,(0.0) and(0.0) that(0.0) is(0.0) why(0.0) 
+we(0.0) should(0.0) be(0.0) opposing(1.0) the(0.0) rule(1.0) .(0.0) If(0.0) the(0.0) Committee(0.0) on(0.0) Rules(0.0) had(0.0) made(0.0) various(0.0) amendments(0.0) in(0.0) order(0.0) for(0.0) debate(1.0) 
+,(0.0) we(0.0) could(0.0) have(0.0) debated(1.0) and(0.0) understood(0.0) the(0.0) pros(0.0) and(0.0) cons(0.0) of(0.0) those(0.0) amendments(1.0) and(0.0) the(0.0) body(0.0) could(0.0) have(0.0) worked(0.0) 
+its(0.0) will(0.0) .(0.0) That(0.0) is(0.0) what(0.0) democracy(1.0) is(0.0) all(0.0) about(0.0) .(0.0) We(0.0) could(0.0) have(0.0) tried(0.0) to(0.0) improve(0.0) this(0.0) bill(1.0) .(0.0) 
+And(0.0) if(0.0) the(0.0) majority(1.0) had(0.0) voted(0.0) against(0.0) our(0.0) improvements(1.0) ,(0.0) then(0.0) at(0.0) least(0.0) the(0.0) opportunity(0.0) would(0.0) have(0.0) been(0.0) provided(0.0) .(0.0) 
+That(0.0) is(0.0) what(0.0) democracy(1.0) is(0.0) all(0.0) about(0.0) .(0.0) Instead(0.0) ,(0.0) the(0.0) Committee(0.0) on(0.0) Rules(0.0) decided(0.0) that(0.0) it(0.0) was(0.0) going(0.0) to(0.0) 
+enact(1.0) its(0.0) own(0.0) fast(0.0) track(0.0) legislation(1.0) .(0.0) Basically(0.0) what(0.0) it(0.0) said(0.0) was(0.0) ,(0.0) we(0.0) are(0.0) not(0.0) going(0.0) to(0.0) give(0.0) you(0.0) 
+an(0.0) opportunity(0.0) to(0.0) allow(0.0) democracy(1.0) to(0.0) work(0.0) .(0.0) We(0.0) are(0.0) going(0.0) to(0.0) bring(0.0) this(0.0) bill(1.0) to(1.0) the(0.0) floor(0.0) ,(0.0) not(0.0) 
+give(0.0) you(0.0) an(0.0) opportunity(0.0) to(0.0) offer(0.0) amendments(1.0) ,(0.0) not(0.0) give(0.0) you(0.0) an(0.0) opportunity(0.0) for(0.0) debate(1.0) ,(0.0) not(0.0) give(0.0) the(0.0) body(0.0) 
+the(0.0) opportunity(0.0) to(0.0) work(0.0) its(0.0) will(0.0) on(0.0) a(0.0) majority(0.0) basis(0.0) .(0.0) We(0.0) are(0.0) going(0.0) to(0.0) deprive(1.0) you(0.0) of(0.0) your(0.0) rights(1.0) 
+as(0.0) Members(0.0) of(0.0) this(0.0) body(0.0) .(0.0) That(0.0) ,(0.0) in(0.0) and(0.0) of(0.0) itself(0.0) ,(0.0) regardless(0.0) of(0.0) the(0.0) merits(1.0) of(0.0) the(0.0) amendments(1.0) 
+,(0.0) is(0.0) enough(0.0) to(0.0) justify(1.0) a(0.0) vote(0.0) against(0.0) the(0.0) rule(1.0) .(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) oppose(1.0) this(0.0) rule(1.0) ,(0.0) 
+send(0.0) it(0.0) back(0.0) ,(0.0) send(0.0) out(0.0) these(0.0) amendments(1.0) and(0.0) let(0.0) us(0.0) debate(1.0) them(0.0) on(0.0) the(0.0) floor(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+opposition	rule	
+merits	merits	amendments	
+amendments	
+opposing	rule	debate	
+debated	amendments	
+democracy	bill	
+majority	improvements	
+democracy	
+enact	legislation	
+democracy	bill	to	
+amendments	debate	
+deprive	rights	
+merits	amendments	
+justify	rule	oppose	rule	
+amendments	debate	
+
+reads % = 0.11073825503355705

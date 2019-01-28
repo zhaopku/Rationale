@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Maryland(1.0) for(0.0) taking(0.0) the(0.0) leadership(0.0) on(0.0) this(0.0) budget(1.0) .(0.0) We(0.0) have(0.0) a(0.0) difficult(0.0) situation(0.0) 
+;(0.0) and(0.0) rather(0.0) than(0.0) use(0.0) adjectives(0.0) and(0.0) slogans(1.0) ,(0.0) I(0.0) like(0.0) to(0.0) use(0.0) charts(0.0) so(0.0) we(0.0) can(0.0) see(0.0) what(0.0) is(0.0) 
+going(0.0) on(0.0) year(0.0) by(0.0) year(0.0) .(0.0) If(0.0) we(0.0) look(0.0) at(0.0) the(0.0) budget(1.0) deficit(1.0) ,(0.0) and(0.0) this(0.0) is(0.0) the(0.0) budget(1.0) without(0.0) 
+the(0.0) Social(0.0) Security(0.0) and(0.0) Medicare(1.0) ,(0.0) which(0.0) is(0.0) supposed(0.0) to(0.0) be(0.0) saved(0.0) for(0.0) Social(1.0) Security(0.0) and(0.0) Medicare(1.0) when(0.0) we(0.0) need(0.0) 
+it(0.0) ,(0.0) this(0.0) is(0.0) the(0.0) deficit(1.0) year(0.0) by(0.0) year(0.0) .(0.0) And(0.0) we(0.0) see(0.0) that(0.0) we(0.0) have(0.0) got(0.0) the(0.0) Johnson(1.0) ,(0.0) 
+Nixon(0.0) ,(0.0) Ford(0.0) administrations(1.0) .(0.0) It(0.0) dropped(0.0) a(0.0) little(0.0) bit(0.0) under(0.0) Nixon-Ford(0.0) .(0.0) Under(0.0) Carter(0.0) it(0.0) stayed(0.0) about(0.0) the(0.0) same(0.0) 
+.(0.0) People(0.0) remember(0.0) that(0.0) under(0.0) Reagan(1.0) and(0.0) Bush(1.0) ,(0.0) the(0.0) first(0.0) Bush(1.0) administration(1.0) ,(0.0) deficits(1.0) came(0.0) about(0.0) .(0.0) But(0.0) not(0.0) 
+enough(0.0) credit(0.0) is(0.0) being(0.0) given(0.0) to(0.0) what(0.0) happened(0.0) under(0.0) the(0.0) Clinton(1.0) administration(1.0) because(0.0) without(0.0) a(0.0) single(0.0) Republican(0.0) vote(1.0) in(1.0) the(0.0) 
+House(0.0) and(1.0) without(1.0) a(1.0) single(0.0) Republican(0.0) vote(1.0) in(1.0) the(0.0) Senate(0.0) ,(1.0) we(1.0) passed(0.0) a(0.0) deficit(1.0) reduction(1.0) plan(1.0) that(1.0) resulted(1.0) in(0.0) 
+not(0.0) only(0.0) an(0.0) elimination(1.0) of(0.0) all(0.0) of(0.0) that(0.0) deficit(1.0) but(0.0) an(0.0) actual(0.0) surplus(1.0) ,(0.0) a(0.0) surplus(1.0) without(0.0) counting(0.0) the(0.0) Social(1.0) 
+Security(0.0) and(0.0) the(0.0) Medicare(1.0) surplus(1.0) .(0.0) If(0.0) we(0.0) count(0.0) those(0.0) ,(0.0) it(0.0) is(0.0) even(0.0) higher(0.0) than(0.0) that(0.0) .(0.0) Some(0.0) of(0.0) 
+the(0.0) Republicans(1.0) want(1.0) to(1.0) take(1.0) credit(1.0) for(1.0) some(1.0) of(1.0) this(1.0) .(1.0) And(1.0) they(1.0) say(1.0) in(1.0) 1994(1.0) the(1.0) Republicans(1.0) took(1.0) over(1.0) 
+Congress(1.0) ;(1.0) so(1.0) in(1.0) 1995(1.0) when(0.0) they(1.0) were(1.0) sworn(0.0) in(0.0) with(0.0) the(0.0) Republican(0.0) Congress(1.0) ,(1.0) they(1.0) ought(1.0) to(1.0) get(1.0) some(1.0) 
+credit(1.0) for(0.0) this(0.0) .(0.0) But(0.0) let(0.0) us(0.0) remember(0.0) history(0.0) .(0.0) When(0.0) they(0.0) came(0.0) in(0.0) ,(0.0) they(0.0) passed(0.0) massive(1.0) tax(1.0) cuts(1.0) 
+,(1.0) primarily(1.0) for(1.0) the(0.0) wealthy(1.0) ,(0.0) and(0.0) President(1.0) Clinton(1.0) vetoed(1.0) those(0.0) budgets(1.0) .(0.0) They(0.0) passed(0.0) them(0.0) again(0.0) and(0.0) threatened(1.0) to(0.0) 
+close(0.0) down(0.0) the(0.0) government(1.0) if(0.0) he(0.0) did(0.0) not(0.0) sign(0.0) them(0.0) ,(0.0) and(0.0) he(0.0) vetoed(1.0) them(0.0) anyway(0.0) .(0.0) And(0.0) they(0.0) closed(0.0) 
+down(0.0) the(0.0) government(1.0) ,(0.0) and(0.0) he(0.0) vetoed(0.0) them(0.0) anyway(0.0) .(0.0) Trying(0.0) to(0.0) take(0.0) credit(0.0) for(0.0) a(0.0) budget(1.0) plan(1.0) when(0.0) their(0.0) 
+plans(1.0) were(0.0) vetoed(1.0) ,(0.0) even(0.0) with(0.0) the(0.0) closure(1.0) of(0.0) government(1.0) ,(0.0) their(0.0) plans(1.0) were(0.0) vetoed(1.0) ;(0.0) and(0.0) we(0.0) were(0.0) able(0.0) 
+to(0.0) maintain(0.0) this(0.0) line(0.0) by(0.0) vetoing(1.0) their(0.0) bills(1.0) .(0.0) They(0.0) can(0.0) not(0.0) get(0.0) any(0.0) credit(0.0) for(0.0) the(0.0) green(1.0) .(0.0) However(0.0) 
+,(0.0) we(0.0) do(0.0) see(0.0) when(0.0) President(0.0) Bush(1.0) was(0.0) sworn(0.0) in(0.0) ,(0.0) they(0.0) passed(0.0) the(0.0) same(0.0) kinds(0.0) of(0.0) tax(1.0) cuts(1.0) ,(1.0) 
+primarily(1.0) for(0.0) the(0.0) wealthy(1.0) ,(0.0) and(0.0) what(0.0) happened(0.0) ?(0.0) We(0.0) see(0.0) what(0.0) would(0.0) have(0.0) happened(0.0) down(0.0) here(0.0) if(0.0) President(0.0) Clinton(1.0) 
+had(0.0) signed(0.0) it(0.0) .(0.0) We(0.0) see(0.0) exactly(0.0) what(0.0) would(0.0) have(0.0) happened(0.0) .(0.0) We(0.0) have(0.0) skyrocketing(1.0) deficits(1.0) .(0.0) Now(0.0) ,(0.0) this(0.0) 
+is(0.0) actually(0.0) not(0.0) quite(0.0) as(0.0) low(0.0) as(0.0) it(0.0) ought(1.0) to(0.0) be(0.0) .(0.0) This(0.0) is(0.0) a(0.0) couple(0.0) of(0.0) months(0.0) ago(0.0) ,(0.0) 
+so(0.0) it(0.0) is(0.0) actually(0.0) a(0.0) little(0.0) worse(0.0) than(0.0) this(0.0) .(0.0) The(0.0) on-budget(1.0) deficit(1.0) for(0.0) this(0.0) year(0.0) ,(0.0) the(0.0) total(0.0) deficit(1.0) 
+,(0.0) the(0.0) $(0.0) 477(0.0) billion(1.0) the(0.0) gentleman(0.0) mentioned(0.0) ,(0.0) does(0.0) not(0.0) count(0.0) about(0.0) $(0.0) 175(0.0) billion(1.0) in(0.0) Social(1.0) Security(0.0) 
+
+
+----- below are rationale words -----
+
+Maryland	budget	
+slogans	
+budget	deficit	budget	
+Medicare	Social	Medicare	
+deficit	Johnson	
+administrations	
+Reagan	Bush	Bush	administration	deficits	
+Clinton	administration	vote	in	
+and	without	a	vote	in	,	we	deficit	reduction	plan	that	resulted	
+elimination	deficit	surplus	surplus	Social	
+Medicare	surplus	
+Republicans	want	to	take	credit	for	some	of	this	.	And	they	say	in	1994	the	Republicans	took	over	
+Congress	;	so	in	1995	they	were	Congress	,	they	ought	to	get	some	
+credit	massive	tax	cuts	
+,	primarily	for	wealthy	President	Clinton	vetoed	budgets	threatened	
+government	vetoed	
+government	budget	plan	
+plans	vetoed	closure	government	plans	vetoed	
+vetoing	bills	green	
+Bush	tax	cuts	,	
+primarily	wealthy	Clinton	
+skyrocketing	deficits	
+ought	
+on-budget	deficit	deficit	
+billion	billion	Social	
+
+reads % = 0.232

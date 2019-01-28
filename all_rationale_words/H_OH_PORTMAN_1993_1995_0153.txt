@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) reluctant(0.0) opposition(1.0) to(0.0) H.R(0.0) .(0.0) 728(0.0) .(0.0) There(0.0) is(0.0) no(0.0) question(0.0) that(0.0) the(0.0) epidemic(1.0) of(0.0) 
+violent(1.0) crime(1.0) in(0.0) America(1.0) is(0.0) one(0.0) of(0.0) the(0.0) most(0.0) serious(0.0) concerns(1.0) of(0.0) all(0.0) of(0.0) our(0.0) constituents(1.0) --(0.0) in(0.0) inner(0.0) cities(1.0) 
+,(0.0) in(0.0) suburbs(1.0) ,(0.0) and(0.0) in(0.0) rural(1.0) regions(0.0) .(0.0) Certainly(0.0) ,(0.0) we(0.0) must(0.0) continue(0.0) to(0.0) strengthen(1.0) our(0.0) criminal(1.0) justice(1.0) system(0.0) 
+and(0.0) require(0.0) personal(0.0) accountability(1.0) on(0.0) the(0.0) part(0.0) of(0.0) the(0.0) criminal(1.0) .(0.0) Strong(0.0) measures(1.0) must(0.0) be(0.0) taken(0.0) to(0.0) deter(0.0) would-be(1.0) criminals(1.0) 
+and(0.0) to(0.0) punish(1.0) repeat(0.0) offenders(1.0) severely(0.0) and(0.0) swiftly(0.0) .(0.0) As(0.0) an(0.0) example(0.0) ,(0.0) last(0.0) week(0.0) ,(0.0) I(0.0) supported(0.0) two(0.0) bills(1.0) 
+passed(0.0) by(0.0) the(0.0) House(0.0) that(0.0) strengthen(1.0) the(0.0) death(1.0) penalty(1.0) by(0.0) limiting(1.0) habeas(1.0) corpus(1.0) appeals(1.0) and(0.0) that(0.0) ensure(0.0) that(0.0) evidence(0.0) obtained(0.0) 
+in(0.0) good(0.0) faith(1.0) is(0.0) admissible(0.0) in(0.0) court(1.0) .(0.0) Congress(0.0) plays(0.0) an(0.0) important(0.0) and(0.0) appropriate(0.0) role(0.0) in(0.0) clarifying(1.0) the(0.0) application(0.0) of(0.0) 
+these(0.0) rights(1.0) under(0.0) the(0.0) U.S.(0.0) Constitution(1.0) .(0.0) I(0.0) believe(0.0) Congress(0.0) must(0.0) continue(0.0) to(0.0) act(0.0) aggressively(0.0) to(0.0) combat(0.0) crime(1.0) wherever(0.0) appropriate(0.0) 
+.(0.0) I(0.0) feel(0.0) ,(0.0) however(0.0) ,(0.0) that(0.0) H.R(0.0) .(0.0) 728(0.0) ,(0.0) the(0.0) Local(1.0) Government(0.0) Law(0.0) Enforcement(0.0) Block(0.0) Grant(0.0) Act(0.0) of(0.0) 
+1995(0.0) ,(0.0) is(0.0) bad(0.0) policy(1.0) in(0.0) light(0.0) of(0.0) the(0.0) Federal(1.0) Government(1.0) 's(0.0) limited(0.0) role(0.0) in(0.0) fighting(1.0) crime(1.0) and(0.0) in(0.0) light(0.0) 
+of(0.0) the(0.0) very(0.0) serious(0.0) debt(0.0) crisis(1.0) in(0.0) our(0.0) country(1.0) .(0.0) I(0.0) simply(0.0) can(0.0) not(0.0) justify(1.0) spending(1.0) $(0.0) 10(0.0) billion(1.0) that(0.0) 
+the(0.0) Federal(1.0) Government(1.0) does(0.0) of(0.0) State(0.0) and(0.0) local(0.0) governments(1.0) .(0.0) It(0.0) seems(0.0) clear(0.0) to(0.0) me(0.0) that(0.0) a(0.0) more(0.0) appropriate(0.0) approach(0.0) 
+would(0.0) be(0.0) to(0.0) free(0.0) up(0.0) more(0.0) State(0.0) and(0.0) local(0.0) dollars(0.0) to(0.0) allow(0.0) them(0.0) to(0.0) fight(1.0) crime(1.0) .(0.0) That(0.0) is(0.0) why(0.0) 
+I(0.0) have(0.0) taken(0.0) the(0.0) lead(0.0) on(0.0) relieving(0.0) States(0.0) and(0.0) localities(1.0) of(0.0) the(0.0) burden(1.0) of(0.0) unfunded(1.0) Federal(1.0) mandates(1.0) ,(0.0) that(0.0) currently(0.0) 
+cost(1.0) State(0.0) and(0.0) local(0.0) governments(1.0) tens(0.0) of(0.0) billions(1.0) of(0.0) dollars(1.0) a(0.0) year(0.0) .(0.0) That(0.0) money(1.0) could(0.0) otherwise(0.0) be(0.0) used(0.0) for(0.0) 
+essential(0.0) services(0.0) ,(0.0) including(0.0) more(0.0) community(0.0) policing(1.0) .(0.0) Asking(0.0) taxpayers(1.0) to(0.0) send(0.0) their(0.0) dollars(1.0) to(0.0) Washington(1.0) to(0.0) be(0.0) redistributed(0.0) to(0.0) 
+local(0.0) law(0.0) enforcement(1.0) agencies(1.0) ,(0.0) through(0.0) a(0.0) political(1.0) process(0.0) and(0.0) after(0.0) administrative(0.0) costs(1.0) are(0.0) incurred(0.0) ,(0.0) makes(0.0) little(0.0) sense(0.0) .(0.0) 
+Local(0.0) communities(1.0) should(0.0) raise(1.0) local(0.0) dollars(0.0) to(0.0) meet(0.0) what(0.0) has(0.0) always(0.0) been(0.0) viewed(0.0) as(0.0) a(0.0) local(0.0) responsibility(0.0) .(0.0) Furthermore(0.0) ,(0.0) 
+the(0.0) pressures(1.0) on(0.0) the(0.0) Federal(1.0) budget(1.0) today(0.0) are(0.0) greater(0.0) than(0.0) ever(0.0) before(0.0) .(0.0) With(0.0) the(0.0) commitment(1.0) shown(0.0) by(0.0) passing(0.0) a(0.0) 
+balanced(0.0) budget(1.0) amendment(1.0) ,(0.0) Congress(0.0) should(0.0) be(0.0) scrutinizing(0.0) existing(0.0) Federal(1.0) programs(1.0) to(0.0) cut(1.0) spending(1.0) ,(0.0) not(0.0) increase(0.0) it(0.0) as(0.0) H.R(0.0) 
+.(0.0) 728(0.0) does(0.0) .(0.0) If(0.0) H.R(0.0) .(0.0) 728(0.0) passes(0.0) ,(0.0) I(0.0) assure(0.0) my(0.0) colleagues(0.0) that(0.0) I(0.0) and(0.0) others(0.0) concerned(0.0) about(0.0) 
+our(0.0) crippling(1.0) national(1.0) debt(1.0) will(0.0) scrutinize(0.0) the(0.0) appropriations(1.0) bills(0.0) for(0.0) this(0.0) and(0.0) all(0.0) other(0.0) legislation(1.0) in(0.0) order(0.0) to(0.0) make(0.0) the(0.0) 
+cuts(1.0) necessary(1.0) to(0.0) limit(1.0) annual(0.0) budget(0.0) deficits(1.0) so(0.0) we(0.0) can(0.0) start(0.0) to(0.0) reduce(1.0) the(0.0) national(1.0) debt(1.0) .(0.0) For(0.0) these(0.0) reasons(0.0) 
+and(0.0) because(0.0) of(0.0) my(0.0) opposition(1.0) to(0.0) imposing(1.0) Federal(1.0) mandates(1.0) on(0.0) State(0.0) and(0.0) local(0.0) governments(1.0) ,(0.0) I(0.0) also(0.0) opposed(0.0) H.R(0.0) .(0.0) 
+667(0.0) ,(0.0) the(0.0) Violent(1.0) Criminal(0.0) Incarceration(1.0) Act(0.0) .(0.0) Each(0.0) local(0.0) community(0.0) has(0.0) unique(0.0) crime(1.0) problems(0.0) .(0.0) Last(0.0) week(0.0) ,(0.0) 
+
+
+----- below are rationale words -----
+
+opposition	epidemic	
+violent	crime	America	concerns	constituents	cities	
+suburbs	rural	strengthen	criminal	justice	
+accountability	criminal	measures	would-be	criminals	
+punish	offenders	bills	
+strengthen	death	penalty	limiting	habeas	corpus	appeals	
+faith	court	clarifying	
+rights	Constitution	crime	
+Local	
+policy	Federal	Government	fighting	crime	
+crisis	country	justify	spending	billion	
+Federal	Government	governments	
+fight	crime	
+localities	burden	unfunded	Federal	mandates	
+cost	governments	billions	dollars	money	
+policing	taxpayers	dollars	Washington	
+enforcement	agencies	political	costs	
+communities	raise	
+pressures	Federal	budget	commitment	
+budget	amendment	Federal	programs	cut	spending	
+
+crippling	national	debt	appropriations	legislation	
+cuts	necessary	limit	deficits	reduce	national	debt	
+opposition	imposing	Federal	mandates	governments	
+Violent	Incarceration	crime	
+
+reads % = 0.2

@@ -1,0 +1,48 @@
+This is from a Democrat
+----- below is the original text -----
+First(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) chairman(0.0) for(0.0) accepting(0.0) this(0.0) report(0.0) ,(0.0) and(0.0) I(0.0) thank(0.0) the(0.0) ranking(0.0) member(0.0) also(0.0) for(0.0) yielding(0.0) me(0.0) 
+this(0.0) time(0.0) .(0.0) I(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) the(0.0) motion(1.0) to(0.0) instruct(0.0) conferees(0.0) to(0.0) insist(1.0) upon(0.0) section(0.0) 344(0.0) of(0.0) the(0.0) 
+House-passed(1.0) bill(1.0) requesting(1.0) an(0.0) intelligence(0.0) lessons(0.0) learned(0.0) report(0.0) on(0.0) Iraq(1.0) and(0.0) strongly(0.0) support(0.0) asking(0.0) for(0.0) this(0.0) report(0.0) to(0.0) be(0.0) submitted(0.0) 
+to(0.0) Congress(0.0) as(0.0) soon(0.0) as(0.0) possible(0.0) .(0.0) I(0.0) was(0.0) a(0.0) former(0.0) Baltimore(1.0) County(1.0) executive(0.0) of(0.0) one(0.0) of(0.0) the(0.0) larger(0.0) counties(1.0) 
+in(0.0) the(0.0) country(0.0) ,(0.0) and(0.0) I(0.0) know(0.0) well(0.0) the(0.0) challenges(0.0) ,(0.0) the(0.0) exhilarations(1.0) ,(0.0) and(0.0) the(0.0) pains(0.0) of(0.0) leading(0.0) large(0.0) 
+organizations(1.0) .(0.0) Usually(0.0) ,(0.0) one(0.0) does(0.0) not(0.0) have(0.0) time(0.0) to(0.0) get(0.0) beyond(0.0) the(0.0) crisis(1.0) that(0.0) is(0.0) filling(0.0) one's(0.0) inbox(0.0) .(0.0) 
+But(0.0) every(0.0) so(0.0) often(0.0) ,(0.0) especially(0.0) after(0.0) a(0.0) major(0.0) milestone(0.0) ,(0.0) a(0.0) critical(0.0) part(0.0) of(0.0) leadership(0.0) of(0.0) an(0.0) organization(0.0) is(0.0) 
+making(0.0) sure(0.0) you(0.0) are(0.0) asking(0.0) your(0.0) people(0.0) to(0.0) look(0.0) back(0.0) at(0.0) their(0.0) failures(1.0) and(0.0) successes(0.0) with(0.0) the(0.0) benefit(1.0) of(0.0) hindsight(0.0) 
+to(0.0) see(0.0) what(0.0) has(0.0) worked(0.0) well(0.0) and(0.0) what(0.0) can(0.0) be(0.0) done(0.0) better(0.0) .(0.0) It(0.0) is(0.0) all(0.0) part(0.0) of(0.0) this(0.0) experience(0.0) 
+of(0.0) improving(0.0) what(0.0) you(0.0) do(0.0) for(0.0) the(0.0) next(0.0) time(0.0) around(0.0) so(0.0) that(0.0) you(0.0) are(0.0) doing(0.0) the(0.0) best(0.0) you(0.0) possibly(0.0) can(0.0) 
+for(0.0) your(0.0) constituents(1.0) and(0.0) taxpayers(1.0) .(0.0) It(0.0) is(0.0) even(0.0) more(0.0) important(0.0) to(0.0) do(0.0) so(0.0) when(0.0) the(0.0) lessons(0.0) you(0.0) learn(0.0) about(0.0) 
+the(0.0) past(0.0) can(0.0) directly(0.0) help(0.0) your(0.0) work(0.0) today(0.0) .(0.0) This(0.0) is(0.0) absolutely(0.0) the(0.0) case(0.0) in(0.0) our(0.0) work(0.0) to(0.0) win(0.0) the(0.0) 
+peace(1.0) in(0.0) Iraq(1.0) .(0.0) I(0.0) know(0.0) that(0.0) our(0.0) intelligence(0.0) community(0.0) had(0.0) some(0.0) great(0.0) successes(0.0) in(0.0) Operation(1.0) Iraqi(1.0) Freedom(0.0) .(0.0) I(0.0) 
+have(0.0) no(0.0) doubt(0.0) that(0.0) there(0.0) were(0.0) some(0.0) serious(0.0) problems(0.0) .(0.0) Leadership(0.0) is(0.0) about(0.0) taking(0.0) on(0.0) the(0.0) responsibility(0.0) to(0.0) examine(0.0) what(0.0) 
+has(0.0) worked(0.0) well(0.0) and(0.0) what(0.0) can(0.0) be(0.0) done(0.0) better(0.0) and(0.0) making(0.0) sure(0.0) those(0.0) lessons(0.0) are(0.0) learned(0.0) and(0.0) implemented(0.0) .(0.0) The(0.0) 
+message(0.0) here(0.0) is(0.0) a(0.0) bipartisan(1.0) one(0.0) ,(0.0) and(0.0) it(0.0) is(0.0) a(0.0) simple(0.0) one(0.0) .(0.0) Let(0.0) us(0.0) not(0.0) waste(1.0) any(0.0) more(0.0) 
+time(0.0) .(0.0) Let(0.0) us(0.0) turn(0.0) talk(0.0) into(0.0) action(1.0) .(0.0) Let(0.0) us(0.0) turn(0.0) yesterday(0.0) 's(0.0) problems(0.0) into(0.0) tomorrow(0.0) 's(0.0) solutions(0.0) .(0.0) 
+The(0.0) purpose(0.0) of(0.0) this(0.0) motion(1.0) is(0.0) to(0.0) put(0.0) behind(0.0) us(0.0) debates(1.0) about(0.0) who(0.0) is(0.0) right(0.0) and(0.0) who(0.0) is(0.0) wrong(0.0) and(0.0) 
+move(0.0) on(0.0) to(0.0) the(0.0) next(0.0) step(0.0) of(0.0) fixing(1.0) problems(0.0) .(0.0) It(0.0) is(0.0) too(0.0) important(0.0) for(0.0) the(0.0) national(1.0) security(0.0) of(0.0) this(0.0) 
+country(1.0) and(0.0) for(0.0) our(0.0) troops(1.0) protecting(1.0) this(0.0) Nation(1.0) in(0.0) Iraq(1.0) and(0.0) around(0.0) the(0.0) world(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+motion	insist	
+House-passed	bill	requesting	Iraq	
+Baltimore	County	counties	
+exhilarations	
+organizations	crisis	
+
+failures	benefit	
+
+
+constituents	taxpayers	
+
+peace	Iraq	Operation	Iraqi	
+
+
+bipartisan	waste	
+action	
+motion	debates	
+fixing	national	
+country	troops	protecting	Nation	Iraq	
+
+reads % = 0.08080808080808081

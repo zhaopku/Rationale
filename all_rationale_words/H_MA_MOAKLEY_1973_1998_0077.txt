@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) think(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) ((0.0) Mr.(0.0) Condit(1.0) )(0.0) is(1.0) exactly(1.0) correct(1.0) ,(0.0) that(0.0) we(0.0) should(0.0) debate(1.0) the(0.0) amendments(1.0) on(0.0) 
+the(0.0) floor(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Condit	is	exactly	correct	debate	amendments	
+Speaker	
+
+reads % = 0.19444444444444445

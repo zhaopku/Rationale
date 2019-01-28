@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+The(0.0) Chairman(1.0) pro(0.0) tempore(1.0) .(0.0) The(0.0) Clerk(1.0) will(0.0) designate(1.0) the(0.0) amendment(1.0) .(0.0) The(0.0) text(0.0) of(0.0) the(0.0) amendment(1.0) is(0.0) as(0.0) follows(1.0) :(0.0) 
+Amendment(0.0) No(0.0) .(0.0) 23(0.0) offered(1.0) by(0.0) Mr.(0.0) Udall(1.0) of(0.0) Colorado(0.0) :(1.0) Page(0.0) 70(0.0) ,(0.0) line(0.0) 14(0.0) ,(0.0) strike(1.0) ``(0.0) and(0.0) 
+''(0.0) .(0.0) Page(1.0) 70(0.0) ,(0.0) strike(0.0) the(0.0) period(0.0) on(0.0) line(0.0) 17(0.0) and(0.0) all(0.0) that(0.0) follows(1.0) through(0.0) line(0.0) 22(1.0) and(0.0) insert(0.0) 
+the(0.0) following(0.0) :(1.0) ``(0.0) ,(0.0) and(0.0) ``(0.0) ((0.0) 3(0.0) )(0.0) the(0.0) Urban(0.0) and(0.0) Community(1.0) Forestry(0.0) Assistance(0.0) Program(0.0) established(1.0) under(0.0) section(0.0) 
+9(0.0) of(0.0) the(0.0) Cooperative(0.0) Forestry(0.0) Assistance(0.0) Act(0.0) of(0.0) 1978(0.0) ((0.0) 16(0.0) U.S.C(1.0) .(0.0) 2105(1.0) )(0.0) .(0.0) ''(1.0) .(0.0) Page(1.0) 10(0.0) 
+,(0.0) line(0.0) 21(1.0) ,(0.0) after(0.0) ``(0.0) note(0.0) )(0.0) ''(0.0) insert(0.0) ``(0.0) ,(0.0) the(0.0) Urban(0.0) and(0.0) Community(0.0) Forestry(0.0) Assistance(0.0) Program(0.0) established(1.0) 
+under(0.0) section(0.0) 9(0.0) of(0.0) the(0.0) Cooperative(0.0) Forestry(0.0) Assistance(0.0) Act(0.0) of(0.0) 1978(0.0) ((0.0) 16(0.0) U.S.C(1.0) .(0.0) 2105(1.0) )(0.0) ,(0.0) ''(0.0) .(0.0) 
+The(0.0) CHAIRMAN(1.0) pro(0.0) tempore(1.0) .(0.0) Pursuant(0.0) to(0.0) House(0.0) Resolution(0.0) 497(1.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Colorado(0.0) ((0.0) Mr.(0.0) Udall(1.0) )(0.0) and(0.0) 
+a(0.0) Member(0.0) opposed(1.0) each(0.0) will(0.0) control(1.0) 10(0.0) minutes(1.0) .(0.0) The(0.0) Chair(1.0) recognizes(0.0) the(0.0) gentleman(0.0) from(0.0) Colorado(0.0) ((0.0) Mr.(0.0) Udall(1.0) )(0.0) 
+.(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) am(0.0) offering(1.0) this(0.0) amendment(1.0) not(0.0) just(1.0) on(0.0) my(0.0) own(0.0) behalf(0.0) ,(0.0) but(0.0) on(0.0) behalf(0.0) of(0.0) 
+a(0.0) number(0.0) of(0.0) other(0.0) Members(0.0) ,(0.0) including(1.0) the(1.0) gentlewoman(0.0) from(0.0) North(0.0) Carolina(0.0) ((0.0) Mrs.(1.0) Clayton(1.0) )(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) 
+New(0.0) York(0.0) ((0.0) Mr.(0.0) Crowley(1.0) )(0.0) ,(0.0) and(0.0) the(0.0) gentlewoman(0.0) from(0.0) California(0.0) ((0.0) Mrs.(1.0) Napolitano(1.0) )(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) 
+the(0.0) amendment(1.0) is(0.0) simple(0.0) .(0.0) It(0.0) would(0.0) add(0.0) authority(1.0) for(0.0) the(0.0) Secretary(1.0) of(0.0) Agriculture(0.0) to(0.0) use(0.0) funds(0.0) under(0.0) the(0.0) bill(0.0) 
+for(0.0) urban(0.0) and(0.0) community(1.0) forestry(0.0) ,(0.0) in(0.0) addition(0.0) to(0.0) the(0.0) authority(1.0) the(0.0) bill(0.0) provides(0.0) for(0.0) funding(1.0) the(0.0) farmland(1.0) protection(0.0) and(0.0) 
+forest(1.0) legacy(1.0) programs(1.0) .(0.0) The(0.0) amendment(1.0) would(0.0) not(0.0) require(0.0) a(0.0) specific(1.0) level(0.0) of(0.0) funding(1.0) ,(0.0) it(0.0) would(1.0) merely(0.0) require(1.0) and(0.0) 
+allow(0.0) the(0.0) Secretary(1.0) to(0.0) have(0.0) the(0.0) discretion(1.0) to(0.0) provide(0.0) the(0.0) program(0.0) with(0.0) some(0.0) of(0.0) the(0.0) funds(1.0) available(0.0) under(0.0) Title(0.0) VII(0.0) 
+of(0.0) the(0.0) bill(0.0) .(0.0) The(0.0) urban(1.0) and(0.0) community(1.0) forestry(0.0) program(0.0) helps(0.0) communities(0.0) protect(0.0) their(0.0) air(0.0) and(0.0) water(0.0) ,(0.0) save(0.0) energy(1.0) 
+,(0.0) increase(1.0) property(0.0) values(1.0) ,(0.0) and(0.0) create(0.0) healthy(1.0) environments(0.0) by(0.0) enabling(0.0) the(0.0) Forest(1.0) Service(0.0) to(0.0) provide(0.0) technical(0.0) and(0.0) financial(0.0) assistance(0.0) 
+to(0.0) local(0.0) governments(1.0) and(0.0) to(0.0) nonprofit(1.0) organizations(0.0) in(0.0) partnership(0.0) with(0.0) the(0.0) State(1.0) forestry(0.0) agencies(0.0) .(0.0) The(0.0) program(0.0) helps(0.0) urban(0.0) communities(0.0) 
+with(0.0) tree(1.0) planting(0.0) and(0.0) urban(1.0) planning(1.0) .(0.0) It(0.0) helps(0.0) suburban(1.0) communities(0.0) like(0.0) mine(0.0) respond(1.0) to(0.0) the(0.0) problems(0.0) of(0.0) growth(1.0) and(0.0) 
+sprawl(1.0) ,(0.0) and(0.0) it(0.0) helps(0.0) rural(0.0) communities(0.0) ,(0.0) as(0.0) well(0.0) .(0.0) For(1.0) example(0.0) ,(0.0) in(0.0) the(0.0) last(1.0) fiscal(0.0) year(0.0) ,(0.0) 
+the(0.0) program(0.0) assisted(1.0) more(0.0) than(0.0) 50(0.0) projects(0.0) in(0.0) Colorado(0.0) .(0.0) It(0.0) helped(0.0) dozens(1.0) of(0.0) communities(0.0) of(0.0) all(0.0) sizes(1.0) ,(0.0) from(0.0) 
+Lyons(1.0) ,(0.0) Larkspur(1.0) ,(0.0) and(0.0) Leadville(1.0) ,(0.0) to(0.0) Dacono(1.0) ,(0.0) Denver(1.0) ,(0.0) and(0.0) Dinosaur(0.0) ,(0.0) and(0.0) many(0.0) others(0.0) across(0.0) our(0.0) 
+State(0.0) .(0.0) Besides(1.0) local(0.0) governments(1.0) ,(0.0) such(0.0) as(0.0) Jefferson(1.0) ,(0.0) Gunnison(1.0) ,(0.0) and(0.0) Eagle(0.0) Counties(1.0) ,(0.0) and(0.0) many(0.0) cities(1.0) and(0.0) 
+towns(0.0) ,(0.0) its(0.0) partners(1.0) included(0.0) dozens(1.0) of(0.0) groups(0.0) like(0.0) Volunteers(1.0) for(0.0) Outdoor(0.0) Colorado(0.0) ;(0.0) Trees(1.0) ,(0.0) Water(0.0) ,(0.0) and(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	tempore	Clerk	designate	amendment	amendment	follows	
+offered	Udall	:	strike	
+Page	follows	22	
+:	Community	established	
+U.S.C	2105	''	Page	
+21	established	
+U.S.C	2105	
+CHAIRMAN	tempore	497	Udall	
+opposed	control	minutes	Chair	Udall	
+Chairman	offering	amendment	just	
+including	the	Mrs.	Clayton	
+Crowley	Mrs.	Napolitano	Chairman	
+amendment	authority	Secretary	
+community	authority	funding	farmland	
+forest	legacy	programs	amendment	specific	funding	would	require	
+Secretary	discretion	funds	
+urban	community	energy	
+increase	values	healthy	Forest	
+governments	nonprofit	State	
+tree	urban	planning	suburban	respond	growth	
+sprawl	For	last	
+assisted	dozens	sizes	
+Lyons	Larkspur	Leadville	Dacono	Denver	
+Besides	governments	Jefferson	Gunnison	Counties	cities	
+partners	dozens	Volunteers	Trees	
+
+reads % = 0.202

@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Thank(0.0) you(0.0) ,(0.0) Congressman(1.0) ,(0.0) and(0.0) I(0.0) just(1.0) want(1.0) to(0.0) touch(0.0) on(0.0) ,(0.0) if(0.0) I(0.0) can(1.0) ,(0.0) because(1.0) this(0.0) freshman(0.0) class(1.0) 
+of(0.0) ours(0.0) along(0.0) with(0.0) many(0.0) others(0.0) in(0.0) the(1.0) Congress(0.0) were(0.0) very(0.0) frustrated(0.0) ,(0.0) along(1.0) with(0.0) most(1.0) Americans(0.0) ,(0.0) about(0.0) the(0.0) 
+way(0.0) that(0.0) Congress(0.0) had(0.0) been(0.0) operating(0.0) for(0.0) the(0.0) last(1.0) number(0.0) of(0.0) years(0.0) .(0.0) The(0.0) last(1.0) 6(0.0) years(0.0) before(1.0) this(0.0) past(0.0) 
+term(0.0) ,(0.0) Congress(0.0) was(0.0) passing(0.0) these(0.0) bloated(1.0) budgets(0.0) ,(0.0) the(0.0) President(1.0) was(0.0) signing(0.0) them(0.0) going(0.0) deeper(1.0) and(0.0) deeper(1.0) into(0.0) deficit(1.0) 
+,(0.0) and(0.0) obviously(1.0) there(0.0) are(0.0) a(0.0) lot(0.0) of(0.0) very(0.0) expensive(0.0) things(0.0) going(0.0) on(0.0) right(1.0) now(0.0) ,(0.0) but(0.0) no(0.0) lack(0.0) of(0.0) 
+discipline(0.0) in(0.0) terms(1.0) of(0.0) control(1.0) of(0.0) our(0.0) fiscal(0.0) house(1.0) .(0.0) And(0.0) I(0.0) have(0.0) kids(0.0) ,(0.0) Congressman(1.0) ,(0.0) you(1.0) have(0.0) kids(0.0) 
+,(0.0) we(0.0) all(0.0) have(0.0) children(0.0) ,(0.0) grandchildren(1.0) ,(0.0) parents(0.0) whatever(0.0) ,(0.0) why(0.0) would(0.0) we(0.0) ,(0.0) as(0.0) a(0.0) country(1.0) ,(0.0) want(1.0) 
+to(0.0) continue(0.0) to(0.0) put(0.0) ourselves(0.0) farther(1.0) and(0.0) farther(0.0) in(0.0) debt(1.0) ?(0.0) And(0.0) that(0.0) is(0.0) the(0.0) direction(0.0) we(0.0) have(0.0) been(0.0) going(0.0) 
+.(0.0) I(0.0) am(1.0) very(1.0) proud(0.0) to(0.0) say(1.0) that(0.0) this(0.0) Congress(0.0) in(0.0) the(0.0) first(1.0) week(1.0) ,(0.0) we(0.0) passed(0.0) something(0.0) called(0.0) PAYGO(1.0) 
+.(0.0) It(0.0) 's(0.0) a(0.0) simple(0.0) principle(0.0) ,(0.0) pay(1.0) as(0.0) you(1.0) go(0.0) .(0.0) It(0.0) is(0.0) no(0.0) different(1.0) from(0.0) when(0.0) I(0.0) had(0.0) 
+a(0.0) business(1.0) ,(0.0) if(0.0) I(0.0) could(1.0) n't(0.0) meet(1.0) my(0.0) payroll(1.0) ,(0.0) I(0.0) made(0.0) cuts(1.0) .(0.0) You(0.0) ca(1.0) n't(0.0) spend(1.0) more(0.0) 
+than(0.0) you(0.0) have(0.0) coming(0.0) in(0.0) .(0.0) Maybe(1.0) you(1.0) can(0.0) borrow(1.0) a(0.0) little(0.0) bit(1.0) .(0.0) But(0.0) you(1.0) have(0.0) to(0.0) pay(0.0) your(0.0) 
+debt(1.0) service(0.0) .(0.0) You(0.0) ca(1.0) n't(0.0) keep(1.0) on(0.0) borrowing(1.0) ,(0.0) and(0.0) in(0.0) the(0.0) case(0.0) of(0.0) government(1.0) ,(0.0) printing(1.0) money(1.0) .(0.0) 
+The(0.0) good(0.0) news(1.0) is(0.0) that(0.0) this(0.0) Congress(0.0) is(0.0) showing(0.0) fiscal(0.0) discipline(0.0) for(0.0) the(0.0) first(0.0) time(0.0) in(0.0) a(0.0) long(1.0) time(0.0) .(0.0) 
+I(0.0) am(1.0) committed(1.0) to(0.0) it(0.0) ,(0.0) I(0.0) am(0.0) a(0.0) fiscal(0.0) discipline(0.0) person(0.0) ,(0.0) a(0.0) hawk(1.0) if(0.0) you(1.0) will(0.0) ,(0.0) and(0.0) 
+I(0.0) know(1.0) you(0.0) are(0.0) ,(0.0) as(0.0) well(0.0) ,(0.0) Congressman(1.0) ,(0.0) and(0.0) as(0.0) we(0.0) go(0.0) through(0.0) this(0.0) process(0.0) ,(0.0) this(0.0) bill(0.0) 
+is(0.0) fully(0.0) paid(0.0) for(0.0) .(0.0) And(0.0) the(0.0) rule(0.0) that(0.0) we(0.0) have(0.0) ,(0.0) PAYGO(1.0) ,(0.0) is(0.0) that(0.0) no(1.0) bill(1.0) can(0.0) pass(1.0) 
+unless(0.0) it(0.0) is(0.0) fully(0.0) paid(0.0) for(0.0) .(0.0) So(1.0) that(0.0) means(1.0) no(0.0) speculation(1.0) that(0.0) the(0.0) budget(0.0) is(0.0) going(0.0) to(0.0) grow(1.0) by(0.0) 
+3(0.0) percent(1.0) next(0.0) year(0.0) and(0.0) we(0.0) will(0.0) have(0.0) the(0.0) money(0.0) next(0.0) year(0.0) ,(0.0) and(0.0) money(0.0) is(0.0) going(0.0) to(0.0) appear(0.0) out(0.0) 
+of(0.0) nowhere(0.0) .(0.0) The(0.0) money(1.0) has(0.0) to(0.0) be(0.0) in(0.0) the(0.0) budget(0.0) .(0.0) We(0.0) have(0.0) to(0.0) make(0.0) cuts(1.0) somewhere(1.0) else(0.0) or(1.0) 
+prioritize(0.0) something(0.0) .(0.0) And(0.0) that(0.0) is(0.0) exactly(1.0) what(0.0) budgeting(1.0) is(0.0) all(0.0) about(0.0) .(0.0) I(0.0) am(0.0) proud(1.0) not(0.0) only(0.0) as(0.0) a(0.0) 
+Democrat(1.0) but(0.0) as(0.0) an(0.0) American(0.0) ,(0.0) as(0.0) a(0.0) Member(0.0) of(0.0) this(0.0) Congress(0.0) ,(0.0) that(0.0) is(0.0) the(0.0) direction(0.0) we(0.0) are(0.0) going(0.0) 
+.(0.0) It(0.0) is(0.0) going(0.0) to(0.0) take(0.0) time(0.0) to(0.0) dig(0.0) out(0.0) of(0.0) this(0.0) hole(1.0) ,(0.0) but(0.0) it(0.0) is(0.0) a(0.0) start(0.0) .(0.0) 
+This(0.0) particular(0.0) piece(0.0) of(0.0) legislation(0.0) is(0.0) paid(0.0) for(0.0) .(0.0) The(0.0) way(0.0) it(0.0) has(0.0) been(0.0) paid(0.0) for(0.0) is(0.0) in(0.0) part(0.0) taking(1.0) 
+the(0.0) subsidy(1.0) I(0.0) mentioned(0.0) a(0.0) few(0.0) minutes(1.0) ago(1.0) which(0.0) is(0.0) billions(1.0) and(0.0) billions(1.0) of(0.0) dollars(0.0) and(0.0) saying(0.0) instead(0.0) of(0.0) 
+
+
+----- below are rationale words -----
+
+Congressman	just	want	can	because	class	
+the	along	most	
+last	last	before	
+bloated	President	deeper	deeper	deficit	
+obviously	right	
+terms	control	house	Congressman	you	
+grandchildren	country	want	
+farther	debt	
+am	very	say	first	week	PAYGO	
+pay	you	different	
+business	could	meet	payroll	cuts	ca	spend	
+Maybe	you	borrow	bit	you	
+debt	ca	keep	borrowing	government	printing	money	
+news	long	
+am	committed	hawk	you	
+know	Congressman	
+PAYGO	no	bill	pass	
+So	means	speculation	grow	
+percent	
+money	cuts	somewhere	or	
+exactly	budgeting	proud	
+Democrat	
+hole	
+taking	
+subsidy	minutes	ago	billions	billions	
+
+reads % = 0.178

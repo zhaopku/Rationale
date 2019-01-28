@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) look(0.0) forward(0.0) to(0.0) working(0.0) with(0.0) you(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) have(0.0) submitted(0.0) an(0.0) amendment(1.0) with(0.0) Representative(1.0) Gibson(1.0) to(0.0) H.R(0.0) 
+.(0.0) 5(0.0) ,(0.0) which(0.0) would(0.0) return(0.0) annual(0.0) testing(0.0) to(0.0) pre-No(0.0) Child(0.0) Left(1.0) Behind(1.0) levels(0.0) .(0.0) However(0.0) ,(0.0) H.R(0.0) .(0.0) 5(0.0) 
+is(0.0) just(0.0) so(0.0) bad(0.0) of(0.0) a(0.0) bill(0.0) that(0.0) even(0.0) this(0.0) amendment(1.0) ,(0.0) if(0.0) it(0.0) were(0.0) to(0.0) pass(0.0) ,(0.0) I(0.0) could(0.0) 
+not(0.0) support(0.0) the(0.0) bill(1.0) .(1.0) That(0.0) is(0.0) why(0.0) I(0.0) decided(0.0) to(0.0) withdraw(0.0) my(0.0) support(0.0) for(0.0) the(0.0) amendment(1.0) .(0.0) I(0.0) thank(0.0) 
+Mr.(0.0) Miller(1.0) for(1.0) his(0.0) leadership(0.0) on(0.0) this(0.0) issue(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	amendment	Representative	Gibson	
+Left	Behind	
+amendment	
+bill	.	amendment	
+Miller	for	
+
+reads % = 0.13333333333333333

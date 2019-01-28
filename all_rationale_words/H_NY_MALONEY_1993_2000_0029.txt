@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) his(0.0) statement(0.0) ,(0.0) and(0.0) I(0.0) would(0.0) now(0.0) like(0.0) to(0.0) yield(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) 
+Maryland(1.0) ((0.0) Mr.(0.0) Cummings(1.0) )(0.0) .(0.0) He(0.0) represents(0.0) the(0.0) 7th(0.0) Congressional(0.0) District(1.0) in(0.0) Maryland(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) Maryland(0.0) chairs(0.0) 
+the(0.0) Complete(0.0) Count(0.0) Committee(0.0) for(0.0) Baltimore(1.0) and(0.0) has(0.0) served(0.0) on(0.0) really(0.0) the(0.0) oversight(0.0) committee(0.0) for(0.0) the(0.0) census(0.0) ,(0.0) the(0.0) Committee(0.0) 
+on(0.0) Government(0.0) Reform(0.0) and(0.0) Oversight(0.0) ,(0.0) and(0.0) I(0.0) thank(0.0) him(0.0) for(0.0) his(0.0) leadership(0.0) on(0.0) this(0.0) issue(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Maryland	Cummings	District	
+Baltimore	
+
+
+reads % = 0.05128205128205128

@@ -1,0 +1,18 @@
+This is from a Republican
+----- below is the original text -----
+The(0.0) SPEAKER(0.0) pro(1.0) tempore(1.0) ((0.0) Mrs.(1.0) Biggert(1.0) )(0.0) .(0.0) The(0.0) question(0.0) is(0.0) on(0.0) the(0.0) motion(0.0) offered(1.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) Wisconsin(1.0) 
+((0.0) Mr.(0.0) Sensenbrenner(1.0) )(0.0) that(0.0) the(0.0) House(0.0) suspend(0.0) the(0.0) rules(1.0) and(0.0) pass(1.0) the(0.0) bill(0.0) ,(0.0) H.R(0.0) .(0.0) 3036(1.0) ,(0.0) as(0.0) 
+amended(1.0) .(0.0) The(0.0) question(1.0) was(0.0) taken(0.0) ;(0.0) and(0.0) ((0.0) two-thirds(1.0) having(0.0) voted(1.0) in(0.0) favor(1.0) thereof(0.0) )(0.0) the(0.0) rules(1.0) were(0.0) suspended(0.0) 
+and(0.0) the(0.0) bill(0.0) ,(0.0) as(0.0) amended(1.0) ,(0.0) was(0.0) passed(0.0) .(0.0) A(1.0) motion(0.0) to(0.0) reconsider(1.0) was(0.0) laid(0.0) on(0.0) the(0.0) table(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+pro	tempore	Mrs.	Biggert	offered	Wisconsin	
+Sensenbrenner	rules	pass	3036	
+amended	question	two-thirds	voted	favor	rules	
+amended	A	reconsider	
+
+
+reads % = 0.2345679012345679

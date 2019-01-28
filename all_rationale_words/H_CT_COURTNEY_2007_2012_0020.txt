@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+Again(0.0) ,(0.0) just(0.0) to(0.0) follow(0.0) up(0.0) on(0.0) one(0.0) quick(0.0) point(0.0) ,(0.0) which(0.0) is(0.0) that(0.0) there(0.0) is(0.0) legislation(1.0) that(0.0) is(0.0) now(0.0) pending(0.0) 
+in(0.0) the(0.0) House(0.0) ,(0.0) H.R(0.0) .(0.0) 3826(0.0) .(0.0) A(0.0) few(0.0) minutes(0.0) ago(0.0) ,(0.0) we(0.0) got(0.0) our(0.0) 146th(1.0) cosponsor(1.0) .(0.0) To(0.0) 
+this(0.0) date(0.0) ,(0.0) though(0.0) ,(0.0) we(0.0) are(0.0) still(0.0) waiting(0.0) for(0.0) any(0.0) Members(0.0) on(0.0) the(0.0) majority(1.0) side(0.0) to(0.0) join(0.0) us(0.0) in(0.0) 
+this(0.0) effort(1.0) .(0.0) Again(0.0) ,(0.0) 77(0.0) of(0.0) them(0.0) voted(1.0) in(0.0) 2007(0.0) to(0.0) support(0.0) this(0.0) measure(1.0) to(0.0) cut(1.0) the(0.0) interest(0.0) rates(0.0) 
+.(0.0) It(0.0) 's(0.0) time(0.0) .(0.0) It(0.0) 's(0.0) time(0.0) for(0.0) them(0.0) to(0.0) listen(0.0) to(0.0) what(0.0) their(0.0) presumptive(1.0) nominee(1.0) is(0.0) saying(0.0) .(0.0) 
+It(0.0) 's(0.0) time(0.0) to(0.0) join(0.0) the(0.0) Members(0.0) on(0.0) this(0.0) side(0.0) of(0.0) the(0.0) aisle(0.0) and(0.0) prevent(0.0) the(0.0) damage(0.0) that(0.0) this(0.0) would(0.0) 
+do(0.0) to(0.0) middle(1.0) class(1.0) families(0.0) .(0.0) And(0.0) no(0.0) one(0.0) knows(0.0) that(0.0) issue(0.0) better(0.0) than(0.0) a(0.0) member(0.0) of(0.0) the(0.0) Education(0.0) and(0.0) 
+Workforce(0.0) Committee(0.0) ,(0.0) who(0.0) has(0.0) ,(0.0) again(0.0) ,(0.0) done(0.0) great(0.0) work(0.0) in(0.0) terms(0.0) of(0.0) education(1.0) issues(0.0) and(0.0) higher(0.0) education(1.0) affordability(1.0) 
+.(0.0) Congressman(1.0) Davis(1.0) ,(0.0) thank(0.0) you(0.0) for(0.0) joining(0.0) us(0.0) here(0.0) this(0.0) evening(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+legislation	
+146th	cosponsor	
+majority	
+effort	voted	measure	cut	
+presumptive	nominee	
+
+middle	class	
+education	education	affordability	
+Congressman	Davis	
+
+reads % = 0.09770114942528736

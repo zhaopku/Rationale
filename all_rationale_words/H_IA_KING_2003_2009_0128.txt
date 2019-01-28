@@ -1,0 +1,34 @@
+This is from a Republican
+----- below is the original text -----
+Reclaiming(1.0) my(0.0) time(0.0) ,(0.0) I(0.0) oppose(1.0) this(0.0) legislation(1.0) for(0.0) the(0.0) reasons(0.0) that(0.0) I(0.0) have(0.0) said(0.0) .(0.0) It(0.0) 's(0.0) an(0.0) outrageous(1.0) growth(1.0) 
+in(0.0) Federal(1.0) spending(1.0) .(0.0) It(0.0) is(0.0) a(0.0) transfer(0.0) out(0.0) of(0.0) the(0.0) pockets(0.0) of(0.0) the(0.0) taxpayers(1.0) into(0.0) the(0.0) inner(0.0) cities(0.0) ,(0.0) 
+the(0.0) jurisdictions(1.0) that(0.0) would(0.0) be(0.0) the(0.0) biggest(0.0) beneficiaries(1.0) of(0.0) this(0.0) .(0.0) And(0.0) everyone(0.0) in(0.0) government(1.0) is(0.0) going(0.0) to(0.0) have(0.0) the(0.0) 
+instinct(0.0) to(0.0) try(0.0) to(0.0) grow(0.0) their(0.0) empire(1.0) ,(0.0) Mr.(0.0) Speaker(1.0) .(0.0) And(0.0) we(0.0) do(0.0) n't(0.0) have(0.0) data(0.0) that(0.0) says(0.0) what(0.0) 
+is(0.0) the(0.0) optimum(0.0) number(0.0) .(0.0) We(0.0) do(0.0) n't(0.0) have(0.0) even(0.0) the(0.0) admission(0.0) that(0.0) there(0.0) 's(0.0) such(0.0) a(0.0) thing(0.0) as(0.0) too(0.0) 
+many(0.0) government(1.0) employees(0.0) in(0.0) any(0.0) category(0.0) .(0.0) And(0.0) I(0.0) would(0.0) not(0.0) either(0.0) submit(0.0) that(0.0) too(0.0) many(0.0) police(0.0) officers(0.0) would(0.0) be(0.0) 
+the(0.0) first(0.0) category(0.0) that(0.0) I(0.0) 'd(0.0) want(0.0) to(0.0) reduce(1.0) in(0.0) government(1.0) .(0.0) It(0.0) is(0.0) not(0.0) .(0.0) We(0.0) need(0.0) to(0.0) be(0.0) 
+prudent(0.0) .(0.0) We(0.0) need(0.0) to(0.0) be(0.0) responsible(0.0) .(0.0) I(0.0) 'm(0.0) looking(0.0) at(0.0) a(0.0) national(0.0) debt(0.0) and(0.0) a(0.0) national(1.0) deficit(1.0) and(0.0) 
+a(0.0) budget(1.0) that(0.0) has(0.0) grown(0.0) to(0.0) be(0.0) a(0.0) $(0.0) 9.3(0.0) trillion(1.0) deficit(1.0) out(0.0) of(0.0) this(0.0) President(1.0) 's(0.0) budget(1.0) ,(0.0) $(0.0) 
+9.3(0.0) trillion(1.0) .(0.0) That(0.0) 's(0.0) all(0.0) the(0.0) corn(0.0) we(0.0) can(0.0) raise(1.0) in(0.0) Iowa(1.0) for(0.0) the(0.0) next(0.0) thousand(0.0) years(0.0) ,(0.0) just(0.0) 
+to(0.0) deal(0.0) with(0.0) President(0.0) Obama(1.0) 's(0.0) deficit(1.0) .(0.0) And(0.0) if(0.0) we(0.0) are(0.0) going(0.0) to(0.0) retire(0.0) the(0.0) debt(1.0) ,(0.0) it(0.0) 's(0.0) 
+everything(0.0) since(0.0) the(0.0) time(0.0) of(0.0) Christ(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) .(0.0) I(0.0) oppose(1.0) this(0.0) legislation(1.0) .(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) 
+of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+oppose	legislation	outrageous	growth	
+Federal	spending	taxpayers	
+jurisdictions	beneficiaries	government	
+empire	Speaker	
+
+government	
+reduce	government	
+national	deficit	
+budget	trillion	deficit	President	budget	
+trillion	raise	Iowa	
+Obama	deficit	debt	
+Speaker	oppose	legislation	
+
+
+reads % = 0.12653061224489795

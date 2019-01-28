@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) H.R(1.0) .(0.0) 3963(1.0) authored(1.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) Montana(1.0) ((0.0) Mr.(0.0) Hill(1.0) )(0.0) would(1.0) establish(1.0) terms(1.0) and(0.0) conditions(0.0) 
+under(0.0) which(0.0) the(0.0) Secretary(0.0) of(0.0) the(0.0) Interior(0.0) must(0.0) convey(0.0) fee(0.0) title(0.0) to(0.0) leaseholders(1.0) in(0.0) certain(0.0) properties(0.0) around(0.0) Canyon(0.0) Ferry(0.0) Reservoir(0.0) 
+in(0.0) Montana(1.0) .(0.0) Canyon(0.0) Ferry(0.0) Reservoir(0.0) is(0.0) a(0.0) man-made(0.0) lake(0.0) located(0.0) in(0.0) central(0.0) Montana(1.0) near(0.0) Helena(0.0) .(0.0) The(0.0) Bureau(0.0) of(0.0) 
+Reclamation(0.0) presently(0.0) leases(0.0) 265(0.0) cabin(0.0) sites(0.0) around(0.0) the(0.0) lake(0.0) to(0.0) local(0.0) citizens(0.0) .(0.0) This(0.0) section(0.0) would(0.0) direct(0.0) the(0.0) Secretary(0.0) of(0.0) 
+Interior(0.0) to(0.0) sell(0.0) these(0.0) leaseholds(1.0) at(0.0) fair(0.0) market(0.0) value(0.0) to(0.0) a(0.0) private(0.0) interest(0.0) .(0.0) The(0.0) sites(0.0) would(0.0) be(0.0) sold(0.0) at(0.0) 
+public(0.0) auction(0.0) .(0.0) The(0.0) present(0.0) leaseholders(0.0) would(0.0) then(0.0) have(0.0) the(0.0) opportunity(0.0) to(0.0) purchase(0.0) title(0.0) to(0.0) the(0.0) land(0.0) .(0.0) This(0.0) bill(0.0) 
+is(0.0) a(0.0) compromise(0.0) negotiated(0.0) with(0.0) the(0.0) gentleman(0.0) from(0.0) Montana(1.0) ((0.0) Mr.(0.0) Hill(1.0) )(0.0) and(0.0) Senator(1.0) Baucus(1.0) of(0.0) Montana(0.0) and(0.0) with(0.0) 
+the(0.0) administration(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) this(0.0) is(0.0) a(0.0) very(0.0) important(0.0) bill(1.0) ,(0.0) and(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) 
+it(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	H.R	3963	authored	Montana	Hill	would	establish	terms	
+leaseholders	
+Montana	Montana	
+
+leaseholds	
+
+Montana	Hill	Senator	Baucus	
+Speaker	bill	
+Speaker	
+
+reads % = 0.11494252873563218

@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) to(0.0) honor(0.0) the(0.0) Fort(1.0) Worth(0.0) ,(0.0) Dallas(1.0) ,(0.0) and(0.0) Arlington(1.0) chapters(0.0) of(0.0) Delta(1.0) Sigma(0.0) Theta(0.0) Sorority(1.0) 
+,(0.0) Incorporated(0.0) ,(0.0) on(0.0) their(0.0) Founders(1.0) Day(0.0) for(0.0) 101(0.0) years(0.0) of(0.0) dedicated(0.0) service(0.0) to(0.0) our(0.0) communities(1.0) .(0.0) Founded(0.0) in(0.0) 1913(1.0) 
+by(0.0) 22(0.0) women(1.0) on(0.0) the(0.0) campus(0.0) of(0.0) Howard(0.0) University(0.0) ,(0.0) Delta(1.0) Sigma(0.0) Theta(0.0) is(0.0) an(0.0) organization(0.0) committed(0.0) to(0.0) scholarship(0.0) ,(0.0) 
+sisterhood(1.0) ,(0.0) and(0.0) service(0.0) .(0.0) Deltas(0.0) are(0.0) committed(0.0) to(0.0) service(0.0) and(0.0) provide(0.0) assistance(0.0) and(0.0) support(0.0) through(0.0) established(0.0) programs(0.0) like(0.0) Delta(1.0) 
+GEMS(0.0) ,(0.0) a(0.0) program(0.0) the(0.0) Fort(1.0) Worth(0.0) alumnae(0.0) chapter(0.0) hosts(0.0) at(0.0) T.A(0.0) .(0.0) Sims(0.0) Elementary(0.0) School(0.0) each(0.0) month(0.0) ,(0.0) which(0.0) 
+works(0.0) to(0.0) empower(1.0) high(0.0) school(0.0) girls(0.0) .(0.0) In(0.0) Arlington(1.0) ,(0.0) Deltas(1.0) help(0.0) fight(1.0) heart(0.0) disease(0.0) through(0.0) Zumba(0.0) and(0.0) line(0.0) dancing(0.0) 
+as(0.0) a(0.0) part(0.0) of(0.0) the(0.0) Go(0.0) Red(0.0) Campaign(1.0) .(0.0) And(0.0) in(0.0) Dallas(1.0) ,(0.0) Deltas(1.0) provide(0.0) free(0.0) hair(0.0) styling(0.0) for(0.0) senior(0.0) 
+citizens(0.0) at(0.0) their(0.0) Joy(0.0) Woodfork(1.0) Beauty(0.0) Salon(0.0) .(0.0) I(0.0) applaud(0.0) the(0.0) Dallas/Fort(1.0) Worth(0.0) alumnae(0.0) chapters(0.0) and(0.0) the(0.0) thousands(0.0) of(0.0) Deltas(1.0) 
+nationwide(1.0) for(0.0) their(0.0) distinguished(0.0) service(0.0) to(0.0) our(0.0) country(1.0) ,(0.0) State(1.0) ,(0.0) and(0.0) the(0.0) world(0.0) ,(0.0) and(0.0) I(0.0) wish(0.0) them(0.0) many(0.0) 
+more(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Fort	Dallas	Arlington	Delta	Sorority	
+Founders	communities	1913	
+women	Delta	
+sisterhood	Delta	
+Fort	
+empower	Arlington	Deltas	fight	
+Campaign	Dallas	Deltas	
+Woodfork	Dallas/Fort	Deltas	
+nationwide	country	State	
+
+
+reads % = 0.14207650273224043

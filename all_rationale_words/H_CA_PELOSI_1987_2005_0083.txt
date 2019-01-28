@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) because(0.0) the(0.0) Republican-led(1.0) Congress(0.0) has(0.0) not(0.0) conducted(0.0) any(0.0) investigations(0.0) of(0.0) abuses(1.0) by(0.0) the(0.0) Republican(1.0) administration(1.0) 's(1.0) decision(1.0) to(1.0) go(1.0) 
+to(1.0) war(1.0) in(1.0) Iraq(1.0) ,(1.0) and(1.0) because(1.0) the(1.0) over(1.0) 2,000(1.0) American(1.0) soldiers(1.0) have(1.0) lost(1.0) their(1.0) lives(1.0) and(1.0) more(1.0) than(1.0) 15,000(1.0) 
+have(1.0) been(1.0) wounded(0.0) ,(0.0) therefore(0.0) ,(0.0) pursuant(0.0) to(0.0) rule(1.0) IX(0.0) ,(0.0) I(0.0) rise(0.0) in(0.0) regard(1.0) to(0.0) a(0.0) question(0.0) of(0.0) privileges(1.0) 
+of(0.0) the(0.0) House(0.0) ,(0.0) and(0.0) I(0.0) offer(0.0) a(0.0) privileged(0.0) resolution(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Republican-led	abuses	Republican	administration	's	decision	to	go	
+to	war	in	Iraq	,	and	because	the	over	2,000	American	soldiers	have	lost	their	lives	and	more	than	15,000	
+have	been	rule	regard	privileges	
+resolution	
+
+reads % = 0.4722222222222222

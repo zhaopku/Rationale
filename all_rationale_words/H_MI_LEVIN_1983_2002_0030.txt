@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) this(0.0) really(0.0) is(0.0) not(0.0) about(0.0) farmers(1.0) and(0.0) small(0.0) businesses(1.0) .(0.0) The(0.0) Pomeroy(1.0) substitute(1.0) addresses(0.0) 99(0.0) percent(0.0) who(0.0) would(0.0) be(0.0) 
+excluded(0.0) from(0.0) estate(0.0) taxes(0.0) .(0.0) This(0.0) is(0.0) not(0.0) about(0.0) class(0.0) warfare(1.0) unless(0.0) it(0.0) is(0.0) warfare(1.0) on(0.0) behalf(0.0) of(0.0) 1(0.0) percent(0.0) 
+of(0.0) the(0.0) very(0.0) wealthy(1.0) against(0.0) 99(0.0) percent(0.0) .(0.0) It(0.0) is(0.0) not(0.0) about(0.0) a(0.0) quirk(0.0) in(0.0) the(0.0) bill(1.0) last(0.0) year(0.0) .(0.0) 
+If(0.0) we(0.0) eliminate(1.0) the(0.0) sunset(0.0) ,(0.0) essentially(0.0) we(0.0) are(0.0) further(0.0) sunsetting(1.0) fiscal(1.0) responsibility(0.0) ,(0.0) a(0.0) trillion(1.0) dollars(1.0) the(0.0) second(0.0) 10(0.0) 
+years(0.0) for(0.0) a(0.0) few(0.0) thousand(0.0) families(0.0) .(0.0) We(0.0) are(0.0) not(0.0) just(0.0) mortgaging(1.0) the(0.0) future(1.0) ,(0.0) we(0.0) are(0.0) throwing(0.0) it(0.0) away(0.0) 
+.(0.0) We(0.0) are(0.0) throwing(0.0) away(0.0) the(0.0) chance(0.0) to(0.0) address(0.0) Social(1.0) Security(0.0) needs(0.0) ,(0.0) Medicare(1.0) needs(0.0) .(0.0) In(0.0) a(0.0) few(0.0) words(0.0) 
+,(0.0) this(0.0) is(0.0) not(0.0) about(0.0) death(1.0) taxes(1.0) ;(0.0) it(0.0) is(0.0) about(0.0) deficits(1.0) ,(0.0) more(0.0) deficits(1.0) ,(0.0) and(0.0) more(0.0) ,(0.0) more(0.0) 
+deficits(1.0) .(0.0) There(0.0) has(0.0) been(0.0) a(0.0) reference(0.0) here(0.0) to(0.0) supply-side(1.0) economics(1.0) .(0.0) This(0.0) is(0.0) supply-side(1.0) economics(1.0) run(0.0) amuck(1.0) .(0.0) Those(0.0) 
+who(0.0) vote(0.0) ``(0.0) yes(0.0) ''(0.0) today(0.0) will(0.0) live(0.0) to(0.0) regret(0.0) it(0.0) ,(0.0) if(0.0) not(0.0) tomorrow(0.0) ,(0.0) some(0.0) years(0.0) from(0.0) now(0.0) 
+.(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) urge(0.0) a(0.0) ``(0.0) no(0.0) ''(0.0) vote(1.0) on(0.0) the(0.0) final(0.0) vote(0.0) ,(0.0) and(0.0) ``(0.0) yes(0.0) ''(0.0) 
+on(0.0) the(0.0) substitute(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+farmers	businesses	Pomeroy	substitute	
+warfare	warfare	
+wealthy	bill	
+eliminate	sunsetting	fiscal	trillion	dollars	
+mortgaging	future	
+Social	Medicare	
+death	taxes	deficits	deficits	
+deficits	supply-side	economics	supply-side	economics	amuck	
+
+Speaker	vote	
+substitute	
+
+reads % = 0.14634146341463414

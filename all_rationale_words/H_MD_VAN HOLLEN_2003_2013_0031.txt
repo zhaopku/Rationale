@@ -1,0 +1,52 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) hope(0.0) tomorrow(0.0) this(0.0) House(0.0) will(0.0) finally(0.0) have(0.0) a(0.0) chance(0.0) to(0.0) vote(1.0) on(0.0) the(0.0) bipartisan(1.0) Senate(1.0) bill(1.0) to(1.0) prevent(1.0) violence(1.0) against(1.0) 
+women(1.0) .(0.0) I(0.0) hope(0.0) tomorrow(0.0) we(0.0) will(0.0) also(0.0) have(0.0) a(0.0) chance(0.0) to(0.0) vote(1.0) on(0.0) a(0.0) proposal(1.0) that(0.0) we've(0.0) now(0.0) put(0.0) 
+forward(0.0) three(0.0) times(0.0) this(0.0) year(0.0) to(0.0) replace(0.0) the(0.0) sequester(1.0) .(0.0) Unfortunately(0.0) ,(0.0) the(0.0) rule(1.0) reported(0.0) out(0.0) of(0.0) the(0.0) House(0.0) Rules(0.0) 
+Committee(0.0) denies(1.0) us(0.0) that(0.0) opportunity(0.0) .(0.0) So(0.0) let(0.0) 's(0.0) just(0.0) remind(0.0) people(0.0) what(0.0) will(0.0) happen(0.0) starting(0.0) March(0.0) 1(0.0) .(0.0) Starting(0.0) 
+March(0.0) 1(0.0) ,(0.0) if(0.0) this(0.0) House(0.0) does(0.0) not(0.0) take(0.0) action(0.0) to(0.0) replace(0.0) the(0.0) sequester(1.0) ,(0.0) we(0.0) will(0.0) lose(0.0) 750,000(1.0) American(0.0) 
+jobs(1.0) between(0.0) March(0.0) 1(0.0) and(0.0) the(0.0) end(0.0) of(0.0) this(0.0) year(0.0) .(0.0) Those(0.0) are(0.0) not(0.0) my(0.0) numbers(0.0) ;(0.0) those(0.0) are(0.0) not(0.0) 
+President(0.0) Obama(1.0) 's(0.0) numbers(0.0) ;(0.0) those(0.0) are(0.0) the(0.0) numbers(0.0) from(0.0) the(0.0) nonpartisan(1.0) ,(0.0) independent(1.0) Congressional(0.0) Budget(1.0) Office(1.0) --(0.0) 750,000(0.0) fewer(0.0) 
+American(0.0) jobs(1.0) by(0.0) the(0.0) end(0.0) of(0.0) this(0.0) year(0.0) if(0.0) we(0.0) do(0.0) n't(0.0) replace(0.0) the(0.0) sequester(1.0) .(0.0) This(0.0) majority(1.0) in(0.0) this(0.0) 
+House(0.0) has(0.0) not(0.0) taken(0.0) any(0.0) action(0.0) this(0.0) year(0.0) in(0.0) this(0.0) Congress(0.0) to(0.0) prevent(0.0) that(0.0) sequester(1.0) from(0.0) happening(0.0) beginning(0.0) Friday(0.0) ,(0.0) 
+not(0.0) one(0.0) step(0.0) .(0.0) We(0.0) have(0.0) now(0.0) asked(0.0) three(0.0) times(0.0) for(0.0) the(0.0) opportunity(0.0) to(0.0) vote(1.0) on(0.0) our(0.0) alternative(1.0) .(0.0) So(0.0) 
+what(0.0) 's(0.0) our(0.0) alternative(1.0) ,(0.0) Mr.(0.0) Speaker(1.0) ?(1.0) Our(0.0) alternative(1.0) would(0.0) replace(1.0) the(0.0) sequester(1.0) with(0.0) a(0.0) balanced(0.0) mix(0.0) of(0.0) cuts(1.0) 
+and(0.0) revenue(1.0) generated(0.0) by(0.0) closing(0.0) tax(1.0) loopholes(1.0) and(1.0) tax(1.0) preferences(1.0) that(1.0) benefit(1.0) the(0.0) very(0.0) wealthy(1.0) .(0.0) So(0.0) very(0.0) specifically(0.0) --(0.0) 
+because(0.0) it(0.0) 's(0.0) a(0.0) concrete(0.0) proposal(1.0) --(0.0) we(0.0) would(0.0) get(0.0) rid(0.0) of(0.0) the(0.0) direct(0.0) payments(0.0) that(0.0) go(0.0) to(0.0) agribusinesses(1.0) ,(0.0) 
+something(0.0) that(0.0) used(0.0) to(0.0) have(0.0) bipartisan(1.0) support(0.0) because(0.0) that(0.0) 's(0.0) an(0.0) unnecessary(1.0) subsidy(1.0) that(0.0) has(0.0) outlived(0.0) its(0.0) purpose(0.0) .(0.0) So(0.0) 
+that(0.0) 's(0.0) a(0.0) cut(0.0) .(0.0) We(0.0) also(0.0) say(0.0) we(0.0) no(0.0) longer(0.0) need(0.0) taxpayer(1.0) subsidies(1.0) for(0.0) the(0.0) big(1.0) oil(1.0) companies(1.0) .(0.0) 
+Guess(0.0) what(0.0) ?(0.0) That(0.0) 's(0.0) an(0.0) idea(0.0) that(0.0) was(0.0) proposed(1.0) by(0.0) President(0.0) Bush(1.0) who(0.0) said(0.0) taxpayers(1.0) should(0.0) no(0.0) longer(0.0) be(0.0) 
+giving(0.0) these(0.0) big(0.0) breaks(0.0) to(0.0) big(1.0) oil(1.0) companies(1.0) ;(0.0) they(0.0) do(0.0) n't(0.0) need(0.0) that(0.0) extra(0.0) taxpayer(1.0) incentive(1.0) in(0.0) order(0.0) to(0.0) 
+keep(0.0) producing(0.0) oil(1.0) and(0.0) making(0.0) record(0.0) profits(1.0) .(0.0) So(0.0) we(0.0) do(0.0) that(0.0) .(0.0) Then(0.0) we(0.0) say(0.0) to(0.0) folks(0.0) who(0.0) are(0.0) 
+making(0.0) $(0.0) 2(0.0) million(0.0) a(0.0) year(0.0) that(0.0) we're(0.0) going(0.0) to(0.0) limit(1.0) the(0.0) number(0.0) of(0.0) preferences(0.0) you(0.0) can(0.0) take(0.0) .(0.0) We(0.0) 
+'re(0.0) going(0.0) to(0.0) limit(1.0) the(0.0) number(0.0) of(0.0) tax(1.0) breaks(1.0) that(1.0) you(1.0) take(1.0) that(0.0) allow(0.0) you(0.0) to(0.0) effectively(0.0) pay(1.0) a(0.0) lower(0.0) 
+rate(0.0) than(0.0) the(0.0) people(0.0) who(0.0) work(0.0) for(0.0) you(0.0) .(0.0) So(0.0) if(0.0) you(0.0) 're(0.0) making(0.0) $(0.0) 2(0.0) million(0.0) or(0.0) more(0.0) per(0.0) 
+year(0.0) ,(0.0) we(0.0) say(0.0) you(0.0) should(0.0) pay(1.0) an(0.0) effective(0.0) tax(1.0) rate(1.0) of(0.0) 30(0.0) percent(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+vote	bipartisan	Senate	bill	to	prevent	violence	against	
+women	vote	proposal	
+sequester	rule	
+denies	
+sequester	750,000	
+jobs	
+Obama	nonpartisan	independent	Budget	Office	
+jobs	sequester	majority	
+sequester	
+vote	alternative	
+alternative	Speaker	?	alternative	replace	sequester	cuts	
+revenue	tax	loopholes	and	tax	preferences	that	benefit	wealthy	
+proposal	agribusinesses	
+bipartisan	unnecessary	subsidy	
+taxpayer	subsidies	big	oil	companies	
+proposed	Bush	taxpayers	
+big	oil	companies	taxpayer	incentive	
+oil	profits	
+limit	
+limit	tax	breaks	that	you	take	pay	
+
+pay	tax	rate	
+
+reads % = 0.1720183486238532

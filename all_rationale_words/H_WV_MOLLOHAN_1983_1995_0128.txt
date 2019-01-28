@@ -1,0 +1,10 @@
+This is from a Democrat
+----- below is the original text -----
+For(0.0) 1996(0.0) ,(0.0) so(0.0) the(0.0) gentleman(0.0) is(0.0) comparing(0.0) last(0.0) year's(0.0) dollar(0.0) volume(0.0) with(0.0) this(0.0) year(0.0) 's(0.0) dollar(1.0) volume(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+dollar	
+
+reads % = 0.05263157894736842

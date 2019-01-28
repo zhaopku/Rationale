@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentlewoman(0.0) for(0.0) yielding(0.0) me(0.0) this(0.0) time(0.0) and(0.0) for(0.0) her(0.0) extraordinary(0.0) leadership(0.0) on(0.0) this(0.0) global(1.0) AIDS(1.0) issue(0.0) 
+.(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) as(0.0) my(0.0) colleagues(0.0) know(0.0) ,(0.0) this(0.0) past(0.0) week(0.0) the(0.0) world's(0.0) leading(0.0) experts(0.0) on(0.0) HIV/AIDS(1.0) gathered(0.0) in(0.0) 
+Durbin(1.0) ,(0.0) South(1.0) Africa(0.0) for(0.0) the(0.0) 13th(0.0) International(0.0) HIV/AIDS(1.0) Conference(0.0) .(0.0) The(0.0) participants(0.0) shared(0.0) their(0.0) knowledge(0.0) and(0.0) attempted(0.0) to(0.0) find(0.0) 
+solutions(0.0) to(0.0) the(0.0) challenges(0.0) of(0.0) prevention(1.0) ,(0.0) affordable(1.0) treatment(0.0) ,(0.0) and(0.0) eventually(0.0) a(0.0) cure(0.0) for(0.0) HIV/AIDS(1.0) .(0.0) We(0.0) must(0.0) do(0.0) 
+our(0.0) part(0.0) in(0.0) this(0.0) country(1.0) to(0.0) respond(0.0) to(0.0) what(0.0) has(0.0) truly(0.0) become(0.0) a(0.0) global(0.0) crisis(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) when(0.0) 
+those(0.0) experts(0.0) met(0.0) in(0.0) Durbin(1.0) ,(0.0) South(0.0) Africa(0.0) ,(0.0) the(0.0) gentlewoman(0.0) from(0.0) California(0.0) ((0.0) Ms.(1.0) Lee(1.0) )(0.0) was(1.0) there(0.0) ,(0.0) 
+and(0.0) she(0.0) is(0.0) here(0.0) tonight(0.0) ,(0.0) less(0.0) than(0.0) 36(0.0) hours(0.0) since(0.0) her(0.0) arrival(0.0) in(0.0) this(0.0) country(1.0) ;(0.0) she(0.0) is(0.0) here(0.0) 
+tonight(0.0) leading(0.0) the(0.0) way(0.0) .(0.0) The(0.0) world(0.0) is(0.0) finally(0.0) waking(0.0) up(0.0) to(0.0) the(0.0) scope(0.0) and(0.0) seriousness(0.0) of(0.0) the(0.0) HIV/AIDS(1.0) problem(0.0) 
+,(0.0) as(0.0) more(0.0) resources(1.0) are(0.0) devoted(0.0) to(0.0) expanding(1.0) the(0.0) infrastructure(1.0) to(0.0) fight(1.0) the(0.0) disease(0.0) .(0.0) It(0.0) would(0.0) be(0.0) a(0.0) serious(0.0) 
+blow(0.0) if(0.0) the(0.0) United(0.0) States(0.0) did(0.0) not(0.0) live(0.0) up(0.0) to(0.0) its(0.0) commitments(1.0) at(0.0) this(0.0) time(0.0) .(0.0) Again(0.0) ,(0.0) the(0.0) gentlewoman(0.0) 
+from(0.0) California(0.0) ((0.0) Ms.(1.0) Lee(1.0) )(0.0) is(1.0) here(0.0) to(0.0) lead(0.0) the(0.0) way(0.0) in(0.0) that(0.0) regard(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) in(0.0) 
+addition(0.0) to(0.0) commending(0.0) my(0.0) colleague(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) introduce(0.0) into(0.0) the(0.0) Record(0.0) a(0.0) USAID(1.0) report(0.0) project(0.0) which(0.0) projects(0.0) a(0.0) 
+dramatic(0.0) increase(0.0) in(0.0) AIDS(1.0) orphans(1.0) .(0.0) Over(0.0) the(0.0) next(0.0) 10(0.0) years(0.0) ,(0.0) there(0.0) will(0.0) be(0.0) more(0.0) than(0.0) 30(0.0) million(0.0) orphans(1.0) 
+because(0.0) their(0.0) parents(0.0) will(0.0) die(0.0) of(0.0) AIDS(1.0) .(0.0) This(0.0) represents(1.0) a(0.0) dramatic(0.0) increase(1.0) .(0.0) How(0.0) many(0.0) more(0.0) parents(0.0) have(0.0) to(0.0) 
+die(0.0) ?(0.0) How(0.0) many(0.0) more(0.0) children(0.0) have(0.0) to(0.0) become(0.0) orphaned(0.0) ?(0.0) Many(0.0) of(0.0) those(0.0) children(0.0) ,(0.0) HIV-infected(1.0) themselves(0.0) .(0.0) How(0.0) 
+many(0.0) more(0.0) children(0.0) will(0.0) have(0.0) to(0.0) die(0.0) before(0.0) we(0.0) wake(0.0) up(0.0) to(0.0) an(0.0) appropriate(0.0) ,(0.0) appropriate(0.0) response(0.0) to(0.0) AIDS(1.0) ?(0.0) 
+This(0.0) increase(1.0) that(0.0) the(0.0) gentlewoman(0.0) is(0.0) proposing(1.0) brings(0.0) what(0.0) is(0.0) in(0.0) the(0.0) bill(1.0) up(0.0) to(0.0) the(0.0) President(1.0) 's(0.0) request(0.0) of(0.0) 
+$(0.0) 244(0.0) million(0.0) .(0.0) Frankly(0.0) ,(0.0) it(0.0) is(0.0) the(0.0) least(0.0) we(0.0) can(0.0) do(0.0) .(0.0) It(0.0) is(0.0) certainly(0.0) not(0.0) enough(0.0) ,(0.0) 
+but(0.0) it(0.0) is(0.0) a(0.0) good(0.0) start(0.0) for(0.0) us(0.0) .(0.0) USAID(1.0) will(0.0) use(0.0) these(0.0) additional(0.0) funds(1.0) for(0.0) education(1.0) ,(0.0) prevention(1.0) and(0.0) 
+interventions(1.0) to(0.0) reduce(1.0) mother-to-child(1.0) transmissions(0.0) .(0.0) Funding(1.0) will(0.0) be(0.0) used(0.0) to(0.0) aid(1.0) countries(1.0) to(0.0) establish(0.0) their(0.0) own(0.0) HIV(1.0) interventions(1.0) .(0.0) 
+I(0.0) commend(0.0) the(0.0) gentlewoman(0.0) for(0.0) her(0.0) leadership(0.0) and(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) her(0.0) amendment(1.0) .(0.0) USAID(1.0) Report(0.0) Projects(0.0) 
+Dramatic(0.0) Increase(1.0) in(0.0) AIDS(1.0) Orphans(1.0) Durban(0.0) ,(0.0) South(1.0) Africa.(0.0) --(0.0) The(0.0) U.S.(0.0) Agency(0.0) for(0.0) International(0.0) Development(0.0) ((0.0) USAID(1.0) )(0.0) today(0.0) 
+released(0.0) the(0.0) executive(0.0) summary(0.0) of(0.0) Children(0.0) on(0.0) the(0.0) Brink(0.0) 2000(0.0) ,(0.0) a(0.0) study(0.0) of(0.0) AIDS(1.0) orphans(0.0) across(0.0) the(0.0) globe(0.0) .(0.0) 
+The(0.0) study(0.0) finds(0.0) that(0.0) by(0.0) 2010(0.0) ,(0.0) at(0.0) least(0.0) 44(0.0) million(0.0) children(0.0) will(0.0) have(0.0) lost(0.0) one(0.0) or(0.0) both(0.0) parents(0.0) to(0.0) 
+all(0.0) causes(0.0) in(0.0) the(0.0) 34(0.0) countries(0.0) most(0.0) severely(1.0) affected(0.0) by(0.0) the(0.0) AIDS(1.0) pandemic(1.0) .(0.0) Of(0.0) these(0.0) 44(0.0) million(0.0) orphans(1.0) 
+
+
+----- below are rationale words -----
+
+global	AIDS	
+Chairman	HIV/AIDS	
+Durbin	South	HIV/AIDS	
+prevention	affordable	HIV/AIDS	
+country	crisis	Chairman	
+Durbin	Ms.	Lee	was	
+country	
+HIV/AIDS	
+resources	expanding	infrastructure	fight	
+commitments	
+Ms.	Lee	is	Chairman	
+USAID	
+AIDS	orphans	orphans	
+AIDS	represents	increase	
+HIV-infected	
+AIDS	
+increase	proposing	bill	President	
+
+USAID	funds	education	prevention	
+interventions	reduce	mother-to-child	Funding	aid	countries	HIV	interventions	
+amendment	USAID	
+Increase	AIDS	Orphans	South	USAID	
+AIDS	
+
+severely	AIDS	pandemic	orphans	
+
+reads % = 0.13

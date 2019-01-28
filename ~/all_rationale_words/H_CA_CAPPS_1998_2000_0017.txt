@@ -1,0 +1,38 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(1.0) today(1.0) in(0.0) opposition(1.0) to(0.0) the(0.0) rule(0.0) ,(0.0) and(0.0) I(0.0) am(1.0) also(1.0) in(0.0) strong(0.0) opposition(1.0) to(0.0) the(0.0) provision(0.0) 
+in(0.0) this(0.0) bill(0.0) which(0.0) would(0.0) bar(0.0) OSHA(0.0) from(0.0) implementing(0.0) its(0.0) ergonomic(0.0) standard(1.0) .(0.0) This(0.0) standard(1.0) would(0.0) protect(0.0) hundreds(0.0) of(0.0) thousands(0.0) 
+of(0.0) American(0.0) workers(1.0) suffering(1.0) from(0.0) musculoskeletal(0.0) disorders(0.0) every(0.0) year(0.0) .(0.0) As(1.0) a(0.0) public(0.0) health(1.0) nurse(0.0) ,(0.0) I(0.0) know(1.0) the(0.0) debilitating(1.0) 
+effects(1.0) these(1.0) disorders(0.0) can(1.0) have(0.0) .(0.0) They(0.0) are(0.0) the(0.0) most(1.0) prevalent(0.0) ,(0.0) expensive(1.0) ,(0.0) and(0.0) preventable(1.0) workplace(1.0) injuries(0.0) ,(0.0) accounting(1.0) 
+for(0.0) more(0.0) than(0.0) one-third(1.0) of(0.0) all(0.0) occupational(1.0) injuries(0.0) and(0.0) illnesses(1.0) serious(0.0) enough(0.0) to(0.0) result(0.0) in(0.0) days(0.0) away(1.0) from(0.0) work(0.0) ,(0.0) 
+affecting(1.0) more(0.0) than(0.0) a(0.0) half(0.0) a(0.0) million(0.0) workers(1.0) each(0.0) year(0.0) ,(0.0) and(0.0) costing(0.0) businesses(1.0) over(0.0) $(0.0) 15(0.0) billion(1.0) .(0.0) Congress(1.0) 
+has(0.0) prevented(1.0) OSHA(0.0) from(0.0) issuing(0.0) an(0.0) ergonomic(0.0) standard(1.0) since(0.0) 1995(1.0) .(0.0) So(1.0) many(0.0) medical(1.0) and(0.0) professional(0.0) organizations(0.0) have(0.0) strongly(1.0) encouraged(0.0) 
+OSHA(0.0) to(0.0) act(0.0) without(0.0) further(0.0) delay(0.0) on(0.0) this(0.0) ergonomics(1.0) rule(0.0) .(0.0) Medical(1.0) and(0.0) professional(0.0) organizations(0.0) have(0.0) strongly(1.0) encouraged(0.0) OSHA(0.0) to(0.0) 
+act(0.0) without(0.0) further(0.0) delay(0.0) on(0.0) this(0.0) ergonomics(1.0) rule(0.0) .(0.0) These(0.0) groups(0.0) include(0.0) :(1.0) The(0.0) American(0.0) College(0.0) of(0.0) Occupational(1.0) and(0.0) Environmental(0.0) 
+Medicine(0.0) ,(0.0) the(0.0) American(0.0) Academy(1.0) of(0.0) Orthopedic(0.0) Surgeons(0.0) ,(0.0) the(0.0) American(0.0) Association(1.0) of(0.0) Occupational(1.0) Health(0.0) Nurses(1.0) ,(0.0) the(0.0) American(0.0) Occupational(1.0) 
+Therapy(0.0) Association(0.0) ,(0.0) the(0.0) American(0.0) Nurses(1.0) Association(0.0) ,(0.0) the(0.0) American(0.0) Public(0.0) Health(1.0) Association(0.0) ,(0.0) and(0.0) the(0.0) AFL-CIO(1.0) and(0.0) all(0.0) of(0.0) 
+their(0.0) affiliated(1.0) unions(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) am(0.0) disappointed(1.0) that(0.0) this(0.0) appropriations(0.0) process(1.0) has(0.0) once(1.0) again(0.0) become(0.0) the(0.0) means(1.0) 
+by(0.0) which(0.0) we(0.0) leave(1.0) our(0.0) workers(1.0) without(0.0) the(0.0) safety(1.0) protections(1.0) they(0.0) deserve(0.0) .(0.0) I(0.0) believe(1.0) it(0.0) is(0.0) irresponsible(1.0) to(0.0) prohibit(1.0) 
+OSHA(0.0) from(0.0) acting(0.0) in(0.0) the(0.0) best(0.0) interests(1.0) of(0.0) American(0.0) workers(1.0) .(0.0) I(0.0) object(1.0) to(0.0) the(0.0) rider(0.0) on(0.0) the(0.0) Labor-HHS(1.0) appropriations(0.0) 
+bill(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+rise	today	opposition	am	also	opposition	
+standard	standard	
+workers	suffering	As	health	know	debilitating	
+effects	these	can	most	expensive	preventable	workplace	accounting	
+one-third	occupational	illnesses	away	
+affecting	workers	businesses	billion	Congress	
+prevented	standard	1995	So	medical	strongly	
+ergonomics	Medical	strongly	
+ergonomics	:	Occupational	
+Academy	Association	Occupational	Nurses	Occupational	
+Nurses	Health	AFL-CIO	
+affiliated	unions	Speaker	disappointed	process	once	means	
+leave	workers	safety	protections	believe	irresponsible	prohibit	
+interests	workers	object	Labor-HHS	
+
+
+reads % = 0.24381625441696114

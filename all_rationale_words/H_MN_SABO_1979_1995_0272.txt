@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) such(0.0) time(0.0) as(0.0) he(0.0) may(0.0) consume(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) [(0.0) Mr.(0.0) de(1.0) la(0.0) Garza(0.0) ](0.0) 
+,(0.0) the(0.0) distinguished(0.0) ranking(0.0) member(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Agriculture(0.0) .(0.0) ((0.0) Mr.(0.0) de(1.0) la(0.0) GARZA(0.0) asked(0.0) and(0.0) was(0.0) given(0.0) 
+permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) )(0.0) Mr.(0.0) de(1.0) la(0.0) GARZA(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) rise(0.0) in(0.0) 
+opposition(1.0) to(0.0) the(0.0) conference(0.0) report(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) at(0.0) the(0.0) outset(1.0) I(0.0) want(0.0) to(0.0) make(0.0) it(0.0) clear(0.0) that(0.0) today's(0.0) 
+debate(1.0) is(0.0) not(0.0) about(0.0) balancing(0.0) the(0.0) budget(1.0) :(0.0) I(0.0) support(0.0) balancing(0.0) the(0.0) Federal(1.0) budget(1.0) .(0.0) Today(0.0) 's(0.0) debate(1.0) is(0.0) about(0.0) 
+the(0.0) priorities(1.0) we(0.0) set(0.0) in(0.0) going(0.0) about(0.0) achieving(0.0) a(0.0) balanced(0.0) budget(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) it(0.0) is(0.0) because(0.0) of(0.0) the(0.0) 
+priorities(1.0) that(0.0) are(0.0) established(0.0) in(0.0) this(0.0) reconciliation(1.0) bill(1.0) that(0.0) I(0.0) sadly(0.0) must(0.0) oppose(1.0) this(0.0) conference(0.0) agreement(0.0) even(0.0) though(0.0) it(0.0) achieves(0.0) 
+a(0.0) goal(0.0) I(0.0) have(0.0) long(0.0) desired(0.0) of(0.0) this(0.0) Congress(0.0) --(0.0) that(0.0) of(0.0) achieving(0.0) a(0.0) balanced(0.0) budget(1.0) .(0.0) The(0.0) process(0.0) itself(0.0) 
+under(0.0) which(0.0) this(0.0) bill(1.0) has(0.0) been(0.0) considered(0.0) has(0.0) inevitably(0.0) cost(0.0) it(0.0) its(0.0) ability(0.0) to(0.0) be(0.0) signed(0.0) into(0.0) law(1.0) .(0.0) It(0.0) 
+is(0.0) a(0.0) travesty(1.0) that(0.0) when(0.0) the(0.0) very(0.0) thing(0.0) Americans(1.0) want(0.0) most(0.0) --(0.0) responsibility(0.0) in(0.0) Federal(1.0) fiscal(1.0) affairs(1.0) --(0.0) that(0.0) objective(0.0) 
+is(0.0) being(0.0) compromised(0.0) by(0.0) backroom(1.0) deals(0.0) orchestrated(1.0) by(0.0) Speaker(0.0) Gingrich(1.0) and(1.0) the(1.0) Republican(1.0) leadership(1.0) .(1.0) Mr.(1.0) Speaker(1.0) ,(1.0) the(1.0) Republican(1.0) 
+budget(1.0) approved(1.0) this(1.0) year(1.0) was(1.0) bad(1.0) .(1.0) It(1.0) called(1.0) for(1.0) a(1.0) huge(1.0) tax(1.0) cut(1.0) to(1.0) be(1.0) paid(1.0) for(1.0) through(1.0) drastic(1.0) 
+reductions(1.0) in(1.0) health(1.0) care(1.0) and(1.0) major(1.0) cuts(1.0) in(1.0) food(1.0) and(1.0) farm(1.0) programs(1.0) .(1.0) That(1.0) terrible(1.0) budget(1.0) yielded(1.0) an(1.0) even(0.0) worse(1.0) 
+result(0.0) in(0.0) the(0.0) package(0.0) we(0.0) have(0.0) before(0.0) us(0.0) :(0.0) It(0.0) slashes(0.0) health(1.0) care(1.0) for(0.0) our(0.0) seniors(1.0) ,(0.0) devastates(1.0) programs(1.0) that(0.0) 
+provide(0.0) assistance(0.0) for(0.0) children(0.0) in(0.0) poverty(1.0) ,(0.0) and(0.0) totally(0.0) eliminates(0.0) the(0.0) farm(0.0) programs(0.0) that(0.0) have(0.0) so(0.0) successfully(0.0) safeguarded(1.0) our(0.0) Nation(1.0) 
+'s(0.0) food(1.0) security(0.0) .(0.0) And(0.0) it(0.0) is(0.0) easy(0.0) to(0.0) see(0.0) how(0.0) the(0.0) Republican(1.0) leadership(1.0) took(1.0) it(1.0) from(1.0) bad(1.0) to(1.0) worse(1.0) 
+.(1.0) All(1.0) Americans(1.0) know(1.0) that(1.0) at(1.0) its(1.0) very(1.0) core(1.0) ,(0.0) our(0.0) form(0.0) of(0.0) government(1.0) depends(1.0) on(0.0) openness(1.0) .(0.0) Good(0.0) policy(1.0) 
+development(1.0) requires(0.0) a(0.0) fair(0.0) opportunity(0.0) for(0.0) all(0.0) sides(0.0) to(0.0) be(0.0) heard(0.0) .(0.0) We(0.0) have(0.0) this(0.0) terrible(0.0) bill(1.0) before(0.0) us(0.0) because(0.0) 
+that(0.0) basic(0.0) principle(1.0) has(0.0) been(0.0) abandoned(0.0) .(0.0) In(0.0) this(0.0) agriculture(1.0) deal(0.0) --(0.0) engineered(1.0) by(0.0) Speaker(0.0) Gingrich(1.0) and(1.0) Mr.(1.0) Armey(1.0) --(1.0) 
+there(1.0) are(1.0) a(1.0) shocking(1.0) number(1.0) of(1.0) instances(1.0) where(1.0) Democratic(1.0) principles(1.0) were(0.0) cast(0.0) aside(1.0) :(0.0) There(0.0) has(0.0) not(0.0) been(0.0) one(0.0) hearing(0.0) 
+on(0.0) this(0.0) proposal(1.0) in(0.0) either(0.0) the(0.0) House(0.0) Agriculture(1.0) Committee(0.0) or(0.0) the(0.0) Senate(0.0) Agriculture(0.0) Committee(0.0) and(0.0) it(0.0) eliminates(0.0) farm(0.0) programs(0.0) .(0.0) 
+Not(0.0) one(0.0) subcommittee(0.0) has(0.0) had(0.0) the(0.0) opportunity(0.0) to(0.0) consider(0.0) this(0.0) bill's(0.0) provisions(0.0) :(0.0) and(0.0) it(0.0) eliminates(0.0) farm(0.0) programs(0.0) .(0.0) Only(0.0) 
+the(0.0) full(0.0) House(0.0) Agriculture(1.0) Committee(0.0) has(0.0) debated(0.0) this(0.0) plan(0.0) --(0.0) and(0.0) a(0.0) bipartisan(1.0) majority(0.0) of(0.0) the(0.0) committee(0.0) defeated(0.0) it(0.0) .(0.0) 
+Nevertheless(0.0) ,(0.0) agricultural(1.0) policy(1.0) experts(0.0) Gingrich(1.0) and(1.0) Armey(1.0) took(1.0) what(1.0) was(0.0) defeated(1.0) in(0.0) the(0.0) Agriculture(1.0) Committee(0.0) ,(0.0) made(0.0) their(0.0) own(0.0) 
+modifications(0.0) in(0.0) the(0.0) plan(0.0) --(0.0) and(0.0) forced(0.0) it(0.0) into(0.0) the(0.0) reconciliation(1.0) bill(0.0) .(0.0) The(0.0) one(0.0) proposal(1.0) a(0.0) bipartisan(1.0) majority(0.0) 
+
+
+----- below are rationale words -----
+
+de	
+de	
+de	Speaker	
+opposition	Speaker	outset	
+debate	budget	Federal	budget	debate	
+priorities	budget	Speaker	
+priorities	reconciliation	bill	oppose	
+budget	
+bill	law	
+travesty	Americans	Federal	fiscal	affairs	
+backroom	orchestrated	Gingrich	and	the	Republican	leadership	.	Mr.	Speaker	,	the	Republican	
+budget	approved	this	year	was	bad	.	It	called	for	a	huge	tax	cut	to	be	paid	for	through	drastic	
+reductions	in	health	care	and	major	cuts	in	food	and	farm	programs	.	That	terrible	budget	yielded	an	worse	
+health	care	seniors	devastates	programs	
+poverty	safeguarded	Nation	
+food	Republican	leadership	took	it	from	bad	to	worse	
+.	All	Americans	know	that	at	its	very	core	government	depends	openness	policy	
+development	bill	
+principle	agriculture	engineered	Gingrich	and	Mr.	Armey	--	
+there	are	a	shocking	number	of	instances	where	Democratic	principles	aside	
+proposal	Agriculture	
+
+Agriculture	bipartisan	
+agricultural	policy	Gingrich	and	Armey	took	what	defeated	Agriculture	
+reconciliation	proposal	bipartisan	
+
+reads % = 0.292

@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+The(0.0) CHAIRMAN(0.0) pro(1.0) tempore(1.0) .(0.0) The(0.0) Clerk(0.0) will(0.0) designate(1.0) the(0.0) amendment(1.0) .(0.0) The(0.0) text(0.0) of(0.0) the(0.0) amendment(1.0) is(0.0) as(0.0) follows(1.0) :(0.0) 
+Amendment(0.0) offered(0.0) by(0.0) Mr.(0.0) Istook(1.0) :(1.0) At(0.0) the(0.0) end(0.0) of(0.0) title(0.0) VI(1.0) ((0.0) before(1.0) the(0.0) short(0.0) title(0.0) )(0.0) ,(0.0) insert(0.0) 
+the(0.0) following(0.0) :(0.0) Sec(0.0) .(0.0) .(0.0) The(0.0) amount(0.0) otherwise(1.0) provided(0.0) by(0.0) this(0.0) Act(0.0) for(0.0) deposit(1.0) in(0.0) the(0.0) Federal(1.0) Buildings(1.0) Fund(1.0) 
+is(0.0) hereby(0.0) reduced(0.0) by(0.0) $(0.0) 152,979,000(1.0) ,(0.0) and(0.0) ,(0.0) notwithstanding(1.0) any(1.0) other(0.0) provision(0.0) of(0.0) this(0.0) Act(0.0) ,(0.0) the(0.0) amount(0.0) available(1.0) 
+from(0.0) revenues(1.0) and(0.0) collections(1.0) deposited(1.0) into(0.0) the(0.0) Fund(1.0) shall(0.0) be(0.0) available(1.0) for(0.0) necessary(1.0) expenses(0.0) of(0.0) real(0.0) property(1.0) management(0.0) and(0.0) related(1.0) 
+activities(0.0) not(1.0) otherwise(0.0) provided(0.0) for(0.0) in(0.0) the(0.0) aggregate(1.0) amount(0.0) of(0.0) $(0.0) 8,619,023,000(1.0) .(0.0) The(0.0) CHAIRMAN(1.0) pro(1.0) tempore(1.0) .(0.0) Pursuant(0.0) to(0.0) 
+the(0.0) order(0.0) of(0.0) the(0.0) House(0.0) of(0.0) Tuesday(1.0) ,(0.0) September(0.0) 14(0.0) ,(0.0) 2004(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Oklahoma(1.0) ((0.0) Mr.(0.0) Istook(1.0) 
+)(0.0) and(0.0) a(0.0) Member(0.0) opposed(1.0) each(0.0) will(0.0) control(1.0) 5(0.0) minutes(1.0) .(0.0) The(0.0) Chair(1.0) recognizes(0.0) the(0.0) gentleman(0.0) from(0.0) Oklahoma(1.0) ((0.0) Mr.(0.0) 
+Istook(1.0) )(0.0) .(0.0) This(0.0) is(0.0) a(0.0) simple(0.0) housekeeping(1.0) amendment(1.0) .(0.0) As(0.0) we(0.0) noted(0.0) yesterday(0.0) ,(0.0) the(0.0) various(1.0) points(0.0) of(0.0) order(0.0) 
+that(0.0) were(0.0) raised(0.0) would(1.0) have(0.0) the(0.0) effect(0.0) of(0.0) increasing(0.0) the(0.0) amount(0.0) of(0.0) spending(1.0) in(0.0) the(0.0) bill(0.0) beyond(0.0) our(0.0) subcommittee's(1.0) allocation(1.0) 
+.(0.0) This(0.0) amendment(1.0) simply(0.0) brings(0.0) the(0.0) bill(0.0) back(0.0) within(0.0) our(0.0) allocation(1.0) pursuant(1.0) to(0.0) our(0.0) 302(0.0) ((0.0) b(1.0) )(0.0) allocation(1.0) and(0.0) 
+with(0.0) what(0.0) we(0.0) told(0.0) the(0.0) House(0.0) before(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) reserve(1.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+pro	tempore	designate	amendment	amendment	follows	
+Istook	:	VI	before	
+otherwise	deposit	Federal	Buildings	Fund	
+152,979,000	notwithstanding	any	available	
+revenues	collections	deposited	Fund	available	necessary	property	related	
+not	aggregate	8,619,023,000	CHAIRMAN	pro	tempore	
+Tuesday	Oklahoma	Istook	
+opposed	control	minutes	Chair	Oklahoma	
+Istook	housekeeping	amendment	various	
+would	spending	subcommittee's	allocation	
+amendment	allocation	pursuant	b	allocation	
+before	Chairman	reserve	time	
+
+reads % = 0.24166666666666667

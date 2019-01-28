@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) this(0.0) bill(1.0) introduced(1.0) by(1.0) my(0.0) colleague(0.0) Representative(1.0) Neugebauer(1.0) .(0.0) This(1.0) bill(1.0) reduces(1.0) costs(1.0) for(0.0) 
+homeowners(1.0) and(0.0) renters(1.0) not(0.0) only(0.0) in(0.0) my(0.0) home(0.0) State(0.0) of(0.0) Florida(1.0) ,(0.0) but(0.0) for(0.0) everyone(0.0) throughout(0.0) the(0.0) entire(0.0) country(1.0) .(0.0) 
+Today(0.0) ,(0.0) insurance(1.0) brokers(0.0) and(0.0) agents(0.0) face(0.0) hurdles(0.0) when(0.0) they(0.0) try(0.0) to(0.0) work(0.0) across(0.0) State(1.0) lines(0.0) .(0.0) What(0.0) this(0.0) bill(1.0) 
+does(1.0) is(0.0) make(0.0) it(0.0) easier(0.0) and(0.0) less(0.0) expensive(1.0) for(0.0) them(0.0) to(0.0) get(0.0) licensed(0.0) in(0.0) multiple(0.0) States(0.0) .(0.0) The(0.0) best(0.0) part(0.0) 
+about(0.0) this(0.0) is(0.0) ultimately(0.0) it(0.0) saves(0.0) you(0.0) ,(0.0) the(0.0) consumer(1.0) ,(0.0) money(1.0) .(0.0) This(0.0) legislation(1.0) streamlines(1.0) the(0.0) Federal(1.0) role(0.0) in(0.0) 
+real(0.0) estate(0.0) licensing(0.0) while(0.0) allowing(0.0) States(0.0) to(0.0) continue(0.0) setting(0.0) standards(1.0) for(0.0) the(0.0) work(0.0) that(0.0) best(0.0) fits(0.0) their(0.0) States(0.0) because(0.0) ,(0.0) 
+after(0.0) all(0.0) ,(0.0) we(0.0) know(0.0) what's(0.0) best(0.0) for(0.0) our(0.0) States(1.0) and(0.0) our(0.0) communities(1.0) .(0.0) Lowering(0.0) costs(1.0) for(0.0) insurance(1.0) agents(0.0) and(0.0) 
+brokers(0.0) means(0.0) more(0.0) options(0.0) and(0.0) lower(0.0) prices(1.0) for(0.0) consumers(1.0) .(0.0) I(0.0) am(0.0) glad(0.0) to(0.0) support(0.0) this(0.0) bipartisan(1.0) legislation(1.0) .(0.0) I(0.0) 
+encourage(0.0) all(0.0) of(0.0) my(0.0) colleagues(0.0) to(0.0) vote(1.0) for(0.0) the(0.0) NARAB(0.0) Reform(1.0) Act(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+bill	introduced	by	Representative	Neugebauer	This	bill	reduces	costs	
+homeowners	renters	Florida	country	
+insurance	State	bill	
+does	expensive	
+consumer	money	legislation	streamlines	Federal	
+standards	
+States	communities	costs	insurance	
+prices	consumers	bipartisan	legislation	
+vote	Reform	Act	
+
+reads % = 0.20114942528735633

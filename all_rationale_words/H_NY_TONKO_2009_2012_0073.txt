@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+Representative(1.0) Garamendi(1.0) ,(1.0) you(0.0) 're(0.0) offering(0.0) a(0.0) very(0.0) powerful(0.0) statement(0.0) ,(0.0) a(0.0) powerful(0.0) challenge(0.0) ,(0.0) the(0.0) what-if(0.0) .(0.0) When(0.0) you(0.0) take(0.0) 
+that(0.0) statement(0.0) and(0.0) failure(0.0) to(0.0) commit(1.0) to(0.0) our(0.0) Nation's(0.0) children(0.0) and(0.0) then(0.0) contrast(0.0) that(0.0) with(0.0) what(0.0) 's(0.0) happening(0.0) in(0.0) competitor(0.0) 
+nations(1.0) ,(0.0) where(0.0) they(0.0) 're(0.0) investing(1.0) in(0.0) education(1.0) ,(0.0) investing(1.0) in(0.0) higher(0.0) education(1.0) ,(0.0) investing(1.0) in(0.0) research(0.0) ,(0.0) investing(1.0) in(0.0) 
+advanced(0.0) manufacturing(1.0) ,(0.0) these(0.0) are(0.0) the(0.0) challenges(0.0) that(0.0) are(0.0) facing(0.0) us(0.0) as(0.0) a(0.0) government(1.0) ,(0.0) as(0.0) a(0.0) body(0.0) ,(0.0) as(0.0) 
+a(0.0) House(0.0) of(0.0) Representatives(0.0) .(0.0) And(0.0) if(0.0) we(0.0) do(0.0) not(0.0) respond(0.0) accordingly(0.0) ,(0.0) we(0.0) 're(0.0) holding(0.0) back(0.0) the(0.0) Nation(1.0) .(0.0) 
+We(0.0) 're(0.0) actually(0.0) pushing(0.0) us(0.0) backward(1.0) .(0.0) This(0.0) discussion(0.0) here(0.0) in(0.0) this(0.0) House(0.0) ought(1.0) to(0.0) be(0.0) about(0.0) moving(0.0) us(0.0) forward(0.0) 
+--(0.0) moving(0.0) us(0.0) forward(0.0) with(0.0) progressive(1.0) policy(1.0) and(0.0) investments(1.0) of(0.0) human(1.0) infrastructure(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Garamendi	,	
+commit	
+nations	investing	education	investing	education	investing	investing	
+manufacturing	government	
+Nation	
+backward	ought	
+progressive	policy	investments	human	infrastructure	
+
+reads % = 0.14925373134328357

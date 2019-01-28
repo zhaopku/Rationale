@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+President(0.0) Clinton(1.0) said(1.0) ``(0.0) save(0.0) Social(0.0) Security(0.0) first(0.0) ''(0.0) from(0.0) that(0.0) very(0.0) podium(0.0) .(0.0) Play(0.0) it(0.0) smart(0.0) ,(0.0) do(0.0) not(0.0) spend(0.0) 
+money(1.0) you(0.0) do(0.0) not(0.0) have(0.0) .(0.0) I(0.0) think(0.0) that(0.0) is(0.0) one(0.0) of(0.0) the(0.0) issues(0.0) that(0.0) we(0.0) have(0.0) talked(0.0) about(0.0) early(0.0) 
+on(0.0) ,(0.0) and(0.0) more(0.0) so(0.0) last(0.0) year(0.0) than(0.0) this(0.0) year(0.0) ,(0.0) but(0.0) all(0.0) of(0.0) these(0.0) tax(1.0) cuts(1.0) that(1.0) we(1.0) have(1.0) 
+been(0.0) given(0.0) which(0.0) are(0.0) great(0.0) ,(0.0) and(0.0) I(0.0) know(0.0) a(0.0) lot(0.0) of(0.0) people(0.0) who(0.0) have(0.0) benefited(0.0) from(0.0) the(0.0) tax(1.0) cuts(1.0) 
+,(1.0) and(1.0) God(0.0) bless(0.0) them(0.0) .(0.0) But(0.0) when(0.0) we(0.0) look(0.0) at(0.0) the(0.0) government(1.0) 's(0.0) financial(0.0) position(0.0) ,(0.0) we(0.0) have(0.0) borrowed(0.0) 
+that(0.0) money(1.0) .(0.0) We(0.0) did(0.0) not(0.0) have(0.0) that(0.0) money(1.0) .(0.0) There(0.0) was(0.0) not(0.0) a(0.0) surplus(0.0) here(0.0) that(0.0) we(0.0) said(0.0) we(0.0) 
+have(0.0) billions(1.0) of(0.0) dollars(1.0) ,(0.0) let(0.0) us(0.0) give(0.0) it(0.0) back(0.0) and(0.0) let(0.0) the(0.0) American(0.0) people(0.0) have(0.0) it(0.0) .(0.0) We(0.0) went(0.0) 
+out(0.0) and(0.0) borrowed(0.0) that(0.0) money(1.0) .(0.0) So(0.0) we(0.0) borrowed(1.0) it(0.0) and(0.0) gave(0.0) it(0.0) to(0.0) primarily(0.0) the(0.0) top(0.0) 1(0.0) or(0.0) 2(0.0) 
+percent(0.0) .(0.0) Then(0.0) we(0.0) have(0.0) to(0.0) pay(1.0) interest(0.0) on(0.0) it(0.0) .(0.0) So(0.0) really(0.0) we(0.0) borrowed(0.0) it(0.0) ,(0.0) we(0.0) are(0.0) paying(1.0) 
+interest(0.0) on(0.0) it(0.0) and(0.0) gave(0.0) it(0.0) to(0.0) rich(1.0) people(0.0) who(0.0) are(0.0) not(0.0) investing(1.0) it(0.0) back(0.0) into(0.0) the(0.0) economy(1.0) for(0.0) the(0.0) 
+most(0.0) part(0.0) .(0.0) Because(0.0) we(0.0) borrowed(0.0) it(0.0) ,(0.0) we(0.0) have(0.0) to(0.0) pay(1.0) the(0.0) interest(0.0) on(0.0) it(0.0) so(0.0) there(0.0) is(0.0) not(0.0) 
+really(0.0) a(0.0) tax(0.0) cut(1.0) ,(1.0) there(0.0) is(0.0) a(0.0) tax(0.0) shift(1.0) .(0.0) So(0.0) the(0.0) next(0.0) generation(1.0) of(0.0) Americans(1.0) ,(0.0) they(0.0) are(0.0) 
+going(0.0) to(0.0) have(0.0) to(0.0) pay(1.0) this(0.0) bill(1.0) that(0.0) we(0.0) have(0.0) left(0.0) here(0.0) .(0.0) We(0.0) have(0.0) almost(0.0) a(0.0) $(0.0) 600(0.0) billion(1.0) 
+annual(0.0) deficit(1.0) for(0.0) the(0.0) past(0.0) year(0.0) .(0.0) That(0.0) is(0.0) getting(0.0) rolled(0.0) into(0.0) our(0.0) $(0.0) 7(0.0) trillion(1.0) debt(1.0) that(0.0) we(0.0) have(0.0) 
+.(0.0) So(0.0) almost(0.0) 20(0.0) percent(0.0) of(0.0) our(0.0) annual(0.0) budget(1.0) that(0.0) we(0.0) pay(1.0) down(0.0) here(0.0) is(0.0) interest(0.0) on(0.0) the(0.0) debt(1.0) that(0.0) 
+we(0.0) have(0.0) .(0.0) So(0.0) if(0.0) you(0.0) keep(0.0) accruing(0.0) this(0.0) big(0.0) debt(1.0) ,(0.0) you(0.0) have(0.0) to(0.0) keep(0.0) taking(0.0) tax(1.0) money(1.0) to(0.0) 
+pay(1.0) it(0.0) off(0.0) .(0.0) Who(0.0) is(0.0) lending(1.0) us(0.0) the(0.0) money(1.0) ?(0.0) Japan(0.0) and(0.0) China(1.0) are(0.0) lending(1.0) us(0.0) the(0.0) money(1.0) .(0.0) 
+So(0.0) it(0.0) is(0.0) not(0.0) bad(0.0) enough(0.0) that(0.0) we(0.0) are(0.0) borrowing(1.0) it(0.0) to(0.0) give(0.0) it(0.0) to(0.0) the(0.0) top(0.0) 1(0.0) percent(0.0) ,(0.0) 
+it(0.0) is(0.0) not(0.0) bad(0.0) enough(0.0) that(0.0) we(0.0) are(0.0) borrowing(1.0) it(0.0) and(0.0) paying(1.0) interest(0.0) on(0.0) it(0.0) ,(0.0) we(0.0) are(0.0) borrowing(1.0) it(0.0) 
+from(0.0) the(0.0) Chinese(0.0) and(0.0) the(0.0) Japanese(0.0) who(0.0) are(0.0) taking(0.0) the(0.0) interest(0.0) money(0.0) ,(0.0) and(0.0) they(0.0) invest(1.0) it(0.0) in(0.0) their(0.0) factories(1.0) 
+because(0.0) a(0.0) lot(0.0) of(0.0) their(0.0) factories(1.0) are(0.0) state(1.0) owned(0.0) .(0.0) So(0.0) the(0.0) state(1.0) takes(0.0) the(0.0) money(1.0) that(0.0) we(0.0) borrow(0.0) from(0.0) 
+them(0.0) ,(0.0) and(0.0) they(0.0) invest(1.0) it(0.0) back(0.0) into(0.0) their(0.0) company(0.0) and(0.0) steal(0.0) our(0.0) manufacturing(1.0) jobs(0.0) .(0.0) Their(0.0) economy(1.0) is(0.0) booming(1.0) 
+,(0.0) and(0.0) they(0.0) are(0.0) doing(0.0) it(0.0) with(0.0) our(0.0) tax(1.0) dollars(1.0) .(0.0) It(0.0) makes(0.0) no(0.0) sense(0.0) .(0.0) Until(0.0) we(0.0) get(0.0) it(0.0) 
+right(0.0) down(0.0) here(0.0) ,(0.0) we(0.0) are(0.0) going(0.0) to(0.0) continue(0.0) to(0.0) erode(1.0) the(0.0) middle(1.0) class(1.0) of(0.0) the(0.0) United(0.0) States(0.0) of(0.0) America(0.0) 
+,(0.0) our(0.0) cities(1.0) ,(0.0) like(0.0) Youngstown(1.0) ,(0.0) Ohio(1.0) ;(0.0) Warren(0.0) ,(0.0) Ohio(1.0) ;(0.0) Akron(1.0) ,(0.0) Ohio(1.0) ;(0.0) Cleveland(1.0) ,(0.0) 
+
+
+----- below are rationale words -----
+
+Clinton	said	
+money	
+tax	cuts	that	we	have	
+tax	cuts	
+,	and	government	
+money	money	
+billions	dollars	
+money	borrowed	
+pay	paying	
+rich	investing	economy	
+pay	
+cut	,	shift	generation	Americans	
+pay	bill	billion	
+deficit	trillion	debt	
+budget	pay	debt	
+debt	tax	money	
+pay	lending	money	China	lending	money	
+borrowing	
+borrowing	paying	borrowing	
+invest	factories	
+factories	state	state	money	
+invest	manufacturing	economy	booming	
+tax	dollars	
+erode	middle	class	
+cities	Youngstown	Ohio	Ohio	Akron	Ohio	Cleveland	
+
+reads % = 0.148

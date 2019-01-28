@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) although(0.0) I(0.0) am(0.0) a(0.0) strong(0.0) supporter(0.0) of(0.0) this(0.0) bill(1.0) ,(0.0) I(0.0) rise(0.0) to(0.0) express(0.0) my(0.0) disappointment(0.0) with(0.0) the(0.0) rule(1.0) 
+.(0.0) On(0.0) a(0.0) party-(0.0) line(0.0) vote(1.0) ,(0.0) the(0.0) Committee(0.0) on(0.0) Rules(0.0) refused(0.0) to(0.0) make(0.0) my(0.0) amendment(1.0) in(0.0) order(0.0) to(0.0) add(0.0) 
+$(0.0) 1(0.0) billion(1.0) in(0.0) emergency(1.0) funds(1.0) for(0.0) HIV/AIDS(1.0) .(0.0) I(0.0) requested(0.0) that(0.0) it(0.0) be(0.0) made(0.0) in(0.0) order(0.0) so(0.0) that(0.0) the(0.0) 
+full(0.0) House(0.0) would(0.0) have(0.0) the(0.0) opportunity(0.0) to(0.0) vote(1.0) to(0.0) provide(0.0) the(0.0) $(0.0) 3(0.0) billion(1.0) authorized(0.0) in(0.0) the(0.0) recently(0.0) passed(0.0) HIV/(0.0) 
+AIDS(1.0) bill(1.0) .(0.0) Unfortunately(0.0) ,(0.0) we(0.0) are(0.0) being(0.0) denied(1.0) the(0.0) opportunity(0.0) to(0.0) live(0.0) up(0.0) to(0.0) the(0.0) promises(1.0) we(0.0) have(0.0) made(0.0) 
+.(0.0) It(0.0) is(0.0) truly(0.0) a(0.0) shame(0.0) that(0.0) the(0.0) White(1.0) House(0.0) opposed(0.0) this(0.0) amendment(1.0) when(0.0) I(0.0) offered(0.0) it(0.0) during(0.0) full(0.0) committee(0.0) 
+consideration(0.0) of(0.0) the(0.0) bill(0.0) .(0.0) These(0.0) funds(1.0) are(0.0) needed(0.0) and(0.0) can(0.0) be(0.0) used(0.0) effectively(0.0) next(0.0) year(0.0) .(0.0) The(0.0) gentlewoman(0.0) from(0.0) 
+Michigan(1.0) ((0.0) Ms.(1.0) Kilpatrick(1.0) )(0.0) will(1.0) be(0.0) offering(0.0) an(0.0) amendment(1.0) to(0.0) the(0.0) bill(1.0) adding(0.0) $(0.0) 300(0.0) million(0.0) for(0.0) HIV/AIDS(1.0) ,(0.0) 
+which(0.0) I(0.0) urge(0.0) Members(0.0) to(0.0) support(0.0) .(0.0) The(0.0) amendment(1.0) will(0.0) be(0.0) offset(1.0) with(0.0) $(0.0) 300(0.0) million(0.0) from(0.0) the(0.0) Millennium(1.0) Challenge(0.0) 
+Account(0.0) ,(0.0) which(0.0) in(0.0) my(0.0) judgment(0.0) is(0.0) overfunded(1.0) in(0.0) the(0.0) bill(1.0) at(0.0) $(0.0) 800(0.0) million(0.0) ,(0.0) because(0.0) I(0.0) do(0.0) not(0.0) 
+believe(0.0) they(0.0) can(0.0) spend(1.0) it(0.0) in(0.0) this(0.0) appropriations(1.0) cycle(0.0) .(0.0) I(0.0) am(0.0) perplexed(0.0) by(0.0) other(0.0) aspects(0.0) of(0.0) this(0.0) rule(1.0) .(0.0) 
+Apparently(0.0) ,(0.0) the(0.0) Committee(0.0) on(0.0) Rules(0.0) feels(0.0) compelled(0.0) not(0.0) to(0.0) protect(0.0) language(0.0) in(0.0) appropriation(1.0) bills(1.0) if(0.0) authorizing(1.0) committee(0.0) chairmen(0.0) object(0.0) 
+.(0.0) A(0.0) provision(0.0) requiring(0.0) competitive(0.0) contracting(0.0) in(0.0) Iraq(1.0) has(0.0) been(0.0) left(0.0) unprotected(0.0) .(0.0) Language(0.0) allowing(0.0) bilateral(1.0) agricultural(1.0) debt(0.0) to(0.0) be(0.0) 
+rescheduled(0.0) along(0.0) with(0.0) all(0.0) other(0.0) U.S.(0.0) Government(0.0) debt(1.0) has(0.0) also(0.0) been(0.0) left(0.0) unprotected(0.0) .(0.0) And(0.0) language(0.0) clarifying(0.0) how(0.0) AID(1.0) should(0.0) 
+interact(0.0) with(0.0) the(0.0) new(0.0) Millennium(1.0) Challenge(0.0) Corporation(0.0) is(0.0) unprotected(0.0) as(0.0) well(0.0) .(0.0) All(0.0) of(0.0) these(0.0) provisions(1.0) were(0.0) included(0.0) for(0.0) sound(0.0) 
+policy(0.0) reasons(0.0) and(0.0) were(0.0) supported(0.0) by(0.0) the(0.0) Committee(0.0) on(0.0) Appropriations(0.0) .(0.0) It(0.0) was(0.0) necessary(0.0) to(0.0) include(0.0) them(0.0) only(0.0) because(0.0) the(0.0) 
+authorizing(1.0) committees(0.0) have(0.0) failed(0.0) to(0.0) address(0.0) the(0.0) issues(0.0) involved(0.0) .(0.0) It(0.0) is(0.0) my(0.0) hope(0.0) that(0.0) the(0.0) authorizing(1.0) committee(0.0) members(0.0) involved(0.0) 
+would(0.0) think(0.0) twice(0.0) before(0.0) making(0.0) their(0.0) points(0.0) of(0.0) order(0.0) ,(0.0) but(0.0) the(0.0) practical(0.0) implications(1.0) of(0.0) dropping(0.0) the(0.0) language(0.0) in(0.0) the(0.0) 
+bill(1.0) seem(0.0) to(0.0) be(0.0) of(0.0) secondary(0.0) concern(0.0) to(0.0) jurisdictional(1.0) interests(0.0) .(0.0) The(0.0) rule(1.0) also(0.0) failed(0.0) to(0.0) make(0.0) in(0.0) order(0.0) a(0.0) 
+number(0.0) of(0.0) important(0.0) provisions(1.0) ,(0.0) including(0.0) a(0.0) request(0.0) from(0.0) the(0.0) Committee(0.0) on(0.0) Financial(0.0) Services(0.0) to(0.0) authorize(0.0) several(0.0) international(0.0) banks(0.0) .(0.0) 
+This(0.0) authorization(0.0) is(0.0) badly(0.0) needed(0.0) and(0.0) long(0.0) overdue(0.0) .(0.0) There(0.0) were(0.0) other(0.0) Democratic(1.0) amendments(1.0) that(0.0) were(0.0) not(0.0) given(0.0) protection(0.0) from(0.0) 
+points(0.0) of(0.0) order(0.0) ,(0.0) including(0.0) amendments(1.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) Illinois(1.0) ((0.0) Mr.(0.0) Jackson(1.0) )(0.0) ,(0.0) a(0.0) member(0.0) of(0.0) the(0.0) 
+Subcommittee(0.0) on(0.0) Foreign(0.0) Operations(0.0) ,(0.0) Export(0.0) Financing(0.0) and(0.0) Related(0.0) Programs(0.0) ,(0.0) which(0.0) would(0.0) have(0.0) helped(0.0) fill(0.0) the(0.0) gap(0.0) in(0.0) our(0.0) 
+funding(0.0) for(0.0) various(0.0) programs(0.0) in(0.0) Africa(0.0) .(0.0) Again(0.0) ,(0.0) my(0.0) colleagues(0.0) ,(0.0) it(0.0) is(0.0) very(0.0) disappointing(0.0) that(0.0) the(0.0) full(0.0) House(0.0) 
+will(0.0) not(0.0) be(0.0) allowed(0.0) to(0.0) consider(0.0) a(0.0) number(0.0) of(0.0) sound(0.0) policy(0.0) initiatives(1.0) today(0.0) .(0.0) Mr.(0.0) LINCOLN(1.0) DIAZ-BALART(0.0) of(0.0) Florida(0.0) 
+
+
+----- below are rationale words -----
+
+bill	rule	
+vote	amendment	
+billion	emergency	funds	HIV/AIDS	
+vote	billion	
+AIDS	bill	denied	promises	
+White	amendment	
+funds	
+Michigan	Ms.	Kilpatrick	will	amendment	bill	HIV/AIDS	
+amendment	offset	Millennium	
+overfunded	bill	
+spend	appropriations	rule	
+appropriation	bills	authorizing	
+Iraq	bilateral	agricultural	
+debt	AID	
+Millennium	provisions	
+
+authorizing	authorizing	
+implications	
+bill	jurisdictional	rule	
+provisions	
+Democratic	amendments	
+amendments	Illinois	Jackson	
+
+
+initiatives	LINCOLN	
+
+reads % = 0.112

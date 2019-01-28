@@ -1,0 +1,52 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) support(0.0) 
+of(0.0) H.R(0.0) .(0.0) 3506(0.0) ,(0.0) the(0.0) Eliminate(1.0) Privacy(0.0) Notice(0.0) Confusion(0.0) Act(0.0) .(0.0) This(0.0) bill(1.0) will(0.0) help(0.0) reduce(1.0) the(0.0) burden(1.0) and(0.0) 
+confusion(0.0) of(0.0) privacy(1.0) notice(0.0) requirements(0.0) by(0.0) providing(0.0) exemption(1.0) from(0.0) sending(0.0) an(0.0) annual(0.0) privacy(0.0) notice(0.0) for(0.0) those(0.0) institutions(1.0) that(0.0) do(0.0) not(0.0) 
+share(0.0) nonpublic(0.0) customer(0.0) information(0.0) with(0.0) unaffiliated(0.0) third(0.0) parties(0.0) or(0.0) those(0.0) that(0.0) do(0.0) not(0.0) change(0.0) their(0.0) privacy(0.0) policies(1.0) at(0.0) all(0.0) .(0.0) 
+Under(0.0) current(0.0) law(1.0) ,(0.0) banks(1.0) and(0.0) other(0.0) financial(1.0) institutions(1.0) are(0.0) required(0.0) to(0.0) send(0.0) out(0.0) an(0.0) annual(0.0) privacy(0.0) notification(0.0) to(0.0) their(0.0) 
+customers(0.0) informing(0.0) them(0.0) that(0.0) nothing(0.0) has(0.0) changed(0.0) ,(0.0) and(0.0) they(0.0) still(0.0) do(0.0) not(0.0) share(0.0) privacy(0.0) information(0.0) .(0.0) This(0.0) is(0.0) often(0.0) 
+quite(0.0) very(0.0) confusing(0.0) to(0.0) customers(0.0) .(0.0) Essentially(0.0) ,(0.0) under(0.0) my(0.0) legislation(1.0) ,(0.0) financial(1.0) institutions(1.0) are(0.0) relieved(0.0) of(0.0) an(0.0) unnecessary(1.0) and(0.0) 
+redundant(0.0) regulatory(1.0) burden(1.0) which(0.0) will(0.0) help(0.0) lower(0.0) costs(1.0) and(0.0) reduce(0.0) junk(1.0) mail(0.0) that(0.0) the(0.0) customers(0.0) receive(0.0) in(0.0) the(0.0) mail(0.0) every(0.0) 
+day(0.0) .(0.0) It(0.0) will(0.0) also(0.0) lessen(0.0) confusion(0.0) to(0.0) customers(0.0) because(0.0) they(0.0) will(0.0) no(0.0) longer(0.0) receive(0.0) letters(0.0) informing(0.0) them(0.0) that(0.0) their(0.0) 
+bank(0.0) 's(0.0) privacy(0.0) policy(1.0) has(0.0) not(0.0) changed(0.0) at(0.0) all(0.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) it(0.0) 's(0.0) important(0.0) to(0.0) note(0.0) that(0.0) this(0.0) 
+legislation(1.0) only(0.0) applies(0.0) to(0.0) those(0.0) institutions(1.0) that(0.0) do(0.0) not(0.0) share(0.0) personal(0.0) financial(1.0) information(0.0) with(0.0) third(0.0) parties(0.0) and(0.0) do(0.0) not(0.0) change(0.0) 
+their(0.0) privacy(1.0) policies(1.0) .(0.0) This(0.0) means(0.0) that(0.0) the(0.0) privacy(0.0) policy(1.0) that(0.0) banks(1.0) must(0.0) provide(0.0) to(0.0) consumers(1.0) when(0.0) they(0.0) open(0.0) an(0.0) 
+account(0.0) remains(0.0) completely(0.0) unaffected(0.0) .(0.0) The(0.0) bottom(0.0) line(0.0) is(0.0) that(0.0) nothing(0.0) in(0.0) this(0.0) legislation(1.0) in(0.0) this(0.0) bill(1.0) allows(1.0) for(0.0) the(0.0) 
+disclosure(1.0) of(0.0) private(0.0) information(0.0) and(0.0) companies(0.0) are(0.0) still(0.0) prohibited(1.0) from(0.0) sharing(0.0) any(0.0) personal(0.0) information(0.0) with(0.0) third(0.0) parties(0.0) .(0.0) Similar(0.0) legislation(1.0) 
+has(0.0) passed(0.0) the(0.0) House(0.0) in(0.0) previous(0.0) Congresses(0.0) with(0.0) strong(0.0) ,(0.0) bipartisan(1.0) support(0.0) ;(0.0) and(0.0) I(0.0) want(0.0) to(0.0) recognize(0.0) the(0.0) bipartisan(1.0) 
+manner(1.0) in(0.0) which(0.0) that(0.0) legislation(1.0) was(0.0) again(0.0) handled(0.0) this(0.0) year(0.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) I(0.0) especially(0.0) want(0.0) to(0.0) thank(0.0) Chairman(0.0) 
+Frank(1.0) and(0.0) Ranking(0.0) Member(0.0) Bachus(1.0) for(0.0) their(0.0) assistance(0.0) with(0.0) the(0.0) legislation(0.0) and(0.0) their(0.0) willingness(0.0) to(0.0) bring(0.0) this(0.0) legislation(1.0) and(0.0) assist(0.0) 
+me(0.0) in(0.0) bringing(0.0) it(0.0) to(0.0) the(0.0) House(0.0) floor(0.0) .(0.0) Finally(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Kansas(1.0) ((0.0) 
+Mr.(0.0) Moore(1.0) )(0.0) for(1.0) his(0.0) hard(0.0) work(0.0) on(0.0) this(0.0) legislation(0.0) .(0.0) He(0.0) has(0.0) done(0.0) exemplary(0.0) work(0.0) throughout(0.0) his(0.0) 12(0.0) years(0.0) 
+here(0.0) in(0.0) this(0.0) body(0.0) ,(0.0) and(0.0) we(0.0) are(0.0) going(0.0) to(0.0) miss(0.0) his(0.0) spirit(0.0) and(0.0) commitment(1.0) of(0.0) working(0.0) in(0.0) a(0.0) bipartisan(1.0) 
+manner(0.0) ,(0.0) and(0.0) I(0.0) appreciate(0.0) his(0.0) friendship(0.0) as(0.0) well(0.0) .(0.0) I(0.0) ask(0.0) for(0.0) a(0.0) ``(0.0) yes(0.0) ''(0.0) vote(1.0) on(0.0) this(0.0) 
+bill(1.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	
+Eliminate	bill	reduce	burden	
+privacy	exemption	institutions	
+policies	
+law	banks	financial	institutions	
+
+legislation	financial	institutions	unnecessary	
+regulatory	burden	costs	junk	
+
+policy	Speaker	
+legislation	institutions	financial	
+privacy	policies	policy	banks	consumers	
+legislation	bill	allows	
+disclosure	prohibited	legislation	
+bipartisan	bipartisan	
+manner	legislation	Speaker	
+Frank	Bachus	legislation	
+Kansas	
+Moore	for	
+commitment	bipartisan	
+vote	
+bill	Speaker	
+
+reads % = 0.12211981566820276

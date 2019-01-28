@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) because(0.0) the(0.0) language(0.0) of(0.0) the(0.0) amendment(1.0) reads(0.0) as(0.0) it(0.0) does(0.0) ,(0.0) is(0.0) that(0.0) if(0.0) you(0.0) are(0.0) charged(0.0) in(0.0) a(0.0) 
+civil(1.0) suit(0.0) with(0.0) violation(1.0) of(0.0) wire(0.0) laws(1.0) ,(0.0) of(0.0) narcotics(1.0) ,(0.0) or(0.0) any(0.0) of(0.0) the(0.0) other(0.0) things(0.0) which(0.0) are(0.0) prohibited(1.0) 
+under(0.0) RICO(1.0) ,(0.0) you(0.0) had(0.0) better(0.0) make(0.0) darned(0.0) sure(0.0) that(0.0) you(0.0) have(0.0) been(0.0) involved(0.0) in(0.0) some(0.0) way(0.0) with(0.0) securities(1.0) ,(0.0) 
+because(0.0) then(0.0) you(0.0) get(0.0) a(0.0) wash(0.0) .(0.0) This(0.0) amendment(1.0) guts(1.0) RICO(1.0) .(0.0) It(0.0) guts(1.0) civil(1.0) suits(1.0) under(0.0) RICO(1.0) .(0.0) It(0.0) 
+should(0.0) be(0.0) rejected(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+amendment	
+civil	violation	laws	narcotics	prohibited	
+RICO	securities	
+amendment	guts	RICO	guts	civil	suits	RICO	
+rejected	
+
+reads % = 0.18823529411764706

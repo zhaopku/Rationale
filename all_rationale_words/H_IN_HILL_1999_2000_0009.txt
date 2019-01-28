@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) me(0.0) the(0.0) time(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) respect(0.0) thousands(1.0) of(0.0) family(0.0) farmers(1.0) 
+in(0.0) southern(1.0) Indiana(0.0) .(0.0) I(0.0) have(0.0) family(0.0) members(0.0) who(0.0) operate(0.0) family(0.0) farms(0.0) .(0.0) I(0.0) understand(0.0) how(0.0) the(0.0) estate(0.0) tax(0.0) can(1.0) 
+cause(0.0) a(0.0) lot(0.0) of(0.0) hardship(1.0) for(0.0) asset-rich(1.0) and(0.0) cash-(0.0) poor(0.0) family(0.0) farms(1.0) .(0.0) It(0.0) sometimes(0.0) can(0.0) prevent(0.0) farmers(1.0) from(0.0) passing(0.0) 
+their(0.0) farms(1.0) on(0.0) to(0.0) their(0.0) children(0.0) which(0.0) is(0.0) a(0.0) real(0.0) tragedy(0.0) .(0.0) I(0.0) support(0.0) the(0.0) substitute(1.0) to(0.0) this(0.0) bill(1.0) ,(0.0) 
+because(0.0) it(0.0) sends(0.0) immediate(0.0) estate(1.0) tax(0.0) relief(1.0) for(0.0) the(0.0) family(0.0) farmers(0.0) and(0.0) small(0.0) businesses(1.0) who(0.0) really(0.0) need(0.0) it(0.0) .(0.0) The(0.0) 
+majority(1.0) proposal(1.0) requires(1.0) farmers(1.0) and(0.0) small(0.0) businesses(1.0) to(0.0) wait(0.0) 10(0.0) years(0.0) for(0.0) estate(0.0) tax(0.0) relief(1.0) .(0.0) Family(0.0) farmers(1.0) and(0.0) small(0.0) 
+business(0.0) operators(0.0) need(0.0) estate(0.0) tax(0.0) relief(1.0) now(0.0) ,(0.0) not(0.0) 10(0.0) years(0.0) from(0.0) now(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) also(0.0) support(0.0) 
+the(0.0) substitute(1.0) to(0.0) H.R(0.0) .(0.0) 8(0.0) ,(0.0) because(0.0) unlike(0.0) the(0.0) Majority(1.0) proposal(1.0) ,(0.0) it(0.0) offers(0.0) estate(0.0) tax(0.0) relief(1.0) in(0.0) a(0.0) 
+fiscally(1.0) responsible(0.0) way(0.0) .(0.0) When(0.0) it(0.0) is(0.0) fully(0.0) implemented(0.0) ,(0.0) H.R(0.0) .(0.0) 8(0.0) will(0.0) costs(1.0) $(0.0) 50(0.0) billion(1.0) a(0.0) year(0.0) 
+which(0.0) threatens(1.0) our(0.0) hard-won(1.0) balanced(1.0) budget(1.0) .(0.0) I(0.0) believe(0.0) it(0.0) is(0.0) more(0.0) important(0.0) to(0.0) continue(0.0) paying(1.0) down(0.0) the(0.0) national(1.0) debt(1.0) 
+and(0.0) protecting(1.0) Social(1.0) Security(0.0) and(0.0) Medicare(1.0) than(0.0) giving(0.0) a(0.0) tax(1.0) break(1.0) to(1.0) people(1.0) whose(1.0) estates(1.0) are(0.0) worth(0.0) tens(1.0) or(0.0) even(0.0) 
+hundreds(0.0) of(0.0) millions(1.0) of(0.0) dollars(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) the(0.0) substitute(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	thousands	farmers	
+southern	can	
+hardship	asset-rich	farms	farmers	
+farms	substitute	bill	
+estate	relief	businesses	
+majority	proposal	requires	farmers	businesses	relief	farmers	
+relief	Speaker	
+substitute	Majority	proposal	relief	
+fiscally	costs	billion	
+threatens	hard-won	balanced	budget	paying	national	debt	
+protecting	Social	Medicare	tax	break	to	people	whose	estates	tens	
+millions	dollars	Speaker	substitute	
+
+reads % = 0.2175732217573222

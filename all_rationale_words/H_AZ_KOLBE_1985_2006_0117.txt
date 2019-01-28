@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) ,(0.0) and(0.0) I(0.0) rise(0.0) in(0.0) opposition(1.0) to(0.0) the(0.0) amendment(1.0) ,(0.0) not(0.0) to(0.0) speak(0.0) 
+against(0.0) Amtrak(1.0) ,(0.0) but(0.0) really(0.0) where(0.0) these(0.0) funds(1.0) would(0.0) come(0.0) from(0.0) .(0.0) As(0.0) the(0.0) previous(0.0) speaker(0.0) under(0.0) Mr.(0.0) Knollenberg(1.0) 's(0.0) 
+time(0.0) ,(0.0) Mr.(0.0) Culberson(1.0) said(1.0) it(1.0) comes(0.0) out(0.0) of(0.0) our(0.0) border(1.0) security(0.0) infrastructure(0.0) .(0.0) Much(0.0) of(0.0) that(0.0) is(0.0) right(0.0) in(0.0) 
+the(0.0) heart(0.0) of(0.0) Arizona(1.0) .(0.0) The(0.0) Nogales/Mariposa(0.0) Port(0.0) of(0.0) Entry(1.0) and(0.0) the(0.0) San(1.0) Luis(0.0) Port(1.0) of(0.0) Entry(0.0) are(0.0) located(0.0) on(0.0) 
+the(0.0) Arizona-Mexico(0.0) border(0.0) ,(0.0) not(0.0) in(0.0) my(0.0) district(0.0) ,(0.0) but(0.0) in(0.0) the(0.0) area(0.0) and(0.0) will(0.0) enhance(0.0) security(0.0) while(0.0) promoting(1.0) economic(1.0) 
+development(0.0) and(0.0) improving(0.0) the(0.0) quality(0.0) of(0.0) life(0.0) in(0.0) the(0.0) border(0.0) region(0.0) .(0.0) The(0.0) first(0.0) project(0.0) is(0.0) the(0.0) reconfiguration(1.0) of(0.0) the(0.0) 
+Nogales/Mariposa(0.0) Port(0.0) of(0.0) Entry(0.0) .(0.0) It(0.0) is(0.0) the(0.0) principal(0.0) commercial(0.0) crossing(0.0) on(0.0) the(0.0) southern(0.0) border(0.0) during(0.0) much(0.0) of(0.0) the(0.0) year(0.0) 
+.(0.0) It(0.0) processes(0.0) half(0.0) of(0.0) all(0.0) the(0.0) winter(0.0) fruits(0.0) and(0.0) vegetables(0.0) entering(0.0) the(0.0) United(0.0) States(0.0) .(0.0) It(0.0) was(0.0) built(0.0) in(0.0) 
+the(0.0) 1970s(1.0) ,(0.0) and(0.0) it(0.0) was(0.0) never(0.0) built(0.0) to(0.0) handle(0.0) the(0.0) volume(0.0) of(0.0) traffic(0.0) it(0.0) now(0.0) receives(0.0) .(0.0) During(0.0) the(0.0) 
+peak(0.0) season(0.0) ,(0.0) it(0.0) is(0.0) absolutely(0.0) overwhelmed(0.0) .(0.0) Trucks(0.0) line(0.0) up(0.0) for(0.0) hours(0.0) and(0.0) miles(0.0) and(0.0) miles(0.0) and(0.0) miles(0.0) into(0.0) 
+Mexico(1.0) waiting(0.0) to(0.0) cross(0.0) .(0.0) In(0.0) addition(0.0) the(0.0) post-9/11(0.0) requirements(0.0) of(0.0) the(0.0) Bioterrorism(1.0) Act(0.0) and(0.0) other(0.0) security(0.0) measures(0.0) have(0.0) added(0.0) 
+to(0.0) the(0.0) congestion(1.0) of(0.0) the(0.0) port(0.0) .(0.0) This(0.0) is(0.0) a(0.0) project(0.0) that(0.0) would(0.0) be(0.0) cut(0.0) under(0.0) this(0.0) amendment(1.0) .(0.0) The(0.0) 
+second(0.0) project(0.0) is(0.0) the(0.0) construction(0.0) of(0.0) the(0.0) new(0.0) port(0.0) of(0.0) entry(0.0) at(0.0) San(1.0) Luis(0.0) ,(0.0) and(0.0) that(0.0) is(0.0) the(0.0) highest(0.0) 
+priority(1.0) on(0.0) the(0.0) southern(0.0) border(0.0) and(0.0) President(0.0) 's(0.0) requested(0.0) $(0.0) 42(0.0) million(0.0) .(0.0) I(0.0) urge(0.0) that(0.0) we(0.0) defeat(1.0) this(0.0) amendment(1.0) 
+because(0.0) of(0.0) where(0.0) the(0.0) funds(1.0) are(0.0) being(0.0) taken(0.0) from(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) rise(0.0) in(0.0) opposition(1.0) to(0.0) this(0.0) amendment(1.0) 
+because(0.0) the(0.0) funding(1.0) it(0.0) would(0.0) remove(0.0) from(0.0) the(0.0) bill(1.0) would(1.0) be(0.0) terribly(0.0) detrimental(1.0) to(0.0) our(0.0) border(1.0) security(0.0) infrastructure(0.0) ,(0.0) at(0.0) 
+precisely(0.0) the(0.0) time(0.0) when(0.0) we(0.0) are(0.0) finally(0.0) turning(0.0) our(0.0) attention(0.0) towards(0.0) fixing(1.0) our(0.0) border(1.0) and(0.0) stopping(0.0) illegal(1.0) immigration(1.0) .(0.0) The(0.0) 
+Nogales/Mariposa(0.0) Port(0.0) of(0.0) Entry(0.0) and(0.0) San(1.0) Luis(0.0) Port(1.0) of(0.0) Entry(0.0) are(0.0) located(0.0) on(0.0) the(0.0) Arizona-Mexico(1.0) border(0.0) and(0.0) will(0.0) enhance(0.0) security(0.0) 
+while(0.0) promoting(1.0) economic(1.0) development(0.0) and(0.0) improving(0.0) the(0.0) quality(0.0) of(0.0) life(0.0) in(0.0) the(0.0) border(1.0) region(0.0) and(0.0) across(0.0) the(0.0) country(1.0) .(0.0) The(0.0) 
+first(0.0) project(0.0) is(0.0) the(0.0) reconfiguration(1.0) of(0.0) the(0.0) Nogales/Mariposa(0.0) Port(0.0) of(0.0) Entry(0.0) to(0.0) expand(0.0) the(0.0) port(0.0) and(0.0) enhance(0.0) border(0.0) security(0.0) .(0.0) 
+Mariposa(0.0) is(0.0) one(0.0) of(0.0) the(0.0) principal(0.0) commercial(0.0) crossings(0.0) on(0.0) the(0.0) southern(0.0) border(0.0) ;(0.0) it(0.0) processes(0.0) half(0.0) of(0.0) the(0.0) winter(0.0) fruits(0.0) 
+and(0.0) vegetables(0.0) entering(0.0) the(0.0) United(0.0) States(0.0) .(0.0) Built(0.0) in(0.0) the(0.0) 1970(1.0) 's(0.0) ,(0.0) Mariposa(0.0) was(0.0) never(0.0) intended(0.0) to(0.0) handle(0.0) the(0.0) 
+volume(0.0) of(0.0) traffic(0.0) it(0.0) now(0.0) receives(0.0) .(0.0) During(0.0) the(0.0) peak(0.0) season(0.0) ,(0.0) it(0.0) is(0.0) overwhelmed(0.0) ,(0.0) as(0.0) trucks(0.0) line(0.0) up(0.0) 
+for(0.0) miles(0.0) and(0.0) wait(0.0) many(0.0) hours(0.0) to(0.0) cross(0.0) .(0.0) In(0.0) addition(0.0) ,(0.0) the(0.0) new(0.0) post(0.0) 9/11(1.0) requirements(1.0) under(0.0) the(0.0) Bioterrorism(1.0) 
+Act(0.0) and(0.0) other(0.0) security(0.0) measures(0.0) have(0.0) added(0.0) to(0.0) the(0.0) congestion(1.0) at(0.0) the(0.0) port(0.0) .(0.0) U.S.(0.0) Customs(0.0) and(0.0) Border(0.0) Protection(0.0) 
+
+
+----- below are rationale words -----
+
+opposition	amendment	
+Amtrak	funds	Knollenberg	
+Culberson	said	it	border	
+Arizona	Entry	San	Port	
+promoting	economic	
+reconfiguration	
+
+
+1970s	
+
+Mexico	Bioterrorism	
+congestion	amendment	
+San	
+priority	defeat	amendment	
+funds	Chairman	opposition	amendment	
+funding	bill	would	detrimental	border	
+fixing	border	illegal	immigration	
+San	Port	Arizona-Mexico	
+promoting	economic	border	country	
+reconfiguration	
+
+1970	
+
+9/11	requirements	Bioterrorism	
+congestion	
+
+reads % = 0.102

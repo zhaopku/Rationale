@@ -1,0 +1,10 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) and(0.0) now(0.0) from(0.0) Minnesota(1.0) ,(0.0) another(0.0) leader(0.0) on(0.0) many(0.0) of(0.0) these(0.0) issues(0.0) ,(0.0) Congresswoman(1.0) Michele(1.0) Bachmann(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Minnesota	Congresswoman	Michele	Bachmann	
+
+reads % = 0.21052631578947367

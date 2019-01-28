@@ -1,0 +1,24 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) yesterday(0.0) the(0.0) United(0.0) States(0.0) Senate(1.0) took(1.0) a(0.0) small(1.0) but(0.0) important(0.0) step(0.0) towards(0.0) restoring(1.0) some(0.0) accountability(1.0) to(0.0) our(0.0) elections(1.0) system(0.0) 
+.(0.0) We(0.0) have(0.0) a(0.0) chance(0.0) today(1.0) to(0.0) match(0.0) that(0.0) step(0.0) with(0.0) one(0.0) of(0.0) our(0.0) own(0.0) .(0.0) We(0.0) can(0.0) not(0.0) afford(0.0) 
+to(0.0) wait(0.0) .(0.0) The(0.0) election(1.0) season(0.0) is(0.0) already(0.0) upon(0.0) us(0.0) .(0.0) There(1.0) are(0.0) millions(1.0) and(0.0) millions(1.0) of(0.0) dollars(0.0) being(0.0) raised(0.0) 
+and(0.0) the(0.0) public(0.0) has(0.0) no(1.0) idea(1.0) where(0.0) it(0.0) is(0.0) coming(0.0) from(0.0) .(0.0) We(1.0) have(0.0) to(0.0) stop(0.0) this(0.0) corrupt(1.0) system(0.0) of(0.0) 
+raising(1.0) money(1.0) and(0.0) having(0.0) no(0.0) one(0.0) know(1.0) where(0.0) it(0.0) comes(0.0) from(0.0) .(0.0) The(0.0) opportunity(0.0) is(0.0) now(0.0) .(0.0) Now(0.0) is(0.0) when(0.0) 
+we(0.0) need(0.0) to(0.0) change(0.0) this(0.0) system(0.0) .(0.0) Let(1.0) us(0.0) match(0.0) step(0.0) with(0.0) the(0.0) other(0.0) body(0.0) and(0.0) send(0.0) a(0.0) message(0.0) across(0.0) 
+America(0.0) that(0.0) whoever(1.0) contributes(1.0) to(0.0) campaigns(0.0) in(0.0) America(0.0) in(0.0) this(0.0) cycle(1.0) ,(0.0) the(0.0) American(0.0) people(0.0) are(0.0) going(0.0) to(0.0) know(0.0) where(0.0) 
+that(0.0) money(1.0) came(0.0) from(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Senate	took	small	restoring	accountability	elections	
+today	
+election	There	millions	millions	
+no	idea	We	corrupt	
+raising	money	know	
+Let	
+whoever	contributes	cycle	
+money	
+
+reads % = 0.15753424657534246

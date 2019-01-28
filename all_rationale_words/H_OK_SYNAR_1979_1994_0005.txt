@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) to(0.0) support(0.0) the(0.0) final(0.0) passage(0.0) of(0.0) H.R(0.0) .(0.0) 6(0.0) ,(0.0) the(0.0) Improving(0.0) America(0.0) 's(0.0) Schools(0.0) Act(0.0) 
+.(0.0) This(0.0) legislation(1.0) will(0.0) greatly(0.0) improve(0.0) teaching(0.0) and(0.0) learning(0.0) in(0.0) our(0.0) public(1.0) schools(1.0) at(0.0) a(0.0) time(0.0) when(0.0) it(0.0) is(0.0) critical(0.0) 
+for(0.0) our(0.0) Nation(1.0) to(0.0) keep(0.0) pace(0.0) with(0.0) the(0.0) educational(1.0) prowess(0.0) of(0.0) our(0.0) international(0.0) competitors(0.0) .(0.0) H.R(0.0) .(0.0) 6(0.0) meets(0.0) this(0.0) 
+challenge(0.0) by(0.0) encouraging(0.0) States(0.0) to(0.0) develop(0.0) improved(0.0) curricula(1.0) tied(0.0) to(0.0) internationally(0.0) competitive(0.0) academic(0.0) and(0.0) workforce(0.0) standards(1.0) ,(0.0) promoting(1.0) enhancements(0.0) of(0.0) 
+instruction(0.0) and(0.0) by(0.0) fostering(1.0) both(0.0) professional(0.0) development(0.0) and(0.0) greater(0.0) family(0.0) and(0.0) community(0.0) involvement(0.0) in(0.0) schools(1.0) .(0.0) The(0.0) innovative(0.0) approach(0.0) to(0.0) 
+education(1.0) reform(1.0) embodied(1.0) in(0.0) H.R(0.0) .(0.0) 6(0.0) is(0.0) long(0.0) overdue(1.0) .(0.0) Studies(0.0) have(0.0) shown(0.0) that(0.0) while(0.0) our(0.0) economy(1.0) ,(0.0) society(1.0) 
+and(0.0) families(0.0) have(0.0) undergone(0.0) dramatic(0.0) changes(0.0) ,(0.0) schools(1.0) and(0.0) instruction(0.0) programs(1.0) have(0.0) remained(0.0) stagnant(0.0) .(0.0) Long-term(0.0) improvement(0.0) in(0.0) public(1.0) education(1.0) 
+will(0.0) only(0.0) occur(0.0) if(0.0) states(1.0) ,(0.0) local(0.0) school(0.0) districts(0.0) and(0.0) individual(0.0) schools(1.0) work(0.0) together(0.0) to(0.0) achieve(0.0) reform(1.0) .(0.0) H.R(0.0) .(0.0) 
+6(0.0) promotes(1.0) this(0.0) approach(0.0) by(0.0) creating(0.0) a(0.0) fully(0.0) coordinated(0.0) effort(0.0) designed(0.0) to(0.0) produce(0.0) a(0.0) well-qualified(0.0) and(0.0) well-trained(0.0) workforce(0.0) that(0.0) will(0.0) 
+meet(0.0) both(0.0) the(0.0) increasingly(0.0) complex(0.0) and(0.0) rapid(0.0) technological(1.0) challenges(0.0) and(0.0) the(0.0) ever-growing(1.0) aggressive(0.0) competition(0.0) of(0.0) our(0.0) international(1.0) rivals(0.0) .(0.0) During(0.0) 
+the(0.0) opening(0.0) days(0.0) of(0.0) debate(1.0) on(0.0) H.R(0.0) .(0.0) 6(0.0) ,(0.0) my(0.0) attendance(0.0) was(0.0) required(0.0) in(0.0) Oklahoma(1.0) and(0.0) I(0.0) was(0.0) unable(0.0) 
+to(0.0) vote(1.0) on(0.0) two(0.0) important(0.0) home(0.0) schooling(1.0) amendments(1.0) offered(0.0) by(0.0) Education(0.0) and(0.0) Labor(1.0) Committee(0.0) Chairman(0.0) Ford(1.0) and(0.0) Congressman(0.0) Armey(1.0) .(0.0) 
+Had(0.0) I(0.0) been(0.0) present(0.0) ,(0.0) I(0.0) would(0.0) have(0.0) voted(0.0) for(0.0) Congressman(1.0) Ford(1.0) 's(0.0) amendment(1.0) and(0.0) opposed(0.0) the(0.0) Armey(1.0) amendment(1.0) .(0.0) 
+The(0.0) amendment(1.0) by(0.0) Mr.(0.0) Ford(1.0) deleted(1.0) language(0.0) in(0.0) H.R(0.0) .(0.0) 6(0.0) which(0.0) required(0.0) each(0.0) local(0.0) educational(0.0) agency(0.0) within(0.0) a(0.0) State(0.0) 
+to(0.0) certify(0.0) each(0.0) full-time(0.0) teacher(0.0) within(0.0) the(0.0) agency(0.0) 's(0.0) jurisdiction(0.0) .(0.0) I(0.0) believe(0.0) that(0.0) the(0.0) removal(0.0) of(0.0) the(0.0) certification(0.0) language(0.0) 
+,(0.0) and(0.0) the(0.0) addition(0.0) of(0.0) language(0.0) which(0.0) specifies(0.0) that(0.0) nothing(0.0) in(0.0) the(0.0) bill(0.0) impacts(1.0) home(0.0) schools(1.0) ,(0.0) addresses(0.0) the(0.0) concerns(0.0) 
+of(0.0) the(0.0) home(0.0) school(0.0) supporters(0.0) in(0.0) my(0.0) district(0.0) in(0.0) a(0.0) constructive(0.0) manner(0.0) that(0.0) maintains(0.0) the(0.0) overall(0.0) integrity(0.0) of(0.0) the(0.0) legislation(1.0) 
+.(0.0) While(0.0) I(0.0) recognize(0.0) the(0.0) environment(0.0) in(0.0) which(0.0) the(0.0) Ford(0.0) amendment(1.0) was(0.0) offered(0.0) and(0.0) support(0.0) its(0.0) adoption(1.0) ,(0.0) I(0.0) also(0.0) 
+believe(0.0) that(0.0) if(0.0) we(0.0) are(0.0) to(0.0) improve(0.0) our(0.0) public(1.0) school(0.0) education(1.0) we(0.0) must(0.0) ensure(0.0) that(0.0) students(0.0) are(0.0) taught(0.0) by(0.0) qualified(0.0) 
+teachers(0.0) and(0.0) it(0.0) is(0.0) my(0.0) hope(0.0) that(0.0) all(0.0) public(1.0) school(0.0) teachers(0.0) will(0.0) soon(0.0) be(0.0) certified(0.0) in(0.0) the(0.0) subject(0.0) they(0.0) teach(0.0) 
+.(0.0) I(0.0) oppose(1.0) Congressman(1.0) Armey(1.0) 's(1.0) proposal(1.0) ,(1.0) known(1.0) as(1.0) the(0.0) home(0.0) school/(0.0) private(0.0) schools(1.0) freedom(1.0) amendment(1.0) ,(0.0) because(0.0) it(0.0) 
+contains(0.0) overbroad(1.0) language(0.0) that(0.0) could(0.0) unintentionally(0.0) restrict(1.0) the(0.0) participation(1.0) of(0.0) home(0.0) schools(1.0) ,(0.0) parochial(1.0) schools(1.0) and(0.0) private(0.0) schools(0.0) in(0.0) H.R(0.0) 
+.(0.0) 6(0.0) programs(1.0) .(0.0) After(0.0) careful(0.0) study(0.0) ,(0.0) I(0.0) am(0.0) in(0.0) agreement(0.0) with(0.0) groups(0.0) such(0.0) as(0.0) the(0.0) Catholic(1.0) Coalition(1.0) and(0.0) 
+the(0.0) Seventh(1.0) Day(0.0) Adventists(1.0) ,(0.0) both(0.0) of(0.0) which(0.0) support(0.0) extensive(0.0) parochial(1.0) school(0.0) education(1.0) ,(0.0) that(0.0) believe(0.0) the(0.0) Ford(1.0) amendment(1.0) adequately(1.0) 
+addresses(0.0) the(0.0) concerns(1.0) that(0.0) were(0.0) raised(0.0) by(0.0) home(0.0) school(0.0) supporters(0.0) without(0.0) creating(0.0) more(0.0) potential(0.0) problems(0.0) by(0.0) denying(1.0) nonpublic(1.0) schools(1.0) 
+
+
+----- below are rationale words -----
+
+
+legislation	public	schools	
+Nation	educational	
+curricula	standards	promoting	
+fostering	schools	
+education	reform	embodied	overdue	economy	society	
+schools	programs	public	education	
+states	schools	reform	
+promotes	
+technological	ever-growing	international	
+debate	Oklahoma	
+vote	schooling	amendments	Labor	Ford	Armey	
+Congressman	Ford	amendment	Armey	amendment	
+amendment	Ford	deleted	
+
+impacts	schools	
+legislation	
+amendment	adoption	
+public	education	
+public	
+oppose	Congressman	Armey	's	proposal	,	known	as	schools	freedom	amendment	
+overbroad	restrict	participation	schools	parochial	schools	
+programs	Catholic	Coalition	
+Seventh	Adventists	parochial	education	Ford	amendment	adequately	
+concerns	denying	nonpublic	schools	
+
+reads % = 0.164

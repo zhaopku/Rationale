@@ -1,0 +1,24 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) H.R(0.0) .(0.0) 1593(0.0) will(0.0) designate(0.0) segments(0.0) of(0.0) the(0.0) Illabot(0.0) 
+Creek(0.0) in(0.0) Skagit(1.0) County(0.0) ,(0.0) Washington(1.0) ,(0.0) as(0.0) a(0.0) component(0.0) of(0.0) the(0.0) National(0.0) Wild(0.0) and(0.0) Scenic(0.0) Rivers(0.0) System(0.0) .(0.0) The(0.0) 
+area(0.0) being(0.0) designated(0.0) is(0.0) located(0.0) within(0.0) the(0.0) Baker-(0.0) Snoqualmie(0.0) National(0.0) Forest(0.0) .(0.0) The(0.0) total(0.0) designated(0.0) is(0.0) 14.3(0.0) miles(0.0) in(0.0) two(0.0) 
+separate(0.0) segments(0.0) .(0.0) Although(0.0) I(0.0) personally(0.0) do(0.0) not(0.0) believe(0.0) a(0.0) wild(0.0) and(0.0) scenic(0.0) designation(0.0) is(0.0) necessarily(0.0) the(0.0) best(0.0) way(0.0) to(0.0) 
+manage(0.0) our(0.0) river(0.0) resources(0.0) in(0.0) every(0.0) instance(0.0) ,(0.0) I(0.0) understand(0.0) that(0.0) this(0.0) bill(1.0) excludes(1.0) a(0.0) section(0.0) of(0.0) the(0.0) river(0.0) crossed(0.0) 
+by(0.0) a(0.0) needed(0.0) road(0.0) and(0.0) now(0.0) has(0.0) local(0.0) support(0.0) .(0.0) I(0.0) do(0.0) not(0.0) object(0.0) at(0.0) this(0.0) time(0.0) to(0.0) the(0.0) passage(1.0) 
+of(0.0) this(0.0) legislation(1.0) .(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+
+Skagit	Washington	
+
+
+bill	excludes	
+passage	
+legislation	
+
+
+reads % = 0.04225352112676056

@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) pass(0.0) the(0.0) Senate(0.0) bill(0.0) ((1.0) S.(0.0) 604(1.0) )(0.0) to(0.0) direct(0.0) the(0.0) Secretary(0.0) 
+of(0.0) Agriculture(0.0) to(0.0) complete(0.0) a(0.0) land(0.0) exchange(0.0) with(0.0) Georgia(0.0) Power(0.0) Company(0.0) .(0.0) The(0.0) Clerk(0.0) read(0.0) as(0.0) follows(0.0) :(0.0) S.(0.0) 604(0.0) 
+Be(0.0) it(0.0) enacted(0.0) by(0.0) the(0.0) Senate(0.0) and(0.0) House(0.0) of(0.0) Representatives(0.0) of(0.0) the(0.0) United(0.0) States(0.0) of(0.0) America(0.0) in(0.0) Congress(0.0) assembled(0.0) ,(0.0) 
+SECTION(0.0) 1(0.0) .(0.0) SHORT(0.0) TITLE(0.0) .(0.0) This(0.0) Act(0.0) may(0.0) be(0.0) cited(0.0) as(0.0) the(0.0) ``(0.0) Lake(0.0) Oconee(0.0) Land(0.0) Exchange(0.0) Act(0.0) ''(0.0) 
+.(0.0) SEC(0.0) .(0.0) 2(0.0) .(0.0) LAKE(0.0) OCONEE(0.0) LAND(0.0) EXCHANGE(0.0) .(0.0) ((0.0) a(0.0) )(0.0) Definitions.(0.0) --(0.0) In(0.0) this(0.0) section(0.0) :(0.0) ((0.0) 
+1(0.0) )(0.0) Description(0.0) of(0.0) the(0.0) boundary.(0.0) --(0.0) The(0.0) term(0.0) ``(0.0) description(0.0) of(0.0) the(0.0) boundary(0.0) ''(0.0) means(0.0) the(0.0) documents(0.0) entitled(0.0) ``(0.0) 
+Description(0.0) of(0.0) the(0.0) Boundary(0.0) ''(0.0) dated(0.0) September(0.0) 6(0.0) ,(0.0) 1996(0.0) ,(0.0) prepared(0.0) by(0.0) the(0.0) Forest(0.0) Service(0.0) and(0.0) on(0.0) file(0.0) with(0.0) 
+the(0.0) Secretary(0.0) .(0.0) ((0.0) 2(0.0) )(0.0) Exchange(0.0) agreement.(0.0) --(0.0) The(0.0) term(0.0) ``(0.0) exchange(0.0) agreement(0.0) ''(0.0) means(0.0) the(0.0) agreement(0.0) between(0.0) Georgia(0.0) 
+Power(0.0) Company(0.0) and(0.0) the(0.0) Forest(0.0) Service(0.0) dated(0.0) December(0.0) 26(0.0) ,(0.0) 1996(0.0) ,(0.0) as(0.0) amended(0.0) on(0.0) August(0.0) 17(0.0) ,(0.0) 1998(0.0) ,(0.0) 
+on(0.0) file(0.0) with(0.0) the(0.0) Secretary(0.0) .(0.0) ((0.0) 3(0.0) )(0.0) Georgia(0.0) power(0.0) company.(0.0) --(0.0) The(0.0) term(0.0) ``(0.0) Georgia(0.0) Power(0.0) Company(0.0) ''(0.0) 
+means(0.0) Georgia(0.0) Power(0.0) Company(0.0) ,(0.0) a(0.0) division(0.0) of(0.0) the(0.0) Southern(0.0) Company(0.0) ,(0.0) a(0.0) Georgia(0.0) corporation(0.0) ,(0.0) or(0.0) its(0.0) successors(0.0) or(0.0) 
+assigns(0.0) .(0.0) ((0.0) 4(0.0) )(0.0) Secretary.(0.0) --(0.0) The(0.0) term(0.0) ``(0.0) Secretary(0.0) ''(0.0) means(0.0) the(0.0) Secretary(0.0) of(0.0) Agriculture(0.0) .(0.0) ((0.0) b(0.0) 
+)(0.0) Land(0.0) Exchange.(0.0) --(0.0) ((0.0) 1(0.0) )(0.0) In(0.0) general.(0.0) --(0.0) Simultaneously(0.0) with(0.0) conveyance(0.0) by(0.0) Georgia(1.0) Power(0.0) Company(0.0) to(0.0) the(0.0) Secretary(0.0) 
+of(0.0) all(0.0) right(0.0) ,(0.0) title(0.0) ,(0.0) and(0.0) interest(0.0) in(0.0) and(0.0) to(0.0) the(0.0) land(0.0) described(0.0) in(0.0) paragraph(0.0) ((0.0) 2(0.0) )(0.0) ,(0.0) 
+the(0.0) Secretary(0.0) shall(0.0) --(0.0) ((0.0) A(0.0) )(0.0) convey(0.0) to(0.0) Georgia(0.0) Power(0.0) Company(0.0) all(0.0) right(0.0) ,(0.0) title(0.0) ,(0.0) and(0.0) interest(0.0) in(0.0) 
+and(0.0) to(0.0) the(0.0) land(0.0) described(0.0) in(0.0) paragraph(0.0) ((0.0) 3(0.0) )(0.0) ,(0.0) except(0.0) as(0.0) provided(0.0) in(0.0) the(0.0) exchange(0.0) agreement(0.0) ;(0.0) and(0.0) 
+((0.0) B(0.0) )(0.0) make(0.0) a(0.0) value(0.0) equalization(0.0) payment(0.0) of(0.0) $(0.0) 23,250(0.0) to(0.0) Georgia(0.0) Power(0.0) Company(0.0) .(0.0) ((0.0) 2(0.0) )(0.0) Land(0.0) 
+to(0.0) be(0.0) conveyed(0.0) to(0.0) the(0.0) secretary.(0.0) --(0.0) The(0.0) land(0.0) described(0.0) in(0.0) this(0.0) paragraph(0.0) is(0.0) the(0.0) land(0.0) within(0.0) or(0.0) near(0.0) the(0.0) 
+Chattahoochee(0.0) National(0.0) Forest(0.0) and(0.0) Oconee(0.0) National(0.0) Forest(0.0) in(0.0) the(0.0) State(0.0) of(0.0) Georgia(0.0) ,(0.0) comprising(0.0) approximately(0.0) 1,175.46(0.0) acres(0.0) ,(0.0) described(0.0) in(0.0) 
+the(0.0) exchange(0.0) agreement(0.0) and(0.0) the(0.0) description(0.0) of(0.0) the(0.0) boundary(0.0) .(0.0) ((0.0) 3(0.0) )(0.0) Land(0.0) to(0.0) be(0.0) conveyed(0.0) to(0.0) georgia(0.0) power(0.0) 
+company.(0.0) --(0.0) The(0.0) land(0.0) described(0.0) in(0.0) this(0.0) paragraph(0.0) is(0.0) the(0.0) land(0.0) in(0.0) the(0.0) State(0.0) of(0.0) Georgia(0.0) ,(0.0) comprising(0.0) approximately(0.0) 1,275.80(0.0) 
+acres(0.0) ,(0.0) described(0.0) in(0.0) the(0.0) exchange(0.0) agreement(0.0) and(0.0) the(0.0) description(0.0) of(0.0) the(0.0) boundary(0.0) .(0.0) ((0.0) c(0.0) )(0.0) Partial(0.0) Revocation(0.0) of(0.0) 
+Withdrawals.(0.0) --(0.0) ((0.0) 1(0.0) )(0.0) In(0.0) general.(0.0) --(0.0) The(0.0) orders(0.0) issued(0.0) by(0.0) the(0.0) Federal(0.0) Energy(0.0) Regulatory(0.0) Commission(0.0) under(0.0) section(0.0) 24(0.0) 
+of(0.0) the(0.0) Federal(0.0) Power(0.0) Act(0.0) ((0.0) 16(0.0) U.S.C(0.0) .(0.0) 818(0.0) )(0.0) ,(0.0) authorizing(0.0) Power(0.0) Project(0.0) Numbers(0.0) 2413(0.0) and(0.0) 2354(0.0) ,(0.0) 
+issued(0.0) August(0.0) 6(0.0) ,(0.0) 1969(0.0) ,(0.0) and(0.0) October(0.0) 1(0.0) ,(0.0) 1996(0.0) ,(0.0) respectively(0.0) ,(0.0) are(0.0) revoked(0.0) insofar(0.0) as(0.0) the(0.0) 
+
+
+----- below are rationale words -----
+
+(	604	
+
+
+
+
+
+
+
+
+
+
+
+Georgia	
+
+
+
+
+
+
+
+
+
+
+
+
+
+reads % = 0.006

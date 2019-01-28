@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+((0.0) Mr.(0.0) SABO(1.0) asked(0.0) and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) )(0.0) Let(0.0) me(0.0) commend(0.0) the(0.0) Chair(0.0) 
+,(0.0) the(0.0) gentleman(0.0) from(0.0) Virginia(1.0) ((0.0) Mr.(0.0) Wolf(1.0) )(0.0) on(1.0) his(0.0) 6(0.0) years(0.0) of(0.0) chairing(0.0) this(0.0) subcommittee(0.0) .(0.0) He(0.0) has(0.0) 
+done(0.0) an(0.0) outstanding(0.0) job(0.0) in(0.0) that(0.0) role(0.0) ,(0.0) and(0.0) I(0.0) have(0.0) enjoyed(0.0) working(0.0) with(0.0) him(0.0) these(0.0) last(0.0) 4(0.0) years(0.0) as(0.0) 
+ranking(0.0) member(0.0) .(0.0) He(0.0) has(0.0) been(0.0) fair(0.0) .(0.0) On(0.0) the(0.0) other(0.0) hand(0.0) ,(0.0) he(0.0) has(0.0) been(0.0) thoughtful(0.0) and(0.0) tough(0.0) when(0.0) 
+he(0.0) needs(0.0) to(0.0) be(0.0) ,(0.0) he(0.0) asks(0.0) appropriate(0.0) tough(0.0) questions(0.0) ,(0.0) and(0.0) it(0.0) has(0.0) been(0.0) a(0.0) privilege(0.0) to(0.0) work(0.0) with(0.0) 
+the(0.0) gentleman(0.0) these(0.0) last(0.0) 4(0.0) years(0.0) as(0.0) ranking(0.0) member(0.0) ,(0.0) and(0.0) as(0.0) a(0.0) member(0.0) of(0.0) the(0.0) subcommittee(0.0) for(0.0) the(0.0) 6(0.0) 
+years(0.0) he(0.0) has(0.0) chaired(0.0) as(0.0) subcommittee(0.0) chair(0.0) .(0.0) This(0.0) is(0.0) the(0.0) last(0.0) bill(0.0) he(0.0) brings(0.0) to(0.0) the(0.0) House(0.0) floor(0.0) ,(0.0) 
+and(0.0) it(0.0) is(0.0) another(0.0) good(0.0) ,(0.0) fair(1.0) bill(1.0) ,(0.0) and(0.0) we(0.0) should(0.0) pass(0.0) it(0.0) .(0.0) Let(0.0) me(0.0) join(0.0) my(0.0) friend(0.0) 
+the(0.0) gentleman(0.0) from(0.0) Virginia(1.0) ((0.0) Mr.(0.0) Wolf(1.0) )(0.0) in(1.0) thanking(0.0) all(0.0) the(0.0) staff(0.0) that(0.0) has(0.0) worked(0.0) on(0.0) this(0.0) bill(0.0) .(0.0) 
+It(0.0) is(0.0) a(0.0) complicated(0.0) bill(0.0) ,(0.0) many(0.0) decisions(0.0) to(0.0) be(0.0) made(0.0) ,(0.0) and(0.0) both(0.0) majority(1.0) and(0.0) minority(1.0) staff(0.0) do(0.0) an(0.0) 
+outstanding(0.0) job(0.0) .(0.0) I(0.0) thank(0.0) them(0.0) for(0.0) it(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+SABO	
+Virginia	Wolf	on	
+
+
+
+
+
+fair	bill	
+Virginia	Wolf	in	
+majority	minority	
+Chairman	
+
+
+reads % = 0.05429864253393665

@@ -1,0 +1,36 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Chairman(0.0) ,(0.0) I(0.0) yield(0.0) 1(0.0) minute(0.0) to(0.0) the(0.0) distinguished(0.0) gentlewoman(0.0) from(0.0) Colorado(0.0) ((0.0) Ms.(1.0) DeGette(1.0) )(0.0) .(0.0) Ms.(1.0) DeGETTE(0.0) .(0.0) 
+Madam(0.0) Chairman(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) me(0.0) the(0.0) time(0.0) .(0.0) Madam(0.0) Chairman(1.0) ,(0.0) I(0.0) am(0.0) in(0.0) strong(0.0) 
+support(0.0) of(0.0) the(0.0) manager(0.0) 's(0.0) amendment(1.0) ,(0.0) primarily(0.0) because(0.0) of(0.0) the(0.0) numerous(0.0) consumer(0.0) protection(0.0) provisions(1.0) that(0.0) it(0.0) contains(0.0) .(0.0) I(0.0) 
+am(0.0) particularly(0.0) concerned(0.0) about(0.0) preservation(1.0) of(0.0) the(0.0) community(0.0) services(0.0) that(0.0) are(0.0) intended(0.0) by(0.0) the(0.0) Community(0.0) Reinvestment(1.0) Act(0.0) .(0.0) The(0.0) Community(0.0) 
+Reinvestment(1.0) Act(0.0) is(0.0) vitally(0.0) important(0.0) to(0.0) many(0.0) ,(0.0) many(0.0) areas(0.0) in(0.0) this(0.0) country(1.0) .(0.0) In(0.0) my(0.0) district(0.0) in(0.0) Denver(1.0) ,(0.0) 
+for(0.0) example(0.0) ,(0.0) the(0.0) Community(0.0) Reinvestment(1.0) Act(0.0) has(0.0) been(0.0) used(0.0) to(0.0) revitalize(1.0) our(0.0) local(0.0) urban(1.0) economy(1.0) .(0.0) I(0.0) was(0.0) concerned(0.0) 
+in(0.0) the(0.0) underlying(0.0) bill(1.0) that(0.0) because(0.0) of(0.0) the(0.0) structuring(0.0) ,(0.0) that(0.0) the(0.0) Community(0.0) Reinvestment(1.0) Act(0.0) would(0.0) be(0.0) undermined(1.0) .(0.0) I(0.0) 
+retain(0.0) those(0.0) concerns(0.0) ,(0.0) but(0.0) I(0.0) feel(0.0) that(0.0) the(0.0) 2-year(1.0) review(0.0) period(0.0) contained(0.0) in(0.0) the(0.0) manager(0.0) 's(0.0) amendment(1.0) will(0.0) give(0.0) 
+us(0.0) ample(0.0) time(0.0) to(0.0) see(0.0) the(0.0) effect(0.0) of(0.0) H.R(0.0) .(0.0) 10(0.0) on(0.0) the(0.0) CRA(1.0) .(0.0) I(0.0) hope(0.0) and(0.0) I(0.0) urge(0.0) 
+that(0.0) Congress(0.0) ,(0.0) at(0.0) the(0.0) end(0.0) of(0.0) this(0.0) 2-year(1.0) period(0.0) ,(0.0) will(0.0) take(0.0) a(0.0) strong(0.0) look(0.0) as(0.0) if(0.0) the(0.0) CRA(1.0) 
+is(0.0) being(0.0) preserved(0.0) and(0.0) expanded(0.0) ,(0.0) and(0.0) take(0.0) quick(0.0) legislative(1.0) action(1.0) if(0.0) it(0.0) is(0.0) not(0.0) ,(0.0) so(0.0) our(0.0) urban(1.0) communities(1.0) 
+,(0.0) our(0.0) small(0.0) women-(0.0) and(0.0) minority-owned(1.0) businesses(1.0) ,(0.0) can(0.0) be(0.0) preserved(0.0) ,(0.0) while(0.0) at(0.0) the(0.0) same(0.0) time(0.0) we(0.0) have(0.0) financial(1.0) 
+expansion(1.0) and(0.0) modernization(1.0) .(0.0) Madam(0.0) Chairman(1.0) ,(0.0) I(0.0) yield(0.0) 1(0.0) minute(0.0) to(0.0) my(0.0) distinguished(0.0) friend(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Massachusetts(1.0) 
+((0.0) Mr.(0.0) Markey(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Ms.	DeGette	Ms.	
+Chairman	
+amendment	provisions	
+preservation	Reinvestment	
+Reinvestment	country	Denver	
+Reinvestment	revitalize	urban	economy	
+bill	Reinvestment	undermined	
+2-year	amendment	
+CRA	
+2-year	CRA	
+legislative	action	urban	communities	
+minority-owned	businesses	financial	
+expansion	modernization	Chairman	Massachusetts	
+Markey	
+
+reads % = 0.13157894736842105

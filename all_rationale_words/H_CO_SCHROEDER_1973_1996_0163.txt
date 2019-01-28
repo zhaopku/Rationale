@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+chairman(0.0) ,(0.0) reclaiming(1.0) my(0.0) time(0.0) ,(0.0) as(0.0) the(0.0) gentleman(0.0) knows(0.0) ,(0.0) there(0.0) are(0.0) three(0.0) authors(0.0) to(0.0) this(0.0) amendment(1.0) ,(0.0) and(0.0) so(0.0) 
+I(0.0) hesitate(0.0) to(0.0) speak(0.0) for(0.0) all(0.0) three(0.0) .(0.0) But(0.0) I(0.0) think(0.0) if(0.0) we(0.0) could(0.0) maybe(0.0) not(0.0) put(0.0) a(0.0) time(0.0) limit(0.0) 
+on(0.0) this(0.0) one(0.0) ,(0.0) it(0.0) would(0.0) be(0.0) helpful(0.0) .(0.0) I(0.0) do(0.0) not(0.0) think(0.0) it(0.0) will(0.0) take(0.0) a(0.0) tremendous(0.0) amount(0.0) of(0.0) 
+time(0.0) .(0.0) I(0.0) think(0.0) it(0.0) is(0.0) very(0.0) clear(0.0) what(0.0) we(0.0) are(0.0) doing(0.0) ,(0.0) but(0.0) I(0.0) just(0.0) hesitate(0.0) to(0.0) shut(1.0) people(0.0) 
+off(0.0) if(0.0) people(0.0) do(0.0) come(0.0) over(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+reclaiming	amendment	
+
+
+shut	
+
+
+reads % = 0.03409090909090909

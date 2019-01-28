@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) thank(0.0) Members(0.0) for(0.0) this(0.0) important(0.0) debate(0.0) about(0.0) the(0.0) future(0.0) of(0.0) our(0.0) State(0.0) and(0.0) the(0.0) great(0.0) City(1.0) of(0.0) 
+New(0.0) York(0.0) .(0.0) The(1.0) amendment(1.0) that(0.0) is(0.0) being(0.0) debated(0.0) today(0.0) ,(0.0) right(1.0) now(0.0) ,(0.0) that(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) has(0.0) 
+offered(0.0) ,(0.0) would(1.0) take(0.0) approximately(0.0) $(0.0) 1.8(0.0) billion(1.0) of(0.0) the(0.0) funds(0.0) that(0.0) were(0.0) reallocated(1.0) in(0.0) an(0.0) agreement(1.0) we(0.0) reached(0.0) with(0.0) 
+the(0.0) White(0.0) House(0.0) ,(0.0) take(0.0) almost(0.0) $(0.0) 2(0.0) billion(1.0) out(0.0) of(0.0) the(0.0) Community(1.0) Development(0.0) Block(0.0) Grant(0.0) program(0.0) ,(0.0) away(0.0) from(0.0) 
+New(0.0) York(0.0) ,(0.0) and(0.0) spread(0.0) it(0.0) around(0.0) to(0.0) the(0.0) rest(0.0) of(0.0) the(0.0) country(1.0) .(0.0) It(0.0) does(0.0) not(0.0) re-create(0.0) the(0.0) national(0.0) 
+emergency(0.0) grants(0.0) that(0.0) the(0.0) administration(0.0) initially(0.0) provided(0.0) .(0.0) This(0.0) keeps(1.0) it(0.0) within(1.0) the(0.0) Community(1.0) Development(0.0) Block(0.0) Grant(0.0) program(0.0) ,(0.0) but(0.0) 
+it(0.0) also(1.0) takes(1.0) away(0.0) the(0.0) waivers(0.0) that(0.0) we(0.0) had(0.0) provided(0.0) for(0.0) New(0.0) York(0.0) so(1.0) that(0.0) those(0.0) waivers(1.0) would(0.0) not(0.0) be(0.0) 
+available(1.0) either(1.0) in(0.0) New(0.0) York(0.0) or(1.0) the(0.0) rest(0.0) of(0.0) the(0.0) country(1.0) .(0.0) Why(0.0) is(0.0) that(0.0) important(0.0) ?(0.0) Well(0.0) ,(0.0) I(0.0) 
+think(1.0) it(0.0) is(0.0) pretty(1.0) obvious(0.0) to(0.0) all(0.0) of(0.0) us(0.0) that(0.0) we(0.0) have(0.0) a(0.0) two-front(1.0) war(1.0) going(0.0) on(0.0) right(1.0) now(0.0) ,(0.0) 
+Afghanistan(1.0) and(0.0) the(0.0) United(0.0) States(0.0) .(0.0) In(0.0) Afghanistan(1.0) we(0.0) have(0.0) been(0.0) seeing(0.0) all(0.0) the(0.0) battlegrounds(1.0) as(0.0) the(0.0) battle(1.0) has(0.0) progressed(1.0) 
+.(0.0) In(0.0) the(0.0) United(0.0) States(0.0) ,(0.0) we(0.0) all(0.0) know(0.0) what(1.0) the(0.0) battleground(1.0) was(0.0) ;(0.0) it(0.0) was(0.0) New(0.0) York(0.0) City(0.0) and(0.0) 
+the(0.0) Pentagon(1.0) .(0.0) The(0.0) Pentagon(1.0) is(0.0) being(0.0) rebuilt(0.0) .(0.0) We(0.0) are(0.0) working(0.0) on(0.0) a(0.0) defense(1.0) appropriations(0.0) bill(0.0) today(0.0) that(0.0) provides(0.0) 
+over(0.0) $(0.0) 300(0.0) billion(1.0) in(0.0) the(0.0) defense(1.0) budget(0.0) ,(0.0) and(0.0) there(0.0) are(0.0) further(0.0) funds(0.0) within(1.0) the(0.0) supplemental(1.0) to(0.0) fight(0.0) the(0.0) 
+war(1.0) and(0.0) to(0.0) rebuild(1.0) the(0.0) Pentagon(1.0) and(0.0) to(0.0) conduct(0.0) our(0.0) military(1.0) action(0.0) .(0.0) New(0.0) York(0.0) City(0.0) took(1.0) a(0.0) direct(0.0) hit(0.0) 
+on(0.0) September(0.0) 11(0.0) .(0.0) Not(0.0) only(0.0) was(0.0) the(0.0) World(0.0) Trade(0.0) Center(0.0) destroyed(0.0) and(0.0) thousands(0.0) of(0.0) people(0.0) died(0.0) ,(0.0) but(0.0) hundreds(0.0) 
+of(0.0) thousands(0.0) of(0.0) people(0.0) have(0.0) been(0.0) affected(1.0) in(0.0) that(0.0) immediate(0.0) area(0.0) .(0.0) I(0.0) talked(1.0) with(0.0) people(0.0) in(0.0) the(0.0) last(1.0) number(0.0) 
+of(0.0) weeks(1.0) who(0.0) still(0.0) do(0.0) not(1.0) have(0.0) telephone(1.0) service(0.0) ,(0.0) who(0.0) can(0.0) not(0.0) get(0.0) to(0.0) their(0.0) apartments(1.0) or(1.0) their(0.0) businesses(1.0) 
+by(0.0) public(0.0) transportation(1.0) .(0.0) There(0.0) is(0.0) no(1.0) one(0.0) else(0.0) in(0.0) the(0.0) country(1.0) in(0.0) that(0.0) situation(0.0) right(1.0) now(0.0) .(0.0) What(0.0) we(0.0) 
+did(0.0) was(0.0) we(0.0) tried(0.0) to(0.0) attach(1.0) funds(1.0) that(0.0) would(1.0) otherwise(0.0) have(0.0) gone(0.0) to(0.0) the(0.0) rest(0.0) of(0.0) the(0.0) country(1.0) in(0.0) anticipation(0.0) 
+of(0.0) serious(0.0) unemployment(1.0) dislocation(1.0) .(0.0) The(0.0) stimulus(1.0) package(0.0) that(0.0) is(0.0) being(0.0) discussed(1.0) in(0.0) the(0.0) House(0.0) and(0.0) in(0.0) the(0.0) Senate(1.0) deals(0.0) 
+directly(0.0) with(0.0) unemployment(1.0) issues(0.0) .(0.0) We(0.0) tried(1.0) to(0.0) add(0.0) to(0.0) this(0.0) appropriations(0.0) bill(0.0) unemployment(1.0) insurance(1.0) benefits(1.0) and(0.0) COBRA(1.0) benefits(0.0) to(0.0) 
+provide(0.0) for(0.0) health(1.0) care(0.0) for(0.0) those(0.0) workers(1.0) who(0.0) were(0.0) dislocated(1.0) and(0.0) lost(0.0) their(0.0) health(1.0) care(0.0) .(0.0) It(0.0) belongs(0.0) in(0.0) the(0.0) 
+stimulus(1.0) package(0.0) .(0.0) That(0.0) is(0.0) where(0.0) the(0.0) debate(1.0) has(0.0) centered(1.0) ,(0.0) and(0.0) both(0.0) the(0.0) House(0.0) and(0.0) the(0.0) Senate(1.0) deal(1.0) with(0.0) 
+that(0.0) ,(0.0) with(0.0) those(0.0) issues(1.0) ,(0.0) in(0.0) the(0.0) stimulus(1.0) package(1.0) .(0.0) Indeed(1.0) ,(0.0) these(0.0) national(1.0) emergency(1.0) grants(1.0) were(0.0) authorized(1.0) by(0.0) 
+that(0.0) stimulus(1.0) package(0.0) bill(0.0) .(0.0) So(1.0) the(0.0) $(0.0) 1.5(0.0) billion(1.0) or(0.0) the(0.0) total(0.0) amount(0.0) of(0.0) funds(1.0) ,(0.0) the(0.0) $(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	City	
+The	amendment	right	
+would	billion	reallocated	agreement	
+billion	Community	
+country	
+keeps	within	Community	
+also	takes	so	waivers	
+available	either	or	country	
+think	pretty	two-front	war	right	
+Afghanistan	Afghanistan	battlegrounds	battle	progressed	
+what	battleground	
+Pentagon	Pentagon	defense	
+billion	defense	within	supplemental	
+war	rebuild	Pentagon	military	took	
+
+affected	talked	last	
+weeks	not	telephone	apartments	or	businesses	
+transportation	no	country	right	
+attach	funds	would	country	
+unemployment	dislocation	stimulus	discussed	Senate	
+unemployment	tried	unemployment	insurance	benefits	COBRA	
+health	workers	dislocated	health	
+stimulus	debate	centered	Senate	deal	
+issues	stimulus	package	Indeed	national	emergency	grants	authorized	
+stimulus	So	billion	funds	
+
+reads % = 0.192

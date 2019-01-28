@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) this(0.0) resolution(1.0) is(0.0) necessary(0.0) to(0.0) return(0.0) to(0.0) the(0.0) Senate(0.0) the(0.0) bill(1.0) S.(0.0) 1463(0.0) ,(0.0) because(0.0) it(0.0) contravenes(1.0) the(0.0) 
+constitutional(1.0) requirement(1.0) that(0.0) revenue(1.0) measures(1.0) shall(0.0) originate(0.0) in(0.0) the(0.0) House(0.0) of(0.0) Representatives(0.0) .(0.0) S.(0.0) 1463(0.0) would(0.0) create(0.0) a(0.0) new(0.0) basis(0.0) 
+for(0.0) applying(0.0) import(0.0) restrictions(0.0) ,(0.0) and(0.0) therefore(0.0) contravenes(1.0) this(0.0) constitutional(1.0) requirement(0.0) .(0.0) S.(0.0) 1463(0.0) proposes(0.0) to(0.0) amend(0.0) title(0.0) II(0.0) of(0.0) 
+the(0.0) Trade(0.0) Act(0.0) of(0.0) 1974(0.0) ,(0.0) which(0.0) sets(0.0) forth(0.0) the(0.0) authority(0.0) and(0.0) procedures(0.0) for(0.0) the(0.0) President(0.0) to(0.0) provide(0.0) temporary(0.0) import(0.0) 
+relief(0.0) to(0.0) a(0.0) domestic(0.0) industry(0.0) which(0.0) has(0.0) been(0.0) seriously(0.0) injured(0.0) by(0.0) imports(0.0) .(0.0) Under(0.0) the(0.0) so-called(0.0) ``(0.0) safeguard(0.0) ''(0.0) statute(0.0) 
+,(0.0) the(0.0) International(0.0) Trade(0.0) Commission(0.0) conducts(0.0) an(0.0) investigation(0.0) upon(0.0) request(0.0) ,(0.0) and(0.0) ,(0.0) if(0.0) appropriate(0.0) ,(0.0) makes(0.0) a(0.0) recommendation(0.0) to(0.0) 
+the(0.0) President(0.0) regarding(0.0) what(0.0) action(0.0) would(0.0) address(0.0) the(0.0) injury(0.0) to(0.0) the(0.0) industry(0.0) .(0.0) This(0.0) action(0.0) may(0.0) include(0.0) a(0.0) tariff(0.0) ,(0.0) 
+tariff-rate(1.0) quota(0.0) ,(0.0) quantitative(0.0) restriction(1.0) ,(0.0) or(0.0) adjustment(0.0) measures(0.0) .(0.0) The(0.0) President(1.0) then(0.0) must(0.0) determine(0.0) what(0.0) action(0.0) ,(0.0) if(0.0) any(0.0) 
+,(0.0) is(0.0) appropriate(0.0) .(0.0) The(0.0) actions(1.0) authorized(0.0) to(0.0) be(0.0) taken(0.0) by(0.0) the(0.0) President(1.0) include(0.0) a(0.0) duty(0.0) ,(0.0) tariff-rate(1.0) quota(1.0) ,(0.0) 
+quantitative(0.0) restriction(1.0) ,(0.0) adjustment(0.0) measure(1.0) ,(0.0) or(0.0) negotiation(0.0) of(0.0) trade(1.0) agreements(1.0) limiting(1.0) imports(1.0) into(0.0) the(0.0) United(0.0) States(0.0) .(0.0) S.(0.0) 1463(0.0) 
+changes(0.0) this(0.0) authority(0.0) and(0.0) procedure(0.0) by(0.0) authorizing(0.0) the(0.0) ITC(0.0) to(0.0) limit(0.0) its(0.0) investigation(0.0) with(0.0) respect(0.0) to(0.0) a(0.0) domestic(0.0) agricultural(0.0) product(0.0) 
+produced(0.0) within(0.0) a(0.0) particular(0.0) growing(0.0) season(0.0) .(0.0) As(0.0) a(0.0) result(0.0) ,(0.0) S.(0.0) 1463(0.0) changes(0.0) the(0.0) predicate(0.0) necessary(0.0) for(0.0) achieving(0.0) access(0.0) 
+to(0.0) the(0.0) desired(0.0) trade(0.0) remedy(0.0) ,(0.0) which(0.0) takes(0.0) for(0.0) form(0.0) of(0.0) an(0.0) import(0.0) restriction(1.0) .(0.0) As(0.0) a(0.0) result(0.0) ,(0.0) the(0.0) 
+proposed(1.0) change(0.0) would(0.0) allow(0.0) products(0.0) which(0.0) do(0.0) not(0.0) currently(0.0) qualify(0.0) for(0.0) import(0.0) relief(1.0) to(0.0) be(0.0) able(0.0) to(0.0) qualify(0.0) in(0.0) the(0.0) 
+future(0.0) .(0.0) This(0.0) would(0.0) have(0.0) the(0.0) effect(0.0) of(0.0) creating(0.0) a(0.0) new(0.0) basis(0.0) and(0.0) mechanism(0.0) for(0.0) applying(0.0) import(0.0) restrictions(1.0) under(0.0) authority(0.0) 
+granted(0.0) to(0.0) the(0.0) President(0.0) ,(0.0) which(0.0) is(0.0) not(0.0) currently(0.0) available(0.0) .(0.0) Import(0.0) relief(1.0) granted(0.0) under(0.0) this(0.0) new(0.0) authority(0.0) would(0.0) have(0.0) 
+a(0.0) direct(0.0) effect(0.0) on(0.0) customs(0.0) revenues(0.0) .(0.0) The(0.0) proposed(1.0) change(0.0) in(0.0) our(0.0) tariff(1.0) laws(1.0) is(0.0) a(0.0) ``(0.0) revenue(0.0) affecting(0.0) ''(0.0) 
+infringement(0.0) in(0.0) the(0.0) House(0.0) 's(0.0) prerogatives(1.0) ,(0.0) which(0.0) constitutes(1.0) a(0.0) revenue(0.0) measure(0.0) in(0.0) the(0.0) constitutional(1.0) sense(0.0) .(0.0) Therefore(0.0) ,(0.0) I(0.0) 
+am(0.0) asking(0.0) that(0.0) the(0.0) House(0.0) insist(1.0) on(0.0) its(0.0) constitutional(1.0) prerogatives(1.0) .(0.0) There(0.0) are(0.0) numerous(0.0) precedents(1.0) for(0.0) the(0.0) action(1.0) I(0.0) am(0.0) 
+requesting(0.0) .(0.0) For(0.0) example(0.0) ,(0.0) on(0.0) March(0.0) 21(0.0) ,(0.0) 1996(0.0) ,(0.0) the(0.0) House(0.0) returned(0.0) to(0.0) the(0.0) Senate(0.0) S.(0.0) 1518(0.0) ,(0.0) 
+repealing(0.0) an(0.0) existing(0.0) import(0.0) restriction(0.0) in(0.0) the(0.0) Tea(0.0) Importation(1.0) Act(1.0) of(0.0) 1897(0.0) .(0.0) On(0.0) July(0.0) 21(0.0) ,(0.0) 1994(0.0) ,(0.0) the(0.0) 
+House(0.0) returned(0.0) to(0.0) the(0.0) Senate(0.0) S.(0.0) 729(0.0) ,(0.0) prohibiting(0.0) the(0.0) import(0.0) of(0.0) specific(0.0) products(0.0) which(0.0) contain(0.0) more(0.0) than(0.0) specified(0.0) quantities(0.0) 
+of(0.0) lead(0.0) .(0.0) On(0.0) February(0.0) 25(0.0) ,(0.0) 1992(0.0) ,(0.0) the(0.0) House(0.0) returned(0.0) to(0.0) the(0.0) Senate(0.0) S.(0.0) 884(0.0) ,(0.0) requiring(0.0) the(0.0) 
+President(0.0) to(0.0) impose(0.0) sanctions(0.0) ,(0.0) including(0.0) import(0.0) restrictions(1.0) ,(0.0) against(0.0) countries(0.0) that(0.0) fail(0.0) to(0.0) eliminate(0.0) large-scale(1.0) driftnet(1.0) fishing(0.0) .(0.0) On(0.0) 
+October(0.0) 31(0.0) ,(0.0) 1991(0.0) ,(0.0) the(0.0) House(0.0) returned(0.0) to(0.0) the(0.0) Senate(0.0) S.(0.0) 320(0.0) ,(0.0) including(0.0) provisions(0.0) imposing(0.0) ,(0.0) or(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	resolution	bill	contravenes	
+constitutional	requirement	revenue	measures	
+contravenes	constitutional	
+
+
+
+
+tariff-rate	restriction	President	
+actions	President	tariff-rate	quota	
+restriction	measure	trade	agreements	limiting	imports	
+
+
+restriction	
+proposed	relief	
+restrictions	
+relief	
+proposed	tariff	laws	
+prerogatives	constitutes	constitutional	
+insist	constitutional	prerogatives	precedents	action	
+
+Importation	Act	
+
+
+restrictions	large-scale	driftnet	
+
+
+reads % = 0.088

@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) ask(0.0) unanimous(1.0) consent(0.0) that(0.0) the(0.0) names(0.0) of(0.0) Mr.(0.0) Hancock(1.0) ,(0.0) Mr.(0.0) Coburn(1.0) ,(0.0) and(0.0) Mr.(0.0) Riggs(1.0) be(1.0) removed(1.0) 
+as(0.0) cosponsors(1.0) of(0.0) House(0.0) Joint(1.0) Resolution(0.0) 3(0.0) ,(0.0) a(0.0) piece(0.0) of(0.0) legislation(0.0) that(0.0) I(0.0) also(0.0) sponsored(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+unanimous	Hancock	Coburn	Riggs	be	removed	
+cosponsors	Joint	
+
+reads % = 0.21052631578947367

@@ -1,0 +1,48 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) as(0.0) much(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) I(0.0) am(0.0) honored(0.0) to(0.0) speak(0.0) today(0.0) in(0.0) support(0.0) 
+of(0.0) H.(0.0) Res(1.0) .(0.0) 198(0.0) ,(0.0) recognizing(1.0) the(0.0) significance(0.0) of(0.0) Black(1.0) History(0.0) Month(0.0) .(0.0) Each(0.0) February(0.0) we(0.0) express(0.0) our(0.0) appreciation(0.0) 
+of(0.0) the(0.0) struggles(0.0) ,(0.0) determination(0.0) and(0.0) perseverance(0.0) of(0.0) the(0.0) African(1.0) American(0.0) community(0.0) of(0.0) the(0.0) past(0.0) and(0.0) present(0.0) .(0.0) February(0.0) is(0.0) 
+a(0.0) time(0.0) to(0.0) recognize(0.0) the(0.0) contributions(1.0) of(0.0) black(1.0) Americans(1.0) that(0.0) have(0.0) enriched(0.0) our(0.0) culture(1.0) and(0.0) our(0.0) heritage(1.0) .(0.0) There(0.0) have(0.0) 
+been(0.0) great(0.0) activists(1.0) ,(0.0) politicians(1.0) ,(0.0) artists(0.0) ,(0.0) writers(0.0) ,(0.0) poets(0.0) ,(0.0) scientists(0.0) ,(0.0) economists(0.0) ,(0.0) athletes(0.0) ,(0.0) entertainers(1.0) and(0.0) 
+musicians(0.0) that(0.0) have(0.0) all(0.0) bettered(0.0) our(0.0) way(0.0) of(0.0) life(0.0) .(0.0) These(0.0) achievements(0.0) ,(0.0) the(0.0) achievements(0.0) of(0.0) so(0.0) many(0.0) ,(0.0) have(0.0) 
+encouraged(0.0) today(0.0) 's(0.0) youth(1.0) to(0.0) strive(0.0) for(0.0) a(0.0) more(0.0) equal(0.0) and(0.0) free(0.0) country(0.0) .(0.0) It(0.0) is(0.0) impossible(0.0) to(0.0) celebrate(0.0) Black(1.0) 
+History(0.0) Month(0.0) without(0.0) mentioning(0.0) such(0.0) noted(0.0) leaders(0.0) as(0.0) Frederick(0.0) Douglass(1.0) ,(0.0) Harriet(0.0) Tubman(1.0) ,(0.0) Martin(0.0) Luther(1.0) King(0.0) ,(0.0) Jr.(0.0) and(0.0) 
+Rosa(0.0) Parks(0.0) .(0.0) These(0.0) achievers(0.0) ,(0.0) and(0.0) others(0.0) ,(0.0) have(0.0) helped(0.0) make(0.0) this(0.0) country(1.0) what(0.0) it(0.0) is(0.0) today(0.0) .(0.0) Today(0.0) 
+'s(0.0) popular(0.0) culture(0.0) is(0.0) replete(0.0) with(0.0) African(1.0) American(0.0) icons(0.0) ,(0.0) through(0.0) sports(0.0) ,(0.0) music(0.0) and(0.0) the(0.0) entertainment(0.0) industry(0.0) ,(0.0) icons(0.0) 
+such(0.0) as(0.0) Richard(0.0) Pryor(1.0) ,(0.0) Halle(0.0) Berry(0.0) ,(0.0) Tiger(0.0) Woods(0.0) ,(0.0) Arthur(0.0) Ashe(1.0) ,(0.0) Michael(0.0) Jordan(1.0) ,(0.0) Muhammad(0.0) Ali(0.0) ,(0.0) 
+and(0.0) Hank(0.0) Aaron(1.0) .(0.0) The(0.0) music(0.0) industry(0.0) alone(0.0) has(0.0) influenced(0.0) our(0.0) culture(1.0) for(0.0) decades(0.0) ,(0.0) Louis(1.0) Armstrong(1.0) ,(0.0) Dorothy(0.0) Dandridge(1.0) 
+,(0.0) Billie(0.0) Holiday(0.0) ,(0.0) Sammy(0.0) Davis(1.0) ,(0.0) Jr.(0.0) ,(0.0) and(0.0) Georgia(1.0) 's(0.0) own(0.0) Ray(0.0) Charles(0.0) ,(0.0) each(0.0) of(0.0) whom(0.0) overcame(0.0) 
+adversity(0.0) before(0.0) and(0.0) during(0.0) the(0.0) civil(0.0) rights(0.0) movement(0.0) just(0.0) to(0.0) play(0.0) their(0.0) music(0.0) .(0.0) When(0.0) Harvard(0.0) scholar(0.0) Dr.(0.0) Carter(1.0) G.(1.0) 
+Woodson(1.0) had(0.0) the(0.0) idea(0.0) to(0.0) create(0.0) a(0.0) week-long(0.0) celebration(0.0) of(0.0) black(1.0) history(0.0) back(0.0) in(0.0) 1926(0.0) ,(0.0) his(0.0) goal(0.0) was(0.0) ,(0.0) 
+and(0.0) I(0.0) quote(0.0) ,(0.0) ``(0.0) to(0.0) make(0.0) the(0.0) world(0.0) see(0.0) the(0.0) Negro(1.0) as(0.0) a(0.0) participant(0.0) rather(0.0) than(0.0) as(0.0) a(0.0) lay(0.0) 
+figure(0.0) in(0.0) history(1.0) .(0.0) ''(0.0) Over(0.0) time(0.0) ,(0.0) it(0.0) has(0.0) become(0.0) the(0.0) month-long(1.0) celebration(0.0) and(0.0) commemoration(1.0) that(0.0) it(0.0) is(0.0) today(0.0) 
+.(0.0) It(0.0) is(0.0) with(0.0) great(0.0) pleasure(0.0) that(0.0) I(0.0) speak(0.0) today(0.0) in(0.0) support(0.0) of(0.0) H.(0.0) Res(1.0) .(0.0) 198(0.0) .(0.0) Mr.(0.0) Speaker(1.0) 
+,(0.0) I(0.0) ask(0.0) all(0.0) Members(0.0) to(0.0) join(0.0) me(0.0) in(0.0) supporting(0.0) this(0.0) resolution(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) 
+balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Res	recognizing	Black	
+African	
+contributions	black	Americans	culture	heritage	
+activists	politicians	entertainers	
+
+youth	Black	
+Douglass	Tubman	Luther	
+country	
+African	
+Pryor	Ashe	Jordan	
+Aaron	culture	Louis	Armstrong	Dandridge	
+Davis	Georgia	
+Carter	G.	
+Woodson	black	
+Negro	
+history	month-long	commemoration	
+Res	Speaker	
+resolution	Speaker	
+
+
+reads % = 0.10621761658031088

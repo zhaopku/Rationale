@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) let(1.0) me(0.0) simply(1.0) close(0.0) this(0.0) debate(0.0) by(0.0) saying(0.0) that(0.0) ,(0.0) throughout(0.0) all(0.0) of(0.0) this(0.0) vigorous(0.0) discussion(0.0) ,(0.0) we(0.0) want(1.0) 
+to(0.0) make(0.0) clear(0.0) that(0.0) this(0.0) bill(0.0) just(1.0) simply(0.0) asks(0.0) for(0.0) a(0.0) 1-year(1.0) delay(0.0) in(0.0) the(0.0) implementation(1.0) of(0.0) this(0.0) rule(0.0) to(0.0) 
+allow(0.0) ample(1.0) time(0.0) for(0.0) Congress(0.0) to(0.0) complete(0.0) its(0.0) investigation(0.0) and(0.0) for(0.0) the(0.0) Treasury(0.0) Inspector(0.0) General(1.0) for(0.0) Tax(1.0) Administration(0.0) to(0.0) complete(0.0) 
+its(0.0) investigation(0.0) ,(0.0) so(1.0) that(0.0) we(0.0) have(0.0) the(0.0) facts(1.0) on(0.0) the(0.0) table(0.0) .(0.0) We(0.0) should(0.0) n't(0.0) be(0.0) jumping(1.0) ahead(0.0) of(0.0) 
+the(0.0) gun(1.0) and(0.0) possibly(0.0) ,(0.0) and(0.0) likely(0.0) ,(0.0) infringe(1.0) on(0.0) the(0.0) First(1.0) Amendment(0.0) rights(0.0) of(0.0) so(1.0) many(0.0) people(0.0) unless(0.0) we(0.0) 
+have(0.0) the(0.0) facts(1.0) .(0.0) The(0.0) ranking(1.0) member(0.0) of(0.0) the(0.0) committee(0.0) ,(0.0) Mr.(1.0) Levin(1.0) ,(0.0) has(0.0) admitted(1.0) that(0.0) the(0.0) investigation(0.0) is(0.0) 
+incomplete(1.0) .(0.0) Let(1.0) 's(0.0) just(1.0) give(0.0) this(0.0) time(0.0) .(0.0) We(1.0) owe(1.0) it(0.0) to(0.0) the(0.0) American(0.0) people(0.0) to(0.0) do(0.0) that(0.0) .(0.0) 
+We(0.0) owe(1.0) it(0.0) to(0.0) the(0.0) integrity(0.0) of(0.0) this(0.0) institution(0.0) to(0.0) do(0.0) our(0.0) work(0.0) prior(0.0) to(0.0) having(0.0) these(0.0) premature(1.0) judgments(1.0) come(0.0) 
+forward(1.0) ,(0.0) especially(1.0) when(0.0) the(0.0) rule(0.0) does(0.0) not(0.0) address(0.0) all(0.0) the(0.0) issues(0.0) that(0.0) have(0.0) been(0.0) discussed(1.0) today(0.0) .(0.0) Mr.(1.0) Speaker(1.0) 
+,(0.0) with(0.0) that(0.0) ,(0.0) I(0.0) ask(1.0) that(0.0) we(0.0) all(0.0) vote(1.0) in(0.0) favor(1.0) of(0.0) this(0.0) bill(0.0) ,(0.0) support(0.0) it(0.0) ,(0.0) and(0.0) 
+move(0.0) it(0.0) forward(1.0) .(0.0) Let(1.0) 's(0.0) hit(0.0) that(0.0) pause(1.0) button(0.0) .(0.0) Let's(1.0) complete(0.0) the(0.0) investigation(0.0) and(0.0) do(0.0) our(0.0) due(0.0) diligence(1.0) 
+.(0.0) With(1.0) that(0.0) ,(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+let	simply	want	
+just	1-year	implementation	
+ample	General	Tax	
+so	facts	jumping	
+gun	infringe	First	so	
+facts	ranking	Mr.	Levin	admitted	
+incomplete	Let	just	We	owe	
+owe	premature	judgments	
+forward	especially	discussed	Mr.	Speaker	
+ask	vote	favor	
+forward	Let	pause	Let's	diligence	
+With	time	
+
+reads % = 0.18803418803418803

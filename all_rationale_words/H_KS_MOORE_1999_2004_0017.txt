@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) how(0.0) much(0.0) time(0.0) do(0.0) I(0.0) have(0.0) remaining(0.0) ?(0.0) The(0.0) SPEAKER(0.0) pro(0.0) tempore(0.0) ((1.0) Mr.(0.0) LaHood(1.0) )(0.0) .(0.0) The(0.0) gentleman(0.0) 
+from(0.0) Kansas(0.0) ((0.0) Mr.(0.0) Moore(1.0) )(0.0) has(0.0) 14(0.0) minutes(0.0) remaining(0.0) .(0.0) Speaker(0.0) ,(0.0) I(0.0) yield(0.0) 2(0.0) minutes(0.0) to(0.0) the(0.0) gentlewoman(0.0) 
+from(0.0) Nevada(1.0) ((0.0) Ms.(1.0) Berkley(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+(	LaHood	
+Moore	
+Nevada	Ms.	Berkley	
+
+reads % = 0.125

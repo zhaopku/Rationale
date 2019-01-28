@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) we(0.0) are(0.0) considering(1.0) today(0.0) a(0.0) piece(0.0) of(0.0) legislation(0.0) to(0.0) report(0.0) on(0.0) the(0.0) deaths(0.0) of(0.0) prisoners(1.0) in(0.0) Federal(1.0) custody(1.0) 
+.(0.0) As(1.0) part(0.0) of(0.0) the(0.0) responsibility(0.0) of(0.0) this(0.0) Congress(0.0) ,(0.0) we(0.0) have(0.0) to(0.0) make(0.0) sure(1.0) those(0.0) prisons(1.0) are(0.0) paid(0.0) for(0.0) 
+.(0.0) We(0.0) 've(0.0) got(1.0) to(0.0) have(0.0) the(0.0) money(1.0) to(0.0) make(0.0) sure(1.0) we(0.0) can(0.0) pay(1.0) for(0.0) the(0.0) operation(0.0) of(0.0) those(0.0) prisons(1.0) 
+and(0.0) keep(1.0) those(0.0) prisoners(1.0) safe(0.0) .(0.0) In(0.0) order(0.0) to(0.0) have(0.0) that(0.0) money(1.0) ,(0.0) we(0.0) 've(0.0) got(1.0) to(0.0) exercise(0.0) fiscal(0.0) responsibility(0.0) 
+here(0.0) as(0.0) guardians(0.0) of(0.0) the(0.0) Treasury(0.0) .(0.0) Our(1.0) highest(0.0) priority(0.0) as(0.0) the(0.0) elected(1.0) representatives(0.0) of(0.0) the(0.0) people(0.0) who(0.0) pay(0.0) the(0.0) 
+taxes(1.0) that(0.0) pay(1.0) for(0.0) these(1.0) lights(1.0) ,(0.0) that(0.0) pay(1.0) for(0.0) this(0.0) House(0.0) Chamber(0.0) ,(0.0) we(0.0) 've(0.0) got(1.0) an(0.0) obligation(0.0) to(0.0) 
+protect(0.0) their(0.0) financial(0.0) safety(0.0) and(0.0) security(0.0) for(0.0) the(0.0) future(0.0) .(0.0) Not(0.0) only(0.0) the(0.0) safety(1.0) and(0.0) securities(0.0) of(0.0) these(0.0) prisoners(1.0) ,(0.0) 
+but(0.0) more(0.0) importantly(1.0) ,(0.0) the(0.0) safety(1.0) and(0.0) security(0.0) of(0.0) the(0.0) American(0.0) people(0.0) .(0.0) In(0.0) order(1.0) to(0.0) make(0.0) sure(1.0) we(0.0) 've(0.0) 
+got(1.0) that(0.0) money(1.0) available(0.0) ,(0.0) we(0.0) need(0.0) to(0.0) be(0.0) very(0.0) ,(0.0) very(0.0) thoughtful(1.0) and(0.0) careful(0.0) and(0.0) remember(0.0) that(0.0) we(0.0) face(0.0) 
+a(0.0) deficit(1.0) of(0.0) over(0.0) $(0.0) 1(0.0) trillion(1.0) ,(0.0) a(0.0) national(0.0) debt(0.0) of(0.0) over(0.0) $(0.0) 10(0.0) trillion(1.0) ,(0.0) unfunded(1.0) liabilities(1.0) of(0.0) 
+$(0.0) 60(0.0) trillion-plus(1.0) .(0.0) The(0.0) Comptroller(1.0) tells(1.0) us(0.0) if(0.0) you(1.0) were(0.0) to(0.0) sell(0.0) off(0.0) every(0.0) asset(1.0) in(0.0) America(0.0) that(0.0) proceeds(1.0) 
+might(0.0) generate(0.0) $(0.0) 62(1.0) trillion(1.0) .(0.0) So(1.0) we(0.0) 've(0.0) reached(0.0) a(0.0) point(0.0) as(0.0) a(0.0) Nation(0.0) ,(0.0) Madam(1.0) Speaker(1.0) ,(0.0) where(0.0) 
+our(0.0) national(0.0) assets(0.0) --(0.0) all(0.0) of(0.0) the(0.0) private(0.0) property(0.0) owned(0.0) by(0.0) every(0.0) one(0.0) of(0.0) us(0.0) ;(0.0) sell(1.0) the(0.0) real(1.0) estate(1.0) 
+,(0.0) sell(0.0) all(0.0) your(0.0) possessions(0.0) --(0.0) might(1.0) generate(0.0) $(0.0) 62(1.0) trillion(1.0) .(0.0) That(0.0) 's(0.0) how(0.0) much(0.0) unfunded(1.0) liability(1.0) we(0.0) 've(0.0) 
+got(1.0) out(1.0) there(0.0) that(0.0) our(0.0) kids(0.0) and(0.0) grandchildren(1.0) are(0.0) going(0.0) to(0.0) have(0.0) to(0.0) pay(0.0) for(0.0) Medicare(1.0) ,(0.0) Social(0.0) Security(1.0) ,(0.0) 
+Medicaid(1.0) .(0.0) And(0.0) now(0.0) all(0.0) of(0.0) this(0.0) new(0.0) spending(1.0) that(0.0) the(0.0) majority(1.0) --(0.0) the(0.0) new(1.0) liberal(1.0) majority(1.0) has(0.0) engaged(0.0) in(0.0) 
+the(0.0) biggest(1.0) ,(0.0) most(1.0) unrestrained(1.0) profligate(1.0) spending(1.0) spree(1.0) in(0.0) the(0.0) history(0.0) of(0.0) America(0.0) in(0.0) a(0.0) short(0.0) 17-day(1.0) period(0.0) --(0.0) the(0.0) 
+change(1.0) that(0.0) the(0.0) new(1.0) majority(0.0) has(0.0) given(0.0) America(0.0) is(0.0) it(0.0) 's(0.0) spent(0.0) $(0.0) 1.3(1.0) trillion(1.0) in(0.0) a(0.0) short(0.0) 17(0.0) days(0.0) 
+.(0.0) Not(1.0) sure(1.0) how(1.0) we(0.0) 're(0.0) even(0.0) going(0.0) to(0.0) be(0.0) able(0.0) to(0.0) assure(0.0) the(0.0) safety(1.0) of(0.0) prisoners(1.0) in(0.0) Federal(1.0) custody(1.0) 
+much(0.0) less(0.0) the(0.0) safety(1.0) and(0.0) security(0.0) of(0.0) Americans(0.0) across(0.0) the(0.0) Nation(0.0) when(0.0) in(0.0) 17(0.0) days(0.0) we(0.0) spent(0.0) 50(0.0) percent(1.0) ,(0.0) 
+almost(0.0) 50(0.0) percent(1.0) more(0.0) money(1.0) than(0.0) the(0.0) entire(1.0) annual(0.0) budget(0.0) of(0.0) the(0.0) United(0.0) States(0.0) .(0.0) My(0.0) colleague(1.0) ,(0.0) Chairman(1.0) Scott(0.0) 
+,(0.0) a(0.0) man(1.0) of(0.0) good(0.0) faith(0.0) and(0.0) sincerity(0.0) ,(0.0) says(1.0) he(0.0) hopes(1.0) that(0.0) this(0.0) financial(0.0) stimulus(1.0) package(1.0) works(0.0) .(0.0) That(0.0) 
+'s(0.0) not(0.0) enough(0.0) .(0.0) That(0.0) 's(0.0) a(0.0) scary(1.0) hope(0.0) .(0.0) Where(1.0) are(0.0) the(0.0) legions(1.0) of(0.0) economists(1.0) ?(0.0) Where(0.0) are(0.0) the(0.0) 
+witnesses(1.0) ?(1.0) Why(0.0) was(0.0) n't(0.0) there(0.0) any(1.0) testimony(0.0) ?(1.0) We(0.0) had(0.0) an(0.0) appropriations(0.0) hearing(0.0) of(0.0) about(0.0) 6(0.0) hours(0.0) to(0.0) spend(1.0) 
+about(0.0) $(0.0) 800(1.0) billion(1.0) ,(0.0) our(0.0) piece(0.0) of(0.0) this(0.0) bill(0.0) .(0.0) Ways(1.0) and(0.0) Means(0.0) had(0.0) a(0.0) hearing(0.0) of(0.0) maybe(0.0) 
+
+
+----- below are rationale words -----
+
+considering	prisoners	Federal	custody	
+As	sure	prisons	
+got	money	sure	pay	prisons	
+keep	prisoners	money	got	
+Our	elected	
+taxes	pay	these	lights	pay	got	
+safety	prisoners	
+importantly	safety	order	sure	
+got	money	thoughtful	
+deficit	trillion	trillion	unfunded	liabilities	
+trillion-plus	Comptroller	tells	you	asset	proceeds	
+62	trillion	So	Madam	Speaker	
+sell	real	estate	
+might	62	trillion	unfunded	liability	
+got	out	grandchildren	Medicare	Security	
+Medicaid	spending	majority	new	liberal	majority	
+biggest	most	unrestrained	profligate	spending	spree	17-day	
+change	new	1.3	trillion	
+Not	sure	how	safety	prisoners	Federal	custody	
+safety	percent	
+percent	money	entire	colleague	Chairman	
+man	says	hopes	stimulus	package	
+scary	Where	legions	economists	
+witnesses	?	any	?	spend	
+800	billion	Ways	
+
+reads % = 0.22

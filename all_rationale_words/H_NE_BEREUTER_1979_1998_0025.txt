@@ -1,0 +1,38 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) commend(0.0) the(0.0) distinguished(0.0) gentleman(0.0) from(0.0) Pennsylvania(1.0) ((0.0) Chairman(0.0) Shuster(1.0) )(0.0) and(0.0) the(0.0) distinguished(0.0) gentleman(0.0) from(0.0) Minnesota(1.0) ((0.0) Mr.(0.0) Oberstar(1.0) )(0.0) 
+,(0.0) as(0.0) well(0.0) as(0.0) the(0.0) distinguished(0.0) chairman(0.0) ((1.0) Mr.(0.0) Petri(1.0) )(0.0) and(0.0) the(0.0) distinguished(0.0) ranking(0.0) member(0.0) ((0.0) Mr.(0.0) Rahall(1.0) )(0.0) 
+of(0.0) the(0.0) Subcommittee(0.0) on(0.0) Surface(0.0) Transportation(0.0) ,(0.0) for(0.0) their(0.0) extraordinary(0.0) work(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) think(0.0) this(0.0) legislation(1.0) lives(0.0) 
+up(0.0) to(0.0) its(0.0) name(0.0) .(0.0) It(0.0) will(0.0) improve(0.0) the(0.0) lives(0.0) of(0.0) all(0.0) Americans(1.0) by(0.0) helping(0.0) to(0.0) create(0.0) a(0.0) more(0.0) efficient(0.0) 
+and(0.0) safer(1.0) highway(1.0) system(0.0) .(0.0) I(0.0) am(0.0) pleased(0.0) we(0.0) are(0.0) restoring(1.0) integrity(1.0) to(0.0) the(0.0) trust(0.0) fund(1.0) .(0.0) Finally(0.0) ,(0.0) we(0.0) 
+are(0.0) returning(0.0) to(0.0) the(0.0) principles(1.0) that(0.0) were(0.0) established(0.0) by(0.0) President(0.0) Dwight(1.0) D.(0.0) Eisenhower(0.0) for(0.0) the(0.0) Highway(0.0) Trust(0.0) Fund(0.0) .(0.0) When(0.0) 
+Americans(0.0) pay(0.0) their(0.0) Federal(0.0) gasoline(1.0) tax(1.0) at(0.0) the(0.0) gas(1.0) pump(0.0) ,(0.0) they(0.0) have(0.0) every(0.0) right(0.0) to(0.0) expect(0.0) that(0.0) their(0.0) money(1.0) 
+actually(0.0) will(0.0) be(0.0) used(0.0) for(0.0) transportation(1.0) and(0.0) not(0.0) diverted(1.0) to(0.0) other(0.0) purposes(0.0) .(0.0) Those(0.0) funds(1.0) do(0.0) not(0.0) belong(0.0) to(0.0) OMB(1.0) 
+or(0.0) the(0.0) House(0.0) Budget(1.0) Committee(0.0) .(0.0) They(0.0) belong(0.0) to(0.0) the(0.0) American(0.0) people(0.0) who(0.0) pay(0.0) those(0.0) gasoline(1.0) taxes(1.0) to(0.0) be(0.0) used(0.0) 
+for(0.0) transportation(1.0) ,(0.0) primarily(1.0) highway(0.0) construction(0.0) and(0.0) maintenance(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) this(0.0) bill(1.0) ensures(1.0) that(0.0) the(0.0) taxes(1.0) paid(0.0) at(0.0) 
+the(0.0) gas(1.0) pump(0.0) will(0.0) go(0.0) toward(0.0) constructing(0.0) and(0.0) improving(0.0) our(0.0) Nation(1.0) 's(0.0) highways(1.0) .(0.0) Our(0.0) infrastructure(1.0) is(0.0) in(0.0) desperate(1.0) need(0.0) 
+of(0.0) additional(0.0) resources(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) West(0.0) Virginia(0.0) a(0.0) few(0.0) minutes(0.0) ago(0.0) told(0.0) us(0.0) of(0.0) the(0.0) situation(0.0) with(0.0) the(0.0) 
+country(1.0) 's(0.0) obsolete(0.0) bridges(1.0) ,(0.0) functionally(0.0) and(0.0) structurally(0.0) deficient(1.0) .(0.0) This(0.0) bill(1.0) addresses(1.0) these(0.0) and(0.0) other(0.0) crying(0.0) needs(0.0) in(0.0) our(0.0) 
+infrastructure(1.0) .(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) this(0.0) outstanding(0.0) and(0.0) ,(0.0) I(0.0) would(0.0) say(0.0) ,(0.0) very(0.0) responsible(0.0) legislation(1.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+Pennsylvania	Shuster	Minnesota	Oberstar	
+(	Petri	Rahall	
+Chairman	legislation	
+Americans	
+safer	highway	restoring	integrity	fund	
+principles	Dwight	
+gasoline	tax	gas	money	
+transportation	diverted	funds	OMB	
+Budget	gasoline	taxes	
+transportation	primarily	Chairman	bill	ensures	taxes	
+gas	Nation	highways	infrastructure	desperate	
+
+country	bridges	deficient	bill	addresses	
+infrastructure	legislation	
+
+
+reads % = 0.16370106761565836

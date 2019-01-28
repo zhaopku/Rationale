@@ -1,0 +1,44 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) this(0.0) is(0.0) a(0.0) remarkable(0.0) piece(0.0) of(0.0) bipartisan(1.0) work(0.0) .(0.0) I(0.0) want(0.0) to(0.0) pay(1.0) tribute(0.0) to(0.0) my(0.0) dear(0.0) friend(0.0) 
+Mr.(0.0) Barton(1.0) ,(0.0) the(0.0) ranking(0.0) minority(0.0) member(0.0) of(0.0) the(0.0) committee(0.0) ;(0.0) my(0.0) good(0.0) friend(0.0) ,(0.0) the(0.0) chairman(0.0) of(0.0) the(0.0) committee(0.0) 
+,(0.0) for(0.0) his(0.0) outstanding(0.0) leadership(0.0) on(0.0) this(0.0) ,(0.0) Mr.(0.0) Waxman(1.0) ;(0.0) and(0.0) also(0.0) Mr.(0.0) Pallone(1.0) ,(0.0) as(0.0) chairman(0.0) of(0.0) the(0.0) 
+subcommittee(0.0) ,(0.0) for(0.0) their(0.0) leadership(0.0) .(0.0) I(0.0) want(0.0) to(0.0) tell(0.0) the(0.0) House(0.0) how(0.0) important(0.0) the(0.0) labors(0.0) of(0.0) my(0.0) dear(0.0) friend(0.0) 
+Mr.(0.0) Stupak(1.0) have(1.0) been(0.0) in(0.0) the(0.0) Oversight(0.0) Investigations(0.0) Committee(0.0) in(0.0) creating(0.0) the(0.0) basis(0.0) from(0.0) which(0.0) this(0.0) legislation(0.0) can(0.0) move(0.0) forward(0.0) 
+.(0.0) This(0.0) has(0.0) been(0.0) a(0.0) piece(0.0) of(0.0) legislation(1.0) which(0.0) moved(0.0) unanimously(0.0) out(0.0) of(0.0) the(0.0) committee(0.0) .(0.0) It(0.0) is(0.0) something(0.0) which(0.0) 
+we(0.0) would(0.0) hope(0.0) this(0.0) House(0.0) would(0.0) always(0.0) be(0.0) able(0.0) to(0.0) emulate(0.0) .(0.0) I(0.0) want(0.0) to(0.0) congratulate(0.0) Representatives(1.0) Sutton(1.0) ,(0.0) Nathan(0.0) 
+Deal(1.0) ,(0.0) and(0.0) John(0.0) Shimkus(1.0) for(0.0) their(0.0) labors(0.0) ,(0.0) and(0.0) the(0.0) outstanding(0.0) staff(0.0) on(0.0) both(0.0) sides(0.0) of(0.0) the(0.0) Commerce(0.0) Committee(0.0) 
+.(0.0) I(0.0) want(0.0) to(0.0) express(0.0) my(0.0) appreciation(0.0) to(0.0) Collin(0.0) Peterson(1.0) and(0.0) Mr.(0.0) Cardoza(1.0) of(0.0) California(0.0) for(0.0) their(0.0) labors(0.0) ,(0.0) and(0.0) 
+Representative(1.0) DeLauro(1.0) and(1.0) President(1.0) Obama(1.0) and(0.0) the(0.0) White(1.0) House(0.0) food(0.0) safety(0.0) group(0.0) .(0.0) The(0.0) legislation(0.0) is(0.0) supported(0.0) by(0.0) the(0.0) Consumers(1.0) 
+Union(1.0) ,(0.0) the(0.0) Centers(0.0) for(0.0) Science(0.0) and(0.0) Public(0.0) Interest(0.0) ,(0.0) the(0.0) National(0.0) Consumers(0.0) League(0.0) ,(0.0) and(0.0) a(0.0) large(0.0) number(0.0) of(0.0) 
+other(0.0) organizations(0.0) ,(0.0) including(0.0) the(0.0) Grocery(0.0) Manufacturers(0.0) ,(0.0) GMA(0.0) ,(0.0) and(0.0) United(0.0) Fresh(0.0) Produce(0.0) .(0.0) Jeanie(0.0) Ireland(1.0) and(0.0) my(0.0) good(0.0) 
+friend(0.0) Virgil(1.0) Miller(1.0) have(0.0) worked(0.0) very(0.0) hard(0.0) at(0.0) the(0.0) staff(0.0) level(0.0) ,(0.0) and(0.0) they(0.0) deserve(0.0) thanks(0.0) .(0.0) This(0.0) is(0.0) a(0.0) 
+piece(0.0) of(0.0) legislation(1.0) that(0.0) will(0.0) stop(0.0) Americans(1.0) being(0.0) killed(0.0) by(0.0) bad(0.0) foods(1.0) .(0.0) It(0.0) is(0.0) a(0.0) piece(0.0) of(0.0) legislation(1.0) that(0.0) 
+will(0.0) see(0.0) to(0.0) it(0.0) that(0.0) the(0.0) Food(1.0) and(0.0) Drug(1.0) Administration(1.0) has(0.0) both(0.0) the(0.0) authority(0.0) and(0.0) the(0.0) funds(0.0) to(0.0) address(0.0) not(0.0) 
+only(0.0) American(0.0) foods(1.0) but(0.0) foods(1.0) being(0.0) imported(0.0) from(0.0) places(0.0) like(0.0) China(1.0) .(0.0) It(0.0) will(0.0) stop(0.0) harmful(1.0) seafood(1.0) ,(0.0) E.(1.0) coli(1.0) 
+in(0.0) spinach(0.0) ,(0.0) tainted(1.0) peppers(0.0) from(0.0) Mexico(1.0) ,(0.0) and(0.0) a(0.0) large(0.0) number(0.0) of(0.0) other(0.0) things(0.0) .(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) 
+to(0.0) support(0.0) this(0.0) legislation(1.0) .(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	bipartisan	pay	
+Barton	
+Waxman	Pallone	
+
+Stupak	have	
+legislation	
+Representatives	Sutton	
+Deal	Shimkus	
+Peterson	Cardoza	
+Representative	DeLauro	and	President	Obama	White	Consumers	
+Union	
+Ireland	
+Virgil	Miller	
+legislation	Americans	foods	legislation	
+Food	Drug	Administration	
+foods	foods	China	harmful	seafood	E.	coli	
+tainted	Mexico	
+legislation	
+
+reads % = 0.12146892655367232

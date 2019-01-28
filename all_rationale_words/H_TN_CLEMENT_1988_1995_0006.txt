@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+Lewis(1.0) ](0.0) for(1.0) yielding(1.0) to(0.0) me(0.0) .(0.0) He(0.0) has(0.0) been(0.0) a(0.0) friend(0.0) of(0.0) mine(0.0) for(0.0) many(0.0) ,(0.0) many(0.0) years(0.0) .(0.0) We(0.0) 
+join(0.0) in(0.0) strong(0.0) support(0.0) of(0.0) the(0.0) President(1.0) 's(0.0) nomination(0.0) of(0.0) Dr.(0.0) Henry(1.0) Foster(1.0) as(0.0) Surgeon(0.0) General(0.0) of(0.0) the(0.0) United(0.0) States(0.0) 
+.(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) brought(0.0) along(0.0) a(0.0) lot(0.0) of(0.0) faxes(1.0) tonight(0.0) .(0.0) This(0.0) is(0.0) just(0.0) 1(0.0) day(0.0) of(0.0) faxes(1.0) 
+,(0.0) just(0.0) tens(1.0) and(0.0) hundreds(0.0) of(0.0) faxes(1.0) ,(0.0) letters(0.0) that(0.0) we(0.0) are(0.0) receiving(0.0) of(0.0) people(0.0) at(0.0) home(0.0) in(0.0) Nashville(1.0) ,(0.0) 
+TN(1.0) ,(0.0) that(0.0) know(0.0) him(0.0) the(0.0) best(0.0) ,(0.0) I(0.0) would(0.0) say(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Georgia(1.0) ,(0.0) and(0.0) they(0.0) are(0.0) 
+very(0.0) much(0.0) behind(0.0) Dr.(0.0) Foster(1.0) ,(0.0) because(0.0) they(0.0) know(0.0) him(0.0) .(0.0) For(0.0) example(0.0) ,(0.0) there(0.0) is(0.0) the(0.0) example(0.0) of(0.0) the(0.0) 
+fax(0.0) I(0.0) received(0.0) today(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+for	yielding	
+President	Henry	Foster	
+Chairman	faxes	faxes	
+tens	faxes	Nashville	
+TN	Georgia	
+Foster	
+
+
+reads % = 0.1111111111111111

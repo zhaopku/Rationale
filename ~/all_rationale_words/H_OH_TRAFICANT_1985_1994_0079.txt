@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+3261(1.0) ,(1.0) will(0.0) change(1.0) the(0.0) burden(0.0) of(0.0) proof(0.0) in(0.0) a(0.0) tax(1.0) case(1.0) .(0.0) Under(1.0) current(0.0) law(1.0) ,(0.0) taxpayers(1.0) are(0.0) guilty(1.0) ,(0.0) 
+guilty(1.0) and(0.0) have(0.0) to(0.0) prove(0.0) they(0.0) are(0.0) innocent(1.0) .(0.0) A(1.0) mass(0.0) murderer(0.0) is(0.0) innocent(1.0) until(0.0) proven(1.0) guilty(1.0) ,(0.0) but(0.0) not(1.0) 
+mom(1.0) and(0.0) dad(1.0) ,(0.0) unbelievable(0.0) .(0.0) But(0.0) what(1.0) is(0.0) more(0.0) troubling(1.0) are(0.0) the(0.0) numbers(1.0) of(0.0) Members(0.0) that(0.0) say(1.0) they(0.0) support(0.0) 
+it(0.0) but(0.0) are(0.0) afraid(1.0) to(0.0) get(0.0) involved(0.0) ,(0.0) afraid(1.0) to(0.0) get(0.0) involved(0.0) .(0.0) If(1.0) Congress(0.0) lost(0.0) its(0.0) backbone(0.0) ,(0.0) what(1.0) 
+do(0.0) you(1.0) think(1.0) is(0.0) happening(1.0) to(0.0) the(0.0) American(0.0) taxpayers(1.0) ?(0.0) We(0.0) ought(1.0) to(0.0) be(0.0) ashamed(1.0) of(0.0) ourselves(0.0) .(0.0) It(0.0) is(0.0) 
+a(0.0) sad(0.0) day(0.0) when(0.0) a(0.0) 125-pound(1.0) woman(1.0) named(0.0) Mary(1.0) Matalin(1.0) of(0.0) Equal(1.0) Time(0.0) displays(1.0) more(0.0) courage(0.0) than(0.0) many(0.0) of(0.0) the(0.0) 
+Members(0.0) of(0.0) this(0.0) body(0.0) .(0.0) It(0.0) is(0.0) time(0.0) to(0.0) get(0.0) back(0.0) to(0.0) the(0.0) Constitution(0.0) .(0.0) Sign(1.0) discharge(0.0) petition(0.0) number(0.0) 12(1.0) 
+,(0.0) and(0.0) if(0.0) Mary(1.0) Matalin(1.0) can(0.0) take(0.0) the(0.0) heat(1.0) ,(0.0) Members(0.0) of(0.0) Congress(0.0) can(1.0) take(0.0) the(0.0) heat(1.0) .(0.0) Find(1.0) a(0.0) 
+backbone(0.0) ,(0.0) Congress(0.0) ,(0.0) find(1.0) a(0.0) backbone(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+,	change	tax	case	Under	law	taxpayers	guilty	
+guilty	innocent	A	innocent	proven	guilty	not	
+mom	dad	what	troubling	numbers	say	
+afraid	afraid	If	what	
+you	think	happening	taxpayers	ought	ashamed	
+125-pound	woman	Mary	Matalin	Equal	displays	
+Sign	12	
+Mary	Matalin	heat	can	heat	Find	
+find	
+
+reads % = 0.27218934911242604

@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) in(0.0) strong(0.0) opposition(1.0) to(0.0) this(0.0) rule(1.0) because(0.0) of(0.0) the(0.0) long(0.0) list(0.0) of(0.0) Budget(1.0) Act(1.0) waivers(1.0) it(0.0) contains(0.0) 
+.(0.0) These(0.0) Budget(1.0) Act(1.0) waivers(1.0) are(0.0) needed(0.0) because(0.0) H.R(0.0) .(0.0) 925(0.0) creates(0.0) a(0.0) massive(0.0) new(0.0) entitlement(1.0) program(1.0) .(0.0) Under(0.0) the(0.0) 
+bill(1.0) ,(0.0) property(1.0) owners(0.0) who(0.0) successfully(0.0) claim(0.0) that(0.0) the(0.0) value(0.0) of(0.0) their(0.0) property(0.0) has(0.0) been(0.0) diminished(0.0) by(0.0) a(0.0) government(1.0) regulatory(1.0) 
+action(0.0) would(0.0) be(0.0) entitled(0.0) to(0.0) compensation(1.0) .(0.0) The(0.0) new(0.0) right(0.0) to(0.0) payments(0.0) would(0.0) be(0.0) enforceable(1.0) through(0.0) binding(0.0) arbitration(1.0) or(0.0) in(0.0) 
+court(0.0) .(0.0) Payments(0.0) would(0.0) be(0.0) required(0.0) even(0.0) for(0.0) regulatory(1.0) actions(0.0) that(0.0) the(0.0) government(1.0) is(0.0) absolutely(0.0) required(0.0) to(0.0) take(0.0) under(0.0) other(0.0) 
+existing(0.0) laws(1.0) .(0.0) The(0.0) cost(1.0) of(0.0) this(0.0) new(0.0) entitlement(1.0) program(1.0) is(0.0) difficult(0.0) --(0.0) if(0.0) not(0.0) impossible(0.0) --(0.0) to(0.0) calculate(0.0) with(0.0) 
+precision(0.0) ,(0.0) but(0.0) the(0.0) cost(1.0) could(0.0) be(0.0) extremely(0.0) large(0.0) .(0.0) Under(0.0) the(0.0) bill(1.0) ,(0.0) landowners(1.0) would(0.0) have(0.0) an(0.0) incentive(1.0) to(0.0) 
+apply(0.0) for(0.0) all(0.0) sorts(0.0) of(0.0) Federal(1.0) to(0.0) take(0.0) .(0.0) If(0.0) any(0.0) of(0.0) the(0.0) permits(0.0) were(0.0) denied(1.0) ,(0.0) the(0.0) landowner(1.0) would(0.0) 
+be(0.0) entitled(0.0) to(0.0) a(0.0) check(0.0) .(0.0) Compensation(1.0) would(0.0) be(0.0) due(0.0) even(0.0) when(0.0) the(0.0) Government(1.0) was(0.0) simply(0.0) denying(1.0) permission(0.0) for(0.0) an(0.0) 
+activity(0.0) that(0.0) the(0.0) landowner(1.0) knew(0.0) would(0.0) not(0.0) be(0.0) allowed(0.0) when(0.0) he(0.0) acquired(0.0) the(0.0) land(0.0) .(0.0) The(0.0) Office(0.0) of(0.0) Management(0.0) and(0.0) 
+Budget(0.0) states(0.0) that(0.0) ``(0.0) preliminary(0.0) estimates(0.0) indicate(0.0) that(0.0) the(0.0) effect(0.0) of(0.0) the(0.0) bill(0.0) would(0.0) be(0.0) to(0.0) increase(1.0) the(0.0) deficit(1.0) by(0.0) 
+at(0.0) least(0.0) several(0.0) billion(1.0) dollars(1.0) during(0.0) fiscal(1.0) year(0.0) 1995(1.0) through(0.0) 1998(1.0) .(0.0) ''(0.0) The(0.0) Congressional(1.0) Budget(1.0) Office(0.0) cost(0.0) estimate(0.0) says(0.0) 
+that(0.0) CBO(1.0) has(0.0) not(0.0) yet(0.0) completed(0.0) its(0.0) analysis(0.0) of(0.0) the(0.0) costs(1.0) of(0.0) this(0.0) legislation(1.0) ,(0.0) but(0.0) that(0.0) those(0.0) costs(1.0) could(0.0) 
+be(0.0) significant(0.0) .(0.0) The(0.0) report(0.0) of(0.0) the(0.0) Rules(0.0) Committee(0.0) acknowledges(0.0) that(0.0) H.R(0.0) .(0.0) 925(0.0) creates(0.0) a(0.0) new(0.0) entitlement(1.0) ,(0.0) and(0.0) 
+that(0.0) this(0.0) entitlement(1.0) requires(0.0) numerous(0.0) Budget(0.0) Act(1.0) waivers(1.0) .(0.0) In(0.0) fact(0.0) ,(0.0) the(0.0) rule(1.0) is(0.0) waiving(1.0) almost(0.0) every(0.0) major(0.0) provision(1.0) 
+of(0.0) the(0.0) Congressional(1.0) Budget(1.0) Act(1.0) .(0.0) It(0.0) waives(1.0) section(0.0) 302(0.0) ((0.0) f(0.0) )(0.0) --(0.0) the(0.0) point(0.0) of(0.0) order(0.0) against(0.0) bills(0.0) 
+that(0.0) breach(1.0) the(0.0) allocations(0.0) of(0.0) spending(1.0) authority(0.0) to(0.0) committees(0.0) .(0.0) It(0.0) waives(0.0) section(0.0) 311(0.0) ((0.0) a(0.0) )(0.0) --(0.0) the(0.0) point(0.0) 
+of(0.0) order(0.0) against(0.0) bills(0.0) that(0.0) breach(1.0) the(0.0) ceiling(0.0) on(0.0) total(0.0) spending(1.0) set(0.0) by(0.0) the(0.0) budget(1.0) resolution(1.0) .(0.0) It(0.0) waives(1.0) section(0.0) 
+308(0.0) --(0.0) the(0.0) rule(1.0) that(0.0) requires(0.0) committee(0.0) reports(0.0) on(0.0) new(0.0) entitlement(1.0) bills(1.0) to(1.0) disclose(1.0) and(0.0) justify(1.0) the(0.0) new(0.0) entitlement(1.0) .(0.0) 
+And(0.0) finally(0.0) it(0.0) waives(1.0) section(0.0) 401(0.0) ((0.0) b(0.0) )(0.0) --(0.0) the(0.0) point(0.0) of(0.0) order(0.0) against(0.0) new(0.0) entitlements(1.0) effective(0.0) before(0.0) the(0.0) 
+start(0.0) of(0.0) the(0.0) new(0.0) fiscal(1.0) year(0.0) .(0.0) This(0.0) rule(1.0) marks(0.0) at(0.0) least(0.0) the(0.0) fifth(0.0) time(0.0) this(0.0) year(0.0) that(0.0) our(0.0) Republican(1.0) 
+colleagues(1.0) have(1.0) asked(1.0) us(1.0) to(1.0) waive(1.0) or(1.0) circumvent(1.0) the(1.0) Budget(1.0) Act(1.0) .(1.0) Ironically(1.0) ,(1.0) many(1.0) of(1.0) the(1.0) same(1.0) Republicans(1.0) who(1.0) 
+denounced(1.0) Budget(1.0) Act(1.0) waivers(1.0) in(1.0) previous(1.0) Congresses(1.0) are(1.0) now(1.0) supporting(1.0) waivers(1.0) in(1.0) this(1.0) Congress(0.0) .(1.0) We(1.0) should(1.0) not(1.0) be(0.0) repeatedly(1.0) 
+waiving(1.0) our(0.0) basic(1.0) budget(1.0) controls(1.0) --(1.0) and(0.0) especially(0.0) not(0.0) for(0.0) bills(1.0) like(0.0) H.R(0.0) .(0.0) 925(0.0) that(0.0) have(0.0) the(0.0) potential(0.0) to(0.0) 
+be(0.0) huge(0.0) budget(1.0) busters(1.0) .(0.0) I(0.0) therefore(0.0) urge(0.0) defeat(1.0) of(0.0) this(0.0) rule(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+opposition	rule	Budget	Act	waivers	
+Budget	Act	waivers	entitlement	program	
+bill	property	government	regulatory	
+compensation	enforceable	arbitration	
+regulatory	government	
+laws	cost	entitlement	program	
+cost	bill	landowners	incentive	
+Federal	denied	landowner	
+Compensation	Government	denying	
+landowner	
+increase	deficit	
+billion	dollars	fiscal	1995	1998	Congressional	Budget	
+CBO	costs	legislation	costs	
+entitlement	
+entitlement	Act	waivers	rule	waiving	provision	
+Congressional	Budget	Act	waives	
+breach	spending	
+breach	spending	budget	resolution	waives	
+rule	entitlement	bills	to	disclose	justify	entitlement	
+waives	entitlements	
+fiscal	rule	Republican	
+colleagues	have	asked	us	to	waive	or	circumvent	the	Budget	Act	.	Ironically	,	many	of	the	same	Republicans	who	
+denounced	Budget	Act	waivers	in	previous	Congresses	are	now	supporting	waivers	in	this	.	We	should	not	repeatedly	
+waiving	basic	budget	controls	--	bills	
+budget	busters	defeat	rule	
+
+reads % = 0.25303643724696356

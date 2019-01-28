@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) reflect(0.0) upon(0.0) the(0.0) last(0.0) time(0.0) we(0.0) fought(1.0) this(0.0) enemy(1.0) ,(0.0) and(0.0) the(0.0) first(0.0) time(0.0) that(0.0) I(0.0) know(0.0) that(0.0) we(0.0) fought(1.0) 
+this(0.0) enemy(1.0) goes(0.0) clear(0.0) back(0.0) into(0.0) the(0.0) early(0.0) part(0.0) of(0.0) the(0.0) 1500s(1.0) ,(0.0) and(0.0) I(0.0) pick(0.0) it(0.0) up(0.0) in(0.0) a(0.0) 
+book(0.0) called(0.0) ,(0.0) ``(0.0) Christian(1.0) Slaves(0.0) ,(0.0) Muslim(1.0) Masters(0.0) ,(0.0) ''(0.0) when(0.0) the(0.0) Corsairs(1.0) ,(0.0) Barbary(1.0) pirates(0.0) ,(0.0) would(0.0) set(0.0) 
+upon(0.0) the(0.0) merchant(0.0) marines(0.0) that(0.0) were(0.0) sailing(0.0) around(0.0) the(0.0) Mediterranean(0.0) ;(0.0) they(0.0) also(0.0) raided(0.0) the(0.0) coastlines(0.0) from(0.0) Greece(0.0) all(0.0) the(0.0) 
+way(0.0) up(0.0) along(0.0) the(0.0) coast(0.0) ,(0.0) Italy(0.0) ,(0.0) France(0.0) ,(0.0) Spain(0.0) ,(0.0) up(0.0) to(0.0) England(0.0) and(0.0) as(0.0) far(0.0) north(0.0) as(0.0) 
+Iceland(0.0) .(0.0) Iceland(0.0) itself(0.0) was(0.0) the(0.0) furthest(0.0) ,(0.0) most(0.0) northerly(0.0) venture(0.0) on(0.0) the(0.0) part(0.0) of(0.0) the(0.0) Barbary(1.0) pirates(0.0) ,(0.0) who(0.0) 
+pressed(0.0) 400(0.0) Icelanders(0.0) into(0.0) slavery(1.0) ,(0.0) took(0.0) them(0.0) back(0.0) to(0.0) the(0.0) Barbary(1.0) Coast(0.0) on(0.0) the(0.0) north(0.0) shore(0.0) of(0.0) Africa(0.0) and(0.0) 
+put(0.0) them(0.0) into(0.0) slavery(1.0) ,(0.0) where(0.0) they(0.0) died(0.0) faster(0.0) than(0.0) any(0.0) of(0.0) the(0.0) other(0.0) slaves(0.0) .(0.0) But(0.0) all(0.0) together(0.0) the(0.0) 
+history(0.0) totals(0.0) up(0.0) about(0.0) 1.25(0.0) million(0.0) Christian(1.0) slaves(1.0) pressed(0.0) into(0.0) slavery(1.0) by(0.0) the(0.0) Barbary(1.0) pirates(0.0) .(0.0) This(0.0) was(0.0) just(0.0) in(0.0) 
+the(0.0) 1500s(1.0) .(0.0) Now(0.0) ,(0.0) the(0.0) first(0.0) shooting(0.0) war(1.0) we(0.0) got(0.0) into(0.0) in(0.0) the(0.0) United(0.0) States(0.0) began(0.0) right(0.0) after(0.0) the(0.0) 
+end(0.0) of(0.0) the(0.0) violence(1.0) in(0.0) the(0.0) Revolutionary(1.0) War(0.0) .(0.0) We(0.0) finished(0.0) ,(0.0) the(0.0) battle(1.0) was(0.0) over(0.0) ,(0.0) and(0.0) 1783(0.0) ,(0.0) 
+here(0.0) in(0.0) this(0.0) country(1.0) ,(0.0) we(0.0) had(0.0) the(0.0) protection(1.0) of(0.0) the(0.0) French(0.0) flag(0.0) for(0.0) our(0.0) merchant(0.0) marine(0.0) at(0.0) that(0.0) time(0.0) 
+on(0.0) the(0.0) high(0.0) seas(0.0) ;(0.0) 1784(0.0) ,(0.0) we(0.0) lost(0.0) the(0.0) protection(0.0) of(0.0) the(0.0) French(0.0) flag(0.0) when(0.0) we(0.0) had(0.0) won(0.0) our(0.0) 
+independence(1.0) .(0.0) Between(0.0) that(0.0) period(0.0) of(0.0) time(0.0) and(0.0) our(0.0) Constitution(1.0) being(0.0) ratified(0.0) in(0.0) 1789(1.0) ,(0.0) the(0.0) protection(0.0) of(0.0) the(0.0) French(0.0) 
+flag(0.0) left(0.0) us(0.0) .(0.0) So(0.0) ,(0.0) from(0.0) 1783(1.0) was(0.0) when(0.0) hostilities(0.0) ended(0.0) with(0.0) Great(0.0) Britain(0.0) ;(0.0) 1784(0.0) ,(0.0) the(0.0) Barbary(1.0) 
+pirates(0.0) fell(0.0) upon(0.0) our(0.0) merchant(0.0) marine(0.0) ships(0.0) ,(0.0) pressed(0.0) our(0.0) soldiers(0.0) into(0.0) slavery(1.0) ,(0.0) and(0.0) we(0.0) had(0.0) to(0.0) build(0.0) a(0.0) 
+Marine(0.0) Corps(0.0) and(0.0) a(0.0) Navy(0.0) to(0.0) go(0.0) on(0.0) and(0.0) take(0.0) on(0.0) the(0.0) Barbary(1.0) pirates(0.0) who(0.0) were(0.0) negotiated(0.0) with(0.0) in(0.0) 1786(0.0) 
+by(0.0) Thomas(0.0) Jefferson(1.0) and(0.0) by(0.0) Ben(0.0) Franklin(1.0) and(0.0) by(0.0) John(0.0) Adams(1.0) .(0.0) Jefferson(0.0) brought(0.0) a(0.0) report(0.0) back(0.0) to(0.0) this(0.0) Congress(0.0) 
+,(0.0) and(0.0) that(0.0) report(0.0) is(0.0) clearly(0.0) a(0.0) document(0.0) within(0.0) the(0.0) history(0.0) of(0.0) this(0.0) Congress(0.0) .(0.0) It(0.0) can(0.0) be(0.0) found(0.0) in(0.0) 
+a(0.0) report(0.0) that(0.0) is(0.0) delivered(0.0) over(0.0) here(0.0) in(0.0) the(0.0) Library(0.0) of(0.0) Congress(0.0) ,(0.0) where(0.0) he(0.0) said(0.0) that(0.0) he(0.0) had(0.0) tried(0.0) 
+to(0.0) negotiate(0.0) with(0.0) the(0.0) Muslim(1.0) leader(0.0) at(0.0) the(0.0) time(0.0) ,(0.0) and(0.0) he(0.0) asked(0.0) :(0.0) Why(0.0) do(0.0) you(0.0) attack(0.0) us(0.0) ?(0.0) 
+Why(0.0) do(0.0) you(0.0) kill(0.0) us(0.0) ?(0.0) We(0.0) have(0.0) no(0.0) quarrel(0.0) with(0.0) you(0.0) .(0.0) We(0.0) have(0.0) had(0.0) a(0.0) peaceful(0.0) posture(0.0) with(0.0) 
+regard(0.0) to(0.0) you(0.0) ,(0.0) and(0.0) yet(0.0) your(0.0) whole(0.0) regime(1.0) sets(0.0) upon(0.0) us(0.0) in(0.0) the(0.0) high(0.0) seas(0.0) .(0.0) The(0.0) answer(0.0) he(0.0) 
+got(0.0) back(0.0) was(0.0) ,(0.0) Allah(0.0) commands(0.0) that(0.0) we(0.0) do(0.0) this(0.0) .(0.0) He(0.0) commands(0.0) that(0.0) we(0.0) attack(0.0) and(0.0) kill(0.0) you(0.0) ,(0.0) 
+or(0.0) press(0.0) you(0.0) into(0.0) slavery(1.0) until(0.0) you(0.0) either(0.0) pay(1.0) homage(0.0) or(0.0) adopt(1.0) and(0.0) convert(0.0) to(0.0) our(0.0) religion(1.0) .(0.0) That(0.0) 
+
+
+----- below are rationale words -----
+
+fought	enemy	fought	
+enemy	1500s	
+Christian	Muslim	Corsairs	Barbary	
+
+
+Barbary	
+slavery	Barbary	
+slavery	
+Christian	slaves	slavery	Barbary	
+1500s	war	
+violence	Revolutionary	battle	
+country	protection	
+
+independence	Constitution	1789	
+1783	Barbary	
+slavery	
+Barbary	
+Jefferson	Franklin	Adams	
+
+
+Muslim	
+
+regime	
+
+slavery	pay	adopt	religion	
+
+reads % = 0.08

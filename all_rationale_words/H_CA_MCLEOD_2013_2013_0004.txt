@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+This(0.0) week(0.0) marks(0.0) the(0.0) 10th(0.0) anniversary(0.0) of(0.0) the(0.0) onset(0.0) of(0.0) the(0.0) Iraq(1.0) war(0.0) .(0.0) As(0.0) our(0.0) troops(1.0) return(0.0) home(0.0) ,(0.0) many(0.0) 
+still(0.0) face(0.0) a(0.0) high(0.0) unemployment(1.0) rate(1.0) .(0.0) The(0.0) statistic(1.0) is(0.0) higher(0.0) for(0.0) women(1.0) veterans(1.0) .(0.0) One(0.0) remedy(1.0) to(0.0) this(0.0) abysmal(1.0) 
+unemployment(1.0) rate(1.0) is(0.0) education(1.0) .(0.0) However(0.0) ,(0.0) for(0.0) many(0.0) veterans(1.0) ,(0.0) the(0.0) opportunity(0.0) to(0.0) pursue(0.0) the(0.0) necessary(0.0) education(1.0) is(0.0) difficult(0.0) 
+because(0.0) of(0.0) economic(1.0) constraints(0.0) ,(0.0) family(0.0) responsibilities(0.0) ,(0.0) or(0.0) lack(0.0) of(0.0) information(0.0) about(0.0) available(0.0) Federal(1.0) resources(1.0) .(0.0) Similarly(0.0) ,(0.0) many(0.0) 
+college(1.0) campuses(1.0) struggle(0.0) to(0.0) provide(0.0) veterans(1.0) with(0.0) these(0.0) resources(1.0) .(0.0) That(0.0) is(0.0) why(0.0) I(0.0) introduced(0.0) my(0.0) first(0.0) bill(1.0) this(0.0) week(0.0) 
+,(0.0) called(0.0) the(0.0) Veteran(1.0) Excellence(0.0) Through(0.0) Education(0.0) Act(0.0) .(0.0) This(0.0) bill(0.0) creates(1.0) a(0.0) competitive(0.0) grant(0.0) program(0.0) aimed(0.0) at(0.0) helping(0.0) college(1.0) 
+campuses(1.0) that(0.0) serve(0.0) underrepresented(1.0) populations(1.0) and(0.0) provides(0.0) academic(0.0) and(0.0) related(0.0) support(0.0) services(0.0) for(0.0) all(0.0) enrolled(0.0) veterans(1.0) in(0.0) these(0.0) schools(1.0) .(0.0) 
+My(0.0) district(0.0) has(0.0) many(0.0) nearby(0.0) schools(0.0) with(0.0) a(0.0) growing(0.0) veteran(0.0) student(0.0) population(0.0) that(0.0) would(0.0) benefit(1.0) from(0.0) this(0.0) bill(1.0) ,(0.0) such(0.0) 
+as(0.0) Cal(0.0) Poly(0.0) Pomona(0.0) ,(0.0) Cal(1.0) State(0.0) San(0.0) Bernardino(1.0) ,(0.0) San(1.0) Bernardino(1.0) Valley(0.0) Community(0.0) College(1.0) ,(0.0) and(0.0) UC(0.0) Riverside(0.0) .(0.0) 
+Education(0.0) is(0.0) a(0.0) future(0.0) investment(0.0) .(0.0) It(0.0) is(0.0) our(0.0) obligation(1.0) to(0.0) assist(0.0) veterans(1.0) with(0.0) job(0.0) training(0.0) and(0.0) economic(1.0) opportunity(0.0) in(0.0) 
+return(0.0) for(0.0) their(0.0) service(0.0) to(0.0) our(0.0) country(1.0) .(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) this(0.0) bill(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Iraq	troops	
+unemployment	rate	statistic	women	veterans	remedy	abysmal	
+unemployment	rate	education	veterans	education	
+economic	Federal	resources	
+college	campuses	veterans	resources	bill	
+Veteran	creates	college	
+campuses	underrepresented	populations	veterans	schools	
+benefit	bill	
+Cal	Bernardino	San	Bernardino	College	
+obligation	veterans	economic	
+country	bill	
+
+reads % = 0.1926605504587156

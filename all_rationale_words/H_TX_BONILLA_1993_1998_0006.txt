@@ -1,0 +1,44 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) support(0.0) of(0.0) the(0.0) Fairness(1.0) for(0.0) Small(0.0) Business(0.0) and(0.0) Employees(1.0) Act(0.0) .(0.0) This(0.0) bill(1.0) might(1.0) just(0.0) 
+as(0.0) easily(0.0) be(0.0) called(0.0) the(0.0) No-Brainer(1.0) Act(0.0) .(0.0) If(0.0) you(0.0) support(0.0) creating(0.0) jobs(1.0) and(0.0) promoting(1.0) a(0.0) strong(0.0) economy(1.0) ,(0.0) you(0.0) 
+should(0.0) support(0.0) this(0.0) bill(1.0) .(0.0) It(0.0) should(0.0) be(0.0) a(0.0) No-Brainer(0.0) for(0.0) all(0.0) of(0.0) us(0.0) to(0.0) support(0.0) this(0.0) goal(0.0) .(0.0) This(0.0) 
+bill(1.0) is(0.0) necessary(0.0) because(0.0) for(0.0) years(0.0) the(0.0) NLRB(1.0) has(0.0) considered(0.0) imposing(1.0) a(0.0) single(0.0) site(0.0) rule(0.0) .(0.0) For(0.0) over(0.0) 40(0.0) years(0.0) 
+,(0.0) the(0.0) courts(1.0) have(0.0) interpreted(0.0) the(0.0) law(1.0) to(0.0) provide(0.0) employers(1.0) with(0.0) the(0.0) right(0.0) to(0.0) a(0.0) hearing(0.0) on(0.0) whether(0.0) a(0.0) single(0.0) 
+facility(0.0) selected(0.0) by(0.0) a(0.0) union(1.0) is(0.0) an(0.0) appropriate(0.0) bargaining(1.0) unit(0.0) .(0.0) A(0.0) reversal(0.0) of(0.0) this(0.0) precedence(1.0) by(0.0) NLRB(1.0) would(0.0) create(0.0) 
+a(0.0) litigation(1.0) nightmare(1.0) .(0.0) Simultaneously(0.0) ,(0.0) it(0.0) would(0.0) increase(1.0) business(0.0) costs(1.0) threatening(0.0) jobs(1.0) .(0.0) It(0.0) should(0.0) be(0.0) a(0.0) No-Brainer(0.0) to(0.0) 
+realize(0.0) that(0.0) this(0.0) is(0.0) a(0.0) dangerous(0.0) path(0.0) to(0.0) take(0.0) .(0.0) Passage(1.0) of(0.0) this(0.0) bill(1.0) helps(0.0) ensure(0.0) NLRB(1.0) will(0.0) not(0.0) threaten(1.0) 
+jobs(0.0) with(0.0) this(0.0) approach(0.0) in(0.0) the(0.0) future(0.0) .(0.0) This(0.0) bill(1.0) makes(0.0) other(0.0) necessary(0.0) reforms(1.0) to(0.0) abuses(1.0) of(0.0) the(0.0) current(0.0) system(0.0) 
+of(0.0) labor-management(1.0) relations(0.0) .(0.0) The(0.0) bill(1.0) stops(1.0) ``(1.0) salting(0.0) ,(0.0) ''(0.0) a(0.0) practice(0.0) where(0.0) union(1.0) organizers(0.0) seek(0.0) employment(1.0) solely(0.0) to(0.0) 
+organize(0.0) a(0.0) workforce(0.0) .(0.0) It(0.0) should(0.0) be(0.0) a(0.0) No-Brainer(0.0) to(0.0) recognize(0.0) that(0.0) a(0.0) company(0.0) must(0.0) make(0.0) hiring(0.0) decision(0.0) based(0.0) on(0.0) 
+an(0.0) employee(0.0) 's(0.0) genuine(0.0) interest(0.0) in(0.0) contributing(0.0) to(0.0) a(0.0) company(0.0) 's(0.0) success(0.0) ,(0.0) not(0.0) on(0.0) their(0.0) desire(0.0) to(0.0) promote(0.0) big(1.0) 
+labor(1.0) 's(0.0) agenda(1.0) .(0.0) The(0.0) bill(1.0) requires(1.0) the(0.0) NLRB(1.0) to(0.0) issue(0.0) a(0.0) final(0.0) decision(0.0) on(0.0) certain(0.0) unfair(1.0) labor(1.0) complaints(0.0) within(0.0) 
+a(0.0) year(0.0) .(0.0) It(0.0) should(0.0) be(0.0) a(0.0) No-Brainer(0.0) to(0.0) support(0.0) resolving(0.0) these(0.0) disputes(1.0) in(0.0) a(0.0) timely(0.0) manner(0.0) and(0.0) not(0.0) leaving(0.0) 
+companies(0.0) in(0.0) bureaucratic(1.0) limbo(1.0) .(0.0) Finally(0.0) ,(0.0) the(0.0) bill(1.0) requires(1.0) the(0.0) NLRB(1.0) to(0.0) pay(1.0) attorney(1.0) fees(0.0) and(0.0) costs(1.0) to(0.0) parties(0.0) 
+who(0.0) prevail(0.0) against(0.0) the(0.0) NLRB(1.0) in(0.0) administrative(1.0) and(0.0) court(0.0) proceedings(0.0) .(0.0) It(0.0) should(0.0) be(0.0) a(0.0) No-Brainer(0.0) to(0.0) support(0.0) this(0.0) common(0.0) 
+sense(0.0) effort(0.0) to(0.0) deter(1.0) bureaucratic(1.0) persecution(1.0) .(0.0) The(0.0) bill(1.0) before(0.0) us(0.0) represents(1.0) a(0.0) common(0.0) sense(0.0) effort(0.0) to(0.0) protect(1.0) our(0.0) economic(1.0) 
+prosperity(1.0) from(0.0) costly(1.0) government(1.0) interference(1.0) and(0.0) small(0.0) business(0.0) from(0.0) big(1.0) labor(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Fairness	Employees	bill	might	
+No-Brainer	jobs	promoting	economy	
+bill	
+bill	NLRB	imposing	
+courts	law	employers	
+union	bargaining	precedence	NLRB	
+litigation	nightmare	increase	costs	jobs	
+Passage	bill	NLRB	threaten	
+bill	reforms	abuses	
+labor-management	bill	stops	``	union	employment	
+
+big	
+labor	agenda	bill	requires	NLRB	unfair	labor	
+disputes	
+bureaucratic	limbo	bill	requires	NLRB	pay	attorney	costs	
+NLRB	administrative	
+deter	bureaucratic	persecution	bill	represents	protect	economic	
+prosperity	costly	government	interference	big	labor	
+
+reads % = 0.1954674220963173

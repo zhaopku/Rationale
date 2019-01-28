@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+1246(1.0) with(0.0) a(0.0) heavy(0.0) heart(1.0) to(0.0) express(1.0) my(0.0) deepest(1.0) condolences(0.0) to(0.0) the(0.0) country(1.0) of(0.0) Poland(1.0) ,(0.0) its(0.0) people(0.0) ,(0.0) and(0.0) the(0.0) 
+Polish(1.0) American(0.0) community(1.0) .(0.0) This(0.0) weekend(0.0) the(0.0) country(1.0) of(0.0) Poland(1.0) suffered(0.0) a(0.0) tragic(1.0) loss(0.0) .(0.0) Saturday(0.0) ,(0.0) I(0.0) awoke(1.0) to(0.0) 
+news(1.0) that(0.0) the(0.0) president(1.0) of(0.0) Poland(1.0) ,(0.0) Lech(1.0) Kaczynski(1.0) ,(0.0) Poland(1.0) 's(0.0) first(0.0) lady(1.0) Maria(1.0) Kaczynski(1.0) ,(0.0) President(1.0) of(0.0) the(0.0) 
+Polish(1.0) central(1.0) bank(1.0) ,(0.0) Slawomir(1.0) Skrzypek(1.0) ,(0.0) and(0.0) many(0.0) other(0.0) high(0.0) ranking(1.0) military(1.0) officials(1.0) all(0.0) died(0.0) in(0.0) a(0.0) plane(0.0) crash(1.0) 
+.(0.0) The(0.0) President(1.0) and(0.0) these(0.0) other(0.0) leaders(1.0) were(0.0) in(0.0) route(0.0) to(0.0) Russia(0.0) to(0.0) commemorate(0.0) the(0.0) 70th(1.0) anniversary(1.0) of(0.0) the(0.0) tragic(1.0) 
+massacre(1.0) at(0.0) Katyn(1.0) .(0.0) Although(0.0) these(0.0) leaders(1.0) will(0.0) be(0.0) missed(0.0) ,(0.0) I(0.0) have(0.0) faith(0.0) that(0.0) many(0.0) talented(1.0) people(0.0) in(0.0) Poland(1.0) 
+will(0.0) help(0.0) their(0.0) country(1.0) emerge(1.0) from(0.0) this(0.0) time(0.0) of(0.0) sorrow(0.0) and(0.0) mourning(0.0) .(0.0) I(0.0) want(1.0) to(0.0) let(0.0) the(0.0) people(0.0) of(0.0) 
+the(0.0) country(1.0) of(0.0) Poland(1.0) know(1.0) that(0.0) I(0.0) and(0.0) Metro(1.0) Detroit(1.0) 's(0.0) Polish(1.0) American(0.0) community(1.0) extend(0.0) our(0.0) deepest(1.0) sorrow(0.0) and(0.0) extend(0.0) 
+to(0.0) you(0.0) our(0.0) thoughts(0.0) and(0.0) prayers(0.0) in(0.0) your(0.0) time(0.0) of(0.0) need(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+heart	express	deepest	country	Poland	
+Polish	community	country	Poland	tragic	awoke	
+news	president	Poland	Lech	Kaczynski	Poland	lady	Maria	Kaczynski	President	
+Polish	central	bank	Slawomir	Skrzypek	ranking	military	officials	crash	
+President	leaders	70th	anniversary	tragic	
+massacre	Katyn	leaders	talented	Poland	
+country	emerge	want	
+country	Poland	know	Metro	Detroit	Polish	community	deepest	
+need	
+
+reads % = 0.30057803468208094

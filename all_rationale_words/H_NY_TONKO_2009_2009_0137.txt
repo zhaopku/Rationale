@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Thank(0.0) you(0.0) ,(0.0) Representative(1.0) Lujan(1.0) and(0.0) Representative(1.0) Connolly(1.0) .(0.0) Representative(1.0) Schauer(1.0) ,(0.0) we(0.0) are(0.0) going(0.0) to(0.0) let(0.0) you(0.0) close(0.0) our(0.0) hour(0.0) 
+here(0.0) because(0.0) we(0.0) are(0.0) running(0.0) out(0.0) of(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Representative	Lujan	Representative	Connolly	Representative	Schauer	
+
+
+reads % = 0.2

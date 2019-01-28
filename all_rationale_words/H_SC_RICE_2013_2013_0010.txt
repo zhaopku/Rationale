@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) my(0.0) friends(0.0) across(0.0) the(0.0) aisle(0.0) like(0.0) to(0.0) say(0.0) ``(0.0) therefore(0.0) ,(0.0) the(0.0) working(0.0) class(0.0) ,(0.0) ''(0.0) but(0.0) their(0.0) actions(1.0) 
+speak(0.0) more(0.0) loudly(0.0) than(0.0) their(0.0) words(0.0) .(0.0) The(0.0) working(0.0) man(0.0) just(0.0) got(0.0) a(0.0) $(0.0) 100(0.0) a(0.0) month(0.0) pay(0.0) cut(1.0) with(0.0) 
+the(0.0) expiration(0.0) of(0.0) the(0.0) payroll(1.0) tax(1.0) cut(1.0) .(1.0) The(0.0) President(1.0) 's(0.0) war(0.0) on(0.0) coal(1.0) will(0.0) deny(1.0) our(0.0) cheapest(1.0) fuel(1.0) and(0.0) 
+will(0.0) increase(1.0) American(0.0) families(0.0) '(0.0) monthly(0.0) utility(0.0) bills(0.0) by(0.0) another(0.0) $(0.0) 50(0.0) a(0.0) month(0.0) .(0.0) The(0.0) administration(1.0) 's(0.0) energy(1.0) policy(1.0) 
+is(0.0) designed(0.0) to(0.0) drive(0.0) up(0.0) costs(1.0) at(0.0) the(0.0) pump(1.0) --(0.0) over(0.0) $(0.0) 1(0.0) a(0.0) gallon(0.0) in(0.0) the(0.0) last(0.0) 4(0.0) years(0.0) 
+--(0.0) costing(1.0) the(0.0) average(0.0) working(0.0) family(0.0) $(0.0) 150(0.0) per(0.0) month(0.0) .(0.0) And(0.0) now(0.0) comes(0.0) ObamaCare(1.0) .(0.0) Forbes(0.0) Magazine(0.0) estimates(0.0) that(0.0) 
+medical(1.0) insurance(1.0) will(0.0) average(0.0) 90(0.0) percent(0.0) more(0.0) for(0.0) men(0.0) and(0.0) 60(0.0) percent(0.0) more(0.0) for(0.0) women(1.0) ,(0.0) costing(1.0) families(0.0) hundreds(0.0) of(0.0) 
+additional(0.0) dollars(1.0) per(0.0) month(0.0) .(0.0) Sooner(0.0) or(0.0) later(0.0) ,(0.0) these(0.0) $(0.0) 100s(0.0) per(0.0) month(0.0) add(0.0) up(0.0) .(0.0) The(0.0) administration(1.0) has(0.0) 
+a(0.0) plan(0.0) :(0.0) break(0.0) the(0.0) middle(1.0) class(1.0) with(0.0) taxes(1.0) and(0.0) higher(0.0) costs(1.0) so(0.0) we(0.0) 'll(0.0) all(0.0) be(0.0) dependent(0.0) on(0.0) the(0.0) 
+government(1.0) .(0.0) But(0.0) hey(0.0) ,(0.0) at(0.0) least(0.0) then(0.0) we(0.0) 'll(0.0) get(0.0) subsidized(1.0) government(1.0) health(1.0) insurance(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+actions	
+cut	
+payroll	tax	cut	.	President	coal	deny	cheapest	fuel	
+increase	administration	energy	policy	
+costs	pump	
+costing	ObamaCare	
+medical	insurance	women	costing	
+dollars	administration	
+middle	class	taxes	costs	
+government	subsidized	government	health	insurance	
+
+reads % = 0.17258883248730963

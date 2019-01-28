@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) the(0.0) House(0.0) of(0.0) Representatives(0.0) expresses(1.0) the(0.0) condolences(0.0) of(0.0) the(0.0) Nation(0.0) to(0.0) the(0.0) victims(0.0) of(0.0) Hurricane(0.0) Katrina(1.0) ,(0.0) and(0.0) 
+this(0.0) resolution(1.0) expresses(0.0) those(0.0) condolences(0.0) .(0.0) It(0.0) commends(1.0) the(0.0) resiliency(1.0) and(0.0) courage(0.0) of(0.0) the(0.0) people(0.0) of(0.0) the(0.0) States(0.0) of(0.0) Mississippi(1.0) 
+,(0.0) Louisiana(1.0) ,(0.0) and(0.0) Alabama(1.0) ,(0.0) and(0.0) it(0.0) commits(1.0) to(0.0) provide(0.0) the(0.0) necessary(0.0) resources(0.0) and(0.0) to(0.0) stand(0.0) by(0.0) the(0.0) people(0.0) 
+of(0.0) the(0.0) States(0.0) of(0.0) Mississippi(1.0) ,(0.0) Louisiana(1.0) ,(0.0) and(0.0) Alabama(1.0) in(0.0) the(0.0) relief(1.0) ,(0.0) recovery(1.0) ,(0.0) and(0.0) rebuilding(1.0) efforts(1.0) .(0.0) 
+Mr.(0.0) Speaker(1.0) ,(0.0) the(0.0) Senate(1.0) approved(0.0) a(0.0) similar(0.0) resolution(1.0) last(0.0) night(0.0) ,(0.0) and(0.0) bipartisan(1.0) support(1.0) for(0.0) recognizing(1.0) the(0.0) work(0.0) of(0.0) 
+first(0.0) responders(1.0) and(0.0) to(0.0) express(0.0) congressional(1.0) concern(1.0) for(0.0) those(0.0) displaced(1.0) by(0.0) the(0.0) hurricane(1.0) and(0.0) those(0.0) who(0.0) died(0.0) is(0.0) in(0.0) order(0.0) 
+.(0.0) My(0.0) district(0.0) ,(0.0) the(0.0) Seventh(1.0) Congressional(0.0) District(1.0) of(0.0) Louisiana(1.0) ,(0.0) did(0.0) not(0.0) suffer(0.0) significant(0.0) damage(0.0) from(0.0) Hurricane(1.0) Katrina(1.0) ,(0.0) 
+but(0.0) we(0.0) face(0.0) enormous(1.0) challenges(0.0) of(0.0) sheltering(1.0) and(0.0) supporting(0.0) the(0.0) numerous(0.0) evacuees(1.0) now(0.0) in(0.0) my(0.0) district(0.0) .(0.0) The(0.0) rest(0.0) of(0.0) 
+our(0.0) State(1.0) down(0.0) in(0.0) the(0.0) New(1.0) Orleans(1.0) area(0.0) and(0.0) south(0.0) ,(0.0) in(0.0) Plaquemines(1.0) Parish(0.0) and(0.0) St.(0.0) Bernard(0.0) Parish(1.0) were(0.0) devastated(0.0) 
+.(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) we(0.0) are(0.0) up(0.0) to(0.0) the(0.0) challenge(0.0) .(0.0) In(0.0) my(0.0) district(0.0) ,(0.0) in(0.0) Lake(1.0) Charles(0.0) ,(0.0) there(0.0) 
+are(0.0) an(0.0) estimated(0.0) 25,000(0.0) evacuees(1.0) ,(0.0) and(0.0) in(0.0) Lafayette(1.0) ,(0.0) my(0.0) hometown(0.0) ,(0.0) there(0.0) are(0.0) an(0.0) estimated(0.0) 40,000(0.0) evacuees(1.0) .(0.0) 
+Official(0.0) tallies(0.0) are(0.0) much(0.0) lower(0.0) because(0.0) many(0.0) had(0.0) family(0.0) or(0.0) friends(0.0) to(0.0) stay(0.0) with(0.0) or(0.0) had(0.0) funds(0.0) to(0.0) pay(1.0) for(0.0) 
+hotel(0.0) rooms(0.0) ,(0.0) but(0.0) this(0.0) is(0.0) going(0.0) to(0.0) be(0.0) temporary(0.0) .(0.0) Almost(0.0) all(0.0) available(0.0) housing(1.0) has(0.0) been(0.0) rented(0.0) or(0.0) bought(0.0) 
+.(0.0) Schools(0.0) are(0.0) preparing(0.0) to(0.0) accept(0.0) thousands(0.0) of(0.0) new(0.0) students(0.0) .(0.0) In(0.0) fact(0.0) ,(0.0) we(0.0) are(0.0) already(0.0) currently(0.0) enrolling(1.0) many(0.0) 
+of(0.0) these(0.0) students(0.0) .(0.0) State(1.0) and(0.0) local(0.0) officials(0.0) are(0.0) concerned(0.0) about(0.0) being(0.0) able(0.0) to(0.0) support(0.0) evacuees(1.0) for(0.0) the(0.0) long(0.0) months(0.0) 
+of(0.0) recovery(1.0) .(0.0) Local(0.0) community(0.0) organizations(1.0) are(0.0) stepping(0.0) up(0.0) to(0.0) help(0.0) ,(0.0) but(0.0) have(0.0) limited(0.0) resources(1.0) .(0.0) The(0.0) evacuation(1.0) process(0.0) 
+continues(0.0) .(0.0) Much(0.0) media(0.0) attention(0.0) has(0.0) been(0.0) on(0.0) New(1.0) Orleans(1.0) ,(0.0) but(0.0) there(0.0) are(0.0) other(0.0) areas(0.0) of(0.0) Louisiana(1.0) that(0.0) remain(0.0) 
+under(0.0) 10(0.0) feet(0.0) of(0.0) water(0.0) or(0.0) more(0.0) .(0.0) A(0.0) number(0.0) of(0.0) communities(1.0) in(0.0) the(0.0) Third(0.0) District(0.0) of(0.0) Louisiana(1.0) ,(0.0) represented(0.0) 
+by(0.0) the(0.0) gentleman(0.0) from(0.0) Louisiana(1.0) ((0.0) Mr.(0.0) Melancon(1.0) )(0.0) ,(0.0) have(0.0) been(0.0) completely(0.0) destroyed(0.0) .(0.0) Entire(0.0) towns(0.0) in(0.0) Mississippi(1.0) have(0.0) 
+been(0.0) destroyed(0.0) .(0.0) There(0.0) are(0.0) residents(0.0) of(0.0) these(0.0) communities(1.0) still(0.0) waiting(0.0) for(0.0) aid(1.0) ,(0.0) food(1.0) ,(0.0) water(1.0) ,(0.0) and(0.0) health(1.0) 
+supplies(1.0) .(0.0) The(0.0) recovery(1.0) process(0.0) will(0.0) be(0.0) long(0.0) and(0.0) expensive(1.0) .(0.0) The(0.0) Federal(1.0) Government(1.0) must(0.0) continue(0.0) to(0.0) step(0.0) in(0.0) and(0.0) 
+bring(0.0) its(0.0) resources(0.0) to(0.0) bear(0.0) in(0.0) this(0.0) effort(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) the(0.0) visual(0.0) images(0.0) have(0.0) been(0.0) heartbreaking(0.0) ,(0.0) and(0.0) 
+I(0.0) have(0.0) seen(0.0) the(0.0) damage(0.0) with(0.0) my(0.0) own(0.0) eyes(0.0) .(0.0) I(0.0) have(0.0) spoken(0.0) to(0.0) the(0.0) many(0.0) victims(0.0) who(0.0) have(0.0) been(0.0) 
+affected(0.0) ,(0.0) and(0.0) the(0.0) human(0.0) stories(0.0) are(0.0) unfathomable(1.0) to(0.0) hear(0.0) .(0.0) And(0.0) ,(0.0) like(0.0) many(0.0) ,(0.0) I(0.0) am(0.0) frustrated(0.0) with(0.0) 
+the(0.0) delay(1.0) and(0.0) the(0.0) bureaucracy(1.0) that(0.0) has(0.0) interfered(0.0) with(0.0) getting(0.0) relief(1.0) and(0.0) supplies(0.0) to(0.0) our(0.0) evacuees(1.0) .(0.0) But(0.0) this(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	expresses	Katrina	
+resolution	commends	resiliency	Mississippi	
+Louisiana	Alabama	commits	
+Mississippi	Louisiana	Alabama	relief	recovery	rebuilding	efforts	
+Speaker	Senate	resolution	bipartisan	support	recognizing	
+responders	congressional	concern	displaced	hurricane	
+Seventh	District	Louisiana	Hurricane	Katrina	
+enormous	sheltering	evacuees	
+State	New	Orleans	Plaquemines	Parish	
+Speaker	Lake	
+evacuees	Lafayette	evacuees	
+pay	
+housing	
+enrolling	
+State	evacuees	
+recovery	organizations	resources	evacuation	
+New	Orleans	Louisiana	
+communities	Louisiana	
+Louisiana	Melancon	Mississippi	
+communities	aid	food	water	health	
+supplies	recovery	expensive	Federal	Government	
+effort	Speaker	
+
+unfathomable	
+delay	bureaucracy	relief	evacuees	
+
+reads % = 0.16

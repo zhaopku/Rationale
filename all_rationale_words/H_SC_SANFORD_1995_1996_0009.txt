@@ -1,0 +1,18 @@
+This is from a Republican
+----- below is the original text -----
+Where(0.0) I(0.0) grew(0.0) up(0.0) back(0.0) in(0.0) South(1.0) Carolina(0.0) ,(0.0) volunteering(0.0) was(0.0) actually(0.0) volunteering(0.0) .(0.0) Aside(0.0) from(0.0) having(0.0) philosophical(0.0) questions(0.0) about(0.0) being(0.0) 
+paid(0.0) to(0.0) volunteer(0.0) ,(0.0) I(0.0) think(0.0) it(0.0) goes(0.0) back(0.0) to(0.0) what(0.0) Davy(0.0) Crockett(1.0) said(0.0) on(0.0) the(0.0) House(0.0) floor(0.0) ,(0.0) again(0.0) 
+more(0.0) than(0.0) 100(0.0) years(0.0) ago(0.0) ,(0.0) and(0.0) that(0.0) was(0.0) this(0.0) whole(0.0) notion(1.0) of(0.0) there(0.0) are(0.0) a(0.0) lot(0.0) of(0.0) good(0.0) things(0.0) 
+we(0.0) would(0.0) like(0.0) to(0.0) do(0.0) for(0.0) other(0.0) folks(0.0) ,(0.0) but(0.0) when(0.0) we(0.0) are(0.0) spending(1.0) other(0.0) people(0.0) 's(0.0) money(1.0) to(0.0) do(0.0) 
+so(0.0) ,(0.0) I(0.0) think(0.0) which(0.0) have(0.0) to(0.0) pause(0.0) a(0.0) real(0.0) long(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+South	
+Crockett	
+notion	
+spending	money	
+
+
+reads % = 0.05319148936170213

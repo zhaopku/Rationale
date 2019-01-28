@@ -1,0 +1,36 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) today(1.0) the(0.0) House(0.0) is(0.0) considering(1.0) the(0.0) Personal(1.0) Responsibility(0.0) ,(0.0) Work(1.0) ,(0.0) and(0.0) Family(0.0) Promotion(0.0) Act(0.0) ,(0.0) H.R(0.0) .(0.0) 4737(1.0) 
+.(0.0) In(0.0) keeping(1.0) with(0.0) the(0.0) strong(0.0) welfare(1.0) reform(0.0) principles(1.0) outlined(1.0) by(0.0) President(1.0) Bush(1.0) ,(0.0) this(0.0) legislation(0.0) would(1.0) reauthorize(1.0) a(0.0) very(0.0) 
+successful(0.0) program(0.0) that(0.0) encourages(1.0) personal(0.0) responsibility(0.0) and(0.0) work(0.0) .(0.0) H.R(0.0) .(0.0) 4737(1.0) builds(1.0) upon(0.0) the(0.0) successful(1.0) reforms(1.0) instituted(0.0) in(0.0) 1996(0.0) 
+that(0.0) I(0.0) was(0.0) pleased(0.0) to(0.0) support(0.0) .(0.0) Welfare(1.0) rolls(0.0) have(0.0) sharply(1.0) declined(1.0) since(0.0) reform(0.0) was(0.0) enacted(1.0) in(0.0) 1996(0.0) .(0.0) Poverty(1.0) 
+rates(0.0) have(0.0) declined(1.0) ,(0.0) employment(1.0) rates(0.0) have(0.0) climbed(0.0) and(0.0) wages(1.0) have(0.0) increased(0.0) .(0.0) H.R(0.0) .(0.0) 4737(1.0) will(0.0) build(0.0) on(0.0) those(0.0) 
+successes(1.0) .(0.0) This(0.0) legislation(0.0) will(0.0) maintain(0.0) full(0.0) funding(1.0) for(0.0) the(0.0) Temporary(1.0) Assistance(0.0) for(0.0) Needy(0.0) Families(0.0) ((0.0) TANF(1.0) )(0.0) ,(0.0) increase(1.0) 
+funding(1.0) by(0.0) $(0.0) 2(0.0) billion(1.0) for(0.0) improved(0.0) child(0.0) care(0.0) programs(1.0) over(0.0) the(0.0) next(0.0) 5(0.0) years(0.0) ,(0.0) increase(1.0) State(1.0) flexibility(0.0) in(0.0) 
+use(1.0) of(0.0) welfare(1.0) funding(1.0) ,(0.0) and(0.0) promote(0.0) individuals(0.0) in(0.0) job(1.0) preparation(0.0) ,(0.0) work(0.0) ,(0.0) and(0.0) marriage(0.0) .(0.0) Building(1.0) on(0.0) the(0.0) 
+successful(1.0) work(0.0) requirements(0.0) of(0.0) the(0.0) 1996(0.0) reform(0.0) ,(0.0) H.R(0.0) .(0.0) 4737(1.0) requires(0.0) welfare(1.0) recipients(0.0) to(0.0) work(0.0) 40(0.0) hours(0.0) per(0.0) week(1.0) 
+,(0.0) either(1.0) at(0.0) a(0.0) job(1.0) or(0.0) in(0.0) a(0.0) program(0.0) designed(0.0) to(0.0) help(0.0) them(0.0) gain(1.0) independence(0.0) .(0.0) This(0.0) is(0.0) important(0.0) legislation(0.0) 
+in(0.0) the(0.0) monumental(1.0) task(0.0) of(0.0) bringing(1.0) Americans(0.0) out(0.0) of(0.0) poverty(1.0) into(0.0) independence(0.0) by(0.0) raising(1.0) expectations(0.0) for(0.0) work(0.0) and(0.0) personal(0.0) responsibility(0.0) 
+.(0.0) H.R(0.0) .(0.0) 4737(1.0) will(0.0) further(1.0) strengthen(0.0) this(0.0) nation(1.0) 's(0.0) economy(1.0) and(0.0) workforce(1.0) to(0.0) prepare(1.0) all(0.0) our(0.0) citizens(1.0) for(0.0) the(0.0) 
+future(0.0) .(0.0) I(0.0) urge(1.0) the(0.0) House(0.0) to(0.0) approve(1.0) this(0.0) legislation(0.0) so(1.0) that(0.0) the(0.0) Personal(1.0) Responsibility(0.0) ,(0.0) Work(1.0) and(0.0) Family(0.0) Promotion(0.0) 
+Act(0.0) can(0.0) be(0.0) reauthorized(0.0) without(0.0) delay(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+today	considering	Personal	Work	4737	
+keeping	welfare	principles	outlined	President	Bush	would	reauthorize	
+encourages	4737	builds	successful	reforms	
+Welfare	sharply	declined	enacted	Poverty	
+declined	employment	wages	4737	
+successes	funding	Temporary	TANF	increase	
+funding	billion	programs	increase	State	
+use	welfare	funding	job	Building	
+successful	4737	welfare	week	
+either	job	gain	
+monumental	bringing	poverty	raising	
+4737	further	nation	economy	workforce	prepare	citizens	
+urge	approve	so	Personal	Work	
+delay	
+
+reads % = 0.2462686567164179

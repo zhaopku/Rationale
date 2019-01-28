@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) House(0.0) Resolution(1.0) 1137(1.0) provides(0.0) for(0.0) consideration(0.0) of(0.0) the(0.0) Senate(0.0) amendment(0.0) to(0.0) H.R(0.0) .(0.0) 2847(0.0) ,(0.0) the(0.0) Hiring(0.0) Incentives(0.0) 
+to(0.0) Restore(0.0) Employment(1.0) Act(0.0) .(0.0) The(0.0) rule(1.0) makes(0.0) in(0.0) order(0.0) a(0.0) motion(0.0) offered(0.0) by(0.0) the(0.0) Chair(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) 
+Ways(0.0) and(0.0) Means(0.0) ,(0.0) or(0.0) his(0.0) designee(0.0) ,(0.0) that(0.0) the(0.0) House(0.0) concur(0.0) in(0.0) the(0.0) Senate(0.0) amendment(0.0) to(0.0) the(0.0) House(0.0) amendment(0.0) 
+to(0.0) the(0.0) Senate(0.0) amendment(0.0) with(0.0) the(0.0) amendment(1.0) printed(0.0) in(0.0) the(0.0) report(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Rules(0.0) accompanying(0.0) this(0.0) resolution(0.0) .(0.0) 
+The(0.0) rule(0.0) waives(0.0) all(0.0) points(0.0) of(0.0) order(0.0) against(0.0) consideration(0.0) of(0.0) the(0.0) motion(0.0) ,(0.0) except(0.0) those(0.0) arising(1.0) under(0.0) clause(0.0) 10(0.0) of(0.0) 
+rule(0.0) XXI(0.0) .(0.0) The(0.0) rule(0.0) provides(0.0) the(0.0) Senate(0.0) amendment(0.0) and(0.0) the(0.0) motion(0.0) shall(0.0) be(0.0) considered(0.0) as(0.0) read(0.0) .(0.0) The(0.0) rule(0.0) 
+provides(0.0) 1(0.0) hour(0.0) of(0.0) debate(0.0) on(0.0) the(0.0) motion(0.0) equally(0.0) divided(0.0) and(0.0) controlled(0.0) by(0.0) the(0.0) Chair(0.0) and(0.0) ranking(0.0) minority(0.0) member(0.0) of(0.0) 
+the(0.0) Committee(0.0) on(0.0) Ways(0.0) and(0.0) Means(0.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) in(0.0) today(0.0) 's(0.0) economy(1.0) ,(0.0) many(0.0) families(0.0) are(0.0) struggling(0.0) to(0.0) 
+make(0.0) ends(0.0) meet(0.0) .(0.0) As(0.0) we(0.0) know(0.0) ,(0.0) the(0.0) economic(1.0) recession(1.0) began(0.0) in(0.0) 2008(1.0) as(0.0) a(0.0) direct(0.0) result(0.0) of(0.0) reckless(1.0) 
+and(0.0) irresponsible(1.0) financial(1.0) decisions(1.0) .(0.0) We(0.0) are(0.0) still(0.0) dealing(0.0) with(0.0) the(0.0) wreckage(1.0) today(0.0) .(0.0) Over(0.0) the(0.0) last(0.0) few(0.0) years(0.0) ,(0.0) 
+I(0.0) have(0.0) heard(0.0) countless(0.0) stories(0.0) of(0.0) people(0.0) struggling(0.0) to(0.0) put(0.0) food(1.0) on(0.0) the(0.0) table(0.0) ,(0.0) pay(1.0) their(0.0) mortgages(1.0) ,(0.0) and(0.0) 
+provide(0.0) for(0.0) their(0.0) children(0.0) ,(0.0) and(0.0) millions(1.0) of(0.0) America(1.0) 's(0.0) seniors(1.0) are(0.0) making(0.0) decisions(0.0) every(0.0) day(0.0) to(0.0) skip(0.0) meals(0.0) or(0.0) 
+cut(1.0) their(0.0) pills(0.0) in(0.0) half(0.0) just(0.0) to(0.0) survive(1.0) .(0.0) California(1.0) and(0.0) ,(0.0) in(0.0) particular(0.0) ,(0.0) my(0.0) constituents(1.0) in(0.0) Sacramento(1.0) ,(0.0) 
+have(0.0) been(0.0) greatly(0.0) impacted(0.0) by(0.0) this(0.0) economic(1.0) crisis(1.0) .(0.0) Many(0.0) of(0.0) my(0.0) constituents(1.0) were(0.0) and(0.0) continue(0.0) to(0.0) be(0.0) victims(0.0) of(0.0) 
+predatory(1.0) home(0.0) loan(0.0) lending(0.0) ,(0.0) unfair(1.0) credit(1.0) card(0.0) practices(0.0) ,(0.0) payday(0.0) loans(0.0) ,(0.0) and(0.0) other(0.0) forms(0.0) of(0.0) unscrupulous(1.0) business(0.0) practices(0.0) 
+.(0.0) They(0.0) turned(0.0) to(0.0) Congress(0.0) for(0.0) help(0.0) ,(0.0) and(0.0) we(0.0) responded(0.0) with(0.0) the(0.0) CARD(1.0) Act(0.0) .(0.0) And(0.0) the(0.0) ink(0.0) was(0.0) 
+hardly(0.0) dry(0.0) on(0.0) that(0.0) legislation(1.0) before(0.0) credit(0.0) card(0.0) companies(1.0) tried(0.0) to(0.0) find(0.0) loopholes(1.0) to(0.0) arbitrarily(1.0) raise(1.0) credit(0.0) card(0.0) interest(0.0) rates(1.0) 
+and(0.0) fees(0.0) on(0.0) consumers(1.0) .(0.0) This(0.0) Congress(0.0) also(0.0) passed(0.0) the(0.0) Wall(1.0) Street(1.0) Reform(1.0) and(0.0) Consumer(0.0) Protection(0.0) Act(0.0) ,(0.0) which(0.0) will(0.0) 
+bring(0.0) much-needed(1.0) oversight(1.0) and(0.0) accountability(1.0) to(0.0) Wall(1.0) Street(1.0) .(0.0) This(0.0) bill(1.0) also(0.0) creates(0.0) a(0.0) new(0.0) consumer(1.0) financial(1.0) protection(1.0) agency(1.0) to(0.0) 
+protect(1.0) consumers(1.0) from(0.0) unfair(1.0) and(0.0) deceptive(1.0) financial(1.0) practices(1.0) .(0.0) Meanwhile(0.0) ,(0.0) small(0.0) businesses(1.0) are(0.0) seeking(0.0) assistance(0.0) to(0.0) help(0.0) make(0.0) payroll(1.0) 
+,(0.0) retain(0.0) their(0.0) employees(0.0) ,(0.0) and(0.0) pay(1.0) for(0.0) the(0.0) skyrocketing(1.0) costs(1.0) of(0.0) health(1.0) insurance(1.0) .(0.0) These(0.0) are(0.0) the(0.0) reasons(0.0) why(0.0) 
+it(0.0) is(0.0) time(0.0) to(0.0) once(0.0) again(0.0) put(0.0) the(0.0) American(0.0) people(0.0) first(0.0) and(0.0) provide(0.0) them(0.0) with(0.0) the(0.0) support(0.0) they(0.0) need(0.0) from(0.0) 
+their(0.0) Representatives(0.0) in(0.0) Congress(0.0) .(0.0) We(0.0) need(0.0) to(0.0) pass(0.0) the(0.0) jobs(0.0) bill(0.0) before(1.0) us(0.0) today(0.0) as(0.0) a(0.0) significant(0.0) step(0.0) towards(0.0) 
+helping(0.0) hardworking(0.0) Americans(1.0) get(0.0) back(0.0) to(0.0) work(0.0) .(0.0) The(0.0) American(0.0) people(0.0) are(0.0) hurting(1.0) ,(0.0) and(0.0) the(0.0) top(0.0) priority(1.0) of(0.0) this(0.0) 
+administration(1.0) and(0.0) this(0.0) Congress(0.0) must(0.0) be(0.0) jobs(0.0) ,(0.0) jobs(0.0) ,(0.0) jobs(0.0) .(0.0) In(0.0) December(0.0) ,(0.0) the(0.0) House(0.0) passed(0.0) a(0.0) 
+
+
+----- below are rationale words -----
+
+Resolution	1137	
+Employment	rule	
+
+amendment	
+arising	
+
+
+Speaker	economy	
+economic	recession	2008	reckless	
+irresponsible	financial	decisions	wreckage	
+food	pay	mortgages	
+millions	America	seniors	
+cut	survive	California	constituents	Sacramento	
+economic	crisis	constituents	
+predatory	unfair	credit	unscrupulous	
+CARD	
+legislation	companies	loopholes	arbitrarily	raise	rates	
+consumers	Wall	Street	Reform	
+much-needed	oversight	accountability	Wall	Street	bill	consumer	financial	protection	agency	
+protect	consumers	unfair	deceptive	financial	practices	businesses	payroll	
+pay	skyrocketing	costs	health	insurance	
+
+before	
+Americans	hurting	priority	
+administration	
+
+reads % = 0.146

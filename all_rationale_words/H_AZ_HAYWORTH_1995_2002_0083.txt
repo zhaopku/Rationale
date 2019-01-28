@@ -1,0 +1,40 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) talk(0.0) about(0.0) faint(0.0) praise(0.0) .(0.0) It(0.0) is(0.0) interesting(0.0) to(0.0) hear(0.0) my(0.0) colleague(0.0) from(0.0) North(0.0) Dakota(0.0) .(0.0) Let(0.0) me(0.0) 
+address(0.0) ,(0.0) amidst(0.0) all(0.0) the(0.0) rhetoric(1.0) ,(0.0) a(0.0) couple(0.0) of(0.0) concerns(1.0) because(0.0) it(0.0) bears(0.0) amplification(0.0) in(0.0) a(0.0) bipartisan(1.0) way(0.0) ,(0.0) 
+mindful(0.0) of(0.0) the(0.0) gentleman(0.0) 's(0.0) experience(0.0) in(0.0) the(0.0) insurance(0.0) industry(0.0) .(0.0) Precisely(0.0) because(0.0) of(0.0) the(0.0) concerns(0.0) he(0.0) shared(0.0) with(0.0) this(0.0) 
+body(0.0) on(0.0) suitability(0.0) ,(0.0) precisely(0.0) because(0.0) of(0.0) some(0.0) of(0.0) the(0.0) challenges(0.0) confronted(0.0) ,(0.0) we(0.0) specifically(0.0) added(0.0) the(0.0) consumer(0.0) protections(1.0) offered(0.0) 
+in(0.0) the(0.0) Johnson(1.0) bill(1.0) .(0.0) Specifically(0.0) ,(0.0) section(0.0) 24(0.0) of(0.0) model(0.0) regulation(1.0) that(0.0) deals(0.0) precisely(0.0) with(0.0) the(0.0) question(0.0) of(0.0) suitability(0.0) 
+.(0.0) Now(0.0) ,(0.0) undergirding(1.0) all(0.0) of(0.0) this(0.0) is(0.0) the(0.0) notion(1.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) that(0.0) the(0.0) House(0.0) has(0.0) already(0.0) put(0.0) 
+in(0.0) place(0.0) an(0.0) incremental(1.0) approach(0.0) to(0.0) long-term(1.0) health(1.0) care(1.0) policy(1.0) and(0.0) insurance(1.0) .(0.0) One(0.0) of(0.0) the(0.0) challenges(0.0) we(0.0) confront(0.0) in(0.0) 
+a(0.0) legislative(1.0) body(0.0) in(0.0) a(0.0) very(0.0) real(0.0) way(0.0) is(0.0) how(0.0) to(0.0) capture(0.0) the(0.0) ideal(0.0) and(0.0) move(0.0) something(0.0) that(0.0) is(0.0) real(0.0) 
+.(0.0) With(0.0) carte(1.0) blanche(1.0) ,(0.0) with(0.0) a(0.0) blank(0.0) check(0.0) certainly(0.0) we(0.0) could(0.0) have(0.0) embraced(0.0) a(0.0) bill(1.0) six(0.0) times(0.0) more(0.0) costly(1.0) 
+;(0.0) and(0.0) I(0.0) champion(0.0) the(0.0) provisions(1.0) ,(0.0) but(0.0) the(0.0) challenge(0.0) we(0.0) face(0.0) is(0.0) fitting(0.0) this(0.0) in(0.0) to(0.0) budget(1.0) parameters(0.0) .(0.0) 
+Again(0.0) ,(0.0) the(0.0) question(0.0) comes(0.0) up(0.0) ,(0.0) who(0.0) will(0.0) this(0.0) benefit(1.0) ?(0.0) I(0.0) would(0.0) point(0.0) out(0.0) that(0.0) a(0.0) married(0.0) couple(0.0) 
+filing(0.0) jointly(0.0) would(0.0) find(0.0) the(0.0) economics(1.0) of(0.0) this(0.0) to(0.0) be(0.0) between(0.0) $(0.0) 40,000(0.0) and(0.0) $(0.0) 80,000(0.0) a(0.0) year(0.0) .(0.0) Not(0.0) 
+an(0.0) inconsiderable(0.0) sum(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) we(0.0) all(0.0) know(0.0) of(0.0) families(0.0) who(0.0) fit(0.0) within(0.0) those(0.0) parameters(0.0) .(0.0) I(0.0) shared(0.0) 
+in(0.0) committee(0.0) my(0.0) aunt(0.0) and(0.0) uncle(0.0) ,(0.0) my(0.0) cousin(0.0) with(0.0) Down(0.0) syndrome(0.0) .(0.0) They(0.0) fit(0.0) precisely(0.0) into(0.0) this(0.0) frame(0.0) work(0.0) 
+.(0.0) So(0.0) I(0.0) do(0.0) not(0.0) think(0.0) we(0.0) get(0.0) anywhere(0.0) by(0.0) characterizing(1.0) side(0.0) steps(0.0) ,(0.0) small(0.0) steps(0.0) .(0.0) The(0.0) fact(0.0) is(0.0) 
+,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) we(0.0) will(0.0) take(0.0) a(0.0) positive(0.0) step(0.0) forward(0.0) with(0.0) approval(0.0) of(0.0) this(0.0) legislation(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	
+rhetoric	concerns	bipartisan	
+
+protections	
+Johnson	bill	regulation	
+undergirding	notion	Speaker	
+incremental	long-term	health	care	policy	insurance	
+legislative	
+carte	blanche	bill	costly	
+provisions	budget	
+benefit	
+economics	
+Speaker	
+
+characterizing	
+Speaker	legislation	
+
+reads % = 0.09433962264150944

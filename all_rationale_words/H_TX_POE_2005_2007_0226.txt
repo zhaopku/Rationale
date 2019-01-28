@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) high-tech(1.0) bounty(1.0) hunting(1.0) is(0.0) now(0.0) occurring(0.0) in(0.0) the(0.0) United(0.0) States(0.0) .(0.0) The(0.0) Internet(0.0) allows(0.0) law(1.0) enforcement(1.0) to(0.0) track(0.0) down(0.0) 
+known(0.0) sex(0.0) offenders(0.0) in(0.0) the(0.0) United(0.0) States(0.0) .(0.0) States(0.0) can(0.0) find(0.0) convicted(1.0) sex(1.0) offenders(0.0) that(0.0) must(0.0) register(0.0) under(0.0) the(0.0) new(0.0) 
+Adam(0.0) Walsh(1.0) Child(1.0) Safety(0.0) Act(0.0) .(0.0) Failure(0.0) of(0.0) a(0.0) child(0.0) molester(1.0) to(0.0) register(0.0) is(0.0) a(0.0) Federal(0.0) crime(1.0) .(0.0) So(0.0) these(0.0) 
+convicted(1.0) sex(0.0) offenders(0.0) who(0.0) do(0.0) not(0.0) register(0.0) with(0.0) local(0.0) authorities(0.0) are(0.0) now(0.0) being(0.0) arrested(0.0) using(0.0) LexisNexis(1.0) Internet(0.0) tracking(0.0) .(0.0) Florida(1.0) 
+police(0.0) were(0.0) hunting(0.0) for(0.0) a(0.0) known(0.0) sex(0.0) offender(0.0) .(0.0) They(0.0) traced(0.0) him(0.0) to(0.0) Illinois(1.0) ,(0.0) but(0.0) Illinois(1.0) officials(0.0) claimed(0.0) the(0.0) 
+offender(1.0) was(0.0) dead(0.0) .(0.0) The(0.0) Internet(0.0) search(0.0) tools(0.0) tracked(0.0) the(0.0) child(0.0) molester(1.0) to(0.0) Indiana(1.0) ,(0.0) where(0.0) he(0.0) was(0.0) arrested(0.0) for(0.0) 
+absconding(0.0) and(0.0) for(0.0) failure(0.0) to(0.0) register(0.0) as(0.0) a(0.0) known(0.0) sex(0.0) offender(0.0) .(0.0) Studies(0.0) show(0.0) that(0.0) convicted(1.0) sex(0.0) offenders(0.0) often(0.0) remain(0.0) 
+dangerous(0.0) and(0.0) become(0.0) recidivists(1.0) once(0.0) released(0.0) from(0.0) prison(1.0) .(0.0) Sex(0.0) offenders(1.0) are(0.0) now(0.0) being(0.0) held(0.0) accountable(0.0) for(0.0) failing(0.0) to(0.0) register(0.0) 
+;(0.0) law(0.0) enforcement(1.0) is(0.0) informed(0.0) of(0.0) known(0.0) sex(0.0) offenders(0.0) '(0.0) whereabouts(0.0) ;(0.0) future(0.0) recidivism(1.0) is(0.0) prevented(0.0) ;(0.0) and(0.0) ,(0.0) meanwhile(0.0) 
+,(0.0) children(0.0) are(0.0) safer(0.0) because(0.0) of(0.0) high-tech(1.0) bounty(1.0) hunting(0.0) .(0.0) And(0.0) that(0.0) 's(0.0) just(0.0) the(0.0) way(0.0) it(0.0) is(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+high-tech	bounty	hunting	law	enforcement	
+convicted	sex	
+Walsh	Child	molester	crime	
+convicted	LexisNexis	Florida	
+Illinois	Illinois	
+offender	molester	Indiana	
+convicted	
+recidivists	prison	offenders	
+enforcement	recidivism	
+high-tech	bounty	
+
+reads % = 0.135

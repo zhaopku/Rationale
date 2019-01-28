@@ -1,0 +1,50 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) what(0.0) my(0.0) colleague(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Minnesota(1.0) ((0.0) Mr.(0.0) Gutknecht(1.0) )(0.0) ,(0.0) points(0.0) out(0.0) is(0.0) something(0.0) important(0.0) ,(0.0) 
+and(0.0) that(0.0) is(0.0) that(0.0) there(0.0) are(0.0) really(0.0) two(0.0) different(0.0) elements(0.0) to(0.0) this(0.0) overall(0.0) fight(1.0) that(0.0) we(0.0) have(0.0) on(0.0) the(0.0) dairy(0.0) 
+front(0.0) .(0.0) There(0.0) is(0.0) ,(0.0) first(0.0) of(0.0) all(0.0) ,(0.0) the(0.0) problem(0.0) of(0.0) the(0.0) Federal(1.0) order(0.0) system(0.0) ,(0.0) which(0.0) is(0.0) what(0.0) 
+we(0.0) began(0.0) talking(0.0) about(0.0) tonight(0.0) ,(0.0) and(0.0) that(0.0) is(0.0) the(0.0) differential(0.0) system(0.0) that(0.0) does(0.0) base(0.0) the(0.0) price(0.0) of(0.0) milk(0.0) largely(1.0) 
+on(0.0) the(0.0) proximity(0.0) to(0.0) Eau(1.0) Claire(0.0) .(0.0) In(0.0) fact(0.0) ,(0.0) it(0.0) was(0.0) interesting(0.0) .(0.0) That(0.0) is(0.0) a(0.0) fight(0.0) that(0.0) my(0.0) 
+predecessor(0.0) has(0.0) been(0.0) fighting(0.0) and(0.0) so(0.0) many(0.0) men(0.0) and(0.0) women(0.0) over(0.0) the(0.0) years(0.0) have(0.0) been(0.0) fighting(0.0) .(0.0) The(0.0) Agriculture(1.0) Commissioner(0.0) 
+from(0.0) your(0.0) State(1.0) ,(0.0) in(0.0) Minnesota(1.0) ,(0.0) pointed(0.0) out(0.0) that(0.0) dairy(1.0) farmers(1.0) in(0.0) Minnesota(1.0) have(0.0) become(0.0) so(0.0) frustrated(0.0) with(0.0) their(0.0) 
+inability(0.0) to(0.0) change(0.0) that(0.0) system(0.0) that(0.0) they(0.0) actually(0.0) think(0.0) it(0.0) might(0.0) be(0.0) easier(0.0) to(0.0) physically(0.0) relocate(0.0) the(0.0) City(0.0) of(0.0) Eau(1.0) 
+Claire(0.0) to(0.0) the(0.0) West(0.0) Coast(0.0) than(0.0) actually(0.0) making(0.0) a(0.0) reform(1.0) to(0.0) it(0.0) .(0.0) That(0.0) is(0.0) the(0.0) Federal(1.0) order(0.0) system(0.0) .(0.0) 
+But(0.0) the(0.0) second(0.0) part(0.0) of(0.0) this(0.0) ,(0.0) and(0.0) it(0.0) is(0.0) a(0.0) problem(0.0) ,(0.0) as(0.0) you(0.0) rightly(0.0) pointed(0.0) out(0.0) ,(0.0) which(0.0) 
+is(0.0) equally(0.0) bad(0.0) ,(0.0) it(0.0) is(0.0) the(0.0) problem(0.0) of(0.0) the(0.0) compacts(1.0) because(0.0) the(0.0) compacts(1.0) do(0.0) serve(0.0) to(0.0) create(0.0) trade(0.0) barriers(1.0) 
+between(0.0) States(0.0) and(0.0) between(0.0) regions(0.0) ,(0.0) and(0.0) Citizens(1.0) Against(1.0) Government(1.0) Waste(1.0) have(0.0) calculated(0.0) that(0.0) the(0.0) compacts(0.0) are(0.0) a(0.0) major(0.0) tax(0.0) 
+on(0.0) milk(0.0) that(0.0) will(0.0) drive(0.0) up(0.0) the(0.0) cost(0.0) of(0.0) milk(0.0) for(0.0) so(0.0) many(0.0) consumers(1.0) in(0.0) this(0.0) country(1.0) .(0.0) As(0.0) my(0.0) 
+colleagues(0.0) know(0.0) ,(0.0) we(0.0) are(0.0) the(0.0) most(0.0) effective(0.0) dairy(1.0) producing(0.0) region(0.0) in(0.0) the(0.0) whole(0.0) world(0.0) in(0.0) the(0.0) upper(0.0) Midwest(0.0) ,(0.0) 
+and(0.0) yet(0.0) because(0.0) of(0.0) the(0.0) combination(0.0) of(0.0) the(0.0) compacts(0.0) ,(0.0) because(0.0) of(0.0) the(0.0) combination(0.0) of(0.0) the(0.0) compacts(1.0) with(0.0) the(0.0) Federal(1.0) 
+order(0.0) system(0.0) ,(0.0) we(0.0) are(0.0) being(0.0) punished(1.0) for(0.0) that(0.0) very(0.0) productivity(1.0) which(0.0) we(0.0) have(0.0) .(0.0) And(0.0) as(0.0) the(0.0) gentleman(0.0) pointed(0.0) 
+out(0.0) also(0.0) ,(0.0) the(0.0) dairy(0.0) farmers(1.0) in(0.0) Minnesota(1.0) and(0.0) Wisconsin(1.0) are(0.0) not(0.0) asking(0.0) for(0.0) any(0.0) favors(1.0) .(0.0) They(0.0) do(0.0) not(0.0) 
+want(0.0) favors(1.0) .(0.0) They(0.0) do(0.0) not(0.0) want(0.0) sympathy(0.0) .(0.0) They(0.0) just(0.0) want(0.0) the(0.0) chance(0.0) to(0.0) compete(0.0) .(0.0) They(0.0) know(0.0) that(0.0) 
+if(0.0) they(0.0) are(0.0) given(0.0) that(0.0) equal(1.0) chance(0.0) to(0.0) compete(0.0) ,(0.0) they(0.0) will(0.0) succeed(0.0) .(0.0) They(0.0) will(0.0) succeed(0.0) vis-a-vis(1.0) farmers(1.0) in(0.0) 
+America(1.0) ,(0.0) but(0.0) also(0.0) farmers(1.0) all(0.0) across(0.0) the(0.0) world(0.0) .(0.0) That(0.0) is(0.0) all(0.0) they(0.0) are(0.0) looking(0.0) for(0.0) ,(0.0) and(0.0) in(0.0) 
+this(0.0) land(0.0) of(0.0) opportunity(0.0) it(0.0) seems(0.0) to(0.0) be(0.0) the(0.0) least(0.0) that(0.0) we(0.0) can(0.0) do(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Minnesota	Gutknecht	
+fight	
+Federal	
+largely	
+Eau	
+Agriculture	
+State	Minnesota	dairy	farmers	Minnesota	
+Eau	
+reform	Federal	
+
+compacts	compacts	barriers	
+Citizens	Against	Government	Waste	
+consumers	country	
+dairy	
+compacts	Federal	
+punished	productivity	
+farmers	Minnesota	Wisconsin	favors	
+favors	
+equal	vis-a-vis	farmers	
+America	farmers	
+
+
+reads % = 0.09375

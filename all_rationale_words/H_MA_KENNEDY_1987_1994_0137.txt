@@ -1,0 +1,50 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) strong(0.0) support(0.0) of(0.0) the(0.0) Pelosi(1.0) bill(1.0) ,(0.0) which(0.0) will(0.0) revoke(1.0) MFN(1.0) for(0.0) goods(0.0) produced(0.0) by(0.0) 
+the(0.0) People's(0.0) Liberation(1.0) Army(0.0) and(0.0) China(0.0) 's(0.0) defense(0.0) trading(0.0) companies(1.0) .(0.0) This(0.0) is(0.0) the(0.0) principled(1.0) approach(0.0) .(0.0) It(0.0) is(0.0) the(0.0) 
+pragmatic(1.0) approach(0.0) .(0.0) As(0.0) a(0.0) strong(0.0) supporter(0.0) of(0.0) free(1.0) trade(1.0) ,(0.0) I(0.0) do(0.0) not(0.0) come(0.0) to(0.0) this(0.0) position(0.0) lightly(0.0) .(0.0) 
+China(0.0) is(0.0) not(0.0) only(0.0) the(0.0) world(0.0) 's(0.0) largest(0.0) country(1.0) ,(0.0) but(0.0) it(0.0) also(0.0) has(0.0) the(0.0) world(0.0) 's(0.0) fastest(0.0) growing(0.0) economy(1.0) 
+.(0.0) Our(0.0) relationship(0.0) with(0.0) China(1.0) is(0.0) one(0.0) of(0.0) the(0.0) most(0.0) important(0.0) issues(0.0) that(0.0) this(0.0) Nation(1.0) faces(0.0) on(0.0) the(0.0) international(0.0) scene(0.0) 
+in(0.0) the(0.0) years(0.0) and(0.0) decades(0.0) ahead(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) as(0.0) we(0.0) begin(0.0) to(0.0) face(0.0) that(0.0) challenge(0.0) ,(0.0) a(0.0) simple(0.0) 
+extension(0.0) of(0.0) most-favored-nation(1.0) trading(0.0) status(0.0) --(0.0) without(0.0) regard(0.0) to(0.0) China's(0.0) restrictions(1.0) on(0.0) imports(1.0) ,(0.0) their(0.0) export(1.0) of(0.0) missile(0.0) technology(0.0) and(0.0) 
+their(0.0) performance(0.0) in(0.0) human(0.0) rights(1.0) --(0.0) will(0.0) not(0.0) advance(0.0) our(0.0) values(0.0) .(0.0) It(0.0) will(0.0) not(0.0) advance(0.0) our(0.0) interests(1.0) .(0.0) Targeted(0.0) 
+sanctions(1.0) are(0.0) justified(1.0) for(0.0) many(0.0) reasons(0.0) :(0.0) the(0.0) Chinese(0.0) Government(0.0) acknowledges(0.0) holding(0.0) more(0.0) than(0.0) 3,000(0.0) prisoners(1.0) for(0.0) counter-(0.0) revolutionary(1.0) activities(0.0) 
+.(0.0) This(0.0) is(0.0) a(0.0) mere(0.0) fraction(0.0) of(0.0) tens(1.0) of(0.0) thousands(1.0) of(0.0) political(1.0) and(0.0) religious(1.0) detainees(1.0) .(0.0) They(0.0) can(0.0) be(0.0) held(0.0) 
+for(0.0) 3(0.0) years(0.0) without(0.0) a(0.0) trial(0.0) ,(0.0) and(0.0) that(0.0) is(0.0) often(0.0) extended(0.0) for(0.0) another(0.0) 3(0.0) years(0.0) .(0.0) China(0.0) continues(0.0) to(0.0) 
+export(0.0) products(0.0) made(0.0) with(0.0) prison(1.0) labor(1.0) to(0.0) the(0.0) United(0.0) States(0.0) .(0.0) Just(0.0) this(0.0) spring(0.0) ,(0.0) the(0.0) human(0.0) rights(1.0) group(0.0) Asia(0.0) 
+Watch(0.0) released(0.0) a(0.0) report(0.0) documenting(0.0) import(0.0) to(0.0) the(0.0) United(0.0) States(0.0) of(0.0) 100(0.0) tons(0.0) of(0.0) latex(0.0) medical(1.0) gloves(0.0) inspected(0.0) by(0.0) prison(1.0) 
+labor(1.0) .(0.0) There(0.0) has(0.0) been(0.0) no(0.0) progress(0.0) in(0.0) negotiations(1.0) between(0.0) China(1.0) and(0.0) the(0.0) Dalai(1.0) Lama(0.0) ,(0.0) Tibet(0.0) 's(0.0) spiritual(0.0) leader(0.0) 
+.(0.0) There(0.0) are(0.0) hundreds(0.0) of(0.0) prisoners(1.0) of(0.0) conscience(1.0) in(0.0) Tibet(1.0) ,(0.0) including(0.0) 15(0.0) nuns(1.0) arrested(0.0) last(0.0) year(0.0) and(0.0) sentenced(0.0) to(0.0) 
+up(0.0) to(0.0) 7(0.0) years(0.0) in(0.0) prison(1.0) .(0.0) China(0.0) has(0.0) started(0.0) discussions(0.0) with(0.0) the(0.0) International(0.0) Committee(0.0) of(0.0) the(0.0) Red(0.0) Cross(0.0) [(0.0) 
+ICRC(0.0) ](0.0) about(0.0) prison(0.0) inspections(0.0) ,(0.0) but(0.0) to(0.0) date(0.0) ,(0.0) no(0.0) prison(1.0) visits(0.0) have(0.0) been(0.0) allowed(0.0) .(0.0) 1993(0.0) was(0.0) the(0.0) 
+worst(0.0) year(0.0) for(0.0) political(1.0) arrests(1.0) and(0.0) trials(0.0) since(0.0) mid-1990(0.0) in(0.0) the(0.0) aftermath(1.0) of(0.0) the(0.0) Tiananmen(1.0) Square(0.0) massacre(1.0) .(0.0) Mr.(0.0) Chairman(1.0) 
+,(0.0) the(0.0) Pelosi(1.0) bill(1.0) strikes(1.0) the(0.0) right(0.0) balance(0.0) between(0.0) our(0.0) interests(1.0) in(0.0) expanding(1.0) trade(1.0) and(0.0) in(0.0) defending(1.0) human(0.0) rights(1.0) .(0.0) 
+I(0.0) thank(0.0) my(0.0) colleague(0.0) from(0.0) California(0.0) for(0.0) her(0.0) leadership(0.0) on(0.0) this(0.0) issue(0.0) ,(0.0) and(0.0) urge(1.0) a(0.0) ``(0.0) yes(0.0) ''(0.0) vote(1.0) 
+on(0.0) H.R(0.0) .(0.0) 4590(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Pelosi	bill	revoke	MFN	
+Liberation	companies	principled	
+pragmatic	free	trade	
+country	economy	
+China	Nation	
+Chairman	
+most-favored-nation	restrictions	imports	export	
+rights	interests	
+sanctions	justified	prisoners	revolutionary	
+tens	thousands	political	religious	detainees	
+
+prison	labor	rights	
+medical	prison	
+labor	negotiations	China	Dalai	
+prisoners	conscience	Tibet	nuns	
+prison	
+prison	
+political	arrests	aftermath	Tiananmen	massacre	Chairman	
+Pelosi	bill	strikes	interests	expanding	trade	defending	rights	
+urge	vote	
+
+
+reads % = 0.15024630541871922

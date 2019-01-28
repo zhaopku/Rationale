@@ -1,0 +1,20 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) the(0.0) previous(0.0) speaker(0.0) is(0.0) quite(0.0) correct(0.0) .(0.0) He(0.0) did(0.0) use(0.0) the(0.0) word(0.0) welfare(1.0) .(0.0) It(0.0) occurred(0.0) to(0.0) me(0.0) that(0.0) 
+you(0.0) will(0.0) not(0.0) catch(0.0) that(0.0) bunch(0.0) that(0.0) are(0.0) currently(0.0) moving(0.0) to(0.0) Bermuda(0.0) sleeping(0.0) on(0.0) the(0.0) grates(1.0) when(0.0) they(0.0) get(0.0) there(0.0) 
+.(0.0) You(0.0) can(0.0) bet(0.0) on(0.0) that(0.0) .(0.0) The(0.0) point(0.0) that(0.0) we(0.0) raised(0.0) earlier(0.0) is(0.0) this(0.0) is(0.0) merely(0.0) a(0.0) discussion(0.0) of(0.0) 
+the(0.0) issue(0.0) ,(0.0) but(0.0) we(0.0) want(0.0) ,(0.0) as(0.0) Democrats(0.0) ,(0.0) to(0.0) have(0.0) a(0.0) substantive(1.0) debate(1.0) about(0.0) these(0.0) companies(0.0) that(0.0) are(0.0) 
+moving(0.0) to(0.0) Bermuda(1.0) to(0.0) avoid(0.0) taxes(1.0) ,(0.0) and(0.0) who(0.0) better(0.0) to(0.0) speak(0.0) about(0.0) it(0.0) than(0.0) the(0.0) distinguished(0.0) gentleman(0.0) from(0.0) Washington(1.0) 
+((0.0) Mr.(0.0) MCDermott(1.0) )(0.0) to(1.0) whom(0.0) I(0.0) yield(0.0) 3(0.0) minutes(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+welfare	
+grates	
+
+substantive	debate	
+Bermuda	taxes	Washington	
+MCDermott	to	
+
+reads % = 0.08035714285714286

@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) ask(1.0) unanimous(0.0) consent(0.0) that(0.0) when(0.0) the(0.0) House(0.0) adjourns(1.0) today(1.0) ,(0.0) it(0.0) adjourn(0.0) to(0.0) meet(0.0) at(0.0) 12:30(0.0) p.m.(0.0) on(0.0) 
+Monday(0.0) next(0.0) for(0.0) morning(0.0) hour(0.0) debates(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+ask	adjourns	today	
+
+
+reads % = 0.10714285714285714

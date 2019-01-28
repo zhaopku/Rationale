@@ -1,0 +1,46 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) strong(0.0) support(0.0) of(0.0) this(0.0) bipartisan(1.0) legislation(1.0) that(0.0) will(0.0) help(0.0) solve(1.0) many(0.0) problems(0.0) currently(0.0) confronting(1.0) 
+the(0.0) armored(1.0) car(0.0) industry(0.0) .(0.0) These(0.0) vehicles(0.0) ,(0.0) privately(0.0) or(0.0) federally(1.0) owned(0.0) ,(0.0) are(0.0) often(0.0) subject(0.0) to(0.0) violent(1.0) crime(1.0) that(0.0) 
+results(0.0) in(0.0) the(0.0) loss(0.0) of(0.0) crewmembers(1.0) '(0.0) lives(0.0) ,(0.0) not(0.0) to(0.0) mention(0.0) untold(1.0) amounts(1.0) of(0.0) valuable(0.0) property(0.0) .(0.0) Armored(0.0) cars(0.0) 
+provide(0.0) an(0.0) essential(0.0) service(0.0) in(0.0) this(0.0) country(1.0) by(0.0) transporting(0.0) millions(1.0) of(0.0) dollars(1.0) in(0.0) currency(1.0) and(0.0) other(0.0) valuables(0.0) belonging(0.0) to(0.0) both(0.0) 
+the(0.0) Federal(1.0) Government(1.0) and(0.0) private(0.0) entities(0.0) .(0.0) Because(0.0) these(0.0) vehicles(0.0) are(0.0) often(0.0) the(0.0) target(0.0) of(0.0) crime(1.0) ,(0.0) it(0.0) is(0.0) crucial(0.0) 
+that(0.0) we(0.0) provide(0.0) armored(1.0) car(0.0) guards(0.0) with(0.0) the(0.0) ability(0.0) to(0.0) protect(1.0) themselves(0.0) and(0.0) their(0.0) cargo(0.0) without(0.0) risk(0.0) of(0.0) criminal(1.0) liability(1.0) 
+for(0.0) simply(0.0) doing(0.0) their(0.0) job(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) 5(0.0) years(0.0) ago(0.0) an(0.0) armored(0.0) car(0.0) crewmember(0.0) by(0.0) the(0.0) name(0.0) of(0.0) 
+John(0.0) Hirdt(0.0) was(0.0) shot(0.0) to(0.0) death(0.0) while(0.0) loading(0.0) cash(0.0) into(0.0) a(0.0) van(0.0) outside(0.0) of(0.0) Macy(0.0) 's(0.0) department(0.0) store(0.0) in(0.0) Elmhurst(1.0) 
+,(0.0) Queens(1.0) .(0.0) Mr.(0.0) Hirdt(1.0) was(0.0) 65(0.0) years(0.0) old(0.0) and(0.0) a(0.0) retired(0.0) New(0.0) York(1.0) City(0.0) police(0.0) officer(0.0) employed(0.0) by(0.0) a(0.0) 
+private(0.0) armored(0.0) car(0.0) service(0.0) .(0.0) Such(0.0) incidents(0.0) highlight(0.0) the(0.0) importance(0.0) of(0.0) providing(0.0) armored(0.0) car(0.0) crewmembers(0.0) with(0.0) adequate(0.0) protection(0.0) .(0.0) This(0.0) 
+bill(0.0) ,(0.0) ensures(0.0) that(0.0) crewmembers(0.0) can(0.0) carry(0.0) their(0.0) weapons(0.0) across(0.0) State(0.0) lines(0.0) so(0.0) long(0.0) as(0.0) they(0.0) have(0.0) met(0.0) all(0.0) the(0.0) 
+requirements(0.0) of(0.0) their(0.0) primary(0.0) State(0.0) and(0.0) have(0.0) passed(0.0) a(0.0) criminal(0.0) background(0.0) check(0.0) .(0.0) Without(0.0) this(0.0) modification(0.0) in(0.0) current(0.0) law(1.0) ,(0.0) 
+crewmembers(0.0) could(0.0) be(0.0) in(0.0) violation(1.0) of(0.0) State(0.0) weapons(0.0) licensing(0.0) laws(0.0) when(0.0) performing(0.0) their(0.0) job(0.0) and(0.0) traveling(0.0) across(0.0) State(1.0) lines(0.0) .(0.0) 
+This(0.0) legislation(1.0) does(1.0) not(0.0) in(0.0) any(0.0) way(0.0) change(0.0) Federal(1.0) requirements(1.0) for(0.0) possession(0.0) of(0.0) a(0.0) weapon(0.0) or(0.0) make(0.0) it(0.0) easier(0.0) for(0.0) 
+anyone(0.0) to(0.0) receive(0.0) a(0.0) weapons(0.0) license(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) would(0.0) like(0.0) to(0.0) thank(0.0) my(0.0) colleague(0.0) ,(0.0) Mr.(0.0) Whitfield(1.0) 
+,(0.0) for(0.0) crafting(0.0) this(0.0) legislation(1.0) .(0.0) I(0.0) believe(0.0) that(0.0) H.R(0.0) .(0.0) 3431(0.0) will(0.0) solve(0.0) the(0.0) problems(0.0) of(0.0) inconsistent(1.0) application(0.0) of(0.0) 
+license(0.0) requirements(0.0) and(0.0) renewal(1.0) processes(0.0) among(0.0) the(0.0) States(0.0) .(0.0) As(0.0) the(0.0) ranking(0.0) minority(0.0) member(0.0) of(0.0) the(0.0) Commerce(0.0) ,(0.0) Trade(1.0) ,(0.0) 
+and(0.0) Hazardous(1.0) Material(0.0) Subcommittee(0.0) which(0.0) originally(0.0) considered(0.0) this(0.0) bill(0.0) ,(0.0) I(0.0) urge(0.0) all(0.0) of(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) this(0.0) commendable(1.0) 
+legislation(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	bipartisan	legislation	solve	confronting	
+armored	federally	violent	crime	
+crewmembers	untold	amounts	
+country	millions	dollars	currency	
+Federal	Government	crime	
+armored	protect	criminal	liability	
+Speaker	
+Elmhurst	
+Queens	Hirdt	York	
+
+
+law	
+violation	State	
+legislation	does	Federal	requirements	
+Speaker	Whitfield	
+legislation	inconsistent	
+renewal	Trade	
+Hazardous	commendable	
+legislation	Speaker	
+
+reads % = 0.12032085561497326

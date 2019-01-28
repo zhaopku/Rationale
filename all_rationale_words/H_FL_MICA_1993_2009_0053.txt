@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+The(0.0) CHAIR(0.0) .(0.0) The(0.0) Clerk(0.0) will(0.0) designate(0.0) the(0.0) amendment(0.0) .(0.0) The(0.0) text(0.0) of(0.0) the(0.0) amendment(0.0) is(0.0) as(0.0) follows(0.0) :(0.0) Amendment(0.0) No(0.0) 
+.(0.0) 2(0.0) offered(0.0) by(0.0) Mr.(0.0) Mica(1.0) :(1.0) Page(1.0) 312(0.0) ,(0.0) after(0.0) line(0.0) 22(0.0) ,(0.0) add(0.0) the(0.0) following(0.0) new(0.0) section(0.0) :(0.0) 
+SEC(0.0) .(0.0) __(0.0) .(0.0) BACKGROUND(0.0) CHECKS(0.0) .(0.0) ((0.0) a(0.0) )(0.0) Report.(0.0) --(0.0) Not(0.0) later(0.0) than(0.0) one(0.0) year(0.0) after(0.0) the(0.0) date(0.0) 
+of(0.0) enactment(0.0) of(0.0) this(0.0) Act(0.0) ,(0.0) the(0.0) Comptroller(0.0) General(0.0) of(0.0) the(0.0) United(0.0) States(0.0) shall(0.0) submit(0.0) to(0.0) the(0.0) Committee(0.0) on(0.0) Transportation(0.0) 
+and(0.0) Infrastructure(0.0) and(0.0) the(0.0) Committee(0.0) on(0.0) Homeland(0.0) Security(0.0) of(0.0) the(0.0) House(0.0) of(0.0) Representatives(0.0) a(0.0) report(0.0) that(0.0) contains(0.0) --(0.0) ((0.0) 1(0.0) 
+)(0.0) a(0.0) review(0.0) of(0.0) background(0.0) checks(0.0) and(0.0) forms(0.0) of(0.0) identification(0.0) required(0.0) under(0.0) State(0.0) and(0.0) local(0.0) transportation(0.0) security(0.0) programs(0.0) ;(0.0) ((0.0) 
+2(0.0) )(0.0) a(0.0) determination(0.0) as(0.0) to(0.0) whether(0.0) the(0.0) background(0.0) checks(0.0) and(0.0) forms(0.0) of(0.0) identification(0.0) required(0.0) under(0.0) such(0.0) programs(0.0) conflict(0.0) with(0.0) 
+Federal(0.0) programs(0.0) ;(0.0) ((0.0) 3(0.0) )(0.0) a(0.0) determination(0.0) as(0.0) to(0.0) whether(0.0) such(0.0) background(0.0) checks(0.0) and(0.0) forms(0.0) of(0.0) identification(0.0) assist(0.0) State(0.0) 
+and(0.0) local(0.0) governments(0.0) in(0.0) carrying(0.0) out(0.0) the(0.0) safety(0.0) ,(0.0) security(0.0) ,(0.0) and(0.0) law(0.0) enforcement(0.0) responsibilities(0.0) of(0.0) those(0.0) governments(0.0) ;(0.0) and(0.0) 
+((0.0) 4(0.0) )(0.0) recommendations(0.0) on(0.0) methods(0.0) ,(0.0) procedures(0.0) ,(0.0) and(0.0) regulations(0.0) that(0.0) will(0.0) --(0.0) ((0.0) A(0.0) )(0.0) minimize(0.0) redundant(1.0) background(0.0) 
+checks(0.0) and(0.0) forms(0.0) of(0.0) identification(0.0) required(0.0) for(0.0) access(0.0) to(0.0) port(0.0) facilities(0.0) ;(0.0) and(0.0) ((0.0) B(0.0) )(0.0) facilitate(0.0) the(0.0) sharing(0.0) of(0.0) 
+background(0.0) check(0.0) and(0.0) identification(0.0) data(0.0) with(0.0) State(0.0) and(0.0) local(0.0) governments(0.0) when(0.0) the(0.0) sharing(0.0) of(0.0) such(0.0) data(0.0) assists(0.0) those(0.0) governments(0.0) in(0.0) 
+carrying(0.0) out(0.0) their(0.0) safety(0.0) ,(0.0) security(0.0) ,(0.0) and(0.0) law(0.0) enforcement(0.0) responsibilities(0.0) .(0.0) ((0.0) b(0.0) )(0.0) Limitation(0.0) With(0.0) Respect(0.0) to(0.0) Vessel(0.0) 
+and(0.0) Facility(0.0) Security(0.0) Plans.(0.0) --(0.0) The(0.0) Secretary(0.0) of(0.0) the(0.0) department(0.0) in(0.0) which(0.0) the(0.0) Coast(0.0) Guard(0.0) is(0.0) operating(0.0) shall(0.0) not(0.0) prohibit(0.0) 
+a(0.0) State(0.0) or(0.0) political(0.0) subdivision(0.0) thereof(0.0) from(0.0) requiring(0.0) a(0.0) separate(0.0) background(0.0) check(0.0) for(0.0) entry(0.0) into(0.0) any(0.0) area(0.0) covered(0.0) by(0.0) a(0.0) 
+vessel(0.0) or(0.0) facility(0.0) security(0.0) plan(0.0) required(0.0) under(0.0) subsection(0.0) 70103(0.0) ((0.0) c(0.0) )(0.0) of(0.0) title(0.0) 46(0.0) ,(0.0) United(0.0) States(0.0) Code(0.0) .(0.0) 
+The(0.0) CHAIR(0.0) .(0.0) Pursuant(0.0) to(0.0) House(0.0) Resolution(0.0) 853(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Florida(0.0) ((0.0) Mr.(0.0) Mica(1.0) )(0.0) and(0.0) a(0.0) Member(0.0) 
+opposed(0.0) each(0.0) will(0.0) control(0.0) 5(0.0) minutes(0.0) .(0.0) The(0.0) Chair(0.0) recognizes(0.0) the(0.0) gentleman(0.0) from(0.0) Florida(0.0) .(0.0) Madam(0.0) Chair(1.0) ,(0.0) first(0.0) of(0.0) 
+all(0.0) ,(0.0) my(0.0) colleagues(0.0) ,(0.0) the(0.0) amendment(1.0) I(0.0) have(0.0) offered(0.0) relates(0.0) to(0.0) the(0.0) TWIC(1.0) provisions(0.0) ,(0.0) which(0.0) refer(0.0) to(0.0) the(0.0) 
+trusted(0.0) Transportation(0.0) Worker(1.0) Identification(0.0) Credential(0.0) .(0.0) This(0.0) is(0.0) one(0.0) of(0.0) those(0.0) cards(0.0) I(0.0) 'm(0.0) holding(0.0) in(0.0) my(0.0) hand(0.0) .(0.0) It(0.0) 
+'s(0.0) called(0.0) a(0.0) TWIC(0.0) card(0.0) .(0.0) Now(0.0) ,(0.0) this(0.0) is(0.0) not(0.0) the(0.0) Colbert(1.0) Report(1.0) .(0.0) It(0.0) 's(0.0) not(0.0) the(0.0) Jon(0.0) 
+Stewart(1.0) report(0.0) ,(0.0) but(0.0) it(0.0) 's(0.0) almost(0.0) a(0.0) comedy(0.0) of(0.0) errors(0.0) that(0.0) we(0.0) 're(0.0) here(0.0) talking(0.0) about(0.0) a(0.0) TWIC(0.0) card(0.0) 
+7(0.0) years(0.0) after(0.0) 9/11(1.0) --(0.0) the(0.0) Transportation(1.0) Worker(1.0) Identification(0.0) Credential(0.0) .(0.0) Spent(0.0) 7(0.0) years(0.0) .(0.0) We(0.0) have(0.0) a(0.0) card(0.0) .(0.0) 
+We(0.0) 've(0.0) had(0.0) four(0.0) State(0.0) demonstrations(0.0) .(0.0) We(0.0) 've(0.0) spent(0.0) millions(1.0) of(0.0) taxpayer(1.0) dollars(1.0) in(0.0) developing(1.0) this(0.0) card(0.0) ,(0.0) and(0.0) 
+I(0.0) ca(0.0) n't(0.0) take(0.0) this(0.0) card(0.0) and(0.0) go(0.0) over(0.0) and(0.0) put(0.0) it(0.0) in(0.0) a(0.0) reader(0.0) like(0.0) we(0.0) can(0.0) do(0.0) 
+
+
+----- below are rationale words -----
+
+
+Mica	:	Page	
+
+
+
+
+
+
+
+redundant	
+
+
+
+
+
+
+Mica	
+Chair	
+amendment	TWIC	
+Worker	
+Colbert	Report	
+Stewart	
+9/11	Transportation	Worker	
+millions	taxpayer	dollars	developing	
+
+
+reads % = 0.038

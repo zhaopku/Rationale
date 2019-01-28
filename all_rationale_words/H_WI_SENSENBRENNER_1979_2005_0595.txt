@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) rise(0.0) in(0.0) strong(0.0) support(0.0) of(0.0) 
+H.R(0.0) .(0.0) 4437(0.0) ,(0.0) the(0.0) Border(1.0) Security(0.0) ,(0.0) Antiterterrorism(0.0) ,(0.0) and(0.0) Illegal(1.0) Immigration(1.0) Control(0.0) Act(0.0) of(0.0) 2005(0.0) .(0.0) Mr.(0.0) Chairman(1.0) 
+,(0.0) our(0.0) Nation(1.0) has(0.0) lost(0.0) control(0.0) of(0.0) its(0.0) borders(0.0) ,(0.0) which(0.0) has(0.0) resulted(0.0) in(0.0) a(0.0) sharp(0.0) increase(0.0) in(0.0) illegal(1.0) immigration(1.0) 
+and(0.0) has(0.0) left(0.0) us(0.0) vulnerable(0.0) to(0.0) infiltration(1.0) by(0.0) terrorists(1.0) and(0.0) criminals(1.0) .(0.0) Estimates(0.0) indicate(0.0) that(0.0) there(0.0) are(0.0) currently(0.0) more(0.0) than(0.0) 
+10(0.0) million(0.0) illegal(1.0) aliens(1.0) already(0.0) here(0.0) ,(0.0) and(0.0) that(0.0) population(1.0) continues(0.0) to(0.0) grow(0.0) by(0.0) an(0.0) estimated(0.0) half(0.0) million(0.0) additional(0.0) aliens(1.0) 
+each(0.0) year(0.0) .(0.0) Large(0.0) majorities(1.0) of(0.0) Americans(1.0) support(0.0) efforts(1.0) to(0.0) restore(1.0) the(0.0) security(0.0) of(0.0) our(0.0) Nation(1.0) 's(0.0) borders(0.0) and(0.0) to(0.0) 
+assure(0.0) accountability(1.0) of(0.0) those(0.0) who(0.0) illegally(0.0) enter(0.0) the(0.0) United(0.0) States(0.0) .(0.0) America(0.0) is(0.0) a(0.0) compassionate(0.0) Nation(0.0) that(0.0) welcomes(0.0) legal(1.0) immigrants(1.0) 
+from(0.0) all(0.0) corners(0.0) of(0.0) the(0.0) world(0.0) .(0.0) But(0.0) it(0.0) is(0.0) also(0.0) a(0.0) Nation(0.0) of(0.0) laws(1.0) .(0.0) These(0.0) concepts(0.0) are(0.0) not(0.0) 
+mutually(0.0) exclusive(0.0) ,(0.0) and(0.0) H.R(0.0) .(0.0) 4437(0.0) reflects(0.0) this(0.0) .(0.0) This(0.0) legislation(1.0) ,(0.0) which(0.0) I(0.0) introduced(0.0) with(0.0) Homeland(1.0) Security(0.0) Committee(0.0) 
+Chairman(0.0) King(1.0) ,(0.0) will(0.0) diminish(0.0) the(0.0) lure(0.0) of(0.0) higher-wage(1.0) employment(0.0) that(0.0) drives(0.0) illegal(1.0) entry(0.0) into(0.0) the(0.0) United(0.0) States(0.0) while(0.0) enhancing(0.0) 
+border(0.0) security(0.0) .(0.0) This(0.0) legislation(1.0) will(0.0) re-establish(1.0) respect(0.0) for(0.0) our(0.0) laws(1.0) by(0.0) holding(0.0) violators(1.0) accountable(1.0) ,(0.0) including(0.0) human(1.0) traffickers(1.0) ,(0.0) 
+employers(1.0) who(0.0) hire(0.0) illegal(0.0) aliens(1.0) ,(0.0) and(0.0) alien(1.0) gang(1.0) members(0.0) who(0.0) terrorize(0.0) communities(0.0) throughout(0.0) the(0.0) country(1.0) .(0.0) I(0.0) am(0.0) pleased(0.0) 
+that(0.0) this(0.0) bill(1.0) incorporates(1.0) vital(1.0) border(0.0) security(0.0) provisions(0.0) from(0.0) legislation(1.0) reported(0.0) by(0.0) the(0.0) Committee(0.0) on(0.0) Homeland(0.0) Security(0.0) and(0.0) congratulate(0.0) Chairman(0.0) 
+King(1.0) for(0.0) his(0.0) committee(0.0) 's(0.0) important(0.0) role(0.0) in(0.0) drafting(0.0) this(0.0) component(0.0) of(0.0) the(0.0) bill(0.0) .(0.0) H.R(0.0) .(0.0) 4437(0.0) will(0.0) deliver(0.0) 
+on(0.0) the(0.0) unkept(0.0) promise(0.0) of(0.0) the(0.0) Immigration(1.0) Reform(0.0) and(0.0) Control(0.0) Act(0.0) of(0.0) 1986(0.0) by(0.0) providing(0.0) employers(1.0) with(0.0) a(0.0) reliable(0.0) method(0.0) 
+of(0.0) determining(0.0) whether(0.0) their(0.0) employees(0.0) are(0.0) eligible(0.0) to(0.0) work(0.0) .(0.0) The(0.0) bill(1.0) expands(1.0) on(0.0) the(0.0) premise(1.0) of(0.0) Representative(1.0) Calvert(1.0) 's(0.0) 
+legislation(1.0) ,(0.0) H.R(0.0) .(0.0) 19(0.0) ,(0.0) to(0.0) build(0.0) upon(0.0) a(0.0) successful(0.0) pilot(0.0) program(0.0) that(0.0) currently(0.0) enables(0.0) employers(0.0) to(0.0) verify(0.0) the(0.0) 
+employment(0.0) eligibility(0.0) of(0.0) their(0.0) workers(0.0) .(0.0) Currently(0.0) ,(0.0) employer(1.0) participation(1.0) in(0.0) this(0.0) program(0.0) is(0.0) on(0.0) a(0.0) voluntary(0.0) basis(0.0) .(0.0) Within(0.0) 
+2(0.0) years(0.0) ,(0.0) this(0.0) bill(1.0) provides(1.0) that(0.0) all(0.0) employers(1.0) must(0.0) check(0.0) new(0.0) hires(0.0) against(0.0) this(0.0) database(0.0) .(0.0) The(0.0) bill(1.0) also(1.0) 
+increases(0.0) penalties(1.0) for(0.0) alien(1.0) smuggling(1.0) .(0.0) Those(0.0) who(0.0) suffer(0.0) most(0.0) from(0.0) alien(1.0) smuggling(1.0) are(0.0) often(0.0) the(0.0) most(0.0) vulnerable(0.0) and(0.0) desperate(1.0) 
+,(0.0) entering(0.0) the(0.0) country(1.0) in(0.0) perilous(1.0) conditions(0.0) that(0.0) sometimes(0.0) result(0.0) in(0.0) injury(0.0) or(0.0) even(0.0) death(0.0) .(0.0) Moreover(0.0) ,(0.0) debts(0.0) owed(0.0) 
+to(0.0) alien(1.0) smugglers(1.0) by(0.0) those(0.0) transported(0.0) into(0.0) the(0.0) country(1.0) illegally(0.0) often(0.0) create(0.0) a(0.0) form(0.0) of(0.0) indentured(1.0) servitude(1.0) that(0.0) enriches(0.0) criminal(1.0) 
+syndicates(1.0) .(0.0) The(0.0) GAO(1.0) has(0.0) found(0.0) that(0.0) convicted(1.0) smugglers(1.0) ,(0.0) including(0.0) those(0.0) responsible(0.0) for(0.0) death(0.0) or(0.0) serious(0.0) injury(0.0) ,(0.0) receive(0.0) 
+an(0.0) average(0.0) prison(1.0) sentence(0.0) of(0.0) only(0.0) 10(0.0) months(0.0) .(0.0) Only(0.0) 10(0.0) months(0.0) ,(0.0) far(0.0) less(0.0) than(0.0) that(0.0) imposed(1.0) for(0.0) transporting(0.0) 
+illegal(1.0) drugs(1.0) or(0.0) committing(1.0) other(0.0) serious(0.0) crimes(1.0) .(0.0) The(0.0) bill(1.0) corrects(1.0) these(0.0) disparities(1.0) by(0.0) increasing(1.0) criminal(1.0) penalties(1.0) for(0.0) alien(1.0) 
+
+
+----- below are rationale words -----
+
+Chairman	
+Border	Illegal	Immigration	Chairman	
+Nation	illegal	immigration	
+infiltration	terrorists	criminals	
+illegal	aliens	population	aliens	
+majorities	Americans	efforts	restore	Nation	
+accountability	legal	immigrants	
+laws	
+legislation	Homeland	
+King	higher-wage	illegal	
+legislation	re-establish	laws	violators	accountable	human	traffickers	
+employers	aliens	alien	gang	country	
+bill	incorporates	vital	legislation	
+King	
+Immigration	employers	
+bill	expands	premise	Representative	Calvert	
+legislation	
+employer	participation	
+bill	provides	employers	bill	also	
+penalties	alien	smuggling	alien	smuggling	desperate	
+country	perilous	
+alien	smugglers	country	indentured	servitude	criminal	
+syndicates	GAO	convicted	smugglers	
+prison	imposed	
+illegal	drugs	committing	crimes	bill	corrects	disparities	increasing	criminal	penalties	alien	
+
+reads % = 0.184

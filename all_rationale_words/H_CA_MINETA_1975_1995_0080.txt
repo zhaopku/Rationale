@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) yield(0.0) 2(0.0) minutes(0.0) to(0.0) our(0.0) very(0.0) fine(0.0) colleague(0.0) ,(0.0) the(0.0) gentlewoman(0.0) from(0.0) Connecticut(1.0) [(0.0) Ms.(1.0) DeLauro(1.0) ](0.0) .(0.0) 
+Ms.(1.0) DeLAURO(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) rise(0.0) in(0.0) strong(0.0) opposition(1.0) to(0.0) H.R(0.0) .(0.0) 961(0.0) ,(0.0) the(0.0) Clean(1.0) Water(0.0) Amendments(0.0) 
+of(0.0) 1995(0.0) .(0.0) This(0.0) bill(0.0) would(0.0) roll(0.0) back(0.0) decades(0.0) of(0.0) progress(0.0) in(0.0) cleaning(0.0) up(0.0) our(0.0) rivers(1.0) ,(0.0) lakes(0.0) ,(0.0) and(0.0) 
+coastal(0.0) waters(0.0) ,(0.0) and(0.0) it(0.0) threatens(1.0) the(0.0) fragile(1.0) ecosystems(1.0) of(0.0) our(0.0) Nation(1.0) 's(0.0) wetlands(1.0) .(0.0) This(0.0) bill(1.0) has(0.0) rightly(0.0) been(0.0) 
+called(0.0) a(0.0) polluters(1.0) '(0.0) bill(0.0) of(0.0) rights(1.0) .(0.0) Special(0.0) interests(1.0) representing(0.0) some(0.0) of(0.0) our(0.0) Nation(1.0) 's(0.0) largest(0.0) polluters(1.0) wrote(0.0) this(0.0) 
+bill(1.0) ,(0.0) so(0.0) it(0.0) is(0.0) not(0.0) surprising(0.0) that(0.0) it(0.0) is(0.0) riddled(0.0) with(0.0) custom-made(0.0) loopholes(1.0) to(0.0) let(0.0) industries(1.0) pollute(1.0) .(0.0) The(0.0) 
+bill(1.0) would(1.0) increase(1.0) from(0.0) just(0.0) 5(0.0) to(0.0) 70,000(0.0) the(0.0) number(0.0) of(0.0) industrial(1.0) pollutants(1.0) that(0.0) could(0.0) be(0.0) dumped(0.0) into(0.0) our(0.0) Nation(1.0) 
+'s(0.0) waterways(1.0) .(0.0) It(0.0) would(0.0) open(0.0) up(0.0) our(0.0) Nation(1.0) 's(0.0) most(0.0) fragile(1.0) wetlands(1.0) to(0.0) development(1.0) ,(0.0) including(0.0) more(0.0) than(0.0) half(0.0) 
+of(0.0) all(0.0) the(0.0) wetlands(1.0) in(0.0) my(0.0) home(0.0) State(0.0) of(0.0) Connecticut(1.0) .(0.0) This(0.0) bill(1.0) poses(1.0) a(0.0) threat(0.0) to(0.0) our(0.0) safe(0.0) drinking(1.0) 
+water(1.0) and(0.0) to(0.0) the(0.0) rivers(0.0) ,(0.0) streams(1.0) ,(0.0) and(0.0) lakes(0.0) in(0.0) which(0.0) we(0.0) swim(0.0) and(0.0) fish(0.0) .(0.0) My(0.0) constituents(1.0) along(0.0) 
+Long(1.0) Island(0.0) Sound(0.0) would(0.0) be(0.0) especially(0.0) harmed(1.0) by(0.0) provisions(1.0) of(0.0) this(0.0) bill(1.0) repealing(1.0) efforts(1.0) to(0.0) clean(1.0) up(0.0) our(0.0) coastal(1.0) waters(0.0) 
+.(0.0) Our(0.0) coast(1.0) protection(0.0) program(0.0) has(0.0) proven(0.0) to(0.0) be(0.0) true(0.0) --(0.0) that(0.0) good(0.0) environmental(1.0) policy(1.0) is(0.0) good(0.0) economic(1.0) policy(1.0) .(0.0) 
+Clean(1.0) coastal(1.0) waters(0.0) generate(0.0) billions(1.0) of(0.0) dollars(1.0) in(0.0) tourism(1.0) revenue(1.0) ,(0.0) creates(0.0) jobs(1.0) in(0.0) fishing(1.0) and(0.0) other(0.0) industries(1.0) ,(0.0) and(0.0) 
+provide(0.0) numerous(0.0) recreational(0.0) activities(0.0) .(0.0) Connecticut(1.0) 's(0.0) Coastal(0.0) Zone(0.0) Management(0.0) Program(0.0) has(0.0) made(0.0) great(0.0) strides(0.0) at(0.0) cleaning(0.0) up(0.0) the(0.0) Long(0.0) 
+Island(0.0) Sound(0.0) .(0.0) It(0.0) has(0.0) successfully(0.0) restored(0.0) over(0.0) 1,500(0.0) acres(0.0) of(0.0) critical(0.0) tidal(1.0) wetlands(1.0) .(0.0) From(0.0) 1991(0.0) to(0.0) 1993(0.0) ,(0.0) 
+the(0.0) number(0.0) of(0.0) beach(0.0) closings(0.0) along(0.0) Long(0.0) Island(0.0) Sound(0.0) was(0.0) reduced(0.0) from(0.0) 292(0.0) to(0.0) 174(0.0) .(0.0) But(0.0) we(0.0) clearly(0.0) have(0.0) 
+more(0.0) work(0.0) to(0.0) do(0.0) .(0.0) More(0.0) than(0.0) 25(0.0) percent(0.0) of(0.0) Long(1.0) Island(0.0) Sound(0.0) 's(0.0) beaches(0.0) still(0.0) are(0.0) chronically(1.0) closed(0.0) due(0.0) 
+to(0.0) pathogen(1.0) contamination(1.0) .(0.0) We(0.0) need(0.0) policies(1.0) and(0.0) financial(1.0) resources(0.0) to(0.0) continue(0.0) our(0.0) progress(1.0) ,(0.0) not(0.0) reverse(0.0) them(0.0) as(0.0) this(0.0) 
+bill(1.0) would(1.0) do(1.0) .(0.0) I(0.0) look(0.0) forward(0.0) to(0.0) supporting(0.0) the(0.0) Boehlert-Saxton-Roemer(0.0) substitute(1.0) because(0.0) it(0.0) preserves(1.0) our(0.0) coastal(1.0) cleanup(1.0) effort(0.0) ,(0.0) 
+it(0.0) takes(0.0) a(0.0) more(0.0) reasonable(0.0) approach(0.0) to(0.0) wetland(1.0) protection(0.0) ,(0.0) and(0.0) closes(0.0) the(0.0) polluter(1.0) loopholes(1.0) of(0.0) H.R(0.0) .(0.0) 961(0.0) .(0.0) 
+I(0.0) am(0.0) grateful(0.0) that(0.0) the(0.0) substitute(1.0) provides(0.0) strong(0.0) support(0.0) for(0.0) the(0.0) estuary(1.0) protection(0.0) goals(0.0) of(0.0) H.R(0.0) .(0.0) 1438(0.0) ,(0.0) the(0.0) 
+Water(0.0) Pollution(1.0) Control(0.0) and(0.0) Estuary(1.0) Protection(0.0) Act(0.0) introduced(0.0) by(0.0) my(0.0) colleague(0.0) from(0.0) New(0.0) York(1.0) ,(0.0) Ms.(1.0) Lowey(1.0) ,(0.0) and(0.0) myself(0.0) 
+.(0.0) The(0.0) negative(0.0) impact(0.0) of(0.0) H.R(0.0) .(0.0) 961(0.0) is(0.0) immeasurable(0.0) .(0.0) It(0.0) is(0.0) bad(0.0) news(0.0) for(0.0) everyone(0.0) ,(0.0) except(0.0) for(0.0) 
+those(0.0) industries(1.0) that(0.0) will(0.0) enjoy(0.0) numerous(0.0) loopholes(1.0) and(0.0) waivers(1.0) .(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) join(0.0) me(0.0) in(0.0) voting(1.0) against(0.0) 
+this(0.0) bad(1.0) bill(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Connecticut	Ms.	DeLauro	
+Ms.	Chairman	opposition	Clean	
+rivers	
+threatens	fragile	ecosystems	Nation	wetlands	bill	
+polluters	rights	interests	Nation	polluters	
+bill	loopholes	industries	pollute	
+bill	would	increase	industrial	pollutants	Nation	
+waterways	Nation	fragile	wetlands	development	
+wetlands	Connecticut	bill	poses	drinking	
+water	streams	constituents	
+Long	harmed	provisions	bill	repealing	efforts	clean	coastal	
+coast	environmental	policy	economic	policy	
+Clean	coastal	billions	dollars	tourism	revenue	jobs	fishing	industries	
+Connecticut	
+tidal	wetlands	
+
+Long	chronically	
+pathogen	contamination	policies	financial	progress	
+bill	would	do	substitute	preserves	coastal	cleanup	
+wetland	polluter	loopholes	
+substitute	estuary	
+Pollution	Estuary	York	Ms.	Lowey	
+
+industries	loopholes	waivers	voting	
+bad	bill	
+
+reads % = 0.2

@@ -1,0 +1,48 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(1.0) ,(0.0) I(0.0) would(1.0) like(0.0) to(0.0) just(0.0) congratulate(0.0) everybody(0.0) with(0.0) the(0.0) Progressive(1.0) Caucus(1.0) and(0.0) thank(0.0) all(0.0) of(0.0) the(0.0) staff(0.0) that(0.0) did(0.0) 
+such(0.0) a(0.0) good(0.0) job(1.0) preparing(0.0) this(0.0) excellent(0.0) budget(0.0) which(0.0) gives(1.0) us(0.0) an(0.0) amazing(0.0) choice(0.0) as(0.0) Americans(0.0) to(0.0) confront(0.0) this(0.0) jobs(1.0) 
+crisis(1.0) .(0.0) I(0.0) 'm(0.0) so(1.0) proud(1.0) that(0.0) our(0.0) Speaker(0.0) has(0.0) told(0.0) the(0.0) world(0.0) --(0.0) Speaker(1.0) Boehner(0.0) --(0.0) that(0.0) the(0.0) debt(1.0) 
+crisis(0.0) is(0.0) not(1.0) immediate(0.0) .(0.0) He(0.0) 's(0.0) right(1.0) ,(0.0) it(0.0) 's(0.0) not(0.0) .(0.0) But(0.0) let(1.0) me(0.0) tell(0.0) you(0.0) what(0.0) is(0.0) 
+immediate(0.0) :(0.0) the(0.0) jobs(1.0) crisis(1.0) .(0.0) That(0.0) 's(0.0) why(0.0) the(0.0) Back(1.0) to(0.0) Work(0.0) budget(0.0) brings(0.0) down(1.0) unemployment(1.0) to(0.0) 5.3(0.0) within(1.0) 
+3(0.0) years(0.0) by(0.0) investing(1.0) in(0.0) people(0.0) --(0.0) our(0.0) construction(1.0) workers(1.0) ,(0.0) our(0.0) teachers(0.0) ,(0.0) and(0.0) our(0.0) police(1.0) officers(1.0) .(0.0) We(0.0) 
+'re(0.0) also(1.0) fiscally(1.0) responsible(1.0) ,(0.0) reducing(0.0) the(0.0) deficit(1.0) over(0.0) the(0.0) long(1.0) run(0.0) by(0.0) $(0.0) 4.4(0.0) trillion(1.0) .(0.0) The(0.0) Republican(1.0) budget(1.0) 
+makes(0.0) the(0.0) wrong(0.0) choices(0.0) for(0.0) our(0.0) country(1.0) .(0.0) I(0.0) respect(1.0) the(0.0) fact(0.0) that(0.0) they(0.0) have(0.0) honestly(1.0) projected(1.0) a(0.0) vision(0.0) ,(0.0) 
+but(0.0) it's(0.0) an(0.0) austere(1.0) vision(1.0) for(0.0) the(0.0) American(0.0) people(0.0) .(0.0) It(0.0) 's(0.0) no(0.0) surprise(1.0) that(0.0) this(0.0) message(0.0) lost(0.0) the(0.0) election(1.0) 
+that(0.0) we(0.0) just(1.0) had(0.0) .(0.0) It(0.0) was(0.0) put(0.0) in(0.0) front(1.0) of(0.0) the(0.0) people(0.0) .(0.0) They(1.0) said(0.0) we(0.0) will(0.0) have(0.0) none(0.0) 
+of(0.0) it(0.0) ,(0.0) but(0.0) the(0.0) American(0.0) people(0.0) do(0.0) want(1.0) what(0.0) 's(0.0) in(0.0) the(0.0) Back(1.0) to(0.0) Work(0.0) budget(0.0) .(0.0) Gallup(1.0) released(1.0) 
+a(0.0) poll(1.0) that(0.0) confirms(1.0) what(0.0) you(0.0) and(0.0) I(0.0) already(0.0) know(0.0) ,(0.0) and(0.0) that(0.0) is(0.0) that(0.0) the(0.0) American(0.0) people(0.0) want(1.0) jobs(1.0) 
+,(0.0) not(1.0) austerity(1.0) ;(0.0) 72(1.0) percent(1.0) ,(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) of(0.0) Americans(0.0) said(1.0) that(0.0) they(0.0) support(0.0) putting(0.0) people(0.0) back(0.0) to(0.0) 
+work(0.0) repairing(0.0) our(0.0) Nation(0.0) 's(0.0) infrastructure(1.0) ,(0.0) including(1.0) a(0.0) majority(1.0) of(0.0) Republicans(1.0) .(0.0) Now(0.0) ,(0.0) the(0.0) fact(0.0) is(0.0) that(0.0) the(0.0) 
+Back(1.0) to(0.0) Work(0.0) budget(0.0) is(0.0) about(0.0) putting(0.0) people(0.0) back(0.0) to(0.0) work(0.0) .(0.0) As(0.0) the(0.0) Speaker(0.0) and(0.0) I(0.0) agree(1.0) ,(0.0) it(0.0) 
+'s(0.0) not(0.0) the(0.0) moment(0.0) where(0.0) we(0.0) need(0.0) to(0.0) clamp(0.0) down(1.0) on(0.0) debt(1.0) .(0.0) It(0.0) 's(0.0) the(0.0) moment(1.0) we(0.0) need(0.0) to(0.0) 
+put(0.0) Americans(0.0) back(0.0) to(0.0) work(0.0) .(0.0) So(1.0) which(0.0) budget(0.0) meets(0.0) the(0.0) test(0.0) ?(0.0) The(0.0) Progressive(1.0) Caucus(1.0) budget(0.0) invests(1.0) at(0.0) the(0.0) 
+level(0.0) the(0.0) American(0.0) Society(1.0) of(0.0) Civil(1.0) Engineers(1.0) says(1.0) is(0.0) needed(0.0) to(0.0) close(0.0) our(0.0) infrastructure(1.0) gap(0.0) .(0.0) The(0.0) Republican(1.0) budget(1.0) cuts(1.0) 
+transportation(1.0) by(0.0) 20(0.0) percent(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) it(0.0) 's(0.0) time(0.0) to(0.0) get(0.0) back(0.0) to(0.0) work(0.0) ,(0.0) and(0.0) let(0.0) 's(0.0) 
+pass(1.0) the(0.0) Back(1.0) to(0.0) Work(0.0) budget(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+would	Progressive	Caucus	
+job	gives	jobs	
+crisis	so	proud	Speaker	debt	
+not	right	let	
+jobs	crisis	Back	down	unemployment	within	
+investing	construction	workers	police	officers	
+also	fiscally	responsible	deficit	long	trillion	Republican	budget	
+country	respect	honestly	projected	
+austere	vision	surprise	election	
+just	front	They	
+want	Back	Gallup	released	
+poll	confirms	want	jobs	
+not	austerity	72	percent	Chairman	said	
+infrastructure	including	majority	Republicans	
+Back	agree	
+down	debt	moment	
+So	Progressive	Caucus	invests	
+Society	Civil	Engineers	says	infrastructure	Republican	budget	cuts	
+transportation	percent	Chairman	
+pass	Back	
+
+reads % = 0.21649484536082475

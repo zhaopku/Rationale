@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) will(0.0) only(0.0) take(0.0) 1(0.0) minute(1.0) .(0.0) I(0.0) just(1.0) want(1.0) to(0.0) respond(1.0) to(0.0) something(0.0) the(0.0) distinguished(0.0) majority(0.0) leader(1.0) 
+said(1.0) .(0.0) He(0.0) indicated(1.0) that(0.0) what(1.0) had(0.0) occurred(0.0) on(0.0) the(0.0) House(0.0) floor(0.0) today(0.0) was(0.0) a(0.0) process(1.0) fight(0.0) .(0.0) That(0.0) is(0.0) 
+not(1.0) what(0.0) it(0.0) was(0.0) at(0.0) all(0.0) .(0.0) It(0.0) was(0.0) a(0.0) priorities(1.0) fight(0.0) .(0.0) We(0.0) saw(0.0) this(0.0) unraveling(1.0) today(0.0) because(0.0) the(0.0) 
+majority(1.0) party(1.0) insisted(0.0) on(0.0) sticking(0.0) by(0.0) a(0.0) budget(0.0) resolution(0.0) which(0.0) puts(1.0) super-sized(1.0) tax(1.0) cuts(1.0) for(0.0) the(1.0) most(1.0) comfortable(0.0) in(0.0) this(0.0) 
+society(0.0) ahead(0.0) of(0.0) every(0.0) other(0.0) consideration(0.0) .(0.0) We(0.0) may(0.0) not(1.0) see(0.0) arguments(1.0) quite(0.0) as(0.0) dramatic(0.0) and(0.0) as(0.0) chaotic(0.0) as(0.0) we(0.0) 
+did(0.0) today(1.0) on(0.0) this(0.0) bill(0.0) ,(0.0) but(0.0) as(0.0) appropriation(1.0) bills(0.0) move(0.0) through(0.0) this(0.0) House(0.0) ,(0.0) we(0.0) will(0.0) see(0.0) similar(0.0) conflicting(1.0) 
+priorities(1.0) ,(0.0) because(1.0) the(0.0) budget(0.0) which(0.0) has(0.0) caused(0.0) the(0.0) problem(0.0) is(0.0) a(0.0) budget(0.0) which(0.0) does(0.0) not(0.0) put(0.0) the(0.0) needs(0.0) of(0.0) 
+military(1.0) families(0.0) first(0.0) ,(0.0) it(0.0) does(0.0) not(1.0) put(0.0) the(0.0) needs(0.0) of(0.0) education(1.0) first(0.0) ,(0.0) it(0.0) does(0.0) not(0.0) put(0.0) the(0.0) need(0.0) 
+to(0.0) invest(1.0) in(0.0) critical(1.0) programs(1.0) that(0.0) strengthen(1.0) the(0.0) economy(1.0) of(0.0) the(0.0) country(1.0) in(0.0) the(0.0) future(0.0) first(0.0) .(0.0) Instead(1.0) ,(0.0) it(0.0) 
+continues(1.0) to(0.0) insist(1.0) that(0.0) we(0.0) provide(0.0) over(0.0) $(0.0) 40(0.0) billion(1.0) in(0.0) tax(1.0) cuts(1.0) to(0.0) persons(0.0) who(0.0) make(0.0) over(0.0) $(0.0) 1(0.0) 
+million(0.0) a(0.0) year(0.0) .(0.0) That(0.0) is(0.0) a(0.0) priorities(1.0) fight(0.0) .(0.0) It(0.0) is(0.0) not(1.0) a(0.0) technical(0.0) process(0.0) fight(0.0) .(0.0) I(0.0) think(1.0) 
+we(0.0) need(0.0) to(0.0) keep(1.0) that(0.0) in(0.0) mind(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	minute	just	want	respond	leader	
+said	indicated	what	process	
+not	priorities	unraveling	
+majority	party	puts	super-sized	tax	cuts	the	most	
+not	arguments	
+today	appropriation	conflicting	
+priorities	because	
+military	not	education	
+invest	critical	programs	strengthen	economy	country	Instead	
+continues	insist	billion	tax	cuts	
+priorities	not	think	
+keep	
+
+reads % = 0.2052401746724891

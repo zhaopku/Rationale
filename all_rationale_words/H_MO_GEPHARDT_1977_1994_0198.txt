@@ -1,0 +1,36 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) we(0.0) are(0.0) obviously(1.0) finished(0.0) voting(1.0) this(0.0) evening(1.0) .(0.0) There(0.0) will(0.0) not(1.0) be(0.0) votes(1.0) on(0.0) tomorrow(0.0) .(0.0) On(0.0) Monday(0.0) 
+the(0.0) House(0.0) will(0.0) meet(1.0) at(0.0) noon(1.0) ,(0.0) but(0.0) there(0.0) will(0.0) be(0.0) no(1.0) legislative(1.0) business(1.0) .(0.0) On(1.0) Tuesday(1.0) ,(0.0) May(0.0) 10(0.0) 
+,(0.0) the(0.0) House(0.0) meets(0.0) at(0.0) 10:30(0.0) a.m.(0.0) For(0.0) morning(0.0) hour(0.0) and(0.0) then(0.0) at(0.0) noon(0.0) on(0.0) 4(0.0) bills(1.0) on(0.0) suspension(0.0) on(1.0) 
+which(0.0) the(0.0) recorded(0.0) votes(1.0) will(0.0) be(0.0) postponed(0.0) until(0.0) Wednesday(1.0) ,(0.0) May(0.0) 11(0.0) .(0.0) They(1.0) are(0.0) as(0.0) follows(1.0) :(0.0) H.R(0.0) .(0.0) 
+4278(1.0) --(0.0) Social(0.0) Security(1.0) Act(0.0) Amendments(1.0) of(0.0) 1994(0.0) ,(0.0) H.R(0.0) .(0.0) 2868(1.0) --(0.0) To(0.0) Designate(1.0) The(0.0) Federal(1.0) Building(1.0) Located(1.0) At(0.0) 
+600(0.0) Camp(0.0) Street(0.0) In(0.0) New(0.0) Orleans(1.0) ,(0.0) Louisiana(1.0) ,(0.0) As(0.0) The(0.0) ``(0.0) John(0.0) Minor(1.0) Wisdom(0.0) United(0.0) States(0.0) Courthouse(0.0) ''(0.0) ,(0.0) 
+H.R(0.0) .(0.0) 3567(1.0) --(0.0) John(1.0) F.(1.0) Kennedy(1.0) Center(0.0) Act(0.0) Amendments(1.0) Of(1.0) 1994(0.0) ,(0.0) and(0.0) H.(0.0) Con(0.0) .(0.0) Res(1.0) .(0.0) 176(1.0) 
+--(0.0) To(0.0) Recognize(0.0) And(0.0) Encourage(1.0) The(0.0) Convening(1.0) Of(0.0) A(0.0) National(0.0) Silver(0.0) Haired(1.0) Congress(0.0) .(0.0) On(1.0) Wednesday(0.0) ,(0.0) May(0.0) 11(0.0) ,(0.0) 
+and(0.0) Thursday(0.0) ,(0.0) May(0.0) 12(1.0) ,(0.0) the(0.0) House(0.0) will(0.0) meet(1.0) at(0.0) 2(0.0) p.m.(1.0) on(0.0) Wednesday(0.0) and(0.0) 11(0.0) a.m.(0.0) on(0.0) Thursday(0.0) 
+.(0.0) We(0.0) will(0.0) take(0.0) up(0.0) H.R(0.0) .(0.0) 2442(1.0) ,(0.0) Economic(1.0) Development(0.0) Reauthorization(0.0) Act(0.0) of(0.0) 1994(0.0) ,(0.0) subject(0.0) to(0.0) a(0.0) rule(0.0) 
+;(0.0) Senate(1.0) bill(0.0) S.(1.0) 2000(0.0) ,(0.0) Head(1.0) Start(1.0) Act(0.0) Amendments(1.0) of(0.0) 1994(0.0) conference(0.0) report(0.0) ,(0.0) subject(0.0) to(0.0) a(0.0) rule(0.0) ;(0.0) 
+and(0.0) H.R(0.0) .(0.0) 2473(1.0) ,(0.0) the(0.0) Montana(0.0) Wilderness(0.0) Act(0.0) ,(0.0) subject(0.0) to(0.0) a(0.0) rule(0.0) .(0.0) I(0.0) would(1.0) estimate(0.0) that(0.0) votes(1.0) 
+on(0.0) Wednesday(0.0) would(0.0) start(0.0) approximately(0.0) 3(0.0) o'clock(1.0) in(0.0) the(0.0) afternoon(0.0) and(0.0) on(0.0) Friday(0.0) ,(0.0) May(0.0) 13(1.0) ,(0.0) the(0.0) House(0.0) will(0.0) 
+meet(1.0) at(0.0) 11(0.0) a.m(1.0) .(0.0) But(0.0) there(0.0) will(0.0) not(1.0) be(0.0) legislative(1.0) business(1.0) or(1.0) votes(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	obviously	voting	evening	not	votes	
+meet	noon	no	legislative	business	On	Tuesday	
+bills	on	
+votes	Wednesday	They	follows	
+4278	Security	Amendments	2868	Designate	Federal	Building	Located	
+Orleans	Louisiana	Minor	
+3567	John	F.	Kennedy	Amendments	Of	Res	176	
+Encourage	Convening	Haired	On	
+12	meet	p.m.	
+2442	Economic	
+Senate	S.	Head	Start	Amendments	
+2473	would	votes	
+o'clock	13	
+meet	a.m	not	legislative	business	or	votes	
+
+reads % = 0.2318840579710145

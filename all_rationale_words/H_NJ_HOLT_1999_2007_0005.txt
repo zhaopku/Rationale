@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+If(0.0) I(0.0) may(0.0) just(0.0) insert(0.0) ,(0.0) some(0.0) of(0.0) those(0.0) choices(0.0) have(0.0) been(0.0) made(0.0) by(0.0) our(0.0) now-colleague(0.0) ,(0.0) Mr.(0.0) Blumenauer(1.0) .(0.0) Much(0.0) 
+of(0.0) the(0.0) success(0.0) of(0.0) Portland(1.0) traces(0.0) back(0.0) to(0.0) some(0.0) of(0.0) the(0.0) decisions(0.0) that(0.0) he(0.0) had(0.0) a(0.0) part(0.0) in(0.0) some(0.0) years(0.0) 
+ago(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Blumenauer	
+Portland	
+
+
+reads % = 0.046511627906976744

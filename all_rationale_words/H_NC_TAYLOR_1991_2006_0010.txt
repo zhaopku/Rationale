@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) yield(0.0) 2(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) Mexico(1.0) ((0.0) Mr.(0.0) Pearce(1.0) )(0.0) .(0.0) Chairman(0.0) ,(0.0) I(0.0) yield(0.0) 2(0.0) minutes(0.0) 
+to(0.0) the(0.0) gentleman(0.0) from(0.0) Oklahoma(1.0) ((0.0) Mr.(0.0) Boren(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Mexico	Pearce	
+Oklahoma	Boren	
+
+reads % = 0.12903225806451613

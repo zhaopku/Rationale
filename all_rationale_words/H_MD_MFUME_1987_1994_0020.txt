@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) Black(1.0) History(0.0) Month(0.0) was(0.0) created(0.0) to(0.0) acknowledge(0.0) the(0.0) achievements(0.0) of(0.0) great(0.0) African-American(1.0) individuals(0.0) and(0.0) institutions(0.0) and(0.0) their(0.0) role(0.0) 
+in(0.0) the(0.0) history(0.0) of(0.0) the(0.0) United(0.0) States(0.0) .(0.0) Today(0.0) ,(0.0) we(0.0) honor(0.0) America(1.0) 's(0.0) Afro-American(1.0) organizations(0.0) and(0.0) we(0.0) ask(0.0) the(0.0) 
+question(0.0) :(0.0) How(0.0) can(0.0) we(0.0) empower(1.0) these(0.0) organizations(1.0) now(0.0) and(0.0) in(0.0) the(0.0) future(0.0) .(0.0) We(0.0) have(0.0) a(0.0) long(0.0) history(0.0) of(0.0) 
+empowering(1.0) organizations(1.0) in(0.0) the(0.0) African-(0.0) American(0.0) community(1.0) and(0.0) the(0.0) success(0.0) of(0.0) many(0.0) of(0.0) these(0.0) groups(0.0) has(0.0) paralleled(0.0) the(0.0) progress(0.0) our(0.0) 
+community(1.0) has(0.0) made(0.0) in(0.0) achieving(1.0) civil(1.0) rights(1.0) and(0.0) liberation(1.0) .(0.0) Whether(0.0) it(0.0) 's(0.0) the(0.0) NAACP(1.0) ,(0.0) the(0.0) Urban(1.0) League(0.0) ,(0.0) 
+the(0.0) Rainbow(0.0) Coalition(0.0) ,(0.0) or(0.0) the(0.0) Southern(0.0) Christian(0.0) Leadership(0.0) Conference(0.0) ,(0.0) the(0.0) African-American(1.0) community(0.0) has(0.0) often(0.0) looked(0.0) to(0.0) these(0.0) organizations(1.0) 
+for(0.0) strength(0.0) and(0.0) leadership(0.0) during(0.0) the(0.0) numerous(0.0) battles(0.0) we(0.0) have(0.0) fought(1.0) for(0.0) equality(1.0) and(0.0) dignity(1.0) .(0.0) The(0.0) voice(0.0) of(0.0) the(0.0) 
+community(0.0) has(0.0) often(0.0) been(0.0) articulated(0.0) through(0.0) our(0.0) national(1.0) and(0.0) local(0.0) organizations(0.0) and(0.0) we(0.0) have(0.0) looked(0.0) to(0.0) them(0.0) to(0.0) lift(0.0) us(0.0) 
+up(0.0) as(0.0) a(0.0) people(0.0) .(0.0) While(0.0) the(0.0) battle(1.0) for(0.0) civil(1.0) rights(1.0) is(0.0) hardly(0.0) over(0.0) ,(0.0) the(0.0) African-(0.0) American(0.0) community(1.0) is(0.0) 
+now(0.0) faced(0.0) with(0.0) a(0.0) larger(0.0) battle(0.0) for(0.0) survival(0.0) .(0.0) While(0.0) the(0.0) needs(0.0) of(0.0) our(0.0) people(0.0) have(0.0) grown(0.0) ,(0.0) the(0.0) Government(1.0) 
+'s(0.0) response(0.0) has(0.0) weakened(0.0) ,(0.0) thus(0.0) leaving(0.0) our(0.0) community(0.0) organizations(1.0) to(0.0) pick(0.0) up(0.0) the(0.0) pieces(0.0) and(0.0) bear(0.0) new(0.0) and(0.0) daunting(0.0) 
+burdens(1.0) .(0.0) The(0.0) state(1.0) of(0.0) the(0.0) black(1.0) community(0.0) is(0.0) indeed(0.0) critical(0.0) .(0.0) While(0.0) hope(0.0) is(0.0) high(0.0) the(0.0) challenges(0.0) and(0.0) threats(1.0) 
+are(0.0) dangerous(1.0) .(0.0) The(0.0) scourge(1.0) of(0.0) AIDS(1.0) ,(0.0) crack(1.0) ,(0.0) and(0.0) crime(1.0) continue(1.0) to(0.0) tear(0.0) at(0.0) the(0.0) rich(1.0) fabric(0.0) of(0.0) 
+our(0.0) culture(1.0) and(0.0) threaten(1.0) the(0.0) black(1.0) male(0.0) with(0.0) annihilation(1.0) .(0.0) Racism(1.0) ,(0.0) bigotry(1.0) ,(0.0) and(0.0) violence(1.0) lie(1.0) terribly(0.0) close(0.0) to(0.0) 
+the(0.0) surface(0.0) of(0.0) our(0.0) Nation(1.0) 's(0.0) consciousness(0.0) threatening(0.0) to(0.0) erupt(1.0) at(0.0) any(0.0) moment(0.0) .(0.0) The(0.0) Rodney(0.0) King(0.0) riots(1.0) demonstrated(0.0) that(0.0) 
+justice(1.0) denied(1.0) or(0.0) tensions(0.0) ignored(1.0) only(0.0) compound(0.0) the(0.0) crisis(1.0) .(0.0) We(0.0) need(0.0) leadership(0.0) from(0.0) the(0.0) White(1.0) House(0.0) to(0.0) counter(1.0) the(0.0) 
+forces(1.0) of(0.0) ignorance(1.0) .(0.0) We(0.0) need(0.0) a(0.0) Marshall(0.0) Plan(1.0) in(0.0) the(0.0) African-American(1.0) community(0.0) to(0.0) pull(0.0) our(0.0) resources(1.0) and(0.0) find(0.0) solutions(0.0) 
+.(0.0) We(0.0) need(0.0) the(0.0) support(0.0) of(0.0) all(0.0) Americans(1.0) of(0.0) good(0.0) conscience(1.0) to(0.0) join(0.0) us(0.0) and(0.0) work(0.0) together(0.0) in(0.0) understanding(0.0) and(0.0) 
+appreciation(0.0) of(0.0) our(0.0) cultural(1.0) differences(0.0) and(0.0) similarities(0.0) .(0.0) Ultimately(0.0) it(0.0) is(0.0) our(0.0) African-American(1.0) organizations(1.0) that(0.0) we(0.0) will(0.0) look(0.0) to(0.0) now(0.0) 
+and(0.0) in(0.0) the(0.0) future(0.0) for(0.0) the(0.0) solutions(0.0) we(0.0) seek(0.0) .(0.0) It(0.0) is(0.0) in(0.0) our(0.0) national(1.0) ,(0.0) State(1.0) ,(0.0) local(0.0) ,(0.0) 
+and(0.0) neighborhood(0.0) groups(0.0) that(0.0) the(0.0) real(0.0) agenda(1.0) for(0.0) black(1.0) America(0.0) will(0.0) be(0.0) melded(0.0) and(0.0) refined(0.0) .(0.0) We(0.0) must(0.0) provide(0.0) these(0.0) 
+groups(0.0) with(0.0) the(0.0) resources(1.0) ,(0.0) time(0.0) ,(0.0) energy(1.0) ,(0.0) muscle(0.0) ,(0.0) and(0.0) prayer(0.0) that(0.0) will(0.0) revitalize(1.0) our(0.0) community(0.0) .(0.0) We(0.0) 
+can(0.0) not(0.0) count(0.0) on(0.0) the(0.0) fair-weather(1.0) friendship(0.0) of(0.0) governments(1.0) ,(0.0) political(1.0) parties(0.0) ,(0.0) or(0.0) programs(1.0) .(0.0) However(0.0) ,(0.0) we(0.0) can(0.0) 
+rely(0.0) on(0.0) ourselves(0.0) and(0.0) our(0.0) community(1.0) institutions(1.0) .(0.0) For(0.0) it(0.0) is(0.0) in(0.0) ourselves(0.0) that(0.0) we(0.0) will(0.0) find(0.0) our(0.0) destiny(0.0) and(0.0) 
+strength(0.0) to(0.0) build(0.0) a(0.0) new(0.0) tomorrow(0.0) .(0.0) It(0.0) is(0.0) in(0.0) ourselves(0.0) that(0.0) we(0.0) will(0.0) discover(0.0) our(0.0) richness(0.0) and(0.0) wealth(1.0) 
+
+
+----- below are rationale words -----
+
+Black	African-American	
+America	Afro-American	
+empower	organizations	
+empowering	organizations	community	
+community	achieving	civil	rights	liberation	NAACP	Urban	
+African-American	organizations	
+fought	equality	dignity	
+national	
+battle	civil	rights	community	
+Government	
+organizations	
+burdens	state	black	threats	
+dangerous	scourge	AIDS	crack	crime	continue	rich	
+culture	threaten	black	annihilation	Racism	bigotry	violence	lie	
+Nation	erupt	riots	
+justice	denied	ignored	crisis	White	counter	
+forces	ignorance	Plan	African-American	resources	
+Americans	conscience	
+cultural	African-American	organizations	
+national	State	
+agenda	black	
+resources	energy	revitalize	
+fair-weather	governments	political	programs	
+community	institutions	
+wealth	
+
+reads % = 0.16

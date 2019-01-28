@@ -1,0 +1,10 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) sometimes(0.0) in(0.0) debate(1.0) positions(0.0) are(0.0) mischaracterized(1.0) .(0.0) But(0.0) I(0.0) think(0.0) it(0.0) is(0.0) important(0.0) to(0.0) point(0.0) out(0.0) --(0.0) --(0.0) 
+
+
+----- below are rationale words -----
+
+debate	mischaracterized	
+
+reads % = 0.1

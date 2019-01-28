@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) inquire(0.0) of(0.0) the(0.0) gentleman(0.0) ,(0.0) does(0.0) he(0.0) have(0.0) any(0.0) speakers(0.0) ?(0.0) Mr.(0.0) LINCOLN(1.0) DIAZ-BALART(0.0) of(0.0) Florida(0.0) .(0.0) I(0.0) 'm(0.0) ready(0.0) 
+.(0.0) I(0.0) reserve(0.0) my(0.0) time(0.0) .(0.0) Mr.(0.0) LINCOLN(1.0) DIAZ-BALART(0.0) of(0.0) Florida(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) the(0.0) rule(1.0) before(0.0) us(0.0) brings(0.0) 
+to(0.0) the(0.0) floor(0.0) the(0.0) GIVE(1.0) Act(0.0) ,(0.0) which(0.0) is(0.0) a(0.0) bill(0.0) to(0.0) reauthorize(1.0) the(0.0) National(0.0) Service(0.0) programs(0.0) .(0.0) And(0.0) the(0.0) 
+majority(1.0) on(0.0) our(0.0) side(0.0) supports(0.0) that(0.0) .(0.0) I(0.0) support(0.0) that(0.0) legislation(1.0) .(0.0) It(0.0) is(0.0) a(0.0) good(0.0) piece(0.0) of(0.0) legislation(1.0) .(0.0) 
+It(0.0) has(0.0) the(0.0) support(0.0) of(0.0) the(0.0) ranking(0.0) member(0.0) of(0.0) the(0.0) Education(0.0) and(0.0) Labor(1.0) Committee(0.0) ,(0.0) and(0.0) we(0.0) are(0.0) in(0.0) support(0.0) 
+of(0.0) the(0.0) underlying(0.0) legislation(1.0) .(0.0) What(0.0) we(0.0) are(0.0) saying(0.0) ,(0.0) though(0.0) ,(0.0) is(0.0) that(0.0) --(0.0) and(0.0) by(0.0) the(0.0) way(0.0) ,(0.0) 
+I(0.0) reiterate(0.0) that(0.0) I(0.0) 'm(0.0) pleased(0.0) that(0.0) we(0.0) have(0.0) caught(0.0) the(0.0) attention(0.0) of(0.0) the(0.0) majority(1.0) leadership(0.0) and(0.0) that(0.0) they(0.0) have(0.0) 
+convened(0.0) a(0.0) rules(0.0) meeting(0.0) for(0.0) 3(0.0) p.m.(0.0) to(0.0) deal(0.0) with(0.0) the(0.0) issue(0.0) of(0.0) AIG(1.0) ,(0.0) the(0.0) outrage(1.0) of(0.0) the(0.0) AIG(1.0) 
+bonuses(1.0) .(0.0) At(0.0) a(0.0) time(0.0) when(0.0) the(0.0) Federal(1.0) Government(1.0) is(0.0) propping(1.0) up(0.0) AIG(1.0) with(0.0) over(0.0) $(0.0) 170(0.0) billion(1.0) in(0.0) taxpayer(1.0) 
+funds(1.0) ,(0.0) it(0.0) is(0.0) unconscionable(1.0) that(0.0) AIG(1.0) is(0.0) giving(0.0) its(0.0) executives(1.0) bonuses(1.0) ,(0.0) some(0.0) of(0.0) them(0.0) which(0.0) are(0.0) over(0.0) $(0.0) 
+1(0.0) million(0.0) .(0.0) That(0.0) is(0.0) why(0.0) today(0.0) I(0.0) will(0.0) be(0.0) asking(0.0) for(0.0) a(0.0) ``(0.0) no(0.0) ''(0.0) vote(1.0) on(0.0) the(0.0) previous(0.0) 
+question(0.0) .(0.0) We(0.0) do(0.0) n't(0.0) have(0.0) to(0.0) wait(0.0) until(0.0) a(0.0) rules(0.0) meeting(0.0) and(0.0) then(0.0) who(0.0) knows(0.0) when(0.0) they(0.0) will(0.0) bring(0.0) 
+to(0.0) the(0.0) floor(0.0) --(0.0) if(0.0) they(0.0) do(0.0) --(0.0) legislation(1.0) .(0.0) We(0.0) do(0.0) n't(0.0) know(0.0) what(0.0) it(0.0) will(0.0) say(0.0) .(0.0) What(0.0) 
+I(0.0) 'm(0.0) saying(0.0) is(0.0) that(0.0) right(0.0) now(0.0) we(0.0) can(0.0) amend(1.0) this(0.0) rule(1.0) and(0.0) allow(0.0) the(0.0) House(0.0) to(0.0) consider(0.0) H.R(0.0) .(0.0) 
+1577(0.0) ,(0.0) a(0.0) bill(0.0) by(0.0) my(0.0) colleagues(0.0) ,(0.0) Representatives(1.0) Paulsen(1.0) and(0.0) Lance(1.0) ,(0.0) that(0.0) will(0.0) require(0.0) that(0.0) the(0.0) Treasury(1.0) Department(0.0) 
+implement(0.0) a(0.0) plan(0.0) within(0.0) the(0.0) next(0.0) 2(0.0) weeks(0.0) to(0.0) recoup(0.0) the(0.0) AIG(1.0) bonuses(1.0) .(0.0) And(0.0) in(0.0) order(0.0) to(0.0) prevent(0.0) another(0.0) 
+bonus(0.0) controversy(1.0) ,(0.0) the(0.0) bill(1.0) will(1.0) require(1.0) that(0.0) any(0.0) future(0.0) bonus(0.0) payments(0.0) from(0.0) TARP(1.0) funds(1.0) be(0.0) approved(0.0) by(0.0) the(0.0) Treasury(1.0) 
+Department(0.0) in(0.0) writing(0.0) ,(0.0) including(0.0) any(0.0) contractual(0.0) bonus(0.0) obligations(0.0) .(0.0) Now(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) Americans(1.0) are(0.0) rightfully(1.0) upset(0.0) over(0.0) 
+the(0.0) use(0.0) of(0.0) taxpayer(1.0) funds(1.0) to(0.0) give(0.0) executives(1.0) million-dollar(1.0) bonuses(1.0) .(0.0) They(0.0) expect(0.0) the(0.0) administration(1.0) will(0.0) keep(0.0) a(0.0) watchful(0.0) eye(0.0) 
+on(0.0) the(0.0) proper(0.0) use(0.0) of(0.0) bailout(1.0) funds(1.0) .(0.0) Just(0.0) 2(0.0) weeks(0.0) ago(0.0) ,(0.0) the(0.0) President(1.0) 's(0.0) spokesman(0.0) said(0.0) that(0.0) they(0.0) 
+were(0.0) confident(0.0) that(0.0) they(0.0) knew(0.0) how(0.0) every(0.0) dime(1.0) was(0.0) being(0.0) spent(0.0) at(0.0) AIG(1.0) .(0.0) Well(0.0) ,(0.0) obviously(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) 
+,(0.0) that(0.0) does(0.0) n't(0.0) seem(0.0) to(0.0) be(0.0) the(0.0) case(0.0) .(0.0) That(0.0) is(0.0) the(0.0) reason(0.0) that(0.0) I(0.0) am(0.0) calling(0.0) for(0.0) Members(0.0) 
+of(0.0) this(0.0) House(0.0) to(0.0) vote(1.0) ``(0.0) no(0.0) ''(0.0) on(0.0) the(0.0) previous(0.0) question(0.0) .(0.0) The(0.0) Paulsen-Lance(0.0) legislation(1.0) is(0.0) just(0.0) another(0.0) example(0.0) 
+of(0.0) how(0.0) the(0.0) responsible(0.0) and(0.0) vigilant(1.0) opposition(1.0) ,(0.0) the(0.0) Republicans(1.0) ,(1.0) we(1.0) are(1.0) working(1.0) to(1.0) provide(1.0) transparency(1.0) and(1.0) oversight(1.0) of(0.0) 
+taxpayer(1.0) funds(1.0) in(1.0) the(1.0) TARP(1.0) program(1.0) .(1.0) We(0.0) must(0.0) demand(1.0) that(0.0) the(0.0) administration(1.0) provide(0.0) proper(0.0) accounting(0.0) of(0.0) TARP(1.0) funds(1.0) 
+
+
+----- below are rationale words -----
+
+LINCOLN	
+LINCOLN	Speaker	rule	
+GIVE	reauthorize	
+majority	legislation	legislation	
+Labor	
+legislation	
+majority	
+AIG	outrage	AIG	
+bonuses	Federal	Government	propping	AIG	billion	taxpayer	
+funds	unconscionable	AIG	executives	bonuses	
+vote	
+
+legislation	
+amend	rule	
+Representatives	Paulsen	Lance	Treasury	
+AIG	bonuses	
+controversy	bill	will	require	TARP	funds	Treasury	
+Speaker	Americans	rightfully	
+taxpayer	funds	executives	million-dollar	bonuses	administration	
+bailout	funds	President	
+dime	AIG	Speaker	
+
+vote	legislation	
+vigilant	opposition	Republicans	,	we	are	working	to	provide	transparency	and	oversight	
+taxpayer	funds	in	the	TARP	program	.	demand	administration	TARP	funds	
+
+reads % = 0.168

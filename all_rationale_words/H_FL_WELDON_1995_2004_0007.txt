@@ -1,0 +1,20 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) was(0.0) with(0.0) the(0.0) Governor(1.0) of(0.0) Texas(1.0) yesterday(0.0) ,(0.0) and(0.0) we(0.0) called(0.0) the(0.0) gentleman(0.0) from(0.0) Louisiana(1.0) ((0.0) Mr.(0.0) Tauzin(1.0) 
+)(0.0) at(1.0) M.D(0.0) .(0.0) Anderson(0.0) ,(0.0) and(0.0) he(0.0) asked(0.0) that(0.0) I(0.0) rise(0.0) tonight(0.0) and(0.0) thank(0.0) Members(1.0) on(0.0) both(0.0) sides(0.0) of(0.0) 
+the(0.0) aisle(0.0) for(0.0) your(0.0) letters(0.0) and(0.0) prayers(0.0) .(0.0) He(0.0) specifically(0.0) asked(0.0) me(0.0) to(0.0) thank(0.0) all(0.0) Members(0.0) for(0.0) the(0.0) support(0.0) that(0.0) 
+you(0.0) have(0.0) been(0.0) providing(0.0) him(0.0) .(0.0) He(0.0) is(0.0) doing(0.0) well(0.0) .(0.0) He(0.0) made(0.0) a(0.0) good(0.0) recovery(0.0) from(0.0) his(0.0) surgery(0.0) .(0.0) 
+He(0.0) is(0.0) beginning(0.0) his(0.0) chemotherapy(0.0) and(0.0) radiation(0.0) ,(0.0) and(0.0) he(0.0) asked(0.0) that(0.0) I(0.0) extend(0.0) his(0.0) thanks(0.0) to(0.0) each(0.0) and(0.0) every(0.0) 
+Member(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Governor	Texas	Louisiana	Tauzin	
+at	Members	
+
+
+
+
+
+reads % = 0.05825242718446602

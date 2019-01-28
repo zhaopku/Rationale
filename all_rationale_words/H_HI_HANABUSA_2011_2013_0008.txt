@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) we(0.0) 've(0.0) heard(0.0) the(0.0) words(0.0) ``(0.0) sequestration(1.0) ''(0.0) and(0.0) ``(0.0) sequester(0.0) ''(0.0) so(0.0) often(0.0) they(0.0) 've(0.0) now(0.0) become(0.0) household(0.0) 
+terms(0.0) .(0.0) But(0.0) when(0.0) the(0.0) Budget(1.0) Control(0.0) Act(0.0) of(0.0) 2011(0.0) became(0.0) law(1.0) ,(0.0) no(0.0) one(0.0) intended(0.0) that(0.0) sequestration(1.0) would(0.0) take(0.0) 
+place(0.0) .(0.0) In(0.0) fact(0.0) ,(0.0) everyone(0.0) thought(0.0) it(0.0) would(0.0) be(0.0) so(0.0) devastating(0.0) that(0.0) neither(0.0) political(1.0) party(0.0) would(0.0) let(0.0) it(0.0) stand(0.0) 
+.(0.0) Well(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) it(0.0) stands(0.0) .(0.0) At(0.0) every(0.0) opportunity(0.0) to(0.0) repeal(1.0) sequestration(1.0) ,(0.0) it(0.0) has(0.0) not(0.0) happened(0.0) 
+.(0.0) Yet(0.0) we(0.0) know(0.0) Congress(0.0) can(0.0) act(1.0) to(0.0) address(0.0) the(0.0) impacts(1.0) if(0.0) it(0.0) hits(0.0) the(0.0) front(0.0) page(0.0) of(0.0) the(0.0) paper(0.0) 
+.(0.0) Our(0.0) Republican(1.0) colleagues(1.0) did(1.0) so(1.0) for(1.0) the(1.0) FAA(1.0) .(1.0) But(1.0) it(1.0) is(1.0) now(1.0) time(1.0) for(1.0) us(1.0) to(0.0) ask(0.0) :(0.0) 
+What(0.0) about(0.0) the(0.0) children(0.0) 's(0.0) Head(0.0) Start(0.0) program(1.0) ?(0.0) What(0.0) about(0.0) FEMA(1.0) for(0.0) the(0.0) victims(1.0) of(0.0) Hurricane(1.0) Sandy(1.0) ?(0.0) What(0.0) 
+about(0.0) nutrition(1.0) for(0.0) women(1.0) and(0.0) children(0.0) ,(0.0) also(0.0) called(0.0) WIC(1.0) ?(0.0) We(0.0) need(0.0) to(0.0) compromise(1.0) on(0.0) these(0.0) and(0.0) other(0.0) major(0.0) 
+programs(1.0) ,(0.0) just(0.0) like(0.0) for(0.0) the(0.0) FAA(1.0) .(0.0) We(0.0) need(0.0) Republicans(0.0) to(0.0) come(0.0) to(0.0) the(0.0) table(0.0) for(0.0) the(0.0) benefit(1.0) of(0.0) 
+the(0.0) people(0.0) .(0.0) Would(0.0) n't(0.0) it(0.0) be(0.0) great(0.0) if(0.0) we(0.0) could(0.0) finally(0.0) repeal(1.0) sequestration(1.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+sequestration	
+Budget	law	sequestration	
+political	
+Speaker	repeal	sequestration	
+act	impacts	
+Republican	colleagues	did	so	for	the	FAA	.	But	it	is	now	time	for	us	
+program	FEMA	victims	Hurricane	Sandy	
+nutrition	women	WIC	compromise	
+programs	FAA	benefit	
+repeal	sequestration	
+
+reads % = 0.1989795918367347

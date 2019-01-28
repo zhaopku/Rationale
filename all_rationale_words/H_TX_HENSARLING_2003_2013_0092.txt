@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) pursuant(0.0) to(0.0) House(0.0) Resolution(1.0) 391(0.0) ,(0.0) I(0.0) call(0.0) up(0.0) the(0.0) bill(1.0) ((1.0) H.R(1.0) 992(1.0) )(0.0) to(0.0) amend(0.0) provisions(0.0) in(0.0) 
+section(0.0) 716(0.0) of(0.0) the(0.0) Dodd-(0.0) Frank(0.0) Wall(1.0) Street(0.0) Reform(0.0) and(0.0) Consumer(0.0) Protection(0.0) Act(0.0) relating(0.0) to(0.0) Federal(0.0) assistance(0.0) for(0.0) swaps(0.0) entities(0.0) 
+,(0.0) and(0.0) ask(0.0) for(0.0) its(0.0) immediate(0.0) consideration(0.0) .(0.0) The(0.0) Clerk(0.0) read(0.0) the(0.0) title(0.0) of(0.0) the(0.0) bill(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Resolution	bill	(	H.R	992	
+Wall	
+
+
+reads % = 0.10344827586206896

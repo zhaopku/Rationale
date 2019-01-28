@@ -1,0 +1,10 @@
+This is from a Democrat
+----- below is the original text -----
+How(0.0) about(0.0) the(0.0) education(1.0) program(0.0) that(0.0) we(0.0) talked(0.0) about(0.0) in(0.0) the(0.0) debate(1.0) a(0.0) little(0.0) earlier(0.0) this(0.0) afternoon(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+education	debate	
+
+reads % = 0.1111111111111111

@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Ms.(1.0) JACKSON-LEE(0.0) of(0.0) Texas(0.0) .(0.0) We(0.0) are(0.0) also(0.0) very(0.0) supportive(0.0) of(0.0) the(0.0) Hastings(0.0) from(0.0) Florida(0.0) amendment(0.0) that(0.0) ,(0.0) within(0.0) 6(0.0) months(0.0) 
+of(0.0) enactment(0.0) ,(0.0) requires(0.0) TSA(1.0) to(0.0) submit(0.0) a(0.0) report(0.0) to(0.0) Congress(0.0) on(0.0) complaints(0.0) and(0.0) claims(0.0) received(0.0) by(0.0) TSA(1.0) for(0.0) loss(0.0) 
+of(0.0) property(0.0) in(0.0) baggage(0.0) screening(0.0) areas(0.0) .(0.0) We(0.0) have(0.0) to(0.0) be(0.0) respectful(0.0) of(0.0) the(0.0) idea(0.0) of(0.0) security(0.0) but(0.0) also(0.0) of(0.0) 
+the(0.0) rights(1.0) of(0.0) our(0.0) particular(0.0) citizens(1.0) .(0.0) We(0.0) look(0.0) forward(0.0) ,(0.0) as(0.0) we(0.0) move(0.0) forward(0.0) with(0.0) this(0.0) bill(1.0) ,(0.0) to(0.0) 
+make(0.0) sure(0.0) that(0.0) it(0.0) covers(0.0) a(0.0) variety(0.0) of(0.0) areas(0.0) .(0.0) Those(0.0) areas(0.0) ,(0.0) again(0.0) ,(0.0) address(0.0) the(0.0) question(0.0) of(0.0) a(0.0) 
+Federal(1.0) flight(0.0) deck(0.0) officer(0.0) program(0.0) ,(0.0) requiring(1.0) additional(0.0) training(0.0) ,(0.0) and(0.0) it(0.0) directs(0.0) TSA(1.0) to(0.0) develop(0.0) a(0.0) security(0.0) training(0.0) program(0.0) 
+for(0.0) all(0.0) air(0.0) cargo(0.0) .(0.0) Finally(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) believe(0.0) that(0.0) we(0.0) have(0.0) addressed(0.0) this(0.0) question(0.0) of(0.0) both(0.0) 
+international(0.0) and(0.0) domestic(0.0) air(0.0) cargo(0.0) by(0.0) suggesting(0.0) that(0.0) we(0.0) will(0.0) work(0.0) with(0.0) the(0.0) administration(1.0) to(0.0) make(0.0) sure(0.0) that(0.0) we(0.0) have(0.0) 
+within(0.0) a(0.0) 2-year(0.0) period(0.0) 100(0.0) percent(0.0) screening(1.0) for(0.0) all(0.0) of(0.0) our(0.0) baggage(0.0) no(0.0) matter(0.0) where(0.0) it(0.0) comes(0.0) from(0.0) .(0.0) I(0.0) 
+ask(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) the(0.0) rule(1.0) .(0.0) Mr.(0.0) LINCOLN(1.0) DIAZ-BALART(0.0) of(0.0) Florida(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) again(0.0) 
+2(0.0) minutes(0.0) to(0.0) the(0.0) distinguished(0.0) gentleman(0.0) from(0.0) Indiana(1.0) ((0.0) Mr.(0.0) Souder(1.0) )(0.0) ,(0.0) who(0.0) is(0.0) extremely(0.0) concerned(0.0) about(0.0) this(0.0) issue(0.0) 
+,(0.0) and(0.0) rightfully(0.0) so(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+TSA	TSA	
+
+rights	citizens	bill	
+
+Federal	requiring	TSA	
+Speaker	
+administration	
+screening	
+rule	LINCOLN	Speaker	
+Indiana	Souder	
+
+
+reads % = 0.07079646017699115

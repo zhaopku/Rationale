@@ -1,0 +1,54 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) me(0.0) this(0.0) time(0.0) .(0.0) I(0.0) first(0.0) met(0.0) Ronald(1.0) Reagan(1.0) over(0.0) 40(0.0) years(0.0) ago(0.0) 
+when(0.0) I(0.0) was(0.0) an(0.0) undergraduate(0.0) student(0.0) at(0.0) Stanford(0.0) University(0.0) in(0.0) California(1.0) .(0.0) He(0.0) and(0.0) I(0.0) and(0.0) some(0.0) others(0.0) were(0.0) involved(0.0) 
+in(0.0) a(0.0) primary(0.0) election(0.0) campaign(1.0) for(0.0) a(0.0) United(0.0) States(0.0) Senator(0.0) from(0.0) California(1.0) which(0.0) proved(0.0) to(0.0) be(0.0) very(0.0) unsuccessful(0.0) .(0.0) But(0.0) 
+in(0.0) the(0.0) meetings(0.0) that(0.0) I(0.0) attended(0.0) that(0.0) Mr.(0.0) Reagan(1.0) chaired(1.0) ,(0.0) I(0.0) recognized(0.0) him(0.0) as(0.0) being(0.0) a(0.0) unique(0.0) person(0.0) with(0.0) 
+an(0.0) uncanny(0.0) knack(0.0) to(0.0) bring(0.0) out(0.0) the(0.0) best(0.0) in(0.0) everybody(0.0) .(0.0) He(0.0) certainly(0.0) proved(0.0) that(0.0) during(0.0) his(0.0) subsequent(0.0) career(0.0) :(0.0) 
+two(0.0) successful(0.0) terms(0.0) as(0.0) Governor(0.0) of(0.0) California(1.0) and(0.0) two(0.0) successful(0.0) terms(0.0) as(0.0) President(0.0) of(0.0) the(0.0) United(0.0) States(0.0) ,(0.0) leaving(0.0) office(0.0) 
+with(0.0) the(0.0) highest(0.0) approval(0.0) rating(0.0) of(0.0) any(0.0) departing(0.0) President(0.0) since(0.0) Franklin(0.0) Roosevelt(1.0) .(0.0) Look(0.0) at(0.0) the(0.0) shape(0.0) America(0.0) was(0.0) in(0.0) 
+when(0.0) Ronald(1.0) Reagan(1.0) was(0.0) elected(0.0) in(0.0) 1980(0.0) .(0.0) We(0.0) went(0.0) through(0.0) a(0.0) horrible(0.0) decade(0.0) of(0.0) the(0.0) 1970s(1.0) .(0.0) There(0.0) was(0.0) 
+a(0.0) Vietnam(0.0) War(0.0) ,(0.0) there(0.0) was(0.0) Watergate(1.0) ,(0.0) there(0.0) was(0.0) Nixon(0.0) 's(0.0) resignation(0.0) ,(0.0) Gerald(0.0) Ford(1.0) 's(0.0) unsuccessful(0.0) Whip(0.0) Inflation(1.0) 
+Now(0.0) campaign(1.0) ,(0.0) Jimmy(0.0) Carter's(0.0) malaise(1.0) ,(0.0) and(0.0) long(0.0) lines(0.0) at(0.0) the(0.0) gas(1.0) pump(0.0) to(0.0) buy(0.0) 5(0.0) gallons(0.0) of(0.0) gas(1.0) 
+.(0.0) When(0.0) President(0.0) Reagan(1.0) took(0.0) office(0.0) ,(0.0) he(0.0) got(0.0) us(0.0) out(0.0) of(0.0) our(0.0) national(1.0) funk(1.0) .(0.0) His(0.0) Morning(0.0) in(0.0) America(1.0) 
+speech(0.0) and(0.0) his(0.0) philosophy(0.0) gave(0.0) us(0.0) as(0.0) a(0.0) Nation(0.0) and(0.0) as(0.0) individual(0.0) Americans(1.0) the(0.0) self-confidence(0.0) to(0.0) do(0.0) what(0.0) America(1.0) has(0.0) 
+always(0.0) done(0.0) ;(0.0) that(0.0) is(0.0) ,(0.0) to(0.0) achieve(0.0) the(0.0) ultimate(0.0) dream(0.0) ,(0.0) to(0.0) overcome(0.0) the(0.0) impossible(0.0) ,(0.0) and(0.0) to(0.0) have(0.0) 
+each(0.0) and(0.0) every(0.0) one(0.0) of(0.0) us(0.0) reach(0.0) our(0.0) highest(0.0) and(0.0) best(0.0) .(0.0) Much(0.0) is(0.0) said(0.0) about(0.0) Reagan(1.0) turning(0.0) around(0.0) the(0.0) 
+economy(1.0) and(0.0) winning(0.0) the(0.0) Cold(1.0) War(0.0) ,(0.0) and(0.0) some(0.0) of(0.0) the(0.0) debate(1.0) on(0.0) the(0.0) Cold(1.0) War(0.0) was(0.0) about(0.0) the(0.0) so-(0.0) 
+called(0.0) Strategic(0.0) Defense(0.0) Initiative(1.0) ,(0.0) but(0.0) there(0.0) was(0.0) a(0.0) decision(0.0) that(0.0) Ronald(1.0) Reagan(1.0) made(0.0) earlier(0.0) that(0.0) laid(0.0) the(0.0) groundwork(1.0) for(0.0) 
+the(0.0) collapse(1.0) of(0.0) communism(1.0) .(0.0) He(0.0) persuaded(0.0) then(0.0) German(0.0) Chancellor(0.0) Helmut(0.0) Schmidt(1.0) to(0.0) deploy(0.0) Pershing(0.0) II(0.0) and(0.0) cruise(0.0) missiles(0.0) in(0.0) 
+West(0.0) Germany(0.0) .(0.0) That(0.0) was(0.0) extremely(0.0) controversial(0.0) at(0.0) the(0.0) time(0.0) both(0.0) in(0.0) Europe(0.0) and(0.0) the(0.0) United(0.0) States(0.0) .(0.0) People(0.0) said(0.0) 
+putting(0.0) more(0.0) missiles(0.0) would(0.0) encourage(0.0) an(0.0) arms(0.0) race(0.0) .(0.0) Well(0.0) ,(0.0) Mr.(0.0) Schmidt(1.0) agreed(1.0) to(1.0) deploy(0.0) them(0.0) .(0.0) He(0.0) might(0.0) 
+have(0.0) lost(0.0) his(0.0) job(0.0) as(0.0) a(0.0) result(0.0) of(0.0) it(0.0) ,(0.0) but(0.0) he(0.0) was(0.0) able(0.0) to(0.0) see(0.0) the(0.0) fall(0.0) of(0.0) the(0.0) 
+Berlin(0.0) Wall(1.0) and(0.0) the(0.0) unification(1.0) of(0.0) Germany(1.0) during(0.0) his(0.0) lifetime(0.0) ,(0.0) and(0.0) we(0.0) have(0.0) got(0.0) to(0.0) give(0.0) credit(0.0) to(0.0) Ronald(1.0) 
+Reagan(1.0) 's(0.0) international(0.0) skills(0.0) for(0.0) doing(0.0) that(0.0) .(0.0) God(0.0) bless(0.0) you(0.0) President(0.0) Reagan(1.0) ,(0.0) may(0.0) you(0.0) rest(0.0) in(0.0) peace(1.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+Ronald	Reagan	
+California	
+campaign	California	
+Reagan	chaired	
+
+California	
+Roosevelt	
+Ronald	Reagan	1970s	
+Watergate	Ford	Inflation	
+campaign	malaise	gas	gas	
+Reagan	national	funk	America	
+Americans	America	
+
+Reagan	
+economy	Cold	debate	Cold	
+Initiative	Ronald	Reagan	groundwork	
+collapse	communism	Schmidt	
+
+Schmidt	agreed	to	
+
+Wall	unification	Germany	Ronald	
+Reagan	Reagan	peace	
+
+
+reads % = 0.10657596371882086

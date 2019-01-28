@@ -1,0 +1,40 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) support(0.0) the(0.0) bill(1.0) cosponsored(1.0) by(1.0) Representative(1.0) Bill(1.0) Delahunt(1.0) and(0.0) Ranking(1.0) Member(0.0) Lamar(1.0) Smith(1.0) .(0.0) H.R(1.0) .(0.0) 1777(0.0) ,(0.0) 
+the(0.0) ``(0.0) Need-Based(0.0) Educational(0.0) Aid(0.0) Act(0.0) of(0.0) 2007(0.0) ,(0.0) ''(0.0) removes(0.0) the(0.0) current(0.0) sunset(0.0) attached(0.0) to(0.0) an(0.0) exemption(0.0) in(0.0) the(0.0) 
+antitrust(0.0) laws(0.0) that(0.0) permits(0.0) schools(0.0) to(0.0) agree(0.0) to(0.0) award(0.0) financial(0.0) aid(0.0) on(0.0) a(0.0) need-blind(0.0) basis(0.0) and(0.0) to(0.0) use(0.0) common(0.0) principles(0.0) 
+of(0.0) needs(0.0) analysis(0.0) in(0.0) making(0.0) their(0.0) determinations(0.0) .(0.0) The(0.0) exemption(1.0) also(0.0) allows(0.0) for(0.0) agreement(0.0) on(0.0) the(0.0) use(0.0) of(0.0) a(0.0) common(0.0) 
+aid(0.0) application(0.0) form(0.0) and(0.0) for(0.0) the(0.0) exchange(0.0) of(0.0) student(0.0) financial(0.0) information(0.0) through(0.0) a(0.0) third(0.0) party(0.0) .(0.0) In(0.0) 1992(0.0) ,(0.0) Congress(0.0) 
+passed(0.0) a(0.0) similar(0.0) temporary(0.0) exemption(0.0) ,(0.0) which(0.0) was(0.0) first(0.0) extended(0.0) in(0.0) 1994(0.0) ,(0.0) then(0.0) again(0.0) extended(0.0) in(0.0) 1997(0.0) ,(0.0) and(0.0) 
+once(0.0) again(0.0) extended(0.0) in(0.0) 2001(0.0) .(0.0) The(0.0) exemption(1.0) passed(0.0) in(0.0) 2001(0.0) expires(0.0) later(0.0) this(0.0) year(0.0) .(0.0) During(0.0) the(0.0) years(0.0) of(0.0) 
+its(0.0) operation(0.0) ,(0.0) we(0.0) have(0.0) been(0.0) able(0.0) to(0.0) witness(0.0) and(0.0) evaluate(0.0) the(0.0) exemption(1.0) ,(0.0) and(0.0) we(0.0) have(0.0) found(0.0) that(0.0) it(0.0) 
+seems(0.0) to(0.0) be(0.0) working(0.0) .(0.0) The(0.0) need-based(1.0) financial(1.0) aid(0.0) system(0.0) makes(0.0) financial(1.0) aid(1.0) available(0.0) to(0.0) the(0.0) broadest(1.0) number(0.0) of(0.0) students(0.0) 
+solely(0.0) on(0.0) the(0.0) basis(0.0) of(0.0) demonstrated(0.0) need(0.0) .(0.0) The(0.0) schools(1.0) have(0.0) been(0.0) concerned(0.0) that(0.0) without(0.0) this(0.0) exemption(1.0) ,(0.0) they(0.0) would(0.0) 
+be(0.0) required(0.0) to(0.0) compete(0.0) --(0.0) through(0.0) financial(1.0) aid(1.0) awards(0.0) --(0.0) for(0.0) the(0.0) very(0.0) top(0.0) students(0.0) ,(0.0) which(0.0) could(0.0) result(0.0) in(0.0) 
+a(0.0) system(0.0) in(0.0) which(0.0) the(0.0) very(0.0) top(0.0) students(0.0) receive(0.0) an(0.0) excess(0.0) of(0.0) the(0.0) available(0.0) aid(1.0) while(0.0) the(0.0) rest(0.0) of(0.0) the(0.0) 
+applicant(0.0) pool(0.0) receives(0.0) less(0.0) or(0.0) none(0.0) at(0.0) all(0.0) .(0.0) Ultimately(0.0) ,(0.0) such(0.0) a(0.0) system(0.0) could(0.0) undermine(1.0) the(0.0) principles(1.0) of(0.0) need-based(1.0) 
+aid(0.0) and(0.0) need-blind(1.0) admissions(0.0) .(0.0) Because(0.0) the(0.0) exemption(1.0) has(0.0) thus(0.0) far(0.0) appeared(0.0) warranted(0.0) ,(0.0) I(0.0) support(0.0) H.R(0.0) .(0.0) 1777(0.0) and(0.0) 
+hope(0.0) that(0.0) it(0.0) will(0.0) continue(0.0) to(0.0) protect(0.0) need-based(1.0) aid(0.0) and(0.0) need-(0.0) blind(0.0) admissions(1.0) ,(0.0) and(0.0) preserve(1.0) the(0.0) opportunity(0.0) for(0.0) all(0.0) 
+students(0.0) to(0.0) attend(0.0) one(0.0) of(0.0) the(0.0) Nation(1.0) 's(0.0) most(0.0) prestigious(0.0) schools(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+bill	cosponsored	by	Representative	Bill	Delahunt	Ranking	Lamar	Smith	H.R	
+
+
+exemption	
+
+
+exemption	
+exemption	
+need-based	financial	financial	aid	broadest	
+schools	exemption	
+financial	aid	
+aid	
+undermine	principles	need-based	
+need-blind	exemption	
+need-based	admissions	preserve	
+Nation	
+
+reads % = 0.10223642172523961

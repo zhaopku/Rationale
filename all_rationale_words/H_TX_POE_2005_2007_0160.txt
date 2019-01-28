@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) the(0.0) war(1.0) in(0.0) Iraq(1.0) is(0.0) the(0.0) most(0.0) difficult(0.0) and(0.0) important(0.0) issue(0.0) facing(0.0) our(0.0) Nation(1.0) today(0.0) .(0.0) The(0.0) stakes(0.0) 
+there(0.0) are(0.0) simply(0.0) too(0.0) high(0.0) for(0.0) us(0.0) to(0.0) ignore(0.0) the(0.0) consequences(1.0) of(0.0) failure(1.0) .(0.0) Most(0.0) military(1.0) analysts(0.0) agree(0.0) that(0.0) an(0.0) 
+arbitrary(1.0) immediate(0.0) withdrawal(0.0) from(0.0) Iraq(1.0) would(0.0) spiral(0.0) that(0.0) country(1.0) and(0.0) the(0.0) surrounding(0.0) region(0.0) into(0.0) chaos(1.0) .(0.0) Failing(0.0) to(0.0) secure(0.0) Iraq(1.0) 
+will(0.0) provide(0.0) a(0.0) fertile(0.0) ground(0.0) for(0.0) terrorist(1.0) actions(1.0) that(0.0) affect(1.0) not(0.0) only(0.0) Iraq(1.0) ,(0.0) but(0.0) America(0.0) and(0.0) the(0.0) rest(0.0) of(0.0) 
+the(0.0) free(0.0) world(0.0) .(0.0) Extremist(1.0) organizations(1.0) will(0.0) tout(1.0) an(0.0) American(0.0) retreat(0.0) as(0.0) a(0.0) major(0.0) victory(0.0) for(0.0) terrorism(1.0) .(0.0) Once(0.0) again(0.0) 
+saying(0.0) that(0.0) America(1.0) does(0.0) n't(0.0) ever(0.0) have(0.0) the(0.0) stomach(0.0) to(0.0) finish(0.0) a(0.0) war(1.0) .(0.0) Terrorist(1.0) leaders(0.0) will(0.0) make(0.0) use(0.0) of(0.0) 
+a(0.0) fractured(0.0) Iraq(1.0) to(0.0) train(0.0) ,(0.0) equip(0.0) ,(0.0) and(0.0) provide(0.0) sanctuary(0.0) for(0.0) their(0.0) forces(1.0) in(0.0) much(0.0) the(0.0) same(0.0) way(0.0) that(0.0) 
+Afghanistan(1.0) provided(0.0) a(0.0) haven(0.0) for(0.0) the(0.0) Taliban(1.0) and(0.0) al(0.0) Qaeda(0.0) .(0.0) Radicals(0.0) will(0.0) exploit(0.0) the(0.0) anarchy(1.0) and(0.0) abandon(1.0) Iraq(1.0) and(0.0) 
+will(0.0) seek(1.0) to(0.0) spread(0.0) jihadist(1.0) movements(1.0) to(0.0) moderate(1.0) Arab(1.0) States(0.0) .(0.0) Arbitrary(0.0) withdrawal(1.0) will(0.0) only(0.0) encourage(0.0) our(0.0) enemy(1.0) .(0.0) War(0.0) 
+is(0.0) hard(0.0) ,(0.0) but(0.0) a(0.0) planned(0.0) defeat(0.0) by(0.0) retreat(0.0) is(0.0) hardly(0.0) an(0.0) answer(0.0) to(0.0) success(0.0) .(0.0) And(0.0) that(0.0) 's(0.0) just(0.0) 
+the(0.0) way(0.0) it(0.0) is(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+war	Iraq	Nation	
+consequences	failure	military	
+arbitrary	Iraq	country	chaos	Iraq	
+terrorist	actions	affect	Iraq	
+Extremist	organizations	tout	terrorism	
+America	war	Terrorist	
+Iraq	forces	
+Afghanistan	Taliban	anarchy	abandon	Iraq	
+seek	jihadist	movements	moderate	Arab	withdrawal	enemy	
+
+
+
+reads % = 0.17475728155339806

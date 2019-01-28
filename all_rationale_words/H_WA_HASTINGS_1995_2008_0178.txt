@@ -1,0 +1,10 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) can(0.0) I(0.0) inquire(0.0) again(0.0) how(0.0) much(0.0) time(0.0) remains(0.0) on(0.0) both(0.0) sides(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+reads % = 0.0

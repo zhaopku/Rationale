@@ -1,0 +1,48 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) opposition(1.0) to(0.0) the(0.0) amendment(1.0) offered(0.0) by(0.0) my(0.0) colleagues(0.0) ,(0.0) an(0.0) amendment(1.0) that(0.0) would(0.0) gut(1.0) the(0.0) market(0.0) 
+access(0.0) program(1.0) .(0.0) We(0.0) revisit(0.0) this(0.0) issue(0.0) annually(1.0) .(0.0) I(0.0) 'd(0.0) like(0.0) to(0.0) point(0.0) out(0.0) a(0.0) few(0.0) things(0.0) about(0.0) MAP(0.0) 
+,(0.0) which(0.0) used(0.0) to(0.0) go(0.0) by(0.0) the(0.0) acronym(0.0) MPP(0.0) .(0.0) Over(0.0) the(0.0) past(0.0) several(0.0) years(0.0) ,(0.0) Congress(0.0) has(0.0) mandated(1.0) several(0.0) 
+reforms(1.0) .(0.0) These(0.0) changes(0.0) help(0.0) small(0.0) businesses(1.0) and(0.0) co-ops(1.0) ,(0.0) limit(1.0) branded(0.0) promotion(0.0) activities(0.0) and(0.0) increase(0.0) the(0.0) cost(1.0) share(0.0) requirements(1.0) 
+for(0.0) private(0.0) firms(0.0) .(0.0) On(0.0) top(0.0) of(0.0) that(0.0) the(0.0) authorized(0.0) level(0.0) of(0.0) spending(1.0) was(0.0) cut(0.0) $(0.0) 20(0.0) million(0.0) in(0.0) the(0.0) 
+1996(1.0) farm(0.0) bill(0.0) .(0.0) But(0.0) step(0.0) back(0.0) and(0.0) look(0.0) at(0.0) the(0.0) larger(0.0) picture(0.0) .(0.0) The(0.0) farm(0.0) bill(0.0) that(1.0) was(0.0) signed(0.0) 
+into(0.0) law(1.0) a(0.0) little(0.0) more(0.0) than(0.0) 2(0.0) months(0.0) ago(0.0) made(0.0) sweeping(1.0) changes(0.0) in(0.0) agriculture(1.0) policy(1.0) .(0.0) An(0.0) integral(0.0) part(0.0) of(0.0) 
+those(0.0) reforms(1.0) was(0.0) increasing(0.0) the(0.0) focus(0.0) on(0.0) exports(1.0) .(0.0) American(0.0) farmers(1.0) are(0.0) competing(0.0) for(0.0) market(0.0) share(0.0) in(0.0) countries(1.0) around(0.0) the(0.0) 
+world(0.0) .(0.0) They(0.0) are(0.0) competing(0.0) against(0.0) farmers(1.0) in(0.0) countries(1.0) that(0.0) provide(0.0) far(0.0) ,(0.0) far(0.0) deeper(0.0) subsidies(1.0) .(0.0) In(0.0) my(0.0) home(0.0) 
+State(1.0) of(0.0) Maine(1.0) ,(0.0) potato(0.0) farmers(1.0) are(0.0) suffering(0.0) at(0.0) the(0.0) hands(0.0) of(0.0) subsidized(1.0) Canadian(0.0) imports(1.0) .(0.0) One(0.0) bright(0.0) spot(0.0) is(0.0) 
+the(0.0) potential(0.0) for(0.0) overseas(1.0) outlets(0.0) for(0.0) Maine(1.0) potatoes(0.0) .(0.0) The(0.0) industry(1.0) is(0.0) exploring(0.0) options(0.0) .(0.0) They(0.0) need(0.0) assistance(1.0) in(0.0) gaining(1.0) 
+access(0.0) to(0.0) those(0.0) markets(1.0) .(0.0) I(0.0) recently(0.0) talked(0.0) to(0.0) a(0.0) friend(0.0) of(0.0) mine(0.0) ,(0.0) Rodney(0.0) MCCrum(0.0) who(0.0) farms(0.0) 650(0.0) acres(0.0) 
+of(0.0) potatoes(0.0) in(0.0) Aroostook(1.0) County(0.0) ,(0.0) ME(0.0) .(0.0) I(0.0) asked(0.0) him(0.0) about(0.0) MAP(0.0) .(0.0) He(0.0) said(0.0) ,(0.0) and(0.0) I(0.0) quote(0.0) 
+,(0.0) ``(0.0) That(0.0) program(0.0) really(0.0) expands(0.0) the(0.0) world(0.0) market(0.0) to(0.0) create(0.0) jobs(0.0) here(0.0) in(0.0) Maine(1.0) .(0.0) We(0.0) just(0.0) get(0.0) so(0.0) 
+much(0.0) bang(0.0) for(0.0) our(0.0) buck(1.0) .(0.0) ''(0.0) In(0.0) the(0.0) past(0.0) decade(1.0) the(0.0) value(0.0) of(0.0) U.S.(0.0) potato(0.0) exports(1.0) has(0.0) increased(0.0) nearly(0.0) 
+six-fold(1.0) ,(0.0) reaching(0.0) more(0.0) than(0.0) half(0.0) a(0.0) billion(1.0) dollars(1.0) that(0.0) has(0.0) come(0.0) about(0.0) in(0.0) large(0.0) part(0.0) as(0.0) the(0.0) result(0.0) of(0.0) 
+the(0.0) pooling(1.0) of(0.0) industry(1.0) money(1.0) and(0.0) funds(1.0) from(0.0) the(0.0) old(0.0) MPP(0.0) program(1.0) .(0.0) We(0.0) need(0.0) to(0.0) build(0.0) on(0.0) that(0.0) success(0.0) 
+.(0.0) We(0.0) need(0.0) to(0.0) continue(0.0) to(0.0) ensure(0.0) that(0.0) U.S.(0.0) agriculture(1.0) continues(0.0) to(0.0) be(0.0) competitive(0.0) overseas(0.0) ,(0.0) that(0.0) our(0.0) agriculture(1.0) exports(1.0) 
+continue(0.0) to(0.0) exceed(1.0) our(0.0) imports(1.0) ,(0.0) that(0.0) our(0.0) farmers(1.0) remain(0.0) the(0.0) best(0.0) in(0.0) the(0.0) world(0.0) .(0.0) I(0.0) urge(0.0) you(0.0) to(0.0) 
+oppose(1.0) the(0.0) amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+opposition	amendment	amendment	gut	
+program	annually	
+mandated	
+reforms	businesses	co-ops	limit	cost	requirements	
+spending	
+1996	that	
+law	sweeping	agriculture	policy	
+reforms	exports	farmers	countries	
+farmers	countries	subsidies	
+State	Maine	farmers	subsidized	imports	
+overseas	Maine	industry	assistance	gaining	
+markets	
+Aroostook	
+Maine	
+buck	decade	exports	
+six-fold	billion	dollars	
+pooling	industry	money	funds	program	
+agriculture	agriculture	exports	
+exceed	imports	farmers	
+oppose	amendment	
+
+reads % = 0.15324675324675324

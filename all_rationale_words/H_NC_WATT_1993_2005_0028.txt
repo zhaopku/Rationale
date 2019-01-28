@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) am(0.0) really(0.0) saddened(0.0) today(0.0) ,(0.0) and(0.0) I(0.0) am(0.0) not(0.0) sure(0.0) whether(0.0) I(0.0) am(0.0) more(0.0) disappointed(0.0) because(0.0) of(0.0) the(0.0) 
+mischaracterization(1.0) of(0.0) the(0.0) amendments(1.0) in(0.0) the(0.0) committee(0.0) report(0.0) or(0.0) whether(0.0) I(0.0) am(0.0) more(0.0) saddened(0.0) by(0.0) the(0.0) fact(0.0) that(0.0) the(0.0) members(0.0) 
+of(0.0) a(0.0) committee(0.0) on(0.0) which(0.0) I(0.0) have(0.0) served(0.0) now(0.0) for(0.0) 13(0.0) years(0.0) would(0.0) be(0.0) here(0.0) on(0.0) the(0.0) floor(0.0) defending(1.0) the(0.0) 
+characterization(1.0) that(0.0) was(0.0) put(0.0) in(0.0) the(0.0) committee(0.0) 's(0.0) report(0.0) .(0.0) I(0.0) would(0.0) just(0.0) hope(0.0) that(0.0) we(0.0) can(0.0) get(0.0) the(0.0) committee(0.0) 
+to(0.0) file(0.0) an(0.0) amended(0.0) report(0.0) that(0.0) clears(0.0) this(0.0) up(0.0) and(0.0) we(0.0) can(0.0) put(0.0) this(0.0) behind(0.0) us(0.0) and(0.0) go(0.0) on(0.0) .(0.0) 
+This(0.0) is(0.0) saddening(0.0) ,(0.0) and(0.0) if(0.0) we(0.0) can(0.0) not(0.0) get(0.0) that(0.0) ,(0.0) I(0.0) think(0.0) it(0.0) would(0.0) be(0.0) a(0.0) really(0.0) ,(0.0) 
+really(0.0) sad(0.0) commentary(0.0) on(0.0) this(0.0) institution(1.0) and(0.0) what(0.0) our(0.0) committee(0.0) has(0.0) sunk(0.0) to(0.0) in(0.0) this(0.0) Congress(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+mischaracterization	amendments	
+defending	
+characterization	
+
+
+institution	
+
+reads % = 0.036231884057971016

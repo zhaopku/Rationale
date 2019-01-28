@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) thank(0.0) you(0.0) very(0.0) much(0.0) ,(0.0) and(0.0) the(0.0) staff(0.0) that(0.0) stays(0.0) here(0.0) with(0.0) us(0.0) so(0.0) late(0.0) every(0.0) night(0.0) .(0.0) 
+Thank(0.0) you(0.0) ,(0.0) Mr.(0.0) Delahunt(1.0) ,(0.0) who(0.0) ,(0.0) as(0.0) we(0.0) know(0.0) ,(0.0) is(0.0) several(0.0) years(0.0) older(0.0) than(0.0) the(0.0) 30-Something(1.0) Group(0.0) 
+.(0.0) We(0.0) know(0.0) how(0.0) tired(0.0) he(0.0) gets(0.0) .(0.0) Thank(0.0) you(0.0) ,(0.0) Debbie(0.0) Wasserman(1.0) Schultz(1.0) ,(0.0) a(0.0) great(0.0) leader(0.0) in(0.0) Congress(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	
+Delahunt	30-Something	
+Wasserman	Schultz	
+
+
+reads % = 0.08064516129032258

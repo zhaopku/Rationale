@@ -1,0 +1,46 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) the(0.0) amendment(1.0) I(0.0) am(0.0) offering(0.0) with(0.0) the(0.0) gentleman(0.0) from(0.0) Nebraska(1.0) ((0.0) Mr.(0.0) Bereuter(1.0) )(0.0) would(1.0) provide(1.0) a(0.0) small(0.0) 
+,(0.0) but(0.0) vital(0.0) ,(0.0) fix(0.0) to(0.0) the(0.0) cumbersome(1.0) process(0.0) that(0.0) governs(1.0) the(0.0) export(0.0) of(0.0) commercial(0.0) communication(0.0) satellites(0.0) to(0.0) our(0.0) closest(0.0) 
+allies(1.0) .(0.0) The(0.0) amendment(1.0) is(0.0) identical(0.0) to(0.0) language(0.0) that(0.0) Senator(1.0) Enzi(1.0) offered(1.0) and(0.0) that(0.0) was(0.0) passed(0.0) as(0.0) part(0.0) of(0.0) the(0.0) 
+Senate(0.0) foreign(0.0) relations(0.0) bill(0.0) .(0.0) Under(0.0) current(0.0) law(0.0) ,(0.0) satellite(0.0) sellers(0.0) must(0.0) obtain(0.0) a(0.0) license(0.0) from(0.0) the(0.0) State(0.0) Department(0.0) just(0.0) 
+to(0.0) talk(0.0) to(0.0) a(0.0) prospective(0.0) buyer(0.0) of(0.0) a(0.0) product(0.0) .(0.0) When(0.0) a(0.0) foreign(0.0) buyer(0.0) calls(0.0) and(0.0) asks(0.0) for(0.0) basic(0.0) information(0.0) 
+,(0.0) the(0.0) company(0.0) can(0.0) not(0.0) immediately(0.0) answer(0.0) any(0.0) questions(0.0) .(0.0) The(0.0) current(0.0) process(0.0) means(0.0) American(0.0) companies(1.0) have(0.0) to(0.0) wait(0.0) for(0.0) 
+weeks(0.0) or(0.0) months(0.0) to(0.0) call(0.0) back(0.0) potential(0.0) customers(0.0) .(0.0) This(0.0) is(0.0) undermining(1.0) an(0.0) industry(0.0) we(0.0) used(0.0) to(0.0) dominate(0.0) at(0.0) a(0.0) 
+time(0.0) when(0.0) our(0.0) economy(1.0) is(0.0) in(0.0) a(0.0) major(0.0) slump(0.0) .(0.0) As(0.0) the(0.0) COMSAT(1.0) market(0.0) continues(0.0) to(0.0) shrink(0.0) ,(0.0) we(0.0) want(0.0) 
+to(0.0) ensure(0.0) that(0.0) U.S.(0.0) companies(0.0) are(0.0) left(0.0) standing(0.0) .(0.0) This(0.0) amendment(1.0) levels(0.0) the(0.0) playing(0.0) field(0.0) between(0.0) the(0.0) U.S.(0.0) satellite(0.0) industry(0.0) 
+and(0.0) its(0.0) foreign(1.0) competitors(0.0) .(0.0) Under(0.0) exception(0.0) provided(0.0) by(0.0) our(0.0) amendment(1.0) ,(0.0) exporters(1.0) of(0.0) commercial(1.0) communications(0.0) satellites(0.0) would(0.0) be(0.0) allowed(0.0) 
+to(0.0) provide(0.0) marketing(0.0) information(0.0) only(0.0) to(0.0) member(0.0) countries(0.0) of(0.0) the(0.0) North(0.0) Atlantic(0.0) Treaty(0.0) Organization(0.0) ,(0.0) and(0.0) Japan(0.0) ,(0.0) Australia(0.0) and(0.0) 
+New(0.0) Zealand(1.0) .(0.0) It(0.0) would(0.0) not(0.0) affect(0.0) any(0.0) of(0.0) the(0.0) licensing(0.0) requirements(0.0) for(0.0) countries(1.0) like(0.0) China(0.0) and(0.0) would(0.0) keep(0.0) in(0.0) 
+place(0.0) all(0.0) of(0.0) the(0.0) national(1.0) security(0.0) statutes(1.0) put(0.0) in(0.0) place(0.0) by(0.0) Congress(0.0) .(0.0) The(0.0) amendment(1.0) also(0.0) improves(0.0) the(0.0) U.S.(0.0) export(0.0) 
+control(0.0) system(0.0) .(0.0) It(0.0) enables(0.0) the(0.0) State(0.0) Department(0.0) to(0.0) focus(0.0) its(0.0) resources(0.0) on(0.0) the(0.0) transfer(0.0) of(0.0) truly(0.0) sensitive(0.0) data(0.0) and(0.0) 
+allows(0.0) U.S.(0.0) companies(0.0) to(0.0) communicate(0.0) with(0.0) our(0.0) allies(1.0) internationally(0.0) and(0.0) friends(0.0) in(0.0) a(0.0) timely(0.0) and(0.0) cost-effective(0.0) manner(0.0) about(0.0) basic(0.0) marketing(0.0) 
+information(0.0) .(0.0) Our(0.0) national(1.0) security(0.0) is(0.0) closely(0.0) linked(0.0) to(0.0) our(0.0) technological(1.0) leadership(0.0) which(0.0) guarantees(1.0) the(0.0) military(0.0) advantage(0.0) we(0.0) have(0.0) today(0.0) 
+,(0.0) but(0.0) our(0.0) national(1.0) security(0.0) is(0.0) being(0.0) undermined(1.0) by(0.0) a(0.0) sick(0.0) industry(1.0) that(0.0) is(0.0) falling(0.0) behind(0.0) its(0.0) competition(0.0) because(0.0) of(0.0) 
+onerous(1.0) bureaucracies(1.0) that(0.0) are(0.0) doing(0.0) nothing(0.0) to(0.0) protect(0.0) our(0.0) national(1.0) security(0.0) .(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) the(0.0) Tauscher-Bereuter(0.0) 
+amendment(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	amendment	Nebraska	Bereuter	would	provide	
+cumbersome	governs	
+allies	amendment	Senator	Enzi	offered	
+
+
+companies	
+undermining	
+economy	COMSAT	
+amendment	
+foreign	amendment	exporters	commercial	
+
+Zealand	countries	
+national	statutes	amendment	
+
+allies	
+national	technological	guarantees	
+national	undermined	industry	
+onerous	bureaucracies	national	
+amendment	Chairman	
+
+reads % = 0.10427807486631016

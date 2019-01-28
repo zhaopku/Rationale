@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) this(1.0) chart(1.0) is(0.0) in(0.0) order(0.0) under(0.0) the(0.0) House(0.0) rules(1.0) because(0.0) this(0.0) chart(1.0) provides(0.0) and(0.0) has(0.0) provided(0.0) to(0.0) 800,000(0.0) New(0.0) 
+Yorkers(1.0) the(0.0) explanation(0.0) of(0.0) why(0.0) the(0.0) Speaker(0.0) shut(0.0) down(1.0) the(0.0) Government(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+this	chart	rules	chart	
+Yorkers	down	
+
+reads % = 0.18181818181818182

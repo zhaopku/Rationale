@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) reclaiming(1.0) my(0.0) time(0.0) ,(0.0) if(0.0) the(0.0) applicant(0.0) does(0.0) not(0.0) take(0.0) action(0.0) to(0.0) delay(0.0) it(0.0) ,(0.0) the(0.0) term(1.0) is(0.0) extended(0.0) 
+and(0.0) added(0.0) on(0.0) to(0.0) the(0.0) 20-year(1.0) term(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+reclaiming	term	
+20-year	
+
+reads % = 0.10344827586206896

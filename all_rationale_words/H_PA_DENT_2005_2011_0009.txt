@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) pursuant(0.0) to(0.0) House(0.0) Concurrent(0.0) Resolution(0.0) 17(0.0) ,(0.0) 112th(0.0) Congress(0.0) ,(0.0) I(0.0) move(0.0) that(0.0) the(0.0) House(0.0) do(0.0) now(0.0) adjourn(0.0) 
+.(0.0) The(0.0) motion(0.0) was(0.0) agreed(0.0) to(0.0) ;(0.0) accordingly(0.0) ((1.0) at(0.0) 4(0.0) o'clock(0.0) and(0.0) 41(0.0) minutes(0.0) a.m.(0.0) )(0.0) ,(0.0) the(0.0) House(0.0) 
+adjourned(0.0) until(0.0) Monday(0.0) ,(0.0) February(0.0) 28(0.0) ,(0.0) 2011(0.0) ,(0.0) at(0.0) 2(0.0) p.m(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+(	
+
+
+reads % = 0.018518518518518517

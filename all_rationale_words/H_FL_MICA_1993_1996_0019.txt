@@ -1,0 +1,36 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) am(0.0) glad(0.0) the(0.0) gentleman(0.0) mentioned(0.0) one(0.0) case(0.0) .(0.0) I(0.0) would(0.0) like(0.0) to(0.0) mention(0.0) another(0.0) .(0.0) In(0.0) Hastings(1.0) ,(0.0) 
+NE(1.0) ,(0.0) that(0.0) community(0.0) began(0.0) a(0.0) review(0.0) of(0.0) its(0.0) environmental(1.0) costs(1.0) and(0.0) concluded(0.0) that(0.0) the(0.0) single(0.0) biggest(0.0) drain(1.0) on(0.0) the(0.0) 
+Treasury(1.0) was(0.0) the(0.0) $(0.0) 65(0.0) million(0.0) it(0.0) would(0.0) take(0.0) to(0.0) build(0.0) a(0.0) treatment(0.0) plant(0.0) to(0.0) meet(0.0) a(0.0) proposed(0.0) EPA(1.0) rule(1.0) 
+for(0.0) removing(0.0) radon(1.0) from(0.0) the(0.0) city(1.0) 's(0.0) water(0.0) .(0.0) Now(0.0) ,(0.0) radon(1.0) is(0.0) a(0.0) radioactive(0.0) gas(1.0) that(0.0) occurs(0.0) naturally(0.0) .(0.0) 
+Before(0.0) the(0.0) EPA(1.0) proposal(1.0) ,(0.0) almost(0.0) no(0.0) public(0.0) health(1.0) specialist(0.0) had(0.0) considered(0.0) radon(0.0) in(0.0) drinking(1.0) water(1.0) to(0.0) be(0.0) any(0.0) sort(0.0) 
+of(0.0) a(0.0) threat(0.0) .(0.0) Independent(0.0) radiation(0.0) health(1.0) experts(0.0) said(0.0) that(0.0) in(0.0) virtually(1.0) every(0.0) area(0.0) of(0.0) the(0.0) United(0.0) States(0.0) ,(0.0) the(0.0) 
+amount(0.0) of(0.0) radon(1.0) that(0.0) evaporates(0.0) from(0.0) water(0.0) is(0.0) only(0.0) one-thirtieth(1.0) to(0.0) one-one(0.0) hundredth(0.0) of(0.0) what(0.0) is(0.0) really(0.0) naturally(0.0) in(0.0) the(0.0) 
+air(0.0) .(0.0) So(0.0) here(0.0) is(0.0) another(0.0) example(0.0) of(0.0) a(0.0) small(0.0) community(0.0) that(0.0) had(0.0) imposed(1.0) on(0.0) it(0.0) a(0.0) burden(1.0) from(0.0) EPA(1.0) 
+that(0.0) made(0.0) no(0.0) sense(0.0) .(0.0) This(0.0) is(0.0) what(0.0) we(0.0) are(0.0) talking(0.0) about(0.0) .(0.0) This(0.0) is(0.0) not(0.0) some(0.0) fancy(0.0) lobbyist(1.0) coming(0.0) 
+in(0.0) here(0.0) asking(0.0) for(0.0) changes(0.0) .(0.0) These(0.0) are(0.0) our(0.0) cities(1.0) ,(0.0) our(0.0) counties(1.0) ,(0.0) our(0.0) States(0.0) ,(0.0) our(0.0) legislatures(1.0) asking(0.0) 
+us(0.0) to(0.0) look(0.0) at(0.0) what(0.0) we(0.0) are(0.0) doing(0.0) .(0.0) Again(0.0) ,(0.0) even(0.0) Carol(0.0) Browner(1.0) said(1.0) before(0.0) she(0.0) got(0.0) into(0.0) the(0.0) 
+empire(0.0) and(0.0) bureaucracy-building(0.0) business(0.0) in(0.0) Washington(1.0) that(0.0) what(0.0) the(0.0) Federal(1.0) Government(1.0) was(0.0) doing(0.0) to(0.0) her(0.0) as(0.0) a(0.0) State(0.0) director(0.0) of(0.0) 
+the(0.0) EPA(1.0) in(0.0) Florida(1.0) made(0.0) no(0.0) sense(0.0) .(0.0) That(0.0) is(0.0) what(0.0) this(0.0) argument(1.0) is(0.0) about(0.0) .(0.0) The(0.0) rest(0.0) is(0.0) just(0.0) 
+not(0.0) the(0.0) truth(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Hastings	
+NE	environmental	costs	drain	
+Treasury	EPA	rule	
+radon	city	radon	gas	
+EPA	proposal	health	drinking	water	
+health	virtually	
+radon	one-thirtieth	
+imposed	burden	EPA	
+lobbyist	
+cities	counties	legislatures	
+Browner	said	
+Washington	Federal	Government	
+EPA	Florida	argument	
+
+
+reads % = 0.13584905660377358

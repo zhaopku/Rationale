@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) ask(0.0) unanimous(1.0) consent(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) my(0.0) remarks(0.0) in(0.0) strong(0.0) opposition(1.0) to(0.0) the(0.0) farm(0.0) bill(0.0) rule(1.0) and(0.0) 
+underlying(0.0) bill(1.0) because(1.0) it(0.0) takes(0.0) food(1.0) and(0.0) nutrition(1.0) from(0.0) working(0.0) families(0.0) and(0.0) veterans(1.0) and(0.0) seniors(1.0) and(0.0) children(0.0) and(0.0) the(0.0) disabled(1.0) 
+and(0.0) many(0.0) others(0.0) in(0.0) need(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+unanimous	opposition	rule	
+bill	because	food	nutrition	veterans	seniors	disabled	
+
+
+reads % = 0.2127659574468085

@@ -1,0 +1,44 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) support(0.0) this(0.0) bill(1.0) to(1.0) reauthorize(1.0) 
+the(0.0) programs(1.0) under(0.0) the(0.0) Energy(0.0) Policy(0.0) and(0.0) Conservation(0.0) Act(0.0) .(0.0) The(0.0) conservation(1.0) and(0.0) efficiency(1.0) programs(1.0) of(0.0) EPCA(1.0) help(0.0) us(0.0) to(0.0) 
+use(0.0) less(0.0) energy(1.0) ,(0.0) which(0.0) results(0.0) in(0.0) decreased(1.0) dependence(1.0) on(0.0) imported(0.0) energy(1.0) sources(0.0) .(0.0) Without(0.0) this(0.0) reauthorization(1.0) ,(0.0) these(0.0) programs(1.0) 
+will(0.0) expire(1.0) this(0.0) year(0.0) .(0.0) EPCA(1.0) contains(0.0) a(0.0) number(0.0) of(0.0) programs(1.0) which(0.0) play(0.0) an(0.0) important(0.0) role(0.0) in(0.0) assuring(1.0) U.S.(0.0) energy(0.0) 
+security(0.0) and(0.0) helping(0.0) to(0.0) reduce(1.0) U.S.(0.0) vulnerability(0.0) to(0.0) potential(0.0) shut-offs(1.0) of(0.0) our(0.0) imported(0.0) oil(0.0) supply(1.0) .(0.0) First(0.0) ,(0.0) the(0.0) Strategic(0.0) 
+Petroleum(0.0) Reserve(0.0) Program(0.0) is(0.0) vital(0.0) in(0.0) protecting(1.0) us(0.0) from(0.0) world(0.0) petroleum(1.0) supply(1.0) shortages(1.0) .(0.0) In(0.0) addition(0.0) ,(0.0) our(0.0) participation(1.0) in(0.0) 
+the(0.0) international(0.0) energy(0.0) program(1.0) provides(0.0) us(0.0) with(0.0) important(0.0) foreign(1.0) cooperation(0.0) when(0.0) oil(1.0) supplies(1.0) are(0.0) short(0.0) .(0.0) Second(0.0) ,(0.0) EPCA(1.0) programs(1.0) 
+provide(0.0) money(0.0) to(0.0) states(1.0) to(0.0) assist(0.0) in(0.0) funding(1.0) energy(1.0) efficiency(1.0) and(0.0) conservation(1.0) programs(1.0) at(0.0) schools(1.0) and(0.0) hospitals(1.0) .(0.0) It(0.0) also(0.0) 
+funds(1.0) State(0.0) energy(0.0) conservation(1.0) programs(1.0) which(0.0) promote(0.0) energy(1.0) efficiency(1.0) ,(0.0) the(0.0) adoption(1.0) of(0.0) renewable(1.0) energy(1.0) measures(1.0) ,(0.0) and(0.0) increased(1.0) use(0.0) 
+of(0.0) alternative(1.0) fuels(1.0) .(0.0) Third(0.0) ,(0.0) this(0.0) bill(1.0) reauthorizes(1.0) the(0.0) councils(1.0) on(0.0) Renewable(1.0) Energy(1.0) Commerce(1.0) and(0.0) Trade(0.0) and(0.0) Energy(0.0) Efficiency(1.0) 
+Commerce(0.0) and(0.0) Trade(0.0) .(0.0) These(0.0) programs(1.0) provide(0.0) domestic(0.0) energy(1.0) efficiency(1.0) and(0.0) renewable(1.0) energy(1.0) industries(1.0) with(0.0) marketing(0.0) information(0.0) and(0.0) financing(1.0) opportunities(0.0) 
+overseas(0.0) ;(0.0) increasing(1.0) their(0.0) ability(0.0) to(0.0) expand(1.0) exports(1.0) of(0.0) these(0.0) types(0.0) of(0.0) technologies(0.0) to(0.0) foreign(1.0) countries(0.0) .(0.0) Finally(0.0) ,(0.0) Mr.(0.0) 
+Speaker(1.0) ,(0.0) we(0.0) support(0.0) the(0.0) measures(1.0) contained(0.0) in(0.0) the(0.0) chairman(0.0) 's(0.0) amendment(1.0) to(0.0) EPCA(1.0) .(0.0) These(0.0) amendments(1.0) would(0.0) reauthorize(0.0) the(0.0) 
+Renewable(1.0) Energy(1.0) and(0.0) Efficiency(1.0) Technology(0.0) Competitiveness(1.0) Act(0.0) of(0.0) 1989(0.0) for(0.0) another(0.0) 3(0.0) years(0.0) ,(0.0) make(0.0) a(0.0) technical(0.0) change(0.0) to(0.0) the(0.0) 
+Elwah(0.0) River(0.0) Ecosystem(1.0) and(0.0) Fish(0.0) Restoration(0.0) Act(0.0) ,(0.0) and(0.0) maintain(0.0) ,(0.0) for(0.0) another(0.0) 2(0.0) years(0.0) ,(0.0) the(0.0) existing(0.0) exemption(1.0) from(0.0) 
+the(0.0) size(0.0) limitation(1.0) on(0.0) renewable(1.0) powerplants(1.0) to(0.0) qualify(0.0) under(0.0) the(0.0) Public(0.0) Utility(0.0) Regulatory(0.0) Policies(0.0) Act(0.0) .(0.0) Again(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) 
+,(0.0) I(0.0) think(0.0) each(0.0) of(0.0) the(0.0) programs(1.0) which(0.0) we(0.0) reauthorize(1.0) today(0.0) make(0.0) important(0.0) contributions(1.0) in(0.0) guaranteeing(1.0) our(0.0) energy(1.0) security(1.0) and(0.0) 
+I(0.0) urge(0.0) my(0.0) fellow(0.0) Members(0.0) to(0.0) support(0.0) this(0.0) bill(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	bill	to	reauthorize	
+programs	conservation	efficiency	programs	EPCA	
+energy	decreased	dependence	energy	reauthorization	programs	
+expire	EPCA	programs	assuring	
+reduce	shut-offs	supply	
+protecting	petroleum	supply	shortages	participation	
+program	foreign	oil	supplies	EPCA	programs	
+states	funding	energy	efficiency	conservation	programs	schools	hospitals	
+funds	conservation	programs	energy	efficiency	adoption	renewable	energy	measures	increased	
+alternative	fuels	bill	reauthorizes	councils	Renewable	Energy	Commerce	Efficiency	
+programs	energy	efficiency	renewable	energy	industries	financing	
+increasing	expand	exports	foreign	
+Speaker	measures	amendment	EPCA	amendments	
+Renewable	Energy	Efficiency	Competitiveness	
+Ecosystem	exemption	
+limitation	renewable	powerplants	Speaker	
+programs	reauthorize	contributions	guaranteeing	energy	security	
+bill	
+
+reads % = 0.26495726495726496

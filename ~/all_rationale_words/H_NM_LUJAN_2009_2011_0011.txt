@@ -1,0 +1,20 @@
+This is from a Democrat
+----- below is the original text -----
+The(0.0) CHAIR(0.0) .(0.0) The(0.0) Clerk(1.0) will(0.0) report(1.0) the(0.0) amendment(1.0) .(0.0) The(0.0) Clerk(0.0) read(1.0) as(0.0) follows(1.0) :(0.0) At(0.0) the(0.0) end(0.0) of(0.0) the(0.0) 
+bill(0.0) ((0.0) before(1.0) the(0.0) short(0.0) title(0.0) )(0.0) ,(0.0) insert(0.0) the(0.0) following(0.0) :(1.0) Sec(0.0) .(0.0) __(1.0) .(0.0) None(0.0) of(0.0) the(0.0) fund(1.0) 
+made(0.0) available(1.0) by(0.0) this(0.0) Act(0.0) may(0.0) be(0.0) used(0.0) by(0.0) the(0.0) Under(1.0) Secretary(1.0) of(0.0) Agriculture(0.0) for(0.0) Marketing(0.0) and(0.0) Regulatory(0.0) Programs(0.0) to(0.0) 
+provide(0.0) any(1.0) marketing(1.0) funds(0.0) to(0.0) any(1.0) entity(0.0) that(0.0) advertises(1.0) ,(0.0) describes(1.0) ,(0.0) labels(1.0) ,(0.0) or(1.0) offers(1.0) for(0.0) sale(1.0) chile(1.0) peppers(1.0) 
+((0.0) also(1.0) known(0.0) as(0.0) capsicum(1.0) annum(0.0) )(0.0) as(0.0) New(0.0) Mexico(1.0) chile(1.0) unless(0.0) such(0.0) chile(1.0) peppers(1.0) were(0.0) grown(0.0) in(0.0) New(0.0) Mexico(1.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+Clerk	report	amendment	read	follows	
+before	:	__	fund	
+available	Under	Secretary	
+any	marketing	any	advertises	describes	labels	or	offers	sale	chile	peppers	
+also	capsicum	Mexico	chile	chile	peppers	Mexico	
+
+
+reads % = 0.29411764705882354

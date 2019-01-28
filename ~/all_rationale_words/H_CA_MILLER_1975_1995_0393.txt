@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) how(1.0) many(0.0) more(0.0) times(0.0) do(0.0) the(0.0) Members(0.0) of(0.0) this(0.0) House(0.0) and(0.0) the(0.0) public(0.0) have(0.0) to(0.0) pick(1.0) up(0.0) the(0.0) newspaper(1.0) 
+and(0.0) see(0.0) a(0.0) new(0.0) ethical(0.0) transgression(1.0) by(0.0) the(1.0) Speaker(0.0) of(0.0) the(0.0) House(0.0) ,(0.0) Newt(1.0) Gingrich(1.0) ?(1.0) Once(1.0) again(0.0) ,(0.0) we(0.0) 
+are(0.0) treated(0.0) in(0.0) the(0.0) Wall(1.0) Street(1.0) Journal(0.0) to(0.0) Newt(1.0) Gingrich(1.0) mixing(1.0) campaign(1.0) contributions(1.0) ,(0.0) private(0.0) interests(1.0) ,(0.0) and(0.0) public(0.0) service(0.0) 
+.(0.0) We(0.0) now(0.0) see(0.0) that(0.0) Mr.(0.0) Donald(1.0) Jones(0.0) served(1.0) as(0.0) an(0.0) adviser(1.0) to(0.0) Mr.(0.0) Gingrich(1.0) 2(0.0) or(1.0) 3(0.0) hours(0.0) a(0.0) 
+day(0.0) to(0.0) interpret(0.0) the(0.0) telecommunications(1.0) bill(0.0) to(0.0) him(0.0) while(0.0) he(0.0) gave(0.0) Mr.(0.0) Gingrich(1.0) ,(0.0) his(0.0) PAC(1.0) gave(0.0) the(0.0) Republican(1.0) Party(1.0) 
+$(0.0) 125,000(1.0) ,(0.0) $(0.0) 25,000(1.0) to(0.0) the(0.0) Gingrich(1.0) PAC(1.0) .(1.0) It(0.0) turns(0.0) out(0.0) that(0.0) ,(0.0) not(1.0) only(0.0) did(0.0) Mr.(0.0) Jones(1.0) 
+have(0.0) a(0.0) financial(0.0) interest(0.0) in(0.0) the(0.0) outcome(1.0) of(0.0) the(0.0) telecommunications(1.0) bill(0.0) ,(0.0) he(0.0) was(0.0) sitting(0.0) in(0.0) the(0.0) Speaker(1.0) 's(0.0) office(0.0) 
+,(0.0) but(0.0) also(1.0) when(0.0) many(0.0) of(0.0) us(0.0) were(0.0) startled(0.0) when(0.0) the(0.0) Speaker(0.0) took(0.0) a(0.0) position(0.0) against(0.0) the(0.0) cyberporn(1.0) portions(1.0) of(0.0) 
+the(0.0) telecommunications(1.0) bill(0.0) to(0.0) protect(0.0) children(0.0) from(0.0) pornography(1.0) .(0.0) We(0.0) now(0.0) find(1.0) out(0.0) that(0.0) Mr.(0.0) Jones(1.0) had(0.0) a(0.0) financial(0.0) interest(0.0) 
+in(0.0) the(0.0) telecommunications(1.0) company(0.0) that(0.0) was(0.0) dealing(0.0) with(0.0) pornography(1.0) and(0.0) adult(0.0) films(0.0) .(0.0) Mr.(0.0) Jones(1.0) said(1.0) he(0.0) did(0.0) not(1.0) know(0.0) 
+.(0.0) Forty(1.0) percent(1.0) of(0.0) his(0.0) income(1.0) from(0.0) that(0.0) company(1.0) came(0.0) from(0.0) pornography(1.0) .(0.0) Mr.(1.0) Speaker(1.0) ,(0.0) clean(1.0) up(0.0) your(0.0) office(1.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+how	pick	newspaper	
+transgression	the	Newt	Gingrich	?	Once	
+Wall	Street	Newt	Gingrich	mixing	campaign	contributions	interests	
+Donald	served	adviser	Gingrich	or	
+telecommunications	Gingrich	PAC	Republican	Party	
+125,000	25,000	Gingrich	PAC	.	not	Jones	
+outcome	telecommunications	Speaker	
+also	cyberporn	portions	
+telecommunications	pornography	find	Jones	
+telecommunications	pornography	Jones	said	not	
+Forty	percent	income	company	pornography	Mr.	Speaker	clean	office	
+
+
+reads % = 0.26126126126126126

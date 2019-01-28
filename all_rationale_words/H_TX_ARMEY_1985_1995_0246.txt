@@ -1,0 +1,38 @@
+This is from a Republican
+----- below is the original text -----
+at(0.0) 12:30(0.0) p.m.(0.0) ,(0.0) for(0.0) morning(0.0) hour(0.0) and(0.0) 2(0.0) p.m.(0.0) for(0.0) legislative(0.0) business(0.0) .(0.0) We(0.0) plan(1.0) to(0.0) take(0.0) up(0.0) the(0.0) following(0.0) 
+bills(0.0) under(0.0) suspension(0.0) of(0.0) the(0.0) rules(0.0) :(0.0) H.R(0.0) .(0.0) 1345(0.0) ,(0.0) the(0.0) District(0.0) of(0.0) Columbia(0.0) Financial(0.0) Responsibility(0.0) and(0.0) Management(0.0) Assistance(0.0) 
+Act(0.0) of(0.0) 1995(0.0) ;(0.0) and(0.0) very(0.0) importantly(0.0) ;(0.0) H.R(0.0) .(0.0) 716(0.0) ,(0.0) the(0.0) Fisherman(0.0) 's(0.0) Protective(0.0) Act(0.0) amendments(0.0) ;(0.0) H.(0.0) 
+Res(1.0) .(0.0) 120(0.0) ,(0.0) the(0.0) resolution(1.0) expressing(0.0) the(0.0) sense(0.0) of(0.0) congress(0.0) regarding(0.0) the(0.0) American(0.0) citizens(1.0) held(0.0) in(0.0) Iraq(1.0) ;(0.0) and(0.0) 
+H.R(0.0) .(0.0) 1271(0.0) ,(0.0) the(0.0) Family(0.0) Privacy(0.0) Protection(0.0) Act(0.0) .(0.0) Also(0.0) ,(0.0) depending(0.0) on(0.0) the(0.0) Senate(0.0) 's(0.0) progress(0.0) ,(0.0) we(0.0) 
+may(0.0) consider(0.0) a(0.0) motion(0.0) to(0.0) go(0.0) to(0.0) conference(0.0) on(0.0) the(0.0) FEMA(1.0) emergency(1.0) supplemental(0.0) appropriations(0.0) legislation(0.0) .(0.0) Members(0.0) should(0.0) be(0.0) advised(0.0) 
+that(0.0) there(0.0) will(0.0) be(0.0) no(0.0) recorded(0.0) votes(0.0) taken(0.0) before(0.0) 5(0.0) p.m.(0.0) on(0.0) Monday(0.0) .(0.0) For(0.0) Tuesday(0.0) and(0.0) the(0.0) balance(0.0) of(0.0) 
+the(0.0) week(0.0) the(0.0) House(0.0) will(0.0) consider(0.0) H.R(0.0) .(0.0) 660(0.0) ,(0.0) the(0.0) Housing(1.0) for(0.0) Older(0.0) Persons(0.0) Act(0.0) of(0.0) 1995(0.0) subject(0.0) to(0.0) 
+a(0.0) rule(0.0) ;(0.0) H.R(0.0) .(0.0) 1240(0.0) ,(0.0) the(0.0) Sexual(1.0) Crimes(0.0) Against(0.0) Children(0.0) Prevention(0.0) Act(0.0) of(0.0) 1995(0.0) ,(0.0) subject(0.0) to(0.0) a(0.0) 
+rule(0.0) ;(0.0) and(0.0) H.R(0.0) .(0.0) 1215(0.0) ,(0.0) the(0.0) Tax(1.0) Fairness(1.0) and(0.0) Deficit(0.0) Reduction(1.0) Act(1.0) ,(0.0) subject(0.0) to(0.0) a(0.0) rule(0.0) .(0.0) 
+We(0.0) will(0.0) also(0.0) take(0.0) up(0.0) any(0.0) conference(0.0) reports(0.0) that(0.0) might(0.0) become(0.0) available(0.0) next(0.0) week(0.0) .(0.0) Meeting(0.0) times(0.0) for(0.0) the(0.0) House(0.0) 
+will(0.0) be(0.0) 9:30(0.0) a.m.(0.0) ,(0.0) for(0.0) morning(0.0) hour(0.0) and(0.0) 11(0.0) a.m.(0.0) ,(0.0) for(0.0) legislative(0.0) business(0.0) on(0.0) Tuesday(0.0) ;(0.0) 11(0.0) a.m.(0.0) 
+on(0.0) Wednesday(0.0) ;(0.0) and(0.0) 10(0.0) a.m.(0.0) on(0.0) Thursday(0.0) and(0.0) Friday(0.0) .(0.0) Members(0.0) should(0.0) be(0.0) advised(0.0) that(0.0) there(0.0) will(0.0) be(0.0) votes(0.0) 
+on(0.0) Friday(0.0) and(0.0) it(0.0) is(0.0) our(0.0) hope(0.0) to(0.0) have(0.0) Members(0.0) on(0.0) their(0.0) way(0.0) home(0.0) to(0.0) their(0.0) districts(1.0) for(0.0) the(0.0) April(0.0) 
+district(0.0) work(0.0) period(0.0) by(0.0) 3(0.0) p.m.(0.0) on(0.0) Friday(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+plan	
+
+
+Res	resolution	citizens	Iraq	
+
+FEMA	emergency	
+
+Housing	
+Sexual	
+Tax	Fairness	Reduction	Act	
+
+
+
+districts	
+
+
+reads % = 0.04827586206896552

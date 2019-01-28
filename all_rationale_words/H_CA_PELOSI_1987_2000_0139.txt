@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) in(0.0) thanksgiving(1.0) for(0.0) the(0.0) beautiful(0.0) testimony(0.0) of(0.0) our(0.0) previous(0.0) speaker(0.0) 
+,(0.0) the(0.0) gentleman(0.0) from(0.0) Alabama(1.0) ((0.0) Mr.(0.0) Bachus(1.0) )(0.0) ,(0.0) and(0.0) thank(0.0) him(0.0) for(0.0) that(0.0) statement(0.0) and(0.0) for(0.0) his(0.0) incredible(0.0) 
+leadership(0.0) on(0.0) this(0.0) issue(0.0) of(0.0) international(0.0) debt(0.0) forgiveness(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) yield(0.0) 2\1/2\(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) 
+Illinois(1.0) ((0.0) Mr.(0.0) Jackson(1.0) )(0.0) ,(0.0) a(0.0) member(0.0) of(0.0) the(0.0) subcommittee(0.0) and(0.0) an(0.0) active(0.0) champion(0.0) for(0.0) debt(0.0) relief(0.0) .(0.0) ((0.0) 
+Mr.(0.0) JACKSON(1.0) of(0.0) Illinois(0.0) asked(0.0) and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) )(0.0) 
+
+
+----- below are rationale words -----
+
+thanksgiving	
+Alabama	Bachus	
+Chairman	
+Illinois	Jackson	
+JACKSON	
+
+reads % = 0.07142857142857142

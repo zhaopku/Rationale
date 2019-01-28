@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) ask(0.0) unanimous(1.0) consent(0.0) that(0.0) all(0.0) Members(0.0) may(0.0) have(0.0) 5(0.0) legislative(0.0) days(0.0) within(0.0) which(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) their(0.0) 
+remarks(0.0) and(0.0) include(0.0) extraneous(0.0) material(0.0) on(0.0) H.(0.0) Con(0.0) .(0.0) Res(0.0) .(0.0) 25(0.0) ,(0.0) currently(0.0) under(0.0) consideration(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+unanimous	
+
+
+reads % = 0.02631578947368421

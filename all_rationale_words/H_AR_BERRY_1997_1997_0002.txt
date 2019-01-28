@@ -1,0 +1,34 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) reluctant(0.0) opposition(1.0) to(0.0) this(0.0) budget(1.0) package(0.0) .(0.0) I(0.0) am(0.0) a(0.0) strong(0.0) believer(0.0) in(0.0) the(0.0) need(0.0) 
+to(0.0) balance(0.0) the(0.0) Federal(1.0) budget(1.0) .(0.0) I(0.0) cosponsored(1.0) legislation(1.0) that(0.0) would(0.0) require(1.0) a(0.0) constitutional(1.0) amendment(1.0) to(0.0) balance(0.0) the(0.0) budget(1.0) .(0.0) 
+Three(0.0) weeks(0.0) ago(0.0) I(0.0) supported(0.0) the(0.0) spending(1.0) goals(0.0) laid(0.0) out(0.0) in(0.0) the(0.0) budget(1.0) resolution(1.0) .(0.0) Today(0.0) ,(0.0) however(0.0) ,(0.0) I(0.0) 
+can(0.0) not(0.0) support(0.0) the(0.0) policies(1.0) that(0.0) have(0.0) been(0.0) crafted(0.0) to(0.0) stand(0.0) behind(0.0) those(0.0) numbers(0.0) .(0.0) One(0.0) of(0.0) the(0.0) most(0.0) troubling(1.0) 
+policies(1.0) contained(0.0) in(0.0) this(0.0) budget(1.0) is(0.0) the(0.0) children(0.0) 's(0.0) health(1.0) reform(1.0) package(0.0) .(0.0) Fiscally(1.0) irresponsible(1.0) ,(0.0) $(0.0) 16(0.0) billion(1.0) ,(0.0) 
+no(1.0) strings(0.0) attached(0.0) ,(0.0) giveaway(0.0) of(0.0) the(0.0) taxpayers(1.0) '(0.0) dollars(0.0) .(0.0) I(0.0) am(0.0) a(0.0) strong(0.0) supporter(0.0) of(0.0) ensuring(0.0) that(0.0) every(0.0) 
+child(0.0) in(0.0) America(1.0) has(0.0) access(0.0) to(0.0) affordable(1.0) health(1.0) care(1.0) .(0.0) However(0.0) ,(0.0) this(0.0) proposal(1.0) does(1.0) nothing(0.0) to(0.0) ensure(0.0) that(0.0) the(0.0) 
+$(0.0) 16(0.0) billion(1.0) will(0.0) go(0.0) to(0.0) those(0.0) who(0.0) need(0.0) it(0.0) most(0.0) ,(0.0) the(0.0) children(0.0) .(0.0) In(0.0) fact(0.0) ,(0.0) the(0.0) Congressional(1.0) 
+Budget(1.0) Office(0.0) estimates(0.0) that(0.0) the(0.0) $(0.0) 16(0.0) billion(1.0) we(0.0) are(0.0) spending(1.0) will(0.0) cover(0.0) only(0.0) 520,000(0.0) children(0.0) .(0.0) Let(0.0) us(0.0) do(0.0) 
+the(0.0) math(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) 520,000(0.0) children(0.0) ,(0.0) $(0.0) 16(0.0) billion(1.0) ,(0.0) $(0.0) 31,000(0.0) per(0.0) child(1.0) ,(0.0) $(0.0) 6,000(0.0) 
+per(0.0) child(1.0) per(0.0) year(0.0) .(0.0) Surely(0.0) our(0.0) hardworking(1.0) taxpayers(1.0) deserve(0.0) a(0.0) more(0.0) cost-effective(1.0) approach(0.0) than(0.0) this(0.0) .(0.0) Our(0.0) approach(0.0) allows(0.0) 
+States(0.0) to(0.0) expand(0.0) the(0.0) Medicaid(1.0) Program(0.0) ,(0.0) outreach(1.0) to(0.0) the(0.0) children(0.0) ,(0.0) and(0.0) do(0.0) a(0.0) better(0.0) job(0.0) with(0.0) the(0.0) $(0.0) 
+16(0.0) billion(1.0) .(0.0) Our(0.0) plan(1.0) is(0.0) more(0.0) prudent(1.0) .(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) this(0.0) alternative(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+opposition	budget	
+Federal	budget	cosponsored	legislation	require	constitutional	amendment	budget	
+spending	budget	resolution	
+policies	troubling	
+policies	budget	health	reform	Fiscally	irresponsible	billion	
+no	taxpayers	
+America	affordable	health	care	proposal	does	
+billion	Congressional	
+Budget	billion	spending	
+math	Speaker	billion	child	
+child	hardworking	taxpayers	cost-effective	
+Medicaid	outreach	
+billion	plan	prudent	alternative	
+
+reads % = 0.1891891891891892

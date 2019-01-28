@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) make(0.0) a(0.0) point(0.0) of(0.0) order(0.0) that(0.0) the(0.0) resolution(1.0) does(0.0) not(0.0) constitute(1.0) a(0.0) question(0.0) of(0.0) privilege(1.0) under(0.0) rule(1.0) IX(0.0) 
+of(0.0) the(0.0) rules(0.0) of(0.0) the(0.0) House(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) would(0.0) like(0.0) to(0.0) speak(0.0) specifically(0.0) to(0.0) the(0.0) parliamentary(1.0) issue(0.0) 
+before(0.0) the(0.0) House(0.0) ,(0.0) whether(0.0) the(0.0) resolution(1.0) offered(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) Ohio(1.0) constitutes(0.0) a(0.0) question(0.0) of(0.0) privilege(1.0) .(0.0) The(0.0) 
+starting(0.0) point(0.0) for(0.0) this(0.0) inquiry(0.0) is(0.0) the(0.0) rules(1.0) of(0.0) this(0.0) institution(1.0) ,(0.0) and(0.0) in(0.0) particular(0.0) rule(1.0) IX(0.0) which(0.0) governs(0.0) questions(0.0) 
+of(0.0) privilege(1.0) .(0.0) Rule(0.0) IX(1.0) states(0.0) that(0.0) in(0.0) order(0.0) for(0.0) a(0.0) resolution(0.0) to(0.0) constitute(0.0) a(0.0) question(0.0) of(0.0) privilege(1.0) of(0.0) the(0.0) 
+House(0.0) ,(0.0) it(0.0) must(0.0) deal(0.0) with(0.0) matters(0.0) ``(0.0) affecting(0.0) the(0.0) rights(1.0) of(0.0) the(1.0) House(0.0) collectively(0.0) ,(0.0) its(0.0) safety(0.0) ,(0.0) dignity(1.0) 
+and(0.0) the(0.0) integrity(1.0) of(0.0) its(0.0) proceedings(0.0) ''(0.0) or(0.0) ``(0.0) affecting(0.0) the(0.0) rights(1.0) ,(0.0) reputation(0.0) and(0.0) conduct(0.0) of(0.0) the(0.0) Members(0.0) ,(0.0) 
+Delegate(1.0) or(0.0) the(0.0) Resident(0.0) Commissioner(0.0) ,(0.0) individually(0.0) ,(0.0) in(0.0) their(0.0) representative(0.0) capacity(0.0) only(0.0) .(0.0) ''(0.0) An(0.0) important(0.0) clarification(0.0) of(0.0) this(0.0) 
+rule(1.0) is(0.0) set(0.0) forth(0.0) in(0.0) section(0.0) 702(0.0) of(0.0) the(0.0) House(0.0) Rules(0.0) and(0.0) Manual(0.0) .(0.0) That(0.0) section(0.0) states(0.0) that(0.0) ,(0.0) under(0.0) 
+applicable(0.0) House(0.0) precedents(1.0) ,(0.0) ``(0.0) rule(0.0) IX(0.0) is(0.0) concerned(0.0) not(0.0) with(0.0) the(0.0) privileges(0.0) of(0.0) the(0.0) Congress(0.0) ,(0.0) as(0.0) a(0.0) legislative(0.0) 
+branch(0.0) ,(0.0) but(0.0) only(0.0) with(0.0) the(0.0) privileges(0.0) of(0.0) the(0.0) House(0.0) ,(0.0) as(0.0) a(0.0) House(0.0) .(0.0) ''(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) in(0.0) 
+this(0.0) connection(0.0) I(0.0) think(0.0) it(0.0) is(0.0) important(0.0) to(0.0) emphasize(0.0) the(0.0) gentleman(0.0) 's(0.0) resolution(1.0) relates(0.0) to(0.0) the(0.0) termination(1.0) of(0.0) a(0.0) treaty(1.0) 
+.(0.0) As(0.0) we(0.0) all(0.0) know(0.0) ,(0.0) the(0.0) Constitution(1.0) gives(0.0) the(0.0) House(0.0) of(0.0) Representatives(0.0) no(1.0) role(0.0) in(0.0) the(0.0) approval(0.0) of(0.0) treaties(0.0) 
+.(0.0) Under(0.0) article(0.0) 2(0.0) ,(0.0) section(0.0) 2(0.0) ,(0.0) clause(0.0) 2(0.0) of(0.0) the(0.0) Constitution(0.0) ,(0.0) the(0.0) Senate(0.0) alone(0.0) has(0.0) the(0.0) prerogative(0.0) 
+to(0.0) review(0.0) treaties(0.0) and(0.0) approve(0.0) their(0.0) ratification(1.0) by(0.0) the(0.0) President(1.0) .(0.0) Until(0.0) the(0.0) Senate(0.0) grants(1.0) its(0.0) approval(0.0) ,(0.0) a(0.0) treaty(1.0) 
+may(0.0) not(0.0) be(0.0) ratified(0.0) and(0.0) enter(0.0) into(0.0) force(0.0) .(0.0) In(0.0) the(0.0) case(0.0) of(0.0) the(0.0) antiballistic(1.0) missile(0.0) ,(0.0) or(0.0) ABM(0.0) ,(0.0) 
+treaty(1.0) ,(0.0) which(0.0) is(0.0) the(0.0) subject(0.0) of(0.0) this(0.0) resolution(1.0) ,(0.0) the(0.0) Senate(0.0) approved(0.0) ratification(0.0) of(0.0) the(0.0) treaty(0.0) on(0.0) August(0.0) 3(0.0) 
+,(0.0) 1972(0.0) ,(0.0) and(0.0) President(0.0) Nixon(1.0) ratified(0.0) it(0.0) 2(0.0) months(0.0) later(0.0) .(0.0) Once(0.0) this(0.0) happened(0.0) ,(0.0) the(0.0) ABM(1.0) treaty(1.0) became(0.0) 
+the(0.0) supreme(1.0) law(0.0) of(0.0) the(0.0) land(0.0) pursuant(0.0) to(0.0) article(0.0) 6(0.0) ,(0.0) clause(0.0) 2(0.0) of(0.0) the(0.0) Constitution(0.0) .(0.0) All(0.0) of(0.0) this(0.0) 
+happened(0.0) without(0.0) any(0.0) involvement(0.0) by(0.0) the(0.0) House(0.0) of(0.0) Representatives(0.0) ,(0.0) which(0.0) is(0.0) as(0.0) it(0.0) should(0.0) be(0.0) under(0.0) the(0.0) Constitution(1.0) .(0.0) 
+In(0.0) addition(0.0) ,(0.0) the(0.0) treaty(1.0) itself(0.0) under(0.0) article(0.0) 15(0.0) states(1.0) that(0.0) ``(0.0) each(0.0) party(0.0) shall(0.0) ,(0.0) in(0.0) exercising(1.0) its(0.0) national(1.0) 
+sovereignty(1.0) ,(0.0) have(0.0) the(0.0) right(0.0) to(0.0) withdraw(0.0) from(0.0) this(0.0) treaty(1.0) .(0.0) ''(0.0) The(0.0) sponsor(0.0) of(0.0) this(0.0) resolution(1.0) argues(1.0) that(0.0) even(0.0) 
+though(0.0) the(0.0) House(0.0) of(0.0) Representatives(0.0) had(0.0) no(0.0) role(0.0) in(0.0) bringing(0.0) the(0.0) ABM(0.0) treaty(0.0) into(0.0) force(0.0) ,(0.0) we(0.0) somehow(0.0) have(0.0) an(0.0) 
+indispensable(0.0) constitutional(1.0) role(0.0) in(0.0) deciding(1.0) whether(0.0) to(0.0) approve(1.0) the(0.0) termination(1.0) of(0.0) the(0.0) treaty(1.0) .(0.0) I(0.0) could(0.0) understand(0.0) someone(0.0) in(0.0) the(0.0) 
+Senate(1.0) making(0.0) such(0.0) an(0.0) argument(1.0) about(0.0) the(0.0) prerogative(1.0) of(0.0) the(0.0) Senate(0.0) in(0.0) such(0.0) matters(0.0) ,(0.0) but(0.0) I(0.0) am(0.0) mystified(0.0) 
+
+
+----- below are rationale words -----
+
+resolution	constitute	privilege	rule	
+Speaker	parliamentary	
+resolution	Ohio	privilege	
+rules	institution	rule	
+privilege	IX	privilege	
+rights	the	dignity	
+integrity	rights	
+Delegate	
+rule	
+precedents	
+Speaker	
+resolution	termination	treaty	
+Constitution	no	
+
+ratification	President	grants	treaty	
+antiballistic	
+treaty	resolution	
+Nixon	ABM	treaty	
+supreme	
+Constitution	
+treaty	states	exercising	national	
+sovereignty	treaty	resolution	argues	
+
+constitutional	deciding	approve	termination	treaty	
+Senate	argument	prerogative	
+
+reads % = 0.114

@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) vote(1.0) down(0.0) this(0.0) motion(1.0) to(0.0) recommit(1.0) and(0.0) pass(0.0) the(0.0) bill(1.0) .(0.0) We(0.0) are(0.0) adding(0.0) 
+$(0.0) 2(0.0) billion(1.0) in(0.0) money(1.0) for(0.0) child(1.0) care(1.0) for(0.0) the(0.0) States(0.0) .(0.0) But(0.0) beyond(0.0) that(0.0) ,(0.0) remember(0.0) that(0.0) we(0.0) are(0.0) 
+giving(0.0) the(0.0) States(0.0) exactly(0.0) the(0.0) amount(0.0) of(0.0) money(1.0) we(0.0) gave(0.0) them(0.0) 5(0.0) years(0.0) ago(0.0) ,(0.0) but(0.0) the(0.0) welfare(1.0) rolls(0.0) are(0.0) 
+half(0.0) that(0.0) amount(0.0) .(0.0) So(0.0) the(0.0) States(0.0) have(0.0) all(0.0) that(0.0) additional(0.0) money(1.0) that(0.0) they(0.0) can(0.0) devote(0.0) to(0.0) child(0.0) care(1.0) or(0.0) 
+meeting(0.0) the(0.0) other(0.0) needs(0.0) of(0.0) people(0.0) working(0.0) to(0.0) get(0.0) off(0.0) welfare(1.0) and(0.0) into(0.0) the(0.0) job(0.0) market(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) 
+there(0.0) is(0.0) money(1.0) there(0.0) both(0.0) in(0.0) welfare(1.0) ,(0.0) lots(0.0) of(0.0) money(1.0) ,(0.0) more(0.0) than(0.0) there(0.0) has(0.0) ever(0.0) been(0.0) in(0.0) the(0.0) 
+history(0.0) of(0.0) our(0.0) country(1.0) .(0.0) Furthermore(0.0) ,(0.0) we(0.0) have(0.0) added(0.0) $(0.0) 2(0.0) billion(1.0) in(0.0) the(0.0) child(0.0) care(1.0) block(0.0) grant(1.0) .(0.0) 
+We(0.0) have(0.0) made(0.0) sure(0.0) it(0.0) has(0.0) grown(0.0) every(0.0) year(0.0) .(0.0) There(0.0) is(0.0) $(0.0) 170(0.0) billion(1.0) available(0.0) over(0.0) the(0.0) next(0.0) 5(0.0) 
+years(0.0) from(0.0) the(0.0) State(0.0) and(0.0) Federal(1.0) governments(1.0) for(0.0) TANF(1.0) .(0.0) We(0.0) have(0.0) a(0.0) balanced(0.0) ,(0.0) sound(0.0) ,(0.0) strong(0.0) bill(1.0) that(0.0) 
+will(0.0) support(0.0) women(1.0) and(0.0) their(0.0) families(0.0) as(0.0) they(0.0) make(0.0) the(0.0) transition(1.0) from(0.0) welfare(1.0) to(0.0) work(0.0) ,(0.0) and(0.0) I(0.0) urge(0.0) rejection(1.0) 
+of(0.0) the(0.0) motion(1.0) to(0.0) recommit(1.0) and(0.0) passage(1.0) of(0.0) this(0.0) landmark(1.0) legislation(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+vote	motion	recommit	bill	
+billion	money	child	care	
+money	welfare	
+money	care	
+welfare	Speaker	
+money	welfare	money	
+country	billion	care	grant	
+billion	
+Federal	governments	TANF	bill	
+women	transition	welfare	rejection	
+motion	recommit	passage	landmark	legislation	
+
+reads % = 0.1643192488262911

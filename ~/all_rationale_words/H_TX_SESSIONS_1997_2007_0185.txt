@@ -1,0 +1,50 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) also(1.0) rise(1.0) with(0.0) my(0.0) colleagues(1.0) who(0.0) are(0.0) here(0.0) from(0.0) El(1.0) Paso(0.0) ,(0.0) Texas(0.0) ,(0.0) and(0.0) also(1.0) the(0.0) gentleman(0.0) from(0.0) Illinois(1.0) 
+((0.0) Mr.(0.0) Davis(1.0) )(0.0) to(0.0) celebrate(0.0) the(0.0) 100th(0.0) anniversary(1.0) of(0.0) Tom(1.0) Lea(1.0) 's(0.0) birth(0.0) .(0.0) As(0.0) a(0.0) person(0.0) who(0.0) lived(1.0) 
+in(0.0) El(1.0) Paso(0.0) ,(0.0) Texas(0.0) ,(0.0) for(0.0) a(0.0) number(0.0) of(0.0) years(0.0) ,(0.0) I(0.0) also(1.0) became(0.0) aware(1.0) of(0.0) Tom(1.0) Lea(1.0) from(0.0) 
+living(1.0) in(0.0) San(1.0) Antonio(1.0) .(0.0) Much(0.0) of(0.0) his(0.0) artwork(0.0) was(0.0) displayed(0.0) in(0.0) San(1.0) Antonio(1.0) on(0.0) a(0.0) regular(0.0) basis(1.0) .(0.0) Tom(1.0) 
+Lea(1.0) for(0.0) many(0.0) years(0.0) painted(1.0) pictures(1.0) of(0.0) the(0.0) mountains(1.0) and(0.0) beauty(0.0) that(0.0) surrounds(1.0) not(1.0) only(0.0) west(1.0) Texas(0.0) ,(0.0) but(0.0) southern(0.0) 
+New(0.0) Mexico(1.0) also(1.0) .(0.0) El(1.0) Paso(0.0) is(0.0) the(0.0) beginning(1.0) of(0.0) what(1.0) is(0.0) called(0.0) The(0.0) Pass(0.0) of(0.0) the(0.0) North(0.0) ,(0.0) where(0.0) 
+two(0.0) great(0.0) countries(0.0) come(0.0) together(0.0) ,(0.0) the(0.0) history(0.0) of(0.0) Mexico(1.0) and(0.0) the(0.0) history(0.0) of(0.0) the(0.0) United(0.0) States(0.0) ,(0.0) and(0.0) where(0.0) 
+these(0.0) two(0.0) great(0.0) countries(0.0) meet(1.0) at(0.0) the(0.0) Rio(1.0) Grande(1.0) River(0.0) .(0.0) Tom(1.0) Lea(1.0) spent(1.0) a(0.0) lot(0.0) of(0.0) time(0.0) writing(0.0) ,(0.0) 
+talking(1.0) ,(0.0) thinking(0.0) ,(0.0) pushing(1.0) forward(0.0) thoughts(0.0) and(0.0) ideas(1.0) about(0.0) these(0.0) two(0.0) great(0.0) nations(1.0) ,(0.0) and(0.0) embodied(1.0) a(0.0) lot(0.0) of(0.0) 
+that(0.0) in(0.0) artwork(1.0) that(0.0) I(0.0) have(0.0) several(0.0) copies(1.0) of(0.0) .(0.0) I(0.0) have(0.0) bought(0.0) Tom(0.0) 's(0.0) books(0.0) over(0.0) the(0.0) years(0.0) .(0.0) 
+So(1.0) today(1.0) it(0.0) is(0.0) right(1.0) and(0.0) fitting(0.0) that(0.0) the(0.0) United(0.0) States(0.0) Congress(0.0) in(0.0) its(0.0) looking(0.0) back(0.0) ,(0.0) as(0.0) we(0.0) do(0.0) 
+on(1.0) a(0.0) regular(0.0) basis(1.0) ,(0.0) over(0.0) many(0.0) great(0.0) Americans(1.0) who(0.0) have(0.0) added(0.0) not(1.0) only(0.0) to(0.0) the(0.0) artwork(1.0) of(0.0) America(0.0) and(0.0) 
+the(0.0) thought(0.0) process(1.0) ,(0.0) but(0.0) also(1.0) to(0.0) the(0.0) lives(0.0) that(0.0) they(0.0) lived(1.0) .(0.0) Tom(1.0) Lea(1.0) ,(0.0) a(0.0) great(0.0) Texan(1.0) and(0.0) 
+American(0.0) ,(0.0) who(0.0) added(0.0) not(1.0) only(0.0) a(0.0) spirit(0.0) to(0.0) the(0.0) men(0.0) and(0.0) women(0.0) who(0.0) fought(0.0) for(0.0) this(0.0) country(1.0) in(0.0) World(0.0) 
+War(0.0) II(0.0) ,(0.0) but(0.0) also(1.0) brought(0.0) that(0.0) beauty(1.0) forward(0.0) in(0.0) artwork(1.0) ,(0.0) the(0.0) Franklin(1.0) Mountains(0.0) and(0.0) places(1.0) in(0.0) New(0.0) Mexico(1.0) 
+with(0.0) just(1.0) stunning(0.0) beauty(1.0) that(0.0) have(0.0) sustained(0.0) so(0.0) many(0.0) people(0.0) .(0.0) It(0.0) gives(1.0) us(0.0) an(0.0) idea(0.0) about(0.0) why(0.0) America(0.0) is(0.0) 
+a(0.0) great(0.0) Nation(0.0) and(0.0) why(0.0) we(0.0) must(0.0) continue(0.0) to(0.0) protect(0.0) her(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(1.0) stand(1.0) today(1.0) in(0.0) support(0.0) 
+of(0.0) this(0.0) 100th(0.0) anniversary(1.0) of(0.0) Tom(0.0) Lea(1.0) ,(0.0) a(0.0) great(0.0) man(1.0) from(0.0) El(1.0) Paso(0.0) and(0.0) a(0.0) great(0.0) community(1.0) ,(0.0) and(0.0) 
+people(0.0) who(0.0) loved(0.0) him(0.0) a(0.0) great(0.0) deal(1.0) and(0.0) miss(0.0) him(0.0) even(0.0) more(0.0) .(0.0) It(0.0) is(0.0) a(0.0) great(0.0) day(0.0) to(0.0) say(1.0) 
+thank(0.0) you(1.0) to(0.0) Lady(0.0) Bird(0.0) Johnson(0.0) and(0.0) Tom(0.0) Lea(1.0) ,(0.0) both(0.0) great(0.0) Texans(1.0) ,(0.0) on(0.0) a(0.0) beautiful(0.0) day(0.0) in(0.0) Washington(1.0) 
+,(0.0) D.C(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+also	rise	colleagues	El	also	Illinois	
+Davis	anniversary	Tom	Lea	lived	
+El	also	aware	Tom	Lea	
+living	San	Antonio	San	Antonio	basis	Tom	
+Lea	painted	pictures	mountains	surrounds	not	west	
+Mexico	also	El	beginning	what	
+Mexico	
+meet	Rio	Grande	Tom	Lea	spent	
+talking	pushing	ideas	nations	embodied	
+artwork	copies	
+So	today	right	
+on	basis	Americans	not	artwork	
+process	also	lived	Tom	Lea	Texan	
+not	country	
+also	beauty	artwork	Franklin	places	Mexico	
+just	beauty	gives	
+Speaker	I	stand	today	
+anniversary	Lea	man	El	community	
+deal	say	
+you	Lea	Texans	Washington	
+D.C	
+
+reads % = 0.22277227722772278

@@ -1,0 +1,56 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Chairman(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) ,(0.0) my(0.0) friend(0.0) from(0.0) Minnesota(1.0) ,(0.0) for(0.0) recognizing(1.0) me(0.0) ,(0.0) and(0.0) I(0.0) rise(0.0) in(0.0) 
+support(0.0) of(0.0) the(0.0) manager's(0.0) amendment(1.0) that(0.0) will(0.0) be(0.0) offered(0.0) later(0.0) ,(0.0) and(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Alaska(0.0) 
+((0.0) Chairman(0.0) Young(1.0) )(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Minnesota(1.0) ((0.0) Ranking(0.0) Member(0.0) Oberstar(1.0) )(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) Jersey(1.0) 
+((0.0) Subcommittee(0.0) Chairman(0.0) LoBiondo(1.0) )(0.0) and(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) ((0.0) Ranking(0.0) Member(0.0) Filner(1.0) )(0.0) for(1.0) their(1.0) support(0.0) of(0.0) my(0.0) 
+amendment(1.0) which(0.0) they(0.0) have(0.0) included(0.0) as(0.0) part(0.0) of(0.0) the(0.0) manager(0.0) 's(0.0) amendment(1.0) .(0.0) I(0.0) also(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) the(0.0) 
+overall(0.0) bill(1.0) .(0.0) The(0.0) Coast(1.0) Guard(0.0) is(0.0) a(0.0) vital(0.0) part(0.0) of(0.0) our(0.0) national(1.0) security(0.0) .(0.0) We(0.0) must(0.0) provide(0.0) them(0.0) with(0.0) 
+the(0.0) tools(0.0) they(0.0) need(0.0) and(0.0) the(0.0) funding(1.0) to(0.0) successfully(0.0) execute(0.0) their(0.0) mission(0.0) .(0.0) I(0.0) am(0.0) especially(0.0) pleased(0.0) with(0.0) the(0.0) funding(1.0) 
+for(0.0) the(0.0) Integrated(0.0) Deepwater(1.0) Systems(0.0) program(0.0) .(0.0) Madam(0.0) Chairman(1.0) ,(0.0) I(0.0) offer(0.0) my(0.0) amendment(1.0) because(0.0) I(0.0) continue(0.0) to(0.0) have(0.0) grave(0.0) 
+concerns(0.0) about(0.0) the(0.0) safety(0.0) of(0.0) my(0.0) constituents(1.0) should(0.0) the(0.0) Indian(0.0) Point(0.0) nuclear(0.0) power(0.0) plant(0.0) be(0.0) attacked(0.0) .(0.0) I(0.0) am(0.0) concerned(0.0) 
+about(0.0) the(0.0) safety(0.0) and(0.0) security(0.0) of(0.0) the(0.0) plant(0.0) .(0.0) I(0.0) have(0.0) even(0.0) more(0.0) concerns(0.0) about(0.0) the(0.0) ability(0.0) to(0.0) evacuate(0.0) people(0.0) 
+safely(0.0) ,(0.0) but(0.0) that(0.0) is(0.0) for(0.0) another(0.0) debate(1.0) .(0.0) This(0.0) amendment(1.0) is(0.0) simple(0.0) .(0.0) It(0.0) requires(0.0) that(0.0) the(0.0) Coast(0.0) Guard(0.0) 
+conduct(0.0) a(0.0) vulnerability(0.0) assessment(0.0) of(0.0) the(0.0) facility(0.0) .(0.0) As(0.0) of(0.0) January(0.0) 1(0.0) ,(0.0) 2003(0.0) ,(0.0) the(0.0) Coast(0.0) Guard(0.0) had(0.0) established(0.0) 
+a(0.0) permanent(0.0) safety(0.0) and(0.0) security(0.0) zone(0.0) around(0.0) Indian(0.0) Point(0.0) .(0.0) However(0.0) ,(0.0) the(0.0) Coast(1.0) Guard(0.0) 's(0.0) Hudson(1.0) River(0.0) cutter(0.0) passes(0.0) 
+Indian(0.0) Point(0.0) about(0.0) twice(0.0) a(0.0) week(0.0) ,(0.0) and(0.0) its(0.0) copter(0.0) only(0.0) about(0.0) three(0.0) times(0.0) a(0.0) week(0.0) .(0.0) Indian(0.0) Point(0.0) is(0.0) 
+located(0.0) in(0.0) Buchanan(1.0) ,(0.0) New(0.0) York(1.0) ,(0.0) 35(0.0) miles(0.0) north(0.0) of(0.0) midtown(1.0) Manhattan(1.0) and(0.0) just(0.0) a(0.0) few(0.0) miles(0.0) northeast(0.0) of(0.0) 
+my(0.0) district(0.0) .(0.0) Almost(0.0) all(0.0) of(0.0) my(0.0) district(0.0) is(0.0) located(0.0) within(0.0) the(0.0) 10-mile(1.0) radius(0.0) of(0.0) the(0.0) plant(0.0) ,(0.0) and(0.0) approximately(0.0) 
+20(0.0) million(0.0) people(0.0) live(0.0) within(0.0) the(0.0) 50-mile(1.0) emergency(1.0) planning(0.0) zone(0.0) or(0.0) EPZ(0.0) .(0.0) In(0.0) addition(0.0) ,(0.0) as(0.0) we(0.0) know(0.0) ,(0.0) 
+blueprints(0.0) for(0.0) American(0.0) nuclear(1.0) power(0.0) plants(0.0) were(0.0) found(0.0) in(0.0) al(0.0) Qaeda(0.0) caves(0.0) in(0.0) Afghanistan(1.0) ,(0.0) and(0.0) that(0.0) point(0.0) bears(0.0) repeating(0.0) 
+.(0.0) Al(0.0) Qaeda(1.0) has(0.0) the(0.0) plans(1.0) to(0.0) some(0.0) U.S.(0.0) nuclear(1.0) power(0.0) plants(0.0) .(0.0) A(0.0) study(0.0) conducted(0.0) by(0.0) the(0.0) Marist(1.0) Institute(0.0) 
+found(0.0) that(0.0) 82(0.0) percent(0.0) of(0.0) people(0.0) living(0.0) within(0.0) a(0.0) 50-mile(1.0) radius(0.0) of(0.0) the(0.0) plant(0.0) are(0.0) concerned(0.0) about(0.0) a(0.0) potential(0.0) terrorist(1.0) 
+attack(0.0) on(0.0) the(0.0) facility(0.0) ,(0.0) moreover(0.0) ,(0.0) a(0.0) majority(0.0) of(0.0) residents(1.0) in(0.0) the(0.0) 50-mile(1.0) radius(0.0) do(0.0) not(0.0) feel(0.0) that(0.0) the(0.0) 
+plant(0.0) is(0.0) secure(0.0) and(0.0) protected(0.0) against(0.0) a(0.0) terrorist(1.0) attack(0.0) .(0.0) I(0.0) support(0.0) closing(0.0) Indian(0.0) Point(0.0) completely(0.0) .(0.0) Absent(0.0) that(0.0) solution(0.0) 
+,(0.0) I(0.0) am(0.0) working(0.0) with(0.0) my(0.0) colleagues(0.0) to(0.0) ensure(0.0) that(0.0) it(0.0) is(0.0) the(0.0) most(0.0) safe(0.0) and(0.0) secure(0.0) nuclear(1.0) power(0.0) plant(0.0) 
+possible(0.0) .(0.0) Therefore(0.0) ,(0.0) I(0.0) urge(0.0) all(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) the(0.0) manager's(0.0) amendment(1.0) and(0.0) the(0.0) bill(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Minnesota	recognizing	
+amendment	
+Young	Minnesota	Oberstar	Jersey	
+LoBiondo	Filner	for	their	
+amendment	amendment	
+bill	Coast	national	
+funding	funding	
+Deepwater	Chairman	amendment	
+constituents	
+
+debate	amendment	
+
+Coast	Hudson	
+
+Buchanan	York	midtown	Manhattan	
+10-mile	
+50-mile	emergency	
+nuclear	Afghanistan	
+Qaeda	plans	nuclear	Marist	
+50-mile	terrorist	
+residents	50-mile	
+terrorist	
+nuclear	
+amendment	bill	
+
+reads % = 0.09812108559498957

@@ -1,0 +1,10 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) again(0.0) I(0.0) applaud(0.0) the(0.0) chairman(0.0) for(0.0) his(0.0) leadership(0.0) role(0.0) and(0.0) thank(0.0) him(0.0) for(0.0) his(0.0) clarification(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+reads % = 0.0

@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) have(0.0) some(0.0) concerns(0.0) about(0.0) this(0.0) bill(1.0) .(0.0) One(0.0) of(0.0) the(0.0) challenges(0.0) as(0.0) a(0.0) conservative(0.0) Republican(0.0) in(1.0) a(1.0) Congress(0.0) dominated(1.0) by(1.0) 
+the(0.0) Democrats(1.0) in(1.0) the(0.0) House(0.0) and(0.0) Senate(0.0) and(0.0) the(0.0) President(0.0) is(0.0) that(0.0) it(0.0) is(0.0) likely(0.0) to(0.0) be(0.0) that(0.0) ,(0.0) for(0.0) 
+most(0.0) bills(1.0) ,(0.0) we(0.0) are(0.0) likely(0.0) to(0.0) have(0.0) some(0.0) concerns(0.0) .(0.0) We(0.0) lost(0.0) the(0.0) election(1.0) ,(0.0) we(0.0) are(0.0) not(0.0) writing(0.0) 
+the(0.0) bills(1.0) ,(0.0) and(0.0) so(0.0) therefore(0.0) we(0.0) are(0.0) likely(0.0) to(0.0) have(0.0) some(0.0) concerns(0.0) .(0.0) When(0.0) the(0.0) Republicans(1.0) last(1.0) wrote(1.0) this(1.0) 
+bill(1.0) ,(1.0) for(1.0) example(1.0) ,(1.0) we(1.0) had(1.0) a(1.0) clause(1.0) in(0.0) restricting(1.0) sex(1.0) education(1.0) money(1.0) usage(1.0) .(1.0) It(0.0) is(0.0) not(0.0) likely(0.0) 
+to(0.0) be(0.0) a(0.0) use(0.0) of(0.0) this(0.0) bill(1.0) ,(0.0) but(0.0) as(0.0) a(0.0) conservative(0.0) I(0.0) sometimes(0.0) have(0.0) justifiable(1.0) paranoia(0.0) about(0.0) how(0.0) liberals(1.0) 
+may(0.0) use(0.0) this(0.0) money(1.0) .(0.0) At(0.0) the(0.0) same(0.0) time(0.0) ,(0.0) we(0.0) are(0.0) not(0.0) the(0.0) majority(1.0) ,(0.0) we(0.0) do(0.0) n't(0.0) get(0.0) 
+to(0.0) write(0.0) every(0.0) clause(1.0) in(0.0) it(0.0) ,(0.0) and(0.0) ,(0.0) it(0.0) is(0.0) not(0.0) necessarily(0.0) a(0.0) likely(0.0) use(0.0) .(0.0) I(0.0) also(0.0) have(0.0) 
+concerns(0.0) about(0.0) the(0.0) amount(0.0) of(0.0) money(1.0) that(0.0) the(0.0) Federal(1.0) Government(1.0) is(0.0) spending(1.0) .(0.0) There(0.0) are(0.0) going(0.0) to(0.0) be(0.0) bills(1.0) in(0.0) 
+this(0.0) cycle(0.0) that(0.0) many(0.0) Republicans(0.0) who(1.0) might(1.0) have(1.0) supported(1.0) them(0.0) in(1.0) the(0.0) past(0.0) will(0.0) have(0.0) reservations(0.0) on(0.0) .(0.0) We(0.0) have(0.0) 
+run(0.0) up(0.0) in(0.0) the(0.0) first(0.0) 2(0.0) months(0.0) more(0.0) additions(0.0) to(0.0) the(0.0) deficit(1.0) than(0.0) we(0.0) had(0.0) in(0.0) the(0.0) first(0.0) 5(0.0) years(0.0) 
+of(0.0) the(0.0) last(0.0) administration(0.0) .(0.0) At(0.0) some(0.0) point(0.0) the(0.0) question(0.0) is(0.0) ,(0.0) how(0.0) are(0.0) we(0.0) going(0.0) to(0.0) fund(1.0) these(0.0) Treasury(1.0) 
+bills(1.0) ?(0.0) Are(0.0) interest(0.0) rates(0.0) going(0.0) to(0.0) go(0.0) up(0.0) and(0.0) drive(0.0) out(0.0) the(0.0) private(0.0) market(0.0) ?(0.0) How(0.0) is(0.0) a(0.0) district(0.0) 
+like(0.0) is(0.0) mine(0.0) that(0.0) is(0.0) hammered(0.0) ,(0.0) how(0.0) is(0.0) Elkhart(1.0) County(1.0) going(0.0) to(0.0) recover(0.0) ?(0.0) So(0.0) I(0.0) have(0.0) deep(0.0) concerns(0.0) 
+.(0.0) Now(0.0) ,(0.0) I(0.0) understand(0.0) this(0.0) is(0.0) an(0.0) authorizing(1.0) bill(1.0) ,(0.0) not(0.0) an(0.0) appropriations(1.0) bill(1.0) .(0.0) Authorizing(0.0) bills(0.0) merely(1.0) set(0.0) 
+the(0.0) cap(1.0) .(0.0) That(0.0) leads(0.0) ,(0.0) however(0.0) ,(0.0) to(0.0) a(0.0) lot(0.0) of(0.0) pressure(0.0) internally(0.0) of(0.0) ,(0.0) like(0.0) we(0.0) saw(0.0) in(0.0) 
+No(0.0) Child(1.0) Left(1.0) Behind(1.0) ,(0.0) you(0.0) are(0.0) only(0.0) funding(1.0) X(0.0) amount(0.0) of(0.0) a(0.0) bill(0.0) .(0.0) No(0.0) ,(0.0) that(0.0) was(0.0) a(0.0) 
+cap(0.0) ;(0.0) that(0.0) was(0.0) n't(0.0) a(0.0) guarantee(0.0) that(0.0) the(0.0) funding(1.0) was(0.0) going(0.0) to(0.0) go(0.0) through(0.0) .(0.0) So(0.0) when(0.0) we(0.0) go(0.0) 
+through(0.0) authorizing(1.0) bills(1.0) ,(0.0) does(0.0) this(0.0) in(0.0) fact(0.0) push(0.0) the(0.0) spending(1.0) ,(0.0) or(0.0) not(0.0) ?(0.0) But(0.0) authorizing(1.0) bills(1.0) fundamentally(1.0) guide(0.0) 
+the(0.0) programs(1.0) .(0.0) And(0.0) if(0.0) we(0.0) as(0.0) Republicans(0.0) say(1.0) we(1.0) are(1.0) never(0.0) going(0.0) to(0.0) participate(0.0) because(0.0) we(0.0) are(0.0) not(0.0) in(0.0) 
+the(0.0) majority(1.0) and(0.0) these(0.0) are(0.0) authorizing(0.0) bills(0.0) that(0.0) guide(0.0) the(0.0) guidelines(0.0) ,(0.0) are(0.0) we(0.0) going(0.0) to(0.0) give(0.0) up(0.0) both(0.0) the(0.0) 
+actual(0.0) spending(1.0) and(0.0) not(0.0) participating(0.0) in(0.0) the(0.0) authorizing(1.0) process(0.0) ?(0.0) There(0.0) are(0.0) fundamental(1.0) differences(0.0) inside(0.0) any(0.0) kind(0.0) of(0.0) coalition(1.0) of(0.0) 
+people(0.0) on(0.0) what(0.0) the(0.0) role(0.0) of(0.0) government(1.0) should(0.0) be(0.0) .(0.0) If(0.0) you(0.0) are(0.0) a(0.0) pure(0.0) libertarian(1.0) ,(0.0) it(0.0) is(0.0) unlikely(0.0) 
+that(0.0) you(0.0) like(0.0) any(0.0) of(0.0) these(0.0) kind(0.0) of(0.0) programs(1.0) .(0.0) Volunteers(0.0) are(0.0) volunteers(0.0) ;(0.0) government(1.0) employees(0.0) are(0.0) government(1.0) employees(0.0) .(0.0) 
+But(0.0) if(0.0) you(0.0) have(0.0) ,(0.0) as(0.0) I(0.0) have(0.0) in(0.0) the(0.0) past(0.0) ,(0.0) supported(0.0) these(0.0) different(0.0) programs(1.0) ,(0.0) some(0.0) more(0.0) 
+
+
+----- below are rationale words -----
+
+bill	in	a	dominated	by	
+Democrats	in	
+bills	election	
+bills	Republicans	last	wrote	this	
+bill	,	for	example	,	we	had	a	clause	restricting	sex	education	money	usage	.	
+bill	justifiable	liberals	
+money	majority	
+clause	
+money	Federal	Government	spending	bills	
+who	might	have	supported	in	
+deficit	
+fund	Treasury	
+bills	
+Elkhart	County	
+authorizing	bill	appropriations	bill	merely	
+cap	
+Child	Left	Behind	funding	
+funding	
+authorizing	bills	spending	authorizing	bills	fundamentally	
+programs	say	we	are	
+majority	
+spending	authorizing	fundamental	coalition	
+government	libertarian	
+programs	government	government	
+programs	
+
+reads % = 0.166

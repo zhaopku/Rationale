@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(1.0) to(0.0) suspend(0.0) the(0.0) rules(1.0) and(0.0) pass(1.0) the(0.0) bill(0.0) ((0.0) H.R(0.0) .(0.0) 4027(1.0) )(0.0) to(0.0) authorize(0.0) the(0.0) Secretary(1.0) 
+of(0.0) Commerce(1.0) to(0.0) make(0.0) available(1.0) to(0.0) the(0.0) University(0.0) of(0.0) Miami(0.0) property(0.0) under(0.0) the(0.0) administrative(1.0) jurisdiction(1.0) of(0.0) the(0.0) National(0.0) Oceanic(1.0) and(0.0) 
+Atmospheric(0.0) Administration(0.0) on(0.0) Virginia(1.0) Key(0.0) ,(0.0) Florida(1.0) ,(0.0) for(0.0) use(1.0) by(0.0) the(0.0) University(0.0) for(0.0) a(0.0) Marine(1.0) Life(1.0) Sciences(0.0) Center(0.0) ,(0.0) 
+as(0.0) amended(1.0) .(0.0) The(0.0) Clerk(1.0) read(1.0) as(0.0) follows(1.0) :(0.0) H.R(0.0) .(0.0) 4027(1.0) Be(0.0) it(0.0) enacted(1.0) by(0.0) the(0.0) Senate(1.0) and(0.0) House(0.0) 
+of(0.0) Representatives(0.0) of(0.0) the(0.0) United(0.0) States(0.0) of(0.0) America(0.0) in(0.0) Congress(0.0) assembled(1.0) ,(0.0) SECTION(1.0) 1(0.0) .(0.0) AVAILABILITY(1.0) OF(1.0) NOAA(1.0) REAL(1.0) PROPERTY(1.0) 
+ON(0.0) VIRGINIA(1.0) KEY(1.0) ,(0.0) FLORIDA(1.0) .(0.0) ((0.0) a(0.0) )(0.0) In(0.0) General.(1.0) --(0.0) The(0.0) Secretary(1.0) of(0.0) Commerce(1.0) may(0.0) make(0.0) available(1.0) to(0.0) 
+the(0.0) University(0.0) of(0.0) Miami(0.0) real(0.0) property(0.0) under(0.0) the(0.0) administrative(1.0) jurisdiction(1.0) of(0.0) the(0.0) National(0.0) Oceanic(1.0) and(0.0) Atmospheric(0.0) Administration(0.0) on(0.0) Virginia(1.0) Key(0.0) 
+,(0.0) Florida(1.0) ,(0.0) for(0.0) development(1.0) by(0.0) the(0.0) University(0.0) of(0.0) a(0.0) Marine(1.0) Life(1.0) Science(0.0) Center(0.0) .(0.0) ((0.0) b(1.0) )(0.0) Manner(1.0) of(0.0) 
+Availability.(1.0) --(0.0) The(0.0) Secretary(1.0) may(0.0) make(0.0) property(0.0) available(1.0) under(0.0) this(0.0) section(0.0) by(0.0) easement(1.0) ,(0.0) lease(1.0) ,(0.0) license(1.0) ,(0.0) or(1.0) long-term(1.0) 
+agreement(1.0) with(0.0) the(0.0) University(0.0) .(0.0) ((0.0) c(0.0) )(0.0) Authorized(1.0) Uses(0.0) by(0.0) University.(1.0) --(0.0) ((0.0) 1(1.0) )(0.0) In(0.0) general.(1.0) --(0.0) Property(1.0) 
+made(0.0) available(1.0) under(0.0) this(0.0) section(0.0) may(0.0) be(0.0) used(0.0) by(0.0) the(0.0) University(0.0) ((0.0) subject(0.0) to(0.0) paragraph(1.0) ((0.0) 2(0.0) )(0.0) )(0.0) to(0.0) 
+develop(0.0) and(0.0) operate(1.0) facilities(0.0) for(0.0) multidisciplinary(1.0) environmental(1.0) and(0.0) fisheries(1.0) research(0.0) ,(0.0) assessment(1.0) ,(0.0) management(1.0) ,(0.0) and(0.0) educational(0.0) activities(0.0) .(0.0) ((0.0) 
+2(0.0) )(0.0) Agreement.(1.0) --(0.0) Property(1.0) made(0.0) available(1.0) under(0.0) this(0.0) section(0.0) may(0.0) not(1.0) be(0.0) used(0.0) by(0.0) the(0.0) University(0.0) ((0.0) including(1.0) any(1.0) 
+affiliate(1.0) of(0.0) the(0.0) University(0.0) )(0.0) except(1.0) in(0.0) accordance(1.0) with(0.0) an(0.0) agreement(0.0) with(0.0) the(0.0) Secretary(1.0) that(0.0) --(0.0) ((0.0) A(1.0) )(0.0) specifies(1.0) 
+--(0.0) ((0.0) i(1.0) )(0.0) the(0.0) conditions(0.0) for(0.0) non-Federal(1.0) use(0.0) of(0.0) the(0.0) property(0.0) ;(0.0) and(0.0) ((0.0) ii(1.0) )(0.0) the(0.0) retained(1.0) Federal(1.0) 
+interests(1.0) in(0.0) the(0.0) property(0.0) ,(0.0) including(1.0) interests(1.0) in(0.0) access(0.0) to(0.0) and(0.0) egress(1.0) from(0.0) the(0.0) property(0.0) by(0.0) Federal(1.0) personnel(1.0) and(0.0) preservation(0.0) 
+of(0.0) existing(0.0) rights-of-(1.0) way(1.0) ;(0.0) ((0.0) B(0.0) )(0.0) establishes(1.0) conditions(0.0) for(0.0) joint(1.0) occupancy(0.0) of(0.0) buildings(0.0) and(0.0) other(0.0) facilities(0.0) on(0.0) the(0.0) 
+property(0.0) by(0.0) the(0.0) University(0.0) and(0.0) Federal(1.0) agencies(1.0) ;(0.0) and(0.0) ((0.0) C(0.0) )(0.0) includes(0.0) provisions(0.0) that(0.0) ensure(0.0) --(0.0) ((0.0) i(1.0) )(0.0) 
+that(0.0) there(0.0) is(0.0) no(0.0) diminishment(1.0) of(0.0) existing(0.0) National(0.0) Oceanic(1.0) and(0.0) Atmospheric(0.0) Administration(0.0) programs(1.0) and(0.0) services(0.0) at(0.0) Virginia(1.0) Key(0.0) ;(0.0) and(0.0) 
+((0.0) ii(1.0) )(0.0) the(1.0) availability(0.0) of(0.0) the(0.0) property(0.0) for(0.0) planning(1.0) ,(0.0) development(1.0) ,(0.0) and(0.0) construction(1.0) of(0.0) future(0.0) Federal(1.0) buildings(0.0) and(0.0) 
+facilities(1.0) .(0.0) ((0.0) 3(0.0) )(0.0) Termination(0.0) of(0.0) availability.(1.0) --(0.0) The(0.0) availability(0.0) of(0.0) property(0.0) under(0.0) this(0.0) section(0.0) shall(0.0) terminate(1.0) immediately(0.0) upon(0.0) 
+use(1.0) of(0.0) the(0.0) property(0.0) by(0.0) the(0.0) University(0.0) --(0.0) ((0.0) A(1.0) )(0.0) for(0.0) any(1.0) purpose(0.0) other(0.0) than(0.0) as(0.0) described(1.0) in(0.0) paragraph(1.0) 
+((0.0) 1(1.0) )(0.0) ;(0.0) or(1.0) ((0.0) B(0.0) )(0.0) in(0.0) violation(1.0) of(0.0) the(0.0) agreement(1.0) under(0.0) paragraph(1.0) ((0.0) 2(0.0) )(0.0) .(0.0) ((0.0) 
+d(0.0) )(0.0) Use(0.0) of(0.0) Facilities(0.0) by(0.0) Secretary.(1.0) --(0.0) The(0.0) Secretary(1.0) may(0.0) --(0.0) ((0.0) 1(1.0) )(0.0) subject(0.0) to(0.0) the(0.0) availability(0.0) of(0.0) 
+funding(1.0) ,(0.0) enter(1.0) into(0.0) an(0.0) agreement(0.0) to(0.0) occupy(1.0) facilities(0.0) constructed(0.0) by(0.0) the(0.0) University(0.0) on(0.0) property(0.0) made(0.0) available(1.0) under(0.0) this(0.0) 
+
+
+----- below are rationale words -----
+
+move	rules	pass	4027	Secretary	
+Commerce	available	administrative	jurisdiction	Oceanic	
+Virginia	Florida	use	Marine	Life	
+amended	Clerk	read	follows	4027	enacted	Senate	
+assembled	SECTION	AVAILABILITY	OF	NOAA	REAL	PROPERTY	
+VIRGINIA	KEY	FLORIDA	General.	Secretary	Commerce	available	
+administrative	jurisdiction	Oceanic	Virginia	
+Florida	development	Marine	Life	b	Manner	
+Availability.	Secretary	available	easement	lease	license	or	long-term	
+agreement	Authorized	University.	1	general.	Property	
+available	paragraph	
+operate	multidisciplinary	environmental	fisheries	assessment	management	
+Agreement.	Property	available	not	including	any	
+affiliate	except	accordance	Secretary	A	specifies	
+i	non-Federal	ii	retained	Federal	
+interests	including	interests	egress	Federal	personnel	
+rights-of-	way	establishes	joint	
+Federal	agencies	i	
+diminishment	Oceanic	programs	Virginia	
+ii	the	planning	development	construction	Federal	
+facilities	availability.	terminate	
+use	A	any	described	paragraph	
+1	or	violation	agreement	paragraph	
+Secretary.	Secretary	1	
+funding	enter	occupy	available	
+
+reads % = 0.256

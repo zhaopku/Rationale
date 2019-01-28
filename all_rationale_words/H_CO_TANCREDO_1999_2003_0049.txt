@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) if(0.0) the(0.0) gentleman(0.0) will(0.0) continue(0.0) to(0.0) yield(0.0) ,(0.0) I(0.0) would(0.0) note(0.0) that(0.0) the(0.0) law(1.0) ,(0.0) and(0.0) as(0.0) I(0.0) understand(0.0) 
+the(0.0) law(1.0) subsequent(1.0) to(0.0) that(0.0) time(0.0) ,(0.0) has(0.0) indicated(0.0) the(0.0) term(1.0) INS(0.0) can(0.0) be(0.0) used(0.0) interchangeably(0.0) with(0.0) Homeland(1.0) Security(0.0) ,(0.0) 
+or(0.0) the(0.0) Bureau(0.0) of(0.0) Immigration(1.0) and(0.0) Customs(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+law	
+law	subsequent	term	Homeland	
+Immigration	
+
+reads % = 0.12244897959183673

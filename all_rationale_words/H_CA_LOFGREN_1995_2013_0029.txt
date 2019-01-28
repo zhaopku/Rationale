@@ -1,0 +1,36 @@
+This is from a Democrat
+----- below is the original text -----
+Earlier(0.0) in(0.0) the(0.0) debate(1.0) ,(0.0) I(0.0) jumped(0.0) ahead(0.0) of(0.0) myself(0.0) and(0.0) addressed(0.0) the(0.0) issue(0.0) of(0.0) pleadings(1.0) and(0.0) discovery(0.0) costs(0.0) during(0.0) the(0.0) 
+Watt(0.0) amendment(1.0) about(0.0) fee(0.0) shifting(0.0) .(0.0) So(0.0) I(0.0) will(0.0) focus(0.0) on(0.0) fee(0.0) shifting(0.0) now(0.0) .(0.0) The(0.0) provision(1.0) in(0.0) the(0.0) bill(1.0) 
+is(0.0) absolutely(0.0) right(0.0) on(0.0) .(0.0) I(0.0) oppose(1.0) the(0.0) English(0.0) rule(1.0) generally(0.0) ,(0.0) but(0.0) we(0.0) have(0.0) created(0.0) dozens(0.0) of(0.0) times(0.0) instances(0.0) 
+where(0.0) the(0.0) losing(0.0) party(0.0) can(0.0) pay(1.0) --(0.0) let(0.0) me(0.0) just(0.0) read(0.0) the(0.0) language(0.0) :(0.0) The(0.0) courts(1.0) will(0.0) shift(0.0) the(0.0) costs(0.0) 
+and(0.0) fees(0.0) to(0.0) a(0.0) non-(0.0) prevailing(0.0) party(0.0) unless(0.0) the(0.0) party(0.0) 's(0.0) position(0.0) is(0.0) reasonably(0.0) justified(0.0) in(0.0) fact(0.0) or(0.0) law(1.0) or(0.0) 
+the(0.0) fee(0.0) award(0.0) would(0.0) cause(0.0) economic(1.0) harm(0.0) .(0.0) The(0.0) discretion(0.0) is(0.0) still(0.0) with(0.0) the(0.0) judicial(1.0) officer(0.0) to(0.0) avoid(0.0) harm(0.0) .(0.0) 
+In(0.0) terms(0.0) of(0.0) what(0.0) should(0.0) be(0.0) in(0.0) the(0.0) bill(1.0) ,(0.0) I(0.0) mentioned(0.0) at(0.0) the(0.0) outset(0.0) that(0.0) I(0.0) do(0.0) n't(0.0) believe(0.0) 
+this(0.0) bill(1.0) is(0.0) perfect(0.0) .(0.0) If(0.0) it(0.0) were(0.0) up(0.0) to(0.0) me(0.0) ,(0.0) the(0.0) bill(1.0) would(1.0) also(0.0) exempt(1.0) PTO(0.0) user-fees(0.0) from(0.0) 
+sequestration(1.0) ;(0.0) it(0.0) would(0.0) clarify(0.0) the(0.0) scope(1.0) of(0.0) prior(0.0) art(0.0) and(0.0) the(0.0) grace(0.0) period(0.0) ;(0.0) it(0.0) would(0.0) allow(0.0) the(0.0) PTO(0.0) 
+to(0.0) continue(0.0) using(0.0) its(0.0) BRI(1.0) standard(0.0) in(0.0) post-grant(1.0) and(0.0) inter(0.0) partes(0.0) review(0.0) .(0.0) I(0.0) hope(0.0) that(0.0) the(0.0) Senate(1.0) will(0.0) address(0.0) 
+those(0.0) issues(0.0) .(0.0) Certainly(0.0) ,(0.0) the(0.0) amendment(1.0) by(0.0) Mr.(0.0) Watt(1.0) and(0.0) Mr.(0.0) Conyers(1.0) does(1.0) not(1.0) .(0.0) It(0.0) pains(0.0) me(0.0) when(0.0) 
+I(0.0) have(0.0) to(0.0) disagree(0.0) with(0.0) my(0.0) ranking(0.0) member(0.0) ,(0.0) who(0.0) I(0.0) admire(0.0) so(0.0) very(0.0) much(0.0) ,(0.0) but(0.0) I(0.0) do(0.0) disagree(0.0) 
+with(0.0) this(0.0) amendment(1.0) .(0.0) I(0.0) think(0.0) it(0.0) will(0.0) absolutely(0.0) gut(0.0) the(0.0) bill(1.0) .(0.0) I(0.0) intend(0.0) to(0.0) vote(1.0) against(0.0) it(0.0) ,(0.0) 
+and(0.0) I(0.0) hope(0.0) that(0.0) others(0.0) join(0.0) me(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+debate	pleadings	
+amendment	provision	bill	
+oppose	rule	
+pay	courts	
+law	
+economic	judicial	
+bill	
+bill	bill	would	exempt	
+sequestration	scope	
+BRI	post-grant	Senate	
+amendment	Watt	Conyers	does	not	
+
+amendment	bill	vote	
+
+
+reads % = 0.11152416356877323

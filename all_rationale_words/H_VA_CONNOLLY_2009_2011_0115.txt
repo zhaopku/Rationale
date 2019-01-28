@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) .(0.0) One(0.0) is(0.0) incredulous(0.0) that(0.0) the(0.0) House(0.0) Republicans(1.0) would(1.0) oppose(1.0) a(1.0) tax(1.0) cut(1.0) for(1.0) 160(1.0) million(1.0) Americans(1.0) ,(1.0) but(1.0) that(1.0) 
+'s(1.0) just(1.0) what(1.0) they(1.0) 're(1.0) going(1.0) to(0.0) do(1.0) today(0.0) .(0.0) Is(0.0) this(0.0) bill(1.0) perfect(0.0) ?(0.0) No(0.0) .(0.0) There(0.0) are(0.0) aspects(0.0) 
+upon(0.0) which(0.0) both(0.0) sides(0.0) disagree(0.0) .(0.0) But(0.0) it(0.0) is(0.0) the(0.0) area(0.0) of(0.0) agreement(0.0) that(0.0) should(0.0) be(0.0) the(0.0) most(0.0) important(0.0) :(0.0) 
+Congress(0.0) stops(0.0) playing(0.0) hostage(1.0) politics(1.0) and(0.0) halts(1.0) the(0.0) tax(1.0) hike(1.0) on(0.0) 160(0.0) million(1.0) fellow(0.0) citizens(1.0) .(0.0) Saturday(0.0) 's(0.0) Senate(0.0) vote(1.0) 
+was(0.0) 89-10(0.0) --(0.0) not(0.0) just(0.0) liberals(0.0) ,(0.0) I(0.0) say(0.0) to(0.0) my(0.0) friend(0.0) from(0.0) South(0.0) Carolina(0.0) --(0.0) with(0.0) all(0.0) members(0.0) of(0.0) 
+the(0.0) Senate(0.0) leadership(0.0) ,(0.0) Republican(0.0) and(1.0) Democrat(1.0) ,(1.0) voting(1.0) in(0.0) favor(1.0) .(0.0) If(0.0) House(0.0) Republicans(1.0) vote(1.0) against(1.0) this(1.0) compromise(1.0) ,(1.0) 
+they(1.0) will(1.0) ring(1.0) in(1.0) the(1.0) new(1.0) year(0.0) with(0.0) a(0.0) tax(1.0) hike(1.0) of(1.0) their(0.0) own(0.0) making(0.0) .(0.0) If(0.0) House(0.0) Republicans(1.0) were(0.0) 
+serious(1.0) about(1.0) wanting(1.0) certainty(1.0) ,(0.0) as(0.0) they(0.0) claim(0.0) ,(0.0) they(0.0) would(0.0) vote(1.0) for(0.0) this(0.0) bill(1.0) today(0.0) and(0.0) guarantee(0.0) that(0.0) 160(0.0) 
+million(0.0) Americans(1.0) wo(1.0) n't(0.0) pay(1.0) higher(0.0) taxes(1.0) on(0.0) January(0.0) 1(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) rejecting(1.0) this(0.0) bill(1.0) and(0.0) holding(0.0) up(0.0) 
+the(0.0) payroll(1.0) tax(1.0) cut(1.0) and(1.0) unemployment(1.0) benefits(1.0) will(0.0) be(0.0) a(0.0) true(0.0) example(0.0) of(0.0) how(0.0) the(0.0) GOP(1.0) Grinch(1.0) stole(1.0) Christmas(1.0) for(1.0) 
+160(1.0) million(1.0) Americans(1.0) .(1.0) 
+
+
+----- below are rationale words -----
+
+Republicans	would	oppose	a	tax	cut	for	160	million	Americans	,	but	that	
+'s	just	what	they	're	going	do	bill	
+
+hostage	politics	halts	tax	hike	million	citizens	vote	
+
+and	Democrat	,	voting	favor	Republicans	vote	against	this	compromise	,	
+they	will	ring	in	the	new	tax	hike	of	Republicans	
+serious	about	wanting	certainty	vote	bill	
+Americans	wo	pay	taxes	Speaker	rejecting	bill	
+payroll	tax	cut	and	unemployment	benefits	GOP	Grinch	stole	Christmas	for	
+160	million	Americans	.	
+
+reads % = 0.3804878048780488

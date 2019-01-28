@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) just(0.0) want(0.0) to(0.0) remind(0.0) my(0.0) friend(0.0) ,(0.0) the(0.0) chairman(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) the(0.0) Judiciary(0.0) ,(0.0) that(0.0) 
+he(0.0) was(0.0) not(0.0) that(0.0) happy(0.0) with(0.0) Federal(1.0) courts(1.0) in(0.0) the(0.0) University(0.0) of(0.0) Michigan(1.0) affirmative(1.0) action(0.0) case(0.0) .(0.0) Remember(0.0) that(0.0) one(0.0) 
+?(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) yield(0.0) 1(0.0) minute(0.0) to(0.0) the(0.0) gentlewoman(0.0) from(0.0) California(0.0) ((0.0) Ms.(1.0) Solis(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	
+Federal	courts	Michigan	affirmative	
+Chairman	Ms.	Solis	
+
+reads % = 0.13559322033898305

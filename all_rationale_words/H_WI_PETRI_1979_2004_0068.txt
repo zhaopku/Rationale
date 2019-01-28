@@ -1,0 +1,38 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) rise(1.0) in(0.0) support(0.0) of(0.0) the(0.0) rule(0.0) .(0.0) Initially(1.0) ,(0.0) I(0.0) would(1.0) like(0.0) to(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) 
+Ohio(1.0) ((0.0) Mr.(0.0) Boehner(1.0) )(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) ((0.0) Mr.(0.0) George(1.0) Miller(1.0) )(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Delaware(1.0) 
+((0.0) Mr.(0.0) Castle(1.0) )(0.0) ,(0.0) and(0.0) the(0.0) gentlewoman(0.0) from(0.0) California(0.0) ((0.0) Ms.(1.0) Woolsey(1.0) )(0.0) for(0.0) over(0.0) 2(1.0) years(0.0) of(0.0) work(0.0) 
+on(0.0) the(0.0) important(0.0) legislation(0.0) that(0.0) the(1.0) rule(0.0) makes(0.0) in(0.0) order(0.0) .(0.0) I(0.0) am(0.0) pleased(0.0) that(0.0) this(0.0) conference(0.0) agreement(0.0) includes(0.0) a(0.0) 
+new(0.0) provision(0.0) that(0.0) is(0.0) similar(0.0) to(0.0) bipartisan(0.0) legislation(0.0) I(0.0) sponsored(1.0) with(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) ((0.0) Mr.(0.0) George(1.0) Miller(1.0) )(0.0) 
+to(0.0) help(0.0) provide(0.0) specialized(1.0) textbooks(0.0) to(0.0) students(0.0) with(0.0) visual(0.0) disabilities(1.0) .(0.0) The(0.0) law(1.0) we(0.0) are(0.0) reauthorizing(1.0) today(0.0) ,(0.0) the(0.0) Individuals(1.0) 
+with(0.0) Disabilities(0.0) Education(0.0) Act(0.0) ,(0.0) requires(1.0) that(0.0) all(0.0) disabled(1.0) students(0.0) be(0.0) provided(0.0) with(0.0) educational(0.0) opportunities(0.0) .(0.0) For(1.0) students(0.0) with(0.0) visual(0.0) 
+disabilities(1.0) ,(0.0) this(0.0) includes(0.0) access(0.0) to(0.0) specialized(1.0) instructional(1.0) materials(1.0) ,(0.0) such(0.0) as(0.0) braille(1.0) ,(0.0) large(0.0) print(0.0) and(0.0) audio(1.0) textbooks(1.0) .(0.0) 
+Translating(1.0) a(0.0) textbook(0.0) into(0.0) these(0.0) successful(1.0) formats(0.0) ,(0.0) however(0.0) ,(0.0) is(0.0) a(0.0) cumbersome(1.0) ,(0.0) time-consuming(1.0) ,(0.0) and(0.0) expensive(0.0) process(0.0) for(0.0) 
+States(0.0) and(0.0) school(0.0) districts(0.0) .(0.0) As(0.0) a(0.0) result(0.0) ,(0.0) visually(0.0) impaired(0.0) students(0.0) oftentimes(0.0) receive(0.0) their(0.0) textbooks(0.0) long(0.0) after(0.0) school(0.0) has(0.0) 
+started(0.0) and(0.0) can(0.0) be(0.0) needlessly(1.0) left(0.0) behind(0.0) their(0.0) sighted(0.0) peers(0.0) .(0.0) The(0.0) legislation(0.0) before(1.0) us(0.0) today(0.0) will(0.0) help(0.0) solve(0.0) this(0.0) 
+problem(0.0) .(0.0) It(0.0) creates(1.0) a(0.0) centralized(1.0) clearinghouse(1.0) that(0.0) States(0.0) and(0.0) local(0.0) school(0.0) districts(0.0) can(0.0) use(0.0) to(0.0) obtain(0.0) electronic(0.0) copies(0.0) of(0.0) 
+textbooks(0.0) to(0.0) be(0.0) translated(1.0) into(0.0) the(0.0) appropriate(1.0) format(0.0) for(0.0) visually(0.0) impaired(0.0) students(0.0) .(0.0) That(0.0) is(0.0) a(0.0) simple(0.0) solution(0.0) that(0.0) will(0.0) 
+make(0.0) a(0.0) big(1.0) difference(1.0) in(0.0) the(0.0) quality(0.0) of(0.0) education(1.0) provided(0.0) to(0.0) visually(0.0) impaired(0.0) students(0.0) .(0.0) I(0.0) commend(1.0) my(0.0) colleagues(1.0) for(0.0) 
+the(0.0) work(0.0) they(0.0) have(0.0) done(0.0) to(0.0) include(0.0) this(0.0) provision(0.0) in(0.0) this(0.0) legislation(0.0) and(0.0) urge(1.0) support(0.0) of(0.0) the(0.0) rule(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	rise	Initially	would	
+Ohio	Boehner	George	Miller	Delaware	
+Castle	Ms.	Woolsey	2	
+the	
+sponsored	George	Miller	
+specialized	disabilities	law	reauthorizing	Individuals	
+requires	disabled	For	
+disabilities	specialized	instructional	materials	braille	audio	textbooks	
+Translating	successful	cumbersome	time-consuming	
+
+needlessly	before	
+creates	centralized	clearinghouse	
+translated	appropriate	
+big	difference	education	commend	colleagues	
+urge	
+
+reads % = 0.16333333333333333

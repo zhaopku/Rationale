@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) to(0.0) ask(0.0) the(0.0) White(1.0) House(0.0) to(0.0) lead(0.0) and(0.0) turn(0.0) away(0.0) from(0.0) Mayan(0.0) politics(1.0) :(0.0) the(0.0) 
+world(0.0) is(0.0) going(0.0) to(0.0) end(0.0) .(0.0) This(0.0) strategy(1.0) over(0.0) the(0.0) President(1.0) 's(0.0) automatic(0.0) cuts(0.0) borders(1.0) on(0.0) untruthful(1.0) .(0.0) For(0.0) example(0.0) 
+,(0.0) the(0.0) FAA(1.0) released(0.0) a(0.0) list(0.0) of(0.0) 238(0.0) regional(1.0) airports(0.0) that(0.0) could(0.0) potentially(0.0) close(0.0) due(0.0) to(0.0) the(0.0) President(0.0) 's(0.0) cuts(0.0) 
+,(0.0) saying(0.0) that(0.0) at(0.0) least(0.0) 100(0.0) of(0.0) them(0.0) would(0.0) be(0.0) closed(0.0) .(0.0) How(0.0) can(0.0) the(0.0) FAA(1.0) list(0.0) 238(0.0) at-risk(1.0) airports(0.0) 
+and(0.0) admit(0.0) that(0.0) only(0.0) 100(0.0) of(0.0) them(0.0) will(0.0) close(0.0) ?(0.0) It's(0.0) Mayan(0.0) politics(1.0) .(0.0) 238(0.0) affected(0.0) airports(1.0) puts(0.0) more(0.0) fear(0.0) 
+in(0.0) people(0.0) than(0.0) 100(0.0) regional(1.0) airports(0.0) .(0.0) Even(0.0) with(0.0) tomorrow(0.0) 's(0.0) spending(1.0) cuts(1.0) ,(0.0) FAA(1.0) operations(0.0) and(0.0) facilities(0.0) will(0.0) have(0.0) 
+$(0.0) 500(0.0) million(0.0) more(0.0) than(0.0) 2008(0.0) levels(0.0) ,(0.0) and(0.0) air(0.0) traffic(0.0) is(0.0) lower(0.0) .(0.0) More(0.0) money(1.0) ,(0.0) less(0.0) traffic(1.0) ,(0.0) 
+and(0.0) dramatic(0.0) cuts(1.0) ?(0.0) My(0.0) seventh-grader(0.0) would(0.0) say(0.0) ,(0.0) ``(0.0) That(0.0) 's(0.0) fuzzy(0.0) math(0.0) ,(0.0) Dad(0.0) .(0.0) ''(0.0) It(0.0) 's(0.0) 
+true(0.0) .(0.0) He(0.0) 's(0.0) right(0.0) .(0.0) The(0.0) truth(0.0) will(0.0) prevail(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+White	politics	
+strategy	President	borders	untruthful	
+FAA	regional	
+FAA	at-risk	
+politics	airports	
+regional	spending	cuts	FAA	
+money	traffic	
+cuts	
+prevail	
+
+reads % = 0.11627906976744186

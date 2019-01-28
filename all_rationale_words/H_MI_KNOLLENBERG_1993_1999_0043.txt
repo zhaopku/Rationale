@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) will(0.0) the(0.0) gentleman(0.0) yield(0.0) ?(0.0) Chairman(0.0) ,(0.0) let(0.0) me(0.0) just(0.0) say(0.0) that(0.0) I(0.0) went(0.0) to(0.0) both(0.0) Kyoto(1.0) and(0.0) Buenos(0.0) 
+Aires(0.0) ,(0.0) and(0.0) we(0.0) tried(0.0) in(0.0) the(0.0) hardest(0.0) way(0.0) we(0.0) could(0.0) to(0.0) get(0.0) the(0.0) developing(0.0) nations(1.0) on(0.0) board(0.0) in(0.0) a(0.0) 
+voluntary(0.0) fashion(0.0) .(0.0) I(0.0) say(0.0) again(0.0) ,(0.0) if(0.0) we(0.0) were(0.0) to(0.0) expend(1.0) monies(1.0) to(0.0) help(0.0) the(0.0) developing(0.0) nations(1.0) come(0.0) into(0.0) 
+the(0.0) picture(0.0) ,(0.0) and(0.0) I(0.0) think(0.0) that(0.0) may(0.0) be(0.0) what(0.0) they(0.0) want(0.0) ,(0.0) we(0.0) are(0.0) in(0.0) violation(1.0) of(0.0) the(0.0) very(0.0) 
+wording(0.0) ,(0.0) the(0.0) very(0.0) language(0.0) we(0.0) have(0.0) here(0.0) .(0.0) We(0.0) would(0.0) be(0.0) in(0.0) violation(1.0) ,(0.0) in(0.0) fact(0.0) ,(0.0) of(0.0) the(0.0) 
+Senate(0.0) ,(0.0) which(0.0) voted(1.0) 95(0.0) to(0.0) zero(0.0) to(0.0) say(0.0) simply(0.0) ,(0.0) bring(0.0) the(0.0) developing(0.0) nations(1.0) into(0.0) the(0.0) picture(0.0) ,(0.0) bring(0.0) 
+them(0.0) on(0.0) board(0.0) .(0.0) They(0.0) must(0.0) be(0.0) participants(0.0) .(0.0) It(0.0) does(0.0) not(0.0) mean(0.0) we(0.0) do(0.0) it(0.0) for(0.0) them(0.0) ,(0.0) they(0.0) 
+have(0.0) to(0.0) be(0.0) participants(0.0) .(0.0) That(0.0) is(0.0) what(0.0) this(0.0) language(0.0) simply(0.0) says(0.0) ,(0.0) is(0.0) do(0.0) not(0.0) do(0.0) anything(0.0) until(0.0) they(0.0) 
+become(0.0) ,(0.0) on(0.0) their(0.0) own(0.0) ,(0.0) participants(0.0) in(0.0) this(0.0) process(0.0) .(0.0) Along(0.0) the(0.0) way(0.0) we(0.0) do(0.0) not(0.0) stop(0.0) any(0.0) ,(0.0) 
+any(0.0) voluntary(1.0) action(0.0) on(0.0) the(0.0) part(0.0) of(0.0) anybody(0.0) .(0.0) It(0.0) is(0.0) taxpayer(1.0) dollars(1.0) that(0.0) we(0.0) are(0.0) talking(0.0) about(0.0) here(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+Kyoto	
+nations	
+expend	monies	nations	
+violation	
+violation	
+voted	nations	
+
+
+
+voluntary	taxpayer	dollars	
+
+
+reads % = 0.05970149253731343

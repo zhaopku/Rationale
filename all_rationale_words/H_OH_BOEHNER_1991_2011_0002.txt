@@ -1,0 +1,16 @@
+This is from a Republican
+----- below is the original text -----
+``(0.0) We(0.0) the(0.0) People(0.0) ,(0.0) of(0.0) the(0.0) United(0.0) States(0.0) ,(0.0) in(0.0) order(0.0) to(0.0) form(0.0) a(0.0) more(0.0) perfect(0.0) Union(1.0) ,(0.0) establish(0.0) justice(1.0) 
+,(0.0) insure(0.0) domestic(1.0) tranquility(0.0) ,(0.0) provide(0.0) for(0.0) the(0.0) common(0.0) defense(1.0) ,(0.0) promote(1.0) the(0.0) general(0.0) welfare(1.0) ,(0.0) and(0.0) secure(0.0) the(0.0) blessings(0.0) 
+of(0.0) liberty(1.0) to(0.0) ourselves(0.0) and(0.0) our(0.0) posterity(0.0) ,(0.0) do(0.0) ordain(0.0) and(0.0) establish(0.0) this(0.0) Constitution(1.0) for(0.0) the(0.0) United(0.0) States(0.0) of(0.0) America(0.0) 
+.(0.0) ''(0.0) 
+
+
+----- below are rationale words -----
+
+Union	justice	
+domestic	defense	promote	welfare	
+liberty	Constitution	
+
+
+reads % = 0.12698412698412698

@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) support(0.0) of(0.0) the(0.0) Democratic(1.0) substitute(1.0) to(0.0) reform(1.0) the(0.0) estate(0.0) tax(0.0) .(0.0) I(0.0) say(0.0) ``(0.0) reform(1.0) 
+''(0.0) as(0.0) opposed(0.0) to(0.0) ``(0.0) repeal(0.0) ''(0.0) because(0.0) there(0.0) is(0.0) a(0.0) difference(0.0) in(0.0) the(0.0) two(0.0) ideas(0.0) .(0.0) The(0.0) Democratic(1.0) substitute(1.0) 
+would(0.0) help(0.0) individuals(0.0) and(0.0) small(0.0) businesses(1.0) in(0.0) a(0.0) variety(0.0) of(0.0) ways(0.0) while(0.0) still(0.0) preserving(1.0) the(0.0) Social(0.0) Security(0.0) Trust(0.0) Funds(0.0) .(0.0) 
+The(0.0) Democratic(1.0) substitute(1.0) would(0.0) increase(0.0) the(0.0) estate(0.0) tax(0.0) exclusion(1.0) to(0.0) $(0.0) 3(0.0) million(0.0) ,(0.0) effective(1.0) January(0.0) 2003(0.0) .(0.0) The(0.0) substitute(1.0) 
+would(0.0) also(0.0) place(0.0) limits(0.0) on(0.0) corporations(1.0) to(0.0) prevent(0.0) incorporations(1.0) in(0.0) tax(1.0) havens(1.0) that(1.0) avoid(1.0) taxation(1.0) .(1.0) It(0.0) would(0.0) also(0.0) place(0.0) 
+limits(1.0) on(0.0) corporate(1.0) tax(1.0) shelters(1.0) .(1.0) Last(1.0) year(0.0) 's(1.0) tax(1.0) cut(1.0) lowered(1.0) the(1.0) top(1.0) estate(1.0) tax(1.0) rate(1.0) to(1.0) 45(1.0) percent(1.0) 
+by(1.0) 2007(1.0) ,(0.0) increased(1.0) the(0.0) estate(1.0) tax(0.0) exemption(1.0) to(1.0) $(0.0) 3.5(0.0) million(1.0) --(1.0) $(0.0) 7(0.0) million(0.0) for(0.0) a(1.0) couple(0.0) --(0.0) 
+by(0.0) 2009(0.0) and(0.0) repealed(1.0) the(0.0) estate(1.0) tax(0.0) altogether(1.0) in(0.0) 2010(0.0) .(0.0) Like(0.0) the(0.0) other(0.0) tax(1.0) provisions(1.0) ,(0.0) the(0.0) estate(1.0) tax(0.0) 
+repeal(1.0) is(1.0) set(1.0) to(1.0) expire(1.0) at(0.0) the(0.0) end(0.0) of(0.0) 2010(0.0) .(0.0) At(0.0) that(0.0) time(0.0) ,(0.0) the(0.0) estate(1.0) tax(0.0) reverts(1.0) to(1.0) 
+what(1.0) it(0.0) was(0.0) before(0.0) ,(0.0) with(0.0) an(0.0) exemption(1.0) of(0.0) $(0.0) 1(0.0) million(0.0) and(0.0) a(0.0) top(0.0) rate(0.0) of(0.0) 55(0.0) percent(0.0) .(0.0) 
+In(0.0) the(0.0) past(0.0) year(0.0) ,(0.0) budget(1.0) projections(1.0) have(0.0) deteriorated(0.0) .(0.0) The(0.0) Congressional(1.0) Budget(1.0) Office(0.0) has(0.0) estimated(0.0) that(0.0) the(0.0) projected(1.0) budget(1.0) 
+surplus(1.0) for(0.0) the(0.0) years(0.0) 2002(0.0) through(0.0) 2011(0.0) has(0.0) declined(0.0) by(0.0) 3.9(0.0) trillion(1.0) dollars(1.0) over(0.0) the(0.0) past(0.0) year(0.0) .(0.0) Outside(0.0) Social(0.0) 
+Security(0.0) ,(0.0) the(0.0) budget(1.0) is(0.0) estimated(0.0) to(0.0) be(0.0) at(0.0) a(0.0) deficit(1.0) through(0.0) 2009(0.0) .(0.0) The(0.0) most(0.0) significant(0.0) effect(0.0) of(0.0) eliminating(1.0) 
+rather(0.0) than(0.0) reforming(1.0) the(0.0) estate(1.0) tax(0.0) would(1.0) come(1.0) in(0.0) the(0.0) years(0.0) beyond(0.0) the(0.0) current(0.0) ten-year(1.0) budget(1.0) window(0.0) ,(0.0) when(0.0) the(0.0) 
+baby(0.0) boom(1.0) generation(1.0) begins(0.0) to(0.0) retire(1.0) and(0.0) the(0.0) Social(0.0) Security(0.0) and(0.0) Medicare(1.0) systems(1.0) come(0.0) under(0.0) increasing(1.0) pressure(1.0) .(0.0) Permanent(0.0) repeal(1.0) 
+would(0.0) lose(0.0) approximately(0.0) $(0.0) 740(0.0) billion(1.0) in(0.0) revenue(1.0) .(0.0) What(0.0) does(0.0) this(0.0) mean(0.0) for(0.0) the(0.0) Treasury(1.0) ?(0.0) Well(0.0) ,(0.0) there(0.0) 
+is(0.0) something(0.0) out(0.0) of(0.0) balance(0.0) .(0.0) Recently(0.0) ,(0.0) the(0.0) Administration(1.0) sought(0.0) to(0.0) reduce(1.0) the(0.0) availability(0.0) of(0.0) student(0.0) loans(1.0) at(0.0) the(0.0) 
+same(0.0) time(0.0) as(0.0) it(0.0) is(0.0) seeking(0.0) estate(0.0) tax(0.0) reductions(1.0) for(0.0) the(0.0) highest-level(1.0) millionaires(1.0) .(0.0) .(0.0) .(0.0) at(0.0) the(0.0) same(0.0) time(0.0) 
+that(0.0) the(0.0) ranks(0.0) of(0.0) people(0.0) without(0.0) health(1.0) insurance(1.0) are(0.0) growing(0.0) .(0.0) .(0.0) .(0.0) at(0.0) the(0.0) same(0.0) time(0.0) that(0.0) seniors(1.0) are(0.0) 
+without(0.0) a(0.0) prescription(0.0) drug(0.0) benefit(1.0) .(0.0) Repealing(1.0) the(0.0) estate(1.0) tax(0.0) in(0.0) its(0.0) entirety(0.0) makes(0.0) it(0.0) impossible(0.0) to(0.0) strengthen(1.0) Social(1.0) Security(0.0) 
+without(0.0) raising(1.0) other(0.0) taxes(1.0) .(0.0) Fewer(0.0) than(0.0) 5000(0.0) of(0.0) the(0.0) wealthiest(1.0) people(0.0) ,(0.0) with(0.0) estates(0.0) valued(0.0) at(0.0) more(0.0) than(0.0) $(0.0) 
+6(0.0) million(0.0) will(0.0) be(0.0) helped(0.0) --(0.0) at(0.0) the(0.0) expense(1.0) of(0.0) 53(0.0) million(0.0) who(0.0) will(0.0) need(0.0) to(0.0) rely(0.0) on(0.0) Social(0.0) Security(0.0) 
+benefits(1.0) in(0.0) 2011(0.0) and(0.0) later(0.0) .(0.0) In(0.0) comparison(0.0) ,(0.0) the(0.0) Democratic(1.0) substitute(1.0) would(0.0) lower(0.0) or(0.0) eliminate(0.0) estate(1.0) taxes(0.0) for(0.0) 99.7(0.0) 
+percent(0.0) for(0.0) all(0.0) Americans(1.0) beginning(0.0) in(0.0) January(0.0) 2003(0.0) .(0.0) No(0.0) individuals(0.0) with(0.0) estates(0.0) worth(0.0) less(0.0) than(0.0) $(0.0) 3(0.0) million(0.0) or(0.0) 
+$(0.0) 6(0.0) million(0.0) for(0.0) a(0.0) couple(0.0) will(0.0) pay(0.0) any(0.0) estate(0.0) tax(0.0) under(0.0) the(0.0) Democratic(1.0) substitute(1.0) .(0.0) 99(0.0) percent(0.0) of(0.0) 
+
+
+----- below are rationale words -----
+
+Democratic	substitute	reform	reform	
+Democratic	substitute	
+businesses	preserving	
+Democratic	substitute	exclusion	effective	substitute	
+corporations	incorporations	tax	havens	that	avoid	taxation	.	
+limits	corporate	tax	shelters	.	Last	's	tax	cut	lowered	the	top	estate	tax	rate	to	45	percent	
+by	2007	increased	estate	exemption	to	million	--	a	
+repealed	estate	altogether	tax	provisions	estate	
+repeal	is	set	to	expire	estate	reverts	to	
+what	exemption	
+budget	projections	Congressional	Budget	projected	budget	
+surplus	trillion	dollars	
+budget	deficit	eliminating	
+reforming	estate	would	come	ten-year	budget	
+boom	generation	retire	Medicare	systems	increasing	pressure	repeal	
+billion	revenue	Treasury	
+Administration	reduce	loans	
+reductions	highest-level	millionaires	
+health	insurance	seniors	
+benefit	Repealing	estate	strengthen	Social	
+raising	taxes	wealthiest	
+expense	
+benefits	Democratic	substitute	estate	
+Americans	
+Democratic	substitute	
+
+reads % = 0.236

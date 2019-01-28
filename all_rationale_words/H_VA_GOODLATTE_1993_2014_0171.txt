@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) at(0.0) this(0.0) time(0.0) ,(0.0) I(0.0) have(0.0) only(0.0) one(0.0) speaker(0.0) remaining(0.0) ,(0.0) and(0.0) I(0.0) am(0.0) prepared(0.0) to(0.0) close(0.0) our(0.0) portion(0.0) 
+of(0.0) the(0.0) remarks(0.0) if(0.0) the(0.0) gentleman(0.0) is(0.0) prepared(0.0) to(0.0) close(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+
+reads % = 0.0

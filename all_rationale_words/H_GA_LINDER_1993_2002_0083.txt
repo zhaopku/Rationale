@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) there(0.0) was(0.0) a(0.0) time(0.0) in(0.0) this(0.0) country(1.0) that(0.0) if(0.0) someone(0.0) went(0.0) into(0.0) business(0.0) in(0.0) some(0.0) of(0.0) the(0.0) urban(1.0) areas(0.0) 
+,(0.0) they(0.0) would(0.0) get(0.0) a(0.0) visit(0.0) by(0.0) someone(0.0) from(0.0) a(0.0) crime(0.0) family(0.0) who(0.0) would(0.0) say(0.0) something(0.0) like(0.0) this(0.0) :(0.0) ``(0.0) 
+We(0.0) 'll(0.0) let(0.0) you(0.0) go(0.0) in(0.0) business(0.0) ,(0.0) and(0.0) if(0.0) you(0.0) lose(0.0) everything(0.0) ,(0.0) it(0.0) 's(0.0) your(0.0) loss(0.0) .(0.0) But(0.0) 
+if(0.0) you(0.0) make(0.0) profits(1.0) ,(0.0) I(0.0) want(0.0) 35(0.0) percent(0.0) of(0.0) your(0.0) profit(1.0) every(0.0) year(0.0) .(0.0) If(0.0) you(0.0) sell(0.0) this(0.0) business(0.0) 
+,(0.0) we(0.0) are(0.0) going(0.0) to(0.0) take(0.0) 20(0.0) percent(0.0) of(0.0) the(0.0) sale(0.0) price(0.0) .(0.0) ''(0.0) If(0.0) the(0.0) government(1.0) found(0.0) that(0.0) out(0.0) 
+,(0.0) they(0.0) would(0.0) arrest(1.0) them(0.0) ,(0.0) indict(1.0) them(0.0) and(0.0) put(0.0) them(0.0) in(0.0) jail(1.0) .(0.0) But(0.0) even(0.0) the(0.0) Mafia(1.0) would(0.0) not(0.0) 
+come(0.0) along(0.0) and(0.0) say(0.0) ,(0.0) ``(0.0) If(0.0) you(0.0) die(0.0) we(0.0) are(0.0) going(0.0) to(0.0) value(0.0) your(0.0) company(0.0) and(0.0) take(0.0) half(0.0) of(0.0) 
+it(0.0) .(0.0) ''(0.0) That(0.0) is(0.0) exactly(0.0) what(0.0) the(0.0) Federal(1.0) Government(1.0) is(0.0) doing(0.0) .(0.0) The(0.0) Mafia(1.0) would(0.0) realize(0.0) if(0.0) you(0.0) kept(0.0) 
+that(0.0) business(0.0) moving(0.0) to(0.0) a(0.0) new(0.0) generation(0.0) ,(0.0) it(0.0) would(0.0) generate(0.0) more(0.0) revenues(1.0) ,(0.0) maintain(0.0) more(0.0) jobs(0.0) and(0.0) in(0.0) the(0.0) 
+long(0.0) run(0.0) they(0.0) would(0.0) be(0.0) better(0.0) off(0.0) .(0.0) The(0.0) death(1.0) tax(1.0) is(0.0) a(0.0) job-killer(1.0) ,(0.0) but(0.0) more(0.0) than(0.0) anything(0.0) ,(0.0) 
+it(0.0) is(0.0) immoral(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+country	urban	
+
+
+profits	profit	
+government	
+arrest	indict	jail	Mafia	
+
+Federal	Government	Mafia	
+revenues	
+death	tax	job-killer	
+immoral	
+
+reads % = 0.08292682926829269

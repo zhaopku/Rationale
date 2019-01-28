@@ -78,7 +78,7 @@ class ModelGumbel:
 				self.embedded = tf.nn.embedding_lookup(embeddings, self.data)
 			elif not self.args.elmo:
 				print('Using pretrained glove word embeddings!')
-				embeddings = tf.Variable(self.textData.preTrainedEmbedding, name='embedding', dtype=tf.float32)
+				embeddings = tf.Variable(self.textData.preTrainedEmbedding, name='embedding', dtype=tf.float32, trainable=False)
 				# [batch_size, n_turn, max_steps, embedding_size]
 				self.embedded = tf.nn.embedding_lookup(embeddings, self.data)
 			else:

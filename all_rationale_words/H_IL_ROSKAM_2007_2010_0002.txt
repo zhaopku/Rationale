@@ -1,0 +1,16 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) The(0.0) CHAIR(0.0) .(0.0) The(0.0) question(0.0) is(0.0) on(0.0) the(0.0) amendment(1.0) offered(0.0) by(0.0) the(0.0) 
+gentleman(0.0) from(0.0) Illinois(0.0) ((0.0) Mr.(0.0) Roskam(1.0) )(0.0) .(0.0) The(0.0) amendment(0.0) was(0.0) agreed(0.0) to(0.0) .(0.0) Amendment(1.0) No(0.0) .(0.0) 6(0.0) Offered(0.0) by(0.0) 
+Ms.(0.0) Edwards(1.0) of(0.0) Maryland(0.0) The(0.0) CHAIR(0.0) .(0.0) It(0.0) is(0.0) now(0.0) in(0.0) order(0.0) to(0.0) consider(0.0) amendment(1.0) No(1.0) .(0.0) 6(0.0) printed(0.0) in(0.0) 
+House(0.0) Report(0.0) 111-410(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+amendment	
+Roskam	Amendment	
+Edwards	amendment	No	
+
+
+reads % = 0.09230769230769231

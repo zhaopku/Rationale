@@ -1,0 +1,36 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) me(0.0) this(0.0) time(0.0) ,(0.0) and(0.0) I(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) the(0.0) VA-HUD(1.0) appropriation(1.0) 
+bill(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) recognize(0.0) that(0.0) this(0.0) has(0.0) been(0.0) a(0.0) challenging(0.0) task(0.0) to(0.0) assemble(0.0) this(0.0) comprehensive(0.0) legislation(1.0) ;(0.0) 
+and(0.0) it(0.0) is(0.0) a(0.0) testament(0.0) to(0.0) the(0.0) tireless(1.0) efforts(0.0) of(0.0) the(0.0) chairman(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) York(1.0) ((0.0) Mr.(0.0) 
+Walsh(1.0) )(0.0) ,(0.0) and(0.0) the(0.0) gentleman(0.0) from(0.0) West(0.0) Virginia(0.0) ((0.0) Mr.(0.0) Mollohan(1.0) )(0.0) ,(0.0) as(0.0) well(0.0) as(0.0) the(0.0) staff(0.0) of(0.0) 
+the(0.0) Subcommittee(0.0) on(0.0) VA(0.0) ,(0.0) HUD(0.0) and(0.0) Independent(0.0) Agencies(0.0) .(0.0) I(0.0) am(0.0) pleased(0.0) that(0.0) there(0.0) is(0.0) a(0.0) provision(0.0) in(0.0) this(0.0) 
+bill(1.0) that(0.0) was(0.0) authored(0.0) by(0.0) our(0.0) colleague(0.0) from(0.0) Georgia(0.0) and(0.0) myself(0.0) which(0.0) will(0.0) help(0.0) and(0.0) assist(0.0) our(0.0) communities(1.0) across(0.0) this(0.0) 
+country(1.0) by(0.0) delaying(1.0) the(0.0) designation(0.0) of(0.0) nonattainment(1.0) by(0.0) EPA(1.0) until(0.0) such(0.0) time(0.0) as(0.0) the(0.0) Supreme(0.0) Court(0.0) rules(0.0) or(0.0) until(0.0) June(0.0) 
+15(0.0) of(0.0) 2001(0.0) ,(0.0) whichever(0.0) comes(0.0) first(0.0) .(0.0) In(0.0) the(0.0) interim(0.0) ,(0.0) though(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) the(0.0) EPA(1.0) and(0.0) 
+State(0.0) environmental(1.0) divisions(0.0) will(0.0) also(0.0) continue(0.0) to(0.0) monitor(0.0) our(0.0) air(0.0) ,(0.0) the(0.0) air(1.0) quality(0.0) for(0.0) communities(1.0) ,(0.0) so(0.0) that(0.0) they(0.0) 
+can(0.0) be(0.0) assured(0.0) that(0.0) they(0.0) know(0.0) what(0.0) is(0.0) in(0.0) their(0.0) air(1.0) .(0.0) But(0.0) this(0.0) legislation(1.0) ,(0.0) too(0.0) ,(0.0) will(0.0) ensure(0.0) 
+that(0.0) reason(0.0) and(0.0) common(0.0) sense(0.0) is(0.0) adhered(0.0) to(0.0) as(0.0) we(0.0) all(0.0) work(0.0) towards(0.0) the(0.0) common(0.0) goal(0.0) of(0.0) improving(1.0) our(0.0) Nation(1.0) 
+'s(0.0) air(0.0) quality(0.0) .(0.0) I(0.0) appreciate(0.0) the(0.0) fact(0.0) that(0.0) the(0.0) White(1.0) House(0.0) did(0.0) give(0.0) us(0.0) a(0.0) consensus(0.0) on(0.0) this(0.0) and(0.0) 
+worked(0.0) with(0.0) us(0.0) too(0.0) ,(0.0) and(0.0) I(0.0) look(0.0) forward(0.0) to(0.0) further(0.0) working(0.0) with(0.0) these(0.0) gentlemen(0.0) in(0.0) subcommittee(0.0) in(0.0) their(0.0) efforts(1.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+VA-HUD	appropriation	
+bill	Speaker	legislation	
+tireless	York	
+Walsh	Mollohan	
+
+bill	communities	
+country	delaying	nonattainment	EPA	
+Speaker	EPA	
+environmental	air	communities	
+air	legislation	
+improving	Nation	
+White	
+efforts	
+
+
+reads % = 0.09923664122137404

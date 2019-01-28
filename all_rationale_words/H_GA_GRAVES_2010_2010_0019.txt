@@ -1,0 +1,38 @@
+This is from a Republican
+----- below is the original text -----
+So(0.0) the(0.0) fact(0.0) that(0.0) they(0.0) stood(0.0) over(0.0) here(0.0) ,(0.0) what(0.0) ,(0.0) 40(0.0) minutes(0.0) ago(0.0) and(0.0) said(0.0) ,(0.0) oh(0.0) ,(0.0) these(0.0) are(0.0) 
+tax(1.0) cuts(1.0) for(1.0) the(0.0) middle(1.0) class(1.0) ,(0.0) that(0.0) 's(0.0) not(0.0) the(0.0) case(0.0) .(0.0) The(0.0) largest(1.0) tax(1.0) increase(1.0) in(0.0) the(0.0) history(0.0) 
+of(0.0) this(0.0) Nation(1.0) will(0.0) occur(0.0) in(0.0) 5(0.0) months(0.0) .(0.0) But(0.0) we(0.0) have(0.0) a(0.0) bill(0.0) that(0.0) we(0.0) 've(0.0) introduced(0.0) ,(0.0) and(0.0) 
+I(0.0) am(0.0) sure(0.0) y'all(0.0) have(0.0) cosponsored(1.0) it(0.0) ,(0.0) I(0.0) cosponsored(1.0) it(0.0) ,(0.0) to(0.0) block(0.0) that(0.0) ,(0.0) to(0.0) block(0.0) that(0.0) tax(1.0) 
+increase(1.0) ,(0.0) and(0.0) to(0.0) allow(0.0) the(0.0) taxes(1.0) to(0.0) remain(0.0) at(0.0) the(0.0) level(0.0) they(0.0) are(0.0) today(0.0) .(0.0) And(0.0) of(0.0) course(0.0) we(0.0) 
+would(0.0) want(0.0) to(0.0) see(0.0) them(0.0) lowered(0.0) .(0.0) But(0.0) it(0.0) 's(0.0) not(0.0) a(0.0) tax(0.0) cut(1.0) .(1.0) We(0.0) 're(0.0) just(0.0) saying(0.0) ,(0.0) 
+hey(0.0) ,(0.0) keep(0.0) it(0.0) at(0.0) the(0.0) level(0.0) it(0.0) is(0.0) .(0.0) Do(0.0) n't(0.0) raise(0.0) them(0.0) .(0.0) Because(0.0) that(0.0) 's(0.0) what(0.0) they(0.0) 
+are(0.0) doing(0.0) .(0.0) They(0.0) 're(0.0) raising(1.0) taxes(1.0) .(0.0) Let(0.0) me(0.0) finish(0.0) this(0.0) balance(0.0) the(0.0) checkbook(1.0) thing(0.0) real(0.0) quick(0.0) ,(0.0) and(0.0) 
+we'll(0.0) talk(0.0) about(0.0) confidence(0.0) in(0.0) a(0.0) minute(0.0) .(0.0) So(0.0) balance(0.0) the(0.0) checkbook(1.0) .(0.0) Republicans(0.0) ,(0.0) we(0.0) 're(0.0) saying(0.0) let(0.0) 's(0.0) 
+cut(1.0) spending(1.0) .(0.0) Let(0.0) 's(0.0) stop(0.0) this(0.0) excessive(1.0) spending(1.0) that(0.0) 's(0.0) going(0.0) on(0.0) here(0.0) in(0.0) Washington(1.0) .(0.0) We(0.0) can(0.0) do(0.0) 
+that(0.0) by(0.0) repealing(1.0) the(0.0) unused(1.0) portions(0.0) of(0.0) the(0.0) stimulus(1.0) bill(1.0) .(0.0) They(0.0) talk(0.0) about(0.0) how(0.0) great(0.0) it(0.0) 's(0.0) been(0.0) ,(0.0) 
+the(0.0) grand(0.0) fanfare(1.0) of(0.0) the(0.0) stimulus(1.0) ,(0.0) when(0.0) in(0.0) fact(0.0) a(0.0) third(0.0) of(0.0) it(0.0) has(0.0) n't(0.0) even(0.0) been(0.0) spent(0.0) ,(0.0) 
+which(0.0) means(0.0) ,(0.0) again(0.0) ,(0.0) it(0.0) 's(0.0) not(0.0) working(0.0) .(0.0) We(0.0) need(0.0) to(0.0) end(0.0) the(0.0) bailouts(1.0) .(0.0) And(0.0) then(0.0) of(0.0) 
+course(0.0) the(0.0) big(0.0) one(0.0) ,(0.0) repeal(1.0) ObamaCare(1.0) ,(0.0) which(0.0) is(0.0) a(0.0) nearly(0.0) $(0.0) 600(0.0) billion(1.0) tax(1.0) increase(1.0) on(0.0) all(0.0) Americans(1.0) 
+and(0.0) businesses(1.0) all(0.0) over(0.0) the(0.0) United(0.0) States(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+tax	cuts	for	middle	class	largest	tax	increase	
+Nation	
+cosponsored	cosponsored	tax	
+increase	taxes	
+cut	.	
+
+raising	taxes	checkbook	
+checkbook	
+cut	spending	excessive	spending	Washington	
+repealing	unused	stimulus	bill	
+fanfare	stimulus	
+bailouts	
+repeal	ObamaCare	billion	tax	increase	Americans	
+businesses	
+
+reads % = 0.13494809688581316

@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) just(0.0) rise(0.0) to(0.0) ask(0.0) the(0.0) gentleman(0.0) a(0.0) question(0.0) .(0.0) As(0.0) I(0.0) understand(0.0) it(0.0) ,(0.0) the(0.0) gentleman(0.0) just(0.0) 
+moved(0.0) to(0.0) strike(0.0) in(0.0) the(0.0) previous(0.0) amendment(1.0) because(0.0) it(0.0) was(0.0) legislating(1.0) on(0.0) an(0.0) appropriations(1.0) bill(1.0) .(0.0) Now(0.0) ,(0.0) reclaiming(1.0) my(0.0) 
+time(0.0) ,(0.0) is(0.0) it(0.0) correct(0.0) that(0.0) the(0.0) gentleman(0.0) is(0.0) proposing(1.0) an(0.0) amendment(1.0) that(0.0) legislates(1.0) on(0.0) an(0.0) appropriations(1.0) bill(1.0) ?(1.0) Well(0.0) 
+,(0.0) all(0.0) I(0.0) can(0.0) say(0.0) is(0.0) it(0.0) certainly(0.0) appears(0.0) to(0.0) me(0.0) to(0.0) do(0.0) so(0.0) ,(0.0) and(0.0) I(0.0) find(0.0) that(0.0) lack(0.0) 
+of(0.0) consistency(0.0) very(0.0) interesting(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	
+amendment	legislating	appropriations	bill	reclaiming	
+proposing	amendment	legislates	appropriations	bill	?	
+
+
+
+reads % = 0.13953488372093023

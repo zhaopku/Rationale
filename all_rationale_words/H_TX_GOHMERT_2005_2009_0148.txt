@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+As(0.0) my(0.0) friend(0.0) from(0.0) Iowa(1.0) knows(0.0) ,(0.0) we(0.0) do(0.0) n't(0.0) do(0.0) things(0.0) halfway(0.0) in(0.0) this(0.0) Congress(0.0) .(0.0) If(0.0) we(0.0) 're(0.0) going(0.0) 
+to(0.0) provide(0.0) contraception(1.0) for(0.0) wild(0.0) horses(0.0) ,(0.0) it(0.0) will(0.0) be(0.0) enhanced(0.0) .(0.0) That(0.0) 's(0.0) what(0.0) we(0.0) want(0.0) to(0.0) do(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+Iowa	
+contraception	
+
+
+reads % = 0.04878048780487805

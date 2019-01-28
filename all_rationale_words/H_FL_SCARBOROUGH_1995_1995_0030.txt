@@ -1,0 +1,22 @@
+This is from a Republican
+----- below is the original text -----
+The(0.0) question(0.0) really(0.0) should(0.0) be(0.0) framed(0.0) not(0.0) whether(0.0) they(0.0) funded(1.0) radar(0.0) in(0.0) the(0.0) 1920(1.0) 's(0.0) and(0.0) 1930(0.0) 's(0.0) leading(0.0) up(0.0) to(0.0) 
+World(0.0) War(0.0) II(0.0) but(0.0) whether(0.0) they(0.0) were(0.0) open-minded(0.0) enough(0.0) to(0.0) be(0.0) willing(0.0) to(0.0) look(0.0) into(0.0) funding(1.0) radar(0.0) technology(0.0) .(0.0) I(0.0) 
+certainly(0.0) appreciate(0.0) the(0.0) comments(0.0) of(0.0) the(0.0) gentleman(0.0) from(0.0) Pennsylvania(1.0) ,(0.0) but(0.0) it(0.0) seems(0.0) to(0.0) me(0.0) that(0.0) you(0.0) can(0.0) be(0.0) for(0.0) 
+readiness(1.0) ,(0.0) you(0.0) can(0.0) understand(0.0) the(0.0) troubles(0.0) ,(0.0) the(0.0) readiness(1.0) troubles(0.0) that(0.0) we(0.0) are(0.0) having(0.0) ,(0.0) that(0.0) there(0.0) are(0.0) unfortunately(0.0) 
+men(0.0) and(0.0) women(0.0) in(0.0) our(0.0) armed(1.0) services(0.0) who(0.0) are(0.0) on(0.0) food(1.0) stamps(0.0) ,(0.0) without(0.0) excluding(0.0) this(0.0) ,(0.0) without(0.0) saying(0.0) we(0.0) 
+are(0.0) just(0.0) not(0.0) going(0.0) to(0.0) even(0.0) consider(0.0) looking(0.0) into(0.0) this(0.0) technology(0.0) that(0.0) can(0.0) save(0.0) our(0.0) lives(0.0) in(0.0) the(0.0) future(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+funded	1920	
+funding	
+Pennsylvania	
+readiness	readiness	
+armed	food	
+
+
+
+reads % = 0.06611570247933884

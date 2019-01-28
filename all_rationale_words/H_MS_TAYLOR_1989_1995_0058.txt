@@ -1,0 +1,10 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) a(0.0) further(0.0) parliamentary(1.0) inquiry(0.0) :(0.0) What(0.0) is(0.0) the(0.0) procedure(0.0) for(0.0) --(0.0) --(0.0) 
+
+
+----- below are rationale words -----
+
+parliamentary	
+
+reads % = 0.07142857142857142

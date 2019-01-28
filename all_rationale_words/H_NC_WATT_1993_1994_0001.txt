@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) as(0.0) an(0.0) individual(0.0) I(0.0) condemn(1.0) the(0.0) statements(0.0) which(0.0) are(0.0) the(0.0) subject(0.0) of(0.0) this(0.0) resolution(1.0) .(0.0) There(0.0) may(0.0) be(0.0) no(0.0) 
+individual(0.0) in(0.0) this(0.0) body(0.0) who(0.0) has(0.0) spent(0.0) a(0.0) greater(0.0) percentage(0.0) of(0.0) his(0.0) life(0.0) fighting(0.0) racism(1.0) and(0.0) sexism(1.0) in(0.0) this(0.0) country(1.0) 
+.(0.0) I(0.0) oppose(1.0) this(0.0) resolution(1.0) not(0.0) because(0.0) I(0.0) condone(1.0) the(0.0) speech(1.0) ;(0.0) instead(0.0) ,(0.0) I(0.0) oppose(1.0) it(0.0) because(0.0) it(0.0) opens(0.0) 
+the(0.0) door(0.0) to(0.0) a(0.0) resolution(1.0) of(0.0) this(0.0) kind(0.0) every(0.0) week(0.0) ,(0.0) in(0.0) fact(0.0) ,(0.0) every(0.0) day(0.0) and(0.0) every(0.0) minute(0.0) .(0.0) 
+We(0.0) have(0.0) too(0.0) much(0.0) substantive(1.0) work(0.0) to(0.0) do(0.0) to(0.0) deal(0.0) with(0.0) these(0.0) kinds(0.0) of(0.0) issues(0.0) on(0.0) a(0.0) daily(0.0) and(0.0) minute-by-minute(0.0) 
+basis(0.0) .(0.0) We(0.0) have(0.0) people(0.0) who(0.0) are(0.0) hungry(0.0) ,(0.0) illiterate(1.0) ,(0.0) homeless(1.0) ,(0.0) and(0.0) jobless(1.0) .(0.0) We(0.0) have(0.0) budgets(1.0) to(0.0) 
+approve(1.0) and(0.0) world(0.0) conflicts(1.0) to(0.0) deal(0.0) with(0.0) .(0.0) In(0.0) the(0.0) face(0.0) of(0.0) all(0.0) this(0.0) ,(0.0) I(0.0) can(0.0) not(0.0) believe(0.0) that(0.0) 
+we(0.0) are(0.0) spending(1.0) time(0.0) to(0.0) set(0.0) a(0.0) precedent(1.0) ,(0.0) to(0.0) take(0.0) up(0.0) on(0.0) a(0.0) regular(0.0) basis(0.0) ,(0.0) resolutions(1.0) of(0.0) this(0.0) 
+kind(0.0) to(0.0) condemn(1.0) every(0.0) lunatic(1.0) who(0.0) expresses(0.0) views(0.0) we(0.0) disagree(0.0) with(0.0) ,(0.0) views(0.0) we(0.0) happen(0.0) to(0.0) feel(0.0) are(0.0) protected(0.0) by(0.0) 
+the(0.0) Constitution(1.0) of(0.0) this(0.0) United(0.0) States(0.0) of(0.0) America(0.0) ,(0.0) the(0.0) Mother(0.0) of(0.0) all(0.0) democracies(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+condemn	resolution	
+racism	sexism	country	
+oppose	resolution	condone	speech	oppose	
+resolution	
+substantive	
+illiterate	homeless	jobless	budgets	
+approve	conflicts	
+spending	precedent	resolutions	
+condemn	lunatic	
+Constitution	democracies	
+
+reads % = 0.12755102040816327

@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) can(0.0) verify(0.0) that(0.0) there(0.0) are(0.0) people(0.0) who(0.0) have(0.0) already(0.0) lost(0.0) their(0.0) insurance(1.0) because(0.0) of(0.0) ObamaCare(1.0) .(0.0) It(0.0) has(0.0) happened(0.0) .(0.0) 
+It(0.0) was(0.0) not(0.0) and(0.0) is(0.0) not(0.0) true(0.0) that(0.0) if(0.0) you(0.0) like(0.0) your(0.0) insurance(1.0) ,(0.0) you(0.0) can(0.0) keep(0.0) it(0.0) .(0.0) People(0.0) 
+have(0.0) already(0.0) lost(0.0) doctors(0.0) who(0.0) were(0.0) assured(0.0) if(0.0) you(0.0) like(0.0) your(0.0) doctor(0.0) ,(0.0) you(0.0) can(0.0) keep(0.0) him(0.0) .(0.0) That(0.0) was(0.0) 
+simply(0.0) not(0.0) true(0.0) .(0.0) We(0.0) were(0.0) told(0.0) there(0.0) would(0.0) be(0.0) no(0.0) tax(0.0) .(0.0) And(0.0) we(0.0) know(0.0) from(0.0) the(0.0) Supreme(1.0) Court(0.0) 
+that(0.0) 's(0.0) not(0.0) true(0.0) .(0.0) And(0.0) in(0.0) fact(0.0) ,(0.0) in(0.0) the(0.0) bill(1.0) itself(0.0) one(0.0) of(0.0) the(0.0) most(0.0) devastating(0.0) things(0.0) coming(0.0) 
+from(0.0) people(0.0) who(0.0) say(0.0) they(0.0) want(0.0) to(0.0) help(0.0) the(0.0) working(0.0) poor(1.0) ,(0.0) if(0.0) you(0.0) 're(0.0) a(0.0) single(0.0) individual(0.0) and(0.0) you(0.0) 
+'re(0.0) making(0.0) 133(0.0) percent(0.0) of(0.0) the(0.0) poverty(1.0) level(0.0) ,(0.0) if(0.0) you(0.0) 're(0.0) making(0.0) $(0.0) 14,000(0.0) and(0.0) you(0.0) can't(0.0) afford(1.0) a(0.0) 
+$(0.0) 12,000(0.0) health(1.0) insurance(1.0) policy(1.0) ,(0.0) you(0.0) 're(0.0) going(0.0) to(0.0) be(0.0) fined(1.0) 2.5(0.0) percent(0.0) over(0.0) the(0.0) next(0.0) 3(0.0) years(0.0) .(0.0) 
+It(0.0) will(0.0) build(0.0) to(0.0) 2.5(0.0) percent(0.0) .(0.0) It(0.0) is(0.0) a(0.0) tax(0.0) .(0.0) It(0.0) will(0.0) devastate(1.0) .(0.0) If(0.0) you(0.0) make(0.0) $(0.0) 
+40,000(0.0) ,(0.0) a(0.0) family(0.0) of(0.0) four(0.0) ,(0.0) five(0.0) or(0.0) six(0.0) ,(0.0) $(0.0) 1,000(0.0) fine(0.0) because(0.0) you(0.0) ca(0.0) n't(0.0) afford(1.0) a(0.0) 
+$(0.0) 12,000(0.0) policy(1.0) .(0.0) That(0.0) ,(0.0) on(0.0) top(0.0) of(0.0) the(0.0) government(1.0) running(0.0) everything(0.0) in(0.0) this(0.0) $(0.0) 2,500(0.0) bill(1.0) .(0.0) That's(0.0) 
+why(0.0) we(0.0) 've(0.0) got(0.0) to(0.0) repeal(1.0) it(0.0) --(0.0) for(0.0) the(0.0) good(0.0) of(0.0) the(0.0) people(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+insurance	ObamaCare	
+insurance	
+
+Supreme	
+bill	
+poor	
+poverty	afford	
+health	insurance	policy	fined	
+devastate	
+afford	
+policy	government	bill	
+repeal	
+
+reads % = 0.07627118644067797

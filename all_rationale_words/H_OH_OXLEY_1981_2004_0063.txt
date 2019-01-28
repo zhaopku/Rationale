@@ -1,0 +1,16 @@
+This is from a Republican
+----- below is the original text -----
+If(0.0) the(0.0) gentleman(0.0) will(0.0) continue(0.0) to(0.0) yield(0.0) ,(0.0) let(0.0) me(0.0) just(0.0) quote(0.0) from(0.0) the(0.0) letter(0.0) from(0.0) the(0.0) Department(0.0) of(0.0) Justice(0.0) :(0.0) 
+``(0.0) The(0.0) Justice(0.0) Department(0.0) supports(0.0) the(0.0) administration(0.0) 's(0.0) determination(0.0) to(0.0) permit(0.0) the(0.0) acceptance(0.0) of(0.0) matricula(1.0) consular(0.0) cards(0.0) by(0.0) financial(0.0) institutions(0.0) 
+under(0.0) circumstances(0.0) where(0.0) financial(0.0) institutions(0.0) reasonably(0.0) believe(0.0) they(0.0) can(0.0) properly(0.0) identify(0.0) the(0.0) new(0.0) customer(0.0) .(0.0) ''(0.0) That(0.0) is(0.0) from(0.0) the(0.0) 
+letter(0.0) of(0.0) the(0.0) Justice(0.0) Department(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+matricula	
+
+
+
+reads % = 0.014925373134328358

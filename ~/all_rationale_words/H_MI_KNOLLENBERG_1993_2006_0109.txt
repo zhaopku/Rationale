@@ -1,0 +1,40 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(1.0) to(0.0) express(1.0) my(0.0) strong(0.0) support(0.0) for(0.0) H.R(0.0) .(0.0) 2491(1.0) ,(0.0) the(0.0) International(0.0) Solid(0.0) Waste(1.0) Importation(1.0) and(0.0) Management(0.0) 
+Act(0.0) of(0.0) 2005(1.0) .(0.0) For(1.0) many(0.0) years(0.0) ,(0.0) Canada(1.0) has(0.0) shipped(1.0) significant(0.0) amounts(0.0) of(0.0) solid(1.0) waste(1.0) into(0.0) the(0.0) United(0.0) States(0.0) 
+each(0.0) year(0.0) ,(0.0) with(0.0) a(0.0) large(0.0) percentage(0.0) of(0.0) it(0.0) going(0.0) to(0.0) the(0.0) State(1.0) of(0.0) Michigan(1.0) .(0.0) In(0.0) 2004(0.0) ,(0.0) Canadian(1.0) 
+trash(0.0) imports(1.0) represented(1.0) 18(1.0) percent(1.0) of(0.0) all(0.0) the(0.0) trash(0.0) disposed(1.0) of(0.0) in(0.0) Michigan(1.0) .(0.0) The(0.0) State(1.0) of(0.0) Michigan(1.0) receives(1.0) approximately(0.0) 
+350(0.0) truck(0.0) loads(0.0) of(0.0) trash(0.0) every(0.0) day(0.0) --(0.0) or(1.0) over(0.0) 12,000(0.0) truck(1.0) loads(0.0) a(0.0) year(0.0) --(0.0) from(0.0) Ontario(0.0) .(0.0) Despite(1.0) 
+heightened(1.0) border(0.0) security(0.0) that(0.0) has(0.0) been(0.0) imposed(1.0) following(0.0) the(0.0) September(0.0) 11(0.0) ,(0.0) 2001(0.0) ,(0.0) terrorist(1.0) attacks(0.0) ,(0.0) which(0.0) include(0.0) stricter(1.0) 
+inspections(0.0) of(0.0) all(0.0) truck(0.0) shipments(0.0) passing(0.0) through(0.0) international(0.0) borders(0.0) ,(0.0) the(0.0) importation(1.0) of(0.0) substantial(1.0) amounts(1.0) of(0.0) solid(1.0) waste(1.0) into(0.0) the(0.0) 
+United(0.0) States(0.0) each(0.0) year(0.0) from(0.0) Canada(1.0) poses(0.0) a(0.0) serious(0.0) security(0.0) threat(0.0) to(0.0) the(0.0) State(1.0) of(0.0) Michigan(1.0) and(0.0) other(0.0) border(0.0) States(0.0) 
+which(0.0) accept(1.0) imported(0.0) trash(0.0) .(0.0) Moreover(1.0) ,(0.0) it(0.0) poses(0.0) environmental(1.0) and(0.0) health(1.0) risks(0.0) to(0.0) these(0.0) States(0.0) .(0.0) States(1.0) must(0.0) have(0.0) 
+the(0.0) ability(0.0) to(0.0) address(0.0) these(0.0) matters(0.0) as(0.0) they(0.0) deem(1.0) fit(0.0) .(0.0) H.R(0.0) .(0.0) 2491(1.0) is(0.0) necessary(1.0) in(0.0) order(0.0) to(0.0) provide(0.0) 
+States(0.0) with(0.0) the(0.0) power(1.0) to(0.0) address(0.0) these(0.0) issues(0.0) ,(0.0) as(0.0) the(0.0) U.S.(0.0) Supreme(0.0) Court(0.0) and(0.0) other(0.0) Federal(1.0) courts(0.0) have(0.0) consistently(0.0) 
+ruled(1.0) that(0.0) ,(0.0) pursuant(1.0) to(0.0) the(0.0) Interstate(0.0) Commerce(0.0) Clause(1.0) of(0.0) the(0.0) U.S.(0.0) Constitution(0.0) ,(0.0) States(0.0) can(0.0) not(0.0) restrict(1.0) out-(0.0) of-State(1.0) 
+trash(1.0) from(0.0) their(0.0) landfills(1.0) .(0.0) Previous(1.0) agreements(0.0) regarding(0.0) the(0.0) import(1.0) of(0.0) trash(0.0) from(0.0) Canada(1.0) have(0.0) had(0.0) no(0.0) legal(1.0) standing(0.0) and(0.0) 
+were(0.0) not(1.0) enforceable(0.0) .(0.0) This(0.0) legislation(0.0) will(0.0) finally(0.0) allow(0.0) the(0.0) U.S.(0.0) and(0.0) the(0.0) State(1.0) of(0.0) Michigan(1.0) to(0.0) set(0.0) for(0.0) themselves(0.0) 
+legal(0.0) ,(0.0) enforceable(1.0) boundaries(0.0) for(0.0) the(0.0) importation(1.0) of(0.0) municipal(1.0) solid(0.0) waste(1.0) .(0.0) I(0.0) urge(1.0) all(0.0) of(0.0) my(0.0) colleagues(1.0) to(0.0) support(0.0) 
+the(0.0) passage(0.0) of(0.0) H.R(0.0) .(0.0) 2491(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+rise	express	2491	Waste	Importation	
+2005	For	Canada	shipped	solid	waste	
+State	Michigan	Canadian	
+imports	represented	18	percent	disposed	Michigan	State	Michigan	receives	
+or	truck	Despite	
+heightened	imposed	terrorist	stricter	
+importation	substantial	amounts	solid	waste	
+Canada	State	Michigan	
+accept	Moreover	environmental	health	States	
+deem	2491	necessary	
+power	Federal	
+ruled	pursuant	Clause	restrict	of-State	
+trash	landfills	Previous	import	Canada	legal	
+not	State	Michigan	
+enforceable	importation	municipal	waste	urge	colleagues	
+2491	
+
+reads % = 0.22402597402597402

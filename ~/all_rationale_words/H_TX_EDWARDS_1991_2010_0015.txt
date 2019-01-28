@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Chair(1.0) ,(0.0) I(0.0) yield(0.0) 1\1/2\(0.0) minutes(1.0) to(0.0) a(0.0) very(0.0) important(0.0) member(0.0) of(0.0) our(0.0) Appropriations(0.0) subcommittee(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Colorado(1.0) 
+((0.0) Mr.(0.0) Salazar(1.0) )(0.0) ,(0.0) who(0.0) has(0.0) been(0.0) a(0.0) real(0.0) champion(1.0) for(0.0) our(0.0) vets(1.0) and(0.0) our(0.0) troops(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chair	minutes	Colorado	
+Salazar	champion	vets	
+
+reads % = 0.15384615384615385

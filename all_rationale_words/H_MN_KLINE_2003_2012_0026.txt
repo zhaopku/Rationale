@@ -1,0 +1,10 @@
+This is from a Republican
+----- below is the original text -----
+Do(0.0) I(0.0) understand(0.0) that(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) Jersey(1.0) is(0.0) the(0.0) last(0.0) and(0.0) only(0.0) speaker(0.0) remaining(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+Jersey	
+
+reads % = 0.058823529411764705

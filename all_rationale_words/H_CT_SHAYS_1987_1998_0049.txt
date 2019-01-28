@@ -1,0 +1,10 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) will(0.0) yield(0.0) back(0.0) our(0.0) time(0.0) after(0.0) I(0.0) just(0.0) make(0.0) a(0.0) 2-minute(0.0) comment(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+reads % = 0.0

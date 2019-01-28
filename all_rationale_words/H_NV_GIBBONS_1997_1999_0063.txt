@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Let(0.0) me(0.0) take(0.0) number(0.0) two(0.0) .(0.0) Let(0.0) us(0.0) see(0.0) how(0.0) similar(0.0) we(0.0) can(0.0) get(0.0) with(0.0) number(0.0) two(0.0) .(0.0) Withdrawal(0.0) from(0.0) Kosovo(1.0) 
+of(0.0) military(0.0) police(0.0) and(0.0) paramilitary(1.0) forces(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Kosovo	
+paramilitary	
+
+reads % = 0.07142857142857142

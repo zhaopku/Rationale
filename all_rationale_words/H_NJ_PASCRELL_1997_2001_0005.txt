@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) the(0.0) President(1.0) 's(0.0) tax(1.0) cut(1.0) plan(1.0) is(1.0) not(1.0) only(1.0) contrary(1.0) to(0.0) the(0.0) goals(0.0) and(0.0) the(0.0) needs(0.0) of(0.0) the(0.0) American(0.0) 
+people(0.0) ,(0.0) but(0.0) it(0.0) actually(0.0) flies(0.0) in(0.0) the(0.0) face(0.0) of(0.0) the(0.0) facts(0.0) of(0.0) the(0.0) promises(1.0) we(0.0) made(0.0) here(0.0) in(0.0) the(0.0) 
+106th(0.0) Congress(0.0) .(0.0) The(0.0) fiscal(1.0) year(0.0) 2000(0.0) budget(1.0) resolution(1.0) ,(0.0) do(0.0) Members(0.0) remember(0.0) that(0.0) ?(0.0) It(0.0) passed(0.0) the(0.0) House(0.0) 221(0.0) 
+to(0.0) 208(0.0) on(0.0) an(0.0) almost(0.0) entirely(0.0) party-line(1.0) vote(1.0) .(0.0) This(0.0) budget(1.0) resolution(1.0) specifically(1.0) promised(1.0) that(0.0) tax(1.0) cuts(1.0) would(1.0) focus(1.0) on(1.0) 
+``(1.0) the(0.0) lower-(0.0) and(0.0) middle-income(1.0) taxpayers(1.0) .(0.0) ''(0.0) The(0.0) Republican(1.0) majority(1.0) promised(1.0) that(1.0) Congress(1.0) will(1.0) not(1.0) approve(1.0) ``(1.0) any(1.0) tax(1.0) 
+legislation(1.0) ''(1.0) that(1.0) would(1.0) provide(1.0) substantially(1.0) more(1.0) benefits(1.0) to(0.0) the(1.0) top(0.0) 10(0.0) percent(0.0) of(0.0) the(1.0) taxpayers(1.0) than(0.0) to(0.0) the(0.0) remaining(1.0) 
+90(0.0) percent(0.0) .(0.0) That(0.0) is(0.0) right(0.0) in(0.0) the(0.0) budget(1.0) resolution(1.0) .(0.0) What(0.0) happened(0.0) to(0.0) the(0.0) promise(1.0) ?(0.0) The(0.0) tax(1.0) plan(1.0) 
+offers(0.0) substantially(1.0) more(0.0) benefits(1.0) ,(0.0) 60(0.0) percent(0.0) of(0.0) the(0.0) President(1.0) 's(0.0) tax(1.0) refund(1.0) ,(0.0) to(0.0) the(0.0) top(0.0) 10(0.0) percent(0.0) of(0.0) 
+the(0.0) American(0.0) taxpayers(1.0) .(0.0) In(0.0) fact(0.0) ,(0.0) this(0.0) tax(1.0) cut(1.0) returns(1.0) 43(1.0) percent(1.0) ,(1.0) nearly(1.0) half(1.0) of(1.0) its(1.0) benefits(1.0) ,(0.0) 
+to(0.0) the(0.0) top(0.0) 1(0.0) percent(0.0) of(0.0) the(0.0) earners(1.0) .(0.0) Why(0.0) are(0.0) my(0.0) Republican(1.0) colleagues(1.0) now(1.0) abandoning(1.0) the(1.0) promise(1.0) that(1.0) they(1.0) 
+made(1.0) to(1.0) the(1.0) low-(1.0) and(1.0) middle-class(1.0) folks(1.0) of(1.0) America(1.0) ?(1.0) 
+
+
+----- below are rationale words -----
+
+President	tax	cut	plan	is	not	only	contrary	
+promises	
+fiscal	budget	resolution	
+party-line	vote	budget	resolution	specifically	promised	tax	cuts	would	focus	on	
+``	middle-income	taxpayers	Republican	majority	promised	that	Congress	will	not	approve	``	any	tax	
+legislation	''	that	would	provide	substantially	more	benefits	the	the	taxpayers	remaining	
+budget	resolution	promise	tax	plan	
+substantially	benefits	President	tax	refund	
+taxpayers	tax	cut	returns	43	percent	,	nearly	half	of	its	benefits	
+earners	Republican	colleagues	now	abandoning	the	promise	that	they	
+made	to	the	low-	and	middle-class	folks	of	America	?	
+
+reads % = 0.4265402843601896

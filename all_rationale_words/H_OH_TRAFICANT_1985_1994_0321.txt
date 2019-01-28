@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentlewoman(0.0) from(0.0) Illinois(1.0) [(0.0) Mrs.(1.0) Collins(1.0) ](0.0) for(1.0) yielding(1.0) this(1.0) time(0.0) to(0.0) me(0.0) .(0.0) I(0.0) 
+want(0.0) to(0.0) start(0.0) out(0.0) by(0.0) commending(0.0) the(0.0) chairwoman(1.0) ,(0.0) the(0.0) gentlewoman(0.0) from(0.0) Illinois(1.0) [(0.0) Mrs.(1.0) Collins(1.0) ](0.0) .(0.0) Without(1.0) her(0.0) 
+help(0.0) ,(0.0) it(0.0) would(0.0) not(0.0) have(0.0) happened(0.0) .(0.0) Without(0.0) her(0.0) help(0.0) ,(0.0) the(0.0) amendment(1.0) on(0.0) fraudulent(1.0) labeling(1.0) in(0.0) the(0.0) crime(1.0) 
+bill(1.0) ,(0.0) which(0.0) is(0.0) now(0.0) in(0.0) conference(0.0) ,(0.0) would(0.0) not(0.0) have(0.0) happened(0.0) .(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) her(0.0) very(0.0) much(0.0) 
+.(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Florida(0.0) [(0.0) Mr.(0.0) Stearns(1.0) ](0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Pennsylvania(1.0) [(0.0) Mr.(0.0) 
+Greenwood(1.0) ](0.0) ,(0.0) for(0.0) the(0.0) tremendous(0.0) job(0.0) they(0.0) have(0.0) done(0.0) in(0.0) helping(0.0) to(0.0) fashion(0.0) some(0.0) of(0.0) the(0.0) compromises(1.0) necessary(0.0) ,(0.0) 
+from(0.0) the(0.0) original(0.0) intent(1.0) of(0.0) the(0.0) bill(1.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) California(0.0) [(0.0) Mr.(0.0) Moorhead(1.0) ](0.0) and(1.0) the(0.0) gentleman(0.0) from(0.0) 
+Michigan(0.0) [(0.0) Mr.(0.0) Dingell(1.0) ](0.0) --(1.0) I(0.0) think(0.0) everybody(0.0) knows(0.0) nothing(0.0) comes(0.0) out(0.0) of(0.0) that(0.0) committee(0.0) without(0.0) their(0.0) close(0.0) review(0.0) 
+.(0.0) I(0.0) think(0.0) that(0.0) is(0.0) good(0.0) .(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Ohio(1.0) [(0.0) Mr.(0.0) Brown(1.0) ](0.0) ,(0.0) for(0.0) taking(0.0) 
+an(0.0) interest(0.0) in(0.0) this(0.0) legislation(1.0) as(0.0) well(0.0) .(0.0) Very(0.0) simply(0.0) ,(0.0) this(0.0) legislation(1.0) says(1.0) ,(0.0) ``(0.0) Look(0.0) ,(0.0) we(0.0) ca(0.0) 
+n't(0.0) tell(0.0) people(0.0) what(0.0) to(0.0) buy(0.0) ,(0.0) but(0.0) I(0.0) think(0.0) the(0.0) American(0.0) people(0.0) should(0.0) be(0.0) able(0.0) to(0.0) find(0.0) out(0.0) what(0.0) 
+is(0.0) made(0.0) in(0.0) our(0.0) country(1.0) .(0.0) ''(0.0) Now(0.0) ,(0.0) I(0.0) believe(0.0) the(0.0) Department(0.0) of(0.0) Commerce(0.0) stands(0.0) for(0.0) the(0.0) promotion(0.0) of(0.0) 
+commerce(0.0) ,(0.0) not(0.0) for(0.0) a(0.0) lot(0.0) of(0.0) other(0.0) technicalities(1.0) that(0.0) we(0.0) are(0.0) embroiled(1.0) in(0.0) .(0.0) I(0.0) think(0.0) the(0.0) American(0.0) people(0.0) 
+will(0.0) buy(0.0) ,(0.0) as(0.0) the(0.0) gentleman(0.0) from(0.0) Pennsylvania(1.0) [(0.0) Mr.(0.0) Greenwood(1.0) ](0.0) said(1.0) ,(0.0) will(0.0) buy(0.0) American(0.0) .(0.0) They(0.0) do(0.0) 
+not(0.0) know(0.0) at(0.0) times(0.0) what(0.0) is(0.0) made(0.0) in(0.0) America(1.0) .(0.0) So(0.0) as(0.0) you(0.0) can(0.0) see(0.0) ,(0.0) I(0.0) have(0.0) tried(0.0) to(0.0) 
+address(0.0) those(0.0) issues(0.0) ,(0.0) and(0.0) the(0.0) amendment(1.0) in(0.0) the(0.0) crime(1.0) bill(1.0) ,(0.0) as(0.0) I(0.0) understand(0.0) it(0.0) ,(0.0) is(0.0) still(0.0) in(0.0) 
+there(0.0) ;(0.0) it(0.0) says(0.0) ,(0.0) ``(0.0) Look(0.0) ,(0.0) if(0.0) it(0.0) is(0.0) made(0.0) by(0.0) some(0.0) Chinese(0.0) laborer(1.0) in(0.0) a(0.0) prison(1.0) camp(0.0) 
+,(0.0) do(0.0) n't(0.0) put(0.0) a(0.0) `(0.0) made(0.0) in(0.0) America(1.0) '(0.0) label(0.0) on(0.0) it(0.0) .(0.0) ''(0.0) But(0.0) if(0.0) an(0.0) American(0.0) citizen(1.0) 
+is(0.0) going(0.0) to(0.0) buy(0.0) a(0.0) refrigerator(0.0) ,(0.0) they(0.0) should(0.0) be(0.0) able(0.0) to(0.0) find(0.0) out(0.0) what(0.0) is(0.0) made(0.0) in(0.0) America(1.0) ,(0.0) 
+what(0.0) models(0.0) .(0.0) Now(0.0) ,(0.0) we(0.0) can(0.0) not(0.0) mandate(1.0) that(0.0) that(0.0) happens(0.0) ,(0.0) but(0.0) this(0.0) legislation(1.0) would(1.0) create(0.0) a(0.0) mechanism(0.0) 
+whereby(0.0) a(0.0) consumer(0.0) in(0.0) Peoria(1.0) ,(0.0) IL(1.0) ,(0.0) could(0.0) call(0.0) and(0.0) find(0.0) out(0.0) what(0.0) models(0.0) of(0.0) refrigerators(0.0) are(0.0) still(0.0) made(0.0) 
+in(0.0) this(0.0) country(1.0) .(0.0) And(0.0) with(0.0) the(0.0) tailoring(0.0) and(0.0) help(0.0) of(0.0) the(0.0) committee(0.0) ,(0.0) the(0.0) committee(0.0) has(0.0) said(0.0) ,(0.0) ``(0.0) 
+Look(0.0) ,(0.0) I(0.0) think(0.0) maybe(0.0) there(0.0) is(0.0) another(0.0) way(0.0) to(0.0) go(0.0) about(0.0) it(0.0) and(0.0) do(0.0) it(0.0) that(0.0) is(0.0) even(0.0) more(0.0) 
+effective(0.0) .(0.0) ''(0.0) There(0.0) is(0.0) now(0.0) a(0.0) cost(0.0) factor(0.0) that(0.0) is(0.0) not(0.0) on(0.0) the(0.0) Federal(1.0) Government(1.0) list(0.0) but(0.0) if(0.0) those(0.0) 
+manufacturers(0.0) want(0.0) to(0.0) have(0.0) their(0.0) products(0.0) listed(0.0) and(0.0) if(0.0) they(0.0) are(0.0) made(0.0) in(0.0) America(1.0) ,(0.0) they(0.0) should(0.0) be(0.0) proud(0.0) 
+
+
+----- below are rationale words -----
+
+Illinois	Mrs.	Collins	for	yielding	this	
+chairwoman	Illinois	Mrs.	Collins	Without	
+amendment	fraudulent	labeling	crime	
+bill	
+Stearns	Pennsylvania	
+Greenwood	compromises	
+intent	bill	Moorhead	and	
+Dingell	--	
+Ohio	Brown	
+legislation	legislation	says	
+
+country	
+technicalities	embroiled	
+Pennsylvania	Greenwood	said	
+America	
+amendment	crime	bill	
+laborer	prison	
+America	citizen	
+America	
+mandate	legislation	would	
+Peoria	IL	
+country	
+
+Federal	Government	
+America	
+
+reads % = 0.11

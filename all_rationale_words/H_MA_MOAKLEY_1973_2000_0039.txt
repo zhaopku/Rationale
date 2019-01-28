@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) would(0.0) just(0.0) like(0.0) to(0.0) bring(0.0) the(0.0) Members(0.0) '(0.0) attention(0.0) to(0.0) an(0.0) article(0.0) in(0.0) today(0.0) 's(0.0) Washington(1.0) Post(1.0) 
+titled(0.0) ,(0.0) on(0.0) the(0.0) editorial(1.0) page(0.0) ,(0.0) ``(0.0) New(0.0) Round(0.0) of(0.0) Transplants(1.0) .(0.0) ''(0.0) If(0.0) I(0.0) may(0.0) read(0.0) just(0.0) from(0.0) 
+a(0.0) portion(0.0) of(0.0) it(0.0) ,(0.0) they(0.0) say(0.0) ,(0.0) ``(0.0) The(0.0) strange(0.0) battle(0.0) over(0.0) who(0.0) will(0.0) control(0.0) the(0.0) distribution(0.0) of(0.0) transplanted(1.0) 
+organs(0.0) continues(0.0) to(0.0) rage(0.0) .(0.0) The(0.0) House(0.0) is(0.0) scheduled(0.0) to(0.0) vote(1.0) today(0.0) on(0.0) an(0.0) ill-(0.0) advised(0.0) bill(1.0) to(1.0) strip(0.0) the(0.0) 
+Department(0.0) of(0.0) Health(0.0) and(0.0) Human(0.0) Services(0.0) of(0.0) authority(0.0) to(0.0) set(0.0) rules(0.0) for(0.0) the(0.0) private(0.0) contractors(0.0) that(0.0) manage(0.0) the(0.0) nation(1.0) 's(0.0) 
+transplants(0.0) .(0.0) This(0.0) comes(0.0) 18(0.0) days(0.0) after(0.0) an(0.0) HHS(1.0) regulation(1.0) aimed(0.0) at(0.0) achieving(0.0) more(0.0) consistent(0.0) and(0.0) equitable(1.0) policies(1.0) finally(0.0) went(0.0) 
+into(0.0) effect(0.0) after(0.0) 2(0.0) years(0.0) of(0.0) heated(0.0) opposition(1.0) from(0.0) the(0.0) transplant(1.0) network(0.0) and(0.0) its(0.0) members(0.0) .(0.0) ``(0.0) The(0.0) HHS(1.0) rule(1.0) 
+is(0.0) hardly(0.0) draconian(1.0) .(0.0) It(0.0) merely(0.0) calls(0.0) on(0.0) the(0.0) United(0.0) Network(0.0) of(0.0) Organ(1.0) Sharing(0.0) ,(0.0) UNOS(1.0) ,(0.0) to(0.0) develop(0.0) policies(1.0) 
+that(0.0) better(0.0) spread(0.0) the(0.0) too(0.0) scarce(1.0) supply(1.0) of(0.0) transplantable(1.0) organs(0.0) over(0.0) the(0.0) much(0.0) larger(0.0) population(1.0) of(0.0) people(0.0) who(0.0) actually(0.0) need(0.0) 
+them(0.0) .(0.0) Right(0.0) now(0.0) ,(0.0) each(0.0) distribution(0.0) center(0.0) has(0.0) its(0.0) own(0.0) waiting(0.0) list(0.0) ,(0.0) creating(0.0) dramatic(0.0) disparities(1.0) in(0.0) which(0.0) organs(1.0) 
+often(0.0) fail(0.0) to(0.0) reach(0.0) those(0.0) with(0.0) the(0.0) most(0.0) urgent(1.0) need(0.0) .(0.0) ``(0.0) But(0.0) many(0.0) local(0.0) transplant(0.0) centers(1.0) are(0.0) fiercely(0.0) territorial(1.0) 
+and(0.0) fear(0.0) losing(0.0) business(0.0) to(0.0) a(0.0) few(0.0) large(0.0) transplant(1.0) centers(1.0) at(0.0) major(0.0) hospitals(1.0) .(0.0) Since(0.0) the(0.0) HHS(1.0) rule(1.0) was(0.0) proposed(0.0) 
+,(0.0) nearly(0.0) a(0.0) dozen(0.0) States(0.0) have(0.0) passed(0.0) laws(1.0) forbidding(1.0) organs(1.0) to(0.0) be(0.0) sent(0.0) to(0.0) recipients(1.0) out(0.0) of(0.0) state(1.0) ;(0.0) Wisconsin(1.0) 
+is(0.0) suing(1.0) to(0.0) block(0.0) a(0.0) feared(0.0) outflow(0.0) to(0.0) nearby(0.0) Chicago(0.0) .(0.0) The(0.0) national(1.0) network(0.0) ,(0.0) meanwhile(0.0) ,(0.0) has(0.0) several(0.0) times(0.0) 
+persuaded(0.0) Congress(0.0) to(0.0) put(0.0) off(0.0) the(0.0) rule(1.0) .(0.0) Congress(0.0) also(0.0) commissioned(0.0) a(0.0) report(0.0) from(0.0) the(0.0) Institute(0.0) of(0.0) Medicine(0.0) ,(0.0) which(0.0) 
+made(0.0) proposals(0.0) similar(0.0) to(0.0) those(0.0) of(0.0) HHS(1.0) .(0.0) ''(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) include(0.0) this(0.0) entire(0.0) article(0.0) for(0.0) the(0.0) Record(0.0) 
+.(0.0) The(0.0) article(0.0) referred(0.0) to(0.0) is(0.0) as(0.0) follows(0.0) :(0.0) [(0.0) From(0.0) the(0.0) Washington(1.0) Post(1.0) ,(0.0) Apr(0.0) .(0.0) 4(0.0) ,(0.0) 2000(0.0) 
+](0.0) New(1.0) Round(1.0) on(0.0) Transplants(1.0) The(0.0) strange(0.0) battle(0.0) over(0.0) who(0.0) will(0.0) control(0.0) the(0.0) distribution(0.0) of(0.0) transplanted(0.0) organs(0.0) continues(0.0) to(0.0) rage(0.0) 
+.(0.0) The(0.0) House(0.0) is(0.0) scheduled(0.0) to(0.0) vote(1.0) today(0.0) on(0.0) an(0.0) ill-advised(1.0) bill(1.0) to(1.0) strip(1.0) the(0.0) Department(0.0) of(0.0) Health(0.0) and(0.0) Human(0.0) 
+Services(0.0) of(0.0) authority(0.0) to(0.0) set(0.0) rules(0.0) for(0.0) the(0.0) private(0.0) contractors(0.0) that(0.0) manage(0.0) the(0.0) nation's(0.0) transplants(1.0) .(0.0) This(0.0) comes(0.0) 18(0.0) days(0.0) 
+after(0.0) an(0.0) HHS(1.0) regulation(1.0) aimed(1.0) at(0.0) achieving(0.0) more(0.0) consistent(0.0) and(0.0) equitable(1.0) policies(1.0) finally(0.0) went(0.0) into(0.0) effect(0.0) after(0.0) two(0.0) years(0.0) of(0.0) 
+heated(0.0) opposition(1.0) from(0.0) the(0.0) transplant(1.0) network(0.0) and(0.0) its(0.0) members(0.0) .(0.0) The(0.0) HHS(1.0) rule(1.0) is(0.0) hardly(0.0) Draconian(0.0) .(0.0) It(0.0) merely(0.0) calls(0.0) 
+on(0.0) the(0.0) United(0.0) Network(0.0) for(0.0) Organ(0.0) Sharing(0.0) ((0.0) UNOS(1.0) )(0.0) to(0.0) develop(0.0) policies(1.0) that(0.0) better(0.0) spread(0.0) the(0.0) too-scarce(0.0) supply(0.0) of(0.0) 
+transplantable(1.0) organs(1.0) over(0.0) the(0.0) much(0.0) larger(0.0) population(1.0) of(0.0) people(0.0) who(0.0) need(0.0) them(0.0) .(0.0) Right(0.0) now(0.0) ,(0.0) each(0.0) distribution(0.0) region(0.0) has(0.0) 
+its(0.0) own(0.0) waiting(0.0) list(0.0) ,(0.0) creating(0.0) dramatic(0.0) disparities(1.0) in(0.0) which(0.0) organs(0.0) often(0.0) fail(0.0) to(0.0) reach(0.0) those(0.0) with(0.0) the(0.0) most(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	Washington	Post	
+editorial	Transplants	
+transplanted	
+vote	bill	to	
+nation	
+HHS	regulation	equitable	policies	
+opposition	transplant	HHS	rule	
+draconian	Organ	UNOS	policies	
+scarce	supply	transplantable	population	
+disparities	organs	
+urgent	centers	territorial	
+transplant	centers	hospitals	HHS	rule	
+laws	forbidding	organs	recipients	state	Wisconsin	
+suing	national	
+rule	
+HHS	Speaker	
+Washington	Post	
+New	Round	Transplants	
+vote	ill-advised	bill	to	strip	
+transplants	
+HHS	regulation	aimed	equitable	policies	
+opposition	transplant	HHS	rule	
+UNOS	policies	
+transplantable	organs	population	
+disparities	
+
+reads % = 0.146

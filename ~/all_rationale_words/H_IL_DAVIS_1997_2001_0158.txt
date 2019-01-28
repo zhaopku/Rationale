@@ -1,0 +1,46 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(1.0) ,(0.0) I(0.0) rise(1.0) in(0.0) support(0.0) of(0.0) the(0.0) Manzullo(1.0) and(0.0) Velazquez(1.0) amendment(1.0) .(0.0) The(0.0) purpose(0.0) of(0.0) this(0.0) amendment(1.0) is(0.0) to(0.0) allow(0.0) 
+$(0.0) 140(1.0) million(0.0) appropriated(1.0) in(0.0) this(0.0) emergency(1.0) supplemental(1.0) to(0.0) also(1.0) go(0.0) towards(0.0) the(0.0) 7(0.0) ((0.0) a(0.0) )(0.0) Loan(0.0) Guaranty(1.0) Program(0.0) 
+and(0.0) the(0.0) 504(1.0) Certified(0.0) Development(0.0) Company(0.0) Loan(0.0) Programs(0.0) of(0.0) the(0.0) Small(1.0) business(1.0) Administration(0.0) providing(0.0) that(0.0) not(1.0) all(0.0) the(0.0) funds(1.0) have(0.0) 
+been(0.0) used(0.0) for(0.0) disaster(0.0) relief(1.0) .(0.0) This(0.0) amendment(1.0) will(0.0) give(0.0) the(0.0) Small(1.0) Business(1.0) Administration(0.0) flexibility(0.0) to(0.0) use(0.0) all(0.0) appropriate(1.0) funding(1.0) 
+to(0.0) provide(0.0) additional(0.0) relief(0.0) to(0.0) small(0.0) business(1.0) borrowers(0.0) who(0.0) use(0.0) main(0.0) lending(0.0) programs(1.0) of(0.0) the(0.0) Small(1.0) Business(1.0) Administration(0.0) .(0.0) After(0.0) 
+10(0.0) years(0.0) of(0.0) solid(0.0) economic(1.0) growth(1.0) ,(0.0) America(0.0) has(0.0) entered(0.0) an(0.0) economic(0.0) downturn(1.0) .(0.0) For(0.0) the(0.0) first(0.0) time(0.0) in(0.0) a(0.0) 
+decade(0.0) the(0.0) economic(1.0) indicators(0.0) --(0.0) benchmarks(1.0) showing(0.0) where(0.0) we(0.0) are(0.0) and(0.0) where(0.0) we(0.0) are(0.0) going(0.0) --(0.0) all(0.0) point(0.0) down(1.0) .(0.0) 
+Job(1.0) losses(0.0) in(0.0) technology(0.0) and(0.0) manufacturing(1.0) have(0.0) risen(1.0) dramatically(0.0) and(0.0) corporate(1.0) bankruptcies(0.0) were(0.0) nearly(0.0) double(0.0) what(0.0) they(0.0) were(0.0) last(0.0) year(0.0) 
+.(0.0) Consumer(0.0) confidence(0.0) hit(0.0) its(0.0) lowest(0.0) point(0.0) in(0.0) over(0.0) a(0.0) decade(0.0) .(0.0) Even(1.0) though(0.0) ,(0.0) the(0.0) U.S.(0.0) stock(0.0) market(0.0) saw(0.0) 
+a(0.0) significant(0.0) gain(1.0) in(0.0) the(0.0) last(1.0) 10(0.0) years(0.0) .(0.0) However(0.0) ,(0.0) the(0.0) bottom(1.0) has(0.0) virtually(0.0) fallen(1.0) out(0.0) as(0.0) a(0.0) result(0.0) 
+of(0.0) the(0.0) events(1.0) of(0.0) September(0.0) 11(0.0) .(0.0) Now(0.0) every(0.0) industry(1.0) is(0.0) taking(1.0) a(0.0) huge(0.0) hit(0.0) as(0.0) profits(1.0) and(0.0) employment(1.0) figures(1.0) 
+head(0.0) into(0.0) a(0.0) free(1.0) fall(0.0) .(0.0) Part(1.0) of(0.0) the(0.0) solution(0.0) to(0.0) this(0.0) problem(0.0) is(0.0) for(0.0) Congress(0.0) and(0.0) the(0.0) President(1.0) to(0.0) 
+implement(0.0) a(0.0) sound(0.0) and(0.0) fair(1.0) fiscal(0.0) policy(1.0) that(0.0) will(0.0) provide(0.0) an(0.0) economic(0.0) stimulus(1.0) for(0.0) the(0.0) general(0.0) public(0.0) and(0.0) small(0.0) businesses(1.0) 
+.(0.0) Since(0.0) small(0.0) businesses(1.0) account(0.0) for(0.0) 99.7(0.0) percent(1.0) of(0.0) America(0.0) 's(0.0) employers(1.0) ,(0.0) it(0.0) can(0.0) play(0.0) a(0.0) vital(1.0) role(0.0) in(0.0) 
+bringing(1.0) America(0.0) out(1.0) of(0.0) this(0.0) economic(0.0) downturn(1.0) .(0.0) To(0.0) help(0.0) American(0.0) small(1.0) business(1.0) survive(1.0) this(0.0) economic(0.0) downturn(1.0) ,(0.0) the(0.0) Small(1.0) 
+Business(0.0) Administration(0.0) must(0.0) engage(1.0) all(0.0) available(1.0) resources(0.0) in(0.0) facilitating(1.0) entrepreneurship(1.0) development(0.0) ,(0.0) providing(0.0) low-(1.0) or(1.0) no-(1.0) interest(0.0) loans(0.0) ,(0.0) and(0.0) 
+more(0.0) technical(0.0) assistance(0.0) programs(1.0) to(0.0) small(0.0) businesses(1.0) .(0.0) The(0.0) most(1.0) important(0.0) contribution(1.0) Congress(0.0) can(1.0) make(0.0) is(0.0) to(0.0) fund(1.0) all(0.0) SBA(1.0) 
+programs(1.0) at(0.0) their(0.0) authorized(1.0) levels(0.0) .(0.0) I(0.0) urge(1.0) all(0.0) my(0.0) colleagues(1.0) to(0.0) support(0.0) the(0.0) Manzullo(1.0) and(0.0) Velazquez(1.0) amendment(1.0) .(0.0) Point(1.0) 
+of(0.0) Order(0.0) 
+
+
+----- below are rationale words -----
+
+rise	Manzullo	Velazquez	amendment	amendment	
+140	appropriated	emergency	supplemental	also	Guaranty	
+504	Small	business	not	funds	
+relief	amendment	Small	Business	appropriate	funding	
+business	programs	Small	Business	
+economic	growth	downturn	
+economic	benchmarks	down	
+Job	manufacturing	risen	corporate	
+Even	
+gain	last	bottom	fallen	
+events	industry	taking	profits	employment	figures	
+free	Part	President	
+fair	policy	stimulus	businesses	
+businesses	percent	employers	vital	
+bringing	out	downturn	small	business	survive	downturn	Small	
+engage	available	facilitating	entrepreneurship	low-	or	no-	
+programs	businesses	most	contribution	can	fund	SBA	
+programs	authorized	urge	colleagues	Manzullo	Velazquez	amendment	Point	
+
+
+reads % = 0.24242424242424243

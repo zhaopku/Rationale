@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+There(0.0) are(0.0) 40(0.0) percent(0.0) of(0.0) the(0.0) cases(0.0) being(0.0) used(0.0) under(0.0) this(0.0) .(0.0) Is(0.0) the(0.0) gentleman(0.0) saying(0.0) that(0.0) 40(0.0) percent(0.0) of(0.0) the(0.0) 
+cases(0.0) under(0.0) RICO(1.0) are(0.0) all(0.0) racketeering(1.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+
+RICO	racketeering	
+
+reads % = 0.07142857142857142

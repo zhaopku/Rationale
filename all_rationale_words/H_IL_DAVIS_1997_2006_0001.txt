@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Michigan(1.0) for(0.0) yielding(0.0) .(0.0) I(0.0) could(0.0) not(0.0) let(0.0) the(0.0) moment(0.0) go(0.0) by(0.0) 
+without(0.0) at(0.0) least(0.0) a(0.0) comment(0.0) .(0.0) During(0.0) the(0.0) mid-1960s(1.0) ,(0.0) the(0.0) King(0.0) family(0.0) moved(0.0) into(0.0) the(0.0) neighborhood(0.0) where(0.0) I(0.0) lived(0.0) 
+and(0.0) worked(0.0) .(0.0) That(0.0) is(0.0) in(0.0) the(0.0) North(0.0) Lawndale(0.0) community(0.0) on(0.0) the(0.0) west(0.0) side(0.0) of(0.0) the(0.0) City(0.0) of(0.0) Chicago(1.0) in(0.0) 
+the(0.0) 1500(0.0) block(0.0) of(0.0) South(0.0) Hamlin(0.0) .(0.0) They(0.0) brought(0.0) with(0.0) them(0.0) an(0.0) aura(0.0) of(0.0) excitement(0.0) .(0.0) I(0.0) was(0.0) a(0.0) young(0.0) 
+schoolteacher(0.0) who(0.0) taught(0.0) not(0.0) very(0.0) far(0.0) from(0.0) the(0.0) location(0.0) ,(0.0) and(0.0) my(0.0) friend(0.0) and(0.0) I(0.0) would(0.0) leave(0.0) school(0.0) in(0.0) the(0.0) 
+afternoon(0.0) and(0.0) come(0.0) by(0.0) the(0.0) King(0.0) house(0.0) .(0.0) It(0.0) was(0.0) really(0.0) an(0.0) apartment(0.0) .(0.0) Sometimes(0.0) Dr.(0.0) King(0.0) would(0.0) come(0.0) out(0.0) 
+and(0.0) just(0.0) kind(0.0) of(0.0) talk(0.0) with(0.0) us(0.0) for(0.0) a(0.0) moment(0.0) or(0.0) two(0.0) .(0.0) They(0.0) often(0.0) ate(0.0) at(0.0) a(0.0) restaurant(0.0) ,(0.0) 
+Edna(0.0) 's(0.0) Restaurant(0.0) ,(0.0) and(0.0) Mr.(0.0) Conyers(1.0) may(1.0) know(1.0) it(0.0) .(0.0) They(0.0) would(0.0) bring(0.0) to(0.0) the(0.0) restaurant(0.0) a(0.0) whole(0.0) horde(0.0) 
+of(0.0) people(0.0) .(0.0) Everybody(0.0) would(0.0) come(0.0) and(0.0) watch(0.0) .(0.0) And(0.0) so(0.0) on(0.0) behalf(0.0) of(0.0) all(0.0) of(0.0) the(0.0) people(0.0) who(0.0) lived(0.0) 
+in(0.0) that(0.0) community(0.0) ,(0.0) I(0.0) simply(0.0) express(0.0) condolences(0.0) to(0.0) the(0.0) King(0.0) family(0.0) ,(0.0) but(0.0) also(0.0) express(0.0) the(0.0) great(0.0) feeling(0.0) of(0.0) 
+joy(0.0) and(0.0) inspiration(0.0) that(0.0) they(0.0) brought(0.0) to(0.0) our(0.0) community(0.0) when(0.0) they(0.0) lived(0.0) on(0.0) the(0.0) west(0.0) side(0.0) of(0.0) Chicago(1.0) during(0.0) the(0.0) 
+mid-1960s(1.0) as(0.0) they(0.0) came(0.0) north(0.0) with(0.0) the(0.0) northern(0.0) crusade(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Michigan	
+mid-1960s	
+Chicago	
+
+
+
+
+Conyers	may	know	
+
+
+Chicago	
+mid-1960s	crusade	
+
+reads % = 0.03896103896103896

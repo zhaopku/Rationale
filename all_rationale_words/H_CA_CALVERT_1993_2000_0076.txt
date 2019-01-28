@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) yield(0.0) such(0.0) time(0.0) as(0.0) he(0.0) may(0.0) consume(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) ((0.0) Mr.(0.0) Lewis(1.0) )(0.0) ,(0.0) 
+who(0.0) represents(0.0) the(0.0) area(0.0) in(0.0) question(0.0) with(0.0) this(0.0) legislation(0.0) .(0.0) ((0.0) Mr.(0.0) LEWIS(1.0) of(0.0) California(0.0) asked(0.0) and(0.0) was(0.0) given(0.0) permission(0.0) 
+to(0.0) revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) )(0.0) 
+
+
+----- below are rationale words -----
+
+Lewis	
+LEWIS	
+
+
+reads % = 0.04081632653061224

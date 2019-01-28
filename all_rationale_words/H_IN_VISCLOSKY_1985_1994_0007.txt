@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) thanks(0.0) to(0.0) the(0.0) work(0.0) of(0.0) President(1.0) Clinton(1.0) and(0.0) a(0.0) Democratic(0.0) Congress(0.0) the(0.0) northwest(0.0) Indiana(0.0) district(0.0) I(0.0) represent(0.0) now(0.0) has(0.0) 
+1(0.0) million(0.0) extra(0.0) Federal(1.0) dollars(1.0) to(0.0) put(0.0) more(0.0) police(0.0) officers(0.0) on(0.0) the(0.0) streets(0.0) to(0.0) fight(1.0) crime(1.0) .(0.0) To(0.0) build(0.0) on(0.0) 
+the(0.0) Federal(1.0) funding(1.0) for(0.0) more(0.0) police(0.0) officers(0.0) ,(0.0) the(0.0) Democrats(1.0) have(0.0) formulated(0.0) a(0.0) really(0.0) tough(0.0) bill(1.0) that(0.0) will(0.0) get(0.0) criminals(1.0) 
+off(0.0) the(0.0) streets(0.0) and(0.0) prevent(0.0) crime(1.0) before(0.0) it(0.0) happens(0.0) .(0.0) Unfortunately(0.0) for(0.0) the(0.0) American(0.0) people(0.0) ,(0.0) the(0.0) Republicans(1.0) would(1.0) rather(1.0) 
+play(1.0) politics(1.0) than(1.0) fight(1.0) crime(1.0) .(1.0) Instead(1.0) of(1.0) considering(1.0) the(1.0) tough(1.0) crime(1.0) bill(1.0) today(1.0) ,(1.0) the(1.0) Republicans(1.0) have(1.0) decided(1.0) that(1.0) 
+they(1.0) would(1.0) rather(1.0) stall(1.0) consideration(1.0) instead(1.0) of(1.0) making(1.0) our(1.0) streets(1.0) safer(1.0) .(1.0) This(0.0) is(0.0) a(0.0) flashback(0.0) to(0.0) the(0.0) Republican(1.0) gridlock(1.0) 
+of(1.0) the(1.0) 1980(1.0) 's(1.0) .(1.0) Mr.(1.0) Speaker(1.0) ,(1.0) how(1.0) many(1.0) more(1.0) innocent(1.0) Americans(1.0) will(1.0) be(1.0) victimized(1.0) while(0.0) the(0.0) Republicans(1.0) filibuster(1.0) 
+the(1.0) crime(1.0) bill(1.0) ?(1.0) How(1.0) many(1.0) more(1.0) people(1.0) will(1.0) be(1.0) murdered(1.0) ,(1.0) mugged(1.0) ,(1.0) assaulted(1.0) ,(1.0) and(1.0) ripped-(1.0) off(0.0) before(0.0) 
+the(0.0) Republicans(1.0) end(1.0) their(1.0) filibuster(1.0) and(1.0) allow(1.0) passage(1.0) of(1.0) a(1.0) really(1.0) tough(1.0) crime(1.0) bill(1.0) .(1.0) It(1.0) is(1.0) clear(1.0) that(1.0) people(1.0) 
+in(1.0) Gary(1.0) ,(0.0) IN(1.0) ,(0.0) and(0.0) across(0.0) this(0.0) Nation(1.0) do(0.0) not(0.0) have(0.0) the(0.0) time(0.0) to(0.0) wait(0.0) for(0.0) these(0.0) questions(0.0) to(0.0) 
+be(0.0) answered(0.0) .(0.0) We(0.0) need(0.0) to(0.0) pass(0.0) the(0.0) crime(1.0) bill(1.0) now(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+President	Clinton	
+Federal	dollars	fight	crime	
+Federal	funding	Democrats	bill	criminals	
+crime	Republicans	would	rather	
+play	politics	than	fight	crime	.	Instead	of	considering	the	tough	crime	bill	today	,	the	Republicans	have	decided	that	
+they	would	rather	stall	consideration	instead	of	making	our	streets	safer	.	Republican	gridlock	
+of	the	1980	's	.	Mr.	Speaker	,	how	many	more	innocent	Americans	will	be	victimized	Republicans	filibuster	
+the	crime	bill	?	How	many	more	people	will	be	murdered	,	mugged	,	assaulted	,	and	ripped-	
+Republicans	end	their	filibuster	and	allow	passage	of	a	really	tough	crime	bill	.	It	is	clear	that	people	
+in	Gary	IN	Nation	
+crime	bill	
+
+reads % = 0.5164319248826291

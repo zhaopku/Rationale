@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) to(0.0) today(0.0) to(0.0) applaud(0.0) the(0.0) actions(1.0) of(0.0) the(0.0) House(0.0) of(0.0) Representatives(0.0) in(0.0) recognizing(1.0) one(0.0) of(0.0) the(0.0) first(0.0) 
+African(1.0) American(0.0) fraternities(1.0) .(0.0) I(0.0) strongly(0.0) support(0.0) H.(0.0) Res(1.0) .(0.0) 659(0.0) ,(0.0) which(0.0) recognizes(0.0) Kappa(0.0) Alpha(0.0) Psi(0.0) fraternity(0.0) and(0.0) its(0.0) 
+98(0.0) years(0.0) of(0.0) service(0.0) to(0.0) local(0.0) communities(0.0) ,(0.0) the(0.0) pursuit(0.0) of(0.0) academic(0.0) scholarship(0.0) and(0.0) a(0.0) commitment(0.0) to(0.0) social(0.0) welfare(1.0) .(0.0) 
+I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) this(0.0) important(0.0) resolution(1.0) .(0.0) Since(0.0) its(0.0) humble(0.0) beginning(0.0) on(0.0) the(0.0) campus(0.0) of(0.0) Indiana(1.0) University(0.0) 
+Bloomington(0.0) in(0.0) 1911(0.0) ,(0.0) Kappa(0.0) Alpha(0.0) Psi(0.0) fraternity(0.0) has(0.0) been(0.0) characterized(0.0) by(0.0) a(0.0) commitment(0.0) to(0.0) empowering(0.0) African(1.0) American(0.0) men(0.0) through(0.0) 
+mentorship(0.0) ,(0.0) financial(0.0) literacy(1.0) ,(0.0) and(0.0) community(0.0) involvement(0.0) .(0.0) It(0.0) is(0.0) this(0.0) commitment(1.0) to(0.0) excellence(0.0) that(0.0) has(0.0) established(0.0) Kappa(0.0) Alpha(0.0) 
+Psi(0.0) as(0.0) one(0.0) of(0.0) the(0.0) finest(0.0) fraternal(0.0) organizations(0.0) in(0.0) the(0.0) country(0.0) .(0.0) With(0.0) over(0.0) 150,000(0.0) members(0.0) ,(0.0) 700(0.0) undergraduate(0.0) and(0.0) 
+alumni(0.0) chapters(0.0) in(0.0) every(0.0) state(0.0) of(0.0) the(0.0) United(0.0) States(0.0) ,(0.0) and(0.0) international(0.0) chapters(0.0) in(0.0) the(0.0) United(0.0) Kingdom(0.0) ,(0.0) Germany(0.0) ,(0.0) 
+Korea(0.0) ,(0.0) Japan(0.0) ,(0.0) and(0.0) Nigeria(0.0) ,(0.0) Kappa(0.0) Alpha(0.0) Psi(0.0) fraternity(0.0) has(0.0) produced(0.0) notable(0.0) leaders(0.0) in(0.0) the(0.0) fields(0.0) of(0.0) government(0.0) 
+,(0.0) athletics(0.0) ,(0.0) education(1.0) ,(0.0) and(0.0) business(0.0) .(0.0) Current(0.0) alumni(0.0) include(0.0) director(0.0) ,(0.0) writer(0.0) ,(0.0) and(0.0) producer(0.0) John(0.0) Singleton(1.0) ,(0.0) 
+Civil(0.0) Rights(0.0) advocate(0.0) Donald(1.0) L.(1.0) Hollowell(1.0) ,(0.0) and(0.0) Robert(0.0) L.(1.0) Johnson(1.0) ,(0.0) the(0.0) founder(0.0) of(0.0) Black(1.0) Entertainment(0.0) Television(0.0) .(0.0) Kappa(0.0) 
+Alpha(0.0) Psi(0.0) fraternity(0.0) has(0.0) far(0.0) surpassed(0.0) the(0.0) vision(0.0) of(0.0) its(0.0) founders(0.0) to(0.0) produce(0.0) upstanding(0.0) ,(0.0) high(0.0) quality(0.0) African(1.0) American(0.0) males(0.0) 
+who(0.0) possess(0.0) positive(0.0) values(0.0) and(0.0) the(0.0) desire(0.0) to(0.0) serve(0.0) their(0.0) communities(1.0) .(0.0) Ms.(0.0) EDDIE(1.0) BERNICE(1.0) JOHNSON(1.0) of(0.0) Texas(0.0) .(0.0) Mr.(0.0) 
+Speaker(1.0) ,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) support(0.0) of(0.0) H.(0.0) Res(1.0) .(0.0) 659(0.0) to(0.0) congratulate(0.0) Kappa(0.0) Alpha(0.0) Psi(0.0) Fraternity(0.0) ,(0.0) Inc.(0.0) 
+on(0.0) 98(0.0) years(0.0) of(0.0) serving(0.0) local(0.0) communities(0.0) and(0.0) enhancing(0.0) the(0.0) lives(0.0) of(0.0) collegiate(1.0) men(0.0) throughout(0.0) the(0.0) United(0.0) States(0.0) .(0.0) Throughout(0.0) 
+this(0.0) organization(1.0) 's(0.0) history(0.0) ,(0.0) the(0.0) gentlemen(0.0) of(0.0) Kappa(0.0) Alpha(0.0) Psi(0.0) Fraternity(0.0) ,(0.0) Inc.(0.0) have(0.0) proven(0.0) to(0.0) be(0.0) exemplary(0.0) public(0.0) 
+servants(0.0) and(0.0) strong(0.0) leaders(0.0) in(0.0) their(0.0) communities(1.0) .(0.0) They(0.0) seek(0.0) to(0.0) train(0.0) their(0.0) members(0.0) for(0.0) leadership(0.0) roles(0.0) and(0.0) encourage(0.0) a(0.0) 
+high(0.0) academic(0.0) standard(0.0) .(0.0) In(0.0) close(0.0) to(0.0) a(0.0) century(0.0) of(0.0) existence(0.0) ,(0.0) the(0.0) Kappa(1.0) Alpha(0.0) Psi(0.0) Fraternity(0.0) ,(0.0) Inc.(0.0) has(0.0) 
+initiated(0.0) over(0.0) 120,000(0.0) members(0.0) and(0.0) encouraged(0.0) their(0.0) members(0.0) to(0.0) participate(0.0) in(0.0) programs(0.0) such(0.0) as(0.0) their(0.0) Undergraduate(0.0) Leadership(0.0) Workshop(0.0) ,(0.0) their(0.0) 
+Habitat(1.0) for(0.0) Humanity(1.0) Program(0.0) ,(0.0) their(0.0) St.(1.0) Jude(0.0) Research(0.0) Hospital(0.0) Partnership(0.0) ,(0.0) ``(0.0) Kappas(1.0) on(0.0) Kapitol(1.0) Hill(0.0) ''(0.0) ,(0.0) and(0.0) 
+their(0.0) CARE/GLAD(0.0) Financial(0.0) Literacy(1.0) Programs(0.0) .(0.0) Additionally(0.0) the(0.0) Kappa(0.0) Alpha(0.0) Psi(0.0) Fraternity(0.0) ,(0.0) Inc.(0.0) counts(0.0) within(0.0) its(0.0) ranks(0.0) numerous(0.0) professional(0.0) 
+athletes(0.0) ,(0.0) entertainers(1.0) ,(0.0) and(0.0) countless(0.0) civic(1.0) and(0.0) business(0.0) leaders(0.0) ,(0.0) and(0.0) I(0.0) have(0.0) the(0.0) distinct(0.0) pleasure(0.0) of(0.0) serving(0.0) in(0.0) 
+the(0.0) House(0.0) of(0.0) Representatives(0.0) with(0.0) Sanford(0.0) D.(0.0) Bishop(0.0) ,(0.0) John(0.0) Conyers(1.0) ,(0.0) Jr.(0.0) ,(0.0) Alcee(1.0) L.(1.0) Hastings(1.0) ,(0.0) William(0.0) Lacy(1.0) 
+Clay(1.0) ,(0.0) and(0.0) Bennie(0.0) Thompson(1.0) who(0.0) are(0.0) all(0.0) members(0.0) of(0.0) this(0.0) noble(0.0) organization(0.0) .(0.0) As(0.0) a(0.0) member(0.0) of(0.0) a(0.0) Greek(0.0) 
+organization(0.0) myself(0.0) ,(0.0) I(0.0) value(0.0) and(0.0) appreciate(0.0) the(0.0) deep(0.0) meaning(0.0) that(0.0) this(0.0) brotherhood(1.0) holds(0.0) for(0.0) so(0.0) many(0.0) individuals(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+actions	recognizing	
+African	fraternities	Res	
+welfare	
+resolution	Indiana	
+African	
+literacy	commitment	
+
+
+
+education	Singleton	
+Donald	L.	Hollowell	L.	Johnson	Black	
+African	
+communities	EDDIE	BERNICE	JOHNSON	
+Speaker	Res	
+collegiate	
+organization	
+communities	
+Kappa	
+
+Habitat	Humanity	St.	Kappas	Kapitol	
+Literacy	
+entertainers	civic	
+Conyers	Alcee	L.	Hastings	Lacy	
+Clay	Thompson	
+brotherhood	
+
+reads % = 0.092

@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) during(0.0) the(0.0) campaign(1.0) ,(0.0) President(0.0) Obama(1.0) pledged(1.0) 95(0.0) percent(0.0) of(0.0) taxpayers(1.0) would(0.0) not(0.0) see(0.0) their(0.0) taxes(1.0) increased(0.0) one(0.0) 
+single(0.0) dime(1.0) .(0.0) Unfortunately(0.0) ,(0.0) the(0.0) President(1.0) has(0.0) broken(0.0) this(0.0) promise(1.0) .(0.0) The(0.0) President(1.0) 's(0.0) budget(1.0) included(0.0) a(0.0) cap-and-trade(1.0) policy(1.0) 
+,(0.0) otherwise(0.0) known(0.0) as(0.0) cap-and-tax(1.0) ,(0.0) that(0.0) will(0.0) hit(0.0) every(0.0) home(0.0) utility(0.0) bill(0.0) and(0.0) inflict(1.0) more(0.0) pain(0.0) at(0.0) the(0.0) pump(1.0) 
+.(0.0) Every(0.0) American(0.0) will(0.0) be(0.0) impacted(0.0) by(0.0) this(0.0) dangerous(1.0) policy(1.0) .(0.0) American(0.0) households(1.0) ,(0.0) on(0.0) average(0.0) ,(0.0) can(0.0) expect(0.0) to(0.0) 
+pay(1.0) an(0.0) additional(0.0) $(0.0) 3,100(0.0) a(0.0) year(0.0) in(0.0) energy(1.0) costs(1.0) .(0.0) The(0.0) American(0.0) people(0.0) still(0.0) live(0.0) with(0.0) the(0.0) memory(0.0) of(0.0) 
+$(0.0) 4(0.0) a(0.0) gallon(0.0) for(0.0) gas(1.0) and(0.0) the(0.0) hardship(1.0) it(0.0) inflicted(1.0) on(0.0) their(0.0) family(0.0) budgets(1.0) .(0.0) Even(0.0) our(0.0) Democrat(1.0) colleagues(0.0) 
+say(0.0) this(0.0) .(0.0) Mr.(0.0) Butterfield(1.0) from(0.0) North(0.0) Carolina(0.0) is(0.0) quoted(0.0) today(0.0) in(0.0) Roll(0.0) Call(0.0) as(0.0) saying(0.0) ,(0.0) ``(0.0) The(0.0) cost(0.0) 
+of(0.0) everything(0.0) is(0.0) going(0.0) to(0.0) go(0.0) up(0.0) .(0.0) ''(0.0) The(0.0) cost(0.0) of(0.0) everything(0.0) is(0.0) going(0.0) to(0.0) go(0.0) up(0.0) .(0.0) This(0.0) 
+is(0.0) the(0.0) wrong(0.0) direction(0.0) for(0.0) this(0.0) country(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+campaign	Obama	pledged	taxpayers	taxes	
+dime	President	promise	President	budget	cap-and-trade	policy	
+cap-and-tax	inflict	pump	
+dangerous	policy	households	
+pay	energy	costs	
+gas	hardship	inflicted	budgets	Democrat	
+Butterfield	
+
+country	
+
+reads % = 0.16568047337278108

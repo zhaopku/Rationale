@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) President(0.0) Obama(1.0) will(0.0) soon(0.0) decide(0.0) whether(0.0) to(0.0) significantly(0.0) escalate(1.0) the(0.0) number(0.0) of(0.0) U.S.(0.0) troops(0.0) deployed(0.0) to(0.0) Afghanistan(1.0) .(0.0) 
+I(0.0) urge(0.0) him(0.0) to(0.0) exercise(0.0) extreme(0.0) caution(0.0) and(0.0) not(0.0) increase(0.0) America(1.0) 's(0.0) military(0.0) footprint(0.0) in(0.0) Afghanistan(1.0) .(0.0) I(0.0) was(0.0) in(0.0) 
+Afghanistan(1.0) right(0.0) after(0.0) the(0.0) elections(1.0) .(0.0) Everyone(0.0) admits(0.0) there(0.0) was(0.0) massive(0.0) fraud(1.0) and(0.0) that(0.0) corruption(1.0) is(0.0) widespread(1.0) in(0.0) the(0.0) government(1.0) 
+.(0.0) Do(0.0) we(0.0) really(0.0) expect(0.0) to(0.0) achieve(0.0) long-term(1.0) sustainable(1.0) development(0.0) in(0.0) Afghanistan(1.0) when(0.0) the(0.0) people(0.0) have(0.0) no(0.0) confidence(0.0) in(0.0) their(0.0) 
+leaders(0.0) ?(0.0) Can(0.0) we(0.0) develop(0.0) and(0.0) train(0.0) a(0.0) credible(0.0) Afghanistan(0.0) security(0.0) force(0.0) when(0.0) many(0.0) of(0.0) its(0.0) leaders(0.0) are(0.0) allied(0.0) with(0.0) 
+warlords(1.0) and(0.0) drug(0.0) lords(0.0) ?(0.0) Last(0.0) Friday(0.0) ,(0.0) 57(0.0) bipartisan(1.0) Members(0.0) of(0.0) Congress(0.0) sent(0.0) a(0.0) letter(0.0) to(0.0) the(0.0) President(0.0) asking(0.0) 
+him(0.0) not(0.0) to(0.0) increase(0.0) the(0.0) number(0.0) of(0.0) U.S.(0.0) combat(0.0) troops(0.0) in(0.0) Afghanistan(1.0) in(0.0) the(0.0) absence(0.0) of(0.0) a(0.0) well-defined(0.0) military(0.0) exit(0.0) 
+strategy(0.0) .(0.0) If(0.0) we(0.0) 're(0.0) going(0.0) to(0.0) send(0.0) our(0.0) men(0.0) and(0.0) women(0.0) to(0.0) fight(1.0) and(0.0) die(0.0) in(0.0) Afghanistan(1.0) for(0.0) a(0.0) 
+corrupt(1.0) and(0.0) fraudulent(1.0) government(1.0) ,(0.0) then(0.0) at(0.0) least(0.0) tell(0.0) us(0.0) when(0.0) they(0.0) will(0.0) be(0.0) able(0.0) to(0.0) come(0.0) home(0.0) .(0.0) Congress(0.0) 
+of(0.0) the(0.0) United(0.0) States(0.0) ,(0.0) Washington(1.0) ,(0.0) DC(1.0) ,(0.0) September(0.0) 25(0.0) ,(0.0) 2009(0.0) .(0.0) Hon(0.0) .(0.0) Barack(1.0) Obama(1.0) ,(0.0) President(0.0) 
+of(0.0) the(0.0) United(0.0) States(0.0) ,(0.0) The(0.0) White(1.0) House(0.0) ,(0.0) Pennsylvania(1.0) Avenue(1.0) ,(0.0) NW(0.0) ,(0.0) Washington(1.0) ,(0.0) DC(1.0) .(0.0) Dear(0.0) Mr.(0.0) 
+President(1.0) :(1.0) As(0.0) you(0.0) consider(0.0) the(0.0) latest(0.0) assessment(0.0) of(0.0) U.S.(0.0) military(0.0) engagement(0.0) in(0.0) Afghanistan(1.0) by(0.0) General(0.0) Stanley(0.0) A.(1.0) MCChrystal(0.0) ,(0.0) 
+we(0.0) urge(0.0) you(0.0) to(0.0) reject(1.0) any(0.0) recommendation(0.0) to(0.0) increase(1.0) the(0.0) number(0.0) of(0.0) combat(0.0) troops(0.0) there(0.0) ,(0.0) particularly(0.0) in(0.0) the(0.0) absence(0.0) 
+of(0.0) a(0.0) well-defined(0.0) military(0.0) exit(0.0) strategy(0.0) .(0.0) We(0.0) have(0.0) enormous(1.0) confidence(0.0) in(0.0) the(0.0) ability(0.0) of(0.0) the(0.0) U.S.(0.0) military(0.0) ,(0.0) but(0.0) 
+we(0.0) question(0.0) the(0.0) effectiveness(0.0) of(0.0) committing(1.0) our(0.0) troops(1.0) to(0.0) a(0.0) prolonged(0.0) counterinsurgency(1.0) war(1.0) that(0.0) could(0.0) last(0.0) ten(0.0) years(0.0) or(0.0) more(0.0) 
+,(0.0) involve(0.0) hundreds(0.0) of(0.0) thousands(0.0) of(0.0) troops(1.0) ,(0.0) and(0.0) impose(1.0) huge(0.0) financial(1.0) costs(1.0) on(0.0) taxpayers(1.0) already(0.0) saddled(0.0) with(0.0) trillions(1.0) of(0.0) 
+dollars(1.0) of(0.0) government(1.0) debt(1.0) .(0.0) According(0.0) to(0.0) General(0.0) Charles(0.0) Krulak(1.0) ((0.0) retired(0.0) )(0.0) ,(0.0) the(0.0) 31st(0.0) Commandant(0.0) of(0.0) the(0.0) Marine(0.0) 
+Corps(0.0) ,(0.0) the(0.0) current(0.0) strategy(0.0) of(0.0) protecting(0.0) the(0.0) people(0.0) of(0.0) Afghanistan(0.0) with(0.0) U.S.(0.0) forces(0.0) would(0.0) require(0.0) an(0.0) escalation(0.0) of(0.0) several(0.0) 
+hundred(0.0) thousand(0.0) additional(0.0) troops(0.0) .(0.0) He(0.0) warns(0.0) that(0.0) our(0.0) military(0.0) has(0.0) already(0.0) been(0.0) overburdened(0.0) :(0.0) ``(0.0) Not(0.0) only(0.0) are(0.0) our(0.0) 
+troops(0.0) being(0.0) run(0.0) ragged(0.0) but(0.0) ,(0.0) equally(0.0) important(0.0) and(0.0) totally(0.0) off(0.0) most(0.0) people(0.0) 's(0.0) radar(0.0) screens(0.0) ,(0.0) our(0.0) equipment(0.0) is(0.0) 
+being(0.0) run(0.0) ragged(0.0) .(0.0) ''(0.0) It(0.0) is(0.0) unlikely(0.0) that(0.0) our(0.0) NATO(1.0) allies(0.0) will(0.0) be(0.0) able(0.0) to(0.0) sustain(1.0) the(0.0) political(1.0) support(0.0) 
+necessary(0.0) for(0.0) continuing(0.0) such(0.0) a(0.0) mission(0.0) placing(0.0) even(0.0) more(0.0) of(0.0) a(0.0) burden(1.0) on(0.0) American(0.0) forces(1.0) and(0.0) the(0.0) American(0.0) people(0.0) .(0.0) 
+2009(0.0) is(0.0) already(0.0) the(0.0) deadliest(1.0) year(0.0) for(0.0) U.S.(0.0) forces(0.0) since(0.0) the(0.0) war(1.0) began(0.0) eight(0.0) years(0.0) ago(0.0) .(0.0) Fifty-one(0.0) of(0.0) the(0.0) 
+seven(0.0) hundred(0.0) and(0.0) thirty-eight(0.0) U.S.(0.0) soldiers(0.0) who(0.0) have(0.0) lost(0.0) their(0.0) lives(0.0) in(0.0) Afghanistan(1.0) were(0.0) killed(0.0) last(0.0) month(0.0) alone(0.0) .(0.0) The(0.0) 
+national(1.0) Afghanistan(1.0) election(0.0) that(0.0) U.S(1.0) .(0.0) Ambassador(0.0) Karl(1.0) Eikenberry(1.0) hoped(0.0) would(0.0) lead(0.0) to(0.0) a(0.0) ``(0.0) renewal(0.0) of(0.0) trust(0.0) of(0.0) 
+
+
+----- below are rationale words -----
+
+Obama	escalate	Afghanistan	
+America	Afghanistan	
+Afghanistan	elections	fraud	corruption	widespread	government	
+long-term	sustainable	Afghanistan	
+
+warlords	bipartisan	
+Afghanistan	
+fight	Afghanistan	
+corrupt	fraudulent	government	
+Washington	DC	Barack	Obama	
+White	Pennsylvania	Avenue	Washington	DC	
+President	:	Afghanistan	A.	
+reject	increase	
+enormous	
+committing	troops	counterinsurgency	war	
+troops	impose	financial	costs	taxpayers	trillions	
+dollars	government	debt	Krulak	
+
+
+
+NATO	sustain	political	
+burden	forces	
+deadliest	war	
+Afghanistan	
+national	Afghanistan	U.S	Karl	Eikenberry	
+
+reads % = 0.13

@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) would(0.0) like(0.0) to(0.0) make(0.0) an(0.0) inquiry(0.0) of(0.0) the(0.0) Chair(0.0) as(0.0) to(0.0) why(0.0) the(0.0) gentleman(0.0) from(0.0) Ohio(1.0) 's(0.0) parliamentary(0.0) request(0.0) to(0.0) 
+adjourn(0.0) the(0.0) House(0.0) was(0.0) not(0.0) received(0.0) by(0.0) the(0.0) Chair(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Ohio	
+
+
+reads % = 0.03225806451612903

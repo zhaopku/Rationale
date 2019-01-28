@@ -1,0 +1,34 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) would(0.0) like(0.0) to(0.0) thank(0.0) Chairman(0.0) Lucas(1.0) for(0.0) the(0.0) time(0.0) to(0.0) speak(0.0) on(0.0) an(0.0) issue(0.0) that(0.0) is(0.0) near(0.0) to(0.0) my(0.0) heart(0.0) 
+.(0.0) Madam(0.0) Speaker(1.0) ,(0.0) I(0.0) came(0.0) to(0.0) Washington(1.0) ,(0.0) hoping(0.0) to(0.0) bring(0.0) some(0.0) common(0.0) sense(0.0) to(0.0) a(0.0) city(0.0) sorely(0.0) lacking(0.0) 
+it(0.0) .(0.0) We(0.0) have(0.0) too(0.0) many(0.0) regulations(1.0) being(0.0) written(0.0) by(0.0) too(0.0) many(0.0) bureaucrats(1.0) who(0.0) have(0.0) no(0.0) idea(0.0) what(0.0) the(0.0) real(0.0) 
+world(0.0) is(0.0) like(0.0) .(0.0) And(0.0) let(0.0) me(0.0) give(0.0) you(0.0) one(0.0) real-world(0.0) example(0.0) .(0.0) Regulators(1.0) at(0.0) the(0.0) EPA(1.0) think(0.0) that(0.0) dust(0.0) 
+poses(0.0) a(0.0) serious(0.0) health(1.0) and(0.0) pollution(1.0) threat(1.0) and(0.0) have(0.0) proposed(1.0) significant(1.0) reductions(1.0) in(0.0) the(0.0) amount(0.0) of(0.0) dust(0.0) that(0.0) can(0.0) be(0.0) 
+in(0.0) the(0.0) air(0.0) .(0.0) It(0.0) 's(0.0) dry(0.0) and(0.0) it(0.0) 's(0.0) windy(0.0) in(0.0) western(1.0) Kansas(1.0) ,(0.0) where(0.0) I(0.0) come(0.0) from(0.0) .(0.0) 
+So(0.0) when(0.0) we(0.0) drive(0.0) on(0.0) the(0.0) dirt(0.0) roads(0.0) common(0.0) to(0.0) rural(1.0) America(0.0) ,(0.0) we(0.0) turn(0.0) up(0.0) dust(0.0) in(0.0) the(0.0) air(0.0) 
+.(0.0) To(0.0) keep(0.0) this(0.0) from(0.0) happening(0.0) ,(0.0) the(0.0) EPA(1.0) recommends(1.0) spraying(1.0) dirt(1.0) on(0.0) the(0.0) dry(0.0) roads(0.0) twice(0.0) a(0.0) day(0.0) .(0.0) 
+Obviously(0.0) they(0.0) have(0.0) never(0.0) been(0.0) to(0.0) Kansas(1.0) before(0.0) .(0.0) Kansans(1.0) are(0.0) hardworking(0.0) people(0.0) ;(0.0) and(0.0) we(0.0) do(0.0) n't(0.0) have(0.0) time(0.0) 
+to(0.0) do(0.0) this(0.0) and(0.0) ,(0.0) frankly(0.0) ,(0.0) Madam(0.0) Speaker(1.0) ,(0.0) nor(0.0) do(0.0) we(0.0) have(0.0) the(0.0) water(0.0) to(0.0) spray(0.0) on(0.0) these(0.0) 
+roads(1.0) .(0.0) I(0.0) welcome(0.0) the(0.0) opportunity(0.0) this(0.0) resolution(1.0) provides(0.0) for(0.0) us(0.0) to(0.0) bring(0.0) these(0.0) regulators(1.0) in(0.0) and(0.0) give(0.0) them(0.0) a(0.0) 
+picture(0.0) of(0.0) what(0.0) life(0.0) is(0.0) like(0.0) in(0.0) the(0.0) real(0.0) world(0.0) outside(0.0) of(0.0) Washington(1.0) .(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) join(0.0) 
+me(0.0) in(0.0) support(0.0) of(0.0) House(0.0) Resolution(1.0) 72(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Lucas	
+Speaker	Washington	
+regulations	bureaucrats	
+Regulators	EPA	
+health	pollution	threat	proposed	significant	reductions	
+western	Kansas	
+rural	
+EPA	recommends	spraying	dirt	
+Kansas	Kansans	
+Speaker	
+roads	resolution	regulators	
+Washington	
+Resolution	
+
+reads % = 0.11244979919678715

@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Ms.(1.0) EDDIE(1.0) BERNICE(1.0) JOHNSON(1.0) of(0.0) Texas(0.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) I(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) the(0.0) act(0.0) to(0.0) replace(0.0) these(0.0) two(0.0) 
+facilities(0.0) ,(0.0) and(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+EDDIE	BERNICE	JOHNSON	Speaker	
+
+
+reads % = 0.12121212121212122

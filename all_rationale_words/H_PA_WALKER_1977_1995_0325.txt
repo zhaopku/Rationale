@@ -1,0 +1,24 @@
+This is from a Republican
+----- below is the original text -----
+There(0.0) are(0.0) a(0.0) number(0.0) of(0.0) reforms(1.0) that(0.0) the(0.0) Galvin(1.0) Commission(0.0) recommended(0.0) ,(0.0) but(0.0) their(0.0) main(0.0) recommendation(0.0) ,(0.0) their(0.0) chief(1.0) recommendation(0.0) ,(0.0) 
+was(0.0) ,(0.0) as(0.0) you(1.0) begin(0.0) the(0.0) business(1.0) of(0.0) paring(1.0) down(1.0) the(0.0) laboratories(1.0) ,(0.0) to(0.0) do(0.0) it(0.0) based(0.0) upon(0.0) a(0.0) private-sector(1.0) 
+kind(1.0) of(0.0) approach(0.0) ,(0.0) and(0.0) not(0.0) a(0.0) private(0.0) sector(1.0) ,(0.0) not(1.0) just(0.0) taking(0.0) the(0.0) labs(0.0) and(0.0) privatizing(1.0) them(0.0) immediately(0.0) because(0.0) 
+of(0.0) the(0.0) bureaucratic(1.0) overhead(1.0) in(0.0) them(0.0) at(0.0) the(0.0) present(1.0) time(0.0) .(0.0) They(0.0) can(0.0) not(0.0) be(0.0) sustained(0.0) in(0.0) the(0.0) private(0.0) sector(1.0) 
+,(0.0) and(0.0) we(0.0) will(0.0) lose(0.0) them(0.0) .(0.0) The(0.0) Galvin(1.0) Commission(0.0) has(0.0) a(0.0) very(0.0) specific(1.0) recommendation(0.0) in(0.0) that(0.0) regard(1.0) .(0.0) I(0.0) 
+think(1.0) we(0.0) ought(1.0) to(0.0) follow(0.0) the(0.0) recommendation(0.0) of(0.0) the(0.0) experts(0.0) .(0.0) We(0.0) think(0.0) that(0.0) that(0.0) should(0.0) be(0.0) done(0.0) within(1.0) a(0.0) 
+cost-cutting(1.0) regime(1.0) ,(0.0) and(0.0) we(0.0) are(0.0) willing(1.0) to(0.0) cut(1.0) money(1.0) out(0.0) of(0.0) DOE(1.0) ,(0.0) but(0.0) we(0.0) are(0.0) not(0.0) willing(1.0) to(0.0) 
+dismantle(1.0) the(0.0) agency(1.0) in(0.0) ways(1.0) that(0.0) I(0.0) personally(1.0) regard(1.0) as(0.0) irresponsible(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+reforms	Galvin	chief	
+you	business	paring	down	laboratories	private-sector	
+kind	sector	not	privatizing	
+bureaucratic	overhead	present	sector	
+Galvin	specific	regard	
+think	ought	within	
+cost-cutting	regime	willing	cut	money	DOE	willing	
+dismantle	agency	ways	personally	regard	irresponsible	
+
+reads % = 0.23529411764705882

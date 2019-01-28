@@ -1,0 +1,20 @@
+This is from a Democrat
+----- below is the original text -----
+Let(0.0) me(0.0) conclude(0.0) again(0.0) by(0.0) saying(0.0) what(0.0) I(0.0) said(0.0) at(0.0) the(0.0) beginning(0.0) of(0.0) this(0.0) debate(1.0) and(0.0) that(0.0) is(0.0) that(0.0) it(0.0) is(0.0) 
+unfortunate(0.0) that(0.0) we(0.0) are(0.0) dealing(0.0) with(0.0) such(0.0) an(0.0) inadequate(1.0) allocation(1.0) .(0.0) Our(0.0) cities(1.0) ,(0.0) our(0.0) towns(1.0) ,(0.0) our(0.0) States(1.0) deserve(1.0) 
+much(0.0) better(0.0) than(0.0) this(0.0) .(0.0) This(0.0) reflects(0.0) poorly(0.0) on(0.0) the(0.0) priorities(1.0) of(0.0) the(0.0) leadership(0.0) of(0.0) this(0.0) Congress(0.0) .(0.0) This(0.0) has(0.0) 
+to(0.0) change(0.0) .(0.0) Our(0.0) communities(1.0) can(0.0) not(0.0) afford(1.0) to(0.0) be(0.0) short-changed(1.0) on(0.0) important(0.0) transportation(1.0) dollars(1.0) .(0.0) This(0.0) undercuts(1.0) their(0.0) economic(1.0) 
+development(1.0) .(0.0) This(0.0) undercuts(1.0) job(0.0) growth(1.0) .(0.0) We(0.0) need(0.0) to(0.0) do(0.0) much(0.0) better(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) back(0.0) 
+the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+debate	
+inadequate	allocation	cities	towns	States	deserve	
+priorities	
+communities	afford	short-changed	transportation	dollars	undercuts	economic	
+development	undercuts	growth	Speaker	
+
+
+reads % = 0.17757009345794392

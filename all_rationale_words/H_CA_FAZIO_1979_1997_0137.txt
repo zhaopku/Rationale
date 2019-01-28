@@ -1,0 +1,40 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) strike(1.0) the(0.0) last(0.0) word(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) rise(0.0) to(0.0) engage(0.0) the(0.0) gentleman(0.0) from(0.0) Illinois(0.0) 
+[(0.0) Mr.(0.0) Porter(1.0) ](0.0) ,(0.0) chairman(0.0) of(0.0) the(0.0) Subcommittee(0.0) on(0.0) Labor(0.0) ,(0.0) Health(0.0) and(0.0) Human(0.0) Services(0.0) and(0.0) Education(0.0) ,(0.0) in(0.0) 
+a(0.0) colloquy(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) know(0.0) that(0.0) the(0.0) gentleman(0.0) from(0.0) Illinois(0.0) is(0.0) aware(0.0) of(0.0) the(0.0) food(0.0) safety(0.0) initiative(0.0) 
+that(0.0) the(0.0) President(1.0) has(0.0) made(0.0) a(0.0) top(0.0) priority(0.0) as(0.0) a(0.0) result(0.0) of(0.0) increased(0.0) incidence(0.0) of(0.0) food-borne(1.0) illness(0.0) in(0.0) the(0.0) United(0.0) 
+States(0.0) .(0.0) I(0.0) know(0.0) ,(0.0) from(0.0) serving(1.0) on(0.0) the(0.0) Subcommittee(0.0) on(0.0) Agriculture(0.0) ,(0.0) Rural(1.0) Development(0.0) ,(0.0) Food(1.0) and(0.0) Drug(0.0) Administration(0.0) 
+,(0.0) and(0.0) Related(0.0) Agencies(0.0) that(0.0) we(0.0) have(0.0) provided(0.0) $(0.0) 28.8(0.0) million(0.0) to(0.0) improve(0.0) inspections(1.0) done(0.0) by(0.0) the(0.0) Food(1.0) and(0.0) Drug(1.0) 
+Administration(0.0) and(0.0) expand(0.0) preventive(1.0) safety(0.0) measures(0.0) .(0.0) The(0.0) other(0.0) significant(0.0) component(0.0) of(0.0) the(0.0) food(0.0) safety(0.0) initiative(1.0) is(0.0) found(0.0) in(0.0) the(0.0) 
+bill(1.0) we(0.0) are(0.0) considering(0.0) today(0.0) for(0.0) the(0.0) Centers(1.0) for(0.0) Disease(1.0) Control(0.0) and(0.0) Prevention(1.0) .(0.0) The(0.0) major(0.0) contribution(1.0) the(0.0) CDC(0.0) will(0.0) 
+make(0.0) to(0.0) the(0.0) food(1.0) safety(0.0) initiative(1.0) deals(0.0) with(0.0) surveillance(1.0) .(0.0) We(0.0) need(0.0) to(0.0) not(0.0) only(0.0) monitor(0.0) the(0.0) food(1.0) supply(0.0) ,(0.0) 
+but(0.0) to(0.0) develop(0.0) a(0.0) rapid(0.0) response(0.0) to(0.0) outbreaks(0.0) due(0.0) to(0.0) food-borne(1.0) illnesses(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) the(0.0) CDC(1.0) received(0.0) an(0.0) 
+allocation(0.0) of(0.0) $(0.0) 2.4(0.0) billion(1.0) in(0.0) this(0.0) year(0.0) 's(0.0) bill(1.0) ,(0.0) which(0.0) is(0.0) $(0.0) 86(0.0) million(0.0) more(0.0) than(0.0) the(0.0) administration(1.0) 
+requested(0.0) .(0.0) I(0.0) know(0.0) by(0.0) tradition(0.0) the(0.0) committee(0.0) does(0.0) not(0.0) specify(0.0) how(0.0) the(0.0) CDC(0.0) must(0.0) use(0.0) the(0.0) additional(0.0) funds(0.0) ;(0.0) 
+however(0.0) ,(0.0) it(0.0) is(0.0) clear(0.0) that(0.0) the(0.0) committee(0.0) has(0.0) provided(0.0) the(0.0) resources(0.0) necessary(0.0) to(0.0) fully(0.0) fund(1.0) CDC's(0.0) portion(0.0) of(0.0) this(0.0) 
+new(0.0) and(0.0) promising(0.0) food(1.0) safety(0.0) initiative(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) would(0.0) ask(0.0) could(0.0) the(0.0) gentleman(0.0) from(0.0) Illinois(0.0) comment(0.0) on(0.0) 
+the(0.0) committee(0.0) 's(0.0) view(0.0) of(0.0) the(0.0) importance(0.0) of(0.0) the(0.0) $(0.0) 10(0.0) million(0.0) of(0.0) the(0.0) additional(0.0) funding(1.0) provided(0.0) for(0.0) the(0.0) CDC(0.0) 
+going(0.0) toward(0.0) the(0.0) agency's(0.0) involvement(1.0) in(0.0) this(0.0) food(1.0) safety(0.0) initiative(1.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+strike	Chairman	
+Porter	
+Chairman	
+President	food-borne	
+serving	Rural	Food	
+inspections	Food	Drug	
+preventive	initiative	
+bill	Centers	Disease	Prevention	contribution	
+food	initiative	surveillance	food	
+food-borne	illnesses	Chairman	CDC	
+billion	bill	administration	
+
+fund	
+food	initiative	Chairman	
+funding	
+involvement	food	initiative	
+
+reads % = 0.12179487179487179

@@ -1,0 +1,24 @@
+This is from a Democrat
+----- below is the original text -----
+There(0.0) 's(0.0) lots(0.0) of(0.0) pain(0.0) in(0.0) our(0.0) country(1.0) --(0.0) mothers(1.0) and(0.0) fathers(1.0) are(0.0) out(0.0) of(0.0) work(0.0) ,(0.0) losing(0.0) homes(0.0) ,(0.0) bills(1.0) 
+piling(1.0) up(0.0) --(0.0) but(0.0) here(0.0) we(0.0) go(0.0) again(0.0) :(0.0) another(0.0) day(0.0) in(0.0) Congress(0.0) being(0.0) squandered(1.0) as(0.0) we(0.0) fight(1.0) once(0.0) more(0.0) 
+about(0.0) women(1.0) having(0.0) access(0.0) to(0.0) the(0.0) medical(0.0) care(0.0) we(0.0) need(0.0) ,(0.0) free(0.0) from(0.0) the(0.0) long(0.0) ,(0.0) invasive(1.0) arm(0.0) of(0.0) government(1.0) 
+.(0.0) And(0.0) again(0.0) ,(0.0) there(0.0) 's(0.0) a(0.0) cruel(0.0) unconstitutional(1.0) twist(0.0) .(0.0) Under(0.0) the(0.0) newly(0.0) minted(1.0) H.R(0.0) .(0.0) 1797(0.0) ,(0.0) a(0.0) 
+woman(0.0) in(0.0) desperate(1.0) need(0.0) of(0.0) a(0.0) physician(0.0) must(0.0) instead(0.0) call(0.0) the(0.0) police(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) the(0.0) American(0.0) people(0.0) know(0.0) 
+that(0.0) there(0.0) 's(0.0) a(0.0) better(0.0) way(0.0) to(0.0) protect(0.0) life(0.0) .(0.0) Allow(0.0) women(1.0) to(0.0) have(0.0) access(0.0) to(0.0) the(0.0) health(1.0) care(1.0) that(0.0) 
+we(0.0) require(0.0) to(0.0) live(0.0) full(0.0) lives(0.0) ,(0.0) and(0.0) let(0.0) 's(0.0) work(0.0) together(0.0) in(0.0) a(0.0) bipartisan(1.0) manner(0.0) to(0.0) get(0.0) people(0.0) back(0.0) 
+to(0.0) work(0.0) in(0.0) this(0.0) country(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+country	mothers	fathers	bills	
+piling	squandered	fight	
+women	invasive	government	
+unconstitutional	minted	
+desperate	Speaker	
+women	health	care	
+bipartisan	
+country	
+
+reads % = 0.1292517006802721

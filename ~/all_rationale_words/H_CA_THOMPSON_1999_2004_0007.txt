@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) 15(0.0) seconds(0.0) to(0.0) respond(1.0) briefly(1.0) to(0.0) my(0.0) friend(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) this(0.0) motion(0.0) to(0.0) instruct(1.0) 
+is(0.0) not(1.0) about(0.0) tax(1.0) cuts(1.0) ,(0.0) it(0.0) is(0.0) about(0.0) balancing(1.0) the(0.0) budget(0.0) .(0.0) In(1.0) 1993(0.0) ,(0.0) when(0.0) we(0.0) had(0.0) PAYGO(1.0) 
+rules(1.0) ,(0.0) we(0.0) passed(0.0) tax(1.0) cuts(1.0) .(0.0) In(0.0) 1997(1.0) ,(0.0) with(0.0) PAYGO(1.0) rules(1.0) ,(0.0) we(0.0) passed(0.0) tax(1.0) cuts(1.0) .(0.0) This(0.0) 
+is(0.0) merely(0.0) saying(0.0) if(0.0) a(0.0) bill(0.0) is(0.0) important(0.0) enough(0.0) to(0.0) pass(1.0) ,(0.0) it(0.0) ought(1.0) to(0.0) be(0.0) important(0.0) enough(0.0) to(0.0) pay(0.0) 
+for(0.0) .(0.0) The(0.0) American(0.0) people(0.0) deserve(0.0) it(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) 5(0.0) minutes(1.0) to(0.0) my(0.0) friend(0.0) ,(0.0) the(0.0) 
+gentleman(0.0) from(0.0) South(1.0) Carolina(0.0) ((0.0) Mr.(0.0) Spratt(1.0) )(0.0) ,(0.0) the(0.0) distinguished(0.0) ranking(1.0) member(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) the(0.0) Budget(0.0) .(0.0) 
+((0.0) Mr.(1.0) SPRATT(1.0) asked(0.0) and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) )(0.0) 
+
+
+----- below are rationale words -----
+
+respond	briefly	Speaker	instruct	
+not	tax	cuts	balancing	In	PAYGO	
+rules	tax	cuts	1997	PAYGO	rules	tax	cuts	
+pass	ought	
+Speaker	minutes	
+South	Spratt	ranking	
+Mr.	SPRATT	
+
+reads % = 0.19708029197080293

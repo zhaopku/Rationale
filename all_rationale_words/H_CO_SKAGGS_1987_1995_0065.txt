@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentlemen(0.0) for(0.0) yielding(0.0) me(0.0) the(0.0) time(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) have(0.0) great(0.0) respect(0.0) for(0.0) the(0.0) 
+gentleman(0.0) from(0.0) Illinois(0.0) and(0.0) believe(0.0) that(0.0) he(0.0) has(0.0) offered(0.0) what(0.0) is(0.0) almost(0.0) a(0.0) good(0.0) amendment(1.0) .(0.0) In(0.0) a(0.0) debate(1.0) like(0.0) 
+this(0.0) about(0.0) one(0.0) of(0.0) the(0.0) most(0.0) significant(0.0) powers(0.0) that(0.0) the(0.0) Constitution(1.0) grants(1.0) to(0.0) the(0.0) Congress(0.0) ,(0.0) I(0.0) think(0.0) it(0.0) is(0.0) 
+well(0.0) to(0.0) look(0.0) back(0.0) to(0.0) the(0.0) thoughts(0.0) of(0.0) one(0.0) of(0.0) the(0.0) Founders(1.0) and(0.0) perhaps(0.0) the(0.0) Father(0.0) of(0.0) the(0.0) Constitution(1.0) .(0.0) 
+Madison(0.0) observed(0.0) as(0.0) follows(0.0) about(0.0) this(0.0) power(0.0) ,(0.0) and(0.0) I(0.0) quote(0.0) :(0.0) Those(0.0) who(0.0) are(0.0) to(0.0) conduct(0.0) a(0.0) war(0.0) can(0.0) 
+not(0.0) in(0.0) the(0.0) nature(0.0) of(0.0) things(0.0) be(0.0) proper(0.0) or(0.0) safe(0.0) judges(0.0) whether(0.0) a(0.0) war(0.0) ought(0.0) to(0.0) be(0.0) commenced(0.0) ,(0.0) continued(0.0) 
+or(0.0) concluded(0.0) .(0.0) They(0.0) are(0.0) barred(1.0) from(0.0) the(0.0) latter(0.0) functions(0.0) by(0.0) a(0.0) great(0.0) principle(1.0) of(0.0) free(0.0) government(1.0) .(0.0) .(0.0) .(0.0) 
+.(0.0) In(0.0) other(0.0) words(0.0) ,(0.0) the(0.0) Executive(0.0) who(0.0) would(0.0) be(0.0) charged(0.0) with(0.0) the(0.0) prosecution(1.0) of(0.0) the(0.0) war(1.0) should(0.0) not(0.0) be(0.0) 
+considered(0.0) the(0.0) proper(0.0) authority(0.0) for(0.0) determining(0.0) whether(0.0) to(0.0) commence(0.0) one(0.0) .(0.0) We(0.0) clearly(0.0) have(0.0) constitutional(1.0) problems(0.0) with(0.0) the(0.0) current(0.0) War(0.0) 
+Powers(0.0) Resolution(0.0) .(0.0) I(0.0) think(0.0) in(0.0) order(0.0) to(0.0) understand(0.0) those(0.0) ,(0.0) we(0.0) really(0.0) need(0.0) to(0.0) parse(0.0) out(0.0) the(0.0) kinds(0.0) of(0.0) 
+situations(0.0) that(0.0) we(0.0) face(0.0) that(0.0) implicate(0.0) the(0.0) war(1.0) power(0.0) provisions(1.0) of(0.0) the(0.0) Constitution(1.0) .(0.0) First(0.0) clearly(0.0) we(0.0) have(0.0) those(0.0) actions(1.0) 
+that(0.0) truly(0.0) involve(0.0) the(0.0) commencing(0.0) of(0.0) war(1.0) in(0.0) a(0.0) constitutional(1.0) sense(0.0) .(0.0) I(0.0) would(0.0) assume(0.0) that(0.0) the(0.0) gentleman(0.0) would(0.0) agree(0.0) 
+that(0.0) in(0.0) those(0.0) cases(0.0) ,(0.0) the(0.0) power(0.0) of(0.0) Congress(0.0) is(0.0) paramount(1.0) .(0.0) It(0.0) is(0.0) not(0.0) a(0.0) matter(0.0) of(0.0) consultation(0.0) or(0.0) 
+reporting(0.0) or(0.0) a(0.0) shared(0.0) power(0.0) .(0.0) It(0.0) is(0.0) our(0.0) responsibility(0.0) ,(0.0) and(0.0) no(0.0) one(0.0) else(0.0) 's(0.0) ,(0.0) to(0.0) make(0.0) the(0.0) 
+decision(1.0) .(0.0) Then(0.0) there(0.0) are(0.0) all(0.0) other(0.0) cases(0.0) ,(0.0) deployments(0.0) of(0.0) one(0.0) sort(0.0) or(0.0) another(0.0) ,(0.0) emergency(1.0) responses(0.0) ,(0.0) humanitarian(1.0) 
+efforts(1.0) ,(0.0) all(0.0) of(0.0) the(0.0) variations(0.0) on(0.0) the(0.0) theme(0.0) in(0.0) which(0.0) I(0.0) believe(0.0) we(0.0) have(0.0) to(0.0) concede(1.0) a(0.0) good(0.0) deal(0.0) 
+of(0.0) constitutional(1.0) authority(1.0) to(0.0) the(0.0) President(1.0) of(0.0) the(0.0) United(0.0) States(0.0) both(0.0) as(0.0) Commander(0.0) in(0.0) Chief(0.0) and(0.0) as(0.0) the(0.0) individual(0.0) with(0.0) 
+authority(0.0) under(0.0) our(0.0) The(0.0) War(0.0) Powers(0.0) Resolution(0.0) impinges(0.0) on(0.0) the(0.0) constitutional(1.0) authority(0.0) on(0.0) the(0.0) one(0.0) hand(0.0) of(0.0) the(0.0) Congress(0.0) ,(0.0) 
+by(0.0) ceding(1.0) authority(0.0) to(0.0) the(0.0) President(0.0) in(0.0) some(0.0) instances(0.0) where(0.0) it(0.0) is(0.0) our(0.0) paramount(1.0) responsibility(0.0) to(0.0) act(0.0) .(0.0) And(0.0) it(0.0) 
+impinges(1.0) on(0.0) the(0.0) constitutional(1.0) authority(1.0) of(0.0) the(0.0) President(1.0) as(0.0) Commander(0.0) in(0.0) Chief(0.0) in(0.0) some(0.0) instances(0.0) ,(0.0) in(0.0) those(0.0) other(0.0) wide-ranging(1.0) 
+examples(0.0) that(0.0) fall(0.0) short(0.0) of(0.0) the(0.0) commencement(0.0) of(0.0) war(0.0) in(0.0) a(0.0) constitutional(1.0) sense(0.0) .(0.0) It(0.0) is(0.0) a(0.0) defective(0.0) statute(1.0) constitutionally(1.0) 
+with(0.0) respect(0.0) to(0.0) both(0.0) the(0.0) executive(0.0) and(0.0) the(0.0) legislative(0.0) branches(0.0) and(0.0) the(0.0) responsibilities(0.0) we(0.0) each(0.0) have(0.0) under(0.0) the(0.0) Constitution(1.0) .(0.0) 
+This(0.0) amendment(1.0) is(0.0) perhaps(0.0) unfortunate(0.0) in(0.0) that(0.0) it(0.0) does(0.0) not(0.0) go(0.0) far(0.0) enough(0.0) and(0.0) simply(0.0) repeal(1.0) the(0.0) War(1.0) Powers(0.0) Act(0.0) 
+in(0.0) toto(1.0) .(0.0) Or(0.0) better(0.0) yet(0.0) ,(0.0) we(0.0) should(0.0) attempt(0.0) a(0.0) constitutionally(1.0) coherent(0.0) effort(0.0) to(0.0) explain(0.0) and(0.0) to(0.0) state(1.0) the(0.0) 
+respective(0.0) roles(0.0) of(0.0) the(0.0) executive(0.0) and(0.0) the(0.0) legislative(0.0) branches(0.0) with(0.0) respect(0.0) to(0.0) military(0.0) action(0.0) abroad(0.0) .(0.0) Instead(0.0) ,(0.0) this(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	
+amendment	debate	
+Constitution	grants	
+Founders	Constitution	
+
+
+barred	principle	government	
+prosecution	war	
+constitutional	
+
+war	provisions	Constitution	actions	
+war	constitutional	
+paramount	
+
+decision	emergency	humanitarian	
+efforts	concede	
+constitutional	authority	President	
+constitutional	
+ceding	paramount	
+impinges	constitutional	authority	President	wide-ranging	
+constitutional	statute	constitutionally	
+Constitution	
+amendment	repeal	War	
+toto	constitutionally	state	
+
+
+reads % = 0.092

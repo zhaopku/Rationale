@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) pass(0.0) the(0.0) bill(0.0) ((1.0) H.R(1.0) .(0.0) 1796(0.0) )(0.0) to(0.0) amend(0.0) the(0.0) 
+Consumer(0.0) Product(0.0) Safety(0.0) Act(0.0) to(0.0) require(0.0) residential(0.0) carbon(0.0) monoxide(1.0) detectors(0.0) to(0.0) meet(0.0) the(0.0) applicable(0.0) ANSI/UL(0.0) standard(0.0) by(0.0) treating(0.0) that(0.0) standard(0.0) 
+as(0.0) a(0.0) consumer(0.0) product(0.0) safety(0.0) rule(0.0) ,(0.0) to(0.0) encourage(0.0) States(0.0) to(0.0) require(0.0) the(0.0) installation(0.0) of(0.0) such(0.0) detectors(0.0) in(0.0) homes(0.0) ,(0.0) 
+and(0.0) for(0.0) other(0.0) purposes(0.0) ,(0.0) as(0.0) amended(0.0) .(0.0) The(0.0) Clerk(0.0) read(0.0) the(0.0) title(0.0) of(0.0) the(0.0) bill(0.0) .(0.0) The(0.0) text(0.0) of(0.0) 
+the(0.0) bill(0.0) is(0.0) as(0.0) follows(0.0) :(0.0) H.R(0.0) .(0.0) 1796(0.0) Be(0.0) it(0.0) enacted(0.0) by(0.0) the(0.0) Senate(0.0) and(0.0) House(0.0) of(0.0) Representatives(0.0) of(0.0) 
+the(0.0) United(0.0) States(0.0) of(0.0) America(0.0) in(0.0) Congress(0.0) assembled(0.0) ,(0.0) SECTION(0.0) 1(0.0) .(0.0) SHORT(0.0) TITLE(0.0) .(0.0) This(0.0) Act(0.0) may(0.0) be(0.0) cited(0.0) 
+as(0.0) the(0.0) ``(0.0) Carbon(0.0) Monoxide(0.0) Poisoning(0.0) Prevention(0.0) Act(0.0) ''(0.0) .(0.0) SEC(0.0) .(0.0) 2(0.0) .(0.0) FINDINGS(0.0) .(0.0) Congress(0.0) finds(0.0) the(0.0) following(0.0) 
+:(0.0) ((0.0) 1(0.0) )(0.0) Carbon(0.0) monoxide(0.0) is(0.0) a(0.0) colorless(0.0) ,(0.0) odorless(0.0) gas(1.0) produced(0.0) by(0.0) burning(0.0) any(0.0) fuel(0.0) .(0.0) Exposure(0.0) to(0.0) 
+unhealthy(0.0) levels(0.0) of(0.0) carbon(1.0) monoxide(1.0) can(0.0) lead(0.0) to(0.0) carbon(1.0) monoxide(1.0) poisoning(1.0) ,(0.0) a(0.0) serious(0.0) health(1.0) condition(0.0) that(0.0) could(0.0) result(0.0) in(0.0) 
+death(1.0) .(0.0) ((0.0) 2(0.0) )(0.0) Unintentional(0.0) carbon(1.0) monoxide(1.0) poisoning(1.0) from(0.0) motor(1.0) vehicles(1.0) and(0.0) the(0.0) abnormal(0.0) operation(0.0) of(0.0) fuel-burning(0.0) appliances(0.0) ,(0.0) 
+such(0.0) as(0.0) furnaces(0.0) ,(0.0) water(0.0) heaters(1.0) ,(0.0) portable(0.0) generators(1.0) ,(0.0) and(0.0) stoves(1.0) ,(0.0) in(0.0) residential(0.0) homes(0.0) and(0.0) other(0.0) dwelling(0.0) units(0.0) 
+kills(0.0) more(0.0) than(0.0) 400(0.0) people(0.0) each(0.0) year(0.0) and(0.0) sends(0.0) more(0.0) than(0.0) 20,000(0.0) to(0.0) hospital(0.0) emergency(0.0) rooms(0.0) for(0.0) treatment(0.0) .(0.0) ((0.0) 
+3(0.0) )(0.0) Research(0.0) shows(0.0) that(0.0) purchasing(0.0) and(0.0) installing(0.0) carbon(1.0) monoxide(1.0) alarms(1.0) close(0.0) to(0.0) the(0.0) sleeping(0.0) areas(0.0) in(0.0) residential(1.0) homes(0.0) and(0.0) 
+other(0.0) dwelling(0.0) units(0.0) can(0.0) help(0.0) avoid(0.0) fatalities(0.0) .(0.0) ((0.0) 4(0.0) )(0.0) Congress(0.0) should(0.0) promote(0.0) the(0.0) purchase(0.0) and(0.0) installation(0.0) of(0.0) carbon(1.0) 
+monoxide(1.0) alarms(1.0) in(0.0) residential(1.0) homes(0.0) and(0.0) dwelling(0.0) units(0.0) nationwide(1.0) in(0.0) order(0.0) to(0.0) promote(0.0) the(0.0) health(1.0) and(0.0) public(1.0) safety(0.0) of(0.0) citizens(1.0) 
+throughout(0.0) the(0.0) Nation(1.0) .(0.0) SEC(0.0) .(0.0) 3(0.0) .(0.0) DEFINITIONS(0.0) .(0.0) For(0.0) purposes(0.0) of(0.0) this(0.0) Act(0.0) ,(0.0) the(0.0) following(0.0) definitions(0.0) apply(0.0) 
+:(0.0) ((0.0) 1(0.0) )(0.0) The(0.0) term(0.0) ``(0.0) approved(0.0) carbon(0.0) monoxide(1.0) alarm(0.0) ''(0.0) means(0.0) a(0.0) carbon(0.0) monoxide(1.0) alarm(0.0) that(0.0) complies(0.0) with(0.0) 
+the(0.0) standards(0.0) published(0.0) ,(0.0) incorporated(0.0) ,(0.0) or(0.0) amended(0.0) by(0.0) the(0.0) Commission(0.0) with(0.0) respect(0.0) to(0.0) such(0.0) alarms(0.0) pursuant(0.0) to(0.0) this(0.0) Act(0.0) 
+.(0.0) ((0.0) 2(0.0) )(0.0) The(0.0) term(0.0) ``(0.0) carbon(0.0) monoxide(0.0) alarm(0.0) ''(0.0) means(0.0) a(0.0) device(0.0) that(0.0) detects(0.0) carbon(0.0) monoxide(1.0) and(0.0) sounds(0.0) 
+a(0.0) distinctive(0.0) audible(0.0) alert(0.0) before(0.0) concentrations(0.0) of(0.0) carbon(0.0) monoxide(1.0) reach(0.0) levels(0.0) that(0.0) would(0.0) cause(0.0) symptoms(0.0) of(0.0) carbon(1.0) monoxide(1.0) poisoning(1.0) .(0.0) 
+((0.0) 3(0.0) )(0.0) The(0.0) term(0.0) ``(0.0) Commission(0.0) ''(0.0) means(0.0) the(0.0) Consumer(0.0) Product(0.0) Safety(0.0) Commission(0.0) .(0.0) ((0.0) 4(0.0) )(0.0) The(0.0) term(0.0) 
+``(0.0) dwelling(0.0) unit(0.0) ''(0.0) means(0.0) a(0.0) room(0.0) or(0.0) suite(0.0) of(0.0) rooms(0.0) used(0.0) for(0.0) human(0.0) habitation(0.0) ,(0.0) and(0.0) includes(0.0) a(0.0) single(0.0) 
+family(0.0) residence(0.0) as(0.0) well(0.0) as(0.0) each(0.0) living(0.0) unit(0.0) of(0.0) a(0.0) multiple(0.0) family(0.0) residence(0.0) ((0.0) including(0.0) apartment(0.0) buildings(0.0) )(0.0) and(0.0) each(0.0) 
+living(0.0) unit(0.0) in(0.0) a(0.0) mixed(0.0) use(0.0) building(0.0) .(0.0) ((0.0) 5(0.0) )(0.0) The(0.0) term(0.0) ``(0.0) fire(0.0) code(0.0) enforcement(0.0) officials(0.0) ''(0.0) means(0.0) 
+officials(0.0) of(0.0) the(0.0) fire(0.0) safety(0.0) code(0.0) enforcement(0.0) agency(0.0) of(0.0) a(0.0) State(0.0) or(0.0) local(0.0) government(0.0) .(0.0) ((0.0) 6(0.0) )(0.0) The(0.0) 
+
+
+----- below are rationale words -----
+
+(	H.R	
+monoxide	
+
+
+
+
+
+gas	
+carbon	monoxide	carbon	monoxide	poisoning	health	
+death	carbon	monoxide	poisoning	motor	vehicles	
+heaters	generators	stoves	
+
+carbon	monoxide	alarms	residential	
+carbon	
+monoxide	alarms	residential	nationwide	health	public	citizens	
+Nation	
+monoxide	monoxide	
+
+monoxide	
+monoxide	carbon	monoxide	poisoning	
+
+
+
+
+
+
+reads % = 0.078

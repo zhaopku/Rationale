@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+Salesman(0.0) ,(0.0) the(0.0) answer(0.0) would(0.0) be(0.0) ,(0.0) yes(1.0) ,(0.0) I(0.0) would(1.0) grant(1.0) him(0.0) immunity(1.0) if(0.0) I(0.0) was(0.0) on(0.0) the(0.0) committee(0.0) .(0.0) 
+Based(1.0) upon(0.0) those(0.0) facts(1.0) ,(0.0) if(0.0) they(0.0) were(0.0) correct(0.0) ,(0.0) I(0.0) would(1.0) grant(1.0) him(0.0) immunity(1.0) .(0.0) That(0.0) is(0.0) your(0.0) original(0.0) 
+question(1.0) .(0.0) I(0.0) would(1.0) agree(1.0) with(0.0) you(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+yes	would	grant	immunity	
+Based	facts	would	grant	immunity	
+question	would	agree	you	
+
+reads % = 0.2653061224489796

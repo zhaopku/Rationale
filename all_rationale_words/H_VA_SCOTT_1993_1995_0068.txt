@@ -1,0 +1,42 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) we(0.0) have(0.0) already(0.0) heard(0.0) the(0.0) outrage(1.0) that(0.0) this(0.0) bill(1.0) has(0.0) ,(0.0) by(0.0) discriminating(1.0) against(0.0) children(0.0) ,(0.0) retirees(1.0) and(0.0) 
+homemakers(1.0) who(0.0) may(0.0) lose(0.0) limbs(0.0) ,(0.0) suffer(0.0) blindness(0.0) or(0.0) others(0.0) ,(0.0) without(0.0) the(0.0) economic(1.0) loss(0.0) .(0.0) And(0.0) they(0.0) do(0.0) not(0.0) 
+receive(0.0) the(0.0) same(0.0) kind(0.0) of(0.0) treatment(0.0) under(0.0) this(0.0) bill(1.0) as(0.0) someone(0.0) with(0.0) a(0.0) big(0.0) fat(0.0) paycheck(1.0) .(0.0) I(0.0) want(0.0) to(0.0) 
+talk(0.0) a(0.0) minute(0.0) about(0.0) joint(0.0) and(0.0) several(0.0) liability(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) we(0.0) have(0.0) heard(0.0) the(0.0) scare(1.0) tactics(0.0) of(0.0) 1(0.0) 
+percent(0.0) fault(0.0) having(0.0) to(0.0) pay(0.0) the(0.0) full(0.0) damage(0.0) .(0.0) Well(0.0) ,(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) the(0.0) majority(1.0) saw(0.0) an(0.0) amendment(1.0) proposed(1.0) 
+that(0.0) would(0.0) have(0.0) said(0.0) that(0.0) only(0.0) those(0.0) with(0.0) a(0.0) substantial(0.0) amount(0.0) of(0.0) participation(1.0) ,(0.0) 20(0.0) percent(0.0) ,(0.0) would(0.0) be(0.0) forced(0.0) 
+to(0.0) pay(1.0) the(0.0) full(0.0) freight(0.0) ,(0.0) not(0.0) those(0.0) with(0.0) 1(0.0) percent(0.0) .(0.0) That(0.0) amendment(1.0) was(0.0) ruled(0.0) out(0.0) of(0.0) order(0.0) .(0.0) 
+Mr.(0.0) Chairman(1.0) ,(0.0) if(0.0) we(0.0) have(0.0) a(0.0) situation(0.0) where(0.0) there(0.0) is(0.0) a(0.0) problem(0.0) with(0.0) the(0.0) design(0.0) and(0.0) the(0.0) manufacture(0.0) and(0.0) 
+the(0.0) possible(0.0) misrepresentation(1.0) at(0.0) sale(0.0) ,(0.0) why(0.0) should(0.0) the(0.0) victim(1.0) have(0.0) to(0.0) sort(0.0) all(0.0) this(0.0) out(0.0) ,(0.0) getting(0.0) three(0.0) separate(0.0) 
+verdicts(1.0) and(0.0) having(0.0) to(0.0) chase(0.0) down(0.0) three(0.0) separate(0.0) defendants(1.0) ?(0.0) The(0.0) fact(0.0) is(0.0) that(0.0) in(0.0) the(0.0) business(0.0) community(0.0) you(0.0) can(0.0) 
+insure(0.0) for(0.0) that(0.0) loss(0.0) and(0.0) apportion(0.0) it(0.0) before(0.0) it(0.0) happens(0.0) ,(0.0) and(0.0) you(0.0) ought(1.0) not(0.0) have(0.0) to(0.0) have(0.0) that(0.0) done(0.0) 
+by(0.0) the(0.0) defendant(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) there(0.0) is(0.0) a(0.0) case(0.0) ,(0.0) Gray(0.0) versus(0.0) Dayton(1.0) Hudson(1.0) Corp.(1.0) ,(0.0) where(0.0) the(0.0) 
+manufacturers(0.0) of(0.0) children(0.0) 's(0.0) pajamas(0.0) had(0.0) a(0.0) product(0.0) that(0.0) the(0.0) court(0.0) found(0.0) the(0.0) manufacturer(0.0) was(0.0) uniquely(0.0) aware(0.0) that(0.0) the(0.0) product(0.0) 
+was(0.0) flammable(0.0) .(0.0) The(0.0) court(0.0) noted(0.0) that(0.0) the(0.0) pajamas(0.0) in(0.0) question(0.0) burned(0.0) almost(0.0) as(0.0) quickly(0.0) as(0.0) newsprint(0.0) .(0.0) Mr.(0.0) Chairman(1.0) 
+,(0.0) this(0.0) company(0.0) could(0.0) have(0.0) ,(0.0) economically(1.0) ,(0.0) feasibly(0.0) treated(0.0) the(0.0) pajamas(0.0) so(0.0) they(0.0) would(0.0) not(0.0) burn(0.0) .(0.0) This(0.0) company(0.0) 
+would(0.0) benefit(1.0) if(0.0) this(0.0) amendment(1.0) were(0.0) not(0.0) passed(0.0) .(0.0) Children(0.0) sleep(0.0) safely(0.0) tonight(0.0) ,(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) because(0.0) punitive(1.0) damages(1.0) 
+removed(0.0) these(0.0) from(0.0) the(0.0) market(0.0) .(0.0) Let(0.0) us(0.0) not(0.0) turn(0.0) the(0.0) clock(0.0) on(0.0) consumer(1.0) protection(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	outrage	bill	discriminating	retirees	
+homemakers	economic	
+bill	paycheck	
+liability	Chairman	scare	
+Chairman	majority	amendment	proposed	
+participation	
+pay	amendment	
+Chairman	
+misrepresentation	victim	
+verdicts	defendants	
+ought	
+Chairman	Dayton	Hudson	Corp.	
+
+Chairman	
+economically	
+benefit	amendment	Chairman	punitive	damages	
+consumer	protection	
+
+reads % = 0.11275964391691394

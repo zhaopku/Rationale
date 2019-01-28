@@ -1,0 +1,24 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) personally(0.0) think(0.0) our(0.0) welfare(1.0) bill(1.0) that(0.0) ended(0.0) the(0.0) Federal(1.0) Government(1.0) 's(0.0) oppressive(1.0) mandates(1.0) on(0.0) States(0.0) for(0.0) the(0.0) first(0.0) time(0.0) in(0.0) 
+62(0.0) years(0.0) is(0.0) a(0.0) great(0.0) bill(0.0) .(0.0) Obviously(0.0) ,(0.0) 88(0.0) Senators(1.0) out(0.0) of(0.0) 100(0.0) Republican(0.0) and(1.0) Democrat(1.0) alike(1.0) thought(0.0) it(0.0) 
+was(0.0) a(0.0) great(0.0) idea(0.0) .(0.0) The(0.0) President(1.0) unfortunately(0.0) vetoed(1.0) that(0.0) bill(1.0) .(0.0) Obviously(0.0) ,(0.0) the(0.0) 50(0.0) Governors(0.0) ,(0.0) when(0.0) they(0.0) 
+came(0.0) to(0.0) town(0.0) ,(0.0) all(0.0) 50(0.0) endorsed(1.0) our(0.0) welfare(1.0) reform(1.0) bill(1.0) ,(1.0) thought(0.0) we(0.0) had(0.0) a(0.0) pretty(0.0) good(0.0) idea(0.0) .(0.0) 
+Again(0.0) they(0.0) thought(0.0) we(0.0) had(0.0) a(0.0) good(0.0) idea(0.0) ,(0.0) because(0.0) it(0.0) keeps(0.0) going(0.0) back(0.0) to(0.0) the(0.0) ideals(1.0) of(0.0) Jefferson(1.0) and(0.0) 
+Madison(1.0) and(0.0) our(0.0) Founding(1.0) Fathers(0.0) that(0.0) we(0.0) are(0.0) in(0.0) the(0.0) end(0.0) a(0.0) Nation(1.0) of(0.0) communities(1.0) and(0.0) not(0.0) a(0.0) Nation(0.0) of(0.0) 
+bureaucracies(1.0) .(0.0) We(0.0) have(0.0) got(0.0) to(0.0) rely(0.0) on(0.0) the(0.0) goodness(0.0) of(0.0) Americans(1.0) as(0.0) we(0.0) go(0.0) into(0.0) the(0.0) 21st(1.0) century(0.0) ,(0.0) 
+because(0.0) we(0.0) have(0.0) seen(0.0) the(0.0) Federal(1.0) Government(1.0) only(0.0) goes(0.0) so(0.0) far(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+welfare	bill	Federal	Government	oppressive	mandates	
+Senators	and	Democrat	alike	
+President	vetoed	bill	
+endorsed	welfare	reform	bill	,	
+ideals	Jefferson	
+Madison	Founding	Nation	communities	
+bureaucracies	Americans	21st	
+Federal	Government	
+
+reads % = 0.1895424836601307

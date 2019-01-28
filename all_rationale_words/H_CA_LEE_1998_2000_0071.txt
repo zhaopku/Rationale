@@ -1,0 +1,40 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) yield(0.0) 1(0.0) minute(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Massachusetts(1.0) ((0.0) Mr.(0.0) Olver(1.0) )(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) want(0.0) 
+to(0.0) first(0.0) thank(0.0) the(0.0) gentlewoman(0.0) from(0.0) California(0.0) ((0.0) Ms.(1.0) Pelosi(1.0) )(0.0) for(1.0) her(0.0) extraordinary(0.0) leadership(0.0) on(0.0) this(0.0) issue(0.0) and(0.0) also(0.0) 
+for(0.0) her(0.0) support(0.0) consistently(0.0) and(0.0) constantly(0.0) on(0.0) helping(0.0) us(0.0) really(0.0) raise(1.0) the(0.0) level(0.0) of(0.0) awareness(1.0) on(0.0) the(0.0) HIV/AIDS(1.0) crisis(1.0) here(0.0) 
+in(0.0) the(0.0) United(0.0) States(0.0) Congress(0.0) ,(0.0) and(0.0) also(0.0) to(0.0) the(0.0) gentlewoman(0.0) from(0.0) California(0.0) ((0.0) Ms(1.0) .(0.0) Waters(1.0) )(0.0) ,(0.0) to(0.0) 
+the(0.0) gentlewoman(0.0) from(0.0) the(0.0) Virgin(0.0) Islands(0.0) ((0.0) Ms.(1.0) Christensen(1.0) )(0.0) ,(0.0) to(0.0) all(0.0) of(0.0) the(0.0) Members(0.0) who(0.0) spoke(0.0) here(0.0) tonight(0.0) 
+.(0.0) I(0.0) want(0.0) to(0.0) pay(0.0) a(0.0) special(0.0) recognition(0.0) and(0.0) tribute(0.0) to(0.0) my(0.0) former(0.0) boss(0.0) and(0.0) predecessor(0.0) Congressman(1.0) Ron(1.0) Dellums(1.0) who(0.0) 
+often(0.0) has(0.0) been(0.0) the(0.0) lone(0.0) voice(0.0) in(0.0) the(0.0) wilderness(0.0) speaking(0.0) about(0.0) this(0.0) pandemic(1.0) in(0.0) Africa(0.0) .(0.0) Finally(0.0) ,(0.0) I(0.0) believe(0.0) 
+we(0.0) are(0.0) breaking(0.0) the(0.0) silence(0.0) here(0.0) in(0.0) the(0.0) United(0.0) States(0.0) Congress(0.0) .(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) all(0.0) of(0.0) my(0.0) colleagues(0.0) 
+for(0.0) engaging(0.0) in(0.0) the(0.0) debate(1.0) tonight(0.0) .(0.0) I(0.0) believe(0.0) many(0.0) of(0.0) you(0.0) read(0.0) the(0.0) incredible(0.0) series(0.0) of(0.0) articles(0.0) that(0.0) was(0.0) 
+in(0.0) The(0.0) Washington(1.0) Post(1.0) last(0.0) week(0.0) .(0.0) These(0.0) articles(0.0) demonstrated(0.0) and(0.0) documented(0.0) the(0.0) fact(0.0) that(0.0) we(0.0) knew(0.0) as(0.0) early(0.0) in(0.0) 
+the(0.0) 1990s(1.0) that(0.0) the(0.0) potential(0.0) for(0.0) this(0.0) pandemic(1.0) in(0.0) Africa(1.0) was(0.0) going(0.0) to(0.0) be(0.0) so(0.0) great(0.0) ,(0.0) we(0.0) chose(0.0) to(0.0) 
+put(0.0) our(0.0) heads(0.0) in(0.0) the(0.0) sand(0.0) on(0.0) this(0.0) issue(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) it(0.0) is(0.0) chilling(0.0) to(0.0) think(0.0) that(0.0) we(0.0) 
+have(0.0) not(0.0) done(0.0) much(0.0) of(0.0) anything(0.0) in(0.0) the(0.0) last(0.0) 10(0.0) years(0.0) ,(0.0) so(0.0) tonight(0.0) we(0.0) are(0.0) just(0.0) asking(0.0) for(0.0) a(0.0) 
+mere(0.0) $(0.0) 42(0.0) million(1.0) ,(0.0) that(0.0) is(0.0) it(0.0) .(0.0) We(0.0) heard(0.0) the(0.0) arguments(1.0) for(0.0) that(0.0) .(0.0) I(0.0) implore(0.0) and(0.0) plead(1.0) 
+with(0.0) the(0.0) other(0.0) side(0.0) to(0.0) please(0.0) join(0.0) us(0.0) in(0.0) a(0.0) bipartisan(1.0) effort(1.0) and(0.0) restore(1.0) $(0.0) 42(0.0) million(0.0) to(0.0) the(0.0) budget(1.0) 
+.(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Massachusetts	Olver	Chairman	
+Ms.	Pelosi	for	
+raise	awareness	HIV/AIDS	crisis	
+Ms	Waters	
+Ms.	Christensen	
+Congressman	Ron	Dellums	
+pandemic	
+
+debate	
+Washington	Post	
+1990s	pandemic	Africa	
+Chairman	
+
+million	arguments	plead	
+bipartisan	effort	restore	budget	
+Chairman	
+
+reads % = 0.10509554140127389

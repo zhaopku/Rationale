@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) ask(0.0) unanimous(1.0) consent(0.0) to(0.0) submit(0.0) for(0.0) the(0.0) Record(0.0) a(0.0) letter(0.0) received(0.0) just(0.0) yesterday(0.0) from(0.0) the(0.0) Catholic(1.0) Health(1.0) 
+Association(0.0) ,(0.0) which(0.0) states(1.0) ,(0.0) in(0.0) part(0.0) ,(0.0) we(0.0) believe(0.0) the(0.0) most(0.0) important(0.0) pro-(1.0) life(0.0) thing(0.0) that(0.0) Congress(0.0) can(0.0) do(0.0) 
+right(0.0) now(0.0) is(0.0) to(0.0) ensure(0.0) that(0.0) the(0.0) State(0.0) Children(0.0) 's(0.0) Health(0.0) Insurance(0.0) Program(0.0) is(0.0) reauthorized(0.0) .(0.0) Children(0.0) 's(0.0) lives(0.0) and(0.0) 
+the(0.0) lives(0.0) of(0.0) unborn(1.0) babies(1.0) depend(0.0) on(0.0) a(0.0) strong(0.0) SCHIP(1.0) reauthorization(1.0) .(0.0) So(0.0) we(0.0) are(0.0) standing(0.0) up(0.0) for(0.0) these(0.0) children(0.0) 
+and(0.0) for(0.0) pregnant(1.0) women(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+unanimous	Catholic	Health	
+states	pro-	
+
+unborn	babies	SCHIP	reauthorization	
+pregnant	women	
+
+reads % = 0.12790697674418605

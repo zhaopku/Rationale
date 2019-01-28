@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) my(0.0) friend(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Wisconsin(1.0) ,(0.0) would(0.0) have(0.0) us(0.0) believe(0.0) that(0.0) this(0.0) resolution(1.0) is(0.0) unusual(0.0) in(0.0) 
+some(0.0) way(0.0) .(0.0) Well(0.0) ,(0.0) he(0.0) knows(0.0) that(0.0) while(0.0) the(0.0) Democrats(1.0) were(0.0) in(0.0) control(0.0) of(0.0) the(0.0) House(0.0) of(0.0) Representatives(0.0) for(0.0) 
+40(0.0) uninterrupted(0.0) years(0.0) ,(0.0) going(0.0) back(0.0) as(0.0) far(0.0) back(0.0) as(0.0) 1977(0.0) ,(0.0) which(0.0) is(0.0) the(0.0) last(0.0) date(0.0) I(0.0) have(0.0) figures(0.0) 
+for(0.0) ,(0.0) we(0.0) had(0.0) 1(0.0) continuing(0.0) resolution(1.0) for(0.0) 1(0.0) bill(0.0) ;(0.0) again(0.0) ,(0.0) in(0.0) 1978(1.0) ,(0.0) another(0.0) bill(1.0) ;(0.0) in(0.0) 
+1979(1.0) ,(0.0) for(0.0) 3(0.0) bills(0.0) ;(0.0) in(0.0) 1980(0.0) ,(0.0) 4(0.0) bills(0.0) ;(0.0) in(0.0) 1981(0.0) ,(0.0) 4(0.0) bills(0.0) ;(0.0) in(0.0) 1982(0.0) 
+,(0.0) 6(0.0) bills(0.0) ;(0.0) 1983(0.0) ,(0.0) 3(0.0) bills(0.0) ;(0.0) 1984(0.0) ,(0.0) 8(0.0) bills(0.0) ;(0.0) 1985(0.0) ,(0.0) 7(0.0) bills(0.0) ;(0.0) and(0.0) 
+then(0.0) 1986(0.0) and(0.0) 1987(0.0) ,(0.0) they(0.0) were(0.0) still(0.0) in(0.0) control(0.0) ,(0.0) 13(0.0) bills(0.0) each(0.0) .(0.0) Continuing(0.0) resolutions(1.0) were(0.0) a(0.0) way(0.0) 
+of(0.0) life(0.0) under(0.0) the(0.0) Democrat-(0.0) controlled(0.0) House(0.0) of(0.0) Representatives(0.0) .(0.0) Frankly(0.0) ,(0.0) I(0.0) tend(0.0) to(0.0) agree(0.0) with(0.0) the(0.0) gentleman(0.0) .(0.0) 
+I(0.0) would(0.0) just(0.0) as(0.0) soon(0.0) not(0.0) have(0.0) continuing(0.0) resolutions(1.0) .(0.0) I(0.0) am(0.0) sorry(0.0) we(0.0) did(0.0) not(0.0) get(0.0) the(0.0) business(0.0) done(0.0) 
+,(0.0) but(0.0) we(0.0) did(0.0) go(0.0) through(0.0) the(0.0) Contract(1.0) With(0.0) America(1.0) for(0.0) 4(0.0) months(0.0) .(0.0) This(0.0) Congress(0.0) ,(0.0) by(0.0) David(0.0) Broder(1.0) 
+'s(0.0) admission(0.0) and(0.0) the(0.0) admission(0.0) of(0.0) most(0.0) of(0.0) the(0.0) other(0.0) commentators(0.0) who(0.0) follow(0.0) Capitol(0.0) Hill(1.0) ,(0.0) has(0.0) been(0.0) one(0.0) of(0.0) 
+the(0.0) most(0.0) productive(0.0) Congresses(0.0) in(0.0) the(0.0) history(0.0) of(0.0) modern(0.0) times(0.0) in(0.0) America(1.0) .(0.0) We(0.0) have(0.0) been(0.0) busy(0.0) .(0.0) We(0.0) have(0.0) 
+worked(0.0) hard(0.0) .(0.0) Everybody(0.0) knows(0.0) about(0.0) the(0.0) hours(0.0) we(0.0) are(0.0) putting(0.0) in(0.0) .(0.0) The(0.0) appropriation(1.0) bills(1.0) have(0.0) not(0.0) been(0.0) completed(0.0) 
+,(0.0) and(0.0) that(0.0) is(0.0) not(0.0) unusual(0.0) .(0.0) The(0.0) fact(0.0) is(0.0) ,(0.0) we(0.0) have(0.0) totally(0.0) completed(0.0) three(0.0) bills(1.0) .(0.0) The(0.0) President(1.0) 
+has(0.0) signed(0.0) two(0.0) ,(0.0) and(0.0) he(0.0) has(0.0) sent(0.0) back(0.0) one(0.0) ,(0.0) and(0.0) I(0.0) still(0.0) ,(0.0) 6(0.0) weeks(0.0) later(0.0) ,(0.0) have(0.0) 
+yet(0.0) to(0.0) understand(0.0) why(0.0) he(0.0) did(0.0) not(0.0) sign(0.0) that(0.0) bill(1.0) ,(0.0) the(0.0) legislative(1.0) branch(0.0) bill(0.0) .(0.0) We(0.0) have(0.0) three(0.0) others(0.0) 
+ready(0.0) for(0.0) him(0.0) right(0.0) now(0.0) .(0.0) They(0.0) are(0.0) just(0.0) on(0.0) their(0.0) way(0.0) .(0.0) In(0.0) fact(0.0) ,(0.0) one(0.0) is(0.0) on(0.0) the(0.0) 
+way(0.0) .(0.0) Energy(1.0) and(0.0) water(1.0) is(0.0) before(0.0) him(0.0) as(0.0) well(0.0) .(0.0) These(0.0) bills(1.0) are(0.0) working(0.0) their(0.0) way(0.0) through(0.0) .(0.0) In(0.0) 
+another(0.0) 2(0.0) weeks(0.0) ,(0.0) we(0.0) will(0.0) have(0.0) virtually(0.0) all(0.0) of(0.0) them(0.0) to(0.0) him(0.0) .(0.0) Now(0.0) ,(0.0) this(0.0) is(0.0) a(0.0) regular(0.0) 
+,(0.0) routine(0.0) ,(0.0) traditional(0.0) process(0.0) .(0.0) Yes(0.0) ,(0.0) we(0.0) are(0.0) scaling(0.0) back(0.0) on(0.0) the(0.0) continuing(1.0) resolution(1.0) funding(1.0) rate(1.0) this(0.0) time(0.0) 
+,(0.0) our(0.0) second(0.0) one(0.0) ,(0.0) because(0.0) we(0.0) want(0.0) to(0.0) make(0.0) it(0.0) less(0.0) attractive(0.0) ,(0.0) not(0.0) only(0.0) for(0.0) the(0.0) President(1.0) but(0.0) 
+for(0.0) the(0.0) Congress(0.0) ,(0.0) to(0.0) operate(0.0) on(0.0) a(0.0) continuing(0.0) resolution(1.0) .(0.0) It(0.0) is(0.0) more(0.0) important(0.0) that(0.0) we(0.0) go(0.0) ahead(0.0) and(0.0) 
+pass(0.0) the(0.0) appropriation(1.0) bills(1.0) and(0.0) that(0.0) they(0.0) become(0.0) the(0.0) law(1.0) of(0.0) the(0.0) land(0.0) and(0.0) that(0.0) we(0.0) not(0.0) fund(1.0) government(1.0) under(0.0) 
+continuing(0.0) resolutions(1.0) .(0.0) So(0.0) we(0.0) do(0.0) not(0.0) want(0.0) to(0.0) make(0.0) a(0.0) continuing(0.0) resolution(1.0) more(0.0) attractive(0.0) than(0.0) the(0.0) alternative(1.0) ,(0.0) thirteen(0.0) 
+regular(0.0) bills(0.0) through(0.0) the(0.0) traditional(0.0) legislative(0.0) process(0.0) .(0.0) But(0.0) we(0.0) are(0.0) asking(0.0) for(0.0) 2(0.0) additional(0.0) weeks(0.0) ,(0.0) 2(0.0) additional(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	Wisconsin	resolution	
+Democrats	
+
+resolution	1978	bill	
+1979	
+
+resolutions	
+
+resolutions	
+Contract	America	Broder	
+Hill	
+America	
+appropriation	bills	
+bills	President	
+
+bill	legislative	
+
+Energy	water	bills	
+
+continuing	resolution	funding	rate	
+President	
+resolution	
+appropriation	bills	law	fund	government	
+resolutions	resolution	alternative	
+
+
+reads % = 0.076

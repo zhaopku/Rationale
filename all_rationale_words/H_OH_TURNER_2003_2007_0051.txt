@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) would(0.0) like(0.0) to(0.0) thank(0.0) Chairman(0.0) Skelton(1.0) and(0.0) Ranking(0.0) Member(0.0) Hunter(1.0) for(0.0) their(0.0) leadership(0.0) in(0.0) completing(0.0) the(0.0) conference(0.0) report(0.0) for(0.0) FY08(0.0) 
+National(0.0) Defense(0.0) Authorization(0.0) Act(0.0) .(0.0) On(0.0) December(0.0) 6(0.0) ,(0.0) Chairman(0.0) Skelton(1.0) announced(0.0) that(0.0) an(0.0) agreement(0.0) had(0.0) been(0.0) reached(0.0) on(0.0) the(0.0) 
+conference(0.0) report(0.0) stating(0.0) that(0.0) ``(0.0) this(0.0) bill(0.0) supports(0.0) the(0.0) troops(0.0) ,(0.0) restores(0.0) readiness(0.0) ,(0.0) and(0.0) improves(0.0) accountability(0.0) .(0.0) ''(0.0) I(0.0) 
+would(0.0) like(0.0) to(0.0) point(0.0) out(0.0) that(0.0) this(0.0) bill(1.0) includes(0.0) a(0.0) key(0.0) policy(0.0) provision(1.0) that(0.0) directly(0.0) supports(0.0) our(0.0) troops(1.0) .(0.0) This(0.0) 
+bill(1.0) will(1.0) amend(1.0) the(0.0) Service(0.0) Members(0.0) Civil(1.0) Relief(0.0) Act(0.0) to(0.0) protect(0.0) the(0.0) children(0.0) and(0.0) custody(1.0) arrangements(0.0) of(0.0) servicemembers(1.0) deployed(0.0) in(0.0) 
+a(0.0) contingency(0.0) operation(0.0) .(0.0) This(0.0) provision(1.0) is(0.0) important(0.0) because(0.0) it(0.0) protects(0.0) our(0.0) deployed(0.0) troops(0.0) from(0.0) courts(1.0) that(0.0) have(0.0) been(0.0) overturning(0.0) 
+established(0.0) custody(0.0) arrangements(0.0) while(0.0) a(0.0) servicemember(0.0) is(0.0) serving(0.0) our(0.0) country(1.0) in(0.0) a(0.0) contingency(0.0) operation(0.0) such(0.0) as(0.0) Iraq(1.0) or(0.0) Afghanistan(0.0) .(0.0) 
+Today(0.0) ,(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) vote(1.0) in(0.0) favor(1.0) of(0.0) this(0.0) bill(1.0) because(1.0) it(0.0) provides(0.0) the(0.0) child(0.0) custody(1.0) protection(1.0) 
+that(0.0) our(0.0) deployed(0.0) troops(0.0) deserve(0.0) .(0.0) Much(0.0) is(0.0) asked(0.0) of(0.0) our(0.0) servicemembers(1.0) ,(0.0) and(0.0) mobilization(1.0) can(0.0) disrupt(1.0) and(0.0) strain(0.0) relationships(0.0) 
+at(0.0) home(0.0) .(0.0) This(0.0) additional(0.0) protection(0.0) is(0.0) needed(0.0) to(0.0) provide(0.0) them(0.0) peace(1.0) of(0.0) mind(0.0) that(0.0) the(0.0) courts(1.0) will(0.0) not(0.0) undertake(0.0) 
+judicial(1.0) proceedings(0.0) considering(0.0) their(0.0) established(0.0) custody(0.0) rights(0.0) without(0.0) them(0.0) .(0.0) This(0.0) amendment(1.0) protects(1.0) them(0.0) ,(0.0) and(0.0) it(0.0) protects(0.0) their(0.0) children(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+Skelton	Hunter	
+Skelton	
+
+bill	provision	troops	
+bill	will	amend	Civil	custody	servicemembers	
+provision	courts	
+country	Iraq	
+vote	favor	bill	because	custody	protection	
+servicemembers	mobilization	disrupt	
+peace	courts	
+judicial	amendment	protects	
+
+
+reads % = 0.13513513513513514

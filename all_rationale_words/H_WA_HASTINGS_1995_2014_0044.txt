@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) the(0.0) House(0.0) today(0.0) is(0.0) considering(0.0) H.R(0.0) 
+.(0.0) 3964(0.0) ,(0.0) the(0.0) Sacramento-San(1.0) Joaquin(1.0) Valley(0.0) Emergency(1.0) Water(1.0) Delivery(1.0) Act(1.0) .(0.0) Like(0.0) California(1.0) ,(0.0) my(0.0) central(0.0) Washington(1.0) district(0.0) is(0.0) 
+heavily(0.0) dependent(0.0) on(0.0) irrigated(0.0) water(0.0) to(0.0) support(0.0) our(0.0) local(0.0) economic(1.0) and(0.0) agriculture(1.0) industry(0.0) .(0.0) I(0.0) understand(0.0) the(0.0) importance(0.0) of(0.0) having(0.0) 
+a(0.0) stable(0.0) ,(0.0) reliable(0.0) water(0.0) supply(1.0) ,(0.0) and(0.0) I(0.0) also(0.0) understand(0.0) the(0.0) economic(1.0) devastation(1.0) that(0.0) is(0.0) caused(0.0) when(0.0) the(0.0) water(1.0) 
+supply(1.0) is(0.0) shut(1.0) off(0.0) ,(0.0) particularly(0.0) when(0.0) the(0.0) shutoff(1.0) is(0.0) avoidable(1.0) .(0.0) California(1.0) is(0.0) facing(0.0) an(0.0) emergency(1.0) situation(0.0) .(0.0) For(0.0) 
+years(0.0) ,(0.0) San(1.0) Joaquin(1.0) Valley(0.0) farmers(1.0) have(0.0) been(0.0) fighting(0.0) against(0.0) Federal(1.0) regulations(1.0) and(0.0) environmental(1.0) lawsuits(1.0) that(0.0) have(0.0) diverted(1.0) water(1.0) supplies(1.0) 
+in(0.0) order(0.0) to(0.0) help(0.0) a(0.0) 3-inch(0.0) fish(0.0) .(0.0) In(0.0) 2009(0.0) ,(0.0) there(0.0) was(0.0) a(0.0) deliberate(0.0) diversion(0.0) of(0.0) over(0.0) 300(0.0) billion(1.0) 
+--(0.0) that(0.0) is(0.0) ``(0.0) billion(0.0) ,(0.0) ''(0.0) Mr.(0.0) Chairman(1.0) --(0.0) gallons(0.0) of(0.0) water(0.0) away(0.0) from(0.0) farmers(1.0) .(0.0) As(0.0) a(0.0) result(0.0) 
+,(0.0) thousands(0.0) of(0.0) farmworkers(1.0) lost(0.0) their(0.0) jobs(0.0) ,(0.0) unemployment(1.0) in(0.0) some(0.0) areas(0.0) reached(0.0) 40(0.0) percent(0.0) ,(0.0) and(0.0) thousands(0.0) of(0.0) acres(0.0) 
+of(0.0) fertile(0.0) farmland(1.0) simply(0.0) dried(0.0) up(0.0) .(0.0) As(0.0) chairman(0.0) of(0.0) the(0.0) House(0.0) Natural(0.0) Resources(0.0) Committee(0.0) ,(0.0) I(0.0) have(0.0) traveled(0.0) to(0.0) 
+Fresno(1.0) ,(0.0) California(1.0) ,(0.0) and(0.0) seen(0.0) the(0.0) effects(0.0) of(0.0) natural(0.0) and(0.0) manmade(1.0) drought(1.0) firsthand(0.0) .(0.0) We(0.0) have(0.0) held(0.0) multiple(0.0) hearings(0.0) 
+and(0.0) heard(0.0) the(0.0) pleas(1.0) of(0.0) communities(1.0) that(0.0) simply(0.0) want(0.0) the(0.0) water(1.0) turned(0.0) back(0.0) on(0.0) and(0.0) their(0.0) livelihood(1.0) restored(0.0) .(0.0) We(0.0) 
+have(0.0) seen(0.0) farmers(0.0) ,(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) who(0.0) normally(0.0) help(0.0) feed(0.0) the(0.0) Nation(1.0) being(0.0) sent(0.0) to(0.0) wait(0.0) in(0.0) line(0.0) at(0.0) 
+food(0.0) banks(0.0) and(0.0) ,(0.0) in(0.0) some(0.0) cases(0.0) ,(0.0) being(0.0) served(0.0) carrots(0.0) that(0.0) are(0.0) normally(0.0) grown(0.0) in(0.0) this(0.0) area(0.0) that(0.0) are(0.0) 
+from(0.0) China(1.0) .(0.0) That(0.0) is(0.0) why(0.0) ,(0.0) last(0.0) Congress(0.0) ,(0.0) the(0.0) House(0.0) of(0.0) Representatives(0.0) passed(0.0) bipartisan(1.0) legislation(1.0) to(0.0) restore(1.0) the(0.0) 
+flow(0.0) of(0.0) water(0.0) to(0.0) avoid(0.0) future(0.0) droughts(1.0) .(0.0) In(0.0) fact(0.0) ,(0.0) the(0.0) Senate(1.0) did(0.0) not(0.0) take(0.0) up(0.0) a(0.0) single(0.0) water(0.0) 
+bill(1.0) in(0.0) this(0.0) last(0.0) Congress(0.0) ,(0.0) even(0.0) after(0.0) we(0.0) had(0.0) passed(0.0) our(0.0) legislation(1.0) .(0.0) So(0.0) ,(0.0) once(0.0) again(0.0) ,(0.0) we(0.0) 
+are(0.0) back(0.0) here(0.0) on(0.0) the(0.0) floor(0.0) of(0.0) the(0.0) House(0.0) with(0.0) legislation(0.0) to(0.0) help(0.0) California(1.0) communities(1.0) once(0.0) again(0.0) facing(1.0) water(1.0) shutoffs(1.0) 
+.(0.0) But(0.0) now(0.0) ,(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) the(0.0) situation(0.0) is(0.0) much(0.0) more(0.0) dire(1.0) .(0.0) The(0.0) lack(0.0) of(0.0) rainfall(0.0) has(0.0) exacerbated(1.0) 
+the(0.0) manmade(1.0) drought(1.0) ,(0.0) and(0.0) last(0.0) month(0.0) ,(0.0) the(0.0) California(1.0) Governor(0.0) declared(1.0) a(0.0) state(0.0) of(0.0) emergency(0.0) .(0.0) A(0.0) manmade(0.0) drought(1.0) 
+coupled(0.0) with(0.0) a(0.0) natural(0.0) drought(0.0) equals(0.0) disaster(1.0) and(0.0) requires(0.0) immediate(0.0) action(0.0) .(0.0) Of(0.0) course(0.0) ,(0.0) these(0.0) conditions(0.0) could(0.0) have(0.0) been(0.0) 
+partially(0.0) avoided(0.0) if(0.0) only(0.0) the(0.0) Senate(0.0) had(0.0) acted(0.0) on(0.0) the(0.0) House-passed(1.0) legislation(1.0) last(0.0) year(0.0) .(0.0) This(0.0) comprehensive(1.0) solution(0.0) before(0.0) us(0.0) 
+today(0.0) ,(0.0) almost(0.0) identical(0.0) to(0.0) what(0.0) the(0.0) House(0.0) passed(0.0) the(0.0) last(0.0) Congress(0.0) ,(0.0) would(0.0) restore(1.0) some(0.0) water(0.0) deliveries(0.0) that(0.0) will(0.0) 
+be(0.0) cut(0.0) off(0.0) due(0.0) to(0.0) Federal(1.0) regulations(1.0) and(0.0) environmental(1.0) lawsuits(1.0) ,(0.0) ensure(1.0) a(0.0) reliable(0.0) water(0.0) source(0.0) for(0.0) people(0.0) and(0.0) fish(0.0) 
+,(0.0) secure(0.0) water(1.0) rights(1.0) ,(0.0) and(0.0) save(0.0) taxpayer(1.0) money(1.0) by(0.0) ending(1.0) unnecessary(1.0) and(0.0) dubious(1.0) government(1.0) projects(0.0) .(0.0) Mr.(0.0) Chairman(1.0) 
+
+
+----- below are rationale words -----
+
+Chairman	
+Sacramento-San	Joaquin	Emergency	Water	Delivery	Act	California	Washington	
+economic	agriculture	
+supply	economic	devastation	water	
+supply	shut	shutoff	avoidable	California	emergency	
+San	Joaquin	farmers	Federal	regulations	environmental	lawsuits	diverted	water	supplies	
+billion	
+Chairman	farmers	
+farmworkers	unemployment	
+farmland	
+Fresno	California	manmade	drought	
+pleas	communities	water	livelihood	
+Chairman	Nation	
+
+China	bipartisan	legislation	restore	
+droughts	Senate	
+bill	legislation	
+California	communities	facing	water	shutoffs	
+Chairman	dire	exacerbated	
+manmade	drought	California	declared	drought	
+disaster	
+House-passed	legislation	comprehensive	
+restore	
+Federal	regulations	environmental	lawsuits	ensure	
+water	rights	taxpayer	money	ending	unnecessary	dubious	government	Chairman	
+
+reads % = 0.174

@@ -1,0 +1,36 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) strong(0.0) support(0.0) 
+of(0.0) H.R(0.0) .(0.0) 3980(0.0) ,(0.0) sponsored(1.0) by(0.0) my(0.0) good(0.0) friend(0.0) from(0.0) Texas(0.0) ((0.0) Mr.(0.0) Cuellar(1.0) )(0.0) who(0.0) I(0.0) 'm(0.0) pleased(0.0) 
+to(0.0) serve(0.0) with(0.0) on(0.0) the(0.0) Emergency(0.0) Communications(0.0) ,(0.0) Preparedness(1.0) ,(0.0) and(0.0) Response(0.0) Subcommittee(0.0) .(0.0) Since(0.0) 2006(0.0) ,(0.0) Congress(0.0) has(0.0) mandated(0.0) 
+FEMA(1.0) to(0.0) measure(0.0) the(0.0) Nation(0.0) 's(0.0) level(0.0) of(0.0) preparedness(0.0) ,(0.0) as(0.0) well(0.0) as(0.0) the(0.0) effectiveness(0.0) of(0.0) State(0.0) and(0.0) local(0.0) homeland(0.0) 
+security(0.0) grant(0.0) programs(0.0) administered(0.0) by(0.0) FEMA(1.0) .(0.0) Both(0.0) the(0.0) Post-(0.0) Katrina(1.0) Reform(1.0) Act(0.0) of(0.0) 2006(0.0) and(0.0) the(0.0) 9/11(1.0) Act(0.0) of(0.0) 
+2007(0.0) require(0.0) FEMA(0.0) to(0.0) develop(0.0) metrics(0.0) that(0.0) can(0.0) be(0.0) used(0.0) to(0.0) identify(0.0) and(0.0) close(0.0) gaps(0.0) in(0.0) preparedness(1.0) with(0.0) homeland(1.0) security(0.0) 
+resources(0.0) .(0.0) These(0.0) include(0.0) the(0.0) Comprehensive(1.0) Assessment(0.0) System(0.0) ,(0.0) the(0.0) Target(0.0) Capabilities(0.0) List(0.0) ,(0.0) and(0.0) the(0.0) State(0.0) Preparedness(0.0) Report(0.0) .(0.0) 
+Unfortunately(0.0) ,(0.0) the(0.0) various(0.0) preparedness(1.0) metrics(0.0) developed(0.0) since(0.0) 2006(0.0) have(0.0) not(0.0) been(0.0) properly(0.0) integrated(0.0) by(0.0) FEMA(1.0) ,(0.0) resulting(0.0) in(0.0) duplicative(1.0) 
+reporting(0.0) requirements(0.0) that(0.0) put(0.0) an(0.0) undue(1.0) burden(1.0) on(0.0) State(0.0) and(0.0) local(0.0) governments(1.0) .(0.0) State(0.0) and(0.0) local(0.0) homeland(0.0) security(0.0) grant(0.0) programs(0.0) 
+are(0.0) essential(0.0) to(0.0) achieving(0.0) and(0.0) maintaining(0.0) preparedness(1.0) capabilities(0.0) ,(0.0) and(0.0) they(0.0) can(0.0) be(0.0) strengthened(0.0) and(0.0) improved(0.0) with(0.0) input(0.0) from(0.0) stakeholders(1.0) 
+and(0.0) the(0.0) establishment(1.0) of(0.0) sound(0.0) performance(0.0) metrics(0.0) .(0.0) This(0.0) bill(1.0) seeks(1.0) to(0.0) improve(0.0) the(0.0) way(0.0) grant(1.0) programs(1.0) are(0.0) administered(0.0) and(0.0) 
+managed(0.0) by(0.0) FEMA(1.0) ,(0.0) and(0.0) will(0.0) ensure(0.0) that(0.0) Congress(0.0) is(0.0) informed(0.0) of(0.0) the(0.0) ongoing(0.0) planning(0.0) at(0.0) FEMA(1.0) for(0.0) improving(0.0) measures(1.0) 
+of(0.0) preparedness(1.0) and(0.0) eliminating(1.0) duplicative(1.0) requirements(1.0) placed(0.0) on(0.0) grantees(1.0) .(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) the(0.0) measure(1.0) ,(0.0) and(0.0) 
+I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	
+sponsored	Cuellar	
+Preparedness	
+FEMA	
+FEMA	Katrina	Reform	9/11	
+preparedness	homeland	
+Comprehensive	
+preparedness	FEMA	duplicative	
+undue	burden	governments	
+preparedness	stakeholders	
+establishment	bill	seeks	grant	programs	
+FEMA	FEMA	measures	
+preparedness	eliminating	duplicative	requirements	grantees	measure	
+
+
+reads % = 0.1259259259259259

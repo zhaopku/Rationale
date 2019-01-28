@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+MCCarthy(0.0) )(0.0) ,(0.0) the(0.0) majority(1.0) leader(0.0) ,(0.0) for(0.0) the(0.0) purpose(0.0) of(0.0) inquiring(0.0) of(0.0) the(0.0) schedule(0.0) for(0.0) the(0.0) week(0.0) to(0.0) come(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+majority	
+
+
+reads % = 0.047619047619047616

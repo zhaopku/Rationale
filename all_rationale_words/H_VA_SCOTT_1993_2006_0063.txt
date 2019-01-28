@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) today(1.0) I(0.0) rise(1.0) to(0.0) recognize(1.0) Historically(0.0) Black(1.0) Colleges(1.0) and(0.0) Universities(1.0) Week(0.0) .(0.0) Historically(1.0) Black(1.0) Colleges(0.0) and(0.0) Universities(1.0) play(0.0) a(0.0) 
+critical(1.0) role(0.0) in(0.0) the(0.0) American(0.0) higher(0.0) education(1.0) system(0.0) .(0.0) This(0.0) year(0.0) 's(0.0) theme(0.0) --(0.0) ``(1.0) The(0.0) Tradition(0.0) Continues(1.0) :(0.0) New(0.0) 
+Successes(1.0) and(0.0) Challenges(0.0) ''(0.0) --(0.0) is(1.0) especially(1.0) fitting(0.0) considering(1.0) the(0.0) precarious(1.0) state(0.0) of(0.0) affairs(1.0) of(0.0) higher(0.0) education(1.0) funding(1.0) and(0.0) student(0.0) 
+aid(0.0) for(0.0) all(0.0) institutions(0.0) of(0.0) higher(0.0) education(1.0) .(0.0) These(0.0) theme(0.0) is(0.0) also(1.0) appropriate(1.0) as(0.0) many(0.0) HBCUs(1.0) around(0.0) the(0.0) country(1.0) welcomed(0.0) 
+students(0.0) displaced(0.0) last(0.0) year(0.0) by(0.0) Hurricane(0.0) Katrina(1.0) .(0.0) For(1.0) most(1.0) of(0.0) America(0.0) 's(0.0) history(0.0) ,(0.0) African(1.0) Americans(1.0) who(0.0) received(0.0) a(0.0) 
+college(1.0) education(1.0) could(0.0) only(0.0) get(0.0) it(0.0) from(0.0) and(0.0) HBCU(1.0) .(0.0) Today(0.0) ,(0.0) HBCUs(1.0) remain(0.0) one(0.0) of(0.0) the(0.0) surest(1.0) ways(0.0) for(0.0) 
+an(0.0) African(1.0) American(0.0) ,(0.0) or(1.0) student(1.0) of(0.0) any(1.0) race(0.0) ,(0.0) to(0.0) receive(0.0) a(0.0) high(0.0) quality(0.0) education(1.0) .(0.0) In(0.0) 1965(0.0) ,(0.0) 
+Congress(1.0) officially(1.0) defined(0.0) an(0.0) HBCU(1.0) in(0.0) Title(0.0) III(1.0) of(0.0) the(0.0) Higher(0.0) Education(0.0) Act(0.0) as(0.0) an(0.0) institution(0.0) :(0.0) whose(0.0) principal(1.0) mission(1.0) 
+was(0.0) the(0.0) education(1.0) of(0.0) black(1.0) Americans(0.0) ;(0.0) that(0.0) is(0.0) accredited(1.0) ;(0.0) and(0.0) that(0.0) was(0.0) established(1.0) before(1.0) 1964(1.0) .(0.0) The(0.0) first(0.0) 
+HBCU(1.0) ,(0.0) Cheney(1.0) University(0.0) in(0.0) Pennsylvania(1.0) ,(0.0) was(0.0) founded(1.0) in(0.0) 1837(1.0) .(0.0) Today(0.0) ,(0.0) there(0.0) are(0.0) 105(1.0) Historically(0.0) Black(1.0) Colleges(1.0) 
+and(0.0) Universities(0.0) .(0.0) I(0.0) am(1.0) proud(1.0) to(0.0) have(0.0) 5(0.0) HBCUs(1.0) in(0.0) my(0.0) home(1.0) State(0.0) of(0.0) Virginia(1.0) :(1.0) Hampton(0.0) University(0.0) ,(0.0) 
+Norfolk(1.0) State(0.0) University(0.0) ,(0.0) Saint(0.0) Paul(1.0) 's(0.0) College(0.0) ,(0.0) Virginia(1.0) State(1.0) University(0.0) ,(0.0) and(0.0) Virginia(1.0) Union(1.0) University(0.0) .(0.0) HBCUs(1.0) graduate(0.0) 
+far(0.0) more(0.0) than(0.0) their(0.0) share(0.0) of(0.0) African(1.0) American(0.0) professionals(1.0) .(0.0) While(1.0) the(0.0) 105(1.0) HBCUs(1.0) represent(1.0) just(0.0) 3(0.0) percent(1.0) of(0.0) the(0.0) 
+Nation(0.0) 's(0.0) institutions(0.0) of(0.0) higher(0.0) learning(0.0) ,(0.0) they(0.0) graduate(0.0) nearly(0.0) one-(1.0) quarter(0.0) of(0.0) African(1.0) Americans(1.0) who(0.0) earn(0.0) undergraduate(1.0) degrees(1.0) .(0.0) 
+HBCUs(1.0) ,(0.0) because(1.0) of(0.0) their(0.0) unique(0.0) sensibility(0.0) to(0.0) the(0.0) special(0.0) needs(0.0) of(0.0) young(0.0) African(1.0) American(0.0) minds(1.0) ,(0.0) remain(0.0) the(0.0) institutions(1.0) 
+that(0.0) demonstrate(0.0) the(0.0) most(1.0) effective(0.0) ability(0.0) to(0.0) graduate(0.0) African(1.0) American(0.0) students(1.0) who(0.0) are(0.0) poised(1.0) to(0.0) be(0.0) competitive(0.0) in(0.0) the(0.0) corporate(1.0) 
+,(0.0) research(1.0) ,(0.0) academic(1.0) ,(0.0) governmental(1.0) and(0.0) military(1.0) arenas(0.0) .(0.0) Consider(1.0) these(0.0) statistics(1.0) :(0.0) Experts(0.0) in(0.0) their(0.0) chosen(0.0) field(0.0) Over(0.0) 
+half(0.0) of(0.0) all(0.0) African(1.0) American(0.0) professionals(1.0) are(0.0) graduates(1.0) of(0.0) HBCUs(1.0) .(0.0) Nine(1.0) of(0.0) the(0.0) top(0.0) ten(0.0) colleges(0.0) that(0.0) graduate(0.0) the(0.0) 
+most(1.0) African(1.0) Americans(0.0) who(0.0) go(0.0) on(0.0) to(0.0) earn(0.0) Ph.D.s(1.0) are(0.0) HBCUs(1.0) .(0.0) More(0.0) than(0.0) 50(0.0) percent(1.0) of(0.0) the(0.0) Nation(0.0) 's(0.0) 
+African(1.0) American(0.0) public(1.0) school(0.0) teachers(0.0) and(0.0) 70(0.0) percent(1.0) of(0.0) African(1.0) American(0.0) dentists(1.0) earned(0.0) degrees(1.0) at(0.0) HBCUs(1.0) .(0.0) HBCUs(1.0) Spelman(1.0) College(0.0) 
+and(0.0) Bennett(1.0) College(0.0) produce(0.0) over(0.0) half(0.0) of(0.0) the(0.0) nation(1.0) 's(0.0) African(1.0) American(0.0) female(1.0) doctorates(1.0) in(0.0) all(0.0) science(0.0) fields(1.0) .(0.0) Excellent(1.0) 
+Institutions(0.0) As(0.0) ranked(1.0) by(0.0) Black(1.0) Enterprise(1.0) in(0.0) 2003(0.0) ,(0.0) seven(1.0) of(0.0) the(0.0) top(0.0) ten(0.0) ``(0.0) Top(0.0) Colleges(0.0) and(0.0) Universities(1.0) for(0.0) 
+African(1.0) Americans(1.0) ,(0.0) ''(0.0) including(1.0) the(0.0) top(0.0) six(0.0) ,(0.0) were(0.0) HBCUs(1.0) .(0.0) HBCU(1.0) Xavier(0.0) University(0.0) #(0.0) 1(0.0) nationally(1.0) in(0.0) placing(1.0) 
+African-Americans(1.0) into(1.0) medical(1.0) school(0.0) .(0.0) HBCUs(1.0) also(1.0) dominate(1.0) the(0.0) upper(1.0) echelon(1.0) in(0.0) terms(1.0) of(0.0) numbers(0.0) of(0.0) African(1.0) American(0.0) graduates(1.0) per(0.0) 
+school(0.0) for(0.0) the(0.0) last(1.0) academic(1.0) year(0.0) Seven(1.0) of(0.0) the(0.0) top(0.0) eight(0.0) producers(0.0) of(0.0) African-American(1.0) baccalaureates(1.0) overall(0.0) were(0.0) HBCUs(1.0) ,(0.0) 
+
+
+----- below are rationale words -----
+
+today	rise	recognize	Black	Colleges	Universities	Historically	Black	Universities	
+critical	education	``	Continues	
+Successes	is	especially	considering	precarious	affairs	education	funding	
+education	also	appropriate	HBCUs	country	
+Katrina	For	most	African	Americans	
+college	education	HBCU	HBCUs	surest	
+African	or	student	any	education	
+Congress	officially	HBCU	III	principal	mission	
+education	black	accredited	established	before	1964	
+HBCU	Cheney	Pennsylvania	founded	1837	105	Black	Colleges	
+am	proud	HBCUs	home	Virginia	:	
+Norfolk	Paul	Virginia	State	Virginia	Union	HBCUs	
+African	professionals	While	105	HBCUs	represent	percent	
+one-	African	Americans	undergraduate	degrees	
+HBCUs	because	African	minds	institutions	
+most	African	students	poised	corporate	
+research	academic	governmental	military	Consider	statistics	
+African	professionals	graduates	HBCUs	Nine	
+most	African	Ph.D.s	HBCUs	percent	
+African	public	percent	African	dentists	degrees	HBCUs	HBCUs	Spelman	
+Bennett	nation	African	female	doctorates	fields	Excellent	
+ranked	Black	Enterprise	seven	Universities	
+African	Americans	including	HBCUs	HBCU	nationally	placing	
+African-Americans	into	medical	HBCUs	also	dominate	upper	echelon	terms	African	graduates	
+last	academic	Seven	African-American	baccalaureates	HBCUs	
+
+reads % = 0.314

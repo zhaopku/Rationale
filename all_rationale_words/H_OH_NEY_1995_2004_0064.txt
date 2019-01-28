@@ -1,0 +1,50 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) agree(0.0) to(0.0) the(0.0) resolution(1.0) ((0.0) H.(0.0) Res(1.0) .(0.0) 765(0.0) )(0.0) expressing(0.0) gratitude(0.0) 
+to(0.0) the(0.0) cities(0.0) of(0.0) Boston(1.0) ,(0.0) Massachusetts(1.0) ,(0.0) and(0.0) New(1.0) York(1.0) City(1.0) ,(0.0) New(1.0) York(1.0) ,(0.0) for(0.0) their(0.0) extraordinary(0.0) hospitality(0.0) 
+and(0.0) successful(0.0) planning(0.0) and(0.0) hosting(0.0) of(0.0) the(0.0) 2004(0.0) national(0.0) political(0.0) conventions(0.0) .(0.0) The(0.0) Clerk(0.0) read(0.0) as(0.0) follows(0.0) :(0.0) H.(0.0) Res(1.0) 
+.(0.0) 765(0.0) Whereas(0.0) the(0.0) Democratic(1.0) National(0.0) Convention(0.0) was(0.0) held(0.0) from(0.0) July(0.0) 26(0.0) through(0.0) July(0.0) 29(0.0) ,(0.0) 2004(0.0) ,(0.0) in(0.0) Boston(1.0) 
+,(0.0) Massachusetts(1.0) ;(0.0) Whereas(0.0) the(0.0) Republican(1.0) National(1.0) Convention(1.0) was(1.0) held(0.0) from(0.0) August(0.0) 30(0.0) through(0.0) September(0.0) 2(0.0) ,(0.0) 2004(0.0) ,(0.0) in(0.0) 
+New(0.0) York(1.0) City(1.0) ,(0.0) New(1.0) York(1.0) ;(0.0) Whereas(0.0) Mayor(1.0) Thomas(1.0) M.(1.0) Menino(1.0) ,(0.0) the(0.0) Boston(1.0) 2004(0.0) Host(0.0) Committee(0.0) ,(0.0) and(0.0) 
+the(0.0) people(0.0) of(0.0) Boston(1.0) ,(0.0) including(0.0) a(0.0) large(0.0) number(0.0) of(0.0) dedicated(0.0) volunteers(0.0) ,(0.0) were(0.0) extremely(0.0) gracious(0.0) in(0.0) their(0.0) hospitality(0.0) ;(0.0) 
+Whereas(0.0) Mayor(0.0) Michael(1.0) R.(1.0) Bloomberg(1.0) ,(0.0) the(0.0) New(0.0) York(1.0) City(1.0) Host(0.0) Committee(0.0) 2004(0.0) ,(0.0) and(0.0) the(0.0) people(0.0) of(0.0) New(1.0) York(1.0) 
+City(1.0) ,(0.0) including(0.0) a(0.0) large(0.0) number(0.0) of(0.0) dedicated(0.0) volunteers(0.0) ,(0.0) were(0.0) extremely(0.0) gracious(0.0) in(0.0) their(0.0) hospitality(0.0) ;(0.0) Whereas(0.0) Police(0.0) Commissioner(0.0) 
+Kathleen(1.0) M.(1.0) O'Toole(1.0) and(0.0) the(0.0) entire(0.0) Boston(1.0) Police(0.0) Department(0.0) went(0.0) to(0.0) extraordinary(0.0) lengths(0.0) to(0.0) keep(0.0) Boston(1.0) safe(0.0) throughout(0.0) the(0.0) duration(0.0) 
+of(0.0) the(0.0) Democratic(1.0) Convention(0.0) ;(0.0) Whereas(0.0) Police(0.0) Commissioner(0.0) Raymond(0.0) W.(1.0) Kelly(0.0) and(0.0) the(0.0) entire(0.0) New(0.0) York(1.0) City(0.0) Police(0.0) Department(0.0) went(0.0) 
+to(0.0) extraordinary(0.0) lengths(0.0) to(0.0) keep(0.0) New(1.0) York(1.0) safe(0.0) throughout(0.0) the(0.0) duration(0.0) of(0.0) the(0.0) Republican(0.0) Convention(1.0) ;(1.0) Whereas(1.0) countless(1.0) city(1.0) ,(1.0) 
+State(1.0) ,(1.0) regional(1.0) ,(1.0) and(1.0) nationwide(1.0) agencies(1.0) cooperated(1.0) to(0.0) ensure(0.0) the(0.0) safety(0.0) of(0.0) each(0.0) Convention(0.0) ,(0.0) including(0.0) the(0.0) United(0.0) States(0.0) 
+Capitol(0.0) Police(0.0) ,(0.0) which(0.0) assisted(0.0) the(0.0) local(0.0) jurisdictions(0.0) ,(0.0) and(0.0) the(0.0) United(0.0) States(0.0) Secret(0.0) Service(0.0) ,(0.0) which(0.0) coordinated(0.0) Federal(0.0) anti-terrorism(1.0) 
+and(0.0) counter-terrorism(0.0) assets(0.0) for(0.0) each(0.0) of(0.0) the(0.0) Conventions(0.0) as(0.0) National(0.0) Security(0.0) Special(0.0) Events(0.0) ;(0.0) Whereas(0.0) Members(0.0) of(0.0) Congress(0.0) ,(0.0) delegates(0.0) 
+from(0.0) across(0.0) the(0.0) Nation(0.0) ,(0.0) and(0.0) other(0.0) interested(0.0) parties(0.0) participated(0.0) in(0.0) the(0.0) Conventions(0.0) and(0.0) benefited(0.0) from(0.0) the(0.0) secure(0.0) environments(0.0) ;(0.0) 
+and(0.0) Whereas(0.0) millions(0.0) of(0.0) Americans(1.0) watched(0.0) ,(0.0) heard(0.0) ,(0.0) or(0.0) read(0.0) about(0.0) the(0.0) Conventions(1.0) and(0.0) thereby(0.0) participated(0.0) in(0.0) our(0.0) national(1.0) 
+political(1.0) process(0.0) :(0.0) Now(0.0) ,(0.0) therefore(0.0) ,(0.0) be(0.0) it(0.0) Resolved(0.0) ,(0.0) That(0.0) the(0.0) House(0.0) of(0.0) Representatives(0.0) thanks(0.0) ,(0.0) pays(0.0) tribute(0.0) 
+to(0.0) ,(0.0) and(0.0) expresses(0.0) gratitude(0.0) to(0.0) all(0.0) of(0.0) those(0.0) who(0.0) assisted(0.0) in(0.0) the(0.0) significant(0.0) hospitality(0.0) ,(0.0) logistical(0.0) ,(0.0) and(0.0) security(0.0) 
+efforts(0.0) to(0.0) successfully(0.0) execute(0.0) the(0.0) 2004(0.0) national(0.0) political(0.0) conventions(0.0) in(0.0) Boston(1.0) ,(0.0) Massachusetts(1.0) ,(0.0) and(0.0) New(1.0) York(1.0) City(1.0) ,(0.0) New(1.0) 
+York(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+resolution	Res	
+Boston	Massachusetts	New	York	City	New	York	
+Res	
+Democratic	Boston	
+Massachusetts	Republican	National	Convention	was	
+York	City	New	York	Mayor	Thomas	M.	Menino	Boston	
+Boston	
+Michael	R.	Bloomberg	York	City	New	York	
+City	
+Kathleen	M.	O'Toole	Boston	Boston	
+Democratic	W.	York	
+New	York	Convention	;	Whereas	countless	city	,	
+State	,	regional	,	and	nationwide	agencies	cooperated	
+anti-terrorism	
+
+
+Americans	Conventions	national	
+political	
+
+Boston	Massachusetts	New	York	City	New	
+York	
+
+reads % = 0.1761786600496278

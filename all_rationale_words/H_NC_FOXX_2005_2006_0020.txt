@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) last(0.0) week(0.0) the(0.0) State(0.0) of(0.0) North(1.0) Carolina(0.0) lost(0.0) one(0.0) of(0.0) its(0.0) finest(0.0) citizens(0.0) ,(0.0) North(0.0) Carolina(0.0) Senator(0.0) Hamilton(1.0) ``(1.0) 
+Ham(0.0) ''(0.0) Horton(0.0) .(0.0) I(0.0) had(0.0) the(0.0) great(0.0) privilege(1.0) of(0.0) serving(1.0) with(0.0) Ham(0.0) for(0.0) 10(0.0) years(0.0) in(0.0) the(0.0) North(0.0) Carolina(0.0) 
+senate(0.0) .(0.0) I(0.0) considered(0.0) him(0.0) to(0.0) be(0.0) not(0.0) only(0.0) a(0.0) great(0.0) role(0.0) model(0.0) and(0.0) mentor(0.0) but(0.0) a(0.0) trusted(0.0) friend(0.0) .(0.0) 
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) rise(0.0) today(0.0) to(0.0) honor(0.0) Senator(1.0) Ham(0.0) Horton(0.0) for(0.0) leading(0.0) a(0.0) rich(0.0) life(0.0) of(0.0) service(0.0) to(0.0) others(0.0) 
+.(0.0) I(0.0) rise(0.0) in(0.0) trepidation(0.0) because(0.0) Senator(1.0) Horton(1.0) was(0.0) such(0.0) a(0.0) wonderful(0.0) orator(0.0) and(0.0) my(0.0) skills(0.0) are(0.0) so(0.0) inferior(0.0) to(0.0) 
+his(0.0) in(0.0) intellect(0.0) and(0.0) expression(0.0) .(0.0) Hamilton(0.0) Cowles(1.0) Horton(1.0) ,(0.0) Jr.(0.0) ,(0.0) was(0.0) born(0.0) in(0.0) Winston-Salem(1.0) ,(0.0) North(0.0) Carolina(0.0) ,(0.0) 
+on(0.0) August(0.0) 6(0.0) ,(0.0) 1931(0.0) .(0.0) He(0.0) was(0.0) the(0.0) great-grandson(0.0) of(0.0) Calvin(0.0) Josiah(0.0) Cowles(1.0) ,(0.0) who(0.0) represented(0.0) Wilkes(1.0) County(1.0) in(0.0) 
+the(0.0) United(0.0) States(0.0) Congress(0.0) and(0.0) the(0.0) great-grandson(0.0) of(0.0) William(0.0) Woods(1.0) Holden(1.0) ,(0.0) who(0.0) was(0.0) the(0.0) Governor(0.0) of(0.0) North(0.0) Carolina(0.0) following(0.0) 
+the(0.0) War(0.0) Between(0.0) the(0.0) States(0.0) .(0.0) Obviously(0.0) ,(0.0) public(0.0) service(0.0) was(0.0) in(0.0) Ham(0.0) 's(0.0) blood(0.0) from(0.0) the(0.0) start(0.0) .(0.0) Ham(0.0) 
+went(0.0) on(0.0) to(0.0) receive(0.0) his(0.0) bachelor(0.0) 's(0.0) and(0.0) law(0.0) degrees(0.0) from(0.0) the(0.0) University(0.0) of(0.0) North(0.0) Carolina(0.0) at(0.0) Chapel(0.0) Hill(0.0) .(0.0) 
+He(0.0) served(0.0) nine(0.0) terms(0.0) in(0.0) the(0.0) general(0.0) assembly(0.0) ,(0.0) one(0.0) in(0.0) the(0.0) House(0.0) ,(0.0) and(0.0) the(0.0) remainder(0.0) in(0.0) the(0.0) State(0.0) 
+senate(0.0) .(0.0) During(0.0) his(0.0) time(0.0) in(0.0) the(0.0) general(0.0) assembly(0.0) ,(0.0) Ham(0.0) gave(0.0) impassioned(1.0) and(0.0) eloquent(0.0) floor(0.0) speeches(0.0) on(0.0) a(0.0) wide(0.0) 
+range(0.0) of(0.0) topics(0.0) .(0.0) Whenever(0.0) he(0.0) took(0.0) to(0.0) the(0.0) senate(0.0) floor(0.0) ,(0.0) Ham(0.0) commanded(0.0) the(0.0) respect(0.0) of(0.0) everyone(0.0) in(0.0) his(0.0) 
+presence(0.0) ,(0.0) Republicans(0.0) and(0.0) Democrats(1.0) alike(0.0) .(0.0) I(0.0) often(0.0) said(0.0) he(0.0) was(0.0) like(0.0) E.F.(0.0) Hutton(1.0) :(0.0) when(0.0) he(0.0) spoke(0.0) ,(0.0) 
+everyone(0.0) listened(0.0) .(0.0) Ham(0.0) had(0.0) a(0.0) strong(0.0) sense(0.0) of(0.0) justice(1.0) and(0.0) doing(0.0) what(0.0) was(0.0) right(0.0) .(0.0) He(0.0) was(0.0) an(0.0) ardent(0.0) 
+supporter(1.0) of(0.0) the(0.0) individual(0.0) liberties(1.0) bestowed(0.0) by(0.0) our(0.0) Founding(1.0) Fathers(0.0) .(0.0) I(0.0) will(0.0) never(0.0) forget(0.0) when(0.0) State(0.0) inspectors(0.0) tried(0.0) to(0.0) 
+shut(0.0) down(0.0) a(0.0) Winston-Salem(0.0) market(0.0) because(0.0) it(0.0) sold(0.0) slices(0.0) of(0.0) country(1.0) ham(0.0) ,(0.0) Ham(0.0) promptly(0.0) introduced(0.0) the(0.0) Country(0.0) Ham(0.0) Preservation(0.0) 
+Act(0.0) to(0.0) exempt(1.0) small(0.0) markets(0.0) from(0.0) regulation(1.0) on(0.0) meat(0.0) preparation(0.0) .(0.0) After(0.0) all(0.0) ,(0.0) he(0.0) said(0.0) ,(0.0) the(0.0) only(0.0) difference(0.0) 
+between(0.0) tasting(0.0) wine(0.0) and(0.0) tasting(0.0) ham(0.0) is(0.0) that(0.0) you(0.0) spit(0.0) out(0.0) the(0.0) wine(0.0) and(0.0) no(0.0) one(0.0) has(0.0) been(0.0) known(0.0) to(0.0) 
+spit(0.0) out(0.0) the(0.0) ham(0.0) .(0.0) In(0.0) all(0.0) of(0.0) my(0.0) years(0.0) in(0.0) the(0.0) senate(1.0) ,(0.0) I(0.0) have(0.0) never(0.0) seen(0.0) a(0.0) bill(0.0) 
+move(1.0) so(0.0) quickly(0.0) .(0.0) The(0.0) senate(1.0) passed(0.0) the(0.0) bill(0.0) just(0.0) 2(0.0) days(0.0) after(0.0) Ham(0.0) filed(0.0) it(0.0) .(0.0) Then(0.0) the(0.0) State(0.0) 
+House(0.0) passed(0.0) it(0.0) the(0.0) following(0.0) day(0.0) .(0.0) Ham(0.0) had(0.0) a(0.0) gift(0.0) of(0.0) bringing(0.0) people(0.0) together(0.0) ,(0.0) despite(0.0) partisan(1.0) differences(0.0) ,(0.0) 
+to(0.0) do(0.0) what(0.0) was(0.0) best(0.0) for(0.0) our(0.0) State(1.0) .(0.0) The(0.0) North(0.0) Carolina(0.0) Senate(0.0) Republican(0.0) leader(1.0) Phil(1.0) Berger(1.0) once(1.0) said(1.0) that(1.0) 
+Ham(1.0) ``(0.0) harkened(1.0) back(0.0) to(0.0) another(0.0) age(0.0) in(0.0) the(0.0) Senate(0.0) ,(0.0) an(0.0) age(0.0) when(0.0) there(0.0) was(0.0) debate(1.0) that(0.0) focused(0.0) greatly(0.0) 
+on(0.0) the(0.0) merits(1.0) of(0.0) the(0.0) issues(0.0) rather(0.0) than(0.0) politics(1.0) and(0.0) personality(0.0) .(0.0) ''(0.0) Likewise(0.0) ,(0.0) the(0.0) editorial(1.0) page(0.0) of(0.0) 
+
+
+----- below are rationale words -----
+
+North	Hamilton	``	
+privilege	serving	
+
+Speaker	Senator	
+Senator	Horton	
+Cowles	Horton	Winston-Salem	
+Cowles	Wilkes	County	
+Woods	Holden	
+
+
+
+impassioned	
+
+Democrats	Hutton	
+justice	
+supporter	liberties	Founding	
+country	
+exempt	regulation	
+
+senate	
+move	senate	
+partisan	
+State	leader	Phil	Berger	once	said	that	
+Ham	harkened	debate	
+merits	politics	editorial	
+
+reads % = 0.088

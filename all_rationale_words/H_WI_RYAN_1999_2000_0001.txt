@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) .(0.0) I(0.0) appreciate(0.0) the(0.0) gentleman(0.0) 's(0.0) comments(0.0) on(0.0) reducing(1.0) the(0.0) public(1.0) debt(1.0) .(0.0) 
+I(0.0) am(0.0) a(0.0) new(0.0) Member(0.0) of(0.0) Congress(0.0) .(0.0) When(0.0) I(0.0) ran(0.0) for(0.0) Congress(0.0) last(0.0) year(0.0) ,(0.0) I(0.0) asked(0.0) people(0.0) what(0.0) 
+they(0.0) wanted(0.0) to(0.0) see(0.0) Congress(0.0) do(0.0) above(0.0) all(0.0) else(0.0) ?(0.0) They(0.0) said(0.0) balance(0.0) the(0.0) budget(1.0) ,(0.0) pay(1.0) off(0.0) our(0.0) debt(1.0) 
+and(0.0) stop(0.0) raiding(1.0) the(0.0) Social(0.0) Security(0.0) Trust(0.0) Fund(0.0) .(0.0) For(0.0) many(0.0) years(0.0) ,(0.0) this(0.0) institution(1.0) has(0.0) been(0.0) taking(0.0) money(0.0) out(0.0) 
+of(0.0) the(0.0) Social(0.0) Security(0.0) Trust(0.0) Fund(0.0) and(0.0) spending(1.0) it(0.0) on(0.0) other(0.0) government(1.0) programs(1.0) .(0.0) Both(0.0) parties(0.0) can(0.0) be(0.0) to(0.0) blame(1.0) 
+for(0.0) this(0.0) .(0.0) Over(0.0) the(0.0) last(0.0) 30(0.0) years(0.0) ,(0.0) we(0.0) have(0.0) taken(0.0) over(0.0) $(0.0) 800(0.0) billion(1.0) out(0.0) of(0.0) Social(1.0) Security(0.0) 
+to(0.0) spend(1.0) in(0.0) other(0.0) government(1.0) programs(1.0) that(0.0) have(0.0) nothing(0.0) to(0.0) do(0.0) with(0.0) Social(0.0) Security(0.0) .(0.0) When(0.0) you(0.0) are(0.0) working(0.0) hard(0.0) 
+,(0.0) paycheck(1.0) to(0.0) paycheck(1.0) ,(0.0) seeing(0.0) those(0.0) FICA(1.0) taxes(1.0) coming(0.0) out(0.0) of(0.0) your(0.0) paycheck(1.0) ,(0.0) just(0.0) remember(0.0) for(0.0) the(0.0) last(0.0) 
+30(0.0) years(0.0) a(0.0) lot(0.0) of(0.0) that(0.0) money(1.0) has(0.0) been(0.0) going(0.0) to(0.0) spend(1.0) on(0.0) other(0.0) things(0.0) other(0.0) than(0.0) Medicare(1.0) and(0.0) Social(0.0) 
+Security(0.0) .(0.0) For(0.0) the(0.0) first(0.0) time(0.0) in(0.0) 30(0.0) years(0.0) ,(0.0) last(0.0) year(0.0) ,(0.0) this(0.0) Congress(1.0) actually(0.0) stopped(0.0) the(0.0) raid(1.0) on(0.0) 
+Social(0.0) Security(0.0) .(0.0) One(0.0) thing(0.0) that(0.0) I(0.0) want(0.0) to(0.0) talk(0.0) about(0.0) is(0.0) the(0.0) fact(0.0) that(0.0) ,(0.0) and(0.0) as(0.0) my(0.0) colleague(0.0) 
+from(0.0) New(0.0) Hampshire(1.0) pointed(0.0) out(0.0) ,(0.0) Congress(0.0) has(0.0) been(0.0) doing(0.0) this(0.0) for(0.0) so(0.0) long(0.0) .(0.0) Last(0.0) year(0.0) ,(0.0) 1999(0.0) ,(0.0) 
+that(0.0) was(0.0) the(0.0) first(0.0) year(0.0) that(0.0) Congress(0.0) actually(0.0) passed(0.0) a(0.0) budget(0.0) that(0.0) did(0.0) not(0.0) take(0.0) any(0.0) money(1.0) out(0.0) of(0.0) Social(0.0) 
+Security(0.0) and(0.0) they(0.0) put(0.0) that(0.0) money(1.0) back(0.0) into(0.0) Social(0.0) Security(0.0) and(0.0) into(0.0) paying(1.0) off(0.0) our(0.0) national(1.0) debt(1.0) .(0.0) This(0.0) year(0.0) 
+,(0.0) Congress(0.0) has(0.0) stopped(0.0) the(0.0) raid(1.0) on(0.0) Social(0.0) Security(0.0) .(0.0) It(0.0) is(0.0) putting(0.0) that(0.0) money(1.0) back(0.0) into(0.0) the(0.0) Social(0.0) Security(0.0) 
+Trust(0.0) Fund(0.0) and(0.0) paying(0.0) off(0.0) the(0.0) national(1.0) debt(0.0) with(0.0) that(0.0) money(1.0) .(0.0) What(0.0) we(0.0) will(0.0) be(0.0) trying(0.0) to(0.0) achieve(1.0) with(0.0) 
+this(0.0) new(0.0) budget(1.0) that(0.0) we(0.0) are(0.0) passing(0.0) are(0.0) four(0.0) key(0.0) objectives(0.0) :(0.0) First(0.0) ,(0.0) continue(0.0) to(0.0) stop(0.0) the(0.0) raid(1.0) on(0.0) 
+the(0.0) Social(0.0) Security(0.0) Trust(0.0) Fund(0.0) .(0.0) Second(0.0) ,(0.0) pay(0.0) down(0.0) our(0.0) national(1.0) debt(1.0) .(0.0) Third(0.0) ,(0.0) modernize(1.0) our(0.0) Medicare(1.0) programs(1.0) 
+so(0.0) that(0.0) Medicare(1.0) ,(0.0) which(0.0) is(0.0) a(0.0) law(1.0) written(0.0) in(0.0) 1965(1.0) ,(0.0) actually(0.0) corresponds(0.0) with(0.0) the(0.0) year(0.0) 2000(0.0) health(1.0) care(0.0) 
+.(0.0) Where(0.0) I(0.0) come(0.0) from(0.0) ,(0.0) in(0.0) the(0.0) State(0.0) of(0.0) Wisconsin(1.0) ,(0.0) we(0.0) can(0.0) do(0.0) a(0.0) lot(0.0) better(0.0) in(0.0) Medicare(1.0) 
+.(0.0) Some(0.0) States(0.0) get(0.0) great(0.0) Medicare(1.0) rates(1.0) ,(0.0) and(0.0) I(0.0) am(0.0) happy(0.0) for(0.0) those(0.0) States(0.0) ,(0.0) but(0.0) not(0.0) all(0.0) states(1.0) 
+,(0.0) and(0.0) especially(0.0) Wisconsin(1.0) .(0.0) So(0.0) we(0.0) are(0.0) going(0.0) to(0.0) fix(0.0) the(0.0) problems(0.0) we(0.0) have(0.0) with(0.0) Medicare(1.0) .(0.0) Fourth(0.0) ,(0.0) 
+if(0.0) people(0.0) are(0.0) still(0.0) overpaying(1.0) their(0.0) taxes(1.0) ,(0.0) give(0.0) them(0.0) their(0.0) money(1.0) back(0.0) .(0.0) What(0.0) we(0.0) are(0.0) going(0.0) to(0.0) be(0.0) 
+hearing(0.0) tomorrow(0.0) on(0.0) the(0.0) floor(0.0) as(0.0) we(0.0) debate(1.0) these(0.0) budgets(1.0) is(0.0) basically(0.0) a(0.0) key(0.0) debate(1.0) over(0.0) these(0.0) priorities(1.0) .(0.0) I(0.0) 
+think(0.0) it(0.0) goes(0.0) very(0.0) much(0.0) to(0.0) the(0.0) point(0.0) of(0.0) a(0.0) difference(0.0) in(0.0) philosophy(1.0) that(0.0) exists(0.0) between(0.0) the(0.0) two(0.0) parties(0.0) 
+
+
+----- below are rationale words -----
+
+reducing	public	debt	
+
+budget	pay	debt	
+raiding	institution	
+spending	government	programs	blame	
+billion	Social	
+spend	government	programs	
+paycheck	paycheck	FICA	taxes	paycheck	
+money	spend	Medicare	
+Congress	raid	
+
+Hampshire	
+money	
+money	paying	national	debt	
+raid	money	
+national	money	achieve	
+budget	raid	
+national	debt	modernize	Medicare	programs	
+Medicare	law	1965	health	
+Wisconsin	Medicare	
+Medicare	rates	states	
+Wisconsin	Medicare	
+overpaying	taxes	money	
+debate	budgets	debate	priorities	
+philosophy	
+
+reads % = 0.128

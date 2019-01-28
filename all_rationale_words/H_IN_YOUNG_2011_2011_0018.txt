@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+We(0.0) need(0.0) more(0.0) certainty(1.0) restored(0.0) to(0.0) these(0.0) markets(1.0) .(0.0) Let(0.0) 's(0.0) reject(1.0) this(0.0) Alice(0.0) in(0.0) Wonderland(0.0) sort(0.0) of(0.0) leadership(0.0) .(0.0) Do(0.0) 
+n't(0.0) bring(0.0) me(0.0) problems(0.0) ,(0.0) I(0.0) say(0.0) to(0.0) my(0.0) colleagues(0.0) .(0.0) Bring(0.0) me(0.0) solutions(0.0) .(0.0) One(0.0) solution(0.0) is(0.0) the(0.0) Cut(1.0) 
+,(0.0) Cap(1.0) ,(0.0) and(0.0) Balance(0.0) Act(0.0) ,(0.0) and(0.0) I(0.0) commend(0.0) it(0.0) for(0.0) your(0.0) consideration(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+certainty	markets	reject	
+Cut	
+Cap	consideration	
+
+reads % = 0.10714285714285714

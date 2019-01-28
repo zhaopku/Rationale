@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) President(1.0) Clinton(1.0) has(0.0) just(1.0) surrendered(1.0) in(0.0) America(0.0) 's(0.0) war(1.0) against(0.0) drugs(0.0) .(0.0) I(0.0) 'm(0.0) deeply(1.0) disturbed(0.0) by(0.0) this(0.0) 
+veto(1.0) ,(0.0) and(0.0) every(0.0) parent(0.0) ,(0.0) teacher(0.0) and(0.0) police(1.0) officer(0.0) should(0.0) be(0.0) ,(0.0) too(1.0) .(0.0) His(0.0) veto(1.0) throws(1.0) away(0.0) all(0.0) 
+the(0.0) good(0.0) things(0.0) this(0.0) bill(0.0) does(0.0) :(0.0) help(0.0) D.C.(1.0) kids(0.0) go(0.0) to(0.0) college(1.0) ,(0.0) get(0.0) foster(1.0) kids(0.0) into(0.0) permanent(1.0) homes(1.0) 
+,(0.0) clean(1.0) up(0.0) the(0.0) foul(1.0) Anacostia(1.0) River(0.0) ,(0.0) crack(0.0) down(1.0) on(0.0) drug(0.0) offenders(0.0) ,(0.0) and(0.0) reduce(1.0) the(0.0) size(0.0) of(0.0) D.C.(1.0) 
+'s(0.0) bloated(1.0) government(1.0) .(0.0) And(0.0) for(0.0) what(0.0) ?(0.0) I(0.0) 'm(0.0) appalled(1.0) that(0.0) the(0.0) President(1.0) of(0.0) the(0.0) United(0.0) States(0.0) would(1.0) throw(0.0) 
+away(0.0) all(0.0) these(0.0) good(0.0) things(0.0) just(1.0) to(0.0) support(0.0) legalizing(1.0) marijuana(0.0) .(0.0) This(0.0) is(0.0) about(0.0) legalizing(1.0) drugs(0.0) in(0.0) the(0.0) nation(1.0) 's(0.0) 
+capital(1.0) ,(0.0) and(0.0) using(0.0) that(0.0) as(0.0) a(0.0) stepping-stone(1.0) for(0.0) the(0.0) rest(0.0) of(0.0) the(0.0) country(1.0) .(0.0) Nobody(1.0) should(0.0) be(0.0) fooled(1.0) by(0.0) 
+the(0.0) pretense(1.0) that(0.0) this(0.0) is(0.0) a(0.0) medical(1.0) issue(1.0) .(0.0) That(0.0) 's(0.0) a(0.0) smoke(0.0) screen(0.0) .(0.0) Anyone(1.0) who(0.0) reads(1.0) D.C.(1.0) 's(0.0) 
+proposed(0.0) new(0.0) law(1.0) knows(0.0) :(1.0) It(0.0) would(1.0) n't(0.0) even(0.0) require(1.0) an(0.0) actual(0.0) doctor(0.0) 's(0.0) prescription(0.0) .(0.0) People(1.0) who(0.0) claim(1.0) they(0.0) 
+have(0.0) approval(1.0) to(0.0) use(1.0) marijuana(0.0) are(0.0) allowed(1.0) to(0.0) authorize(0.0) their(0.0) friends(0.0) to(0.0) grow(1.0) and(0.0) keep(1.0) it(0.0) for(0.0) them(0.0) .(0.0) It(0.0) 
+even(0.0) requires(0.0) government(1.0) to(0.0) provide(0.0) the(0.0) marijuana(0.0) in(0.0) some(0.0) cases(1.0) ,(0.0) at(0.0) taxpayers(1.0) '(0.0) expense(1.0) .(0.0) It(0.0) 's(0.0) wide-open(1.0) for(0.0) 
+abuse(1.0) .(0.0) It(0.0) conflicts(0.0) with(0.0) our(0.0) national(0.0) law(1.0) making(0.0) marijuana(0.0) illegal(1.0) .(0.0) It(0.0) 's(0.0) also(1.0) a(0.0) smokescreen(0.0) for(0.0) the(0.0) President(1.0) 
+to(0.0) pretend(0.0) this(0.0) is(0.0) about(0.0) local(0.0) control(0.0) .(0.0) The(0.0) Constitution(0.0) ((0.0) Article(0.0) I(0.0) ,(0.0) Section(1.0) 8(0.0) )(0.0) puts(1.0) Congress(0.0) in(0.0) 
+charge(1.0) of(0.0) the(0.0) laws(1.0) in(0.0) D.C(1.0) .(0.0) Furthermore(1.0) ,(0.0) the(0.0) items(0.0) of(0.0) which(0.0) the(0.0) President(1.0) complains(1.0) were(0.0) all(0.0) approved(0.0) by(0.0) 
+him(0.0) in(0.0) last(0.0) year(0.0) 's(0.0) bill(0.0) .(0.0) They(0.0) are(0.0) not(1.0) new(0.0) .(0.0) The(0.0) only(0.0) new(1.0) thing(0.0) is(0.0) that(0.0) now(0.0) D.C.(1.0) 
+wants(1.0) to(0.0) legalize(1.0) marijuana(0.0) ,(0.0) and(0.0) President(0.0) Clinton(1.0) wants(1.0) to(0.0) help(0.0) them(0.0) .(0.0) Everyone(1.0) who(0.0) cares(0.0) about(0.0) combating(1.0) drugs(0.0) should(0.0) 
+be(0.0) sickened(1.0) by(0.0) the(0.0) Clinton(1.0) veto(1.0) .(0.0) You(0.0) ca(1.0) n't(0.0) have(0.0) a(0.0) war(1.0) on(0.0) drugs(0.0) if(0.0) the(0.0) President(1.0) turns(1.0) the(0.0) 
+nation(1.0) 's(0.0) capital(1.0) into(0.0) a(0.0) sanctuary(1.0) .(0.0) This(0.0) ends(1.0) any(1.0) hope(0.0) of(0.0) drug-free(1.0) zones(1.0) around(0.0) D.C.(1.0) 's(0.0) schools(1.0) .(0.0) Every(1.0) 
+police(1.0) officer(0.0) ,(0.0) every(0.0) teacher(0.0) ,(0.0) and(0.0) every(0.0) parent(0.0) who(0.0) has(0.0) ever(0.0) fought(0.0) against(0.0) drugs(0.0) should(0.0) be(0.0) crying(1.0) today(1.0) .(0.0) 
+The(0.0) President(1.0) is(0.0) sending(0.0) the(0.0) worst(1.0) possible(0.0) message(0.0) to(0.0) our(0.0) children(0.0) .(0.0) Not(0.0) only(0.0) that(0.0) ,(0.0) he(0.0) 's(1.0) exposing(1.0) our(0.0) 
+nation(0.0) 's(0.0) capitol(1.0) to(0.0) renewed(0.0) ridicule(0.0) over(0.0) drug(0.0) abuse(1.0) and(0.0) hijacking(1.0) D.C.(1.0) 's(0.0) progress(1.0) on(0.0) the(0.0) road(1.0) to(0.0) recovery(1.0) from(0.0) 
+the(0.0) Marion(1.0) Barry(1.0) days(0.0) .(0.0) I(0.0) 'm(0.0) shocked(1.0) that(0.0) he(0.0) would(1.0) sacrifice(0.0) everything(0.0) just(1.0) to(0.0) promote(0.0) a(0.0) pro-drug(1.0) agenda(1.0) .(0.0) 
+Neither(1.0) the(0.0) Congress(0.0) nor(0.0) the(0.0) country(1.0) will(0.0) accept(1.0) what(0.0) the(0.0) President(1.0) has(0.0) done(0.0) .(0.0) ''(0.0) Madam(0.0) Speaker(1.0) ,(0.0) I(0.0) ask(1.0) 
+unanimous(0.0) consent(0.0) that(0.0) the(0.0) veto(1.0) message(0.0) of(0.0) the(0.0) President(1.0) ,(0.0) together(0.0) with(0.0) the(0.0) accompanying(0.0) bill(0.0) ,(0.0) H.R(0.0) .(0.0) 2587(1.0) ,(0.0) 
+be(0.0) referred(1.0) to(0.0) the(0.0) Committee(0.0) on(0.0) Appropriations(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+President	Clinton	just	surrendered	war	deeply	
+veto	police	too	veto	throws	
+D.C.	college	foster	permanent	homes	
+clean	foul	Anacostia	down	reduce	D.C.	
+bloated	government	appalled	President	would	
+just	legalizing	legalizing	nation	
+capital	stepping-stone	country	Nobody	fooled	
+pretense	medical	issue	Anyone	reads	D.C.	
+law	:	would	require	People	claim	
+approval	use	allowed	grow	keep	
+government	cases	taxpayers	expense	wide-open	
+abuse	law	illegal	also	President	
+Section	puts	
+charge	laws	D.C	Furthermore	President	complains	
+not	new	D.C.	
+wants	legalize	Clinton	wants	Everyone	combating	
+sickened	Clinton	veto	ca	war	President	turns	
+nation	capital	sanctuary	ends	any	drug-free	zones	D.C.	schools	Every	
+police	crying	today	
+President	worst	's	exposing	
+capitol	abuse	hijacking	D.C.	progress	road	recovery	
+Marion	Barry	shocked	would	just	pro-drug	agenda	
+Neither	country	accept	President	Speaker	ask	
+veto	President	2587	
+referred	
+
+reads % = 0.261758691206544

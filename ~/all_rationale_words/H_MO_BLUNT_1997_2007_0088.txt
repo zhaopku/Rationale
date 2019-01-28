@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Actually(0.0) ,(0.0) we(1.0) made(0.0) the(0.0) deadline(1.0) one(0.0) time(0.0) in(0.0) 12(1.0) years(0.0) ,(0.0) and(0.0) two(0.0) times(0.0) in(0.0) the(0.0) 30(0.0) years(0.0) of(0.0) the(0.0) 
+budget(0.0) rule(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+we	deadline	12	
+
+
+reads % = 0.125

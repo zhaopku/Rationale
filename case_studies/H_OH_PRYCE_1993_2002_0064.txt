@@ -1,5 +1,5 @@
-wrong
+correct
 Speaker(1.0) 
-,(0.0) I(0.0) am(1.0) very(0.0) pleased(0.0) to(1.0) yield(0.0) 3(0.0) minutes(0.0) to(1.0) the(0.0) distinguished(1.0) gentleman(1.0) from(1.0) the(1.0) great(0.0) State(0.0) of(0.0) Ohio(1.0) ((0.0) 
-Mr.(1.0) Portman(1.0) )(1.0) ,(1.0) a(0.0) member(0.0) of(0.0) the(0.0) Select(0.0) Committee(1.0) on(1.0) Homeland(0.0) Security(0.0) and(0.0) someone(1.0) who(1.0) has(1.0) devoted(1.0) countless(1.0) hours(0.0) 
-to(1.0) this(1.0) cause(0.0) .(0.0) 
+,(1.0) I(1.0) am(1.0) very(1.0) pleased(1.0) to(1.0) yield(1.0) 3(1.0) minutes(1.0) to(1.0) the(1.0) distinguished(1.0) gentleman(1.0) from(1.0) the(1.0) great(1.0) State(1.0) of(1.0) Ohio(1.0) ((1.0) 
+Mr.(1.0) Portman(1.0) )(1.0) ,(1.0) a(1.0) member(1.0) of(1.0) the(1.0) Select(1.0) Committee(1.0) on(1.0) Homeland(1.0) Security(1.0) and(1.0) someone(1.0) who(1.0) has(1.0) devoted(1.0) countless(1.0) hours(1.0) 
+to(1.0) this(1.0) cause(1.0) .(1.0) 

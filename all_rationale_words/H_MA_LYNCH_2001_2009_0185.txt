@@ -1,0 +1,42 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) agree(0.0) to(0.0) the(0.0) resolution(1.0) ((0.0) H.(0.0) Res(1.0) .(0.0) 388(0.0) )(0.0) celebrating(0.0) the(0.0) 
+role(0.0) of(0.0) mothers(1.0) in(0.0) the(0.0) United(0.0) States(0.0) and(0.0) supporting(0.0) the(0.0) goals(0.0) and(0.0) ideals(1.0) of(0.0) Mother(0.0) 's(0.0) Day(0.0) .(0.0) The(0.0) Clerk(0.0) 
+read(0.0) the(0.0) title(0.0) of(0.0) the(0.0) resolution(0.0) .(0.0) The(0.0) text(0.0) of(0.0) the(0.0) resolution(0.0) is(0.0) as(0.0) follows(0.0) :(0.0) H.(0.0) Res(1.0) .(0.0) 388(0.0) 
+Whereas(0.0) Mother(0.0) 's(0.0) Day(0.0) is(0.0) celebrated(0.0) on(0.0) the(0.0) second(0.0) Sunday(0.0) of(0.0) each(0.0) May(0.0) ;(0.0) Whereas(0.0) the(0.0) first(0.0) official(0.0) Mother(0.0) 's(0.0) 
+Day(0.0) was(0.0) observed(0.0) on(0.0) May(0.0) 10(0.0) ,(0.0) 1908(0.0) ,(0.0) in(0.0) Grafton(0.0) ,(0.0) West(0.0) Virginia(0.0) ,(0.0) and(0.0) Philadelphia(1.0) ,(0.0) Pennsylvania(1.0) ;(0.0) 
+Whereas(0.0) 2009(0.0) is(0.0) the(0.0) 101st(0.0) anniversary(0.0) of(0.0) the(0.0) first(0.0) official(0.0) Mother(0.0) 's(0.0) Day(0.0) observation(0.0) ;(0.0) Whereas(0.0) in(0.0) 1908(1.0) ,(0.0) Elmer(0.0) 
+Burkett(1.0) ,(0.0) a(0.0) U.S.(0.0) senator(0.0) from(0.0) Nebraska(1.0) ,(0.0) proposed(0.0) making(0.0) Mother(0.0) 's(0.0) Day(0.0) a(0.0) national(0.0) holiday(0.0) ;(0.0) Whereas(0.0) in(0.0) 1914(0.0) 
+,(0.0) Congress(0.0) passed(0.0) a(0.0) resolution(0.0) designating(0.0) the(0.0) second(0.0) Sunday(0.0) of(0.0) May(0.0) as(0.0) Mother(0.0) 's(0.0) Day(0.0) ;(0.0) Whereas(0.0) it(0.0) is(0.0) estimated(0.0) 
+that(0.0) there(0.0) are(0.0) more(0.0) than(0.0) 82,000,000(0.0) mothers(1.0) in(0.0) the(0.0) United(0.0) States(0.0) ;(0.0) Whereas(0.0) mothers(1.0) have(0.0) made(0.0) immeasurable(0.0) contributions(0.0) toward(0.0) building(0.0) 
+strong(0.0) families(0.0) ,(0.0) thriving(1.0) communities(1.0) ,(0.0) and(0.0) ultimately(0.0) a(0.0) strong(0.0) Nation(0.0) ;(0.0) Whereas(0.0) the(0.0) services(0.0) rendered(0.0) to(0.0) the(0.0) children(0.0) of(0.0) 
+the(0.0) United(0.0) States(0.0) by(0.0) their(0.0) mothers(1.0) have(0.0) strengthened(1.0) and(0.0) inspired(0.0) the(0.0) Nation(1.0) throughout(0.0) its(0.0) history(0.0) ;(0.0) Whereas(0.0) we(0.0) honor(0.0) ourselves(0.0) 
+and(0.0) mothers(1.0) in(0.0) the(0.0) United(0.0) States(0.0) when(0.0) we(0.0) revere(1.0) and(0.0) emphasize(0.0) the(0.0) importance(0.0) of(0.0) the(0.0) role(0.0) of(0.0) the(0.0) home(0.0) and(0.0) 
+family(0.0) as(0.0) the(0.0) true(0.0) foundation(0.0) of(0.0) the(0.0) Nation(1.0) ;(0.0) Whereas(0.0) mothers(1.0) continue(0.0) to(0.0) rise(1.0) to(0.0) the(0.0) challenge(0.0) of(0.0) raising(1.0) their(0.0) 
+families(0.0) with(0.0) love(0.0) ,(0.0) understanding(0.0) ,(0.0) and(0.0) compassion(1.0) ,(0.0) while(0.0) overcoming(0.0) the(0.0) challenges(1.0) of(0.0) modern(0.0) society(1.0) ;(0.0) and(0.0) Whereas(1.0) May(0.0) 
+10(0.0) ,(0.0) 2009(0.0) ,(0.0) is(0.0) recognized(0.0) as(0.0) Mother(0.0) 's(0.0) Day(0.0) :(0.0) Now(0.0) ,(0.0) therefore(0.0) ,(0.0) be(0.0) it(0.0) Resolved(0.0) ,(0.0) That(0.0) 
+the(0.0) House(0.0) of(0.0) Representatives(0.0) celebrates(1.0) the(0.0) role(0.0) of(0.0) mothers(1.0) in(0.0) the(0.0) United(0.0) States(0.0) and(0.0) supports(0.0) the(0.0) goals(0.0) and(0.0) ideals(1.0) of(0.0) 
+Mother(0.0) 's(0.0) Day(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+resolution	Res	
+mothers	ideals	
+Res	
+
+Philadelphia	Pennsylvania	
+1908	
+Burkett	Nebraska	
+
+mothers	mothers	
+thriving	communities	
+mothers	strengthened	Nation	
+mothers	revere	
+Nation	mothers	rise	raising	
+compassion	challenges	society	Whereas	
+
+celebrates	mothers	ideals	
+
+
+reads % = 0.09230769230769231

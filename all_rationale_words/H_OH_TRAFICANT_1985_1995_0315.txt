@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) reclaiming(1.0) my(0.0) time(0.0) ,(0.0) this(0.0) does(0.0) not(0.0) mean(0.0) that(0.0) we(0.0) have(0.0) to(0.0) buy(0.0) and(0.0) eat(0.0) American(0.0) fish(0.0) .(0.0) There(0.0) 
+is(0.0) a(0.0) whole(0.0) lot(0.0) more(0.0) to(0.0) it(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) ask(0.0) for(0.0) an(0.0) ``(0.0) aye(0.0) ''(0.0) vote(1.0) .(0.0) 
+The(0.0) CHAIRMAN(0.0) pro(0.0) tempore(0.0) .(0.0) The(0.0) question(0.0) is(0.0) on(0.0) the(0.0) amendment(1.0) offered(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) Ohio(1.0) [(0.0) Mr.(0.0) Traficant(1.0) 
+](0.0) .(0.0) The(0.0) amendment(0.0) was(0.0) agreed(0.0) to(0.0) .(0.0) The(0.0) CHAIRMAN(0.0) pro(0.0) tempore(0.0) .(0.0) Are(0.0) there(0.0) other(0.0) amendments(0.0) to(0.0) the(0.0) bill(0.0) 
+?(1.0) Amendment(1.0) offered(0.0) by(0.0) Mr.(0.0) Goss(1.0) 
+
+
+----- below are rationale words -----
+
+reclaiming	
+Chairman	vote	
+amendment	Ohio	Traficant	
+
+?	Amendment	Goss	
+
+reads % = 0.10344827586206896

@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) ranking(0.0) member(0.0) for(0.0) yielding(0.0) me(0.0) this(0.0) time(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) 
+H.R(0.0) .(0.0) 3666(0.0) ,(0.0) the(0.0) VA(0.0) ,(0.0) HUD(1.0) ,(0.0) and(0.0) independent(0.0) agencies(0.0) appropriations(0.0) bill(0.0) .(0.0) This(0.0) fiscal(0.0) year(0.0) 1997(0.0) bill(0.0) 
+is(0.0) an(0.0) improved(0.0) bill(0.0) in(0.0) comparison(0.0) to(0.0) the(0.0) radical(1.0) bill(1.0) passed(1.0) by(1.0) the(0.0) majority(1.0) party(1.0) of(0.0) the(0.0) House(0.0) last(0.0) year(0.0) 
+.(0.0) The(0.0) measure(1.0) carries(0.0) forward(0.0) the(0.0) long(0.0) sought(0.0) compromise(1.0) that(0.0) extended(0.0) debate(1.0) midway(0.0) into(0.0) this(0.0) 1996(0.0) fiscal(1.0) year(0.0) .(0.0) I(0.0) 
+remain(0.0) concerned(0.0) ,(0.0) however(0.0) ,(0.0) that(0.0) it(0.0) remains(0.0) wholly(0.0) out(0.0) of(0.0) step(0.0) with(0.0) people(0.0) ,(0.0) priorities(1.0) and(0.0) shared(0.0) sacrifice(0.0) which(0.0) 
+should(0.0) characterize(0.0) reductions(1.0) in(0.0) spending(1.0) necessary(0.0) to(0.0) achieve(0.0) sound(0.0) fiscal(1.0) balance(0.0) .(0.0) I(0.0) do(0.0) pragmatically(0.0) understand(0.0) ,(0.0) however(0.0) sadly(0.0) ,(0.0) 
+that(0.0) the(0.0) votes(1.0) in(0.0) this(0.0) Congress(0.0) simply(0.0) do(0.0) not(0.0) reflect(0.0) American(0.0) public(1.0) opinion(0.0) and(0.0) values(0.0) much(0.0) less(0.0) the(0.0) need(0.0) .(0.0) 
+On(0.0) the(0.0) whole(0.0) ,(0.0) the(0.0) bill(1.0) basically(1.0) maintains(0.0) the(0.0) status(0.0) quo(0.0) with(0.0) 1996(0.0) levels(0.0) of(0.0) spending(1.0) ;(0.0) that(0.0) is(0.0) levels(0.0) 
+established(0.0) after(0.0) serious(0.0) cuts(1.0) of(0.0) between(0.0) 20(0.0) and(0.0) 30(0.0) percent(0.0) were(0.0) made(0.0) to(0.0) housing(1.0) and(0.0) homeless(1.0) programs(1.0) in(0.0) 1995-96(1.0) .(0.0) 
+I(0.0) am(0.0) pleased(0.0) at(0.0) the(0.0) continued(0.0) funding(1.0) for(0.0) the(0.0) drug(1.0) elimination(1.0) grant(1.0) program(0.0) for(0.0) public(1.0) and(0.0) assisted(0.0) housing(1.0) .(0.0) EPA(1.0) 
+funding(1.0) is(0.0) below(0.0) the(0.0) administration(1.0) 's(0.0) request(0.0) by(0.0) nearly(0.0) half(0.0) a(0.0) billion(1.0) dollars(1.0) .(0.0) A(0.0) strong(0.0) and(0.0) cost(0.0) effective(0.0) community(0.0) 
+program(1.0) ,(0.0) AmeriCorp(1.0) ,(0.0) is(0.0) not(0.0) eliminated(0.0) but(0.0) is(0.0) severely(0.0) underfunded(1.0) by(0.0) this(0.0) appropriations(1.0) bill(1.0) .(1.0) Perhaps(0.0) the(0.0) only(0.0) ``(0.0) 
+safe(0.0) ''(0.0) programs(1.0) are(0.0) those(0.0) within(0.0) the(0.0) Department(0.0) of(0.0) Veterans(0.0) Affairs(0.0) which(0.0) has(0.0) available(0.0) most(0.0) $(0.0) 39(0.0) billion(1.0) .(0.0) Even(0.0) 
+in(0.0) this(0.0) instance(0.0) ,(0.0) we(0.0) must(0.0) acknowledge(0.0) the(0.0) greater(0.0) needs(0.0) for(0.0) veterans(1.0) and(0.0) these(0.0) programs(1.0) .(0.0) Despite(0.0) funding(1.0) less(0.0) than(0.0) 
+administration(1.0) requested(0.0) ,(0.0) positive(0.0) increases(1.0) in(0.0) VA(1.0) medical(1.0) care(0.0) and(0.0) major(0.0) construction(0.0) of(0.0) VA(0.0) facilities(0.0) are(0.0) achieved(0.0) .(0.0) As(0.0) a(0.0) 
+senior(0.0) member(0.0) of(0.0) the(0.0) authorizing(0.0) committee(0.0) for(0.0) housing(1.0) programs(0.0) ,(0.0) I(0.0) have(0.0) grave(0.0) concerns(0.0) about(0.0) a(0.0) bill(1.0) that(0.0) maintains(0.0) about(0.0) 
+$(0.0) 4(0.0) billion(1.0) worth(0.0) of(0.0) cuts(1.0) from(0.0) fiscal(1.0) year(0.0) 1995(1.0) levels(0.0) and(0.0) undercuts(1.0) the(0.0) administration(1.0) 's(0.0) request(0.0) by(0.0) $(0.0) 2.3(0.0) 
+billion(1.0) while(0.0) at(0.0) the(0.0) same(0.0) time(0.0) continuing(0.0) to(0.0) provide(0.0) $(0.0) 5.3(0.0) billion(1.0) to(0.0) NASA(1.0) for(0.0) human(1.0) space(0.0) flight(0.0) ,(0.0) the(0.0) 
+space(0.0) station(0.0) ,(0.0) in(0.0) its(0.0) 10th(0.0) reincarnation(0.0) .(0.0) Like(0.0) so(0.0) many(0.0) before(0.0) it(0.0) ,(0.0) this(0.0) appropriations(1.0) bill(1.0) continues(1.0) to(0.0) place(0.0) 
+deficit(1.0) reduction(1.0) on(0.0) the(0.0) backs(1.0) of(0.0) the(0.0) most(0.0) vulnerable(1.0) Americans(1.0) --(0.0) the(0.0) poor(1.0) ,(0.0) the(0.0) homeless(1.0) ,(0.0) and(0.0) even(0.0) our(0.0) 
+elderly(1.0) .(0.0) Later(0.0) ,(0.0) I(0.0) will(0.0) join(0.0) my(0.0) colleague(0.0) ,(0.0) Mr.(0.0) Joseph(1.0) Kennedy(1.0) ,(0.0) the(0.0) ranking(0.0) member(0.0) of(0.0) the(0.0) Housing(0.0) 
+Subcommittee(0.0) ,(0.0) in(0.0) offering(0.0) two(0.0) amendments(0.0) :(0.0) one(0.0) to(0.0) restore(0.0) funds(0.0) to(0.0) the(0.0) MCKinney(0.0) homeless(1.0) assistance(0.0) programs(0.0) at(0.0) HUD(1.0) to(0.0) 
+the(0.0) pre-rescission(0.0) 1995(0.0) level(0.0) ,(0.0) and(0.0) the(0.0) other(0.0) to(0.0) restore(0.0) a(0.0) long-time(0.0) policy(0.0) to(0.0) have(0.0) incremental(0.0) --(0.0) or(0.0) new(0.0) --(0.0) 
+section(0.0) 8(0.0) assistance(0.0) in(0.0) place(0.0) to(0.0) serve(0.0) new(0.0) housing(1.0) and(0.0) shelter(0.0) needs(0.0) .(0.0) Each(0.0) amendment(1.0) is(0.0) a(0.0) good(0.0) faith(0.0) attempt(0.0) 
+to(0.0) put(0.0) a(0.0) dent(0.0) in(0.0) the(0.0) number(0.0) of(0.0) households(0.0) that(0.0) have(0.0) worst(0.0) case(0.0) housing(1.0) needs(0.0) .(0.0) HUD(1.0) reports(0.0) to(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	
+HUD	
+radical	bill	passed	by	majority	party	
+measure	compromise	debate	fiscal	
+priorities	
+reductions	spending	fiscal	
+votes	public	
+bill	basically	spending	
+cuts	housing	homeless	programs	1995-96	
+funding	drug	elimination	grant	public	housing	EPA	
+funding	administration	billion	dollars	
+program	AmeriCorp	underfunded	appropriations	bill	.	
+programs	billion	
+veterans	programs	funding	
+administration	increases	VA	medical	
+housing	bill	
+billion	cuts	fiscal	1995	undercuts	administration	
+billion	billion	NASA	human	
+appropriations	bill	continues	
+deficit	reduction	backs	vulnerable	Americans	poor	homeless	
+elderly	Joseph	Kennedy	
+homeless	HUD	
+
+housing	amendment	
+housing	HUD	
+
+reads % = 0.166

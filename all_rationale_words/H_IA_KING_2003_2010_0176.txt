@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+But(0.0) are(0.0) we(0.0) drawing(0.0) a(0.0) rational(0.0) conclusion(0.0) here(0.0) that(0.0) we(0.0) could(0.0) have(0.0) a(0.0) government(1.0) that(0.0) we(0.0) could(0.0) draw(0.0) conclusions(0.0) from(0.0) based(0.0) 
+upon(0.0) their(0.0) response(0.0) or(0.0) lack(0.0) of(0.0) response(0.0) and(0.0) not(0.0) the(0.0) answer(0.0) to(0.0) the(0.0) question(0.0) ?(0.0) I(0.0) would(0.0) yield(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+government	
+
+
+reads % = 0.025

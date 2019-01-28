@@ -1,0 +1,10 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) yield(0.0) 10(0.0) seconds(0.0) it(0.0) the(0.0) gentleman(0.0) from(0.0) Maryland(1.0) ((0.0) Mr.(0.0) Hoyer(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Maryland	Hoyer	
+
+reads % = 0.125

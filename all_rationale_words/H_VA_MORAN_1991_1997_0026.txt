@@ -1,0 +1,42 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) urge(0.0) this(0.0) body(0.0) to(0.0) vote(1.0) for(0.0) the(0.0) budget(1.0) agreement(1.0) as(0.0) worked(0.0) out(0.0) between(0.0) the(0.0) leaders(0.0) of(0.0) our(0.0) parties(0.0) 
+and(0.0) the(0.0) President(1.0) of(0.0) our(0.0) country(1.0) .(0.0) The(0.0) alternative(1.0) to(0.0) this(0.0) budget(1.0) agreement(1.0) is(0.0) not(0.0) the(0.0) ideal(0.0) from(0.0) the(0.0) Democrats(1.0) 
+'(0.0) perspective(0.0) nor(0.0) the(0.0) ideal(0.0) from(0.0) the(0.0) Republicans(1.0) '(1.0) perspective(1.0) .(1.0) The(1.0) alternative(1.0) is(1.0) to(1.0) go(1.0) on(0.0) fighting(1.0) ,(1.0) to(1.0) 
+go(0.0) on(0.0) fighting(1.0) every(0.0) single(0.0) appropriation(1.0) bill(1.0) ,(1.0) every(0.0) single(0.0) tax(1.0) measure(1.0) ,(1.0) to(0.0) reach(0.0) no(0.0) resolution(1.0) ,(0.0) to(0.0) have(0.0) 
+the(0.0) President(1.0) veto(1.0) many(0.0) of(0.0) them(0.0) ,(0.0) to(0.0) struggle(1.0) over(0.0) whether(0.0) or(0.0) not(0.0) they(0.0) will(0.0) be(0.0) overridden(0.0) ,(0.0) and(0.0) with(0.0) 
+every(0.0) showdown(1.0) will(0.0) come(0.0) the(0.0) threat(1.0) of(0.0) another(0.0) shutdown(1.0) .(0.0) That(0.0) is(0.0) not(0.0) what(0.0) we(0.0) want(0.0) ,(0.0) and(0.0) I(0.0) know(0.0) 
+it(0.0) is(0.0) not(0.0) what(0.0) the(0.0) country(1.0) wants(0.0) .(0.0) The(0.0) Republicans(1.0) wanted(1.0) $(1.0) 220(1.0) billion(1.0) of(1.0) tax(1.0) cuts(1.0) over(1.0) 5(1.0) years(1.0) 
+.(1.0) What(1.0) they(1.0) got(1.0) was(1.0) $(1.0) 135(0.0) billion(1.0) ,(1.0) half(1.0) of(1.0) that(1.0) ,(0.0) and(0.0) $(0.0) 35(0.0) billion(1.0) of(0.0) that(0.0) amount(1.0) 
+has(0.0) to(0.0) go(0.0) in(0.0) to(0.0) education(1.0) tax(1.0) credits(1.0) and(0.0) deductions(1.0) ,(0.0) which(0.0) was(0.0) a(0.0) Democratic(0.0) priority(1.0) .(0.0) The(0.0) Democrats(1.0) wanted(1.0) 
+a(0.0) lot(0.0) more(0.0) money(1.0) for(0.0) nondefense(1.0) domestic(1.0) discretionary(1.0) spending(1.0) .(0.0) They(0.0) did(0.0) not(0.0) get(0.0) it(0.0) ,(0.0) but(0.0) they(0.0) got(0.0) $(0.0) 
+189(0.0) billion(1.0) more(0.0) than(0.0) was(0.0) included(0.0) in(0.0) the(0.0) Republican(1.0) budget(1.0) resolution(1.0) of(1.0) last(1.0) year(1.0) .(1.0) That(1.0) is(1.0) a(0.0) substantial(1.0) increase(0.0) 
+.(0.0) Politics(1.0) has(0.0) got(0.0) to(0.0) be(0.0) the(0.0) art(0.0) of(0.0) compromise(1.0) .(0.0) Neither(0.0) of(0.0) us(0.0) is(0.0) going(0.0) to(0.0) get(0.0) everything(0.0) we(0.0) 
+want(0.0) .(0.0) But(0.0) what(0.0) the(0.0) country(1.0) wants(0.0) is(0.0) us(0.0) to(0.0) start(0.0) working(0.0) together(0.0) in(0.0) their(0.0) interest(0.0) .(0.0) They(0.0) want(0.0) the(0.0) 
+Democrats(1.0) to(0.0) realize(0.0) that(0.0) it(0.0) is(0.0) not(0.0) our(0.0) money(1.0) but(0.0) their(0.0) money(1.0) over(0.0) which(0.0) we(0.0) have(0.0) stewardship(1.0) .(0.0) And(0.0) they(0.0) 
+want(0.0) the(0.0) Republicans(1.0) to(1.0) understand(1.0) that(1.0) there(1.0) is(1.0) a(1.0) responsible(1.0) role(1.0) for(1.0) government(1.0) in(1.0) our(1.0) lives(1.0) ,(0.0) that(0.0) government(1.0) should(0.0) 
+be(0.0) maintained(0.0) ,(0.0) but(0.0) that(0.0) we(0.0) should(0.0) ensure(0.0) that(0.0) it(0.0) is(0.0) held(0.0) accountable(1.0) to(0.0) be(0.0) as(0.0) efficient(0.0) and(0.0) as(0.0) effective(0.0) 
+as(0.0) possible(0.0) .(0.0) This(0.0) budget(1.0) accomplishes(0.0) those(0.0) objectives(1.0) .(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) vote(1.0) for(0.0) it(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+vote	budget	agreement	
+President	country	alternative	budget	agreement	Democrats	
+Republicans	'	perspective	.	The	alternative	is	to	go	fighting	,	to	
+fighting	appropriation	bill	,	tax	measure	,	resolution	
+President	veto	struggle	
+showdown	threat	shutdown	
+country	Republicans	wanted	$	220	billion	of	tax	cuts	over	5	years	
+.	What	they	got	was	$	billion	,	half	of	that	billion	amount	
+education	tax	credits	deductions	priority	Democrats	wanted	
+money	nondefense	domestic	discretionary	spending	
+billion	Republican	budget	resolution	of	last	year	.	That	is	substantial	
+Politics	compromise	
+country	
+Democrats	money	money	stewardship	
+Republicans	to	understand	that	there	is	a	responsible	role	for	government	in	our	lives	government	
+accountable	
+budget	objectives	vote	
+
+reads % = 0.3215339233038348

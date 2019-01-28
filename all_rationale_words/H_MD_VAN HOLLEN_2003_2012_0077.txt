@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) RYAN(1.0) from(0.0) Ohio(0.0) .(0.0) Ronald(0.0) Reagan(1.0) raised(0.0) taxes(0.0) 11(0.0) times(0.0) :(0.0) Tax(0.0) Equity(1.0) and(0.0) Fiscal(0.0) Responsibility(0.0) Act(0.0) of(0.0) 1982(0.0) ;(0.0) 
+Highway(0.0) Revenue(0.0) Act(0.0) of(0.0) 1982(0.0) ;(0.0) Social(0.0) Security(0.0) amendments(0.0) of(0.0) 1983(0.0) ;(0.0) Railroad(0.0) Retirement(0.0) Revenue(0.0) Act(0.0) ,(0.0) tax(0.0) increase(1.0) of(0.0) 
+1983(0.0) ;(0.0) Deficit(0.0) Reduction(1.0) Act(0.0) of(0.0) 1984(0.0) ;(0.0) Consolidated(0.0) Omnibus(0.0) Budget(0.0) Reconciliation(0.0) Act(0.0) of(0.0) 1985(0.0) ;(0.0) Omnibus(0.0) Budget(0.0) Reconciliation(0.0) Act(0.0) 
+of(0.0) 1985(0.0) ;(0.0) Superfund(1.0) Amendments(0.0) and(0.0) Reauthorization(0.0) Act(0.0) of(0.0) 1986(0.0) ;(0.0) continuing(0.0) resolution(1.0) in(0.0) '87(0.0) ,(0.0) and(0.0) a(0.0) continuing(0.0) resolution(0.0) 
+in(0.0) '88(0.0) .(0.0) The(0.0) responsible(0.0) thing(0.0) to(0.0) do(0.0) is(0.0) to(0.0) ask(0.0) Warren(1.0) Buffett(1.0) and(0.0) his(0.0) friends(0.0) to(0.0) help(0.0) us(0.0) make(0.0) 
+sure(0.0) that(0.0) these(0.0) cuts(1.0) are(0.0) n't(0.0) that(0.0) deep(0.0) in(0.0) Medicare(1.0) and(0.0) Medicaid(1.0) and(0.0) Pell(1.0) Grants(1.0) and(0.0) the(0.0) other(0.0) investments(1.0) that(0.0) 
+we(0.0) need(0.0) to(0.0) make(0.0) in(0.0) this(0.0) country(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+RYAN	Reagan	Equity	
+increase	
+Reduction	
+Superfund	resolution	
+Warren	Buffett	
+cuts	Medicare	Medicaid	Pell	Grants	investments	
+country	
+
+reads % = 0.12403100775193798

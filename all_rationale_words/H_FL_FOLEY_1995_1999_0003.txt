@@ -1,0 +1,34 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) in(0.0) strong(0.0) support(0.0) of(0.0) the(0.0) resolution(1.0) of(0.0) the(0.0) gentleman(0.0) from(0.0) Arizona(0.0) ((0.0) Mr.(0.0) Salmon(1.0) )(0.0) and(0.0) I(0.0) 
+want(0.0) to(0.0) underscore(0.0) once(0.0) again(0.0) the(0.0) United(0.0) States(0.0) Senate(0.0) ,(0.0) in(0.0) a(0.0) vote(0.0) of(0.0) 98-to-1(0.0) ,(0.0) passed(0.0) the(0.0) exact(0.0) same(0.0) 
+resolution(1.0) ,(0.0) the(0.0) exact(0.0) same(0.0) resolution(1.0) word(0.0) for(0.0) word(0.0) .(0.0) We(0.0) oppose(1.0) the(0.0) PLO(1.0) 's(0.0) unilateral(1.0) declaration(0.0) of(0.0) a(0.0) Palestinian(0.0) 
+state(0.0) ,(0.0) despite(0.0) the(0.0) First(0.0) Lady(0.0) 's(0.0) claim(0.0) that(0.0) there(0.0) should(0.0) be(0.0) one(0.0) .(0.0) Many(0.0) in(0.0) the(0.0) PLO(1.0) leadership(0.0) seem(0.0) 
+to(0.0) think(0.0) that(0.0) the(0.0) final(0.0) word(0.0) on(0.0) a(0.0) Palestinian(0.0) state(0.0) will(0.0) come(0.0) from(0.0) the(0.0) PLO(1.0) and(0.0) no(0.0) one(0.0) else(0.0) .(0.0) 
+Well(0.0) that(0.0) assumption(1.0) can(0.0) not(0.0) be(0.0) more(0.0) wrong(0.0) .(0.0) I(0.0) will(0.0) remind(0.0) Mr.(0.0) Arafat(1.0) that(1.0) unilateral(1.0) action(1.0) violates(1.0) the(0.0) basic(1.0) 
+provisions(1.0) of(0.0) the(0.0) Oslo(0.0) peace(0.0) process(0.0) .(0.0) I(0.0) will(0.0) also(0.0) remind(0.0) Mr.(0.0) Arafat(1.0) that(1.0) since(1.0) the(0.0) Oslo(0.0) peace(0.0) agreement(0.0) was(0.0) 
+signed(0.0) in(0.0) 1993(0.0) ,(0.0) the(0.0) U.S.(0.0) has(0.0) provided(0.0) hundreds(0.0) of(0.0) millions(1.0) of(0.0) dollars(1.0) in(0.0) aid(1.0) to(0.0) the(0.0) Palestinian(1.0) Authority(0.0) for(0.0) 
+maintaining(0.0) its(0.0) commitment(1.0) to(0.0) bring(0.0) peace(1.0) to(0.0) the(0.0) Middle(0.0) East(0.0) .(0.0) I(0.0) have(0.0) always(0.0) been(0.0) skeptical(0.0) of(0.0) that(0.0) commitment(1.0) ,(0.0) 
+and(0.0) if(0.0) the(0.0) PLO(1.0) moves(0.0) toward(0.0) unilateral(1.0) declaration(0.0) of(0.0) statehood(1.0) it(0.0) will(0.0) prove(0.0) to(0.0) the(0.0) world(0.0) what(0.0) I(0.0) have(0.0) always(0.0) 
+suspected(0.0) ,(0.0) the(0.0) PLO(1.0) is(0.0) committed(0.0) to(0.0) rhetoric(1.0) ,(0.0) not(0.0) peace(1.0) .(0.0) Mr.(0.0) Arafat(1.0) ,(0.0) the(0.0) U.S.(0.0) Congress(0.0) is(0.0) putting(0.0) 
+you(0.0) on(0.0) notice(0.0) ,(0.0) declare(0.0) statehood(1.0) on(0.0) May(0.0) 4(0.0) and(0.0) we(0.0) will(0.0) declare(0.0) your(0.0) financial(1.0) support(0.0) from(0.0) the(0.0) U.S.(0.0) null(0.0) 
+and(0.0) void(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+resolution	Salmon	
+
+resolution	resolution	oppose	PLO	unilateral	
+PLO	
+PLO	
+assumption	Arafat	that	unilateral	action	violates	basic	
+provisions	Arafat	that	since	
+millions	dollars	aid	Palestinian	
+commitment	peace	commitment	
+PLO	unilateral	statehood	
+PLO	rhetoric	peace	Arafat	
+statehood	financial	
+
+
+reads % = 0.14754098360655737

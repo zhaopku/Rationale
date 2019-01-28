@@ -1,0 +1,10 @@
+This is from a Republican
+----- below is the original text -----
+The(0.0) gentlewoman(0.0) from(0.0) California(0.0) ,(0.0) does(1.0) she(0.0) have(0.0) a(0.0) plan(1.0) ?(0.0) Excuse(1.0) me(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+does	plan	Excuse	
+
+reads % = 0.21428571428571427

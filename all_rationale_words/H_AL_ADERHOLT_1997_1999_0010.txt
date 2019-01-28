@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) in(0.0) this(0.0) century(1.0) ,(0.0) the(0.0) United(0.0) States(0.0) has(0.0) led(0.0) the(0.0) world(0.0) in(0.0) transforming(1.0) industry(1.0) ,(0.0) communication(0.0) ,(0.0) and(0.0) technology(0.0) 
+.(0.0) We(0.0) have(0.0) found(0.0) cures(1.0) for(0.0) once-fatal(0.0) diseases(0.0) and(0.0) introduced(0.0) freedom(1.0) and(0.0) democracy(1.0) to(0.0) the(0.0) world(0.0) .(0.0) We(0.0) sit(0.0) on(0.0) 
+the(0.0) threshold(0.0) of(0.0) a(0.0) new(0.0) century(1.0) ,(0.0) and(0.0) new(0.0) millennium(1.0) with(0.0) a(0.0) great(0.0) mandate(1.0) :(0.0) laying(0.0) the(0.0) groundwork(1.0) for(0.0) a(0.0) 
+daring(0.0) ,(0.0) new(0.0) world(0.0) .(0.0) On(0.0) the(0.0) brink(1.0) of(0.0) the(0.0) nineteenth(1.0) century(0.0) ,(0.0) our(0.0) Founding(1.0) Fathers(0.0) faced(0.0) a(0.0) similar(0.0) mandate(1.0) 
+.(0.0) One(0.0) whose(0.0) impact(0.0) would(0.0) reach(0.0) beyond(0.0) anything(0.0) they(0.0) could(0.0) have(0.0) imagined(0.0) ,(0.0) and(0.0) one(0.0) which(0.0) we(0.0) live(0.0) each(0.0) day(0.0) 
+.(0.0) They(0.0) gathered(0.0) together(0.0) to(0.0) establish(0.0) a(0.0) form(0.0) of(0.0) government(1.0) that(0.0) no(0.0) other(0.0) nation(1.0) had(0.0) ever(0.0) attempted(0.0) with(0.0) freedoms(1.0) that(0.0) 
+no(0.0) other(0.0) nation(1.0) had(0.0) ever(0.0) even(0.0) dreamed(0.0) of(0.0) :(0.0) freedom(1.0) of(0.0) speech(1.0) ,(0.0) freedom(1.0) of(0.0) assembly(0.0) ,(0.0) freedom(1.0) of(0.0) religion(1.0) 
+.(0.0) The(0.0) work(0.0) of(0.0) these(0.0) men(0.0) was(0.0) truly(0.0) inspired(0.0) .(0.0) The(0.0) wisdom(0.0) in(0.0) the(0.0) words(0.0) of(0.0) the(0.0) Constitution(1.0) serves(0.0) as(0.0) 
+the(0.0) very(0.0) cornerstone(1.0) of(0.0) hope(0.0) and(0.0) liberty(1.0) .(0.0) But(0.0) these(0.0) men(0.0) did(0.0) not(0.0) rashly(0.0) pull(0.0) the(0.0) Constitution(1.0) together(0.0) without(0.0) forethought(0.0) 
+.(0.0) The(0.0) delegates(0.0) of(0.0) the(0.0) Continental(0.0) Congress(0.0) debated(0.0) over(0.0) the(0.0) course(0.0) of(0.0) months(0.0) to(0.0) author(0.0) a(0.0) document(0.0) which(0.0) changed(0.0) the(0.0) 
+course(0.0) of(0.0) history(0.0) for(0.0) all(0.0) people(0.0) .(0.0) It(0.0) was(0.0) during(0.0) this(0.0) debate(1.0) ,(0.0) that(0.0) they(0.0) came(0.0) to(0.0) a(0.0) standstill(0.0) .(0.0) 
+On(0.0) June(0.0) 28(0.0) ,(0.0) 1787(0.0) ,(0.0) 212(0.0) years(0.0) ago(0.0) this(0.0) week(0.0) ,(0.0) the(0.0) delegates(1.0) hit(0.0) a(0.0) stalemate(0.0) over(0.0) many(0.0) issues(0.0) 
+.(0.0) Ben(0.0) Franklin(1.0) saw(0.0) that(0.0) the(0.0) impasse(1.0) could(0.0) not(0.0) be(0.0) reconciled(0.0) by(0.0) any(0.0) human(0.0) means(0.0) :(0.0) ``(0.0) The(0.0) small(0.0) progress(0.0) 
+we(0.0) have(0.0) made(0.0) after(0.0) four(0.0) or(0.0) five(0.0) weeks(0.0) '(0.0) close(0.0) attendance(0.0) and(0.0) continual(0.0) reasonings(0.0) with(0.0) each(0.0) other(0.0) --(0.0) our(0.0) different(0.0) 
+sentiments(0.0) on(0.0) almost(0.0) every(0.0) question(0.0) .(0.0) .(0.0) .(0.0) producing(0.0) as(0.0) many(0.0) noes(1.0) as(0.0) ayes(1.0) --(0.0) is(0.0) ,(0.0) methinks(0.0) ,(0.0) a(0.0) 
+melancholy(0.0) proof(0.0) of(0.0) the(0.0) imperfection(0.0) of(0.0) the(0.0) human(0.0) understanding(0.0) .(0.0) .(0.0) .(0.0) I(0.0) therefore(0.0) beg(0.0) leave(0.0) to(0.0) move(0.0) that(0.0) henceforth(0.0) 
+prayers(0.0) imploring(1.0) the(0.0) assistance(0.0) of(0.0) heaven(0.0) and(0.0) its(0.0) blessings(0.0) on(0.0) our(0.0) deliberations(0.0) .(0.0) .(0.0) .(0.0) ''(0.0) Franklin(1.0) recognized(0.0) that(0.0) the(0.0) 
+future(0.0) of(0.0) the(0.0) Constitution(1.0) ,(0.0) and(0.0) the(0.0) nation(1.0) ,(0.0) depended(1.0) upon(0.0) Divine(0.0) intervention(0.0) .(0.0) In(0.0) the(0.0) faces(1.0) of(0.0) the(0.0) Congressional(1.0) 
+Delegates(1.0) he(0.0) saw(0.0) pride(0.0) ,(0.0) determination(0.0) and(0.0) no(0.0) hope(0.0) of(0.0) compromise(1.0) .(0.0) Franklin(0.0) knew(0.0) that(0.0) the(0.0) only(0.0) way(0.0) the(0.0) Constitution(1.0) 
+could(0.0) be(0.0) agreed(0.0) upon(0.0) was(0.0) to(0.0) call(0.0) the(0.0) delegates(0.0) to(0.0) humility(0.0) and(0.0) prayer(0.0) .(0.0) He(0.0) recognized(0.0) the(0.0) need(0.0) of(0.0) each(0.0) 
+individual(0.0) to(0.0) search(0.0) their(0.0) hearts(0.0) and(0.0) seek(0.0) the(0.0) will(0.0) of(0.0) God(0.0) .(0.0) Franklin(0.0) called(0.0) on(0.0) the(0.0) Members(0.0) of(0.0) the(0.0) Congress(0.0) 
+to(0.0) take(0.0) three(0.0) days(0.0) of(0.0) prayer(0.0) and(0.0) fasting(0.0) .(0.0) At(0.0) the(0.0) end(0.0) of(0.0) these(0.0) three(0.0) days(0.0) ,(0.0) the(0.0) delegates(0.0) humbly(0.0) 
+returned(0.0) ,(0.0) and(0.0) were(0.0) able(0.0) to(0.0) complete(0.0) the(0.0) framework(0.0) of(0.0) the(0.0) Constitution(1.0) which(0.0) is(0.0) the(0.0) basis(0.0) of(0.0) the(0.0) law(1.0) of(0.0) 
+our(0.0) nation(1.0) .(0.0) As(0.0) Americans(1.0) ,(0.0) we(0.0) are(0.0) all(0.0) grateful(0.0) that(0.0) Ben(0.0) Franklin(1.0) recognized(0.0) the(0.0) need(0.0) for(0.0) God(0.0) and(0.0) prayer(0.0) 
+within(0.0) the(0.0) political(1.0) agenda(1.0) .(0.0) Each(0.0) of(0.0) the(0.0) delegates(0.0) had(0.0) a(0.0) strong(0.0) understanding(0.0) of(0.0) right(0.0) and(0.0) wrong(0.0) .(0.0) They(0.0) 
+
+
+----- below are rationale words -----
+
+century	transforming	industry	
+cures	freedom	democracy	
+century	millennium	mandate	groundwork	
+brink	nineteenth	Founding	mandate	
+
+government	nation	freedoms	
+nation	freedom	speech	freedom	freedom	religion	
+Constitution	
+cornerstone	liberty	Constitution	
+
+debate	
+delegates	
+Franklin	impasse	
+
+noes	ayes	
+
+imploring	Franklin	
+Constitution	nation	depended	faces	Congressional	
+Delegates	compromise	Constitution	
+
+
+
+Constitution	law	
+nation	Americans	Franklin	
+political	agenda	
+
+reads % = 0.1

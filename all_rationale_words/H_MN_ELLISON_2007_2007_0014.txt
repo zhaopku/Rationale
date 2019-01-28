@@ -1,0 +1,34 @@
+This is from a Democrat
+----- below is the original text -----
+Well(0.0) ,(0.0) Congressman(1.0) ,(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) you(0.0) for(0.0) that(0.0) question(0.0) .(0.0) It(0.0) is(0.0) an(0.0) excellent(0.0) question(0.0) .(0.0) Labor(1.0) rights(1.0) 
+are(0.0) human(0.0) rights(1.0) .(0.0) I(0.0) think(0.0) it(0.0) is(0.0) important(0.0) to(0.0) know(0.0) that(0.0) Martin(0.0) Luther(1.0) King(0.0) ,(0.0) who(0.0) lost(0.0) his(0.0) life(0.0) 
+in(0.0) Memphis(1.0) ,(0.0) Tennessee(1.0) ,(0.0) April(0.0) 4(0.0) ,(0.0) 1968(0.0) ,(0.0) was(0.0) actually(0.0) helping(0.0) sanitation(1.0) workers(1.0) gain(0.0) their(0.0) rights(1.0) in(0.0) an(0.0) 
+effort(0.0) to(0.0) unionize(1.0) and(0.0) have(0.0) collective(1.0) bargaining(1.0) .(0.0) That(0.0) union(1.0) ,(0.0) which(0.0) was(0.0) mostly(0.0) African(1.0) American(0.0) membership(0.0) ,(0.0) received(0.0) help(0.0) 
+from(0.0) their(0.0) main-stream(1.0) headquarters(0.0) union(1.0) ,(0.0) which(0.0) was(0.0) in(0.0) New(0.0) York(1.0) ,(0.0) but(0.0) got(0.0) a(0.0) lot(0.0) of(0.0) help(0.0) that(0.0) way(0.0) 
+.(0.0) It(0.0) is(0.0) important(0.0) to(0.0) remember(0.0) that(0.0) when(0.0) Martin(0.0) Luther(1.0) King(0.0) lost(0.0) his(0.0) life(0.0) that(0.0) the(0.0) union(1.0) drive(0.0) and(0.0) the(0.0) 
+strike(1.0) did(0.0) not(0.0) end(0.0) .(0.0) It(0.0) continued(0.0) on(0.0) ,(0.0) and(0.0) the(0.0) strike(1.0) was(0.0) successful(0.0) .(0.0) It(0.0) is(0.0) important(0.0) to(0.0) know(0.0) 
+that(0.0) the(0.0) right(0.0) of(0.0) human(1.0) dignity(1.0) ,(0.0) human(0.0) rights(1.0) and(0.0) labor(1.0) rights(1.0) ,(0.0) are(0.0) inextricably(1.0) linked(0.0) together(0.0) .(0.0) One(0.0) of(0.0) 
+the(0.0) first(0.0) things(0.0) that(0.0) my(0.0) father(0.0) and(0.0) mother(0.0) would(0.0) tell(0.0) me(0.0) as(0.0) a(0.0) child(0.0) is(0.0) that(0.0) Woodward(1.0) Avenue(1.0) in(0.0) Detroit(1.0) 
+,(0.0) Michigan(1.0) ,(0.0) is(0.0) a(0.0) place(0.0) where(0.0) Walter(0.0) Reuther(1.0) of(0.0) the(0.0) UAW(1.0) and(0.0) Martin(0.0) Luther(1.0) King(0.0) of(0.0) the(0.0) Southern(0.0) Christian(0.0) 
+Leadership(0.0) Conference(0.0) walked(0.0) down(0.0) the(0.0) street(0.0) arm(0.0) in(0.0) arm(0.0) with(0.0) Reverend(0.0) C.L(1.0) .(0.0) Franklin(0.0) demanding(0.0) labor(1.0) rights(1.0) ,(0.0) human(0.0) rights(1.0) 
+,(0.0) civil(1.0) rights(1.0) .(0.0) It(0.0) is(0.0) all(0.0) one(0.0) thing(0.0) ,(0.0) and(0.0) that(0.0) is(0.0) what(0.0) we(0.0) have(0.0) all(0.0) got(0.0) to(0.0) be(0.0) 
+about(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Congressman	Labor	rights	
+rights	Luther	
+Memphis	Tennessee	sanitation	workers	rights	
+unionize	collective	bargaining	union	African	
+main-stream	union	York	
+Luther	union	
+strike	strike	
+human	dignity	rights	labor	rights	inextricably	
+Woodward	Avenue	Detroit	
+Michigan	Reuther	UAW	Luther	
+C.L	labor	rights	rights	
+civil	rights	
+
+
+reads % = 0.16872427983539096

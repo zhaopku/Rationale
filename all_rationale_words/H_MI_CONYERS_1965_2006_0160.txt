@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) rise(0.0) in(0.0) disagreement(1.0) with(0.0) this(0.0) bill(1.0) ,(0.0) the(0.0) Private(0.0) Property(0.0) Rights(0.0) Implementation(0.0) Act(0.0) ,(0.0) just(0.0) as(0.0) I(0.0) 
+have(0.0) done(0.0) in(0.0) the(0.0) 105th(1.0) and(0.0) 106th(0.0) Congresses(0.0) .(0.0) I(0.0) also(0.0) call(0.0) to(0.0) the(0.0) attention(0.0) of(0.0) the(0.0) Members(0.0) of(0.0) the(0.0) 
+House(0.0) that(0.0) this(0.0) bill(0.0) is(0.0) different(0.0) from(0.0) the(0.0) Kelo(1.0) Supreme(1.0) Court(0.0) decision(0.0) that(0.0) dealt(0.0) with(0.0) eminent(0.0) domain(0.0) ,(0.0) another(0.0) ,(0.0) 
+to(0.0) me(0.0) ,(0.0) unhappy(0.0) decision(1.0) which(0.0) I(0.0) was(0.0) not(0.0) overjoyed(0.0) about(0.0) .(0.0) But(0.0) this(0.0) bill(1.0) does(1.0) little(0.0) more(0.0) than(0.0) single(0.0) 
+out(0.0) developers(0.0) and(0.0) corporations(1.0) for(0.0) a(0.0) special(0.0) fast(0.0) track(0.0) into(0.0) the(0.0) Federal(1.0) court(1.0) .(0.0) In(0.0) November(0.0) of(0.0) last(0.0) year(0.0) ,(0.0) 
+I(0.0) was(0.0) proud(0.0) to(0.0) join(0.0) with(0.0) my(0.0) colleagues(0.0) on(0.0) both(0.0) sides(0.0) of(0.0) the(0.0) aisle(0.0) to(0.0) protect(0.0) property(0.0) owners(0.0) from(0.0) takings(1.0) 
+in(0.0) the(0.0) name(0.0) of(0.0) ``(0.0) economic(1.0) development(0.0) .(0.0) ''(0.0) Such(0.0) takings(1.0) did(0.0) not(0.0) constitute(0.0) public(1.0) uses(0.0) and(0.0) were(0.0) found(0.0) to(0.0) 
+be(0.0) totally(0.0) inconsistent(0.0) with(0.0) the(0.0) fifth(0.0) amendment(1.0) to(0.0) our(0.0) Constitution(1.0) .(0.0) But(0.0) today(0.0) my(0.0) friends(0.0) on(0.0) the(0.0) other(0.0) side(0.0) of(0.0) 
+the(0.0) aisle(0.0) are(0.0) arguing(1.0) that(0.0) the(0.0) bill(1.0) we(0.0) are(0.0) taking(0.0) up(0.0) today(0.0) ,(0.0) 4772(0.0) ,(0.0) is(0.0) another(0.0) effort(0.0) to(0.0) protect(0.0) 
+property(0.0) owners(0.0) .(0.0) They(0.0) say(0.0) the(0.0) bill(1.0) simply(1.0) makes(0.0) it(0.0) easier(0.0) for(0.0) property(0.0) owners(0.0) to(0.0) have(0.0) their(0.0) day(0.0) in(0.0) court(1.0) 
+,(0.0) in(0.0) Federal(1.0) court(1.0) ,(0.0) that(0.0) is(0.0) .(0.0) H.R(0.0) .(0.0) 4772(0.0) will(0.0) permit(0.0) land(0.0) developers(0.0) to(0.0) forum(0.0) shop(0.0) between(0.0) State(0.0) 
+and(0.0) Federal(0.0) courts(1.0) when(0.0) they(0.0) pursue(0.0) regulatory(1.0) takings(1.0) claims(0.0) against(0.0) the(0.0) government(1.0) .(0.0) And(0.0) ,(0.0) unfortunately(0.0) ,(0.0) instead(0.0) of(0.0) advancing(1.0) 
+our(0.0) constitutional(1.0) principles(1.0) ,(0.0) this(0.0) bill(1.0) undermines(1.0) longstanding(1.0) interpretations(1.0) of(0.0) the(0.0) fifth(0.0) amendment(1.0) .(0.0) The(0.0) Supreme(1.0) Court(1.0) has(0.0) ruled(0.0) on(0.0) 
+two(0.0) different(0.0) occasions(0.0) ,(0.0) in(0.0) Williamson(1.0) County(1.0) and(0.0) in(0.0) San(1.0) Remo(0.0) ,(0.0) that(0.0) landowners(1.0) must(0.0) pursue(0.0) remedies(1.0) for(0.0) just(0.0) compensation(1.0) 
+from(0.0) the(0.0) State(0.0) in(0.0) a(0.0) State(0.0) court(0.0) .(0.0) This(0.0) bill(0.0) goes(0.0) directly(0.0) against(0.0) that(0.0) concept(0.0) .(0.0) The(0.0) Court(0.0) has(0.0) confirmed(0.0) 
+that(0.0) a(0.0) Federal(0.0) court(1.0) can(0.0) not(0.0) properly(0.0) consider(0.0) a(0.0) takings(1.0) claim(0.0) unless(0.0) or(0.0) until(0.0) a(0.0) landowner(0.0) has(0.0) been(0.0) denied(0.0) an(0.0) 
+adequate(0.0) remedy(0.0) .(0.0) To(0.0) do(0.0) otherwise(0.0) would(0.0) make(0.0) cases(0.0) unconstitutionally(1.0) ripe(0.0) for(0.0) Federal(1.0) review(1.0) and(0.0) also(0.0) limit(0.0) a(0.0) Federal(1.0) court(0.0) 
+'s(0.0) ability(0.0) to(0.0) abstain(0.0) from(0.0) State(0.0) questions(0.0) .(0.0) Unfortunately(0.0) ,(0.0) that(0.0) is(0.0) exactly(0.0) what(0.0) H.R(0.0) .(0.0) 4772(0.0) will(0.0) do(0.0) .(0.0) 
+It(0.0) will(0.0) allow(0.0) regulatory(1.0) takings(1.0) claims(0.0) into(0.0) Federal(1.0) courts(1.0) prematurely(0.0) .(0.0) With(0.0) the(0.0) threat(1.0) of(0.0) Federal(1.0) litigation(1.0) ,(0.0) States(1.0) and(0.0) 
+localities(1.0) will(0.0) be(0.0) restricted(0.0) in(0.0) their(0.0) land(0.0) use(0.0) decisions(0.0) .(0.0) For(0.0) example(0.0) ,(0.0) it(0.0) will(0.0) be(0.0) harder(0.0) for(0.0) jurisdictions(1.0) to(0.0) 
+protect(0.0) against(0.0) groundwater(1.0) contamination(1.0) or(0.0) waste(1.0) dumps(1.0) or(0.0) adult(0.0) bookstores(1.0) .(0.0) This(0.0) is(0.0) a(0.0) serious(0.0) proposition(0.0) ,(0.0) and(0.0) once(0.0) again(0.0) 
+I(0.0) think(0.0) the(0.0) committee(0.0) is(0.0) moving(0.0) in(0.0) the(0.0) wrong(0.0) direction(0.0) to(0.0) bring(0.0) it(0.0) to(0.0) the(0.0) floor(0.0) at(0.0) this(0.0) time(0.0) .(0.0) 
+Most(0.0) disturbingly(0.0) ,(0.0) this(0.0) bill(1.0) elevates(1.0) the(0.0) rights(1.0) of(0.0) property(1.0) owners(0.0) over(0.0) all(0.0) other(0.0) categories(0.0) of(0.0) persons(0.0) with(0.0) constitutional(1.0) claims(1.0) 
+.(0.0) Are(0.0) the(0.0) rights(1.0) of(0.0) real(1.0) estate(1.0) developers(0.0) more(0.0) important(0.0) than(0.0) the(0.0) rights(1.0) of(0.0) other(0.0) Americans(1.0) ?(0.0) It(0.0) is(0.0) simply(0.0) 
+not(0.0) true(0.0) that(0.0) there(0.0) is(0.0) anything(0.0) special(0.0) or(0.0) unique(0.0) about(0.0) real(0.0) property(0.0) takings(0.0) that(0.0) warrants(0.0) special(0.0) protections(1.0) for(0.0) developers(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	disagreement	bill	
+105th	
+Kelo	Supreme	
+decision	bill	does	
+corporations	Federal	court	
+takings	
+economic	takings	public	
+amendment	Constitution	
+arguing	bill	
+bill	simply	court	
+Federal	court	
+courts	regulatory	takings	government	advancing	
+constitutional	principles	bill	undermines	longstanding	interpretations	amendment	Supreme	Court	
+Williamson	County	San	landowners	remedies	compensation	
+
+court	takings	
+unconstitutionally	Federal	review	Federal	
+
+regulatory	takings	Federal	courts	threat	Federal	litigation	States	
+localities	jurisdictions	
+groundwater	contamination	waste	dumps	bookstores	
+
+bill	elevates	rights	property	constitutional	claims	
+rights	real	estate	rights	Americans	
+protections	
+
+reads % = 0.156

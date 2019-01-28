@@ -1,0 +1,38 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) time(0.0) to(0.0) me(0.0) .(0.0) It(0.0) seems(0.0) to(0.0) me(0.0) that(0.0) here(0.0) we(0.0) 
+are(0.0) once(0.0) again(0.0) ,(0.0) the(0.0) same(0.0) old(0.0) wine(0.0) with(0.0) a(0.0) new(0.0) bottle(0.0) ;(0.0) the(0.0) same(0.0) lemon(0.0) ,(0.0) just(0.0) a(0.0) new(0.0) 
+twist(0.0) ;(0.0) the(0.0) same(0.0) target(0.0) ,(0.0) the(0.0) poor(0.0) ,(0.0) a(0.0) new(0.0) weapon(0.0) :(0.0) Take(0.0) away(0.0) not(0.0) just(0.0) legal(1.0) representation(1.0) ,(0.0) 
+but(0.0) take(0.0) away(0.0) hope(0.0) ,(0.0) take(0.0) away(0.0) faith(1.0) ,(0.0) take(0.0) away(0.0) belief(0.0) in(0.0) a(0.0) system(0.0) .(0.0) Take(0.0) away(0.0) the(0.0) idea(0.0) 
+that(0.0) you(0.0) ,(0.0) too(0.0) ,(0.0) can(0.0) receive(0.0) justice(1.0) ,(0.0) notwithstanding(1.0) the(0.0) size(0.0) of(0.0) your(0.0) wallet(0.0) or(0.0) your(0.0) pocketbook(1.0) or(0.0) your(0.0) 
+purse(0.0) .(0.0) There(0.0) is(0.0) a(0.0) legal(1.0) assistance(0.0) office(0.0) down(0.0) the(0.0) hall(0.0) from(0.0) my(0.0) district(0.0) office(0.0) ,(0.0) and(0.0) I(0.0) see(0.0) people(0.0) 
+go(0.0) in(0.0) with(0.0) their(0.0) heads(0.0) down(0.0) ,(0.0) wondering(0.0) what(0.0) is(0.0) going(0.0) to(0.0) happen(0.0) .(0.0) But(0.0) then(0.0) I(0.0) see(0.0) them(0.0) turn(0.0) 
+around(0.0) and(0.0) leave(0.0) ,(0.0) and(0.0) they(0.0) are(0.0) walking(0.0) differently(0.0) .(0.0) They(0.0) now(0.0) have(0.0) hope(0.0) .(0.0) They(0.0) have(0.0) spoken(0.0) with(0.0) an(0.0) 
+attorney(1.0) .(0.0) They(0.0) have(0.0) spoken(0.0) to(0.0) someone(0.0) who(0.0) seemed(0.0) to(0.0) understand(0.0) their(0.0) plight(1.0) ,(0.0) to(0.0) know(0.0) what(0.0) they(0.0) are(0.0) going(0.0) 
+through(0.0) ,(0.0) to(0.0) know(0.0) what(0.0) it(0.0) is(0.0) all(0.0) about(0.0) .(0.0) I(0.0) have(0.0) seen(0.0) people(0.0) in(0.0) Housing(1.0) Court(0.0) ,(0.0) no(0.0) lawyer(1.0) 
+,(0.0) no(0.0) attorney(1.0) ,(0.0) wondering(0.0) what(0.0) is(0.0) going(0.0) to(0.0) happen(0.0) .(0.0) I(0.0) have(0.0) seen(0.0) them(0.0) in(0.0) Juvenile(1.0) Court(0.0) .(0.0) No(0.0) 
+attorney(0.0) ,(0.0) no(0.0) lawyer(1.0) ,(0.0) not(0.0) knowing(0.0) .(0.0) I(0.0) say(0.0) to(0.0) my(0.0) colleagues(0.0) today(0.0) that(0.0) we(0.0) have(0.0) an(0.0) opportunity(0.0) to(0.0) 
+reverse(0.0) a(0.0) trend(0.0) .(0.0) Rather(0.0) than(0.0) attack(0.0) the(0.0) poor(1.0) ,(0.0) let(0.0) us(0.0) give(0.0) aid(1.0) and(0.0) comfort(0.0) to(0.0) the(0.0) development(0.0) of(0.0) 
+our(0.0) judicial(1.0) system(0.0) by(0.0) helping(0.0) everybody(0.0) in(0.0) this(0.0) country(1.0) know(0.0) that(0.0) they(0.0) ,(0.0) too(0.0) ,(0.0) can(0.0) receive(0.0) justice(1.0) .(0.0) Let(0.0) 
+us(0.0) vote(1.0) in(0.0) favor(1.0) of(0.0) the(0.0) amendment(1.0) and(0.0) extend(0.0) justice(1.0) to(0.0) all(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+legal	representation	
+faith	
+justice	notwithstanding	pocketbook	
+legal	
+
+
+attorney	plight	
+Housing	lawyer	
+attorney	Juvenile	
+lawyer	
+poor	aid	
+judicial	country	justice	
+vote	favor	amendment	justice	
+
+reads % = 0.0782312925170068

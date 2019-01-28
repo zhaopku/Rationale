@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Chairman(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) strike(1.0) the(0.0) requisite(0.0) number(0.0) of(0.0) words(0.0) .(0.0) ((0.0) Mr.(0.0) FARR(1.0) of(0.0) California(0.0) asked(0.0) and(0.0) was(0.0) 
+given(0.0) permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) )(0.0) Madam(0.0) Chairman(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) strong(0.0) support(0.0) of(0.0) 
+the(0.0) Lantos(1.0) amendment(1.0) and(0.0) the(0.0) underlying(0.0) bill(1.0) ,(0.0) the(0.0) Afghanistan(1.0) Freedom(0.0) Support(0.0) Act(0.0) .(0.0) The(0.0) Afghanistan(1.0) Freedom(0.0) Support(0.0) Act(0.0) makes(0.0) 
+good(0.0) on(0.0) America(1.0) 's(0.0) promise(0.0) not(0.0) to(0.0) abandon(1.0) Afghanistan(1.0) .(0.0) Our(0.0) commitment(1.0) to(0.0) Afghanistan(1.0) will(0.0) be(0.0) a(0.0) testament(0.0) to(0.0) America(1.0) 
+'s(0.0) commitment(1.0) to(0.0) its(0.0) allies(1.0) in(0.0) the(0.0) war(1.0) on(0.0) terror(1.0) .(0.0) The(0.0) most(0.0) important(0.0) commitment(1.0) that(0.0) the(0.0) United(0.0) States(0.0) can(0.0) 
+make(0.0) ,(0.0) however(0.0) ,(0.0) is(0.0) to(0.0) support(0.0) the(0.0) security(0.0) of(0.0) our(0.0) Afghan(1.0) allies(0.0) and(0.0) friends(0.0) .(0.0) Without(0.0) security(0.0) ,(0.0) there(0.0) 
+can(0.0) be(0.0) no(0.0) infrastructure(0.0) rebuilding(1.0) ,(0.0) no(0.0) eradication(1.0) of(0.0) narcotics(1.0) cultivation(1.0) ,(0.0) no(0.0) economic(1.0) revitalization(1.0) ,(0.0) no(0.0) improved(0.0) education(1.0) and(0.0) 
+health(1.0) care(1.0) .(0.0) None(0.0) of(0.0) our(0.0) well-intentioned(1.0) programs(1.0) ,(0.0) which(0.0) ultimately(1.0) will(0.0) be(0.0) assumed(0.0) by(0.0) the(0.0) Afghans(1.0) themselves(0.0) ,(0.0) will(0.0) 
+find(0.0) any(0.0) success(0.0) without(0.0) adequate(0.0) security(0.0) measures(0.0) .(0.0) Security(0.0) is(0.0) most(0.0) certainly(0.0) not(0.0) a(0.0) partisan(0.0) issue(0.0) .(0.0) Here(0.0) we(0.0) all(0.0) 
+agree(0.0) that(0.0) security(0.0) is(0.0) fundamental(1.0) to(0.0) prosperity(1.0) .(0.0) I(0.0) am(0.0) sure(0.0) then(0.0) that(0.0) many(0.0) of(0.0) my(0.0) colleagues(0.0) shared(0.0) my(0.0) dismay(0.0) 
+when(0.0) President(0.0) Bush(1.0) announced(0.0) that(0.0) the(0.0) U.S.(0.0) would(0.0) not(0.0) support(0.0) an(0.0) extension(0.0) of(0.0) Internal(0.0) Security(0.0) Assistance(0.0) Force(0.0) ,(0.0) the(0.0) ISAF(0.0) 
+,(0.0) to(0.0) other(0.0) major(0.0) cities(0.0) in(0.0) Afghanistan(1.0) besides(0.0) Kabul(0.0) .(0.0) It(0.0) contradicted(0.0) the(0.0) President(1.0) 's(0.0) announcement(0.0) that(0.0) he(0.0) would(0.0) like(0.0) 
+to(0.0) see(0.0) the(0.0) Peace(0.0) Corps(0.0) '(0.0) Crisis(0.0) Corps(0.0) and(0.0) eventually(0.0) the(0.0) Peace(0.0) Corps(0.0) volunteers(0.0) back(0.0) in(0.0) Afghanistan(0.0) as(0.0) soon(0.0) as(0.0) 
+possible(0.0) .(0.0) Everybody(0.0) in(0.0) this(0.0) body(0.0) knows(0.0) that(0.0) I(0.0) am(0.0) one(0.0) of(0.0) the(0.0) strongest(0.0) supporters(0.0) of(0.0) the(0.0) Peace(1.0) Corps(0.0) ,(0.0) 
+having(0.0) served(0.0) as(0.0) a(0.0) volunteer(0.0) in(0.0) Colombia(1.0) in(0.0) the(0.0) 1960s(1.0) .(0.0) I(0.0) advocated(1.0) strongly(0.0) for(0.0) expansion(1.0) of(0.0) the(0.0) Peace(0.0) Corps(0.0) 
+.(0.0) I(0.0) was(0.0) the(0.0) loudest(1.0) to(0.0) cheer(0.0) when(0.0) the(0.0) President(1.0) boldly(0.0) committed(0.0) himself(0.0) to(0.0) double(0.0) the(0.0) number(0.0) of(0.0) Peace(1.0) Corps(0.0) 
+volunteers(0.0) by(0.0) the(0.0) year(0.0) 2007(0.0) .(0.0) I(0.0) am(0.0) also(0.0) supportive(0.0) of(0.0) the(0.0) President(1.0) 's(0.0) intention(0.0) to(0.0) call(0.0) upon(0.0) the(0.0) Peace(0.0) 
+Corps(0.0) to(0.0) help(0.0) rebuild(1.0) and(0.0) revitalize(1.0) Afghanistan(1.0) .(0.0) As(0.0) their(0.0) Peace(0.0) Corps(0.0) brothers(0.0) and(0.0) sisters(0.0) went(0.0) before(0.0) them(0.0) ,(0.0) the(0.0) 
+new(0.0) volunteers(0.0) will(0.0) bring(0.0) the(0.0) great(0.0) American(0.0) gifts(0.0) of(0.0) optimism(1.0) and(0.0) enthusiasm(0.0) to(0.0) their(0.0) important(0.0) work(0.0) in(0.0) the(0.0) Afghanistan(1.0) villages(0.0) 
+.(0.0) Nonetheless(0.0) ,(0.0) we(0.0) can(0.0) not(0.0) expect(0.0) Peace(1.0) Corps(0.0) volunteers(0.0) ,(0.0) even(0.0) the(0.0) Crisis(1.0) Corps(0.0) volunteers(0.0) ,(0.0) to(0.0) operate(0.0) in(0.0) 
+a(0.0) climate(1.0) of(0.0) insecurity(1.0) that(0.0) now(0.0) reigns(0.0) in(0.0) Afghanistan(1.0) .(0.0) I(0.0) would(0.0) like(0.0) to(0.0) bring(0.0) our(0.0) attention(0.0) to(0.0) an(0.0) editorial(1.0) 
+from(0.0) The(0.0) Washington(1.0) Post(1.0) from(0.0) April(0.0) 27(0.0) of(0.0) this(0.0) year(0.0) .(0.0) I(0.0) will(0.0) submit(0.0) this(0.0) document(0.0) for(0.0) the(0.0) Record(0.0) .(0.0) 
+The(0.0) article(0.0) was(0.0) written(0.0) by(0.0) Anna(0.0) Seleny(0.0) ,(0.0) a(0.0) political(1.0) science(0.0) teacher(0.0) at(0.0) Princeton(0.0) ,(0.0) but(0.0) also(0.0) the(0.0) last(0.0) Peace(0.0) 
+Corps(0.0) volunteer(0.0) to(0.0) be(0.0) evacuated(0.0) from(0.0) Afghanistan(0.0) in(0.0) 1987(0.0) before(0.0) the(0.0) Soviet(0.0) invasion(0.0) .(0.0) Miss(0.0) Seleny(0.0) believes(0.0) ,(0.0) as(0.0) I(0.0) 
+do(0.0) ,(0.0) that(0.0) the(0.0) Peace(1.0) Corps(0.0) can(0.0) play(0.0) an(0.0) important(0.0) role(0.0) in(0.0) restoring(1.0) peace(0.0) and(0.0) prosperity(1.0) to(0.0) Afghanistan(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+strike	FARR	
+
+Lantos	amendment	bill	Afghanistan	Afghanistan	
+America	abandon	Afghanistan	commitment	Afghanistan	America	
+commitment	allies	war	terror	commitment	
+Afghan	
+rebuilding	eradication	narcotics	cultivation	economic	revitalization	education	
+health	care	well-intentioned	programs	ultimately	Afghans	
+
+fundamental	prosperity	
+Bush	
+Afghanistan	President	
+
+Peace	
+Colombia	1960s	advocated	expansion	
+loudest	President	Peace	
+President	
+rebuild	revitalize	Afghanistan	
+optimism	Afghanistan	
+Peace	Crisis	
+climate	insecurity	Afghanistan	editorial	
+Washington	Post	
+political	
+
+Peace	restoring	prosperity	Afghanistan	
+
+reads % = 0.128

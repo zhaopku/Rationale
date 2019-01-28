@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+Yes(0.0) ,(0.0) there(0.0) is(0.0) some(0.0) problem(0.0) with(0.0) patent(1.0) trolls(0.0) ,(0.0) tens(1.0) of(0.0) billions(1.0) of(0.0) dollars(1.0) a(0.0) year(0.0) in(0.0) problems(0.0) with(0.0) patent(1.0) 
+trolls(0.0) .(0.0) Fifty-five(0.0) percent(0.0) of(0.0) all(0.0) the(0.0) demand(0.0) letters(0.0) that(0.0) are(0.0) sent(0.0) by(0.0) these(0.0) patent(1.0) trolls(0.0) go(0.0) to(0.0) small(0.0) businesses(1.0) 
+.(0.0) There(0.0) are(0.0) serious(0.0) problems(0.0) that(0.0) require(0.0) real(0.0) patent(1.0) litigation(1.0) reform(1.0) ,(0.0) and(0.0) I(0.0) am(0.0) proud(0.0) that(0.0) this(0.0) bipartisan(1.0) bill(1.0) 
+,(1.0) supported(1.0) by(1.0) many(1.0) Members(0.0) on(0.0) both(0.0) sides(0.0) of(0.0) the(0.0) aisle(0.0) ,(0.0) supported(0.0) by(0.0) the(0.0) administration(1.0) ,(0.0) and(0.0) supported(0.0) by(0.0) 
+hundreds(0.0) of(0.0) organizations(1.0) that(0.0) are(0.0) listed(0.0) right(0.0) here(0.0) --(0.0) come(0.0) by(0.0) the(0.0) desk(0.0) and(0.0) you(0.0) can(0.0) see(0.0) the(0.0) huge(0.0) list(0.0) 
+of(0.0) organizations(1.0) ,(0.0) conservatives(1.0) ,(1.0) all(0.0) across(0.0) the(0.0) political(1.0) spectrum(1.0) support(0.0) this(0.0) legislation(1.0) .(0.0) American(0.0) inventors(1.0) have(0.0) led(0.0) the(0.0) world(0.0) 
+for(0.0) centuries(0.0) .(0.0) This(0.0) bill(1.0) holds(0.0) true(0.0) to(0.0) the(0.0) Constitution(1.0) ,(0.0) our(0.0) Founders(1.0) ,(0.0) and(0.0) our(0.0) promise(1.0) to(0.0) future(0.0) generations(0.0) 
+that(0.0) America(1.0) will(0.0) continue(0.0) to(0.0) lead(0.0) the(0.0) world(0.0) as(0.0) a(0.0) fountain(0.0) for(0.0) discovery(0.0) ,(0.0) innovation(1.0) ,(0.0) economic(1.0) growth(1.0) ,(0.0) and(0.0) 
+job(0.0) creation(0.0) .(0.0) I(0.0) stand(0.0) in(0.0) strong(0.0) opposition(1.0) to(0.0) this(0.0) substitute(1.0) amendment(1.0) ,(0.0) and(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) vote(1.0) 
+for(0.0) the(0.0) underlying(0.0) bill(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) The(0.0) Acting(0.0) CHAIR(0.0) 
+.(0.0) The(0.0) question(0.0) is(0.0) on(0.0) the(0.0) amendment(1.0) offered(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) Michigan(1.0) ((0.0) Mr.(0.0) Conyers(1.0) )(0.0) .(0.0) The(0.0) question(0.0) 
+was(0.0) taken(0.0) ;(0.0) and(0.0) the(0.0) Acting(0.0) Chair(0.0) announced(0.0) that(0.0) the(0.0) noes(1.0) appeared(0.0) to(0.0) have(0.0) it(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+patent	tens	billions	dollars	patent	
+patent	businesses	
+patent	litigation	reform	bipartisan	bill	
+,	supported	by	many	administration	
+organizations	
+organizations	conservatives	,	political	spectrum	legislation	inventors	
+bill	Constitution	Founders	promise	
+America	innovation	economic	growth	
+opposition	substitute	amendment	vote	
+bill	Chairman	
+amendment	Michigan	Conyers	
+noes	
+
+reads % = 0.18143459915611815

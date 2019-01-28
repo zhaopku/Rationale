@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) appreciate(1.0) his(0.0) service(0.0) .(0.0) I(0.0) hope(0.0) everybody(0.0) takes(1.0) those(0.0) words(0.0) to(0.0) heart(0.0) .(0.0) I(0.0) yield(0.0) 3(0.0) minutes(1.0) to(0.0) the(0.0) gentleman(0.0) 
+from(0.0) Oregon(1.0) ((0.0) Mr.(0.0) Wu(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+appreciate	takes	minutes	
+Oregon	Wu	
+
+reads % = 0.17857142857142858

@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) many(0.0) people(0.0) who(0.0) follow(0.0) this(0.0) bill(1.0) have(1.0) heard(0.0) me(0.0) say(0.0) this(0.0) over(0.0) and(0.0) over(0.0) again(0.0) ,(0.0) but(0.0) I(0.0) want(0.0) 
+to(0.0) make(0.0) the(0.0) point(0.0) another(0.0) time(0.0) .(0.0) Every(0.0) person(0.0) in(0.0) America(1.0) is(0.0) familiar(0.0) with(0.0) President(0.0) Kennedy(1.0) 's(0.0) inaugural(0.0) address(0.0) when(0.0) 
+he(0.0) said(0.0) ,(0.0) ``(0.0) My(0.0) fellow(0.0) Americans(1.0) ,(0.0) ask(0.0) not(0.0) what(0.0) your(0.0) country(1.0) can(0.0) do(0.0) for(0.0) you(0.0) but(0.0) what(0.0) you(0.0) 
+can(0.0) do(0.0) for(0.0) your(0.0) country(1.0) .(0.0) ''(0.0) The(0.0) very(0.0) next(0.0) line(0.0) in(0.0) that(0.0) speech(0.0) ,(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) says(0.0) ,(0.0) 
+``(0.0) To(0.0) the(0.0) citizens(1.0) of(0.0) the(0.0) world(0.0) ,(0.0) ask(0.0) not(0.0) what(0.0) America(1.0) can(0.0) do(0.0) for(0.0) you(0.0) but(0.0) what(0.0) we(0.0) can(0.0) 
+do(0.0) working(0.0) together(0.0) for(0.0) the(0.0) freedom(1.0) of(0.0) mankind(1.0) .(0.0) ''(0.0) That(0.0) is(0.0) a(0.0) responsibility(0.0) that(0.0) we(0.0) have(0.0) in(0.0) this(0.0) bill(1.0) 
+.(0.0) That(0.0) is(0.0) why(0.0) we(0.0) are(0.0) disappointed(0.0) the(0.0) funding(1.0) level(0.0) is(0.0) so(0.0) low(0.0) ,(0.0) but(0.0) we(0.0) want(0.0) to(0.0) move(0.0) it(0.0) 
+forward(0.0) in(0.0) the(0.0) hope(0.0) that(0.0) the(0.0) funding(1.0) level(0.0) will(0.0) be(0.0) raised(0.0) so(0.0) that(0.0) we(0.0) can(0.0) work(0.0) together(0.0) with(0.0) the(0.0) people(0.0) 
+of(0.0) the(0.0) world(0.0) for(0.0) the(0.0) freedom(1.0) of(0.0) mankind(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+bill	have	
+America	Kennedy	
+Americans	country	
+country	Chairman	
+citizens	America	
+freedom	mankind	bill	
+funding	
+funding	
+freedom	mankind	
+
+reads % = 0.1

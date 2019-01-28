@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) what(0.0) is(0.0) the(0.0) Republican(1.0) agenda(1.0) ?(1.0) The(1.0) Republican(1.0) agenda(1.0) is(1.0) the(1.0) best(1.0) agenda(1.0) for(1.0) all(1.0) Americans(1.0) .(1.0) B(1.0) 
+is(1.0) for(1.0) bolstering(1.0) our(1.0) national(1.0) security(1.0) ,(1.0) E(1.0) is(1.0) for(1.0) education(1.0) excellence(1.0) ,(1.0) S(1.0) is(0.0) for(1.0) strengthening(1.0) retirement(1.0) security(0.0) ,(0.0) 
+and(0.0) T(0.0) is(0.0) for(0.0) tax(1.0) relief(1.0) for(0.0) working(0.0) Americans(1.0) .(0.0) Republicans(0.0) have(0.0) the(0.0) BEST(0.0) agenda(1.0) .(0.0) It(0.0) is(0.0) a(0.0) positive(0.0) 
+,(0.0) forward-looking(0.0) agenda(1.0) that(0.0) recognizes(1.0) that(0.0) our(0.0) military(1.0) needs(0.0) must(0.0) be(0.0) given(0.0) a(0.0) higher(0.0) priority(1.0) in(0.0) a(0.0) dangerous(0.0) world(0.0) ,(0.0) 
+that(0.0) our(0.0) schools(1.0) need(0.0) to(0.0) be(0.0) improved(0.0) if(0.0) our(0.0) kids(0.0) are(0.0) going(0.0) to(0.0) enjoy(0.0) a(0.0) bright(0.0) future(0.0) ,(0.0) that(0.0) our(0.0) 
+seniors(1.0) need(0.0) to(0.0) be(0.0) protected(0.0) against(0.0) a(0.0) looming(1.0) social(0.0) security(0.0) and(0.0) Medicare(1.0) crisis(1.0) ,(0.0) and(0.0) that(0.0) Americans(1.0) who(0.0) pay(0.0) the(0.0) 
+taxes(1.0) should(0.0) be(0.0) given(0.0) tax(1.0) relief(1.0) ,(0.0) not(0.0) more(0.0) rhetoric(1.0) about(0.0) why(0.0) Washington(1.0) needs(0.0) more(0.0) money(1.0) .(0.0) Bolstering(1.0) national(1.0) security(0.0) 
+,(0.0) education(1.0) excellence(0.0) ,(0.0) strengthening(1.0) retirement(1.0) security(0.0) ,(0.0) tax(1.0) relief(1.0) for(0.0) working(0.0) Americans(1.0) ,(0.0) Republicans(0.0) have(0.0) the(0.0) BEST(1.0) agenda(1.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+Republican	agenda	?	The	Republican	agenda	is	the	best	agenda	for	all	Americans	.	B	
+is	for	bolstering	our	national	security	,	E	is	for	education	excellence	,	S	for	strengthening	retirement	
+tax	relief	Americans	agenda	
+agenda	recognizes	military	priority	
+schools	
+seniors	looming	Medicare	crisis	Americans	
+taxes	tax	relief	rhetoric	Washington	money	Bolstering	national	
+education	strengthening	retirement	tax	relief	Americans	BEST	agenda	
+
+
+reads % = 0.38509316770186336

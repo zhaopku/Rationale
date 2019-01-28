@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) would(0.0) just(0.0) ask(0.0) the(0.0) gentleman(0.0) ,(0.0) as(0.0) I(0.0) understand(0.0) it(0.0) ,(0.0) we(0.0) have(0.0) stricken(0.0) the(0.0) stipend(1.0) provision(0.0) ,(0.0) 
+but(0.0) any(0.0) existing(0.0) provisions(1.0) in(0.0) law(1.0) that(0.0) would(0.0) allow(0.0) a(0.0) government(1.0) contracting(1.0) agent(0.0) ,(0.0) of(0.0) course(0.0) ,(0.0) would(0.0) remain(0.0) in(0.0) 
+effect(0.0) ;(0.0) is(0.0) that(0.0) correct(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+stipend	
+provisions	law	government	contracting	
+
+
+reads % = 0.10638297872340426

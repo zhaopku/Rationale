@@ -1,0 +1,36 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) rise(0.0) in(0.0) opposition(1.0) to(0.0) this(0.0) amendment(1.0) and(0.0) in(0.0) support(1.0) of(0.0) the(0.0) committee(0.0) 's(0.0) provisions(0.0) dealing(0.0) with(0.0) the(0.0) combustion(0.0) 
+strategy(0.0) .(0.0) Let(0.0) me(0.0) briefly(0.0) outline(0.0) three(0.0) reasons(0.0) why(0.0) .(0.0) First(0.0) ,(0.0) the(0.0) committee(0.0) 's(0.0) language(0.0) reaffirms(1.0) the(0.0) original(0.0) congressional(1.0) 
+intent(1.0) .(0.0) When(0.0) Congress(0.0) passed(0.0) the(0.0) 1990(0.0) Clean(0.0) Air(0.0) Act(0.0) which(0.0) directed(0.0) EPA(1.0) to(0.0) establish(0.0) a(0.0) combustion(0.0) strategy(0.0) and(0.0) maximum(0.0) 
+achievable(0.0) control(0.0) technology(0.0) ,(0.0) we(0.0) did(0.0) not(0.0) intend(0.0) for(0.0) EPA(1.0) to(0.0) circumvent(1.0) the(0.0) legal(1.0) and(0.0) procedural(0.0) safeguards(1.0) the(0.0) law(1.0) requires(0.0) 
+.(0.0) Currently(0.0) ,(0.0) EPA(1.0) is(0.0) operating(0.0) under(0.0) an(0.0) open(0.0) process(0.0) which(0.0) allows(0.0) all(0.0) parties(0.0) to(0.0) comment(0.0) on(0.0) these(0.0) proposed(1.0) rules(1.0) 
+.(0.0) This(0.0) is(0.0) ``(0.0) Big(0.0) Brother(0.0) ''(0.0) government(1.0) at(0.0) its(0.0) worst(0.0) .(0.0) Second(0.0) ,(0.0) EPA(1.0) has(0.0) been(0.0) zealous(0.0) at(0.0) best(0.0) 
+in(0.0) setting(0.0) standards(0.0) for(0.0) hazardous(1.0) waste(1.0) combustion(1.0) that(0.0) combine(0.0) the(0.0) authority(0.0) of(0.0) two(0.0) dissimilar(0.0) laws(0.0) ,(0.0) one(0.0) dealing(0.0) with(0.0) clean(0.0) 
+air(0.0) and(0.0) the(0.0) other(0.0) with(0.0) recycling(1.0) .(0.0) The(0.0) House(0.0) Commerce(0.0) Committee(0.0) is(0.0) slated(0.0) to(0.0) work(0.0) on(0.0) both(0.0) bills(0.0) this(0.0) Congress(0.0) 
+.(0.0) The(0.0) power(0.0) to(0.0) draft(0.0) the(0.0) executive(0.0) branch(0.0) 's(0.0) enforcement(0.0) options(0.0) and(0.0) procedures(0.0) rests(0.0) ,(0.0) constitutionally(1.0) ,(0.0) with(0.0) the(0.0) Congress(0.0) 
+,(0.0) not(0.0) with(0.0) the(0.0) EPA(1.0) by(0.0) default(0.0) .(0.0) Finally(0.0) ,(0.0) this(0.0) Congress(1.0) is(0.0) ,(0.0) if(0.0) nothing(0.0) else(0.0) ,(0.0) skeptical(0.0) of(0.0) 
+further(0.0) regulation(1.0) .(0.0) The(0.0) Wilson(1.0) amendment(1.0) reinforces(1.0) EPA(1.0) 's(0.0) ability(0.0) to(0.0) regulate(1.0) ,(0.0) obfuscate(0.0) ,(0.0) and(0.0) eventually(0.0) strangulate(1.0) at(0.0) will(0.0) 
+.(0.0) We(0.0) should(0.0) not(0.0) allow(0.0) EPA(1.0) ,(0.0) through(0.0) the(0.0) combustion(1.0) strategy(0.0) ,(0.0) to(0.0) go(0.0) above(0.0) and(0.0) beyond(0.0) its(0.0) regulatory(1.0) parameters(0.0) 
+.(0.0) Congress(0.0) must(0.0) do(0.0) more(0.0) than(0.0) provide(0.0) a(0.0) Band-Aid(0.0) fix(0.0) to(0.0) an(0.0) agency(0.0) that(0.0) requires(0.0) major(0.0) surgery(0.0) .(0.0) I(0.0) urge(0.0) 
+my(0.0) colleagues(0.0) to(0.0) oppose(1.0) this(0.0) amendment(1.0) .(0.0) recorded(0.0) vote(1.0) 
+
+
+----- below are rationale words -----
+
+opposition	amendment	support	
+reaffirms	congressional	
+intent	EPA	
+EPA	circumvent	legal	safeguards	law	
+EPA	proposed	rules	
+government	EPA	
+hazardous	waste	combustion	
+recycling	
+constitutionally	
+EPA	Congress	
+regulation	Wilson	amendment	reinforces	EPA	regulate	strangulate	
+EPA	combustion	regulatory	
+
+oppose	amendment	vote	
+
+reads % = 0.13703703703703704

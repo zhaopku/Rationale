@@ -1,0 +1,56 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) agree(0.0) to(0.0) the(0.0) resolution(1.0) ((0.0) H.(0.0) Res(1.0) .(0.0) 121(0.0) )(0.0) expressing(0.0) the(0.0) 
+sense(0.0) of(0.0) the(0.0) House(0.0) of(0.0) Representatives(0.0) regarding(1.0) the(0.0) March(0.0) 30(0.0) ,(0.0) 1997(0.0) ,(0.0) terrorist(0.0) grenade(0.0) attack(0.0) in(0.0) Cambodia(0.0) .(0.0) The(0.0) 
+Clerk(0.0) read(0.0) as(0.0) follows(0.0) :(0.0) H.(0.0) Res(0.0) .(0.0) 121(0.0) Whereas(0.0) Cambodia(0.0) continues(0.0) to(0.0) recover(0.0) from(0.0) more(0.0) than(0.0) three(0.0) decades(0.0) of(0.0) 
+recent(0.0) warfare(0.0) ,(0.0) including(0.0) the(0.0) genocide(1.0) committed(0.0) by(0.0) the(0.0) Khmer(0.0) Rouge(0.0) from(0.0) 1975(0.0) to(0.0) 1979(0.0) ;(0.0) Whereas(0.0) Cambodia(0.0) was(0.0) the(0.0) 
+beneficiary(0.0) of(0.0) a(0.0) massive(0.0) international(0.0) effort(0.0) to(0.0) ensure(0.0) peace(0.0) ,(0.0) democracy(1.0) ,(0.0) and(0.0) prosperity(1.0) after(0.0) the(0.0) October(0.0) 1991(0.0) Paris(0.0) Peace(0.0) 
+Agreements(0.0) on(0.0) Cambodia(0.0) ;(0.0) Whereas(0.0) more(0.0) than(0.0) 93(0.0) percent(0.0) of(0.0) the(0.0) Cambodians(1.0) eligible(0.0) to(0.0) vote(1.0) in(0.0) the(0.0) 1993(0.0) elections(0.0) in(0.0) 
+Cambodia(1.0) did(0.0) so(0.0) ,(0.0) thereby(0.0) demonstrating(0.0) the(0.0) commitment(1.0) of(0.0) the(0.0) Cambodian(1.0) people(0.0) to(0.0) democracy(1.0) ;(0.0) Whereas(0.0) since(0.0) those(0.0) elections(1.0) ,(0.0) 
+Cambodia(1.0) has(0.0) made(0.0) significant(0.0) economic(1.0) progress(0.0) which(0.0) has(0.0) contributed(0.0) to(0.0) economic(1.0) stability(0.0) in(0.0) Cambodia(1.0) ;(0.0) Whereas(0.0) since(0.0) those(0.0) elections(1.0) ,(0.0) 
+the(0.0) Cambodia(1.0) Armed(0.0) Forces(0.0) have(0.0) significantly(0.0) diminished(1.0) the(0.0) threat(1.0) posed(0.0) by(0.0) the(0.0) Khmer(1.0) Rouge(0.0) to(0.0) safety(0.0) and(0.0) stability(0.0) in(0.0) Cambodia(1.0) 
+;(0.0) Whereas(0.0) other(0.0) circumstances(0.0) in(0.0) Cambodia(1.0) ,(0.0) including(0.0) the(0.0) recent(0.0) unsolved(0.0) murders(1.0) of(0.0) journalists(1.0) and(0.0) political(1.0) party(0.0) activists(1.0) ,(0.0) the(0.0) 
+recent(0.0) unsolved(1.0) attack(1.0) of(0.0) party(1.0) officials(0.0) of(0.0) the(0.0) Buddhist(0.0) Liberal(0.0) Democratic(1.0) in(0.0) 1995(0.0) ,(0.0) and(0.0) the(0.0) quality(0.0) of(0.0) the(0.0) judicial(1.0) 
+system(0.0) --(0.0) described(0.0) in(0.0) a(0.0) 1996(0.0) United(0.0) Nations(0.0) report(0.0) as(0.0) ``(0.0) thoroughly(0.0) corrupt(0.0) ''(0.0) --(0.0) raise(0.0) international(0.0) concern(0.0) for(0.0) the(0.0) 
+state(0.0) of(0.0) democracy(1.0) in(0.0) Cambodia(1.0) ;(0.0) Whereas(0.0) Sam(0.0) Rainsy(1.0) ,(0.0) the(0.0) leader(0.0) of(0.0) the(0.0) Khmer(0.0) Nation(0.0) Party(0.0) ,(0.0) was(0.0) the(0.0) 
+target(0.0) of(0.0) a(0.0) terrorist(0.0) grenade(0.0) attack(0.0) on(0.0) March(0.0) 30(0.0) ,(0.0) 1997(0.0) ,(0.0) during(0.0) a(0.0) demonstration(0.0) outside(0.0) the(0.0) Cambodia(0.0) National(0.0) Assembly(0.0) 
+;(0.0) Whereas(0.0) the(0.0) attack(0.0) killed(0.0) 19(0.0) Cambodians(1.0) and(0.0) wounded(0.0) more(0.0) than(0.0) 100(0.0) men(0.0) ,(0.0) women(0.0) ,(0.0) and(0.0) children(0.0) ;(0.0) and(0.0) 
+Whereas(0.0) among(0.0) those(0.0) injured(0.0) was(0.0) Ron(0.0) Abney(1.0) ,(0.0) a(0.0) United(0.0) States(0.0) citizen(1.0) and(0.0) employee(0.0) of(0.0) the(0.0) International(0.0) Republican(0.0) Institute(1.0) who(1.0) 
+was(0.0) assisting(0.0) in(0.0) the(0.0) advancement(0.0) of(0.0) democracy(1.0) in(0.0) Cambodia(0.0) and(0.0) observing(0.0) the(0.0) demonstration(0.0) :(0.0) Now(0.0) ,(0.0) therefore(0.0) ,(0.0) be(0.0) it(0.0) 
+Resolved(0.0) ,(0.0) That(0.0) the(0.0) House(0.0) of(0.0) Representatives(0.0) --(0.0) ((0.0) 1(0.0) )(0.0) extends(0.0) its(0.0) sincerest(0.0) sympathies(0.0) to(0.0) the(0.0) families(0.0) of(0.0) the(0.0) 
+persons(0.0) killed(0.0) ,(0.0) and(0.0) the(0.0) persons(0.0) wounded(0.0) ,(0.0) in(0.0) the(0.0) March(0.0) 30(0.0) ,(0.0) 1997(0.0) ,(0.0) terrorist(0.0) grenade(0.0) attack(0.0) outside(0.0) the(0.0) 
+Cambodia(0.0) National(0.0) Assembly(0.0) ;(0.0) ((0.0) 2(0.0) )(0.0) condemns(0.0) the(0.0) attack(0.0) as(0.0) an(0.0) act(0.0) of(0.0) terrorism(1.0) detrimental(0.0) to(0.0) peace(0.0) and(0.0) the(0.0) 
+development(0.0) of(0.0) democracy(1.0) in(0.0) Cambodia(1.0) ;(0.0) ((0.0) 3(0.0) )(0.0) calls(0.0) upon(0.0) the(0.0) United(0.0) States(0.0) Government(0.0) to(0.0) offer(0.0) to(0.0) the(0.0) Cambodia(0.0) 
+Government(0.0) all(0.0) appropriate(0.0) assistance(0.0) in(0.0) identifying(0.0) and(0.0) prosecuting(0.0) those(0.0) responsible(0.0) for(0.0) the(0.0) attack(0.0) ;(0.0) ((0.0) 4(0.0) )(0.0) calls(0.0) upon(0.0) the(0.0) 
+Cambodia(0.0) Government(0.0) to(0.0) accept(0.0) such(0.0) assistance(0.0) and(0.0) to(0.0) expeditiously(0.0) identify(0.0) and(0.0) prosecute(0.0) those(0.0) responsible(0.0) for(0.0) the(0.0) attack(0.0) ;(0.0) and(0.0) ((0.0) 
+5(0.0) )(0.0) calls(0.0) upon(0.0) all(0.0) Cambodian(0.0) political(0.0) parties(0.0) to(0.0) renounce(0.0) and(0.0) condemn(1.0) all(0.0) forms(0.0) of(0.0) political(1.0) violence(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+resolution	Res	
+regarding	
+
+genocide	
+democracy	prosperity	
+Cambodians	vote	
+Cambodia	commitment	Cambodian	democracy	elections	
+Cambodia	economic	economic	Cambodia	elections	
+Cambodia	diminished	threat	Khmer	Cambodia	
+Cambodia	murders	journalists	political	activists	
+unsolved	attack	party	Democratic	judicial	
+
+democracy	Cambodia	Rainsy	
+
+Cambodians	
+Abney	citizen	Institute	who	
+democracy	
+
+
+terrorism	
+democracy	Cambodia	
+
+
+condemn	political	violence	
+
+reads % = 0.10020876826722339

@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) the(0.0) Durbin(1.0) amendment(1.0) is(0.0) the(0.0) same(0.0) amendment(1.0) that(0.0) this(0.0) body(0.0) rejected(1.0) last(0.0) year(0.0) out(0.0) of(0.0) hand(0.0) ,(0.0) it(0.0) 
+is(0.0) the(0.0) same(0.0) amendment(1.0) the(0.0) committee(0.0) just(0.0) last(0.0) week(0.0) rejected(1.0) out(0.0) of(0.0) hand(0.0) ,(0.0) and(0.0) it(0.0) is(0.0) the(0.0) same(0.0) amendment(1.0) 
+that(0.0) today(0.0) this(0.0) body(0.0) is(0.0) going(0.0) to(0.0) reject(1.0) again(0.0) out(0.0) of(0.0) hand(0.0) .(0.0) I(0.0) will(0.0) tell(0.0) you(0.0) why(0.0) .(0.0) The(0.0) 
+Durbin(1.0) amendment(1.0) has(0.0) nothing(0.0) to(0.0) do(0.0) with(0.0) smoking(1.0) .(0.0) It(0.0) has(0.0) nothing(0.0) to(0.0) do(0.0) with(0.0) the(0.0) health(1.0) hazards(1.0) of(0.0) smoking(1.0) 
+.(0.0) It(0.0) has(0.0) nothing(0.0) to(0.0) do(0.0) with(0.0) whether(0.0) or(0.0) not(0.0) you(0.0) think(0.0) you(0.0) have(0.0) the(0.0) right(0.0) to(0.0) smoke(0.0) or(0.0) not(0.0) 
+.(0.0) Smoking(0.0) is(0.0) not(0.0) involved(0.0) here(0.0) .(0.0) What(0.0) is(0.0) involved(0.0) here(0.0) is(0.0) singling(1.0) out(0.0) by(0.0) this(0.0) sinister(0.0) amendment(1.0) small(0.0) poor(1.0) 
+farmers(1.0) who(0.0) in(0.0) the(0.0) main(0.0) have(0.0) no(0.0) other(0.0) way(0.0) to(0.0) earn(0.0) a(0.0) living(0.0) for(0.0) their(0.0) family(0.0) .(0.0) This(0.0) amendment(1.0) does(1.0) 
+not(0.0) get(0.0) at(0.0) big(0.0) tobacco(1.0) companies(1.0) .(0.0) I(0.0) will(0.0) say(0.0) that(0.0) again(0.0) .(0.0) This(0.0) amendment(1.0) does(1.0) not(0.0) get(0.0) at(0.0) big(0.0) 
+tobacco(1.0) companies(1.0) as(0.0) has(0.0) been(0.0) stated(0.0) .(0.0) In(0.0) fact(0.0) ,(0.0) it(0.0) plays(0.0) into(0.0) their(0.0) hands(0.0) ,(0.0) because(0.0) it(0.0) would(0.0) cripple(1.0) 
+the(0.0) small(0.0) growers(1.0) in(0.0) this(0.0) country(1.0) and(0.0) favor(1.0) the(0.0) big(0.0) companies(0.0) who(0.0) would(0.0) love(0.0) to(0.0) grow(0.0) the(0.0) tobacco(1.0) in(0.0) this(0.0) 
+country(1.0) and(0.0) more(0.0) importantly(0.0) outside(0.0) this(0.0) country(1.0) and(0.0) ship(0.0) it(0.0) here(0.0) and(0.0) sell(0.0) it(0.0) for(0.0) dirt(0.0) cheap(0.0) prices(1.0) .(0.0) So(0.0) 
+the(0.0) Durbin(1.0) amendment(1.0) ,(0.0) I(0.0) would(0.0) say(0.0) to(0.0) you(0.0) ,(0.0) favors(0.0) big(1.0) tobacco(1.0) companies(1.0) .(0.0) They(0.0) have(0.0) been(0.0) wanting(0.0) this(0.0) 
+a(0.0) long(0.0) time(0.0) ,(0.0) to(0.0) run(0.0) these(0.0) small(0.0) farmers(1.0) out(0.0) of(0.0) the(0.0) business(0.0) .(0.0) Without(0.0) this(0.0) program(1.0) ,(0.0) small(0.0) farmers(1.0) 
+will(0.0) not(0.0) be(0.0) able(0.0) to(0.0) grow(0.0) tobacco(1.0) .(0.0) The(0.0) Congress(0.0) has(0.0) protected(0.0) that(0.0) right(0.0) ever(0.0) since(0.0) we(0.0) have(0.0) been(0.0) here(0.0) 
+almost(0.0) .(0.0) So(0.0) this(0.0) amendment(1.0) plays(1.0) into(0.0) the(0.0) hands(0.0) of(0.0) big(0.0) tobacco(1.0) .(0.0) If(0.0) you(0.0) want(0.0) to(0.0) see(0.0) cheap(0.0) cigarettes(0.0) 
+,(0.0) you(0.0) bring(0.0) in(0.0) this(0.0) imported(0.0) tobacco(1.0) ,(0.0) grown(0.0) under(0.0) no(0.0) telling(0.0) what(0.0) kind(0.0) of(0.0) conditions(0.0) ,(0.0) pesticides(1.0) you(0.0) would(0.0) 
+not(0.0) dare(0.0) let(0.0) on(0.0) crops(1.0) in(0.0) this(0.0) country(1.0) ,(0.0) you(0.0) are(0.0) going(0.0) to(0.0) bring(0.0) in(0.0) poisoned(1.0) tobacco(1.0) and(0.0) you(0.0) are(0.0) 
+going(0.0) to(0.0) bring(0.0) in(0.0) tobacco(1.0) that(0.0) is(0.0) dirt(0.0) cheap(1.0) and(0.0) you(0.0) are(0.0) going(0.0) to(0.0) drive(0.0) down(0.0) the(0.0) price(0.0) of(0.0) cigarettes(1.0) 
+until(0.0) everyone(0.0) can(0.0) say(0.0) ,(0.0) even(0.0) kids(0.0) ,(0.0) ``(0.0) Hey(0.0) ,(0.0) I(0.0) can(0.0) afford(1.0) to(0.0) smoke(0.0) now(0.0) .(0.0) ''(0.0) So(0.0) 
+I(0.0) say(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Illinois(1.0) [(0.0) Mr.(0.0) Durbin(1.0) ](0.0) ,(0.0) your(0.0) amendment(1.0) will(0.0) promote(1.0) smoking(1.0) .(0.0) It(0.0) promotes(1.0) 
+big(1.0) tobacco(1.0) companies(1.0) .(0.0) We(0.0) are(0.0) standing(0.0) here(0.0) telling(0.0) you(0.0) that(0.0) if(0.0) you(0.0) pass(0.0) the(0.0) Durbin(1.0) amendment(1.0) ,(0.0) you(0.0) are(0.0) 
+singling(1.0) out(0.0) the(0.0) very(0.0) small(0.0) ,(0.0) poor(0.0) tobacco(1.0) growers(1.0) in(0.0) this(0.0) country(1.0) to(0.0) the(0.0) favor(1.0) of(0.0) big(0.0) tobacco(1.0) companies(1.0) and(0.0) 
+foreign(1.0) growers(1.0) all(0.0) over(0.0) the(0.0) world(0.0) .(0.0) This(0.0) amendment(1.0) does(1.0) not(0.0) save(0.0) you(0.0) money(1.0) .(0.0) The(0.0) no-net-cost(0.0) program(1.0) --(0.0) and(0.0) 
+the(0.0) gentleman(0.0) from(0.0) Illinois(1.0) [(0.0) Mr.(0.0) Durbin(1.0) ](0.0) knows(1.0) this(1.0) --(0.0) passed(0.0) through(0.0) this(0.0) Congress(0.0) a(0.0) few(0.0) years(0.0) ago(0.0) that(0.0) 
+says(0.0) the(0.0) tobacco(1.0) program(0.0) will(0.0) cost(0.0) nothing(0.0) to(0.0) the(0.0) American(0.0) taxpayer(1.0) .(0.0) The(0.0) gentleman(0.0) says(0.0) that(0.0) in(0.0) his(0.0) amendment(1.0) 
+
+
+----- below are rationale words -----
+
+Chairman	Durbin	amendment	amendment	rejected	
+amendment	rejected	amendment	
+reject	
+Durbin	amendment	smoking	health	hazards	smoking	
+
+singling	amendment	poor	
+farmers	amendment	does	
+tobacco	companies	amendment	does	
+tobacco	companies	cripple	
+growers	country	favor	tobacco	
+country	country	prices	
+Durbin	amendment	big	tobacco	companies	
+farmers	program	farmers	
+tobacco	
+amendment	plays	tobacco	
+tobacco	pesticides	
+crops	country	poisoned	tobacco	
+tobacco	cheap	cigarettes	
+afford	
+Illinois	Durbin	amendment	promote	smoking	promotes	
+big	tobacco	companies	Durbin	amendment	
+singling	tobacco	growers	country	favor	tobacco	companies	
+foreign	growers	amendment	does	money	program	
+Illinois	Durbin	knows	this	
+tobacco	taxpayer	amendment	
+
+reads % = 0.176

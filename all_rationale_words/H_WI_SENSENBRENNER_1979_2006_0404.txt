@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) S.(0.0) 
+1785(0.0) ,(0.0) a(0.0) bill(0.0) to(0.0) amend(0.0) the(0.0) Vessel(0.0) Hull(0.0) Design(0.0) Protection(0.0) Act(0.0) .(0.0) The(0.0) version(0.0) before(0.0) us(0.0) is(0.0) the(0.0) manager's(0.0) 
+amendment(1.0) to(0.0) the(0.0) bill(1.0) .(0.0) In(0.0) addition(0.0) to(0.0) the(0.0) vessel(0.0) hull(0.0) design(0.0) amendments(1.0) ,(0.0) S.(0.0) 1785(0.0) includes(0.0) the(0.0) text(0.0) of(0.0) 
+three(0.0) other(0.0) intellectual(0.0) property(0.0) bills(0.0) that(0.0) have(0.0) been(0.0) the(0.0) focus(0.0) of(0.0) considerable(0.0) bipartisan(1.0) discussion(0.0) and(0.0) deliberation(0.0) .(0.0) These(0.0) bills(0.0) are(0.0) 
+not(0.0) controversial(0.0) and(0.0) therefore(0.0) have(0.0) been(0.0) included(0.0) as(0.0) a(0.0) part(0.0) of(0.0) the(0.0) manager(0.0) 's(0.0) amendment(1.0) .(0.0) First(0.0) ,(0.0) S.(0.0) 1785(0.0) 
+amends(0.0) the(0.0) Vessel(0.0) Hull(0.0) Design(0.0) Protection(0.0) Act(0.0) by(0.0) requiring(0.0) courts(0.0) to(0.0) examine(0.0) the(0.0) statutorily(0.0) protected(0.0) components(0.0) of(0.0) a(0.0) vessel(0.0) ,(0.0) 
+the(0.0) hull(0.0) as(0.0) well(0.0) as(0.0) the(0.0) deck(0.0) ,(0.0) separately(0.0) when(0.0) determining(0.0) whether(0.0) a(0.0) third(0.0) party(0.0) has(0.0) infringed(0.0) on(0.0) a(0.0) design(0.0) 
+.(0.0) This(0.0) change(0.0) responds(0.0) to(0.0) a(0.0) Fifth(0.0) Circuit(0.0) Court(0.0) case(0.0) which(0.0) ,(0.0) if(0.0) allowed(0.0) to(0.0) stand(0.0) ,(0.0) will(0.0) render(0.0) the(0.0) 
+statute(1.0) meaningless(1.0) ,(0.0) thereby(1.0) encouraging(1.0) knock-off(1.0) artists(0.0) to(0.0) sell(0.0) boats(0.0) with(0.0) inferior-designed(0.0) hulls(0.0) to(0.0) consumers(1.0) .(0.0) The(0.0) Judiciary(0.0) Subcommittee(0.0) on(0.0) 
+the(0.0) Courts(0.0) ,(0.0) the(0.0) Internet(0.0) ,(0.0) and(0.0) Intellectual(0.0) Property(0.0) reported(0.0) this(0.0) bill(0.0) favorably(1.0) to(0.0) the(0.0) full(0.0) committee(0.0) on(0.0) March(0.0) 1(0.0) 
+,(0.0) 2006(0.0) .(0.0) Second(0.0) ,(0.0) S.(0.0) 1785(0.0) includes(0.0) the(0.0) text(0.0) of(0.0) House(0.0) Concurrent(0.0) Resolution(0.0) 319(0.0) ,(0.0) which(0.0) commemorates(0.0) the(0.0) Bayh-Dole(0.0) 
+Act(0.0) on(0.0) its(0.0) 25th(0.0) anniversary(0.0) .(0.0) This(0.0) is(0.0) the(0.0) law(0.0) that(0.0) enables(0.0) inventors(0.0) to(0.0) retain(0.0) their(0.0) property(0.0) interest(0.0) in(0.0) patented(0.0) 
+products(0.0) that(0.0) are(0.0) subsidized(1.0) by(0.0) Federal(0.0) financing(1.0) .(0.0) The(0.0) concurrent(0.0) resolution(0.0) was(0.0) unanimously(0.0) approved(0.0) by(0.0) the(0.0) Judiciary(0.0) Committee(0.0) earlier(0.0) this(0.0) 
+year(0.0) .(0.0) Third(0.0) ,(0.0) S.(0.0) 1785(0.0) includes(0.0) the(0.0) text(0.0) of(0.0) H.R(0.0) .(0.0) 5120(0.0) ,(0.0) a(0.0) bill(0.0) that(0.0) amends(0.0) title(0.0) 35(0.0) 
+,(0.0) United(0.0) States(0.0) Code(0.0) ,(0.0) to(0.0) conform(0.0) certain(0.0) filing(0.0) provisions(0.0) within(0.0) the(0.0) Patent(0.0) and(0.0) Trademark(0.0) Office(0.0) .(0.0) This(0.0) legislation(0.0) allows(0.0) 
+the(0.0) director(0.0) of(0.0) the(0.0) PTO(0.0) to(0.0) accept(0.0) a(0.0) pharmaceutical(0.0) patent(0.0) extension(0.0) request(0.0) for(0.0) not(0.0) later(0.0) than(0.0) 5(0.0) days(0.0) after(0.0) the(0.0) 
+current(0.0) statutory(0.0) deadline(0.0) ,(0.0) which(0.0) is(0.0) 60(0.0) days(0.0) from(0.0) the(0.0) date(0.0) that(0.0) the(0.0) Food(0.0) and(0.0) Drug(0.0) Administration(0.0) approves(0.0) the(0.0) drug(0.0) 
+for(0.0) use(0.0) .(0.0) The(0.0) applicant(0.0) must(0.0) prove(0.0) to(0.0) the(0.0) director(0.0) 's(0.0) satisfaction(0.0) that(0.0) the(0.0) delay(0.0) in(0.0) filing(0.0) was(0.0) unintentional(0.0) .(0.0) 
+In(0.0) any(0.0) event(0.0) ,(0.0) the(0.0) director(0.0) retains(0.0) the(0.0) discretion(0.0) to(0.0) grant(0.0) or(0.0) to(0.0) deny(0.0) an(0.0) extension(0.0) .(0.0) It(0.0) is(0.0) not(0.0) 
+automatic(0.0) .(0.0) The(0.0) Subcommittee(0.0) on(0.0) Courts(0.0) ,(0.0) the(0.0) Internet(0.0) ,(0.0) and(0.0) Intellectual(0.0) Property(0.0) conducted(0.0) a(0.0) hearing(0.0) on(0.0) H.R(0.0) .(0.0) 5120(0.0) 
+on(0.0) September(0.0) 14(0.0) .(0.0) Finally(0.0) ,(0.0) S.(0.0) 1785(0.0) includes(0.0) the(0.0) text(0.0) of(0.0) H.R(0.0) .(0.0) 2955(0.0) ,(0.0) the(0.0) Intellectual(0.0) Property(0.0) Jurisdiction(0.0) 
+Clarification(0.0) Act(0.0) .(0.0) This(0.0) measure(0.0) responds(0.0) to(0.0) a(0.0) recent(0.0) court(0.0) case(0.0) by(0.0) reaffirming(1.0) the(0.0) plenary(0.0) authority(0.0) of(0.0) the(0.0) Federal(0.0) Circuit(0.0) 
+to(0.0) hear(0.0) all(0.0) patent(0.0) appeals(0.0) ,(0.0) which(0.0) was(0.0) the(0.0) clear(0.0) intent(0.0) of(0.0) Congress(0.0) since(0.0) the(0.0) circuit(0.0) 's(0.0) creation(0.0) in(0.0) 1982(0.0) 
+.(0.0) This(0.0) bill(0.0) was(0.0) reported(0.0) by(0.0) the(0.0) Judiciary(0.0) Committee(0.0) on(0.0) April(0.0) 5(0.0) of(0.0) this(0.0) year(0.0) by(0.0) a(0.0) voice(0.0) vote(0.0) .(0.0) 
+Mr.(0.0) Speaker(1.0) ,(0.0) S.(1.0) 1785(0.0) incorporates(0.0) timely(0.0) bipartisan(1.0) legislation(1.0) to(0.0) enhance(0.0) public(1.0) safety(0.0) ,(0.0) commemorate(0.0) the(0.0) Bayh-Dole(1.0) Act(0.0) and(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	
+
+amendment	bill	amendments	
+bipartisan	
+amendment	
+
+
+
+statute	meaningless	thereby	encouraging	knock-off	consumers	
+favorably	
+
+
+subsidized	financing	
+
+
+
+
+
+
+
+
+reaffirming	
+
+
+Speaker	S.	bipartisan	legislation	public	Bayh-Dole	
+
+reads % = 0.044

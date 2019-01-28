@@ -1,0 +1,20 @@
+This is from a Democrat
+----- below is the original text -----
+If(0.0) I(0.0) could(0.0) reclaim(1.0) my(0.0) time(0.0) ,(0.0) the(0.0) people(0.0) who(0.0) are(0.0) involved(0.0) in(0.0) this(0.0) program(1.0) are(0.0) putting(0.0) up(0.0) half(0.0) the(0.0) money(1.0) 
+.(0.0) This(0.0) is(0.0) not(0.0) all(0.0) Government(1.0) money(1.0) .(0.0) Half(0.0) the(0.0) money(1.0) comes(0.0) from(0.0) the(0.0) private(0.0) sector(0.0) ,(0.0) both(0.0) from(0.0) the(0.0) 
+wine(0.0) grape(0.0) growers(0.0) through(0.0) their(0.0) association(0.0) and(0.0) those(0.0) who(0.0) make(0.0) wine(0.0) and(0.0) help(0.0) market(0.0) the(0.0) product(0.0) .(0.0) This(0.0) is(0.0) a(0.0) 
+program(0.0) that(0.0) works(0.0) for(0.0) all(0.0) elements(0.0) of(0.0) one(0.0) of(0.0) our(0.0) most(0.0) successful(0.0) agricultural(1.0) industries(0.0) .(0.0) If(0.0) we(0.0) want(0.0) to(0.0) be(0.0) 
+successful(0.0) in(0.0) getting(0.0) down(0.0) our(0.0) trade(1.0) imbalance(1.0) ,(0.0) if(0.0) we(0.0) want(0.0) to(0.0) help(0.0) small(0.0) growers(1.0) ,(0.0) we(0.0) ought(1.0) to(0.0) continue(0.0) 
+to(0.0) support(0.0) this(0.0) very(0.0) modest(0.0) program(1.0) ,(0.0) which(0.0) is(0.0) all(0.0) we(0.0) can(0.0) afford(1.0) at(0.0) the(0.0) present(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+reclaim	program	money	
+Government	money	money	
+
+agricultural	
+trade	imbalance	growers	ought	
+program	afford	
+
+reads % = 0.1092436974789916

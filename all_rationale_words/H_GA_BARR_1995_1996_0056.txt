@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) distinguished(0.0) gentleman(0.0) from(0.0) Florida(0.0) for(0.0) yielding(0.0) me(0.0) time(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) representing(0.0) tens(1.0) of(0.0) thousands(0.0) 
+of(0.0) Americans(1.0) and(0.0) tens(1.0) of(0.0) thousands(1.0) of(0.0) American(0.0) fighting(1.0) men(0.0) and(0.0) women(0.0) all(0.0) across(0.0) the(0.0) world(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) 
+and(0.0) urge(0.0) strong(0.0) defeat(1.0) of(0.0) this(0.0) amendment(1.0) .(0.0) Its(0.0) proponent(1.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Wisconsin(1.0) [(0.0) Mr.(0.0) Obey(1.0) ](0.0) said(1.0) 
+it(1.0) is(1.0) absurd(1.0) to(0.0) buy(0.0) new(0.0) fighter(1.0) aircraft(1.0) .(0.0) Hogwash(0.0) .(0.0) It(0.0) is(0.0) essential(0.0) that(0.0) we(0.0) purchase(0.0) these(0.0) new(0.0) fighter(1.0) 
+aircraft(0.0) .(0.0) It(0.0) is(0.0) essential(0.0) that(0.0) we(0.0) continue(0.0) the(0.0) efforts(1.0) to(0.0) develop(0.0) the(0.0) next(0.0) generation(1.0) of(0.0) fighter(1.0) aircraft(0.0) which(0.0) will(0.0) 
+take(0.0) us(0.0) well(0.0) into(0.0) the(0.0) 21st(0.0) century(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) while(0.0) the(0.0) gentleman(0.0) is(0.0) busy(0.0) listening(0.0) to(0.0) the(0.0) accountants(0.0) 
+and(0.0) the(0.0) bean(0.0) counters(0.0) ,(0.0) I(0.0) am(0.0) listening(0.0) to(0.0) ,(0.0) and(0.0) you(0.0) are(0.0) listening(0.0) to(0.0) ,(0.0) the(0.0) fighting(1.0) men(0.0) and(0.0) 
+women(0.0) who(0.0) depend(0.0) on(0.0) that(0.0) air(0.0) superiority(0.0) for(0.0) their(0.0) very(0.0) lives(0.0) .(0.0) This(0.0) is(0.0) a(0.0) foolish(0.0) amendment(1.0) .(0.0) Let(0.0) us(0.0) 
+stand(0.0) up(0.0) for(0.0) a(0.0) program(1.0) that(0.0) is(0.0) recognized(0.0) by(0.0) Presidents(1.0) ,(0.0) Republican(0.0) and(1.0) Democrat(1.0) alike(1.0) .(0.0) This(0.0) is(0.0) extremely(0.0) important(0.0) 
+.(0.0) This(0.0) is(0.0) bipartisan(1.0) .(0.0) I(0.0) urge(0.0) defeat(1.0) of(0.0) this(0.0) wrong-(0.0) headed(0.0) and(0.0) misguided(1.0) amendment(1.0) .(0.0) Support(0.0) the(0.0) F-22(1.0) program(0.0) 
+.(0.0) Support(0.0) our(0.0) troops(1.0) in(0.0) the(0.0) world(0.0) ,(0.0) and(0.0) support(0.0) air(0.0) superiority(1.0) into(0.0) the(0.0) 21st(0.0) century(0.0) .(0.0) Defeat(0.0) the(0.0) amendment(1.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	tens	
+Americans	tens	thousands	fighting	
+defeat	amendment	proponent	Wisconsin	Obey	said	
+it	is	absurd	fighter	aircraft	fighter	
+efforts	generation	fighter	
+Chairman	
+fighting	
+amendment	
+program	Presidents	and	Democrat	alike	
+bipartisan	defeat	misguided	amendment	F-22	
+troops	superiority	amendment	
+
+
+reads % = 0.16666666666666666

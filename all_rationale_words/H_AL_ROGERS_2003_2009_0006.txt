@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) where(0.0) are(0.0) the(0.0) jobs(0.0) ?(0.0) The(0.0) President(1.0) and(0.0) Speaker(0.0) Pelosi(1.0) came(0.0) to(0.0) this(0.0) House(0.0) early(0.0) this(0.0) year(0.0) and(0.0) said(0.0) 
+,(0.0) if(0.0) you(0.0) 'll(0.0) borrow(0.0) and(0.0) spend(1.0) $(0.0) 1.1(0.0) trillion(1.0) ,(0.0) which(0.0) is(0.0) the(0.0) largest(1.0) spending(1.0) bill(1.0) in(0.0) American(0.0) history(0.0) 
+,(0.0) it(0.0) 's(0.0) going(0.0) to(0.0) save(0.0) existing(0.0) jobs(1.0) and(0.0) create(0.0) another(0.0) 3(0.0) million(0.0) jobs(1.0) .(0.0) Well(0.0) ,(0.0) where(0.0) are(0.0) those(0.0) 
+jobs(1.0) ?(0.0) They(0.0) say(0.0) ,(0.0) Well(0.0) ,(0.0) you(0.0) know(0.0) ,(0.0) we(0.0) had(0.0) to(0.0) spend(1.0) that(0.0) money(1.0) because(0.0) we(0.0) could(0.0) n't(0.0) 
+go(0.0) to(0.0) the(0.0) failed(1.0) policies(1.0) of(0.0) the(0.0) past(0.0) and(0.0) repeat(0.0) those(0.0) .(0.0) Well(0.0) ,(0.0) they(0.0) would(0.0) like(0.0) to(0.0) rewrite(1.0) history(0.0) 
+.(0.0) But(0.0) the(0.0) fact(0.0) is(0.0) ,(0.0) in(0.0) 2003(0.0) ,(0.0) this(0.0) Congress(0.0) passed(0.0) one(0.0) of(0.0) the(0.0) largest(0.0) tax(1.0) cuts(1.0) on(1.0) small(1.0) 
+businesses(1.0) in(1.0) America(1.0) in(0.0) our(0.0) history(1.0) ,(0.0) and(0.0) it(0.0) was(0.0) followed(0.0) by(0.0) over(0.0) 50(0.0) months(0.0) of(0.0) consecutive(0.0) job(0.0) growth(1.0) ,(0.0) 
+the(0.0) largest(1.0) consecutive(0.0) period(0.0) of(0.0) time(0.0) of(0.0) expansion(1.0) of(0.0) jobs(0.0) in(0.0) American(0.0) history(0.0) .(0.0) I(0.0) would(0.0) suggest(0.0) to(0.0) you(0.0) ,(0.0) 
+the(0.0) only(0.0) failed(0.0) policies(1.0) of(0.0) the(0.0) past(0.0) that(0.0) we(0.0) should(0.0) n't(0.0) repeat(0.0) are(0.0) the(0.0) failed(1.0) policies(1.0) of(0.0) the(0.0) past(0.0) 6(0.0) 
+months(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+President	Pelosi	
+spend	trillion	largest	spending	bill	
+jobs	jobs	
+jobs	spend	money	
+failed	policies	rewrite	
+tax	cuts	on	small	
+businesses	in	America	history	growth	
+largest	expansion	
+policies	failed	policies	
+
+
+reads % = 0.15846994535519127

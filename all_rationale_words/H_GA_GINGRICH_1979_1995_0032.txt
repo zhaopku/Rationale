@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+So(0.0) if(0.0) the(0.0) student(0.0) in(0.0) the(0.0) case(0.0) that(0.0) has(0.0) been(0.0) hypothesized(0.0) says(0.0) ,(0.0) ``(0.0) Can(0.0) I(0.0) have(0.0) $(0.0) 3,000(0.0) ,(0.0) ''(0.0) 
+we(0.0) currently(0.0) spend(0.0) ,(0.0) I(0.0) believe(0.0) ,(0.0) $(0.0) 9,000(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+
+reads % = 0.0

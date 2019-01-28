@@ -1,0 +1,54 @@
+This is from a Democrat
+----- below is the original text -----
+Sessions(0.0) at(0.0) his(0.0) word(0.0) ,(0.0) and(0.0) I(0.0) believe(1.0) him(0.0) to(0.0) be(0.0) sincere(0.0) and(0.0) genuine(0.0) in(0.0) his(0.0) desire(0.0) to(0.0) see(0.0) this(0.0) problem(0.0) 
+fixed(1.0) .(0.0) I(0.0) would(1.0) just(1.0) remind(0.0) Mr(0.0) .(1.0) Sessions(1.0) and(0.0) Congress(0.0) that(0.0) we(0.0) do(0.0) n't(0.0) have(0.0) time(0.0) to(0.0) wait(0.0) on(0.0) 
+this(0.0) issue(0.0) .(0.0) Every(1.0) day(0.0) ,(0.0) there(0.0) is(0.0) a(0.0) sale(1.0) that(0.0) is(0.0) delayed(0.0) or(1.0) a(0.0) sale(1.0) that(0.0) does(1.0) n't(0.0) go(0.0) 
+through(0.0) because(0.0) the(0.0) flood(1.0) insurance(1.0) is(0.0) so(1.0) high(0.0) and(0.0) the(0.0) new(1.0) purchaser(0.0) does(0.0) n't(0.0) want(1.0) to(0.0) pay(1.0) for(0.0) it(0.0) .(0.0) 
+And(0.0) every(0.0) day(0.0) ,(0.0) there(0.0) is(0.0) an(0.0) owner(0.0) short-selling(1.0) a(0.0) house(1.0) because(0.0) they(0.0) have(0.0) to(0.0) get(0.0) out(0.0) of(0.0) it(0.0) ,(0.0) 
+and(0.0) they(0.0) ca(0.0) n't(0.0) afford(0.0) to(0.0) wait(0.0) .(0.0) So(1.0) ,(0.0) when(0.0) we(0.0) talk(0.0) about(0.0) home(0.0) ownership(1.0) ,(0.0) we(0.0) are(0.0) talking(0.0) 
+about(0.0) responsible(0.0) Americans(0.0) .(0.0) We(0.0) are(0.0) talking(0.0) about(0.0) 1.7(0.0) million(0.0) people(0.0) in(0.0) this(0.0) country(1.0) that(0.0) saved(1.0) up(0.0) to(0.0) participate(0.0) in(0.0) 
+the(0.0) bedrock(1.0) of(0.0) the(0.0) American(0.0) Dream(1.0) .(0.0) And(0.0) now(0.0) ,(0.0) government(1.0) and(0.0) FEMA(0.0) and(0.0) Congress(0.0) are(0.0) turning(1.0) a(0.0) piece(0.0) of(0.0) 
+the(0.0) American(0.0) Dream(1.0) into(0.0) a(0.0) government-made(1.0) nightmare(1.0) ,(0.0) and(0.0) we(0.0) have(0.0) the(0.0) ability(0.0) here(0.0) today(0.0) to(0.0) fix(0.0) this(0.0) .(0.0) Right(0.0) 
+now(0.0) ,(0.0) we(0.0) are(0.0) not(0.0) asking(0.0) for(0.0) politics(1.0) .(0.0) We(0.0) are(0.0) not(1.0) trying(0.0) to(0.0) be(0.0) overdramatic(1.0) .(0.0) We(0.0) are(0.0) just(1.0) 
+asking(0.0) for(0.0) a(0.0) solution(0.0) .(0.0) We(0.0) want(1.0) to(0.0) fix(0.0) it(0.0) .(0.0) In(0.0) fact(1.0) ,(0.0) we(0.0) are(0.0) here(0.0) today(0.0) talking(0.0) about(0.0) 
+a(0.0) Republican(1.0) bill(1.0) that(0.0) solves(1.0) the(0.0) problem(0.0) .(0.0) That(0.0) is(0.0) because(0.0) ,(0.0) for(0.0) me(0.0) ,(0.0) this(0.0) is(0.0) not(0.0) about(0.0) politics(1.0) 
+.(0.0) It(0.0) is(0.0) about(0.0) people(0.0) .(0.0) It(0.0) is(0.0) about(0.0) purpose(0.0) .(0.0) It(0.0) is(0.0) not(1.0) about(0.0) making(0.0) sure(1.0) that(0.0) rich(0.0) people(0.0) 
+who(0.0) own(0.0) riverfront(1.0) ,(0.0) lakefront(1.0) ,(0.0) or(1.0) oceanfront(1.0) property(0.0) are(0.0) taken(0.0) care(0.0) of(0.0) .(0.0) It(0.0) is(0.0) about(0.0) our(0.0) seniors(0.0) who(0.0) 
+want(1.0) a(0.0) home(0.0) on(0.0) Main(0.0) Street(0.0) or(1.0) smack(1.0) dab(1.0) in(0.0) our(0.0) communities(0.0) .(0.0) They(0.0) saved(0.0) .(0.0) They(0.0) sacrificed(1.0) .(0.0) They(0.0) 
+did(0.0) everything(0.0) right(1.0) .(0.0) They(0.0) played(0.0) by(0.0) all(0.0) the(0.0) rules(1.0) .(0.0) And(0.0) now(0.0) FEMA(0.0) has(0.0) come(0.0) and(0.0) decided(0.0) they(0.0) are(0.0) 
+going(0.0) to(0.0) create(0.0) new(1.0) flood(0.0) maps(0.0) .(0.0) The(0.0) sad(0.0) part(0.0) about(0.0) it(0.0) is(0.0) ,(0.0) if(0.0) you(1.0) are(0.0) a(0.0) community(1.0) and(0.0) 
+you(0.0) built(0.0) levees(0.0) and(0.0) increased(0.0) flood(0.0) protection(0.0) and(0.0) you(1.0) did(0.0) it(0.0) with(0.0) your(0.0) own(0.0) money(0.0) ,(0.0) FEMA(1.0) does(0.0) not(0.0) even(0.0) 
+count(0.0) it(0.0) ,(0.0) because(0.0) they(0.0) did(0.0) n't(0.0) pay(0.0) for(0.0) it(0.0) .(0.0) So(1.0) communities(0.0) have(0.0) saved(0.0) money(0.0) to(0.0) help(0.0) themselves(0.0) ,(0.0) 
+like(0.0) we(0.0) do(0.0) in(0.0) America(0.0) .(0.0) If(1.0) we(0.0) have(0.0) a(0.0) problem(0.0) ,(0.0) we(0.0) fix(0.0) it(0.0) .(0.0) My(0.0) community(1.0) ,(0.0) which(0.0) 
+put(0.0) up(0.0) millions(1.0) of(0.0) dollars(1.0) to(0.0) build(0.0) levees(0.0) ,(0.0) does(1.0) n't(0.0) even(0.0) get(0.0) that(0.0) recognized(0.0) because(0.0) the(0.0) government(1.0) did(0.0) n't(0.0) 
+pay(0.0) for(0.0) it(0.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) I(0.0) would(1.0) just(1.0) ask(0.0) all(0.0) my(0.0) colleagues(1.0) ,(0.0) let(0.0) 's(0.0) do(0.0) what(1.0) is(0.0) 
+right(1.0) .(0.0) Let(1.0) 's(0.0) help(0.0) people(0.0) ,(0.0) and(0.0) let(0.0) 's(0.0) put(0.0) people(0.0) over(0.0) politics(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+believe	
+fixed	would	just	.	Sessions	
+Every	sale	or	sale	does	
+flood	insurance	so	new	want	pay	
+short-selling	house	
+So	ownership	
+country	saved	
+bedrock	Dream	government	turning	
+Dream	government-made	nightmare	
+politics	not	overdramatic	just	
+want	fact	
+Republican	bill	solves	politics	
+not	sure	
+riverfront	lakefront	or	oceanfront	
+want	or	smack	dab	sacrificed	
+right	rules	
+new	you	community	
+you	FEMA	
+So	
+If	community	
+millions	dollars	does	government	
+Speaker	would	just	colleagues	what	
+right	Let	politics	
+
+reads % = 0.1600877192982456

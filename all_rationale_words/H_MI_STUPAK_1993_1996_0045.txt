@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) ranking(0.0) member(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Ohio(1.0) [(0.0) Mr.(0.0) Stokes(1.0) ](0.0) ,(0.0) for(0.0) yielding(0.0) time(0.0) to(0.0) 
+me(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) would(0.0) like(0.0) to(0.0) engage(0.0) in(0.0) a(0.0) colloquy(0.0) with(0.0) the(0.0) gentleman(0.0) from(0.0) Ohio(1.0) [(0.0) Mr.(0.0) 
+Lewis(1.0) ](0.0) ,(0.0) chairman(0.0) of(0.0) the(0.0) committee(0.0) .(0.0) First(0.0) of(0.0) all(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) both(0.0) the(0.0) chairman(0.0) and(0.0) 
+the(0.0) ranking(0.0) member(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Ohio(1.0) ,(0.0) for(0.0) including(0.0) language(0.0) in(0.0) the(0.0) committee(0.0) report(0.0) highlighting(0.0) the(0.0) situation(0.0) that(0.0) 
+exists(0.0) in(0.0) my(0.0) district(0.0) in(0.0) the(0.0) D.J(0.0) .(0.0) Jacobetti(1.0) home(0.0) for(0.0) veterans(0.0) located(0.0) in(0.0) Marquette(1.0) ,(0.0) MI(1.0) .(0.0) As(0.0) Members(0.0) 
+know(0.0) ,(0.0) I(0.0) testified(0.0) before(0.0) the(0.0) chairman(0.0) 's(0.0) subcommittee(0.0) last(0.0) month(0.0) on(0.0) a(0.0) serious(0.0) situation(0.0) at(0.0) the(0.0) Jacobetti(1.0) Center(0.0) due(0.0) 
+to(0.0) the(0.0) antiquated(0.0) and(0.0) undependable(0.0) boiler(0.0) and(0.0) heating(0.0) systems(0.0) .(0.0) Over(0.0) the(0.0) past(0.0) few(0.0) winters(0.0) veterans(1.0) residing(0.0) at(0.0) the(0.0) Jacobetti(1.0) 
+home(0.0) have(0.0) had(0.0) to(0.0) be(0.0) moved(0.0) from(0.0) their(0.0) rooms(0.0) because(0.0) the(0.0) temperature(0.0) in(0.0) their(0.0) rooms(0.0) would(0.0) often(0.0) drop(0.0) to(0.0) as(0.0) 
+low(0.0) as(0.0) 40(0.0) degrees(0.0) .(0.0) It(0.0) is(0.0) almost(0.0) ironic(0.0) that(0.0) the(0.0) same(0.0) veterans(1.0) who(0.0) nearly(0.0) froze(0.0) during(0.0) World(0.0) War(0.0) II(0.0) 
+will(0.0) now(0.0) be(0.0) virtually(0.0) frozen(0.0) out(0.0) of(0.0) their(0.0) rooms(0.0) at(0.0) a(0.0) veterans(0.0) '(0.0) home(0.0) .(0.0) This(0.0) is(0.0) no(0.0) way(0.0) to(0.0) 
+treat(0.0) our(0.0) country(1.0) 's(0.0) veterans(1.0) .(0.0) With(0.0) outside(0.0) temperatures(0.0) in(0.0) my(0.0) district(0.0) which(0.0) can(0.0) drop(0.0) as(0.0) low(0.0) as(0.0) 30(0.0) degrees(0.0) 
+to(0.0) 40(0.0) degrees(0.0) below(0.0) zero(0.0) during(0.0) winter(0.0) in(0.0) the(0.0) Upper(0.0) Peninsula(0.0) in(0.0) Michigan(1.0) ,(0.0) and(0.0) snow(0.0) levels(0.0) at(0.0) times(0.0) exceeding(0.0) 
+300(0.0) inches(0.0) of(0.0) snow(0.0) in(0.0) a(0.0) season(0.0) ,(0.0) I(0.0) thank(0.0) our(0.0) colleagues(0.0) and(0.0) I(0.0) thank(0.0) them(0.0) for(0.0) understanding(0.0) the(0.0) need(0.0) 
+to(0.0) make(0.0) these(0.0) badly(0.0) needed(0.0) repairs(0.0) at(0.0) the(0.0) Jacobetti(1.0) State(0.0) Veterans(0.0) Home(0.0) a(0.0) priority(0.0) project(0.0) .(0.0) Clearly(0.0) ,(0.0) such(0.0) situations(0.0) 
+occurring(0.0) year(0.0) after(0.0) year(0.0) present(0.0) a(0.0) serious(0.0) problem(0.0) when(0.0) it(0.0) comes(0.0) to(0.0) the(0.0) health(1.0) and(0.0) safety(0.0) of(0.0) veterans(1.0) who(0.0) reside(0.0) 
+at(0.0) this(0.0) home(0.0) .(0.0) I(0.0) am(0.0) pleased(0.0) that(0.0) funding(1.0) for(0.0) this(0.0) fiscal(1.0) year(0.0) 1997(1.0) calls(0.0) on(0.0) the(0.0) Department(0.0) of(0.0) Veterans(0.0) 
+Affairs(0.0) to(0.0) place(0.0) projects(0.0) involving(0.0) health(1.0) and(0.0) safety(0.0) concerns(0.0) on(0.0) a(0.0) higher(0.0) priority(0.0) .(0.0) This(0.0) change(0.0) in(0.0) priority(1.0) is(0.0) the(0.0) 
+right(0.0) thing(0.0) to(0.0) do(0.0) for(0.0) countless(0.0) numbers(0.0) of(0.0) veterans(1.0) .(0.0) I(0.0) am(0.0) also(0.0) pleased(0.0) with(0.0) the(0.0) level(0.0) of(0.0) funding(1.0) being(0.0) 
+provided(0.0) ,(0.0) over(0.0) $(0.0) 47(0.0) million(0.0) ,(0.0) which(0.0) is(0.0) equal(1.0) to(0.0) the(0.0) funding(1.0) provided(0.0) in(0.0) fiscal(1.0) year(0.0) 1996(1.0) for(0.0) State(1.0) 
+extended(0.0) home(0.0) care(0.0) construction(0.0) .(0.0) I(0.0) would(0.0) say(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) [(0.0) Mr.(0.0) Lewis(1.0) ](0.0) that(1.0) I(1.0) seek(1.0) 
+the(0.0) support(0.0) of(0.0) his(0.0) panel(0.0) in(0.0) working(0.0) with(0.0) Secretary(1.0) Jesse(1.0) Brown(1.0) and(0.0) the(0.0) authorizing(0.0) committee(0.0) in(0.0) assuring(0.0) that(0.0) the(0.0) VA(0.0) 
+'s(0.0) review(0.0) of(0.0) State(0.0) extended(0.0) medical(0.0) care(0.0) facilities(0.0) follow(0.0) through(0.0) on(0.0) the(0.0) mandate(0.0) contained(0.0) in(0.0) this(0.0) funding(0.0) measure(0.0) .(0.0) I(0.0) 
+am(0.0) asking(0.0) for(0.0) or(0.0) the(0.0) support(0.0) of(0.0) the(0.0) chairman(0.0) of(0.0) the(0.0) subcommittee(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) [(0.0) Mr.(0.0) Lewis(1.0) 
+](0.0) ,(0.0) and(0.0) the(0.0) gentleman(0.0) from(0.0) Ohio(1.0) [(0.0) Mr.(0.0) Stokes(1.0) ](0.0) ,(0.0) the(0.0) ranking(0.0) member(0.0) ,(0.0) in(0.0) working(0.0) with(0.0) Secretary(0.0) 
+Brown(1.0) and(0.0) the(0.0) authorizing(0.0) committee(0.0) to(0.0) assure(0.0) that(0.0) the(0.0) VA(0.0) 's(0.0) follow(0.0) through(0.0) on(0.0) this(0.0) .(0.0) Lewis(0.0) ](0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Ohio	Stokes	
+Chairman	Ohio	
+Lewis	
+Ohio	
+Jacobetti	Marquette	MI	
+Jacobetti	
+veterans	Jacobetti	
+
+veterans	
+
+country	veterans	
+Michigan	
+
+Jacobetti	
+health	veterans	
+funding	fiscal	1997	
+health	priority	
+veterans	funding	
+equal	funding	fiscal	1996	State	
+Lewis	that	I	seek	
+Secretary	Jesse	Brown	
+
+Lewis	
+Ohio	Stokes	
+Brown	
+
+reads % = 0.084

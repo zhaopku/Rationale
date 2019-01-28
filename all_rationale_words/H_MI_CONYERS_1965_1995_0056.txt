@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) want(0.0) to(0.0) make(0.0) it(0.0) clear(0.0) that(0.0) on(0.0) our(0.0) side(0.0) we(0.0) strongly(0.0) support(0.0) the(0.0) amendment(1.0) of(0.0) the(0.0) gentleman(0.0) 
+from(0.0) Vermont(1.0) and(0.0) commend(0.0) the(0.0) chairman(0.0) of(0.0) the(0.0) majority(1.0) for(0.0) accepting(0.0) a(0.0) commonsense(1.0) provision(1.0) that(0.0) would(0.0) make(0.0) victims(1.0) of(0.0) corporate(1.0) 
+activity(0.0) able(0.0) to(0.0) be(0.0) notified(0.0) of(0.0) their(0.0) right(0.0) to(0.0) appear(0.0) in(0.0) court(1.0) and(0.0) to(0.0) state(1.0) their(0.0) claims(0.0) for(0.0) restitution(1.0) .(0.0) 
+I(0.0) am(0.0) proud(0.0) to(0.0) join(0.0) in(0.0) support(0.0) of(0.0) this(0.0) amendment(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) 
+my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	amendment	
+Vermont	majority	commonsense	provision	victims	corporate	
+court	state	restitution	
+amendment	Chairman	
+
+
+reads % = 0.15476190476190477

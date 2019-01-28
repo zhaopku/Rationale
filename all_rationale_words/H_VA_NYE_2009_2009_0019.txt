@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+The(0.0) Acting(0.0) CHAIR(0.0) .(0.0) The(0.0) Clerk(1.0) will(0.0) designate(1.0) the(0.0) amendment(1.0) .(0.0) The(0.0) text(0.0) of(0.0) the(0.0) amendment(1.0) is(0.0) as(0.0) follows(1.0) :(0.0) Amendment(0.0) 
+No(0.0) .(0.0) 11(0.0) offered(1.0) by(0.0) Mr.(0.0) Nye(1.0) :(1.0) Page(1.0) 312(0.0) ,(0.0) after(0.0) line(0.0) 22(1.0) ,(0.0) insert(0.0) the(0.0) following(0.0) new(1.0) section(0.0) 
+:(1.0) SEC(0.0) .(0.0) __(1.0) .(0.0) AUTHORITY(1.0) OF(1.0) THE(1.0) COAST(1.0) GUARD(0.0) TO(0.0) CARRY(1.0) OUT(1.0) ITS(1.0) HOMELAND(1.0) SECURITY(1.0) MISSIONS(1.0) .(0.0) The(0.0) provisions(0.0) 
+of(0.0) this(0.0) Act(0.0) that(0.0) relate(0.0) to(0.0) the(0.0) Coast(1.0) Guard(0.0) 's(0.0) marine(0.0) safety(0.0) mission(1.0) shall(0.0) not(0.0) impair(0.0) the(0.0) authority(0.0) of(0.0) the(0.0) 
+Coast(1.0) Guard(0.0) to(0.0) carry(0.0) out(0.0) its(0.0) homeland(1.0) security(0.0) missions(1.0) ,(0.0) including(1.0) --(0.0) ((0.0) 1(1.0) )(0.0) protecting(0.0) ports(1.0) ,(0.0) waterways(1.0) ,(0.0) 
+and(0.0) marine(0.0) transportation(1.0) systems(0.0) in(0.0) the(0.0) United(0.0) States(0.0) from(0.0) acts(0.0) of(0.0) terrorism(1.0) ;(0.0) ((0.0) 2(0.0) )(0.0) safeguarding(1.0) the(0.0) United(0.0) States(0.0) 
+'(0.0) international(0.0) borders(0.0) from(0.0) maritime(1.0) intrusions(1.0) by(0.0) aliens(1.0) seeking(0.0) unlawful(1.0) entry(0.0) into(0.0) the(0.0) United(0.0) States(0.0) ,(0.0) and(0.0) from(0.0) individuals(0.0) who(0.0) 
+aim(0.0) to(0.0) traffic(0.0) in(0.0) illegal(1.0) drugs(0.0) ,(0.0) firearms(0.0) ,(0.0) and(0.0) weapons(1.0) of(0.0) mass(0.0) destruction(1.0) in(0.0) the(0.0) United(0.0) States(0.0) ;(0.0) ((0.0) 
+3(0.0) )(0.0) maintaining(1.0) defense(1.0) readiness(1.0) ,(0.0) as(0.0) one(0.0) of(0.0) the(0.0) armed(0.0) forces(1.0) ,(0.0) to(0.0) rapidly(0.0) mobilize(1.0) and(0.0) deploy(0.0) defensive(1.0) security(0.0) 
+personnel(1.0) during(0.0) a(0.0) national(0.0) emergency(0.0) ;(0.0) ((0.0) 4(0.0) )(0.0) coordinating(1.0) efforts(1.0) with(0.0) Federal(1.0) ,(0.0) State(1.0) ,(0.0) and(0.0) local(0.0) intelligence(0.0) agencies(0.0) 
+to(0.0) deter(0.0) ,(0.0) detect(1.0) ,(0.0) and(0.0) take(0.0) action(0.0) against(0.0) acts(0.0) of(0.0) terrorism(1.0) ;(0.0) ((0.0) 5(0.0) )(0.0) preventing(1.0) human(0.0) smuggling(1.0) operations(1.0) 
+at(0.0) ports(1.0) ,(0.0) on(0.0) waterways(1.0) ,(0.0) and(0.0) throughout(0.0) the(0.0) marine(1.0) transportation(1.0) system(0.0) ;(0.0) and(0.0) ((0.0) 6(0.0) )(0.0) enhancing(1.0) stability(0.0) in(0.0) 
+the(0.0) United(0.0) States(0.0) in(0.0) support(0.0) of(0.0) the(0.0) national(0.0) security(0.0) strategy(1.0) of(0.0) the(0.0) United(0.0) States(0.0) as(0.0) referred(0.0) to(0.0) in(0.0) section(0.0) 108(0.0) 
+of(0.0) the(0.0) National(0.0) Security(1.0) Act(0.0) of(0.0) 1947(0.0) ((0.0) 50(0.0) U.S.C(1.0) .(0.0) 404a(1.0) )(0.0) .(0.0) The(0.0) Acting(0.0) CHAIR(0.0) .(0.0) Pursuant(1.0) to(0.0) 
+House(0.0) Resolution(0.0) 853(1.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Virginia(1.0) ((0.0) Mr.(0.0) Nye(1.0) )(0.0) and(0.0) a(0.0) Member(0.0) opposed(1.0) each(0.0) will(0.0) control(1.0) 5(0.0) 
+minutes(1.0) .(0.0) The(0.0) Chair(1.0) recognizes(0.0) the(0.0) gentleman(0.0) from(0.0) Virginia(1.0) .(0.0) Chairman(1.0) ,(0.0) today(1.0) I(0.0) rise(1.0) to(0.0) urge(1.0) my(0.0) colleagues(1.0) to(0.0) 
+support(0.0) a(0.0) commonsense(1.0) ,(0.0) yet(1.0) necessary(0.0) ,(0.0) amendment(1.0) which(0.0) will(0.0) make(0.0) clear(0.0) the(0.0) Coast(1.0) Guard(0.0) 's(0.0) critical(1.0) role(0.0) in(0.0) the(0.0) 
+homeland(1.0) security(0.0) of(0.0) America(0.0) .(0.0) The(0.0) Coast(1.0) Guard(0.0) security(0.0) mission(1.0) is(0.0) not(1.0) new(0.0) .(0.0) Since(0.0) 1790(1.0) ,(0.0) the(0.0) Coast(1.0) Guard(0.0) 
+has(0.0) served(1.0) as(0.0) America(0.0) 's(0.0) principal(1.0) law-of-the-sea(1.0) entity(1.0) with(0.0) a(0.0) maritime(1.0) responsibility(0.0) of(0.0) 6(0.0) million(1.0) square(1.0) miles(0.0) .(0.0) However(0.0) ,(0.0) 
+today(1.0) the(0.0) Coast(1.0) Guard(0.0) must(0.0) manage(0.0) multiple(0.0) security(0.0) responsibilities(0.0) as(0.0) it(0.0) faces(0.0) the(0.0) extremely(0.0) difficult(0.0) challenge(0.0) of(0.0) enforcing(1.0) increasingly(0.0) complex(0.0) 
+laws(1.0) against(0.0) highly(0.0) sophisticated(1.0) adversaries(1.0) .(0.0) Since(0.0) 9/11(1.0) ,(0.0) the(0.0) U.S.(0.0) has(0.0) expanded(0.0) dramatically(0.0) its(0.0) port(0.0) security(0.0) activities(0.0) to(0.0) the(0.0) 
+more(0.0) than(0.0) 300(1.0) U.S.(0.0) ports(1.0) and(0.0) millions(1.0) of(0.0) Americans(0.0) who(0.0) live(0.0) ,(0.0) work(0.0) ,(0.0) or(1.0) recreate(1.0) near(1.0) them(0.0) .(0.0) This(0.0) 
+is(0.0) especially(1.0) important(0.0) to(0.0) my(0.0) constituents(1.0) in(0.0) Hampton(1.0) Roads(1.0) .(0.0) I(0.0) represent(1.0) one(0.0) of(0.0) the(0.0) largest(0.0) ports(1.0) in(0.0) the(0.0) United(0.0) 
+States(0.0) ,(0.0) the(0.0) Port(0.0) of(0.0) Virginia(1.0) .(0.0) The(0.0) Port(1.0) of(0.0) Virginia(1.0) is(0.0) the(0.0) deepest(1.0) ,(0.0) newest(0.0) ,(0.0) and(0.0) biggest(1.0) port(0.0) 
+on(0.0) the(0.0) east(1.0) coast(1.0) ,(0.0) capable(0.0) of(0.0) handling(0.0) ships(0.0) loaded(0.0) 26(0.0) containers(0.0) across(0.0) .(0.0) Last(0.0) month(0.0) alone(1.0) ,(0.0) Virginia(1.0) 
+
+
+----- below are rationale words -----
+
+Clerk	designate	amendment	amendment	follows	
+offered	Nye	:	Page	22	new	
+:	__	AUTHORITY	OF	THE	COAST	CARRY	OUT	ITS	HOMELAND	SECURITY	MISSIONS	
+Coast	mission	
+Coast	homeland	missions	including	1	ports	waterways	
+transportation	terrorism	safeguarding	
+maritime	intrusions	aliens	unlawful	
+illegal	weapons	destruction	
+maintaining	defense	readiness	forces	mobilize	defensive	
+personnel	coordinating	efforts	Federal	State	
+detect	terrorism	preventing	smuggling	operations	
+ports	waterways	marine	transportation	enhancing	
+strategy	
+Security	U.S.C	404a	Pursuant	
+853	Virginia	Nye	opposed	control	
+minutes	Chair	Virginia	Chairman	today	rise	urge	colleagues	
+commonsense	yet	amendment	Coast	critical	
+homeland	Coast	mission	not	1790	Coast	
+served	principal	law-of-the-sea	entity	maritime	million	square	
+today	Coast	enforcing	
+laws	sophisticated	adversaries	9/11	
+300	ports	millions	or	recreate	near	
+especially	constituents	Hampton	Roads	represent	ports	
+Virginia	Port	Virginia	deepest	biggest	
+east	coast	alone	Virginia	
+
+reads % = 0.254

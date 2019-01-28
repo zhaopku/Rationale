@@ -1,0 +1,20 @@
+This is from a Republican
+----- below is the original text -----
+Getting(0.0) back(0.0) to(0.0) the(0.0) point(0.0) that(0.0) you(0.0) brought(0.0) up(0.0) --(0.0) I(0.0) did(0.0) not(0.0) bring(0.0) up(0.0) --(0.0) that(0.0) is(0.0) the(0.0) debit(0.0) card(0.0) 
+which(0.0) would(0.0) allow(0.0) for(0.0) us(0.0) as(0.0) taxpayers(1.0) to(0.0) have(0.0) an(0.0) accounting(0.0) of(0.0) all(0.0) dollars(1.0) spent(0.0) by(0.0) welfare(1.0) recipients(1.0) --(0.0) and(0.0) 
+we(0.0) do(0.0) the(0.0) same(0.0) for(0.0) defense(1.0) contractors(1.0) today(0.0) .(0.0) We(0.0) get(0.0) an(0.0) accounting(0.0) of(0.0) every(0.0) single(0.0) dollar(1.0) the(0.0) defense(1.0) contractor(0.0) 
+would(0.0) spend(0.0) to(0.0) construct(0.0) a(0.0) helicopter(0.0) or(0.0) an(0.0) airplane(1.0) .(0.0) One(0.0) again(0.0) ,(0.0) it(0.0) is(0.0) not(0.0) hurting(0.0) ,(0.0) it(0.0) is(0.0) 
+not(0.0) hurting(0.0) the(0.0) recipients(1.0) of(0.0) welfare(1.0) ,(0.0) but(0.0) it(0.0) is(0.0) hurting(0.0) ,(0.0) potentially(0.0) ,(0.0) drug(1.0) dealers(1.0) .(0.0) Would(0.0) you(0.0) be(0.0) 
+in(0.0) support(0.0) of(0.0) a(0.0) proposal(1.0) of(0.0) that(0.0) nature(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+
+taxpayers	dollars	welfare	recipients	
+defense	contractors	dollar	defense	
+airplane	
+recipients	welfare	drug	dealers	
+proposal	
+
+reads % = 0.12727272727272726

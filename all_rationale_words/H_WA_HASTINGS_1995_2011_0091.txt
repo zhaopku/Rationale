@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+As(0.0) a(0.0) matter(0.0) of(0.0) fact(0.0) ,(0.0) the(0.0) gray(0.0) wolves(0.0) are(0.0) showing(0.0) up(0.0) in(0.0) the(0.0) Cascades(0.0) now(0.0) ,(0.0) the(0.0) eastern(0.0) side(0.0) of(0.0) 
+the(0.0) Cascades(0.0) .(0.0) So(0.0) you(0.0) 'll(0.0) get(0.0) them(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+
+reads % = 0.0

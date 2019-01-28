@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) am(0.0) from(0.0) Ohio(1.0) 's(0.0) Sixth(0.0) District(0.0) ,(0.0) my(0.0) district(0.0) is(0.0) in(0.0) Appalachian(1.0) Ohio(1.0) ,(0.0) and(0.0) we(0.0) have(0.0) 
+a(0.0) large(0.0) population(1.0) of(0.0) seniors(1.0) and(0.0) retirees(1.0) ,(0.0) so(0.0) I(0.0) 'm(0.0) truly(0.0) interested(0.0) in(0.0) how(0.0) this(0.0) reform(1.0) bill(1.0) strengthens(1.0) Medicare(1.0) 
+.(0.0) If(0.0) we(0.0) do(0.0) n't(0.0) do(0.0) anything(0.0) ,(0.0) the(0.0) Medicare(1.0) trust(0.0) fund(1.0) is(0.0) projected(0.0) to(0.0) be(0.0) insolvent(1.0) by(0.0) 2016(1.0) .(0.0) 
+Medicare(1.0) takes(0.0) care(0.0) of(0.0) our(0.0) seniors(1.0) ,(0.0) but(0.0) it(0.0) is(0.0) high(0.0) time(0.0) that(0.0) we(0.0) take(0.0) care(0.0) of(0.0) Medicare(1.0) .(0.0) The(0.0) 
+health(1.0) care(1.0) reform(1.0) bill(1.0) keeps(1.0) Medicare(1.0) solvent(1.0) for(0.0) 9(0.0) more(0.0) years(0.0) .(0.0) We(0.0) extend(0.0) that(0.0) timeline(1.0) by(0.0) finally(0.0) getting(0.0) tough(0.0) 
+on(0.0) the(0.0) waste(1.0) in(0.0) Medicare(1.0) .(0.0) So(0.0) as(0.0) we(0.0) make(0.0) services(0.0) better(0.0) for(0.0) seniors(1.0) ,(0.0) we(0.0) also(0.0) fight(1.0) fraud(1.0) and(0.0) 
+waste(1.0) .(0.0) The(0.0) inspector(0.0) general(0.0) of(0.0) the(0.0) Health(0.0) and(0.0) Human(0.0) Services(0.0) Department(0.0) has(0.0) found(0.0) a(0.0) number(0.0) of(0.0) problems(0.0) in(0.0) Medicare(1.0) 
+with(0.0) false(0.0) claims(0.0) for(0.0) wheelchairs(0.0) and(0.0) orthotics(0.0) ,(0.0) and(0.0) overcharging(1.0) for(0.0) devices(0.0) and(0.0) prescription(1.0) drugs(1.0) .(0.0) We(0.0) need(0.0) to(0.0) provide(0.0) 
+the(0.0) tools(0.0) to(0.0) strengthen(1.0) our(0.0) enforcement(1.0) mechanisms(1.0) and(0.0) fight(1.0) these(0.0) abuses(1.0) .(0.0) I(0.0) thank(0.0) leadership(0.0) for(0.0) providing(0.0) a(0.0) long(0.0) and(0.0) 
+thoughtful(0.0) examination(0.0) of(0.0) health(1.0) care(0.0) ,(0.0) one(0.0) of(0.0) the(0.0) most(0.0) pressing(0.0) issues(0.0) of(0.0) our(0.0) time(0.0) .(0.0) I(0.0) look(0.0) forward(0.0) to(0.0) 
+reading(0.0) the(0.0) bill(1.0) soon(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Ohio	Appalachian	Ohio	
+population	seniors	retirees	reform	bill	strengthens	Medicare	
+Medicare	fund	insolvent	2016	
+Medicare	seniors	Medicare	
+health	care	reform	bill	keeps	Medicare	solvent	timeline	
+waste	Medicare	seniors	fight	fraud	
+waste	Medicare	
+overcharging	prescription	drugs	
+strengthen	enforcement	mechanisms	fight	abuses	
+health	
+bill	
+
+reads % = 0.20388349514563106

@@ -1,0 +1,24 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) one(0.0) of(0.0) the(0.0) reasons(0.0) why(0.0) I(0.0) became(0.0) a(0.0) Republican(0.0) is(1.0) because(0.0) of(0.0) the(0.0) Republican(1.0) Party(1.0) 's(1.0) consistent(1.0) support(1.0) for(1.0) 
+the(1.0) military(1.0) .(1.0) Since(1.0) 2000(1.0) ,(0.0) base(1.0) military(1.0) pay(1.0) has(0.0) increased(0.0) by(1.0) 29(0.0) percent(0.0) .(0.0) Mid-grade(0.0) noncommissioned(0.0) officers(0.0) ,(0.0) who(0.0) 
+represent(0.0) the(0.0) core(0.0) experience(0.0) and(0.0) talent(0.0) in(0.0) the(0.0) Armed(0.0) Forces(0.0) ,(0.0) have(0.0) seen(0.0) their(0.0) pay(0.0) increase(0.0) an(0.0) average(0.0) of(0.0) 35(0.0) 
+percent(0.0) .(0.0) Congress(0.0) under(0.0) Republican(0.0) control(1.0) provided(1.0) $(0.0) 6(0.0) billion(1.0) for(0.0) repair(1.0) ,(1.0) maintenance(1.0) ,(0.0) and(0.0) operations(1.0) of(0.0) the(0.0) military(0.0) 
+houses(0.0) and(0.0) bases(0.0) .(0.0) Congress(0.0) increased(0.0) the(0.0) basic(0.0) allowance(0.0) for(0.0) housing(1.0) and(0.0) eliminated(0.0) servicemembers(1.0) '(0.0) out-of-pocket(0.0) housing(0.0) expenses(0.0) ,(0.0) increased(1.0) 
+family(0.0) separation(0.0) allowance(1.0) ,(0.0) and(0.0) increased(0.0) the(0.0) amount(0.0) for(0.0) imminent(1.0) danger(1.0) pay(1.0) .(0.0) I(0.0) am(0.0) proud(0.0) that(0.0) the(0.0) Republican(1.0) Party(1.0) 
+stands(1.0) for(1.0) strong(1.0) support(1.0) for(1.0) the(1.0) military(1.0) ,(0.0) and(1.0) I(0.0) am(0.0) sure(0.0) we(0.0) will(0.0) consistently(0.0) support(0.0) our(0.0) men(0.0) and(0.0) women(0.0) 
+serving(0.0) in(0.0) dangerous(1.0) places(0.0) around(0.0) the(0.0) world(0.0) and(0.0) their(0.0) families(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+is	Republican	Party	's	consistent	support	for	
+the	military	.	Since	2000	base	military	pay	by	
+
+control	provided	billion	repair	,	maintenance	operations	
+housing	servicemembers	increased	
+allowance	imminent	danger	pay	Republican	Party	
+stands	for	strong	support	for	the	military	and	
+dangerous	
+
+reads % = 0.26973684210526316

@@ -1,0 +1,18 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) if(0.0) the(0.0) gentleman(0.0) will(0.0) yield(0.0) for(0.0) a(0.0) minute(0.0) ,(0.0) there(0.0) is(0.0) an(0.0) option(0.0) .(0.0) The(0.0) option(0.0) is(0.0) something(0.0) that(0.0) 
+Senator(1.0) Dole(1.0) ,(0.0) for(0.0) instance(0.0) ,(0.0) recommended(0.0) a(0.0) couple(0.0) of(0.0) years(0.0) ago(0.0) ,(0.0) and(0.0) that(0.0) was(0.0) make(0.0) for(0.0) a(0.0) level(0.0) 
+playing(0.0) field(0.0) .(0.0) Lift(0.0) the(0.0) arms(0.0) embargo(1.0) .(0.0) Allow(0.0) the(0.0) various(0.0) factions(0.0) to(0.0) have(0.0) a(0.0) level(0.0) playing(0.0) field(0.0) and(0.0) to(0.0) 
+settle(0.0) their(0.0) own(0.0) civil(1.0) war(1.0) with(0.0) the(0.0) same(0.0) type(0.0) of(0.0) support(0.0) that(0.0) we(0.0) have(0.0) done(0.0) in(0.0) the(0.0) past(0.0) ,(0.0) logistical(1.0) 
+and(0.0) air(0.0) ,(0.0) and(0.0) yet(0.0) not(0.0) interpose(0.0) ourselves(0.0) into(0.0) the(0.0) middle(0.0) of(0.0) essentially(1.0) a(0.0) civil(1.0) war(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Senator	Dole	
+embargo	
+civil	war	logistical	
+essentially	civil	war	
+
+reads % = 0.09183673469387756

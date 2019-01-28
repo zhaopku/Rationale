@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) my(0.0) daughter(0.0) is(0.0) grown(0.0) and(0.0) she(0.0) and(0.0) her(0.0) husband(0.0) have(0.0) a(0.0) 1\1/2\-year-old(0.0) son(0.0) and(0.0) another(0.0) child(0.0) on(0.0) the(0.0) way(0.0) 
+.(0.0) The(0.0) last(0.0) time(0.0) an(0.0) official(0.0) House(0.0) committee(0.0) submitted(0.0) a(0.0) bill(0.0) to(0.0) balance(0.0) the(0.0) budget(0.0) ,(0.0) she(0.0) was(0.0) 2(0.0) .(0.0) 
+Today(0.0) ,(0.0) House(0.0) Republicans(1.0) present(1.0) the(0.0) first(0.0) honest(0.0) attempt(0.0) to(0.0) balance(0.0) the(0.0) budget(1.0) .(0.0) We(0.0) do(0.0) so(0.0) not(0.0) for(0.0) politics(1.0) 
+,(0.0) but(0.0) for(0.0) our(0.0) children(0.0) ,(0.0) my(0.0) daughter(0.0) and(0.0) son(0.0) ,(0.0) and(0.0) my(0.0) grandchildren(0.0) .(0.0) We(0.0) do(0.0) so(0.0) because(0.0) my(0.0) 
+family(0.0) ,(0.0) your(0.0) family(0.0) and(0.0) families(0.0) across(0.0) the(0.0) country(1.0) can(0.0) not(0.0) achieve(0.0) the(0.0) American(0.0) dream(0.0) if(0.0) we(0.0) do(0.0) nothing(0.0) .(0.0) 
+If(0.0) we(0.0) do(0.0) nothing(0.0) ,(0.0) we(0.0) will(0.0) pay(1.0) more(0.0) interest(0.0) on(0.0) the(0.0) debt(1.0) than(0.0) we(0.0) spend(1.0) for(0.0) defense(1.0) .(0.0) Moreover(0.0) 
+,(0.0) my(0.0) grandchildren(0.0) will(0.0) pay(1.0) more(0.0) than(0.0) $(0.0) 185,000(0.0) in(0.0) their(0.0) lifetimes(0.0) just(0.0) to(0.0) pay(1.0) interest(0.0) on(0.0) the(0.0) debt(1.0) .(0.0) 
+We(0.0) will(0.0) not(0.0) stand(0.0) by(0.0) and(0.0) watch(0.0) any(0.0) child(0.0) in(0.0) this(0.0) country(1.0) be(0.0) subject(0.0) to(0.0) that(0.0) type(0.0) of(0.0) cruelty(1.0) .(0.0) 
+Yet(0.0) the(0.0) Democrat(1.0) Party(1.0) ,(0.0) which(0.0) needlessly(1.0) frightened(1.0) children(0.0) of(0.0) the(0.0) impending(1.0) doom(1.0) of(0.0) school(1.0) lunches(1.0) is(0.0) utterly(1.0) unmoved(0.0) by(0.0) 
+the(0.0) threat(1.0) to(0.0) the(0.0) dreams(0.0) and(0.0) future(0.0) of(0.0) those(0.0) same(0.0) kids(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+Republicans	present	budget	politics	
+
+country	
+pay	debt	spend	defense	
+pay	pay	debt	
+country	cruelty	
+Democrat	Party	needlessly	frightened	impending	doom	school	lunches	utterly	
+threat	
+
+reads % = 0.12435233160621761

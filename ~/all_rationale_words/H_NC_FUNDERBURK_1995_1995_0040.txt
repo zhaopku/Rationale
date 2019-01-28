@@ -1,0 +1,38 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(1.0) ,(0.0) it(0.0) requires(1.0) the(0.0) President(1.0) to(0.0) withdraw(1.0) troops(0.0) in(0.0) any(1.0) situation(0.0) in(0.0) which(0.0) hostilities(1.0) are(0.0) possible(0.0) within(1.0) 60(0.0) days(0.0) of(0.0) 
+the(0.0) deployment(1.0) .(0.0) It(0.0) gives(1.0) the(0.0) Congress(0.0) a(0.0) legislative(1.0) veto(1.0) over(0.0) the(0.0) constitutional(1.0) prerogatives(1.0) of(0.0) the(0.0) Executive(1.0) .(0.0) This(0.0) is(0.0) 
+a(0.0) flagrant(1.0) attempt(0.0) by(0.0) the(0.0) Congress(0.0) to(0.0) exercise(0.0) the(0.0) Commander-in-Chief(1.0) authority(0.0) vested(1.0) by(0.0) the(0.0) Framers(1.0) in(0.0) the(0.0) President(1.0) .(0.0) Section(1.0) 
+5(0.0) is(0.0) also(1.0) practically(1.0) dangerous(0.0) .(0.0) It(0.0) tells(1.0) friend(0.0) and(0.0) foe(1.0) alike(0.0) that(0.0) the(0.0) President(1.0) 's(0.0) commitment(0.0) of(0.0) force(0.0) is(0.0) 
+only(0.0) good(0.0) for(0.0) 60(0.0) days(0.0) ,(0.0) after(0.0) that(0.0) American(0.0) resolve(0.0) is(0.0) left(0.0) to(0.0) the(0.0) whim(1.0) of(0.0) 535(1.0) Secretaries(1.0) of(0.0) Defense(1.0) 
+in(0.0) the(0.0) Congress(0.0) .(0.0) It(0.0) sends(0.0) a(0.0) signal(0.0) that(0.0) if(0.0) the(0.0) Congress(0.0) ca(1.0) n't(0.0) determine(1.0) the(0.0) propriety(1.0) of(0.0) the(0.0) President(1.0) 
+'s(0.0) actions(0.0) ,(0.0) this(0.0) act(0.0) automatically(0.0) assumes(1.0) that(0.0) the(0.0) President(1.0) is(0.0) wrong(0.0) and(0.0) it(0.0) works(0.0) as(0.0) a(0.0) silent(0.0) veto(1.0) over(0.0) 
+his(0.0) decision(0.0) .(0.0) Knowing(1.0) that(0.0) American(0.0) forces(1.0) will(0.0) harder(0.0) or(0.0) wait(0.0) us(0.0) out(0.0) in(0.0) order(0.0) to(0.0) gain(1.0) a(0.0) political(1.0) victory(1.0) 
+.(0.0) We(0.0) have(0.0) been(0.0) lucky(0.0) so(0.0) far(1.0) .(0.0) But(0.0) we(1.0) ca(0.0) n't(0.0) continue(0.0) to(0.0) gamble(1.0) with(0.0) American(0.0) security(0.0) .(0.0) What(0.0) 
+happens(0.0) during(0.0) a(0.0) crisis(1.0) to(0.0) a(0.0) President(1.0) who(0.0) considers(1.0) the(0.0) War(0.0) Powers(0.0) Act(0.0) unconstitutional(1.0) ?(0.0) The(0.0) President(1.0) must(0.0) either(1.0) give(0.0) 
+up(0.0) his(0.0) right(1.0) to(0.0) uphold(0.0) and(0.0) defend(1.0) the(0.0) Constitution(0.0) or(0.0) force(0.0) a(0.0) fight(0.0) with(0.0) the(0.0) Congress(0.0) at(0.0) a(0.0) moment(0.0) of(0.0) 
+maximum(0.0) danger(0.0) to(0.0) America(0.0) .(0.0) Can(1.0) we(0.0) afford(0.0) to(0.0) have(0.0) such(0.0) a(0.0) momentous(0.0) decision(0.0) left(0.0) up(0.0) to(0.0) the(0.0) unelected(1.0) justices(1.0) 
+of(0.0) the(0.0) Supreme(0.0) Court(0.0) ?(0.0) Let(1.0) 's(0.0) head(0.0) that(0.0) disaster(1.0) off(0.0) right(1.0) now(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) it(0.0) is(0.0) long(1.0) 
+past(0.0) time(0.0) to(0.0) repeal(1.0) this(0.0) dangerous(0.0) legacy(0.0) of(0.0) the(0.0) Vietnam(1.0) era(1.0) --(0.0) it(0.0) is(0.0) time(0.0) to(0.0) dispose(1.0) of(0.0) the(0.0) War(0.0) 
+Powers(0.0) Act(0.0) .(0.0) Support(1.0) the(0.0) Hyde-Dornan-Funderburk(1.0) amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+requires	President	withdraw	any	hostilities	within	
+deployment	gives	legislative	veto	constitutional	prerogatives	Executive	
+flagrant	Commander-in-Chief	vested	Framers	President	Section	
+also	practically	tells	foe	President	
+whim	535	Secretaries	Defense	
+ca	determine	propriety	President	
+assumes	President	veto	
+Knowing	forces	gain	political	victory	
+far	we	gamble	
+crisis	President	considers	unconstitutional	President	either	
+right	defend	
+Can	unelected	justices	
+Let	disaster	right	Chairman	long	
+repeal	Vietnam	era	dispose	
+Support	Hyde-Dornan-Funderburk	amendment	
+
+reads % = 0.22837370242214533

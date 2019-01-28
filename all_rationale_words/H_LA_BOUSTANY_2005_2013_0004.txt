@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Chair(0.0) ,(0.0) I(0.0) rise(0.0) to(0.0) support(0.0) this(0.0) bill(1.0) ,(0.0) and(0.0) I(0.0) certainly(0.0) appreciate(0.0) the(0.0) persistent(0.0) hard(0.0) work(0.0) and(0.0) leadership(0.0) of(0.0) 
+Chairman(0.0) Lucas(1.0) and(0.0) Ranking(0.0) Member(0.0) Peterson(1.0) ,(0.0) and(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) both(0.0) for(0.0) bringing(0.0) this(0.0) very(0.0) important(0.0) legislation(1.0) to(0.0) 
+the(0.0) floor(0.0) for(0.0) a(0.0) House(0.0) vote(1.0) .(0.0) In(0.0) 2012(0.0) ,(0.0) Louisiana(1.0) farmers(1.0) and(0.0) ranchers(1.0) produced(0.0) nearly(0.0) $(0.0) 11.4(0.0) billion(1.0) in(0.0) 
+commodities(1.0) .(0.0) It(0.0) 's(0.0) a(0.0) vital(0.0) and(0.0) growing(0.0) sector(1.0) of(0.0) our(0.0) State(1.0) 's(0.0) economy(1.0) ,(0.0) and(0.0) we(0.0) need(0.0) a(0.0) new(0.0) 
+farm(0.0) bill(0.0) now(1.0) to(0.0) provide(0.0) the(0.0) kind(0.0) of(0.0) certainty(1.0) going(0.0) forward(0.0) for(0.0) our(0.0) farmers(1.0) .(0.0) Throughout(0.0) south(0.0) Louisiana(1.0) ,(0.0) the(0.0) 
+agricultural(1.0) economy(1.0) is(0.0) the(0.0) lifeblood(1.0) of(0.0) our(0.0) rural(1.0) communities(0.0) .(0.0) This(0.0) is(0.0) a(0.0) bipartisan(1.0) bill(1.0) containing(1.0) truly(0.0) significant(1.0) reforms(1.0) ,(0.0) 
+with(0.0) savings(1.0) of(0.0) up(0.0) to(0.0) $(0.0) 40(0.0) billion(1.0) .(0.0) Given(0.0) the(0.0) immense(0.0) diversity(1.0) of(0.0) American(0.0) agriculture(1.0) ,(0.0) it(0.0) 's(0.0) important(0.0) 
+to(0.0) have(0.0) price-loss(0.0) coverage(0.0) ,(0.0) which(0.0) is(0.0) an(0.0) important(0.0) option(0.0) for(0.0) our(0.0) Southern(1.0) farmers(0.0) ,(0.0) like(0.0) our(0.0) rice(0.0) farmers(1.0) .(0.0) 
+This(0.0) is(0.0) critical(0.0) for(0.0) their(0.0) future(0.0) security(0.0) .(0.0) Additionally(0.0) ,(0.0) an(0.0) extension(0.0) of(0.0) the(0.0) U.S.(0.0) sugar(0.0) program(1.0) ensures(0.0) a(0.0) level(0.0) 
+playing(0.0) field(0.0) with(0.0) other(0.0) nations(1.0) ,(0.0) which(0.0) continue(0.0) to(0.0) heavily(0.0) subsidize(1.0) their(0.0) sugar(0.0) industry(1.0) with(0.0) unfair(1.0) trade(1.0) practices(1.0) .(0.0) I(0.0) 
+strongly(0.0) urge(1.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) this(0.0) bill(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+bill	
+Lucas	Peterson	legislation	
+vote	Louisiana	farmers	ranchers	billion	
+commodities	sector	State	economy	
+now	certainty	farmers	Louisiana	
+agricultural	economy	lifeblood	rural	bipartisan	bill	containing	significant	reforms	
+savings	billion	diversity	agriculture	
+Southern	farmers	
+program	
+nations	subsidize	industry	unfair	trade	practices	
+urge	bill	
+
+reads % = 0.19523809523809524

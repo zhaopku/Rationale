@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) may(0.0) have(0.0) a(0.0) bruised(0.0) eye(0.0) but(0.0) it(0.0) is(0.0) nothing(0.0) compared(0.0) to(0.0) the(0.0) bruises(0.0) the(0.0) American(0.0) people(0.0) and(0.0) our(0.0) 
+Federal(1.0) workers(1.0) are(0.0) taking(0.0) from(0.0) this(0.0) Republican(1.0) Congress(1.0) .(1.0) I(0.0) rise(1.0) today(1.0) on(1.0) behalf(1.0) of(0.0) the(0.0) employees(0.0) and(0.0) patients(0.0) of(0.0) 
+the(0.0) Bronx(1.0) Veterans(1.0) Affairs(0.0) Medical(0.0) Center(0.0) and(0.0) the(0.0) hundreds(0.0) of(0.0) thousands(0.0) of(0.0) Federal(0.0) employees(0.0) who(0.0) are(0.0) stuck(0.0) in(0.0) the(0.0) middle(0.0) 
+of(0.0) this(0.0) budget(0.0) debate(1.0) .(0.0) Here(0.0) is(0.0) a(0.0) copy(0.0) of(0.0) a(0.0) check(0.0) for(0.0) $(0.0) 1.51(0.0) ,(0.0) which(0.0) is(0.0) what(0.0) one(0.0) 
+worker(0.0) at(0.0) the(0.0) Bronx(1.0) VA(0.0) Hospital(0.0) Center(0.0) received(0.0) when(0.0) she(0.0) opened(0.0) her(0.0) paycheck(0.0) in(0.0) my(0.0) district(0.0) last(0.0) Friday(0.0) ,(0.0) $(0.0) 
+1.51(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) .(0.0) In(0.0) New(1.0) York(1.0) City(1.0) that(0.0) can(0.0) get(0.0) you(0.0) this(0.0) :(0.0) One(0.0) transit(1.0) token(0.0) to(0.0) get(0.0) 
+home(0.0) from(0.0) work(0.0) ,(0.0) and(0.0) one(0.0) penny(1.0) extra(0.0) to(0.0) spend(1.0) in(0.0) any(0.0) way(0.0) you(0.0) see(0.0) fit(0.0) .(0.0) And(0.0) if(0.0) you(0.0) 
+live(0.0) in(0.0) Co-op(1.0) City(0.0) as(0.0) I(0.0) do(0.0) ,(0.0) it(0.0) will(0.0) not(0.0) even(0.0) get(0.0) you(0.0) home(0.0) ,(0.0) because(0.0) Co-op(0.0) City(1.0) is(0.0) 
+a(0.0) two-fare(0.0) zone(0.0) .(0.0) The(0.0) staff(0.0) of(0.0) the(0.0) Bronx(1.0) VA(0.0) Hospital(0.0) has(0.0) begun(0.0) soliciting(0.0) food(1.0) donations(0.0) to(0.0) distribute(0.0) to(0.0) the(0.0) 
+staff(0.0) because(0.0) the(0.0) workers(1.0) can(0.0) not(0.0) afford(0.0) to(0.0) buy(0.0) food(0.0) .(0.0) It(0.0) is(0.0) an(0.0) outrage(1.0) that(0.0) those(0.0) who(0.0) can(0.0) care(0.0) 
+for(0.0) our(0.0) veterans(1.0) have(0.0) to(0.0) go(0.0) hat(0.0) in(0.0) hand(0.0) to(0.0) beg(0.0) for(0.0) food(1.0) .(0.0) I(0.0) call(0.0) upon(0.0) you(0.0) Republican(0.0) colleagues(1.0) 
+to(1.0) stop(1.0) shutting(1.0) the(1.0) Government(1.0) down(1.0) .(1.0) Think(1.0) of(1.0) people(1.0) who(1.0) live(1.0) from(1.0) paycheck(1.0) to(1.0) paycheck(1.0) .(1.0) 
+
+
+----- below are rationale words -----
+
+
+Federal	workers	Republican	Congress	.	rise	today	on	behalf	
+Bronx	Veterans	
+debate	
+Bronx	
+Speaker	New	York	City	transit	
+penny	spend	
+Co-op	City	
+Bronx	food	
+workers	outrage	
+veterans	food	colleagues	
+to	stop	shutting	the	Government	down	.	Think	of	people	who	live	from	paycheck	to	paycheck	.	
+
+reads % = 0.19327731092436976

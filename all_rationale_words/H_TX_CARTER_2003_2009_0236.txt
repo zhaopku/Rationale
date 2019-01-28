@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) see(0.0) my(0.0) friend(0.0) Louis(0.0) Gohmert(1.0) from(1.0) Texas(0.0) is(0.0) here(0.0) ,(0.0) and(0.0) I'm(0.0) going(0.0) to(0.0) yield(0.0) to(0.0) him(0.0) in(0.0) just(0.0) a(0.0) 
+moment(0.0) .(0.0) But(0.0) that(0.0) kind(0.0) of(0.0) reminds(0.0) me(0.0) of(0.0) ``(0.0) Animal(0.0) Farm(0.0) ,(0.0) ''(0.0) you(0.0) know(0.0) .(0.0) They(0.0) would(0.0) say(0.0) 
+the(0.0) rule(1.0) is(0.0) this(0.0) ,(0.0) and(0.0) the(0.0) next(0.0) day(0.0) they(0.0) would(0.0) say(0.0) ,(0.0) Oh(0.0) ,(0.0) that(0.0) 's(0.0) not(0.0) what(0.0) the(0.0) 
+rule(1.0) is(0.0) .(0.0) The(0.0) rule(1.0) is(0.0) this(0.0) .(0.0) Finally(0.0) ,(0.0) they(0.0) said(0.0) ,(0.0) We(0.0) 're(0.0) going(0.0) to(0.0) write(0.0) them(0.0) on(0.0) 
+the(0.0) wall(0.0) of(0.0) the(0.0) barn(0.0) .(0.0) So(0.0) every(0.0) night(0.0) they(0.0) wrote(0.0) the(0.0) rules(1.0) on(0.0) the(0.0) wall(0.0) ,(0.0) and(0.0) then(0.0) when(0.0) 
+they(0.0) woke(0.0) up(0.0) the(0.0) next(0.0) morning(0.0) ,(0.0) somebody(0.0) had(0.0) gone(0.0) and(0.0) erased(0.0) the(0.0) rules(1.0) and(0.0) added(0.0) new(0.0) rules(1.0) .(0.0) See(0.0) 
+,(0.0) there(0.0) is(0.0) a(0.0) reason(0.0) why(0.0) this(0.0) body(0.0) has(0.0) the(0.0) rules(1.0) that(0.0) it(0.0) has(0.0) ,(0.0) so(0.0) that(0.0) we(0.0) and(0.0) the(0.0) 
+American(0.0) people(0.0) can(0.0) be(0.0) educated(0.0) about(0.0) what(0.0) we(0.0) 're(0.0) doing(0.0) .(0.0) And(0.0) concepts(0.0) ,(0.0) that(0.0) just(0.0) does(0.0) n't(0.0) get(0.0) it(0.0) 
+done(0.0) .(0.0) I(0.0) yield(0.0) whatever(0.0) time(0.0) Mr.(0.0) Gohmert(1.0) would(1.0) like(1.0) to(0.0) have(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Gohmert	from	
+
+rule	
+rule	rule	
+rules	
+rules	rules	
+rules	
+
+Gohmert	would	like	
+
+reads % = 0.06896551724137931

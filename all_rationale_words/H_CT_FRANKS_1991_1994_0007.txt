@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) do(0.0) we(0.0) have(0.0) a(0.0) true(0.0) color(0.0) blind(0.0) society(1.0) ?(0.0) No(0.0) .(0.0) But(0.0) should(0.0) we(0.0) work(0.0) toward(0.0) that(0.0) objective(0.0) ?(0.0) 
+Yes(0.0) .(0.0) The(0.0) MCCollum(0.0) amendment(1.0) ,(0.0) the(0.0) Equal(1.0) Justice(0.0) Act(1.0) ,(0.0) safeguards(1.0) against(0.0) racial(1.0) discrimination(1.0) in(0.0) sentencing(1.0) and(0.0) forbids(1.0) racial(1.0) 
+quotas(1.0) for(0.0) the(0.0) death(1.0) penalty(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) yes(0.0) ,(0.0) there(0.0) are(0.0) a(0.0) disproportionate(1.0) number(0.0) of(0.0) minorities(1.0) in(0.0) our(0.0) 
+prison(1.0) system(1.0) .(0.0) I(0.0) believe(0.0) a(0.0) strong(0.0) family(0.0) unit(0.0) ,(0.0) education(1.0) and(0.0) a(0.0) sense(0.0) of(0.0) hope(0.0) will(0.0) help(0.0) correct(0.0) this(0.0) 
+imbalance(1.0) .(0.0) Establishing(0.0) quotas(1.0) for(0.0) the(0.0) death(1.0) penalty(1.0) is(0.0) not(0.0) the(0.0) answer(0.0) .(0.0) What(0.0) do(0.0) we(0.0) tell(0.0) that(0.0) mother(0.0) whose(0.0) 
+child(0.0) was(0.0) murdered(0.0) ,(0.0) Mr.(0.0) Chairman(1.0) ?(1.0) ``(1.0) I(0.0) am(0.0) sorry(0.0) ,(0.0) Mrs.(0.0) Jones(1.0) ,(0.0) if(0.0) a(0.0) white(0.0) man(0.0) had(0.0) 
+been(0.0) accused(0.0) of(0.0) killing(1.0) your(0.0) daughter(0.0) ,(0.0) he(0.0) would(0.0) be(0.0) subject(0.0) to(0.0) the(0.0) death(1.0) penalty(1.0) .(0.0) But(0.0) a(0.0) black(0.0) man(0.0) 
+was(0.0) charged(0.0) with(0.0) the(0.0) murder(1.0) and(0.0) because(0.0) there(0.0) are(0.0) too(0.0) many(0.0) blacks(1.0) on(0.0) death(0.0) row(0.0) ,(0.0) it(0.0) would(0.0) be(0.0) difficult(0.0) 
+to(0.0) give(0.0) him(0.0) the(0.0) death(1.0) penalty(1.0) if(0.0) convicted(1.0) .(0.0) How(0.0) ludicrous(1.0) .(0.0) Such(0.0) actions(0.0) only(0.0) create(0.0) greater(0.0) racial(1.0) animosity(1.0) .(0.0) 
+We(0.0) do(0.0) not(0.0) correct(0.0) social(1.0) problems(0.0) by(0.0) constantly(0.0) defining(1.0) its(0.0) remedy(1.0) in(0.0) terms(0.0) of(0.0) black(1.0) and(0.0) white(0.0) .(0.0) I(0.0) encourage(0.0) 
+my(0.0) colleagues(0.0) to(0.0) support(0.0) the(0.0) Equal(1.0) Justice(1.0) Act(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+society	
+amendment	Equal	Act	safeguards	racial	discrimination	sentencing	forbids	racial	
+quotas	death	penalty	Chairman	disproportionate	minorities	
+prison	system	education	
+imbalance	quotas	death	penalty	
+Chairman	?	``	Jones	
+killing	death	penalty	
+murder	blacks	
+death	penalty	convicted	ludicrous	racial	animosity	
+social	defining	remedy	black	
+Equal	Justice	
+
+reads % = 0.20952380952380953

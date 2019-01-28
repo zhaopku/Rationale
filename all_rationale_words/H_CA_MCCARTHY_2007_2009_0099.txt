@@ -1,0 +1,10 @@
+This is from a Republican
+----- below is the original text -----
+So(0.0) should(0.0) I(0.0) assume(0.0) by(0.0) the(0.0) end(0.0) of(0.0) October(0.0) ,(0.0) or(0.0) am(0.0) I(0.0) missing(0.0) something(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+reads % = 0.0

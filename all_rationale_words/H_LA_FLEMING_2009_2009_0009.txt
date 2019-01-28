@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) last(0.0) week(0.0) ,(0.0) the(0.0) Pilgrim(1.0) 's(0.0) Pride(0.0) Poultry(0.0) Company(0.0) announced(0.0) the(0.0) closing(0.0) of(0.0) three(0.0) chicken(0.0) processing(0.0) operations(0.0) throughout(0.0) the(0.0) 
+southeastern(0.0) United(0.0) States(0.0) .(0.0) In(0.0) and(0.0) around(0.0) my(0.0) district(0.0) in(0.0) North(1.0) Louisiana(0.0) ,(0.0) 1,300(0.0) jobs(0.0) were(0.0) lost(0.0) .(0.0) It(0.0) is(0.0) 
+important(0.0) for(0.0) the(0.0) American(0.0) public(1.0) to(0.0) know(0.0) why(0.0) and(0.0) how(0.0) these(0.0) jobs(0.0) were(0.0) lost(0.0) .(0.0) In(0.0) addition(0.0) to(0.0) the(0.0) decline(1.0) 
+in(0.0) consumer(1.0) protein(0.0) demand(1.0) ,(0.0) Pilgrim(0.0) 's(0.0) Pride(0.0) was(0.0) most(0.0) affected(0.0) by(0.0) high(0.0) feed(0.0) prices(1.0) causing(0.0) a(0.0) loss(0.0) in(0.0) the(0.0) 
+last(0.0) year(0.0) of(0.0) over(0.0) $(0.0) 1(0.0) billion(1.0) ,(0.0) forcing(1.0) them(0.0) into(0.0) bankruptcy(1.0) .(0.0) The(0.0) main(0.0) cause(0.0) of(0.0) these(0.0) high(0.0) prices(1.0) 
+was(0.0) Federal(1.0) mandates(1.0) to(0.0) increase(1.0) the(0.0) use(0.0) of(0.0) ethanol(1.0) .(0.0) This(0.0) large(0.0) spike(0.0) in(0.0) corn(1.0) prices(1.0) is(0.0) being(0.0) felt(0.0) throughout(0.0) 
+the(0.0) country(1.0) by(0.0) consumers(1.0) and(0.0) producers(1.0) alike(0.0) .(0.0) Is(0.0) this(0.0) a(0.0) foreshadowing(0.0) of(0.0) more(0.0) disasters(1.0) to(0.0) come(0.0) because(0.0) of(0.0) the(0.0) 
+governmental(1.0) manipulation(1.0) of(0.0) the(0.0) energy(1.0) markets(1.0) ?(0.0) Just(0.0) like(0.0) the(0.0) mortgage(1.0) debacle(1.0) ,(0.0) governmental(1.0) meddling(1.0) in(0.0) markets(1.0) continues(1.0) hurting(1.0) the(0.0) 
+working(0.0) family(0.0) ,(0.0) both(0.0) directly(0.0) and(0.0) indirectly(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Pilgrim	
+North	
+public	decline	
+consumer	demand	prices	
+billion	forcing	bankruptcy	prices	
+Federal	mandates	increase	ethanol	corn	prices	
+country	consumers	producers	disasters	
+governmental	manipulation	energy	markets	mortgage	debacle	governmental	meddling	markets	continues	hurting	
+indirectly	
+
+reads % = 0.1952662721893491

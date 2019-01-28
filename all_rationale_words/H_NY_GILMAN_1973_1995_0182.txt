@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) ask(0.0) unanimous(1.0) consent(0.0) that(0.0) all(0.0) debate(1.0) on(0.0) this(0.0) amendment(1.0) and(0.0) all(0.0) amendments(1.0) thereto(1.0) be(0.0) limited(0.0) to(0.0) 30(0.0) minutes(0.0) 
+,(0.0) to(0.0) be(0.0) equally(0.0) divided(0.0) and(0.0) controlled(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) Illinois(1.0) [(0.0) Mr.(0.0) Hyde(1.0) ](0.0) and(1.0) the(0.0) gentleman(0.0) from(0.0) 
+Indiana(0.0) [(0.0) Mr.(0.0) Hamilton(1.0) ](0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+unanimous	debate	amendment	amendments	thereto	
+Illinois	Hyde	and	
+Hamilton	
+
+reads % = 0.19148936170212766

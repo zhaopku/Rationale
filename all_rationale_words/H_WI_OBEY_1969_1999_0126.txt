@@ -1,0 +1,20 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) could(0.0) I(0.0) simply(0.0) ask(0.0) the(0.0) gentleman(0.0) ,(0.0) if(0.0) there(0.0) is(0.0) a(0.0) breakthrough(0.0) which(0.0) would(0.0) enable(0.0) the(0.0) bill(1.0) to(0.0) pass(0.0) 
+,(0.0) God(0.0) help(0.0) us(0.0) given(0.0) some(0.0) of(0.0) the(0.0) provisions(1.0) that(0.0) are(0.0) now(0.0) in(0.0) it(0.0) ,(0.0) but(0.0) if(0.0) it(0.0) does(0.0) nonetheless(0.0) 
+pass(0.0) ,(0.0) so(0.0) be(0.0) it(0.0) ,(0.0) but(0.0) could(0.0) I(0.0) also(0.0) ask(0.0) the(0.0) gentleman(0.0) to(0.0) entertain(0.0) the(0.0) possibility(0.0) of(0.0) also(0.0) ,(0.0) 
+as(0.0) a(0.0) backup(0.0) ,(0.0) preparing(0.0) a(0.0) stripped-down(0.0) bill(1.0) so(0.0) that(0.0) if(0.0) this(0.0) does(0.0) not(0.0) go(0.0) anywhere(0.0) that(0.0) we(0.0) ,(0.0) in(0.0) 
+fact(0.0) ,(0.0) have(0.0) something(0.0) for(0.0) Members(0.0) to(0.0) vote(1.0) on(0.0) tomorrow(0.0) if(0.0) they(0.0) are(0.0) going(0.0) to(0.0) be(0.0) here(0.0) ,(0.0) something(0.0) which(0.0) 
+will(0.0) not(0.0) get(0.0) jammed(0.0) up(0.0) in(0.0) a(0.0) filibuster(1.0) in(0.0) the(0.0) Senate(1.0) ?(1.0) 
+
+
+----- below are rationale words -----
+
+bill	
+provisions	
+
+bill	
+vote	
+filibuster	Senate	?	
+
+reads % = 0.061946902654867256

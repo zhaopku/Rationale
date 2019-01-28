@@ -1,0 +1,18 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) appreciate(0.0) the(0.0) gentleman(0.0) from(0.0) Massachusetts(1.0) comments(0.0) and(0.0) certainly(0.0) share(0.0) his(0.0) concern(0.0) about(0.0) the(0.0) need(0.0) to(0.0) deal(0.0) with(0.0) world(0.0) 
+hunger(1.0) problems(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) 3(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Indiana(1.0) ((0.0) Mr.(0.0) Pence(1.0) )(0.0) ,(0.0) 
+a(0.0) gentleman(0.0) who(0.0) represents(0.0) a(0.0) group(0.0) of(0.0) people(0.0) who(0.0) are(0.0) doing(0.0) their(0.0) own(0.0) part(0.0) to(0.0) fight(0.0) that(0.0) .(0.0) He(0.0) represents(0.0) 
+the(0.0) breadbasket(1.0) of(0.0) the(0.0) world(0.0) .(0.0) ((0.0) Mr.(0.0) PENCE(1.0) asked(0.0) and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) 
+.(0.0) )(0.0) 
+
+
+----- below are rationale words -----
+
+Massachusetts	
+hunger	Speaker	Indiana	Pence	
+
+breadbasket	PENCE	
+
+
+reads % = 0.08433734939759036

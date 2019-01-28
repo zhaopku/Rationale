@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(1.0) ,(0.0) I(0.0) want(1.0) to(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Illinois(1.0) ((0.0) Chairman(1.0) Porter(1.0) )(0.0) for(0.0) the(0.0) opportunity(0.0) to(0.0) speak(0.0) in(0.0) favor(1.0) 
+of(0.0) this(0.0) bill(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Wisconsin(1.0) ((0.0) Mr.(0.0) Obey(1.0) )(0.0) said(1.0) earlier(0.0) that(0.0) we(0.0) have(0.0) 
+this(0.0) tax(1.0) cut(1.0) and(0.0) if(0.0) we(0.0) did(0.0) not(1.0) have(0.0) this(0.0) tax(1.0) cut(1.0) we(0.0) could(1.0) spend(1.0) more(0.0) money(1.0) on(0.0) education(1.0) .(0.0) 
+Well(0.0) ,(0.0) there(0.0) is(0.0) a(0.0) difference(0.0) in(0.0) philosophy(0.0) here(0.0) .(0.0) We(0.0) have(0.0) overpaid(1.0) the(0.0) cost(0.0) of(0.0) government(1.0) .(0.0) I(0.0) do(0.0) 
+believe(1.0) that(0.0) the(0.0) taxpayers(1.0) deserve(0.0) a(0.0) break(0.0) .(0.0) We(0.0) could(0.0) spend(1.0) more(0.0) ,(0.0) but(0.0) let(0.0) us(0.0) look(0.0) at(0.0) what(1.0) is(0.0) 
+included(0.0) in(0.0) this(0.0) bill(0.0) .(0.0) In(0.0) this(0.0) bill(0.0) ,(0.0) we(0.0) have(0.0) an(0.0) overall(0.0) increase(1.0) of(0.0) 7.6(0.0) percent(1.0) .(0.0) That(0.0) exceeds(1.0) 
+inflation(0.0) .(0.0) But(0.0) a(0.0) portion(0.0) of(0.0) this(0.0) is(0.0) mandatory(0.0) ,(0.0) and(0.0) we(0.0) have(0.0) to(0.0) increase(0.0) it(0.0) a(0.0) certain(1.0) amount(0.0) .(0.0) 
+But(0.0) if(0.0) we(0.0) look(0.0) at(0.0) the(0.0) discretionary(1.0) portion(0.0) that(0.0) we(0.0) have(0.0) the(0.0) opportunity(0.0) to(0.0) either(1.0) increase(1.0) or(1.0) decrease(0.0) ,(0.0) the(0.0) 
+discretionary(1.0) portion(0.0) is(0.0) increasing(0.0) nearly(0.0) 15(0.0) percent(1.0) .(0.0) Pell(1.0) Grants(1.0) ,(0.0) for(0.0) example(0.0) ,(0.0) are(0.0) going(0.0) from(0.0) $(0.0) 2,300(1.0) in(0.0) 
+1994(0.0) to(0.0) $(0.0) 3,500(0.0) in(0.0) this(0.0) bill(0.0) .(0.0) It(0.0) is(0.0) over(0.0) a(0.0) 50-percent(1.0) increase(0.0) since(0.0) 1994(0.0) .(0.0) We(0.0) are(0.0) doing(0.0) 
+some(0.0) wonderful(0.0) things(0.0) in(0.0) this(0.0) bill(0.0) .(0.0) I(0.0) think(1.0) the(0.0) body(0.0) ought(1.0) to(0.0) take(0.0) that(0.0) into(0.0) consideration(0.0) .(0.0) The(0.0) priorities(1.0) 
+may(0.0) be(0.0) different(1.0) ,(0.0) but(0.0) it(0.0) is(0.0) a(0.0) good(0.0) bill(0.0) and(0.0) I(0.0) urge(1.0) its(0.0) passage(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+want	Illinois	Chairman	Porter	favor	
+Chairman	Wisconsin	Obey	said	
+tax	cut	not	tax	cut	could	spend	money	education	
+overpaid	government	
+believe	taxpayers	spend	what	
+increase	percent	exceeds	
+certain	
+discretionary	either	increase	or	
+discretionary	percent	Pell	Grants	2,300	
+50-percent	
+think	ought	priorities	
+different	urge	
+
+reads % = 0.18143459915611815

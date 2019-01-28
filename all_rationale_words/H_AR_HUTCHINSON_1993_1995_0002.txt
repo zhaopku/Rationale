@@ -1,0 +1,24 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) here(0.0) is(0.0) a(0.0) list(0.0) of(0.0) good(0.0) reasons(1.0) why(0.0) the(0.0) line-item(1.0) veto(1.0) must(0.0) be(0.0) passed(0.0) :(1.0) A(0.0) $(0.0) 58(0.0) million(0.0) 
+bailout(1.0) of(0.0) George(0.0) Steinbrenner(1.0) 's(0.0) shipbuilding(1.0) company(1.0) ;(0.0) $(0.0) 15(0.0) million(0.0) for(0.0) never-authorized(1.0) courthouses(1.0) which(0.0) were(0.0) opposed(1.0) by(0.0) the(0.0) Federal(1.0) 
+judges(0.0) whom(1.0) they(0.0) were(0.0) built(0.0) for(0.0) ;(0.0) $(0.0) 11.5(1.0) million(0.0) to(0.0) upgrade(0.0) a(0.0) powerplant(1.0) for(0.0) the(0.0) soon-to-be-closed(1.0) Philadelphia(1.0) Naval(1.0) Shipyard(1.0) 
+;(0.0) and(0.0) $(0.0) 35(0.0) million(0.0) to(0.0) eradicate(0.0) screwworms(1.0) in(0.0) Mexico(1.0) .(0.0) It(0.0) is(0.0) time(0.0) to(0.0) end(0.0) the(0.0) spending(1.0) sprees(1.0) and(0.0) 
+get(0.0) off(0.0) the(0.0) pork-barrel(1.0) merry-go-round(1.0) .(0.0) The(0.0) American(0.0) people(0.0) are(0.0) watching(0.0) and(0.0) they(0.0) are(0.0) demanding(1.0) greater(0.0) accountability(1.0) in(0.0) the(0.0) budget(0.0) 
+process(1.0) .(0.0) We(0.0) should(0.0) pass(1.0) the(0.0) line-(1.0) item(0.0) veto(1.0) with(0.0) the(0.0) same(1.0) bipartisan(0.0) majorities(1.0) that(0.0) the(0.0) unfunded(1.0) mandates(1.0) and(0.0) the(0.0) 
+balanced(1.0) budget(0.0) amendment(1.0) had(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) the(0.0) line-item(1.0) veto(1.0) is(0.0) a(0.0) no-brainer(1.0) .(0.0) We(0.0) need(0.0) it(0.0) ;(0.0) the(0.0) 
+American(0.0) people(0.0) want(1.0) it(0.0) .(0.0) And(0.0) we(0.0) should(0.0) act(0.0) now(0.0) to(0.0) restore(0.0) sanity(1.0) and(0.0) accountability(1.0) to(0.0) Federal(1.0) spending(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+reasons	line-item	veto	:	
+bailout	Steinbrenner	shipbuilding	company	never-authorized	courthouses	opposed	Federal	
+whom	11.5	powerplant	soon-to-be-closed	Philadelphia	Naval	Shipyard	
+screwworms	Mexico	spending	sprees	
+pork-barrel	merry-go-round	demanding	accountability	
+process	pass	line-	veto	same	majorities	unfunded	mandates	
+balanced	amendment	Speaker	line-item	veto	no-brainer	
+want	sanity	accountability	Federal	spending	
+
+reads % = 0.2875

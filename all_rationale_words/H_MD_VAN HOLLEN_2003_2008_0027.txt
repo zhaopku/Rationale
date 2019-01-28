@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) support(0.0) of(0.0) this(0.0) bill(1.0) to(1.0) recognize(0.0) the(0.0) roles(0.0) and(0.0) contributions(0.0) of(0.0) America(0.0) 's(0.0) teachers(0.0) to(0.0) 
+building(0.0) and(0.0) enhancing(0.0) our(0.0) Nation(1.0) 's(0.0) civic(1.0) ,(0.0) cultural(1.0) ,(0.0) and(0.0) economic(1.0) well-being(1.0) .(0.0) It(0.0) is(0.0) clear(0.0) that(0.0) we(0.0) can(0.0) 
+not(0.0) improve(0.0) schools(1.0) or(0.0) ensure(0.0) student(0.0) success(0.0) without(0.0) good(0.0) teachers(0.0) .(0.0) We(0.0) know(0.0) that(0.0) an(0.0) engaged(0.0) teacher(0.0) can(0.0) be(0.0) the(0.0) 
+difference(0.0) between(0.0) kids(0.0) getting(0.0) ahead(0.0) and(0.0) falling(0.0) behind(0.0) .(0.0) And(0.0) I(0.0) 'm(0.0) sure(0.0) we(0.0) can(0.0) all(0.0) remember(0.0) a(0.0) teacher(0.0) who(0.0) 
+provided(0.0) guidance(0.0) or(0.0) sparked(0.0) interest(0.0) in(0.0) a(0.0) new(0.0) subject(0.0) .(0.0) Today(0.0) 's(0.0) bill(1.0) recognizes(1.0) teachers(0.0) ,(0.0) but(0.0) they(0.0) deserve(1.0) more(0.0) 
+than(0.0) recognition(0.0) .(0.0) We(0.0) have(0.0) to(0.0) make(0.0) sure(0.0) we(0.0) are(0.0) taking(0.0) tangible(0.0) steps(0.0) to(0.0) assist(0.0) them(0.0) .(0.0) And(0.0) that(0.0) means(0.0) 
+funding(1.0) for(0.0) our(0.0) schools(1.0) ,(0.0) high(1.0) quality(0.0) training(0.0) ,(0.0) and(0.0) fair(1.0) pay(1.0) .(0.0) It(0.0) means(0.0) making(0.0) sure(0.0) that(0.0) every(0.0) teacher(0.0) 
+is(0.0) prepared(0.0) to(0.0) walk(0.0) into(0.0) the(0.0) classroom(0.0) and(0.0) every(0.0) teacher(0.0) has(0.0) support(0.0) through(0.0) the(0.0) school(0.0) day(0.0) .(0.0) We(0.0) trust(0.0) our(0.0) 
+Nation(1.0) 's(0.0) teachers(0.0) with(0.0) our(0.0) most(0.0) important(0.0) task(0.0) --(0.0) caring(0.0) for(0.0) and(0.0) educating(1.0) our(0.0) children(0.0) .(0.0) We(0.0) need(0.0) to(0.0) honor(0.0) 
+their(0.0) commitment(1.0) and(0.0) support(0.0) that(0.0) mission(1.0) .(0.0) Ms.(0.0) JACKSON-LEE(0.0) of(0.0) Texas(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) strong(0.0) 
+support(0.0) of(0.0) H.(0.0) Res(1.0) .(0.0) 1130(0.0) ``(0.0) Recognizing(0.0) the(0.0) roles(0.0) and(0.0) contributions(0.0) of(0.0) America's(0.0) teachers(0.0) to(0.0) building(0.0) and(0.0) enhancing(0.0) our(0.0) 
+Nation(1.0) 's(0.0) civic(1.0) ,(0.0) cultural(1.0) ,(0.0) and(0.0) economic(1.0) well(0.0) being(0.0) ,(0.0) ''(0.0) introduced(0.0) by(0.0) my(0.0) distinguished(0.0) colleague(0.0) from(0.0) Missouri(1.0) ,(0.0) 
+Representative(1.0) ,(0.0) Sam(0.0) Graves(1.0) .(0.0) This(0.0) important(0.0) legislation(0.0) illustrates(1.0) a(0.0) Nation(0.0) 's(0.0) commitment(0.0) to(0.0) recognize(0.0) the(0.0) work(0.0) and(0.0) fortitude(0.0) of(0.0) 
+America(0.0) 's(0.0) teachers(0.0) .(0.0) It(0.0) is(0.0) the(0.0) teacher(0.0) 's(0.0) remarkable(0.0) dedication(0.0) to(0.0) our(0.0) students(0.0) and(0.0) their(0.0) tireless(1.0) efforts(0.0) in(0.0) support(0.0) 
+of(0.0) education(1.0) .(0.0) These(0.0) hard(0.0) workers(1.0) deserve(1.0) the(0.0) care(1.0) ,(0.0) the(0.0) admiration(0.0) ,(0.0) and(0.0) the(0.0) benefits(1.0) they(0.0) have(0.0) earned(0.0) through(0.0) 
+their(0.0) honorable(1.0) service(0.0) .(0.0) From(0.0) the(0.0) beginning(0.0) ,(0.0) our(0.0) Nation(1.0) has(0.0) recognized(0.0) the(0.0) importance(0.0) of(0.0) education(1.0) and(0.0) has(0.0) always(0.0) taken(0.0) 
+a(0.0) leading(0.0) role(0.0) in(0.0) its(0.0) development(0.0) .(0.0) Teachers(1.0) provide(0.0) an(0.0) education(1.0) that(0.0) represents(0.0) mankind(0.0) 's(0.0) potential(0.0) to(0.0) turn(0.0) distant(0.0) dreams(0.0) 
+into(0.0) a(0.0) practical(0.0) reality(0.0) .(0.0) The(0.0) expansion(1.0) of(0.0) our(0.0) horizons(0.0) has(0.0) been(0.0) essential(0.0) for(0.0) reasons(0.0) beyond(0.0) the(0.0) advances(1.0) it(0.0) may(0.0) 
+provide(0.0) .(0.0) An(0.0) education(1.0) is(0.0) a(0.0) symbol(0.0) of(0.0) upward(0.0) mobility(1.0) and(0.0) privileged(0.0) wisdom(0.0) .(0.0) It(0.0) is(0.0) the(0.0) foundation(1.0) in(0.0) which(0.0) 
+we(0.0) generate(1.0) innovative(0.0) technology(0.0) ,(0.0) methods(0.0) and(0.0) ideas(0.0) that(0.0) are(0.0) used(0.0) for(0.0) the(0.0) advancement(1.0) of(0.0) society(1.0) .(0.0) A(0.0) higher(0.0) education(1.0) 
+is(0.0) vital(0.0) .(0.0) As(0.0) we(0.0) progress(0.0) in(0.0) technology(0.0) and(0.0) other(0.0) critical(0.0) advancements(1.0) ,(0.0) there(0.0) is(0.0) a(0.0) continuing(0.0) shift(0.0) from(0.0) blue-(0.0) 
+collar(0.0) to(0.0) white-collar(1.0) occupations(0.0) ;(0.0) the(0.0) number(0.0) of(0.0) available(0.0) traditional(0.0) jobs(0.0) decline(0.0) and(0.0) new(0.0) jobs(0.0) demand(0.0) greater(0.0) sophistication(0.0) ,(0.0) expertise(0.0) 
+,(0.0) and(0.0) an(0.0) advanced(0.0) degree(0.0) .(0.0) Teachers(0.0) are(0.0) the(0.0) catalyst(1.0) to(0.0) the(0.0) quality(0.0) of(0.0) life(0.0) and(0.0) the(0.0) gatekeepers(1.0) to(0.0) extensive(0.0) 
+knowledge(0.0) .(0.0) An(0.0) instructor(0.0) 's(0.0) dedication(0.0) to(0.0) educating(1.0) and(0.0) conveying(0.0) knowledge(0.0) is(0.0) significant(0.0) to(0.0) the(0.0) foundation(0.0) of(0.0) America's(0.0) present(0.0) and(0.0) 
+potential(0.0) strength(0.0) .(0.0) Horace(0.0) Mann(1.0) ,(0.0) a(0.0) well-renowned(0.0) politician(0.0) and(0.0) educator(1.0) ,(0.0) articulated(1.0) the(0.0) goals(0.0) of(0.0) public(1.0) schools(1.0) in(0.0) 
+
+
+----- below are rationale words -----
+
+bill	to	
+Nation	civic	cultural	economic	well-being	
+schools	
+
+bill	recognizes	deserve	
+
+funding	schools	high	fair	pay	
+
+Nation	educating	
+commitment	mission	Speaker	
+Res	
+Nation	civic	cultural	economic	Missouri	
+Representative	Graves	illustrates	
+tireless	
+education	workers	deserve	care	benefits	
+honorable	Nation	education	
+Teachers	education	
+expansion	advances	
+education	mobility	foundation	
+generate	advancement	society	education	
+advancements	
+white-collar	
+catalyst	gatekeepers	
+educating	
+Mann	educator	articulated	public	schools	
+
+reads % = 0.12

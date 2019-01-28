@@ -1,0 +1,38 @@
+This is from a Republican
+----- below is the original text -----
+Res(0.0) .(0.0) 107(0.0) of(0.0) which(0.0) I(0.0) am(0.0) an(0.0) original(0.0) cosponsor(1.0) .(0.0) I(0.0) also(0.0) want(0.0) to(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Arizona(0.0) ((0.0) 
+Mr.(0.0) Hayworth(1.0) )(0.0) ,(0.0) for(0.0) his(0.0) leadership(0.0) on(0.0) this(0.0) matter(0.0) .(0.0) Contrary(0.0) to(0.0) the(0.0) belief(0.0) of(0.0) many(0.0) ,(0.0) the(0.0) administration(1.0) 
+is(0.0) actually(0.0) considering(0.0) using(0.0) taxpayer(1.0) dollars(1.0) to(0.0) pay(1.0) a(0.0) court(0.0) ordered(0.0) fine(0.0) .(0.0) A(0.0) fine(0.0) that(0.0) resulted(0.0) from(0.0) a(0.0) misstatement(1.0) 
+of(0.0) fact(0.0) --(0.0) a(0.0) lie(0.0) --(0.0) by(0.0) the(0.0) President's(0.0) National(0.0) Health(0.0) Care(1.0) Reform(0.0) Task(0.0) Force(0.0) .(0.0) The(0.0) resolution(1.0) simply(0.0) expresses(0.0) 
+the(0.0) sense(0.0) of(0.0) Congress(0.0) that(0.0) the(0.0) court(0.0) ordered(0.0) fine(0.0) not(0.0) be(0.0) paid(0.0) by(0.0) the(0.0) taxpayer(1.0) .(0.0) The(0.0) case(0.0) centered(0.0) primarily(0.0) 
+on(0.0) the(0.0) status(0.0) of(0.0) the(0.0) Task(0.0) Force's(0.0) employees(0.0) .(0.0) Under(0.0) the(0.0) terms(0.0) of(0.0) the(0.0) Federal(0.0) Advisory(0.0) Committee(0.0) Act(0.0) ,(0.0) the(0.0) 
+Task(0.0) Force(0.0) should(0.0) of(0.0) been(0.0) comprised(0.0) of(0.0) ``(0.0) full-time(0.0) officers(0.0) or(0.0) employees(0.0) ''(0.0) of(0.0) the(0.0) federal(0.0) government(0.0) .(0.0) It(0.0) was(0.0) 
+not(0.0) .(0.0) The(0.0) Task(0.0) Force(0.0) convened(0.0) behind(0.0) closed(0.0) doors(0.0) and(0.0) inappropriately(0.0) included(0.0) individuals(0.0) who(0.0) were(0.0) not(0.0) employees(0.0) of(0.0) the(0.0) Federal(0.0) 
+Government(0.0) .(0.0) The(0.0) courts(0.0) not(0.0) only(0.0) found(0.0) the(0.0) Task(0.0) Force(0.0) 's(0.0) declaration(0.0) a(0.0) misstatement(0.0) ,(0.0) but(0.0) also(0.0) found(0.0) that(0.0) representatives(0.0) 
+of(0.0) the(0.0) administration(0.0) engaged(0.0) in(0.0) ``(0.0) dishonest(0.0) ''(0.0) and(0.0) ``(0.0) reprehensible(0.0) ''(0.0) conduct(0.0) in(0.0) characterizing(1.0) the(0.0) membership(0.0) of(0.0) the(0.0) Task(0.0) 
+Force(0.0) .(0.0) The(0.0) court(0.0) awarded(0.0) the(0.0) Associations(0.0) of(0.0) American(0.0) Physicians(0.0) and(0.0) Surgeons(0.0) ,(0.0) the(0.0) plaintiffs(1.0) in(0.0) the(0.0) case(0.0) ,(0.0) $(0.0) 
+285,864.78(0.0) for(0.0) attorney(0.0) 's(0.0) fees(0.0) ,(0.0) costs(0.0) and(0.0) sanctions(0.0) .(0.0) Well(0.0) ,(0.0) the(0.0) administration(1.0) is(0.0) now(0.0) considering(0.0) paying(1.0) the(0.0) fine(0.0) 
+with(0.0) taxpayer(1.0) dollars(1.0) .(0.0) The(0.0) taxpayers(1.0) of(0.0) the(0.0) United(0.0) States(0.0) ,(0.0) who(0.0) work(0.0) hard(0.0) for(0.0) their(0.0) money(1.0) and(0.0) already(0.0) send(0.0) 
+too(0.0) much(0.0) of(0.0) it(0.0) to(0.0) Washington(1.0) ,(0.0) should(0.0) not(0.0) be(0.0) forced(0.0) to(0.0) send(0.0) more(0.0) of(0.0) it(0.0) to(0.0) cover(0.0) the(0.0) deliberate(1.0) 
+dishonest(1.0) actions(1.0) of(0.0) others(0.0) .(0.0) I(0.0) urge(0.0) the(0.0) adoption(1.0) of(0.0) the(0.0) resolution(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+cosponsor	
+Hayworth	administration	
+taxpayer	dollars	pay	misstatement	
+Care	resolution	
+taxpayer	
+
+
+
+
+characterizing	
+plaintiffs	
+administration	paying	
+taxpayer	dollars	taxpayers	money	
+Washington	deliberate	
+dishonest	actions	adoption	resolution	
+
+reads % = 0.08163265306122448

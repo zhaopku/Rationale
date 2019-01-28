@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Instead(1.0) ,(0.0) Republicans(0.0) on(1.0) the(1.0) Oversight(0.0) Committee(0.0) remain(1.0) obsessed(1.0) with(0.0) recycling(1.0) tired(1.0) and(0.0) worn(0.0) talking(0.0) points(0.0) in(0.0) a(0.0) cynical(0.0) attempt(0.0) to(0.0) 
+fire(0.0) up(0.0) the(0.0) GOP(1.0) base(1.0) before(1.0) the(1.0) midterm(1.0) elections(1.0) this(1.0) November(1.0) .(1.0) Unfortunately(1.0) ,(1.0) the(0.0) regression(1.0) into(0.0) crass(1.0) demagoguery(1.0) has(1.0) 
+real(1.0) world(1.0) consequences(1.0) ,(1.0) Mr.(0.0) Speaker(1.0) .(0.0) Our(0.0) country(1.0) 's(0.0) diplomatic(1.0) corps(0.0) can(0.0) not(0.0) operate(0.0) effectively(0.0) if(0.0) we(0.0) lock(0.0) them(0.0) 
+in(0.0) fortresses(1.0) and(0.0) prevent(0.0) them(0.0) from(0.0) engaging(0.0) in(0.0) foreign(1.0) nations(1.0) because(0.0) there(0.0) might(0.0) be(0.0) a(0.0) risk(0.0) .(0.0) The(0.0) reality(0.0) is(0.0) 
+that(0.0) striking(0.0) the(0.0) right(0.0) balance(0.0) between(0.0) necessary(0.0) security(0.0) and(0.0) effective(0.0) diplomacy(1.0) is(0.0) an(0.0) inherently(1.0) complex(0.0) and(0.0) daunting(0.0) challenge(0.0) for(0.0) our(0.0) 
+foreign(1.0) service(0.0) every(0.0) day(0.0) ,(0.0) everywhere(0.0) .(0.0) As(0.0) Ambassador(0.0) Pickering(1.0) and(0.0) Admiral(0.0) Mullen(1.0) accurately(0.0) stated(0.0) in(0.0) their(0.0) review(0.0) report(0.0) :(0.0) 
+No(0.0) diplomatic(0.0) presence(0.0) is(0.0) without(0.0) risk(0.0) ,(0.0) and(0.0) the(0.0) total(0.0) elimination(1.0) of(0.0) risk(0.0) is(0.0) a(0.0) nonstarter(0.0) for(0.0) U.S.(0.0) diplomacy(0.0) .(0.0) 
+In(0.0) closing(0.0) ,(0.0) I(0.0) would(0.0) ask(0.0) my(0.0) colleagues(0.0) on(0.0) the(0.0) other(0.0) side(0.0) of(0.0) the(0.0) aisle(0.0) :(0.0) Why(0.0) do(0.0) they(0.0) not(0.0) 
+trust(0.0) the(0.0) judgment(0.0) of(0.0) this(0.0) Chamber(0.0) 's(0.0) foremost(0.0) military(0.0) expert(0.0) ,(0.0) the(0.0) chairman(0.0) of(0.0) the(0.0) Armed(0.0) Services(0.0) Committee(0.0) ,(0.0) who(0.0) 
+pronounced(0.0) himself(0.0) ``(0.0) satisfied(0.0) that(0.0) where(0.0) the(0.0) troops(0.0) were(0.0) ,(0.0) how(0.0) quickly(0.0) the(0.0) thing(0.0) all(0.0) happened(0.0) ,(0.0) and(0.0) how(0.0) quickly(0.0) 
+it(0.0) dissipated(0.0) ,(0.0) we(0.0) probably(0.0) could(0.0) n't(0.0) have(0.0) done(0.0) more(0.0) than(0.0) we(0.0) did(0.0) ''(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+on	the	remain	obsessed	recycling	tired	
+GOP	base	before	the	midterm	elections	this	November	.	Unfortunately	,	regression	crass	demagoguery	has	
+real	world	consequences	,	Speaker	country	diplomatic	
+fortresses	foreign	nations	
+diplomacy	inherently	
+foreign	Pickering	Mullen	
+elimination	
+
+
+
+
+
+reads % = 0.1712962962962963

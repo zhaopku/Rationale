@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) am(0.0) very(0.0) pleased(0.0) that(0.0) we(0.0) are(0.0) bringing(0.0) to(0.0) the(0.0) House(0.0) a(0.0) conference(0.0) report(0.0) on(0.0) the(0.0) Water(0.0) Resources(0.0) Development(0.0) 
+Act(0.0) of(0.0) 1999(0.0) ,(0.0) a(0.0) culmination(0.0) of(0.0) 3(0.0) years(0.0) work(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Transportation(0.0) and(0.0) Infrastructure(0.0) .(0.0) Mr.(0.0) Speaker(1.0) 
+,(0.0) I(0.0) yield(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Pennsylvania(1.0) ((0.0) Mr.(0.0) Shuster(1.0) )(0.0) for(1.0) any(0.0) comment(0.0) that(0.0) he(0.0) may(0.0) make(0.0) .(0.0) 
+((0.0) Mr.(0.0) SHUSTER(1.0) asked(0.0) and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) )(0.0) 
+
+
+----- below are rationale words -----
+
+
+Speaker	
+Pennsylvania	Shuster	for	
+SHUSTER	
+
+reads % = 0.06493506493506493

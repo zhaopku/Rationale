@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) 2(0.0) minutes(1.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Georgia(1.0) ((0.0) Mr.(0.0) Scott(1.0) )(0.0) ,(0.0) the(0.0) Representative(1.0) of(0.0) the(0.0) Warner(1.0) 
+Robins(1.0) Air(1.0) Force(0.0) Base(1.0) and(0.0) a(0.0) member(0.0) of(0.0) the(0.0) Armed(0.0) Services(0.0) Committee(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+minutes	Georgia	Scott	Representative	Warner	
+Robins	Air	Base	
+
+reads % = 0.23529411764705882

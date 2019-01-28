@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) second(0.0) what(0.0) the(0.0) gentleman(0.0) from(0.0) Maryland(1.0) ((0.0) Mr.(0.0) Hoyer(1.0) )(0.0) said(1.0) .(0.0) Because(1.0) of(0.0) Frank(0.0) MCCloskey(0.0) 
+'s(0.0) life(0.0) ,(0.0) there(0.0) are(0.0) a(0.0) lot(0.0) of(0.0) people(0.0) alive(0.0) in(0.0) Bosnia-Herzegovina(1.0) ,(0.0) Croatia(0.0) ,(0.0) Serbia(0.0) ,(0.0) and(0.0) Kosovo(1.0) .(0.0) 
+He(0.0) ,(0.0) along(0.0) with(0.0) several(0.0) other(0.0) Members(0.0) ,(0.0) did(0.0) more(0.0) to(0.0) sensitize(0.0) this(0.0) Congress(0.0) ,(0.0) which(0.0) was(0.0) not(0.0) very(0.0) interested(0.0) 
+at(0.0) that(0.0) time(0.0) in(0.0) those(0.0) areas(0.0) .(0.0) Neither(0.0) the(0.0) Clinton(1.0) administration(1.0) nor(0.0) the(0.0) Congress(0.0) ,(0.0) quite(0.0) frankly(0.0) ,(0.0) wanted(0.0) to(0.0) 
+do(0.0) anything(0.0) with(0.0) regard(0.0) to(0.0) what(0.0) took(0.0) place(0.0) .(0.0) Frank(0.0) MCCloskey(0.0) went(0.0) over(0.0) there(0.0) and(0.0) because(0.0) of(0.0) his(0.0) actions(0.0) did(0.0) 
+a(0.0) lot(0.0) of(0.0) good(0.0) and(0.0) saved(0.0) a(0.0) lot(0.0) of(0.0) lives(0.0) .(0.0) Also(0.0) ,(0.0) as(0.0) many(0.0) people(0.0) know(0.0) ,(0.0) even(0.0) after(0.0) 
+Congressman(1.0) MCCloskey(0.0) left(0.0) this(0.0) Congress(0.0) ,(0.0) he(0.0) continued(0.0) his(0.0) work(0.0) .(0.0) He(0.0) did(0.0) not(0.0) let(0.0) this(0.0) cause(0.0) go(0.0) .(0.0) I(0.0) 
+want(0.0) to(0.0) rise(1.0) to(0.0) salute(0.0) Congressman(1.0) MCCloskey(0.0) ;(0.0) and(0.0) on(0.0) behalf(0.0) of(0.0) all(0.0) of(0.0) the(0.0) people(0.0) that(0.0) are(0.0) alive(0.0) in(0.0) 
+Bosnia-Herzegovina(1.0) ,(0.0) Croatia(0.0) ,(0.0) Slovenia(0.0) ,(0.0) Serbia(0.0) and(0.0) Kosovo(1.0) ,(0.0) who(0.0) may(0.0) not(0.0) even(0.0) know(0.0) the(0.0) reason(0.0) why(0.0) ,(0.0) I(0.0) 
+thank(0.0) Frank(0.0) on(0.0) their(0.0) behalf(0.0) and(0.0) want(0.0) to(0.0) let(0.0) his(0.0) family(0.0) know(0.0) he(0.0) made(0.0) a(0.0) tremendous(0.0) difference(0.0) not(0.0) only(0.0) for(0.0) 
+their(0.0) district(0.0) ,(0.0) not(0.0) only(0.0) for(0.0) our(0.0) country(1.0) ,(0.0) but(0.0) for(0.0) our(0.0) entire(0.0) world(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Maryland	Hoyer	said	Because	
+Bosnia-Herzegovina	Kosovo	
+
+Clinton	administration	
+
+
+Congressman	
+rise	Congressman	
+Bosnia-Herzegovina	Kosovo	
+
+country	
+
+reads % = 0.06481481481481481

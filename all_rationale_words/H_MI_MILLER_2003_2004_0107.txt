@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) agree(0.0) to(0.0) the(0.0) concurrent(0.0) resolution(0.0) ((0.0) H.(0.0) Con(1.0) .(0.0) Res(0.0) .(0.0) 295(0.0) 
+)(0.0) congratulating(0.0) and(0.0) saluting(0.0) Focus(0.0) :(0.0) HOPE(0.0) on(0.0) the(0.0) occasion(0.0) of(0.0) its(0.0) 35th(0.0) anniversary(0.0) and(0.0) for(0.0) its(0.0) remarkable(0.0) commitment(0.0) and(0.0) 
+contributions(0.0) to(0.0) Detroit(1.0) ,(0.0) the(0.0) State(0.0) of(0.0) Michigan(1.0) ,(0.0) and(0.0) the(0.0) United(0.0) States(0.0) .(0.0) The(0.0) Clerk(0.0) read(0.0) as(0.0) follows(0.0) :(0.0) 
+H.(0.0) Con(1.0) .(0.0) Res(0.0) .(0.0) 295(0.0) Whereas(0.0) Focus(0.0) :(0.0) HOPE(0.0) began(0.0) as(0.0) a(0.0) civil(0.0) and(0.0) human(0.0) rights(0.0) organization(0.0) in(0.0) 1968(0.0) 
+in(0.0) the(0.0) wake(0.0) of(0.0) the(0.0) devastating(0.0) Detroit(0.0) riots(1.0) ,(0.0) and(0.0) was(0.0) co-founded(0.0) by(0.0) the(0.0) late(0.0) Father(0.0) William(0.0) T.(1.0) Cunningham(1.0) ,(0.0) 
+a(0.0) Roman(0.0) Catholic(0.0) priest(0.0) ,(0.0) and(0.0) Eleanor(0.0) M.(1.0) Josaitis(0.0) ,(0.0) a(0.0) suburban(0.0) housewife(0.0) ,(0.0) who(0.0) were(0.0) inspired(0.0) to(0.0) establish(0.0) Focus(0.0) 
+:(0.0) HOPE(0.0) by(0.0) the(0.0) work(0.0) of(0.0) Dr.(0.0) Martin(1.0) Luther(1.0) King(0.0) Jr.(0.0) ;(0.0) Whereas(0.0) Focus(0.0) :(0.0) HOPE(0.0) is(0.0) committed(0.0) to(0.0) bringing(0.0) 
+together(0.0) people(0.0) of(0.0) all(0.0) races(0.0) ,(0.0) faiths(1.0) ,(0.0) and(0.0) economic(1.0) backgrounds(0.0) to(0.0) overcome(0.0) injustice(1.0) and(0.0) build(0.0) racial(1.0) harmony(0.0) ,(0.0) and(0.0) 
+it(0.0) has(0.0) grown(0.0) to(0.0) one(0.0) of(0.0) the(0.0) largest(0.0) nonprofit(1.0) organizations(0.0) in(0.0) Michigan(1.0) ;(0.0) Whereas(0.0) the(0.0) Focus(0.0) :(0.0) HOPE(1.0) mission(0.0) statement(0.0) 
+states(1.0) :(0.0) ``(0.0) Recognizing(0.0) the(0.0) dignity(1.0) and(0.0) beauty(0.0) of(0.0) every(0.0) person(0.0) ,(0.0) we(0.0) pledge(1.0) intelligent(0.0) and(0.0) practical(0.0) action(1.0) to(0.0) overcome(0.0) 
+racism(1.0) ,(0.0) poverty(1.0) and(0.0) injustice(1.0) .(0.0) And(0.0) to(0.0) build(0.0) a(0.0) metropolitan(0.0) community(0.0) where(0.0) all(0.0) people(0.0) may(0.0) live(0.0) in(0.0) freedom(1.0) ,(0.0) 
+harmony(0.0) ,(0.0) trust(0.0) and(0.0) affection(0.0) .(0.0) Black(1.0) and(0.0) white(0.0) ,(0.0) yellow(0.0) ,(0.0) brown(0.0) and(0.0) red(0.0) from(0.0) Detroit(1.0) and(0.0) its(0.0) suburbs(1.0) 
+of(0.0) every(0.0) economic(1.0) status(0.0) ,(0.0) national(1.0) origin(0.0) and(0.0) religious(1.0) persuasion(0.0) we(0.0) join(0.0) in(0.0) this(0.0) covenant(1.0) .(0.0) ''(0.0) ;(0.0) Whereas(0.0) one(0.0) 
+of(0.0) Focus(0.0) :(0.0) HOPE(1.0) 's(0.0) early(0.0) efforts(0.0) was(0.0) to(0.0) support(0.0) African-American(1.0) and(0.0) female(0.0) employees(0.0) in(0.0) a(0.0) seminal(0.0) class(0.0) action(0.0) suit(0.0) 
+against(0.0) AAA(0.0) ,(0.0) resulting(0.0) in(0.0) one(0.0) of(0.0) the(0.0) finest(0.0) affirmative(1.0) action(0.0) commitments(1.0) made(0.0) by(0.0) any(0.0) corporation(0.0) up(0.0) to(0.0) that(0.0) time(0.0) 
+;(0.0) Whereas(0.0) Focus(0.0) :(0.0) HOPE(1.0) helped(0.0) to(0.0) conceive(0.0) of(0.0) and(0.0) develop(0.0) the(0.0) Department(0.0) of(0.0) Agriculture(0.0) 's(0.0) Commodity(0.0) Supplemental(0.0) Food(0.0) Program(0.0) 
+which(0.0) has(0.0) been(0.0) replicated(0.0) in(0.0) 32(0.0) states(0.0) ,(0.0) and(0.0) through(0.0) this(0.0) program(1.0) Focus(0.0) :(0.0) HOPE(0.0) helps(0.0) to(0.0) feed(0.0) 43,000(0.0) people(0.0) 
+per(0.0) month(0.0) throughout(0.0) Southeast(1.0) Michigan(1.0) ;(0.0) Whereas(0.0) Focus(0.0) :(0.0) HOPE(0.0) has(0.0) revitalized(1.0) several(0.0) city(0.0) blocks(0.0) in(0.0) central(0.0) Detroit(1.0) by(0.0) redeveloping(1.0) 
+obsolete(0.0) industrial(1.0) buildings(0.0) ,(0.0) beautifying(1.0) and(0.0) landscaping(0.0) Oakman(1.0) Boulevard(1.0) ,(0.0) creating(0.0) pocket(0.0) parks(0.0) ,(0.0) and(0.0) rehabilitating(1.0) homes(0.0) in(0.0) the(0.0) surrounding(0.0) 
+areas(0.0) ;(0.0) Whereas(0.0) Focus(0.0) :(0.0) HOPE(0.0) 's(0.0) Machinist(0.0) Training(0.0) Institute(0.0) has(0.0) been(0.0) training(0.0) individuals(0.0) from(0.0) Detroit(1.0) and(0.0) beyond(0.0) for(0.0) careers(0.0) 
+in(0.0) advanced(0.0) manufacturing(0.0) and(0.0) precision(0.0) machining(0.0) since(0.0) 1981(0.0) ,(0.0) and(0.0) has(0.0) sent(0.0) forth(0.0) nearly(0.0) 2,500(0.0) certified(0.0) graduates(0.0) ,(0.0) providing(0.0) an(0.0) 
+opportunity(0.0) for(0.0) primarily(0.0) under-represented(1.0) minority(1.0) youth(0.0) ,(0.0) women(1.0) ,(0.0) and(0.0) others(0.0) to(0.0) gain(0.0) access(0.0) to(0.0) the(0.0) financial(0.0) mainstream(0.0) and(0.0) learn(0.0) 
+in-demand(0.0) skills(0.0) ;(0.0) Whereas(0.0) Focus(0.0) :(0.0) HOPE(0.0) ,(0.0) with(0.0) assistance(0.0) from(0.0) Michigan(1.0) ,(0.0) the(0.0) Department(0.0) of(0.0) Housing(0.0) and(0.0) Urban(0.0) Development(0.0) 
+,(0.0) and(0.0) other(0.0) generous(0.0) private(0.0) and(0.0) public(0.0) partners(0.0) ,(0.0) has(0.0) within(0.0) the(0.0) last(0.0) two(0.0) years(0.0) invested(0.0) over(0.0) $(0.0) 10(0.0) million(0.0) 
+to(0.0) complete(0.0) the(0.0) renovation(0.0) of(0.0) the(0.0) industrial(1.0) building(0.0) housing(1.0) its(0.0) Machinist(0.0) Training(0.0) Institute(0.0) ;(0.0) Whereas(0.0) Focus(0.0) :(0.0) HOPE(1.0) has(0.0) 
+
+
+----- below are rationale words -----
+
+Con	
+
+Detroit	Michigan	
+Con	
+riots	T.	Cunningham	
+M.	
+Martin	Luther	
+faiths	economic	injustice	racial	
+nonprofit	Michigan	HOPE	
+states	dignity	pledge	action	
+racism	poverty	injustice	freedom	
+Black	Detroit	suburbs	
+economic	national	religious	covenant	
+HOPE	African-American	
+affirmative	commitments	
+HOPE	
+program	
+Southeast	Michigan	revitalized	Detroit	redeveloping	
+industrial	beautifying	Oakman	Boulevard	rehabilitating	
+Detroit	
+
+under-represented	minority	women	
+Michigan	
+
+industrial	housing	HOPE	
+
+reads % = 0.112

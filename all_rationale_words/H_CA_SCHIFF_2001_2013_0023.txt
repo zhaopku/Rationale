@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) to(0.0) recognize(0.0) the(0.0) importance(0.0) of(0.0) the(0.0) Special(0.0) Diabetes(0.0) Program(0.0) ,(0.0) which(0.0) represents(1.0) 35(0.0) percent(0.0) of(0.0) the(0.0) 
+Federal(1.0) investment(1.0) in(0.0) type(0.0) 1(0.0) diabetes(0.0) research(0.0) ,(0.0) and(0.0) to(0.0) encourage(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) a(0.0) multiyear(0.0) renewal(1.0) of(0.0) the(0.0) 
+program(1.0) at(0.0) current(0.0) funding(1.0) levels(0.0) .(0.0) Type(0.0) 1(0.0) diabetes(1.0) among(0.0) Americans(1.0) under(0.0) the(0.0) age(0.0) of(0.0) 20(0.0) rose(0.0) by(0.0) 23(0.0) percent(0.0) 
+between(0.0) 2001(0.0) and(0.0) 2009(0.0) .(0.0) People(0.0) with(0.0) type(0.0) 1(0.0) diabetes(0.0) ,(0.0) including(0.0) one(0.0) of(0.0) my(0.0) constituents(1.0) ,(0.0) 8-year-old(1.0) Charlie(1.0) ,(0.0) 
+need(0.0) daily(0.0) finger(0.0) sticks(0.0) and(0.0) insulin(0.0) injections(1.0) to(0.0) stay(0.0) alive(0.0) .(0.0) As(0.0) part(0.0) of(0.0) the(0.0) Juvenile(1.0) Diabetes(0.0) Research(0.0) Foundation(1.0) 's(0.0) 
+``(0.0) Promise(0.0) to(0.0) Remember(0.0) Me(0.0) ''(0.0) campaign(1.0) ,(0.0) I(0.0) recently(0.0) met(0.0) with(0.0) Charlie(0.0) and(0.0) his(0.0) father(0.0) and(0.0) another(0.0) constituent(0.0) ,(0.0) 
+Nancy(0.0) ,(0.0) whose(0.0) 17-year-old(0.0) daughter(0.0) also(0.0) has(0.0) type(0.0) 1(0.0) diabetes(0.0) ,(0.0) to(0.0) discuss(0.0) their(0.0) daily(0.0) struggle(1.0) with(0.0) the(0.0) disease(0.0) and(0.0) 
+their(0.0) hopes(0.0) for(0.0) better(0.0) treatment(0.0) options(0.0) and(0.0) ,(0.0) someday(0.0) ,(0.0) a(0.0) cure(0.0) .(0.0) The(0.0) Special(0.0) Diabetes(0.0) Program(0.0) has(0.0) delivered(0.0) groundbreaking(0.0) 
+research(0.0) for(0.0) type(0.0) 1(0.0) diabetes(0.0) ,(0.0) including(0.0) artificial(0.0) pancreas(1.0) systems(0.0) ,(0.0) a(0.0) revolutionary(0.0) technology(0.0) in(0.0) the(0.0) research(0.0) pipeline(1.0) that(0.0) will(0.0) 
+automatically(0.0) control(0.0) blood(0.0) sugar(0.0) levels(0.0) ,(0.0) keep(0.0) patients(0.0) healthier(1.0) ,(0.0) and(0.0) help(0.0) avoid(0.0) many(0.0) dangerous(0.0) and(0.0) costly(1.0) long-term(1.0) complications(0.0) due(0.0) 
+to(0.0) diabetes(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) urge(0.0) support(0.0) of(0.0) the(0.0) program(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+represents	
+Federal	investment	renewal	
+program	funding	diabetes	Americans	
+constituents	8-year-old	Charlie	
+injections	Juvenile	Foundation	
+campaign	
+struggle	
+
+pancreas	pipeline	
+healthier	costly	long-term	
+diabetes	Speaker	program	
+
+reads % = 0.11214953271028037

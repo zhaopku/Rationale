@@ -1,0 +1,22 @@
+This is from a Republican
+----- below is the original text -----
+Well(0.0) it(0.0) 's(0.0) a(0.0) quasi-medical(0.0) term(0.0) which(0.0) is(0.0) equivalent(0.0) to(0.0) armchair(0.0) quarterbacking(0.0) or(0.0) postmortem(0.0) in(0.0) which(0.0) we(0.0) look(0.0) back(0.0) and(0.0) we(0.0) 
+go(0.0) ,(0.0) How(0.0) do(0.0) things(0.0) look(0.0) now(0.0) ,(0.0) looking(0.0) back(0.0) ,(0.0) as(0.0) opposed(1.0) to(0.0) the(0.0) way(0.0) they(0.0) looked(0.0) then(0.0) ?(0.0) 
+You(0.0) know(0.0) ,(0.0) what(0.0) we(0.0) were(0.0) saying(0.0) during(0.0) the(0.0) debate(1.0) is(0.0) this(0.0) :(0.0) This(0.0) bill(1.0) is(0.0) by(0.0) no(0.0) means(0.0) really(0.0) 
+paid(0.0) for(0.0) ,(0.0) that(0.0) there(0.0) is(0.0) smoke(0.0) and(0.0) mirrors(0.0) about(0.0) the(0.0) financing(1.0) ,(0.0) that(0.0) it(0.0) will(0.0) definitely(0.0) cost(1.0) tax(1.0) for(0.0) 
+the(0.0) middle(1.0) class(1.0) ,(0.0) although(0.0) the(0.0) President(1.0) said(0.0) otherwise(0.0) .(0.0) The(0.0) President(1.0) said(0.0) premiums(0.0) would(0.0) go(0.0) down(0.0) for(0.0) insurance(1.0) .(0.0) 
+We(0.0) said(0.0) they(0.0) would(0.0) go(0.0) up(0.0) .(0.0) The(0.0) President(1.0) said(0.0) people(0.0) would(0.0) get(0.0) more(0.0) care(1.0) and(0.0) better(0.0) care(1.0) ,(0.0) and(0.0) 
+we(0.0) said(0.0) ,(0.0) no(0.0) ,(0.0) the(0.0) care(1.0) would(0.0) be(0.0) diluted(0.0) ,(0.0) there(0.0) would(0.0) be(0.0) less(0.0) access(0.0) to(0.0) care(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+opposed	
+debate	bill	
+financing	cost	tax	
+middle	class	President	President	insurance	
+President	care	care	
+care	care	
+
+reads % = 0.11428571428571428

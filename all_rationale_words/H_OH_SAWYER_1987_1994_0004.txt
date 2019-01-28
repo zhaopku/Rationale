@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) pass(0.0) the(0.0) bill(0.0) ((1.0) H.R(1.0) .(0.0) 1933(0.0) )(0.0) to(0.0) authorize(0.0) appropriations(0.0) for(0.0) 
+the(0.0) Martin(0.0) Luther(0.0) King(0.0) ,(0.0) Jr.(0.0) Federal(1.0) Holiday(0.0) Commission(0.0) ,(0.0) to(0.0) extend(0.0) such(0.0) Commission(0.0) ,(0.0) and(0.0) to(0.0) support(0.0) the(0.0) planning(0.0) 
+and(0.0) performance(0.0) of(0.0) national(0.0) service(0.0) opportunities(0.0) in(0.0) conjunction(0.0) with(0.0) the(0.0) Federal(0.0) legal(1.0) holiday(0.0) honoring(0.0) the(0.0) birthday(0.0) of(0.0) Martin(0.0) Luther(1.0) King(0.0) 
+,(0.0) Jr.(0.0) ,(0.0) as(0.0) amended(0.0) .(0.0) The(0.0) Clerk(0.0) read(0.0) as(0.0) follows(0.0) :(0.0) H.R(0.0) .(0.0) 1933(0.0) Be(0.0) it(0.0) enacted(0.0) by(0.0) the(0.0) 
+Senate(0.0) and(0.0) House(0.0) of(0.0) Representatives(0.0) of(0.0) the(0.0) United(0.0) States(0.0) of(0.0) America(0.0) in(0.0) Congress(0.0) assembled(0.0) ,(0.0) SECTION(0.0) 1(0.0) .(0.0) SHORT(0.0) TITLE(0.0) 
+.(0.0) This(0.0) Act(0.0) may(0.0) be(0.0) cited(0.0) as(0.0) the(0.0) ``(0.0) King(0.0) Holiday(0.0) and(0.0) Service(0.0) Act(0.0) of(0.0) 1994(0.0) ''(0.0) .(0.0) SEC(0.0) .(0.0) 
+2(0.0) .(0.0) MARTIN(0.0) LUTHER(0.0) KING(0.0) ,(0.0) JR.(0.0) FEDERAL(0.0) HOLIDAY(0.0) COMMISSION(0.0) .(0.0) The(0.0) Act(0.0) entitled(0.0) ``(0.0) An(0.0) Act(0.0) to(0.0) establish(0.0) a(0.0) 
+commission(0.0) to(0.0) assist(0.0) in(0.0) the(0.0) first(0.0) observance(0.0) of(0.0) the(0.0) Federal(0.0) legal(0.0) holiday(0.0) honoring(0.0) Martin(0.0) Luther(1.0) King(0.0) ,(0.0) Jr.(0.0) ''(0.0) ,(0.0) 
+approved(0.0) August(0.0) 27(0.0) ,(0.0) 1984(0.0) ((0.0) 36(0.0) U.S.C(0.0) .(0.0) 169j(0.0) and(0.0) following(0.0) )(0.0) is(0.0) amended(0.0) --(0.0) ((0.0) 1(0.0) )(0.0) in(0.0) 
+section(0.0) 3(0.0) ((0.0) 1(0.0) )(0.0) by(0.0) inserting(0.0) ``(0.0) ((0.0) including(0.0) service(0.0) opportunities(0.0) )(0.0) ''(0.0) after(0.0) ``(0.0) activities(0.0) ''(0.0) ;(0.0) ((0.0) 
+2(0.0) )(0.0) in(0.0) section(0.0) 4(0.0) ((0.0) a(0.0) )(0.0) by(0.0) striking(0.0) ``(0.0) and(0.0) ''(0.0) at(0.0) the(0.0) end(0.0) of(0.0) paragraph(0.0) ((0.0) 5(0.0) 
+)(0.0) ,(0.0) by(0.0) striking(0.0) the(0.0) period(0.0) at(0.0) the(0.0) end(0.0) of(0.0) paragraph(0.0) ((0.0) 6(0.0) )(0.0) and(0.0) inserting(0.0) ``(0.0) ;(0.0) and(0.0) ''(0.0) 
+,(0.0) and(0.0) by(0.0) adding(0.0) at(0.0) the(0.0) end(0.0) the(0.0) following(0.0) :(0.0) ``(0.0) ((0.0) 7(0.0) )(0.0) the(0.0) Chief(0.0) Executive(0.0) Officer(0.0) of(0.0) the(0.0) 
+Corporation(0.0) for(0.0) National(0.0) and(0.0) Community(0.0) Service(0.0) ,(0.0) appointed(0.0) under(0.0) section(0.0) 193(0.0) of(0.0) the(0.0) National(0.0) and(0.0) Community(0.0) Service(0.0) Act(0.0) of(0.0) 1990(0.0) 
+((0.0) 42(0.0) U.S.C(0.0) .(0.0) 12651c(0.0) )(0.0) .(0.0) ''(0.0) ;(0.0) ((0.0) 3(0.0) )(0.0) in(0.0) section(0.0) 6(0.0) ((0.0) a(0.0) )(0.0) by(0.0) striking(0.0) 
+``(0.0) maximum(0.0) rate(0.0) of(0.0) pay(0.0) payable(0.0) for(0.0) grade(0.0) GS-18(0.0) of(0.0) the(0.0) General(0.0) Schedule(0.0) under(0.0) section(0.0) 5332(0.0) ''(0.0) and(0.0) inserting(0.0) ``(0.0) 
+rate(0.0) of(0.0) pay(0.0) for(0.0) level(0.0) IV(0.0) of(0.0) the(0.0) Executive(0.0) Schedule(0.0) under(0.0) section(0.0) 5315(0.0) ''(0.0) ;(0.0) ((0.0) 4(0.0) )(0.0) by(0.0) amending(0.0) 
+section(0.0) 7(0.0) to(0.0) read(0.0) as(0.0) follows(0.0) :(0.0) ``(0.0) Sec(0.0) .(0.0) 7(0.0) .(0.0) There(0.0) are(0.0) authorized(0.0) to(0.0) be(0.0) appropriated(0.0) to(0.0) carry(0.0) 
+out(0.0) this(0.0) Act(0.0) --(0.0) ``(0.0) ((0.0) 1(0.0) )(0.0) $(0.0) 300,000(0.0) for(0.0) fiscal(0.0) year(0.0) 1995(0.0) ;(0.0) ``(0.0) ((0.0) 2(0.0) )(0.0) $(0.0) 
+350,000(0.0) for(0.0) fiscal(0.0) year(0.0) 1996(0.0) ;(0.0) ``(0.0) ((0.0) 2(0.0) )(0.0) $(0.0) 400,000(0.0) for(0.0) fiscal(0.0) year(0.0) 1997(0.0) ;(0.0) ``(0.0) ((0.0) 2(0.0) 
+)(0.0) $(0.0) 450,000(0.0) for(0.0) fiscal(0.0) year(0.0) 1998(0.0) ;(0.0) and(0.0) ``(0.0) ((0.0) 2(0.0) )(0.0) $(0.0) 500,000(0.0) for(0.0) fiscal(0.0) year(0.0) 1999(0.0) .(0.0) 
+''(0.0) ;(0.0) ((0.0) 5(0.0) )(0.0) in(0.0) section(0.0) 8(0.0) by(0.0) inserting(0.0) after(0.0) ``(0.0) under(0.0) this(0.0) Act(0.0) ''(0.0) the(0.0) following(0.0) :(0.0) ``(0.0) 
+or(0.0) under(0.0) the(0.0) National(0.0) and(0.0) Community(0.0) Service(0.0) Act(0.0) of(0.0) 1990(0.0) ''(0.0) ;(0.0) and(0.0) ((0.0) 6(0.0) )(0.0) in(0.0) section(0.0) 9(0.0) by(0.0) 
+striking(0.0) ``(0.0) April(0.0) 20(0.0) ,(0.0) 1994(0.0) ''(0.0) and(0.0) inserting(0.0) ``(0.0) September(0.0) 30(0.0) ,(0.0) 1999(0.0) ''(0.0) .(0.0) SEC(0.0) .(0.0) 3(0.0) .(0.0) 
+MARTIN(0.0) LUTHER(0.0) KING(0.0) ,(0.0) JR.(0.0) ,(0.0) SERVICE(0.0) DAY(0.0) .(0.0) ((0.0) a(0.0) )(0.0) Additional(0.0) Corporation(0.0) Activity(0.0) to(0.0) Support(0.0) National(0.0) Service.(0.0) 
+
+
+----- below are rationale words -----
+
+(	H.R	
+Federal	
+legal	Luther	
+
+
+
+
+Luther	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+reads % = 0.012

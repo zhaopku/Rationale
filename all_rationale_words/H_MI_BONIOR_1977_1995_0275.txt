@@ -1,0 +1,20 @@
+This is from a Democrat
+----- below is the original text -----
+On(0.0) the(0.0) clean(1.0) water(0.0) bill(0.0) that(0.0) we(0.0) will(0.0) have(0.0) before(0.0) us(0.0) ,(0.0) since(0.0) it(0.0) is(0.0) probably(0.0) one(0.0) of(0.0) the(0.0) most(0.0) important(0.0) 
+environmental(1.0) pieces(0.0) of(0.0) legislation(1.0) that(0.0) we(0.0) will(0.0) consider(0.0) in(0.0) this(0.0) body(0.0) this(0.0) Congress(0.0) ,(0.0) I(0.0) would(0.0) ask(0.0) my(0.0) friend(0.0) ,(0.0) 
+what(0.0) do(0.0) you(0.0) anticipate(0.0) with(0.0) respect(0.0) to(0.0) a(0.0) rule(1.0) ?(0.0) It(0.0) is(0.0) our(0.0) hope(0.0) ,(0.0) obviously(0.0) ,(0.0) that(0.0) the(0.0) rule(1.0) 
+will(0.0) be(0.0) open(0.0) and(0.0) we(0.0) will(0.0) not(0.0) have(0.0) a(0.0) time(0.0) cap(0.0) on(0.0) amendments(1.0) ,(0.0) especially(0.0) as(0.0) the(0.0) latter(0.0) part(0.0) of(0.0) 
+the(0.0) week(0.0) looks(0.0) as(0.0) if(0.0) it(0.0) is(0.0) open(0.0) and(0.0) we(0.0) can(0.0) use(0.0) indeed(0.0) Thursday(0.0) and(0.0) Friday(0.0) to(0.0) complete(0.0) this(0.0) .(0.0) 
+I(0.0) would(0.0) hope(0.0) that(0.0) we(0.0) would(0.0) have(0.0) an(0.0) open(0.0) process(0.0) on(0.0) this(0.0) important(0.0) bill(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+clean	
+environmental	legislation	
+rule	rule	
+amendments	
+
+bill	
+
+reads % = 0.0603448275862069

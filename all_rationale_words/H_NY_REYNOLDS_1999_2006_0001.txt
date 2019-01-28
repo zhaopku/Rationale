@@ -1,0 +1,38 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) today(0.0) I(0.0) rise(0.0) to(0.0) recognize(0.0) an(0.0) outstanding(0.0) young(0.0) man(0.0) ,(0.0) his(0.0) supportive(0.0) teammates(0.0) and(0.0) an(0.0) inspirational(0.0) performance(0.0) on(0.0) the(0.0) 
+basketball(0.0) court(0.0) .(0.0) In(0.0) a(0.0) matter(0.0) of(0.0) just(0.0) 4(0.0) minutes(0.0) ,(0.0) Jason(0.0) MCElwain(0.0) and(0.0) the(0.0) Greece(0.0) Athena(0.0) High(0.0) School(0.0) Trojans(0.0) 
+showed(0.0) us(0.0) all(0.0) the(0.0) power(0.0) of(0.0) dedication(0.0) ,(0.0) teamwork(0.0) and(0.0) perseverance(0.0) .(0.0) Jason(0.0) also(0.0) placed(0.0) his(0.0) heart(0.0) and(0.0) soul(0.0) into(0.0) 
+helping(0.0) the(0.0) Trojans(1.0) as(0.0) team(0.0) manager(0.0) ,(0.0) and(0.0) although(0.0) never(0.0) getting(0.0) a(0.0) chance(0.0) to(0.0) play(0.0) ,(0.0) became(0.0) an(0.0) indispensable(0.0) teammate(0.0) 
+.(0.0) Jason(0.0) has(0.0) also(0.0) been(0.0) challenged(0.0) every(0.0) day(0.0) by(0.0) autism(0.0) ,(0.0) a(0.0) disability(1.0) that(0.0) ,(0.0) while(0.0) difficult(0.0) ,(0.0) has(0.0) not(0.0) 
+undercut(1.0) Jason(0.0) 's(0.0) goal(0.0) or(0.0) his(0.0) support(0.0) for(0.0) the(0.0) team(0.0) .(0.0) In(0.0) turn(0.0) ,(0.0) Jason(0.0) 's(0.0) teammates(0.0) ,(0.0) led(0.0) by(0.0) 
+Coach(0.0) Jim(0.0) Johnson(1.0) ,(0.0) have(0.0) embraced(0.0) him(0.0) and(0.0) believed(0.0) in(0.0) him(0.0) ,(0.0) becoming(0.0) his(0.0) greatest(0.0) friends(0.0) and(0.0) supporters(0.0) .(0.0) This(0.0) 
+teamwork(0.0) and(0.0) mutual(1.0) respect(0.0) was(0.0) never(0.0) clearer(0.0) than(0.0) on(0.0) the(0.0) night(0.0) of(0.0) February(0.0) 15(0.0) .(0.0) With(0.0) only(0.0) 4(0.0) minutes(0.0) remaining(0.0) 
+in(0.0) the(0.0) final(0.0) game(0.0) of(0.0) the(0.0) regular(0.0) season(0.0) ,(0.0) Jason(0.0) made(0.0) his(0.0) remarkable(0.0) debut(0.0) for(0.0) the(0.0) Trojans(0.0) .(0.0) He(0.0) went(0.0) 
+on(0.0) to(0.0) make(0.0) six(0.0) 3-pointers(1.0) and(0.0) finished(0.0) with(0.0) 20(0.0) points(0.0) .(0.0) A(0.0) true(0.0) hero(0.0) and(0.0) the(0.0) true(0.0) meaning(0.0) of(0.0) the(0.0) 
+word(0.0) teamwork(0.0) was(0.0) discovered(0.0) that(0.0) night(0.0) on(0.0) the(0.0) hardwood(0.0) in(0.0) Greece(0.0) .(0.0) And(0.0) 2(0.0) weeks(0.0) later(0.0) ,(0.0) that(0.0) teamwork(0.0) propelled(0.0) 
+the(0.0) Trojans(1.0) to(0.0) the(0.0) very(0.0) top(0.0) as(0.0) they(0.0) won(0.0) their(0.0) sectional(0.0) championship(0.0) .(0.0) Jason(0.0) 's(0.0) perseverance(0.0) and(0.0) his(0.0) teammates(0.0) '(0.0) 
+support(0.0) serve(0.0) as(0.0) a(0.0) great(0.0) example(0.0) to(0.0) us(0.0) all(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) in(0.0) recognition(1.0) of(0.0) their(0.0) remarkable(0.0) achievement(0.0) ,(0.0) 
+I(0.0) ask(0.0) this(0.0) honorable(1.0) body(0.0) to(0.0) join(0.0) me(0.0) in(0.0) honoring(1.0) Jason(0.0) MCElwain(0.0) and(0.0) the(0.0) Greece(0.0) Athena(0.0) High(0.0) School(0.0) Basketball(0.0) Trojans(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+
+Trojans	
+disability	
+undercut	
+Johnson	
+mutual	
+
+3-pointers	
+
+Trojans	
+Speaker	recognition	
+honorable	honoring	
+
+
+reads % = 0.03900709219858156

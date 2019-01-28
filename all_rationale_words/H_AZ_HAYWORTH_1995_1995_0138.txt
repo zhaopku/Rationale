@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) thank(0.0) my(0.0) colleague(0.0) from(0.0) Arizona(1.0) for(0.0) yielding(0.0) time(0.0) to(0.0) me(0.0) .(0.0) I(0.0) thank(0.0) my(0.0) friends(0.0) on(0.0) the(0.0) other(0.0) 
+side(0.0) of(0.0) the(0.0) aisle(0.0) who(0.0) brought(0.0) forth(0.0) this(0.0) amendment(1.0) .(0.0) I(0.0) listened(0.0) with(0.0) interest(0.0) to(0.0) my(0.0) good(0.0) friend(0.0) from(0.0) Utah(1.0) 
+thanking(0.0) the(0.0) distinguished(0.0) minority(1.0) leader(0.0) for(0.0) the(0.0) time(0.0) to(0.0) bring(0.0) this(0.0) to(0.0) the(0.0) floor(0.0) .(0.0) I(0.0) am(0.0) sorry(0.0) the(0.0) minority(1.0) 
+leader(0.0) had(0.0) to(0.0) leave(0.0) the(0.0) floor(0.0) so(0.0) quickly(0.0) because(0.0) I(0.0) believe(0.0) inherent(0.0) in(0.0) any(0.0) question(0.0) of(0.0) policy(1.0) is(0.0) the(0.0) question(0.0) 
+of(0.0) process(0.0) .(0.0) So(0.0) I(0.0) find(0.0) it(0.0) very(0.0) curious(0.0) that(0.0) it(0.0) is(0.0) widely(0.0) speculated(0.0) upon(0.0) in(0.0) the(0.0) press(0.0) that(0.0) the(0.0) 
+distinguished(0.0) minority(1.0) leader(0.0) will(0.0) not(0.0) vote(1.0) for(0.0) the(0.0) budget(1.0) plan(1.0) which(0.0) bears(0.0) his(0.0) own(0.0) name(0.0) .(0.0) Perhaps(0.0) there(0.0) will(0.0) be(0.0) 
+some(0.0) late-breaking(0.0) developments(0.0) in(0.0) this(0.0) case(0.0) ,(0.0) but(0.0) I(0.0) find(0.0) it(0.0) incredibly(0.0) interesting(0.0) that(0.0) so(0.0) bereft(0.0) of(0.0) ideas(0.0) is(0.0) the(0.0) 
+other(0.0) side(0.0) of(0.0) the(0.0) aisle(0.0) that(0.0) the(0.0) minority(1.0) leader(0.0) ,(0.0) in(0.0) final(0.0) summation(0.0) of(0.0) the(0.0) arguments(1.0) ,(0.0) will(0.0) not(0.0) vote(1.0) 
+for(0.0) this(0.0) budget(1.0) plan(1.0) and(0.0) indeed(0.0) ,(0.0) despite(0.0) the(0.0) valiant(1.0) efforts(0.0) of(0.0) our(0.0) friends(0.0) who(0.0) are(0.0) blue(0.0) dogs(0.0) ,(0.0) they(0.0) 
+are(0.0) truly(0.0) blue(0.0) dogs(0.0) today(0.0) ,(0.0) in(0.0) all(0.0) respect(0.0) I(0.0) say(0.0) that(0.0) ,(0.0) because(0.0) so(0.0) many(0.0) Members(0.0) of(0.0) their(0.0) own(0.0) 
+party(0.0) will(0.0) abandon(0.0) them(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Arizona	
+amendment	Utah	
+minority	minority	
+policy	
+
+minority	vote	budget	plan	
+
+minority	arguments	vote	
+budget	plan	valiant	
+
+
+
+reads % = 0.07766990291262135

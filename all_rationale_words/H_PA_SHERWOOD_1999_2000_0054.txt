@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) ran(0.0) for(0.0) Congress(0.0) because(0.0) it(0.0) had(0.0) been(0.0) my(0.0) observation(0.0) that(0.0) in(0.0) northeastern(1.0) and(0.0) north(0.0) central(0.0) Pennsylvania(1.0) ,(0.0) 
+we(0.0) exported(0.0) our(0.0) milk(0.0) and(0.0) our(0.0) stone(0.0) and(0.0) our(0.0) timber(1.0) and(0.0) our(0.0) manufactured(0.0) goods(0.0) ,(0.0) but(0.0) we(0.0) had(0.0) also(0.0) for(0.0) 
+a(0.0) couple(0.0) generations(0.0) been(0.0) exporting(0.0) our(0.0) children(0.0) .(0.0) The(0.0) reason(0.0) we(0.0) exported(0.0) our(0.0) children(0.0) is(0.0) they(0.0) would(0.0) grow(0.0) up(0.0) in(0.0) 
+these(0.0) good(0.0) families(0.0) and(0.0) get(0.0) an(0.0) education(1.0) and(0.0) go(0.0) somewhere(0.0) else(0.0) to(0.0) find(0.0) a(0.0) job(0.0) ,(0.0) because(0.0) we(0.0) did(0.0) not(0.0) 
+have(0.0) enough(0.0) good(0.0) jobs(0.0) at(0.0) home(0.0) .(0.0) I(0.0) have(0.0) worked(0.0) very(0.0) hard(0.0) to(0.0) get(0.0) more(0.0) good(0.0) jobs(0.0) in(0.0) northeastern(1.0) Pennsylvania(1.0) 
+.(0.0) We(0.0) have(0.0) been(0.0) pretty(0.0) successful(0.0) at(0.0) that(0.0) .(0.0) But(0.0) the(0.0) first(0.0) rule(1.0) if(0.0) we(0.0) want(0.0) a(0.0) good(0.0) economy(1.0) in(0.0) 
+our(0.0) own(0.0) districts(1.0) is(0.0) to(0.0) protect(0.0) the(0.0) jobs(0.0) we(0.0) have(0.0) .(0.0) What(0.0) do(0.0) we(0.0) historically(1.0) do(0.0) in(0.0) the(0.0) country(1.0) ?(0.0) 
+When(0.0) I(0.0) was(0.0) a(0.0) young(0.0) man(0.0) growing(0.0) up(0.0) in(0.0) Nicholson(1.0) ,(0.0) we(0.0) had(0.0) three(0.0) feed(0.0) mills(1.0) ,(0.0) or(0.0) excuse(0.0) me(0.0) 
+,(0.0) five(0.0) feed(0.0) mills(1.0) ,(0.0) two(0.0) car(0.0) dealerships(0.0) ,(0.0) three(0.0) creameries(1.0) .(0.0) If(0.0) we(0.0) go(0.0) through(0.0) that(0.0) town(0.0) today(0.0) ,(0.0) 
+there(0.0) are(0.0) not(0.0) any(0.0) of(0.0) those(0.0) .(0.0) Why(0.0) did(0.0) that(0.0) happen(0.0) ?(0.0) That(0.0) happened(0.0) because(0.0) we(0.0) lost(0.0) our(0.0) agricultural(1.0) base(0.0) 
+.(0.0) In(0.0) the(0.0) country(1.0) ,(0.0) there(0.0) are(0.0) a(0.0) few(0.0) things(0.0) we(0.0) do(0.0) for(0.0) a(0.0) living(0.0) .(0.0) We(0.0) farm(0.0) ,(0.0) we(0.0) 
+timber(1.0) ,(0.0) we(0.0) quarry(0.0) stone(0.0) .(0.0) Those(0.0) are(0.0) all(0.0) very(0.0) important(0.0) revenue(1.0) producers(1.0) and(0.0) sources(0.0) of(0.0) employment(1.0) and(0.0) sources(0.0) of(0.0) 
+good(0.0) ,(0.0) stable(0.0) family(0.0) life(0.0) in(0.0) my(0.0) district(0.0) .(0.0) I(0.0) am(0.0) concerned(0.0) that(0.0) we(0.0) have(0.0) policies(1.0) in(0.0) this(0.0) country(1.0) that(0.0) 
+are(0.0) making(0.0) those(0.0) industries(1.0) less(0.0) and(0.0) less(0.0) viable(1.0) .(0.0) I(0.0) am(0.0) concerned(0.0) that(0.0) we(0.0) are(0.0) looking(0.0) at(0.0) an(0.0) election(1.0) coming(0.0) 
+up(0.0) right(0.0) away(0.0) for(0.0) president(0.0) where(0.0) one(0.0) of(0.0) the(0.0) candidates(0.0) does(0.0) not(0.0) believe(0.0) in(0.0) any(0.0) of(0.0) those(0.0) industries(1.0) ,(0.0) does(0.0) 
+not(0.0) really(0.0) seem(0.0) to(0.0) believe(0.0) in(0.0) a(0.0) rural(1.0) way(0.0) of(0.0) life(0.0) .(0.0) We(0.0) talk(0.0) about(0.0) the(0.0) environment(0.0) and(0.0) we(0.0) talk(0.0) 
+about(0.0) rural(1.0) jobs(0.0) and(0.0) resource(1.0) jobs(0.0) as(0.0) if(0.0) they(0.0) were(0.0) exclusive(0.0) .(0.0) With(0.0) a(0.0) well-run(0.0) country(0.0) ,(0.0) they(0.0) are(0.0) not(0.0) 
+mutually(0.0) exclusive(0.0) .(0.0) We(0.0) can(0.0) have(0.0) a(0.0) good(0.0) economy(1.0) and(0.0) a(0.0) pristine(0.0) environment(0.0) if(0.0) we(0.0) continue(0.0) to(0.0) manage(0.0) it(0.0) carefully(0.0) 
+.(0.0) In(0.0) Pennsylvania(1.0) ,(0.0) we(0.0) have(0.0) the(0.0) sustainable(1.0) forestry(1.0) initiative(1.0) .(0.0) We(0.0) have(0.0) the(0.0) Chesapeake(1.0) Bay(1.0) initiative(1.0) .(0.0) Both(0.0) are(0.0) 
+programs(1.0) that(0.0) have(0.0) taught(0.0) our(0.0) forest(0.0) industry(0.0) people(0.0) when(0.0) they(0.0) can(0.0) timber(1.0) ,(0.0) when(0.0) they(0.0) ca(0.0) n't(0.0) timber(1.0) ,(0.0) when(0.0) 
+they(0.0) have(0.0) to(0.0) be(0.0) worried(0.0) about(0.0) degrading(1.0) the(0.0) water(1.0) supply(1.0) .(0.0) They(0.0) have(0.0) taught(0.0) our(0.0) farmers(1.0) nutrient(1.0) management(0.0) ,(0.0) and(0.0) 
+that(0.0) everything(0.0) we(0.0) do(0.0) runs(0.0) downhill(0.0) and(0.0) eventually(0.0) ends(0.0) up(0.0) in(0.0) the(0.0) Chesapeake(1.0) .(0.0) We(0.0) have(0.0) learned(0.0) a(0.0) lot(0.0) in(0.0) 
+the(0.0) last(0.0) 20(0.0) years(0.0) .(0.0) We(0.0) have(0.0) learned(0.0) a(0.0) lot(0.0) about(0.0) how(0.0) we(0.0) are(0.0) good(0.0) stewards(0.0) of(0.0) our(0.0) environment(0.0) and(0.0) 
+the(0.0) people(0.0) that(0.0) are(0.0) downstream(0.0) .(0.0) Yet(0.0) ,(0.0) we(0.0) have(0.0) an(0.0) EPA(1.0) now(0.0) that(0.0) wants(1.0) to(0.0) make(0.0) all(0.0) farming(1.0) operations(0.0) 
+point(0.0) source(0.0) polluters(1.0) ,(0.0) all(0.0) forestry(1.0) operations(0.0) point(0.0) source(0.0) polluters(1.0) ,(0.0) when(0.0) these(0.0) two(0.0) issues(0.0) have(0.0) been(0.0) very(0.0) capably(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	northeastern	Pennsylvania	
+timber	
+
+education	
+northeastern	Pennsylvania	
+rule	economy	
+districts	historically	country	
+Nicholson	mills	
+mills	creameries	
+agricultural	
+country	
+timber	revenue	producers	employment	
+policies	country	
+industries	viable	election	
+industries	
+rural	
+rural	resource	
+economy	
+Pennsylvania	sustainable	forestry	initiative	Chesapeake	Bay	initiative	
+programs	timber	timber	
+degrading	water	supply	farmers	nutrient	
+Chesapeake	
+
+EPA	wants	farming	
+polluters	forestry	polluters	
+
+reads % = 0.108

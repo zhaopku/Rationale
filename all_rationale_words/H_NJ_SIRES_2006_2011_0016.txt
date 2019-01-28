@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) to(0.0) express(0.0) my(0.0) outrage(1.0) over(0.0) this(0.0) weekend(0.0) 's(0.0) religious(1.0) violence(1.0) in(0.0) Egypt(1.0) .(0.0) Despite(0.0) January(0.0) 's(0.0) 
+inspiring(0.0) calls(0.0) for(0.0) freedom(1.0) and(0.0) democracy(1.0) ,(0.0) religious(1.0) minorities(1.0) in(0.0) Egypt(1.0) ,(0.0) such(0.0) as(0.0) the(0.0) Coptic(1.0) Christians(1.0) ,(0.0) are(0.0) facing(0.0) 
+increasing(1.0) attacks(1.0) during(0.0) Egypt's(0.0) transition(1.0) .(0.0) On(0.0) Saturday(0.0) ,(0.0) a(0.0) religious(0.0) clash(0.0) broke(0.0) out(0.0) in(0.0) Cairo(0.0) involving(0.0) an(0.0) estimated(0.0) 2,000(0.0) 
+people(0.0) .(0.0) In(0.0) the(0.0) aftermath(1.0) of(0.0) this(0.0) weekend(0.0) 's(0.0) sectarian(1.0) violence(1.0) ,(0.0) six(0.0) Muslims(1.0) and(0.0) six(0.0) Christians(1.0) were(0.0) dead(0.0) .(0.0) 
+The(0.0) Coptic(1.0) Christians(1.0) ,(0.0) like(0.0) all(0.0) Egyptians(0.0) ,(0.0) are(0.0) demanding(1.0) freedom(1.0) and(0.0) respect(0.0) .(0.0) I(0.0) am(0.0) concerned(0.0) that(0.0) even(0.0) with(0.0) 
+Egypt(0.0) 's(0.0) transition(0.0) ,(0.0) minority(1.0) rights(1.0) remain(0.0) extremely(0.0) limited(0.0) ,(0.0) and(0.0) I(0.0) believe(0.0) that(0.0) the(0.0) interim(0.0) government(1.0) is(0.0) not(0.0) doing(0.0) 
+enough(0.0) to(0.0) protect(0.0) the(0.0) rights(1.0) and(0.0) lives(0.0) of(0.0) its(0.0) citizens(1.0) .(0.0) Coptic(0.0) Christians(1.0) deserve(0.0) to(0.0) live(0.0) and(0.0) worship(0.0) without(0.0) being(0.0) 
+threatened(0.0) ,(0.0) injured(0.0) or(0.0) killed(0.0) .(0.0) Violence(1.0) in(0.0) the(0.0) name(0.0) of(0.0) religion(1.0) is(0.0) unacceptable(0.0) ,(0.0) but(0.0) when(0.0) governments(1.0) do(0.0) not(0.0) 
+sufficiently(0.0) address(0.0) such(0.0) behavior(0.0) ,(0.0) the(0.0) violence(1.0) is(0.0) far(0.0) more(0.0) troubling(0.0) .(0.0) The(0.0) United(0.0) States(0.0) must(0.0) stand(0.0) firmly(0.0) with(0.0) the(0.0) 
+people(0.0) of(0.0) Egypt(0.0) ,(0.0) and(0.0) the(0.0) U.S.(0.0) assistance(0.0) to(0.0) Egypt(0.0) must(0.0) be(0.0) tied(0.0) to(0.0) a(0.0) strong(0.0) respect(0.0) for(0.0) human(0.0) rights(1.0) 
+and(0.0) freedom(1.0) of(0.0) religion(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+outrage	religious	violence	Egypt	
+freedom	democracy	religious	minorities	Egypt	Coptic	Christians	
+increasing	attacks	transition	
+aftermath	sectarian	violence	Muslims	Christians	
+Coptic	Christians	demanding	freedom	
+minority	rights	government	
+rights	citizens	Christians	
+Violence	religion	governments	
+violence	
+rights	
+freedom	religion	
+
+reads % = 0.17475728155339806

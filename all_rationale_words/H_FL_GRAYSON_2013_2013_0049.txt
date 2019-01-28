@@ -1,0 +1,10 @@
+This is from a Democrat
+----- below is the original text -----
+Well(0.0) ,(0.0) excuse(1.0) me(0.0) ,(0.0) but(0.0) I(0.0) have(0.0) a(0.0) point(0.0) of(0.0) parliamentary(1.0) order(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+excuse	parliamentary	order	
+
+reads % = 0.21428571428571427

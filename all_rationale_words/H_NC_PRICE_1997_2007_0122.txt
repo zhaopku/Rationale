@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) strike(1.0) the(0.0) last(0.0) word(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) want(0.0) to(0.0) commend(0.0) the(0.0) gentleman(0.0) from(0.0) Indiana(0.0) 
+for(0.0) this(0.0) very(0.0) well-conceived(0.0) amendment(1.0) ,(0.0) Mr.(0.0) Ellsworth(1.0) 's(0.0) proposing(1.0) that(0.0) the(0.0) Department(0.0) of(0.0) Homeland(0.0) Security(0.0) be(0.0) prohibited(0.0) from(0.0) awarding(0.0) 
+contracts(0.0) to(0.0) those(0.0) that(0.0) owe(0.0) the(0.0) Federal(0.0) Government(0.0) money(0.0) .(0.0) It(0.0) seems(0.0) pretty(0.0) straightforward(0.0) and(0.0) sensible(1.0) ,(0.0) and(0.0) a(0.0) rule(0.0) 
+that(0.0) we(0.0) need(0.0) to(0.0) adopt(1.0) .(0.0) This(0.0) would(0.0) apply(0.0) to(0.0) contractors(1.0) that(0.0) violate(1.0) tax(1.0) laws(1.0) ,(0.0) that(1.0) fail(1.0) to(0.0) pay(1.0) 
+Federal(1.0) taxes(1.0) ,(0.0) that(0.0) have(0.0) an(0.0) unsatisfied(0.0) Federal(1.0) liability(1.0) .(0.0) The(0.0) Federal(1.0) Acquisition(0.0) Regulation(1.0) ,(0.0) fortunately(0.0) ,(0.0) does(0.0) have(0.0) a(0.0) 
+rule-(0.0) making(0.0) under(0.0) way(0.0) that(0.0) we(0.0) believe(0.0) will(0.0) eventually(0.0) provide(0.0) similar(0.0) coverage(1.0) to(0.0) all(0.0) Federal(1.0) agencies(1.0) ,(0.0) including(0.0) DHS(1.0) .(0.0) 
+But(0.0) the(0.0) gentleman(0.0) has(0.0) anticipated(0.0) that(0.0) ruling(1.0) .(0.0) He(0.0) 's(0.0) got(0.0) language(0.0) here(0.0) that(0.0) would(0.0) offer(0.0) protection(0.0) earlier(0.0) and(0.0) would(0.0) 
+confirm(0.0) what(0.0) we(0.0) hope(0.0) will(0.0) be(0.0) more(0.0) general(0.0) policy(1.0) .(0.0) So(0.0) it(0.0) 's(0.0) a(0.0) very(0.0) well-conceived(0.0) amendment(1.0) ,(0.0) and(0.0) I(0.0) 
+commend(0.0) him(0.0) for(0.0) it(0.0) and(0.0) hope(0.0) that(0.0) we(0.0) can(0.0) adopt(1.0) it(0.0) .(0.0) I(0.0) urge(0.0) its(0.0) adoption(1.0) .(0.0) Point(0.0) of(0.0) Order(0.0) 
+
+
+
+----- below are rationale words -----
+
+strike	Chairman	
+amendment	Ellsworth	proposing	
+sensible	
+adopt	contractors	violate	tax	laws	that	fail	pay	
+Federal	taxes	Federal	liability	Federal	Regulation	
+coverage	Federal	agencies	DHS	
+ruling	
+policy	amendment	
+adopt	adoption	
+
+
+reads % = 0.16022099447513813

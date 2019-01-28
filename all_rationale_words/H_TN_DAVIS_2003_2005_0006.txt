@@ -1,0 +1,30 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) last(0.0) week(0.0) the(0.0) Pro-Life(1.0) Democratic(1.0) Members(0.0) of(0.0) Congress(0.0) introduced(0.0) an(0.0) abortion(1.0) reduction(1.0) proposal(1.0) called(0.0) the(0.0) 95-10(1.0) Initiative(1.0) .(0.0) 
+This(0.0) comprehensive(0.0) proposal(1.0) of(0.0) 15(0.0) different(0.0) policy(1.0) programs(1.0) should(0.0) reduce(0.0) the(0.0) number(0.0) of(0.0) abortions(1.0) in(0.0) America(1.0) by(0.0) 95(0.0) percent(0.0) over(0.0) 
+the(0.0) next(0.0) 10(0.0) years(0.0) by(0.0) providing(0.0) women(1.0) with(0.0) support(0.0) ,(0.0) information(0.0) ,(0.0) and(0.0) viable(1.0) alternatives(1.0) to(0.0) abortion(1.0) .(0.0) The(0.0) initiative(1.0) 
+is(0.0) a(0.0) clear(0.0) indication(0.0) that(0.0) pro-life(1.0) Democrats(1.0) in(1.0) Congress(0.0) ,(0.0) in(0.0) conjunction(0.0) with(0.0) the(0.0) Democrats(1.0) for(0.0) Life(0.0) of(0.0) America(1.0) ,(0.0) 
+are(0.0) firmly(0.0) committed(1.0) to(0.0) reducing(1.0) abortions(1.0) in(0.0) America(1.0) .(0.0) By(0.0) looking(0.0) into(0.0) the(0.0) different(0.0) reasons(0.0) that(0.0) women(1.0) choose(0.0) abortion(1.0) rather(0.0) 
+than(0.0) just(0.0) politicizing(1.0) the(0.0) issue(1.0) ,(0.0) we(0.0) have(0.0) been(0.0) able(0.0) to(0.0) come(0.0) up(0.0) with(0.0) a(0.0) comprehensive(0.0) and(0.0) commonsense(1.0) initiative(1.0) that(0.0) 
+would(0.0) empower(1.0) women(1.0) and(0.0) encourage(0.0) them(0.0) to(0.0) choose(0.0) life(0.0) .(0.0) The(0.0) 95-10(1.0) Initiative(1.0) seeks(1.0) to(0.0) eliminate(1.0) the(0.0) pressures(1.0) that(0.0) lead(0.0) 
+to(0.0) abortions(1.0) through(0.0) various(0.0) measures(1.0) ,(0.0) including(0.0) adoption(1.0) tax(1.0) credits(1.0) ,(0.0) abortion(1.0) referral(1.0) information(0.0) ,(0.0) adoption(1.0) referral(1.0) information(0.0) ,(0.0) and(0.0) 
+fully(0.0) funding(1.0) the(0.0) special(0.0) nutrition(1.0) WIC(1.0) program(1.0) .(0.0) Additionally(0.0) ,(0.0) the(0.0) initiative(1.0) calls(0.0) for(0.0) expanding(1.0) insurance(1.0) coverage(1.0) to(0.0) pregnant(1.0) women(1.0) 
+and(0.0) to(0.0) newborns(1.0) ,(0.0) and(0.0) removes(1.0) pregnancy(1.0) as(0.0) a(0.0) preexisting(1.0) health(1.0) condition(0.0) .(0.0) I(0.0) strongly(0.0) urge(1.0) my(0.0) colleagues(0.0) on(0.0) both(0.0) 
+sides(0.0) of(0.0) the(0.0) aisle(0.0) to(0.0) join(0.0) the(0.0) pro-life(1.0) Democrats(1.0) in(1.0) supporting(1.0) a(1.0) comprehensive(0.0) 95-10(1.0) abortion(1.0) reduction(1.0) bill(1.0) .(1.0) 
+
+
+----- below are rationale words -----
+
+Pro-Life	Democratic	abortion	reduction	proposal	95-10	Initiative	
+proposal	policy	programs	abortions	America	
+women	viable	alternatives	abortion	initiative	
+pro-life	Democrats	in	Democrats	America	
+committed	reducing	abortions	America	women	abortion	
+politicizing	issue	commonsense	initiative	
+empower	women	95-10	Initiative	seeks	eliminate	pressures	
+abortions	measures	adoption	tax	credits	abortion	referral	adoption	referral	
+funding	nutrition	WIC	program	initiative	expanding	insurance	coverage	pregnant	women	
+newborns	removes	pregnancy	preexisting	health	urge	
+pro-life	Democrats	in	supporting	a	95-10	abortion	reduction	bill	.	
+
+reads % = 0.3378995433789954

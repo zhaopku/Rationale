@@ -1,0 +1,36 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) H.R(0.0) .(0.0) 395(1.0) ,(0.0) which(0.0) names(0.0) a(0.0) Post(0.0) Office(0.0) after(0.0) Ronald(1.0) W.(1.0) Reagan(0.0) ,(0.0) was(0.0) introduced(0.0) today(0.0) by(0.0) 
+the(0.0) gentleman(0.0) from(0.0) Florida(1.0) ((0.0) Mr.(0.0) Weldon(1.0) )(0.0) .(0.0) This(0.0) measure(1.0) is(0.0) identical(1.0) to(0.0) H.R(0.0) .(0.0) 5309(1.0) introduced(0.0) last(0.0) year(0.0) 
+by(0.0) the(0.0) gentleman(0.0) and(0.0) which(0.0) was(0.0) passed(0.0) by(0.0) the(0.0) House(0.0) on(0.0) October(0.0) 27(0.0) of(0.0) the(0.0) year(0.0) 2000(0.0) .(0.0) Ronald(1.0) Wilson(0.0) 
+Reagan(1.0) ,(0.0) known(0.0) as(0.0) ``(0.0) Dutch(0.0) ,(0.0) ''(0.0) ``(0.0) The(0.0) Gipper(1.0) ''(0.0) and(0.0) ``(0.0) The(0.0) Great(0.0) Communicator(1.0) ,(0.0) ''(0.0) was(0.0) 
+the(0.0) 40th(1.0) President(1.0) of(0.0) the(0.0) United(0.0) States(0.0) .(0.0) He(0.0) served(1.0) as(0.0) President(1.0) from(0.0) January(0.0) 1981(1.0) to(0.0) January(0.0) 1989(0.0) .(0.0) At(0.0) 
+73(1.0) ,(0.0) he(0.0) was(0.0) the(0.0) oldest(1.0) man(1.0) ever(0.0) elected(1.0) to(0.0) the(0.0) Presidency(1.0) .(0.0) And(0.0) ,(0.0) as(0.0) remarked(0.0) earlier(0.0) ,(0.0) today(1.0) 
+marks(0.0) his(0.0) 90th(1.0) birthday(0.0) .(0.0) He(0.0) was(0.0) an(0.0) actor(0.0) by(0.0) profession(0.0) ,(0.0) but(0.0) he(0.0) also(1.0) served(1.0) as(0.0) the(0.0) Governor(1.0) of(0.0) 
+my(0.0) State(1.0) of(0.0) California(0.0) from(0.0) 1966(1.0) to(0.0) 1979(0.0) .(0.0) During(1.0) his(0.0) Presidency(1.0) ,(0.0) his(0.0) economic(0.0) policies(1.0) came(0.0) to(0.0) be(0.0) known(0.0) 
+as(0.0) ``(0.0) Reaganomics(1.0) .(0.0) ''(0.0) In(0.0) November(0.0) of(0.0) 1994(0.0) ,(0.0) former(0.0) President(0.0) Reagan(1.0) announced(1.0) that(0.0) he(0.0) was(0.0) afflicted(1.0) with(0.0) Alzheimer(1.0) 
+'s(0.0) .(0.0) Although(0.0) a(0.0) number(0.0) of(0.0) facilities(1.0) have(0.0) been(0.0) named(0.0) after(0.0) the(0.0) former(0.0) President(1.0) ,(0.0) schools(1.0) ,(0.0) streets(1.0) ,(0.0) highways(1.0) 
+,(0.0) and(0.0) even(0.0) the(0.0) Washington(1.0) airport(1.0) ,(0.0) a(0.0) crowning(0.0) achievement(0.0) was(0.0) when(0.0) President(0.0) Clinton(1.0) dedicated(1.0) the(0.0) Ronald(1.0) Reagan(0.0) Building(0.0) here(0.0) 
+in(0.0) Washington(1.0) D.C.(1.0) in(0.0) 1998(0.0) .(0.0) That(0.0) building(0.0) houses(1.0) an(0.0) international(0.0) trade(1.0) center(1.0) ,(0.0) international(0.0) cultural(0.0) activities(0.0) ,(0.0) the(0.0) Agency(1.0) 
+for(0.0) International(0.0) Development(0.0) ,(0.0) and(0.0) many(0.0) others(0.0) .(0.0) Mr.(1.0) Speaker(1.0) ,(0.0) I(0.0) urge(1.0) the(0.0) swift(1.0) passage(0.0) of(0.0) this(0.0) bill(0.0) .(0.0) 
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	395	Ronald	W.	
+Florida	Weldon	measure	identical	5309	
+Ronald	
+Reagan	Gipper	Communicator	
+40th	President	served	President	1981	
+73	oldest	man	elected	Presidency	today	
+90th	also	served	Governor	
+State	1966	During	Presidency	policies	
+Reaganomics	Reagan	announced	afflicted	Alzheimer	
+facilities	President	schools	streets	highways	
+Washington	airport	Clinton	dedicated	Ronald	
+Washington	D.C.	houses	trade	center	Agency	
+Mr.	Speaker	urge	swift	
+Speaker	time	
+
+reads % = 0.21978021978021978

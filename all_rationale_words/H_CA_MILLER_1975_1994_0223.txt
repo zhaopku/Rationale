@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(1.0) to(0.0) suspend(0.0) the(0.0) rules(1.0) and(0.0) pass(1.0) the(0.0) bill(0.0) ((0.0) H.R(0.0) .(0.0) 1690(1.0) )(0.0) to(0.0) authorize(0.0) certain(0.0) elements(0.0) 
+of(0.0) the(0.0) Yakima(1.0) River(0.0) Basin(0.0) water(0.0) enhancement(0.0) project(0.0) ,(0.0) and(0.0) for(0.0) other(0.0) purposes(0.0) ,(0.0) as(0.0) amended(1.0) .(0.0) The(0.0) Clerk(1.0) read(1.0) 
+as(0.0) follows(1.0) :(0.0) H.R(0.0) .(0.0) 1690(1.0) Be(0.0) it(0.0) enacted(1.0) by(0.0) the(0.0) Senate(1.0) and(0.0) House(0.0) of(0.0) Representatives(0.0) of(0.0) the(0.0) United(0.0) States(0.0) 
+of(0.0) America(0.0) in(0.0) Congress(0.0) assembled(1.0) ,(0.0) SECTION(1.0) 1(0.0) .(0.0) PURPOSES(1.0) .(0.0) The(0.0) purposes(1.0) of(0.0) this(0.0) Act(0.0) are(0.0) --(0.0) ((0.0) 1(1.0) 
+)(0.0) to(0.0) protect(0.0) ,(0.0) mitigate(0.0) ,(0.0) and(0.0) enhance(1.0) fish(0.0) and(0.0) wildlife(0.0) through(0.0) improved(0.0) water(0.0) management(1.0) ;(0.0) improved(0.0) instream(1.0) flows(0.0) ;(0.0) 
+improved(0.0) water(0.0) quality(0.0) ;(0.0) protection(1.0) ,(0.0) creation(0.0) and(0.0) enhancement(0.0) of(0.0) wetlands(1.0) ;(0.0) and(0.0) by(0.0) other(0.0) appropriate(1.0) means(1.0) of(0.0) habitat(1.0) improvement(1.0) 
+;(0.0) ((0.0) 2(0.0) )(0.0) to(0.0) improve(1.0) the(0.0) reliability(0.0) of(0.0) water(0.0) supply(1.0) for(0.0) irrigation(1.0) ;(0.0) ((0.0) 3(0.0) )(0.0) to(0.0) authorize(0.0) a(0.0) 
+Yakima(1.0) River(0.0) basin(1.0) water(0.0) conservation(0.0) program(0.0) that(0.0) will(0.0) improve(1.0) the(0.0) efficiency(0.0) of(0.0) water(0.0) delivery(0.0) and(0.0) use(0.0) ;(0.0) enhance(1.0) basin(1.0) water(0.0) 
+supplies(0.0) ;(0.0) improve(1.0) water(0.0) quality(0.0) ;(0.0) protect(0.0) ,(0.0) create(0.0) and(0.0) enhance(1.0) wetlands(1.0) ;(0.0) and(0.0) determine(1.0) the(0.0) amount(0.0) of(0.0) basin(1.0) water(0.0) 
+needs(0.0) that(0.0) can(1.0) be(0.0) met(0.0) by(0.0) water(0.0) conservation(0.0) measures(1.0) ;(0.0) ((0.0) 4(1.0) )(0.0) to(0.0) realize(0.0) sufficient(0.0) water(0.0) savings(1.0) from(0.0) the(0.0) 
+Yakima(1.0) River(0.0) Basin(0.0) Water(0.0) Conservation(0.0) Program(0.0) so(0.0) that(0.0) not(1.0) less(0.0) than(0.0) 40,000(0.0) acre-feet(1.0) of(0.0) water(0.0) savings(1.0) per(0.0) year(0.0) are(0.0) achieved(0.0) 
+by(0.0) the(0.0) end(0.0) of(0.0) the(0.0) fourth(1.0) year(0.0) of(0.0) the(0.0) Basin(0.0) Conservation(0.0) Program(0.0) ,(0.0) and(0.0) not(1.0) less(0.0) than(0.0) 110,000(1.0) acre-feet(1.0) of(0.0) 
+water(0.0) savings(1.0) per(0.0) year(0.0) are(0.0) achieved(0.0) by(0.0) the(0.0) end(0.0) of(0.0) the(0.0) eighth(1.0) year(0.0) of(0.0) the(0.0) program(0.0) ,(0.0) to(0.0) protect(0.0) and(0.0) 
+enhance(1.0) fish(0.0) and(0.0) wildlife(0.0) resources(0.0) ;(0.0) and(0.0) not(0.0) less(0.0) than(0.0) 55,000(1.0) acre(1.0) feet(0.0) of(0.0) water(0.0) savings(1.0) per(0.0) year(0.0) are(0.0) achieved(0.0) 
+by(0.0) the(0.0) end(0.0) of(0.0) the(0.0) eighth(1.0) year(0.0) of(0.0) the(0.0) program(0.0) for(0.0) availability(0.0) for(0.0) irrigation(1.0) ;(0.0) ((0.0) 5(0.0) )(0.0) to(0.0) encourage(1.0) 
+voluntary(1.0) transactions(1.0) among(0.0) public(0.0) and(0.0) private(0.0) entities(0.0) which(0.0) result(0.0) in(0.0) the(0.0) implementation(0.0) of(0.0) water(0.0) conservation(0.0) measures(1.0) ,(0.0) practices(1.0) ,(0.0) and(0.0) 
+facilities(0.0) ;(0.0) and(0.0) ((0.0) 6(0.0) )(0.0) to(0.0) provide(0.0) for(0.0) the(0.0) implementation(0.0) by(0.0) the(0.0) Yakama(1.0) Indian(0.0) Nation(0.0) at(0.0) its(0.0) sole(0.0) discretion(1.0) 
+of(0.0) ((0.0) A(1.0) )(0.0) an(0.0) irrigation(1.0) demonstration(1.0) project(0.0) on(0.0) the(0.0) Yakama(1.0) Indian(0.0) Reservation(0.0) using(0.0) water(0.0) savings(1.0) from(0.0) system(0.0) improvements(0.0) to(0.0) 
+the(0.0) Wapato(1.0) Irrigation(1.0) Project(1.0) ,(0.0) and(0.0) ((0.0) B(0.0) )(0.0) a(0.0) Toppenish(1.0) Creek(0.0) corridor(0.0) enhancement(0.0) project(0.0) integrating(1.0) agricultural(1.0) ,(0.0) fish(0.0) ,(0.0) 
+wildlife(1.0) ,(0.0) and(0.0) cultural(0.0) resources(0.0) .(0.0) SEC(1.0) .(0.0) 2(0.0) .(1.0) DEFINITIONS(1.0) .(0.0) As(0.0) used(0.0) in(0.0) this(0.0) Act(0.0) :(1.0) ((0.0) 1(1.0) 
+)(0.0) The(0.0) term(0.0) ``(0.0) Basin(0.0) Conservation(0.0) Plan(1.0) ''(0.0) means(1.0) a(0.0) plan(1.0) for(0.0) implementing(0.0) water(0.0) conservation(0.0) measures(1.0) found(0.0) in(0.0) the(0.0) various(1.0) 
+water(0.0) conservation(0.0) plans(1.0) developed(0.0) under(0.0) the(0.0) Basin(0.0) Conservation(0.0) Program(0.0) .(0.0) ((0.0) 2(0.0) )(0.0) The(0.0) term(0.0) ``(0.0) Basin(0.0) Conservation(0.0) Program(0.0) ''(0.0) 
+means(1.0) the(0.0) Yakima(1.0) River(0.0) Basin(0.0) Water(0.0) Conservation(0.0) Program(0.0) established(1.0) under(0.0) section(0.0) 3(0.0) ((0.0) a(0.0) )(0.0) .(0.0) ((0.0) 3(0.0) )(0.0) The(0.0) 
+term(0.0) ``(0.0) comprehensive(1.0) basin(1.0) operating(0.0) plan(1.0) ''(0.0) means(1.0) a(0.0) plan(1.0) that(0.0) will(0.0) provide(0.0) guidance(0.0) to(0.0) the(0.0) Yakima(1.0) Project(1.0) Superintendent(0.0) for(0.0) 
+operation(0.0) of(0.0) the(0.0) existing(0.0) Yakima(0.0) Project(1.0) as(0.0) modified(0.0) by(0.0) actions(0.0) taken(0.0) pursuant(1.0) to(0.0) this(0.0) Act(0.0) .(0.0) ((0.0) 4(1.0) )(0.0) 
+
+
+----- below are rationale words -----
+
+move	rules	pass	1690	
+Yakima	amended	Clerk	read	
+follows	1690	enacted	Senate	
+assembled	SECTION	PURPOSES	purposes	1	
+enhance	management	instream	
+protection	wetlands	appropriate	means	habitat	improvement	
+improve	supply	irrigation	
+Yakima	basin	improve	enhance	basin	
+improve	enhance	wetlands	determine	basin	
+can	measures	4	savings	
+Yakima	not	acre-feet	savings	
+fourth	not	110,000	acre-feet	
+savings	eighth	
+enhance	55,000	acre	savings	
+eighth	irrigation	encourage	
+voluntary	transactions	measures	practices	
+Yakama	discretion	
+A	irrigation	demonstration	Yakama	savings	
+Wapato	Irrigation	Project	Toppenish	integrating	agricultural	
+wildlife	SEC	.	DEFINITIONS	:	1	
+Plan	means	plan	measures	various	
+plans	
+means	Yakima	established	
+comprehensive	basin	plan	means	plan	Yakima	Project	
+Project	pursuant	4	
+
+reads % = 0.204

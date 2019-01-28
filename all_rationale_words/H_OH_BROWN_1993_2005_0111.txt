@@ -1,0 +1,40 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) think(0.0) there(0.0) were(0.0) a(0.0) couple(0.0) of(0.0) things(0.0) that(0.0) you(0.0) said(0.0) tonight(0.0) that(0.0) were(0.0) very(0.0) good(0.0) .(0.0) There(0.0) is(0.0) nothing(0.0) in(0.0) 
+this(0.0) agreement(0.0) that(0.0) will(0.0) raise(1.0) living(0.0) standards(1.0) when(0.0) you(0.0) look(0.0) at(0.0) the(0.0) six(0.0) countries(0.0) here(0.0) ,(0.0) and(0.0) their(0.0) incomes(1.0) ,(0.0) 
+especially(0.0) Nicaragua(1.0) ,(0.0) Honduras(1.0) ,(0.0) Guatemala(1.0) ,(0.0) and(0.0) El(0.0) Salvador(1.0) ,(0.0) all(0.0) make(0.0) no(0.0) more(0.0) than(0.0) about(0.0) one-tenth(1.0) of(0.0) what(0.0) 
+Americans(1.0) make(0.0) .(0.0) There(0.0) is(0.0) nothing(0.0) in(0.0) this(0.0) agreement(1.0) to(0.0) bring(0.0) worker(1.0) standards(1.0) up(0.0) ,(0.0) to(0.0) bring(0.0) environmental(1.0) or(0.0) food(1.0) 
+safety(0.0) standards(1.0) up(0.0) .(0.0) In(0.0) fact(0.0) ,(0.0) this(0.0) agreement(1.0) protects(0.0) prescription(1.0) drugs(1.0) and(0.0) the(0.0) prescription(1.0) drug(1.0) companies(1.0) ;(0.0) the(0.0) agreement(0.0) 
+does(0.0) that(0.0) ,(0.0) but(0.0) does(0.0) not(0.0) protect(0.0) workers(1.0) standards(1.0) .(0.0) It(0.0) protects(0.0) Hollywood(1.0) films(0.0) ,(0.0) but(0.0) does(0.0) not(0.0) protect(0.0) the(0.0) 
+environment(0.0) and(0.0) food(1.0) safety(0.0) .(0.0) And(0.0) when(0.0) you(0.0) talk(0.0) about(0.0) the(0.0) size(0.0) of(0.0) these(0.0) economies(1.0) not(0.0) buying(0.0) very(0.0) much(0.0) from(0.0) 
+the(0.0) United(0.0) States(0.0) ,(0.0) the(0.0) size(0.0) of(0.0) these(0.0) five(0.0) Central(0.0) American(0.0) countries(1.0) ,(0.0) the(0.0) economic(1.0) output(0.0) is(0.0) about(0.0) the(0.0) equivalent(0.0) 
+of(0.0) Columbus(1.0) ,(0.0) Ohio(1.0) or(0.0) Memphis(0.0) ,(0.0) Tennessee(1.0) or(0.0) Orlando(0.0) ,(0.0) Florida(1.0) .(0.0) It(0.0) is(0.0) simply(0.0) not(0.0) a(0.0) place(0.0) that(0.0) 
+is(0.0) going(0.0) to(0.0) buy(0.0) from(0.0) the(0.0) United(0.0) States(0.0) .(0.0) But(0.0) what(0.0) we(0.0) should(0.0) be(0.0) doing(0.0) is(0.0) a(0.0) trade(0.0) agreement(0.0) ,(0.0) 
+a(0.0) renegotiation(1.0) of(0.0) CAFTA(1.0) ,(0.0) in(0.0) a(0.0) trade(1.0) agreement(0.0) that(0.0) will(0.0) lift(0.0) worker(1.0) standards(0.0) up(0.0) so(0.0) that(0.0) these(0.0) incomes(1.0) begin(0.0) 
+to(0.0) rise(0.0) ,(0.0) so(0.0) that(0.0) over(0.0) time(0.0) they(0.0) can(0.0) in(0.0) fact(0.0) buy(0.0) American(0.0) products(0.0) ,(0.0) they(0.0) can(0.0) send(0.0) their(0.0) kids(0.0) 
+to(0.0) school(1.0) .(0.0) You(0.0) talk(0.0) about(0.0) children(0.0) ,(0.0) particularly(0.0) girls(1.0) ,(0.0) not(0.0) having(0.0) any(0.0) chance(0.0) to(0.0) go(0.0) to(0.0) school(0.0) and(0.0) 
+get(0.0) out(0.0) of(0.0) this(0.0) situation(0.0) .(0.0) In(0.0) this(0.0) agreement(1.0) ,(0.0) we(0.0) found(0.0) this(0.0) in(0.0) other(0.0) places(0.0) ,(0.0) this(0.0) agreement(0.0) just(0.0) 
+locks(0.0) in(0.0) that(0.0) sort(0.0) of(0.0) exploitive(1.0) sort(0.0) of(0.0) economic(1.0) situation(0.0) where(0.0) people(0.0) simply(0.0) do(0.0) not(0.0) have(0.0) the(0.0) opportunity(0.0) that(0.0) they(0.0) 
+should(0.0) have(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+raise	standards	incomes	
+Nicaragua	Honduras	Guatemala	Salvador	one-tenth	
+Americans	agreement	worker	standards	environmental	food	
+standards	agreement	prescription	drugs	prescription	drug	companies	
+workers	standards	Hollywood	
+food	economies	
+countries	economic	
+Columbus	Ohio	Tennessee	Florida	
+
+renegotiation	CAFTA	trade	worker	incomes	
+
+school	girls	
+agreement	
+exploitive	economic	
+
+
+reads % = 0.13815789473684212

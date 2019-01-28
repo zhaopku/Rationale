@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) rural(1.0) Arizona(1.0) is(0.0) under(0.0) attack(0.0) from(0.0) overregulation(1.0) ,(0.0) out-of-control(1.0) spending(1.0) ,(0.0) and(0.0) government(1.0) redtape(1.0) .(0.0) The(0.0) small(0.0) businesses(1.0) that(0.0) 
+power(0.0) my(0.0) district(0.0) can(0.0) no(0.0) longer(0.0) compete(0.0) .(0.0) I(0.0) just(0.0) wrapped(0.0) up(0.0) a(0.0) weeklong(0.0) tour(0.0) of(0.0) my(0.0) district(0.0) ,(0.0) and(0.0) 
+one(0.0) thing(0.0) was(0.0) clear(0.0) :(0.0) The(0.0) Federal(1.0) Government(1.0) is(0.0) in(0.0) the(0.0) way(0.0) and(0.0) inhibiting(1.0) my(0.0) district(0.0) from(0.0) creating(0.0) jobs(1.0) .(0.0) 
+Government(1.0) agencies(1.0) have(0.0) over-regulated(1.0) our(0.0) businesses(1.0) out(0.0) of(0.0) existence(1.0) .(0.0) Take(0.0) for(0.0) example(0.0) the(0.0) Schultz(1.0) Pass(1.0) Fire(0.0) in(0.0) Coconino(1.0) County(0.0) 
+.(0.0) Last(0.0) year(0.0) ,(0.0) a(0.0) 12-year-old(0.0) girl(0.0) ,(0.0) Shaelyn(0.0) Wilson(1.0) ,(0.0) lost(0.0) her(0.0) life(0.0) because(0.0) of(0.0) the(0.0) government(1.0) 's(0.0) inability(0.0) 
+to(0.0) use(0.0) our(0.0) forest(0.0) resources(0.0) in(0.0) a(0.0) commonsense(1.0) fashion(0.0) .(0.0) As(0.0) a(0.0) further(0.0) insult(0.0) ,(0.0) this(0.0) manmade(1.0) ,(0.0) bureaucrat-dictated(0.0) disaster(1.0) 
+resulted(1.0) in(0.0) a(0.0) fire(0.0) that(0.0) could(0.0) have(0.0) been(0.0) prevented(0.0) ,(0.0) and(0.0) now(0.0) we(0.0) ,(0.0) the(0.0) American(0.0) taxpayer(1.0) ,(0.0) will(0.0) be(0.0) 
+forced(1.0) to(0.0) pay(1.0) for(0.0) it(0.0) for(0.0) the(0.0) next(0.0) 50(0.0) to(0.0) 100(0.0) years(0.0) .(0.0) Enough(0.0) is(0.0) enough(0.0) .(0.0) A(0.0) bureaucrat(1.0) in(0.0) 
+Washington(1.0) ,(0.0) D.C.(1.0) ,(0.0) should(0.0) not(0.0) dictate(0.0) decisions(0.0) that(0.0) are(0.0) best(0.0) left(0.0) to(0.0) local(0.0) communities(0.0) that(0.0) have(0.0) to(0.0) suffer(0.0) the(0.0) 
+tragic(1.0) consequences(1.0) of(0.0) government(1.0) 's(0.0) actions(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+rural	Arizona	overregulation	out-of-control	spending	government	redtape	businesses	
+
+Federal	Government	inhibiting	jobs	
+Government	agencies	over-regulated	businesses	existence	Schultz	Pass	Coconino	
+Wilson	government	
+commonsense	manmade	disaster	
+resulted	taxpayer	
+forced	pay	bureaucrat	
+Washington	D.C.	
+tragic	consequences	government	
+
+reads % = 0.18617021276595744

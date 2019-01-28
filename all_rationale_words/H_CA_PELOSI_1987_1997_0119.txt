@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(1.0) ,(0.0) I(0.0) want(1.0) to(0.0) associate(1.0) myself(0.0) with(0.0) the(0.0) remarks(0.0) of(0.0) the(0.0) gentleman(0.0) .(0.0) When(1.0) I(0.0) spoke(0.0) earlier(0.0) on(0.0) the(0.0) point(0.0) 
+of(0.0) order(0.0) on(0.0) removing(1.0) the(0.0) language(0.0) from(0.0) the(0.0) bill(0.0) ,(0.0) I(0.0) made(0.0) the(1.0) distinction(1.0) between(0.0) the(0.0) Colombian(1.0) military(1.0) and(0.0) the(0.0) 
+national(0.0) police(1.0) .(0.0) Indeed(1.0) ,(0.0) I(0.0) do(0.0) not(1.0) oppose(1.0) the(0.0) support(0.0) that(0.0) we(0.0) give(0.0) to(0.0) the(0.0) Colombian(1.0) police(1.0) in(0.0) the(0.0) 
+fight(0.0) against(0.0) narcotics(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+want	associate	When	
+removing	the	distinction	Colombian	military	
+police	Indeed	not	oppose	Colombian	police	
+
+
+reads % = 0.2153846153846154

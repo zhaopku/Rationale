@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) following(0.0) President(0.0) Obama's(0.0) address(0.0) to(0.0) a(0.0) joint(0.0) session(0.0) of(0.0) Congress(0.0) about(0.0) health(1.0) care(0.0) ,(0.0) the(0.0) national(1.0) media(0.0) touted(1.0) 
+polls(1.0) showing(0.0) a(0.0) bump(0.0) in(0.0) public(1.0) approval(0.0) of(0.0) the(0.0) President's(0.0) health(1.0) care(0.0) plan(1.0) ,(0.0) but(0.0) the(0.0) media(1.0) failed(0.0) to(0.0) point(0.0) 
+out(0.0) that(0.0) the(0.0) polls(1.0) vastly(0.0) oversampled(1.0) Democrats(1.0) .(0.0) For(0.0) example(0.0) ,(0.0) a(0.0) CBS(0.0) poll(0.0) last(0.0) week(0.0) trumpeted(1.0) ``(0.0) a(0.0) 12-point(0.0) 
+improvement(0.0) ''(0.0) in(0.0) the(0.0) President(0.0) 's(0.0) approval(0.0) rating(0.0) on(0.0) health(1.0) care(0.0) following(0.0) his(0.0) speech(0.0) .(0.0) CBS(0.0) failed(0.0) to(0.0) mention(0.0) that(0.0) 
+Democrats(0.0) outnumbered(0.0) Republicans(0.0) in(1.0) the(1.0) poll(1.0) sample(1.0) by(1.0) 15(1.0) percentage(1.0) points(1.0) ,(1.0) far(1.0) greater(1.0) than(1.0) the(1.0) actual(1.0) party(1.0) identification(1.0) gap(1.0) 
+.(1.0) Worse(1.0) ,(1.0) a(1.0) CNN(1.0) poll(1.0) touted(1.0) a(1.0) ``(1.0) double-digit(1.0) post-speech(1.0) jump(1.0) ''(1.0) for(1.0) the(1.0) President(1.0) ,(1.0) but(1.0) the(0.0) poll(1.0) 
+oversampled(1.0) Democrats(1.0) by(1.0) more(1.0) than(1.0) a(1.0) 2-1(1.0) margin(1.0) .(1.0) When(1.0) questioning(1.0) far(0.0) more(0.0) Democrats(1.0) than(0.0) Republicans(1.0) ,(1.0) it(1.0) should(1.0) come(1.0) 
+as(1.0) no(1.0) surprise(1.0) that(1.0) poll(1.0) results(1.0) favor(1.0) a(1.0) liberal(1.0) Democratic(1.0) agenda(1.0) .(1.0) The(1.0) media(1.0) should(1.0) be(1.0) objective(1.0) and(0.0) not(1.0) intentionally(1.0) 
+slant(1.0) their(1.0) polling(1.0) data(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+health	national	touted	
+polls	public	health	plan	media	
+polls	oversampled	Democrats	trumpeted	
+health	
+in	the	poll	sample	by	15	percentage	points	,	far	greater	than	the	actual	party	identification	gap	
+.	Worse	,	a	CNN	poll	touted	a	``	double-digit	post-speech	jump	''	for	the	President	,	but	poll	
+oversampled	Democrats	by	more	than	a	2-1	margin	.	When	questioning	Democrats	Republicans	,	it	should	come	
+as	no	surprise	that	poll	results	favor	a	liberal	Democratic	agenda	.	The	media	should	be	objective	not	intentionally	
+slant	their	polling	data	
+
+reads % = 0.536144578313253

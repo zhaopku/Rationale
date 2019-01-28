@@ -1,0 +1,38 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) my(0.0) friend(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) York(1.0) [(0.0) Mr.(0.0) Rangel(1.0) ](0.0) for(1.0) yielding(1.0) me(0.0) the(0.0) time(0.0) .(0.0) 
+I(0.0) rise(0.0) today(0.0) in(0.0) support(0.0) of(0.0) this(0.0) bill(1.0) to(0.0) reform(1.0) the(0.0) IRS(1.0) service(0.0) .(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) my(0.0) friend(0.0) 
+the(0.0) gentleman(0.0) from(0.0) New(0.0) York(1.0) [(0.0) Mr.(0.0) Rangel(1.0) ](0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Maryland(0.0) [(0.0) Mr.(0.0) Cardin(1.0) ](0.0) and(1.0) the(0.0) 
+gentleman(0.0) from(0.0) Texas(0.0) [(0.0) Mr.(0.0) Archer(1.0) ](0.0) for(1.0) their(1.0) leadership(1.0) in(0.0) this(0.0) important(0.0) issue(0.0) .(0.0) When(0.0) the(0.0) people(0.0) of(0.0) the(0.0) 
+Second(0.0) District(0.0) of(0.0) North(0.0) Carolina(0.0) sent(0.0) me(0.0) to(0.0) this(0.0) body(0.0) ,(0.0) they(0.0) wanted(0.0) an(0.0) advocate(1.0) ,(0.0) someone(0.0) who(0.0) would(0.0) stand(0.0) 
+up(0.0) for(0.0) them(0.0) in(0.0) the(0.0) people(0.0) 's(0.0) House(0.0) .(0.0) And(0.0) I(0.0) am(0.0) pleased(0.0) to(0.0) support(0.0) this(0.0) piece(0.0) of(0.0) legislation(1.0) on(0.0) 
+behalf(0.0) of(0.0) the(0.0) people(0.0) of(0.0) my(0.0) district(0.0) .(0.0) Working(0.0) families(0.0) in(0.0) North(1.0) Carolina(0.0) and(0.0) across(0.0) this(0.0) country(1.0) face(0.0) enough(0.0) challenges(0.0) 
+in(0.0) their(0.0) lives(0.0) without(0.0) the(0.0) added(0.0) burden(1.0) of(0.0) the(0.0) things(0.0) we(0.0) have(0.0) heard(0.0) about(0.0) in(0.0) recent(0.0) months(0.0) of(0.0) certain(0.0) members(0.0) 
+of(0.0) the(0.0) IRS(1.0) who(0.0) are(0.0) out(0.0) of(0.0) control(0.0) .(0.0) If(0.0) a(0.0) criminal(1.0) has(0.0) a(0.0) right(0.0) to(0.0) be(0.0) presumed(0.0) innocent(0.0) before(0.0) 
+the(0.0) courts(1.0) ,(0.0) so(0.0) should(0.0) the(0.0) American(0.0) taxpayers(1.0) .(0.0) The(0.0) Congress(0.0) has(0.0) taken(0.0) a(0.0) strong(0.0) bipartisan(1.0) step(0.0) forward(0.0) in(0.0) working(0.0) 
+for(0.0) American(0.0) families(0.0) and(0.0) can(0.0) do(0.0) it(0.0) by(0.0) enacting(1.0) the(0.0) first(0.0) comprehensive(0.0) reform(1.0) of(0.0) the(0.0) IRS(1.0) since(0.0) 1952(0.0) .(0.0) The(0.0) 
+IRS(1.0) reform(1.0) bill(1.0) ,(1.0) H.R(1.0) .(0.0) 2676(0.0) ,(0.0) is(0.0) based(0.0) on(0.0) an(0.0) aggressive(0.0) 3-point(0.0) plan(1.0) ,(0.0) which(0.0) shifts(0.0) the(0.0) burden(1.0) 
+of(0.0) proof(1.0) from(0.0) the(0.0) taxpayer(1.0) to(0.0) the(0.0) IRS(1.0) ,(0.0) creates(0.0) 28(0.0) new(0.0) taxpayer(1.0) rights(1.0) ,(0.0) and(0.0) overhauls(1.0) the(0.0) management(0.0) of(0.0) 
+the(0.0) agency(0.0) through(0.0) the(0.0) creation(0.0) of(0.0) an(0.0) independent(0.0) board(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) would(0.0) urge(0.0) Members(0.0) on(0.0) both(0.0) sides(0.0) 
+of(0.0) the(0.0) aisle(0.0) to(0.0) move(0.0) forward(0.0) for(0.0) the(0.0) hard-working(1.0) families(0.0) of(0.0) America(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+York	Rangel	for	yielding	
+bill	reform	IRS	
+York	Rangel	Cardin	and	
+Archer	for	their	leadership	
+advocate	
+legislation	
+North	country	
+burden	
+IRS	criminal	
+courts	taxpayers	bipartisan	
+enacting	reform	IRS	
+IRS	reform	bill	,	H.R	plan	burden	
+proof	taxpayer	IRS	taxpayer	rights	overhauls	
+Speaker	
+hard-working	America	
+
+reads % = 0.14965986394557823

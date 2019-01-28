@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) earlier(0.0) this(0.0) month(0.0) I(0.0) visited(0.0) members(0.0) of(0.0) the(0.0) AARP(1.0) in(0.0) Clifton(1.0) ,(0.0) New(1.0) Jersey(1.0) ,(0.0) to(0.0) talk(0.0) about(0.0) issues(0.0) 
+that(0.0) affect(0.0) senior(0.0) citizens(1.0) .(0.0) The(0.0) first(0.0) thing(0.0) they(0.0) asked(0.0) me(0.0) is(0.0) ,(0.0) ``(0.0) Are(0.0) we(0.0) ever(0.0) going(0.0) to(0.0) get(0.0) 
+prescription(1.0) drug(1.0) coverage(1.0) ?(0.0) ''(0.0) And(0.0) I(0.0) said(0.0) to(0.0) them(0.0) the(0.0) best(0.0) answer(0.0) I(0.0) could(0.0) come(0.0) up(0.0) with(0.0) ,(0.0) ``(0.0) 
+I(0.0) hope(0.0) so(0.0) .(0.0) ''(0.0) Obviously(0.0) ,(0.0) these(0.0) seniors(1.0) are(0.0) not(0.0) alone(0.0) in(0.0) questioning(0.0) whether(0.0) or(0.0) not(0.0) Congress(0.0) will(0.0) actually(0.0) 
+do(0.0) something(0.0) or(0.0) if(0.0) this(0.0) is(0.0) yet(0.0) another(0.0) example(0.0) of(0.0) political(1.0) posturing(1.0) during(0.0) an(0.0) election(1.0) year(0.0) .(0.0) The(0.0) only(0.0) certainty(0.0) 
+I(0.0) could(0.0) leave(0.0) these(0.0) seniors(1.0) is(0.0) the(0.0) fact(0.0) that(0.0) I(0.0) support(0.0) prescription(1.0) drug(0.0) coverage(1.0) through(0.0) the(0.0) Medicare(1.0) program(1.0) and(0.0) that(0.0) 
+I(0.0) was(0.0) committed(0.0) to(0.0) working(0.0) in(0.0) a(0.0) bipartisan(1.0) fashion(1.0) to(0.0) guarantee(1.0) that(0.0) it(0.0) gets(0.0) done(0.0) this(0.0) Congress(0.0) .(0.0) The(0.0) need(0.0) 
+for(0.0) a(0.0) comprehensive(0.0) prescription(0.0) drug(0.0) plan(1.0) is(0.0) clear(0.0) ,(0.0) and(0.0) the(0.0) time(0.0) for(0.0) Congress(0.0) to(0.0) act(0.0) is(0.0) now(0.0) .(0.0) Seniors(1.0) 
+understand(0.0) better(0.0) than(0.0) anyone(0.0) else(0.0) the(0.0) high(0.0) cost(1.0) of(0.0) prescription(1.0) drugs(1.0) .(0.0) The(0.0) lack(0.0) of(0.0) comprehensive(1.0) coverage(1.0) for(0.0) seniors(1.0) forces(1.0) 
+them(0.0) to(0.0) make(0.0) decisions(0.0) that(0.0) threaten(1.0) the(0.0) quality(0.0) of(0.0) their(0.0) lives(0.0) and(0.0) indeed(0.0) their(0.0) well-being(1.0) .(0.0) The(0.0) number(0.0) of(0.0) seniors(1.0) 
+without(0.0) drug(1.0) coverage(1.0) is(0.0) increasing(0.0) day(0.0) after(0.0) day(0.0) .(0.0) Right(0.0) now(0.0) ,(0.0) approximately(0.0) three(0.0) out(0.0) of(0.0) every(0.0) five(0.0) Medicare(1.0) beneficiaries(1.0) 
+lack(0.0) decent(0.0) ,(0.0) dependable(0.0) drug(1.0) coverage(1.0) .(0.0) Thirteen(0.0) million(0.0) beneficiaries(1.0) have(0.0) no(0.0) prescription(0.0) coverage(0.0) ,(0.0) and(0.0) millions(1.0) more(0.0) are(0.0) at(0.0) 
+risk(0.0) of(0.0) losing(0.0) coverage(1.0) .(0.0) Most(0.0) seniors(1.0) without(0.0) prescription(1.0) drug(1.0) coverage(1.0) are(0.0) middle-class(1.0) folks(0.0) .(0.0) Many(0.0) of(0.0) those(0.0) seniors(1.0) have(0.0) 
+retiree(1.0) plans(1.0) without(0.0) comprehensive(0.0) coverage(1.0) ,(0.0) and(0.0) even(0.0) those(0.0) with(0.0) coverage(1.0) are(0.0) on(0.0) the(0.0) verge(1.0) of(0.0) losing(0.0) it(0.0) .(0.0) Why(0.0) 
+?(0.0) Because(0.0) the(0.0) number(0.0) of(0.0) firms(1.0) offering(0.0) retiree(1.0) health(1.0) insurance(1.0) coverage(0.0) dropped(0.0) 30(0.0) percent(0.0) between(0.0) 1993(0.0) and(0.0) 1999(0.0) .(0.0) Another(0.0) 
+reason(0.0) is(0.0) that(0.0) ,(0.0) in(0.0) many(0.0) States(0.0) ,(0.0) insurers(1.0) that(0.0) participate(0.0) in(0.0) the(0.0) Medicare+Choice(0.0) program(1.0) are(0.0) also(0.0) dropping(0.0) out(0.0) because(0.0) 
+of(0.0) low(0.0) Medicare(1.0) reimbursements(1.0) .(0.0) We(0.0) have(0.0) this(0.0) all(0.0) across(0.0) America(1.0) .(0.0) This(0.0) is(0.0) not(0.0) a(0.0) partisan(1.0) issue(0.0) .(0.0) This(0.0) 
+cuts(1.0) across(0.0) party(0.0) lines(0.0) .(0.0) Other(0.0) Medicare(1.0) HMOs(1.0) ,(0.0) like(0.0) in(0.0) the(0.0) State(0.0) of(0.0) New(1.0) Jersey(1.0) ,(0.0) are(0.0) cutting(1.0) their(0.0) 
+prescription(1.0) plans(0.0) when(0.0) their(0.0) profit(1.0) margin(0.0) decreases(0.0) .(0.0) We(0.0) must(0.0) understand(0.0) that(0.0) .(0.0) In(0.0) fact(0.0) ,(0.0) I(0.0) spoke(0.0) to(0.0) an(0.0) 
+HMO(1.0) official(0.0) in(0.0) New(1.0) Jersey(1.0) the(0.0) other(0.0) day(0.0) who(0.0) informed(0.0) me(0.0) that(0.0) ,(0.0) unless(0.0) Medicare(1.0) reimburses(1.0) for(0.0) prescription(1.0) drugs(1.0) ,(0.0) 
+HMOs(1.0) would(0.0) continue(0.0) to(0.0) drop(0.0) the(0.0) coverage(1.0) ,(0.0) compounding(1.0) the(0.0) situation's(0.0) severity(0.0) .(0.0) This(0.0) leaves(0.0) seniors(1.0) stranded(0.0) .(0.0) The(0.0) high(0.0) 
+cost(1.0) of(0.0) prescription(1.0) drugs(1.0) for(0.0) seniors(1.0) without(0.0) coverage(1.0) is(0.0) of(0.0) grave(1.0) concern(0.0) .(0.0) Senior(0.0) citizens(1.0) tend(0.0) to(0.0) live(0.0) on(0.0) fixed(0.0) 
+incomes(1.0) .(0.0) These(0.0) incomes(1.0) are(0.0) adjusted(0.0) to(0.0) keep(0.0) up(0.0) with(0.0) the(0.0) rate(0.0) of(0.0) inflation(1.0) .(0.0) With(0.0) this(0.0) in(0.0) mind(0.0) ,(0.0) 
+Families(1.0) USA(1.0) recently(0.0) reported(0.0) that(0.0) 50(0.0) of(0.0) the(0.0) most(0.0) commonly(0.0) used(0.0) prescription(0.0) drugs(0.0) by(0.0) seniors(1.0) increased(1.0) in(0.0) cost(1.0) at(0.0) nearly(0.0) 
+twice(0.0) the(0.0) rate(0.0) of(0.0) inflation(1.0) in(0.0) 1999(1.0) .(0.0) That(0.0) can(0.0) not(0.0) be(0.0) acceptable(0.0) by(0.0) anybody(0.0) on(0.0) this(0.0) floor(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+AARP	Clifton	New	Jersey	
+citizens	
+prescription	drug	coverage	
+seniors	
+political	posturing	election	
+seniors	prescription	coverage	Medicare	program	
+bipartisan	fashion	guarantee	
+plan	Seniors	
+cost	prescription	drugs	comprehensive	coverage	seniors	forces	
+threaten	well-being	seniors	
+drug	coverage	Medicare	beneficiaries	
+drug	coverage	beneficiaries	millions	
+coverage	seniors	prescription	drug	coverage	middle-class	seniors	
+retiree	plans	coverage	coverage	verge	
+firms	retiree	health	insurance	
+insurers	program	
+Medicare	reimbursements	America	partisan	
+cuts	Medicare	HMOs	New	Jersey	cutting	
+prescription	profit	
+HMO	New	Jersey	Medicare	reimburses	prescription	drugs	
+HMOs	coverage	compounding	seniors	
+cost	prescription	drugs	seniors	coverage	grave	citizens	
+incomes	incomes	inflation	
+Families	USA	seniors	increased	cost	
+inflation	1999	
+
+reads % = 0.196

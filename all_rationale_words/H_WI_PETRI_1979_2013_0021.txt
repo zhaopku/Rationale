@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) would(0.0) like(0.0) to(0.0) express(0.0) my(0.0) support(0.0) for(0.0) the(0.0) rule(1.0) and(0.0) the(0.0) underlying(0.0) bill(1.0) ,(0.0) H.R(0.0) .(0.0) 5(0.0) 
+.(0.0) I(0.0) am(0.0) in(0.0) frequent(0.0) contact(0.0) with(0.0) educators(1.0) in(0.0) my(0.0) district(0.0) in(0.0) Wisconsin(1.0) .(0.0) One(0.0) of(0.0) the(0.0) concerns(0.0) I(0.0) hear(0.0) 
+the(0.0) most(0.0) is(0.0) that(0.0) Federal(1.0) money(1.0) comes(0.0) to(0.0) local(0.0) schools(0.0) and(0.0) districts(1.0) in(0.0) a(0.0) variety(0.0) of(0.0) funding(1.0) streams(0.0) ,(0.0) each(0.0) 
+with(0.0) its(0.0) own(0.0) restrictions(1.0) and(0.0) reporting(0.0) requirements(0.0) .(0.0) I(0.0) am(0.0) constantly(0.0) asked(0.0) if(0.0) there(0.0) 's(0.0) a(0.0) way(0.0) that(0.0) we(0.0) can(0.0) 
+consolidate(0.0) some(0.0) of(0.0) these(0.0) funding(1.0) pots(0.0) so(0.0) that(0.0) schools(1.0) can(0.0) better(0.0) apply(0.0) the(0.0) funds(1.0) to(0.0) those(0.0) areas(0.0) where(0.0) they(0.0) will(0.0) 
+have(0.0) the(0.0) most(0.0) effect(0.0) .(0.0) These(0.0) feelings(0.0) are(0.0) strongest(0.0) in(0.0) smaller(0.0) or(0.0) more(0.0) rural(1.0) schools(1.0) ,(0.0) where(0.0) funding(1.0) tends(0.0) to(0.0) 
+be(0.0) the(0.0) most(0.0) limited(0.0) .(0.0) H.R(0.0) .(0.0) 5(0.0) would(0.0) give(0.0) them(0.0) that(0.0) much-(0.0) needed(0.0) local(0.0) flexibility(0.0) .(0.0) Wisconsin(1.0) schools(1.0) are(0.0) 
+doing(0.0) a(0.0) lot(0.0) of(0.0) innovative(0.0) things(0.0) to(0.0) prepare(0.0) their(0.0) students(0.0) for(0.0) success(0.0) in(0.0) the(0.0) 21st-century(1.0) economy(1.0) .(0.0) They(0.0) know(0.0) that(0.0) 
+the(0.0) nature(0.0) of(0.0) work(0.0) is(0.0) changing(0.0) :(0.0) jobs(0.0) in(0.0) manufacturing(1.0) ,(0.0) where(0.0) Wisconsin(1.0) is(0.0) a(0.0) leader(0.0) ,(0.0) require(0.0) critical(1.0) thinking(0.0) 
+,(0.0) the(0.0) ability(0.0) to(0.0) be(0.0) innovative(0.0) and(0.0) to(0.0) work(0.0) with(0.0) people(0.0) of(0.0) varying(0.0) skill(0.0) levels(0.0) ,(0.0) and(0.0) the(0.0) ability(0.0) to(0.0) 
+communicate(0.0) effectively(0.0) .(0.0) These(0.0) skills(0.0) were(0.0) favorably(0.0) noted(0.0) in(0.0) a(0.0) 2012(0.0) National(0.0) Research(0.0) Council(0.0) report(0.0) and(0.0) in(0.0) a(0.0) recent(0.0) Gallup(1.0) 
+Poll(1.0) that(0.0) found(0.0) that(0.0) those(0.0) who(0.0) have(0.0) those(0.0) skills(0.0) are(0.0) twice(0.0) as(0.0) likely(0.0) to(0.0) have(0.0) higher(0.0) work(0.0) quality(0.0) than(0.0) those(0.0) 
+who(0.0) do(0.0) n't(0.0) .(0.0) Wisconsin(1.0) is(0.0) a(0.0) member(0.0) of(0.0) the(0.0) Partnership(0.0) for(0.0) 21st(0.0) Century(0.0) Skills(0.0) ,(0.0) a(0.0) coalition(0.0) of(0.0) States(0.0) 
+,(0.0) education(1.0) groups(0.0) ,(0.0) and(0.0) employers(1.0) that(0.0) 's(0.0) working(0.0) to(0.0) ensure(0.0) that(0.0) students(0.0) have(0.0) these(0.0) critical(0.0) skills(0.0) .(0.0) I(0.0) hear(0.0) 
+from(0.0) educators(0.0) that(0.0) these(0.0) innovative(0.0) programs(1.0) help(0.0) to(0.0) bring(0.0) to(0.0) life(0.0) the(0.0) subjects(0.0) that(0.0) students(0.0) are(0.0) studying(0.0) in(0.0) school(1.0) ,(0.0) 
+oftentimes(0.0) renewing(1.0) their(0.0) focus(0.0) on(0.0) core(0.0) academics(1.0) .(0.0) Again(0.0) ,(0.0) I(0.0) also(0.0) hear(0.0) that(0.0) schools(1.0) and(0.0) districts(1.0) are(0.0) hamstrung(1.0) by(0.0) 
+their(0.0) inability(1.0) to(0.0) put(0.0) Federal(1.0) funds(1.0) to(0.0) use(0.0) in(0.0) these(0.0) innovative(0.0) ways(0.0) .(0.0) So(0.0) I(0.0) 'm(0.0) pleased(0.0) that(0.0) the(0.0) Student(0.0) 
+Success(0.0) Act(1.0) ,(0.0) through(0.0) its(0.0) Local(0.0) Academic(0.0) Flexible(0.0) Grant(0.0) and(0.0) in(0.0) other(0.0) ways(0.0) ,(0.0) gives(0.0) educators(1.0) the(0.0) flexibility(0.0) to(0.0) pursue(0.0) 
+these(0.0) innovative(0.0) initiatives(1.0) at(0.0) the(0.0) local(0.0) level(0.0) .(0.0) I(0.0) would(0.0) also(0.0) like(0.0) to(0.0) mention(0.0) the(0.0) subject(0.0) of(0.0) geography(0.0) ,(0.0) which(0.0) 
+is(0.0) a(0.0) core(0.0) academic(0.0) subject(0.0) under(0.0) No(0.0) Child(0.0) Left(1.0) Behind(1.0) ,(0.0) but(0.0) has(0.0) never(0.0) received(0.0) the(0.0) same(0.0) level(0.0) of(0.0) support(0.0) 
+as(0.0) other(0.0) core(0.0) academic(0.0) subjects(0.0) .(0.0) The(0.0) National(0.0) Geographic(0.0) Society(0.0) has(0.0) invested(0.0) millions(0.0) of(0.0) its(0.0) own(0.0) dollars(0.0) to(0.0) help(0.0) invest(1.0) 
+in(0.0) the(0.0) future(0.0) of(0.0) geographic(1.0) education(1.0) --(0.0) a(0.0) critical(0.0) investment(1.0) ,(0.0) given(0.0) the(0.0) importance(0.0) of(0.0) geography(0.0) to(0.0) our(0.0) national(1.0) and(0.0) 
+international(0.0) well-being(0.0) .(0.0) It(0.0) 's(0.0) critical(0.0) that(0.0) geography(0.0) be(0.0) on(0.0) a(0.0) level(0.0) playing(0.0) field(0.0) with(0.0) other(0.0) core(0.0) academic(0.0) subjects(0.0) .(0.0) 
+This(0.0) bill(1.0) accomplishes(1.0) that(0.0) goal(0.0) by(0.0) letting(0.0) geography(0.0) compete(0.0) equally(0.0) for(0.0) funds(1.0) to(0.0) enhance(0.0) the(0.0) professional(0.0) development(0.0) of(0.0) teachers(0.0) in(0.0) 
+this(0.0) critical(0.0) subject(0.0) .(0.0) I(0.0) ,(0.0) again(0.0) ,(0.0) want(0.0) to(0.0) emphasize(0.0) my(0.0) support(0.0) for(0.0) the(0.0) rule(1.0) and(0.0) the(0.0) underlying(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	rule	bill	
+educators	Wisconsin	
+Federal	money	districts	funding	
+restrictions	
+funding	schools	funds	
+rural	schools	funding	
+Wisconsin	schools	
+21st-century	economy	
+manufacturing	Wisconsin	critical	
+
+Gallup	
+Poll	
+Wisconsin	
+education	employers	
+programs	school	
+renewing	academics	schools	districts	hamstrung	
+inability	Federal	funds	
+Act	educators	
+initiatives	
+Left	Behind	
+invest	
+geographic	education	investment	national	
+
+bill	accomplishes	funds	
+rule	
+
+reads % = 0.104

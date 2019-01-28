@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) as(0.0) this(0.0) Victims(1.0) Rights(1.0) Month(0.0) of(0.0) April(0.0) comes(0.0) to(0.0) an(0.0) end(0.0) ,(0.0) the(0.0) bureaucrats(1.0) are(0.0) also(0.0) trying(0.0) to(0.0) 
+end(0.0) a(0.0) fund(1.0) that(0.0) supports(0.0) victims(1.0) of(0.0) America(1.0) .(0.0) The(0.0) Victims(1.0) of(0.0) Crime(1.0) Act(1.0) requires(0.0) convicted(1.0) criminals(1.0) to(0.0) put(0.0) money(1.0) 
+into(0.0) a(0.0) fund(1.0) that(0.0) then(0.0) pays(0.0) for(0.0) crime(1.0) victim(1.0) services(0.0) .(0.0) What(0.0) a(0.0) great(0.0) idea(0.0) :(0.0) make(0.0) criminals(1.0) pay(1.0) for(0.0) 
+the(0.0) system(0.0) that(0.0) they(0.0) have(0.0) created(0.0) .(0.0) Make(0.0) them(0.0) pay(1.0) rent(0.0) on(0.0) the(0.0) courthouse(1.0) .(0.0) This(0.0) fund(1.0) is(0.0) about(0.0) $(0.0) 
+1.6(0.0) billion(1.0) .(0.0) This(0.0) is(0.0) not(0.0) Federal(1.0) money(1.0) ,(0.0) this(0.0) is(0.0) not(0.0) taxpayer(1.0) money(1.0) ,(0.0) this(0.0) is(0.0) victim(0.0) money(0.0) .(0.0) 
+Now(0.0) the(0.0) robber(1.0) baron(0.0) bureaucrats(1.0) want(0.0) to(0.0) take(0.0) this(0.0) money(1.0) and(0.0) put(0.0) it(0.0) into(0.0) the(0.0) abyss(0.0) of(0.0) the(0.0) Federal(1.0) Treasury(1.0) 
+.(0.0) As(0.0) one(0.0) of(0.0) the(0.0) members(0.0) of(0.0) the(0.0) Victims(0.0) Rights(0.0) Caucus(0.0) ,(0.0) along(0.0) with(0.0) Jim(0.0) Costa(1.0) and(0.0) Katherine(0.0) Harris(1.0) ,(0.0) 
+we(0.0) do(0.0) not(0.0) want(0.0) the(0.0) government(1.0) to(0.0) victimize(1.0) victims(1.0) again(0.0) .(0.0) This(0.0) money(1.0) belongs(0.0) to(0.0) thousands(0.0) of(0.0) victims(1.0) and(0.0) thousands(0.0) 
+of(0.0) victims(1.0) organizations(1.0) ,(0.0) including(0.0) domestic(1.0) violence(1.0) shelters(1.0) ,(0.0) rape(1.0) centers(1.0) ,(0.0) child(0.0) abuse(1.0) centers(1.0) ,(0.0) and(0.0) should(0.0) not(0.0) be(0.0) 
+taken(0.0) away(0.0) .(0.0) Congress(0.0) needs(0.0) to(0.0) prevent(0.0) this(0.0) stealth(1.0) stealing(1.0) of(0.0) victims(1.0) '(0.0) money(0.0) ,(0.0) and(0.0) we(0.0) must(0.0) demonstrate(0.0) to(0.0) 
+America(1.0) that(0.0) criminals(1.0) will(0.0) pay(0.0) and(0.0) be(0.0) accountable(1.0) for(0.0) the(0.0) misdeeds(1.0) against(0.0) the(0.0) American(0.0) people(0.0) .(0.0) And(0.0) that(0.0) 's(0.0) just(0.0) 
+the(0.0) way(0.0) it(0.0) is(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Victims	Rights	bureaucrats	
+fund	victims	America	Victims	Crime	Act	convicted	criminals	money	
+fund	crime	victim	criminals	pay	
+pay	courthouse	fund	
+billion	Federal	money	taxpayer	money	
+robber	bureaucrats	money	Federal	Treasury	
+Costa	Harris	
+government	victimize	victims	money	victims	
+victims	organizations	domestic	violence	shelters	rape	centers	abuse	centers	
+stealth	stealing	victims	
+America	criminals	accountable	misdeeds	
+
+
+reads % = 0.2345132743362832

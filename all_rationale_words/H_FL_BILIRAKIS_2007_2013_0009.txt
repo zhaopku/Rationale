@@ -1,0 +1,24 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) to(0.0) offer(0.0) solutions(0.0) for(0.0) seniors(1.0) who(0.0) are(0.0) hard(0.0) of(0.0) hearing(0.0) .(0.0) Under(0.0) current(0.0) Medicare(1.0) rules(1.0) ,(0.0) 
+seniors(1.0) are(0.0) unable(0.0) to(0.0) visit(0.0) the(0.0) audiologists(1.0) of(0.0) their(0.0) choice(0.0) due(0.0) to(0.0) a(0.0) payment(0.0) structure(0.0) that(0.0) classifies(1.0) these(0.0) specialists(0.0) differently(0.0) 
+based(0.0) on(0.0) their(0.0) locations(0.0) .(0.0) Even(0.0) though(0.0) they(0.0) offer(0.0) the(0.0) same(0.0) care(0.0) ,(0.0) an(0.0) in-practice(1.0) audiologist(0.0) for(0.0) an(0.0) ENT(0.0) can(0.0) 
+bill(1.0) services(1.0) directly(0.0) to(0.0) Medicare(1.0) under(0.0) the(0.0) ENT(0.0) 's(0.0) provider(0.0) number(0.0) .(0.0) However(0.0) ,(0.0) if(0.0) the(0.0) patient(0.0) is(0.0) referred(0.0) to(0.0) 
+an(0.0) independent(0.0) audiologist(0.0) ,(0.0) he(0.0) can(0.0) not(0.0) bill(1.0) these(0.0) services(0.0) directly(0.0) .(0.0) The(0.0) Medicare(1.0) Audiology(0.0) Services(0.0) Enhancement(0.0) Act(0.0) ,(0.0) which(0.0) 
+I(0.0) will(0.0) introduce(0.0) this(0.0) week(0.0) ,(0.0) will(0.0) end(0.0) this(0.0) inequity(1.0) and(0.0) allow(0.0) independent(0.0) audiologists(1.0) to(0.0) directly(0.0) bill(1.0) Medicare(1.0) --(0.0) expanding(1.0) 
+access(0.0) to(0.0) care(1.0) for(0.0) our(0.0) seniors(1.0) .(0.0) The(0.0) American(0.0) Speech-Language-Hearing(1.0) Association(0.0) and(0.0) ENT(0.0) physicians(0.0) across(0.0) the(0.0) country(0.0) have(0.0) already(0.0) expressed(0.0) 
+support(0.0) .(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) sign(0.0) on(0.0) to(0.0) this(0.0) good(0.0) piece(0.0) of(0.0) legislation(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+seniors	Medicare	rules	
+seniors	audiologists	classifies	
+in-practice	
+bill	services	Medicare	
+bill	Medicare	
+inequity	audiologists	bill	Medicare	expanding	
+care	seniors	Speech-Language-Hearing	
+legislation	
+
+reads % = 0.1337579617834395

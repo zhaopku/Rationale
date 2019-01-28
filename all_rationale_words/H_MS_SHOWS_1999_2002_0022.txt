@@ -1,0 +1,40 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) the(0.0) chairman(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) Jersey(1.0) ((0.0) Mr.(0.0) Smith(1.0) )(0.0) ,(0.0) and(0.0) 
+the(0.0) ranking(0.0) member(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Illinois(0.0) ((0.0) Mr.(0.0) Evans(1.0) )(0.0) ,(0.0) as(0.0) well(0.0) as(0.0) the(0.0) chairman(0.0) of(0.0) the(0.0) 
+Subcommittee(0.0) on(0.0) Benefits(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Idaho(1.0) ((0.0) Mr.(0.0) Simpson(1.0) )(0.0) for(1.0) moving(1.0) forward(0.0) with(0.0) consideration(0.0) of(0.0) H.R(0.0) .(0.0) 
+4940(0.0) .(0.0) This(0.0) legislation(1.0) was(0.0) introduced(0.0) by(0.0) the(0.0) former(0.0) chairman(0.0) of(0.0) the(0.0) House(0.0) Committee(0.0) on(0.0) Veterans(0.0) '(0.0) Affairs(0.0) ,(0.0) the(0.0) 
+gentleman(0.0) from(0.0) Arizona(1.0) ((0.0) Mr.(0.0) Stump(1.0) )(0.0) .(0.0) He(0.0) has(0.0) worked(0.0) tirelessly(0.0) to(0.0) codify(0.0) eligibility(0.0) for(0.0) burial(0.0) at(0.0) Arlington(0.0) National(0.0) 
+Cemetery(0.0) .(0.0) This(0.0) bill(0.0) is(0.0) similar(0.0) to(0.0) other(0.0) measures(0.0) which(0.0) have(0.0) passed(0.0) the(0.0) House(0.0) in(0.0) prior(0.0) sessions(0.0) of(0.0) Congress(0.0) .(0.0) 
+To(0.0) address(0.0) the(0.0) increasing(0.0) demand(0.0) for(0.0) burial(0.0) space(0.0) at(0.0) Arlington(0.0) National(0.0) Cemetery(0.0) ,(0.0) the(0.0) Arlington(0.0) National(0.0) Cemetery(0.0) Burial(0.0) Eligibility(0.0) Act(0.0) 
+would(0.0) clarify(0.0) and(0.0) codify(0.0) the(0.0) requirements(0.0) for(0.0) burial(0.0) in(0.0) what(0.0) is(0.0) considered(0.0) by(0.0) many(0.0) to(0.0) be(0.0) our(0.0) most(0.0) revered(0.0) national(0.0) 
+cemetery(0.0) .(0.0) A(0.0) manager(0.0) 's(0.0) amendment(1.0) to(0.0) the(0.0) bill(0.0) will(0.0) change(0.0) the(0.0) effective(0.0) date(0.0) for(0.0) providing(0.0) a(0.0) suitable(0.0) marker(0.0) to(0.0) 
+honor(0.0) the(0.0) graves(0.0) of(0.0) those(0.0) who(0.0) are(0.0) buried(0.0) in(0.0) marked(0.0) as(0.0) opposed(0.0) to(0.0) unmarked(0.0) graves(0.0) .(0.0) Under(0.0) Public(0.0) Law(0.0) 107-103(0.0) 
+,(0.0) veterans(1.0) who(0.0) die(0.0) after(0.0) December(0.0) 27(0.0) ,(0.0) 2001(0.0) ,(0.0) may(0.0) receive(0.0) an(0.0) appropriate(0.0) Government(0.0) marker(0.0) to(0.0) recognize(0.0) their(0.0) service(0.0) 
+to(0.0) our(0.0) Nation(1.0) .(0.0) Under(0.0) the(0.0) manager(0.0) 's(0.0) amendment(0.0) ,(0.0) markers(0.0) may(0.0) be(0.0) provided(0.0) to(0.0) veterans(1.0) who(0.0) died(0.0) on(0.0) or(0.0) 
+after(0.0) September(0.0) 11(0.0) ,(0.0) 2001(0.0) .(0.0) It(0.0) is(0.0) only(0.0) fitting(0.0) that(0.0) this(0.0) honor(0.0) be(0.0) provided(0.0) to(0.0) those(0.0) brave(0.0) American(0.0) veterans(1.0) 
+who(0.0) lost(0.0) their(0.0) lives(0.0) in(0.0) the(0.0) terrorist(1.0) attack(0.0) on(0.0) the(0.0) United(0.0) States(0.0) .(0.0) I(0.0) support(0.0) this(0.0) bill(1.0) and(0.0) I(0.0) urge(0.0) 
+my(0.0) colleagues(0.0) to(0.0) vote(1.0) in(0.0) favor(1.0) of(0.0) the(0.0) bill(1.0) as(0.0) amended(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) 
+my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	Jersey	Smith	
+Evans	
+Idaho	Simpson	for	moving	
+legislation	
+Arizona	Stump	
+
+
+
+amendment	
+
+veterans	
+Nation	veterans	
+veterans	
+terrorist	bill	
+vote	favor	bill	Speaker	
+
+
+reads % = 0.07236842105263158

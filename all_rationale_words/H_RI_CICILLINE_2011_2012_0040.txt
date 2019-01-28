@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) to(0.0) commemorate(0.0) the(0.0) 20th(0.0) anniversary(0.0) of(0.0) the(0.0) Leadership(0.0) Alliance(0.0) .(0.0) The(0.0) Leadership(0.0) Alliance(0.0) ,(0.0) established(0.0) 
+by(0.0) Brown(1.0) University(0.0) in(0.0) 1992(0.0) ,(0.0) is(0.0) a(0.0) national(0.0) academic(0.0) consortium(0.0) of(0.0) leading(0.0) research(0.0) universities(0.0) and(0.0) minority-serving(0.0) institutions(0.0) with(0.0) the(0.0) 
+mission(0.0) of(0.0) developing(0.0) underrepresented(1.0) students(0.0) into(0.0) outstanding(0.0) leaders(0.0) and(0.0) role(0.0) models(0.0) in(0.0) academia(0.0) ,(0.0) business(0.0) ,(0.0) and(0.0) the(0.0) public(0.0) sector(0.0) 
+.(0.0) Through(0.0) an(0.0) organized(0.0) program(0.0) of(0.0) research(0.0) ,(0.0) networking(0.0) ,(0.0) and(0.0) mentorship(0.0) at(0.0) critical(0.0) transitions(0.0) along(0.0) the(0.0) entire(0.0) academic(0.0) training(0.0) 
+pathway(0.0) ,(0.0) the(0.0) Leadership(0.0) Alliance(0.0) prepares(0.0) young(0.0) scientists(0.0) and(0.0) scholars(0.0) for(0.0) graduate(0.0) training(0.0) and(0.0) professional(0.0) apprenticeships(0.0) .(0.0) To(0.0) date(0.0) ,(0.0) 
+the(0.0) consortium(0.0) has(0.0) mentored(0.0) more(0.0) than(0.0) 2,600(0.0) undergraduates(0.0) ,(0.0) including(0.0) 33(0.0) Rhode(1.0) Islanders(1.0) .(0.0) Brown(0.0) University(0.0) has(0.0) mentored(0.0) 386(0.0) Leadership(0.0) 
+Alliance(0.0) participants(0.0) ,(0.0) 35(0.0) percent(0.0) of(0.0) whom(0.0) have(0.0) received(0.0) a(0.0) graduate-level(0.0) degree(0.0) .(0.0) I(0.0) am(0.0) proud(0.0) to(0.0) stand(0.0) in(0.0) support(0.0) 
+of(0.0) this(0.0) initiative(1.0) that(0.0) identifies(0.0) ,(0.0) trains(0.0) ,(0.0) and(0.0) mentors(0.0) talented(0.0) underrepresented(1.0) and(0.0) underserved(1.0) students(0.0) .(0.0) I(0.0) congratulate(0.0) and(0.0) commend(0.0) 
+the(0.0) Leadership(0.0) Alliance(0.0) ,(0.0) including(0.0) Brown(1.0) University(0.0) ,(0.0) for(0.0) 20(0.0) years(0.0) of(0.0) mentoring(0.0) a(0.0) diverse(0.0) and(0.0) competitive(0.0) research(0.0) and(0.0) scholarly(0.0) 
+workforce(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Brown	
+underrepresented	
+
+
+Rhode	Islanders	
+
+initiative	underrepresented	underserved	
+Brown	
+
+
+reads % = 0.04371584699453552

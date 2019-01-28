@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) in(0.0) opposition(1.0) to(0.0) the(0.0) conference(0.0) report(0.0) on(0.0) HUD-VA(0.0) .(0.0) This(0.0) bill(1.0) contains(1.0) some(0.0) of(0.0) our(0.0) Nation(1.0) 's(0.0) 
+most(0.0) important(0.0) priorities(1.0) ,(0.0) and(0.0) I(0.0) was(0.0) pleased(0.0) that(0.0) the(0.0) conference(0.0) agreement(0.0) protects(0.0) space(0.0) research(0.0) .(0.0) Nevertheless(0.0) ,(0.0) the(0.0) overall(0.0) 
+cuts(1.0) which(0.0) were(0.0) sustained(0.0) by(0.0) the(0.0) EPA(1.0) and(0.0) Superfund(1.0) are(0.0) unacceptable(1.0) .(0.0) Preserving(1.0) our(0.0) environment(0.0) is(0.0) too(0.0) important(0.0) to(0.0) be(0.0) 
+traded(0.0) off(0.0) for(0.0) other(0.0) priorities(1.0) .(0.0) Therefore(0.0) ,(0.0) I(0.0) oppose(1.0) this(0.0) bill(1.0) .(0.0) I(0.0) commend(0.0) the(0.0) conferees(1.0) for(0.0) providing(0.0) funding(1.0) 
+to(0.0) NASA(1.0) to(0.0) continue(0.0) important(0.0) work(0.0) on(0.0) space(0.0) science(0.0) and(0.0) move(0.0) the(0.0) space(0.0) station(0.0) forward(0.0) .(0.0) I(0.0) especially(0.0) want(0.0) to(0.0) 
+thank(0.0) the(0.0) conferees(1.0) for(0.0) providing(0.0) $(0.0) 1.26(0.0) billion(1.0) for(0.0) mission(1.0) to(0.0) Planet(0.0) Earth(0.0) .(0.0) The(0.0) research(0.0) this(0.0) sponsors(0.0) will(0.0) greatly(0.0) 
+enhance(0.0) weather(0.0) forecasting(0.0) ,(0.0) and(0.0) allow(0.0) us(0.0) to(0.0) protect(1.0) lives(0.0) and(0.0) property(0.0) by(0.0) giving(0.0) better(0.0) advance(0.0) warning(0.0) before(0.0) severe(0.0) weather(0.0) 
+such(0.0) as(0.0) hurricanes(0.0) .(0.0) I(0.0) am(0.0) pleased(0.0) that(0.0) today(0.0) ,(0.0) this(0.0) bill(1.0) reaffirms(1.0) the(0.0) importance(1.0) of(0.0) the(0.0) work(0.0) that(0.0) is(0.0) 
+done(0.0) at(0.0) the(0.0) Goddard(1.0) Space(0.0) Center(0.0) .(0.0) Nevertheless(0.0) ,(0.0) the(0.0) funding(1.0) cuts(1.0) for(1.0) EPA(1.0) in(0.0) this(0.0) bill(1.0) are(0.0) an(0.0) unacceptable(1.0) 
+attack(1.0) on(0.0) our(0.0) environment(0.0) .(0.0) Funding(1.0) for(0.0) Superfund(1.0) cleanup(1.0) has(0.0) been(0.0) cut(0.0) by(0.0) 19(0.0) percent(0.0) .(0.0) This(0.0) leaves(0.0) no(0.0) flexibility(0.0) 
+to(0.0) take(0.0) care(0.0) of(0.0) sites(0.0) which(0.0) will(0.0) be(0.0) identified(0.0) as(0.0) problems(0.0) in(0.0) the(0.0) upcoming(0.0) year(0.0) .(0.0) The(0.0) Fifth(1.0) District(0.0) of(0.0) 
+Maryland(1.0) has(0.0) five(0.0) areas(0.0) which(0.0) are(0.0) currently(0.0) being(0.0) considered(0.0) for(0.0) Sueprfund(0.0) cleanup(1.0) assistance(0.0) .(0.0) All(0.0) five(0.0) contain(0.0) pollution(1.0) which(0.0) threatens(1.0) 
+the(0.0) health(1.0) and(0.0) well-being(1.0) of(0.0) Fifth(1.0) District(0.0) residents(1.0) .(0.0) It(0.0) is(0.0) unfair(1.0) to(0.0) limit(1.0) clean(0.0) up(0.0) progress(0.0) to(0.0) currently(0.0) identified(0.0) 
+sites(0.0) .(0.0) This(0.0) bill(1.0) will(1.0) exclude(1.0) many(0.0) dangerous(1.0) areas(0.0) from(0.0) getting(0.0) clean(1.0) up(0.0) help(0.0) I(0.0) am(0.0) also(0.0) concerned(0.0) about(0.0) the(0.0) 
+impact(0.0) of(0.0) EPA(1.0) cuts(1.0) on(1.0) our(0.0) ongoing(1.0) efforts(1.0) to(0.0) clean(1.0) up(0.0) the(0.0) Chesapeake(1.0) Bay(1.0) .(0.0) Under(0.0) this(0.0) conference(0.0) report(0.0) ,(0.0) 
+EPA(1.0) funding(1.0) would(0.0) be(0.0) cut(0.0) more(0.0) than(0.0) one-fifth(1.0) .(0.0) This(0.0) means(0.0) that(0.0) available(0.0) funding(1.0) will(0.0) be(0.0) directed(0.0) to(0.0) dealing(0.0) with(0.0) 
+crises(1.0) .(0.0) Long-term(0.0) restoration(1.0) efforts(1.0) will(0.0) bear(0.0) the(0.0) brunt(1.0) of(0.0) the(0.0) cuts(1.0) .(0.0) For(0.0) example(0.0) ,(0.0) we(0.0) recently(0.0) discovered(0.0) that(0.0) 
+as(0.0) much(0.0) as(0.0) 30(0.0) percent(0.0) of(0.0) the(0.0) nitrogen(1.0) pollution(1.0) in(0.0) the(0.0) bay(0.0) is(0.0) due(0.0) to(0.0) airborne(1.0) ,(0.0) not(0.0) waterborne(1.0) ,(0.0) 
+contamination(1.0) .(0.0) The(0.0) cuts(1.0) in(0.0) this(0.0) bill(1.0) will(1.0) force(1.0) the(0.0) EPA(1.0) to(0.0) stop(1.0) much(0.0) of(0.0) this(0.0) type(0.0) of(0.0) research(0.0) .(0.0) 
+Likewise(0.0) ,(0.0) our(0.0) ongoing(1.0) programs(1.0) to(0.0) reintroduce(1.0) rockfish(1.0) and(0.0) other(0.0) species(0.0) to(0.0) the(0.0) bay(0.0) may(0.0) also(0.0) be(0.0) put(0.0) on(0.0) hold(0.0) 
+.(0.0) I(0.0) am(0.0) pleased(0.0) that(0.0) the(0.0) Chesapeake(1.0) Bay(1.0) program(0.0) has(0.0) been(0.0) funded(1.0) under(0.0) this(0.0) bill(1.0) .(0.0) However(0.0) ,(0.0) as(0.0) any(0.0) 
+fisherman(0.0) will(0.0) tell(0.0) you(0.0) ,(0.0) our(0.0) efforts(1.0) to(0.0) restore(1.0) the(0.0) bay(0.0) and(0.0) its(0.0) oyster(1.0) population(0.0) are(0.0) dependent(0.0) upon(0.0) the(0.0) quality(0.0) 
+of(0.0) the(0.0) water(0.0) that(0.0) flows(0.0) into(0.0) the(0.0) bay(0.0) .(0.0) The(0.0) ultimate(0.0) success(0.0) of(0.0) our(0.0) efforts(1.0) to(0.0) restore(1.0) the(0.0) economic(1.0) and(0.0) 
+environmental(1.0) vitality(1.0) of(0.0) the(0.0) bay(0.0) depend(0.0) on(0.0) cleaning(1.0) up(0.0) the(0.0) Patuxent(1.0) ,(0.0) Anacostia(1.0) ,(0.0) and(0.0) Potomac(1.0) Rivers(1.0) .(0.0) These(0.0) are(0.0) 
+precisely(0.0) the(0.0) sorts(0.0) of(0.0) long-term(0.0) projects(0.0) which(0.0) are(0.0) most(0.0) likely(0.0) to(0.0) be(0.0) delayed(0.0) as(0.0) scarce(1.0) funding(1.0) turns(0.0) to(0.0) short-term(1.0) 
+
+
+----- below are rationale words -----
+
+opposition	bill	contains	Nation	
+priorities	
+cuts	EPA	Superfund	unacceptable	Preserving	
+priorities	oppose	bill	conferees	funding	
+NASA	
+conferees	billion	mission	
+protect	
+bill	reaffirms	importance	
+Goddard	funding	cuts	for	EPA	bill	unacceptable	
+attack	Funding	Superfund	cleanup	
+Fifth	
+Maryland	cleanup	pollution	threatens	
+health	well-being	Fifth	residents	unfair	limit	
+bill	will	exclude	dangerous	clean	
+EPA	cuts	on	ongoing	efforts	clean	Chesapeake	Bay	
+EPA	funding	one-fifth	funding	
+crises	restoration	efforts	brunt	cuts	
+nitrogen	pollution	airborne	waterborne	
+contamination	cuts	bill	will	force	EPA	stop	
+ongoing	programs	reintroduce	rockfish	
+Chesapeake	Bay	funded	bill	
+efforts	restore	oyster	
+efforts	restore	economic	
+environmental	vitality	cleaning	Patuxent	Anacostia	Potomac	Rivers	
+scarce	funding	short-term	
+
+reads % = 0.204

@@ -1,0 +1,22 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) believe(0.0) the(0.0) gentleman(0.0) from(0.0) Delaware(1.0) has(0.0) already(0.0) yielded(0.0) back(0.0) .(0.0) So(0.0) ,(0.0) at(0.0) this(0.0) point(0.0) ,(0.0) I(0.0) would(0.0) 
+just(0.0) like(0.0) to(0.0) again(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Delaware(1.0) for(0.0) his(0.0) work(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Wisconsin(1.0) for(0.0) his(0.0) leadership(0.0) 
+on(0.0) this(0.0) issue(0.0) .(0.0) And(0.0) ,(0.0) also(0.0) on(0.0) his(0.0) page(0.0) ,(0.0) I(0.0) saw(0.0) written(0.0) in(0.0) a(0.0) large(0.0) number(0.0) was(0.0) the(0.0) 
+magic(0.0) number(0.0) 57-0(1.0) .(0.0) I(0.0) hope(0.0) that(0.0) does(0.0) send(0.0) a(0.0) resounding(0.0) message(0.0) over(0.0) to(0.0) the(0.0) other(0.0) body(0.0) ,(0.0) to(0.0) the(0.0) 
+Senate(1.0) ,(0.0) to(0.0) do(0.0) as(0.0) they(0.0) have(0.0) not(0.0) been(0.0) doing(0.0) for(0.0) the(0.0) last(0.0) 14(0.0) months(0.0) ,(0.0) which(0.0) is(0.0) to(0.0) take(0.0) 
+up(0.0) some(0.0) of(0.0) these(0.0) good(0.0) job-creation(1.0) bills(1.0) ,(0.0) a(0.0) bill(1.0) that(0.0) helps(0.0) promote(1.0) jobs(1.0) and(0.0) small(0.0) businesses(1.0) in(0.0) this(0.0) country(1.0) 
+.(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Delaware	
+Delaware	Wisconsin	
+
+57-0	
+Senate	
+job-creation	bills	bill	promote	jobs	businesses	country	
+Speaker	
+
+reads % = 0.09701492537313433

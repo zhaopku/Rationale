@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+((0.0) Mr.(0.0) HOLT(1.0) asked(0.0) and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) )(0.0) 5041(0.0) would(0.0) establish(0.0) the(0.0) boundaries(0.0) 
+and(0.0) classification(0.0) for(0.0) a(0.0) segment(0.0) of(0.0) the(0.0) Missouri(0.0) River(0.0) in(0.0) Montana(1.0) that(0.0) was(0.0) designated(0.0) under(0.0) the(0.0) Wild(0.0) and(0.0) Scenic(0.0) Rivers(0.0) 
+Act(0.0) in(0.0) 1976(0.0) .(0.0) This(0.0) is(0.0) legislation(0.0) introduced(0.0) by(0.0) our(0.0) colleague(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Montana(1.0) ((0.0) Mr.(0.0) Hill(1.0) )(0.0) 
+.(0.0) Madam(0.0) Speaker(0.0) ,(0.0) this(0.0) legislation(0.0) was(0.0) introduced(0.0) in(0.0) late(0.0) July(0.0) ,(0.0) and(0.0) while(0.0) the(0.0) bill(0.0) was(0.0) never(0.0) considered(0.0) by(0.0) 
+the(0.0) Committee(0.0) on(0.0) Resources(0.0) ,(0.0) we(0.0) at(0.0) least(0.0) have(0.0) the(0.0) views(0.0) of(0.0) the(0.0) administration(0.0) on(0.0) this(0.0) matter(0.0) .(0.0) In(0.0) a(0.0) 
+letter(0.0) dated(0.0) October(0.0) 3(0.0) of(0.0) this(0.0) year(0.0) ,(0.0) the(0.0) Department(0.0) of(0.0) the(0.0) Interior(0.0) indicated(0.0) their(0.0) support(0.0) for(0.0) H.R(0.0) .(0.0) 5041(0.0) 
+.(0.0) Evidently(0.0) ,(0.0) in(0.0) the(0.0) late(0.0) 1970s(0.0) ,(0.0) several(0.0) procedural(0.0) steps(0.0) were(0.0) not(0.0) followed(0.0) in(0.0) establishing(0.0) the(0.0) river(0.0) 's(0.0) boundaries(0.0) 
+and(0.0) providing(0.0) for(0.0) its(0.0) classification(0.0) .(0.0) By(0.0) adopting(1.0) the(0.0) river(0.0) 's(0.0) boundaries(0.0) and(0.0) classification(0.0) by(0.0) statute(0.0) ,(0.0) H.R(0.0) .(0.0) 5041(0.0) 
+would(0.0) remove(0.0) any(0.0) doubt(0.0) that(0.0) may(0.0) exist(0.0) on(0.0) this(0.0) matter(0.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) we(0.0) have(0.0) no(0.0) objection(0.0) to(0.0) this(0.0) 
+legislation(1.0) ,(0.0) which(0.0) we(0.0) view(0.0) as(0.0) a(0.0) technical(0.0) housekeeping(0.0) matter(0.0) .(0.0) We(0.0) urge(0.0) its(0.0) passage(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+HOLT	
+Montana	
+Montana	Hill	
+
+
+
+
+adopting	
+Speaker	
+legislation	passage	
+
+reads % = 0.04060913705583756

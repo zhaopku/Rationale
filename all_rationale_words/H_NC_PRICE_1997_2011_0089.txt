@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) ,(0.0) and(0.0) I(0.0) commend(0.0) both(0.0) the(0.0) chairman(0.0) and(0.0) the(0.0) ranking(0.0) member(0.0) for(0.0) their(0.0) 
+hard(0.0) work(0.0) on(0.0) this(0.0) bill(1.0) ,(0.0) although(0.0) ,(0.0) with(0.0) an(0.0) inadequate(1.0) allocation(1.0) ,(0.0) there(0.0) are(0.0) decisions(0.0) that(0.0) have(0.0) been(0.0) made(0.0) 
+that(0.0) I(0.0) believe(0.0) will(0.0) adversely(1.0) affect(0.0) our(0.0) work(0.0) ,(0.0) and(0.0) that(0.0) I(0.0) hope(0.0) can(0.0) be(0.0) revisited(0.0) down(0.0) the(0.0) line(0.0) .(0.0) 
+That(0.0) 's(0.0) not(0.0) what(0.0) I(0.0) want(0.0) to(0.0) talk(0.0) at(0.0) this(0.0) moment(0.0) ,(0.0) though(0.0) .(0.0) I(0.0) want(0.0) to(0.0) talk(0.0) about(0.0) an(0.0) 
+unusual(0.0) feature(0.0) of(0.0) the(0.0) Legislative(0.0) Branch(0.0) bill(0.0) that(0.0) I(0.0) hope(0.0) also(0.0) can(0.0) be(0.0) revisited(0.0) down(0.0) the(0.0) line(0.0) .(0.0) I(0.0) want(0.0) 
+to(0.0) call(0.0) the(0.0) attention(0.0) of(0.0) my(0.0) colleagues(0.0) to(0.0) the(0.0) elimination(1.0) of(0.0) a(0.0) program(0.0) that(0.0) has(0.0) served(0.0) this(0.0) body(0.0) and(0.0) our(0.0) 
+Nation(1.0) 's(0.0) interests(0.0) well(0.0) ,(0.0) the(0.0) Open(0.0) World(0.0) Leadership(0.0) Center(0.0) ,(0.0) a(0.0) unique(0.0) enterprise(0.0) ,(0.0) sponsored(1.0) by(0.0) the(0.0) legislative(1.0) branch(0.0) 
+of(0.0) our(0.0) government(1.0) ,(0.0) something(0.0) that(0.0) I(0.0) think(0.0) should(0.0) make(0.0) us(0.0) very(0.0) proud(0.0) of(0.0) this(0.0) institution(1.0) and(0.0) its(0.0) international(0.0) outreach(1.0) 
+.(0.0) The(0.0) bill(1.0) before(0.0) us(0.0) today(0.0) provides(0.0) only(0.0) shut(1.0) down(0.0) expenses(1.0) for(0.0) this(0.0) program(1.0) .(0.0) Now(0.0) ,(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) 
+I(0.0) am(0.0) not(0.0) going(0.0) to(0.0) offer(0.0) an(0.0) amendment(1.0) to(0.0) restore(1.0) the(0.0) program(1.0) 's(0.0) funding(1.0) because(0.0) of(0.0) the(0.0) extremely(0.0) low(0.0) subcommittee(0.0) 
+allocation(1.0) and(0.0) the(0.0) absence(0.0) of(0.0) acceptable(0.0) offsets(1.0) .(0.0) There(0.0) simply(0.0) isn't(0.0) money(0.0) lying(0.0) around(0.0) to(0.0) apply(0.0) to(0.0) this(0.0) purpose(0.0) .(0.0) 
+But(0.0) I(0.0) can(0.0) not(0.0) let(0.0) this(0.0) body(0.0) 's(0.0) commitment(1.0) to(0.0) the(0.0) Open(0.0) World(0.0) Program(0.0) end(0.0) without(0.0) voicing(0.0) my(0.0) disappointment(0.0) and(0.0) 
+my(0.0) hope(0.0) that(0.0) this(0.0) matter(0.0) will(0.0) be(0.0) reconsidered(0.0) and(0.0) can(0.0) be(0.0) reconsidered(1.0) in(0.0) the(0.0) context(0.0) of(0.0) the(0.0) Senate(0.0) bill(0.0) .(0.0) 
+The(0.0) Open(0.0) World(0.0) Leadership(0.0) Program(0.0) is(0.0) a(0.0) unique(0.0) program(0.0) administered(0.0) by(0.0) the(0.0) Library(0.0) of(0.0) Congress(0.0) that(0.0) ,(0.0) over(0.0) the(0.0) years(0.0) 
+,(0.0) has(0.0) earned(0.0) bipartisan(1.0) and(0.0) bicameral(1.0) support(0.0) .(0.0) Since(0.0) 1999(0.0) ,(0.0) the(0.0) program(1.0) has(0.0) brought(0.0) emerging(0.0) leaders(0.0) from(0.0) former(0.0) Soviet(0.0) 
+States(0.0) to(0.0) all(0.0) 50(0.0) States(0.0) of(0.0) our(0.0) country(1.0) ,(0.0) providing(0.0) them(0.0) a(0.0) firsthand(0.0) look(0.0) at(0.0) the(0.0) U.S.(0.0) democratic(1.0) process(0.0) ,(0.0) 
+enabling(0.0) them(0.0) to(0.0) exchange(0.0) ideas(0.0) with(0.0) their(0.0) American(0.0) counterparts(1.0) ,(0.0) and(0.0) encouraging(1.0) them(0.0) to(0.0) relate(0.0) what(0.0) they(0.0) learn(0.0) to(0.0) their(0.0) 
+home(0.0) environments(0.0) .(0.0) The(0.0) participants(0.0) in(0.0) Open(0.0) World(0.0) are(0.0) not(0.0) the(0.0) people(0.0) that(0.0) typically(0.0) participate(0.0) in(0.0) international(1.0) exchange(0.0) programs(1.0) .(0.0) 
+They(0.0) 're(0.0) not(0.0) just(0.0) the(0.0) political(1.0) or(0.0) business(0.0) leaders(0.0) in(0.0) the(0.0) capital(1.0) who(0.0) venture(0.0) to(0.0) other(0.0) nations(1.0) frequently(0.0) .(0.0) No(0.0) 
+,(0.0) they(0.0) 're(0.0) teachers(0.0) ,(0.0) they(0.0) 're(0.0) judges(0.0) ,(0.0) they're(0.0) health(1.0) workers(1.0) ,(0.0) they(0.0) 're(0.0) young(0.0) activists(1.0) .(0.0) They(0.0) 're(0.0) 
+all(0.0) sorts(0.0) of(0.0) people(0.0) who(0.0) live(0.0) often(0.0) in(0.0) rural(1.0) areas(0.0) and(0.0) smaller(0.0) cities(1.0) .(0.0) The(0.0) program(1.0) penetrates(0.0) deeply(0.0) .(0.0) In(0.0) 
+my(0.0) experience(0.0) ,(0.0) uniquely(0.0) so(0.0) .(0.0) It(0.0) penetrates(0.0) quite(0.0) deeply(0.0) ,(0.0) rather(0.0) than(0.0) just(0.0) being(0.0) another(0.0) run-of-the-mill(0.0) exchange(0.0) program(1.0) .(0.0) 
+I(0.0) know(0.0) about(0.0) this(0.0) ,(0.0) and(0.0) many(0.0) other(0.0) Members(0.0) in(0.0) this(0.0) body(0.0) do(0.0) as(0.0) well(0.0) .(0.0) I(0.0) 've(0.0) participated(0.0) personally(0.0) 
+with(0.0) these(0.0) leaders(0.0) as(0.0) they(0.0) 've(0.0) come(0.0) to(0.0) my(0.0) district(0.0) .(0.0) This(0.0) is(0.0) a(0.0) well-designed(0.0) program(0.0) .(0.0) It(0.0) 's(0.0) a(0.0) 
+program(0.0) that(0.0) has(0.0) made(0.0) and(0.0) can(0.0) make(0.0) a(0.0) difference(0.0) .(0.0) It(0.0) does(0.0) n't(0.0) just(0.0) merely(0.0) scratch(0.0) the(0.0) surface(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+bill	inadequate	allocation	
+adversely	
+
+
+elimination	
+Nation	sponsored	legislative	
+government	institution	outreach	
+bill	shut	expenses	program	Chairman	
+amendment	restore	program	funding	
+allocation	offsets	
+commitment	
+reconsidered	
+
+bipartisan	bicameral	program	
+country	democratic	
+counterparts	encouraging	
+international	programs	
+political	capital	nations	
+health	workers	activists	
+rural	cities	program	
+program	
+
+
+
+
+reads % = 0.086

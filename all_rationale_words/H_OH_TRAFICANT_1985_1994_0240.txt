@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) reports(0.0) say(0.0) Uncle(0.0) Sam(1.0) has(1.0) offered(0.0) Russian(0.0) soldiers(0.0) $(0.0) 25,000(0.0) to(0.0) buy(0.0) a(0.0) house(0.0) if(0.0) they(0.0) would(0.0) leave(0.0) the(0.0) 
+Baltics(0.0) .(0.0) Now(0.0) ,(0.0) if(0.0) this(0.0) is(0.0) correct(0.0) ,(0.0) ladies(0.0) and(0.0) gentlemen(0.0) ,(0.0) what(0.0) is(0.0) next(0.0) ?(0.0) How(0.0) about(0.0) Haiti(1.0) 
+;(0.0) we(0.0) just(0.0) send(0.0) Cedras(1.0) to(0.0) Las(0.0) Vegas(0.0) and(0.0) slip(0.0) in(0.0) Aristide(1.0) ?(0.0) Or(0.0) how(0.0) about(0.0) just(0.0) take(0.0) the(0.0) North(0.0) 
+Korean(0.0) Politburo(0.0) ,(0.0) send(0.0) them(0.0) to(0.0) Disney(0.0) World(0.0) and(0.0) stop(0.0) all(0.0) the(0.0) nuclear(1.0) weapons(0.0) ?(0.0) Or(0.0) just(0.0) bribe(1.0) everybody(0.0) in(0.0) 
+Bosnia(1.0) to(0.0) stop(0.0) fighting(1.0) ?(0.0) Unbelievable(0.0) .(0.0) But(0.0) what(0.0) gets(0.0) me(0.0) ,(0.0) $(0.0) 25,000(0.0) for(0.0) every(0.0) Russian(1.0) soldier(0.0) to(0.0) buy(0.0) 
+a(0.0) house(0.0) is(0.0) called(0.0) diplomacy(1.0) .(0.0) But(0.0) to(0.0) try(0.0) and(0.0) help(0.0) an(0.0) American(0.0) soldier(0.0) whose(0.0) base(0.0) closed(0.0) and(0.0) is(0.0) losing(0.0) 
+their(0.0) job(0.0) ,(0.0) that(0.0) is(0.0) called(0.0) pork(0.0) .(0.0) Beam(0.0) me(0.0) up(0.0) .(0.0) I(0.0) say(0.0) tell(0.0) Bully(0.0) Boris(0.0) to(0.0) get(0.0) out(0.0) 
+of(0.0) the(0.0) Baltics(0.0) .(0.0) If(0.0) we(0.0) have(0.0) any(0.0) money(1.0) to(0.0) spend(1.0) ,(0.0) Congress(0.0) ,(0.0) spend(1.0) it(0.0) and(0.0) help(0.0) the(0.0) American(0.0) 
+soldiers(0.0) losing(0.0) their(0.0) jobs(0.0) and(0.0) tell(0.0) the(0.0) Russians(1.0) to(0.0) develop(0.0) a(0.0) market(0.0) economy(1.0) .(0.0) They(0.0) will(0.0) like(0.0) it(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Sam	has	
+Haiti	
+Cedras	Aristide	
+nuclear	bribe	
+Bosnia	fighting	Russian	
+diplomacy	
+
+money	spend	spend	
+Russians	economy	
+
+reads % = 0.08888888888888889

@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) ask(0.0) unanimous(1.0) consent(0.0) to(0.0) take(0.0) from(0.0) the(0.0) Speaker(0.0) 's(0.0) table(0.0) the(0.0) Senate(0.0) concurrent(0.0) resolution(0.0) ((0.0) S.(0.0) Con(1.0) .(0.0) 
+Res(0.0) .(0.0) 45(0.0) )(0.0) authorizing(0.0) the(0.0) use(0.0) of(0.0) the(0.0) Capitol(0.0) rotunda(1.0) on(0.0) May(0.0) 2(0.0) ,(0.0) 1996(0.0) ,(0.0) for(0.0) the(0.0) presentation(0.0) 
+of(0.0) the(0.0) Congressional(0.0) Gold(1.0) Medal(0.0) to(0.0) Reverend(0.0) and(0.0) Mrs.(0.0) Billy(1.0) Graham(1.0) ,(0.0) and(0.0) ask(0.0) for(0.0) its(0.0) immediate(0.0) consideration(0.0) in(0.0) the(0.0) 
+House(0.0) .(0.0) The(0.0) Clerk(0.0) read(0.0) the(0.0) title(0.0) of(0.0) the(0.0) Senate(0.0) concurrent(0.0) resolution(0.0) .(0.0) The(0.0) SPEAKER(0.0) pro(0.0) tempore(0.0) ((1.0) Mr.(0.0) Doolittle(1.0) 
+)(0.0) .(0.0) Is(0.0) there(0.0) objection(0.0) to(0.0) the(0.0) request(0.0) of(0.0) the(0.0) gentleman(0.0) from(0.0) Florida(0.0) ?(0.0) There(0.0) was(0.0) no(0.0) objection(0.0) .(0.0) The(0.0) 
+Clerk(0.0) read(0.0) the(0.0) Senate(0.0) concurrent(0.0) resolution(0.0) ,(0.0) as(0.0) follows(0.0) :(0.0) S.(0.0) Con(0.0) .(0.0) Res(0.0) .(0.0) 45(0.0) Resolved(0.0) by(0.0) the(0.0) Senate(0.0) 
+((0.0) the(0.0) House(0.0) of(0.0) Representatives(0.0) concurring(0.0) )(0.0) ,(0.0) That(0.0) the(0.0) rotunda(0.0) of(0.0) the(0.0) United(0.0) States(0.0) Capitol(0.0) is(0.0) hereby(0.0) authorized(0.0) to(0.0) 
+be(0.0) used(0.0) on(0.0) May(0.0) 2(0.0) ,(0.0) 1996(0.0) ,(0.0) at(0.0) 2(0.0) o'clock(0.0) post(0.0) meridian(0.0) for(0.0) the(0.0) presentation(0.0) of(0.0) the(0.0) Congressional(0.0) Gold(1.0) 
+Medal(0.0) to(0.0) Reverend(0.0) and(0.0) Mrs.(0.0) Billy(1.0) Graham(1.0) .(0.0) Physical(0.0) preparations(0.0) for(0.0) the(0.0) conduct(0.0) of(0.0) the(0.0) ceremony(0.0) shall(0.0) be(0.0) carried(0.0) out(0.0) 
+in(0.0) accordance(0.0) with(0.0) such(0.0) conditions(0.0) as(0.0) may(0.0) be(0.0) prescribed(0.0) by(0.0) the(0.0) Architect(0.0) of(0.0) the(0.0) Capitol(0.0) .(0.0) The(0.0) Senate(0.0) concurrent(0.0) resolution(0.0) 
+was(0.0) concurred(0.0) in(0.0) .(0.0) A(0.0) motion(0.0) to(0.0) reconsider(0.0) was(0.0) laid(0.0) on(0.0) the(0.0) table(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+unanimous	Con	
+rotunda	
+Gold	Billy	Graham	
+(	Doolittle	
+
+
+
+Gold	
+Billy	Graham	
+
+
+
+reads % = 0.05116279069767442

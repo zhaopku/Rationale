@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) make(0.0) a(0.0) point(0.0) of(0.0) order(0.0) against(0.0) section(0.0) 162(0.0) on(0.0) page(0.0) 39(0.0) ,(0.0) line(0.0) 1(0.0) through(0.0) 23(0.0) .(0.0) This(0.0) 
+provision(0.0) violates(1.0) clause(1.0) 2(0.0) of(0.0) rule(0.0) XXI(0.0) ,(0.0) changing(0.0) existing(0.0) law(1.0) and(0.0) therefore(0.0) constitutes(1.0) legislating(1.0) on(0.0) an(0.0) appropriation(1.0) bill(0.0) in(0.0) 
+violation(1.0) of(0.0) House(0.0) rules(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+violates	clause	law	constitutes	legislating	appropriation	
+violation	
+
+reads % = 0.15217391304347827

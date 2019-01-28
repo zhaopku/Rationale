@@ -1,0 +1,36 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) strong(0.0) support(0.0) of(0.0) the(0.0) Social(0.0) Security(0.0) and(0.0) Medicare(1.0) ``(0.0) Lockbox(0.0) ''(0.0) Act(0.0) .(0.0) This(0.0) bill(1.0) 
+locks(1.0) up(0.0) the(0.0) $(0.0) 2.9(0.0) trillion(1.0) surplus(1.0) from(0.0) the(0.0) Social(0.0) Security(0.0) and(0.0) Medicare(1.0) trust(0.0) funds(0.0) by(0.0) prohibiting(1.0) their(0.0) use(0.0) for(0.0) 
+non-Social(1.0) Security(0.0) purposes(0.0) .(0.0) As(0.0) a(0.0) result(0.0) ,(0.0) it(0.0) ensures(0.0) that(0.0) Congress(0.0) will(0.0) always(0.0) devote(0.0) 100(0.0) percent(0.0) of(0.0) the(0.0) Social(0.0) 
+Security(0.0) and(0.0) Medicare(1.0) surpluses(1.0) to(0.0) only(0.0) those(0.0) retirement(1.0) programs(1.0) .(0.0) Today(0.0) ,(0.0) millions(1.0) of(0.0) elderly(1.0) and(0.0) disabled(0.0) Americans(1.0) rely(0.0) on(0.0) 
+Social(0.0) Security(0.0) and(0.0) Medicare(1.0) to(0.0) provide(0.0) them(0.0) with(0.0) income(1.0) ,(0.0) basic(0.0) health(1.0) insurance(1.0) coverage(1.0) ,(0.0) and(0.0) retirement(1.0) security(0.0) .(0.0) In(0.0) 
+fact(0.0) ,(0.0) Medicare(1.0) provides(0.0) significant(0.0) health(1.0) insurance(1.0) coverage(1.0) for(0.0) 39(0.0) million(0.0) aged(0.0) and(0.0) disabled(1.0) beneficiaries(1.0) .(0.0) Therefore(0.0) ,(0.0) we(0.0) need(0.0) 
+to(0.0) make(0.0) sure(0.0) that(0.0) our(0.0) seniors(1.0) receive(0.0) these(0.0) much(0.0) needed(0.0) services(0.0) and(0.0) benefits(0.0) in(0.0) the(0.0) most(0.0) efficient(0.0) manner(0.0) possible(0.0) .(0.0) 
+Because(0.0) I(0.0) believe(0.0) that(0.0) every(0.0) working(0.0) American(0.0) should(0.0) know(0.0) unequivocally(0.0) that(0.0) Social(1.0) Security(0.0) and(0.0) Medicare(1.0) will(0.0) be(0.0) there(0.0) for(0.0) them(0.0) 
+when(0.0) they(0.0) retire(0.0) ,(0.0) I(0.0) am(0.0) committed(0.0) to(0.0) making(0.0) seniors(1.0) a(0.0) top(0.0) priority(1.0) by(0.0) taking(0.0) the(0.0) necessary(0.0) steps(0.0) to(0.0) improve(0.0) 
+their(0.0) quality(0.0) of(0.0) life(0.0) .(0.0) Beginning(0.0) with(0.0) the(0.0) Lockbox(1.0) initiative(1.0) ,(0.0) Congress(0.0) can(0.0) help(0.0) protect(0.0) our(0.0) nations(1.0) elderly(1.0) from(0.0) fraud(1.0) 
+and(0.0) abuse(0.0) ,(0.0) inadequate(1.0) and(0.0) poor(1.0) health(1.0) care(1.0) services(1.0) ,(0.0) and(0.0) a(0.0) false(0.0) sense(0.0) of(0.0) retirement(1.0) security(0.0) .(0.0) After(0.0) all(0.0) 
+,(0.0) our(0.0) seniors(1.0) are(0.0) a(0.0) national(1.0) resource(0.0) that(0.0) must(0.0) be(0.0) preserved(0.0) to(0.0) the(0.0) best(0.0) of(0.0) our(0.0) abilities(0.0) .(0.0) therefore(0.0) ,(0.0) 
+I(0.0) urge(0.0) you(0.0) to(0.0) join(0.0) me(0.0) in(0.0) securing(1.0) a(0.0) future(0.0) for(0.0) our(0.0) seniors(1.0) by(0.0) voting(1.0) in(0.0) favor(1.0) of(0.0) the(0.0) Lockbox(1.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+Medicare	bill	
+locks	trillion	surplus	Medicare	prohibiting	
+non-Social	
+Medicare	surpluses	retirement	programs	millions	elderly	Americans	
+Medicare	income	health	insurance	coverage	retirement	
+Medicare	health	insurance	coverage	disabled	beneficiaries	
+seniors	
+Social	Medicare	
+seniors	priority	
+Lockbox	initiative	nations	elderly	fraud	
+inadequate	poor	health	care	services	retirement	
+seniors	national	
+securing	seniors	voting	favor	Lockbox	
+
+
+reads % = 0.19083969465648856

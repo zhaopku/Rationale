@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) just(0.0) briefly(0.0) ,(0.0) I(0.0) think(0.0) it(0.0) is(0.0) also(0.0) consistent(0.0) with(0.0) how(0.0) we(0.0) do(0.0) the(0.0) Safe(1.0) and(0.0) Drug(1.0) Free(0.0) Schools(1.0) 
+Act(0.0) and(0.0) this(0.0) brings(0.0) it(0.0) all(0.0) together(0.0) .(0.0) It(0.0) is(0.0) not(0.0) that(0.0) the(0.0) other(0.0) was(0.0) bad(0.0) ,(0.0) that(0.0) is(0.0) why(0.0) 
+I(0.0) was(0.0) an(0.0) original(0.0) cosponsor(1.0) of(0.0) this(0.0) .(0.0) It(0.0) just(0.0) clarifies(0.0) it(0.0) further(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Safe	Drug	Schools	
+
+cosponsor	
+
+reads % = 0.07272727272727272

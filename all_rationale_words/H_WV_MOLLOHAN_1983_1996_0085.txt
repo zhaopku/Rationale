@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) just(0.0) really(0.0) want(0.0) this(0.0) time(0.0) to(0.0) express(0.0) appreciation(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Kentucky(1.0) [(0.0) Mr.(0.0) Rogers(1.0) ](0.0) for(1.0) 
+being(0.0) responsive(1.0) to(0.0) this(0.0) request(0.0) .(0.0) There(0.0) have(0.0) been(0.0) a(0.0) number(0.0) of(0.0) efforts(1.0) on(0.0) the(0.0) floor(0.0) to(0.0) increase(1.0) this(0.0) account(0.0) 
+,(0.0) and(0.0) they(0.0) have(0.0) been(0.0) really(0.0) in(0.0) good(0.0) faith(1.0) ,(0.0) they(0.0) have(0.0) worked(0.0) extremely(0.0) hard(0.0) ,(0.0) and(0.0) I(0.0) think(0.0) this(0.0) 
+is(0.0) a(0.0) fine(0.0) result(0.0) ,(0.0) and(0.0) I(0.0) know(0.0) everybody(0.0) is(0.0) appreciative(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Kentucky(0.0) for(0.0) his(0.0) understanding(0.0) with(0.0) 
+regard(0.0) to(0.0) this(0.0) matter(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Kentucky	Rogers	for	
+responsive	efforts	increase	
+faith	
+
+
+
+reads % = 0.08139534883720931

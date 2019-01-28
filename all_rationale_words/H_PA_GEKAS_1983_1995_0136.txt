@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+And(0.0) if(0.0) it(0.0) comes(0.0) under(0.0) $(0.0) 75,000(0.0) ,(0.0) at(0.0) $(0.0) 62,000(0.0) ,(0.0) or(0.0) $(0.0) 73,000(0.0) ,(0.0) or(0.0) whatever(0.0) ,(0.0) then(0.0) the(0.0) 
+plaintiff(1.0) would(0.0) have(0.0) to(0.0) pay(0.0) the(0.0) --(0.0) because(0.0) the(0.0) median(0.0) figure(0.0) was(0.0) not(0.0) met(0.0) .(0.0) Now(0.0) I(0.0) know(0.0) the(0.0) gentleman(0.0) 
+agrees(0.0) with(0.0) me(0.0) when(0.0) I(0.0) say(0.0) to(0.0) him(0.0) and(0.0) I(0.0) say(0.0) to(0.0) the(0.0) Members(0.0) ,(0.0) ``(0.0) This(0.0) stimulates(0.0) and(0.0) urges(1.0) 
+negotiation(1.0) because(0.0) ,(0.0) when(0.0) we(0.0) 're(0.0) sitting(0.0) on(0.0) the(0.0) other(0.0) side(0.0) of(0.0) the(0.0) table(0.0) ,(0.0) you(0.0) and(0.0) I(0.0) ,(0.0) and(0.0) 
+I(0.0) 'm(0.0) at(0.0) $(0.0) 100,000(0.0) ,(0.0) and(0.0) you(0.0) 're(0.0) at(0.0) $(0.0) 50,000(0.0) ,(0.0) and(0.0) we(0.0) know(0.0) that(0.0) $(0.0) 75,000(0.0) is(0.0) 
+going(0.0) to(0.0) be(0.0) the(0.0) point(0.0) at(0.0) which(0.0) the(0.0) attorneys(1.0) '(0.0) fees(0.0) costs(0.0) are(0.0) going(0.0) to(0.0) be(0.0) relegated(0.0) ,(0.0) then(0.0) maybe(0.0) 
+I(0.0) will(0.0) --(0.0) well(0.0) ,(0.0) look(0.0) ,(0.0) I(0.0) 'll(0.0) settle(0.0) for(0.0) $(0.0) 87,500(0.0) ,(0.0) or(0.0) you(0.0) move(0.0) it(0.0) up(0.0) to(0.0) 
+$(0.0) 62,500(0.0) ,(0.0) that(0.0) type(0.0) of(0.0) thing(0.0) .(0.0) ''(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) does(0.0) the(0.0) gentleman(0.0) agree(0.0) with(0.0) me(0.0) that(0.0) that(0.0) 
+does(0.0) stimulate(1.0) a(0.0) negotiation(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+
+plaintiff	
+urges	
+negotiation	
+
+attorneys	
+
+Chairman	
+stimulate	
+
+reads % = 0.03614457831325301

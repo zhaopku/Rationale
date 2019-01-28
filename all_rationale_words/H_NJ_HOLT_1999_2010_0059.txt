@@ -1,0 +1,42 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) the(0.0) bill(1.0) before(0.0) us(0.0) makes(0.0) critical(0.0) investments(1.0) in(0.0) education(1.0) which(0.0) are(0.0) fully(0.0) paid(0.0) for(0.0) by(0.0) closing(0.0) tax(1.0) loopholes(1.0) 
+that(1.0) reward(1.0) corporations(1.0) who(1.0) ship(1.0) jobs(1.0) overseas(1.0) and(1.0) by(1.0) finding(1.0) savings(1.0) in(0.0) other(1.0) programs(1.0) .(0.0) Just(0.0) this(0.0) week(0.0) ,(0.0) the(0.0) 
+New(1.0) Jersey(1.0) School(0.0) Boards(0.0) Association(0.0) released(0.0) a(0.0) survey(0.0) that(0.0) found(0.0) that(0.0) 80(0.0) percent(0.0) of(0.0) school(0.0) districts(1.0) expect(0.0) to(0.0) have(0.0) larger(0.0) 
+class(0.0) sizes(0.0) and(0.0) fewer(0.0) teachers(0.0) when(0.0) school(0.0) starts(0.0) this(0.0) fall(0.0) .(0.0) Our(0.0) children(0.0) do(0.0) not(0.0) get(0.0) a(0.0) second(0.0) chance(0.0) to(0.0) 
+succeed(0.0) in(0.0) school(1.0) ,(0.0) and(0.0) our(0.0) future(1.0) economic(1.0) growth(1.0) depends(0.0) on(0.0) a(0.0) well(0.0) educated(0.0) and(0.0) innovative(0.0) workforce(1.0) .(0.0) We(0.0) can(0.0) 
+not(0.0) afford(0.0) to(0.0) shortchange(1.0) our(0.0) children(0.0) or(0.0) risk(0.0) laying(0.0) off(0.0) our(0.0) teachers(0.0) .(0.0) The(0.0) current(0.0) economic(1.0) downturn(1.0) has(0.0) hit(0.0) the(0.0) 
+tax(1.0) base(0.0) hard(0.0) ,(0.0) schools(1.0) have(0.0) suffered(0.0) and(0.0) many(0.0) are(0.0) being(0.0) forced(0.0) to(0.0) cut(1.0) services(1.0) .(0.0) Previously(0.0) ,(0.0) the(0.0) American(0.0) 
+Recovery(1.0) and(0.0) Reinvestment(1.0) Act(0.0) made(0.0) several(0.0) sound(0.0) investments(1.0) in(0.0) public(1.0) education(1.0) to(0.0) keep(0.0) teachers(0.0) in(0.0) the(0.0) classroom(0.0) and(0.0) help(0.0) school(1.0) 
+districts(1.0) avoid(0.0) painful(0.0) cuts(1.0) .(0.0) Most(0.0) ,(0.0) if(0.0) not(0.0) all(0.0) ,(0.0) of(0.0) this(0.0) emergency(1.0) funding(1.0) has(0.0) been(0.0) spent(0.0) .(0.0) Further(0.0) 
+,(0.0) at(0.0) this(0.0) most(0.0) critical(1.0) time(0.0) ,(0.0) Governor(0.0) Christie(1.0) made(1.0) the(0.0) wrong(1.0) call(0.0) in(0.0) cutting(1.0) state(1.0) aid(1.0) to(0.0) our(0.0) local(0.0) 
+schools(0.0) .(0.0) Already(0.0) he(0.0) has(0.0) cut(0.0) $(0.0) 1.2(0.0) billion(1.0) from(0.0) education(1.0) programs(1.0) statewide(1.0) .(0.0) The(0.0) $(0.0) 10(0.0) billion(1.0) included(0.0) for(0.0) 
+the(0.0) Education(0.0) Jobs(0.0) Fund(0.0) will(0.0) help(0.0) keep(0.0) teachers(0.0) in(0.0) the(0.0) classroom(0.0) and(0.0) make(0.0) sure(0.0) that(0.0) class(0.0) sizes(0.0) do(0.0) not(0.0) balloon(0.0) 
+next(0.0) fall(0.0) .(0.0) This(0.0) funding(1.0) will(0.0) help(0.0) keep(0.0) 161,000(1.0) teachers(0.0) in(0.0) the(0.0) classroom(0.0) and(0.0) at(0.0) work(0.0) ,(0.0) 3,900(0.0) in(0.0) New(1.0) 
+Jersey(1.0) and(0.0) 160(0.0) in(0.0) Central(0.0) New(0.0) Jersey(1.0) .(0.0) I(0.0) am(0.0) deeply(0.0) concerned(0.0) that(0.0) Governor(0.0) Christie(1.0) is(1.0) considering(1.0) not(1.0) applying(1.0) for(0.0) 
+the(0.0) funds(1.0) our(0.0) state(1.0) is(0.0) slated(0.0) to(0.0) receive(0.0) .(0.0) If(0.0) he(0.0) fails(0.0) to(0.0) do(0.0) so(0.0) ,(0.0) the(0.0) legislation(1.0) allows(0.0) the(0.0) 
+U.S.(0.0) Secretary(0.0) of(0.0) Education(0.0) to(0.0) make(0.0) awards(0.0) to(0.0) other(0.0) entities(0.0) in(0.0) New(1.0) Jersey(1.0) so(0.0) our(0.0) students(0.0) do(0.0) not(0.0) suffer(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+bill	investments	education	tax	loopholes	
+that	reward	corporations	who	ship	jobs	overseas	and	by	finding	savings	other	programs	
+New	Jersey	districts	
+
+school	future	economic	growth	workforce	
+shortchange	economic	downturn	
+tax	schools	cut	services	
+Recovery	Reinvestment	investments	public	education	school	
+districts	cuts	emergency	funding	
+critical	Christie	made	wrong	cutting	state	aid	
+billion	education	programs	statewide	billion	
+
+funding	161,000	New	
+Jersey	Jersey	Christie	is	considering	not	applying	
+funds	state	legislation	
+New	Jersey	
+
+
+reads % = 0.21806853582554517

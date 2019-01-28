@@ -1,0 +1,16 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) would(0.0) like(0.0) to(0.0) let(0.0) the(0.0) minority(1.0) know(0.0) that(0.0) I(0.0) have(0.0) two(0.0) additional(0.0) speakers(0.0) ,(0.0) but(0.0) I(0.0) would(0.0) like(0.0) 
+for(0.0) them(0.0) to(0.0) feel(0.0) free(0.0) to(0.0) run(0.0) down(0.0) their(0.0) time(0.0) and(0.0) then(0.0) just(0.0) before(0.0) the(0.0) gentlewoman(0.0) from(0.0) New(0.0) York(1.0) closes(1.0) 
+,(0.0) we(0.0) will(0.0) have(0.0) one(0.0) speaker(0.0) for(0.0) 1(0.0) minute(0.0) and(0.0) then(0.0) we(0.0) will(0.0) close(0.0) ;(0.0) and(0.0) if(0.0) we(0.0) could(0.0) proceed(0.0) 
+under(0.0) that(0.0) agreement(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+minority	
+York	closes	
+
+
+
+reads % = 0.046153846153846156

@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) under(0.0) rule(0.0) XXII(0.0) ,(0.0) clause(0.0) 7(0.0) ((0.0) c(0.0) )(0.0) ,(0.0) I(0.0) hereby(0.0) announce(0.0) my(0.0) intention(0.0) to(0.0) offer(0.0) a(0.0) 
+motion(0.0) to(0.0) instruct(0.0) on(0.0) H.R(0.0) .(0.0) 1(0.0) ,(0.0) the(0.0) Medicare(1.0) Prescription(0.0) Drug(0.0) and(0.0) Modernization(0.0) Act(0.0) .(0.0) The(0.0) form(0.0) of(0.0) this(0.0) 
+motion(0.0) is(0.0) as(0.0) follows(0.0) :(0.0) Mrs.(0.0) Capps(1.0) of(0.0) California(0.0) moves(0.0) that(0.0) the(0.0) managers(0.0) on(0.0) the(0.0) part(0.0) of(0.0) the(0.0) House(0.0) at(0.0) 
+the(0.0) conference(0.0) on(0.0) the(0.0) disagreeing(0.0) votes(0.0) of(0.0) the(0.0) two(0.0) House(0.0) on(0.0) the(0.0) Senate(0.0) amendment(0.0) to(0.0) the(0.0) bill(0.0) ,(0.0) H.R(0.0) .(0.0) 
+1(0.0) ,(0.0) be(0.0) instructed(0.0) as(0.0) follows(0.0) :(0.0) Number(0.0) one(0.0) ,(0.0) to(0.0) reject(0.0) the(0.0) provisions(0.0) of(0.0) subtitle(0.0) C(0.0) of(0.0) title(0.0) II(0.0) 
+of(0.0) the(0.0) House(0.0) bill(0.0) .(0.0) Number(0.0) two(0.0) ,(0.0) to(0.0) reject(1.0) the(0.0) provisions(0.0) of(0.0) section(0.0) 231(0.0) of(0.0) the(0.0) Senate(0.0) amendment(0.0) .(0.0) 
+Number(0.0) three(0.0) ,(0.0) within(0.0) the(0.0) scope(0.0) of(0.0) the(0.0) conference(0.0) ,(0.0) to(0.0) increase(0.0) payments(0.0) for(0.0) physician(0.0) services(0.0) by(0.0) an(0.0) amount(0.0) equal(0.0) 
+to(0.0) the(0.0) amount(0.0) of(0.0) savings(0.0) attributable(0.0) to(0.0) the(0.0) rejection(0.0) of(0.0) the(0.0) aforementioned(0.0) provisions(0.0) .(0.0) Number(0.0) four(0.0) ,(0.0) to(0.0) insist(0.0) upon(0.0) 
+section(0.0) 601(0.0) of(0.0) the(0.0) House(0.0) bill(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Medicare	
+Capps	
+
+
+reject	
+
+
+
+
+reads % = 0.017857142857142856

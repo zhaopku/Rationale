@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) strike(1.0) the(0.0) requisite(0.0) number(0.0) of(0.0) words(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) and(0.0) would(0.0) 
+rise(0.0) in(0.0) support(0.0) of(0.0) this(0.0) amendment(1.0) .(0.0) I(0.0) thank(0.0) the(0.0) gentlewoman(0.0) from(0.0) New(0.0) York(1.0) ,(0.0) who(0.0) has(0.0) been(0.0) such(0.0) a(0.0) 
+tenacious(0.0) spokesperson(0.0) on(0.0) behalf(0.0) of(0.0) monitoring(0.0) and(0.0) ensuring(0.0) fair(1.0) elections(1.0) in(0.0) America(1.0) .(0.0) Her(0.0) leadership(0.0) on(0.0) this(0.0) issue(0.0) has(0.0) been(0.0) 
+outstanding(0.0) ,(0.0) and(0.0) all(0.0) of(0.0) America(1.0) owes(1.0) her(0.0) a(0.0) debt(0.0) of(0.0) gratitude(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) first(0.0) of(0.0) all(0.0) ,(0.0) 
+let(0.0) me(0.0) say(0.0) that(0.0) we(0.0) ought(1.0) to(0.0) clarify(0.0) what(0.0) this(0.0) amendment(1.0) does(0.0) .(0.0) The(0.0) chairman(0.0) of(0.0) the(0.0) committee(0.0) indicated(0.0) it(0.0) 
+took(0.0) it(0.0) from(0.0) the(0.0) General(0.0) Accounting(0.0) Office(0.0) .(0.0) That(0.0) was(0.0) incorrect(0.0) .(0.0) The(0.0) chairman(0.0) made(0.0) a(0.0) mistake(0.0) .(0.0) It(0.0) is(0.0) 
+out(0.0) of(0.0) the(0.0) General(0.0) Services(0.0) Administration(0.0) .(0.0) I(0.0) am(0.0) not(0.0) for(0.0) reducing(1.0) those(0.0) accounts(0.0) ,(0.0) but(0.0) this(0.0) particular(0.0) account(0.0) that(0.0) 
+is(0.0) being(0.0) reduced(0.0) is(0.0) over(0.0) ,(0.0) I(0.0) think(0.0) ,(0.0) $(0.0) 2.3(0.0) billion(1.0) ,(0.0) and(0.0) this(0.0) takes(0.0) $(0.0) 2(0.0) million(0.0) out(0.0) 
+of(0.0) it(0.0) .(0.0) So(0.0) it(0.0) is(0.0) a(0.0) minor(0.0) nick(0.0) at(0.0) best(0.0) on(0.0) the(0.0) particular(0.0) accounting(0.0) question(0.0) .(0.0) Having(0.0) said(0.0) that(0.0) 
+,(0.0) the(0.0) gentleman(0.0) from(0.0) Kansas(1.0) ,(0.0) who(0.0) is(0.0) the(0.0) cosponsor(1.0) of(0.0) this(0.0) amendment(1.0) ,(0.0) observes(0.0) that(0.0) we(0.0) obviously(0.0) feel(0.0) in(0.0) 
+this(0.0) country(1.0) there(0.0) are(0.0) substantial(1.0) problems(0.0) with(0.0) elections(1.0) .(0.0) Over(0.0) $(0.0) 1(0.0) million(0.0) was(0.0) spent(0.0) ,(0.0) not(0.0) just(0.0) by(0.0) the(0.0) 
+committee(0.0) ,(0.0) but(0.0) by(0.0) the(0.0) parties(1.0) involved(0.0) ,(0.0) on(0.0) one(0.0) congressional(1.0) election(1.0) during(0.0) this(0.0) Congress(0.0) ,(0.0) $(0.0) 1(0.0) million(0.0) ,(0.0) 
+\1/34\th(0.0) of(0.0) the(0.0) dollars(0.0) in(0.0) this(0.0) bill(1.0) for(0.0) FEC(1.0) .(0.0) That(0.0) did(0.0) not(0.0) include(0.0) the(0.0) President(1.0) or(0.0) any(0.0) of(0.0) the(0.0) 
+other(0.0) Federal(1.0) races(1.0) ,(0.0) United(1.0) States(0.0) Senate(0.0) or(0.0) House(0.0) Members(0.0) ,(0.0) other(0.0) than(0.0) that(0.0) one(0.0) race(0.0) .(0.0) This(0.0) Congress(0.0) has(0.0) 
+spent(0.0) ,(0.0) and(0.0) you(0.0) can(0.0) get(0.0) all(0.0) sorts(0.0) of(0.0) estimates(1.0) and(0.0) I(0.0) will(0.0) not(0.0) say(0.0) which(0.0) one(0.0) is(0.0) precise(0.0) or(0.0) 
+not(0.0) ,(0.0) but(0.0) anywhere(0.0) between(0.0) $(0.0) 10(0.0) million(0.0) and(0.0) $(0.0) 40(0.0) million(0.0) ,(0.0) a(0.0) pretty(0.0) broad(0.0) spectrum(1.0) ,(0.0) looking(0.0) at(0.0) 
+the(0.0) Presidential(1.0) race(0.0) alone(0.0) .(0.0) Just(0.0) one(0.0) race(0.0) .(0.0) We(0.0) ask(0.0) the(0.0) FEC(1.0) to(0.0) look(0.0) at(0.0) essentially(0.0) thousands(0.0) of(0.0) candidates(0.0) 
+to(0.0) ensure(0.0) that(0.0) they(0.0) are(0.0) complying(1.0) with(0.0) the(0.0) laws(1.0) this(0.0) Congress(0.0) adopted(1.0) to(0.0) ensure(0.0) that(0.0) Americans(1.0) have(0.0) fair(0.0) elections(1.0) .(0.0) 
+Now(0.0) ,(0.0) the(0.0) gentlewoman(0.0) 's(0.0) amendment(1.0) and(0.0) the(0.0) gentleman(0.0) from(0.0) Kansas's(0.0) amendment(1.0) takes(0.0) the(0.0) FEC(1.0) from(0.0) the(0.0) $(0.0) 34(0.0) million-plus(1.0) 
+that(0.0) we(0.0) have(0.0) incorporated(0.0) in(0.0) this(0.0) bill(1.0) to(0.0) the(0.0) $(0.0) 36(0.0) million-plus(1.0) that(0.0) was(0.0) the(0.0) request(0.0) of(0.0) the(0.0) administration(1.0) .(0.0) 
+Some(0.0) would(0.0) argue(1.0) pretty(0.0) strenuously(1.0) that(0.0) that(0.0) was(0.0) insufficient(0.0) in(0.0) and(0.0) of(0.0) itself(0.0) .(0.0) Why(0.0) ?(0.0) Because(0.0) the(0.0) dollars(1.0) involved(0.0) 
+in(0.0) campaigns(1.0) has(0.0) escalated(0.0) geometrically(0.0) .(0.0) We(0.0) all(0.0) know(0.0) that(0.0) .(0.0) Just(0.0) taking(0.0) House(0.0) races(0.0) alone(0.0) ,(0.0) where(0.0) the(0.0) average(0.0) 
+expenditures(1.0) have(0.0) gone(0.0) in(0.0) the(0.0) last(0.0) 20(0.0) years(0.0) from(0.0) probably(0.0) less(0.0) than(0.0) $(0.0) 300,000(0.0) to(0.0) ,(0.0) for(0.0) the(0.0) most(0.0) part(0.0) 
+,(0.0) close(0.0) to(0.0) $(0.0) 1(0.0) million(0.0) ,(0.0) that(0.0) is(0.0) three-and-a-half(0.0) times(0.0) in(0.0) 20(0.0) years(0.0) .(0.0) The(0.0) number(0.0) of(0.0) candidates(0.0) is(0.0) 
+rising(0.0) .(0.0) I(0.0) am(0.0) not(0.0) sure(0.0) that(0.0) is(0.0) true(0.0) this(0.0) year(0.0) on(0.0) House(0.0) races(0.0) off(0.0) the(0.0) top(0.0) of(0.0) my(0.0) 
+
+
+----- below are rationale words -----
+
+strike	Chairman	
+amendment	York	
+fair	elections	America	
+America	owes	Chairman	
+ought	amendment	
+
+reducing	
+billion	
+
+Kansas	cosponsor	amendment	
+country	substantial	elections	
+parties	congressional	election	
+bill	FEC	President	
+Federal	races	United	
+estimates	
+spectrum	
+Presidential	FEC	
+complying	laws	adopted	Americans	elections	
+amendment	amendment	FEC	million-plus	
+bill	million-plus	administration	
+argue	strenuously	dollars	
+campaigns	
+expenditures	
+
+
+
+reads % = 0.1

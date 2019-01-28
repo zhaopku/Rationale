@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) when(0.0) I(0.0) talk(0.0) to(0.0) folks(0.0) back(0.0) home(0.0) in(0.0) my(0.0) rural(1.0) Missouri(1.0) district(0.0) ,(0.0) it(0.0) remains(0.0) clear(0.0) that(0.0) our(0.0) 
+families(0.0) and(0.0) businesses(1.0) want(0.0) to(0.0) defund(1.0) ObamaCare(1.0) .(0.0) As(0.0) time(0.0) goes(0.0) on(0.0) ,(0.0) the(0.0) list(0.0) of(0.0) problems(0.0) with(0.0) the(0.0) President(1.0) 
+'s(0.0) health(0.0) care(0.0) mandate(1.0) continues(0.0) to(0.0) get(0.0) longer(0.0) .(0.0) The(0.0) reality(0.0) of(0.0) rising(1.0) premiums(1.0) ,(0.0) job-killing(1.0) mandates(1.0) ,(0.0) and(0.0) jeopardized(1.0) 
+patient(0.0) care(0.0) are(0.0) proof(0.0) that(0.0) this(0.0) unworkable(1.0) legislation(1.0) must(1.0) be(0.0) stopped(0.0) .(0.0) Today(0.0) the(0.0) House(0.0) of(0.0) Representatives(0.0) will(0.0) vote(1.0) to(0.0) 
+defund(1.0) President(0.0) Obama(1.0) 's(0.0) health(1.0) care(0.0) law(1.0) .(0.0) The(0.0) vote(1.0) will(0.0) be(0.0) a(0.0) victory(0.0) for(0.0) my(0.0) constituents(1.0) who(0.0) are(0.0) adamantly(1.0) 
+opposed(0.0) to(0.0) ObamaCare(1.0) and(0.0) the(0.0) disastrous(1.0) impact(1.0) it(0.0) will(0.0) have(0.0) on(0.0) our(0.0) rural(1.0) economy(1.0) .(0.0) After(0.0) the(0.0) House(0.0) of(0.0) Representatives(0.0) 
+votes(1.0) to(0.0) defund(1.0) ObamaCare(1.0) today(0.0) ,(0.0) the(0.0) United(0.0) States(0.0) Senate(0.0) must(0.0) justify(0.0) to(0.0) the(0.0) American(0.0) people(0.0) why(0.0) ObamaCare(1.0) is(0.0) too(0.0) 
+harmful(0.0) for(0.0) businesses(1.0) but(0.0) should(0.0) still(0.0) be(0.0) forced(0.0) on(0.0) families(0.0) and(0.0) individuals(0.0) .(0.0) The(0.0) Senate(0.0) must(0.0) justify(1.0) why(0.0) special(0.0) interests(1.0) 
+are(0.0) eligible(1.0) for(0.0) waivers(1.0) and(0.0) delays(0.0) while(0.0) average(0.0) Americans(1.0) will(0.0) be(0.0) hit(0.0) with(0.0) ObamaCare(1.0) 's(0.0) tsunami(1.0) of(0.0) mandates(1.0) ,(0.0) fines(1.0) 
+,(0.0) and(0.0) confusions(0.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) I(0.0) urge(0.0) the(0.0) United(0.0) States(0.0) Senate(0.0) to(0.0) follow(0.0) the(0.0) House's(0.0) lead(0.0) and(0.0) defund(1.0) 
+ObamaCare(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+rural	Missouri	
+businesses	defund	ObamaCare	President	
+mandate	rising	premiums	job-killing	mandates	jeopardized	
+unworkable	legislation	must	vote	
+defund	Obama	health	law	vote	constituents	adamantly	
+ObamaCare	disastrous	impact	rural	economy	
+votes	defund	ObamaCare	ObamaCare	
+businesses	justify	interests	
+eligible	waivers	Americans	ObamaCare	tsunami	mandates	fines	
+Speaker	defund	
+ObamaCare	
+
+reads % = 0.22167487684729065

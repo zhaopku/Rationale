@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) want(0.0) to(0.0) thank(0.0) you(0.0) for(0.0) convening(1.0) this(0.0) special(0.0) hour(0.0) to(0.0) have(0.0) this(0.0) conversation(0.0) about(0.0) manufacturing(0.0) things(0.0) here(0.0) in(0.0) America(1.0) and(0.0) 
+about(0.0) making(0.0) it(0.0) in(0.0) America(1.0) .(0.0) Ms.(0.0) Sutton(1.0) from(0.0) Ohio(1.0) described(0.0) what(0.0) we(0.0) need(0.0) .(0.0) We(0.0) need(0.0) a(0.0) level(0.0) playing(0.0) 
+field(0.0) because(0.0) ,(0.0) with(0.0) a(0.0) level(0.0) playing(0.0) field(0.0) ,(0.0) we(0.0) can(0.0) compete(0.0) and(0.0) win(0.0) against(0.0) anybody(0.0) in(0.0) the(0.0) world(0.0) as(0.0) 
+long(0.0) as(0.0) we(0.0) have(0.0) a(0.0) level(0.0) playing(0.0) field(0.0) ,(0.0) but(0.0) that(0.0) level(0.0) playing(0.0) field(0.0) has(0.0) n't(0.0) existed(0.0) for(0.0) quite(0.0) some(0.0) 
+time(0.0) .(0.0) I'm(0.0) not(0.0) going(0.0) to(0.0) point(0.0) fingers(0.0) at(0.0) which(0.0) party(0.0) started(0.0) it(0.0) ,(0.0) because(0.0) we(0.0) all(0.0) had(0.0) something(0.0) to(0.0) 
+do(0.0) with(0.0) it(0.0) --(0.0) Democrats(0.0) and(0.0) Republicans(0.0) alike(1.0) .(1.0) How(1.0) did(1.0) it(1.0) happen(1.0) ?(1.0) How(1.0) did(1.0) our(1.0) manufacturing(1.0) base(1.0) escape(1.0) 
+and(0.0) bleed(1.0) away(1.0) ?(1.0) Who(1.0) opened(0.0) the(0.0) door(0.0) ?(0.0) Who(0.0) put(0.0) the(0.0) hole(1.0) in(0.0) the(0.0) ship(0.0) ?(0.0) Who(0.0) bled(0.0) away(0.0) 
+our(0.0) American(0.0) manufacturing(1.0) base(0.0) ?(0.0) I(0.0) think(0.0) it(0.0) was(0.0) corporate(0.0) America(0.0) .(0.0) I(0.0) think(0.0) ,(0.0) today(0.0) ,(0.0) we(0.0) are(0.0) really(0.0) 
+back(0.0) to(0.0) 1910(1.0) where(0.0) our(0.0) real(0.0) competition(0.0) is(0.0) on(0.0) Wall(1.0) Street(1.0) .(0.0) So(0.0) people(0.0) who(0.0) are(0.0) back(0.0) home(0.0) ,(0.0) listening(0.0) 
+tonight(0.0) ,(0.0) have(0.0) to(0.0) ask(0.0) themselves(0.0) a(0.0) question(0.0) :(0.0) Well(0.0) ,(0.0) whose(0.0) side(0.0) are(0.0) we(0.0) on(0.0) ?(0.0) Do(0.0) we(0.0) have(0.0) 
+our(0.0) heads(0.0) in(0.0) the(0.0) boardroom(0.0) of(0.0) a(0.0) Wall(0.0) Street(0.0) bank(0.0) or(0.0) of(0.0) a(0.0) Wall(0.0) Street(0.0) corporation(0.0) that(0.0) is(0.0) benefiting(1.0) by(0.0) 
+shipping(0.0) our(0.0) jobs(1.0) overseas(0.0) ?(0.0) No(0.0) ,(0.0) not(0.0) at(0.0) all(0.0) .(0.0) We(0.0) have(0.0) our(0.0) feet(0.0) on(0.0) the(0.0) factory(0.0) floor(0.0) ,(0.0) 
+and(0.0) our(0.0) voting(1.0) record(0.0) shows(0.0) it(0.0) .(0.0) You(0.0) mentioned(0.0) earlier(0.0) in(0.0) your(0.0) opening(0.0) remarks(0.0) about(0.0) tax(1.0) cuts(1.0) .(1.0) The(1.0) Democrats(1.0) 
+have(0.0) delivered(0.0) over(0.0) $(0.0) 300(0.0) billion(1.0) in(0.0) tax(1.0) cuts(1.0) to(1.0) the(1.0) middle(1.0) class(1.0) --(1.0) to(1.0) people(1.0) like(0.0) Elaine(0.0) from(0.0) Peshtigo(1.0) 
+,(0.0) who(0.0) wrote(0.0) me(0.0) this(0.0) note(0.0) .(0.0) It(0.0) 's(0.0) people(0.0) like(0.0) Elaine(0.0) who(0.0) have(0.0) rung(0.0) the(0.0) bell(0.0) :(0.0) I(0.0) am(0.0) 
+soon(0.0) an(0.0) 80-year-old(1.0) woman(0.0) and(0.0) a(0.0) widow(0.0) .(0.0) My(0.0) husband(0.0) and(0.0) I(0.0) farmed(0.0) ,(0.0) and(0.0) we(0.0) certainly(0.0) had(0.0) hard(0.0) times(0.0) 
+the(0.0) first(0.0) years(0.0) ,(0.0) but(0.0) the(0.0) years(0.0) now(0.0) are(0.0) harder(0.0) for(0.0) old(0.0) people(0.0) .(0.0) Oil(1.0) companies(1.0) take(0.0) a(0.0) huge(0.0) profit(1.0) 
+.(0.0) The(0.0) CEOs(1.0) make(0.0) a(0.0) salary(0.0) no(0.0) man(0.0) on(0.0) earth(0.0) is(0.0) worth(0.0) .(0.0) Pill(0.0) companies(1.0) are(0.0) taking(0.0) huge(0.0) profits(1.0) with(0.0) 
+no(0.0) consideration(0.0) for(0.0) old(0.0) people(0.0) .(0.0) The(0.0) people(0.0) of(0.0) my(0.0) generation(1.0) lived(0.0) through(0.0) the(0.0) Depression(1.0) ,(0.0) World(0.0) War(0.0) II(0.0) and(0.0) 
+two(0.0) more(0.0) wars(1.0) ,(0.0) and(0.0) now(0.0) ,(0.0) in(0.0) our(0.0) old(0.0) age(0.0) ,(0.0) we(0.0) face(0.0) other(0.0) obstacles(0.0) .(0.0) Well(0.0) ,(0.0) Elaine(0.0) 
+,(0.0) from(0.0) Peshtigo(1.0) ,(0.0) Wisconsin(1.0) ,(0.0) has(0.0) nailed(0.0) it(0.0) .(0.0) We(0.0) are(0.0) on(0.0) her(0.0) side(0.0) .(0.0) We(0.0) voted(1.0) to(0.0) prevent(1.0) 
+the(0.0) Republicans(1.0) from(1.0) privatizing(1.0) Social(1.0) Security(1.0) .(1.0) We(1.0) voted(1.0) to(1.0) prevent(1.0) the(1.0) Republicans(1.0) from(1.0) sending(1.0) her(1.0) money(1.0) to(1.0) Wall(1.0) Street(1.0) 
+.(1.0) We(1.0) voted(1.0) to(0.0) strengthen(1.0) Medicare(1.0) and(0.0) to(0.0) make(0.0) sure(0.0) that(0.0) there(0.0) are(0.0) services(0.0) available(0.0) for(0.0) prevention(1.0) --(0.0) and(0.0) at(0.0) 
+no(0.0) cost(0.0) to(0.0) her(0.0) and(0.0) to(0.0) her(0.0) husband(0.0) ,(0.0) should(0.0) he(0.0) still(0.0) be(0.0) around(0.0) .(0.0) We(0.0) have(0.0) strengthened(0.0) Medicare(1.0) ,(0.0) 
+but(0.0) the(0.0) Republicans(1.0) are(1.0) trying(1.0) to(1.0) destroy(1.0) it(1.0) .(1.0) Let(1.0) me(1.0) come(1.0) back(1.0) to(1.0) the(0.0) essential(1.0) point(0.0) of(0.0) being(0.0) 
+
+
+----- below are rationale words -----
+
+convening	America	
+America	Sutton	Ohio	
+
+
+
+alike	.	How	did	it	happen	?	How	did	our	manufacturing	base	escape	
+bleed	away	?	Who	hole	
+manufacturing	
+1910	Wall	Street	
+
+benefiting	
+jobs	
+voting	tax	cuts	.	The	Democrats	
+billion	tax	cuts	to	the	middle	class	--	to	people	Peshtigo	
+
+80-year-old	
+Oil	companies	profit	
+CEOs	companies	profits	
+generation	Depression	
+wars	
+Peshtigo	Wisconsin	voted	prevent	
+Republicans	from	privatizing	Social	Security	.	We	voted	to	prevent	the	Republicans	from	sending	her	money	to	Wall	Street	
+.	We	voted	strengthen	Medicare	prevention	
+Medicare	
+Republicans	are	trying	to	destroy	it	.	Let	me	come	back	to	essential	
+
+reads % = 0.198

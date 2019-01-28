@@ -1,0 +1,10 @@
+This is from a Republican
+----- below is the original text -----
+Surely(0.0) the(0.0) gentleman(0.0) does(0.0) not(0.0) want(0.0) the(0.0) public(1.0) safety(0.0) endangered(1.0) by(0.0) any(0.0) group(0.0) that(0.0) is(0.0) picketing(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+public	endangered	picketing	
+
+reads % = 0.17647058823529413

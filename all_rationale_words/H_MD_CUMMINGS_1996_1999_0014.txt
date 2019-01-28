@@ -1,0 +1,24 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) our(0.0) Nation(0.0) 's(0.0) Social(0.0) Security(1.0) system(0.0) has(0.0) traditionally(1.0) been(0.0) a(0.0) safety(0.0) net(0.0) for(0.0) citizens(1.0) hoping(1.0) to(0.0) live(0.0) long(1.0) and(0.0) 
+fruitful(0.0) lives(0.0) .(0.0) However(0.0) ,(0.0) changes(1.0) in(0.0) our(1.0) society(0.0) 's(0.0) economic(0.0) and(0.0) social(0.0) conditions(0.0) warrant(0.0) reform(0.0) .(0.0) The(0.0) facts(1.0) are(0.0) 
+abundantly(1.0) clear(0.0) .(0.0) The(0.0) trust(0.0) fund(1.0) will(0.0) be(0.0) depleted(1.0) by(0.0) 2032(1.0) .(0.0) As(0.0) such(0.0) ,(0.0) the(0.0) current(0.0) debate(1.0) is(0.0) not(0.0) 
+about(0.0) the(0.0) necessity(1.0) of(0.0) reform(0.0) ,(0.0) but(0.0) what(0.0) structural(1.0) revisions(1.0) will(0.0) preserve(0.0) the(0.0) system(0.0) long-term(0.0) .(0.0) I(0.0) believe(1.0) that(0.0) reform(0.0) 
+should(0.0) be(0.0) synonymous(1.0) with(0.0) guarantee(0.0) ;(0.0) that(0.0) is(0.0) ,(0.0) guaranteed(0.0) minimum(1.0) benefits(1.0) for(0.0) decades(0.0) to(0.0) come(0.0) .(0.0) Reforms(1.0) that(0.0) do(0.0) 
+not(1.0) ensure(0.0) system(0.0) solvency(1.0) or(0.0) include(0.0) pension(1.0) or(0.0) private(0.0) savings(1.0) plan(1.0) without(0.0) such(0.0) a(0.0) guarantee(0.0) ,(0.0) frankly(1.0) ,(0.0) are(0.0) indefensible(1.0) 
+.(0.0) Today(0.0) I(0.0) urge(1.0) my(0.0) colleagues(1.0) to(0.0) support(0.0) reform(0.0) that(0.0) ,(0.0) as(0.0) Franklin(1.0) Roosevelt(1.0) said(1.0) ,(0.0) takes(1.0) care(0.0) of(0.0) human(0.0) 
+needs(0.0) throughout(0.0) the(0.0) next(0.0) millennium(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Security	traditionally	citizens	hoping	long	
+changes	our	facts	
+abundantly	fund	depleted	2032	debate	
+necessity	structural	revisions	believe	
+synonymous	minimum	benefits	Reforms	
+not	solvency	pension	savings	plan	frankly	indefensible	
+urge	colleagues	Franklin	Roosevelt	said	takes	
+millennium	
+
+reads % = 0.23809523809523808

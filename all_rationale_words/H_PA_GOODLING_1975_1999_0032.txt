@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) would(0.0) like(0.0) to(0.0) wrap(0.0) up(0.0) by(0.0) indicating(0.0) what(0.0) I(0.0) said(0.0) at(0.0) the(0.0) beginning(0.0) of(0.0) this(0.0) entire(0.0) debate(1.0) ,(0.0) 
+and(0.0) I(0.0) do(0.0) not(0.0) know(0.0) how(0.0) I(0.0) can(0.0) say(0.0) it(0.0) any(0.0) more(0.0) sincere(0.0) .(0.0) The(0.0) well-intended(1.0) legislation(1.0) of(0.0) the(0.0) 1960s(1.0) 
+failed(1.0) the(0.0) very(0.0) people(0.0) we(0.0) wanted(0.0) to(0.0) help(0.0) the(0.0) most(0.0) .(0.0) We(0.0) have(0.0) to(0.0) admit(0.0) that(0.0) .(0.0) All(0.0) the(0.0) results(0.0) 
+indicate(0.0) that(0.0) .(0.0) Every(0.0) study(0.0) has(0.0) indicated(0.0) that(0.0) .(0.0) So(0.0) what(0.0) I(0.0) am(0.0) asking(0.0) my(0.0) colleagues(0.0) to(0.0) do(0.0) is(0.0) we(0.0) 
+have(0.0) lost(0.0) 30(0.0) years(0.0) .(0.0) How(0.0) many(0.0) generations(0.0) of(0.0) young(1.0) children(0.0) have(0.0) we(0.0) lost(0.0) who(0.0) have(0.0) not(0.0) gotten(0.0) a(0.0) decent(0.0) 
+education(1.0) because(0.0) we(0.0) would(0.0) not(0.0) admit(0.0) that(0.0) we(0.0) had(0.0) a(0.0) problem(0.0) ?(0.0) We(0.0) always(0.0) said(0.0) if(0.0) we(0.0) had(0.0) more(0.0) money(1.0) 
+,(0.0) we(0.0) could(0.0) cover(0.0) more(0.0) children(0.0) ,(0.0) and(0.0) somehow(0.0) or(0.0) other(0.0) things(0.0) would(0.0) be(0.0) beautiful(0.0) .(0.0) It(0.0) did(0.0) not(0.0) work(0.0) 
+out(0.0) .(0.0) Now(0.0) that(0.0) does(0.0) not(0.0) hurt(0.0) us(0.0) ,(0.0) but(0.0) it(0.0) sure(0.0) does(0.0) hurt(0.0) all(0.0) of(0.0) those(0.0) millions(1.0) of(0.0) children(0.0) 
+that(0.0) we(0.0) had(0.0) hoped(0.0) that(0.0) we(0.0) could(0.0) give(0.0) them(0.0) a(0.0) good(0.0) start(0.0) in(0.0) education(1.0) so(0.0) that(0.0) the(0.0) life(0.0) would(0.0) be(0.0) 
+far(0.0) better(0.0) for(0.0) them(0.0) ,(0.0) and(0.0) that(0.0) is(0.0) why(0.0) it(0.0) is(0.0) so(0.0) important(0.0) that(0.0) the(0.0) accountability(1.0) that(0.0) is(0.0) put(0.0) in(0.0) 
+this(0.0) bill(1.0) is(0.0) there(0.0) .(0.0) I(0.0) want(0.0) to(0.0) review(0.0) that(0.0) so(0.0) that(0.0) everybody(0.0) understands(0.0) exactly(0.0) what(0.0) the(0.0) gentleman(0.0) from(0.0) Delaware(1.0) 
+((0.0) Mr.(0.0) Castle(1.0) )(0.0) and(0.0) the(0.0) gentleman(0.0) from(0.0) Indiana(0.0) ((0.0) Mr.(0.0) Roemer(1.0) )(0.0) have(1.0) done(0.0) .(0.0) Accountability(0.0) at(0.0) the(0.0) federal(1.0) 
+level(0.0) ,(0.0) the(0.0) annual(0.0) report(0.0) to(0.0) Congress(0.0) ;(0.0) Secretary(0.0) must(0.0) submit(0.0) a(0.0) report(0.0) to(0.0) Congress(0.0) of(0.0) State(0.0) use(0.0) of(0.0) Ed-Flex(0.0) 
+waivers(1.0) and(0.0) their(0.0) impact(0.0) on(0.0) student(0.0) performances(0.0) .(0.0) The(0.0) Secretary(0.0) on(0.0) the(0.0) Federal(0.0) level(0.0) approves(0.0) the(0.0) applications(0.0) ,(0.0) Secretary(1.0) evaluates(0.0) 
+the(0.0) State(0.0) application(0.0) for(0.0) Ed-Flex(0.0) and(0.0) determines(0.0) whether(0.0) they(0.0) will(0.0) receive(0.0) Ed-Flex(0.0) authority(0.0) .(0.0) The(0.0) Secretary(0.0) conducts(0.0) performance(0.0) reviews(0.0) .(0.0) 
+The(0.0) Secretary(0.0) must(0.0) conduct(0.0) a(0.0) performance(0.0) review(0.0) of(0.0) States(0.0) with(0.0) Ed-Flex(0.0) .(0.0) Then(0.0) we(0.0) go(0.0) to(0.0) the(0.0) State(0.0) level(0.0) ,(0.0) 
+accountability(1.0) at(0.0) the(0.0) State(0.0) level(0.0) .(0.0) We(0.0) must(0.0) set(0.0) specific(0.0) and(0.0) measurable(0.0) performance(0.0) goals(0.0) .(0.0) In(0.0) order(0.0) to(0.0) qualify(0.0) States(0.0) 
+must(0.0) set(0.0) measurable(0.0) performance(0.0) goals(0.0) ,(0.0) agree(0.0) to(0.0) hold(0.0) schools(1.0) and(0.0) districts(1.0) accountable(1.0) for(0.0) performance(0.0) .(0.0) They(0.0) are(0.0) required(0.0) to(0.0) 
+monitor(0.0) local(0.0) waiver(0.0) recipients(1.0) annually(0.0) .(0.0) States(0.0) must(0.0) monitor(0.0) local(0.0) waiver(0.0) recipients(0.0) and(0.0) terminate(0.0) waivers(1.0) after(0.0) 2(0.0) years(0.0) of(0.0) declining(0.0) 
+performance(0.0) .(0.0) Public(0.0) notice(0.0) and(0.0) comment(0.0) .(0.0) States(0.0) must(0.0) notify(0.0) the(0.0) public(0.0) when(0.0) they(0.0) grant(1.0) waivers(1.0) and(0.0) provide(0.0) them(0.0) with(0.0) 
+opportunities(0.0) to(0.0) comment(0.0) .(0.0) They(0.0) must(0.0) submit(0.0) an(0.0) annual(0.0) report(0.0) .(0.0) States(0.0) must(0.0) submit(0.0) an(0.0) annual(0.0) report(0.0) of(0.0) how(0.0) Ed-(0.0) 
+Flex(0.0) waivers(1.0) have(0.0) been(0.0) used(0.0) .(0.0) This(0.0) report(0.0) must(0.0) include(0.0) information(0.0) on(0.0) the(0.0) types(0.0) of(0.0) waivers(1.0) granted(0.0) and(0.0) how(0.0) they(0.0) 
+have(0.0) helped(0.0) to(0.0) implement(0.0) reform(1.0) and(0.0) improve(0.0) student(0.0) performance(0.0) .(0.0) Now(0.0) we(0.0) get(0.0) down(0.0) to(0.0) the(0.0) local(0.0) level(0.0) .(0.0) They(0.0) 
+must(0.0) set(0.0) specific(0.0) and(0.0) measurable(0.0) performance(0.0) goals(0.0) ,(0.0) specific(0.0) and(0.0) measurable(0.0) performance(0.0) goals(0.0) .(0.0) They(0.0) must(0.0) track(0.0) the(0.0) performance(0.0) of(0.0) 
+schools(1.0) and(0.0) groups(0.0) of(0.0) students(0.0) affected(0.0) by(0.0) waivers(1.0) .(0.0) The(0.0) waivers(1.0) are(0.0) subject(0.0) to(0.0) termination(1.0) if(0.0) performance(0.0) declines(0.0) against(0.0) 
+
+
+----- below are rationale words -----
+
+debate	
+well-intended	legislation	1960s	
+failed	
+
+young	
+education	money	
+
+millions	
+education	
+accountability	
+bill	Delaware	
+Castle	Roemer	have	federal	
+
+waivers	Secretary	
+
+
+accountability	
+schools	districts	accountable	
+recipients	waivers	
+grant	waivers	
+
+waivers	waivers	
+reform	
+
+schools	waivers	waivers	termination	
+
+reads % = 0.068

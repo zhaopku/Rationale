@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+This(0.0) bill(0.0) meets(1.0) those(0.0) requirements(1.0) .(0.0) I(0.0) support(0.0) the(0.0) farm(0.0) bill(0.0) because(1.0) I(0.0) believe(0.0) American(0.0) agriculture(1.0) is(0.0) vital(0.0) to(0.0) our(0.0) national(1.0) 
+security(0.0) ,(0.0) health(1.0) and(0.0) way(0.0) of(0.0) life(0.0) ,(0.0) and(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) join(0.0) me(0.0) in(0.0) supporting(1.0) this(0.0) important(0.0) 
+legislation(1.0) .(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+meets	requirements	because	agriculture	national	
+health	supporting	
+legislation	
+
+reads % = 0.1568627450980392

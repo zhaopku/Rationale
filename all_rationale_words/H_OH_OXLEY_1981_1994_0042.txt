@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) keep(0.0) asking(0.0) myself(0.0) :(0.0) Why(0.0) are(0.0) we(0.0) here(0.0) today(0.0) ?(0.0) Everybody(0.0) knows(0.0) the(0.0) Solomon(0.0) amendment(1.0) was(0.0) soundly(0.0) defeated(0.0) 
+.(0.0) The(0.0) Pelosi(1.0) proposal(1.0) ,(0.0) even(0.0) if(0.0) it(0.0) were(0.0) to(0.0) pass(0.0) ,(0.0) is(0.0) going(0.0) nowhere(0.0) .(0.0) If(0.0) this(0.0) were(0.0) a(0.0) 
+debating(0.0) society(1.0) ,(0.0) I(0.0) would(0.0) say(0.0) wonderful(0.0) ,(0.0) we(0.0) can(0.0) stand(0.0) here(0.0) and(0.0) debate(1.0) this(0.0) issue(0.0) for(0.0) 6(0.0) hours(0.0) .(0.0) 
+But(0.0) the(0.0) fact(0.0) is(0.0) that(0.0) I(0.0) would(0.0) think(0.0) the(0.0) House(0.0) would(0.0) have(0.0) something(0.0) else(0.0) to(0.0) do(0.0) in(0.0) trying(0.0) to(0.0) pass(0.0) 
+substantive(1.0) legislation(1.0) .(0.0) The(0.0) Clinton(1.0) administration(1.0) ,(0.0) through(0.0) some(0.0) very(0.0) difficult(0.0) efforts(1.0) ,(0.0) finally(0.0) came(0.0) to(0.0) the(0.0) right(0.0) conclusion(0.0) ,(0.0) 
+that(0.0) is(0.0) ,(0.0) delinking(1.0) human(0.0) rights(1.0) with(0.0) our(0.0) efforts(1.0) on(0.0) MFN(1.0) .(0.0) That(0.0) was(0.0) the(0.0) right(0.0) decision(0.0) .(0.0) The(0.0) Clinton(1.0) 
+administration(1.0) got(0.0) it(0.0) right(0.0) .(0.0) Here(0.0) we(0.0) are(0.0) several(0.0) weeks(0.0) later(0.0) ,(0.0) still(0.0) debating(1.0) an(0.0) issue(0.0) whose(0.0) time(0.0) has(0.0) clearly(0.0) 
+passed(0.0) .(0.0) The(0.0) decision(1.0) has(0.0) been(0.0) made(0.0) by(0.0) the(0.0) administration(1.0) ,(0.0) I(0.0) think(0.0) we(0.0) should(0.0) follow(0.0) it(0.0) .(0.0) Economic(1.0) growth(1.0) 
+is(0.0) important(0.0) for(0.0) political(1.0) change(0.0) .(0.0) I(0.0) have(0.0) been(0.0) to(0.0) China(0.0) twice(0.0) ,(0.0) most(0.0) recently(0.0) last(0.0) December(0.0) .(0.0) We(0.0) had(0.0) 
+an(0.0) opportunity(0.0) to(0.0) look(0.0) at(0.0) the(0.0) changes(0.0) being(0.0) made(0.0) there(0.0) ,(0.0) and(0.0) I(0.0) am(0.0) impressed(0.0) with(0.0) what(0.0) we(0.0) can(0.0) do(0.0) 
+in(0.0) the(0.0) future(0.0) there(0.0) with(0.0) our(0.0) trade(1.0) .(0.0) Let(0.0) us(0.0) defeat(1.0) the(0.0) Pelosi(1.0) proposal(1.0) .(0.0) Let(0.0) us(0.0) pass(0.0) the(0.0) Hamilton(1.0) 
+proposal(1.0) and(0.0) get(0.0) on(0.0) with(0.0) the(0.0) business(0.0) of(0.0) the(0.0) Nation(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+amendment	
+Pelosi	proposal	
+society	debate	
+
+substantive	legislation	Clinton	administration	efforts	
+delinking	rights	efforts	MFN	Clinton	
+administration	debating	
+decision	administration	Economic	growth	
+political	
+
+trade	defeat	Pelosi	proposal	Hamilton	
+proposal	Nation	
+
+reads % = 0.125

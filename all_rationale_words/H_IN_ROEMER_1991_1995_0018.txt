@@ -1,0 +1,48 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) this(0.0) morning(0.0) to(0.0) encourage(0.0) my(0.0) colleagues(0.0) to(0.0) sign(0.0) a(0.0) bipartisan(1.0) letter(0.0) that(0.0) I(0.0) am(0.0) circulating(0.0) with(0.0) the(0.0) 
+gentleman(0.0) from(0.0) Virginia(1.0) [(0.0) Mr.(0.0) Wolf(1.0) ](0.0) today(1.0) .(0.0) We(0.0) have(0.0) already(0.0) gained(0.0) 20(0.0) other(0.0) signatures(0.0) ,(0.0) bipartisan(1.0) signatures(1.0) on(0.0) 
+this(0.0) letter(0.0) that(0.0) would(0.0) say(0.0) to(0.0) President(1.0) Clinton(1.0) and(0.0) ,(0.0) in(0.0) very(0.0) strong(0.0) terms(0.0) ,(0.0) suggest(0.0) that(0.0) he(0.0) not(0.0) meet(0.0) 
+with(0.0) President(0.0) Yeltsin(1.0) at(0.0) the(0.0) upcoming(0.0) summit(0.0) in(0.0) May(0.0) .(0.0) We(0.0) urge(0.0) him(0.0) not(0.0) to(0.0) do(0.0) this(0.0) for(0.0) a(0.0) number(0.0) 
+of(0.0) reasons(0.0) ,(0.0) because(0.0) the(0.0) United(0.0) States(0.0) has(0.0) so(0.0) much(0.0) at(0.0) stake(0.0) in(0.0) continuing(1.0) to(0.0) see(0.0) Russian(0.0) economic(1.0) and(0.0) political(1.0) 
+reform(1.0) .(0.0) The(0.0) first(0.0) reason(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) is(0.0) that(0.0) the(0.0) Russian(0.0) economic(1.0) and(0.0) political(1.0) reform(1.0) efforts(0.0) are(0.0) on(0.0) 
+very(0.0) shaky(1.0) ground(0.0) .(0.0) As(0.0) the(0.0) Russians(1.0) now(0.0) fight(0.0) this(0.0) war(1.0) in(0.0) Chechnya(1.0) ,(0.0) they(0.0) have(0.0) diverted(1.0) over(0.0) $(0.0) 2(0.0) 
+billion(1.0) that(0.0) should(0.0) be(0.0) going(0.0) to(0.0) stabilize(1.0) the(0.0) ruble(1.0) ,(0.0) to(0.0) support(0.0) the(0.0) economic(1.0) efforts(1.0) we(0.0) have(0.0) supported(0.0) through(0.0) loans(1.0) 
+through(0.0) the(0.0) IMF(1.0) and(0.0) other(0.0) world(0.0) banks(1.0) totaling(0.0) over(0.0) $(0.0) 12(0.0) billion(1.0) .(0.0) These(0.0) efforts(1.0) are(0.0) critical(0.0) if(0.0) the(0.0) Russians(1.0) 
+are(0.0) to(0.0) work(0.0) their(0.0) way(0.0) to(0.0) a(0.0) free(0.0) market(0.0) system(0.0) and(0.0) to(0.0) continue(0.0) to(0.0) work(0.0) toward(0.0) a(0.0) more(0.0) open(0.0) and(0.0) 
+democratic(1.0) system(0.0) in(0.0) the(0.0) new(0.0) Russia(1.0) .(0.0) Second(0.0) ,(0.0) future(0.0) issues(0.0) are(0.0) at(0.0) stake(0.0) ,(0.0) future(0.0) issues(0.0) that(0.0) are(0.0) important(0.0) 
+to(0.0) the(0.0) United(0.0) States(0.0) and(0.0) a(0.0) good(0.0) ,(0.0) strong(0.0) ,(0.0) healthy(1.0) relationship(0.0) with(0.0) Russia(1.0) .(0.0) We(0.0) need(0.0) to(0.0) be(0.0) on(0.0) 
+good(0.0) terms(0.0) with(0.0) Russia(1.0) in(0.0) terms(1.0) of(0.0) Bosnia(1.0) and(0.0) peace(0.0) in(0.0) that(0.0) very(0.0) unstable(0.0) part(0.0) of(0.0) the(0.0) world(0.0) .(0.0) We(0.0) 
+need(0.0) to(0.0) work(0.0) with(0.0) the(0.0) Russians(1.0) on(0.0) START(1.0) and(0.0) other(0.0) nonproliferation(1.0) treaties(0.0) ,(0.0) and(0.0) we(0.0) need(0.0) to(0.0) work(0.0) with(0.0) them(0.0) 
+on(0.0) the(0.0) future(0.0) of(0.0) NATO(1.0) .(0.0) Third(0.0) ,(0.0) we(0.0) encourage(0.0) the(0.0) President(1.0) not(0.0) to(0.0) meet(0.0) with(0.0) Mr.(0.0) Yeltsin(1.0) in(0.0) May(0.0) 
+because(0.0) of(0.0) the(0.0) human(0.0) rights(1.0) violations(1.0) going(0.0) on(0.0) in(0.0) this(0.0) terrible(0.0) war(1.0) between(0.0) Russia(1.0) and(0.0) the(0.0) Chechnyan(1.0) people(0.0) .(0.0) I(0.0) 
+would(0.0) encourage(0.0) my(0.0) colleagues(0.0) to(0.0) sign(0.0) this(0.0) letter(0.0) .(0.0) We(0.0) are(0.0) not(0.0) saying(0.0) that(0.0) Mr.(0.0) Christopher(1.0) and(0.0) Mr.(0.0) Karazdzic(1.0) can(0.0) 
+not(1.0) talk(0.0) .(0.0) We(0.0) are(0.0) saying(0.0) symbolically(0.0) the(0.0) President(1.0) should(0.0) not(0.0) at(0.0) this(0.0) point(0.0) sit(0.0) down(0.0) with(0.0) Mr.(0.0) Yeltsin(1.0) at(0.0) 
+this(0.0) very(0.0) precarious(0.0) time(0.0) as(0.0) the(0.0) Russians(1.0) are(0.0) fighting(0.0) a(0.0) very(0.0) ,(0.0) very(0.0) bad(0.0) war(1.0) in(0.0) terms(1.0) of(0.0) diverting(1.0) their(0.0) 
+resources(1.0) away(0.0) from(0.0) economic(1.0) and(0.0) political(1.0) reform(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+bipartisan	
+Virginia	Wolf	today	bipartisan	signatures	
+President	Clinton	
+Yeltsin	
+continuing	economic	political	
+reform	Speaker	economic	political	reform	
+shaky	Russians	war	Chechnya	diverted	
+billion	stabilize	ruble	economic	efforts	loans	
+IMF	banks	billion	efforts	Russians	
+
+democratic	Russia	
+healthy	Russia	
+Russia	terms	Bosnia	
+Russians	START	nonproliferation	
+NATO	President	Yeltsin	
+rights	violations	war	Russia	Chechnyan	
+Christopher	Karazdzic	
+not	President	Yeltsin	
+Russians	war	terms	diverting	
+resources	economic	political	reform	
+
+reads % = 0.16452442159383032

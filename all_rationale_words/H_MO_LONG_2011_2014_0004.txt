@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) over(0.0) the(0.0) last(0.0) few(0.0) decades(1.0) ,(0.0) the(0.0) Federal(1.0) Government(1.0) has(0.0) regulated(0.0) activities(0.0) of(0.0) the(0.0) American(0.0) people(0.0) in(0.0) increasingly(1.0) minute(0.0) 
+detail(0.0) .(0.0) It(0.0) was(0.0) the(0.0) Founders(1.0) '(0.0) desire(0.0) to(0.0) protect(0.0) our(0.0) individual(0.0) liberty(1.0) by(0.0) having(0.0) a(0.0) government(1.0) which(0.0) was(0.0) energetic(0.0) 
+in(0.0) its(0.0) ability(0.0) to(0.0) perform(0.0) the(0.0) duties(0.0) entrusted(0.0) in(0.0) it(0.0) but(0.0) limited(0.0) in(0.0) its(0.0) scope(0.0) ,(0.0) a(0.0) concept(0.0) incompatible(0.0) with(0.0) 
+the(0.0) current(0.0) degree(0.0) of(0.0) overregulation(1.0) .(0.0) The(0.0) result(0.0) is(0.0) diminished(0.0) job(0.0) opportunities(0.0) and(0.0) higher(0.0) costs(1.0) for(0.0) the(0.0) average(0.0) American(0.0) .(0.0) 
+When(0.0) jobs(0.0) are(0.0) lost(0.0) ,(0.0) when(0.0) new(0.0) businesses(1.0) never(0.0) open(0.0) ,(0.0) it(0.0) is(0.0) the(0.0) low-skilled(1.0) ,(0.0) the(0.0) young(0.0) ,(0.0) new(0.0) 
+worker(1.0) and(0.0) those(0.0) already(0.0) suffering(0.0) from(0.0) chronic(1.0) unemployment(1.0) who(0.0) are(0.0) harmed(1.0) the(0.0) most(0.0) .(0.0) The(0.0) story(0.0) of(0.0) America(1.0) is(0.0) the(0.0) 
+story(0.0) of(0.0) someone(0.0) starting(0.0) out(0.0) with(0.0) nothing(0.0) and(0.0) achieving(0.0) the(0.0) American(0.0) Dream(0.0) .(0.0) The(0.0) secret(1.0) to(0.0) our(0.0) success(0.0) has(0.0) always(0.0) 
+been(0.0) our(0.0) free(0.0) and(0.0) dynamic(0.0) society(1.0) that(0.0) enables(0.0) everyone(0.0) to(0.0) fulfill(0.0) their(0.0) unique(0.0) human(1.0) potential(0.0) .(0.0) It(0.0) is(0.0) time(0.0) for(0.0) 
+Congress(0.0) to(0.0) decide(0.0) whether(0.0) it(0.0) values(0.0) paperwork(1.0) or(0.0) people(0.0) .(0.0) Do(0.0) n't(0.0) regulate(1.0) the(0.0) American(0.0) Dream(0.0) out(0.0) of(0.0) existence(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+decades	Federal	Government	increasingly	
+Founders	liberty	government	
+
+overregulation	costs	
+businesses	low-skilled	
+worker	chronic	unemployment	harmed	America	
+secret	
+society	human	
+paperwork	regulate	
+
+
+reads % = 0.11602209944751381

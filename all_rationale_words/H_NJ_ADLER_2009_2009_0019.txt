@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Chairwoman(0.0) ,(0.0) I(0.0) have(0.0) an(0.0) amendment(1.0) at(0.0) the(0.0) desk(0.0) .(0.0) The(0.0) Acting(0.0) CHAIR(0.0) .(0.0) The(0.0) Clerk(0.0) will(0.0) designate(0.0) the(0.0) amendment(0.0) 
+.(0.0) The(0.0) text(0.0) of(0.0) the(0.0) amendment(0.0) is(0.0) as(0.0) follows(0.0) :(0.0) Amendment(0.0) No(0.0) .(0.0) 14(0.0) offered(0.0) by(0.0) Mr.(0.0) Adler(1.0) of(0.0) New(0.0) 
+Jersey(1.0) :(0.0) Page(0.0) 31(0.0) ,(0.0) line(0.0) 10(0.0) ,(0.0) redesignate(0.0) subparagraph(0.0) ((0.0) D(0.0) )(0.0) as(0.0) subparagraph(0.0) ((0.0) E(0.0) )(0.0) .(0.0) Page(0.0) 
+31(0.0) ,(0.0) line(0.0) 17(0.0) ,(0.0) redesignate(0.0) subparagraph(0.0) ((0.0) E(0.0) )(0.0) as(0.0) subparagraph(0.0) ((0.0) F(0.0) )(0.0) .(0.0) Page(0.0) 31(0.0) ,(0.0) after(0.0) 
+line(0.0) 9(0.0) ,(0.0) insert(0.0) the(0.0) following(0.0) :(0.0) ((0.0) D(0.0) )(0.0) include(0.0) activities(0.0) to(0.0) increase(0.0) degree(0.0) or(0.0) certificate(0.0) completion(0.0) for(0.0) students(0.0) 
+who(0.0) are(0.0) veterans(0.0) ;(0.0) The(0.0) Acting(0.0) CHAIR(0.0) .(0.0) Pursuant(0.0) to(0.0) House(0.0) resolution(0.0) 746(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) Jersey(1.0) ((0.0) 
+Mr.(0.0) Adler(1.0) )(0.0) and(0.0) a(0.0) Member(0.0) opposed(0.0) each(0.0) will(0.0) control(0.0) 5(0.0) minutes(0.0) .(0.0) The(0.0) Chair(0.0) recognizes(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) 
+Jersey(1.0) .(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) I(0.0) 'd(0.0) like(0.0) to(0.0) start(0.0) by(0.0) thanking(0.0) Chairman(0.0) 
+Miller(1.0) ,(0.0) Chairman(0.0) Andrews(1.0) ,(0.0) and(0.0) Ranking(0.0) Member(0.0) Kline(1.0) for(0.0) their(0.0) leadership(0.0) on(0.0) this(0.0) important(0.0) matter(0.0) .(0.0) The(0.0) legislation(1.0) we(0.0) 
+'re(0.0) discussing(0.0) today(0.0) provides(0.0) funding(1.0) to(0.0) schools(1.0) ,(0.0) nonprofits(1.0) ,(0.0) and(0.0) other(0.0) educational-related(0.0) organizations(0.0) that(0.0) assist(0.0) students(0.0) in(0.0) the(0.0) completion(0.0) 
+of(0.0) college(0.0) and(0.0) associate(0.0) degrees(0.0) .(0.0) My(0.0) amendment(1.0) ,(0.0) along(0.0) with(0.0) that(0.0) earlier(0.0) amendment(1.0) offered(0.0) by(0.0) Mr.(0.0) Reyes(1.0) ,(0.0) will(0.0) 
+take(0.0) this(0.0) bill(1.0) to(1.0) the(0.0) next(0.0) level(0.0) and(0.0) prioritize(1.0) grants(1.0) to(0.0) schools(1.0) and(0.0) organizations(1.0) that(0.0) have(0.0) shown(0.0) a(0.0) dedication(0.0) to(0.0) 
+ensure(0.0) student(0.0) veterans(1.0) have(0.0) the(0.0) support(0.0) and(0.0) resources(1.0) they(0.0) need(0.0) to(0.0) complete(0.0) their(0.0) degrees(0.0) .(0.0) Our(0.0) veterans(1.0) have(0.0) served(0.0) our(0.0) 
+country(1.0) to(0.0) keep(0.0) our(0.0) country(1.0) safe(0.0) and(0.0) free(0.0) ,(0.0) and(0.0) they(0.0) deserve(1.0) every(0.0) opportunity(0.0) to(0.0) succeed(0.0) as(0.0) they(0.0) return(0.0) home(0.0) 
+.(0.0) We(0.0) should(0.0) make(0.0) every(0.0) effort(1.0) to(0.0) ensure(0.0) that(0.0) their(0.0) transition(1.0) from(0.0) service(0.0) to(0.0) civilian(1.0) life(0.0) is(0.0) smooth(0.0) and(0.0) successful(0.0) 
+.(0.0) To(0.0) that(0.0) end(0.0) ,(0.0) my(0.0) amendment(1.0) will(0.0) prioritize(1.0) schools(1.0) and(0.0) organizations(1.0) that(0.0) support(0.0) our(0.0) student(1.0) veterans(1.0) and(0.0) help(0.0) them(0.0) 
+apply(0.0) the(0.0) skills(0.0) learned(0.0) in(0.0) military(0.0) service(0.0) to(0.0) the(0.0) classroom(0.0) .(0.0) I(0.0) thank(0.0) the(0.0) schools(1.0) and(0.0) organizations(1.0) who(0.0) already(0.0) take(0.0) 
+steps(0.0) to(0.0) increase(1.0) education(1.0) opportunities(0.0) for(0.0) our(0.0) veterans(1.0) and(0.0) hope(0.0) that(0.0) my(0.0) amendment(1.0) will(0.0) support(0.0) their(0.0) efforts(1.0) and(0.0) provide(0.0) an(0.0) 
+incentive(1.0) for(0.0) others(0.0) to(0.0) join(0.0) them(0.0) .(0.0) Rutgers(1.0) University(0.0) ,(0.0) the(0.0) State(0.0) University(0.0) of(0.0) New(1.0) Jersey(1.0) ,(0.0) has(0.0) been(0.0) on(0.0) 
+the(0.0) forefront(0.0) in(0.0) my(0.0) home(0.0) State(0.0) ,(0.0) providing(0.0) much(0.0) needed(0.0) education(1.0) opportunities(0.0) to(0.0) our(0.0) servicemembers(1.0) .(0.0) Most(0.0) recently(0.0) ,(0.0) Rutgers(1.0) 
+created(0.0) veterans(0.0) '(0.0) services(0.0) offices(0.0) ,(0.0) mentoring(0.0) programs(0.0) ,(0.0) special(0.0) orientations(0.0) ,(0.0) and(0.0) advisory(0.0) boards(0.0) to(0.0) better(0.0) assist(0.0) our(0.0) State(0.0) 
+'s(0.0) veterans(0.0) obtain(0.0) the(0.0) college(0.0) degrees(0.0) and(0.0) certifications(0.0) they(0.0) deserve(0.0) .(0.0) I(0.0) hope(0.0) that(0.0) this(0.0) bill(1.0) pushes(1.0) more(0.0) colleges(1.0) and(0.0) 
+universities(1.0) across(0.0) the(0.0) country(1.0) to(0.0) support(0.0) our(0.0) veterans(1.0) in(0.0) the(0.0) future(0.0) .(0.0) Judge(0.0) Washington(1.0) said(0.0) it(0.0) best(0.0) :(0.0) ``(0.0) The(0.0) 
+willingness(0.0) with(0.0) which(0.0) our(0.0) young(0.0) people(0.0) are(0.0) likely(0.0) to(0.0) serve(0.0) in(0.0) any(0.0) war(1.0) ,(0.0) no(0.0) matter(0.0) how(0.0) justified(1.0) ,(0.0) shall(0.0) 
+be(0.0) directly(0.0) proportional(0.0) as(0.0) to(0.0) how(0.0) they(0.0) perceive(0.0) the(0.0) veterans(1.0) of(0.0) earlier(0.0) wars(1.0) were(0.0) treated(0.0) and(0.0) appreciated(0.0) by(0.0) their(0.0) 
+
+
+----- below are rationale words -----
+
+amendment	
+Adler	
+Jersey	
+
+
+Jersey	
+Adler	
+Jersey	
+Miller	Andrews	Kline	legislation	
+funding	schools	nonprofits	
+amendment	amendment	Reyes	
+bill	to	prioritize	grants	schools	organizations	
+veterans	resources	veterans	
+country	country	deserve	
+effort	transition	civilian	
+amendment	prioritize	schools	organizations	student	veterans	
+schools	organizations	
+increase	education	veterans	amendment	efforts	
+incentive	Rutgers	New	Jersey	
+education	servicemembers	Rutgers	
+
+bill	pushes	colleges	
+universities	country	veterans	Washington	
+war	justified	
+veterans	wars	
+
+reads % = 0.124

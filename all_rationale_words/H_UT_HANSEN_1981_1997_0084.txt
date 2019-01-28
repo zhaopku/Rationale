@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+((0.0) Mr.(0.0) HANSEN(1.0) asked(0.0) and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) )(0.0) 591(0.0) ,(0.0) was(0.0) introduced(0.0) by(0.0) 
+the(0.0) gentleman(0.0) from(0.0) Colorado(0.0) [(0.0) Mr.(0.0) MCInnis(1.0) ](0.0) .(1.0) The(0.0) gentleman(0.0) from(0.0) Colorado(0.0) has(0.0) assembled(0.0) a(0.0) bill(0.0) that(0.0) is(0.0) agreeable(0.0) 
+to(0.0) the(0.0) administration(0.0) ,(0.0) to(0.0) the(0.0) environmental(0.0) community(0.0) and(0.0) to(0.0) private(0.0) property(0.0) owners(0.0) .(0.0) I(0.0) would(0.0) also(0.0) like(0.0) to(0.0) commend(0.0) 
+the(0.0) gentleman(0.0) from(0.0) Texas(0.0) [(0.0) Mr.(0.0) Thornberry(1.0) ](0.0) ,(0.0) who(0.0) has(0.0) added(0.0) his(0.0) support(0.0) to(0.0) this(0.0) bill(0.0) .(0.0) This(0.0) bill(0.0) 
+authorizes(0.0) an(0.0) uncomplicated(0.0) land(0.0) exchange(0.0) and(0.0) is(0.0) noncontroversial(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+Mr.(0.0) Speaker(1.0) ,(0.0) this(0.0) bill(1.0) has(1.0) very(0.0) wide(0.0) community(0.0) support(0.0) ,(0.0) and(0.0) I(0.0) urge(0.0) all(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) this(0.0) 
+bill(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) The(0.0) SPEAKER(0.0) pro(0.0) tempore(0.0) ((1.0) Mr.(0.0) 
+Kingston(1.0) )(0.0) .(0.0) The(0.0) question(0.0) is(0.0) on(0.0) the(0.0) motion(0.0) offered(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) Utah(1.0) [(0.0) Mr.(0.0) Hansen(1.0) ](0.0) that(1.0) 
+the(0.0) House(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) pass(0.0) the(0.0) Senate(0.0) bill(0.0) ,(0.0) S.(0.0) 587(0.0) .(0.0) The(0.0) question(0.0) was(0.0) taken(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+HANSEN	
+MCInnis	.	
+
+Thornberry	
+Speaker	
+Speaker	bill	has	
+bill	Speaker	(	
+Kingston	Utah	Hansen	that	
+
+
+reads % = 0.08333333333333333

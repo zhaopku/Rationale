@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) pursuant(0.0) to(0.0) clause(0.0) 1(0.0) ,(0.0) rule(0.0) I(0.0) ,(0.0) I(0.0) demand(0.0) a(0.0) vote(0.0) on(0.0) agreeing(0.0) to(0.0) the(0.0) Speaker(0.0) 's(0.0) approval(0.0) 
+of(0.0) the(0.0) Journal(0.0) .(0.0) The(0.0) question(0.0) was(0.0) taken(0.0) ;(0.0) and(0.0) the(0.0) Speaker(0.0) pro(0.0) tempore(0.0) announced(1.0) that(0.0) the(0.0) ayes(1.0) appeared(0.0) to(0.0) 
+have(0.0) it(0.0) .(0.0) Speaker(0.0) ,(0.0) I(0.0) object(0.0) to(0.0) the(0.0) vote(1.0) on(0.0) the(0.0) ground(0.0) that(0.0) a(0.0) quorum(0.0) is(0.0) not(0.0) present(0.0) and(0.0) 
+make(0.0) the(0.0) point(0.0) of(0.0) order(0.0) that(0.0) a(0.0) quorum(0.0) is(0.0) not(0.0) present(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+announced	ayes	
+vote	
+
+
+reads % = 0.0410958904109589

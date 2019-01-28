@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+35(0.0) offered(0.0) by(0.0) my(0.0) distinguished(0.0) colleague(0.0) from(0.0) California(0.0) ,(0.0) Mr.(0.0) Rohrabacher(1.0) ,(0.0) relating(1.0) to(0.0) the(0.0) Nunn-Lugar(1.0) cooperative(0.0) threat(0.0) reduction(1.0) funds(1.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+Rohrabacher	relating	Nunn-Lugar	reduction	funds	
+
+
+reads % = 0.23809523809523808

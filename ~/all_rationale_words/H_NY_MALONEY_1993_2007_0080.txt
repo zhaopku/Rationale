@@ -1,0 +1,10 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(1.0) ,(0.0) I(0.0) move(0.0) to(0.0) strike(0.0) the(0.0) last(1.0) word(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+last	
+
+reads % = 0.1

@@ -1,0 +1,40 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Connecticut(1.0) for(0.0) yielding(0.0) me(0.0) this(0.0) time(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) rise(0.0) to(0.0) express(0.0) 
+my(0.0) deep(0.0) concern(0.0) about(0.0) the(0.0) course(0.0) of(0.0) actions(1.0) that(0.0) appear(0.0) to(0.0) constitute(0.0) retaliation(1.0) against(0.0) Linda(0.0) Shenwick(0.0) .(0.0) In(0.0) the(0.0) most(0.0) 
+recent(0.0) series(0.0) of(0.0) questionable(1.0) actions(0.0) ,(0.0) Ms.(0.0) Shenwick(0.0) has(0.0) been(0.0) ordered(0.0) to(0.0) vacate(0.0) her(0.0) office(0.0) in(0.0) New(1.0) York(1.0) by(0.0) the(0.0) 
+close(0.0) of(0.0) business(0.0) --(0.0) she(0.0) has(0.0) already(0.0) been(0.0) told(0.0) to(0.0) do(0.0) that(0.0) --(0.0) with(0.0) a(0.0) directed(0.0) transfer(0.0) to(0.0) another(0.0) Department(0.0) 
+of(0.0) State(0.0) position(0.0) .(0.0) We(0.0) believe(0.0) this(0.0) action(1.0) is(0.0) properly(0.0) construed(0.0) as(0.0) retaliatory(1.0) and(0.0) in(0.0) violation(1.0) of(0.0) the(0.0) Whistleblower(1.0) Protection(0.0) 
+Act(0.0) .(0.0) Accordingly(0.0) ,(0.0) I(0.0) and(0.0) many(0.0) other(0.0) Members(0.0) ,(0.0) including(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) York(1.0) ((0.0) Mr.(0.0) Gilman(1.0) )(0.0) 
+,(0.0) the(0.0) chairman(0.0) of(0.0) the(0.0) full(0.0) committee(0.0) ,(0.0) have(0.0) asked(0.0) that(0.0) she(0.0) be(0.0) protected(0.0) and(0.0) that(0.0) this(0.0) proceeding(0.0) needs(0.0) to(0.0) 
+be(0.0) looked(0.0) into(0.0) much(0.0) more(0.0) .(0.0) I(0.0) think(0.0) the(0.0) amendment(1.0) of(0.0) the(0.0) gentleman(0.0) from(0.0) Florida(0.0) ((0.0) Mr.(0.0) Stearns(1.0) )(0.0) certainly(1.0) 
+puts(1.0) us(1.0) on(0.0) record(0.0) as(0.0) being(0.0) very(0.0) much(0.0) against(0.0) what(0.0) is(0.0) happening(0.0) here(0.0) .(0.0) Let(0.0) me(0.0) also(0.0) say(0.0) that(0.0) she(0.0) 
+has(0.0) been(0.0) a(0.0) whistleblower(1.0) in(0.0) a(0.0) bipartisan(1.0) way(0.0) ,(0.0) bringing(0.0) information(0.0) to(0.0) the(0.0) fore(0.0) that(0.0) needs(0.0) to(0.0) be(0.0) brought(0.0) forward(0.0) 
+.(0.0) One(0.0) of(0.0) the(0.0) things(0.0) that(0.0) has(0.0) galled(0.0) me(0.0) in(0.0) 19(0.0) years(0.0) as(0.0) a(0.0) Member(0.0) of(0.0) Congress(0.0) --(0.0) 4(0.0) years(0.0) 
+now(0.0) and(0.0) counting(0.0) as(0.0) the(0.0) chairman(0.0) of(0.0) the(0.0) Subcommittee(0.0) on(0.0) International(0.0) Operations(0.0) and(0.0) Human(0.0) Rights(0.0) --(0.0) is(0.0) our(0.0) inability(0.0) to(0.0) 
+get(0.0) information(0.0) in(0.0) a(0.0) timely(0.0) and(0.0) usable(0.0) form(0.0) .(0.0) There(0.0) is(0.0) not(0.0) transparency(1.0) with(0.0) this(0.0) administration(1.0) .(0.0) We(0.0) need(0.0) to(0.0) 
+have(0.0) it(0.0) .(0.0) I(0.0) think(0.0) the(0.0) whistleblower(1.0) needs(0.0) to(0.0) be(0.0) protected(0.0) rather(0.0) than(0.0) retaliated(1.0) and(0.0) punished(0.0) .(0.0) So(0.0) I(0.0) think(0.0) 
+the(0.0) gentleman(0.0) from(0.0) Florida(0.0) ((0.0) Mr.(0.0) Stearns(1.0) )(0.0) has(1.0) done(0.0) a(0.0) very(0.0) ,(0.0) very(0.0) good(0.0) thing(0.0) with(0.0) his(0.0) amendment(1.0) .(0.0) 
+I(0.0) hope(0.0) everybody(0.0) will(0.0) support(0.0) it(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Connecticut	Chairman	
+actions	retaliation	
+questionable	New	York	
+
+action	retaliatory	violation	Whistleblower	
+York	Gilman	
+
+amendment	Stearns	certainly	
+puts	us	
+whistleblower	bipartisan	
+
+
+transparency	administration	
+whistleblower	retaliated	
+Stearns	has	amendment	
+
+
+reads % = 0.08766233766233766

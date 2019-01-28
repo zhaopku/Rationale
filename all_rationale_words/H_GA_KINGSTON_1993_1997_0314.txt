@@ -1,0 +1,38 @@
+This is from a Republican
+----- below is the original text -----
+Now(0.0) ,(0.0) the(0.0) use(0.0) of(0.0) the(0.0) audit(0.0) ,(0.0) I(0.0) understand(0.0) that(0.0) regardless(0.0) of(0.0) who(0.0) the(0.0) commissioner(0.0) of(0.0) the(0.0) IRS(1.0) is(0.0) ,(0.0) 
+the(0.0) commissioner(0.0) ,(0.0) the(0.0) head(0.0) person(0.0) is(0.0) appointed(0.0) by(0.0) the(0.0) President(1.0) of(0.0) the(0.0) United(0.0) States(0.0) and(0.0) regardless(0.0) of(0.0) who(0.0) that(0.0) 
+appointee(1.0) is(0.0) ,(0.0) Democrat(0.0) or(0.0) Republican(0.0) ,(1.0) audits(1.0) still(1.0) seem(1.0) to(1.0) happen(1.0) with(1.0) a(1.0) curious(0.0) degree(1.0) of(0.0) coincidence(1.0) .(0.0) For(0.0) 
+example(0.0) ,(0.0) my(0.0) wife(0.0) 's(0.0) great(0.0) uncle(0.0) ,(0.0) who(0.0) is(0.0) deceased(0.0) now(0.0) ,(0.0) during(0.0) the(0.0) 1930s(1.0) made(0.0) a(0.0) wisecrack(0.0) about(0.0) 
+the(0.0) WPA(1.0) ,(0.0) the(0.0) Works(0.0) Project(0.0) Administration(0.0) ,(0.0) of(0.0) the(0.0) Roosevelts(1.0) ,(0.0) and(0.0) he(0.0) made(0.0) a(0.0) comment(0.0) to(0.0) a(0.0) group(0.0) 
+that(0.0) was(0.0) working(0.0) on(0.0) a(0.0) street(0.0) or(0.0) road(0.0) .(0.0) He(0.0) said(0.0) that(0.0) unfortunately(0.0) the(0.0) employees(0.0) got(0.0) there(0.0) before(0.0) the(0.0) truck(0.0) 
+with(0.0) the(0.0) equipment(0.0) did(0.0) ,(0.0) and(0.0) so(0.0) the(0.0) shovels(1.0) are(0.0) going(0.0) to(0.0) be(0.0) a(0.0) little(0.0) bit(0.0) late(0.0) today(0.0) ,(0.0) but(0.0) 
+to(0.0) tell(0.0) employees(0.0) to(0.0) go(0.0) ahead(0.0) and(0.0) start(0.0) leaning(0.0) anyhow(0.0) .(0.0) He(0.0) made(0.0) that(0.0) comment(0.0) and(0.0) was(0.0) asked(0.0) by(0.0) the(0.0) 
+Roosevelt(1.0) administration(1.0) to(0.0) take(0.0) it(0.0) back(0.0) .(0.0) This(0.0) is(0.0) America(0.0) .(0.0) Free(0.0) speech(0.0) .(0.0) He(0.0) made(0.0) a(0.0) comment(0.0) .(0.0) We(0.0) 
+may(0.0) like(0.0) it(0.0) or(0.0) not(0.0) like(0.0) it(0.0) ,(0.0) but(0.0) he(0.0) has(0.0) a(0.0) right(0.0) to(0.0) say(0.0) it(0.0) .(0.0) He(0.0) would(0.0) not(0.0) 
+retract(0.0) it(0.0) .(0.0) This(0.0) is(0.0) years(0.0) and(0.0) years(0.0) ago(0.0) .(0.0) And(0.0) as(0.0) a(0.0) result(0.0) ,(0.0) coincidentally(0.0) ,(0.0) he(0.0) was(0.0) audited(0.0) 
+the(0.0) next(0.0) year(0.0) .(0.0) Now(0.0) ,(0.0) we(0.0) have(0.0) another(0.0) case(0.0) of(0.0) a(0.0) young(0.0) lady(0.0) named(0.0) Paula(0.0) Jones(0.0) .(0.0) I(0.0) do(0.0) 
+not(0.0) know(0.0) Ms.(0.0) Jones(1.0) ,(0.0) but(0.0) she(0.0) has(0.0) suddenly(0.0) become(0.0) audited(0.0) .(0.0) Now(0.0) ,(0.0) I(0.0) am(0.0) sure(0.0) it(0.0) is(0.0) just(0.0) 
+coincidence(0.0) ,(0.0) but(0.0) did(0.0) the(0.0) Committee(0.0) on(0.0) Ways(0.0) and(0.0) Means(0.0) come(0.0) up(0.0) with(0.0) any(0.0) correlation(0.0) between(0.0) Paula(1.0) Jones(0.0) '(0.0) legal(0.0) 
+situation(0.0) right(0.0) now(0.0) and(0.0) the(0.0) fact(0.0) that(0.0) she(0.0) is(0.0) being(0.0) audited(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+IRS	
+President	
+appointee	,	audits	still	seem	to	happen	with	a	degree	coincidence	
+1930s	
+WPA	Roosevelts	
+
+shovels	
+
+Roosevelt	administration	
+
+
+
+Jones	
+Paula	
+
+
+reads % = 0.07167235494880546

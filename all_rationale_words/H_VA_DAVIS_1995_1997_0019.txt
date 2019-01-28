@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) later(0.0) today(0.0) this(0.0) House(0.0) will(0.0) vote(1.0) on(0.0) the(0.0) biggest(1.0) transportation(1.0) vote(1.0) of(0.0) the(0.0) decade(1.0) .(0.0) The(0.0) Shuster-Oberstar-(0.0) Petri-Rahall(0.0) amendment(1.0) 
+takes(0.0) a(0.0) small(0.0) slice(0.0) from(0.0) the(0.0) tax(1.0) cuts(1.0) ,(1.0) from(1.0) defense(1.0) ,(1.0) from(1.0) discretionary(1.0) domestic(1.0) spending(1.0) so(1.0) the(1.0) American(0.0) people(0.0) 
+can(0.0) get(0.0) the(0.0) road(0.0) and(0.0) the(0.0) rail(1.0) improvements(1.0) they(0.0) have(0.0) already(0.0) paid(0.0) for(0.0) but(0.0) are(0.0) not(0.0) included(0.0) in(0.0) the(0.0) balanced(0.0) 
+budget(1.0) agreement(0.0) .(0.0) This(0.0) allocates(1.0) an(0.0) additional(0.0) $(0.0) 13(0.0) billion(1.0) for(0.0) transportation(1.0) over(0.0) the(0.0) next(0.0) 5(0.0) years(0.0) .(0.0) This(0.0) amendment(1.0) 
+will(0.0) ,(0.0) as(0.0) the(0.0) gentlewoman(0.0) from(0.0) New(0.0) York(1.0) [(0.0) Mrs.(1.0) Kelly(1.0) ](0.0) said(1.0) earlier(1.0) ,(0.0) save(0.0) lives(0.0) .(0.0) Up(0.0) to(0.0) 
+12,000(0.0) a(0.0) year(0.0) it(0.0) will(0.0) save(0.0) ,(0.0) and(0.0) at(0.0) the(0.0) same(0.0) time(0.0) it(0.0) promotes(1.0) jobs(1.0) and(0.0) it(0.0) builds(0.0) a(0.0) strong(0.0) 
+economy(1.0) .(0.0) For(0.0) Northern(0.0) Virginia(0.0) ,(0.0) which(0.0) I(0.0) represent(0.0) ,(0.0) where(0.0) we(0.0) are(0.0) choked(0.0) in(0.0) traffic(1.0) ,(0.0) this(0.0) will(0.0) give(0.0) 
+us(0.0) the(0.0) money(1.0) to(0.0) help(0.0) in(0.0) rebuilding(1.0) the(0.0) Woodrow(1.0) Wilson(1.0) Bridge(0.0) before(0.0) it(0.0) falls(0.0) into(0.0) the(0.0) Potomac(1.0) River(0.0) .(0.0) It(0.0) 
+will(0.0) give(0.0) Virginia(1.0) our(0.0) fair(1.0) share(0.0) of(0.0) transportation(1.0) dollars(0.0) .(0.0) We(0.0) got(0.0) back(0.0) less(0.0) than(0.0) 80(0.0) cents(0.0) for(0.0) every(0.0) dollar(1.0) 
+we(0.0) spent(0.0) under(0.0) the(0.0) previous(0.0) authorization(0.0) .(0.0) Without(0.0) the(0.0) additional(0.0) dollars(1.0) this(0.0) amendment(1.0) provides(0.0) ,(0.0) fair(1.0) allocations(1.0) for(0.0) donor(1.0) States(0.0) 
+like(0.0) Virginia(1.0) become(0.0) next(0.0) to(0.0) impossible(0.0) .(0.0) Let(0.0) us(0.0) balance(0.0) the(0.0) budget(1.0) ,(0.0) let(0.0) us(0.0) fix(1.0) the(0.0) broken(0.0) transportation(1.0) system(0.0) 
+,(0.0) let(0.0) us(0.0) support(0.0) the(0.0) Shuster-Oberstar(0.0) amendment(1.0) .(0.0) Mr.(0.0) SPEAKER(1.0) ,(0.0) despite(0.0) the(0.0) nation(1.0) 's(0.0) highest(0.0) rate(0.0) of(0.0) carpooling(1.0) and(0.0) 
+a(0.0) national(0.0) ranking(0.0) of(0.0) third(0.0) in(0.0) the(0.0) number(0.0) of(0.0) commuters(1.0) that(0.0) use(0.0) transit(1.0) ,(0.0) the(0.0) region(0.0) has(0.0) the(0.0) second(0.0) longest(0.0) 
+mean(0.0) commuting(0.0) time(0.0) in(0.0) the(0.0) country(1.0) .(0.0) The(0.0) dollar(1.0) cost(1.0) of(0.0) congestion(1.0) in(0.0) the(0.0) region(0.0) is(0.0) the(0.0) highest(0.0) in(0.0) the(0.0) 
+country(1.0) based(0.0) on(0.0) wasted(1.0) time(0.0) and(0.0) fuel(1.0) --(0.0) and(0.0) it(0.0) is(0.0) getting(0.0) worse(0.0) .(0.0) I(0.0) know(0.0) this(0.0) hardly(0.0) comes(0.0) as(0.0) 
+a(0.0) shock(0.0) to(0.0) Members(0.0) that(0.0) live(0.0) and(0.0) travel(0.0) around(0.0) the(0.0) region(0.0) ,(0.0) but(0.0) these(0.0) figures(0.0) dramatize(0.0) the(0.0) desperate(1.0) need(0.0) for(0.0) 
+major(1.0) transportation(1.0) improvements(0.0) .(0.0) No(0.0) single(0.0) element(0.0) of(0.0) the(0.0) regional(1.0) transportation(0.0) system(0.0) is(0.0) more(0.0) critical(0.0) than(0.0) the(0.0) Woodrow(1.0) Wilson(1.0) Memorial(0.0) 
+Bridge(0.0) which(0.0) crosses(0.0) the(0.0) Potomac(1.0) River(0.0) on(0.0) interstate(1.0) 95(0.0) .(0.0) Anyone(0.0) that(0.0) drives(0.0) in(0.0) this(0.0) region(0.0) knows(0.0) that(0.0) a(0.0) problem(0.0) 
+at(0.0) the(0.0) Woodrow(1.0) Wilson(0.0) Bridge(0.0) can(0.0) create(0.0) gridlock(1.0) throughout(0.0) the(0.0) entire(0.0) Washington(1.0) region(0.0) .(0.0) This(0.0) 35-year-old(0.0) bridge(0.0) is(0.0) the(0.0) only(0.0) 
+federally(1.0) owned(0.0) bridge(0.0) in(0.0) the(0.0) National(0.0) Highway(0.0) System(0.0) .(0.0) Built(0.0) to(0.0) carry(0.0) 75,000(0.0) vehicles(0.0) per(0.0) day(0.0) ,(0.0) the(0.0) bridge(0.0) now(0.0) 
+carries(0.0) 152,000(1.0) vehicles(0.0) per(0.0) day(0.0) and(0.0) 17,000(0.0) heavy(0.0) trucks(1.0) each(0.0) day(0.0) .(0.0) The(0.0) heavy(0.0) traffic(0.0) load(0.0) on(0.0) the(0.0) bridge(0.0) has(0.0) 
+shortened(0.0) the(0.0) bridges(1.0) useful(0.0) life(0.0) span(0.0) to(0.0) roughly(0.0) 10(0.0) years(0.0) .(0.0) If(0.0) action(0.0) is(0.0) not(0.0) taken(0.0) to(0.0) replace(0.0) this(0.0) vital(1.0) 
+bridge(1.0) ,(0.0) this(0.0) region(0.0) and(0.0) every(0.0) driver(0.0) or(0.0) trucker(1.0) trying(0.0) to(0.0) go(0.0) north(0.0) or(0.0) south(0.0) through(0.0) the(0.0) Mid-Atlantic(1.0) on(0.0) I-95(1.0) 
+could(0.0) be(0.0) affected(0.0) .(0.0) We(0.0) are(0.0) talking(0.0) about(0.0) rerouting(1.0) truck(0.0) traffic(0.0) or(0.0) reducing(1.0) the(0.0) number(0.0) of(0.0) lanes(0.0) on(0.0) the(0.0) bridge(0.0) 
+to(0.0) extend(0.0) the(0.0) life(0.0) of(0.0) the(0.0) bridge(0.0) .(0.0) The(0.0) traffic(0.0) and(0.0) economic(1.0) impact(0.0) on(0.0) this(0.0) region(0.0) of(0.0) reducing(1.0) the(0.0) 
+
+
+----- below are rationale words -----
+
+vote	biggest	transportation	vote	decade	amendment	
+tax	cuts	,	from	defense	,	from	discretionary	domestic	spending	so	the	
+rail	improvements	
+budget	allocates	billion	transportation	amendment	
+York	Mrs.	Kelly	said	earlier	
+promotes	jobs	
+economy	traffic	
+money	rebuilding	Woodrow	Wilson	Potomac	
+Virginia	fair	transportation	dollar	
+dollars	amendment	fair	allocations	donor	
+Virginia	budget	fix	transportation	
+amendment	SPEAKER	nation	carpooling	
+commuters	transit	
+country	dollar	cost	congestion	
+country	wasted	fuel	
+desperate	
+major	transportation	regional	Woodrow	Wilson	
+Potomac	interstate	
+Woodrow	gridlock	Washington	
+federally	
+152,000	trucks	
+bridges	vital	
+bridge	trucker	Mid-Atlantic	I-95	
+rerouting	reducing	
+economic	reducing	
+
+reads % = 0.178

@@ -1,0 +1,10 @@
+This is from a Democrat
+----- below is the original text -----
+Ryan(1.0) ,(1.0) we(1.0) are(0.0) showing(0.0) you(0.0) a(0.0) level(0.0) of(0.0) respect(1.0) here(0.0) today(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+,	we	respect	today	
+
+reads % = 0.3076923076923077

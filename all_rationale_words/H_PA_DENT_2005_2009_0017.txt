@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) would(0.0) just(0.0) like(0.0) at(0.0) this(0.0) time(0.0) to(0.0) thank(0.0) Chairman(0.0) Bennie(1.0) Thompson(1.0) ,(0.0) Chairwoman(1.0) Sheila(1.0) Jackson-Lee(1.0) ,(0.0) Pete(0.0) King(1.0) ,(0.0) everybody(0.0) 
+else(0.0) for(0.0) their(0.0) collaboration(0.0) on(0.0) this(0.0) important(0.0) piece(0.0) of(0.0) legislation(0.0) .(0.0) It(0.0) is(0.0) a(0.0) good(0.0) bill(0.0) .(0.0) I(0.0) wo(0.0) n't(0.0) 
+get(0.0) into(0.0) some(0.0) of(0.0) the(0.0) deficiencies(1.0) here(0.0) right(0.0) now(0.0) except(0.0) to(0.0) say(0.0) that(0.0) we(0.0) need(0.0) to(0.0) deal(0.0) with(0.0) the(0.0) Large(0.0) 
+Aircraft(0.0) Security(0.0) Program(0.0) .(0.0) I(0.0) know(0.0) the(0.0) Chair(0.0) has(0.0) agreed(0.0) to(0.0) holding(0.0) a(0.0) committee(0.0) hearing(0.0) on(0.0) that(0.0) very(0.0) important(0.0) issue(0.0) 
+.(0.0) It(0.0) 's(0.0) important(0.0) that(0.0) we(0.0) address(0.0) that(0.0) issue(0.0) .(0.0) But(0.0) there(0.0) are(0.0) a(0.0) few(0.0) things(0.0) about(0.0) this(0.0) bill(1.0) that(0.0) 
+are(0.0) very(0.0) ,(0.0) very(0.0) important(0.0) .(0.0) It(0.0) does(0.0) prohibit(1.0) tipping(1.0) off(0.0) TSA(1.0) employees(1.0) of(0.0) covert(1.0) testing(0.0) efforts(0.0) .(0.0) I(0.0) think(0.0) 
+that(0.0) 's(0.0) important(0.0) .(0.0) This(0.0) legislation(1.0) also(0.0) requires(0.0) a(0.0) secure(0.0) biometrically(0.0) enhanced(0.0) system(0.0) to(0.0) verify(0.0) the(0.0) status(0.0) of(0.0) law(1.0) enforcement(1.0) 
+officers(0.0) traveling(0.0) armed(0.0) on(0.0) commercial(0.0) passenger(0.0) aircraft(0.0) .(0.0) It(0.0) also(0.0) authorizes(1.0) demonstration(0.0) projects(0.0) to(0.0) test(0.0) technology(0.0) design(0.0) to(0.0) mitigate(1.0) a(0.0) 
+terrorist(1.0) attack(0.0) against(0.0) underwater(1.0) tunnels(1.0) or(0.0) open(0.0) rail(1.0) lines(0.0) .(0.0) It(0.0) also(0.0) prohibits(1.0) the(0.0) TSA(1.0) 's(0.0) outsourcing(0.0) of(0.0) the(0.0) terrorist(1.0) 
+watch(0.0) list(0.0) ,(0.0) No(0.0) Fly(0.0) List(0.0) and(0.0) selectee(1.0) list(0.0) verifications(0.0) to(0.0) non-governmental(1.0) entities(0.0) .(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) 
+my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Bennie	Thompson	Chairwoman	Sheila	Jackson-Lee	King	
+
+deficiencies	
+
+bill	
+prohibit	tipping	TSA	employees	covert	
+legislation	law	enforcement	
+authorizes	mitigate	
+terrorist	underwater	tunnels	rail	prohibits	TSA	terrorist	
+selectee	non-governmental	
+
+
+reads % = 0.1323529411764706

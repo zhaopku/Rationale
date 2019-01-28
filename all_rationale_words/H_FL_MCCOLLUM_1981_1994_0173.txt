@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) the(0.0) bottom(0.0) line(0.0) of(0.0) this(0.0) is(0.0) ,(0.0) what(0.0) we(0.0) do(0.0) is(0.0) very(0.0) narrow(0.0) .(0.0) We(0.0) take(0.0) out(0.0) a(0.0) $(0.0) 
+2(0.0) billion(1.0) new(0.0) revenue(1.0) sharing(0.0) program(1.0) that(0.0) is(0.0) based(0.0) on(0.0) the(0.0) cities(1.0) and(0.0) communities(1.0) that(0.0) have(0.0) the(0.0) highest(0.0) tax(1.0) rates(1.0) 
+that(0.0) are(0.0) in(0.0) this(0.0) country(1.0) today(0.0) ,(0.0) to(0.0) go(0.0) to(0.0) that(0.0) particular(0.0) group(0.0) by(0.0) some(0.0) formula(1.0) that(0.0) is(0.0) really(0.0) skewed(0.0) 
+.(0.0) It(0.0) is(0.0) a(0.0) crazy(0.0) program(0.0) ,(0.0) I(0.0) think(0.0) .(0.0) We(0.0) are(0.0) not(0.0) doing(0.0) the(0.0) job(0.0) of(0.0) what(0.0) fighting(1.0) crime(1.0) 
+is(0.0) all(0.0) about(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) our(0.0) side(0.0) of(0.0) the(0.0) aisle(0.0) for(0.0) the(0.0) most(0.0) part(0.0) wants(0.0) to(0.0) do(0.0) what(0.0) 
+is(0.0) right(0.0) .(0.0) We(0.0) are(0.0) not(0.0) interested(0.0) in(0.0) hurting(1.0) the(0.0) gentlewomen(1.0) 's(0.0) city(0.0) any(0.0) more(0.0) than(0.0) we(0.0) are(0.0) anyone(0.0) else(0.0) 
+.(0.0) We(0.0) want(0.0) to(0.0) help(0.0) .(0.0) However(0.0) ,(0.0) to(0.0) add(0.0) an(0.0) entitlement(1.0) program(1.0) of(0.0) $(0.0) 2(0.0) billion(1.0) is(0.0) not(0.0) the(0.0) 
+answer(0.0) .(0.0) DARE(0.0) Programs(1.0) are(0.0) fine(0.0) ,(0.0) more(0.0) police(0.0) on(0.0) the(0.0) streets(1.0) are(0.0) fine(0.0) ,(0.0) more(0.0) money(1.0) for(0.0) prisons(1.0) is(0.0) 
+fine(0.0) .(0.0) We(0.0) happen(0.0) to(0.0) be(0.0) interested(0.0) in(0.0) helping(0.0) the(0.0) Boy(0.0) Scouts(0.0) ,(0.0) too(0.0) ,(0.0) but(0.0) this(0.0) is(0.0) a(0.0) program(0.0) 
+for(0.0) $(0.0) 2(0.0) billion(1.0) more(0.0) in(0.0) entitlements(1.0) to(0.0) the(0.0) cities(1.0) that(0.0) goes(0.0) basically(0.0) for(0.0) a(0.0) jobs(0.0) program(0.0) .(0.0) That(0.0) is(0.0) 
+what(0.0) it(0.0) is(0.0) ,(0.0) pure(0.0) and(0.0) simple(0.0) ,(0.0) and(0.0) it(0.0) should(0.0) not(0.0) be(0.0) a(0.0) part(0.0) of(0.0) the(0.0) crime(1.0) bill(1.0) .(0.0) 
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+billion	revenue	program	cities	communities	tax	rates	
+country	formula	
+fighting	crime	
+Speaker	
+hurting	gentlewomen	
+entitlement	program	billion	
+Programs	streets	money	prisons	
+
+billion	entitlements	cities	
+crime	bill	
+Speaker	
+
+reads % = 0.11637931034482758

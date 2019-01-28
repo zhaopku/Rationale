@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) pass(0.0) the(0.0) bill(0.0) ((1.0) H.R(1.0) .(0.0) 3907(0.0) )(0.0) to(0.0) facilitate(0.0) the(0.0) 2002(0.0) 
+Winter(0.0) Olympic(0.0) Games(0.0) in(0.0) the(0.0) State(0.0) of(0.0) Utah(1.0) at(0.0) the(0.0) snowbasin(0.0) ski(0.0) area(0.0) ,(0.0) to(0.0) provide(0.0) for(0.0) the(0.0) acquisition(0.0) of(0.0) 
+lands(0.0) within(0.0) the(0.0) Sterling(0.0) Forest(0.0) Reserve(0.0) ,(0.0) and(0.0) for(0.0) other(0.0) purposes(0.0) ,(0.0) as(0.0) amended(0.0) .(0.0) The(0.0) Clerk(0.0) read(0.0) as(0.0) follows(0.0) 
+:(0.0) H.R(0.0) .(0.0) 3907(0.0) Be(0.0) it(0.0) enacted(0.0) by(0.0) the(0.0) Senate(0.0) and(0.0) House(0.0) of(0.0) Representatives(0.0) of(0.0) the(0.0) United(0.0) States(0.0) of(0.0) America(0.0) 
+in(0.0) Congress(0.0) assembled(0.0) ,(0.0) TITLE(0.0) I(0.0) --(0.0) SNOWBASIN(0.0) SKI(0.0) AREA(0.0) SEC(0.0) .(0.0) 101(0.0) .(0.0) SHORT(0.0) TITLE(0.0) .(0.0) This(0.0) title(0.0) may(0.0) 
+be(0.0) cited(0.0) as(0.0) the(0.0) ``(0.0) 2002(0.0) Winter(0.0) Olympic(0.0) Games(0.0) Facilitation(0.0) Act(0.0) ''(0.0) .(0.0) SEC(0.0) .(0.0) 102(0.0) .(0.0) FINDINGS(0.0) AND(0.0) DETERMINATION(0.0) 
+.(0.0) ((0.0) a(0.0) )(0.0) Findings.(0.0) --(0.0) The(0.0) Congress(0.0) finds(0.0) that(0.0) --(0.0) ((0.0) 1(0.0) )(0.0) in(0.0) June(0.0) 1995(0.0) ,(0.0) Salt(0.0) Lake(0.0) 
+City(0.0) ,(0.0) Utah(1.0) ,(0.0) was(0.0) selected(0.0) to(0.0) host(0.0) the(0.0) 2002(0.0) Winter(0.0) Olympic(0.0) Games(0.0) ,(0.0) and(0.0) the(0.0) Snowbasin(0.0) Ski(0.0) Resort(0.0) ,(0.0) 
+which(0.0) is(0.0) owned(0.0) by(0.0) the(0.0) Sun(0.0) Valley(0.0) Company(0.0) ,(0.0) was(0.0) identified(0.0) as(0.0) the(0.0) site(0.0) of(0.0) six(0.0) Olympic(0.0) events(0.0) :(0.0) the(0.0) 
+men(0.0) 's(0.0) and(0.0) women(0.0) 's(0.0) downhills(0.0) ,(0.0) men(0.0) 's(0.0) and(0.0) women(0.0) 's(0.0) Super-Gs(0.0) ,(0.0) and(0.0) men(0.0) 's(0.0) and(0.0) women(0.0) 's(0.0) 
+combined(0.0) downhills(0.0) ;(0.0) ((0.0) 2(0.0) )(0.0) in(0.0) order(0.0) to(0.0) adequately(0.0) accommodate(0.0) these(0.0) events(0.0) ,(0.0) which(0.0) are(0.0) traditionally(0.0) among(0.0) the(0.0) most(0.0) 
+popular(0.0) and(0.0) heavily(0.0) attended(0.0) at(0.0) the(0.0) Winter(0.0) Olympic(0.0) Games(0.0) ,(0.0) major(0.0) new(0.0) skiing(0.0) ,(0.0) visitor(0.0) ,(0.0) and(0.0) support(0.0) facilities(0.0) will(0.0) 
+have(0.0) to(0.0) be(0.0) constructed(0.0) at(0.0) the(0.0) Snowbasin(0.0) Ski(0.0) Resort(0.0) on(0.0) land(0.0) currently(0.0) administered(0.0) by(0.0) the(0.0) United(0.0) States(0.0) Forest(0.0) Service(0.0) ;(0.0) 
+((0.0) 3(0.0) )(0.0) while(0.0) certain(0.0) of(0.0) these(0.0) new(0.0) facilities(0.0) can(0.0) be(0.0) accommodated(0.0) on(0.0) National(0.0) Forest(0.0) land(0.0) under(0.0) traditional(0.0) Forest(0.0) Service(0.0) 
+permitting(0.0) authorities(0.0) ,(0.0) the(0.0) base(0.0) area(0.0) facilities(0.0) necessary(0.0) to(0.0) host(0.0) visitors(0.0) to(0.0) the(0.0) ski(0.0) area(0.0) and(0.0) the(0.0) Winter(0.0) Olympics(0.0) are(0.0) 
+of(0.0) such(0.0) a(0.0) nature(0.0) that(0.0) they(0.0) should(0.0) logically(0.0) be(0.0) located(0.0) on(0.0) private(0.0) land(0.0) ;(0.0) ((0.0) 4(0.0) )(0.0) land(0.0) exchanges(0.0) have(0.0) 
+been(0.0) routinely(0.0) utilized(0.0) by(0.0) the(0.0) Forest(0.0) Service(0.0) to(0.0) transfer(0.0) base(0.0) area(0.0) lands(0.0) to(0.0) many(0.0) other(0.0) ski(0.0) areas(0.0) ,(0.0) and(0.0) the(0.0) 
+Forest(0.0) Service(0.0) and(0.0) the(0.0) Sun(0.0) Valley(0.0) Company(0.0) have(0.0) concluded(0.0) that(0.0) a(0.0) land(0.0) exchange(0.0) to(0.0) transfer(0.0) base(0.0) area(0.0) lands(0.0) at(0.0) the(0.0) 
+Snowbasin(0.0) Ski(0.0) Resort(0.0) to(0.0) the(0.0) Sun(0.0) Valley(0.0) Company(0.0) is(0.0) both(0.0) logical(0.0) and(0.0) advisable(0.0) ;(0.0) ((0.0) 5(0.0) )(0.0) an(0.0) environmental(0.0) impact(0.0) 
+statement(0.0) and(0.0) numerous(0.0) resource(0.0) studies(0.0) have(0.0) been(0.0) completed(0.0) by(0.0) the(0.0) Forest(0.0) Service(0.0) and(0.0) the(0.0) Sun(0.0) Valley(0.0) Company(0.0) for(0.0) the(0.0) lands(0.0) 
+proposed(0.0) to(0.0) be(0.0) transferred(0.0) to(0.0) the(0.0) Sun(0.0) Valley(0.0) Company(0.0) by(0.0) this(0.0) title(0.0) ;(0.0) ((0.0) 6(0.0) )(0.0) the(0.0) Sun(0.0) Valley(0.0) Company(0.0) 
+has(0.0) assembled(0.0) lands(0.0) with(0.0) outstanding(0.0) environmental(0.0) ,(0.0) recreational(0.0) ,(0.0) and(0.0) other(0.0) values(0.0) to(0.0) convey(0.0) to(0.0) the(0.0) Forest(0.0) Service(0.0) in(0.0) return(0.0) 
+for(0.0) the(0.0) lands(0.0) it(0.0) will(0.0) receive(0.0) in(0.0) the(0.0) exchange(0.0) ,(0.0) and(0.0) the(0.0) Forest(0.0) Service(0.0) has(0.0) identified(0.0) such(0.0) lands(0.0) as(0.0) desirable(0.0) 
+for(0.0) acquisition(0.0) by(0.0) the(0.0) United(0.0) States(0.0) ;(0.0) and(0.0) ((0.0) 7(0.0) )(0.0) completion(0.0) of(0.0) a(0.0) land(0.0) exchange(0.0) and(0.0) approval(0.0) of(0.0) a(0.0) 
+development(0.0) plan(0.0) for(0.0) Olympic(0.0) related(0.0) facilities(0.0) at(0.0) the(0.0) Snowbasin(0.0) Ski(0.0) Resort(0.0) is(0.0) essential(0.0) to(0.0) ensure(0.0) that(0.0) all(0.0) necessary(0.0) facilities(0.0) 
+
+
+----- below are rationale words -----
+
+(	H.R	
+Utah	
+
+
+
+
+
+Utah	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+reads % = 0.008

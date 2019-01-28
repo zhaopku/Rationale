@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) strike(1.0) the(0.0) requisite(0.0) number(0.0) of(0.0) words(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) first(0.0) of(0.0) all(0.0) ,(0.0) I(0.0) want(0.0) 
+to(0.0) compliment(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) ((0.0) Mr.(0.0) Packard(1.0) )(0.0) ,(0.0) chairman(0.0) of(0.0) the(0.0) Subcommittee(0.0) on(0.0) Energy(0.0) and(0.0) Water(0.0) Development(0.0) 
+for(0.0) bringing(0.0) forth(0.0) a(0.0) very(0.0) difficult(0.0) ,(0.0) complicated(0.0) ,(0.0) yet(0.0) sophisticated(0.0) piece(0.0) of(0.0) legislation(0.0) to(0.0) deal(0.0) with(0.0) the(0.0) Nation(0.0) 's(0.0) 
+resource(0.0) needs(0.0) ,(0.0) energy(0.0) needs(0.0) ,(0.0) water(0.0) needs(0.0) .(0.0) This(0.0) is(0.0) not(0.0) an(0.0) easy(0.0) task(0.0) to(0.0) follow(0.0) ,(0.0) to(0.0) implement(0.0) 
+.(0.0) I(0.0) also(0.0) want(0.0) to(0.0) compliment(0.0) the(0.0) gentleman(0.0) from(0.0) Michigan(1.0) ((0.0) Mr.(0.0) Bonior(1.0) )(0.0) for(1.0) his(0.0) eloquent(0.0) statement(0.0) about(0.0) the(0.0) 
+need(0.0) for(0.0) this(0.0) Nation(1.0) to(0.0) ,(0.0) not(0.0) only(0.0) protect(0.0) the(0.0) Nation(1.0) 's(0.0) wetlands(1.0) ,(0.0) to(0.0) not(0.0) only(0.0) come(0.0) up(0.0) with(0.0) 
+a(0.0) proposal(0.0) for(0.0) no(0.0) net(0.0) loss(0.0) of(0.0) the(0.0) Nation(1.0) 's(0.0) wetlands(1.0) ,(0.0) but(0.0) to(0.0) add(0.0) to(0.0) the(0.0) Nation's(0.0) wetlands(1.0) ,(0.0) 
+because(0.0) they(0.0) are(0.0) what(0.0) he(0.0) has(0.0) spoken(0.0) ,(0.0) the(0.0) world(0.0) 's(0.0) filtering(0.0) system(0.0) for(0.0) the(0.0) dwindling(1.0) supply(1.0) of(0.0) water(1.0) .(0.0) 
+It(0.0) does(0.0) create(0.0) habitat(1.0) and(0.0) spawning(0.0) grounds(0.0) for(0.0) most(0.0) of(0.0) the(0.0) fish(0.0) in(0.0) the(0.0) world(0.0) .(0.0) So(0.0) wetlands(1.0) are(0.0) important(0.0) 
+.(0.0) I(0.0) want(0.0) to(0.0) make(0.0) just(0.0) a(0.0) brief(0.0) statement(0.0) about(0.0) this(0.0) country(1.0) ,(0.0) the(0.0) United(0.0) States(0.0) .(0.0) We(0.0) are(0.0) as(0.0) 
+sophisticated(0.0) as(0.0) we(0.0) are(0.0) right(0.0) now(0.0) ,(0.0) we(0.0) are(0.0) as(0.0) successful(0.0) as(0.0) we(0.0) are(0.0) right(0.0) now(0.0) for(0.0) four(0.0) reasons(0.0) :(0.0) 
+democracy(1.0) ,(0.0) our(0.0) political(1.0) system(0.0) ;(0.0) an(0.0) endless(0.0) frontier(1.0) ;(0.0) an(0.0) abundance(0.0) of(0.0) natural(1.0) resources(1.0) ;(0.0) and(0.0) character(0.0) .(0.0) We(0.0) 
+are(0.0) about(0.0) character(0.0) and(0.0) democracy(1.0) ,(0.0) but(0.0) we(0.0) are(0.0) diminishing(1.0) our(0.0) resources(1.0) because(0.0) of(0.0) the(0.0) expanding(1.0) population(1.0) ,(0.0) and(0.0) our(0.0) 
+frontier(1.0) is(0.0) gone(0.0) .(0.0) We(0.0) are(0.0) a(0.0) developed(0.0) Nation(0.0) .(0.0) So(0.0) what(0.0) is(0.0) our(0.0) next(0.0) frontier(1.0) ?(0.0) What(0.0) is(0.0) the(0.0) 
+most(0.0) important(0.0) thing(0.0) we(0.0) can(0.0) do(0.0) now(0.0) ?(0.0) Understand(0.0) that(0.0) for(0.0) future(0.0) unseen(0.0) generations(0.0) we(0.0) need(0.0) to(0.0) be(0.0) as(0.0) sophisticated(0.0) 
+as(0.0) possible(0.0) to(0.0) recognize(0.0) the(0.0) next(0.0) frontier(1.0) is(0.0) an(0.0) intellectual(1.0) frontier(1.0) on(0.0) how(0.0) to(0.0) manage(0.0) and(0.0) increase(1.0) and(0.0) improve(0.0) the(0.0) 
+way(0.0) we(0.0) use(0.0) the(0.0) Nation(1.0) 's(0.0) resources(0.0) .(0.0) Now(0.0) ,(0.0) this(0.0) energy(1.0) appropriations(1.0) bill(1.0) goes(1.0) a(0.0) little(0.0) way(0.0) toward(0.0) doing(0.0) 
+that(0.0) .(0.0) We(0.0) will(0.0) do(0.0) this(0.0) on(0.0) an(0.0) annual(0.0) basis(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) California(0.0) ((0.0) Mr.(0.0) Packard(1.0) )(0.0) has(1.0) 
+taken(1.0) a(0.0) diverse(0.0) amount(0.0) of(0.0) material(0.0) ,(0.0) disparate(0.0) interests(0.0) ,(0.0) and(0.0) he(0.0) has(0.0) put(0.0) together(0.0) ,(0.0) or(0.0) pieced(0.0) together(0.0) a(0.0) 
+package(0.0) to(0.0) do(0.0) something(0.0) about(0.0) the(0.0) Nation(1.0) 's(0.0) resources(0.0) .(0.0) And(0.0) I(0.0) am(0.0) going(0.0) to(0.0) support(0.0) the(0.0) Boehlert(1.0) amendment(1.0) because(0.0) 
+it(0.0) does(0.0) what(0.0) we(0.0) want(0.0) to(0.0) do(0.0) .(0.0) Let(0.0) me(0.0) run(0.0) through(0.0) a(0.0) couple(0.0) of(0.0) other(0.0) items(0.0) .(0.0) The(0.0) gentleman(0.0) 
+from(0.0) Indiana(0.0) ((0.0) Mr.(0.0) Visclosky(1.0) )(0.0) said(1.0) that(1.0) the(1.0) President(0.0) had(0.0) an(0.0) edict(0.0) that(0.0) we(0.0) were(0.0) going(0.0) to(0.0) get(0.0) rid(0.0) 
+of(0.0) Nationwide(1.0) 26(0.0) .(0.0) What(0.0) is(0.0) Nationwide(0.0) 26(0.0) ?(0.0) It(0.0) is(0.0) a(0.0) regulation(0.0) that(0.0) came(0.0) out(0.0) in(0.0) 1996(0.0) that(0.0) said(0.0) 
+the(0.0) Corps(0.0) of(0.0) Engineers(0.0) could(0.0) not(0.0) issue(0.0) permits(1.0) for(0.0) isolated(0.0) wetlands(1.0) or(0.0) wetlands(1.0) on(0.0) the(0.0) headwaters(0.0) of(0.0) our(0.0) Nation(1.0) 's(0.0) 
+waterways(1.0) for(0.0) any(0.0) particular(0.0) activity(0.0) .(0.0) Now(0.0) ,(0.0) they(0.0) have(0.0) studied(0.0) that(0.0) for(0.0) several(0.0) years(0.0) to(0.0) see(0.0) its(0.0) impact(0.0) 
+
+
+----- below are rationale words -----
+
+strike	Chairman	
+Packard	
+
+
+Michigan	Bonior	for	
+Nation	Nation	wetlands	
+Nation	wetlands	wetlands	
+dwindling	supply	water	
+habitat	wetlands	
+country	
+
+democracy	political	frontier	natural	resources	
+democracy	diminishing	resources	expanding	population	
+frontier	frontier	
+
+frontier	intellectual	frontier	increase	
+Nation	energy	appropriations	bill	goes	
+Packard	has	
+taken	
+Nation	Boehlert	amendment	
+
+Visclosky	said	that	the	
+Nationwide	
+permits	wetlands	wetlands	Nation	
+waterways	
+
+reads % = 0.11

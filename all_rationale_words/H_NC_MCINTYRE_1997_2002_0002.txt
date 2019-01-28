@@ -1,0 +1,40 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) offer(0.0) my(0.0) deepest(0.0) condolences(0.0) to(0.0) the(0.0) family(0.0) and(0.0) friends(0.0) of(0.0) Technical(0.0) Sergeant(0.0) John(0.0) A.(1.0) Chapman(0.0) of(0.0) the(0.0) Twenty-(0.0) 
+fourth(0.0) Special(0.0) Tactics(0.0) Squadron(0.0) of(0.0) the(0.0) United(0.0) States(0.0) Air(0.0) Force(0.0) who(0.0) gave(0.0) his(0.0) life(0.0) in(0.0) the(0.0) service(0.0) of(0.0) our(0.0) country(0.0) 
+.(0.0) I(0.0) join(0.0) with(0.0) his(0.0) family(0.0) and(0.0) friends(0.0) in(0.0) paying(0.0) tribute(0.0) to(0.0) him(0.0) for(0.0) his(0.0) ultimate(0.0) sacrifice(0.0) on(0.0) behalf(0.0) of(0.0) 
+our(0.0) Nation(1.0) .(0.0) My(0.0) prayers(0.0) are(0.0) for(0.0) his(0.0) family(0.0) .(0.0) John(0.0) Chapman(1.0) was(0.0) a(0.0) decorated(0.0) soldier(0.0) who(0.0) readily(0.0) and(0.0) courageously(0.0) 
+participated(0.0) in(0.0) Operation(0.0) Enduring(0.0) Freedom(0.0) .(0.0) Among(0.0) his(0.0) many(0.0) awards(0.0) and(0.0) decorations(0.0) were(0.0) :(0.0) two(0.0) Air(0.0) Force(0.0) Commendation(0.0) Medals(0.0) ,(0.0) 
+two(0.0) Air(0.0) Force(0.0) Achievement(0.0) Medals(0.0) ,(0.0) and(0.0) two(0.0) Joint(0.0) Service(0.0) Achievement(0.0) Medals(0.0) .(0.0) This(0.0) tragedy(0.0) should(0.0) act(0.0) as(0.0) a(0.0) reminder(0.0) 
+to(0.0) all(0.0) Americans(1.0) that(0.0) the(0.0) liberties(1.0) we(0.0) hold(0.0) dear(0.0) are(0.0) neither(0.0) free(0.0) nor(0.0) secure(0.0) .(0.0) Our(0.0) freedoms(1.0) are(0.0) earned(0.0) and(0.0) 
+protected(0.0) by(0.0) our(0.0) servicemen(1.0) and(0.0) women(1.0) .(0.0) They(0.0) risk(0.0) their(0.0) lives(0.0) so(0.0) that(0.0) freedom(1.0) may(0.0) survive(0.0) .(0.0) Technical(0.0) Sergeant(0.0) Chapman(0.0) 
+'s(0.0) courage(0.0) in(0.0) the(0.0) face(0.0) of(0.0) danger(0.0) reflects(0.0) a(0.0) character(0.0) born(0.0) of(0.0) his(0.0) commitment(0.0) to(0.0) his(0.0) family(0.0) as(0.0) a(0.0) devoted(0.0) 
+husband(0.0) ,(0.0) father(0.0) ,(0.0) and(0.0) son(0.0) ,(0.0) and(0.0) his(0.0) commitment(0.0) to(0.0) his(0.0) many(0.0) friends(0.0) and(0.0) to(0.0) our(0.0) country(1.0) .(0.0) We(0.0) 
+owe(0.0) Technical(0.0) Sergeant(0.0) John(0.0) Chapman(1.0) our(0.0) sincere(0.0) appreciation(0.0) for(0.0) his(0.0) 17(0.0) years(0.0) of(0.0) committed(0.0) service(0.0) to(0.0) our(0.0) Nation(1.0) .(0.0) His(0.0) 
+determination(0.0) ,(0.0) devotion(0.0) ,(0.0) and(0.0) dedication(0.0) to(0.0) freedom(1.0) should(0.0) serve(0.0) as(0.0) an(0.0) example(0.0) for(0.0) us(0.0) all(0.0) .(0.0) It(0.0) is(0.0) important(0.0) 
+that(0.0) we(0.0) not(0.0) only(0.0) remember(0.0) John(0.0) as(0.0) an(0.0) excellent(0.0) and(0.0) dedicated(0.0) airman(0.0) and(0.0) family(0.0) man(0.0) but(0.0) also(0.0) as(0.0) the(0.0) American(0.0) 
+hero(0.0) that(0.0) he(0.0) is(0.0) .(0.0) May(0.0) God(0.0) bless(0.0) him(0.0) and(0.0) his(0.0) family(0.0) and(0.0) those(0.0) who(0.0) have(0.0) served(0.0) with(0.0) him(0.0) .(0.0) 
+May(0.0) God(0.0) bless(0.0) our(0.0) great(0.0) country(1.0) .(0.0) We(0.0) indeed(0.0) are(0.0) a(0.0) better(0.0) Nation(1.0) because(0.0) of(0.0) John(0.0) Chapman(1.0) and(0.0) those(0.0) who(0.0) 
+serve(0.0) with(0.0) him(0.0) in(0.0) our(0.0) Nation(1.0) 's(0.0) Armed(0.0) Forces(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+A.	
+
+
+Nation	Chapman	
+
+
+Americans	liberties	freedoms	
+servicemen	women	freedom	
+
+country	
+Chapman	Nation	
+freedom	
+
+
+country	Nation	Chapman	
+Nation	
+
+reads % = 0.05466237942122187

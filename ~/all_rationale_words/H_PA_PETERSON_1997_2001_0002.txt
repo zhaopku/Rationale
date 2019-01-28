@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) if(0.0) you(1.0) want(1.0) less(0.0) of(0.0) something(0.0) ,(0.0) tax(1.0) it(0.0) another(0.0) way(0.0) ,(0.0) another(0.0) time(0.0) ;(0.0) if(1.0) you(0.0) want(1.0) more(0.0) 
+of(0.0) something(0.0) ,(0.0) do(0.0) not(1.0) tax(1.0) it(0.0) .(0.0) Any(0.0) time(0.0) we(0.0) can(0.0) remove(1.0) an(0.0) impediment(1.0) from(0.0) businesses(1.0) succeeding(1.0) ,(0.0) we(0.0) 
+ought(1.0) to(0.0) be(0.0) about(0.0) it(0.0) .(0.0) I(0.0) am(1.0) going(1.0) to(0.0) diverse(1.0) just(0.0) for(0.0) a(0.0) moment(0.0) ,(0.0) because(1.0) Bill(1.0) Gates(1.0) has(0.0) 
+said(1.0) this(0.0) 3(0.0) or(1.0) 4(0.0) times(0.0) in(0.0) my(0.0) presence(1.0) and(0.0) it(0.0) has(0.0) made(0.0) a(0.0) big(1.0) impact(0.0) on(0.0) me(0.0) .(0.0) He(0.0) 
+said(1.0) ,(0.0) as(0.0) he(0.0) travels(1.0) around(0.0) the(0.0) world(0.0) ,(0.0) because(1.0) he(0.0) is(0.0) one(0.0) of(0.0) the(0.0) leaders(1.0) of(0.0) the(0.0) technology(0.0) revolution(1.0) 
+that(0.0) has(0.0) brought(0.0) about(1.0) the(0.0) strong(0.0) economy(1.0) in(0.0) this(0.0) country(1.0) ,(0.0) he(0.0) says(1.0) ,(0.0) everywhere(1.0) he(0.0) goes(1.0) ,(0.0) he(0.0) will(0.0) 
+go(1.0) to(0.0) Japan(1.0) and(0.0) he(0.0) said(1.0) ,(0.0) why(0.0) did(0.0) it(0.0) not(1.0) happen(0.0) here(0.0) first(0.0) ?(1.0) Why(0.0) did(0.0) it(0.0) happen(0.0) in(0.0) 
+the(0.0) States(0.0) ?(0.0) He(0.0) will(0.0) go(0.0) to(0.0) Germany(1.0) and(0.0) Europe(0.0) and(0.0) other(0.0) countries(0.0) ,(0.0) and(0.0) he(0.0) will(0.0) say(1.0) ,(0.0) why(0.0) 
+did(0.0) it(0.0) not(1.0) happen(0.0) here(0.0) ?(0.0) We(0.0) are(0.0) smart(1.0) people(0.0) .(0.0) And(0.0) he(0.0) said(1.0) the(0.0) reason(0.0) it(0.0) did(0.0) not(1.0) happen(0.0) 
+there(0.0) and(0.0) that(0.0) it(0.0) happened(1.0) here(0.0) is(0.0) we(0.0) have(0.0) the(0.0) most(1.0) economic(0.0) freedom(1.0) .(0.0) We(0.0) have(0.0) the(0.0) least(1.0) bureaucracy(1.0) .(0.0) 
+We(0.0) have(0.0) the(0.0) least(1.0) power(1.0) in(0.0) the(0.0) bureaucracy(1.0) to(0.0) control(1.0) and(0.0) regulate(1.0) .(0.0) Now(0.0) ,(0.0) a(0.0) lot(0.0) of(0.0) us(0.0) think(0.0) 
+we(0.0) have(0.0) too(0.0) much(0.0) ,(0.0) but(0.0) we(0.0) do(0.0) not(1.0) have(0.0) as(0.0) much(0.0) as(0.0) they(0.0) do(0.0) .(0.0) He(0.0) said(1.0) ,(0.0) they(0.0) 
+could(0.0) not(1.0) have(0.0) brought(0.0) about(0.0) the(0.0) changes(1.0) that(0.0) were(0.0) necessary(0.0) to(0.0) implement(0.0) this(0.0) .(0.0) This(0.0) technology(0.0) was(0.0) around(0.0) a(0.0) while(0.0) 
+before(1.0) it(0.0) took(1.0) off(0.0) ,(0.0) before(1.0) it(0.0) became(0.0) this(0.0) spur(1.0) to(0.0) our(0.0) economy(1.0) .(0.0) I(0.0) just(1.0) want(1.0) to(0.0) say(1.0) that(0.0) 
+,(0.0) because(0.0) it(0.0) is(0.0) that(0.0) economic(1.0) freedom(1.0) of(0.0) this(0.0) country(1.0) that(0.0) we(0.0) must(0.0) defend(1.0) .(0.0) The(0.0) difference(0.0) in(0.0) America(0.0) from(0.0) 
+anywhere(0.0) else(0.0) in(0.0) the(0.0) world(0.0) ,(0.0) and(0.0) our(0.0) future(0.0) ,(0.0) in(0.0) my(0.0) opinion(1.0) ,(0.0) depends(1.0) on(0.0) the(0.0) ability(0.0) of(0.0) any(1.0) 
+individual(0.0) that(0.0) has(0.0) a(0.0) process(0.0) ,(0.0) a(0.0) manufacturing(1.0) process(1.0) or(0.0) a(0.0) commodity(1.0) to(0.0) market(0.0) that(0.0) process(1.0) or(0.0) that(0.0) commodity(1.0) or(0.0) 
+manufacture(1.0) that(0.0) product(0.0) and(0.0) compete(0.0) against(0.0) the(0.0) big(1.0) boys(0.0) .(0.0) Now(0.0) ,(0.0) when(0.0) I(0.0) was(0.0) in(0.0) the(0.0) food(0.0) business(1.0) ,(0.0) 
+I(0.0) was(0.0) an(0.0) independent(0.0) supermarket(1.0) .(0.0) I(0.0) had(1.0) to(0.0) fight(0.0) the(0.0) chains(0.0) .(0.0) Now(0.0) ,(0.0) I(0.0) do(0.0) not(1.0) dislike(1.0) the(0.0) 
+chains(0.0) .(0.0) They(0.0) are(0.0) large(0.0) ,(0.0) they(0.0) are(0.0) powerful(0.0) ,(0.0) they(0.0) have(0.0) hundreds(1.0) of(0.0) stores(1.0) and(0.0) the(0.0) power(1.0) of(0.0) buying(0.0) 
+,(0.0) and(0.0) I(0.0) had(0.0) to(0.0) compete(0.0) with(0.0) them(0.0) .(0.0) But(0.0) that(0.0) is(0.0) what(0.0) America(0.0) is(0.0) about(0.0) ,(0.0) allowing(1.0) little(0.0) people(0.0) 
+with(0.0) big(1.0) ideas(1.0) and(0.0) lots(0.0) of(0.0) intense(0.0) hard(1.0) work(0.0) to(0.0) build(0.0) a(0.0) business(1.0) .(0.0) We(0.0) never(0.0) know(1.0) when(0.0) we(0.0) have(0.0) 
+an(0.0) employer(1.0) of(0.0) 50(0.0) people(0.0) that(0.0) can(1.0) suddenly(0.0) bust(0.0) out(1.0) and(0.0) be(0.0) 500(0.0) people(0.0) ,(0.0) 5,000(1.0) people(0.0) .(0.0) I(0.0) have(0.0) 
+seen(0.0) it(0.0) happen(0.0) ,(0.0) where(0.0) somebody(1.0) started(0.0) in(0.0) a(0.0) garage(1.0) and(0.0) then(0.0) moved(0.0) into(0.0) a(0.0) vacant(1.0) building(0.0) and(0.0) the(0.0) next(0.0) 
+thing(1.0) we(0.0) know(0.0) ,(0.0) they(0.0) are(0.0) building(0.0) new(1.0) factories(1.0) and(0.0) they(0.0) are(0.0) employing(0.0) hundreds(1.0) ,(0.0) if(0.0) not(0.0) thousands(0.0) ,(0.0) 
+
+
+----- below are rationale words -----
+
+you	want	tax	if	want	
+not	tax	remove	impediment	businesses	succeeding	
+ought	am	going	diverse	because	Bill	Gates	
+said	or	presence	big	
+said	travels	because	leaders	revolution	
+about	economy	country	says	everywhere	goes	
+go	Japan	said	not	?	
+Germany	say	
+not	smart	said	not	
+happened	most	freedom	least	bureaucracy	
+least	power	bureaucracy	control	regulate	
+not	said	
+not	changes	
+before	took	before	spur	economy	just	want	say	
+economic	freedom	country	defend	
+opinion	depends	any	
+manufacturing	process	commodity	process	commodity	
+manufacture	big	business	
+supermarket	had	not	dislike	
+hundreds	stores	power	
+allowing	
+big	ideas	hard	business	know	
+employer	can	out	5,000	
+somebody	garage	vacant	
+thing	new	factories	hundreds	
+
+reads % = 0.21

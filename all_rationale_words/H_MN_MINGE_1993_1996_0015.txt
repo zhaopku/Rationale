@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Would(1.0) the(0.0) gentleman(0.0) agree(0.0) ,(0.0) then(0.0) ,(0.0) that(0.0) we(0.0) should(0.0) exclude(0.0) transit(1.0) because(0.0) it(0.0) is(0.0) not(0.0) adequately(0.0) covered(0.0) at(0.0) the(0.0) Department(0.0) 
+of(0.0) Transportation(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+transit	
+
+
+reads % = 0.041666666666666664

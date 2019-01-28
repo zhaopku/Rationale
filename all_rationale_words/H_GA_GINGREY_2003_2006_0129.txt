@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) to(0.0) congratulate(0.0) Upson-Lee(1.0) Middle(0.0) School(0.0) in(0.0) Thomaston(1.0) ,(0.0) Georgia(1.0) ,(0.0) on(0.0) being(0.0) recognized(0.0) as(0.0) a(0.0) ``(0.0) 
+School(0.0) to(0.0) Watch(0.0) ''(0.0) by(0.0) the(0.0) National(0.0) Forum(0.0) to(0.0) Accelerate(0.0) Middle(0.0) Grades(0.0) Reform(0.0) .(0.0) This(0.0) award(0.0) recognizes(0.0) Upson-Lee(1.0) 's(0.0) academic(0.0) 
+excellence(0.0) ,(0.0) especially(0.0) the(0.0) school(0.0) 's(0.0) commitment(0.0) to(0.0) challenging(0.0) every(0.0) student(0.0) 's(0.0) mind(0.0) .(0.0) Upson-Lee(0.0) was(0.0) one(0.0) of(0.0) only(0.0) 82(0.0) 
+schools(1.0) nationwide(1.0) to(0.0) receive(0.0) this(0.0) honor(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) Upson-Thomaston(0.0) Superintendent(0.0) Howard(1.0) Hendley(1.0) ,(0.0) Upson-Lee(1.0) 
+Principal(0.0) Patsy(1.0) Dean(1.0) and(0.0) all(0.0) the(0.0) Upson-Lee(1.0) teachers(0.0) ,(0.0) administrators(0.0) and(0.0) parents(0.0) for(0.0) the(0.0) dedicated(0.0) work(0.0) on(0.0) behalf(0.0) of(0.0) Georgia(0.0) 
+'s(0.0) children(0.0) .(0.0) As(0.0) a(0.0) former(0.0) school(0.0) board(0.0) chairman(0.0) ,(0.0) I(0.0) know(0.0) the(0.0) importance(0.0) of(0.0) a(0.0) good(0.0) middle(0.0) school(0.0) education(0.0) 
+.(0.0) Our(0.0) children(0.0) learn(0.0) more(0.0) when(0.0) they(0.0) are(0.0) inspired(0.0) by(0.0) the(0.0) leadership(0.0) of(0.0) teachers(0.0) and(0.0) principals(0.0) ,(0.0) and(0.0) Upson-Lee(1.0) is(0.0) 
+doing(0.0) a(0.0) great(0.0) job(0.0) inspiring(0.0) the(0.0) youth(0.0) of(0.0) Thomaston(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) ask(0.0) you(0.0) to(0.0) join(0.0) me(0.0) in(0.0) 
+congratulating(0.0) Upson-Lee(1.0) Middle(0.0) School(0.0) on(0.0) this(0.0) exciting(0.0) recognition(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Upson-Lee	Thomaston	Georgia	
+Upson-Lee	
+
+schools	nationwide	Speaker	Howard	Hendley	Upson-Lee	
+Patsy	Dean	Upson-Lee	
+
+Upson-Lee	
+Thomaston	Speaker	
+Upson-Lee	
+
+reads % = 0.1

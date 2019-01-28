@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+Scott(1.0) )(0.0) ,(0.0) there(0.0) is(0.0) nothing(0.0) in(0.0) this(0.0) amendment(1.0) that(0.0) would(0.0) impose(1.0) anything(0.0) against(0.0) the(0.0) Constitution(1.0) and(0.0) that(0.0) amendment(1.0) .(0.0) It(0.0) 
+clearly(0.0) supports(0.0) the(0.0) local(0.0) character(0.0) education(1.0) curriculum(1.0) ,(0.0) which(0.0) is(0.0) already(0.0) being(0.0) conducted(0.0) .(0.0) It(0.0) will(0.0) provide(0.0) grants(1.0) for(0.0) the(0.0) 
+instruction(0.0) ,(0.0) as(0.0) well(0.0) as(0.0) activities(0.0) .(0.0) And(0.0) these(0.0) are(0.0) things(0.0) that(0.0) have(0.0) withstood(0.0) constitutional(1.0) muster(0.0) so(0.0) far(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+amendment	impose	Constitution	amendment	
+education	curriculum	grants	
+constitutional	
+
+reads % = 0.13333333333333333

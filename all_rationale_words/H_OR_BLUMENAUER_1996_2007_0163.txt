@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) there(0.0) is(0.0) absolutely(0.0) nothing(0.0) cynical(0.0) about(0.0) the(0.0) delay(1.0) .(0.0) My(0.0) Republican(1.0) friends(1.0) need(1.0) some(1.0) time(1.0) to(1.0) get(1.0) their(1.0) 
+facts(1.0) straight(1.0) .(1.0) I(1.0) really(1.0) get(1.0) tired(1.0) about(1.0) hearing(1.0) these(1.0) phony(1.0) arguments(1.0) .(1.0) We(1.0) 're(0.0) going(0.0) to(0.0) be(0.0) covering(0.0) some(0.0) 
+adults(0.0) .(0.0) Why(0.0) are(0.0) we(0.0) covering(0.0) some(0.0) adults(0.0) ?(0.0) Because(0.0) the(0.0) Republican(1.0) administration(1.0) granted(1.0) State(1.0) waivers(1.0) for(1.0) some(1.0) States(1.0) to(1.0) 
+be(1.0) able(1.0) to(1.0) deal(1.0) with(1.0) some(1.0) experiments(1.0) to(1.0) add(0.0) to(0.0) them(0.0) ,(0.0) and(0.0) this(0.0) legislation(1.0) stops(1.0) the(0.0) ability(0.0) to(0.0) grant(1.0) 
+those(0.0) waivers(1.0) that(0.0) the(0.0) Bush(1.0) administration(1.0) enacted(1.0) .(0.0) We(0.0) 're(0.0) talking(0.0) about(0.0) it(0.0) should(0.0) be(0.0) just(0.0) poor(0.0) children(0.0) ,(0.0) and(0.0) 
+somehow(0.0) I(0.0) heard(0.0) somebody(0.0) talk(0.0) about(0.0) $(0.0) 200,000(0.0) levels(0.0) .(0.0) Hogwash(0.0) .(0.0) There(0.0) was(0.0) one(0.0) State(0.0) that(0.0) requested(0.0) a(0.0) waiver(1.0) 
+,(0.0) New(1.0) York(1.0) ,(0.0) that(0.0) would(0.0) have(0.0) taken(0.0) it(0.0) up(0.0) to(0.0) $(0.0) 83,000(0.0) .(0.0) That(0.0) was(0.0) denied(1.0) .(0.0) There(0.0) are(0.0) 
+a(0.0) number(0.0) of(0.0) States(0.0) ,(0.0) with(0.0) the(0.0) approval(0.0) of(0.0) the(0.0) Bush(1.0) administration(1.0) ,(0.0) that(0.0) have(0.0) raised(0.0) the(0.0) levels(0.0) .(0.0) New(0.0) 
+Jersey(1.0) at(0.0) $(0.0) 63,000(0.0) still(0.0) does(0.0) n't(0.0) hit(0.0) their(0.0) median(0.0) income(1.0) .(0.0) Only(0.0) one(0.0) out(0.0) of(0.0) 10(0.0) of(0.0) these(0.0) children(0.0) 
+are(0.0) in(0.0) family(0.0) incomes(1.0) of(0.0) over(0.0) $(0.0) 40,000(0.0) .(0.0) You(0.0) need(0.0) 2(0.0) weeks(0.0) to(0.0) get(0.0) your(0.0) facts(1.0) straight(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+delay	Republican	friends	need	some	time	to	get	their	
+facts	straight	.	I	really	get	tired	about	hearing	these	phony	arguments	.	We	
+Republican	administration	granted	State	waivers	for	some	States	to	
+be	able	to	deal	with	some	experiments	to	legislation	stops	grant	
+waivers	Bush	administration	enacted	
+waiver	
+New	York	denied	
+Bush	administration	
+Jersey	income	
+incomes	facts	
+
+reads % = 0.285

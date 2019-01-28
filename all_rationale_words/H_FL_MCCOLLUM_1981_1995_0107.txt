@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Absolutely(0.0) and(0.0) unquestionably(0.0) so(0.0) ,(0.0) and(0.0) in(0.0) addition(0.0) to(0.0) that(0.0) I(0.0) might(0.0) add(0.0) to(0.0) the(0.0) gentleman(0.0) that(0.0) a(0.0) Governor(0.0) of(0.0) a(0.0) 
+State(0.0) could(0.0) always(0.0) commute(0.0) .(0.0) That(0.0) power(0.0) exists(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+
+reads % = 0.0

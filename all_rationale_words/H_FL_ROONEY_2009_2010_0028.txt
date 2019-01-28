@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) rise(0.0) tonight(0.0) to(0.0) honor(0.0) the(0.0) varsity(0.0) boys(0.0) lacrosse(0.0) team(0.0) of(0.0) the(0.0) Benjamin(0.0) School(0.0) in(0.0) Palm(0.0) Beach(0.0) Gardens(0.0) 
+,(0.0) Florida(1.0) .(0.0) The(0.0) Benjamin(0.0) Buccaneers(1.0) won(0.0) the(0.0) Florida(0.0) State(0.0) lacrosse(0.0) championship(0.0) this(0.0) spring(0.0) against(0.0) Tampa(1.0) Jesuit(0.0) in(0.0) sudden(0.0) death(0.0) 
+overtime(0.0) .(0.0) Team(0.0) members(0.0) Matt(0.0) Ferris(1.0) ,(0.0) Scott(0.0) Fricker(1.0) ,(0.0) Kyle(0.0) Gilmore(1.0) ,(0.0) Taylor(0.0) Smith(1.0) ,(0.0) Nick(0.0) Gardner(1.0) ,(0.0) Josh(0.0) 
+Weinstein(1.0) ,(0.0) Dylan(0.0) Nugent(1.0) ,(0.0) Roby(0.0) Mendoza(1.0) ,(0.0) Justin(0.0) Boufford(1.0) ,(0.0) Scott(0.0) Slawson(1.0) ,(0.0) Ryan(0.0) O'Hare(1.0) ,(0.0) Philip(0.0) Benz(0.0) ,(0.0) 
+Nick(0.0) Krar(1.0) ,(0.0) Robby(0.0) Dattolo(0.0) ,(0.0) Josh(0.0) Stauffer(0.0) ,(0.0) Charlie(0.0) Collins(1.0) ,(0.0) Colby(0.0) Kempe(0.0) ,(0.0) Robert(0.0) Jacobs(1.0) ,(0.0) Evan(0.0) Wesselman(0.0) 
+,(0.0) Jay(0.0) Ford(0.0) and(0.0) Charlie(0.0) Nicklaus(1.0) played(0.0) with(0.0) great(0.0) determination(0.0) and(0.0) heart(0.0) throughout(0.0) the(0.0) grueling(0.0) tournament(0.0) weekend(0.0) to(0.0) come(0.0) from(0.0) 
+behind(0.0) in(0.0) the(0.0) semifinals(0.0) to(0.0) beat(0.0) defending(0.0) State(0.0) champions(0.0) and(0.0) local(0.0) rival(0.0) Dwyer(0.0) High(0.0) 18-16(0.0) to(0.0) earn(0.0) their(0.0) spot(0.0) against(0.0) 
+Tampa(1.0) Jesuit(0.0) in(0.0) the(0.0) finals(0.0) .(0.0) The(0.0) championship(0.0) game(0.0) was(0.0) a(0.0) hard(0.0) fought(0.0) see-saw(0.0) scoring(0.0) battle(0.0) with(0.0) the(0.0) score(0.0) tied(0.0) 
+eleven(0.0) all(0.0) at(0.0) the(0.0) end(0.0) of(0.0) the(0.0) fourth(0.0) quarter(0.0) .(0.0) Benjamin's(0.0) Josh(0.0) Stauffer(1.0) scored(0.0) the(0.0) game-winning(0.0) goal(0.0) just(0.0) 42(0.0) seconds(0.0) 
+into(0.0) overtime(0.0) .(0.0) I(0.0) am(0.0) proud(0.0) to(0.0) congratulate(0.0) the(0.0) Bucs(1.0) and(0.0) Coach(0.0) Cheatham(0.0) on(0.0) their(0.0) first(0.0) of(0.0) many(0.0) State(0.0) championships(0.0) 
+.(0.0) Go(0.0) Bucs(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Florida	Buccaneers	Tampa	
+Ferris	Fricker	Gilmore	Smith	Gardner	
+Weinstein	Nugent	Mendoza	Boufford	Slawson	O'Hare	
+Krar	Collins	Jacobs	
+Nicklaus	
+
+Tampa	
+Stauffer	
+Bucs	
+
+
+reads % = 0.1024390243902439

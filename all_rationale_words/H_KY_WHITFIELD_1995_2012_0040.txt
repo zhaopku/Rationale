@@ -1,0 +1,20 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) rise(0.0) to(0.0) claim(0.0) time(0.0) in(0.0) opposition(1.0) to(0.0) the(0.0) gentleman's(0.0) amendment(1.0) .(0.0) The(0.0) Acting(0.0) CHAIR(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) Kentucky(1.0) is(0.0) 
+recognized(0.0) for(0.0) 5(0.0) minutes(0.0) .(0.0) I(0.0) stand(0.0) in(0.0) opposition(1.0) to(0.0) the(0.0) gentleman(0.0) 's(0.0) amendment(1.0) very(0.0) simply(0.0) because(0.0) we(0.0) know(0.0) that(0.0) 
+the(0.0) Clean(1.0) Air(1.0) Act(0.0) --(0.0) under(0.0) the(0.0) greenhouse(1.0) gas(1.0) regulations(1.0) as(0.0) proposed(0.0) by(0.0) EPA(1.0) ,(0.0) it(0.0) will(0.0) be(0.0) impossible(0.0) to(0.0) 
+build(0.0) a(0.0) new(0.0) coal-powered(1.0) plant(0.0) in(0.0) America(1.0) .(0.0) Because(0.0) of(0.0) that(0.0) ,(0.0) we(0.0) 're(0.0) going(0.0) to(0.0) lose(0.0) a(0.0) lot(0.0) of(0.0) 
+jobs(0.0) in(0.0) this(0.0) country(1.0) .(0.0) At(0.0) this(0.0) time(0.0) ,(0.0) I(0.0) yield(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) 
+Pennsylvania(1.0) ((0.0) Mr.(0.0) Kelly(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+opposition	amendment	Kentucky	
+opposition	amendment	
+Clean	Air	greenhouse	gas	regulations	EPA	
+coal-powered	America	
+country	
+Pennsylvania	Kelly	
+
+reads % = 0.14953271028037382

@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) offer(0.0) a(0.0) simple(0.0) amendment(1.0) that(0.0) subtracts(0.0) $(0.0) 1(0.0) million(0.0) from(0.0) the(0.0) San(1.0) Francisco(1.0) Muni(1.0) Third(1.0) Street(1.0) Light(1.0) Rail(1.0) Project(0.0) and(0.0) 
+adds(0.0) that(0.0) amount(0.0) to(0.0) the(0.0) Silicon(1.0) Valley(0.0) Rapid(0.0) Transit(1.0) Corridor(1.0) Project(0.0) .(0.0) The(0.0) Silicon(1.0) Valley(0.0) Rapid(0.0) Transit(1.0) Corridor(1.0) Project(0.0) is(0.0) 
+a(0.0) meritorious(0.0) project(0.0) that(0.0) deserves(0.0) Federal(1.0) funding(1.0) .(0.0) It(0.0) will(0.0) connect(0.0) BART(1.0) with(0.0) the(0.0) highly(0.0) frequented(0.0) Santa(0.0) Clara(0.0) County(1.0) destinations(0.0) 
+,(0.0) including(0.0) Santa(0.0) Clara(0.0) County(1.0) 's(0.0) light(0.0) rail(0.0) system(0.0) ,(0.0) ACE(0.0) rail(1.0) system(0.0) ,(0.0) Cal(1.0) Train(0.0) 's(0.0) San(1.0) Jose(0.0) Station(0.0) 
+,(0.0) the(0.0) planned(0.0) people(0.0) mover(0.0) at(0.0) the(0.0) Norman(1.0) Y.(0.0) Mineta(1.0) San(1.0) Jose(0.0) Airport(0.0) ,(0.0) and(0.0) thousands(0.0) of(0.0) Silicon(1.0) Valley(0.0) employers(1.0) 
+.(0.0) In(0.0) addition(0.0) ,(0.0) this(0.0) project(0.0) is(0.0) the(0.0) last(0.0) link(0.0) needed(0.0) to(0.0) complete(0.0) the(0.0) connection(0.0) of(0.0) all(0.0) the(0.0) region(0.0) 's(0.0) 
+rail(0.0) systems(0.0) around(0.0) San(1.0) Francisco(1.0) Bay(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) am(0.0) honored(0.0) and(0.0) thankful(0.0) that(0.0) the(0.0) gentlewoman(0.0) from(0.0) California(0.0) 
+((0.0) Ms.(1.0) Pelosi(1.0) )(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Oklahoma(0.0) ((0.0) Mr.(0.0) Istook(1.0) )(0.0) and(1.0) the(0.0) gentleman(0.0) from(0.0) Massachusetts(1.0) ((0.0) Mr.(0.0) 
+Olver(1.0) )(0.0) support(1.0) this(1.0) effort(1.0) ,(0.0) and(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) this(0.0) amendment(1.0) as(0.0) well(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+amendment	San	Francisco	Muni	Third	Street	Light	Rail	
+Silicon	Transit	Corridor	Silicon	Transit	Corridor	
+Federal	funding	BART	County	
+County	rail	Cal	San	
+Norman	Mineta	San	Silicon	employers	
+
+San	Francisco	Bay	Chairman	
+Ms.	Pelosi	Istook	and	Massachusetts	
+Olver	support	this	effort	amendment	
+
+reads % = 0.22905027932960895

@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(1.0) ,(0.0) I(0.0) rise(1.0) to(0.0) tell(0.0) my(0.0) colleagues(1.0) of(0.0) the(0.0) good(0.0) bipartisan(0.0) bill(0.0) that(0.0) was(0.0) crafted(1.0) by(0.0) the(0.0) Financial(0.0) Services(0.0) Committee(0.0) 
+,(0.0) by(0.0) Chairman(1.0) Oxley(1.0) and(0.0) by(0.0) ranking(1.0) member(0.0) Barney(1.0) Frank(1.0) .(0.0) The(0.0) members(1.0) of(0.0) that(0.0) committee(0.0) crafted(1.0) a(0.0) bill(0.0) that(0.0) 
+passed(0.0) the(0.0) committee(0.0) on(0.0) a(0.0) vote(1.0) of(0.0) 65-5(1.0) that(0.0) would(1.0) finally(0.0) create(0.0) a(0.0) tough(0.0) new(0.0) regulator(1.0) for(0.0) the(0.0) Federal(1.0) housing(1.0) 
+GSEs(0.0) and(0.0) the(0.0) Federal(1.0) Home(1.0) Loan(0.0) Banks(0.0) ,(0.0) something(0.0) that(0.0) was(0.0) needed(0.0) after(0.0) some(0.0) accounting(1.0) missteps(1.0) at(0.0) the(0.0) GSEs(0.0) .(0.0) 
+At(0.0) the(0.0) same(1.0) time(0.0) ,(0.0) this(0.0) bill(0.0) also(1.0) created(0.0) a(0.0) massive(0.0) new(1.0) Federal(1.0) housing(1.0) trust(0.0) fund(1.0) ,(0.0) using(0.0) a(0.0) percentage(0.0) 
+of(0.0) the(0.0) profits(1.0) of(0.0) these(1.0) housing(1.0) GSEs(0.0) to(0.0) ensure(0.0) a(0.0) new(0.0) stock(0.0) of(0.0) affordable(1.0) housing(1.0) in(0.0) every(0.0) section(0.0) of(0.0) this(0.0) 
+country(1.0) and(0.0) providing(0.0) millions(1.0) of(0.0) families(0.0) the(0.0) opportunity(0.0) of(0.0) attaining(1.0) the(0.0) American(0.0) dream(1.0) of(0.0) homeownership(1.0) .(0.0) But(0.0) that(0.0) is(0.0) not(1.0) 
+the(0.0) bill(0.0) that(0.0) is(0.0) before(1.0) us(0.0) under(0.0) this(0.0) manager(0.0) 's(0.0) amendment(1.0) .(0.0) This(0.0) bill(0.0) went(0.0) before(1.0) the(0.0) Committee(0.0) on(0.0) Rules(0.0) 
+where(0.0) it(0.0) was(0.0) hijacked(1.0) by(0.0) the(0.0) extremist(1.0) wing(1.0) of(0.0) the(0.0) Republican(1.0) Party(1.0) that(0.0) holds(1.0) a(0.0) grip(0.0) over(0.0) the(0.0) House(0.0) of(0.0) 
+Representatives(0.0) .(0.0) They(0.0) added(0.0) language(0.0) to(0.0) ban(0.0) churches(1.0) and(0.0) other(0.0) houses(1.0) of(0.0) worship(1.0) the(0.0) ability(0.0) to(0.0) tap(1.0) into(0.0) these(0.0) funds(1.0) 
+if(0.0) they(0.0) take(0.0) part(0.0) in(0.0) any(1.0) type(0.0) of(0.0) nonpartisan(1.0) voter(1.0) activity(0.0) ,(0.0) such(0.0) as(0.0) helping(1.0) register(0.0) people(0.0) to(0.0) vote(1.0) or(0.0) 
+taking(0.0) people(0.0) to(0.0) the(0.0) polls(1.0) .(0.0) What(0.0) this(0.0) bill(0.0) really(0.0) is(0.0) is(0.0) an(0.0) utter(1.0) disregard(1.0) for(0.0) our(0.0) Constitution(0.0) .(0.0) This(0.0) 
+is(0.0) not(1.0) a(0.0) gray(1.0) area(0.0) .(0.0) This(0.0) is(0.0) a(0.0) limitation(0.0) on(0.0) free(1.0) speech(0.0) .(0.0) I(0.0) am(1.0) amazed(1.0) that(0.0) the(0.0) same(1.0) 
+people(0.0) who(0.0) champion(1.0) legislation(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) North(0.0) Carolina(0.0) ((0.0) Mr.(0.0) Jones(1.0) )(0.0) known(0.0) as(0.0) the(0.0) Houses(0.0) of(0.0) Worship(0.0) 
+Free(0.0) Speech(0.0) Restoration(0.0) Act(0.0) ,(0.0) which(0.0) would(0.0) allow(0.0) churches(1.0) and(0.0) other(0.0) houses(1.0) of(0.0) worship(1.0) to(0.0) discuss(0.0) politics(1.0) and(0.0) endorse(1.0) candidates(1.0) 
+from(0.0) the(0.0) pulpit(1.0) without(0.0) losing(0.0) their(0.0) tax-exempt(1.0) status(0.0) ,(0.0) will(0.0) now(0.0) be(0.0) the(0.0) same(1.0) people(0.0) who(0.0) are(0.0) stripping(1.0) their(0.0) churches(1.0) 
+from(0.0) any(1.0) of(0.0) this(0.0) funding(1.0) to(0.0) help(0.0) their(0.0) congregations(1.0) .(0.0) This(0.0) bill(0.0) could(0.0) be(0.0) the(0.0) greatest(0.0) housing(1.0) construction(1.0) legislation(0.0) ever(0.0) 
+passed(0.0) by(0.0) Congress(0.0) and(0.0) will(0.0) help(0.0) people(0.0) in(0.0) every(0.0) district(1.0) in(0.0) America(0.0) and(0.0) benefit(0.0) almost(0.0) every(0.0) church(0.0) and(0.0) house(0.0) of(0.0) 
+worship(1.0) in(0.0) our(0.0) country(1.0) ,(0.0) but(0.0) the(0.0) far(1.0) right(1.0) wing(1.0) is(0.0) opposed(1.0) to(0.0) it(0.0) .(0.0) They(0.0) are(0.0) hypocritically(1.0) opposed(1.0) to(0.0) 
+it(0.0) and(0.0) so(0.0) stuck(1.0) in(0.0) ideology(1.0) that(0.0) they(0.0) refuse(1.0) to(0.0) debate(1.0) this(0.0) bill(0.0) for(0.0) the(0.0) issue(0.0) it(0.0) is(0.0) .(0.0) Like(1.0) 
+scared(1.0) children(0.0) ,(0.0) they(0.0) tuck(1.0) the(0.0) provisions(1.0) into(0.0) the(0.0) manager's(0.0) amendment(1.0) and(0.0) refuse(1.0) any(1.0) opportunity(0.0) in(0.0) the(0.0) rule(0.0) to(0.0) strike(0.0) 
+it(0.0) because(0.0) they(0.0) know(0.0) they(0.0) can(1.0) not(0.0) win(0.0) .(0.0) We(0.0) are(0.0) a(0.0) religious(0.0) country(1.0) and(0.0) we(0.0) have(0.0) many(0.0) members(1.0) of(0.0) 
+the(0.0) cloth(0.0) in(0.0) Congress(0.0) ,(0.0) most(1.0) of(0.0) whom(1.0) ,(0.0) I(0.0) point(0.0) out(0.0) ,(0.0) are(0.0) Democrats(1.0) ,(0.0) and(0.0) the(0.0) far(0.0) right(1.0) 
+knows(0.0) that(0.0) their(0.0) anti-religious(1.0) language(0.0) can(0.0) not(0.0) pass(1.0) on(0.0) the(0.0) merits(0.0) .(0.0) That(0.0) is(0.0) why(0.0) I(0.0) regretfully(1.0) ask(0.0) all(0.0) members(1.0) 
+of(0.0) faith(0.0) and(0.0) all(0.0) Members(0.0) who(0.0) respect(1.0) the(0.0) independence(1.0) of(0.0) religion(1.0) and(0.0) the(0.0) pulpit(1.0) to(0.0) oppose(1.0) the(0.0) manager(0.0) 's(0.0) 
+
+
+----- below are rationale words -----
+
+rise	colleagues	crafted	
+Chairman	Oxley	ranking	Barney	Frank	members	crafted	
+vote	65-5	would	regulator	Federal	housing	
+Federal	Home	accounting	missteps	
+same	also	new	Federal	housing	fund	
+profits	these	housing	affordable	housing	
+country	millions	attaining	dream	homeownership	not	
+before	amendment	before	
+hijacked	extremist	wing	Republican	Party	holds	
+churches	houses	worship	tap	funds	
+any	nonpartisan	voter	helping	vote	
+polls	utter	disregard	
+not	gray	free	am	amazed	same	
+champion	Jones	
+churches	houses	worship	politics	endorse	candidates	
+pulpit	tax-exempt	same	stripping	churches	
+any	funding	congregations	housing	construction	
+district	
+worship	country	far	right	wing	opposed	hypocritically	opposed	
+stuck	ideology	refuse	debate	Like	
+scared	tuck	provisions	amendment	refuse	any	
+can	country	members	
+most	whom	Democrats	right	
+anti-religious	pass	regretfully	members	
+respect	independence	religion	pulpit	oppose	
+
+reads % = 0.238

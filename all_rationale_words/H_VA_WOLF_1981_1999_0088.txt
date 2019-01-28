@@ -1,0 +1,24 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) before(0.0) I(0.0) close(0.0) ,(0.0) let(0.0) me(0.0) just(0.0) also(0.0) again(0.0) thank(0.0) all(0.0) the(0.0) Members(0.0) for(0.0) their(0.0) help(0.0) and(0.0) their(0.0) 
+support(0.0) in(0.0) working(0.0) on(0.0) this(0.0) very(0.0) important(0.0) bill(1.0) .(0.0) We(0.0) had(0.0) emphasized(0.0) safety(0.0) ,(0.0) which(0.0) I(0.0) think(0.0) has(0.0) been(0.0) addressed(0.0) 
+very(0.0) ,(0.0) very(0.0) well(0.0) .(0.0) I(0.0) again(0.0) want(0.0) to(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Minnesota(1.0) ((0.0) Mr.(0.0) Sabo(1.0) )(0.0) ,(0.0) and(0.0) 
+I(0.0) want(0.0) to(0.0) thank(0.0) the(0.0) staff(0.0) members(0.0) .(0.0) John(0.0) Blazey(1.0) ,(0.0) who(0.0) did(0.0) an(0.0) outstanding(0.0) job(0.0) ;(0.0) along(0.0) with(0.0) Rich(0.0) 
+Efford(1.0) ,(0.0) Stephanie(0.0) Gupta(1.0) ;(0.0) Linda(1.0) Muir(1.0) ;(0.0) and(0.0) David(0.0) Whitestone(1.0) from(0.0) my(0.0) office(0.0) ;(0.0) Cheryl(0.0) Smith(1.0) from(0.0) Mr.(0.0) Sabo(1.0) 
+'s(0.0) side(0.0) ;(0.0) Marjorie(0.0) Duske(0.0) .(0.0) Also(0.0) from(0.0) the(0.0) Senate(0.0) side(0.0) ,(0.0) because(0.0) we(0.0) worked(0.0) with(0.0) them(0.0) ,(0.0) Wally(0.0) Burnett(1.0) 
+,(0.0) Joyce(0.0) Rose(1.0) ,(0.0) Paul(0.0) Doerrer(0.0) ,(0.0) Peter(0.0) Rogoff(1.0) ,(0.0) and(0.0) Denise(0.0) Matthews(1.0) .(0.0) I(0.0) just(0.0) want(0.0) to(0.0) thank(0.0) all(0.0) 
+of(0.0) them(0.0) .(0.0) It(0.0) has(0.0) been(0.0) a(0.0) long(0.0) ,(0.0) hard(0.0) effort(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	
+bill	
+Minnesota	Sabo	
+Blazey	
+Efford	Gupta	Linda	Muir	Whitestone	Smith	Sabo	
+Burnett	
+Rose	Rogoff	Matthews	
+effort	
+
+reads % = 0.1111111111111111

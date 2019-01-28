@@ -1,0 +1,40 @@
+This is from a Republican
+----- below is the original text -----
+Yesterday(0.0) ,(0.0) I(0.0) testified(0.0) to(0.0) have(0.0) a(0.0) limitation(0.0) amendment(1.0) made(0.0) in(0.0) order(0.0) prior(0.0) to(0.0) the(0.0) preferential(1.0) motion(0.0) to(0.0) rise(1.0) .(0.0) My(0.0) 
+amendment(1.0) to(0.0) the(0.0) Commerce(0.0) ,(0.0) Justice(1.0) ,(0.0) State(1.0) appropriations(0.0) bill(0.0) would(1.0) have(0.0) allowed(0.0) no(0.0) funds(0.0) to(0.0) be(0.0) made(0.0) available(0.0) to(0.0) 
+carry(0.0) out(0.0) the(0.0) return(0.0) to(0.0) Mexico(1.0) of(0.0) any(0.0) Mexican(1.0) national(1.0) who(0.0) is(0.0) a(0.0) prisoner(0.0) convicted(0.0) of(0.0) a(0.0) felony(0.0) in(0.0) the(0.0) 
+United(0.0) States(0.0) without(0.0) a(0.0) final(0.0) order(0.0) of(0.0) deportation(1.0) .(0.0) Under(0.0) a(0.0) 1977(0.0) treaty(1.0) between(0.0) the(0.0) United(0.0) States(0.0) and(0.0) Mexico(0.0) ,(0.0) 
+Mexican(1.0) nationals(0.0) convicted(1.0) of(0.0) an(0.0) felony(0.0) in(0.0) the(0.0) United(0.0) States(0.0) may(0.0) be(0.0) returned(0.0) to(0.0) Mexico(1.0) to(0.0) complete(0.0) their(0.0) sentences(0.0) if(0.0) 
+they(0.0) request(0.0) it(0.0) .(0.0) While(0.0) this(0.0) can(0.0) alleviate(0.0) some(0.0) prison(1.0) overcrowding(1.0) ,(0.0) unfortunately(0.0) most(0.0) transfers(0.0) are(0.0) being(0.0) done(0.0) on(0.0) a(0.0) 
+voluntary(0.0) departure(0.0) basis(0.0) rather(0.0) than(0.0) on(0.0) a(0.0) formal(0.0) order(0.0) of(0.0) deportation(1.0) .(0.0) There(0.0) are(0.0) immigration(1.0) consequences(1.0) to(0.0) this(0.0) shortcut(0.0) .(0.0) 
+Persons(0.0) who(0.0) voluntarily(0.0) depart(0.0) can(0.0) keep(0.0) illegally(0.0) re-entering(0.0) the(0.0) United(0.0) States(0.0) without(0.0) threat(1.0) of(0.0) serious(0.0) penalties(1.0) .(0.0) Formal(0.0) deportation(1.0) ,(0.0) 
+however(0.0) ,(0.0) carries(0.0) the(0.0) threat(1.0) of(0.0) 15-year(1.0) imprisonment(1.0) for(0.0) those(0.0) who(0.0) break(0.0) the(0.0) law(1.0) and(0.0) re-enter(0.0) .(0.0) The(0.0) re-entry(1.0) penalty(0.0) 
+was(0.0) enacted(0.0) to(0.0) be(0.0) a(0.0) strong(0.0) deterrent(0.0) to(0.0) criminal(1.0) aliens(1.0) who(0.0) have(0.0) been(0.0) deported(1.0) from(0.0) our(0.0) country(1.0) .(0.0) There(0.0) 's(0.0) 
+no(0.0) use(0.0) in(0.0) having(0.0) a(0.0) strong(0.0) deterrent(0.0) law(1.0) on(0.0) the(0.0) books(0.0) if(0.0) we(0.0) are(0.0) going(0.0) to(0.0) circumvent(1.0) it(0.0) by(0.0) allowing(0.0) 
+voluntary(1.0) departure(0.0) for(0.0) criminal(1.0) aliens(1.0) who(0.0) should(0.0) be(0.0) deported(1.0) .(0.0) Since(0.0) I(0.0) can(0.0) not(0.0) offer(0.0) my(0.0) amendment(1.0) before(0.0) the(0.0) preferential(1.0) 
+motion(0.0) to(0.0) rise(1.0) ,(0.0) I(0.0) am(0.0) supporting(0.0) the(0.0) attempt(1.0) to(0.0) defeat(1.0) the(0.0) preferential(1.0) motion(0.0) to(0.0) rise(1.0) by(0.0) Representatives(1.0) Lightfoot(1.0) and(0.0) 
+Livingston(0.0) and(0.0) urge(0.0) other(0.0) Members(0.0) to(0.0) do(0.0) so(0.0) as(0.0) well(0.0) .(0.0) If(0.0) this(0.0) motion(1.0) is(0.0) defeated(1.0) then(0.0) I(0.0) intend(0.0) to(0.0) 
+offer(0.0) my(0.0) limitation(0.0) amendment(1.0) to(0.0) clarify(0.0) what(0.0) the(0.0) Nation(1.0) 's(0.0) priorities(1.0) should(0.0) be(0.0) in(0.0) the(0.0) handling(0.0) of(0.0) these(0.0) transfers(0.0) of(0.0) 
+criminal(1.0) aliens(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+amendment	preferential	rise	
+amendment	Justice	State	would	
+Mexico	Mexican	national	
+deportation	treaty	
+Mexican	convicted	Mexico	
+prison	overcrowding	
+deportation	immigration	consequences	
+threat	penalties	deportation	
+threat	15-year	imprisonment	law	re-entry	
+criminal	aliens	deported	country	
+law	circumvent	
+voluntary	criminal	aliens	deported	amendment	preferential	
+rise	attempt	defeat	preferential	rise	Representatives	Lightfoot	
+motion	defeated	
+amendment	Nation	priorities	
+criminal	aliens	
+
+reads % = 0.17763157894736842

@@ -1,0 +1,44 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) the(0.0) chairman(0.0) for(0.0) his(0.0) diligent(0.0) work(0.0) on(0.0) this(0.0) bill(1.0) and(0.0) also(0.0) Mr.(0.0) Stearns(1.0) for(1.0) his(0.0) 
+leadership(0.0) as(0.0) we(0.0) worked(0.0) through(0.0) these(0.0) issues(0.0) in(0.0) committee(0.0) .(0.0) And(0.0) I(0.0) do(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) the(0.0) Radio(0.0) Spectrum(0.0) 
+Inventory(0.0) Act(0.0) .(0.0) In(0.0) committee(0.0) ,(0.0) I(0.0) highlighted(0.0) the(0.0) importance(0.0) of(0.0) listening(0.0) to(0.0) the(0.0) engineers(0.0) as(0.0) we(0.0) move(0.0) forward(0.0) on(0.0) 
+our(0.0) spectrum(1.0) inventory(0.0) .(0.0) And(0.0) today(0.0) I(0.0) want(0.0) to(0.0) talk(0.0) about(0.0) the(0.0) importance(0.0) of(0.0) this(0.0) bill(1.0) to(0.0) the(0.0) wireless(0.0) industry(0.0) 
+.(0.0) America(1.0) 's(0.0) wireless(0.0) industry(0.0) is(0.0) the(0.0) undisputed(0.0) world(0.0) leader(0.0) ,(0.0) and(0.0) Mr.(0.0) Stearns(1.0) and(0.0) Mr.(0.0) Markey(1.0) have(0.0) both(0.0) highlighted(0.0) 
+portions(0.0) of(0.0) that(0.0) as(0.0) we(0.0) have(0.0) played(0.0) with(0.0) our(0.0) devices(0.0) during(0.0) Mr.(0.0) Markey(1.0) 's(0.0) remarks(0.0) focusing(0.0) on(0.0) the(0.0) innovations(0.0) that(0.0) 
+have(0.0) come(0.0) our(0.0) way(0.0) .(0.0) Americans(1.0) pay(1.0) less(0.0) per(0.0) minute(0.0) for(0.0) the(0.0) use(0.0) of(0.0) wireless(0.0) services(0.0) than(0.0) users(0.0) in(0.0) Europe(1.0) 
+or(0.0) Asia(0.0) .(0.0) And(0.0) despite(0.0) having(0.0) just(0.0) 7(0.0) percent(0.0) of(0.0) the(0.0) global(1.0) wireless(0.0) subscribers(0.0) ,(0.0) America(1.0) 's(0.0) wireless(0.0) companies(0.0) serve(0.0) 
+more(0.0) than(0.0) 21(0.0) percent(0.0) of(0.0) global(1.0) 3G(0.0) subscribers(0.0) .(0.0) Handsets(0.0) and(0.0) applications(0.0) that(0.0) can(0.0) be(0.0) launched(0.0) anywhere(0.0) in(0.0) the(0.0) world(0.0) 
+routinely(0.0) appear(0.0) in(0.0) the(0.0) U.S.(0.0) market(0.0) first(0.0) .(0.0) Unfortunately(0.0) ,(0.0) our(0.0) position(0.0) in(0.0) the(0.0) global(1.0) marketplace(0.0) is(0.0) not(0.0) something(0.0) that(0.0) 
+is(0.0) guaranteed(0.0) to(0.0) us(0.0) ,(0.0) and(0.0) without(0.0) careful(0.0) attention(0.0) to(0.0) support(0.0) the(0.0) need(0.0) of(0.0) the(0.0) growth(1.0) of(0.0) the(0.0) wireless(0.0) industry(0.0) 
+through(0.0) the(0.0) release(0.0) of(0.0) additional(0.0) spectrum(1.0) ,(0.0) we(0.0) risk(0.0) ceding(1.0) that(0.0) important(0.0) leadership(0.0) to(0.0) nations(1.0) that(0.0) have(0.0) already(0.0) identified(0.0) substantial(0.0) 
+swaths(1.0) of(0.0) spectrum(1.0) that(0.0) will(0.0) be(0.0) made(0.0) available(0.0) for(0.0) commercial(1.0) use(0.0) .(0.0) That(0.0) is(0.0) why(0.0) the(0.0) Radio(0.0) Spectrum(0.0) Inventory(0.0) Act(0.0) 
+is(0.0) so(0.0) very(0.0) important(0.0) by(0.0) providing(0.0) a(0.0) road(0.0) map(0.0) for(0.0) policymakers(1.0) regarding(0.0) where(0.0) we(0.0) may(0.0) find(0.0) additional(0.0) spectrum(1.0) that(0.0) can(0.0) 
+be(0.0) used(0.0) for(0.0) wireless(0.0) broadband(0.0) services(0.0) in(0.0) the(0.0) U.S(1.0) .(0.0) Enactment(1.0) of(0.0) H.R(0.0) .(0.0) 3125(0.0) will(0.0) help(0.0) ensure(0.0) that(0.0) the(0.0) 
+U.S.(0.0) is(0.0) in(0.0) a(0.0) position(0.0) to(0.0) match(0.0) ,(0.0) and(0.0) hopefully(0.0) surpass(0.0) ,(0.0) our(0.0) trading(0.0) partners(0.0) by(0.0) making(0.0) additional(0.0) spectrum(1.0) available(0.0) 
+for(0.0) commercial(0.0) use(0.0) .(0.0) I(0.0) urge(0.0) support(0.0) of(0.0) the(0.0) legislation(1.0) .(0.0) I(0.0) would(0.0) yield(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Virginia(1.0) and(0.0) 
+ask(0.0) permission(0.0) for(0.0) the(0.0) colloquy(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+bill	Stearns	for	
+
+
+spectrum	bill	
+America	Stearns	Markey	
+Markey	
+Americans	pay	Europe	
+global	America	
+global	
+global	
+growth	
+spectrum	ceding	nations	
+swaths	spectrum	commercial	
+policymakers	spectrum	
+U.S	Enactment	
+spectrum	
+legislation	Virginia	
+colloquy	
+
+reads % = 0.0893371757925072

@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) thank(0.0) the(0.0) chairman(0.0) for(0.0) introducing(0.0) this(0.0) resolution(1.0) honoring(1.0) those(0.0) who(0.0) have(0.0) served(0.0) in(0.0) the(0.0) Armed(0.0) Forces(0.0) and(0.0) 
+for(0.0) honoring(1.0) me(0.0) to(0.0) be(0.0) a(0.0) cosponsor(1.0) with(0.0) him(0.0) in(0.0) that(0.0) legislation(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) next(0.0) week(0.0) is(0.0) Memorial(1.0) 
+Day(0.0) ,(0.0) and(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) support(0.0) of(0.0) House(0.0) Resolution(1.0) 1385(1.0) to(0.0) recognize(0.0) and(0.0) honor(0.0) the(0.0) courage(0.0) and(0.0) sacrifice(0.0) 
+of(0.0) the(0.0) members(0.0) of(0.0) the(0.0) Armed(0.0) Forces(0.0) and(0.0) the(0.0) veterans(0.0) of(0.0) our(0.0) wars(1.0) .(0.0) In(0.0) the(0.0) clearly(0.0) defined(0.0) wars(1.0) against(0.0) 
+tyranny(1.0) ,(0.0) in(0.0) the(0.0) controversial(1.0) conflicts(1.0) not(0.0) appreciated(0.0) until(0.0) the(0.0) guns(1.0) long(0.0) fell(0.0) silent(0.0) ,(0.0) in(0.0) the(0.0) limited(0.0) actions(0.0) unknown(0.0) 
+by(0.0) anyone(0.0) not(0.0) there(0.0) ,(0.0) the(0.0) American(0.0) Armed(1.0) Forces(0.0) have(0.0) time(0.0) and(0.0) again(0.0) answered(0.0) the(0.0) call(0.0) of(0.0) duty(1.0) .(0.0) When(0.0) 
+our(0.0) fighting(1.0) men(1.0) and(0.0) women(0.0) put(0.0) on(0.0) their(0.0) uniforms(0.0) ,(0.0) they(0.0) became(0.0) immune(0.0) to(0.0) politics(1.0) and(0.0) marched(0.0) towards(0.0) the(0.0) sound(0.0) 
+of(0.0) the(0.0) guns(1.0) ,(0.0) going(0.0) wherever(0.0) their(0.0) orders(0.0) sent(0.0) them(0.0) .(0.0) We(0.0) call(0.0) them(0.0) specialist(0.0) ,(0.0) corporal(0.0) ,(0.0) airman(0.0) ,(0.0) 
+and(0.0) petty(0.0) officer(0.0) .(0.0) They(0.0) are(0.0) our(0.0) own(0.0) children(0.0) .(0.0) These(0.0) young(0.0) Americans(1.0) represent(0.0) the(0.0) best(0.0) in(0.0) all(0.0) of(0.0) us(0.0) 
+because(0.0) ,(0.0) while(0.0) America(1.0) will(0.0) always(0.0) fight(1.0) for(0.0) those(0.0) who(0.0) can(0.0) not(0.0) fight(1.0) for(0.0) themselves(0.0) ,(0.0) it(0.0) is(0.0) their(0.0) faces(0.0) 
+that(0.0) America(1.0) sends(0.0) to(0.0) the(0.0) aid(1.0) of(0.0) the(0.0) broken(0.0) ,(0.0) wounded(0.0) ,(0.0) and(0.0) starving(1.0) of(0.0) the(0.0) world(0.0) .(0.0) In(0.0) the(0.0) 
+cold(0.0) winter(0.0) of(0.0) Valley(0.0) Forge(0.0) ,(0.0) across(0.0) the(0.0) deserts(0.0) to(0.0) Tripoli(1.0) ,(0.0) fighting(1.0) against(0.0) their(0.0) brothers(0.0) in(0.0) the(0.0) Civil(1.0) War(0.0) 
+,(0.0) across(0.0) the(0.0) wheat(0.0) fields(0.0) of(0.0) France(0.0) ,(0.0) on(0.0) the(0.0) beaches(0.0) of(0.0) Normandy(0.0) ,(0.0) in(0.0) the(0.0) freezing(0.0) Korean(0.0) winter(0.0) ,(0.0) 
+in(0.0) the(0.0) jungles(0.0) of(0.0) Vietnam(0.0) ,(0.0) and(0.0) in(0.0) the(0.0) burning(0.0) sands(1.0) of(0.0) Iraq(1.0) and(0.0) Afghanistan(0.0) ,(0.0) what(0.0) has(0.0) set(0.0) our(0.0) 
+Armed(1.0) Forces(0.0) apart(0.0) is(0.0) their(0.0) commitment(0.0) to(0.0) a(0.0) moral(1.0) war(0.0) ,(0.0) a(0.0) just(0.0) war(1.0) ,(0.0) an(0.0) American(0.0) way(0.0) of(0.0) war(1.0) 
+.(0.0) Americans(1.0) make(0.0) the(0.0) distinction(0.0) between(0.0) our(0.0) enemies(1.0) and(0.0) the(0.0) innocent(1.0) bystanders(0.0) .(0.0) And(0.0) once(0.0) our(0.0) enemies(1.0) lay(0.0) down(0.0) their(0.0) 
+arms(0.0) ,(0.0) our(0.0) forces(1.0) provide(0.0) them(0.0) food(1.0) ,(0.0) shelter(1.0) ,(0.0) and(0.0) medical(1.0) aid(0.0) .(0.0) And(0.0) when(0.0) the(0.0) fighting(1.0) stops(0.0) completely(0.0) 
+,(0.0) our(0.0) forces(1.0) help(0.0) to(0.0) rebuild(1.0) war-torn(1.0) nations(1.0) ,(0.0) turning(0.0) bitter(0.0) enemies(0.0) into(0.0) great(0.0) industrialized(1.0) allies(1.0) of(0.0) today(0.0) .(0.0) Since(0.0) 
+1775(0.0) ,(0.0) and(0.0) across(0.0) the(0.0) world(0.0) today(0.0) ,(0.0) our(0.0) Armed(1.0) Forces(0.0) and(0.0) veterans(1.0) symbolize(0.0) all(0.0) that(0.0) is(0.0) best(0.0) in(0.0) us(0.0) 
+as(0.0) Americans(1.0) .(0.0) The(0.0) American(0.0) Armed(1.0) Forces(0.0) are(0.0) just(0.0) as(0.0) eager(0.0) to(0.0) help(0.0) feed(0.0) and(0.0) clothe(0.0) the(0.0) survivors(1.0) of(0.0) a(0.0) 
+natural(0.0) disaster(1.0) as(0.0) they(0.0) are(0.0) to(0.0) destroy(1.0) tyranny(1.0) and(0.0) oppression(1.0) .(0.0) People(0.0) across(0.0) the(0.0) globe(0.0) know(0.0) that(0.0) when(0.0) the(0.0) Americans(1.0) 
+come(0.0) they(0.0) will(0.0) fight(1.0) for(0.0) what(0.0) is(0.0) right(0.0) ,(0.0) and(0.0) those(0.0) who(0.0) rule(0.0) by(0.0) fear(0.0) will(0.0) then(0.0) be(0.0) afraid(0.0) .(0.0) 
+In(0.0) the(0.0) most(0.0) difficult(0.0) conditions(0.0) ,(0.0) in(0.0) the(0.0) most(0.0) challenging(0.0) terrain(0.0) ,(0.0) against(0.0) the(0.0) greatest(0.0) odds(0.0) ,(0.0) our(0.0) Armed(1.0) Forces(0.0) 
+have(0.0) faced(0.0) impossible(0.0) odds(0.0) without(0.0) counting(0.0) the(0.0) cost(1.0) to(0.0) themselves(0.0) .(0.0) They(0.0) have(0.0) followed(0.0) their(0.0) orders(0.0) ,(0.0) and(0.0) the(0.0) oath(1.0) 
+sworn(0.0) to(0.0) our(0.0) Constitution(1.0) makes(0.0) the(0.0) moral(1.0) foundation(0.0) of(0.0) our(0.0) government(1.0) possible(0.0) .(0.0) Since(0.0) before(0.0) the(0.0) acknowledgement(0.0) of(0.0) our(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	resolution	honoring	
+honoring	cosponsor	legislation	Speaker	Memorial	
+Resolution	1385	
+wars	wars	
+tyranny	controversial	conflicts	guns	
+Armed	duty	
+fighting	men	politics	
+guns	
+Americans	
+America	fight	fight	
+America	aid	starving	
+Tripoli	fighting	Civil	
+
+sands	Iraq	
+Armed	moral	war	war	
+Americans	enemies	innocent	enemies	
+forces	food	shelter	medical	fighting	
+forces	rebuild	war-torn	nations	industrialized	allies	
+Armed	veterans	
+Americans	Armed	survivors	
+disaster	destroy	tyranny	oppression	Americans	
+fight	
+Armed	
+cost	oath	
+Constitution	moral	government	
+
+reads % = 0.14

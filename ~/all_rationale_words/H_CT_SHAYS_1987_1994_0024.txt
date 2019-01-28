@@ -1,0 +1,10 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(1.0) ,(0.0) I(0.0) yield(0.0) 3(0.0) minutes(1.0) to(0.0) the(0.0) distinguished(0.0) gentlewoman(0.0) from(0.0) Maryland(1.0) [(0.0) Mrs.(1.0) Morella(1.0) ](0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+minutes	Maryland	Mrs.	Morella	
+
+reads % = 0.23529411764705882

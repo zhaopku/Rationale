@@ -1,0 +1,20 @@
+This is from a Republican
+----- below is the original text -----
+It(0.0) is(0.0) not(0.0) as(0.0) good(0.0) as(0.0) our(0.0) motion(1.0) to(0.0) recommit(1.0) from(0.0) back(0.0) in(0.0) May(0.0) ,(0.0) it(0.0) is(0.0) not(0.0) as(0.0) good(0.0) as(0.0) 
+the(0.0) Barton(1.0) amendment(1.0) that(0.0) was(0.0) offered(0.0) to(0.0) the(0.0) Rules(0.0) Committee(0.0) ,(0.0) but(0.0) it(0.0) is(0.0) strangely(0.0) similar(0.0) .(0.0) So(0.0) if(0.0) flattery(0.0) 
+is(0.0) the(0.0) most(0.0) sincere(0.0) form(0.0) of(0.0) compliment(0.0) ,(0.0) then(0.0) I(0.0) am(0.0) complimented(0.0) that(0.0) you(0.0) have(0.0) taken(0.0) a(0.0) page(0.0) out(0.0) of(0.0) 
+our(0.0) playbook(1.0) .(0.0) It(0.0) is(0.0) going(0.0) to(0.0) make(0.0) our(0.0) coming(0.0) motion(1.0) to(0.0) recommit(1.0) much(0.0) more(0.0) difficult(0.0) to(0.0) develop(0.0) ,(0.0) but(0.0) 
+I(0.0) can(0.0) assure(0.0) you(0.0) that(0.0) agile(0.0) minds(0.0) are(0.0) working(0.0) as(0.0) we(0.0) speak(0.0) on(0.0) that(0.0) motion(1.0) to(0.0) recommit(1.0) .(0.0) But(0.0) for(0.0) 
+purposes(1.0) of(0.0) this(0.0) debate(1.0) ,(0.0) both(0.0) Mr.(0.0) Lucas(1.0) and(0.0) myself(0.0) do(0.0) support(0.0) your(0.0) amendment(1.0) and(0.0) urge(0.0) its(0.0) adoption(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+motion	recommit	
+Barton	amendment	
+
+playbook	motion	recommit	
+motion	recommit	
+purposes	debate	Lucas	amendment	adoption	
+
+reads % = 0.11666666666666667

@@ -1,0 +1,26 @@
+This is from a Republican
+----- below is the original text -----
+So(0.0) I(0.0) would(0.0) say(0.0) if(0.0) the(0.0) gentleman(0.0) is(0.0) of(0.0) that(0.0) opinion(0.0) that(0.0) there(0.0) is(0.0) an(0.0) ability(0.0) to(0.0) discuss(0.0) things(0.0) surrounding(0.0) health(1.0) 
+care(1.0) ,(0.0) then(0.0) why(0.0) is(0.0) it(0.0) that(0.0) we(0.0) continue(0.0) to(0.0) see(0.0) closed(0.0) door(0.0) negotiations(1.0) ?(0.0) So(0.0) the(0.0) gentleman(0.0) points(0.0) to(0.0) 
+the(0.0) different(0.0) options(0.0) ,(0.0) public(1.0) options(0.0) or(0.0) versions(0.0) thereof(0.0) ,(0.0) being(0.0) discussed(0.0) in(0.0) the(0.0) three(0.0) different(0.0) committees(0.0) in(0.0) the(0.0) House(0.0) 
+.(0.0) Are(0.0) those(0.0) the(0.0) public(1.0) options(0.0) that(0.0) the(0.0) gentleman(0.0) and(0.0) his(0.0) side(0.0) have(0.0) whipped(0.0) and(0.0) are(0.0) being(0.0) discussed(0.0) now(0.0) behind(0.0) 
+closed(0.0) doors(0.0) ?(0.0) Frankly(0.0) ,(0.0) any(0.0) imposition(1.0) of(0.0) a(0.0) public(1.0) plan(0.0) is(0.0) going(0.0) to(0.0) cost(1.0) taxpayers(1.0) and(0.0) small(0.0) businesses(1.0) money(0.0) 
+.(0.0) I(0.0) would(0.0) certainly(0.0) think(0.0) the(0.0) gentleman(0.0) would(0.0) share(0.0) the(0.0) notion(1.0) that(0.0) Republicans(0.0) should(1.0) be(1.0) involved(0.0) ,(0.0) and(0.0) it(0.0) would(0.0) 
+be(0.0) of(0.0) concern(1.0) to(0.0) both(0.0) Republicans(0.0) and(1.0) Democrats(1.0) throughout(0.0) this(0.0) country(1.0) that(0.0) the(0.0) American(0.0) people(0.0) would(0.0) want(0.0) their(0.0) right(0.0) to(0.0) 
+know(0.0) being(0.0) realized(0.0) in(0.0) these(0.0) discussions(0.0) ,(0.0) which(0.0) is(0.0) my(0.0) point(0.0) as(0.0) to(0.0) why(0.0) is(0.0) it(0.0) that(0.0) we(0.0) can't(0.0) hear(0.0) 
+what(0.0) these(0.0) three(0.0) different(0.0) public(1.0) options(0.0) are(0.0) and(0.0) what(0.0) the(0.0) differences(0.0) are(0.0) therein(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+health	
+care	negotiations	
+public	
+public	
+imposition	public	cost	taxpayers	businesses	
+notion	should	be	
+concern	and	Democrats	country	
+
+public	
+
+reads % = 0.10285714285714286

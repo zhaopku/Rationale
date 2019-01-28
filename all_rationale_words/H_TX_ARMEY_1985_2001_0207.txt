@@ -1,0 +1,10 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) am(0.0) not(0.0) sure(0.0) exactly(0.0) ,(0.0) but(0.0) it(0.0) is(0.0) four(0.0) or(0.0) five(0.0) ,(0.0) yes(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+reads % = 0.0

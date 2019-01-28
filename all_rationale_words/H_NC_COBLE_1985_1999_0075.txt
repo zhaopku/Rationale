@@ -1,0 +1,20 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) reclaiming(1.0) my(0.0) time(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) address(0.0) a(0.0) question(0.0) that(0.0) the(0.0) gentlewoman(0.0) from(0.0) California(0.0) ((0.0) Ms.(1.0) Lofgren(1.0) )(0.0) 
+asked(1.0) earlier(1.0) ,(0.0) and(0.0) I(0.0) want(0.0) to(0.0) do(0.0) it(0.0) before(0.0) I(0.0) forget(0.0) it(0.0) .(0.0) When(0.0) the(0.0) gentlewoman(0.0) talked(0.0) about(0.0) the(0.0) 
+PTO(0.0) authorizing(0.0) the(0.0) publishing(0.0) of(0.0) documents(0.0) electronically(0.0) ,(0.0) it(0.0) was(0.0) done(0.0) to(0.0) ensure(0.0) that(0.0) the(0.0) users(0.0) of(0.0) the(0.0) Patent(0.0) and(0.0) 
+Trademark(0.0) Office(0.0) may(0.0) have(0.0) a(0.0) more(0.0) expeditious(0.0) and(0.0) thorough(0.0) access(0.0) to(0.0) patent-related(1.0) information(0.0) .(0.0) I(0.0) think(0.0) I(0.0) know(0.0) from(0.0) where(0.0) 
+the(0.0) gentlewoman(0.0) from(0.0) California(0.0) ((0.0) Ms.(1.0) Lofgren(1.0) )(0.0) is(1.0) coming(1.0) from(0.0) ,(0.0) and(0.0) I(0.0) will(0.0) be(0.0) happy(0.0) to(0.0) discuss(0.0) the(0.0) 
+security(0.0) aspect(0.0) with(0.0) her(0.0) at(0.0) a(0.0) subsequent(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+reclaiming	Ms.	Lofgren	
+asked	earlier	
+
+patent-related	
+Ms.	Lofgren	is	coming	
+
+
+reads % = 0.09090909090909091

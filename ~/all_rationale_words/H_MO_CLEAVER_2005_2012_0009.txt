@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(1.0) ,(0.0) I(0.0) would(1.0) now(0.0) like(0.0) to(0.0) yield(0.0) 1(0.0) minute(1.0) to(0.0) the(0.0) distinguished(0.0) gentlelady(1.0) from(0.0) California(0.0) ((0.0) Ms.(1.0) Lee(1.0) )(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+would	minute	gentlelady	Ms.	Lee	
+
+
+reads % = 0.23809523809523808

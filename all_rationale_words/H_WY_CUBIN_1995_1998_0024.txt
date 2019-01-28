@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) since(0.0) Independent(1.0) Counsel(0.0) Kenneth(1.0) Starr(1.0) has(0.0) delivered(0.0) a(0.0) report(0.0) to(0.0) Congress(0.0) with(0.0) evidence(0.0) of(0.0) possible(0.0) impeachable(1.0) offenses(0.0) ,(0.0) the(0.0) 
+House(0.0) of(0.0) Representatives(0.0) is(0.0) required(0.0) by(0.0) the(0.0) United(0.0) States(0.0) Constitution(0.0) to(0.0) review(0.0) this(0.0) information(0.0) .(0.0) Along(0.0) with(0.0) the(0.0) power(0.0) to(0.0) 
+declare(0.0) war(0.0) ,(0.0) the(0.0) power(0.0) to(0.0) draft(0.0) articles(0.0) of(0.0) impeachment(1.0) is(0.0) among(0.0) the(0.0) most(0.0) solemn(0.0) and(0.0) serious(0.0) powers(0.0) given(0.0) to(0.0) 
+the(0.0) House(0.0) by(0.0) the(0.0) Constitution(1.0) .(0.0) The(0.0) vote(0.0) today(0.0) to(0.0) release(0.0) the(0.0) report(0.0) is(0.0) not(0.0) an(0.0) indictment(1.0) against(0.0) the(0.0) president(0.0) 
+.(0.0) The(0.0) House(0.0) has(0.0) not(0.0) voted(0.0) to(0.0) impeach(1.0) the(0.0) president(0.0) ,(0.0) nor(0.0) to(0.0) proceed(0.0) with(0.0) an(0.0) inquiry(0.0) of(0.0) impeachment(1.0) .(0.0) 
+We(0.0) have(0.0) voted(1.0) to(0.0) make(0.0) this(0.0) report(0.0) available(0.0) to(0.0) members(0.0) of(0.0) Congress(0.0) ,(0.0) the(0.0) President(1.0) ,(0.0) and(0.0) the(0.0) American(0.0) public(1.0) 
+.(0.0) We(0.0) have(0.0) also(0.0) voted(0.0) to(0.0) give(0.0) the(0.0) Judiciary(0.0) Committee(0.0) the(0.0) authority(0.0) to(0.0) review(0.0) all(0.0) of(0.0) the(0.0) supporting(0.0) documents(0.0) to(0.0) 
+determine(0.0) if(0.0) there(0.0) is(0.0) evidence(0.0) that(0.0) the(0.0) President(0.0) has(0.0) committed(0.0) impeachable(1.0) offenses(1.0) .(0.0) Our(0.0) decision(1.0) today(0.0) on(0.0) how(0.0) to(0.0) handle(0.0) 
+the(0.0) report(0.0) is(0.0) fair(0.0) .(0.0) The(0.0) law(1.0) requires(1.0) Judge(0.0) Starr(1.0) to(0.0) submit(0.0) information(0.0) to(0.0) Congress(0.0) if(0.0) he(0.0) has(0.0) found(0.0) credible(0.0) 
+evidence(0.0) of(0.0) impeachable(1.0) offenses(1.0) .(0.0) The(0.0) President(1.0) ,(0.0) like(0.0) the(0.0) Congress(0.0) ,(0.0) did(0.0) not(0.0) get(0.0) an(0.0) advance(0.0) copy(0.0) .(0.0) Like(0.0) 
+any(0.0) other(0.0) American(0.0) ,(0.0) he(0.0) will(0.0) not(0.0) receive(0.0) special(0.0) treatment(0.0) ,(0.0) he(0.0) will(0.0) receive(0.0) fair(1.0) treatment(0.0) .(0.0) The(0.0) public(1.0) has(0.0) 
+a(0.0) right(0.0) to(0.0) review(0.0) the(0.0) report(0.0) ,(0.0) and(0.0) innocent(1.0) parties(0.0) have(0.0) a(0.0) right(0.0) to(0.0) have(0.0) their(0.0) privacy(1.0) preserved(0.0) .(0.0) The(0.0) 
+Judiciary(0.0) Committee(0.0) will(0.0) be(0.0) the(0.0) only(0.0) body(0.0) with(0.0) access(0.0) to(0.0) the(0.0) supporting(0.0) documentation(0.0) .(0.0) However(0.0) ,(0.0) by(0.0) making(0.0) the(0.0) report(0.0) 
+public(0.0) ,(0.0) the(0.0) American(0.0) people(0.0) will(0.0) be(0.0) able(0.0) to(0.0) decide(0.0) for(0.0) themselves(0.0) what(0.0) the(0.0) report(0.0) says(0.0) rather(0.0) than(0.0) having(0.0) the(0.0) 
+information(0.0) filtered(0.0) through(0.0) media(0.0) or(0.0) government(1.0) sources(0.0) .(0.0) For(0.0) the(0.0) stability(0.0) of(0.0) the(0.0) country(1.0) and(0.0) the(0.0) preservation(1.0) of(0.0) our(0.0) democracy(1.0) 
+,(0.0) we(0.0) must(0.0) proceed(0.0) with(0.0) a(0.0) spirit(0.0) of(0.0) bipartisanship(1.0) that(0.0) rises(1.0) above(0.0) politics(1.0) and(0.0) ideological(1.0) differences(1.0) .(0.0) If(0.0) the(0.0) Judiciary(1.0) 
+Committee(0.0) determines(0.0) that(0.0) there(0.0) are(0.0) impeachable(1.0) offenses(1.0) ,(0.0) and(0.0) forwards(0.0) its(0.0) findings(0.0) to(0.0) the(0.0) entire(0.0) House(0.0) ,(0.0) Members(0.0) of(0.0) the(0.0) 
+House(0.0) will(0.0) effectively(0.0) serve(0.0) as(0.0) jurors(0.0) .(0.0) We(0.0) must(0.0) look(0.0) at(0.0) the(0.0) facts(0.0) in(0.0) an(0.0) objective(0.0) and(0.0) fair(0.0) manner(0.0) .(0.0) 
+We(0.0) must(0.0) leave(0.0) our(0.0) own(0.0) personal(0.0) and(0.0) political(1.0) predispositions(0.0) at(0.0) the(0.0) door(0.0) .(0.0) Our(0.0) decisions(1.0) must(0.0) be(0.0) made(0.0) on(0.0) the(0.0) 
+evidence(0.0) and(0.0) the(0.0) law(1.0) .(0.0) Like(0.0) every(0.0) other(0.0) member(0.0) of(0.0) the(0.0) House(0.0) ,(0.0) I(0.0) plan(0.0) to(0.0) review(0.0) the(0.0) report(0.0) in(0.0) 
+its(0.0) entirety(0.0) over(0.0) the(0.0) weekend(0.0) .(0.0) I(0.0) urge(0.0) every(0.0) American(0.0) to(0.0) read(0.0) the(0.0) report(0.0) and(0.0) make(0.0) their(0.0) own(0.0) judgements(0.0) in(0.0) 
+a(0.0) sober(0.0) ,(0.0) serious(0.0) manner(0.0) .(0.0) To(0.0) make(0.0) the(0.0) report(0.0) more(0.0) easily(0.0) accessible(0.0) to(0.0) people(0.0) in(0.0) Wyoming(1.0) ,(0.0) I(0.0) want(0.0) 
+them(0.0) to(0.0) know(0.0) that(0.0) an(0.0) electronic(0.0) copy(0.0) of(0.0) the(0.0) report(0.0) will(0.0) be(0.0) posed(0.0) on(0.0) the(0.0) Internet(0.0) on(0.0) the(0.0) following(0.0) official(0.0) 
+government(1.0) sites(0.0) :(0.0) Library(0.0) of(0.0) Congress(0.0) --(0.0) THOMAS(0.0) --(0.0) <(0.0) a(0.0) href=(0.0) ''(0.0) http(0.0) :(0.0) //thomas.loc.gov/icreport(0.0) ''(0.0) >(0.0) http(0.0) :(0.0) 
+//thomas.loc.gov/icreport(0.0) <(0.0) /a(0.0) >(0.0) .(0.0) Government(0.0) Printing(0.0) Office(0.0) --(0.0) <(0.0) a(0.0) href=(0.0) ''(0.0) http(0.0) :(0.0) //access.gpo.gov/congress/icreport(0.0) ''(0.0) >(0.0) http(0.0) 
+
+
+----- below are rationale words -----
+
+Independent	Kenneth	Starr	impeachable	
+
+impeachment	
+Constitution	indictment	
+impeach	impeachment	
+voted	President	public	
+
+impeachable	offenses	decision	
+law	requires	Starr	
+impeachable	offenses	President	
+fair	public	
+innocent	privacy	
+
+
+government	country	preservation	democracy	
+bipartisanship	rises	politics	ideological	differences	Judiciary	
+impeachable	offenses	
+
+political	decisions	
+law	
+
+Wyoming	
+
+government	
+
+
+reads % = 0.084

@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+At(0.0) this(0.0) point(0.0) I(0.0) would(0.0) take(0.0) great(0.0) pleasure(0.0) to(0.0) yield(0.0) 5(0.0) minutes(0.0) to(0.0) the(0.0) lead(0.0) sponsor(0.0) of(0.0) this(0.0) resolution(1.0) ,(0.0) the(0.0) 
+gentlewoman(0.0) from(0.0) Maryland(1.0) ((0.0) Ms.(1.0) Edwards(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+resolution	
+Maryland	Ms.	Edwards	
+
+reads % = 0.13793103448275862

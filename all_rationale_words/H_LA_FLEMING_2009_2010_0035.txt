@@ -1,0 +1,24 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) to(0.0) commend(0.0) MedCamps(0.0) for(0.0) 23(0.0) years(0.0) of(0.0) outstanding(0.0) service(0.0) in(0.0) the(0.0) State(0.0) of(0.0) Louisiana(1.0) .(0.0) Founded(0.0) 
+in(0.0) 1987(1.0) ,(0.0) MedCamps(0.0) of(0.0) Louisiana(1.0) provides(0.0) a(0.0) summer(0.0) camp(0.0) experience(0.0) to(0.0) children(0.0) with(0.0) physical(0.0) and(0.0) mental(0.0) disabilities(0.0) such(0.0) as(0.0) 
+spina(1.0) bifida(1.0) ,(0.0) cerebral(0.0) palsy(1.0) ,(0.0) autism(0.0) ,(0.0) and(0.0) epilepsy(0.0) .(0.0) Each(0.0) week(0.0) ,(0.0) free(0.0) of(0.0) charge(0.0) ,(0.0) children(0.0) come(0.0) 
+from(0.0) across(0.0) Louisiana(1.0) to(0.0) participate(0.0) in(0.0) a(0.0) week-(0.0) long(0.0) ,(0.0) fun-filled(0.0) camping(0.0) experience(0.0) at(0.0) Camp(0.0) Alabama(0.0) in(0.0) my(0.0) district(0.0) .(0.0) 
+Children(0.0) participate(0.0) in(0.0) activities(0.0) such(0.0) as(0.0) fishing(0.0) ,(0.0) arts(1.0) ,(0.0) crafts(0.0) ,(0.0) nature(0.0) hikes(1.0) ,(0.0) canoeing(0.0) ,(0.0) and(0.0) many(0.0) others(0.0) 
+.(0.0) As(0.0) a(0.0) family(0.0) physician(0.0) for(0.0) over(0.0) 30(0.0) years(0.0) ,(0.0) I(0.0) know(0.0) firsthand(0.0) the(0.0) important(0.0) role(0.0) that(0.0) organizations(1.0) such(0.0) as(0.0) 
+MedCamps(0.0) play(0.0) in(0.0) the(0.0) lives(0.0) of(0.0) children(0.0) with(0.0) disabilities(1.0) .(0.0) I(0.0) congratulate(0.0) MedCamps(0.0) on(0.0) their(0.0) outstanding(0.0) service(0.0) to(0.0) our(0.0) State(1.0) 
+and(0.0) wish(0.0) them(0.0) all(0.0) the(0.0) best(0.0) as(0.0) they(0.0) continue(0.0) to(0.0) serve(0.0) the(0.0) children(0.0) of(0.0) Louisiana(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Louisiana	
+1987	Louisiana	
+spina	bifida	palsy	
+Louisiana	
+arts	hikes	
+organizations	
+disabilities	State	
+Louisiana	
+
+reads % = 0.08280254777070063

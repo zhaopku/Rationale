@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) my(0.0) amendment(1.0) is(0.0) intended(0.0) to(0.0) highlight(0.0) a(0.0) troubling(0.0) situation(0.0) in(0.0) Indonesia(1.0) .(0.0) On(0.0) August(0.0) 31(0.0) ,(0.0) 2002(0.0) ,(0.0) the(0.0) 
+staff(0.0) of(0.0) the(0.0) International(0.0) School(0.0) in(0.0) West(0.0) Papua(0.0) ,(0.0) Indonesia(0.0) decided(0.0) to(0.0) take(0.0) a(0.0) picnic(0.0) .(0.0) The(0.0) teachers(0.0) lived(0.0) and(0.0) 
+worked(0.0) in(0.0) Tembagapura(0.0) ,(0.0) a(0.0) company(0.0) town(0.0) located(0.0) high(0.0) in(0.0) the(0.0) mountains(0.0) near(0.0) the(0.0) Grasberg(1.0) gold(0.0) and(0.0) copper(0.0) mine(0.0) .(0.0) 
+The(0.0) group(0.0) of(0.0) eleven(0.0) people(0.0) ,(0.0) including(0.0) a(0.0) six-year(0.0) old(0.0) child(0.0) ,(0.0) drove(0.0) in(0.0) two(0.0) vehicles(0.0) to(0.0) a(0.0) picnic(0.0) site(0.0) 
+about(0.0) ten(0.0) miles(0.0) away(0.0) on(0.0) the(0.0) road(0.0) to(0.0) Timika(0.0) .(0.0) Because(0.0) it(0.0) began(0.0) to(0.0) rain(0.0) ,(0.0) they(0.0) decided(0.0) to(0.0) return(0.0) 
+to(0.0) town(0.0) for(0.0) lunch(0.0) .(0.0) The(0.0) road(0.0) they(0.0) were(0.0) traveling(0.0) on(0.0) is(0.0) not(0.0) an(0.0) ordinary(0.0) road(0.0) .(0.0) The(0.0) road(0.0) is(0.0) 
+surrounded(0.0) by(0.0) the(0.0) gold(0.0) and(0.0) copper(0.0) mine(0.0) ,(0.0) and(0.0) is(0.0) heavily(0.0) guarded(0.0) by(0.0) the(0.0) Indonesian(0.0) military(0.0) .(0.0) At(0.0) both(0.0) ends(0.0) 
+of(0.0) this(0.0) mountain(0.0) road(0.0) are(0.0) military(0.0) check(0.0) points(0.0) ,(0.0) which(0.0) seals(0.0) the(0.0) road(0.0) and(0.0) control(0.0) access(0.0) to(0.0) Tembagapura(1.0) .(0.0) As(0.0) 
+they(0.0) returned(0.0) home(0.0) ,(0.0) the(0.0) group(0.0) was(0.0) brutally(0.0) attacked(0.0) by(0.0) a(0.0) band(0.0) of(0.0) terrorists(1.0) .(0.0) Two(0.0) Americans(1.0) ,(0.0) Ted(0.0) Burgon(1.0) 
+((0.0) from(0.0) Oregon(0.0) )(0.0) and(0.0) Rick(0.0) Spier(1.0) ((0.0) from(0.0) Colorado(0.0) )(0.0) ,(0.0) and(0.0) an(0.0) Indonesian(0.0) man(0.0) were(0.0) killed(0.0) in(0.0) the(0.0) 
+ambush(0.0) .(0.0) The(0.0) attack(0.0) ,(0.0) which(0.0) occurred(0.0) less(0.0) than(0.0) a(0.0) half-mile(0.0) away(0.0) from(0.0) an(0.0) Indonesian(0.0) military(0.0) check(0.0) point(0.0) ,(0.0) went(0.0) 
+on(0.0) for(0.0) approximately(0.0) 45(0.0) minutes(0.0) .(0.0) Hundreds(0.0) of(0.0) rounds(0.0) were(0.0) fired(0.0) at(0.0) the(0.0) teachers(0.0) and(0.0) their(0.0) vehicles(0.0) .(0.0) Most(0.0) of(0.0) 
+the(0.0) survivors(0.0) ,(0.0) including(0.0) the(0.0) six-year(0.0) old(0.0) child(0.0) ,(0.0) were(0.0) shot(0.0) .(0.0) Several(0.0) of(0.0) the(0.0) teachers(0.0) were(0.0) shot(0.0) multiple(0.0) times(0.0) 
+and(0.0) suffered(0.0) horrible(0.0) injuries(0.0) .(0.0) Ted(0.0) Burgon(1.0) of(0.0) Sunriver(0.0) ,(0.0) Oregon(1.0) was(0.0) killed(0.0) and(0.0) his(0.0) wife(0.0) Nancy(0.0) suffered(0.0) facial(0.0) cuts(0.0) 
+and(0.0) abrasions(0.0) .(0.0) Rick(0.0) Spier(1.0) of(0.0) Littleton(0.0) ,(0.0) Colorado(1.0) was(0.0) killed(0.0) ,(0.0) and(0.0) his(0.0) wife(0.0) Patsy(0.0) was(0.0) shot(0.0) in(0.0) the(0.0) 
+back(0.0) and(0.0) foot(0.0) .(0.0) Francine(0.0) Goodfriend(1.0) of(0.0) Rockford(0.0) ,(0.0) Illinois(1.0) was(0.0) shot(0.0) and(0.0) has(0.0) a(0.0) spinal(0.0) cord(0.0) injury(0.0) .(0.0) Steven(0.0) 
+Emma(0.0) of(0.0) Broward(0.0) County(0.0) ,(0.0) Florida(1.0) was(0.0) shot(0.0) in(0.0) the(0.0) legs(0.0) ,(0.0) buttocks(0.0) ,(0.0) and(0.0) suffered(0.0) injuries(0.0) to(0.0) his(0.0) back(0.0) 
+.(0.0) Lynn(0.0) Poston(1.0) of(0.0) Olga(0.0) ,(0.0) Washington(1.0) was(0.0) shot(0.0) in(0.0) the(0.0) shoulder(0.0) and(0.0) legs(0.0) .(0.0) Suandra(0.0) Hopkins(0.0) of(0.0) Sunriver(0.0) ,(0.0) 
+Oregon(1.0) was(0.0) shot(0.0) in(0.0) the(0.0) side(0.0) ,(0.0) legs(0.0) ,(0.0) and(0.0) pellets(0.0) around(0.0) the(0.0) eye(0.0) and(0.0) his(0.0) wife(0.0) Taia(0.0) was(0.0) shot(0.0) 
+in(0.0) the(0.0) buttocks(0.0) .(0.0) Following(0.0) the(0.0) attack(0.0) ,(0.0) the(0.0) Indonesian(0.0) Police(0.0) promptly(0.0) began(0.0) in(0.0) investigation(0.0) .(0.0) They(0.0) collected(0.0) evidence(0.0) ,(0.0) 
+interviewed(0.0) witnesses(1.0) and(0.0) reconstructed(0.0) the(0.0) ambush(0.0) .(0.0) The(0.0) Indonesian(0.0) Police(0.0) issued(0.0) a(0.0) report(0.0) ((0.0) that(0.0) I(0.0) ask(0.0) for(0.0) unanimous(1.0) consent(0.0) 
+to(0.0) submit(0.0) for(0.0) the(0.0) record(0.0) )(0.0) concluding(0.0) ,(0.0) ``(0.0) there(0.0) is(0.0) a(0.0) strong(0.0) possibility(0.0) that(0.0) the(0.0) Tembagapura(0.0) case(0.0) was(0.0) perpetrated(0.0) 
+by(0.0) members(0.0) of(0.0) the(0.0) Indonesian(0.0) National(0.0) Army(0.0) Force(0.0) ,(0.0) however(0.0) ,(0.0) it(0.0) still(0.0) needs(0.0) to(0.0) be(0.0) investigated(0.0) further(0.0) .(0.0) ''(0.0) 
+In(0.0) early(0.0) November(0.0) 2002(0.0) ,(0.0) the(0.0) Sydney(0.0) Morning(0.0) Herald(0.0) reported(0.0) that(0.0) ``(0.0) United(0.0) States(0.0) intelligence(0.0) agencies(0.0) have(0.0) intercepted(0.0) messages(0.0) between(0.0) 
+Indonesian(0.0) army(0.0) commanders(0.0) indicating(0.0) that(0.0) they(0.0) were(0.0) involved(0.0) in(0.0) staging(0.0) an(0.0) ambush(0.0) at(0.0) the(0.0) remote(0.0) mine(0.0) in(0.0) which(0.0) three(0.0) 
+
+
+----- below are rationale words -----
+
+amendment	Indonesia	
+
+Grasberg	
+
+
+
+
+Tembagapura	
+terrorists	Americans	Burgon	
+Spier	
+
+
+
+Burgon	Oregon	
+Spier	Colorado	
+Goodfriend	Illinois	
+Florida	
+Poston	Washington	
+Oregon	
+
+witnesses	unanimous	
+
+
+
+
+
+reads % = 0.04

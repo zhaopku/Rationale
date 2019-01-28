@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Thank(0.0) you(0.0) for(0.0) your(0.0) great(0.0) leadership(0.0) here(0.0) .(0.0) I(0.0) would(0.0) like(0.0) to(0.0) now(0.0) yield(0.0) to(0.0) my(0.0) good(0.0) friend(0.0) and(0.0) colleague(0.0) ,(0.0) 
+Dr.(0.0) Fleming(1.0) ,(0.0) a(0.0) medical(0.0) doctor(0.0) as(0.0) well(0.0) ,(0.0) from(0.0) the(0.0) great(0.0) State(1.0) of(0.0) Louisiana(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Fleming	State	Louisiana	
+
+reads % = 0.08108108108108109

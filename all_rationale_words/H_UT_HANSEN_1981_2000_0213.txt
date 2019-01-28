@@ -1,0 +1,34 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) H.R(0.0) .(0.0) 3292(0.0) ,(0.0) which(0.0) will(0.0) establish(0.0) the(0.0) Cat(0.0) Island(0.0) National(0.0) Wildlife(0.0) Refuge(0.0) 
+near(0.0) Baton(1.0) Rouge(1.0) ,(0.0) Louisiana(1.0) ,(0.0) represented(0.0) by(0.0) our(0.0) colleague(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Louisiana(1.0) ((0.0) Mr.(0.0) Baker(1.0) )(0.0) .(0.0) 
+Under(0.0) the(0.0) terms(0.0) of(0.0) this(0.0) legislation(0.0) ,(0.0) the(0.0) Secretary(1.0) of(0.0) the(0.0) Interior(0.0) is(0.0) directed(0.0) to(0.0) acquire(0.0) by(0.0) purchase(0.0) or(0.0) donation(0.0) 
+up(0.0) to(0.0) 36,000(0.0) acres(0.0) of(0.0) land(0.0) that(0.0) will(0.0) form(0.0) the(0.0) basis(0.0) of(0.0) this(0.0) new(0.0) exciting(0.0) refuge(0.0) .(0.0) The(0.0) House(0.0) considered(0.0) 
+and(0.0) approved(0.0) this(0.0) measure(0.0) by(0.0) voice(0.0) vote(0.0) .(0.0) The(0.0) other(0.0) body(0.0) adopted(0.0) a(0.0) few(0.0) technical(0.0) amendments(0.0) which(0.0) we(0.0) concur(0.0) in(0.0) 
+today(0.0) .(0.0) In(0.0) addition(0.0) ,(0.0) an(0.0) additional(0.0) amendment(1.0) was(0.0) added(0.0) naming(0.0) the(0.0) visitors(0.0) center(0.0) at(0.0) the(0.0) Chincoteague(0.0) National(0.0) Wildlife(0.0) Refuge(0.0) 
+in(0.0) Virginia(0.0) after(0.0) our(0.0) former(0.0) colleague(0.0) ,(0.0) the(0.0) late(0.0) Herb(0.0) Bateman(1.0) .(0.0) Congressman(1.0) Herb(1.0) Bateman's(0.0) tireless(1.0) commitment(1.0) to(0.0) what(0.0) he(0.0) 
+called(0.0) America(0.0) 's(0.0) First(0.0) District(0.0) was(0.0) legendary(0.0) .(0.0) This(0.0) is(0.0) a(0.0) fitting(0.0) tribute(0.0) to(0.0) an(0.0) outstanding(0.0) man(0.0) .(0.0) I(0.0) urge(0.0) 
+the(0.0) adoption(1.0) of(0.0) H.R(0.0) .(0.0) 3292(0.0) .(0.0) I(0.0) compliment(0.0) the(0.0) author(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Louisiana(1.0) ((0.0) Mr.(0.0) Baker(1.0) )(0.0) 
+for(1.0) his(0.0) superb(0.0) leadership(0.0) in(0.0) shepherding(0.0) this(0.0) legislation(0.0) through(0.0) the(0.0) legislative(0.0) process(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) 
+of(0.0) my(0.0) time(0.0) .(0.0) The(0.0) SPEAKER(0.0) pro(0.0) tempore(0.0) ((1.0) Mr.(0.0) Ryan(1.0) of(0.0) Wisconsin(0.0) )(0.0) .(0.0) The(0.0) question(0.0) is(0.0) on(0.0) the(0.0) 
+motion(0.0) offered(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) Utah(1.0) ((0.0) Mr.(0.0) Hansen(1.0) )(0.0) that(1.0) the(0.0) House(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) concur(0.0) in(0.0) 
+the(0.0) Senate(0.0) amendments(0.0) to(0.0) the(0.0) bill(0.0) ,(0.0) H.R(0.0) .(0.0) 3292(0.0) .(0.0) The(0.0) question(0.0) was(0.0) taken(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	
+Baton	Rouge	Louisiana	Louisiana	Baker	
+Secretary	
+
+
+amendment	
+Bateman	Congressman	Herb	tireless	commitment	
+
+adoption	Louisiana	Baker	
+for	Speaker	
+(	Ryan	
+Utah	Hansen	that	
+
+
+reads % = 0.08949416342412451

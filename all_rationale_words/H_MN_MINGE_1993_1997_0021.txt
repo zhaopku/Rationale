@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) wish(0.0) to(0.0) inquire(0.0) of(0.0) the(0.0) Chair(0.0) as(0.0) to(0.0) how(0.0) much(0.0) time(0.0) I(0.0) have(0.0) remaining(0.0) ?(0.0) The(0.0) CHAIRMAN(0.0) pro(0.0) 
+tempore(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) Minnesota(1.0) has(0.0) 12(0.0) minutes(0.0) remaining(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) would(0.0) like(0.0) to(0.0) close(0.0) by(0.0) 
+just(0.0) recognizing(0.0) some(0.0) of(0.0) the(0.0) positive(0.0) and(0.0) problematic(0.0) situations(0.0) that(0.0) we(0.0) face(0.0) .(0.0) As(0.0) we(0.0) have(0.0) an(0.0) opportunity(0.0) here(0.0) to(0.0) 
+eliminate(1.0) the(0.0) deficit(1.0) ,(0.0) I(0.0) think(0.0) it(0.0) is(0.0) important(0.0) to(0.0) remember(0.0) that(0.0) we(0.0) are(0.0) enjoying(0.0) prosperity(1.0) in(0.0) our(0.0) Nation(1.0) ,(0.0) 
+relative(0.0) prosperity(1.0) ,(0.0) because(0.0) we(0.0) know(0.0) that(0.0) economic(1.0) cycles(0.0) come(0.0) and(0.0) go(0.0) and(0.0) that(0.0) we(0.0) are(0.0) going(0.0) to(0.0) face(0.0) a(0.0) 
+downturn(0.0) at(0.0) some(0.0) point(0.0) in(0.0) the(0.0) future(0.0) .(0.0) It(0.0) is(0.0) prudent(1.0) for(0.0) us(0.0) to(0.0) plan(1.0) for(0.0) that(0.0) and(0.0) not(0.0) to(0.0) 
+assume(0.0) that(0.0) the(0.0) full(0.0) employment(1.0) and(0.0) the(0.0) good(0.0) ,(0.0) strong(0.0) economic(1.0) growth(1.0) that(0.0) we(0.0) have(0.0) today(0.0) is(0.0) going(0.0) to(0.0) survive(0.0) 
+indefinitely(1.0) .(0.0) Therefore(0.0) ,(0.0) I(0.0) think(0.0) it(0.0) behooves(0.0) us(0.0) to(0.0) practice(0.0) fiscal(1.0) responsibility(0.0) now(0.0) and(0.0) to(0.0) put(0.0) money(1.0) aside(0.0) ,(0.0) 
+if(0.0) at(0.0) all(0.0) possible(0.0) ,(0.0) for(0.0) the(0.0) rainy(0.0) day(0.0) .(0.0) I(0.0) think(0.0) ,(0.0) at(0.0) the(0.0) same(0.0) time(0.0) ,(0.0) it(0.0) is(0.0) 
+important(0.0) to(0.0) know(0.0) that(0.0) we(0.0) are(0.0) talking(0.0) about(0.0) the(0.0) difference(0.0) quite(0.0) often(0.0) between(0.0) the(0.0) debt(1.0) and(0.0) the(0.0) deficit(1.0) .(0.0) Yet(0.0) 
+,(0.0) the(0.0) American(0.0) people(0.0) quite(0.0) often(0.0) are(0.0) confused(0.0) .(0.0) They(0.0) think(0.0) when(0.0) we(0.0) say(0.0) we(0.0) are(0.0) going(0.0) to(0.0) eliminate(1.0) the(0.0) 
+deficit(1.0) it(0.0) means(0.0) we(0.0) are(0.0) going(0.0) to(0.0) eliminate(1.0) that(0.0) $(0.0) 20,000(0.0) per(0.0) capita(1.0) debt(1.0) .(0.0) That(0.0) could(0.0) not(0.0) be(0.0) further(0.0) 
+from(0.0) the(0.0) truth(0.0) .(0.0) The(0.0) debt(1.0) will(0.0) still(0.0) be(0.0) there(0.0) ,(0.0) $(0.0) 20,000(0.0) for(0.0) each(0.0) man(0.0) ,(0.0) woman(0.0) ,(0.0) and(0.0) 
+child(0.0) in(0.0) this(0.0) country(1.0) ,(0.0) interest(0.0) running(0.0) at(0.0) the(0.0) rate(0.0) of(0.0) close(0.0) to(0.0) $(0.0) 250(0.0) billion(1.0) a(0.0) year(0.0) .(0.0) Those(0.0) 
+of(0.0) us(0.0) in(0.0) the(0.0) Blue(1.0) Dog(1.0) coalition(0.0) have(0.0) supported(0.0) tax(1.0) cuts(1.0) .(1.0) We(1.0) think(0.0) tax(1.0) cuts(1.0) are(1.0) important(1.0) .(1.0) We(0.0) 
+think(0.0) new(0.0) programs(1.0) are(0.0) important(0.0) .(0.0) But(0.0) on(0.0) the(0.0) other(0.0) hand(0.0) ,(0.0) we(0.0) think(0.0) that(0.0) our(0.0) first(0.0) and(0.0) most(0.0) immediate(0.0) 
+responsibility(0.0) is(0.0) to(0.0) eliminate(1.0) this(0.0) deficit(1.0) .(0.0) And(0.0) ,(0.0) therefore(0.0) ,(0.0) we(0.0) have(0.0) stood(0.0) for(0.0) the(0.0) proposition(1.0) that(0.0) let(0.0) us(0.0) 
+work(0.0) for(0.0) and(0.0) plan(1.0) for(0.0) tax(1.0) cuts(1.0) ,(1.0) but(1.0) that(1.0) is(1.0) the(0.0) dessert(0.0) ,(0.0) that(0.0) is(0.0) the(0.0) reward(0.0) that(0.0) we(0.0) 
+should(0.0) achieve(0.0) after(0.0) we(0.0) have(0.0) accomplished(0.0) this(0.0) heavy(0.0) lifting(1.0) of(0.0) balancing(0.0) the(0.0) budget(1.0) .(0.0) I(0.0) would(0.0) also(0.0) like(0.0) to(0.0) emphasize(0.0) 
+and(0.0) reemphasize(0.0) that(0.0) we(0.0) have(0.0) looked(0.0) for(0.0) and(0.0) hoped(0.0) for(0.0) strong(0.0) enforcement(1.0) mechanisms(1.0) in(0.0) our(0.0) budget(1.0) resolution(1.0) and(0.0) in(0.0) the(0.0) 
+reconciliation(1.0) bills(0.0) .(0.0) That(0.0) is(0.0) extremely(0.0) important(0.0) to(0.0) us(0.0) .(0.0) We(0.0) must(0.0) ,(0.0) as(0.0) the(0.0) reconciliation(1.0) bills(1.0) are(0.0) drafted(1.0) ,(0.0) 
+include(0.0) in(0.0) them(0.0) the(0.0) caps(1.0) ,(0.0) the(0.0) pay-go(1.0) provisions(1.0) ,(0.0) the(0.0) sequestration(1.0) and(0.0) other(0.0) provisions(1.0) that(0.0) are(0.0) so(0.0) necessary(0.0) to(0.0) 
+safeguard(1.0) what(0.0) we(0.0) have(0.0) worked(0.0) long(0.0) and(0.0) hard(0.0) for(0.0) in(0.0) this(0.0) body(0.0) this(0.0) spring(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) we(0.0) appreciate(0.0) 
+the(0.0) opportunity(0.0) to(0.0) present(0.0) these(0.0) views(0.0) .(0.0) ((0.0) Mr.(0.0) SHUSTER(1.0) asked(0.0) and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) his(0.0) 
+remarks(0.0) .(0.0) )(0.0) 
+
+
+----- below are rationale words -----
+
+
+Minnesota	Chairman	
+
+eliminate	deficit	prosperity	Nation	
+prosperity	economic	
+prudent	plan	
+employment	economic	growth	
+indefinitely	fiscal	money	
+
+debt	deficit	
+eliminate	
+deficit	eliminate	capita	debt	
+debt	
+country	billion	
+Blue	Dog	tax	cuts	.	We	tax	cuts	are	important	.	
+programs	
+eliminate	deficit	proposition	
+plan	tax	cuts	,	but	that	is	
+lifting	budget	
+enforcement	mechanisms	budget	resolution	
+reconciliation	reconciliation	bills	drafted	
+caps	pay-go	provisions	sequestration	provisions	
+safeguard	Chairman	
+SHUSTER	
+
+
+reads % = 0.13636363636363635

@@ -1,0 +1,20 @@
+This is from a Republican
+----- below is the original text -----
+The(0.0) Clerk(0.0) read(0.0) as(0.0) follows(0.0) :(0.0) Amendment(0.0) offered(0.0) by(0.0) Mrs.(1.0) Kelly(1.0) :(1.0) At(1.0) the(0.0) end(0.0) of(0.0) the(0.0) bill(0.0) ((1.0) before(0.0) the(0.0) 
+short(0.0) title(0.0) )(0.0) ,(0.0) insert(0.0) the(0.0) following(0.0) :(0.0) Sec(0.0) .(0.0) .(0.0) The(0.0) amounts(0.0) otherwise(0.0) provided(0.0) by(0.0) this(0.0) Act(0.0) are(0.0) revised(0.0) 
+by(0.0) increasing(0.0) the(0.0) amount(0.0) made(0.0) available(0.0) for(0.0) ``(0.0) Financial(0.0) Crimes(0.0) Enforcement(0.0) Network(0.0) --(0.0) Salaries(0.0) and(0.0) Expenses(0.0) ''(0.0) ;(0.0) and(0.0) reducing(0.0) 
+the(0.0) amount(0.0) made(0.0) available(0.0) for(0.0) ``(0.0) General(0.0) Services(0.0) Administration(0.0) --(0.0) Real(0.0) Property(0.0) Activities(0.0) --(0.0) Federal(0.0) Buildings(0.0) Fund(0.0) ''(0.0) ((0.0) consisting(0.0) 
+of(0.0) a(0.0) reduction(0.0) of(0.0) $(0.0) 12,750,000(0.0) in(0.0) the(0.0) amount(0.0) made(0.0) available(0.0) for(0.0) rental(0.0) of(0.0) space(0.0) and(0.0) a(0.0) reduction(0.0) of(0.0) $(0.0) 
+12,750,000(0.0) in(0.0) the(0.0) amount(0.0) made(0.0) available(0.0) for(0.0) building(0.0) operations(0.0) )(0.0) ;(0.0) by(0.0) $(0.0) 25,500,000(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Mrs.	Kelly	:	At	(	
+
+
+
+
+
+
+reads % = 0.04310344827586207

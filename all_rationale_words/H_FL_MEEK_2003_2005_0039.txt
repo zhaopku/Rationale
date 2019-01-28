@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) reclaiming(1.0) my(0.0) time(0.0) ,(0.0) let(0.0) me(0.0) just(0.0) say(0.0) the(0.0) list(0.0) is(0.0) endless(0.0) for(0.0) those(0.0) who(0.0) are(0.0) opposed(0.0) to(0.0) the(0.0) 
+President's(0.0) philosophy(0.0) and(0.0) the(0.0) majority(1.0) side(0.0) 's(0.0) philosophy(0.0) on(0.0) this(0.0) .(0.0) I(0.0) mean(0.0) ,(0.0) it(0.0) is(0.0) not(0.0) just(0.0) House(0.0) Democrats(1.0) 
+.(0.0) It(0.0) is(0.0) not(0.0) just(0.0) the(0.0) Democrats(1.0) of(0.0) the(0.0) other(0.0) body(0.0) .(0.0) It(0.0) is(0.0) not(0.0) just(0.0) Democrats(0.0) that(0.0) are(0.0) out(0.0) 
+there(0.0) hopefully(0.0) wanting(0.0) to(0.0) be(0.0) President(0.0) one(0.0) day(0.0) .(0.0) I(0.0) mean(0.0) ,(0.0) we(0.0) have(0.0) a(0.0) number(0.0) of(0.0) individuals(0.0) .(0.0) I(0.0) 
+just(0.0) want(0.0) to(0.0) name(0.0) a(0.0) few(0.0) while(0.0) we(0.0) are(0.0) here(0.0) to(0.0) let(0.0) them(0.0) know(0.0) that(0.0) we(0.0) are(0.0) paying(0.0) attention(0.0) to(0.0) 
+what(0.0) they(0.0) are(0.0) doing(0.0) .(0.0) Along(0.0) with(0.0) the(0.0) 300(0.0) townhall(1.0) meetings(0.0) that(0.0) House(0.0) Democrats(1.0) had(0.0) ,(0.0) we(0.0) had(0.0) a(0.0) number(0.0) 
+of(0.0) other(0.0) groups(0.0) that(0.0) were(0.0) out(0.0) there(0.0) and(0.0) still(0.0) out(0.0) there(0.0) doing(0.0) good(0.0) things(0.0) and(0.0) sharing(0.0) with(0.0) the(0.0) American(0.0) people(0.0) 
+.(0.0) I(0.0) just(0.0) want(0.0) to(0.0) start(0.0) off(0.0) with(0.0) an(0.0) organization(1.0) that(0.0) is(0.0) out(0.0) there(0.0) of(0.0) retirees(1.0) ,(0.0) the(0.0) AARP(1.0) .(0.0) 
+They(0.0) are(0.0) opposed(1.0) to(0.0) the(0.0) President(1.0) 's(0.0) plan(0.0) .(0.0) And(0.0) to(0.0) be(0.0) a(0.0) member(0.0) of(0.0) the(0.0) AARP(1.0) ,(0.0) one(0.0) has(0.0) 
+to(0.0) be(0.0) kind(0.0) of(0.0) middle-aged(1.0) ,(0.0) I(0.0) must(0.0) add(0.0) .(0.0) I(0.0) have(0.0) been(0.0) elected(0.0) a(0.0) long(0.0) time(0.0) .(0.0) I(0.0) am(0.0) 
+not(0.0) going(0.0) to(0.0) call(0.0) anyone(0.0) old(0.0) .(0.0) But(0.0) let(0.0) me(0.0) tell(0.0) my(0.0) colleagues(0.0) this(0.0) :(0.0) one(0.0) has(0.0) to(0.0) be(0.0) at(0.0) 
+least(0.0) middle-aged(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+reclaiming	
+majority	Democrats	
+Democrats	
+
+
+townhall	Democrats	
+
+organization	retirees	AARP	
+opposed	President	AARP	
+middle-aged	
+
+
+
+reads % = 0.05803571428571429

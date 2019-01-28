@@ -1,0 +1,54 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) thank(0.0) the(0.0) chairman(1.0) for(0.0) yielding(0.0) me(0.0) this(1.0) time(0.0) ;(0.0) and(0.0) I(0.0) will(0.0) say(1.0) one(0.0) thing(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) and(0.0) 
+I(0.0) think(1.0) the(0.0) gentleman(0.0) from(0.0) Massachusetts(1.0) had(0.0) it(0.0) right(1.0) when(0.0) he(0.0) said(1.0) this(0.0) is(0.0) about(0.0) priorities(1.0) .(0.0) This(0.0) motion(0.0) is(0.0) 
+definitely(0.0) about(0.0) priorities(1.0) ,(0.0) and(0.0) it(0.0) is(0.0) about(0.0) maintaining(0.0) or(0.0) not(0.0) maintaining(0.0) the(0.0) current(0.0) economic(0.0) policies(1.0) that(0.0) make(0.0) it(0.0) a(0.0) 
+priority(1.0) to(0.0) encourage(1.0) economic(0.0) growth(1.0) and(0.0) encourage(1.0) job(0.0) creation(0.0) .(0.0) In(0.0) 2005(1.0) ,(0.0) we(0.0) created(0.0) 2(0.0) million(1.0) jobs(1.0) in(0.0) our(0.0) 
+country(1.0) ,(0.0) and(0.0) since(0.0) 2003(0.0) our(0.0) GDP(0.0) has(0.0) seen(0.0) its(0.0) fastest(1.0) growth(1.0) rate(0.0) in(0.0) 20(0.0) years(0.0) ,(0.0) averaging(1.0) a(0.0) robust(0.0) 
+4.4(0.0) percent(1.0) per(1.0) quarter(0.0) .(0.0) That(0.0) growth(1.0) is(0.0) attributable(1.0) at(0.0) least(1.0) in(0.0) part(0.0) to(0.0) the(0.0) competitive(0.0) rates(0.0) that(0.0) we(0.0) have(0.0) 
+set(0.0) on(0.0) capital(1.0) gains(0.0) and(0.0) dividends(0.0) ,(0.0) the(0.0) seed(0.0) corn(1.0) of(0.0) our(0.0) economy(1.0) .(0.0) And(0.0) it(0.0) is(0.0) precisely(0.0) here(0.0) that(0.0) 
+their(0.0) instruction(0.0) proposes(1.0) to(0.0) impose(1.0) a(0.0) tax(1.0) increase(1.0) ,(0.0) a(0.0) tax(1.0) increase(1.0) on(0.0) the(0.0) most(1.0) dynamic(1.0) sector(1.0) of(0.0) the(0.0) economy(1.0) 
+and(0.0) on(0.0) the(0.0) most(1.0) sensitive(0.0) part(0.0) of(0.0) our(0.0) Tax(1.0) Code(0.0) .(0.0) They(1.0) do(0.0) not(1.0) say(1.0) tax(1.0) increase(1.0) .(0.0) They(0.0) couch(1.0) 
+it(0.0) in(0.0) terms(1.0) of(0.0) withholding(1.0) or(1.0) withdrawing(1.0) a(0.0) tax(1.0) cut(1.0) .(0.0) But(0.0) in(0.0) fact(1.0) the(0.0) markets(0.0) for(0.0) years(0.0) have(0.0) now(0.0) 
+taken(0.0) into(0.0) account(0.0) a(0.0) tax(1.0) rate(0.0) on(0.0) capital(1.0) gains(1.0) and(0.0) a(0.0) tax(1.0) treatment(0.0) of(0.0) dividends(1.0) which(0.0) encourages(1.0) economic(0.0) growth(0.0) .(0.0) 
+They(0.0) want(1.0) to(0.0) raise(1.0) taxes(1.0) .(0.0) At(0.0) a(0.0) time(0.0) when(0.0) our(0.0) economy(1.0) is(0.0) facing(1.0) pressure(0.0) from(0.0) globalization(1.0) and(0.0) facing(1.0) pressure(0.0) 
+from(0.0) high(0.0) energy(1.0) costs(0.0) ,(0.0) now(0.0) is(0.0) not(1.0) the(0.0) time(0.0) to(0.0) be(0.0) raising(1.0) taxes(1.0) on(0.0) dividends(1.0) .(0.0) Now(0.0) is(0.0) not(1.0) 
+the(0.0) time(0.0) to(0.0) be(0.0) raising(1.0) taxes(1.0) on(0.0) capital(1.0) gains(0.0) .(0.0) I(0.0) realize(1.0) they(0.0) desperately(1.0) want(1.0) to(0.0) spend(1.0) more(0.0) money(1.0) and(0.0) 
+they(0.0) desperately(1.0) want(1.0) to(0.0) raise(1.0) taxes(1.0) ,(0.0) but(0.0) we(0.0) can(0.0) not(0.0) permit(0.0) that(0.0) to(0.0) happen(0.0) .(0.0) If(1.0) we(0.0) are(0.0) serious(0.0) 
+about(0.0) maintaining(0.0) America(0.0) 's(0.0) economic(0.0) growth(1.0) rate(0.0) ,(0.0) if(0.0) we(0.0) are(0.0) serious(0.0) about(0.0) maintaining(0.0) a(0.0) competitive(0.0) position(0.0) in(0.0) the(0.0) world(0.0) 
+,(0.0) it(0.0) is(0.0) essential(1.0) that(0.0) we(0.0) send(0.0) the(0.0) right(1.0) message(0.0) and(0.0) that(0.0) we(0.0) look(1.0) to(0.0) make(0.0) permanent(1.0) the(0.0) current(0.0) rates(0.0) 
+on(0.0) capital(1.0) gains(0.0) and(0.0) the(0.0) current(0.0) tax(1.0) treatment(0.0) of(0.0) dividends(1.0) that(0.0) are(0.0) so(0.0) important(0.0) a(0.0) part(0.0) of(0.0) our(0.0) competitive(0.0) position(0.0) 
+.(0.0) I(0.0) am(0.0) surprised(1.0) to(0.0) see(0.0) the(0.0) other(0.0) side(0.0) coming(0.0) forward(0.0) with(0.0) such(0.0) a(0.0) naked(1.0) and(0.0) clear(0.0) attempt(0.0) to(0.0) raise(1.0) 
+taxes(1.0) .(0.0) But(0.0) be(1.0) that(0.0) as(0.0) it(0.0) may(0.0) ,(0.0) I(0.0) think(1.0) the(0.0) time(0.0) has(0.0) come(0.0) for(0.0) us(0.0) to(0.0) reaffirm(0.0) our(0.0) 
+message(0.0) and(0.0) to(0.0) send(0.0) a(0.0) clear(0.0) message(0.0) to(0.0) the(0.0) markets(0.0) that(0.0) we(0.0) are(0.0) prepared(1.0) to(0.0) maintain(0.0) current(0.0) policies(1.0) to(0.0) encourage(1.0) 
+economic(0.0) growth(1.0) and(0.0) to(0.0) maintain(0.0) the(0.0) strong(0.0) points(0.0) of(0.0) our(0.0) current(0.0) economic(0.0) policy(0.0) .(0.0) I(0.0) call(0.0) on(0.0) my(0.0) colleagues(1.0) to(0.0) 
+turn(0.0) down(1.0) this(0.0) instruction(0.0) and(0.0) do(0.0) so(1.0) decisively(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+chairman	this	say	Speaker	
+think	Massachusetts	right	said	priorities	
+priorities	policies	
+priority	encourage	growth	encourage	2005	million	jobs	
+country	fastest	growth	averaging	
+percent	per	growth	attributable	least	
+capital	corn	economy	
+proposes	impose	tax	increase	tax	increase	most	dynamic	sector	economy	
+most	Tax	They	not	say	tax	increase	couch	
+terms	withholding	or	withdrawing	tax	cut	fact	
+tax	capital	gains	tax	dividends	encourages	
+want	raise	taxes	economy	facing	globalization	facing	
+energy	not	raising	taxes	dividends	not	
+raising	taxes	capital	realize	desperately	want	spend	money	
+desperately	want	raise	taxes	If	
+growth	
+essential	right	look	permanent	
+capital	tax	dividends	
+surprised	naked	raise	
+taxes	be	think	
+prepared	policies	encourage	
+growth	colleagues	
+down	so	decisively	
+
+reads % = 0.24222222222222223

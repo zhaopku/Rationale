@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) on(0.0) this(0.0) day(0.0) 2(0.0) years(0.0) ago(0.0) ,(0.0) United(0.0) States(0.0) soldiers(1.0) found(0.0) the(0.0) king(0.0) of(0.0) tyranny(1.0) ,(0.0) Saddam(1.0) Hussein(1.0) ,(0.0) 
+hiding(1.0) in(0.0) a(0.0) hole(1.0) like(0.0) a(0.0) rat(1.0) near(1.0) Tikrit(1.0) ,(0.0) Iraq(1.0) .(0.0) His(0.0) trial(1.0) recently(0.0) started(0.0) ,(0.0) and(0.0) it(0.0) is(0.0) 
+more(0.0) public(0.0) than(0.0) some(0.0) American(0.0) trials(1.0) because(0.0) it(0.0) is(0.0) carried(0.0) on(0.0) international(0.0) television(1.0) .(0.0) He(0.0) pontificates(1.0) about(0.0) how(0.0) he(0.0) is(0.0) 
+unjustly(0.0) treated(0.0) .(0.0) He(0.0) tries(1.0) to(0.0) portray(0.0) himself(0.0) as(0.0) an(0.0) honorable(1.0) person(0.0) .(0.0) This(0.0) is(0.0) the(0.0) same(1.0) dreadful(1.0) demon(1.0) dictator(1.0) 
+that(0.0) tortured(1.0) and(0.0) murdered(0.0) his(0.0) own(0.0) citizens(1.0) and(0.0) caused(0.0) years(0.0) of(0.0) chaos(1.0) and(0.0) calamity(1.0) in(0.0) his(0.0) own(0.0) country(1.0) .(0.0) Witnesses(1.0) 
+in(0.0) the(0.0) trial(1.0) have(0.0) described(1.0) rapes(0.0) ,(0.0) beatings(1.0) ,(0.0) and(0.0) electric(1.0) shock(0.0) torture(1.0) carried(0.0) out(0.0) by(0.0) his(0.0) relentless(1.0) regime(1.0) .(0.0) 
+But(0.0) the(0.0) news(1.0) stories(0.0) focus(0.0) on(0.0) his(0.0) outrageous(0.0) court(0.0) behavior(0.0) instead(0.0) of(0.0) his(0.0) years(0.0) of(0.0) vicious(1.0) violence(1.0) and(0.0) mayhem(1.0) .(0.0) 
+The(0.0) people(0.0) of(0.0) the(0.0) world(0.0) deserve(0.0) a(0.0) record(0.0) of(0.0) his(0.0) atrocities(1.0) ,(0.0) not(1.0) the(0.0) senseless(1.0) stories(0.0) of(0.0) his(0.0) bad(0.0) courtroom(1.0) 
+attitude(1.0) ,(0.0) his(0.0) disruptions(0.0) ,(0.0) and(0.0) his(0.0) disrespectful(0.0) and(0.0) disgraceful(1.0) demeanor(0.0) .(0.0) The(0.0) caged(1.0) rodent(1.0) known(0.0) as(0.0) Saddam(1.0) Hussein(1.0) can(0.0) 
+protest(0.0) all(0.0) he(0.0) wants(1.0) ,(0.0) but(0.0) even(0.0) the(0.0) likes(1.0) of(0.0) him(0.0) now(0.0) receives(1.0) a(0.0) fair(1.0) trial(1.0) .(0.0) Justice(0.0) will(0.0) soon(0.0) 
+be(0.0) served(1.0) ,(0.0) and(0.0) he(0.0) will(0.0) be(0.0) punished(1.0) like(0.0) the(0.0) rat(1.0) that(0.0) he(0.0) is(0.0) .(0.0) We(0.0) call(0.0) this(0.0) justice(1.0) system(0.0) 
+democracy(1.0) .(0.0) That(0.0) 's(0.0) just(1.0) the(0.0) way(1.0) it(0.0) is(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+soldiers	tyranny	Saddam	Hussein	
+hiding	hole	rat	near	Tikrit	Iraq	trial	
+trials	television	pontificates	
+tries	honorable	same	dreadful	demon	dictator	
+tortured	citizens	chaos	calamity	country	Witnesses	
+trial	described	beatings	electric	torture	relentless	regime	
+news	vicious	violence	mayhem	
+atrocities	not	senseless	courtroom	
+attitude	disgraceful	caged	rodent	Saddam	Hussein	
+wants	likes	receives	fair	trial	
+served	punished	rat	justice	
+democracy	just	way	
+
+reads % = 0.2554112554112554

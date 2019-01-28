@@ -1,0 +1,50 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) yield(0.0) 2(0.0) minutes(0.0) to(0.0) the(0.0) gentlewoman(0.0) from(0.0) Florida(0.0) ((0.0) Ms.(1.0) Brown-Waite(1.0) )(0.0) ,(0.0) a(0.0) new(0.0) Member(0.0) of(0.0) the(0.0) 
+United(0.0) States(0.0) Congress(0.0) ,(0.0) to(0.0) talk(0.0) about(0.0) the(0.0) child(0.0) care(0.0) provisions(0.0) in(0.0) H.R(0.0) .(0.0) 4(0.0) .(0.0) Ms.(0.0) GINNY(1.0) BROWN-WAITE(0.0) of(0.0) 
+Florida(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) H.R(0.0) .(0.0) 4(0.0) and(0.0) against(0.0) the(0.0) substitute(0.0) .(0.0) When(0.0) I(0.0) 
+was(0.0) a(0.0) Florida(0.0) senator(0.0) ,(0.0) we(0.0) passed(0.0) welfare(1.0) reform(1.0) before(0.0) the(0.0) Federal(1.0) Government(1.0) did(0.0) .(0.0) We(0.0) certainly(0.0) adopted(1.0) the(0.0) Federal(1.0) 
+Government's(0.0) further(0.0) welfare(1.0) reform(1.0) ;(0.0) and(0.0) what(0.0) we(0.0) found(0.0) was(0.0) families(0.0) became(0.0) families(0.0) ,(0.0) not(0.0) welfare(1.0) families(0.0) ;(0.0) that(0.0) women(1.0) 
+finally(0.0) had(0.0) some(0.0) self-confidence(0.0) ,(0.0) and(0.0) self-confidence(0.0) enough(0.0) not(0.0) only(0.0) to(0.0) get(0.0) a(0.0) job(0.0) ,(0.0) but(0.0) to(0.0) take(0.0) advantage(0.0) of(0.0) 
+their(0.0) employers(1.0) '(0.0) education(0.0) programs(1.0) ,(0.0) and(0.0) they(0.0) took(0.0) advantage(0.0) of(0.0) their(0.0) employers(1.0) '(0.0) education(0.0) programs(1.0) .(0.0) I(0.0) happen(0.0) to(0.0) 
+know(0.0) firsthand(0.0) because(0.0) I(0.0) teach(0.0) college(1.0) ,(0.0) and(0.0) many(0.0) of(0.0) the(0.0) young(0.0) women(1.0) that(0.0) I(0.0) had(0.0) in(0.0) college(1.0) ,(0.0) young(0.0) 
+and(0.0) middle-aged(1.0) women(1.0) that(0.0) I(0.0) had(0.0) in(0.0) college(1.0) had(0.0) been(0.0) previous(0.0) welfare(1.0) recipients(1.0) .(0.0) They(0.0) were(0.0) grateful(0.0) .(0.0) They(0.0) were(0.0) 
+very(0.0) grateful(0.0) that(0.0) we(0.0) had(0.0) a(0.0) situation(0.0) in(0.0) America(1.0) where(0.0) they(0.0) could(0.0) break(0.0) that(0.0) cycle(0.0) .(0.0) Because(0.0) guess(0.0) what(0.0) ?(0.0) 
+Their(0.0) mother(0.0) and(0.0) their(0.0) grandmother(0.0) also(0.0) in(0.0) many(0.0) instances(0.0) were(0.0) on(0.0) welfare(1.0) .(0.0) The(0.0) bill(1.0) that(0.0) we(0.0) have(0.0) before(0.0) us(0.0) 
+allocates(1.0) more(0.0) funding(1.0) for(0.0) child(0.0) care(1.0) and(0.0) health(1.0) care(1.0) for(0.0) welfare(1.0) families(0.0) ensuring(0.0) that(0.0) welfare(1.0) families(1.0) are(0.0) cared(0.0) for(0.0) ,(0.0) 
+and(0.0) that(0.0) those(0.0) on(0.0) welfare(1.0) have(0.0) access(0.0) to(0.0) health(1.0) care(1.0) while(0.0) trying(0.0) to(0.0) secure(0.0) work(0.0) .(0.0) We(0.0) all(0.0) know(0.0) that(0.0) 
+for(0.0) many(0.0) years(0.0) people(0.0) stayed(0.0) on(0.0) welfare(1.0) ,(0.0) particularly(0.0) single(0.0) women(1.0) ,(0.0) stayed(0.0) on(0.0) welfare(1.0) because(0.0) of(0.0) the(0.0) health(1.0) care(0.0) 
+benefits(1.0) .(0.0) We(0.0) are(0.0) extending(0.0) them(0.0) .(0.0) I(0.0) think(0.0) it(0.0) is(0.0) very(0.0) important(0.0) to(0.0) remember(0.0) that(0.0) the(0.0) House(0.0) and(0.0) Senate(0.0) 
+committees(0.0) with(0.0) jurisdiction(1.0) on(0.0) this(0.0) issue(0.0) held(0.0) more(0.0) than(0.0) 20(0.0) hearings(0.0) reviewing(0.0) this(0.0) legislation(0.0) during(0.0) the(0.0) 107th(0.0) Congress(0.0) and(0.0) heard(0.0) 
+testimony(0.0) from(0.0) more(0.0) than(0.0) 60(0.0) witnesses(0.0) .(0.0) It(0.0) has(0.0) been(0.0) adequately(0.0) reviewed(0.0) ,(0.0) and(0.0) it(0.0) enjoys(0.0) the(0.0) support(0.0) of(0.0) so(0.0) 
+many(0.0) Members(0.0) of(0.0) this(0.0) body(0.0) but(0.0) ,(0.0) more(0.0) importantly(0.0) ,(0.0) people(0.0) back(0.0) home(0.0) ,(0.0) including(0.0) those(0.0) people(0.0) who(0.0) had(0.0) previously(0.0) 
+been(0.0) welfare(1.0) recipients(1.0) .(0.0) I(0.0) would(0.0) ask(0.0) my(0.0) colleagues(0.0) to(0.0) join(0.0) me(0.0) in(0.0) support(0.0) of(0.0) H.R(0.0) .(0.0) 4(0.0) to(0.0) bring(0.0) 
+the(0.0) real(0.0) kind(0.0) of(0.0) assistance(0.0) to(0.0) people(0.0) on(0.0) welfare(1.0) that(0.0) they(0.0) actually(0.0) need(0.0) .(0.0) The(0.0) substitute(1.0) would(0.0) only(0.0) set(0.0) welfare(1.0) 
+reform(1.0) back(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Ms.	Brown-Waite	
+GINNY	
+Chairman	
+welfare	reform	Federal	Government	adopted	Federal	
+welfare	reform	welfare	women	
+
+employers	programs	employers	programs	
+college	women	college	
+middle-aged	women	college	welfare	recipients	
+America	
+welfare	bill	
+allocates	funding	care	health	care	welfare	welfare	families	
+welfare	health	care	
+welfare	women	welfare	health	
+benefits	
+jurisdiction	
+
+
+welfare	recipients	
+welfare	substitute	welfare	
+reform	
+
+reads % = 0.12871287128712872

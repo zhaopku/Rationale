@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) is(0.0) all(0.0) the(0.0) debate(1.0) passed(0.0) for(0.0) the(0.0) time(0.0) period(0.0) that(0.0) will(0.0) be(0.0) available(0.0) to(0.0) discuss(0.0) what(0.0) the(0.0) gentleman(0.0) from(0.0) 
+California(0.0) [(0.0) Mr.(0.0) Miller(1.0) ](0.0) had(1.0) been(0.0) proposing(1.0) ?(1.0) 
+
+
+----- below are rationale words -----
+
+debate	
+Miller	had	proposing	?	
+
+reads % = 0.16666666666666666

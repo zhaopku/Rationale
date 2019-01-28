@@ -1,0 +1,24 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) rise(0.0) to(0.0) appreciate(0.0) teachers(0.0) ,(0.0) especially(0.0) my(0.0) wife(0.0) ,(0.0) who(0.0) is(0.0) a(0.0) high(0.0) school(0.0) math(0.0) teacher(0.0) ;(0.0) and(0.0) my(0.0) sister(0.0) 
+,(0.0) who(0.0) teaches(0.0) gifted(0.0) and(0.0) talented(0.0) students(0.0) and(0.0) English(0.0) as(0.0) a(0.0) second(0.0) language(0.0) .(0.0) But(0.0) mostly(0.0) ,(0.0) I(0.0) arise(0.0) to(0.0) 
+really(0.0) appreciate(0.0) our(0.0) teachers(0.0) .(0.0) I(0.0) have(0.0) three(0.0) daughters(0.0) .(0.0) They(0.0) have(0.0) all(0.0) received(0.0) great(0.0) educations(1.0) ,(0.0) and(0.0) it(0.0) 's(0.0) 
+thanks(0.0) to(0.0) the(0.0) teachers(0.0) who(0.0) spend(0.0) so(0.0) much(0.0) time(0.0) ,(0.0) who(0.0) care(0.0) about(0.0) our(0.0) kids(0.0) .(0.0) And(0.0) the(0.0) investment(1.0) we(0.0) 
+are(0.0) making(0.0) in(0.0) our(0.0) children(0.0) through(0.0) our(0.0) teachers(0.0) is(0.0) the(0.0) best(0.0) investment(1.0) America(1.0) can(0.0) make(0.0) .(0.0) We(0.0) have(0.0) to(0.0) continue(0.0) 
+to(0.0) build(0.0) our(0.0) education(1.0) system(0.0) and(0.0) make(0.0) it(0.0) the(0.0) best(0.0) in(0.0) the(0.0) world(0.0) and(0.0) keep(0.0) it(0.0) that(0.0) way(0.0) .(0.0) Mr.(0.0) 
+Speaker(1.0) ,(0.0) I(0.0) just(0.0) want(0.0) to(0.0) thank(0.0) all(0.0) of(0.0) the(0.0) teachers(0.0) out(0.0) there(0.0) for(0.0) the(0.0) hard(0.0) work(0.0) that(0.0) they(0.0) do(0.0) 
+every(0.0) day(0.0) on(0.0) behalf(0.0) of(0.0) our(0.0) country(1.0) ,(0.0) but(0.0) especially(0.0) our(0.0) kids(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+educations	
+investment	
+investment	America	
+education	
+Speaker	
+country	
+
+reads % = 0.045454545454545456

@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) am(0.0) pleased(0.0) to(0.0) yield(0.0) 1(0.0) minute(0.0) to(0.0) the(0.0) gentlewoman(0.0) from(0.0) California(0.0) [(0.0) Ms.(1.0) Woolsey(1.0) ](0.0) .(0.0) Chairman(0.0) ,(0.0) 
+I(0.0) yield(0.0) such(0.0) time(0.0) as(0.0) he(0.0) may(0.0) consume(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) [(0.0) Mr.(0.0) Bentsen(1.0) ](0.0) .(0.0) ((0.0) Mr.(0.0) 
+BENTSEN(1.0) asked(0.0) and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) his(0.0) remarks(0.0) .(0.0) )(0.0) 
+
+
+----- below are rationale words -----
+
+Ms.	Woolsey	
+Bentsen	
+BENTSEN	
+
+reads % = 0.07272727272727272

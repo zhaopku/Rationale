@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) Massachusetts(1.0) ,(0.0) [(0.0) Mr.(0.0) Moakley(1.0) ](0.0) ,(0.0) for(0.0) his(0.0) very(0.0) kind(0.0) words(0.0) 
+.(0.0) I(0.0) am(0.0) very(0.0) glad(0.0) that(0.0) we(0.0) have(0.0) an(0.0) open(0.0) rule(0.0) here(0.0) today(0.0) .(0.0) It(0.0) is(0.0) not(0.0) the(0.0) most(0.0) straightforward(0.0) 
+open(0.0) rule(1.0) that(0.0) one(0.0) could(0.0) have(0.0) ,(0.0) but(0.0) the(0.0) rule(1.0) does(0.0) have(0.0) a(0.0) provision(0.0) ,(0.0) as(0.0) Members(0.0) have(0.0) heard(0.0) ,(0.0) 
+for(0.0) according(0.0) priority(1.0) recognition(0.0) for(0.0) Members(0.0) who(0.0) have(0.0) preprinted(0.0) their(0.0) amendments(1.0) in(0.0) the(0.0) Congressional(1.0) Record(1.0) .(0.0) In(0.0) my(0.0) opinion(0.0) ,(0.0) 
+and(0.0) in(0.0) the(0.0) opinion(0.0) of(0.0) others(0.0) ,(0.0) this(0.0) is(0.0) unnecessary(1.0) to(0.0) the(0.0) rule(1.0) and(0.0) should(0.0) not(0.0) have(0.0) been(0.0) included(0.0) .(0.0) 
+I(0.0) am(0.0) also(0.0) concerned(0.0) over(0.0) the(0.0) way(0.0) in(0.0) which(0.0) the(0.0) bill(1.0) is(0.0) being(0.0) brought(0.0) to(0.0) the(0.0) floor(0.0) .(0.0) It(0.0) is(0.0) 
+a(0.0) major(0.0) piece(0.0) of(0.0) legislation(1.0) ,(0.0) and(0.0) just(0.0) fundamentally(1.0) changes(0.0) the(0.0) procedures(0.0) for(0.0) handling(0.0) future(0.0) legislation(1.0) .(0.0) Yet(0.0) it(0.0) is(0.0) 
+being(0.0) rammed(0.0) through(0.0) with(0.0) no(0.0) hearings(0.0) and(0.0) no(0.0) opportunity(0.0) from(0.0) the(0.0) committee(0.0) that(0.0) has(0.0) jurisdiction(1.0) ,(0.0) the(0.0) committee(0.0) ,(0.0) unlike(0.0) 
+the(0.0) Rules(0.0) Committee(0.0) that(0.0) in(0.0) fact(0.0) studies(0.0) it(0.0) and(0.0) understands(0.0) these(0.0) kinds(0.0) of(0.0) things(0.0) every(0.0) day(0.0) ,(0.0) for(0.0) a(0.0) positive(0.0) 
+input(0.0) ,(0.0) much(0.0) less(0.0) explanation(0.0) .(0.0) There(0.0) are(0.0) also(0.0) major(0.0) substantive(1.0) problems(0.0) with(0.0) the(0.0) direction(0.0) of(0.0) the(0.0) bill(1.0) ,(0.0) and(0.0) 
+while(0.0) I(0.0) know(0.0) States(1.0) and(0.0) local(0.0) communities(0.0) are(0.0) having(0.0) a(0.0) tough(0.0) time(0.0) ,(0.0) and(0.0) for(0.0) that(0.0) reason(0.0) there(0.0) is(0.0) a(0.0) 
+lot(0.0) of(0.0) good(0.0) in(0.0) this(0.0) bill(1.0) ,(0.0) I(0.0) am(0.0) concerned(0.0) that(0.0) not(0.0) all(0.0) of(0.0) the(0.0) provisions(1.0) have(0.0) been(0.0) thought(0.0) through(0.0) 
+.(0.0) I(0.0) am(0.0) particularly(0.0) concerned(0.0) about(0.0) the(0.0) impact(0.0) of(0.0) this(0.0) bill(1.0) on(0.0) nutrition(1.0) and(0.0) poverty(1.0) programs(1.0) serving(0.0) low-income(1.0) people(0.0) .(0.0) 
+When(0.0) we(0.0) considered(0.0) this(0.0) bill(1.0) in(0.0) the(0.0) Rules(1.0) Committee(0.0) I(0.0) repeatedly(0.0) asked(0.0) its(0.0) authors(0.0) if(0.0) food(1.0) and(0.0) other(0.0) services(0.0) to(0.0) 
+the(0.0) poor(1.0) would(0.0) be(0.0) reduced(0.0) ,(0.0) and(0.0) I(0.0) really(0.0) could(0.0) not(0.0) get(0.0) a(0.0) good(0.0) answer(0.0) on(0.0) it(0.0) .(0.0) Therefore(0.0) ,(0.0) 
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) will(0.0) be(0.0) offering(0.0) an(0.0) amendment(1.0) to(0.0) protect(1.0) the(0.0) very-low-income(1.0) programs(1.0) that(0.0) were(0.0) exempt(1.0) from(0.0) sequestration(1.0) under(0.0) 
+the(0.0) Gramm-Rudman(1.0) Act(0.0) of(0.0) 1985(0.0) ,(0.0) that(0.0) we(0.0) all(0.0) agreed(0.0) we(0.0) thought(0.0) was(0.0) a(0.0) good(0.0) idea(0.0) to(0.0) exempt(1.0) those(0.0) .(0.0) 
+These(0.0) are(0.0) Child(1.0) Nutrition(1.0) ,(0.0) Food(1.0) Stamps(0.0) ,(0.0) Aid(1.0) to(0.0) Families(1.0) with(0.0) Dependent(1.0) Children(0.0) ,(0.0) Medicaid(1.0) and(0.0) Supplemental(1.0) Security(0.0) Insurance(0.0) 
+.(0.0) If(0.0) changes(0.0) are(0.0) made(0.0) in(0.0) the(0.0) programs(1.0) down(0.0) the(0.0) road(0.0) my(0.0) amendment(1.0) will(0.0) make(0.0) sure(0.0) States(1.0) will(0.0) not(0.0) be(0.0) 
+able(0.0) to(0.0) cut(1.0) services(0.0) to(0.0) the(0.0) poor(1.0) .(0.0) It(0.0) will(0.0) also(0.0) continue(0.0) our(0.0) longstanding(1.0) Federal(1.0) commitment(1.0) to(0.0) these(0.0) food(1.0) and(0.0) 
+poverty(1.0) programs(1.0) by(0.0) including(0.0) them(0.0) as(0.0) unfunded(1.0) mandates(1.0) in(0.0) this(0.0) bill(1.0) .(0.0) This(0.0) bill(1.0) without(1.0) the(0.0) mandates(1.0) ,(0.0) without(0.0) the(0.0) 
+amendment(1.0) that(0.0) I(0.0) hope(0.0) to(0.0) put(0.0) in(0.0) ,(0.0) will(0.0) hurt(0.0) poor(1.0) people(0.0) if(0.0) it(0.0) passes(0.0) without(0.0) this(0.0) amendment(1.0) .(0.0) I(0.0) 
+would(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) take(0.0) a(0.0) careful(0.0) look(0.0) at(0.0) this(0.0) bill(1.0) .(0.0) It(0.0) is(0.0) one(0.0) which(0.0) changes(0.0) procedures(0.0) for(0.0) 
+legislation(1.0) coming(0.0) down(0.0) the(0.0) pike(1.0) ,(0.0) and(0.0) since(0.0) the(0.0) Government(1.0) Reform(1.0) and(0.0) Oversight(0.0) Committee(0.0) held(0.0) no(0.0) hearings(0.0) ,(0.0) every(0.0) Member(0.0) 
+of(0.0) this(0.0) body(0.0) needs(0.0) to(0.0) scrutinize(0.0) this(0.0) bill(1.0) to(0.0) see(0.0) exactly(0.0) what(0.0) effects(0.0) it(0.0) really(0.0) will(0.0) have(0.0) not(0.0) only(0.0) 
+
+
+----- below are rationale words -----
+
+Massachusetts	Moakley	
+
+rule	rule	
+priority	amendments	Congressional	Record	
+unnecessary	rule	
+bill	
+legislation	fundamentally	legislation	
+jurisdiction	
+
+substantive	bill	
+States	
+bill	provisions	
+bill	nutrition	poverty	programs	low-income	
+bill	Rules	food	
+poor	
+Speaker	amendment	protect	very-low-income	programs	exempt	sequestration	
+Gramm-Rudman	exempt	
+Child	Nutrition	Food	Aid	Families	Dependent	Medicaid	Supplemental	
+programs	amendment	States	
+cut	poor	longstanding	Federal	commitment	food	
+poverty	programs	unfunded	mandates	bill	bill	without	mandates	
+amendment	poor	amendment	
+bill	
+legislation	pike	Government	Reform	
+bill	
+
+reads % = 0.144

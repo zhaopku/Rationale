@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+We(0.0) actually(0.0) have(0.0) caps(1.0) with(0.0) offshore(1.0) ,(0.0) and(0.0) we(0.0) have(0.0) banned(1.0) further(0.0) offshore(1.0) drilling(1.0) ,(0.0) both(0.0) State(0.0) and(0.0) Federal(0.0) waters(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+caps	offshore	banned	offshore	drilling	
+
+
+reads % = 0.23809523809523808

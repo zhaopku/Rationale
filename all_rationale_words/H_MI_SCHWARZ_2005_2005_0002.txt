@@ -1,0 +1,38 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) honor(0.0) of(0.0) a(0.0) dear(0.0) friend(0.0) of(0.0) mine(0.0) ,(0.0) Mr.(0.0) William(1.0) C.(1.0) Martin(1.0) .(0.0) This(0.0) month(0.0) 
+Mr.(0.0) Martin(1.0) will(1.0) be(0.0) receiving(0.0) the(0.0) Sixth(0.0) Biannual(0.0) Humanitarian(0.0) Award(0.0) from(0.0) the(0.0) Jewish(1.0) Federation(0.0) of(0.0) Washtenaw(1.0) County(0.0) ,(0.0) an(0.0) organization(0.0) 
+in(0.0) my(0.0) district(0.0) .(0.0) Bill's(0.0) integrity(0.0) ,(0.0) modesty(0.0) and(0.0) selfless(0.0) devotion(0.0) to(0.0) the(0.0) betterment(1.0) of(0.0) society(1.0) make(0.0) him(0.0) an(0.0) embodiment(0.0) 
+of(0.0) the(0.0) ideals(1.0) represented(0.0) by(0.0) this(0.0) award(0.0) .(0.0) He(0.0) has(0.0) used(0.0) his(0.0) success(0.0) as(0.0) a(0.0) businessman(0.0) and(0.0) influence(0.0) as(0.0) a(0.0) 
+community(0.0) leader(0.0) to(0.0) help(0.0) those(0.0) in(0.0) need(0.0) .(0.0) When(0.0) he(0.0) was(0.0) still(0.0) an(0.0) MBA(0.0) student(0.0) at(0.0) the(0.0) University(0.0) of(0.0) Michigan(1.0) 
+,(0.0) he(0.0) took(0.0) on(0.0) the(0.0) challenge(0.0) of(0.0) helping(0.0) unemployed(1.0) ,(0.0) and(0.0) seemingly(0.0) unemployable(1.0) ,(0.0) men(0.0) find(0.0) jobs(0.0) in(0.0) the(0.0) community(0.0) 
+.(0.0) Bill(0.0) Martin(1.0) 's(0.0) reputation(0.0) of(0.0) honor(0.0) and(0.0) integrity(0.0) has(0.0) led(0.0) others(0.0) to(0.0) look(0.0) to(0.0) him(0.0) in(0.0) times(0.0) of(0.0) difficulty(0.0) 
+.(0.0) When(0.0) he(0.0) was(0.0) asked(0.0) to(0.0) become(0.0) the(0.0) University(0.0) of(0.0) Michigan(1.0) 's(0.0) athletic(0.0) director(0.0) at(0.0) a(0.0) time(0.0) when(0.0) the(0.0) department(0.0) 
+needed(0.0) reform(1.0) ,(0.0) he(0.0) not(0.0) only(0.0) agreed(0.0) ,(0.0) he(0.0) insisted(0.0) on(0.0) doing(0.0) so(0.0) at(0.0) no(0.0) salary(0.0) .(0.0) He(0.0) succeeded(0.0) in(0.0) 
+helping(0.0) turn(0.0) things(0.0) around(0.0) so(0.0) effectively(0.0) that(0.0) he(0.0) was(0.0) asked(0.0) to(0.0) remain(0.0) in(0.0) that(0.0) position(0.0) in(0.0) a(0.0) permanent(0.0) capacity(0.0) ,(0.0) 
+where(0.0) he(0.0) remains(0.0) today(0.0) .(0.0) When(0.0) the(0.0) United(0.0) States(0.0) Olympic(0.0) Committee(0.0) ,(0.0) on(0.0) whose(0.0) board(0.0) Bill(0.0) served(0.0) from(0.0) 1992(0.0) to(0.0) 
+2003(0.0) ,(0.0) was(0.0) shaken(0.0) by(0.0) scandal(1.0) ,(0.0) he(0.0) agreed(0.0) to(0.0) serve(0.0) as(0.0) president(0.0) and(0.0) help(0.0) the(0.0) organization(1.0) set(0.0) a(0.0) better(0.0) 
+course(0.0) .(0.0) Bill(0.0) Martin(1.0) is(0.0) one(0.0) of(0.0) those(0.0) rare(0.0) individuals(0.0) who(0.0) combines(0.0) altruism(1.0) ,(0.0) honesty(0.0) and(0.0) leadership(0.0) to(0.0) effect(0.0) positive(0.0) 
+change(0.0) on(0.0) the(0.0) local(0.0) ,(0.0) State(1.0) and(0.0) national(0.0) levels(0.0) .(0.0) His(0.0) genuine(0.0) and(0.0) giving(0.0) nature(0.0) truly(0.0) represents(0.0) the(0.0) principles(1.0) by(0.0) 
+which(0.0) all(0.0) our(0.0) Nation(1.0) 's(0.0) citizens(1.0) should(0.0) strive(0.0) to(0.0) live(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+William	C.	Martin	
+Martin	will	Jewish	Washtenaw	
+betterment	society	
+ideals	
+Michigan	
+unemployed	unemployable	
+Martin	
+Michigan	
+reform	
+
+
+scandal	organization	
+Martin	altruism	
+State	principles	
+Nation	citizens	
+
+reads % = 0.0821917808219178

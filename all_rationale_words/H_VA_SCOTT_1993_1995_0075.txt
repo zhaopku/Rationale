@@ -1,0 +1,36 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) we(0.0) keep(0.0) hearing(0.0) these(0.0) generalities(0.0) about(0.0) excessive(1.0) awards(1.0) ,(0.0) but(0.0) we(0.0) do(0.0) not(0.0) hear(0.0) specific(0.0) cases(0.0) that(0.0) outraged(1.0) juries(1.0) 
+so(0.0) much(0.0) that(0.0) they(0.0) actually(0.0) awarded(0.0) punitive(1.0) damages(0.0) .(0.0) We(0.0) have(0.0) to(0.0) put(0.0) this(0.0) amendment(1.0) in(0.0) the(0.0) context(1.0) of(0.0) the(0.0) 
+other(0.0) amendments(0.0) that(0.0) we(0.0) have(0.0) already(0.0) had(0.0) and(0.0) recognize(0.0) punitive(1.0) damages(1.0) are(0.0) designed(0.0) to(0.0) be(0.0) high(0.0) enough(0.0) to(0.0) protect(1.0) society(1.0) 
+from(0.0) a(0.0) corporate(1.0) calculation(0.0) that(0.0) it(0.0) is(0.0) easier(0.0) to(0.0) pay(1.0) the(0.0) damages(1.0) for(0.0) somebody(0.0) injured(0.0) ,(0.0) maimed(1.0) or(0.0) killed(0.0) ,(0.0) 
+than(0.0) it(0.0) is(0.0) to(0.0) correct(0.0) the(0.0) situation(0.0) .(0.0) Earlier(0.0) today(0.0) we(0.0) talked(0.0) about(0.0) the(0.0) situation(0.0) with(0.0) flammable(0.0) pajamas(0.0) where(0.0) the(0.0) 
+court(0.0) found(0.0) that(0.0) the(0.0) corporation(0.0) knew(0.0) that(0.0) the(0.0) pajamas(0.0) --(0.0) that(0.0) newsprint(1.0) burned(0.0) only(0.0) slightly(0.0) faster(0.0) than(0.0) the(0.0) pajamas(0.0) .(0.0) 
+Because(0.0) of(0.0) the(0.0) punitive(1.0) damages(0.0) ,(0.0) children(0.0) can(0.0) now(0.0) go(0.0) to(0.0) bed(0.0) safely(0.0) knowing(0.0) they(0.0) are(0.0) not(0.0) wearing(0.0) these(0.0) things(0.0) 
+.(0.0) In(0.0) the(0.0) context(0.0) of(0.0) loser(1.0) pays(1.0) and(0.0) a(0.0) separate(0.0) trial(0.0) for(0.0) punitive(1.0) damages(0.0) ,(0.0) this(0.0) amendment(1.0) would(1.0) essentially(0.0) remove(0.0) 
+any(0.0) incentive(1.0) that(0.0) a(0.0) plaintiff(1.0) would(0.0) have(0.0) to(0.0) go(0.0) after(0.0) punitive(1.0) damages(1.0) ,(0.0) thereby(0.0) removing(1.0) the(0.0) safety(0.0) valve(0.0) that(0.0) others(0.0) 
+will(0.0) enjoy(0.0) by(0.0) virtue(1.0) of(0.0) the(0.0) fact(0.0) that(0.0) corporations(1.0) are(0.0) afraid(0.0) of(0.0) these(0.0) punitive(1.0) damages(1.0) .(0.0) The(0.0) loser(1.0) pays(1.0) ,(0.0) 
+you(0.0) can(0.0) win(0.0) the(0.0) case(0.0) ,(0.0) on(0.0) the(0.0) compensation(1.0) ,(0.0) you(0.0) could(0.0) even(0.0) win(0.0) punitive(1.0) damages(0.0) .(0.0) But(0.0) if(0.0) you(0.0) 
+come(0.0) in(0.0) under(0.0) the(0.0) offer(0.0) ,(0.0) you(0.0) end(0.0) up(0.0) paying(1.0) your(0.0) attorneys(1.0) '(0.0) fees(0.0) ,(0.0) the(0.0) other(0.0) peoples(0.0) '(0.0) attorneys(0.0) 
+'(0.0) fees(0.0) ,(0.0) and(0.0) you(0.0) are(0.0) therefore(0.0) discouraged(0.0) from(0.0) bringing(0.0) these(0.0) cases(0.0) .(0.0) This(0.0) amendment(1.0) is(0.0) another(0.0) discouragement(0.0) in(0.0) protecting(1.0) 
+society(1.0) from(0.0) corporate(1.0) wrongdoing(1.0) and(0.0) ought(0.0) to(0.0) be(0.0) defeated(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+excessive	awards	outraged	juries	
+punitive	amendment	context	
+punitive	damages	protect	society	
+corporate	pay	damages	maimed	
+
+newsprint	
+punitive	
+loser	pays	punitive	amendment	would	
+incentive	plaintiff	punitive	damages	removing	
+virtue	corporations	punitive	damages	loser	pays	
+compensation	punitive	
+paying	attorneys	
+amendment	protecting	
+society	corporate	wrongdoing	
+
+reads % = 0.15498154981549817

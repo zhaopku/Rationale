@@ -1,0 +1,38 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) think(0.0) it(0.0) is(0.0) important(0.0) that(0.0) we(0.0) stress(0.0) that(0.0) this(0.0) is(0.0) not(0.0) just(0.0) Democrats(0.0) that(0.0) are(0.0) posing(1.0) these(0.0) questions(0.0) .(0.0) This(0.0) 
+past(0.0) week(0.0) on(0.0) ,(0.0) I(0.0) think(0.0) it(0.0) was(0.0) the(0.0) ``(0.0) CBS(0.0) Early(0.0) Show(0.0) ,(0.0) ''(0.0) someone(0.0) who(0.0) understands(0.0) combat(0.0) ,(0.0) 
+someone(0.0) who(0.0) was(0.0) in(0.0) war(1.0) and(0.0) who(0.0) is(0.0) a(0.0) decorated(0.0) veteran(0.0) of(0.0) the(0.0) Vietnam(0.0) conflict(0.0) ,(0.0) Chuck(0.0) Hagel(1.0) ,(0.0) Republican(0.0) 
+from(1.0) Nebraska(1.0) ,(1.0) said(1.0) this(1.0) :(1.0) ``(0.0) The(0.0) administration(0.0) has(0.0) done(0.0) a(0.0) miserable(0.0) job(0.0) of(0.0) planning(0.0) the(0.0) post-Saddam(1.0) Iraq(1.0) .(0.0) 
+''(0.0) The(0.0) administration(1.0) has(0.0) done(0.0) a(0.0) miserable(0.0) job(0.0) of(0.0) planning(0.0) the(0.0) post-(0.0) Saddam(1.0) Iraq(1.0) .(0.0) That(0.0) is(0.0) Senator(0.0) Hagel(1.0) .(0.0) 
+We(0.0) all(0.0) know(0.0) Senator(1.0) Hagel(1.0) .(0.0) Everybody(0.0) in(0.0) Congress(0.0) respects(0.0) and(0.0) acknowledges(0.0) his(0.0) integrity(0.0) ,(0.0) but(0.0) he(0.0) was(0.0) right(0.0) too(0.0) 
+.(0.0) Maybe(0.0) we(0.0) failed(0.0) in(0.0) our(0.0) responsibility(0.0) collectively(0.0) .(0.0) I(0.0) am(0.0) talking(0.0) about(0.0) the(0.0) House(0.0) as(0.0) well(0.0) as(0.0) the(0.0) other(0.0) 
+branch(0.0) .(0.0) Because(0.0) he(0.0) pointed(0.0) out(0.0) that(0.0) we(0.0) allowed(0.0) the(0.0) administration(1.0) to(0.0) treat(0.0) us(0.0) like(0.0) a(0.0) nuisance(0.0) .(0.0) We(0.0) did(0.0) 
+not(0.0) ask(0.0) the(0.0) questions(0.0) .(0.0) Some(0.0) of(0.0) us(0.0) did(0.0) .(0.0) But(0.0) no(0.0) ,(0.0) in(0.0) the(0.0) heat(0.0) and(0.0) in(0.0) the(0.0) vast(0.0) 
+amount(0.0) of(0.0) publicity(1.0) that(0.0) was(0.0) attendant(0.0) to(0.0) the(0.0) President(1.0) and(0.0) Vice(0.0) President(1.0) Cheney(1.0) and(0.0) Under(0.0) Secretary(1.0) Wolfowitz(1.0) 's(0.0) natural(0.0) access(0.0) 
+to(0.0) the(0.0) media(0.0) ,(0.0) people(0.0) did(0.0) not(0.0) ask(0.0) the(0.0) tough(0.0) questions(0.0) .(0.0) Well(0.0) ,(0.0) not(0.0) this(0.0) time(0.0) .(0.0) We(0.0) want(0.0) 
+a(0.0) plan(0.0) ,(0.0) and(0.0) we(0.0) want(0.0) all(0.0) of(0.0) the(0.0) answers(0.0) .(0.0) I(0.0) can(0.0) remember(0.0) Secretary(1.0) Feith(1.0) coming(0.0) in(0.0) front(0.0) of(0.0) 
+the(0.0) Committee(0.0) on(0.0) International(0.0) Relations(0.0) .(0.0) I(0.0) asked(0.0) him(0.0) ,(0.0) give(0.0) me(0.0) just(0.0) an(0.0) idea(0.0) of(0.0) the(0.0) costs(1.0) to(0.0) rebuild(1.0) 
+Iraq(1.0) .(0.0) He(0.0) said(0.0) ,(0.0) I(0.0) do(0.0) not(0.0) have(0.0) any(0.0) answers(0.0) .(0.0) And(0.0) does(0.0) that(0.0) include(0.0) the(0.0) $(0.0) 2(0.0) billion(1.0) 
+necessary(0.0) for(0.0) veterans(1.0) health(1.0) care(0.0) benefits(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+posing	
+
+war	Hagel	
+from	Nebraska	,	said	this	:	post-Saddam	Iraq	
+administration	Saddam	Iraq	Hagel	
+Senator	Hagel	
+
+administration	
+
+publicity	President	President	Cheney	Secretary	Wolfowitz	
+
+Secretary	Feith	
+costs	rebuild	
+Iraq	billion	
+veterans	health	benefits	
+
+reads % = 0.11458333333333333

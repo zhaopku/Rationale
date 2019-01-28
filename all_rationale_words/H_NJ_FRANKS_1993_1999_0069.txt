@@ -1,0 +1,56 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) last(0.0) month(0.0) New(1.0) York(1.0) Governor(0.0) George(1.0) Pataki(1.0) repealed(1.0) the(0.0) New(1.0) York(1.0) City(0.0) commuter(1.0) tax(1.0) but(0.0) only(0.0) for(0.0) New(1.0) York(1.0) 
+residents(1.0) .(0.0) His(0.0) goal(0.0) was(0.0) laudable(1.0) .(0.0) He(0.0) was(0.0) trying(0.0) to(0.0) give(0.0) 450,000(0.0) New(1.0) York(1.0) City(1.0) commuters(1.0) living(0.0) in(0.0) New(1.0) 
+York(1.0) State(0.0) a(0.0) $(0.0) 210(0.0) million(0.0) tax(1.0) cut(1.0) ,(1.0) but(1.0) at(1.0) the(0.0) same(0.0) time(0.0) he(0.0) wanted(0.0) to(0.0) force(1.0) the(0.0) residents(1.0) 
+of(0.0) Connecticut(1.0) and(0.0) New(1.0) Jersey(1.0) who(0.0) work(0.0) in(0.0) New(1.0) York(1.0) City(1.0) to(0.0) pick(0.0) up(0.0) the(0.0) tab(0.0) .(0.0) Every(0.0) year(0.0) ,(0.0) 
+250,000(0.0) residents(1.0) in(0.0) my(0.0) home(0.0) State(0.0) of(0.0) New(1.0) Jersey(1.0) shell(0.0) out(0.0) $(0.0) 110(0.0) million(0.0) in(0.0) taxes(1.0) to(0.0) the(0.0) City(0.0) of(0.0) 
+New(1.0) York(1.0) .(0.0) All(0.0) commuters(1.0) ,(0.0) whether(0.0) they(0.0) live(0.0) in(0.0) Rockland(1.0) County(1.0) ,(0.0) New(1.0) York(1.0) ;(0.0) Union(1.0) County(1.0) ,(0.0) New(1.0) 
+Jersey(1.0) ;(0.0) or(0.0) Fairfield(0.0) County(0.0) ,(0.0) Connecticut(1.0) ;(0.0) rely(0.0) on(0.0) the(0.0) same(0.0) services(0.0) and(0.0) transportation(0.0) infrastructure(0.0) provided(0.0) by(0.0) the(0.0) City(0.0) 
+of(0.0) New(1.0) York(1.0) .(0.0) They(0.0) should(0.0) not(0.0) be(0.0) taxed(0.0) differently(0.0) merely(0.0) because(0.0) they(0.0) live(0.0) in(0.0) a(0.0) State(0.0) other(0.0) than(0.0) New(1.0) 
+York(1.0) .(0.0) Late(0.0) last(0.0) Friday(0.0) ,(0.0) as(0.0) was(0.0) indicated(0.0) ,(0.0) a(0.0) New(0.0) York(1.0) State(0.0) Supreme(0.0) Court(0.0) judge(0.0) ruled(0.0) that(0.0) the(0.0) 
+targeted(0.0) repeal(0.0) of(0.0) the(0.0) New(1.0) York(1.0) City(1.0) commuter(1.0) tax(1.0) was(0.0) unconstitutional(1.0) .(0.0) The(0.0) judge(0.0) said(0.0) it(0.0) offends(1.0) the(0.0) provisions(1.0) that(0.0) 
+govern(0.0) privileges(0.0) and(0.0) immunities(0.0) ,(0.0) equal(0.0) protection(0.0) for(0.0) all(0.0) citizens(1.0) ,(0.0) and(0.0) the(0.0) provision(0.0) that(0.0) assigns(0.0) regulation(0.0) of(0.0) interstate(1.0) commerce(0.0) 
+to(0.0) the(0.0) Federal(0.0) Government(1.0) .(0.0) While(0.0) New(1.0) Jersey(1.0) and(0.0) New(0.0) York(1.0) commuters(1.0) have(0.0) won(0.0) a(0.0) temporary(0.0) victory(0.0) ,(0.0) the(0.0) commuter(1.0) 
+tax(1.0) border(1.0) war(1.0) is(0.0) far(0.0) from(0.0) over(0.0) .(0.0) New(1.0) York(1.0) City(1.0) has(0.0) already(0.0) announced(0.0) that(0.0) it(0.0) will(0.0) appeal(1.0) the(0.0) lower(0.0) 
+court(0.0) ruling(0.0) .(0.0) It(0.0) is(0.0) time(0.0) we(0.0) in(0.0) Congress(0.0) put(0.0) this(0.0) issue(0.0) to(0.0) rest(0.0) once(0.0) and(0.0) for(0.0) all(0.0) .(0.0) We(0.0) 
+must(0.0) send(0.0) a(0.0) clear(0.0) and(0.0) definitive(0.0) message(0.0) ,(0.0) that(0.0) tax(1.0) wars(1.0) between(0.0) neighboring(1.0) States(1.0) will(0.0) no(1.0) longer(0.0) be(0.0) tolerated(0.0) .(0.0) 
+The(0.0) bill(1.0) before(0.0) us(0.0) would(0.0) prevent(1.0) any(0.0) State(0.0) ,(0.0) including(0.0) New(1.0) York(1.0) ,(0.0) from(0.0) taxing(1.0) the(0.0) income(1.0) of(0.0) citizens(1.0) from(0.0) 
+other(0.0) States(0.0) at(0.0) a(0.0) higher(0.0) rate(0.0) than(0.0) they(0.0) tax(1.0) the(0.0) income(1.0) of(0.0) their(0.0) own(0.0) residents(0.0) .(0.0) This(0.0) legislation(1.0) would(1.0) impose(1.0) 
+a(0.0) permanent(0.0) cease-fire(1.0) in(0.0) the(0.0) battle(1.0) over(0.0) commuter(1.0) taxes(1.0) by(0.0) making(0.0) it(0.0) clear(0.0) that(0.0) taxes(1.0) imposed(1.0) by(0.0) one(0.0) State(0.0) can(0.0) 
+not(0.0) discriminate(1.0) against(0.0) out-of-State(1.0) residents(0.0) .(0.0) Finally(0.0) ,(0.0) it(0.0) would(0.0) prevent(0.0) politicians(1.0) from(0.0) ever(0.0) again(0.0) using(0.0) the(0.0) threat(1.0) of(0.0) a(0.0) 
+commuter(1.0) tax(1.0) to(0.0) score(0.0) political(1.0) points(0.0) at(0.0) home(0.0) at(0.0) the(0.0) expense(1.0) of(0.0) its(0.0) neighbors(0.0) and(0.0) the(0.0) economic(1.0) well-being(0.0) of(0.0) the(0.0) 
+region(0.0) .(0.0) In(0.0) a(0.0) larger(0.0) sense(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) this(0.0) issue(0.0) should(0.0) remind(0.0) us(0.0) of(0.0) how(0.0) much(0.0) commuters(1.0) have(0.0) 
+in(0.0) common(0.0) .(0.0) They(0.0) work(0.0) side(0.0) by(0.0) side(0.0) .(0.0) They(0.0) use(0.0) the(0.0) same(0.0) rails(0.0) and(0.0) roadways(1.0) to(0.0) get(0.0) to(0.0) work(0.0) 
+.(0.0) They(0.0) can(0.0) not(0.0) and(0.0) should(0.0) not(0.0) be(0.0) taxed(1.0) differently(0.0) solely(0.0) because(0.0) they(0.0) live(0.0) in(0.0) different(0.0) States(0.0) .(0.0) I(0.0) urge(0.0) 
+my(0.0) colleagues(0.0) to(0.0) support(0.0) the(0.0) legislation(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+New	York	George	Pataki	repealed	New	York	commuter	tax	New	York	
+residents	laudable	New	York	City	commuters	New	
+York	tax	cut	,	but	at	force	residents	
+Connecticut	New	Jersey	New	York	City	
+residents	New	Jersey	taxes	
+New	York	commuters	Rockland	County	New	York	Union	County	New	
+Jersey	Connecticut	
+New	York	New	
+York	York	
+New	York	City	commuter	tax	unconstitutional	offends	provisions	
+citizens	interstate	
+Government	New	Jersey	York	commuters	commuter	
+tax	border	war	New	York	City	appeal	
+
+tax	wars	neighboring	States	no	
+bill	prevent	New	York	taxing	income	citizens	
+tax	income	legislation	would	impose	
+cease-fire	battle	commuter	taxes	taxes	imposed	
+discriminate	out-of-State	politicians	threat	
+commuter	tax	political	expense	economic	
+Speaker	commuters	
+roadways	
+taxed	
+legislation	
+
+reads % = 0.24145299145299146

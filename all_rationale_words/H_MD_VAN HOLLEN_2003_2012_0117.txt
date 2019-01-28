@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) guess(0.0) we(0.0) 're(0.0) going(0.0) to(0.0) spend(1.0) the(0.0) next(0.0) I(0.0) do(0.0) n't(0.0) know(0.0) how(0.0) many(0.0) minutes(0.0) talking(0.0) about(0.0) something(0.0) 
+that(0.0) 's(0.0) not(0.0) the(0.0) President(1.0) 's(0.0) budget(1.0) .(0.0) It(0.0) 's(0.0) an(0.0) attempt(0.0) to(0.0) be(0.0) misleading(0.0) about(0.0) what(0.0) the(0.0) President(1.0) 's(0.0) 
+budget(1.0) does(0.0) because(0.0) it(0.0) leaves(0.0) out(0.0) all(0.0) the(0.0) content(0.0) ,(0.0) leaves(0.0) out(0.0) the(0.0) substance(0.0) .(0.0) You(0.0) look(0.0) at(0.0) the(0.0) Republican(1.0) 
+budget(1.0) ,(1.0) they(1.0) 've(1.0) got(1.0) a(1.0) lot(1.0) of(0.0) sections(0.0) on(0.0) policy(1.0) .(0.0) You(0.0) look(0.0) at(0.0) the(0.0) other(0.0) alternatives(1.0) that(0.0) are(0.0) 
+being(0.0) presented(0.0) ,(0.0) they(0.0) have(0.0) alternatives(0.0) and(0.0) policy(1.0) statements(0.0) .(0.0) This(0.0) is(0.0) a(0.0) bunch(0.0) of(0.0) numbers(0.0) without(0.0) the(0.0) explanation(0.0) .(0.0) 
+Now(0.0) ,(0.0) do(0.0) the(0.0) Democrats(1.0) ,(0.0) for(0.0) example(0.0) ,(0.0) think(0.0) that(0.0) the(0.0) President(1.0) invested(1.0) enough(0.0) in(0.0) his(0.0) budget(1.0) in(0.0) LIHEAP(1.0) 
+,(0.0) the(0.0) low-income(1.0) energy(1.0) program(1.0) for(0.0) low-(0.0) income(1.0) individuals(0.0) .(0.0) We(0.0) actually(0.0) have(0.0) a(0.0) majority(0.0) in(0.0) our(0.0) caucus(1.0) that(0.0) thinks(1.0) 
+the(0.0) President(1.0) should(0.0) have(0.0) put(0.0) a(0.0) little(0.0) more(0.0) into(0.0) that(0.0) .(0.0) But(0.0) that(0.0) 's(0.0) only(0.0) the(0.0) kind(0.0) of(0.0) detail(0.0) you(0.0) 
+would(0.0) know(0.0) if(0.0) you(0.0) went(0.0) through(0.0) the(0.0) President(1.0) 's(0.0) budget(1.0) ,(0.0) not(0.0) this(0.0) thing(0.0) that(0.0) Mr.(0.0) Mulvaney(1.0) claims(1.0) is(0.0) the(0.0) 
+President(0.0) 's(0.0) budget(0.0) ,(0.0) which(0.0) it(0.0) 's(0.0) just(0.0) not(0.0) .(0.0) So(0.0) just(0.0) to(0.0) be(0.0) clear(0.0) :(0.0) This(0.0) is(0.0) not(0.0) the(0.0) 
+President(1.0) 's(0.0) budget(1.0) ,(0.0) and(0.0) therefore(0.0) it(0.0) obviously(0.0) is(0.0) a(0.0) political(0.0) gimmick(0.0) .(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+spend	
+President	budget	President	
+budget	Republican	
+budget	,	they	've	got	a	lot	policy	alternatives	
+policy	
+Democrats	President	invested	budget	LIHEAP	
+low-income	energy	program	income	caucus	thinks	
+President	
+President	budget	Mulvaney	claims	
+
+President	budget	
+
+
+reads % = 0.15315315315315314

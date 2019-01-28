@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) in(0.0) opposition(1.0) to(0.0) the(0.0) rule(1.0) and(0.0) the(0.0) conference(0.0) report(0.0) due(0.0) to(0.0) the(0.0) inclusion(1.0) in(0.0) the(0.0) bill(0.0) of(0.0) 
+unnecessarily(1.0) restrictive(1.0) export(1.0) controls(0.0) on(0.0) computer(0.0) products(0.0) .(0.0) Two(0.0) years(0.0) ago(0.0) ,(0.0) the(0.0) administration(1.0) determined(0.0) in(0.0) an(0.0) uncontested(1.0) study(0.0) that(0.0) 
+computers(0.0) of(0.0) at(0.0) least(0.0) 5,000(0.0) MTOPS(1.0) ,(0.0) that(0.0) is(0.0) millions(1.0) of(0.0) theoretical(1.0) operations(1.0) per(0.0) second(0.0) ,(0.0) were(0.0) currently(0.0) widely(0.0) available(0.0) 
+worldwide(0.0) and(0.0) that(0.0) computers(0.0) up(0.0) to(0.0) 7,000(0.0) MTOPS(1.0) would(0.0) be(0.0) available(0.0) the(0.0) next(0.0) year(0.0) ;(0.0) that(0.0) is(0.0) ,(0.0) this(0.0) year(0.0) 
+.(0.0) Based(0.0) on(0.0) that(0.0) study(0.0) ,(0.0) the(0.0) current(0.0) policy(1.0) allows(0.0) exports(1.0) of(0.0) computers(0.0) between(0.0) 2,000(0.0) and(0.0) 7,000(0.0) MTOPS(1.0) without(0.0) a(0.0) 
+license(0.0) for(0.0) civilian(1.0) end-use(1.0) .(0.0) The(0.0) U.S.(0.0) Government(0.0) made(0.0) this(0.0) policy(1.0) after(0.0) the(0.0) Department(0.0) of(0.0) Defense(0.0) ,(0.0) the(0.0) State(0.0) Department(0.0) 
+,(0.0) and(0.0) the(0.0) Commerce(0.0) Department(0.0) concluded(0.0) it(0.0) would(0.0) not(0.0) jeopardize(0.0) national(0.0) security(0.0) .(0.0) However(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) the(0.0) conference(0.0) 
+report(0.0) would(0.0) repeal(1.0) this(0.0) sensible(1.0) policy(1.0) and(0.0) try(0.0) to(0.0) limit(1.0) exports(1.0) of(0.0) technology(1.0) that(0.0) has(0.0) already(0.0) been(0.0) widely(0.0) available(0.0) for(0.0) 
+purchase(0.0) abroad(0.0) for(0.0) over(0.0) 3(0.0) years(0.0) .(0.0) Since(0.0) competitive(0.0) products(0.0) are(0.0) already(0.0) available(0.0) from(0.0) our(0.0) foreign(1.0) competitors(0.0) ,(0.0) such(0.0) a(0.0) 
+policy(1.0) would(0.0) hurt(0.0) U.S.(0.0) computer(0.0) companies(0.0) without(0.0) improving(0.0) our(0.0) national(1.0) security(0.0) in(0.0) any(0.0) way(0.0) .(0.0) This(0.0) year(0.0) ,(0.0) U.S.(0.0) sales(0.0) 
+of(0.0) these(0.0) computers(0.0) to(0.0) Tier(0.0) III(0.0) countries(0.0) will(0.0) total(0.0) about(0.0) $(0.0) 500(0.0) million(0.0) .(0.0) By(0.0) 2000(0.0) ,(0.0) this(0.0) number(0.0) is(0.0) 
+expected(0.0) to(0.0) grow(0.0) to(0.0) between(0.0) $(0.0) 1.5(0.0) billion(1.0) and(0.0) $(0.0) 3(0.0) billion(1.0) in(0.0) a(0.0) total(0.0) worldwide(0.0) market(0.0) of(0.0) $(0.0) 7(0.0) 
+billion(1.0) to(0.0) $(0.0) 12(0.0) billion(1.0) .(0.0) That(0.0) is(0.0) why(0.0) I(0.0) believe(0.0) that(0.0) the(0.0) U.S(1.0) .(0.0) Export(0.0) Administration(1.0) in(0.0) their(0.0) fax(0.0) 
+to(0.0) me(0.0) on(0.0) Friday(0.0) indicated(0.0) ,(0.0) quote(0.0) ,(0.0) The(0.0) waiting(0.0) periods(0.0) in(0.0) the(0.0) bill(1.0) are(0.0) an(0.0) affront(1.0) to(0.0) normal(0.0) decisionmaking(1.0) 
+processes(0.0) ,(0.0) are(0.0) unnecessary(1.0) ,(0.0) and(0.0) make(0.0) no(0.0) technological(0.0) sense(0.0) ,(0.0) Furthermore(0.0) ,(0.0) the(0.0) U.S(1.0) .(0.0) Export(0.0) Administration(1.0) fax(0.0) to(0.0) 
+me(0.0) ,(0.0) said(0.0) :(0.0) The(0.0) requirement(1.0) to(0.0) conduct(0.0) postshipment(0.0) checks(0.0) will(0.0) become(0.0) an(0.0) extraordinary(0.0) resource(0.0) burden(0.0) ,(0.0) is(0.0) unadministrable(0.0) ,(0.0) 
+and(0.0) is(0.0) unnecessary(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) supporters(1.0) of(0.0) this(0.0) amendment(1.0) will(0.0) invariably(0.0) bring(0.0) up(0.0) anecdotal(0.0) stories(0.0) about(0.0) inappropriate(0.0) computer(0.0) 
+sales(0.0) .(0.0) Certainly(0.0) we(0.0) must(0.0) prevent(0.0) powerful(0.0) computers(0.0) from(0.0) ending(1.0) up(0.0) in(0.0) the(0.0) wrong(0.0) hands(0.0) .(0.0) Current(0.0) U.S.(0.0) law(1.0) restricts(1.0) 
+such(0.0) sales(0.0) .(0.0) We(0.0) should(0.0) absolutely(0.0) discuss(0.0) ways(0.0) to(0.0) improve(0.0) communications(0.0) between(0.0) exporters(1.0) and(0.0) the(0.0) agencies(1.0) that(0.0) track(0.0) dummy(0.0) civilian(1.0) 
+end-users(0.0) .(0.0) However(0.0) ,(0.0) restrictions(1.0) on(0.0) domestic(1.0) exporters(1.0) will(0.0) not(0.0) stop(0.0) anyone(0.0) from(0.0) getting(0.0) 7,000(0.0) ,(0.0) or(0.0) even(0.0) greater(0.0) ,(0.0) 
+MTOPS(1.0) computers(0.0) because(0.0) they(0.0) are(0.0) already(0.0) available(0.0) across(0.0) the(0.0) globe(0.0) .(0.0) Moreover(0.0) ,(0.0) current(0.0) law(1.0) includes(0.0) strong(0.0) penalties(1.0) for(0.0) companies(0.0) 
+that(0.0) sell(0.0) to(0.0) military(1.0) users(0.0) or(0.0) sell(0.0) restricted(0.0) technologies(0.0) .(0.0) Several(0.0) companies(0.0) are(0.0) currently(0.0) under(0.0) investigation(0.0) under(0.0) these(0.0) laws(1.0) .(0.0) 
+We(0.0) do(0.0) not(0.0) need(0.0) new(0.0) legislation(1.0) to(0.0) maintain(0.0) national(1.0) security(0.0) .(0.0) Violations(1.0) of(0.0) current(0.0) laws(1.0) can(0.0) result(0.0) in(0.0) a(0.0) 20-year(1.0) 
+prohibition(1.0) on(0.0) all(0.0) exports(1.0) ,(0.0) prison(1.0) terms(0.0) of(0.0) up(0.0) to(0.0) 10(0.0) years(0.0) ,(0.0) and(0.0) fines(1.0) of(0.0) up(0.0) to(0.0) $(0.0) 50,000(0.0) 
+per(0.0) violation(1.0) .(0.0) The(0.0) Spence-Dellums(0.0) amendment(1.0) included(0.0) in(0.0) the(0.0) conference(0.0) report(0.0) will(0.0) add(0.0) layers(0.0) of(0.0) bureaucratic(1.0) impediments(1.0) ,(0.0) and(0.0) 
+
+
+----- below are rationale words -----
+
+opposition	rule	inclusion	
+unnecessarily	restrictive	export	administration	uncontested	
+MTOPS	millions	theoretical	operations	
+MTOPS	
+policy	exports	MTOPS	
+civilian	end-use	policy	
+Speaker	
+repeal	sensible	policy	limit	exports	technology	
+foreign	
+policy	national	
+
+billion	billion	
+billion	billion	U.S	Administration	
+bill	affront	decisionmaking	
+unnecessary	U.S	Administration	
+requirement	
+unnecessary	Speaker	supporters	amendment	
+ending	law	restricts	
+exporters	agencies	civilian	
+restrictions	domestic	exporters	
+MTOPS	law	penalties	
+military	laws	
+legislation	national	Violations	laws	20-year	
+prohibition	exports	prison	fines	
+violation	amendment	bureaucratic	impediments	
+
+reads % = 0.146

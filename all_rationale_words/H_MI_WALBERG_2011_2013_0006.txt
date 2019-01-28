@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) the(0.0) American(0.0) people(0.0) ,(0.0) regardless(0.0) of(0.0) political(1.0) affiliation(0.0) ,(0.0) expect(0.0) elected(1.0) leaders(0.0) in(0.0) Washington(1.0) to(0.0) offer(0.0) a(0.0) plan(0.0) to(0.0) 
+reduce(1.0) mounting(0.0) deficits(1.0) and(0.0) revive(1.0) our(0.0) stagnant(1.0) economy(1.0) .(0.0) House(0.0) Republicans(1.0) agree(1.0) and(0.0) have(0.0) offered(0.0) another(0.0) responsible(0.0) plan(0.0) to(0.0) balance(0.0) 
+the(0.0) budget(1.0) with(0.0) responsible(0.0) reforms(1.0) .(0.0) Meanwhile(0.0) ,(0.0) the(0.0) best(0.0) plan(1.0) Senate(0.0) Democrats(1.0) can(0.0) come(0.0) up(0.0) with(0.0) continues(0.0) to(0.0) spend(1.0) 
+more(0.0) money(1.0) than(0.0) we(0.0) take(0.0) in(0.0) .(0.0) They(0.0) call(0.0) for(0.0) a(0.0) balanced(0.0) approach(0.0) ,(0.0) and(0.0) yet(0.0) their(0.0) budget(1.0) never(0.0) balances(0.0) 
+and(0.0) includes(0.0) $(0.0) 1.5(0.0) trillion(1.0) in(0.0) new(0.0) taxes(1.0) .(0.0) At(0.0) least(0.0) Senate(0.0) Democrats(1.0) have(0.0) finally(0.0) come(0.0) around(0.0) to(0.0) offering(0.0) a(0.0) 
+plan(0.0) ,(0.0) after(0.0) spending(1.0) the(0.0) last(0.0) 4(0.0) years(0.0) on(0.0) the(0.0) sidelines(0.0) .(0.0) The(0.0) President(1.0) has(0.0) yet(0.0) to(0.0) submit(0.0) his(0.0) budget(1.0) 
+to(0.0) Congress(0.0) ,(0.0) already(0.0) 6(0.0) weeks(0.0) behind(0.0) his(0.0) legal(1.0) deadline(0.0) .(0.0) Budgets(0.0) offer(0.0) a(0.0) picture(0.0) of(0.0) how(0.0) government(1.0) plans(1.0) to(0.0) 
+steward(0.0) taxpayer(1.0) money(1.0) .(0.0) The(0.0) Senate(1.0) budget(1.0) asks(1.0) for(0.0) higher(0.0) taxes(1.0) to(0.0) fund(1.0) higher(0.0) spending(1.0) ,(0.0) to(0.0) finance(1.0) ever-growing(1.0) government(1.0) 
+.(0.0) My(0.0) constituents(1.0) are(0.0) tired(0.0) of(0.0) the(0.0) cavalier(1.0) and(0.0) unserious(1.0) approach(1.0) that(0.0) has(0.0) become(0.0) all(0.0) too(0.0) common(0.0) in(0.0) Washington(1.0) .(0.0) 
+I(0.0) 'm(0.0) pleased(0.0) that(0.0) the(0.0) House(0.0) Republican(1.0) majority(1.0) continues(1.0) to(1.0) take(1.0) its(1.0) responsibilities(1.0) seriously(1.0) and(1.0) produce(1.0) budgets(1.0) which(1.0) balance(1.0) ,(0.0) 
+getting(1.0) us(0.0) back(0.0) on(0.0) track(0.0) to(0.0) fiscal(1.0) sanity(1.0) and(0.0) a(0.0) healthy(0.0) economy(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+political	elected	Washington	
+reduce	deficits	revive	stagnant	economy	Republicans	agree	
+budget	reforms	plan	Democrats	spend	
+money	budget	
+trillion	taxes	Democrats	
+spending	President	budget	
+legal	government	plans	
+taxpayer	money	Senate	budget	asks	taxes	fund	spending	finance	ever-growing	government	
+constituents	cavalier	unserious	approach	Washington	
+Republican	majority	continues	to	take	its	responsibilities	seriously	and	produce	budgets	which	balance	
+getting	fiscal	sanity	economy	
+
+reads % = 0.2757009345794392

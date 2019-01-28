@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) amidst(0.0) the(0.0) international(0.0) humiliation(1.0) and(0.0) farce(1.0) that(0.0) we(0.0) 've(0.0) suffered(0.0) with(0.0) our(0.0) abortive(1.0) war(1.0) with(0.0) Syria(1.0) ,(0.0) there(0.0) are(0.0) 
+two(0.0) good(0.0) things(0.0) the(0.0) President(1.0) has(0.0) done(0.0) ,(0.0) and(0.0) they(0.0) need(0.0) to(0.0) be(0.0) noted(0.0) .(0.0) Last(0.0) night(0.0) ,(0.0) he(0.0) stepped(0.0) 
+back(0.0) from(0.0) an(0.0) international(0.0) crisis(1.0) that(0.0) could(0.0) have(0.0) had(0.0) catastrophic(0.0) consequences(1.0) by(0.0) deferring(1.0) to(0.0) the(0.0) Russian(0.0) diplomatic(0.0) initiative(0.0) .(0.0) Thank(0.0) 
+God(0.0) .(0.0) And(0.0) last(0.0) week(0.0) ,(0.0) he(0.0) stepped(0.0) back(0.0) from(0.0) a(0.0) constitutional(1.0) crisis(1.0) by(0.0) deferring(1.0) to(0.0) Congress(0.0) the(0.0) decision(1.0) over(0.0) 
+whether(0.0) to(0.0) go(0.0) to(0.0) war(1.0) --(0.0) as(0.0) the(0.0) Constitution(1.0) requires(0.0) .(0.0) I(0.0) 've(0.0) been(0.0) deeply(0.0) troubled(0.0) by(0.0) suggestions(0.0) from(0.0) many(0.0) 
+otherwise(0.0) responsible(0.0) officials(0.0) and(0.0) commentators(0.0) --(0.0) from(0.0) both(0.0) parties(0.0) --(0.0) that(0.0) the(0.0) President(1.0) has(0.0) independent(0.0) authority(0.0) as(0.0) Commander(0.0) in(0.0) Chief(0.0) 
+to(0.0) order(0.0) an(0.0) attack(0.0) on(0.0) other(0.0) countries(0.0) when(0.0) he(0.0) deems(0.0) it(0.0) necessary(0.0) .(0.0) This(0.0) cuts(1.0) right(0.0) to(0.0) the(0.0) core(0.0) of(0.0) 
+our(0.0) Constitution(1.0) 's(0.0) design(0.0) ,(0.0) and(0.0) it(0.0) evinces(1.0) an(0.0) alarming(1.0) deterioration(1.0) of(0.0) the(0.0) popular(0.0) understanding(0.0) of(0.0) the(0.0) separation(1.0) of(0.0) powers(1.0) 
+that(0.0) keeps(0.0) us(0.0) free(0.0) .(0.0) There(0.0) is(0.0) nothing(0.0) more(0.0) clear(0.0) in(0.0) the(0.0) American(0.0) Constitution(1.0) than(0.0) that(0.0) Congress(0.0) has(0.0) the(0.0) sole(0.0) 
+authority(0.0) to(0.0) decide(0.0) the(0.0) question(0.0) of(0.0) war(1.0) or(0.0) peace(1.0) .(0.0) Only(0.0) after(0.0) Congress(0.0) has(0.0) made(0.0) that(0.0) decision(1.0) does(0.0) the(0.0) President(1.0) 
+,(0.0) as(0.0) Commander(0.0) in(0.0) Chief(0.0) ,(0.0) have(0.0) the(0.0) authority(0.0) to(0.0) execute(0.0) that(0.0) decision(0.0) .(0.0) For(0.0) centuries(0.0) ,(0.0) European(0.0) monarchs(1.0) had(0.0) 
+plunged(0.0) their(0.0) nations(1.0) into(0.0) bloody(1.0) and(0.0) debilitating(0.0) wars(1.0) on(0.0) whim(0.0) ,(0.0) and(0.0) the(0.0) Constitution(1.0) 's(0.0) Framers(1.0) wanted(0.0) to(0.0) protect(1.0) the(0.0) 
+American(0.0) Republic(1.0) from(0.0) that(0.0) fate(0.0) .(0.0) They(0.0) understood(0.0) that(0.0) a(0.0) President(0.0) ,(0.0) for(0.0) example(0.0) ,(0.0) might(0.0) someday(0.0) paint(0.0) himself(0.0) into(0.0) 
+a(0.0) rhetorical(0.0) corner(0.0) and(0.0) feel(0.0) compelled(0.0) to(0.0) save(0.0) face(0.0) by(0.0) exercising(1.0) force(1.0) .(0.0) That(0.0) is(0.0) precisely(0.0) why(0.0) they(0.0) entrusted(0.0) that(0.0) 
+fateful(0.0) decision(1.0) to(0.0) the(0.0) Congress(0.0) .(0.0) James(0.0) Madison(1.0) ,(0.0) the(0.0) Father(0.0) of(0.0) the(0.0) American(0.0) Constitution(1.0) ,(0.0) said(0.0) that(0.0) its(0.0) single(0.0) 
+most(0.0) important(0.0) feature(0.0) was(0.0) the(0.0) provision(1.0) that(0.0) gave(0.0) the(0.0) Congress(0.0) ,(0.0) and(0.0) not(0.0) the(0.0) President(1.0) ,(0.0) the(0.0) authority(0.0) to(0.0) go(0.0) 
+to(0.0) war(1.0) .(0.0) Here(0.0) 's(0.0) what(0.0) he(0.0) wrote(0.0) in(0.0) 1793(1.0) :(0.0) In(0.0) no(0.0) part(0.0) of(0.0) the(0.0) Constitution(1.0) is(0.0) more(0.0) wisdom(0.0) 
+to(0.0) be(0.0) found(0.0) than(0.0) in(0.0) the(0.0) clause(1.0) which(0.0) confides(0.0) the(0.0) question(0.0) of(0.0) war(1.0) or(0.0) peace(1.0) to(0.0) the(0.0) legislature(1.0) ,(0.0) and(0.0) 
+not(0.0) to(0.0) the(0.0) executive(0.0) department(0.0) .(0.0) The(0.0) trust(0.0) and(0.0) the(0.0) temptation(0.0) would(0.0) be(0.0) too(0.0) great(0.0) for(0.0) any(0.0) one(0.0) man(0.0) .(0.0) 
+War(0.0) is(0.0) in(0.0) fact(0.0) the(0.0) true(0.0) nurse(0.0) of(0.0) executive(0.0) aggrandizement(1.0) .(0.0) In(0.0) war(1.0) ,(0.0) a(0.0) physical(0.0) force(0.0) is(0.0) to(0.0) be(0.0) 
+created(0.0) and(0.0) it(0.0) is(0.0) the(0.0) executive(0.0) will(0.0) which(0.0) is(0.0) to(0.0) direct(0.0) it(0.0) .(0.0) In(0.0) war(1.0) ,(0.0) the(0.0) public(1.0) treasures(0.0) are(0.0) 
+to(0.0) be(0.0) unlocked(0.0) ,(0.0) and(0.0) it(0.0) is(0.0) the(0.0) executive(0.0) hand(0.0) which(0.0) is(0.0) to(0.0) dispense(0.0) them(0.0) .(0.0) Those(0.0) who(0.0) are(0.0) to(0.0) 
+conduct(0.0) a(0.0) war(0.0) can(0.0) not(0.0) ,(0.0) in(0.0) the(0.0) nature(0.0) of(0.0) things(0.0) ,(0.0) be(0.0) proper(0.0) or(0.0) safe(0.0) judges(0.0) of(0.0) whether(0.0) a(0.0) 
+war(1.0) ought(0.0) to(0.0) be(0.0) commenced(0.0) ,(0.0) continued(0.0) ,(0.0) or(0.0) concluded(0.0) .(0.0) In(0.0) Federalist(1.0) 69(0.0) ,(0.0) Alexander(0.0) Hamilton(1.0) wrote(0.0) that(0.0) one(0.0) 
+of(0.0) the(0.0) most(0.0) important(0.0) differences(0.0) between(0.0) the(0.0) British(0.0) King(0.0) and(0.0) the(0.0) American(0.0) President(0.0) is(0.0) that(0.0) the(0.0) King(0.0) can(0.0) plunge(0.0) 
+
+
+----- below are rationale words -----
+
+humiliation	farce	abortive	war	Syria	
+President	
+crisis	consequences	deferring	
+constitutional	crisis	deferring	decision	
+war	Constitution	
+President	
+cuts	
+Constitution	evinces	alarming	deterioration	separation	powers	
+Constitution	
+war	peace	decision	President	
+monarchs	
+nations	bloody	wars	Constitution	Framers	protect	
+Republic	
+exercising	force	
+decision	Madison	Constitution	
+provision	President	
+war	1793	Constitution	
+clause	war	peace	legislature	
+
+aggrandizement	war	
+war	public	
+
+
+war	Federalist	Hamilton	
+
+
+reads % = 0.114

@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(1.0) Speaker(1.0) ,(0.0) I(0.0) want(1.0) to(0.0) thank(0.0) Chairman(1.0) Hastings(0.0) for(0.0) organizing(1.0) this(0.0) discussion(0.0) and(0.0) for(0.0) his(0.0) work(0.0) on(0.0) H.R(0.0) .(0.0) 1526(1.0) 
+,(0.0) the(0.0) Restoring(1.0) Healthy(0.0) Forests(1.0) for(0.0) Healthy(1.0) Communities(0.0) Act(0.0) .(0.0) This(0.0) act(0.0) takes(1.0) on(0.0) a(0.0) poignant(0.0) and(0.0) crucial(1.0) importance(0.0) to(0.0) 
+my(0.0) district(1.0) in(0.0) the(0.0) Sierra(1.0) Nevada(1.0) Mountains(0.0) of(0.0) California(0.0) where(0.0) the(0.0) Yosemite(0.0) rim(0.0) fire(0.0) continues(1.0) to(0.0) burn(0.0) through(0.0) nearly(0.0) 400(0.0) 
+square(1.0) miles(0.0) of(0.0) forestland(1.0) .(0.0) For(0.0) years(0.0) foresters(1.0) have(0.0) warned(1.0) us(0.0) that(0.0) the(0.0) excess(1.0) timber(1.0) will(0.0) come(0.0) out(1.0) of(0.0) the(0.0) 
+forest(1.0) one(0.0) way(1.0) or(0.0) another(0.0) .(0.0) It(0.0) will(0.0) either(1.0) be(0.0) carried(1.0) out(0.0) or(1.0) it(0.0) will(0.0) be(0.0) burned(1.0) out(0.0) ,(0.0) but(0.0) 
+it(0.0) will(0.0) come(0.0) out(1.0) .(0.0) For(0.0) generations(0.0) we(0.0) carried(0.0) the(0.0) excess(1.0) timber(1.0) out(1.0) of(0.0) our(0.0) forests(0.0) through(0.0) sound(0.0) forest(1.0) management(1.0) 
+practices(1.0) ,(0.0) leaving(1.0) room(0.0) for(0.0) the(0.0) remaining(1.0) trees(0.0) to(0.0) grow(1.0) healthy(1.0) and(0.0) strong(0.0) .(0.0) We(0.0) had(0.0) far(0.0) less(0.0) frequent(0.0) and(0.0) 
+less(0.0) intense(0.0) forest(1.0) fires(1.0) ,(0.0) healthy(1.0) trees(0.0) that(0.0) were(0.0) disease(0.0) resistant(0.0) and(0.0) pest(1.0) resistant(0.0) ,(0.0) and(0.0) a(0.0) healthier(1.0) watershed(1.0) as(0.0) 
+well(0.0) as(0.0) a(0.0) thriving(1.0) economy(1.0) .(0.0) But(0.0) today(1.0) ,(0.0) extremist(1.0) environmental(1.0) regulations(1.0) have(0.0) driven(1.0) that(0.0) harvest(0.0) down(1.0) by(0.0) more(0.0) than(0.0) 
+80(0.0) percent(1.0) in(0.0) the(0.0) Sierras(0.0) in(0.0) the(0.0) past(0.0) 30(0.0) years(0.0) .(0.0) We(0.0) now(0.0) consign(1.0) the(0.0) forests(0.0) to(0.0) a(0.0) policy(0.0) of(0.0) 
+benign(1.0) neglect(1.0) .(0.0) And(0.0) rather(0.0) than(0.0) harvesting(1.0) a(0.0) small(1.0) percentage(1.0) of(0.0) the(0.0) trees(0.0) to(0.0) keep(1.0) our(0.0) forests(1.0) healthy(1.0) and(0.0) fire(0.0) 
+resistant(0.0) ,(0.0) we(0.0) are(0.0) watching(0.0) more(0.0) than(0.0) 400(0.0) square(1.0) miles(0.0) of(0.0) Sierra(1.0) Nevada(1.0) incinerated(1.0) .(0.0) If(1.0) we(0.0) had(0.0) just(1.0) harvested(0.0) 
+a(0.0) small(0.0) fraction(1.0) of(0.0) those(0.0) trees(1.0) ,(0.0) it(0.0) 's(0.0) quite(0.0) possible(0.0) that(0.0) we(0.0) could(0.0) have(0.0) spared(0.0) the(0.0) Sierras(0.0) from(0.0) the(0.0) 
+conflagrations(1.0) that(0.0) are(0.0) now(0.0) feeding(1.0) on(0.0) excessive(1.0) fuels(1.0) .(0.0) It(0.0) is(0.0) also(1.0) likely(0.0) we(0.0) could(0.0) have(0.0) snuffed(1.0) out(0.0) those(0.0) fires(1.0) 
+almost(0.0) immediately(0.0) after(0.0) they(0.0) started(0.0) .(0.0) A(1.0) generation(1.0) ago(1.0) ,(0.0) small(1.0) harvesting(1.0) crews(0.0) operated(1.0) throughout(0.0) the(0.0) mountains(1.0) and(0.0) they(0.0) moved(0.0) 
+along(0.0) well-maintained(1.0) timber(0.0) roads(1.0) .(0.0) When(1.0) a(0.0) fire(0.0) first(0.0) broke(0.0) out(0.0) ,(0.0) it(0.0) took(1.0) no(0.0) time(0.0) for(0.0) a(0.0) crew(1.0) with(0.0) 
+a(0.0) bulldozer(1.0) to(0.0) get(0.0) to(0.0) that(0.0) fire(0.0) and(0.0) stop(0.0) it(0.0) before(1.0) it(0.0) got(1.0) out(1.0) of(0.0) control(1.0) .(0.0) Today(0.0) ,(0.0) those(0.0) 
+crews(1.0) are(0.0) gone(0.0) ,(0.0) the(0.0) roads(1.0) are(0.0) in(0.0) disrepair(1.0) ,(0.0) and(0.0) so(0.0) fires(1.0) that(0.0) a(0.0) generation(1.0) ago(0.0) consumed(1.0) just(0.0) a(0.0) 
+few(0.0) acres(0.0) now(0.0) consume(0.0) hundreds(0.0) of(0.0) thousands(0.0) of(0.0) acres(0.0) .(0.0) The(0.0) result(0.0) of(0.0) these(0.0) misguided(1.0) policies(1.0) is(0.0) now(0.0) clear(0.0) and(0.0) 
+undeniable(0.0) :(1.0) economically(1.0) devastated(1.0) communities(0.0) ,(0.0) closed(1.0) timber(0.0) mills(0.0) ,(0.0) unemployed(1.0) families(1.0) ,(0.0) overgrown(1.0) forests(0.0) ,(0.0) overdrawn(1.0) watersheds(1.0) ,(0.0) jeopardized(1.0) 
+transmission(0.0) lines(0.0) ,(0.0) rampant(1.0) disease(0.0) and(0.0) pestilence(1.0) ,(0.0) and(0.0) increasingly(0.0) intense(0.0) and(0.0) frequent(0.0) forest(1.0) fires(1.0) .(0.0) That(0.0) is(0.0) the(0.0) story(0.0) 
+of(0.0) the(0.0) towns(0.0) throughout(0.0) the(0.0) Sierra(1.0) Nevada(1.0) --(0.0) once(1.0) thriving(1.0) and(0.0) prosperous(1.0) communities(0.0) that(0.0) have(0.0) been(0.0) devastated(1.0) by(0.0) these(0.0) policies(1.0) 
+.(0.0) This(0.0) is(0.0) not(1.0) environmentalism(1.0) .(0.0) True(1.0) environmentalists(1.0) recognize(1.0) the(0.0) damage(0.0) done(0.0) by(0.0) overgrowth(1.0) and(0.0) overpopulation(1.0) and(0.0) they(0.0) recognize(1.0) the(0.0) 
+role(0.0) of(0.0) sound(0.0) ,(0.0) sustainable(1.0) forest(1.0) management(0.0) practices(1.0) in(0.0) maintaining(0.0) healthy(1.0) forests(0.0) .(0.0) If(1.0) there(0.0) is(0.0) any(1.0) doubt(1.0) of(0.0) the(0.0) 
+connection(0.0) between(0.0) the(0.0) reduction(0.0) of(0.0) timber(1.0) harvesting(1.0) and(0.0) the(0.0) increase(1.0) in(0.0) acreage(1.0) incinerated(1.0) by(0.0) forest(1.0) fires(0.0) ,(0.0) I(0.0) ask(1.0) 
+
+
+----- below are rationale words -----
+
+Speaker	want	Chairman	organizing	1526	
+Restoring	Forests	Healthy	takes	crucial	
+district	Sierra	Nevada	continues	
+square	forestland	foresters	warned	excess	timber	out	
+forest	way	either	carried	or	burned	
+out	excess	timber	out	forest	management	
+practices	leaving	remaining	grow	healthy	
+forest	fires	healthy	pest	healthier	watershed	
+thriving	economy	today	extremist	environmental	regulations	driven	down	
+percent	consign	
+benign	neglect	harvesting	small	percentage	keep	forests	healthy	
+square	Sierra	Nevada	incinerated	If	just	
+fraction	trees	
+conflagrations	feeding	excessive	fuels	also	snuffed	fires	
+A	generation	ago	small	harvesting	operated	mountains	
+well-maintained	roads	When	took	crew	
+bulldozer	before	got	out	control	
+crews	roads	disrepair	fires	generation	consumed	
+misguided	policies	
+:	economically	devastated	closed	unemployed	families	overgrown	overdrawn	watersheds	jeopardized	
+rampant	pestilence	forest	fires	
+Sierra	Nevada	once	thriving	prosperous	devastated	policies	
+not	environmentalism	True	environmentalists	recognize	overgrowth	overpopulation	recognize	
+sustainable	forest	practices	healthy	If	any	doubt	
+timber	harvesting	increase	acreage	incinerated	forest	ask	
+
+reads % = 0.29

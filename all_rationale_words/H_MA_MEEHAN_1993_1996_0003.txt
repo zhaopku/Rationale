@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+House(0.0) of(0.0) Representatives(0.0) .(0.0) Today(0.0) 's(0.0) debate(1.0) has(0.0) been(0.0) bought(0.0) and(0.0) paid(0.0) for(0.0) by(0.0) the(0.0) National(0.0) Rifle(0.0) Association(0.0) .(0.0) And(0.0) boy(0.0) 
+was(0.0) it(0.0) expensive(0.0) .(0.0) It(0.0) cost(0.0) :(0.0) Soft(0.0) money(1.0) contributions(1.0) of(0.0) $(0.0) 308,000(0.0) to(0.0) the(0.0) Republican(1.0) National(1.0) Party(1.0) Committees(1.0) .(1.0) 
+Nearly(1.0) $(1.0) 2(1.0) million(1.0) in(1.0) special(1.0) interest(1.0) PAC(1.0) contributions(1.0) ,(1.0) 78(1.0) percent(1.0) or(1.0) $(1.0) 1.4(1.0) million(1.0) of(1.0) it(1.0) going(1.0) to(1.0) 
+Republicans(1.0) .(1.0) The(1.0) NRA(1.0) spent(1.0) another(1.0) $(1.0) 1.5(1.0) million(1.0) in(1.0) independent(1.0) expenditures(1.0) ,(1.0) $(1.0) 1.2(1.0) million(1.0) of(1.0) which(1.0) went(0.0) to(1.0) 
+support(0.0) Republican(0.0) candidates(1.0) .(1.0) And(1.0) how(1.0) about(1.0) those(1.0) reformers(1.0) --(0.0) the(0.0) Republican(1.0) House(1.0) freshmen(1.0) .(1.0) They(1.0) want(1.0) this(1.0) vote(1.0) today(1.0) 
+.(1.0) And(1.0) there(1.0) is(1.0) little(1.0) wonder(1.0) .(1.0) The(0.0) NRA(1.0) shelled(1.0) out(1.0) $(1.0) 235,000(1.0) in(1.0) special(1.0) interest(1.0) PAC(1.0) money(1.0) to(1.0) House(0.0) 
+freshmen(1.0) in(1.0) the(1.0) 1993-94(1.0) election(1.0) cycle(1.0) ,(1.0) 44(1.0) percent(1.0) of(1.0) the(1.0) NRA(1.0) 's(1.0) total(1.0) PAC(1.0) contributions(1.0) .(1.0) Mr.(0.0) Speaker(1.0) ,(0.0) 
+from(0.0) day(0.0) one(0.0) this(0.0) Congress(0.0) has(0.0) been(0.0) responsive(0.0) only(0.0) to(0.0) the(0.0) powerful(0.0) special(0.0) interests(1.0) that(0.0) funnel(1.0) high(0.0) dollar(1.0) campaign(1.0) donations(1.0) 
+to(0.0) the(0.0) GOP(1.0) .(1.0) Today(1.0) is(1.0) just(1.0) another(1.0) glaring(1.0) example(1.0) .(1.0) 
+
+
+----- below are rationale words -----
+
+debate	
+money	contributions	Republican	National	Party	Committees	.	
+Nearly	$	2	million	in	special	interest	PAC	contributions	,	78	percent	or	$	1.4	million	of	it	going	to	
+Republicans	.	The	NRA	spent	another	$	1.5	million	in	independent	expenditures	,	$	1.2	million	of	which	to	
+candidates	.	And	how	about	those	reformers	Republican	House	freshmen	.	They	want	this	vote	today	
+.	And	there	is	little	wonder	.	NRA	shelled	out	$	235,000	in	special	interest	PAC	money	to	
+freshmen	in	the	1993-94	election	cycle	,	44	percent	of	the	NRA	's	total	PAC	contributions	.	Speaker	
+interests	funnel	dollar	campaign	donations	
+GOP	.	Today	is	just	another	glaring	example	.	
+
+reads % = 0.6569767441860465

@@ -1,0 +1,56 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) while(0.0) I(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) the(0.0) goals(0.0) and(0.0) ideals(1.0) of(0.0) National(0.0) Teen(0.0) Dating(0.0) Violence(1.0) Awareness(1.0) and(0.0) Prevention(0.0) 
+Week(0.0) ,(0.0) I(0.0) have(0.0) to(0.0) say(0.0) that(0.0) I(0.0) have(0.0) been(0.0) reading(0.0) the(0.0) polls(1.0) and(0.0) I(0.0) have(0.0) been(0.0) listening(0.0) to(0.0) the(0.0) 
+people(0.0) who(0.0) have(0.0) called(0.0) in(0.0) .(0.0) And(0.0) they(0.0) have(0.0) come(0.0) in(0.0) from(0.0) across(0.0) the(0.0) Nation(1.0) .(0.0) They(0.0) do(0.0) not(0.0) believe(0.0) 
+because(0.0) they(0.0) know(0.0) that(0.0) this(0.0) stimulus(1.0) package(0.0) that(0.0) is(0.0) moving(0.0) forward(0.0) will(0.0) not(0.0) grow(0.0) jobs(0.0) .(0.0) We(0.0) want(0.0) to(0.0) spend(1.0) 
+$(0.0) 100(0.0) million(0.0) to(0.0) reduce(1.0) the(0.0) hazards(1.0) of(0.0) lead-based(1.0) paint(1.0) .(0.0) It(0.0) is(0.0) time(0.0) we(0.0) do(0.0) get(0.0) serious(0.0) about(0.0) what(0.0) 
+is(0.0) going(0.0) on(0.0) in(0.0) this(0.0) country(1.0) .(0.0) More(0.0) government(1.0) spending(1.0) ,(0.0) deficit(1.0) spending(1.0) ,(0.0) is(0.0) not(0.0) the(0.0) way(0.0) to(0.0) our(0.0) 
+future(0.0) .(0.0) It(0.0) is(0.0) absolutely(0.0) not(0.0) the(0.0) way(0.0) to(0.0) our(0.0) future(0.0) .(0.0) We(0.0) are(0.0) running(0.0) this(0.0) government(1.0) on(0.0) a(0.0) credit(0.0) 
+card(0.0) ,(0.0) and(0.0) it(0.0) is(0.0) wrong(0.0) .(0.0) The(0.0) people(0.0) ca(0.0) n't(0.0) live(0.0) their(0.0) lives(0.0) on(0.0) a(0.0) credit(0.0) card(0.0) ,(0.0) and(0.0) 
+those(0.0) who(0.0) do(0.0) are(0.0) in(0.0) trouble(0.0) .(0.0) It(0.0) is(0.0) a(0.0) sinking(0.0) ,(0.0) deep-seated(1.0) feeling(0.0) .(0.0) And(0.0) those(0.0) of(0.0) us(0.0) here(0.0) 
+representing(0.0) our(0.0) States(1.0) ,(0.0) we(0.0) all(0.0) care(1.0) passionately(1.0) about(0.0) this(0.0) country(1.0) .(0.0) Nobody(0.0) has(0.0) a(0.0) monopoly(1.0) on(0.0) pride(0.0) .(0.0) Nobody(0.0) 
+has(0.0) a(0.0) monopoly(1.0) on(0.0) patriotism(1.0) .(0.0) We(0.0) all(0.0) want(0.0) to(0.0) do(0.0) what(0.0) is(0.0) best(0.0) for(0.0) our(0.0) country(1.0) .(0.0) But(0.0) I(0.0) 
+am(0.0) also(0.0) here(0.0) to(0.0) say(0.0) that(0.0) all(0.0) of(0.0) this(0.0) spending(1.0) is(0.0) not(0.0) the(0.0) way(0.0) we(0.0) are(0.0) going(0.0) to(0.0) solve(0.0) our(0.0) 
+problems(0.0) .(0.0) When(0.0) government(1.0) comes(0.0) in(0.0) and(0.0) picks(0.0) winners(0.0) and(0.0) losers(1.0) ,(0.0) there(0.0) are(0.0) too(0.0) many(0.0) people(0.0) who(0.0) lose(0.0) .(0.0) 
+I(0.0) am(0.0) a(0.0) freshman(0.0) here(0.0) .(0.0) I(0.0) am(0.0) first(0.0) to(0.0) tell(0.0) you(0.0) the(0.0) Republicans(1.0) who(1.0) had(1.0) the(1.0) House(0.0) ,(0.0) the(0.0) 
+Senate(0.0) and(0.0) the(0.0) Presidency(1.0) ,(0.0) they(0.0) blew(0.0) it(0.0) .(0.0) But(0.0) we(0.0) also(0.0) have(0.0) to(0.0) come(0.0) to(0.0) grips(0.0) that(0.0) it(0.0) is(0.0) 
+this(0.0) House(0.0) of(0.0) Representatives(0.0) that(0.0) over(0.0) the(0.0) last(0.0) 2(0.0) years(0.0) has(0.0) controlled(0.0) the(0.0) United(0.0) States(0.0) Congress(0.0) .(0.0) They(0.0) are(0.0) the(0.0) 
+ones(0.0) who(0.0) have(0.0) spent(0.0) the(0.0) money(1.0) .(0.0) They(0.0) are(0.0) the(0.0) ones(0.0) who(0.0) have(0.0) control(0.0) .(0.0) And(0.0) there(0.0) is(0.0) plenty(0.0) of(0.0) 
+blame(1.0) to(0.0) go(0.0) around(0.0) .(0.0) The(0.0) question(0.0) is(0.0) how(0.0) are(0.0) we(0.0) going(0.0) to(0.0) move(0.0) forward(0.0) ?(0.0) When(0.0) you(0.0) look(0.0) down(0.0) 
+this(0.0) laundry(0.0) list(0.0) ,(0.0) $(0.0) 110(0.0) million(0.0) to(0.0) the(0.0) Farm(0.0) Service(0.0) Agency(0.0) to(0.0) upgrade(0.0) computer(0.0) systems(0.0) ,(0.0) everybody(0.0) knows(0.0) that(0.0) 
+is(0.0) not(0.0) going(0.0) to(0.0) get(0.0) somebody(0.0) a(0.0) job(0.0) .(0.0) We(0.0) need(0.0) a(0.0) game(0.0) changer(0.0) in(0.0) this(0.0) country(1.0) .(0.0) Putting(0.0) more(0.0) 
+money(1.0) onto(0.0) our(0.0) credit(0.0) cards(0.0) is(0.0) not(0.0) the(0.0) way(0.0) we(0.0) are(0.0) going(0.0) to(0.0) solve(0.0) our(0.0) problems(0.0) .(0.0) This(0.0) laundry(0.0) list(0.0) 
+of(0.0) things(0.0) that(0.0) passed(0.0) this(0.0) body(0.0) and(0.0) that(0.0) the(0.0) Senate(1.0) is(0.0) contemplating(0.0) ,(0.0) $(0.0) 200(0.0) million(0.0) for(0.0) public(1.0) computer(0.0) centers(1.0) 
+at(0.0) a(0.0) community(0.0) college(0.0) is(0.0) not(0.0) going(0.0) to(0.0) grow(0.0) our(0.0) economy(1.0) ;(0.0) $(0.0) 10(0.0) million(0.0) to(0.0) inspect(0.0) canals(1.0) in(0.0) urban(1.0) 
+areas(0.0) ,(0.0) probably(0.0) a(0.0) worthy(0.0) project(0.0) ,(0.0) but(0.0) we(0.0) have(0.0) a(0.0) $(0.0) 3.1(0.0) trillion(1.0) budget(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+ideals	Violence	Awareness	
+polls	
+Nation	
+stimulus	spend	
+reduce	hazards	lead-based	paint	
+country	government	spending	deficit	spending	
+government	
+
+deep-seated	
+States	care	passionately	country	monopoly	
+monopoly	patriotism	country	
+spending	
+government	losers	
+Republicans	who	had	the	
+Presidency	
+
+money	
+blame	
+
+country	
+money	
+Senate	public	centers	
+economy	canals	urban	
+trillion	budget	
+
+reads % = 0.09643605870020965

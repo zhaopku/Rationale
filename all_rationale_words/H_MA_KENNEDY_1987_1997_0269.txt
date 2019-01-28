@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) 15(0.0) seconds(0.0) to(0.0) respond(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Arizona(1.0) .(0.0) First(0.0) of(0.0) all(0.0) I(0.0) would(0.0) just(0.0) 
+say(0.0) yama-yama-yama(0.0) ,(0.0) here(0.0) we(0.0) go(0.0) again(0.0) .(0.0) The(0.0) fact(0.0) of(0.0) the(0.0) matter(0.0) is(0.0) that(0.0) we(0.0) have(0.0) got(0.0) $(0.0) 60(0.0) 
+billion(1.0) worth(0.0) of(0.0) tax(1.0) reductions(1.0) scored(1.0) by(0.0) CBO(1.0) in(0.0) this(0.0) budget(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) yield(0.0) 1(0.0) minute(0.0) to(0.0) 
+the(0.0) gentleman(0.0) from(0.0) Michigan(1.0) [(0.0) Mr.(0.0) Bonior(1.0) ](0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Arizona	
+
+billion	tax	reductions	scored	CBO	budget	Chairman	
+Michigan	Bonior	
+
+reads % = 0.14285714285714285

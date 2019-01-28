@@ -1,0 +1,36 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) would(0.0) say(0.0) ,(0.0) first(0.0) of(0.0) all(0.0) ,(0.0) I(0.0) am(0.0) very(0.0) sympathetic(0.0) to(0.0) the(0.0) gentleman(0.0) 's(0.0) plight(1.0) .(0.0) I(0.0) 
+am(0.0) lucky(0.0) enough(0.0) to(0.0) live(0.0) in(0.0) New(1.0) York(1.0) and(0.0) be(0.0) able(0.0) to(0.0) shuttle(0.0) down(0.0) here(0.0) .(0.0) There(0.0) is(0.0) difficulty(0.0) .(0.0) 
+The(0.0) majority(1.0) and(0.0) the(0.0) minority(1.0) have(0.0) been(0.0) working(0.0) with(0.0) Members(0.0) to(0.0) try(0.0) to(0.0) increase(0.0) the(0.0) predictability(1.0) of(0.0) the(0.0) schedule(0.0) .(0.0) 
+There(0.0) has(0.0) been(0.0) more(0.0) sensitivity(0.0) .(0.0) This(0.0) week(0.0) in(0.0) particular(0.0) ,(0.0) there(0.0) will(0.0) be(0.0) no(0.0) votes(0.0) on(0.0) Monday(0.0) .(0.0) We(0.0) 
+will(0.0) not(0.0) come(0.0) in(0.0) until(0.0) 12(0.0) o'clock(0.0) ,(0.0) or(0.0) we(0.0) expect(0.0) no(0.0) votes(0.0) until(0.0) 12(0.0) o'clock(0.0) on(0.0) Tuesday(0.0) .(0.0) We(0.0) 
+will(0.0) be(0.0) out(0.0) by(0.0) 2(0.0) p.m.(0.0) on(0.0) Friday(0.0) .(0.0) Of(0.0) course(0.0) ,(0.0) 2(0.0) weeks(0.0) thereafter(0.0) we(0.0) will(0.0) be(0.0) in(0.0) recess(1.0) 
+.(0.0) So(0.0) we(0.0) have(0.0) a(0.0) difficult(0.0) week(0.0) in(0.0) terms(0.0) of(0.0) trying(0.0) to(0.0) ensure(0.0) that(0.0) a(0.0) budget(0.0) resolution(1.0) and(0.0) some(0.0) other(0.0) 
+legislation(1.0) is(0.0) done(0.0) in(0.0) a(0.0) 4-day(0.0) period(0.0) .(0.0) I(0.0) can(0.0) only(0.0) tell(0.0) the(0.0) gentleman(0.0) that(0.0) we(0.0) are(0.0) trying(0.0) to(0.0) be(0.0) 
+sensitive(0.0) to(0.0) those(0.0) colleagues(0.0) who(0.0) are(0.0) on(0.0) the(0.0) West(0.0) Coast(0.0) .(0.0) There(0.0) has(0.0) been(0.0) some(0.0) significant(0.0) modification(0.0) of(0.0) the(0.0) schedule(0.0) 
+to(0.0) reflect(0.0) that(0.0) sensitivity(0.0) over(0.0) the(0.0) last(0.0) several(0.0) weeks(0.0) .(0.0) I(0.0) think(0.0) that(0.0) we(0.0) are(0.0) going(0.0) to(0.0) continue(0.0) to(0.0) try(0.0) 
+and(0.0) work(0.0) on(0.0) it(0.0) .(0.0) But(0.0) ,(0.0) again(0.0) ,(0.0) this(0.0) week(0.0) in(0.0) particular(0.0) ,(0.0) we(0.0) have(0.0) a(0.0) 4-day(0.0) week(0.0) .(0.0) 
+We(0.0) are(0.0) not(0.0) in(0.0) at(0.0) all(0.0) on(0.0) Monday(0.0) ,(0.0) and(0.0) we(0.0) have(0.0) the(0.0) 2(0.0) weeks(0.0) of(0.0) recess(0.0) thereafter(0.0) .(0.0) It(0.0) 
+is(0.0) important(0.0) that(0.0) we(0.0) get(0.0) our(0.0) work(0.0) done(0.0) .(0.0) We(0.0) will(0.0) do(0.0) the(0.0) best(0.0) that(0.0) we(0.0) can(0.0) .(0.0) Mr.(0.0) DeFAZIO(1.0) 
+.(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) will(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) Jersey(1.0) yield(0.0) further(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+plight	
+New	York	
+majority	minority	predictability	
+
+
+recess	
+resolution	
+legislation	
+
+
+
+
+DeFAZIO	
+Speaker	Jersey	
+
+reads % = 0.043795620437956206

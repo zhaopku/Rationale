@@ -1,0 +1,16 @@
+This is from a Republican
+----- below is the original text -----
+Absolutely(0.0) ,(0.0) and(0.0) there(0.0) is(0.0) a(0.0) barrage(0.0) of(0.0) other(0.0) laws(1.0) that(0.0) will(0.0) go(0.0) after(0.0) deadbeat(1.0) dads(1.0) if(0.0) the(0.0) Republican(0.0) Contract(1.0) With(1.0) 
+America(1.0) welfare(1.0) plan(1.0) gets(1.0) passed(1.0) because(1.0) there(1.0) are(1.0) other(1.0) laws(1.0) that(1.0) are(1.0) contingent(1.0) on(0.0) this(1.0) that(1.0) will(1.0) further(0.0) make(0.0) life(0.0) 
+hard(0.0) on(0.0) deadbeat(1.0) dads(1.0) and(0.0) could(0.0) include(0.0) revoking(1.0) drivers(0.0) licenses(1.0) and(0.0) so(0.0) forth(0.0) .(0.0) We(0.0) are(0.0) going(0.0) to(0.0) get(0.0) the(0.0) 
+money(1.0) from(0.0) the(0.0) dad(0.0) ,(0.0) and(0.0) we(0.0) are(0.0) going(0.0) to(0.0) bring(0.0) him(0.0) back(0.0) in(0.0) the(0.0) formula(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+laws	deadbeat	dads	Contract	With	
+America	welfare	plan	gets	passed	because	there	are	other	laws	that	are	contingent	this	that	will	
+deadbeat	dads	revoking	licenses	
+money	formula	
+
+reads % = 0.34615384615384615

@@ -1,0 +1,20 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) respect(0.0) the(0.0) gentleman(0.0) from(0.0) Georgia(1.0) 
+((0.0) Mr.(0.0) Collins(1.0) )(0.0) with(1.0) whom(0.0) I(0.0) have(0.0) gone(0.0) on(0.0) trips(0.0) to(0.0) see(0.0) our(0.0) military(0.0) ,(0.0) and(0.0) this(0.0) issue(0.0) is(0.0) 
+also(0.0) about(0.0) the(0.0) military(0.0) .(0.0) As(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) ((0.0) Mr.(0.0) Edwards(1.0) )(0.0) who(1.0) represents(0.0) Fort(0.0) Hood(0.0) pointed(0.0) out(0.0) 
+,(0.0) this(0.0) will(0.0) impact(0.0) them(0.0) unless(0.0) we(0.0) reform(1.0) the(0.0) government(1.0) pension(1.0) offset(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) 1(0.0) minute(0.0) 
+to(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) ((0.0) Mr.(0.0) Reyes(1.0) )(0.0) .(0.0) Speaker(0.0) ,(0.0) I(0.0) yield(0.0) 2(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) 
+Texas(0.0) ((0.0) Mr.(0.0) Turner(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	Georgia	
+Collins	with	
+Edwards	who	
+reform	government	pension	Speaker	
+Reyes	
+Turner	
+
+reads % = 0.11214953271028037

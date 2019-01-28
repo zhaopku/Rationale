@@ -1,0 +1,10 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) yield(0.0) 2(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Virginia(1.0) ((0.0) Mr.(0.0) Moran(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Virginia	Moran	
+
+reads % = 0.11764705882352941

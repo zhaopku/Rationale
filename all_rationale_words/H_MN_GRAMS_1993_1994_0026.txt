@@ -1,0 +1,34 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) one(0.0) of(0.0) the(0.0) first(0.0) and(0.0) most(0.0) important(0.0) things(0.0) children(0.0) learn(0.0) is(0.0) to(0.0) look(0.0) both(0.0) ways(0.0) before(0.0) they(0.0) cross(0.0) the(0.0) 
+street(0.0) .(0.0) It(0.0) is(0.0) good(0.0) advice(0.0) that(0.0) Congress(0.0) would(0.0) be(0.0) wise(0.0) to(0.0) accept(0.0) and(0.0) give(0.0) when(0.0) it(0.0) passes(0.0) legislation(1.0) that(0.0) 
+impacts(1.0) the(0.0) viability(1.0) of(0.0) businesses(1.0) and(0.0) jobs(0.0) .(0.0) Is(0.0) it(0.0) not(0.0) interesting(0.0) that(0.0) before(0.0) a(0.0) builder(0.0) can(0.0) develop(0.0) a(0.0) tract(0.0) 
+of(0.0) land(1.0) the(0.0) Environmental(1.0) Protection(0.0) Agency(0.0) requires(0.0) the(0.0) submission(0.0) of(0.0) an(0.0) environmental(1.0) impact(0.0) statement(0.0) .(0.0) This(0.0) is(0.0) the(0.0) equivalent(0.0) of(0.0) 
+``(0.0) look(0.0) before(0.0) you(0.0) cross(0.0) .(0.0) ''(0.0) But(0.0) when(0.0) it(0.0) comes(0.0) to(0.0) legislation(1.0) meant(0.0) to(0.0) protect(0.0) the(0.0) environment(0.0) ,(0.0) rarely(0.0) 
+are(0.0) cost-benefit(1.0) or(0.0) economic(1.0) impact(0.0) statements(0.0) required(0.0) ;(0.0) and(0.0) even(0.0) when(0.0) they(0.0) are(0.0) required(0.0) ,(0.0) they(0.0) are(0.0) typically(0.0) ignored(0.0) .(0.0) 
+Looking(0.0) after(0.0) you(0.0) cross(0.0) the(0.0) street(0.0) is(0.0) not(0.0) too(0.0) smart(0.0) .(0.0) In(0.0) 1988(1.0) Congress(0.0) designated(0.0) a(0.0) 72-mile(1.0) stretch(0.0) of(0.0) the(0.0) 
+Mississippi(1.0) River(0.0) as(0.0) the(0.0) Mississippi(1.0) National(0.0) River(0.0) and(0.0) Recreational(0.0) Area(0.0) ,(0.0) to(0.0) foster(1.0) an(0.0) atmosphere(0.0) that(0.0) preserves(1.0) the(0.0) economic(1.0) and(0.0) 
+social(0.0) benefits(1.0) this(0.0) historic(1.0) corridor(0.0) provides(0.0) .(0.0) The(0.0) final(0.0) plan(0.0) was(0.0) adopted(0.0) last(0.0) month(0.0) and(0.0) deserves(0.0) praise(0.0) ,(0.0) but(0.0) it(0.0) 
+fails(0.0) to(0.0) answer(0.0) all(0.0) the(0.0) concerns(1.0) between(0.0) environmental(1.0) protection(1.0) and(0.0) jobs(0.0) .(0.0) As(0.0) it(0.0) stands(0.0) ,(0.0) the(0.0) MNRRA(0.0) plan(1.0) calls(0.0) 
+for(0.0) an(0.0) economic(1.0) impact(0.0) statement(0.0) to(0.0) be(0.0) conducted(0.0) during(0.0) implementation(0.0) .(0.0) That(0.0) makes(0.0) zero(0.0) sense(0.0) .(0.0) Look(0.0) before(0.0) you(0.0) cross(0.0) 
+.(0.0) Whether(0.0) we(0.0) are(0.0) crossing(0.0) the(0.0) street(0.0) or(0.0) possibly(0.0) hurting(0.0) business(0.0) and(0.0) killing(0.0) jobs(0.0) we(0.0) need(0.0) to(0.0) think(0.0) before(0.0) we(0.0) 
+act(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+legislation	
+impacts	viability	businesses	
+land	Environmental	environmental	
+legislation	
+cost-benefit	economic	
+1988	72-mile	
+Mississippi	Mississippi	foster	preserves	economic	
+benefits	historic	
+concerns	environmental	protection	plan	
+economic	
+
+
+
+reads % = 0.09876543209876543

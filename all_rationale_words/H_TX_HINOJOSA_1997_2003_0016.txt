@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) strike(1.0) the(0.0) requisite(0.0) number(0.0) of(0.0) words(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) rise(0.0) in(0.0) opposition(1.0) to(0.0) the(0.0) 
+amendment(1.0) of(0.0) the(0.0) gentleman(0.0) from(0.0) Minnesota(1.0) ((0.0) Mr.(0.0) Kennedy(1.0) )(0.0) .(0.0) While(0.0) this(0.0) amendment(1.0) appears(0.0) and(0.0) seems(0.0) to(0.0) be(0.0) patriotic(1.0) 
+at(0.0) first(0.0) glance(0.0) ,(0.0) what(0.0) this(0.0) amendment(1.0) could(0.0) really(0.0) do(0.0) is(0.0) punish(1.0) American(0.0) workers(1.0) .(0.0) It(0.0) would(0.0) hurt(0.0) American(0.0) workers(1.0) 
+who(0.0) work(0.0) for(0.0) foreign(1.0) companies(1.0) and(0.0) American(0.0) companies(1.0) who(0.0) supply(0.0) foreign(1.0) corporations(1.0) .(0.0) Many(0.0) of(0.0) my(0.0) colleagues(0.0) have(0.0) given(0.0) examples(0.0) 
+of(0.0) companies(0.0) that(0.0) have(0.0) their(0.0) corporate(1.0) office(0.0) in(0.0) France(0.0) or(0.0) Germany(0.0) ,(0.0) but(0.0) have(0.0) big(0.0) numbers(0.0) of(0.0) employees(0.0) working(0.0) here(0.0) 
+in(0.0) the(0.0) United(0.0) States(0.0) .(0.0) In(0.0) today(0.0) 's(0.0) global(1.0) economy(1.0) ,(0.0) it(0.0) is(0.0) not(0.0) possible(0.0) to(0.0) determine(0.0) who(0.0) this(0.0) amendment(1.0) 
+would(1.0) really(0.0) be(0.0) hurting(0.0) .(0.0) This(0.0) issue(0.0) deserves(1.0) much(0.0) more(0.0) thought(0.0) ,(0.0) debate(1.0) ,(0.0) and(0.0) consideration(0.0) by(0.0) the(0.0) appropriate(0.0) committees(0.0) 
+rather(0.0) than(0.0) being(0.0) offered(0.0) as(0.0) an(0.0) amendment(1.0) at(0.0) this(0.0) time(0.0) .(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) vote(1.0) against(0.0) the(0.0) Kennedy(1.0) 
+amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+strike	Chairman	opposition	
+amendment	Minnesota	Kennedy	amendment	patriotic	
+amendment	punish	workers	workers	
+foreign	companies	companies	foreign	corporations	
+corporate	
+global	economy	amendment	
+would	deserves	debate	
+amendment	vote	Kennedy	
+amendment	
+
+reads % = 0.17177914110429449

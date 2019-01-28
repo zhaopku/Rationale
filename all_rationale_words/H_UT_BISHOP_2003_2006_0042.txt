@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) am(0.0) pleased(0.0) to(0.0) yield(0.0) 5(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Pennsylvania(1.0) ((0.0) Mr.(0.0) Peterson(1.0) )(0.0) to(1.0) try(0.0) to(0.0) 
+correct(0.0) an(0.0) inaccuracy(0.0) that(0.0) was(0.0) stated(0.0) a(0.0) little(0.0) bit(0.0) earlier(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Pennsylvania	Peterson	to	
+
+
+reads % = 0.09375

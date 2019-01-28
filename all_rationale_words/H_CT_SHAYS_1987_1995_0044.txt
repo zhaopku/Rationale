@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) wanted(0.0) to(0.0) take(0.0) this(0.0) time(0.0) to(0.0) kind(0.0) of(0.0) just(0.0) register(0.0) my(0.0) concern(0.0) and(0.0) to(0.0) just(0.0) discuss(0.0) a(0.0) 
+little(0.0) bit(0.0) the(0.0) commitment(1.0) I(0.0) think(0.0) we(0.0) have(0.0) on(0.0) this(0.0) side(0.0) of(0.0) the(0.0) aisle(0.0) to(0.0) get(0.0) our(0.0) financial(1.0) house(0.0) in(0.0) 
+order(0.0) ,(0.0) and(0.0) my(0.0) purpose(0.0) for(0.0) speaking(0.0) is(0.0) not(0.0) to(0.0) take(0.0) a(0.0) partisan(1.0) tone(0.0) ,(0.0) but(0.0) to(0.0) just(0.0) express(0.0) a(0.0) 
+tremendous(0.0) amount(0.0) of(0.0) concern(0.0) about(0.0) what(0.0) is(0.0) really(0.0) shaping(0.0) up(0.0) to(0.0) be(0.0) a(0.0) battle(0.0) between(0.0) the(0.0) White(1.0) House(0.0) and(0.0) Congress(0.0) 
+over(0.0) something(0.0) that(0.0) ,(0.0) if(0.0) we(0.0) work(0.0) together(0.0) ,(0.0) would(0.0) be(0.0) extraordinarily(0.0) helpful(0.0) for(0.0) our(0.0) Nation(1.0) .(0.0) I(0.0) speak(0.0) of(0.0) 
+the(0.0) fact(0.0) that(0.0) ,(0.0) when(0.0) President(0.0) Clinton(1.0) was(0.0) elected(0.0) ,(0.0) he(0.0) found(0.0) that(0.0) he(0.0) had(0.0) a(0.0) national(0.0) debt(0.0) of(0.0) $(0.0) 
+4.3(0.0) trillion(1.0) ,(0.0) and(0.0) he(0.0) felt(0.0) that(0.0) he(0.0) had(0.0) worked(0.0) out(0.0) a(0.0) plan(0.0) to(0.0) bring(0.0) our(0.0) annual(0.0) deficits(1.0) down(0.0) ,(0.0) 
+but(0.0) we(0.0) are(0.0) going(0.0) to(0.0) see(0.0) under(0.0) his(0.0) 5-year(0.0) plan(1.0) that(0.0) he(0.0) presented(0.0) to(0.0) Congress(0.0) just(0.0) last(0.0) month(0.0) that(0.0) our(0.0) 
+national(1.0) debt(1.0) by(0.0) the(0.0) year(0.0) 2000(0.0) will(0.0) be(0.0) $(0.0) 6.7(0.0) trillion(1.0) ,(0.0) that(0.0) it(0.0) will(0.0) go(0.0) up(0.0) $(0.0) 2.3(0.0) trillion(1.0) 
+,(0.0) or(0.0) 54(0.0) percent(0.0) ,(0.0) during(0.0) this(0.0) period(0.0) of(0.0) time(0.0) .(0.0) What(0.0) concerns(1.0) me(0.0) is(0.0) the(0.0) fact(0.0) that(0.0) there(0.0) are(0.0) 
+some(0.0) who(0.0) are(0.0) saying(0.0) ,(0.0) well(0.0) ,(0.0) this(0.0) is(0.0) a(0.0) smaller(0.0) percentage(0.0) ,(0.0) but(0.0) it(0.0) is(0.0) a(0.0) smaller(0.0) percentage(0.0) on(0.0) 
+a(0.0) larger(0.0) base(0.0) ,(0.0) and(0.0) so(0.0) this(0.0) two(0.0) trillion(1.0) ,(0.0) 2.3(0.0) trillion(1.0) ,(0.0) will(0.0) be(0.0) the(0.0) largest(1.0) increase(1.0) ever(0.0) experienced(0.0) 
+at(0.0) any(0.0) time(0.0) in(0.0) our(0.0) history(1.0) ,(0.0) and(0.0) I(0.0) look(0.0) now(0.0) and(0.0) think(0.0) what(0.0) are(0.0) we(0.0) going(0.0) to(0.0) do(0.0) to(0.0) 
+resolve(0.0) this(0.0) ?(0.0) What(0.0) opportunities(0.0) do(0.0) we(0.0) have(0.0) as(0.0) Republicans(0.0) and(0.0) Democrats(1.0) to(0.0) get(0.0) together(0.0) ?(0.0) One(0.0) of(0.0) the(0.0) things(0.0) 
+that(0.0) the(0.0) President(1.0) deserves(0.0) high(0.0) marks(0.0) on(0.0) is(0.0) the(0.0) fact(0.0) that(0.0) we(0.0) have(0.0) ,(0.0) in(0.0) fact(0.0) ,(0.0) started(0.0) to(0.0) get(0.0) 
+a(0.0) handle(0.0) on(0.0) what(0.0) we(0.0) call(0.0) discretionary(1.0) spending(1.0) ,(0.0) what(0.0) we(0.0) vote(1.0) out(0.0) of(0.0) the(0.0) Committee(0.0) on(0.0) Appropriations(0.0) ,(0.0) and(0.0) 
+this(0.0) has(0.0) resulted(0.0) in(0.0) some(0.0) hope(0.0) for(0.0) the(0.0) fact(0.0) that(0.0) at(0.0) least(0.0) with(0.0) what(0.0) we(0.0) spend(1.0) in(0.0) defense(1.0) and(0.0) what(0.0) 
+we(0.0) spend(1.0) in(0.0) nondefense(1.0) that(0.0) we(0.0) are(0.0) starting(0.0) to(0.0) show(0.0) the(0.0) kind(0.0) of(0.0) restraint(1.0) that(0.0) we(0.0) need(0.0) .(0.0) We(0.0) have(0.0) 
+simply(0.0) decided(0.0) that(0.0) we(0.0) will(0.0) not(0.0) add(0.0) to(0.0) discretionary(1.0) spending(1.0) .(0.0) We(0.0) have(0.0) not(0.0) in(0.0) the(0.0) last(0.0) few(0.0) years(0.0) ,(0.0) 
+and(0.0) we(0.0) are(0.0) destined(0.0) to(0.0) keep(0.0) it(0.0) at(0.0) a(0.0) freeze(0.0) for(0.0) the(0.0) next(0.0) few(0.0) years(0.0) ,(0.0) but(0.0) where(0.0) we(0.0) see(0.0) 
+the(0.0) challenge(0.0) is(0.0) with(0.0) ,(0.0) in(0.0) fact(0.0) ,(0.0) entitlements(1.0) which(0.0) constitute(0.0) half(0.0) of(0.0) our(0.0) budget(1.0) ,(0.0) Social(0.0) Security(0.0) ,(0.0) Medicare(1.0) 
+,(0.0) Medicaid(1.0) ,(0.0) and(0.0) what(0.0) we(0.0) refer(0.0) to(0.0) as(0.0) other(0.0) entitlements(1.0) .(0.0) The(0.0) concern(1.0) that(0.0) I(0.0) have(0.0) is(0.0) that(0.0) the(0.0) 
+President(1.0) has(0.0) really(0.0) taken(0.0) a(0.0) hard(0.0) position(0.0) that(0.0) he(0.0) is(0.0) not(0.0) going(0.0) to(0.0) touch(0.0) entitlements(1.0) ,(0.0) which(0.0) is(0.0) really(0.0) the(0.0) 
+same(0.0) old(0.0) story(0.0) .(0.0) Republicans(0.0) have(0.0) not(0.0) wanted(0.0) to(0.0) cut(1.0) defense(1.0) ,(0.0) and(0.0) they(0.0) did(0.0) not(0.0) .(0.0) Democrats(0.0) have(0.0) not(0.0) 
+wanted(0.0) to(0.0) slow(0.0) the(0.0) growth(1.0) of(0.0) entitlements(1.0) ,(0.0) and(0.0) they(0.0) did(0.0) not(0.0) .(0.0) And(0.0) Republicans(0.0) and(0.0) Democrats(1.0) for(0.0) 20(0.0) 
+
+
+----- below are rationale words -----
+
+
+commitment	financial	
+partisan	
+White	
+Nation	
+Clinton	
+trillion	deficits	
+plan	
+national	debt	trillion	trillion	
+concerns	
+
+trillion	trillion	largest	increase	
+history	
+Democrats	
+President	
+discretionary	spending	vote	
+spend	defense	
+spend	nondefense	restraint	
+discretionary	spending	
+
+entitlements	budget	Medicare	
+Medicaid	entitlements	concern	
+President	entitlements	
+cut	defense	
+growth	entitlements	Democrats	
+
+reads % = 0.088

@@ -1,0 +1,38 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) support(0.0) 
+of(0.0) H.R(0.0) .(0.0) 959(0.0) ,(0.0) the(0.0) Officer(0.0) Daniel(0.0) Faulkner(1.0) Children(0.0) of(0.0) Fallen(0.0) Heroes(0.0) Scholarship(0.0) Act(0.0) of(0.0) 2010(0.0) .(0.0) I'm(0.0) sure(0.0) 
+we(0.0) 're(0.0) going(0.0) to(0.0) hear(0.0) from(0.0) my(0.0) colleague(0.0) from(0.0) Pennsylvania(1.0) ((0.0) Mr.(0.0) Patrick(1.0) J.(1.0) Murphy(1.0) )(0.0) something(1.0) about(0.0) Officer(0.0) Daniel(0.0) 
+Faulkner(1.0) .(0.0) He(0.0) represents(0.0) a(0.0) profession(0.0) where(0.0) the(0.0) men(0.0) and(0.0) women(0.0) serving(0.0) put(0.0) their(0.0) lives(0.0) on(0.0) the(0.0) line(0.0) every(0.0) day(0.0) 
+.(0.0) And(0.0) H.R(0.0) .(0.0) 959(0.0) honors(0.0) this(0.0) ultimate(0.0) sacrifice(0.0) that(0.0) fallen(0.0) heroic(1.0) police(0.0) officers(0.0) and(0.0) firefighters(0.0) make(0.0) by(0.0) providing(0.0) their(0.0) 
+children(0.0) with(0.0) a(0.0) helping(0.0) hand(0.0) that(0.0) they(0.0) can(0.0) not(0.0) be(0.0) there(0.0) to(0.0) provide(0.0) in(0.0) furthering(1.0) their(0.0) education(1.0) .(0.0) Children(0.0) of(0.0) 
+fallen(1.0) Active(0.0) Duty(0.0) service(0.0) men(0.0) and(0.0) women(0.0) are(0.0) already(0.0) afforded(1.0) this(0.0) same(0.0) assistance(0.0) .(0.0) This(0.0) act(1.0) ensures(0.0) police(0.0) officers(0.0) and(0.0) 
+firefighters(0.0) are(0.0) honored(0.0) in(0.0) the(0.0) same(0.0) manner(0.0) as(0.0) our(0.0) brave(0.0) soldiers(0.0) ,(0.0) sailors(0.0) ,(0.0) airmen(1.0) ,(0.0) and(0.0) Marines(0.0) for(0.0) giving(0.0) 
+their(0.0) lives(0.0) to(0.0) protect(0.0) our(0.0) safety(0.0) .(0.0) Every(0.0) year(0.0) hundreds(0.0) of(0.0) police(1.0) officers(0.0) ,(0.0) firefighters(0.0) ,(0.0) and(0.0) other(0.0) public(1.0) safety(0.0) 
+officers(0.0) die(0.0) in(0.0) the(0.0) line(0.0) of(0.0) duty(0.0) .(0.0) Their(0.0) jobs(0.0) are(0.0) inherently(0.0) dangerous(1.0) ,(0.0) and(0.0) they(0.0) accept(0.0) this(0.0) risk(1.0) to(0.0) 
+protect(0.0) America's(0.0) citizens(1.0) .(0.0) It(0.0) is(0.0) important(0.0) that(0.0) we(0.0) recognize(0.0) their(0.0) sacrifice(1.0) and(0.0) honor(0.0) their(0.0) lives(0.0) .(0.0) The(0.0) Officer(0.0) Daniel(0.0) 
+Faulkner(1.0) Children(0.0) of(0.0) Fallen(0.0) Heroes(0.0) Scholarship(0.0) Act(0.0) provides(0.0) a(0.0) fiscally(0.0) responsible(0.0) way(0.0) to(0.0) convey(0.0) our(0.0) gratitude(0.0) and(0.0) respect(0.0) for(0.0) those(0.0) 
+who(0.0) sacrifice(0.0) their(0.0) lives(0.0) to(0.0) protect(0.0) us(0.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) I(0.0) reserve(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) Madam(0.0) 
+Speaker(1.0) ,(0.0) I(0.0) encourage(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) H.R(0.0) .(0.0) 959(0.0) ,(0.0) and(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) 
+time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	
+Faulkner	
+Pennsylvania	Patrick	J.	Murphy	something	
+Faulkner	
+heroic	
+furthering	education	
+fallen	afforded	act	
+airmen	
+police	public	
+dangerous	risk	
+citizens	sacrifice	
+Faulkner	
+Speaker	
+Speaker	
+
+
+reads % = 0.08480565371024736

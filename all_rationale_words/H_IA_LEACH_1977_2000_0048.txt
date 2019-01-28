@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) would(0.0) like(0.0) to(0.0) just(0.0) stress(0.0) a(0.0) couple(0.0) of(0.0) things(0.0) about(0.0) the(0.0) life(0.0) of(0.0) Bruce(1.0) Vento(1.0) .(0.0) He(0.0) 
+was(0.0) a(0.0) wonderfully(0.0) committed(1.0) legislator(1.0) who(0.0) combined(0.0) compassion(0.0) with(0.0) practicality(0.0) ;(0.0) who(0.0) had(0.0) populist(0.0) concerns(0.0) ,(0.0) but(0.0) not(0.0) a(0.0) populist(0.0) 
+hate(0.0) .(0.0) The(0.0) committee(0.0) that(0.0) I(0.0) served(0.0) with(0.0) Bruce(0.0) on(0.0) ,(0.0) the(0.0) Committee(0.0) on(0.0) Banking(0.0) and(0.0) Financial(0.0) Services(0.0) ,(0.0) has(0.0) 
+jurisdiction(1.0) over(0.0) banks(0.0) and(0.0) housing(1.0) and(0.0) over(0.0) the(0.0) economy(1.0) ,(0.0) in(0.0) some(0.0) ways(0.0) .(0.0) It(0.0) is(0.0) interesting(0.0) to(0.0) me(0.0) that(0.0) 
+in(0.0) Bruce's(0.0) work(0.0) ,(0.0) he(0.0) was(0.0) not(0.0) against(0.0) any(0.0) individuals(0.0) or(0.0) institutions(0.0) .(0.0) In(0.0) fact(0.0) ,(0.0) he(0.0) was(0.0) a(0.0) liberal(0.0) 
+Democrat(0.0) who(0.0) rather(0.0) liked(0.0) banks(0.0) ,(0.0) especially(0.0) smaller(0.0) banks(1.0) ,(0.0) and(0.0) especially(0.0) community(0.0) banks(1.0) .(0.0) He(0.0) just(0.0) understood(0.0) that(0.0) it(0.0) 
+was(0.0) important(0.0) ,(0.0) if(0.0) you(0.0) have(0.0) a(0.0) banking(0.0) system(0.0) ,(0.0) that(0.0) that(0.0) system(0.0) serves(0.0) all(0.0) Americans(1.0) .(0.0) So(0.0) his(0.0) emphasis(0.0) 
+as(0.0) someone(0.0) in(0.0) the(0.0) banking(1.0) community(0.0) was(0.0) never(0.0) to(0.0) be(0.0) against(0.0) anything(0.0) ,(0.0) but(0.0) to(0.0) be(0.0) for(0.0) better(0.0) ways(0.0) for(0.0) 
+banks(1.0) to(0.0) serve(0.0) .(0.0) That(0.0) is(0.0) one(0.0) reason(0.0) that(0.0) he(0.0) developed(0.0) such(0.0) an(0.0) interest(0.0) in(0.0) ensuring(0.0) that(0.0) competition(0.0) was(0.0) maintained(0.0) 
+and(0.0) that(0.0) investment(1.0) was(0.0) maintained(0.0) in(0.0) various(0.0) aspects(0.0) of(0.0) our(0.0) communities(1.0) .(0.0) Part(0.0) of(0.0) this(0.0) relates(0.0) to(0.0) the(0.0) American(0.0) dream(0.0) 
+.(0.0) All(0.0) of(0.0) us(0.0) have(0.0) various(0.0) feelings(0.0) about(0.0) what(0.0) the(0.0) American(0.0) dream(0.0) is(0.0) .(0.0) One(0.0) is(0.0) that(0.0) it(0.0) includes(0.0) a(0.0) 
+home(0.0) .(0.0) Well(0.0) ,(0.0) issues(0.0) of(0.0) the(0.0) homeless(1.0) concern(0.0) people(0.0) that(0.0) by(0.0) definition(1.0) have(0.0) been(0.0) deprived(1.0) aspects(0.0) of(0.0) the(0.0) American(0.0) 
+dream(0.0) .(0.0) We(0.0) have(0.0) all(0.0) come(0.0) to(0.0) understand(0.0) to(0.0) some(0.0) degree(0.0) ,(0.0) and(0.0) none(0.0) of(0.0) us(0.0) as(0.0) deeply(0.0) as(0.0) we(0.0) 
+should(0.0) ,(0.0) that(0.0) homelessness(1.0) is(0.0) not(0.0) simply(0.0) an(0.0) aspect(0.0) of(0.0) someone(0.0) without(0.0) a(0.0) structure(0.0) .(0.0) It(0.0) usually(0.0) involves(0.0) a(0.0) whole(0.0) 
+group(0.0) of(0.0) societal(1.0) problems(0.0) .(0.0) Some(0.0) of(0.0) them(0.0) might(0.0) be(0.0) psychiatric(1.0) ,(0.0) some(0.0) might(0.0) be(0.0) elements(0.0) that(0.0) relate(0.0) to(0.0) addictions(1.0) 
+,(0.0) and(0.0) sometimes(0.0) disease(0.0) itself(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) the(0.0) problems(0.0) of(0.0) the(0.0) homeless(1.0) came(0.0) to(0.0) the(0.0) attention(0.0) of(0.0) Congress(0.0) 
+rather(0.0) late(0.0) .(0.0) In(0.0) fact(0.0) ,(0.0) it(0.0) is(0.0) astonishing(0.0) how(0.0) little(0.0) attention(0.0) public(1.0) bodies(0.0) paid(0.0) to(0.0) this(0.0) problem(0.0) .(0.0) But(0.0) 
+because(0.0) of(0.0) Bruce(0.0) ,(0.0) we(0.0) started(0.0) to(0.0) .(0.0) About(0.0) 13(0.0) years(0.0) ago(0.0) ,(0.0) finally(0.0) the(0.0) law(1.0) was(0.0) enacted(1.0) .(0.0) When(0.0) 
+that(0.0) law(1.0) was(0.0) enacted(1.0) ,(0.0) and(0.0) a(0.0) number(0.0) of(0.0) people(0.0) had(0.0) roles(0.0) in(0.0) ensuring(0.0) that(0.0) it(0.0) came(0.0) about(0.0) ,(0.0) Bruce(0.0) 
+led(1.0) the(0.0) way(0.0) .(0.0) Then(0.0) ,(0.0) as(0.0) it(0.0) was(0.0) about(0.0) to(0.0) be(0.0) enacted(1.0) ,(0.0) it(0.0) was(0.0) revealed(0.0) that(0.0) one(0.0) of(0.0) 
+our(0.0) Members(0.0) ,(0.0) this(0.0) one(0.0) on(0.0) the(0.0) Republican(1.0) side(1.0) ,(1.0) who(1.0) was(1.0) a(1.0) man(1.0) of(1.0) some(1.0) substance(1.0) but(1.0) had(0.0) an(0.0) 
+ailment(1.0) ,(0.0) in(0.0) this(0.0) case(0.0) an(0.0) ailment(0.0) sometimes(0.0) identified(0.0) with(0.0) the(0.0) homeless(1.0) ,(0.0) he(0.0) got(0.0) pneumonia(0.0) related(0.0) to(0.0) a(0.0) social(0.0) 
+disease(0.0) called(0.0) AIDS(1.0) .(0.0) This(0.0) Republican(0.0) stood(1.0) up(1.0) for(1.0) people(1.0) that(1.0) had(1.0) problems(1.0) sometimes(1.0) analogous(1.0) to(1.0) his(1.0) own(1.0) ,(0.0) sometimes(0.0) 
+much(0.0) more(0.0) serious(0.0) .(0.0) Bruce(0.0) Vento(1.0) suggested(1.0) that(0.0) the(0.0) bill(1.0) be(0.0) named(0.0) for(0.0) him(0.0) ;(0.0) that(0.0) is(0.0) ,(0.0) it(0.0) was(0.0) 
+Bruce(0.0) Vento's(0.0) idea(0.0) and(0.0) his(0.0) argument(1.0) that(0.0) this(0.0) initiative(1.0) that(0.0) came(0.0) largely(0.0) from(0.0) the(0.0) majority(1.0) party(0.0) ,(0.0) the(0.0) then(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	Bruce	Vento	
+committed	legislator	
+
+jurisdiction	housing	economy	
+
+banks	banks	
+Americans	
+banking	
+banks	
+investment	communities	
+
+homeless	definition	deprived	
+
+homelessness	
+societal	psychiatric	addictions	
+Speaker	homeless	
+public	
+law	enacted	
+law	enacted	
+led	enacted	
+Republican	side	,	who	was	a	man	of	some	substance	but	
+ailment	homeless	
+AIDS	stood	up	for	people	that	had	problems	sometimes	analogous	to	his	own	
+Vento	suggested	bill	
+argument	initiative	majority	
+
+reads % = 0.126

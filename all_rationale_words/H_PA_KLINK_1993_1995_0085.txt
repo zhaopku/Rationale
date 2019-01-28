@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) we(0.0) are(0.0) hearing(0.0) about(0.0) this(0.0) bill(1.0) cutting(1.0) waste(1.0) ,(0.0) fraud(1.0) ,(0.0) and(0.0) abuse(1.0) .(0.0) It(0.0) is(0.0) odd(0.0) that(0.0) the(0.0) 
+GAO(1.0) ,(0.0) the(0.0) Department(0.0) of(0.0) Justice(0.0) ,(0.0) and(0.0) the(0.0) HHS(1.0) Office(0.0) of(0.0) Inspector(0.0) General(0.0) all(0.0) have(0.0) very(0.0) grave(0.0) concerns(0.0) about(0.0) 
+what(0.0) this(0.0) bill(1.0) does(1.0) to(0.0) provisions(1.0) in(0.0) the(0.0) Medicare(1.0) bill(1.0) that(0.0) would(0.0) allow(0.0) them(0.0) to(0.0) do(0.0) law(1.0) enforcement(1.0) .(0.0) In(0.0) 
+fact(0.0) ,(0.0) if(0.0) my(0.0) colleagues(0.0) like(0.0) waste(1.0) ,(0.0) fraud(1.0) ,(0.0) and(0.0) abuse(1.0) ,(0.0) which(0.0) we(0.0) all(0.0) agree(0.0) now(0.0) account(0.0) for(0.0) 
+about(0.0) 10(0.0) percent(0.0) of(0.0) all(0.0) that(0.0) is(0.0) spent(0.0) on(0.0) Medicare(1.0) and(0.0) Medicaid(1.0) ,(0.0) my(0.0) colleagues(0.0) are(0.0) going(0.0) to(0.0) love(0.0) this(0.0) 
+bill(1.0) because(1.0) it(0.0) makes(0.0) the(0.0) health(1.0) care(0.0) waste(1.0) fraud(1.0) a(0.0) growth(1.0) industry(1.0) and(0.0) a(0.0) new(0.0) way(0.0) of(0.0) life(0.0) for(0.0) a(0.0) 
+lot(0.0) of(0.0) Willie(1.0) Suttons(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+bill	cutting	waste	fraud	abuse	
+GAO	HHS	
+bill	does	provisions	Medicare	bill	law	enforcement	
+waste	fraud	abuse	
+Medicare	Medicaid	
+bill	because	health	waste	fraud	growth	industry	
+Willie	Suttons	
+
+reads % = 0.2222222222222222

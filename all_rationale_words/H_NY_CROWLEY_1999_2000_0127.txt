@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) reclaiming(1.0) my(0.0) time(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) just(0.0) say(0.0) that(0.0) she(0.0) will(0.0) be(0.0) eligible(0.0) for(0.0) dating(0.0) when(0.0) she(0.0) is(0.0) 
+40(0.0) years(0.0) of(0.0) age(0.0) .(0.0) So(0.0) I(0.0) thank(0.0) all(0.0) my(0.0) colleagues(0.0) very(0.0) ,(0.0) very(0.0) much(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+reclaiming	
+
+
+reads % = 0.02702702702702703

@@ -1,0 +1,24 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) in(0.0) the(0.0) wake(1.0) of(0.0) the(0.0) September(0.0) 11(0.0) ,(0.0) 2001(0.0) ,(0.0) attacks(0.0) ,(0.0) the(0.0) Medical(0.0) College(0.0) of(0.0) Georgia(1.0) ,(0.0) the(0.0) 
+U.S.(0.0) Army(0.0) Signal(0.0) Center(0.0) and(0.0) the(0.0) Southeast(0.0) Regional(0.0) Army(0.0) Medical(0.0) Command(0.0) at(0.0) Fort(0.0) Gordon(0.0) have(0.0) joined(0.0) together(0.0) to(0.0) train(0.0) military(0.0) 
+and(0.0) civilian(0.0) personnel(0.0) in(0.0) disaster(0.0) response(0.0) ,(0.0) emergency(0.0) medical(0.0) response(0.0) and(0.0) emergency(0.0) response(0.0) coordination(0.0) .(0.0) I(0.0) commend(0.0) them(0.0) for(0.0) their(0.0) 
+efforts(1.0) to(0.0) develop(0.0) the(0.0) Training(0.0) Center(0.0) for(0.0) Disaster(1.0) Medicine(0.0) Preparedness(0.0) and(0.0) a(0.0) Disaster(0.0) Response(0.0) Simulation(0.0) Center(0.0) .(0.0) These(0.0) three(0.0) organizations(1.0) 
+combine(0.0) to(0.0) include(0.0) world-class(0.0) medical(0.0) education(0.0) facilities(0.0) ,(0.0) faculty(0.0) and(0.0) advanced(0.0) communications(0.0) infrastructure(0.0) ,(0.0) ensuring(0.0) well-trained(0.0) and(0.0) prepared(0.0) personnel(0.0) in(0.0) 
+the(0.0) event(0.0) of(0.0) a(0.0) natural(0.0) disaster(0.0) or(0.0) a(0.0) terrorist(0.0) attack(0.0) serving(0.0) not(0.0) only(0.0) east(0.0) Georgia(1.0) but(0.0) indeed(0.0) the(0.0) entire(0.0) Nation(1.0) 
+.(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) commend(0.0) MCG(1.0) and(0.0) the(0.0) Fort(0.0) Gordon(0.0) community(0.0) for(0.0) their(0.0) efforts(1.0) on(0.0) behalf(0.0) of(0.0) our(0.0) Nation(1.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+wake	Georgia	
+
+
+efforts	Disaster	organizations	
+
+Georgia	Nation	
+Speaker	MCG	efforts	Nation	
+
+
+reads % = 0.07746478873239436

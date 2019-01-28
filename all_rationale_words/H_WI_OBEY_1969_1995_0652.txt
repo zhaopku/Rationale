@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+The(0.0) Clerk(0.0) read(0.0) as(0.0) follows(0.0) :(0.0) Mr.(0.0) Obey(1.0) moves(1.0) that(0.0) in(0.0) resolving(0.0) the(0.0) differences(0.0) between(0.0) the(0.0) House(0.0) and(0.0) Senate(0.0) ,(0.0) the(0.0) 
+managers(0.0) on(0.0) the(0.0) part(0.0) of(0.0) the(0.0) House(0.0) at(0.0) the(0.0) conference(0.0) on(0.0) the(0.0) disagreeing(0.0) votes(0.0) of(0.0) the(0.0) two(0.0) Houses(0.0) on(0.0) the(0.0) 
+bill(0.0) H.R(0.0) .(0.0) 1817(0.0) ,(0.0) be(0.0) instructed(0.0) to(0.0) not(0.0) provide(0.0) funding(0.0) for(0.0) non-quality(0.0) of(0.0) life(0.0) projects(0.0) added(0.0) above(0.0) the(0.0) President's(0.0) 
+request(0.0) ,(0.0) which(0.0) are(0.0) in(0.0) excess(0.0) of(0.0) the(0.0) cumulative(0.0) amounts(0.0) added(0.0) for(0.0) such(0.0) projects(0.0) in(0.0) the(0.0) House(0.0) passed(0.0) bill(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+Obey	moves	
+
+
+
+
+
+reads % = 0.024691358024691357

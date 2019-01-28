@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) join(0.0) my(0.0) colleagues(0.0) in(0.0) support(0.0) of(0.0) this(0.0) effort(1.0) .(0.0) Ms.(0.0) DeGETTE(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) 2(0.0) minutes(0.0) to(0.0) 
+the(0.0) distinguished(0.0) gentlewoman(0.0) from(0.0) California(0.0) ((0.0) Ms.(1.0) Woolsey(1.0) )(0.0) .(0.0) ((0.0) Ms.(1.0) WOOLSEY(1.0) asked(0.0) and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) revise(0.0) 
+and(0.0) extend(0.0) her(0.0) remarks(0.0) .(0.0) )(0.0) 
+
+
+----- below are rationale words -----
+
+effort	Speaker	
+Ms.	Woolsey	Ms.	WOOLSEY	
+
+
+reads % = 0.1276595744680851

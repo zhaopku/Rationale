@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) would(1.0) like(0.0) to(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) ,(0.0) Chairman(1.0) Thomas(1.0) ,(0.0) and(0.0) his(0.0) staff(0.0) for(0.0) their(0.0) cooperation(1.0) 
+in(0.0) bringing(1.0) H.R(0.0) .(0.0) 1053(1.0) to(0.0) the(0.0) floor(0.0) today(1.0) .(0.0) Also(0.0) I(0.0) would(1.0) like(0.0) to(0.0) thank(0.0) my(0.0) colleague(1.0) from(0.0) Pennsylvania(1.0) 
+,(0.0) Mr.(0.0) Weldon(1.0) ,(0.0) and(0.0) the(0.0) other(0.0) cochairs(1.0) of(0.0) the(0.0) Ukrainian(0.0) Caucus(0.0) ,(0.0) Mr.(0.0) Bartlett(1.0) ,(0.0) Ms.(1.0) Kaptur(1.0) and(0.0) Mr.(0.0) 
+Levin(1.0) ,(0.0) for(0.0) all(0.0) of(0.0) their(0.0) hard(0.0) work(0.0) in(0.0) helping(1.0) to(0.0) generate(0.0) such(0.0) a(0.0) broad(0.0) ,(0.0) bipartisan(0.0) coalition(1.0) of(0.0) support(0.0) 
+for(0.0) H.R(0.0) .(0.0) 1053(1.0) .(0.0) Most(0.0) importantly(1.0) I(0.0) would(1.0) like(0.0) to(0.0) thank(0.0) the(0.0) Jackson-Vanik(1.0) Graduation(0.0) Coalition(1.0) and(0.0) all(0.0) the(0.0) leaders(1.0) 
+of(0.0) the(0.0) Ukrainian-American(1.0) community(1.0) in(0.0) southeastern(1.0) Pennsylvania(1.0) and(0.0) throughout(0.0) the(0.0) country(1.0) for(0.0) their(0.0) tireless(0.0) efforts(0.0) in(0.0) support(0.0) of(0.0) this(0.0) legislation(0.0) 
+,(0.0) and(0.0) commend(1.0) them(0.0) on(0.0) the(0.0) tremendous(0.0) job(1.0) they(0.0) have(0.0) done(0.0) promoting(0.0) the(0.0) progress(1.0) the(0.0) Ukraine(0.0) has(0.0) made(0.0) over(0.0) the(0.0) 
+past(0.0) few(0.0) years(0.0) .(0.0) During(1.0) the(0.0) Orange(1.0) Revolution(1.0) of(0.0) 2004(0.0) ,(0.0) the(0.0) whole(0.0) world(0.0) watched(0.0) as(0.0) the(0.0) people(0.0) of(0.0) Ukraine(0.0) 
+protested(1.0) allegations(0.0) of(0.0) massive(0.0) corruption(1.0) ,(0.0) voter(1.0) intimidation(1.0) and(0.0) direct(0.0) electoral(1.0) fraud(1.0) .(0.0) They(0.0) sent(0.0) a(0.0) clear(0.0) message(0.0) that(0.0) regardless(1.0) 
+of(0.0) these(0.0) obstacles(1.0) ,(0.0) they(0.0) wanted(0.0) and(0.0) supported(1.0) with(0.0) their(0.0) votes(1.0) a(0.0) pro-democracy(1.0) ,(0.0) pro-reform(1.0) candidate(1.0) for(0.0) President(1.0) ,(0.0) Victor(1.0) 
+Yushchenko(0.0) .(0.0) This(0.0) election(1.0) highlighted(1.0) the(0.0) commitment(0.0) of(0.0) the(0.0) Ukraine(0.0) people(0.0) to(0.0) a(0.0) free(1.0) and(0.0) prosperous(1.0) democracy(1.0) ,(0.0) and(0.0) the(0.0) 
+country(1.0) overnight(0.0) became(0.0) a(0.0) role(0.0) model(0.0) for(0.0) the(0.0) entire(1.0) region(0.0) .(0.0) Since(0.0) the(0.0) election(1.0) ,(0.0) the(0.0) government(1.0) has(0.0) remained(0.0) committed(1.0) 
+to(0.0) broad-(1.0) based(0.0) reform(0.0) and(0.0) economic(0.0) liberalization(1.0) .(0.0) This(0.0) commitment(0.0) was(0.0) evident(1.0) most(1.0) recently(0.0) on(0.0) Monday(0.0) ,(0.0) March(0.0) 6(0.0) ,(0.0) 
+when(0.0) the(0.0) United(0.0) States(0.0) and(0.0) Ukraine(0.0) signed(0.0) a(0.0) bilateral(1.0) WTO(1.0) Agreement(0.0) on(0.0) Market(1.0) Access(0.0) ,(0.0) a(0.0) major(0.0) step(0.0) towards(0.0) Ukraine(0.0) 
+ultimately(1.0) joining(1.0) the(0.0) WTO(0.0) .(0.0) H.R(0.0) .(0.0) 1053(1.0) is(0.0) another(0.0) important(0.0) step(0.0) for(0.0) Ukraine(0.0) as(0.0) it(0.0) becomes(1.0) a(0.0) partner(0.0) in(0.0) 
+the(0.0) global(0.0) economy(1.0) .(0.0) The(0.0) bill(0.0) lifts(0.0) the(0.0) Jackson-Vanik(1.0) restrictions(1.0) and(0.0) authorizes(0.0) President(1.0) Bush(1.0) to(0.0) permanently(1.0) extend(0.0) normal(0.0) trade(0.0) relations(1.0) 
+treatment(0.0) to(0.0) Ukraine(0.0) .(0.0) The(0.0) United(0.0) States(0.0) Congress(0.0) adopted(1.0) the(0.0) Jackson-Vanik(1.0) legislation(0.0) in(0.0) 1974(1.0) to(0.0) halt(1.0) normal(0.0) trade(1.0) relations(1.0) between(0.0) 
+the(0.0) United(0.0) States(0.0) and(0.0) those(0.0) countries(0.0) that(0.0) restricted(1.0) free(1.0) immigration(1.0) ,(0.0) especially(1.0) for(0.0) persons(0.0) of(0.0) the(0.0) Jewish(1.0) faith(0.0) .(0.0) Over(0.0) 
+30(0.0) years(0.0) later(0.0) ,(0.0) virtually(1.0) everyone(0.0) agrees(1.0) that(0.0) Ukraine(0.0) 's(0.0) record(0.0) on(0.0) freedom(1.0) of(0.0) immigration(1.0) and(0.0) religious(0.0) freedom(1.0) and(0.0) tolerance(1.0) 
+is(0.0) good(0.0) .(0.0) These(0.0) restrictions(1.0) have(0.0) long(1.0) been(0.0) outdated(1.0) ,(0.0) a(0.0) fact(0.0) recognized(0.0) by(0.0) the(0.0) administration(0.0) in(0.0) its(0.0) granting(0.0) of(0.0) 
+normal(0.0) trade(1.0) relations(1.0) status(0.0) to(0.0) the(0.0) Ukraine(0.0) on(0.0) a(0.0) yearly(0.0) waiver(1.0) basis(1.0) by(0.0) the(0.0) President(1.0) .(0.0) Because(0.0) of(0.0) this(0.0) ,(0.0) 
+my(0.0) legislation(1.0) will(0.0) not(1.0) affect(0.0) current(0.0) trade(1.0) relationships(1.0) with(0.0) the(0.0) Ukraine(0.0) on(0.0) a(0.0) dollar-and-cents(1.0) term(1.0) .(0.0) However(0.0) ,(0.0) the(0.0) message(0.0) 
+we(0.0) are(0.0) sending(0.0) by(0.0) making(0.0) this(0.0) relationship(0.0) permanent(1.0) is(0.0) priceless(1.0) to(0.0) the(0.0) people(0.0) of(0.0) the(0.0) Ukraine(0.0) .(0.0) It(0.0) strongly(0.0) reaffirms(1.0) 
+our(0.0) long-term(0.0) partnership(0.0) and(0.0) support(0.0) as(0.0) Ukraine(0.0) continues(1.0) down(1.0) the(0.0) path(1.0) of(0.0) reform(0.0) and(0.0) democracy(1.0) .(0.0) Again(1.0) ,(0.0) Mr.(0.0) Speaker(1.0) 
+,(0.0) I(0.0) would(1.0) like(0.0) to(0.0) thank(0.0) my(0.0) colleagues(1.0) ,(0.0) the(0.0) cosponsors(1.0) of(0.0) the(0.0) bill(0.0) ,(0.0) and(0.0) the(0.0) chairman(1.0) and(0.0) 
+
+
+----- below are rationale words -----
+
+would	Chairman	Thomas	cooperation	
+bringing	1053	today	would	colleague	Pennsylvania	
+Weldon	cochairs	Bartlett	Ms.	Kaptur	
+Levin	helping	coalition	
+1053	importantly	would	Jackson-Vanik	Coalition	leaders	
+Ukrainian-American	community	southeastern	Pennsylvania	country	
+commend	job	progress	
+During	Orange	Revolution	
+protested	corruption	voter	intimidation	electoral	fraud	regardless	
+obstacles	supported	votes	pro-democracy	pro-reform	candidate	President	Victor	
+election	highlighted	free	prosperous	democracy	
+country	entire	election	government	committed	
+broad-	liberalization	evident	most	
+bilateral	WTO	Market	
+ultimately	joining	1053	becomes	
+economy	Jackson-Vanik	restrictions	President	Bush	permanently	relations	
+adopted	Jackson-Vanik	1974	halt	trade	relations	
+restricted	free	immigration	especially	Jewish	
+virtually	agrees	freedom	immigration	freedom	tolerance	
+restrictions	long	outdated	
+trade	relations	waiver	basis	President	
+legislation	not	trade	relationships	dollar-and-cents	term	
+permanent	priceless	reaffirms	
+continues	down	path	democracy	Again	Speaker	
+would	colleagues	cosponsors	chairman	
+
+reads % = 0.244

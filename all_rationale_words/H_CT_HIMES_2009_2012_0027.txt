@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) rise(0.0) this(0.0) morning(0.0) not(0.0) to(0.0) advocate(1.0) a(0.0) Democratic(0.0) position(0.0) nor(0.0) to(0.0) refute(0.0) a(0.0) Republican(0.0) idea(1.0) .(0.0) Instead(0.0) 
+,(0.0) I(0.0) rise(0.0) to(0.0) highlight(0.0) a(0.0) fundamental(1.0) threat(0.0) to(0.0) our(0.0) ability(0.0) to(0.0) have(0.0) that(0.0) important(0.0) debate(1.0) .(0.0) I(0.0) refer(0.0) ,(0.0) 
+of(0.0) course(0.0) ,(0.0) to(0.0) the(0.0) hundreds(0.0) of(0.0) millions(1.0) --(0.0) indeed(0.0) ,(0.0) billions(1.0) --(0.0) of(0.0) dollars(1.0) that(0.0) will(0.0) influence(1.0) who(0.0) comprises(0.0) 
+this(0.0) otherwise(0.0) democratic(1.0) body(0.0) ,(0.0) which(0.0) may(0.0) very(0.0) well(0.0) determine(0.0) who(0.0) occupies(0.0) the(0.0) Presidency(1.0) next(0.0) .(0.0) In(0.0) each(0.0) of(0.0) our(0.0) 
+hearts(0.0) ,(0.0) those(0.0) of(0.0) us(0.0) in(0.0) this(0.0) Chamber(0.0) called(0.0) to(0.0) represent(0.0) people(0.0) know(0.0) that(0.0) that(0.0) can(0.0) not(0.0) possibly(0.0) be(0.0) right(0.0) 
+.(0.0) That(0.0) is(0.0) why(0.0) I(0.0) will(0.0) cosponsor(1.0) two(0.0) possible(0.0) constitutional(1.0) amendments(1.0) to(0.0) reverse(1.0) the(0.0) damage(0.0) of(0.0) Citizens(1.0) United(0.0) --(0.0) H.J(1.0) 
+.(0.0) Res(0.0) .(0.0) 111(0.0) and(0.0) H.J(1.0) .(0.0) Res(0.0) .(0.0) 78(0.0) .(0.0) This(0.0) should(0.0) not(0.0) be(0.0) partisan(0.0) .(0.0) Today(0.0) ,(0.0) it(0.0) 
+looks(0.0) like(0.0) the(0.0) dollars(1.0) are(0.0) behind(0.0) the(0.0) Republicans(1.0) ;(1.0) but(1.0) tomorrow(1.0) ,(1.0) that(1.0) may(1.0) be(1.0) different(0.0) .(0.0) So(0.0) let's(0.0) join(0.0) 
+,(0.0) let(0.0) 's(0.0) stand(0.0) together(0.0) for(0.0) our(0.0) democracy(1.0) and(0.0) back(0.0) a(0.0) constitutional(1.0) amendment(1.0) to(0.0) make(0.0) our(0.0) democracy(1.0) about(0.0) people(0.0) ,(0.0) 
+not(0.0) about(0.0) dollars(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+advocate	idea	
+fundamental	debate	
+millions	billions	dollars	influence	
+democratic	Presidency	
+
+cosponsor	constitutional	amendments	reverse	Citizens	H.J	
+H.J	
+dollars	Republicans	;	but	tomorrow	,	that	may	be	
+democracy	constitutional	amendment	democracy	
+dollars	
+
+reads % = 0.16756756756756758

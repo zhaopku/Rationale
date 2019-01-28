@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) York(1.0) ,(0.0) because(0.0) I(0.0) did(0.0) mention(0.0) his(0.0) leadership(0.0) too(0.0) .(0.0) The(0.0) 
+gentleman(0.0) had(0.0) some(0.0) wonderful(0.0) hearings(1.0) .(0.0) I(0.0) always(0.0) figure(0.0) if(0.0) you(0.0) can(0.0) get(0.0) a(0.0) double(0.0) bang(0.0) for(0.0) the(0.0) people(0.0) 's(0.0) 
+buck(0.0) ,(0.0) which(0.0) is(0.0) what(0.0) you(0.0) are(0.0) doing(0.0) with(0.0) this(0.0) ,(0.0) it(0.0) is(0.0) great(0.0) .(0.0) Not(0.0) only(0.0) that(0.0) ,(0.0) but(0.0) 
+our(0.0) military(1.0) is(0.0) going(0.0) to(0.0) need(0.0) that(0.0) too(0.0) ,(0.0) because(0.0) they(0.0) are(0.0) looking(0.0) more(0.0) like(0.0) law(1.0) enforcement(1.0) officers(0.0) every(0.0) day(0.0) 
+.(0.0) This(0.0) has(0.0) been(0.0) a(0.0) very(0.0) exciting(0.0) program(1.0) ,(0.0) and(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) his(0.0) leadership(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+York	
+hearings	
+
+military	law	enforcement	
+program	
+
+reads % = 0.06060606060606061

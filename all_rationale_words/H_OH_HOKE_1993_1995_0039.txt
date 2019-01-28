@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+May(0.0) I(0.0) ask(0.0) the(0.0) gentleman(0.0) a(0.0) question(0.0) ?(0.0) Could(0.0) the(0.0) gentleman(0.0) run(0.0) down(0.0) again(0.0) a(0.0) couple(0.0) of(0.0) those(0.0) things(0.0) once(0.0) more(0.0) 
+,(0.0) those(0.0) that(0.0) rhyme(0.0) ,(0.0) particularly(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+
+
+
+reads % = 0.0

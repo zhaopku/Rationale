@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) honor(0.0) of(0.0) standing(0.0) up(0.0) for(0.0) women(1.0) and(0.0) celebrating(0.0) the(0.0) 100-year(1.0) anniversary(0.0) of(0.0) my(0.0) sorority(1.0) 
+,(0.0) Delta(1.0) Sigma(0.0) Theta(0.0) Sorority(1.0) ,(0.0) a(0.0) sorority(0.0) of(0.0) more(0.0) than(0.0) 200,000(0.0) Black(1.0) college-(0.0) educated(0.0) women(1.0) founded(0.0) in(0.0) 1913(0.0) ,(0.0) 
+an(0.0) organization(1.0) where(0.0) 22(0.0) African(1.0) American(0.0) women(1.0) were(0.0) the(0.0) only(0.0) women(1.0) of(0.0) color(0.0) to(0.0) participate(0.0) in(0.0) the(0.0) women(1.0) 's(0.0) suffrage(1.0) 
+march(0.0) .(0.0) I(0.0) thank(0.0) Delta(0.0) Kappa(0.0) Chapter(0.0) ,(0.0) where(0.0) I(0.0) was(0.0) made(0.0) ,(0.0) and(0.0) the(0.0) Columbus(1.0) and(0.0) Dayton(0.0) alumni(0.0) chapters(0.0) 
+,(0.0) where(0.0) I(0.0) serve(0.0) ,(0.0) for(0.0) standing(0.0) on(0.0) their(0.0) shoulders(0.0) and(0.0) continuing(0.0) the(0.0) legacy(1.0) because(0.0) they(0.0) understand(0.0) that(0.0) we(0.0) must(0.0) 
+continue(0.0) to(0.0) stand(0.0) up(0.0) for(0.0) women(1.0) in(0.0) health(1.0) care(1.0) ,(0.0) in(0.0) education(1.0) ,(0.0) and(0.0) in(0.0) the(0.0) workplace(1.0) ,(0.0) because(0.0) when(0.0) 
+women(1.0) do(0.0) better(0.0) ,(0.0) our(0.0) children(0.0) do(0.0) well(0.0) ;(0.0) when(0.0) women(1.0) do(0.0) well(0.0) ,(0.0) our(0.0) families(0.0) do(0.0) well(0.0) ;(0.0) when(0.0) 
+women(1.0) do(0.0) well(0.0) ,(0.0) our(0.0) men(0.0) do(0.0) well(0.0) ;(0.0) and(0.0) yes(0.0) ,(0.0) when(0.0) women(1.0) do(0.0) well(0.0) ,(0.0) America(1.0) does(0.0) well(0.0) 
+.(0.0) Thank(0.0) you(0.0) ,(0.0) women(1.0) ,(0.0) and(0.0) thank(0.0) you(0.0) ,(0.0) Delta(1.0) Sigma(0.0) Theta(0.0) Sorority(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+women	100-year	sorority	
+Delta	Sorority	Black	women	
+organization	African	women	women	women	suffrage	
+Columbus	
+legacy	
+women	health	care	education	workplace	
+women	women	
+women	women	America	
+women	Delta	Sorority	
+
+reads % = 0.1590909090909091

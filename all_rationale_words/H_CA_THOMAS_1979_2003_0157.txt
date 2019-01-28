@@ -1,0 +1,16 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) if(0.0) the(0.0) gentleman(0.0) will(0.0) yield(0.0) ,(0.0) under(0.0) the(0.0) budget(1.0) agreement(0.0) ,(0.0) the(0.0) House(0.0) is(0.0) entitled(0.0) to(0.0) move(0.0) tax(1.0) bills(1.0) 
+that(1.0) are(1.0) not(0.0) offset(1.0) or(0.0) are(0.0) required(0.0) to(0.0) modify(0.0) the(0.0) deficit(1.0) .(0.0) If(0.0) the(0.0) Senate(1.0) brings(0.0) ,(0.0) if(0.0) the(0.0) Senate(0.0) 
+brings(0.0) offsets(1.0) to(0.0) the(0.0) conference(0.0) to(0.0) cover(0.0) the(0.0) House(0.0) bill(0.0) ,(0.0) I(0.0) am(0.0) more(0.0) than(0.0) willing(0.0) to(0.0) look(0.0) at(0.0) them(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+budget	tax	bills	
+that	are	offset	deficit	Senate	
+offsets	
+
+
+reads % = 0.14516129032258066

@@ -1,0 +1,32 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) the(0.0) gentleman(0.0) is(0.0) absolutely(1.0) correct(0.0) .(0.0) And(0.0) for(0.0) other(0.0) colleagues(1.0) who(0.0) are(0.0) listening(0.0) in(0.0) their(0.0) offices(1.0) ,(0.0) the(0.0) kilo(1.0) 
+class(1.0) submarine(1.0) is(0.0) a(0.0) submarine(1.0) that(0.0) can(1.0) do(0.0) tremendous(0.0) harm(0.0) to(0.0) America(0.0) ,(0.0) our(0.0) Navy(1.0) ,(0.0) and(0.0) our(0.0) allies(1.0) .(0.0) 
+Iran(1.0) now(0.0) has(0.0) that(0.0) because(1.0) of(0.0) what(1.0) Vice(0.0) President(1.0) Gore(1.0) did(0.0) secretly(1.0) in(0.0) this(0.0) agreement(1.0) with(0.0) Viktor(1.0) Chernomyrdin(1.0) .(0.0) And(0.0) 
+even(0.0) Madeleine(1.0) Albright(1.0) now(0.0) has(0.0) acknowledged(0.0) what(0.0) he(0.0) did(0.0) .(0.0) My(0.0) colleague(1.0) probably(0.0) is(0.0) aware(1.0) that(0.0) there(0.0) is(0.0) a(0.0) classified(0.0) 
+letter(0.0) that(0.0) was(0.0) written(0.0) by(0.0) Secretary(1.0) of(0.0) State(1.0) Madeleine(1.0) Albright(1.0) in(0.0) this(0.0) year(0.0) to(0.0) Russian(0.0) Foreign(0.0) Minister(1.0) Igor(1.0) Ivanov(1.0) .(0.0) 
+And(0.0) that(0.0) is(0.0) what(0.0) it(0.0) says(1.0) .(0.0) This(0.0) is(0.0) quoting(1.0) Madeleine(1.0) Albright(1.0) .(0.0) ``(1.0) Without(0.0) the(0.0) 1995(1.0) Gore-Chernomyrdin(1.0) agreement(1.0) ,(0.0) 
+Russia(0.0) 's(0.0) conventional(0.0) arms(0.0) sales(1.0) to(0.0) Iran(0.0) would(1.0) have(0.0) been(0.0) subject(0.0) to(0.0) sanctions(0.0) based(0.0) on(0.0) various(1.0) provisions(0.0) of(0.0) our(0.0) laws(1.0) 
+.(0.0) ''(0.0) So(0.0) now(0.0) we(0.0) have(0.0) the(0.0) Secretary(1.0) of(0.0) State(1.0) this(0.0) year(0.0) affirming(0.0) that(0.0) what(1.0) was(0.0) done(0.0) by(0.0) Vice(0.0) President(0.0) 
+Gore(1.0) secretly(0.0) in(0.0) 1995(1.0) ,(0.0) if(0.0) that(0.0) had(0.0) not(1.0) been(0.0) done(0.0) ,(0.0) those(0.0) transfers(1.0) would(0.0) have(0.0) caused(0.0) sanctions(1.0) to(0.0) be(0.0) 
+placed(0.0) on(0.0) Russia(0.0) .(0.0) I(0.0) mean(1.0) ,(0.0) this(0.0) is(0.0) amazing(1.0) .(0.0) Russia(1.0) is(0.0) trying(1.0) to(0.0) become(0.0) a(0.0) democracy(1.0) and(0.0) it(0.0) 
+appears(0.0) as(0.0) though(0.0) we(0.0) are(0.0) going(0.0) to(0.0) a(0.0) totalitarian(1.0) state(0.0) where(0.0) the(0.0) Vice(1.0) President(1.0) thinks(0.0) he(0.0) could(1.0) do(0.0) whatever(1.0) he(0.0) 
+wants(1.0) .(0.0) He(0.0) does(0.0) not(0.0) have(0.0) that(0.0) authority(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+absolutely	colleagues	offices	kilo	
+class	submarine	submarine	can	Navy	allies	
+Iran	because	what	President	Gore	secretly	agreement	Viktor	Chernomyrdin	
+Madeleine	Albright	colleague	aware	
+Secretary	State	Madeleine	Albright	Minister	Igor	Ivanov	
+says	quoting	Madeleine	Albright	``	1995	Gore-Chernomyrdin	agreement	
+sales	would	various	laws	
+Secretary	State	what	
+Gore	1995	not	transfers	sanctions	
+mean	amazing	Russia	trying	democracy	
+totalitarian	Vice	President	could	whatever	
+wants	authority	
+
+reads % = 0.26956521739130435

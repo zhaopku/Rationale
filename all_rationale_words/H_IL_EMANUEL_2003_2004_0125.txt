@@ -1,0 +1,24 @@
+This is from a Democrat
+----- below is the original text -----
+With(0.0) the(0.0) war(1.0) on(0.0) terror(1.0) going(0.0) on(0.0) ,(0.0) what(0.0) this(0.0) bill(1.0) says(1.0) is(0.0) that(0.0) every(0.0) American(0.0) has(0.0) their(0.0) skin(0.0) in(0.0) the(0.0) 
+game(0.0) .(0.0) I(0.0) have(0.0) seen(0.0) my(0.0) Marine(0.0) units(0.0) going(0.0) .(0.0) And(0.0) on(0.0) the(0.0) war(1.0) on(0.0) terror(1.0) ,(0.0) not(0.0) all(0.0) of(0.0) 
+America(1.0) is(0.0) fighting(0.0) .(0.0) So(0.0) when(0.0) it(0.0) comes(0.0) down(0.0) to(0.0) investing(1.0) in(0.0) the(0.0) war(1.0) on(0.0) terror(1.0) ,(0.0) when(0.0) it(0.0) comes(0.0) 
+to(0.0) making(0.0) sure(0.0) that(0.0) we(0.0) have(0.0) access(0.0) to(0.0) higher(0.0) education(1.0) ,(0.0) health(1.0) care(1.0) so(0.0) our(0.0) veterans(1.0) are(0.0) taken(0.0) care(0.0) of(0.0) 
+,(0.0) every(0.0) American(0.0) has(0.0) their(0.0) skin(0.0) in(0.0) the(0.0) game(0.0) to(0.0) make(0.0) sure(0.0) the(0.0) 21st(1.0) century(0.0) is(0.0) the(0.0) American(0.0) century(1.0) .(0.0) 
+And(0.0) I(0.0) have(0.0) seen(0.0) many(0.0) ,(0.0) many(0.0) a(0.0) wealthy(0.0) American(0.0) .(0.0) I(0.0) would(0.0) stop(0.0) and(0.0) ask(0.0) our(0.0) colleagues(0.0) to(0.0) appeal(1.0) 
+to(0.0) their(0.0) patriotism(1.0) ,(0.0) not(0.0) just(0.0) their(0.0) selfishness(1.0) .(0.0) There(0.0) are(0.0) patriotic(1.0) wealthy(1.0) Americans(1.0) who(0.0) are(0.0) ready(0.0) to(0.0) make(0.0) sure(0.0) 
+America(1.0) is(0.0) safe(0.0) and(0.0) secure(0.0) in(0.0) the(0.0) 21st(1.0) century(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+war	terror	bill	says	
+war	terror	
+America	investing	war	terror	
+education	health	care	veterans	
+21st	century	
+appeal	
+patriotism	selfishness	patriotic	wealthy	Americans	
+America	21st	
+
+reads % = 0.15894039735099338

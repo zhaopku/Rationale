@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Before(0.0) I(0.0) give(1.0) my(0.0) remarks(0.0) ,(0.0) I(0.0) just(1.0) want(1.0) to(0.0) say(1.0) in(0.0) response(0.0) that(0.0) I(0.0) believe(1.0) the(0.0) chairman(1.0) said(1.0) that(0.0) he(0.0) 
+is(0.0) not(0.0) opposed(1.0) to(0.0) all(0.0) regulations(1.0) .(0.0) I(0.0) think(1.0) he(0.0) said(1.0) he(0.0) is(0.0) in(0.0) favor(1.0) of(0.0) regulation(1.0) ,(0.0) but(0.0) make(0.0) 
+sure(1.0) that(0.0) it(0.0) is(0.0) smart(1.0) and(0.0) appropriate(1.0) regulation(1.0) --(0.0) at(0.0) least(1.0) ,(0.0) that(0.0) is(0.0) my(0.0) position(0.0) ,(0.0) as(0.0) well(0.0) .(0.0) 
+Understand(1.0) ,(0.0) too(1.0) ,(0.0) to(0.0) the(0.0) gentleman(0.0) 's(0.0) point(0.0) ,(0.0) that(0.0) even(0.0) when(0.0) this(0.0) legislation(0.0) is(0.0) passed(0.0) ,(0.0) the(0.0) SEC(0.0) 
+still(0.0) will(0.0) have(0.0) significant(0.0) authority(0.0) ,(0.0) will(0.0) still(0.0) have(0.0) its(0.0) enforcement(0.0) division(0.0) ,(0.0) will(0.0) still(0.0) have(0.0) its(0.0) new(1.0) asset(1.0) management(1.0) 
+unit(1.0) ,(0.0) which(0.0) has(0.0) recently(0.0) recruited(0.0) industry(1.0) professionals(1.0) with(0.0) asset(1.0) management(0.0) experience(0.0) to(0.0) serve(0.0) as(0.0) specialists(1.0) in(0.0) this(0.0) unit(1.0) to(0.0) 
+do(0.0) the(0.0) investigations(1.0) that(0.0) the(0.0) gentleman(0.0) wants(0.0) to(0.0) have(0.0) continue(0.0) ,(0.0) and(0.0) it(0.0) will(0.0) continue(0.0) even(0.0) after(0.0) the(0.0) passage(0.0) of(0.0) 
+this(0.0) legislation(0.0) .(0.0) With(1.0) that(0.0) said(1.0) ,(0.0) I(0.0) want(1.0) to(0.0) again(0.0) thank(0.0) the(0.0) chairman(1.0) .(0.0) I(0.0) want(1.0) to(0.0) thank(0.0) the(0.0) 
+gentleman(0.0) from(0.0) Virginia(1.0) ((0.0) Mr.(0.0) Hurt(1.0) )(0.0) ,(0.0) and(0.0) also(1.0) the(0.0) gentleman(0.0) from(0.0) Connecticut(0.0) ((0.0) Mr.(0.0) Himes(1.0) )(0.0) ,(0.0) as(0.0) 
+well(0.0) ,(0.0) for(0.0) their(0.0) hard(0.0) work(0.0) on(0.0) this(0.0) very(0.0) important(0.0) legislation(0.0) ,(0.0) as(0.0) well(0.0) as(0.0) all(0.0) our(0.0) cosponsors(1.0) on(0.0) both(0.0) 
+sides(0.0) of(0.0) the(0.0) aisle(1.0) .(0.0) For(1.0) that(0.0) reason(0.0) ,(0.0) I(0.0) am(0.0) pleased(1.0) to(0.0) support(0.0) H.R(0.0) .(0.0) 1105(1.0) .(0.0) And(0.0) do(0.0) 
+make(0.0) no(0.0) mistake(1.0) about(0.0) it(0.0) ;(0.0) this(0.0) is(0.0) bipartisan(0.0) legislation(0.0) ,(0.0) and(0.0) it(0.0) is(0.0) all(0.0) about(0.0) helping(1.0) small(0.0) businesses(1.0) and(0.0) 
+helping(1.0) to(0.0) create(0.0) more(0.0) jobs(1.0) in(0.0) this(0.0) country(1.0) .(0.0) Today(0.0) ,(0.0) more(0.0) than(0.0) 17,700(1.0) companies(1.0) ,(0.0) backed(1.0) by(0.0) private(0.0) equity(1.0) 
+employ(1.0) over(0.0) 7.5(0.0) million(0.0) people(0.0) .(0.0) In(0.0) my(0.0) home(1.0) State(0.0) of(0.0) New(0.0) Jersey(0.0) alone(1.0) ,(0.0) 597(1.0) private(0.0) equity-backed(1.0) companies(1.0) support(0.0) 
+more(0.0) than(0.0) 377,000(1.0) workers(1.0) ,(0.0) while(0.0) the(0.0) New(0.0) Jersey(0.0) Division(0.0) of(0.0) Pensions(1.0) and(0.0) Benefits(1.0) has(0.0) invested(1.0) billions(1.0) on(0.0) behalf(0.0) of(0.0) 
+retirees(1.0) and(0.0) private(0.0) equity(1.0) firms(0.0) .(0.0) Hopefully(0.0) ,(0.0) all(0.0) those(0.0) facts(1.0) give(0.0) you(0.0) the(0.0) facts(1.0) you(0.0) need(0.0) to(0.0) know(0.0) how(0.0) 
+important(0.0) it(0.0) is(0.0) to(0.0) the(0.0) creation(0.0) of(0.0) jobs(1.0) .(0.0) Yet(1.0) despite(0.0) their(0.0) long(1.0) track(1.0) record(0.0) supporting(1.0) small(0.0) business(1.0) nationwide(0.0) ,(0.0) 
+the(0.0) Dodd-Frank(1.0) Act(0.0) has(0.0) imposed(1.0) enormous(0.0) and(0.0) numerous(0.0) burdens(1.0) on(0.0) private(0.0) equity(1.0) firms(0.0) ,(0.0) forcing(0.0) most(1.0) fund(1.0) advisers(0.0) to(0.0) spend(1.0) 
+literally(0.0) millions(1.0) of(0.0) dollars(0.0) complying(1.0) with(0.0) new(1.0) SEC(0.0) registration(0.0) and(0.0) reporting(0.0) requirements(0.0) .(0.0) While(1.0) these(0.0) burdensome(1.0) regulations(1.0) no(0.0) doubt(1.0) crimp(1.0) 
+the(0.0) flow(0.0) of(0.0) much-(1.0) needed(0.0) investment(1.0) dollars(0.0) to(0.0) America(0.0) 's(0.0) small(0.0) businesses(1.0) ,(0.0) there(0.0) is(0.0) little(0.0) or(1.0) no(0.0) evidence(1.0) that(0.0) 
+they(0.0) are(0.0) needed(0.0) to(0.0) promote(0.0) the(0.0) stability(0.0) of(0.0) our(0.0) financial(0.0) system(0.0) or(1.0) to(0.0) protect(0.0) investors(0.0) .(0.0) Unlike(1.0) ,(0.0) say(1.0) ,(0.0) 
+Federal(1.0) housing(1.0) policy(1.0) and(0.0) the(0.0) government-sponsored(1.0) enterprises(1.0) Fannie(1.0) Mae(1.0) and(0.0) Freddie(1.0) Mac(1.0) ,(0.0) private(0.0) equity(1.0) did(0.0) not(1.0) cause(1.0) the(0.0) financial(1.0) 
+crisis(0.0) and(0.0) is(0.0) not(0.0) --(0.0) and(0.0) never(0.0) has(0.0) been(0.0) --(0.0) a(0.0) source(1.0) of(0.0) systemic(1.0) risk(0.0) .(0.0) As(1.0) former(0.0) SEC(0.0) Chair(1.0) 
+Mary(1.0) Schapiro(1.0) admitted(1.0) back(0.0) in(0.0) 2011(0.0) :(1.0) ``(0.0) Private(1.0) equity(1.0) funds(0.0) have(0.0) less(0.0) potential(0.0) to(0.0) pose(0.0) systemic(1.0) risk(0.0) than(0.0) any(1.0) 
+other(0.0) type(0.0) of(0.0) private(0.0) funds(0.0) .(0.0) ''(0.0) Indeed(1.0) ,(0.0) if(0.0) the(0.0) SEC(0.0) is(0.0) so(0.0) concerned(1.0) about(0.0) the(0.0) systemic(1.0) risk(0.0) 
+
+
+----- below are rationale words -----
+
+give	just	want	say	believe	chairman	said	
+opposed	regulations	think	said	favor	regulation	
+sure	smart	appropriate	regulation	least	
+Understand	too	
+new	asset	management	
+unit	industry	professionals	asset	specialists	unit	
+investigations	
+With	said	want	chairman	want	
+Virginia	Hurt	also	Himes	
+cosponsors	
+aisle	For	pleased	1105	
+mistake	helping	businesses	
+helping	jobs	country	17,700	companies	backed	equity	
+employ	home	alone	597	equity-backed	companies	
+377,000	workers	Pensions	Benefits	invested	billions	
+retirees	equity	facts	facts	
+jobs	Yet	long	track	supporting	business	
+Dodd-Frank	imposed	burdens	equity	most	fund	spend	
+millions	complying	new	While	burdensome	regulations	doubt	crimp	
+much-	investment	businesses	or	evidence	
+or	Unlike	say	
+Federal	housing	policy	government-sponsored	enterprises	Fannie	Mae	Freddie	Mac	equity	not	cause	financial	
+source	systemic	As	Chair	
+Mary	Schapiro	admitted	:	Private	equity	systemic	any	
+Indeed	concerned	systemic	
+
+reads % = 0.254

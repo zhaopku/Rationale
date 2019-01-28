@@ -1,0 +1,30 @@
+This is from a Republican
+----- below is the original text -----
+The(0.0) chart(0.0) starts(0.0) out(0.0) by(0.0) saying(0.0) Benefit(1.0) to(0.0) an(0.0) American(0.0) family(0.0) of(0.0) a(0.0) balanced(0.0) budget(1.0) :(0.0) Annual(0.0) savings(1.0) from(0.0) a(0.0) 2-percent(0.0) 
+interest(0.0) reduction(0.0) ,(0.0) just(0.0) a(0.0) reduction(0.0) of(0.0) 2(0.0) percent(0.0) ,(0.0) and(0.0) again(0.0) it(0.0) goes(0.0) back(0.0) to(0.0) Mr.(0.0) Greenspan(1.0) saying(1.0) that(1.0) 
+,(0.0) if(0.0) we(0.0) would(0.0) balance(0.0) the(0.0) budget(1.0) ,(0.0) interest(0.0) rates(1.0) would(0.0) drop(0.0) 2(0.0) percent(0.0) because(0.0) the(0.0) Government(1.0) would(0.0) not(0.0) be(0.0) 
+out(0.0) there(0.0) competing(0.0) for(0.0) debt(1.0) ,(0.0) which(0.0) in(0.0) turn(0.0) competes(0.0) for(0.0) credit(0.0) .(0.0) So(0.0) this(0.0) is(0.0) a(0.0) 2-(0.0) percent(0.0) reduction(1.0) 
+in(0.0) interest(0.0) rates(0.0) .(0.0) On(0.0) the(0.0) average(0.0) car(0.0) loan(0.0) of(0.0) $(0.0) 15,000(0.0) it(0.0) would(0.0) be(0.0) an(0.0) annual(1.0) savings(1.0) of(0.0) $(0.0) 
+180(0.0) .(0.0) On(0.0) a(0.0) student(0.0) loan(0.0) of(0.0) $(0.0) 11,000(0.0) ,(0.0) it(0.0) would(0.0) be(0.0) savings(1.0) annually(0.0) of(0.0) $(0.0) 216(0.0) .(0.0) But(0.0) 
+the(0.0) biggest-ticket(0.0) item(0.0) of(0.0) course(0.0) is(0.0) the(0.0) mortgage(1.0) ,(0.0) and(0.0) right(0.0) now(0.0) ,(0.0) about(0.0) the(0.0) average(0.0) mortgage(1.0) ,(0.0) somewhere(0.0) around(0.0) 
+$(0.0) 100,000(0.0) .(0.0) If(0.0) it(0.0) was(0.0) $(0.0) 100,000(0.0) ,(0.0) it(0.0) would(0.0) be(0.0) reduced(0.0) ,(0.0) just(0.0) by(0.0) going(0.0) down(0.0) 2(0.0) interest(0.0) 
+points(0.0) ,(0.0) $(0.0) 2,162(0.0) per(0.0) year(0.0) ,(0.0) a(0.0) total(0.0) annual(0.0) savings(1.0) of(0.0) $(0.0) 2,558(0.0) .(0.0) And(0.0) I(0.0) think(0.0) that(0.0) talks(0.0) 
+about(0.0) ,(0.0) you(0.0) know(0.0) ,(0.0) it(0.0) reflects(0.0) restoration(1.0) of(0.0) hope(0.0) ,(0.0) getting(0.0) more(0.0) purchasing(0.0) power(0.0) for(0.0) the(0.0) dollar(1.0) .(0.0) It(0.0) 
+is(0.0) a(0.0) very(0.0) important(0.0) issue(0.0) ,(0.0) that(0.0) we(0.0) balance(0.0) the(0.0) budget(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Benefit	budget	savings	
+Greenspan	saying	that	
+budget	rates	Government	
+debt	reduction	
+annual	savings	
+savings	
+mortgage	mortgage	
+
+savings	
+restoration	dollar	
+budget	
+
+reads % = 0.09389671361502347

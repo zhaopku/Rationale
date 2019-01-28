@@ -1,0 +1,50 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) too(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) the(0.0) Bono(1.0) amendment(1.0) .(0.0) I(0.0) want(0.0) to(0.0) speak(0.0) ,(0.0) however(0.0) ,(0.0) to(0.0) the(0.0) 
+amendment(1.0) that(0.0) is(0.0) coming(0.0) up(0.0) after(0.0) this(0.0) one(0.0) ,(0.0) the(0.0) Corporate(0.0) Average(0.0) Fuel(0.0) Economy(1.0) standard(0.0) increase(1.0) .(0.0) Last(0.0) year(0.0) in(0.0) 
+my(0.0) home(0.0) State(0.0) of(0.0) Wyoming(1.0) ,(0.0) registration(0.0) of(0.0) light(0.0) trucks(0.0) outnumbered(0.0) passenger(0.0) cars(0.0) by(0.0) about(0.0) 2(0.0) to(0.0) 1(0.0) .(0.0) While(0.0) 
+this(0.0) statistic(1.0) may(0.0) be(0.0) surprising(0.0) to(0.0) some(0.0) of(0.0) my(0.0) colleagues(0.0) ,(0.0) it(0.0) is(0.0) in(0.0) no(0.0) way(0.0) surprising(0.0) to(0.0) me(0.0) .(0.0) 
+Despite(0.0) the(0.0) many(0.0) advantages(0.0) that(0.0) we(0.0) enjoy(0.0) living(0.0) in(0.0) Wyoming(1.0) ,(0.0) its(0.0) cold(0.0) ,(0.0) harsh(0.0) ,(0.0) long(0.0) winters(0.0) ,(0.0) long-distance(0.0) 
+traveling(0.0) and(0.0) often(0.0) rugged(0.0) terrain(0.0) create(0.0) additional(0.0) safety(0.0) and(0.0) utility(0.0) needs(0.0) to(0.0) such(0.0) everyday(0.0) events(0.0) as(0.0) traveling(0.0) to(0.0) a(0.0) nearby(0.0) 
+town(0.0) for(0.0) business(0.0) or(0.0) for(0.0) transporting(0.0) one's(0.0) children(0.0) to(0.0) soccer(0.0) practice(0.0) .(0.0) SUVs(0.0) ,(0.0) Suburbans(1.0) and(0.0) minivans(0.0) have(0.0) replaced(0.0) the(0.0) 
+station(0.0) wagon(0.0) as(0.0) the(0.0) soccer(0.0) mom(0.0) 's(0.0) vehicle(0.0) of(0.0) choice(0.0) ,(0.0) because(0.0) these(0.0) vehicles(0.0) provide(0.0) levels(0.0) of(0.0) safety(0.0) ,(0.0) passenger(0.0) 
+room(0.0) and(0.0) utility(0.0) that(0.0) allow(0.0) an(0.0) active(0.0) family(0.0) to(0.0) meet(0.0) their(0.0) needs(0.0) .(0.0) Wyoming(1.0) 's(0.0) agriculture(1.0) community(0.0) also(0.0) depends(0.0) on(0.0) 
+light(0.0) truck(0.0) utility(0.0) vehicles(0.0) to(0.0) accomplish(0.0) the(0.0) necessary(0.0) work(0.0) associated(0.0) with(0.0) farming(1.0) and(0.0) ranching(1.0) .(0.0) It(0.0) should(0.0) not(0.0) take(0.0) a(0.0) 
+farmer(0.0) or(0.0) a(0.0) rancher(0.0) to(0.0) tell(0.0) us(0.0) we(0.0) can(0.0) not(0.0) haul(0.0) a(0.0) bail(1.0) of(0.0) hay(0.0) in(0.0) a(0.0) Geo(0.0) Metro(0.0) .(0.0) 
+While(0.0) that(0.0) vehicle(0.0) also(0.0) has(0.0) its(0.0) place(0.0) in(0.0) the(0.0) market(0.0) ,(0.0) and(0.0) I(0.0) do(0.0) not(0.0) deny(1.0) that(0.0) ,(0.0) agriculture(1.0) families(0.0) 
+simply(0.0) have(0.0) different(0.0) needs(0.0) .(0.0) Thankfully(0.0) ,(0.0) the(0.0) auto(0.0) industry(0.0) constantly(0.0) works(0.0) to(0.0) address(0.0) these(0.0) needs(0.0) by(0.0) building(0.0) and(0.0) marketing(0.0) 
+larger(0.0) and(0.0) safer(1.0) and(0.0) ,(0.0) yes(0.0) ,(0.0) more(0.0) fuel-(0.0) efficient(0.0) vehicles(0.0) .(0.0) After(0.0) all(0.0) ,(0.0) these(0.0) vehicles(0.0) are(0.0) what(0.0) consumers(1.0) 
+want(0.0) to(0.0) buy(0.0) ,(0.0) and(0.0) it(0.0) only(0.0) makes(0.0) sense(0.0) for(0.0) the(0.0) market(0.0) to(0.0) respond(0.0) to(0.0) that(0.0) consumer(1.0) demand(1.0) .(0.0) Increasing(1.0) 
+CAFE(1.0) standards(1.0) today(0.0) would(0.0) put(0.0) automobile(0.0) manufacturers(0.0) at(0.0) odds(0.0) with(0.0) consumers(1.0) by(0.0) forcing(1.0) the(0.0) auto(0.0) industry(0.0) to(0.0) produce(0.0) smaller(0.0) and(0.0) 
+lighter(0.0) vehicles(0.0) .(0.0) Such(0.0) a(0.0) requirement(0.0) would(0.0) not(0.0) only(0.0) translate(0.0) into(0.0) reduction(1.0) of(0.0) consumer(1.0) choice(0.0) ,(0.0) but(0.0) would(0.0) sacrifice(0.0) the(0.0) 
+safety(0.0) benefits(1.0) that(0.0) go(0.0) along(0.0) with(0.0) larger(0.0) vehicles(0.0) .(0.0) The(0.0) National(0.0) Research(0.0) Council(0.0) 's(0.0) report(0.0) on(0.0) CAFE(1.0) standards(0.0) released(0.0) only(0.0) 
+yesterday(0.0) stated(0.0) that(0.0) without(0.0) a(0.0) thought(0.0) for(0.0) a(0.0) restructuring(0.0) of(0.0) the(0.0) program(0.0) ,(0.0) additional(0.0) traffic(0.0) fatalities(0.0) would(0.0) be(0.0) the(0.0) trade-off(1.0) 
+that(0.0) we(0.0) must(0.0) incur(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) the(0.0) Bono(1.0) amendment(1.0) and(0.0) vote(1.0) against(0.0) 
+the(0.0) Boehlert(1.0) amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Bono	amendment	
+amendment	Economy	increase	
+Wyoming	
+statistic	
+Wyoming	
+
+Suburbans	
+
+Wyoming	agriculture	
+farming	ranching	
+bail	
+deny	agriculture	
+
+safer	consumers	
+consumer	demand	Increasing	
+CAFE	standards	consumers	forcing	
+reduction	consumer	
+benefits	CAFE	
+trade-off	
+Chairman	Bono	amendment	vote	
+Boehlert	amendment	
+
+reads % = 0.08888888888888889

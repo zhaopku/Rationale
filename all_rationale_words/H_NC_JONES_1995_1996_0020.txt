@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Would(1.0) the(0.0) gentleman(0.0) from(0.0) Georgia(0.0) [(0.0) Mr.(0.0) Norwood(1.0) ](0.0) tell(1.0) me(1.0) again(1.0) how(0.0) many(0.0) dentists(1.0) were(0.0) in(0.0) the(0.0) network(0.0) when(0.0) Delta(1.0) 
+had(0.0) the(0.0) plan(1.0) versus(0.0) Concordia(1.0) today(0.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+Norwood	tell	me	again	dentists	Delta	
+plan	Concordia	
+
+reads % = 0.2857142857142857

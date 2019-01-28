@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(1.0) ,(0.0) reclaiming(0.0) my(0.0) time(0.0) ,(0.0) I(0.0) point(0.0) out(0.0) that(0.0) when(0.0) the(0.0) gentleman(0.0) brought(0.0) his(1.0) interest(0.0) in(0.0) CASA(1.0) to(0.0) the(0.0) attention(0.0) 
+of(0.0) the(0.0) committee(0.0) ,(0.0) I(0.0) pointed(1.0) out(1.0) to(0.0) him(0.0) that(0.0) CASA(1.0) is(0.0) funded(1.0) in(0.0) our(0.0) bill(0.0) at(0.0) the(0.0) authorized(1.0) limit(0.0) 
+of(0.0) $(0.0) 12(1.0) million(0.0) .(0.0) We(0.0) do(0.0) n't(0.0) suggest(0.0) that(0.0) it(0.0) does(0.0) not(1.0) merit(0.0) and(0.0) that(0.0) the(0.0) need(1.0) is(0.0) n't(0.0) 
+there(0.0) for(0.0) considerably(0.0) additional(0.0) funding(1.0) .(0.0) That(0.0) is(0.0) something(0.0) that(0.0) we(0.0) can(0.0) look(0.0) at(0.0) in(0.0) the(0.0) future(0.0) ,(0.0) and(0.0) I(0.0) 
+thank(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) for(0.0) bringing(1.0) this(0.0) matter(0.0) to(0.0) the(0.0) attention(0.0) of(0.0) the(0.0) committee(0.0) and(0.0) to(0.0) the(0.0) attention(0.0) of(0.0) 
+the(0.0) full(0.0) body(0.0) .(0.0) CASA(1.0) is(0.0) a(0.0) vital(1.0) program(0.0) that(0.0) is(0.0) important(0.0) in(0.0) the(0.0) lives(0.0) of(0.0) countless(0.0) children(0.0) in(0.0) foster(1.0) 
+care(0.0) ,(0.0) and(0.0) we(0.0) will(0.0) continue(0.0) to(0.0) work(0.0) with(0.0) the(0.0) gentleman(0.0) on(0.0) his(0.0) concern(0.0) of(0.0) ensuring(0.0) that(0.0) soon(1.0) every(0.0) child(0.0) 
+has(0.0) a(0.0) CASA(1.0) representative(1.0) .(0.0) As(0.0) the(0.0) gentleman(0.0) represents(1.0) ,(0.0) only(0.0) 50(0.0) percent(1.0) ,(0.0) if(0.0) it(0.0) is(0.0) 50(0.0) percent(1.0) ,(0.0) 
+of(0.0) those(0.0) in(0.0) need(1.0) are(0.0) served(1.0) by(0.0) this(0.0) vital(1.0) program(0.0) .(0.0) As(0.0) my(0.0) colleagues(1.0) may(0.0) know(1.0) ,(0.0) 7(0.0) years(0.0) ago(1.0) 
+,(0.0) and(0.0) as(0.0) the(0.0) gentleman(0.0) pointed(0.0) out(1.0) ,(0.0) and(0.0) we(0.0) are(0.0) very(0.0) impressed(0.0) by(0.0) that(0.0) fact(0.0) and(0.0) taken(0.0) by(0.0) it(0.0) 
+,(0.0) adopted(1.0) two(0.0) foster(1.0) children(0.0) .(0.0) There(0.0) is(0.0) no(0.0) greater(0.0) love(1.0) than(0.0) adopting(1.0) children(0.0) .(0.0) We(0.0) look(0.0) forward(0.0) to(0.0) working(0.0) 
+with(0.0) the(0.0) gentleman(0.0) as(0.0) we(0.0) move(0.0) forward(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+his	CASA	
+pointed	out	CASA	funded	authorized	
+12	not	need	
+funding	
+bringing	
+CASA	vital	foster	
+soon	
+CASA	representative	represents	percent	percent	
+need	served	vital	colleagues	know	ago	
+out	
+adopted	foster	love	adopting	
+
+
+reads % = 0.13973799126637554

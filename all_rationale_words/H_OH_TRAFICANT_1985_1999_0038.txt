@@ -1,0 +1,20 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) even(0.0) though(0.0) Article(0.0) 21(0.0) of(0.0) GATT(1.0) clearly(0.0) states(0.0) any(0.0) Nation(0.0) can(0.0) take(0.0) action(0.0) when(0.0) their(0.0) military(0.0) security(0.0) is(0.0) 
+threatened(0.0) ,(0.0) the(0.0) White(1.0) House(0.0) has(0.0) vowed(1.0) to(0.0) veto(1.0) any(0.0) bill(1.0) on(0.0) steel(1.0) imports(1.0) .(0.0) Beam(0.0) me(0.0) up(0.0) .(0.0) We(0.0) 
+can(0.0) not(0.0) defend(1.0) America(1.0) with(0.0) plastic(0.0) and(0.0) Styrofoam(0.0) .(0.0) It(0.0) seems(0.0) the(0.0) White(1.0) House(0.0) is(0.0) more(0.0) concerned(0.0) with(0.0) violating(1.0) the(0.0) 
+World(0.0) Trade(0.0) Organization(0.0) than(0.0) they(0.0) are(0.0) in(0.0) violating(1.0) America(1.0) 's(0.0) steel(0.0) workers(1.0) .(0.0) Let(0.0) me(0.0) remind(0.0) Members(0.0) of(0.0) Congress(0.0) we(0.0) 
+pledged(1.0) an(0.0) oath(1.0) to(0.0) the(0.0) Constitution(1.0) of(0.0) the(0.0) United(0.0) States(0.0) of(0.0) America(0.0) ,(0.0) not(0.0) the(0.0) World(0.0) Trade(0.0) Organization(0.0) .(0.0) I(0.0) 
+yield(0.0) back(0.0) all(0.0) the(0.0) bankruptcy(1.0) ,(0.0) despair(0.0) ,(0.0) downsizing(1.0) ,(0.0) layoffs(1.0) and(0.0) foreclosure(1.0) of(0.0) America(1.0) 's(0.0) steel(0.0) workers(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+GATT	
+White	vowed	veto	bill	steel	imports	
+defend	America	White	violating	
+violating	America	workers	
+pledged	oath	Constitution	
+bankruptcy	downsizing	layoffs	foreclosure	America	workers	
+
+reads % = 0.19166666666666668

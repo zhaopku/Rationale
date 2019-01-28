@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+It(0.0) was(0.0) an(0.0) excellent(0.0) show(0.0) .(0.0) It(0.0) expanded(0.0) the(0.0) lexicon(1.0) in(0.0) the(0.0) thesaurus(0.0) .(0.0) I(0.0) now(0.0) yield(0.0) 2(0.0) minutes(0.0) to(0.0) a(0.0) 
+member(0.0) of(0.0) the(0.0) committee(0.0) ,(0.0) a(0.0) subcommittee(0.0) chairman(0.0) ,(0.0) the(0.0) gentleman(0.0) from(0.0) Tennessee(1.0) ((0.0) Mr.(0.0) Roe(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+lexicon	
+Tennessee	Roe	
+
+reads % = 0.07692307692307693

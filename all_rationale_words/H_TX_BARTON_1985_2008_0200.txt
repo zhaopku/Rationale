@@ -1,0 +1,42 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) rise(0.0) in(0.0) support(0.0) of(0.0) this(0.0) legislation(1.0) this(0.0) evening(0.0) .(0.0) I(0.0) think(0.0) it(0.0) 's(0.0) important(0.0) that(0.0) members(0.0) of(0.0) the(0.0) 
+Republican(1.0) Party(1.0) in(1.0) the(1.0) House(1.0) be(1.0) for(1.0) Main(1.0) Street(1.0) and(1.0) the(1.0) workers(1.0) of(0.0) America(1.0) as(1.0) much(0.0) as(0.0) sometimes(0.0) we(0.0) are(0.0) 
+for(0.0) Wall(1.0) Street(1.0) and(0.0) the(0.0) financiers(1.0) of(0.0) America(1.0) .(0.0) I(0.0) have(0.0) the(0.0) privilege(1.0) to(0.0) represent(0.0) over(0.0) 2,500(0.0) GM(0.0) assembly(0.0) workers(1.0) 
+and(0.0) managers(0.0) at(0.0) the(0.0) GM(0.0) assembly(0.0) plant(0.0) in(0.0) Arlington(1.0) ,(0.0) Texas(1.0) .(0.0) They(0.0) produce(0.0) the(0.0) highest(0.0) quality(0.0) products(0.0) ,(0.0) SUV(0.0) 
+,(0.0) hybrids(0.0) ,(0.0) pickups(0.0) in(0.0) the(0.0) world(0.0) .(0.0) They(0.0) export(1.0) a(0.0) fair(0.0) number(0.0) of(0.0) the(0.0) products(0.0) that(0.0) they(0.0) manufacture(0.0) ,(0.0) 
+and(0.0) they(0.0) manufacture(0.0) over(0.0) 200,000(0.0) vehicles(0.0) on(0.0) an(0.0) annual(1.0) basis(0.0) every(0.0) year(0.0) .(0.0) It(0.0) would(0.0) be(0.0) an(0.0) absolute(0.0) shame(0.0) if(0.0) 
+we(0.0) either(0.0) force(0.0) these(0.0) companies(0.0) into(0.0) bankruptcy(1.0) or(0.0) watch(0.0) them(0.0) totally(0.0) go(0.0) out(0.0) of(0.0) business(0.0) because(0.0) they(0.0) had(0.0) the(0.0) misfortune(0.0) 
+to(0.0) be(0.0) in(0.0) a(0.0) business(0.0) cycle(0.0) where(0.0) gasoline(1.0) was(0.0) $(0.0) 4(0.0) a(0.0) gallon(0.0) and(0.0) their(0.0) product(0.0) sale(0.0) fell(0.0) 40(0.0) percent(0.0) 
+on(0.0) average(0.0) in(0.0) 1(0.0) year(0.0) .(0.0) If(0.0) I(0.0) lost(0.0) 40(0.0) percent(0.0) of(0.0) my(0.0) votes(1.0) in(0.0) this(0.0) last(0.0) election(1.0) in(0.0) 2008(1.0) 
+,(0.0) I(0.0) would(0.0) not(0.0) be(0.0) coming(0.0) back(0.0) as(0.0) a(0.0) Member-elect(0.0) of(0.0) the(0.0) next(0.0) Congress(0.0) .(0.0) If(0.0) we(0.0) can(0.0) give(0.0) the(0.0) 
+AIGs(1.0) and(0.0) the(0.0) Wells(0.0) Fargos(1.0) and(0.0) the(0.0) J.P.(0.0) Morgans(0.0) of(0.0) the(0.0) world(0.0) ,(0.0) each(0.0) of(0.0) those(0.0) individual(0.0) companies(0.0) ,(0.0) between(0.0) 
+40(0.0) and(0.0) $(0.0) 25(0.0) billion(0.0) ,(0.0) in(0.0) what(0.0) amounts(1.0) to(0.0) some(0.0) sort(0.0) of(0.0) a(0.0) very(0.0) unsecured(0.0) loan(0.0) ,(0.0) to(0.0) be(0.0) 
+generous(0.0) about(0.0) it(0.0) ,(0.0) certainly(0.0) we(0.0) can(0.0) give(0.0) the(0.0) American(0.0) nameplate(0.0) automotive(0.0) industry(0.0) a(0.0) $(0.0) 15(0.0) billion(1.0) bridge(0.0) loan(0.0) that(0.0) 
+has(0.0) a(0.0) 5(0.0) percent(0.0) interest(0.0) rate(0.0) for(0.0) ,(0.0) I(0.0) believe(0.0) ,(0.0) the(0.0) first(0.0) 5(0.0) years(0.0) and(0.0) then(0.0) a(0.0) 9(0.0) percent(0.0) 
+interest(0.0) rate(0.0) after(0.0) that(0.0) ;(0.0) that(0.0) has(0.0) an(0.0) automobile(0.0) czar(1.0) appointed(0.0) by(0.0) President(0.0) Bush(1.0) to(0.0) oversee(0.0) the(0.0) industry(0.0) ,(0.0) and(0.0) 
+force(0.0) them(0.0) to(0.0) be(0.0) accountable(0.0) on(0.0) any(0.0) expenditure(1.0) over(0.0) $(0.0) 14(0.0) million(0.0) .(0.0) I(0.0) would(0.0) ask(0.0) for(0.0) a(0.0) ``(0.0) yes(0.0) 
+''(0.0) vote(1.0) on(0.0) the(0.0) bill(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+legislation	
+Republican	Party	in	the	House	be	for	Main	Street	and	the	workers	America	as	
+Wall	Street	financiers	America	privilege	workers	
+Arlington	Texas	
+export	
+annual	
+bankruptcy	
+gasoline	
+votes	election	2008	
+
+AIGs	Fargos	
+amounts	
+billion	
+
+czar	Bush	
+expenditure	
+vote	bill	
+
+reads % = 0.11926605504587157

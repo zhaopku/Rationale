@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+To(0.0) my(0.0) friend(0.0) ,(0.0) I(0.0) want(0.0) to(0.0) also(0.0) thank(0.0) you(0.0) for(0.0) the(0.0) good-faith(1.0) discussions(0.0) and(0.0) negotiations(1.0) we(0.0) 've(0.0) had(0.0) .(0.0) I(0.0) 
+appreciate(0.0) your(0.0) support(0.0) for(0.0) this(0.0) bill(1.0) and(0.0) your(0.0) work(0.0) toward(0.0) a(0.0) sustainable(1.0) loan(0.0) modification(0.0) program(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+good-faith	negotiations	
+bill	sustainable	program	
+
+reads % = 0.13513513513513514

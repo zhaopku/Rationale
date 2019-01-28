@@ -1,0 +1,24 @@
+This is from a Republican
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) support(0.0) of(0.0) the(0.0) Full(0.0) Faith(0.0) and(0.0) Credit(0.0) Act(0.0) .(0.0) As(0.0) a(0.0) conservative(0.0) ,(0.0) ensuring(1.0) 
+that(0.0) our(0.0) nation(1.0) pays(1.0) its(0.0) bills(1.0) on(0.0) time(0.0) is(0.0) a(0.0) top(0.0) priority(0.0) .(0.0) The(0.0) Full(0.0) Faith(0.0) and(0.0) Credit(0.0) Act(0.0) would(0.0) 
+protect(0.0) America(1.0) 's(0.0) credit(0.0) rating(0.0) by(0.0) ensuring(0.0) that(0.0) we(0.0) do(0.0) not(0.0) default(0.0) on(0.0) our(0.0) nation(1.0) 's(0.0) debt(1.0) .(0.0) It(0.0) requires(0.0) 
+the(0.0) Treasury(1.0) to(0.0) continue(0.0) to(0.0) make(0.0) timely(0.0) payments(1.0) on(0.0) our(0.0) principal(0.0) and(0.0) interest(0.0) in(0.0) the(0.0) event(0.0) that(0.0) our(0.0) nation(1.0) 's(0.0) 
+debt(1.0) limit(0.0) is(0.0) reached(0.0) .(0.0) Furthermore(0.0) ,(0.0) what(0.0) this(0.0) does(0.0) is(0.0) take(0.0) the(0.0) politicization(1.0) of(0.0) the(0.0) debt(1.0) limit(1.0) debate(1.0) off(0.0) 
+of(0.0) the(0.0) table(0.0) .(0.0) Without(0.0) a(0.0) chance(0.0) for(0.0) default(0.0) ,(0.0) we(0.0) can(0.0) negotiate(0.0) in(0.0) good(0.0) faith(1.0) with(0.0) the(0.0) President(1.0) and(0.0) 
+Congressional(0.0) Democrats(1.0) on(0.0) a(0.0) plan(1.0) that(0.0) addresses(0.0) our(0.0) real(0.0) problem(0.0) --(0.0) out(0.0) of(0.0) control(0.0) spending(1.0) .(0.0) I(0.0) look(0.0) forward(0.0) to(0.0) 
+having(0.0) this(0.0) debate(1.0) ,(0.0) and(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) this(0.0) legislation(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+ensuring	
+nation	pays	bills	
+America	nation	debt	
+Treasury	payments	nation	
+debt	politicization	debt	limit	debate	
+faith	President	
+Democrats	plan	spending	
+debate	legislation	
+
+reads % = 0.14193548387096774

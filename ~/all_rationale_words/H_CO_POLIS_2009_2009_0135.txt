@@ -1,0 +1,10 @@
+This is from a Democrat
+----- below is the original text -----
+What(0.0) I(0.0) stated(1.0) --(0.0) I(0.0) believe(1.0) in(0.0) the(0.0) affirmative(1.0) --(0.0) is(0.0) the(0.0) Waxman(1.0) bill(0.0) prevents(0.0) false(0.0) and(0.0) misleading(1.0) advertising(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+stated	believe	affirmative	Waxman	misleading	
+
+reads % = 0.25

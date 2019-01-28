@@ -1,0 +1,20 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) as(0.0) we(0.0) go(0.0) through(0.0) this(0.0) tonight(0.0) ,(0.0) the(0.0) 30(0.0) Something(0.0) 's(0.0) two(0.0) key(0.0) third-party(0.0) validators(0.0) are(0.0) the(0.0) former(0.0) Speaker(0.0) 
+of(0.0) the(0.0) House(0.0) Newt(1.0) Gingrich(1.0) and(1.0) former(1.0) Congressman(1.0) Pat(1.0) Toomey(1.0) ,(0.0) now(0.0) president(0.0) of(0.0) the(0.0) Club(0.0) for(0.0) Growth(0.0) ,(0.0) both(0.0) 
+saying(0.0) that(0.0) there(0.0) is(0.0) out-of-(0.0) control(0.0) spending(0.0) ,(0.0) out-of-control(1.0) government(1.0) ,(0.0) dysfunctional(1.0) ,(0.0) and(0.0) the(0.0) American(0.0) people(0.0) know(0.0) that(0.0) .(0.0) 
+Any(0.0) Members(0.0) who(0.0) would(0.0) like(0.0) to(0.0) come(0.0) to(0.0) our(0.0) Web(0.0) site(0.0) ,(0.0) <(0.0) a(0.0) href=(0.0) ''(0.0) http(0.0) :(0.0) //www.housedemocrats.gov/30Something(0.0) ''(0.0) 
+>(0.0) www.housedemocrats.gov/30Something(0.0) <(0.0) /a(0.0) >(0.0) ,(0.0) <(0.0) a(0.0) href=(0.0) ''(0.0) http(0.0) :(0.0) //www.housedemocrats.gov/30Something(0.0) ''(0.0) >(0.0) www.housedemocrats.gov/30Something(0.0) <(0.0) /a(0.0) >(0.0) .(0.0) 
+
+
+
+----- below are rationale words -----
+
+
+Newt	Gingrich	and	former	Congressman	Pat	Toomey	
+out-of-control	government	dysfunctional	
+
+
+
+
+reads % = 0.09900990099009901

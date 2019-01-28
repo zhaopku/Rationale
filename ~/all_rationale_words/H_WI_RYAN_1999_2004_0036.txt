@@ -1,0 +1,34 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(1.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) me(0.0) the(0.0) time(0.0) .(0.0) I(0.0) also(1.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) ((0.0) Mr.(0.0) 
+Ose(1.0) )(0.0) for(0.0) his(0.0) leadership(1.0) on(0.0) this(0.0) issue(0.0) .(0.0) It(0.0) is(0.0) really(0.0) a(0.0) great(0.0) tribute(1.0) to(0.0) all(0.0) the(0.0) work(0.0) that(0.0) 
+he(0.0) has(0.0) done(0.0) .(0.0) Mr.(1.0) Chairman(1.0) ,(0.0) one(0.0) of(0.0) the(0.0) things(0.0) that(0.0) we(0.0) are(0.0) talking(0.0) about(0.0) these(0.0) days(0.0) is(0.0) ,(0.0) 
+how(1.0) do(0.0) we(0.0) stop(0.0) pushing(0.0) jobs(1.0) overseas(1.0) ?(0.0) One(1.0) of(0.0) the(0.0) problems(0.0) we(0.0) have(0.0) is(0.0) ,(0.0) we(0.0) are(0.0) in(0.0) the(0.0) 
+time(0.0) of(0.0) global(0.0) competition(0.0) ,(0.0) and(0.0) our(0.0) manufacturers(0.0) and(0.0) our(0.0) small(0.0) businesses(1.0) are(0.0) really(1.0) struggling(1.0) to(0.0) compete(0.0) in(0.0) the(0.0) global(0.0) 
+marketplace(1.0) .(0.0) One(1.0) of(0.0) the(0.0) ways(1.0) in(0.0) which(0.0) we(0.0) push(0.0) jobs(1.0) overseas(1.0) is(0.0) by(0.0) making(0.0) it(0.0) more(0.0) expensive(0.0) to(0.0) do(0.0) 
+business(1.0) in(0.0) America(0.0) and(0.0) to(0.0) hire(0.0) people(0.0) to(0.0) build(0.0) things(0.0) in(0.0) America(0.0) is(0.0) the(0.0) cost(0.0) of(0.0) regulations(1.0) .(0.0) This(0.0) bill(0.0) 
+,(0.0) the(0.0) Paperwork(0.0) and(0.0) Regulatory(0.0) Improvements(1.0) Act(0.0) ,(0.0) helps(0.0) make(0.0) good(0.0) on(0.0) the(0.0) promise(0.0) that(0.0) Congress(0.0) is(0.0) giving(0.0) to(0.0) the(0.0) 
+American(0.0) people(0.0) that(0.0) we(0.0) are(0.0) going(0.0) to(0.0) reduce(1.0) the(0.0) cost(0.0) of(0.0) regulations(1.0) .(0.0) Getting(0.0) the(0.0) essential(1.0) information(0.0) on(0.0) how(0.0) the(0.0) 
+costs(0.0) and(0.0) benefits(1.0) accumulate(0.0) on(0.0) our(0.0) regulations(1.0) is(0.0) a(0.0) critical(1.0) component(0.0) to(0.0) our(0.0) agenda(0.0) to(0.0) reduce(1.0) the(0.0) cost(0.0) that(0.0) our(0.0) 
+government(1.0) imposes(1.0) on(0.0) businesses(1.0) so(0.0) they(0.0) can(0.0) be(0.0) more(0.0) competitive(0.0) in(0.0) the(0.0) global(0.0) marketplace(1.0) so(0.0) that(0.0) we(0.0) can(0.0) keep(1.0) jobs(1.0) 
+in(0.0) America(0.0) .(0.0) This(0.0) is(0.0) about(0.0) jobs(1.0) .(0.0) It(0.0) is(0.0) about(0.0) common(0.0) sense(0.0) .(0.0) I(1.0) urge(1.0) adoption(1.0) of(0.0) this(0.0) bill(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+also	
+Ose	leadership	tribute	
+Mr.	Chairman	
+how	jobs	overseas	One	
+businesses	really	struggling	
+marketplace	One	ways	jobs	overseas	
+business	regulations	
+Improvements	
+reduce	regulations	essential	
+benefits	regulations	critical	reduce	
+government	imposes	businesses	marketplace	keep	jobs	
+jobs	I	urge	adoption	
+
+
+reads % = 0.15702479338842976

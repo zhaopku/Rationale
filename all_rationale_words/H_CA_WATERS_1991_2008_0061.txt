@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+The(0.0) Acting(0.0) CHAIRMAN(1.0) .(0.0) The(0.0) gentlewoman(0.0) from(0.0) California(0.0) is(0.0) recognized(0.0) for(0.0) 5(0.0) minutes(1.0) .(0.0) Although(0.0) I(0.0) rise(1.0) to(0.0) claim(1.0) time(0.0) in(0.0) 
+opposition(1.0) ,(0.0) I(0.0) am(0.0) not(1.0) opposed(1.0) to(0.0) the(0.0) amendment(1.0) .(0.0) I(0.0) think(1.0) the(0.0) ranking(1.0) member(0.0) of(0.0) the(0.0) Housing(1.0) and(0.0) Community(0.0) 
+Opportunity(1.0) Subcommittee(0.0) has(0.0) made(0.0) a(0.0) sound(0.0) addition(0.0) to(0.0) the(0.0) bill(0.0) here(0.0) .(0.0) While(1.0) ,(0.0) as(0.0) I(0.0) mentioned(0.0) in(0.0) my(0.0) opening(1.0) 
+statement(0.0) ,(0.0) we(0.0) did(0.0) not(1.0) want(1.0) HUD(1.0) to(0.0) get(0.0) bogged(1.0) down(1.0) in(0.0) processing(1.0) 1,200(1.0) different(1.0) plans(1.0) from(0.0) all(0.0) the(0.0) entitlement(1.0) 
+jurisdictions(0.0) in(0.0) the(0.0) HOME(1.0) and(0.0) CDBG(1.0) programs(1.0) ,(0.0) there(0.0) is(0.0) no(0.0) question(1.0) that(0.0) the(0.0) expertise(0.0) at(0.0) HUD(1.0) to(0.0) administer(0.0) this(0.0) 
+bill(0.0) 's(0.0) loan(0.0) and(0.0) rent(0.0) program(0.0) lies(0.0) in(0.0) the(0.0) Community(1.0) Planning(0.0) and(0.0) Development(0.0) division(0.0) of(0.0) the(0.0) agency(1.0) .(0.0) So(1.0) I(0.0) 
+urge(1.0) my(0.0) colleagues(1.0) to(0.0) support(0.0) Mrs.(1.0) Capito(1.0) 's(0.0) amendment(1.0) to(0.0) ensure(0.0) that(0.0) we(0.0) don't(1.0) create(0.0) an(0.0) unnecessary(1.0) new(1.0) bureaucracy(1.0) if(0.0) 
+H.R(0.0) .(0.0) 5818(1.0) is(0.0) passed(0.0) into(0.0) law(1.0) .(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(1.0) .(0.0) The(0.0) Acting(0.0) CHAIRMAN(1.0) 
+.(0.0) The(0.0) question(0.0) is(0.0) on(0.0) the(0.0) amendment(1.0) offered(0.0) by(0.0) the(0.0) gentlewoman(0.0) from(0.0) West(0.0) Virginia(1.0) ((0.0) Mrs.(1.0) Capito(1.0) )(0.0) .(1.0) The(0.0) 
+question(1.0) was(0.0) taken(0.0) ;(0.0) and(0.0) the(0.0) Acting(1.0) Chairman(1.0) announced(1.0) that(0.0) the(0.0) ayes(1.0) appeared(0.0) to(0.0) have(0.0) it(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+CHAIRMAN	minutes	rise	claim	
+opposition	not	opposed	amendment	think	ranking	Housing	
+Opportunity	While	opening	
+not	want	HUD	bogged	down	processing	1,200	different	plans	entitlement	
+HOME	CDBG	programs	question	HUD	
+Community	agency	So	
+urge	colleagues	Mrs.	Capito	amendment	don't	unnecessary	new	bureaucracy	
+5818	law	time	CHAIRMAN	
+amendment	Virginia	Mrs.	Capito	.	
+question	Acting	Chairman	announced	ayes	
+
+reads % = 0.2777777777777778

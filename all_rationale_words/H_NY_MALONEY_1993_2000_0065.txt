@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) the(0.0) gag(1.0) rule(1.0) has(0.0) created(0.0) a(0.0) policy(0.0) that(0.0) increases(1.0) the(0.0) number(0.0) of(0.0) abortions(1.0) and(0.0) it(0.0) also(0.0) threatens(1.0) the(0.0) lives(0.0) 
+of(0.0) many(0.0) young(0.0) women(1.0) .(0.0) Last(0.0) year(0.0) ,(0.0) this(0.0) body(0.0) added(0.0) in(0.0) law(1.0) an(0.0) international(0.0) family(0.0) planning(0.0) gag(1.0) rule(1.0) for(0.0) 
+other(0.0) countries(0.0) that(0.0) is(0.0) unconstitutional(1.0) in(0.0) America(1.0) .(0.0) What(0.0) happened(0.0) ?(0.0) Thousands(0.0) of(0.0) young(0.0) women(1.0) were(0.0) denied(0.0) the(0.0) information(0.0) they(0.0) 
+needed(0.0) to(0.0) plan(1.0) or(0.0) postpone(0.0) their(0.0) pregnancies(1.0) ,(0.0) so(0.0) thousands(0.0) of(0.0) 13-year-(0.0) old(0.0) girls(1.0) ,(0.0) 14-year-old(1.0) girls(0.0) and(0.0) 15-year-old(0.0) girls(1.0) 
+got(0.0) unsafe(0.0) and(0.0) often(0.0) fatal(0.0) abortions(1.0) .(0.0) These(0.0) abortions(1.0) could(0.0) have(0.0) been(0.0) prevented(0.0) .(0.0) No(0.0) U.S.(0.0) funds(1.0) are(0.0) used(0.0) for(0.0) 
+abortions(1.0) .(0.0) International(0.0) family(0.0) planning(0.0) saves(0.0) women(1.0) 's(0.0) lives(0.0) so(0.0) we(0.0) should(0.0) all(0.0) support(0.0) on(0.0) both(0.0) sides(0.0) of(0.0) the(0.0) aisle(0.0) 
+an(0.0) effort(1.0) to(0.0) strike(1.0) the(0.0) gag(1.0) rule(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+gag	rule	increases	abortions	threatens	
+women	law	gag	rule	
+unconstitutional	America	women	
+plan	pregnancies	girls	14-year-old	girls	
+abortions	abortions	funds	
+abortions	women	
+effort	strike	gag	rule	
+
+reads % = 0.20155038759689922

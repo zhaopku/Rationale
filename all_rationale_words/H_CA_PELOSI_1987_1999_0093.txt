@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) am(0.0) pleased(0.0) to(0.0) yield(0.0) 1(0.0) minute(0.0) to(0.0) the(0.0) very(0.0) distinguished(0.0) gentlewoman(0.0) from(0.0) New(0.0) York(1.0) ((0.0) Mrs.(0.0) Lowey(1.0) )(0.0) 
+,(0.0) a(0.0) member(0.0) of(0.0) the(0.0) Subcommittee(0.0) on(0.0) Foreign(0.0) Operations(0.0) ,(0.0) Export(0.0) Financing(0.0) ,(0.0) and(0.0) Related(0.0) Programs(0.0) .(0.0) ((0.0) Mrs.(0.0) LOWEY(1.0) 
+asked(0.0) and(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) her(0.0) remarks(0.0) .(0.0) )(0.0) 
+
+
+----- below are rationale words -----
+
+York	Lowey	
+LOWEY	
+
+
+reads % = 0.05555555555555555

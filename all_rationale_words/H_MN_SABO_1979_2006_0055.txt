@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) was(0.0) sitting(0.0) here(0.0) waiting(0.0) for(0.0) time(0.0) to(0.0) expire(1.0) so(0.0) I(0.0) could(0.0) cast(0.0) a(0.0) vote(0.0) ,(0.0) and(0.0) I(0.0) heard(0.0) 
+the(0.0) motion(1.0) made(0.0) by(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) York(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+expire	
+motion	York	
+
+reads % = 0.0967741935483871

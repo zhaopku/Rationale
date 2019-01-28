@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) if(0.0) we(0.0) are(0.0) truly(0.0) interested(0.0) in(0.0) juvenile(1.0) justice(1.0) reform(1.0) ,(0.0) we(0.0) must(0.0) begin(0.0) by(0.0) rejecting(1.0) the(0.0) amendments(1.0) that(0.0) 
+have(0.0) been(0.0) stuck(0.0) on(0.0) to(0.0) the(0.0) very(0.0) fine(0.0) principles(1.0) contained(0.0) in(0.0) H.R(0.0) .(0.0) 1501(0.0) ,(0.0) a(0.0) bipartisan(1.0) bill(1.0) that(1.0) came(0.0) 
+out(0.0) of(0.0) the(0.0) Subcommittee(0.0) on(0.0) Crime(0.0) ,(0.0) and(0.0) I(0.0) remind(0.0) the(0.0) gentleman(0.0) ,(0.0) the(0.0) chairman(0.0) of(0.0) the(0.0) committee(0.0) ,(0.0) and(0.0) 
+I(0.0) praise(0.0) this(0.0) bill(1.0) ,(0.0) this(0.0) is(0.0) a(0.0) measure(0.0) that(0.0) has(0.0) been(0.0) very(0.0) carefully(0.0) vetted(0.0) ,(0.0) but(0.0) all(0.0) of(0.0) the(0.0) 
+other(0.0) amendments(1.0) that(0.0) have(0.0) been(0.0) approved(0.0) ,(0.0) some(0.0) 44(0.0) ,(0.0) have(0.0) never(0.0) been(0.0) in(0.0) the(0.0) Committee(0.0) on(0.0) the(0.0) Judiciary(0.0) .(0.0) 
+In(0.0) other(0.0) words(0.0) ,(0.0) the(0.0) Committee(0.0) on(0.0) Rules(0.0) has(0.0) become(0.0) the(0.0) original(0.0) committee(0.0) of(0.0) jurisdiction(0.0) for(0.0) a(0.0) juvenile(0.0) justice(0.0) bill(0.0) 
+,(0.0) and(0.0) for(0.0) that(0.0) reason(0.0) those(0.0) amendments(1.0) must(0.0) be(0.0) rejected(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	juvenile	justice	reform	rejecting	amendments	
+principles	bipartisan	bill	that	
+
+bill	
+amendments	
+
+amendments	rejected	
+
+reads % = 0.10606060606060606

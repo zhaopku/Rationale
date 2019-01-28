@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Platts(1.0) for(1.0) his(0.0) leadership(1.0) on(0.0) this(0.0) bill(1.0) ,(0.0) and(0.0) I(0.0) thank(0.0) Buck(1.0) MCKeon(0.0) ,(0.0) the(0.0) ranking(0.0) Republican(0.0) who(1.0) leads(1.0) this(0.0) committee(0.0) 
+for(0.0) his(0.0) party(0.0) .(0.0) I(0.0) want(0.0) to(0.0) say(0.0) this(0.0) is(0.0) a(0.0) perfect(0.0) example(0.0) of(0.0) when(0.0) we(0.0) can(0.0) work(0.0) in(0.0) a(0.0) 
+bipartisan(1.0) way(0.0) ,(0.0) we(0.0) do(0.0) work(0.0) in(0.0) a(0.0) bipartisan(1.0) way(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) in(0.0) my(0.0) view(0.0) what(0.0) has(0.0) angered(1.0) 
+so(0.0) many(0.0) people(0.0) about(0.0) this(0.0) recession(1.0) is(0.0) the(0.0) perception(0.0) that(0.0) its(0.0) causes(0.0) are(0.0) not(0.0) simply(0.0) material(0.0) ,(0.0) not(0.0) simply(0.0) financial(1.0) 
+,(0.0) but(0.0) in(0.0) many(0.0) ways(0.0) moral(1.0) .(0.0) Ask(0.0) most(0.0) Americans(1.0) what(0.0) got(0.0) us(0.0) to(0.0) this(0.0) point(0.0) ,(0.0) and(0.0) I(0.0) doubt(0.0) 
+the(0.0) first(0.0) words(0.0) they(0.0) will(0.0) reach(0.0) for(0.0) will(0.0) be(0.0) ``(0.0) credit(0.0) default(0.0) swaps(0.0) ''(0.0) or(0.0) ``(0.0) troubled(0.0) assets(0.0) ''(0.0) or(0.0) 
+``(0.0) overleveraging(0.0) .(0.0) ''(0.0) They(0.0) will(0.0) turn(0.0) ,(0.0) I(0.0) think(0.0) ,(0.0) to(0.0) older(0.0) ideas(0.0) --(0.0) greed(1.0) ,(0.0) recklessness(1.0) ,(0.0) self-dealing(1.0) 
+and(0.0) profit-taking(1.0) .(0.0) In(0.0) sum(0.0) ,(0.0) they(0.0) will(0.0) think(0.0) there(0.0) is(0.0) a(0.0) moral(0.0) deficiency(0.0) .(0.0) It(0.0) follows(0.0) that(0.0) our(0.0) economy(1.0) 
+and(0.0) our(0.0) recovery(1.0) will(0.0) not(0.0) be(0.0) whole(0.0) if(0.0) it(0.0) only(0.0) encompasses(0.0) renewed(0.0) balance(0.0) sheets(0.0) or(0.0) consumer(1.0) demand(1.0) .(0.0) What(0.0) is(0.0) 
+also(0.0) required(0.0) is(0.0) a(0.0) renewed(0.0) public(1.0) spirit(0.0) .(0.0) Government(1.0) can(0.0) not(0.0) create(0.0) that(0.0) spirit(0.0) .(0.0) We(0.0) would(0.0) be(0.0) fools(1.0) to(0.0) 
+think(0.0) it(0.0) could(0.0) .(0.0) But(0.0) it(0.0) can(0.0) recognize(0.0) it(0.0) ,(0.0) applaud(0.0) it(0.0) and(0.0) give(0.0) avenues(0.0) for(0.0) its(0.0) manifestation(0.0) .(0.0) We(0.0) 
+can(0.0) coordinate(0.0) it(0.0) and(0.0) give(0.0) it(0.0) productive(0.0) outlets(0.0) .(0.0) That(0.0) is(0.0) exactly(0.0) what(0.0) this(0.0) bill(1.0) does(1.0) .(0.0) I(0.0) want(0.0) to(0.0) 
+congratulate(0.0) the(0.0) President(1.0) of(0.0) the(0.0) United(0.0) States(0.0) ,(0.0) Barack(1.0) Obama(1.0) ,(0.0) for(0.0) his(0.0) leadership(0.0) ,(0.0) and(0.0) Michelle(1.0) Obama(1.0) for(0.0) working(0.0) 
+so(0.0) avidly(0.0) on(0.0) behalf(0.0) of(0.0) public(1.0) service(0.0) and(0.0) a(0.0) renewed(0.0) spirit(0.0) of(0.0) giving(0.0) to(0.0) our(0.0) country(1.0) .(0.0) Our(0.0) President(1.0) has(0.0) 
+not(0.0) just(0.0) talked(0.0) about(0.0) that(0.0) ,(0.0) he(0.0) has(0.0) lived(0.0) a(0.0) life(0.0) of(0.0) service(0.0) .(0.0) I(0.0) said(0.0) with(0.0) Chairman(0.0) Miller(1.0) at(0.0) 
+a(0.0) press(0.0) conference(0.0) just(0.0) a(0.0) few(0.0) hours(0.0) ago(0.0) that(0.0) Barack(1.0) Obama(1.0) graduated(0.0) from(0.0) one(0.0) of(0.0) the(0.0) best(0.0) law(1.0) schools(1.0) in(0.0) 
+this(0.0) country(1.0) .(0.0) He(0.0) was(0.0) editor(0.0) of(0.0) the(0.0) Law(0.0) Review(0.0) .(0.0) He(0.0) had(0.0) one(0.0) of(0.0) the(0.0) keenest(0.0) minds(0.0) in(0.0) his(0.0) 
+class(0.0) ,(0.0) indeed(0.0) in(0.0) the(0.0) country(1.0) .(0.0) He(0.0) could(0.0) have(0.0) made(0.0) literally(0.0) millions(1.0) of(0.0) dollars(1.0) practicing(0.0) law(1.0) representing(1.0) the(0.0) most(0.0) 
+powerful(0.0) interests(1.0) of(0.0) our(0.0) country(1.0) .(0.0) He(0.0) choose(0.0) not(0.0) to(0.0) do(0.0) that(0.0) .(0.0) He(0.0) went(0.0) to(0.0) Chicago(1.0) ,(0.0) his(0.0) hometown(0.0) 
+,(0.0) and(0.0) he(0.0) spent(0.0) his(0.0) time(0.0) reaching(0.0) out(0.0) to(0.0) those(0.0) who(0.0) needed(0.0) help(0.0) ,(0.0) those(0.0) who(0.0) did(0.0) n't(0.0) have(0.0) power(0.0) 
+and(0.0) those(0.0) who(0.0) did(0.0) not(0.0) have(0.0) economic(1.0) might(0.0) ,(0.0) to(0.0) assist(0.0) them(0.0) in(0.0) making(0.0) their(0.0) lives(0.0) better(0.0) and(0.0) their(0.0) communities(1.0) 
+better(0.0) .(0.0) That(0.0) is(0.0) what(0.0) this(0.0) bill(1.0) does(1.0) .(0.0) So(0.0) the(0.0) principal(0.0) spokesperson(0.0) for(0.0) this(0.0) bill(1.0) ,(0.0) President(0.0) Obama(1.0) ,(0.0) 
+has(0.0) lived(0.0) it(0.0) ,(0.0) not(0.0) just(0.0) talked(0.0) it(0.0) .(0.0) We(0.0) are(0.0) blessed(0.0) with(0.0) a(0.0) young(0.0) generation(0.0) remarkably(0.0) committed(1.0) to(0.0) public(1.0) 
+service(0.0) .(0.0) This(0.0) bill(1.0) gives(1.0) them(0.0) the(0.0) outlets(1.0) and(0.0) the(0.0) opportunities(0.0) to(0.0) contribute(0.0) to(0.0) our(0.0) recovery(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) 
+I(0.0) would(0.0) also(0.0) say(0.0) there(0.0) are(0.0) a(0.0) whole(0.0) lot(0.0) of(0.0) seniors(1.0) who(0.0) have(0.0) retired(0.0) from(0.0) their(0.0) careers(0.0) but(0.0) do(0.0) 
+
+
+----- below are rationale words -----
+
+for	leadership	bill	Buck	who	leads	
+
+bipartisan	bipartisan	Chairman	angered	
+recession	financial	
+moral	Americans	
+
+greed	recklessness	self-dealing	
+profit-taking	economy	
+recovery	consumer	demand	
+public	Government	fools	
+
+bill	does	
+President	Barack	Obama	Michelle	Obama	
+public	country	President	
+Miller	
+Barack	Obama	law	schools	
+country	
+country	millions	dollars	law	representing	
+interests	country	Chicago	
+
+economic	communities	
+bill	does	bill	Obama	
+committed	public	
+bill	gives	outlets	recovery	Chairman	
+seniors	
+
+reads % = 0.126

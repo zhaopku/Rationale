@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(1.0) ,(0.0) the(0.0) caring(1.0) majority(0.0) budget(0.0) of(0.0) the(0.0) congressional(1.0) black(1.0) caucus(1.0) and(0.0) the(0.0) House(0.0) progressive(1.0) caucus(1.0) is(0.0) concerned(0.0) about(0.0) the(0.0) jobs(1.0) 
+necessary(0.0) to(0.0) keep(1.0) our(0.0) economy(1.0) a(0.0) robust(0.0) economy(1.0) .(0.0) Our(0.0) priorities(1.0) are(0.0) clear(0.0) :(0.0) education(0.0) ,(1.0) job(1.0) training(0.0) and(0.0) job(1.0) 
+creation(0.0) .(0.0) And(0.0) in(0.0) the(0.0) budget(0.0) that(0.0) we(0.0) have(0.0) prepared(1.0) ,(0.0) which(0.0) is(0.0) a(0.0) balanced(1.0) budget(0.0) ,(0.0) we(0.0) provide(0.0) for(0.0) 
+jobs(1.0) ,(0.0) education(1.0) and(0.0) job(1.0) training(0.0) .(0.0) The(0.0) budget(0.0) boldly(1.0) sets(0.0) forth(1.0) investments(1.0) in(0.0) the(0.0) activities(0.0) which(0.0) will(0.0) keep(1.0) our(0.0) 
+nation(1.0) prosperous(1.0) at(0.0) home(0.0) and(0.0) competitive(0.0) in(0.0) the(0.0) global(0.0) arena(0.0) .(0.0) And(0.0) we(1.0) do(0.0) this(0.0) by(0.0) providing(0.0) ,(0.0) first(0.0) of(0.0) 
+all(0.0) ,(0.0) a(0.0) tax(1.0) cut(1.0) for(0.0) hard-working(1.0) Americans(0.0) .(0.0) Our(0.0) tax(1.0) cut(1.0) does(1.0) go(0.0) to(0.0) all(0.0) families(0.0) .(0.0) It(0.0) does(0.0) 
+not(1.0) favor(1.0) the(0.0) rich(0.0) and(0.0) the(0.0) privileged(0.0) .(0.0) We(0.0) invest(1.0) more(0.0) than(0.0) $(0.0) 27(0.0) billion(1.0) also(1.0) over(0.0) a(0.0) 7-year(1.0) period(0.0) 
+in(0.0) education(1.0) and(0.0) job(1.0) training(0.0) by(0.0) increasing(0.0) function(0.0) 500(0.0) by(0.0) 25(0.0) percent(1.0) .(0.0) We(0.0) protect(0.0) major(0.0) job(1.0) creating(0.0) functions(1.0) .(0.0) 
+Other(0.0) functions(1.0) such(0.0) as(0.0) transportation(1.0) ,(0.0) public(1.0) works(0.0) ,(0.0) commerce(1.0) and(0.0) health(1.0) care(0.0) are(0.0) protected(0.0) despite(0.0) the(0.0) pressure(0.0) to(0.0) make(0.0) 
+huge(0.0) cuts(1.0) .(0.0) We(0.0) ensure(0.0) that(0.0) current(0.0) services(0.0) are(0.0) continued(0.0) for(0.0) both(0.0) Medicaid(1.0) and(0.0) Medicare(1.0) .(0.0) Medicaid(1.0) and(0.0) Medicare(1.0) are(0.0) 
+fully(0.0) maintained(0.0) .(0.0) We(0.0) supported(1.0) the(0.0) President(1.0) 's(0.0) position(0.0) that(0.0) Medicare(1.0) and(0.0) Medicaid(1.0) should(0.0) not(1.0) be(0.0) touched(0.0) until(0.0) we(0.0) have(0.0) 
+a(0.0) comprehensive(1.0) health(1.0) reform(0.0) program(0.0) .(0.0) We(0.0) oppose(1.0) all(0.0) of(0.0) the(0.0) attempts(1.0) to(0.0) erode(1.0) Social(0.0) Security(1.0) ,(0.0) including(1.0) the(0.0) extensions(0.0) 
+which(0.0) will(0.0) continue(0.0) the(0.0) COLA(1.0) and(0.0) have(0.0) no(0.0) cuts(1.0) in(0.0) the(0.0) COLA(1.0) .(0.0) We(0.0) advocate(1.0) a(0.0) more(0.0) sane(1.0) defense(1.0) budget(0.0) 
+,(0.0) a(0.0) defense(1.0) budget(0.0) which(0.0) offers(1.0) a(0.0) peace(0.0) dividend(0.0) to(0.0) the(0.0) taxpayers(1.0) .(0.0) These(0.0) taxpayers(1.0) have(0.0) diligently(1.0) supported(1.0) the(0.0) burden(0.0) 
+of(0.0) massive(0.0) modern(0.0) military(1.0) costs(0.0) for(0.0) years(0.0) and(0.0) years(0.0) .(0.0) Now(0.0) we(0.0) have(0.0) no(1.0) more(0.0) Evil(0.0) Empire(1.0) .(0.0) The(0.0) Soviet(1.0) 
+Union(1.0) is(0.0) gone(0.0) .(0.0) Why(1.0) do(0.0) we(0.0) have(0.0) to(0.0) continue(0.0) to(0.0) shoulder(0.0) a(0.0) massive(0.0) military(1.0) burden(0.0) ?(1.0) So(0.0) our(0.0) biggest(1.0) 
+cut(1.0) is(0.0) in(0.0) the(0.0) area(1.0) of(0.0) defense(1.0) .(0.0) Our(0.0) biggest(1.0) cut(1.0) is(0.0) where(0.0) the(0.0) money(0.0) is(0.0) .(0.0) We(0.0) maintain(0.0) that(0.0) 
+although(1.0) defense(1.0) industries(1.0) do(0.0) create(0.0) jobs(1.0) ,(0.0) study(1.0) after(0.0) study(1.0) has(0.0) shown(0.0) that(0.0) you(1.0) can(0.0) create(0.0) two(0.0) jobs(1.0) for(0.0) every(0.0) 
+defense(1.0) job(0.0) that(0.0) is(0.0) created(0.0) .(0.0) With(1.0) the(0.0) dollars(0.0) you(0.0) spend(1.0) ,(0.0) you(1.0) can(0.0) create(0.0) two(0.0) nondefense(1.0) jobs(1.0) .(0.0) So(1.0) 
+if(0.0) you(1.0) wanted(0.0) to(0.0) create(0.0) jobs(1.0) ,(0.0) you(1.0) can(0.0) create(0.0) many(0.0) more(0.0) by(0.0) spending(1.0) them(0.0) in(0.0) other(0.0) places(1.0) ,(0.0) including(1.0) 
+,(0.0) by(0.0) the(0.0) way(1.0) ,(0.0) health(1.0) care(0.0) .(0.0) Health(1.0) care(0.0) provides(0.0) an(0.0) enormous(0.0) amount(0.0) of(0.0) jobs(1.0) although(0.0) the(0.0) business(1.0) of(0.0) 
+health(1.0) care(0.0) is(0.0) not(1.0) to(0.0) provide(0.0) jobs(1.0) ;(0.0) it(0.0) is(0.0) to(0.0) take(0.0) care(0.0) of(0.0) people(0.0) ,(0.0) but(0.0) health(1.0) care(0.0) is(0.0) 
+a(0.0) labor(1.0) intensive(1.0) industry(1.0) and(0.0) it(0.0) does(0.0) provide(0.0) jobs(1.0) .(0.0) In(0.0) order(1.0) for(0.0) us(0.0) to(0.0) accomplish(0.0) all(0.0) of(0.0) this(0.0) and(0.0) 
+still(0.0) have(0.0) a(0.0) balanced(1.0) budget(0.0) and(0.0) have(0.0) a(0.0) balanced(1.0) budget(0.0) with(0.0) minimum(1.0) pain(0.0) on(0.0) families(0.0) and(0.0) individuals(0.0) ,(0.0) we(0.0) have(0.0) 
+focused(0.0) on(0.0) the(0.0) closing(1.0) of(0.0) corporate(1.0) tax(1.0) loopholes(1.0) .(0.0) We(0.0) have(0.0) attempted(0.0) to(0.0) end(0.0) the(0.0) lopsided(1.0) tax(1.0) burden(1.0) which(0.0) 
+
+
+----- below are rationale words -----
+
+caring	congressional	black	caucus	progressive	caucus	jobs	
+keep	economy	economy	priorities	,	job	job	
+prepared	balanced	
+jobs	education	job	boldly	forth	investments	keep	
+nation	prosperous	we	
+tax	cut	hard-working	tax	cut	does	
+not	favor	invest	billion	also	7-year	
+education	job	percent	job	functions	
+functions	transportation	public	commerce	health	
+cuts	Medicaid	Medicare	Medicaid	Medicare	
+supported	President	Medicare	Medicaid	not	
+comprehensive	health	oppose	attempts	erode	Security	including	
+COLA	cuts	COLA	advocate	sane	defense	
+defense	offers	taxpayers	taxpayers	diligently	supported	
+military	no	Empire	Soviet	
+Union	Why	military	?	biggest	
+cut	area	defense	biggest	cut	
+although	defense	industries	jobs	study	study	you	jobs	
+defense	With	spend	you	nondefense	jobs	So	
+you	jobs	you	spending	places	including	
+way	health	Health	jobs	business	
+health	not	jobs	health	
+labor	intensive	industry	jobs	order	
+balanced	balanced	minimum	
+closing	corporate	tax	loopholes	lopsided	tax	burden	
+
+reads % = 0.272

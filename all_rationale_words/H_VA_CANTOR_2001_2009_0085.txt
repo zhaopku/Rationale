@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) would(0.0) like(0.0) to(0.0) ask(0.0) the(0.0) gentleman(0.0) in(0.0) reference(0.0) to(0.0) the(0.0) budget(1.0) that(0.0) will(0.0) be(0.0) considered(0.0) next(0.0) week(0.0) ,(0.0) that(0.0) we(0.0) 
+now(0.0) have(0.0) a(0.0) text(0.0) of(0.0) the(0.0) bill(1.0) out(0.0) of(0.0) committee(0.0) ,(0.0) and(0.0) the(0.0) fact(0.0) that(0.0) really(0.0) some(0.0) of(0.0) the(0.0) implications(1.0) 
+of(0.0) that(0.0) bill(1.0) still(0.0) remain(0.0) very(0.0) unclear(0.0) .(0.0) Specifically(0.0) ,(0.0) I(0.0) would(0.0) like(0.0) to(0.0) ask(0.0) about(0.0) the(0.0) cap-and-tax(1.0) scheme(0.0) that(0.0) 
+seems(0.0) to(0.0) be(0.0) continuing(0.0) to(0.0) circulate(0.0) in(0.0) the(0.0) discussions(0.0) in(0.0) committee(0.0) as(0.0) well(0.0) as(0.0) publicly(0.0) in(0.0) the(0.0) press(0.0) ,(0.0) and(0.0) 
+whether(0.0) the(0.0) reconciliation(1.0) instructions(0.0) in(0.0) the(0.0) bill(1.0) that(0.0) came(0.0) out(0.0) of(0.0) the(0.0) Budget(1.0) Committee(0.0) refers(0.0) to(0.0) that(0.0) ,(0.0) and(0.0) whether(0.0) 
+we(0.0) are(0.0) going(0.0) to(0.0) be(0.0) considering(0.0) the(0.0) impact(0.0) of(0.0) that(0.0) scheme(1.0) on(0.0) the(0.0) working(0.0) families(0.0) of(0.0) this(0.0) country(1.0) ,(0.0) as(0.0) 
+they(0.0) are(0.0) having(0.0) a(0.0) difficult(0.0) time(0.0) as(0.0) it(0.0) is(0.0) ,(0.0) as(0.0) the(0.0) gentleman(0.0) knows(0.0) ,(0.0) in(0.0) his(0.0) area(0.0) ,(0.0) in(0.0) 
+particular(0.0) ,(0.0) as(0.0) it(0.0) is(0.0) hard-hit(1.0) as(0.0) the(0.0) center(0.0) of(0.0) the(0.0) financial(1.0) world(0.0) .(0.0) Are(0.0) our(0.0) families(1.0) going(0.0) to(0.0) have(0.0) 
+to(0.0) expect(0.0) that(0.0) somehow(0.0) the(0.0) reconciliation(1.0) tools(0.0) will(0.0) be(0.0) used(0.0) to(0.0) impose(1.0) a(0.0) national(1.0) energy(1.0) tax(1.0) that(0.0) some(0.0) have(0.0) estimated(0.0) 
+will(0.0) cost(1.0) the(0.0) average(0.0) family(0.0) $(0.0) 3,000(0.0) a(0.0) year(0.0) ?(0.0) I(0.0) yield(0.0) to(0.0) the(0.0) gentleman(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+budget	
+bill	implications	
+bill	cap-and-tax	
+
+reconciliation	bill	Budget	
+scheme	country	
+
+hard-hit	financial	families	
+reconciliation	impose	national	energy	tax	
+cost	
+
+reads % = 0.09644670050761421

@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) York(1.0) for(0.0) yielding(0.0) me(0.0) the(0.0) time(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) this(0.0) is(0.0) a(0.0) very(0.0) important(0.0) 
+day(0.0) for(0.0) U.S.(0.0) policy(1.0) in(0.0) Africa(1.0) .(0.0) Just(0.0) about(0.0) 1(0.0) year(0.0) ago(0.0) ,(0.0) on(0.0) May(0.0) 19(0.0) ,(0.0) my(0.0) friend(0.0) and(0.0) 
+colleague(0.0) from(0.0) California(0.0) and(0.0) the(0.0) champion(1.0) of(0.0) human(1.0) rights(1.0) ,(0.0) Congressman(1.0) Ed(1.0) Royce(1.0) ,(0.0) and(0.0) I(0.0) introduced(0.0) H.R(0.0) .(0.0) 2478(0.0) 
+,(0.0) the(0.0) Lord(0.0) 's(0.0) Resistance(0.0) Army(0.0) Disarmament(0.0) and(0.0) Northern(0.0) Recovery(0.0) Act(0.0) .(0.0) In(0.0) the(0.0) Senate(0.0) ,(0.0) Senators(0.0) Russ(1.0) Feingold(1.0) and(0.0) 
+Sam(0.0) Brownback(1.0) sponsored(1.0) the(0.0) same(0.0) bill(0.0) ,(0.0) S.(0.0) 1067(0.0) ,(0.0) which(0.0) is(0.0) the(0.0) bill(0.0) before(0.0) us(0.0) for(0.0) consideration(0.0) today(0.0) .(0.0) 
+Today(0.0) ,(0.0) H.R(0.0) .(0.0) 2478(0.0) has(0.0) 200(0.0) bipartisan(1.0) cosponsors(1.0) .(0.0) When(0.0) the(0.0) House(0.0) passes(0.0) S.(0.0) 1067(0.0) today(0.0) ,(0.0) it(0.0) will(0.0) 
+be(0.0) sent(0.0) directly(0.0) to(0.0) the(0.0) President(0.0) 's(0.0) desk(0.0) for(0.0) his(0.0) signature(0.0) ,(0.0) and(0.0) for(0.0) the(0.0) first(0.0) time(0.0) the(0.0) U.S.(0.0) will(0.0) 
+be(0.0) required(0.0) to(0.0) design(0.0) and(0.0) implement(0.0) a(0.0) comprehensive(0.0) strategy(0.0) with(0.0) our(0.0) multilateral(1.0) and(0.0) regional(1.0) partners(0.0) to(0.0) address(0.0) the(0.0) violence(1.0) of(0.0) 
+the(0.0) LRA(1.0) ;(0.0) protect(0.0) the(0.0) victims(1.0) of(0.0) LRA(1.0) violence(1.0) in(0.0) Uganda(1.0) ,(0.0) the(0.0) Democratic(1.0) Republic(1.0) of(0.0) Congo(1.0) ,(0.0) southern(0.0) Sudan(1.0) 
+,(0.0) and(0.0) the(0.0) Central(0.0) African(0.0) Republic(0.0) ;(0.0) strengthen(0.0) state(0.0) presence(0.0) and(0.0) capacity(0.0) in(0.0) these(0.0) regions(0.0) to(0.0) the(0.0) benefit(0.0) of(0.0) the(0.0) 
+vulnerable(0.0) civilian(0.0) populations(0.0) ;(0.0) and(0.0) advance(0.0) the(0.0) recovery(0.0) of(0.0) northern(0.0) Uganda(0.0) from(0.0) decades(0.0) of(0.0) violence(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) a(0.0) 
+great(0.0) deal(0.0) has(0.0) happened(0.0) across(0.0) the(0.0) country(1.0) to(0.0) ensure(0.0) that(0.0) this(0.0) bill(1.0) is(0.0) before(0.0) the(0.0) House(0.0) Chamber(1.0) today(0.0) in(0.0) scarcely(0.0) 
+1(0.0) year(0.0) .(0.0) I(0.0) want(0.0) to(0.0) especially(0.0) recognize(0.0) and(0.0) thank(0.0) the(0.0) national(1.0) networks(0.0) ,(0.0) organizations(1.0) ,(0.0) and(0.0) grassroots(1.0) activists(1.0) of(0.0) 
+Invisible(1.0) Children(0.0) ,(0.0) Resolve(0.0) Uganda(1.0) ,(0.0) the(0.0) ENOUGH(1.0) !(0.0) Project(0.0) ,(0.0) and(0.0) many(0.0) other(0.0) religious(1.0) and(0.0) human(0.0) rights(1.0) groups(0.0) who(0.0) 
+have(0.0) rallied(0.0) in(0.0) support(0.0) of(0.0) the(0.0) people(0.0) and(0.0) especially(0.0) the(0.0) children(0.0) of(0.0) this(0.0) region(0.0) of(0.0) Africa(1.0) .(0.0) These(0.0) Americans(1.0) ,(0.0) 
+thousands(0.0) of(0.0) them(0.0) high(0.0) school(1.0) and(0.0) college(1.0) students(0.0) ,(0.0) understood(0.0) that(0.0) the(0.0) children(0.0) and(0.0) people(0.0) of(0.0) northern(0.0) Uganda(1.0) ,(0.0) the(0.0) 
+DRC(1.0) ,(0.0) the(0.0) southern(0.0) Sudan(0.0) ,(0.0) and(0.0) the(0.0) CAR(0.0) have(0.0) no(0.0) voice(0.0) in(0.0) Washington(1.0) .(0.0) So(0.0) they(0.0) were(0.0) determined(0.0) to(0.0) 
+become(0.0) their(0.0) voice(0.0) .(0.0) They(0.0) realized(0.0) that(0.0) these(0.0) African(1.0) children(0.0) and(0.0) families(0.0) were(0.0) invisible(0.0) to(0.0) Washington(1.0) policymakers(1.0) .(0.0) So(0.0) they(0.0) 
+decided(0.0) to(0.0) make(0.0) them(0.0) visible(0.0) .(0.0) They(0.0) realized(0.0) there(0.0) is(0.0) too(0.0) much(0.0) suffering(0.0) ,(0.0) too(0.0) much(0.0) pain(0.0) ,(0.0) too(0.0) much(0.0) 
+destruction(1.0) ,(0.0) too(0.0) much(0.0) killing(1.0) in(0.0) this(0.0) region(0.0) of(0.0) Africa(1.0) ,(0.0) so(0.0) many(0.0) thousands(0.0) of(0.0) miles(0.0) away(0.0) ,(0.0) and(0.0) that(0.0) 
+there(0.0) was(0.0) just(0.0) too(0.0) much(0.0) silence(0.0) here(0.0) in(0.0) Washington(1.0) .(0.0) So(0.0) they(0.0) built(0.0) a(0.0) grassroots(1.0) national(0.0) movement(1.0) of(0.0) hope(0.0) for(0.0) 
+peace(1.0) ,(0.0) for(0.0) justice(1.0) ,(0.0) for(0.0) reconciliation(1.0) ,(0.0) for(0.0) reconstruction(1.0) ,(0.0) for(0.0) the(0.0) recovery(1.0) of(0.0) the(0.0) human(0.0) spirit(0.0) .(0.0) They(0.0) 
+believe(0.0) that(0.0) the(0.0) people(0.0) of(0.0) northern(0.0) Uganda(0.0) ,(0.0) the(0.0) children(0.0) of(0.0) Uganda(1.0) ,(0.0) the(0.0) DRC(1.0) ,(0.0) Southern(1.0) Sudan(1.0) ,(0.0) and(0.0) 
+the(0.0) CAR(0.0) ,(0.0) have(0.0) a(0.0) right(0.0) to(0.0) protection(0.0) and(0.0) to(0.0) have(0.0) a(0.0) voice(0.0) in(0.0) their(0.0) own(0.0) destiny(0.0) .(0.0) So(0.0) today(0.0) 
+is(0.0) a(0.0) good(0.0) day(0.0) ,(0.0) a(0.0) very(0.0) good(0.0) day(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) because(0.0) today(0.0) these(0.0) hundreds(0.0) of(0.0) thousands(1.0) 
+
+
+----- below are rationale words -----
+
+York	Speaker	
+policy	Africa	
+champion	human	rights	Congressman	Ed	Royce	
+Russ	Feingold	
+Brownback	sponsored	
+bipartisan	cosponsors	
+
+multilateral	regional	violence	
+LRA	victims	LRA	violence	Uganda	Democratic	Republic	Congo	Sudan	
+
+violence	Speaker	
+country	bill	Chamber	
+national	organizations	grassroots	activists	
+Invisible	Uganda	ENOUGH	religious	rights	
+Africa	Americans	
+school	college	Uganda	
+DRC	Washington	
+African	Washington	policymakers	
+
+destruction	killing	Africa	
+Washington	grassroots	movement	
+peace	justice	reconciliation	reconstruction	recovery	
+Uganda	DRC	Southern	Sudan	
+
+Speaker	thousands	
+
+reads % = 0.138

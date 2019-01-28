@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) missed(0.0) the(0.0) last(0.0) rollcall(0.0) vote(1.0) ,(0.0) rollcall(1.0) 316(1.0) ,(0.0) because(0.0) I(0.0) was(0.0) trapped(0.0) in(0.0) the(0.0) elevator(0.0) .(0.0) 
+Had(0.0) I(0.0) been(0.0) here(0.0) I(0.0) would(0.0) have(0.0) voted(0.0) ``(0.0) no(0.0) .(0.0) ''(0.0) 
+
+
+----- below are rationale words -----
+
+vote	rollcall	316	
+
+
+reads % = 0.09090909090909091

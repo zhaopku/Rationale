@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) was(0.0) unavoidably(0.0) absent(0.0) in(0.0) the(0.0) House(0.0) Chamber(1.0) for(0.0) votes(0.0) today(0.0) ,(0.0) Friday(0.0) ,(0.0) September(0.0) 20(0.0) due(0.0) to(0.0) a(0.0) 
+family(0.0) emergency(0.0) .(0.0) Had(0.0) I(0.0) been(0.0) present(0.0) ,(0.0) I(0.0) would(0.0) have(0.0) voted(0.0) ``(0.0) yes(0.0) ''(0.0) on(0.0) rollcall(0.0) vote(1.0) 477(0.0) ,(0.0) 
+``(0.0) no(0.0) ''(0.0) on(0.0) rollcall(0.0) vote(1.0) 479(0.0) ,(0.0) ``(0.0) no(0.0) ''(0.0) on(0.0) rollcall(0.0) vote(1.0) 480(0.0) ,(0.0) ``(0.0) no(0.0) ''(0.0) on(0.0) 
+rollcall(0.0) vote(1.0) 481(0.0) ,(0.0) ``(0.0) yes(0.0) ''(0.0) on(0.0) rollcall(0.0) vote(1.0) 482(0.0) ,(0.0) and(0.0) ``(0.0) no(0.0) ''(0.0) on(0.0) rollcall(0.0) vote(1.0) 483(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+Chamber	
+vote	
+vote	vote	
+vote	vote	vote	
+
+
+reads % = 0.08536585365853659

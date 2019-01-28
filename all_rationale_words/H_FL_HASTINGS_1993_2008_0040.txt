@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) table(0.0) the(0.0) motion(1.0) to(0.0) reconsider(1.0) .(0.0) The(0.0) SPEAKER(0.0) pro(0.0) tempore(0.0) ((1.0) Ms.(1.0) DeGette(1.0) )(0.0) .(0.0) 
+The(0.0) question(0.0) is(0.0) on(0.0) the(0.0) motion(0.0) to(0.0) table(0.0) .(0.0) The(0.0) question(0.0) was(0.0) taken(0.0) ;(0.0) and(0.0) the(0.0) Speaker(0.0) pro(0.0) tempore(0.0) announced(1.0) 
+that(0.0) the(0.0) ayes(1.0) appeared(0.0) to(0.0) have(0.0) it(0.0) .(0.0) Recorded(0.0) Vote(0.0) 
+
+
+----- below are rationale words -----
+
+motion	reconsider	(	Ms.	DeGette	
+announced	
+ayes	
+
+reads % = 0.13725490196078433

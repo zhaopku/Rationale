@@ -1,0 +1,38 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) for(0.0) yielding(0.0) me(0.0) this(0.0) time(0.0) .(0.0) Contrary(0.0) to(0.0) what(0.0) many(0.0) people(0.0) may(0.0) believe(0.0) ,(0.0) this(0.0) 
+happens(0.0) on(0.0) occasion(0.0) in(0.0) our(0.0) democracy(1.0) where(0.0) we(0.0) come(0.0) to(0.0) an(0.0) impasse(1.0) .(0.0) I(0.0) think(0.0) 7(0.0) ,(0.0) 8(0.0) ,(0.0) 9(0.0) 
+,(0.0) 10(0.0) times(0.0) since(0.0) 1980(1.0) we(0.0) have(0.0) had(0.0) debates(0.0) about(0.0) where(0.0) to(0.0) take(0.0) the(0.0) country(1.0) .(0.0) We(0.0) have(0.0) had(0.0) to(0.0) 
+go(0.0) past(0.0) the(0.0) end(0.0) of(0.0) the(0.0) fiscal(1.0) year(0.0) .(0.0) This(0.0) is(0.0) probably(0.0) the(0.0) greatest(0.0) debate(1.0) I(0.0) will(0.0) ever(0.0) engage(0.0) in(0.0) 
+as(0.0) a(0.0) Member(0.0) of(0.0) Congress(0.0) because(0.0) the(0.0) single(0.0) issue(0.0) is(0.0) this(0.0) :(0.0) Is(0.0) it(0.0) not(0.0) about(0.0) time(0.0) ,(0.0) American(0.0) people(0.0) 
+,(0.0) both(0.0) Houses(0.0) of(0.0) Congress(0.0) and(0.0) the(0.0) President(1.0) joined(0.0) together(0.0) and(0.0) commit(0.0) to(0.0) the(0.0) principle(1.0) of(0.0) balancing(0.0) the(0.0) budget(1.0) within(0.0) 
+7(0.0) years(0.0) ,(0.0) which(0.0) is(0.0) not(0.0) too(0.0) hard(0.0) ,(0.0) which(0.0) needs(0.0) to(0.0) be(0.0) done(0.0) ?(0.0) Let(0.0) me(0.0) tell(0.0) you(0.0) why(0.0) 
+it(0.0) needs(0.0) to(0.0) be(0.0) done(0.0) :(0.0) We(0.0) spent(0.0) more(0.0) money(1.0) this(0.0) year(0.0) in(0.0) interest(0.0) payments(1.0) than(0.0) the(0.0) entire(0.0) Department(0.0) of(0.0) 
+Defense(0.0) budget(1.0) .(0.0) If(0.0) we(0.0) do(0.0) not(0.0) change(0.0) our(0.0) spending(1.0) ways(0.0) ,(0.0) in(0.0) 17(0.0) years(0.0) the(0.0) entitlement(1.0) portion(0.0) of(0.0) the(0.0) 
+budget(1.0) and(0.0) the(0.0) interest(0.0) portion(0.0) of(0.0) the(0.0) budget(1.0) will(0.0) consume(0.0) the(0.0) entire(0.0) revenue(1.0) stream(0.0) .(0.0) If(0.0) we(0.0) do(0.0) not(0.0) do(0.0) 
+it(0.0) now(0.0) ,(0.0) when(0.0) are(0.0) we(0.0) going(0.0) to(0.0) do(0.0) it(0.0) ?(0.0) Let(0.0) some(0.0) objective(0.0) group(0.0) ,(0.0) not(0.0) Republicans(0.0) or(0.0) Democrats(0.0) 
+,(0.0) look(0.0) at(0.0) the(0.0) numbers(0.0) .(0.0) This(0.0) can(0.0) end(0.0) in(0.0) 30(0.0) seconds(0.0) ,(0.0) not(0.0) just(0.0) for(0.0) veterans(1.0) and(0.0) Social(0.0) Security(0.0) 
+applicants(0.0) but(0.0) for(0.0) the(0.0) whole(0.0) Nation(1.0) .(0.0) Let(0.0) us(0.0) end(0.0) it(0.0) right(0.0) .(0.0) Let(0.0) us(0.0) give(0.0) the(0.0) American(0.0) people(0.0) the(0.0) 
+best(0.0) Christmas(0.0) present(0.0) they(0.0) could(0.0) ever(0.0) have(0.0) ,(0.0) and(0.0) that(0.0) is(0.0) Congress(0.0) and(0.0) the(0.0) President(1.0) agree(0.0) to(0.0) get(0.0) the(0.0) Nation(1.0) 
+'s(0.0) financial(0.0) house(0.0) in(0.0) order(0.0) .(0.0) Now(0.0) is(0.0) the(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+democracy	impasse	
+1980	country	
+fiscal	debate	
+
+President	principle	budget	
+
+money	payments	
+budget	spending	entitlement	
+budget	budget	revenue	
+
+veterans	
+Nation	
+President	Nation	
+
+
+reads % = 0.07191780821917808

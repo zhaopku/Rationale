@@ -1,0 +1,24 @@
+This is from a Republican
+----- below is the original text -----
+Following(0.0) up(0.0) on(0.0) that(0.0) ,(0.0) I(0.0) think(0.0) the(0.0) gentleman's(0.0) experience(0.0) is(0.0) indicative(0.0) of(0.0) what(0.0) has(0.0) transpired(0.0) nationally(1.0) ,(0.0) because(0.0) the(0.0) gentleman(0.0) 
+from(0.0) North(0.0) Carolina(0.0) has(0.0) the(0.0) great(0.0) name(0.0) ,(0.0) Walter(0.0) Jones(1.0) .(0.0) He(0.0) has(0.0) worked(0.0) very(0.0) ,(0.0) very(0.0) hard(0.0) ,(0.0) and(0.0) 
+he(0.0) had(0.0) a(0.0) gentleman(0.0) precede(0.0) him(0.0) in(0.0) this(0.0) body(0.0) of(0.0) another(0.0) persuasion(0.0) and(0.0) another(0.0) party(0.0) ,(0.0) and(0.0) I(0.0) think(0.0) it(0.0) 
+is(0.0) very(0.0) ,(0.0) very(0.0) interesting(0.0) to(0.0) see(0.0) the(0.0) change(0.0) that(0.0) has(0.0) come(0.0) about(0.0) with(0.0) our(0.0) friends(0.0) on(0.0) the(0.0) other(0.0) side(0.0) 
+of(0.0) the(0.0) aisle(0.0) with(0.0) many(0.0) folks(0.0) joining(0.0) the(0.0) Republican(1.0) Party(1.0) ,(1.0) as(1.0) was(1.0) your(1.0) personal(1.0) experience(0.0) .(0.0) I(0.0) also(0.0) know(0.0) 
+the(0.0) gentleman(0.0) from(0.0) North(0.0) Carolina(0.0) ,(0.0) you(0.0) have(0.0) been(0.0) working(0.0) very(0.0) hard(0.0) in(0.0) terms(0.0) of(0.0) keeping(0.0) our(0.0) promises(1.0) and(0.0) our(0.0) 
+commitments(1.0) to(0.0) the(0.0) men(0.0) and(0.0) women(0.0) in(0.0) uniform(1.0) and(0.0) certainly(0.0) the(0.0) Third(1.0) District(0.0) of(0.0) North(0.0) Carolina(0.0) that(0.0) is(0.0) very(0.0) important(0.0) 
+with(0.0) a(0.0) number(0.0) of(0.0) military(0.0) bases(0.0) .(0.0) Could(0.0) you(0.0) tell(0.0) us(0.0) about(0.0) the(0.0) actions(1.0) under(0.0) the(0.0) contracts(1.0) ?(0.0) 
+
+
+----- below are rationale words -----
+
+nationally	
+Jones	
+
+
+Republican	Party	,	as	was	your	personal	
+promises	
+commitments	uniform	Third	
+actions	contracts	
+
+reads % = 0.09433962264150944

@@ -1,0 +1,24 @@
+This is from a Republican
+----- below is the original text -----
+If(1.0) the(0.0) gentleman(0.0) will(0.0) continue(1.0) to(0.0) yield(0.0) ,(0.0) since(0.0) I(0.0) am(1.0) the(1.0) world(0.0) 's(0.0) greatest(0.0) expert(0.0) on(0.0) my(0.0) own(0.0) opinion(0.0) and(0.0) 
+my(0.0) own(0.0) perception(0.0) ,(0.0) I(0.0) think(1.0) it(0.0) is(0.0) a(0.0) terrible(0.0) mistake(1.0) to(0.0) enter(1.0) in(0.0) ,(0.0) when(0.0) Navy(1.0) upper(1.0) tier(1.0) ,(0.0) 
+I(0.0) think(1.0) the(0.0) best(0.0) theater(0.0) defense(1.0) system(0.0) that(0.0) the(0.0) Navy(1.0) is(0.0) developing(1.0) ,(0.0) is(0.0) possibly(0.0) going(0.0) to(0.0) be(0.0) constrained(1.0) under(0.0) 
+what(1.0) the(0.0) President(1.0) 's(0.0) negotiators(0.0) have(0.0) proposed(0.0) ,(0.0) I(0.0) think(1.0) it(0.0) is(0.0) a(0.0) mistake(1.0) to(0.0) impose(1.0) limitations(1.0) on(0.0) theater(0.0) defensive(1.0) 
+systems(1.0) when(0.0) we(0.0) have(0.0) a(0.0) rapidly(1.0) evolving(0.0) threat(0.0) coming(0.0) from(0.0) China(1.0) ,(0.0) from(0.0) North(0.0) Korea(0.0) ,(0.0) from(0.0) other(0.0) sources(1.0) .(0.0) 
+My(0.0) own(0.0) opinion(0.0) is(0.0) I(0.0) think(1.0) we(0.0) should(0.0) not(0.0) constrain(1.0) theater(0.0) defensive(1.0) systems(0.0) .(0.0) I(0.0) think(1.0) we(0.0) need(0.0) to(0.0) have(0.0) 
+our(0.0) intelligence(0.0) personnel(1.0) appear(0.0) before(1.0) us(0.0) .(0.0) I(0.0) think(1.0) we(0.0) need(0.0) to(0.0) see(0.0) if(0.0) Secretary(1.0) Perry(1.0) is(0.0) going(0.0) to(0.0) prevail(1.0) 
+,(0.0) and(0.0) if(0.0) General(1.0) Shalikashvili(1.0) is(0.0) going(0.0) to(0.0) prevail(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+continue	am	the	
+think	mistake	enter	Navy	upper	tier	
+think	defense	Navy	developing	constrained	
+what	President	think	mistake	impose	limitations	defensive	
+systems	rapidly	China	sources	
+think	constrain	defensive	think	
+personnel	before	think	Secretary	Perry	prevail	
+General	Shalikashvili	prevail	
+
+reads % = 0.25165562913907286

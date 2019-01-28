@@ -1,0 +1,26 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) rise(1.0) today(0.0) to(0.0) recognize(1.0) an(0.0) important(0.0) breakthrough(0.0) in(0.0) statistics(0.0) and(0.0) neuroscience(1.0) research(0.0) .(0.0) Neurological(1.0) conditions(0.0) are(0.0) caused(0.0) 
+by(0.0) the(0.0) brain(0.0) 's(0.0) communication(0.0) networks(1.0) ,(0.0) and(0.0) these(0.0) conditions(0.0) can(0.0) be(0.0) studied(0.0) at(0.0) a(0.0) systems(0.0) level(0.0) .(0.0) Functional(1.0) MRIs(1.0) 
+capture(0.0) 3-D(0.0) images(1.0) of(0.0) the(0.0) brain(0.0) over(0.0) time(0.0) ,(0.0) resulting(1.0) in(0.0) millions(1.0) of(0.0) measurements(1.0) per(1.0) subject(0.0) and(0.0) billions(1.0) of(0.0) possible(0.0) 
+connections(1.0) .(0.0) A(1.0) Rice(1.0) University(0.0) statistics(0.0) professor(1.0) ,(0.0) Genevera(1.0) Allen(1.0) ,(0.0) and(0.0) her(0.0) collaborators(1.0) recently(0.0) developed(0.0) statistical(0.0) methods(1.0) to(0.0) model(0.0) 
+how(0.0) each(0.0) individual(0.0) 's(0.0) brain(0.0) is(0.0) wired(0.0) and(0.0) then(0.0) applied(0.0) these(0.0) methods(1.0) to(0.0) synesthesia(1.0) ,(0.0) a(0.0) condition(0.0) in(0.0) which(0.0) individuals(0.0) 
+automatically(0.0) associate(1.0) specific(1.0) colors(0.0) with(0.0) numbers(0.0) and(0.0) letters(0.0) .(0.0) The(0.0) team(0.0) discovered(1.0) that(0.0) areas(1.0) of(0.0) the(0.0) brain(0.0) responsible(1.0) for(0.0) processing(0.0) 
+colors(0.0) are(0.0) functionally(0.0) connected(0.0) to(0.0) areas(0.0) that(0.0) process(1.0) letters(0.0) and(0.0) numbers(0.0) in(0.0) synesthetes(1.0) .(0.0) This(0.0) breakthrough(0.0) is(0.0) relevant(0.0) to(0.0) other(0.0) 
+neurological(1.0) diseases(0.0) ,(0.0) such(0.0) as(0.0) autism(0.0) and(0.0) Alzheimer(0.0) 's(0.0) ,(0.0) and(0.0) demonstrates(1.0) how(0.0) statistical(0.0) science(0.0) is(0.0) vital(1.0) to(0.0) neuroscience(1.0) research(0.0) 
+.(0.0) I(0.0) urge(1.0) my(0.0) colleagues(1.0) to(0.0) support(0.0) critical(1.0) science(0.0) funding(1.0) so(0.0) that(0.0) this(0.0) type(0.0) of(0.0) work(0.0) may(0.0) continue(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+rise	recognize	neuroscience	Neurological	
+networks	Functional	MRIs	
+images	resulting	millions	measurements	per	billions	
+connections	A	Rice	professor	Genevera	Allen	collaborators	methods	
+methods	synesthesia	
+associate	specific	discovered	areas	responsible	
+process	synesthetes	
+neurological	demonstrates	vital	neuroscience	
+urge	colleagues	critical	funding	continue	
+
+reads % = 0.21666666666666667

@@ -1,0 +1,48 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) strike(1.0) the(0.0) requisite(0.0) number(0.0) of(0.0) words(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) will(0.0) be(0.0) brief(0.0) and(0.0) probably(0.0) 
+will(0.0) not(0.0) use(0.0) all(0.0) my(0.0) time(0.0) .(0.0) I(0.0) want(0.0) to(0.0) keep(0.0) this(0.0) whole(0.0) thing(0.0) brought(0.0) back(0.0) into(0.0) perspective(0.0) a(0.0) little(0.0) 
+bit(0.0) .(0.0) I(0.0) have(0.0) been(0.0) sitting(0.0) listening(0.0) to(0.0) this(0.0) debate(1.0) for(0.0) the(0.0) last(0.0) couple(0.0) of(0.0) days(0.0) ,(0.0) talking(0.0) about(0.0) spending(1.0) 
+dollars(1.0) here(0.0) and(0.0) spending(1.0) dollars(1.0) here(0.0) and(0.0) spending(1.0) dollars(1.0) here(0.0) .(0.0) I(0.0) just(0.0) want(0.0) to(0.0) remind(0.0) everybody(0.0) in(0.0) this(0.0) place(0.0) 
+that(0.0) that(0.0) is(0.0) dollars(1.0) that(0.0) we(0.0) are(0.0) spending(1.0) coming(0.0) from(0.0) the(0.0) hard-working(1.0) families(0.0) out(0.0) there(0.0) in(0.0) America(1.0) .(0.0) The(0.0) institution(1.0) 
+we(0.0) are(0.0) in(0.0) is(0.0) going(0.0) to(0.0) collect(0.0) those(0.0) dollars(1.0) out(0.0) of(0.0) the(0.0) paychecks(1.0) of(0.0) hard-working(1.0) families(0.0) out(0.0) there(0.0) in(0.0) America(1.0) 
+in(0.0) order(0.0) that(0.0) they(0.0) can(0.0) spend(1.0) those(0.0) dollars(1.0) on(0.0) all(0.0) the(0.0) different(0.0) programs(1.0) .(0.0) For(0.0) all(0.0) of(0.0) my(0.0) colleagues(0.0) listening(0.0) 
+today(0.0) ,(0.0) I(0.0) want(0.0) them(0.0) all(0.0) to(0.0) remember(0.0) and(0.0) to(0.0) understand(0.0) that(0.0) there(0.0) are(0.0) a(0.0) lot(0.0) of(0.0) us(0.0) here(0.0) that(0.0) 
+have(0.0) not(0.0) forgotten(0.0) that(0.0) all(0.0) of(0.0) these(0.0) dollars(1.0) that(0.0) they(0.0) are(0.0) talking(0.0) about(0.0) spending(1.0) are(0.0) coming(0.0) from(0.0) hard-working(1.0) people(0.0) out(0.0) 
+in(0.0) America(1.0) .(0.0) We(0.0) are(0.0) very(0.0) concerned(0.0) when(0.0) we(0.0) see(0.0) a(0.0) spending(1.0) increase(1.0) in(0.0) a(0.0) particular(0.0) bill(1.0) of(0.0) $(0.0) 5.2(0.0) 
+billion(1.0) ,(0.0) or(0.0) 7(0.0) percent(0.0) ,(0.0) in(0.0) one(0.0) portion(0.0) of(0.0) the(0.0) budget(1.0) .(0.0) Many(0.0) of(0.0) us(0.0) out(0.0) here(0.0) are(0.0) concerned(0.0) 
+that(0.0) the(0.0) overall(0.0) spending(1.0) level(0.0) is(0.0) too(0.0) high(0.0) ,(0.0) but(0.0) that(0.0) is(0.0) what(0.0) was(0.0) agreed(0.0) to(0.0) in(0.0) the(0.0) budget(1.0) agreement(0.0) 
+,(0.0) and(0.0) that(0.0) is(0.0) what(0.0) has(0.0) brought(0.0) on(0.0) this(0.0) debate(1.0) about(0.0) which(0.0) programs(1.0) the(0.0) money(1.0) should(0.0) be(0.0) spent(0.0) on(0.0) .(0.0) 
+Mr.(0.0) Chairman(1.0) ,(0.0) for(0.0) my(0.0) colleagues(0.0) ,(0.0) I(0.0) would(0.0) like(0.0) them(0.0) all(0.0) to(0.0) know(0.0) many(0.0) of(0.0) us(0.0) are(0.0) very(0.0) ,(0.0) 
+very(0.0) concerned(0.0) ,(0.0) and(0.0) remember(0.0) through(0.0) all(0.0) of(0.0) these(0.0) debates(1.0) that(0.0) this(0.0) is(0.0) the(0.0) people(0.0) 's(0.0) money(1.0) that(0.0) we(0.0) are(0.0) 
+spending(1.0) ,(0.0) and(0.0) these(0.0) dollars(1.0) that(0.0) they(0.0) are(0.0) talking(0.0) about(0.0) spending(1.0) on(0.0) various(0.0) programs(1.0) are(0.0) coming(0.0) from(0.0) the(0.0) people(0.0) through(0.0) 
+their(0.0) hard-earned(1.0) work(0.0) that(0.0) are(0.0) collected(0.0) in(0.0) taxes(1.0) and(0.0) brought(0.0) out(0.0) here(0.0) to(0.0) Washington(1.0) ,(0.0) DC(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) 
+I(0.0) just(0.0) rise(0.0) because(0.0) we(0.0) have(0.0) been(0.0) going(0.0) on(0.0) in(0.0) these(0.0) debates(1.0) for(0.0) quite(0.0) some(0.0) time(0.0) ,(0.0) and(0.0) it(0.0) has(0.0) 
+all(0.0) been(0.0) about(0.0) what(0.0) we(0.0) are(0.0) going(0.0) to(0.0) spend(1.0) the(0.0) people(0.0) 's(0.0) money(1.0) on(0.0) .(0.0) We(0.0) have(0.0) not(0.0) forgotten(0.0) these(0.0) 
+are(0.0) tax(1.0) dollars(1.0) collected(0.0) from(0.0) the(0.0) people(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) support(0.0) the(0.0) amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+strike	Chairman	
+
+debate	spending	
+dollars	spending	dollars	spending	dollars	
+dollars	spending	hard-working	America	institution	
+dollars	paychecks	hard-working	America	
+spend	dollars	programs	
+
+dollars	spending	hard-working	
+America	spending	increase	bill	
+billion	budget	
+spending	budget	
+debate	programs	money	
+Chairman	
+debates	money	
+spending	dollars	spending	programs	
+hard-earned	taxes	Washington	DC	Chairman	
+debates	
+spend	money	
+tax	dollars	Chairman	amendment	
+
+reads % = 0.13602015113350127

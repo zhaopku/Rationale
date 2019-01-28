@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(1.0) the(0.0) distinguished(0.0) gentleman(0.0) from(0.0) Mississippi(1.0) for(0.0) yielding(0.0) me(0.0) this(1.0) time(0.0) .(0.0) J.J(1.0) .(0.0) Chestnut(0.0) ,(0.0) his(0.0) wife(1.0) 
+Wen(1.0) Ling(1.0) ,(0.0) and(0.0) his(0.0) children(0.0) ,(0.0) Joe(1.0) Janece(1.0) ,(0.0) Janet(0.0) ,(0.0) Karen(1.0) ,(0.0) William(0.0) ;(0.0) Chris(1.0) Eney(1.0) and(0.0) Vivian(1.0) 
+and(0.0) their(0.0) children(0.0) ;(0.0) Detective(0.0) John(1.0) Gibson(1.0) and(0.0) Evelyn(1.0) and(0.0) Kristen(0.0) ,(0.0) John(1.0) and(0.0) Daniel(1.0) ,(0.0) their(0.0) children(0.0) ,(0.0) this(0.0) 
+is(0.0) a(0.0) wrenching(1.0) day(0.0) for(0.0) them(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) we(0.0) have(0.0) gone(0.0) through(0.0) recently(0.0) another(0.0) weekend(0.0) of(0.0) personalizing(0.0) the(0.0) 
+loss(0.0) of(0.0) someone(0.0) that(0.0) most(1.0) of(0.0) us(0.0) did(0.0) not(1.0) know(0.0) personally(0.0) .(0.0) The(0.0) Nation(0.0) grieves(0.0) as(0.0) John(0.0) Fitzgerald(1.0) Kennedy(1.0) went(0.0) 
+down(1.0) in(0.0) an(0.0) unexpected(0.0) accident(1.0) on(0.0) the(0.0) way(1.0) to(0.0) a(0.0) wedding(0.0) .(0.0) In(0.0) many(0.0) respects(1.0) ,(0.0) J.J(1.0) .(0.0) Chestnut(0.0) and(0.0) 
+John(0.0) Gibson(1.0) were(0.0) the(0.0) same(1.0) .(0.0) They(0.0) got(1.0) up(0.0) ,(0.0) they(0.0) went(0.0) to(0.0) work(0.0) ,(0.0) and(0.0) they(0.0) did(0.0) not(1.0) return(1.0) 
+.(0.0) One(1.0) year(0.0) ago(1.0) this(0.0) Friday(0.0) ,(0.0) the(0.0) Capitol(1.0) Building(1.0) was(0.0) shaken(1.0) by(0.0) a(0.0) maniacal(1.0) and(0.0) senseless(1.0) shooting(0.0) spree(1.0) .(0.0) 
+This(0.0) day(0.0) reminds(1.0) us(0.0) once(1.0) again(0.0) that(0.0) the(0.0) risk(0.0) is(0.0) always(0.0) present(1.0) for(0.0) those(0.0) we(0.0) ask(0.0) to(0.0) defend(1.0) a(0.0) free(1.0) 
+society(0.0) .(0.0) The(0.0) vagaries(1.0) of(0.0) life(0.0) are(0.0) such(0.0) that(0.0) there(0.0) are(0.0) those(0.0) either(1.0) demented(1.0) or(0.0) angry(1.0) or(1.0) for(0.0) whatever(0.0) reasons(1.0) 
+that(0.0) take(0.0) unto(0.0) themselves(0.0) the(0.0) opportunity(0.0) to(0.0) commit(0.0) violence(1.0) .(0.0) And(0.0) someone(0.0) ,(0.0) too(1.0) often(0.0) many(0.0) persons(0.0) ,(0.0) pay(1.0) the(0.0) 
+price(0.0) .(0.0) We(0.0) lost(0.0) Officer(1.0) Jacob(0.0) J(0.0) .(0.0) Chestnut(0.0) and(0.0) Detective(0.0) John(1.0) Gibson(1.0) so(0.0) that(0.0) many(0.0) others(0.0) might(0.0) be(0.0) safe(1.0) 
+and(0.0) to(0.0) indicate(0.0) that(0.0) the(0.0) Capitol(1.0) of(0.0) the(0.0) United(0.0) States(0.0) ,(0.0) Freedom(1.0) 's(0.0) House(0.0) ,(0.0) if(0.0) you(1.0) will(0.0) ,(0.0) will(0.0) 
+not(1.0) only(0.0) be(0.0) accessible(1.0) but(0.0) also(1.0) protected(0.0) ,(0.0) so(1.0) that(0.0) the(0.0) citizens(1.0) in(0.0) our(0.0) gallery(1.0) ,(0.0) the(0.0) citizens(1.0) in(0.0) the(0.0) 
+Rotunda(1.0) ,(0.0) the(0.0) citizens(1.0) who(0.0) visit(0.0) seeking(0.0) their(0.0) constitutional(1.0) right(1.0) of(0.0) redress(1.0) to(0.0) petition(0.0) their(0.0) government(1.0) or(1.0) simply(0.0) to(0.0) see(0.0) 
+Freedom(1.0) 's(0.0) House(0.0) ,(0.0) a(0.0) beacon(1.0) ,(0.0) as(0.0) some(0.0) have(0.0) said(1.0) ,(0.0) for(0.0) all(0.0) the(0.0) world(0.0) .(0.0) This(0.0) past(0.0) May(0.0) 
+,(0.0) we(0.0) rededicated(1.0) the(0.0) Capitol(1.0) Police(1.0) Headquarters(0.0) in(0.0) honor(1.0) of(0.0) Officer(1.0) Chestnut(0.0) ,(0.0) Detective(0.0) Gibson(1.0) and(0.0) Officer(1.0) Christopher(0.0) Eney(1.0) ,(0.0) 
+who(0.0) was(0.0) the(0.0) first(0.0) Capitol(1.0) Police(1.0) Officer(1.0) killed(1.0) in(0.0) the(0.0) line(0.0) of(0.0) duty(1.0) .(0.0) This(0.0) resolution(0.0) complements(1.0) the(0.0) renaming(1.0) of(0.0) 
+the(0.0) headquarters(1.0) building(0.0) .(0.0) Henceforth(1.0) ,(0.0) every(0.0) tourist(1.0) ,(0.0) staffer(1.0) ,(0.0) Member(0.0) or(1.0) indeed(0.0) head(0.0) of(0.0) state(0.0) who(0.0) is(0.0) taken(0.0) 
+through(0.0) that(0.0) door(0.0) ,(0.0) the(0.0) Memorial(0.0) Door(0.0) ,(0.0) will(0.0) remember(0.0) the(0.0) public(0.0) service(0.0) of(0.0) these(0.0) men(0.0) and(0.0) the(0.0) ultimate(0.0) sacrifices(0.0) 
+that(0.0) each(0.0) of(0.0) them(0.0) made(0.0) .(0.0) While(1.0) this(0.0) resolution(0.0) renaming(1.0) the(0.0) Document(0.0) Door(0.0) specifically(1.0) honors(1.0) Officer(1.0) Chestnut(0.0) and(0.0) Detective(0.0) Gibson(1.0) 
+who(0.0) died(0.0) just(1.0) inside(1.0) the(0.0) door(0.0) or(1.0) a(0.0) few(0.0) feet(0.0) from(0.0) it(0.0) ,(0.0) the(0.0) Memorial(0.0) Door(0.0) is(0.0) in(0.0) fact(1.0) a(0.0) 
+tribute(1.0) to(0.0) all(0.0) of(0.0) the(0.0) men(0.0) and(0.0) women(0.0) of(0.0) law(1.0) enforcement(0.0) who(0.0) leave(1.0) their(0.0) homes(1.0) each(0.0) day(0.0) and(0.0) take(0.0) to(0.0) 
+their(0.0) duties(0.0) to(0.0) defend(1.0) America(0.0) 's(0.0) principles(1.0) ,(0.0) to(0.0) defend(1.0) Americans(0.0) ,(0.0) and(0.0) to(0.0) defend(1.0) a(0.0) civil(1.0) and(0.0) orderly(0.0) society(0.0) 
+under(0.0) law(1.0) .(0.0) Just(1.0) down(1.0) the(0.0) street(1.0) from(0.0) this(0.0) building(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) stands(0.0) the(0.0) Law(1.0) Enforcement(0.0) Officers(1.0) 
+
+
+----- below are rationale words -----
+
+thank	Mississippi	this	J.J	wife	
+Wen	Ling	Joe	Janece	Karen	Chris	Eney	Vivian	
+John	Gibson	Evelyn	John	Daniel	
+wrenching	Speaker	
+most	not	Fitzgerald	Kennedy	
+down	accident	way	respects	J.J	
+Gibson	same	got	not	return	
+One	ago	Capitol	Building	shaken	maniacal	senseless	spree	
+reminds	once	present	defend	free	
+vagaries	either	demented	angry	or	reasons	
+violence	too	pay	
+Officer	John	Gibson	safe	
+Capitol	Freedom	you	
+not	accessible	also	so	citizens	gallery	citizens	
+Rotunda	citizens	constitutional	right	redress	government	or	
+Freedom	beacon	said	
+rededicated	Capitol	Police	honor	Officer	Gibson	Officer	Eney	
+Capitol	Police	Officer	killed	duty	complements	renaming	
+headquarters	Henceforth	tourist	staffer	or	
+
+While	renaming	specifically	honors	Officer	Gibson	
+just	inside	or	fact	
+tribute	law	leave	homes	
+defend	principles	defend	defend	civil	
+law	Just	down	street	Speaker	Law	Officers	
+
+reads % = 0.252

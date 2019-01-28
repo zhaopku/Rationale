@@ -1,0 +1,24 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) a(0.0) new(0.0) report(0.0) by(0.0) the(0.0) Joint(0.0) Economic(0.0) Committee(0.0) shows(0.0) 1(0.0) million(0.0) more(0.0) children(0.0) a(0.0) year(0.0) may(0.0) need(0.0) public(1.0) 
+health(1.0) insurance(1.0) due(0.0) to(0.0) the(0.0) worsening(1.0) economic(1.0) conditions(0.0) ,(0.0) even(0.0) apart(0.0) from(0.0) the(0.0) growing(0.0) trend(0.0) in(0.0) coverage(1.0) in(0.0) our(0.0) Nation(1.0) 
+.(0.0) But(0.0) State(1.0) budgets(1.0) are(0.0) already(0.0) strained(0.0) by(0.0) the(0.0) weak(1.0) national(1.0) economy(1.0) and(0.0) the(0.0) growing(0.0) housing(1.0) crisis(1.0) .(0.0) This(0.0) is(0.0) 
+a(0.0) perfect(0.0) storm(0.0) that(0.0) can(0.0) be(0.0) avoided(0.0) ,(0.0) if(0.0) Congress(0.0) votes(1.0) today(0.0) to(0.0) override(1.0) the(0.0) President(0.0) 's(0.0) veto(1.0) of(0.0) legislation(0.0) 
+that(0.0) would(0.0) bring(0.0) health(1.0) care(1.0) to(0.0) 10(0.0) million(0.0) children(1.0) in(0.0) need(1.0) .(0.0) Over(0.0) the(0.0) next(0.0) 5(0.0) years(0.0) ,(0.0) our(0.0) bill(1.0) 
+would(1.0) preserve(1.0) coverage(1.0) for(0.0) more(0.0) than(0.0) 6(0.0) million(0.0) children(1.0) currently(0.0) covered(0.0) by(0.0) the(0.0) Children(0.0) 's(0.0) Health(1.0) Insurance(0.0) Program(0.0) and(0.0) extend(0.0) 
+coverage(1.0) to(0.0) nearly(0.0) 4(0.0) million(0.0) children(1.0) who(0.0) are(0.0) currently(0.0) uninsured(1.0) .(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) today(0.0) to(0.0) vote(1.0) to(0.0) override(1.0) 
+the(0.0) President(1.0) 's(0.0) veto(1.0) of(0.0) children(0.0) 's(0.0) health(1.0) insurance(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+public	
+health	insurance	worsening	economic	coverage	Nation	
+State	budgets	weak	national	economy	housing	crisis	
+votes	override	veto	
+health	care	children	need	bill	
+would	preserve	coverage	children	Health	
+coverage	children	uninsured	vote	override	
+President	veto	health	insurance	
+
+reads % = 0.23841059602649006

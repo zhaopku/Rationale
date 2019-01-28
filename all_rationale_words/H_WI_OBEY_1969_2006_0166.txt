@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentlewoman(0.0) for(0.0) yielding(0.0) me(0.0) this(0.0) time(0.0) .(0.0) I(0.0) would(0.0) simply(0.0) point(0.0) out(0.0) under(0.0) this(0.0) provision(1.0) ,(0.0) 
+when(0.0) the(0.0) defense(1.0) appropriations(1.0) bill(1.0) comes(1.0) back(0.0) from(0.0) the(0.0) Senate(0.0) ,(0.0) not(0.0) a(0.0) single(0.0) Senate(0.0) earmark(1.0) will(0.0) be(0.0) listed(0.0) ,(0.0) 
+and(0.0) in(0.0) the(0.0) future(0.0) only(0.0) House(0.0) earmarks(1.0) will(0.0) be(0.0) listed(0.0) .(0.0) The(0.0) Senate(0.0) earmarks(1.0) will(0.0) not(0.0) be(0.0) listed(0.0) .(0.0) I(0.0) 
+would(0.0) also(0.0) point(0.0) out(0.0) that(0.0) if(0.0) you(0.0) read(0.0) the(0.0) language(0.0) of(0.0) this(0.0) resolution(1.0) ,(0.0) it(0.0) makes(0.0) quite(0.0) clear(0.0) that(0.0) the(0.0) 
+tax(1.0) provisions(1.0) covered(0.0) by(0.0) this(0.0) bill(1.0) are(1.0) ,(0.0) in(0.0) fact(0.0) ,(0.0) fewer(0.0) than(0.0) under(0.0) existing(0.0) law(1.0) and(0.0) also(0.0) that(0.0) same(0.0) 
+fact(0.0) applies(0.0) to(0.0) trade(1.0) preferences(0.0) .(0.0) Trade(1.0) bills(1.0) are(0.0) hard(0.0) enough(0.0) to(0.0) pass(0.0) now(0.0) .(0.0) So(0.0) what(0.0) happens(0.0) is(0.0) they(0.0) 
+slip(0.0) in(0.0) all(0.0) kinds(0.0) of(0.0) special(0.0) deals(0.0) for(0.0) special(0.0) commodities(1.0) in(0.0) order(0.0) to(0.0) get(0.0) 218(0.0) votes(1.0) .(0.0) This(0.0) bill(1.0) will(1.0) 
+not(0.0) lay(0.0) a(0.0) glove(0.0) on(0.0) them(0.0) ,(0.0) and(0.0) for(0.0) that(0.0) matter(0.0) ,(0.0) it(0.0) will(0.0) not(0.0) lay(0.0) a(0.0) glove(0.0) on(0.0) a(0.0) 
+single(0.0) appropriations(1.0) earmark(1.0) .(0.0) It(0.0) does(0.0) n't(0.0) do(0.0) anything(0.0) to(0.0) any(0.0) earmark(1.0) in(0.0) the(0.0) House(0.0) or(0.0) the(0.0) Senate(0.0) .(0.0) This(0.0) 
+bill(1.0) is(1.0) a(0.0) fraud(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+provision	
+defense	appropriations	bill	comes	earmark	
+earmarks	earmarks	
+resolution	
+tax	provisions	bill	are	law	
+trade	Trade	bills	
+commodities	votes	bill	will	
+
+appropriations	earmark	earmark	
+bill	is	
+
+reads % = 0.13978494623655913

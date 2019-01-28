@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+Reclaiming(1.0) my(0.0) time(0.0) ,(0.0) I(0.0) simply(0.0) said(0.0) that(0.0) there(0.0) is(0.0) a(0.0) pattern(0.0) in(0.0) this(0.0) administration(1.0) and(0.0) with(0.0) my(0.0) friends(0.0) on(0.0) the(0.0) 
+other(0.0) side(0.0) that(0.0) they(0.0) oppose(1.0) that(0.0) .(0.0) I(0.0) 'll(0.0) let(0.0) others(0.0) draw(0.0) that(0.0) conclusion(0.0) .(0.0) I(0.0) will(0.0) be(0.0) glad(0.0) to(0.0) 
+yield(0.0) to(0.0) the(0.0) gentlelady(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+administration	
+oppose	
+
+
+reads % = 0.043478260869565216

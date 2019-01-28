@@ -1,0 +1,14 @@
+This is from a Republican
+----- below is the original text -----
+The(0.0) gentleman(0.0) just(0.0) had(0.0) time(0.0) and(0.0) spoke(0.0) his(0.0) words(0.0) .(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) very(0.0) much(0.0) .(0.0) At(0.0) this(0.0) time(0.0) ,(0.0) 
+I(0.0) yield(0.0) 5(0.0) minutes(0.0) to(0.0) the(0.0) gentlewoman(0.0) from(0.0) Grandfather(0.0) Community(0.0) ,(0.0) North(0.0) Carolina(0.0) ((0.0) Ms.(1.0) Foxx(1.0) )(0.0) ,(0.0) the(0.0) vice(0.0) 
+chairman(0.0) of(0.0) the(0.0) Rules(0.0) Committee(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+Ms.	Foxx	
+
+
+reads % = 0.0425531914893617

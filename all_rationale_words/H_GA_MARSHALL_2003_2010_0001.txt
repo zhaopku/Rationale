@@ -1,0 +1,56 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) move(0.0) to(0.0) suspend(0.0) the(0.0) rules(0.0) and(0.0) agree(0.0) to(0.0) the(0.0) resolution(1.0) ((0.0) H.(0.0) Res(1.0) .(0.0) 747(0.0) )(0.0) congratulating(0.0) 
+the(0.0) United(0.0) States(0.0) Military(0.0) Academy(0.0) at(0.0) West(0.0) Point(0.0) on(0.0) being(0.0) named(0.0) by(0.0) Forbes(0.0) magazine(0.0) as(0.0) America's(0.0) Best(0.0) College(0.0) for(0.0) 2009(0.0) 
+.(0.0) The(0.0) Clerk(0.0) read(0.0) the(0.0) title(0.0) of(0.0) the(0.0) resolution(0.0) .(0.0) The(0.0) text(0.0) of(0.0) the(0.0) resolution(0.0) is(0.0) as(0.0) follows(0.0) :(0.0) H.(0.0) 
+Res(0.0) .(0.0) 747(0.0) Whereas(0.0) Forbes(0.0) magazine(0.0) has(0.0) named(0.0) the(0.0) United(0.0) States(0.0) Military(0.0) Academy(0.0) at(0.0) West(0.0) Point(0.0) as(0.0) America(0.0) 's(0.0) Best(0.0) 
+College(0.0) for(0.0) 2009(0.0) ;(0.0) Whereas(0.0) U.S.(0.0) News(0.0) &(0.0) World(0.0) Report(0.0) has(0.0) named(0.0) West(0.0) Point(0.0) as(0.0) the(0.0) Best(0.0) Public(0.0) Liberal(0.0) Arts(0.0) 
+College(0.0) in(0.0) the(0.0) United(0.0) States(0.0) ;(0.0) Whereas(0.0) U.S.(0.0) News(0.0) &(0.0) World(0.0) Report(0.0) has(0.0) consistently(0.0) rated(0.0) West(0.0) Point(0.0) 's(0.0) undergraduate(0.0) engineering(0.0) 
+program(0.0) as(0.0) among(0.0) the(0.0) best(0.0) in(0.0) the(0.0) United(0.0) States(0.0) ;(0.0) Whereas(0.0) the(0.0) United(0.0) States(0.0) has(0.0) had(0.0) a(0.0) military(0.0) presence(0.0) at(0.0) 
+West(0.0) Point(0.0) since(0.0) the(0.0) Revolutionary(0.0) War(0.0) because(0.0) of(0.0) its(0.0) strategic(0.0) position(0.0) overlooking(0.0) the(0.0) Hudson(0.0) River(0.0) ;(0.0) Whereas(0.0) General(0.0) George(0.0) Washington(1.0) 
+selected(0.0) Thaddeus(0.0) Kosciuszko(1.0) to(0.0) design(0.0) West(0.0) Point(0.0) 's(0.0) fortifications(0.0) in(0.0) 1778(0.0) ;(0.0) Whereas(0.0) West(0.0) Point(0.0) is(0.0) the(0.0) oldest(0.0) continuously(0.0) occupied(0.0) 
+military(0.0) post(0.0) in(0.0) America(0.0) ;(0.0) Whereas(0.0) President(0.0) Thomas(0.0) Jefferson(1.0) established(0.0) the(0.0) United(0.0) States(0.0) Military(0.0) Academy(0.0) at(0.0) West(0.0) Point(0.0) in(0.0) 1802(0.0) 
+;(0.0) Whereas(0.0) West(0.0) Point(0.0) has(0.0) educated(0.0) many(0.0) of(0.0) the(0.0) United(0.0) States(0.0) Army(0.0) 's(0.0) commissioned(0.0) officers(0.0) ;(0.0) Whereas(0.0) West(0.0) Point(0.0) instructs(0.0) 
+4,400(0.0) cadets(0.0) per(0.0) year(0.0) in(0.0) academics(0.0) ,(0.0) military(0.0) tactics(0.0) ,(0.0) physical(0.0) fitness(0.0) ,(0.0) and(0.0) leadership(0.0) --(0.0) all(0.0) free(0.0) of(0.0) tuition(0.0) 
+;(0.0) Whereas(0.0) 1,000(0.0) cadets(0.0) graduate(0.0) each(0.0) year(0.0) and(0.0) are(0.0) commissioned(0.0) second(0.0) lieutenants(0.0) in(0.0) the(0.0) United(0.0) States(0.0) Army(0.0) ;(0.0) Whereas(0.0) 2(0.0) 
+Presidents(0.0) of(0.0) the(0.0) United(0.0) States(0.0) ,(0.0) 74(0.0) Congressional(0.0) Medal(1.0) of(0.0) Honor(0.0) recipients(0.0) ,(0.0) 88(0.0) Rhodes(0.0) Scholars(0.0) ,(0.0) 33(0.0) Marshall(0.0) Scholars(1.0) 
+,(0.0) and(0.0) 28(0.0) Truman(0.0) Scholars(0.0) have(0.0) graduated(0.0) from(0.0) West(0.0) Point(0.0) ;(0.0) Whereas(0.0) ,(0.0) in(0.0) addition(0.0) to(0.0) academics(0.0) and(0.0) military(0.0) training(0.0) 
+,(0.0) West(0.0) Point(0.0) offers(0.0) extracurricular(0.0) activities(0.0) that(0.0) include(0.0) 115(0.0) athletic(0.0) and(0.0) non-sport(0.0) clubs(0.0) and(0.0) the(0.0) Eisenhower(0.0) Hall(0.0) Theatre(0.0) ;(0.0) and(0.0) 
+Whereas(0.0) West(0.0) Point(0.0) offers(0.0) a(0.0) well-rounded(0.0) ,(0.0) highly(0.0) regarded(0.0) education(0.0) to(0.0) the(0.0) next(0.0) generation(0.0) of(0.0) the(0.0) Nation(0.0) 's(0.0) leaders(0.0) :(0.0) 
+Now(0.0) ,(0.0) therefore(0.0) ,(0.0) be(0.0) it(0.0) Resolved(0.0) ,(0.0) That(0.0) the(0.0) House(0.0) of(0.0) Representatives(0.0) --(0.0) ((0.0) 1(0.0) )(0.0) congratulates(0.0) the(0.0) United(0.0) 
+States(0.0) Military(0.0) Academy(0.0) at(0.0) West(0.0) Point(0.0) on(0.0) being(0.0) named(0.0) by(0.0) Forbes(0.0) magazine(0.0) as(0.0) America's(0.0) Best(0.0) College(0.0) for(0.0) 2009(0.0) ;(0.0) ((0.0) 
+2(0.0) )(0.0) supports(0.0) West(0.0) Point(0.0) 's(0.0) mission(0.0) ``(0.0) to(0.0) educate(0.0) ,(0.0) train(0.0) ,(0.0) and(0.0) inspire(0.0) the(0.0) Corps(0.0) of(0.0) Cadets(0.0) so(0.0) 
+that(0.0) each(0.0) graduate(0.0) is(0.0) a(0.0) commissioned(0.0) leader(0.0) of(0.0) character(0.0) committed(0.0) to(0.0) the(0.0) values(0.0) of(0.0) Duty(0.0) ,(0.0) Honor(0.0) ,(0.0) Country(0.0) and(0.0) 
+prepared(0.0) for(0.0) a(0.0) career(0.0) of(0.0) professional(0.0) excellence(0.0) and(0.0) service(0.0) to(0.0) the(0.0) Nation(0.0) as(0.0) an(0.0) officer(0.0) in(0.0) the(0.0) United(0.0) States(0.0) Army(0.0) 
+''(0.0) ;(0.0) and(0.0) ((0.0) 3(0.0) )(0.0) directs(0.0) the(0.0) Clerk(0.0) of(0.0) the(0.0) House(0.0) of(0.0) Representatives(0.0) to(0.0) transmit(0.0) a(0.0) copy(0.0) of(0.0) this(0.0) 
+resolution(0.0) for(0.0) appropriate(0.0) display(0.0) to(0.0) the(0.0) Superintendent(0.0) of(0.0) West(0.0) Point(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+resolution	Res	
+
+
+
+
+
+
+Washington	
+Kosciuszko	
+Jefferson	
+
+
+
+Medal	Scholars	
+
+
+
+
+
+
+
+
+
+
+
+reads % = 0.014830508474576272

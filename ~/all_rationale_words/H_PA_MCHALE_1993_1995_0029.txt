@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(1.0) ,(0.0) I(0.0) appreciate(1.0) the(0.0) kind(1.0) ,(0.0) if(0.0) belated(1.0) ,(0.0) comments(0.0) my(0.0) amendment(1.0) is(0.0) now(0.0) receiving(0.0) ,(0.0) and(0.0) in(0.0) the(0.0) event(1.0) 
+that(0.0) in(0.0) the(0.0) vote(1.0) on(0.0) the(0.0) Berman(1.0) amendment(1.0) ,(0.0) the(0.0) Berman(1.0) amendment(1.0) is(0.0) unsuccessful(1.0) ,(0.0) I(0.0) hope(0.0) those(0.0) kind(1.0) words(0.0) 
+of(0.0) praise(0.0) are(0.0) remembered(0.0) when(0.0) the(0.0) MCHale(1.0) amendment(1.0) on(0.0) its(0.0) merits(0.0) is(0.0) brought(0.0) to(0.0) a(0.0) vote(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+appreciate	kind	belated	amendment	event	
+vote	Berman	amendment	Berman	amendment	unsuccessful	kind	
+MCHale	amendment	vote	
+
+reads % = 0.25862068965517243

@@ -1,0 +1,22 @@
+This is from a Republican
+----- below is the original text -----
+And(0.0) it(0.0) is(0.0) a(0.0) wonderful(0.0) cleanser(0.0) ,(0.0) if(0.0) you(0.0) will(0.0) ,(0.0) to(0.0) a(0.0) process(0.0) that(0.0) ,(0.0) frankly(1.0) ,(0.0) has(0.0) lost(0.0) most(1.0) 
+credibility(0.0) among(0.0) the(0.0) people(0.0) of(0.0) America(0.0) .(0.0) You(1.0) see(0.0) ,(0.0) they(0.0) think(1.0) we(0.0) should(0.0) read(0.0) the(0.0) bills(0.0) ,(0.0) and(0.0) they(0.0) 
+think(1.0) we(0.0) ought(1.0) to(0.0) understand(0.0) them(0.0) .(0.0) Moreover(1.0) ,(0.0) they(0.0) now(0.0) ,(0.0) in(0.0) this(0.0) modern(0.0) age(1.0) of(0.0) Internet(0.0) communications(0.0) ,(0.0) 
+believe(1.0) we(0.0) should(0.0) post(0.0) them(0.0) on(0.0) the(0.0) Internet(0.0) so(0.0) that(0.0) they(0.0) ,(0.0) the(0.0) public(0.0) ,(0.0) the(0.0) taxpayers(1.0) ,(0.0) the(0.0) people(0.0) 
+writing(0.0) the(0.0) checks(0.0) to(0.0) pay(1.0) for(0.0) this(0.0) government(1.0) ,(0.0) can(1.0) have(0.0) an(0.0) understanding(0.0) of(0.0) what(0.0) is(0.0) in(0.0) there(0.0) .(0.0) So(1.0) 
+I(0.0) would(1.0) encourage(1.0) my(0.0) colleagues(1.0) to(0.0) vote(1.0) against(0.0) the(0.0) previous(0.0) question(0.0) and(0.0) to(0.0) allow(0.0) us(0.0) to(0.0) move(0.0) forward(0.0) on(0.0) reform(0.0) 
+and(0.0) transparency(1.0) in(0.0) this(0.0) House(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+frankly	most	
+You	think	
+think	ought	Moreover	age	
+believe	taxpayers	
+pay	government	can	So	
+would	encourage	colleagues	vote	
+transparency	
+
+reads % = 0.14960629921259844

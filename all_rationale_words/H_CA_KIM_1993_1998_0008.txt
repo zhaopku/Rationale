@@ -1,0 +1,22 @@
+This is from a Republican
+----- below is the original text -----
+The(0.0) Clerk(0.0) read(0.0) as(0.0) follows(0.0) :(0.0) Mr.(0.0) Kim(1.0) moves(1.0) to(0.0) strike(0.0) all(0.0) after(0.0) the(0.0) enacting(1.0) clause(1.0) of(0.0) the(0.0) Senate(0.0) bill(0.0) ,(0.0) 
+S.(0.0) 347(0.0) ,(0.0) and(0.0) insert(0.0) in(0.0) lieu(0.0) thereof(0.0) the(0.0) text(0.0) of(0.0) H.R(0.0) .(0.0) 613(0.0) ,(0.0) as(0.0) passed(0.0) the(0.0) House(0.0) .(0.0) 
+Motion(0.0) was(0.0) agreed(0.0) to(0.0) .(0.0) The(0.0) Senate(0.0) bill(0.0) was(0.0) ordered(0.0) to(0.0) be(0.0) read(0.0) a(0.0) third(0.0) time(0.0) ,(0.0) was(0.0) read(0.0) the(0.0) 
+third(0.0) time(0.0) ,(0.0) and(0.0) passed(0.0) .(0.0) The(0.0) title(0.0) of(0.0) the(0.0) Senate(0.0) bill(0.0) was(0.0) amended(0.0) so(0.0) as(0.0) to(0.0) read(0.0) :(0.0) ``(0.0) 
+A(0.0) bill(0.0) to(0.0) designate(0.0) the(0.0) Federal(0.0) building(0.0) located(0.0) at(0.0) 61(0.0) Forsyth(0.0) Street(0.0) SW.(0.0) ,(0.0) in(0.0) Atlanta(1.0) ,(0.0) Georgia(1.0) ,(0.0) as(0.0) 
+the(0.0) `(0.0) Sam(0.0) Nunn(0.0) Atlanta(1.0) Federal(0.0) Center(0.0) '(0.0) .(0.0) ''(0.0) A(0.0) motion(0.0) to(0.0) reconsider(0.0) was(0.0) laid(0.0) on(0.0) the(0.0) table(0.0) .(0.0) 
+A(0.0) similar(0.0) House(0.0) bill(0.0) ((1.0) H.R(0.0) .(0.0) 613(0.0) )(0.0) was(0.0) laid(0.0) on(0.0) the(0.0) table(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Kim	moves	enacting	clause	
+
+
+
+Atlanta	Georgia	
+Atlanta	
+(	
+
+reads % = 0.058823529411764705

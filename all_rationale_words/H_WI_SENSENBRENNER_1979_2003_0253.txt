@@ -1,0 +1,20 @@
+This is from a Republican
+----- below is the original text -----
+Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) wish(0.0) the(0.0) Democrats(1.0) would(0.0) get(0.0) their(0.0) facts(1.0) straight(0.0) before(0.0) they(0.0) come(0.0) to(0.0) the(0.0) floor(0.0) .(0.0) First(0.0) ,(0.0) 
+any(0.0) entity(1.0) ,(0.0) individual(0.0) or(0.0) corporate(0.0) ,(0.0) that(0.0) is(0.0) in(0.0) bankruptcy(1.0) is(0.0) in(0.0) Federal(1.0) court(1.0) and(0.0) all(0.0) claims(0.0) go(0.0) there(0.0) 
+:(0.0) Enron(1.0) ,(0.0) WorldCom(1.0) ,(0.0) anybody(0.0) else(0.0) that(0.0) is(0.0) in(0.0) bankruptcy(1.0) .(0.0) Secondly(0.0) ,(0.0) page(0.0) 16(0.0) of(0.0) the(0.0) bill(1.0) ,(0.0) 
+which(0.0) I(0.0) will(0.0) send(0.0) over(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Texas(0.0) ((0.0) Mr.(0.0) Sandlin(1.0) )(0.0) ,(0.0) provides(0.0) specific(0.0) exemptions(0.0) for(0.0) the(0.0) 
+removal(0.0) of(0.0) class(0.0) action(0.0) cases(0.0) to(0.0) Federal(0.0) court(0.0) for(0.0) all(0.0) the(0.0) types(0.0) of(0.0) corporate(0.0) wrongdoing(0.0) that(0.0) he(0.0) said(0.0) on(0.0) the(0.0) 
+floor(0.0) .(0.0) Read(0.0) the(0.0) bill(0.0) ,(0.0) be(0.0) accurate(0.0) in(0.0) your(0.0) arguments(1.0) ,(0.0) and(0.0) support(0.0) it(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	Democrats	facts	
+entity	bankruptcy	Federal	court	
+Enron	WorldCom	bankruptcy	bill	
+Sandlin	
+
+arguments	
+
+reads % = 0.1111111111111111

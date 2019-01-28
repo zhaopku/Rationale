@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) to(0.0) once(0.0) again(0.0) beg(0.0) my(0.0) Republican(0.0) colleagues(1.0) in(1.0) the(1.0) other(1.0) body(1.0) to(1.0) restore(1.0) the(1.0) unemployment(1.0) 
+insurance(1.0) program(1.0) .(1.0) Yesterday(1.0) ,(1.0) I(0.0) read(0.0) a(0.0) story(0.0) in(0.0) the(0.0) Washington(1.0) Post(1.0) that(0.0) noted(0.0) that(0.0) Montgomery(1.0) County(1.0) ,(0.0) Maryland(1.0) 
+,(0.0) one(0.0) of(0.0) the(0.0) five(0.0) richest(1.0) counties(1.0) in(0.0) the(0.0) United(0.0) States(0.0) ,(0.0) is(0.0) now(0.0) serving(0.0) 15,000(0.0) free(0.0) meals(0.0) a(0.0) day(0.0) 
+to(0.0) children(0.0) who(0.0) would(0.0) otherwise(0.0) go(0.0) hungry(0.0) .(0.0) This(0.0) is(0.0) an(0.0) increase(1.0) of(0.0) nearly(0.0) 15(0.0) percent(0.0) from(0.0) previous(0.0) summers(0.0) ,(0.0) 
+and(0.0) I(0.0) 'm(0.0) sure(0.0) that(0.0) most(0.0) of(0.0) these(0.0) children(0.0) come(0.0) from(0.0) families(0.0) who(0.0) have(0.0) lost(0.0) their(0.0) unemployment(1.0) and(0.0) have(0.0) no(0.0) 
+other(0.0) way(0.0) to(0.0) buy(0.0) food(1.0) for(0.0) their(0.0) families(0.0) .(0.0) Nationwide(0.0) ,(0.0) an(0.0) estimated(0.0) 16(0.0) million(0.0) children(1.0) will(0.0) go(0.0) hungry(1.0) this(0.0) 
+summer(0.0) .(0.0) I(0.0) 'm(0.0) not(0.0) sure(0.0) what(0.0) it(0.0) will(0.0) take(0.0) for(0.0) the(0.0) Republicans(1.0) to(1.0) wake(1.0) up(1.0) and(1.0) recognize(1.0) that(1.0) they(1.0) 
+'re(1.0) literally(1.0) starving(1.0) American(1.0) families(1.0) .(1.0) We(1.0) can(1.0) not(1.0) wait(0.0) one(0.0) second(0.0) longer(0.0) .(0.0) George(0.0) Bush(1.0) said(1.0) he(0.0) was(0.0) a(0.0) 
+compassionate(0.0) conservative(0.0) .(0.0) They(0.0) 've(0.0) simply(0.0) thrown(0.0) away(0.0) ,(0.0) Madam(0.0) Speaker(1.0) ,(0.0) the(0.0) word(0.0) ``(0.0) compassionate(0.0) .(0.0) ''(0.0) They(0.0) are(0.0) 
+just(0.0) conservative(0.0) .(0.0) They(0.0) will(0.0) not(0.0) take(0.0) care(0.0) of(0.0) working(0.0) people(0.0) in(0.0) this(0.0) country(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+colleagues	in	the	other	body	to	restore	the	unemployment	
+insurance	program	.	Yesterday	,	Washington	Post	Montgomery	County	Maryland	
+richest	counties	
+increase	
+unemployment	
+food	children	hungry	
+Republicans	to	wake	up	and	recognize	that	they	
+'re	literally	starving	American	families	.	We	can	not	Bush	said	
+Speaker	
+country	
+
+reads % = 0.23979591836734693

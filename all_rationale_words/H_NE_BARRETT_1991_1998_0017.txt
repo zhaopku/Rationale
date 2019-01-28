@@ -1,0 +1,22 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) yield(0.0) myself(0.0) such(0.0) time(0.0) as(0.0) I(0.0) may(0.0) consume(0.0) .(0.0) In(0.0) closing(0.0) on(0.0) this(0.0) side(0.0) ,(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) 
+I(0.0) simply(0.0) want(0.0) to(0.0) say(0.0) that(0.0) I(0.0) think(0.0) this(0.0) is(0.0) a(0.0) bill(0.0) that(0.0) does(0.0) some(0.0) good(0.0) things(0.0) .(0.0) For(0.0) me(0.0) 
+,(0.0) the(0.0) most(0.0) important(0.0) part(0.0) of(0.0) this(0.0) legislation(1.0) is(0.0) allowing(0.0) us(0.0) to(0.0) have(0.0) a(0.0) new(0.0) program(1.0) in(0.0) prisons(1.0) so(0.0) that(0.0) 
+we(0.0) can(0.0) treat(0.0) prisoners(1.0) before(0.0) they(0.0) get(0.0) out(0.0) on(0.0) the(0.0) streets(1.0) .(0.0) It(0.0) does(0.0) a(0.0) very(0.0) good(0.0) job(0.0) as(0.0) well(0.0) 
+in(0.0) creating(0.0) incentives(1.0) for(0.0) drug-free(1.0) workplaces(1.0) ,(0.0) and(0.0) I(0.0) think(0.0) it(0.0) is(0.0) extremely(0.0) important(0.0) for(0.0) us(0.0) to(0.0) authorize(1.0) the(0.0) media(0.0) 
+campaign(0.0) that(0.0) is(0.0) currently(0.0) going(0.0) on(0.0) .(0.0) For(0.0) those(0.0) reasons(0.0) ,(0.0) I(0.0) would(0.0) again(0.0) ask(0.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) this(0.0) 
+bill(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) yield(0.0) back(0.0) the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Chairman	
+
+legislation	program	prisons	
+prisoners	streets	
+incentives	drug-free	workplaces	authorize	
+
+bill	Chairman	
+
+reads % = 0.08888888888888889

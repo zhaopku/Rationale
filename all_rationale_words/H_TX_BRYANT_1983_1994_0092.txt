@@ -1,0 +1,58 @@
+This is from a Democrat
+----- below is the original text -----
+The(0.0) yeas(0.0) and(0.0) nays(0.0) were(0.0) ordered(0.0) .(0.0) The(0.0) vote(0.0) was(0.0) taken(0.0) by(0.0) electronic(0.0) device(0.0) ,(0.0) and(0.0) there(0.0) were(0.0) --(0.0) yeas(0.0) 315(0.0) 
+,(0.0) nays(0.0) 110(0.0) ,(0.0) not(0.0) voting(0.0) 9(0.0) ,(0.0) as(0.0) follows(0.0) :(0.0) [(0.0) Roll(0.0) No(0.0) .(0.0) 90(0.0) ](0.0) YEAS(0.0) --(0.0) 315(0.0) 
+Ackerman(1.0) Andrews(1.0) ((0.0) ME(0.0) )(0.0) Andrews(0.0) ((0.0) NJ(0.0) )(0.0) Andrews(0.0) ((0.0) TX(0.0) )(0.0) Archer(0.0) Bacchus(0.0) ((0.0) FL(0.0) )(0.0) Bachus(1.0) ((0.0) 
+AL(0.0) )(0.0) Baesler(1.0) Baker(1.0) ((0.0) CA(0.0) )(0.0) Barca(0.0) Barcia(1.0) Barlow(0.0) Barrett(1.0) ((0.0) WI(0.0) )(0.0) Bartlett(0.0) Becerra(1.0) Beilenson(1.0) Bereuter(1.0) Berman(1.0) Bevill(1.0) 
+Bilbray(1.0) Bilirakis(1.0) Bishop(1.0) Blackwell(1.0) Blute(1.0) Bonilla(1.0) Bonior(1.0) Borski(1.0) Boucher(1.0) Browder(1.0) Brown(1.0) ((0.0) CA(1.0) )(0.0) Brown(0.0) ((0.0) OH(0.0) )(0.0) Bryant(0.0) Buyer(0.0) 
+Byrne(0.0) Calvert(1.0) Camp(0.0) Canady(1.0) Cantwell(1.0) Carr(1.0) Castle(1.0) Chapman(1.0) Clayton(1.0) Clinger(1.0) Coleman(1.0) Collins(1.0) ((0.0) GA(1.0) )(0.0) Combest(1.0) Conyers(1.0) Coppersmith(1.0) Costello(1.0) Cox(1.0) 
+Coyne(1.0) Cramer(1.0) Crapo(1.0) Cunningham(1.0) Danner(1.0) Darden(1.0) de(1.0) la(1.0) Garza(1.0) Deal(1.0) DeFazio(1.0) DeLauro(1.0) Dellums(1.0) Derrick(1.0) Deutsch(1.0) Diaz-Balart(1.0) Dickey(1.0) Dicks(1.0) Dixon(1.0) Doolittle(1.0) 
+Dornan(1.0) Duncan(1.0) Dunn(1.0) Durbin(1.0) Edwards(1.0) ((0.0) CA(1.0) )(0.0) Ehlers(1.0) Engel(1.0) English(0.0) Eshoo(1.0) Evans(1.0) Everett(1.0) Farr(1.0) Fawell(1.0) Fazio(1.0) Fields(1.0) ((0.0) LA(1.0) 
+)(0.0) Filner(1.0) Fingerhut(1.0) Flake(1.0) Foglietta(1.0) Foley(1.0) Fowler(1.0) Frank(1.0) ((0.0) MA(1.0) )(0.0) Franks(1.0) ((0.0) CT(0.0) )(0.0) Franks(0.0) ((0.0) NJ(0.0) )(0.0) Frost(0.0) 
+Furse(1.0) Gejdenson(1.0) Gekas(1.0) Gephardt(1.0) Geren(1.0) Gibbons(1.0) Glickman(1.0) Gonzalez(1.0) Goodlatte(1.0) Gordon(1.0) Goss(1.0) Green(1.0) Greenwood(1.0) Gunderson(1.0) Gutierrez(1.0) Hall(1.0) ((0.0) OH(1.0) )(0.0) Hall(0.0) 
+((0.0) TX(0.0) )(0.0) Hamburg(0.0) Hamilton(0.0) Harman(1.0) Herger(1.0) Hinchey(1.0) Hoagland(1.0) Hochbrueckner(0.0) Hoekstra(1.0) Hoke(1.0) Holden(1.0) Horn(1.0) Hoyer(1.0) Huffington(1.0) Hughes(1.0) Hunter(1.0) Hutchinson(1.0) Hutto(1.0) 
+Hyde(1.0) Inglis(1.0) Inhofe(1.0) Inslee(1.0) Istook(1.0) Jacobs(1.0) Jefferson(1.0) Johnson(1.0) ((0.0) CT(1.0) )(0.0) Johnson(0.0) ((0.0) GA(0.0) )(0.0) Johnson(0.0) ((0.0) SD(0.0) )(0.0) Johnston(0.0) 
+Kanjorski(1.0) Kaptur(1.0) Kasich(1.0) Kennedy(1.0) Kennelly(1.0) Kildee(1.0) Kim(1.0) Kingston(1.0) Kleczka(1.0) Klein(1.0) Klink(1.0) Klug(1.0) Kolbe(1.0) Kreidler(1.0) Kyl(1.0) LaFalce(1.0) Lambert(1.0) Lancaster(1.0) Lantos(1.0) LaRocco(1.0) 
+Lazio(1.0) Leach(1.0) Lehman(1.0) Levin(1.0) Levy(1.0) Lewis(1.0) ((0.0) GA(1.0) )(0.0) Lightfoot(0.0) Linder(1.0) Lipinski(1.0) Long(1.0) Lowey(1.0) Machtley(0.0) Maloney(1.0) Mann(1.0) Manton(1.0) Manzullo(1.0) Margolies-Mezvinsky(0.0) 
+Markey(1.0) Martinez(1.0) Matsui(1.0) Mazzoli(1.0) MCCloskey(0.0) MCCrery(0.0) MCCurdy(0.0) MCDade(0.0) MCDermott(0.0) MCHale(0.0) MCHugh(0.0) MCInnis(0.0) MCKeon(0.0) MCKinney(0.0) MCNulty(0.0) Meehan(1.0) Menendez(1.0) Meyers(1.0) Miller(1.0) ((0.0) 
+CA(1.0) )(0.0) Miller(1.0) ((0.0) FL(0.0) )(0.0) Mineta(1.0) Minge(1.0) Mink(1.0) Moakley(1.0) Molinari(1.0) Mollohan(1.0) Montgomery(1.0) Morella(1.0) Murphy(1.0) Myers(1.0) Nadler(1.0) Neal(1.0) ((0.0) MA(1.0) 
+)(0.0) Neal(1.0) ((0.0) NC(0.0) )(0.0) Nussle(1.0) Oberstar(1.0) Obey(1.0) Olver(1.0) Ortiz(1.0) Owens(1.0) Pallone(1.0) Parker(1.0) Pastor(1.0) Payne(1.0) ((0.0) NJ(1.0) )(0.0) Payne(0.0) ((0.0) 
+VA(0.0) )(0.0) Pelosi(1.0) Penny(1.0) Peterson(1.0) ((0.0) FL(0.0) )(0.0) Peterson(0.0) ((0.0) MN(0.0) )(0.0) Petri(0.0) Pombo(1.0) Pomeroy(1.0) Portman(1.0) Poshard(1.0) Price(1.0) ((0.0) NC(1.0) 
+)(0.0) Pryce(1.0) ((0.0) OH(0.0) )(0.0) Quinn(0.0) Rahall(1.0) Ramstad(1.0) Reed(1.0) Regula(1.0) Reynolds(1.0) Richardson(1.0) Ridge(1.0) Roemer(1.0) Rogers(1.0) Rohrabacher(1.0) Ros-Lehtinen(1.0) Roth(1.0) Roukema(1.0) Rowland(1.0) 
+Roybal-Allard(1.0) Royce(1.0) Sabo(1.0) Sanders(1.0) Sangmeister(0.0) Santorum(1.0) Sarpalius(0.0) Sawyer(1.0) Saxton(1.0) Schenk(1.0) Schiff(1.0) Schroeder(1.0) Schumer(1.0) Sensenbrenner(1.0) Serrano(1.0) Sharp(1.0) Shaw(1.0) Shays(1.0) Shepherd(1.0) Skaggs(1.0) 
+Skelton(1.0) Slattery(1.0) Slaughter(1.0) Smith(1.0) ((0.0) IA(1.0) )(0.0) Smith(0.0) ((0.0) MI(0.0) )(0.0) Smith(0.0) ((0.0) NJ(1.0) )(0.0) Smith(0.0) ((0.0) TX(0.0) )(0.0) Snowe(1.0) 
+Spence(1.0) Spratt(1.0) Stark(1.0) Stearns(1.0) Stenholm(1.0) Strickland(1.0) Studds(1.0) Stupak(1.0) Swett(1.0) Synar(1.0) Talent(1.0) Taylor(1.0) ((0.0) MS(1.0) )(0.0) Tejeda(1.0) Thomas(0.0) ((0.0) CA(0.0) )(0.0) 
+Thomas(0.0) ((0.0) WY(0.0) )(0.0) Thornton(0.0) Thurman(1.0) Torkildsen(1.0) Torricelli(1.0) Unsoeld(1.0) Upton(1.0) Valentine(1.0) Velazquez(1.0) Vento(1.0) Visclosky(1.0) Volkmer(1.0) Vucanovich(0.0) Walsh(1.0) Waxman(1.0) Weldon(1.0) Wheat(1.0) 
+Williams(1.0) Wise(1.0) Wolf(1.0) Woolsey(1.0) Wyden(1.0) Wynn(1.0) Yates(1.0) Young(1.0) ((0.0) AK(1.0) )(0.0) Young(0.0) ((0.0) FL(0.0) )(0.0) Zeliff(0.0) Zimmer(1.0) NAYS(1.0) --(0.0) 110(1.0) 
+Abercrombie(1.0) Allard(1.0) Applegate(1.0) Armey(1.0) Baker(1.0) ((0.0) LA(1.0) )(0.0) Ballenger(1.0) Barrett(1.0) ((0.0) NE(0.0) )(0.0) Barton(0.0) Bateman(1.0) Bentley(1.0) Bliley(1.0) Boehlert(1.0) Boehner(1.0) 
+
+
+----- below are rationale words -----
+
+
+
+Ackerman	Andrews	Bachus	
+Baesler	Baker	Barcia	Barrett	Becerra	Beilenson	Bereuter	Berman	Bevill	
+Bilbray	Bilirakis	Bishop	Blackwell	Blute	Bonilla	Bonior	Borski	Boucher	Browder	Brown	CA	
+Calvert	Canady	Cantwell	Carr	Castle	Chapman	Clayton	Clinger	Coleman	Collins	GA	Combest	Conyers	Coppersmith	Costello	Cox	
+Coyne	Cramer	Crapo	Cunningham	Danner	Darden	de	la	Garza	Deal	DeFazio	DeLauro	Dellums	Derrick	Deutsch	Diaz-Balart	Dickey	Dicks	Dixon	Doolittle	
+Dornan	Duncan	Dunn	Durbin	Edwards	CA	Ehlers	Engel	Eshoo	Evans	Everett	Farr	Fawell	Fazio	Fields	LA	
+Filner	Fingerhut	Flake	Foglietta	Foley	Fowler	Frank	MA	Franks	
+Furse	Gejdenson	Gekas	Gephardt	Geren	Gibbons	Glickman	Gonzalez	Goodlatte	Gordon	Goss	Green	Greenwood	Gunderson	Gutierrez	Hall	OH	
+Harman	Herger	Hinchey	Hoagland	Hoekstra	Hoke	Holden	Horn	Hoyer	Huffington	Hughes	Hunter	Hutchinson	Hutto	
+Hyde	Inglis	Inhofe	Inslee	Istook	Jacobs	Jefferson	Johnson	CT	
+Kanjorski	Kaptur	Kasich	Kennedy	Kennelly	Kildee	Kim	Kingston	Kleczka	Klein	Klink	Klug	Kolbe	Kreidler	Kyl	LaFalce	Lambert	Lancaster	Lantos	LaRocco	
+Lazio	Leach	Lehman	Levin	Levy	Lewis	GA	Linder	Lipinski	Long	Lowey	Maloney	Mann	Manton	Manzullo	
+Markey	Martinez	Matsui	Mazzoli	Meehan	Menendez	Meyers	Miller	
+CA	Miller	Mineta	Minge	Mink	Moakley	Molinari	Mollohan	Montgomery	Morella	Murphy	Myers	Nadler	Neal	MA	
+Neal	Nussle	Oberstar	Obey	Olver	Ortiz	Owens	Pallone	Parker	Pastor	Payne	NJ	
+Pelosi	Penny	Peterson	Pombo	Pomeroy	Portman	Poshard	Price	NC	
+Pryce	Rahall	Ramstad	Reed	Regula	Reynolds	Richardson	Ridge	Roemer	Rogers	Rohrabacher	Ros-Lehtinen	Roth	Roukema	Rowland	
+Roybal-Allard	Royce	Sabo	Sanders	Santorum	Sawyer	Saxton	Schenk	Schiff	Schroeder	Schumer	Sensenbrenner	Serrano	Sharp	Shaw	Shays	Shepherd	Skaggs	
+Skelton	Slattery	Slaughter	Smith	IA	NJ	Snowe	
+Spence	Spratt	Stark	Stearns	Stenholm	Strickland	Studds	Stupak	Swett	Synar	Talent	Taylor	MS	Tejeda	
+Thurman	Torkildsen	Torricelli	Unsoeld	Upton	Valentine	Velazquez	Vento	Visclosky	Volkmer	Walsh	Waxman	Weldon	Wheat	
+Williams	Wise	Wolf	Woolsey	Wyden	Wynn	Yates	Young	AK	Zimmer	NAYS	110	
+Abercrombie	Allard	Applegate	Armey	Baker	LA	Ballenger	Barrett	Bateman	Bentley	Bliley	Boehlert	Boehner	
+
+reads % = 0.594

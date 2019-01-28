@@ -1,0 +1,10 @@
+This is from a Democrat
+----- below is the original text -----
+And(0.0) over(0.0) 2,000(0.0) FEMA(1.0) employees(1.0) there(0.0) prior(0.0) to(0.0) the(0.0) storm(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+FEMA	employees	storm	
+
+reads % = 0.2727272727272727

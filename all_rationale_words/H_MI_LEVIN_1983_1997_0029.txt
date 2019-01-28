@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) while(0.0) the(0.0) gentleman(0.0) is(0.0) here(0.0) who(0.0) just(0.0) spoke(0.0) ,(0.0) the(0.0) President(1.0) 's(0.0) proposal(1.0) would(0.0) give(0.0) a(0.0) child(0.0) credit(0.0) only(0.0) 
+to(0.0) those(0.0) who(0.0) work(0.0) and(0.0) pay(0.0) Federal(1.0) taxes(1.0) ,(0.0) income(1.0) or(0.0) withholding(1.0) ,(0.0) Social(0.0) Security(0.0) ,(0.0) period(0.0) .(0.0) So(0.0) do(0.0) 
+not(0.0) come(0.0) here(0.0) and(0.0) distort(1.0) the(0.0) truth(0.0) .(0.0) Second(0.0) ,(0.0) in(0.0) 1993(1.0) I(0.0) voted(1.0) for(0.0) that(0.0) package(0.0) .(0.0) I(0.0) am(0.0) 
+proud(0.0) of(0.0) it(0.0) .(0.0) We(0.0) have(0.0) now(0.0) a(0.0) deficit(1.0) that(0.0) may(0.0) be(0.0) disappearing(0.0) .(0.0) Why(0.0) ?(0.0) Because(0.0) we(0.0) Democrats(0.0) had(0.0) 
+the(0.0) guts(1.0) in(0.0) 1993(1.0) to(0.0) stand(0.0) up(0.0) .(0.0) Third(0.0) ,(0.0) this(0.0) 75(0.0) percent(0.0) figure(0.0) going(0.0) to(0.0) those(0.0) who(0.0) earn(0.0) under(0.0) 
+$(0.0) 71,000(0.0) ,(0.0) it(0.0) is(0.0) a(0.0) 5-year(0.0) analysis(0.0) at(0.0) best(0.0) .(0.0) Give(0.0) us(0.0) a(0.0) 10-year(0.0) analysis(0.0) .(0.0) They(0.0) do(0.0) not(0.0) 
+give(0.0) it(0.0) to(0.0) us(0.0) because(0.0) it(0.0) will(0.0) show(0.0) that(0.0) most(0.0) of(0.0) the(0.0) tax(1.0) cut(1.0) would(1.0) go(1.0) to(1.0) very(1.0) wealthy(1.0) families(0.0) 
+,(0.0) and(0.0) I(0.0) would(0.0) say(0.0) here(0.0) to(0.0) Mr.(0.0) Kies(1.0) of(0.0) the(0.0) Joint(0.0) Committee(0.0) on(0.0) Taxation(0.0) ,(0.0) today(0.0) come(0.0) up(0.0) with(0.0) 
+a(0.0) 10-year(0.0) analysis(0.0) .(0.0) He(0.0) does(0.0) not(0.0) because(0.0) he(0.0) hides(0.0) the(0.0) fact(0.0) who(0.0) will(0.0) benefit(0.0) ,(0.0) and(0.0) that(0.0) it(0.0) would(0.0) 
+explode(0.0) the(0.0) deficit(1.0) after(0.0) 5(0.0) years(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+President	proposal	
+Federal	taxes	income	withholding	
+distort	1993	voted	
+deficit	
+guts	1993	
+
+tax	cut	would	go	to	very	wealthy	
+Kies	
+
+deficit	
+
+reads % = 0.11170212765957446

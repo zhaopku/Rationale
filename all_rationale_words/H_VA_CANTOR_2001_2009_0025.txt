@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Maryland(1.0) ,(0.0) the(0.0) majority(1.0) leader(0.0) ,(0.0) for(0.0) the(0.0) purpose(0.0) of(0.0) announcing(0.0) next(0.0) week(0.0) 
+'s(0.0) schedule(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Maryland	majority	
+
+
+reads % = 0.08333333333333333

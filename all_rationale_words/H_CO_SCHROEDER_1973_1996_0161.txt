@@ -1,0 +1,14 @@
+This is from a Democrat
+----- below is the original text -----
+Chairman(1.0) ,(0.0) reserving(1.0) the(0.0) right(1.0) to(0.0) object(1.0) ,(0.0) we(0.0) have(0.0) had(0.0) many(0.0) people(0.0) say(1.0) they(0.0) want(1.0) to(0.0) speak(0.0) ,(0.0) but(0.0) because(0.0) 
+of(0.0) the(0.0) confusion(1.0) of(0.0) the(0.0) scheduling(1.0) I(0.0) do(0.0) not(1.0) know(1.0) if(0.0) they(0.0) will(0.0) get(0.0) here(0.0) or(0.0) not(0.0) .(0.0) So(1.0) I(0.0) 
+am(0.0) a(0.0) little(0.0) troubled(1.0) about(0.0) what(0.0) to(0.0) do(0.0) on(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+reserving	right	object	say	want	
+confusion	scheduling	not	know	So	
+troubled	
+
+reads % = 0.21153846153846154

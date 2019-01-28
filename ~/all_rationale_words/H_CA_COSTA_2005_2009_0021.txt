@@ -1,0 +1,54 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) rise(1.0) today(0.0) to(0.0) oppose(1.0) H.R(0.0) .(0.0) 2442(1.0) ,(0.0) the(0.0) rule(0.0) that(0.0) we(0.0) are(0.0) speaking(0.0) on(0.0) ,(0.0) the(0.0) 
+Bay(1.0) Area(1.0) Regional(1.0) Water(0.0) Recycling(1.0) Program(0.0) Expansion(0.0) Act(0.0) of(0.0) 2009(1.0) .(0.0) While(1.0) this(0.0) measure(1.0) by(0.0) Congressman(1.0) Miller(1.0) has(0.0) merit(1.0) ,(0.0) 
+there(0.0) are(0.0) plenty(1.0) of(0.0) meritorious(1.0) water(0.0) projects(0.0) and(0.0) bills(0.0) that(0.0) we(0.0) have(0.0) repeatedly(1.0) tried(0.0) to(0.0) bring(0.0) to(0.0) the(0.0) floor(0.0) to(0.0) 
+help(0.0) those(0.0) of(0.0) us(0.0) where(0.0) the(0.0) drought(0.0) is(0.0) most(1.0) expansive(1.0) in(0.0) the(0.0) San(1.0) Joaquin(1.0) Valley(0.0) ,(0.0) and(0.0) unfortunately(0.0) ,(0.0) they(0.0) 
+have(0.0) been(0.0) ignored(1.0) .(0.0) Unfortunately(1.0) ,(0.0) yesterday(0.0) I(0.0) learned(0.0) that(0.0) H.R(0.0) .(0.0) 2442(1.0) was(0.0) reported(0.0) out(1.0) of(0.0) the(0.0) Rules(0.0) Committee(0.0) 
+with(0.0) a(0.0) closed(0.0) rule(0.0) ,(0.0) and(0.0) therefore(0.0) ,(0.0) no(1.0) amendments(1.0) would(0.0) be(0.0) allowed(1.0) .(0.0) I(0.0) oppose(1.0) this(0.0) rule(0.0) because(0.0) we(0.0) 
+need(0.0) every(0.0) opportunity(0.0) to(0.0) offer(0.0) amendments(0.0) and(0.0) to(0.0) vote(1.0) on(0.0) legislation(0.0) that(0.0) will(0.0) bring(0.0) water(0.0) to(0.0) our(0.0) farmers(0.0) ,(0.0) our(0.0) 
+farmworkers(0.0) ,(0.0) our(0.0) farm(1.0) communities(0.0) and(0.0) our(0.0) valley(0.0) in(0.0) the(0.0) middle(1.0) of(0.0) this(0.0) drought(0.0) crisis(1.0) .(0.0) My(0.0) district(1.0) is(0.0) ground(0.0) 
+zero(1.0) for(0.0) this(0.0) crisis(1.0) .(0.0) Towns(1.0) from(0.0) Mendota(1.0) to(0.0) Delano(1.0) have(0.0) 35(0.0) percent(1.0) and(0.0) more(0.0) unemployment(1.0) .(0.0) There(1.0) is(0.0) no(0.0) 
+water(0.0) ,(0.0) there(0.0) is(0.0) no(0.0) jobs(1.0) ,(0.0) there(0.0) is(0.0) no(0.0) money(1.0) for(0.0) our(0.0) farms(1.0) and(0.0) farmworkers(0.0) to(0.0) put(0.0) food(0.0) on(0.0) 
+their(0.0) tables(0.0) .(0.0) Can(1.0) you(0.0) imagine(1.0) what(0.0) it(0.0) would(1.0) be(0.0) like(0.0) if(0.0) you(1.0) lived(1.0) in(0.0) a(0.0) community(1.0) where(0.0) a(0.0) third(0.0) 
+or(0.0) more(0.0) of(0.0) your(0.0) citizens(1.0) had(0.0) no(1.0) jobs(1.0) ?(0.0) In(0.0) the(0.0) 1990s(1.0) ,(0.0) I(0.0) was(0.0) working(0.0) with(0.0) many(0.0) of(0.0) those(0.0) 
+water(1.0) districts(0.0) ,(0.0) farmers(0.0) ,(0.0) and(0.0) urban(0.0) and(0.0) environmental(1.0) groups(0.0) to(0.0) pass(1.0) legislation(0.0) that(0.0) would(1.0) help(0.0) fix(1.0) California(0.0) 's(0.0) broken(1.0) 
+water(0.0) system(0.0) .(0.0) Unfortunately(1.0) ,(0.0) we(0.0) made(0.0) little(0.0) progress(1.0) .(0.0) We(0.0) tried(0.0) to(0.0) establish(1.0) a(0.0) water(0.0) ethos(1.0) that(0.0) we(0.0) would(0.0) 
+all(0.0) get(0.0) healthy(1.0) together(0.0) again(0.0) .(0.0) Clearly(1.0) ,(0.0) we(0.0) are(0.0) not(1.0) getting(0.0) healthy(1.0) in(0.0) the(0.0) valley(0.0) .(0.0) Our(0.0) valley(0.0) agriculture(1.0) 
+provides(0.0) half(0.0) the(0.0) Nation(0.0) 's(0.0) fruits(1.0) and(0.0) vegetables(1.0) ,(0.0) and(0.0) they(0.0) are(0.0) withering(1.0) and(0.0) dying(0.0) out(0.0) .(0.0) Millions(1.0) of(0.0) acre-feet(1.0) 
+of(0.0) water(0.0) have(0.0) been(0.0) diverted(1.0) from(0.0) the(0.0) valley(0.0) ,(0.0) and(0.0) unfortunately(0.0) ,(0.0) the(0.0) fisheries(1.0) are(0.0) not(1.0) improving(0.0) .(0.0) It(0.0) is(0.0) 
+incumbent(1.0) upon(0.0) this(0.0) body(0.0) to(0.0) come(0.0) together(0.0) and(0.0) help(0.0) us(0.0) fix(0.0) this(0.0) problem(0.0) .(0.0) If(1.0) we(0.0) expect(0.0) to(0.0) get(0.0) healthy(1.0) 
+again(0.0) ,(0.0) we(0.0) must(0.0) secure(1.0) a(0.0) sustainable(1.0) water(0.0) supply(1.0) for(0.0) every(0.0) region(0.0) of(0.0) California(0.0) ,(0.0) and(0.0) for(0.0) Congressmen(1.0) Cardoza(1.0) ,(0.0) 
+Radanovich(1.0) and(0.0) myself(0.0) ,(0.0) that(0.0) begins(1.0) with(0.0) the(0.0) San(1.0) Joaquin(1.0) valley(0.0) .(0.0) Let(1.0) us(0.0) start(0.0) anew(1.0) .(0.0) Let(1.0) us(0.0) start(0.0) 
+with(0.0) leadership(1.0) focusing(0.0) on(0.0) addressing(1.0) California(0.0) 's(0.0) water(0.0) crisis(1.0) in(0.0) the(0.0) valley(1.0) and(0.0) not(0.0) shying(1.0) away(0.0) from(0.0) this(0.0) crisis(1.0) .(0.0) 
+Congressman(1.0) Cardoza(1.0) agrees(1.0) with(0.0) my(0.0) statement(0.0) .(0.0) Mr.(0.0) LINCOLN(1.0) DIAZ-BALART(1.0) of(0.0) Florida(1.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) I(0.0) yield(0.0) 3(0.0) minutes(1.0) 
+to(0.0) my(0.0) friend(0.0) from(0.0) California(0.0) ((0.0) Mr.(0.0) Campbell(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+rise	oppose	2442	
+Bay	Area	Regional	Recycling	2009	While	measure	Congressman	Miller	merit	
+plenty	meritorious	repeatedly	
+most	expansive	San	Joaquin	
+ignored	Unfortunately	2442	out	
+no	amendments	allowed	oppose	
+vote	
+farm	middle	crisis	district	
+zero	crisis	Towns	Mendota	Delano	percent	unemployment	There	
+jobs	money	farms	
+Can	imagine	would	you	lived	community	
+citizens	no	jobs	1990s	
+water	environmental	pass	would	fix	broken	
+Unfortunately	progress	establish	ethos	
+healthy	Clearly	not	healthy	agriculture	
+fruits	vegetables	withering	Millions	acre-feet	
+diverted	fisheries	not	
+incumbent	If	healthy	
+secure	sustainable	supply	Congressmen	Cardoza	
+Radanovich	begins	San	Joaquin	Let	anew	Let	
+leadership	addressing	crisis	valley	shying	crisis	
+Congressman	Cardoza	agrees	LINCOLN	DIAZ-BALART	Florida	Speaker	minutes	
+Campbell	
+
+reads % = 0.23725055432372505

@@ -1,0 +1,18 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) would(1.0) just(1.0) say(1.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) New(0.0) York(0.0) ,(0.0) I(0.0) hope(0.0) he(0.0) will(0.0) remember(0.0) those(0.0) words(0.0) when(0.0) the(0.0) next(0.0) 
+D.C.(1.0) appropriations(1.0) bill(0.0) comes(0.0) up(0.0) ,(0.0) because(1.0) the(0.0) gentleman(0.0) has(0.0) taken(0.0) a(0.0) position(0.0) in(0.0) the(0.0) past(0.0) that(0.0) this(0.0) Congress(0.0) has(0.0) 
+some(0.0) responsibility(0.0) even(0.0) over(0.0) the(0.0) local(1.0) funds(0.0) of(0.0) the(0.0) District(0.0) of(0.0) Columbia(1.0) ,(0.0) and(0.0) now(0.0) he(0.0) is(0.0) saying(0.0) that(0.0) we(0.0) 
+should(0.0) let(0.0) them(0.0) have(0.0) their(0.0) own(0.0) money(0.0) with(0.0) no(1.0) strings(1.0) attached(1.0) .(0.0) I(0.0) think(1.0) that(0.0) may(0.0) not(1.0) be(0.0) consistent(1.0) with(0.0) 
+the(0.0) gentleman(0.0) 's(0.0) overall(0.0) position(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+would	just	say	
+D.C.	appropriations	because	
+local	Columbia	
+no	strings	attached	think	not	consistent	
+
+
+reads % = 0.16091954022988506

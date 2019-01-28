@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) let(0.0) me(0.0) yield(0.0) myself(0.0) 20(0.0) seconds(0.0) to(0.0) just(0.0) respond(0.0) to(0.0) that(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) would(0.0) be(0.0) outraged(1.0) 
+,(0.0) too(0.0) ,(0.0) if(0.0) anybody(0.0) did(0.0) the(0.0) things(0.0) that(0.0) he(0.0) accused(0.0) us(0.0) of(0.0) doing(0.0) ,(0.0) and(0.0) I(0.0) do(0.0) n't(0.0) believe(0.0) 
+a(0.0) word(0.0) of(0.0) it(0.0) .(0.0) I(0.0) am(0.0) now(0.0) pleased(0.0) to(0.0) yield(0.0) 2\1/2\(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) ((0.0) Mr.(0.0) 
+Schiff(1.0) )(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Speaker	outraged	
+
+
+Schiff	
+
+reads % = 0.046875

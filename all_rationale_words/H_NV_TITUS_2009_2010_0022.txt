@@ -1,0 +1,20 @@
+This is from a Democrat
+----- below is the original text -----
+Madam(0.0) Speaker(0.0) ,(0.0) I(0.0) would(0.0) just(0.0) reiterate(0.0) the(0.0) points(0.0) that(0.0) have(0.0) been(0.0) made(0.0) earlier(0.0) but(0.0) in(0.0) a(0.0) more(0.0) brief(0.0) fashion(0.0) to(0.0) 
+say(0.0) that(0.0) I(0.0) hope(0.0) our(0.0) colleagues(0.0) will(0.0) join(0.0) in(0.0) supporting(1.0) this(0.0) resolution(1.0) and(0.0) to(0.0) say(0.0) thank(0.0) you(0.0) to(0.0) the(0.0) many(0.0) 
+volunteers(0.0) who(0.0) are(0.0) on(0.0) the(0.0) front(0.0) lines(0.0) helping(0.0) us(0.0) during(0.0) times(0.0) of(0.0) crisis(1.0) ,(0.0) whether(0.0) it(0.0) 's(0.0) economic(1.0) ,(0.0) physical(0.0) 
+disaster(1.0) or(0.0) sociological(1.0) change(0.0) .(0.0) We(0.0) need(0.0) their(0.0) help(0.0) ,(0.0) and(0.0) we(0.0) appreciate(0.0) it(0.0) .(0.0) This(0.0) is(0.0) a(0.0) resolution(1.0) to(0.0) 
+do(0.0) that(0.0) .(0.0) So(0.0) I(0.0) thank(0.0) the(0.0) sponsors(0.0) .(0.0) I(0.0) thank(0.0) the(0.0) chairman(0.0) of(0.0) the(0.0) Service(0.0) Caucus(0.0) and(0.0) urge(0.0) your(0.0) 
+support(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+
+supporting	resolution	
+crisis	economic	
+disaster	sociological	resolution	
+
+
+
+reads % = 0.06796116504854369

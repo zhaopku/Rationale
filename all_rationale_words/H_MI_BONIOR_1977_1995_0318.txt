@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) this(0.0) debate(1.0) comes(0.0) down(0.0) to(0.0) one(0.0) simple(0.0) question(0.0) :(0.0) Do(0.0) you(0.0) think(0.0) we(0.0) should(0.0) be(0.0) cutting(0.0) Medicare(1.0) ,(0.0) Medicaid(1.0) 
+,(0.0) and(0.0) Social(0.0) Security(0.0) in(0.0) order(0.0) to(0.0) pay(0.0) for(0.0) tax(1.0) breaks(1.0) for(1.0) the(1.0) privileged(1.0) few(0.0) in(0.0) our(0.0) society(1.0) ?(0.0) I(0.0) 
+can(0.0) tell(0.0) you(0.0) one(0.0) thing(0.0) --(0.0) Margaret(0.0) Leslie(1.0) does(0.0) n't(0.0) think(0.0) so(0.0) .(0.0) I(0.0) have(0.0) a(0.0) picture(0.0) here(0.0) of(0.0) Margaret(0.0) 
+.(0.0) She(0.0) is(0.0) a(0.0) senior(0.0) citizen(0.0) who(0.0) lives(0.0) in(0.0) my(0.0) district(0.0) .(0.0) During(0.0) World(0.0) War(0.0) II(0.0) ,(0.0) she(0.0) was(0.0) known(0.0) 
+as(0.0) ``(0.0) Margie(0.0) the(0.0) Riveter(1.0) .(0.0) ''(0.0) She(0.0) helped(0.0) build(0.0) the(0.0) B-29(1.0) 's(0.0) that(0.0) helped(0.0) the(0.0) Allies(1.0) defeat(0.0) Hitler(1.0) in(0.0) 
+the(0.0) Second(0.0) World(0.0) War(0.0) .(0.0) Today(0.0) ,(0.0) she(0.0) lives(0.0) on(0.0) Social(0.0) Security(0.0) .(0.0) After(0.0) paying(0.0) for(0.0) her(0.0) rent(0.0) ,(0.0) her(0.0) 
+medicine(1.0) ,(0.0) her(0.0) Medicare(1.0) and(0.0) MediGap(1.0) premiums(1.0) ,(0.0) she(0.0) is(0.0) left(0.0) with(0.0) about(0.0) $(0.0) 130(0.0) each(0.0) month(0.0) to(0.0) pay(1.0) for(0.0) 
+food(1.0) ,(0.0) bill(1.0) ,(0.0) and(0.0) everything(0.0) else(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) this(0.0) budget(1.0) before(0.0) us(0.0) today(0.0) will(0.0) take(0.0) $(0.0) 240(0.0) 
+out(0.0) of(0.0) Margaret(1.0) 's(0.0) pocket(0.0) because(0.0) of(0.0) cuts(1.0) in(0.0) Social(1.0) Security(0.0) .(0.0) And(0.0) over(0.0) the(0.0) next(0.0) 7(0.0) years(0.0) --(0.0) it(0.0) 
+will(0.0) force(1.0) her(0.0) to(0.0) pay(1.0) an(0.0) additional(0.0) $(0.0) 3,500(0.0) for(0.0) Medicare(1.0) .(0.0) Not(0.0) to(0.0) cut(1.0) the(0.0) deficit(1.0) .(0.0) Not(0.0) to(0.0) 
+balance(0.0) the(0.0) budget(1.0) .(0.0) But(0.0) to(0.0) pay(1.0) for(0.0) tax(1.0) breaks(1.0) for(1.0) the(1.0) wealthiest(1.0) few(1.0) in(1.0) our(0.0) society(1.0) .(0.0) Mr.(0.0) Speaker(1.0) 
+,(0.0) we(0.0) need(0.0) to(0.0) defeat(1.0) this(0.0) budget(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+debate	Medicare	Medicaid	
+tax	breaks	for	the	privileged	society	
+Leslie	
+
+Riveter	B-29	Allies	Hitler	
+
+medicine	Medicare	MediGap	premiums	pay	
+food	bill	Speaker	budget	
+Margaret	cuts	Social	
+force	pay	Medicare	cut	deficit	
+budget	pay	tax	breaks	for	the	wealthiest	few	in	society	Speaker	
+defeat	budget	
+
+reads % = 0.19213973799126638

@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) let(0.0) me(0.0) introduce(0.0) our(0.0) colleague(0.0) who(0.0) has(0.0) been(0.0) waiting(0.0) patiently(0.0) .(0.0) The(0.0) gentleman(0.0) from(0.0) Washington(1.0) ((0.0) Mr.(0.0) MCDermott(1.0) )(0.0) 
+.(0.0) 
+
+
+----- below are rationale words -----
+
+Washington	MCDermott	
+
+
+reads % = 0.09090909090909091

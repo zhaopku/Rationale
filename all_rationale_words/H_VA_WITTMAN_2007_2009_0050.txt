@@ -1,0 +1,54 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) 'd(0.0) like(0.0) to(0.0) thank(0.0) my(0.0) colleague(0.0) from(0.0) Virginia(1.0) ((0.0) Mr.(0.0) Nye(1.0) )(0.0) for(1.0) introducing(1.0) this(0.0) legislation(1.0) to(0.0) encourage(0.0) financial(1.0) and(0.0) 
+lending(1.0) institutions(1.0) to(0.0) work(0.0) with(0.0) homeowners(1.0) affected(0.0) by(0.0) toxic(1.0) drywall(1.0) .(0.0) I(0.0) would(0.0) also(0.0) like(0.0) to(0.0) thank(0.0) the(0.0) chairman(0.0) and(0.0) 
+ranking(0.0) member(0.0) of(0.0) the(0.0) Financial(0.0) Services(0.0) Committee(0.0) for(0.0) bringing(0.0) this(0.0) resolution(1.0) to(0.0) the(0.0) floor(0.0) .(0.0) As(0.0) of(0.0) Friday(0.0) ,(0.0) November(0.0) 
+20(0.0) ,(0.0) 2009(0.0) ,(0.0) the(0.0) Consumer(0.0) Product(0.0) Safety(0.0) Commission(0.0) had(0.0) received(0.0) nearly(0.0) 2,100(0.0) complaints(0.0) from(0.0) homeowners(1.0) in(0.0) 32(0.0) States(0.0) and(0.0) 
+the(0.0) District(0.0) of(0.0) Columbia(0.0) .(0.0) The(0.0) Commonwealth(0.0) of(0.0) Virginia(0.0) and(0.0) particularly(0.0) the(0.0) Hampton(0.0) Roads(0.0) region(0.0) has(0.0) been(0.0) hit(0.0) hard(0.0) ,(0.0) 
+and(0.0) many(0.0) homeowners(1.0) are(0.0) facing(0.0) significant(0.0) health(1.0) problems(0.0) and(0.0) financial(0.0) ruin(0.0) because(0.0) of(0.0) the(0.0) presence(0.0) of(0.0) toxic(1.0) drywall(1.0) in(0.0) their(0.0) 
+homes(0.0) .(0.0) The(0.0) complaints(0.0) to(0.0) the(0.0) Consumer(1.0) Product(0.0) Safety(0.0) Commission(0.0) ,(0.0) which(0.0) began(0.0) sometime(0.0) in(0.0) 2006(0.0) ,(0.0) include(0.0) a(0.0) rotten(0.0) 
+egg(0.0) smell(0.0) within(0.0) the(0.0) home(0.0) ;(0.0) health(1.0) concerns(1.0) such(0.0) as(0.0) irritated(0.0) and(0.0) itchy(0.0) eyes(0.0) and(0.0) skin(0.0) ;(0.0) difficulty(0.0) in(0.0) breathing(0.0) 
+;(0.0) persistent(0.0) cough(1.0) ;(0.0) runny(0.0) noses(0.0) ;(0.0) recurrent(0.0) headaches(0.0) ,(0.0) sinus(0.0) infections(0.0) ,(0.0) nose(0.0) bleeds(0.0) ,(0.0) and(0.0) asthma(0.0) attacks(0.0) ;(0.0) 
+and(0.0) blackened(0.0) and(0.0) corroded(0.0) metal(0.0) components(0.0) in(0.0) electrical(0.0) systems(0.0) and(0.0) air(0.0) conditioning(0.0) units(0.0) .(0.0) In(0.0) October(0.0) ,(0.0) I(0.0) toured(0.0) the(0.0) 
+homes(0.0) of(0.0) several(0.0) constituents(1.0) affected(0.0) by(0.0) the(0.0) toxic(1.0) drywall(1.0) in(0.0) the(0.0) Hollymeade(0.0) subdivision(0.0) in(0.0) Newport(1.0) News(0.0) and(0.0) saw(0.0) firsthand(0.0) how(0.0) 
+toxic(1.0) drywall(1.0) has(0.0) put(0.0) the(0.0) health(1.0) and(0.0) financial(1.0) well-being(0.0) of(0.0) numerous(0.0) families(0.0) at(0.0) risk(0.0) .(0.0) I(0.0) met(0.0) with(0.0) these(0.0) folks(0.0) 
+again(0.0) last(0.0) week(0.0) to(0.0) be(0.0) updated(0.0) on(0.0) their(0.0) current(0.0) predicament(0.0) .(0.0) These(0.0) homeowners(1.0) ,(0.0) many(0.0) of(0.0) whom(0.0) served(0.0) or(0.0) who(0.0) 
+are(0.0) serving(0.0) our(0.0) country(1.0) in(0.0) the(0.0) Armed(0.0) Forces(0.0) ,(0.0) can(0.0) not(0.0) afford(1.0) to(0.0) carry(0.0) a(0.0) mortgage(0.0) on(0.0) a(0.0) home(0.0) that(0.0) 
+is(0.0) uninhabitable(0.0) and(0.0) make(0.0) arrangements(0.0) to(0.0) pay(0.0) rent(0.0) or(0.0) pay(0.0) a(0.0) mortgage(0.0) on(0.0) a(0.0) second(0.0) home(0.0) to(0.0) keep(0.0) their(0.0) families(0.0) 
+safe(0.0) .(0.0) Many(0.0) of(0.0) these(0.0) families(0.0) are(0.0) juggling(0.0) the(0.0) burdens(1.0) of(0.0) having(0.0) a(0.0) deployed(0.0) spouse(0.0) or(0.0) a(0.0) spouse(0.0) preparing(0.0) for(0.0) 
+deployment(0.0) and(0.0) an(0.0) additional(0.0) financial(0.0) burden(1.0) such(0.0) as(0.0) a(0.0) move(0.0) out(0.0) of(0.0) an(0.0) impacted(1.0) home(0.0) ,(0.0) foreclosure(1.0) ,(0.0) or(0.0) loss(0.0) 
+of(0.0) insurance(1.0) coverage(1.0) .(0.0) All(0.0) of(0.0) these(0.0) would(0.0) be(0.0) devastating(0.0) to(0.0) these(0.0) families(0.0) .(0.0) This(0.0) resolution(1.0) encourages(1.0) banks(1.0) to(0.0) allow(0.0) 
+for(0.0) a(0.0) temporary(0.0) forbearance(0.0) without(0.0) penalty(0.0) on(0.0) payments(1.0) on(0.0) their(0.0) home(0.0) mortgages(0.0) .(0.0) This(0.0) would(0.0) give(0.0) homeowners(1.0) the(0.0) time(0.0) they(0.0) 
+need(0.0) to(0.0) work(0.0) out(0.0) a(0.0) more(0.0) permanent(0.0) solution(0.0) .(0.0) My(0.0) office(0.0) is(0.0) currently(0.0) working(0.0) with(0.0) seven(0.0) homeowners(1.0) who(0.0) are(0.0) seeking(0.0) 
+assistance(0.0) from(0.0) their(0.0) lenders(1.0) .(0.0) Again(0.0) ,(0.0) I(0.0) would(0.0) like(0.0) to(0.0) thank(0.0) my(0.0) colleague(0.0) from(0.0) Virginia(1.0) ((0.0) Mr.(0.0) Nye(1.0) )(0.0) 
+for(1.0) introducing(1.0) this(0.0) legislation(1.0) ,(0.0) and(0.0) I(0.0) strongly(0.0) urge(1.0) my(0.0) colleagues(0.0) to(0.0) support(0.0) it(0.0) .(0.0) Madam(0.0) Speaker(1.0) ,(0.0) I(0.0) reserve(0.0) 
+the(0.0) balance(0.0) of(0.0) my(0.0) time(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Virginia	Nye	for	introducing	legislation	financial	
+lending	institutions	homeowners	toxic	drywall	
+resolution	
+homeowners	
+
+homeowners	health	toxic	drywall	
+Consumer	
+health	concerns	
+cough	
+
+constituents	toxic	drywall	Newport	
+toxic	drywall	health	financial	
+homeowners	
+country	afford	
+
+burdens	
+burden	impacted	foreclosure	
+insurance	coverage	resolution	encourages	banks	
+payments	homeowners	
+homeowners	
+lenders	Virginia	Nye	
+for	introducing	legislation	urge	Speaker	
+
+
+reads % = 0.116331096196868

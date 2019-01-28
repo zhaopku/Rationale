@@ -1,0 +1,20 @@
+This is from a Republican
+----- below is the original text -----
+I(0.0) am(0.0) under(0.0) 35(0.0) and(0.0) I(0.0) am(0.0) not(0.0) interested(0.0) in(0.0) seeing(0.0) my(0.0) generation(0.0) get(0.0) hit(0.0) with(0.0) the(0.0) single(0.0) largest(1.0) tax(1.0) increase(1.0) 
+in(0.0) American(0.0) history(0.0) in(0.0) the(0.0) year(0.0) 2011(0.0) if(0.0) this(0.0) bill(1.0) does(1.0) not(0.0) pass(0.0) .(0.0) The(0.0) score(0.0) of(0.0) this(0.0) bill(1.0) assumes(1.0) 
+that(0.0) you(0.0) are(0.0) going(0.0) to(0.0) have(0.0) a(0.0) huge(0.0) tax(1.0) increase(1.0) and(0.0) if(0.0) we(0.0) do(0.0) not(0.0) have(0.0) that(0.0) huge(0.0) tax(1.0) increase(1.0) 
+,(0.0) it(0.0) is(0.0) going(0.0) to(0.0) cost(1.0) the(0.0) government(1.0) money(1.0) .(0.0) All(0.0) we(0.0) are(0.0) proposing(1.0) is(0.0) to(0.0) keep(0.0) taxes(1.0) constant(0.0) ,(0.0) 
+level(0.0) .(0.0) Not(0.0) cutting(0.0) them(0.0) ,(0.0) keeping(0.0) them(0.0) level(0.0) .(0.0) You(0.0) are(0.0) saying(0.0) we(0.0) want(0.0) a(0.0) big(0.0) tax(0.0) increase(1.0) and(0.0) 
+if(0.0) we(0.0) do(0.0) not(0.0) get(0.0) it(0.0) ,(0.0) it(0.0) is(0.0) going(0.0) to(0.0) cost(1.0) us(0.0) money(1.0) somehow(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+largest	tax	increase	
+bill	does	bill	assumes	
+tax	increase	tax	increase	
+cost	government	money	proposing	taxes	
+increase	
+cost	money	
+
+reads % = 0.1623931623931624

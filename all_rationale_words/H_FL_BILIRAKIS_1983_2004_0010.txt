@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) 3(0.0) minutes(0.0) to(0.0) the(0.0) gentleman(0.0) from(0.0) Indiana(1.0) ((0.0) Mr.(0.0) Burton(1.0) )(0.0) ,(0.0) who(0.0) ,(0.0) along(0.0) with(0.0) the(0.0) 
+gentleman(0.0) from(0.0) Massachusetts(1.0) ((0.0) Mr.(0.0) Tierney(1.0) )(0.0) ,(0.0) is(0.0) the(0.0) author(0.0) of(0.0) this(0.0) legislation(0.0) .(0.0) Speaker(0.0) ,(0.0) I(0.0) yield(0.0) 3(0.0) 
+minutes(0.0) to(0.0) the(0.0) gentlewoman(0.0) from(0.0) Florida(0.0) ((0.0) Ms.(1.0) Ros-Lehtinen(1.0) )(0.0) .(0.0) Ms.(1.0) ROS-LEHTINEN(1.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) I(0.0) thank(0.0) the(0.0) 
+gentleman(0.0) for(0.0) yielding(0.0) me(0.0) this(0.0) time(0.0) ,(0.0) and(0.0) I(0.0) congratulate(0.0) the(0.0) gentleman(0.0) from(0.0) Massachusetts(1.0) for(0.0) this(0.0) very(0.0) important(0.0) resolution(1.0) that(0.0) 
+,(0.0) as(0.0) has(0.0) been(0.0) pointed(0.0) out(0.0) ,(0.0) does(0.0) several(0.0) things(0.0) .(0.0) It(0.0) recognizes(0.0) the(0.0) importance(0.0) of(0.0) increasing(1.0) awareness(0.0) of(0.0) this(0.0) 
+affliction(0.0) ,(0.0) autism(0.0) .(0.0) It(0.0) supports(0.0) programs(1.0) for(0.0) increased(1.0) research(0.0) and(0.0) improved(0.0) treatment(1.0) of(0.0) autism(0.0) .(0.0) It(0.0) improves(0.0) training(0.0) and(0.0) 
+support(0.0) for(0.0) individuals(0.0) with(0.0) autism(0.0) .(0.0) But(0.0) one(0.0) of(0.0) the(0.0) causes(0.0) that(0.0) I(0.0) believe(0.0) is(0.0) one(0.0) of(0.0) the(0.0) most(0.0) important(0.0) 
+ones(0.0) is(0.0) that(0.0) it(0.0) recognizes(0.0) and(0.0) commends(1.0) the(0.0) parents(0.0) and(0.0) relatives(0.0) of(0.0) children(0.0) with(0.0) autism(0.0) for(0.0) their(0.0) sacrifice(1.0) and(0.0) dedication(0.0) 
+in(0.0) providing(0.0) for(0.0) the(0.0) special(0.0) needs(0.0) of(0.0) children(0.0) with(0.0) autism(1.0) and(0.0) for(0.0) absorbing(0.0) significant(0.0) financial(1.0) costs(1.0) for(0.0) specialized(0.0) education(1.0) and(0.0) 
+support(0.0) services(0.0) .(0.0) As(0.0) has(0.0) been(0.0) pointed(0.0) out(0.0) before(0.0) ,(0.0) each(0.0) one(0.0) of(0.0) us(0.0) could(0.0) probably(0.0) be(0.0) here(0.0) on(0.0) the(0.0) 
+floor(0.0) with(0.0) a(0.0) personal(0.0) story(0.0) about(0.0) how(0.0) we(0.0) know(0.0) someone(0.0) who(0.0) has(0.0) autism(0.0) ,(0.0) a(0.0) family(0.0) that(0.0) has(0.0) been(0.0) affected(0.0) 
+by(0.0) this(0.0) disease(0.0) ,(0.0) this(0.0) affliction(0.0) ;(0.0) and(0.0) I(0.0) am(0.0) no(0.0) exception(0.0) to(0.0) that(0.0) .(0.0) My(0.0) best(0.0) friends(0.0) ,(0.0) Charles(0.0) 
+Flick(1.0) and(0.0) Patience(0.0) Plumer(1.0) Flick(1.0) ,(0.0) have(0.0) three(0.0) children(0.0) ,(0.0) two(0.0) of(0.0) whom(0.0) have(0.0) autism(0.0) .(0.0) Bonnie(0.0) ,(0.0) a(0.0) teenager(0.0) 
+,(0.0) is(0.0) able(0.0) to(0.0) communicate(0.0) both(0.0) verbally(0.0) and(0.0) in(0.0) written(0.0) form(0.0) .(0.0) She(0.0) is(0.0) able(0.0) to(0.0) do(0.0) simple(0.0) arithmetic(0.0) .(0.0) 
+She(0.0) is(0.0) probably(0.0) in(0.0) the(0.0) higher(0.0) level(0.0) of(0.0) high-(0.0) functioning(0.0) autism(1.0) disorder(0.0) .(0.0) However(0.0) ,(0.0) her(0.0) young(0.0) brother(0.0) ,(0.0) Willis(0.0) 
+,(0.0) is(0.0) not(0.0) able(0.0) to(0.0) communicate(0.0) ,(0.0) is(0.0) not(0.0) aware(0.0) of(0.0) his(0.0) surroundings(0.0) ,(0.0) makes(0.0) no(0.0) connection(0.0) to(0.0) those(0.0) around(0.0) 
+him(0.0) in(0.0) a(0.0) very(0.0) direct(0.0) way(0.0) ,(0.0) nor(0.0) is(0.0) he(0.0) able(0.0) to(0.0) communicate(0.0) in(0.0) any(0.0) way(0.0) ,(0.0) shape(0.0) or(0.0) form(0.0) 
+except(0.0) for(0.0) grunts(0.0) and(0.0) pointing(0.0) at(0.0) simple(0.0) pictures(0.0) .(0.0) It(0.0) has(0.0) been(0.0) a(0.0) great(0.0) experience(0.0) for(0.0) the(0.0) family(0.0) ,(0.0) a(0.0) 
+great(0.0) challenge(0.0) ,(0.0) to(0.0) have(0.0) them(0.0) deal(0.0) with(0.0) the(0.0) special(0.0) needs(0.0) of(0.0) these(0.0) two(0.0) children(0.0) .(0.0) It(0.0) presents(0.0) a(0.0) special(0.0) 
+challenge(0.0) as(0.0) well(0.0) to(0.0) their(0.0) oldest(0.0) child(0.0) ,(0.0) Penny(0.0) Flick(1.0) ,(0.0) who(0.0) is(0.0) a(0.0) graduating(0.0) senior(0.0) from(0.0) high(0.0) school(0.0) this(0.0) 
+year(0.0) .(0.0) Autism(0.0) affects(0.0) not(0.0) just(0.0) the(0.0) children(0.0) ,(0.0) those(0.0) individuals(0.0) with(0.0) autism(0.0) ;(0.0) it(0.0) affects(0.0) and(0.0) it(0.0) impacts(1.0) the(0.0) 
+entire(0.0) family(0.0) .(0.0) It(0.0) has(0.0) been(0.0) a(0.0) blessing(0.0) ,(0.0) I(0.0) believe(0.0) ,(0.0) for(0.0) the(0.0) Flick(1.0) family(0.0) to(0.0) have(0.0) children(0.0) with(0.0) 
+autism(0.0) because(0.0) it(0.0) has(0.0) made(0.0) them(0.0) more(0.0) aware(0.0) of(0.0) God(0.0) 's(0.0) many(0.0) blessings(0.0) upon(0.0) them(0.0) and(0.0) makes(0.0) them(0.0) cherish(0.0) life(0.0) 
+all(0.0) the(0.0) more(0.0) .(0.0) I(0.0) think(0.0) that(0.0) this(0.0) clause(1.0) in(0.0) this(0.0) resolution(1.0) of(0.0) the(0.0) gentleman(0.0) from(0.0) Massachusetts(1.0) is(0.0) very(0.0) poignant(0.0) 
+because(0.0) it(0.0) recognizes(0.0) and(0.0) commends(1.0) the(0.0) parents(0.0) and(0.0) the(0.0) relatives(0.0) of(0.0) children(0.0) with(0.0) autism(0.0) because(0.0) they(0.0) deserve(1.0) a(0.0) very(0.0) 
+
+
+----- below are rationale words -----
+
+Indiana	Burton	
+Massachusetts	Tierney	
+Ms.	Ros-Lehtinen	Ms.	ROS-LEHTINEN	Speaker	
+Massachusetts	resolution	
+increasing	
+programs	increased	treatment	
+
+commends	sacrifice	
+autism	financial	costs	education	
+
+
+
+Flick	Plumer	Flick	
+
+autism	
+
+
+
+
+Flick	
+impacts	
+Flick	
+
+clause	resolution	Massachusetts	
+commends	deserve	
+
+reads % = 0.066

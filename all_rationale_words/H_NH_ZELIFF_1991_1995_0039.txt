@@ -1,0 +1,12 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) would(0.0) like(0.0) to(0.0) thank(0.0) the(0.0) gentlewoman(0.0) from(0.0) Illinois(1.0) for(0.0) her(0.0) comments(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) would(0.0) like(0.0) 
+to(0.0) join(0.0) in(0.0) a(0.0) colloquy(0.0) with(0.0) the(0.0) gentleman(0.0) from(0.0) West(0.0) Virginia(0.0) [(0.0) Mr(0.0) .(1.0) Wise(1.0) ](0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Illinois	Chairman	
+.	Wise	
+
+reads % = 0.10526315789473684

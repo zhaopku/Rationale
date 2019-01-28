@@ -1,0 +1,32 @@
+This is from a Democrat
+----- below is the original text -----
+This(0.0) is(0.0) important(0.0) across(0.0) the(0.0) country(1.0) .(0.0) The(0.0) jobs(1.0) that(0.0) Mr.(0.0) Loebsack(1.0) is(0.0) talking(0.0) about(0.0) losing(0.0) would(1.0) not(0.0) have(0.0) been(0.0) lost(0.0) 
+if(0.0) the(0.0) Air(1.0) Force(1.0) had(0.0) considered(0.0) the(0.0) fact(0.0) that(0.0) these(0.0) companies(1.0) are(0.0) receiving(0.0) these(0.0) illegal(1.0) subsidies(1.0) .(0.0) And(0.0) it(0.0) 's(0.0) 
+not(0.0) just(0.0) we(0.0) three(0.0) Congressmen(1.0) talking(1.0) about(0.0) it(0.0) ,(0.0) it(0.0) is(0.0) the(0.0) executive(1.0) branch(0.0) of(0.0) the(0.0) United(0.0) States(0.0) ,(0.0) which(0.0) 
+has(0.0) fully(0.0) evaluated(0.0) this(0.0) and(0.0) come(0.0) to(0.0) the(0.0) conclusion(1.0) these(0.0) were(0.0) illegal(1.0) subsidies(1.0) .(0.0) These(0.0) were(0.0) not(0.0) just(0.0) small(0.0) .(0.0) 
+They(0.0) received(0.0) $(0.0) 1.7(0.0) billion(0.0) in(0.0) launch(1.0) aid(0.0) to(0.0) develop(0.0) the(0.0) new(1.0) A-350(1.0) .(0.0) They(0.0) received(0.0) $(0.0) 3.7(0.0) billion(1.0) in(0.0) 
+launch(0.0) aid(0.0) for(0.0) the(0.0) A-380(1.0) .(0.0) That(0.0) is(0.0) why(0.0) our(0.0) U.S.(0.0) Trade(0.0) Representative(1.0) has(0.0) started(0.0) this(0.0) enforcement(0.0) action(0.0) ,(0.0) blown(0.0) 
+the(0.0) whistle(0.0) on(0.0) these(0.0) illegal(1.0) subsidies(1.0) .(0.0) Frankly(1.0) ,(0.0) it(0.0) has(0.0) been(0.0) years(0.0) later(0.0) than(0.0) it(0.0) should(0.0) have(0.0) been(0.0) .(0.0) 
+But(0.0) we(1.0) have(0.0) finally(0.0) done(0.0) it(0.0) .(0.0) It(0.0) 's(0.0) one(0.0) of(0.0) these(0.0) great(0.0) sort(1.0) of(0.0) black(1.0) comedies(1.0) to(0.0) think(1.0) in(0.0) 
+the(0.0) year(0.0) period(0.0) when(0.0) we(0.0) finally(0.0) blew(0.0) the(0.0) whistle(0.0) after(0.0) all(0.0) of(0.0) these(0.0) years(0.0) of(0.0) abuse(1.0) of(0.0) these(0.0) illegal(1.0) subsidies(1.0) 
+that(0.0) disadvantage(1.0) American(0.0) workers(1.0) ,(0.0) that(0.0) that(0.0) same(1.0) year(0.0) the(0.0) Air(1.0) Force(0.0) ends(1.0) up(0.0) giving(0.0) a(0.0) contract(0.0) for(0.0) $(0.0) 40(0.0) 
+billion(1.0) .(0.0) These(0.0) subsidies(1.0) are(0.0) not(1.0) just(0.0) an(0.0) issue(0.0) of(0.0) dollars(0.0) ,(0.0) they(0.0) are(0.0) jobs(1.0) in(0.0) Iowa(1.0) as(0.0) well(0.0) .(0.0) 
+I(0.0) want(1.0) to(0.0) thank(0.0) Mr.(0.0) Loebsack(1.0) .(1.0) I(0.0) would(1.0) like(0.0) to(0.0) yield(0.0) to(0.0) Mr.(0.0) Tiahrt(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+country	jobs	Loebsack	would	
+Air	Force	companies	illegal	subsidies	
+Congressmen	talking	executive	
+conclusion	illegal	subsidies	
+launch	new	A-350	billion	
+A-380	Representative	
+illegal	subsidies	Frankly	
+we	sort	black	comedies	think	
+abuse	illegal	subsidies	
+disadvantage	workers	same	Air	ends	
+billion	subsidies	not	jobs	Iowa	
+want	Loebsack	.	would	Tiahrt	
+
+reads % = 0.19831223628691982

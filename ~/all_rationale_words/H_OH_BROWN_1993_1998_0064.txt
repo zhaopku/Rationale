@@ -1,0 +1,22 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) 9(0.0) months(1.0) ago(0.0) the(0.0) President(1.0) and(0.0) House(0.0) Democrats(1.0) laid(0.0) out(1.0) an(0.0) education(1.0) agenda(0.0) for(0.0) the(0.0) 21st(1.0) century(1.0) .(0.0) The(0.0) 
+American(0.0) people(0.0) are(0.0) still(0.0) waiting(0.0) for(0.0) Congress(0.0) to(0.0) act(0.0) .(0.0) Democrats(1.0) want(1.0) to(0.0) help(0.0) local(0.0) governments(1.0) modernize(1.0) schools(1.0) and(0.0) help(0.0) 
+build(0.0) and(0.0) renovate(0.0) 5,000(0.0) schools(1.0) .(0.0) The(0.0) American(0.0) people(0.0) are(0.0) still(0.0) waiting(0.0) for(0.0) Congress(0.0) to(0.0) act(0.0) .(0.0) The(0.0) Democrats(1.0) in(0.0) 
+Congress(0.0) ,(0.0) the(0.0) Democratic(1.0) initiative(1.0) wants(0.0) to(0.0) see(0.0) smaller(1.0) classrooms(1.0) and(0.0) more(0.0) teachers(0.0) .(0.0) Yet(1.0) the(0.0) American(0.0) people(0.0) are(0.0) still(0.0) 
+waiting(0.0) for(0.0) Congress(0.0) to(0.0) act(0.0) .(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) what(1.0) is(0.0) more(0.0) important(0.0) than(0.0) education(1.0) ?(0.0) What(0.0) is(0.0) more(0.0) important(0.0) 
+than(0.0) smaller(1.0) classrooms(1.0) ?(0.0) What(0.0) is(0.0) more(0.0) important(0.0) than(0.0) more(0.0) teachers(1.0) teaching(0.0) our(0.0) children(0.0) ?(0.0) Unfortunately(0.0) ,(0.0) Mr.(0.0) Speaker(1.0) ,(0.0) 
+the(0.0) American(0.0) people(0.0) are(0.0) still(0.0) waiting(0.0) for(0.0) Congress(0.0) to(0.0) act(0.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+months	President	Democrats	out	education	21st	century	
+Democrats	want	governments	modernize	schools	
+schools	Democrats	
+Democratic	initiative	smaller	classrooms	Yet	
+Speaker	what	education	
+smaller	classrooms	teachers	Speaker	
+
+
+reads % = 0.19696969696969696

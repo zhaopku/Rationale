@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(0.0) ,(0.0) I(0.0) rise(0.0) today(0.0) in(0.0) opposition(1.0) to(0.0) the(0.0) amendment(1.0) offered(0.0) by(0.0) Representative(1.0) Kennedy(1.0) .(0.0) Our(0.0) nation(1.0) is(0.0) a(0.0) war(0.0) against(0.0) 
+terrorism(1.0) ;(0.0) our(0.0) military(1.0) is(0.0) deployed(0.0) across(0.0) the(0.0) globe(0.0) in(0.0) 139(0.0) different(0.0) countries(0.0) with(0.0) close(0.0) to(0.0) 160,000(0.0) fighting(1.0) in(0.0) Iraq(1.0) 
+as(0.0) part(0.0) of(0.0) Operation(1.0) Iraqi(0.0) Freedom(0.0) .(0.0) Simultaneously(0.0) ,(0.0) the(0.0) Department(0.0) of(0.0) Defense(0.0) is(0.0) contemplating(0.0) some(0.0) of(0.0) the(0.0) most(0.0) significant(0.0) 
+changes(0.0) to(0.0) its(0.0) force(0.0) and(0.0) overseas(0.0) posture(0.0) since(0.0) World(0.0) War(0.0) II(0.0) .(0.0) Now(0.0) is(0.0) not(0.0) the(0.0) time(0.0) to(0.0) rush(0.0) to(0.0) 
+close(0.0) our(0.0) military(1.0) bases(0.0) .(0.0) The(0.0) responsible(0.0) approach(0.0) to(0.0) base(0.0) closing(0.0) would(0.0) be(0.0) to(0.0) delay(0.0) the(0.0) next(0.0) round(0.0) of(0.0) BRAC(1.0) 
+until(0.0) 2007(0.0) .(0.0) By(0.0) moving(0.0) forward(0.0) before(0.0) resolving(0.0) major(0.0) infrastructure(1.0) issues(0.0) ,(0.0) a(0.0) 2005(0.0) BRAC(1.0) decision(0.0) would(0.0) increase(1.0) a(0.0) significant(0.0) 
+level(0.0) of(0.0) risk(0.0) that(0.0) DOD(1.0) will(0.0) close(0.0) a(0.0) base(0.0) only(0.0) to(0.0) discover(0.0) that(0.0) it(0.0) needs(0.0) that(0.0) same(0.0) base(0.0) just(0.0) a(0.0) 
+few(0.0) years(0.0) later(0.0) .(0.0) Once(0.0) a(0.0) base(0.0) is(0.0) closed(0.0) ,(0.0) it(0.0) 's(0.0) gone(0.0) forever(0.0) .(0.0) The(0.0) language(0.0) as(0.0) it(0.0) stands(0.0) 
+now(0.0) would(0.0) not(0.0) eliminate(0.0) BRAC(1.0) .(0.0) Rather(0.0) ,(0.0) it(0.0) reflects(0.0) widespread(1.0) bipartisan(1.0) concern(1.0) that(0.0) DOD(1.0) should(0.0) close(0.0) no(0.0) bases(0.0) until(0.0) 
+several(0.0) issues(0.0) effecting(0.0) base(0.0) infrastructure(1.0) requirements(0.0) have(0.0) been(0.0) resolved(0.0) and(0.0) reviewed(0.0) by(0.0) Congress(0.0) .(0.0) During(0.0) my(0.0) time(0.0) in(0.0) Congress(0.0) I(0.0) 
+have(0.0) been(0.0) focused(0.0) on(0.0) preparing(0.0) Louisiana(1.0) for(0.0) BRAC(1.0) ,(0.0) and(0.0) have(0.0) helped(0.0) secure(0.0) more(0.0) than(0.0) $(0.0) 76(0.0) million(0.0) for(0.0) Belle(0.0) 
+Chasse(1.0) in(0.0) New(1.0) Orleans(1.0) .(0.0) As(0.0) a(0.0) member(0.0) of(0.0) the(0.0) Military(0.0) Construction(0.0) Appropriations(0.0) Subcommittee(0.0) I(0.0) vigorously(0.0) worked(0.0) to(0.0) secure(0.0) $(0.0) 
+160(0.0) million(0.0) more(0.0) for(0.0) infrastructure(1.0) improvement(0.0) to(0.0) protect(0.0) both(0.0) Fort(1.0) Polk(0.0) and(0.0) Barksdale(1.0) Air(0.0) Force(0.0) Base(0.0) .(0.0) I(0.0) can(0.0) not(0.0) 
+underscore(0.0) the(0.0) importance(0.0) of(0.0) delaying(1.0) the(0.0) next(0.0) round(0.0) of(0.0) BRAC(1.0) .(0.0) A(0.0) 2-year(0.0) delay(0.0) will(0.0) greatly(0.0) reduce(0.0) the(0.0) risk(0.0) of(0.0) 
+making(0.0) an(0.0) irreversible(1.0) mistake(0.0) in(0.0) the(0.0) BRAC(1.0) process(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) strongly(0.0) urge(0.0) a(0.0) ``(0.0) no(0.0) ''(0.0) vote(1.0) 
+on(0.0) the(0.0) Kennedy(1.0) Amendment(1.0) to(0.0) H.R(0.0) .(0.0) 4200(0.0) .(0.0) Ms.(0.0) JACKSON-LEE(0.0) of(0.0) Texas(0.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) I(0.0) must(0.0) rise(0.0) 
+to(0.0) oppose(1.0) this(0.0) amendment(1.0) .(0.0) We(0.0) are(0.0) now(0.0) increasing(1.0) the(0.0) number(0.0) of(0.0) troops(0.0) because(0.0) the(0.0) U.S.(0.0) military(0.0) is(0.0) stretched(0.0) too(0.0) 
+thin(0.0) to(0.0) meet(0.0) its(0.0) ongoing(0.0) military(1.0) commitments(0.0) .(0.0) In(0.0) recognition(0.0) of(0.0) this(0.0) fact(0.0) ,(0.0) H.R(0.0) .(0.0) 4200(0.0) authorizes(0.0) the(0.0) DOD(0.0) 
+to(0.0) increase(0.0) military(0.0) end-strength(0.0) by(0.0) 39,000(0.0) .(0.0) In(0.0) addition(0.0) ,(0.0) the(0.0) DOD(1.0) recently(0.0) announced(0.0) that(0.0) it(0.0) is(0.0) considering(0.0) rotating(0.0) 3,800(0.0) 
+troops(1.0) from(0.0) South(1.0) Korea(0.0) to(0.0) augment(0.0) the(0.0) U.S.(0.0) forces(0.0) in(0.0) Iraq(1.0) .(0.0) DOD(0.0) 's(0.0) estimate(0.0) of(0.0) the(0.0) level(0.0) of(0.0) excess(0.0) 
+capacity(0.0) that(0.0) exists(0.0) in(0.0) military(0.0) infrastructure(1.0) was(0.0) determined(0.0) in(0.0) 1998(0.0) by(0.0) then(0.0) Defense(0.0) Secretary(1.0) Bill(1.0) Cohen(1.0) .(0.0) Many(0.0) significant(0.0) events(0.0) 
+that(0.0) have(0.0) occurred(0.0) since(0.0) 1998(0.0) ,(0.0) i.e(0.0) .(0.0) September(0.0) 11(0.0) ,(0.0) 2001(0.0) ,(0.0) the(0.0) global(1.0) war(1.0) on(0.0) terrorism(1.0) ,(0.0) and(0.0) 
+military(0.0) operations(0.0) in(0.0) Afghanistan(1.0) ,(0.0) Iraq(1.0) and(0.0) Haiti(0.0) .(0.0) In(0.0) pursuing(1.0) the(0.0) 2005(0.0) BRAC(1.0) ,(0.0) the(0.0) DOD(1.0) fails(0.0) to(0.0) recognize(0.0) 
+the(0.0) profound(0.0) impact(0.0) that(0.0) these(0.0) events(0.0) are(0.0) having(0.0) upon(0.0) the(0.0) United(0.0) States(0.0) military(0.0) 's(0.0) ability(0.0) to(0.0) fulfill(0.0) its(0.0) national(1.0) security(0.0) 
+obligations(0.0) .(0.0) Under(0.0) Secretary(0.0) of(0.0) Defense(0.0) for(0.0) Installations(0.0) and(0.0) Facilities(0.0) Raymond(0.0) DuBois(1.0) has(0.0) stated(0.0) that(0.0) the(0.0) 2005(0.0) BRAC(0.0) will(0.0) 
+
+
+----- below are rationale words -----
+
+opposition	amendment	Representative	Kennedy	nation	
+terrorism	military	fighting	Iraq	
+Operation	
+
+military	BRAC	
+infrastructure	BRAC	increase	
+DOD	
+
+BRAC	widespread	bipartisan	concern	DOD	
+infrastructure	
+Louisiana	BRAC	
+Chasse	New	Orleans	
+infrastructure	Fort	Barksdale	
+delaying	BRAC	
+irreversible	BRAC	Chairman	vote	
+Kennedy	Amendment	Chairman	
+oppose	amendment	increasing	
+military	
+DOD	
+troops	South	Iraq	
+infrastructure	Secretary	Bill	Cohen	
+global	war	terrorism	
+Afghanistan	Iraq	pursuing	BRAC	DOD	
+national	
+DuBois	
+
+reads % = 0.122

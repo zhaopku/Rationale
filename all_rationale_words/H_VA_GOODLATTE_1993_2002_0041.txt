@@ -1,0 +1,58 @@
+This is from a Republican
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) the(0.0) gentleman(0.0) from(0.0) California(0.0) ((0.0) Mr.(0.0) Thomas(1.0) )(0.0) for(1.0) his(0.0) good(0.0) work(0.0) .(0.0) I(0.0) rise(0.0) in(0.0) strong(0.0) 
+opposition(1.0) to(0.0) this(0.0) substitute(1.0) and(0.0) in(0.0) strong(0.0) support(0.0) of(0.0) the(0.0) bill(1.0) .(0.0) In(0.0) 1995(1.0) ,(0.0) this(0.0) is(0.0) what(0.0) the(0.0) current(0.0) 
+Democratic(1.0) whip(0.0) said(0.0) about(0.0) welfare(1.0) reform(1.0) :(0.0) ``(0.0) I(0.0) hope(0.0) children(0.0) throughout(0.0) this(0.0) country(1.0) never(0.0) have(0.0) to(0.0) feel(0.0) the(0.0) pain(0.0) 
+of(0.0) this(0.0) legislation(1.0) .(0.0) I(0.0) hope(0.0) it(0.0) does(0.0) not(0.0) pass(0.0) .(0.0) ''(0.0) It(0.0) did(0.0) pass(0.0) .(0.0) It(0.0) was(0.0) signed(0.0) into(0.0) 
+law(1.0) by(0.0) President(0.0) Clinton(1.0) .(0.0) Here(0.0) is(0.0) what(0.0) happened(0.0) .(0.0) Children(0.0) in(0.0) hunger(1.0) went(0.0) down(0.0) from(0.0) 4.5(0.0) million(1.0) to(0.0) 2.5(1.0) 
+million(1.0) since(0.0) that(0.0) time(0.0) .(0.0) Black(1.0) children(0.0) in(0.0) poverty(1.0) went(0.0) from(0.0) 42(0.0) percent(0.0) .(0.0) Of(0.0) all(0.0) black(1.0) children(0.0) in(0.0) 1970(1.0) 
+,(0.0) rose(0.0) ,(0.0) rose(0.0) to(0.0) nearly(0.0) 50(0.0) percent(0.0) ,(0.0) and(0.0) then(0.0) when(0.0) this(0.0) bill(1.0) was(0.0) put(0.0) into(0.0) effect(0.0) in(0.0) 1995(1.0) 
+,(0.0) dropped(0.0) to(0.0) about(0.0) one-third(1.0) of(0.0) all(0.0) children(0.0) ,(0.0) black(1.0) children(0.0) .(0.0) Welfare(1.0) caseloads(1.0) dropped(0.0) precipitously(0.0) from(0.0) 12(0.0) million(0.0) to(0.0) 
+about(0.0) 6(0.0) million(0.0) .(0.0) Welfare(1.0) reform(1.0) works(0.0) :(0.0) 4.2(0.0) fewer(0.0) million(1.0) Americans(1.0) today(0.0) live(0.0) in(0.0) poverty(1.0) than(0.0) in(0.0) 1996(1.0) ;(0.0) 
+2.3(0.0) million(1.0) fewer(1.0) children(1.0) live(0.0) in(0.0) poverty(1.0) today(0.0) than(0.0) in(0.0) 1996(1.0) ,(0.0) including(0.0) 1.1(0.0) million(0.0) African(1.0) American(0.0) children(0.0) .(0.0) Build(0.0) 
+on(0.0) that(0.0) success(0.0) by(0.0) passing(0.0) this(0.0) bill(1.0) which(0.0) promotes(1.0) work(0.0) ,(0.0) improves(0.0) a(0.0) child(0.0) 's(0.0) well-being(1.0) and(0.0) promotes(1.0) healthy(0.0) marriages(1.0) 
+and(0.0) all(0.0) families(0.0) .(0.0) This(0.0) is(0.0) a(0.0) good(0.0) bill(1.0) .(0.0) Support(0.0) it(0.0) .(0.0) This(0.0) welfare(1.0) reform(1.0) bill(1.0) includes(1.0) provisions(1.0) for(0.0) 
+additional(0.0) state(1.0) flexibility(0.0) so(0.0) that(0.0) Governors(0.0) may(0.0) coordinate(0.0) welfare(1.0) programs(1.0) .(0.0) The(0.0) food(1.0) stamp(0.0) program(1.0) is(0.0) one(0.0) of(0.0) the(0.0) qualified(0.0) 
+programs(0.0) under(0.0) this(0.0) state(1.0) flexibility(0.0) provision(1.0) ,(0.0) which(0.0) will(0.0) allow(0.0) the(0.0) Secretary(1.0) of(0.0) Agriculture(0.0) to(0.0) waive(0.0) portions(0.0) of(0.0) the(0.0) Food(0.0) 
+Stamp(0.0) Act(0.0) as(0.0) long(0.0) as(0.0) she(0.0) maintains(0.0) that(0.0) all(0.0) benefits(1.0) are(0.0) used(0.0) for(0.0) food(1.0) ,(0.0) as(0.0) in(0.0) the(0.0) current(0.0) food(1.0) 
+stamp(0.0) program(1.0) .(0.0) To(0.0) ensure(0.0) the(0.0) integrity(0.0) of(0.0) the(0.0) program(0.0) states(0.0) must(0.0) also(0.0) complete(0.0) quality(0.0) control(0.0) reviews(0.0) and(0.0) can(0.0) not(0.0) 
+expand(0.0) the(0.0) food(1.0) stamp(0.0) program(1.0) eligibility(1.0) standards(0.0) .(0.0) Additionally(0.0) ,(0.0) the(0.0) Secretary(1.0) of(0.0) Agriculture(0.0) will(0.0) be(0.0) allowed(0.0) to(0.0) approve(0.0) 5-year(0.0) 
+block(0.0) grant(0.0) demonstration(0.0) projects(0.0) for(0.0) up(0.0) to(0.0) 5(0.0) states(0.0) .(0.0) The(0.0) block(0.0) grant(0.0) will(0.0) promote(0.0) a(0.0) competition(0.0) for(0.0) excellence(0.0) among(0.0) 
+states(0.0) .(0.0) Eligible(0.0) state(0.0) plans(0.0) must(0.0) include(0.0) a(0.0) description(0.0) of(0.0) the(0.0) eligibility(0.0) rules(0.0) to(0.0) which(0.0) a(0.0) State(0.0) would(0.0) adhere(0.0) when(0.0) 
+providing(0.0) assistance(0.0) .(0.0) The(0.0) competition(0.0) among(0.0) states(1.0) would(0.0) boil(0.0) down(0.0) to(0.0) the(0.0) selection(0.0) of(0.0) states(1.0) with(0.0) innovative(0.0) management(0.0) plans(0.0) ,(0.0) 
+quality(0.0) of(0.0) program(1.0) proposals(1.0) and(0.0) maximizing(0.0) benefits(1.0) to(0.0) people(0.0) in(0.0) need(0.0) .(0.0) As(0.0) in(0.0) the(0.0) food(1.0) stamp(0.0) state(1.0) flexibility(0.0) portion(0.0) 
+of(0.0) this(0.0) bill(1.0) ,(0.0) states(1.0) must(0.0) retain(0.0) the(0.0) current(0.0) law(1.0) that(0.0) mandates(1.0) that(0.0) all(0.0) benefits(1.0) must(0.0) be(0.0) used(0.0) for(0.0) food(1.0) 
+.(0.0) The(0.0) temporary(1.0) assistance(0.0) for(0.0) needy(1.0) families(0.0) ((0.0) TANF(1.0) )(0.0) program(1.0) has(0.0) shown(0.0) that(0.0) block(0.0) grants(1.0) work(0.0) .(0.0) Critics(0.0) '(0.0) 
+assumed(0.0) that(0.0) the(0.0) states(1.0) cared(0.0) less(0.0) than(0.0) people(0.0) in(0.0) Washington(1.0) .(0.0) States(0.0) have(0.0) proven(0.0) the(0.0) critics(1.0) wrong(0.0) with(0.0) regard(0.0) to(0.0) 
+their(0.0) successful(0.0) implementation(0.0) of(0.0) this(0.0) program(1.0) .(0.0) The(0.0) American(0.0) Public(0.0) Human(0.0) Service(0.0) Association(0.0) has(0.0) testified(0.0) that(0.0) the(0.0) continued(0.0) state(0.0) 
+
+
+----- below are rationale words -----
+
+Thomas	for	
+opposition	substitute	bill	1995	
+Democratic	welfare	reform	country	
+legislation	
+law	Clinton	hunger	million	2.5	
+million	Black	poverty	black	1970	
+bill	1995	
+one-third	black	Welfare	caseloads	
+Welfare	reform	million	Americans	poverty	1996	
+million	fewer	children	poverty	1996	African	
+bill	promotes	well-being	promotes	marriages	
+bill	welfare	reform	bill	includes	provisions	
+state	welfare	programs	food	program	
+state	provision	Secretary	
+benefits	food	food	
+program	
+food	program	eligibility	Secretary	
+
+
+states	states	
+program	proposals	benefits	food	state	
+bill	states	law	mandates	benefits	food	
+temporary	needy	TANF	program	grants	
+states	Washington	critics	
+program	
+
+reads % = 0.176

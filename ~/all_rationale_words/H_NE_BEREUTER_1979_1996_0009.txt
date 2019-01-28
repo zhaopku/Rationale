@@ -1,0 +1,28 @@
+This is from a Republican
+----- below is the original text -----
+Chairman(1.0) ,(0.0) this(0.0) Member(0.0) rises(1.0) today(0.0) in(0.0) opposition(1.0) to(0.0) the(0.0) amendment(1.0) by(0.0) the(0.0) gentlewoman(0.0) from(0.0) New(0.0) York(0.0) [(0.0) Mrs.(1.0) Lowey(1.0) ](0.0) 
+that(0.0) would(1.0) strike(0.0) the(0.0) language(0.0) in(0.0) the(0.0) bill(0.0) that(0.0) clarifies(1.0) the(0.0) congressional(1.0) intent(1.0) regarding(0.0) the(0.0) interpretation(0.0) of(0.0) the(0.0) Hyde(1.0) amendment(1.0) 
+.(0.0) This(0.0) Member(0.0) was(0.0) one(0.0) of(0.0) the(0.0) first(0.0) Members(0.0) of(0.0) Congress(0.0) to(0.0) speak(0.0) against(0.0) the(0.0) 1993(0.0) Clinton(1.0) administration(0.0) directive(1.0) that(0.0) 
+required(0.0) States(0.0) to(0.0) fund(1.0) Medicaid(1.0) abortions(0.0) in(0.0) cases(1.0) of(0.0) rape(1.0) or(1.0) incest(0.0) .(0.0) This(0.0) directive(1.0) is(0.0) an(0.0) unjustified(1.0) and(0.0) incorrect(0.0) 
+interpretation(0.0) of(0.0) the(0.0) law(1.0) and(0.0) of(0.0) congressional(1.0) intent(1.0) .(0.0) It(0.0) is(0.0) certainly(0.0) not(1.0) the(0.0) intent(1.0) of(0.0) Congress(0.0) to(0.0) mandate(1.0) States(0.0) 
+to(0.0) fund(1.0) Medicaid(1.0) abortions(0.0) in(0.0) the(0.0) case(0.0) of(0.0) rape(1.0) or(1.0) incest(1.0) ,(0.0) regardless(1.0) of(0.0) State(1.0) law(1.0) .(0.0) The(0.0) 1993(0.0) Hyde(1.0) 
+amendment(1.0) to(0.0) public(0.0) law(1.0) is(0.0) clearly(1.0) not(0.0) a(0.0) mandate(1.0) ,(0.0) but(0.0) an(0.0) enlargement(1.0) on(0.0) the(0.0) limitation(0.0) on(0.0) the(0.0) use(1.0) of(0.0) 
+Federal(1.0) funds(1.0) ,(0.0) allowing(1.0) States(0.0) to(0.0) use(0.0) Medicaid(1.0) funds(0.0) to(0.0) finance(1.0) abortions(1.0) in(0.0) the(0.0) case(0.0) of(0.0) rape(1.0) or(1.0) incest(1.0) and(0.0) 
+of(0.0) course(0.0) to(0.0) save(0.0) the(0.0) life(0.0) on(0.0) an(0.0) indigent(1.0) mother(0.0) .(0.0) The(0.0) language(0.0) in(0.0) the(0.0) bill(0.0) we(0.0) are(0.0) considering(1.0) today(0.0) 
+,(0.0) once(1.0) and(0.0) for(0.0) all(0.0) ,(0.0) clarifies(1.0) the(0.0) original(0.0) congressional(1.0) intent(1.0) in(0.0) statute(1.0) .(0.0) Mr.(0.0) Chairman(1.0) ,(0.0) this(0.0) Member(0.0) urges(1.0) 
+his(0.0) colleagues(1.0) to(0.0) oppose(1.0) the(0.0) Lowey(1.0) amendment(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+rises	opposition	amendment	Mrs.	Lowey	
+would	clarifies	congressional	intent	Hyde	amendment	
+Clinton	directive	
+fund	Medicaid	cases	rape	or	directive	unjustified	
+law	congressional	intent	not	intent	mandate	
+fund	Medicaid	rape	or	incest	regardless	State	law	Hyde	
+amendment	law	clearly	mandate	enlargement	use	
+Federal	funds	allowing	Medicaid	finance	abortions	rape	or	incest	
+indigent	considering	
+once	clarifies	congressional	intent	statute	Chairman	urges	
+colleagues	oppose	Lowey	amendment	reads % = 0.3014354066985646

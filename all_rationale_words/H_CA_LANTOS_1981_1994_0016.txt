@@ -1,0 +1,12 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) yield(0.0) such(0.0) time(0.0) as(0.0) she(0.0) may(0.0) consume(0.0) to(0.0) the(0.0) distinguished(0.0) gentlewoman(0.0) from(0.0) Connecticut(0.0) [(0.0) Mrs.(1.0) Kennelly(1.0) ](0.0) .(0.0) 
+((0.0) Mrs.(1.0) KENNELLY(1.0) asked(0.0) as(0.0) was(0.0) given(0.0) permission(0.0) to(0.0) revise(0.0) and(0.0) extend(0.0) her(0.0) remarks(0.0) .(0.0) )(0.0) 
+
+
+----- below are rationale words -----
+
+Mrs.	Kennelly	
+Mrs.	KENNELLY	
+
+reads % = 0.10810810810810811

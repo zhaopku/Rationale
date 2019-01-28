@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) ask(1.0) unanimous(0.0) consent(0.0) that(0.0) the(0.0) ordering(0.0) of(0.0) the(0.0) yeas(0.0) and(0.0) nays(0.0) on(0.0) the(0.0) motion(0.0) that(0.0) the(0.0) House(0.0) suspend(0.0) 
+the(0.0) rules(1.0) and(0.0) pass(1.0) the(0.0) bill(0.0) ((0.0) H.R(0.0) .(0.0) 4158(1.0) )(0.0) to(0.0) confirm(0.0) full(0.0) ownership(1.0) rights(0.0) for(0.0) certain(1.0) United(0.0) States(0.0) 
+astronauts(1.0) to(0.0) artifacts(0.0) from(0.0) the(0.0) astronauts(1.0) '(0.0) space(0.0) missions(1.0) ,(0.0) be(0.0) vacated(1.0) ,(0.0) to(0.0) the(0.0) end(0.0) that(0.0) the(0.0) Chair(1.0) put(0.0) 
+the(0.0) question(1.0) de(1.0) novo(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+ask	
+rules	pass	4158	ownership	certain	
+astronauts	astronauts	missions	vacated	Chair	
+question	de	novo	
+
+reads % = 0.21212121212121213

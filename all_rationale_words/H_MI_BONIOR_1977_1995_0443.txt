@@ -1,0 +1,16 @@
+This is from a Democrat
+----- below is the original text -----
+Speaker(0.0) ,(0.0) I(0.0) thank(0.0) my(0.0) friend(0.0) for(0.0) his(0.0) observations(0.0) and(0.0) comments(0.0) .(0.0) Speaker(0.0) ,(0.0) I(0.0) ,(0.0) on(0.0) behalf(0.0) of(0.0) the(0.0) Democrat(1.0) 
+leaders(0.0) ,(0.0) am(0.0) pleased(0.0) to(0.0) announce(0.0) that(0.0) the(0.0) official(0.0) objectors(1.0) for(0.0) the(0.0) private(0.0) calendar(0.0) for(0.0) the(0.0) minority(1.0) side(0.0) for(0.0) the(0.0) 
+104th(0.0) Congress(0.0) are(0.0) as(0.0) follows(0.0) :(0.0) Mr.(0.0) Boucher(1.0) of(0.0) Virginia(0.0) ,(0.0) Mr.(0.0) Mfume(1.0) of(0.0) Maryland(0.0) ,(0.0) and(0.0) Ms.(1.0) DeLauro(1.0) of(0.0) 
+Connecticut(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+Democrat	
+objectors	minority	
+Boucher	Mfume	Ms.	DeLauro	
+Connecticut	
+
+reads % = 0.12698412698412698

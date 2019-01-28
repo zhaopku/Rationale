@@ -1,0 +1,28 @@
+This is from a Democrat
+----- below is the original text -----
+I(0.0) rise(0.0) in(0.0) strong(0.0) support(0.0) of(0.0) this(0.0) amendment(1.0) because(0.0) today(0.0) the(0.0) average(0.0) American(0.0) can(0.0) apply(0.0) for(0.0) a(0.0) credit(0.0) card(0.0) anywhere(0.0) ,(0.0) 
+at(0.0) a(0.0) grocery(0.0) store(0.0) ,(0.0) at(0.0) an(0.0) airport(0.0) ,(0.0) a(0.0) ballpark(0.0) ,(0.0) even(0.0) college(1.0) campuses(1.0) .(0.0) It(0.0) all(0.0) seems(0.0) so(0.0) 
+easy(0.0) .(0.0) Unfortunately(0.0) ,(0.0) the(0.0) terms(0.0) of(0.0) the(0.0) agreements(0.0) are(0.0) n't(0.0) so(0.0) easy(0.0) .(0.0) In(0.0) some(0.0) cases(0.0) ,(0.0) terms(0.0) have(0.0) 
+become(0.0) so(0.0) complicated(0.0) that(0.0) the(0.0) average(0.0) consumer(1.0) can(0.0) not(0.0) always(0.0) know(0.0) what(0.0) they(0.0) 've(0.0) gotten(0.0) themselves(0.0) into(0.0) .(0.0) Now(0.0) more(0.0) 
+than(0.0) ever(0.0) ,(0.0) Americans(1.0) are(0.0) turning(0.0) to(0.0) their(0.0) credit(0.0) cards(0.0) to(0.0) get(0.0) them(0.0) through(0.0) the(0.0) end(0.0) of(0.0) the(0.0) month(0.0) ,(0.0) 
+and(0.0) in(0.0) turn(0.0) ,(0.0) the(0.0) U.S.(0.0) credit(0.0) card(0.0) debt(1.0) has(0.0) reached(0.0) an(0.0) all-time(0.0) high(0.0) .(0.0) Meanwhile(0.0) ,(0.0) almost(0.0) half(0.0) of(0.0) 
+Americans(1.0) carry(0.0) a(0.0) balance(0.0) and(0.0) have(0.0) no(0.0) idea(0.0) how(0.0) long(0.0) it(0.0) 'll(0.0) take(0.0) to(0.0) pay(1.0) that(0.0) down(0.0) .(0.0) The(0.0) Credit(0.0) 
+Cardholders(0.0) '(0.0) Bill(0.0) of(0.0) Rights(1.0) will(0.0) protect(0.0) consumers(1.0) from(0.0) predatory(1.0) practices(1.0) ,(0.0) and(0.0) this(0.0) specific(0.0) amendment(1.0) will(0.0) give(0.0) them(0.0) the(0.0) 
+ability(0.0) to(0.0) pay(1.0) down(0.0) their(0.0) debts(1.0) .(0.0) I(0.0) urge(0.0) my(0.0) colleagues(0.0) to(0.0) vote(1.0) ``(0.0) yes(0.0) ''(0.0) on(0.0) this(0.0) amendment(1.0) and(0.0) 
+the(0.0) underlying(0.0) bill(1.0) .(0.0) 
+
+
+----- below are rationale words -----
+
+amendment	
+college	campuses	
+
+consumer	
+Americans	
+debt	
+Americans	pay	
+Rights	consumers	predatory	practices	amendment	
+pay	debts	vote	amendment	
+bill	
+
+reads % = 0.0972972972972973
