@@ -11,6 +11,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import csv
 from models.congress_data import CongressData
+from models.CourtData import CourtData
 
 class Train:
 	def __init__(self):
@@ -42,16 +43,19 @@ class Train:
 		dataArgs.add_argument('--summaryDir', type=str, default='summaries')
 		dataArgs.add_argument('--datasetName', type=str, default='dataset', help='a TextData object')
 
-		dataArgs.add_argument('--dataset', type=str, default='congress')
+		dataArgs.add_argument('--dataset', type=str, default='court')
 
 		dataArgs.add_argument('--dataDir', type=str, default='data', help='dataset directory, save pkl here')
+		dataArgs.add_argument('--vocabSize', type=int, default=100000, help='vocab size, use the most frequent words')
+
+		# for congress dataset
 		dataArgs.add_argument('--trainFile', type=str, default='train.txt')
 		dataArgs.add_argument('--valFile', type=str, default='val.txt')
 		dataArgs.add_argument('--testFile', type=str, default='test.txt')
 		dataArgs.add_argument('--embeddingFile', type=str, default='glove.840B.300d.txt')
-		dataArgs.add_argument('--vocabSize', type=int, default=-1, help='vocab size, use the most frequent words')
-
 		dataArgs.add_argument('--congress_dir', type=str, default='/Users/mengzhao/congress_data/gpo/H')
+
+		# for court dataset
 
 
 		# neural network options
@@ -120,6 +124,8 @@ class Train:
 				self.textData = TextData(self.args)
 			elif self.args.dataset == 'congress':
 				self.textData = CongressData(self.args)
+			elif self.args.dataset == 'court':
+				self.textData = CourtData(self.args)
 			else:
 				print('Cannot recognize {}'.format(self.args.dataset))
 				raise NotImplementedError

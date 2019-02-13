@@ -16,8 +16,8 @@ for theta in thetas:
 					if cnt == 0:
 						print('module load python_gpu/3.6.4 &&')
 						print('module load cuda/9.0.176 cudnn/7.3 &&')
-					print('bsub -W 48:00 -n 3 -R  "select[gpu_model1==GeForceGTX1080Ti] rusage[mem=4096,ngpus_excl_p=1]" python main.py --hiddenSize {}'
-					      ' --maxSteps 500 --dropOut {} --batchSize 20 --preEmbedding --learningRate {} --epochs 100 --theta {} --gamma {} &&'
+					print('bsub -W 24:00 -n 3 -R  "select[gpu_model1==GeForceGTX1080Ti] rusage[mem=4096,ngpus_excl_p=1]" python main.py --hiddenSize {}'
+					      ' --maxSteps 500 --vocabSize 50000 --dropOut {} --batchSize 20 --learningRate {} --epochs 100 --theta {} --gamma {} &&'
 					      .format(h, d, lr, theta, gamma))
 					cnt += 1
 					if cnt % 13 == 0:

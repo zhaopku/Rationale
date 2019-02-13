@@ -1,15 +1,15 @@
 class Sample:
-	def __init__(self):
+	def __init__(self, id=None, words=None, word_ids=None, length=None, label=None):
 		# id is file name
-		self.id = None
+		self.id = id
 
 		# padded
-		self.words = None
-		self.word_ids = []
+		self.words = words
+		self.word_ids = word_ids
 
 		# True length
-		self.length = -1
+		self.length = length
 
 		# republican of democrats
-		self.label = None
+		self.label = label
 
