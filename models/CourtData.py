@@ -107,6 +107,8 @@ class CourtData:
 
 					words = words[:self.args.maxSteps]
 					length = len(words)
+					if length == 0:
+						continue
 					cnt += length
 					for word in words:
 						if word in self.word2id.keys():

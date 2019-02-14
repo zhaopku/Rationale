@@ -90,6 +90,30 @@ class Train:
 
 		return parser.parse_args(args)
 
+	def statistics(self):
+		cnt = 0
+		for sample in tqdm(self.textData.train_samples, desc='stat, train'):
+			if sample.label == 0:
+				cnt += 1
+
+		print('label 0 in train {}'.format(cnt/len(self.textData.train_samples)))
+
+		cnt = 0
+		for sample in tqdm(self.textData.valid_samples, desc='stat, val'):
+			if sample.label == 0:
+				cnt += 1
+
+		print('label 0 in val {}'.format(cnt/len(self.textData.valid_samples)))
+
+		cnt = 0
+		for sample in tqdm(self.textData.test_samples, desc='stat, test'):
+			if sample.label == 0:
+				cnt += 1
+
+		print('label 0 in test {}'.format(cnt/len(self.textData.test_samples)))
+
+		exit(0)
+
 	def main(self, args=None):
 		print('TensorFlow version {}'.format(tf.VERSION))
 
@@ -185,7 +209,7 @@ class Train:
 				# self.sess.run(init)
 				print('Variables loaded from disk {}'.format(self.model_name))
 				if self.args.testModel:
-					self.test_model()
+					self.test_model_congress_words()
 					exit(0)
 			else:
 				init = tf.global_variables_initializer()
@@ -196,10 +220,10 @@ class Train:
 			self.train(self.sess)
 
 	def test_model_congress_words(self):
-		acc, total_loss, avg_read, all_masks, all_predictions, all_samples = self.test(self.sess, tag='train', mode='test', n_batches=50)
+		acc, total_loss, avg_read, all_masks, all_predictions, all_samples = self.test(self.sess, tag='train', mode='test', n_batches=-1)
 		test_samples = all_samples
 		print('acc = {}'.format(acc))
-		out_dir = 'all_rationale_words'
+		out_dir = 'all_rationale_words_court'
 		print('out_dir = {}'.format(out_dir))
 		if not os.path.exists(out_dir):
 			print('Creating Dir {}'.format(out_dir))
@@ -215,9 +239,11 @@ class Train:
 				masks = all_masks[idx]
 
 				if sample.label == 0:
-					file.write('This is from a Democrat\n')
+					# file.write('This is from a Democrat\n')
+					file.write('Appeal dismissed\n\n')
 				else:
-					file.write('This is from a Republican\n')
+					# file.write('This is from a Republican\n')
+					file.write('Appeal granted\n\n')
 
 				file.write('----- below is the original text -----\n')
 				print(sample.id)
@@ -233,6 +259,10 @@ class Train:
 					if masks[i] == 1.0 and i != 0:
 						file.write('{}\t'.format(word))
 						cnt += 1
+
+					if masks[i] < 1.0 and i >= 1 and masks[i-1] == 1.0:
+						file.write('\t<SEP>\t')
+
 					if i % 20 == 0:
 						file.write('\n')
 				file.write('\n\nreads % = ')
@@ -301,7 +331,7 @@ class Train:
 		:return:
 		"""
 		for e in range(self.args.epochs):
-			trainBatches = self.textData.train_batches
+			trainBatches = self.textData.train_batches[493]
 
 			for idx, nextBatch in enumerate(tqdm(trainBatches)):
 				self.model.step(nextBatch, test=True, eager=self.args.eager)
@@ -322,7 +352,7 @@ class Train:
 		for e in range(self.args.epochs):
 			# training
 			trainBatches = self.textData.get_batches(tag='train')
-			#trainBatches = self.textData.train_batches
+			# trainBatches = self.textData.train_batches
 			totalTrainLoss = 0.0
 
 			# cnt of batches
@@ -336,7 +366,7 @@ class Train:
 
 			all_masks = []
 			for idx, nextBatch in enumerate(tqdm(trainBatches)):
-
+				# print(idx)
 				cnt += 1
 				self.globalStep += 1
 				total_samples += nextBatch.batch_size
